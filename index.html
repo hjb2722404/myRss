@@ -10,7 +10,226 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
   <link href="index.css" rel="stylesheet" />
-  <!-- %before-head-end.html% -->
+  <style>
+    :root {
+        /**
+   * Palette
+   * Gruvbox dark, medium
+   * Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+   */
+        --base00: #ffffff;
+        /* ---- */
+        --base01: #4c3f32;
+        /* --- */
+        --base02: #504945;
+        /* -- */
+        --base03: #665c54;
+        /* - */
+        --base04: #406ABA;
+        /* + */
+        --base05: #e1e17c;
+        /* ++ */
+        --base06: #ebdbb2;
+        /* +++ */
+        --base07: #fbf1c7;
+        /* ++++ */
+        --base08: #fb4934;
+        /* red */
+        --base09: #fe8019;
+        /* orange */
+        --base0A: #fabd2f;
+        /* yellow */
+        --base0B: #b8bb26;
+        /* green */
+        --base0C: #8ec07c;
+        /* aqua/cyan */
+        --base0D: #83a598;
+        /* blue */
+        --base0E: #d3869b;
+        /* purple */
+        --base0F: #d65d0e;
+        /* brown */
+
+        /**
+   * Typograph
+   */
+        --font-family-default: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell,
+            "Helvetica Neue", sans-serif;
+        --font-size-scaler: 62.5%;
+        /* 1rem = 10px */
+        --font-size-m: 1.4rem;
+        --font-size-s: 2.2rem;
+
+        /**
+   * Components
+   */
+        --body-color: var(--base04);
+        --body-bg: var(--base00);
+
+        --daily-heading-color: var(--base04);
+
+        --source-name-color: var(--base0A);
+        --source-name-hover-color: var(--base0A);
+
+        --article-title-color: var(--base05);
+        --article-title-hover-color: var(--base07);
+        --article-summary-color: var(--base06);
+        --article-summary-hover-color: var(--base07);
+
+        --accordion-content-rail-color: var(--base03);
+        --accordion-content-hover-rail-color: var(--base04);
+        --accordion-title-marker-color: var(--base03);
+        --accordion-title-hover-marker-color: var(--base04);
+
+        --card-shadow: 0px 2px 1px -1px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%);
+        --card-bg: var(--base01);
+        --card-radius: 4px;
+
+        --footer-color: var(--base04);
+        --footer-link-hover-color: var(--base07);
+    }
+
+    /**
+ * Internals below
+ *
+ * If you can't create a specific look and feel with the configuration above,
+ * you might have reached the customization limit of the template.
+ *
+ * Options:
+ * 1. File an issue with the template.
+ * 2. Target specific elements and write your own CSS. A future change in HTML may break your style.
+ * 3. (Coming soon...) Write your own template with Template Extensibility API.
+ */
+    html {
+        font-size: var(--font-size-scaler);
+    }
+
+    body {
+        background-color: var(--body-bg);
+        font-family: var(--font-family-default);
+        color: var(--body-color);
+        margin: 0;
+        gap: 24px;
+        padding: 16px;
+        display: grid;
+    }
+
+    :not(:focus-visible) {
+        outline: none;
+    }
+
+    .card {
+        border-radius: var(--card-radius);
+        box-shadow: var(--card-shadow);
+        background: var(--card-bg);
+    }
+
+    .sources {
+        padding: 40px 16px;
+        list-style: none;
+        margin: 0;
+        display: grid;
+        gap: 16px;
+    }
+
+    .daily-heading {
+        font-size: var(--font-size-s);
+        font-weight: 600;
+        margin: 0 0 8px 0;
+        padding-left: 16px;
+        color: var(--daily-heading-color);
+    }
+
+    .source {
+        display: grid;
+        gap: 4px;
+        padding: 20px 10px;
+        border-bottom: 2px solid #d9f5ce;
+    }
+
+    .source-name {
+        font-size: var(--font-size-s);
+        font-weight: 400;
+        margin: 0;
+    }
+
+    .source-name__link {
+        color: var(--source-name-color);
+        text-decoration: none;
+    }
+
+    .source-name__link:hover {
+        color: var(--source-name-hover-color);
+        text-decoration: underline;
+    }
+
+    .article-expander {
+        padding: 2px 4px;
+        border-radius: 4px;
+    }
+
+    .article-expander__title {
+        color: var(--article-title-color);
+        font-size: var(--font-size-m);
+        font-weight: 600;
+    }
+
+    .article-expander__title:hover {
+        cursor: pointer;
+        color: var(--article-title-hover-color);
+    }
+
+    .article-expander__title::marker {
+        color: var(--accordion-title-marker-color);
+    }
+
+    .article-expander__title:hover::marker {
+        color: var(--accordion-title-hover-marker-color);
+    }
+
+    .article-summary-link {
+        color: var(--article-summary-color);
+        font-size: var(--font-size-m);
+        text-decoration: none;
+    }
+
+    .article-summary-link:hover {
+        color: var(--article-summary-hover-color);
+        --accordion-content-rail-color: var(--accordion-content-hover-rail-color);
+    }
+
+    .article-summary-box-outer {
+        display: block;
+        padding: 4px 8px 8px 4px;
+    }
+
+    .article-summary-box-inner {
+        padding-left: 8px;
+        border-left: 1px solid var(--accordion-content-rail-color);
+    }
+
+    .article-reading-time {
+        font-weight: 600;
+    }
+
+    footer {
+        color: var(--footer-color);
+        font-size: var(--font-size-s);
+        display: flex;
+        padding: 0 16px;
+        justify-content: space-between;
+    }
+
+    .footer-link {
+        color: var(--footer-link-text);
+        text-decoration: none;
+    }
+
+    .footer-link:hover {
+        color: var(--footer-link-hover-color);
+        text-decoration: underline;
+    }
+</style>
 </head>
 
 <body>
@@ -29,6 +248,62 @@
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(2 min)</span>
                     <span>这里记录每周值得分享的科技内容，周五发布。...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">如何在 Windows 11 WSA 中安装安卓应用？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/how-to-install-android-app-in-windows11/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>昨天青小蛙折腾了在 Windows 11 上安装 Windows Subsystem for Android，也就是在 Windows 11 上运行 Android 系统，装好之后发现，这个所谓的子系</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">腾讯微信内容开放搜索</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69336">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>腾讯旗下的微信有超过 10 亿用户，是中国大陆最受欢迎的社交服务之一，但长期以来微信的内容如公众号外部是很难搜索和访问的，腾讯建立了一堵非常牢固的围墙。但过去几个月，在政府监管机构的压力下，腾讯微信开始打开围墙，逐渐对外开放，上个月它解除了对外链的屏蔽，如今又开放了内容的搜索，允许 Google 和 Bing 等搜索引擎索引和搜索公众号的内容和视频。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">AMD 和微软发布补丁修正 Windows 11 下 CPU 性能下降问题</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69335">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>AMD 和微软释出补丁修正 Windows 11 下 Ryzen CPU 性能下降问题。微软释出的  Windows 11 更新 KB5006746 修正了 Ryzen CPU L3 缓存延迟增加的问题——该问题会导致部分应用性能下降 15%；AMD 芯片组驱动 3.10.08.506 修复了 UEFI CPPC2 问题——即某些情况下没有优先调度线程到处理器的最快核心，影响对 CPU 线程敏感的应用，问题对 8 核以上或功率 65W 以上处理器比较明显。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">华为和中芯供应商获得数百亿美元出口许可</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69334">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>尽管华为和中芯国际被列入美国贸易实体清单，但两家公司的供应商在去年 11 月至今年 4 月期间仍获得价值数以百亿美元计的许可，向他们出售产品和技术。美国政府批准了 113 项出口许可，总价值 610 亿美元，允许供应商向华为出货。此外，美国政府还批准了 188 项对中芯国际出口的许可，价值近 420 亿美元。数据还显示，中芯国际供应商的许可证申请有 90% 获得批准，而同期向华为发货的申请有 69% 被批准。大多数许可证都没有授权出口敏感物品。</span>
                   </div>
                 </a>
               </details>
@@ -122,6 +397,28 @@ The post How to Create a Contact Form With Next.js and Netlify appeared first on
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">阿里巴巴开源玄铁 RISC-V 核心</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69333">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>阿里巴巴旗下的芯片设计公司平头哥宣布开源四款玄铁 RISC-V 核心：E902、E906、C906 和 C91，开源版本被称为 OpenE902、OpenE906、OpenC906 和 OpenC910，开源项目托管在 GitHub 上，采用 Apache License 2.0 许可证。阿里巴巴称它共设计了 11 款 RISC-V 芯片，其玄铁 CPU 累积出货 25 亿，表示正与合作伙伴共同创建 RISC-V 生态系统。阿里巴巴还宣布针对云计算的 SoC 倚天 710。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">特朗普将推出自己的社交平台 TRUTH Social</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69332">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>美国前总统特朗普将推出自己的社交媒体应用程序 TRUTH Social，他说该应用程序将“对抗”Twitter 和 Facebook 等禁止他进入其平台的大科技公司。根据特朗普媒体技术集团(TMTG)与 Digital World Acquisition 发布的新闻稿，两家公司将进行合并，之后成立的新公司将推出 TRUTH Social。“在我们的这个世界，塔利班在 Twitter 上拥有巨大的影响力，然而你们最喜欢的美国总统却被噤声。这是不可接受的，”特朗普在书面声明中说。“我很高兴很快就能在 TRUTH Social 上发出我的第一个事实。TMTG 成立的使命是让所有人能够发声。我很高兴很快将开始在TRUTH Social上分享我的想法，并对大科技公司进行反击，”他说。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">无人机将营救三只被火山喷发困住的小狗</summary>
@@ -859,7 +1156,7 @@ Thank you: @CaptNo1</span>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-10-22T03:59:39.885Z">2021-10-22T03:59:39.885Z</time>
+    <time id="build-timestamp" datetime="2021-10-22T07:54:08.725Z">2021-10-22T07:54:08.725Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.3</a></span>
   </footer>
   <script src="index.js"></script>

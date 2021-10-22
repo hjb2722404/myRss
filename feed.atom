@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-22T03:59:39.903Z</updated>
+    <updated>2021-10-22T07:54:08.763Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[腾讯微信内容开放搜索]]></title>
+        <id>https://www.solidot.org/story?sid=69336</id>
+        <link href="https://www.solidot.org/story?sid=69336"/>
+        <updated>2021-10-22T05:03:36.000Z</updated>
+        <summary type="html"><![CDATA[腾讯旗下的微信有超过 10 亿用户，是中国大陆最受欢迎的社交服务之一，但长期以来微信的内容如公众号外部是很难搜索和访问的，腾讯建立了一堵非常牢固的围墙。但过去几个月，在政府监管机构的压力下，腾讯微信开始打开围墙，逐渐对外开放，上个月它解除了对外链的屏蔽，如今又开放了内容的搜索，允许 Google 和 Bing 等搜索引擎索引和搜索公众号的内容和视频。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在 Windows 11 WSA 中安装安卓应用？]]></title>
+        <id>https://www.appinn.com/?p=40146</id>
+        <link href="https://www.appinn.com/how-to-install-android-app-in-windows11/"/>
+        <updated>2021-10-22T03:40:37.000Z</updated>
+        <summary type="html"><![CDATA[昨天青小蛙折腾了在 Windows 11 上安装 Windows Subsystem for Android，也就是在 Windows 11 上运行 Android 系统，装好之后发现，这个所谓的子系]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 和微软发布补丁修正 Windows 11 下 CPU 性能下降问题]]></title>
+        <id>https://www.solidot.org/story?sid=69335</id>
+        <link href="https://www.solidot.org/story?sid=69335"/>
+        <updated>2021-10-22T02:54:11.000Z</updated>
+        <summary type="html"><![CDATA[AMD 和微软释出补丁修正 Windows 11 下 Ryzen CPU 性能下降问题。微软释出的  Windows 11 更新 KB5006746 修正了 Ryzen CPU L3 缓存延迟增加的问题——该问题会导致部分应用性能下降 15%；AMD 芯片组驱动 3.10.08.506 修复了 UEFI CPPC2 问题——即某些情况下没有优先调度线程到处理器的最快核心，影响对 CPU 线程敏感的应用，问题对 8 核以上或功率 65W 以上处理器比较明显。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为和中芯供应商获得数百亿美元出口许可]]></title>
+        <id>https://www.solidot.org/story?sid=69334</id>
+        <link href="https://www.solidot.org/story?sid=69334"/>
+        <updated>2021-10-22T02:24:11.000Z</updated>
+        <summary type="html"><![CDATA[尽管华为和中芯国际被列入美国贸易实体清单，但两家公司的供应商在去年 11 月至今年 4 月期间仍获得价值数以百亿美元计的许可，向他们出售产品和技术。美国政府批准了 113 项出口许可，总价值 610 亿美元，允许供应商向华为出货。此外，美国政府还批准了 188 项对中芯国际出口的许可，价值近 420 亿美元。数据还显示，中芯国际供应商的许可证申请有 90% 获得批准，而同期向华为发货的申请有 69% 被批准。大多数许可证都没有授权出口敏感物品。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 180 期）：你想住在中国哪里？]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html</id>
@@ -55,6 +95,26 @@ Next.js is a powerful React framework for developing performant React applicatio
 The post How to Create a Contact Form With Next.js and Netlify appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Monica Powell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里巴巴开源玄铁 RISC-V 核心]]></title>
+        <id>https://www.solidot.org/story?sid=69333</id>
+        <link href="https://www.solidot.org/story?sid=69333"/>
+        <updated>2021-10-21T14:04:47.000Z</updated>
+        <summary type="html"><![CDATA[阿里巴巴旗下的芯片设计公司平头哥宣布开源四款玄铁 RISC-V 核心：E902、E906、C906 和 C91，开源版本被称为 OpenE902、OpenE906、OpenC906 和 OpenC910，开源项目托管在 GitHub 上，采用 Apache License 2.0 许可证。阿里巴巴称它共设计了 11 款 RISC-V 芯片，其玄铁 CPU 累积出货 25 亿，表示正与合作伙伴共同创建 RISC-V 生态系统。阿里巴巴还宣布针对云计算的 SoC 倚天 710。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普将推出自己的社交平台 TRUTH Social]]></title>
+        <id>https://www.solidot.org/story?sid=69332</id>
+        <link href="https://www.solidot.org/story?sid=69332"/>
+        <updated>2021-10-21T13:47:06.000Z</updated>
+        <summary type="html"><![CDATA[美国前总统特朗普将推出自己的社交媒体应用程序 TRUTH Social，他说该应用程序将“对抗”Twitter 和 Facebook 等禁止他进入其平台的大科技公司。根据特朗普媒体技术集团(TMTG)与 Digital World Acquisition 发布的新闻稿，两家公司将进行合并，之后成立的新公司将推出 TRUTH Social。“在我们的这个世界，塔利班在 Twitter 上拥有巨大的影响力，然而你们最喜欢的美国总统却被噤声。这是不可接受的，”特朗普在书面声明中说。“我很高兴很快就能在 TRUTH Social 上发出我的第一个事实。TMTG 成立的使命是让所有人能够发声。我很高兴很快将开始在TRUTH Social上分享我的想法，并对大科技公司进行反击，”他说。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
