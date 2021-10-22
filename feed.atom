@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-22T01:05:58.948Z</id>
+    <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-22T01:05:58.948Z</updated>
+    <updated>2021-10-22T03:59:39.903Z</updated>
     <generator>osmosfeed 1.11.3</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
+    <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 180 期）：你想住在中国哪里？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-180.html"/>
+        <updated>2021-10-22T00:35:24.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?]]></title>
         <id>https://css-tricks.com/?p=354537</id>
@@ -35,36 +46,6 @@ The post The CSS-in-React Landscape appeared first on CSS-Tricks. You can suppor
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dotfiles – What is a Dotfile and How to Create it in Mac and Linux]]></title>
-        <id>616fed81d48e1707b6d7898e</id>
-        <link href="https://www.freecodecamp.org/news/dotfiles-what-is-a-dot-file-and-how-to-create-it-in-mac-and-linux/"/>
-        <updated>2021-10-21T19:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Dotfiles are important files that will play an integral role in your career as a software developer.  First, they can help make you more productive. But not only that - you'll be able to have that productive setup you created for youself on any machine.  This article is an introduction]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code an Endless Runner Game Using Unreal Engine and C++]]></title>
-        <id>6171b7b2d48e1707b6d79998</id>
-        <link href="https://www.freecodecamp.org/news/code-an-endless-runner-game-using-unreal-engine-and-c/"/>
-        <updated>2021-10-21T19:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Endless runner games can be fun and addicting. Also, an endless runner game is a great game development project for a beginner. We just released a course on the freeCodeCamp.org YouTube channel that will teach you how to create an endless runner game using Unreal Engine and C++. Fahir]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is msmpeng.exe? Why is it High CPU Disk Usage?]]></title>
-        <id>617144ced48e1707b6d79686</id>
-        <link href="https://www.freecodecamp.org/news/what-is-msmpeng-exe-why-is-it-of-high-cpu-disk-usage/"/>
-        <updated>2021-10-21T15:01:54.000Z</updated>
-        <summary type="html"><![CDATA[msmpeng.exe is an important part of Windows Security, formerly known as Windows Defender. It scans your computer for various threats ranging from malware to spyware, then renders the appropriate solution(s).  In this article, I will take you through what mempeng.exe is, the reason why it eats up]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Create a Contact Form With Next.js and Netlify]]></title>
         <id>https://css-tricks.com/?p=353128</id>
         <link href="https://css-tricks.com/how-to-create-a-contact-form-with-next-js-and-netlify/"/>
@@ -77,23 +58,207 @@ The post How to Create a Contact Form With Next.js and Netlify appeared first on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Respecting Users’ Motion Preferences]]></title>
-        <id>https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/</id>
-        <link href="https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/"/>
-        <updated>2021-10-21T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.]]></summary>
+        <title type="html"><![CDATA[无人机将营救三只被火山喷发困住的小狗]]></title>
+        <id>https://www.solidot.org/story?sid=69331</id>
+        <link href="https://www.solidot.org/story?sid=69331"/>
+        <updated>2021-10-21T13:39:48.000Z</updated>
+        <summary type="html"><![CDATA[有三只狗被困在 Canary 群岛正在喷发的 Cumbre Vieja 火山附近，它们预计将会很快被无人机营救出。
+
+
+小狗被困在一座被熔岩包围的院子里一个月了。这座火山从 9 月开始喷发，是 50 年来的首次喷发，数千人被迫撤离，喷发仍在持续。西班牙无人机运营商 Aerocamaras  上周四表示，该公司计划营救小狗。他们计划让无人机飞到小院上空，为小狗提供食物，无人机上的摄像头可以帮助地面操作员找到最佳空运方式。等到小动物适应了机器，无人机就会从空中放下吊货网兜，将它们一个一个地“捡”起来，运送到安全的地方。
+
+
+Aerocamaras 公司的 Jaime Pereira 周三证实，该公司已获得当局许可执行救援任务。为了获得州政府的批准，该公司必须先完成一项测试任务——用无人机承载 15 公斤的负载完成 1.2 公里的飞行，它成功通过测试。尽管如此，这次营救仍然很危险。Pereira 对西班牙广播公司 Telecinco 表示：“非常困难，从技术上讲，这是我们迄今为止做过的最复杂的事情……我们冒着很大的风险。”
+
+
+一方面，用于救援任务的吊货网兜设计承载能力约为 24公斤，足以一次运送一只小狗。但是操作人员必须确保在完美的时机将它们拉起来，以避免拉起一只以上的小狗或者摔到它们。Pereira 表示，无人机电池续航时间只有 8 分钟，这意味着必须精心计划并执行这次飞行：操作人员只有 4 分钟让小狗进入网兜中，然后再用另外 4 分钟让无人机飞回安全地带。他表示：“我们可不希望无人机在飞越熔岩的时候电池电量耗尽。”Pereira 表示：“这是第一次用无人机营救动物，也是第一次必须捕捉救援对象。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the Adapter Design Pattern in React]]></title>
-        <id>617058f3d48e1707b6d7913d</id>
-        <link href="https://www.freecodecamp.org/news/adapter-design-in-react/"/>
-        <updated>2021-10-21T00:33:49.000Z</updated>
-        <summary type="html"><![CDATA[When you're coding in React or any other tool, you might want or need to use a third-party library. Let's talk about an approach which will ensure that the third-party libraries you use will blend well with your application. As application developers, there's no need to reinvent the wheel every]]></summary>
+        <title type="html"><![CDATA[交通摄像头将女子识别为汽车]]></title>
+        <id>https://www.solidot.org/story?sid=69330</id>
+        <link href="https://www.solidot.org/story?sid=69330"/>
+        <updated>2021-10-21T13:28:07.000Z</updated>
+        <summary type="html"><![CDATA[从口袋里的智能手机到工厂车间，带有 AI 图像识别功能的摄像头随处可见。但只要有人工“智能”的地方就会闹出笑话。《每日邮报》报道称，萨里郡多金的一位54 岁的英国男子 David Knight 最近收到一张 90 英镑罚单：理由是他在 120 英里外的巴斯市驾车驶入了公交车道。因为没有做过这样的事，Knight 仔细查看了打印在罚单上的照片证据。他惊讶地发现，照片上根本没有他的车，而是一个正在走路的女人。原来交通摄像头之所以将这名女子误认为是一辆汽车，是因为她的套衫前襟有 KNITTER 的字样。Knight 的车牌是 KN19TER，AI 将衣服上的字母错误识别为“KN19TER”车牌。他的罚单已经取消。]]></summary>
         <author>
-            <name>freeCodeCamp.org</name>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家在 CRISPR 帮助下部分恢复盲人视力]]></title>
+        <id>https://www.solidot.org/story?sid=69329</id>
+        <link href="https://www.solidot.org/story?sid=69329"/>
+        <updated>2021-10-21T13:06:41.000Z</updated>
+        <summary type="html"><![CDATA[科学家通过基因编辑实验恢复了盲人的部分视力。实验的许多参与者生下来就有视力问题，现在他们能更好地看到东西了。有七名患者自愿参加了实验，医生将基因编辑 CRISPR 直接注射到细胞中去修改他们的 DNA。莱伯氏先天性黑蒙（leber congenital amaurosis，LCA）是一种严重的视力障碍，研究人员透露，在接受基因编辑治疗后，患有该病的受试者的视力得到了改善。科学家先用工具从患者体内提取细胞，然后将这些细胞拿到实验室进行编辑，之后将经过修改的细胞注入患者的体内。与针对其他疾病的基因编辑做法不同，医生是将修改后的基因直接注入眼睛，而不是放在培养皿中。到目前为止，患者都只有一只眼睛接受了 CRISPR 治疗。如果一切顺利另一只眼睛也将接受治疗。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纽约外科医生实现人猪肾脏移植]]></title>
+        <id>https://www.solidot.org/story?sid=69328</id>
+        <link href="https://www.solidot.org/story?sid=69328"/>
+        <updated>2021-10-21T12:32:47.000Z</updated>
+        <summary type="html"><![CDATA[纽约外科医生成功地将在转基因猪身上生长的肾脏移植到人类患者身上，发现该器官能正常工作，这是一项科学重大突破，有朝一日也许能为重症患者提供新的、大量的器官供应。研究人员长久以来一直试图在猪身上培育出适合移植到人类身上的器官。克隆和基因工程等技术的进步使这一愿景接近现实，但是在人体中测试这些实验器官面临着棘手的伦理问题。纽约大学朗格尼医学中的外科医生迈出了惊人的一步：在征得了家人的同意之后，他们将猪的肾脏连接到一个靠呼吸机维持生命的脑死亡患者身上，然后在测量肾脏功能的同时持续观察身体的反应。这是世界上首例此类手术。研究人员仅跟踪了 54 个小时的结果，关于这种做法的长期后果还有许多问题待解。因为还存在着重大的医疗和监管障碍，所以此类手术不会很快对患者开放。尽管如此，该领域内的专家仍然称赞这次手术是一个里程碑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大型零售公司承诺放弃使用化石燃料船舶]]></title>
+        <id>https://www.solidot.org/story?sid=69327</id>
+        <link href="https://www.solidot.org/story?sid=69327"/>
+        <updated>2021-10-21T12:08:16.000Z</updated>
+        <summary type="html"><![CDATA[大型零售公司承诺，到 2040 年，他们将只用零碳燃料的船舶运送货物。最近的一项分析发现，2019 年宜家和亚马逊是造成进口海运污染最严重的 15 家公司之一。此外，联合利华、米其林和拥有 Zara 等品牌的服装零售商 Inditex 都名列其中。德国零售商 Tchibo、Patagonia、运动用品公司 Brooks Running 和 FrogBikes 也加入了此次承诺。承诺的目的是放弃重质燃料油，转而采用一些不会释放二氧化碳的替代品——二氧化碳会造成地球气候变暖。但，要想控制航运污染还面临着许多障碍。环保非营利组织 Stand.earth 的航运活动主管 Kendra Ulrich表示：“这将成为推动这个行业脱碳的催化剂，改变游戏规则。”Kendra Ulrich 是 2019 年报告作者之一。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X 射线揭示拉瓦锡标志性肖像画中的秘密]]></title>
+        <id>https://www.solidot.org/story?sid=69326</id>
+        <link href="https://www.solidot.org/story?sid=69326"/>
+        <updated>2021-10-21T10:56:49.000Z</updated>
+        <summary type="html"><![CDATA[法国 18 世纪化学家拉瓦锡（Antoine Lavoisier）是一位复杂的历史人物。在科学上他是一位无可争议的巨匠，帮助开启了化学革命，将化学分析从定性方法转向了定量方法，他还有许多其他成就。他是一位富有的贵族，是税务机关 Ferme Generale 的一名税务官，Ferme Generale 是法国旧制度下最令人憎恨的机构之一。这增加了他的财富，他用这些财富支持他和其他人的科学研究并促进公共教育。但这也导致了他在臭名昭著的雅各宾派统治期间，同当权的革命者发生冲突；后者在 1794 年的同一天将拉瓦锡和他的岳父一同斩首，将其称为“人民的敌人”。
+
+
+新古典主义画家 Jaques-Louis David 曾于1788年为拉瓦锡和妻子玛丽.安妮（Marie-Anne）绘制了一幅著名的肖像画，画中丈夫和妻子正操作一组小型科学仪器。这幅画现在被收藏在纽约大都会艺术博物馆。显而易见，对这样一幅画进行新的科学分析是一件非常复杂的事情。
+
+
+但是尖端的分析技术表明，David 最初画的是一个完全不同的版本，里面没有科学设备，而是将这对夫妇描绘成了更典型的法国贵族。最近发表在《Heritage Science》期刊上的一篇论文显示，画家最终在肖像里巧妙地遮住了底稿，正如论文作者在一篇相关的Met 文章中所写，这很可能是为了回应对贵族日益强烈的反对。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国皇家铸币厂将从旧手机中提取黄金]]></title>
+        <id>https://www.solidot.org/story?sid=69325</id>
+        <link href="https://www.solidot.org/story?sid=69325"/>
+        <updated>2021-10-21T10:53:00.000Z</updated>
+        <summary type="html"><![CDATA[英国造币厂打算从旧手机和笔记本电脑中提取黄金和贵金属。英国皇家铸币厂计划将世界首创的技术引进英国，从电子垃圾中回收黄金。据估计只有不到五分之一的电子垃圾最终被回收利用。铸币厂首席执行官 Anne Jessopp 表示，这项技术将有助于“应对世界最大的环境挑战之一”。英国皇家铸币厂同加拿大创业企业 Excir 签署了协议，从设备的电路板上回收 99% 甚至更多的黄金。据报道使用化学物质可在几秒钟之内选择性地从电路板上提取出贵金属。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Subsystem for Android 下载地址，在 Windows 11 上运行 Android 系统]]></title>
+        <id>https://www.appinn.com/?p=40138</id>
+        <link href="https://www.appinn.com/windows-subsystem-for-android-download/"/>
+        <updated>2021-10-21T10:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Windows Subsystem for Android 是微软在发布 Windows 11 时宣传的新功能，即直接在 Windows 11 中运行 Android 系统，经过一段时间的测试之后，今]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实验室种植的环保咖啡即将问世]]></title>
+        <id>https://www.solidot.org/story?sid=69324</id>
+        <link href="https://www.solidot.org/story?sid=69324"/>
+        <updated>2021-10-21T09:09:15.000Z</updated>
+        <summary type="html"><![CDATA[无豆酿造能显著减少森林砍伐和温室气体排放——但传统咖啡种植区的工人们怎么办？
+
+Heiko Rischer 不知该如何描述实验室种植咖啡的味道。今年夏天，他获得了世界首批用细胞培养而不是用咖啡豆生产的咖啡样品。它由芬兰 VTT 技术研究中心开发，作为该中心种植生物技术负责人 Rischer 表示：“很难描述味道，对我来说，它介于咖啡和红茶之间……这取决于烘焙等级，它采用了更轻的烘焙，所以感觉有点像茶。”这项细胞农业创新尚未获准用于公众消费，Rischer 不能咽下这些咖啡。他只是让咖啡在口腔里稍稍停留，就吐了出来。他预测，VTT 实验室种植的咖啡大概会在四年内获得欧洲和美国的监管批准，从而为商业化产品铺平道路，该产品的气候影响可能要比传统咖啡低得多。
+
+咖啡行业既是气候危机的帮凶，又非常容易受其影响。对咖啡需求的增加与发展中国家的森林砍伐、生物多样性破坏和碳排放有关。与此同时咖啡生产商正在努力应对霜冻、干旱等各种更极端天气。据估计由于气候危机，到 2050 年，目前种植咖啡的土地有一半可能会无法生产。为了应对行业的挑战，各大企业和科学家正尝试开发不含咖啡豆的咖啡。VTT 的咖啡是在充满营养的生物反应器中通过漂浮的细胞培育的。Rischer 表示，这个过程不需要杀虫剂，水足迹也要低得多，因为咖啡可以在市场当地生产，减少了运输排放。该公司正对这个过程进行生命周期分析。Rischer 表示：“等我们有了数据，就能证明这种方法对环境的影响将远低于传统种植方式。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一男子因利用 Deepfake 恢复打上马赛克的色情视频被捕]]></title>
+        <id>https://www.solidot.org/story?sid=69323</id>
+        <link href="https://www.solidot.org/story?sid=69323"/>
+        <updated>2021-10-21T08:45:08.000Z</updated>
+        <summary type="html"><![CDATA[日本警方周一逮捕了一名 43 岁的男子，罪名是利用 AI 技术重建打上马赛克的色情视频，这是该国首起滥用 Deepfake 技术的刑事案件。Masayuki Nakamoto 在兵库县南部经营自己的网站，他从日本成人视频中提取色情明星的图像，然后用人工智能技术对其进行修改，他的方法和在 Deepfake 视频中实现逼真“换脸”的方法一样。但是 Nakamoto并没有进行“换脸”，而是利用机器学习软件，根据大量未经审查的裸体图像，重建视频中被模糊处理的部分，然后在线出售。在日本的色情片中，阴茎和阴道都打上了马赛克，因为日本淫秽法禁止明确描绘生殖器。
+报道，Nakamoto 承认了侵犯版权和展示淫秽图像的指控，表示他这样做是为了钱。他是在警方进行“网络巡逻”时被抓获的。负责网络犯罪案件的律师 Daisuke Sueyoshi 表示：“这是首个日本警方逮捕 AI 用户的案件……目前，没有法律将使用 AI 制作此类图像定为犯罪。”Nakamoto 并未因侵犯视频中演员的隐私而受到任何指控。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[投资者使用 AI 分析 CEO 的语言模式和语气]]></title>
+        <id>https://www.solidot.org/story?sid=69322</id>
+        <link href="https://www.solidot.org/story?sid=69322"/>
+        <updated>2021-10-21T08:15:26.000Z</updated>
+        <summary type="html"><![CDATA[随着部分投资者开始用 AI 学习和分析其语言模式和语气，企业 CEO 和其他高管越来越多地处于显微镜之下，这一趋势开辟了充满机会的新领域。
+
+语言模式软件专家 Evan Schnidman 表示，2020 年末，IT 行业的高管在讨论供应链中断问题时，刻意淡化半导体芯片短缺的可能性。他们说，一切都很好。然而一个旨在发现口语——最好是没有稿子的口语之中隐藏线索的算法经过分析发现，他们讲话的语气表现出高度的不确定性。Schnidman 表示：“我们发现 IT 部门高管讲话的语气和他们所说的积极言论并不一致。”
+
+Schnidman 为两家金融科技公司提供了这项分析建议。在评论发表后的几个月内，大众汽车和福特汽车等公司警告称，严重的芯片短缺会影响产量。汽车和工业公司的股价随之下跌。IT 部门高管现在表示供应很紧张。Schnidman 认为，如果计算机驱动的量化基金将权重分配给这些高管说话的语气而不是他们所说的内容，原本可以在这场行业动荡之前，处以更有利的位置。对 11 位正在使用或者试用此类系统的基金经理的采访显示，部分投资者将这种被称为自然语言处理（NLP）的技术视为一种新的工具，认为它可以帮助他们获得压倒竞争对手的优势。他们表示，如今传统的财务数据和公司报表已经被挖掘得很透，几乎没什么价值了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[供应链问题导致 Raspberry Pi 4 临时涨价]]></title>
+        <id>https://www.solidot.org/story?sid=69321</id>
+        <link href="https://www.solidot.org/story?sid=69321"/>
+        <updated>2021-10-21T07:20:53.000Z</updated>
+        <summary type="html"><![CDATA[因供应链短缺问题迫使单板计算机 Raspberry Pi 4 首次涨价。Raspberry Pi 创始人 Eben Upton 称受影响最大的是 2GB 版本的 Raspberry Pi 4 和 Raspberry Pi Zero。他宣布 2GB Pi 4 价格从 $35 上涨到 $45，之前停产的 1 GB Pi 4 将重新推出定价 $35。这一价格上涨被认为是临时性的，因为“我们看到了供应链问题开始缓解的早期信号”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 应用支持加入到 Windows 11 Beta]]></title>
+        <id>https://www.solidot.org/story?sid=69320</id>
+        <link href="https://www.solidot.org/story?sid=69320"/>
+        <updated>2021-10-21T07:03:25.000Z</updated>
+        <summary type="html"><![CDATA[微软在宣布  Windows 11 时透露它能运行 Android 应用。Windows 11 将引入 Windows Subsystem for Android （WSA）子系统，类似 Windows Subsystem for Linux (WSL)。但本月初 Windows 11 正式发布时该功能还没有做好准备，现在微软开始向 Windows 11 Beta 通道用户提供 WSA。微软官方博客表示，它与英特尔和亚马逊合作向美国地区的合格设备提供 WSA 和亚马逊应用商店 Amazon Appstore 的预览版，Windows 11 Beta 用户可以通过亚马逊应用商店下载各种 Android 应用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome 95 移除 FTP 支持]]></title>
+        <id>https://www.solidot.org/story?sid=69319</id>
+        <link href="https://www.solidot.org/story?sid=69319"/>
+        <updated>2021-10-21T06:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Google 释出了 Chrome v95，主要变化包括：移除对 File Transfer Protocol(FTP) 协议的支持，不再支持网址如 ftp://；移除对 Universal 2nd Factor (U2F)标准的支持；浏览器 cookies 加入文件大小限制；移除对结尾为数字的非 IPv4 主机名网址的支持，如 http://example.0.1；加入了新的 UI 组件 Side Panel，可用于访问 Reading List 和书签，该组件需要手动启用；其他还有安全修正等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币币值创历史新高]]></title>
+        <id>https://www.solidot.org/story?sid=69318</id>
+        <link href="https://www.solidot.org/story?sid=69318"/>
+        <updated>2021-10-21T05:36:06.000Z</updated>
+        <summary type="html"><![CDATA[比特币再创历史新高，币值达到 6.5 万美元，超过了今年 4 月创造的记录。最新一轮的涨势是由美国首个比特币期货 ETF 的推出所驱动，投资者认为该 ETF 可望使广大的新投资者更容易亲近比特币。自 9 月中旬以来，比特币币值飙升逾 60%，仅 10 月份就上涨超过 46%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeOffice 2021 正式发布，免费的 Microsoft Office 替代品，附下载地址]]></title>
+        <id>https://www.appinn.com/?p=40132</id>
+        <link href="https://www.appinn.com/freeoffice-2021/"/>
+        <updated>2021-10-21T04:16:58.000Z</updated>
+        <summary type="html"><![CDATA[FreeOffice 2021 是一款可供个人和商业用户免费使用的全功能办公套件，包括文字处理，电子表格和演示软件，最重要的是与 Microsoft Office 无缝兼容，支持 Windows、Ma]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重写人类历史]]></title>
+        <id>https://www.solidot.org/story?sid=69317</id>
+        <link href="https://www.solidot.org/story?sid=69317"/>
+        <updated>2021-10-21T03:25:48.000Z</updated>
+        <summary type="html"><![CDATA[有关人类社会发展的一个广泛接受的描述是：人类一开始生活在小规模的狩猎采集群体内，人与人之间基本上是平等的；农业发明之后生产出现过剩，人口随之增长，私有财产出现了，人类逐渐组成了部落，规模的扩大需要更多的组织，不同的社会阶层和专业化出现了。部落有酋长，有战士，也有了神职人员。城市、文明、王国，帝国。随着资本主义和工业革命的发展，现代官僚制度诞生了。这一社会发展是线性的、渐进的、技术驱动的，目的性的。然而，一本即将出版的新书《The Dawn of Everything: A New History of Humanity》根据最新的考古发现尝试重写人类历史，推翻这一广泛接受的人类社会的宏大历史叙事。作者指出，狩猎采集社会比我们以为的更复杂，已经有了社会性组织，他们像现代人类那样分配工作、处理财富和分配权力，他们已经在实践政治。早期农业也并非一蹴而就，人类首先要定居才有可能发展农业，而农业经历了漫长的发展历程，最初只是狩猎、放牧等觅食活动的一部分。作者持有无政府主义立场，相信人类的相处并不需要政府。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《战神（2018）》登陆 PC]]></title>
+        <id>https://www.solidot.org/story?sid=69316</id>
+        <link href="https://www.solidot.org/story?sid=69316"/>
+        <updated>2021-10-21T01:57:09.000Z</updated>
+        <summary type="html"><![CDATA[索尼第一方工作室 Santa Monica 宣布《战神（2018）》登陆 PC 平台。游戏将在 2022 年 1 月 14 日发售，发售平台包括 Steam 和 Epic Games Store，Steam 页面已经上线，支持中文，中国区售价 279 元。《战神（2018）》是最新一部登陆 PC 的索尼第一方游戏，之前还有《Horizon Zero Dawn》和《Days Gone》，《神秘海域4》也宣布将在明年初发布 PC 版本。索尼证实，这次的 PC 版本没有外包给第三方工作室，而是由 Santa Monica 工作室自己完成。PC 版本将支持 4K，没有帧率限制，支持英伟达的 DLSS 和 Reflex 低延迟技术，支持 21:9 宽屏。Santa Monica 称，截至 2021 年 8 月，《战神（2018）》 售出的拷贝数达到了 1950 万份。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -109,36 +274,6 @@ The post Some Typography Links VIII appeared first on CSS-Tricks. You can suppor
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Angular - Crash Course]]></title>
-        <id>61708409d48e1707b6d79387</id>
-        <link href="https://www.freecodecamp.org/news/learn-angular-full-course/"/>
-        <updated>2021-10-20T21:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Angular is a TypeScript-based free and open-source web application framework created by Google. We just published a 2-hour Angular crash course on the freeCodeCamp.org YouTube channel. Slobodan Gajic created this course. Slobodan has created a bunch of amazing courses on his own channel. In this course you will learn]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Safe Area Context in React Native Apps to Avoid the Notch]]></title>
-        <id>616945f580d82d07c45a5160</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-safe-area-context-to-avoid-notches-in-react-native-apps/"/>
-        <updated>2021-10-20T19:37:59.000Z</updated>
-        <summary type="html"><![CDATA[Most devices nowadays come with a notch at the top of the screen. So when you're building a mobile application using React Native, you need to make sure that the content of the app's screen is rendered correctly across different types of devices. In this article, we'll look at two]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is my IP Address for my Router? How to Find your Wifi Address]]></title>
-        <id>616ffc6dd48e1707b6d78992</id>
-        <link href="https://www.freecodecamp.org/news/what-is-my-ip-address-for-my-router-how-to-find-your-wifi-address/"/>
-        <updated>2021-10-20T19:36:40.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes you might need to know your router’s IP address. This will give you access to the setup page so you can make configuration changes like changing passwords, kicking out unwanted users, limiting users, and so on.  In this article, I will show you how to find out what]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Creating Your Own Bragdoc With Eleventy]]></title>
         <id>https://css-tricks.com/?p=353638</id>
         <link href="https://css-tricks.com/creating-your-own-bragdoc-with-eleventy/"/>
@@ -150,13 +285,63 @@ The post Creating Your Own Bragdoc With Eleventy appeared first on CSS-Tricks. Y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich]]></title>
-        <id>https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/</id>
-        <link href="https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/"/>
-        <updated>2021-10-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Back in January 2020, Ben Holmes set out to do what just about every web developer does each year: rebuild his personal site. In this article, he shares his story of how he set out to build his own build pipeline from absolute ground zero and created “Slinkity”.]]></summary>
+        <title type="html"><![CDATA[宏碁证实其服务器被黑客入侵]]></title>
+        <id>https://www.solidot.org/story?sid=69315</id>
+        <link href="https://www.solidot.org/story?sid=69315"/>
+        <updated>2021-10-20T14:45:33.000Z</updated>
+        <summary type="html"><![CDATA[计算机制造商宏碁证实其在印度的服务器遭到入侵，它在台湾的部分系统也被黑客侵入。自称 Desorden 的黑客组织称从宏碁印度窃取了超过 60 GB 的数据，包括数百万客户的信息、零售商和分销商使用的登陆凭证、以及企业文件和财务报表。黑客还声称从宏碁台湾服务器上窃取到了该公司雇员的信息。宏碁虽然承认遭到入侵，但否认客户数据失窃。Desorden 通常会威胁在黑市出售窃取的数据来进行勒索。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Ben Holmes)</name>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Freedom Conservancy 起诉 Vizio 侵犯 GPL 许可证]]></title>
+        <id>https://www.solidot.org/story?sid=69314</id>
+        <link href="https://www.solidot.org/story?sid=69314"/>
+        <updated>2021-10-20T13:53:16.000Z</updated>
+        <summary type="html"><![CDATA[致力于推广开源软件和捍卫自由软件 GPL 许可证的非盈利组织 Software Freedom Conservancy(SFC) 对 Vizio 提起诉讼，指控其多次未能履行 GPL 许可证的基本要求。Vizio 是一家产品主要为高清电视机的消费电子品牌，创始人是王蔚。SFC 称 Vizio 电视机产品使用的 SmartCast 系统包含了 GPL 授权的软件，按照 GPL 许可证要求，购买 Vizio 产品的消费者有权访问源代码，允许对源代码进行修改、研究和在适当条件下重新发行。SFC 寻求 Vizio 履行其合规义务。诉讼案没有寻求经济赔偿。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brave 用自己的 Brave Search 替代 Google 作为默认搜索引擎]]></title>
+        <id>https://www.solidot.org/story?sid=69313</id>
+        <link href="https://www.solidot.org/story?sid=69313"/>
+        <updated>2021-10-20T13:20:10.000Z</updated>
+        <summary type="html"><![CDATA[浏览器开发商 Brave 宣布用自己的 Brave Search 替代 Google 作为默认搜索引擎。Brave 的联合创始人是前 Mozilla CEO/CTO Brendan Eich。Brave Search 来自该公司今年早些时候收购的 Tailcat，Brave 称它是一个注重隐私保护的搜索引擎，不会跟踪用户，或用户的搜索和点击，从周二开始它成为美国、加拿大和英国用户的默认搜索引擎，它还将在法国替代 Qwant，在德国替代 DuckDuckGo，未来几个月会成为更多国家和地区的默认搜索引擎。Brave Search 目前不会展示广告，但免费版本未来会加入广告，它将会提供付费无广告版本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软用 Windows App SDK 取代 UWP]]></title>
+        <id>https://www.solidot.org/story?sid=69312</id>
+        <link href="https://www.solidot.org/story?sid=69312"/>
+        <updated>2021-10-20T13:18:20.000Z</updated>
+        <summary type="html"><![CDATA[微软正鼓励开发者采用 Windows App SDK 和 WinUI 3 开发 Windows 应用程序，它事实上正式放弃了 Universal Windows Platform (UWP)。微软曾计划将 UWP 作为一种通用的方案让开发者创建能在移动、桌面和主机上运行的应用，但应者寥寥。去年微软透露了被称为 Project Reunion 的项目，试图整合 win32 桌面应用和 UWP 应用关键技术，使用 WinUI 3 作为 UI 框架。Project Reunion 就是今天的 Windows App SDK。微软表示，UWP 未来不会再加入新功能，只会引入 Bug、安全和可靠性修正。现有的 UWP 应用开发者如果对现状满意可以继续使用 UWP，但如果想要利用新功能或完全兼容新系统，则需要迁移到 Windows App SDK。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Renewed Tab – 支持 RSS、便签、图片等 23 种小组件的新标签页扩展[Chrome/Firefox]]]></title>
+        <id>https://www.appinn.com/?p=40129</id>
+        <link href="https://www.appinn.com/renewed-tab-new-tabs/"/>
+        <updated>2021-10-20T08:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Renewed Tab 是一款可简、可繁的 Chrome、Firefox 扩展，可随意组合新标签页样式，有 23 种不同功能的 Widget 小组件，拖拽组成属于自己的定制化新标签页。@Appinn]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软桌面助手 1.0.0 – 自动的桌面文件分区工具]]></title>
+        <id>https://www.appinn.com/?p=40124</id>
+        <link href="https://www.appinn.com/microsoft-cn-deskman-v1/"/>
+        <updated>2021-10-20T03:47:26.000Z</updated>
+        <summary type="html"><![CDATA[微软桌面助手 是微软中国发布的一款桌面分区应用，其特色是支持自动移动并根据分区来整理桌面文件，比如默认情况下，将桌面区分为软件、文件夹、文件、其他 4 个分区，按下快捷键即可一键将桌面所有文件自动移动]]></summary>
+        <author>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
@@ -171,36 +356,6 @@ The post @supports selector() appeared first on CSS-Tricks. You can support CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GraphQL for Front End Developers]]></title>
-        <id>616bcb8580d82d07c45a5deb</id>
-        <link href="https://www.freecodecamp.org/news/graphql-for-front-end-developers/"/>
-        <updated>2021-10-19T17:19:00.000Z</updated>
-        <summary type="html"><![CDATA[If you are a front end developer who is new to the world of GraphQL and you're thinking about getting started with it, this article is for you.  In this article, we will explore GraphQL basics and kick start our journey with it by building a simple project.  What is]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Implement Binary Tree Algorithms in Technical Interviews]]></title>
-        <id>616ef9b5d48e1707b6d78265</id>
-        <link href="https://www.freecodecamp.org/news/how-to-implement-binary-tree-algorithms-in-technical-interviews/"/>
-        <updated>2021-10-19T17:13:24.000Z</updated>
-        <summary type="html"><![CDATA[A binary tree is a common data structure used in software development. It is also a frequent topic in technical coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about binary tree algorithms and prepare you to use them in coding]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn TensorFlow Lite for Edge Devices]]></title>
-        <id>616ef6efd48e1707b6d7822c</id>
-        <link href="https://www.freecodecamp.org/news/learn-tensorflow-lite-for-edge-devices/"/>
-        <updated>2021-10-19T16:58:53.000Z</updated>
-        <summary type="html"><![CDATA[TensorFlow Lite is an open source deep learning framework that can be used on small devices. We just published a TensorFlow Lite course on the freeCodeCamp.org YouTube channel. Bhavesh Bhatt created this course. Bhavesh has created many courses on his own channel and is a great teacher. TensorFlow Lite]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An Interview With Elad Shechter on “The New CSS Reset”]]></title>
         <id>https://css-tricks.com/?p=353462</id>
         <link href="https://css-tricks.com/an-interview-with-elad-shechter-on-the-new-css-reset/"/>
@@ -212,23 +367,23 @@ The post An Interview With Elad Shechter on “The New CSS Reset” appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building An API With Gatsby Functions]]></title>
-        <id>https://smashingmagazine.com/2021/10/building-api-gatsby-functions/</id>
-        <link href="https://smashingmagazine.com/2021/10/building-api-gatsby-functions/"/>
-        <updated>2021-10-19T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, Paul Scanlon explains how to build an API by using Gatsby Functions and what you need to keep in mind when deploying it to Gatsby Cloud.]]></summary>
+        <title type="html"><![CDATA[NeeView – 开源图片浏览器，像翻书一样看照片[Windows]]]></title>
+        <id>https://www.appinn.com/?p=40120</id>
+        <link href="https://www.appinn.com/neeview/"/>
+        <updated>2021-10-19T09:48:29.000Z</updated>
+        <summary type="html"><![CDATA[NeeView 是一款 Windows 下开源的图片浏览器，其特色是可以像翻书一样同时浏览两张照片，还支持压缩包看图、鼠标手势、触摸操作、多线程和超前查看、支持 PDF / 视频。@Appinn @S]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Paul Scanlon)</name>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 42 With Jeff Smith: What Is DevOps?]]></title>
-        <id>https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/</id>
-        <link href="https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/"/>
-        <updated>2021-10-19T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about DevOps. What is it, and is it a string to add to your web development bow? Drew McLellan talks to expert Jeff Smith to find out.]]></summary>
+        <title type="html"><![CDATA[FP Sleep – 近 200 段大自然的声音：睡眠、减压、冥想、白噪音应用[iPhone]]]></title>
+        <id>https://www.appinn.com/?p=40117</id>
+        <link href="https://www.appinn.com/fp-sleep-for-iphone/"/>
+        <updated>2021-10-19T03:30:31.000Z</updated>
+        <summary type="html"><![CDATA[FP Sleep 是一款拥有近 200 段（可能更多，数不清楚）大自然的声音，支持 iPhone 的睡眠、减压、冥想、白噪音应用，免费无广告，开发者自称用爱发电。@Appinn 来自发现频道，开发者]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
@@ -255,23 +410,43 @@ The post How to Build a Nearly Headless WordPress Website appeared first on CSS-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solving CLS Issues In A Next.js-Powered E-Commerce Website (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/10/nextjs-ecommerce-cls-case-study/"/>
-        <updated>2021-10-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cumulative Layout Shift is one of the hardest core web vital to debug. In this article, we go through different tools to investigate CLS, when to use them(and when not), and solutions to some of the CLS issues we faced in our Next.js-based e-commerce website.]]></summary>
+        <title type="html"><![CDATA[NTFS Disk by Omi – 支持 M1 芯片，Mac 上免费的 NTFS 读写工具]]></title>
+        <id>https://www.appinn.com/?p=40067</id>
+        <link href="https://www.appinn.com/ntfs-disk-by-omi/"/>
+        <updated>2021-10-18T09:49:05.000Z</updated>
+        <summary type="html"><![CDATA[NTFS Disk by Omi 是一款 Mac 上免费的 NTFS 读写工具，支持 M1 芯片，简单易用，插入 NTFS 格式的磁盘或 U 盘即可使用。还支持格式化和修复 NTFS 磁盘。@Appi]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Arijit Mondal)</name>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Simple But Effective Mental Health Routine For Programmers]]></title>
-        <id>https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/</id>
-        <link href="https://smashingmagazine.com/2021/10/effective-mental-health-routine-programmers/"/>
-        <updated>2021-10-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll look at why taking care of our work-life balance is important, how to develop a simple and effective mental health routine, and the most common and efficient techniques you can use to make your custom routine.]]></summary>
+        <title type="html"><![CDATA[那个有 20+ 只猫的《猫咪锁屏提醒》应用，新增自动化语音播报功能]]></title>
+        <id>https://www.appinn.com/?p=40107</id>
+        <link href="https://www.appinn.com/maomi-suoping-for-ios/"/>
+        <updated>2021-10-18T07:20:02.000Z</updated>
+        <summary type="html"><![CDATA[猫咪锁屏提醒 是一款利用快捷指令实现在 iPhone 锁屏界面显示待办事项、倒数日、提醒的应用，拥有很多只可爱的猫咪，也会同时出现在锁屏界面。最新更新了自动化语音播报功能，可以做一些有趣的事情。@Ap]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Dave Oscar)</name>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【白话科普】CDN & 游戏加速器，两者是一个原理吗？]]></title>
+        <id>https://www.appinn.com/?p=40081</id>
+        <link href="https://www.appinn.com/upyun-cdn/"/>
+        <updated>2021-10-18T02:32:30.000Z</updated>
+        <summary type="html"><![CDATA[说起加速，大家可能就会联想到“游戏加速”之类的场景，而说到现在流行的云服务加速，则离不开 CDN 这个词。那么 CDN 和游戏加速器是同一种东西么？从效果上看两者都是为了“加速”，似乎是一样的。但是，]]></summary>
+        <author>
+            <name>开发者推荐账号</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求一个地理位置打卡软件]]></title>
+        <id>https://www.appinn.com/?p=40074</id>
+        <link href="https://www.appinn.com/geographic-location-check-in/"/>
+        <updated>2021-10-17T06:16:01.000Z</updated>
+        <summary type="html"><![CDATA[来自问题求助频道，@阿韬 同学的新问题： 求一个地理位置打卡软件 想找一个软件，打开之后可以记录这个时间我在哪个地理位置。关键就是要把时间和地点结合起来。 PS：高德就不用说了。 问题很简单，就是在需]]></summary>
+        <author>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
@@ -298,13 +473,13 @@ The post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tips And Tricks For Evaluating UX/UI Designers]]></title>
-        <id>https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/</id>
-        <link href="https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/"/>
-        <updated>2021-10-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 179 期）：AR 技术的打开方式]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html"/>
+        <updated>2021-10-15T00:37:00.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Nataliya Sambir)</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
@@ -328,16 +503,6 @@ Browse through SaaS communities on Twitter, LinkedIn, Reddit, Discord, you name 
 The post Embedded Analytics Made Simple With Cumul.io Integrations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Cumul.io</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart CSS Solutions For Common UI Challenges]]></title>
-        <id>https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/</id>
-        <link href="https://smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/"/>
-        <updated>2021-10-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Writing CSS has probably never been more fun and exciting than it is today. In this post we’ll take a look at common problems and use cases we all have to face in our work and how to solve them with modern CSS. If you’re interested, we’ve also just recently covered [CSS auditing tools](https://www.smashingmagazine.com/2021/03/css-auditing-tools/), [CSS generators](https://www.smashingmagazine.com/2021/03/css-generators/), [front-end boilerplates](https://www.smashingmagazine.com/2021/06/useful-frontend-boilerplates-starter-kits/) and [VS code extensions](https://www.smashingmagazine.com/2021/05/useful-vs-code-extensions-web-developers/) — you might find them useful, too.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
     <entry>
@@ -375,153 +540,33 @@ The post Less Absolute Positioning With Modern CSS appeared first on CSS-Tricks.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Upcoming Live Workshops On Front-End & UX (Oct 2021&ndash;Jan 2022)]]></title>
-        <id>https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/</id>
-        <link href="https://smashingmagazine.com/2021/10/new-smashing-online-workshops-oct-2021/"/>
-        <updated>2021-10-13T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Do you like a good interface design challenge? What about accessibility testing and design systems? Or maybe Next.js and advanced CSS? With our new online workshops on front-end & design, we cover all of it. Ah, and [here's what our workshops are like](https://vimeo.com/616485526).]]></summary>
+        <title type="html"><![CDATA[CSS content新的替换元素规范行为解读]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=10143</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2021/10/css-content-url/"/>
+        <updated>2021-10-08T12:42:07.000Z</updated>
+        <summary type="html"><![CDATA[CSS悄然发展，已有CSS行为也跟着发生了变化，content属性就是其一，现在所有现代浏览器都支持普通HTML元素通过content属性改变元素内容，背后的原理和机制是什么呢？]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+            <name>张 鑫旭</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Useful React APIs For Building Flexible Components With TypeScript]]></title>
-        <id>https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/</id>
-        <link href="https://smashingmagazine.com/2021/10/react-apis-building-flexible-components-typescript/"/>
-        <updated>2021-10-12T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[React with JSX is a fantastic tool for making easy-to-use components. Typescript components make it an absolute pleasure for developers to integrate your components into their apps and explore your APIs. Learn about three lesser-known React APIs that can take your components to the next level, and help you build even better React Components in this article.]]></summary>
+        <title type="html"><![CDATA[科技爱好者周刊（第 178 期）：家庭太阳能发电的春天]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-178.html"/>
+        <updated>2021-10-08T00:38:02.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Gaurav Khanna)</name>
+            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bridging The Gap Between Designers And Developers]]></title>
-        <id>https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/</id>
-        <link href="https://smashingmagazine.com/2021/10/bridging-gap-between-designers-developers/"/>
-        <updated>2021-10-12T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[UXPin has recently launched a new feature called “Merge”. This tool aims to break through the chasms of design and development, all while improving the agility and quality our teams expect. This new technology may cause some rethink on how the whole design team and engineering team collaborates.]]></summary>
+        <title type="html"><![CDATA[兼容IE浏览器的图片局部高斯模糊实现]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=10131</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2021/09/ie-image-local-filter-blur/"/>
+        <updated>2021-09-30T15:10:36.000Z</updated>
+        <summary type="html"><![CDATA[CSS实现高斯模糊很方便，但是如果要兼容IE怎么办，如果希望局部模糊怎么办，如果希望模糊的图像有合成能力怎么办，此时，还是得借助 canvas，本文就深入介绍如何使用 canvas 实现带羽化的局部模糊效果。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Matthew Talebi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Autofill Dark Pattern]]></title>
-        <id>https://smashingmagazine.com/2021/10/autofill-dark-pattern/</id>
-        <link href="https://smashingmagazine.com/2021/10/autofill-dark-pattern/"/>
-        <updated>2021-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A “dark pattern” is a deceptive UX pattern that tricks users into doing things they may not really want to do. In this article, Alvaro Montoro does a little experiment to find out how much privacy is taken away from users across three different browsers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Alvaro Montoro)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Composable CSS Animation In Vue With AnimXYZ]]></title>
-        <id>https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/</id>
-        <link href="https://smashingmagazine.com/2021/10/composable-css-animation-vue-animxyz/"/>
-        <updated>2021-10-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most animation libraries like GSAP and Framer Motion are built purely with JavaScript or TypeScript, unlike AnimXYZ, which is labelled “the first composable CSS animation toolkit”, built mainly with SCSS While a simple library, it can be used to achieve a lot of awesome animation on the web in a short amount of time and little code.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ejiro Asiuwhu)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building A Static-First MadLib Generator With Portable Text And Netlify On-Demand Builder Functions]]></title>
-        <id>https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/</id>
-        <link href="https://smashingmagazine.com/2021/10/static-first-madlib-generator-portable-text-netlify-builder-functions/"/>
-        <updated>2021-10-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be building an interactive fiction experience in which a user can insert words that match parts of speech given by the content creator. Let’s go!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Bryan Robinson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freebie: COVID-19 Icon Set (56 Icons, AI, EPS, SVG, PNG)]]></title>
-        <id>https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/</id>
-        <link href="https://smashingmagazine.com/2021/10/freebie-coronavirus-icon-set/"/>
-        <updated>2021-10-07T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every once in a while, we publish [freebies](https://www.smashingmagazine.com/category/freebies/) related to different occasions and themes. We hope that with this icon set, every designer will be able to find their own use case and contribute to saving lives. Free for personal and commercial use.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Anton Tyschenko)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To CSS Debugging]]></title>
-        <id>https://smashingmagazine.com/2021/10/guide-debugging-css/</id>
-        <link href="https://smashingmagazine.com/2021/10/guide-debugging-css/"/>
-        <updated>2021-10-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Debugging in CSS means figuring out what might be the problem when you have unexpected layout results. We’ll look at a few categories bugs often fit into, see how we can evaluate the situation, and explore techniques that help prevent these bugs.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Stephanie Eckles)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Local Testing A Serverless API (API Gateway And Lambda)]]></title>
-        <id>https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/</id>
-        <link href="https://smashingmagazine.com/2021/10/local-testing-serverless-api-gateway-lambda/"/>
-        <updated>2021-10-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever struggled with testing cloud services locally? Specifically, have you ever struggled with locally testing an API that uses API Gateway and Lambda, with the Serverless framework, on AWS? In this article, Tom Hudson shares a quick overview of how easy it is to quickly set up your project to test locally before deploying to AWS.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Tom Hudson)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Build An Expandable Accessible Gallery]]></title>
-        <id>https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/</id>
-        <link href="https://smashingmagazine.com/2021/10/build-expandable-accessible-gallery/"/>
-        <updated>2021-10-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll be looking at how to set up a gallery that is expandable as well as accessible with a few tips and tricks along the way. Let’s get started!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Silvestar Bistrović)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Implement Search Functionality In Your Nuxt App Using Algolia InstantSearch]]></title>
-        <id>https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/</id>
-        <link href="https://smashingmagazine.com/2021/10/search-functionality-nuxt-app-algolia-instantsearch/"/>
-        <updated>2021-10-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Many websites have some sort of search feature because it helps users navigate through their content easily. Implementing it the right way can be tricky and might not give a good user experience. In this tutorial, we will be integrating Algolia, a popular and powerful search service for the best experience on our Nuxt site.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Miracle Onyenma)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Time Of Transition (October 2021 Desktop Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/</id>
-        <link href="https://smashingmagazine.com/2021/09/desktop-wallpaper-calendars-october-2021/"/>
-        <updated>2021-09-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get your desktop ready for fall and the upcoming Halloween season with a fresh batch of desktop wallpapers. Created with love by designers and artists from across the globe, they come in versions with and without a calendar for October 2021.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Modern Image Formats: AVIF And WebP]]></title>
-        <id>https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/</id>
-        <link href="https://smashingmagazine.com/2021/09/modern-image-formats-avif-webp/"/>
-        <updated>2021-09-29T08:25:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll highlight how modern image formats (AVIF or WebP) can improve compression by up to 50% and deliver better quality per-byte while still looking visually appealing. We’ll compare what’s possible at high-quality, low-quality and file-size targets.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Addy Osmani)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improving The Accessibility Of Your Markdown]]></title>
-        <id>https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/</id>
-        <link href="https://smashingmagazine.com/2021/09/improving-accessibility-of-markdown/"/>
-        <updated>2021-09-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You can find Markdown in many places on the Internet. This article covers different aspects of Markdown and how it interacts with other technology.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Eric Bailey)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Dive Into Cypress For End-to-End Testing]]></title>
-        <id>https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/</id>
-        <link href="https://smashingmagazine.com/2021/09/cypress-end-to-end-testing/"/>
-        <updated>2021-09-27T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Is end-to-end testing a painful topic for you? In this article, Ramona Schwering explains how to handle end-to-end testing with Cypress and make it make it not so tedious and expensive for yourself, but fun instead.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ramona Schwering)</name>
+            <name>张 鑫旭</name>
         </author>
     </entry>
     <entry>
@@ -539,43 +584,13 @@ Thank you: @CaptNo1]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rebuilding A Large E-Commerce Website With Next.js (Case Study)]]></title>
-        <id>https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/</id>
-        <link href="https://smashingmagazine.com/2021/09/lessons-learned-ecommerce-nextjs-case-study/"/>
-        <updated>2021-09-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We made the switch from a more traditional integrated e-commerce platform to a headless platform with Next.js. Here are the most important lessons learned while rebuilding a large e-commerce site with Next.js.]]></summary>
+        <title type="html"><![CDATA[HTML slot 插槽元素深入]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=10125</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/"/>
+        <updated>2021-09-23T16:04:44.000Z</updated>
+        <summary type="html"><![CDATA[本文应该是目前最深入最细致的介绍 HTML slot 插槽元素的文章了，如果您对 Web 组件开发感兴趣，则本文内容不容错过。]]></summary>
         <author>
-            <name>hello@smashingmagazine.com (Jonne Kats)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Online Workshop: Frustrating Design Patterns And How To Fix Them]]></title>
-        <id>https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/</id>
-        <link href="https://smashingmagazine.com/2021/09/smashing-workshop-frustrating-design-patterns/"/>
-        <updated>2021-09-24T06:50:00.000Z</updated>
-        <summary type="html"><![CDATA[You’ve seen them before. Confusing and frustrating design patterns that seem to be chasing you everywhere you go, from one website to another. It’s time to fix them for good in a [free Smashing online workshop](https://smashingconf.com/online-workshops/workshops/vitaly-friedman-frustrating-patterns/) next week.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplifying Form Styles With `accent-color`]]></title>
-        <id>https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/</id>
-        <link href="https://smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/"/>
-        <updated>2021-09-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The new CSS `accent-color` property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent styles. In this article we’ll take a look at what it does and how to use it alongside `color-scheme` for simple, accessible checkboxes and radio buttons — and imagine how we might use it in the future.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Your `head` Straight: A New CSS Performance Diagnostics Snippet]]></title>
-        <id>https://smashingmagazine.com/2021/09/css-head-tag/</id>
-        <link href="https://smashingmagazine.com/2021/09/css-head-tag/"/>
-        <updated>2021-09-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We love little useful tools and techniques to help folks get their work done better and faster. Today, we’d love to shine the spotlights on a little helper that helps spot common performance bottlenecks easily: [ct.css](https://csswizardry.com/ct/).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+            <name>张 鑫旭</name>
         </author>
     </entry>
 </feed>
