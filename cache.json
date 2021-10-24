@@ -31,6 +31,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=40151",
+          "author": "青小蛙",
+          "description": "CleanUp.pictures 是一款开源的在线服务，它可以通过魔法橡皮擦，快速删掉任何图片中不需要的部分，简单快捷。@Appinn 感谢 @GitHubDaily 的推荐。 CleanUp.pic",
+          "link": "https://www.appinn.com/cleanup-pictures/",
+          "publishedOn": "2021-10-23T11:06:35.000Z",
+          "wordCount": 920,
+          "title": "CleanUp.pictures – 魔法橡皮擦：快速删掉任何图片中不需要的部分"
+        },
+        {
           "id": "https://www.appinn.com/?p=40146",
           "author": "青小蛙",
           "description": "昨天青小蛙折腾了在 Windows 11 上安装 Windows Subsystem for Android，也就是在 Windows 11 上运行 Android 系统，装好之后发现，这个所谓的子系",
@@ -347,15 +356,6 @@
           "publishedOn": "2021-09-30T15:10:36.000Z",
           "wordCount": 900,
           "title": "兼容IE浏览器的图片局部高斯模糊实现"
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10125",
-          "author": "张 鑫旭",
-          "description": "本文应该是目前最深入最细致的介绍 HTML slot 插槽元素的文章了，如果您对 Web 组件开发感兴趣，则本文内容不容错过。",
-          "link": "https://www.zhangxinxu.com/wordpress/2021/09/html-slot-dom/",
-          "publishedOn": "2021-09-23T16:04:44.000Z",
-          "wordCount": 942,
-          "title": "HTML slot 插槽元素深入"
         }
       ]
     },
@@ -364,6 +364,42 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=69351",
+          "author": null,
+          "description": "YouTube 上的教学视频市场已经饱和，一名教师认为成人视频平台上此类视频存在很大的空白，他因此决定将自己的微积分课程视频上传到Pornhub。结果他成功了，他的视频获得了 160 万浏览量，并为自己的付费在线课程找到了更多客户，年收入达到了 25 万美元以上。Pornhub 社区也接受了这位教师，视频下的留言大多比较友好，有用户表示数学期末考试要用到。他的微积分视频包括了三个部分(1) 极限篇、连续篇、微分篇、微分应用篇；(2) 积分前篇、积分后篇；(3) 数列与级数、多变量函数微积分、向量微积分。第一部分是免费的，第二和第三部分则要付费。",
+          "link": "https://www.solidot.org/story?sid=69351",
+          "publishedOn": "2021-10-23T08:01:44.000Z",
+          "wordCount": 82,
+          "title": "数学教师将微积分课程视频上传到 Pornhub"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69350",
+          "author": null,
+          "description": "苹果更新了它的《App Store 审核指南》，删除了“开发者不得使用从 app 内获得的信息将个人用户定向到 app 之外的位置，以使用 app 内购买项目之外的购买方式 (例如，个人用户在 app 内注册帐户后，向这位用户发送介绍其他购买方式的电子邮件)。”苹果是在 8 月份宣布它允许应用开发者为客户提供无需支付佣金的直接购买方式。剔除相关条款兑现了这一声明。",
+          "link": "https://www.solidot.org/story?sid=69350",
+          "publishedOn": "2021-10-23T07:44:09.000Z",
+          "wordCount": 84,
+          "title": "苹果允许开发者向客户提供其它支付选项"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69349",
+          "author": null,
+          "description": "俄罗斯勒索软件组织 REvil 本周再次下线，该组织运营者 0_neday 自称服务器遭到入侵。据路透报道，执法机构和情报人员采取行动阻止 REvil 继续伤害其它公司。美国特勤局网络犯罪调查顾问、VMWare 网络安全战略负责人 Tom Kellermann 称，FBI、特勤局以及其它志同道合的国家合作对勒索软件组织发动了破坏性行动，而 REvil 是主要目标。REvil 在今年 7 月曾下线了数个月，据报道当时美国的执法和情报机构入侵了 REvil 基础设施，至少获得了对部分服务器的访问权。上个月，0_neday 等人重新恢复服务时无意中重启了已被执法机构控制的内部系统。",
+          "link": "https://www.solidot.org/story?sid=69349",
+          "publishedOn": "2021-10-22T15:18:08.000Z",
+          "wordCount": 94,
+          "title": "政府采取行动迫使 REvil 再次下线"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69348",
+          "author": null,
+          "description": "美国前总统特朗普本周宣布了一个新社交应用 TRUTH Social，它很快被发现是基于自由软件社交网络 Mastodon。Mastodon 采用的是 AGPLv3 许可证，允许自由修改代码，但按照许可证要求必须公开其修改的代码。TRUTH Social 尚未遵守这一要求。Mastodon 创始人 Eugen Rochko 目前无意讨论是否对 TRUTH 未遵守许可证的行为采取法律行动，只是声明遵守 AGPLv3 要求很重要。TRUTH 将在 11 月向受邀请的用户开放测试。",
+          "link": "https://www.solidot.org/story?sid=69348",
+          "publishedOn": "2021-10-22T13:50:32.000Z",
+          "wordCount": 90,
+          "title": "特朗普的新社交应用被发现违反了自由软件许可证"
+        },
         {
           "id": "https://www.solidot.org/story?sid=69347",
           "author": null,
