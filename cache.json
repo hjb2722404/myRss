@@ -31,6 +31,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=40136",
+          "author": "青小蛙",
+          "description": "两年前，青小蛙发现过一个相当有趣的网页：Fix My Speakers 🔊 – 通过特定的声波，清出意外弄湿的喇叭里的液体，用你的 iPhone 访问这个网页，喇叭就会发出奇怪的",
+          "link": "https://www.appinn.com/labapaishui-shortcuts/",
+          "publishedOn": "2021-10-24T03:08:00.000Z",
+          "wordCount": 826,
+          "title": "落水后，为 iPhone 喇叭排水的「专用快捷指令」"
+        },
+        {
           "id": "https://www.appinn.com/?p=40151",
           "author": "青小蛙",
           "description": "CleanUp.pictures 是一款开源的在线服务，它可以通过魔法橡皮擦，快速删掉任何图片中不需要的部分，简单快捷。@Appinn 感谢 @GitHubDaily 的推荐。 CleanUp.pic",
@@ -340,6 +349,15 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10148",
+          "author": "张 鑫旭",
+          "description": "虽然目前项目符号支持的关键字值接近上百个，但是还是不能满足日常开发的需求，在这种情况下，@counter-style 出现了，可以让我们自定义计数规则。",
+          "link": "https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/",
+          "publishedOn": "2021-10-24T17:19:41.000Z",
+          "wordCount": 1399,
+          "title": "CSS @counter-style规则详细介绍"
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10143",
           "author": "张 鑫旭",
           "description": "CSS悄然发展，已有CSS行为也跟着发生了变化，content属性就是其一，现在所有现代浏览器都支持普通HTML元素通过content属性改变元素内容，背后的原理和机制是什么呢？",
@@ -364,6 +382,42 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=69355",
+          "author": null,
+          "description": "加密电邮服务商 Proton（ProtonMail）在瑞士赢得对数据保存义务的上诉。瑞士联邦行政法院裁决，电邮服务商不能被视为电信服务商，因此不受数据保存要求的约束。瑞士邮政和电信监督局（PTSS）在 2020 年 9 月裁定 Proton 不再受益于有限的监视义务，必须保存监视所需要的数据，并在质询时提供数据。Proton 对此提起了上诉。联邦行政法庭现在推翻了这一裁定。Proton 创始人兼 CEO Andy Yen 表示法庭的裁决是其推进隐私和自由的重要第一步。Proton 上个月因替法国警方跟踪一位使用其服务的法国活动人士的 IP 地址而引发争议，它表示默认情况下并不会记录 IP 地址，这次只是遵守瑞士国内的法律。",
+          "link": "https://www.solidot.org/story?sid=69355",
+          "publishedOn": "2021-10-24T12:04:55.000Z",
+          "wordCount": 91,
+          "title": "Proton 在瑞士赢得对数据保存义务的上诉"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69354",
+          "author": null,
+          "description": "Process Hacker 是一款强大而灵活的开源工具，采用 GNU GPLv3 许可证，可用于监视系统资源、调试软件和检测恶意程序，但由于微软拒绝为新版本提供内核驱动签名，这意味着较新版本的 Process Hacker 将无法在 Windows 上使用。微软 Microsoft Process Explorer 与 Process Hacker 拥有相同的功能，但 Process Hacker 更受欢迎，开发者认为微软采用了与对付 Netscape Navigator 浏览器相同的方法去消除竞争。微软声称拥抱开源和透明，但实际上是做一套说一套。",
+          "link": "https://www.solidot.org/story?sid=69354",
+          "publishedOn": "2021-10-24T11:38:22.000Z",
+          "wordCount": 100,
+          "title": "微软拒绝为 Process Hacker 提供内核驱动签名"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69353",
+          "author": null,
+          "description": "电邮服务 Fastmail、Runbox 和 Poste 正遭到大规模 DDoS 攻击，攻击者要求支付比特币以停止攻击。Runbox 称，攻击流量超过了 50 Gbps，间歇性的屏蔽了客户对其服务的访问。向勒索者支付金钱并不能保证未来不会发生类似的攻击，只能让此类攻击变得更具有吸引力，增加未来发动 DDoS 攻击得可能性。相同得勒索者还攻击了 Fastmail 和 Poste。",
+          "link": "https://www.solidot.org/story?sid=69353",
+          "publishedOn": "2021-10-23T15:48:54.000Z",
+          "wordCount": 95,
+          "title": "Fastmail、Runbox 和 Poste 遭到 DDoS 勒索攻击"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69352",
+          "author": null,
+          "description": "印度新冠疫苗接种数量突破 10 亿剂，相比今年初因 Delta 变种感染人数激增医院瘫痪的情况，现在堪称是一个里程碑。在印度符合接种条件的成年人口中，约 75% 至少接种了一剂，30% 完成了两剂接种。印度是在中国之后第二个接种数量突破 10 亿剂的人口大国。中国的新冠疫苗接种在八月底突破了 20 亿剂次，8.9 亿人完成全程接种。印度官员表示，第二剂接种是目前的优先事项。",
+          "link": "https://www.solidot.org/story?sid=69352",
+          "publishedOn": "2021-10-23T12:46:29.000Z",
+          "wordCount": 87,
+          "title": "印度新冠疫苗接种数量突破 10 亿剂"
+        },
         {
           "id": "https://www.solidot.org/story?sid=69351",
           "author": null,
