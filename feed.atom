@@ -2,10 +2,280 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-10-26T00:55:13.805Z</updated>
+    <updated>2021-10-27T00:54:51.603Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[On Browser-Specific URL Schemes]]></title>
+        <id>https://css-tricks.com/?p=354365</id>
+        <link href="https://css-tricks.com/on-browser-specific-url-schemes/"/>
+        <updated>2021-10-26T20:06:29.000Z</updated>
+        <summary type="html"><![CDATA[We’ve covered URL schemes: 
+A URL Scheme is like “http://…” or “ftp://…”. Those seem like a very low-level concept that you don’t have much control over, but actually, you do!
+I’d call it non-trivial, but developers can register new …
+The post On Browser-Specific URL Schemes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国向 WHO 报告 21 起禽流感传人案例]]></title>
+        <id>https://www.solidot.org/story?sid=69386</id>
+        <link href="https://www.solidot.org/story?sid=69386"/>
+        <updated>2021-10-26T15:35:41.000Z</updated>
+        <summary type="html"><![CDATA[中国在 2021 年向世界卫生组织(WHO)通报有 21 起人类感染 H5N6 亚型禽流感的案例，而去年只有 5 起。虽然这些数字比 2017 年感染 H7N9 毒株的数百人要低得多，但这些感染很严重，导致许多人病危，至少有 6 人死亡。世卫组织在 10 月 4 日的一份声明中强调病例的增加，并说大多数病例都与家禽接触过，没有人传人的确认病例。世卫组织称，“迫切需要”进一步调查，以了解风险和蔓延到人身上的增加情况。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网信办发布《互联网用户账号名称信息管理规定（征求意见稿）》]]></title>
+        <id>https://www.solidot.org/story?sid=69385</id>
+        <link href="https://www.solidot.org/story?sid=69385"/>
+        <updated>2021-10-26T15:31:50.000Z</updated>
+        <summary type="html"><![CDATA[网信办发布了《互联网用户账号名称信息管理规定（征求意见稿）》 ，意见截止日期 11 月 10 日。其中规定：
+
+
+第五条 互联网用户账号使用者注册账号时，应当与互联网用户账号服务平台签订协议，提供真实身份信息，遵守平台内容生产和账号管理规则、平台公约和服务协议。互联网用户账号使用者在注册、使用账号时，账号名称信息可与使用者的真实职业身份信息相一致。未成年人注册账号时，应当取得其监护人的同意并提供未成年人本人居民身份证号码用于真实身份信息核验。
+
+第六条 互联网用户账号使用者在注册、使用账号名称信息中应当遵循以下原则：互联网个人用户的账号名称信息应当充分体现个人特征，不得模仿、类似党政军机关、新闻媒体、企事业单位等组织机构的名称、标识，或是国家行政区域的地理名称，避免误导公众；互联网机构用户的账号名称信息应当与机构自身的名称、标识等相符合，与机构性质、经营范围和所属行业类型相匹配。
+
+
+第十二条 互联网用户账号服务平台应当以显著方式，在互联网用户账号信息页面展示账号IP地址属地信息。境内互联网用户账号IP地址属地信息需标注到省（区、市），境外账号IP地址属地信息需标注到国家（地区）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流量重定向 Rootkit 使用了微软签发的数字签名]]></title>
+        <id>https://www.solidot.org/story?sid=69384</id>
+        <link href="https://www.solidot.org/story?sid=69384"/>
+        <updated>2021-10-26T14:56:27.000Z</updated>
+        <summary type="html"><![CDATA[安全公司 Bitdefender 的研究人员发现，一种流量重定向 Rootkit 恶意程序以某种方式通过了驱动程序认证程序， 获得了微软签发的数字签名证书。有效的证书让 Rootkit 能绕过操作系统的限制。窃取企业的数字证书在网络犯罪领域并不罕见，但直接从微软获取合法证书则令人困惑。安全研究人员猜测可能是犯罪分子尝试着递交驱动进行验证，然后不知为何通过了审核获得了证书。名为 FiveSys 的 rootkit 被认为主要通过捆绑破解软件传播，它会安装一个定制 root 证书将流量重定向通过一个代理服务器，它主要被用于攻击网游玩家，旨在窃取登陆凭证和劫持游戏内购买。网络游戏内的虚拟物品交易会涉及到大量资金。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-Page Filtered Search With Vanilla JavaScript]]></title>
+        <id>https://css-tricks.com/?p=353747</id>
+        <link href="https://css-tricks.com/in-page-filtered-search-with-vanilla-javascript/"/>
+        <updated>2021-10-26T14:11:59.000Z</updated>
+        <summary type="html"><![CDATA[If you have a page that includes a lot of information, it’s a good idea to let users search for what they might be looking for. I’m not talking about searching a database or even searching JSON data — I’m …
+The post In-Page Filtered Search With Vanilla JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Hilman Ramadhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Userwell is for Managing Customer Feedback]]></title>
+        <id>https://css-tricks.com/?p=353621</id>
+        <link href="https://css-tricks.com/userwell-is-for-managing-customer-feedback/"/>
+        <updated>2021-10-26T14:10:05.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Building products for users is a balance between your vision of what your product can do for them, and refining that vision based on their feedback. If you’re really a customer-focused company, you’re listening. …
+The post Userwell is for Managing Customer Feedback appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[独立游戏开发者发现 Linux 玩家递交了更多 Bug 报告]]></title>
+        <id>https://www.solidot.org/story?sid=69383</id>
+        <link href="https://www.solidot.org/story?sid=69383"/>
+        <updated>2021-10-26T12:31:03.000Z</updated>
+        <summary type="html"><![CDATA[2D 太空模拟游戏《ΔV: Rings of Saturn》的开发商 Kodera Software 在 Reddit 上分享了一组有意思的统计数据。游戏发布抢先体验版本已有两年之久，共售出了超过 1.2 万份拷贝，其中 700 多份是 Linux 玩家购买的。虽然 Linux 玩家数量只占到了所有玩家总数的 5.8%，但他们却报告了 38% 的 bug。抢鲜体验类游戏通常存在大量 bug。开发商共收到 1040 个 bug 报告，Linux 玩家报告了约 400 个，平均 1.75 个 Linux 玩家报告 1 个，他们报告的 bug 并不都是 Linux 平台特有，绝大部分同时影响其它平台。 Linux 玩家的 Bug 报告质量也非常高，包括了非常详细的信息。这一现象被认为与 Linux 使用群体有关，他们很多是 IT 专业人士或软件工程师，熟悉 bug 报告流程。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows XP 发布二十周年，仍有很多人在使用]]></title>
+        <id>https://www.solidot.org/story?sid=69382</id>
+        <link href="https://www.solidot.org/story?sid=69382"/>
+        <updated>2021-10-26T11:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Windows XP 于 2001 年 10 月 25 日发布，至今二十周年，由于其易用、运行性能快而可靠，它被认为是最受欢迎的 Windows 版本之一。在 XP 之后微软发布了 Windows 7、8、10 和 11，然而至今仍然有一部分人继续使用它。这是它成功的证明。但微软在 2014 年 4 月 14 日结束了对 XP 的主流支持，扩展支持持续了五年，意味着 XP 用户使用的是缺乏安全保障的系统。根据 StatCounter 的统计数据，截至 2021 年 9 月，使用 XP 的 Windows 用户比率为 0.59%，考虑到 Windows 设备数以亿计，XP 设备的绝对数量仍然相当惊人。值得一提的是，在亚美尼亚，Windows XP 是最受欢迎的操作系统，在 Windows 用户中的比率高达 53.5%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[员工恳请 Facebook 停止让政客改变规则]]></title>
+        <id>https://www.solidot.org/story?sid=69381</id>
+        <link href="https://www.solidot.org/story?sid=69381"/>
+        <updated>2021-10-26T11:22:33.000Z</updated>
+        <summary type="html"><![CDATA[泄露内部文件显示，尽管员工要求停止但 Facebook 高管仍然在进行干预，允许美国政界人士和名人在其社交网络上发布任何他们想发的内容。员工在文件中声称，尽管 Facebook 长期坚持政治中立的立场，但在保守派指责偏见后，它允许右翼人士打破旨在遏制错误信息和有害内容的规则。
+
+
+2020 年 9 月，就在美国总统大选之前，一份内部备忘录的作者写道，“董事级员工”已经“在内部写道，他们更愿意在决策过程中正式排除政治考虑因素。”作者呼吁公司管理层在其内容审核团队周围建立一道“防火墙”，以阻止这种情况发生，确保 Facebook 不会因为外部政治和媒体压力而保留或删除帖子。
+
+
+在另一份日期为2020 年 12 月的内部报告中，一名员工声称 Facebook 的公共政策团队在看到删帖可能会伤害强大的政治人物时阻拦了删除帖子的决定。作者还表示：“在多个案例中，关于某个重要的帖子是否违反了特定书面政策的最终判断是由公司高管做出的，有时候是扎克伯格（Mark Zuckerberg）本人。”BuzzFeed 此前曾报道过该笔记的部分内容。
+
+
+2019 年的另一个例子中，扎克伯格亲自参与了一项决定，允许发布一段视频，该视频虚假地宣称堕胎“从来没有医学上的必要”。后来这个帖子被内容审核人员撤下，在共和党政客投诉后又恢复了。
+
+
+它们是被称为 Facebook Papers 的文件的一部分，Facebook Papers 向美国监管机构披露，以经过编辑的形式由吹哨人 Frances Haugen 的法律顾问提交给美国国会。包括《金融时报》在内的新闻机构获得了国会收到的这个经过编辑的版本。关于将内容团队与政策和沟通团队分开的任何讨论结果，Facebook 拒绝回应询问。
+
+
+Facebook 发言人 Joe Osborne 表示：“这些故事的核心是一个错误的前提。是的，我们是一家企业，我们赚取利润。但认为我们这样做是以牺牲人们的安全或福祉作为代价的想法误解了我们自身的商业利益所在。事实上，我们已经投资了 130 亿美元，有超过 40,000 名员工都在做一项工作：确保人们在 Facebook 上的安全。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊严重人力资源问题内情]]></title>
+        <id>https://www.solidot.org/story?sid=69380</id>
+        <link href="https://www.solidot.org/story?sid=69380"/>
+        <updated>2021-10-26T10:49:08.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊处理带薪/无薪休假的系统存在一系列的问题，给员工带来了灾难性的后果。
+
+
+一年前，亚马逊俄克拉荷马州仓库的工人 Tara Jones 抱着她的新生儿，扫了一眼手机上的工资单，发现工资明显偏低：540 美元的工资少了 90 美元。在报告了问题之后，错误还在重复出现。在社区大学上过会计课程的 Jones 女士非常恼火，她给公司创始人 Jeff Bezos 写了一封电子邮件。她写道：“我拖欠了账单，都是因为薪酬团队搞砸了……我是哭着写这封电子邮件的。” Jones 女士不知道的是，她给 Bezos 的邮件推动了内部调查，发现 Jones 女士的问题不是孤例。
+
+
+一份机密文件记录了调查结果，文件显示，至少一年半内——包括获得创纪录利润的那段时间——亚马逊一直在克扣新生儿父母、面对医疗危机的患者和其他弱势工人的薪水，给他们记缺勤。自一年多前开业以来，Jones 女士所在工厂的部分薪酬计算一直是错误的。公司 179 个其他仓库也可能存在相同问题。亚马逊发言人 Kelly Nantel 表示，到目前为止，亚马逊仍在确定受到影响的员工并为其补发工资。据《纽约时报》数十次采访和获得的数百页内部文件显示，这只是亚马逊处理带薪/无薪休假系统中长期存在的诸多问题之一。记录和采访显示问题涉及面更为广泛——影响到了该公司的蓝领和白领工人——比之前知道的更严重。几位内部人士表示这是公司最严重的人力资源问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们是否应该为开采月球水资源投资建造基础设施]]></title>
+        <id>https://www.solidot.org/story?sid=69379</id>
+        <link href="https://www.solidot.org/story?sid=69379"/>
+        <updated>2021-10-26T09:55:45.000Z</updated>
+        <summary type="html"><![CDATA[自 Clementine 探测器于 1994 年在月球上发现水冰以来，重返月球的前景令人激动不已。兴奋的情绪一扫阿波罗任务结束带来的长达二十年的消沉。水改变了一切。水冰沉积物位于月球的两极，藏在永远没有阳光的陨石坑深处。从那时起，尤其是国际空间站，我们开发了很多先进的技术，能高效地回收水和氧气。这使得为人类消费提供本地水的价值变小了，但如果月球人口增长，需求也会随之增加。如何处理月球上的水？有两个常见答案：用燃料电池储能以及用于推进系统的燃料和氧化剂。第一个理由很容易略过：燃料电池在充电时通过电解回收氢和氧，几乎没有泄漏。第二个理由——也是目前是月球水开采的主要理由——则更为复杂，但并不引人注目。值得一提的是，SpaceX 的火箭使用了甲烷/氧气混合物，因此它们不需要氢推进剂。在太空中开采和利用资源有一个专有名词：就地资源利用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wormhole – 带内网穿透的点对点文件分享工具[Windows]]]></title>
+        <id>https://www.appinn.com/?p=40168</id>
+        <link href="https://www.appinn.com/wormholesoft/"/>
+        <updated>2021-10-26T09:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Wormhole 是一款正在公测的点对点文件分享工具，目前拥有 Windows 客户端，开启服务后即可将当前电脑变为文件分享中枢，用户可通过网页在任何地点进行上传、下载文件，自带内网穿透功能。需手机号]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ocean Cleanup 演示能清除太平洋塑料垃圾的设备]]></title>
+        <id>https://www.solidot.org/story?sid=69378</id>
+        <link href="https://www.solidot.org/story?sid=69378"/>
+        <updated>2021-10-26T08:15:55.000Z</updated>
+        <summary type="html"><![CDATA[Boyan Slat 在 18 岁时宣布了清理海洋塑料垃圾的计划。在将近十年之后，现年 27 岁的 Slat 是荷兰发明家，也是非营利组织 Ocean Cleanup 的创始人，目标是到 2040 年清除 90% 的海洋漂浮塑料。
+
+
+目标似乎遥不可及。Ocean Cleanup 于 2018 年首次尝试塑料捕获装置，但原型机在水中出现故障。2019 年发布的新型号在收集塑料方面做得更好，但估计需要数百台设备清洁全世界的海洋。科学家和工程师开始质疑该组织能否兑现其筹集到的数千万美元资金交付设备的能力。
+
+
+今年夏天，该组织将希望寄托于一种新设备上面，设备昵称 Jenny，本质上是一条人造漂浮线，它像长开的巨大手臂捕捉塑料，然后将垃圾倒入漏斗状的编织网中。两艘船以大约 1.5节（比正常步行速度慢）的速度拖着它穿过水面，洋流将漂浮的垃圾推向巨网。
+
+
+8月初，该团队在太平洋大垃圾带（Great Pacific Garbage Patch）中放出了Jenny，这是夏威夷和加利福尼亚之间一股充满了垃圾的涡流。根据 Ocean Cleanup 估计，该垃圾带是世界上最大的海洋塑料垃圾堆，包含了超过 1.8 万块塑料垃圾。
+
+
+上周，Jenny 面临着最后的考验，该组织试图确定它是否可以将大量塑料拖到岸上而不会破裂或出现故障。Ocean Cleanup 表示，设备从太平洋拖出了 9,000 公斤的垃圾——证明垃圾带最终可以被清理干净。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“三叠纪最大的食肉恐龙”其实是胆小的素食者]]></title>
+        <id>https://www.solidot.org/story?sid=69377</id>
+        <link href="https://www.solidot.org/story?sid=69377"/>
+        <updated>2021-10-26T07:44:43.000Z</updated>
+        <summary type="html"><![CDATA[50 年前在澳大利亚煤矿中发现的脚印化石一直被认为属于一种“类猛禽”的掠食性恐龙，但科学家现在发现，它们实际上是由一种胆小的长颈食草恐龙留下的。
+
+
+昆士兰大学古生物学家 Anthony Romilio 博士带领一个国际团队重新分析这些脚印，认为是在 2.2 亿年前三叠纪后期留下的。Romilio 博士表示：“多年来，人们一直认为这些足迹是由实雷龙足迹属 Eubrontes 留下的，它们腿高超过 2米。”“这个观点在几十年前引起轰动，在三叠纪时期，没有其他食肉恐龙接近这个尺寸。”
+
+
+发表于同行评议《Historical Biology》期刊上的研究论文显示，这些足迹实际上是一种被称为 Prosauropod 的恐龙留下的——它是一种体型较小的素食恐龙，腿高约 1.4 米，体长为 6 米。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来自国企的排放]]></title>
+        <id>https://www.solidot.org/story?sid=69376</id>
+        <link href="https://www.solidot.org/story?sid=69376"/>
+        <updated>2021-10-26T07:35:28.000Z</updated>
+        <summary type="html"><![CDATA[2019 年世界前五大排放国占全球排放量的 60% ，其中中国的排放量与其它四国总和相当。中国的碳排放量仍在增加。造成这一问题的一大部分原因是数十家国有企业。去年中石化一个子公司对全球变暖的贡献就超过了加拿大，世界上最大的钢铁厂宝武去年向大气中排放的二氧化碳量比巴基斯坦还要多，超过了奥地利和比利时的总和。任何希望影响气候变化的尝试都必须包括中国的国企。
+
+
+中国脱碳有几个有利因素。太阳能和风能现在比化石燃料便宜。电动汽车和电池技术已经成熟，中国在这两个领域都处于领先地位。对氢和碳捕捉等绿色技术的投资处于历史最高水平，增加了大规模部署的可能性……
+
+
+中国最大的任务是让电力系统“变绿”。这意味着关闭数以千计的燃煤发电厂并大幅增加清洁能源。中国在可再生能源方面处于世界领先地位，刚刚在沙漠中启动了一个 100GW 的大型项目，其规模将超过今天印度安装的所有风能和太阳能项目。被称为“五巨头”的中国公用事业公司——华能、华电、中电投、国家能源集团、中国大唐是世界最大的排放企业。2020 年仅这几家企业的排放就增加了 9.6 亿吨二氧化碳，比俄罗斯整个燃煤电力行业的两倍还多。
+
+
+电力五巨头承诺到 2025 年实现排放达到峰值，但电力需求仍在增加，政府官员一直在将煤炭作为维持能源安全的一种方式——尤其是在世界努力应对冬季能源短缺之时。今年上半年，中国国企申请新建燃煤发电机组 43 台，新建煤电装机容量 15GW。
+
+
+中国一半以上的石油用于运输。政府一直在全国范围内大力推广电动汽车，电动汽车数量已是世界第一。规划者希望到 2025 年，每五辆新车中就有一辆是新的电动汽车，这一比例现在是 5%。同更环保的发电相结合，这是减少碳排放的最佳选择。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软的开源项目办公室]]></title>
+        <id>https://www.solidot.org/story?sid=69375</id>
+        <link href="https://www.solidot.org/story?sid=69375"/>
+        <updated>2021-10-26T07:01:32.000Z</updated>
+        <summary type="html"><![CDATA[VentureBeat 采访了微软的开源项目办公室（OSPO）主任 Stormy Peters。Peters 表示：“随着越来越多的组织参与开源，这是令人兴奋的时刻。对于开发者来说，参与开源和能在工作中使用开源软件同样重要——参与开源的工作更可能留住开发人者。”
+
+
+然而软件供应链攻击和其他安全问题带来的威胁日趋严重，更不用说各种复杂的许可证和合规问题，这给开发者和工程师带来了相当大的压力，他们真正想做的只是构建产品。这就是 OSPO 诞生的目的。Peters 表示：“OSPO 有助于确保开发人员快速行动。如果没有 OSPO，微软的团队可能需要自己完成更多合规性工作，在理解开源许可证、合规性、最佳实践和社区时，他们必须重新发明轮子——他们能做的很好，但我们希望通过在公司内相互学习以及使用工具标准，帮助他们做得更快更好。”
+
+
+Peters 表示，OSPO 发展迅速，在范围和行业普及方面有两个特别的变化。Peters解释称：“OSPO 不再只关注许可证合规性和知识产权问题——我们现在帮助提供最佳实践、培训、外展等……OSPO 不再只是科技公司的专属。”事实上，TODO Group 最近的一项调查发现，虽然 OSPO 在科技行业的普及率仍然是最高的，但是在教育和公共部门等也正在兴起。TODO Group 是一个会员制组织，旨在围绕开源项目开展协作并分享最佳实践。“我们希望减少摩擦，让员工更容易使用开源——包括使用和贡献开源软件，以及在社区中启动项目……”
+
+
+Peters 解释称：“我们的工作是帮助员工更轻松地使用开源，为开源做出贡献……我们与所有团体合作，帮助制定政策，为员工提供知识和工具，并就他们的开源战略咨询公司内部和业内其他公司的不同团体。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超精密时钟显示量子世界与引力如何关联]]></title>
+        <id>https://www.solidot.org/story?sid=69374</id>
+        <link href="https://www.solidot.org/story?sid=69374"/>
+        <updated>2021-10-26T06:32:31.000Z</updated>
+        <summary type="html"><![CDATA[单个原子云的顶部和底部的时间流速不同。物理学家希望此类系统有朝一日能帮助将量子力学和爱因斯坦的引力理论结合起来。
+
+
+臭名昭著的双胞胎悖论将宇航员 Alice 送上极速太空之旅。当她返回与双胞胎兄弟 Bob 重聚时，她发现他衰老得更快。这是一个众所周知但是令人困惑的结果：如果你运动得快，时间就会变慢。引力有相同的效果。根据爱因斯坦的相对论，地球——或者任何大质量物体——以一种减缓时间的方式扭曲时空。如果 Alice 生活在海平面上，Bob 生活在引力稍弱的珠穆朗玛峰峰顶，他会又一次衰老得更快。地球上的差异不大，但真实存在——差异可以通过将原子钟放在山顶和谷底，通过两者之间的差异进行测量。
+
+
+物理学家现在设法将这种差异测量到毫米。本月早些时候发表在预印本服务 arxiv.org 上的一篇论文中，Jun Ye 实验室的研究人员测量到了毫米级电子云顶部和底部之间的时间流逝差异。Jun Ye 是科罗拉多州博尔德市 JILA 研究所的一位物理学家。这项工作将广义相对论和量子力学交叉研究推进了一步，众所周知，这两种理论彼此不相容。新时钟采用了一个基本的量子系统——原子钟——并将其与引力交织在一起。在实验中，Ye 的团队使用了一个光学晶格钟，这是一个由 100,000个锶原子组成的云，可以被激光激发。如果激光的频率恰好，围绕每个原子运行的电子将被激发到更高更活跃的轨道。因为只有很小范围的激光频率会激励电子移动，所以测量这个频率可以提供极其精确的时间测量。它就像一个量子老爷钟，不过滴答声是来自激光的振荡，而不是钟摆的摆动。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook 投资数十亿美元发展元宇宙]]></title>
+        <id>https://www.solidot.org/story?sid=69373</id>
+        <link href="https://www.solidot.org/story?sid=69373"/>
+        <updated>2021-10-26T04:52:37.000Z</updated>
+        <summary type="html"><![CDATA[在广告业务面临不确定性之际，社交巨人宣布将投资数十亿美元发展元宇宙技术，而它将开始公布其虚拟和增强现实部门的财务数据。Facebook 首席执行官扎克伯格(Mark Zuckerberg)表示，在未来几年里，Facebook 将被看作是一家元宇宙公司，而不是一家社交媒体公司，它进行了多项投资来发展元宇宙技术。“元宇宙”一词出自 30 年前一本反乌托邦小说，目前正在引起广泛讨论。它泛指一个共享的虚拟环境，任何使用不同设备的人都可以进入访问。该公司并未宣布任何新名称。针对上周 Verge 关于其改名计划报导，Facebook 回应称不会对“谣言或臆测”置评。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉市值突破一万亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=69372</id>
+        <link href="https://www.solidot.org/story?sid=69372"/>
+        <updated>2021-10-26T02:17:43.000Z</updated>
+        <summary type="html"><![CDATA[在从租车公司 Hertz 获得了有史以来最大订单之后，特斯拉周一市值突破 1 万亿美元，成为全球市值最高的汽车制造商。特斯拉是第一个跻身万亿美元公司精英俱乐部的汽车制造商，这些公司包括苹果、亚马逊、微软和 Alphabet。多数汽车制造商并不会夸耀对租车公司的销售，这类销售通常是以折扣价进行的，以出清滞销车型。但对特斯拉及其投资者来说，Hertz 决定在 2022 年底前订购 10 万辆特斯拉汽车，表明电动车不再是小众产品，在不久的将来将主导大众汽车市场。特斯拉周一在解决威胁到其中国业务的监管问题方面似乎也取得了进展。该公司表示，已在上海新开设一家数据和研究中心，以符合政府的要求，即从中国车辆收集的数据必须留在中国。然而，特斯拉周一面临美国方面新的监管压力。美国国家运输安全委员会(NTSB)新任负责人致信马斯克(Elon Musk)，质疑特斯拉为何要推出“全自动辅助驾驶(Full Self Driving)”软件，即使该公司尚未正式回应 NTSB 对这套自动驾驶系统安全性的质疑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Greatest CSS Tricks Vol. I eBook (PDF and EPUB)]]></title>
         <id>https://css-tricks.com/?p=353728</id>
@@ -15,6 +285,16 @@
 The post The Greatest CSS Tricks Vol. I eBook (PDF and EPUB) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小鹏汽车宣布飞行汽车]]></title>
+        <id>https://www.solidot.org/story?sid=69371</id>
+        <link href="https://www.solidot.org/story?sid=69371"/>
+        <updated>2021-10-25T15:30:20.000Z</updated>
+        <summary type="html"><![CDATA[小鹏汽车子公司小鹏汇天周日宣布了能在公路行驶也能在空中飞行的电动汽车，计划在 2024 年推出。小鹏汇天上周宣布其 A 轮融资筹集到超过 5 亿美元。小鹏汇天称其电动汽车采用轻量级设计，有一个可以折叠的水平旋翼，设计尚未完全确定，最终设计可能会有变动。飞行汽车配备了一系列安全功能，包括降落伞。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -36,6 +316,64 @@ The post The Greatest CSS Tricks Vol. I eBook (PDF and EPUB) appeared first on C
 The post The Semantics of Jamstack appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Mike Neumegen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉在上海建成研发中心和数据中心]]></title>
+        <id>https://www.solidot.org/story?sid=69370</id>
+        <link href="https://www.solidot.org/story?sid=69370"/>
+        <updated>2021-10-25T12:05:28.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉周一表示，特斯拉上海研发创新中心和特斯拉上海超级工厂数据中心均建设落成，并于近期投入使用；其中，上海研发创新中心是特斯拉首个设立在海外、以整车开发为基础的研发中心。特斯拉新闻稿并称，按照《上海市数据中心建设导则（2021版）》相关要求，特斯拉已经完成数据中心相关审批备案要求，并建成特斯拉上海超级工厂数据中心，用于存储工厂生产等中国运营数据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔的未来在于芯片代工业务]]></title>
+        <id>https://www.solidot.org/story?sid=69369</id>
+        <link href="https://www.solidot.org/story?sid=69369"/>
+        <updated>2021-10-25T11:48:58.000Z</updated>
+        <summary type="html"><![CDATA[过去一年半的新冠疫情让每个人都转向他们的屏幕，对设备（手机和笔记本电脑）和云服务（Netflix 和 Zoom）的需求激增，这一切需要一系列先进半导体提供支持。制造商竞相从他们的晶圆厂中“压榨”出更多的芯片，但在新冠疫情出现之前，很多晶圆厂已接近极限。尽管如此，英特尔及其竞争对手没有急于建造新的晶圆厂——晶圆厂的成本高得惊人，如果没有持续的需求，半导体公司不愿意建造更多晶圆厂。但是现在，全球新冠疫情持续扰乱供应链，芯片制造商确定当前的需求激增不会消退。英特尔投资 200 亿美元在亚利桑那州钱德勒建立两家新芯片工厂只是一个例子。三星在 5 月宣布它将在未来十年内斥资 1510 亿美元提高半导体产能。台积电在 4 月也发表了类似的声明，承诺仅在未来三年内将投资 1000 亿美元。
+
+
+保持制造最先进芯片的领先优势需要大量投资，这已将半导体竞争者的数量从2001 年的 20 多个减少到今天的只剩 2 个。Georgetown 大学安全和新兴技术中心的研究分析师 Will Hunt 表示：“由于涉及巨大的资本成本，领先优势的空间很小。在芯片上进行蚀刻的尺寸越来越小，所需设备的价格推动了资金成本的上升。几年前，业界开始用极紫外光刻（EUV）缩小晶体管尺寸。EUV 机器是物理学和工程学上的奇迹，一台工具的成本高达 1.2 亿美元。为了不掉队，企业需要未来几年内购买十几台甚至更多这样的设备。为了使投资有意义，半导体制造商必须生产和销售大量芯片。哈佛商学院管理学教授 Willy Shih 表示：“当你有大量订单时，你就可以进行良品率试验，提高良品率，而良品率就是一切，因为这就是你覆盖成本的方式。” 这就是为什么 Pat Gelsinger 领导的英特尔正在做一些该公司历来不愿意做的事情的原因。Gelsinger 在亚利桑那州的奠基仪式上表示：“我们现在是一家晶圆代工厂。”他表示，未来几年英特尔将“向整个社区打开我们晶圆厂的大门，以满足客户的代工需求——其中有很多美国公司今天还在完全依赖国外的供应来源。”
+
+
+但成为领先的晶圆代工厂不仅仅是建造晶圆厂，然后告诉客户你可以帮他们制造芯片这么简单。Gelsinger 将不得不改变英特尔的文化，并在某种程度上改变其技术，两者都根深蒂固。Semiconductor Advisors 公司总裁 Robert Maire 表示：“他必须让巨轮调头。”未来几年英特尔要同时应对多项挑战。随着新的商业模式的推出，该公司需要加大研发力度，同时在现金流方面保持谨慎。英特尔已经落后，以至于它现在计划将其最先进芯片的生产——以及随之而来的部分利润——外包给台积电。这次过渡将需要高度关注。Shih 表示：“代工业务可能会让他们分心。”他补充表示，Apple、Google、Amazon 和其他一些公司正在从英特尔的标准化芯片转向自己的定制芯片。如果英特尔不能与时俱进，就有可能被甩在后面。Shih 表示：“将会有很多挑战，他们将会面临考验……这会很困难。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家制造出比钢刀锋利三倍的木刀]]></title>
+        <id>https://www.solidot.org/story?sid=69368</id>
+        <link href="https://www.solidot.org/story?sid=69368"/>
+        <updated>2021-10-25T11:39:07.000Z</updated>
+        <summary type="html"><![CDATA[刀具通常用钢或者陶瓷制成，但是 10 月 20 日《Matter》期刊发表的一篇研究论文中，材料学家描述了最新发现：一把比不锈钢餐刀锋利三倍的“硬化木刀”。马里兰大学材料科学家、论文第一作者 Teng Li 介绍，它可以“轻松”切开一块中等熟度的牛排，可以重复使用多次。Li 的团队找到了一种方法，该方法分为两步，将刀片的硬度提高了 23 倍。这是通过确保木材保留更高水平的纤维素来实现的。
+
+
+通常木材仅包含约 50% 的纤维素，它提供了部分结构完整性，其余部分由较弱的分子构成。Li 的方法能去除较弱的成分，但保留纤维素。将木材涂上矿物油，帮助它在使用和洗涤过程中保持锋利度。他们的方法能防止缺陷渗入。他在一份声明中表示：“材料的强度对空隙、管道或者凹坑之类缺陷的大小和密度非常敏感。”该团队并没有止步于硬化木刀。他们还开发了木钉，这些钉子和传统钢钉一样锋利。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国塑料工业产生的污染到 2030 年将超过煤炭]]></title>
+        <id>https://www.solidot.org/story?sid=69367</id>
+        <link href="https://www.solidot.org/story?sid=69367"/>
+        <updated>2021-10-25T11:07:04.000Z</updated>
+        <summary type="html"><![CDATA[塑料污染通常会让人联想到风中飘扬的食品袋或者海鸟胃中的塑料颗粒。但是很快，塑料污染可能会有另一种含义，一份新报告预测，到这个十年末，美国塑料行业的温室气体排放将超过煤炭。
+
+
+曾任 EPA 区域主管的 Beyond Plastics 总裁 Judith Enck 在报告中表示：“不像堵塞下水道和乱扔的塑料垃圾，塑料行业对气候的破坏影响不那么显眼，与之相关的公众监督却很少，政府问责甚至更少。”
+
+
+塑料是一个经常被忽视的巨大碳污染来源。Bennington College 和非营利性组织 Beyond Plastics 的报告显示，美国的塑料生产至少会产生 2.32 亿公吨的温室气体。如果目前计划或在建的 42 家工厂投产，预计到 2025 年塑料生产的排放还将再增加 5500 万吨。
+
+
+去年美国煤电产生了 7.86 亿公吨的二氧化碳，随着天然气、太阳能和风能的竞争，这一数字预计会下降。2019 年至 2020 年间，煤炭造成的碳污染减少了1.66 亿吨。随着煤炭排放量的持续下降和塑料行业排放量的不断上涨，两条线不可避免地会出现交叉。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -1366,20 +1704,6 @@ https://data.stats.gov.cn/easyquery.htm?cn=E0103
 那么疑问来了，那为什么会看到国家电网的文件说东北电网外送电力呢，其实不复杂，因为在国…]]></summary>
         <author>
             <name>宁南山</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
-        <updated>2021-09-26T18:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
-Fixed: project root npm install error
-Added: unit test library
-Chore: Dependency updates
-Thank you: @CaptNo1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
