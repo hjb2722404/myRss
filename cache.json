@@ -22,6 +22,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=40238",
+          "author": "青小蛙",
+          "description": "这是青小蛙在讨论组看到的内容，着实惊了，想不到居然有人能有这样的需求，而且，竟然解决了，太赞。 关于使用脚踏板切换中英输入法的方案详述 原文链接：https://meta.appinn.net/t/t",
+          "link": "https://www.appinn.com/how-to-switch-input-method-with-foot/",
+          "publishedOn": "2021-10-31T06:36:00.000Z",
+          "wordCount": 835,
+          "title": "如何用「脚」切换中英文输入法"
+        },
+        {
           "id": "https://www.appinn.com/?p=40243",
           "author": "青小蛙",
           "description": "WSA工具箱是一款专门适用于 Windows Subsystem for Android 的辅助工具，它可以让你在 Windows 11 中不需要使用 Amazon Appstore 就能安装安卓应用",
@@ -616,6 +625,60 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=69444",
+          "author": null,
+          "description": "Hive 勒索软件新变种能加密 Linux 和 FreeBSD 系统，但新变种还在开发之中，功能缺乏。安全公司 ESET 的研究人员发现，Hive 的 Linux 变种存在严重 bug，恶意程序在执行时加密会完全失败。Linux 变种只支持一个命令行参数，而它的 Windows 版本支持 5 个执行选项，包括杀死进程，略过磁盘清理，绕过不感兴趣的文件等。Linux 变种如果不是以 root 权限执行的话会无法激活加密。Hive 勒索软件组织是从今年 6 月开始活跃，是众多开始将 Linux 服务器作为攻击目标的勒索软件组织之一。",
+          "link": "https://www.solidot.org/story?sid=69444",
+          "publishedOn": "2021-10-31T15:04:08.000Z",
+          "wordCount": 105,
+          "title": "Hive 勒索软件新变种能加密 Linux 和 FreeBSD 系统"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69443",
+          "author": null,
+          "description": "新冠康复者的抗体比不上疫苗接种的效果，美国疾控中心（CDC）的最新研究给出了更多证据。周五公布的研究分析了美国 9个州 187 家医院 7000 多名有类似冠状病毒症状的住院患者，比较了 90–179 天之前感染新冠和完全接种 mRNA 疫苗的患者，发现感染后康复的人再次检测出 COVID-19 阳性的可能性比疫苗接种者高 5 倍多。此前研究人员发现感染新冠后康复者身上的免疫反应存在巨大差异，轻症患者的免疫反应较弱，重症患者免疫反应更强烈。美国 CDC 鼓励已感染过新冠的患者接种疫苗以获得更高的保护作用。美国仍然有 7000 万符合条件的成年人没有接种疫苗。",
+          "link": "https://www.solidot.org/story?sid=69443",
+          "publishedOn": "2021-10-31T14:39:20.000Z",
+          "wordCount": 88,
+          "title": "研究显示疫苗提供的免疫保护强于感染康复者"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69442",
+          "author": null,
+          "description": "因未删除被俄罗斯认为非法的内容，美国科技巨头 Google 向俄罗斯缴纳了 3200 多万卢布（约 45 万美元）的罚款。俄罗斯上周表示寻求对 Google 处以相当于该公司在俄罗斯年营业额一定百分比的罚款，原因是 Google 多次未能删除被认为非法的内容。通信监管机构 Roskomnadzor 当时表示，Google 未支付今年迄今开出的3,250万卢布(458,100美元)罚款，现在它将寻求对 Google 处以相当于其俄罗斯营业额 5-20% 的罚款，罚款额可能高达 2.4 亿美元，远远高于之前的罚金。调查外国干预的议会委员会负责人 Vasily Piskarev 表示 Google 代表表达了开展对话的意愿。负责与各国政府打交道的 YouTube 高管 Marco Pancini 称，Google 在 2020 年遵守要求删除了 96.2% 的内容，今年上半年下架了 489,000 个视频，但俄罗斯称还有很多禁止的内容仍然可以访问。",
+          "link": "https://www.solidot.org/story?sid=69442",
+          "publishedOn": "2021-10-31T11:51:54.000Z",
+          "wordCount": 113,
+          "title": "Google 因未删除被俄罗斯认为非法的内容缴纳 45 万美元罚款"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69441",
+          "author": null,
+          "description": "即将发布 Firefox 94，其 Linux 版本的图形栈将从 GLX 切换到 EGL，但由于驱动问题还不会对所有 Linux 用户默认启用 EGL。为了使用硬件加速 API 如 OpenGL，X11 或 Wayland 等视窗系统都需要一个接口，在 X11 系统上利用 OpenGL 大部分程序都使用 GLX，GLX 诞生于 1990 年代，EGL 是它的继任者，被 Wayland 等广泛使用。但 X11 系统上的普及度比较缓慢，随着 bug 的修复，对 EGL 支持的改进，从 Firefox 94 起，使用 Mesa 驱动版本>21 的用户，EGL 将默认启用。使用私用 Nvidia 驱动的用户则需要继续等待。",
+          "link": "https://www.solidot.org/story?sid=69441",
+          "publishedOn": "2021-10-31T11:24:23.000Z",
+          "wordCount": 123,
+          "title": "Firefox Linux 版本的图形栈将从 GLX 切换到 EGL"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69440",
+          "author": null,
+          "description": "亿万富翁 Charles Munger 是巴菲特的得力助手，他向多所大学捐款建造学生宿舍，他还会插手宿舍的设计，自认为是一位业余建筑师。他向密歇根大学、斯坦福大学和加州大学圣巴巴拉分校捐款建造宿舍，其中密歇根大学的宿舍和普通宿舍差不多，但斯坦福大学研究生宿舍和圣巴巴拉计划中的宿舍楼 Munger Hall 则采用了受争议的设计：布局类似监狱，卧室没有窗户。圣巴巴拉项目计划投资 15 亿美元，因无窗设计一位咨询建筑师辞职抗议，认为这一设计是一种社会和心理实验，对学生的生活和个人成长影响未知。Charles Munger 的设计理念则是为学生提供充足的互动空间，利用可重复性概念通过最大化床位数把成本降至最低。",
+          "link": "https://www.solidot.org/story?sid=69440",
+          "publishedOn": "2021-10-30T15:43:13.000Z",
+          "wordCount": 81,
+          "title": "亿万富翁兼业余设计师为学生设计无窗宿舍"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69439",
+          "author": null,
+          "description": "自由软件社交网络项目 Mastodon 向美国前总统特朗普的公司发去正式通知，要求其开发的基于 Mastodon 的社交网络 TRUTH Social 遵守 AGPL 许可证公开修改的源代码。特朗普的媒体技术集团(TMTG)与 Digital World Acquisition 上周宣布了新社交网络  TRUTH Social，预计 11 月开放测试，TRUTH 很快被发现是基于 Mastodon，按照 AGPL 许可证要求它需要公开源代码。Mastodon 项目给 TRUTH 30 天时间遵守要求，否则它将无法使用 Mastodon 代码需要在不使用现有代码的情况下自行重构，这是相当困难的。",
+          "link": "https://www.solidot.org/story?sid=69439",
+          "publishedOn": "2021-10-30T11:35:57.000Z",
+          "wordCount": 112,
+          "title": "Mastodon 给 TRUTH Social 30 天时间遵守 AGPL 许可证"
+        },
         {
           "id": "https://www.solidot.org/story?sid=69438",
           "author": null,
