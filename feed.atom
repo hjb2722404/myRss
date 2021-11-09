@@ -2,10 +2,294 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-08T00:56:27.125Z</updated>
+    <updated>2021-11-09T00:56:33.155Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Grid Can Do Auto Height Transitions]]></title>
+        <id>https://css-tricks.com/?p=356204</id>
+        <link href="https://css-tricks.com/css-grid-can-do-auto-height-transitions/"/>
+        <updated>2021-11-08T19:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Bonafide CSS trick alert! Nelson Menezes figured out a new way (that only works in Firefox for now) that is awfully clever.
+Perhaps you know that CSS cannot animate to auto dimensions, which is super unfortunate. Animating from …
+The post CSS Grid Can Do Auto Height Transitions appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Icon Glassmorphism Effect in CSS]]></title>
+        <id>https://css-tricks.com/?p=322098</id>
+        <link href="https://css-tricks.com/icon-glassmorphism-effect-in-css/"/>
+        <updated>2021-11-08T14:57:42.000Z</updated>
+        <summary type="html"><![CDATA[I recently came across a cool effect known as glassmorphism in a Dribble shot. My first thought was I could quickly recreate it in a few minutes if I just use some emojis for the icons without wasting time …
+The post Icon Glassmorphism Effect in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Does the Next Generation of Static Site Generators Make Building Sites Better?]]></title>
+        <id>https://css-tricks.com/?p=356134</id>
+        <link href="https://css-tricks.com/does-the-next-generation-of-static-site-generators-make-building-sites-better/"/>
+        <updated>2021-11-08T14:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Just ran across îles, a new static site generator mostly centered around Vue. The world has no particular shortage of static site generators, but it’s interesting to see what this “next generation” of SSGs seem to focus on or …
+The post Does the Next Generation of Static Site Generators Make Building Sites Better? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 7、8 上的个人 OneDrive 客户端将于2022年3月1日停止同步]]></title>
+        <id>https://www.appinn.com/?p=40349</id>
+        <link href="https://www.appinn.com/end-of-support-for-onedrive-desktop-application-on-windows-7-8/"/>
+        <updated>2021-11-08T13:56:25.000Z</updated>
+        <summary type="html"><![CDATA[来自 Microsoft OneDrive Blog 的消息，Windows 7、8 上的个人 OneDrive 客户端将于2022年3月1日停止同步，届时只能使用 OneDrive for Web]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 预计将在明年推出 Pixel 折叠手机]]></title>
+        <id>https://www.solidot.org/story?sid=69543</id>
+        <link href="https://www.solidot.org/story?sid=69543"/>
+        <updated>2021-11-08T12:42:12.000Z</updated>
+        <summary type="html"><![CDATA[Google 预计将在明年推出可折叠的  Pixel 智能手机。这一消息是 Google 自己泄露的。最新版的 Google Camera app 包含了一个叫 isPixel2022Foldable 的设备检测标记，暗示了 Pixel 折叠手机的发布日期。此前对  Pixel 4 和 3a 有类似的标记 isPixel2019MidRange 和 isPixel2019。 Pixel 折叠手机的软件部分 Google 已经准备就绪，它最近发布的 Android 12L 预览版本加强了对平板和折叠设备的支持。Android 12L  将在 2022 年 3 月发布，Pixel 折叠手机最早估计也是这个时间发布。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子走进华尔街]]></title>
+        <id>https://www.solidot.org/story?sid=69542</id>
+        <link href="https://www.solidot.org/story?sid=69542"/>
+        <updated>2021-11-08T12:15:13.000Z</updated>
+        <summary type="html"><![CDATA[量子和金融长期以来是一对富有成效的伙伴。牛顿在不研究物理的时候管理着英国皇家铸币厂，增加钱币的伪造难度，将伪造者送上绞刑架。1900 年，Louis Bachelier 为研究法国股市开发的量化工具被爱因斯坦用于证明原子的存在。Norbert Wiener 将其正式化为一个数学框架，它至今仍然是金融模型的核心。但金融行业在吸收 20 世纪另一个重要物理学理论——量子力学——方面进展缓慢。股票的卖出买进似乎与量子论相去甚远，但仔细琢磨下两者还是有相似性的。金钱的流动就像粒子的位置，不去测量不知道资产的真实价值，而不确定性都是系统的基本特征。这种相似性催生了量子金融学的新兴研究，该领域的一个重要推手 David Orrell 认为用量子力学的数学工具对市场进行建模，有助于更好的理解市场。量子正在走进华尔街。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国联邦上诉法院暂缓执行拜登政府的新冠疫苗强制令]]></title>
+        <id>https://www.solidot.org/story?sid=69541</id>
+        <link href="https://www.solidot.org/story?sid=69541"/>
+        <updated>2021-11-08T11:57:08.000Z</updated>
+        <summary type="html"><![CDATA[美国第五巡回上诉法院周六裁决暂缓执行拜登政府的新冠疫苗强制令，理由是该规则存在“严重的法律和宪法”问题。该强制令要求至少有 100 名员工的美国企业雇员接种新冠疫苗或每周接受检测。劳工部的劳工事务律师 Seema Nanda 在一份声明中说，劳工部相信其有发布这项规定的合法权利，该规则将由职业安全与健康管理局(OSHA)执行。美国平均每天约有1,100人死于新冠，其中大部分人没有接种疫苗。新冠疫情已导致约 75 万美国人死亡。周六的法院裁定是对一些企业、宣传团体以及德州、路易斯安那州、密西西比州、南卡罗来纳州和犹他州的联合请愿书做出的回应。该规则还面临其他法院的不同法律挑战。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[究竟什么是“元宇宙”]]></title>
+        <id>https://www.solidot.org/story?sid=69540</id>
+        <link href="https://www.solidot.org/story?sid=69540"/>
+        <updated>2021-11-08T11:25:13.000Z</updated>
+        <summary type="html"><![CDATA[“元宇宙”一词最初是 1992 年 Neal Stephenson 在开创性的赛博朋克小说《雪崩》中创造的。在书中，元宇宙（在 Stephenson 的小说中总是大写）是一个共享的“想象的场所”，它“通过全球光纤网络向公众提供”并投射在虚拟现实眼镜上。开发人员可以在里面“建造建筑物、公园、标志以及现实中不存在的东西，例如悬停在头顶的巨大灯光秀，忽略三维时空规则的特殊街区，以及可打猎和互相残杀的自由格斗区。”
+
+
+在上周的 Facebook Connect 主题演讲中，Meta（前 Facebook）的首席执行官 Mark Zuckerberg 和他的同事在不到 90 分钟里提到了“元宇宙”这个词 80 多次，它还宣布了新的名称。但是 Stephenson 明确表示“我和 FB 之间的交流为零，也没有任何商业关系。”这意味着 Facebook 对“元宇宙”的解释可能与 Stephenson 描述的完全不同。
+
+
+Meta 的品牌重塑推动了如今大部分关于元宇宙的对话，但是《雪崩》一书出现了将近 30 年，期间涌现出大量的在线网络，这些网络体现了 Stephenson 在书中描述的部分或者大部分内容。这些创造“元宇宙”的努力包括许多在线游戏和聚会场所，它们捕捉到了元宇宙一些最重要的概念，但并未使用这个名字。
+
+
+那么，元宇宙会是下一个彻底改变我们彼此联系方式的重大进步吗？还是它只是将现有的技术重新包装成一个包罗万象的新概念？或者它只不过是最新的时髦营销术语？
+
+
+答案取决于你说的“元宇宙”是什么意思。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现代软件开发是否太复杂]]></title>
+        <id>https://www.solidot.org/story?sid=69539</id>
+        <link href="https://www.solidot.org/story?sid=69539"/>
+        <updated>2021-11-08T11:15:33.000Z</updated>
+        <summary type="html"><![CDATA[“复杂性会致命，”Lotus Notes 作者和微软资深工程师 Ray Ozzie 在 2005 年的一份内部备忘录中写道。“它剥夺了开发人员的生命；使产品难以规划、构建和测试它带来了安全挑战；让用户和管理员感到沮丧。”
+
+
+如果 Ozzie 当时就认为软件开发过于复杂的话，你会忍不住好奇他会如何看待软件开发人员在云原生时代所面临的复杂性。从你可以触摸的服务器上托管的整体架构中构建应用程序到将它们拆解成多个微服务，打包进容器，与 Kubernetes 调谐并托管在分布式云环境中，这种转变标志着软件的复杂程度激增。加上对功能丰富的消费级体验的期望，要求安全和富有弹性，这对开发人员提出了前所未有的高要求。
+
+
+
+亚马逊首席技术官 Werner Vogels 在 2019 年 AWS 峰会期间表示：“当你迁移到如此普遍的微服务环境时，复杂性明显增加了。一切都在单一整体中的日子是否更容易？是的，对于某些部分肯定如此。”或者，正如他的同事、AWS 的 DevOps 产品营销主管 Emily Freeman 在 2021 年所说的那样，现代软件开发是“一项关于熵的研究，并没有变得更简单。”
+
+另一方面，复杂的技术从未像现在这样现成、简单、易用，通常是通过一个API——从基本库和框架到图像识别功能甚至是整个支付堆栈。只要在上面组装和构建你的业务逻辑就可以了，但真的有那么简单吗？]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创世大爆炸理论的问题]]></title>
+        <id>https://www.solidot.org/story?sid=69538</id>
+        <link href="https://www.solidot.org/story?sid=69538"/>
+        <updated>2021-11-08T11:08:13.000Z</updated>
+        <summary type="html"><![CDATA[自 1929 年以来的几十年里，观测结果加强了对大爆炸理论的支持，但也证明它是不完善的。最早版本的大爆炸理论无法解释宇宙为什么如此一致。仰望深空时，北半球天文学家和南半球天文学家看到的通常是一样的。传统的大爆炸理论则预测大型星系团的温度和集中度等性质应该存在微小的差异。然而两边看到的都一样。
+没有发现 CMB 的 B 模式的迹象。如果 CMB 中存在 B 模式，它们就非常小。这是否意味着宇宙暴胀理论必须被抛弃呢，尽管数据已经证伪了一些较简单的暴胀理论，但它不够敏感，无法排除更复杂的版本。尽管如此，未能观察到CMB 的 B 模式仍然令人不安，科学家又重新回到了绘图板上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无人机被用于暗杀伊拉克总理]]></title>
+        <id>https://www.solidot.org/story?sid=69537</id>
+        <link href="https://www.solidot.org/story?sid=69537"/>
+        <updated>2021-11-08T09:44:09.000Z</updated>
+        <summary type="html"><![CDATA[路透社报道，周日早晨一架载有炸药的无人机袭击了伊拉克总理 Mustafa al-Kadhimi 在巴格达的住所。伊拉克军方称这是一起未遂的暗杀，表示 Kadhimi 没有受伤。”安全消息人士称，袭击造成几名 Kadhimi 的贴身保安人员受伤，此前伊拉克首都因上个月的大选结果引发的抗议演变成了暴力事件。得到伊朗支持的武装民兵领导了对 10 月投票结果的抗议和投诉，他们在选举中失去了大部分议会权力。没有任何团体立即声称对 Kadhimi 在巴格达设有防御工事的“绿区”的住所的袭击负责，“绿区”是政府大楼和外国使馆所在地。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[直角行星轨道的恒星系令天文学家惊讶]]></title>
+        <id>https://www.solidot.org/story?sid=69536</id>
+        <link href="https://www.solidot.org/story?sid=69536"/>
+        <updated>2021-11-08T09:41:08.000Z</updated>
+        <summary type="html"><![CDATA[2016 年，天文学家发现了两颗围绕恒星  HD 3167 运动的行星，两颗行星都属于超级地球，即其大小在地球和海王星之间，它们的公转周期为一天和三十天。2017 年天文学家发现了第三颗行星，公转为八天。这个恒星系的不寻常之处是位于外围的两颗行星——HD 3167 c 和 d——的倾角。在太阳系中，所有行星都在同一平面上围绕太阳运行，而这两颗行星则在极轨道上。也就是它们在恒星的两极上方和下方移动，而不是像地球和太阳系的其他行星那样围绕赤道运行。 科学家发现该恒星系甚至比他们想象的更奇怪。研究人员首次测量了最里面的行星 HD 3167 b 的轨道——它和另外两颗行星不同。相，它在恒星的平面上运行，就像太阳系中的行星一样，并垂直于 HD 3167 c 和 d 的轨道。这个恒星系统是已知第一个像如此运行的系统。HD 3167的不寻常之处凸显了其他恒星及其行星的奇异和奇妙。瑞士日内瓦大学的 Vincent Bourrier 表示：“它让我们将目光再次投向了行星系统的形成，之前我们认为已对此有所了解。”他领导了上个月发表在《Astronomy & Astrophysics》期刊上的这一发现（预印本），“行星可以以非常不同的方式演化。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自动驾驶汽车能应付熊吗？]]></title>
+        <id>https://www.solidot.org/story?sid=69535</id>
+        <link href="https://www.solidot.org/story?sid=69535"/>
+        <updated>2021-11-08T08:00:14.000Z</updated>
+        <summary type="html"><![CDATA[一只野熊闯入一辆停放的汽车寻找食物。AI 专家 Lance Eliot 由此提出了一个问题：自动驾驶汽车能应付熊吗？
+
+
+自动驾驶汽车的 AI 系统是完整的。一辆停着的自动驾驶汽车可以变成移动的汽车。如果自动驾驶汽车利用它的物体检测系统，即使是停放着，AI 驾驶能力也会在（假设的）碰撞即将发生时得到警报。AI 开发人员估计，AI 驾驶系统可能会激活自汽车，试图快速驶离，以躲开即将撞过来的人类驾驶汽车。
+
+遭遇熊是一个边缘案例。想象一辆自动驾驶汽车停在森林旁边。人类徒步旅行者离开汽车徒步到了树林深处的某个地方。一只熊晃晃悠悠地进入停车场，寻找免费的吃食。如果 AI 驾驶系统正在使用物体检测功能，很可能会检测到这只熊。如果熊决定直接走向汽车，AI 系统可能会激活躲开这只熊。
+
+目前还不清楚熊是否会以某种方式猜到汽车能自行移动。有理由认为熊会担心那些免费的餐盒（带轮子的）好像会在它接近时移开。这可能会让部分熊死心，它们会避开停放着的汽车。另一部分熊则可能会把这变成一场游戏。有点像捉迷藏的游戏。靠近一辆车，它开走了。好玩！走到车旁，看
+
+看它接下来往哪个方向走。在停车场度过了一段美好的时光，这是肯定的。
+
+如果我们讲的是毛茸茸的熊的故事的话。
+
+自动驾驶汽车的内部设计很可能与传统的人类驾驶汽车不同。如它不需要方向盘，也不需要踏板。开阔的内部也许可以容纳旋转座椅，也可能是斜倚座椅，这样你就可以在自动驾驶汽车的长途旅行中睡觉。考虑到这种内部设计，熊肯定会在自动驾驶汽车上找到比传统人类驾驶汽车更舒服的东西。接下来熊会爱上自动驾驶汽车，因为它是一个安静、宽敞、安全的地方，可休息和放松。无需担心掠食者的攻击，还能享受豪华宽敞的内部空间。
+
+
+
+第二个问题是熊是否会弄清楚如何与 AI 驾驶系统进行通信。你知道，熊是相当敏锐的。也许一只真正有进取心的熊可以说服 AI，让自动驾驶汽车载着它来一段舒舒服服的旅行。
+
+如果你开始看到熊乘坐着自动驾驶汽车四处行驶，请不要感到特别惊讶。
+
+请记住，你是首先在这里听说的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FAA 警告 5G 可能干扰航空高度表]]></title>
+        <id>https://www.solidot.org/story?sid=69534</id>
+        <link href="https://www.solidot.org/story?sid=69534"/>
+        <updated>2021-11-08T07:45:46.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦航空管理局（FAA）担心在 46 个主要大都市部署的 5G 移动服务。这些服务预计将会限制飞机上依赖雷达高度计（也被称为无线电高度计）的自动化系统的使用，可能会导致航班延误和取消。FAA 副局长 Bradley Mims 称该机构“深切关注 C 波段 5G 网络运行干扰雷达高度计性能对航空安全的潜在影响。” 主要电信公司在去年 FCC 的无线电频谱拍卖中总共支付了 780 亿美元，以获取有限可用无线电频率范围中的一小部分以传输 5G 信号。信号将位于 C 波段的 3.7 至 3.98 GHz 部分，这是承载大数据量的 5G 信号的最佳位置。雷达高度计工作在 4.2-4.4 GHz 频率范围内，令人担心的是附近强大的蜂窝信号会对航空电子设备造成干扰。FCC 批准将该频谱用于 5G，称“精心设计的（无线电高度计）设备通常应该不会受到任何重大干扰。但航空公司表示，数千架飞机面临的风险是真实存在的，FAA 同意这种说法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[简单易用的思维导图、流程图神器，亿图软件轻松开启高效绘图，11 月开启会员免费送！]]></title>
+        <id>https://www.appinn.com/?p=40330</id>
+        <link href="https://www.appinn.com/edrawsoft-mindmaster-edraw/"/>
+        <updated>2021-11-08T07:42:37.000Z</updated>
+        <summary type="html"><![CDATA[亿图软件是国内办公绘图领域的领头羊，旗下的「亿图脑图MindMaster」和「亿图图示」是两款高效的图形表达工具，前者可以将我们复杂、无序的思维、想法和信息进行快速结构化整理，后者支持轻松绘制流程图、]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数码荔枝双11活动：正版软件年度大促，11.11 元秒杀+6 折+满减优惠]]></title>
+        <id>https://www.appinn.com/?p=40342</id>
+        <link href="https://www.appinn.com/lizhi-2021-1111/"/>
+        <updated>2021-11-08T07:41:17.000Z</updated>
+        <summary type="html"><![CDATA[著名的正版软件代理商数码荔枝前几日开启了今年的双11活动，持续到 11 月 16 日，包括 270 枚软件授权码 11.11 元秒杀、40+ 热门软件 6 折起抢购、每满 100 减 5 元等活动。@]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维基百科被批评多年使用连环杀手的错误照片]]></title>
+        <id>https://www.solidot.org/story?sid=69533</id>
+        <link href="https://www.solidot.org/story?sid=69533"/>
+        <updated>2021-11-08T07:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Andreas Kolbe 曾是报道维基百科相关新闻的《维基简讯》联合主编，上周他回《维基简讯》分享了一个警示故事：“维基百科上的一张照片会毁了你的生活。”
+博文，指出该诉讼“是在维基百科的编辑们于 2020 年 9 月主动纠正了相关错误的几个月之后才提起的。”博文称法官驳回该诉讼是“自由知识的胜利”，并承认受到《通信规范法》第230 条的保护。“我们维持和发展世界上最大的免费知识库的能力取决于强大的法律豁免权……维基媒体基金会对这一裁决表示赞赏，并将继续致力于保护互联网上的全球知识交流和言论自由。”博文还表示，“当这些不准确的内容出现时，我们志愿者社区的很多成员在发现并消除它们方面极富效率。”
+
+
+Andreas Kolbe 不同意这种说法。Kolbe 在《维基简讯》上写道：“这张照片在词条里存在的时间超过了两年。一个人在如此长的时间里，在排名前 20 的网站上以连环杀手的身份向世界展示他的脸，很难将这个社区的表现描述为‘极富效率’。”在一则新闻报道指出了维基百科使用了错误的照片之后，它才被删除。这意味着删除很有可能是被动的，而不是“主动的”。错误照片此前曾被一位不知名公众删除但又被恢复，该 IP 地址以前从来没有编辑过内容，此后也没有编辑过。整个过程志愿者社区似乎都完全没有意识到这个问题。
+
+
+Andreas Kolbe 认为维基百科需要反思，合理的回应应该包括—— 承认社区的流程在很大程度上造成了 White 先生的问题；提醒社区注意其质量控制流程需要改进；维基百科关于图像来源的指导方针、政策和社区实践——特别是用于暗示对特定罪行负责的图像——将因为一些加强措施而受益，以确保图像描绘的是正确的人。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System76 用 Rust 语言开发新的桌面环境]]></title>
+        <id>https://www.solidot.org/story?sid=69532</id>
+        <link href="https://www.solidot.org/story?sid=69532"/>
+        <updated>2021-11-08T06:59:36.000Z</updated>
+        <summary type="html"><![CDATA[Linux 笔记本电脑制造商 System76 今年早些时候宣布它开发的 Linux 发行版 Pop!_OS 将使用一个新的桌面环境 COSMIC。Pop!_OS 是基于 Ubuntu 的发行版，预装在 System76 制造的 Linux 电脑上，COSMIC 是基于  GNOME。现在它还在用 Rust 语言开发新的桌面环境，不是基于 GNOME 或 KDE 等现有的项目。这一消息是 System76 工程师和 Pop!_OS 维护者 Michael Murphy "mmstick "在 Reddit 上透露的。System76 并没有完全从零开发一个全新的桌面环境，它将使用现有的项目如 mutter、kwin 和 wlroots，用 Rust 实现一个类似 GNOME Shell 的 Shell。有人对开源社区热衷于重新发明轮子表达了不满，而 Murphy 认为有选择正是开源最好的部分。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技亿万富翁们的外星资本主义]]></title>
+        <id>https://www.solidot.org/story?sid=69531</id>
+        <link href="https://www.solidot.org/story?sid=69531"/>
+        <updated>2021-11-08T05:01:22.000Z</updated>
+        <summary type="html"><![CDATA[科技亿万富翁们正在打造一种新的资本主义：马斯克主义。喜欢挖苦竞争对手的马斯克嘲笑了扎克伯格的元宇宙。但是从火星、月球到元宇宙，都是马斯克主义：极端的、外星的资本主义，在这一体系下，股票价格与其说是由收益驱动，不如说是由科幻小说的幻想驱动。马斯克主义作为一种奢侈的资本主义形式，其灵感却来自于……控诉资本主义的故事。苏格兰作家伊恩·班克斯的《文化》系列科幻小说被这些亿万富翁所推崇，但是班克斯是一个公开的社会主义者。他表示，如果有人把他的书解读为提倡自由市场的自由主义，他会感到惊讶，并问道：“这些人没有读到《文化》小说里没有私有财产也没有货币那部分吗？”科技公司谈论他们的使命，而他们的使命总是被夸大：改变工作的未来、连接全人类、让世界变得更美好、拯救整个星球。马斯克主义是一种资本主义，在这种资本主义里，公司非常公开地、相当狂热地担心各种形式的世界末日灾难。他们担心气候变化的真实灾难，但是更常担心神秘的“生存风险”，或X风险，包括人类的灭绝，显然只有科技企业亿万富翁才能将我们从中拯救出来。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客将《质量效应1》DLC 移植到《传奇版》]]></title>
+        <id>https://www.solidot.org/story?sid=69530</id>
+        <link href="https://www.solidot.org/story?sid=69530"/>
+        <updated>2021-11-08T04:50:20.000Z</updated>
+        <summary type="html"><![CDATA[今年五月，BioWare 发布了《质量效应传奇版》，包含了《质量效应》系列三部曲的几乎全部内容，除了《质量效应1》的 DLC “Pinnacle Station”和《质量效应3》的多人模式外。Pinnacle Station 由 Demiurge Studios 工作室开发，2009 年发布，为游戏加入了一个秘密的军事训练基地，指挥官薛帕德可以领导他的小队在这里执行特别训练。BioWare 解释说，它丢失了源代码，Pinnacle Station 加入到传奇版的唯一方法是重写，这么做太得不偿失，开发团队会在这上面浪费 6 个月时间。时隔近六个月后一群黑客帮助 BioWare 完成了这个任务，他们也没有源代码，其方法是将一代的 DLC 移植到传奇版，ME3Tweaks group 通过博文介绍了他们的移植过程，Mod 发布在 Nexusmods 网站上。11 月 7 日对 《质量效应》粉丝来说是 N7 Day，BioWare 正在开发《质量效应》新作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万词王 – 清华大学发布开源在线反向词典，通过描述意思来查询 100 个近义词]]></title>
+        <id>https://www.appinn.com/?p=40326</id>
+        <link href="https://www.appinn.com/wantwords-thunlp/"/>
+        <updated>2021-11-08T03:03:38.000Z</updated>
+        <summary type="html"><![CDATA[万词王是是一款由清华大学自然语言处理实验室（THUNLP）发布的开源在线反向词典，使用深度学习算法，可以让用户通过描述意思来查询词语，比如输入“形容开心的词”，会返回 99 个能够形容开心的词汇。@A]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX 厕所故障迫使宇航员使用纸尿布]]></title>
+        <id>https://www.solidot.org/story?sid=69529</id>
+        <link href="https://www.solidot.org/story?sid=69529"/>
+        <updated>2021-11-07T15:05:33.000Z</updated>
+        <summary type="html"><![CDATA[周日返回地面的国际空间站宇航员将不得不在路上使用纸尿布，因为 SpaceX 太空船的厕所坏了。NASA 宇航员 Megan McArthur 形容这一情况为“次优”，表示能应付。从太空舱关闭到在海中溅落，她将和三名宇航员在太空舱内度过 20 小时。McArthur 在空间站举行的新闻发布会上表示，太空飞行经常会遭遇大大小小的挑战，厕所问题只是又一个遇到的和需要处理的挑战，他们对此并不担心。SpaceX 太空船厕所会泄露尿液是在 9 月份的飞行中注意到的。它修复了尚未发射的太空船，而空间站上的太空船将无法使用厕所，工程师表示泄露的尿液没有影响到太空船结构，返回是安全的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delta 变种流行美国三种主要疫苗有效率都大幅下降]]></title>
+        <id>https://www.solidot.org/story?sid=69528</id>
+        <link href="https://www.solidot.org/story?sid=69528"/>
+        <updated>2021-11-07T13:14:31.000Z</updated>
+        <summary type="html"><![CDATA[随著新冠 Delta 变种成为美国主流的毒株，最新研究显示三种主要疫苗的有效率都出现了大幅下降。今年三月，Moderna 的两剂疫苗有效率为 89%，到 10 月份有效率降至了 58%；辉瑞和 BioNTech 的两剂疫苗有效率同期从  87% 降至 45%；而强生的单剂疫苗有效率在六个月内从 86% 跌至了 13%。研究报告发表在《科学》期刊上。Moderna 和辉瑞的疫苗都是 mRNA 疫苗，而强生则是以腺病毒为载体的疫苗。数据显示，接种疫苗有助于预防新冠病毒导致的死亡。美国疾控中心推荐强生疫苗的接种者打加强针。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数独 – 来自 Sudoku.com 的免费 9 宫数独游戏[Web/iOS/Android]]]></title>
         <id>https://www.appinn.com/?p=40322</id>
