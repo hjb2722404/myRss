@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-13T00:55:13.684Z</updated>
+    <updated>2021-11-14T00:58:21.305Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[composerize – 将 Docker 命令行转换为 docker-compose 文件格式]]></title>
+        <id>https://www.appinn.com/?p=40440</id>
+        <link href="https://www.appinn.com/composerize-for-docker-compose/"/>
+        <updated>2021-11-13T08:18:04.000Z</updated>
+        <summary type="html"><![CDATA[composerize 是一个可以将常见的 Docker 命令行转换为 docker-compose 文件格式的小工具，而它本身除了可以通过命令行转换，还可以直接在网页上进行转换。@Appinn 来自]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Other Looks at the Conditional Border Radius Trick]]></title>
         <id>https://css-tricks.com/?p=356304</id>
@@ -5362,39 +5372,6 @@ Thank you: @hirdot]]></summary>
 The post Expandable Sections Within a CSS Grid appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Kev Bonett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 179 期）：AR 技术的打开方式]]></title>
-        <id>http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html"/>
-        <updated>2021-10-15T00:37:00.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different Degrees of Custom Property Usage]]></title>
-        <id>https://css-tricks.com/?p=353057</id>
-        <link href="https://css-tricks.com/different-degrees-of-custom-property-usage/"/>
-        <updated>2021-10-14T14:35:42.000Z</updated>
-        <summary type="html"><![CDATA[One way to work with Custom Properties is to think of them as design tokens. Colors, spacings, fonts, and whatnot. You set them at the root of the page and use them throughout your CSS. Very useful, and the classic …
-The post Different Degrees of Custom Property Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embedded Analytics Made Simple With Cumul.io Integrations]]></title>
-        <id>https://css-tricks.com/?p=353243</id>
-        <link href="https://css-tricks.com/embedded-analytics-made-simple-with-cumul-io-integrations/"/>
-        <updated>2021-10-14T14:32:22.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Browse through SaaS communities on Twitter, LinkedIn, Reddit, Discord, you name it and you’ll see a common theme appear in many of them. That theme can go by many names: BI, analytics, insights and …
-The post Embedded Analytics Made Simple With Cumul.io Integrations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Cumul.io</name>
         </author>
     </entry>
 </feed>

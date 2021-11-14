@@ -22,6 +22,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=40440",
+          "author": "青小蛙",
+          "description": "composerize 是一个可以将常见的 Docker 命令行转换为 docker-compose 文件格式的小工具，而它本身除了可以通过命令行转换，还可以直接在网页上进行转换。@Appinn 来自",
+          "link": "https://www.appinn.com/composerize-for-docker-compose/",
+          "publishedOn": "2021-11-13T08:18:04.000Z",
+          "wordCount": 824,
+          "title": "composerize – 将 Docker 命令行转换为 docker-compose 文件格式"
+        },
+        {
           "id": "https://www.appinn.com/?p=40433",
           "author": "青小蛙",
           "description": "Windows 的刘海 是一款为 Windows 屏幕顶部添加刘海的免费小工具，仿最新款 Mac 屏幕，有大中小三个尺寸，会显示时间，虽然没什么用。@Appinn 来自微博的 @加油吧小笨 同学给我们",
@@ -1004,24 +1013,6 @@
           "publishedOn": "2021-10-15T16:18:20.000Z",
           "wordCount": 3647,
           "title": "Expandable Sections Within a CSS Grid"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353057",
-          "author": "Chris Coyier",
-          "description": "One way to work with Custom Properties is to think of them as design tokens. Colors, spacings, fonts, and whatnot. You set them at the root of the page and use them throughout your CSS. Very useful, and the classic …\nThe post Different Degrees of Custom Property Usage appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/different-degrees-of-custom-property-usage/",
-          "publishedOn": "2021-10-14T14:35:42.000Z",
-          "wordCount": 1832,
-          "title": "Different Degrees of Custom Property Usage"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353243",
-          "author": "Cumul.io",
-          "description": "(This is a sponsored post.)\nBrowse through SaaS communities on Twitter, LinkedIn, Reddit, Discord, you name it and you’ll see a common theme appear in many of them. That theme can go by many names: BI, analytics, insights and …\nThe post Embedded Analytics Made Simple With Cumul.io Integrations appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/embedded-analytics-made-simple-with-cumul-io-integrations/",
-          "publishedOn": "2021-10-14T14:32:22.000Z",
-          "wordCount": 2769,
-          "title": "Embedded Analytics Made Simple With Cumul.io Integrations"
         }
       ]
     },
@@ -1065,15 +1056,6 @@
           "publishedOn": "2021-10-22T00:35:24.000Z",
           "wordCount": 635,
           "title": "科技爱好者周刊（第 180 期）：你想住在中国哪里？"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/10/weekly-issue-179.html",
-          "publishedOn": "2021-10-15T00:37:00.000Z",
-          "wordCount": 1064,
-          "title": "科技爱好者周刊（第 179 期）：AR 技术的打开方式"
         }
       ]
     },
