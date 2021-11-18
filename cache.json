@@ -12,6 +12,29 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=40469",
+          "author": "青小蛙",
+          "description": "短信转发器 SmsForwarder 是一款开源的 Android 短信转发工具，它能够通过预设规则将短信转发至 钉钉、企业微信、飞书、Telegram、Webhook、Server酱、Bark等 1",
+          "link": "https://www.appinn.com/smsforwarder-for-android/",
+          "publishedOn": "2021-11-17T09:54:54.000Z",
+          "wordCount": 678,
+          "title": "短信转发器 SmsForwarder – 转发短信至钉钉、企业微信、飞书、Telegram、Webhook、Server酱等[Android]"
+        },
+        {
+          "id": "https://www.appinn.com/?p=40476",
+          "author": "青小蛙",
+          "description": "HapiGo 2.0 是一款 macOS 下的快速启动工具，最大特色是支持拼音及拼音首字母缩写，开发者放出话：「这一款可以替代 Alfred & LaunchBar 的高颜值启动器。最大的优势",
+          "link": "https://www.appinn.com/hapigo-2/",
+          "publishedOn": "2021-11-17T08:49:30.000Z",
+          "wordCount": 710,
+          "title": "HapiGo 2.0 – 支持拼音，开发者说可以替代 Alfred & LaunchBar 的快速启动工具[macOS]",
+          "enclosure": {
+            "url": "https://ul.hapigo.com/HapiGo-1080p.mp4",
+            "length": "98856484",
+            "type": "video/mp4"
+          }
+        },
+        {
           "id": "https://www.appinn.com/?p=40464",
           "author": "青小蛙",
           "description": "WinWorld 是一个致力于保存和分享历史软件的网站，它收录了非常多曾经的操作系统、软件和游戏的网站，堪称老破旧操作系统博物馆，从 DOS 到 Windows 2000，还有 OS X、OS/2、U",
@@ -465,24 +488,6 @@
           "publishedOn": "2021-10-20T03:47:26.000Z",
           "wordCount": 1386,
           "title": "微软桌面助手 1.0.0 – 自动的桌面文件分区工具"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40120",
-          "author": "青小蛙",
-          "description": "NeeView 是一款 Windows 下开源的图片浏览器，其特色是可以像翻书一样同时浏览两张照片，还支持压缩包看图、鼠标手势、触摸操作、多线程和超前查看、支持 PDF / 视频。@Appinn @S",
-          "link": "https://www.appinn.com/neeview/",
-          "publishedOn": "2021-10-19T09:48:29.000Z",
-          "wordCount": 1014,
-          "title": "NeeView – 开源图片浏览器，像翻书一样看照片[Windows]"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40117",
-          "author": "青小蛙",
-          "description": "FP Sleep 是一款拥有近 200 段（可能更多，数不清楚）大自然的声音，支持 iPhone 的睡眠、减压、冥想、白噪音应用，免费无广告，开发者自称用爱发电。@Appinn 来自发现频道，开发者",
-          "link": "https://www.appinn.com/fp-sleep-for-iphone/",
-          "publishedOn": "2021-10-19T03:30:31.000Z",
-          "wordCount": 1018,
-          "title": "FP Sleep – 近 200 段大自然的声音：睡眠、减压、冥想、白噪音应用[iPhone]"
         }
       ]
     },
@@ -491,6 +496,51 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=356895",
+          "author": "Chris Coyier",
+          "description": "I feel like half of all “custom-designed radio buttons and checkboxes” do two things:\nMake them bigger\nColorize them\nI always think of SurveyMonkey for having big chunky radios and checkboxes. And indeed, just poking at their interface quickly, even …\nThe post Zero Trickery Custom Radios and Checkboxes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/zero-trickery-custom-radios-and-checkboxes/",
+          "publishedOn": "2021-11-18T00:16:17.000Z",
+          "wordCount": 632,
+          "title": "Zero Trickery Custom Radios and Checkboxes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356885",
+          "author": "Chris Coyier",
+          "description": "Like this: <input type=\"search\">\nYou get an extra-round-y appearance in Safari, which at one time matched the macOS look for search inputs, but not really anymore. I don’t hate the look, except…\nSafari totally ignores the font-size you set on \n…\nThe post What do you get for using a search input type? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/what-do-you-get-for-using-a-search-input-type/",
+          "publishedOn": "2021-11-17T23:09:46.000Z",
+          "wordCount": 595,
+          "title": "What do you get for using a search input type?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=356700",
+          "author": "Tobias Günther",
+          "description": "In part 5 of this series, we looked at rebasing and merging. Although there are a couple of differences between git merge and git rebase, both commands have the same goal: they integrate changes from one branch into another.\nThe post Cherry-Picking Commits in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/cherry-picking-commits-in-git/",
+          "publishedOn": "2021-11-17T15:28:22.000Z",
+          "wordCount": 1350,
+          "title": "Cherry-Picking Commits in Git"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357023",
+          "author": "Chris Coyier",
+          "description": "Egor Kloos describes a situation where a (purely visual) designer asks for some changes to a component. There is a misunderstanding where the (code monkey) developer implements the change exactly as requested—but really what was required was both a bug …\nThe post The Gap (Design Engineering) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/the-gap-design-engineering/",
+          "publishedOn": "2021-11-17T15:27:19.000Z",
+          "wordCount": 647,
+          "title": "The Gap (Design Engineering)"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357053",
+          "author": "Chris Coyier",
+          "description": "Upon hearing “sticky footer” these days, I would think most people imagine a position: sticky situation where a footer element appears fixed on the screen while in the scrolling context of some parent element.\nThat’s not quite what I’m talking …\nThe post A Clever Sticky Footer Technique appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-clever-sticky-footer-technique/",
+          "publishedOn": "2021-11-17T00:49:00.000Z",
+          "wordCount": 846,
+          "title": "A Clever Sticky Footer Technique"
+        },
         {
           "id": "https://css-tricks.com/?p=356849",
           "author": "Geoff Graham",
@@ -1030,24 +1080,6 @@
           "publishedOn": "2021-10-19T14:48:40.000Z",
           "wordCount": 3314,
           "title": "An Interview With Elad Shechter on “The New CSS Reset”"
-        },
-        {
-          "id": "https://css-tricks.com/?p=354269",
-          "author": "Chris Coyier",
-          "description": "We aren’t supposed to be doing any sort of decision-making based on browser User-Agent Strings. But, ya know, collectively, we do.\nKarl Dubost notes that there is a significant change coming to them, notably moving the version integer past …\nThe post Three-Digit Browser Versions in March 2022 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/three-digit-browser-versions-in-march-2022/",
-          "publishedOn": "2021-10-18T22:53:05.000Z",
-          "wordCount": 528,
-          "title": "Three-Digit Browser Versions in March 2022"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353308",
-          "author": "Alex Standiford",
-          "description": "I believe that a traditional WordPress theme should be able to work as effectively as a static site or a headless web app. The overwhelming majority of WordPress websites are built with a good ol’ fashioned WordPress theme. Most of …\nThe post How to Build a Nearly Headless WordPress Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-build-a-nearly-headless-wordpress-website/",
-          "publishedOn": "2021-10-18T14:48:34.000Z",
-          "wordCount": 2414,
-          "title": "How to Build a Nearly Headless WordPress Website"
         }
       ]
     },
@@ -1142,6 +1174,132 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=69655",
+          "author": null,
+          "description": "与其他社交应用不同，TikTok 的全球成功依靠的不是将人们与朋友家人联系起来。它的既定使命是“激发创造力并营造快乐”，这与 Facebook 的“让世界更紧密地联系在一起”的目标相去甚远。应用的核心功能是 For You Page 算法，主要是根据用户喜欢的内容推荐视频，而不是根据视频是否由他们认识的人上传的。但最近情况似乎开始发生变化。\n\n\n迄今为止，你一直可以在很大程度上期待永远不会在 TikTok 上遇到烦人的叔叔、前男友或者同事，但是该平台现在正更加努力地将用户与他们在平台之外已有关系的人联系起来。八名 TikTok 用户对《WIRED》杂志表示，过去几个月该应用已开始鼓励他们关注现实生活中认识的人。此举在 TikTok 的忠实用户中引发了广泛的抱怨，引发了隐私方面的担心：这款应用程序用了什么样的策略来确定他们认识谁？\n\n\nTikTok 发言人在一份声明中表示：“我们社区的安全和隐私至关重要，这就是为什么我们提供一系列隐私设置和选择加入功能，使人们能根据自己的舒适范围和乐趣定制他们的应用体验。”\n\n\n住在皇后区的 27 岁的 Alex 表示，今年早些时候的一个晚上，她查看了自己的 TikTok 通知，惊讶地发现她父亲关注了她的个人资料。她迅速屏蔽了他，但这件事令人不安，因为她经常发帖说自己是双性恋，当时她的父亲并不知道这件事。\n\n\nAlex 表示：“尽管我最近一直在考虑向他出柜，但我觉得我的选择被剥夺了。”她的个人资料里有她的名字，但考虑到 TikTok 的运作方式，她仍然认为被父亲发现的风险很低。Alex 表示：“我很惊讶他能找到我，因为我们的信仰和兴趣都不一样。我从没想到算法会向他展示我的视频，所以从不担心他会找到我的个人资料。”",
+          "link": "https://www.solidot.org/story?sid=69655",
+          "publishedOn": "2021-11-17T12:18:27.000Z",
+          "wordCount": 101,
+          "title": "TikTok 悄悄关联用户与现实中的朋友"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69654",
+          "author": null,
+          "description": "1995 年 12 月 7 日，NASA 的一个探测器进入木星大气层后立刻开始燃烧。它为执行伽利略任务酝酿了六个月，在飞行 8000 万英里之后，它准备对太阳系最大行星周围氢和氦的厚层进行采样。\n\n\n这艘名为木星大气探测器的航天器经过精心设计，可承受与木星大气接触时遇到的高温。它有一个巨大的碳隔热罩，约占探测器总重量的 50%，旨在在探测器下降时通过磨损散热。这个被称为烧蚀的受控过程在地球上经过仔细建模——NASA 甚至建立了一个名为 Giant Planet Facility 的特殊测试实验室，试图重建条件并测试设计。\n\n\n当探测器以超过 100,000 英里的时速穿过云层时，摩擦将周围空气加热到华氏 28,000 度以上——将原子分裂成带电粒子并产生被称为等离子体的电汤。等离子体解释了闪电或极光等自然现象；太阳是一个巨大的、燃烧的等离子体球。它通常被称为物质的第四种状态，但实际上它是第一种状态：宇宙大爆炸之后的那一刻，一切都是等离子体。\n\n\n等离子体穿过木星探测器隔热罩的速度超出 NASA 所有人的预期。当工程师分析隔热罩中传感器传回的数据时，他们意识到自己精心设计的模型出错了。隔热罩某些区域分解的程度比预期的要多得多，而在另一些区域则要少得多。探测器侥幸得存，唯一的原因是他们在设计中对其加厚，从而建立了容错冗余。奥本大学等离子体专家 Eva Kostadinova 表示：“这是一个悬而未决的问题，但如果你想设计新的任务，你必须能够模拟正在发生的事情。”\n\n\n伽利略任务完成后，科学家使用探测器的数据调整了烧蚀模型，但他们仍然面临一个大问题：很难精确地重新创造高速进入稠密大气的条件，因此很难测试模型的准确性。这也对可能比目前使用的碳材料更轻或更好的新型隔热材料构成了障碍。如果你无法测试它们，就很难确信它们会在价值 10 亿美元的航天器上起作用。\n\n\n过去的测试工作使用了激光、等离子射流和高速射弹来模拟进入的热量，但没有一个是完全正确的。 Kostadinova 表示：“地球上没有任何航天设施可以达到进入木星等的大气时所经历的高温条件。”现在，Kostadinova 和加州大学圣地亚哥分校的合作者 Dmitri Orlov 的新研究证明了一种替代方案——实验性核聚变反应堆的炽热内核。",
+          "link": "https://www.solidot.org/story?sid=69654",
+          "publishedOn": "2021-11-17T12:13:45.000Z",
+          "wordCount": 107,
+          "title": "用核聚变测试防热罩材料"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69653",
+          "author": null,
+          "description": "神经元激活时，通常会使该区域的血流量迅速增加。这种关系被称为神经血管耦合或功能性充血，它通过大脑中名叫小动脉的血管扩张实现。功能性磁共振成像 (fMRI) 就是基于神经血管耦合概念：专家通过寻找血流较弱的区域诊断脑部疾病。\n\n\n之前对神经血管耦合的研究仅限于大脑的表层区域如脑皮层，科学家主要研究血流如何变化以响应环境的感官刺激（如视觉或听觉刺激）。相同的原理是否适用于协调内感受信号（身体本身产生的刺激）的更深层次大脑区域，我们对此知之甚少。\n\n\n为了研究大脑深层区域的关系，由佐治亚州立大学神经科学教授兼该大学神经炎症和心脏代谢疾病中心主任Javier Stern 博士领导的跨学科科学家团队开发了一种全新的方法，结合外科技术和最先进的神经影像学。该团队专注于下丘脑，这是一个涉及关键身体功能的大脑深层区域，包括饮水、饮食、体温调节和繁殖。论文发表在《Cell Reports》期刊上，研究下丘脑的血流量是如何随着盐的摄入而变化的。",
+          "link": "https://www.solidot.org/story?sid=69653",
+          "publishedOn": "2021-11-17T11:44:35.000Z",
+          "wordCount": 78,
+          "title": "盐如何影响大脑血流量"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69652",
+          "author": null,
+          "description": "发表在《Nature Communications》期刊上的研究展示了一座 6.5 厘米长的 3D 打印沙桥，可承受 300 倍于自身的重量，相当于在布鲁克林大桥上放上 12 座帝国大厦。粘合剂喷射打印工艺比工业使用的其他 3D 打印方法更便宜更快，让用各种粉末材料创建 3D 结构成为可能，在成本和可扩展性方面具有优势。这个概念源于喷墨打印，但打印头使用的不是墨水，而是喷出液体聚合物来粘合粉状材料，例如沙子，逐层构建 3D 设计。粘合的聚合物赋予了打印沙子的强度。\n\n研究团队利用聚合物专业知识定制聚乙烯亚胺（PEI）粘合剂，与传统粘合剂相比，该粘合剂将砂部件的强度提高了一倍。通过粘合剂喷射打印的部件刚从打印床上取下时有很多孔。可以用另一种被称为氰基丙烯酸酯的超级胶水材料通过渗透填充空隙，以此强化部件。第二步在第一步的基础上将强度提高八倍，使聚合物砂复合材料比任何其他已知的建筑材料（包括砖石）更坚固。",
+          "link": "https://www.solidot.org/story?sid=69652",
+          "publishedOn": "2021-11-17T11:28:03.000Z",
+          "wordCount": 91,
+          "title": "聚合物赋予 3D 打印沙超强强度"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69650",
+          "author": null,
+          "description": "《流言终结者》节目前主持人 Jamie Hyneman 开始在芬兰拉彭兰塔理工大学（LUT）担任“实践”教授，任期五年。他曾被同一大学授予名誉博士学位，该校还有一个以他名字命名的原型实验室，学生可以设计、建造和测试原型。他据报道已到该校，但首次演讲计划通过专用视频会议软件。\n\nHyneman 于 2017 年获得了 LUT 的荣誉博士学位。这种互动推动了 Jamie Hyneman 中心（JHC）的创建。大学称，该中心的研讨会对该校所有学生和教职员工开放，可帮助参与者“开发新的想法和解决问题的方法，构建和测试原型”。Hyneman 在声明中表示：“作为实践教授，我计划在 JHC 鼓励和支持学生的创新。我也希望在更广泛的范围内参与大学的活动。例如我对环境问题和不同类型的车辆特别感兴趣。我很高兴地发现 LUT 和我在这些方面非常一致。”",
+          "link": "https://www.solidot.org/story?sid=69650",
+          "publishedOn": "2021-11-17T10:24:45.000Z",
+          "wordCount": 88,
+          "title": "芬兰大学聘请《流言终结者》前主持人为实践学教授"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69649",
+          "author": null,
+          "description": "1994 年，当时在新泽西州贝尔实验室工作的数学家 Peter Shor 证明量子计算机能以指数倍于经典计算机的速度解决某些问题。当时的问题是：量子计算机能造出来吗？怀疑论者认为量子态太过精微——环境不可避免地会搞乱量子计算机中的信息，使其不再是量子。\n\n\n一年后，Shor 做出回应。经典的纠错方案测量单个比特以检查错误，但这种方法不适用于 qubit 或“量子比特”，因为任何测量都会破坏量子状态，从而破坏计算。Shor 提出一种方法无需测量量子比特本身状态检测是否发生错误。Shor 的代码标志着量子纠错领域的开端。\n\n\n这个领域发展迅速。大多数物理学家将其视为构建强大量子计算机的唯一途径。加州理工学院的物理学家 John Preskill表 示：“没有纠错，我们将无法将量子计算机扩展到可解决真正困难问题的程度。”\n\n\n与通常的量子计算一样，开发纠错代码是一回事，在工作机器中实现它则是另一回事。在今年 10 月初，由马里兰大学物理学家 Chris Monroe 领导的研究人员报告，他们演示了运行像 Shor一样的纠错电路所需的许多要素。",
+          "link": "https://www.solidot.org/story?sid=69649",
+          "publishedOn": "2021-11-17T09:51:22.000Z",
+          "wordCount": 92,
+          "title": "量子计算机如何纠正错误"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69648",
+          "author": null,
+          "description": "过去五年太阳系最有趣的问题之一是：是否存在一颗大行星藏在寒冷的黑暗区域，其轨道如此之长可能需要 20,000 年才能运行一周？答案被证明不可知，但一项新研究揭示神秘假想天体存在的痕迹。\n\n\n英国伦敦帝国理工学院天文学家 Michael Rowan-Robinson 对红外天文卫星（IRAS）在 1983 年收集的数据进行分析，发现三个可能是第九行星的点源。Rowan-Robinson 在他的预印本论文中总结道，这实际上不是真正的探测，但确实存在可能性，用这些数据建模行星现在的位置，以便进行更有针对性的搜索，确认或排除它的存在。他写道：“鉴于 IRAS 探测的质量很差，极大限制了调查，而且在远红外探测非常困难的天空区域，候选目标存在的可能性并不是压倒性的。”\n\n\n“然而鉴于对第九行星猜想的极大兴趣，在被提议的天空区域中搜索提议参数的天体，看看它是否与行星星历表不一致，这种做法是值得的。”关于太阳系外围存在一颗隐藏行星的猜测持续了几十年，在 2016 年，一篇论文提出新证据，猜测达到新的高潮。加州理工学院的天文学家 Mike Brown 和 Konstantin Batygin 发现，太阳系外围的柯伊伯带中的小天体的轨道运行很奇怪，似乎是受到一颗大天体引力影响的模式。\n\n\n但找到这个讨厌的东西比听起来复杂得多。如果它在那里，其质量可能是地球的 5 到 10 倍，运行轨道在 400 到 800 个天文单位之间（天文单位指的是日地平均距离，如冥王星同太阳的距离大约为 40 个天文单位）。天体距离遥远，很小且很冷，可能根本没有反射太多阳光；我们也不知道它在广阔的天空中的确切位置。所以对于它是否真实存在一直有争议，这是一个非常有趣的辩题。IRAS 从 1983 年 1 月起运行 10 个月，对 96% 的天空进行远红外勘测。在这个波长下，可能可以探测到像第九行星之类小而寒冷的天体，因此 Rowan-Robinson 决定重新分析与第九行星一致的参数数据。",
+          "link": "https://www.solidot.org/story?sid=69648",
+          "publishedOn": "2021-11-17T08:30:27.000Z",
+          "wordCount": 135,
+          "title": "几十年前发现的神秘天体可能是第九行星"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69647",
+          "author": null,
+          "description": "一项新太空任务在离地球最近的恒星系统周围寻找可能宜居的行星。\n\n\n在一个与 2009 年电影《阿凡达》相呼应的项目中，澳大利亚和美国科学家展开国际合作，将在半人马座阿尔法星系统中寻找可以维持生命的类地行星。半人马座α是离地球最近的恒星系统，它由两颗类太阳恒星——被称为半人马座α星 A 和 B，以及一颗更遥远的红矮星组成。Toliman 任务以该恒星系统的古老阿拉伯语名称命名，将搜索围绕半人马座α星 A 和 B 运行的潜在行星。\n\n\n建设中的 Toliman 望远镜定于 2023 年发射到近地轨道。它试图在“金发姑娘（译注：意为刚刚好）轨道”发现新行星——距离合适，这颗行星既不太热也不太寒冷，可维持生命。悉尼大学的项目负责人 Peter Tuthill 教授表示：“如果我们正在寻找我们所知的生命，黄金标准通常是行星表面可能存在液态水，所以它不会像一个冰冻的雪球，也不会把所有的水都煮沸到大气中。”Tuthill 表示：“我们知道生命至少进化了一次，在围绕着类太阳恒星的类地行星上。我们尝试寻找尽可能接近该配置的其他例子。”",
+          "link": "https://www.solidot.org/story?sid=69647",
+          "publishedOn": "2021-11-17T07:46:05.000Z",
+          "wordCount": 91,
+          "title": "新任务在附近搜寻可维持生命的行星"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69646",
+          "author": null,
+          "description": "流媒体巨头 Netflix 开始定期公布其热播剧和电影的观看时长数据。它将每周公布 Top 10 电视剧和电影数据，每个类别分为英语和非英语两种。根据最新的数据，在英语类电影类别，《Red Notice》上映第一周其全球用户观看了 148,720,000 小时，这部电影由 Gal Gadot 主演；非英语类电影，《Yara》在上周观看了 17,950,000 小时；英语类电视剧，《Narcos: Mexico: Season 3》上周观看了 50,290,000 小时；非英语类电视剧，《鱿鱼游戏第一季》上周观看了 42,790,000 小时，这部热播剧已经上映九周。此前 Netflix 公布的数据是一部剧集或电影有多少订阅用户观看了至少两分钟。",
+          "link": "https://www.solidot.org/story?sid=69646",
+          "publishedOn": "2021-11-17T05:39:02.000Z",
+          "wordCount": 95,
+          "title": "Netflix 公布热播剧观看量"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69645",
+          "author": null,
+          "description": "匿名读者 写道 \"药品专利池（Medicines Patent Pool / MPP）宣布与辉瑞达成口服新冠抗病毒候选药物（PF-07321332）的自愿许可协议，中低收入国家由此将可获得这种药物。\n\n\n辉瑞研发的这种抗病毒候选药物与低剂量的人类免疫缺陷病毒（HIV）药物利托那韦联合使用。\n获得次级许可的全球合格仿制药制造商将能够向 95 个国家提供这种与利托那韦联合使用的新药，这将能够覆盖全球约 53% 的人口。辉瑞将不会对低收入国家的药物销售收取特许权使用费，并且只要新冠疫情仍被世界卫生组织列为国际关注的突发公共卫生事件，就将免除协议涵盖的所有国家药物销售的特许权使用费。 \n鲜明对比。\n\"",
+          "link": "https://www.solidot.org/story?sid=69645",
+          "publishedOn": "2021-11-17T04:34:31.000Z",
+          "wordCount": 86,
+          "title": "辉瑞授权使中低收入国家可获得口服抗新冠病毒候选药物"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69644",
+          "author": null,
+          "description": "微软宣布释出 Windows 10 的 2021 年 11 月更新（November 2021，或 Windows 10 v21H2），同时公布了新的更新发布方案，宣布 Windows 10 将切换到一年大更新一次。此前 Windows 10 一直是一年两次大更新，但随着 Windows 11 的发布，Windows 10 将到 2025 年 10 月 14 日停止支持，在此期间微软将在每年的下半年释出一次大更新。对企业级用户来说，Windows 10 v21H2 是一个长期支持版本，将提供五年的支持而不是通常的 18 个月。微软表示，所有版本的 Windows 10, version 2004 将在 2021 年 12 月 14 日停止支持，企业版和教育版  Windows 10, version 1909 将在 2022 年 5 月 10 日停止支持，意味着之后仍然运行这些版本的系统将不会再获得每月安全更新。",
+          "link": "https://www.solidot.org/story?sid=69644",
+          "publishedOn": "2021-11-17T04:33:16.000Z",
+          "wordCount": 130,
+          "title": "Windows 10 将过渡到一年大更新一次"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69643",
+          "author": null,
+          "description": "中国最大的两家民营教培企业新东方和好未来转型到成人教育和卖菜。新东方周一表示，计划于 2021 年底前全国所有学习中心不再向幼儿园至九年级学生提供学科相关培训服务，即 K-9 学科类培训服务。该公司在提交给香港交易所的一份文件中表示，过去两个财年，提供 K-9 学科类培训服务产生的总营收分别占公司各财政年度总营收约 50%-60% 。好未来上周表示，将停止在中国内地提供此类服务。该公司表示，将提供更多非学科服务，以帮助孩子们找到自己的兴趣和天赋。新东方称将转型到备考和成人语言培训，公司创始人俞敏洪在上周直播中表示将创建平台销售农产品。据报道，政府计划发放许可证允许部分教培企业为 K-9 学生提供课后辅导，但限制为非营利性。这些企业将被允许在其他业务上获利，包括为成人提供专业考试辅导。",
+          "link": "https://www.solidot.org/story?sid=69643",
+          "publishedOn": "2021-11-16T14:38:35.000Z",
+          "wordCount": 82,
+          "title": "新东方和好未来转型成人教育和卖菜"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69642",
+          "author": null,
+          "description": "攻击者正劫持阿里巴巴的 Elastic Computing Service (ECS) 实例安装挖矿程序挖掘门罗币。安全公司趋势科技报告，阿里 ECS 的问题之一是缺乏不同的权限级别配置，默认都是提供 root 访问权限。当攻击者获得通过 SSH 访问目标服务器的登录凭证后，他们不需要提权等额外工作就能具有 root 权限。在入侵之后，攻击者会运行一个脚本关闭安全代理。",
+          "link": "https://www.solidot.org/story?sid=69642",
+          "publishedOn": "2021-11-16T14:18:02.000Z",
+          "wordCount": 88,
+          "title": "阿里云 ECS 被劫持安装挖矿程序"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69641",
+          "author": null,
+          "description": "一名阿根廷女子据信成为有记录以来第二位靠自身免疫系统自愈 HIV 的人。相关病例研究报告发表在周一出版的《Annals of Internal Medicine》期刊上。这位 30 岁的女子是在 2013 年诊断携带 HIV，研究人员根据她生活的阿根廷城镇名字将其命名为 Esperanza 病人，Esperanza 在英语中的意思是希望。因与病毒相关的污名，这位女子没有公开名字。研究人员表示她的自愈故事能为全球 3800 万 HIV 携带者带来希望。波士顿 Ragon 研究的病毒免疫学家 Xu Yu 博士表示这是人类免疫系统的奇迹。知名 HIV 研究员 Steven Deeks 博士称应尽快找出自愈机制，探索是否能在其他人身上重现。",
+          "link": "https://www.solidot.org/story?sid=69641",
+          "publishedOn": "2021-11-16T13:59:58.000Z",
+          "wordCount": 102,
+          "title": "一名阿根廷 HIV 感染者自愈"
+        },
         {
           "id": "https://www.solidot.org/story?sid=69640",
           "author": null,
@@ -4214,24 +4372,6 @@
           "publishedOn": "2021-10-20T10:10:35.000Z",
           "wordCount": 76,
           "title": "[文章] 短文：因为中国，澳大利亚人均从两万美元到六万美元只用了9年"
-        },
-        {
-          "id": "https://www.zhihu.com/pin/1433850005366571008",
-          "author": "宁南山",
-          "description": "国内的产业转移的一个例子\n在产业转移方面，四川和重庆市都从沿海拿到了不少产业转移的蛋糕，这里说一个争取沿海产业转移非常积极，而且目前做的比较成功的四川省宜宾市，尽管它目前人均GDP还没有赶上全国平均水平，但发展迅速。\n该市2020年GDP总量高达2802.1亿元，增长4.6%，历史性的闯进全国经济百强，而在2020年全国GDP百强城市中，该市的全社会用电量增速高达全国第五位。\n而在四川的排名中，宜宾市2018年经济增速9.2%仅次于旅游农业为主的甘孜州排四川第二名。，2019年（8.8%）和2020年（4.6%）的经济增速都是四川所有地市州第一名，按照经济总量，宜宾也在2019年加上经济普查因素超过德阳市跃居四川第三位，打破了四川长期的成都-绵阳-德阳的局面，而宜宾市2020年GDP仅比绵阳市少200亿左右，绵阳长期的老二地位受到了威胁。\n不过该市只是发展较快，但还并不是富裕，2020年的GDP按照七普人口459万人计算的话，人均为6.1万元人民币，换成美元为人均8849美元，还没有赶上全国平均水平，这也反映出四川省内成都发展水平一枝独秀的局面，2020年七普成都不仅人口过2000万，而且人均GDP还超过1.2万美元，在四川省内仅次于人口仅有121万的资源工业城市攀枝花，但不管怎样，宜宾市至少是一个发展迅速的落后地区。\n找了下当地的产业结构和资料，\n我们知道宜宾市有个五粮液，带动了当地以白酒制造业的发展，但是光有白酒是不够的，宜宾在长江边上，水力资源丰富，当地充分开发和利用水电并且外送，每年发电量超过300亿度，其中73.5%是水电，该市用电量全年100多亿度，其余均外送赚钱。另外该市也是水泥生产大户，2020年水泥产量1277.65万吨，这可以搭上房地产发展的车。\n不过更为重要的是引进新产业，该市2017年开始从沿海地区尤其是广东引进了朵唯，领歌，康佳等手机制造商，这些手机虽然在国内很少见，但是在东南亚等国外市场有大量出货，宜宾市在2017年5月生产了第一部手机，是金奥讯公司为东南亚运营商定制的手机，而到2020年宜宾市手机产量高达6982.96万部，比上年增长了24.4%。\n宜宾市引来的另外两个重量级的品牌是中兴和极米，中兴2017年投资在当地建造了无线基站，路由器，交换机等网络设备制造工厂，而国内目前最大的投影仪品牌极米科技，其旗下最大的制造工厂就在宜宾市，下图一为今年1月份的宜宾工厂开园仪式，我卧室的投影仪就是极米的，不过应该还不是宜宾生产的。\n而宜宾市并不满足于以上，从2019年开始，宜宾市陆续与全球最大的动力电池厂家宁德时代签署一到六期制造基地，在公告中，第一期和第二期投资不超过100亿人民币，第三期和第四期总投资不超过100亿人民币，2021年2月2日审议通过了《关于投资建设动力电池宜宾制造基地 五、六期项目的议案》，拟在四川省宜宾市临港经济技术开发区内投资建设动力电池宜宾制造基地五、六期项目，项目总投资不超过人民币120亿元。  \n2021年6月，宁德时代动力电池一期项目首先投产运行，这些项目陆续投产后，宜宾市将会新增大量的就业岗位。\n在产业发展之外，宜宾市为了培养人才还大量引进大学，建立大学城，该市原本只有宜宾学院和宜宾职业技术学院两所大专院校，但这几年陆续引进了国内985高校电子科技大学研究生院宜宾分院（2018年9月开园，是该校在成都以外的第一个研究院），四川大学宜宾校区（2019年9月开园，是川大的第四个校区，主要是研究生），其他还有西南交通大学研究生院（2021年4月开园，图三）等高校。\n在近几年经济大发展的情况下，不少人回流在本地就业，不再到沿海打工，宜宾市也扭转了人口下滑的局面，2010年六普宜宾市由于人口外流，常住人口为447.2万人，比2000年的五普的488.7万人下降了41.5万人，而到2020年的七普人口数据，人口比2010年反而上升到了458.9万人，上升了11.7万人，相信最近几年的发展做出了最大的贡献。\n宜宾市大发展的原因，可以找出很多客观因素，比如说宁德时代在这里设厂，是因为成都和重庆就有汽车工厂，再比如深圳是该市电子产业引入的最重点城市，而该市到深圳直飞航班就两小时，比北方城市更近，同时当地有海关，交通也比较便利，铁路，水路，公路齐全，距离成都和重庆两个大城市不远等等，但是主要还是和人分不开的，像宜宾市的一把手以前就是四川省招商引资局局长，四川省投资促进局党组局长，还曾兼任四川省重大引进项目协调推进领导小组办公室主任，有时候就是那么几个核心人物，就能极大的改变一个企业乃至于一个地区的面貌。",
-          "link": "https://www.zhihu.com/pin/1433850005366571008",
-          "publishedOn": "2021-10-19T09:41:20.000Z",
-          "wordCount": 12,
-          "title": "[想法] 国内的产业转移的一个例子 在产业转移方…"
-        },
-        {
-          "id": "https://www.zhihu.com/pin/1433757043160784896",
-          "author": "宁南山",
-          "description": "看了下前三季度的增长数据，1-9月人民币实际GDP增长9.8%，名义GDP增长13.88%，其中第三季度在大宗商品原材料价格上涨，限电和疫情的影响下经济增速增长回落到4.9%，但随着煤炭增产，限电预计会逐渐缓和。其实多说一句，今年的限电影响工业生产的事情已经非常好的说明了去碳化和工业化，乃至于和我国北方群众冬季取暖之间的矛盾。\n今年由于人民币对美元升值，再加上全年经济总量实际增长预计会有8%(IMF估计），预计全年经济总量按照美元计算会增加3万亿美元左右，按照14.1亿人平均则人均GDP今年会净增2000美元以上，人均会达到约1.25万美元。\n继续往后算，\n从2022-2025年这四年，如果平均每年名义值增长6%，则2025年人均可以达到1.58万美元\n从2022-2025年这四年，如果平均每年名义值增长7%，则2025年人均可以达到1.64万美元\n从2022-2025年这四年，如果平均每年名义值增长8%，则2025年人均可以达到1.7万美元。\n总之2030年之前人均突破2万美元问题看起来不是很大。",
-          "link": "https://www.zhihu.com/pin/1433757043160784896",
-          "publishedOn": "2021-10-19T03:31:57.000Z",
-          "wordCount": 9,
-          "title": "[想法] 看了下前三季度的增长数据，1-9月人民币…"
         }
       ]
     }
