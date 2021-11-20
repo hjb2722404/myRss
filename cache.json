@@ -488,24 +488,6 @@
           "publishedOn": "2021-10-22T03:40:37.000Z",
           "wordCount": 1075,
           "title": "如何在 Windows 11 WSA 中安装安卓应用？"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40138",
-          "author": "青小蛙",
-          "description": "Windows Subsystem for Android 是微软在发布 Windows 11 时宣传的新功能，即直接在 Windows 11 中运行 Android 系统，经过一段时间的测试之后，今",
-          "link": "https://www.appinn.com/windows-subsystem-for-android-download/",
-          "publishedOn": "2021-10-21T10:03:30.000Z",
-          "wordCount": 1305,
-          "title": "Windows Subsystem for Android 下载地址，在 Windows 11 上运行 Android 系统"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40132",
-          "author": "青小蛙",
-          "description": "FreeOffice 2021 是一款可供个人和商业用户免费使用的全功能办公套件，包括文字处理，电子表格和演示软件，最重要的是与 Microsoft Office 无缝兼容，支持 Windows、Ma",
-          "link": "https://www.appinn.com/freeoffice-2021/",
-          "publishedOn": "2021-10-21T04:16:58.000Z",
-          "wordCount": 1117,
-          "title": "FreeOffice 2021 正式发布，免费的 Microsoft Office 替代品，附下载地址"
         }
       ]
     },
@@ -514,6 +496,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=357234",
+          "author": "Chris Coyier",
+          "description": "I’m not the biggest fan of Atomic CSS myself. I don’t like all the classes. I like to express my styles in CSS because I find CSS… good. But I appreciate that a lot of people seem to like it, …\nThe post Reimagine Atomic CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/reimagine-atomic-css/",
+          "publishedOn": "2021-11-19T22:01:05.000Z",
+          "wordCount": 600,
+          "title": "Reimagine Atomic CSS"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357227",
+          "author": "Chris Coyier",
+          "description": "A tournament bracket UI where you pick your favorite between two coding fonts and your choices are whittled down all the way to a final winner. A clever way to suss out your own taste and arrive at a choice.…\nThe post Coding Font Game appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/coding-font-game/",
+          "publishedOn": "2021-11-19T21:18:50.000Z",
+          "wordCount": 594,
+          "title": "Coding Font Game"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357192",
+          "author": "Jhey Tompkins",
+          "description": "Good friend Kent C. Dodds has recently dropped his new website which had a lot of work go into it. I was fortunate enough that Kent reached out a while back and asked if I could come up with some …\nThe post Parallax Powered by CSS Custom Properties appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/parallax-powered-by-css-custom-properties/",
+          "publishedOn": "2021-11-19T15:13:46.000Z",
+          "wordCount": 3158,
+          "title": "Parallax Powered by CSS Custom Properties"
+        },
         {
           "id": "https://css-tricks.com/?p=356818",
           "author": "Chris Coyier",
@@ -1080,15 +1089,6 @@
           "publishedOn": "2021-10-21T14:26:03.000Z",
           "wordCount": 1711,
           "title": "How to Create a Contact Form With Next.js and Netlify"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353866",
-          "author": "Chris Coyier",
-          "description": "Do you know what to use the @ sign for something other than email addresses and Twitter handles? I do! —  Pawel Grzybek notes how some old physical typewriters had an “Arroba” on them which was represented with the @ \n…\nThe post Some Typography Links VIII appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/some-typography-links-viii/",
-          "publishedOn": "2021-10-20T23:25:22.000Z",
-          "wordCount": 608,
-          "title": "Some Typography Links VIII"
         }
       ]
     },
@@ -1192,6 +1192,87 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=69691",
+          "author": null,
+          "description": "在高等教育领域大规模开放在线课程（MOOC）多年来是一大重要趋势，在新冠疫情期间它们获得了新的关注。在疫情的第一阶段，开放在线课程成为广大新学习者的重要资源。新学习者包括学术性教育转移到网上的学生、在线寻求资源的教师，以及因为突然面临封锁或失业希望培养新技能的人。\n\n\n在线和混合学习计划主管、生物系数字化学习讲师 Mary Ellen Wiltrout 和 MIT 生物学在读博士生Virginia “Katie” Blackwell 今年夏天在欧洲 MOOC 相关方峰会（EMOOCs 2021）上发表了一篇论文，评估了在线课程7.00x（生物学导论）的数据。他们研究的目标是更好地了解疫情期间向在线学习的转变是否会导致学习者对课程的参与度增加。2020 年，许多 MOOC 平台的网站流量增加，新增了 30 个基于 MOOC 的学位和超过 6000 万的新学习者。\n\n\nWiltrout 和 Blackwell 发现，注册 2020 年 3 月这期课程的人数几乎是疫情前三期课程的三倍。2020 年 3 月初，注册指标似乎和 2019 年 4 月差不多——无论是比例还是数量，但从 2020 年 3 月 15 日左右开始，注册率急剧上升。2020 年 7 月这期的课程，第一天注册的学习者已翻了一番，但是注册率仍然是 2020 年 3 月课程的一半。在学习者的分布方面，疫情期间，拥有.edu 地址的学习者比例更高，这明 MOOC 经常被其他学校的在读学生使用。\n\n\n疫情开始时，课程视频的观看数量增加。在 2020 年 3 月的课程中，记录经过验证和经过认证的参与者在 2020 年 3 月观看的视频数量比疫情之前的课程要多得多；即使是旁听学习者——不是为了证书——也观看了所有提供的视频。在 2020 年 7 月的课程期间，记录经过验证和经过认证的参与者观看的视频数量都远少于之前的课程。 2020 年 7 月的课程中，至少观看了一个视频的参与者的比例从之前的平均 64% 下降到了 53%。Blackwell 和 Wiltrout 表示，这种下降——以及 2020 年 7 月课程参与率的总体下降可能是由于学习者的环境变化导致观看视频和参与课程的时间减少，以及额外的观看屏幕时间导致的疲劳所致。\n\n\n研究发现，有 4.4% 的 2020 年 3 月学习者和 4.5% 的 2020 年 7 月学习者参与了论坛发帖——这是疫情之前论坛发帖比例的 1.4 到 3.3 倍。论坛参与度的增加可能表明，在许多人被隔离并与世隔绝的时期，人们渴望社区参与。",
+          "link": "https://www.solidot.org/story?sid=69691",
+          "publishedOn": "2021-11-19T12:57:10.000Z",
+          "wordCount": 168,
+          "title": "研究疫情期间学习者的参与度"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69690",
+          "author": null,
+          "description": "原子的电子在能壳中排列。就像圆形剧场的音乐会观众，每个电子占据一张椅子，如果所有椅子被占用它无法降低到低一能级。原子物理学的这一基本性质被称为泡利不相容原理，它解释了原子的壳层结构、元素周期表的多样性以及物质宇宙的稳定性。\n\n\n现在 MIT 物理学家以一种全新的方式观察了泡利不相容原理或泡利阻塞：他们发现这种效应可以抑制原子云散射光的方式。通常当光子穿透一团原子云时，光子和原子会像台球一样相互撞击，向各个方向散射光以辐射光，从而使云可见。然而 MIT 团队观察到，当原子在超冷和超压条件下，泡利效应开始发挥作用，粒子散射光的空间更小。光子会流过而不会被散射。\n\n\n在实验中，物理学家在锂原子云中观察到了这种效应。随着它们变得更冷和更致密，原子散射的光越来越少，并且逐渐变暗。研究人员怀疑，如果他们能更进一步，让温度达到绝对零度，云将变得完全不可见。研究结果刊登在《Science》期刊上，代表了对泡利阻塞影响原子光散射的首次观察。这种效应在 30 年前被预测，但直到现在才观察到。",
+          "link": "https://www.solidot.org/story?sid=69690",
+          "publishedOn": "2021-11-19T12:47:29.000Z",
+          "wordCount": 79,
+          "title": "超冷超致密的原子如何变得不可见"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69689",
+          "author": null,
+          "description": "我不是 Alexa 的粉丝，也不是 Google Assistant 的粉丝。或者事实上我也不是家中始终处于激活状态的任何联网摄像头或者麦克风的粉丝。我不使用声控系统，虽然需要用网络摄像头，但会确保在不使用时把它从计算机上拔下来。我是不是过于偏执了？也许吧。但是我觉得有一点担心是合理的，就智能助理迄今所提供的服务而言，这种担心不断萦绕在脑海可能不太值得。\n\n\niRobot 首席执行官 Colin Angle 不这么认为。上周 iRobot 宣布“与亚马逊合作，进一步推进家用机器人的语音智能”。iRobot 解释说，语音控制之所以重要，是因为它的机器人扫地机 Roomba 正变得非常非常复杂。最新款比以往更了解我们的家，有地图和物体识别功能，还有各种复杂和智能的行为和调度选项。iRobot 有一个应用程序，竭尽全力简化这个流程，让你的 Roomba 能完全按照你的意愿工作，但你仍然需要定期在应用程序中设定。这给 iRobot 带来了问题，它现在必须将所有这些非常酷的新功能与他们最初的机器人概念结合起来，我仍然记得最初也是最好的方式是只有一个你可以按下的按钮，上面用漂亮的大写字体写着“清洁”。\n认为语音控制是解决问题的答案。它迅速而直观，只要在你告诉机器人要做什么和机器人实际 做什么之间有一个可靠的映射，它看起来会非常成功——当然，如果你愿意让 Alexa 作为协调者的话。",
+          "link": "https://www.solidot.org/story?sid=69689",
+          "publishedOn": "2021-11-19T12:10:14.000Z",
+          "wordCount": 100,
+          "title": "iRobot CEO 相信未来的机器人需要语音控制"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69688",
+          "author": null,
+          "description": "弄清楚蛋白质中氨基酸的排序相对简单。但弄清楚排序如何转化为执行特定功能的复杂三维结构则极具挑战性。在几十年的缓慢进展之后，Google 的 DeepMind AI 小组宣布它在解决这个问题方面取得巨大进展。它在 7 月开源了名为 AlphaFold 的系统。与此同时，一组学术研究人员发布了自己的蛋白质折叠软件 RoseTTAFold，部分使用了源自 DeepMind 的想法构建。这些工具的效果如何？即使它们不如某些统计数据显示的那么好，但很明显比曾经拥有的任何东西要好得多。科学家将如何使用它们？\n\n\n本周我们得到了部分答案，一项大型研究合作将该软件用于相关问题：这些单独的三维结构如何结合在一起，形成在生物学中执行一些最重要功能的大型多蛋白复合物。单个蛋白质单独工作很好，但是生物学的某些方面需要仔细协调多种化学变化，使其作为一系列有序、连续的步骤完成。对于这些过程来说，最为容易的是需要协调成为单一复合体一部分的蛋白质。例如复制我们染色体的复合物通常由十几种蛋白质组成。植物光合作用一部分的光合系统I 规模相似。核糖体将信使 RNA 中的信息翻译成蛋白质的氨基酸排序，某些物种中核糖体可能需要超过 75 种蛋白质。",
+          "link": "https://www.solidot.org/story?sid=69688",
+          "publishedOn": "2021-11-19T11:54:00.000Z",
+          "wordCount": 88,
+          "title": "开源蛋白质结构软件取得成功"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69687",
+          "author": null,
+          "description": "工程师成功用核辐射而不是传统技术实现了数字编码信息的无线传输。无线电波和手机信号依靠电磁辐射通信，在一项新研究中，英国兰卡斯特大学的工程师与斯洛文尼亚的 Jožef Stefan 研究所合作，使用“快中子”传输数字编码信息。\n\n\n信息例子如单词、字母表和一个盲选的随机数，被串行编码到中子场的调制中，然后输出到笔记本电脑上解码，在屏幕上恢复出被编码的信息。在一项双盲测试中，随机数生成器生成随机数字，在不知情的情况下对其进行编码、上传，然后进行传输和解码。所有的传输测试都被证明 100% 成功。\n\n兰卡斯特大学的 Malcolm Joyce 教授表示：“我们展示了快速中子辐射作为无线通信介质的潜力，可能适用于传统电磁传输不可行或存在固有限制的应用。”",
+          "link": "https://www.solidot.org/story?sid=69687",
+          "publishedOn": "2021-11-19T11:29:17.000Z",
+          "wordCount": 85,
+          "title": "利用核辐射无线传输数据"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69686",
+          "author": null,
+          "description": "美国对 Nvidia 从软银收购英国芯片设计公司 Arm 提出了潜在的反对意见，为这桩已经在大西洋彼岸激起强烈反对的交易增加了新的障碍。 消息称，在英国以竞争和国家安全为由对这笔交易展开深入调查一天之后，美国监管机构表达了与欧洲一样的担忧。欧盟委员会上个月底启动了自己延长审查。尽管越来越多的迹象表明监管机构可能试图阻止这笔交易，但 Nvidia 周三表示它仍然“相信此次收购对 Arm、其授权方和整个行业有益”。",
+          "link": "https://www.solidot.org/story?sid=69686",
+          "publishedOn": "2021-11-19T10:26:53.000Z",
+          "wordCount": 89,
+          "title": "FTC 审查 Nvidia 对 Arm 的收购"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69685",
+          "author": null,
+          "description": "NASA 本月早些时候宣布，协调工作的计时信号出现一系列问题后，哈勃太空望远镜上的科学仪器进入安全模式。虽然 NASA 仍未确定问题的原因，但它已将一台相机恢复运行，计划很快重新启用第二台相机。\n\n\nNASA 同时在制定更新计划，降低所有仪器对计时信号故障的敏感度。但由于无法弄清楚问题的根源，且该问题最近没有再次出现，因此它的行动非常谨慎。\n\n\n哈勃上的四大科学仪器都有自己的控制硬件；为了彼此良好配合，望远镜使用同步信号确保所有活动都在同一时间线上进行。10 月下旬，部分同步消息丢失，导致仪器进入了安全模式，意味着它们停止收集数据。问题再次出现后，这些仪器保持安全模式，控制人员则试图弄清楚发生了什么。\n\n\n他们部分地重新激活了两台仪器。如果同步信号丢失问题再次出现，这将让控制人员能捕捉到它们，这将有助于诊断问题。幸运又或者不幸的是，问题没有再出现。几天后，控制人员确定受同步信息丢失影响最小的仪器是 Advanced Camera for Surveys，一台冰箱大小的仪器，对从紫外线到近红外线的波长敏感。该系统于 11 月 8 日重新启用，此后一直在运行。没有检测到进一步的同步故障。因此下周，Wide Field Camera 3 也将重新上线。摄谱仪应该会在本月晚些时候恢复。\n\n\n如果问题再次出现，那么显然有机会解决潜在的问题。但问题没有再出现，哈勃团队正在考虑改变仪器的控制软件，使它们对同步消息的故障不那么敏感。显然像这样的重大变化需要仔细审查，这需要额外的时间。如果一切顺利，即使多个同步消息失败，软件也将允许哈勃继续进行科学研究。\n\n\n无论如何，哈勃正在恢复科学研究，在不久的将来，它可能会恢复正常工作。而且即使潜在的问题因为过于罕见而无法诊断，该望远镜最终应该也能继续运行。",
+          "link": "https://www.solidot.org/story?sid=69685",
+          "publishedOn": "2021-11-19T10:19:13.000Z",
+          "wordCount": 93,
+          "title": "哈勃望远镜的一台相机恢复工作"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69684",
+          "author": null,
+          "description": "2019 年，Beresheet 坠毁在月球表面。在这个命运多舛的以色列月球着陆器的有效载荷中，有一群缓步类微生物“水熊虫”。这些生物体长不到 1 毫米，可在进入假死状态前排出体内几乎所有水分，从而在极端寒冷和辐射中存活下来。Beresheet 上的水熊虫可能在坠毁事件中存活下来，且有可能通过重新获得水复活。这些水熊虫安全入睡，可能不会在月球表面横冲直撞。但总的来说，全球的科学家、政府和航天机构都认为，将地球生命带到外星环境不是什么好事，反之亦然。 在这些日益增加的宇宙禁忌科学文献基础上，一篇新论文借鉴了迅速发展的入侵学——研究地球上的非本地物种如何传播到新地点并改变它。斑马贻贝通过压倒本地物种的竞争能力在北美蔓延就是一个典型例子。",
+          "link": "https://www.solidot.org/story?sid=69684",
+          "publishedOn": "2021-11-19T09:52:04.000Z",
+          "wordCount": 77,
+          "title": "入侵物种在太空会发生什么"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69683",
+          "author": null,
+          "description": "彭博援引知情人士的消息报道，苹果正加快推动其电动汽车的开发，将该项目的重心集中在完全自动驾驶能力上，意在解决困扰汽车行业的技术挑战。\n\n过去几年苹果汽车团队同时探索两条路径：创造一种具备有限自动驾驶能力的车型，侧重于转向和加速，类似于当前很多车型；或者是一个具备完全自动驾驶能力的版本，无需人工干预。在这项工作的新领导——Apple Watch 软件执行官 Kevin Lynch 的领导下，工程师现在专注于第二种选择。知情人士透露，Lynch 正推动在第一个版本中推出配备完全自动驾驶系统的汽车，因为讨论是私下进行的，知情人士要求保持匿名。\n\n这是被称为特别项目组或者“泰坦项目”的汽车项目的最新转变，该项目在 2014 年左右经历战略调整和高管变动。9 月该团队的前负责人 Doug Field 任职三年后离开去了福特汽车。苹果选择 Lynch接 替他的工作——一位不是汽车行业老手的内部高管。在试图掌握自动驾驶汽车的过程中，苹果正追逐行业的圣杯。科技和汽车巨头在自动驾驶汽车上花费了多年的时间，但自动驾驶尚未实现。",
+          "link": "https://www.solidot.org/story?sid=69683",
+          "publishedOn": "2021-11-19T08:58:37.000Z",
+          "wordCount": 87,
+          "title": "苹果自动驾驶汽车项目提速"
+        },
         {
           "id": "https://www.solidot.org/story?sid=69681",
           "author": null,
@@ -4314,123 +4395,6 @@
           "publishedOn": "2021-10-21T13:06:41.000Z",
           "wordCount": 82,
           "title": "科学家在 CRISPR 帮助下部分恢复盲人视力"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69328",
-          "author": null,
-          "description": "纽约外科医生成功地将在转基因猪身上生长的肾脏移植到人类患者身上，发现该器官能正常工作，这是一项科学重大突破，有朝一日也许能为重症患者提供新的、大量的器官供应。研究人员长久以来一直试图在猪身上培育出适合移植到人类身上的器官。克隆和基因工程等技术的进步使这一愿景接近现实，但是在人体中测试这些实验器官面临着棘手的伦理问题。纽约大学朗格尼医学中的外科医生迈出了惊人的一步：在征得了家人的同意之后，他们将猪的肾脏连接到一个靠呼吸机维持生命的脑死亡患者身上，然后在测量肾脏功能的同时持续观察身体的反应。这是世界上首例此类手术。研究人员仅跟踪了 54 个小时的结果，关于这种做法的长期后果还有许多问题待解。因为还存在着重大的医疗和监管障碍，所以此类手术不会很快对患者开放。尽管如此，该领域内的专家仍然称赞这次手术是一个里程碑。",
-          "link": "https://www.solidot.org/story?sid=69328",
-          "publishedOn": "2021-10-21T12:32:47.000Z",
-          "wordCount": 74,
-          "title": "纽约外科医生实现人猪肾脏移植"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69327",
-          "author": null,
-          "description": "大型零售公司承诺，到 2040 年，他们将只用零碳燃料的船舶运送货物。最近的一项分析发现，2019 年宜家和亚马逊是造成进口海运污染最严重的 15 家公司之一。此外，联合利华、米其林和拥有 Zara 等品牌的服装零售商 Inditex 都名列其中。德国零售商 Tchibo、Patagonia、运动用品公司 Brooks Running 和 FrogBikes 也加入了此次承诺。承诺的目的是放弃重质燃料油，转而采用一些不会释放二氧化碳的替代品——二氧化碳会造成地球气候变暖。但，要想控制航运污染还面临着许多障碍。环保非营利组织 Stand.earth 的航运活动主管 Kendra Ulrich表示：“这将成为推动这个行业脱碳的催化剂，改变游戏规则。”Kendra Ulrich 是 2019 年报告作者之一。",
-          "link": "https://www.solidot.org/story?sid=69327",
-          "publishedOn": "2021-10-21T12:08:16.000Z",
-          "wordCount": 94,
-          "title": "大型零售公司承诺放弃使用化石燃料船舶"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69326",
-          "author": null,
-          "description": "法国 18 世纪化学家拉瓦锡（Antoine Lavoisier）是一位复杂的历史人物。在科学上他是一位无可争议的巨匠，帮助开启了化学革命，将化学分析从定性方法转向了定量方法，他还有许多其他成就。他是一位富有的贵族，是税务机关 Ferme Generale 的一名税务官，Ferme Generale 是法国旧制度下最令人憎恨的机构之一。这增加了他的财富，他用这些财富支持他和其他人的科学研究并促进公共教育。但这也导致了他在臭名昭著的雅各宾派统治期间，同当权的革命者发生冲突；后者在 1794 年的同一天将拉瓦锡和他的岳父一同斩首，将其称为“人民的敌人”。\n\n\n新古典主义画家 Jaques-Louis David 曾于1788年为拉瓦锡和妻子玛丽.安妮（Marie-Anne）绘制了一幅著名的肖像画，画中丈夫和妻子正操作一组小型科学仪器。这幅画现在被收藏在纽约大都会艺术博物馆。显而易见，对这样一幅画进行新的科学分析是一件非常复杂的事情。\n\n\n但是尖端的分析技术表明，David 最初画的是一个完全不同的版本，里面没有科学设备，而是将这对夫妇描绘成了更典型的法国贵族。最近发表在《Heritage Science》期刊上的一篇论文显示，画家最终在肖像里巧妙地遮住了底稿，正如论文作者在一篇相关的Met 文章中所写，这很可能是为了回应对贵族日益强烈的反对。",
-          "link": "https://www.solidot.org/story?sid=69326",
-          "publishedOn": "2021-10-21T10:56:49.000Z",
-          "wordCount": 91,
-          "title": "X 射线揭示拉瓦锡标志性肖像画中的秘密"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69325",
-          "author": null,
-          "description": "英国造币厂打算从旧手机和笔记本电脑中提取黄金和贵金属。英国皇家铸币厂计划将世界首创的技术引进英国，从电子垃圾中回收黄金。据估计只有不到五分之一的电子垃圾最终被回收利用。铸币厂首席执行官 Anne Jessopp 表示，这项技术将有助于“应对世界最大的环境挑战之一”。英国皇家铸币厂同加拿大创业企业 Excir 签署了协议，从设备的电路板上回收 99% 甚至更多的黄金。据报道使用化学物质可在几秒钟之内选择性地从电路板上提取出贵金属。",
-          "link": "https://www.solidot.org/story?sid=69325",
-          "publishedOn": "2021-10-21T10:53:00.000Z",
-          "wordCount": 78,
-          "title": "英国皇家铸币厂将从旧手机中提取黄金"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69324",
-          "author": null,
-          "description": "无豆酿造能显著减少森林砍伐和温室气体排放——但传统咖啡种植区的工人们怎么办？\n\nHeiko Rischer 不知该如何描述实验室种植咖啡的味道。今年夏天，他获得了世界首批用细胞培养而不是用咖啡豆生产的咖啡样品。它由芬兰 VTT 技术研究中心开发，作为该中心种植生物技术负责人 Rischer 表示：“很难描述味道，对我来说，它介于咖啡和红茶之间……这取决于烘焙等级，它采用了更轻的烘焙，所以感觉有点像茶。”这项细胞农业创新尚未获准用于公众消费，Rischer 不能咽下这些咖啡。他只是让咖啡在口腔里稍稍停留，就吐了出来。他预测，VTT 实验室种植的咖啡大概会在四年内获得欧洲和美国的监管批准，从而为商业化产品铺平道路，该产品的气候影响可能要比传统咖啡低得多。\n\n咖啡行业既是气候危机的帮凶，又非常容易受其影响。对咖啡需求的增加与发展中国家的森林砍伐、生物多样性破坏和碳排放有关。与此同时咖啡生产商正在努力应对霜冻、干旱等各种更极端天气。据估计由于气候危机，到 2050 年，目前种植咖啡的土地有一半可能会无法生产。为了应对行业的挑战，各大企业和科学家正尝试开发不含咖啡豆的咖啡。VTT 的咖啡是在充满营养的生物反应器中通过漂浮的细胞培育的。Rischer 表示，这个过程不需要杀虫剂，水足迹也要低得多，因为咖啡可以在市场当地生产，减少了运输排放。该公司正对这个过程进行生命周期分析。Rischer 表示：“等我们有了数据，就能证明这种方法对环境的影响将远低于传统种植方式。”",
-          "link": "https://www.solidot.org/story?sid=69324",
-          "publishedOn": "2021-10-21T09:09:15.000Z",
-          "wordCount": 86,
-          "title": "实验室种植的环保咖啡即将问世"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69323",
-          "author": null,
-          "description": "日本警方周一逮捕了一名 43 岁的男子，罪名是利用 AI 技术重建打上马赛克的色情视频，这是该国首起滥用 Deepfake 技术的刑事案件。Masayuki Nakamoto 在兵库县南部经营自己的网站，他从日本成人视频中提取色情明星的图像，然后用人工智能技术对其进行修改，他的方法和在 Deepfake 视频中实现逼真“换脸”的方法一样。但是 Nakamoto并没有进行“换脸”，而是利用机器学习软件，根据大量未经审查的裸体图像，重建视频中被模糊处理的部分，然后在线出售。在日本的色情片中，阴茎和阴道都打上了马赛克，因为日本淫秽法禁止明确描绘生殖器。\n报道，Nakamoto 承认了侵犯版权和展示淫秽图像的指控，表示他这样做是为了钱。他是在警方进行“网络巡逻”时被抓获的。负责网络犯罪案件的律师 Daisuke Sueyoshi 表示：“这是首个日本警方逮捕 AI 用户的案件……目前，没有法律将使用 AI 制作此类图像定为犯罪。”Nakamoto 并未因侵犯视频中演员的隐私而受到任何指控。",
-          "link": "https://www.solidot.org/story?sid=69323",
-          "publishedOn": "2021-10-21T08:45:08.000Z",
-          "wordCount": 106,
-          "title": "一男子因利用 Deepfake 恢复打上马赛克的色情视频被捕"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69322",
-          "author": null,
-          "description": "随着部分投资者开始用 AI 学习和分析其语言模式和语气，企业 CEO 和其他高管越来越多地处于显微镜之下，这一趋势开辟了充满机会的新领域。\n\n语言模式软件专家 Evan Schnidman 表示，2020 年末，IT 行业的高管在讨论供应链中断问题时，刻意淡化半导体芯片短缺的可能性。他们说，一切都很好。然而一个旨在发现口语——最好是没有稿子的口语之中隐藏线索的算法经过分析发现，他们讲话的语气表现出高度的不确定性。Schnidman 表示：“我们发现 IT 部门高管讲话的语气和他们所说的积极言论并不一致。”\n\nSchnidman 为两家金融科技公司提供了这项分析建议。在评论发表后的几个月内，大众汽车和福特汽车等公司警告称，严重的芯片短缺会影响产量。汽车和工业公司的股价随之下跌。IT 部门高管现在表示供应很紧张。Schnidman 认为，如果计算机驱动的量化基金将权重分配给这些高管说话的语气而不是他们所说的内容，原本可以在这场行业动荡之前，处以更有利的位置。对 11 位正在使用或者试用此类系统的基金经理的采访显示，部分投资者将这种被称为自然语言处理（NLP）的技术视为一种新的工具，认为它可以帮助他们获得压倒竞争对手的优势。他们表示，如今传统的财务数据和公司报表已经被挖掘得很透，几乎没什么价值了。",
-          "link": "https://www.solidot.org/story?sid=69322",
-          "publishedOn": "2021-10-21T08:15:26.000Z",
-          "wordCount": 98,
-          "title": "投资者使用 AI 分析 CEO 的语言模式和语气"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69321",
-          "author": null,
-          "description": "因供应链短缺问题迫使单板计算机 Raspberry Pi 4 首次涨价。Raspberry Pi 创始人 Eben Upton 称受影响最大的是 2GB 版本的 Raspberry Pi 4 和 Raspberry Pi Zero。他宣布 2GB Pi 4 价格从 $35 上涨到 $45，之前停产的 1 GB Pi 4 将重新推出定价 $35。这一价格上涨被认为是临时性的，因为“我们看到了供应链问题开始缓解的早期信号”。",
-          "link": "https://www.solidot.org/story?sid=69321",
-          "publishedOn": "2021-10-21T07:20:53.000Z",
-          "wordCount": 110,
-          "title": "供应链问题导致 Raspberry Pi 4 临时涨价"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69320",
-          "author": null,
-          "description": "微软在宣布  Windows 11 时透露它能运行 Android 应用。Windows 11 将引入 Windows Subsystem for Android （WSA）子系统，类似 Windows Subsystem for Linux (WSL)。但本月初 Windows 11 正式发布时该功能还没有做好准备，现在微软开始向 Windows 11 Beta 通道用户提供 WSA。微软官方博客表示，它与英特尔和亚马逊合作向美国地区的合格设备提供 WSA 和亚马逊应用商店 Amazon Appstore 的预览版，Windows 11 Beta 用户可以通过亚马逊应用商店下载各种 Android 应用。",
-          "link": "https://www.solidot.org/story?sid=69320",
-          "publishedOn": "2021-10-21T07:03:25.000Z",
-          "wordCount": 114,
-          "title": "Android 应用支持加入到 Windows 11 Beta"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69319",
-          "author": null,
-          "description": "Google 释出了 Chrome v95，主要变化包括：移除对 File Transfer Protocol(FTP) 协议的支持，不再支持网址如 ftp://；移除对 Universal 2nd Factor (U2F)标准的支持；浏览器 cookies 加入文件大小限制；移除对结尾为数字的非 IPv4 主机名网址的支持，如 http://example.0.1；加入了新的 UI 组件 Side Panel，可用于访问 Reading List 和书签，该组件需要手动启用；其他还有安全修正等等。",
-          "link": "https://www.solidot.org/story?sid=69319",
-          "publishedOn": "2021-10-21T06:01:43.000Z",
-          "wordCount": 105,
-          "title": "Google Chrome 95 移除 FTP 支持"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69318",
-          "author": null,
-          "description": "比特币再创历史新高，币值达到 6.5 万美元，超过了今年 4 月创造的记录。最新一轮的涨势是由美国首个比特币期货 ETF 的推出所驱动，投资者认为该 ETF 可望使广大的新投资者更容易亲近比特币。自 9 月中旬以来，比特币币值飙升逾 60%，仅 10 月份就上涨超过 46%。",
-          "link": "https://www.solidot.org/story?sid=69318",
-          "publishedOn": "2021-10-21T05:36:06.000Z",
-          "wordCount": 85,
-          "title": "比特币币值创历史新高"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69317",
-          "author": null,
-          "description": "有关人类社会发展的一个广泛接受的描述是：人类一开始生活在小规模的狩猎采集群体内，人与人之间基本上是平等的；农业发明之后生产出现过剩，人口随之增长，私有财产出现了，人类逐渐组成了部落，规模的扩大需要更多的组织，不同的社会阶层和专业化出现了。部落有酋长，有战士，也有了神职人员。城市、文明、王国，帝国。随着资本主义和工业革命的发展，现代官僚制度诞生了。这一社会发展是线性的、渐进的、技术驱动的，目的性的。然而，一本即将出版的新书《The Dawn of Everything: A New History of Humanity》根据最新的考古发现尝试重写人类历史，推翻这一广泛接受的人类社会的宏大历史叙事。作者指出，狩猎采集社会比我们以为的更复杂，已经有了社会性组织，他们像现代人类那样分配工作、处理财富和分配权力，他们已经在实践政治。早期农业也并非一蹴而就，人类首先要定居才有可能发展农业，而农业经历了漫长的发展历程，最初只是狩猎、放牧等觅食活动的一部分。作者持有无政府主义立场，相信人类的相处并不需要政府。",
-          "link": "https://www.solidot.org/story?sid=69317",
-          "publishedOn": "2021-10-21T03:25:48.000Z",
-          "wordCount": 79,
-          "title": "重写人类历史"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69316",
-          "author": null,
-          "description": "索尼第一方工作室 Santa Monica 宣布《战神（2018）》登陆 PC 平台。游戏将在 2022 年 1 月 14 日发售，发售平台包括 Steam 和 Epic Games Store，Steam 页面已经上线，支持中文，中国区售价 279 元。《战神（2018）》是最新一部登陆 PC 的索尼第一方游戏，之前还有《Horizon Zero Dawn》和《Days Gone》，《神秘海域4》也宣布将在明年初发布 PC 版本。索尼证实，这次的 PC 版本没有外包给第三方工作室，而是由 Santa Monica 工作室自己完成。PC 版本将支持 4K，没有帧率限制，支持英伟达的 DLSS 和 Reflex 低延迟技术，支持 21:9 宽屏。Santa Monica 称，截至 2021 年 8 月，《战神（2018）》 售出的拷贝数达到了 1950 万份。",
-          "link": "https://www.solidot.org/story?sid=69316",
-          "publishedOn": "2021-10-21T01:57:09.000Z",
-          "wordCount": 121,
-          "title": "《战神（2018）》登陆 PC"
         }
       ]
     },
@@ -4552,15 +4516,6 @@
           "publishedOn": "2021-10-23T00:33:14.000Z",
           "wordCount": 44,
           "title": "[文章] 当年一群大陆精英规划打造的台湾半导体产业，如今成为台湾经济的核心命脉"
-        },
-        {
-          "id": "https://www.zhihu.com/pin/1434479690707173376",
-          "author": "宁南山",
-          "description": "澳大利亚仅用9年时间从人均两万飙到人均六万美元的旅程，和以铁矿石为中心的大宗商品价格上涨是同步的，钢铁工业不只是需要铁矿石，炼钢也需要煤。\n2002年只有20美元一吨的铁矿石，到2010年达到了大约140美元以上，竟然是当初的七倍之多，像2005年价格一年就上涨了超过70%，2008年一年也上升了65%，2009年因为金融危机铁矿石价格下降了33%，但因为中国再次搞基建拉经济，2010年国际铁矿石价格再创新高。\n背景就是中国在2000年后大爆钢铁产能，2000年的钢产量1.285亿吨，2005年达到3.53亿吨，2010年达到6.27亿吨，竟然达到2000年的大约5倍，这还是官方统计数字，不包括瞒报的。",
-          "link": "https://www.zhihu.com/pin/1434479690707173376",
-          "publishedOn": "2021-10-21T03:23:29.000Z",
-          "wordCount": 8,
-          "title": "[想法] 澳大利亚仅用9年时间从人均两万飙到人均…"
         }
       ]
     },
