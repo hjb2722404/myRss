@@ -235,6 +235,498 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-11-23">2021-11-23</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.zhangxinxu.com/wordpress">张鑫旭-鑫空间-鑫生活</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">从js visibilitychange Safari下无效说开去</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.zhangxinxu.com/wordpress/2021/11/js-visibilitychange-pagehide-lifecycle/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>本文标题虽然是 visibilitychange，但实际上讲的是包括 pagehide, unload, beforeunload 等事件在内的Web页面生命周期知识，希望本文的整理可以帮到大家的学习。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Which SVG technique performs best for way too many icons?</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …
+The post Which SVG technique performs best for way too many icons? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Control Layout in a Multi-Directional Website</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/control-layout-in-a-multi-directional-website/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(13 min)</span>
+                    <span>Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …
+The post Control Layout in a Multi-Directional Website appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">音乐标签 – 自动将音乐标题、演唱者、封面图、歌词、专辑名添加到音乐文件内，支持 QQ、网易云、iTunes 信息源[Android/Windows]</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/music-tag-editor-windows-and-android/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>音乐标签是一款可以将音乐标题、演唱者姓名、封面图、歌词、专辑名等信息添加至音乐文件中的软件，支持 Windows、Android，信息源来自 QQ 音乐、网易云音乐、iTunes、酷我、Last.fm</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://io-oi.me/">reuixiy</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">获取 GitHub 上 JSON 数据的三种方式</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://io-oi.me/tech/fetch-json-data-on-github-in-three-approaches/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>JSON 是 Web 中数据表示和传输最通用的格式，GitHub 是程序员所热爱的极乐开源社区，有时候我们在仓库存放一些 .json 文件，或者通过 GitHub Actions 自动构建输出一些 .json 文件，作为一个轻量数据源，那么我们如何去获取呢？
+const REPO &#x3D; &#x27;reuixiy/io-oi.me&#x27;
+const BRANCH &#x3D; &#x27;build&#x27;
+const FILE_PATH &#x3D; &#x27;foo/bar.json&#x27;
+
+
+// 1. raw.githubusercontent.com
+
+&#x60;https://raw.githubusercontent.com/${REPO}/${BRANCH}/${FILE_PATH}&#x60;
+
+
+这种方式最简单，但是由于该域名在国内访问不畅，有时可能会带来麻烦，可以尝试以下两种方案。
+// 2. api.github.com
+
+&#x60;https://api.github.com/repos/${REPO}/contents/${FILE_PATH}?ref&#x3D;${BRANCH}&#x60;
+async function getFooBar() {
+const res &#x3D; await fetch(URL, {
+// Required headers
+ headers: {
+// See https://docs.github.com/en/rest/overview/media-types
+ Accept: &#x27;application/vnd.github.v3.raw&#x27;,
+// See https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api#authentication
+ // Authorization: &#x27;token ${GITHUB_TOKEN}&#x27;,
+ },
+})
+const fooBar &#x3D; await res.json()
+return fooBar
+}
+
+
+这个域名目前在国内访问通畅，但是需要额外的 headers，且未验证的客户端每小时有 60 次请求限制。
+// 3. github.io
+
+&#x60;https://.github.io//${FILE_PATH}&#x60;
+
+
+这种方式就是将 .json 文件部署到 GitHub Pages，可访问性和速度都不错，参考 https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">科学家捕捉幽默感最初出现的时间</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69729">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>布里斯托尔教育学院的研究人员试图确定早期发育中存在哪些类型的幽默感以及不同类型幽默感出现的年龄。该团队创建了一个早期幽默感调查（EHS），包含 20 个问题，他们要求来自英国、美国、澳大利亚和加拿大的671名 0 至 47 个月大的儿童的父母花 5 分钟完成关于他们孩子幽默感发展的调查问卷。该团队发现，报告中儿童意识到幽默的最早年龄是 1 个月大，估计有 50% 的儿童在两个月大的时候意识到幽默， 50% 的儿童在 11 个月大的时候会制造幽默。该团队还发现，一旦孩子开始制造幽默，他们会经常这样做，有一半的孩子在过去三个小时内开过玩笑。在接受调查的儿童中，该团队确定了 21 种不同类型的幽默感。一岁以下的儿童会意识到身体、视觉和听觉形式的幽默。这包括捉迷藏游戏（例如躲猫猫）、挠痒痒、做鬼脸、身体幽默（例如，把头伸进腿里）、有趣的声音和噪音、追逐和错误地使用物体（例如，把杯子放在头上）。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">挪威快没燃油车交税了</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69723">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>挪威在电动汽车的销售方面独树一帜。9 月电池驱动电动汽车占所有新车销量的 77.5%，在世界上遥遥领先——而英国截至 10 月 15% 的新车销售是电动汽车，美国这一数字仅为 2.6%。挪威的电动车之梦归功于一系列税收减免和金融优惠政策，意味着特斯拉等品牌可在价格上与内燃机车竞争。但这些激励措施及其成功造成了一个独特的困境：挪威快没有要交税的“脏车”了。
+
+
+这是一个相当大的问题。前任政府——一个中右翼联盟，上月被中左翼少数政府取代——估计电动汽车的普及给该国造成 192 亿挪威克朗（23.2亿美元）的年收入缺口。虽然电动汽车对于环境来说可能是好消息，但是在挪威的成功正造成严重财政恐慌。冰冻三尺非一日之寒，这也为其他竞相放弃高油耗内燃机的国家提供了教训。在挪威，世界上最先进的电动汽车政策始于一个流行乐队、一名环保主义者和一辆小型红色菲亚特熊猫。1988 年，活动人士 Frederic Hauge 与 A-ha 乐队的绿色支持者一起前往瑞士城市伯尔尼，在那里发现了这辆红色菲亚特。一位前车主将这辆汽车改装为使用铅电池，该组织计划用这辆车说服挪威政府鼓励电动汽车的普及。
+
+
+这辆菲亚特成为了一项为期九年的运动的核心，在这场运动中，Hauge 和 A-ha 的成员在挪威的收费公路上开着这辆车却不付钱。罚款不断增加，可他们仍然不交罚款，车辆被扣押并在拍卖会上出售，Hauge 在拍卖上将车买回，然后继续重复不缴费的循环。A-ha 的名人成员为反对电动汽车通行费的运动增添了光彩，而 Hauge——自 1986 年以来一直领导着名为 Bellona 的环保组织——吸引了媒体关注对电动汽车的需求激励措施。挪威道路交通信息委员会主任 Oyvind Solberg Thorsen 表示：“作为一名积极的治安会会员，他让媒体和政界人士了解了电动汽车”，该委员会发布有关道路和车辆的统计数据。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">攻击者不愿费力暴力破解长密码</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69722">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>根据微软蜜罐服务器网络收集的数据，大多数暴力破解攻击者主要尝试猜测短密码，很少攻击针对长的或包含复杂字符的凭证。微软安全研究员 Ross Bevington 表示：“我分析了超过一百万次针对 SSH 的暴力攻击输入的凭据。这是微软传感器网络中约 30 天的数据。”作为微软的欺诈主管，Bevington 的任务是创建看起来合理的蜜罐系统以研究攻击者趋势，他表示：“77% 使用的是长度在 1 至 7 个字符之间的密码。长度超过 10 个字符的密码只占 6%。”</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">元宇宙、加密货币和电动汽车是 2021 年科技界业的赢家</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69721">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>元宇宙、加密货币和电动汽车成为闲聊热门话题是有原因的：以科技股为主的纳斯达克100指数成分股的总市值几乎是基准标普500指数成分股的一半——为有史以来最高——而仅大型科技股就占标准普尔500指数成分股的三分之一。尽管去年感恩节前后，由于估值飙升引发了沽空呼声，但各大科技公司的股价过去一年依旧稳步上扬创下新高，Nvidia 和 Roblox 的股价更是狂飙突进，脱颖而出。
+
+
+由于芯片需求旺盛及进军元宇宙消息刺激，芯片制造商 Nvidia 的股价飙升了 148%，使其成为纳斯达克100指数中表现最好的公司。Applied Materials 和 AMD 是另外两大赢家，股价均上涨了大约 80%，表现优于很多大型科技股。尽管零部件短缺严重影响了汽车行业，但是特斯拉的股价在销售持续增长的推动下翻了一番，这家电动汽车制造商的市值飙升至 1 万亿美元。电动汽车的热度在 Rivian Automotive 身上表现得更加明显，上市后不到两周内市值翻了一番。Lucid Group 是另一个热门名字。Roblox 自 3 月上市至 Facebook 更名，市值翻了两番。Facebook 更名为 Meta Platforms 表明元宇宙是科技领域的下一个大事件。Roundhill Ball Metaverse ETF 证明了该领域的资金涌入，它是一个专注于该主题的交易所交易基金，在 11 月 17 日管理的资产超过 5 亿美元，在短短两周内翻了一番。从数字世界到数字货币：比特币短暂回升至 60,000 美元，小型加密货币的反弹提振了一系列相关股票，如 Marathon Digital Holdings、Riot Blockchain 和 MicroStrategy。Marathon Digital 股价上涨了十倍。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">减少农业浪费以减少排放，从监控苹果开始</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69720">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>农业对温室气体排放的贡献超过全世界所有汽车、飞机、火车和卡车的总和。种植更多食物的压力导致亚马逊森林被砍伐、河流干涸以及对化石燃料肥料的需求增加。任何减少浪费和提高现有农业用地生产力的措施都是气候问题的重大胜利。Strella Biotechnology 首席执行官兼创始人、24 岁的 Katherine Sizov 想要一次解决一种水果的浪费。
+
+
+Sizov 偶然发现一个网站，描述食物浪费对气候的影响——根据致力于减少食物浪费的非营利组织 ReFed 的分析，占到了美国温室气体排放量的4%。专家表示，随着全球人口的增长，问题只会愈发严重。据联合国预计，到 2050 年，全球将多出 20 亿张嘴需要养活，三十年内增长 25% 以上。随着中国和印度等国家更富裕，人口正逐渐改变饮食习惯：更多的肉类、更多的鸡蛋——饲养所有这些动物以及清理土地以种植更多食物会造成更大的碳足迹。普林斯顿大学能源和环境政策研究中心的高级研究学者 Tim Searchinger 表示：“如果将粮食损失和浪费减少50%，可节省大量生产排放，可以避免大量森林砍伐。”Searchinger 解释说，树木可吸收大量的二氧化碳，考虑到一英亩的农田可以是一英亩森林这一事实之后，食物的碳足迹就更多了。
+
+
+消除浪费恰好也能帮助农民和杂货店赚更多的钱，因为食物提供给消费者的效率越高，完成销售的人最终获得的现金就越多。这就是 Strella 传感器的用武之地。它们监测乙烯，它是水果和蔬菜成熟的关键气体。苹果在储藏室里变得更甜，在这个过程中它们加速产生乙烯。一旦熟透了，气体就会稳定下来，告诉 Strella 的监视器已准备好被送往超市。等待太久，苹果会变成褐色或变粉。如果生产商幸运的话，他们可尝试将这些苹果变成果汁或者果酱以实现收支平衡。如果不走运的话，熟过头的苹果最终会进入堆肥或者垃圾填埋场。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">罕见爱因斯坦手稿在巴黎拍卖</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69719">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>爱因斯坦通常会扔掉他颠覆性工作的手稿。感谢他的同事和友人，一份工作手稿奇迹般的保存至今，将于周二在巴黎拍卖，预计拍卖价格在 200 万到 300 万欧元之间。代表 Aguttes 拍卖行的佳士得称，这份 54 页的工作手稿由爱因斯坦及其友人、瑞士工程师 Michele Besso 合作手写，书写年代在 1913  到 1914 年之间，记录了广义相对论的准备工作，其中 26 页来自爱因斯坦，25 页来自 Besso，另外 3 页含有两人的条目。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Uber 在加拿大出售大麻</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69718">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Uber 将大麻加入到其 Uber Eats 应用可选购的商品清单之中，但仅限于加拿大安大略省的客户。这是 Uber 首次向客户直接提供大麻购买，而它在美国正推动更宽松的大麻购买法规。大麻交易是通过加拿大多伦多公司 Tokyo Smoke 处理的，该公司在安大略省有 50 多家药房。应用将会验证买家的年龄，而在客户抵达药房时工作人员会检查其 ID。Uber 表示将大麻纳入其应用有助于减少毒品非法市场，有助于减少公路上受大麻影响的司机数量，能改善公路交通安全。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">盖茨的年度书单</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69717">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>比尔盖茨说，他小时候痴迷于科幻小说，曾和 Paul Allen 花了很多时间讨论阿西莫夫的《基地》系列，阅读了 Edgar Rice Burroughs 和 Robert Heinlein 写的每一本科幻小说，《The Moon Is a Harsh Mistress》是最爱。长大后他开始更多阅读非虚构类作品。但最近他又开始被小时候所痴迷的小说吸引了。盖茨今年初和妻子梅琳达离婚了，他公布的年度书单包括：Jeff Hawkins 的《A Thousand Brains: A New Theory of Intelligence》，Walter Isaacson 的《The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race》，Kazuo Ishiguro 的科幻小说《Klara and the Sun》，Maggie O’Farrell 的《Hamnet》，以及 Andy Weir 的《Project Hail Mary》。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">加密货币挖矿禁令掀起海外挖矿潮</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69716">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>中国今年五月对加密货币挖矿的禁令导致比特币矿商大批外流，并引发了一场接收这些矿机的全球竞赛。这数百万台矿机笨重、耗电，矿商用它们来解决复杂谜题然后赚取比特币。根据《金融时报》收集到的数据，颁布禁令后的几个月里，全球 14 家最大型加密货币挖矿公司将逾两百万台矿机转移出了中国。其中大部分被匆忙转移至美国、加拿大、哈萨克斯坦和俄罗斯。在美上市的挖矿巨头 Bit Digital 雇佣了一家国际物流公司在中国转移矿机，目前仍在等待一批大约 1000 台矿机在纽约港口放行。Bit Digital 首席战略官 Sam Tabar 称他们从 2020 年 3 月就开始了迁移，禁令颁布时在中国境内还有 2 万台矿机，它放弃了已到使用年限的 372 台矿机。数据显示，北美十大加密货币挖矿公司中有 8 家在禁令之后扩大了规模。加拿大的 Hut8 从中国公司 MicroBT 获得了 2.4 万台矿机。禁令导致比特大陆的蚂蚁矿机 S19 价格暴跌  41.7%，它在 8 月向拉斯维加斯的 Marathon Digital Holdings 出售了 3 万台 S19，向马里兰的 Terawulf bought 出售了另外 3 万台矿机。哈萨克斯坦成为另一个挖矿中心，Bitfufu 向该国的矿场转移了 8 万台矿机，BIT Mining 在 8 月向哈转移了 7,849 台矿机。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">浏览器新隐私保护工具 SugarCoat</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69715">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>加州圣迭戈的计算机科学家和 Brave Software 合作开发了浏览器新隐私保护工具 SugarCoat（PDF），源代码已发布在 GitHub 上。SugarCoat 针对的是收集用户隐私数据的脚本，网站使用脚本跟踪用户的活动，但浏览器如果禁用脚本网站的功能可能会被破坏，SugarCoat  通过使用相同属性但移除隐私收集功能的脚本解决这一问题。它设计能整合到现有的注重隐私保护的浏览器和扩展中，如 Brave、Firefox 和 Tor，以及 uBlock Origin。它目前正被整合到 Brave 中。研究人员在上周举行的 ACM Conference on Computer and Communications Security (CCS) 会议上介绍了他们的工作。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Django 4.0 RC1 发布</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69714">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Web 开发框架 Django 释出了 4.0 的首个预发布版本，正式版本计划在 12 月 6 日左右发布，如有延迟会通过开发者邮件列表通知。Django 4.0 的主要变化包括：支持 Python 3.8、3.9 和 3.10，Django 3.2.x 系列是支持 Python 3.6 和  3.7 的最后版本；默认时区实现 zoneinfo；新密码哈希函数 scrypt，但因为需要更多内存和 OpenSSL 1.1+ 没有默认启用；Redis 缓存后端；等等。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-11-22">2021-11-22</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">On User Tracking and Industry Standards on Privacy</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(7 min)</span>
+                    <span>Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:
+There was a line that really stood out to me: 
+The idea that it’s alright to do whatever unethical thing is currently the 
+…
+The post On User Tracking and Industry Standards on Privacy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">CSS “decorations”</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/css-decorations/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:
+.mw-collapsible-leftside-toggle .mw-collapsible-toggle {
+  /* @noflip */
+  float: left;
+  /* @noflip */
+  text-align: left;
+}
+What’s that @noflip business? That’s …
+The post CSS “decorations” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Responsive Layouts, Fewer Media Queries</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/responsive-layouts-fewer-media-queries/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(15 min)</span>
+                    <span>We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …
+The post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">MyerSplash – 跨平台 Unsplash 壁纸应用</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/myersplash-wallpaper-2/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>MyerSplash 是一款免费的跨平台 Unsplash 壁纸应用，适用于 Windows、macOS、iOS 和 Android，可以在里面浏览来自 Unsplash 的免费、无版权图片，并设置为</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">密码学家不满使用 Crypto 的方式</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69713">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>让密码学家感到不安的是，“crypto”这个词现在有时候指的是加密货币。词义的变化让密码学家苦恼不已，过去几年他们一直在社交媒体上不断重复“Crypto 指的是密码学”。一些 T恤和卫衣上也印上了这句口号及其变体；还有一个专门澄清该问题的网站。科罗拉多大学法学院 Silicon Flatirons Center 中心执行主任 Amie Stepanovich 创造了密码学支持 T 恤，这些密码学支持 T 恤成了各大会议的热门话题。Stepanovich 表示：“几十年来，‘Crypto’一直被用作与密码学相关事物的简写和前缀。事实上，在加密货币（cryptocurrency）这个术语中，前缀‘crypto’指的是密码学……”
+
+
+
+技术专业人员之间仍然存在内讧。新闻自由基金会的 Parker Higgins 多年来一直秉持密码学激进主义，指出密码学人天然执着于精确——毕竟，设计并破解密码就是这样一种努力——如果你得到的东西“有一点不对劲，它就可以搞砸整件事……”Higgins 表示：“强大的密码学是隐私和安全的基石，几十年来，它一直受到政府、执法部门和‘各种不良行为者’的攻击。”
+
+对于它的捍卫者来说，术语上的混淆带来另一个挑战。Stepanovich 承认反对这一趋势颇具挑战，但是表示历史站在她一边。“对加密的研究一直存在。最出名的密码被称为凯撒密码，指的是凯撒大帝（Julius Caesar）。这并不新鲜。”另一方面，加密货币是一个相对较新的发展，她不准备承认“一个在政府监管之下可能幸存也可能无法幸存下来的概念。”</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">可视化显示俄罗斯反卫星测试产生的碎片云</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69712">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>卫星追踪器一直在追踪俄罗斯上周一摧毁其卫星时产生了多少危险的碎片——它们描绘的画面看起来很黯淡。对俄罗斯反卫星（ASAT）测试的多次可视化模拟显示，广泛存在的碎片云可能在多年内威胁到轨道上的其他物体。
+
+要想完全掌握情况有多糟可能需要数周甚至数个月的时间，卫星追踪器创建的 ASAT 测试的早期可视化显示，卫星解体之后留下了大量太空碎片。这些碎片看起来像是在轨道上的一条由小点构成的长蛇，延伸和移动的方向与 Kosmos 1408 过去绕地球运转的方向大致相同。这些可视化显示：这条由碎片组成的蛇不会很快消失。美国私营太空追踪公司 LeoLabs 在一篇博文中写道：“接下来几年至几十年里，Cosmos 1408 的碎片将给（近地轨道上的）大多数卫星带来潜在的碰撞风险。”
+
+
+
+由欧盟空间监视和跟踪（SST）网络和空间软件公司 AGI 创建的两个可视化揭示了俄罗斯导弹拦截 Kosmos 1408 时，在撞击第一时刻可能发生的情况。它们都显示碎片云是如何瞬间增长并在整个太空中扩散的。AGI 的模拟还显示了碎片云与国际空间站相交时的距离，证实 NASA 的担忧及让宇航员避难的决定的正确性。
+
+南安普敦大学专门研究太空碎片的工程学教授 Hugh Lewis 创建的另一个可视化显示了来自 Kosmos 1408 的碎片在太空中扩散的范围。Lewis 解释说，当俄罗斯导弹击中卫星时，产生的每个碎片都会受到一点撞击，将它们发送到更高和更低的高度。每片碎片都以不同的速度移动，具体取决于轨道的高度。Lewis 表示，随着时间的推移，碎片云会继续变形。较低轨道上的碎片将更快地落向地球从而离开轨道，较高轨道上的碎片将在太空中停留更长的时间。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">NASA 设想在月球上建造核反应堆</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69711">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>NASA 和核研究实验室上周五公布了一项关于裂变表面动力系统的提案请求。NASA 正与美国能源部爱达荷国家实验室合作，在本十年末为登月任务建立一个独立于太阳的供电系统。如果反应堆能成功支持人类在月球上的驻扎，下一个目标将是火星。NASA 表示，无论月球或火星上的环境条件如何，裂变表面能量都可以提供持续、充足的能量。反应堆将在地球上建成，然后送往月球。提议中的裂变表面动力系统应包含一个铀燃料反应堆堆芯、一个将核能转化为可用能源的系统、一个保持反应堆冷却的热管理系统以及一个可以在月球环境中连续 10 年提供不少于 40 千瓦持续供电的配电系统。其他一些要求包括：反应堆能在没有人类帮助的情况下自行开启和关闭，能在月球着陆器的甲板上工作，可以从着陆器上转移到移动系统上运行，然后被运输到月球上的另一个地点运行。当从地球发射到月球时，它应该被安置在一个直径 12 英尺（4 米）、长 18 英尺（6米）的圆柱体中。它的重量不应超过 13,200 磅（6,000 公斤）。提案请求针对的是初始系统设计，必须在 2 月 19 日前提交。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">聚变能能否成为更安全的核能替代？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69710">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>将核聚变作为能源的主要优点是，它的物理基础排除了燃料熔毁（如美国三哩岛和日本福岛第一核电站）和反应失控（如切尔诺贝利核电站）的可能性。在发生事故时，核聚变发电厂系统可能泄露的放射性物质的量远低于裂变反应堆。因此聚变系统自我破坏的能力要小得多，损坏后果的危险性也要小得多。当前聚变系统的概念可能不需要超出站点边界的疏散计划。聚变的另一个优点是，无论是燃料还是它的产品，都不会像裂变那样产生寿命很长的放射性废物，这意味着聚变不需要长期的地质封存。
+
+
+聚变什么时候以及如何才能有助于减缓气候变化？私营企业急于发展核聚变，很多公司都表示能在 2030 年代初将商业核聚变电力输入美国电网。该领域的私人投资总额令人印象深刻，约为 20 亿美元。在审视了公共和私人资助的聚变研究的状况后，美国国家科学院建议美国着手一项计划，到 2028 年，将多种初步设计变为聚变试点电站，目标是在 2035 至 2040 年间，让试点电站为美国电网提供适当的净电力，利用试点电站研究并开发聚变技术，到 2050 年运行首个商业聚变电站。英国最近宣布了到 2040 年建造聚变电站原型的计划。中国计划在2030 年代开始运行聚变工程试验反应堆，欧盟预计在 2050 年代运行示范聚变发电厂。我们的目光必须超越2035 年的时间框架，看看聚变如何做出重大贡献，以及它如何补充可再生能源。在世界市场上提供低碳电力，包括在本世纪后期，对于遏制气候变化非常重要。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">将太空垃圾转化为火箭燃料</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69709">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>南澳公司 Neumann Space 开发了一种“太空电力推进系统”可用于近地轨道以扩展航天器的任务、移动卫星或使其脱离轨道。现在 Neumann 正与其他三家公司合作制定一项计划，将太空垃圾转化为推进系统的燃料。另一家美国公司 Cislunar 正开发一家太空铸造厂，将碎片熔化成金属棒。Neumann Space 的推进系统可使用这些金属棒作为燃料——系统使金属电离，然后产生推力推动物体绕轨道运动。首席执行官 Herve Astier表 示，他认为这是未来的计划，Neumann 要成为太空融化金属供应链的一部分，不会“像看起来那么容易”。他表示：“但他们得到了 NASA 的资助，所以我们建造了一个原型并且它能工作……”Astier 表示这仍然是未来的事，不过他现在可以看到这是可能的。他表示：“很多人把钱扔进碎片里。它们通常会落进大气层并燃烧掉。但如果它在那里，而你能捕获它并重新使用它，从商业角度来说是有意义的，因为你不用把它运到那里去。”“这就像在太空中开发一个加油站。”</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">为什么大学放弃远程教育</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69708">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>五大湖学院协会名誉主席 Richard A. Detweiler 在 Salon 上发表文章：“尽管存在德尔塔变种风险，今年秋天几乎所有大学都重新采用面对面授课的方式……”“事实证明，学生对远程学习的态度最多只能说是好坏参半，部分情况下学生起诉学校要求退还学费。但是推动向面对面教育回归的不仅仅是学生的意见。”
+
+
+事实上学生在面对面学习的表现比在线学习好得多。最近的研究表明，远程学习的影响是负面的。正如布鲁金斯学会的 Stephanie Riegg 报告的，“参与在线课程的本科学生几乎所有的考核指标——包括数学、阅读、写作和英语——上的表现都比他们在校园上课的同学更差……”
+
+
+对人类学习的研究不断发现，学习的社会背景至关重要，有效人际关系中的情感在学习中扮演了非常重要的角色。想一想对你有很大影响的老师——他让你兴奋、有兴趣、好奇并有动力去学习。这位老师是一位冷静的事实传播者，还是一位对这个学科充满热情并兴奋地谈论它的人……？研究告诉我们，最有效的教师——那些最成功地让学生学习的教师——是那些在关怀和信任的环境中与学生建立情感关系的人。曾经的教师、现在的神经科学家 Mary Helen Immordino-Yang 告诉我们，情绪是学习发生的必要条件：“情绪是学习开始的地方，或者通常情况下，它是结束的地方。简而言之，从神经生物学的角度说，你不可能深入思考自己不关心的事情……即使在传统上被认为没有感情的学科，比如物理、工程或数学，深入理解也取决于在概念之间建立情感联系……”
+
+
+今天我们受益于广泛的研究，这些研究记录了这些社会教育实践的短期和长期重要性。基于广泛使用的全国学生参与调查（NSSE）的研究一致发现，与教师和导师建立有意义的课外关系不仅可以促进学习，还可以影响毕业和毕业后的就业。还值得注意的是，盖洛普-普渡大学的民意调查肯定了人们相信大学中的人际关系很重要的观点。一项针对 30,000 名毕业生的研究报告称，他们相信“学生在大学里做什么以及他们的经历……与生活和职业有着深刻的关系。”具体来说，“如果有一位教授关心作为一个人的毕业生，让他们对学习充满热情，并鼓励他们追求自己的梦想，那么他们投入工作的几率会增加一倍以上，他们获得幸福的几率也会增加一倍以上。”
+
+既然实证研究记录了有意义的人际关系对大学学习和毕业生成年生活的强大影响，而且人们认为这很重要，我们敢用技术取代它吗？
+
+
+批评者认为：作者的自身立场使得的文章的论点令人怀疑，论据也是拼凑的。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">斑马是白底黑条纹还是黑底白条纹？</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69707">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>每一只斑马身上的条纹都是独一无二的。加州戴维斯的行为和演化生态学家 Tim Caro 称尽管有不同的模式和配色，斑马的皮肤总是同一种颜色：黑色。但这仍然没有回答它们的皮毛是黑底带着白色条纹还是白底带着黑色条纹的问题。
+
+
+为此我们必须研究斑马的黑色素细胞，或者为皮毛产生色素的细胞。Caro 表示，虽然斑马的皮肤是黑色的，但决定它们皮毛颜色的是不同的发育过程，就像浅肤色的人可以有黑色头发一样。斑马的浅色毛发实际上比深色毛发多——它们的腹部通常是浅色——所以看起来斑马是白色的，带有黑色条纹。
+
+
+但事实并非如此。根据 2005 年发表在《Journal of Investigative Dermatology》上的一篇评论，每一根毛发——无论是浅色还是深色——都是从一个充满黑色素细胞的毛囊中生长出来的。这些细胞产生决定毛发和皮肤颜色的色素。这种色素被称为黑色素；据之前的报道，大量黑色素会导致颜色较深，如深棕色或黑色，而黑色素较少会导致颜色较浅，如淡褐色或金色。斑马的黑色皮毛充满黑色素，但白色皮毛中没有黑色素，本质上是因为构成白毛条纹的毛囊“关闭”了黑色素细胞，这意味着它们不会产生色素。
+
+
+Caro 表示，黑色素细胞产生黑色素的过程“在白色毛发的发育过程中被阻止了，但是在黑色毛发的发育过程中则没有。”换句话说，对于斑马来说，这种动物的默认状态是产生黑色毛发，所以它们的毛发是黑底带有白色条纹……据 Caro 和他的同事的研究，这种独特的图案可防止苍蝇叮咬。一项 2020 年发表在《Proceedings of the Royal Society B》期刊上的研究发现，非洲马蝇落在身上有条纹或者格子图案的马身上的频率低于落在纯色马身上的频率。这些苍蝇可能携带对斑马致命的疾病。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Facebook 要求洛杉矶警方停止使用虚假账户监视用户</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69706">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Facebook 致函洛杉矶警察局（LAPD），要求其停止设置虚假个人资料以对用户进行监控。此举是在《卫报》的报道之后做出的，《卫报》透露美国警察部门一直在与一家科技公司合作，分析用户数据以协助破案。Facebook明确禁止创建和使用虚假帐户。它说目的是“创造一个安全的环境，让人们可以相互信任并可以追究彼此的责任。”Facebook 副总裁兼民权副总法律顾问 Roy Austin 在一封信中介绍了 Facebook 的政策，他写道：“LAPD 的指导文件不仅将 Facebook 作为明确的例子，建议警官建立虚假社交媒体账户，文件还表明，LAPD 的政策只是允许警官为‘在线调查活动’创建虚假账户。虽然此类政策的合法性可能取决于 LAPD，但是警官在我们的服务上创建账户的时候必须遵守 Facebook 的政策。警察局应该停止在 Facebook上 所有涉及使用虚假账户、冒充他人和出于监视目收集数据的行为。”</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">亚马逊说客扼杀美国消费者隐私保护</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69705">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>最近几年亚马逊在美国 25 个州超过 36 个法案中扼杀或破坏了隐私保护法规，这家电子商务巨头积累了数百万美国消费者的个人数据，这是一个价值连城的宝藏。
+
+
+在路透社审查的机密文件中，亚马逊高管和员工详细地描述了游说上的胜利。在弗吉尼亚州，该公司四年内将政治捐款增加十倍，今年说服立法者通过了亚马逊自己起草的、对行业友好的隐私法案。在加利福尼亚州，该公司扼杀了对该行业的一项提议，要求限制该行业收集和共享由技术设备收集的消费者录音。一份内部文件显示，在公司总部所在的华盛顿州，亚马逊赢得了对一项生物识别数据（例如录音和面部扫描）监管法案的多项豁免和修正，结果是 2017 年的法律对该公司“即使有影响也甚微”。
+
+
+这场旨在扼杀隐私保护的低调运动的策划者是 Jay Carney，他曾在拜登担任副总统期间担任其通讯总监，担任过奥巴马总统的新闻秘书。据亚马逊文件及两名了解近期人员配备情况的前雇员透露，Carney 于 2015 年被亚马逊聘用，向创始人 Jeff Bezos 汇报工作，他建立了一个强大的游说和公共政策部门，员工人数从 24 名增加到近 250 名。一份 2018 年审查高管上一年目标的文件将隐私监管列为 Carney 的首要目标。一个目标：“改变或阻止美国和欧盟的监管/立法阻碍基于 Alexa 的设备的增长，”Alexa 指的是亚马逊流行的语音助手技术。任务包括打破对人工智能和生物识别技术的限制，以及阻止要求企业披露所保留的消费者数据的努力。
+
+
+文件将 Carney 列为目标的“主要所有者”，并庆祝在“超过 20 个州”杀死或修改隐私法案。这个故事依据的是路透社对数百份亚马逊内部文件的审查，以及对 70 多位参与亚马逊目标立法的说客、倡导者、政策制定者及其工作人员的采访，还有对 10 位前亚马逊公共政策和法律雇员的采访。这是系列报道的第三部分，该系列报道揭示了该公司是如何采取损害小企业或者将自身利益至于消费者利益之上的商业行为。之前的文章展示了亚马逊是如何规避旨在保护印度零售商的电子商务法规，以及它如何复制产品并操纵搜索结果以在其印度平台上推广自有品牌而不是其他供应商的品牌。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-11-21">2021-11-21</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -258,6 +750,37 @@
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://kaopubear.top/blog">思考问题的熊</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">OncoSearch 肿瘤研究必备（自用）聚合搜索工具</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://kaopubear.top/blog/oncosearch-zhong-liu-yan-jiu-bi-bei-zi-yong-ju-he-sou-suo-gong-ju/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>如果你目前的学习或者工作和「肿瘤研究」相关，面对日新月异的研究进展，想必总会在实际工作开会或者看文献的时候发现各种奇奇怪怪的基因和名词。问同事吧，有点不好意思，鼓起勇气问了很可能就也记不住。（好吧以上都是我的现状）。
+基于以上原因，借助 Google CSE 的羊毛，我就整了这么一个叫做 OncoSearch 的小工具。开发成本可以说是没有，但着实解决了自己现在非常棘手的问题，于是也推荐给可能需要的你。
+OncoSearch 利用 Google 搜索引擎 API 整合了肿瘤相关的接近30个常见网站对你的输入内容进行搜索。你可以尝试搜索基因名如 EGFR，突变位点如 BRAF V600E 或者是任何和肿瘤相关内容。
+
+OncoSearch 不生产知识，只是Google搜索结果聚合的搬运工，所以这个工具使用的唯一前提就是能正常的打开Google搜索。根据自己的日常使用总结出来的高频需求，目前的OncoSearch和直接在搜索引擎里查询想必有如下几个特点。
+接近30个肿瘤医学相关的网站（还会持续增加欢迎推荐），基本覆盖了肿瘤研究的方方面面，例如基因功能、基因表达、突变信息、药物信息和临床实验信息以及文献等。
+我给最高频的一些关键网站添加了标签，方便一眼看到搜索结果的主要类型是变异相关、药物相关、临床实验相关还是常用综合性网站。
+省去了很多每次搜索肉眼过滤的时间，如果按照相关性排序，OncoSearch 往往在第一页我都能找到自己想要的结果。
+所有标签都被做成单独的tab可以进行过滤，比如搜索后按照时间排序，再点开文献标签页，你甚至也能一并大概了解这个东西目前的最新研究进展。
+可扩展性，OncoSearch本身就是一个简单的网页，但是也因此有了很多可扩展性。如果今后还有新的易于实现的想法，我也都可以在这里测试上线。
+效果如下图所示
+
+
+
+OncoSeach 已经推荐给了身边的一些朋友同事，大家都觉得还不错。因此如果你也在这个领域（且能用Google），我非常认真地建议你把它作为一个常用搜索引擎收藏并用起来。
+嗯，真的挺香。
+访问地址 https://kaopubear.top/oncosearch
+本文作者：思考问题的熊
+版权声明：本博客所有文章除特别声明外，均采用 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (CC BY-NC-ND 4.0) 进行许可。
+熊言熊语会员通讯「4321X」是一个免费的订阅服务。
+点击这里进行订阅。</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">OncoSearch 肿瘤研究必备（自用）聚合搜索工具</summary>
@@ -7198,28 +7721,6 @@ The post The Semantics of Jamstack appeared first on CSS-Tricks. You can support
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">如何为文字添加拼音，方便小孩学习识字？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/how-to-add-pinyin-to-text/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>来自问题频道，@montaus 同学的问题：想把散文添加拼音，方便小孩学习识字( https://meta.appinn.net/t/topic/26739 ) 并提供了两个思路： Android 电</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">普通闹钟 – 支持「智能跳过节假日」的闹钟[iPhone]</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/putongnaozhong-iphone/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>普通闹钟是一款普通闹钟，支持智能跳过节假日，让你在节假日不受闹钟打扰，在一些变为工作日的周末，享受闹钟服务。@Appinn iPhone 用户大概在每次节假日后错过闹钟，都会想找一款闹钟应用。 普通闹</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
       <li class="source">
@@ -7237,331 +7738,13 @@ The post The Semantics of Jamstack appeared first on CSS-Tricks. You can support
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">特斯拉在上海建成研发中心和数据中心</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69370">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>特斯拉周一表示，特斯拉上海研发创新中心和特斯拉上海超级工厂数据中心均建设落成，并于近期投入使用；其中，上海研发创新中心是特斯拉首个设立在海外、以整车开发为基础的研发中心。特斯拉新闻稿并称，按照《上海市数据中心建设导则（2021版）》相关要求，特斯拉已经完成数据中心相关审批备案要求，并建成特斯拉上海超级工厂数据中心，用于存储工厂生产等中国运营数据。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">英特尔的未来在于芯片代工业务</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69369">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>过去一年半的新冠疫情让每个人都转向他们的屏幕，对设备（手机和笔记本电脑）和云服务（Netflix 和 Zoom）的需求激增，这一切需要一系列先进半导体提供支持。制造商竞相从他们的晶圆厂中“压榨”出更多的芯片，但在新冠疫情出现之前，很多晶圆厂已接近极限。尽管如此，英特尔及其竞争对手没有急于建造新的晶圆厂——晶圆厂的成本高得惊人，如果没有持续的需求，半导体公司不愿意建造更多晶圆厂。但是现在，全球新冠疫情持续扰乱供应链，芯片制造商确定当前的需求激增不会消退。英特尔投资 200 亿美元在亚利桑那州钱德勒建立两家新芯片工厂只是一个例子。三星在 5 月宣布它将在未来十年内斥资 1510 亿美元提高半导体产能。台积电在 4 月也发表了类似的声明，承诺仅在未来三年内将投资 1000 亿美元。
-
-
-保持制造最先进芯片的领先优势需要大量投资，这已将半导体竞争者的数量从2001 年的 20 多个减少到今天的只剩 2 个。Georgetown 大学安全和新兴技术中心的研究分析师 Will Hunt 表示：“由于涉及巨大的资本成本，领先优势的空间很小。在芯片上进行蚀刻的尺寸越来越小，所需设备的价格推动了资金成本的上升。几年前，业界开始用极紫外光刻（EUV）缩小晶体管尺寸。EUV 机器是物理学和工程学上的奇迹，一台工具的成本高达 1.2 亿美元。为了不掉队，企业需要未来几年内购买十几台甚至更多这样的设备。为了使投资有意义，半导体制造商必须生产和销售大量芯片。哈佛商学院管理学教授 Willy Shih 表示：“当你有大量订单时，你就可以进行良品率试验，提高良品率，而良品率就是一切，因为这就是你覆盖成本的方式。” 这就是为什么 Pat Gelsinger 领导的英特尔正在做一些该公司历来不愿意做的事情的原因。Gelsinger 在亚利桑那州的奠基仪式上表示：“我们现在是一家晶圆代工厂。”他表示，未来几年英特尔将“向整个社区打开我们晶圆厂的大门，以满足客户的代工需求——其中有很多美国公司今天还在完全依赖国外的供应来源。”
-
-
-但成为领先的晶圆代工厂不仅仅是建造晶圆厂，然后告诉客户你可以帮他们制造芯片这么简单。Gelsinger 将不得不改变英特尔的文化，并在某种程度上改变其技术，两者都根深蒂固。Semiconductor Advisors 公司总裁 Robert Maire 表示：“他必须让巨轮调头。”未来几年英特尔要同时应对多项挑战。随着新的商业模式的推出，该公司需要加大研发力度，同时在现金流方面保持谨慎。英特尔已经落后，以至于它现在计划将其最先进芯片的生产——以及随之而来的部分利润——外包给台积电。这次过渡将需要高度关注。Shih 表示：“代工业务可能会让他们分心。”他补充表示，Apple、Google、Amazon 和其他一些公司正在从英特尔的标准化芯片转向自己的定制芯片。如果英特尔不能与时俱进，就有可能被甩在后面。Shih 表示：“将会有很多挑战，他们将会面临考验……这会很困难。”</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">科学家制造出比钢刀锋利三倍的木刀</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69368">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>刀具通常用钢或者陶瓷制成，但是 10 月 20 日《Matter》期刊发表的一篇研究论文中，材料学家描述了最新发现：一把比不锈钢餐刀锋利三倍的“硬化木刀”。马里兰大学材料科学家、论文第一作者 Teng Li 介绍，它可以“轻松”切开一块中等熟度的牛排，可以重复使用多次。Li 的团队找到了一种方法，该方法分为两步，将刀片的硬度提高了 23 倍。这是通过确保木材保留更高水平的纤维素来实现的。
-
-
-通常木材仅包含约 50% 的纤维素，它提供了部分结构完整性，其余部分由较弱的分子构成。Li 的方法能去除较弱的成分，但保留纤维素。将木材涂上矿物油，帮助它在使用和洗涤过程中保持锋利度。他们的方法能防止缺陷渗入。他在一份声明中表示：“材料的强度对空隙、管道或者凹坑之类缺陷的大小和密度非常敏感。”该团队并没有止步于硬化木刀。他们还开发了木钉，这些钉子和传统钢钉一样锋利。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">美国塑料工业产生的污染到 2030 年将超过煤炭</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69367">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>塑料污染通常会让人联想到风中飘扬的食品袋或者海鸟胃中的塑料颗粒。但是很快，塑料污染可能会有另一种含义，一份新报告预测，到这个十年末，美国塑料行业的温室气体排放将超过煤炭。
-
-
-曾任 EPA 区域主管的 Beyond Plastics 总裁 Judith Enck 在报告中表示：“不像堵塞下水道和乱扔的塑料垃圾，塑料行业对气候的破坏影响不那么显眼，与之相关的公众监督却很少，政府问责甚至更少。”
-
-
-塑料是一个经常被忽视的巨大碳污染来源。Bennington College 和非营利性组织 Beyond Plastics 的报告显示，美国的塑料生产至少会产生 2.32 亿公吨的温室气体。如果目前计划或在建的 42 家工厂投产，预计到 2025 年塑料生产的排放还将再增加 5500 万吨。
-
-
-去年美国煤电产生了 7.86 亿公吨的二氧化碳，随着天然气、太阳能和风能的竞争，这一数字预计会下降。2019 年至 2020 年间，煤炭造成的碳污染减少了1.66 亿吨。随着煤炭排放量的持续下降和塑料行业排放量的不断上涨，两条线不可避免地会出现交叉。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">天文学家观测到超新星爆炸全过程</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69365">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>一颗距离 6000 万光年的恒星去年发生了超新星爆炸，天文学家设法使用地面和太空望远镜捕捉到了爆炸的所有阶段，获得了一个前所未有的数据集，包含了在爆炸之前、期间和之后收集到的独立观察结果。它提供了非常罕见的、超新星早期毁灭阶段的多面视图。由此产生的数据能极大地提高我们对恒星变成超新星时所涉及过程的理解，可能会促使早期预警系统的出现，天文学家可以利用预警系统预测此类事件的发生时间。
-
-
-调查负责人、加州大学圣克鲁兹分校的天文学家 Ryan Foley 在新闻稿中解释称：“我们过去常常谈论超新星，就像是犯罪现场调查员一样——事后出现，试图弄清楚发生了什么事情……这次是完全不同的状况，因为我们真的知道发生了什么，实际上实时看到了死亡的过程。”
-
-
-当然这颗超新星发出的光花了 6000 万年才到达地球，所以它并不真的是“实时”发生的事情，但你应该能明白 Foley 的意思……对靠近该恒星的星周物质的观察是通过哈勃望远镜在爆炸发生后的几个小时内完成的。研究论文将发表在《Royal Astronomical Society》期刊上，论文主要作者 Samapor Tinyanont 表示：“我们很少能够看到这种非常接近的星周物质，因为它们只能在很短的时间内看到，我们通常至少要在爆炸后几天才开始观察超新星。”从爆炸开始前几天到爆炸结束后几周，TESS 设法每 30 分钟捕捉到一张这个正在演化的系统的图像。在爆炸被首次探测到的几个小时之内，哈勃望远镜就加入了这项工作。可追溯到 1990 年代的档案数据也被找出来用于分析，从而对一颗正在消失的恒星展开了一场时间跨度为数十年的、前所未有的调查……
-
-
-在新闻稿中，研究人员将 SN 2020fqv 称为“超新星的罗塞塔石碑”，因为新的观测可以将隐藏的或知之甚少的信号转化为有意义的数据。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">FBI 为何获得勒索软件密钥后秘而不宣 19天？</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69364">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>据现任和前任美国官员透露，在夏天的一次勒索软件攻击中，数百家企业和机构的计算机被锁定。尽管 FBI 已秘密获得了能帮助解锁这些计算机的密钥，他们还是拖延了近三周，没有及时伸出援手。
-
-
-密钥是通过访问发动袭击的俄罗斯犯罪团伙的服务器获得的。立即使用密钥能帮助受害者——包括学校和医院——避免分析师估计的大约数百万美元的恢复成本。但是在其他机构的同意下，FBI 没有这样做，部分原因是它计划开展一项行动打击这个被称为 REvil 的黑客组织，它不想打草惊蛇。而政府评估认为危害并不像最初担心的那么严重。
-
-
-现任和前任官员表示，计划中的打击并未发生，因为美国政府还未出手，REvil 平台就在 7 月中旬下线，黑客在 FBI 有机会执行其计划之前就消失了……FBI 最终在 7 月 21 日同软件被感染勒索软件的 IT 公司 Kaseya 分享了该密钥——在攻击发生 19 天之后。Kaseya 要求新西兰安全公司 Emsisoft 创建一个新的解密工具，并在第二天公布了该工具。但对于部分受害者已为时过晚……
-
-
-FBI 局长 Christopher A. Wray 上周二在国会作证时表示，延误的部分原因是因为与盟友及其他机构的合作。他表示：“我们是作为一个整体做出决定的，而不是单方面做出决定。”他还指出他必须限制自己的言论，因为调查还在进行之中……他还表示“测试和验证”解密密钥导致了延迟。他在参议院国土安全委员会听证会上表示，“开发一种可供受害者使用的工具需要很多工程工作。”
-
-
-然而，Emsisoft 能迅速采取行动。Emsisoft 首席技术官 Fabian Wosar 表示，他们从 FBI 提供给 Kaseya 的内容中提取出密钥，创建了新的解密程序并对其进行了测试，这一切只花了 10 分钟。因为该公司熟悉 REvil 的勒索软件。Wosar 表示：“如果我们需要从头开始的话，大概需要花四个小时。”</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">美国空军宣布在阿拉斯加建微型核反应堆计划</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69363">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>美国空军上周宣布选择阿拉斯加的 Eielson 空军基地作为首个微型核反应堆试验项目的地点。
-
-
-美国军方和能源部一起研究微型核反应堆的设计，将其作为一种可能的解决方案，满足不断增长的电力需求（包括战场上的单位）、帮助削减成本、通过减少对化石燃料的依赖提升整体运营效率。该基地位于阿拉斯加内陆深处，靠近费尔班克斯市，在北极圈以南约 110 英里。
-
-
-目前尚不清楚现在计划在 Eielson 建造的反应堆的具体规格。美国空军表示，该项目是依据 2019 年财年国防政策法案启动的，目标是在 2027 年底前让该微型核反应堆全面运行。这似乎表明该反应堆是国防部长战略能力办公室名为 Project Pele 计划的一部分。项目于 2019 年启动，目标是展示一个能产生 1 到 5 兆瓦电力的小型反应堆。
-
-
-五角大楼今年 3 月将 Project Pele 反应堆原型合同授予 X-Energy 和 BWX Technologies。合同要求两家公司在未来两年内完善设计，预计将在两者中选出一种获胜设计。微型反应堆的相关工作有望在 2022 财年年底前开始。
-
-与 Eielson  相关的19,780 英亩土地因存在有毒化学污染已被美国环境保护署（EPA）划定为“超级基金污染场址”。空军的 FAQ 解释称，来自微型核反应堆的废弃物“将遵循同商业核工业同样严格的存储和控制要求。”FAQ 还指出，该反应堆不会连接到商用电网。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Peter Thiel 认为应该更担心“监视 AI”</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69362">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>亿万富翁 Peter Thiel 相信，“相比于通用人工智能（AGI），人们应该更担心‘监视AI’。”
-这位联合创办大数据公司 Palantir 的风险投资家在迈阿密的一个活动上表示，在通往 AGI 的路上，你会得到监视 AI，他将其描述为“共产主义的极权技术”。那些担心 AGI 的人实际上没有“抓住真正重要的事情，”Thiel 表示，政府将使用 AI 面部识别技术控制民众。
-
-
-Thiel 的言论是在彭博社报道 “Palantir 知道你的一切”的三年之后做出的。Thiel 还投资了面部识别公司 Clearview AI 和监控初创公司 Anduril。市值 480 亿美元的 Palantir 开发了数据拖网技术，情报机构和政府用这种技术监视和发现公共和私有数据库中的可疑模式。该公司的客户包括 CIA、FBI 和美国陆军……
-
-
-Thiel 是一位著名的自由意志主义者，是 PayPal 的联合创始人，在 Facebook 的董事会拥有一个席位。他表示，如今的硅谷并不像六七年前那样热衷谈论 AGI了……在演讲中，Thiel 还将 AI 和加密货币相提并论，表示他更愿意看到后者成功。“如果我们说加密货币是自由意志主义的，从根本上说它是一种去中心化的力量，那么我认为我们也应该愿意说，AI 特别是低技术监控形态的 AI，本质上是共产主义的。”
-
-
-他表示：“如果你把它定义为一场技术竞赛……我希望加密货币的去中心化世界能赢。”</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">苏丹发生军事政变网络中断</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69361">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>周一早晨，苏丹地区的互联网遭到了严重干扰，全国网络连接率跌至了 34%。据媒体报道，苏丹发生了军事政变，总理 Abdalla Hamdok 的家被军方包围。多名政府高官也被身着军警服装的人逮捕。首都 Khartoum 国际机场的航班已经停飞，电话和互联网都中断。据目击者称，周一上午示威者在街头抗议逮捕行动，他们点燃了火堆，设置了路障。亲民主的 Sudan Professionals&#x27; Association 呼吁人们走上街头抗议军事政变。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">​阶级斗争的新兄弟：“认知”斗争</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69359">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>有一种新的斗争方式出现了，它和阶级斗争很像，只由一种条件决定。
-
-
-马克思和恩格斯在历史名篇「宣言」中做了一个论断，说——迄今为止所有存在社会的历史都是阶级斗争史。大师就是大师，“马恩”在「宣言」里说的阶级划分是比较特殊的，非常有开创性。他们认为，阶级斗争的“阶级”和传统意义上的“社会阶层”无关，比如贵族与否，肤色黑白。
-
-
-“是否掌握生产资料”，才是唯一的“阶级”判定条件。如果做个粗糙的总结，就是经济权力的高低，决定了阶级的差别。
-
-
-这种阶级划分法的很精确，也很苛刻。
-
-
-以至于连印度种姓制度这么泾渭分明的阶层划分，也有很多学者说这不是经济斗争，而是文化现象。
-
-
-参照这种单一条件论的社会阶层划分法，我们发现，似乎一种新的斗争方式正在出现。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">俄罗斯加强互联网审查</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69360">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>俄罗斯的互联网审查行动始于一系列官僚主义的邮件和表格，要求 ISP 提供流量号（ traffic number）、设备规格和连接速度等技术细节，紧跟着而来的就是黑盒子。ISP 别无选择，只能允许政府技术人员将黑盒子与计算机系统和服务器安装在一起，这给与政府封锁、过滤和限制他们不想让俄罗斯居民访问的网站的能力。俄罗斯总统普京曾将互联网称为是 CIA 的项目，视其为一种威胁，正逐步加强对其的审查。今年早些时候，俄罗斯以 Twitter 未能及时删除它认为非法的内容而对其进行限速的惩罚，这是外界看到黑盒子过滤系统首次投入作用。这个黑盒子就是深度包检测（DPI）设备。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">报道沙特新闻的纽时记者被 Pegasus 入侵</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69358">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>报道沙特新闻并撰写了一本有关沙特王储  Mohammed bin Salman 书籍的《纽约时报》记者 Ben Hubbard 被以色列公司 NSO Group 的间谍软件 Pegasus 入侵。加拿大多伦多大学公民实验室周日披露，Hubbard 在 2018 年 6 月到 2021 年 6 月之间多次成为间谍软件的攻击目标，2020 年 7 月到 2021 年 6 月他的手机感染了 Pegasus，公民实验室对哪位 NSO Group 客户发动攻击没有下定论，但认为同一攻击者还在 2021 年入侵了另一名沙特活动人士的手机。Hubbard 的手机号码在 2019 年出现在 Pegasus 项目清单上。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">沙特计划到 2060 年实现零排放</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69357">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>沙特王储 Mohammed bin Salman 表示计划到 2060 年实现温室气体“净零排放”，比美国晚 10年。温室气体主要由化石燃料燃烧产生。他还说，沙特将把计划在 2030 年前实现的减排量增加一倍。全球第二大排放国美国承诺到2050年实现“净零”，即其排放的温室气体不超过其能够捕获或吸收的数量。但是，全球最大排放国中国和第三大排放国印度还没有对这个时间表做出承诺。沙特阿美总裁兼首席执行官纳瑟尔(Amin Nasser)说，将碳氢化合物“妖魔化”会适得其反。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-10-24">2021-10-24</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.zhangxinxu.com/wordpress">张鑫旭-鑫空间-鑫生活</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">CSS @counter-style规则详细介绍</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.zhangxinxu.com/wordpress/2021/10/css-counter-style/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(5 min)</span>
-                    <span>虽然目前项目符号支持的关键字值接近上百个，但是还是不能满足日常开发的需求，在这种情况下，@counter-style 出现了，可以让我们自定义计数规则。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">落水后，为 iPhone 喇叭排水的「专用快捷指令」</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/labapaishui-shortcuts/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>两年前，青小蛙发现过一个相当有趣的网页：Fix My Speakers 🔊 – 通过特定的声波，清出意外弄湿的喇叭里的液体，用你的 iPhone 访问这个网页，喇叭就会发出奇怪的</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">地震促进了树木生长</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69356">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>地震能摧毁建筑物也能促进森林成长。一项新研究发现，地震通过将额外的水注入树木周围的土壤而推动其生长。这种短暂的增长也在树轮中留下了记录，有助于确定古代地震的日期。德国 Potsdam 大学的水文学家 Christian Mohr 最初没有在地震和树木生长之间寻找关联性的计划，2010 年智利 8.8 级 Maule 大地震严重影响到了他在当地河谷的沉积物移动研究。地震后他和同事注意到河谷水流加快了，怀疑 Maule 地震震动了土壤，提高了渗透性，使得地下水更容易从山脊流到山谷。自然地震很可能通过牺牲山坡上的树木而促进山谷树木的生长。对山坡和山谷中树芯样本的分析显示，山谷树木在地震之后经历持续数周到数个月的短暂生长高峰，而山坡树木则增长放缓。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Proton 在瑞士赢得对数据保存义务的上诉</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69355">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>加密电邮服务商 Proton（ProtonMail）在瑞士赢得对数据保存义务的上诉。瑞士联邦行政法院裁决，电邮服务商不能被视为电信服务商，因此不受数据保存要求的约束。瑞士邮政和电信监督局（PTSS）在 2020 年 9 月裁定 Proton 不再受益于有限的监视义务，必须保存监视所需要的数据，并在质询时提供数据。Proton 对此提起了上诉。联邦行政法庭现在推翻了这一裁定。Proton 创始人兼 CEO Andy Yen 表示法庭的裁决是其推进隐私和自由的重要第一步。Proton 上个月因替法国警方跟踪一位使用其服务的法国活动人士的 IP 地址而引发争议，它表示默认情况下并不会记录 IP 地址，这次只是遵守瑞士国内的法律。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">微软拒绝为 Process Hacker 提供内核驱动签名</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69354">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>Process Hacker 是一款强大而灵活的开源工具，采用 GNU GPLv3 许可证，可用于监视系统资源、调试软件和检测恶意程序，但由于微软拒绝为新版本提供内核驱动签名，这意味着较新版本的 Process Hacker 将无法在 Windows 上使用。微软 Microsoft Process Explorer 与 Process Hacker 拥有相同的功能，但 Process Hacker 更受欢迎，开发者认为微软采用了与对付 Netscape Navigator 浏览器相同的方法去消除竞争。微软声称拥抱开源和透明，但实际上是做一套说一套。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-10-23">2021-10-23</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Fastmail、Runbox 和 Poste 遭到 DDoS 勒索攻击</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69353">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>电邮服务 Fastmail、Runbox 和 Poste 正遭到大规模 DDoS 攻击，攻击者要求支付比特币以停止攻击。Runbox 称，攻击流量超过了 50 Gbps，间歇性的屏蔽了客户对其服务的访问。向勒索者支付金钱并不能保证未来不会发生类似的攻击，只能让此类攻击变得更具有吸引力，增加未来发动 DDoS 攻击得可能性。相同得勒索者还攻击了 Fastmail 和 Poste。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
     </ul>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-11-22T00:57:45.003Z">2021-11-22T00:57:45.003Z</time>
+    <time id="build-timestamp" datetime="2021-11-24T00:56:35.397Z">2021-11-24T00:56:35.397Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.3</a></span>
   </footer>
   <script src="index.js"></script>
