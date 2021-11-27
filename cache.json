@@ -12,6 +12,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=40595",
+          "author": "青小蛙",
+          "description": "1Password 是著名的跨平台密码管理器工具，支持 macOS、Windows、Linux、Chrome OS，拥有 Android、iOS 客户端，和各大浏览器插件，使用体验很好。目前有一个针对",
+          "link": "https://www.appinn.com/1password-3-years-50-off/",
+          "publishedOn": "2021-11-26T02:48:45.000Z",
+          "wordCount": 748,
+          "title": "1Password 3年5折优惠，适用于个人版与家庭版"
+        },
+        {
           "id": "https://www.appinn.com/?p=40592",
           "author": "青小蛙",
           "description": "微软发布了针对 4 款主流虚拟机程序的 Windows 11 企业版镜像，包括虚拟机：VMWare、Hyper-V、VirtualBox 和 Parallels。@Appinn 本次镜像为评估版，将于",
@@ -497,24 +506,6 @@
           "publishedOn": "2021-10-29T02:55:50.000Z",
           "wordCount": 873,
           "title": "MyKeymap – 按键映射工具：明明可以用鼠标，为什么非要用键盘快捷键？"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40223",
-          "author": "青小蛙",
-          "description": "Synergy 是一款可以用一套键盘鼠标轻松控制多台电脑的软件，支持 Windows、macOS、Linux 系统，对于拥有多台设备，又跨系统的同学来说，可以节省空间又高效快捷。@Appinn Syn",
-          "link": "https://www.appinn.com/synergy-share-1-mouse-and-keyboard/",
-          "publishedOn": "2021-10-28T12:46:09.000Z",
-          "wordCount": 950,
-          "title": "Synergy – 1 套键盘鼠标控制多台电脑[Win/macOS/Linux]"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40219",
-          "author": "青小蛙",
-          "description": "Coding Font 是一个在线服务，它通过两两对比的方式，帮助开发者从 27 款字体中挑选出一款最适合自己的编程字体，简单实用。@Appinn 对于开发者来说，整天和代码、终端打交道，那么一款舒适",
-          "link": "https://www.appinn.com/coding-font-online/",
-          "publishedOn": "2021-10-28T08:33:34.000Z",
-          "wordCount": 824,
-          "title": "Coding Font – 从 27 款字体中对比挑选编程字体"
         }
       ]
     },
@@ -523,6 +514,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=357271",
+          "author": "Chris Coyier",
+          "description": "I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:\n.el {\n  will-change: opacity;\n\n…\nThe post When is it “Right” to Reach for  contain and will-change in CSS? appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/",
+          "publishedOn": "2021-11-26T20:43:05.000Z",
+          "wordCount": 1015,
+          "title": "When is it “Right” to Reach for  contain and will-change in CSS?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357239",
+          "author": "Neale Van Fleet",
+          "description": "I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …\nThe post A Handy Little System for Animated Entrances in CSS appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/",
+          "publishedOn": "2021-11-26T16:12:33.000Z",
+          "wordCount": 2112,
+          "title": "A Handy Little System for Animated Entrances in CSS"
+        },
         {
           "id": "https://css-tricks.com/?p=357294",
           "author": "George Francis",
@@ -1053,33 +1062,6 @@
           "publishedOn": "2021-10-28T14:03:11.000Z",
           "wordCount": 1277,
           "title": "Building an Angular Data Grid With Filtering"
-        },
-        {
-          "id": "https://css-tricks.com/?p=354777",
-          "author": "Chris Coyier",
-          "description": "I ran across this 30 seconds of code website the other day, and they have a CSS section which is really good! The first example snippet I looked at was this “floating section headers” example, reminding me yet again how …\nThe post Sticky Definition Lists appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/sticky-definition-lists/",
-          "publishedOn": "2021-10-27T23:17:18.000Z",
-          "wordCount": 545,
-          "title": "Sticky Definition Lists"
-        },
-        {
-          "id": "https://css-tricks.com/?p=354857",
-          "author": "Chris Coyier",
-          "description": "A look from Christian Kozalla on the <dialog> HTML element and using it to create a nice-looking and accessible modal. \nCodePen Embed Fallback\nI’m attracted to the <dialog> element as it’s one of those “you get a lot for free” …\nThe post How to Implement and Style the Dialog Element appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/how-to-implement-and-style-the-dialog-element/",
-          "publishedOn": "2021-10-27T20:17:48.000Z",
-          "wordCount": 532,
-          "title": "How to Implement and Style the Dialog Element"
-        },
-        {
-          "id": "https://css-tricks.com/?p=353842",
-          "author": "Mark Noonan",
-          "description": "Cypress is an automated test runner for browser-based applications and pages. I’ve used it for years to write end-to-end tests for web projects, and was happy to see recently that individual component testing had come to Cypress. I work on …\nThe post Testing Vue Components With Cypress appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/testing-vue-components-with-cypress/",
-          "publishedOn": "2021-10-27T14:25:04.000Z",
-          "wordCount": 4750,
-          "title": "Testing Vue Components With Cypress"
         }
       ]
     },
@@ -1166,15 +1148,6 @@
           "publishedOn": "2021-11-02T15:00:08.000Z",
           "wordCount": 1039,
           "title": "见多识广，介绍Web开发中current开头的一些API属性"
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10150",
-          "author": "张 鑫旭",
-          "description": "多次遇到复制文字内容到剪切板的需求，每次都重新撸一遍代码，很糟心，所以特别写了篇文章，方便下次复用和溯源，也顺便帮助下其他同行小伙伴。",
-          "link": "https://www.zhangxinxu.com/wordpress/2021/10/js-copy-paste-clipboard/",
-          "publishedOn": "2021-10-28T10:02:34.000Z",
-          "wordCount": 715,
-          "title": "JS复制文字到剪切板的极简实现及扩展"
         }
       ]
     },
@@ -1184,6 +1157,168 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=69785",
+          "author": null,
+          "description": "美国、中国和其他任何地方的新车购买者都面临着库存不足和经销商不愿在价格上让步的问题。这完全是由于全球芯片短缺造成的，这促使拜登政府支持立法，其中包括为美国半导体制造提供 520 亿美元的联邦补贴。\n\n但问题并不仅仅是新车。The Information 的报告发现，美国 70% 的无线零售店都面临智能手机短缺的问题。显卡价格仍远高于制造商的建议零售价，没有任何回落的迹象。游戏机在发布后的一整年里排队购买的队伍都长达数百人。电视比去年更贵，也更难找到。\n\n\n你可能会认为这是新冠疫情造成的暂时性供应链短缺，但事实并非如此。问题不在于库存的PlayStation 5 游戏机数量。问题是排在你前面的人。索尼的 PlayStation 5 销售数据说明了这一挑战的本质。PlayStation 5 的全球销量超过了当年处于生命周期同一阶段的 PlayStation 4 的销量：PS5 比索尼历史上任何其他游戏机都卖得更快。同样的模式也适用于个人电脑、智能手机、视频游戏和平板电脑，这些产品在 2021 年第一季度的销售额均出现同比增长。鉴于 2020 年的数据因为封锁已达到了前所未有的高点，这是一项了不起的成就。\n\n\n严重的芯片短缺确实阻碍了汽车生产，而汽车是所有消费品中最大也是最昂贵的大件。但认为这种短缺也限制了较小产品的供应是错误的，这些小玩意中的绝大部分实际上是大量涌入商店，然后飞快地被从货架上买走。汽车行业的问题确实是芯片严重短缺的结果。但那是例外。\n\n\n你应该预料到价格会保持坚挺，已经很长的交货时间只会拖得更久。如果你想在假期里用上真正抢手的设备，无论是游戏机还是新的 iPad Mini，现在下手可能太晚了。至少从零售商那里购买太晚了——不过 eBay 永远在那里。你应该做好明年早做打算的准备，没有迹象表明供应量会在 2022 年跟上来。",
+          "link": "https://www.solidot.org/story?sid=69785",
+          "publishedOn": "2021-11-26T13:45:59.000Z",
+          "wordCount": 102,
+          "title": "芯片短缺对汽车销售冲击巨大"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69784",
+          "author": null,
+          "description": "电动自行车，也就是熟知的 e-bikes，已以惊人的速度从新奇事物变成主流。疫情期间，对于辛勤工作的快递骑手（以及他们不耐烦的客户）和不介意在到达时汗流浃背的通勤者来说，它们是一种福音。虽然围绕着这种骑行的“纯洁性”有许多嘲讽之声——电动自行车骑手在某种程度上是懒惰的骗子——电动辅助实际上是在吸引人们离开沙发进行健康锻炼。它特别受年长或者荒疏已久的骑手（这是很大的一个群体）欢迎，如果没有电动自行车，他们可能就会被令人生畏的山丘或者更远的距离阻碍，完全避免骑自行车。 \n\n据一项估计，2020 年仅在美国就售出了 500,000 辆电动自行车，而插电式汽车售出了 210,000 辆。据市场研究公司 NPD Group 的数据，从 2019 年到 2020 年，疫情推动电动自行车的销量增长了 145%，是传统自行车增长的两倍多。行业分析师预计，电动自行车的采用率将继续上升。Business Research Company 的一份报告显示，全球电动自行车市场将从去年的 325 亿美元增长到 2025 年的 530 亿美元，年复合增长率为 9.9%。即使在自行车饱和的欧洲，2019 年电动自行车的销量也增长了 23%。德勤预计，到 2023 年，全球街道上将有 3 亿辆电动自行车。",
+          "link": "https://www.solidot.org/story?sid=69784",
+          "publishedOn": "2021-11-26T13:38:11.000Z",
+          "wordCount": 102,
+          "title": "世界上最受欢迎的电动车不是电动汽车、卡车或者摩托车"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69783",
+          "author": null,
+          "description": "研究人员表示，此前已知道化疗药物会影响细胞内的线粒体，从而通过一种被称为氧化应激反应的过程造成肌肉组织的损失。在新研究中，研究人员在培养的肌肉细胞中研究了三种不同的化疗药物，剂量低至不会引发氧化应激反应的水平。他们发现肌肉细胞仍然受到较低水平药物的影响——这一次是干扰了被称为蛋白质合成的肌肉构建过程。人体运动学副教授 Gustavo Nader 表示，虽然这些发现还需在人类身上得到证实，但它们可能会对未来的癌症治疗产生影响。Nader 表示：“最终癌症疗法的施行也许应该考虑到，即使在不会引起氧化应激反应的低剂量下，一些化疗药物仍然可能会促成肌肉组织的损失。肿瘤已让你变得虚弱，它造成肌肉量的下降，而化疗药物正在帮助肿瘤实现这一目标。”",
+          "link": "https://www.solidot.org/story?sid=69783",
+          "publishedOn": "2021-11-26T13:14:19.000Z",
+          "wordCount": 75,
+          "title": "更低剂量的化疗药物也会对肌肉细胞造成影响"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69782",
+          "author": null,
+          "description": "危及生命的细菌对抗生素的抵抗力越来越强，使得寻找抗生素替代成为一项日益紧迫的挑战。对于某些情况，一种特殊的激光器可能会是一种替代方案。圣路易斯华盛顿大学医学院的研究人员发现，发射超短脉冲光的激光可以杀死能抵抗多种药物的细菌和耐寒细菌孢子。研究结果发表在在线《生物光子学学报》上，提供了使用此类激光摧毁其他方式难以杀死的细菌的可能性。研究人员此前已证明，此类激光不会损害人体细胞，因此可以设想使用激光对伤口进行消毒或对血液制品进行消毒。 论文的第一作者、华盛顿大学马林克罗特放射学研究所（MIR）的放射学讲师 Shaw-Wei（David）Tsen 博士表示：“超短脉冲激光技术以独特的方式灭活病原体，同时保留人类蛋白质和细胞。想象一下，如果在闭合手术伤口之前，我们可以用激光束扫描整个部位，进一步降低感染的机会。我可以看到这项技术将很快被用于生物制品的体外消毒，未来甚至可以让患者接受透析，让血液通过激光治疗设备，用这种方式治疗血液感染。”",
+          "link": "https://www.solidot.org/story?sid=69782",
+          "publishedOn": "2021-11-26T13:09:31.000Z",
+          "wordCount": 74,
+          "title": "超短脉冲激光杀死超级细菌和孢子"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69781",
+          "author": null,
+          "description": "NASA InSight 着陆器在火星安装了地震仪，它探测到的地震帮助我们了解行星内部。相关数据提供了火星内部结构的总体情况——核心有多大，是否有熔融部分等。但它没有捕捉到小细节，如 InSight 正下方的次表层是什么样子。本周研究人员介绍了他们如何设法找到火星上的安静时期，对接近地面的浅表层进行成像。结果和附近的地表特征表明，InSight 很可能位于两条被沉积物层隔开的大型熔岩流之上。\n\n\n火星地震对于整理局部特征无用。如果地震波来自非常遥远的地方，那么其行为就主要受到大部分时间穿过的材料影响。如果地震发生在附近，那么就会太过强烈，以至于无法分辨出局部特征造成的细枝末节。因此为了查看当地地质情况，你需要查看 InSight 不断采集的背景地震噪声。\n\n\n在地球上，大部分地震噪声是由人类活动或海洋产生的。但火星缺乏这两种噪声源，其背景主要来自风与火星特征的相互作用。如果在一天之中风强烈的时候检查数据，会发现噪声主要受到风与着陆器本身相互作用的频率影响。研究人员因此将注意力集中在火星时间的傍晚，此时的风趋于减弱。此时大部分的地震噪声都是由与附近地质相互作用的弱风而不是着陆器本身产生的。\n\n\n地质学家通过对比地震噪声的水平和垂直分量，重建了地球特征。这个过程与大量收集火星浅表层潜在结构的做法一样。为了缩小可能性列表，研究人员将注意力集中在大多数潜在解决方案都有的特征上。他们还观察了附近陨石坑中暴露的岩石，以寻找与模型暗示可能存在的事物相关的可见特征。",
+          "link": "https://www.solidot.org/story?sid=69781",
+          "publishedOn": "2021-11-26T13:01:46.000Z",
+          "wordCount": 85,
+          "title": "科学家用地震噪声对火星深度 100 米的次表层进行成像"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69780",
+          "author": null,
+          "description": "面对能源消耗的急剧上升，瑞典呼吁欧盟禁止“能源密集型”加密货币挖矿。瑞典金融监管局局长 Erik Thedeen 和瑞典环境保护局局长 Bjorn Risinger 表示，加密货币日益增长的能源使用量正在威胁瑞典履行巴黎气候协议义务的能力。Thedeen 和 Risinger 表示，今年 4 月到 8 月期间，这个北欧国家比特币挖矿的能源消耗量增长了“百分之几百”，现在挖矿消耗的电力相当于 20 万户家庭的用电量。在一封公开信中，瑞典最高金融和环境监管机构的领导呼吁在欧盟范围内禁止基于工作量证明（proof of work）的加密货币挖矿，要求瑞典“停止建立”新的加密货币挖矿业务，禁止从事加密货币交易和投资的企业将其商业活动描述为环境可持续的。",
+          "link": "https://www.solidot.org/story?sid=69780",
+          "publishedOn": "2021-11-26T11:55:03.000Z",
+          "wordCount": 92,
+          "title": "瑞典表示欧洲须禁止比特币挖矿以实现巴黎气候协定 1.5°C 目标"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69779",
+          "author": null,
+          "description": "随着电池开始堆积，汽车制造商、电池公司和研究人员正试图将其从垃圾填埋场中拯救回来。回收者主要对提取电池中有价值的金属和矿物质感兴趣。获取这些材料既复杂又危险：拆下钢外壳后，需要小心地将电池组拆开成电芯，以免刺破任何危险材料。电解质是一种液体，其作用是在阴极和阳极之间移动锂离子，如果受热它会着火甚至爆炸。只有当包装被拆除后，回收商才能安全地提取导电的锂、镍、铜和钴。\n\n\n阴极中的钴是电池中最抢手的材料。这种原始形态为蓝灰色的稀有金属主要来自刚果民主共和国，当地矿工在危险的条件下工作。由于侵犯人权和供应链短缺，世界主要电动汽车制造商开始放弃钴。这就引发了一个问题：少了最有价值的成分，回收商是否仍然觉得新型电池值得拆解？斯旺西大学的储能专家 Jenny Baker 表示：“当你转向更可持续、成本更低的材料时，回收它们的动力就会减弱。”她将此比作消费电子产品中的一个困境：购买新手机通常比修理或回收手机便宜。\n\n\n第一步，回收商通常将废电池的阴极和阳极材料粉碎成粉末状混合物，即所谓的黑色物质。伯明翰大学的研究员 Gavin Harper 解释说，这就像是在蛇棋的游戏中第一次落到蛇的头上。然后可以用两种方法中的一种处理该黑色物质，以提取其中有价值的成分。一种方法被称为火法冶金，在以化石燃料为能源的熔炉中熔炼黑色物质。这是一种相对便宜的方法，但在此过程中会损失大量的锂、铝、石墨和锰。另一种方法被称为湿法冶金，通过将金属溶解在酸或其他溶剂中，从黑色物质中浸出金属。Harper 表示，这种方法相当于蛇棋游戏中较短的蛇，因为可以回收更多的材料：你能全身而退，但不会像用火法冶金时那么多。然而该过程要消耗大量的能源，会产生有毒的气体和废水。",
+          "link": "https://www.solidot.org/story?sid=69779",
+          "publishedOn": "2021-11-26T11:47:13.000Z",
+          "wordCount": 81,
+          "title": "世界需要尽快解决电池回收问题"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69778",
+          "author": null,
+          "description": "美国市值最高的游戏平台 Roblox 将臭名昭著的 YouTuber Benjamin“Ruben Sim”Simon 告上法庭，指控他攻击它的游戏社媒平台及其年轻粉丝。这起周二在加州法院提起的诉讼要求 Ruben Sim 支付 160 万美元赔偿，停止骚扰 Roblox 员工和玩家。Simon 自 2010 年以来一直在制作Roblox视频并以此牟利。这些视频内容驳杂，从性骚扰在游戏中遇到的玩家到在该公司年度会议期间公开对其进行“恐怖主义威胁”。Roblox 称，由于 Simon 发布有关警方在该会议中搜寻“伊斯兰极端分子”的消息，该公司上个月不得不暂时关闭旧金山举行的 Roblox 开发者大会。该公司称，调查虚假报告花费了 50,000 美元。",
+          "link": "https://www.solidot.org/story?sid=69778",
+          "publishedOn": "2021-11-26T11:28:59.000Z",
+          "wordCount": 104,
+          "title": "Roblox 指控 YouTuber 恐吓并索赔 160 万美元"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69777",
+          "author": null,
+          "description": "以色列政府将允许本国安全公司出售监视和攻击性黑客工具的国家名单缩减近三分之二，将官方网络出口清单从 102 个国家减少到 37 个国家。以色列商业报纸 Calcalist 获得的新名单只包括那些已证明民主的国家，例如来自欧洲和五眼联盟的国家：澳大利亚、奥地利、比利时、保加利亚、加拿大、克罗地亚、塞浦路斯、捷克共和国、丹麦、爱沙尼亚、芬兰、法国、德国、希腊、冰岛、印度、爱尔兰、意大利、日本、拉脱维亚、列支敦士登、立陶宛、卢森堡、马耳他、新西兰、挪威、葡萄牙、罗马尼亚、斯洛伐克、斯洛文尼亚、韩国、西班牙、瑞典、瑞士、荷兰、英国和美国。该清单删除了专制政权，以色列公司经常向这些国家提供监视工具。近年来由 Candiru 和 NSO Group 等以色列公司开发的间谍软件与数十个国家的侵犯人权行为有关，当地政府使用这些工具监视记者、活动家、持不同政见者和政治对手。",
+          "link": "https://www.solidot.org/story?sid=69777",
+          "publishedOn": "2021-11-26T11:10:35.000Z",
+          "wordCount": 88,
+          "title": "以色列将网络武器出口国清单缩减三分之二从 102 减少到 37"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69776",
+          "author": null,
+          "description": "《南华早报》报道，研究人员透露，中国正为其月球和火星任务开发强大的核反应堆。反应堆可产生 1 兆瓦的电力，是 NASA 计划于 2030 年之前部署到月球表面的反应堆功率的 100 倍。该项目于 2019 年启动，得到了中央政府的资助。虽然没有透露技术细节和发射日期，但两名参与该项目的科学家证实，原型机的工程设计已于近期完成，已制造出部分关键部件。 这是一个雄心勃勃的项目，面临着前所未有的挑战。此前中国送入太空的唯一公开核装置是玉兔二号上的微型放射性电池，玉兔二号是 2019 年首个在月球背面登陆的月球车。电池只能产生几瓦的热量帮助月球车度过月球上漫长的夜晚。研究人员表示，化学燃料和太阳能电池板将不再能满足载人太空探索的需求，随着人类在月球或火星上定居被提上议事日程，电力需求将显著扩大。中科院的一位研究人员表示：“核电是最有希望的解决方案。其他国家推出了一些雄心勃勃的计划。中国无法承受输掉这场比赛的代价。”",
+          "link": "https://www.solidot.org/story?sid=69776",
+          "publishedOn": "2021-11-26T11:05:12.000Z",
+          "wordCount": 84,
+          "title": "中国研制更强大的新太空反应堆"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69775",
+          "author": null,
+          "description": "arXiv.org 创始人 Paul Ginsparg 和 Center for Open Science 被柏林爱因斯坦基金会授予首届爱因斯坦基金会研究质量促进奖。Paul Ginsparg 发明了首个预印本服务，为全世界科学家提供一个没有评审和付费墙的研究交流即时出版平台。Ginsparg 开发的 arXiv.org 奠定了科学出版革命的基础，预印本服务如今在许多领域广泛使用，支持了 COVID-19 疫情的快速反应。arXiv.org 和 Center for Open Science 永久性的改变了全球研究文化。",
+          "link": "https://www.solidot.org/story?sid=69775",
+          "publishedOn": "2021-11-26T10:56:51.000Z",
+          "wordCount": 96,
+          "title": "arXiv.org 创始人赢得爱因斯坦基金会奖"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69774",
+          "author": null,
+          "description": "市场监管总局发布《互联网广告管理办法（公开征求意见稿）》（PDF），意见截止日期 12 月 25 日。《征求意见稿》将以互联网直播等方式直接或者间接地推销商品或者服务的商业广告、跨境电商广告纳入办法调整范围，要求不得利用针对未成年人的网站、网页、互联网应用程序等互联网媒介发布医疗、药品、保健食品、医疗器械、化妆品、酒类、美容广告以及不利于未成年人身心健康的网络游戏广告；不得利用互联网发布处方药和烟草广告。以启动播放、视频插播、弹出等形式发布的互联网广告，应当显著标明关闭标志，确保一键关闭；对须经审查的广告，应当严格按照审查通过的内容发布，不得剪辑、拼接、修改，不得增加链接、二维码等内容。",
+          "link": "https://www.solidot.org/story?sid=69774",
+          "publishedOn": "2021-11-26T09:53:50.000Z",
+          "wordCount": 75,
+          "title": "市场监管总局发布《互联网广告管理办法（公开征求意见稿）》"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69773",
+          "author": null,
+          "description": "能源与清洁空气研究中心（CREA）发布的报告显示，中国今年度第三季的碳排放量自疫情后生产活动复苏以来首次下降。中国来自化石燃料和水泥工业的碳排放量同比下降了 0.5%， 这是自封锁结束后的反弹以来，首次的季度性下降。造成这种下降的原因是在中国政府打击房地产行业后，建筑业的表现出现了下滑，以及煤价高涨导致全国各地的电力配给。分析师认为，“排放的下降可能标志着一个转折点和中国碳排放总量的早期峰值，比其原定在2030年前达到峰值的目标提前数年。”",
+          "link": "https://www.solidot.org/story?sid=69773",
+          "publishedOn": "2021-11-26T09:41:48.000Z",
+          "wordCount": 73,
+          "title": "中国第三季碳排下降"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69772",
+          "author": null,
+          "description": "沃尔玛下架用波兰语唱可卡因的儿童玩具。一位加拿大安大略省的祖母从沃尔玛网站为 15 个月大的孙女购买了第三方卖家出售的一个教育玩具，售价约 26 美元的跳舞仙人掌能用英语、西班牙语和波兰语唱歌。Ania Tanner 是波兰人，当她听到仙人掌用波兰语唱歌时吃了一惊，因为玩具唱的是波兰说唱歌手 Cypis 的一首服用可卡因、忧郁症和自杀有关的歌曲《Gdzie jest biały węgorz?》（YouTube）。她认为这不适合给儿童听。 Cypis 也不知道中国玩具制造商为什么会使用他的歌曲，很可能是制造商并不知道歌词的意思，但认为好听有趣就用了。这种仙人掌玩具还通过亚马逊在欧洲销售，也因为不合适儿童而遭到投诉。",
+          "link": "https://www.solidot.org/story?sid=69772",
+          "publishedOn": "2021-11-26T08:31:55.000Z",
+          "wordCount": 84,
+          "title": "沃尔玛下架用波兰语唱可卡因的儿童玩具"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69771",
+          "author": null,
+          "description": "中国今年开始实施“三孩”政策后，近日各地陆续修订人口计生条例让鼓励政策落地。重庆市修改通过的重庆市人口与计划生育条例决定，自公布之日起施行。对产假、护理假均作了适当延长，男职工护理假增加至 20 天（原为 15 天）。符合法律法规规定生育的职工，在产假或者护理假期满后，经单位批准，夫妻一方可以休育儿假至子女一周岁止，或者夫妻双方可以在子女 6 周岁前每年各累计休 5-10 天的育儿假。湖北省规定，符合法律法规规定生育的妇女，除享受国家规定的产假外，增加产假 60 天，其配偶享受 15 天护理假；3 岁以下婴幼儿父母每人每年享受累计 10 天育儿假。浙江将妇女产假 128 天修改为生育一孩的产假为 158 天，二孩三孩为 188 天。增设育儿假，规定子女在三周岁以内，父母双方每年各享受 10 天的育儿假。",
+          "link": "https://www.solidot.org/story?sid=69771",
+          "publishedOn": "2021-11-26T07:37:12.000Z",
+          "wordCount": 94,
+          "title": "各地出台鼓励三胎政策"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69770",
+          "author": null,
+          "description": "联网设备使用默认密码通常会成为严重的安全隐患。英国政府出台新法案禁止这种行为，以保护家中的智能联网设备不会被黑客入侵，不遵守新规定的企业将会面临巨额罚款。英国消费者保护组织 Which? 最近的研究发现，有大量智能设备的家庭一周内会受到 1.2 万次以上攻击。黑客如果能成功入侵一个存在漏洞或使用默认密码的设备，他们将可以进一步渗透和控制整个家庭网络。被称为《The Product Security and Telecommunications Infrastructure Bill》的法案禁止使用容易猜测的默认密码，所有产品需要有唯一密码，不能重设为出厂默认密码；通知客户产品获得安全更新的最短时长；为安全研究人员提供漏洞报告的联络信息。违反者将面临最高 1000 万英镑或全球营业额 4% 的罚款，对持续违规每天罚款最高 2 万英镑。",
+          "link": "https://www.solidot.org/story?sid=69770",
+          "publishedOn": "2021-11-26T05:24:45.000Z",
+          "wordCount": 87,
+          "title": "英国新法案严禁使用默认密码"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69769",
+          "author": null,
+          "description": "从明年 3 月 1 日起，微信和支付宝收款码将不能用于经营收款。这一规定源于 10 月 13 日央行发布的《中国人民银行关于加强支付受理终端及相关业务管理的通知》，条码支付被纳入监管，对个人收款条码的使用规范做出具体规定，并将于 2022 年 3 月 1 日起施行。央行有关部门负责人具体解释称，近年来，个人收款条码得到广泛运用，提高了资金收付效率，但也存在一些风险隐患。如一些不法分子利用“跑分平台”，以高额收益吸引大量人员使用个人静态收款条码与赌客“点对点”线上远程转移赌资，将赌资分拆隐藏于众多正常交易场景。为在防范风险的前提下更好发挥收款条码的普惠性、便利性，《通知》提出一些针对性要求。其中《通知》对收款条码管理进行了说明，对于个人或特约商户等收款人生成的，用于付款人识读并发起支付指令的收款条码，应有效区分个人和特约商户使用收款条码的场景和用途，防范收款条码被出租、出借、出售或用于违法违规活动。对于具有明显经营活动特征的个人，条码支付收款服务机构不得通过个人收款条码为其提供经营活动相关收款服务。",
+          "link": "https://www.solidot.org/story?sid=69769",
+          "publishedOn": "2021-11-26T04:53:34.000Z",
+          "wordCount": 86,
+          "title": "微信和支付宝收款码将不能用于经营收款"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69768",
+          "author": null,
+          "description": "南非发现了新冠新变种 B.1.1.529，突变数量是流行的 Delta 变种的两倍。南非已发现 22 例感染这一变种的阳性病例，另有一名来自南非的旅行者在香港确诊。英国卫生局官员将这一变种称为“迄今为止最糟糕的变种”，该国迅速对南非及其五个邻国实施了旅行限制。英国宣布从周五 1200GMT 起暂时禁止来自南非、纳米比亚、莱索托、博茨瓦纳(波札那)、津巴布韦(辛巴威)、斯威士兰(史瓦帝尼)的航班，从这些地区回国的英国旅客必须接受隔离。科学家表示需要进行实验室研究，以评估突变导致疫苗效力大大降低的可能性。官员们建议政府迅速采取先发制人的行动，以防对病毒变种影响的担忧成真，尽管可能需要数周时间才能获得有关其特征的所有信息。英国卫生安全局表示，英国尚未发现感染该病毒变种的病例。",
+          "link": "https://www.solidot.org/story?sid=69768",
+          "publishedOn": "2021-11-26T04:40:11.000Z",
+          "wordCount": 78,
+          "title": "南非发现新冠新变种"
+        },
+        {
           "id": "https://www.solidot.org/story?sid=69767",
           "author": null,
           "description": "周四北京市智能网联汽车政策先行区对外发布《北京市智能网联汽车政策先行区自动驾驶出行服务商业化试点管理实施细则（试行）》，向部分企业颁发国内首批自动驾驶车辆收费通知书。百度Apollo是北京首批获准开展自动驾驶商业化收费运营的企业之一。一位记者试用百度Apollo自动驾驶出行服务平台“萝卜快跑”，在长 5.8公里的行程中，自动驾驶车辆在路况良好的道路上用时 13分钟（不含等待时间）完成订单，期间经历变道、左转弯、等红灯、礼让行人等均自如完成，车内安全员只在行程开始和结束时段有将手放在方向盘上的介入。此订单正常计费 41.2 元，在使用优惠券后仅需支付 2.06 元。目前北京市自动驾驶出行服务商业化试点区域仅限北京亦庄约 60 平方公里范围限定区域内的开放道路上，拿到许可的企业在此区域内约有 100 辆无人车的运营规模。",
@@ -1191,6 +1326,15 @@
           "publishedOn": "2021-11-25T13:23:16.000Z",
           "wordCount": 81,
           "title": "北京批准百度试点商业化自动驾驶"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69766",
+          "author": null,
+          "description": "在 Linux 桌面上部署应用曾是一件难事，问题在于库兼容性。不同的发行版，或相同发行版的不同版本，都有着不兼容的库。Linux 桌面缺乏向后兼容的文化传统。但情况已经发生了改变。Linux 桌面的稳定性最近几年有了显著的改善，核心库的开发者终于看到了维护兼容性的好处。尽管如此，应用开发者并没有充分利用预装在发行版上的稳定库，而是转向了容器化打包格式  Flatpak、Snap、AppImage、Docker 和 Steam：运用容器技术将所需要的运行时库直接封装在应用内。Flatpak 自称是应用发行的未来，但容器化打包格式并不是 Linux 应用的未来。简单举一个例子，AppImage 的计算器应用 KCalc 高达 152 MB，Flatpak 的相同应用 KCalc 在系统上首次安装需要下载 900 MB，而事实上 KCalc 应用本身只有 4.4 MB，其余都是系统上已安装了的冗余库。再下载一个 GIMP，两个应用就占用了 3GB 磁盘空间。除了更大的磁盘空间外，容器化应用还会占用更多内存，启动时间也更慢。想象下，为了启动一个计算器应用你每次需要等待 7 秒钟。",
+          "link": "https://www.solidot.org/story?sid=69766",
+          "publishedOn": "2021-11-25T12:43:12.000Z",
+          "wordCount": 104,
+          "title": "容器化打包格式不是 Linux 应用的未来"
         },
         {
           "id": "https://www.solidot.org/story?sid=69765",
@@ -4125,195 +4269,6 @@
           "publishedOn": "2021-10-29T01:19:21.000Z",
           "wordCount": 110,
           "title": "Facebook 改名为 Meta"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69420",
-          "author": null,
-          "description": "P vs NP 问题被视为理论计算机科学和数学领域最重要的问题，但解决该问题被认为完全遥不可及。它旨在解决计算的前景、极限和目标的核心问题，即：\n\n\n为什么有些问题比其他问题更难？\n\n计算机可以实际解决哪些问题？\n\n需要多少时间？\n\n\n这是一项具有重大哲学和实践回报的探索。德州奥斯丁的计算机科学家 Scott Aaronson 在他的思想回忆录《Quantum Computing Since Democritus》中写道：“看，这个P vs NP的问题，我还能说什么？人们喜欢将其描述为‘可能是理论计算机科学中尚未解决的核心问题。’这是一种轻描淡写的可笑说法。P vs NP 是人类曾经提出过的最深刻的问题之一。”可以用这种方式理解这个问题：“P”代表计算机可以轻松解决的问题。“NP” 代表一旦解决就很容易检查的问题，比如拼图游戏或数独游戏。许多 NP 问题对应的是社会面临的一些最顽固和最紧迫的问题。价值百万美元的 P vs. NP 问题是：这两类问题是同一类吗？也就是说如果能找到正确快速的算法，那么看起来如此困难的问题实际上能在合理的时间内用算法解决吗？如果是这样，许多难题突然就可解了。它们的算法解决方案可以带来乌托邦式的社会变革——在医学、工程和经济学、生物学和生态学、神经科学和社会科学、工业、艺术、甚至政治等领域。",
-          "link": "https://www.solidot.org/story?sid=69420",
-          "publishedOn": "2021-10-28T12:18:18.000Z",
-          "wordCount": 102,
-          "title": "P vs NP 问题困扰理论计算机科学"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69419",
-          "author": null,
-          "description": "倡导者再次获得 DMCA 豁免，为盲人制作文本的可读版本。但豁免的有效期只有三年，他们认为应获得永久性的豁免。“信息想要自由”是数字生活中的陈词滥调。人们认为互联网能让梦想成真，打破障碍并让任何人都可以连接任何地方的数据。但是在万维网发明 32 年之后，有阅读障碍的人——由于失明或者其他障碍无法阅读印刷文本的人——仍在等待承诺的实现。盲人权益的倡导者在无休止地战斗，以帮助盲人获得可以阅读的电子书，视力正常的人认为是理所当然，但在现实中却受制于版权法，企业和出版商并不想满足盲人的需求。过去的一年，他们进行了漫长的请愿，以争取 1998 年《数字千年版权法案》（DMCA）的重要豁免权，该法案为人们创建可使用的电子书版本提供了法律保障。\n\n\nDMCA 法案的第 1201 条是一个三年期的过程，国会图书馆在此过程中考虑保护版权所有者的规则的例外情况。自 2002 年以来，倡导盲人权益的团体把冗长的文件放在一起要求得到豁免——允许为了可访问性而绕过电子书的版权保护。每三年，他们都必须重复这一过程，就像是西西弗斯把石头推上山。周三美国版权局发布报告，建议国会图书馆馆长再次给予为期三年的豁免。在某种程度上，这次胜利被它所代表的斗争所玷污。尽管豁免保护了为了可访问性而绕过 DRM 保护的人——如通过使用第三方程序提取文本并将其保存为不同的文件格式——但是它打击了很多人，是一种根本的不公正。\n\n\n美国盲人联合会主席 Mark Riccobono 表示：“随着主流接受电子书，可访问性消失了……这只是事后诸葛亮。” 出版商没有义务通过文本到语音转换（TTS）等功能让盲人可以使用他们出版的电子书。TTS 可以朗读屏幕上的文本，你可以在阅读该文本的任何设备上使用它。十多年前，出版商与亚马逊就 Kindle 2 电子阅读器上默认启用 TTS 功能进行了斗争，认为此举侵犯了他们的有声读物版权。现在出版商自行决定在某本书上启用或者禁用 TTS。即使 TTS 已经变得越来越普及，也不能保证盲人能享受亚马逊 Kindle 书店里的任何一本特定的小说、教科书或者手册。这是豁免如此重要的原因——也是为什么倡导者一遍又一遍地做这项工作以从国会图书馆获得豁免的原因。",
-          "link": "https://www.solidot.org/story?sid=69419",
-          "publishedOn": "2021-10-28T11:57:17.000Z",
-          "wordCount": 105,
-          "title": "盲人获得破解电子书 DRM 的权利但有效期只有三年"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69418",
-          "author": null,
-          "description": "通用汽车、通用电气、3M和波音等美国大型制造商均面临物流难题和全球供应瓶颈导致的成本上升，这些问题可能会持续到明年，但这些企业一致认为，通过提高商品价格可以缓解对利润的打击。几个月前，全球各地企业均就供应问题敲响警钟，这些问题推高了从化学品到钢铁等原材料价格。工业巨头 3M 下调全年盈利预估，并表示将提高产品价格以缓解通胀和供应链压力。",
-          "link": "https://www.solidot.org/story?sid=69418",
-          "publishedOn": "2021-10-28T11:41:48.000Z",
-          "wordCount": 73,
-          "title": "美国制造业通过涨价缓解短缺危机"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69417",
-          "author": null,
-          "description": "因法国法律禁止新书打折，Sophie Fornairon 的独立书店在亚马逊的崛起中存活下来，但她表示，电商巨头降低运费的能力仍对她这样的书店产生了不利影响。作为巴黎市中心 Canal 书店的所有者 Fornairon 现在希望新立法能为图书送货设定最低价格，帮助实体书店进一步与亚马逊展开竞争。雇佣了四名工人的 Fornairon 表示：“这是向公平竞争环境的回归……在短期内我们没有倒闭的风险，但是对抗亚马逊是一场持久战。”\n\n\n法国法律禁止书籍免费送货，但亚马逊用收取一分钱的做法规避了限制。当地书店通常会收取 5 到 7 欧元的送货费。法国文化部表示，亚马逊的定价策略导致单一运营商的市场份额不断增长。文化部表示：“这项法律对于规范在线图书销售扭曲竞争并防止垄断是必要的，如果现状持续，不可避免地会出现垄断。”负责起草该法律的中右翼参议员 Laure Darcos 观察到，书店在新冠疫情早期的封锁期间被迫关闭却仍保持了 70% 的业务，这是因为政府报销了运费，因此她决定设立最低送货费。Darcos 表示：“这表明运费成本对本地书店造成了多大的打击。”当被问及此项立法何时颁布时，文化部拒绝透露具体日期，表示还为时过早。",
-          "link": "https://www.solidot.org/story?sid=69417",
-          "publishedOn": "2021-10-28T11:27:36.000Z",
-          "wordCount": 91,
-          "title": "法国采取措施保护图书业免受亚马逊影响"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69416",
-          "author": null,
-          "description": "英国新冠死亡率达到了上次封锁高峰（3月份）之后的最高水平。这种情况的出现是因为 Delta  毒株的 AY.4.2 新变体开始在英国占据主导地位。进入冬季后，英国新冠患者的增加导致了医疗系统的崩溃，患者在长时间等待护理甚至是等待期间死亡。尽管现在的情况和 2020 年有一些相似，而且对 AY.4.2 变种可能会免疫逃逸存在着一些担心，英国财政大臣决定致力于一项以疫苗为主的战略，而其他国家似乎并不关心 CDC 宣布没有计划采取任何措施限制 AY.4.2 变种的传播。",
-          "link": "https://www.solidot.org/story?sid=69416",
-          "publishedOn": "2021-10-28T11:18:54.000Z",
-          "wordCount": 87,
-          "title": "因 Delta 病毒新变种英国新冠死亡人数创下半年新高"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69415",
-          "author": null,
-          "description": "一个国际科学家团队通过一种新的 DNA 分析方法证实了著名拉科塔酋长坐牛(Sitting Bull)后代的血统，该方法旨在使用古老的 DNA 片段追踪家谱。研究论文发表在《Science Advances》期刊上，作者在论文中表示，是首次使用这种分析确认死者和活人之间的联系——研究中是坐牛和他的曾孙 Ernie LaPointe。\n\n\n研究方法可广泛用于任何历史问题，甚至涉及从古代 DNA 中收集的有限遗传数据。论文合作者、剑桥大学的 Eske Willerslev 表示：“原则上，你可以调查你想要调查的任何人——从 Jesse James 这样的不法之徒到俄罗斯沙皇Romanovs 家族。如果有古老的 DNA——通常是在骨头、头发或者牙齿里，都可以用相同方式检查。”\n\n\n坐牛（Tȟatȟáŋka Íyotake）是拉科塔的一名部落领袖，因 1876 年 6 月 25 日至 26 日在小巨角河战役（又名油腻草之战）中击败 George Armstrong Custer 中校的第 7 骑兵团而闻名。之前受其精神感召并为了在对抗美国军队中寻求安全，各大部落不断加入坐牛的营地。他们的人数很快增加到 10,000 多人。Custer 的军队在袭击营地时，遇到了人数远超于己的对手而被迫撤退。苏族战士最终杀死了 Custer 和他的大部分手下，此役后来被称为 Custer 的最后一战。但这场胜利是短暂的，美国调派更多士兵，大部分部落投降，坐牛选择迁移到加拿大。因缺乏食物坐牛的部落返回了美国。",
-          "link": "https://www.solidot.org/story?sid=69415",
-          "publishedOn": "2021-10-28T11:02:45.000Z",
-          "wordCount": 117,
-          "title": "酋长坐牛头发 DNA 证明曾孙身份"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69414",
-          "author": null,
-          "description": "NASA 询问美国航空航天业，它如何才能最大限度地提高 Space Launch System （SLS）及相关地面系统的长期效率和可持续性。\n\n\n这个问题是在 NASA 及火箭主承包商波音经过长达十余年漫长艰巨昂贵的开发过程后提出的。运送 Orion 飞船的 SLS 重型运载火箭预计在 2022 年上半年首次亮相。\n\n\n在问询中，NASA 表示希望 SLS 火箭作为一项国家能力能飞行“30 年或更长时间”。此外它希望该火箭成为“可持续且可负担得起的系统，将人类和大型有效载荷运送到地月和外太空目的地。”\n\n\nNASA 将其视为发射系统的“主力租户”， 并在未来十年或更长时间内每年采购一次载人飞行。它表示在适当的情况下会将大型运载火箭“推销”给其他客户，包括科学界和其他政府和非政府实体。",
-          "link": "https://www.solidot.org/story?sid=69414",
-          "publishedOn": "2021-10-28T10:27:02.000Z",
-          "wordCount": 99,
-          "title": "NASA 想要以半价购买 SLS 火箭"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69413",
-          "author": null,
-          "description": "美国伊利诺伊州 Lake 县搜救队（LCSAR）表示，他们上周接到报告，一名徒步者没有从埃尔伯特山回来。LCSAR 在其 Facebook 帖子里表示，这名徒步者于 10 月 18 日上午 9 点出发，到晚上 8 点未归。救援人员多次尝试拨打手机，但始终无法联系到对方。LCSAR 的五名成员在容易迷路的地方寻找徒步者，在凌晨 3 点停止了搜索。一个由三个人组成的搜救小组在早上 7 点搜索了另一个地区。他们在上午 9 点 30 分左右接到电话，说徒步者已经返回了住处。LCSAR 称，这名徒步者不知道救援人员在找他。LCSAR 写道：“值得注意的是，对方忽略了我们反复打来的电话，因为他不认识这个号码……如果你没有按照计划行程，并且不断接到未知号码来电，请接听电话；这可能是搜救队在试图确认你是否安全！”",
-          "link": "https://www.solidot.org/story?sid=69413",
-          "publishedOn": "2021-10-28T10:12:00.000Z",
-          "wordCount": 95,
-          "title": "失踪徒步者无视救援人员电话，因为号码未知"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69412",
-          "author": null,
-          "description": "几乎所有细胞会在 24 小时内调节其生物过程，这被称为细胞的昼夜节律。细胞使用了一个生物钟，在白天和夜晚循环打开和关闭不同的基因。科学家已经知道，当生物钟被打破时，如由于工作或睡眠更替障碍，代谢健康会受到影响。目前尚不清楚 2 型糖尿病患者与健康人的生物钟究竟有何不同。现在一个国际科学家小组证明，2 型糖尿病患者的骨骼肌具有不同的昼夜节律。他们认为，这可能是由于细胞计时分子和线粒体之间的通讯中断造成的，线粒体为细胞生产化学能。一部分广泛使用的 2 型糖尿病药物治疗会影响线粒体，这意味着它们的作用可能会因为在一天之内的不同时间服用而不同。这项发现凸显了在为 2 型糖尿病患者开具治疗处方时考虑细胞节律的重要性。",
-          "link": "https://www.solidot.org/story?sid=69412",
-          "publishedOn": "2021-10-28T10:01:00.000Z",
-          "wordCount": 80,
-          "title": "糖尿病患者的线粒体跟不上时间"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69411",
-          "author": null,
-          "description": "1970 年代，当著名的旅行者号双子飞船离开地球时，它们原定只执行为期五年的任务。如今分别距离地球 140 亿英里和 110 亿英里的旅行者1号和旅行者2号仍在不断地发送科学数据。\n\n\n旅行者号双子飞船不能永远继续下去。科学家估计，飞船上最后一批仪器最迟将于 2031 年关闭——如果没有提前发生故障的话。这是为什么 NASA 想要一个替代品的原因——这一次新的星际任务一开始就将被设计为要运行很长的时间。负责设计新任务的约翰霍普金斯大学应用物理实验室的科学家认为，旅行者号的继任者将工作一个多世纪。\n\n\n名为 Interstellar Probe 的新项目可能会在 2030 年代的某个时候启动。它将比现存或者可预见未来可能出现的任何人造物体都飞得更快更远。该计划准备让探测器访问太阳系外围的 130 颗已知矮行星中的一颗或多颗。有线索表明，部分冰雪世界可能形成了海洋世界。",
-          "link": "https://www.solidot.org/story?sid=69411",
-          "publishedOn": "2021-10-28T09:52:09.000Z",
-          "wordCount": 91,
-          "title": "NASA 计划可持续一百多年的星际任务"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69410",
-          "author": null,
-          "description": "卡内基梅隆大学（CMU）的研究人员挑战一个长期以来的假设，即在使用机器学习做公共政策决策时，要在准确性和公平性之间进行权衡。\n\n随着刑事司法、招聘、医疗保健服务和社会服务干预等领域对机器学习的使用不断增加，人们愈来愈担心此类应用会引入新的或者扩大现有的不平等，特别是针对少数族裔和经济劣势人群。为了防止此类偏见，机器学习系统的数据、标签、模型训练、评分系统等方面都进行了一些调整。基本的理论假设是这些调整让系统变得不太准确。\n研究论文发表在《Nature Machine Intelligence》上。\n\n研究人员发现，针对准确性进行优化的模型——机器学习的标准实践——可以有效地预测感兴趣的结果，但在干预建议方面表现出相当大的差异。当研究人员对旨在提高公平性的模型的输出进行调整时，他们发现基于种族、年龄或收入的差异（视情况而定）的不平等可以被消除，而且不会降低准确性。",
-          "link": "https://www.solidot.org/story?sid=69410",
-          "publishedOn": "2021-10-28T09:41:02.000Z",
-          "wordCount": 76,
-          "title": "机器学习可以既公平又准确"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69409",
-          "author": null,
-          "description": "美国桑迪亚国家实验室演示了不依赖 GPS 的先进寻路技术。\n\n\n一年多来，牛油果大小的真空室包含了一团原子云，在合适的环境下进行精确导航测量。桑迪亚国家实验室的科学家 Peter Schwindt 表示，这是首个小型节能并足够可靠的设备，有望将量子传感器——使用量子力学技术、优于传统传感器——从实验室扩展到商业用途。他表示，作为未来不依赖 GPS 卫星的导航系统的核心，桑迪亚开发了该真空室。今年早此时候《AVS Quantum Science》期刊介绍了这项技术。\n\n目前，全球无数的设备都使用 GPS 寻路。其关键部分是计时精确的原子钟，可以使卫星网络完美同步。但是 Schwindt 表示，GPS 信号可能会受到干扰或者欺骗，可能导致商用和军用车辆的导航系统失效。Schwindt 表示，未来车辆可能不是依赖卫星去跟踪自己的位置。它们可以用像原子钟一样精确的机载设备来实现，通过将激光照射到小团的铷气云（类似桑迪亚）测量加速度和旋转。",
-          "link": "https://www.solidot.org/story?sid=69409",
-          "publishedOn": "2021-10-28T08:47:30.000Z",
-          "wordCount": 92,
-          "title": "桑迪亚实验室展示不依赖 GPS 的先进寻路技术"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69408",
-          "author": null,
-          "description": "印度最高法院下令对政府是否使用间谍软件 Pegasus 非法监视记者、活动人士和政治反对派进行独立调查。最高法院周三决定成立一个独立委员会调查印度政府是否以及如何使用以色列的间谍软件，在莫迪政府多年的阻挠之后，这是隐私活动人士的重大胜利。该命令是对几位印度记者和活动人士提起诉讼的回应，其中一些人被《卫报》等媒体披露为 Pegasus 的受害者。\n\n\nPegasus 是一种网络武器，能入侵目标智能手机，提取内容并启用设备的麦克风和摄像头。媒体对受感染手机的分析，以及据信由 Pegasus 开发商 NSO Group 的客户挑选出的“感兴趣的人”的名单（名单上有 50,000 多个电话号码）都强烈暗示印度政府正在使用该工具。德里一直拒绝承认曾使用过 Pegasus。独立委员会将由三名网络安全专家组成，他们的工作将受一名退休的最高法院法官监督，将在两个月内提交报告。作为实施调查工作的一部分，专家组将有权传唤证人并寻求文件，如果个人或政府拒绝合作，他们可以发布不利的调查结果。法院已在报告截止日期之后安排了一个听证会，表明其打算继续跟进这个问题。",
-          "link": "https://www.solidot.org/story?sid=69408",
-          "publishedOn": "2021-10-28T07:43:41.000Z",
-          "wordCount": 87,
-          "title": "印度最高法院下令调查政府是否使用 Pegasus"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69407",
-          "author": null,
-          "description": "两台中国超算率先突破 Exascale 大关： 第一台是无锡国家超算中心的神威太湖之光，它最初使用申威 SW26010 处理器，由上海高性能集成电路设计中心设计，超算由 40,960 个节点构成，每个处理器为一个节点单元，每个处理器包含 了 260 个核心，总共 10,649,600 个核心，升级后处理器核心数翻了一番，节点数翻了一番，使用了新的互联系统，新的 CPU 制造工艺，峰值性能达到  1.3 ExaFLOPS，持续性能 1.05 ExaFLOPS，功耗 35 兆瓦；第二台是广州国家超算中心的天河三号，使用基于 Armv8 架构的飞腾  2000+ (FTP)处理器，峰值性能达到  1.3 ExaFLOPS，Rmax 性能超过 1 ExaFLOPS。",
-          "link": "https://www.solidot.org/story?sid=69407",
-          "publishedOn": "2021-10-28T06:23:11.000Z",
-          "wordCount": 102,
-          "title": "中国超算率先突破 Exascale"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69406",
-          "author": null,
-          "description": "Google 一周前开始向部分型号手机推送 Android 12，现在之前被称为  Android 12.1 的下一个版本 Android 12L 释出了开发者预览版本。Google 还同时披露了平板、可折叠手机和 ChromeOS 等大屏幕 Android 设备的统计数据：过去 12 个月有接近 1 亿 Android 平板设备激活，同比增长 20%，而增长速度最快的桌面平台 ChromeOS 同比增长 90%，可折叠设备同比增长  265%。超过 2.5 亿激活的大屏幕设备运行 Android。Android 12L 改进了对大屏幕设备的支持，它的一个新变化是底部的任务栏，允许用户即时切换常用应用，更容易进入分屏模式；通知面板使用了一个可扩展的手风琴式的 UI。",
-          "link": "https://www.solidot.org/story?sid=69406",
-          "publishedOn": "2021-10-28T05:13:29.000Z",
-          "wordCount": 110,
-          "title": "Google 释出 Android 12L 预览版"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69405",
-          "author": null,
-          "description": "美国制药巨头默克(Merk)与联合国支持的“药物专利池”(Medicines Patent Pool)签署了一项具有里程碑意义的自愿许可协议，以扩大其新冠抗病毒药物在整个发展中国家的低成本获取。专家表示，这是制药公司就关键新冠医疗技术达成的首批免专利许可协议之一，如果得到监管机构的批准，将促进默克药物 Molnupiravir 的仿制药的生产。根据该协议，在世卫组织继续将新冠疫情列为公共卫生紧急事件期间，默克将不收取专利费，此举与辉瑞和莫德纳形成鲜明对比。",
-          "link": "https://www.solidot.org/story?sid=69405",
-          "publishedOn": "2021-10-28T04:46:55.000Z",
-          "wordCount": 76,
-          "title": "默克提供新冠口服药免专利费许可证"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69404",
-          "author": null,
-          "description": "据伊朗国家电视台报道，一场针对伊朗电子卡支付系统的网络攻击，扰乱了伊朗全国各地的燃油销售，迫使全国各地的司机在加油站排起长队。“发生的袭击……被视为一场大范围破坏，具有网络攻击的特征。”网络空间最高委员会秘书 Abolhassan Firoozabadi 周二晚间对国家电视台表示。Firoozabadi 表示攻击针对的是加油站的网络管理系统，与燃料的分配和生产无关，可能是某个国家发动的。伊朗没有给出涉嫌发动攻击的国家身份，也没有任何组织宣布对此次攻击负责。有大约 4000 个加油站受到攻击影响，大约 1700 个加油站在数小时内恢复运营。",
-          "link": "https://www.solidot.org/story?sid=69404",
-          "publishedOn": "2021-10-27T15:08:07.000Z",
-          "wordCount": 79,
-          "title": "伊朗据报加油站支付系统遭到网络攻击"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69403",
-          "author": null,
-          "description": "字节跳动开源了它使用的设计系统和 UI 库 Semi Design，采用 MIT 许可证。但它的代码中很快被发现有阿里巴巴设计系统 Ant Design 的痕迹。字节跳动的工程师随后发表了致歉声明，承认早期使用了 Ant Design 的文案，但现在的版本与 Ant Design 相差巨大。工程师称，“Ant Design 是业界优秀的开源设计系统。我们在实现 Semi Design 的过程中，开源社区的优秀实践提供了很多帮助。由于团队的疏忽，历史代码中使用 Ant Design 的文案没有注明出处，我们对此深表歉意。Semi Design 已持续稳定维护了两年多，整体采用 Foundation/Adapter 架构，与 Ant Design 差异较大。Semi 项目开源，期望能够收到更多开发者的反馈，帮助我们改进产品。我们也会更严谨地遵循开源社区规则，积极回馈开源社区。”",
-          "link": "https://www.solidot.org/story?sid=69403",
-          "publishedOn": "2021-10-27T14:53:16.000Z",
-          "wordCount": 110,
-          "title": "字节跳动开源 Semi Design，承认早期参考了阿里的 Ant Design"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69402",
-          "author": null,
-          "description": "传奇影业和华纳兄弟批准导演 Denis Villeneuve 拍摄《沙丘》的第二部分。《沙丘》第一部分于上周末在美国、中国等主要电影市场上映，这部科幻电影只刻画了 Frank Herbert 所著《沙丘》小说的前半部分，还没到高潮就结束了。此类的小说改编如果分成两部分的话，通常会两部一起拍，上映间隔也会比较短。然而投资《沙丘》的电影公司却想看到票房表现之后才对第二部分的拍摄放行，导致的结果是两部电影的上映将间隔两年，这可能会影响电影第二部分的票房。《沙丘》第一部分上周末在北美斩获 4100 万美元，中国 2180 万美元，全球超过 2.2 亿美元。《沙丘》同时上线了华纳的流媒体 HBO Max。《沙丘》第二部分计划在 2023 年 10 月 20 日上映。",
-          "link": "https://www.solidot.org/story?sid=69402",
-          "publishedOn": "2021-10-27T14:44:38.000Z",
-          "wordCount": 91,
-          "title": "传奇影业和华纳兄弟批准拍摄《沙丘》第二部分"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69401",
-          "author": null,
-          "description": "贝索斯(Jeff Bezos)旗下的 Blue Origin 公布了名为“轨道礁（Orbital Reef）”的私人空间站计划，该公司将与包括波音在内的多家航天公司合作建造这一空间站，预计 2020 年代末建成并部署。“轨道礁”将最多可容纳 10 人，该公司描述其为太空中的“多用途商业园区”，能为太空游客提供“异国风情的接待”。按该私人空间站的设计，可居住空间为 830 立方米，比国际空间站（916立方米）略小。“轨道礁”的基础配置包括电源系统、核心模块、生命栖息所、科学模块和宇宙飞船。在“轨道礁”建设过程中，Blue Origin 将提供“实用系统”和“核心模块”，并计划使用其重型运载火箭进行发射。波音将负责“轨道礁”的运行和维护，还将提供科学模块。项目组成员表示，“轨道礁”的客户包括各国政府、私营企业和太空游客。国际空间站预计将于 2028 年至 2030 年退役，届时“轨道礁”或可接棒。",
-          "link": "https://www.solidot.org/story?sid=69401",
-          "publishedOn": "2021-10-27T13:37:17.000Z",
-          "wordCount": 92,
-          "title": "Blue Origin 计划建造商业空间站"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69400",
-          "author": null,
-          "description": "育碧本月初发售的动作游戏 《孤岛惊魂6》将故事背景设定在一个虚构的加勒比岛国，玩家将扮演游击队员去推翻 Antón Castillo 在当地的独裁统治。但玩家发现，如果没有通关或者玩了几小时就放弃不玩的话，育碧会发送邮件以 Antón Castillo 的名义进行嘲讽，称你失败了。有玩家抱怨说，游戏中存在恶性 bug，会破坏玩家玩了十几小时的存档，在存档坏了之后放弃继续游戏，结果还可能会被开发商进行二次嘲讽。很多游戏会嘲讽玩家，比如《德军总部》系列中简单模式会把玩家描述成爱哭的婴儿。如果你在游戏中失败太多次之后，《Devil May Cry 3》会提供简单模式，《侠盗猎车V》会允许玩家跳过任务，《Doom Eternal》会将伤害减半。",
-          "link": "https://www.solidot.org/story?sid=69400",
-          "publishedOn": "2021-10-27T12:59:18.000Z",
-          "wordCount": 83,
-          "title": "如果你《孤岛惊魂6》未通关育碧会发邮件嘲讽你"
         }
       ]
     },
@@ -4328,6 +4283,24 @@
       "feedUrl": "https://rss.lilydjwg.me/zhihu/ningnanshan",
       "siteUrl": "https://www.zhihu.com/people/ningnanshan",
       "articles": [
+        {
+          "id": "https://www.zhihu.com/pin/1447540917557620736",
+          "author": "宁南山",
+          "description": "深圳的最低工资标准终于涨了，相比当前2200元的最低工资标准涨幅为7.27%，新标准将于2022年1月1日起实施,当前的2200元的最低工资标准是2018年8月1日起开始执行的。\n今天，深圳市人力资源和社会保障局发布关于调整本市最低工资标准的通知，深圳将上调最低工资标准，全日制就业劳动者月最低工资标准调整为2360元/月；非全日制就业劳动者小时最低工资标准从20.3元调整为22.2元/小时。\n一线城市得争取到2030年最低工资标准涨到5000以上，这样至少在老家买房买车会容易点，毕竟从七普看现在全国有44%的城市，其人口已经在下降了，这些区域的房价未来保持平稳或者下跌的可能性最大。",
+          "link": "https://www.zhihu.com/pin/1447540917557620736",
+          "publishedOn": "2021-11-26T04:24:08.000Z",
+          "wordCount": 9,
+          "title": "[想法] 深圳的最低工资标准终于涨了，相比当前22…"
+        },
+        {
+          "id": "https://zhuanlan.zhihu.com/p/437968092",
+          "author": "宁南山",
+          "description": "2016-2020年我国关键军事装备进展\n11月25日的国防部新闻发布会，总结了十三五期间我国骨干军事装备的建设成就，这个总结短小精干，基本把我军官方认为骨干装备进展情况总结全了。也就是说，从2016-2020年，我军在关键军事装备上有哪些进展，这里官方总结好了。\n我觉得很多时候就是这样，对短短的几句话的总结进行学习，就能够获得大量的信息量，从而对我国过去的五年（十三五期间，2016-2020年）我国关键军事技术的进展有总体的了解。\n\n首先是陆军装备：15式新型轻型坦克，远程箱式火箭炮，直-20直升机（也有海基版）列装部队。\n这里先说下这个“远程箱式火箭炮”，这款对于台独非常适用，是在2019年国庆阅兵中首次亮相，南京理工大学官方微博曾经发文介绍过其总设计师汤祁忠，因为汤总师的本科四年就是在南京理工大学读的。\n该文提到，该型火箭炮：\n2013年项目立项，2019年完成列装定型，汤总师说，起步很艰难，每天都有难题出现。\n这套武器系统的关键技术有120余项，其中有20多项是核心的关键技术，是瓶颈技术。\n\n\n1：十五分钟就可以教会一个完全没有任何武器知识的人进行精准操作 ;\n2：射程可以达到300公里，且打击精度非常精准;\n3：自动化的装弹系统，原来装一车弹药需要一个小时，现在装一车弹十分钟就可以完成操作;\n4：该武器系统遵从了低成本的设计理念，成本是导弹的三分之一，既能打得远打得准，还能打得起。 \n当然这款火箭炮，我们首先想到的是未来在台海作战，可以直接在大陆进行跨海峡对台独顽固势力进行火力覆盖打击，这个意义重大，毕竟成本比导弹低，而且在西南方向震慑印度也是很有军事意义的。\n再说下直20，这个是战术通用直升机，有陆基型和海基型，是哈尔滨的哈飞的代表作。我们可以看下哈飞2021年11月1日的公众号中，在号召全公司员工抗击疫情时，特意列举了哈飞历史上的高光产品，\n一个是直九的国产化…",
+          "link": "https://zhuanlan.zhihu.com/p/437968092",
+          "publishedOn": "2021-11-26T03:25:42.000Z",
+          "wordCount": 74,
+          "title": "[文章] 2016-2020年我国关键军事装备进展"
+        },
         {
           "id": "https://zhuanlan.zhihu.com/p/435850020",
           "author": "宁南山",
