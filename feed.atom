@@ -2,10 +2,301 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-02T00:58:05.964Z</updated>
+    <updated>2021-12-03T00:57:23.194Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 186 期）：低纬度，高海拔，气候优势]]></title>
+        <id>http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2021/12/weekly-issue-186.html"/>
+        <updated>2021-12-03T00:40:23.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test Your Site With Real Users]]></title>
+        <id>https://css-tricks.com/?p=357368</id>
+        <link href="https://css-tricks.com/test-your-site-with-real-users/"/>
+        <updated>2021-12-02T22:13:27.000Z</updated>
+        <summary type="html"><![CDATA[A few years ago, there was this French book publisher. They specialize in technical books and published an author who wrote a book about CSS3, HTML5 and jQuery. The final version, however, a glaring typo on the cover where “HTML5” …]]></summary>
+        <author>
+            <name>Stéphanie Walter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace your code’s transience]]></title>
+        <id>https://css-tricks.com/?p=357600</id>
+        <link href="https://css-tricks.com/embrace-your-codes-transience/"/>
+        <updated>2021-12-02T15:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Websites change. Healthy codebases are constantly being updated. Legacy code dies when it eventually goes down with the ship. Recognizing that my code is transient allows me to be more practical about my code and what guides my decision-making as …]]></summary>
+        <author>
+            <name>Jake Albaugh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractional SVG stars with CSS]]></title>
+        <id>https://css-tricks.com/?p=358210</id>
+        <link href="https://css-tricks.com/fractional-svg-stars-with-css/"/>
+        <updated>2021-12-02T15:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Some ⭐️⭐️⭐️⭐️⭐️ star rating systems aren’t always exactly even stars. Say you want to support rating something 2.25 stars. To do that you could “fill” the shape of the stars partially. I like this idea by Samuel Kraft. The tricky …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streaming Optimized Videos From AWS S3 in Minutes]]></title>
+        <id>https://css-tricks.com/?p=357012</id>
+        <link href="https://css-tricks.com/streaming-optimized-videos-from-aws-s3-in-minutes/"/>
+        <updated>2021-12-02T15:41:22.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Videos appeal to humans in a way no other form of the content does. A video includes motion, music, still images, text, speech, and a few other elements, all of which combine to deliver …]]></summary>
+        <author>
+            <name>ImageKit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超音速投石机]]></title>
+        <id>https://www.solidot.org/story?sid=69855</id>
+        <link href="https://www.solidot.org/story?sid=69855"/>
+        <updated>2021-12-02T14:40:04.000Z</updated>
+        <summary type="html"><![CDATA[投石机是一种弹射器，在火药兴起之前曾被用作攻城器械。投石机使用长臂将抛射物投掷得比传统弹射器更远。重点通常是根据抛射物的大小增加投掷距离，反之亦然。但它的速度能有多快？David Eade 回答了这个问题，他还通过 YouTube 视频记录了整个过程。他制造投石机的抛射物速度能超过每秒 450米（声速是每秒 340 米），而他使用的零部件大部分是木头和橡胶带，以及一些金属碎片。视频完整地解释了他的投石机的所有工程，比你想象的要少得多。有一个非常令人满意的全功率投石机发射蒙太奇，可以清楚地听到投掷的抛射物远远超过音速，非常接近小型步枪的速度。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepMind 的 AI 帮助发现新猜想和定理]]></title>
+        <id>https://www.solidot.org/story?sid=69854</id>
+        <link href="https://www.solidot.org/story?sid=69854"/>
+        <updated>2021-12-02T14:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Alphabet 旗下 DeepMind 公司的 AI 技术帮助数学家发现了新猜想和定理。 从 1960 年代开始，数学家开始使用计算机帮助发现规律和提出猜想，但人工智能系统尚未普遍应用于理论数学研究领域。
+
+论文通讯作者、DeepMind 的 Alex Davies 和数学家一起建立了一个机器学习框架，用于协助数学研究。他们的算法搜索数学对象间潜在的规律和联系，尝试寻找意义。其后由数学家接手，利用这些观察来引导他们对潜在猜想的直觉。他们将机器学习框架这一方法应用于两个纯数学领域，发现了拓扑学(对几何形状性质的研究)的一个新定理，以及一个表示论(代数系统研究)的新猜想。他们总结认为，机器学习框架能鼓励未来数学和人工智能领域的合作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla NSS 库发现高危漏洞]]></title>
+        <id>https://www.solidot.org/story?sid=69853</id>
+        <link href="https://www.solidot.org/story?sid=69853"/>
+        <updated>2021-12-02T14:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Google Project Zero 安全研究人员 Tavis Ormandy 在广泛使用的 Mozilla Network Security Services (NSS)签名验证库发现了一个本应该早就发现的高危漏洞：一个简单的边界检查问题会导致内存破坏（memory corruption）。NSS 至少从 2014 年开始就支持模糊测试，但 NSS 库是一个模块化库，每个不同组件是独立测试的，在测试时对输入的字符长度设置了一个任意的 10000 字节限制，而 NSS 库却对此没有限制，但它验证的签名长度超过 16384 比特时会导致内存覆写。这个问题本应该很容易发现，Google 研究人员将其命名为“BigSig”，Mozilla 称编号为 CVE-2021-43527 的漏洞不影响 Firefox，但其它使用 NSS 库的软件如 Thunderbird、LibreOffice、Evolution 和 Evince 会受到影响。Google Chrome 在 2015 年前使用过 NSS 库，之后用自己的 BoringSSL 替换了 NSS。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[豆瓣再次被罚款和整改]]></title>
+        <id>https://www.solidot.org/story?sid=69852</id>
+        <link href="https://www.solidot.org/story?sid=69852"/>
+        <updated>2021-12-02T11:51:46.000Z</updated>
+        <summary type="html"><![CDATA[网信办发表声明，约谈豆瓣网主要负责人、总编辑，针对近期豆瓣网及其账号屡次出现法律、法规禁止发布或者传输的信息，情节严重，依据《中华人民共和国网络安全法》等法律法规，责令其立即整改，严肃处理相关责任人。北京市互联网信息办公室即对豆瓣网运营主体北京豆网科技有限公司依法予以共计 150 万元罚款的行政处罚。2021 年 1 月至 11 月，国家互联网信息办公室指导北京市互联网信息办公室，对豆瓣网实施 20 次处置处罚，多次予以顶格 50 万元罚款，共累计罚款 900 万元。根据豆瓣在站内的声明，从 12 月 2 日到 17 日所有小组回复功能暂停。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 和工业界拥抱激光通信]]></title>
+        <id>https://www.solidot.org/story?sid=69851</id>
+        <link href="https://www.solidot.org/story?sid=69851"/>
+        <updated>2021-12-02T11:26:51.000Z</updated>
+        <summary type="html"><![CDATA[电视和电脑屏幕以高清方式显示新闻、电影和节目，让观众获得生动清晰的体验。光纤连接通过电缆发送的激光承载了大量数据，为用户带来这些体验。NASA 和商业航空航天公司正将类似的技术应用于太空通信，将光速带到终极边界。自由空间光通信允许航天器通过激光链路发送高分辨率图像和视频。“自由空间”指的是没有实现地面互联网的绝缘光缆。自由空间激光通信在太空真空中自由流动，但是大气对通信工程师带来了独特的挑战。NASA 的激光通信中继演示（LCRD）将通过激光链路向地面站和太空用户任务发送并接收数据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[合成组织可修复心脏、肌肉和声带]]></title>
+        <id>https://www.solidot.org/story?sid=69850</id>
+        <link href="https://www.solidot.org/story?sid=69850"/>
+        <updated>2021-12-02T11:18:54.000Z</updated>
+        <summary type="html"><![CDATA[麦吉尔大学机械工程系博士生 Guangyu Bao 表示：“从心脏损伤中恢复过来的人通常面临着漫长而艰苦的旅程。愈合具有挑战性，因为组织在心脏跳动时必须不断运动。声带也是如此。到目前为止，还没有足够坚固的可注射材料能够胜任这项工作。”由 Luc Mongeau 教授和 Jianyu Li 助理教授领导的团队开发了一种用于伤口修复的新型可注射水凝胶。这种水凝胶是一种为细胞提供生存和生长空间的生物材料。一旦注入体内，生物材料会形成稳定的多孔结构，使活细胞能生长或穿过以修复受伤的器官。Guangyu Bao 表示：“结果很有希望，我们希望有一天这种新型水凝胶能用作植入物以恢复声带受损人群的声音，例如喉癌幸存者”。科学家开发了一种模拟人类声带极端生物力学状况的机器，用其测试了水凝胶的耐久性。每秒振动 120 次，循环次数超过 600 万次，新的生物材料依然完好无损，而其他标准水凝胶则断裂成碎片，无法承受这种载荷的压力。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食品添加剂改变人体微生物群和肠道环境]]></title>
+        <id>https://www.solidot.org/story?sid=69849</id>
+        <link href="https://www.solidot.org/story?sid=69849"/>
+        <updated>2021-12-02T11:13:48.000Z</updated>
+        <summary type="html"><![CDATA[羧甲基纤维素（CMC）是一类广泛使用的人工合成食品添加剂，作为乳化剂被添加到加工食品中以增强口感并延长保质期。CMC 没有在人体中进行过广泛的测试，但自 1960 年代以来越来越多地被用于加工食品。人们一直认为 CMC 可以安全摄入，因为它会在粪便中被排出而不会被吸收。随着对通常生活在结肠中的细菌提供的健康益处以及它们同非吸收性添加剂的相互作用的认识越来越多，科学家对这个假设提出质疑。在小鼠身上进行的实验发现，CMC 和其他一些乳化剂改变了肠道菌群，在一系列慢性炎症条件下可导致更严重的疾病，包括结肠炎、代谢综合症和结肠癌。但结果多大程度上适用于人类之前尚未进行过研究。
+
+
+美国和欧洲的一个研究小组在健康志愿者中进行一项随机对照进食研究。住在研究场所的参与者食用无添加剂的饮食或添加了羧甲基纤维素（CMC）的相同饮食。由于 CMC 在小鼠身上引发的疾病需要数年时间才能在人体内出现，因此研究人员将重点放在肠道菌群和代谢物上。他们发现 CMC 改变了结肠中细菌的构成，减少了特定的种类。食物中添加 CMC 的参与者的粪便样本中的有益代谢物明显减少，这些代谢物通常被认为可维持结肠健康。
+
+
+最后，研究人员在研究开始和结束时对受试者进行结肠镜检查，注意到一部分食用 CMC 的受试者表现出肠道细菌渗入粘液，这是此前观察到的炎症性肠病和2型糖尿病的特征。因此两周研究中食用 CMC 本身并没有导致任何疾病，但总的来说，结果支持动物研究的结论，即长期食用这种添加剂可能会促进慢性炎症性疾病。因此有必要对该添加剂进行进一步的研究。研究报告发表在《Gastroenterology》期刊上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZeroTier Planet 行星服务器，一键私有部署，可突破 50 台设备限制]]></title>
+        <id>https://www.appinn.com/?p=40669</id>
+        <link href="https://www.appinn.com/zerotier-planet-server-docker-install/"/>
+        <updated>2021-12-02T11:06:40.000Z</updated>
+        <summary type="html"><![CDATA[ZeroTier 是一款即开即用的开源网络服务，它可以将不同物理地点的电脑、手机、网络设备，组成一个虚拟局域网，并拥有较高的安全性。而这些设备，就可以像在家中，或同一个办公室中一样，使用各种内网服务，]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们还能摆脱 COVID-19 吗？]]></title>
+        <id>https://www.solidot.org/story?sid=69848</id>
+        <link href="https://www.solidot.org/story?sid=69848"/>
+        <updated>2021-12-02T09:28:30.000Z</updated>
+        <summary type="html"><![CDATA[年底临近，我们即将迎来新冠疫情两周年。全球已有超过 500 万人死亡，这个数字肯定低估了，尤其是在那些缺乏资源对其人口进行适当检测和疫苗接种的国家。美国报告的死亡人数超过了 750,000 例，从 2020 年初以来，我们看到了四次疫情高峰，每一次我们都希望是最后一次。就在上周，科学家发现了一种严重变异的新变种 Omicron，该变种可能会导致另一波疫情高峰——或许不会产生持久的影响。我们所知有限，无法确定。
+
+
+每个人都准备好迎接疫情的结束，但仍然不清楚会是什么。我们消灭这种病毒的可能性有多大？这到底意味着什么，如果我们能做到，世界会变成什么样？尽管我们对于 SARS-CoV-2（导致 COVID-19 的病毒）还有诸多不解，但已经了解到的知识足以回答其中一些问题。
+
+
+我们可以根除 COVID-19 吗？
+
+
+有些人认为可以。根除病毒运动的倡导者认为 SARS-CoV-2 病毒流行在健康方面代价惨重，带来了持续的经济问题。迄今为止，全球确认感染病例超过 2.5 亿例，死亡人数超过 500 万人，如果没有任何干预，经济学家估计到2030年，COVID-19 感染将耗费美国 1.4 万亿美元。即使有了疫苗，未来几年 COVID-19 仍会在很多方面产生高昂代价。
+
+
+的确，一旦消灭了病原体，就可以减少或取消防疫措施。我们已经不再为公众接种天花疫苗。一份医学期刊认为不排除根除 SARS-CoV-2 的可能性，可能与我们正在进行的根除脊髓灰质炎的工作一样具有挑战性。我不同意这种看法。该病毒的流行病学特征使其不太可能被根除。投资于此类活动将是对有限资源的滥用，高调的根除运动的失败可能会使其他级别的控制变得更困难。
+
+
+根除、灭绝和消灭病毒有什么区别？
+
+
+根除意味着该病毒在自然界中被彻底消灭。我们在人类的天花和动物的牛瘟上实现了这一目标。灭绝则更进一步，还包括销毁实验室库存中的所有样本。这种情况并未在任何一种病原体上发生过，这主要是由于政治而非科学的多种原因：最重要的是，美国和俄罗斯之间的相互不信任，两个国家都保有剩余的病毒库。
+
+
+根除有时候会与消灭混淆。根除是指在全球范围内灭绝病毒（实验室除外），而消灭指的是一种更有限的控制形式，即特定国家的新感染数量减少到零。在美国，我们已经对其他一些病毒做到了这一点，包括引起麻疹、风疹和脊髓灰质炎的病毒。虽然我们最近爆发了麻疹，但每次爆发的最初病例都源自外部——通常是旅行者先在国外被感染，之后造成某地区的麻疹流行。
+
+
+保持消灭状态是困难的。美国一度消灭了麻疹，可是 2019 年该病的流行致使全球病例激增（主要是因为在未接种疫苗人群中的爆发），这差点让美国“破功”。
+
+
+是什么让 COVID-19 如此难以根除？
+
+
+根除的“候选者”通常都有三个特点：可以阻止传播的有效干预，具备快速检测感染的工具以及在非人类动物中没有这种疾病。COVID-19 在这三点上都不符合。
+
+
+我们认为大约 35% 的 COVID-19 感染是无症状的。这使传播控制和诊断变得复杂。每出现一例有症状的病例都有许多其他的感染未被注意到。为了找到他们，我们需要建立广泛的监测计划（正如我们在消灭脊髓灰质炎行动中所做的那样），检查人类病例和污水样本，以确定病毒是否在社区中传播。如果你甚至都不知道这种疾病存在，就很难阻断传播。
+
+
+即使对于有症状的病例，诊断也很困难。与天花不同，天花的症状非常明显，可以很容易地将其与其他引起皮疹的病毒区分开来，而 COVID-19 引起的症状可能与流感和其他呼吸道病毒的症状相似，这意味着快速、准确、广泛且负担得起的检测对确诊病例至关重要。
+
+
+最后病毒目前正在人类以外的多种动物中传播，而且看不到尽头。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国男子安装世界首个 3D 打印义眼]]></title>
+        <id>https://www.solidot.org/story?sid=69847</id>
+        <link href="https://www.solidot.org/story?sid=69847"/>
+        <updated>2021-12-02T08:34:04.000Z</updated>
+        <summary type="html"><![CDATA[伦敦 Moorfields 眼科医院表示，一名英国男子成为世界首位装上 3D 打印义眼的患者。现年 47 岁的 Steve Verze 是一名来自伦敦东部哈克尼的工程师，在周四装上左眼，本月早些时候他试过了该义眼的大小。Moorfields 眼科医院在一份新闻稿中表示，该假体是为首个患者打造的全数字义眼。该医院表示，比替代品更逼真，设计有“更清晰边界和真实深度的瞳孔”。其他的义眼使用的是手绘在圆盘上的虹膜，然后将其嵌入眼窝。医院在新闻稿中补充说，他们的设计可防止光线进入眼睛的“全部深度”。除了看起来更逼真外，该手术被认为侵入性更小。安装传统义眼需要对眼窝进行模具制作，而在 3D 义眼开发中，是对眼窝进行数字扫描以创建详细图像。Verze 好的右眼也接受了扫描，以确保两只眼睛看起来一样。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorp IPO 将使其跻身估值最高的开源科技公司之列]]></title>
+        <id>https://www.solidot.org/story?sid=69846</id>
+        <link href="https://www.solidot.org/story?sid=69846"/>
+        <updated>2021-12-02T08:00:10.000Z</updated>
+        <summary type="html"><![CDATA[提供 Terraform 和 Vagrant 等云服务工具的 HashiCorp 公司计划在感恩节和圣诞节之间进行 IPO，IPO 定价区间将使其跻身估值最高的开源科技公司之列。在最近的 S-1/A 文件中，这家云基础设施管理公司表示，它预计将以每股 68 美元至 72 美元出售公开发行的股票。这个区间可能会在上市前发生变动。如 Nubank 本周就在预期的上市之前调低 IPO 价格区间。按目前的价格范围，HashiCorp 的 IPO 估值可以以两种方式计算。第一种是简单地采用股票数量或者预计在上市后发行的股票数量。第二种是完全稀释的股票数量，其中包括通过期权获得但尚未行权的股票。该公司预计在 IPO 后流通的 A 类和 B 类股票为 178,895,570 股。如果我们算上为其承销实体保留的股票，HashiCorp IPO 的股票数量将上升至 181,190,570 股。使用后一个数字，按每股 68 至 72 美元的 IPO 价格区间计算，HashiCorp 的市值将在 123 亿至 130 亿美元之间。在完全稀释的基础上，该公司的价值要高得多。根据 Renaissance Capital 的数据，按每股 70 美元的价格计算，HashiCorp 的IPO（按更广泛的股票数量计算）的市值为 142 亿美元。如果按照每股 72 美元的价格计算，该公司的市值可能会高达 146 亿美元。2020 年 3 月，这家独角兽的估值约为 50 亿美元，这意味着其 IPO 定价将是一场胜利。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟官员表示半导体独立是不可能的任务]]></title>
+        <id>https://www.solidot.org/story?sid=69845</id>
+        <link href="https://www.solidot.org/story?sid=69845"/>
+        <updated>2021-12-02T07:42:18.000Z</updated>
+        <summary type="html"><![CDATA[欧盟竞争事务专员 Margrethe Vestager 表示，就半导体供应而言，欧盟不太可能完全独立于其他国家。领先的半导体合约制造商——例如英特尔、三星和台积电——每年的资本支出约 300 亿美元，在新工艺技术开发上花费数十亿美元。分析人士认为，一个国家或多个国家想要在当地建立具有竞争力的半导体产业，需要在五年内提供超过 1500 亿美元的直接资助、税收减免和激励措施。但成功的机会非常渺茫。欧盟官员认为，如此规模的投资是不可能的，这是欧盟将继续依赖内部和外部芯片供应的原因。Vestager 在接受 CNBC 采访时表示：“我听说的数字——实现完全自给自足的前期投资额让此事变得不可行。重要的是欧洲内部的生产能力水平不同。”
+
+
+值得注意的是，欧洲不生产智能手机或个人电脑，这两种应用需要尖端制造技术生产的芯片。同时欧盟生产汽车、消费电子产品和其他不需要使用最新节点制造的芯片的东西。因此欧盟希望扩大这些产品的芯片生产以保护其经济。它也不希望供应链受到中国或者与美国和德国紧张局势的干扰。目前全球大约 10% 的芯片供应产自欧洲，而 1990 年这一比例为 40%。欧盟的目标是到 2030 年将其全球芯片生产市场份额扩大到 20%，这已是一个非常雄心勃勃的目标了。Vestager 承认，要实现这一目标，欧盟需要支持本土半导体制造商。不幸的是，Margrethe Vestager 目前没有宣布任何具体的计划。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome OS 更新将 Chromebook 变成扫描仪]]></title>
+        <id>https://www.solidot.org/story?sid=69844</id>
+        <link href="https://www.solidot.org/story?sid=69844"/>
+        <updated>2021-12-02T07:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Google 本周推送了更新 Chrome OS 96，加入了将带摄像头的 Chromebook 笔记本电脑变成扫描仪的功能。用户可以将需要扫描的文档展示在摄像头前面，使用 Camera 应用的扫描模式将其转变成 PDF 或 JPEG。Chrome OS 软件总监 Alexander Kuscher 表示，Google 还将在明年加入将短视频转变成 gif 的功能。该公司还在测试通过语音助手  Google Assistant 控制 Camera 应用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客利用智能合约漏洞窃取 3100 万美元加密货币]]></title>
+        <id>https://www.solidot.org/story?sid=69843</id>
+        <link href="https://www.solidot.org/story?sid=69843"/>
+        <updated>2021-12-02T06:52:37.000Z</updated>
+        <summary type="html"><![CDATA[黑客利用区块链创业公司 MonoX Finance 智能合约的漏洞窃取了价值 3100 万美元的加密货币。该公司使用名为 MonoX 的去中心化金融协议让用户在没有传统交易所要求的情况下交易数字货币代币。其原理是将存入的代币与 vCASH 组合成一个虚拟对，设计提供单一的代币池。在此次攻击中，黑客利用相同的代币作为 tokenIn 和 tokenOut——也就是用一种代币交易另一种代币，每次交易之后 MonoX 会通过计算更新价格，用户发送的代币 tokenIn 的价格会下降，而收到的代币价格会增加。tokenIn 和 tokenOut 使用相同的代币进行交易本来是不允许的，但 MonoX 的软件漏洞允许交易发生，让黑客能人为抬高 MONO 代币的价格，然后在以太坊和 Polygon 区块链上兑换了价值 3100 万美元的加密货币。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia 1.7 发布]]></title>
+        <id>https://www.solidot.org/story?sid=69842</id>
+        <link href="https://www.solidot.org/story?sid=69842"/>
+        <updated>2021-12-02T06:22:46.000Z</updated>
+        <summary type="html"><![CDATA[面向高性能科学计算的编程语言 Julia 释出了v1.7。主要新特性包括：新随机数生成器；新线程能力，解决了运行时的多个竞争条件，改进了多线程下工作负荷调度，默认随机数生成器对线程更友好，支持可变结构字段原子访问；自动包安装，新 manifest 格式，语法变化，改进 Unicode 支持，REPL 新特性，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地球三分之一以上人口从未使用互联网]]></title>
+        <id>https://www.solidot.org/story?sid=69841</id>
+        <link href="https://www.solidot.org/story?sid=69841"/>
+        <updated>2021-12-02T04:22:18.000Z</updated>
+        <summary type="html"><![CDATA[国际电信联盟的数据显示，世界上有 37% 的人口——即29亿人——仍然从未使用过互联网。数据亦显示，全球互联网使用量强劲增长，使用过互联网的人数从 2019 年估计的 41 亿猛增到 2021 年的 49 亿。但连接的能力仍然存在严重的不平等。在仍处于离线状态的 29 亿人中，估计有 96% 生活在发展中国家。即使在被算作“互联网用户"的 49 亿人中，也有数亿人通过共享设备，或使用明显限制其连接效用的连接速度偶尔得到上网机会。国际电联秘书长赵厚麟表示：“虽然现在世界上几乎三分之二的人口已经上网，但要让每个人都连接互联网，依然任重道远。国际电联将与各方合作，确保打造连接其余29亿人的基石。我们决心确保无人掉队"。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack Dorsey 的 Square 公司更名为 Block]]></title>
+        <id>https://www.solidot.org/story?sid=69840</id>
+        <link href="https://www.solidot.org/story?sid=69840"/>
+        <updated>2021-12-02T04:16:11.000Z</updated>
+        <summary type="html"><![CDATA[由 Jack Dorsey 和 Jim McKelvey 在 2010 年联合创办的金融服务和数字支付公司 Square 宣布更名为 Block。Dorsey 现在是 Block 的 CEO。新闻稿解释说，改名是为了将公司实体与业务分离，自创办伊始，公司已经增加了很多业务，如 Cash App、TIDAL 和 TBD54566975，改名不会改变公司架构，Square、Cash App、TIDAL 和 TBD54566975 将会维持各自的品牌，而致力于推广比特币的 Square Crypto 将改名为 Spiral。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IrfanView 4.59 更新，新增 JXL（JPEG XL）格式支持[Windows]]]></title>
+        <id>https://www.appinn.com/?p=40663</id>
+        <link href="https://www.appinn.com/irfanview-4-59/"/>
+        <updated>2021-12-02T04:02:15.000Z</updated>
+        <summary type="html"><![CDATA[IrfanView 是著名的图片浏览器，在 Munk 票选的我最喜爱图片浏览器中排名第二，昨天更新 4.59 版本，新增没什么人用的 JXL（JPEG XL）格式支持。@Appinn 今早 @Dali]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omicron 变种进入美国，在南非成为主流变种]]></title>
+        <id>https://www.solidot.org/story?sid=69839</id>
+        <link href="https://www.solidot.org/story?sid=69839"/>
+        <updated>2021-12-02T02:05:17.000Z</updated>
+        <summary type="html"><![CDATA[距离南非首次发现 Omicron 变种还不到四周，严重变异的 Omicron 正迅速成为那里的主流新冠病毒，而美国周三成为最新一个境内确诊 Omicron 病例的国家。美国首例 Omicron 感染病例出现在加州，该患者已完整接种疫苗，11 月 22 日从南非返回美国，七天后检测为阳性。美国国家过敏暨传染病研究所所长福奇(Anthony Fauci)在白宫对记者表示，该患者症状轻微，正在进行自我隔离。关于这个新变体仍存在一些关键问题。目前已有二十几个国家发现了这种变体，包括西班牙、加拿大、英国、奥地利和葡萄牙。阿联酋在周三报告首例病例，这是继沙特后第二个发现 Omicron 病例的海湾国家。早期迹象表明，Omicron 的传染性可能明显高于以前的变种，这使金融市场感到不安，担心新的限制措施可能会扼杀经济从疫情冲击中初步复苏的势头。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dock Life: Using Docker for All The Things!]]></title>
         <id>https://css-tricks.com/?p=357985</id>
@@ -39,6 +330,26 @@ Is there an experimental API that you’ve been wanting to try out?
 …]]></summary>
         <author>
             <name>Amelia Wattenberger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游戏寒冬巨头加速出海]]></title>
+        <id>https://www.solidot.org/story?sid=69838</id>
+        <link href="https://www.solidot.org/story?sid=69838"/>
+        <updated>2021-12-01T13:57:30.000Z</updated>
+        <summary type="html"><![CDATA[国家新闻出版署每月会公布国产网络游戏审批信息，但最新的审批信息仍然是 7 月份的，8、9、10 和 11 月都没有公布，游戏审批暂停会停止多久目前还不清楚，2018 年的游戏审批曾暂停了 9 个月。加上未成年人被每周网游时间被限制在三小时等监管规定，中国的游戏公司再次迎来了寒冬，它们采取的一种应对措施是加速扩大海外市场。伽马数据近日发布的三季度移动游戏报告显示，当季中国移动游戏市场实际销售收入 554.69 亿元，环比下滑 0.85%；而中国自主研发游戏海外市场实际销售收入为 49.66 亿美元，环比增长 12.77%。根据 Sensor Tower 统计，中国规模前 30 的移动游戏公司流水总和占全球市场流水总和比例截至今年三季度已达到 32.8%，较去年一季度提升了 6.8 个百分点。“预计到 2024 年，海外市场潜在的规模为当前国内游戏出海收入的4.5倍左右。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新疗法有潜力无副作用治疗多种癌症]]></title>
+        <id>https://www.solidot.org/story?sid=69837</id>
+        <link href="https://www.solidot.org/story?sid=69837"/>
+        <updated>2021-12-01T13:46:52.000Z</updated>
+        <summary type="html"><![CDATA[想象一下可通过针对一个基因治愈癌症。想象一下同一个基因在包括乳腺癌、前列腺癌、肺癌、肝癌和结肠癌中都出现。想象一下这个基因对健康活动不重要所以攻击它基本没有副作用。普林斯顿大学的癌症生物学家 Yibin Kang 和同事在本周出版的《Nature Cancer》期刊上发表了两篇 论文，报告了针对名为 MTDH 的致命基因的实验性疗法在小鼠和人体组织上的成功结果，人体试验有望在未来几年内展开。分子生物学教授 Kang 说，你不可能找到比它更好的药物靶点，MTDH 对大多数人类主要癌症至关重要，但对正常细胞并不重要，遏制它不会产生明显的副作用。研究人员确定了一种对癌症有效的化合物，发现它与化疗和免疫疗法相结合时更高效。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -5657,284 +5968,6 @@ The post Chapter 10: Browser Wars appeared first on CSS-Tricks. You can support 
         <link href="https://www.solidot.org/story?sid=69489"/>
         <updated>2021-11-03T13:56:32.000Z</updated>
         <summary type="html"><![CDATA[微软尝试复活 Google 在 2009 年推出但 2010 年就关闭的实时消息和协作平台 Google Wave。微软在 2019 年宣布了它的实时协作平台 Fluid Framework，2020 年开源。在本周举行的 Ignite 会议上软件巨人宣布了一个基于 Fluid Framework 的产品 Wave Loop，为用户创建一个文档实时编辑的新体验。在很多方面它与 Google Wave 承诺的基本相同。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讨厌吃西兰花和花椰菜？这可能要部分归咎于你的微生物群]]></title>
-        <id>https://www.solidot.org/story?sid=69488</id>
-        <link href="https://www.solidot.org/story?sid=69488"/>
-        <updated>2021-11-03T11:40:42.000Z</updated>
-        <summary type="html"><![CDATA[对许多人来说，没有什么比晚餐时蒸的一大盘十字花科蔬菜更诱人了。是的，它应该对我们有好处，但那种苦味实在太强烈也太令人不愉快了。对年幼孩子尤其如此，任何一位沮丧的父母都能证明这一点。但是对于西兰花、花椰菜和类似食物的厌恶可不仅仅是因为人们挑剔；一些遗传因素也在起作用。根据最近发表在《Journal of Agricultural and Food Chemistry》期刊上的一篇论文，个人口腔微生物群可能也是一个重要因素。
-
-
-1931 年，名叫 Arthur L. Fox 的化学家不小心让粉末状的苯硫脲（PTC）飘散在实验室的空气中。他没有注意到任何异常，但是一位实验室伙伴感觉到了苦味。随后的实验证实，这种遗传变异存在于更广泛人群中，不能尝到苦味是一种隐性遗传特征。大约有 25% 的人尝不出丙基硫氧嘧啶（PROP）的味道，这种化学物质类似于卷心菜、生西兰花、咖啡、汤力水和黑啤酒中的苦味化合物。这种人就像Fox一样，本质上是“味觉盲”。
-
-
-目前已知的“苦味”基因有 25 个；不同苦味食物通过不同的受体起作用，人们可能对一种食物有或高或低的反应，对另一种食物则完全没有。科学家认为，那些能感受到苦味的人可能对被称为葡糖异硫氰酸盐（glucosinolates）的化合物有反应，这种化合物存在于大多数十字花科蔬菜之中，如西兰花、抱子甘蓝和花椰菜。葡糖异硫氰酸盐是蔬菜大部分营养益处的来源，但是它们也会分解成刺激性化合物，对很多人的苦味受体产生负面影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一张 5D 光盘可将 500TB 数据存储数十亿]]></title>
-        <id>https://www.solidot.org/story?sid=69487</id>
-        <link href="https://www.solidot.org/story?sid=69487"/>
-        <updated>2021-11-03T11:34:34.000Z</updated>
-        <summary type="html"><![CDATA[南安普顿大学的研究人员开发出一种快速节能的激光写入方法，可在石英玻璃中产生高密度纳米结构，可被用于五维（5D）光学数据存储，其密度比蓝光光盘存储技术高出10,000 倍以上。研究报告发表在《Optica》期刊上。
-
-这种数据存储使用玻璃盘中的三层纳米级点。点的大小、方向和位置（三个维度）提供了用于编码数据的五个“维度”。研究人员表示，5D 光盘在 138 亿年后仍可保持可读性，如果那时还有人来读取它们的话，可能更令人吃惊。在短期内，5D 光学介质即使加热到 1000 摄氏度也可以安然无恙。
-
-
-
-博士研究员 Yuhao Lei 设计的技术使用了具有高重复率的飞秒级激光。该过程一开始使用播种脉冲创建纳米空隙，快速脉冲实际上不需要写入任何数据。重复的弱脉冲利用了一种被称为近场增强（near-field enhancement）的现象以一种更温和的方式蚀刻纳米结构。研究人员评估了不同功率水平的激光脉冲，找到了一种可以在不损坏石英玻璃盘的情况下加快写入速度的功率水平。研究报告的最大数据速度是每秒 100 万立体像素，在 5D 光学系统中，每个位需要多个立体像素。折算出的数据率约为每秒 230 KB。按照这个速度，写满光盘实际可行了，单张光盘容量估计为 500TB。写入如此多数据大约需要两个月的时间，之后就无法更改了。
-
-
-这项工作仍处于早期阶段，研究团队设法用 5D 光学介质写入并检索了 5GB 的文本数据。读取存储的数据所需的只是显微镜和偏光镜，应该可在无限长的时间内读取。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯坦福工程师和米其林星级厨师合作打造模块化餐厅]]></title>
-        <id>https://www.solidot.org/story?sid=69486</id>
-        <link href="https://www.solidot.org/story?sid=69486"/>
-        <updated>2021-11-03T11:23:21.000Z</updated>
-        <summary type="html"><![CDATA[斯坦福工程师 Alex Kolchinski 等和米其林星级厨师 Eric Minnich 合作创办了公司 Mezli 去打造全自动化模块餐厅。Mezli 的机器人餐厅原型能为顾客制作少数餐食，人类厨师作为补充。餐厅位于该公司在圣马特奥的 KitchenTown。机器占用 10英尺 x 20英尺的空间并且是独立的。它们装满了食材，最初能提供地中海风格的主食、配菜和饮料。这些菜品起价为 6.99 美元。用餐者可以直接在餐厅点餐或在线点餐，然后自行或者通过外卖取餐。Kolchinski 表示，测试结果相当不错：44%尝过这种食物的客人已成了回头客。他表示，公司目前正在开发第三个版本的原型机，计划于明年公开发布。这次尝试得到了 Metaplanet、机器人专家 Pieter Abbeel、餐馆老板 Zaid Ayoub 和 Y Combinator 等投资者的 300 万美元种子轮融资。新资金将让该公司能扩充人才，增加零件、食物和运营成本。Kolchinski 表示，一旦该公司能扩大规模，Mezli 将能大规模生产数千家模块化的餐厅，启动和运营这些餐厅所需的金钱和时间只是传统餐厅的一小部分。他表示：“我们将扩大到几个分店，然后大规模生产……由于我们的大规模生产方法，我们预计会比其他餐厅更快地到达 1,000  家分店的规模。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF Arranger – 免费的 PDF 分割、PDF 合并、旋转等 8 功能工具[Windows/Linux]]]></title>
-        <id>https://www.appinn.com/?p=40275</id>
-        <link href="https://www.appinn.com/pdf-arranger/"/>
-        <updated>2021-11-03T10:32:40.000Z</updated>
-        <summary type="html"><![CDATA[PDF Arranger 是一款免费的 PDF 分割、合并、旋转、裁剪、重新排列工具，界面直观，简单易用。@Appinn 来自发现频道，感谢 @jerrylus 的推荐： 一个用于调整 PDF 页面（]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软的元宇宙来了，它有 PowerPoint]]></title>
-        <id>https://www.solidot.org/story?sid=69485</id>
-        <link href="https://www.solidot.org/story?sid=69485"/>
-        <updated>2021-11-03T09:58:08.000Z</updated>
-        <summary type="html"><![CDATA[如果你担心元宇宙里会充斥着娱乐和游戏，请不要担心：微软正尝试自己的元宇宙，它将包含 PowerPoint 和 Excel。
-
-
-软件巨人正在调整其标志性的软件产品，以创建一个更加企业化的元宇宙版本——这是Facebook 的联合创始人 Mark Zuckerberg 提出的一个概念，承诺让用户在相互连接的虚拟世界中生活、工作和娱乐。第一个产品是具有数字化身功能的聊天和会议程序 Teams，该版本正在进行测试，将于 2022 年上半年推出。客户将能在这个虚拟世界中分享 Office文 件和功能，如 PowerPoint 的 decks。微软首席执行官 Satya Nadella 在接受彭博电视采访时表示：“疫情使这种商业用例变得更加主流，尽管有时候消费者会感觉像科幻小说。” Nadella 表示，他本人已使用这种技术访问了英国医院的一间新冠患者病房、一家丰田的制造工厂，甚至是国际空间站。
-
-
-微软也有游戏和娱乐方面的计划。Nadella 在采访时表示：“你绝对可以期待我们在游戏领域有所建树……如果你把 Halo 当成游戏，它就是一个元宇宙。Minecraft 是一个元宇宙，Flight Sim 也是如此。从某种意义上说，它们今天是 2D 的，问题是你现在能不能把它们带入一个完整的 3D 世界，我们绝对计划要这样做。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook 将关闭面部识别系统删除数据]]></title>
-        <id>https://www.solidot.org/story?sid=69484</id>
-        <link href="https://www.solidot.org/story?sid=69484"/>
-        <updated>2021-11-03T09:53:41.000Z</updated>
-        <summary type="html"><![CDATA[Facebook 计划本月关闭有十年历史的面部识别系统，删除超过 10 亿用户的面部扫描数据，以彻底废除这项功能，该功能引发了隐私担忧、政府调查、集体诉讼和监管方面的麻烦。Facebook 的母公司新近改名为 Meta，公司人工智能副总裁 Jerome Pesenti 周二在一篇博文中表示，该社交网络正在做出改变，因为“人们对面部识别技术在社会中的地位感到担忧”。他补充道，该公司仍将该工具视为一种强大的工具，但是“每一项新技术都可能会带来益处，也可能会引发担忧，而我们希望找到正确的平衡点。”它决定关闭 2010 年 12 月推出的这项功能，其初衷是为了帮助Facebook 的用户节省时间。 面部识别软件会自动识别出现在用户相册中的人，并建议用户点击“标记”他们，将账户同图像关联起来。Facebook 现在已建立了世界上最大的数字照片存储库之一，部分要归功于该软件。面部识别技术近年来在准确性和功能方面取得了进步，但由于可能会被政府、执法部门和公司滥用，因此也日益成为争论的焦点...在美国，执法部门利用此类软件协助维持治安，导致人们担心过度执法和错误逮捕。部分城市和州已禁止或限制面部识别技术以防止可能的滥用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登的基建法案包含免费笔记本电脑计划]]></title>
-        <id>https://www.solidot.org/story?sid=69483</id>
-        <link href="https://www.solidot.org/story?sid=69483"/>
-        <updated>2021-11-03T09:24:28.000Z</updated>
-        <summary type="html"><![CDATA[经过数个月的谈判，拜登总统的“Build Back Better”议程本周进入了辩论的最后阶段。两党合作的基础设施法案包含投资数十亿美元在全国范围内扩展高速宽带，旨在未来十年缩小数字鸿沟。但政府为宽带支付的 650 亿美元首期付款只能惠及有能力买得起电脑的家庭。因此最新版的“Build Back Better”更进一步，拨出资金为贫困的美国人提供联邦政府资助的台式机、笔记本电脑和平板电脑。
-
-白宫上周发布了最新版本的“Build Back Better”计划，提出了一项 1.75 万亿美元的预算提案，以应对气候变化并投资医疗保险等其他社会服务。在该法案 1,600 多页的内容中，有一项新的计划——联网设备补助计划（Connected Device Grant Program）——将帮助向低收入家庭提供免费或者打折的台式机、笔记本电脑或平板电脑。为实现这一目标，商务部将得到 4.75 亿美元，以奖励想要在本地分发这些设备的社区团体。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在电动汽车竞赛中为何要关注现代汽车]]></title>
-        <id>https://www.solidot.org/story?sid=69482</id>
-        <link href="https://www.solidot.org/story?sid=69482"/>
-        <updated>2021-11-03T08:43:16.000Z</updated>
-        <summary type="html"><![CDATA[在电动汽车竞赛中为何要关注现代汽车？现代汽车非常聪明，所以不会尝试同全尺寸电动皮卡车竞争，它们仍然是 Detroit 2.5 的最后据点，尤其是在北美之外它们基本上无法销售了。日产和丰田花了 20 年制造美式全尺寸皮卡，结局惨淡，这是一个客观教训。但是现代针对轻型卡车和乘用车市场的其余部分制定了颇具进攻性的计划。
-
-
-如今每一家称职的汽车制造商都有一个大胆的计划，要在未来五到十年内推出一批电动汽车，并投入数十亿美元实现这一目标。略有不同的是，过去十年现代汽车已经表明，它可以大幅改进每一代汽车，能与其他任何制造商一样快速地开辟新市场，同时还能保持价格相对低廉。它在 SUV 市场迟到，现在已拥有了完整的产品线，可以引领其销售并提供物超所值的产品。由于结构性技术转变使竞争环境变得平坦，预计现代汽车也会在电动汽车方面故技重施，即使全球各地排放法规各异和文化差异，不同的市场将以不同的速度发展。
-
-
-当该公司于 2014 年在美国推出插电汽车时，没有像通用汽车只推出了两款车，而是一口气推出了六款。有续航里程从 100 英里到 230 英里的纯电动、插电式混动和现在的 SUV，有更多的车型即将推出。现代汽车也希望在氢燃料汽车领域有所作为，不过该公司明智地将关注重点放在了货运而不是个人用车辆上。但那是完全不同的故事。现在重要的是看看现代汽车如何在这场至关重要的高风险战斗中成为一支不可忽视的力量。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球暖化融化人类的历史]]></title>
-        <id>https://www.solidot.org/story?sid=69481</id>
-        <link href="https://www.solidot.org/story?sid=69481"/>
-        <updated>2021-11-03T08:28:55.000Z</updated>
-        <summary type="html"><![CDATA[冰川考古是一门相对较新的学科。1991 年夏天，因冰层破裂，德国登山者在阿尔卑斯山发现了一具半嵌在的奥兹山谷中的茶色尸体，发现地靠近奥地利和意大利边境，位于意大利一侧。后来被称为“奥兹冰人”的尸体最初被误以为是在登山事故中丧生的现代登山者，碳年代测定显示他死于 5,300 年前。 
-青铜时代鞋的发现标志着因兰德特县山峰冰川勘测的开始，2011 年启动了国家资助的冰川考古项目（Glacier Archaeology Program）。这是育空地区以外唯一的永久性冰川发现救援项目。冰川考古学和低地表考古学在很多关键的方面都不一样。G.A.P 研究人员通常只能在从 8 月中旬到 9 月中旬很短的一段时间内进行实地考察，即旧雪融化和新雪到来的那段时间。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zuckerberg 的 Meta 其终极目标是将所有人类行为货币化]]></title>
-        <id>https://www.solidot.org/story?sid=69480</id>
-        <link href="https://www.solidot.org/story?sid=69480"/>
-        <updated>2021-11-03T07:28:08.000Z</updated>
-        <summary type="html"><![CDATA[在 2016 年的一场技术演示中，Facebook/Meta CEO Mark Zuckerberg 将 VR 描述为“下一个主要计算平台”——由于头显和运动控制器，我们所有的社交互动都在这个空间中以新的物理存在水平进行。这只能意味着一件事：Zuckerberg 希望建立一个虚拟环境，在那里所有人类行为都可以被记录、预测和货币化。当时该公司表示，他们“目前没有计划”将头部和眼球活动等身体运动数据用作预测行为或投放广告的手段。从那时候起，该公司将登录 Facebook 作为对Oculus 头显用户的一项强制性要求——直到最近才迫于压力取消。今年早些时候，该公司宣布进入基于 VR 的广告领域，引起足够强烈的反对，导致一家 Oculus 开发商完全放弃了其 VR 广告计划。
-Zuckerberg 的计划是无止境的——挖掘世界上每一次人类互动，以获取可以货币化的数据。该公司因在世界各地传播虚假信息和暴力内容而受到了严格的审查，吹哨人Frances Haugin 的举报更是让这种趋势愈演愈烈，在此之际进行的更名尤为值得注意。可以很有把握地假设，在变身 为Meta 之后，该公司的预测算法依然会和之前一样。收集人类的行为数据，然后用于构建用户档案，并自动对他们更有可能与之交互的内容进行排序。Facebook 在 2012 年秘密对用户进行“情绪传染”实验，证明这种操作的有效性，实验表明，改变用户推送，显示正面或负面的内容，可以改变他们可能会发布的内容类型。
-
-这种算法操纵形成了 Facebook 和无数其他应用和社交平台的核心商业模式……研究人员发现，这种算法“推动”在化身化的虚拟空间也是可能的，而对身体运动私密数据的收集提供了大规模影响人类行为的新方法。RealEyes 和 Affectiva 等公司推出了人工智能，据称可以通过分析肢体语言和面部表情来预测人类的情绪——这一说法受到人工智能专家的强烈反对，可是却依旧得到了广泛部署。在一项值得注意的研究中，研究人员确定人工智能控制的数字化身可被用于在虚拟空间中推动人们接受某些政治观点。换句话说，Meta 代表了对 Facebook 一再受到非议的算法操纵的大量投资。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴基斯坦国家银行遭遇网络攻击]]></title>
-        <id>https://www.solidot.org/story?sid=69479</id>
-        <link href="https://www.solidot.org/story?sid=69479"/>
-        <updated>2021-11-03T06:25:54.000Z</updated>
-        <summary type="html"><![CDATA[巴基斯坦国家银行（NBP）遭遇了一次破坏性的网络攻击。事件发生在周五到周六之间的晚上，影响了银行的后台系统，用于连接分行的服务器，控制 ATM 网络的后台基础设施，以及银行的移动应用。知情人士称，虽然攻击导致部分系统瘫痪，但据信没有发生金钱方面的损失。NBP 在一份声明中表示在攻击发生之后它立即采取措施隔离受影响系统。到周一一千多家分行正常营业为客户提供服务，ATM 机器已完全恢复。这一消息促使部分受到惊吓的客户周一早晨冲到 ATM 机器前取款。知情人士表示不是勒索软件攻击而是一次有企图的破坏性网络攻击。恶意程序设计破坏计算机的引导系统。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联合国气候大会发出末日警告]]></title>
-        <id>https://www.solidot.org/story?sid=69478</id>
-        <link href="https://www.solidot.org/story?sid=69478"/>
-        <updated>2021-11-03T06:00:05.000Z</updated>
-        <summary type="html"><![CDATA[世界各国领导人在苏格兰举行的联合国气候峰会上发出“末日”警告，称避免灾难性全球变暖的时间已经所剩无几，但在更积极地减少温室气体排放方面却没有做出新的承诺。这次会议召开的目的是希望世界各国最终能就有意义的措施达成一致，让迅速变暖的地球回到正轨。会议原定持续近两周，但是仅过了几个小时就首现冲突。与会国家元首的开幕演讲暴露出谁应对减排负最大责任这一全球辩论中长期存在的分歧。随着欠发达国家要求富裕国家提供更多援助和采取更迅速的行动，全球贫富之间的紧张关系也暴露出来。印度宣布了新的目标，将在至少10年内保持煤炭在电力行业的核心地位。迄今为止，该国对全球排放中的份额相对较小，但逐渐成为日益增长的排放源。印度总理莫迪(Narendra Modi )表示，印度还将提高其 2030 年使用太阳能等可再生能源的目标。巴西的森林砍伐达到 2012 年以来的最高水平，该国宣布将在 2048 年结束非法森林砍伐，并在这个十年结束之前将温室气体排放量减少一半。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 35 发布]]></title>
-        <id>https://www.solidot.org/story?sid=69477</id>
-        <link href="https://www.solidot.org/story?sid=69477"/>
-        <updated>2021-11-03T05:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Linux 发行版 Fedora 释出了 v35。主要变化包括：GNOME 41，改进了默认 Wayland 会话的效率，改进了触摸板手势的可靠性，GTK 4 应用的新 GL 渲染器增强了图形性能，改进了节能、平衡和性能等功耗模式，重新设计了 Software app，新的 Connections app，等等。软件方面的其他变化包括：Python 3.10、Perl 5.34 和 PHP 8.0，防火墙服务  firewalld 1.0 版本，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh My Ins – 在 VS Code 里刷 Instagram]]></title>
-        <id>https://www.appinn.com/?p=40269</id>
-        <link href="https://www.appinn.com/oh-my-ins-for-vs-code/"/>
-        <updated>2021-11-03T04:47:48.000Z</updated>
-        <summary type="html"><![CDATA[Oh My Ins 是一款 VS Code 扩展，它可以用来让你在 VS Code 里刷 Instagram 看图片和视频，不需要登录，不需要特殊网络，可自定义账户，即开即用。@Appinn 这又是一]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge 发布 Linux 正式版本]]></title>
-        <id>https://www.solidot.org/story?sid=69476</id>
-        <link href="https://www.solidot.org/story?sid=69476"/>
-        <updated>2021-11-03T03:37:38.000Z</updated>
-        <summary type="html"><![CDATA[微软基于 Chromium 的浏览器 Edge 在释出 Linux 预览版一年之后发布了正式版本。Edge 现在支持了 Windows、Mac、iOS、Android 和 Linux 五个主要平台。Linux 用户可选择从微软网站下载或通过包管理器下载。Linux 版本支持的发行版包括了 Ubuntu、Debian、Fedora 和 openSUSE。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics)]]></title>
-        <id>https://css-tricks.com/?p=354619</id>
-        <link href="https://css-tricks.com/proxying-third-party-javascript-as-first-party-javascript-and-the-potential-effect-on-analytics/"/>
-        <updated>2021-11-02T22:50:37.000Z</updated>
-        <summary type="html"><![CDATA[First, check out how incredibly easy it is to write a Cloudflare Worker to proxy another URL:
-addEventListener("fetch", (event) ={
-  event.respondWith(
-     fetch("https://css-tricks.com")
-  );
-});
-It doesn’t have any error handling or anything, but hey, it works:
-Now imagine how …
-The post Proxying Third-Party JavaScript as First-Party JavaScript (and the Potential Effect on Analytics) appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUI Challenges]]></title>
-        <id>https://css-tricks.com/?p=355016</id>
-        <link href="https://css-tricks.com/gui-challenges/"/>
-        <updated>2021-11-02T21:28:22.000Z</updated>
-        <summary type="html"><![CDATA[I keep bookmarking Adam’s GUI Challenges posts/videos and, before I even have a chance to review and link them up, another one is already published! Fortunately, the homepage for them on web.dev is a nice roundup. 
-For example, a recent …
-The post GUI Challenges appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUI Challenges]]></title>
-        <id>https://css-tricks.com/?p=355016</id>
-        <link href="https://web.dev/shows/gui-challenges/"/>
-        <updated>2021-11-02T21:28:22.000Z</updated>
-        <summary type="html"><![CDATA[I keep bookmarking Adam’s GUI Challenges posts/videos and, before I even have a chance to review and link them up, another one is already published! Fortunately, the homepage for them on web.dev is a nice roundup. 
-For example, a recent …
-The post GUI Challenges appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[见多识广，介绍Web开发中current开头的一些API属性]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=10171</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2021/11/currentscript-currenttarget-currentsrc/"/>
-        <updated>2021-11-02T15:00:08.000Z</updated>
-        <summary type="html"><![CDATA[主要介绍 currentTarget、currentScript、currentTime、currentNode 和 currentSrc 这5个属性 API，有些是 JS 对象属性，有些是 HTML 对象属性，都挺有用的。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebase vs. Merge: Integrating Changes in Git]]></title>
-        <id>https://css-tricks.com/?p=354734</id>
-        <link href="https://css-tricks.com/rebase-vs-merge-integrating-changes-in-git/"/>
-        <updated>2021-11-02T14:19:12.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about the next articles!
-Most developers understand that it’s important to use branches in Git. In …
-The post Rebase vs. Merge: Integrating Changes in Git appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Tobias Günther</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsible JavaScript]]></title>
-        <id>https://css-tricks.com/?p=355395</id>
-        <link href="https://css-tricks.com/responsible-javascript-2/"/>
-        <updated>2021-11-02T14:17:55.000Z</updated>
-        <summary type="html"><![CDATA[High five to Jeremy on the big release of Responsible JavaScript on A Book Apart. There is a lot of talk about how the proliferation of JavaScript has had a negative impact on the web, but now we have …
-The post Responsible JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 94 释出]]></title>
-        <id>https://www.solidot.org/story?sid=69475</id>
-        <link href="https://www.solidot.org/story?sid=69475"/>
-        <updated>2021-11-02T14:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla 释出了 Firefox 94。主要变化包括：可选六个季节性调色板；macOS 版本在全屏播放 YouTube 和 Twitch 视频时使用苹果的低功耗模式，改进电池续航；用户可通过 about:unloads 手动释放未加载标签的系统资源；通过网站隔离改进对侧信道攻击如 Spectre 的抵御； Multi-Account Containers 整合 Mozilla VPN；Windows 11 支持 Snap Layouts 菜单；bug 修正等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoom 免费服务加入广告]]></title>
-        <id>https://www.solidot.org/story?sid=69474</id>
-        <link href="https://www.solidot.org/story?sid=69474"/>
-        <updated>2021-11-02T13:52:54.000Z</updated>
-        <summary type="html"><![CDATA[免费服务产生收入的主要方式看起来总是广告。远程视频会议服务 Zoom 宣布它的免费服务将加入广告。Zoom 服务包括了免费的 Basic 版本、付费的专业、商业和企业版本，其中免费服务有会议参与人数以及时间长度的限制。目前广告仅对使用浏览器的用户在会议结束之际展示广告，只在几个国家推出。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
