@@ -12,6 +12,24 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=40817",
+          "author": "青小蛙",
+          "description": "F Search | F搜 是一个搜索引擎，类似 Google、必应、百度一样的搜索引擎，提供了无广告、过滤内容农场的搜索结果，支持翻译、天气、IP 查询等功能。但，现在为什么还要做搜索引擎？以及做一",
+          "link": "https://www.appinn.com/f-search/",
+          "publishedOn": "2021-12-14T09:42:48.000Z",
+          "wordCount": 721,
+          "title": "F Search | F搜 – 简单干净的搜索引擎，做一个搜索引擎有多难？"
+        },
+        {
+          "id": "https://www.appinn.com/?p=40813",
+          "author": "青小蛙",
+          "description": "UninstallPKG 是一款曾经付费，但在 1 个月前开始免费的 macOS 辅助工具，它可以用来完全删除所谓的 “packages”（扩展名 .pkg）安装包，和所有它安",
+          "link": "https://www.appinn.com/uninstallpkg-for-macos/",
+          "publishedOn": "2021-12-14T04:03:10.000Z",
+          "wordCount": 689,
+          "title": "UninstallPKG – 免费的 PKG 卸载器，macOS 安装包 .pkg 文件卸载工具"
+        },
+        {
           "id": "https://www.appinn.com/?p=40803",
           "author": "青小蛙",
           "description": "Omi录屏专家是一款 macOS 下的录屏工具，最高 4K、60FPS 分辨率，支持录制屏幕与摄像头，可同时录制麦克风和系统声音，简单易用，功能全面，目前已在 Mac App Store 上架，免费。",
@@ -492,24 +510,6 @@
           "publishedOn": "2021-11-16T06:41:34.000Z",
           "wordCount": 687,
           "title": "小舒同学 – 用 5 年的时间，整合收藏夹和新标签页[Chrome/Firefox]"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40454",
-          "author": "青小蛙",
-          "description": "来自问题频道，@LambertCrofts 同学的提问： 在 Windows 文件管理器里，从“快速访问”点击进入的“文档”、“图片”、“下载”等目录在地址栏显示的貌似不是绝对路径，如图： 只有从 C",
-          "link": "https://www.appinn.com/show-full-path-in-the-address-bar/",
-          "publishedOn": "2021-11-15T08:36:34.000Z",
-          "wordCount": 841,
-          "title": "如何在资源管理器中的「系统文件夹」地址栏复制完整路径？"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40451",
-          "author": "青小蛙",
-          "description": "Moo0 前端显示器 是一款能够为 Windows 窗口添加 10 个小功能的辅助小工具，包括置顶窗口、移动、放大、透明度、程序信息等功能。可以让你更方便的控制每一个窗口。@Appinn 来自人人都能",
-          "link": "https://www.appinn.com/moo0-window-menu-plus/",
-          "publishedOn": "2021-11-15T04:57:38.000Z",
-          "wordCount": 694,
-          "title": "Moo0 前端显示器 – 添加置顶、截图等 10 个小功能到窗口右键菜单[Windows]"
         }
       ]
     },
@@ -518,6 +518,42 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=356603",
+          "author": "Geoff Graham",
+          "description": "When’s the last time you read your website? Like out loud in the lobby of a Starbucks on a weekday afternoon, over the phone to your parents, or perhaps even as a bedtime story for your kids.\nNo worries, this …",
+          "link": "https://css-tricks.com/read-your-website/",
+          "publishedOn": "2021-12-14T22:37:26.000Z",
+          "wordCount": 1533,
+          "title": "Read Your Website"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359180",
+          "author": "Chris Coyier",
+          "description": "Ain’t this the truth:\nIt’s like when you’re learning a new language. At some point your brain goes from translating from your mother tongue into the other language, and instead starts thinking in that other language.\n\n\n\n\nI don’t speak …",
+          "link": "https://css-tricks.com/faulty-logic/",
+          "publishedOn": "2021-12-14T22:28:29.000Z",
+          "wordCount": 715,
+          "title": "Faulty logic"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357660",
+          "author": "Amit Sheen",
+          "description": "What’s the one thing people can do to make their website better? Now that is a good question. One with many right answers, like improving performance, taking care of accessibility, and upgrading user experience as prime examples. These are all …",
+          "link": "https://css-tricks.com/think-without-boxes/",
+          "publishedOn": "2021-12-14T15:38:00.000Z",
+          "wordCount": 779,
+          "title": "Think Without Boxes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358672",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nI got this question from a listener the other day. Fair question, I’d say. The word “Static” in “Static Site Generator” is at-odds with the word “Dynamic.” It seems to imply that the website …",
+          "link": "https://css-tricks.com/confused-about-ssgs/",
+          "publishedOn": "2021-12-14T15:35:04.000Z",
+          "wordCount": 619,
+          "title": "I’m confused about Static Site Generators. Are they only for informational sites where I can’t log in or display any dynamic data?"
+        },
         {
           "id": "https://css-tricks.com/?p=358436",
           "author": "Chris Coyier",
@@ -1161,15 +1197,6 @@
           "publishedOn": "2021-11-23T16:56:24.000Z",
           "wordCount": 932,
           "title": "从js visibilitychange Safari下无效说开去"
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10188",
-          "author": "张 鑫旭",
-          "description": "配合meter元素，纯CSS也能实现3色状态带强中弱提示的密码强度效果，有基础有深入，本文可以学到的东西挺多。",
-          "link": "https://www.zhangxinxu.com/wordpress/2021/11/html-meter-password/",
-          "publishedOn": "2021-11-14T14:44:34.000Z",
-          "wordCount": 1317,
-          "title": "密码强度效果最佳实现一定是HTML meter元素"
         }
       ]
     },
@@ -1178,6 +1205,159 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=70001",
+          "author": null,
+          "description": "新西兰政府将推动对全自动武器或者杀手机器人的国际禁令，这些武器无需人类决策，使用人工智能瞄准并杀人。自 1980 年代宣布成为无核国之后，几十年来，新西兰一直在国际论坛上倡导裁军。自动武器被视为主要军事大国之间军备竞赛的新前沿。裁军部长 Phil Twyford 表示，该国政府决定对自动武器采取“强硬且不妥协”的立场，寻求在国际舞台上禁止全自动武器。他表示杀手机器人很快会发动大规模战争，这是一个很现实的前景。“将剥夺一个人生命的决定权交托给机器从基本的道德角度是有异议的。当一台机器被激活，可以识别并攻击人类目标时，决策链中没有任何人为干预，我认为这非常令人担忧。”“很多人——我认为新西兰也在这个阵营之中，严重怀疑自动武器系统是否能遵守联合国人道主义法的基本信条——保护平民、适当军事行动、在战场上对个人的行为负责等规则。”“还有第三个反对的理由……大规模生产的杀手机器人进入战场会降低战争的门槛。没有人类在决策链中控制这些东西，它会大大增加机器人战争的可能性，这很可怕。”",
+          "link": "https://www.solidot.org/story?sid=70001",
+          "publishedOn": "2021-12-14T12:08:36.000Z",
+          "wordCount": 76,
+          "title": "新西兰政府推动国际禁止自动武器"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70000",
+          "author": null,
+          "description": "俄勒冈州立大学研究人员开发出一种新催化剂，能高效低成本清洁制氢，这是目前现有商业催化剂无法做到的。催化剂是一种能提高化学反应速度而自身不会发生任何永久性化学变化的物质。俄勒冈州立大学工程学院的化学工程教授冯振兴（Zhenxing Feng）表示：发现意义重大，因为氢气的生产对“我们生活的许多方面都很重要，例如汽车燃料电池和氨等许多有用化学品的制造。它还被用于精炼金属、生产塑料等人造材料以及一系列其他用途。”冯教授表示，通过电化学催化过程分解水，用这种方法生产氢气比通过二氧化碳的生产过程（被称为甲烷蒸汽重整）从天然气中提取氢气的传统方法更清洁，也更可持续。但是环保技术的成本一直是市场的障碍。",
+          "link": "https://www.solidot.org/story?sid=70000",
+          "publishedOn": "2021-12-14T11:55:31.000Z",
+          "wordCount": 72,
+          "title": "研究人员开发出可清洁制氢的先进催化剂"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69999",
+          "author": null,
+          "description": "绝大多数观察显示，宇宙在大于数亿光年的尺度上是均匀分布的。但最新研究对此提出了质疑。英国中兰开夏大学的天体物理学家 Alexia Lopez 在 6 月的美国天文学会会议上描述了遥远星系弧，它像一个巨大的微笑，在天空中延展得如此之远，以至于需要20 个满月才能将它掩藏起来。这个微笑状的结构跨越了大约 33 亿光年的空间。Lopez 的“巨弧”似乎与几个世纪以来一直指引着天文学的观念相冲突：宇宙没有显著特征。从缩放的角度，无论你身在何处，或者是从哪个方向看，你都应该看到数量大致相同的星系在旋转。这个假设被奉为“宇宙学原理”，让研究人员仅根据我们从宇宙角落看到的东西就可以得出关于整个宇宙的全面结论。这条宇宙学原理作为现代宇宙学的一个承重支柱，越来越多地成了一个研究对象。一些挑战者，例如 Lopez 和她的同事，都是对异乎寻常的天体群感到困惑的天体物理学家。另一些宇宙学家持有不同观点，对宇宙中大部分物质都是以无法被我们的仪器检测到的“暗物质”和“暗能量”形式存在的共识感到不安。他们想知道理论家是否在用魔法般的幻觉修补过于简单的宇宙学理论。",
+          "link": "https://www.solidot.org/story?sid=69999",
+          "publishedOn": "2021-12-14T10:00:49.000Z",
+          "wordCount": 82,
+          "title": "对宇宙学原理的最新攻击"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69998",
+          "author": null,
+          "description": "各大汽车制造商一直试图从订阅服务收入中分一杯羹。现在轮到丰田出手了。几乎每家汽车公司都提供某种订阅包，丰田的订阅包名为 Remote Connect。该服务提供各种常见服务，例如让车主可以使用应用程序远程锁闭车门，或者如果他们拥有的是插电式车辆，可以预先打开空调。但是随着Remote Connect 赠送的免费订阅到期，一些丰田车主得到了一个意想不到的“惊喜”——他们不能再使用遥控钥匙远程启动车辆。在技术方面，这种远程启动功能与使用遥控钥匙解锁汽车没有什么不同。遥控钥匙使用短程无线电发射器向汽车发送一个用滚动码加密的信号。然后汽车解密该信号并执行其请求的操作——无论是锁闭或解锁车门、鸣喇叭还是启动发动机。RF遥控钥匙在 1980 年代就有了，通用汽车在 2004 年增加了远程启动的出厂选项（无需订阅）。",
+          "link": "https://www.solidot.org/story?sid=69998",
+          "publishedOn": "2021-12-14T08:02:53.000Z",
+          "wordCount": 83,
+          "title": "丰田车主须每月支付 8 美元以继续使用遥控钥匙远程启动车辆"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69997",
+          "author": null,
+          "description": "鉴于鸟类面临的无数环境威胁，它们在北美和其他地区的数量迅速下降也就不足为奇。康奈尔大学鸟类实验室和加拿大国家野生动物研究中心的研究人员在 2019 年的一项分析中发现，自 1970 年以来，美国大陆和加拿大的野生鸟类数量下降了 29%，即总净损失约 30 亿只。此项具有里程碑意义的研究是有史以来首次对整个大陆上的野生鸟类净种群数量变化进行综合评估的研究。研究发现，种群数量的下降并不限于少数物种，而是遍及所有的生物群落（由占据某一主要栖息地的动植物自然形成的大型群落）中的所有物种。每个生物群落的种群数量损失不等，损失最大的草原鸟类种群的数量下降了 53%，东部森林鸟类种群的数量下降了 17%。研究人员还发现，仅来自 12 个科的普通鸟类，如画眉、麻雀和雀类，就占到总损失数量的 90% 以上，即超过 25 亿只。专家认为，农业发展和集约化造成的栖息地丧失很可能是驱动因素。",
+          "link": "https://www.solidot.org/story?sid=69997",
+          "publishedOn": "2021-12-14T07:57:29.000Z",
+          "wordCount": 86,
+          "title": "北美鸟类数量快速下降"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69996",
+          "author": null,
+          "description": "《2022年世界不平等报告》发现，一次太空飞行的二氧化碳排放量比世界上绝大多数人一辈子排放的二氧化碳还要多，这个发现恐怕不会让人感到吃惊。虽然报告的其他部分谈到了劳动力、收入和经济的不平等，研究人员还是将这项统计数据列入其中，该数据完美地概括了制造温室气体的人和那些受害最深的人之间的关系。这项数据是人们在社交媒体上发现的，Gizmodo 对其进行了突出报道。 \n\n报告指出：“也许近年来与财富不平等相关的极端污染最显著的例子是太空旅行的发展。每位乘客飞行 11 分钟的碳排放量不低于 75 吨。大约有 10 亿人每年每人的碳排放量低于 1 吨。终其一生，这 10 亿人每人的碳排放量不超过 75 吨。”如果你想知道《世界不平等报告》指的是哪次太空飞行，它没有点出任何人的名字。但是正如 Gizmodo 所指出的，Jeff Bezos 在 7 月份进行的、广为人知的太空飞行大约就是这么长的时间。Amazon 创始人 Bezos 目前正在开展 Blue Origin 的太空游，每当他发射一枚火箭，实际上释放的碳比大多数人一生所能产生的碳排放更多。\n\n\n\n《世界不平等报告》认为，要让最大的温室气体排放国承担责任，我们需要更好地跟踪全球排放量。报告作者写道：“排放量的巨大不平等表明气候政策应该更多地针对富裕的污染者。到目前为止，碳税等气候政策往往对低收入和中等收入群体产生了不成比例的影响。”这相当于被告知要回收你的硬纸板还要支付市政回收费，换句话说——这是一个很好的姿态，但无论你多么努力，你永远无法抵消 Bezos 的一次太空之旅。报告还指出，最富裕的1% 的人每年的碳排放量约为 110 吨，和前 0.1% 的人的 467 吨和前 0.01% 的人的 2530 吨的碳排放量相比，这个数字竟然相形见绌。”",
+          "link": "https://www.solidot.org/story?sid=69996",
+          "publishedOn": "2021-12-14T07:53:59.000Z",
+          "wordCount": 112,
+          "title": "一次太空之旅产生超出普通人一生的碳排放量"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69995",
+          "author": null,
+          "description": "美国空军少将 Daniel Simpson 介绍了使用基于人工智能的实验性目标识别程序的经验，该程序自认为表现良好。Simpson表示，一开始，人工智能从一个传感器获得数据，该传感器以倾斜的角度寻找单个地对地导弹。然后它从另一个传感器接受数据，该传感器以接近垂直的角度寻找多枚导弹。他表示：“算法表现不佳。实际上它的准确率大约只有 25%。”据研究人员、前海军飞行员 Missy Cummings 在 2020 年的一份报告，这是有时被称为脆弱人工智能的一个例子，“当任何算法无法概括或适应一组狭窄假设之外的条件时就会发生”这种情况。Cummings 表示，当用于训练算法的数据包含过多来自某一特定有利位置的图像或传感器数据，而来自其他有利位置、距离或条件的数据不足时，就会变得脆弱。在无人驾驶汽车实验等环境中，研究人员只需收集更多的数据进行训练。但这在军事环境中非常困难，因为可能只有大量的、一种类型的数据——比如说高空卫星或者无人机图像——很少有任何其他类型的数据，因为它们在战场上没用。Simpson 表示，算法的准确率低并不是演习中最令人担忧的地方。虽然算法只有 25% 的时间是正确的，但他表示，“它确信它在 90% 的时间都是正确的，所以它肯定是错误的。这不是算法的错。这是因为我们给它提供了错误的训练数据。”",
+          "link": "https://www.solidot.org/story?sid=69995",
+          "publishedOn": "2021-12-14T07:42:44.000Z",
+          "wordCount": 92,
+          "title": "实验性目标识别 AI 误以为其准确率 90%"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69994",
+          "author": null,
+          "description": "对科技公司缺乏监管不是因为民选官员不了解互联网。过去是这样，这有助于解释为什么他们在采取监管措施方面如此迟缓。但现在，围绕技术的新问题被投射到日益难以解决的政治分歧上。如果没有奇怪问题的干扰，剩下的就是赤裸裸的现实，即美国两党在如何保护消费者和鼓励企业方面存在严重分歧。由于政府对企业的权力存在基本分歧，数十项旨在加强隐私、鼓励竞争和消除错误信息的法案陷于停滞。非营利性消费者权益倡导组织数字民主中心的执行董事 Jeffrey Chester 表示：“国会再次表明，当涉及到对大型科技公司的监管时，一切都是‘光打雷不下雨’。”他补充表示：“几十年来，我们没有取得一点进展。”\n\n\n政府长期培养科技界的代价就是让监管变得越来越遥不可及。2018 年 4 月，即 thefacebook.com 成立14年后，也是 Facebook 突破 10 亿用户的五年多之后，Mark Zuckerberg 首次出现在国会面前。尽管两党一致认为科技公司行事粗暴并应受到更多监督，但四年前在这些听证会上讨论的法案均未获得通过。事实证明，举行一场让世界上最有权势的企业高管蒙羞的听证会比立法容易得多。在制定规则限制平台可以收集多少数据、消费者是否可以起诉网站诽谤以及监管机构是否可以减缓 Amazon、Apple、Google 和 Facebook 前进的步伐时，党派分歧就会出现。\n\n\n以加密货币为例。当谈到监管加密货币的可能性时，在六名加密货币高管上周三在众议院委员会作证后，两党在监管上明显分歧。民主党警告称，这个快速增长的行业需要更明确的监管。该委员会主席、加州民主党众议员 Maxine Waters 表示：“目前，加密货币市场没有总体或集中的监管框架，这使得对数字资产领域的投资容易受到欺诈、操纵和滥用。”其他民主党人也表达了类似的态度。共和党人在对加密货币的听证会上坚持他们的自由市场立场。德克萨斯州共和党众议员 Pete Sessions 对加密货币高管表示，他支持他们的工作，而该行业的现有法规可能走得太远了。北卡罗来纳州共和党众议员 Ted Budd 担心立法者可能会将金融技术创新推出美国门外。",
+          "link": "https://www.solidot.org/story?sid=69994",
+          "publishedOn": "2021-12-14T07:20:01.000Z",
+          "wordCount": 100,
+          "title": "政治极化阻碍美国立法者监管大型科技公司"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69993",
+          "author": null,
+          "description": "Facebook 高管 Andrew Bosworth 坚持认为，政治和新冠肺炎误导信息是社会问题，而不是被社交网络放大的问题。批评人士称，Facebook 和其他社交网络在接种疫苗犹豫不决和政治错误信息的传播方面发挥了重要作用。Bosworth 在接受 Axios on HBO 采访时表示：“每个人都是选择相信或者不相信一件事情的个体。他们也是选择分享或者不分享一件事情的人。我很不喜欢因为我不喜欢他们说的话就说他们没有发言权。”Bosworth 一直在负责 Facebook 包括虚拟现实和增强现实在内的硬件工作。明年他将成为 Facebook 母公司 Meta 的首席技术官。当被问及社交媒体的存在与否是否会对疫苗犹豫产生影响时，Bosworth 提到 Facebook 在抗击新冠肺炎中起到的作用作为辩护，指出该公司为传播权威信息，开展了世界上最大规模的宣传活动。",
+          "link": "https://www.solidot.org/story?sid=69993",
+          "publishedOn": "2021-12-14T06:43:37.000Z",
+          "wordCount": 93,
+          "title": "Facebook 高管将新冠误导性信息归咎于社会"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69992",
+          "author": null,
+          "description": "Mozilla 基金会发布了 2020 年的财报，公开了其财务健康状况。Mozilla 基金会在 2020 年经历了一段困难时期，其营利性部门 Mozilla 公司在重组时裁掉了大量员工，Firefox 浏览器的份额在不断缩小，浏览器市场被基于 Chromium 的浏览器主导。2020 年 Mozilla 公司收入 4.66 亿美元，主要来自于与 Google 的搜索合作交易，与 2019 年的 4.65 亿美元收入基本相同。但 Mozilla 基金会预测 2021 年的收入将会超过 5 亿美元，主要是它的其它产品服务的收入在缓慢增长，其中包括 Mozilla VPN、Firefox Relay Premium、Pocket 等。Mozilla 执行副总裁 Angela Plohman 和首席财务官 Eric Muhlheim 表示，今年新产品的收入将增长 150%，占总收入的 14%，其中 Mozilla VPN 的收入增长了 450%。",
+          "link": "https://www.solidot.org/story?sid=69992",
+          "publishedOn": "2021-12-14T05:28:58.000Z",
+          "wordCount": 123,
+          "title": "Mozilla 今年收入预计将超过 5 亿美元"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69991",
+          "author": null,
+          "description": "英国首相约翰逊周一表示，英国至少有一人在感染 Omicron 冠状病毒变体后死亡。这是全球范围内首例公开确认这种病毒变体的死亡病例。自 11 月 27 日在英国发现第一例 Omicron 病例以来，约翰逊实施了更严格的限制，并在周日警告说，该变种可能会攻克接种了两针疫苗的人的免疫防御。英国卫生大臣贾伟德(Sajid Javid)表示，目前该变体占伦敦感染病例的44%，并可能在48小时内成为伦敦的主要病毒株。贾伟德还称，单日新增Omicron感染病例估计在20万例。",
+          "link": "https://www.solidot.org/story?sid=69991",
+          "publishedOn": "2021-12-14T05:03:40.000Z",
+          "wordCount": 84,
+          "title": "英国报告首例 Omicron 变体死亡病例"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69990",
+          "author": null,
+          "description": "网信办勒令新浪微博整改。网信办在声明中表示，“近日，国家互联网信息办公室负责人约谈新浪微博主要负责人、总编辑，针对近期新浪微博及其账号屡次出现法律、法规禁止发布或者传输的信息，情节严重，依据《中华人民共和国网络安全法》《中华人民共和国未成年人保护法》等法律法规，责令其立即整改，严肃处理相关责任人。北京市互联网信息办公室对新浪微博运营主体北京微梦创科网络技术有限公司依法予以共计 300 万元罚款的行政处罚。2021 年 1 月至 11 月，国家互联网信息办公室指导北京市互联网信息办公室，对新浪微博实施 44 次处置处罚，多次予以顶格 50 万元罚款，共累计罚款 1430 万元。”",
+          "link": "https://www.solidot.org/story?sid=69990",
+          "publishedOn": "2021-12-14T03:54:05.000Z",
+          "wordCount": 101,
+          "title": "新浪微博被勒令整改"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69989",
+          "author": null,
+          "description": "苹果市值正接近 3 万亿美元，这将是有史以来第一家达到这一市值的上市公司。苹果股价周一最高达到了 181.75 美元，它只要达到 182.85 美元市值就能突破 3 万亿美元。苹果的市值在 2018 年 8 月首次突破 1 万亿美元，2020 年 8 月突破 2 万亿美元。距离苹果最近的微软市值 2.6 万亿美元，Google 母公司 Alphabet 市值接近 2 万亿美元，亚马逊 1.7 万亿美元，特斯拉 1 万亿美元。",
+          "link": "https://www.solidot.org/story?sid=69989",
+          "publishedOn": "2021-12-14T03:13:37.000Z",
+          "wordCount": 105,
+          "title": "苹果有望成为首家 3 万亿美元公司"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69988",
+          "author": null,
+          "description": "《时代》杂志将特斯拉和 SpaceX CEO Elon Musk 评为年度人物。Musk 备受争议，但无论好坏，没有几个人有他那般的影响力。杂志主编 Edward Felsenthal 表示，“马斯克是《时代》周刊 2021 年的年度人物。他为生存危机创造了解决方案；他体现了科技巨头时代的可能性和危险性；他推动了社会最大胆的颠覆性变革。”根据《时代》周刊，“年度人物”必须“对新闻或人们的生活造成最大影响，不论是好是坏”。",
+          "link": "https://www.solidot.org/story?sid=69988",
+          "publishedOn": "2021-12-14T02:52:06.000Z",
+          "wordCount": 105,
+          "title": "《时代》年度人物：Elon Musk"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69987",
+          "author": null,
+          "description": "有没有因为一个人移动得太快而让一张本该完美的照片变模糊？科学家在记录蛋白质因为光改变结构的图像时遇到同样的问题。这个过程在自然界中很常见，多年来研究人员一直在试图捕捉它的细节。但他们长期以来一直被发生时的惊人速度挫败。\n\n\n现在一组来自威斯康星大学密尔沃基分校（UWM）和德国 Deutsches Elektronen-Synchrotron 自由电子激光科学中心的研究人员将机器学习和量子力学计算结合起来，得到了迄今为止光活性黄蛋白（PYP）被光激发后最精确的结构变化记录。他们的研究发表在 11 月的《自然》期刊上，表明他们能将发生在几个飞秒内的过程制作成视频。\n\n\n当 PYP 吸收光时，它会吸收其能量，然后重新排列自身。由于该蛋白质在细胞内的功能是由其结构决定的，每当PYP在光照后折叠或弯曲，都会引起巨大的变化。UWM 的物理学家、研究合作者 Abbas Ourmazd 表示，蛋白质与光相互作用的一个重要例子是植物的光合作用。未参与研究的亚利桑那州立大学应用结构发现生物设计中心主任 Petra Fromme 解释说，更具体地说，PYP 类似于我们眼睛中的蛋白质，当一种叫做视网膜的蛋白质改变形状时，会激活感光细胞，帮助在夜间看到东西。Fromme 指出，PYP 的形状变化还有助于一些细菌检测到可能对其DNA造成损害的蓝光，从而躲开它。\n\n\n多年来，这种重要的光诱导分子形状转变（称为异构化）的细节一直困扰着科学家。Fromme 表示：“你看任何一本教科书，都会说这种异构化会在光激发后的瞬间发生。”但是对于科学家来说，“瞬间”并不是无法量化的——蛋白质结构的变化在极短的时间内发生——被称为飞秒或千万亿分之一秒。Fromme表示，一秒之于飞秒就相当于 3200 万年之于一秒。\n\n\n科学家用同样短的X射线闪光实验性地探测这些短得令人难以置信的时间尺度。新研究使用了一个研究团队在加利福尼亚 SLAC 国家加速器实验室的一个特殊设施中以这种方式获得的数据，团队是由 UWM 物理学家 Marius Schmidt 领导。研究人员首先用光照射 PYP。然后用超短 X 射线爆击中它。从蛋白质反射回来的 X 射线（成为衍射X射线）反映了它的最新结构，这和从物体发射的光帮助拍摄传统照片的方式是一样的。脉冲的短暂性使科学家能在蛋白质的所有原子移动时获得位置的快照，这种方式类似于具有速度非常快的快门可以在猎豹奔跑时捕捉到它的腿的不同位置。",
+          "link": "https://www.solidot.org/story?sid=69987",
+          "publishedOn": "2021-12-13T10:45:25.000Z",
+          "wordCount": 109,
+          "title": "要想看到千万亿分之一秒内的蛋白质变化，请用 AI"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69986",
+          "author": null,
+          "description": "Twitter 要求联邦法官驳回特朗普（Donald Trump）关于他因煽动美国国会骚乱而被禁止进入该平台的诉讼，称是该公司而不是这位前总统的言论自由权利受到了威胁。在圣弗朗西斯科联邦法庭文件中，Twitter 及其首席执行官 Jack Dorsey 表示，Twitter 的第一修正案权利在此案中处于“风口浪尖”，因为特朗普质疑的编辑决定涉及公共关注的问题，包含了对权力和平交接的威胁。该公司在周四晚些时候提交的文件中表示，特朗普“同意遵守 Twitter 的规则，但是却一再违反这些规则”——在他的暴徒支持者对国会大厦进行致命袭击之前、期间和之后，他的推文“可能会鼓励进一步的暴力。”该公司表示，特朗普的言论自由主张也无视了“Twitter 是一个私方当事人，不受联邦宪法约束”。政府“不能强迫 Twitter 之类的私营在线平台传播他们不赞同的言论。”特朗普正在与 Twitter、Meta Platforms 旗下的 Facebook 和 Alphabet 旗下的 Google 的禁令或暂时封禁作斗争，他指责这些科技巨头试图压制保守派的观点并侵犯他的言论自由权利。他也在积极推进计划，成立一家“非觉醒”娱乐和新闻的新媒体公司，其中包含一个竞争性的社交媒体平台。",
+          "link": "https://www.solidot.org/story?sid=69986",
+          "publishedOn": "2021-12-13T10:34:52.000Z",
+          "wordCount": 94,
+          "title": "Twitter 称特朗普因封号提起的言论自由诉讼搞错了对象"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=69985",
+          "author": null,
+          "description": "匹兹堡、田纳西州的孟菲斯和洛杉矶最近出现巨大广告牌，上写“鸟类不是真的”（Birds Aren't Real）。在 Instagram 和 TikTok 上，“鸟类不是真的”的账户吸引了成千上万的关注者，关于该主题的视频在 YouTube 疯狂传播。上个月，“鸟类不是真的”支持者甚至在 Twitter 旧金山总部外抗议，要求该公司修改其鸟形的 Logo。\n\n\n这些都与一个Z世代推动的阴谋论有关，该说法假设鸟类并不存在，它们实际上是美国政府用于监视美国人的无人机。数十万年轻人加入了这场运动，穿着“鸟类不是真的”的T恤，举行集会，传播口号。它可能带有 QAnon 的味道，QAnon是一种阴谋论，认为世界由贩卖儿童的民主党精英政治阴谋集团控制的。不过“鸟类不是真的”运动的创造者和追随者是在开玩笑：实际上他们知道鸟类是真实的，而他们的理论是捏造的。\n\n\n他们表示，“鸟类不是真的”其实是一场有目的的戏仿社会运动。在一个被网络阴谋论主导的后真相世界里，年轻人齐心协力对抗错误信息，对它嗤之以鼻并拿来取笑。这是Z世代以荒谬的方式颠覆“兔子洞”的尝试——很多“鸟类不是真的”的成员都是一个名为 Bird Brigade——一个脚踏实地的激进主义网络的成员，他们在一个充斥着错误信息的世界中长大。一些人的亲属成了阴谋论的受害者。因此，对于Z世代的成员来说，这项运动已经成为集体应对这些经历的一种方式。通过扮演阴谋论者，他们找到了群体和亲切感。（这是 23 岁的 Peter McIndoe 的说法，他在 2017 年一时兴起创造了“鸟类不是真的”。）\n\n\n21 岁的 Cameron Kasky 是佛罗里达州帕克兰市的一名激进分子，他在 2018 年帮助组织了学生抗议枪支暴力的“为我们的生命游行”并参与了“鸟类不是真的”，他表示这种戏仿“让你停下来笑一笑。在独特而无望的成年时期，一起笑一笑并没有什么坏处。”",
+          "link": "https://www.solidot.org/story?sid=69985",
+          "publishedOn": "2021-12-13T10:28:31.000Z",
+          "wordCount": 126,
+          "title": "“鸟不是真的”抗议活动的背后"
+        },
         {
           "id": "https://www.solidot.org/story?sid=69984",
           "author": null,
@@ -4084,141 +4264,6 @@
           "publishedOn": "2021-11-15T13:30:21.000Z",
           "wordCount": 99,
           "title": "江西省政协副主席因涉及挖矿等活动被解除职务"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69626",
-          "author": null,
-          "description": "一颗在地幔深处形成的钻石含有一种自然界从未见过的矿物质。这一发现难得一见地展现了地幔深处的状况，可能有助于揭示地球内部超过 660 公里深处的结构的新信息。这也有助于地质学家更好地理解地幔如何控制地球板块运动。\n毛河光的名字命名的，他进行了一些开创性的实验，用钻石在地球表面产生类似地幔的压力。他们在上周的《Science》杂志上宣布了这一发现。",
-          "link": "https://www.solidot.org/story?sid=69626",
-          "publishedOn": "2021-11-15T12:57:23.000Z",
-          "wordCount": 88,
-          "title": "深地钻石发现新矿物质"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69625",
-          "author": null,
-          "description": "美国科学家开发出一种新形式药物，可促进脊髓损伤小鼠的细胞再生并逆转瘫痪，使它们在四周内通过治疗再度行走。这项研究上周四发表在《Science》期刊上，科学家希望最早明年向美国食品和药物管理局提出人体试验申请。领导这项研究的西北大学的 Samuel Stupp 及其团队使用纳米纤维模拟“细胞外基质”的结构，细胞外基质是一种天然存在于组织周围的分子网络，负责支持细胞。每根纤维大约是人类头发的万分之一，它们由数十万个被称为肽的生物活性分子组成，这些分子传递信号以促进神经再生。在实验中，小鼠的脊椎被切开，24 小时后，将这种疗法以凝胶的形式注射到小鼠脊髓周围的组织中。\n\n\n研究团队的一个关键发现是，在分子中造成某种突变会加强它们的集体运动并提高它们的功效。Stupp 解释说，这是因为神经元中的受体自然地不断运动，增加纳米纤维内治疗分子的运动有助于将它们更有效地与移动目标连接起来。研究人员实际上测试了两种版本的治疗——一种有突变，另一种没有——发现接受改良版本的老鼠恢复了更多的功能。Stupp 表示，科学家开发出的凝胶是同类首创，但可能会开创出被称为“超分子药物”的新一代药物，因为这种疗法是许多分子的组装，而不是单个分子。据该团队称，这是安全的，因为这些材料会在几周内生物降解并成为细胞的营养物质。Stupp 表示，他希望接下来能迅速直接开始进行人体研究，而不需要进行进一步的动物实验，例如灵长类动物实验。",
-          "link": "https://www.solidot.org/story?sid=69625",
-          "publishedOn": "2021-11-15T12:33:09.000Z",
-          "wordCount": 83,
-          "title": "新型药物逆转小鼠瘫痪"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69624",
-          "author": null,
-          "description": "北美企业急于加速装配线但难以增加人工，前九个月中，他们增加的机器人数量创下记录。根据行业组织自动化推进协会汇编的数据，工厂和其他工业用户订购了 29,000 台机器人，比去年同期增长 37%，价值为 14.8 亿美元。超过了新冠疫情颠覆经济之前 2017 年同期的峰值水平。\n\n强劲需求在某些情况下导致关键商品短缺，企业正努力跟上这种需求，急于增加机器人是更大的投资增长的一部分。与此同时很多企业很难将因疫情流失的工人吸引回来，并将机器人视作为装配线增加人手的替代品。机器人还在继续深入经济的更多领域。长期以来，汽车公司购买了大多数的工业机器人。但在 2020 年，其他类型企业的总销售额首次超过了汽车行业——这一趋势今年仍在继续。A3 的数据显示，今年前九个月，汽车相关的机器人订单增长了 20% 至12,544 台，而非汽车公司的订单增长了 53% 至 16,355 台。",
-          "link": "https://www.solidot.org/story?sid=69624",
-          "publishedOn": "2021-11-15T12:26:18.000Z",
-          "wordCount": 89,
-          "title": "美国正雇佣创纪录数量的机器人"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69623",
-          "author": null,
-          "description": "1858 年，伦敦泰晤士河的污水堵塞造成了“大恶臭”。一个世纪后这条著名水道的一部分被宣布为生物学死亡。但关于“泰晤士河状况”的最新报告（PDF）乐观得令人吃惊。伦敦动物学会保护和政策主管 Andrew Terry 在转发报告时写道：今天这条河“和伦敦本身一样，成了多种野生动物的家园。” Terry 指出“压力减少，关键物种和栖息地得到改善。”\n\n\n这些物种中有两种海豹。报告指出，2000 年代初之前，人们对其行踪知之甚少，但现在从伦敦以西的潮汐线，穿过城市中心到外河口，“在泰晤士河里既能看到斑海豹也能看到灰海豹” 。报告中的另一个成功故事是反嘴鹬，这是一种迁移涉水鸟类，由于栖息地丧失，该繁殖物种 1842 年在英国灭绝。报告称，它在二战后开始回归，过去三十年泰晤士河潮汐中的数量增加了一倍多。报告强调了几个有希望的趋势。但也警告说，其他地区仍需开展工作，并提醒气候变化对河流的负面影响，而这条河流是伦敦的主要水源。",
-          "link": "https://www.solidot.org/story?sid=69623",
-          "publishedOn": "2021-11-15T12:13:36.000Z",
-          "wordCount": 82,
-          "title": "伦敦泰晤士河又复活了"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69622",
-          "author": null,
-          "description": "威斯康星麦迪逊分校的一个研究小组找到了一种将氨转化为氮气的新方法，朝着氨取代碳基燃料的方向迈出了一步。这项技术使用金属催化剂释放——而不是需要——能量，研究论文发表在 11 月 8 日的《Nature Chemistry》期刊上，已获得威斯康星校友研究基金会的临时专利。\n\n科学家兴奋地发现，将氨添加到含有类铂元素钌的金属催化剂中会自发产生氮气，意味着不需要额外的能量。这个过程可用来发电，副产品是质子和氮气。此外金属复合物可通过暴露在氧气中回收并重复使用，比使用碳基燃料更清洁。专注于过渡金属化学研究的莱斯特麦克纳尔化学教授 John Berry 表示：“我们不仅在制造氮，而且是在前所未有的条件下制造氮。能在环境条件下完成氨到氮的反应——并获得能量——是一件非常重要的事。”\n\n氨多年来一直被用作燃料。二次世界大战期间，它被汽车使用，今天的科学家正考虑在发动机中燃烧它以替代汽油的方法，特别是在海运业中。然而燃烧氨会释放有毒的氮氧化物气体。新反应避免了有毒副产物。如果反应发生在燃料电池中，氨和钌在电极表面发生反应，可以在不需要催化转化器的情况下清洁发电。",
-          "link": "https://www.solidot.org/story?sid=69622",
-          "publishedOn": "2021-11-15T11:43:39.000Z",
-          "wordCount": 82,
-          "title": "化学家发现从氨获取能量的新方法"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69621",
-          "author": null,
-          "description": "新加坡政府在疫情期间一直在为新冠患者支付医疗费，但它现在表示，未接种疫苗的人很快只能依靠自己。 新加坡卫生部宣布，那些“自愿选择未接种疫苗”的人从 12 月 8 日起开始，将不得不自己支付新冠治疗费用，理由是他们给国家的医疗保健系统带来了压力。它在声明中表示：“目前，在需要重症监护的人中，未接种疫苗的人占据了绝大多数的比例，并且不成比例地加剧了我们医疗资源的压力……”新加坡卫生部长王乙康表示：“我们的医院真的不希望向这些患者收费，但我们必须发出这个重要信号，敦促每一个符合条件的人接种疫苗。”新加坡是世界上疫苗接种率最高的国家之一。根据卫生部的数据， 85% 的人口已完全接种疫苗，18% 的人口接种了加强针。",
-          "link": "https://www.solidot.org/story?sid=69621",
-          "publishedOn": "2021-11-15T11:13:58.000Z",
-          "wordCount": 79,
-          "title": "新加坡将停止支付未接种新冠患者的医疗费"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69620",
-          "author": null,
-          "description": "EURACTIV France 报道，法国公共转型和公务员部长 Amélie de Montchalin 上周在首届巴黎自由软件社区参加的开源体验活动上展示了政府开源开发路线图，表示要建立新世纪的公共行动，作为表率法国将鼓励更多国家开放公共数据和使用开源软件。鉴于今天大部分公民和国家服务之间的联系都是数字化的，Montchalin 相信“透明的文化”对于“民主信任”是必要的。她同时表示这也是一个数字主权的问题。\n根据欧盟委员会 9 月发布的一项研究，2018 年对开源软件的投资产生了 650 到 950 亿欧元的收入。在同一份报告中，法国被誉为欧洲开源政策的领导者。\n\n\n为帮助法国政府更好地利用开源解决方案，Montchalin 宣布在部际数字理事会内成立一个团队，负责该任务的推广和部际协调。她还透露将启动 code.gouv.fr 平台，将托管公立机构发布的所有源代码。法国总理让·卡斯泰 4 月 27 日敦促所有政府部门采取更多措施，“以可以被第三方使用的开放格式”促进对数据、算法和代码的利用。法国总理还敦促他们转向免费和开放的软件。Montchalin 希望国家保留“对其使用的解决方案的控制权”。她还强调了互操作性和可逆性的重要性。互操作性指的是与其他现有或未来产品或系统一起工作的能力，可逆性指的是迁移到另一个解决方案时恢复使用数据和软件的能力。自由软件和开放数字企业联盟联合主席 Stéfane Fermigier 对 EURACTIV 表示：“与使用在欧洲以外托管的专有软件和专有云服务相比，通过使用开源软件，你可以赋予自己更多的自主权。”",
-          "link": "https://www.solidot.org/story?sid=69620",
-          "publishedOn": "2021-11-15T11:01:47.000Z",
-          "wordCount": 100,
-          "title": "法国扩大开源使用，寻求互操作性、数字主权和民主信任"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69619",
-          "author": null,
-          "description": "2019 年 10 月，Google 宣布它的 Sycamore 是第一个实现量子霸权的量子处理器，它在 3 分 20 秒内完成了一项任务，同样的任务当时最强的经典超算——IBM 的 Summit 需要花 10,000 年。这种说法——尤其是 Google 科学家如何得出“10,000 年”的结论——受到了部分研究人员的质疑，但反驳主张本身并不确定。\n\n\n现在，在提交给科学期刊进行同行评审的一篇论文中，中科院理论物理研究所的科学家表示，经典计算机上的算法“使用了 512 个图形处理单元（GPU），在大约15个小时内”完成了对Sycamore 量子电路的模拟，而且保真度高于 Sycamore。该团队还进一步表示，“如果对量子霸权电路的模拟可以在即将推出的高效率 exaflop 超级计算机上实现，原则上整体模拟时间可以减少到几十秒，这比 Google 的硬件实验更快。”\n\n\n2020 年 12 月，中国推出了光子量子计算机，可在200秒内解决高斯玻色子采样问题，而这在经典计算机上需要 6 亿年才能完成，对 Sycamore 说法的反驳将让中国成为首个实现量子霸权的国家。",
-          "link": "https://www.solidot.org/story?sid=69619",
-          "publishedOn": "2021-11-15T09:24:13.000Z",
-          "wordCount": 110,
-          "title": "科学家否定 Google 的量子霸权论"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69618",
-          "author": null,
-          "description": "按照目前的趋势，量子计算机将能破解公钥加密技术，可能会对加密货币世界造成严重威胁，目前部分加密货币的市值达到数千亿美元。\n\n如果加密被破解，攻击者可以冒充加密货币、NFT 或其他此类数字资产的合法所有者。加州大学伯克利分校教授、计算机安全企业家 Dawn Song 在 10 的时对 Collective[i] Forecast 论坛表示：“一旦量子计算足够强大，那么基本上所有的安全保障都会消失。当公钥加密被破解时，用户会丢失资金，整个系统将会崩溃……”\n\n\n\n量子软件制造商 Classiq Technologies 首席执行官 Nir Minerbi 表示：“我们预计，几年内将有足够强大的计算机可以”破解区块链。\n\n对于加密货币爱好者来说，好消息是量子计算问题可以通过采用后量子密码技术来解决，计算机行业已在开发这种技术。美国政府的国家标准与技术研究所试图提前解决这个问题，几年来，它一直在谨慎地研究能抵抗量子计算的密码算法，全球的研究人员都参与其中。一些加密货币和区块链项正积极地开发对抗量子计算的软件……\n\n\n\n量子计算机制造商 IonQ 首席执行官 Peter Chapman 表示，目前研究中的后量子加密算法的一个问题是，它们通常需要更长的数字加密密钥和更长的处理时间。这可能会大大增加容纳区块链所需的计算能力......\n\nPermission.io 公司将加密货币用于有针对性的广告系统，该公司首席技术官 Hunter Jensen 表示，对加密货币的真正量子测试将是治理结构，而不是技术……Post Quantum 公司销售后量子加密技术，公司首席执行官 Andersen Cheng 表示：“如果社区行动太慢或者太过混乱，真正去中心化的加密货币将会受到打击。”",
-          "link": "https://www.solidot.org/story?sid=69618",
-          "publishedOn": "2021-11-15T07:58:07.000Z",
-          "wordCount": 105,
-          "title": "加密货币会面临量子计算问题？"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69617",
-          "author": null,
-          "description": "IBM CEO Arvind Krishna 宣称该公司在量子计算上取得了突破。IBM 称它的新 Eagle 处理器能处理 127 个量子比特，IBM 表示这具有里程碑的意义，因为突破 100 量子比特就使得量子计算超过了传统计算机的能力。Krishna 看好量子计算能在数年内展现实力，但其他人认为至少需要十年。他表示量子计算是工程上的壮举。",
-          "link": "https://www.solidot.org/story?sid=69617",
-          "publishedOn": "2021-11-15T07:46:33.000Z",
-          "wordCount": 87,
-          "title": "IBM 称量子计算取得突破"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69616",
-          "author": null,
-          "description": "硅谷创业公司 Cerebras Systems 再次融资 2.5 亿美元，估值超过 40 亿美元。Cerebras 研发的 AI 芯片  Wafer Scale Engine（WSE)是世界上最大的计算机芯片。企业通常在 AI 项目中使用 GPU 进行训练和计算，而市场上最快的 GPU 有大约 540 亿个晶体管。Cerebras 的最新 AI 芯片 WSE2 的晶体管数量高达 26 万亿。芯片制造商通常会把 12 英寸直径的硅锭切割成一块晶圆，然后再切割成数百个独立芯片。Cerebras 则是直接将一块晶圆加工成一个单一的巨大芯片。WSE 2 有 85 万个核心，其核心对神经网络使用的特定数学运算进行了优化，片内缓存达到 40GB，内存带宽 40 PB/s，采用 7 纳米工艺。WSE 2 的核心数是最接近 GPU 的 123 倍，它的处理效率更高，因为数据无需在不同服务器之间传输，其神经网络的运行速度也更快。",
-          "link": "https://www.solidot.org/story?sid=69616",
-          "publishedOn": "2021-11-15T05:53:14.000Z",
-          "wordCount": 133,
-          "title": "Cerebras Systems 的 AI 芯片 WSE2 有 26 万亿晶体管"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69615",
-          "author": null,
-          "description": "在苏格兰举行的联合国气候谈判以一项全球协议结束，该协议旨在保持将全球变暖控制在 1.5 摄氏度的希望，从而守住拯救世界免受灾难性气候变化影响的机会。在格拉斯哥举行的第 26 届联合国气候变化大会(COP26)原定为期两周，由于谈判艰难又延长了一天。会议首次呼吁减少使用化石燃料，化石燃料不仅为世界大部分经济提供动力，也是造成人为全球变暖的主要原因。谈判最后一刻出现戏剧性一幕。印度在中国和其他依赖煤炭的发展中国家的支持下，对协议的这部分内容提出反对意见，并要求修改措辞。这一条款被匆匆修正，要求各国加快努力，“逐步减少”煤电，而不是“逐步淘汰”。协议实际上承认，迄今为止为减少温室气体排放所做的承诺远远不够，并要求各国明年制定更严厉的气候承诺，而不是像目前要求的那样每五年一次。协议敦促富国在 2025 年前将用于气候适应的资金在 2019 年的基础上增加一倍。",
-          "link": "https://www.solidot.org/story?sid=69615",
-          "publishedOn": "2021-11-15T05:09:00.000Z",
-          "wordCount": 79,
-          "title": "联合国气候变化大会达成全球协议"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69614",
-          "author": null,
-          "description": "黑客周六入侵了 FBI 的一个电子邮件系统，发送了数万条假信息，警告可能发生网络攻击。FBI 在一份声明中说，假电邮似乎发送自一个以 @ic.fbi.gov 结尾的合法 FBI 邮箱地址。FBI 称，尽管受该事件影响的硬件“在问题被发现后迅速下线，但这是一个持续的情况”。威胁追踪组织 Spamhaus Project 在其推特账户上说，黑客发送了数万封电子邮件，警告可能发生网络攻击。Spamhaus 在推特上发布的其中一封电邮副本显示，邮件标题为“紧急：系统中的威胁行为者”，落款似乎是国土安全部。",
-          "link": "https://www.solidot.org/story?sid=69614",
-          "publishedOn": "2021-11-15T04:50:34.000Z",
-          "wordCount": 87,
-          "title": "黑客侵入 FBI 电邮系统"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69613",
-          "author": null,
-          "description": "彭博援引知情人士消息报导，拜登政府出于安全考虑，拒绝了英特尔在中国增产芯片的计划，使得这个旨在解决美国芯片短缺问题的想法遇挫。知情人士表示，全球最大芯片制造商英特尔提议使用中国成都的一家工厂生产晶圆。这部分生产本可在2022年底上线，帮助缓解全球供应紧张的状况。但与此同时，英特尔一直在寻求联邦援助，以加大在美国的研发和生产。消息人士说，最近几周提出该计划时，拜登政府官员强烈反对这么做。",
-          "link": "https://www.solidot.org/story?sid=69613",
-          "publishedOn": "2021-11-14T15:00:11.000Z",
-          "wordCount": 71,
-          "title": "白宫反对英特尔在中国增产芯片计划"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69612",
-          "author": null,
-          "description": "Palo Alto Networks 的 GlobalProtect VPN 刚刚修复了一个缓冲溢出的高危漏洞，而安全公司 Randori 是在 12 个月前发现该漏洞，但一直将其作为秘密内部使用，而不是尽快报告给软件供应商。编号为 CVE-2021-3064 的高危漏洞（威胁评分 9.8/10）影响 PAN-OS 8.1.17 之前的版本，已有超过一年历史，但 Randori 根据 Shodan 搜索发现有大约 1 万台联网的企业服务器运行存在漏洞的版本。为何不尽早报告漏洞？Randori 声称该漏洞作为红队的工具用于对客户的网络进行安全测试，表示 0day 漏洞对于客户以及整个网络安全世界的成功是必不可少的。",
-          "link": "https://www.solidot.org/story?sid=69612",
-          "publishedOn": "2021-11-14T13:40:47.000Z",
-          "wordCount": 100,
-          "title": "安全公司等待 12 个月后才报告高危漏洞"
         }
       ]
     },
@@ -4226,7 +4271,17 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://humanwhocodes.com/blog/2021/12/making-open-source-project-sponsor-ready-companies-trust/",
+          "author": "Nicholas C. Zakas",
+          "description": "Early on, it was a battle to get sponsorship for open source projects. What used to require phone calls and drawn-out discussions has now been streamlined thanks to efforts like Open Collective1 and GitHub Sponsors2. Companies and individuals can now know if a project accepts donations just by looking at the project page on GitHub,...",
+          "link": "https://humanwhocodes.com/blog/2021/12/making-open-source-project-sponsor-ready-companies-trust/",
+          "publishedOn": "2021-12-14T00:00:00.000Z",
+          "wordCount": 1652,
+          "title": "Making your open source project sponsor-ready, Part 1: Companies and trust"
+        }
+      ]
     },
     {
       "title": "宁南山 - 知乎动态",
