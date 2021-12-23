@@ -12,6 +12,24 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=40894",
+          "author": "Poto",
+          "description": "键道6是不用选字的字词输入方案，既兼容传统的字词输入，又能以字词顶屏的方式，省略空格，一口气连续敲出一句子。 键道有三特色： 顶功 飞键 不用选字。 顶功 让你直接打出一句子，不用敲空格。双拼+笔形的",
+          "link": "https://www.appinn.com/xkinput-jiandao6/",
+          "publishedOn": "2021-12-22T11:44:17.000Z",
+          "wordCount": 595,
+          "title": "键道6 – 不用选字、连词成句的「双拼顶功」输入方案"
+        },
+        {
+          "id": "https://www.appinn.com/?p=40881",
+          "author": "青小蛙",
+          "description": "Mark Text 是一款简单易用的跨平台开源 Markdown 编辑器，可用于 Linux、macOS 和 Windows，支持表格、流程图、甘特图、数学公式、代码高亮、图床等功能，还拥有多种主题、",
+          "link": "https://www.appinn.com/mark-text/",
+          "publishedOn": "2021-12-22T03:42:51.000Z",
+          "wordCount": 888,
+          "title": "Mark Text – 跨平台开源 Markdown 编辑器"
+        },
+        {
           "id": "https://www.appinn.com/?p=40882",
           "author": "青小蛙",
           "description": "OneMark 是一款专门为 Windows 系统下的 OneNote 程序提供 Makdown 支持的插件，支持主流 Markdown 语法，代码块、LaTex 以及 TOC 目录，还支持实时预览。",
@@ -487,15 +505,6 @@
           "publishedOn": "2021-11-24T04:09:20.000Z",
           "wordCount": 578,
           "title": "Extract.pics – 输入网址后，1 键批量下载网页全部图片[Web]"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40533",
-          "author": "青小蛙",
-          "description": "音乐标签是一款可以将音乐标题、演唱者姓名、封面图、歌词、专辑名等信息添加至音乐文件中的软件，支持 Windows、Android，信息源来自 QQ 音乐、网易云音乐、iTunes、酷我、Last.fm",
-          "link": "https://www.appinn.com/music-tag-editor-windows-and-android/",
-          "publishedOn": "2021-11-23T09:28:19.000Z",
-          "wordCount": 763,
-          "title": "音乐标签 – 自动将音乐标题、演唱者、封面图、歌词、专辑名添加到音乐文件内，支持 QQ、网易云、iTunes 信息源[Android/Windows]"
         }
       ]
     },
@@ -504,6 +513,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=359033",
+          "author": "Una Kravets",
+          "description": "Ensuring accessibility is a clear path to making your website better. When you make your site accessible, you grow your audience, improve the experience for all people using it (not just those with accessibility needs), and you get SEO benefits…",
+          "link": "https://css-tricks.com/personalize-it/",
+          "publishedOn": "2021-12-23T00:10:06.000Z",
+          "wordCount": 818,
+          "title": "Personalize it!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359675",
+          "author": "Chris Coyier",
+          "description": "There was a time when I’d write React, Angular, and Ember as a kind of generic grouping of three major JavaScript frameworks. And maybe just because three is a nice number, that became React, Vue, and Angular over time, thanks …",
+          "link": "https://css-tricks.com/why-ember/",
+          "publishedOn": "2021-12-22T16:10:40.000Z",
+          "wordCount": 615,
+          "title": "Why Ember?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358761",
+          "author": "Melanie Sumner",
+          "description": "NGL, I was a little overwhelmed when I sat down to write this article. There are so many things that immediately flooded my mind—take out any extra divs; use links for URLs, use buttons for events and actions; use …",
+          "link": "https://css-tricks.com/increase-your-reach/",
+          "publishedOn": "2021-12-22T16:07:56.000Z",
+          "wordCount": 1550,
+          "title": "Increase Your Reach"
+        },
         {
           "id": "https://css-tricks.com/?p=359146",
           "author": "Chris Coyier",
@@ -1079,33 +1115,6 @@
           "publishedOn": "2021-11-23T16:06:44.000Z",
           "wordCount": 4037,
           "title": "Control Layout in a Multi-Directional Website"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357149",
-          "author": "Chris Coyier",
-          "description": "Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:\nThere was a line that really stood out to me: \nThe idea that it’s alright to do whatever unethical thing is currently the \n…\nThe post On User Tracking and Industry Standards on Privacy appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/",
-          "publishedOn": "2021-11-22T21:00:50.000Z",
-          "wordCount": 1985,
-          "title": "On User Tracking and Industry Standards on Privacy"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357046",
-          "author": "Chris Coyier",
-          "description": "A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:\n.mw-collapsible-leftside-toggle .mw-collapsible-toggle {\n  /* @noflip */\n  float: left;\n  /* @noflip */\n  text-align: left;\n}\nWhat’s that @noflip business? That’s …\nThe post CSS “decorations” appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/css-decorations/",
-          "publishedOn": "2021-11-22T18:48:00.000Z",
-          "wordCount": 781,
-          "title": "CSS “decorations”"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357080",
-          "author": "Temani Afif",
-          "description": "We cannot talk about web development without talking about Responsive Design. It’s just a given these days and has been for many years. Media queries are a part of Responsive Design and they aren’t going anywhere. Since the introduction of …\nThe post Responsive Layouts, Fewer Media Queries appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/responsive-layouts-fewer-media-queries/",
-          "publishedOn": "2021-11-22T15:29:03.000Z",
-          "wordCount": 4517,
-          "title": "Responsive Layouts, Fewer Media Queries"
         }
       ]
     },
@@ -1209,6 +1218,168 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=70098",
+          "author": null,
+          "description": "从智能手机到学校到娱乐，父母可轻松跟踪孩子几乎全部的生活。所有智能手机都配备了开箱即用的共享位置功能，Life360 或 Bark 等受欢迎应用以低廉的价格提供“增强”功能，例如驾驶监控和相册扫描等。这些应用背后的公司收集了关于数百万青少年和儿童的大量数据；Life360 最近因将其出售给数据掮客而受到抨击，这些掮客反过来将有关儿童行踪的信息出售给“几乎任何想要购买它的人”。默认情况下，从 Netflix 到 Microsoft 的各种服务会通过家庭账户将关于儿童活动的信息通知给家长。（有一些服务如 Amazon，干脆无法关闭家长通知。）学校越来越多地通过具有家长 Web 界面的学习管理系统提供孩子的日常成绩和作业完成情况记录。（ClassDojo 行为监控系统声称在美国95%的小学都在使用。）这些系统不仅给教师造成了负担，而且还产生了家长将密切监控课堂表现的预期。对社交媒体危害的回应通常建议加强家长监控，以解决算法放大对未成年人危险的内容的问题，正如参议员 Richard Blumenthal 在去年秋天要求 Facebook（现为Meta）“结束 Finsta”时所做的那样，他用了家长不了解的“假Instagram”这个俚语，允许更多的家长监控。如果你的孩子玩多人游戏，那么你基本上就是一道主要防线，帮助他们抵御在线霸凌并同与他们共享服务器的、有问题的成年人打交道。一些父母还使用了家庭摄像头监督独自在家的孩子，很多家庭做了设置，以便能有效地监控在线活动。如果你每天会多次查看孩子的位置，在他们交作业或者租电影时得到通知，跟踪他们在社交媒体和游戏中的聊天内容并阅读他们的短消息，你的表现就或多或少地像是 Cory Doctorow 在《Little Brother》中描绘的美国国土安全部(DHS)的暴徒。（但由于你们只是一两个人，这可能会耗占你们大部分的日常生活。）陷入这种父母全景式监狱毫不费力：简单、漂亮而诱人的界面旨在让父母们感到持续监控是温暖、模糊并负责任的。已知地图上孩子的圆形头像减轻了自古以来父母养育子女时的内心焦虑。当我们在线查看孩子并发现他们是安全时，这些设计会让我们认为他们是安全的，因为我们已检查过了。",
+          "link": "https://www.solidot.org/story?sid=70098",
+          "publishedOn": "2021-12-22T10:34:51.000Z",
+          "wordCount": 92,
+          "title": "全方面儿童监视技术让父母陷入陷阱"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70097",
+          "author": null,
+          "description": "一项新研究显示压力本身会驱使女性过度饮酒，但同样的压力下男性不会过度饮酒。实验中参与者在一间模拟酒吧中，在压力状况和无压力状况下饮用酒精饮料。压力导致女性（而非男性）饮酒量超出预期，这一发现表明研究酒精消费性别差异的重要性。研究发表在《成瘾行为心理学》上。 研究主要作者、ASU 助理研究教授 Julie Patock-Peckham 表示：“有些人可能打算喝上一两杯酒精饮料就停止，但是另一些人则会继续喝。这种饮酒控制受损是酒精使用障碍的最初指标之一，我们知道压力会导致饮酒控制受损和饮酒失调。压力对饮酒控制受损的作用尚未得到充分研究，特别是针对女性。”研究在一间模拟成酒吧的研究实验室中进行，实验室里配有调酒师、吧台椅和生动的对话。参与者包括 105 名女性和 105 名男性。他们被随机分为不同的组，有些人经历了压力情况，而另一些人则处于无压力状态。接下来，一半的参与者喝下了相当于三杯鸡尾酒的酒精饮料，另一半则喝下了三杯不含酒精的饮料。之后所有参与者都可以在 90 分钟内不受限制地享用酒吧的酒精饮料。实验规则让研究团队确定压力、最初饮酒量或者是两个因素一起是否会影响参与者消耗的酒精量。该团队用饮酒总量和呼吸血液酒精（BAC）读数来测量酒精消耗量。",
+          "link": "https://www.solidot.org/story?sid=70097",
+          "publishedOn": "2021-12-22T10:30:42.000Z",
+          "wordCount": 82,
+          "title": "压力本身会导致女性过度饮酒但男性不会"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70096",
+          "author": null,
+          "description": "英格兰北部海滩发现了有史以来最大的巨型古马陆化石——和汽车一样大。 化石是名叫古马陆（Arthropleura）的生物遗骸，可追溯到大约 3.26 亿年前的石炭纪，比恐龙时代早 1 亿年。化石显示，古马陆是已知有史以来最大的无脊椎动物，比之前保持该项记录的古代海蝎还大。在纽卡斯尔以北约40英里的诺森伯兰海滩上发现的这个标本由多块铰接的外骨骼部分组成，样子大致像是现代的千足虫。这是迄今为止发现的第三块此类化石。它也是最古老也最大的一块：该部分长约 75 厘米，而估计该原始生物长约 2.7 米，重约 50 公斤。研究结果发表在《地质学会杂志》上。这块化石是 2018 年 1 月在一大块从悬崖上掉落到诺森伯兰郡豪威克湾海滩上的砂岩中发现的。论文第一作者、剑桥大学地球科学系的 Neil Davies 博士表示：“完全是一次偶然的发现。巨石坠落的方式让它裂开，将化石完美暴露出，一位前博士生路过时碰巧发现了它。”与该地区今天凉爽潮湿的气候不同，诺森伯兰郡在石炭纪更像是热带气候，当时英国位于赤道附近。无脊椎动物和早期的两栖动物以散布在众多小溪和河流周围的植被为生。研究人员确定的标本是在一条河道化石中发现的：它很可能是古马陆外骨骼的遗蜕，里面充满了沙子，保存了数亿年。",
+          "link": "https://www.solidot.org/story?sid=70096",
+          "publishedOn": "2021-12-22T10:26:32.000Z",
+          "wordCount": 89,
+          "title": "化石揭示“像汽车一样大”的古马陆曾在英格兰北部游荡"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70095",
+          "author": null,
+          "description": "被开发用于治疗艾滋病和艾滋病毒的药物能为被诊断患有最常见原发性脑肿瘤患者带来希望。由慈善机构 Brain Tumor Research 共同资助的这一突破意义重大，如果进一步研究得出结论，这些抗逆转录病毒药物可用于治疗被诊断为脑膜瘤和听神经瘤脑肿瘤（也称为神经鞘瘤）的患者。这些类型的肿瘤在手术和放射治疗后经常复发，治疗的选择很少。\n\n\n脑膜瘤是最常见的原发性脑肿瘤。大多数是低级别的，由位于保护大脑和脊髓的脑脊膜中的细胞发展而来，随着时间的推移，它可能会癌变。听神经瘤是一种不同类型的低级别或非癌性脑肿瘤，它在名为雪旺细胞（Schwann cells）的神经保护细胞中发育。两种肿瘤都可能自发产生，通常发生在成年期，或者作为遗传性疾病2型神经纤维瘤病发生在儿童期/青春期早期。\n\n\n普利茅斯大学脑肿瘤研究中心的研究人员此前表明，一种名为 Merlin 的肿瘤抑制因子会促进脑膜瘤、听神经瘤和室管膜瘤的发展。它还可能导致2型神经纤维瘤病(NF2)。通过控制分裂或修复 DNA 中的错误，肿瘤抑制基因在正常细胞中发挥重要作用。当肿瘤抑制因子不能正常工作或缺失时，细胞生长会失控，导致癌症出现。在最新的研究中，研究员 Sylwia Ammoun 博士和合作者 Robert Belshaw 博士研究了 DNA 特定片段在肿瘤发展中的作用。名为“内源性逆转录病毒HERV-K”的 DNA 片段是曾经影响过灵长类祖先的古代感染的遗物，它们已成为人类 DNA 的稳定元素。",
+          "link": "https://www.solidot.org/story?sid=70095",
+          "publishedOn": "2021-12-22T10:06:09.000Z",
+          "wordCount": 94,
+          "title": "艾滋药物或能用于治疗低级别脑肿瘤"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70094",
+          "author": null,
+          "description": "放弃 Twitter 首席执行官职位专注于共同创建的移动支付公司的比特币热心支持者 Jack Dorsey 表达了他对所谓的 Web3 技术以及 Andreessen Horowitz 等风险投资机构参与的不满。Web3 目前仍是一个含义模糊的术语，指的是基于区块链的去中心化系统和技术，意在取代我们熟知的互联网，它在今年吸引到了很多的关注和资金，Andreessen Horowitz 是 Web3 声音最响亮的支持者之一。在以太坊和 Solana 区块链上交易不可替代的代币（NFT）是其最显著的表现形式，许多公司都在这些平台去中心化应用程序和游戏的开发上进行投资。Dorsey 在推文中写道：“你不拥有‘Web3’。风险投资机构和他们的有限合伙人才拥有它。Web3 永远也摆脱不了他们的激励机制。”帖子吸引了超过 16,000 个喜欢和数以千计的转发。很多人反对他的看法，留下了“非常不同意”和“大错特错”之类的评论，但也有很多人表示支持。特斯拉首席执行官 Elon Musk 也加入了这场讨论，询问是否有人看到过 Web3，Dorsey 回答称“它在a和z之间”，暗示它被 Marc Andreessen 和 Ben Horowitz 创立的风险投资公司操控，该公司通常被简写成 a16z。",
+          "link": "https://www.solidot.org/story?sid=70094",
+          "publishedOn": "2021-12-22T09:53:41.000Z",
+          "wordCount": 112,
+          "title": "Jack Dorsey 称 Web3 是风投的玩物"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70093",
+          "author": null,
+          "description": "两项新研究表明，虚数对于准确描述现实是必要的。虚数是负数取平方根后得到的数，绝大多数重要的量子力学方程都需要使用虚数，量子力学是物理学描述微观世界的一个分支。当你将虚数和实数相加时，两者形成复数，这使物理学家能用简单的术语写出量子方程。但量子理论是否需要这些数学嵌合体，还是只是为了方便，这个问题长期以来一直存在着争议。事实上，即使是量子力学的创始人自己也认为在他们的方程中包含复数的含义令人不安。物理学家薛定谔（Erwin Schrodinger）用量子波函数第一次将复数引入量子理论，在写给他的朋友洛伦兹（Hendrik Lorentz）的一封信中，他写道：“复数的使用在这里令人不快，实际上是被直接反对的。量子波函数从根本上说肯定是一个实函数。”\n\n\n薛定谔确实找到了方法，用实数和一组如何使用方程的额外规则表达方程，后来的物理学家也对量子理论的其他部分做了相同的事情。但是在没有确凿的实验证据来证明这些“全实数”方程预测的情况下，一个问题一直存在：虚数是一种可选的简化，还是试图在没有它们的情况下工作会剥夺量子理论描述现实的能力？现在 12 月 15 日发表在《自然》和《物理评论快报》期刊上的两项研究证明薛定谔是错误的。通过一个相对简单的实验，他们表明如果量子力学是正确的，虚数就是我们宇宙数学的必要组成部分。论文的主要作者、西班牙光子科学研究所的理论物理学家 Marc-Olivier Renou 表示：“量子力学的早期创始人找不到任何方法解释理论中出现的复数。”“复数用起来很好，但是没有明确的方法来确定具有现实元素的复数。”为了测试复数是否具有现实重要性，第一项研究的作者对被称为贝尔试验的经典量子实验进行少许设计上的调整。贝尔试验由物理学家 John Bell 在 1964 年首次提出，目的是证明量子理论要求的量子纠缠——两个相距遥远的粒子间的奇怪联系，爱因斯坦（Albert Einstein）反对这一观点，称其为“鬼魅般的超距作用”。",
+          "link": "https://www.solidot.org/story?sid=70093",
+          "publishedOn": "2021-12-22T09:20:34.000Z",
+          "wordCount": 87,
+          "title": "研究发现描述现实需要虚数"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70092",
+          "author": null,
+          "description": "史上第一条短信“圣诞快乐”以“不可替代的代币(NFT)”的形式，在巴黎拍卖行以 107,000 欧元（121,000美元）的价格售出。该短信于 1992 年 12 月 3 日发送，由英国电信公司 Vodafone 送拍。Vodafone 工程师 Neil 从他的电脑上将这条短信发送给英国的一位经理，后者通过他 2 公斤重的“Orbitel”手机接收。Orbitel 类似于座机，但是没有连线，并有一个手柄。",
+          "link": "https://www.solidot.org/story?sid=70092",
+          "publishedOn": "2021-12-22T09:06:49.000Z",
+          "wordCount": 95,
+          "title": "“圣诞快乐”第一条短信 NFT 在巴黎拍卖会上以超过 10 万欧元成交"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70091",
+          "author": null,
+          "description": "一枚 Space Launch System (SLS)重型火箭价格要多高才算太贵？要高到什么程度才会取消？据估计 SLS 单次发射成本为 15.5 亿美元。美国的航天飞机计划在其 30 年历史中总共花费了 2090 亿美元，是 NASA 自阿波罗登月计划之后最昂贵的项目，但 NASA 的 SLS 项目让航天飞机项目看起来小巫见大巫。两年前美国管理和预算办公室(OMB)的调查估计，每一次 NASA 发射新 SLS 火箭，纳税人将赌上“超过 20 亿美元”。事实证明 OMB 还是乐观了。\n\n\n上周 NASA 向其 SLS 项目的主分包商诺斯罗普格鲁曼授予了一份价值 32 亿美元的合同，为用于 Artemis 登月计划的五枚 SLS 火箭制造火箭推进器。NASA 解释称，这些推进器对 Artemis 计划至关重要，为“每次 SLS 发射提供超过 75% 的推动力”，但它们确实代价不菲。每个火箭推进器将让纳税人花费——也就是诺斯罗普格鲁曼赚取超过2.9亿美元。只需花费购买一枚诺斯罗普格鲁曼推进器（每次发射完成之后就会被丢弃）的钱，NASA 就可以购买两枚完整的 SpaceX 火箭。用诺斯罗普帮助单次 SLS 发射费用，NASA 就可以完成四次猎鹰重型火箭发射任务。",
+          "link": "https://www.solidot.org/story?sid=70091",
+          "publishedOn": "2021-12-22T09:03:55.000Z",
+          "wordCount": 131,
+          "title": "NASA 的 SLS 火箭成本上涨 32 亿美元"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70090",
+          "author": null,
+          "description": "微软的语音助手 Cortana 早已整合在 Windows 系统中，它的名字源自于微软旗下游戏《光晕》中的人工智能。前微软产品经理 Sandeep Paruchuri 在接受采访时透露了 Cortana 的早期开发过程。Cortana 最早是由一个小团队为 Windows Phone 8.1 开发的，它的开发代号包括了 Alyx 和 Cortana，当时准备卸任的微软 CEO 鲍尔默（Steve Ballme）试图将其命名为 Bingo，以作为分手礼物。Paruchuri 说鲍尔默的品味比较差。Cortana 的开发者受到了苹果语音助手 Siri 的启发，但希望它能更主动，能根据上下文和用户数据提供建议，而不只是响应直接的输入。开发者同时希望 Cortana 比 Siri 或 Google Now 更有个性。",
+          "link": "https://www.solidot.org/story?sid=70090",
+          "publishedOn": "2021-12-22T08:40:00.000Z",
+          "wordCount": 109,
+          "title": "鲍尔默曾试图让 Cortana 叫 Bingo"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70089",
+          "author": null,
+          "description": "长期称霸域名排名榜单的 Google.com（包括 Maps、Translate、Photos、Flights、Books 和 News 等）在 2021 年被北京字节跳动旗下的短视频应用 TikTok 打败了。云服务公司 Cloudflare 公布了基于访问流量的域名排名：2020 年前十是 1 Google.com，2 Facebook.com，3 Microsoft.com，4 Apple.com，，5 Netflix.com，6 Amazon.com，7 TikTok.com，8 YouTube.com，9 Instagram.com，10 Twitter.com。 Google.com 此前一直没有遭遇真正的挑战，但进入 2021 年之后情况发生了变化，2021 年 2 月 17 日，TikTok 登顶一天。3 月和 5 月 TikTok 登顶多天。进入 8 月之后，TikTok 开始长期成为访问量最高的域名。2021 年访问量排名前十的域名变成了：\n1 TikTok.com\n2 Google.com\n3 Facebook.com\n4 Microsoft.com\n5 Apple.com\n6 Amazon.com\n7 Netflix.com\n8 YouTube.com\n9 Twitter.com\n10 WhatsApp.com",
+          "link": "https://www.solidot.org/story?sid=70089",
+          "publishedOn": "2021-12-22T07:14:13.000Z",
+          "wordCount": 137,
+          "title": "2021 年最受欢迎的域名是 TikTok"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70088",
+          "author": null,
+          "description": "美国人口普查局发布的数据显示，美国人口增长在疫情第一年降至有记录以来的最低水平。从 2020 年 7 月到 2021 年 7 月，美国新增人口仅为 392,665 人，增长率 0.1%，为美国立国以来的最低水平。其中人口净增长 148,043 人，外国移民净流入 244,622 人，这也是美国首次自然新增人口低于移民净流入人口。这些数据凸显了新冠疫情对美国人口结构的显著影响。此前美国每年新增人口都在 200 万以上。",
+          "link": "https://www.solidot.org/story?sid=70088",
+          "publishedOn": "2021-12-22T06:10:41.000Z",
+          "wordCount": 88,
+          "title": "美国人口增长在疫情第一年降至纪录低点"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70086",
+          "author": null,
+          "description": "Apache Java 日志框架 Log4j2 曝出的严重漏洞影响了无数应用和服务，而发现该漏洞的阿里云因未及时向工信部通报漏洞被“暂停阿里云公司作为工信部网络安全威胁信息共享平台合作单位 6 个月。暂停期满后，根据阿里云公司整改情况，研究恢复其上述合作单位”。阿里云是在 11 月 24 日向 Apache 报告了漏洞，而工信部网络安全威胁和漏洞信息共享平台直到 12 月 9 日才收到 Log4j2 相关的报告，12 月 17 日工信部通报称，该漏洞可能导致设备远程受控，进而引发敏感信息窃取、设备服务中断等严重危害，属于高危漏洞。",
+          "link": "https://www.solidot.org/story?sid=70086",
+          "publishedOn": "2021-12-22T05:19:29.000Z",
+          "wordCount": 97,
+          "title": "阿里云因未及时通报 Log4j2 漏洞被处罚"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70085",
+          "author": null,
+          "description": "宇宙膨胀率，即哈勃常数提供了对宇宙规模、年龄和密度的重要估计。根据哈勃太空望远镜的最新测量，宇宙空间中一些未知的“成分”正迫使宇宙比科学家根据模型预测的速度更快地膨胀。在一项新研究中，一组使用哈勃太空望远镜的研究人员收集了新的数据，似乎证实了这样一种理论，哈勃常数不断出现差异，是天文学家尚未发现的某种神秘的基本因素造成的。研究人员基于两种方法预测哈勃常数。宇宙学家利用普朗克卫星研究来自早期宇宙的第一束宇宙光，即大爆炸后约38万年，并已确定该常数约为 67。这意味着宇宙每隔 326 万光年就会以每秒约67公里的速度膨胀。然而研究晚期宇宙中的恒星和星系的天文学家们，测量出在恒星诞生和星系形成之后，哈勃常数大约为 74。",
+          "link": "https://www.solidot.org/story?sid=70085",
+          "publishedOn": "2021-12-21T15:19:11.000Z",
+          "wordCount": 75,
+          "title": "宇宙膨胀的速度比以前认为的更快"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70084",
+          "author": null,
+          "description": "Tor 项目回顾了 2021 年同时展望了 2022 年。Tor 项目在 2020 年经历了艰难的一年，以疫情为由裁掉 13 名雇员。2021 年 Tor 项目的财务状况更稳定也更健康，能再次雇佣开发者。Tor 浏览器稳定版整合了 Snowflake，用连接页取代了 Tor 启动器，发布了一个支持论坛。2022 年 Tor 项目将改进 Tor 守护进程代码（daemon code），改进 Tor 网络的拥堵控制，进一步改进用户使用体验，Tor 项目还将致力于改善移动用户的使用体验，首先从最大的平台 Android 开始。",
+          "link": "https://www.solidot.org/story?sid=70084",
+          "publishedOn": "2021-12-21T14:40:32.000Z",
+          "wordCount": 105,
+          "title": "Tor 项目展望 2022 年"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70083",
+          "author": null,
+          "description": "在发表在《Science Advances》期刊上的一篇论文中，来自圣安东尼奥市德克萨斯大学健康科学中心（UT Health San Antonio）的作者报告说，去甲肾上腺素——一种大脑功能的基础化合物，在大脑区域视觉皮层被局部调控。论文主要作者、医学博士、UT Health San Antonio 的细胞和综合生理学助理教授 Martin Paukert 表示：“此前的研究提出了局部调控去甲肾上腺素释放的可能性，但是它从未被直接证明过。”去甲肾上腺素与注意力有关。Paukert 博士表示：“需要释放一定量的这种化合物才能获得最佳的大脑性能和注意力。”“因此释放的量过多或者过少都会影响我们处理信息的方式。”研究还发现星形胶质细胞在大脑和中枢神经系统中充当辅助细胞。Paukert 博士表示：“当一个人做一个动作，比如扭头听父母说话，这个动作结合了视觉刺激，那么在处理视觉信息的地方就会释放更多的去甲肾上腺素。我们的第二个发现也很重要，星形胶质细胞能可靠地检测甲肾上腺素的释放率。”",
+          "link": "https://www.solidot.org/story?sid=70083",
+          "publishedOn": "2021-12-21T11:28:11.000Z",
+          "wordCount": 84,
+          "title": "视觉刺激如何抓住你的注意力"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70082",
+          "author": null,
+          "description": "对大多数动物而言，生活就是决定去哪里。在世界中奔跑、游泳或飞翔，动物不断地做出行动的决定，选择去哪里进食、在哪里躲避以及和谁交往。神经生物学在过去几十年里的突破，包括获得 2014 年诺贝尔医学奖的突破已经拼凑出动物表示空间分布选择的图景。现在一个国际研究团队应用这些神经生物学知识了解动物如何从分散在空间中的选项中进行选择。从神经生物学、物理学和动物行为中汲取灵感，这个跨学科的团队构建了一个大脑决策的计算模型。该模型具有大脑表示“空间”选项的特征——在这种情况下是指向潜在目的地的方向——以了解如何在移动中做出决策。由此产生的模型预测，大脑会自发地将多个选项之间的决策分解为一系列二选一的决策，直到只剩下一个选项——也就是最终选择。这会导致动物表现出一系列突然的方向变化，每一次都与排除了一个剩余的选项有关。每一次的方向变化都是神经动力学突然变化的结果——科学家称之为“分叉”，动物和剩余选项之间存在非常特定的几何关系。这种算法被发现非常强大，以至于研究人员预测，这种“分叉”过程不仅会带来高度准确的决策，而且还可能是“通用的。”通过将很多动物模拟轨迹叠加在一起，他们发现了一个分支结构。他们预测，如果将真实动物空间决策留下的很多轨迹叠加在一起，这种结构也应该很明显。",
+          "link": "https://www.solidot.org/story?sid=70082",
+          "publishedOn": "2021-12-21T09:59:36.000Z",
+          "wordCount": 73,
+          "title": "一种支配决策的算法"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70081",
+          "author": null,
+          "description": "在 2018 年的一场夏季风暴中，一道巨大的闪电在荷兰的一个射电望远镜网络上空闪过。望远镜的详细记录直到最近才得到处理，镜头记录了以前从未有人见过的东西：闪电实际上是从雷雨云中开始的。在即将发表在《地球物理研究通讯》期刊上的一篇新论文中，研究人员利用观察结果终结了长久以来关于是什么触发了闪电的争论——这是闪电产生、生长并传播到地面的神秘过程的初始。格罗宁根大学的闪电研究员、新论文的共同作者 Brian Hare 表示：“这有点尴尬。这是地球上最有活力的过程，我们有以它为中心的宗教，但是我们不知道它是怎么发生的。”教科书上的说法是：在雷雨云的内部，随着较轻的冰晶上升，冰雹落下。冰雹擦掉冰晶带负电的电子，导致云的顶部带正电，而底部带负电。这会产生一个不断增强的电场，直到一个巨大的电火花划过天空。",
+          "link": "https://www.solidot.org/story?sid=70081",
+          "publishedOn": "2021-12-21T09:56:25.000Z",
+          "wordCount": 76,
+          "title": "镜头记录揭开是什么触发了闪电"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70080",
+          "author": null,
+          "description": "阿波罗任务的规划者很聪明。认识到未来的科学家将拥有更好的工具和更丰富的科学洞见，他们没有打开阿波罗任务带回的部分月球样本。尘封 50 年之后，其中一个样本容器即将打开研究。\n新闻稿中表示，现在是打开容器研究里面珍贵的内容物的时候了。希望里面存在月球气体，特别是氢气、氦气和其他轻质气体。对气体的分析可以加深对月球地质的理解，并为如何最好地保存未来从小行星、月球还是火星上收集的样本提供新思路。\nApollo Next Generation Sample Analysis Program（ANGSA）负责，它负责管理这些密封的宝藏。ANGSA 要求欧洲航天局和其他几个机构找出安全释放这些被封闭的气体的方法，这标志着 ESA 首次参与开启阿波罗计划带回的样本.。过去 16 个月 ANGSA和合作方一直在致力于解决这个问题，被称为“阿波罗开罐器”的解决方案现在已经准备就绪。",
+          "link": "https://www.solidot.org/story?sid=70080",
+          "publishedOn": "2021-12-21T09:41:11.000Z",
+          "wordCount": 104,
+          "title": "1972 年登月带回的真空密封样本将打开研究"
+        },
         {
           "id": "https://www.solidot.org/story?sid=70079",
           "author": null,
@@ -3755,105 +3926,6 @@
           "publishedOn": "2021-11-24T04:09:13.000Z",
           "wordCount": 102,
           "title": "苹果起诉 NSO Group"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69729",
-          "author": null,
-          "description": "布里斯托尔教育学院的研究人员试图确定早期发育中存在哪些类型的幽默感以及不同类型幽默感出现的年龄。该团队创建了一个早期幽默感调查（EHS），包含 20 个问题，他们要求来自英国、美国、澳大利亚和加拿大的671名 0 至 47 个月大的儿童的父母花 5 分钟完成关于他们孩子幽默感发展的调查问卷。该团队发现，报告中儿童意识到幽默的最早年龄是 1 个月大，估计有 50% 的儿童在两个月大的时候意识到幽默， 50% 的儿童在 11 个月大的时候会制造幽默。该团队还发现，一旦孩子开始制造幽默，他们会经常这样做，有一半的孩子在过去三个小时内开过玩笑。在接受调查的儿童中，该团队确定了 21 种不同类型的幽默感。一岁以下的儿童会意识到身体、视觉和听觉形式的幽默。这包括捉迷藏游戏（例如躲猫猫）、挠痒痒、做鬼脸、身体幽默（例如，把头伸进腿里）、有趣的声音和噪音、追逐和错误地使用物体（例如，把杯子放在头上）。",
-          "link": "https://www.solidot.org/story?sid=69729",
-          "publishedOn": "2021-11-23T12:16:44.000Z",
-          "wordCount": 92,
-          "title": "科学家捕捉幽默感最初出现的时间"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69723",
-          "author": null,
-          "description": "挪威在电动汽车的销售方面独树一帜。9 月电池驱动电动汽车占所有新车销量的 77.5%，在世界上遥遥领先——而英国截至 10 月 15% 的新车销售是电动汽车，美国这一数字仅为 2.6%。挪威的电动车之梦归功于一系列税收减免和金融优惠政策，意味着特斯拉等品牌可在价格上与内燃机车竞争。但这些激励措施及其成功造成了一个独特的困境：挪威快没有要交税的“脏车”了。\n\n\n这是一个相当大的问题。前任政府——一个中右翼联盟，上月被中左翼少数政府取代——估计电动汽车的普及给该国造成 192 亿挪威克朗（23.2亿美元）的年收入缺口。虽然电动汽车对于环境来说可能是好消息，但是在挪威的成功正造成严重财政恐慌。冰冻三尺非一日之寒，这也为其他竞相放弃高油耗内燃机的国家提供了教训。在挪威，世界上最先进的电动汽车政策始于一个流行乐队、一名环保主义者和一辆小型红色菲亚特熊猫。1988 年，活动人士 Frederic Hauge 与 A-ha 乐队的绿色支持者一起前往瑞士城市伯尔尼，在那里发现了这辆红色菲亚特。一位前车主将这辆汽车改装为使用铅电池，该组织计划用这辆车说服挪威政府鼓励电动汽车的普及。\n\n\n这辆菲亚特成为了一项为期九年的运动的核心，在这场运动中，Hauge 和 A-ha 的成员在挪威的收费公路上开着这辆车却不付钱。罚款不断增加，可他们仍然不交罚款，车辆被扣押并在拍卖会上出售，Hauge 在拍卖上将车买回，然后继续重复不缴费的循环。A-ha 的名人成员为反对电动汽车通行费的运动增添了光彩，而 Hauge——自 1986 年以来一直领导着名为 Bellona 的环保组织——吸引了媒体关注对电动汽车的需求激励措施。挪威道路交通信息委员会主任 Oyvind Solberg Thorsen 表示：“作为一名积极的治安会会员，他让媒体和政界人士了解了电动汽车”，该委员会发布有关道路和车辆的统计数据。",
-          "link": "https://www.solidot.org/story?sid=69723",
-          "publishedOn": "2021-11-23T10:02:10.000Z",
-          "wordCount": 102,
-          "title": "挪威快没燃油车交税了"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69722",
-          "author": null,
-          "description": "根据微软蜜罐服务器网络收集的数据，大多数暴力破解攻击者主要尝试猜测短密码，很少攻击针对长的或包含复杂字符的凭证。微软安全研究员 Ross Bevington 表示：“我分析了超过一百万次针对 SSH 的暴力攻击输入的凭据。这是微软传感器网络中约 30 天的数据。”作为微软的欺诈主管，Bevington 的任务是创建看起来合理的蜜罐系统以研究攻击者趋势，他表示：“77% 使用的是长度在 1 至 7 个字符之间的密码。长度超过 10 个字符的密码只占 6%。”",
-          "link": "https://www.solidot.org/story?sid=69722",
-          "publishedOn": "2021-11-23T09:37:57.000Z",
-          "wordCount": 87,
-          "title": "攻击者不愿费力暴力破解长密码"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69721",
-          "author": null,
-          "description": "元宇宙、加密货币和电动汽车成为闲聊热门话题是有原因的：以科技股为主的纳斯达克100指数成分股的总市值几乎是基准标普500指数成分股的一半——为有史以来最高——而仅大型科技股就占标准普尔500指数成分股的三分之一。尽管去年感恩节前后，由于估值飙升引发了沽空呼声，但各大科技公司的股价过去一年依旧稳步上扬创下新高，Nvidia 和 Roblox 的股价更是狂飙突进，脱颖而出。\n\n\n由于芯片需求旺盛及进军元宇宙消息刺激，芯片制造商 Nvidia 的股价飙升了 148%，使其成为纳斯达克100指数中表现最好的公司。Applied Materials 和 AMD 是另外两大赢家，股价均上涨了大约 80%，表现优于很多大型科技股。尽管零部件短缺严重影响了汽车行业，但是特斯拉的股价在销售持续增长的推动下翻了一番，这家电动汽车制造商的市值飙升至 1 万亿美元。电动汽车的热度在 Rivian Automotive 身上表现得更加明显，上市后不到两周内市值翻了一番。Lucid Group 是另一个热门名字。Roblox 自 3 月上市至 Facebook 更名，市值翻了两番。Facebook 更名为 Meta Platforms 表明元宇宙是科技领域的下一个大事件。Roundhill Ball Metaverse ETF 证明了该领域的资金涌入，它是一个专注于该主题的交易所交易基金，在 11 月 17 日管理的资产超过 5 亿美元，在短短两周内翻了一番。从数字世界到数字货币：比特币短暂回升至 60,000 美元，小型加密货币的反弹提振了一系列相关股票，如 Marathon Digital Holdings、Riot Blockchain 和 MicroStrategy。Marathon Digital 股价上涨了十倍。",
-          "link": "https://www.solidot.org/story?sid=69721",
-          "publishedOn": "2021-11-23T09:34:07.000Z",
-          "wordCount": 123,
-          "title": "元宇宙、加密货币和电动汽车是 2021 年科技界业的赢家"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69720",
-          "author": null,
-          "description": "农业对温室气体排放的贡献超过全世界所有汽车、飞机、火车和卡车的总和。种植更多食物的压力导致亚马逊森林被砍伐、河流干涸以及对化石燃料肥料的需求增加。任何减少浪费和提高现有农业用地生产力的措施都是气候问题的重大胜利。Strella Biotechnology 首席执行官兼创始人、24 岁的 Katherine Sizov 想要一次解决一种水果的浪费。\n\n\nSizov 偶然发现一个网站，描述食物浪费对气候的影响——根据致力于减少食物浪费的非营利组织 ReFed 的分析，占到了美国温室气体排放量的4%。专家表示，随着全球人口的增长，问题只会愈发严重。据联合国预计，到 2050 年，全球将多出 20 亿张嘴需要养活，三十年内增长 25% 以上。随着中国和印度等国家更富裕，人口正逐渐改变饮食习惯：更多的肉类、更多的鸡蛋——饲养所有这些动物以及清理土地以种植更多食物会造成更大的碳足迹。普林斯顿大学能源和环境政策研究中心的高级研究学者 Tim Searchinger 表示：“如果将粮食损失和浪费减少50%，可节省大量生产排放，可以避免大量森林砍伐。”Searchinger 解释说，树木可吸收大量的二氧化碳，考虑到一英亩的农田可以是一英亩森林这一事实之后，食物的碳足迹就更多了。\n\n\n消除浪费恰好也能帮助农民和杂货店赚更多的钱，因为食物提供给消费者的效率越高，完成销售的人最终获得的现金就越多。这就是 Strella 传感器的用武之地。它们监测乙烯，它是水果和蔬菜成熟的关键气体。苹果在储藏室里变得更甜，在这个过程中它们加速产生乙烯。一旦熟透了，气体就会稳定下来，告诉 Strella 的监视器已准备好被送往超市。等待太久，苹果会变成褐色或变粉。如果生产商幸运的话，他们可尝试将这些苹果变成果汁或者果酱以实现收支平衡。如果不走运的话，熟过头的苹果最终会进入堆肥或者垃圾填埋场。",
-          "link": "https://www.solidot.org/story?sid=69720",
-          "publishedOn": "2021-11-23T08:56:00.000Z",
-          "wordCount": 96,
-          "title": "减少农业浪费以减少排放，从监控苹果开始"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69719",
-          "author": null,
-          "description": "爱因斯坦通常会扔掉他颠覆性工作的手稿。感谢他的同事和友人，一份工作手稿奇迹般的保存至今，将于周二在巴黎拍卖，预计拍卖价格在 200 万到 300 万欧元之间。代表 Aguttes 拍卖行的佳士得称，这份 54 页的工作手稿由爱因斯坦及其友人、瑞士工程师 Michele Besso 合作手写，书写年代在 1913  到 1914 年之间，记录了广义相对论的准备工作，其中 26 页来自爱因斯坦，25 页来自 Besso，另外 3 页含有两人的条目。",
-          "link": "https://www.solidot.org/story?sid=69719",
-          "publishedOn": "2021-11-23T07:17:15.000Z",
-          "wordCount": 92,
-          "title": "罕见爱因斯坦手稿在巴黎拍卖"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69718",
-          "author": null,
-          "description": "Uber 将大麻加入到其 Uber Eats 应用可选购的商品清单之中，但仅限于加拿大安大略省的客户。这是 Uber 首次向客户直接提供大麻购买，而它在美国正推动更宽松的大麻购买法规。大麻交易是通过加拿大多伦多公司 Tokyo Smoke 处理的，该公司在安大略省有 50 多家药房。应用将会验证买家的年龄，而在客户抵达药房时工作人员会检查其 ID。Uber 表示将大麻纳入其应用有助于减少毒品非法市场，有助于减少公路上受大麻影响的司机数量，能改善公路交通安全。",
-          "link": "https://www.solidot.org/story?sid=69718",
-          "publishedOn": "2021-11-23T06:09:37.000Z",
-          "wordCount": 86,
-          "title": "Uber 在加拿大出售大麻"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69717",
-          "author": null,
-          "description": "比尔盖茨说，他小时候痴迷于科幻小说，曾和 Paul Allen 花了很多时间讨论阿西莫夫的《基地》系列，阅读了 Edgar Rice Burroughs 和 Robert Heinlein 写的每一本科幻小说，《The Moon Is a Harsh Mistress》是最爱。长大后他开始更多阅读非虚构类作品。但最近他又开始被小时候所痴迷的小说吸引了。盖茨今年初和妻子梅琳达离婚了，他公布的年度书单包括：Jeff Hawkins 的《A Thousand Brains: A New Theory of Intelligence》，Walter Isaacson 的《The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race》，Kazuo Ishiguro 的科幻小说《Klara and the Sun》，Maggie O’Farrell 的《Hamnet》，以及 Andy Weir 的《Project Hail Mary》。",
-          "link": "https://www.solidot.org/story?sid=69717",
-          "publishedOn": "2021-11-23T05:54:31.000Z",
-          "wordCount": 122,
-          "title": "盖茨的年度书单"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69716",
-          "author": null,
-          "description": "中国今年五月对加密货币挖矿的禁令导致比特币矿商大批外流，并引发了一场接收这些矿机的全球竞赛。这数百万台矿机笨重、耗电，矿商用它们来解决复杂谜题然后赚取比特币。根据《金融时报》收集到的数据，颁布禁令后的几个月里，全球 14 家最大型加密货币挖矿公司将逾两百万台矿机转移出了中国。其中大部分被匆忙转移至美国、加拿大、哈萨克斯坦和俄罗斯。在美上市的挖矿巨头 Bit Digital 雇佣了一家国际物流公司在中国转移矿机，目前仍在等待一批大约 1000 台矿机在纽约港口放行。Bit Digital 首席战略官 Sam Tabar 称他们从 2020 年 3 月就开始了迁移，禁令颁布时在中国境内还有 2 万台矿机，它放弃了已到使用年限的 372 台矿机。数据显示，北美十大加密货币挖矿公司中有 8 家在禁令之后扩大了规模。加拿大的 Hut8 从中国公司 MicroBT 获得了 2.4 万台矿机。禁令导致比特大陆的蚂蚁矿机 S19 价格暴跌  41.7%，它在 8 月向拉斯维加斯的 Marathon Digital Holdings 出售了 3 万台 S19，向马里兰的 Terawulf bought 出售了另外 3 万台矿机。哈萨克斯坦成为另一个挖矿中心，Bitfufu 向该国的矿场转移了 8 万台矿机，BIT Mining 在 8 月向哈转移了 7,849 台矿机。",
-          "link": "https://www.solidot.org/story?sid=69716",
-          "publishedOn": "2021-11-23T05:41:13.000Z",
-          "wordCount": 125,
-          "title": "加密货币挖矿禁令掀起海外挖矿潮"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69715",
-          "author": null,
-          "description": "加州圣迭戈的计算机科学家和 Brave Software 合作开发了浏览器新隐私保护工具 SugarCoat（PDF），源代码已发布在 GitHub 上。SugarCoat 针对的是收集用户隐私数据的脚本，网站使用脚本跟踪用户的活动，但浏览器如果禁用脚本网站的功能可能会被破坏，SugarCoat  通过使用相同属性但移除隐私收集功能的脚本解决这一问题。它设计能整合到现有的注重隐私保护的浏览器和扩展中，如 Brave、Firefox 和 Tor，以及 uBlock Origin。它目前正被整合到 Brave 中。研究人员在上周举行的 ACM Conference on Computer and Communications Security (CCS) 会议上介绍了他们的工作。",
-          "link": "https://www.solidot.org/story?sid=69715",
-          "publishedOn": "2021-11-23T04:56:47.000Z",
-          "wordCount": 97,
-          "title": "浏览器新隐私保护工具 SugarCoat"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69714",
-          "author": null,
-          "description": "Web 开发框架 Django 释出了 4.0 的首个预发布版本，正式版本计划在 12 月 6 日左右发布，如有延迟会通过开发者邮件列表通知。Django 4.0 的主要变化包括：支持 Python 3.8、3.9 和 3.10，Django 3.2.x 系列是支持 Python 3.6 和  3.7 的最后版本；默认时区实现 zoneinfo；新密码哈希函数 scrypt，但因为需要更多内存和 OpenSSL 1.1+ 没有默认启用；Redis 缓存后端；等等。",
-          "link": "https://www.solidot.org/story?sid=69714",
-          "publishedOn": "2021-11-23T04:12:38.000Z",
-          "wordCount": 105,
-          "title": "Django 4.0 RC1 发布"
         }
       ]
     },
