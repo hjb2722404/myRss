@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-24T00:59:39.837Z</updated>
+    <updated>2021-12-24T03:43:51.280Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
@@ -153,6 +153,16 @@
         <summary type="html"><![CDATA[英特尔中国在其官方微博上表示，英特尔向供应商发送的年度信函引发了相关的媒体报道和讨论，特别是针对信中相关政府对供应链运营提出的要求，引起热议和质疑。虽然初衷是确保遵守美国法律，但这封信在中国合作伙伴中引起了诸多的疑问和顾虑，“我们深表遗憾”。“借此澄清，信中的关于新疆的段落只出于表述合规合法的初衷，并非它意或表达立场。”该公司称。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make ping audible]]></title>
+        <id>https://catonmat.net/ping-a</id>
+        <link href="https://catonmat.net/ping-a"/>
+        <updated>2021-12-23T05:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Sysadmin trick of the day – if a server is down and you don't know when it will be back up, use ping -a to hear when it comes back up. The -a flag enables audio alert.]]></summary>
+        <author>
+            <name>catonmat.net – less is more</name>
         </author>
     </entry>
     <entry>
@@ -5225,26 +5235,6 @@ Clubhouse 是一个缩影，比其他任何初创公司更能体现出风险投�
 The post Creating Generative Patterns with The CSS Paint API appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>George Francis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首次行星防御测试任务发射]]></title>
-        <id>https://www.solidot.org/story?sid=69748</id>
-        <link href="https://www.solidot.org/story?sid=69748"/>
-        <updated>2021-11-24T13:21:27.000Z</updated>
-        <summary type="html"><![CDATA[人类首次行星防御测试任务发射。美东时间 11 月 24 日 1 时 21 分，SpaceX猎鹰9号火箭在加利福尼亚州范登堡太空军基地执行 NASA 双小行星重定向测试（Double Asteroid Redirection Test ，DART）任务的发射。这是世界首次发射航天器撞击小行星，以期改变小行星的运行速度和路径。假如未来发现了威胁地球的小行星，让航天器撞向小行星能否有效改变其轨道？DART 任务就是设计用来撞击小行星的航天器，以此测试能否改变小行星在太空中的运动，减轻小行星撞击地球的威胁。DART 任务瞄准的双小行星系统中有两颗小行星：直径约 256 0英尺（约780米）的 Didymos，以及直径约 530 英尺（约161.5米）的 Dimorphos。其中 Didymos 是双小行星系统中的主体，绕太阳运行，由于距离地球近，它可以被地面上的望远镜观测到。较小的小行星 Dimorphos 绕着 Didymos 转。DART 会撞向双小行星系统中较小的 Dimorphos 小行星。这一双小行星系将于 2022 年秋天经过地球，天文学家可以用地面和太空望远镜观测撞击及其后果。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国儿童新冠病例激增]]></title>
-        <id>https://www.solidot.org/story?sid=69747</id>
-        <link href="https://www.solidot.org/story?sid=69747"/>
-        <updated>2021-11-24T13:13:21.000Z</updated>
-        <summary type="html"><![CDATA[根据美国儿科学会的数据，在新一波疫情中儿童感染新冠病例激增。从 11 月 11 日到 18 日这一周，近 14.2 万儿童报告感染 COVID-19，比两周前增加了 32%。美国过去两周的 COVID-19 病例增加了 27%。儿童占到了截至 18 日这一周的总感染病例的四分之一以上。而儿童只占美国总人口的 22%。随着更多成年人接种，儿童感染比例在上升。自疫情伊始，共有 680 万儿童感染。虽然儿童感染后出现严重症状和死亡的几率较低，但至少有 2.5 万名儿童住院，至少 636 名儿童死亡。美国开始对 5 到 11 岁儿童接种 Pfizer-BioNTech COVID-19 疫苗。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
 </feed>
