@@ -2,10 +2,247 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-31T01:02:10.962Z</updated>
+    <updated>2022-01-01T01:03:08.867Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Defensive CSS]]></title>
+        <id>https://css-tricks.com/?p=360073</id>
+        <link href="https://css-tricks.com/defensive-css/"/>
+        <updated>2021-12-31T18:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. 
+More items than you thought would be there? No problem, the area can expand or …
+Defensive CSS originally published on CSS-Tricks]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉在中国召回近 20 万辆汽车]]></title>
+        <id>https://www.solidot.org/story?sid=70215</id>
+        <link href="https://www.solidot.org/story?sid=70215"/>
+        <updated>2021-12-31T10:17:09.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉宣布在中国召回 19697 辆汽车，涉及型号有进口 Model S、进口和国产 Model 3，原因包括：
+相关车辆可能存在前备箱锁闩与锁扣的对齐位置稍微偏后的情况，此情况虽不影响一级锁闩的锁紧，但可能会影响二级锁闩的锁紧。当一级锁闩意外松开时，如果二级锁闩没有锁紧，前备箱盖可能会在车辆行驶中突然打开，影响驾驶员视线，增加发生碰撞事故的风险，存在安全隐患。 
+召回近 50 万辆汽车。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用海洋储存二氧化碳有助于避免气候灾难]]></title>
+        <id>https://www.solidot.org/story?sid=70214</id>
+        <link href="https://www.solidot.org/story?sid=70214"/>
+        <updated>2021-12-31T09:51:37.000Z</updated>
+        <summary type="html"><![CDATA[上个月在格拉斯哥举行的气候会议上，联合国秘书长 Antonio Guterres 宣布，将全球气温上升限制在 1.5 摄氏度的目标仍然有效，但已岌岌可危。二氧化碳去除（CDR）——从大气中提取二氧化碳并将其储存在陆地或海洋中的过程——可能是能力挽狂澜一剂良药。但和所有实验性疗法一样，它的使用带来了一系列挑战。这些困难需要从研究科学家到投资者，从政策制定者和律师到环保和社区团体在内的利益相关方广泛的协调努力才能克服。到目前为止，还没有 CDR 技术得到大规模的部署，还需要更多的研究才能实现这一目标。
+
+
+美国国家科学院的一份新报告认为未来 10 年需要进行价值超过 10 亿美元的“优先研究”，以更好地评估
+关键海洋 CD R技术的可行性和影响。其中包括对法律、政策、社会科学和相关问题进行 “基础研究”投入的 1.25 亿美元。在法律方面，应如何监管不同的 CDR 技术，特别是海洋技术，存在很大的不确定性。由于海洋是全球公共区域的一部分，海洋活动受到大量国际法的约束。但目前还没有专门针对海洋 CDR 的综合性国际法律框架。
+
+
+美国也没有专门针对海洋 CDR 的联邦法律。除非这种情况发生改变，否则这些项目最终将受到一般环境法律的监管，这些法律在制订时考虑的是其他的活动，因此可能非常不适合海洋 CDR。正如美国国家科学院报告所承认的那样，“为海洋 CDR 制定明确且一致的法律框架对于促进研究并在被认为合适的情况下全面部署至关重要，对确保这些项目以安全和环保的方式进行也至关重要。”在所有利益相关方（科学家、企业家、政府、非政府组织、环保主义者、土著人民、沿海社区和其他可能受到影响的群体）的参与下制定框架至关重要。随着项目的开发和部署，这些相关方也必须继续参与。与所有利益相关方的进一步接触和协调对于确保安全和负责任的 CDR 开发和部署非常重要。否则我们将全球气温上升限制在 1.5 摄氏度的希望很可能会落空。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大脑建模先驱认为深度学习不可信]]></title>
+        <id>https://www.solidot.org/story?sid=70213</id>
+        <link href="https://www.solidot.org/story?sid=70213"/>
+        <updated>2021-12-31T09:35:12.000Z</updated>
+        <summary type="html"><![CDATA[过去 20 年，深度学习透过一系列商业应用逐渐主导了人工智能研究和应用。但令人眼花缭乱的背后存在一些根深蒂固的问题，威胁着这种技术的腾飞。 举例来说，典型的深度学习程序在多任务上表现欠佳，该技术被限制在严格控制环境中的特定任务的应用。更严重的是，深度学习被认为是不可信的，因为它无法解释——而且不适用于某些应用，因为它会经历灾难性的遗忘。说得更通俗一点，如果算法有效，无法理解它为什么有效。当该工具慢慢学习新数据库时，其学习记忆的任意部分可能会突然崩塌。因此在任何攸关生死的应用（例如医疗应用）上使用深度学习都可能存在风险。 
+Stephen Grossberg 认为需要一种完全不同的方法。Grossberg根据自己几十年来对认知和神经的研究，在《Conscious Mind, Resonant Brain: How Each Brain Make a Mind》一书中描述了一种生物和人工智能的替代模型。他将模型称为自适应共振理论（ART）。
+
+Grossberg 是波士顿大学认知和神经系统、数学和统计、心理和脑科学以及生物医学工程领域的讲席教授，他在其大脑如何处理信息的理论基础上构建了 ART。
+
+他表示：“在充满了意外事件的、不断变化的世界中，我们的大脑学会了识别并预测对象和事件。”
+
+对于这种不断的变化，ART 使用有监督和无监督的学习方法解决模式识别和预测问题。一些大规模的应用已在使用该理论的算法，例如对声纳和雷达信号进行分类、检测睡眠呼吸暂停、推荐电影以及基于计算机视觉的驾驶辅助软件等。Grossberg 表示，可以放心使用 ART，因为它是可解释的，并且不会经历灾难性的遗忘。他表示，ART 解决了他所谓的稳定性-可塑性悖论：大脑或其他学习系统如何才能在不经历灾难性遗忘（稳定性）的情况下快速自主学习（可塑性）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT 工程师测试漫游车悬浮的新理念]]></title>
+        <id>https://www.solidot.org/story?sid=70212</id>
+        <link href="https://www.solidot.org/story?sid=70212"/>
+        <updated>2021-12-31T09:20:15.000Z</updated>
+        <summary type="html"><![CDATA[MIT 航空航天工程师正在测试一种利用月球自然电荷悬浮漫游车的新概念。由于缺乏大气层，月球和小行星等无空气的天体可通过直接暴露于太阳和周围等离子体构建电场。在月球，这种表面电荷强到足以让灰尘悬浮在地面之上 1 米多的地方，就像静电会让人的头发竖起来。NASA 等机构的工程师建议利用这种自然表面电荷让带有聚酯薄膜制成的机翼的滑翔机悬浮起来，这种材料自然带有与无空气天体表面相同的电荷。他们推断，带有同种电荷的表面应该相互排斥，产生的斥力将滑翔机抬离地面。但是这种设计可能仅限于小行星，因为较大的行星体将产生较强的引力，抵消掉这种斥力。
+
+MIT 团队的悬浮漫游车可能会突破这种尺寸限制。该概念类似于复古风格的圆盘形飞碟，使用微小的离子束为车辆充电并增加表面的自然电荷。设计的整体思路是以一种只需要很少能量的方式，在车辆和地面之间产生相对较大的斥力。在最初的可行性研究中，研究人员证明离子增强的效果强到足以让一个两磅重的小型飞行器悬浮在月球和 Psyche 这样的大型小行星上。该团队预测，一个重约 2 磅的小型漫游车可使用 10 千瓦的离子源，在 Psyche 等大型小行星上实现离地面约 1 厘米的悬浮。要想在月球上实现类似的悬浮，漫游车需要 50 千瓦的离子源。论文合作者 Paulo Lozano 解释说：“这种离子设计使用很小的功率产生很高的电压。所需的能量是如此少，几乎可以忽略不计。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据中心冲击爱尔兰电网]]></title>
+        <id>https://www.solidot.org/story?sid=70211</id>
+        <link href="https://www.solidot.org/story?sid=70211"/>
+        <updated>2021-12-31T09:01:51.000Z</updated>
+        <summary type="html"><![CDATA[每一次 TikTok 、Zoom 通话和猫模因的背后，都有数据中心在存储、处理并在全世界范围内重路由数据。我们在网上的活动越多，数据中心及其能源足迹就越大。在满负荷下，一个现代“超大规模”数据中心服务器耗电量相当于多达 80,000 个家庭的耗电量。尽管数据中心行业是全球性的，但气候稳定以及监管法规友好的地方会吸引数据中心开发商的极大关注。爱尔兰是其中之一。这个岛国拥有 70 个数据中心，是欧洲增长最快的数据中心市场。不幸的是，为服务器提供相当于几个城市用电量的电力，支持你在手机上无聊地刷来刷去，开始对爱尔兰的电网造成损害。
+
+
+
+爱尔兰的数据中心使用了大约 900 兆瓦的电力。与爱尔兰 MaREI 环境研究所合作的能源研究员 Paul Deane 表示，这至少占爱尔兰总电力供应的 11%，他将这种情况描述为“一个严重的能源系统问题”。正如 Deane 所言，满足这一需求正在让爱尔兰当前的能源危机变得更严重，也让其到 2030 年将温室气体排放量减半的目标更难以实现。事情只会变得越来越具有挑战性。爱尔兰国有电网运营商 Eirgri d最近的一份报告显示，到 2029 年，数据中心将消耗爱尔兰年度电力供应的近 30%(PDF)。
+
+正如 Deane 所指出的，数据中心对现代生活至关重要，但一个电网电力并不丰沛的小国托管如此之多的数据中心让爱尔兰的整个电力供应的可持续性面临风险。Deane 将爱尔兰的数据中心问题归结为规模不匹配。他表示：“数据中心是用电大户，而我们的电力系统很小，因此将更多的数据中心接入小型电网会开始产生巨大的影响。”与之形成鲜明对比的是，作为欧盟最大的数据中心市场，德国同期为数据中心供应的电量不到电网容量的 5%。对该行业增长可能会在今年冬天给爱尔兰消费者带来停电和电力短缺的担忧日益增长，除此之外，数据中心还可能破坏爱尔兰到 2050 年实现净零排放的努力。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《古墓丽影》系列 3 款游戏免费送，Epic 年度惊喜]]></title>
+        <id>https://www.appinn.com/?p=40986</id>
+        <link href="https://www.appinn.com/tomb-raider/"/>
+        <updated>2021-12-31T08:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Epic 的年度惊喜居然是《古墓丽影》系列 3 款游戏：《古墓丽影》GOTY、《古墓丽影：崛起》20 周年纪念版 和《Shadow of the Tomb Raider：最终版》，目前在 Epic 商]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 资助的项目招募宗教专家预测人类对外星人的反应]]></title>
+        <id>https://www.solidot.org/story?sid=70210</id>
+        <link href="https://www.solidot.org/story?sid=70210"/>
+        <updated>2021-12-31T07:59:15.000Z</updated>
+        <summary type="html"><![CDATA[一位宗教学者透露，二十多位神学家参加了一项由 NASA 部分资助的项目，项目旨在研究人类对其他星球上存在智慧生命的消息会有何反应。该宗教学者也被招募参加该项目。剑桥大学牧师 Andrew Davison 博士最近在接受英国《泰晤士报》采访时透露，他和其他 23 位神学家在 2016 年至 2017 年期间参加了 NASA 在普林斯顿大学神学研究中心（CTI）资助的一个项目。Davison表示他和同事研究了世界上每种主要的宗教在知道外星人存在后会有的反应。他的工作侧重于天体生物学和基督教神学之间的联系。据《泰晤士报》报道，CTI 主任 Will Storrar 表示，NASA 希望看到“书籍和期刊上发表严肃的学术研究”，以解决“在另一个星球上发现微生物生命的深刻奇迹和奥秘以及意义”。NASA 的一位发言人向 Changing America 证实，NASA 的天体生物学项目在 2015 年通过拨款为 CTI 提供了部分资金，该项目的机构资助部分于 2017 年结束。NASA 没有直接参与研究人员的选择。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由于备份错误京都大学丢失了 77 TB 的研究数据]]></title>
+        <id>https://www.solidot.org/story?sid=70209</id>
+        <link href="https://www.solidot.org/story?sid=70209"/>
+        <updated>2021-12-31T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[由于惠普超级计算机备份系统出现错误，日本京都大学丢失了大约 77 TB的研究数据。事件发生在 2021 年 12 月 14 日至 16 日之间，导致 14 个研究小组的 3400 万份文件被从系统和备份文件中清除。大学对造成的损失进行了调查，确定四个受到影响的小组的工作无法再恢复。所有受到影响的用户都收到电子邮件通知，但是该校并未透露具体丢失了哪些类型的工作。目前备份工作已经停止。为了防止数据再次丢失，大学停用该备份系统，计划对其进行改进后于 2022 年 1 月重新上线。除了完整的备份镜像，该校还计划保留增量备份——涵盖了自上次备份以来更改过的文件。虽然关于此次丢失数据类型的细节没有向公众披露，但超级计算机的研究每小时花费数百美元，所以此次事件一定对受到影响的群体造成了干扰。京都大学被认为是日本最重要的研究机构之一，享有国家拨付的第二大科研投资。它在研究方面表现卓越并极具重要性，它的化学研究尤为突出，在全世界排名第四。该校在生物学、药理学、免疫学、材料科学和物理学等领域也建树颇丰。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[波士顿动力的 Stretch 机器人每小时能搬运 800 个重箱子]]></title>
+        <id>https://www.solidot.org/story?sid=70208</id>
+        <link href="https://www.solidot.org/story?sid=70208"/>
+        <updated>2021-12-31T07:46:58.000Z</updated>
+        <summary type="html"><![CDATA[波士顿动力的新机器 人Stretch 每小时可以搬运大约 800 个重箱子。Stretch 的设计与其最著名的类人机器人 Atlas 和四足机器人 Spot 有些不同。凭借其巨大的单臂、装有传感器和吸盘阵列的抓手以及全方位移动底座，Stretch 能以每小时 800 箱的速度，将重达 23 公斤的箱子从卡车后部搬运到传送带上。有经验的人类工人也可以以类似的速度搬运箱子，但不能持续一整天，而 Stretch 可以工作 16 小时才需要再次充电。这种类型的工作对人体来说是一桩苦差事，尤其是当必须从靠近车厢天花板或地板的位置移动沉重的箱子时更是如此。波士顿动力的仓库机器人高级副总裁 Kevin Blankespoor 表示：“卡车卸货是仓库里最艰苦的工作之一，这也是我们设计 Stretch 的一个原因。”Blankespoor 解释说，Stretch 并不是要完全取代人。他们的设想是多个 Stretch 机器人可使人类工人的效率提高一个数量级。“通常情况下，每辆卡车都需要两名工人卸货。我们希望用 Stretch 作为工具，让一个人能同时为四到五辆卡车卸货。”只需要向 Stretch 展示装满箱子的卡车的背面，它就会自动地开始工作，将箱子一个一个地搬到传送带上，直至将车厢搬空。仍然需要人类员工在场确保一切顺利，如果 Stretch 遇到了它无法处理的事情，人类可以介入，他们的全职工作变成了机器人监工，而不是整天搬运沉重的箱子。
+
+Stretch 针对搬运箱子进行了优化，这是仓库需要完成的一项任务。波士顿动力希望该机器人未来变得更灵活，可将搬运箱子的专业技能用于任何需要的地方。除了卡车卸货之外，Stretch 还可以从货盘上卸下箱子，将箱子放到货架上，按照订单从仓库的不同地方取出多个箱子并最终将箱子搬运到卡车上，由于需要进行规划和精度要求，这个问题比卸货困难得多。在 2021 年的大部分时间里，波士顿动力都在将 Stretch 从基本上是用 Atlas 和 Spot 设计的零部件组装出的原型变成成熟的产品系统，该系统将在 2022 年向特定客户群出货，预计将在 2023 年进行更广泛的销售。对于 Blankespoor 来说，这个里程碑只是一个开始。他认为此类机器人有望对物流行业产生巨大的影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 以 350 亿美元收购 Xilinx 的交易推迟到 2022 年完成]]></title>
+        <id>https://www.solidot.org/story?sid=70207</id>
+        <link href="https://www.solidot.org/story?sid=70207"/>
+        <updated>2021-12-31T07:37:52.000Z</updated>
+        <summary type="html"><![CDATA[AMD 和 Xilinix 最初计划在 2021 年底前完成交易，但现在预计将在 2022 年第一季度完成。AMD 通过了中国以外所有地区的监管障碍。本月早些时候，有消息称 AMD 经提交了一些未公开的“行为性补救措施”以安抚中国监管机构，月中有消息称中国的反垄断机构——国家市场监督管理总局（SAMR）仍在对 AMD 提出的补救措施进行市场测试。AMD 声明称：“我们在获得完成交易所需的监管批准方面继续取得良好进展。之前我们预计将在2021 年底前获得所有的批准，但是我们还没有完成此项工作，我们现在预计交易将于 2022 年第一季度完成。我们还在继续与监管机构进行富有成效的对话，我们希望获得所有必要的批准。之前宣布的关于此次交易的条款或计划没有其他变化，公司继续期待这次合并能够创造出业界高性能和自适应计算的领导者。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大数据可能不知道你的名字，但它知道你的一切]]></title>
+        <id>https://www.solidot.org/story?sid=70206</id>
+        <link href="https://www.solidot.org/story?sid=70206"/>
+        <updated>2021-12-31T06:49:06.000Z</updated>
+        <summary type="html"><![CDATA[数亿美国人的种族、性别、民族、宗教、性取向、政治信仰、互联网搜索、处方和 GPS 定位历史数据在公开市场上出售，这里几乎不存在监管。数据经纪人声称不需要监管，因为出售的数据都是匿名的，也就是不包含名字。但匿名并不能保护用户不受伤害。想象下，你告诉一千人你喜欢吃意面，这千人中可能有数百人和你有相同的爱好。然后你再增加新的信息比如你喜欢的颜色、喜欢的旅游目的地等等，数据越多，和你爱好完全相同的人会越来越少，最终会只剩下你一个。如果一个数据集包含一个人的几十数百甚至数千数据点，那么里面的每一个人事实上都是独一无二的。将这些数据与特定人关联起来非常容易。数据经纪人声称匿名数据无风险，这种说法荒诞无稽：大数据的商业模式就建立在对个人的选择性跟踪和精准投放上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[文章] 从韩国的例子看危机下的国家命运]]></title>
+        <id>https://zhuanlan.zhihu.com/p/452051972</id>
+        <link href="https://zhuanlan.zhihu.com/p/452051972"/>
+        <updated>2021-12-31T06:14:38.000Z</updated>
+        <summary type="html"><![CDATA[说一件小事情，我们都知道韩国的大企业，外资持有很高的股份比例，比如我们熟知的韩国最大的企业三星电子，下图是我从三星电子的官网截取的截止到2021年第三季度末的股权情况，
+普通股中外国投资者股权占到51%，优先股中外国投资者占到72%。
+但是背后的原因是什么呢？
+
+
+其实存在这种情况的并不只是三星，下图是我从韩国第二大半导体企业SK海力士的官网截的图，其股权中外资占到了49.4%。
+
+韩国的乐天集团，这是其官网上截止到2020年12月31日的股权结构图，外资占比达到了28.36%。
+
+下图是LG电子的股权结构，截图自其官网，外资的股权2013年为26%，2020年为38%。
+
+
+
+
+
+
+韩进集团的要好点，到2020年12月31日，外资占比为15.22%
+
+现代集团的没有查到，因为官网上的股权比例没有公布多少属于外资。
+但是总的来说，韩国大企业这个股权比例，外资占比也太高了，普遍的超过了四分之一，最赚钱的三星和海力士外资占比都达到了一半左右及以上。
+其实这个态势的形成，是有原因的，而最大的原因就是1997年开始的亚洲金融危机，而这个金融危机除了亚洲国家本身的问题外，又跟美国资本的蓄意操作有很大关系。
+当时韩国外汇储备急剧下降，韩元大幅贬值，资金大量出逃的韩国，面临经济崩溃的威胁，
+不得不寻找IMF（国际货币基金组织）寻求资金援助，由美国主导的IMF当时提出了570亿美元的援助计划，资金来源如下图，可以看出韩国经济在1997-1998年出现了连续的负增长。
+
+但是世界上是没有免费的午餐的，美国主导下的IMF在愿意提供援助的同时，也带来了很多苛刻的条件。
+在IMF官网的以下链接可以查到当年达成的协议内容（1997年12月5日）：
+https://www.imf.org/external/np/oth/korea.htm
+主要内容包括：
+1：实行紧缩的货币政策：货币发行量抑制在和通货…]]></summary>
+        <author>
+            <name>宁南山</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[密苏里州州长仍然想要起诉查看网页源代码的记者]]></title>
+        <id>https://www.solidot.org/story?sid=70205</id>
+        <link href="https://www.solidot.org/story?sid=70205"/>
+        <updated>2021-12-31T05:42:11.000Z</updated>
+        <summary type="html"><![CDATA[今年早些时候《圣路易斯邮报》记者 Josh Renaud 从一个可公开访问网站的网页源代码中识别了一个安全漏洞，会暴露学校教职工的未加密社会保障号码。记者和报纸以专业的方式向州政府报告了这一漏洞，在漏洞修复之后才予以披露。然而密苏里州的共和党州长 Mike Parson 宣称记者是黑客，而相关报道是“政治宿仇”，是“旨在让州政府难堪为报纸增加流量”，威胁起诉记者和寻求民事赔偿。根据信息公开请求获得的内部邮件显示在州长发表这一引发争议的声明前政府实际上是想要对记者表达谢意，而 FBI 也指出查看网页的源代码并非是黑客行为并未违法。
+但时至今日，密苏里州州长仍然想要起诉记者。他打了一个完全不恰当的比喻：如果有人撬开了房子的锁——无论出于什么原因，比如锁的质量比较差，是廉价的锁或其它任何问题——他们没有权利进入你的房子，拿走属于你的任何东西。查看网页源代码最多是有人看了你家的门锁，认为质量不行并告诉了你，根本没进入你的家或拿走任何东西。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为 2021 年营收下降近 30%]]></title>
+        <id>https://www.solidot.org/story?sid=70204</id>
+        <link href="https://www.solidot.org/story?sid=70204"/>
+        <updated>2021-12-31T04:25:07.000Z</updated>
+        <summary type="html"><![CDATA[受美国制裁打击的电信设备巨头华为预计，公司 2021 年全年营收下降近 30%，并预测新的一年将继续面临挑战。华为轮值董事长郭平周五在给员工的新年致辞中说，预计 2021 年全年实现销售收入约 6,340 亿人民币。这意味着较 2020 年 8,914 亿元人民币的营收下降 28.9%。郭平说，明年“仍然面临着一系列挑战”，但他对华为 2021 年的业务表现感到满意。发布在公司网站上的这份致辞写道，外部环境持续动荡，ICT行业面临技术政治化、全球化割据等因素给公司带来挑战。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lurch/OMEMO密码工程协议审计]]></title>
+        <id>https://www.solidot.org/story?sid=70203</id>
+        <link href="https://www.solidot.org/story?sid=70203"/>
+        <updated>2021-12-31T04:12:58.000Z</updated>
+        <summary type="html"><![CDATA[HardenedVault 写道 "vault1317是一款为高级威胁防护背景下设计的密码工程通信协议，在OTRv3/v4和Signal协议基础上加强了通信节点的元数据保护，即保护机器的隐私。在此基础上提供加密通信过程的可抵赖性，以保证在通信节点任意一方进行背叛行为（向第三方披露通信内容）和长寿命密钥泄漏的情况下也无法留下加密证据。vault1317的目标并非保护人类隐私，而是通信节点（机器）的隐私。当赛博堡垒设计vault1317第二阶段邦联化特性过程中收到了密码朋克社区的诸多建议，从威胁模型的角度，数字军火商不会放弃任意高度依赖密码工程的领域，更重要的是，邦联化作为去中心化特性的关键要素必须进行架构级审计，vault1317协议的当前邦联化是通过XMPP，经过技术评估赛博堡垒最终选择了基于lurch，lurch是一个实现了XEP 0384（OMEMO）加密协议修订版 的pidgin插件。OMEMO是一个基于axolotl协议的实现，在lurch中 axolotl的实现基于libsignal-protocol-c，axc则是基于libsignal-protocol-c进行了高阶封装的实现。由于lurch上下游的依赖，审计目标除了lurch本身也包括两个支持库axc和libomemo，审计过程中发现的缺陷已经修复。"]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑莓服务将停止支持黑莓操作系统]]></title>
+        <id>https://www.solidot.org/story?sid=70202</id>
+        <link href="https://www.solidot.org/story?sid=70202"/>
+        <updated>2021-12-31T03:37:40.000Z</updated>
+        <summary type="html"><![CDATA[黑莓公司曾经是智能手机早期的霸主，但在触摸屏时代被苹果打败，最终放弃自己的手机转向 Android 平台，它的黑莓操作系统最后一次更新是在 2013 年。仍然运行黑莓操作系统的手机到今天应该非常稀少了。现在部分黑莓操作系统的关键服务将从 1 月 4 日起停止支持，受影响的服务包括  BlackBerry World 和 BlackBerry Link，黑莓公司称黑莓设备将会缺乏可靠的功能，包括支持数据传输、电话呼叫、短信和 911 紧急报警电话等。黑莓往昔的荣光一去不复返了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 年是加密货币疯狂的一年]]></title>
+        <id>https://www.solidot.org/story?sid=70201</id>
+        <link href="https://www.solidot.org/story?sid=70201"/>
+        <updated>2021-12-31T02:56:59.000Z</updated>
+        <summary type="html"><![CDATA[比特币这个最早的加密货币仍是最大和最知名的代币，尽管众多挑战者紧随其后。比特币从 1 月 1 日起飙升超过 120%，在 4 月中旬创下了近 65,000 美元的当时最高纪录。机构投资者掀起的现金海啸，特斯拉和万事达卡等大公司的接受度越来越高，华尔街银行越来越青睐，推动了比特币的涨势。刺激投资者兴趣的是比特币所谓的抗通胀特性--它的供应量是有上限的。破纪录的经济刺激计划推动了比特币价格上涨。在利率处于纪录低位的情况下，快速获利的希望，以及通过快速发展的基础设施更容易获得比特币，也帮助吸引了买家。美国加密货币交易平台 Coinbase Global 在 4 月份上市，首日挂牌估值达到 860 亿美元，是迄今为止规模最大的加密货币公司上市交易。象征比特币被主流所接受。[然而比特币依然动荡。它在 5 月下滑了 35%，然后在 11 月飙升至 69,000 美元的历史新高，因为欧洲和美国的通胀急剧上升。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 190 期）：产品化思维]]></title>
         <id>http://www.ruanyifeng.com/blog/2021/12/weekly-issue-190.html</id>
@@ -5064,269 +5301,6 @@ Videos appeal to humans in a way no other form of the content does. A video incl
         <link href="https://www.solidot.org/story?sid=69853"/>
         <updated>2021-12-02T14:16:34.000Z</updated>
         <summary type="html"><![CDATA[Google Project Zero 安全研究人员 Tavis Ormandy 在广泛使用的 Mozilla Network Security Services (NSS)签名验证库发现了一个本应该早就发现的高危漏洞：一个简单的边界检查问题会导致内存破坏（memory corruption）。NSS 至少从 2014 年开始就支持模糊测试，但 NSS 库是一个模块化库，每个不同组件是独立测试的，在测试时对输入的字符长度设置了一个任意的 10000 字节限制，而 NSS 库却对此没有限制，但它验证的签名长度超过 16384 比特时会导致内存覆写。这个问题本应该很容易发现，Google 研究人员将其命名为“BigSig”，Mozilla 称编号为 CVE-2021-43527 的漏洞不影响 Firefox，但其它使用 NSS 库的软件如 Thunderbird、LibreOffice、Evolution 和 Evince 会受到影响。Google Chrome 在 2015 年前使用过 NSS 库，之后用自己的 BoringSSL 替换了 NSS。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豆瓣再次被罚款和整改]]></title>
-        <id>https://www.solidot.org/story?sid=69852</id>
-        <link href="https://www.solidot.org/story?sid=69852"/>
-        <updated>2021-12-02T11:51:46.000Z</updated>
-        <summary type="html"><![CDATA[网信办发表声明，约谈豆瓣网主要负责人、总编辑，针对近期豆瓣网及其账号屡次出现法律、法规禁止发布或者传输的信息，情节严重，依据《中华人民共和国网络安全法》等法律法规，责令其立即整改，严肃处理相关责任人。北京市互联网信息办公室即对豆瓣网运营主体北京豆网科技有限公司依法予以共计 150 万元罚款的行政处罚。2021 年 1 月至 11 月，国家互联网信息办公室指导北京市互联网信息办公室，对豆瓣网实施 20 次处置处罚，多次予以顶格 50 万元罚款，共累计罚款 900 万元。根据豆瓣在站内的声明，从 12 月 2 日到 17 日所有小组回复功能暂停。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA 和工业界拥抱激光通信]]></title>
-        <id>https://www.solidot.org/story?sid=69851</id>
-        <link href="https://www.solidot.org/story?sid=69851"/>
-        <updated>2021-12-02T11:26:51.000Z</updated>
-        <summary type="html"><![CDATA[电视和电脑屏幕以高清方式显示新闻、电影和节目，让观众获得生动清晰的体验。光纤连接通过电缆发送的激光承载了大量数据，为用户带来这些体验。NASA 和商业航空航天公司正将类似的技术应用于太空通信，将光速带到终极边界。自由空间光通信允许航天器通过激光链路发送高分辨率图像和视频。“自由空间”指的是没有实现地面互联网的绝缘光缆。自由空间激光通信在太空真空中自由流动，但是大气对通信工程师带来了独特的挑战。NASA 的激光通信中继演示（LCRD）将通过激光链路向地面站和太空用户任务发送并接收数据。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合成组织可修复心脏、肌肉和声带]]></title>
-        <id>https://www.solidot.org/story?sid=69850</id>
-        <link href="https://www.solidot.org/story?sid=69850"/>
-        <updated>2021-12-02T11:18:54.000Z</updated>
-        <summary type="html"><![CDATA[麦吉尔大学机械工程系博士生 Guangyu Bao 表示：“从心脏损伤中恢复过来的人通常面临着漫长而艰苦的旅程。愈合具有挑战性，因为组织在心脏跳动时必须不断运动。声带也是如此。到目前为止，还没有足够坚固的可注射材料能够胜任这项工作。”由 Luc Mongeau 教授和 Jianyu Li 助理教授领导的团队开发了一种用于伤口修复的新型可注射水凝胶。这种水凝胶是一种为细胞提供生存和生长空间的生物材料。一旦注入体内，生物材料会形成稳定的多孔结构，使活细胞能生长或穿过以修复受伤的器官。Guangyu Bao 表示：“结果很有希望，我们希望有一天这种新型水凝胶能用作植入物以恢复声带受损人群的声音，例如喉癌幸存者”。科学家开发了一种模拟人类声带极端生物力学状况的机器，用其测试了水凝胶的耐久性。每秒振动 120 次，循环次数超过 600 万次，新的生物材料依然完好无损，而其他标准水凝胶则断裂成碎片，无法承受这种载荷的压力。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[食品添加剂改变人体微生物群和肠道环境]]></title>
-        <id>https://www.solidot.org/story?sid=69849</id>
-        <link href="https://www.solidot.org/story?sid=69849"/>
-        <updated>2021-12-02T11:13:48.000Z</updated>
-        <summary type="html"><![CDATA[羧甲基纤维素（CMC）是一类广泛使用的人工合成食品添加剂，作为乳化剂被添加到加工食品中以增强口感并延长保质期。CMC 没有在人体中进行过广泛的测试，但自 1960 年代以来越来越多地被用于加工食品。人们一直认为 CMC 可以安全摄入，因为它会在粪便中被排出而不会被吸收。随着对通常生活在结肠中的细菌提供的健康益处以及它们同非吸收性添加剂的相互作用的认识越来越多，科学家对这个假设提出质疑。在小鼠身上进行的实验发现，CMC 和其他一些乳化剂改变了肠道菌群，在一系列慢性炎症条件下可导致更严重的疾病，包括结肠炎、代谢综合症和结肠癌。但结果多大程度上适用于人类之前尚未进行过研究。
-
-
-美国和欧洲的一个研究小组在健康志愿者中进行一项随机对照进食研究。住在研究场所的参与者食用无添加剂的饮食或添加了羧甲基纤维素（CMC）的相同饮食。由于 CMC 在小鼠身上引发的疾病需要数年时间才能在人体内出现，因此研究人员将重点放在肠道菌群和代谢物上。他们发现 CMC 改变了结肠中细菌的构成，减少了特定的种类。食物中添加 CMC 的参与者的粪便样本中的有益代谢物明显减少，这些代谢物通常被认为可维持结肠健康。
-
-
-最后，研究人员在研究开始和结束时对受试者进行结肠镜检查，注意到一部分食用 CMC 的受试者表现出肠道细菌渗入粘液，这是此前观察到的炎症性肠病和2型糖尿病的特征。因此两周研究中食用 CMC 本身并没有导致任何疾病，但总的来说，结果支持动物研究的结论，即长期食用这种添加剂可能会促进慢性炎症性疾病。因此有必要对该添加剂进行进一步的研究。研究报告发表在《Gastroenterology》期刊上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZeroTier Planet 行星服务器，一键私有部署，可突破 50 台设备限制]]></title>
-        <id>https://www.appinn.com/?p=40669</id>
-        <link href="https://www.appinn.com/zerotier-planet-server-docker-install/"/>
-        <updated>2021-12-02T11:06:40.000Z</updated>
-        <summary type="html"><![CDATA[ZeroTier 是一款即开即用的开源网络服务，它可以将不同物理地点的电脑、手机、网络设备，组成一个虚拟局域网，并拥有较高的安全性。而这些设备，就可以像在家中，或同一个办公室中一样，使用各种内网服务，]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们还能摆脱 COVID-19 吗？]]></title>
-        <id>https://www.solidot.org/story?sid=69848</id>
-        <link href="https://www.solidot.org/story?sid=69848"/>
-        <updated>2021-12-02T09:28:30.000Z</updated>
-        <summary type="html"><![CDATA[年底临近，我们即将迎来新冠疫情两周年。全球已有超过 500 万人死亡，这个数字肯定低估了，尤其是在那些缺乏资源对其人口进行适当检测和疫苗接种的国家。美国报告的死亡人数超过了 750,000 例，从 2020 年初以来，我们看到了四次疫情高峰，每一次我们都希望是最后一次。就在上周，科学家发现了一种严重变异的新变种 Omicron，该变种可能会导致另一波疫情高峰——或许不会产生持久的影响。我们所知有限，无法确定。
-
-
-每个人都准备好迎接疫情的结束，但仍然不清楚会是什么。我们消灭这种病毒的可能性有多大？这到底意味着什么，如果我们能做到，世界会变成什么样？尽管我们对于 SARS-CoV-2（导致 COVID-19 的病毒）还有诸多不解，但已经了解到的知识足以回答其中一些问题。
-
-
-我们可以根除 COVID-19 吗？
-
-
-有些人认为可以。根除病毒运动的倡导者认为 SARS-CoV-2 病毒流行在健康方面代价惨重，带来了持续的经济问题。迄今为止，全球确认感染病例超过 2.5 亿例，死亡人数超过 500 万人，如果没有任何干预，经济学家估计到2030年，COVID-19 感染将耗费美国 1.4 万亿美元。即使有了疫苗，未来几年 COVID-19 仍会在很多方面产生高昂代价。
-
-
-的确，一旦消灭了病原体，就可以减少或取消防疫措施。我们已经不再为公众接种天花疫苗。一份医学期刊认为不排除根除 SARS-CoV-2 的可能性，可能与我们正在进行的根除脊髓灰质炎的工作一样具有挑战性。我不同意这种看法。该病毒的流行病学特征使其不太可能被根除。投资于此类活动将是对有限资源的滥用，高调的根除运动的失败可能会使其他级别的控制变得更困难。
-
-
-根除、灭绝和消灭病毒有什么区别？
-
-
-根除意味着该病毒在自然界中被彻底消灭。我们在人类的天花和动物的牛瘟上实现了这一目标。灭绝则更进一步，还包括销毁实验室库存中的所有样本。这种情况并未在任何一种病原体上发生过，这主要是由于政治而非科学的多种原因：最重要的是，美国和俄罗斯之间的相互不信任，两个国家都保有剩余的病毒库。
-
-
-根除有时候会与消灭混淆。根除是指在全球范围内灭绝病毒（实验室除外），而消灭指的是一种更有限的控制形式，即特定国家的新感染数量减少到零。在美国，我们已经对其他一些病毒做到了这一点，包括引起麻疹、风疹和脊髓灰质炎的病毒。虽然我们最近爆发了麻疹，但每次爆发的最初病例都源自外部——通常是旅行者先在国外被感染，之后造成某地区的麻疹流行。
-
-
-保持消灭状态是困难的。美国一度消灭了麻疹，可是 2019 年该病的流行致使全球病例激增（主要是因为在未接种疫苗人群中的爆发），这差点让美国“破功”。
-
-
-是什么让 COVID-19 如此难以根除？
-
-
-根除的“候选者”通常都有三个特点：可以阻止传播的有效干预，具备快速检测感染的工具以及在非人类动物中没有这种疾病。COVID-19 在这三点上都不符合。
-
-
-我们认为大约 35% 的 COVID-19 感染是无症状的。这使传播控制和诊断变得复杂。每出现一例有症状的病例都有许多其他的感染未被注意到。为了找到他们，我们需要建立广泛的监测计划（正如我们在消灭脊髓灰质炎行动中所做的那样），检查人类病例和污水样本，以确定病毒是否在社区中传播。如果你甚至都不知道这种疾病存在，就很难阻断传播。
-
-
-即使对于有症状的病例，诊断也很困难。与天花不同，天花的症状非常明显，可以很容易地将其与其他引起皮疹的病毒区分开来，而 COVID-19 引起的症状可能与流感和其他呼吸道病毒的症状相似，这意味着快速、准确、广泛且负担得起的检测对确诊病例至关重要。
-
-
-最后病毒目前正在人类以外的多种动物中传播，而且看不到尽头。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国男子安装世界首个 3D 打印义眼]]></title>
-        <id>https://www.solidot.org/story?sid=69847</id>
-        <link href="https://www.solidot.org/story?sid=69847"/>
-        <updated>2021-12-02T08:34:04.000Z</updated>
-        <summary type="html"><![CDATA[伦敦 Moorfields 眼科医院表示，一名英国男子成为世界首位装上 3D 打印义眼的患者。现年 47 岁的 Steve Verze 是一名来自伦敦东部哈克尼的工程师，在周四装上左眼，本月早些时候他试过了该义眼的大小。Moorfields 眼科医院在一份新闻稿中表示，该假体是为首个患者打造的全数字义眼。该医院表示，比替代品更逼真，设计有“更清晰边界和真实深度的瞳孔”。其他的义眼使用的是手绘在圆盘上的虹膜，然后将其嵌入眼窝。医院在新闻稿中补充说，他们的设计可防止光线进入眼睛的“全部深度”。除了看起来更逼真外，该手术被认为侵入性更小。安装传统义眼需要对眼窝进行模具制作，而在 3D 义眼开发中，是对眼窝进行数字扫描以创建详细图像。Verze 好的右眼也接受了扫描，以确保两只眼睛看起来一样。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HashiCorp IPO 将使其跻身估值最高的开源科技公司之列]]></title>
-        <id>https://www.solidot.org/story?sid=69846</id>
-        <link href="https://www.solidot.org/story?sid=69846"/>
-        <updated>2021-12-02T08:00:10.000Z</updated>
-        <summary type="html"><![CDATA[提供 Terraform 和 Vagrant 等云服务工具的 HashiCorp 公司计划在感恩节和圣诞节之间进行 IPO，IPO 定价区间将使其跻身估值最高的开源科技公司之列。在最近的 S-1/A 文件中，这家云基础设施管理公司表示，它预计将以每股 68 美元至 72 美元出售公开发行的股票。这个区间可能会在上市前发生变动。如 Nubank 本周就在预期的上市之前调低 IPO 价格区间。按目前的价格范围，HashiCorp 的 IPO 估值可以以两种方式计算。第一种是简单地采用股票数量或者预计在上市后发行的股票数量。第二种是完全稀释的股票数量，其中包括通过期权获得但尚未行权的股票。该公司预计在 IPO 后流通的 A 类和 B 类股票为 178,895,570 股。如果我们算上为其承销实体保留的股票，HashiCorp IPO 的股票数量将上升至 181,190,570 股。使用后一个数字，按每股 68 至 72 美元的 IPO 价格区间计算，HashiCorp 的市值将在 123 亿至 130 亿美元之间。在完全稀释的基础上，该公司的价值要高得多。根据 Renaissance Capital 的数据，按每股 70 美元的价格计算，HashiCorp 的IPO（按更广泛的股票数量计算）的市值为 142 亿美元。如果按照每股 72 美元的价格计算，该公司的市值可能会高达 146 亿美元。2020 年 3 月，这家独角兽的估值约为 50 亿美元，这意味着其 IPO 定价将是一场胜利。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟官员表示半导体独立是不可能的任务]]></title>
-        <id>https://www.solidot.org/story?sid=69845</id>
-        <link href="https://www.solidot.org/story?sid=69845"/>
-        <updated>2021-12-02T07:42:18.000Z</updated>
-        <summary type="html"><![CDATA[欧盟竞争事务专员 Margrethe Vestager 表示，就半导体供应而言，欧盟不太可能完全独立于其他国家。领先的半导体合约制造商——例如英特尔、三星和台积电——每年的资本支出约 300 亿美元，在新工艺技术开发上花费数十亿美元。分析人士认为，一个国家或多个国家想要在当地建立具有竞争力的半导体产业，需要在五年内提供超过 1500 亿美元的直接资助、税收减免和激励措施。但成功的机会非常渺茫。欧盟官员认为，如此规模的投资是不可能的，这是欧盟将继续依赖内部和外部芯片供应的原因。Vestager 在接受 CNBC 采访时表示：“我听说的数字——实现完全自给自足的前期投资额让此事变得不可行。重要的是欧洲内部的生产能力水平不同。”
-
-
-值得注意的是，欧洲不生产智能手机或个人电脑，这两种应用需要尖端制造技术生产的芯片。同时欧盟生产汽车、消费电子产品和其他不需要使用最新节点制造的芯片的东西。因此欧盟希望扩大这些产品的芯片生产以保护其经济。它也不希望供应链受到中国或者与美国和德国紧张局势的干扰。目前全球大约 10% 的芯片供应产自欧洲，而 1990 年这一比例为 40%。欧盟的目标是到 2030 年将其全球芯片生产市场份额扩大到 20%，这已是一个非常雄心勃勃的目标了。Vestager 承认，要实现这一目标，欧盟需要支持本土半导体制造商。不幸的是，Margrethe Vestager 目前没有宣布任何具体的计划。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome OS 更新将 Chromebook 变成扫描仪]]></title>
-        <id>https://www.solidot.org/story?sid=69844</id>
-        <link href="https://www.solidot.org/story?sid=69844"/>
-        <updated>2021-12-02T07:28:43.000Z</updated>
-        <summary type="html"><![CDATA[Google 本周推送了更新 Chrome OS 96，加入了将带摄像头的 Chromebook 笔记本电脑变成扫描仪的功能。用户可以将需要扫描的文档展示在摄像头前面，使用 Camera 应用的扫描模式将其转变成 PDF 或 JPEG。Chrome OS 软件总监 Alexander Kuscher 表示，Google 还将在明年加入将短视频转变成 gif 的功能。该公司还在测试通过语音助手  Google Assistant 控制 Camera 应用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客利用智能合约漏洞窃取 3100 万美元加密货币]]></title>
-        <id>https://www.solidot.org/story?sid=69843</id>
-        <link href="https://www.solidot.org/story?sid=69843"/>
-        <updated>2021-12-02T06:52:37.000Z</updated>
-        <summary type="html"><![CDATA[黑客利用区块链创业公司 MonoX Finance 智能合约的漏洞窃取了价值 3100 万美元的加密货币。该公司使用名为 MonoX 的去中心化金融协议让用户在没有传统交易所要求的情况下交易数字货币代币。其原理是将存入的代币与 vCASH 组合成一个虚拟对，设计提供单一的代币池。在此次攻击中，黑客利用相同的代币作为 tokenIn 和 tokenOut——也就是用一种代币交易另一种代币，每次交易之后 MonoX 会通过计算更新价格，用户发送的代币 tokenIn 的价格会下降，而收到的代币价格会增加。tokenIn 和 tokenOut 使用相同的代币进行交易本来是不允许的，但 MonoX 的软件漏洞允许交易发生，让黑客能人为抬高 MONO 代币的价格，然后在以太坊和 Polygon 区块链上兑换了价值 3100 万美元的加密货币。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Julia 1.7 发布]]></title>
-        <id>https://www.solidot.org/story?sid=69842</id>
-        <link href="https://www.solidot.org/story?sid=69842"/>
-        <updated>2021-12-02T06:22:46.000Z</updated>
-        <summary type="html"><![CDATA[面向高性能科学计算的编程语言 Julia 释出了v1.7。主要新特性包括：新随机数生成器；新线程能力，解决了运行时的多个竞争条件，改进了多线程下工作负荷调度，默认随机数生成器对线程更友好，支持可变结构字段原子访问；自动包安装，新 manifest 格式，语法变化，改进 Unicode 支持，REPL 新特性，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球三分之一以上人口从未使用互联网]]></title>
-        <id>https://www.solidot.org/story?sid=69841</id>
-        <link href="https://www.solidot.org/story?sid=69841"/>
-        <updated>2021-12-02T04:22:18.000Z</updated>
-        <summary type="html"><![CDATA[国际电信联盟的数据显示，世界上有 37% 的人口——即29亿人——仍然从未使用过互联网。数据亦显示，全球互联网使用量强劲增长，使用过互联网的人数从 2019 年估计的 41 亿猛增到 2021 年的 49 亿。但连接的能力仍然存在严重的不平等。在仍处于离线状态的 29 亿人中，估计有 96% 生活在发展中国家。即使在被算作“互联网用户"的 49 亿人中，也有数亿人通过共享设备，或使用明显限制其连接效用的连接速度偶尔得到上网机会。国际电联秘书长赵厚麟表示：“虽然现在世界上几乎三分之二的人口已经上网，但要让每个人都连接互联网，依然任重道远。国际电联将与各方合作，确保打造连接其余29亿人的基石。我们决心确保无人掉队"。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jack Dorsey 的 Square 公司更名为 Block]]></title>
-        <id>https://www.solidot.org/story?sid=69840</id>
-        <link href="https://www.solidot.org/story?sid=69840"/>
-        <updated>2021-12-02T04:16:11.000Z</updated>
-        <summary type="html"><![CDATA[由 Jack Dorsey 和 Jim McKelvey 在 2010 年联合创办的金融服务和数字支付公司 Square 宣布更名为 Block。Dorsey 现在是 Block 的 CEO。新闻稿解释说，改名是为了将公司实体与业务分离，自创办伊始，公司已经增加了很多业务，如 Cash App、TIDAL 和 TBD54566975，改名不会改变公司架构，Square、Cash App、TIDAL 和 TBD54566975 将会维持各自的品牌，而致力于推广比特币的 Square Crypto 将改名为 Spiral。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IrfanView 4.59 更新，新增 JXL（JPEG XL）格式支持[Windows]]]></title>
-        <id>https://www.appinn.com/?p=40663</id>
-        <link href="https://www.appinn.com/irfanview-4-59/"/>
-        <updated>2021-12-02T04:02:15.000Z</updated>
-        <summary type="html"><![CDATA[IrfanView 是著名的图片浏览器，在 Munk 票选的我最喜爱图片浏览器中排名第二，昨天更新 4.59 版本，新增没什么人用的 JXL（JPEG XL）格式支持。@Appinn 今早 @Dali]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omicron 变种进入美国，在南非成为主流变种]]></title>
-        <id>https://www.solidot.org/story?sid=69839</id>
-        <link href="https://www.solidot.org/story?sid=69839"/>
-        <updated>2021-12-02T02:05:17.000Z</updated>
-        <summary type="html"><![CDATA[距离南非首次发现 Omicron 变种还不到四周，严重变异的 Omicron 正迅速成为那里的主流新冠病毒，而美国周三成为最新一个境内确诊 Omicron 病例的国家。美国首例 Omicron 感染病例出现在加州，该患者已完整接种疫苗，11 月 22 日从南非返回美国，七天后检测为阳性。美国国家过敏暨传染病研究所所长福奇(Anthony Fauci)在白宫对记者表示，该患者症状轻微，正在进行自我隔离。关于这个新变体仍存在一些关键问题。目前已有二十几个国家发现了这种变体，包括西班牙、加拿大、英国、奥地利和葡萄牙。阿联酋在周三报告首例病例，这是继沙特后第二个发现 Omicron 病例的海湾国家。早期迹象表明，Omicron 的传染性可能明显高于以前的变种，这使金融市场感到不安，担心新的限制措施可能会扼杀经济从疫情冲击中初步复苏的势头。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dock Life: Using Docker for All The Things!]]></title>
-        <id>https://css-tricks.com/?p=357985</id>
-        <link href="https://css-tricks.com/dock-life-using-docker-for-all-the-things/"/>
-        <updated>2021-12-01T21:11:53.000Z</updated>
-        <summary type="html"><![CDATA[I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embrace the Unpredictable]]></title>
-        <id>https://css-tricks.com/?p=357344</id>
-        <link href="https://css-tricks.com/embrace-the-unpredictable/"/>
-        <updated>2021-12-01T15:47:46.000Z</updated>
-        <summary type="html"><![CDATA[In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …]]></summary>
-        <author>
-            <name>George Francis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exactly What You Want]]></title>
-        <id>https://css-tricks.com/?p=356146</id>
-        <link href="https://css-tricks.com/exactly-what-you-want/"/>
-        <updated>2021-12-01T15:46:29.000Z</updated>
-        <summary type="html"><![CDATA[What is one thing people can do to make their website better?
- Exactly what you want to build!
-Ask yourself:
-What drew you to development in the beginning?
-Is there an experimental API that you’ve been wanting to try out?
-…]]></summary>
-        <author>
-            <name>Amelia Wattenberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游戏寒冬巨头加速出海]]></title>
-        <id>https://www.solidot.org/story?sid=69838</id>
-        <link href="https://www.solidot.org/story?sid=69838"/>
-        <updated>2021-12-01T13:57:30.000Z</updated>
-        <summary type="html"><![CDATA[国家新闻出版署每月会公布国产网络游戏审批信息，但最新的审批信息仍然是 7 月份的，8、9、10 和 11 月都没有公布，游戏审批暂停会停止多久目前还不清楚，2018 年的游戏审批曾暂停了 9 个月。加上未成年人被每周网游时间被限制在三小时等监管规定，中国的游戏公司再次迎来了寒冬，它们采取的一种应对措施是加速扩大海外市场。伽马数据近日发布的三季度移动游戏报告显示，当季中国移动游戏市场实际销售收入 554.69 亿元，环比下滑 0.85%；而中国自主研发游戏海外市场实际销售收入为 49.66 亿美元，环比增长 12.77%。根据 Sensor Tower 统计，中国规模前 30 的移动游戏公司流水总和占全球市场流水总和比例截至今年三季度已达到 32.8%，较去年一季度提升了 6.8 个百分点。“预计到 2024 年，海外市场潜在的规模为当前国内游戏出海收入的4.5倍左右。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新疗法有潜力无副作用治疗多种癌症]]></title>
-        <id>https://www.solidot.org/story?sid=69837</id>
-        <link href="https://www.solidot.org/story?sid=69837"/>
-        <updated>2021-12-01T13:46:52.000Z</updated>
-        <summary type="html"><![CDATA[想象一下可通过针对一个基因治愈癌症。想象一下同一个基因在包括乳腺癌、前列腺癌、肺癌、肝癌和结肠癌中都出现。想象一下这个基因对健康活动不重要所以攻击它基本没有副作用。普林斯顿大学的癌症生物学家 Yibin Kang 和同事在本周出版的《Nature Cancer》期刊上发表了两篇 论文，报告了针对名为 MTDH 的致命基因的实验性疗法在小鼠和人体组织上的成功结果，人体试验有望在未来几年内展开。分子生物学教授 Kang 说，你不可能找到比它更好的药物靶点，MTDH 对大多数人类主要癌症至关重要，但对正常细胞并不重要，遏制它不会产生明显的副作用。研究人员确定了一种对癌症有效的化合物，发现它与化疗和免疫疗法相结合时更高效。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
