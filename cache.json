@@ -12,6 +12,24 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=41043",
+          "author": "青小蛙",
+          "description": "Relingo 是一款 Chrome 浏览器扩展，它能够在你阅读英文文章，或观看带有英文字幕的视频时，根据分级自动标示生词，并支持划词翻译，让你可以「基于兴趣阅读，不知不觉掌握词汇」。@Appinn",
+          "link": "https://www.appinn.com/relingo-for-chrome/",
+          "publishedOn": "2022-01-05T08:05:56.000Z",
+          "wordCount": 760,
+          "title": "Relingo – 自动为文章与视频标示英文生词[Chrome]"
+        },
+        {
+          "id": "https://www.appinn.com/?p=41038",
+          "author": "青小蛙",
+          "description": "Luminar 4 是一款基于 AI 的照片编辑器，它可以帮你在几秒内更换蓝天、为照片添加物体、完善人像（皮肤和人脸）、滤镜、景深、擦除不需要的物体，还拥有图像库用来管理照片，拥有 Windows、m",
+          "link": "https://www.appinn.com/luminar-4/",
+          "publishedOn": "2022-01-05T03:21:41.000Z",
+          "wordCount": 806,
+          "title": "Luminar 4 免费送终身授权，基于 AI 的照片编辑器[Win/macOS]"
+        },
+        {
           "id": "https://www.appinn.com/?p=41033",
           "author": "青小蛙",
           "description": "RSSHub Radar 是一个让不少同类型服务开发者放弃自己项目转而使用它的开源项目，它能帮助你快速发现和订阅当前网页的 RSS 地址，以及 RSSHub 地址的浏览器扩展，以实现万物皆可 RSS。",
@@ -438,24 +456,6 @@
           "publishedOn": "2021-12-08T04:50:58.000Z",
           "wordCount": 710,
           "title": "抖音防烧屏脚本 – Tasker 脚本分享，适用于 OLED 屏幕"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40730",
-          "author": "青小蛙",
-          "description": "今天 @SeKugo 同学发出了一个问题： 话说有人注意到了Winamp 要宣布回归的事了么？ 十一月份的事，官网大变，完全的，重新制作。也就是说不再是以前那个了。我觉得虽然晚了有必要在这水一下 说起",
-          "link": "https://www.appinn.com/winamp-is-coming-back/",
-          "publishedOn": "2021-12-07T09:31:15.000Z",
-          "wordCount": 761,
-          "title": "有人注意到 Winamp 宣布回归了么？"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40724",
-          "author": "青小蛙",
-          "description": "RoundedTB 是一款很有意思的 Windows 11 小工具，它能够为任务栏添加边距、圆角，还能分段显示开始菜单和系统托盘，并可以设置系统托盘为自动隐藏，让其看起来非常像 macOS 的程序坞（",
-          "link": "https://www.appinn.com/roundedtb/",
-          "publishedOn": "2021-12-07T07:05:12.000Z",
-          "wordCount": 780,
-          "title": "RoundedTB – 分段显示 Windows 11 任务栏，让它像 Mac"
         }
       ]
     },
@@ -464,6 +464,24 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=359736",
+          "author": "Chris Coyier",
+          "description": "We recently talked with Elad Shechter on his new CSS reset, and shortly after that Josh Comeau blogged his. \nWe’re in something of a new era of CSS resets where… you kind of don’t need one? There isn’t …\nNotes on Josh Comeau’s Custom CSS Reset originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/notes-on-josh-comeaus-custom-css-reset/",
+          "publishedOn": "2022-01-05T21:22:45.000Z",
+          "wordCount": 1337,
+          "title": "Notes on Josh Comeau’s Custom CSS Reset"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360239",
+          "author": "Rob Levin",
+          "description": "Your mission — should you decide to accept it — is to build a Button component in four frameworks, but, only use one button.css file!\nThis idea is very important to me. I’ve been working on a component library called …\nHow to Make a Component That Supports Multiple Frameworks in a Monorepo originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/make-a-component-multiple-frameworks-in-a-monorepo/",
+          "publishedOn": "2022-01-05T15:42:59.000Z",
+          "wordCount": 5455,
+          "title": "How to Make a Component That Supports Multiple Frameworks in a Monorepo"
+        },
         {
           "id": "https://css-tricks.com/?p=359880",
           "author": "Chris Coyier",
@@ -1030,42 +1048,6 @@
           "publishedOn": "2021-12-07T16:18:14.000Z",
           "wordCount": 699,
           "title": "Jetpack Licensing for Agencies and Professionals"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357869",
-          "author": "Jakob Bouchard",
-          "description": "I recently started university and, before buying a MacBook Air (the M1 chips are amazing by the way), I had to use an iPad Pro for class. However, being a Computer Science student meant I had to find a way …",
-          "link": "https://css-tricks.com/how-to-use-an-ipad-for-wordpress-theme-development/",
-          "publishedOn": "2021-12-06T23:28:03.000Z",
-          "wordCount": 1781,
-          "title": "How to Use an iPad for WordPress Theme Development"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358263",
-          "author": "Chris Coyier",
-          "description": "Perhaps the most basic and obvious use of CSS custom properties is design tokens. Colors, fonts, spacings, timings, and other atomic bits of design that you can pull from as you design a site. If you pretty much only pull …",
-          "link": "https://css-tricks.com/open-props-and-custom-properties-as-a-system/",
-          "publishedOn": "2021-12-06T21:43:28.000Z",
-          "wordCount": 894,
-          "title": "Open Props (and Custom Properties as a System)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358325",
-          "author": "Chris Coyier",
-          "description": "I was just going on about how many awesome little helper sites there are out there, and now I’ve ran across another wonderful little hive of them. Sébastien Noël, under the name fffuel, has created a whole bunch of great …",
-          "link": "https://css-tricks.com/hhhelpers/",
-          "publishedOn": "2021-12-06T21:43:15.000Z",
-          "wordCount": 373,
-          "title": "hhhelpers"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356833",
-          "author": "Michelle Barker",
-          "description": "As I write this, world leaders are gathering in Glasgow for COP26, the international climate change conference, in the attempt to halt (or at least slow down) catastrophic climate change by pledging to end their countries’ dependence on fossil fuels. …",
-          "link": "https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/",
-          "publishedOn": "2021-12-06T15:57:09.000Z",
-          "wordCount": 1514,
-          "title": "Reduce Your Website’s Environmental Impact With a Carbon Budget"
         }
       ]
     },
@@ -1109,15 +1091,6 @@
           "publishedOn": "2021-12-10T00:21:40.000Z",
           "wordCount": 408,
           "title": "科技爱好者周刊（第 187 期）：元宇宙会成功吗"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/12/web3.html",
-          "author": null,
-          "description": "互联网迄今有两个阶段：Web 1.0 和 Web 2.0。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/12/web3.html",
-          "publishedOn": "2021-12-07T04:09:22.000Z",
-          "wordCount": 329,
-          "title": "为什么 Web3 与区块链有关"
         }
       ]
     },
@@ -1169,6 +1142,141 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=70256",
+          "author": null,
+          "description": "NetBlocks 的网络监测数据显示，从周二晚上开始，哈萨克斯坦发生全国性断网。原因是居民上街抗议燃料价格上涨，上周末液化石油气的价格上限被取消后价格上涨超过一倍。周二晚间，警方以催泪瓦斯和震撼弹，驱散聚集于最大城市阿拉木图主要广场的数百名抗议人士，附近地区的冲突持续了数小时。哈萨克斯坦总统托卡耶夫(Kassym-Jomart Tokayev)周三一早宣布阿拉木图和西部产油的曼吉斯套州(Mangistau)进入紧急状态，并表示国内和国外的挑衅者是暴力事件的幕后推手。哈萨克斯坦的断网是直接切断网络基础设施，无法通过 VPN 等工具绕过。",
+          "link": "https://www.solidot.org/story?sid=70256",
+          "publishedOn": "2022-01-05T13:11:23.000Z",
+          "wordCount": 75,
+          "title": "在抗议示威中哈萨克斯坦断网"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70255",
+          "author": null,
+          "description": "好莱坞刻画的人工智能（AI）噩梦就像一部科幻大片描绘的那样：机器人获得了类人的智能，获得了知觉，不可避免地成为企图毁灭人类的邪恶霸主。这种叙述利用了我们对技术与生俱来的恐惧，反映了通常伴随新技术发展的深刻变化。然而正如机器学习工程师、2019 年出版的小说《The Quantum Price》的作者 Malcolm Murdock 所说，“人工智能不必有知觉就能杀死我们所有人。在有知觉的 AI 成为问题之前，还有很多其他场景会消灭我们。”在对 AI 专家的采访中，IEEE Spectrum 列举了 AI 在现实世界中六种最坏的情况，它们比电影描述的要平凡得多。但是它们同样是反乌托邦的。而且大多数情况并不需要恶毒的独裁者。相反它们可能会自然而然地发生，有机地展开——也就是说，如果没有采取任何措施阻止它们的话。为了防止这些最坏的情况发生，我们必须放弃我们对 AI 的流行文化观念，认真对待它带来的意外后果。\n\n1.当虚构定义了现实，深度伪造之类的技术会导致现实的后果。2.逐底竞争的危险性，AI 技术发展过程中需要注重安全而不是一味追求速度。3.隐私和自由意志的终结，乔治城大学的 Andrew Lohn 指出，“随着数据监视和跟踪的兴起，我们正在进入危险和未知的领域，我们对其潜在的影响几乎一无所知。” 4.人类身处算法创造的斯金纳箱（Skinner Box），社交媒体用户已经成为实验室里的小鼠。5.AI 设计的暴政，现有 AI 系统有着自身的局限性和偏见，它可能会限制人类而不是解放人类。6.过度监管 AI 会限制它给人类带来的好处。",
+          "link": "https://www.solidot.org/story?sid=70255",
+          "publishedOn": "2022-01-05T12:41:58.000Z",
+          "wordCount": 105,
+          "title": "AI 的 6 种最坏情况"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70254",
+          "author": null,
+          "description": "一项新证明驱散了数学家担心可能会笼罩数轴的阴云。它提供了另一套工具理解算术的基本结构单元——素数。在去年 3 月发表的一篇论文中，德国哥廷根大学的 Harald Helfgott 和加州理工学院的 Maksym Radziwiłł 提出了一个改进的解决方案，可以解决 Chowla 猜想的特定公式，Chowla 猜想是一个关于整数之间关系的问题。该猜想预测一个整数是否有偶数或奇数个素因数，并不影响后一个或前一个整数是否也有偶数或奇数个素因数。也就是说相邻的数字不会共有一些最基本的算术属性。\n\n\n这种看似简单的探究与数学中关于素数本身的一些最深层次的未解难题交织在一起。加州大学洛杉矶分校的陶哲轩表示，证明 Chowla 猜想是回答那些更棘手问题的“某种热身或垫脚石”。然而几十年来，“热身”本身就成了一项几乎无可能完成的任务。几年前数学家取得了些许进展，陶哲轩当时证明了对数 Chowla 猜想，它是该问题的一个简单版本。虽然他使用的技术被誉为颇具创新性并令人兴奋的，但是它产生的结果不够精确，对在相关问题（包括素数问题）上取得更多进展没什么帮助。数学家盼望能有一个更强大、更广泛适用的证明。现在 Helfgot t和 Radziwiłł 实现了这一点。他们的解决方案将图论中的技术直接引入数论的核心，重新点燃了证明 Chowla 猜想的希望——最终引导数学家找到解决一些最难以捉摸问题所需要的思路。",
+          "link": "https://www.solidot.org/story?sid=70254",
+          "publishedOn": "2022-01-05T09:47:14.000Z",
+          "wordCount": 93,
+          "title": "数学家驱散笼罩在数字上的阴云"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70253",
+          "author": null,
+          "description": "人类的性活动会影响认知功能、健康、幸福和整体生活质量——是的，还会影响生殖。性活动的好处多种多样，因此研究人员对性活动的减少感到忧虑，从日本到欧洲到澳大利亚，世界各地的情况都一样。最近在美国进行的一项评估研究提供了大量的证据，研究表明从 2009 年到 2018年 ，所有形式的伴侣性活动都在下降，包括阴茎阴道性交、肛交和伴侣手淫。研究结果表明，青少年报告的自慰也较少。正如作者在 11 月 19 日发表在《性行为档案》上的研究论文中所写的，这种减少“并非微不足道”。2009 年至 2018 年间，在年轻男性中，报告没有性行为的青少年（无论是独自或与伴侣发生性行为）的比例从 28.8% 上升到 44.2%，在年轻女性中从 2009 年的 49.5% 上升到 74%。研究人员是从全国性健康和行为调查中获得了这些自我填报的信息，使用了 4155 人（2009年）和 4547 人（2018 年）填写的回答信息。这些保密调查的受访者的年龄从 14 岁到 49 岁不等。研究本身没有探讨这种趋势出现的原因。研究作者在接受采访时认为社交媒体、游戏可能是趋势背后的部分原因。",
+          "link": "https://www.solidot.org/story?sid=70253",
+          "publishedOn": "2022-01-05T09:39:05.000Z",
+          "wordCount": 99,
+          "title": "人们的性生活减少了"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70252",
+          "author": null,
+          "description": "由德克萨斯儿童医院和贝勒医学院的研究人员开发的新型新冠疫苗正以无专利约束的形式提供给世界各地的疫苗制造商。人体试验证明疫苗安全有效，印度已批准使用该疫苗，使该国的疫苗产量增加到每月超过 1 亿剂。该疫苗被命名为 Corbevax，它使用了一种传统的基于蛋白质的技术，该技术已安全使用几十年。与其他的新冠疫苗一样，Corbevax 针对的是新冠病毒刺突蛋白，但它没有使用 mRNA 指导我们的细胞在内部产生这些刺突蛋白，而是将实验室培养的刺突蛋白输送到人体内。研究人员获取了编码刺突蛋白的基因并改造酵母来生产它。然后再收集、纯化这些蛋白质，并将其与佐剂结合以增强免疫反应。多年来，这种方法一直被用于生产乙型肝炎疫苗。\n\n2020 年底，开发该疫苗的美国研究团队与印度制药公司 Biological E 合作，开始进行临床试验并建立生产能力。在 2021 年，数千人参与了临床试验，最终发现 Corbevax 在对 SARS-CoV-2 产生强大的免疫反应方面是安全有效的。试验数据与一种已获批的名为 Covishield 的疫苗（阿斯利康著名新冠疫苗的印度制造版本）进行了比较。Corbevax 产生的副作用比 Covishield 少得多，产生了更好的免疫反应。Corbevax 的中和抗体反应表明，该疫苗在预防有症状的 Delta 变体新冠肺炎方面的有效性应至少为 80%。预计很快将获得针对 Omicron 变体的具体数据，但预计它的有效性至少与大多数当前可用的疫苗相当。也许这种新疫苗最重要的特点是它是一种无专利约束的疫苗，世界各地的疫苗生产商都可以生产。",
+          "link": "https://www.solidot.org/story?sid=70252",
+          "publishedOn": "2022-01-05T09:30:49.000Z",
+          "wordCount": 102,
+          "title": "研究人员分享免专利新冠疫苗"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70251",
+          "author": null,
+          "description": "无论是香烟还是酒类，很多政府都立法要求企业必须警告消费者其产品的负面影响。这些警告通常要求出现在产品包装上，或者出现在广告中。据 CTV News 报道，法国现在打算将此类措施引入汽车行业，强制汽车制造商在广告中添加关于更环保的交通替代方案的信息。该法案是法国环保组织多年游说的成果，将于 3 月 1 日生效。法案要求任何给定的广告都必须提及三种说法中的一种。这三种说法粗略地翻译过来就是：“短途旅行选择步行或骑自行车”、“考虑拼车”以及“每天乘坐公共交通工具”。这些信息必须包含在所有广告中，无论是印刷广告、在线广告还是广播或电视广播。消息必须在屏幕上清晰可见，如果是广播广告的话，必须在广告内容完成后立即大声读出来。在某些情况下，还需要显示 #SeDeplacerMoinsPolluer 话题标签，该标签翻译过来的意思是“无污染出行”。违规罚款最高可达 56,450 美元。这一举措是法国减少交通排放的更广泛努力的一部分，私家车占其温室气体排放量的 15%。法国承诺到 2040 年停止销售汽油和柴油动力汽车，而巴黎市已禁止在市中心使用旧的、污染更严重的车辆。",
+          "link": "https://www.solidot.org/story?sid=70251",
+          "publishedOn": "2022-01-05T09:25:36.000Z",
+          "wordCount": 85,
+          "title": "法国新法案要求汽车广告劝人步行或骑自行车"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70250",
+          "author": null,
+          "description": "ASML Holding 报告其位于德国柏林的工厂发生火灾。没有人受伤，火灾在周日晚间被扑灭，但该事件可能会加剧全球计算机芯片短缺。ASML 报告称：“火灾在晚间被扑灭，所幸没有人在此次火灾中受伤。目前就损失或该事件是否会对今年计划的产量产生任何影响发表声明还为时过早。进行彻底调查并做出全面评估需要几天时间。我们会在评估后立刻提供更新。”\n\n\n这些是极紫外（EUV）和深紫外（DUV）系统的关键部件。特别 是EUV，它帮助 ASML 的半导体制造客户以更高的精度和更低的成本印制芯片，被视为该公司半导体业务规模到 2030 年达到1万亿美元预测的一个驱动因素。这家荷兰公司的客户包括台积电和英特尔。\n\n柏林消防部门表示，在柏林新克尔恩地区布里茨区Waldkraiburger Strasse的一座三层“工业”建筑的二楼，一个自动清洁系统引发了火灾，大火波及 200 平方米的面积。部署在现场的资源包括一架可以进入屋顶的无人机。这家柏林公司声称生产面积为 31,780 平方米。一位发言人证实，柏林工厂部分关闭，但是其他部分仍在运营。消息传出后，公司股票价格下跌了 2%。",
+          "link": "https://www.solidot.org/story?sid=70250",
+          "publishedOn": "2022-01-05T09:18:30.000Z",
+          "wordCount": 100,
+          "title": "ASML 火灾或加剧全球芯片短缺"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70249",
+          "author": null,
+          "description": "冷战无法阻止游戏在东欧联盟中的发展。从 1980 年代末到 1990 年代初，生活在铁幕之后的年青一代设计并发布了自己的游戏和街机。现在你可以玩到遗失的早期经典游戏的英译版本。其中之一是文字冒险游戏，苏维埃军官在游戏中猎杀兰博。这些英译版本的游戏都来自于斯洛伐克，由斯洛伐克游戏开发者协会和斯洛伐克设计博物馆合作出品。\n\n\nStanislav Hrda 是这些游戏的开发者之一，他表示制作游戏是孩子才做的事情。他解释了该项目：“那时候，游戏没有在商店里出售，作者无法获得报酬。”“因此几乎没有人可以把游戏当成是可从事的商业活动，成年程序员最多在国家机构的大型计算机上工作。因此游戏程序员主要是青少年。”那时的算力很有限，而青少年的技术知识也很匮乏，因此这些早期游戏很多都是文字冒险类游戏。Hrda 表示：“这些游戏可以用每台家庭电脑上都有的简单 Basic 语言进行编程。”“基于文字的游戏提供了一个机会，可以将一个人的幻想随意幻化成一个由角色、地点、以及现实或幻想的描述构成的世界。这就是为什么捷克斯洛伐克在 1980 年代涌现出了数百种此类游戏的原因。青少年作者描绘了他们的朋友，也描绘了来自 VHS 磁带上的英雄，或者在偶尔得到的漫画、电影、电视剧和书籍中看来的来自西方流行文化世界的英雄。”\n\n\nHrda 喜欢美国动作片，编写了游戏 Satochin，这是一个苏维埃军官追捕兰博（John Rambo）的文字冒险游戏。Hrda 告诉 Ars Technica：“这个游戏很难通关。”“只要犯了一个小错你就会死。所以在通关之前，你已被兰博杀死了十次。”该项目为西方玩家本地化了包括 Satochin 在内的 10 款游戏，计划在未来几年内本地化更多游戏。网站表示，“等到本项目在未来 2 到 3 年后结束时，翻译完成的游戏将囊括斯洛伐克在 8 位计算机时代制作的几乎所有电子游戏，重点是文字冒险游戏。”这里提供了游戏的英文版本，可以在 Fuse 模拟器中玩。斯洛伐克语的版本可以在项目网站上在线玩。",
+          "link": "https://www.solidot.org/story?sid=70249",
+          "publishedOn": "2022-01-05T09:12:36.000Z",
+          "wordCount": 104,
+          "title": "你现在可以玩铁幕国家开发的游戏"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70248",
+          "author": null,
+          "description": "在加州提起的一项集体诉讼指控 Google、苹果及其CEO 涉嫌违反反垄断法。诉状要求按照将标准石油公司拆分成 Exxon、Mobile、Conoco、Amoco、Sohio、Chevron等公司的先例，将 Google 和苹果拆分成多家独立公司。起诉新闻稿指控 Google 和苹果达成协议苹果不涉足互联网搜索业务对抗 Google。诉讼还声称 Google 与苹果分享其搜索利润，并对其所有苹果设备给予优惠待遇；Google 每年要花费数十亿美元，换取苹果不参与搜索业务的竞争；压制较小的竞争对手，使其远离搜索领域并收购竞争公司。新闻稿称，指控还包括比竞争系统更高的广告费率。律师正在寻求终止 Google 被控向苹果支付数十亿美元的搜索协议，要求法院禁止两家公司之间的竞业禁止协议，终止利润分享协议和 Google 给苹果设备的优惠待遇。代表原告的 Alioto Law 的Joseph M. Alioto 在新闻稿中表示：“这些强大的公司非法封锁和垄断主要市场的做法滥用了自身规模，若非如此，自由企业系统会在市场中创造就业机会、降低价格、提高产出、增加新的竞争对手、鼓励创新并提高数字时代的服务质量。”",
+          "link": "https://www.solidot.org/story?sid=70248",
+          "publishedOn": "2022-01-05T08:58:56.000Z",
+          "wordCount": 96,
+          "title": "集体诉讼称 Google 和苹果的搜索交易涉嫌垄断"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70247",
+          "author": null,
+          "description": "梅赛德斯奔驰宣布其电动概念车 Vision EQXX 单次充电行驶距离达到一千公里（或超过 620 英里）。这一数字比特斯拉的 Model S Long Range Plus 高 220 英里。厂家的模拟显示 Vision EQXX 在公路上行驶 100 公里使用不到 10 kWh 的电，每 kWh 超过 10 公里，换算成汽油相当于每百公里 1 升汽油。Vision EQXX 是超轻型汽车，重量只有 1750 公斤，并为空气动力学进行了优化，阻力系数为 cd 0.17，比足球的 cd 0.18 到 0.2 更符合空气动力学。",
+          "link": "https://www.solidot.org/story?sid=70247",
+          "publishedOn": "2022-01-05T06:59:57.000Z",
+          "wordCount": 109,
+          "title": "奔驰电动概念车单次充电行驶距离达到千公里"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70246",
+          "author": null,
+          "description": "NASA 周二宣布韦伯太空望远镜的遮光罩完整展开。韦伯望远镜是红外线望远镜，它的观测组件的温度必须保持在 50 K（-223.2 °C；-369.7 °F）以下，否则观测目标的信号会淹没在来自望远镜本身、太阳、地球与月球的红外辐射中。因此它配备了一个由五层聚酰亚胺薄膜组成的遮光罩屏蔽噪声，这些薄膜的厚度级别与人类的头发相当，表面涂覆材料为金属铝。在发射前，遮光罩被折叠十二次以存放在阿丽亚娜 5 号运载火箭的整流罩内。望远镜在 12 月 25 日发射，三天后的 28 日韦伯团队开始远程展开遮光罩，1 月 4 日完成。接下来是展开折叠在整流罩内的镜片，如果一切顺利，主镜将在周末展开到位，为正式运行前的测试做好准备。",
+          "link": "https://www.solidot.org/story?sid=70246",
+          "publishedOn": "2022-01-05T05:27:26.000Z",
+          "wordCount": 87,
+          "title": "韦伯太空望远镜遮光罩完整展开"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70245",
+          "author": null,
+          "description": "国家市场监管总局周三公布 13 起未依法申报违法实施经营者集中案的行政处罚决定书，涉及腾讯控股、阿里巴巴、哔哩哔哩、京东集团等多家企业。市监总局官网刊登的细节显示，腾讯涉及九起，阿里巴巴涉及两起，哔哩哔哩和京东各涉及一起。每起集中案涉案各方被罚款 50 万元人民币。",
+          "link": "https://www.solidot.org/story?sid=70245",
+          "publishedOn": "2022-01-05T04:56:51.000Z",
+          "wordCount": 75,
+          "title": "腾讯阿里巴巴因多起违法实施经营者集中案被处罚"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70244",
+          "author": null,
+          "description": "允许用户串流盗版视频内容的 Popcorn Time 宣布关闭，它没有解释关闭原因但提供了一个图表，显示互联网用户对其的兴趣在持续下降。Popcorn Time 背后的代码都是开源的，它的关闭并不意味着彻底消失，其他人完全可以创建分支。Popcorn Time 成立于 2014 年，在一年之内成为最受欢迎的盗版内容串流服务，以至于视频流媒体巨头 Netflix 在 2015 年的财报中对 Popcorn Time 的兴起向投资者发出了警告。Popcorn Time 的开发者认为该服务不托管任何盗版内容，它不应该对盗版承担责任。",
+          "link": "https://www.solidot.org/story?sid=70244",
+          "publishedOn": "2022-01-05T04:51:49.000Z",
+          "wordCount": 93,
+          "title": "Popcorn Time 宣布关闭"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70243",
+          "author": null,
+          "description": "根据约翰霍普金斯大学的数据，本周一美国新冠确诊人数突破百万。新冠 Omicron 变种的快速传播让世界各地的确诊病例大幅增加，对疫苗接种者而言好消息是这种变种导致的症状比较轻微，它被认为主要影响上呼吸道而不是肺部。Omicron 变种进入美国不过几周时间，它迅速取代 Delta 变种成为主流变种。约翰霍普金斯大学的数据显示，全世界的新冠确诊人数达到了 2.95 亿，死亡人数超过 545 万。",
+          "link": "https://www.solidot.org/story?sid=70243",
+          "publishedOn": "2022-01-05T04:27:19.000Z",
+          "wordCount": 80,
+          "title": "美国新冠单日确诊人数突破百万"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70242",
+          "author": null,
+          "description": "在 CES 2022 年展会上，AMD 宣布了 Ryzen 6000 系列移动处理器。相比去年上市的 Ryzen 5000 系列移动处理器，Ryzen 6000 系列的主要区别是 CPU 核心更新到  Zen3+，使用台积电的 N6 制造工艺改进了性能和功耗，GPU 核心升级到  RDNA2，不再使用落后两代的 Vega 核心。AMD 声称新移动处理器的 CPU 性能提高最多 30%，GPU 性能提高最多 2 倍，网络浏览和串流视频时功耗减少 15-40%。AMD 同时宣布了采用 3D 缓存技术大幅增加 CPU L3 缓存的产品 Ryzen 7 5800X3D，它将在今年春天上市。AMD 只发布一款产品的目的主要是试水，未来 3D 缓存会扩大到其它产品。5800X3D 相比 5800X 降低了频率，可能是为了减少积热问题：5800X 的基频 3.8GHz 最高 4.7GHz，而 5800X3D 的基频 3.4GHz 最高 4.5GHz。除此之外，使用台积电 5 纳米工艺制造的下一代 Zen 4 处理器将在下半年发布，将使用 AM5 插槽支持 DDR5 和 PCIe 5.0。AMD 去年宣布的超分辨率技术 FidelityFX Super Resolution (FSR)将成为一项驱动功能 Radeon Super Resolution (RSR)。",
+          "link": "https://www.solidot.org/story?sid=70242",
+          "publishedOn": "2022-01-05T04:08:57.000Z",
+          "wordCount": 159,
+          "title": "AMD 宣布 Ryzen 6000 系列移动处理器和 3D 缓存处理器 5800X3D"
+        },
         {
           "id": "https://www.solidot.org/story?sid=70241",
           "author": null,
@@ -3616,150 +3724,6 @@
           "publishedOn": "2021-12-07T14:41:00.000Z",
           "wordCount": 77,
           "title": "玉兔二号将调查立方体形状的神秘月球物体"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69910",
-          "author": null,
-          "description": "周二公布的《世界不平等报告》发现，在疫情期间，亿万富翁所拥有的家庭财富占比创纪录上升，百万富翁也因疫情而得到不少好处。今年亿万富翁共拥有全球家庭财富的 3.5%，比 2020 年初疫情开始时的 2% 略高。这份新报告显示，由 52 万名成年人组成的更广泛的群体，即最富有的 0.01% 的人，今年在全球财富中的占比达到11%，高于前一年的 10%。报告说，挤进前 0.01% 的富裕人士意味着拥有至少 1,670 万欧元的家庭财富，此数据根据不同货币的购买力平价进行调整。分析师指出，防疫封锁期间全球经济有很大一部分向线上转移，令一些超级富豪受惠；其他富豪只是因金融市场对全球经济复苏的速度和形式进行押注而从资产价格上涨中获益。",
-          "link": "https://www.solidot.org/story?sid=69910",
-          "publishedOn": "2021-12-07T11:09:01.000Z",
-          "wordCount": 85,
-          "title": "新冠疫情令富者愈富"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69909",
-          "author": null,
-          "description": "在发表在《Canine Medicine and Genetics》上的一项研究中，由加州大学戴维斯分校的兽医遗传学家 Danika Bannasch 领导的一个国际研究小组发现，大多数犬种高度近亲繁殖，这增加了它们在一生中患病的几率，导致医疗保健成本增加。Bannasch 表示：“近亲繁殖对健康的影响之大令人惊讶。虽然之前的研究表明小型犬的寿命比大型犬长，但是之前没有人报告过发病率或者疾病的存在。这项研究表明，如果狗的体型较小并且不是近亲繁殖的，它们就比高度近亲繁殖的大型犬要健康得多。”基于对 227 个品种的遗传分析，平均近亲繁殖率接近 25%，或者相当于与一个亲兄弟姐妹共享同样的基因物质。这一水平被认为远高于对人类或野生物种种群安全的水平。在人类中，高水平的近亲繁殖（3-6%）与复杂疾病和其他流行病的增加有相关性。Bannasch 表示：“来自其他物种的数据，加上癌症和自身免疫性疾病等复杂疾病的强烈品种倾向，凸显出狗的高度近亲繁殖与其健康的相关性。”",
-          "link": "https://www.solidot.org/story?sid=69909",
-          "publishedOn": "2021-12-07T09:53:18.000Z",
-          "wordCount": 82,
-          "title": "犬种高度近亲繁殖"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69908",
-          "author": null,
-          "description": "由爱尔兰高威大学共同领导的一项针对中风原因的全球研究发现，每 11 位幸存者中有 1 人在中风前一小时内经历了一段时间的愤怒或不安。每 20 名患者中有 1 人从事过重体力活动。可疑触发因素已被确定为国际脑卒中研究的一部分——这是同类研究中规模最大的一项，该研究分析了 13,462 例急性中风病例，涉及 32 个国家的各种种族背景的患者，包括爱尔兰。中风是全球主要的致死或致残因素。每年约有 7,500 名爱尔兰人中风，其中约 2,000人死亡。估计目前在爱尔兰生活着 30,000 名因中风而致残的人。爱尔兰高威大学临床流行病学教授、高威大学HRB临床研究中心主任、高威大学医院肾病学顾问 Andrew Smyth 教授是该研究的主要研究人员之一。他表示：“中风预防是医生的首要任务，尽管取得部分进展，但仍然难以预测中风何时会发生。许多研究都集中在中长期暴露上，例如高血压、肥胖或吸烟。我们的研究着眼于可能作为触发因素的急性暴露。”该研究分析了缺血性中风患者的模式——最常见的中风类型，当血凝块阻塞通向大脑的动脉或者使之变得狭窄时会发生，还有脑出血——不太常见，涉及脑组织本身内部出血。",
-          "link": "https://www.solidot.org/story?sid=69908",
-          "publishedOn": "2021-12-07T09:48:41.000Z",
-          "wordCount": 91,
-          "title": "愤怒、情绪不安或重体力劳动或会引发中风"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69907",
-          "author": null,
-          "description": "大脑比其它器官消耗更多能量，而且即使神经元不发射神经递质时它仍然是一个耗能大户。威尔康奈尔医学院的研究人员现在发现，封装神经递质的过程可能是造成能量消耗的原因。研究报告发表在《Science Advances》期刊上。研究人员发现突触小泡（synaptic vesicles）是不活跃神经元的能耗源。神经元使用突触小泡作为包含神经递质分子的容器。\n\n论文主要作者 Timothy Ryan 博士及其实验室此前发现，神经元突触——发射神经递质的芽状生长物，在活跃时是能耗大户，对能量供应的任何中断都非常敏感。在新研究中，他们检查了突触在不活动时的能量使用情况，发现它仍然很高。他们发现，这种高静息能耗主要是由突触末端的囊泡池造成的。在突触不活动期间，每个囊泡中都满载了数以千计的神经递质，并准备将这些携带信号的有效载荷跨突触发射给伙伴神经元。为什么突触小泡即使在满载时也会消耗能量？研究人员发现，囊泡膜本质上存在能量泄漏，即“质子流出”，因此囊泡中的一种特殊的“质子泵”酶必须继续工作，并在此过程中消耗能量——即使囊泡中充满了神经递质分子。\n\n\n实验指出，被称为转运蛋白的蛋白质可能是这种质子泄漏的来源。转运蛋白通常将神经递质带入囊泡，改变形状以携带神经递质进入，但同时允许质子逃逸——正如它们所做的那样。Ryan 博士推测，这种转运蛋白形状转变的能量阈值在进化过程中被设定得较低，以便在突触活动期间更快地重新加载神经递质，从而更快地思考和行动。他表示：“更快加载能力的缺点是，即使是随机的热波动也可能触发转运蛋白的形状转变，从而导致持续的能量消耗——即使没有加载神经递质。”",
-          "link": "https://www.solidot.org/story?sid=69907",
-          "publishedOn": "2021-12-07T09:46:10.000Z",
-          "wordCount": 79,
-          "title": "为什么神经元即使在休息时也会消耗过多能量"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69906",
-          "author": null,
-          "description": "根据英国皇家学会的《Philosophical Transactions A》期刊上发表的一项研究，研究人员发现有证据表明，生长在亚马逊流域洪泛区的树木排放的甲烷比土壤或地表水排放的甲烷要多得多，且此情况在潮湿和干燥条件下都会发生。甲烷是第二重要的温室气体，大气中的大部分甲烷都来自湿地。目前有大量的研究都在进行，试图确定通过这条路径排放了多少甲烷，但研究模型通常会假设这种气体只有在地面完全被淹没或者在水下时才会产生。在没有树木的湿地地区，甲烷通常会在到达地表的途中被土壤消耗，但在森林覆盖的湿地地区，研究人员表示，树根可以充当气体的运输系统，直至它被从树干排放到大气中。即使甲烷是在地表以下几米的土壤和水中产生的，也可以通过这条路线逸出。这意味着现有模型可能大大低估了亚马逊盆地等湿地地区甲烷排放的可能程度。",
-          "link": "https://www.solidot.org/story?sid=69906",
-          "publishedOn": "2021-12-07T08:35:29.000Z",
-          "wordCount": 73,
-          "title": "树木是湿地最大的甲烷排放口"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69905",
-          "author": null,
-          "description": "去年夏天一组哈佛大学神经科学家和 Google工程师公布了首张小块人脑连接图。大约针头大小的组织被保存下来，用重金属染色，切成 5,000 片，在电子显微镜下成像。这块立方毫米大的组织仅占人类整个大脑的百万分之一。而描绘它的数据达到 1.4PB，包括神经细胞、血管等色彩鲜艳的显微镜图像。论文资深作者、哈佛大学的 Jeff Lichtman 表示：“就像发现了新大陆。”他描述了其团队在人体组织中发现的一系列令人费解的特征，包括在其他动物中从未见过的新型细胞，例如轴索卷曲并相互缠绕的神经元和有两个而不是一个轴索的神经元。他表示这些发现只是皮毛：完全搜索样本的难度大概相当于行驶过北美的每条道路。\n\n\nLichtman 在职业生涯中一直致力于创建和研究这些类型的神经连接组（connectomes）——一个完整的或部分活大脑内所有神经连接的综合图。由于连接组支持了所有与大量大脑物质相关的神经活动，因此它是理解其如何进行思考、感觉、移动、记忆和感知等的关键。然而不要指望很快就会有一个完整的人脑连接组，因为技术上不可行：Lichtman 指出，它的数据是 ZB 级别的，相当于当今世界存储内容的很大一部分。事实上唯一具有完整连接组的物种是秀丽隐杆线虫（Caenorhabditis elegans）——一种不起眼的蛔虫。\n\n\n尽管如此，科学家从蠕虫、苍蝇、老鼠和人类中积累的大量连接组数据对神经科学产生了强大的影响。由于绘制大脑的技术越来越快，Lichtman 和其他研究人员很高兴大规模神经连接组学——绘制和比较一个物种多个个体的大脑——终将成为现实。",
-          "link": "https://www.solidot.org/story?sid=69905",
-          "publishedOn": "2021-12-07T08:31:16.000Z",
-          "wordCount": 86,
-          "title": "新脑图能预测行为"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69904",
-          "author": null,
-          "description": "自然界最高效捕食者之一扩大了猎食范围，可能会对生态系统食物链中的上下游动物产生重大影响。科学家 Brynn Kimber 在美国国家海洋和大气管理局（NOAA）的海洋哺乳动物实验室工作，他提供的数据显示：随着海冰消退，虎鲸——属于海豚科——现在冒险进入曾无法进入的海域，在曾只偶尔出现的地方停留了更长时间。自有卫星监测起，四十年中北极海冰大幅减少。NOAA 的阿拉斯加渔业科学中心的海洋哺乳动物学家 Amy Willoughby 表示，仅过去 15 年，冰的体积缩小了大约 75%，剩下的冰更薄，质量更差。冰的流失、海水变暖和大气温度的上升影响到了北极生态系统的各个层面。北极熊之类的大型哺乳动物在不断缩小的栖息地里挣扎求存，而位于北极食物链底端的海藻比以往任何时候都开花得更快、也更多。科学家近年来注意到该地区的海洋哺乳动物的行为发生类似的剧变。虎鲸更频繁地以北极露脊鲸为食。科学家和北极本地社区注意到楚科奇东北部和波弗特海西部越来越多的北极露脊鲸尸体有被虎鲸袭击的迹象。加拿大北极区渔业和海洋部门的的研究科学家Cory Matthews 表示：“虎鲸真的很聪明。它们消化的速度非常快。如果开辟了一个新区域，它们可能会在来年进入那里，猎食那些对这些变化反应迟缓的种群。”",
-          "link": "https://www.solidot.org/story?sid=69904",
-          "publishedOn": "2021-12-07T07:36:59.000Z",
-          "wordCount": 84,
-          "title": "冰层融化虎鲸出现在北极生态系统"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69903",
-          "author": null,
-          "description": "当网络侦探追踪美国公司、医院和市政府向网络勒索者支付的数百万美元赎金时，他们注意到：至少有一部分赎金经过了莫斯科最负盛名的商业地址。拜登政府也将目光投向了这栋建筑物：联邦大厦东塔——俄罗斯首都最高的摩天大楼。美国试图惩罚俄罗斯勒索软件团伙，已锁定了楼内的几家公司，这些勒索团伙对受害者的数字数据进行加密，然后要求支付赎金对其进行解密。赎金通常以比特币之类的加密货币和虚拟货币支付，然后将其转换成标准货币，例如美元、欧元和卢布。\n\n\n这栋高耸在莫斯科金融区的建筑物已成为此类洗钱活动的中心，让很多安全专家相信俄罗斯当局纵容勒索软件团伙。他们指出，受攻击的目标几乎都在俄罗斯境外，在美国制裁公告至少一个案例中，嫌疑人协助了俄罗斯间谍机构。马萨诸塞州网络安全公司 Recorded Future 的威胁情报专家 Dmitry Smilyanets 表示：“这说明了很多问题。俄罗斯的执法部门通常会这样回答：‘俄罗斯管辖范围内没有出现案件。没有受害者。你指望我们怎么起诉这些可敬的人？’”在 Recorded Future 的评估中，莫斯科城（Moscow City）——俄罗斯首都的一个金融区——中大约有 50 家加密货币交易所从事了非法活动。该区内的其他交易所没有被怀疑接受与犯罪有关的加密货币。",
-          "link": "https://www.solidot.org/story?sid=69903",
-          "publishedOn": "2021-12-07T07:06:56.000Z",
-          "wordCount": 84,
-          "title": "与俄罗斯勒索软件有关的公司大隐于市"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69902",
-          "author": null,
-          "description": "2022 年初，澳大利亚塔斯马尼亚西海岸的花岗岩平原上将建造一个坚不可摧的黑匣子。它的使命是记录我们应对气候灾难的每一步，为未来文明提供记录，帮助他们理解是什么导致了我们的灭亡。该项目由营销传播公司 Clemenger BBDO 与塔斯马尼亚大学的研究人员合作领导，目前处于测试阶段，已开始在其网站上收集信息。建筑物设计为公交车大小，由三英寸厚的钢板制成，顶部装有太阳能电池板。内部装满了存储驱动器，用于收集与气候变化相关的数据，例如大气的二氧化碳水平和平均温度。它还会使用算法在网络上搜索推文、帖子、新闻和标题。ABC 表示，开发商估计存储空间将在 30 至 50 年内耗尽。已有计划增加存储容量并提供更长期的解决方案，但目前尚不清楚建筑物将如何维护——在文明终结之前如何更换太阳能电池板，这些驱动器能否支撑几十年以及如何免于遭到恶意破坏。它的位置偏远，距离最近的主要城市大约四小时车程，这是一重防护——但它是否足够？",
-          "link": "https://www.solidot.org/story?sid=69902",
-          "publishedOn": "2021-12-07T06:58:25.000Z",
-          "wordCount": 81,
-          "title": "黑匣子将记录地球文明的毁灭"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69901",
-          "author": null,
-          "description": "NFT 是加密货币领域的大热门，最新收藏品价值上升能带来巨大收益。但 Chainalysis 的一项新研究表明，一小部分参与者获得了绝大部分收益。报告指出，频繁投资大量收藏品能带来最高利润。它表示，白名单——在数字文件变成区块链上的数字资产的“铸币”过程中，允许少部分粉丝或其他人以比其他用户低得多的价格购买新 NFT 的做法——带来的帮助最大。\n\n\nChainalysis 援引 Opensea 的数据表示，被列入白名单并随后将新生成的 NFT 卖掉的用户有 75.7% 的时间是盈利的，没有被列入白名单的用户则只在 20.8% 的时间里是盈利的。研究称数据表明，如果没进入白名单，就几乎不可能在“铸币”采购中获得超额回报：“极少数非常老练的投资者从 NFT 收藏中获取了大部分利润。在‘铸币’中更是如此，白名单让早期藏品支持者获得更低的价格，从而获得更高的利润。我们还看到有证据表明希望在‘铸币’活动期间购买的投资者可能使用了机器人程序，这会将不那么老练的用户拒之门外，甚至会导致交易失败，从而让他们付出代价。”",
-          "link": "https://www.solidot.org/story?sid=69901",
-          "publishedOn": "2021-12-07T06:46:36.000Z",
-          "wordCount": 93,
-          "title": "研究发现少数内部人士赚走了大部分 NFT 收益"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69900",
-          "author": null,
-          "description": "Better.com CEO Vishal Garg 通过 Zoom Call 解雇了 900 名雇员，约占员工总数的 9%。Garg 在 Zoom Call 中告诉员工，你是不幸被裁员的成员之一，你的工作被终止，即时生效。他将市场效率、业绩和生产力作为解雇的理由，声称被解雇的人缺乏效率，每天只工作 2 小时。Better.com 是一家抵押放款公司，它在今年五月宣布了上市计划。这不是 Vishal Garg 第一次引发争议，他曾在电邮中抨击雇员太蠢工作太慢。",
-          "link": "https://www.solidot.org/story?sid=69900",
-          "publishedOn": "2021-12-07T06:16:16.000Z",
-          "wordCount": 105,
-          "title": "Better.com CEO 通过 Zoom Call 解雇 900 名雇员"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69899",
-          "author": null,
-          "description": "微软官方博客宣布成功获得法庭许可扣押中国黑客使用的 42 个域名。被称为 Nickel aka APT15、Mirage、Vixen Panda 和 Ke3Chang 的黑客组织活动始于 2012 年，它使用这些域名主要用于发动钓鱼攻击。微软表示，通过 24 起诉讼，其数字犯罪部门已经关闭了网络罪犯所使用的一万多个恶意网站，以及国家行为者所使用的近 600 个网站，并阻止了另外 60 万个网站的注册。",
-          "link": "https://www.solidot.org/story?sid=69899",
-          "publishedOn": "2021-12-07T05:49:44.000Z",
-          "wordCount": 93,
-          "title": "微软扣押中国黑客使用的 42 个域名"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69898",
-          "author": null,
-          "description": "HardenedVault 写道 \"2021年11月30日到12月1日，又到了一年一度的开放固件大会，至今已经是第4届，由于疫情的缘故，开放固件大会2020和2021都是线上举行的，今年有来自全球的300名固件领域的从业人员参与，赛博堡垒（HardenedVault）是今年的赞助商之一，赛博堡垒与多个厂商交流了2022财年的服务器和边缘设备的高级防护方案，而HardenedLinux依旧在自由与开放固件生态项目中。今年的议题非常丰富，u-bmc，LinuxBoot以及ARM和Intel的下一代固件战略布局。另外，自从SolarWinds事件后，供应链安全成为了业界关注的重点，固件和硬件领域的供应链问题带来的危害远比大部分人认知的要严重，冗长的链条和碎片化带来的复杂性让防护的一方难以应对尝试把恶意检测规则和LVFS（Linux Vendor Firmware Service）融合能阻挡部分威胁，这算是一个猫鼠游戏的有趣尝试。最后就是这年头到哪里都会有人讨论Rust实现和各种重写的替代方案，这有点像2014到2019那段时间里如果新方案里没个go的实现都不太好意思讲是cutting-edged，今年有一个议题是讲oreboot（Rust重写coreboot）：\"",
-          "link": "https://www.solidot.org/story?sid=69898",
-          "publishedOn": "2021-12-07T05:23:57.000Z",
-          "wordCount": 76,
-          "title": "开放固件大会2021之赛博堡垒视角"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69897",
-          "author": null,
-          "description": "Mozilla 介绍了即将发布的 Firefox 95 引入的新沙盒技术 RLBox。RLBox 由 Mozilla 与加州圣迭戈和德州大学的研究人员联合开发，旨在简单高效的隔离子组件，加强浏览器的安全性。RLBox 使用 WebAssembly 技术去隔离潜在含有 bug 的代码，方法是将这些代码编译到 WebAssembly 然后再编译到原生码，这种编译转换限制不可信的代码访问程序的其它部分，限制其访问指定区域之外的内存。目前这项技术已用于隔离五个模块：Graphite、Hunspell、Ogg、Expat 和 Woff2，Firefox 将这些模块视为不信任的代码，因此即使其中含有 0day 漏洞也不会影响整体的浏览器。",
-          "link": "https://www.solidot.org/story?sid=69897",
-          "publishedOn": "2021-12-07T05:23:33.000Z",
-          "wordCount": 97,
-          "title": "Firefox 95 引入新沙盒技术 RLBox"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69896",
-          "author": null,
-          "description": "James Howells 本来应该像英国女王那样富有。2013 年，28 岁的他生活在威尔士的纽波特市，与伴侣 Hafina 抚养三个孩子。8 月的一个晚上，他整理了自己的办公室，在抽屉里发现了两个硬盘，一个硬盘是空的，另一个硬盘保存了戴尔游戏本里的文件，笔记本被打翻的柠檬水毁掉了，部分文件后来转移到了一台苹果 iMac 电脑，他认为硬盘已经无用，因此扔进了垃圾袋，让 Hafina 扔掉。虽然 Hafina 口头上拒绝但第二天早上还是把包含硬盘的垃圾袋送到了垃圾场。几个月后他才记起来硬盘里还有保存的比特币。他早在比特币诞生不久就听说过它并尝试挖掘比特币。当时比特币还很容易用普通的电脑挖掘。他断断续续挖了几个月，在停止活动前挖到了大约 8000 个比特币。今天它们价值五亿美元。James Howells 过去几年一直致力于找回被埋在垃圾场里的旧硬盘，但屡次受挫，他的生活也发生了天翻地覆的变化。",
-          "link": "https://www.solidot.org/story?sid=69896",
-          "publishedOn": "2021-12-06T14:37:41.000Z",
-          "wordCount": 88,
-          "title": "扔在垃圾堆里的五亿美元比特币"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69895",
-          "author": null,
-          "description": "UCLA 和 Google Research 的研究人员在预印本网站发表论文《Reduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research》（PDF），指出机器学习研究领域被少数开源数据集支配的现状。研究人员分析了 2015-2020 年之间不同机器学习社区使用的数据集，发现少数数据集被集中使用。在分析 43,140 个样本中，超过五成使用的数据集来自于 12个精英机构。研究人员认为这种高度集中化的趋势带来了实用性、伦理甚至政治方面的问题。研究人员称，计算机视觉受政府影响最大，自然语言处理受最少影响。计算机视觉尤其是脸部识别领域常用的数据集得到了企业、美国军方和中国政府（MS-Celeb-1M、 CASIA-Webface、IJB-A、VggFace2，其中 MS-Celeb-1M 因隐私争议被撤回）的资助。",
-          "link": "https://www.solidot.org/story?sid=69895",
-          "publishedOn": "2021-12-06T14:06:33.000Z",
-          "wordCount": 95,
-          "title": "少数数据集支配着机器学习研究"
         }
       ]
     },
@@ -3918,24 +3882,6 @@
           "publishedOn": "2021-12-11T15:41:43.000Z",
           "wordCount": 9,
           "title": "[想法] 其实如何制裁小国，美国已经有了非常丰富…"
-        },
-        {
-          "id": "https://zhuanlan.zhihu.com/p/442111383",
-          "author": "宁南山",
-          "description": "这段时间看到的一个新闻，这个新闻是我非常注意的一个。\n那就是国内动力电池龙头大厂在四川宜宾市三江新区的动力电池制造基地，在12月3日开放招聘蓝领工人，结果现场竟然来了超过3000名求职者，而且还有从云南，甘肃等地专程来应聘的，还有人坐了四五个小时的车来应聘，而由于对现场的火爆估计不足，导致现场招聘人力不够，因此采用排号的方式，让超过2000名求职者回家等候具体的面试时间。下图来自其公众号，\n\n下图来自三江新区的视频号，可见当时现场的火爆场面。\n\n我不知道这3000多求职者有多少最后能够入职，但是从官方招聘的信息来看，是会不断的开放对蓝领工人的招聘的。\n而从招聘工人的薪资来看，\n下图是其官方发布的薪酬结构，入职就给予自荐奖金1000元，\n同时招聘的最低级别JG1的底薪 2500元，加上工作津贴200元，地区津贴400元，全勤奖150元，另外工龄奖满一年有200元，如果工作满4年则有500元。\n这样算下来一个工作满1年的员工，不加班的话收入在3450元，\n而工厂还有加班费的，平时加班21.55元/小时，周末28.73元/小时，法定假日43.10/小时，\n这个取决于加班时间长短，现在动力电池产能火爆，应该1000元甚至更多的加班费是有的，就按照1000元加班费算吧，则一个JG1的产线员工一个月有4450元的收入。\n\n以上是按照最低级别JG 1 工作满一年的收入来算的，\n如果干满4年，则工龄奖会从200元上涨到500元，则每月工资会多出300元；\n另外作业员的级别从JG1的级别升到JG 3，则每个月底薪会高出400元（加班费也会随之提高），同时每个月还会多出至少350元的绩效工资。\nJG 3依然是产线的直接生产员工，一个工作满四年的JG3员工，包括加班费月收入差不多5500元以上。\n这里面值得一提的是有个对本地人有利的条款，那就是公司住宿免费，但如果夫妻两人都在公司上班，同时选择不…",
-          "link": "https://zhuanlan.zhihu.com/p/442111383",
-          "publishedOn": "2021-12-07T01:44:26.000Z",
-          "wordCount": 67,
-          "title": "[文章] 由2021年12月一家中国内陆工厂的薪资简单说两句"
-        },
-        {
-          "id": "https://www.zhihu.com/pin/1451484815921360897",
-          "author": "宁南山",
-          "description": "从OECD（经合组织）的官网截的图，发达国家中生育率水平是最高的是以色列，2019年的生育率高达3.01，可以说遥遥领先。\n发达国家生育率水平第二位是法国，2020年为1.80，图上面生育率在法国和以色列之间的两条线是墨西哥和土耳其，他们不是发达国家，美国也挺高，2019年为1.71，比法国低一些。\n日本2019年的生育率为1.36，在发达国家中排名靠后，但是也还没有到特别糟糕的地步。\n而生育率最低的是韩国，是全球发达国家中唯一一个低于1.0的，2019年生育率只有0.92，典型的地狱模式",
-          "link": "https://www.zhihu.com/pin/1451484815921360897",
-          "publishedOn": "2021-12-07T01:35:47.000Z",
-          "wordCount": 10,
-          "title": "[想法] 从OECD（经合组织）的官网截的图，发达国…"
         }
       ]
     },
@@ -3983,17 +3929,7 @@
       "title": "思考问题的熊",
       "feedUrl": "https://kaopubear.top/blog/atom.xml",
       "siteUrl": "https://kaopubear.top/blog",
-      "articles": [
-        {
-          "id": "https://kaopubear.top/blog/2021-12-06-how-to-tell-a-story-in-presentation/",
-          "author": null,
-          "description": "<blockquote>\n<p>科学是叙事过程，而叙事就是讲故事，所以科学需要讲故事。</p>\n</blockquote>",
-          "link": "https://kaopubear.top/blog/2021-12-06-how-to-tell-a-story-in-presentation/",
-          "publishedOn": "2021-12-06T14:48:33.000Z",
-          "wordCount": 157,
-          "title": "你也可以在学术报告中讲好一个引人入胜的故事"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "reuixiy",
