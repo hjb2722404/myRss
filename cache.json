@@ -12,6 +12,24 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=41076",
+          "author": "青小蛙",
+          "description": "Refgen 是一款 Chrome 浏览器扩展，它主要为当前标签页或选中的文本，生成标记语言格式的引用链接，支持 Markdown、AsciiDoc、RST、MediaWiki 等格式。@Appinn",
+          "link": "https://www.appinn.com/refgen/",
+          "publishedOn": "2022-01-07T10:08:40.000Z",
+          "wordCount": 669,
+          "title": "Refgen – 为个人知识整理和笔记生成来源引用链接[Chrome]"
+        },
+        {
+          "id": "https://www.appinn.com/?p=41067",
+          "author": "青小蛙",
+          "description": "Blush 是一款可以免费使用的在线插画工具，拥有 Figma、Sketch 插件，只需要先选取风格库中的主题，然后定制定制插画，包括背景、物品、人物形象等内容，就能生成 PNG 或 SVG 格式的图",
+          "link": "https://www.appinn.com/blush-online/",
+          "publishedOn": "2022-01-07T05:21:51.000Z",
+          "wordCount": 695,
+          "title": "Blush – 在线卡通头像生成器，免费、可商用，无需注明出处"
+        },
+        {
           "id": "https://www.appinn.com/?p=41060",
           "author": "青小蛙",
           "description": "Portfolio Returns 是一款使用简单的开源财务应用软件，按月记录投资组合下各账户的资产余额以及现金流变化，自动计算各种回报率。@Appinn 来自发现频道，@ashchan 同学的自荐。",
@@ -429,24 +447,6 @@
           "publishedOn": "2021-12-10T02:33:48.000Z",
           "wordCount": 759,
           "title": "MaoTimer – 一个简单的计时器、倒计时软件，配 APPINN 专属主题[Windows]"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40757",
-          "author": "青小蛙",
-          "description": "前几天，青小蛙的好朋友沈老板，因为刷抖音把心爱的 OLED 手机屏幕烧屏了，于是搞出来一个抖音防烧屏脚本，算是亡羊补牢，而又有一位同学 @钮轱辘龍血爪 给青小蛙推荐了一个抖音采集工具，可以直接在电脑里",
-          "link": "https://www.appinn.com/douyin-caiji-windows/",
-          "publishedOn": "2021-12-09T09:36:38.000Z",
-          "wordCount": 664,
-          "title": "抖音采集工具 – 在电脑里刷抖音[Windows]"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40753",
-          "author": "青小蛙",
-          "description": "计次郎是一款专门用来记录次数（支持倒数）的 Android、iPhone 应用，可以用来记录生活中的各种次数，如「美容卡」、「健身卡」、「理发卡」、「课卡」等，简单易用，界面美观。@Appinn 来自",
-          "link": "https://www.appinn.com/jicilang-app/",
-          "publishedOn": "2021-12-09T07:27:39.000Z",
-          "wordCount": 650,
-          "title": "计次郎 – 记录次数：游泳课、份子钱、理发、摸鱼、旅行…[Android/iPhone]"
         }
       ]
     },
@@ -455,6 +455,33 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=360711",
+          "author": "Chris Coyier",
+          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Typography is one of those things! Here’s a list of typography links to other articles that I’ve been saving up and …\n8 Interesting Typography Links for January 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/typography-links-january-2022/",
+          "publishedOn": "2022-01-07T22:31:52.000Z",
+          "wordCount": 847,
+          "title": "8 Interesting Typography Links for January 2022"
+        },
+        {
+          "id": "https://css-tricks.com/?p=360113",
+          "author": "Geoff Graham",
+          "description": "I was killing some time browsing my CodePen feed for some eye candy and didn’t need to go past the first page before spotting a neat CSS hover effect by Adam Argyle.\nI must’ve spent 10 minutes just staring …\nAdam Argyle’s Sick Mouse-Out CSS Hover Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/adam-argyles-sick-mouse-out-css-hover-effect/",
+          "publishedOn": "2022-01-07T20:15:19.000Z",
+          "wordCount": 1120,
+          "title": "Adam Argyle’s Sick Mouse-Out CSS Hover Effect"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359823",
+          "author": "Rafał Pastuszak",
+          "description": "I took a break from work and started some small, personal projects (toys). One of those small projects is potato.horse where I keep all of my doodles, visual short stories and jokes. Check it out!\nHowever, this post is not …\nuseRainbow() originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/userainbow/",
+          "publishedOn": "2022-01-07T14:59:04.000Z",
+          "wordCount": 1819,
+          "title": "useRainbow()"
+        },
         {
           "id": "https://css-tricks.com/?p=360320",
           "author": "Chris Coyier",
@@ -985,42 +1012,6 @@
           "publishedOn": "2021-12-09T15:58:10.000Z",
           "wordCount": 458,
           "title": "Cut through the noise with immediate visual feedback"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358554",
-          "author": "Chris Coyier",
-          "description": "The SVG <path> syntax is a beast. There are all sorts of commands that make up a mini-language all of its own — so powerful that it’s capable of drawing anything. Don’t be too scared of it, though, because some …",
-          "link": "https://css-tricks.com/flip-invert-and-reverse/",
-          "publishedOn": "2021-12-09T00:27:11.000Z",
-          "wordCount": 688,
-          "title": "Flip, Invert, and Reverse"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358344",
-          "author": "Chris Coyier",
-          "description": "I try to keep up with WordPress news because I’m a big WordPress user and have many production sites that run on it. WordPress has been good to me as a site builder for literally my entire career. So, like …",
-          "link": "https://css-tricks.com/links-on-wordpress-i/",
-          "publishedOn": "2021-12-08T21:32:33.000Z",
-          "wordCount": 1158,
-          "title": "Links on WordPress I"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357405",
-          "author": "Kent C. Dodds",
-          "description": "I’ve built websites that are used by millions of people all over the world. I’ve made more mistakes than I care to count and I’ve had to deal with the repercussions of those mistakes for years thereafter. Through all of …",
-          "link": "https://css-tricks.com/learn-from-remix/",
-          "publishedOn": "2021-12-08T16:05:20.000Z",
-          "wordCount": 1295,
-          "title": "Learn From Remix"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358496",
-          "author": "Chris Coyier",
-          "description": "An interesting (scary) trick of an nearly undetectable exploit. Wolfgang Ettlinger:\nWhat if a backdoor literally cannot be seen and thus evades detection even from thorough code reviews?\n\n\n\n\nI’ll post the screenshot of the exploit from the post with the …",
-          "link": "https://css-tricks.com/the-invisible-javascript-backdoor/",
-          "publishedOn": "2021-12-08T16:00:01.000Z",
-          "wordCount": 457,
-          "title": "The Invisible JavaScript Backdoor"
         }
       ]
     },
@@ -1107,15 +1098,6 @@
           "publishedOn": "2021-12-13T14:40:05.000Z",
           "wordCount": 954,
           "title": "你不知道的CSS media查询与用户体验"
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10220",
-          "author": "张 鑫旭",
-          "description": "解释下为何 flex 布局中， flex-end 对齐不会触发 overflow 滚动效果，以及介绍解决方法，希望可以帮到遇到类似场景的人。",
-          "link": "https://www.zhangxinxu.com/wordpress/2021/12/flex-end-overflow/",
-          "publishedOn": "2021-12-08T14:06:15.000Z",
-          "wordCount": 688,
-          "title": "flex-end为什么overflow无法滚动及解决方法"
         }
       ]
     },
@@ -1124,6 +1106,114 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=70287",
+          "author": null,
+          "description": "十多年来 OLED （有机发光二极管）树立了屏幕质量的标杆，尽管价格不菲。原因是它们能产生深黑色，提供宽视角和广泛的色彩范围。与此同时 QD（量子点）技术在提高更经济实惠的液晶电视的色纯度和亮度方面颇见成效。2022 年两种竞争技术合二为一。合并后的混合技术的名称在不断变化，取名 QD-OLED 比较合理，三星则开始将其版本称作 QD Display。要想了解这种技术组合为何如此吸引人，你就必须了解每种动态图像显示方式背后的基本原理。\n\n\n在液晶电视中，LED 背光——或者至少是大部分的背光是同时开启的。在多个独立像素中对这些光进行过滤产生图像。不幸的是，过滤的过程并不完美，在应该呈现黑色的区域中，有些光会通过。在 OLED 显示器中，构成每个像素的红色、绿色和蓝色二极管会发光，仅在需要时才开启。因此黑色像素看起来是真正的黑色，而明亮的像素可以全功率运行，从而实现无与伦比的对比度。但是它也有一个缺点。OLED 电视中的彩色二极管会随着时间的推移而退化，从而造成所谓的“老化”。由于红色、绿色和蓝色二极管的老化速度不同，退化会影响显示器在老化时准确再现色彩的整体能力，会在经常显示静态内容的地方出现图像的虚影。\n\n\n加入 QD 会改变这种复杂的状况。量子点——半导体材料的纳米粒子——吸收光子，然后用获得的能量发射不同波长的光。在 QD-OLED 显示器中，所有的二极管都发射蓝光。要获得红色和绿色，就用红色或绿色的 QD 覆盖相应的二极管。结果就打造出了一个薄如纸的显示器，具有广泛的色彩范围，能随着时间的推移保持色彩准确。与 OLED 和 LCD 显示器相比，这些屏幕还有更出色的黑色呈现、宽广的视角和更高的能效。\n\n\n三星是该技术背后的推动力，该公司斥资数十亿改造韩国忠清道省的 LCD 工厂制造 QD-OLED 显示器。虽然也有其他一些公司发表论文并展示类似的方法，但只有三星致力于制造此类显示器，因为它内部拥有了所有必需的技术。同时掌握 OLED 工厂和 QD 专业知识让三星在同其他 QD 显示器制造商的竞争中占据上风。\n\n\n三星于 2019 年首次宣布了 QD-OLED 计划，但几次推迟发布日期。一旦该公司为大规模生产做好准备，我们很可能会在 2022 年初看到公开演示，在今年晚些时候看到商业产品。目前三星每月最多能生产 3 万块 QD-OLED 面板，这些面板将被用于该公司自己的产品中。在其宏伟的计划中，这个量还不算多。在 CES 展会上，有三家企业宣布使用三星面板的 QD-OLED 产品：三星的 65 英寸 QD Display 电视，索尼的 Bravia XR A95K  电视，Alienware 的 34 英寸游戏显示屏。",
+          "link": "https://www.solidot.org/story?sid=70287",
+          "publishedOn": "2022-01-07T10:01:56.000Z",
+          "wordCount": 141,
+          "title": "量子点 + OLED = 你的下一台电视"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70286",
+          "author": null,
+          "description": "世界最大煤炭港口宣布将完全实现可再生能源供电。纽卡斯尔港宣布这一消息之际，澳大利亚全国电力市场中的煤炭发电量在 2021 年最后三个月跌至最低水平。尽管该港口继续每年平均出口 1.65 亿吨煤炭，但此举是该港口整体计划的一部分：到 2040 年实现业务脱碳，增加非煤炭业务，到 2030 年将煤炭收入降至总收入的一半。该港口已经与在内陆新南威尔士达博（Dubbo）附近运营 Bodangora 风电场的 Iberdrola 签署了零售电力采购协议，为该港口提供风电。首席执行官 Craig Carmody 表示，纽卡斯尔港作为世界最大煤炭港口的称号“不像过去那样美妙”，这种改变对于避免重蹈纽卡斯尔和钢铁行业的覆辙是必要的。Carmody 表示：“我宁愿现在做这件事，趁着我们现在还能控制自己的命运也还有收入，而不是等到危机来临——收入暴跌没人愿意借钱给我们时再动手。”“每吨通过港口运输的煤炭能让我们赚到 84 美分。其他的产品每一件能让我们赚到 6 到 8 美元。你能看出来我更愿意把钱花在哪里了。”作为转型的一部分，该港口已将 97% 的车辆更换为电动车辆，并开展了其他基础设施项目让运营脱碳。",
+          "link": "https://www.solidot.org/story?sid=70286",
+          "publishedOn": "2022-01-07T09:51:34.000Z",
+          "wordCount": 99,
+          "title": "世界最大煤炭港口将 100% 由可再生能源供电"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70285",
+          "author": null,
+          "description": "新研究表明，我们可能很快能检验霍金（Stephen Hawking）最具争议的一个理论。在 1970 年代，霍金提出暗物质，即构成宇宙中大部分物质的不可见物质，可能是由宇宙大爆炸最早时刻形成的黑洞构成的。现在三位天文学家提出了一种理论，不仅可以解释暗物质的存在，还可以解释宇宙中最大黑洞的出现。研究合作者、耶鲁大学的天体物理学家 Priyamvada Natarajan 在一份声明中表示：“我个人觉得该想法最令人兴奋地方在于它优雅地统一了我正在研究的两个真正具有挑战性的问题——探索暗物质的本质以及黑洞的形成和生长——且一箭双雕地同时解决了这两个问题。”更重要的是，一些新仪器——包括刚刚发射的詹姆斯韦伯太空望远镜——可以产生最终评估霍金著名理论需要的数据。\n\n\n在最新研究中，Natarajan、迈阿密大学的 Nico Cappelluti 和欧洲航天局的 Gunther Hasinger 深入研究了原始黑洞的理论，探索它们如何解释暗物质以及是否可能解决其他宇宙学难题。要通过当前的观测测试，原始黑洞必须在一定的质量范围内。在这项新工作中，研究人员假设原始黑洞的质量约为太阳质量的 1.4 倍。他们构建了一个宇宙模型，用这些相当轻的黑洞取代了所有暗物质，然后寻找可验证（或排除）模型的观测线索。\n\n\n研究小组发现，原始黑洞可能在宇宙中发挥了重要的作用——它播撒了第一批恒星、第一批星系和第一批超大质量黑洞（SMBH）。观测表明，恒星、星系和 SMBH 在宇宙学历史中出现得非常快，也许速度太快，因而无法用我们在当今宇宙中观察到的行程和生长过程来解释。Natarajan 表示：“原始黑洞，如果它们确实存在的话，很可能是所有超大质量黑洞形成的种子，包括银河系中心的超大质量黑洞。”这个理论很简单，不需要大量新粒子解释暗物质。Cappelluti 在声明中表示：“研究表明，在不引入新粒子或新物理学的情况下，我们可以解开现代宇宙学的奥秘，从暗物质本身的性质到超大质量黑洞的起源。”",
+          "link": "https://www.solidot.org/story?sid=70285",
+          "publishedOn": "2022-01-07T09:44:50.000Z",
+          "wordCount": 91,
+          "title": "测试斯蒂芬霍金的暗物质黑洞理论"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70284",
+          "author": null,
+          "description": "长期以来，天文学家一直认为类太阳恒星的种子需要数百万年的时间才能聚集起来。主要由氢气组成的云在重力作用下凝聚成前恒星阶段的核心，密度足以引发坍塌并引起核聚变，而磁力会将物质固定在适当的位置并减缓这一过程。但使用世界最大射电望远镜进行的观测引发了对这个漫长孕育期的怀疑。研究人员放大了一个巨大气体云中的前恒星阶段核心——一个有数百颗小恒星的“托儿所”，发现由于弱磁场，微小胚胎的形成速度可能比之前认为的快十倍。未参与研究的马普外星物理研究所的 Paola Caselli 表示：“如果证明其他气体云也是如此，对于恒星形成领域将是革命性的。”\n\n\n研究恒星诞生以及引力和磁力之间的拉锯战一直是一个挑战，因为其磁场强度可能只是地磁场的十万分之一。唯一能直接检测到它们的方法靠的是被称为塞曼效应（Zeeman effect）的现象，在此现象中，磁场让所谓的谱线分裂，分裂的方式取决于磁场的强度。这些谱线是或明或暗的图案，其中的原子或分子发射或吸收特定波长的光。对于气体云，塞曼分裂发生在射电波长，因此需要使用射电望远镜观察。碗状天线必须要大，才能放大一小块空间，展现细微效果。此前研究人员曾使用波多黎各的 Arecibo 射电望远镜（该望远镜于 2020 年坍塌）研究 Lynds 1544——金牛座分子云中相对独立的恒星胚胎，距离地球仅 450 光年。他们测量了远离核心的纤薄气体层中的磁场，那里的磁力超过了引力。伊利诺伊大学厄巴纳-香槟分校的射电天文学家 Richard Crutcher 说，他们还分析了核心内部更强的场，不过在那里引力占主导地位，因为核心的密度是外层的 1 万倍。以往缺少的是对核心和外层之间的中间区域的检查。现在随着塞曼效应的新示踪剂——一种特殊的氢吸收线——被五百米口径球面射电望远镜（FAST）探测到，中间区域成为关注焦点。FAST 是一个建在中国西南部一个天然盆地内的巨大碟形望远镜。\n\n\n在发表在《自然》杂志上的一项研究中，研究人员报告了一个强度为 4 微高斯的磁场——强度并不高于外层。领导这项研究的 FAST 首席科学家李菂表示：“如果标准理论有效，磁场强度应该高得多才能抵抗云密度增加 100 倍。但情况并非如此。”Caselli 表示：“这篇论文基本上认为引力在云中获得了胜利：恒星在那里而不是在密集的核心开始形成。”“这是一个非常重大的声明。”主要作者、中国科学院国家天文台的庆道冲表示，这一发现意味着气体云演化成恒星胚胎的速度比以前认为的要快十倍。李菂表示他希望研究其他的分子云，看看 Lynds 1544 的情况是否非常普遍。",
+          "link": "https://www.solidot.org/story?sid=70284",
+          "publishedOn": "2022-01-07T09:35:36.000Z",
+          "wordCount": 101,
+          "title": "恒星形成速度可能比以前认为的快十倍"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70283",
+          "author": null,
+          "description": "Signal 的加密货币功能开始允许其全世界用户测试 Beta 版本。加密通信应用 Signal 是在去年春天宣布将为英国用户添加测试版的支付功能，整合了名为 MobileCoin 的加密货币，这是一种相对较新也较为注重隐私的加密货币。自 11 月中旬以来，加密货币实验进入了一个更广泛的阶段。Signal 将它提供给了所有的用户，为数百万台手机提供了比信用卡交易或者比特币转账更私密的数字支付能力。MobileCoin 创始人 Josh Goldbard 确认了推出时间，表示此举刺激了这种加密货币的大规模采用，现在每天有数千笔交易，而在全球测试版推出之前，每天的交易只有几十笔。Goldbard 表示：“地球上现在有超过 1 亿台设备能打开 MobileCoin，并在五秒钟之内完成端到端的加密支付。”设备数量指的是 Signal 报告的总下载量。\n\n事实上，开始使用 Signal 的支付功能并不那么简单。朝鲜和叙利亚等地受制裁的公司之外的任何人都可以点击消息中的“+”图标然后点击“付款”进入他们的 MobileCoin 钱包。但对很多人来说，困难在于要首先给钱包充值；这种加密货币仅在 BitFinex 和 FTX 等少数几个较小的加密货币交易所交易，还没有一家交易所可以向美国消费者提供这种加密货币。《连续》请求 Signal 对在全球范围内推出该支付功能发表评论，Signal 未予回应。去年 4 月 Signal 创始人 Moxie Marlinspike 解释说，他希望为加密的视频通话和消息应用程序添加支付功能，以对标 WhatsApp 和 Facebook Messenger 等竞争对手的功能——同时还将 Signal 广受赞誉的隐私保护引入货币交易。Marlinspike 当时表示：“我想打造这样一个世界，你不仅在通过 Signa l同治疗专家交谈时会感受到（隐私感），在通过 Signal 支付治疗费用时，你也能感受到（隐私感）。”",
+          "link": "https://www.solidot.org/story?sid=70283",
+          "publishedOn": "2022-01-07T09:16:43.000Z",
+          "wordCount": 128,
+          "title": "Signal 加密货币功能启动 Beta 测试"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70282",
+          "author": null,
+          "description": "1970 年图灵奖（计算机界的诺贝尔奖）得主 Marvin Minsky 预测，“三到八年内我们将拥有具备相当于普通人类水平的通用智能机器。”52 年过去了，我们仍在等待着这种机器的出现。根本障碍在于，尽管计算机算法确实非常善于识别统计模式，但它们不知道这些模式意味着什么，因为它们局限于数学世界（MathWorld）中，从未体验过现实世界。Google 在西雅图的 AI 团队负责人 Blaise Aguera y Arcas 最近表示，大型语言模型（LLM）可能是由统计学驱动的，“统计等同于理解。”他提到了几个与 Google 最先进的聊天机器人 LaMDA 的对话片段作为证据。这些对话令人印象深刻，非常像人类的口吻，但是它们不过是 Gary Marcus 和 Ernest Davis 所说的 LLM 有能力成为“流利的废话喷井”，或者是 Timnit Gebru 和三位合著者所说的“随机鹦鹉”的例子。",
+          "link": "https://www.solidot.org/story?sid=70282",
+          "publishedOn": "2022-01-07T08:54:41.000Z",
+          "wordCount": 99,
+          "title": "聊天机器人仍然很蠢"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70281",
+          "author": null,
+          "description": "欧洲航天局将派遣 JUICE（代表 JUpiter ICy moons Explorer）执行任务，探索木星及其 79 颗卫星中的三颗：木卫二、木卫四和木卫三（或 Europa Ganymede 和 Callisto）。JUICE 计划于 2023 年 4 月发射，将搭乘从阿丽亚娜5号火箭升空，开始为期 7.6 年的旅程，飞向这颗气态巨行星。航天器将多次依靠金星和地球的引力和推力帮助其调整速度和轨道，辅助实现分离，航天器将携带一些有史以来最强大的遥感和地球物理仪器飞往外太阳系。上个月，欧洲航天局在荷兰的测试中心使用一个 1:18 比例的 JUICE 模型测试了其中一种仪器——RIME（冰月探测雷达）。RIME 将使用穿冰雷达和 52 英尺长的天线绘制卫星的地下结构图，最深约 5.6 英里。为进行测试，模型放置在一个内衬金属壁的腔室中，金属壁可以阻挡传入的无线电信号，黑色的尖刺泡沫涂层可以吸收内部无线电信号或传出的传输信号。这种分隔方法帮助 JUICE 团队模拟浩瀚空旷的宇宙和飞行器在执行任务期间可能遇到的挑战。",
+          "link": "https://www.solidot.org/story?sid=70281",
+          "publishedOn": "2022-01-07T07:57:46.000Z",
+          "wordCount": 102,
+          "title": "JUICE 将探索木星卫星上的生命迹象"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70280",
+          "author": null,
+          "description": "部分笔记本电脑的键盘提供了小数字键盘，而联想在 CES 上展示了一款独特设计的双屏 ThinkBook 笔电，它与传统笔电的区别就是用第二个屏幕替代了小键盘。小屏幕位于右侧，这一设计对左撇子显然不够友好。ThinkBook Plus Gen 3 是作为工作电脑设计的，主屏幕 17.3 英寸，长宽比 21:10，分辨率 3072 x 1440@120Hz，100% P3 色域。第二个屏幕为 8 英寸触摸屏，分辨率 800 x 1280。其它硬件配置为 12 代英特尔酷睿 H 系列处理器，最高 32GB LPDDR5 内存，最高 1TB PCIe NVMe Gen 4 固态硬盘。它将于 5 月上市，起售价 1399 美元。",
+          "link": "https://www.solidot.org/story?sid=70280",
+          "publishedOn": "2022-01-07T07:21:27.000Z",
+          "wordCount": 120,
+          "title": "联想 ThinkBook Plus Gen 3 笔电用第二个屏幕替代小键盘"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70279",
+          "author": null,
+          "description": "一名逃亡 20 年的意大利黑手党头目通过 Google 街景图像确认后在西班牙小镇被捕。Gioacchino Gammino 是一名已定罪的谋杀犯，被列入意大利通缉犯名单。他在西班牙马德里附近的 Galapagar 镇被捕，他在当地生活了多年，结婚做厨师，开了一家水果蔬菜店。意大利西西里警方对其调查了许多年，2014 年发出了通缉令，他被追踪到逃到了西班牙，在通过 Google 街景图调查相关企业时，调查人员看到了两名男子在 El Huerto de Manu 水果蔬菜店外聊天的画面，Google 模糊了头像，但调查人员注意到其中一人与通缉犯很相似。在查看附近的一家名为 La Cocina de Manu 的餐厅时，警方确认了 Gammino 的身份。这家餐厅在 Facebook 页面展示了厨师 Gammino 的照片。他于 12 月 17 日被捕，但直到本周三被捕细节才被披露。据报道，在被捕时 Gammino 对警方说，你们是怎么找到我的？我已经十年没给家人打电话了。",
+          "link": "https://www.solidot.org/story?sid=70279",
+          "publishedOn": "2022-01-07T07:06:22.000Z",
+          "wordCount": 109,
+          "title": "通过 Google 街景图像确认后意大利黑手党逃犯在西班牙被捕"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70278",
+          "author": null,
+          "description": "Mozilla 基金会在 1 月 1 日通过 Twitter 提醒用户它接受加密货币如比特币以太坊捐款，但这一声明招致了广泛批评，Netscape 早期雇员、Mozilla 名字的提出者 Jamie \"jwz\" Zawinski 对其进行了猛烈抨击，认为每一个参与的人都应该感到羞愧，因为他们在与庞氏骗局的骗子合作。现在 Mozilla 基金会宣布它暂停接受加密货币捐款。Mozilla 承认，它需要更深入的评估加密货币的环境影响，评估接受加密货币捐款是否符合其环境目标。加密货币如比特币的挖矿需要消耗大量电力。",
+          "link": "https://www.solidot.org/story?sid=70278",
+          "publishedOn": "2022-01-07T06:16:42.000Z",
+          "wordCount": 90,
+          "title": "Mozilla 基金会暂停接受加密货币捐款"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70277",
+          "author": null,
+          "description": "哈萨克斯坦爆发了抗议燃料价格上涨的全国性示威抗议活动，当局采取了断网措施限制通信。由于断网发生在物理层面，无法通过 VPN 等方法绕过。在抗议活动蔓延之后，哈萨克斯坦政府请求俄罗斯派遣伞兵帮忙镇压起义。哈萨克斯坦的断网除了影响居民通信，也严重打击了全球的比特币挖矿作业。去年初最大的比特币挖矿中心中国禁止了加密货币挖矿，中国境内的加密货币矿场迁移到了北美、哈萨克斯坦和俄罗斯等地。根据剑桥 Cambridge Centre for Alternative Finance 中心的统计，哈萨克斯坦成为仅次于美国的第二大比特币挖矿中心。断网导致当地矿场无法与全球互联网通信，全球挖矿哈希算力下跌了 14%，比特币的价格并没有因此上涨反而下挫至 4.3 万美元以下。",
+          "link": "https://www.solidot.org/story?sid=70277",
+          "publishedOn": "2022-01-07T03:30:53.000Z",
+          "wordCount": 85,
+          "title": "哈萨克斯坦断网打击比特币挖矿"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70276",
+          "author": null,
+          "description": "由于 Omicron 新冠变种的快速扩散，游戏展会 Electronic Entertainment Expo（E3） 的主办方 Entertainment Software Association(ESA) 决定举办纯线上展会。ESA 表示考虑到新冠对参展商和与会者的健康风险，E3 不会在线下举行。这将是 E3 展会连续第二年在线上举办。新冠疫情严重破坏了 2020 年 E3 展会，而 2021 年的展会则搬到了线上。",
+          "link": "https://www.solidot.org/story?sid=70276",
+          "publishedOn": "2022-01-07T03:04:16.000Z",
+          "wordCount": 93,
+          "title": "E3 再次决定举办纯线上展会"
+        },
         {
           "id": "https://www.solidot.org/story?sid=70275",
           "author": null,
@@ -3616,132 +3706,6 @@
           "publishedOn": "2021-12-09T13:36:30.000Z",
           "wordCount": 88,
           "title": "微软测试新版的 Windows 11 记事本"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69945",
-          "author": null,
-          "description": "阿联酋将从明年开始切换到四天半工作制，但没有强制推行，私营企业可自由选择其工作周时间。从 2022 年 1 月 1 日起，周末将从周五下午开始。人力资源部部长 Abdulrahman al-Awar 表示，每个公司可根据其经营的部门，选择适合其员工的周末起始时间。这个中东产油国是该地区的商业、贸易和旅游中心，面临来自沙特的日益激烈的竞争，它正采取措施确保其对外国投资和人才更具有吸引力。",
-          "link": "https://www.solidot.org/story?sid=69945",
-          "publishedOn": "2021-12-09T12:37:51.000Z",
-          "wordCount": 80,
-          "title": "阿联酋切换到四天半工作制"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69943",
-          "author": null,
-          "description": "尿素这种不起眼的化学物质的价格正飙升至十多年来未曾见过的水平。在这个短缺普遍存在、通胀令人担忧的时代，光是这一点听起来可能还不会让人太惊讶。但是尿素将全球几股看起来不相干的经济动荡连接了起来，这表明极端天气和航运危机是多么容易导致供应短缺扩散。各行各业的人们都感受到了冲击。在印度，尿素的缺乏让农民担心自己的生计。在韩国，这意味着卡车司机无法启动引擎，因为尿素可以减少卡车的温室气体排放，韩国不允许柴油发动机在没有尿素的情况下启动。尿素是一种重要的农业肥料，价格上涨最终可能意味着世界各地餐桌上的成本增加。尿素价格飙升的一个重要原因是煤炭和天然气价格高企。工业尿素将天然气或从煤炭中提取的气体变成氨，然后再用来合成尿素。中国和俄罗斯是世界上最大的两个尿素生产国，为了确保本国农民的供应，它们对出口采取了限制措施。在中国，能源短缺导致一些地区停电限电，这迫使化肥厂削减产量。",
-          "link": "https://www.solidot.org/story?sid=69943",
-          "publishedOn": "2021-12-09T11:05:28.000Z",
-          "wordCount": 71,
-          "title": "全球尿素出现短缺"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69942",
-          "author": null,
-          "description": "意大利反垄断监管机构周四对亚马逊罚款 11.3 亿欧元(12.8 亿美元)，因该公司涉嫌滥用市场支配地位。这是欧洲对一家美国科技巨头的最大处罚之一。亚马逊表示，“强烈不同意”意大利监管机构的决定，并将提出上诉。在发生了一连串有关隐私和错误信息的丑闻，以及一些企业抱怨他们滥用市场支配能力后，全球监管部门对科技巨头加强了监管审查。意大利监督机构在声明中说，亚马逊利用其在意大利中介服务市场的主导地位，支持在Amazon.it上的活跃卖家采用其自己的物流服务--亚马逊物流(FBA)。亚马逊表示，FBA“是一项完全可选的服务”，亚马逊上的大多数第三方卖家并没有使用它。",
-          "link": "https://www.solidot.org/story?sid=69942",
-          "publishedOn": "2021-12-09T10:52:18.000Z",
-          "wordCount": 78,
-          "title": "意大利以滥用市场支配地位对亚马逊罚款 13 亿美元"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69937",
-          "author": null,
-          "description": "接受白内障手术以改善视力的老年人患痴呆症的可能性较小。造成这种现象的原因可能是失明的人会更多时间呆在家里，因而受到的精神刺激较少——或者可能是因为白内障对到达眼睛后部视网膜的颜色产生了奇怪的影响。白内障是因为眼睛的晶状体随着年龄增长变得混浊造成的，是老年人丧失视力最常见的原因之一。可通过手术用塑料晶体替代被摘除的晶状体治疗。众所周知，视力丧失是阿尔兹海默症和其他痴呆症的风险因素。西雅图华盛顿大学的 Cecilia Lee 想知道白内障手术是否与痴呆症发病率存在明显的相关性。",
-          "link": "https://www.solidot.org/story?sid=69937",
-          "publishedOn": "2021-12-09T09:14:29.000Z",
-          "wordCount": 74,
-          "title": "摘除白内障的老年人患痴呆症的风险较低"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69936",
-          "author": null,
-          "description": "包括生物识别技术在内的技术进步正迅速改变机场，选择加入的乘客可以验证身份并且缩短安检时间。\n\n如果你的旅行史达到一年或者更长，你可能会注意到美国机场的变化：更多的步骤——从行李检查到清关——正在用生物识别技术实现自动化。生物特征是独特的个体特征（例如指纹），可用于自动化和身份验证。它们让机场能更安全高效地运送旅客，从办理登机手续到登机，旅客通常需要出示政府发放的带照片的身份证件。在疫情造成的旅行中断期间，很多机场、航空公司、科技公司和运输安全管理局以及美国海关与边境保护局等政府机构不断在完善生物识别技术方面进行投入。对社交距离和非接触式互动的需求只会增加紧迫性。\n\n贸易组织 International Biometrics + Identity Association 的常务董事 Robert Tappan 表示：“这些技术变得更加复杂，准确率也更高，”他表示新冠疫情推动了利用这些工具疏散人群并减少接触的做法。最新的生物识别发展使用面部识别技术，而不是虹膜扫描或指纹，美国国家标准与技术研究所最近发现面部识别技术的准确率至少为 99.5%。总部位于瑞士的生物识别技术公司SITA的美洲技术主管 Sherry Stein 表示：“虹膜扫描被吹捧为万无一失。要想让生物识别技术发挥作用，你必须能匹配已知的可信数据源，因为你是试图将其与存档记录进行比较。面部是最简单的，因为我们使用的所有身份证明文件——例如驾照、护照等都依赖面部。”9/11之后不久，国会授权出入境系统使用生物识别技术来保护美国边境。一些旅行者表达了对隐私的担忧，尽管使用该技术的公司和机构表示他们不会保留图像，但该系统在很大程度上依赖于旅行者同意使用这些图像。",
-          "link": "https://www.solidot.org/story?sid=69936",
-          "publishedOn": "2021-12-09T08:52:51.000Z",
-          "wordCount": 86,
-          "title": "你的脸将是你的登机牌"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69935",
-          "author": null,
-          "description": "维基百科联合创始人 Jimmy Wales 宣布拍卖一个 NFT 和他用来建立该网站的 iMac，此举在素以死板著称的维基百科社区中引起了轰动。Wales在他的用户讨论页（一种用户可以直接相互交流的留言板）上发布了拍卖的公告，麻烦就此开始。维基百科对自我推销有严格的限制规定，一些编辑认为 Wales 的公告违反了该规定。12 月 3 日，编辑 Floquenbeam 表示：“我疯了吗？Jimbo 在他的用户讨论页面发布了一个帖子，宣传他要拍卖一些东西，他拒绝确认这对他个人没有好处。这是自我推销 101 好吗？我已经告诉他了，如果他不自己删掉这个帖子，我会把它删掉。这是政策好不好？”Wales 反驳说，他和维基媒体基金会通讯和法律部门谈过了，他们认同他\n\n在用户讨论页面上发布关于拍卖的帖子是可以的。\n\n\n\n扯皮持续了大约一天，另一位编辑结束了这场争论，称它“已经超过了有成效论述的分界点。”Wales 讨论页面上关于拍卖的帖子已被删除，但是另一个他回答其他用户关于拍卖和 NFT 的帖子还在。Wikimedia-L 列表服务上的电子邮件帖子的态度更为克制，但仍然有一些维基百科戏码中常见的迂腐论点。一些用户担心他从维基百科拿走了点什么，然后会用这笔钱资助他的商业企业 WT:Social。另一位用户表示：“NFT 的概念似乎违背了维基百科的原则。一方面，我们以访问和反版权授权的方式免费分享我们的工作。另一方面，这个 NFT 拿走了一些免费共享的东西，然后对它加以限制，以便进行出售。”Wales 打算出售的 NFT 是一个允许用户重温维基百科创建时刻的网站。该网站看起来像维基百科刚起步时间的样子，谁赢得了拍卖，谁就可以随意对其进行编辑。\n\n\n\n维基百科编辑中第二个大的争议是 Wales 是否有权拍卖这样的东西，以及他是否正确地重建了该网站的初生时刻。讨论围绕着谁拥有他们在维基百科上编辑内容的权利以及自 2001 年以来服务器的状态和时间戳展开，演变成了一场冗长的对话。值得一提的是，Wales 的 NFT 是对记忆的再现，而不是能以任何方式影响维基百科的实际可编辑代码。最终各方都妥协了。编辑 Smallbones 表示：“这至少带来了一件好事，社区明确表示，所有编辑可以随时删除在维基百科任何页面上的任何被认为是推销或者广告的东西——即使这些内容是出于慈善目的，或者是由最资深和最受尊敬的编辑发布的。”",
-          "link": "https://www.solidot.org/story?sid=69935",
-          "publishedOn": "2021-12-09T08:01:39.000Z",
-          "wordCount": 113,
-          "title": "Jimmy Wales的维基百科NFT让维基百科的编辑暴走"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69934",
-          "author": null,
-          "description": "当发明工作遇阻时，爱迪生（Thomas Edison）会拿着一只钢球在扶手椅上打个小盹。当他睡着且肌肉放松时，钢球就会掉到地板上把他吵醒，这时候他就会对手上的问题有新思路。这也许只是一个故事。100 多年后，科学家在实验室里重复了这个技巧，揭示了这位著名的发明家确实找到了窍门。采用这种方法的人解决数学问题的几率增加了两倍。诀窍是在睡眠和清醒之间的过渡（就在深度睡眠之前）中醒过来。 研究小组还确定了一种与创造力提升阶段相关的大脑活动模式：中等水平的低频脑电波（被称为阿尔法）与放松有关，而低水平的德尔塔波是深度睡眠的标志。专家表示，研究人员在研究创造性解决问题的神经机制时可以专注于这种大脑特征。一个团队计划一项实验，通过实时监测脑电波帮助人们进入创意区。团队的首席科学家表示：“爱迪生的直觉在某种程度上是正确的，现在我们还有更多的东西要探索。”",
-          "link": "https://www.solidot.org/story?sid=69934",
-          "publishedOn": "2021-12-09T07:50:08.000Z",
-          "wordCount": 74,
-          "title": "入睡后立即醒来可提高创造力"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69933",
-          "author": null,
-          "description": "语言生成是 AI 领域的大热门，从改进 Google 搜索引擎到创建基于文本的幻想游戏，被称为“大型语言模型”（或 LLM）系统的应用包罗万象。但是这些程序存在严重问题，包括反刍性别歧视和种族主义语言以及不能通过逻辑推理测试等。一大问题是：简单增加数据和计算能力是否能改善这些弱点，还是已到达技术范式的极限？这是 Alphabet 的 AI 实验室 DeepMind 发表的三篇研究论文探讨的主题之一。该公司的结论是，进一步扩大系统会带来很多改进。DeepMind 研究科学家 Jack Rae 在简报电话会议中告诉记者：“论文的一个关键发现是，大型语言模型的能力仍然在提高，它们在不断进步。这个领域并没有停滞不前。”\n\n\n\n定期将工作成果馈送给 Google 产品的 DeepMind 构建了一个名为 Gopher 的语言模型研究此类 LLM，该模型具有 2800 亿个参数。参数可以快速衡量语言模型的规模和复杂程度，这意味着 Gopher 比 OpenAI 的 GPT-3（1750 亿个参数）更大，但却比不上一些更具实验性的系统，例如微软和 Nvidia 的 Megatron 模型（5300 亿个参数）。在 AI 世界中，越大越好，通常是正确的，更大的模型通常能提供更好的性能。DeepMind 的研究证实了这一趋势，并表明在最常见的基准测试（如情感分析和总结）上，扩大 LLM 的规模确实可提高性能。研究人员也提醒说，要想解决语言模型固有的一些问题，需要的不仅仅是数据和计算。",
-          "link": "https://www.solidot.org/story?sid=69933",
-          "publishedOn": "2021-12-09T07:37:36.000Z",
-          "wordCount": 122,
-          "title": "DeepMind 用有 2800 亿参数的模型测试大型 AI 语言系统的极限"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69932",
-          "author": null,
-          "description": "日本亿万富翁前泽友作搭乘俄罗斯的飞船抵达国际空间站，将进行为期 12 天的太空游。前泽友作没有透露他为这场太空游支付了多高的费用。他是最近一名自费前往空间站的太空游客。与他一起的还有记录旅行的制作助理 Yozo Hirano 以及俄罗斯宇航员 Alexander Misurkin。前泽友作最为人所知的是他是 SpaceX 月球火箭 Big Falcon Rocket (BFR)的首位乘客。他为这次月球之旅购买了 6 到 8 个座位，其中一个座位一度计划留给女伴，他去年发起了征寻女伴的活动，收到了超过 2.7 万份女伴申请，在收到批评之后他取消了活动。这次月球之旅预计将在 2023 年发射，但是否能按计划进行目前还不清楚。",
-          "link": "https://www.solidot.org/story?sid=69932",
-          "publishedOn": "2021-12-09T05:29:01.000Z",
-          "wordCount": 96,
-          "title": "前泽友作抵达国际空间站进行为期 12 天的太空游"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69931",
-          "author": null,
-          "description": "美国联邦上诉法庭在最后一刻批准了苹果暂停实施改变 App Store 规则命令的请求。今年 9 月，美国地方法官 Yvonne Gonzalez Rogers 裁定，苹果必须允许 iOS 开发者向用户提供 App Store 应用内置内购之外的外部购买机制，这一命令将于 12 月 9 日 12 点生效。12 月 8 日，第九巡回法院批准了苹果的暂停命令实施的请求。苹果表示，“我们担心的是，这些变化会造成新的隐私和安全风险，并破坏客户所喜爱的应用商店的用户体验。”",
-          "link": "https://www.solidot.org/story?sid=69931",
-          "publishedOn": "2021-12-09T04:51:39.000Z",
-          "wordCount": 106,
-          "title": "苹果无需在 12 月 9 日允许 iOS 应用提供第三方支付"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69929",
-          "author": null,
-          "description": "亚马逊旗下提供全球网站排名和流量数据等信息服务的 Alexa.com 宣布将在 2022 年 5 月 1 日“退役”。它没有解释这一决定背后的原因。Alexa 成立于 25 年前的 1996 年，名字旨在致敬著名的亚历山大图书馆，1999 年被亚马逊收购。Alexa 团队在声明中表示它做出了艰难的决定，在 2022 年 5 月 1 日关闭网站，Web Information Service API 在 12 月 8 日关闭，即日起停止新订阅，现有订阅服务可继续使用到 5 月 1 日。",
-          "link": "https://www.solidot.org/story?sid=69929",
-          "publishedOn": "2021-12-09T03:21:01.000Z",
-          "wordCount": 118,
-          "title": "Alexa.com 将在 2022 年 5 月 1 日关闭"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69928",
-          "author": null,
-          "description": "Twitter 宣布收购与 Slack 等竞争的商业消息服务 Quill，该服务将会在 12 月 11 日关闭。此举令付费用户十分不满，它只给客户四天时间迁移。Twitter 准备纳入 Quill 的功能，Quill 的开发团队将为 Twitter 开发消息服务功能（比如它的 DM 功能）。 Quill 在一份简单声明中表示，到 12 月 11 日 下午 1 点后服务器将关闭数据将被删除，付费用户将会获得退款。",
-          "link": "https://www.solidot.org/story?sid=69928",
-          "publishedOn": "2021-12-08T14:48:54.000Z",
-          "wordCount": 102,
-          "title": "Twitter 收购 Quill 然后关闭该服务"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69927",
-          "author": null,
-          "description": "NASA 宣布哈勃望远镜上的所有四个科学仪器都恢复正常工作。哈勃是在 10 月底因同步消息丢失问题而进入安全模式，之后尝试恢复但未发现新的同步消息问题。NASA 表示将修改科学仪器的软件，未来再次遭遇同步消息丢失问题之后仍然能继续工作。修改的软件将在 12 月中旬首先安装到 Cosmic Origins Spectrograph，未来几个月更新其它三个仪器。哈勃已经运行了超过 31 年，NASA 本月晚些时候准备发射詹姆斯韦伯望远镜，两个太空望远镜将在未来十年共同工作，扩大人类对宇宙的认知。",
-          "link": "https://www.solidot.org/story?sid=69927",
-          "publishedOn": "2021-12-08T14:38:30.000Z",
-          "wordCount": 83,
-          "title": "哈勃望远镜完全恢复正常工作"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69926",
-          "author": null,
-          "description": "为了更有效的与 SpaceX 竞争，法国财政部长 Bruno Le Maire 宣布将加速研发可重复使用火箭，弥补十年前的战略选择错误。新计划要求火箭公司 ArianeGrou 在 2026 年前研发出可重复使用的小型运载火箭 Maïa，比欧洲航天局 ESA 的计划提前四年，ESA 的计划更雄心勃勃，目标火箭更大。Maïa 不是欧洲的 Falcon 9，它的低地球轨道运载能力为 1 吨，使用一台燃料为甲烷和液氧的火箭引擎 Prometheus，其推力相当于 Falcon 9 使用的 Merlin 1D 引擎，但 Falcon 9 使用了 9 台 Merlin 1D 引擎，在完全可重复使用模式下提升力 15 倍于 Maïa。",
-          "link": "https://www.solidot.org/story?sid=69926",
-          "publishedOn": "2021-12-08T14:23:55.000Z",
-          "wordCount": 112,
-          "title": "担心 SpaceX 法国加速研发可重复使用火箭"
         }
       ]
     },
@@ -3993,7 +3957,17 @@
       "title": "Discover Dev",
       "feedUrl": "https://www.discoverdev.io/rss.xml",
       "siteUrl": "http://discoverdev.io",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://discoverdev.io/archive/2022-01-07.html",
+          "author": null,
+          "description": "Shops on Facebook and Instagram: Understanding relationships between products to improve buyer and seller experience \n \n          \n            \n General and Scalable Parallelization for Neural Networks \n \n          \n            \n Video: Understanding Queuing Theory and Software Performance \n \n          \n            \n Snaring the Bad Folks \n \n          \n            \n Deep Learning vs Machine Learning Challenger Models for Default Risk with Explainability",
+          "link": "http://discoverdev.io/archive/2022-01-07.html",
+          "publishedOn": "2022-01-07T00:00:00.000Z",
+          "wordCount": 89,
+          "title": "DiscoverDev - curated engineering articles for Fri, 07 Jan 2022"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.3"
