@@ -12,6 +12,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=41083",
+          "author": "青小蛙",
+          "description": "iTab 新标签页 是一款 Chrome、Edge 新标签页扩展，一个让你不受广告干扰的个性化卡片式极简起始页插件，可以自定义精美日历、炫酷天气、每日头条、海量壁纸、常用网址等等。@Appinn 来自",
+          "link": "https://www.appinn.com/itab-new-tabs-for-chrome/",
+          "publishedOn": "2022-01-08T11:03:07.000Z",
+          "wordCount": 691,
+          "title": "iTab 新标签页：2022 值得一试的浏览器新标签页扩展[Chrome/Edge]"
+        },
+        {
           "id": "https://www.appinn.com/?p=41076",
           "author": "青小蛙",
           "description": "Refgen 是一款 Chrome 浏览器扩展，它主要为当前标签页或选中的文本，生成标记语言格式的引用链接，支持 Markdown、AsciiDoc、RST、MediaWiki 等格式。@Appinn",
@@ -429,24 +438,6 @@
           "publishedOn": "2021-12-11T10:15:22.000Z",
           "wordCount": 644,
           "title": "中国国家图书馆发布《中华古籍资源库》可免登录浏览，包含 10 万部（件）古籍"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40769",
-          "author": "青小蛙",
-          "description": "Excel正则工具 是一款能够为 Excel、WPS 添加正则表达式支持的 Windows 工具。@Appinn 来自发现频道，@cx123 同学的自荐： Excel、WPS表格一直没有正则功能，恰好",
-          "link": "https://www.appinn.com/excel-regexp-tool/",
-          "publishedOn": "2021-12-10T08:12:59.000Z",
-          "wordCount": 647,
-          "title": "Excel正则工具 – 为 Excel、WPS  添加正则表达式支持[Windows]"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40722",
-          "author": "青小蛙",
-          "description": "MaoTimer 是一款非常简单实用的计时程序，主要通过快捷键控制，可在屏幕上正计时、倒计时，支持毫秒、提醒，并且配有小众软件专属 APPINN 主题，非常赞。@Appinn 来自发现频道，@amao",
-          "link": "https://www.appinn.com/maotimer/",
-          "publishedOn": "2021-12-10T02:33:48.000Z",
-          "wordCount": 759,
-          "title": "MaoTimer – 一个简单的计时器、倒计时软件，配 APPINN 专属主题[Windows]"
         }
       ]
     },
@@ -976,42 +967,6 @@
           "publishedOn": "2021-12-10T16:00:48.000Z",
           "wordCount": 1187,
           "title": "Standardizing Focus Styles With CSS Custom Properties"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358203",
-          "author": "Chris Coyier",
-          "description": "Quick hits! There is a new web API called EyeDropper:\nif ('EyeDropper' in window) {\n  const eyeDropper = new EyeDropper();\n  try {\n    // This has gotta be triggered by a user interaction,\n    // so consider this pseudo-code.\n    const result \n…",
-          "link": "https://css-tricks.com/eye-droppin/",
-          "publishedOn": "2021-12-09T22:22:34.000Z",
-          "wordCount": 589,
-          "title": "Eye Droppin’"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358520",
-          "author": "Chris Coyier",
-          "description": "This is a fantastic article from Julia Evans about duking it out with modern front-end tooling. Julia was made a bunch of Vue projects and typically uses no build process at all:\n I usually have an index.html file, a script.js\n…",
-          "link": "https://css-tricks.com/some-notes-on-using-esbuild/",
-          "publishedOn": "2021-12-09T20:41:25.000Z",
-          "wordCount": 1076,
-          "title": "Some notes on using esbuild"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357621",
-          "author": "Anna Migas",
-          "description": "From my perspective, the question of what one thing we can do to make a website better is not a technical one. The more I browse the internet, the more I realize that the biggest issue with a lot of …",
-          "link": "https://css-tricks.com/help-users-accomplish-what-they-came-for/",
-          "publishedOn": "2021-12-09T16:02:36.000Z",
-          "wordCount": 1195,
-          "title": "Help Users Accomplish What They Came For"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358312",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nMarkUp is the leading visual commenting platform for images, PDFs, and live websites. It’s the perfect companion in your creative process to make your life easier. Manage and organize all web, PDF, and image …",
-          "link": "https://css-tricks.com/cut-through-the-noise-with-immediate-visual-feedback/",
-          "publishedOn": "2021-12-09T15:58:10.000Z",
-          "wordCount": 458,
-          "title": "Cut through the noise with immediate visual feedback"
         }
       ]
     },
@@ -1055,15 +1010,6 @@
           "publishedOn": "2021-12-17T00:32:57.000Z",
           "wordCount": 1155,
           "title": "科技爱好者周刊（第 188 期）：音乐是反社交"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2021/12/weekly-issue-187.html",
-          "publishedOn": "2021-12-10T00:21:40.000Z",
-          "wordCount": 408,
-          "title": "科技爱好者周刊（第 187 期）：元宇宙会成功吗"
         }
       ]
     },
@@ -1106,6 +1052,24 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=70289",
+          "author": null,
+          "description": "新冠 Omicron 变种正以惊人的速度快速传播，它的传播速度是麻疹的 20 倍，而麻疹是已知传播速度最快的病毒之一；是 Delta 变种的 3 倍以上。很可能所有人最终都会感染 Omicron。好消息是它的住院率和致死率都较  Delta 变种低  25-40%，疫苗接种仍然是对抗新冠的最有效方法。但 WHO 表示 Omicron 不应归类为“轻度”。WHO 总干事谭德塞表示，“虽然与 Delta 相比，Omicron 引发的疾病似乎没有那么严重，特别是那些接种了疫苗的人，但这并不意味着应该被归类为轻度。”他警告称，在 Omicron 和 Delta 导致新增感染创纪录之际，新病例会如“海啸般”袭来。",
+          "link": "https://www.solidot.org/story?sid=70289",
+          "publishedOn": "2022-01-07T15:01:50.000Z",
+          "wordCount": 101,
+          "title": "WHO 称 Omicron 不应归类为“轻度”"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70288",
+          "author": null,
+          "description": "英特尔通过主板制造商释出新 BIOS 完全禁用了 12 代酷睿处理器的 AVX-512 指令集。12 代酷睿处理器采用大小核设计，包括性能 P 核心和能效 E 核心，其中只有  P 核心支持 AVX-512 指令集，而要使用 AVX-512 用户必须在 BIOS 中禁用 E 核心。现在英特尔通过微码更新完全禁用了 AVX-512，所有现有的 Z690 主板都将通过新 BIOS 禁用 AVX-512。英特尔此举可能是让 AVX-512 指令集保留给企业级 CPU 使用，消费级 CPU 不再提供。",
+          "link": "https://www.solidot.org/story?sid=70288",
+          "publishedOn": "2022-01-07T14:45:45.000Z",
+          "wordCount": 112,
+          "title": "英特尔释出微码更新完全禁用 12 代酷睿处理器的 AVX-512 指令集"
+        },
         {
           "id": "https://www.solidot.org/story?sid=70287",
           "author": null,
@@ -3562,150 +3526,6 @@
           "publishedOn": "2021-12-10T13:23:22.000Z",
           "wordCount": 122,
           "title": "EFF 就 Manifest V3 警告 Chrome 用户"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69962",
-          "author": null,
-          "description": "一家德国法院裁定，一名男子在从床步行到家庭办公室的几米距离中滑倒，从技术上说是在通勤期间，可申请工作场所事故保险。负责监督社会保障问题的联邦社会法院在裁决中表示，这名男子在家工作，事发时正前往卧室楼下的办公桌。这名未披露姓名的男子在连接房间的螺旋楼梯上摔倒，摔断了背。 法院指出，该员工通常“不吃早饭就立即”开始在家庭办公室工作，但没有解释为什么这与案件相关。法院后来表示，法定意外险只提供给“第一次”上班旅程，暗示如果是已开始在家办公之后去吃早餐的路上出事就可能会被拒赔。员工雇主的保险公司拒绝赔付。虽然两家下级法院不同意这一短途旅行是通勤，但是上级联邦社会法院表示，它认定“早上从床到家庭办公室的第一次旅程是有保险的工作路线。”它裁定：“原告早上在去家庭办公室的路上摔倒是在工作中发生事故。”该德国联邦法院表示：“如果投保活动是在被保险人的家里或其他地点进行的，则提供的保险范围与在公司场所进行的活动范围相同。”目前尚不清楚该男子是因为疫情而在家工作还是以前就这样做。裁决称，该法律适用于“远程办公职位”，即“雇主在员工私人区域永久设置的计算机工作站”。",
-          "link": "https://www.solidot.org/story?sid=69962",
-          "publishedOn": "2021-12-10T12:51:38.000Z",
-          "wordCount": 72,
-          "title": "德国法院裁定从床走到办公桌路上摔倒是工作场所事故"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69961",
-          "author": null,
-          "description": "在 3 月发表的一篇近 400 页的论文中，哥伦比亚大学的数学家 Mohammed Abouzaid 和 Andrew Blumberg 大幅拓展了几何学近几十年以来最大的进步之一。他们所做的工作与 Vladimir Arnold 在 1960 年代提出的一个著名的猜想有关。Arnold 当时研究经典力学，他想知道行星的轨道何时能稳定，在一段时间之后恢复到初始状态。\n\n\nArnold 猜想的第一个重大进展出现在 1980 年代，当时名叫 Andreas Floer 的年轻数学家开发了一种全新的孔洞计算方法。Floer 的理论很快就成了辛几何的核心工具之一。然而即使数学家使用了 Floer 的想法，他们还是认为按照 Floer 开辟的新视角，应该有可能超越理论本身发展出其他的理论。Abouzaid 和 Blumberg 做到了。在 3 月份的论文中，他们根据 Floer 开创的孔洞计算技术重新构建了另一个重要的拓扑理论。他们用这种新的理论来证明 Arnold 猜想的一个版本，呼应了 Floer 的工作。早期的概念验证结果让科学家期待他们终将发现 Abouzaid 和 Blumberg 的想法的更多用途。",
-          "link": "https://www.solidot.org/story?sid=69961",
-          "publishedOn": "2021-12-10T12:47:43.000Z",
-          "wordCount": 121,
-          "title": "数学家超越几何运动理论"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69960",
-          "author": null,
-          "description": "在担任英特尔首席执行官不到一年后，Pat Gelsinger 为该公司制定了跨越 2025 年的工艺技术路线图，引入了 IDM 2.0 代工战略。但据 UDN 报道，台积电创始人及前首席执行官张忠谋表示，这位雄心勃勃的首席执行官恐怕没有足够的时间让英特尔重回辉煌时代。张忠谋在发表题为“珍惜台湾在半导体晶圆制造方面的优势”的演讲时表示，英特尔有一条规定，公司高管必须在 65 岁退休，Pat Gelsinger 已 60岁 了，因而可能没有足够的时间让英特尔重新回到制造技术的领导地位了。台积电对 Gelsinger 不是特别高兴。上周他表示依赖台湾作为全球半导体制造中心是一个重大风险，因为中国从未放弃过夺取该岛的计划。\n日经新闻报道，Gelsinger 在 Fortune Brainstorm Tech 上表示，“台湾不是个稳定的地区。北京本周向台湾防空识别区派出了 27 架战机。这让你感觉更舒服还是更不舒服？”他还再次强调，即根据 520 亿美元的 CHIPS 法案，外国半导体公司不应该从美国政府获得补贴建造新的晶圆厂。Gelsinger 呼吁美国政府只为美国芯片制造商提供激励措施。他认为，来自中国大陆、台湾和韩国的半导体公司得到了各自政府的大量援助，这使得英特尔等美国公司更难与之竞争。",
-          "link": "https://www.solidot.org/story?sid=69960",
-          "publishedOn": "2021-12-10T11:13:50.000Z",
-          "wordCount": 107,
-          "title": "台积电创始人表示 Pat Gelsinger 老矣无法让英特尔再次伟大"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69959",
-          "author": null,
-          "description": "西方的蜜蜂在世界上大部分地区用于作物授粉和蜂蜜生产，在截然不同的环境中生存能力非凡——从热带雨林到干旱环境，再到冬季寒冷的温带地区。它土生土长在非洲、欧洲和亚洲，最近被认为起源于非洲。研究小组对来自蜜蜂原生地的 18 个亚种的 251 个基因组进行了测序，并利用这些数据重构蜜蜂的起源和分布模式。研究小组发现，基因数据强烈支持亚洲起源——很可能是西亚。通讯作者、约克大学理学院的 Amro Zayed 教授表示：“作为世界上最重要的传粉媒介之一，了解西方蜜蜂的起源以了解其进化、遗传以及它在扩散时如何适应环境至关重要。”研究还发现，蜜蜂基因组有几个“热点”帮助蜜蜂适应新的地理区域。虽然蜜蜂基因组有超过 12,000 个基因，但其中只有 145 个具有与今天发现的所有主要蜜蜂谱系相关的重复适应特征。",
-          "link": "https://www.solidot.org/story?sid=69959",
-          "publishedOn": "2021-12-10T11:08:05.000Z",
-          "wordCount": 83,
-          "title": "西方蜜蜂源自何处"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69958",
-          "author": null,
-          "description": "瑞士合法化“自杀舱”——一种 3D 打印的舱体，允许使用者在自己选择的地方安乐死。该国的医学审查委员会本周宣布将 Sarco 自杀舱合法化。用户可从内部操作。自杀舱的开发者 Philip Nitschke 博士也是安乐死支持组织 Exit International 的创始人，他对 SwissInfo.ch 表示，这些机器可以被“拖到任何地方实施安乐死”，自杀舱的最大特点是可被送到“田园诗般的户外环境”中。目前瑞士的安乐死意味着吞下一个装有受控混合物的胶囊，让人在死亡之前陷入深度昏迷。但是Sarco（石棺的缩写）自杀舱让人们可以在舱内通过快速降低内部氧气水平控制自己的死亡。打算结束自己生命的人需要回答一组预先录制的问题，然后按下一个按钮，让自杀舱内充满氮气。自杀舱内的氧气含量从 21% 迅速降低至 1%。人死后自杀舱可用作棺材。Nitschke 表示他的死亡方法是无痛的，人在失去知觉之前会感到有些头晕和/或愉快。他表示目前只有两个自杀舱原型机，但是正在打印第三台机器，他预计这种方法将在明年对瑞士公众开放。",
-          "link": "https://www.solidot.org/story?sid=69958",
-          "publishedOn": "2021-12-10T11:03:55.000Z",
-          "wordCount": 88,
-          "title": "瑞士合法化自杀舱"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69957",
-          "author": null,
-          "description": "如果运动员血液中的某种物质可提高不运动或者不能运动的人的脑力？人们在运动时被放大的蛋白质是否有助于避免阿尔兹海默症和其他记忆障碍的症状？一项新研究描绘了诱人的前景，研究人员将在运动轮上跑了好几英里的小鼠的血液注射到久坐的小鼠体内，发现久坐的小鼠在学习和记忆测试中表现得更好了。这项发表在《自然》期刊上的研究还发现，久坐小鼠在接受运动小鼠的血液之后，与阿尔兹海默症和其他神经系统疾病相关的脑部炎症减少了。小鼠的科研结果不一定适用于人类。\n\n研究使用的是大约三个月大的小鼠——大致相当于人类的 25 至 30 岁。其中一些小鼠是喜欢奔跑的夜行动物，可以在笼子里自由地使用运动轮，每个晚上跑上四到六英里。另一些小鼠笼子里的跑步轮则被锁死，它们可以在笼子里跑来跑去，但不能进行长时间的有氧运动。28天后，研究人员选取了第三组小鼠，它们同样不运动，但是注射了来自奔跑鼠或者非奔跑鼠的血浆——即围绕着血细胞的液体。接受奔跑鼠血浆的小鼠在学习和记忆两项测试中的表现都优于接受非奔跑鼠血浆的小鼠。在一项测试中，研究人员测量了小鼠回到之前遭到过足底电击的笼子里会恐惧多久，接受奔跑鼠血浆的老鼠恐惧的时间延长了 25%，这表明对压力事件有更好的记忆。他表示，在另一项测试中，注射了奔跑鼠血浆的小鼠找到浸没在不透明水中的平台的速度是另一组的两倍。研究小组还发现，注射了奔跑鼠血浆的小鼠的大脑产生了几种类型的脑细胞，包括那些在海马体中产生新神经元的细胞，海马体是一个参与记忆和空间学习的区域。一项基因分析表明，大约有 1,950 个基因随着跑步小鼠血液的注入而发生变化，或多或少地被激活。激活变化最大的250个基因中的大多数都与炎症有关，它们的变化表明大脑炎症减少了。",
-          "link": "https://www.solidot.org/story?sid=69957",
-          "publishedOn": "2021-12-10T09:49:17.000Z",
-          "wordCount": 79,
-          "title": "运动员的血液可增强脑力？"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69956",
-          "author": null,
-          "description": "科学家在半人马座 b 系统的轨道上发现了一颗异常大的行星，半人马座 b是一个肉眼可见的巨大双星系统。总质量大约相当于太阳的 10 倍，是已知质量最大的、拥有行星的恒星系统。最新发现发表在《自然》期刊上。新发现的被称为“b Cen (AB)b”的行星可能是气态巨行星，质量超过木星的 10 倍，是有史以来发现的最大行星之一。半人马座b双星系统距离地球 325 光，这颗行星距离其宿主恒星 520 亿英里，是迄今为止探测到的最远的轨道之一。相比之下，冥王星围绕太阳运转的距离大约是 33 亿英里。这是一个难以置信的距离。到目前为止，还没有在质量超过太阳三倍的恒星系统周围的轨道上发现过行星。天文学家以前认为在此类系统周围不会形成行星，因此它迫使人们重新思考行星结构的可能性以及行星形成的条件。\n\n\n在这个恒星系统中存在一颗行星确实令人惊讶。年轻的恒星周围围绕着原行星盘，行星最终从中出现。然而由于大量的紫外线和X射线辐射，像半人马座b 之类炽热的恒星系统本应该不利于行星的形成。论文第一作者、斯德哥尔摩大学的天文学家 Markus Janson 表示，高能辐射“往往会在短时间内摧毁原行星盘”，“人们认为这会让原行星盘在消失之前没有足够时间形成行星。” 然而它就在那里——一个围绕着半人马座b系统的成熟行星。可以清晰观察到，该恒星系统与其行星之间的质量比非常接近于太阳和木星的质量比。但是相似之处到此为止，因为半人马座b要巨大得多，这颗行星的质量是木星的10倍，轨道要远 100 倍。\n\n\nJanson 表示，从天体生物学的角度来看，半人马座b“可能是银河系中最不适宜生命生存的地方之一”。这个双星系统喷射出大量的紫外线和X射线辐射，“会对所有暴露其中的表面进行消毒”，因此“这个系统中任何表面上都不太可能有生命”。尽管如此，Janson 并没有排除在地下海洋中存在生命的可能性，这与一直以来对木星的卫星木卫二或者土星的卫星土卫二上存在基本生命的猜测吻合。",
-          "link": "https://www.solidot.org/story?sid=69956",
-          "publishedOn": "2021-12-10T09:02:08.000Z",
-          "wordCount": 97,
-          "title": "不应该存在的巨大行星"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69955",
-          "author": null,
-          "description": "根据打击虚假自我雇佣的新法律，除非使用真正的独立合同工，在欧盟运营的零工经济公司，例如 Uber 和 Deliveroo，必须确保工人获得最低工资、带薪病假、假期和其他就业权利。周四，欧盟委员会公布了这一期待已久的立法草案，将就业状况的举证责任将转移到企业，而不是为它们工作的个人。到目前为止，零工经济工人不得不在法庭上证明他们是雇员，否则就有可能被剥夺基本权利。欧盟就业和社会权利专员 Nicolas Schmit对 《卫报》和其他欧洲报纸表示，互联网平台“利用立法中的灰色地带和所有可能的模糊性”发展他们的商业模式，导致数百万工人被“错误分类”。",
-          "link": "https://www.solidot.org/story?sid=69955",
-          "publishedOn": "2021-12-10T08:02:52.000Z",
-          "wordCount": 77,
-          "title": "欧盟提案让零工经济工人获得员工权利"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69954",
-          "author": null,
-          "description": "一项研究发现，通过食物摄入的微塑料水平会对实验室中的人体细胞造成伤害。伤害包括细胞死亡和过敏反应，研究首次表明在人类暴露相关水平上会发生这种情况。它对人体健康的影响并不确定，因为不知道在被排出体外前，微塑料会在体内停留多长时间。微塑料污染物污染了从珠穆朗玛峰顶到海洋最深处的整个地球。人们会通过食物、水以及呼吸摄入这些微小颗粒。研究分析了之前的 17 项研究，这些研究着眼于微塑料对人体细胞系的毒理学影响。科学家比较了对细胞造成损害的微塑料水平与人们通过受污染的饮用水、海鲜和食盐摄入的微塑料水平。他们发现摄入的微塑料水平造成了特定类型的伤害——细胞死亡、过敏反应和细胞壁损伤。",
-          "link": "https://www.solidot.org/story?sid=69954",
-          "publishedOn": "2021-12-10T07:58:07.000Z",
-          "wordCount": 73,
-          "title": "微塑料会对人体细胞造成伤害"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69953",
-          "author": null,
-          "description": "在周四举行的 The Game Awards 活动上，Square Enix 宣布《最终幻想 7 重制版》登陆 PC，由 Epic 商店独占。尚不清楚这次独占时间多长。《最终幻想 7 重制版》是在 2020 年 4 月发布 PS4 版本，一年半之后登陆 PC。重制版本以原作中直到逃离米德加的剧情为基础，加入全新原创内容，是预计推出多部系列作的首部作品，游戏支持简体和繁体中文。在 The Game Awards 上，《双人成行》赢得年度游戏大奖。 Epic Games 发布了一个视觉特效惊人的虚幻引擎 5 DEMO《The Matrix Awakens》，PlayStation 5 和 Xbox Series X/S 玩家现在可以下载体验。",
-          "link": "https://www.solidot.org/story?sid=69953",
-          "publishedOn": "2021-12-10T07:44:19.000Z",
-          "wordCount": 121,
-          "title": "《最终幻想 7 重制版》登陆 PC 但由 Epic 商店独占"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69952",
-          "author": null,
-          "description": "一位用户上周在 Reddit 上报告无法用 Pixel 3 手机拨打 911 紧急救助电话。本周 Google 解释了这一问题背后的原因：微软协作工具 Microsoft Teams 与底层 Android 操作系统之间未预料到的互动。当用户使用 Android 10 以上版本，安装 Microsoft Teams 但没有登录时会触发这个 bug。这是一个很罕见的情况，很少有人在安装了 Teams 会不登录。Google 称微软将会释出更新解决这个问题。",
-          "link": "https://www.solidot.org/story?sid=69952",
-          "publishedOn": "2021-12-10T07:13:16.000Z",
-          "wordCount": 109,
-          "title": "微软 Teams 应用 Bug 会导致 Android 手机无法呼叫 911"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69950",
-          "author": null,
-          "description": "在新冠疫情期间，超重或肥胖者感染之后更容易出现重症和死亡。他们普遍有着其他健康方面的问题，但肥胖本身可能与之息息相关。研究人员现在报告新冠病毒可直接感染脂肪细胞。研究人员发现，新冠病毒会攻击脂肪细胞和身体脂肪中的某些免疫细胞。研究论文尚未经过同行评议，发表在预印本服务 biorxiv 平台上。如果其发现成立，将有助于解释为何超重或肥胖的患者更有可能发展出严重症状，且更有可能死亡。",
-          "link": "https://www.solidot.org/story?sid=69950",
-          "publishedOn": "2021-12-10T05:18:45.000Z",
-          "wordCount": 73,
-          "title": "新冠病毒会直接感染脂肪细胞"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69949",
-          "author": null,
-          "description": "十多年来，阿里巴巴集团一直是中国无可争议的电子商务之王，但最近它的王冠有滑落迹象。大量咄咄逼人的竞争者涌入电商行业，动摇了它的地位。商家和分析师认为，字节跳动旗下的抖音是直播电商领域的佼佼者，而在纳斯达克上市的拼多多在农村和廉价电商领域占据了领先地位。据一位直接了解情况的公司消息人士透露，抖音今年的目标是成交总额(GMV)突破 1 万亿元。这是它去年预期收入 1500 亿元的六倍多。根据咨询公司Questmobile，抖音用户 10 月花在该平台商户上的时间平均为 1871 分钟，而花在淘宝上的时间只有 350 分钟。",
-          "link": "https://www.solidot.org/story?sid=69949",
-          "publishedOn": "2021-12-10T03:46:28.000Z",
-          "wordCount": 84,
-          "title": "阿里巴巴电商帝国面临威胁"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69948",
-          "author": null,
-          "description": "《Ark: Survival Evolved》开发商 Studio Wildcard 和蜗牛游戏（Snail Games）指控《帝国神话》游戏开发商苏州安琪拉网络游戏科技有限公司（Angela Game）窃取其游戏源代码。Valve 已将游戏从 Steam 商店下架。蜗牛游戏是 Studio Wildcard 母公司，安琪拉游戏成立于 2020 年，至少有一名核心开发者跳槽自蜗牛游戏，而这位开发者能访问《Ark: Survival Evolved》的源代码。在《帝国神话》在 2021 年 11 月发布后，Studio Wildcard 注意到两个游戏有着相同的游戏机制，这不可能是巧合。在比较了《帝国神话》可执行文件的代码头之后，Studio Wildcard 发现了数以百计相同的类、变量和函数，确认《帝国神话》使用了《Ark: Survival Evolved》的源代码。它在 12 月 1 日报告给了 Valve，12 月 3 日 Valve 将游戏下架。安琪拉游戏则发表声明否认窃取源代码的指控。",
-          "link": "https://www.solidot.org/story?sid=69948",
-          "publishedOn": "2021-12-10T03:04:27.000Z",
-          "wordCount": 115,
-          "title": "中国游戏公司被指窃取《Ark: Survival Evolved》源代码"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69947",
-          "author": null,
-          "description": "俄罗斯通信监管机构  Roskomnadzor 本周二开始大规模封锁 Tor 节点。Tor 匿名网络在俄罗斯大约有 30 万用户，占到了用户总数的 15%。俄罗斯的 ISP 是从 12 月 1 日开始屏蔽 Tor 节点，Roskomnadzor 威胁要屏蔽主要的 Tor 网站，几个小时后它兑现了威胁。它在周三解释其决定时指出，Tor 网络提供了访问非法内容的服务，“今天对该资源的访问已被限制。”Tor 项目创建了一个可以在俄罗斯境内访问的镜像，它呼吁用户创建更多网桥，网桥是不公开的 Tor 节点，使用 obfs4 协议隐藏 Tor 流量。截至上个月，Tor 网络大约有 900 个网桥节点。",
-          "link": "https://www.solidot.org/story?sid=69947",
-          "publishedOn": "2021-12-09T13:55:19.000Z",
-          "wordCount": 105,
-          "title": "俄罗斯封锁 Tor 节点"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69946",
-          "author": null,
-          "description": "微软在继续更新和完善 Windows 11，它最近向 Windows Insider 测试者推送的更新包含了新版本的记事本应用。记事本的新变化包括了与 Windows 11 Mica 样式统一的标题栏和菜单栏，支持深色模式，支持在深色和浅色之间切换，现代化字体控制。微软还为记事本引入了许多非审美的特性，但它没有计划将记事本变成更先进的富文本编辑器。微软表示它正在解决打开大文件的性能问题，按住 Shift 键的选择文本问题。这些问题预计会在正式推出前解决。",
-          "link": "https://www.solidot.org/story?sid=69946",
-          "publishedOn": "2021-12-09T13:36:30.000Z",
-          "wordCount": 88,
-          "title": "微软测试新版的 Windows 11 记事本"
         }
       ]
     },
@@ -3872,6 +3692,24 @@
       "feedUrl": "https://immmmm.com/feed",
       "siteUrl": "https://immmmm.com/",
       "articles": [
+        {
+          "id": "https://immmmm.com/buy-buy-buy-2021/",
+          "author": null,
+          "description": "看了 @老毕 的博客15年回忆杀，感慨当初 WPer 折腾王子们纷纷转业，美妆的美妆、投资的投机、晒娃的晒娃，消失的消失……无论如何，被记得和记得总是件感动的事，愿下一个15年，我们仍在。\n看到 @佐仔 兄写了去年的败家记录，不经也去看了看已达续费上限的 🐶 东，才有了这篇记录。\n数码\n海备思 Switch 便携底座 ¥224\n\n可以理解为“GaN充电器”与“扩展坞（USB、HDMI）”的合体，可以把 Switch、平板、手机画面有线投屏，还能让后两者读取 USB 口的内容。重点是“娇小”的身材！\n倍思 氮化镓GaN三代65W充电器 ¥120\n一下子都三代咯！两个 TypeC 、一个 USB 口，充电够迅猛！\n施耐德 APC UPS BK650M2-CH（390W/650VA） ¥479\n真是，有了群晖才发现家里断电有多频繁……硬盘贵啊，赶紧保命！\n京东京造 K3-84键白光矮茶轴 ¥340\n\n颜值真在线，声音真不轻，敲字真带感！吐槽，最右侧一列误触机率实在太高，已摘帽。真想一刀切之去之！\n公牛收纳盒插座 GN-F2161宝可梦联名款 ¥109\n\n电视下面设备有点多，直接排插有点丑，一个宝可梦排插搞定！\n三星固态硬盘SSD 870EVO 500g ¥489\n单位配发笔记本支持光驱位硬盘，卸了光驱，果断上 SSD！\n希捷（SEAGATE）酷狼 2T ¥523.5\n买了群晖，吃土买 2T 用到老……\n群晖 220+ 配官方 6G 内存 ¥3480\n现在看看，好像一点都不便宜！加内存是明智的，不然开个 docker 就得卡死。\n绿联 USB无线网络打印服务器\n\n\n把有线打印机摇身变为无线打印，进后台找一下办公室的 Wifi 连接即可。目测是定制版 openwrt 固件，遗憾只有1个USB口，只能接1台打印机。\n小米路由器4A千兆版 ¥107\n单位公共AP实在是无力吐槽，幸好办公室不缺网口。\n公牛（BULL）20W PD快充魔方 ¥89\n\n小方块，6个口，特别是有个 Type-C 快冲口，实用！\n爱普生墨仓式 L3153 打印复印扫描一体机 ¥989\n8月底买的，为新一年级的娃做好准备。这，墨是真省，这大半年的，1/3 的墨都没用到。\n洪恩拼音、识字APP终身会员 ¥228 ¥201\n悔，游戏化识字、学拼音只能作为点心，学前识字还是识字卡片直接，拼音还是报个班有效！\n飞利浦电动剃须刀 S5066 ¥486\n够用，感觉买太好了。\nApple AirPods 2代 ¥779\n真是早买早享受！已和当家的一人一个，什么100几块的真蓝牙无线耳机，都是刷流氓。\nLuka Hero 绘本机器人 ¥870\n买晚了！Luka 会跟着小朋友翻绘本，读当前页的内容。音质资源足够丰富，基本上大的出版社都有。终于可以让自己的喉咙歇歇啦！\n雷克沙 256GB TF（MicroSD）存储卡\n喂饱 Switch\nSwitch 卡带：LABO 机器人套装 ¥99 等其它若干\n这也太好玩了！这设计也太绝了！自己把一大盒硬纸板拼成个机器人背包，开打！\n生活\n乐高（LEGO）典藏瓶中船92177 ¥522\n\n真好看！\nLOZ 俐智拼装花束\n\n比乐高的好看。\n诗画历2022台历 果麦文化出品 ¥42\n\n别人送了一本，自己又买了好多本送人！\n日课2022 读库丰子恺漫画民国老课本 ¥98\n\n给娃当日历涂鸦本用，然后留下来保存。\nilly 咖啡粉 + hero 挂耳滤纸\n解决咖啡因焦虑！\n纸书\n当下电子书随手可得，仍然买了不少纸质书。\nhttps://book.douban.com/subject/35143790/\nhttps://book.douban.com/subject/35254632/\nhttps://book.douban.com/subject/35349438/\nhttps://book.douban.com/subject/35390838/",
+          "link": "https://immmmm.com/buy-buy-buy-2021/",
+          "publishedOn": "2022-01-08T14:03:41.000Z",
+          "wordCount": 195,
+          "title": "剁手 2021"
+        },
+        {
+          "id": "https://immmmm.com/menubarx-mac-app/",
+          "author": null,
+          "description": "一款强大的 Mac 菜单栏浏览器，可以在菜单栏固定任何网页，就像原生 App 一样使用。\n@hzlzh 业余开发的小而美 Mac App，摸鱼神器 😊\n自个儿放了个「单向历」的日历：https://edui123.com/rili/\n再放啥点呢？",
+          "link": "https://immmmm.com/menubarx-mac-app/",
+          "publishedOn": "2022-01-08T12:37:03.000Z",
+          "wordCount": 70,
+          "title": "软件推荐：MenubarX for MacOS"
+        },
         {
           "id": "https://immmmm.com/right-so-so-2021/",
           "author": null,
