@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-10T03:21:53.278Z</updated>
+    <updated>2022-01-10T03:26:15.758Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
@@ -1551,6 +1551,25 @@ settings > general Publication Language 填入 “zh-CN”，系统相对时间�
         <summary type="html"><![CDATA[新年好]]></summary>
         <author>
             <name>尤雨溪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[想法] <2021> 加入了 Vite, Nuxt, Windi CSS 团…]]></title>
+        <id>https://www.zhihu.com/pin/1460468025002987520</id>
+        <link href="https://www.zhihu.com/pin/1460468025002987520"/>
+        <updated>2021-12-31T20:31:51.000Z</updated>
+        <summary type="html"><![CDATA[<2021>
+🖖 加入了 Vite, Nuxt, Windi CSS 团队
+🚀 发布了 Slidev, UnoCSS, Vitest 和一些轮子
+👀 12.5K 小绿点
+🐙 全职开源了几个月
+💚 加入了 NuxtLabs 继续做开源 🤩
+🎙 8 个演讲/分享，3 个播客
+💖 250+ Sponsors 以及你们！
+</2021>
+不胜感激！🙌]]></summary>
+        <author>
+            <name>Anthony Fu</name>
         </author>
     </entry>
     <entry>
@@ -3940,6 +3959,18 @@ Say …]]></summary>
         <summary type="html"><![CDATA[据说暗网市场丝绸之路的创始人 Ross Ulbricht 的笔记本电脑是在解锁的情况下被美国联邦特工抢走。他被怀疑是丝绸之路的创始人但没有确凿证据，执法部门需要笔记本电脑中的数据作为证据。为在解锁情况下拿到笔记本电脑，两名特工在 Ulbricht 面前演了一场打斗戏，吸引他的注意力后由第三名特工抢走电脑。如何在这种罕见的情况下保护计算机里的秘密？名叫 BusKill 的项目就是设计针对这种情况，保护记者和活动人士的数据安全。BusKill 是一种磁分离线缆，支持 macOS、Windows 和 Linux，用户可以配置当磁分离连接器被断开也就是笔记本电脑离开拥有者的情况下的应对措施，包括锁住计算机和自毁数据。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[想法] 新玩具，Vitest ⚡✅ 一个由 Vite 驱…]]></title>
+        <id>https://www.zhihu.com/pin/1456384060910637056</id>
+        <link href="https://www.zhihu.com/pin/1456384060910637056"/>
+        <updated>2021-12-20T14:03:38.000Z</updated>
+        <summary type="html"><![CDATA[新玩具，Vitest ⚡✅
+一个由 Vite 驱动的测试框架，可以让你在测试用使用和 Vite 应用中一样的插件和配置，一定程度上兼容 Jest 的 API，ESM 优先，以及类似 HMR 的测试监听模式！ 👇
+https://github.com/vitest-dev/vitest]]></summary>
+        <author>
+            <name>Anthony Fu</name>
         </author>
     </entry>
     <entry>
