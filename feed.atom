@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-10T03:05:01.247Z</updated>
+    <updated>2022-01-10T03:21:53.278Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
@@ -1520,6 +1520,37 @@ settings > general Publication Language 填入 “zh-CN”，系统相对时间�
         <summary type="html"><![CDATA[日历集是一款集合了万年历、古诗词日历、国色日历（中国传统颜色）、进度日历、文字日历、月相日历、浮世绘日历、名画日历的日历应用，其中部分日历需要付费解锁。@Appinn 来自发现频道，@zjwen100]]></summary>
         <author>
             <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[想法]]]></title>
+        <id>https://www.zhihu.com/pin/1460526857083236352</id>
+        <link href="https://www.zhihu.com/pin/1460526857083236352"/>
+        <updated>2022-01-01T00:25:37.000Z</updated>
+        <summary type="html"><![CDATA[🔥🔥🔥
+回复Anthony Fu的想法：
+<2021>
+🖖 加入了 Vite, Nuxt, Windi CSS 团队
+🚀 发布了 Slidev, UnoCSS, Vitest 和一些轮子
+👀 12.5K 小绿点
+🐙 全职开源了几个月
+💚 加入了 NuxtLabs 继续做开源 🤩
+🎙 8 个演讲/分享，3 个播客
+💖 250+ Sponsors 以及你们！
+</2021>
+不胜感激！🙌]]></summary>
+        <author>
+            <name>尤雨溪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[想法] 新年好]]></title>
+        <id>https://www.zhihu.com/pin/1460526306093465600</id>
+        <link href="https://www.zhihu.com/pin/1460526306093465600"/>
+        <updated>2022-01-01T00:23:26.000Z</updated>
+        <summary type="html"><![CDATA[新年好]]></summary>
+        <author>
+            <name>尤雨溪</name>
         </author>
     </entry>
     <entry>
@@ -3744,6 +3775,19 @@ Apollo Next Generation Sample Analysis Program（ANGSA）负责，它负责管�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[想法] [转发内容]]]></title>
+        <id>https://www.zhihu.com/pin/1456617265341329408</id>
+        <link href="https://www.zhihu.com/pin/1456617265341329408"/>
+        <updated>2021-12-21T05:30:18.000Z</updated>
+        <summary type="html"><![CDATA[回复Anthony Fu的想法：
+新玩具，Vitest ⚡✅
+一个由 Vite 驱动的测试框架，可以让你在测试用使用和 Vite 应用中一样的插件和配置，一定程度上兼容 Jest 的 API，ESM 优先，以及类似 HMR 的测试监听模式！ 👇
+https://github.com/vitest-dev/vitest]]></summary>
+        <author>
+            <name>尤雨溪</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[线下校外培训机构压减逾八成]]></title>
         <id>https://www.solidot.org/story?sid=70074</id>
         <link href="https://www.solidot.org/story?sid=70074"/>
@@ -5052,16 +5096,6 @@ LayoutTree 和 DOM 结构很像了，但比如 display: none 的元素不会…]
 所以方法手段是有很多的，只是用不用，如何用的问题，毕竟需要综合考虑各种因素。]]></summary>
         <author>
             <name>宁南山</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Log4j 漏洞影响数以百万计的应用]]></title>
-        <id>https://www.solidot.org/story?sid=69969</id>
-        <link href="https://www.solidot.org/story?sid=69969"/>
-        <updated>2021-12-11T15:15:24.000Z</updated>
-        <summary type="html"><![CDATA[广泛使用的 Java 日志库 Log4j 爆出了非常容易利用的 0day 漏洞，通过发送特定字符串攻击者能远程执行代码，有数以百万计的应用受到影响。漏洞利用的 POC 代码已发布在 GitHub 上，它被编号为 CVE-2021-44228。受影响的服务包括  Steam、Apple iCloud、游戏如 Minecraft，任何使用 Apache Struts 的服务都可能受到影响。在漏洞爆出之后，玩家就开始在 Minecraft 的聊天功能中尝试利用漏洞，部分 Twitter 用户改变显示名字去触发漏洞，苹果用户也尝试了类似的漏洞利用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
 </feed>
