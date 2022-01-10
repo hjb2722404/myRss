@@ -486,6 +486,15 @@
           "id": "https://css-tricks.com/?p=358917",
           "author": "Alex Lazar",
           "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
+          "link": "https://css-tricks.com/fixed-background-effect/",
+          "publishedOn": "2022-01-06T15:58:55.000Z",
+          "wordCount": 1856,
+          "title": "The Search For a Fixed Background Effect With Inline Images"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358917",
+          "author": "Alex Lazar",
+          "description": "I was working on a client project a few days ago and wanted to create a certain effect on an <img>. See, background images can do the effect I was looking for somewhat easily with background-attachment: fixed;. With …\nThe Search For a Fixed Background Effect With Inline Images originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
           "link": "https://css-tricks.com/the-search-for-a-fixed-background-effect-with-inline-images/",
           "publishedOn": "2022-01-06T15:58:55.000Z",
           "wordCount": 1196,
@@ -1025,6 +1034,33 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=70296",
+          "author": null,
+          "description": "加密货币的环境问题日益引起关注。Mozilla 基金会官方 Twitter 账号在 1 月 1 日提醒粉丝它接受加密货币如比特币以太坊捐款，但这一声明招致了项目创始人 Jamie \"jwz\" Zawinski 的猛烈批评，社区的反对最终迫使 Mozilla 基金会宣布暂停接受加密货币捐款。实际上 Mozilla 从 2014 年就开始接受加密货币捐款，当时 Mozilla 列举了其它接受加密货币捐款的组织如 Khan Academy、Electronic Frontier Foundation、United Way、Greenpeace 和 Wikimedia Foundation。到今天只有绿色和平（Greenpeace）停止接受加密货币捐款，原因就是挖掘比特币所需的巨大能耗令加密货币捐款不再可接受。Zawinski 认为加密货币不仅是一场世界末日般的生态灾难，也是一种等待更大傻瓜接手的金字塔骗局，对 Mozilla 曾支持的开放 Web 也具有毒害。他的言论引发了很多人的共鸣。",
+          "link": "https://www.solidot.org/story?sid=70296",
+          "publishedOn": "2022-01-09T13:46:28.000Z",
+          "wordCount": 109,
+          "title": "Mozilla 其实从 2014 年就开始接受加密货币捐款"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70295",
+          "author": null,
+          "description": "知名杀毒软件 Norton 360 被发现会在客户计算机上安装挖矿程序，但程序没有默认激活，因此客户计算机的闲置算力暂时还不会被用于悄悄挖掘加密货币。NortonLifeLock 的发言人表示，客户可通过暂时关闭 Norton 360 的防篡改功能然后删除挖矿程序 NCrypt.exe。根据 Norton 发布在其网站上的 FAQ，NCrypt.exe 将在客户计算机闲置时挖掘以太坊，而且客户的计算机硬件需要满足一定条件如至少有 6 GB 显存的英伟达显卡。Norton 将为客户创建一个以太坊钱包地址，对于挖掘出的以太坊它将保留其中的 15%。Norton 是在 2021 年 7 月开始整合挖矿程序，但除非用户选择它并不会启动。客户及安全研究人员通过社交媒体批评了 Norton 的做法。",
+          "link": "https://www.solidot.org/story?sid=70295",
+          "publishedOn": "2022-01-09T12:55:13.000Z",
+          "wordCount": 99,
+          "title": "Norton 360 安装挖矿程序"
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70294",
+          "author": null,
+          "description": "NASA 宣布韦伯望远镜成功展开了 6.5 米口径的镀金主镜。本周二 NASA 完成了望远镜遮光罩的展开，主镜展开后望远镜完成了部署，可以开始正式运行前的测试。望远镜的主镜是以左右两面方式折叠装在阿丽亚娜 5 号运载火箭的整流罩内。第一面于 1 月 7 日展开，第二面于 1 月 8 日展开。美国东部时间  1 月 8 日下午 1:17 NASA 宣布望远镜的所有主要部署工作完成。主镜由 18 块六角形的镜片构成，每块镜片背部都装有 7 个马达，能够在 10 纳米的精度内调整镜片的形状和方向。地面团队接下来的工作就是调整这些镜片，预计这一工作需要几个月时间完成。韦伯望远镜是红外线望远镜，它将飞行到日地之间的第二拉格朗日点。",
+          "link": "https://www.solidot.org/story?sid=70294",
+          "publishedOn": "2022-01-09T11:50:06.000Z",
+          "wordCount": 100,
+          "title": "韦伯望远镜成功展开主镜"
+        },
         {
           "id": "https://www.solidot.org/story?sid=70289",
           "author": null,
@@ -3445,24 +3481,6 @@
           "publishedOn": "2021-12-11T15:15:24.000Z",
           "wordCount": 94,
           "title": "Log4j 漏洞影响数以百万计的应用"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69968",
-          "author": null,
-          "description": "LinuxStory 写道 \" Kali Linux 长期被黑客和安全专业人士用于渗透测试和网络监视。2021年中的最后一个版本的 Kali Linux 2021.4 于当地时间12月9日发布。在本次更新中，Kali 将跳过GNOME 40 版本，使用最新的 GNOME 41，并同步更新所有的主题和扩展来支持最新的 shell。此外的变动还包括：改进了在 Apple M1 上的支持，将 Samba 客户端默认配置更改为为 Wide Compatibility，可以使用更方便的 kali-tweaks 来快速配置镜像；添加了对 Kaboxer 主题的支持；在 Kali 系统中添加了新工具，增强了桌面和主题设计，外观更好看了；增强了 Kali ARM 和 Kali-Docs 等等。\"",
-          "link": "https://www.solidot.org/story?sid=69968",
-          "publishedOn": "2021-12-11T14:00:59.000Z",
-          "wordCount": 116,
-          "title": "改进对 Apple M1 的支持，Kali Linux 2021.4 发布"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69967",
-          "author": null,
-          "description": "亚马逊解释了本周 AWS US-EAST-1 区宕机事故的原因。亚马逊称，绝大部分 AWS 服务和所有客户应用都在其主网络内运行，但它还用一个内部网络托管了基础性的服务，包括监视、内部 DNS 服务等。鉴于其重要性，AWS 用了多个地理位置上隔离的网络设备连接到这个内部网络，大幅扩展网络容量，确保其高可用性。12 月 7 日 7:30 AM PST，主网络的一个自动容量扩展活动意外引发了内部网络客户端的活动，导致了连接激增，连接内部网络和主网络的网络设备出现拥堵，通信延迟，引发了持续的拥堵和性能问题，影响到了团队实时监控的能力，使得他们难以快速识别问题的根源，只能依靠日志判断发生了什么。亚马逊表示它采取了行动确保相同的问题不会再次发生。",
-          "link": "https://www.solidot.org/story?sid=69967",
-          "publishedOn": "2021-12-11T14:00:29.000Z",
-          "wordCount": 89,
-          "title": "亚马逊解释本周 AWS 宕机事故原因"
         }
       ]
     },
@@ -3741,6 +3759,58 @@
           "publishedOn": "2022-01-07T00:00:00.000Z",
           "wordCount": 89,
           "title": "DiscoverDev - curated engineering articles for Fri, 07 Jan 2022"
+        }
+      ]
+    },
+    {
+      "title": "黄子毅 - 知乎动态",
+      "feedUrl": "https://rss.lilydjwg.me/zhihu/huang-zi-yi-83",
+      "siteUrl": "https://www.zhihu.com/people/huang-zi-yi-83",
+      "articles": [
+        {
+          "id": "https://zhuanlan.zhihu.com/p/455298252",
+          "author": "黄子毅",
+          "description": "Excel 现在可利用 js 根据单元格数据生成图表、表格，或通过 js 拓展自定义函数拓展内置 Excel 表达式。\n我们来学习一下 Excel js API 开放是如何设计的，从中学习到一些开放 API 设计经验。\nAPI 文档：Excel JavaScript API overview\n精读\nExcel 将利用 JS API 开放了大量能力，包括用户能通过界面轻松做到的，也包括无法通过界面操作做到的。\n为什么需要开放 JS API\nExcel 已经具备了良好的易用性，以及 formula 这个强大的公式。在之前 精读《Microsoft Power Fx》 提到过，formula 就是 Excel 里的 Power FX，属于画布低代码语言，不过在 Excel 里叫做 “公式” 更合适。\n已经具备这么多能力，为何还需要 JS API 呢？一句话概括就是，在 JS API 内可以使用 formula，即 JS API 是公式能力的超集，它包含了对 Excel 工作簿的增删改查、数据的限制、RangeAreas 操作、图表、透视表，甚至可以自定义 formula 函数。\n也就是说，JS API 让 Excel “可编程化”，即以开发者视角对 Excel 进行二次拓展，包括对公式进行二次拓展，使 Excel 覆盖更多场景。\nJS API 可以用在哪些地方\n从 Excel 流程中最开始的工作薄、工作表环节，到最细节的单元格数据校验都可通过 JS API 支持，目前看来 Excel JS API 并没有设置能力边界，而且还会不断完善，将 Excel 全生命周期中一切可编程的地方开放出来。\n首先是对工作薄、工作表的操作，以及对工作表用户操作的监听，或者对工作表进行只读设置。这一类 API 的目的是对 Excel 这个整体进行编程操作。\n第二步就是对单元格级别进行操作，比如对单元格…",
+          "link": "https://zhuanlan.zhihu.com/p/455298252",
+          "publishedOn": "2022-01-10T01:00:37.000Z",
+          "wordCount": 321,
+          "title": "[文章] 精读《Excel JS API》"
+        },
+        {
+          "id": "https://zhuanlan.zhihu.com/p/452989809",
+          "author": "黄子毅",
+          "description": "继前一篇 精读《Records & Tuples 提案》，已经有人在思考这个提案可以帮助 React 解决哪些问题了，比如这篇 Records & Tuples for React，就提到了许多 React 痛点可以被解决。\n其实我比较担忧浏览器是否能将 Records & Tuples 性能优化得足够好，这将是它能否大规模应用，或者说我们是否放心把问题交给它解决的最关键因素。本文基于浏览器可以完美优化其性能的前提，一切看起来都挺美好，我们不妨基于这个假设，看看 Records & Tuples 提案能解决哪些问题吧！\n概述\nRecords & Tuples Proposal 提案在上一篇精读已经介绍过了，不熟悉可以先去看一下提案语法。\n保证不可变性\n虽然现在 React 也能用 Immutable 思想开发，但大部分情况无法保证安全性，比如：\n\nconst Hello = ({ profile }) => {\n  // prop mutation: throws TypeError\n  profile.name = 'Sebastien updated';\n  return <p>Hello {profile.name}</p>;\n};\n\nfunction App() {\n  const [profile, setProfile] = React.useState(#{\n    name: 'Sebastien',\n  });\n  // state mutation: throws TypeError\n  profile.name = 'Sebastien updated';\n  return <Hello profile={profile} />;\n}\n\n\n归根结底，我们不会总使用 freeze 来冻结对象，大部分情况下需要人为保证引用不被修改，其中的潜在风险依然存在。…",
+          "link": "https://zhuanlan.zhihu.com/p/452989809",
+          "publishedOn": "2022-01-04T00:54:55.000Z",
+          "wordCount": 580,
+          "title": "[文章] 精读《Records & Tuples for React》"
+        },
+        {
+          "id": "https://zhuanlan.zhihu.com/p/450188771",
+          "author": "黄子毅",
+          "description": "immutablejs、immer 等库已经让 js 具备了 immutable 编程的可能性，但还存在一些无解的问题，即 “怎么保证一个对象真的不可变”。\n如果不是拍胸脯担保，现在还真没别的办法。或许你觉得 frozen 是个 good idea，但它内部仍然可以增加非 frozen 的 key。\n另一个问题是，当我们 debug 调试应用数据的时候，看到状态发生 [] -> [] 变化时，无论在控制台、断点、redux devtools 还是 .toString() 都看不出来引用有没有变化，除非把变量值分别拿到进行 === 运行时判断。但引用变与没变可是一个大问题，它甚至能决定业务逻辑的正确与否。\n但现阶段我们没有任何处理办法，如果不能接受完全使用 Immutablejs 定义对象，就只能摆胸脯保证自己的变更一定是 immutable 的，这就是 js 不可变编程被许多聪明人吐槽的原因，觉得在不支持 immutable 的编程语言下强行应用不可变思维是一种很别扭的事。\nproposal-record-tuple 解决的就是这个问题，它让 js 原生支持了 不可变数据类型（高亮、加粗）。\n概述 & 精读\nJS 有 7 种原始类型：string, number, bigint, boolean, undefined, symbol, null. 而 Records & Tuples 提案一下就增加了三种原始类型！这三种原始类型完全是为 immutable 编程环境服务的，也就是说，可以让 js 开出一条原生 immutable 赛道。\n这三种原始类型分别是 Record, Tuple, Box：\n\nRecord: 类对象结构的深度不可变基础类型，如 #{ x: 1, y: 2 }。\nTuple: 类数组结构的深度不可变基础类型，如 #[1, 2, 3, 4]。\nBox: …",
+          "link": "https://zhuanlan.zhihu.com/p/450188771",
+          "publishedOn": "2021-12-27T01:03:46.000Z",
+          "wordCount": 1876,
+          "title": "[文章] 精读《Records & Tuples 提案》"
+        },
+        {
+          "id": "https://zhuanlan.zhihu.com/p/447497181",
+          "author": "黄子毅",
+          "description": "Inside look at modern web browser 是介绍浏览器实现原理的系列文章，共 4 篇，本次精读介绍第四篇。\n概述\n前几章介绍了浏览器的基础进程、线程以及它们之间协同的关系，并重点说到了渲染进程是如何处理页面绘制的，那么最后一章也就深入到了浏览器是如何处理页面中事件的。\n全篇站在浏览器实现的视角思考问题，非常有趣。\n输入进入合成器\n这是第一小节的标题。乍一看可能不明白在说什么，但这句话就是本文的核心知识点。为了更好的理解这句话，先要解释输入与合成器是什么：\n\n输入：不仅包括输入框的输入，其实所有用户操作在浏览器眼中都是输入，比如滚动、点击、鼠标移动等等。\n合成器：第三节说过的，渲染的最后一步，这一步在 GPU 进行光栅化绘图，如果与浏览器主线程解耦的化效率会非常高。\n\n所以输入进入合成器的意思是指，在浏览器实际运行的环境中，合成器不得不响应输入，这可能会导致合成器本身渲染被阻塞，导致页面卡顿。\n\"non-fast\" 滚动区域\n由于 js 代码可以绑定事件监听，而且事件监听中存在一种 preventDefault() 的 API 可以阻止事件的原生效果比如滚动，所以在一个页面中，浏览器会对所有创建了此监听的区块标记为 \"non-fast\" 滚动区域。\n注意，只要创建了 onwheel 事件监听就会标记，而不是说调用了 preventDefault() 才会标记，因为浏览器不可能知道业务什么时候调用，所以只能一刀切。\n为什么这种区域被称为 \"non-fast\"？因为在这个区域触发事件时，合成器必须与渲染进程通信，让渲染进程执行 js 事件监听代码并获得用户指令，比如是否调用了 preventDefault() 来阻止滚动？如果阻止了就终止滚动，如果没有阻止才会继续滚动，如果最终结果是不阻止，但这个等待时间消耗是巨大的，在低性能设备比如手机上，滚动延迟甚至…",
+          "link": "https://zhuanlan.zhihu.com/p/447497181",
+          "publishedOn": "2021-12-20T02:25:02.000Z",
+          "wordCount": 329,
+          "title": "[文章] 精读《深入了解现代浏览器四》"
+        },
+        {
+          "id": "https://zhuanlan.zhihu.com/p/444558882",
+          "author": "黄子毅",
+          "description": "Inside look at modern web browser 是介绍浏览器实现原理的系列文章，共 4 篇，本次精读介绍第三篇。\n概述\n本篇宏观的介绍 renderer process 做了哪些事情。\n浏览器 tab 内 html、css、javascript 内容基本上都由 renderer process 的主线程处理，除了一些 js 代码会放在 web worker 或 service worker 内，所以浏览器主线程核心工作就是解析 web 三剑客并生成可交互的用户界面。\n解析阶段\n首先 renderer process 主线程会解析 HTML 文本为 DOM（Document Object Model），只译为中文就是文档对象模型，所以首先要把文本结构化才能继续处理。不仅是浏览器，代码的解析也得首先经历 Parse 阶段。\n对于 HTML 的 link、img、script 标签需要加载远程资源的，浏览器会调用 network thread 优先并行处理，但遇到 script 标签就必须停下来优先执行，因为 js 代码可能会改变任何 dom 对象，这可能导致浏览器要重新解析。所以如果你的代码没有修改 dom 的副作用，可以添加 async、defer 标签，或 JS 模块的方式使浏览器不必等待 js 的执行。\n样式计算\n只有 DOM 是不够的，style 标签申明的样式需要作用在 DOM 上，所以基于 DOM，浏览器要生成 CSSOM，这个 CSSOM 主要是基于 css 选择器（selector）确定作用节点的。\n布局\n有了 DOM、CSSOM 仍然不足以绘制网页，因为我们仅知道结构和样式，但不知道元素的位置，这就需要生成 LayoutTree 以描述布局的结构。\nLayoutTree 和 DOM 结构很像了，但比如 display: none 的元素不会…",
+          "link": "https://zhuanlan.zhihu.com/p/444558882",
+          "publishedOn": "2021-12-13T01:19:04.000Z",
+          "wordCount": 202,
+          "title": "[文章] 精读《深入了解现代浏览器三》"
         }
       ]
     }
