@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-09T01:05:18.244Z</updated>
+    <updated>2022-01-10T01:00:57.374Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[自制「单向历」网页版]]></title>
+        <id>https://immmmm.com/dan-xiang-li-page/</id>
+        <link href="https://immmmm.com/dan-xiang-li-page/"/>
+        <updated>2022-01-09T13:38:56.000Z</updated>
+        <summary type="html"><![CDATA[在线体验：https://edui123.com/rili/
+Github 上找到一个 PHP 版的 calendar_api，调用非常方便。可为了一个 API 开个 PHP 也是够过分，其实也就为了解决两个问题：
+自动更新日期
+绕过 Referer 验证
+顺利访问以下图片地址：
+https://img.owspace.com/Public/uploads/Download/2022/0109.jpg
+寻思，直接 JavaScript 不香吗？
+完整代码直接右键查看页面源码即可，说明两点：更新日期 js 大法，Referer 头部加一句搞定。
+window.onload=function(){getDate()}
+function getDate(){
+  var d=new Date(),y=d.getFullYear(),m=d.getMonth()+1,n=d.getDate();
+  m=m>9?m:"0"+m;n=n>9?n:"0"+n;
+  var img= "<img  src='https://img.owspace.com/Public/uploads/Download/"+y+"/"+m+n+".jpg'>"
+  document.getElementById("rili").innerHTML=img
+}
+
+
+<meta name="referrer" content="same-origin">
+
+
+当然，API 的好处是方便调用，不用又是加 html 又是加 js 的，直接图片 src 调用地址即可：
+<img  src="https://www.aigeek.top/api/rili.php">
+<img  src="https://immmmm.com/api/rili.php">]]></summary>
+        <author>
+            <name>木木木木木</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AltTab – 让 Mac 像 Windows 一样使用 Alt + Tab 切换窗口]]></title>
+        <id>https://www.appinn.com/?p=41086</id>
+        <link href="https://www.appinn.com/alttab-windows-alt-tab-on-macos/"/>
+        <updated>2022-01-09T07:28:56.000Z</updated>
+        <summary type="html"><![CDATA[AltTab 是一款 macOS 应用，它可以让你的 Mac 像 Windows 一样使用 Alt + Tab 切换窗口时，可以预览窗口内容，快捷键是 option ⌥ + tab。原生支持 M1 芯]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[剁手 2021]]></title>
         <id>https://immmmm.com/buy-buy-buy-2021/</id>
@@ -4774,97 +4816,6 @@ Bukele 想通过火山债券将比特币持有者的资金投入萨尔瓦多经�
         <link href="https://www.solidot.org/story?sid=69967"/>
         <updated>2021-12-11T14:00:29.000Z</updated>
         <summary type="html"><![CDATA[亚马逊解释了本周 AWS US-EAST-1 区宕机事故的原因。亚马逊称，绝大部分 AWS 服务和所有客户应用都在其主网络内运行，但它还用一个内部网络托管了基础性的服务，包括监视、内部 DNS 服务等。鉴于其重要性，AWS 用了多个地理位置上隔离的网络设备连接到这个内部网络，大幅扩展网络容量，确保其高可用性。12 月 7 日 7:30 AM PST，主网络的一个自动容量扩展活动意外引发了内部网络客户端的活动，导致了连接激增，连接内部网络和主网络的网络设备出现拥堵，通信延迟，引发了持续的拥堵和性能问题，影响到了团队实时监控的能力，使得他们难以快速识别问题的根源，只能依靠日志判断发生了什么。亚马逊表示它采取了行动确保相同的问题不会再次发生。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国国家图书馆发布《中华古籍资源库》可免登录浏览，包含 10 万部（件）古籍]]></title>
-        <id>https://www.appinn.com/?p=40774</id>
-        <link href="https://www.appinn.com/zhonghuagujiziyuanku/"/>
-        <updated>2021-12-11T10:15:22.000Z</updated>
-        <summary type="html"><![CDATA[来自中国国家图书馆，国家古籍保护中心公众号的消息：“中华古籍资源库” 10万部（件）古籍免登录浏览。@Appinn 《中华古籍资源库》网址： http://www.nlc.cn/pcab/zy/zhg]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 准备将 Android 游戏带到 Windows 平台]]></title>
-        <id>https://www.solidot.org/story?sid=69966</id>
-        <link href="https://www.solidot.org/story?sid=69966"/>
-        <updated>2021-12-11T05:00:40.000Z</updated>
-        <summary type="html"><![CDATA[微软正与亚马逊等公司合作让包括游戏在内的 Android 应用能运行在 Windows 11 平台。现在，Google 准备了应对措施，将 Android 游戏带到所有 Windows 平台，不限于 Windows 11。Google 将在 2022 年发布 Google Play Games app，允许  Google Play 上的游戏应用能运行在 Windows 笔记本、平板和 PC 上。Google 自己开发了该应用，没有与微软等公司合作，将允许在不同平台上持续游戏，比如在手机上玩了之后可以在 PC 上恢复继续游戏。Google 没有透露它在 Windows 上模拟 Android 应用所采用的技术。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better.com CEO 被停职]]></title>
-        <id>https://www.solidot.org/story?sid=69965</id>
-        <link href="https://www.solidot.org/story?sid=69965"/>
-        <updated>2021-12-11T04:47:37.000Z</updated>
-        <summary type="html"><![CDATA[Better.com 董事会通知雇员，在引发广泛争议之后 CEO Vishal Garg 被停职即时生效，CFO Kevin Ryan 临时代理 CEO 职务。Vishal Garg 此前被爆出通过 Zoom Call 解雇 900 名雇员。他还爆出其它不良行为，包括通过邮件攻击雇员，威胁烧死合作伙伴。公司雇员和前雇员称，Vishal Garg 利用恐惧的手段去管理公司，通过威胁雇员让他们更努力更快的工作，不要偷懒。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这不是演习]]></title>
-        <id>https://immmmm.com/2019-2021-ncov/</id>
-        <link href="https://immmmm.com/2019-2021-ncov/"/>
-        <updated>2021-12-11T03:02:16.000Z</updated>
-        <summary type="html"><![CDATA[前一周还在说要进行全员核酸演练，这一周突然就一例本土确诊。一切发展超乎迅猛，唯一庆幸的是确诊者都一个街道，都是轻症。望，年前能恢复如初，至少不影响出行晒个太阳。]]></summary>
-        <author>
-            <name>木木木木木</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why would a business push a native app over a website?]]></title>
-        <id>https://css-tricks.com/?p=356088</id>
-        <link href="https://css-tricks.com/why-would-a-business-push-a-native-app-over-a-website/"/>
-        <updated>2021-12-10T22:09:56.000Z</updated>
-        <summary type="html"><![CDATA[I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Position Sticky With CSS Grid]]></title>
-        <id>https://css-tricks.com/?p=358575</id>
-        <link href="https://css-tricks.com/using-position-sticky-with-css-grid/"/>
-        <updated>2021-12-10T18:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Say you’ve got a two-column CSS grid and you want one of those columns to behave like position: sticky;. There is nothing stopping you from doing that. But the default height for those two columns is going to be …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standardizing Focus Styles With CSS Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=357373</id>
-        <link href="https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/"/>
-        <updated>2021-12-10T16:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Take two minutes right now and visit your current project in a browser. Then, using only the Tab key, you should be able to navigate between interactive elements including buttons, links, and form elements.
-If you are sighted, you should…]]></summary>
-        <author>
-            <name>Stephanie Eckles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国法庭裁决 Julian Assange 能被引渡到美国]]></title>
-        <id>https://www.solidot.org/story?sid=69964</id>
-        <link href="https://www.solidot.org/story?sid=69964"/>
-        <updated>2021-12-10T13:35:02.000Z</updated>
-        <summary type="html"><![CDATA[美国在伦敦高等法院赢得上诉，事关引渡维基解密创始人阿桑奇(Julian Assange)以面对刑事指控，包括违反间谍法与合谋入侵政府电脑。“法院允许上诉，”法官 Timothy Holroyde 说。法官说，他对美国就阿桑奇的拘留条件作出的一揽子保证感到满意，包括承诺不将他关押在科罗拉多州所谓的“ADX”最高安全监狱，以及如果他被定罪将被转移到澳大利亚服刑。这项裁决使阿桑奇离被引渡又近了一步，但仍有进一步的障碍。Holroyde 说，现在必须将此案发回威斯敏斯特地方法院，由法官将其交给英国政府决定是否将阿桑奇引渡到美国。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EFF 就 Manifest V3 警告 Chrome 用户]]></title>
-        <id>https://www.solidot.org/story?sid=69963</id>
-        <link href="https://www.solidot.org/story?sid=69963"/>
-        <updated>2021-12-10T13:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Google 本月初通知扩展开发者，宣布从 2022 年 1 月 17 日起 Chrome Web Store 将停止接受可见性设为 Public 或 Unlisted 的新 Manifest V2 扩展，到 6 月这一限制将扩大到设为 Private 的新扩展。Google 开始加速推广受争议的 Manifest V3 扩展。在安全、隐私和性能的名义下，Manifest v3 限制了广告和内容屏蔽功能，对扩展规则的数量设置了上限。此举将严重影响广告和内容屏蔽扩展的可用性。电子前哨基金会 EFF 就此向 Chrome 用户发出警告，称 Manifest V3 将严重损害到隐私保护方面的工作，Manifest V3 将限制广告和内容屏蔽扩展的性能， Google 是最大的网络广告公司，它的跟踪器安装在四分之三的网站上。它的限制“让人不寒而栗”。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>

@@ -12,6 +12,15 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=41086",
+          "author": "青小蛙",
+          "description": "AltTab 是一款 macOS 应用，它可以让你的 Mac 像 Windows 一样使用 Alt + Tab 切换窗口时，可以预览窗口内容，快捷键是 option ⌥ + tab。原生支持 M1 芯",
+          "link": "https://www.appinn.com/alttab-windows-alt-tab-on-macos/",
+          "publishedOn": "2022-01-09T07:28:56.000Z",
+          "wordCount": 764,
+          "title": "AltTab – 让 Mac 像 Windows 一样使用 Alt + Tab 切换窗口"
+        },
+        {
           "id": "https://www.appinn.com/?p=41083",
           "author": "青小蛙",
           "description": "iTab 新标签页 是一款 Chrome、Edge 新标签页扩展，一个让你不受广告干扰的个性化卡片式极简起始页插件，可以自定义精美日历、炫酷天气、每日头条、海量壁纸、常用网址等等。@Appinn 来自",
@@ -429,15 +438,6 @@
           "publishedOn": "2021-12-12T08:37:48.000Z",
           "wordCount": 797,
           "title": "Web Activity Time Tracker – 追踪统计和限制网站访问，精确到秒[Chrome]"
-        },
-        {
-          "id": "https://www.appinn.com/?p=40774",
-          "author": "青小蛙",
-          "description": "来自中国国家图书馆，国家古籍保护中心公众号的消息：“中华古籍资源库” 10万部（件）古籍免登录浏览。@Appinn 《中华古籍资源库》网址： http://www.nlc.cn/pcab/zy/zhg",
-          "link": "https://www.appinn.com/zhonghuagujiziyuanku/",
-          "publishedOn": "2021-12-11T10:15:22.000Z",
-          "wordCount": 644,
-          "title": "中国国家图书馆发布《中华古籍资源库》可免登录浏览，包含 10 万部（件）古籍"
         }
       ]
     },
@@ -940,33 +940,6 @@
           "publishedOn": "2021-12-13T15:17:24.000Z",
           "wordCount": 1149,
           "title": "Ship a Full-Stack App in Days with AWS Amplify Studio"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356088",
-          "author": "Chris Coyier",
-          "description": "I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …",
-          "link": "https://css-tricks.com/why-would-a-business-push-a-native-app-over-a-website/",
-          "publishedOn": "2021-12-10T22:09:56.000Z",
-          "wordCount": 2224,
-          "title": "Why would a business push a native app over a website?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358575",
-          "author": "Chris Coyier",
-          "description": "Say you’ve got a two-column CSS grid and you want one of those columns to behave like position: sticky;. There is nothing stopping you from doing that. But the default height for those two columns is going to be …",
-          "link": "https://css-tricks.com/using-position-sticky-with-css-grid/",
-          "publishedOn": "2021-12-10T18:07:18.000Z",
-          "wordCount": 468,
-          "title": "Using Position Sticky With CSS Grid"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357373",
-          "author": "Stephanie Eckles",
-          "description": "Take two minutes right now and visit your current project in a browser. Then, using only the Tab key, you should be able to navigate between interactive elements including buttons, links, and form elements.\nIf you are sighted, you should…",
-          "link": "https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/",
-          "publishedOn": "2021-12-10T16:00:48.000Z",
-          "wordCount": 1187,
-          "title": "Standardizing Focus Styles With CSS Custom Properties"
         }
       ]
     },
@@ -3490,42 +3463,6 @@
           "publishedOn": "2021-12-11T14:00:29.000Z",
           "wordCount": 89,
           "title": "亚马逊解释本周 AWS 宕机事故原因"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69966",
-          "author": null,
-          "description": "微软正与亚马逊等公司合作让包括游戏在内的 Android 应用能运行在 Windows 11 平台。现在，Google 准备了应对措施，将 Android 游戏带到所有 Windows 平台，不限于 Windows 11。Google 将在 2022 年发布 Google Play Games app，允许  Google Play 上的游戏应用能运行在 Windows 笔记本、平板和 PC 上。Google 自己开发了该应用，没有与微软等公司合作，将允许在不同平台上持续游戏，比如在手机上玩了之后可以在 PC 上恢复继续游戏。Google 没有透露它在 Windows 上模拟 Android 应用所采用的技术。",
-          "link": "https://www.solidot.org/story?sid=69966",
-          "publishedOn": "2021-12-11T05:00:40.000Z",
-          "wordCount": 115,
-          "title": "Google 准备将 Android 游戏带到 Windows 平台"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69965",
-          "author": null,
-          "description": "Better.com 董事会通知雇员，在引发广泛争议之后 CEO Vishal Garg 被停职即时生效，CFO Kevin Ryan 临时代理 CEO 职务。Vishal Garg 此前被爆出通过 Zoom Call 解雇 900 名雇员。他还爆出其它不良行为，包括通过邮件攻击雇员，威胁烧死合作伙伴。公司雇员和前雇员称，Vishal Garg 利用恐惧的手段去管理公司，通过威胁雇员让他们更努力更快的工作，不要偷懒。",
-          "link": "https://www.solidot.org/story?sid=69965",
-          "publishedOn": "2021-12-11T04:47:37.000Z",
-          "wordCount": 94,
-          "title": "Better.com CEO 被停职"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69964",
-          "author": null,
-          "description": "美国在伦敦高等法院赢得上诉，事关引渡维基解密创始人阿桑奇(Julian Assange)以面对刑事指控，包括违反间谍法与合谋入侵政府电脑。“法院允许上诉，”法官 Timothy Holroyde 说。法官说，他对美国就阿桑奇的拘留条件作出的一揽子保证感到满意，包括承诺不将他关押在科罗拉多州所谓的“ADX”最高安全监狱，以及如果他被定罪将被转移到澳大利亚服刑。这项裁决使阿桑奇离被引渡又近了一步，但仍有进一步的障碍。Holroyde 说，现在必须将此案发回威斯敏斯特地方法院，由法官将其交给英国政府决定是否将阿桑奇引渡到美国。",
-          "link": "https://www.solidot.org/story?sid=69964",
-          "publishedOn": "2021-12-10T13:35:02.000Z",
-          "wordCount": 82,
-          "title": "英国法庭裁决 Julian Assange 能被引渡到美国"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=69963",
-          "author": null,
-          "description": "Google 本月初通知扩展开发者，宣布从 2022 年 1 月 17 日起 Chrome Web Store 将停止接受可见性设为 Public 或 Unlisted 的新 Manifest V2 扩展，到 6 月这一限制将扩大到设为 Private 的新扩展。Google 开始加速推广受争议的 Manifest V3 扩展。在安全、隐私和性能的名义下，Manifest v3 限制了广告和内容屏蔽功能，对扩展规则的数量设置了上限。此举将严重影响广告和内容屏蔽扩展的可用性。电子前哨基金会 EFF 就此向 Chrome 用户发出警告，称 Manifest V3 将严重损害到隐私保护方面的工作，Manifest V3 将限制广告和内容屏蔽扩展的性能， Google 是最大的网络广告公司，它的跟踪器安装在四分之三的网站上。它的限制“让人不寒而栗”。",
-          "link": "https://www.solidot.org/story?sid=69963",
-          "publishedOn": "2021-12-10T13:23:22.000Z",
-          "wordCount": 122,
-          "title": "EFF 就 Manifest V3 警告 Chrome 用户"
         }
       ]
     },
@@ -3693,6 +3630,15 @@
       "siteUrl": "https://immmmm.com/",
       "articles": [
         {
+          "id": "https://immmmm.com/dan-xiang-li-page/",
+          "author": null,
+          "description": "在线体验：https://edui123.com/rili/\nGithub 上找到一个 PHP 版的 calendar_api，调用非常方便。可为了一个 API 开个 PHP 也是够过分，其实也就为了解决两个问题：\n自动更新日期\n绕过 Referer 验证\n顺利访问以下图片地址：\nhttps://img.owspace.com/Public/uploads/Download/2022/0109.jpg\n寻思，直接 JavaScript 不香吗？\n完整代码直接右键查看页面源码即可，说明两点：更新日期 js 大法，Referer 头部加一句搞定。\nwindow.onload=function(){getDate()}\nfunction getDate(){\n  var d=new Date(),y=d.getFullYear(),m=d.getMonth()+1,n=d.getDate();\n  m=m>9?m:\"0\"+m;n=n>9?n:\"0\"+n;\n  var img= \"<img  src='https://img.owspace.com/Public/uploads/Download/\"+y+\"/\"+m+n+\".jpg'>\"\n  document.getElementById(\"rili\").innerHTML=img\n}\n\n\n<meta name=\"referrer\" content=\"same-origin\">\n\n\n当然，API 的好处是方便调用，不用又是加 html 又是加 js 的，直接图片 src 调用地址即可：\n<img  src=\"https://www.aigeek.top/api/rili.php\">\n<img  src=\"https://immmmm.com/api/rili.php\">",
+          "link": "https://immmmm.com/dan-xiang-li-page/",
+          "publishedOn": "2022-01-09T13:38:56.000Z",
+          "wordCount": 101,
+          "title": "自制「单向历」网页版"
+        },
+        {
           "id": "https://immmmm.com/buy-buy-buy-2021/",
           "author": null,
           "description": "看了 @老毕 的博客15年回忆杀，感慨当初 WPer 折腾王子们纷纷转业，美妆的美妆、投资的投机、晒娃的晒娃，消失的消失……无论如何，被记得和记得总是件感动的事，愿下一个15年，我们仍在。\n看到 @佐仔 兄写了去年的败家记录，不经也去看了看已达续费上限的 🐶 东，才有了这篇记录。\n数码\n海备思 Switch 便携底座 ¥224\n\n可以理解为“GaN充电器”与“扩展坞（USB、HDMI）”的合体，可以把 Switch、平板、手机画面有线投屏，还能让后两者读取 USB 口的内容。重点是“娇小”的身材！\n倍思 氮化镓GaN三代65W充电器 ¥120\n一下子都三代咯！两个 TypeC 、一个 USB 口，充电够迅猛！\n施耐德 APC UPS BK650M2-CH（390W/650VA） ¥479\n真是，有了群晖才发现家里断电有多频繁……硬盘贵啊，赶紧保命！\n京东京造 K3-84键白光矮茶轴 ¥340\n\n颜值真在线，声音真不轻，敲字真带感！吐槽，最右侧一列误触机率实在太高，已摘帽。真想一刀切之去之！\n公牛收纳盒插座 GN-F2161宝可梦联名款 ¥109\n\n电视下面设备有点多，直接排插有点丑，一个宝可梦排插搞定！\n三星固态硬盘SSD 870EVO 500g ¥489\n单位配发笔记本支持光驱位硬盘，卸了光驱，果断上 SSD！\n希捷（SEAGATE）酷狼 2T ¥523.5\n买了群晖，吃土买 2T 用到老……\n群晖 220+ 配官方 6G 内存 ¥3480\n现在看看，好像一点都不便宜！加内存是明智的，不然开个 docker 就得卡死。\n绿联 USB无线网络打印服务器\n\n\n把有线打印机摇身变为无线打印，进后台找一下办公室的 Wifi 连接即可。目测是定制版 openwrt 固件，遗憾只有1个USB口，只能接1台打印机。\n小米路由器4A千兆版 ¥107\n单位公共AP实在是无力吐槽，幸好办公室不缺网口。\n公牛（BULL）20W PD快充魔方 ¥89\n\n小方块，6个口，特别是有个 Type-C 快冲口，实用！\n爱普生墨仓式 L3153 打印复印扫描一体机 ¥989\n8月底买的，为新一年级的娃做好准备。这，墨是真省，这大半年的，1/3 的墨都没用到。\n洪恩拼音、识字APP终身会员 ¥228 ¥201\n悔，游戏化识字、学拼音只能作为点心，学前识字还是识字卡片直接，拼音还是报个班有效！\n飞利浦电动剃须刀 S5066 ¥486\n够用，感觉买太好了。\nApple AirPods 2代 ¥779\n真是早买早享受！已和当家的一人一个，什么100几块的真蓝牙无线耳机，都是刷流氓。\nLuka Hero 绘本机器人 ¥870\n买晚了！Luka 会跟着小朋友翻绘本，读当前页的内容。音质资源足够丰富，基本上大的出版社都有。终于可以让自己的喉咙歇歇啦！\n雷克沙 256GB TF（MicroSD）存储卡\n喂饱 Switch\nSwitch 卡带：LABO 机器人套装 ¥99 等其它若干\n这也太好玩了！这设计也太绝了！自己把一大盒硬纸板拼成个机器人背包，开打！\n生活\n乐高（LEGO）典藏瓶中船92177 ¥522\n\n真好看！\nLOZ 俐智拼装花束\n\n比乐高的好看。\n诗画历2022台历 果麦文化出品 ¥42\n\n别人送了一本，自己又买了好多本送人！\n日课2022 读库丰子恺漫画民国老课本 ¥98\n\n给娃当日历涂鸦本用，然后留下来保存。\nilly 咖啡粉 + hero 挂耳滤纸\n解决咖啡因焦虑！\n纸书\n当下电子书随手可得，仍然买了不少纸质书。\nhttps://book.douban.com/subject/35143790/\nhttps://book.douban.com/subject/35254632/\nhttps://book.douban.com/subject/35349438/\nhttps://book.douban.com/subject/35390838/",
@@ -3727,15 +3673,6 @@
           "publishedOn": "2022-01-01T11:04:39.000Z",
           "wordCount": 100,
           "title": "Hi，Ghost"
-        },
-        {
-          "id": "https://immmmm.com/2019-2021-ncov/",
-          "author": null,
-          "description": "前一周还在说要进行全员核酸演练，这一周突然就一例本土确诊。一切发展超乎迅猛，唯一庆幸的是确诊者都一个街道，都是轻症。望，年前能恢复如初，至少不影响出行晒个太阳。",
-          "link": "https://immmmm.com/2019-2021-ncov/",
-          "publishedOn": "2021-12-11T03:02:16.000Z",
-          "wordCount": 50,
-          "title": "这不是演习"
         }
       ]
     },

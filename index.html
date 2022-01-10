@@ -235,6 +235,65 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2022-01-09">2022-01-09</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">AltTab – 让 Mac 像 Windows 一样使用 Alt + Tab 切换窗口</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/alttab-windows-alt-tab-on-macos/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>AltTab 是一款 macOS 应用，它可以让你的 Mac 像 Windows 一样使用 Alt + Tab 切换窗口时，可以预览窗口内容，快捷键是 option ⌥ + tab。原生支持 M1 芯</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://immmmm.com/">木木木木木</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">自制「单向历」网页版</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://immmmm.com/dan-xiang-li-page/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>在线体验：https://edui123.com/rili/
+Github 上找到一个 PHP 版的 calendar_api，调用非常方便。可为了一个 API 开个 PHP 也是够过分，其实也就为了解决两个问题：
+自动更新日期
+绕过 Referer 验证
+顺利访问以下图片地址：
+https://img.owspace.com/Public/uploads/Download/2022/0109.jpg
+寻思，直接 JavaScript 不香吗？
+完整代码直接右键查看页面源码即可，说明两点：更新日期 js 大法，Referer 头部加一句搞定。
+window.onload&#x3D;function(){getDate()}
+function getDate(){
+  var d&#x3D;new Date(),y&#x3D;d.getFullYear(),m&#x3D;d.getMonth()+1,n&#x3D;d.getDate();
+  m&#x3D;m&gt;9?m:&quot;0&quot;+m;n&#x3D;n&gt;9?n:&quot;0&quot;+n;
+  var img&#x3D; &quot;&quot;
+  document.getElementById(&quot;rili&quot;).innerHTML&#x3D;img
+}
+
+
+
+
+
+当然，API 的好处是方便调用，不用又是加 html 又是加 js 的，直接图片 src 调用地址即可：</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2022-01-08">2022-01-08</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -6072,40 +6131,6 @@ Bukele 想通过火山债券将比特币持有者的资金投入萨尔瓦多经�
     <ul class="sources card">
       <li class="source">
         <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.appinn.com">小众软件</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">中国国家图书馆发布《中华古籍资源库》可免登录浏览，包含 10 万部（件）古籍</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/zhonghuagujiziyuanku/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>来自中国国家图书馆，国家古籍保护中心公众号的消息：“中华古籍资源库” 10万部（件）古籍免登录浏览。@Appinn 《中华古籍资源库》网址： http://www.nlc.cn/pcab/zy/zhg</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://immmmm.com/">木木木木木</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">这不是演习</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://immmmm.com/2019-2021-ncov/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>前一周还在说要进行全员核酸演练，这一周突然就一例本土确诊。一切发展超乎迅猛，唯一庆幸的是确诊者都一个街道，都是轻症。望，年前能恢复如初，至少不影响出行晒个太阳。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.zhihu.com/people/ningnanshan">宁南山 - 知乎动态</a></h3>
           <section class="articles-per-source">
             <article>
@@ -6190,108 +6215,13 @@ Bukele 想通过火山债券将比特币持有者的资金投入萨尔瓦多经�
                 </a>
               </details>
             </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Google 准备将 Android 游戏带到 Windows 平台</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69966">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>微软正与亚马逊等公司合作让包括游戏在内的 Android 应用能运行在 Windows 11 平台。现在，Google 准备了应对措施，将 Android 游戏带到所有 Windows 平台，不限于 Windows 11。Google 将在 2022 年发布 Google Play Games app，允许  Google Play 上的游戏应用能运行在 Windows 笔记本、平板和 PC 上。Google 自己开发了该应用，没有与微软等公司合作，将允许在不同平台上持续游戏，比如在手机上玩了之后可以在 PC 上恢复继续游戏。Google 没有透露它在 Windows 上模拟 Android 应用所采用的技术。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Better.com CEO 被停职</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69965">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>Better.com 董事会通知雇员，在引发广泛争议之后 CEO Vishal Garg 被停职即时生效，CFO Kevin Ryan 临时代理 CEO 职务。Vishal Garg 此前被爆出通过 Zoom Call 解雇 900 名雇员。他还爆出其它不良行为，包括通过邮件攻击雇员，威胁烧死合作伙伴。公司雇员和前雇员称，Vishal Garg 利用恐惧的手段去管理公司，通过威胁雇员让他们更努力更快的工作，不要偷懒。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-12-10">2021-12-10</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://css-tricks.com">CSS-Tricks</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Why would a business push a native app over a website?</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/why-would-a-business-push-a-native-app-over-a-website/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(7 min)</span>
-                    <span>I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Using Position Sticky With CSS Grid</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/using-position-sticky-with-css-grid/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>Say you’ve got a two-column CSS grid and you want one of those columns to behave like position: sticky;. There is nothing stopping you from doing that. But the default height for those two columns is going to be …</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Standardizing Focus Styles With CSS Custom Properties</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>Take two minutes right now and visit your current project in a browser. Then, using only the Tab key, you should be able to navigate between interactive elements including buttons, links, and form elements.
-If you are sighted, you should…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.solidot.org">奇客Solidot–传递最新科技情报</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">英国法庭裁决 Julian Assange 能被引渡到美国</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69964">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>美国在伦敦高等法院赢得上诉，事关引渡维基解密创始人阿桑奇(Julian Assange)以面对刑事指控，包括违反间谍法与合谋入侵政府电脑。“法院允许上诉，”法官 Timothy Holroyde 说。法官说，他对美国就阿桑奇的拘留条件作出的一揽子保证感到满意，包括承诺不将他关押在科罗拉多州所谓的“ADX”最高安全监狱，以及如果他被定罪将被转移到澳大利亚服刑。这项裁决使阿桑奇离被引渡又近了一步，但仍有进一步的障碍。Holroyde 说，现在必须将此案发回威斯敏斯特地方法院，由法官将其交给英国政府决定是否将阿桑奇引渡到美国。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">EFF 就 Manifest V3 警告 Chrome 用户</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;69963">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>Google 本月初通知扩展开发者，宣布从 2022 年 1 月 17 日起 Chrome Web Store 将停止接受可见性设为 Public 或 Unlisted 的新 Manifest V2 扩展，到 6 月这一限制将扩大到设为 Private 的新扩展。Google 开始加速推广受争议的 Manifest V3 扩展。在安全、隐私和性能的名义下，Manifest v3 限制了广告和内容屏蔽功能，对扩展规则的数量设置了上限。此举将严重影响广告和内容屏蔽扩展的可用性。电子前哨基金会 EFF 就此向 Chrome 用户发出警告，称 Manifest V3 将严重损害到隐私保护方面的工作，Manifest V3 将限制广告和内容屏蔽扩展的性能， Google 是最大的网络广告公司，它的跟踪器安装在四分之三的网站上。它的限制“让人不寒而栗”。</span>
-                  </div>
-                </a>
-              </details>
-            </article>
         </section>
       </li>
     </ul>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2022-01-09T01:05:18.216Z">2022-01-09T01:05:18.216Z</time>
+    <time id="build-timestamp" datetime="2022-01-10T01:00:57.341Z">2022-01-10T01:00:57.341Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.3</a></span>
   </footer>
   <script src="index.js"></script>
