@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-01-11T01:04:13.980Z</updated>
+    <updated>2022-01-12T01:02:54.560Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Would it Take to Prevent CSS Tooltips From Overflowing?]]></title>
+        <id>https://css-tricks.com/?p=360490</id>
+        <link href="https://css-tricks.com/can-css-prevent-tooltips-from-overflowing/"/>
+        <updated>2022-01-11T23:18:56.000Z</updated>
+        <summary type="html"><![CDATA[Say you have an elements with CSS tooltips and you’re going to position those tooltips such that it opens up next to the element on hover (or probably better: when clicked/tapped). Next to it where? Above it? What if the …
+What Would it Take to Prevent CSS Tooltips From Overflowing? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[还有完没完，怎么又来了个 scrollbar-gutter？]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=10268</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2022/01/css-scrollbar-gutter/"/>
+        <updated>2022-01-11T17:02:14.000Z</updated>
+        <summary type="html"><![CDATA[一不留神，又冒出个新的CSS属性scrollbar-gutter，一研究，发现还挺实用，赶快和大家分享分享。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Vite to Your Existing Web App]]></title>
+        <id>https://css-tricks.com/?p=359243</id>
+        <link href="https://css-tricks.com/adding-vite-to-your-existing-web-app/"/>
+        <updated>2022-01-11T15:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Vite (pronounced “veet”) is a newish JavaScript bundler. It comes batteries-included, requires almost no configuration to be useful, and includes plenty of configuration options. Oh—and it’s fast. Incredibly fast.
+This post will walk through the process of converting an existing …
+Adding Vite to Your Existing Web App originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 内部秘密项目试图“说服”员工相信“工会很糟糕”]]></title>
+        <id>https://www.solidot.org/story?sid=70320</id>
+        <link href="https://www.solidot.org/story?sid=70320"/>
+        <updated>2022-01-11T09:30:59.000Z</updated>
+        <summary type="html"><![CDATA[国家劳工关系委员会（NLRB）的裁决披露了 Google 高度机密的反工会行动，高管明确描述为“说服（员工）相信工会很糟糕”。
+
+法庭文件显示，该行动被称为 Project Vivian，于 2018 年底至 2020 年初在 Google 内部开展，以打击员工激进主义和工会组织活动。Google 的劳动法主管 Michael Pfyl 将 Project Vivian 描述为“让员工更加积极地投入并让他们相信工会很糟糕”的一项举措。 NLRB 的法官在 1 月 7 日的裁决中要求 Google 立即出示 180 份他审查过的、与 Project Vivian 相关的内部文件，包括含有 Pfyl 描述的文件。到目前为止，Google 以律师及当事人的特权为由，拒绝将这些文件交给代表权益受到侵害的前 Google 员工的律师。作为 NLRB 针对该公司诉讼的一部分，这些被解雇的员工为文件申请了传票。2019 年，这些员工在组织反对 Google 同移民拘留机构签署合同的活动后遭到解雇。2020 年底，NLRB 针对 Google 非法解雇并监视四名软件工程师发起了联邦诉讼。Google 当时声称并一直坚持表示解雇这些员工是因为他们违反了安全协议。2019 年，Google 员工发现公司聘用了名为 IRI Consultants 的工会回避组织。IRI Consultants以协助雇主开展反工会运动闻名，他们收集工人个性、财务、职业道德、动机和种族的信息，以打击工会运动。当时 Google 正面临着前所未有的员工抗议浪潮，以及针对与性骚扰、与国防部、美国海关和边境保护局签订的合同等问题的激进主义浪潮。
+
+
+
+在对 Project Vivian 相关文件的裁决中，NLRB 的法官描述了他审查的证据，Google 律师提议寻找一个“受人尊敬的声音发布一份评论，描述有工会的科技职场会是什么样子，并劝告 FB（Facebook）、MSFT（Microsoft）、Amazon 和 Google 员工不要这样做。”Google 人力资源总监 Kara Silverstein 表示，她“喜欢这篇评论的观点”，但是它的执行方式应该“不留下指纹，不专门针对 Google。”法官透露，IRI Consultants 最终向 Google 律师提供了一份该评论的草稿。与 Google 的 Project Vivian 相关的机密文件还显示，“聘请 IRI 的决定不是由律师做出的，而是由一个主要由非律师组成的团体做出的”，其中包括 Google 人力资源总监Silverstein 和 Google 员工敬业度副总裁 Danielle Brown。法官的报告称，Project Vivian 还包括对 Google员工“反对强制仲裁”的讨论。结束 Google 的强制仲裁以前一直是 Google 员工活动人士的重要目标。2019 年 2 月，在员工抗议后，公司同意结束强制仲裁。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moxie Marlinspike 辞去 Signal CEO 一职]]></title>
+        <id>https://www.solidot.org/story?sid=70319</id>
+        <link href="https://www.solidot.org/story?sid=70319"/>
+        <updated>2022-01-11T07:44:42.000Z</updated>
+        <summary type="html"><![CDATA[Signal 创始人 Moxie Marlinspike 宣布辞去 CEO 一职，在寻找到接替者之前执行主席 Brian Acton 将担任临时 CEO。Signal 是广泛使用的端对端加密消息应用，月活跃用户超过 4000 万。Signal 公司是一个非盈利组织，没有广告和应用销售，主要依靠捐赠和支持者计划（sustainer program）。Marlinspike 解释说，他想引入一个充满活力的人去充分利用 Signal 的潜力。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avira 在 Norton 360 之后整合加密货币挖矿程序]]></title>
+        <id>https://www.solidot.org/story?sid=70318</id>
+        <link href="https://www.solidot.org/story?sid=70318"/>
+        <updated>2022-01-11T06:54:15.000Z</updated>
+        <summary type="html"><![CDATA[知名安全产品 Norton 360 上周被发现整合了加密货币挖矿程序。但没有默认激活。另一款流行的安全软件 Avira 也在做同样的事情，与 Norton 类似用户需要选择加入才能激活挖矿。与 Norton 不同的是 Avira 未披露它的分成（Norton 是 15%）。Avira 在 FAQ 中称，挖矿程序 Avira Crypto 允许利用计算机的闲置算力挖掘以太坊，挖矿需要高处理能力，不适合普通计算机，即使计算机配置足够高，用户仅仅靠自己挖掘的回报也很低，因此最佳做法是加入矿池，共享算力和回报。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用最低的技术力，写了一个强制断网的 BAT：我不想摸鱼]]></title>
+        <id>https://www.appinn.com/?p=41101</id>
+        <link href="https://www.appinn.com/qiangzhi-duanwang/"/>
+        <updated>2022-01-11T05:59:07.000Z</updated>
+        <summary type="html"><![CDATA[来自社区的 @OneNote 同学刚刚分享了帖子：用最低的技术力，写了一个强制断网的BAT。事情大概是这样的： 本人甚懒，工作时经常走神，干着干着就会上网摸鱼。为了提升工作效率，为自己设置一个番茄钟来]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Mint 与 Mozilla 达成交易]]></title>
+        <id>https://www.solidot.org/story?sid=70317</id>
+        <link href="https://www.solidot.org/story?sid=70317"/>
+        <updated>2022-01-11T05:40:28.000Z</updated>
+        <summary type="html"><![CDATA[基于 Ubuntu 的 Linux Mint 发行版与 Mozilla 达成了一笔未披露金额的交易，目的是修改 Linux Mint 上的 Firefox 配置。从 Linux Mint 19 开始，Firefox 的默认起始页将不再指向 https://www.linuxmint.com/start/，默认搜索引擎不再是 Linux Mint 的搜索合作伙伴如 Yahoo 和 DuckDuckGo，而是 Mozilla 的搜索合作伙伴如 Google、Amazon、Bing、DuckDuckGo、Ebay...默认配置切换到 Mozilla 默认。Firefox 的代码更新也将都由 Mozilla 负责。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[松下提供四天工作制]]></title>
+        <id>https://www.solidot.org/story?sid=70316</id>
+        <link href="https://www.solidot.org/story?sid=70316"/>
+        <updated>2022-01-11T04:54:58.000Z</updated>
+        <summary type="html"><![CDATA[去年日本政府宣布支持企业实施 4 天工作制，以帮助员工更好的在生活与工作之间取得平衡。现在，松下将这项建议付诸实践，宣布计划向其日本员工提供四天工作制，以提高生产力和吸引人才。四天工作制已在许多地方实施，有一些是徒有其名，即将五天的工作时间压缩到四天，总工作时间未减少多少，还有部分是确确实实的减少工作时间。松下表示在实施四天工作制后给与员工更多个人时间追求个人兴趣。具体细节将由各个运营公司确定。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take-Two 以 127 亿美元收购 Zynga]]></title>
+        <id>https://www.solidot.org/story?sid=70315</id>
+        <link href="https://www.solidot.org/story?sid=70315"/>
+        <updated>2022-01-11T03:54:17.000Z</updated>
+        <summary type="html"><![CDATA[Take-Two 宣布以 127 亿美元收购手游开发商 Zynga。Zynga 最著名的社交游戏是《FarmVille》和《Words With Friends》。手游市场规模已超过其它类型的游戏，如腾讯旗下的《王者荣耀》和《使命召唤手游》开发商天美 2020 年的收入达到了 100 亿美元，动视暴雪在 2015 年以 59 亿美元收购《糖果粉碎传奇》的开发商 King，而 《糖果粉碎传奇》系列产生的收入超过了《使命召唤》系列或《魔兽世界》。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Native Custom Fields in WordPress (and 5 Useful Examples)]]></title>
+        <id>https://css-tricks.com/?p=360061</id>
+        <link href="https://css-tricks.com/use-custom-fields-in-wordpress/"/>
+        <updated>2022-01-11T00:41:48.000Z</updated>
+        <summary type="html"><![CDATA[Custom Fields in WordPress are arbitrary bits of data that you can apply to Posts, Pages, and Custom Post Types in WordPress. Metadata, as it were, in the form of key/value pairs. For example:
+Key: subtitle / Value: They are 
+…
+How to Use Native Custom Fields in WordPress (and 5 Useful Examples) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is Chromium Without Chrome on Top?]]></title>
         <id>https://css-tricks.com/?p=360873</id>
@@ -5017,238 +5139,6 @@ As browsers have become faster and more powerful over the last decade, front-end
         <summary type="html"><![CDATA[本文介绍 4 个很多前端开发不知道的可以提升用户体验的 media 媒体查询语句，希望可以帮到大家的学习。]]></summary>
         <author>
             <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[要想看到千万亿分之一秒内的蛋白质变化，请用 AI]]></title>
-        <id>https://www.solidot.org/story?sid=69987</id>
-        <link href="https://www.solidot.org/story?sid=69987"/>
-        <updated>2021-12-13T10:45:25.000Z</updated>
-        <summary type="html"><![CDATA[有没有因为一个人移动得太快而让一张本该完美的照片变模糊？科学家在记录蛋白质因为光改变结构的图像时遇到同样的问题。这个过程在自然界中很常见，多年来研究人员一直在试图捕捉它的细节。但他们长期以来一直被发生时的惊人速度挫败。
-
-
-现在一组来自威斯康星大学密尔沃基分校（UWM）和德国 Deutsches Elektronen-Synchrotron 自由电子激光科学中心的研究人员将机器学习和量子力学计算结合起来，得到了迄今为止光活性黄蛋白（PYP）被光激发后最精确的结构变化记录。他们的研究发表在 11 月的《自然》期刊上，表明他们能将发生在几个飞秒内的过程制作成视频。
-
-
-当 PYP 吸收光时，它会吸收其能量，然后重新排列自身。由于该蛋白质在细胞内的功能是由其结构决定的，每当PYP在光照后折叠或弯曲，都会引起巨大的变化。UWM 的物理学家、研究合作者 Abbas Ourmazd 表示，蛋白质与光相互作用的一个重要例子是植物的光合作用。未参与研究的亚利桑那州立大学应用结构发现生物设计中心主任 Petra Fromme 解释说，更具体地说，PYP 类似于我们眼睛中的蛋白质，当一种叫做视网膜的蛋白质改变形状时，会激活感光细胞，帮助在夜间看到东西。Fromme 指出，PYP 的形状变化还有助于一些细菌检测到可能对其DNA造成损害的蓝光，从而躲开它。
-
-
-多年来，这种重要的光诱导分子形状转变（称为异构化）的细节一直困扰着科学家。Fromme 表示：“你看任何一本教科书，都会说这种异构化会在光激发后的瞬间发生。”但是对于科学家来说，“瞬间”并不是无法量化的——蛋白质结构的变化在极短的时间内发生——被称为飞秒或千万亿分之一秒。Fromme表示，一秒之于飞秒就相当于 3200 万年之于一秒。
-
-
-科学家用同样短的X射线闪光实验性地探测这些短得令人难以置信的时间尺度。新研究使用了一个研究团队在加利福尼亚 SLAC 国家加速器实验室的一个特殊设施中以这种方式获得的数据，团队是由 UWM 物理学家 Marius Schmidt 领导。研究人员首先用光照射 PYP。然后用超短 X 射线爆击中它。从蛋白质反射回来的 X 射线（成为衍射X射线）反映了它的最新结构，这和从物体发射的光帮助拍摄传统照片的方式是一样的。脉冲的短暂性使科学家能在蛋白质的所有原子移动时获得位置的快照，这种方式类似于具有速度非常快的快门可以在猎豹奔跑时捕捉到它的腿的不同位置。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter 称特朗普因封号提起的言论自由诉讼搞错了对象]]></title>
-        <id>https://www.solidot.org/story?sid=69986</id>
-        <link href="https://www.solidot.org/story?sid=69986"/>
-        <updated>2021-12-13T10:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 要求联邦法官驳回特朗普（Donald Trump）关于他因煽动美国国会骚乱而被禁止进入该平台的诉讼，称是该公司而不是这位前总统的言论自由权利受到了威胁。在圣弗朗西斯科联邦法庭文件中，Twitter 及其首席执行官 Jack Dorsey 表示，Twitter 的第一修正案权利在此案中处于“风口浪尖”，因为特朗普质疑的编辑决定涉及公共关注的问题，包含了对权力和平交接的威胁。该公司在周四晚些时候提交的文件中表示，特朗普“同意遵守 Twitter 的规则，但是却一再违反这些规则”——在他的暴徒支持者对国会大厦进行致命袭击之前、期间和之后，他的推文“可能会鼓励进一步的暴力。”该公司表示，特朗普的言论自由主张也无视了“Twitter 是一个私方当事人，不受联邦宪法约束”。政府“不能强迫 Twitter 之类的私营在线平台传播他们不赞同的言论。”特朗普正在与 Twitter、Meta Platforms 旗下的 Facebook 和 Alphabet 旗下的 Google 的禁令或暂时封禁作斗争，他指责这些科技巨头试图压制保守派的观点并侵犯他的言论自由权利。他也在积极推进计划，成立一家“非觉醒”娱乐和新闻的新媒体公司，其中包含一个竞争性的社交媒体平台。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“鸟不是真的”抗议活动的背后]]></title>
-        <id>https://www.solidot.org/story?sid=69985</id>
-        <link href="https://www.solidot.org/story?sid=69985"/>
-        <updated>2021-12-13T10:28:31.000Z</updated>
-        <summary type="html"><![CDATA[匹兹堡、田纳西州的孟菲斯和洛杉矶最近出现巨大广告牌，上写“鸟类不是真的”（Birds Aren't Real）。在 Instagram 和 TikTok 上，“鸟类不是真的”的账户吸引了成千上万的关注者，关于该主题的视频在 YouTube 疯狂传播。上个月，“鸟类不是真的”支持者甚至在 Twitter 旧金山总部外抗议，要求该公司修改其鸟形的 Logo。
-
-
-这些都与一个Z世代推动的阴谋论有关，该说法假设鸟类并不存在，它们实际上是美国政府用于监视美国人的无人机。数十万年轻人加入了这场运动，穿着“鸟类不是真的”的T恤，举行集会，传播口号。它可能带有 QAnon 的味道，QAnon是一种阴谋论，认为世界由贩卖儿童的民主党精英政治阴谋集团控制的。不过“鸟类不是真的”运动的创造者和追随者是在开玩笑：实际上他们知道鸟类是真实的，而他们的理论是捏造的。
-
-
-他们表示，“鸟类不是真的”其实是一场有目的的戏仿社会运动。在一个被网络阴谋论主导的后真相世界里，年轻人齐心协力对抗错误信息，对它嗤之以鼻并拿来取笑。这是Z世代以荒谬的方式颠覆“兔子洞”的尝试——很多“鸟类不是真的”的成员都是一个名为 Bird Brigade——一个脚踏实地的激进主义网络的成员，他们在一个充斥着错误信息的世界中长大。一些人的亲属成了阴谋论的受害者。因此，对于Z世代的成员来说，这项运动已经成为集体应对这些经历的一种方式。通过扮演阴谋论者，他们找到了群体和亲切感。（这是 23 岁的 Peter McIndoe 的说法，他在 2017 年一时兴起创造了“鸟类不是真的”。）
-
-
-21 岁的 Cameron Kasky 是佛罗里达州帕克兰市的一名激进分子，他在 2018 年帮助组织了学生抗议枪支暴力的“为我们的生命游行”并参与了“鸟类不是真的”，他表示这种戏仿“让你停下来笑一笑。在独特而无望的成年时期，一起笑一笑并没有什么坏处。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列研究发现加强针可将新冠死亡率降低 90%]]></title>
-        <id>https://www.solidot.org/story?sid=69984</id>
-        <link href="https://www.solidot.org/story?sid=69984"/>
-        <updated>2021-12-13T09:57:30.000Z</updated>
-        <summary type="html"><![CDATA[以色列的一项研究追踪了超过 843,000 名接种了两剂辉瑞疫苗的人，关注了 758,000 名随后接种加强针的人的效果。数据显示，与仅接种两剂疫苗的人相比，接种过加强针的人死于德尔塔（Delta）变种感染的可能性要低 90%。美国国家传染病基金会医学主任 William Schaffner 博士表示，随着德尔塔变种继续在整个美国占据主导地位，这种保护在接下来的几个月中将变得至关重要。Schaffner 表示：“虽然我们全神贯注于奥密克戎变种（Omicron），但你需要记住，德尔塔变种今天基本上存在于美国的每一个城镇和城市——不断传播，感染新的人，把人们送进医院，在这个国家的某些地区再次给医疗保健系统带来压力。虽然美国出现了奥密克戎变种，但是今天所有的新感染中有95%以上都是由德尔塔变种引起的。”以色列的第二项研究侧重于感染和疾病的严重程度，它也带来了加强针防御德尔塔变种的好消息。研究涉及了将近 470 万以色列人，他们完全接种了辉瑞的疫苗并符合加强针的接种条件。研究人员报告称，在接种了辉瑞加强针的人群中，确诊感染率降低了 10 倍。此外结果表明，加强针在人体系统的效果存在的时间越长，他们对德尔塔毒株的感染就越有抵抗力。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币在萨尔瓦多失败了。解决之道是更多的比特币吗？]]></title>
-        <id>https://www.solidot.org/story?sid=69983</id>
-        <link href="https://www.solidot.org/story?sid=69983"/>
-        <updated>2021-12-13T09:47:15.000Z</updated>
-        <summary type="html"><![CDATA[萨尔瓦多尝试将比特币作为美元之外的第二个法币。但时至今天超过 91% 的萨尔瓦多人想要美元，而不是比特币。官方 Chivo 支付系统于 9 月推出，当时它并不可靠——对于新系统来说，这是一个“死亡之吻”。用户在注册时可获得 30 美元的奖励，他们会把它花掉或者兑现，然后再不使用 Chivo。系统完全无法检查新用户的照片，仅依靠国民身份证号码和出生日期进行验证；因此出现了大规模的身份欺诈以窃取注册奖励。只有有抱负的日内交易者才喜欢比特币剧烈到荒谬的价格波动。反对强制推行比特币的大规模街头抗议活动一直持续到 10 月份。政府停止在广播、电视和社交媒体上宣传 Chivo。Chivo 巴士和小货车的车身可以看到塑料胶带贴在该公司的 logo 上。
-
-
-总统 Nayib Bukele 的财政问题依然存在。萨尔瓦多无法印制自己的货币，因此 Bukele 迫切需要资金支持其巨额的赤字支出。国际货币基金组织没有为该国提供 Bukele 要求的10亿美元的借款，且对其比特币计划表示了强烈的担忧。在 11 月 20 日的拉丁美洲比特币和区块链大会上，Bukele 在动画飞碟射下的光芒中登台，介绍了他的比特币城（Bitcoin City）计划：一个从头开始建造的新特许城市，以比特币挖矿为中心——由一座火山提供能源。从 2022 年年中开始，将发行 10 亿美元的“火山债券”以支付比特币城的费用。
-
-
-10 年期的火山债券将支付 6.5% 的年息。5 亿美元的债券收入将用于购买比特币。持有 10 万美元火山债券五年，投资者可以获得萨尔瓦多的公民身份。萨尔瓦多现有主权债务的持有人并不为所动。与购买该国现有债券并用比特币进行对冲的做法相比，火山债券更不靠谱。在火山债券公告发布后，现有债券从面值 75 美分跌至 63.4 美分的历史低点。
-
-
-Bukele 想通过火山债券将比特币持有者的资金投入萨尔瓦多经济，并将其变成美元。Bukele 会尽可能地厚着脸皮完成这一切，定期将新的计划摆在桌面上以分散注意力。如果他能保住权力，那么比特币用户就会发现他拿走了他们的钱。如果他失去了权柄，他的继任者不会喜欢他这些失败的比特币计划。无论是哪种结局，很多比特币用户都不免失望——因为一个国家的经济真的无法用一种价格剧烈变动而且受操纵的投机性商品作为货币。比特币用户和 Bukele 似乎都认为对方是打错算盘的傻瓜。双方可能都会输。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国法官根据国会暴动者社交媒体帖子给予更严厉的判决]]></title>
-        <id>https://www.solidot.org/story?sid=69982</id>
-        <link href="https://www.solidot.org/story?sid=69982"/>
-        <updated>2021-12-13T09:15:47.000Z</updated>
-        <summary type="html"><![CDATA[一名美国法官在判处一名国会山暴徒 41个月监禁之后补充道，“强烈建议”任何曾在 Facebook 和 Instagram 发布过类似帖子的人立即认罪。“如果根据我看到的证据进行审判，你逃不脱的。”本月早些时候，美国地区法官 Amy Jackson 公开宣读 Russell Peterson 关于这场骚乱的一些帖子，然后她判处这名宾夕法尼亚州的男子 30 天监禁。Peterson 在 Facebook 上写道：“总的来说，我玩得很开心。”该法官对 Peterson 表示，他的帖子让她“非常难以”对他宽大处理。到目前为止，司法部起诉这场暴乱的最大收获之一是社交媒体能发挥多大的作用，大部分最确凿的证据都是暴徒自己说的话和视频。FBI 特工从社交媒体平台根据传唤提交的公共帖子和记录中确定了许多骚乱者。检察官用这些帖子立案。法官现在引用被告自己的话和图像做出更严厉的判决。截至上周五，已有 50 多人因与暴乱有关的联邦罪行被判刑。根据美联社对法庭记录的统计，在这些案件中，至少有 28 起，检察官将被告在社交媒体上的帖子作为要求更严厉刑罚的证据。检察官还指控部分被告试图通过删帖销毁证据。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omi录屏专家 – 最高 4K、60FPS，可同时录制麦克风和系统声音的录屏工具[macOS]]]></title>
-        <id>https://www.appinn.com/?p=40803</id>
-        <link href="https://www.appinn.com/screen-recorder-by-omi/"/>
-        <updated>2021-12-13T07:59:38.000Z</updated>
-        <summary type="html"><![CDATA[Omi录屏专家是一款 macOS 下的录屏工具，最高 4K、60FPS 分辨率，支持录制屏幕与摄像头，可同时录制麦克风和系统声音，简单易用，功能全面，目前已在 Mac App Store 上架，免费。]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊仓库倒塌致死事故引发对手机禁令的质疑]]></title>
-        <id>https://www.solidot.org/story?sid=69981</id>
-        <link href="https://www.solidot.org/story?sid=69981"/>
-        <updated>2021-12-13T07:57:54.000Z</updated>
-        <summary type="html"><![CDATA[周五晚上，亚马逊一个仓库遭龙卷风袭击，部分建筑物倒塌，造成至少 6 人丧生。亚马逊对其员工实施了禁止使用手机的仓库管理政策。此次事件“加剧了对该政策的担忧”。
-
-
-来自印第安纳州亚马逊仓库的另一位员工表示，每当公司决定在极端天气事件来临时继续营业，她都会用完带薪休假。她表示，随身携带手机对于做出这些决定至关重要，尤其是涉及到突然发生的龙卷风风险。她表示：“坦率说，我不相信他们能保障我的安全。如果极为恶劣的天气要来，我想我应该能自己做出关于安全的决定……”美国国家气象局通过短信发送极端天气警报，让公众提前了解危险情况……龙卷风比飓风和暴风雪更难预测，但是气象局仍然会向沿途的人发出警告。工人表示，气象局在当地时间周五晚上 8 点左右发出警告，大约在风暴致使亚马逊爱德华兹维尔送货站倒塌前 30 分钟。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家发现新冠病毒如何逃逸免疫系统]]></title>
-        <id>https://www.solidot.org/story?sid=69980</id>
-        <link href="https://www.solidot.org/story?sid=69980"/>
-        <updated>2021-12-13T07:49:43.000Z</updated>
-        <summary type="html"><![CDATA[德克萨斯农工大学医学院研究人员的一项新发现有望带来防止新冠病毒在人体内增殖的新疗法。新冠病毒如何逃逸免疫系统的机制目前仍然所知甚少。德克萨斯农工大学医学院和北海道大学的研究人员最近发现了一种重要机制，可解释新冠病毒如何逃逸免疫系统并在人体内复制的。研究报告发表在《自然通讯》期刊上。论文的主要作者、医学院的客座教授 Koichi Kobayashi 博士表示：“我们发现新冠病毒携带了一种抑制基因，可抑制免疫系统中的人类基因，对破坏受感染的细胞至关重要。”按常理说，人类免疫系统中的细胞可通过破坏受感染细胞让病毒无法复制，从而控制病毒感染。执行这一过程必不可少的基因被称为 NLRC5，它调节主要组织相容性复合体（MHC）1类基因，此类基因创造了一条对提供抗病毒免疫至关重要的途径。Kobayashi 表示：“感染期间，NLRC5 基因的数量和活性会增加，以提高我们根除病毒的能力。我们发现新冠病毒之所以能如此容易地复制，是因为该病毒携带一种名为 ORF6 的抑制基因，这种基因可以抑制 NLRC5 的功能，从而抑制了 MHC1 类通路。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[婴儿释放的化合物能增加女性的攻击性减少男性的攻击性]]></title>
-        <id>https://www.solidot.org/story?sid=69979</id>
-        <link href="https://www.solidot.org/story?sid=69979"/>
-        <updated>2021-12-13T07:42:32.000Z</updated>
-        <summary type="html"><![CDATA[一种婴儿身上释放最为显著的无味化合物被发现能增加女性的攻击性减少男性的攻击性。被称为十六醛的化合物   HEX 能从人的皮肤、唾液和粪便中释放出来，是婴儿从头部释放出的最丰富分子之一。对小鼠的试验显示它能产生放松的作用。为了测试 HEX 对人类的影响，研究人员招募了 126 名参与者玩电脑游戏，其中一半人的嘴唇贴有注入 HEX 的胶带，另一半贴有相同的胶带但没有注入 HEX。结果显示，HEX 对男性和女性有着不同的影响，增加了女性的攻击性但遏制了男性的攻击性。HEX 被发现对人的大脑活动产生了不同的影响，减少了女性控制进攻性的大脑区域之间的神经交流，促进了男性相同大脑区域的神经交流。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯巴达人可能并无杀婴习俗]]></title>
-        <id>https://www.solidot.org/story?sid=69978</id>
-        <link href="https://www.solidot.org/story?sid=69978"/>
-        <updated>2021-12-13T06:20:31.000Z</updated>
-        <summary type="html"><![CDATA[大约公元前 100 年，希腊哲学家普鲁塔克在传记《莱库格斯的生活》中，叙述了古代斯巴达人是如何将新生儿交给长老委员会进行检查的。普鲁塔克写道，“健康强壮”的婴儿存活了下来，而那些被发现“出身卑微或畸形”的婴儿则被留在室外等待死亡，理由是后者的“自然生存条件差，既不利于他们自身，也不利于城市”。在此后的近 2000 年里，普鲁塔克的故事已经成为一个关于古希腊社会的被普遍接受的概念。但针对考古证据和文学资料的进一步研究表明，这个传说可能只是一个传说。加州州立大学长滩分校学者 Debby Sneed 在《Hesperia》上刊文提出，抛弃残疾婴儿并不是古希腊文化中被接受的一部分，即使这种情况偶有发生。一些考古证据也支持这一观点，表明出生时有严重健康问题的婴儿在出生后的一周内得到了照顾。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[商汤集团推迟香港 IPO]]></title>
-        <id>https://www.solidot.org/story?sid=69977</id>
-        <link href="https://www.solidot.org/story?sid=69977"/>
-        <updated>2021-12-13T06:05:54.000Z</updated>
-        <summary type="html"><![CDATA[AI 企业商汤集团周一宣布(pdf)，由于被美国财政部列入“非SDN中国军工复合体企业名单”，为保障有意投资者的利益并帮助彼等考虑该等最新事态发展对其投资决定的潜在影响，决定延迟上市及退回申请股款。该公司表示将刊发补充招股章程，补充招股章程修订及补充招股章程，将载有经更新上市时间表、香港发售股份的相关申请程序及其他相关资料。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本科学家开发疫苗消除衰老细胞]]></title>
-        <id>https://www.solidot.org/story?sid=69976</id>
-        <link href="https://www.solidot.org/story?sid=69976"/>
-        <updated>2021-12-13T05:45:34.000Z</updated>
-        <summary type="html"><![CDATA[日本科学家开发出一种疫苗，能清除衰老细胞（俗称僵尸细胞），这些细胞随着衰老慢慢积累，会损害附近的细胞，导致衰老相关疾病如动脉硬化。研究报告发表在上周的《Nature Aging》期刊上，对小鼠的试验显示僵尸细胞减少了，受动脉硬化影响的区域缩小了。衰老细胞指的是停止分裂但没有死亡的细胞，它们通过释放会导致炎症的化学物质损害附近的细胞。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 杀死 IE 插件 Google Toolbar]]></title>
-        <id>https://www.solidot.org/story?sid=69975</id>
-        <link href="https://www.solidot.org/story?sid=69975"/>
-        <updated>2021-12-13T05:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Google 终于杀死 IE 工具栏插件 Google Toolbar。Google Toolbar 是在 2000 年 12 月 11 日发布的，标志着搜索巨人首次踏足浏览器。今天它的浏览器 Google Chrome 占据了最大的市场份额，而微软自己已经放弃了 IE，用基于 Chromium 的 MS Edge 替代。在 Google Toolbar 发布之初，IE 占据了绝对垄断地位，Google 尝试使用多个插件去劫持 IE，Toolbar 是第一个，它让搜索变得无处不在。它甚至还为 IE 引入了新功能，包括高亮搜索词，弹出窗口屏蔽，拼写检查、自动填充和 Google 翻译。它最终在 2008 年发布了 Google Chrome，Toolbar 之类的插件逐渐过时，但直到上周它才被真正杀死。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[文章] 他们是战败国：总结下日本参与南京大屠杀的各个部队及元凶的结局]]></title>
-        <id>https://zhuanlan.zhihu.com/p/444660364</id>
-        <link href="https://zhuanlan.zhihu.com/p/444660364"/>
-        <updated>2021-12-13T04:11:13.000Z</updated>
-        <summary type="html"><![CDATA[本文写一下参加了南京大屠杀的日军部队的结局。
-日本在华东地区进攻南京时，组成了华中方面军。
-华中方面军下辖上海派遣军（第3师团、第9师团、第11师团、第13师团、第101师团、第16师团），以及1937年10月第10军（第6师团、第18师团、第114师团），总共有九个师团。
-另外在上海派遣军旗下还有来自台湾军（台湾守备混成旅团）的重藤支队，支队长是重藤千秋，不过该支队在1937年12月初被编入日军第五军作战序列，并没有参加进攻南京的作战。
-
-
-网上有谣言说台湾兵参与了南京大屠杀，中国人杀中国人的悲剧，这是错误的，首先重腾支队没有参加直接进攻南京，其次虽然日军在台湾的部队名字叫台湾军，但是兵员都是日本人，主要来自日本九州。
-日军在1942年才开始在台湾实施志愿兵制度，到了1945年初才在台湾实行全面征兵制度。据日本厚生省统计，从1942年到至日本投降时止，总计80433名台湾青壮年加入日本军队，这些人大部分被投入到太平洋战场，也有一部分到了中国大陆。
-另外从1937年-1945年，日本在台湾征集了126750名军夫（军属）。
-以上总计有207183名台湾人。
-
-
-他们是战败国：总结下日本参与南京大屠杀的各个部队及元凶的结局
-据《中国战区中国陆军总司令部受降报告书》，1945年在中国各地受降的日军人员中有台湾人37700名（其中海南岛20335名，广东9618名），这个数字包括了台籍士兵和军夫。
-在1937年抗战全面爆发后，日军中的台湾人只以军夫的形式存在，实际上就是苦力，他们是没有配置武器的非战斗人员，没有枪支，刺刀和军刀这些武器。
-不仅如此，在现在南京大屠杀幸存者的证言，以及在南京西方人的回忆录，以及日军士兵日志以及日军作战记录中，均没有台湾人参与屠杀的记载。
-
-
-这九个师团中，进攻南京并且制造大屠杀的主力师团主要是第6师团，第9师团，第114师团和第16师团。除了以上四个…]]></summary>
-        <author>
-            <name>宁南山</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok 算法如何让用户上瘾]]></title>
-        <id>https://www.solidot.org/story?sid=69974</id>
-        <link href="https://www.solidot.org/story?sid=69974"/>
-        <updated>2021-12-13T02:43:57.000Z</updated>
-        <summary type="html"><![CDATA[字节跳动北京工程团队编辑了《TikTok算法101》的文件，向非技术人员解释平台使用的算法。TikTok 的算法有四个主要目标：用户价值、长期用户价值、作者价值和平台价值。文件中直白地写道，为追求公司增加日活用户的“终极目标”，对提供给用户的视频内容流，它选择性地优化了两大密切相关的指标：“留存率”——即用户是否回访——以及“访问时长”。文件声称，观看时长并不是 TikTok 考虑的唯一因素。它提供了一个简略的视频评分公式，在这个公式中，根据机器学习和实际用户行为得出的预测结果可以用三种数据概括：点赞、评论和播放时长，以及视频被播放的痕迹：P点赞*V点赞+P评论*V评论+E播放时长*V播放时长+P播放*V播放。“推荐系统会根据这个公式给所有视频打分，并将得分最高的视频反馈给用户，”文件中写道。“为简洁起见，本文档所示的公式经过了高度简化。实际使用的公式要复杂得更多，但背后的逻辑是一样的。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[文章] 精读《深入了解现代浏览器三》]]></title>
-        <id>https://zhuanlan.zhihu.com/p/444558882</id>
-        <link href="https://zhuanlan.zhihu.com/p/444558882"/>
-        <updated>2021-12-13T01:19:04.000Z</updated>
-        <summary type="html"><![CDATA[Inside look at modern web browser 是介绍浏览器实现原理的系列文章，共 4 篇，本次精读介绍第三篇。
-概述
-本篇宏观的介绍 renderer process 做了哪些事情。
-浏览器 tab 内 html、css、javascript 内容基本上都由 renderer process 的主线程处理，除了一些 js 代码会放在 web worker 或 service worker 内，所以浏览器主线程核心工作就是解析 web 三剑客并生成可交互的用户界面。
-解析阶段
-首先 renderer process 主线程会解析 HTML 文本为 DOM（Document Object Model），只译为中文就是文档对象模型，所以首先要把文本结构化才能继续处理。不仅是浏览器，代码的解析也得首先经历 Parse 阶段。
-对于 HTML 的 link、img、script 标签需要加载远程资源的，浏览器会调用 network thread 优先并行处理，但遇到 script 标签就必须停下来优先执行，因为 js 代码可能会改变任何 dom 对象，这可能导致浏览器要重新解析。所以如果你的代码没有修改 dom 的副作用，可以添加 async、defer 标签，或 JS 模块的方式使浏览器不必等待 js 的执行。
-样式计算
-只有 DOM 是不够的，style 标签申明的样式需要作用在 DOM 上，所以基于 DOM，浏览器要生成 CSSOM，这个 CSSOM 主要是基于 css 选择器（selector）确定作用节点的。
-布局
-有了 DOM、CSSOM 仍然不足以绘制网页，因为我们仅知道结构和样式，但不知道元素的位置，这就需要生成 LayoutTree 以描述布局的结构。
-LayoutTree 和 DOM 结构很像了，但比如 display: none 的元素不会…]]></summary>
-        <author>
-            <name>黄子毅</name>
         </author>
     </entry>
 </feed>
