@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-13T01:05:40.698Z</updated>
-    <generator>osmosfeed 1.12.1</generator>
+    <updated>2022-02-14T00:59:04.084Z</updated>
+    <generator>osmosfeed 1.13.0</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amphetamine – 自动化防睡眠工具：指定程序运行、下载中、定时、指定 Wi-Fi、外接显示器等条件[macOS]]]></title>
+        <id>https://www.appinn.com/?p=41360</id>
+        <link href="https://www.appinn.com/amphetamine/"/>
+        <updated>2022-02-13T06:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Amphetamine 是一款 macOS 上的自动化防止睡眠工具，它能够通过制定程序运行时、下载中、定时等多种条件来防止 Mac 电脑进入休眠状态。另外还能通过 Trigger 实现外接显示器、US]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.13.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
+        <updated>2022-02-13T05:05:17.000Z</updated>
+        <summary type="html"><![CDATA[New: Thumbnail image display for each article
+New: Improved color, spacing, and typography for easier reading
+New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
+Changed: All sections are expanded by default
+Changed: Switched to vitest for easier testing
+Fixed: Long string (e.g. URL) caused horizontal overflow
+Thank you: @naari3, @tianheg]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.12.1]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
@@ -53,6 +79,36 @@ Thank you: @naari3]]></summary>
 该…]]></summary>
         <author>
             <name>宁南山</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韦伯望远镜公布首幅照片]]></title>
+        <id>https://www.solidot.org/story?sid=70638</id>
+        <link href="https://www.solidot.org/story?sid=70638"/>
+        <updated>2022-02-12T13:53:18.000Z</updated>
+        <summary type="html"><![CDATA[韦伯太空望远镜第一阶段的主镜调整接近完成，它公布了近红外相机拍摄的首幅照片。望远镜的主镜由 18 块六角形的镜片构成，尚未调整完毕，照片是同一颗恒星在 18 块镜片上的反射光，构成了 18 个点。拍摄对象是 HD 84406，位于大熊星座，亮度稳定，是一个完美的早期观测对象。而在韦伯完成镜片调整之后，它会因为亮度太亮而无法观测。NASA 表示对镜片的调整相当顺利。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔的矿机叫区块链加速器]]></title>
+        <id>https://www.solidot.org/story?sid=70637</id>
+        <link href="https://www.solidot.org/story?sid=70637"/>
+        <updated>2022-02-12T13:33:42.000Z</updated>
+        <summary type="html"><![CDATA[英特尔将在本月 20 日召开的国际固态电路大会(International Solid-State Circuits Conference)上宣布它的 ASIC 矿机。现在它透露了更多消息，它的矿机不叫矿机而是美名为区块链加速器。英特尔负责显卡业务的总经理 Raja Koduri 称，该公司的区块链加速器在基于 SHA-256 算法的挖矿上的每瓦性能是主流显卡的一千多倍。比特币的挖矿算法就是基于 SHA-256。英特尔在区块链加速器上的合作伙伴包括了 Argo Blockchain、Block (前称 Square) 和 Griid Infrastructure。 Koduri 声称区块链加速器使用的硅芯片很小，对现有产品的供应影响甚微。芯片巨人的首款区块链加速器预计将在今年晚些时候面世。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve 在 CC 许可证下公开 Steam Deck 外壳 CAD 文件]]></title>
+        <id>https://www.solidot.org/story?sid=70636</id>
+        <link href="https://www.solidot.org/story?sid=70636"/>
+        <updated>2022-02-12T11:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Valve 的 Linux 掌机 Steam Deck 即将在月底发售，届时玩家和用户都有权拆开或改造掌机，虽然这可能会导致保修失效(如果期间出现损坏的话)。为了贯彻这一开放精神，Valve 宣布在知识共享（Creative Commons）许可协议下公开 Steam Deck 外壳（曲面拓扑）的 CAD 文件，其中包括 STP 模型、STL 模型和供各位参考的图画（DWG）。文件托管在 Gitlab 上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -2724,127 +2780,6 @@ Trove 仍然是 DRM-free，但新的 Games Collection 库没有这一承诺。]]
 坚决不脱钩，维持我们的增长，中国的本质力量越是强壮，则对方谈论脱钩就越是困难，而且脱钩也会变得越是没有意义，就像那句我们熟悉的话说的，在绝对的力量差距面前，技巧会变得意义不大了。]]></summary>
         <author>
             <name>宁南山</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《针对空间分析的Python基础教程》翻译完毕]]></title>
-        <id>https://www.solidot.org/story?sid=70379</id>
-        <link href="https://www.solidot.org/story?sid=70379"/>
-        <updated>2022-01-15T10:56:24.000Z</updated>
-        <summary type="html"><![CDATA[CycleUser 写道 "关注空间数据的Python编程语言导论
-原版地址：https://courses.spatialthoughts.com/python-foundation.html
-CycleUser
-
-这个课程讲的是非常基础的Python内容。针对的是缺乏编程基础经验也不太了解Python的GIS从业者。主要会介绍基础编程概念和用于空间分析的基础库，地学空间接口（geospatial API）和构件空间数据处理通道的各种技术。
-https://blog.cycleuser.org/zhen-dui-kong-jian-fen-xi-de-pythonji-chu-jiao-cheng.html
-我是自己人工翻译的，质量未必顶级，可读性估计还行。
-协议：
-CC BY-NC 4.0"]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel第12代处理器停止对SGX支持]]></title>
-        <id>https://www.solidot.org/story?sid=70378</id>
-        <link href="https://www.solidot.org/story?sid=70378"/>
-        <updated>2022-01-15T10:54:15.000Z</updated>
-        <summary type="html"><![CDATA[HardenedVault 写道 "近期相传已久关于Intel在新处理器中停止对SGX支持的消息得到了确认，第12代处理器将放弃所有SGX特性。Intel官方的解释是处于市场的考虑而最终作出的决定，会有包括蓝光防盗版DRM在内的诸多应用受到影响。Intel SGX（software guard extension）是自从2015年发售的第6代处理器Skylake中支持的，其主要目的是为了更好的解决云计算环境下云厂商和租户信任的问题，这种方案被称为飞地（Enclave），SGX自诞生之日起就引起了众多争议，赛博堡垒的可信/机密计算方案中对于SGX的失败的总结主要有几点：1）过度设计和实现导致复杂性失控。2）错的离谱的威胁模型，SGX的威胁模型中把操作系统和固件都当成不可信，但实际情况是操作系统可以轻松发起侧信道攻击，而CSME的“上帝模式“打破了诸多威胁模型中的假设。3）不可审计性，大部分核心组件都是闭源的所以几乎难以得到完备的审计结果。4）保护的应用的同时也可以用于保护恶意代码，这让恶意代码检测成为摆设。5）第三方证明服务推出的时间太晚。6）SGX内核主线化进程缓慢，2016年提交给Linux内核社区最终到了2021年才合并，而2020年关于SGX会停止支持的消息已经传出。7）市场过度宣传，这个问题在中国地区或许更突出，大厂不断鼓吹SGX可以成为"下一代"银弹级别的方案，实际情况是安全领域的总原则是没有银弹。"]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯逮捕 14 名 REvil 勒索软件黑帮成员]]></title>
-        <id>https://www.solidot.org/story?sid=70377</id>
-        <link href="https://www.solidot.org/story?sid=70377"/>
-        <updated>2022-01-15T10:49:32.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯联邦安全局周五宣布逮捕 14 名 REvil 勒索软件黑帮成员。执法机构在莫斯科、圣彼得堡、列宁格勒和利佩茨克地区展开了突击搜查行动，扣押了 4.26 亿卢布、60 万美元和 50 万欧元的现金，以及加密货币钱包、计算机和 20 辆豪华汽车。联邦安全局表示是应美国当局要求展开行动的，它向美国通报了行动结果。REvil 是近期最活跃的勒索软件组织之一，最知名的行动是攻击了肉制品巨头 JBS Foods。在美国向俄罗斯施压之后，REvil 在去年 7 月关闭了服务器，但其管理员在 9 月尝试重启业务，随后其暗网网站遭到美国执法机构关闭，之后彻底消失。俄罗斯政府没有披露被捕者的身份，媒体透露了其中两人的身份：Roman Muromsky 和 Andrei Bessonov。Twitter 上的逮捕视频。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[回答] 孙杨也开始直播带货了，有人质疑奥运冠军直播带货行为，你认可这种观点吗？]]></title>
-        <id>https://www.zhihu.com/question/511517822/answer/2311871620</id>
-        <link href="https://www.zhihu.com/question/511517822/answer/2311871620"/>
-        <updated>2022-01-15T10:02:56.000Z</updated>
-        <summary type="html"><![CDATA[只要别卖假货、别漏税就行]]></summary>
-        <author>
-            <name>justjavac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlDente – 限制 MacBook Air/Pro 最大充电百分比工具，延长电池寿命]]></title>
-        <id>https://www.appinn.com/?p=41128</id>
-        <link href="https://www.appinn.com/aldente-for-mac/"/>
-        <updated>2022-01-15T04:59:00.000Z</updated>
-        <summary type="html"><![CDATA[AlDente 是一款可以限制 Macbook Air / Pro 系列设备最大充电百分比的工具，它能让你的电脑在插着电源的情况下，保持电池容量在 80% 以下，以延长电池寿命。@Appinn 来自问]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[回答] 发现孩子喜欢和比他成绩差的孩子玩，怎么办？]]></title>
-        <id>https://www.zhihu.com/question/511285795/answer/2311354404</id>
-        <link href="https://www.zhihu.com/question/511285795/answer/2311354404"/>
-        <updated>2022-01-15T02:22:28.000Z</updated>
-        <summary type="html"><![CDATA[你孩子要是和成绩好的孩子玩，那今天上知乎提问的就是对方孩子的家长了]]></summary>
-        <author>
-            <name>justjavac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files]]></title>
-        <id>https://css-tricks.com/?p=360928</id>
-        <link href="https://css-tricks.com/css-me-not-bookmarklet/"/>
-        <updated>2022-01-15T00:06:56.000Z</updated>
-        <summary type="html"><![CDATA[Stoyan is absolutely correct. As much as we all love CSS, it’s still an important player in how websites load and using less of it is a good thing. He has a neat new bookmarklet called CSS Me Not …
-Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mondrian Art in CSS From 5 Code Artists]]></title>
-        <id>https://css-tricks.com/?p=360864</id>
-        <link href="https://css-tricks.com/mondrian-art-in-css-from-5-code-artists/"/>
-        <updated>2022-01-14T18:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Mondrian is famous for paintings with big thick black lines forming a grid, where each cell is white, red, yellow, or blue. This aesthetic pairs well with the notoriously rectangular web, and that hasn’t gone unnoticed over the years with …
-Mondrian Art in CSS From 5 Code Artists originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯CSS实现未读消息超过100自动显示为99+]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=10276</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2022/01/css-show-diff-content-according-var/"/>
-        <updated>2022-01-14T15:33:44.000Z</updated>
-        <summary type="html"><![CDATA[未读消息超过100显示为99+是常见的交互，目前主流实现一定是通过 JS 逻辑判断，其实纯 CSS 就能实现一模一样的功能，兼容性还不赖，进来看看吧。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build Your First Custom Svelte Transition]]></title>
-        <id>https://css-tricks.com/?p=360781</id>
-        <link href="https://css-tricks.com/making-your-first-custom-svelte-transition/"/>
-        <updated>2022-01-14T15:24:19.000Z</updated>
-        <summary type="html"><![CDATA[The Svelte transition API provides a first-class way to animate your components when they enter or leave the document, including custom Svelte transitions. By default, the transition directive uses CSS animations, which generally offer better performance and allow the browser’s …
-How to Build Your First Custom Svelte Transition originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Austin Crim</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西伯利亚永久冻土大解冻]]></title>
-        <id>https://www.solidot.org/story?sid=70376</id>
-        <link href="https://www.solidot.org/story?sid=70376"/>
-        <updated>2022-01-14T13:44:50.000Z</updated>
-        <summary type="html"><![CDATA[终年保持冰冻的土壤被称为永久冻土，俄罗斯的永久冻土面积最大，三分之二的国土位于永久冻土层上。但随着全球暖化，永久冻土也在大规模解冻，这一现象将对全球产生重大影响。模型表明永久冻土层含有 1.5 万亿吨碳，是目前地球大气中碳含量的两倍。永久冻土融化会持续释放二氧化碳和甲烷。研究永久冻土对气候变化影响的俄罗斯科学家 Trofim Maximov 说永久冻土融化的过程一旦启动，将无法阻止和逆转。对西伯利亚雅库特（Yakutia）地区的测量显示，当地上空的二氧化碳浓度正以历史平均水平的两倍速度增长。甲烷的释放速度也在加快。甲烷是比二氧化碳更强的温室气体。苏联曾在永久冻土地区建立了多座城市，冻土融化正在破坏当地的建筑物，2020 年 5 月 29 日，俄罗斯矿业巨头 Norilsk Nickel 的一个燃油罐裂开，2.1 万吨燃油泄漏到周围土地，将当地的河流染成了红色。2021 年 2 月，俄罗斯政府对该公司开出了 20 亿美元的罚单。该公司辩解称冻土融化破坏了支撑油罐的支桩。但安装不当加上缺乏对土壤温度的定期检查被认为是事故的主要原因。也就是人为疏忽和环境变化导致了这起灾难性的环境事故。这远非个案，更多的事故正以较小的规模在持续发生。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
 </feed>
