@@ -2,10 +2,209 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-02-24T01:08:36.463Z</updated>
+    <updated>2022-02-25T01:09:12.360Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 196 期）：掌机的未来]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html"/>
+        <updated>2022-02-25T00:50:53.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My white whale: A use case for will-change]]></title>
+        <id>https://css-tricks.com/?p=364138</id>
+        <link href="https://css-tricks.com/my-white-whale-a-use-case-for-will-change/"/>
+        <updated>2022-02-24T20:59:29.000Z</updated>
+        <summary type="html"><![CDATA[Nic Chan:
+[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such 
+…
+My white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explain the First 10 Lines of Twitter’s Source Code to Me]]></title>
+        <id>https://css-tricks.com/?p=363553</id>
+        <link href="https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/"/>
+        <updated>2022-02-24T15:31:55.000Z</updated>
+        <summary type="html"><![CDATA[For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …
+Explain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Anand Chowdhary</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine]]></title>
+        <id>https://css-tricks.com/?p=363526</id>
+        <link href="https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/"/>
+        <updated>2022-02-24T15:31:49.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+In recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.
+GatsbyJS is …
+Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>ImageEngine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔收购 Linutronix]]></title>
+        <id>https://www.solidot.org/story?sid=70766</id>
+        <link href="https://www.solidot.org/story?sid=70766"/>
+        <updated>2022-02-24T14:08:37.000Z</updated>
+        <summary type="html"><![CDATA[英特尔收购了专注于嵌入式 Linux 和实时计算的德国 Linux 咨询公司 Linutronix。通过收购英特尔获得的主要是 Linux 相关的资深开发者。Linutronix 的 CTO Thomas Gleixner 从 2008 年起就是内核 x86 架构的主要维护者。Linutronix 也是 PREEMPT_RT (Real Time) 项目的缔造者，PREEMPT_RT 被用于实时系统，但此前因为缺乏资金而没有合并到内核主线，在英特尔收购之后资金应该不会再成为问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国终止“中国行动计划”]]></title>
+        <id>https://www.solidot.org/story?sid=70765</id>
+        <link href="https://www.solidot.org/story?sid=70765"/>
+        <updated>2022-02-24T12:25:29.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部宣布终止“中国行动计划”。此前该计划在一系列刑事案件中折戟，并被认为构成种族定性（racial profiling）。负责国家安全事务的助理司法部长 Matthew Olsen 表示，“通过将案件归类到‘中国行动计划’下，我们助长了一种有害的印象，即使用较低的标准来调查和起诉与中国有关的犯罪行为。”与此同时，Olsen 也表示该决定并非放弃对中国采取的措施，仅相当于重新制定和调整。今后，该部门将采取更广泛的措施，以应对俄罗斯、伊朗和其他国家带来的“威胁”。2018 年 3 月，特朗普政府公布对华301调查结果并对中国采取限制措施，其中提到所谓“涉嫌窃取美国知识产权等行为”。此后，美国司法部国家安全司负责的“中国行动计划”提出针对中国企业、华人学者等的一系列诉讼。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟提议薪酬透明]]></title>
+        <id>https://www.solidot.org/story?sid=70764</id>
+        <link href="https://www.solidot.org/story?sid=70764"/>
+        <updated>2022-02-24T12:19:14.000Z</updated>
+        <summary type="html"><![CDATA[欧盟委员会提出了薪酬透明提案，确保欧盟内男女能同工同酬。提案提议的措施包括：雇主必须向求职者提供薪酬范围信息，不允许询问求职者的薪酬历史；雇员有权要求雇主提供同等职位者的平均薪酬信息；员工数超过 250 人的雇主必须公布男女之间的薪酬差异；如果薪酬差异超过 5%，如果雇主无法以性别中立的理由解释差异，那么雇主需要与雇员代表合作进行薪酬评估。受到性别薪酬歧视的雇员可以寻求赔偿。默认由雇主而不是雇员证明不存在薪酬歧视。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯可能会用加密货币逃避美国制裁]]></title>
+        <id>https://www.solidot.org/story?sid=70763</id>
+        <link href="https://www.solidot.org/story?sid=70763"/>
+        <updated>2022-02-24T09:30:05.000Z</updated>
+        <summary type="html"><![CDATA[周二拜登政府就乌克兰冲突对俄罗斯实施了新的制裁，旨在阻止其获得外国资本。但专家表示，俄罗斯实体正准备与全世界任何愿意与他们合作的人进行交易，以缓冲最坏的影响。他们表示，这些实体可以使用数字货币绕过政府赖以阻止交易执行的控制点——主要是银行的资金转移。制裁是美国和欧洲国家影响不被其视为盟友的国家行为的最有力工具之一。特别是美国能将制裁作为外交工具，因为美元是世界储备货币，并被用于全球支付。但美国政府官员越来越意识到加密货币有可能削弱制裁的影响，正在加强对数字资产的审查。银行必须遵守“了解你的客户”规则，其中包括验证客户身份。但是推动加密货币和数字资产买卖的交易所和其他平台很少像银行那样善于跟踪客户，即使它们也应该遵守同样的规则。专家表示，如果选择逃避制裁，俄罗斯可以任意使用多种与加密货币相关的工具。它只需要想办法在不使用美元的情况下进行交易。俄罗斯政府正开发央行数字货币，即所谓的数字卢布，希望直接与其他愿意接受数字卢布的国家交易，而不用先兑换成美元。勒索软件之类的黑客技术帮助俄罗斯的行动者窃取数字货币并弥补因制裁而损失的收入。加密货币交易记录在底层的区块链上，虽然这种做法让交易透明化，但俄罗斯开发的一些新工具可帮助掩盖此类交易的来源。这将允许企业在不被发现的情况下与俄罗斯实体进行交易。2020 年 10月俄罗斯央行的代表对莫斯科的一家报纸表示，新的“数字卢布”将降低该国对美国的依赖程度，并能够更好地抵抗制裁。它将允许俄罗斯的实体在国际银行系统之外，同任何愿意以接受数字货币的国家进行交易。俄罗斯可以在其他被美国制裁的国家（包括伊朗在内）中找到愿意合作的伙伴，这些国家也在开发政府支持的数字货币。据世界银行称，俄罗斯最大的进出口贸易伙伴——中国已经推出了自己的央行数字货币。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻找爱因斯坦引力理论的裂缝]]></title>
+        <id>https://www.solidot.org/story?sid=70762</id>
+        <link href="https://www.solidot.org/story?sid=70762"/>
+        <updated>2022-02-24T09:19:13.000Z</updated>
+        <summary type="html"><![CDATA[1919 年一次日食期间，亚瑟·爱丁顿（Arthur Eddington)——观察到光线围绕着太阳弯曲——正如广义相对论所预测的那样，广义相对论是爱因斯坦（Albert Einstein）的新引力理论。从那时起，认为恒星之类的大质量物体会扭曲周围时空结构的广义相对论经受住了越来越精确的测试。很少有哪一年没出现过能证实爱因斯坦理论的新实验或者观察结果。但有一个问题。
+
+
+被称为暗物质和暗能量的不可见物质占了宇宙成分的 95%。有效的假设是暗物质是由不发光的基本粒子组成，而暗能量则是空间本身的能量。但是这种看法也有可能是幻觉，因为引力的作用与爱因斯坦的想法不同。宇宙学家 Celia Escamilla-Rivera 表示：“我们正在求助于这些神秘的东西。”“我坚信需要替代性的引力理论。”Escamilla-Rivera 正在寻找一种更完整的理论。随着时间的推移，人们提出了一系列令人眼花缭乱的广义相对论替代方案，从“平行引力”到“复杂的第五元素”和“负质量宇宙学”，但长期以来，它们都只是理论上的幻想。由于宇宙学家无法创建将这些理论同广义相对论区分开来的实验，这些想法已经蒙尘。
+
+
+Escamilla-Rivera 表示，在精确宇宙学的新时代，这种情况开始发生变化，精确宇宙学是她在自己的祖国墨西哥开创的一个领域。精确宇宙学将大量多样的数据集与新的统计方法、机器学习以及超级计算机结合在一起。她表示：“多亏了这些数据，你可以打开一扇门，将所有这些理论进行分类，并且说出哪些有效，哪些无效。”Escamilla-Rivera 认为，通过搜寻早期宇宙和黑洞的极端环境，我们可以找到广义相对论的裂缝，为其他理论开辟道路。这不是宇宙学家的传统智慧，但是 Escamilla-Rivera 成为宇宙学家的道路也不是传统的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跟踪软件网络的幕后]]></title>
+        <id>https://www.solidot.org/story?sid=70761</id>
+        <link href="https://www.solidot.org/story?sid=70761"/>
+        <updated>2022-02-24T09:02:45.000Z</updated>
+        <summary type="html"><![CDATA[消费级间谍软件通常以儿童监控软件的名义出售，由于能在未经他人同意下跟踪和监控，所以也被称为“跟踪软件”。只要能物理访问手机，就可以悄悄安装跟踪软件且可将它在主屏幕上隐藏起来，它会在机主不知情下，持续不断地悄悄上传通话记录、消息、照片、浏览历史记录和精确的位置数据。此类间谍软件多是专为 Android 打造，在 Android 手机中植入恶意应用比在 iPhone 上更容易，iPhone 对可安装应用类型和可访问数据有更严格的限制。去年 10 月 TechCrunch 披露了一个消费级间谍软件安全问题，该问题使数十万人的私人电话数据、消息和位置信息处于危险之中。在此例中，泄露收集数据的不仅仅是一款间谍软件。有多款 Android 间谍软件都具有同样的安全漏洞。
+
+
+造成问题的是一系列白标 Android 间谍软件，它们不断收集个人手机上的内容，每一款应用程序都有自定义的品牌，还有美国公司的网站，掩盖了通往其真正的运营商的链接。应用的背后是控制服务器基础设施，该运营商是一家名为 1Byte 的越南公司。TechCrunch 发现了九款几乎一模一样的应用程序，品牌完全不同，其中一些应用的名称比其他的更晦涩：Copy9、MxSpy、TheTruthSpy、iSpyoo、SecondClone、TheSpyApp、ExactSpy、FoneTracker 和 GuestSpy。除了名称不同，间谍软件功能一模一样，甚至连间谍软件设置的用户界面都一样。安装之后，每款应用都允许植入间谍软件的人访问网络面板，实时查看受害者的电话数据——他们的消息、联系人、位置和照片等。这些应用程序都和相同的服务器基础设施联系。但是由于这九款应用程序使用的是同样的代码、网络面板和同样的基础架构，它们当然也就有同样的漏洞。
+
+
+这里所说的漏洞被称为不安全的直接对象引用（IDOR），这是一类由于安全控制低于标准或者根本没有安全控制造成的服务器上文件和数据暴露的 Bug。类似于需要一把钥匙来打开你的邮箱，但是这把钥匙也能打开你附近所有其他的邮箱。IDORs 是最常见的漏洞类型之一。但是粗制滥造的代码编写不仅仅暴露了普通人的私人电话数据。整个间谍软件基础设施充满了 Bug，这些 Bug揭示出了更多关于运营商本身的细节。这就是我们如何得知该运营商已经危及了大约 40 万台设备——可能还有更多。粗制滥造的代码编写还导致了其关联公司的个人信息的暴露，这些关联公司带来了新的付费客户，他们可能认为这些信息是私密的；甚至该运营商自己也这么认为。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对垂死男子的脑部扫描表明生活经历可能会在眼前闪现]]></title>
+        <id>https://www.solidot.org/story?sid=70760</id>
+        <link href="https://www.solidot.org/story?sid=70760"/>
+        <updated>2022-02-24T07:55:27.000Z</updated>
+        <summary type="html"><![CDATA[当 Harry Stamper 在电影《世界末日（Armageddon）》中引爆炸弹拯救地球的时候，他的眼前闪过了他的一生。现在研究显示了一些诱人的线索，表明这种回忆可能不是好莱坞的夸张。一个国际团队报告了一个意想不到的情况，他们记录了一位 87 岁患者去世时的大脑活动。该男子因为跌倒导致脑部出血而被送往医院急诊科，随后病情出现恶化。当医生进行脑电图（EEG）检查时，他们发现该患者出现了癫痫症。在 EEG 记录期间，他的心脏病发作死亡。研究团队表示，对该男子心脏停止跳动前后 30 秒的记录分析表明，在最后的时刻，他经历了不同类型的脑电波变化，包括α脑电波和γ脑电波。研究表明，在血液停止流向大脑后，不同类型的脑电波之间的相互作用仍在继续。研究人员表示，这也提出了一个有趣的可能性。他们在《Frontiers in Ageing Neuroscience》期刊上写道：“鉴于α和γ活动之间的交叉耦合涉及健康受试者的认知过程和记忆回忆，推测这种活动可能支持在濒死状态出现最后一次‘人生回顾’，这种推测很有趣。”这些发现只是基于一个人的记录，研究人员敦促保持谨慎，并指出创伤性脑损伤和白质损伤会影响脑电波，而大脑中的网络活动可能会受到他们给这位患者使用的抗惊厥之类药物的影响。尽管如此，研究人员表示，这些结果可能具有重要的意义。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 8 早期版本曾有 ASCII 猫图像]]></title>
+        <id>https://www.solidot.org/story?sid=70759</id>
+        <link href="https://www.solidot.org/story?sid=70759"/>
+        <updated>2022-02-24T07:48:11.000Z</updated>
+        <summary type="html"><![CDATA[微软资深程序员、《Old New Thing》作者 Raymond Chen 在其博客上谈论了 Windows 8 早期开发中的一件趣事：ASCII 猫图像。ASCII 猫是为了分辨导致黑屏的原因引入的。黑屏可能有多种原因导致：视频驱动崩溃，图形合成器崩溃，shell 崩溃，或者 shell 忘记在屏幕上显示画面。为了区分最后一个可能的原因，开发者在早期版本中加入了 ASCII 猫图像。如果看到猫，你会知道是什么导致了黑屏。开发团队很喜欢猫，他们使用了一系列猫图像。因为绘制 ASCII 猫图像需要耗费时间和内存，Windows 性能团队后来要求开发团队移除了猫图像。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群晖 DSM 7.1 公测，新增 SMB聚合门户、SSD 缓存组、用 DSM 备份 DSM 等“多买几台”功能]]></title>
+        <id>https://www.appinn.com/?p=41461</id>
+        <link href="https://www.appinn.com/synology-dsm-7-1-beta/"/>
+        <updated>2022-02-24T06:32:46.000Z</updated>
+        <summary type="html"><![CDATA[在 DSM 7 发布之后，Synology 的更新频率似乎比往年快了一丢丢，前日发布了 DiskStation Manager 7.1 BETA 版本，新 SMB聚合门户、SSD 缓存组、用 DSM]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国安全公司披露 NSA 黑客行动]]></title>
+        <id>https://www.solidot.org/story?sid=70758</id>
+        <link href="https://www.solidot.org/story?sid=70758"/>
+        <updated>2022-02-24T06:26:29.000Z</updated>
+        <summary type="html"><![CDATA[北京奇安盘古实验室发布报告（PDF），披露了 NSA 的黑客行动。报告称，2013 年盘古实验室研究员在针对某国内要害部门主机的调查过程中，提取了一个经过复杂加密的 Linux 平台后门，其使用的基于 SYN 包的高级隐蔽信道行为和自身的代码混淆、系统隐藏、自毁设计前所未见。在不能完全解密的情况下，进一步发现这个后门程序需要与主机绑定的校验码才能正常运行，随后研究人员又破解了校验码，并成功运行了这个后门程序，从部分行为功能上断定这是一个顶级 APT 后门程序，但是进一步调查需要攻击者的非对称加密私钥才能激活远控功能，至此研究人员的调查受阻。基于样本中最常见的字符串“Bvp”和加密算法中使用数值 0x47，命名为“Bvp47”。2016 年 The Shadow Brokers 宣称成功黑进了“方程式组织”，并于 2016 年和 2017 年先后公布了大量黑客工具和数据。盘古实验室成员从其公布的文件中，发现了一组疑似包含私钥的文件，恰好正是唯一可以激活 Bvp47 顶级后门的非对称加密私钥，可直接远程激活并控制 Bvp47 顶级后门。可以断定，Bvp47 是属于“方程式组织”的黑客工具。方程式组织隶属于 NSA，即 Bvp47 是 NSA 的顶级后门。盘古实验室为多起 Bvp47 同源样本事件起了一个代号“电幕行动”。电幕（Telescreen）是英国作家乔治·奥威尔在小说《1984》中想象的一个设备，可以用来远程监控部署了电幕的人或组织，“思想警察”可以任意监视任意电幕的信息和行为。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 透露元宇宙 AI 项目]]></title>
+        <id>https://www.solidot.org/story?sid=70757</id>
+        <link href="https://www.solidot.org/story?sid=70757"/>
+        <updated>2022-02-24T05:52:11.000Z</updated>
+        <summary type="html"><![CDATA[Facebook 母公司Meta 首席执行官扎克伯格周三表示，公司正在进行人工智能(AI)研究，以通过语音生成世界，改进人们与语音助手的聊天方式，并在不同语言之间进行翻译。他勾勒出了建立元宇宙的关键步骤。扎克伯格押注元宇宙将接替移动互联网。元宇宙是一个未来主义的想法，即用户可以在其中工作、社交和游戏的虚拟环境。扎克伯格说，Meta 正在研究一类新的生成式 AI模型，它将允许人们描述一个世界并生成它的各个方面。在一个预先录制的演示中，扎克伯格展示了一个名为 Builder Bot（YouTube）的 AI 概念，他以一个无腿的 3D 化身形象出现在一个小岛上，并发出语音命令来创建一个海滩，然后添加云、树甚至野餐毯。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内核开发者讨论移除 ReiserFS]]></title>
+        <id>https://www.solidot.org/story?sid=70756</id>
+        <link href="https://www.solidot.org/story?sid=70756"/>
+        <updated>2022-02-24T05:47:59.000Z</updated>
+        <summary type="html"><![CDATA[资深内核开发者 Matthew Wilcox 在内核开发者邮件列表上提议移除 ReiserFS 文件系统。ReiserFS 是在 21 年前作为第一个日志文件系统引入的，SUSE 发行版在 2006 年前一直将其作为默认的文件系统。但自从 ReiserFS 作者 Hans Reiser 因谋杀罪被判刑之后该文件系统的开发和用户兴趣就停滞了，只有前 Namesys（Hans Reiser 创办的公司）开发者 Edward Shishkin 前几年在 Reiser4 上做了些 bug 修复之类的维护工作。Wilcox 表示内核以前移除过旧文件系统的支持，如 ext 和 xiafs，所以这是有过先例的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 市值与英特尔相差无几]]></title>
+        <id>https://www.solidot.org/story?sid=70755</id>
+        <link href="https://www.solidot.org/story?sid=70755"/>
+        <updated>2022-02-24T04:45:11.000Z</updated>
+        <summary type="html"><![CDATA[一周内两次 AMD 的市值超过了竞争对手、芯片巨头英特尔。第一次是发生在一周前，第二次是本周二，周三 AMD 的股价回落市值低于英特尔：AMD 市值 1786 亿美元，英特尔 1818 亿美元。股票市场的波动与公司本身的价值可能关系不大，它只是反映了目前投资者更看好 AMD 而不是英特尔。AMD 最近完成了对 FPGA 行业巨头赛灵思（Xilinix）的收购，而在 2021 年 AMD 的销售额和利润分别增长了 68% 和 117%，相比之下英特尔销售额和利润分别增长 2% 和 7%。AMD 的财务状况明显好于英特尔。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯对乌克兰发动攻击]]></title>
+        <id>https://www.solidot.org/story?sid=70754</id>
+        <link href="https://www.solidot.org/story?sid=70754"/>
+        <updated>2022-02-24T03:59:59.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯总统普京授权部队在乌克兰开展“特别军事行动”。乌克兰首都基辅的机场据报道遭到攻击，该国的许多大城市同时遭到轰炸。乌克兰大使在一份发给联合国的声明中称，俄罗斯几个月来一直用枪指着乌克兰的头，现在普京的手指按在扳机上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Database Queries? Sure We Can!]]></title>
         <id>https://css-tricks.com/?p=363937</id>
@@ -2961,16 +3160,6 @@ https://github.com/antfu/p]]></summary>
         <summary type="html"><![CDATA[老丈人：其实我并不是想要六瓶茅台，我就是要你一个态度（手动狗头]]></summary>
         <author>
             <name>justjavac</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1Timer – 支持中途语音提醒的语音定时器[iOS/Android/macOS]]]></title>
-        <id>https://www.appinn.com/?p=41250</id>
-        <link href="https://www.appinn.com/1timer/"/>
-        <updated>2022-01-26T05:34:09.000Z</updated>
-        <summary type="html"><![CDATA[1Timer 是一款非常实用的语音定时器应用，支持 iPhone、iPad、Android、Mac 设备，作为一款语音定时器，它可以在倒计时的中途，多次语音提醒剩余时间，比如在倒计时 5 分钟以内时，]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
