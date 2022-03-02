@@ -2,10 +2,199 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-01T01:16:38.330Z</updated>
+    <updated>2022-03-02T01:11:43.255Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web]]></title>
+        <id>https://css-tricks.com/?p=363724</id>
+        <link href="https://css-tricks.com/css-custom-highlight-api-early-loo/"/>
+        <updated>2022-03-01T17:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Styling ranges of text in software is a very useful thing to be able to do. Thankfully, we have the CSS Custom Highlight API to look forward to because it represents the future of styling text ranges on the web.…
+CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Patrick Brosset</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ahmad Shadeed: Use Cases For CSS fit-content]]></title>
+        <id>https://css-tricks.com/?p=364351</id>
+        <link href="https://css-tricks.com/ahmad-shadeed-use-cases-for-css-fit-content/"/>
+        <updated>2022-03-01T15:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed covers the CSS fit-content sizing keyword. It’s useful! It just doesn’t come up super often. I find myself using min-content a lot more, like when setting up the height of a grid-template-row.
+The fit-content keyword is actually …
+Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[气候变暖影响青藏高原树木生长]]></title>
+        <id>https://www.solidot.org/story?sid=70816</id>
+        <link href="https://www.solidot.org/story?sid=70816"/>
+        <updated>2022-03-01T15:01:18.000Z</updated>
+        <summary type="html"><![CDATA[中科院研究人员在《自然—生态与演化》期刊上发表研究报告，通过分析 3451 个树木年轮年表和1948-2014年间日气候数据，评估了生长季提前对北半球非热带地区树木生长的影响。综合空间格局与区域气候特征分析，研究人员认为，生长季提前促进冷湿地区树木生长，不利于气候较干燥地区树木生长。研究人员探索了1948-2014 年间树木生长对物候变化响应的空间格局与潜在机制。结果表明，生长季提前促进树木生长的区域主要分布在北纬 60°以北，包含欧洲大部分区域以及北美东西海岸区域；不利于树木生长的区域主要在北美中西部与青藏高原部分地区。对比气候特征发现，促进生长区域的气候相较于抑制区域，生长季水热比更高。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[堡垒靶场：sshd辅助CVE-2021-26708（Linux内核）漏洞利用提权]]></title>
+        <id>https://www.solidot.org/story?sid=70815</id>
+        <link href="https://www.solidot.org/story?sid=70815"/>
+        <updated>2022-03-01T14:57:10.000Z</updated>
+        <summary type="html"><![CDATA[HardenedVault 写道 "Alexander Popov 于2021年发表了一篇文章 Four Bytes of Power： Exploiting CVE-2021-26708 在 Linux 内核中使用四字节覆盖漏洞来执行权限提升，这篇文章详细的分析和记录了提升root权限的漏洞利用全过程，根据公开信息可以看出，如果创建了多个特权进程，并且同时释放了cred指针（或者特权进程的创建时间比释放的cred指针晚一点），那么其中一个进程的cred可以位于释放的地址，这使得权限提升成为可能，sshd 则是可以满足需要的特权进程，赛博堡垒借助sshd简化了整个漏洞利用的过程，可以轻松绕过现有Linux内核主线的防御机制，报告中也谈到了防御特性的优先级问题，虽然已经2022年，但Linux主线内核在数据污染攻击的面前依然非常脆弱，PaX/GRsecurity和VED都可以轻松防护此类攻击并且让攻击者难以绕过防护机制，根据赛博堡垒客户的反馈，平台安全级别的诸多威胁中，大多数带有花哨名称安全产品（例如：EDR/ XDR，HIDS等）的可绕过级别只能保持"L1：I can win"，安全产品容易被攻陷对于生产环境来说并不是一件值得骄傲的事情，不是吗？"]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赛门铁克发现先进黑客工具]]></title>
+        <id>https://www.solidot.org/story?sid=70814</id>
+        <link href="https://www.solidot.org/story?sid=70814"/>
+        <updated>2022-03-01T14:56:10.000Z</updated>
+        <summary type="html"><![CDATA[赛门铁克研究人员发表报告《Daxin: Stealthy Backdoor Designed for Attacks Against Hardened Networks》，他们发现了一种复杂先进的后门工具 Daxin，至少有十年历史。Daxin 设计作为一种 Windows 内核驱动，实现了先进的通信功能，具有高度的保密性，在感染计算机后它允许攻击者读写任意文件。它能监视特定模式的传入 TCP 流量，当特定模式检测到后，Daxin 能切断合法的接收方接管连接。除了劫持合法 TCP/IP 连接外，Daxin 能在被感染计算机上部署额外的恶意组件，能在多台被感染的计算机上创建加密通信通道。它最早发现的样本创建时间是 2013 年，已具有了最近变种的所有先进功能，这意味着该工具在 2013 年已经发展成熟。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士通准备结束大型机和 Unix 服务器业务]]></title>
+        <id>https://www.solidot.org/story?sid=70813</id>
+        <link href="https://www.solidot.org/story?sid=70813"/>
+        <updated>2022-03-01T14:21:12.000Z</updated>
+        <summary type="html"><![CDATA[富士通宣布计划在 2030 年前停止销售大型机和 Unix 服务器系统，支持系统会额外继续支持五年。富士通将在 2030 年前停止生产和销售大型机系统，在 2029 年底之前停产 Unix 服务器系统。对大型机和 Unix 系统的支持将延长五年：2034 年结束支持 Unix 服务器，2035 年结束支持大型机。富士通在其声明中表示未来社会一切将由数字接触点连接起来，需要更新更强大的数字基础设施。富士通计划将大型机和 Unix 服务器转移到云端。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armbian 22.02 释出]]></title>
+        <id>https://www.solidot.org/story?sid=70812</id>
+        <link href="https://www.solidot.org/story?sid=70812"/>
+        <updated>2022-03-01T13:17:17.000Z</updated>
+        <summary type="html"><![CDATA[基于 Debia 专门针对 ARM 单板电脑和开发板的 Armbian 项目释出了 22.02。单板电脑开发商使用的内核通常经过了大量修改，与主线相去甚远，发布之后基本上就不再更新了，留下了大量的 bug 和各种漏洞，就像早期的 Android 生态系统。Armbian 之类的项目有效的解决这种问题，它支持超过 60 种基于 ARM 的单板电脑和开发板。Armbian 22.02 加入了对 Debian unstable（sid）的支持，Raspberry Pi 镜像，新的 Extensions 构建框架，改进构建自动化（持续集成和持续部署）等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亲乌克兰成员泄露 Conti 勒索软件组织聊天记录]]></title>
+        <id>https://www.solidot.org/story?sid=70811</id>
+        <link href="https://www.solidot.org/story?sid=70811"/>
+        <updated>2022-03-01T10:23:37.000Z</updated>
+        <summary type="html"><![CDATA[在俄罗斯入侵乌克兰之后，Conti 勒索软件组织的领导人在其官网上发布了一条激进的亲俄信息，之后一名据信来自乌克兰的成员泄露了内部聊天记录。亲俄声明似乎以错误的方式影响了 Conti 的乌克兰成员，其中一人侵入了内部的 Jabber/XMPP 服务器。多名记者和安全研究人员收到了以电子邮件发来的内部日志。Recorded Future 的威胁情报分析师 Dmitry Smilyanets 过去曾与 Conti 组织有过交流，他证实了泄露的对话的真实性。泄露的数据包含 339 个 JSON 文件，每个文件包含一整天的日志。2021 年 1 月 29 日至 2022 年 2 月 27 日的对话已被泄露，可在此处在线阅读，这些信息由安全公司 IntelligenceX 提供。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用不完美的设备实现完美保密]]></title>
+        <id>https://www.solidot.org/story?sid=70810</id>
+        <link href="https://www.solidot.org/story?sid=70810"/>
+        <updated>2022-03-01T10:19:13.000Z</updated>
+        <summary type="html"><![CDATA[在伊恩·佛莱明（Ian Fleming）的第一本小说中，邦德（James Bond）从 Royale-les-Eaux 赌场回到酒店房间，检查是否有被入侵的迹象。首先他确认仔细放在写字台内的一根头发没有被动过。然后他检查橱柜把手上的滑石粉上没有指纹。最后他确认厕所水箱的水位没有发生变化。然后他才心满意足地静下来思考更重要的任务。今天邦德会发现想要保密不是那么容易了。他的秘密不会储存在房间里，而是储存在电脑上。当他需要以最安全的现代方式分享秘密时，他要依赖量子物理学的复杂设备。这些设备看起来像是叠叠高，充满了阀门、腔室、激光和透镜。邦德要怎样才能确定可安全使用它们呢？
+
+
+奥地利科学院的 Mateus Araújo 表示：“量子设备很难描述。你不想依靠各种细节。”“如果你这样做的话，你就很容易受到黑客的攻击。”但是几乎从 30 年前这些设备的概念开始，就有迹象表明这些漏洞可能不是问题。令人惊讶的是，理论家证明为了确保隐私，用户所要做的就是让设备玩游戏。只要获胜——以足够高的分数——就能证明没有其他人在偷听。
+
+
+现在牛津和慕尼黑的两个不同的实验证明了这个过程——它被称为设备无关量子密钥分发。同时在上海进行的第三个实验展示了许多必要的要求。三组研究人员中的每一组都必须仔细地用量子组件设计出完整的密码系统。约克大学的 Roger Colbeck 表示：“看到他们，我感到非常兴奋和高兴。”“他们在做不同的事情；每一项都是非常令人印象深刻的成就。”他们的实验将量子领域固有的完美保密性提升到日常生活的宏观世界之中。这项技术仍然速度很慢，因而无法实用。尽管如此，即使是最偏执的人现在也知道在完全私密的情况下进行交流是可能的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DisplayPort2.0 标签标明带宽避免 HDMI 2.1 的混淆]]></title>
+        <id>https://www.solidot.org/story?sid=70809</id>
+        <link href="https://www.solidot.org/story?sid=70809"/>
+        <updated>2022-03-01T09:58:04.000Z</updated>
+        <summary type="html"><![CDATA[制定 DisplayPort 规范的 VESA 宣布了一项认证计划，旨在帮助消费者了解 DisplayPort 2.0 线缆、显示器或视频源是否可以支持该规范声称的最大刷新率和分辨率。VESA 的最新认证围绕的是 DisplayPort 2.0。DisplayPort 1.4 带宽 32.4Gbps，2.0 可支持 80Gbps 的最高带宽。这可以实现极端用途，例如带显示流压缩（DSC）的 16 K分辨率单显示器、不带压缩的 10K 单显示器或者是两个 120Hz 的 8K HDR 屏幕。但仅仅有通过 DisplayPort 2.0 认证的显示器或者线缆，并不意味着你能获得标识的性能。
+
+
+VESA 称，现在有来自 Accell、Bizlink 和 WIZEN 等公司的 DisplayPort 和 Mini DisplayPort DP40 和DP80 线缆。这些线缆还向下兼容其他 DisplayPor t链路速率，例如 HBR 3 和 2。在 DisplayPort over Alt Mode 方面，VESA 指出“全功能无源 USB-C 线缆已经支持 UHBR 比特速率。”它补充表示，经 UHBR 认证的 USB Type- C转 DisplayPort 转换器线缆将“很快”上市。VESA 还表示，目前正在测试的“多视频源和显示产品”应该“很快”会通过 DisplayPort UHBR 认证。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[导航工具会将司机指向最短但不是最安全的路线]]></title>
+        <id>https://www.solidot.org/story?sid=70808</id>
+        <link href="https://www.solidot.org/story?sid=70808"/>
+        <updated>2022-03-01T09:16:32.000Z</updated>
+        <summary type="html"><![CDATA[德州农工的 Dominique Lord 和 Soheil Sohrabi 调查了导航工具的安全性。他们比较了德州五个大都市区——达拉斯-沃思堡、韦科、奥斯汀、休斯顿和布赖恩学院站之间最安全和最短的路线，涉及超过 2.9 万个路段，发现选择一条可以减少 8% 旅行时间的路线可能会让发生车祸的风险增加 23%。Lord 表示：“由于路线引导系统的目标是找到从起点到终点之间的最短路径，它们可能会误导驾驶员选择旅行时间最短的路线，同时会带来更大的车祸风险。”研究人员收集并结合了道路和交通特征，包括几何设计、车道数量、车道宽度、照明状况和平均每日交通量、天气状况和历史车祸数据，以分析并开发用于预测发生车祸风险的统计模型。
+
+
+这项研究揭示出最短路线和最安全路线的不一致之处。在晴好的天气条件下，在达拉斯-沃斯堡和布赖恩学院站之间选择最短而不是最安全的路线可以将旅行时长缩短 8%。但发生车祸的可能性却会增加20%。分析表明，选择奥斯汀和休斯敦之间最长的路线，旅行时长将增加 11%，但是日常发生交通事故的概率会降低 1%。
+总体而言，发生车祸风险较高的本地道路通常几何设计不佳，存在排水问题，照明不足并且与野生动物碰撞的风险较高。
+
+
+在寻找最安全路线的新系统架构中，研究人员表示，在收到行程目的地和在一天中出行的时间之后，算法将使用路网数据和可能的事故（包括因洪水或车祸而导致的道路或者车道关闭）确定路线。该系统还会考虑道路特征、历史车祸数据、交通信息和当前的天气状况等因素。然后将累积风险最低的路线作为最安全的路线提出建议。Lord 表示：“基于安全而不是旅行时间的导航可以防止车祸并提高路网的整体安全性，并最终挽救生命。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[席德梅尔对游戏行业的货币化发出警告]]></title>
+        <id>https://www.solidot.org/story?sid=70807</id>
+        <link href="https://www.solidot.org/story?sid=70807"/>
+        <updated>2022-03-01T08:29:06.000Z</updated>
+        <summary type="html"><![CDATA[回合制策略游戏《文明（Civilization）》系列首作发布于 1991 年。30 年来，游戏发生了天翻地覆的变化，它的价值超过了音乐和电影行业的总和。在《文明》系列发布三十周年之际，它的创造者席德梅尔就人们为什么要玩游戏对游戏行业发出了警告。全球游戏市场的价值大约 1750 亿美元，预计会在五年内翻一番。过去十年游戏公司赚钱的商业模式发生了显著变化，越来越多的游戏公司采用游戏内购。分析师指出，2021 年 79% 的玩家在内购、微交易和扩展内上消费。部分游戏公司还在探索 NFT。席德梅尔认为游戏公司应该关注游戏性，这是游戏作为一种娱乐形式的独特和吸引人之处，过度使用内购微交易去实现游戏的货币化可能会失去玩家。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软证实存在 bug 会导致系统重置后用户数据没有删除]]></title>
+        <id>https://www.solidot.org/story?sid=70805</id>
+        <link href="https://www.solidot.org/story?sid=70805"/>
+        <updated>2022-03-01T06:35:36.000Z</updated>
+        <summary type="html"><![CDATA[当用户想要修复难以琢磨的系统问题或出售旧机器时，他们可以选择重置系统，恢复到第一次安装时的状态。系统重置通常会删除系统上原保存的用户数据，但  Windows 11 和 Windows 10 被发现在系统重置后仍然会保留部分未加密的用户数据。微软已经证实了 bug 的存在，称如果系统运行了同步和文件储存工具如  OneDrive 或 OneDrive for Business，在文件夹留下了重解析数据，那么与 OneDrive 同步的文件就可能会在重置之后仍然保留。微软给出的临时解决方案是在重置前注销或切断与   OneDrive 的连接。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[备份不再能有效阻止勒索软件攻击]]></title>
+        <id>https://www.solidot.org/story?sid=70804</id>
+        <link href="https://www.solidot.org/story?sid=70804"/>
+        <updated>2022-03-01T05:49:19.000Z</updated>
+        <summary type="html"><![CDATA[备份不再能有效阻止勒索软件攻击，因为勒索软件组织日益采用两种甚至三种以上的勒索手段。对 IT 安全决策者的调查发现，83% 的成功勒索攻击使用了替代勒索方法：使用窃取的数据勒索客户(38%)，向暗网泄露数据(35%)，通知客户他们的数据被入侵了(32%)，只有 17% 的攻击只要求赎金以换取解密密钥。备份能最小化数据被加密带来的影响，但无法阻止勒索软件组织使用窃取的数据进行二次甚至三次勒索。但问题是即使支付了赎金，遭到窃取的数据仍然可能会泄露。调查发现 18% 的受害者在支付赎金之后数据仍然泄露，这一比例甚至高于拒绝支付赎金的受害者（16%）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达反击勒索软件攻击，黑客开始披露窃取的数据]]></title>
+        <id>https://www.solidot.org/story?sid=70803</id>
+        <link href="https://www.solidot.org/story?sid=70803"/>
+        <updated>2022-03-01T05:18:14.000Z</updated>
+        <summary type="html"><![CDATA[英伟达上周遭到网络攻击，攻击者据报道为勒索软件组织 LAPSUS$。该组织声称它潜入英伟达网络长达一周，窃取了 1TB 的数据。LAPSUS$ 称在此期间它获得了英伟达许多系统的管理级别访问权限，它获得的数据包括驱动程序、电路图和固件。英伟达据报道对该组织发起了反击，用勒索软件感染了攻击者的系统，加密了被盗数据。但 LAPSUS$ 表示它有备份，开始出售窃取的数据，其中包括 GA102 / GA104 GPU 的 LHR V2 bypass（LHR 代表 lite hash rate，是英伟达降低显卡挖矿能力的技术）。LAPSUS$ 要求英伟达支付赎金否则将公开数据，首批公开的数据是英伟达所有员工的哈希密码，它要求该公司移除对 GeForce RTX 30 系列显卡的挖矿限制。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gif123 – 极简 GIF 录屏工具[Windows]：经常写教程，节省了很多时间]]></title>
+        <id>https://www.appinn.com/?p=41503</id>
+        <link href="https://www.appinn.com/gif123/"/>
+        <updated>2022-03-01T04:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Gif123 是一款 Windows 下的 GIF 录屏工具，基于 aardio 语言，使用简单，非常适合录制教程后快捷粘贴到 QQ、公众号等地方。开发者提到：「因为我经常写教程，这软件节省了我很多时]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在发生网络攻击后丰田日本国内工厂全部停工]]></title>
+        <id>https://www.solidot.org/story?sid=70802</id>
+        <link href="https://www.solidot.org/story?sid=70802"/>
+        <updated>2022-03-01T03:37:57.000Z</updated>
+        <summary type="html"><![CDATA[在零部件供应商遭到网络攻击，管理零部件供应的系统受到影响之后，丰田日本国内工厂（14 家工厂 28 条生产线）周二全部停工。这是丰田第一次因为供应商的系统故障而让所有工厂停工。日本国内所有工厂停工一天会影响约 1.3 万辆汽车的生产，相当于丰田日本国内月产能的 4～5％。受到网络攻击的是丰田的一家主要供应商——生产树脂零部件的小岛冲压工业。关于网络攻击的发起方、病毒种类及受害情况，小岛冲压工业表示“正在调查”。据相关人员表示，目前“丰田的负责人及网络安全专家已进入小岛冲压工业公司内部，正在调查原因和恢复方法”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IE Down, Edge Up… Global Browser Usage Stats Are for Cocktail Parties and Conference Slides]]></title>
         <id>https://css-tricks.com/?p=364346</id>
@@ -61,6 +250,26 @@ Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think origi
 台湾，港独，疆独，高华这些势力长期在进行反华舆论战，也是知道这点的，所以他们长期选择性的翻译中国网络上的各种负面低俗言论发到外网，试图抹黑中国人形象。]]></summary>
         <author>
             <name>宁南山</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韦伯望远镜完成镜片校准]]></title>
+        <id>https://www.solidot.org/story?sid=70801</id>
+        <link href="https://www.solidot.org/story?sid=70801"/>
+        <updated>2022-02-28T14:16:45.000Z</updated>
+        <summary type="html"><![CDATA[NASA 的詹姆斯韦伯太空望远镜完成了镜片校准。望远镜的主镜由 18 块六角形的镜片构成，过去几周在完成遮光罩和主镜的展开之后，NASA 开始专注于镜像校准。它在本月早些时候公布了首幅照片。照片是同一颗恒星在 18 块镜片上的反射光，构成了 18 个点。拍摄对象是 HD 84406，位于大熊星座，亮度稳定，是一个完美的早期观测对象。在校准完毕之后 18 个点聚焦成为一个点。接下来 NASA 的任务是让聚焦的点更清晰，更紧密的聚在一起，这需要更精细的微调。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狗在同伴去世后表现出悲痛行为]]></title>
+        <id>https://www.solidot.org/story?sid=70800</id>
+        <link href="https://www.solidot.org/story?sid=70800"/>
+        <updated>2022-02-28T13:42:03.000Z</updated>
+        <summary type="html"><![CDATA[发表在《Scientific Reports》期刊上的一篇动物行为研究论文称，研究人员通过一项对 426 名意大利养狗人士的调查显示，宠物狗在家里另一条狗去世后的行为和情绪变化，或许能暗示它们的悲痛。研究人员对那些家里宠物狗去世但至少还有一条其他狗的成年人进行调查，其中 66% 的狗主人在研究开展的前一年里失去了他们的宠物狗，研究团队询问他们那条仍活着的宠物狗在另一狗死后的行为。调查数据显示，86% 的主人发现，仍活着的狗在另一条狗死后出现了行为上的消极变化。32% 的主人称，这种变化持续了 2-6 个月，25% 的主人称这种变化持续了 6 个月以上。当被要求描述这些行为变化时，67% 的主人称仍活着的狗会更多地寻求关注；57% 的主人称仍活着的狗玩得更少了；46% 的主人称仍活着的狗活力不如从前了。35% 的主人称仍活着的狗睡得更多了，而且很容易感到害怕；32% 的主人称这些狗吃得更少了；30% 的人称这些狗呜呜或吠叫的频率增加了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -3547,16 +3756,6 @@ Metaphors We Web By originally published on CSS-Tricks. You should get the newsl
         <summary type="html"><![CDATA[最近遇到了需要使用CSS让background背景图标的变色的需求场景，使用背景混合模式实现的，可能大家以后也用得到，所以分享下。]]></summary>
         <author>
             <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 壬寅虎年春节快乐]]></title>
-        <id>https://www.appinn.com/?p=41290</id>
-        <link href="https://www.appinn.com/2022-new-year/"/>
-        <updated>2022-01-31T08:23:25.000Z</updated>
-        <summary type="html"><![CDATA[青小蛙给各位拜年啦，祝大家春节愉快，体重不涨。 另外，我们在论坛发放2022春节徽章，感兴趣的同学可以参与，这两天就不推什么应用啦，生活比手机有趣。 https://meta.appinn.net/t]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
 </feed>
