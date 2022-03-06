@@ -834,24 +834,6 @@
           "publishedOn": "2022-02-04T15:07:04.000Z",
           "wordCount": 6124,
           "title": "A Deep Introduction to WordPress Block Themes"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362884",
-          "author": "Chris Coyier",
-          "description": "Pedro Santos suggests:\nUsing naming conventions such that you can learn them once and apply them everywhere\nUnidirectional data flows. Make it easy to follow the app flow.\nNo magic numbers. I’d add they are even worse in CSS\n…\nBuilding a newbie-friendly codebase originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/building-a-newbie-friendly-codebase/",
-          "publishedOn": "2022-02-03T22:32:58.000Z",
-          "wordCount": 396,
-          "title": "Building a newbie-friendly codebase"
-        },
-        {
-          "id": "https://css-tricks.com/?p=362578",
-          "author": "Pankaj Parashar",
-          "description": "I interviewed Thierry Koblentz, creator of Atomic CSS, to understand the history and background that led to making of the popular CSS framework. Thierry, now retired, has vast experience writing CSS at large scale and has previously worked …\nThe Making of Atomic CSS: An Interview With Thierry Koblentz originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/thierry-koblentz-atomic-css/",
-          "publishedOn": "2022-02-03T15:24:01.000Z",
-          "wordCount": 3549,
-          "title": "The Making of Atomic CSS: An Interview With Thierry Koblentz"
         }
       ]
     },
@@ -898,15 +880,6 @@
           "publishedOn": "2022-02-11T00:41:46.000Z",
           "wordCount": 405,
           "title": "科技爱好者周刊（第 194 期）：悲观者正确，乐观者成功"
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html",
-          "author": null,
-          "description": "最近，我想将家里的网络设备，都升级到千兆。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/02/10g-ethernet.html",
-          "publishedOn": "2022-02-04T01:13:38.000Z",
-          "wordCount": 527,
-          "title": "万兆家庭网络的时代"
         }
       ]
     },
@@ -943,15 +916,6 @@
           "publishedOn": "2022-02-12T15:07:46.000Z",
           "wordCount": 667,
           "title": "CSS :not()伪类选择器已支持复杂参数"
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10292",
-          "author": "张 鑫旭",
-          "description": "验证码输入框使用 inputmode 属性是毋庸置疑的最佳实践，原因和分析见本文具体内容。",
-          "link": "https://www.zhangxinxu.com/wordpress/2022/02/html-inputmode-keyboard/",
-          "publishedOn": "2022-02-04T08:40:50.000Z",
-          "wordCount": 645,
-          "title": "HTML inputmode与iOS Android软键盘类型测试"
         }
       ]
     },
@@ -960,6 +924,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=70858",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一项研究，每天饮酒一杯可能会导致大脑收缩。医生一度相信适度饮酒有益健康，但越来越多的研究对此提出了质疑。世界心脏联合会（World Heart Federation）最近表示任何量的酒精消费都不利于健康。最新研究分析了参与 UK Biobank 研究的 3.6 万多人的数据，参与者提供了饮酒相关的信息并接受了 MRI 大脑扫描。研究人员在分析时考虑了年龄、性别、吸烟、社会经济地位、遗传和头部整体大小等因素。结果显示，平均年龄 50 岁的参与者如果过去一个月每天饮一品脱啤酒或 6 盎司葡萄酒（两个酒精单位，一个酒精单位为 10 毫升/8 克纯酒精），相比每天只消费一个酒精单位啤酒的人，其大脑看起来老了两岁。每天喝三个酒精单位的人其大脑白质和灰质都有所减少，看起来老了 3.5 岁。喝四个酒精单位的人大脑衰老了 10 年以上。",
+          "link": "https://www.solidot.org/story?sid=70858",
+          "publishedOn": "2022-03-05T10:01:45.000Z",
+          "wordCount": 91,
+          "title": "每天饮酒一杯可能会导致大脑收缩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70857",
+          "author": null,
+          "description": "美国多个州的检察长对字节跳动旗下的短视频应用 TikTok 发起了全国性调查，聚焦于 TikTok 是否对年轻人造成生理或心理伤害。美国立法者和联邦监管机构认为 TikTok 的做法和算法驱动的内容推广会危及年轻用户的身心健康，它的算法推荐内容被指会向年轻观众宣传饮食失调，自我伤害和自杀。TikTok 月活跃用户可能多达 10 亿，非常受青少年欢迎。加州检察长 Rob Bonta 称调查的目的是确定 TikTok 在向年轻人推广其平台时是否违反了法律。TikTok 声明称，公司关注年轻用户的安全，并按年龄限制功能，将向当局提供有关公司在青少年安全和隐私保护措施方面的信息。",
+          "link": "https://www.solidot.org/story?sid=70857",
+          "publishedOn": "2022-03-05T07:58:10.000Z",
+          "wordCount": 90,
+          "title": "美国多个州的检察长调查 TikTok 对儿童健康的影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70856",
+          "author": null,
+          "description": "在遭到屏蔽之后，BBC 恢复了短波广播服务。短波广播历史悠久，在二战期间就被用于国际宣传，冷战是它的全盛时期。互联网等更便捷通信工具的出现导致了短波的衰落，许多地方都停止了短波广播服务。BBC 的短波广播将在乌克兰时间下午 6 点到 8 点以 15735 千赫的频率播出，在午夜至凌晨 2 点以 5875 千赫的频率播出。BBC 表示基辅以及俄罗斯部分地区都能收听到它以英文播报的新闻。",
+          "link": "https://www.solidot.org/story?sid=70856",
+          "publishedOn": "2022-03-05T07:12:12.000Z",
+          "wordCount": 86,
+          "title": "BBC 恢复短波广播",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=70855",
           "author": null,
@@ -3469,6 +3463,26 @@
       "siteUrl": "https://www.zhihu.com/people/ningnanshan",
       "articles": [
         {
+          "id": "https://zhuanlan.zhihu.com/p/476203434",
+          "author": "宁南山",
+          "description": "俄罗斯这次战争进行的挺突然的，至少中国国内的舆论和专家都没有预计到战争会爆发，再次说明了现代战争下进行欺骗是可能的。\n看了对俄罗斯战俘审讯的视频，说是2月23日那天还在演习，突然通知晚上就要进入乌克兰，因此俄乌战争实际上是当地时间2月23日晚上开始的，当然对于中国来说就是2月24日凌晨了。所以我们可以把2月24日（星期四）看成是第一天。\n以演习的名义进行大规模的兵力调动，本来以为只是很普通的一招，结果还是让俄罗斯做到了欺骗的效果，这个多少对我们有些启示，未来台海作战，我们如何进行大规模兵力调动以确保突然性？还好我国铁路等交通基础设施已经非常发达了，港口也很密集。\n不过今天不说军事方面的事情，说一下一些想法。\n\n\n我们都会不自觉的把台湾和乌克兰联想起来，俄罗斯可以说已经在前面做了测试，那么俄罗斯付出的代价有多大呢？\n首先我查了下美元对卢布的汇率，并且在下面的截图中标注了两个时间点，\n可以看出2014年9月发生的克里米亚事件产生了第一个影响，在此之前的汇率是1美元兑换30多卢布，\n但克里米亚事件之后俄罗斯遭到了西方国家的制裁，使得汇率在几个月内变成了1美元兑换50多卢布的水平，甚至到2016年卢布一度跌到了80卢布左右。\n之后卢布汇率趋于平稳，但是始终在五六十卢布的水平，到2020年的新冠疫情卢布受到了影响，又跌倒了七十多卢布。\n那么2021年2月爆发的俄乌战争，带来的西方极限制裁，显然比2014年9月开始的克里米亚制裁要严厉的多，使得卢布汇率迅速下跌到了100卢布以上，3月3日收盘107卢布。\n\n我们总结一下，俄罗斯从2014年-2022年持续的应对乌克兰危机，阻止北约东扩，在经济上的代价是卢布对美元的汇率跌了三倍，从30多卢布跌到了100卢布以上。\n\n\n我们再看一下油价，我在下面的油价截图中也标注了时间点，\n可以看出俄罗斯2008年，2014年，2022年发动的三次战争，都…",
+          "link": "https://zhuanlan.zhihu.com/p/476203434",
+          "publishedOn": "2022-03-05T04:08:22.000Z",
+          "wordCount": 71,
+          "title": "[文章] 俄乌战争一个星期了，从几张历史走势图说一些想法",
+          "imageUrl": "https://pica.zhimg.com/v2-21999fb35ca99cb6c3e2104627e58290_720w.jpg?source=172ae18b"
+        },
+        {
+          "id": "https://www.zhihu.com/pin/1483412031592603648",
+          "author": "宁南山",
+          "description": "俄罗斯虽然地方大，但是年轻人去处也少。\n俄罗斯其实就只有两个大城市，莫斯科2021年有超过1200万人\n（如果算大莫斯科地区人口则更多），还有就是圣彼得堡，2021年人口超过500万人。\n其他所有的俄罗斯城市，人口都没有超过170万人，\n俄罗斯人口第三大城市居然是新西伯利亚，2021年大约162万人。\n俄罗斯在欧洲的飞地加里宁格勒市才50万人，如果是整个加里宁格勒州总共也才100万人。\n俄罗斯在远东最大的两个城市哈巴罗夫斯克（伯力）和符拉迪沃斯托克（海参崴）2021年人口都才60多万人。\n俄罗斯人的选择其实很单调，要么就在小地方，要么就去莫斯科和圣彼得堡，类似于中国就北京和上海两个城市一样。\n此次战争俄军的那些20岁左右的年轻士兵，可能大部分都从来没有去过莫斯科和圣彼得堡，基辅也许就是他们见过的最大城市了。",
+          "link": "https://www.zhihu.com/pin/1483412031592603648",
+          "publishedOn": "2022-03-05T04:03:08.000Z",
+          "wordCount": 10,
+          "title": "[想法] 俄罗斯虽然地方大，但是年轻人去处也少",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhihu.com/pin/1481770807604576256",
           "author": "宁南山",
           "description": "为什么对中国人要求总是比较高？\n口嗨也好，仇恨言论也好，骂人也好，是全球社交媒体都有的现象，但是对中国人总是格外严格。\n前几天看到最有意思的，是微博的一篇小作文，说中国一些人口嗨说要收留乌克兰美女，乌克兰人就要反华了，要在大街上威胁乌克兰华人安全了，说她自己气的快要流泪了。实际上呢，她发小作文的时候，截图的那个疆独推特账号只有两百多转发，而且基本还是中文的，而且所谓的“大量被外媒乌媒转载”，其实就是supChina这个台湾人建的根本没啥人看的反华网站，根本就不是乌媒。\n这件事真正开始起热度，就是这篇小作文被转发几十万次，不过耐人寻味的是，在很多网友指出截图是来自反华账号之后，小作文作者反而不断删评论，最后终于顶不住压力把微博删了，承认没有去考究信息来源。\n这件事在国内爆热之后，又反过来被境外反华账号进行了二次转播。\n另外，我们的很多媒体不去溯源，反而又跟着这篇小作文扩大和传播“中国部分网民口嗨造成乌克兰人一夜之间反华”这个谣言。\n这种小作文不追求真实性和合理性，但是很有情绪感，其实换一下这篇小作文中的主角，就知道有多么不合理了。\n韩国冬奥会版：\n“我真的气的快流眼泪了，我请求大家停止不要再犯贱骂韩国了，不要觉得韩国活该觉得自己与此事无关了！！\n现在网上骂韩国，做侮辱手势一类的话被韩国媒体大量转账，导致韩国出现了反华情绪，因为你们随口一句辱骂导致我们没有办法和韩国人一起工作，生活和玩耍了，再加上现在韩国可以随便买到刀子，意味着可以以各种名义无差别用刀，现在我们不得不把表露自己是中国人身份的一切特征都隐藏起来，害怕下一个被误伤的就是自己，当你们舒服躺在家里喝着奶茶刷着微博发着玩笑话时，是我们这些要经常和韩国人打交道的同胞在为你们的行为买单！不要再把同胞往火坑里推了！”\n女权版：\n“我真的气的快流眼泪了，我请求大家停止不要再犯贱搞性别对立，不要觉得国男活该觉得自己与此事无关了！！\n现在网上女权骂国男一类的话被国内社交媒体大量转账，导致国内男性出现了仇女情绪，因为你们随口一句辱骂导致女生没有办法和男性一起工作，生活和玩耍了，再加上现在可以随便买到刀子，意味着可以以各种名义无差别用刀，现在我们不得不把表露自己是女生身份的一切特征都隐藏起来，害怕下一个被误伤的就是自己，当你们舒服躺在家里喝着奶茶刷着微博发着骂人话时，是我们这些要经常和男生打交道的女生在为你们的行为买单！不要再把女同胞往火坑里推了！”\n澳大利亚小作文版：\n“我真的气的快流眼泪了，我请求大家停止不要再犯贱说代孕的话了，不要觉得这仗打的活该觉得自己与此事无关了！！\n现在澳大利亚国内网上说因为战争没办法找乌克兰年轻女孩代孕的话被外媒乌媒大量转账，导致乌克兰出现了反澳情绪，别人在打仗，你们居然想的是找乌克兰女孩代孕，因为你们随口一句导致我们乌克兰的澳大利亚人没有办法和乌克兰人一起在防空洞避难了，再加上现在当地居民都能免费领枪，意味着可以以保卫国家的名义无差别开枪，现在我们不得不把表露自己是澳大利亚人的身份的一切特征都隐藏起来，害怕下一个被误伤的就是自己，当你们舒服躺在家里喝着咖啡刷着推特发着玩笑话时，是我们这些要经常和乌克兰人打交道的澳大利亚同胞在为你们的行为买单！不要再把同胞往火坑里推了！”\n社会动员是很难的事情，是需要媒体和舆论长期的洗脑才行，\n我其实不认为在没有利益冲突，历史积怨的情况下就靠一两张截图就能一个晚上让乌克兰人集体反华，就要上街打杀中国人。\n油管，TT和FB之类的全球社交媒体上各国网民辱骂他国的留言海了去了。\n如果那么简单的话，那我国打舆论战就太容易了，整点美国网友口嗨乌克兰美女的截图放在社交媒体上岂不是就可以让乌克兰人一夜之间仇恨美国人？\n日本现在天天嚷着要支持协防台湾，把台湾网友口嗨日本女人的留言多翻译发到日文社交媒体，就能一夜之间让日本人仇恨台湾，认为中国大陆武统台湾是台湾活该了？\n西方媒体，土耳其媒体不断传播报道中国人在新疆迫害穆斯林之类的谎言这么多年，也没见全球穆斯林国家就出现排华杀中国人事件，\n舆论战改变人的思想是一个长期的，系统性的工程，不是“一夜之间”的事情，想让一个国家老百姓集体反华其实没有那么容易。\n当年我军思想改造国民党投降过来的“解放战士”，也不是说一天就能搞定，是需要甄别，然后经过长期的集体学习和宣传，各种形式的活动之后才能改造成功。\n舆论战，一定是长期的。\n台湾，港独，疆独，高华这些势力长期在进行反华舆论战，也是知道这点的，所以他们长期选择性的翻译中国网络上的各种负面低俗言论发到外网，试图抹黑中国人形象。",
@@ -3700,6 +3714,16 @@
       "feedUrl": "https://rss.lilydjwg.me/zhihu/antfu",
       "siteUrl": "https://www.zhihu.com/people/antfu",
       "articles": [
+        {
+          "id": "https://www.zhihu.com/pin/1483495212370141184",
+          "author": "Anthony Fu",
+          "description": "从“Wordle”到《汉兜》：填字游戏中的交流与表达 - 触乐的文章 - 知乎 https://zhuanlan.zhihu.com/p/475248996",
+          "link": "https://www.zhihu.com/pin/1483495212370141184",
+          "publishedOn": "2022-03-05T09:33:40.000Z",
+          "wordCount": 16,
+          "title": "[想法] 从“Wordle”到《汉兜》：填字游戏中的交…",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zhihu.com/pin/1478531489826086912",
           "author": "Anthony Fu",
