@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-06T01:08:28.583Z</updated>
+    <updated>2022-03-07T01:10:04.608Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[任务如何才能按时完成]]></title>
+        <id>https://kaopubear.top/blog/2022-03-06-finished-on-time/</id>
+        <link href="https://kaopubear.top/blog/2022-03-06-finished-on-time/"/>
+        <updated>2022-03-06T16:09:53.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>工作不需要提前完成，但需要提前动手。小学时的寒假作业没有人会每天写点，要么是第一周写完，要么是最后一周写完。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>思考问题的熊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS accent-color属性简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=10327</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2022/03/css-accent-color/"/>
+        <updated>2022-03-06T15:47:25.000Z</updated>
+        <summary type="html"><![CDATA[CSS accent-color 属性可以在不改变浏览器默认表单组件基本样式的前提下重置组件的颜色，还是有一定的使用价值的。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球粮食价格创下记录]]></title>
+        <id>https://www.solidot.org/story?sid=70862</id>
+        <link href="https://www.solidot.org/story?sid=70862"/>
+        <updated>2022-03-06T13:59:26.000Z</updated>
+        <summary type="html"><![CDATA[乌克兰和俄罗斯都是粮食大国，它们之间的冲突推动全球粮食价格创下记录。过去一周芝加哥的小麦交易价格飙升了 40%。联合国的粮食价格指数在这之前已经接近了 2011 年创下的峰值，上个月的食品价格指数创下了历史新高。俄罗斯和乌克兰占到了全球谷物贸易的四分之一，两国的出口受阻迫使让进口商从其它来源采购。粮农组织的二月谷物价格指数同比上升了 14.8%。埃及是世界最大的小麦买家，十年前的阿拉伯之春抗议活动就与粮价上涨有关。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube™ 双字幕 – 显示双语字幕（包括自动翻译）、字幕下载，以及自定义字幕样式[Chrome/Edge]]]></title>
+        <id>https://www.appinn.com/?p=41545</id>
+        <link href="https://www.appinn.com/dual-subtitles/"/>
+        <updated>2022-03-06T12:12:27.000Z</updated>
+        <summary type="html"><![CDATA[YouTube™ 双字幕 是一款非常不错的 Chrome、Edge 浏览器扩展，用来在 YouTube 上显示双语字幕，包括自动翻译的字幕，还支持字幕下载、自定义字幕样式，以及将自己融入了原生字幕菜单]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 释出紧急更新修复两个正被利用的 0day]]></title>
+        <id>https://www.solidot.org/story?sid=70861</id>
+        <link href="https://www.solidot.org/story?sid=70861"/>
+        <updated>2022-03-06T11:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 释出紧急更新 Firefox 97.0.2，修复了两个正被利用的 0day 漏洞，Firefox 用户应尽可能快的升级。其中一个漏洞是 CVE-2022-26485，为 XSLT 参数处理中的释放后使用（Use-after-free）漏洞，正被攻击者用于远程代码执行；第二个漏洞是 CVE-2022-26486，为 WebGPU IPC 框架中的释放后使用漏洞，被用于沙盒逃逸。释放后使用漏洞是指一个应用程序本应释出其占用的内存供其它应用程序使用，但因为 bug 导致该应用程序仍然继续使用或占用内存。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuchsia 现在能运行完整功能的 Chromium]]></title>
+        <id>https://www.solidot.org/story?sid=70860</id>
+        <link href="https://www.solidot.org/story?sid=70860"/>
+        <updated>2022-03-06T10:14:17.000Z</updated>
+        <summary type="html"><![CDATA[Google 去年初开始向部分第一代 Nest Hub 设备用户推送它的 Fuchsia OS 操作系统。Fuchsia OS 是 Google 开发的实验性操作系统，使用名叫 Zircon 的微内核。这个新操作系统曾经引发很多猜测，被认为将取代 Android 和 Chrome OS，Google 高管否认了这一说法。但 Fuchsia 操作系统在很长时间里只具有最基本的网络访问功能，它的浏览器 Simple Browse 甚至不支持地址栏和标签。从去年年中开始 Google 致力于将完整的 Chromium 浏览器带到 Fuchsia OS。这一工作在最近完成，Fuchsia 现在能运行完整功能的 Chromium。Fuchsia 版本的 Chromium 还存在 bug 需要修复，它的外观和工作与 Windows 等平台的 Chrome 相差无几。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rayon – 适用于 macOS、iOS 系统的开源 Linux 服务器监控工具，拥有 Snippet 功能]]></title>
+        <id>https://www.appinn.com/?p=41536</id>
+        <link href="https://www.appinn.com/rayon-for-apple/"/>
+        <updated>2022-03-06T05:19:02.000Z</updated>
+        <summary type="html"><![CDATA[Rayon 是一款开源的 macOS、iOS 应用，用来监测 Linux 服务状态，如系统负载、CPU 内存占用、磁盘空间、进程等，在 iOS 端还拥有一个终端工具，拥有 Snippet 功能。@Ap]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑猩猩知道如何用药]]></title>
+        <id>https://www.solidot.org/story?sid=70859</id>
+        <link href="https://www.solidot.org/story?sid=70859"/>
+        <updated>2022-03-05T15:47:39.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Current Biology》期刊上的一项研究，研究人员在加蓬 Rekambo 保护区观察到黑猩猩将昆虫放在自身及其它成员的开放性创口上。这种行为此前从未观察到过。除了人类，以前从未看到过动物会去治疗其它成员的创口。人类使用本地药材进行治疗至少有 5000 年的历史，其中也包括使用动物，如用水蛭清洗伤口，蛞蝓和蜗牛治疗炎症，蜘蛛网包扎伤口等。那么这种使用动植物治疗的传统是否源自几百万前人类与黑猩猩的共同祖先？动物的自我治疗并不罕见，但主要使用的是植物类药材，以前从未观察到用动物治疗创口。研究人员在 15 个月内观察到 10 只黑猩猩 22 次用昆虫治疗伤口的行为。研究人员并不清楚黑猩猩使用了哪种昆虫，不知道是哪种化学特性使其有利治疗。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每天饮酒一杯可能会导致大脑收缩]]></title>
         <id>https://www.solidot.org/story?sid=70858</id>
@@ -4161,27 +4243,6 @@ value |> (yield %) // yielding a gen…]]></summary>
         <link href="https://www.appinn.com/b23downloader/"/>
         <updated>2022-02-06T06:39:46.000Z</updated>
         <summary type="html"><![CDATA[B23Downloader 是一款使用 Qt C++ 开发的开源工具，用来下载 B 站视频、直播、漫画，简单易用，界面直观。@Appinn 来自发现频道，@squareas 的推荐： B23Downl]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Introduction to WordPress Block Themes]]></title>
-        <id>https://css-tricks.com/?p=362799</id>
-        <link href="https://css-tricks.com/a-deep-introduction-to-wordpress-block-themes/"/>
-        <updated>2022-02-04T15:07:04.000Z</updated>
-        <summary type="html"><![CDATA[The relatively new WordPress editor, also known as the WordPress Block Editor, always under development via the Gutenberg plugin, has been with us since 2018. You can use the block editor on any WordPress theme, provided the theme …
-A Deep Introduction to WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Ganesh Dahal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfmonbar – 在 Windows 任务栏显示系统状态，可完全定制显示内容]]></title>
-        <id>https://www.appinn.com/?p=41301</id>
-        <link href="https://www.appinn.com/perfmon-bar-for-windows-taskbar/"/>
-        <updated>2022-02-04T13:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Perfmonbar 是一款可以在 Windows 任务栏上显示系统状态的工具，可完全定制所有显示内容及格式、颜色，支持 Windows 7 ～ 10 系统，暂不支持 Windows 11，非开箱即用]]></summary>
         <author>
             <name>青小蛙</name>
         </author>
