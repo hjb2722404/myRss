@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-08T01:07:54.933Z</updated>
+    <updated>2022-03-09T01:13:00.556Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 内核发现易于利用的 dirty pipe 漏洞]]></title>
+        <id>https://www.solidot.org/story?sid=70887</id>
+        <link href="https://www.solidot.org/story?sid=70887"/>
+        <updated>2022-03-08T15:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Web 托管公司 IONOS 的 Max Kellermann 在多次收到客户投诉日志服务器上的日志文件损坏之后展开了调查，发现 Linux 内核存在一个高危漏洞，与数年前曝出的 DirtyCow 提权漏洞类似，但更容易利用。他将该漏洞命名为 dirty pipe。dirty pipe 存在于 Linux 5.8 之后的版本中，是未初始化变量导致的，它允许任何人向任意文件写入数据，即使文件是 O_RDONLY 或不可改变。它能被用于向任意进程注入代码。Linux 5.16.11、5.15.25 和 5.10.102 修复了该漏洞。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[想法] 明天（3月9日）晚上 8 点 B 站第一次开直…]]></title>
+        <id>https://www.zhihu.com/pin/1484652160335564800</id>
+        <link href="https://www.zhihu.com/pin/1484652160335564800"/>
+        <updated>2022-03-08T14:10:58.000Z</updated>
+        <summary type="html"><![CDATA[明天（3月9日）晚上 8 点 B 站第一次开直播，一起写个 Vue 应用。目标是做个简单的扫雷游戏，但其实主要是和大家聊聊天（不一定做得完）。过程中会演示我平时的开发坏境和工具，介绍一些我用的 Vite 插件与 VueUse 以及我对 Composition API 的理解。欢迎来玩！
+AnthonyFu一个托尼的个人空间_哔哩哔哩_Bilibili]]></summary>
+        <author>
+            <name>Anthony Fu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员发布开源代码生成 AI 模型 PolyCoder]]></title>
+        <id>https://www.solidot.org/story?sid=70886</id>
+        <link href="https://www.solidot.org/story?sid=70886"/>
+        <updated>2022-03-08T13:29:46.000Z</updated>
+        <summary type="html"><![CDATA[GitHub 的 Copilot 可能是目前最为知名的 AI 代码生成系统，只需要提示它就能根据上下文写出相应的代码，帮助开发者减少重复性的编程工作。Copilot 是基于 OpenAI 的 Codex，其训练集未公开，研究人员无法对 AI 模型进行微调或调查其可解释性。为弥补这一缺陷，卡内基梅隆大学的研究人员开发了 基于 OpenAI GPT-2 语言模型的代码生成模型 PolyCoder，它使用了 12 种编程语言的 249 GB 代码数据库进行训练。虽然在性能上比不上顶尖的代码生成器，但研究人员表示 PolyCoder 在 C 语言上其代码精度高于包括 Codex 在内的其它模型。研究人员称大型科技企业不公开模型阻碍科学研究和大型代码语言模型的大众化。他们希望自己的开源代码生成模型能说服其他人采用类似的做法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 称 macOS 版 Chrome 快于 Safari]]></title>
+        <id>https://www.solidot.org/story?sid=70884</id>
+        <link href="https://www.solidot.org/story?sid=70884"/>
+        <updated>2022-03-08T08:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Google 在宣布首个突破版本号三位数的 Chrome 100 Beta 时指出 macOS 版的 Chrome 99 在 Speedometer 测试中达到了 300 分，是最快的浏览器，快于 Safari。Speedometer 最早是由苹果 WebKit 团队开发的响应度测试工具，而响应度是用户体验的重要组成部分。随着越来越多的浏览器是基于 Chromium/Chrome，浏览器之间的竞争已经有很长时间没有关注速度了。成熟的技术很快再看到重大突破。但这并不意味着竞争停止了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“终结事件”已经到来]]></title>
+        <id>https://www.solidot.org/story?sid=70883</id>
+        <link href="https://www.solidot.org/story?sid=70883"/>
+        <updated>2022-03-08T07:09:20.000Z</updated>
+        <summary type="html"><![CDATA[“终结事件”（Termination Event）是太阳物理学的一个新概念，Scott McIntosh 和 Bob Leamon 在 2020 年 12 月的《太阳物理学》期刊上发表的一篇论文中介绍了这一概念。不是每个人都接受它。如果太阳周期25（Solar Cycle 25）像 McIntosh 和 Leamon 预测的展开，就必须认真对待“终结事件”。其基本思路是：太阳周期25（SC25）于 2019 年 12 月开始。但旧的太阳周期24（SC24）拒绝结束。它又持续了两年，偶尔产生旧周期的太阳黑子，并用衰减的磁场影响太阳的上层。在此期间，两个周期并存，SC25 努力挣脱，而旧的 SC24 则阻止了它。研究人员知道太阳周期可以重叠。McIntosh 和 Leamon 增加的是对重叠周期相互作用的认识。20 世纪初，埃勒里（George Ellery Hale）发现太阳黑子对的磁极在一个周期到下一个周期时会发生反转；事实上，太阳的整个全球磁场每 11 年就会翻转一次。“终结事件”标志着干扰的结束，新的周期摆脱了旧的周期。“终结事件”的时间可以预测新周期的强度。在论文中，McIntosh 和 Leamon 回顾了 270 多年的太阳黑子数据，发现“终结事件”每 1 0到 15 年发生一次。Leamon 解释说：“我们发现终结事件之间间隔的时间越长，下一个周期就越弱。”“反之终结事件之间的时间间隔越短，下一个太阳周期就越强。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 发现美国每个州都有自己的流感爆发气候阈值]]></title>
+        <id>https://www.solidot.org/story?sid=70882</id>
+        <link href="https://www.solidot.org/story?sid=70882"/>
+        <updated>2022-03-08T07:00:31.000Z</updated>
+        <summary type="html"><![CDATA[是什么引发了流感病毒的爆发？使用 NASA Aqua 卫星的大气红外探测器（AIRS），一项对美国 48 个毗邻州流感的新研究发现，答案与当地天气密切相关——特别是低湿度——情况因州而异。美国各地的平均湿度差异很大，但即使在最潮湿的州，随着冬季的临近，湿度也开始下降。NASA 位于南加州的喷气推进实验室（Jet Propulsion Laboratory）和南加州大学的研究人员将 2003 年至 2015 年期间对大气下层中水蒸气的 AIRS 测量值和每周流感病例的估计值进行了对比。研究人员发现，每个州都有一个特定的低湿度水平，预示着流感爆发迫在眉睫。每年突破了这个阈值之后，流感病例就会在接下来平均两到三周内大幅增加。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冰雪世界中的“冰免防御”]]></title>
+        <id>https://www.solidot.org/story?sid=70881</id>
+        <link href="https://www.solidot.org/story?sid=70881"/>
+        <updated>2022-03-08T06:56:02.000Z</updated>
+        <summary type="html"><![CDATA[即使是在水下，南极水域的条件也会将物体和生物冻住。这是极地地区海洋旅行的一个主要问题。所谓的“过冷水”的温度刚好低于冰点。由于含盐量高，南极洲海水的冰点约为-1.9°C，但它的温度要低出大约0.05°C。最小的干扰——比如砂砾或者表面，都会导致这种过冷水结冰——对于无法在冰冻环境中生存的生物，有时候这会造成致命的后果。化学家 Konrad Meister 知道南极扇贝“Adamussium colbecki”可以抵御这种情况。Meister 是阿拉斯加大学的教授，在美因茨的马普高分子研究所（MPI-P） Mischa Bonn 的部门领导一个研究小组。在南极洲的一次探险中，潜水员的注意力被具有高效冰防护机制的扇贝吸引住了。Meister 表示：“我们的潜水员报告说，他们从未在这种本地扇贝物种的表面上观察到大量的冰。”显微镜显示，它们的外壳上有呈放射状排列的小脊。这些脊确保水优先在那里结冰。如果结冰的过程继续下去，就会形成一层连续的冰，只停留在脊上。由于冰和外壳之间粘得并不牢，即使是最小的水下水流都可以将冰冲走，因此扇贝不会被冻住。研究报告发表在《Communications Biology》期刊上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员升级 DNA 字母表扩展数据存储]]></title>
+        <id>https://www.solidot.org/story?sid=70880</id>
+        <link href="https://www.solidot.org/story?sid=70880"/>
+        <updated>2022-03-08T06:42:14.000Z</updated>
+        <summary type="html"><![CDATA[贝克曼高级科学与技术研究所的研究员 Kasra Tabatabaei 表示：“互联网每天产生数 PB 的数据。只要一克 DNA 就足以存储。”Tabatabaei 参与的一个项目项目致力于“将 DNA 的双螺旋结构转变为强大可持续的数据存储平台。”研究论文发表在上个月的《Nano Letters》期刊上。他们是第一个人工扩展 DNA 字母表的团队。DNA 用四种被称为核苷酸的分子对遗传信息进行编码。它们是腺嘌呤、鸟嘌呤、胞嘧啶和胸腺嘧啶，或者称为 A、G、C 和 T。从某种意义上说，DNA 的字母表上有四个字母，不同的字母组合代表了不同的数据比特。如果我们有一个更长的字母表呢？这会带来更深层次的能力。按照这种思路，人为地在 DNA 库中添加七个新字母。“我们可以将 0 和 1 转换为 A、G、C、T 以及存储字母表中的七个新字母，而不是只将 0 和 1 转换为 A、G、C 和 T。”一位联合首席研究员表示，他们的工作“提供了令人兴奋的原理证明，将大分子数据存储扩展到非天然化学物质，有可能大幅提高非传统存储介质的存储密度。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 12L 被正式命名为 Android 12.1]]></title>
+        <id>https://www.solidot.org/story?sid=70879</id>
+        <link href="https://www.solidot.org/story?sid=70879"/>
+        <updated>2022-03-08T05:59:42.000Z</updated>
+        <summary type="html"><![CDATA[为平板等大屏幕设备优化的 Android 12L 被正式命名为 Android 12.1，Google 开始向  Pixel 3a, Pixel 4、Pixel 4a、Pixel 5 和 Pixel 5a 推送更新，Pixel 6 的更新则要推迟到本月底。此次更新主要针对的平板等设备，手机变化不大。Google 表示，三星、联想和微软的可折叠手机和平板将在今年晚些时候升级到新版。Android 12.1 的主要变化是针对平板的新任务栏 UI、通知和系统设置的双窗口 UI，最近常用应用视图。普通小屏幕手机的变化很小。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新冠死亡人数突破 600 万]]></title>
+        <id>https://www.solidot.org/story?sid=70878</id>
+        <link href="https://www.solidot.org/story?sid=70878"/>
+        <updated>2022-03-08T05:49:32.000Z</updated>
+        <summary type="html"><![CDATA[全球已知新冠死亡人数突破 600 万。根据约翰霍普金斯大学的数据，截至 3 月 8 日中午，全球的新冠确诊感染病例 4.48 亿，死亡病例 600 万，疫苗接种总次数 106 亿。随着奥密克戎变种的消退，许多地方的新增死亡人数正在下降。不过，香港、韩国和新西兰等地的新增病例数仍在攀升，中国也面临武汉疫情以来的最大规模暴发。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 项目两位核心开发者仍然留在乌克兰]]></title>
+        <id>https://www.solidot.org/story?sid=70877</id>
+        <link href="https://www.solidot.org/story?sid=70877"/>
+        <updated>2022-03-08T05:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Python 编程语言项目的两位核心开发者仍然留在乌克兰。Serhiy Storchaka 是近期贡献第二多、历史贡献排名第十的核心开发者，他住在 Konotop 外围，该市正被俄罗斯军队占领，他在 2 月 26 日发推说，俄罗斯坦克正在距离他家 2 公里的公路上行驶，俄罗斯的装甲车从窗外驶过。他极有可能将生活在占领区，这里不存在适用的法律。另一位专注于异步网络支持的核心开发者是 Andrew Svetlov，他居住在被俄罗斯包围的首都基辅。Python 软件基金会的 Lukasz Langa 称两位核心开发者都不愿离开乌克兰，他设法帮助 Storchaka 的 11 岁的侄女和好友及其母亲逃到了波兰的华沙。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加固 Windows Defender ，开启微软云保护，利用「微软高级保护服务」（MAPS）来实时预防未知病毒]]></title>
+        <id>https://www.appinn.com/?p=41581</id>
+        <link href="https://www.appinn.com/windows-defender-enable-microsoft-maps/"/>
+        <updated>2022-03-08T05:20:36.000Z</updated>
+        <summary type="html"><![CDATA[最近青小蛙看到了一则消息，由于 NVIDIA 在一次网络攻击中泄漏了源码与证书私钥，已经有虚假的驱动程序与恶意软件开始传播。由于使用了“正经”的数字证书私钥签名，可以让操作系统误以为是合法的发布者，即]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正版三月惠 Downie、IDM、白描 8 款软件降价，多款软件 7 折低价来袭！]]></title>
+        <id>https://www.appinn.com/?p=41563</id>
+        <link href="https://www.appinn.com/lizhi-202203/"/>
+        <updated>2022-03-08T02:32:44.000Z</updated>
+        <summary type="html"><![CDATA[数码荔枝开启了「正版三月惠」活动，多款久违的软件折扣，年度低价值得购买。 多款产品享受折扣，部分价同双十一： Downie / Permute：7 折价 29.4 元起； IDM：买断价 109 元；]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[想法] 如果我开直播写个 Vue 的 App，大家有兴…]]></title>
         <id>https://www.zhihu.com/pin/1484424711325429760</id>
@@ -4412,66 +4543,6 @@ CSS Scroll Snap Slide Deck That Supports Live Coding originally published on CSS
 这一年抗战全…]]></summary>
         <author>
             <name>宁南山</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[想法] Vue 3 现已成为新的默认版本！全新的 …]]></title>
-        <id>https://www.zhihu.com/pin/1474047851240570880</id>
-        <link href="https://www.zhihu.com/pin/1474047851240570880"/>
-        <updated>2022-02-07T07:53:14.000Z</updated>
-        <summary type="html"><![CDATA[Vue 3 现已成为新的默认版本！全新的 http://vuejs.org 也已经发布。中文版翻译也已经在进行中。
-中文版预览：https://staging-cn.vuejs.org/
-中文翻译工作仓库：(GitHub) vuejs-translations/docs-zh-cn]]></summary>
-        <author>
-            <name>尤雨溪</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PT 助手 Plus – 同时搜索和管理多个 PT 站点资源，批量下载[Edge]]]></title>
-        <id>https://www.appinn.com/?p=41320</id>
-        <link href="https://www.appinn.com/pt-plugin-plus/"/>
-        <updated>2022-02-07T07:39:46.000Z</updated>
-        <summary type="html"><![CDATA[PT 助手 Plus 是一款浏览器扩展，支持 Chrome、Firefox，以及 Edge，用来在同一个页面管理多个 PT 站点账号，以及同时搜索并显示这些 PT 站点资源。@Appinn 感谢 @A]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[文章] 精读《pipe operator for JavaScript》]]></title>
-        <id>https://zhuanlan.zhihu.com/p/464467147</id>
-        <link href="https://zhuanlan.zhihu.com/p/464467147"/>
-        <updated>2022-02-07T01:33:14.000Z</updated>
-        <summary type="html"><![CDATA[Pipe Operator (|>) for JavaScript 提案给 js 增加了 Pipe 语法，这次结合 A pipe operator for JavaScript: introduction and use cases 文章一起深入了解这个提案。
-概述
-Pipe 语法可以将函数调用按顺序打平。如下方函数，存在三层嵌套，但我们解读时需要由内而外阅读，因为调用顺序是由内而外的：
-
-const y = h(g(f(x)))
-
-
-Pipe 可以将其转化为正常顺序：
-
-const y = x |> f(%) |> g(%) |> h(%)
-
-
-Pipe 语法有两种风格，分别来自 Microsoft 的 F# 与 Facebook 的 Hack。
-之所以介绍这两个，是因为 js 提案首先要决定 “借鉴” 哪种风格。js 提案最终采用了 Hack 风格，因此我们最好把 F# 与 Hack 的风格都了解一下，并对其优劣做一个对比，才能知其所以然。
-Hack Pipe 语法
-Hack 语法相对冗余，在 Pipe 时使用 % 传递结果：
-
-'123.45' |> Number(%)
-
-
-这个 % 可以用在任何地方，基本上原生 js 语法都支持：
-
-value |> someFunction(1, %, 3) // function calls
-value |> %.someMethod() // method call
-value |> % + 1 // operator
-value |> [%, 'b', 'c'] // Array literal
-value |> {someProp: %} // object literal
-value |> await % // awaiting a Promise
-value |> (yield %) // yielding a gen…]]></summary>
-        <author>
-            <name>黄子毅</name>
         </author>
     </entry>
 </feed>
