@@ -82,6 +82,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=41630",
+          "author": "青小蛙",
+          "description": "极简手机（minimalist phone）是一款旨在减少大脑多巴胺上瘾的极简 Android 启动器，它通过无图标、应用内提醒、通知过滤等功能，帮助用户减少无意识使用手机的时间，从而提高专注力。@A",
+          "link": "https://www.appinn.com/minimalist-phone/",
+          "publishedOn": "2022-03-13T05:25:23.000Z",
+          "wordCount": 781,
+          "title": "极简手机 – 如果你睁开眼睛时第一个伸手的东西是你的手机，那么这个 Android 启动器就是为你准备的",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/minimalist-phone.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=41620",
           "author": "青小蛙",
           "description": "Smart TOC 是一款 Chrome、Edge 的智能网页大纲扩展，它能为网页内容自动生成目录 TOC（Table of Content），便于浏览与跳转。支持自动开启，也可在 RSS 阅读器中自",
@@ -435,15 +445,6 @@
           "wordCount": 657,
           "title": "Amphetamine – 自动化防睡眠工具：指定程序运行、下载中、定时、指定 Wi-Fi、外接显示器等条件[macOS]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/02/amphetamine-1.jpgo_-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=41355",
-          "author": "青小蛙",
-          "description": "Online converter 是一款免费在线格式转换工具，支持包括文档、电子书、音乐、视频、压缩包等在哪的 80 多种格式，简单快捷，即开即用。@Appinn Online converter 免",
-          "link": "https://www.appinn.com/online-converter/",
-          "publishedOn": "2022-02-12T09:52:41.000Z",
-          "wordCount": 638,
-          "title": "Online converter – 免费在线格式转换工具，支持文档、电子书、音乐、视频、压缩包等 80 种格式"
         }
       ]
     },
@@ -751,33 +752,6 @@
           "wordCount": 1638,
           "title": "Getting Started With the File System Access API",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363339"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363498",
-          "author": "Chris Coyier",
-          "description": "Kilian Valkhof:\n[…] Mobile Safari increases the default font-size when you switch a website from portrait to landscape. On phones that is, it doesn’t do it on iPad. Safari has been doing this for a long time, as a \n…\nYour CSS reset needs text-size-adjust (probably) originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/",
-          "publishedOn": "2022-02-12T00:46:40.000Z",
-          "wordCount": 608,
-          "title": "Your CSS reset needs text-size-adjust (probably)"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363396",
-          "author": "Chris Coyier",
-          "description": "Every now and then, I find that I’ve accumulated a bunch of links about various things I find interesting. Like React and JavaScript! Here’s a list of nine links to other articles about them that I’ve been saving up and …\n9 New React and JavaScript Links for February 2022 originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/9-new-react-and-javascript-links-for-february-2022/",
-          "publishedOn": "2022-02-11T23:11:28.000Z",
-          "wordCount": 951,
-          "title": "9 New React and JavaScript Links for February 2022"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363027",
-          "author": "Yair Even Or",
-          "description": "Imagine you have an element with a multi-value CSS property, such as transform: optional custom property values:\n.el {\n  transform: translate(100px) scale(1.5) skew(5deg);\n}\nNow imagine you don’t always want all the transform values to be applied, so some …\nMulti-Value CSS Properties With Optional Custom Property Values originally published on CSS-Tricks. You should get the newsletter and become a supporter.",
-          "link": "https://css-tricks.com/optional-custom-property-values-trick/",
-          "publishedOn": "2022-02-11T15:30:11.000Z",
-          "wordCount": 782,
-          "title": "Multi-Value CSS Properties With Optional Custom Property Values"
         }
       ]
     },
@@ -889,6 +863,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=70928",
+          "author": null,
+          "description": "Arch Linux 诞生二十年。2002 年 3 月 11 日，代号为 Homer 的 Arch Linux 发布了 v0.1 版本，当时使用的是 Linux kernel 2.4.18。Arch Linux 是一个滚动更新发行版，保持软件处于最新的稳定版本，Valve 刚刚上市的掌机 Steam Deck 运行的就是基于 Arch Linux 的 SteamOS，Arch Linux 的滚动更新满足了 SteamOS 快速迭代和向玩家提供最佳游戏体验的需求。",
+          "link": "https://www.solidot.org/story?sid=70928",
+          "publishedOn": "2022-03-13T14:05:53.000Z",
+          "wordCount": 107,
+          "title": "Arch Linux 诞生二十年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70927",
+          "author": null,
+          "description": "印度周五表示在例行维护期间因技术故障它意外向邻国巴基斯坦发射了一枚导弹，巴基斯坦则传唤了印度使节提出抗议。印度与巴基斯坦发生过三次战争，至今两国边境线上部署了大量军队。印度国防部周五声明称，该军在星期三的一次例行维修过程中，“一项技术故障导致一枚导弹意外发射”。该部没有说明导弹的类型，但说它“落在了巴基斯坦的一个地区”。印度国防部说，事件“令人深感遗憾”，并补充说，“令人欣慰的是，这次事故没有造成人员伤亡”。巴基斯坦指印度“轻率的发射”对产业造成破坏，使平民生命和巴基斯坦领空的飞机处于危险，指责印度“罔顾地区和平与稳定”。",
+          "link": "https://www.solidot.org/story?sid=70927",
+          "publishedOn": "2022-03-13T13:28:07.000Z",
+          "wordCount": 71,
+          "title": "印度因技术故障意外向巴基斯坦发射导弹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70926",
+          "author": null,
+          "description": "2020 年 3 月 11 日，世界卫生组织（WHO）宣布新冠肺炎成为全球性大流行疫情。过去两年人们经历了封锁、疫苗，争论与病毒共存。疫情造成了巨大的损失，官方数字称至今有超过 600 万人死于新冠，这个数字可能低估了。《柳叶刀》期刊发表的最新估计认为真实的死亡数字是官方数字的三倍，即有 1820 万人死于新冠，接近 1918 年的流感疫情。WHO 总干事谭德塞在一份声明中表示，尽管全球报告的病例和死亡人数在下降，部分国家取消了限制，但疫情远未结束，只有所有地方都结束了它才会真正结束。",
+          "link": "https://www.solidot.org/story?sid=70926",
+          "publishedOn": "2022-03-12T15:09:21.000Z",
+          "wordCount": 83,
+          "title": "新冠疫情两周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70925",
+          "author": null,
+          "description": "由于俄罗斯加大对乌克兰的攻击力度，乌克兰两家主要氖气供应商已经停止运营，这两家公司的氖气产量在全球供应中约占一半。氖气是制造芯片的关键原材料，这两家公司停产可能导致价格上涨并加剧半导体短缺。全球约 45%-54% 的半导体级氖气由乌克兰 Ingas 和 Cryoin 两家公司供应。它们停产给全球芯片产量蒙上阴影。新冠疫情推动手机、笔记本电脑以及汽车对芯片的需求后，芯片已经供不应求，迫使一些公司减产。Ingas 总部设在马里乌波尔，每月生产 15,000 至 20,000 立方米。位于敖德萨的 Cryoin 每月大约生产 10,000 至 15,000 立方米氖气，该公司业务发展总监 Larissa Bondarenko 称，2 月 24 日攻击开始时，为了保证员工安全，公司停止运营。",
+          "link": "https://www.solidot.org/story?sid=70925",
+          "publishedOn": "2022-03-12T09:52:39.000Z",
+          "wordCount": 95,
+          "title": "乌克兰两家氖企停产致全球氖产量损失一半",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70924",
+          "author": null,
+          "description": "根据发表在《Nature Communications》期刊上的一项研究，北京协和医院的研究人员比较了一日三餐的进食方式与两种限时进食方式对健康成年人身体状况的影响，发现“晨间进食”可改善空腹血糖、降低体重和体脂、增加肠道微生物多样性，在提高胰岛素敏感性、控制血糖方面更加有效。研究人员介绍，限时进食是指每天在特定的时间段内（通常为8小时）进食，进食期间没有热量限制，其余时间不进食。限时进食可分为晨间进食和午间进食，前者是把每天的进食时间控制在早上 6 点到下午 3 点之间，即不吃晚餐；午间进食是把每天的进食时间控制在上午 11 点到晚上 8 点之间，即不吃早餐。这两种限时进食方案都已被证明有益于代谢，但既往研究并未就二者对人体健康的影响进行充分比较。研究团队首次在非肥胖的健康人群中开展限时进食临床试验。90 位健康、自愿参与研究的志愿者被分配至晨间进食组、午间进食组及对照组中。最后，有82名志愿者完成了为期5周的试验。分析结果显示，晨间进食在提高胰岛素敏感性方面比午间进食更有效。晨间进食改善了空腹血糖、减轻了体重和肥胖、改善了炎症，还增加了肠道微生物多样性。",
+          "link": "https://www.solidot.org/story?sid=70924",
+          "publishedOn": "2022-03-12T05:01:33.000Z",
+          "wordCount": 81,
+          "title": "研究发现不吃晚餐更有利于代谢健康的新证据",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=70923",
           "author": null,
@@ -3638,43 +3662,6 @@
           "wordCount": 93,
           "title": "英特尔的矿机叫区块链加速器",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70636",
-          "author": null,
-          "description": "Valve 的 Linux 掌机 Steam Deck 即将在月底发售，届时玩家和用户都有权拆开或改造掌机，虽然这可能会导致保修失效(如果期间出现损坏的话)。为了贯彻这一开放精神，Valve 宣布在知识共享（Creative Commons）许可协议下公开 Steam Deck 外壳（曲面拓扑）的 CAD 文件，其中包括 STP 模型、STL 模型和供各位参考的图画（DWG）。文件托管在 Gitlab 上。",
-          "link": "https://www.solidot.org/story?sid=70636",
-          "publishedOn": "2022-02-12T11:48:40.000Z",
-          "wordCount": 105,
-          "title": "Valve 在 CC 许可证下公开 Steam Deck 外壳 CAD 文件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70635",
-          "author": null,
-          "description": "网易等媒体报道，爱奇艺、优酷、腾讯视频等流媒体平台于2 月 11 日同步上线了美剧《老友记》第一季。《老友记》此前曾在搜狐视频独家上线，本次为多平台同步播出，每周五晚 8 点更新一季。网友随后发现，新版本有大量台词和剧情被删减了，以至于连剧情都无法顺利衔接，其中包括将同性恋角色台词大段删减。举例来说，在第二集中 Ross 向父母解释前妻是同性恋，离婚后准备和女友一起抚养小孩，这一情节全部删除，Ross 张开嘴没有声音，然后父母就表现出非常惊讶的表情。",
-          "link": "https://www.solidot.org/story?sid=70635",
-          "publishedOn": "2022-02-12T09:28:41.000Z",
-          "wordCount": 79,
-          "title": "《老友记》上线删减了大量内容"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70634",
-          "author": null,
-          "description": "Linux 5.18 内核将整合英特尔至今仍然神秘的软体定义硅晶片（Software Defined Silicon 或SDSi）机制的支持。英特尔尚未发布支持 SDSi 的 CPU，在内核正式支持之后，相关 CPU 预计会很快推出，第一批支持 SDSi  的 CPU 可能是 Sapphire Rapids。SDSi 允许在已生产和部署的 CPU 上通过软件激活额外的功能，这需要额外付费，英特尔尚未披露相关的更多信息。Linux 5.17 预计在 3 月底发布，随后 5.18 的合并窗口开启，稳定版本预计在 5 月底释出。",
-          "link": "https://www.solidot.org/story?sid=70634",
-          "publishedOn": "2022-02-11T14:23:14.000Z",
-          "wordCount": 100,
-          "title": "Linux 内核加入对英特尔软体定义硅晶片的支持"
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70633",
-          "author": null,
-          "description": "安全公司 Sansec 报告有大约 500 家电商网站被黑客植入了信用卡窃取程序，在访客试图在网站上购买商品时窃取敏感的支付信息。安全研究人员称，所有遭到入侵的网站都会加载托管在域名 naturalfreshmall[.]com 上的恶意脚本，它会弹出假的支付页面，所有支付信息会发送到该网站。黑客组合利用了一个 SQL 注入漏洞和 Quickview 插件的一个 PHP 对象注入攻击在网站服务器上直接执行恶意代码。遭到入侵的网站运行的版本是 Magento 1，该版本在 2020 年 6 月停止支持。相关网站最好升级到最新版本，或者安装 OpenMage 项目提供的 Magento 1 开源补丁。",
-          "link": "https://www.solidot.org/story?sid=70633",
-          "publishedOn": "2022-02-11T13:59:19.000Z",
-          "wordCount": 99,
-          "title": "500 电商网站被植入信用卡窃取程序"
         }
       ]
     },
@@ -4046,15 +4033,6 @@
           "wordCount": 11,
           "title": "[想法] [转发内容]",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhihu.com/question/516037589/answer/2344712566",
-          "author": "Anthony Fu",
-          "description": "推荐你一本我朋友写的书\n\n\n天瓏網路書店 | 重新認識 Vue.js：008天絕對看不完的 Vue.js 3 指南\n\n— 他说你看不完",
-          "link": "https://www.zhihu.com/question/516037589/answer/2344712566",
-          "publishedOn": "2022-02-12T02:31:34.000Z",
-          "wordCount": 25,
-          "title": "[回答] 如何在一周内精通Vue？"
         }
       ]
     },
