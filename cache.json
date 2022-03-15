@@ -54,25 +54,6 @@
           "wordCount": 399,
           "title": "v1.14.0: V1.14.0 (#79)",
           "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
-          "author": null,
-          "description": "New: Thumbnail image display for each article\nNew: Improved color, spacing, and typography for easier reading\nNew: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.\nChanged: All sections are expanded by default\nChanged: Switched to vitest for easier testing\nFixed: Long string (e.g. URL) caused horizontal overflow\nThank you: @naari3, @tianheg",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
-          "publishedOn": "2022-02-13T05:05:17.000Z",
-          "wordCount": 342,
-          "title": "v1.13.0",
-          "imageUrl": "https://opengraph.githubassets.com/fc77c41c87b2cd4d8990f4c940e0ddf681667b6b6e4363b0f609861b7ae5b6d8/osmoscraft/osmosfeed/releases/tag/v1.13.0"
-        },
-        {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
-          "author": null,
-          "description": "Fixed: Future articles appeared in the feed\nFxied: Security vulnerability from axios\nThank you: @naari3",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
-          "publishedOn": "2022-02-12T17:46:42.000Z",
-          "wordCount": 271,
-          "title": "v1.12.1"
         }
       ]
     },
@@ -81,6 +62,16 @@
       "feedUrl": "https://feeds.appinn.com/appinns/",
       "siteUrl": "https://www.appinn.com",
       "articles": [
+        {
+          "id": "https://www.appinn.com/?p=41639",
+          "author": "青小蛙",
+          "description": "来自问题频道的问题：性能不佳的电脑用什么chromium内核的浏览器好？ 办公电脑（公司的财产），性能很差，32位win7，可用内存3.5G，日常空闲内存100M以内，平时主要上网页OA，然后Offi",
+          "link": "https://www.appinn.com/older-computers-browsers/",
+          "publishedOn": "2022-03-14T05:53:14.000Z",
+          "wordCount": 773,
+          "title": "性能不佳的老电脑，用什么 Chrome 内核的浏览器好？",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/chrome.jpgo_.jpg"
+        },
         {
           "id": "https://www.appinn.com/?p=41630",
           "author": "青小蛙",
@@ -435,16 +426,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/02/bongo-cat-mver.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=41360",
-          "author": "青小蛙",
-          "description": "Amphetamine 是一款 macOS 上的自动化防止睡眠工具，它能够通过制定程序运行时、下载中、定时等多种条件来防止 Mac 电脑进入休眠状态。另外还能通过 Trigger 实现外接显示器、US",
-          "link": "https://www.appinn.com/amphetamine/",
-          "publishedOn": "2022-02-13T06:09:52.000Z",
-          "wordCount": 657,
-          "title": "Amphetamine – 自动化防睡眠工具：指定程序运行、下载中、定时、指定 Wi-Fi、外接显示器等条件[macOS]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/02/amphetamine-1.jpgo_-1.jpg"
         }
       ]
     },
@@ -846,15 +827,6 @@
           "wordCount": 641,
           "title": "CSS overflow-clip-margin属性简介",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10311",
-          "author": "张 鑫旭",
-          "description": "CSS :not()伪类选择器之前除了 Safari 浏览器外只支持简单参数，现在，所有浏览器都支持了复杂的并列参数值，来看看写的写法和带来的变化吧。",
-          "link": "https://www.zhangxinxu.com/wordpress/2022/02/css-not-pseudo-class-list-argument/",
-          "publishedOn": "2022-02-12T15:07:46.000Z",
-          "wordCount": 667,
-          "title": "CSS :not()伪类选择器已支持复杂参数"
         }
       ]
     },
@@ -863,6 +835,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=70941",
+          "author": null,
+          "description": "中国天文学家正在青海冷湖附近建造 9 个天文望远镜项目。中科院国家天文台去年报告，研究人员从 2018 年起对该地的晴夜数量、晴夜背景亮度和气象进行了连续三年的监测，结果显示其天文观测条件与著名的夏威夷莫纳克亚峰和智利各天文台基本持平。在该地建造天文观测台将有助于填补空白。目前落户青海冷湖的望远镜项目包括：中国科学技术大学—紫金山天文台 2.5 米大视场巡天望远镜项目，西华师范大学 50BiN 望远镜项目，国家天文台 SONG 望远镜项目、用于太阳磁场精确测量的中红外观测系统项目、紫金山天文台多应用巡天望远镜阵列等 4 个项目已完成土建施工和主体建设；中科院地质与地球物理研究所 PAST 和 TINTIN 望远镜项目；南京大学的时域天文台 TiDO 项目和清华大学的宽视场光谱巡天望远镜即将开工。",
+          "link": "https://www.solidot.org/story?sid=70941",
+          "publishedOn": "2022-03-14T12:42:11.000Z",
+          "wordCount": 91,
+          "title": "9 个天文望远镜项目落户青海冷湖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70940",
+          "author": null,
+          "description": "福特公司成为最新一家向客户出售缺少部分芯片的汽车的制造商。因芯片供应短缺汽车制造商不得不限产或者提供缺少部分芯片的汽车，如通用汽车放弃了无线充电、HD 无线电和燃料管理模块。福特公司放弃的是后座控制空调和加热的芯片，受影响的型号为 Ford Explorers。它将向汽车经销商提供不含有这种芯片的汽车，然后在一年内向经销商交付缺失的芯片。福特称空调和加热控制仍然能在前座控制，购买缺少芯片的汽车将获得折扣价。此举旨在更快的向客户交付产品。",
+          "link": "https://www.solidot.org/story?sid=70940",
+          "publishedOn": "2022-03-14T12:03:48.000Z",
+          "wordCount": 74,
+          "title": "福特将向客户出售缺少部分芯片的汽车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70938",
+          "author": null,
+          "description": "深圳因为新一轮疫情实施了封锁政策，苹果主要供应商富士康位于深圳的两家工厂已停产。深圳的封锁将持续六天，可能会加剧全球供应链的混乱。有 30 多家台湾工厂宣布停产，它们的产品从电路板到触摸屏模块不等。制造商表示工厂将一直关闭到 3 月 20 日，直至当地政府的通知。富士康表示已调整了其它地区工厂的生产，尽可能减少深圳工厂停产的影响。富士康在深圳的工人被禁止离开园区。停产的工厂主要组装 iPhone 13。",
+          "link": "https://www.solidot.org/story?sid=70938",
+          "publishedOn": "2022-03-14T09:28:40.000Z",
+          "wordCount": 80,
+          "title": "富士康深圳工厂停产",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70937",
+          "author": null,
+          "description": "普林斯顿大学研究员 Klaudia Jazwinska 在谈到“慈善资本主义(philanthrocapitalism)”的危险时写道：“对人工智能（AI）等计算技术影响的研究在很大程度上依赖于生产这些技术的公司的财务支持。”“Google、微软和 IBM 等公司每年花几百万美元资助实验室、教授职位，博士项目和世界顶级机构的计算机科学（CS）会议。行业是学术 CS 研究的主要消费者，有 84% 的 CS 教授至少获得了一些行业资助。”“依赖大公司及他们控制的资源可能会极大地限制提出、资助和发表的 CS 研究的类型。科技行业在决定哪些问题值得研究，哪些问题不值得研究，或者如何构建问题框架方面发挥着举足轻重的作用。因此合理研究的范围取决于什么对科技公司有价值。这些公司基本上没有动力资助他们认为更边缘或者与其优先事项无关的问题的学术研究。”Jazwinska 总结称：“鉴于大型科技公司和学术界之间的财务纠缠程度，期待 CS 学者完全拒绝接受任何行业资助可能是不现实的——相反，齐心协力建立更高的标准并让赞助变得更加透明可能是更现实的做法。”",
+          "link": "https://www.solidot.org/story?sid=70937",
+          "publishedOn": "2022-03-14T08:15:30.000Z",
+          "wordCount": 87,
+          "title": "计算机科学的“慈善资本主义”危险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70936",
+          "author": null,
+          "description": "Mindway AI 公司使用心理学家训练 AI 算法识别与赌博成瘾相关的行为。CEO Rasmus KjÃ¦rgaard 表示，挑战在于没有单一指标判断一个人是否赌博成瘾。在大多数赌场，人们对赌博成瘾的监测只关注几个因素——主要是花的钱和玩的时间。Mindway 的系统将 14 种不同的风险纳入考量。这些风险包括金钱和时间，也包括取消的银行提款，玩家在一天中赌博时间的变化以及赌注的不规则变化。每个因素都有一个从 1 到 100 的分数，然后人工智能对每个玩家进行风险评估，通过扑克的每一手或者轮盘赌的每一轮进行改进。玩家的得分从绿色（你做得很好）到血红色（立刻离开赌局）。\n\n\n华达大学拉斯维加斯分校（UNLV）国际博彩学院的研究主任Brett Abarbanel认为，最棘手的地方在于获取这些数据并向玩家解释。“如果我的算法标记了某个人，认为他赌博成瘾，我不会给他递上一张写着‘嗨，好消息，我的算法已经将你识别为潜在的赌博成瘾者，你应该立刻停止赌博！’的便条。”Abarbanel 博士表示，对方的反应显而易见，会伸出中指：“这就是会出现的情况……”KjÃ¦rgaard 表示，自 2018 年开始，Mindway 同七家丹麦的运营商、德国和荷兰的各两家运营商、一家全球运营商和一家美国体育博彩运营商签约，为他们提供服务。在线赌博巨头 Flutter Entertainment 和 Entain 的年报显示，他们也与 Mindway 建立了合作伙伴关系。由于这项技术太新了，还没有监管机构制定标准，Mindway 和类似公司目前基本上是自由发挥。",
+          "link": "https://www.solidot.org/story?sid=70936",
+          "publishedOn": "2022-03-14T07:55:03.000Z",
+          "wordCount": 102,
+          "title": "AI 能帮助赌场减少赌博成瘾吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70935",
+          "author": null,
+          "description": "《最后的出路：太空（Last Exit: Space）》是一部探索人类在地球以外行星上殖民可能性的 Discovery+ 纪录片，由知名导演 Werner Herzog 制作并担任讲述人，其子 Rudolph 担任剧本作者并执导。它和一般的太空纪录片不太一样。Werner 在片中表示：“火星上的生活现实将是发人深省的。”“宇航员将蜷缩在防辐射掩体中，喝着回收尿液……”\n\n\nRudolph 大部分时间专注于人类旅行、登陆和建立太空殖民地的两个选择：火星和半人马座阿尔法星系中的系外行星。沿着这个方向，《最后的出路：太空》采用了一种模式。首先它提出了一个可能会让某种太空旅行提议成为不可能的问题。然后它扼要解释现代科学和工程开发对该问题最有希望的解决方案。最后它又让星际梦想落地，严肃地讲述了为什么解决方案行不通。Werner 表示：“我们知道太阳系外最接近的行星至少在 5000 年外。”“做到这一点非常困难，而且那里可能不适合居住。火星上存在着永久性辐射，将迫使我们躲在地下的小掩体里……”\n\n\n在探讨通往半人马座阿尔法星长达 5000 年的旅程时，《最后的出路：太空》提出了一些关于人类精神的大胆问题，每个问题都有乐观和悲观的不同答案。休眠可行吗？不休眠的骷髅船员能以理智的方式工作吗？无论是从减轻重量的机械方面考虑，还是从可能的近亲繁殖角度考虑，如果一艘船无法容纳至少 4 万名殖民者确保基因库的多样性，人类的交配行为将如何发挥作用？“正如你在本片中的天文学家 Lucian Walkowicz 那里听到的，我们站在她一边：我们不应该表现得像蝗虫一样，吃光一切，然后继续前往下一个行星。有些东西不适合转移，将我们的人口转移到其他星球，这是伦理问题。太空殖民将会失败。这是不可避免的。你无法前往旁边 20 万年之遥的。”\n\n\n纪录片的制作者明确表示，他们钦佩并欣赏试图理解太空和宇宙邻居的努力。但是在将“太空殖民化”描述为“一个肮脏的词语”时，Rudolph 引述了 Walkowicz 在结尾的说法：“现在已经有一艘跨代宇宙飞船在运行——我们已经在上面了。地球是一个布置豪华、能奇妙地自我更新的地方，我们还是好好对待它吧……”",
+          "link": "https://www.solidot.org/story?sid=70935",
+          "publishedOn": "2022-03-14T07:43:14.000Z",
+          "wordCount": 100,
+          "title": "人类太空殖民“将不可避免地失败”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70934",
+          "author": null,
+          "description": "如果需要证据证明不需要最先进工艺就能造出 Exascale 级超算，你只需要看看中国国家超级计算无锡中心的神威·“海洋之光”系统。阿里巴巴、清华大学、达摩院、浙江实验室和北京智源人工智能研究院发表的论文透露了关于“海洋之光”的架构细节，它们运行名为“八卦炉（BaGuaLu）”的预训练机器学习模型，有超过 3700 万个内核和 14.5 万亿个参数（大概为FP32 单精度），能扩展到 174 万亿个参数（接近“大脑规模”，即其参数数量接近人脑突触数量）。\n\n\n“八卦炉”训练模型测试的总计 105 个机柜的系统及其 107,250 个 SW26010-Pro 处理器的峰值理论性能为 1.51 exaflops。我们喜欢基数为 2 的数字，认为“海洋之光”系统可能会扩展到 160 个机柜，即 163,840 个节点，峰值 FP64 和 FP32 性能略低于 2.3 exaflops。如果它只有 120 个机柜，“海洋之光”的峰值将是 1.72 exaflops。如果 160 机柜规模是“海洋之光”的最大值，那么中国可以超越美国橡树岭国家实验室正在调优的“Frontier”超算（性能为 1.5 exaflops），并能超越将于今年晚些时候进入美国劳伦斯利弗莫尔国家实验室的“Aurora”超算（理论峰值性能 2 exaflops）——甚至可能超过将于 2023 年进入劳伦斯利弗莫尔国家实验室的“El Capitan”超算，传言“El Capitan”超级计算机的理论峰值性能预计将达到 2.2 exaflops 到 2.3 exaflops。\n\n\n我们很想看看“海洋之光”的发热量和成本。可以肯定 SW26010-Pro 芯片会很热，供电和冷却的电费很高，但如果中芯国际 14 纳米工艺产率不错的话，那么该芯片的制造成本可能会比 Nvidia、AMD或者 Intel 的大型 GPU 加速器便宜得多。不管怎样，对于中国的现在和未来来说，拥有本土零部件比能源效率更重要。想象一下，多年后中芯国际能实现 7 纳米工艺时候，中国可以用它做些什么。",
+          "link": "https://www.solidot.org/story?sid=70934",
+          "publishedOn": "2022-03-14T06:53:08.000Z",
+          "wordCount": 140,
+          "title": "中国如何用 14 纳米技术造 Exascale 级超算",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70933",
+          "author": null,
+          "description": "俄罗斯宣布从周日开始屏蔽访问 Instagram ，并对其母公司 Meta 展开刑事调查。理由是 Meta 允许乌克兰用户发表如“俄罗斯侵略者去死”之类的暴力言论。Meta 则表示阻止乌克兰用户发表对侵略者的愤怒是错误的。在封锁的消息公布之后，Instagram 的俄罗斯网红纷纷与网友告别。据市场数据公司 Statista 的数据，Instagram 在俄罗斯有近六千万用户，约占其人口总数的四成。它也是俄罗斯用户的一个重要收入来源，他们通过发布推广内容从赞助商获取收入。俄罗斯通信监管机构则鼓励 Instagram 的俄用户转移到本国的替代平台。",
+          "link": "https://www.solidot.org/story?sid=70933",
+          "publishedOn": "2022-03-14T06:06:43.000Z",
+          "wordCount": 87,
+          "title": "俄罗斯屏蔽 Instagram，俄罗斯用户向网友告别",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70932",
+          "author": null,
+          "description": "欧盟领导人上周承诺减少对食品、微处理器、药品、原材料和数字技术国际供应商的依赖，俄罗斯入侵乌克兰为欧盟进一步自力更生增添新的理据。新冠疫情表明全球供应链的崩溃可能使欧盟无法获得药品或微芯片，自此之后欧盟一直在考虑如何增强在几个战略领域的独立性。欧盟执委会主席冯德莱恩(Ursula von der Leyen)表示，执委会最晚将在5月中旬提出一个计划，在五年后逐步消除欧盟对俄罗斯天然气、石油和煤炭的依赖。在半导体方面，欧盟希望建立自己的工厂，到 2030 年将欧盟在全球市场的份额翻一番达到 20%。",
+          "link": "https://www.solidot.org/story?sid=70932",
+          "publishedOn": "2022-03-14T05:00:18.000Z",
+          "wordCount": 77,
+          "title": "欧盟计划减少进口芯片和食品的依赖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70931",
+          "author": null,
+          "description": "白俄罗斯执法机构 The Main Directorate for Combating Organized Crime and Corruption of Belarus (GUBOPiK) 拘留了知名的维基百科编辑 Mark Bernstein。他是俄语维基百科排名前 50 的志愿者，完成了超过 21 万次编辑，目前其账号已被锁住。拘留发生在他的身份信息公布在 GOBUPiK 的 Telegram 频道之后，公开的照片和视频显示他被控传播虚假的反俄罗斯信息。据 Charter 97 网站周六报道，Bernstein 被拘留 15 天。",
+          "link": "https://www.solidot.org/story?sid=70931",
+          "publishedOn": "2022-03-14T04:47:41.000Z",
+          "wordCount": 104,
+          "title": "维基百科编辑被拘留 15 天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=70929",
+          "author": null,
+          "description": "以隐私保护著称的搜索引擎 DuckDuckGo 降低了传播俄罗斯虚假信息的网站的排名，结果招致了美国保守派网站的抨击，被指责进行审查，有用户甚至表示要用俄罗斯的搜索引擎 Yandex 替代 DuckDuckGo。DuckDuckGo 负责公关的副总裁 Kamyl Bazbaz 回应称，它的搜索引擎是基于微软的 Bing，它对搜索结果没多少控制力。而微软是遵循欧盟的命令限制访问俄罗斯官媒 RT 和 Sputnik 的访问。他指出受影响的网站在积极从事虚假信息宣传，它们类似被搜索算法惩罚的低质量网站，这不是审查而只是搜索排名。DuckDuckGo 本月宣布停止与 Yandex 的合作。",
+          "link": "https://www.solidot.org/story?sid=70929",
+          "publishedOn": "2022-03-13T14:20:03.000Z",
+          "wordCount": 94,
+          "title": "DuckDuckGo 因 Bing 降低传播俄罗斯虚假信息网站的排名",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=70928",
           "author": null,
@@ -3622,46 +3704,6 @@
           "wordCount": 105,
           "title": "RedLine 恶意程序伪装成 Windows 11 升级安装包",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70640",
-          "author": null,
-          "description": "Linux 5.18 将加入对 Intel Hardware Feedback Interface (HFI 或称为 Enhanced Hardware Feedback interface - EHFI)的支持，以更好的利用英特尔新处理器的大小核。英特尔 Alder Lake 首次使用了混合核心，其中包括性能 P 核心和能效 E 核心，在理想情况下后台任务和轻量级负荷可以用 E 核心以节省电力，而延迟敏感和计算密集任务可使用 P 核心。但无论是 Windows 还是 Linux 对大小核的支持都称不上理想，Linux 可能更差，但这一情况将随着 Linux 5.18 的发布而有所改善。",
-          "link": "https://www.solidot.org/story?sid=70640",
-          "publishedOn": "2022-02-13T12:48:42.000Z",
-          "wordCount": 108,
-          "title": "Linux 5.18 将改进对英特尔大小核的支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70639",
-          "author": null,
-          "description": "无论设备多安全，用户总是其中最薄弱的一环。在实际中攻击者可简单通过口头威胁或法庭传票要求用户交出秘密。绝大多数安全方案都设计强调数据的保密性，而不是让用户可以否认设备上存在秘密数据。著名黑客黄欣国（Andrew 'bunnie' Huan）宣布了一种让用户可以否认秘密存在的机制 Plausibly Deniable DataBase (PDDB)。PDDB 使用的设备被称为 Precursor，在攻击者能无限制访问设备，能对存储器的数据进行快照，能反复的侵入性检查，PDDB 允许用户否认秘密存在。用户需要在性能和可否认之间做选择，秘密数据占据的比例很小时对性能的影响甚微，如 100 MB 容量占 8 MB。但如果 100 MB 占 80 MB 时性能影响会比较显著。",
-          "link": "https://www.solidot.org/story?sid=70639",
-          "publishedOn": "2022-02-13T12:24:19.000Z",
-          "wordCount": 91,
-          "title": "可合理否认存在的秘密数据库",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70638",
-          "author": null,
-          "description": "韦伯太空望远镜第一阶段的主镜调整接近完成，它公布了近红外相机拍摄的首幅照片。望远镜的主镜由 18 块六角形的镜片构成，尚未调整完毕，照片是同一颗恒星在 18 块镜片上的反射光，构成了 18 个点。拍摄对象是 HD 84406，位于大熊星座，亮度稳定，是一个完美的早期观测对象。而在韦伯完成镜片调整之后，它会因为亮度太亮而无法观测。NASA 表示对镜片的调整相当顺利。",
-          "link": "https://www.solidot.org/story?sid=70638",
-          "publishedOn": "2022-02-12T13:53:18.000Z",
-          "wordCount": 80,
-          "title": "韦伯望远镜公布首幅照片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70637",
-          "author": null,
-          "description": "英特尔将在本月 20 日召开的国际固态电路大会(International Solid-State Circuits Conference)上宣布它的 ASIC 矿机。现在它透露了更多消息，它的矿机不叫矿机而是美名为区块链加速器。英特尔负责显卡业务的总经理 Raja Koduri 称，该公司的区块链加速器在基于 SHA-256 算法的挖矿上的每瓦性能是主流显卡的一千多倍。比特币的挖矿算法就是基于 SHA-256。英特尔在区块链加速器上的合作伙伴包括了 Argo Blockchain、Block (前称 Square) 和 Griid Infrastructure。 Koduri 声称区块链加速器使用的硅芯片很小，对现有产品的供应影响甚微。芯片巨人的首款区块链加速器预计将在今年晚些时候面世。",
-          "link": "https://www.solidot.org/story?sid=70637",
-          "publishedOn": "2022-02-12T13:33:42.000Z",
-          "wordCount": 93,
-          "title": "英特尔的矿机叫区块链加速器",
-          "imageUrl": null
         }
       ]
     },
@@ -3745,15 +3787,6 @@
           "wordCount": 10,
           "title": "[想法] 重工业的停滞--河北和东北 其实在全国各…",
           "imageUrl": null
-        },
-        {
-          "id": "https://zhuanlan.zhihu.com/p/466736831",
-          "author": "宁南山",
-          "description": "历史的惯性—重庆为什么工业增加值全国第四\n这几年如果比较全国城市的工业增加值（不是产值），基本上就是上海，深圳前两位，苏州第三位，那么第四位是谁呢？是重庆。\n位于内陆地区的重庆工业增加值超过了广州，武汉，南京，杭州，天津等城市。\n为什么重庆的工业增加值会这么高？这不仅跟重庆目前的发展态势不错有关，同时也是跟历史上的民族工业发展和积累是分不开的，我们可以称之为是历史的惯性。\n重庆的工业化起始于抗战时期，全面抗战爆发前的四川（当时包括重庆）已经被蒋介石在1935年的讲话中钦定为“民族复兴根据地”。\n\n蒋介石在演讲中说到：\n“兄弟此次初到重慶，見到地方秩序還好，黨政軍各界同志，又都能共同努力，一切事情，辦得都有條理，心裏覺得非常愉快。不過兄弟來此為時太短，今天沒有什麼多的話可以貢獻各位，只就兄弟此次入川的宗旨和觀感所及約略的說一說：\n　就四川地位而言，不僅是我們革命的一個重要地方，尤其是我們中華民族立國的根據地。無論從那方面講，條件都很完備。人口之眾多，土地之廣大，物產之豐富，文化之普及，可說為各省之冠，所以自古即稱「天府之國」，處處得天獨厚。我們既然有了這種優越的憑藉，如果各界同志，大家能夠本著「親愛精誠」的精神，共同一致的努力向上，不僅可以使四川建設成功為新的模範省，更可以使四川為新的基礎來建設新中國！”\n\n\n1937年抗战全面爆发后，大批的沿海工厂从各省份迁移到四川（当时包含重庆），尤其是军事工业，承担了抗战时期的作战需要。\n下图是1945年8月抗战胜利时统计的国民政府兵工署下属军工厂，统计共有8.77万名员工，2.29万台设备，可以看出高度集中在四川尤其是重庆地区。\n\n\n\n图中的兵工署第一工厂，1945年8月统计有5071人，主要生产中正式步枪，掷弹筒，炮弹，手榴弹等，其前身就是大名鼎鼎的汉阳兵工厂，该厂在抗战中先是搬迁到湖南辰溪，然后部分搬迁到重庆，变成了第一工厂。\n该…",
-          "link": "https://zhuanlan.zhihu.com/p/466736831",
-          "publishedOn": "2022-02-12T15:05:34.000Z",
-          "wordCount": 93,
-          "title": "[文章] 两次产业转移和历史的惯性--重庆为什么工业增加值全国第四"
         }
       ]
     },
@@ -3823,6 +3856,16 @@
       "feedUrl": "https://rss.lilydjwg.me/zhihu/huang-zi-yi-83",
       "siteUrl": "https://www.zhihu.com/people/huang-zi-yi-83",
       "articles": [
+        {
+          "id": "https://zhuanlan.zhihu.com/p/480597670",
+          "author": "黄子毅",
+          "description": "SQL 复杂查询指的就是子查询。\n为什么子查询叫做复杂查询呢？因为子查询相当于查询嵌套查询，因为嵌套导致复杂度几乎可以被无限放大（无限嵌套），因此叫复杂查询。下面是一个最简单的子查询例子：\n\nSELECT pv FROM (\n  SELECT pv FROM test\n)\n\n\n上面的例子等价于 SELECT pv FROM test，但因为把表的位置替换成了一个新查询，所以摇身一变成为了复杂查询！所以复杂查询不一定真的复杂，甚至可能写出和普通查询等价的复杂查询，要避免这种无意义的行为。\n我们也要借此机会了解为什么子查询可以这么做。\n理解查询的本质\n当我们查一张表时，数据库认为我们在查什么？\n这点很重要，因为下面两个语句都是合法的：\n\nSELECT pv FROM test\n\nSELECT pv FROM (\n  SELECT pv FROM test\n)\n\n\n为什么数据库可以把子查询当作表呢？为了统一理解这些概念，我们有必要对查询内容进行抽象理解：任意查询位置都是一条或多条记录。\n比如 test 这张表，显然是多条记录（当然只有一行就是一条记录），而 SELECT pv FROM test 也是多条记录，然而因为 FROM 后面可以查询任意条数的记录，所以这两种语法都支持。\n不仅是 FROM 可以跟单条或多条记录，甚至 SELECT、GROUP BY、WHERE、HAVING 后都可以跟多条记录，这个后面再说。\n说到这，也就很好理解子查询的变种了，比如我们可以在子查询内使用 WHERE 或 GROUP BY 等等，因为无论如何，只要查询结果是多条记录就行了：\n\nSELECT sum(people) as allPeople, sum(gdp), city FROM (\n  SELECT people, gdp, city FROM test\n  GROUP BY city\n…",
+          "link": "https://zhuanlan.zhihu.com/p/480597670",
+          "publishedOn": "2022-03-14T03:22:23.000Z",
+          "wordCount": 304,
+          "title": "[文章] SQL 复杂查询",
+          "imageUrl": ""
+        },
         {
           "id": "https://zhuanlan.zhihu.com/p/476883070",
           "author": "黄子毅",
@@ -3954,6 +3997,16 @@
       "feedUrl": "https://rss.lilydjwg.me/zhihu/antfu",
       "siteUrl": "https://www.zhihu.com/people/antfu",
       "articles": [
+        {
+          "id": "https://www.zhihu.com/pin/1486758654515146752",
+          "author": "Anthony Fu",
+          "description": "webfansplz：浅谈VueUse设计与实现",
+          "link": "https://www.zhihu.com/pin/1486758654515146752",
+          "publishedOn": "2022-03-14T09:41:25.000Z",
+          "wordCount": 11,
+          "title": "[想法] webfansplz：浅谈VueUse设计与实现",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zhihu.com/pin/1485356861520580608",
           "author": "Anthony Fu",
