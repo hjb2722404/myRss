@@ -12,6 +12,31 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=41732",
+          "author": "数码荔枝",
+          "description": "使用 Mac 的小伙伴，有多少人还在用原生的访达管理文件？虽然已经满足基本需求，但仍有一些槽点：不支持多视图查看、地址栏编辑不够直观、连接服务器仅只读等。 强烈安利一款单窗口多视图文件管理器：QSpa",
+          "link": "https://www.appinn.com/qspace-for-macos/",
+          "publishedOn": "2022-03-22T09:44:09.000Z",
+          "wordCount": 818,
+          "title": "忘了 Mac 访达吧，QSpace 文件管理器一个更比多个强",
+          "enclosure": {
+            "url": "https://www.appinn.com/wp-content/uploads/2022/03/ezgif.com-gif-maker-10.mp4",
+            "length": "305314",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/qspace.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=41728",
+          "author": "青小蛙",
+          "description": "News 是一款可以在旧手机上流畅使用的 Android RSS 阅读器，支持使用 Miniflux 和 Nextcloud 作为订阅源，也可以独立订阅，简单易用。@Appinn 这种上来就起一个 N",
+          "link": "https://www.appinn.com/co-appreactor-news/",
+          "publishedOn": "2022-03-22T08:00:25.000Z",
+          "wordCount": 667,
+          "title": "News – 支持 Miniflux 和 Nextcloud 的 RSS 阅读器[Android]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/co-appreactor-news.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=41723",
           "author": "青小蛙",
           "description": "Ray.so 是一款快速把代码变成精美图片的在线工具，支持 8 种配色、黑暗模式，以及自动选择语言、快捷键等功能，让你分享代码更优雅。@Appinn 感谢 @蚁工厂 的推荐。 在介绍过好几款类似产品之",
@@ -400,16 +425,6 @@
           "wordCount": 700,
           "title": "绝版游戏保护工程 – 两张光盘容量，近 200 款老游戏",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/02/preserve-cd.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=41422",
-          "author": "青小蛙",
-          "description": "风云四号实时地球图片（附带时钟）FY4A Real-time Earth 是发布在 Steam 的动态壁纸 Wallpaper Engine 的创意工坊，它可以让你的桌面实时显示风云四号卫星实时拍摄的",
-          "link": "https://www.appinn.com/wallpaper-engine-fy4a-real-time-earth/",
-          "publishedOn": "2022-02-21T07:30:47.000Z",
-          "wordCount": 591,
-          "title": "风云四号实时地球图片 – 动态壁纸 Wallpaper Engine 的创意工坊",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/02/fy4a-real-time-earth.jpgo_.jpg"
         }
       ]
     },
@@ -741,16 +756,6 @@
           "wordCount": 1099,
           "title": "被低估的border-image属性",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10322",
-          "author": "张 鑫旭",
-          "description": "本文介绍了下以后应该会比较广泛使用的 overflow:clip 属性以及比较有趣的 overflow-clip-margin 属性，希望可以帮到大家的学习与成长。",
-          "link": "https://www.zhangxinxu.com/wordpress/2022/02/css-overflow-clip-margin/",
-          "publishedOn": "2022-02-20T17:01:34.000Z",
-          "wordCount": 641,
-          "title": "CSS overflow-clip-margin属性简介",
-          "imageUrl": null
         }
       ]
     },
@@ -759,6 +764,196 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71027",
+          "author": null,
+          "description": "在新增加了 65 颗行星之后，NASA Exoplanet Archive 确认的系外行星数量达到了 5005 颗。最早的系外行星是在 1990 年代初确认的，2019 年确认的系外行星数量突破了 4000 颗，不到三年就增加了一千颗，而 NASA 的数据库里还有 TESS 太空望远镜探测到的 5000 多颗候选行星等待确认。目前还没有发现与地球极为相似的系外行星。而 5000 颗只是银河系中行星数量非常小的一部分，NASA 称银河系可能有数千亿颗行星。",
+          "link": "https://www.solidot.org/story?sid=71027",
+          "publishedOn": "2022-03-22T14:43:32.000Z",
+          "wordCount": 98,
+          "title": "NASA 确认了超过 5000 颗系外行星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71026",
+          "author": null,
+          "description": "在第一款采用 3D 缓存技术的桌面处理器 Ryzen 7 5800X3D 之后，AMD 宣布了采用 3D 缓存技术的 Epyc 服务器处理器 Milan-X，其 L3 缓存高达 768MB，而去年发布的 Milan 处理器的 L3 缓存为 256MB。AMD 声称对于缓存敏感的计算任务，新芯片能带来巨大的性能提升，比英特尔最新的至强处理器快 23-88%。Milan-X 处理器兼容于现有的支持 Milan 处理器的平台。对于缓存不敏感的应用，新 Milan-X 与旧 Milan 没什么区别。",
+          "link": "https://www.solidot.org/story?sid=71026",
+          "publishedOn": "2022-03-22T14:00:37.000Z",
+          "wordCount": 110,
+          "title": "AMD 宣布采用 3D 缓存技术的 Epyc 处理器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71025",
+          "author": null,
+          "description": "调查 Google 垄断行为的美国司法部指控搜索巨人培训员工隐藏商务通信，避免它们因法律性质的争端而披露。美国司法部称，Google 培训员工对敏感的商务通信征询律师的建议，而一旦律师参与，公司可以将这些文件视为受“律师-当事人特权”保护。司法部律师称，Google 明确指示员工通过使用虚假的法律咨询隐藏重要的商务通信文件。商务部要求监督反垄断调查的法官制裁 Google 并强迫它披露更多文件。",
+          "link": "https://www.solidot.org/story?sid=71025",
+          "publishedOn": "2022-03-22T13:30:37.000Z",
+          "wordCount": 81,
+          "title": "美国司法部指控 Google 隐藏商务通信",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71024",
+          "author": null,
+          "description": "Lapsus$ 黑客组织宣称入侵了微软内部的 Azure DevOps 服务器，窃取到 Bing、Cortana 等微软内部项目的源代码。Lapsus$ 随后公开了一个解压后有 37GB 大小的压缩文件，包括了 Bing 90% 的源代码，Bing Maps 和 Cortana 项目 45% 的源代码。研究过泄密文件的安全研究人员认为它们是真实的内部源代码。泄露源代码不涉及微软的桌面软件如 Windows、Windows Server 和 Microsoft Office。微软表示正对此事展开调查。Lapsus$ 最近完成了多次高调的入侵行动，攻击了多家知名企业，其中包括英伟达，暂时不清楚它是如何入侵的，有安全研究人员怀疑它收买了相关企业的内部人士。",
+          "link": "https://www.solidot.org/story?sid=71024",
+          "publishedOn": "2022-03-22T12:52:19.000Z",
+          "wordCount": 101,
+          "title": "Lapsus$ 黑客泄露 37GB 的微软产品源代码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71023",
+          "author": null,
+          "description": "主要汽车制造商都推出了不同程度的自动驾驶系统，那么自动驾驶期间发生了车祸，应该由谁承担法律责任？奔驰汽车制造商梅塞德斯表示责任在它。奔驰 S 级和 EQS 汽车在时速低于 40 英里的高速公路上行驶时可启用  Drive Pilot 系统去控制车速、转向和刹车。一旦启用该系统，司机就不再需要承担责任，可以转移视线，放松下看部电影。如果发生了车祸，这是奔驰的问题不是司机的问题。这一区别使得梅塞德斯的半自动驾驶系统领先于特斯拉的 AutoPilot，Drive Pilot 已批准在德国所有高速公路上使用，梅塞德斯希望今年底前能在美国部署该系统。",
+          "link": "https://www.solidot.org/story?sid=71023",
+          "publishedOn": "2022-03-22T12:36:10.000Z",
+          "wordCount": 84,
+          "title": "梅塞德斯将在自动驾驶系统启用期间承担法律责任",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71022",
+          "author": null,
+          "description": "2021 年 3 月法国数据中心服务商  OVH 位于法国斯特拉斯堡的多个数据中心遭遇火灾，SBG2 完全烧毁，SBG1 部分烧毁，消防员及时保护了 SBG3。时隔一年之后，当地消防部门公布了火灾报告，严厉了批评了数据中心设施的消防问题。消防部门称，SBG2 数据中心没有自动灭火系统，没有电力切断总开关，它的木制天花板只能抵挡火灾一小时，自然冷却的设计制造了烟道，增加了火势。因为没有总开关，消防队员花了三小时才切断电力。OVH 自己仍然在与保险公司和政府机构合作写一份正式的火灾报告，而报告公布日期未知。该公司还遭到了客户的集体诉讼。",
+          "link": "https://www.solidot.org/story?sid=71022",
+          "publishedOn": "2022-03-22T12:04:25.000Z",
+          "wordCount": 83,
+          "title": "OVH 数据中心被指消防问题严重",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71021",
+          "author": null,
+          "description": "加利福尼亚公司 MyOme 表示，它可以破译通过体外受精（IVF）产生的、几天大胚胎的几乎所有的 DNA 编码——这是一项具有挑战性的壮举，因为可供分析的遗传物质数量非常少。这一进展有赖于对父母双方 DNA 的全面测序，并在这些数据的帮助下“重建”胚胎的基因组。该公司表示，它可以预测几十年后患上常见疾病的风险。目前这种遗传风险预测正在成年人中进行测试，有时会在临床提供。将其应用于体外受精胚胎的想法引发了激烈的科学和伦理争议，但这并没有阻止这项技术飞速发展。\n\n\n通过将这种遗传变异性和所谓的“多基因风险评分”结合起来，预测一个人患上特定疾病的几率的做法仍然在成年人中进行研究，部分的原因是我们对基因变异是如何共同推动或者预防疾病的理解仍然在摸索之中。研究人员表示，在胚胎中，更难证明风险评分的准确性。MyOme CEO Premal Shah 表示，对体外受精胚胎的多基因风险评分的新工作是“探索性研究”。在《自然医学》期刊上，由公司联合创始人和科学家 Matthew Rabinowitz 和 Akash Kumar 等领导的 MyOme 团队描述了通过首先对 10 对接受体外受精并生过孩子的父母进行基因组测序创建评分。研究人员随后使用了在体外受精过程中收集的数据：这些夫妇的胚胎，总共 110 个，当时接受了有限的基因测试，一种细胞的点测序，被称为微阵列测量。这种分析可检测染色体数量异常、某些遗传疾病和大块 DNA 的重新排列，日益普遍成为美国体外受精治疗的一部分。通过将这些不完整的胚胎数据和更完整的亲本基因组序列相结合，应用统计学和群体基因组学技术，研究人员可解释生殖过程中发生的基因改组，并计算每个亲本传递给每个胚胎的染色体。通过这种方式，他们可以预测胚胎的大部分 DNA。\n\n\n研究人员用一个方便的方法查看他们的重建是否准确：检查这对夫妇的婴儿。他们收集了婴儿的脸颊拭子样本，对全基因组进行测序。然后他们将这个“真实序列”同孩子胚胎的重建基因组进行了比对。比对的结果显示：对于三天大的胚胎，至少有 96 %的重建基因组和婴儿的遗传基因变异一致；对于五天大的胚胎，这个比例至少有 98%。有了重建的胚胎基因组之后，研究人员就转向大量已发表的数据，这些数据来自大量患有或者不患有常见慢性病的成年人的基因组研究，以及从这些信息中得出的多基因风险评分模型。然后 MyOme将这些模型应用于胚胎，计算出 12 种疾病的多基因风险评分，包括乳腺癌、冠状动脉疾病和2型糖尿病等。该团队还尝试将重建的胚胎单基因序列（例如 BRCA1 和BRCA2，我们已经知道这些基因会显著增加某些疾病的风险）与胚胎的多基因风险评分结合起来，判断乳腺癌等疾病的风险。",
+          "link": "https://www.solidot.org/story?sid=71021",
+          "publishedOn": "2022-03-22T10:18:14.000Z",
+          "wordCount": 106,
+          "title": "读取体外受精胚胎的完整基因组",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71020",
+          "author": null,
+          "description": "FIDO 联盟董事会成员包括 Amazon、Google、PayPal、RSA、Apple 和微软（以及 Intel 和 Arm）。该组织将其使命描述为减少世界“对密码的过度依赖”。FIDO 发布了一份白皮书，阐述了愿景，即解决困扰无密码功能可用性的问题，这些问题阻碍了推广。\n\n\n这份白皮书是概念性而非技术性的，经过多年的投资，在将 FIDO2 和 WebAuthn 无密码标准集成到Windows、Android、iOS 等系统中后，现在取决于下一步的成功。FIDO 正寻找让无密码方案难以前进的核心问题。结论是一切都要归结为切换或添加设备的程序。例如如果设置新手机的过程过于复杂，又没有简单的方法可以登录你所有的应用程序和帐户，或者你必须使用密码重新建立对这些帐户的所有权，那么大多数用户都会觉得改变现状太麻烦了。\n\n\n无密码 FIDO 标准依赖设备的生物识别扫描仪或者主 PIN 码在本地验证身份，无需将数据通过互联网传输到网络服务器进行验证。FIDO 认为，最终解决新设备问题的关键概念是让操作系统实现“FIDO 凭据”管理器，类似于内置的密码管理器。这种机制不会直接存储密码，而是存储可以在设备之间同步并由设备的生物识别或者密码锁保护的加密密钥。在去年夏天全球开发者大会上，苹果宣布了自己的 FIDO 版本，这是一项被称为“Passkeys in iCloud Keychain”的 iCloud 功能，苹果称这是“对后密码世界的贡献。\n\n\nFIDO 的白皮书还包含了另一个部分，是对其规范的拟议补充，允许现有的设备（如笔记本电脑）充当硬件令牌，类似于独立的蓝牙身份验证加密狗，通过蓝牙提供物理身份验证。这个想法实际上仍然是防御网络钓鱼，因为蓝牙是一种基于邻近的协议，可以作为一种有用的工具，根据需要开发出不同版本的、真正的无密码方案，这些方案都无需保留备份密码。Google 产品经理 Christiaan Brand 专注于身份和安全以及在FIDO项目上的合作，他表示，密码式的计划在逻辑上遵循智能手机或多设备无密码未来的图景。Brand表示：“老实说，我们一直牢记‘让我们超越密码’这个宏伟愿景的最终状态，只有每个人口袋里都有手机，它才能实现。”对 FIDO 而言，当务之急是转变帐户的安全范式，使网络钓鱼成为过去。当被问及情况是否真的如此时，密码的丧钟是否真的最终敲响，Brand 变得严肃起来，但他毫不犹豫地回答：“我觉得一切都在聚拢。”",
+          "link": "https://www.solidot.org/story?sid=71020",
+          "publishedOn": "2022-03-22T10:04:56.000Z",
+          "wordCount": 108,
+          "title": "如何消除世界对密码的需求",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71019",
+          "author": null,
+          "description": "音乐是最早感受到互联网威力的行业之一，从 1990 年代后期的 Napster 等音乐共享网站起，到 iTunes 数字下载。唱片业在在线革命中幸存下来，流媒体服务将起从互联网困境中拯救出来，使其财务健康并扩大了影响范围。但并非一切都好。即使是现在，美国音乐产业的收入也比 CD 鼎盛时期要少。对流媒体带来的赚钱机会能持续多长时间存在着激烈的争论。很多音乐人表示，他们没有分享到数字化转型的成果。音乐行业有做得好的地方。全球有超过 5 亿人为数字音乐付费，主要是为 Spotify、AppleMusic 或腾讯音乐等服务付费。这些服务为行业带来了前所未有的东西：每个月源源不断的现金流。行业也在以其它方式赚钱。当你在 YouTube 上观看音乐视频时，钱就会流向拥有这首歌的人。如果视频中包含唱片公司的流行歌曲，TikTok 就会向他们付费。自 2015 年以来，音乐行业的收入一直在持续增长，但所有来源的收入总和——包括流媒体订阅、CD 和电梯音乐的版税——仍然低于 1999 年。美国唱片业协会的数据显示，经通货膨胀调整之后，当时的行业总收入约为 240 亿美元，而 2021 年的收入为 150 亿美元。在许多国家，愿意每月支付 10 美元在手机上通过 Spotify 之类服务访问音乐的人并不多。这就是那些认为音乐产业的数字成功已经达到顶峰的人所担心的事。",
+          "link": "https://www.solidot.org/story?sid=71019",
+          "publishedOn": "2022-03-22T08:58:26.000Z",
+          "wordCount": 101,
+          "title": "音乐行业如何幸存于互联网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71018",
+          "author": null,
+          "description": "在瑞士 Arbedo-Castione 市，一台 70 米的起重机高高耸立。六条长臂从顶部伸出，将巨大的砌块吊至半空。但这些不是建筑砌块，起重机也不是用来建筑的。这座钢塔是一个巨大的机械储能系统，由美国-瑞士的初创公司 Energy Vault 设计，依靠重力和 35 吨重的砖块储存和释放能量。当电力需求较低时，起重机会利用瑞士电网中多余的电力提升砖块并将它们堆放在顶部。当电力需求增加时，再把砖块放下来，将动能释放回电网。这听起来像是一个学校科学项目，但随着世界过渡到清洁能源，这种形式的储能可能至关重要。\n\n\nEnergy Vault 的创始人 Robert Piconi 表示：“部署可再生能源的推动力很大，”企业面临的来自政府、投资者和员工的脱碳压力也越来越大。他表示如果没有储能，就无法依靠可再生能源获得稳定的电力。与可以昼夜运行的化石燃料发电站不同，风能和太阳能是间歇性的，这意味着如果云遮住了太阳或风停了下来，发电量就会下降。Piconi 表示，要与化石燃料竞争，你需要“让可再生能源变得可预测”，这意味着储存多余的能源并能在需要时进行调度。\n\n\nEnergy Vault 决定将其技术建立在一种 100 多年前发明的方法之上，这种方法被广泛地用于存储可再生能源：抽水蓄能电站。在非高峰时期，涡轮机将水从低地的水库抽到高地的水库，而在需求高峰期，让水向下流过涡轮机，产生电能。Piconi 说，Energy Vault 以同样的方式依赖重力，但“我们使用的不是水，而是复合材料块。”他表示，该公司可以不依赖于地形，也不必挖掘水库或者建造水坝——这些可能会对环境产生负面影响。",
+          "link": "https://www.solidot.org/story?sid=71018",
+          "publishedOn": "2022-03-22T08:51:18.000Z",
+          "wordCount": 96,
+          "title": "重力解决可再生能源的储能问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71017",
+          "author": null,
+          "description": "Google 工程师 2016 年在 LLVM 开发者邮件上提议合并 Lanai 后端，表示该芯片为内部使用，他们会维护递交到上游的代码，但芯片的更多信息不方便透露。Lanai 芯片可追溯到创办于 1994 年的一家小型公司 Myricom，这家公司的员工总数未超过 50 人，但半数有博士头衔。Myricom 早期产品之一是可编程网卡 Myrinet，使用的处理器核心叫  LANai。进入 2010 年代之后，Myricom 财务和管理状况不佳，多款产品取消，2013 年核心团队被出售给了 Google，Lanai 相关知识产权也转让给了 Google，留下的 10 名员工没有一人有博士头衔，剩下的产品是没人要的 Myrinet-2G。Google 至今一直在维护 LLVM 的 Lanai 后端，除了 Google 没人接触过该芯片。Google 云服务基础设施使用 Lanai 加速网络。",
+          "link": "https://www.solidot.org/story?sid=71017",
+          "publishedOn": "2022-03-22T07:15:19.000Z",
+          "wordCount": 111,
+          "title": "Google 神秘的芯片 Lanai",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71016",
+          "author": null,
+          "description": "微软去年底发布的新操作系统 Windows 11 对硬件需求较高，但用户仍然能找到方法绕过硬件检查安装新系统。对于这些用户微软将展示桌面水印警告用户。微软上个月测试了桌面水印，现在开始推送给 Release Preview 预览版本的用户，未来会向所有 Windows 11 用户推送。水印会显示在桌面墙纸和设置应用的启动页面——“System requirements not met. Go to settings to learn more. ”",
+          "link": "https://www.solidot.org/story?sid=71016",
+          "publishedOn": "2022-03-22T06:14:31.000Z",
+          "wordCount": 90,
+          "title": "微软推进在不支持硬件上展示桌面水印的计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71015",
+          "author": null,
+          "description": "在闻讯政府可能屏蔽俄语维基百科之后，俄罗斯人迅速行动下载一份俄语维基百科的本地备份。提供离线维基百科档案的 Kiwix项目 负责人 Stephane Coillet-Matillon 称，俄语维基百科下载量通常很少，2021 年下载流量只占总服务器流量的 2%，但 3 月份它的流量占到了 42%。2017 年土耳其屏蔽维基百科曾出现类似的情况，但这一次是另一个维度。俄罗斯现在是维基百科下载量最大的国家，此前它几乎很少进入前十，从 2 月 24 日开始它一直稳居第一。三月前十五天包含可下载俄语维基百科文章的 29GB 文件被下载了 105,889 次。俄语维基百科有大约 180 万篇文章，相比较英语维基百科有 640 万篇文章，英语维基百科带图片的档案容量有 87 GB 大小，不带图片 47 GB。",
+          "link": "https://www.solidot.org/story?sid=71015",
+          "publishedOn": "2022-03-22T05:55:55.000Z",
+          "wordCount": 99,
+          "title": "俄罗斯人匆忙下载俄语维基百科档案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71014",
+          "author": null,
+          "description": "在 Telegram 请求暂缓执行并宣布补救措施之后，巴西最高法院法官撤销了对 Telegram 的封锁令。Telegram CEO Pavel Durov 表示将在巴西任命一名代表，制定框架快速处理法院的要求。Telegram 遵守巴西法院的要求删除了总统 Jair Bolsonaro 频道内发布的机密信息帖子，移除了一名传播虚假信息的 Bolsonaro 支持者的账号。巴西法院正在调查总统及其盟友传播虚假信息。Telegram 还宣布将监视巴西最受欢迎的 100 个频道。它针对禁令的反应是如此迅速，事实上禁令根本没有生效。这一禁令也逆转了 Telegram 在内容监管上的立场，该社交平台此前一直拒绝审查内容。",
+          "link": "https://www.solidot.org/story?sid=71014",
+          "publishedOn": "2022-03-22T03:07:26.000Z",
+          "wordCount": 95,
+          "title": "巴西最高法院撤销对 Telegram 的封锁令",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71013",
+          "author": null,
+          "description": "SpaceX 互联网卫星 Starlink 计划的竞争对手 OneWeb 将使用 SpaceX 的 Falcon 9 火箭发射其卫星。英国政府拥有 OneWeb 的部分股份，在俄罗斯入侵乌克兰之后英国禁止该公司使用俄罗斯的火箭发射卫星，因此 OneWeb 只能寻求 SpaceX 的帮助，首次发射预计将在今年晚些时候进行。SpaceX 已经发射了超过 2000 颗 Starlink 卫星，而 OneWeb 至今在轨道上只有 428 颗卫星。SpaceX 最近上涨了 Falcon 9 的发射费用，从 6200 万美元提高到 6700 万美元，理由是高通货膨胀。",
+          "link": "https://www.solidot.org/story?sid=71013",
+          "publishedOn": "2022-03-22T02:41:40.000Z",
+          "wordCount": 110,
+          "title": "OneWeb 将使用 SpaceX 的火箭发射卫星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71012",
+          "author": null,
+          "description": "微软必应(Bing)称“有关政府部门”已经要求它在中国将自动搜索建议功能暂停七天。这标志着自去年 12 月以来必应第二次暂停该功能。中国网民在周六首先发现了该功能暂停。“必应是一个全球性的搜索平台，并继续致力于尊重法治和用户获取信息的权利，”必应在其中文搜索网站上说。必应没有说明暂停的原因。",
+          "link": "https://www.solidot.org/story?sid=71012",
+          "publishedOn": "2022-03-21T12:55:27.000Z",
+          "wordCount": 73,
+          "title": "必应自动搜索建议功能被要求暂停七天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71011",
+          "author": null,
+          "description": "Linus Torvalds 在内核开发者邮件列表上宣布释出 Linux 5.17。主要新特性包括： arm64 架构支持 KCSAN，支持递归 ID-mapped 文件系统挂载，新 AMD P-State 驱动，改进随机数生成器，重写网络文件系统缓存后端，Real-Time Linux Analysis (RTLA)工具，缓解 straight-line 预测攻击，bpf_loop() helper，参考计数跟踪设施，等等，更多可浏览 KernelNewbies 5.17。",
+          "link": "https://www.solidot.org/story?sid=71011",
+          "publishedOn": "2022-03-21T12:45:15.000Z",
+          "wordCount": 95,
+          "title": "Linux 5.17 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71010",
+          "author": null,
+          "description": "中国民航局发表声明，2022 年 3 月 21 日，东航一架波音 737 客机在执行昆明——广州航班任务时，于梧州上空失联。目前，已确认该飞机坠毁。机上人员共 132 人，其中旅客 123 人、机组 9人。民航局已启动应急机制，派出工作组赶赴现场。跟踪数据显示，客机是在短时间内从 9000 米高空坠地。",
+          "link": "https://www.solidot.org/story?sid=71010",
+          "publishedOn": "2022-03-21T09:31:54.000Z",
+          "wordCount": 86,
+          "title": "东航一架波音客机坠毁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71009",
+          "author": null,
+          "description": "中国信息通信研究院周一发布报告（PDF），2022 年 2 月，国内市场手机出货量 1486.4 万部，同比下降 31.7%，其中 5G 手机 1137.4 万部，同比下降 24.5%。2022 年 1-2 月，国内市场手机总体出货量累计 4788.6 万部，同比下降 22.6%，其中 5G 手机出货量 3769.8 万部，同比下降 11.0%。2 月手机出货量为过去一年最低，去年 2 月的出货量为 2155 万。在国内手机市场国内外品牌构成上，2 月国产品牌手机出货量为 1278.3 万部，同比降 34.7%，占总出货量 86%。",
+          "link": "https://www.solidot.org/story?sid=71009",
+          "publishedOn": "2022-03-21T09:00:12.000Z",
+          "wordCount": 107,
+          "title": "二月手机出货量继续下滑",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71008",
           "author": null,
@@ -3478,126 +3673,6 @@
           "wordCount": 113,
           "title": "Firefox 一切还好？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70726",
-          "author": null,
-          "description": "自 2021 年 7 月起，负责游戏版号审批的监管机构国家新闻出版广电总局就没有再批准游戏版号。这一审批冻结已持续近 8 个月，上一次版号冻结持续了 9 个月。这一次会持续多久尚不清楚。周一有消息称，今年内可能会继续停发版号。这一消息导致多家游戏公司的股价下跌。音数协游戏工委相关负责人对此表示不知情。一游戏上市公司高管称这一消息是旧闻，来自于去年 9 月。游戏产业分析师张书乐称，此前版号暂停和逐年减少发放量，对近年来精品游戏和游戏出海这两大趋势有推动作用，也促成了近年来国产游戏走出国门参与全球竞争且成果斐然的局面。不过张书乐也强调，加强监管会是接下来的趋势。",
-          "link": "https://www.solidot.org/story?sid=70726",
-          "publishedOn": "2022-02-21T11:22:40.000Z",
-          "wordCount": 81,
-          "title": "报道称今年游戏行业可能会继续不批版号",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70725",
-          "author": null,
-          "description": "百度今天被发现短暂屏蔽了中国裁判文书网。中国裁判文书网是最高人民法院 2013 年建立的全国法院统一的裁判文书公开平台，也是司法公开三大平台（包括审判流程公开、裁判文书公开和执行信息公开）之一。百度回应称是“技术团队在处理其他问题的时候误操作了，已经修复，稍后生效。”最高人民法院的工作人员表示不清楚。",
-          "link": "https://www.solidot.org/story?sid=70725",
-          "publishedOn": "2022-02-21T10:08:13.000Z",
-          "wordCount": 74,
-          "title": "百度短暂屏蔽中国裁判文书网",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70724",
-          "author": null,
-          "description": "以前上文学阅读课时老师会让你翻到某一页，今天你需要知道的不是哪一页而是从哪一段话开始。大部分学生都是在电子设备上阅读，包括 Kindle、iPad 和手机。电子版书籍没有传统书籍的页数，但配备了搜索功能，方便搜索特定的短语。这种搜索引擎无处不在的情况引发了一种普遍的焦虑，担心旧模式的阅读和学习被搜索取代，会带来一连串的灾难影响。搜索被认为会改变我们的大脑、缩短注意力持续的时间，侵蚀记忆。小说家 Will Self 宣称严肃小说死亡了，因为我们缺乏看小说的耐心。《大西洋月刊》几年前曾发表文章：Google 正让我们变蠢？从历史上看，此类的焦虑以前就发生过。书籍的检索/索引曾引发类似的担忧，认为旧模式的精读会被摘抄式阅读取代。在文艺复兴时期，伽利略就曾抨击过所谓的索引者（​­index-​­raker）。但四百年后天并没有塌下来。",
-          "link": "https://www.solidot.org/story?sid=70724",
-          "publishedOn": "2022-02-21T09:30:25.000Z",
-          "wordCount": 77,
-          "title": "学者曾经担心图书检索会毁掉阅读",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70723",
-          "author": null,
-          "description": "大阪市立大学研究生院研究人员提供的证据表明，鱼类具有镜中自我识别能力（MSR），这是一种用于确定动物是否具有视觉自我识别能力的行为测试。当动物“触摸或刮擦身体上只能在镜子中间接看到的位置的标记” 时，就可以确定动物具备 MSR 能力。Masanori Kohda 教授表示：“以前我们在清洁鱼（裂唇鱼，Labroides dimidiatus）的喉部做上了棕色的标记，看到四分之三的清洁鱼在游过镜子之后，会多次清喉咙，数量与大象、海豚和喜鹊等其他动物在类似的研究中表现出的相当。”对研究结果的批评意见之一是样本的规模和需要重复研究显示阳性结果。与德国马克斯普朗克动物行为研究所和瑞士纳沙特尔大学的研究人员合作，这项研究将样本量增加到 18 条清洁鱼，其中 17 条清洁鱼（94%）结果呈阳性，表现出与先前研究发现的相同的行为。Kohda 教授表示：“之前的研究证明了裂唇鱼的 MSR 能力，对其他动物的研究表明，简单移动镜子会重新引发攻击性行为，表明这些动物只学到了空间偶然性，而不是 MSR。”为了解决这个问题，研究小组将经过镜子训练的清洁鱼转移到一侧有镜子的鱼缸中，然后在三天之后又转移到另一侧有镜子的鱼缸中，发现鱼没有对两个鱼缸中镜子里的自己表现出攻击性。此外为了确保通过标记测试的裂唇鱼真的认出了自己，他们将经过镜子训练的鱼放在由透明玻璃隔开的相邻鱼缸中。两三天之后，鱼在很大程度上减少了对彼此的攻击性行为后，它们会在第二天晚上被以标准的方式标记。第二天早上，在彼此接触的 120 分钟之内，没有一条鱼清喉咙。",
-          "link": "https://www.solidot.org/story?sid=70723",
-          "publishedOn": "2022-02-21T07:43:01.000Z",
-          "wordCount": 88,
-          "title": "科学家证明鱼类具有自我意识",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70722",
-          "author": null,
-          "description": "全球监管机构警告，华尔街机构与加密市场的联系日益密切，可能会威胁到金融稳定，引发信贷紧缩金融危机。金融稳定委员会（FSB）表示，随着大银行和对冲基金等机构投资者更深入的参与 1.9 万亿美元的加密货币市场，他们需要对这些机构“持续保持警惕”。FSB 在一份报告中表示：“如果当前的规模增长和加密资产与这些机构相互关联的势头持续下去，可能会对全球金融稳定产生影响。”尽管加密货币只占全球资产的一小部分，但随着数字金融和传统金融的联系愈加紧密，FSB 担心加密货币市场的波动会产生影响。它表示：“如果金融机构继续更多地参与加密资产市场，可能会以意想不到的方式影响资产负债表和流动性。”监管机构将加密货币事件的风险与引发 2008 年金融危机的信贷紧缩进行比较。它表示：“就美国次贷危机而言，少量已知的敞口并不一定意味着风险很小，特别是在缺乏透明度以及监管覆盖不足的情况下。”它指出，“具有系统重要性”的银行和其他金融机构越来越热衷于参与其中并获得加密资产敞口。具有系统重要性的机构如果失败，可能会引发金融危机。FSB 指出，随着机构的参与，加密货币市场的总价值在2021 年增长了 3.5 倍，达到 2.6 万亿美元规模。随着价格的暴跌，其价值在 2022 年头几个月大幅下挫。",
-          "link": "https://www.solidot.org/story?sid=70722",
-          "publishedOn": "2022-02-21T07:25:58.000Z",
-          "wordCount": 85,
-          "title": "监管机构警告加密货币的兴起可能引发金融危机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70721",
-          "author": null,
-          "description": "十年后办公室将用于而且只用于一件事：与同事共度美好时光。这个看似大胆的预测来自于哈佛商学院教授、远程工作专家 Prithwiraj Choudhury。我们可能将在十年内停止称其为远程工作（âremote workâ），而是简单称为工作。他的研究表明，混合劳动力的生产力更高、更忠诚，而且离职的可能性更低。从 Twitter 到普华永道，很多公司现在为员工提供了永久性远程工作的选择，Choudhury 表示，不适应的企业可能会面临着更高的流失风险。“对雇主来说，他们也是赢家，因为你不用局限于在有办公室的地方的劳动力市场进行招聘。这是一个千载难逢的时刻，人们不会被迫住在他们不想住的地方。有些人会找到永久的住处；有些人则会四处搬迁。数字游牧革命正在进行中……”“我们不应该关心人们工作了多少天或者多少个小时。每项工作和任务都应该有客观的指标，这些指标是基于产出的，如果员工可以在两天内完成这些指标，那就这样吧。我坚信我们应该停止计算时间。我们应该让人们在他们想工作的时候灵活地工作，无论他们想在什么时间，无论他们想在什么日子都可以，只关心他们的工作就好了。”",
-          "link": "https://www.solidot.org/story?sid=70721",
-          "publishedOn": "2022-02-21T07:09:43.000Z",
-          "wordCount": 77,
-          "title": "十年内远程工作会普及吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70720",
-          "author": null,
-          "description": "发表在 PNAS 期刊上的一项研究调查了深度伪造（deep fakes）的有效性，发现人类真的很容易迷上机器生成的面孔——甚至会认为它们比真实的面孔更值得信赖。研究合作者、加州伯克利分校教授 Hany Farid 表示：“我们发现，合成面孔不仅高度逼真，而且显得比真实的面孔更值得信赖。”这一结果引发了担忧，“这些面孔在用于邪恶目的时候可能会非常有效。”第一组在区分真假人脸方面的表现不比抛硬币决定更好，平均准确率为 48.2%……该组给合成人脸的可信度评分平均为 4.82，略高于给真实人脸的可信度评分 4.48。研究参与者确实压倒性地识别出了一些假脸。研究合作者 Sophie Nightingale 表示：“我们并不是说每张生成的图像都和真的人脸没有区别，但是里面有不少图像确实如此。”研究作者强调，深度伪造的欺骗性应用将继续构成威胁，他们得出了一个明确的结论：“我们鼓励开发这些技术的人思考相关的风险是否大于收益。”“如果是这样，我们不鼓励开发此类技术。”",
-          "link": "https://www.solidot.org/story?sid=70720",
-          "publishedOn": "2022-02-21T06:56:54.000Z",
-          "wordCount": 87,
-          "title": "人类认为 AI 生成面孔比真实面孔更值得信赖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70719",
-          "author": null,
-          "description": "两名婴儿成功接受家族黑蒙性痴呆（Tay–Sachs）的基因疗法。家族黑蒙性痴呆症是一种严重的神经系统疾病，由名叫 HexA 的酶缺乏引起，这种酶可分解神经节甘脂 GM2，GM2 对人体无害，但如果它的量累计到有毒的水平，会损害和杀死神经元。英国眼科医生 Warren Tay 在 1883 年最早描述了这种病的一种症状。美国神经学家伯 Bernard Sachs 在 1887 年的论文中详细描述了家族黑蒙性痴呆症。患病的婴儿通常会在五岁前死亡，它至今没有有效的治疗方法。唯一有效的方法是修复大脑中的 HexA 酶，但血脑屏障阻止大多数分子进入大脑。麻省大学陈医学院的研究人员开发出一种基因疗法有助于绕过血脑屏障。第一位接受基因疗法的婴儿两岁半，有晚期症状，如今五岁的患者健康状况良好。第二名婴儿接受治疗时只有 7 个月大，如今 2 岁多没有出现病症。",
-          "link": "https://www.solidot.org/story?sid=70719",
-          "publishedOn": "2022-02-21T06:41:02.000Z",
-          "wordCount": 92,
-          "title": "两名婴儿成功接受家族黑蒙性痴呆基因疗法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70717",
-          "author": null,
-          "description": "美国国立卫生研究院（NIH）将要求其每年资助的 30 万名研究人员和 2500 个机构中的大多数，在其拨款申请中包括一个“数据管理和共享”（DMS）计划，并最终公开研究数据。由于 NIH 是全球生物医学研究领域最大的公共资助者，这项规定的影响将远远超出美国国界；它也向全球科学家发出信号，应该如何进行生物医学研究。研究人员在接受《自然》采访时赞赏了政策背后的开放科学原则，以及所树立的全球榜样。但也有人担心，由于要做大量数据收集工作，该政策或将加重青年科学家的负担，加剧科学基金领域的不平等。不公开研究数据被认为可能会导致研究成果无法复现。",
-          "link": "https://www.solidot.org/story?sid=70717",
-          "publishedOn": "2022-02-21T05:30:28.000Z",
-          "wordCount": 79,
-          "title": "NIH 将要求研究人员公开研究数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70716",
-          "author": null,
-          "description": "英国女王伊丽莎白二世确诊新冠，但白金汉宫表示，女王出现“轻微感冒症状”，并不严重。预计女王未来一周在温莎城堡会继续履行一些“较轻松的公务”。白金汉宫在一份声明中说，“她将继续接受医疗护理，并将遵循所有适当规定”。现年 95 岁的女王，之前一直与长子威尔士亲王查尔斯王子有接触，查尔斯王子于上周第二次确诊感染新冠。在查尔斯第二次新冠检测呈阳性后，卡米拉随后也检测为阳性女王在 2021 年 1 月打了第一针新冠疫苗，随后接种了第二针疫苗和加强针。",
-          "link": "https://www.solidot.org/story?sid=70716",
-          "publishedOn": "2022-02-21T05:20:12.000Z",
-          "wordCount": 77,
-          "title": "英国女王确诊感染新冠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70715",
-          "author": null,
-          "description": "微软纪念 .NET 框架发布二十周年。根据编程问答社区 Stack Overflow 的开发者调查，.NET 在 2019、2020 和 2021 年连续三年被评为最受开发者喜爱的框架。.NET 的第一个版本在 2002 年 2 月 13 日作为的 Visual Studio.NET 的一部分首次公开亮相。过去二十年，.NET 框架从一个流行的闭源软件开发平台，变成了一个开源的跨平台开发工具，2012 年微软完整开源了 ASP.NET MVC Web 框架，2014 年 11 月 12 日开始构建跨平台开源 .NET 框架，支持竞争对手 Linux 和 OS X 的平台。在此期间，微软也从一家宣称 Linux 是癌症的公司变成了一家对开源友好的公司。很多人也认为，微软本身并没有变化，而是它的商业模式发生了变化，从销售软件转向了销售服务，对服务而言，软件闭源还是开源不重要。",
-          "link": "https://www.solidot.org/story?sid=70715",
-          "publishedOn": "2022-02-21T05:17:36.000Z",
-          "wordCount": 115,
-          "title": "微软纪念 .NET 发布二十周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70714",
-          "author": null,
-          "description": "太阳最近进入了第 25 太阳周期的活跃期：2 月 15 日太阳的远侧爆发了一个 X 级耀斑（X 级是最高强度的耀斑），因为耀斑和日冕物质抛射远离地球，因此我们不会观察到任何地磁风暴。朝地球方向喷发的日冕物质抛射可能会导致通信中断、电网波动和极光。跟踪太阳活动的 SpaceWeatherLive 报告，太阳在整个二月份每天都有喷发，其中包括三次 M 级耀斑（强度次于 X 级）：2 月 12 日 M1.4；2 月 14 日 M1；2 月 15 日 M1.3。1 月发生了五次 M 级耀斑，其中 1 月 29 日 M 级耀斑产生的温和地磁风暴击中了新发射升空的 40 颗 Starlink 卫星。",
-          "link": "https://www.solidot.org/story?sid=70714",
-          "publishedOn": "2022-02-20T14:45:46.000Z",
-          "wordCount": 110,
-          "title": "太阳整月都在喷发",
-          "imageUrl": null
         }
       ]
     },
@@ -3851,16 +3926,6 @@
           "publishedOn": "2022-02-28T00:50:00.000Z",
           "wordCount": 284,
           "title": "[文章] SQL 入门",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://zhuanlan.zhihu.com/p/470082866",
-          "author": "黄子毅",
-          "description": "Markdown 即便在 2022 年也非常常用，比如这篇文章依然采用 Markdown 编写。\n但 Markdown 是否应该成为文本编辑领域的默认技术选型呢？答案是否定的。我找到了一篇批判无脑使用 Markdown 作为技术选型的好文 Thoughts On Markdown，它提到 Markdown 在标准化、结构化、组件化都存在硬伤，如果你真的想做一个现代化的文本结构编辑器，不要采用 Markdown。\n概述\nMarkdown 流传甚广，甚至已成为我们的第二语言。Markdown 最早的解析器由 John Gruber 在 2004 年基于 Perl 编写发布，那时候 Markdown 只有一个目的，即为了方便网络写作。\n网络写作必须基于 HTML 规范，而 HTML 规范对大部分人上手成本太高，因此 Markdown 就是基于文本创建的更易理解，或者说上手成本更低，甚至傻瓜化的一种语法，而要解析这个语法需要配套一个解析器，将这种语法文本最终转化为 HTML。\n而数字化发展到今天，Markdown 已不再适合当下的写作场景了，主要原因有二：\n\nMarkdown 不再适合当下富交互、内容形态的编写。\nMarkdown 纯文本的开发体验不再满足当代开发者日益提高的体验需求。\n\n首先还是从 Markdown 思想开始介绍。\nMarkdown 的核心思想\nMarkdown 最大优势就是好上手，不需要接触 HTML 这种复杂的嵌套语句（虽然对程序员来说 HTML 也简单到处于鄙视链底端）。原文抽象了三个优势：\n\n基于文本的合适抽象。虽然 HTML 甚至代码都是文本，但 “合适” 这个词很重要，即任何文本都可以是 Markdown，只要加一点点小标记就能描述专业结构，学习成本极低。\n有大量生态工具。比如语法解析器、高亮、格式转换、格式化、渲染等工具完备。\n编辑内容便于维护。比如…",
-          "link": "https://zhuanlan.zhihu.com/p/470082866",
-          "publishedOn": "2022-02-21T01:59:59.000Z",
-          "wordCount": 310,
-          "title": "[文章] 精读《对 Markdown 的思考》",
           "imageUrl": ""
         }
       ]
