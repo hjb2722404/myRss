@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=41777",
+          "author": "青小蛙",
+          "description": "微软电脑管家 真的是微软中国的团队发布的一款针对 Windows 的管家类电脑安全辅助软件，主要功能包括电脑体检、垃圾清理、病毒查杀、优化加速，并且拥有微软全球防护系统，目前已发布 v1.1 测试版。",
+          "link": "https://www.appinn.com/microsoft-guanjia-1-1/",
+          "publishedOn": "2022-03-26T06:33:07.000Z",
+          "wordCount": 775,
+          "title": "微软电脑管家 v1.1 测试版发布，拥有「微软全球防护系统」",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/microsoft-guanjia.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=41771",
           "author": "青小蛙",
           "description": "Automa 是一个免费、开源的 Chrome 扩展，它通过目前流行的 No Code 无代码方式，只需要拖拽模块就实现了浏览器自动化，比如自动填写表格、执行重复性任务、截图或读取网站数据。@Appi",
@@ -400,16 +410,6 @@
             "type": "video/webm"
           },
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/02/openra.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=41472",
-          "author": "青小蛙",
-          "description": "ToothTray 是一款可以在 Windows 系统托盘显示蓝牙设备列表，并控制连接、断开的小工具，功能简单，即开即用。@Appinn 在前几日推荐的 Toothpicks – 将每个蓝牙设备单独放",
-          "link": "https://www.appinn.com/toothtray-for-bluetooth/",
-          "publishedOn": "2022-02-25T06:51:25.000Z",
-          "wordCount": 662,
-          "title": "ToothTray – 在托盘管理并连接、断开多个蓝牙设备[Windows]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/02/toothtray.jpgo_.jpg"
         }
       ]
     },
@@ -557,36 +557,6 @@
           "wordCount": 534,
           "title": "Manuel Matuzovic’s CSS Specificity Demo",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364138",
-          "author": "Chris Coyier",
-          "description": "Nic Chan:\n[…] the will-change property landed in major browsers in August 2015, and I’ve been on the lookout for when to use it ever since. It might seem self-evident to apply it to commonly animated properties such \n…\nMy white whale: A use case for will-change originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/my-white-whale-a-use-case-for-will-change/",
-          "publishedOn": "2022-02-24T20:59:29.000Z",
-          "wordCount": 575,
-          "title": "My white whale: A use case for will-change",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364138"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363553",
-          "author": "Anand Chowdhary",
-          "description": "For the past few weeks, I’ve been hiring for a senior full-stack JavaScript engineer at my rental furniture company, Pabio. Since we’re a remote team, we conduct our interviews on Zoom, and I’ve observed that some developers are not …\nExplain the First 10 Lines of Twitter’s Source Code to Me originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
-          "publishedOn": "2022-02-24T15:31:55.000Z",
-          "wordCount": 2539,
-          "title": "Explain the First 10 Lines of Twitter’s Source Code to Me",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363553"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363526",
-          "author": "ImageEngine",
-          "description": "(This is a sponsored post.)\nIn recent years, the Jamstack methodology for building websites has become increasingly popular. Performance, scalable, and secure, it’s easy to see why it’s becoming an attractive way to build websites for developers.\nGatsbyJS is …\nSuperior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/superior-image-optimization-an-ideal-solution-using-gatsby-imageengine/",
-          "publishedOn": "2022-02-24T15:31:49.000Z",
-          "wordCount": 2808,
-          "title": "Superior Image Optimization: An Ideal Solution Using Gatsby & ImageEngine",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363526"
         }
       ]
     },
@@ -633,16 +603,6 @@
           "publishedOn": "2022-03-04T00:46:01.000Z",
           "wordCount": 434,
           "title": "科技爱好者周刊（第 197 期）：如果这个世界有快乐机",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/02/weekly-issue-196.html",
-          "publishedOn": "2022-02-25T00:50:53.000Z",
-          "wordCount": 412,
-          "title": "科技爱好者周刊（第 196 期）：掌机的未来",
           "imageUrl": null
         }
       ]
@@ -691,16 +651,6 @@
           "wordCount": 596,
           "title": "CSS accent-color属性简介",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10308",
-          "author": "张 鑫旭",
-          "description": "深入介绍 CSS border-image 的历史，特性以及在某些场景下无可替代的作用，独家内容，不容错过。",
-          "link": "https://www.zhangxinxu.com/wordpress/2022/02/css-border-image-tap-highlight/",
-          "publishedOn": "2022-02-25T10:09:36.000Z",
-          "wordCount": 1099,
-          "title": "被低估的border-image属性",
-          "imageUrl": null
         }
       ]
     },
@@ -709,6 +659,66 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71069",
+          "author": null,
+          "description": "美国联邦通信委员会(FCC)周五宣布，将俄罗斯安全公司卡巴斯基、中国电信美洲公司和中国移动美国子公司列入其对美国国家安全构成威胁的通讯设备和服务商名单。2019 年的一项法律要求 FCC 公布和更新一份对国家安全或美国人民的安全构成不可接受的风险的通信设备和服务商清单。被列入名单意味着 FCC 每年 83 亿美元的万能服务基金(Universal Service Fund)的资金将不再被用于购买或维护这些公司的产品。",
+          "link": "https://www.solidot.org/story?sid=71069",
+          "publishedOn": "2022-03-26T13:32:48.000Z",
+          "wordCount": 82,
+          "title": "FCC 将卡巴斯基列入国家安全名单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71068",
+          "author": null,
+          "description": "英伟达研究院宣布了 Instant NeRF（Instant Neural Graphics Primitives），能在数秒内使用多幅 2D 照片转创建 3D 模型。源代码发布在 GitHub 上。根据 2D 照片创建 3D 场景的技术被称为逆向渲染（Inverse Rendering），传统方法需要数小时甚至更长时间，英伟达开发的 NeRF 能将这一过程在极短时间内完成。NeRF 训练一个小型神经网络，通过预测 3D 空间任意点向任意方向辐射的光线颜色重建场景。英伟达负责图形研究的副总裁 David Luebke 称，Instant NeRF 对 3D 的重要性不亚于数码相机和 JPEG 压缩对 2D 摄影的重要性。该公司利用这项新技术使用旧照片重建了著名的安迪·沃霍尔（Andy Warhol）拍摄快照的 3D 场景（YouTube）。",
+          "link": "https://www.solidot.org/story?sid=71068",
+          "publishedOn": "2022-03-26T10:41:52.000Z",
+          "wordCount": 114,
+          "title": "将 2D 照片转变为 3D 虚拟场景",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71067",
+          "author": null,
+          "description": "台湾威盛（VIA）与上海市政府的合资企业兆芯在 2019 年发布了基于“陆家嘴（LuJiaZui）”微架构的 KX-6000，频率 3.0GHz，性能比上一代 KX-5000 系列提升了 50%，达到了英特尔 i5-7400 的水平。KX-6000 采用 16 纳米工艺制造，为八核 x86-64 处理器。Linux 内核在当时加入了对兆芯陆家嘴的支持，但广泛使用的编译器 GNU Compiler Collection 一直未能正确识别陆家嘴处理器，而是将其错误识别为英特尔的 Core 2 或i386 CPU。本周五兆芯的开发者递交了补丁为 GCC 加入了对陆家嘴 CPU 的正式支持。兆芯目前在开发下一代的 KX-7000，采用台积电的 7 纳米工艺，原计划在 2021 年推出，但目前还没有新处理器的消息，可能因为新冠疫情或供应链问题而延期了。",
+          "link": "https://www.solidot.org/story?sid=71067",
+          "publishedOn": "2022-03-26T08:56:56.000Z",
+          "wordCount": 107,
+          "title": "GCC 终于能正式支持兆芯陆家嘴 CPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71066",
+          "author": null,
+          "description": "Humble 乌克兰慈善包义卖结束，共筹集到 1.31 亿元善款，创下了 Humble 慈善包的筹款记录。独立游戏平台 itch.io 的 Bundle for Ukraine 慈善包共筹集 637 万美元。Fanatical 网站的 Stand With Ukraine Charity Bundle 慈善包因限量只持续了 12 小时，筹集到 15.9 万美元。Epic Games 宣布将其热门游戏《堡垒之夜》在 3 月 20 日到 4 月 3 日之间的收入捐出，截至 3 月 25 日共筹集到 7000 万美元。",
+          "link": "https://www.solidot.org/story?sid=71066",
+          "publishedOn": "2022-03-26T03:18:46.000Z",
+          "wordCount": 117,
+          "title": "Humble 乌克兰慈善包共筹集到 1.31 亿元善款",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71065",
+          "author": null,
+          "description": "类似数字订阅服务，苹果准备推出硬件订阅方案，让用户以类似租赁的方式拥有 iPhone 和其它硬件产品。该项目仍然在开发之中，苹果还没有正式宣布。采用硬件订阅模式对一家通常全价出售产品的公司来说是一次巨大的战略转型，这有助于产生更多收入，让消费者更容易采用新设备。 iPhone 是苹果最大的收入来源，去年销售收入 1920 亿美元，占总收入的一半以上。硬件订阅与分期付款不同，消费者将允许在新产品推出之后更换到新产品。苹果通常每年更新一次产品线。硬件订阅有可能在 2022 年底或 2023 年推出，但也可能会被取消。",
+          "link": "https://www.solidot.org/story?sid=71065",
+          "publishedOn": "2022-03-25T14:24:58.000Z",
+          "wordCount": 81,
+          "title": "苹果准备推出硬件订阅方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71064",
+          "author": null,
+          "description": "匿名读者 写道 \"\n过去2年内，中国用“动态清零”的筛查、隔离等清根拔源政策，取得了每个本土局部新冠疫情的防控胜利。这一防控经验，也为其他传染病的防控提供了借鉴，特别是肺结核。《中华人民共和国传染病防治法》的修订草案正在征求意见。其中第四十五条规定，“对于病原学阳性肺结核患者在传染期内需进行规范隔离治疗并开展耐药性检查，对其密切接触者进行必要的筛查。开展耐多药肺结核的诊断和治疗的机构要具备相应的隔离和感染控制等条件。肺结核患者应当根据防控需要采取佩戴口罩等必要的防护措施，以避免传播他人。肺结核患者须持有指定的医疗机构出具的证明方能复工复学。”\"",
+          "link": "https://www.solidot.org/story?sid=71064",
+          "publishedOn": "2022-03-25T13:29:08.000Z",
+          "wordCount": 74,
+          "title": "中国或将启动肺结核隔离治疗",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71063",
           "author": null,
@@ -3468,126 +3478,6 @@
           "wordCount": 91,
           "title": "俄罗斯限制访问 Facebook",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70777",
-          "author": null,
-          "description": "Linux 内核在快速发展，但它同时依赖于一些相当古老的工具，其中之一是代码仍然采用的是 1989 版的 C 语言标准，已有三十多年历史了。这一情况有望在 5.18 kernel 中改变。Jakob Koschel 向 Linus Torvalds 递交的补丁引发了采用现代 C 语言标准的讨论。他的补丁旨在修复内核链表相关的预测执行漏洞。Torvalds 对补丁修复的问题表示不解，Koschel 对此做出了进一步的解释，Torvalds 随后认为也许可以采用更直接的修复如块级变量声明。但 C89 不支持，而 1999 年发布的 C99 标准支持。Torvalds 说，内核代码一直停留在 C89 的原因之一是编译器 gcc 的旧版本会出现奇怪的问题，现在内核要求的 gcc 最低版本已经提高到了 v5.1 那些 bug  可能不再相关了。另一位内核开发者 Arnd Bergmann  提议直接升级到 C11 甚至 C2x，但跨越太大内核社区未必接受。Torvalds 宣布将在下一个内核版本 v5.18 中尝试下。如果一切顺利，C 语言标准有望在下一个内核版本中迁移到 C11。",
-          "link": "https://www.solidot.org/story?sid=70777",
-          "publishedOn": "2022-02-25T12:56:52.000Z",
-          "wordCount": 123,
-          "title": "Linux 内核讨论采用现代 C 语言标准",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70776",
-          "author": null,
-          "description": "在图坦卡蒙国王（King Tut）墓中发现的诸多物品中，有一把铁制的匕首，铁是一种在埃及第十八王朝期间很少使用的材料。这些铁可能来自于陨石，最近发表在《陨石与行星科学》期刊上的一篇论文阐述了这把铁匕首是如何锻造，又是如何落入图坦卡蒙之手的。图坦卡蒙是阿肯纳顿(Akhenaten)的儿子，在八九岁时即位。从大的方面说，他算不上是一位特别重要的法老，但是 1920 年代从其坟墓中发现的宝藏让他闻名于世。这些宝物包括著名的金葬面具、纯金棺材、宝座、弓箭、喇叭、莲花杯和各种家具。\n\n\n在图坦卡蒙墓出土的 5000 多件文物中，有 19 件由铁制成，包括带有金色刀柄的匕首、一个微型头枕、一个护身符和一个可能用于“张开嘴”仪式（以便死者在死后可以吃喝）的刀片。木乃伊的腰上和脖子上还挂着金属珠子和其他宝石。科学家在 2013 年分析了其中一颗珠子，发现它的微观结构和成分和铁陨石非常相似。在制成珠子之前，这些铁可能被加工成小薄片。考古学家认为，在埃及的这个时期，使用铁可能是一种表明身份尊贵的手段。至于这把匕首，它的镍含量很高，这让科学家相信刀片所用的铁很可能是来自陨石。这一点在 2016 年得到了证实，当时研究人员对刀片进行 X 射线荧光光谱检测分析成分。结果表明，刀片的主要成分是铁，含有 11% 的镍和 0.6% 的钴——这种成分和铁陨石非常接近。相比之下由地球铁矿石制成的文物中的镍含量从未高过 4%。",
-          "link": "https://www.solidot.org/story?sid=70776",
-          "publishedOn": "2022-02-25T07:58:27.000Z",
-          "wordCount": 92,
-          "title": "X 射线检测揭开图坦卡蒙陨铁匕首的秘密",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70775",
-          "author": null,
-          "description": "量子技术定位一个隐藏在地下的物体——这是期待已久的里程碑，对业界、人类知识和国家安全都有着深远的影响。英国国家量子技术中心传感器和计时领域专家、伯明翰大学研究人员在《自然》期刊上报告了他们的成就。这是世界上首个在实验室条件之外的量子重力梯度仪。量子重力梯度仪是为国防部的合同以及 UKRI 资助的“重力先锋（Gravity Pioneer）”项目开发的，用于在真实条件下寻找埋在室外地表以下 1 米的隧道。它赢得了将这项技术发展到户外的国际竞赛。该传感器根据量子物理学原理检测微重力的变化，用这种方式工作，量子物理学原理在亚分子水平上操纵着自然。这一成功开辟了一条商业道路，可显著提高地下存在物的检测能力。\n\n\n伯明翰大学冷原子物理学主任、英国量子技术中心传感器和计时首席研究员 Kai Bongs 教授表示：“这是传感领域的‘爱迪生时刻’，它将改变社会、人类知识和经济。”“有了这项突破，我们就有可能在探索、建造和修复时不再依靠糟糕的记录和运气。此外我们离目前还不可见的地下地图更近了一步，结束了对街道下方几英尺处的情况比对南极洲了解得还少的局面。”这项突破将使未来的重力检测更便宜、更可靠，可将检测速度提高 10 倍，将勘测所需的时间从一个月缩短到几天。它有可能为重力勘测开辟出一系列新的应用，提供新的地下视图。",
-          "link": "https://www.solidot.org/story?sid=70775",
-          "publishedOn": "2022-02-25T07:52:52.000Z",
-          "wordCount": 82,
-          "title": "传感器突破为地下世界地图铺平道路",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70774",
-          "author": null,
-          "description": "卫星图像分析显示，南极洲周围的海冰覆盖在四十年的观测中创下历史新低。位于科罗拉多州博尔德的美国国家冰雪数据中心的分析显示，截止周二，南极海岸周围的冰层覆盖面积为 75 万平方公里，低于 2017 年 3 月创下的 81.5 万平方公里的最低历史记录。研究南极海冰的加州大学洛杉矶分校地理学教授 Marilyn N. Raphael 表示：“这真是前所未有。”“但是我们将在接下来的几个月里努力找出其他的因素。”南极海冰范围每年变化的幅度很大，但是自 1970 年代后期开始进行卫星观测以来，总的来说，平均增加的幅度非常小。相比之下，北极变暖的速度大约是其他地区的三倍，该地区的海冰范围在同一时期内的十年间缩小了 10% 以上。两个地区非常不同。北冰洋覆盖高纬度地区，包括北极点本身，并被陆地包围。在南半球，南极洲覆盖了极点。环绕大陆的南大洋始于低纬度地区，向北张开。虽然北极地区的快速变暖是该地海冰缩小的主要原因，但气候变化对南极海冰的影响远没有那么清晰。华盛顿大学气候科学家 Edward Blanchard-Wrigglesworth 表示，科学家预计全球变暖最终会导致南极海冰减少。但现在他表示，“真的很难将两者联系起来，尤其对于像这次这样的单独事件。”相反当涉及到南极海冰时，有一组复杂的因素在起作用。通常发生在远离该大陆地方的大规模大气模式，以及当地的洋流和风都可以扩大或缩小海冰的覆盖范围。",
-          "link": "https://www.solidot.org/story?sid=70774",
-          "publishedOn": "2022-02-25T07:50:00.000Z",
-          "wordCount": 90,
-          "title": "南极洲周围的海冰覆盖创历史新低",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70773",
-          "author": null,
-          "description": "研究表明小行星撞击地球对于恐龙来灾难性的，但是撞击发生的季节可能会大大增加其他物种的灭绝比率。科学家发现有证据表明，6600 万年前的毁灭性撞击消灭了地球上四分之三物种，在现代墨西哥留下了希克苏鲁伯（Chicxulub）陨石坑，撞击发生在北半球的春季。这个时机意味着赤道以北的很多动物在刚刚经历了几个月的严冬之后，特别容易受到碰撞释放出的强烈热浪的影响。由于南方的其他动物还在过秋天，它们的日子可能会更好过一些，尤其是如果它们躲在洞穴中的话。小行星的直接撞击引发了极端的全球热浪，对许多暴露在外的动物来说是致命的。之后温度在核冬天急剧下降，导致更多物种灭绝。",
-          "link": "https://www.solidot.org/story?sid=70773",
-          "publishedOn": "2022-02-25T07:34:33.000Z",
-          "wordCount": 73,
-          "title": "发生在春天的小行星撞击增加物种灭绝率",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70772",
-          "author": null,
-          "description": "大型芯片制造商表示，他们预计俄乌冲突对供应链的干扰暂时有限，因原材料还有库存且采购多元化。但业界一些消息人士表示，中长期而言可能会有影响。在俄罗斯从陆海空攻打乌克兰后，欧洲面临几十年来最大的安全危机之一。美国半导体行业使用的氖有 90% 以上是由乌克兰提供，这种气体对芯片制造过程中使用的激光至关重要。市场研究公司 Techcet 称，氖是俄罗斯生产钢铁的副产品，在乌克兰进行纯化。美国使用的钯金有 35% 来自于俄罗斯。钯金应用在传感器和记忆体(内存)等等产品。由于遇到过其他干扰和冲突，厂商现在有了更充分的准备。艾司摩尔(ASML)周三表示，它正在研究氖气的替代供应来源。",
-          "link": "https://www.solidot.org/story?sid=70772",
-          "publishedOn": "2022-02-25T07:00:04.000Z",
-          "wordCount": 77,
-          "title": "俄乌危机对芯片供应链影响暂时有限",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70771",
-          "author": null,
-          "description": "俄罗斯精英黑客使用一种以前未见的新僵尸网络恶意程序感染 WatchGuard 制造的网络设备窃取机密。被称为 Cyclops Blink 的恶意程序感染了百分之一的 WatchGuard 网络防火墙。Cyclops Blink 存在了大约三年时间，用于取代 2018 年发现的 VPNFilter 恶意程序。VPNFilter 被认为来自  APT 28 (aka Fancy Bear），在全世界感染了 50 万路由器，它的一个攻击模块甚至能尝试将 HTTPS 连接降级为明文 HTTP 连接。在  VPNFilter 曝光之后，黑客开发了新的恶意程序。Cyclops Blink 被发现能修改 WatchGuard 设备的固件，篡改用于验证固件镜像合法的 HMAC 值，让包含恶意功能的固件能合法运行。修改后的固件包含了一个硬编码的 RSA 公钥用于 C2 通信。",
-          "link": "https://www.solidot.org/story?sid=70771",
-          "publishedOn": "2022-02-25T06:55:50.000Z",
-          "wordCount": 108,
-          "title": "俄罗斯精英黑客用新僵尸网络恶意程序感染网络设备",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70770",
-          "author": null,
-          "description": "根据各大平台发布的用户数据测算，中国的游戏零工群体少说也有六七百万，不输于外卖、快递、网约车等平台经济的劳工规模。但虚拟工作的性质决定了他们不那么为人所熟知。遍布全中国，聚集在中小城市的打金工作室一度代表了中国游戏零工的公共画像。过去十年，随着国内游戏社交市场的扩张、通讯网络的进化，可计件量化、外挂横行、男性主导的金农组织模式渐渐被直播、陪玩等内需驱动、服务导向、有更多女性参与的模式所取代。爆款网游和风投也在协力构建出陪玩陪练等新的电竞工种，而每一种新的工作都会带来进一步的衍生性零工。女性陪玩的供需矛盾养肥了男变女的变声器产业，而难以辨认原声的声卡则需要专业的调音工作室和调音师。零工间的竞争一方面鼓励了外挂和接单脚本的使用，另一方面也刺激出新的营销型兼职，比如专门为陪玩代练定制宣传图的美工。 不同游戏零工之间尽管差异明显，边界却极为模糊。大部分人同时从事或是从事过两种或以上的服务，“可代（练）可陪（练）”甚至成为一个圈内的固定词汇，全程直播代练单也愈发成为业内防外挂的规范。",
-          "link": "https://www.solidot.org/story?sid=70770",
-          "publishedOn": "2022-02-25T05:43:13.000Z",
-          "wordCount": 72,
-          "title": "中国的游戏零工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70769",
-          "author": null,
-          "description": "最高法院发布了关于修改《最高人民法院关于审理非法集资刑事案件具体应用法律若干问题的解释》的决定，将于 2022 年 3 月 1 日起施行。《解释》第二条第八项修改为：“以网络借贷、投资入股、虚拟币交易等方式非法吸收资金的”，即将通过虚拟币的集资活动定性为非法。新的修正案允许法院对加密货币集资者进行判决，根据筹集金额判处最高十年以上徒刑。",
-          "link": "https://www.solidot.org/story?sid=70769",
-          "publishedOn": "2022-02-25T05:09:15.000Z",
-          "wordCount": 77,
-          "title": "最高法院将虚拟货币集资定性为非法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70768",
-          "author": null,
-          "description": "乌克兰政府正在向该国的地下黑客征集志愿者，以帮助保护关键的基础设施，并对俄罗斯军队实施网络间谍任务。随着俄罗斯军队攻击乌克兰各地的城市，周四上午在黑客论坛中开始出现招募志愿者的请求，因为许多居民逃离了首都基辅。“乌克兰网络社区！是时候参与我们国家的网络防御了，”帖子写道，要求黑客和网络安全专家通过 Google 文档提交申请，列出他们的专长(如恶意软件开发)以及专业能力证明人。基辅一家网络安全公司的联合创始人 Yegor Aushev 表示，他是应国防部一位高级官员的要求写的帖子，这位官员周四联系了他。他公司 Cyber Unit Technologies 以与乌克兰政府合作保护关键基础设施而闻名。",
-          "link": "https://www.solidot.org/story?sid=70768",
-          "publishedOn": "2022-02-25T04:10:30.000Z",
-          "wordCount": 100,
-          "title": "乌克兰招募地下黑客防御俄罗斯网络攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70767",
-          "author": null,
-          "description": "俄罗斯军队占领了切尔诺贝利核电站，世界历史上最严重核灾难发生地。切尔诺贝利核电站距离乌克兰首都基辅只有一百多公里，可能作为入侵部队进入基辅的一条路径。乌克兰总统泽伦斯基（Volodymyr Zelensky）表示，我们的卫士正在献出生命，以让 1986 年悲剧不再重演，“这是对整个欧洲宣战。”乌克兰外交部长也警告说，切尔诺贝利可能会因此而出现“又一场生态灾难”。",
-          "link": "https://www.solidot.org/story?sid=70767",
-          "publishedOn": "2022-02-25T04:07:32.000Z",
-          "wordCount": 74,
-          "title": "俄罗斯占领切尔诺贝利核电站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70766",
-          "author": null,
-          "description": "英特尔收购了专注于嵌入式 Linux 和实时计算的德国 Linux 咨询公司 Linutronix。通过收购英特尔获得的主要是 Linux 相关的资深开发者。Linutronix 的 CTO Thomas Gleixner 从 2008 年起就是内核 x86 架构的主要维护者。Linutronix 也是 PREEMPT_RT (Real Time) 项目的缔造者，PREEMPT_RT 被用于实时系统，但此前因为缺乏资金而没有合并到内核主线，在英特尔收购之后资金应该不会再成为问题。",
-          "link": "https://www.solidot.org/story?sid=70766",
-          "publishedOn": "2022-02-24T14:08:37.000Z",
-          "wordCount": 95,
-          "title": "英特尔收购 Linutronix",
-          "imageUrl": null
         }
       ]
     },
@@ -3706,6 +3596,16 @@
       "feedUrl": "https://kaopubear.top/blog/atom.xml",
       "siteUrl": "https://kaopubear.top/blog",
       "articles": [
+        {
+          "id": "https://kaopubear.top/blog/2022-03-26-tencent-cloud-cdn-setting/",
+          "author": null,
+          "description": "<p>今天好几个小伙伴反馈Gitee不能再当作图床使用了，问有没有更好的markdown图床替代方案。</p>",
+          "link": "https://kaopubear.top/blog/2022-03-26-tencent-cloud-cdn-setting/",
+          "publishedOn": "2022-03-26T11:38:17.000Z",
+          "wordCount": 76,
+          "title": "Gitee图床被禁？云对象存储配合CDN方案以及图片批量迁移方法",
+          "imageUrl": null
+        },
         {
           "id": "https://kaopubear.top/blog/2022-03-20-donot-use-deseq2-edger-in-human-population-samples/",
           "author": null,
