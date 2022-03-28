@@ -12,6 +12,21 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=41781",
+          "author": "青小蛙",
+          "description": "Magic Eraser 是一款免费的在线服务，它通过 AI 自动去除图片中不需要的部分，只需要上传图片，标记需要删除的部分，等待几秒钟即可。@Appinn Magic Eraser 这是一款目前阶段",
+          "link": "https://www.appinn.com/magic-eraser/",
+          "publishedOn": "2022-03-27T03:46:08.000Z",
+          "wordCount": 631,
+          "title": "Magic Eraser – 使用 AI 自动去除图片中不需要的部分，几秒钟￼",
+          "enclosure": {
+            "url": "https://www.appinn.com/wp-content/uploads/2022/03/ezgif.com-gif-maker-16.mp4",
+            "length": "74053",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/magic-eraser.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=41777",
           "author": "青小蛙",
           "description": "微软电脑管家 真的是微软中国的团队发布的一款针对 Windows 的管家类电脑安全辅助软件，主要功能包括电脑体检、垃圾清理、病毒查杀、优化加速，并且拥有微软全球防护系统，目前已发布 v1.1 测试版。",
@@ -527,36 +542,6 @@
           "wordCount": 2422,
           "title": "Web Component Pseudo-Classes and Pseudo-Elements are Easier Than You Think",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363929"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364070",
-          "author": "Chris Coyier",
-          "description": "A fun deep dive from Zach. Do you have an opinion on which you should use?\n1) https://website.com/foo/\n2) https://websites.com/foo\nThe first option has a “trailing slash.” The second does not.\nI’ve always preferred this thinking: you use a trailing …\nTrailing Slashes on URLs: Contentious or Settled? originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/trailing-slashes-on-urls-contentious-or-settled/",
-          "publishedOn": "2022-02-25T21:13:08.000Z",
-          "wordCount": 740,
-          "title": "Trailing Slashes on URLs: Contentious or Settled?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364070"
-        },
-        {
-          "id": "https://css-tricks.com/?p=363619",
-          "author": "Šime Vidas",
-          "description": "In my recent article about CSS underline bugs in Chrome, I discussed text-decoration-thickness and text-underline-offset, two relatively new and widely-supported CSS properties that give us more control over the styling of underlines.\nLet me demonstrate the usefulness of …\nWhen to Avoid the text-decoration Shorthand Property originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/when-to-avoid-css-text-decoration-shorthand/",
-          "publishedOn": "2022-02-25T15:28:33.000Z",
-          "wordCount": 1254,
-          "title": "When to Avoid the text-decoration Shorthand Property",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363619"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364152",
-          "author": "Chris Coyier",
-          "description": "If you’re looking for a primer on CSS specificity, we’ve got that. And if you’re trying to get ahead of the game, you should be aware of CSS Cascade Layers as well.\nOne of the ways to help get …\nManuel Matuzovic’s CSS Specificity Demo originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/manuel-matuzovics-css-specificity-demo/",
-          "publishedOn": "2022-02-25T15:27:19.000Z",
-          "wordCount": 534,
-          "title": "Manuel Matuzovic’s CSS Specificity Demo",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364152"
         }
       ]
     },
@@ -613,6 +598,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10355",
+          "author": "张 鑫旭",
+          "description": "介绍一个无需HTML标签就能控制任意字符字号大小的CSS技术，关键时候说不定可以救命，都来学学吧。",
+          "link": "https://www.zhangxinxu.com/wordpress/2022/03/css-size-adjust-font-unicode-range/",
+          "publishedOn": "2022-03-27T15:08:43.000Z",
+          "wordCount": 690,
+          "title": "使用CSS size-adjust和unicode-range改变任意文字尺寸",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10319",
           "author": "张 鑫旭",
           "description": "@font-face 自定义字体的又新增了一些新属性，进来看看都是干嘛用的吧，说不定可以解决你的超级棘手的难题！",
@@ -659,6 +654,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71073",
+          "author": null,
+          "description": "在 GIF 图像格式的作者 Steve Wilhite 去世之后，CompuServe 的高管 Alexander Trevor 接受采访透露了创造 GIF 的经过。Wilhite 是应 Trevor 的要求创建 GIF 格式的，当时是 1987 年。CompuServe 是 AOL 之前 1980 年代最大的在线服务，它的在线服务正趋向于图形化，而计算机制造商如苹果、Commodore 和 IBM 都有自己的私有图像格式，CompuServe 不想支持几十种图像格式，而是希望创造出一种通用图像格式。Trevor 要求新的图像格式能快速下载，当时的拨号网速能达到每秒 2400 比特就已经不错了。Wilhite 在阅读科技杂志看到了 LZW（Abraham Limpel、Jacob Ziv 和 Terry Welch 发明） 压缩格式的介绍。LZW 允许 GIF 将大量图像打包到的非常小的文件中，是理想的图像格式基础。GIF 于 1987 年 6 月 15 日正式发布。",
+          "link": "https://www.solidot.org/story?sid=71073",
+          "publishedOn": "2022-03-27T14:44:55.000Z",
+          "wordCount": 123,
+          "title": "GIF 是如何创造出来的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71072",
+          "author": null,
+          "description": "诞生于 2004 年的 Ubuntu 发行版至今的发布频率都是每年两次。相比之下 Arch Linux 发行版采用的是滚动发布，因为能快速迭代而被 Steam Deck 采用作为其操作系统的基础。Arch Linux 的滚动更新模式已被软件行业广泛采用，但 Ubuntu 至今没有滚动更新版本，因此有开发者发布了一个非官方的 Ubuntu 滚动发行版 Rolling Rhino Remix。该版本通过跟踪开发中的软件包库实现滚动更新。",
+          "link": "https://www.solidot.org/story?sid=71072",
+          "publishedOn": "2022-03-27T14:11:48.000Z",
+          "wordCount": 92,
+          "title": "Ubuntu 有了滚动发行版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71071",
+          "author": null,
+          "description": "上海市政府宣布了新的防疫措施：3 月 28 日 5 时起以黄浦江为界分区分批实施核酸筛查。第一批，浦东、浦南及毗邻区域（包括浦东新区全区，奉贤区全区，金山区全区，崇明区全区，闵行区浦锦街道、浦江镇，松江区新浜镇、石湖荡镇、泖港镇、叶榭镇）先行实施封控，开展核酸筛查，4 月 1 日 5 时解封。同时，浦西地区重点区域继续实施封控管理。第二批，4 月 1 日 3 时起，按照压茬推进的原则，对浦西地区实施封控，开展核酸筛查，4 月 5 日 3 时解封。封控区域内，住宅小区实施封闭式管理，所有人员足不出户，人员和车辆只进不出。保障基本生活必需的外卖、快递等实行无接触配送，不得进入住宅小区。",
+          "link": "https://www.solidot.org/story?sid=71071",
+          "publishedOn": "2022-03-27T13:59:13.000Z",
+          "wordCount": 91,
+          "title": "上海宣布新的防疫措施",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71070",
+          "author": null,
+          "description": "本次发布内置十张2021年高考数学试卷。其中五张由来自湖南的高中数学老师张志雄制作，另外五张由XmacsLabs制作。\n墨干编辑器V1.0.1增加了对GNU/Linux平台的支持，验证了墨干编辑器（或者GNU TeXmacs）完全可以用于数学试卷制作！\n下个版本，墨干编辑器将内置绘图软件欧几里得(Eukleides)，继续优化在中学教学应用中的体验！\n查看全文",
+          "link": "https://www.solidot.org/story?sid=71070",
+          "publishedOn": "2022-03-27T06:11:47.000Z",
+          "wordCount": 90,
+          "title": "墨干编辑器V1.0.1发布",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71069",
           "author": null,
@@ -3418,66 +3453,6 @@
           "wordCount": 90,
           "title": "俄罗斯限制访问 Twitter",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70783",
-          "author": null,
-          "description": "在俄罗斯对乌克兰发动攻击之后，美国立即对其实施了严厉制裁，切断俄罗斯的高科技产品进口。为遵守美国的出口监管政策，主要芯片和 IT 公司停止了对俄业务。英特尔、戴尔和联想公司都暂停向俄罗斯交付产品。台积电暂停为俄罗斯公司代工芯片和已知向俄罗斯出口产品的第三方的所有销售业务。它在一份声明中表示完全遵守新的出口控制规定。另一家美国芯片代工公司 GlobalFoundries 也表示开始遵守新规定。台积电停止代工的产品包括俄罗斯公司设计的 Elbrus 芯片。不过俄罗斯消费的芯片并不多，只占到全球芯片采购量的不到 0.1%。",
-          "link": "https://www.solidot.org/story?sid=70783",
-          "publishedOn": "2022-02-26T12:31:29.000Z",
-          "wordCount": 78,
-          "title": "芯片行业开始停止向俄罗斯出口产品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70782",
-          "author": null,
-          "description": "俄罗斯军队最近占领了切尔诺贝利核电站，世界历史上最严重核灾难发生地。随后有数据显示当地的辐射值提高了。国际原子能机构称，乌克兰监管机构表示，这可能是由于重型军用车辆搅动了仍然受到 1986 年事故污染的土壤造成的。原子能机构评估认为，监管机构报告的多达9.46微希沃特/小时的读数既低，又在禁区设立以来测量的运行值范围之内，因此不会对公众构成任何危险。原子能机构继续密切监测乌克兰的这一情况和其他事态发展，并特别关注其核反应堆的安全和安保。",
-          "link": "https://www.solidot.org/story?sid=70782",
-          "publishedOn": "2022-02-26T07:08:09.000Z",
-          "wordCount": 74,
-          "title": "国际原子能机构称切尔诺贝利辐射值提高不危及公众安全",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70781",
-          "author": null,
-          "description": "美国市值最高的芯片公司英伟达据报道遭到网络攻击， 电邮系统和开发工具下线，其它业务受影响情况未知。英伟达发言人证实了网络攻击但没有提供更多细节，表示正展开调查。攻击者的身份，有没有从服务器上窃取数据，造成的破坏规模有多大等等目前都未知。因为最近的俄罗斯乌克兰冲突，有报道将此次攻击与俄罗斯联系起来。报道称，为了防止入侵扩大，英伟达不得不将多个内部系统下线。",
-          "link": "https://www.solidot.org/story?sid=70781",
-          "publishedOn": "2022-02-26T06:49:09.000Z",
-          "wordCount": 72,
-          "title": "英伟达遭到网络攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70780",
-          "author": null,
-          "description": "Valve 的 Linux 掌机 Steam Deck 正式上市。主要媒体如 Ars、Eurogamer、IGN 和 Gamespot 也都公布了相关评测。许多人可能想在掌机上安装 Windows 系统，可以更自由的玩各种 Windows 游戏(Linux 系统是通过 Proton 实现对 Windows 游戏的支持），但 Valve 表示目前 Windows 驱动尚未准备就绪，Windows 游戏的体验未必会顺利。对掌机而言，玩 3A 级大作如《Dying Light 2》在电池续航力和帧率方面可能都不太理想，电池只能持续不到 2 小时；但对于图形更简单的独立游戏而言，电池的续航力足够了。此外 Linux 系统对部分游戏的兼容性也存在问题，因此有人称这个掌机还不是完善的版本。Valve 在同一天宣布了一款为 Steam Deck 打造的免费可玩短篇游戏《Aperture Desk Job》，3 月 2 日发售。",
-          "link": "https://www.solidot.org/story?sid=70780",
-          "publishedOn": "2022-02-26T06:08:24.000Z",
-          "wordCount": 116,
-          "title": "Steam Deck 上市",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70779",
-          "author": null,
-          "description": "俄罗斯勒索软件组织 Conti 周五威胁对克里姆林宫的敌人发动攻击。Conti 在其暗网网站（需通过 Tor 浏览器访问）上发表声明宣布全力支持普京政府。声明称，如果有人决定组织对俄罗斯发动网络攻击或任何战争活动，它将利用所有资源对其基础设施发动反击。在这之前乌克兰正在招募地下黑客保护本国的基础设施和对俄罗斯展开网络侦察。安全公司 Emsisoft 的分析师 Brett Callow 指出 Conti 以前也发表过极度夸张的声明，他建议美国公司密切关注其网络防御，网络战可能蔓延到乌克兰之外。",
-          "link": "https://www.solidot.org/story?sid=70779",
-          "publishedOn": "2022-02-26T05:25:24.000Z",
-          "wordCount": 87,
-          "title": "俄罗斯勒索软件组织 Conti 威胁发动网络战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70778",
-          "author": null,
-          "description": "俄罗斯周五宣布限制访问 Facebook，理由是社交巨人审查俄罗斯媒体。俄罗斯同时对本国媒体增加了施压力度，威胁屏蔽它所谓的有关乌克兰军事行动的“虚假信息”。俄罗斯通信监管机构称，Facebook 无视了解除对四家俄罗斯媒体限制的要求，这四家官媒包括俄新社、国防部 Zvezda 电视台，以及网站 gazeta.ru 和lenta.ru。Facebook 母公司 Meta 的全球事务主管 Nick Clegg 称俄罗斯要求该平台停止对四家国有媒体帖子的独立事实核查和内容标记，它拒绝了这一要求。Meta 称被标记为虚假或部分虚假的内容会向更少的用户展示。YouTube 也表示过去几天删除了数百个违反政策的频道和数千个视频。Twitter 停止向俄罗斯和乌克兰用户展示广告，以免分散对公共安全信息的注意力。Pornhub 据报道屏蔽了俄罗斯 IP 地址，但俄罗斯用户表示访问正常。",
-          "link": "https://www.solidot.org/story?sid=70778",
-          "publishedOn": "2022-02-26T04:35:52.000Z",
-          "wordCount": 91,
-          "title": "俄罗斯限制访问 Facebook",
-          "imageUrl": null
         }
       ]
     },
@@ -3786,24 +3761,23 @@
       "title": "尤雨溪 - 知乎动态",
       "feedUrl": "https://rss.lilydjwg.me/zhihu/evanyou",
       "siteUrl": "https://www.zhihu.com/people/evanyou",
-      "articles": [
-        {
-          "id": "https://www.zhihu.com/question/518610240/answer/2365099154",
-          "author": "尤雨溪",
-          "description": "人云亦云，三人成虎。",
-          "link": "https://www.zhihu.com/question/518610240/answer/2365099154",
-          "publishedOn": "2022-02-26T10:05:16.000Z",
-          "wordCount": 22,
-          "title": "[回答] 为什么大家都说Vue 不适合构建大型项目？",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Anthony Fu - 知乎动态",
       "feedUrl": "https://rss.lilydjwg.me/zhihu/antfu",
       "siteUrl": "https://www.zhihu.com/people/antfu",
       "articles": [
+        {
+          "id": "https://www.zhihu.com/pin/1491400331598327808",
+          "author": "Anthony Fu",
+          "description": "今晚八点B站直播，主题未定，开放许愿 👀\nhttps://b23.tv/DBYMd7Y",
+          "link": "https://www.zhihu.com/pin/1491400331598327808",
+          "publishedOn": "2022-03-27T05:05:47.000Z",
+          "wordCount": 13,
+          "title": "[想法] 今晚八点B站直播，主题未定，开放许愿 …",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zhihu.com/pin/1487492347650400256",
           "author": "Anthony Fu",
