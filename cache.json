@@ -420,26 +420,6 @@
           "wordCount": 667,
           "title": "Smart TOC – 生成「智能网页大纲」，自动为 Chrome 添加页面目录",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/smart-toc-1.jpgo_-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=41617",
-          "author": "青小蛙",
-          "description": "中国法律快查手册 是一款 iPhone、macOS（M1） 上查询中国法律条款的应用，数据来源国家法律法规数据库。@Appinn 来自发现频道，@RanKKI 同学的自荐：https://meta.a",
-          "link": "https://www.appinn.com/china-law-quick-reference-manual-for-apple/",
-          "publishedOn": "2022-03-11T09:58:56.000Z",
-          "wordCount": 603,
-          "title": "中国法律快查手册 – 一款简单的 iPhone/macOS 应用",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/china-law-quick-reference-manual.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=41610",
-          "author": "青小蛙",
-          "description": "Windows 下老牌多功能截图工具 Picpick 6.0 发布，新增了黑暗模式、改善了加载性能，修复了高 DPI 设备上的 UI 问题。官网对自己的介绍是：一款全能的设计工具，并且这款工具适宜每个",
-          "link": "https://www.appinn.com/picpick-6-0/",
-          "publishedOn": "2022-03-11T06:47:27.000Z",
-          "wordCount": 668,
-          "title": "Picpick 6.0 发布，就多了一个黑暗模式？",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/picpick6-0.jpgo_.jpg"
         }
       ]
     },
@@ -554,16 +534,6 @@
           "wordCount": 512,
           "title": "科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-198.html",
-          "publishedOn": "2022-03-11T00:44:49.000Z",
-          "wordCount": 414,
-          "title": "科技爱好者周刊（第 198 期）：美国制造是否可能",
-          "imageUrl": null
         }
       ]
     },
@@ -609,6 +579,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71197",
+          "author": null,
+          "description": "一个国际天文学家团队发现了有史以来最遥远的星系。这个名为 HD1 的候选星系距离我们约 135 亿光年。研究团队提出了两个想法：HD1 可能正在以惊人的速度形成恒星，甚至可能是宇宙第一颗恒星 Population Ⅲ 恒星的家园，或者 HD1 可能包含一个超大质量黑洞，其质量约为太阳质量的 1 亿倍。论文（预印本）发表在《天体物理学杂志》上。 HD1 在紫外光下非常亮。起初研究人员假设其是一个标准的星暴星系，也就是一个正在高速创造恒星的星系。但在计算了 HD1 产生了多少颗恒星之后，他们发现 HD1 每年会形成 100 多颗恒星。这一速度简直令人难以置信，至少比他们的预期高出 10 倍。研究团队使用阿塔卡马大型毫米/亚毫米阵列（ALMA）进行了后续观测以确认距离，该距离比目前最远星系的纪录保持者 GN-z11 还要远1亿光年。",
+          "link": "https://www.solidot.org/story?sid=71197",
+          "publishedOn": "2022-04-09T15:18:25.000Z",
+          "wordCount": 95,
+          "title": "天文学家发现至今最遥远的星系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71196",
+          "author": null,
+          "description": "科学家运用细胞重编程技术逆转老化的人类皮肤细胞，使其年轻三十年。在模拟皮肤伤口的实验中，恢复活力的细胞看起来更像是年轻细胞。人工诱导多能干细胞（iPSC）最早是由山中伸弥的团队于 2006 年发现的，山中伸弥因这一发现而在 2012 年获得诺贝尔生理医学奖。发表在《eLife》期刊上的最新研究没有诱导皮肤细胞转变成干细胞，而只是将其变成更年轻的版本，仍然保留皮肤细胞的性质。细胞重编程技术仍然存在很多局限， 比如有癌化的风险。",
+          "link": "https://www.solidot.org/story?sid=71196",
+          "publishedOn": "2022-04-09T15:03:25.000Z",
+          "wordCount": 76,
+          "title": "科学家逆转人类皮肤细胞老化三十年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71195",
+          "author": null,
+          "description": "电邮客户端 Mozilla Thunderbird 的最新 Beta 版本默认启用了对 Matrix 的支持。Matrix 是一个端对端加密、去中心化的实时通讯系统。没有中心服务器。Thunderbird 的最新版本改进了 Matrix 实现，端对端加密支持基本完成，支持显示格式化信息，home server discovery，消息编辑，延迟加载房间成员，等等。",
+          "link": "https://www.solidot.org/story?sid=71195",
+          "publishedOn": "2022-04-09T05:29:10.000Z",
+          "wordCount": 94,
+          "title": "Mozilla Thunderbird Beta 默认启用对 Matrix 的支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71194",
+          "author": null,
+          "description": "美国太空司令部确认了第一个撞击地球的星际天体：来自另一个恒星系统的天体于 2014 年在巴布亚新几内亚附近坠落，碎片很有可能在南太平洋中，要找到残片将会非常困难。它是已知第一颗星际天体，但只有几英尺宽，远小于更知名的星际天体‘Oumuamua 和 Comet Borisov。在发现星际天体‘Oumuamua 之后 ，哈佛大学天体物理学专业的学生 Amir Siraj 和教授 Avi Loeb 开始搜寻是否有来自太阳系之外的陨星坠落到地球。他们查询了 NASA 近地天体研究中心维护的陨星数据库，数据库记录了近千次撞击，其中发生在 2014 年 1 月 8 日 Manus 岛附近的爆炸事件立即引起了他们的注意，陨星的时速超过了 13 万英里，暗示它很可能来自太阳系之外。他们的研究报告 2019 年递交到了期刊《The Astrophysical Journal Letters》，但因为缺乏美国政府未披露的信息而一直没有通过同行评审。探测陨星的部分传感器由美国国防部管理，相同的技术用于探测核爆，因此研究人员无法确认陨星速度的误差幅度。美国太空司令部上个月公布的备忘录为研究人员提供了他们所需要的数据。",
+          "link": "https://www.solidot.org/story?sid=71194",
+          "publishedOn": "2022-04-08T15:51:00.000Z",
+          "wordCount": 101,
+          "title": "美国太空司令部确认第一个撞击地球的星际天体",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71193",
           "author": null,
@@ -3288,116 +3298,6 @@
           "wordCount": 108,
           "title": "美国引渡两位勒索软件黑帮的嫌疑犯",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70920",
-          "author": null,
-          "description": "Google 官方博客宣布向乌克兰 Android 用户推送空袭警报系统。Google 称，有数百万人依赖于空袭警报试图在战争中获得安全，应乌克兰政府要求，在其帮助下 Google 向乌克兰 Android 用户推送空袭警报系统，补充现有的警报系统。该功能是通过 Google Play Services 推送的，意味着它能在几乎所有 Android 设备上工作。它实际上是政府预警系统的一个客户端，该系统将从现在开始推送，将在未来几天内推送给乌克兰境内的所有 Android 设备。",
-          "link": "https://www.solidot.org/story?sid=70920",
-          "publishedOn": "2022-03-11T11:07:59.000Z",
-          "wordCount": 93,
-          "title": "Google 为乌克兰 Android 用户推出空袭警报系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70919",
-          "author": null,
-          "description": "因为经济制裁俄罗斯网站使用的 TLS 证书面临到期后无法更新（通用的付费方法被切断），而使用过期的证书会被浏览器屏蔽。为了解决网站访问问题俄罗斯创建了自己的可信 TLS CA（证书颁发机构）。俄罗斯公共服务门户网站 Gosuslugi 解释称，数字发展部将提供免费的国内替代，取代被撤销或过期的外国安全证书。但新 CA 要被浏览器信任首先需要接受浏览器开发商的审核，而这通常需要很长时间。目前承认俄罗斯新 CA 的浏览器只有该国的 Yandex 和 Atom，俄罗斯建议用户改用这些浏览器，不要使用 Chrome、Firefox 和 Edge 等西方公司的浏览器。",
-          "link": "https://www.solidot.org/story?sid=70919",
-          "publishedOn": "2022-03-11T10:30:04.000Z",
-          "wordCount": 92,
-          "title": "俄罗斯创建自己的 CA 证书颁发机构",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70918",
-          "author": null,
-          "description": "随着日常生活成本日益高昂，工人们越来越难以维持生计。虽然按照历史标准衡量，工资增长很快，但跟不上生活成本增长的脚步，生活成本正在以 40 年来最快的年增长率增长。Bankrate.com 的高级经济分析师 Mark Hamrick 表示：“过去一年，工资上涨了 5.1%，落后于通胀的步伐。”“确实，飙升的价格攥住了消费者的心。”当工资增长的速度低于通胀率时，花在杂货店和加油站的薪水就不会那么多——这两个领域的预算受到的挤压尤为严重。LendingClub 报告显示，在2022 年初，有 64% 的美国人成了“月光族”，高于 12 月的 61%，仅略低于 2020 年 65% 的高位。",
-          "link": "https://www.solidot.org/story?sid=70918",
-          "publishedOn": "2022-03-11T08:00:19.000Z",
-          "wordCount": 91,
-          "title": "64% 的美国人成为月光族",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70917",
-          "author": null,
-          "description": "俄罗斯实际上已将盗窃属于对其“不友好”国家任何人的专利的行为合法化，宣布未经授权的使用不用进行赔偿。本周颁布的法令表明，随着西方实施制裁并撤离俄罗斯庞大的石油和天然气行业，针对俄罗斯入侵乌克兰的经济战争已经展开。据官媒报道，俄罗斯官员还提出取消对某些商标限制的可能性，这可能允许继续使用麦当劳等品牌，这些品牌正成群结队地离开俄罗斯。专家表示，失去专利保护的影响因公司而异，这取决于他们在俄罗斯是否拥有有价值的专利。美国政府一直警告称俄罗斯对知识产权的侵犯；去年俄因涉嫌未能保护知识产权，被列入“优先观察名单”的九个国家之一。\n\n华盛顿知识产权律师 Josh Gerben 表示，对于西方对俄罗斯的投资，专利法令和任何进一步取消知识产权保护的行为的影响可能会远远超出乌克兰战局的缓和。在俄罗斯的业务出现风险的公司更有理由感到担心。Gerben 表示：“这只是（普京）永远在改变俄罗斯与世界关系的又一个例子。”俄罗斯的法令取消了对在敌对国家注册、开展业务或持有其国籍的专利持有人的保护。克林姆林宫还没有颁布任何解除商标保护的法令。但据塔斯社报道，俄罗斯经济发展部上周表示，当局正在考虑“取消对某些限制供应俄罗斯的产品所包含的知识产权的使用限制，”潜在的措施可能会影响发明、计算机程序和商标。塔斯社称，这些措施将“减轻供应链中断对市场的影响，以及由于西方国家新的制裁而出现的商品和服务短缺”。Gerben 表示，类似的商标法令将为俄罗斯公司使用已经停止在俄罗斯业务的美国品牌铺平道路。他以麦当劳为例做了一个假设，麦当劳是最新迫于公众压力暂停在俄罗斯运营的全球巨头之一。",
-          "link": "https://www.solidot.org/story?sid=70917",
-          "publishedOn": "2022-03-11T07:57:38.000Z",
-          "wordCount": 78,
-          "title": "俄罗斯表示企业可从不友好国家窃取专利",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70916",
-          "author": null,
-          "description": "曾生活在印度洋小岛上的一种已灭绝老鼠可能会让科学家复活更著名灭绝动物——如猛犸象的梦想彻底破灭。圣诞岛大鼠在 100 多年前消失，研究人员现在表示，即使是其最详细的基因组也不够完整，无法让它复活。未参与研究的加州大学圣巴巴拉分校生态学家 Douglas McCauley表 示，这项工作展示了科学家距离通过对近亲基因进行改造复活已灭绝的物种“是多么接近——但又仍然是多么毁灭性的遥远”。为了让一个已灭绝物种复活，科学家首先需要对其基因组进行测序，然后编辑一个活的近亲物种的 DNA 匹配它。接下来的挑战是用修改后的基因组制造胚胎、并将它们植入活体代孕母体。到目前为止，科学家已对大约 20 种灭绝物种的基因组进行了测序，其中包括洞熊、旅鸽以及几种猛犸象和恐鸟。目前还没有人报告在活体亲缘物种中重新创造出已灭绝基因组。\n\n\n在新研究中，哥本哈根大学的演化遗传学家 Tom Gilbert 认为最好从小处着手。他推理道：“如果我们想尝试如此疯狂的事情，为什么不从一个简单的模型开始？”因此，他与汕头大学的分子生物学家林剑青及同事将注意力放在圣诞岛大鼠（Rattus macleari）身上，这种老鼠于 1908 年从位于澳大利亚以西约 1200 公里处的小岛上消失。McCauley 表示，鉴于它与褐家鼠的密切关系，该物种“应该是一个梦幻般的‘去灭绝’（译注，又称物种复活）候选者，”褐家鼠是一种经过充分研究的实验室动物，具有完整的基因组序列，科学家已知道如何修改基因组序列。\n\n\nGilbert 和 Lin 从两只保存完好的圣诞岛大鼠的皮肤上提取了 DNA，对其进行多次测序，获得尽可能多的基因组。他们做了 60 多次测序。古老的 DNA 只能以小片段的形式存在，因此团队使用褐家鼠的基因组作为参考，以尽可能多地拼凑已绝迹鼠的基因组。Lin、Gilbert和他们的同事在《当代生物学》上报告称，比较这两种基因组发现，圣诞岛大鼠的基因组仍有 5% 的缺失。估计这种老鼠有 3.4 万个基因，丢失的序列大约有 2500 个。Gilbert 表示：“我很惊讶。”比如找回的 DNA 包括圣诞岛大鼠特有的圆耳基因，但是重要的免疫系统和嗅觉基因要么缺失，要么不完整。伦敦自然历史博物馆的演化生物学家 Victoria Herridge 表示，这项工作“确实凸显出（去灭绝）工作的困难，甚至可能是荒谬的。”Herridge 表示，很多缺失的基因让每个物种都独一无二。值得注意的是，人类和黑猩猩以及倭黑猩猩的基因组差异只有1%。",
-          "link": "https://www.solidot.org/story?sid=70916",
-          "publishedOn": "2022-03-11T07:40:03.000Z",
-          "wordCount": 112,
-          "title": "复活灭绝物种也许不可能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70915",
-          "author": null,
-          "description": "NASA 约翰逊航天中心的科学家准备打开阿波罗任务宇航员敲入月球表面的第一根管子，它从 1972 年阿波罗 17 号任务——人类最后一次踏上月球以来一直保持密封状态。阿波罗 17 号任务带回的未密封管于 2019 打开。里面保存有月球土壤层样本，提供了在缺少空气的地方发生山体滑坡等问题的见解。现在打开的样本一直是密封的，除了岩石和土壤之外，它可能还含有气体。它可能含有在常温下会蒸发的、被称为挥发物的物质，例如水冰和二氧化碳。管子底部的材料在被收集的时候非常冷。样本中气体的含量估计非常低，因此科学家正使用一种被称为“歧管”的特殊装置，由圣路易斯华盛顿大学的一个团队设计，用于提取和收集气体。欧洲航天局（ESA）开发了另一种工具，用于刺破样本并在气体逸出时捕获它们。科学家将这种工具称为“阿波罗罐头开罐器”。打开和捕捉的精细过程已经开始，到目前为止，一切顺利：内部样本管的密封似乎完好无损。穿刺过程正在进行之中，特殊的“罐头开罐器”已经准备好捕捉任何可能逸出的气体。如果样本中有气体的话，科学家将能使用现代质谱技术测定它们。质谱是一种用于分析和测量分子的工具。这些气体也可以分成微小的样本供其他研究人员研究。",
-          "link": "https://www.solidot.org/story?sid=70915",
-          "publishedOn": "2022-03-11T07:28:32.000Z",
-          "wordCount": 86,
-          "title": "NASA 准备打开 50 年前从月球带回的真空密封样本",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70914",
-          "author": null,
-          "description": "Twitter 发布了 Tor 网站——即只能通过 Tor 匿名网络访问的网站。用户可以在 Tor 浏览器或 Brave（隐私模式支持 Tor）上输入域名 twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion 访问 Twitter。 Tor 匿名网络通过至少三个中继节点路由流量，每一个节点都会加密数据，创造了一种类似洋葱的加密层，因此被称为洋葱路由。目前  Tor 网络有 7000 多个中继节点和约 3000 个网桥——网桥是不公开的中继，旨在规避审查。Facebook、BBC、德国之声、自由欧洲电台、《纽约时报》和 The Intercept 等知名网站都有 Tor 镜像站。",
-          "link": "https://www.solidot.org/story?sid=70914",
-          "publishedOn": "2022-03-11T07:18:21.000Z",
-          "wordCount": 102,
-          "title": "Twitter 发布了 Tor 网站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70913",
-          "author": null,
-          "description": "Valve 在二月底正式发布了 Linux 掌机  Steam Deck，运行的是 Linux 操作系统。作为一台可放在手上的 PC，它可以运行包括 Windows 在内的其它系统。但在 Steam Deck 上市之初 Windows 驱动尚未准备就绪。现在，Valve 正式宣布释出了游戏机的 Windows 驱动，允许用户安装 Windows 10 操作系统。Steam Deck 可以实现双系统启动，但 Valve 称提供双引导向导的 SteamOS 安装程序尚未准备就绪，因此目前用户要么选择 Windows 10 要么继续 Linux。Windows 11 需要 BIOS 支持 fTPM，而新 BIOS 还在开发中。Valve 称它只提供相关的工具，不提供运行 Windows 的技术支持，如果出现问题用户可选择回滚到  Linux 系统。",
-          "link": "https://www.solidot.org/story?sid=70913",
-          "publishedOn": "2022-03-11T06:02:26.000Z",
-          "wordCount": 126,
-          "title": "Valve 发布 Steam Deck 的 Windows 驱动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70912",
-          "author": null,
-          "description": "世界卫生组织(WHO)已建议乌克兰销毁存放在该国公共卫生实验室的高危病原体，以防止“任何可能的泄露”导致疾病在人群中传播。生物安全专家说，俄罗斯向乌克兰出兵以及对乌克兰城市的轰炸，增加了这些设施一旦受损将导致致病病原体泄露的风险。与其他许多国家一样，乌克兰拥有公共卫生实验室，研究如何减轻影响动物和人类的危险疾病的威胁，包括近年出现的新冠病毒。WHO 在一封电子邮件中说，WHO 与乌克兰的公共卫生实验室已经合作了数年，以促进有助于防止“意外或蓄意泄露病原体”的安全措施。“作为这项工作的一部分，世卫组织强烈建议乌克兰卫生部和其他负责机构销毁高危病原体，以防止任何可能的泄漏，”WHO 说。",
-          "link": "https://www.solidot.org/story?sid=70912",
-          "publishedOn": "2022-03-11T04:14:18.000Z",
-          "wordCount": 76,
-          "title": "WHO 建议乌克兰销毁卫生实验室的病原体以防疾病传播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70911",
-          "author": null,
-          "description": "2 月 24 日上午保护生物学家 Anton Vlaschenko 被位于 Kharkiv 市的公寓外的炮声惊醒，他吃完一顿丰盛的早餐之后立即前往蝙蝠康复中心，在接下来的 24 小时里将数百只获救的蝙蝠转移到特殊的笼子里以便于释放，然后将收藏的 2000 多个蝙蝠头骨小心翼翼的搬到他的公寓。一个多星期之后蝙蝠头骨还在公寓里，由于不知道公寓是否会遭到炮击，这些头骨时刻准备随时再次搬迁。在战争爆发之后，乌克兰各地的研究人员都迅速行动起来保护和隐藏他们难以替代的收藏品。有的小组向国外的同事上传了化石的 3D 扫描图，国际研究人员正致力于将乌克兰收藏品的数字模型保存到境外服务器上。乌克兰收藏品和文化遗迹所面临的威胁与伊拉克、叙利亚、马里等地发生的冲突一样，令人倍感恐惧。",
-          "link": "https://www.solidot.org/story?sid=70911",
-          "publishedOn": "2022-03-10T15:09:14.000Z",
-          "wordCount": 85,
-          "title": "乌克兰科学家匆忙拯救难以替代的收藏品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70910",
-          "author": null,
-          "description": "科学家在 2018 年宣布在格陵兰岛西北的 Hiawatha Glacier 冰川下发现了一个巨大的陨石坑，宽有 31 公里，没有 6600 万年前杀死恐龙的陨石坑大，但也大到足以扰乱地球气候。科学家最初以为 Hiawatha 陨石坑发生的时间距离今天很近，可能只有 10 万年，意味着早期现代人类可能目睹过它的撞击。但根据发表在《Science Advances》期刊上的最新研究，科学家报告了一个令人失望的消息：陨石坑相当古老，撞击发生在 5800 万年前，当时的格陵兰岛还是非常暖和，表面有大片森林，人类祖先根本不可能目睹它。科学家是根据撞击留下的锆石晶体中的微量铀元素的衰变确定日期的，误差为一百万年。制造陨石坑的小行星大约有 1.5 公里宽，具有区域性的破坏力，但未必会影响全球气候。",
-          "link": "https://www.solidot.org/story?sid=70910",
-          "publishedOn": "2022-03-10T14:51:27.000Z",
-          "wordCount": 89,
-          "title": "格陵兰岛下的巨大陨石坑相当古老",
-          "imageUrl": null
         }
       ]
     },
@@ -3412,6 +3312,26 @@
       "feedUrl": "https://rss.lilydjwg.me/zhihu/ningnanshan",
       "siteUrl": "https://www.zhihu.com/people/ningnanshan",
       "articles": [
+        {
+          "id": "https://www.zhihu.com/pin/1496205170569089024",
+          "author": "宁南山",
+          "description": "中国的经济发达地区里面，作为人口大省的江苏是可以实现粮食自给的，\n这一点有点让人意外，也可见中国对于粮食安全的重视。\n2021年江苏省的耕地播种面积占到了全省土地面积的50.63%，和河南，山东一起是全国三个耕地面积占土地面积比例最高的省份，\n同时江苏2021年以3746.1万吨的粮食产量排在全国第八位，和内蒙的3840.3万吨和河北的3825.1万吨差不多。\n而江苏人均粮食占有量按照2020年的七普人口计算的话达到442公斤。",
+          "link": "https://www.zhihu.com/pin/1496205170569089024",
+          "publishedOn": "2022-04-09T11:18:30.000Z",
+          "wordCount": 10,
+          "title": "[想法] 中国的经济发达地区里面，作为人口大省的…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://zhuanlan.zhihu.com/p/495533927",
+          "author": "宁南山",
+          "description": "每次题目总是不太好写，要说意义肯定是很多，全部罗列出来肯定一大堆，但至少对解决中国东北地区缺煤少气的问题非常有利。\n最近看到不少欧洲和俄罗斯天然气博弈的新闻，也说下我们的情况。\n2019年12月中俄“西伯利亚力量”天然气管道开通，初期每年为中国供应50亿立方米天然气，到2023年全部完工时每年供应量增加到380亿立方米。\n\n简单的说，这条管线尤其是对于解决我国东北地区的能源供应问题意义重大，可以说能彻底改变东北地区的天然气供应格局。\n中俄东线投产后将首先供应东北地区，当2023年输气量达到380亿立方米/年时，预计其中供应东北地区的气量为135亿～150亿立方米/年，与东北2018年市场消费总量基本相当，将大幅提升东北地区资源供应能力，中俄东线天然气成为东北地区的主供气源。\n现有“以区域内油气田为主，进口LNG和长输管道为辅”的资源供应方式，将会转变为“以进口管道气为主，区域内油气田和进口LNG为辅”的方式。\n2022年2月，中俄又签署天然气协议，决定计划再通过“远东管道”每年向中国供应100亿立方米天然气，将把每年天然气供应量提高到480亿立方米。\n前从全球范围看东北也是工业发达地区，实际上如果不算中国全国的话，2021年东三省的工业增加值在中国以外能排在全球排第9位，未来这个排名还会继续上升，东北发电，取暖和工业对化石能源的消耗量都很大，因此我国东北三省在能源供应方面一直有很大缺口，用简单的话来说就是“缺煤少气”，目前东北三省70%的煤炭和50%的天然气依靠国内其他省份供应和从国外进口。\n以煤炭为例子，我国目前每年都要专门召开东北煤炭保供的专门会议，其原因是煤炭不仅是关系到东北地区的发电和重工业，而且直接关系到居民取暖的大量需求。\n东北地区长期是我国的煤炭调入大户，\n其中辽宁省一五期间平均每年调入煤炭83万吨，二五期间每年调入煤炭558万吨，1963-1965年平均每年…",
+          "link": "https://zhuanlan.zhihu.com/p/495533927",
+          "publishedOn": "2022-04-09T01:55:21.000Z",
+          "wordCount": 44,
+          "title": "[文章] 聊下俄罗斯天然气--对解决中国东北地区缺煤少气的问题非常有利",
+          "imageUrl": "https://pic2.zhimg.com/v2-fbfdf6aa0fa3c83a2a047782fb04b4ab_720w.jpg?source=172ae18b"
+        },
         {
           "id": "https://zhuanlan.zhihu.com/p/493241761",
           "author": "宁南山",
@@ -3507,6 +3427,16 @@
       "siteUrl": "https://kaopubear.top/blog",
       "articles": [
         {
+          "id": "https://kaopubear.top/blog/2022-04-10-about-writing/",
+          "author": null,
+          "description": "<p>把写作当作方法。</p>",
+          "link": "https://kaopubear.top/blog/2022-04-10-about-writing/",
+          "publishedOn": "2022-04-09T17:25:35.000Z",
+          "wordCount": 66,
+          "title": "单平台文章阅读量超过100万，我可能做对了三件事。",
+          "imageUrl": null
+        },
+        {
           "id": "https://kaopubear.top/blog/2022-03-26-tencent-cloud-cdn-setting/",
           "author": null,
           "description": "<p>今天好几个小伙伴反馈Gitee不能再当作图床使用了，问有没有更好的markdown图床替代方案。</p>",
@@ -3524,16 +3454,6 @@
           "publishedOn": "2022-03-20T03:58:28.000Z",
           "wordCount": 258,
           "title": "别再用DEseq2和edgeR进行大样本差异表达基因分析了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kaopubear.top/blog/2022-03-11-getting-through-the-winter/",
-          "author": null,
-          "description": "<blockquote>\n<p>面临行业的冬天，公司应该如何过冬，个人又能怎样过冬。</p>\n</blockquote>",
-          "link": "https://kaopubear.top/blog/2022-03-11-getting-through-the-winter/",
-          "publishedOn": "2022-03-11T10:31:07.000Z",
-          "wordCount": 70,
-          "title": "春天来了，但你得准备好继续过冬",
           "imageUrl": null
         }
       ]
@@ -3639,18 +3559,7 @@
       "title": "justjavac - 知乎动态",
       "feedUrl": "https://rss.lilydjwg.me/zhihu/justjavac.com",
       "siteUrl": "https://www.zhihu.com/people/justjavac.com",
-      "articles": [
-        {
-          "id": "https://www.zhihu.com/pin/1485608671090978816",
-          "author": "justjavac",
-          "description": "同一篇文章回答20多个问题😂",
-          "link": "https://www.zhihu.com/pin/1485608671090978816",
-          "publishedOn": "2022-03-11T05:31:48.000Z",
-          "wordCount": 9,
-          "title": "[想法] 同一篇文章回答20多个问题",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "尤雨溪 - 知乎动态",
