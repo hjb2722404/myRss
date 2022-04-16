@@ -2,10 +2,161 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-15T01:26:42.383Z</updated>
+    <updated>2022-04-16T01:22:19.646Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[主要平台宣布将展示帐号 IP 属地]]></title>
+        <id>https://www.solidot.org/story?sid=71262</id>
+        <link href="https://www.solidot.org/story?sid=71262"/>
+        <updated>2022-04-15T14:53:32.000Z</updated>
+        <summary type="html"><![CDATA[从新浪微博开始，中国主要的网络平台周五宣布将展示帐号 IP 属地。今日头条、抖音、小红书、百度百家号和知乎宣布默认展示 IP 地址，用户无法手动关闭。公告内容都十分相似，以今日头条为例：为维护真实有序的讨论氛围，减少冒充热点事件当事人、恶意造谣、蹭流量等不良行为，今日头条拟在个人主页等位置展示帐号 IP 属地，相关功能即日起在网页版进行测试，将根据测试情况逐步在其他场景全量上线。
+
+
+知乎称，近期，我们注意到，在国内外热点事件的讨论中，出现个别用户冒充当地网友，发布、传播不实信息，干扰正常讨论秩序的情况。与此同时，众多热心知友也积极向我们反映，建议知乎公开展示用户 IP 属地信息。为了更好地维护社区生态氛围，打击造谣传谣行为，社区拟逐步开放「用户 IP 属地」的公开显示。届时，问答页面将显示用户发布内容时的 IP 属地。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 释出紧急更新修复正被利用的 Chrome 0day 漏洞]]></title>
+        <id>https://www.solidot.org/story?sid=71261</id>
+        <link href="https://www.solidot.org/story?sid=71261"/>
+        <updated>2022-04-15T14:15:40.000Z</updated>
+        <summary type="html"><![CDATA[Google 释出紧急更新修复  Chrome 浏览器的两个漏洞，其中之一是正被攻击者利用的 0day 漏洞。这是今年至今 Google 第三次释出紧急更新。编号为 CVE-2022-1364 的漏洞属于类型混淆漏洞，此类漏洞是指程序用一种类型分配资源，但之后用一种不兼容的类型访问资源，在 C 或 C++ 语言中该漏洞会导致内存访问越界。该漏洞可能会导致浏览器崩溃或触发逻辑错误，攻击者可利用该漏洞执行任意代码。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[密码检查算法高危漏洞允许任何人登陆思科的 Wi-Fi 管理软件]]></title>
+        <id>https://www.solidot.org/story?sid=71260</id>
+        <link href="https://www.solidot.org/story?sid=71260"/>
+        <updated>2022-04-15T13:00:08.000Z</updated>
+        <summary type="html"><![CDATA[思科披露了一个高危等级 10/10 的漏洞 CVE-2022-20695，影响其 Wi-Fi 管理软件 Wireless LAN Controller (WLC)。思科称，漏洞是因为
+密码检查算法的不正确实现导致的，攻击者可以通过构造凭证利用漏洞登陆受影响的设备。受影响的思科设备需要尽快更新到最新版本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从简单 AI 获得新理解]]></title>
+        <id>https://www.solidot.org/story?sid=71258</id>
+        <link href="https://www.solidot.org/story?sid=71258"/>
+        <updated>2022-04-15T09:45:07.000Z</updated>
+        <summary type="html"><![CDATA[过去两年人工智能程序的语言流畅度达到了惊人的水平。其中最优秀的程序都是基于 2017 年发明的、被称为 Transformer 的架构。它以方程式列表的形式，作为程序遵循的一种蓝图。除了这个简单的数学概述之外，我们不知道 Transformer 对处理的单词做了什么。普遍的理解是它们以某种方式同时关注多个单词，从而可以立即进行“大图景”分析，但究竟是如何工作的——或者甚至这是否是准确理解 Transformer 的方式——都还不清楚。我们知道成分，但不知道配方。Anthropic 公司的研究人员进行的两项研究开始从根本上弄清楚 Transformer 在处理和生成文本时在做什么。在 12 月发布的首篇论文中，他们着眼于架构的简化版本并充分解释了它们的功能。作者还展示了从学习基本语言模式到获得语言处理通用能力的简单 Transformer。
+
+
+在 3  月8 日发表的第二篇论文中，研究人员表明，负责这种能力的相同组件在最复杂的 Transformer 中也发挥作用。虽然这些模型的运算在很大程度上仍难以理解，但是这些结果为理解提供了一个途径。理解Transformer 的难点在抽象性。传统程序遵循着一个可以理解的过程，如看到“绿色的”时输出“草”，而Transformer 则是将“绿色的”这个单词转换为数字，然后将其乘以某些值。这些值（也被称为参数）决定下一个单词是什么。它们在训练过程中得到微调，模型在这个过程中学会了如何产生最佳输出，但尚不清楚模型在学习的是什么。大多数机器学习程序将运算打包成模块化的成分，这些成分被称为神经元。Transformer 加入了一种额外的成分，被称为注意力头（attention head），成组的头分层排列（就像神经元一样）。但是头执行的操作和神经元完全不同。头通常被理解为允许程序记住输入的多个单词，但这种解释远非定论。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[儿童严重肝病病例引发国际调查]]></title>
+        <id>https://www.solidot.org/story?sid=71257</id>
+        <link href="https://www.solidot.org/story?sid=71257"/>
+        <updated>2022-04-15T09:15:43.000Z</updated>
+        <summary type="html"><![CDATA[周四苏格兰卫生官员公布了一项国际研究的早期结果，调查了数十起令人费解的儿童严重肝炎病例。少数病例导致急性肝功能衰竭和肝移植。周四的报告详细描述了苏格兰的 13 例严重病例，主要发生在 3 至 5 岁的儿童中，几乎所有的病例都发生在今年的 3 月和 4 月。苏格兰通常一整年记录的儿童不明原因肝脏炎症（即肝炎）不到四例。今年苏格兰的 13 例病例中，有一例进行了肝移植，五例仍在住院。还没有报告死亡。英格兰的卫生官员在 2022 年报告了大约 60 例不明原因的重症肝炎病例，其中大部分是 2 至 5 岁的儿童。其中一些病例发展为急性肝功能衰竭，少数还导致了肝移植。同样也没有死亡报告。苏格兰的官员在报告中指出，他们还在同美国疾病控制和预防中心保持联系，后者也在调查自己的儿童肝炎病例群。卫生官员正在竞相了解这些急性疾病背后的原因。在迄今为止描述的病例中，最明显的会导致肝脏炎症的传染性罪魁祸首——肝炎病毒（从甲型到戊型）已被排除，因为孩子们的检测结果一直都是阴性的。卫生调查员也没有发现可以解释这些疾病的常见食物、饮料或个人护理用品。病例之间没有明确的联系，也没有旅行的联系。研究人员也没有看到细菌感染的有力证据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[融化的冰盖可能不会阻挡洋流]]></title>
+        <id>https://www.solidot.org/story?sid=71256</id>
+        <link href="https://www.solidot.org/story?sid=71256"/>
+        <updated>2022-04-15T08:56:19.000Z</updated>
+        <summary type="html"><![CDATA[融化的冰盖可能不会阻挡洋流。气候学家将大西洋经向翻转环流（AMOC）视为我们这个行星最大的气候灾难转折点之一。大西洋洋流就像是一条传送带，向北运送温暖的热带地表水，向南运送比较冷也比较重的深水。在《自然气候变化》期刊上发表的一项研究中，威斯康星大学麦迪逊分校的 Feng He 和俄勒冈州立大学的古生物气象学家 Peter Clark 描述了一种与过去 1 万年的变暖相匹配的新模拟模型。他们是通过取消大多数科学家认为停止或阻断 AMOC 的触发机制做到的。地球表面温度升高导致北冰洋和格陵兰冰盖的海冰融化，将淡水释放到海洋中。科学家普遍认为，淡水流入扰乱了北大西洋的密度差异，使 AMOC 向北的水流下沉并返回南方。He 表示：“问题出在地质气候数据上”。尽管气候记录显示北美和欧洲冰盖的最终融化产生了大量的淡水，但 AMOC 几乎没有改变。因此 He 在模型中删除了淡水洪流的假设。He 表示：“如果没有淡水进来让模型中的 AMOC 减速，我们得到的模拟结果与气候记录中的温度数据的一致性更好，也更持久。”“重要的结果是，根据数据和模型，AMOC 对淡水的敏感性似乎低于长期以来的看法。”AMOC 急剧减弱造成的后果广泛，包括北美东海岸的海平面迅速上升、可能会扰乱农业的欧洲降温、亚马逊热带雨林干涸以及亚洲季风的破坏。新的建模研究预计 AMOC 强度的下降幅度要小得多，但这并不排除突然的变化。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[热电池可有效将风能太阳能存储在可再生电网中]]></title>
+        <id>https://www.solidot.org/story?sid=71255</id>
+        <link href="https://www.solidot.org/story?sid=71255"/>
+        <updated>2022-04-15T07:56:44.000Z</updated>
+        <summary type="html"><![CDATA[没有太阳或没风时如何存储可再生能源？这是摆在更环保电网面前最令人烦恼的问题之一。大电池组是一种策略。但是它们昂贵，且更适合将能量存储几个小时而不是更长时间。另一种策略是利用剩余能量将大质量材料加热到超高温，然后根据需要提取能量。本周研究人员报告了该计划——将存储的热量转化为电能的装置——关键部分的一项重大改进。
+
+
+MIT 和国家可再生能源实验室的一个团队将热光伏（TPV）的效率提高了将近 30%，TPV 是一种将热源发出的光子转换为电能的半导体结构，就像太阳能电池将阳光转化为电能一样。密歇根大学安娜堡分校的材料工程师 Andrej Lenert 表示：“这是非常令人兴奋的事情。”“这是 TPV 第一次进入真正有希望的效率范围，最终这对很多应用来说很重要。”这项新工作和相关的进步极大地推动了大规模推出热电池作为可再生能源的廉价备份的工作。其设想是用多余的风能或者太阳能加热元件，将液态金属或石墨块的温度提升到几千度。可以通过蒸汽推动涡轮机的方式将热量转化为电能，但是需要权衡取舍。高温提高了转换效率，但是涡轮机的材料在大约 1500 摄氏度左右开始分解。TPV 提供了另一种选择：将热量存储在金属薄膜或者灯丝上，使其像白炽灯泡中的钨丝一样发光，然后使用TPV吸收发出的光，并将其转化为电能。
+
+
+对于新设备，MIT 机械工程师 Asegun Henry 对发射器和TPV本身进行了调整。以前的 TPV 设备将发射器加热到大约 1400 摄氏度，这是在 TPV 优化的波长范围内最亮的温度。Henry 的目标是将温度提高 1000 摄氏度，钨可以发射出更多能量更高的光子，提高能量转换。但是这也意味着要重新设计 TPV。Henry 的团队和国家可再生能源实验室的研究人员一起，铺设了超过两打不同的半导体薄层，以创建两个叠在一起的独立电池。上面的电池主要吸收可见光和紫外光子，而下面的电池主要吸收红外线。下面电池下方的薄金片反射TPV无法捕获的低能光子。钨重新吸收其能量，防止其散失。该小组在《自然》杂志上报告称，结果是这种串联TPV可以将 2400 摄氏度的钨丝发出的 41.1% 的能量转换为电能。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玩家普及 Windows 11 的速度远逊于 Windows 10]]></title>
+        <id>https://www.solidot.org/story?sid=71254</id>
+        <link href="https://www.solidot.org/story?sid=71254"/>
+        <updated>2022-04-15T07:07:22.000Z</updated>
+        <summary type="html"><![CDATA[微软已经一段时间没有披露 Windows 11 的普及率数据了，在发布半年之后，来自不同来源的数据都显示其普及率远逊于 Windows 10 同期水平。以最大的 PC 游戏平台 Steam 为例：Windows 10 发布半年之后普及率达到了 31%，而 Windows 11 只有 17%，Steam 统计的四分之三的计算机仍然运行 Windows 10。 Windows 11 硬件需求过高是影响它普及率的一个重要因素，许多旧电脑都无法升级到新系统，因此它的后续增长依赖于新计算机的采购。另一个重要因素是 Windows 10 取代的是不怎么受欢迎的 Windows 8 和 Windows 8.1，而 Windows 11 所取代的 Windows 10 很多用户都是相当满意的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genie Timeline Home 10 – 桌面文件备份系统，再也不怕数据丢失了[Windows]]]></title>
+        <id>https://www.appinn.com/?p=41956</id>
+        <link href="https://www.appinn.com/genie-timeline-home-10/"/>
+        <updated>2022-04-15T06:40:59.000Z</updated>
+        <summary type="html"><![CDATA[Genie Timeline Home 10 是一款简单易用的文件备份工具，它能够备份指定文件，并通过时间线的方式，随时还原文件，非常适合备份常用文件夹，比如桌面。@Appinn 在问题频道有同学求推]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[视频网站禁止直播未经批准的网游]]></title>
+        <id>https://www.solidot.org/story?sid=71253</id>
+        <link href="https://www.solidot.org/story?sid=71253"/>
+        <updated>2022-04-15T06:19:18.000Z</updated>
+        <summary type="html"><![CDATA[广电总局网络视听节目管理司和中宣部出版局联合发布《关于加强网络视听节目平台游戏直播管理的通知》，禁止网络视听平台直播未经批准网游。《通知》称：
+
+
+1、严禁网络视听平台传播违规游戏。网络影视剧、网络综艺、网络直播、短视频等各类网络视听节目均不得直播未经主管部门批准的网络游戏，不得通过直播间等形式为各类平台的违规游戏内容进行引流。
+
+
+2、加强游戏直播内容播出管理。各网络直播平台，特别是游戏直播平台应从内容设置、宣传互动等方面严格把关，加强对网络游戏直播节目的管理，切实把好导向关、内容关、宣传关，建立健全游戏直播节目相关的信息发布、跟帖评论、应急处置等管理制度，完善节目监看和舆情监测机制。
+
+
+3、加强游戏主播行为规范引导。各平台应引导主播与用户文明互动、理性表达、合理消费，共同维护文明健康的网络视听生态环境。网络主播应坚持健康的格调品味，自觉摈弃低俗、庸俗、媚俗等低级趣味，自觉反对流量至上、畸形审美、“饭圈”乱象、拜金主义等不良现象，自觉抵制有损网络文明、有悖网络道德、有害网络和谐的行为。
+
+
+4、严禁违法失德人员利用直播发声出镜。网络直播平台在主播和嘉宾选用上要严格把关，坚持把政治素养、道德品行、艺术水准、社会评价作为选用标准。对政治立场不正确、违反法律法规、违背公序良俗的失德失范人员坚决不用。
+
+
+5、督促网络直播平台建立并实行未成年人保护机制。指导督促各游戏直播平台或开展游戏直播的网络平台设立未成年人防沉迷机制、采取有效手段确保“青少年模式”发挥实际效用，落实实名制要求，禁止未成年人充值打赏，并为未成年人打赏返还建立专门处置通道。
+
+
+6、严格履行分类报审报备制度。游戏直播节目上线、播出及版面设置应按直播节目相关要求报送广电行政管理部门。网络视听平台（包括在相关平台开设的各类境内外个人和机构账号）直播境外游戏节目或比赛应经批准后方可开展相关活动。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯干扰乌克兰地区的 GPS 信号]]></title>
+        <id>https://www.solidot.org/story?sid=71252</id>
+        <link href="https://www.solidot.org/story?sid=71252"/>
+        <updated>2022-04-15T05:29:19.000Z</updated>
+        <summary type="html"><![CDATA[美国太空军称，俄罗斯正在干扰乌克兰地区的 GPS 信号。GPS 系统被广泛用于导航等用途。太空军的 David Thompson 将军表示俄罗斯还没有攻击在轨的 GPS 卫星，他们正在密切提防这一可能性。GPS 是现代社会的关键基础设施之一，是最广泛使用的导航系统，俄罗斯有自己的导航系统 GLONASS，欧洲有伽利略导航，中国有北斗导航。GPS 接收器可通过接收四颗卫星的信号进行定位，误差通常只有几英尺。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter 董事会准备反击 Elon Musk 的收购提议]]></title>
+        <id>https://www.solidot.org/story?sid=71251</id>
+        <link href="https://www.solidot.org/story?sid=71251"/>
+        <updated>2022-04-15T03:44:23.000Z</updated>
+        <summary type="html"><![CDATA[在成为最大个人股东之后，马斯克(Elon Musk)提议以 400 多亿美元收购 Twitter，知情人士透露 Twitter 董事会准备反击 Elon Musk 的收购提议。该公司证实，已收到这份提议，其董事会将进行评估。一名知情人士透露，Twitter 还在考虑采取毒丸计划，这种法律机制旨在避免马斯克大幅增持该公司的股份。马斯克周四在温哥华的 TED 大会上接受采访时说，一个在最大程度上被信任且广泛包容的平台对文明的未来至关重要。他一点也不关心经济上的问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科技爱好者周刊（第 203 期）：英国的名校签证，伯克利的计算机教育]]></title>
         <id>http://www.ruanyifeng.com/blog/2022/04/weekly-issue-203.html</id>
@@ -25,6 +176,36 @@
 The best start of the week! I have been a huge fan of ShoeMoney for a decade ever since I saw his photo with Adsense check. He's always been a huge inspiration. And now he bought my book!]]></summary>
         <author>
             <name>catonmat.net – less is more</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯关闭网游加速器服务]]></title>
+        <id>https://www.solidot.org/story?sid=71250</id>
+        <link href="https://www.solidot.org/story?sid=71250"/>
+        <updated>2022-04-14T13:32:38.000Z</updated>
+        <summary type="html"><![CDATA[腾讯周三宣布，“2022 年 5 月 31 日起「腾讯网游加速器」将升级为「腾讯游戏管家」并逐步停止旧版本（即，腾讯网游加速器）服务。产品升级后，将仅支持国服游戏加速，对于受影响的会员用户，我们已开放退款通道...”网游加速器其实就是代理服务器，但主要限于代理外服网络游戏，不支持外服事实上代表着加速器的关闭。中国玩家主要使用加速器如网易UU加速器和腾讯加速器玩外服游戏。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk 报价 410 亿美元收购 Twitter]]></title>
+        <id>https://www.solidot.org/story?sid=71249</id>
+        <link href="https://www.solidot.org/story?sid=71249"/>
+        <updated>2022-04-14T13:22:03.000Z</updated>
+        <summary type="html"><![CDATA[世界首富、Twitter 最大个人股东 Elon Musk 在周四公布的监管文件中披露他以每股 54.20美元报价 410 亿美元提议收购 Twitter。收购价相比 4 月 1 日的收盘价溢价 38%。这一消息导致 Twitter 股价在盘前交易中上涨 12%。Musk 持有 9.2% 的股份，他最近拒绝担任董事。在致函 Twitter 董事长 Bret Taylor 的信中，Musk 声称在投资 Twitter 后认识到公司既不会一直繁荣也不会服务于目前形式的社会需要，它需要转型为一家私人公司，如果他的报价不被接受他将需要重新考虑作为股东的立场。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客如何利用 Windows 任务调度程序植入持久性的后门]]></title>
+        <id>https://www.solidot.org/story?sid=71248</id>
+        <link href="https://www.solidot.org/story?sid=71248"/>
+        <updated>2022-04-14T12:58:53.000Z</updated>
+        <summary type="html"><![CDATA[微软 Detection and Response Team (DART) 和 Threat Intelligence Center(MTIC) 的研究人员披露了黑客组织 Hafnium 如何利用 Windows 任务调度程序植入持久性后门的方法。任务调度程序通常被 IT 管理员用于自动化琐碎的任务如更新程序、整理文件系统和启动特定应用。黑客滥用该功能创建隐藏任务，让被入侵的设备在重启之后仍然能远程访问：一旦重启，隐藏任务会与 Hafnium 的指令服务器重新建立后门连接。为了隐藏该任务，恶意程序通过令牌盗窃获得 SYSTEM 级权限，删除任务的安全描述项注册表值，在 GUI 和任务调度中将会看不到该任务，只有手动检查注册表才能发现隐藏任务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -51,6 +232,16 @@ The best start of the week! I have been a huge fan of ShoeMoney for a decade eve
 在此情况下，天津依然在一五计划期间新建天津重型机器厂、天津拖拉机厂，在原基础上扩建天津机械厂、天津动力机厂总共四大厂。一五计划完成后，1958年全国人均GDP前五位为上海，天津，北京，辽宁，黑龙江。天津依然保持了…]]></summary>
         <author>
             <name>宁南山</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯科技行业面临人才外流]]></title>
+        <id>https://www.solidot.org/story?sid=71247</id>
+        <link href="https://www.solidot.org/story?sid=71247"/>
+        <updated>2022-04-14T10:04:52.000Z</updated>
+        <summary type="html"><![CDATA[3 月初，在俄罗斯打击国内反对者数天后，拉脱维亚风险投资人 Konstantin Siniushin 帮助包租了两架飞机，将 300 多名软件开发者、企业家和科技专家撤离俄罗斯。在俄罗斯发动战争数周之内，有成千上万的俄罗斯科技从业者逃离。有数千人飞到了格鲁吉亚、土耳其、阿联酋和其它接受无签证俄罗斯公民的国家。到了 3 月 22 日，俄罗斯科技行业贸易组织估计有 5 万到 7 万名科技工作者离开，另外 7 万到 10 万名科技工作者准备很快离开。他们是俄罗斯大规模人才外流的一部分，可能对本国的科技行业产生深远影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -3870,233 +4061,6 @@ Build too and they will come. See you next time!]]></summary>
         <link href="https://www.solidot.org/story?sid=70980"/>
         <updated>2022-03-17T13:40:30.000Z</updated>
         <summary type="html"><![CDATA[NASA 宣布，詹姆斯韦伯太空望远镜 3 月 11 日完成镜面校准，韦伯望远镜光学性能预计将达到或超过设立的科学目标。韦伯的光路没有严重问题，也没有可测量的污染或堵塞。它能够成功收集来自遥远天体的光线，并将其传输到仪器上。韦伯望远镜去年 12 月 25 日发射，由NASA、欧洲航天局和加拿大航天局共同研发，将帮助解决太阳系的谜团，观察其他恒星周围的遥远世界，探索宇宙的神秘结构和起源，以及我们在其中的位置。它是第一台在太空中使用分段主镜设计的望远镜。望远镜由 18 面可展开的镀金六边形镜片组成，涂了 48.25 克黄金。主镜直径 6.5 米，发射时它必须折叠起来，然后在太空中展开，再调整每一面镜片。在镜面校准阶段，每面镜片部分都被调整为仅使用望远镜的近红外相机（NIRCam）就能生成同一恒星的统一图像。在接下来的六周内，团队将进行剩余校准步骤，进一步调整近红外光谱仪、中红外仪器、近红外成像和无缝摄谱仪。此后开始韦伯望远镜的最后校准步骤，团队将对镜面部分调整任何剩余的细微定位误差。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网信办督促整改“算法歧视”]]></title>
-        <id>https://www.solidot.org/story?sid=70979</id>
-        <link href="https://www.solidot.org/story?sid=70979"/>
-        <updated>2022-03-17T10:36:45.000Z</updated>
-        <summary type="html"><![CDATA[网信办官员周四在国新办 2022 年“清朗”系列专项行动发布会上表示，今年将继续开展打击网络谣言、整治网络直播和短视频领域乱象、算法综合治理等十项专项行动；在打击网络谣言方面，压实网站平台的主体责任，对敏感领域、敏感事件产生的各种信息加强识别。此外，近期将启动针对算法专项行动，督促整改“算法歧视”、大数据杀熟等问题。网信办继续深化自媒体涉新闻信息网络传播乱象治理，集中清理违规账号和信息；要对 MC N机构（多频道网络服务机构）进一步明确标准、划出红线，正在研究制定 MCN 机构信息内容管理规范。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州法案允许父母对儿童上瘾起诉社交媒体公司]]></title>
-        <id>https://www.solidot.org/story?sid=70978</id>
-        <link href="https://www.solidot.org/story?sid=70978"/>
-        <updated>2022-03-17T10:05:53.000Z</updated>
-        <summary type="html"><![CDATA[如果儿童成瘾于社交媒体应用，加州的父母有权对公司提起诉讼要求赔偿。被称为 Social Media Platform Duty to Children Act 的法案由共和党的 Jordan Cunningham 和民主党的 Buffy Wicks 提出，旨在打击社交媒体公司对儿童用户的剥削。Cunningham 称部分公司确实在有意识的设计功能引诱儿童日益频繁的使用，从而表现出上瘾症状。问题是由谁支付社会成本，是学校、父母和儿童，还是从中获利的公司？任何卖给儿童的产品都需要承担责任，不能含有有毒化学物质，现在是时候让社交媒体公司承担类似的责任。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[waifuExtension – Mac 上的 waifu2x，用机器学习放大视频和图像，拥有图形界面，支持 Real-ESRGAN 模型]]></title>
-        <id>https://www.appinn.com/?p=41682</id>
-        <link href="https://www.appinn.com/waifuextension-for-macos/"/>
-        <updated>2022-03-17T09:59:36.000Z</updated>
-        <summary type="html"><![CDATA[waifuExtension 是一款 Mac 上的 waifu2x 图形界面工具，它利用 CPU、GPU、ANE 进行机器学习放大视频和图像，支持对视频进行插帧。@Appinn 来自发现频道，@bla]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软关闭了“实验性”的文件管理器广告展示]]></title>
-        <id>https://www.solidot.org/story?sid=70977</id>
-        <link href="https://www.solidot.org/story?sid=70977"/>
-        <updated>2022-03-17T09:29:37.000Z</updated>
-        <summary type="html"><![CDATA[微软测试者报告  Windows 11 最新测试版本的文件管理器会展示文字广告，向用户推荐微软的其它产品。微软高级项目经理 Brandon LeBlanc 在接受采访时承认横幅广告是真的，但表示该功能是实验性的，原本没有计划对外公开，现在已经关闭。他的表态显然没有承诺微软不会在文件管理器里展示公开。微软在 Edge 浏览器上的行为，以及对微软账号的要求都表明软件巨人对此类侵略性的推广自家产品的做法是持开放立场的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2004 年的 UFO 视频是相机眩光所致]]></title>
-        <id>https://www.solidot.org/story?sid=70976</id>
-        <link href="https://www.solidot.org/story?sid=70976"/>
-        <updated>2022-03-17T08:55:01.000Z</updated>
-        <summary type="html"><![CDATA[美国在 2017 年披露 2019 年公开了海军 F/A-18F 战斗机拍摄到了 UFO 视频。五角大楼的调查没有发现任何天外物体的证据，但也无法排除其可能性。这则视频再次助长了外星人阴谋论。现在 Mick West 公布了详细的分析视频，指出所谓的 UFO 其实是相机眩光产生的。其关键证据是视频中的 UFO 只在相机万向节旋转时才跟着旋转。当然阴谋论者通常是很难被证据说服的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[绝对疯狂的实验检测环绕氦离子的反质子]]></title>
-        <id>https://www.solidot.org/story?sid=70975</id>
-        <link href="https://www.solidot.org/story?sid=70975"/>
-        <updated>2022-03-17T07:25:38.000Z</updated>
-        <summary type="html"><![CDATA[周三《自然》刊登的一篇新论文描述了一种潜在有用的方法，可测量正常物质和反质子之类的奇异粒子、K介子等不稳定物质或者是含有奇异夸克的元素之间的相互作用。由于我们仍然不了解使物质成为我们宇宙中主要形式的不对称性，这项工作可能很有用。但研究最引人注目的地方可能是它令人惊讶的数据收集测量方式。一个小型研究小组设法放置了一个反质子，让它围绕着冷却至超流体状态的液氦中的一个氦原子核旋转。然后研究人员测量了反质子轨道跃迁发出的光。在高于液氦成为超流体的温度下，跃迁产生了一个宽峰而不是尖峰。随着温度的下降，宽峰变窄，并最终在转变温度下分成两个独立的峰。这种被称为超精细分裂的分离是由反质子和氦原子核之间的相互作用造成的。可以以这种精度水平检测到它的这一事实表明，实验系统可以告诉这些相互作用背后的反物质和基本物理作用。之前测量液氮中这种分子特性的尝试都失败了，为什么这个实验会成功呢？研究人员认为，成功主要是因为他们实际上是在测量氦池中一种奇怪形式的氦。在其他的尝试中，研究人员测量的是溶解在氦中的分子，这是非常不同的行为。一种观点是氦在被其溶解的任何分子周围形成了一个笼子，而且这个笼子足够大，可以让分子自由移动。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被超级细菌污染的鸡肉产品销往美国各地]]></title>
-        <id>https://www.solidot.org/story?sid=70974</id>
-        <link href="https://www.solidot.org/story?sid=70974"/>
-        <updated>2022-03-17T07:15:43.000Z</updated>
-        <summary type="html"><![CDATA[弯曲杆菌是美国食源性疾病的最主要原因，超过了沙门氏菌。两种细菌都可能致命。新闻调查局（Bureau of Investigative Journalism）获得的政府抽样记录显示，2015 年至 2020 年期间，美国公司销售了数万种受到弯曲杆菌和沙门氏菌污染的肉制品。其中一半以上受到耐抗生素菌株的污染，糟糕的卫生条件可能会让问题雪上加霜。家禽公司为主要的杂货店和快餐连锁店供货。Tyson 向麦当劳供应鸡肉，Perdue 为 Whole Foods 供货，这两家公司都为沃尔玛供货。
-
-
-尽管美国农业部（USDA）认为在家禽中存在一定程度的沙门氏菌和弯曲杆菌可接受，但该部门的记录显示，自 2018 年政府开始报告各个工厂的污染率以来，美国 12 家主要的家禽公司——包括家禽巨头 Perdue、Pilgrim's Pride、Tyson、Foster Farms 和 Koch Foods 多次超过农业部的沙门氏菌可接受水平标准。农业部仍然在对加工厂的弯曲杆菌污染状况进行测试，目前没有追踪这些加工厂是否超过了污染阈值。污染率超过限定的家禽产品批次不必召回，不过反复超过阈值的工厂会被暂时关闭。政府记录还显示，在 2015 年 1 月至 2019 年 8 月期间，12 家美国主要的家禽公司至少 14.5 万次违反了食品安全法——平均每天违反超过 80 次。家禽加工厂的工人还声称，他们有时会被要求处理有腐臭味的肉，还见过将鸡肉和死昆虫一起扔进研磨机，发现政府安全检查员在工作中打瞌睡。
-
-
-在美国，弯曲杆菌每年造成 100 多人死亡并造成 150 万人感染。它还导致了 40% 的感染性多发性神经炎（Guillain-Barré Syndrome）。然而销售被发现受到沙门氏菌或沙门氏菌污染的家禽产品仍然完全合法。美国农业部认为沙门氏菌和弯曲杆菌的可接受水平因产品而异。例如在离开加工厂的鸡肉产品中，最多可有15.4% 的产品沙门氏菌检测呈阳性，而加工厂仍然可以达到可接受标准。弯曲杆菌的阈值为 7.7%。很多专家认为这些水平过于宽松。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究数据集过小阻碍脑成像研究]]></title>
-        <id>https://www.solidot.org/story?sid=70973</id>
-        <link href="https://www.solidot.org/story?sid=70973"/>
-        <updated>2022-03-17T07:01:27.000Z</updated>
-        <summary type="html"><![CDATA[研究人员二十年来一直尝试用大脑成像技术确大脑结构和功能与一系列心理健康疾病——从焦虑、抑郁到自杀倾向——有何关联。但是周三发表在《自然》期刊上的一篇新论文对大部分此类研究是否真的产生了有效的发现提出了质疑。论文作者发现，此类研究往往只有不到 24 个参与者，远低于产生可靠结果所需的人数。论文作者、华盛顿大学圣路易斯分校医学院的精神病学研究员 Scott Marek 表示：“你需要成千上万的人。”他将这一发现描述为对尝试使用成像更好地了解心理健康的典型研究的“直觉”。使用磁共振成像技术的研究通常会带有警告性声明，表示研究样本量较小，以此缓和他们的结论。但论文的另一位作者、华盛顿大学医学院的神经学家 Nico Dosenbach 博士表示，招募参与者很费时间，成本不菲，每小时的报酬从 600 美元到 2000 美元不等。他补充表示，在使用脑成像的心理健康相关研究中，受试者人数的中位数大约是 23 人。这篇《自然》期刊的论文表明，只从两打受试者中提取的数据通常不够可靠，Dosenbach 博士表示，这实际上会产生“大幅夸大”的发现。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[连接宇宙的宇宙网塑造了星系中的暗物质]]></title>
-        <id>https://www.solidot.org/story?sid=70972</id>
-        <link href="https://www.solidot.org/story?sid=70972"/>
-        <updated>2022-03-17T06:54:17.000Z</updated>
-        <summary type="html"><![CDATA[我们的宇宙由暗物质和气体巨线构成的网连接起来，这些巨线横跨数百万光年，在密集星系团组成的“节点”处相交。巨大的宇宙网塑造了星系的分布和演化，科学家正试图通过更敏锐的观察和模拟解开网的基本方式。由爱丁堡大学天文学研究生 Callum Donnan 领导的一个团队确定了星系的化学组成与其在宇宙网中的位置之间的重要相关性。周一发表在《自然天文学》上的一项研究显示，“和远离节点的星系相比，靠近节点的星系显示出更高的化学丰富性，”这一发现揭示出宇宙连接的一些神秘力量。
-
-
-为了解决这个问题，Donnan 和同事检查了新墨西哥州 Sloan 数字巡天（Sloan Digital Sky Survey in New Mexico）观测到的约 10 亿光年内的银河系星系。团队研究了真实星系星际空间中气体的元素组成，这一特性被称为气相金属丰度。结果表明，靠近宇宙网节点的星系富含“金属”，在天文学中，指的是任何比氦重的元素。在靠近网细丝的地方也观察到了较弱的相关性，这些细丝横跨宇宙，将节点连接在一起。团队使用 IllustrisTNG 平台进行了复杂的宇宙学模拟，模拟支持了观测的结果。值得注意的是，这种方法揭示出星系在宇宙网中的位置会调节其化学成分，即使考虑到其他因素——例如宇宙特定区域的密度，情况也是如此。
-
-
-这自然引出了一个问题，即和沿着宇宙网的细丝分布或分布在“空隙”的星系相比，为什么位于节点附近的星系富含更多的金属？Donnan 的团队找到了两个主要驱动因素：从星系外部吸收气体，以及星系内部恒星和暗物质的演化。星系以散布在星系间介质空间中的气体为食，但距离节点较远的星系消耗的这种外部物质比靠近节点的星系更多。由于星系间的气体是贫金属的，它稀释了遥远星系的富集气体，降低了它们的整体气相金属丰度。节点附近的星系不会消耗太多这种贫金属材料，这有助于使它们在化学上富含更高浓度的较重元素。此外，靠近节点的星系似乎比位于远处的星系更早成熟。这些星系在诞生新恒星和收集暗物质方面处于领先地位，暗物质是构成宇宙大部分物质的神秘物质。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰合法化加密货币]]></title>
-        <id>https://www.solidot.org/story?sid=70971</id>
-        <link href="https://www.solidot.org/story?sid=70971"/>
-        <updated>2022-03-17T06:37:49.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰总统 Volodymyr Zelenskyy 签署了一项与虚拟资产相关的法案，合法化加密货币。法案确定了虚拟资产的法律地位、分类、所有权和监管机构，制定了加密货币服务提供商的注册要求。加密货币市场将由乌克兰国家证券和股票市场委员会监管。自战争爆发至今，乌克兰收到了价值约一亿美元的加密货币捐款。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barrier – 免费开源的共享键鼠工具：1 套键盘鼠标控制多台电脑[Win/macOS/Linux]]]></title>
-        <id>https://www.appinn.com/?p=41671</id>
-        <link href="https://www.appinn.com/barrier/"/>
-        <updated>2022-03-17T06:34:39.000Z</updated>
-        <summary type="html"><![CDATA[Barrier 是一款基于早期 Synergy 代码的开源工具，可以让用户在多个 Windows、macOS、Linux 系统间共用一套键盘鼠标。@Appinn 感谢 @野兽先辈、@oh 的推荐。 B]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卫星数据显示北极海冰在短短三年内显著下降]]></title>
-        <id>https://www.solidot.org/story?sid=70970</id>
-        <link href="https://www.solidot.org/story?sid=70970"/>
-        <updated>2022-03-17T06:16:39.000Z</updated>
-        <summary type="html"><![CDATA[华盛顿大学和加州理工学院的研究人员的新研究表明，过去 20 年北极地区冬季的海冰量减少了大约三分之一。这种下降主要是由于较古老的多年海冰消失。新的卫星数据还显示，冬季北极海冰可能比之前估计的还要薄。研究发表在《地球物理研究快报》上。论文共同作者、华盛顿大学应用物理实验室的极地科学家 Ron Kwok 表示：“对于我来说，关键的收获是北极冬季海冰量的显著减少——冬季冰量在短短的18年内损失了三分之一——与之伴随的是古老的厚厚北极海冰减少以及夏末冰层范围的缩小，这已经被广泛报道。”季节性海冰正在取代更厚的多年冰，前者在夏天完全融化，而不是逐年积累。根据这项新研究，这种转变在很大程度上是造成海冰变薄的原因。Kwok 表示：“北极积雪深度、海冰厚度和体积是三个非常难以获取的指标。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器学习重新构想算法]]></title>
-        <id>https://www.solidot.org/story?sid=70969</id>
-        <link href="https://www.solidot.org/story?sid=70969"/>
-        <updated>2022-03-17T06:11:18.000Z</updated>
-        <summary type="html"><![CDATA[算法——让程序对数据进行排序、过滤和组合的代码块——是现代计算的标准工具。就像手表里的小齿轮，算法在更复杂的程序中执行明确定义的任务。它们无处不在，也（部分地）正因如此，随着时间的推移，它们经过了精心优化。当程序员需要对列表进行排序时，他们会使用用了几十年的标准“排序”算法。现在研究人员使用被称为机器学习的人工智能分支，重新审视传统算法。他们的方法被称为具有预测的算法，利用了机器学习工具可以提供的、对传统算法处理的数据的洞察力。这些工具重新激发了对基本算法的研究。
-
-
-MIT 计算机科学家 Piotr Indyk 表示，机器学习和传统算法是“两种截然不同的计算方式，而带有预测的算法是连接两者的一种方式。”“这是一种将两种完全不同的线程结合起来的方法。”最近对这种方法的兴趣不断上升，情况始于 2018 年，当时 MIT 的计算机科学家 Tim Kraska 和 Google 的一个研究团队发表了一篇论文。在论文中，作者表示机器学习可以改进一种经过充分研究的传统算法——布隆过滤器（Bloom filter），该算法解决了一个简单但是令人生畏的问题。
-
-
-想象你管理着公司的 IT 部门，你需要检查员工是否会访问存在安全风险的网站。你可能会很天真地以为你需要检查他们访问的每一个网站，同已知的站点黑名单比较。如果这个黑名单很大（互联网上不受欢迎的网站可能就是这种情况），问题就会变得很棘手——你无法在很短的加载时间内将每个网站与庞大的列表对比。布隆过滤器提供了一个解决方案，让你可以快速准确地检查任何特定站点的地址（URL）是否在黑名单上。本质上它是通过将巨大的列表压缩成一个较小的列表，提供一些特定的保证的方式做到这一点的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国参议院通过法案永久化夏令时]]></title>
-        <id>https://www.solidot.org/story?sid=70968</id>
-        <link href="https://www.solidot.org/story?sid=70968"/>
-        <updated>2022-03-17T05:50:40.000Z</updated>
-        <summary type="html"><![CDATA[美国参议院通过了使夏令时在美国永久生效的法案。该法案——《阳光保护法（Sunshine Protection Act）》——赢得了两党一致赞同。此举将使夏令时在 2023 年永久化。如果该法案在众议院获得通过并由拜登总统签署成为法律，意味着美国人将不再需要每年调整两次时钟。健康组织呼吁停止季节性调整时钟，这是一个多世纪前首次在美国采用的一种程序。在上周的众议院听证会上，健康专家将睡眠剥夺和健康问题列为时钟调整带来的负面影响。2021 Economist/YouGov 民意调查显示，近三分之二的美国人希望停止调整时钟。通过让夏令时永久化，立法者优先考虑晚上会有更多阳光，这可以改善我们的健康，并且让一天中最富成效的时间有更多的阳光。最近发表的一项新研究表明，在黑暗中睡觉可降低患上心脏病和糖尿病的风险。研究作者Phyllis Zee博士表示：“研究结果表明，只要在中等室内照明条件下睡一晚，就会损害血糖和心血管调节，这是心脏病、糖尿病和代谢综合征的危险因素。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[睡眠时有灯光会影响健康]]></title>
-        <id>https://www.solidot.org/story?sid=70967</id>
-        <link href="https://www.solidot.org/story?sid=70967"/>
-        <updated>2022-03-17T05:41:56.000Z</updated>
-        <summary type="html"><![CDATA[发表在 PNAS 期刊上的一项研究表明，在黑暗中睡觉可能会降低患上心脏病和糖尿病的风险。研究人员发现，相比睡在昏暗房间，晚上睡觉时暴露在头顶照明之下会损害睡眠期间的心脏功能，并在第二天早上影响身体对胰岛素的反应程度。他们认为在睡眠期间避免或尽量减少光照量很重要，如果能轻而易举地看清东西，可能就太亮了。研究发现，如果睡眠期间暴露在更多光线之下，身体会进入警觉状态，心率加快，身体无法得到正常休息。
-
-
-科学家认为，人们不应该开灯，如果确实需要一些光亮——例如为了老年人的安全——应该采用靠近地板的昏暗灯光。颜色也很重要，琥珀色或红色/橙色光对大脑的刺激较小。专家建议，应该远离白光或蓝光。如果室外光照无法控制，遮光窗帘或眼罩是一个不错的选择。对 20 人的研究发现，在明亮的房间里睡了一夜后的第二天早上会出现胰岛素抵抗。这是肌肉、脂肪和肝脏中的细胞对胰岛素反应不佳，无法将血液中的葡萄糖作为能量使用的状况。为了弥补，胰腺会产生更多的胰岛素，随着时间的推移，血糖会上升。
-
-
-研究主要作者、西北大学范伯格医学院的睡眠医学主任 Phyllis Zee 博士表示：“研究结果表明，只要在中等室内照明条件下睡一晚，就会损害血糖和心血管调节，它们是心脏病、糖尿病和代谢综合征的危险因素。”共同第一作者、西北大学神经学研究助理教授 Daniela Grimaldi 博士补充表示：“我们发现，当你在光线充足的房间里睡觉时，你的心率会上升。”“即使你睡着了，你的自主神经系统也会被激活。这很糟糕。通常来说，你的心率和其他心血管指标在夜间较低，而在白天较高。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[维护者抗议俄罗斯破坏 NPM 包]]></title>
-        <id>https://www.solidot.org/story?sid=70966</id>
-        <link href="https://www.solidot.org/story?sid=70966"/>
-        <updated>2022-03-17T05:19:19.000Z</updated>
-        <summary type="html"><![CDATA[一位 NPM 包维护者为抗议俄罗斯入侵乌克兰而故意搞破坏，制造了最新一起供应链攻击安全事故，凸显了代码中的依赖传递会对安全产生巨大影响。RIAEvangelist 维护的 node-ipc 非常受欢迎，周下载量超过一百万。维护者创建了名为 peacenotwar 的模块表达抗议，该模块几乎无人下载，但他随后将 peacenotwar 作为 node-ipc 的依赖推送给了下游用户，受影响版本为 node-ipc@10.1.1 和 node-ipc@10.1.2，目前这两个版本都已经废弃。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三名候选人参与今年的 DPL 选举]]></title>
-        <id>https://www.solidot.org/story?sid=70965</id>
-        <link href="https://www.solidot.org/story?sid=70965"/>
-        <updated>2022-03-17T03:05:20.000Z</updated>
-        <summary type="html"><![CDATA[一年一度的 Debian 项目领导人（DPL）选举开启，有三名候选人参加： Felix Lechner、Hideki Yamane，以及当选两届竞选第三届的现任 DPL Jonathan Carter。Lechner 承诺要提升所有成员的幸福感；Hideki Yamane 生活在日本，2010 年参与 Debian 项目，40 多岁，他承认自己英文不是太好，可能回答不了太复杂的问题，自嘲是最差的候选人，他承诺要为所有人提供更好的 Debian 体验。DPL 选举采用的是孔多塞投票法。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里巴巴和腾讯准备裁员]]></title>
-        <id>https://www.solidot.org/story?sid=70964</id>
-        <link href="https://www.solidot.org/story?sid=70964"/>
-        <updated>2022-03-16T15:08:34.000Z</updated>
-        <summary type="html"><![CDATA[路透援引消息来源报道，阿里巴巴和腾讯准备在今年裁减数万个职位，这会是它们最大的裁员行动。消息人士估计，阿里巴巴最终可能会裁掉其员工总数的 15 %以上，约为 3.9 万人。有三位知情人士称，腾讯也计划在今年裁减其一些业务部门的员工。其中一位人士说，其负责视频流媒体和搜索等业务的部门今年将裁员 10%-15%。监管部门的打击，加上经济放缓，使大多数互联网公司的销售增长急剧放缓，股价骤跌，在中国筹集新资和业务扩张更加艰难，迫使阿里巴巴和腾讯等公司寻找削减运营成本的方法。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Browserling is now a top 15k website in the world]]></title>
-        <id>https://catonmat.net/browserling-top-15k-website</id>
-        <link href="https://catonmat.net/browserling-top-15k-website"/>
-        <updated>2022-03-16T14:05:05.000Z</updated>
-        <summary type="html"><![CDATA[According to Alexa, Browserling is now a top 15k (actually now top 13k while I was writing this blog post) website in the world. 5k positions up from 20k a year ago. It's yet another small step for a ling and a giant leap for ling-kind.
-alexa.com/siteinfo/browserling.com
-
-My goal is to make Browserling a top 10k website and beyond. Thanks for following along my adventure and see you next time! I'm still just getting started here.]]></summary>
-        <author>
-            <name>catonmat.net – less is more</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[arXiv 因室温超导争议暂停作者发表论文半年]]></title>
-        <id>https://www.solidot.org/story?sid=70963</id>
-        <link href="https://www.solidot.org/story?sid=70963"/>
-        <updated>2022-03-16T13:59:06.000Z</updated>
-        <summary type="html"><![CDATA[因室温超导争议，预印本平台 arXiv 的管理员最近移除或拒绝发表对立双方的多篇论文，理由是论文手稿包含了煽动性的内容和不专业的语言。arXiv 还暂停其中一位作者——加州圣迭戈的理论物理学家 Jorge Hirsch 发表论文半年。Hirsch 回应说，禁令不公平，“如果不能发表论文我无法工作。”arXiv 董事会主席、阿姆斯特丹大学物理学家 Ralph Wijers 表示他们的决定与科学无关，不是因为不喜欢内容而拒绝发表，而是因为人们的情绪深受影响，语言过于激烈。向 arXiv 递交的论文不是每一篇都接受发表，拒绝的比例只有 1%，大约 200 名志愿者会审查递交的论文确保内容合法或能引起学界的兴趣。志愿者会确保论文不包含对其他科学家抨击的措辞。arXiv 咨询委员会成员 Paul Fendley 说，如果允许此类内容的话那么 arXiv 和 Twitter 有何区别呢？志愿审查人员认为 Hirsch 跨过了红线。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
