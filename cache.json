@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=41981",
+          "author": "青小蛙",
+          "description": "语音文字助手是一款基于 iOS 原生 Speech 框架的语音转文字、文字转语音应用，简单易用。由于使用本机的语音识别功能，所以可以免费、无限量使用。@Appinn 来自发现频道，开发者 @user2",
+          "link": "https://www.appinn.com/yuyinwenzizhushou-for-iphone/",
+          "publishedOn": "2022-04-16T09:26:14.000Z",
+          "wordCount": 700,
+          "title": "语音文字助手 – 基于 iPhone 原生语音识别，免费不限量的语音转文字、文字转语音应用",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/04/voice-text-assistant.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=41956",
           "author": "青小蛙",
           "description": "Genie Timeline Home 10 是一款简单易用的文件备份工具，它能够备份指定文件，并通过时间线的方式，随时还原文件，非常适合备份常用文件夹，比如桌面。@Appinn 在问题频道有同学求推",
@@ -400,16 +410,6 @@
           "wordCount": 704,
           "title": "RetroBar – 回到经典 Windows 95、98、Me、2000 或 XP 风格的 Windows 任务栏",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/retrobar.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=41691",
-          "author": "青小蛙",
-          "description": "Can I Run It 是一个帮你测试电脑性能的网站，它的游戏数据库中拥有超过 8500 款游戏，只需要选择你想要玩的游戏，下载一个小程序，几秒钟后就会告诉你：你的电脑能运行它吗？@Appinn 感",
-          "link": "https://www.appinn.com/can-i-run-it/",
-          "publishedOn": "2022-03-18T08:02:43.000Z",
-          "wordCount": 718,
-          "title": "Can I Run It – 你的电脑能运行它吗？可自动测试超过 8500 款游戏的最小以及推荐配置",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/03/can-i-run-it.jpgo_.jpg"
         }
       ]
     },
@@ -523,16 +523,6 @@
           "publishedOn": "2022-03-25T00:31:26.000Z",
           "wordCount": 430,
           "title": "科技爱好者周刊（第 200 期）：低期望，多尝试",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/03/weekly-issue-199.html",
-          "publishedOn": "2022-03-18T00:41:36.000Z",
-          "wordCount": 512,
-          "title": "科技爱好者周刊（第 199 期）：俄罗斯的 HTTPS 证书问题",
           "imageUrl": null
         }
       ]
@@ -3228,136 +3218,6 @@
           "wordCount": 74,
           "title": "研究揭示人工林与天然林效益差别",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70992",
-          "author": null,
-          "description": "Mozilla 和 Open Web Docs 宣布在 MDN 项目的  Web Docs 部分携手合作。Mozilla 宣布将推出订阅服务 MDN Plus，而 Web Docs 部分将会永远免费：Mozilla 承担平台的基础设施、开发和维护费用，包括一个工程师团队和一个专业技术作者团队；Open Web Docs 接受企业和个人的捐款，捐款不会转给 Mozilla 或 MDN，而是提供给 MDN  Web Docs 的文档技术写作团队。",
-          "link": "https://www.solidot.org/story?sid=70992",
-          "publishedOn": "2022-03-18T13:28:39.000Z",
-          "wordCount": 112,
-          "title": "Mozilla 和 Open Web Docs 在 MDN 上携手合作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70991",
-          "author": null,
-          "description": "流媒体时代实体销售并没有消亡。美国唱片业协会（RIAA）的年度报告显示，2021 年 CD 的销量增长 21% 达到 5.84 亿美元，这是 CD 销售自 2004 年以来首次出现增长。黑胶唱片的增幅更大，年收入增长 61% 达到 10 亿美元，这是黑胶唱片自 1986 年以来首次达到 10 亿美元。收入唯一出现下降的是数字下载，销售收入下降 12% 至 5.87 亿美元，只比 CD 销售多 300 万美元。流媒体收入增长 23.8% 至 124 亿美元，其中付费订阅收入 95 亿美元。",
-          "link": "https://www.solidot.org/story?sid=70991",
-          "publishedOn": "2022-03-18T12:45:16.000Z",
-          "wordCount": 114,
-          "title": "RIAA 报告称 CD 销量 17 年来首次增长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70990",
-          "author": null,
-          "description": "从 Mozilla 官网下载 Firefox，每一次下载都会含有唯一识别码。Mozilla 内部将该识别码称为 dltoken，用于关联浏览器的下载、安装和首次运行。Mozilla 自己解释说，该数据可用于关联遥测 ID、下载令牌和 Google Analytics ID，分析下载和安装的趋势，回答诸如每天安装次数与下载次数迥异的疑问。用户可以简单通过 Firefox 安装程序的哈希值确认是否含有识别码。每一次从官网下载的文件哈希值都是不同的。",
-          "link": "https://www.solidot.org/story?sid=70990",
-          "publishedOn": "2022-03-18T12:31:05.000Z",
-          "wordCount": 85,
-          "title": "Firefox 的每一次下载都含有唯一识别码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70989",
-          "author": null,
-          "description": "亚马逊宣布完成以 84.5 亿美元收购米高梅公司的交易。电商巨头是在 2021 年 5 月宣布了这笔交易，之后监管机构也没有制造太多的障碍，欧盟委员会是在本周二批准了交易，认为不会降低竞争。成立于 1924 年的米高梅公司曾是最成功的好莱坞电影公司之一，但进入 21 世纪后状况不佳，尽管如此它的媒体库包含了超过 4000 部电影和 1.7 万集剧集。它最知名的 IP 是 007 系列。这些电影电视剧将加入亚马逊的流媒体服务 Prime Video。",
-          "link": "https://www.solidot.org/story?sid=70989",
-          "publishedOn": "2022-03-18T10:42:28.000Z",
-          "wordCount": 91,
-          "title": "亚马逊完成对米高梅的收购",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70988",
-          "author": null,
-          "description": "AMD 第一款采用 3D 缓存技术的芯片 5800X3D 也是第一款不支持超频的 Ryzen 处理器。5800X3D 将在 4 月 20 日上市，售价 449 美元，AMD 称它是当前性能最强的游戏 CPU。AMD 技术营销总监 Robert Hallock 称 5800X3D 的电压被锁定在 1.35 伏。低电压意味着会产生更少的热量，原因可能是 3D 缓存技术增加的 64MB L3 缓存产生了更多的热余量。Hallock 表示，未来采用 3D 缓存技术的 CPU 不会限制超频。AMD 的 CPU 一般不会锁定频率，而英特尔 CPU 如果要超频的话则需要购买更昂贵的 K 系列处理器和 Z 系列主板。",
-          "link": "https://www.solidot.org/story?sid=70988",
-          "publishedOn": "2022-03-18T10:15:47.000Z",
-          "wordCount": 118,
-          "title": "AMD  5800X3D 不能超频",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70987",
-          "author": null,
-          "description": "鸟类会这样做，蜜蜂会这样做——甚至杀死蜜蜂的黄蜂也会这样做。一个聪明的科学家团队现在想出了一个办法，用亚洲大黄蜂的“茅”来对抗它们，以期阻止这种入侵物种对美国蜜蜂种群的破坏。他们确定了蜂后的性信息素，提议用信息素诱捕被吸引的大黄蜂雄蜂。亚洲大黄蜂 (Vespa mandarinia) 捕食蜜蜂，它的刺对人类来说非常痛苦（它们可以杀死对其毒液过敏的人）。这种大黄蜂原产于亚洲，但最近传播到美国； 2020 年 8 月在华盛顿州首次捕捉到这种大黄蜂，从那时起，它们遍布了美国的西北部。这种入侵令人担忧，因为大黄蜂可以在几个小时之内将一个蜂巢屠杀殆尽。最近一组昆虫学家在中国云南的黄蜂群落里抓到了一些“处女”大黄蜂蜂后和它们的雄蜂。他们擦拭蜂后的性腺，并用气相色谱-质谱分析法从六只蜂后身上识别出信息素化合物。研究成果发表在《当代生物学》上。“我们能够分离出雌性性信息素的主要成分，这种气味混合物对竞相与‘处女’蜂后交配的雄性极具吸引力。”",
-          "link": "https://www.solidot.org/story?sid=70987",
-          "publishedOn": "2022-03-18T08:22:53.000Z",
-          "wordCount": 78,
-          "title": "研究人员提议用性引诱杀死入侵大黄蜂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70986",
-          "author": null,
-          "description": "IEEE 发表了乌克兰会员的一系列文章，讲述了他们的战争故事，其中之一是 Volodymyr Pyliavskyi。\n\n战前每一天的生活都与职业有关。工作日的早上通常是从在大学里给学生讲课开始，下午在学院授课。我参与了国家标准化工作，并与 IEEE、IEC、EBU、ITU、OSA 等国际组织合作。有时候我会被聘为乌克兰国家高等教育质量保证机构（NAQA）的专家。我的主要工作是研究。十多年来，我一直在研究广播和计算机视觉系统中的自适应技术。我是乌克兰教育和科学部委托的一个科学项目的负责人，旨在开发算法校正困难条件下获得的图像，例如耀斑、黑暗或由具有不同光谱响应的光源照射时获得的图像。在土耳其、保加利亚和乌克兰举行的 IEEE 会议上展示科学成果对我来说非常重要。不幸的是由于战争，乌克兰的所有会议都被取消了。\n\n\n白天我们通常安排去买杂货、药品或其他必需品。时间有限，因为早上货还没到店，等到到货时要排长队，或者有空袭警报。有时候没有面包，我们需要找人借面包，或者等到第二天。我们必须去水泵房打饮用水。热水供应不足。互联网消失了，速度也很糟糕——由于网速不行，几乎不可能进行视频交流。每天都很紧张，我们周围的人也在寻求安全，他们所有的谈话都只围绕着战争。这很艰难。例如，我们旁边有一个来自哈尔科夫郊区的家庭。他们的村庄只剩下一片平坦的田野，现在他们和我们在一起，他们全家住在我们的住处。我的妻子和我试图支持他们。\n\n这对我们来说也很困难，因为我的妻子已经怀孕 9 个月了，将在妇产医院的地下室分娩。我想带我妻子去摩尔多瓦，但她拒绝了。我们的社会第一次处于这样的情况，人们对丧命的危险谈得很多，获取真实信息的渠道却很少。因此我们一起努力对抗虚假信息，即使还要对抗警报、路障、军事装备、爆炸声带来的恐惧……",
-          "link": "https://www.solidot.org/story?sid=70986",
-          "publishedOn": "2022-03-18T07:51:43.000Z",
-          "wordCount": 86,
-          "title": "IEEE 乌克兰会员的战争故事",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70985",
-          "author": null,
-          "description": "霍金（Stephen Hawking）的黑洞信息悖论困扰了科学家半个世纪，让一些人质疑物理学的基本定律。现在科学家表示通过证明黑洞具有一种被称为“量子头发”的特性，他们可能解决了这个“臭名昭著”的问题。如果是正确的，将标志着理论物理学的重大进步。领导这项工作的苏塞克斯大学 Xavier Calmet 教授表示，围绕着这个问题运算了十年之后，他的团队去年取得了快速进展，相信他们终于攻克了这个难题。Calmet 表示：“科学界普遍认为，解决这个悖论需要物理学范式的巨大转变，或许会被迫重新制定量子力学或广义相对论。”“我们发现不必这样做。”霍金的悖论归结为以下几点：量子物理学的规则表明信息是守恒的。黑洞对这条定律提出了挑战，因为一旦一个物体进入黑洞，它基本上就永远消失了——连同其中编码的任何信息。霍金发现了这个悖论，几十年来它一直困扰着科学家。出现过无数的解决方案，包括假设信息在进入黑洞之前已经燃烧殆尽的“防火墙理论”，认为黑洞具有模糊边界的“模糊球理论”，以及弦理论的各种奇异分支。但是这些提法大多数都需要重写量子力学定律或者爱因斯坦的引力理论，现代物理学的两大支柱。",
-          "link": "https://www.solidot.org/story?sid=70985",
-          "publishedOn": "2022-03-18T07:19:46.000Z",
-          "wordCount": 76,
-          "title": "“量子头发”或可解决霍金黑洞悖论",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70984",
-          "author": null,
-          "description": "康奈尔大学研究人员使用计算美学系统教人工智能机器人“不仅在给定数据集中确定最令人愉悦的图片，还能自行捕捉新的、原创的——更重要的是，好的——镜头。”这个项目名为AutoPhoto，于去年秋天在智能机器人和系统国际会议上展示。机器人“摄影师”由三部分组成：图像评估算法，对呈现的图像进行评估并给出审美评分；一个装有摄像头的 Clearpath Jackal 轮式机器人； AutoPhoto 算法本身作为一种固件，将图像评级过程的结果转换为物理机器人的驱动命令，并有效地将优化图像捕获过程自动化。对于图像评估算法，这个由二年级硕士生 Hadi AlZayer 领导的康奈尔团队利用了现有的学习美学估计模型，模型使用超过一百万张经过人类排名的照片行了训练。 AutoPhoto 本身接受了数十张室内场景 3D 图像的训练，以在团队将其连接到 Jackal 上之前找到最佳拍摄角度。在被放到校园中的一个建筑物内之后，机器人开始时会拍出很多不好的镜头，但随着 AutoPhoto 算法“找到感觉”，它的镜头选择会稳步提高，直至拍摄出的图像可以与本地Zillow 列表中的图像相媲美。平均而言，优化一个镜头大约需要迭代十几次，整个过程只需几分钟即可完成。",
-          "link": "https://www.solidot.org/story?sid=70984",
-          "publishedOn": "2022-03-18T07:04:00.000Z",
-          "wordCount": 92,
-          "title": "研究人员教机器人拍摄 Airbnb 级照片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70983",
-          "author": null,
-          "description": "中国围棋协会宣布，在 3 月 15 日进行的倡棋杯中国职业围棋锦标赛首轮中，刘睿智初段因违反“严禁使用人工智能”的规定被禁赛一年。鉴于疫情防控形势，倡棋杯此番在线上进行，组委会要求每位棋手在比赛时须有监督人员。根据比赛规程，比赛中严禁使用人工智能，一经查实禁赛一年，如为国家集训队队员立即开除出队。刘睿智 1996 年出生，2019 年定段成功成为职业初段。装备工业研究所所长左世全表示，AI 能通过分析参赛者的历史数据计算其接下来的走法而帮助棋手。",
-          "link": "https://www.solidot.org/story?sid=70983",
-          "publishedOn": "2022-03-18T06:18:41.000Z",
-          "wordCount": 83,
-          "title": "棋手因在比赛期间使用 AI 被禁赛一年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70982",
-          "author": null,
-          "description": "匿名读者 写道 \"药品专利池（Medicines Patent Pool，MPP）宣布与 35 家公司签署协议生产辉瑞 COVID-19 口服治疗药物奈玛特韦片（nirmatrelvir）。\n\n根据药品专利池与辉瑞达成的自愿许可协议，只要新冠疫情仍被世界卫生组织列为国际关注的突发公共卫生事件，就将免除协议涵盖的所有国家药物销售的特许权使用费。 \"",
-          "link": "https://www.solidot.org/story?sid=70982",
-          "publishedOn": "2022-03-18T01:51:59.000Z",
-          "wordCount": 88,
-          "title": "35 家仿制药制造商与 MPP 签署协议生产辉瑞抗病毒复制药物",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70981",
-          "author": null,
-          "description": "美国参议员 Elizabeth Warren 和众议员 Mondaire Jones 提出了 The Prohibiting Anticompetitive Mergers Act (PAMA)法案，事实上禁止科技公司的大型并购。PAMA 寻求禁止的并购包括价值超过 50 亿美元，为雇主提供超过四分之一的市场份额，为卖家提供超过三分之一的市场份额。法案还将提供反垄断监管机构更多权力去终止和审查并购案。监管机构可以直接拒绝并购案，不需要法庭命令。监管机构可以禁止过去十年违反反垄断法的公司进行并购，或者重新审查过去的并购，比如 Meta/Facebook 对 Instagram 和 WhatsApp 并购。PAMA 可以解除交易强迫让 Instagram 和 WhatsApp 独立运营。",
-          "link": "https://www.solidot.org/story?sid=70981",
-          "publishedOn": "2022-03-17T15:36:22.000Z",
-          "wordCount": 102,
-          "title": "美国新法案寻求禁止价值超过 50 亿美元的并购交易",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=70980",
-          "author": null,
-          "description": "NASA 宣布，詹姆斯韦伯太空望远镜 3 月 11 日完成镜面校准，韦伯望远镜光学性能预计将达到或超过设立的科学目标。韦伯的光路没有严重问题，也没有可测量的污染或堵塞。它能够成功收集来自遥远天体的光线，并将其传输到仪器上。韦伯望远镜去年 12 月 25 日发射，由NASA、欧洲航天局和加拿大航天局共同研发，将帮助解决太阳系的谜团，观察其他恒星周围的遥远世界，探索宇宙的神秘结构和起源，以及我们在其中的位置。它是第一台在太空中使用分段主镜设计的望远镜。望远镜由 18 面可展开的镀金六边形镜片组成，涂了 48.25 克黄金。主镜直径 6.5 米，发射时它必须折叠起来，然后在太空中展开，再调整每一面镜片。在镜面校准阶段，每面镜片部分都被调整为仅使用望远镜的近红外相机（NIRCam）就能生成同一恒星的统一图像。在接下来的六周内，团队将进行剩余校准步骤，进一步调整近红外光谱仪、中红外仪器、近红外成像和无缝摄谱仪。此后开始韦伯望远镜的最后校准步骤，团队将对镜面部分调整任何剩余的细微定位误差。",
-          "link": "https://www.solidot.org/story?sid=70980",
-          "publishedOn": "2022-03-17T13:40:30.000Z",
-          "wordCount": 86,
-          "title": "韦伯望远镜完成镜面校准",
-          "imageUrl": null
         }
       ]
     },
@@ -3547,16 +3407,6 @@
           "publishedOn": "2022-04-15T00:30:00.000Z",
           "wordCount": 117,
           "title": "ShoeMoney bought my book!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/if-you-build-it-they-will-come",
-          "author": null,
-          "description": "We built it, and they came.\nWe built Image tools and they came:\nWe built Hex tools and they came:\nWe built Ascii tools and they came:\nWe built Gif tools and they came:\nWe built String tools and they came:\nWe built Json tools and they came:\nWe built Number tools and they came:\nWe built Unicode tools and they came:\nBuild too and they will come. See you next time!",
-          "link": "https://catonmat.net/if-you-build-it-they-will-come",
-          "publishedOn": "2022-03-17T15:30:00.000Z",
-          "wordCount": 155,
-          "title": "If you build it, they will come",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
