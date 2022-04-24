@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-23T01:27:15.134Z</updated>
+    <updated>2022-04-24T01:25:29.309Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ross Ulbricht 的 183M 美元罚款已经还清]]></title>
+        <id>https://www.solidot.org/story?sid=71334</id>
+        <link href="https://www.solidot.org/story?sid=71334"/>
+        <updated>2022-04-23T09:29:18.000Z</updated>
+        <summary type="html"><![CDATA[暗网市场丝绸之路的创始人 Ross Ulbricht 因尝试雇佣杀手杀死勒索他的人而最终被法庭判处终身监禁，不得保释。他还被要求支付 1.83 亿美元的赔偿金，这一金额是使用当时的交易兑换率根据丝绸之路非法销售总额计算出来的。2020 年美国司法部从一名黑客手中扣押了窃取自丝绸之路的 69,370 枚比特币。未透露名字的黑客在 2013 年 4 月将这些比特币转移到私人钱包。司法部和 Ross Ulbricht 达成协议，放弃对被盗比特币的任何要求，换取比特币出售之后还清赔偿金。这批比特币价值 30 亿美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家重启大强子对撞机]]></title>
+        <id>https://www.solidot.org/story?sid=71333</id>
+        <link href="https://www.solidot.org/story?sid=71333"/>
+        <updated>2022-04-23T09:11:57.000Z</updated>
+        <summary type="html"><![CDATA[大强子对撞机(LHC)在经历为期三年的升级之后于本周五重启。大强子对撞机坐落在瑞士日内瓦近郊，位于地下约 50 至 175 米之间，在一个圆周为 27 公里的圆形隧道内，加速器通道的加速管由超导磁铁包覆，冷却到零下 271.3摄氏度，它在 2008 年开始试运行，2009 年首次完成粒子对撞，2015 年完成第一次升级，对撞能级提高一倍至 13 Tev。LHC 此前最重要的发现是希格斯玻色子，最新升级将让科学家能更仔细的研究希格斯玻色子，同时他们希望通过更多的粒子碰撞去揭开暗物质的秘密。暗物质是指不与电磁力产生作用的物质，也就是不会吸收、反射或发出光，因此无法直接观测到，只能通过重力产生的效应得知。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploy or die]]></title>
+        <id>https://catonmat.net/deploy-or-die</id>
+        <link href="https://catonmat.net/deploy-or-die"/>
+        <updated>2022-04-23T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[At Browserling, we sometimes deploy 50 times a day. Our deployment system, which is a 30 line bash script, lets us deploy in 0.1 seconds. Our mantra at Browserling is deploy or die. If you don't push to production 20 times a day you are doing things wrong. There are no code reviews or tests that would slow down deploying. There's only production. If you broke production, then you fix it in the next commit a minute later. Time to deploy makes everyone happy as things get done quickly and everyone can cheer progress. Optimizing time-to-deploy time should be every company's top task.]]></summary>
+        <author>
+            <name>catonmat.net – less is more</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软锁屏画报 测试版上线，专门美化你的 Windows 锁屏界面]]></title>
+        <id>https://www.appinn.com/?p=42036</id>
+        <link href="https://www.appinn.com/microsoft-lock-screen-picture/"/>
+        <updated>2022-04-23T06:45:53.000Z</updated>
+        <summary type="html"><![CDATA[微软锁屏画报是一款专门美化 Windows 锁屏界面的工具，来自微软中国官方产品，简单易用美观大方。@Appinn 来自发现频道，微软的 @WEIWEI98 同学推荐： 微软锁屏画报-测试版上线，欢迎]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[文章] 为什么劳动力总量减少了，但却感觉越来越内卷]]></title>
+        <id>https://zhuanlan.zhihu.com/p/503588646</id>
+        <link href="https://zhuanlan.zhihu.com/p/503588646"/>
+        <updated>2022-04-23T06:15:06.000Z</updated>
+        <summary type="html"><![CDATA[内卷是这几年经常听到的词，意思是竞争激烈，为了获得更好的工作不得不付出更高的成本，包括时间，精力和资金，而由此新增的获得感却感觉很有限。
+但其实如果看数据，就会知道目前的内卷是结构性的。
+第一个事实是：目前产业升级在不断进行，而总的劳动力和就业人员都已经在下降了，
+以下是我从2021年的统计年鉴里面截取出来的，可以看到总的就业人口2020年比2016年少了接近1200万人（1181万人）
+
+从下图也可以看出来，
+30-34岁年龄段人口为1.24亿人，
+25-29岁年龄段人口为9184.7万人，
+20-24岁年龄段人口为7494.2万人，
+15-19岁年龄段人口只有7268.4万人。
+进入劳动力市场的人口在呈现逐渐减少的态势。
+
+产业升级在进行，中高薪岗位数量在增加，新增劳动力人数在减少，从比例上说有更多的人从事中高薪的工作，怎么还会感觉高度内卷化呢？
+原因有以下三个：
+其一是目前的内卷是结构化的，也就是集中在高学历人群，而低学历蓝领工作其实并不难找，甚至可以说非常好找，大学生就业难与蓝领工作招工难是同时存在的现象。
+从数据上看，这些年高等教育的规模扩大太快了，已经快于了产业升级的速度，高学历年轻人增加的数量大于了产业升级带来的中高端岗位的增加数量。
+也就是供给增长速度大于需求，因此导致学生越来越优秀，学历越来越高，但是竞争越来越激烈。表现在国内的考研人数连续创新高，而研究生录取人数也不断增长。
+我们用中国教育在线发布了《2022年全国研究生招生调查报告》，2010年全国研究生报名人数还不到150万人，而2022年研究生报名人数创下最高纪录，达到457万，涨幅达21%，近5年连续在高位上超过两位数的高增长。
+注意，我国教育部的统计数据里面研究生包括硕士和博士生。
+
+而我国研究生的招生人数2011年研究生招生总人数56万，到2020年达到110.6万人，2021年则达到了117…]]></summary>
+        <author>
+            <name>宁南山</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[机智号火星直升机首飞一周年]]></title>
+        <id>https://www.solidot.org/story?sid=71332</id>
+        <link href="https://www.solidot.org/story?sid=71332"/>
+        <updated>2022-04-23T03:03:11.000Z</updated>
+        <summary type="html"><![CDATA[机智号火星直升机于 2021 年 4 月 19 日首飞，如今已在火星上服役了一周年，而它原计划只服役 30 天。这一成就显示了在太空任务中使用成熟商业零部件的潜力。机智号主要用于技术演示，大量使用了商业零部件，包括高通的 2.26 GHz 四核处理器 Snapdragon 801，德州仪器的 TMS570LC43x，索尼的锂离子电池，运行的是 Linux 操作系统。根据 NASA 的记录，自去年 4 月成功首飞以来，机智号累计飞行 6184 米，总飞行时长约 49.2 分钟。最高飞行高度 12 米，最快地面速度 5.5 米/秒。由于表现良好，NASA 延长了它的任务到今年 9 月，让机智号作为侦察地形的探测器，为毅力号火星车探路。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Writing Strong Front-end Test Element Locators]]></title>
         <id>https://css-tricks.com/?p=364218</id>
@@ -15,6 +95,26 @@
 Writing Strong Front-end Test Element Locators originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Mark Noonan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高危漏洞允许攻击者控制数百万计的 Android 设备]]></title>
+        <id>https://www.solidot.org/story?sid=71331</id>
+        <link href="https://www.solidot.org/story?sid=71331"/>
+        <updated>2022-04-22T15:07:52.000Z</updated>
+        <summary type="html"><![CDATA[安全公司 Check Point 的研究人员发现了一个高危漏洞允许攻击者控制数百万计的 Android 设备。该漏洞属于越界漏洞，存在于 ALAC—Apple Lossless Audio Codec—编解码器中。ALAC 是苹果在 2004 年推出的音频格式，用于提供无损音频。苹果多年来一直在更新自己的私有版本修复安全漏洞，而高通和联发科则使用了一个开源版本，但这个开源版本自 2011 年以来就没有更新过。绝大部分 Android 设备都使用高通或联发科的移动芯片组。黑客可利用该漏洞强迫解码器执行恶意代码。研究人员估计 2021 年销售的智能手机中有三分之二存在该漏洞。高通和联发科去年就释出了补丁，如果 Android 设备的最新补丁是在 2021 年 12 月之后，那么漏洞已经修复。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果杀死 macOS Server]]></title>
+        <id>https://www.solidot.org/story?sid=71330</id>
+        <link href="https://www.solidot.org/story?sid=71330"/>
+        <updated>2022-04-22T13:59:40.000Z</updated>
+        <summary type="html"><![CDATA[苹果宣布停用 macOS Server，现有的客户可以继续下载和使用 macOS Server。苹果称 macOS Server 最受欢迎的功能如 Caching Server、File Sharing Server 和 Time Machine Server 都捆绑在  macOS High Sierra 及之后的版本中，客户可免费使用。macOS Server 是服务器操作工具，运行于 macOS 之上的应用，包括用于服务器的额外功能，应用和系统管理工具，用于管理和部署服务器。早期的 macOS Server 是一套独立的操作系统，但从 Lion 起，它只作为一个工具包存在。此前服务器版本售价 499 美元，但应用只售价 50 美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -3787,164 +3887,6 @@ https://b23.tv/DBYMd7Y]]></summary>
         <updated>2022-03-25T13:29:08.000Z</updated>
         <summary type="html"><![CDATA[匿名读者 写道 "
 过去2年内，中国用“动态清零”的筛查、隔离等清根拔源政策，取得了每个本土局部新冠疫情的防控胜利。这一防控经验，也为其他传染病的防控提供了借鉴，特别是肺结核。《中华人民共和国传染病防治法》的修订草案正在征求意见。其中第四十五条规定，“对于病原学阳性肺结核患者在传染期内需进行规范隔离治疗并开展耐药性检查，对其密切接触者进行必要的筛查。开展耐多药肺结核的诊断和治疗的机构要具备相应的隔离和感染控制等条件。肺结核患者应当根据防控需要采取佩戴口罩等必要的防护措施，以避免传播他人。肺结核患者须持有指定的医疗机构出具的证明方能复工复学。”"]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 高管相信在不遥远的将来平板销量将超过笔记本电脑]]></title>
-        <id>https://www.solidot.org/story?sid=71063</id>
-        <link href="https://www.solidot.org/story?sid=71063"/>
-        <updated>2022-03-25T13:20:49.000Z</updated>
-        <summary type="html"><![CDATA[在忽视了平板电脑一段时间之后，Google 突然加大了对 Android 平板市场的投资。新版本的 Android 12L 改进了对大屏幕平板电脑的支持。Android 平板 CTO Rich Miner 解释说，比笔记本电脑更便宜的平板电脑有增长潜力。他列举 2020 年的销售数据，指出平板电脑的购买量已经接近笔记本电脑的出货量，他认为在不久的将来，两者将会抵达一个交叉点，平板电脑销量将超过笔记本电脑。而一旦超过这个点，平板将会永远将笔记本电脑甩在后面。他呼吁开发者利用 Google 的工具改进应用程序对平板电脑的支持，甚至将平板电脑作为首要考虑的目标。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA 准备在其足球游戏中放弃 FIFA 名称]]></title>
-        <id>https://www.solidot.org/story?sid=71062</id>
-        <link href="https://www.solidot.org/story?sid=71062"/>
-        <updated>2022-03-25T10:21:33.000Z</updated>
-        <summary type="html"><![CDATA[FIFA 在与 FIFA 足球系列游戏开发商 EA 协商续签冠名权合同，但要价过高因此进展并不顺利。而 EA 私下里已经做好了放弃使用 FIFA 名字的准备，它在欧盟和英国申请了足球游戏新商标 EA Sports F.C（EA Sports Football Club）。 现在 FIFA 被发现也准备在与 EA 分手，它更新了 FIFA 品牌的内部商标，加入了视频游戏，显示准备发布自己内部开发的足球游戏，但何时发布以及包含什么游戏模式目前都完全不知道。EA 还没有正式宣布改名。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雀巢声称是自己泄露了数据]]></title>
-        <id>https://www.solidot.org/story?sid=71061</id>
-        <link href="https://www.solidot.org/story?sid=71061"/>
-        <updated>2022-03-25T09:21:21.000Z</updated>
-        <summary type="html"><![CDATA[匿名者黑客组织（Anonymous）声称窃取并泄露了雀巢的大量数据。雀巢予以否认，称数据实际上是几周前自己泄露的。Anonymous 本周声称从这家全球食品和饮料集团窃取并泄露了 10GB 的数据。Anonymous 表示，它在惩罚雀巢，因为它不愿撤出俄罗斯。Anonymous 称，这些数据包括内部电子邮件、密码和雀巢的客户信息，数据于周二发布到网络上。根据雀巢发言人的说法，这完全是谎言。“最近关于雀巢遭到网络攻击以及随后的数据泄露的说法是没有根据的。”这位发言人解释说，网上流传的大量数据实际上是该公司今年早些时候犯下的一个错误的产物：“这与二月份的一个事件有关，因为无心之失，一些随机且主要是公开可用的 B2B 测试数据短时间内可以在线访问。”公司发言人解释说，这些数据，其中一些已公开，另一些尚未公开，意外地在互联网上公开了数周。该发言人表示：“一些主要公开的数据（例如，公司名称和公司地址以及一些企业电子邮件地址）在有限的时间（几周）内错误地在网络上公开。我们的安全团队当时检测到了这个问题，并进行了适当的审查。这些数据是为 B2B 测试网站准备的，目的是为了进行一些功能检查。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我们不睡觉就会死？]]></title>
-        <id>https://www.solidot.org/story?sid=71060</id>
-        <link href="https://www.solidot.org/story?sid=71060"/>
-        <updated>2022-03-25T09:03:33.000Z</updated>
-        <summary type="html"><![CDATA[我们为什么要睡觉？我们把一生中大约三分之一的时间都花在睡觉上，这似乎很重要。但仍然有很多我们不明白的地方。睡眠研究人员非常确定的一件事是，我们身体的每个系统都受到了睡眠的影响。错过睡眠会损害我们的循环、消化、免疫系统，会伤害我们的新陈代谢，大脑功能也会受到伤害。睡眠剥夺并不需要很长时间造成伤害。事实上，如果你坚持不睡的时间足够长，你就会死。但这究竟是为什么呢？
-
-
-假设参与睡眠剥夺试验的果蝇有一百只。一开始它们都是 100% 活着的。控制组的果蝇也都活着。死亡从某个时候开始，取决于失去多少睡眠。失去的睡眠越多，就会越早崩溃，生存曲线开始下降，比如有 80% 的睡眠被剥夺果蝇还活着，然后是 60%。如果剥夺全部睡眠，寿命会缩短到对照组的四分之一，这是一个非常巨大的影响。对因缺少睡眠而死亡的动物的器官检查发现，它们的活性氧会大幅增加，特别是在肠道中的活性氧。活性氧会引发氧化应激，损害细胞，最终导致细胞在肠道中大量死亡。这一切发生之后，果蝇就死了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毅力号确定火星音速]]></title>
-        <id>https://www.solidot.org/story?sid=71059</id>
-        <link href="https://www.solidot.org/story?sid=71059"/>
-        <updated>2022-03-25T07:48:51.000Z</updated>
-        <summary type="html"><![CDATA[一个国际研究小组分析了毅力号火星车捕获到的声音，确定了火星上的音速。洛斯阿拉莫斯国家实验室的 Baptiste Chide 在今年的第53届月球和行星科学会议上介绍了（PDF）团队的研究成果。Chide 报告称该团队用麦克风数据测出火星音速。他们是通过测量毅力号激光爆发发出的声音返回火星车麦克风所需要的时间实现的。激光爆炸被用于蒸发附近的岩石，以了解其成分。他们发现声音在火星上以大约 240m/s 的速度传播。不同频率的声音在火星上传播的速度不一样。高于400Hz 的声音的传播速度增加了大约 10m/s。这一发现表明，在火星上进行交流会非常困难，因为说出的话语中不同的部分传到听众耳中的时长不一样，这让对话听起来混乱。Chide 表示，麦克风还可以测量火星表面及火星车周围的温度。这是因为声音在不同的温度下传播的速度不同。通过测量毅力号每次发射激光时的音速，研究人员能计算出温度的快速变化。Chide 还指出，该研究小组计划在一年内持续监测和分析来自火星的声音，以更多地了解星球上不同事件发生时的波动，例如在冬季或沙尘暴爆发期间。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[材料科学家不用酵母制作披萨面团]]></title>
-        <id>https://www.solidot.org/story?sid=71058</id>
-        <link href="https://www.solidot.org/story?sid=71058"/>
-        <updated>2022-03-25T07:29:35.000Z</updated>
-        <summary type="html"><![CDATA[25 岁时材料学家 Ernesto Di Maio 患上了酵母菌过敏症，每次吃披萨都会出现荨麻疹，对于一名意大利那不勒斯人来说，这有些尴尬。他说：“我的妻子喜欢披萨，有时晚餐的菜单会让两个人的关系变得紧张。”现在 Di Maio 可以期待无忧无虑的晚餐了，因为他和同事发明了一种不使用酵母发酵披萨面团的方法。研究报告发表在《Physics of Fluids》期刊上。
-
-和大多数面包一样，在披萨经典做法中，酵母发酵并释放出二氧化碳，使面团中充满了细密的气泡。然后烘烤烤干水分，锁住“空气感”。那不勒斯菲德里克二世大学（UNINA）的 Di Maio 团队认为，能用不同的方式产生相同的效果：通过往面团中注入高压气体并在烘烤过程中释放压力，这是他们制造聚氨酯的一种方法。共同作者、材料科学家 Rossana Pasquino 表示：“目的是尝试在没有化学制剂的情况下制作出我们深爱的披萨口感。”最终结果：Di Maio 表示，“我们试过了，它很好吃，外皮有点硬，内里很软。”
-
-
-佛罗伦萨大学的食品技术专家 Alessio Cappelli 说这篇论文“很有趣”，但他好奇这种方法是否会得到广泛应用，因为面包酵母价格如此低廉，使用又很方便。他表示：“这看起来像是为了创新而创新。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列曾因担心惹恼俄罗斯而阻止乌克兰购买间谍软件 Pegasus]]></title>
-        <id>https://www.solidot.org/story?sid=71057</id>
-        <link href="https://www.solidot.org/story?sid=71057"/>
-        <updated>2022-03-25T07:04:48.000Z</updated>
-        <summary type="html"><![CDATA[以色列在俄罗斯和乌克兰战争中的立场引发了很多争议。据《卫报》等媒体援引知情人士的消息报道，以色列曾因担心惹恼俄罗斯而阻止乌克兰购买 NSO Group 的间谍软件 Pegasus。Pegasus 是一种非常先进的黑客工具，能用于监听目标用户的手机，它的滥用让 NSO Group 成为隐私和人权侵犯案件的焦点。乌克兰曾在 2019 年游说以色列允许它购买 Pegasus，但被色列国防部监管的 NSO Group 从未被允许向乌克兰推销或销售该间谍软件。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[粉丝发现 Windows 1.0 彩蛋]]></title>
-        <id>https://www.solidot.org/story?sid=71056</id>
-        <link href="https://www.solidot.org/story?sid=71056"/>
-        <updated>2022-03-25T06:23:11.000Z</updated>
-        <summary type="html"><![CDATA[在 Windows 1.0 发布近 37 年之后，狂热粉丝 Lucas Brooks 发现了一个复活节彩蛋。彩蛋藏在一个笑脸位图文件中，包含了开发者名单和一个祝贺信息（congratulations）。开发者名单是加密的，提取数据所需要的工具在 Windows 1.0 时代还不存在。在开发者名单中，有一个人在 PC 游戏玩家中非常出名，他就是 Valve 联合创始人 Gabe Newell。Gabe Newell 是在哈佛辍学后在微软开始职业生涯，参与开发了 Windows 系统的前三个版本，领导了 Doom 的 Windows 移植。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国警方逮捕与 Lapsus$ 黑客组织有关联的 7 人]]></title>
-        <id>https://www.solidot.org/story?sid=71055</id>
-        <link href="https://www.solidot.org/story?sid=71055"/>
-        <updated>2022-03-25T05:37:43.000Z</updated>
-        <summary type="html"><![CDATA[英国警方逮捕了与 Lapsus$ 黑客组织有关联的 7 名嫌疑人。他们的年龄在 16 到 21 岁，现已经释放，警方表示调查还在继续。在这之前，一名住在英国牛津的少年被怀疑是 Lapsus$ 的主谋。这位名叫 WhiteDoxbin 的少年曾购买了一个专门曝光和分享个人身份信息的网站 Doxbin，但因为管理不善最终将网站转让给了原拥有者，但在放弃前他通过 Telegram 公开了整个 Doxbin 网站数据集，作为报复 Doxbin 社区公开了 WhiteDoxbin 的个人信息，包括家庭地址、社会媒体照片，其父母的信息。警方没有确认这位少年是否在被捕名单之中。Lapsus$ 的活动都是在  Telegram 频道进行，几乎没有掩盖其痕迹。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automa – 浏览器自动化扩展：自动填写表格、执行重复性任务、截图或读取网站数据]]></title>
-        <id>https://www.appinn.com/?p=41771</id>
-        <link href="https://www.appinn.com/automa/"/>
-        <updated>2022-03-25T03:50:09.000Z</updated>
-        <summary type="html"><![CDATA[Automa 是一个免费、开源的 Chrome 扩展，它通过目前流行的 No Code 无代码方式，只需要拖拽模块就实现了浏览器自动化，比如自动填写表格、执行重复性任务、截图或读取网站数据。@Appi]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟达成数字市场法案临时协议]]></title>
-        <id>https://www.solidot.org/story?sid=71054</id>
-        <link href="https://www.solidot.org/story?sid=71054"/>
-        <updated>2022-03-25T03:15:13.000Z</updated>
-        <summary type="html"><![CDATA[欧盟国家和欧盟立法者周四就限制科技巨头的里程碑式规则达成了临时协议，Google、亚马逊、苹果、Meta 和微软可能不得不改变它们在欧洲的核心商业行为。《数字市场法案》(DMA)为控制数据和平台访问的门户网络公司制定了规则。它将涵盖在线中介服务、社交网络、搜索引擎、操作系统、在线广告服务、云计算、视频分享服务、网络浏览器和虚拟助理的门户企业。根据 DMA 的规则，科技巨头将必须使他们的信息服务具有互操作性，允许企业用户访问数据。在平台上，企业用户能够推广与该平台竞争的产品和服务，也可以与平台外的客户达成交易。这些规则禁止科技公司偏袒自有服务和压制竞争对手，或阻止用户删除预装软件或应用程序。DMA 将适用于市值达到 750 亿欧元、年营收达 75 亿欧元而且月度用户至少 4,500 万的公司。违规公司将面临高达其全球年营收 10% 的罚款，如果再犯则提高至 20%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 200 期）：低期望，多尝试]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/03/weekly-issue-200.html"/>
-        <updated>2022-03-25T00:31:26.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青年带着比特币 U 盘逃离战争]]></title>
-        <id>https://www.solidot.org/story?sid=71053</id>
-        <link href="https://www.solidot.org/story?sid=71053"/>
-        <updated>2022-03-24T15:44:11.000Z</updated>
-        <summary type="html"><![CDATA[一名 20 岁的乌克兰青年带着比特币存款逃离战火抵达波兰。他的比特币存款装在 U 盘里。从战争爆发之初，这名叫 Fadey 的男子认识到他需要尽快逃离，但逃离需要钱，而现金基本不可能，因为自动取款机前等待取款的队伍太长，他等不及了。他的 U 盘里有价值 2000 美元的比特币，相当于其积蓄的四成，足够他在另一个国家短暂使用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17 岁少年被怀疑是 Lapsus$ 主谋]]></title>
-        <id>https://www.solidot.org/story?sid=71052</id>
-        <link href="https://www.solidot.org/story?sid=71052"/>
-        <updated>2022-03-24T14:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Lapsus$ 组织最近成功入侵了多家知名企业，其中包括英伟达和微软。安全研究人员在调查后认为，住在英国牛津与母亲生活在一起的 17 岁少年是 Lapsus$ 的主谋。Lapsus$ 窃取到了部分微软产品源代码，但源代码的下载并没有完成，黑客在完成下载前就在其 Telegram 频道披露了消息，让微软有机会终止下载。LAPSUS$ 的活动至少是从 2021 年 11 月开始，一名核心成员使用了化名 Oklaqq 和 WhiteDoxbin 在 Reddit 上招募企业内部人士，以一周最高付费 2 万美元进行收买。LAPSUS$ 没有建立暗网网站，其运作完全是通过其 Telegram 频道。WhiteDoxbin 曾收购了一个专门曝光个人身份信息的网站 Doxbin，但因为管理不善最终将网站亏损转让给了原拥有者，但在放弃前他通过 Telegram 公开了整个 Doxbin 网站数据集，作为报复 Doxbin 用户公开了 WhiteDoxbin 的个人信息，包括从他家外面拍摄的视频。Doxbin 用户透露 WhiteDoxbin 通过买卖 0day 漏洞发家，积累了超过 300BTC，价值约 1400 万美元。由于他的年龄只有 17 岁，尚未受到正式指控，媒体没有公开他的名字，但去了他的家询问了他的母亲。其母表示对其活动不知情，表示家庭受到骚扰，拒绝让儿子接受采访，称正在联络警方。Lapsus$ 的另一名成员被认为是住在巴西的少年。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客利用 WPS 漏洞攻击博彩公司]]></title>
-        <id>https://www.solidot.org/story?sid=71051</id>
-        <link href="https://www.solidot.org/story?sid=71051"/>
-        <updated>2022-03-24T13:45:05.000Z</updated>
-        <summary type="html"><![CDATA[安全公司 Avast 的研究人员发表报告《Operation Dragon Castling》，称攻击者利用金山办公软件 WPS Office 的漏洞，攻击东南亚尤其是台湾香港菲律宾的博彩公司。鉴于攻击者的娴熟技术和使用的先进工具，研究人员怀疑是某个 APT 组织在搜集情报或获取经济利益。攻击者使用的策略包括向目标公司的支持团队发送邮件，要求他们检查软件的 bug，邮件附带了一个感染了病毒的安装程序。攻击者使用的另一种方法是假的 WPS 更新程序 wpsupdate.exe，该更新程序从属于金山的域名 update.wps[.]cn 下载，但域名对应的 IP 地址 103.140.187.16 不属于金山公司所有。研究人员猜测是它是攻击者使用的假更新服务器。该更新程序会通过侧加载（sideloading）安装两个恶意程序建立后门控制被感染计算机。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
