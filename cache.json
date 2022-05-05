@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42135",
+          "author": "青小蛙",
+          "description": "lichess.org 是一个免费的在线国际象棋游戏，有多达 6 万名棋手同时在线，开启了 2 万多场对决。@Appinn 来自发现频道，老朋友 @阿韬的推荐： lichess.org –",
+          "link": "https://www.appinn.com/lichess-org/",
+          "publishedOn": "2022-05-04T10:10:57.000Z",
+          "wordCount": 540,
+          "title": "lichess.org – 免费在线国际象棋，可跟陌生人匹配，可与好友间约架，还可以虐电脑",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/lichess-org.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=42130",
+          "author": "青小蛙",
+          "description": "Infinite minesweeper 是一款在线扫雷游戏，可以无限扫雷，摸鱼一整天。@Appinn 来自发现频道，感谢阿韬的推荐： Infinite minesweeper 一个划水摸鱼的在线游戏",
+          "link": "https://www.appinn.com/infinite-minesweeper/",
+          "publishedOn": "2022-05-04T05:02:18.000Z",
+          "wordCount": 557,
+          "title": "Infinite minesweeper – 无限扫雷，摸鱼一整天",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/infinite-minesweeper.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42125",
           "author": "青小蛙",
           "description": "前几天，有同学给青小蛙推荐了一个 Windows 下野生的文字转语音工具：Read Aloud by asup – 基于微软自然语音的文本转语音工具，使用效果优异，但主要问题是大量杀毒软件报毒。而评论",
@@ -365,21 +385,6 @@
           "wordCount": 746,
           "title": "Excalidraw – 手绘风格的开源白板工具，海量第三方图形素材库，可自托管",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/04/excalidraw.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=41852",
-          "author": "青小蛙",
-          "description": "来自微信的同学提问：请问有没有B站网页版自动全屏的插件呀？每次都要点那个按钮好麻烦……而双击的话容易点到某条弹幕导致双击失败。 这是一个第一眼看到没有卵用，但转念一想又十分有用的需求，毕竟偷懒是第一生",
-          "link": "https://www.appinn.com/bili-auto-full-screen/",
-          "publishedOn": "2022-04-05T09:47:27.000Z",
-          "wordCount": 623,
-          "title": "请问有没有 B 站网页版自动全屏的插件呀",
-          "enclosure": {
-            "url": "https://www.appinn.com/wp-content/uploads/2022/04/ezgif.com-gif-maker-19.mp4",
-            "length": "436232",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/04/bili-auto-full-screen.jpgo_.jpg"
         }
       ]
     },
@@ -388,6 +393,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=365510",
+          "author": "Adam Rackis",
+          "description": "So, you’ve decided to build a blog with Next.js. Like any dev blogger, you’d like to have code snippets in your posts that are formatted nicely with syntax highlighting. Perhaps you also want to display line numbers in the …\nSyntax Highlighting (and More!) With Prism on a Static Site originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/syntax-highlighting-prism-on-a-next-js-site/",
+          "publishedOn": "2022-05-04T14:16:43.000Z",
+          "wordCount": 2726,
+          "title": "Syntax Highlighting (and More!) With Prism on a Static Site",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365510"
+        },
         {
           "id": "https://css-tricks.com/?p=364932",
           "author": "Nick Sypteras",
@@ -487,16 +502,6 @@
           "wordCount": 1552,
           "title": "Add a CSS Lens Flare to Photos for a Bright Touch",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364385"
-        },
-        {
-          "id": "https://css-tricks.com/?p=364166",
-          "author": "Adam Rackis",
-          "description": "Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …\nAdding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/adding-cdn-caching-to-a-vite-build/",
-          "publishedOn": "2022-04-04T18:25:23.000Z",
-          "wordCount": 1354,
-          "title": "Adding CDN Caching to a Vite Build",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364166"
         }
       ]
     },
@@ -589,6 +594,66 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71424",
+          "author": null,
+          "description": "因为俄乌战争，好莱坞电影公司也暂停了在俄罗斯的生意，停止发行新电影。俄罗斯电影院行业协会表示，由于本国电影在质量和数量上不足以满足消费者需求，整个电影行业濒临崩溃，它呼吁政府提供帮助。虽然还不知道政府是否提供了帮助，但部分电影院已经采取了极端行动：放映盗版电影。在四月中旬，俄罗斯流行社媒平台 VK 和 Telegram 等发表的帖子显示，有电影院上映了没有在俄罗斯发行的好莱坞电影，其中包括华纳的蝙蝠侠、Netflix 的《不要抬头》以及 Pixar 的 I’m Blushing。这些电影都是从 BT 网站上下载的盗版版本。",
+          "link": "https://www.solidot.org/story?sid=71424",
+          "publishedOn": "2022-05-04T11:19:39.000Z",
+          "wordCount": 83,
+          "title": "俄罗斯电影院放映盗版电影",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71423",
+          "author": null,
+          "description": "墨者实验室 写道 \"本次发布主要改善了用户体验，修复了若干严重的错误。\n\n马上下载：https://gitee.com/XmacsLabs/mogan/releases/v1.0.2\n主要变更：\n① 中国美院的鹿尔尔女士创作了全新的软件图标\n② 文档入口 帮助->墨干 直接加载远程文档\n③ 主要错误修复：LaTeX导入和导出、分段函数在CJK语言文档中的排版、gnuplot折叠会话\n\n\n小巧精美的绘图软件欧几里得(Eukleides)会在墨干编辑器V1.1.0之前完成内置。\"",
+          "link": "https://www.solidot.org/story?sid=71423",
+          "publishedOn": "2022-05-04T10:31:53.000Z",
+          "wordCount": 84,
+          "title": "墨干编辑器V1.0.2发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71422",
+          "author": null,
+          "description": "根据 StatCounter 的数据，Microsoft Edge 超过苹果的 Safari 成为第二流行的桌面浏览器。在桌面浏览器市场，Microsoft Edge 的使用率为 10.07%，高于 Safari 的 9.61%，Google Chrome 第一占 66.64%，Mozilla Firefox 第四占 7.86%。Microsoft Edge 是 Windows 11 默认使用的浏览器。移动浏览器市场则是另一种情况，Edge 未进入前六，Chrome 和 Safari 牢牢占据了前两位，相比其它竞争对手领先优势巨大：Chrome 占 62.87%，Safari 占 25.35%，第三位 Samsung Internet 只有 4.9%。",
+          "link": "https://www.solidot.org/story?sid=71422",
+          "publishedOn": "2022-05-04T10:14:31.000Z",
+          "wordCount": 110,
+          "title": "Microsoft Edge 成为第二流行的桌面浏览器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71421",
+          "author": null,
+          "description": "Mozilla 庆祝 Firefox 浏览器第一百个版本的发布。Mozilla 是在 2004 年发布了 Firefox 1.0 版本，Firefox 100 的新特性包括：画中画功能支持字幕，移动版本加入了新的墙纸，移动版本的历史和标签组织更整洁了，Android 版本支持 HTTPS-only 模式，更容易切换首选语言，更多国家和地区支持信用卡自动填写，等等。",
+          "link": "https://www.solidot.org/story?sid=71421",
+          "publishedOn": "2022-05-04T09:36:17.000Z",
+          "wordCount": 92,
+          "title": "Firefox 100 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71420",
+          "author": null,
+          "description": "微软宣布开源 3D Movie Maker，源代码采用 MIT 许可证发布在 GitHub 上。3D Movie Maker 是微软在 1995 年发布的儿童计算机程序，用户可以将 3D 人物和道具放置在预渲染环境，添加动作、声效、音乐、文字、语音和特效去制作电影。著名的 Comic Sans 字体最早就是在 3D Movie Maker 中引入的。",
+          "link": "https://www.solidot.org/story?sid=71420",
+          "publishedOn": "2022-05-04T06:49:56.000Z",
+          "wordCount": 98,
+          "title": "微软开源 3D Movie Maker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71419",
+          "author": null,
+          "description": "华尔街日报援引知情人数的消息报道，同意以 440 亿美元将 Twitter 私有化的马斯克(Elon Musk)告诉潜在投资者，他可以在短短几年内将这家社交媒体公司重新上市。马斯克表示，他计划在收购 Twitter 后最短三年内就为其再次进行首次公开募股(IPO)。私有化交易预计将在今年晚些时候完成，但要满足包括 Twitter 股东和监管机构批准在内的条件。",
+          "link": "https://www.solidot.org/story?sid=71419",
+          "publishedOn": "2022-05-04T06:12:21.000Z",
+          "wordCount": 84,
+          "title": "马斯克计划几年后 Twitter 重新上市",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71418",
           "author": null,
@@ -3148,36 +3213,6 @@
           "wordCount": 105,
           "title": "为鼓励员工回办公室 Google 将免费提供电动滑板车",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71159",
-          "author": null,
-          "description": "WHO 的数据显示，几乎全球人口（99%）呼吸的空气都超过了世卫组织的空气质量限制，威胁着他们的健康。在监测空气质量的 117 个国家中，高收入国家 17% 的城市空气质量低于WHO PM2.5 或 PM10 的空气质量指南。在中低收入国家，不到 1% 的城市空气质量符合世卫组织建议的阈值。从全球来看，与全球平均水平相比，中低收入国家仍然更多地暴露于不健康的 PM 水平，但 NO2(二氧化氮是一种常见的城市污染物，也是颗粒物和臭氧的前体) 模式有所不同，表明高收入和低收入及中等收入国家之间的差异较小。74 个国家的大约 4000 个城市/人类住区在地面收集 NO2 数据。总的来说，其测量结果表明，这些地方只有 23% 的人吸入的二氧化氮的年平均浓度符合世卫组织空气质量指南最新版本的水平。",
-          "link": "https://www.solidot.org/story?sid=71159",
-          "publishedOn": "2022-04-05T05:23:13.000Z",
-          "wordCount": 95,
-          "title": "WHO 称数十亿人仍呼吸着不健康的空气",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71158",
-          "author": null,
-          "description": "《堡垒之夜》的开发商 Epic Games 上个月宣布将游戏在 3 月 20 日到 4 月 3 日之间的收入捐给人道主义救援组织。现在它公布了过去半个月筹集到的善款：1.44 亿美元。这是游戏行业至今筹集到的最大一笔善款，此前 Humble 乌克兰慈善包义卖筹集到 2000 多万美元，itch.io 的 Bundle for Ukraine 慈善包共筹集 637 万美元。《堡垒之夜》是过去几年最受欢迎的大逃杀类游戏，有数以千万计的用户。",
-          "link": "https://www.solidot.org/story?sid=71158",
-          "publishedOn": "2022-04-05T03:13:54.000Z",
-          "wordCount": 99,
-          "title": "《堡垒之夜》为人道主义救援筹集到 1.44 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71157",
-          "author": null,
-          "description": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 5.18-rc1，标志着合并窗口关闭。主要新特性包括：调度器更新增强 AMD EPYC 服务器性能，支持英特尔的 Hardware Feedback Interface，支持受争议的英特尔 Software Defined Silicon，支持英特尔 Indirect Branch Tracking (IBT) ，AMD HSMP 驱动，改进 AMD 嵌套虚拟化，AMD 新音频代码，AMD Zen 4 处理器的预备工作，RISC-V Sv57 虚拟内存支持，默认启用 AMDGPU FreeSync Video Mode，等等。",
-          "link": "https://www.solidot.org/story?sid=71157",
-          "publishedOn": "2022-04-04T14:36:02.000Z",
-          "wordCount": 107,
-          "title": "Linux 5.18-rc1 释出",
-          "imageUrl": null
         }
       ]
     },
@@ -3281,26 +3316,6 @@
           "wordCount": 44,
           "title": "[文章] 聊下俄罗斯天然气--对解决中国东北地区缺煤少气的问题非常有利",
           "imageUrl": "https://pic2.zhimg.com/v2-fbfdf6aa0fa3c83a2a047782fb04b4ab_720w.jpg?source=172ae18b"
-        },
-        {
-          "id": "https://zhuanlan.zhihu.com/p/493241761",
-          "author": "宁南山",
-          "description": "华为3月28日公布了2021年的财报，营收6368亿元人民币，同比下滑28.6%，其中中国市场下跌还多一点，达到了30.9%，实现净利润1137亿元，同比增长75.9%。\n这样2020年的8914亿元营收就成了华为目前的历史巅峰，\n同样的2021年华为的1137亿元净利润也是华为的历史净利润巅峰。\n不过这高的离谱的净利润主要是跟荣耀和超聚变（X86服务器业务）的出售有很大关系。\n下图中“处置子公司及业务的净收益”2021年达到了574.31亿人民币。\n另外2021年华为销售与管理费用同比降低93亿元，也导致了净利润的增长。\n从财报看华为2022年现状\n华为是在2020年11月签署协议出售荣耀的，而华为消费者业务2021年实现销售收入2434亿元，同比下滑49.60%，这里面的下滑很大一部分是来自荣耀出售了，如果考虑到这个因素，华为消费者业务的下滑并没有那么大。\nCINNOResearch公布荣耀2020年在中国市场的销量为4380万台，而荣耀在海外还有不少销量，例如在俄罗斯，2020年荣耀有15%的份额，可以很容易算出荣耀是一家营收数百亿人民币甚至可能上千亿人民币的大公司,这一块没了当然会影响到华为的总体营收。\n从财报看华为2022年现状\n另外值得一提的是2021年华为的可穿戴设备、TWS耳机、智慧屏等在2021年营收增长均超过30%。\n其实看到这里我想到的还是芯片问题，为什么华为这些小产品在2021年还能实现营收增长呢？华为不是已经买不到芯片了吗？我想主要原因还是因为这些产品出货量都不大，\n以TWS耳机为例子，根据旭日大数据的报告，2021年全球TWS耳机出货为4.9亿对，而除掉白牌耳机，品牌耳机销量仅为3.23亿对。\n而在品牌TWS耳机里面，华为的销量也不高，2021年Q4份额仅为3.48%，排全球第八位，而第一位的苹果则高达42.76%.看出货量的话华为在这个季度仅为…",
-          "link": "https://zhuanlan.zhihu.com/p/493241761",
-          "publishedOn": "2022-04-05T02:52:42.000Z",
-          "wordCount": 42,
-          "title": "[文章] 从财报看华为2022年的现状",
-          "imageUrl": "https://pica.zhimg.com/v2-a249b68fa36e4641236d8609203c17ac_720w.jpg?source=172ae18b"
-        },
-        {
-          "id": "https://www.zhihu.com/pin/1494437443403575296",
-          "author": "宁南山",
-          "description": "山西的重工业：煤炭--钢铁产量一直在全国前五位\n我国山西省的工业长期以重工业为主，我根据国家统计局发布的《新中国六十年统计资料汇编》，发现山西省居然从建国初到2021年一直保持了煤炭--钢铁产量全国前五位的水平。\n可以说山西是我国一直的煤-钢工业体系大省。\n先说煤产量，\n1949年山西煤产量267万吨，仅次于辽宁（539.6万吨），河北（495万吨），黑龙江（461万吨）排全国第四位；\n1952年山西煤产量994万吨，超过黑龙江的615万吨，仅次于辽宁（1176.6万吨），河北（997万吨）排全国第三；\n1958年山西煤产量3715万吨，超过了河北，仅次于辽宁的3834.4万吨位居全国第二位。\n而今天山西的煤产量也是全国前两位的水平，和内蒙交替坐庄老大的位置。\n这里面注意一下建国初河北省的煤产量排名也在全国前三位.\n再说钢铁工业，建国以来山西省的钢产量一直在全国前五位的水平。\n钢铁工业方面山西省1949年钢产量1.22万吨全国第二位，仅次于拥有鞍钢的辽宁省（11.4万吨），\n1952年钢产量山西达到9.22万吨，仍居全国第二位，第一位为辽宁的94.1万吨，这一年太原钢铁厂炼出全国第一炉不锈钢；\n1958年钢产量山西42万吨，仅次于辽宁（470.1万吨），上海（122.26万吨）和重庆（47.43万吨），位居全国第四位。\n而到2021年山西省钢产量仍然是全国第五位，仅次于河北，江苏，山东，辽宁省。\n山西旁边的河北省，建国初煤产量就是全国前三位，同时河北省铁矿石储量丰富，虽然储量低于辽宁和四川，但更容易开采，河北省后来在1997年跃居我国铁矿石产量第一大省，直接带动了钢铁产量跃居全国第一位，也搞成了煤钢体系。\n2010-2020年东北，山西，河北是近年来全国人均GDP排名下滑幅度最大的三个地区，而三个地区恰好都是国内的重工业发达地区，所以产业转型或者说新兴产业的发展乃是地区发展的重中之重。",
-          "link": "https://www.zhihu.com/pin/1494437443403575296",
-          "publishedOn": "2022-04-04T14:14:11.000Z",
-          "wordCount": 10,
-          "title": "[想法] 山西的重工业：煤炭--钢铁产量一直在全国…",
-          "imageUrl": null
         }
       ]
     },
@@ -3478,16 +3493,6 @@
           "publishedOn": "2022-04-12T03:09:28.000Z",
           "wordCount": 12,
           "title": "[想法] 希望不要被挂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zhihu.com/pin/1494567998950711296",
-          "author": "Anthony Fu",
-          "description": "知乎，中文互联网高质量的问答社区和创作者聚集的原创内容平台，于 2011 年 1 月正式上线，以「让人们更好的分享知识、经验和见解，找到自己的解答」为品牌使命。知乎凭借认真、专业、友善的社区氛围、独特的产品机制以及结构化和易获得的优质内容，聚集了中文互联网科技、商业、影视、时尚、文化等领域最具创造力的人群，已成为综合性、全品类、在诸多领域具有关键影响力的知识分享社区和创作者聚集的原创内容平台，建立起了以社区驱动的内容变现商业模式。",
-          "link": "https://www.zhihu.com/pin/1494567998950711296",
-          "publishedOn": "2022-04-04T22:52:58.000Z",
-          "wordCount": 11,
-          "title": "[想法] [想法的图片]",
           "imageUrl": null
         }
       ]
