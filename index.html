@@ -241,8 +241,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-08 datetime="2022-05-08T00:41:58.000Z">2022-05-08</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-08 datetime="2022-05-08T00:41:58.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-09 datetime="2022-05-09T01:37:31.000Z">2022-05-09</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-09 datetime="2022-05-09T01:37:31.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -257,6 +257,644 @@
                   <a class="source-heading__link" href="https://www.nytimes.com/section/world">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.nytimes.com/2022/05/08/world/europe/bomb-sniffing-dog-patron-zelensky.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Ukrainian Bomb-Sniffing Dog Named Patron Honored by Zelensky</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nytimes.com/2022/05/08/world/europe/bomb-sniffing-dog-patron-zelensky.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static01.nyt.com/images/2022/05/08/world/08ukraine-blog-patron-dog-2/08ukraine-blog-patron-dog-2-facebookJumbo.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Patron has found more than 200 explosives, President Zelensky said. The dog has gone viral as Ukraine wages an information war.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >黄子毅 - 知乎动态</button>
+                  <a class="source-heading__link" href="https://www.zhihu.com/people/huang-zi-yi-83">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zhuanlan.zhihu.com/p/511389069"
+                        open
+                      >
+                        <summary class="article-expander__title">[文章] 精读《JS 数组的内部实现》</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zhuanlan.zhihu.com/p/511389069">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>每个 JS 执行引擎都有自己的实现，我们这次关注 V8 引擎是如何实现数组的。
+本周主要精读的文章是 How JavaScript Array Works Internally?，比较简略的介绍了 V8 引擎的数组实现机制，笔者也会参考部分其他文章与源码结合进行讲解。
+概述
+JS 数组的内部类型有很多模式，如：
+
+PACKED_SMI_ELEMENTS
+PACKED_DOUBLE_ELEMENTS
+PACKED_ELEMENTS
+HOLEY_SMI_ELEMENTS
+HOLEY_DOUBLE_ELEMENTS
+HOLEY_ELEMENTS
+
+PACKED 翻译为打包，实际意思是 “连续有值的数组”；HOLEY 翻译为孔洞，表示这个数组有很多孔洞一样的无效项，实际意思是 “中间有孔洞的数组”，这两个名词是互斥的。
+SMI 表示数据类型为 32 位整型，DOUBLE 表示浮点类型，而什么类型都不写，表示数组的类型还杂糅了字符串、函数等，这个位置上的描述也是互斥的。
+所以可以这么去看数组的内部类型：[PACKED, HOLEY]_[SMI, DOUBLE, &#x27;&#x27;]_ELEMENTS。
+最高效的类型 PACKED_SMI_ELEMENTS
+一个最简单的空数组类型默认为 PACKED_SMI_ELEMENTS：
+
+const arr &#x3D; [] // PACKED_SMI_ELEMENTS
+
+
+PACKED_SMI_ELEMENTS 类型是性能最好的模式，存储的类型默认是连续的整型。当我们插入整型时，V8 会给数组自动扩容，此时类型还是 PACKED_SMI_ELEMENTS：
+
+const arr &#x3D; [] // PACKED_SMI_ELEMENTS
+arr.push(1) // PACKED_SMI_ELEMENTS
+
+
+或者直接创建有内容的数组，也是这个类型：
+
+const a…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >BBC News - World</button>
+                  <a class="source-heading__link" href="https://www.bbc.co.uk/news/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-europe-61374008"
+                        open
+                      >
+                        <summary class="article-expander__title">Ukraine war: First ladies meet as US announces new sanctions</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-europe-61374008?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/13906/production/_124643108_mediaitem124643104.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The US first lady met her Ukrainian counterpart as Washington sanctions 2,600 individuals.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-05-08 datetime="2022-05-08T23:26:12.000Z">2022-05-08</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-05-08 datetime="2022-05-08T23:26:12.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >BBC News - World</button>
+                  <a class="source-heading__link" href="https://www.bbc.co.uk/news/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-africa-61318785"
+                        open
+                      >
+                        <summary class="article-expander__title">Nigeria&#x27;s Looty seeks to reclaim African art in digital form</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-africa-61318785?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/31BC/production/_124423721_mediaitem124429596.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A Nigerian designer is making NFTs of African artefacts in Western museums to help local artists.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-africa-61374718"
+                        open
+                      >
+                        <summary class="article-expander__title">Nigerian airlines suspend plans to ground flights</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-africa-61374718?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/15BB5/production/_124631098_gettyimages-1238915286_976549.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Plans to stop domestic flights in protest at the spiralling cost of aviation fuel have been suspended.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-asia-61331859"
+                        open
+                      >
+                        <summary class="article-expander__title">From handshakes to hostilities: How dangerous is the situation in North Korea?</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-asia-61331859?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/13026/production/_124626877_final_korea_promov2.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>South Korea&#x27;s incoming president promises to take a hard line on North Korea’s military escalations.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-asia-61344609"
+                        open
+                      >
+                        <summary class="article-expander__title">Philippines election: Marcos family eye return to power as country votes</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-asia-61344609?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/67A6/production/_124643562_mediaitem124643159.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Millions are casting their vote in an election that could see the Marcos family sweep back into office.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/entertainment-arts-61347805"
+                        open
+                      >
+                        <summary class="article-expander__title">Ukraine war: Artist George Butler sketches conflict</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/entertainment-arts-61347805?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/6921/production/_124631962_p0c5gf5b.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Artist George Butler has recently returned to the UK after a month spent in Ukraine.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-europe-61369229"
+                        open
+                      >
+                        <summary class="article-expander__title">Ukraine war: 60 people killed after bomb hits school, Zelensky says</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-europe-61369229?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/EE2D/production/_124637906_af85e418-54eb-430e-ad14-ece0d00f4e42.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>About 90 people had been sheltering in the building which Ukraine says was hit by a Russian bomb.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/uk-61373057"
+                        open
+                      >
+                        <summary class="article-expander__title">UK YouTuber Benjamin Rich quizzed and fined at Russian space centre</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/uk-61373057?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/18545/production/_124635699_tv030559077.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Bald and Bankrupt vlogger Benjamin Rich says he was questioned by Russian police in Kazakhstan.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-asia-61373192"
+                        open
+                      >
+                        <summary class="article-expander__title">Sri Lanka: The protests unifying a nation where ethnic fault lines run deep</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-asia-61373192?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/1218C/production/_124642147_p0c5m69x.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Unprecedented protests in Colombo are unifying a nation where ethnic fault lines run deep.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-europe-61373349"
+                        open
+                      >
+                        <summary class="article-expander__title">Ukraine war: Bono sings with soldier in Kyiv metro station</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-europe-61373349?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/13BA4/production/_124640808_p0c5m0v5.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The U2 frontman was seen singing at a downtown metro station covering the hit track Stand by Me.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-europe-61370906"
+                        open
+                      >
+                        <summary class="article-expander__title">War in Ukraine: Zelensky WW2 speech accuses Russia of Nazi atrocities</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-europe-61370906?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/1635D/production/_124637909_zelensky.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The Ukrainian leader compares Russia&#x27;s invasion of his country to wartime Nazi bombings.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/business-61370175"
+                        open
+                      >
+                        <summary class="article-expander__title">EasyJet to take out seats so it can fly with fewer crew</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/business-61370175?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/29CC/production/_112900701_easy.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The airline plans to remove a row of seats so that it can fly with fewer cabin crew on board.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-middle-east-61370905"
+                        open
+                      >
+                        <summary class="article-expander__title">Two held in manhunt for axe attackers who killed three Israelis</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-middle-east-61370905?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/1192F/production/_124638917_hi075803571.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Israeli police say the Palestinians were found hiding in bush near Elad where the attack took place.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-europe-61351772"
+                        open
+                      >
+                        <summary class="article-expander__title">Ukraine war: Returning to the place my father was killed</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-europe-61351772?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/14945/production/_124639248_p0c5l7n9.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>As Vadim and his father tried to rescue their dogs, they were fired upon by a convoy they believe was Russian.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-europe-61365365"
+                        open
+                      >
+                        <summary class="article-expander__title">Ukraine war: Rebuilt Kyiv railway bridge a symbol of hope</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-europe-61365365?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/724F/production/_124636292_p0c5jkgr.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A railway bridge close to Kyiv has been rebuilt, just a month after it was destroyed by Russian attacks.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.bbc.co.uk/news/world-europe-61361827"
+                        open
+                      >
+                        <summary class="article-expander__title">Ukraine war: &#x27;If this is true, then I am also a Nazi&#x27;</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.bbc.co.uk/news/world-europe-61361827?at_medium&#x3D;RSS&amp;at_campaign&#x3D;KARANGA">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://ichef.bbci.co.uk/news/1024/branded_news/C7A9/production/_124631115_dmytro.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Holocaust survivors in the Ukrainian city of Uman feel insulted by Russian claims to be fighting Nazis.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >NYT &gt; World News</button>
+                  <a class="source-heading__link" href="https://www.nytimes.com/section/world">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.nytimes.com/2022/05/08/briefing/putin-victory-day-russia-hong-kong-lee.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Your Monday Briefing: Russia’s Pre-Holiday Push</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nytimes.com/2022/05/08/briefing/putin-victory-day-russia-hong-kong-lee.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static01.nyt.com/images/2022/05/09/multimedia/09ambriefing-asia-nl-PROMO/09ambriefing-asia-nl-victory-Day-facebookJumbo.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Plus Hong Kong’s new leader and a Taliban decree targeting women’s dress.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.nytimes.com/2022/05/08/world/americas/brazil-russian-fertilizer-sanctions.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Brazil Replenishes Stockpiles of Russian Fertilizer</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nytimes.com/2022/05/08/world/americas/brazil-russian-fertilizer-sanctions.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static01.nyt.com/images/2022/05/03/world/00brazil-fertilizer1/00brazil-fertilizer1-facebookJumbo.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Officials expected the war to trap up to 15 percent of the world’s fertilizer exports in Russia. But Brazil and other countries have found a way to get it.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.nytimes.com/video/world/europe/100000008339929/jill-biden-ukraine-first-lady.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Zelensky’s Wife Thanks Jill Biden for ‘Courageous’ Trip to Ukraine</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nytimes.com/video/world/europe/100000008339929/jill-biden-ukraine-first-lady.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static01.nyt.com/images/2022/05/08/world/08ukraine-blog-jillbiden/08ukraine-blog-jillbiden-facebookJumbo.jpg?video-overlay?video-overlay" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>In an unannounced trip to Ukraine, Dr. Jill Biden, the first lady, met with Ukraine’s first lady, Olena Zelenska, in a town a few miles away from the border with Slovakia.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.nytimes.com/2022/05/08/world/europe/g7-nations-russia-oil.html"
+                        open
+                      >
+                        <summary class="article-expander__title">G7 Nations Pledge to Ban or Phase Out the Import of Russian Oil</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nytimes.com/2022/05/08/world/europe/g7-nations-russia-oil.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static01.nyt.com/images/2022/05/08/world/08ukraine-blog-g7-meeting01/08ukraine-blog-g7-meeting01-facebookJumbo.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>With much of Europe dependent on Russian oil, the Group of 7 said the ban would take effect in a “timely and orderly fashion.”</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Hundreds of Suicidal Teens Sleep in Emergency Rooms. Every Night.</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nytimes.com/2022/05/08/health/emergency-rooms-teen-mental-health.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static01.nyt.com/images/2022/05/02/science/00ADOLESCENT-EMERGENCY1/merlin_206241084_d48a37b5-b2d1-4860-bc2a-05ee6d82e276-facebookJumbo.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>With inpatient psychiatric services in short supply, adolescents are spending days, even weeks, in hospital emergency departments awaiting the help they desperately need.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html"
+                        open
+                      >
+                        <summary class="article-expander__title">A U.N. Agency Gave $61 Million to One Family. It Didn’t Go Well.</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static01.nyt.com/images/2022/05/07/us/politics/07dc-un-money1/07dc-un-money1-facebookJumbo.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A little-known United Nations agency decided to make an impact by doling out loans and grant money — all to a single family. It did not go well.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.nytimes.com/2022/05/08/world/europe/russia-airstrike-school-ukraine.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Dozens Feared Dead After Russian Airstrike Hits School Building, Officials Say</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nytimes.com/2022/05/08/world/europe/russia-airstrike-school-ukraine.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static01.nyt.com/images/2022/05/08/world/08ukraine-blog-school-bomb-01/08ukraine-blog-school-bomb-01-facebookJumbo.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Initial reports suggested that as many as 60 people were trapped inside the building, which officials said was being used as a shelter for civilians.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.nytimes.com/2022/05/08/briefing/ed-koch-gay-new-york.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Ed Koch’s Secret</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nytimes.com/2022/05/08/briefing/ed-koch-gay-new-york.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static01.nyt.com/images/2022/05/08/multimedia/08THE-AM-Sun-promo/08THE-AM-Sun-lede-Koch-facebookJumbo.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>He defined the role of a big-city mayor, but his personal secret affected his response to a major crisis.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.nytimes.com/2022/05/08/books/fernanda-melchor-paradais.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Fernanda Melchor Explores the Human Capacity for Violence, and Grace</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.nytimes.com/2022/05/08/books/fernanda-melchor-paradais.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static01.nyt.com/images/2022/05/08/books/08MELCHOR-image1/08MELCHOR-image1-facebookJumbo.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>“Art must leave a wound,” said the author, one of the most celebrated in new Latin American literature.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -291,6 +929,171 @@
                             <span class="media-object__text">
                               <span>Advances by Ukrainian forces in the northeast appeared to have forced Russians to move back toward the border, blowing up bridges behind them and contradicting the Kremlin narrative.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >宁南山 - 知乎动态</button>
+                  <a class="source-heading__link" href="https://www.zhihu.com/people/ningnanshan">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.zhihu.com/pin/1506782133569523712"
+                        open
+                      >
+                        <summary class="article-expander__title">[想法] 疫情效应让台湾人均GDP暴涨，但潮水终会…</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.zhihu.com/pin/1506782133569523712">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>疫情效应让台湾人均GDP暴涨，但潮水终会退去
+之前说过，台湾的人均GDP从2019年的大约2.6万美元暴涨到2021年的3.3万美元，两年时间上涨了7000美元，这种异乎寻常的增长跟疫情造成的欧美放水，全球各国供应链受影响订单涌向中国大陆和台湾，宅家经济电子产品需求猛增，全球航运价格猛涨等都有很大关系。
+下图是“航运界网”整理的2021年中国（陆港台）海运企业的净利润，可以看出台湾的货运三强长荣，阳明，万海三家企业2021年的净利润合计就超过了1100亿人民币。
+而仅仅在2019年，台湾这三家船公司还在盈利线上挣扎，万海净利润大约八亿多人民币，长荣净利润几千万人民币，阳明亏损大约10亿人民币，三家合计就不赚钱。
+对台湾这三家海运企业来说，显然并不是因为技术和效率进步，而是外部环境变化带来了这两年的巨额利润，而这种利润能否维持取决于外部环境的变化，如果外部因素消失，那么其带来的利润也会随之消失。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://zhuanlan.zhihu.com/p/511119683"
+                        open
+                      >
+                        <summary class="article-expander__title">[文章] 越南的上限到底有多高</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://zhuanlan.zhihu.com/p/511119683">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>前几天越南出口首次超过深圳的新闻成了一个热门新闻
+当然了，其实核查数据的话，其实今年一季度并不是首次。
+2018年越南的出口已经很接近深圳的出口金额了，2019年则第一次完成了对深圳的超越，2020和2021年越南的出口金额持续的超过了深圳。
+在这里我说一下我对越南的看法，它确实对我国造成了竞争威胁和压力，
+但是其实我国的主要挑战，是来自于向上的产业升级，也就是中高端产业和欧洲，美国，日本，韩国，中国台湾这些发达经济体竞争，这里才是我们的主战场，而美国是主战场的最大竞争对手；
+而在来自发展中国家的竞争其实是次要方向，而即使在这个次要方向，印度也是比越南更大的威胁。
+这跟国家间的综合竞争态势是类似的，也就是来自美国为首的西方国家的竞争压力是最主要的主战场，来自印度等方向的压力是次要方向。
+我这么说是基于以下的几点理由，
+第一越南是一个弱化版的日本，韩国，中国台湾和印度
+如果我们单独的看各种越南快速发展的消息，会觉得越南的前途不可限量，但实际上事物的发展是有其规律的，也是有上限的，就像我们给公司估值一样，给一个国家也可以进行估值，而估值最直观简便的就是对比。
+从人均上讲，越南要想达到日本，韩国，中国台湾的水平，那就必须有在世界上非常领先的行业和企业。我们先不说和日本比吧，要想人均赶上韩国台湾的水平，
+越南必须出现类似韩国三星, LG，海力士，台湾的台积电，联发科，鸿海这样的世界级公司，毕竟只有高科技行业和公司才能实现极高的人均GDP，从而拉高全国的平均水平。
+而且这样的世界级公司还需要不止一个，因为从人口上看，越南的人口是韩国的1.9倍，是台湾的4.2倍，可以简单的看成越南人口是韩国的两倍和台湾的四倍。
+我们可以查询下2021年的财富世界五百强，韩国的五百强企业有15家（包括三星，现代，SK集团，LG电子，起亚，浦项制铁，LG化学等公司），
+而台湾有8家（包括鸿海，和硕，台积电…</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >奇客Solidot–传递最新科技情报</button>
+                  <a class="source-heading__link" href="https://www.solidot.org">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;71462"
+                        open
+                      >
+                        <summary class="article-expander__title">强生新冠疫苗因罕见副作用被限制使用</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;71462">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>FDA 限制使用强生公司的新冠疫苗，原因是会导致血小板减少综合征的罕见但严重的凝血功能障碍。从现在开始，强生新冠疫苗将只提供给 18 岁以上成年人以及没有或不愿意接种替代疫苗的人使用。其中包括对 mRNA COVID-19 疫苗有严重过敏反应或有疑虑的人。FDA 和美国疾控中心的监测显示，至今强生疫苗记录到了 60 起血小板减少综合征病例，有 9 人死亡，相当于每 100 万剂强生疫苗有 0.48 例血小板减少综合征死亡病例。虽然风险很小，但鉴于 mRNA 疫苗的可用性以及不存在严重死亡风险，FDA 认为不需要让人们冒着不必要的风险。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;71461"
+                        open
+                      >
+                        <summary class="article-expander__title">马斯克收购 Twitter 可能面临美国的国家安全调查</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;71461">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>马斯克（Elon Musk）以 440 亿美元收购 Twitter 的交易可能面临美国政府的国家安全调查。为马斯克提供融资的投资者包括了卡塔尔的主权财富基金，沙特王国控股公司的沙特王子 Al Waleed bin Talal al Saud，以及加密货币交易所币安。这些投资者都来自美国之外，美国外国投资委员会（CFIUS）可能会因此审查这一交易是否存在潜在的国家安全风险。沙特王国控股公司已持有 5.2% 的 Twitter 股份，它计划再投资 19 亿美元；而币安计划投资 5 亿美元，币安成立于中国，在中国限制加密货币交易之后撤离，它的创办人赵长鹏为加拿大籍，12 岁时与父母移民加拿大。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;71460"
+                        open
+                      >
+                        <summary class="article-expander__title">剖析奥密克戎结构解释其令人传染力</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;71460">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>砍猪 写道 &quot;《科学美国人》杂志 2022 年 5 月期发表的文章总结了对奥密克戎研究论文的新进展，分析了为何它能够逃避人类的免疫系统。早在 2020 年 11 月阿尔法毒株出现前，科学家对其突变及其影响知之甚少，现在，在一年多数据和知识的帮助下，研究者有能力确定奥密克戎 50 多个突变如何帮助其快速传播的。奥密克戎的突变是其他受关注的变异株的两倍，其 BA.2 亚型可能还更多。其突刺蛋白就存在了 13 个突变。以前的变异株的受体结合域（RBDs）只有两三个突变，而奥密克戎拥有 15 个，RBDs 的改变会影响一些抗体的识别。奥密克戎的突刺蛋白也更稳定。以前的变异株进入细胞需要两种蛋白，即 ACE2 受体和 TMPRSS2 受体，而奥密克戎只需要 ACE2，这意味着它可以感染更广泛的细胞群。奥密克戎变异株以核内体（endosome）包裹的气泡进入细胞，然后接管宿主。其他变异株感染肺部细胞，奥密克戎只感染肺部以上的呼吸道。&quot;</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >小众软件</button>
+                  <a class="source-heading__link" href="https://www.appinn.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.appinn.com/?p&#x3D;42171"
+                        open
+                      >
+                        <summary class="article-expander__title">如何为在线视频截图？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/how-to-take-screenshots-for-online-videos/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.appinn.com/wp-content/uploads/2022/05/screenshot-online-video.jpgo_.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>是这样的，最近青小蛙发现了一款开源 Chrome 扩展： Screenshot YouTube Screenshot YouTube 被 Chrome 扩展商店标记为精选（遵循了针对 Chrome 扩</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -10240,132 +11043,6 @@ Google 表示 AI 工具自动生成内容将被视为垃圾信息，此类内容
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;71195"
-                        open
-                      >
-                        <summary class="article-expander__title">Mozilla Thunderbird Beta 默认启用对 Matrix 的支持</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;71195">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>电邮客户端 Mozilla Thunderbird 的最新 Beta 版本默认启用了对 Matrix 的支持。Matrix 是一个端对端加密、去中心化的实时通讯系统。没有中心服务器。Thunderbird 的最新版本改进了 Matrix 实现，端对端加密支持基本完成，支持显示格式化信息，home server discovery，消息编辑，延迟加载房间成员，等等。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >宁南山 - 知乎动态</button>
-                  <a class="source-heading__link" href="https://www.zhihu.com/people/ningnanshan">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.zhihu.com/pin/1496205170569089024"
-                        open
-                      >
-                        <summary class="article-expander__title">[想法] 中国的经济发达地区里面，作为人口大省的…</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.zhihu.com/pin/1496205170569089024">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>中国的经济发达地区里面，作为人口大省的江苏是可以实现粮食自给的，
-这一点有点让人意外，也可见中国对于粮食安全的重视。
-2021年江苏省的耕地播种面积占到了全省土地面积的50.63%，和河南，山东一起是全国三个耕地面积占土地面积比例最高的省份，
-同时江苏2021年以3746.1万吨的粮食产量排在全国第八位，和内蒙的3840.3万吨和河北的3825.1万吨差不多。
-而江苏人均粮食占有量按照2020年的七普人口计算的话达到442公斤。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://zhuanlan.zhihu.com/p/495533927"
-                        open
-                      >
-                        <summary class="article-expander__title">[文章] 聊下俄罗斯天然气--对解决中国东北地区缺煤少气的问题非常有利</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://zhuanlan.zhihu.com/p/495533927">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://pic2.zhimg.com/v2-fbfdf6aa0fa3c83a2a047782fb04b4ab_720w.jpg?source&#x3D;172ae18b" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>每次题目总是不太好写，要说意义肯定是很多，全部罗列出来肯定一大堆，但至少对解决中国东北地区缺煤少气的问题非常有利。
-最近看到不少欧洲和俄罗斯天然气博弈的新闻，也说下我们的情况。
-2019年12月中俄“西伯利亚力量”天然气管道开通，初期每年为中国供应50亿立方米天然气，到2023年全部完工时每年供应量增加到380亿立方米。
-
-简单的说，这条管线尤其是对于解决我国东北地区的能源供应问题意义重大，可以说能彻底改变东北地区的天然气供应格局。
-中俄东线投产后将首先供应东北地区，当2023年输气量达到380亿立方米/年时，预计其中供应东北地区的气量为135亿～150亿立方米/年，与东北2018年市场消费总量基本相当，将大幅提升东北地区资源供应能力，中俄东线天然气成为东北地区的主供气源。
-现有“以区域内油气田为主，进口LNG和长输管道为辅”的资源供应方式，将会转变为“以进口管道气为主，区域内油气田和进口LNG为辅”的方式。
-2022年2月，中俄又签署天然气协议，决定计划再通过“远东管道”每年向中国供应100亿立方米天然气，将把每年天然气供应量提高到480亿立方米。
-前从全球范围看东北也是工业发达地区，实际上如果不算中国全国的话，2021年东三省的工业增加值在中国以外能排在全球排第9位，未来这个排名还会继续上升，东北发电，取暖和工业对化石能源的消耗量都很大，因此我国东北三省在能源供应方面一直有很大缺口，用简单的话来说就是“缺煤少气”，目前东北三省70%的煤炭和50%的天然气依靠国内其他省份供应和从国外进口。
-以煤炭为例子，我国目前每年都要专门召开东北煤炭保供的专门会议，其原因是煤炭不仅是关系到东北地区的发电和重工业，而且直接关系到居民取暖的大量需求。
-东北地区长期是我国的煤炭调入大户，
-其中辽宁省一五期间平均每年调入煤炭83万吨，二五期间每年调入煤炭558万吨，1963-1965年平均每年…</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-04-08 datetime="2022-04-08T15:51:00.000Z">2022-04-08</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-04-08 datetime="2022-04-08T15:51:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >奇客Solidot–传递最新科技情报</button>
-                  <a class="source-heading__link" href="https://www.solidot.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;71194"
-                        open
-                      >
-                        <summary class="article-expander__title">美国太空司令部确认第一个撞击地球的星际天体</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;71194">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>美国太空司令部确认了第一个撞击地球的星际天体：来自另一个恒星系统的天体于 2014 年在巴布亚新几内亚附近坠落，碎片很有可能在南太平洋中，要找到残片将会非常困难。它是已知第一颗星际天体，但只有几英尺宽，远小于更知名的星际天体‘Oumuamua 和 Comet Borisov。在发现星际天体‘Oumuamua 之后 ，哈佛大学天体物理学专业的学生 Amir Siraj 和教授 Avi Loeb 开始搜寻是否有来自太阳系之外的陨星坠落到地球。他们查询了 NASA 近地天体研究中心维护的陨星数据库，数据库记录了近千次撞击，其中发生在 2014 年 1 月 8 日 Manus 岛附近的爆炸事件立即引起了他们的注意，陨星的时速超过了 13 万英里，暗示它很可能来自太阳系之外。他们的研究报告 2019 年递交到了期刊《The Astrophysical Journal Letters》，但因为缺乏美国政府未披露的信息而一直没有通过同行评审。探测陨星的部分传感器由美国国防部管理，相同的技术用于探测核爆，因此研究人员无法确认陨星速度的误差幅度。美国太空司令部上个月公布的备忘录为研究人员提供了他们所需要的数据。</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -10373,8 +11050,8 @@ Google 表示 AI 工具自动生成内容将被视为垃圾信息，此类内容
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/hjb2722404/myRss/actions/runs/2288172672">
-        <time id="build-timestamp" datetime="2022-05-08T01:41:34.204Z">2022-05-08T01:41:34.204Z</time>
+      <a class="footer-link" href="https://github.com/hjb2722404/myRss/actions/runs/2291525843">
+        <time id="build-timestamp" datetime="2022-05-09T01:46:00.762Z">2022-05-09T01:46:00.762Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.14.4</a>
     </footer>
