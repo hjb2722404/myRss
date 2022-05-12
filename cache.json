@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42198",
+          "author": "青小蛙",
+          "description": "白驹修图是一款免费的 iPhone 应用，用来提升老照片的清晰度，让你的老照片看起来「更新」一些。@Appinn 来自发现频道，开发者 @tao 的自荐：https://meta.appinn.net",
+          "link": "https://www.appinn.com/baijuxiutu-for-iphone/",
+          "publishedOn": "2022-05-12T01:12:23.000Z",
+          "wordCount": 511,
+          "title": "白驹修图 – 免费的老照片修复工具，提升老照片清晰度[iPhone]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/baijuxiutu.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42194",
           "author": "青小蛙",
           "description": "数学题生成器 是一款辅助小学生学习的 iPhone 应用，它能够在手机上生成 33 种不同类型的小学数学练习题，比如 n 以内加减法、两位数加减法、整十数乘一位数等，然后导出 PDF 使用，并且可以打",
@@ -419,6 +429,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=365677",
+          "author": "Ollie Williams",
+          "description": "According to Toshi Omagari, the author of Arcade Game Typography, the world’s first multi-colored digital font was created in 1982 for a never-released video game called Insector. Multi-colored fonts, sometimes called chromatic type, are still relatively rare on the …\nCOLRv1 and CSS font-palette: Web Typography Gets Colorful originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/colrv1-and-css-font-palette-web-typography/",
+          "publishedOn": "2022-05-11T14:12:51.000Z",
+          "wordCount": 2382,
+          "title": "COLRv1 and CSS font-palette: Web Typography Gets Colorful",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365677"
+        },
+        {
           "id": "https://css-tricks.com/?p=365650",
           "author": "Md Shuvo",
           "description": "By now, you are probably familiar with one or more programming languages. But have you ever wondered how you could create your own programming language? And by that, I mean:\nA programming language is any set of rules that convert \n…\nLet’s Create a Tiny Programming Language originally published on CSS-Tricks. You should get the newsletter.",
@@ -623,6 +643,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10402",
+          "author": "张 鑫旭",
+          "description": "本文主要介绍如何使用 JS 代码实时生成条形码，以及介绍条形码在 Web 应用中的优势，启发若干可以使用条形码的场景。",
+          "link": "https://www.zhangxinxu.com/wordpress/2022/05/js-barcode/",
+          "publishedOn": "2022-05-11T17:01:05.000Z",
+          "wordCount": 677,
+          "title": "JS与条形码的生成",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10393",
           "author": "张 鑫旭",
           "description": "JS new Function() 语法看起来平平无奇 ，但是其字符串作为函数主体的特性大有用处，本文绝对会让你有所收益！",
@@ -659,6 +689,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71501",
+          "author": null,
+          "description": "苹果曾经平均每天预订 50 个往返旧金山和上海浦东机场的商务舱座位。但在 2020 年初新冠疫情暴发后，苹果叫停了派遣大批工程师的行动。那一年新 iPhone 机型的推出比往年晚了一两个月。为了应对这一情况，苹果采用了远程管理制造流程的技术。2020 年苹果美国工程团队通过视频电话指导亚洲工厂的中国同事组装 iPhone 原型机。在中国的工程师最初一切都按美国工程师的指挥行事，但渐渐地，驻华工程师被赋予了更大权力，可以自行解决问题。",
+          "link": "https://www.solidot.org/story?sid=71501",
+          "publishedOn": "2022-05-11T12:56:08.000Z",
+          "wordCount": 80,
+          "title": "苹果通过远程管理中国组装厂的工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71500",
+          "author": null,
+          "description": "微软有自己的 Linux 发行版 CBL-Mariner，去年发布了 1.0 版本，本周发布了 2.0 版本，源代码公布在 Github 上。CBL-Mariner 不是桌面 Linux 而是服务器端 Linux，它在微软内部被用于云基础设施以及边缘计算产品和服务。它提供了一组云和边缘服务所需的通用软件包集，可以很容易根据需要引入额外的软件包。它是一个轻量级的发行版，可作为容器或容器主机使用。",
+          "link": "https://www.solidot.org/story?sid=71500",
+          "publishedOn": "2022-05-11T11:12:58.000Z",
+          "wordCount": 96,
+          "title": "微软 Linux 发行版 CBL-Mariner 发布 2.0 版本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71499",
+          "author": null,
+          "description": "美国欧盟周二正式指责俄罗斯需要为今年二月针对卫星网络的攻击负责，这次攻击瘫痪了乌克兰及其邻国的卫星网络，破坏了通信和一个风力发电场。2 月 24 日在俄罗斯攻击乌克兰前一小时，卫星通信公司 Viasat 位于欧洲和乌克兰的数千卫星终端遭到攻击，攻击者利用了 VPN 访问了该公司的 KA-SAT 卫星网络，通过搜索其内网找到了管理和运营的特定网络，同一时间向用户的调制解调器发送破坏指令覆写 Flash 存储器。攻击者使用的恶意程序被命名为 AcidRain，安全研究人员发现它与俄罗斯的 VPNFilter 的一个擦除器模块 dstr 存在 55% 的代码相似度。",
+          "link": "https://www.solidot.org/story?sid=71499",
+          "publishedOn": "2022-05-11T09:59:45.000Z",
+          "wordCount": 89,
+          "title": "美国欧盟正式指责俄罗斯破坏卫星网络",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71498",
           "author": null,
@@ -3338,96 +3398,6 @@
           "wordCount": 95,
           "title": "任意一天全世界人口中有 15.8% 的人头痛",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71222",
-          "author": null,
-          "description": "过去半年，两家中国公司推出两款使用到 Imagination Technologies 技术的显卡：芯动科技的风华一号和摩尔线程的 MTT S60。Imagination Technologies 是总部位于伦敦的半导体及软件设计，其 GPU 设计最著名的客户是苹果公司，但苹果在 2017 年宣布将停止使用 Imagination 的显示技术，导致该公司市值腰斩，当年 11 月它被凯桥资本收购，2020 年它与苹果达成了继续合作的协议。Imagination 也是在 2020 年 10 月与芯动科技宣布合作，授权对方使用 BXT 设计，该 GPU 能提供最高 6 TFLOPS 单精度性能。 摩尔线程显卡的关键设计同样来自于 Imagination。",
-          "link": "https://www.solidot.org/story?sid=71222",
-          "publishedOn": "2022-04-12T13:07:54.000Z",
-          "wordCount": 125,
-          "title": "中国公司推出两款使用 Imagination Technologies 技术的显卡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71221",
-          "author": null,
-          "description": "作为一项实验性开发计划的一部分，美国国防部将使用 3D 打印技术建造军事住所。计划未来10个月内在德克萨斯州埃尔帕索的布利斯堡建造的三个 3D 打印混凝土营房每个将超过 5700 平方英尺（529.55平方米），它们将成为该大陆上最大的 3D 打印建筑。该头衔以前属于德克萨斯州军事部，该部门拥有增材制造公司 ICON 在 2021 年打印的 3800 平方英尺（353平方米）的 72 个上下铺的营房。在更改了规定可以采购什么的统一设施标准，使之包含了由 3D 打印建筑材料构建的建筑之后，军方得以采购这些设施。该公司表示，其高强度混凝土的抗压强度在 2000 至 3500 PSI 之间。虽然它可能无法媲美最坚固的现代混凝土的强度，但 Lavacrete 的强度足以充当营房的墙壁，国防部计划继续在其实验性的国防创新部门试验 3D 打印建筑",
-          "link": "https://www.solidot.org/story?sid=71221",
-          "publishedOn": "2022-04-12T10:47:18.000Z",
-          "wordCount": 102,
-          "title": "美国陆军将造美洲最大的 3D 打印建筑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71220",
-          "author": null,
-          "description": "地球上的生命千姿百态——无论是在亚马逊猎杀了一头鹿的美洲豹、在刚果盘绕在树上的兰花藤、在加拿大沸腾的温泉中生长的原始细胞，还是在华尔街啜饮咖啡的股票经纪人——在基因层面，他们都遵循着相同的规则。四个化学字母（核苷酸碱基）拼出 64 个三个字母的“单词”，这些被称为密码子的单词每一个都代表 20 种氨基酸中的一种。当氨基酸按照这些编码指令串在一起时，形成了每个物种特有的蛋白质。除了少数鲜为人知的例外，所有基因组都以相同的方式编码信息。\n\n\n然而上个月发表在 eLife 的一项新研究中，MIT 和耶鲁大学的研究人员证明，有可能调整其中一个历史悠久的规则，创建出更广泛、全新的遗传密码，构建更长的密码子单词。原则上他们的发现指向了将遗传密码扩展为更通用系统的几种方法之一，合成生物学家可以使用该系统来制造具有全新生物化学特性的细胞，创造出在自然界中无处可寻的蛋白质。但这项工作也表明，扩展的遗传密码受到其自身复杂性的阻碍，在某些方面变得不那么有效，甚至能力也出人意料地降低了——这些限制暗示了为什么生命一开始可能就不喜欢更长的密码子。\n\n\n目前尚不确定这些发现对于宇宙其他地方生命的编码方式意味着什么，但是这确实意味着我们自己的遗传密码演化得既不太复杂也不太具有限制性，而是恰到好处——并且在 Francis Crick 称之为“冰冻事件”之后的数十亿年中统治着生命。作者表示，大自然选择了这种“金发姑娘”编码，是因为它简单且足以满足目标，而不是因为其他编码无法实现。",
-          "link": "https://www.solidot.org/story?sid=71220",
-          "publishedOn": "2022-04-12T10:42:55.000Z",
-          "wordCount": 83,
-          "title": "拥有更长遗传密码的生命可能但几率小",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71219",
-          "author": null,
-          "description": "神秘的“安提基特拉机械（Antikythera mechanism）”——一种据信曾被用于追踪天体运行的古老装置——自一个多世纪之前首次从一艘沉船中被发现以来，它就让科学家和公众为之着迷。近年来在重建幸存的碎片以及更多地了解该装置的使用方法方面取得了很多进展。现在一篇发表在 arXiv 的预印本论文称，，希腊研究团队的研究人员相信他们确定了“安提基特拉机械”的开始日期。了解“零日”对确定该设备的准确性至关重要。\n\n\n论文合作者、希腊塞萨洛尼基文化和旅游局的 Aristeidis Voulgaris 对 New Scientist 表示：“任何测量系统——从温度计到安提基特拉机械，都需要校准才能正确（执行）计算。”“当然，它不会是完美的——它不是数字计算机，而是一堆齿轮——但是它可能非常擅长预测日食和月食。”1951 年，一位名叫 Derek J. de Solla Price 的英国科学史学家开始研究该装置的理论工作原理。根据 X 射线和伽马射线照片，Price 和物理学家 Charalambos Karakalos 于 1959 年在《美国哲学学会汇刊》上发表了一篇 70 页的论文。根据这些图像，他们猜测该装置是用来计算恒星和行星运动的——这使其成为已知最早的模拟计算机。\n\n\nVoulgaris 和合作者在一个被称为“沙罗周期（Saros）”的月周期（223个月）基础上进行了新的分析，该周期由装置背面的螺旋插图表示。该周期涵盖了太阳、月球和地球返回相同位置所需要的时间，并且包括相关的日食和月食。鉴于我们目前对该设备可能是如何运作的及其铭文的了解，研究团队认为开始日期应该与一次日环食一致。纽约大学的 Alexander Jones 表示：“（装置背面的）日食预测包含了足够的天文信息，无疑可以证明 18 年的系列月食和日食的预测始于公元前 204 年，”表示这里存在四个独立的计算。“这样计算日期的做法之所以可能是因为沙罗周期不是一个高度精确的月球和太阳周期的方程，所以每次你向前推进一个 223 个月的周期，预测的质量就会下降。”",
-          "link": "https://www.solidot.org/story?sid=71219",
-          "publishedOn": "2022-04-12T10:08:50.000Z",
-          "wordCount": 109,
-          "title": "研究人员找到安提基特拉机械可能的“零日”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71218",
-          "author": null,
-          "description": "暗物质——占据宇宙大部分质量的神秘物质，可能是由被称为引力子的大质量粒子组成，它们在宇宙大爆炸后突然出现。新理论认为，这些假想粒子可能是来自额外维的“宇宙难民”。研究人员的计算表明，这些粒子的量可能恰好可以解释暗物质，暗物质只能通过其对普通物质的引力而被“看到”。研究合作者、法国里昂大学的物理学家 Giacomo Cacciapaglia 表示：“大质量引力子是由早期宇宙中的普通粒子碰撞产生的。这个过程被认为太罕见了，因此大质量引力子无法成为暗物质的候选对象。”但在 2 月发表在《物理评论快报》期刊上的一项新研究中，Cacciapaglia 与韩国高丽大学的物理学家 Haiying Cai 和 Seung J. Lee 共同发现，早期宇宙产生的引力子足以解释我们目前在宇宙中探测到的所有暗物质。\n\n\n研究发现，如果引力子存在，它们的质量将小于1 MeV ，因此不会超过电子质量的两倍。这个质量水平远低于希格斯玻色子为普通物质产生质量的尺度——这是该模型产生足够多引力子以解释宇宙中所有暗物质的关键。他们在寻找额外维的证据时发现了这些假设的引力子，物理学家怀疑额外维和已观察到的空间的三个维度以及第四维度时间一起存在。在研究团队的理论中，当引力通过额外维传播时，会在我们的宇宙中以大质量引力子的形式出现。但是这些粒子只会与普通物质微弱地相互作用，而且只能通过引力作用。这种描述与我们所知道的暗物质惊人地相似，暗物质不与光相互作用，但是它们的引力影响在宇宙中的任何地方都能感受到。如这种引力影响正是阻止星系飞散的原因。Cacciapaglia 表示：“大质量引力子作为暗物质粒子的主要优点在于它们只在引力作用下相互作用，因此它们可以躲开检测其存在的尝试。”",
-          "link": "https://www.solidot.org/story?sid=71218",
-          "publishedOn": "2022-04-12T09:39:13.000Z",
-          "wordCount": 88,
-          "title": "暗物质可能是额外维的引力子",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71217",
-          "author": null,
-          "description": "备受争议的 PayPal 联合创始人、风险投资人和自由意志主义者 Peter Thiel 上周在迈阿密举行的 Bitcoin 2022 会议上发表主题演讲，抨击世界最富有投资人沃伦巴菲特和摩根大通董事长杰米戴蒙组成的金融元老阻碍了比特币的发展。摩根大通董事长曾称比特币一文不值，沃伦巴菲特也长期反对比特币。Peter Thiel 将巴菲特形容为 Omaha 的社会病态老爷爷，他在主题演讲中抨击了金融机构，称中央银行破产和 ESG 是仇恨工厂——ESG 代表环境、社会和公司治理，是负责任投资原则的基础。Thiel 说，这是一场运动，也是一个政治问题，无论是运动走向成功，还是运动的反对者成功阻止我们。他随后将巴菲特称为是比特币的头号敌人。他说应该告诉金融机构投资比特币。",
-          "link": "https://www.solidot.org/story?sid=71217",
-          "publishedOn": "2022-04-12T08:54:42.000Z",
-          "wordCount": 91,
-          "title": "Peter Thiel 抨击沃伦巴菲特是比特币的头号敌人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71216",
-          "author": null,
-          "description": "苹果周一宣布开始在印度制造 iPhone 13。iPhone 13 是 iPhone 最新一代产品，去年下半年发售。生产 iPhone 13 的印度工厂是富士康位于南泰米尔纳德邦 Sriperumbudur 的工厂。苹果过去几年一直尝试将部分生产从中国转移到印度等地区。它在印度的代工厂从 2017 年开始组装 iPhone SE，iPhone 13 是第四个在印度组装的机型。随着美国公司致力于生产多元化，印度越南墨西哥等国家对合同制造商日益重要。",
-          "link": "https://www.solidot.org/story?sid=71216",
-          "publishedOn": "2022-04-12T06:52:44.000Z",
-          "wordCount": 92,
-          "title": "苹果开始在印度制造 iPhone 13",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71215",
-          "author": null,
-          "description": "美国总统拜登宣布了一项新的武器法规，旨在控制私人制造的 3D 打印武器。3D 打印武器又被称为幽灵枪，制造出来之后难以跟踪，近年来美国此类武器出现的频率在增加。新的规定要求 3D 打印武器需要有序列号，必须向政府登记和进行背景检查，以解决此类武器的跟踪问题。3D 打印武器本身是合法的，但销售 3D 打印武器则需要遵守新的规定。",
-          "link": "https://www.solidot.org/story?sid=71215",
-          "publishedOn": "2022-04-12T05:56:04.000Z",
-          "wordCount": 83,
-          "title": "美国加强对 3D 打印武器的监管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71214",
-          "author": null,
-          "description": "世界首富马斯克(Elon Musk)是 Twitter 最大股东，持有 9.2% 的股份。Twitter 曾在上周宣布，马斯克将成为公司新董事，任期从周六开始。但公司首席执行官 Parag Agrawal 周日晚间表示，情况发生了变化，马斯克告诉公司，他将不再担任董事会成员。马斯克没有给出反悔的理由，但他在此期间通过其账号对 Twitter 的未来提出了尖锐的疑问，其中一条推文说，“Is Twitter dying?”",
-          "link": "https://www.solidot.org/story?sid=71214",
-          "publishedOn": "2022-04-12T05:09:22.000Z",
-          "wordCount": 88,
-          "title": "马斯克不会加入 Twitter 董事会",
-          "imageUrl": null
         }
       ]
     },
@@ -3719,18 +3689,7 @@
       "title": "Anthony Fu - 知乎动态",
       "feedUrl": "https://rss.lilydjwg.me/zhihu/antfu",
       "siteUrl": "https://www.zhihu.com/people/antfu",
-      "articles": [
-        {
-          "id": "https://www.zhihu.com/pin/1497169265384361984",
-          "author": "Anthony Fu",
-          "description": "希望不要被挂 🙉",
-          "link": "https://www.zhihu.com/pin/1497169265384361984",
-          "publishedOn": "2022-04-12T03:09:28.000Z",
-          "wordCount": 12,
-          "title": "[想法] 希望不要被挂",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "黄轶 - 知乎动态",
