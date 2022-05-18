@@ -130,16 +130,6 @@
           "wordCount": 211,
           "title": "VideoManager – 视频素材管理：标记视频片段标记、分类、打标签，然后批量搜索导出[Windows]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/05/videomanager.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42171",
-          "author": "青小蛙",
-          "description": "是这样的，最近青小蛙发现了一款开源 Chrome 扩展： Screenshot YouTube Screenshot YouTube 被 Chrome 扩展商店标记为精选（遵循了针对 Chrome 扩",
-          "link": "https://www.appinn.com/how-to-take-screenshots-for-online-videos/",
-          "publishedOn": "2022-05-08T05:29:38.000Z",
-          "wordCount": 209,
-          "title": "如何为在线视频截图？",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/05/screenshot-online-video.jpgo_.jpg"
         }
       ]
     },
@@ -148,6 +138,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=365531",
+          "author": "Marcel Moreau",
+          "description": "Utilizing icons in user interface elements is helpful. In addition to element labeling, icons can help reinforce a user element’s intention to users. But I have to say, I notice a bit of icon misalignment while browsing the web. Even …\nImproving Icons for UI Elements with Typographic Alignment and Scale originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/improving-icons-for-ui-elements-with-typographic-alignment-and-scale/",
+          "publishedOn": "2022-05-17T14:30:18.000Z",
+          "wordCount": 1109,
+          "title": "Improving Icons for UI Elements with Typographic Alignment and Scale",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365531"
+        },
         {
           "id": "https://css-tricks.com/?p=365377",
           "author": "Ganesh Dahal",
@@ -249,6 +249,66 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71555",
+          "author": null,
+          "description": "HardenedLinux 写道 \"基础架构包括计算机体系、物联网设备或其他信息化设备的固件、硬件组件、单元等基础组成部分，如主板Flash、显卡网卡等各类外设板卡的ROM，硬盘、EC、主板CSME/PSP/SMU等。基础架构安全性是整个系统的安全基石。如果基础架构的安全设置不当或存在高危漏洞、受到威胁，会导致整个系统的严重破坏，并且难以检测、恢复。固件的运行级别高于操作系统内核所在的RING 0级，如果用户的威胁模型中包含攻击者持久化这一项，那固件安全就不可忽视，特别在全球高级威胁防护的大趋势下，基础架构及平台固件属于整体防御中核心的环节，为了更好的推进行业对于基础架构整体弹性（Resiliency）水平，赛博堡垒（HardenedVault）和中科院软件所基础架构安全团队发起了一份关于平台固件安全的技术指南，草案版本由来自跨领域专家组的审阅，指南的alpha预览版发布于HardenedLinux社区（下载PDF），希望未来有兴趣的个人和机构可以继续推进。\"",
+          "link": "https://www.solidot.org/story?sid=71555",
+          "publishedOn": "2022-05-18T02:04:41.000Z",
+          "wordCount": 74,
+          "title": "基础架构安全弹性技术指南（固件安全篇）发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71554",
+          "author": null,
+          "description": "ARM 开源项目从 GitHub 迁移到 GitLab。GitLab 官方博客阐述了选择 GitLab 作为自托管平台的优点：最大化选择和成本效益，最小化供应商锁定。使用 GitLab 将允许 ARM 使用自己的工具，不像 GitHub 是一个黑箱。ARM 芯片占到了移动市场的 95%，而 ARM 公司的业务是 IP 授权，大部分核心基础设施部署在私有硬件的，安全对其至关重要。",
+          "link": "https://www.solidot.org/story?sid=71554",
+          "publishedOn": "2022-05-17T15:40:02.000Z",
+          "wordCount": 98,
+          "title": "ARM 开源项目从 GitHub 迁移到 GitLab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71553",
+          "author": null,
+          "description": "洛杉矶高等法院法官 Maureen Duffy-Lewis 裁决，要求公司董事会必须包含女性成员的加州法律违宪，违反了平等对待权。加州政府认为这项法律有利于逆转偏袒男性的歧视文化，它是在其它措施都失败之后才制定该法律的。加州政府辩解称，它没有创造一个配额制，公司董事会可以在不剥夺男性席位的情况下增加女性董事席位。加州政府承认这项法律未起到任何作用。法律要求总部在加州的上市公司在 2019 年底前董事会需要有一位女性。到 2022 年 1 月有五名董事的董事会需要有两名女性，六名及以上的董事会需要有三名女性。法律要求企业向政府报告董事会成员组成情况。根据最新报告，半数以上企业没有递交披露报告。",
+          "link": "https://www.solidot.org/story?sid=71553",
+          "publishedOn": "2022-05-17T11:42:13.000Z",
+          "wordCount": 80,
+          "title": "法官裁决要求董事会必须有女性的加州法律违宪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71552",
+          "author": null,
+          "description": "信通院发布了《2022 年 3 月国内手机市场运行分析报告》（PDF），数据显示 3 月手机出货量 2150 万部，同比下降 40.5%；5G 手机出货量 1618.5 万部，同比下降 41.1%，占同期手机出货量的 75.4%。第一季度国内市场手机总体出货量累计 6934.6 万部，同比下降 29.2%；5G 手机出货量 5388.4 万部，同比下降 22.9%，占同期手机出货量的 77.7%。",
+          "link": "https://www.solidot.org/story?sid=71552",
+          "publishedOn": "2022-05-17T10:27:15.000Z",
+          "wordCount": 92,
+          "title": "三月手机出货量同比下滑四成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71551",
+          "author": null,
+          "description": "巴斯大学的研究人员在《Cyberpsychology, Behavior, and Social Networking》期刊上报告了他们做的一个十分简单的实验：研究人员招募了 154 名平均年龄 29.6 岁的志愿者，随机分为停止使用社交媒体（主要为 Facebook、Twitter、Instagram 和 TikTok）一周的干预组和无任何要求的对照组。一周之后，干预组在幸福感、抑郁和焦虑等指标上显著好于对照组。研究人员进一步发现，减少在 Twitter 和 TikTok 上花费的时间能小幅度改善抑郁和焦虑，而完全放弃社交媒体则能取得最大的效果。",
+          "link": "https://www.solidot.org/story?sid=71551",
+          "publishedOn": "2022-05-17T10:13:20.000Z",
+          "wordCount": 86,
+          "title": "短暂离开社交网络能让你更快乐焦虑更少",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71550",
+          "author": null,
+          "description": "链家前数据库管理员韩冰因删库一审被判处有期徒刑七年，二审维持原判。韩冰是在 2018 年 6 月 4 日使用管理员权限和 root 账号登陆公司财务系统，并将系统内的财务数据及相关应用程序删除。被破坏的服务器是公司专门用于 EBS 系统的 2 台数据库服务器和 2 台应用服务器，存放着公司成立以来所有的财务数据，直接影响公司人员的工资发放等，链家为恢复数据及重新构建该系统共计花费人民币 18 万元。法庭文档显示，韩冰是五名删库嫌疑人之一，他在拒绝将笔记本电脑密码交给公司调查人员后立即引起了怀疑。他声称电脑里有私人数据，密码只能提供给公安机关，或者只有他自己在场的情况下输入密码才能检查。调查人员知道公司财务系统被攻击的方式只要是连接到服务器就可以执行，这样的操作是不会在电脑端留下痕迹的，只会在服务器上留下痕迹，检查每个人的电脑，执行这些检查的操作，主要是为了看韩冰等人的反映。",
+          "link": "https://www.solidot.org/story?sid=71550",
+          "publishedOn": "2022-05-17T09:42:06.000Z",
+          "wordCount": 87,
+          "title": "链家数据库管理员因删库被判七年",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71549",
           "author": null,
@@ -1098,36 +1158,6 @@
           "wordCount": 88,
           "title": "《Eve Online》整合微软电子表格",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71462",
-          "author": null,
-          "description": "FDA 限制使用强生公司的新冠疫苗，原因是会导致血小板减少综合征的罕见但严重的凝血功能障碍。从现在开始，强生新冠疫苗将只提供给 18 岁以上成年人以及没有或不愿意接种替代疫苗的人使用。其中包括对 mRNA COVID-19 疫苗有严重过敏反应或有疑虑的人。FDA 和美国疾控中心的监测显示，至今强生疫苗记录到了 60 起血小板减少综合征病例，有 9 人死亡，相当于每 100 万剂强生疫苗有 0.48 例血小板减少综合征死亡病例。虽然风险很小，但鉴于 mRNA 疫苗的可用性以及不存在严重死亡风险，FDA 认为不需要让人们冒着不必要的风险。",
-          "link": "https://www.solidot.org/story?sid=71462",
-          "publishedOn": "2022-05-08T14:58:41.000Z",
-          "wordCount": 89,
-          "title": "强生新冠疫苗因罕见副作用被限制使用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71461",
-          "author": null,
-          "description": "马斯克（Elon Musk）以 440 亿美元收购 Twitter 的交易可能面临美国政府的国家安全调查。为马斯克提供融资的投资者包括了卡塔尔的主权财富基金，沙特王国控股公司的沙特王子 Al Waleed bin Talal al Saud，以及加密货币交易所币安。这些投资者都来自美国之外，美国外国投资委员会（CFIUS）可能会因此审查这一交易是否存在潜在的国家安全风险。沙特王国控股公司已持有 5.2% 的 Twitter 股份，它计划再投资 19 亿美元；而币安计划投资 5 亿美元，币安成立于中国，在中国限制加密货币交易之后撤离，它的创办人赵长鹏为加拿大籍，12 岁时与父母移民加拿大。",
-          "link": "https://www.solidot.org/story?sid=71461",
-          "publishedOn": "2022-05-08T11:16:36.000Z",
-          "wordCount": 95,
-          "title": "马斯克收购 Twitter 可能面临美国的国家安全调查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71460",
-          "author": null,
-          "description": "砍猪 写道 \"《科学美国人》杂志 2022 年 5 月期发表的文章总结了对奥密克戎研究论文的新进展，分析了为何它能够逃避人类的免疫系统。早在 2020 年 11 月阿尔法毒株出现前，科学家对其突变及其影响知之甚少，现在，在一年多数据和知识的帮助下，研究者有能力确定奥密克戎 50 多个突变如何帮助其快速传播的。奥密克戎的突变是其他受关注的变异株的两倍，其 BA.2 亚型可能还更多。其突刺蛋白就存在了 13 个突变。以前的变异株的受体结合域（RBDs）只有两三个突变，而奥密克戎拥有 15 个，RBDs 的改变会影响一些抗体的识别。奥密克戎的突刺蛋白也更稳定。以前的变异株进入细胞需要两种蛋白，即 ACE2 受体和 TMPRSS2 受体，而奥密克戎只需要 ACE2，这意味着它可以感染更广泛的细胞群。奥密克戎变异株以核内体（endosome）包裹的气泡进入细胞，然后接管宿主。其他变异株感染肺部细胞，奥密克戎只感染肺部以上的呼吸道。\"",
-          "link": "https://www.solidot.org/story?sid=71460",
-          "publishedOn": "2022-05-08T09:18:29.000Z",
-          "wordCount": 95,
-          "title": "剖析奥密克戎结构解释其令人传染力",
-          "imageUrl": null
         }
       ]
     },
@@ -1151,16 +1181,6 @@
           "wordCount": 10,
           "title": "[想法] 疫情效应让台湾人均GDP暴涨，但潮水终会…",
           "imageUrl": null
-        },
-        {
-          "id": "https://zhuanlan.zhihu.com/p/511119683",
-          "author": "宁南山",
-          "description": "前几天越南出口首次超过深圳的新闻成了一个热门新闻\n当然了，其实核查数据的话，其实今年一季度并不是首次。\n2018年越南的出口已经很接近深圳的出口金额了，2019年则第一次完成了对深圳的超越，2020和2021年越南的出口金额持续的超过了深圳。\n在这里我说一下我对越南的看法，它确实对我国造成了竞争威胁和压力，\n但是其实我国的主要挑战，是来自于向上的产业升级，也就是中高端产业和欧洲，美国，日本，韩国，中国台湾这些发达经济体竞争，这里才是我们的主战场，而美国是主战场的最大竞争对手；\n而在来自发展中国家的竞争其实是次要方向，而即使在这个次要方向，印度也是比越南更大的威胁。\n这跟国家间的综合竞争态势是类似的，也就是来自美国为首的西方国家的竞争压力是最主要的主战场，来自印度等方向的压力是次要方向。\n我这么说是基于以下的几点理由，\n第一越南是一个弱化版的日本，韩国，中国台湾和印度\n如果我们单独的看各种越南快速发展的消息，会觉得越南的前途不可限量，但实际上事物的发展是有其规律的，也是有上限的，就像我们给公司估值一样，给一个国家也可以进行估值，而估值最直观简便的就是对比。\n从人均上讲，越南要想达到日本，韩国，中国台湾的水平，那就必须有在世界上非常领先的行业和企业。我们先不说和日本比吧，要想人均赶上韩国台湾的水平，\n越南必须出现类似韩国三星, LG，海力士，台湾的台积电，联发科，鸿海这样的世界级公司，毕竟只有高科技行业和公司才能实现极高的人均GDP，从而拉高全国的平均水平。\n而且这样的世界级公司还需要不止一个，因为从人口上看，越南的人口是韩国的1.9倍，是台湾的4.2倍，可以简单的看成越南人口是韩国的两倍和台湾的四倍。\n我们可以查询下2021年的财富世界五百强，韩国的五百强企业有15家（包括三星，现代，SK集团，LG电子，起亚，浦项制铁，LG化学等公司），\n而台湾有8家（包括鸿海，和硕，台积电…",
-          "link": "https://zhuanlan.zhihu.com/p/511119683",
-          "publishedOn": "2022-05-08T06:25:35.000Z",
-          "wordCount": 32,
-          "title": "[文章] 越南的上限到底有多高",
-          "imageUrl": ""
         }
       ]
     },
