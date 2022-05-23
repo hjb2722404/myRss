@@ -2,10 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-05-22T03:06:28.409Z</updated>
+    <updated>2022-05-23T03:18:33.567Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[[文章] 精读《react-snippets - Router 源码》]]></title>
+        <id>https://zhuanlan.zhihu.com/p/518445295</id>
+        <link href="https://zhuanlan.zhihu.com/p/518445295"/>
+        <updated>2022-05-23T01:25:34.000Z</updated>
+        <summary type="html"><![CDATA[造轮子就是应用核心原理 + 周边功能的堆砌，所以学习成熟库的源码往往会受到非核心代码干扰，Router 这个 repo 用不到 100 行源码实现了 React Router 核心机制，很适合用来学习。
+精读
+Router 快速实现了 React Router 3 个核心 API：Router、navigate、Link，下面列出基本用法，配合理解源码实现会更方便：
+
+const App = () => (
+  <Router
+    routes={[
+      { path: '/home', component: <Home /> },
+      { path: '/articles', component: <Articles /> }
+    ]}
+  />
+)
+
+const Home = () => (
+  <div>
+    home, <Link href="/articles">go articles</Link>,
+    <span onClick={() => navigate('/details')}>or jump to details</span>
+  </div>
+)
+
+
+首先看 Router 的实现，在看代码之前，思考下 Router 要做哪些事情？
+
+接收 routes 参数，根据当前 url 地址判断渲染哪个组件。
+当 url 地址变化时（无论是用户触发还是自己的 navigate Link 触发），渲染新 url 对应的组件。
+
+所以 Router 是一个路由渲染分配器与 url 监听器：
+
+export default function Router ({ routes }) {
+  // 存储当前 url path，方便其变化时引发自身重渲染，以返回新的 url 对应的组件
+  const [currentPath, setC…]]></summary>
+        <author>
+            <name>黄子毅</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球可能出现更多猴痘病例]]></title>
+        <id>https://www.solidot.org/story?sid=71597</id>
+        <link href="https://www.solidot.org/story?sid=71597"/>
+        <updated>2022-05-22T15:34:43.000Z</updated>
+        <summary type="html"><![CDATA[世界卫生组织数据显示，截至 21 日，12 个非猴痘流行国家已报告 92 例猴痘确诊病例和 28 例疑似病例。世卫组织预测，全球猴痘病例可能进一步增加。猴痘主要在西非和中非地区流行，非洲大陆之外的首次猴痘疫情于 2003 年出现在美国。2018 年以来，以色列、英国、新加坡等国在来自尼日利亚的旅客中发现猴痘病毒感染者。
+世卫组织指出：“现有信息显示，与有症状的病例发生密切身体接触的人群中正在发生人际传播。”一般来说，猴痘病毒的人际传播并不常见。人际传播途径包括密切接触感染者的呼吸道分泌物、皮肤损伤部位或被污染物品等，通常需要更长时间面对面才能发生呼吸道飞沫传播。此外，猴痘病毒可能经由胎盘或生产期间的密切接触发生母婴传播。人感染猴痘的初期症状包括发烧、头痛、肌肉酸痛、背痛、淋巴结肿大等，之后可发展为面部和身体大范围皮疹。多数感染者会在几周内康复，但也有感染者病情严重甚至死亡。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国政府对利用加密货币逃避制裁提起首宗诉讼]]></title>
+        <id>https://www.solidot.org/story?sid=71596</id>
+        <link href="https://www.solidot.org/story?sid=71596"/>
+        <updated>2022-05-22T15:21:03.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部对利用加密货币逃避制裁提起首宗诉讼。联邦法官批准了对一名美国人的刑事指控，他被控将价值逾千万美元的比特币传输到被制裁国家的加密货币交易所。这个国家可能是古巴、伊朗、朝鲜、叙利亚或俄罗斯。加密货币虽然以匿名性著称，但它的公开交易很容易被跟踪并识别到个人。而美国的制裁同样适用于涉及到加密货币的交易。据 The Register 报道，被告使用美国银行账号里的法币，在美国的加密货币交易所购买比特币，然后传输到一个被制裁国家的在线支付平台。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最古老的树可能生长在智利]]></title>
+        <id>https://www.solidot.org/story?sid=71595</id>
+        <link href="https://www.solidot.org/story?sid=71595"/>
+        <updated>2022-05-22T14:36:07.000Z</updated>
+        <summary type="html"><![CDATA[5400 年前大约人类发明文字的同一时间，一颗柏树（Fitzroya cupressoides）在今天智利的沿海峡谷地带生长。它避开了火灾和砍伐，成长为一颗直径逾四米的巨人。今天它被称为 Alerce Milenario 或 Gran Abuelo，可能是至今最古老的活生物体。智利环境科学家 Jonathan Barichivich 结合计算机模型和传统树龄计算方法，估计 Alerce Milenario 的年龄或逾 5000 年。这意味着它比目前的记录保持者至少长一个世纪。很多树龄学家对 Barichivich 的结论持怀疑态度。这项研究尚未发表。但部分专家对此持开放立场。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS必学基础：理解CSS中的级联规则]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=10412</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/"/>
+        <updated>2022-05-22T14:34:18.000Z</updated>
+        <summary type="html"><![CDATA[CSS中有两个重要的基础规则，一个是级联（Cascading），一个是继承（Inheritance），本文详细介绍级联规则，理解了级联，就能明白某些看似普通但不解的背后现象的原因。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qdown – 支持迅雷链接的 aria2 下载工具[Windows]]]></title>
+        <id>https://www.appinn.com/?p=42279</id>
+        <link href="https://www.appinn.com/qdown-for-windows/"/>
+        <updated>2022-05-22T08:19:51.000Z</updated>
+        <summary type="html"><![CDATA[Qdown 是一款基于 aria2 的 Windows 下载工具，支持迅雷链接、BT、磁力链接等，无广告，简单易用。@Appinn aria2 是什么？ aria2 是一个轻量级的多协议和多来源的命令]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ACM 数字图书馆开放前五十年出版的文章]]></title>
         <id>https://www.solidot.org/story?sid=71594</id>
@@ -980,167 +1071,6 @@ function App() {
         <summary type="html"><![CDATA[ImageSmith 是一款 macOS 上，简单易用的图片批量压缩工具，只需要要将很多张图片拖进指定区域，即可一键获得压缩后的图片。@Appinn ImageSmith 据说 ImageSmith]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稳定币 TerraUSD 暴跌]]></title>
-        <id>https://www.solidot.org/story?sid=71523</id>
-        <link href="https://www.solidot.org/story?sid=71523"/>
-        <updated>2022-05-13T15:17:34.000Z</updated>
-        <summary type="html"><![CDATA[TerraUSD 属于稳定币，也就是其币值稳定在每枚 1 美元。但本周它的币值暴跌， 给投资者造成数以十亿美元计的损失。整个加密货币市场也随之暴跌，蒸发逾 3000 亿美元，比特币跌至了 3 万美元。在加密货币系统中，稳定币是一个支柱，充当了某种储备货币的角色。无论是专业交易员还是散户投资者都使用稳定币，截至周二，稳定币中存放了大约 1,800 亿美元资金。交易员可能会卖出一个比特币去换取 TerraUSD，然后用 TerraUSD 购买以太币，而不需要通过美元或银行账户。稳定币旨在破解一个难题，即在一个不稳定的金融系统中，如何追求一些稳定性？但 TerraUSD 在几天内就崩盘了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cool Hover Effects That Use CSS Text Shadow]]></title>
-        <id>https://css-tricks.com/?p=365738</id>
-        <link href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/"/>
-        <updated>2022-05-13T14:43:17.000Z</updated>
-        <summary type="html"><![CDATA[In my last article we saw how CSS background properties allow us to create cool hover effects. This time, we will focus on the CSS text-shadow property to explore even more interesting hovers. You are probably wondering how adding shadow …
-Cool Hover Effects That Use CSS Text Shadow originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克暂时搁置 Twitter 交易]]></title>
-        <id>https://www.solidot.org/story?sid=71522</id>
-        <link href="https://www.solidot.org/story?sid=71522"/>
-        <updated>2022-05-13T13:41:13.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉 CEO 马斯克(Elon Musk)在 Twitter 上宣布暂时搁置 Twitter 交易，理由是需要等待 Twitter 给出垃圾/虚假账户只占用户 5% 以内的计算细节。马斯克同时承诺会继续致力于收购。马斯克是在上个月宣布以 440 亿美元收购 Twitter，而 Twitter 最初拒绝收购但之后决定接受。马斯克是个受争议的人，他声称收购 Twitter 是一场“言论自由”运动，表示将撤销 Twitter 对特朗普的永久禁令。而很多人认为他在性格上和特朗普存在很多相似性。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市场监管总局对知网展开反垄断调查]]></title>
-        <id>https://www.solidot.org/story?sid=71521</id>
-        <link href="https://www.solidot.org/story?sid=71521"/>
-        <updated>2022-05-13T11:22:03.000Z</updated>
-        <summary type="html"><![CDATA[市场监管总局发表一句话声明：近日，市场监管总局根据前期核查，依法对知网涉嫌实施垄断行为立案调查。知网是中国最大的学术电子资源集成商，收录了 95% 以上正式出版的中文学术资源，由于其在学术资源上 “大而全” 的优势，因此各高校图书馆基本都是知网的客户。知网一直保持着 60% 左右的毛利率，这也与其极高的市场占有率有关，其昂贵的订阅费用最近几年备受争议，近年来已发生数起高校因不满知网涨价而暂停续订的新闻，其中不乏北京大学等知名院校。知网发表声明表示以此次调查为契机，深刻自省，彻底整改。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员发现针对德国的依赖混淆攻击安全公司随后声明是渗透测试]]></title>
-        <id>https://www.solidot.org/story?sid=71520</id>
-        <link href="https://www.solidot.org/story?sid=71520"/>
-        <updated>2022-05-13T10:09:49.000Z</updated>
-        <summary type="html"><![CDATA[去年安全研究人员披露了一种新型的供应链攻击：依赖混淆。大型企业使用的程序通常会包含非公开的私有依赖包，如果攻击者在软件包仓库中加入同名的公开的依赖包，那么这些程序在构建时很可能会优先使用公开的依赖包，可能导致恶意程序在公司内网执行。本周安全研究人员发现了针对德国公司贝塔斯曼、博世、斯蒂尔和 DB Schenk 的依赖混淆包。但就在研究人员发表报告前夕名叫  Code White 的公司承认是其所为。CEO David Elze 声明他们获得相关企业授权进行合法的渗透测试演练。这是一次假警报，但依赖混淆攻击确实在发生。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONLYOFFICE v7.1 发布]]></title>
-        <id>https://www.solidot.org/story?sid=71519</id>
-        <link href="https://www.solidot.org/story?sid=71519"/>
-        <updated>2022-05-13T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[匿名读者 写道 "拉脱维亚公司 Ascensio System SIA 开发的自由软件办公套装 ONLYOFFICE 发布了 7.1 版本 。ONLYOFFICE Docs v7.1 的新特性包括：ARM架构兼容、 PDF/XPS/DjVu阅读器升级、将PDF转换为DOCX支持、工作表打印预览、演示文稿的动画、SmartArt支持、等等。"]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 年手机应该可以使用五年或更长时间]]></title>
-        <id>https://www.solidot.org/story?sid=71518</id>
-        <link href="https://www.solidot.org/story?sid=71518"/>
-        <updated>2022-05-13T08:56:04.000Z</updated>
-        <summary type="html"><![CDATA[2022 年涌现出智能手机制造方式的新思考。其中之一专注于对硬件和软件的长期支持。这种思路的核心是智能手机硬件达到了一个平台期。从中端到旗舰，硬件现在足够强大，可以坚持数年而不会过时。无论你关注的是尖端性能、相机还是电池寿命，逐年大幅提升的日子一去不复返了。这并不是说我们不再渴望年度进步，但是不再突然让旧型号变得过时。因此在半年一次的安全补丁之外，现在智能手机应该得到长期的软件支持。更不要说关于原材料和电子垃圾在可持续性和维修权方面日益引人注目的争论了。越来越难以证明生产只能使用几年的一次性电子产品的合理性。同时，高昂的价格和生活成本的攀升让人们对更容易获得的维修计划和备件的需求有了新的认识。不要忘记翻新机的流行。对于智能手机制造商来说，长期支持也不一定就是无利可图的冒险。随着时间的推移，官方维修渠道会带来收入，而长期支持也可以计入手机零售价。而且还可以探索“硬件即服务”之路。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CleanMyWechat – 可根据时间，自动删除 PC 端微信缓存数据，并保留文字聊天记录]]></title>
-        <id>https://www.appinn.com/?p=42215</id>
-        <link href="https://www.appinn.com/cleanmywechat/"/>
-        <updated>2022-05-13T08:17:55.000Z</updated>
-        <summary type="html"><![CDATA[CleanMyWechat 是一款用来自动删除 PC 端微信缓存数据的 Windows 工具，包括微信从聊天中自动下载的大量文件、视频、图片等内容，还可以根据时间，比如清理半年以前的文件，并会保留文字]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[引力信号可以以光速探测地震]]></title>
-        <id>https://www.solidot.org/story?sid=71517</id>
-        <link href="https://www.solidot.org/story?sid=71517"/>
-        <updated>2022-05-13T07:28:42.000Z</updated>
-        <summary type="html"><![CDATA[世界最大的地壳板块在日本海岸震动两分钟后，气象机构就向大约 5000 万居民发出了最后警告：8.1 级地震引发了一场冲向海岸的海啸。但直到海浪到达数小时后，专家们才评估出了 2011 年 3 月 11 日东北地震的真实规模。最终它被评为 9 级——释放出的能量是专家预测的 22 倍以上，造成至少 1.8 万人死亡，一些受到影响的地区从未收到过警报。现在科学家找到了一种方法，可以更快、更准确地估计出地震的级别，方法是使用计算机算法识别以光速从断层射出的引力波的尾迹。 参与寻找引力波（由大质量物体运动产生的时空涟漪）的研究人员意识到，这些以光速传播的引力信号也可以被用来监测地震。在激光干涉仪引力波天文台工作的弗罗里达大学物理学家 Bernard Whiting 表示：“想法是只要质量移动到任何地方，引力场就会发生变化，并且……一切都会感受到它。”“令人惊奇的是，这些信号甚至也会出现在地震仪中。”在 2016 年 Whiting和同事报告称，常规地震仪可以检测到这些引力信号。地震导致质量发生巨大变化；这些变化会产生引力效应，使现有的引力场和地震仪下方的地面都发生变形。通过测量这两者之间的差异，科学家得出结论，他们可以创建一种新的地震预警系统。引力信号在第一波地震波到达之前出现在地震仪上，地震图上的这一部分在传统中一直被忽略。Whiting 表示，通过将来自数十个地震仪的信号相互叠加，科学家可以识别模式来解释大型地震的大小和位置。现在法国蔚蓝海岸大学（Cote d'Azur University）的博士后 Andrea Licciardi 和他同事构建出了一种机器学习算法进行模式识别。他们用数十万次模拟地震训练模型，然后用东北地震的真实数据集对其进行了测试。研究人员在《自然》期刊上报告称，该模型在大约 50 秒内准确预测了该地震的震级——比其他最先进的预警系统更快。Whiting 表示：“这不仅仅是一个想法的种子——他们证明这是可以做到的。”“我们展示的是原理论证。他们展示的是实践证明。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首次观察到不寻常的物质量子态]]></title>
-        <id>https://www.solidot.org/story?sid=71516</id>
-        <link href="https://www.solidot.org/story?sid=71516"/>
-        <updated>2022-05-13T07:20:01.000Z</updated>
-        <summary type="html"><![CDATA[在致力于描述原子和亚原子粒子行为以阐明其性质的科学领域——量子物理领域，不是每天都会有人遇到新的物质状态。然而这正是包括蒙特利尔大学（UdeM）物理学教授 Andrea Bianchi 和他的学生 Avner Fitterman 和 Jeremi Dudemaine 在内的国际研究团队所做的事情。在最近发表在科学期刊《物理评论 X》上的一篇论文中，研究人员记录了在 Bianchi 实验室中制造出的磁性材料 Ce2Zr2O7的“量子自旋液态基态”，Ce2Zr2O7 是一种由铈、锆和氧组成的化合物。在量子物理学中，自旋是一种电子的内部特性，与旋转相关。正是自旋使磁铁中的材料具有了磁性。Ce2Zr2O7 是一种具有磁性的铈基材料。Bianchi 表示，“这种化合物的存在是已知的。”“我们的突破在于以独特的纯净形式创造它。我们使用在光学炉中熔化的样品产生近乎完美的三角形原子排列，然后检查量子态。”正是这个近乎完美的三角形使 Bianchi 和他的团队能在Ce2Zr2O7中制造出磁阻挫（magnetic frustration）。他们与麦克马斯特和科罗拉多州立大学、洛斯阿拉莫斯国家实验室以及德国德累斯顿的普朗克（Max Planck）复杂系统物理研究所的研究人员合作，测量了该化合物的磁扩散（magnetic diffusion）。Bianchi 表示：“我们的测量显示了重叠的粒子功能——因此没有布拉格峰（Bragg peaks）——这是不存在经典磁序的明显迹象。” “我们还观察到方向连续波动的自旋分布，这是自旋液体和磁阻挫的特征。这表明我们创造的材料在低温下表现得像真正的自旋液体。”在用计算机模拟证实了这些观察结果后，该团队得出结论，他们确实见证了一种前所未有的量子态。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阻断炎症可能会造成慢性疼痛]]></title>
-        <id>https://www.solidot.org/story?sid=71515</id>
-        <link href="https://www.solidot.org/story?sid=71515"/>
-        <updated>2022-05-13T05:39:31.000Z</updated>
-        <summary type="html"><![CDATA[加拿大麦吉尔大学和意大利的研究人员发现，使用消炎药和类固醇类药物缓解疼痛可能会增加患上慢性疼痛的几率。研究对减轻疼痛的传统做法提出质疑。疼痛性损伤的正常恢复会出现炎症，而用药物阻断炎症可能会导致更难以治疗的疼痛。在这项发表于《科学转化医学》期刊上的研究中，研究人员检查了人类和小鼠的疼痛机制。他们发现中性粒细胞——一种帮助身体抵抗感染的白细胞——在缓解疼痛方面起到了关键的作用。实验性地阻断小鼠中性粒细胞使疼痛延长至正常持续时间的十倍。用消炎药以及地塞米松和双氯芬酸之类的类固醇药物治疗疼痛也产生了相同的效果，尽管它们对治疗早期疼痛有效。这些发现也得到了一项对英国 50 万人的独立分析的支持，该分析表明，那些服用消炎药治疗疼痛的人更有可能在两到十年后出现疼痛，服用对乙酰氨基酚或者抗抑郁药物的人没有出现这样的现象。意大利 Policlinico of Monza 医院和瑞士 Ensemble Hospitalier de la Cote 的 Massimo Allegri 医师表示：“我们的研究表明，可能是时候重新考虑我们治疗急性疼痛的方式了。幸运的是，疼痛可以通过其他不涉及干扰炎症的方式消除。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朝鲜爆发新冠疫情]]></title>
-        <id>https://www.solidot.org/story?sid=71514</id>
-        <link href="https://www.solidot.org/story?sid=71514"/>
-        <updated>2022-05-13T03:27:47.000Z</updated>
-        <summary type="html"><![CDATA[朝鲜报告首例新冠确诊病例。朝鲜周四首次报告新冠疫情，宣布进入“最高紧急状态“，并下令所有市县封锁以抗击病毒传播。据朝鲜官媒朝中社，周日，卫生官员对首都平壤一个未具体说明的组织中的居民进行检测，发现他们出现了发烧等症状，并证实他们感染了奥密克戎变种。报道未说明具体的感染人数。朝中社称，金正恩周四召开劳动党政治局会议讨论了这一危机。这是新冠在全球疫情爆发两年以来，朝鲜首次通报感染者。朝鲜的疫苗接种情况未知，它被认为是世界上少数未开展公共疫苗接种的国家之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何修改在线视频高宽比？解决胖头蛇问题]]></title>
-        <id>https://www.appinn.com/?p=42209</id>
-        <link href="https://www.appinn.com/aspect-ratio-switcher-online-video/"/>
-        <updated>2022-05-13T02:53:48.000Z</updated>
-        <summary type="html"><![CDATA[来自问题频道，@GhassanArmani 同学的问题：https://meta.appinn.net/t/topic/32654 如何修改在线视频高宽比 最近在看《新白娘子传奇》，耳朵极奇享受，但是]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家公布银河黑洞的首幅照片]]></title>
-        <id>https://www.solidot.org/story?sid=71513</id>
-        <link href="https://www.solidot.org/story?sid=71513"/>
-        <updated>2022-05-13T02:38:09.000Z</updated>
-        <summary type="html"><![CDATA[在公布超大质量黑洞的第一个直接视觉证据三年之后，事件视界望远镜（EHT）项目的天文学家公布了银河系中心超大质量黑洞的首张照片。科学家之前已观测到众多的恒星围绕着银河系中心一个不可见的、致密的和质量极大的天体作轨道运动。这暗示这个被称作人马座A*（Sagittarius A*：Sgr A*）的天体是一个黑洞，而此次发布的照片则提供了首个直接的视觉证据。因为黑洞不发光，所以我们看不见黑洞自身，但绕转的发光气体给出了其存在的信号：一个被亮环状结构围绕的暗弱中心区域（称之为阴影）。照片上显现出的（射电）光都是由该黑洞的强大引力弯曲所致，这个黑洞的质量超过了太阳质量的四百万倍。银河系中心黑洞距离地球有二万七千光年之遥，因此它的大小看上去与从地球上看38万千米远月亮上的甜甜圈大小差不多。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter CEO 解雇高管冻结招聘]]></title>
-        <id>https://www.solidot.org/story?sid=71512</id>
-        <link href="https://www.solidot.org/story?sid=71512"/>
-        <updated>2022-05-13T01:07:00.000Z</updated>
-        <summary type="html"><![CDATA[在特斯拉 CEO 马斯克(Elon Musk)推进其 440 亿美元收购交易的同时，Twitter CEO  Parag Agrawal 改组了领导层，解雇了两位高管并冻结了招聘。负责消费者产品的高管 Kayvon Beykpour 以及业务产品负责人 Bruce Falck 通过推文证实遭到解雇，Jay Sullivan 将接替他们的职务，他最近谈论了 Twitter 增加一亿日活用户的计划。Beykpour 是在其联合创办的直播公司 Periscope 被收购之后加盟 Twitter 的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 206 期）：如何走出失望和怀疑]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/05/weekly-issue-206.html"/>
-        <updated>2022-05-13T00:36:26.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
 </feed>
