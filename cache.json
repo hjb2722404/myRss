@@ -135,16 +135,6 @@
           "wordCount": 469,
           "title": "SuperRDP2 – 为 Windows 家庭版开启远程桌面功能",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/superrdp2.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/pdfsigner-online/",
-          "author": "青小蛙",
-          "description": "PDFSigner 是一款可以为 PDF 文档添加签章（签名、印章）的在线工具，只需要打开网页，分别加载 PDF 文件和签章图片，就能重新导出带有签章的 PDF 文档了。@Appinn @hibem",
-          "link": "https://www.appinn.com/pdfsigner-online/",
-          "publishedOn": "2022-05-16T07:24:24.000Z",
-          "wordCount": 616,
-          "title": "PDFSigner – 在线为 PDF 文档添加签章",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/pdfsigner.jpgo_.jpg"
         }
       ]
     },
@@ -153,6 +143,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=366077",
+          "author": "Geoff Graham",
+          "description": "Myles C. Maxfield on the WebKit Blog published a nifty how-to for color fonts. It comes on the heels of what Ollie wrote up here on CSS-Tricks the other day, and while they cover a lot of common …\nCustomizing Color Fonts on the Web originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/customizing-color-fonts-on-the-web/",
+          "publishedOn": "2022-05-26T00:15:29.000Z",
+          "wordCount": 321,
+          "title": "Customizing Color Fonts on the Web",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366077"
+        },
+        {
+          "id": "https://css-tricks.com/?p=365888",
+          "author": "Nicholas C. Zakas",
+          "description": "Earlier this year, I self-published an ebook called Understanding JavaScript Promises (free for download). Even though I didn’t have any intention of turning it into a print book, enough people reached out inquiring about a print version that …\nA Perfect Table of Contents With HTML + CSS originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-perfect-table-of-contents-with-html-css/",
+          "publishedOn": "2022-05-25T14:08:33.000Z",
+          "wordCount": 2931,
+          "title": "A Perfect Table of Contents With HTML + CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365888"
+        },
         {
           "id": "https://css-tricks.com/?p=365828",
           "author": "Mariana Beldi",
@@ -222,16 +232,6 @@
           "wordCount": 1109,
           "title": "Improving Icons for UI Elements with Typographic Alignment and Scale",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365531"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365377",
-          "author": "Ganesh Dahal",
-          "description": "Global styles, a feature of the block themes, is one of my favorite parts of creating block themes. The concept of global style variations in WordPress were introduced in Gutenberg 12.5 which would allow theme authors to create alternate …\nCreating Style Variations in WordPress Block Themes originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-style-variations-in-wordpress-block-themes/",
-          "publishedOn": "2022-05-16T14:38:29.000Z",
-          "wordCount": 3201,
-          "title": "Creating Style Variations in WordPress Block Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365377"
         }
       ]
     },
@@ -274,6 +274,156 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71636",
+          "author": null,
+          "description": "Mozilla 释出了紧急更新，修复了在 Pwn2Own 2022 黑客挑战赛上安全研究人员利用的 Firefox 和 Thunderbird 0day。Firefox 100.0.2、Firefox ESR 91.9.1、Firefox for Android 100.3 和 Thunderbird 91.9.1 修复了两个高危漏洞。安全研究员 Manfred Paul 在 Pwn2Own 上演示了漏洞利用赢得了 10 万美元奖金。第一个漏洞是 Top-Level Await 实现的原型污染（prototype pollution），第二个漏洞允许攻击者在原型污染注入攻击中滥用 Java 对象索引不正确输入验证。",
+          "link": "https://www.solidot.org/story?sid=71636",
+          "publishedOn": "2022-05-25T15:54:09.000Z",
+          "wordCount": 117,
+          "title": "Mozilla 修复在 Pwn2Own 上利用的 Firefox 和 Thunderbird 0day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71635",
+          "author": null,
+          "description": "HardenedVault 写道 \"2022年5月16日，云原生安全公司Isovalent的CTO宣布开源了其内部开发了多年的基于eBPF安全监控和阻断的方案：Tetragon。由于Tetragon宣称可以防御容器逃逸的Linux内核漏洞，但从Tetragon的设计来看只支持post-exploitation阶段的检测和阻断，这种基于规则的检测和阻断遭到了安全研究人员Felix Wilhelm的质疑，此后几天的讨论引起了更多安全研究人员的注意，PaX/GRsecurity团队成员Pawel Wieczorkiewicz在5月20日研究了两个小时后基于CVE-2021-22555公开exploit击穿了Tetragon的防御机制，随后PaX/GRsecurity公开了其细节以及探讨了为什么防御机制中不能单一依赖post-exploitation阶段的检测和阻断机制。幸运的是，VED(Vault Exploit Defense）方案对于目前的攻击方法免疫。\"",
+          "link": "https://www.solidot.org/story?sid=71635",
+          "publishedOn": "2022-05-25T13:57:29.000Z",
+          "wordCount": 77,
+          "title": "云原生安全Tetragon案例之安全产品自防护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71634",
+          "author": null,
+          "description": "英国政府提出了一项法案，为培育和养殖基因编辑动植物铺平道路。拟议中的法案将放松对基因编辑（非基因修改）产品的监管，一开始将主要适用于植物。基因编辑涉及通过剪裁一小段 DNA 关闭或打开生物体的基因。它能更快的开发出新品种。生物技术公司和农业研究人员游说政府为商业化基因修改作物立法，但政府部长们决定采取更谨慎的做法。欧盟制定的规定限制使用基因编辑技术。但脱欧让英国能制定自己的规定。",
+          "link": "https://www.solidot.org/story?sid=71634",
+          "publishedOn": "2022-05-25T13:56:34.000Z",
+          "wordCount": 73,
+          "title": "英国政府制定基因编辑动植物法律",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71633",
+          "author": null,
+          "description": "加密货币 Luna 及算法稳定币 terraUSD 币值的崩溃让 Luna 的创始人 Do Kwon 成为韩国最讨厌的人。在损失了大量金钱的投资者投诉之后，韩国检方上周对 Do Kwon 的 Terraform Labs 展开了调查。一位损失了 240 万美元的加密货币主播  Chancers 因跑去他的家敲门对峙而遭到逮捕，因为根据韩国的法律他的行为是非法的。Chancers 从 2017 年开始投资加密货币，从比特币等的币值上涨上赚了一大笔钱，但他在最糟糕的时间向  Terra Luna 投资了 80 万美元。在短短 48 小时内  Terra Luna 的币值蒸发了 99%，如今更是一文不值。在损失巨额财富之后 Chancers 想直接对峙 Do Kwon 问他对 Luna 有什么未来计划。他没见到 Do Kwon 只见到了他的妻子，然后警方就来了。",
+          "link": "https://www.solidot.org/story?sid=71633",
+          "publishedOn": "2022-05-25T11:33:55.000Z",
+          "wordCount": 116,
+          "title": "Luna 创始人成为韩国最讨厌的人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71632",
+          "author": null,
+          "description": "搜狐员工遭到了钓鱼邮件攻击，攻击者可能首先窃取了搜狐内部邮箱账号，然后用这个邮箱群发邮件给其他员工，诱骗其在钓鱼网站上输入账号和密码。搜狐发表声明称，有 24 名员工被骗取了逾四万元。声明称：5 月 18 日凌晨，搜狐部分员工邮箱收到诈骗邮件。经调查，实为某员工使用邮件时被意外钓鱼导致密码泄露，进而被冒充财务部盗发邮件。事发后，公司 IT 及安全部门第一时间做了紧急处理并向公安机关报案。据统计，共有 24 名员工被骗取四万余元人民币。目前正在等待警方的调查进展和处理结果。搜狐表示，这次事件不涉及到搜狐公司对用户提供的邮件服务。搜狐会持续升级网络安全技术，维护公司和个人的网络安全，更好地提供网络服务。",
+          "link": "https://www.solidot.org/story?sid=71632",
+          "publishedOn": "2022-05-25T11:00:22.000Z",
+          "wordCount": 80,
+          "title": "搜狐回应称员工遭钓鱼攻击的损失不高",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71631",
+          "author": null,
+          "description": "5 月 18 日，全球首艘智能型无人系统母船“珠海云”在广州下水。该船隶属于南方海洋科学与工程广东省实验室（珠海），由中国舰船设计研究中心负责设计建造总承包，中国船舶黄埔文冲船舶有限公司负责建造，中国船级社指导支持，清华大学美术学院唐林涛教授团队负责外观总体设计。“珠海云”长 88.5 米，型宽 14.0 米，型深 6.1 米，设计吃水 3.7 米，设计排水量约 2000 吨，最大航速 18 节，经济航速 13 节，可搭载数十台配置不同观测仪器的空、海、潜无人系统装备，能在目标海区批量化布放，并进行面向任务的自适应组网，实现对特定目标的立体动态观测，是南方海洋实验室“智能敏捷海洋立体观测系统（ISOOS）”的水面支持平台。",
+          "link": "https://www.solidot.org/story?sid=71631",
+          "publishedOn": "2022-05-25T10:24:54.000Z",
+          "wordCount": 88,
+          "title": "中国下水无人系统母舰珠海云号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71630",
+          "author": null,
+          "description": "美国政府称，2021 年生育率略有回升，结束了自 2014 年以来的持续下降。生育率的上升并没有改变美国的整体人口状况。自 2007 年以来，美国生育率基本呈直线下降。虽然 2021 年有所回升，但仍低于 2019 年的水平。越来越多的美国父母选择只生一个孩子。数据显示，去年美国有 3,659,289 个孩子出生，比 2020 年增加  46,000 或 1%。2020 年的疫情封锁期间，美国的生育率急剧下降。但随着失业率的下降和疫情补助的发放，生育出现了回升。但不是所有人对疫情期间怀孕有信心：白人和西裔妇女的生育率上升了 2%，黑人、亚裔和原居民妇女的生育率下降了 2% 到 3%。",
+          "link": "https://www.solidot.org/story?sid=71630",
+          "publishedOn": "2022-05-25T09:16:06.000Z",
+          "wordCount": 98,
+          "title": "美国 2021 年出生率比前一年增加 1%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71629",
+          "author": null,
+          "description": "马克斯普朗克海洋微生物研究所（Max Planck Institute for Marine Microbiology）的研究人员报告称，在世界各大洋的海草草地之下发现了大量的糖。海草草地是碳捕捉量最大的生态系统之一——该研究所称，仅 1 平方公里的海草储藏的碳的数量大约是陆地森林的两倍，速度则是陆地森林的 35 倍。为了更好地了解这些碳捕捉“高手”，科学家在意大利的厄尔巴岛附近进行了研究，采集了海草草地及周围沉积物的样本。他们的数据显示，海草下的糖浓度至少比其他海洋生态系统中的高 80 倍。该研究所的科学家 Manuel Liebeke 在一份新闻稿中表示：“从这个角度看来：我们估计全球有 60 至 130 万吨糖，主要是以蔗糖的形式存在。”",
+          "link": "https://www.solidot.org/story?sid=71629",
+          "publishedOn": "2022-05-25T07:59:40.000Z",
+          "wordCount": 89,
+          "title": "海洋中发现大量糖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71628",
+          "author": null,
+          "description": "Charles Komanoff 几十年来一直是反核组织的专家证人，他的批评激烈又切中要害，当成千上万的抗议者于 1979 年因三里岛熔毁事故涌入华盛顿时，他在讲台上赢得了一席之地。Komanoff 后来继续坚定不移地反对代阿布洛峡谷核电站——这座拥有 37 年历史的庞大核设施坐落在加利福尼亚中部海岸的一片原始地带，一度是美国反核活动的焦点。但是他于二月份写给加利福尼亚州州长Gavin Newsom 的最后一封信恐怕是他自己也未曾预料到的。他恳请 Newsom 放弃关闭这座沿海核电站的计划。Komanoff 在接受采访时表示：“如果我们要应对气候问题，就不得不放弃长期以来坚持的一些信念。”“我对太阳能和风能依然乐观。但是我对气候问题很悲观。气候问题正在走向失败。”\n\n\nKomanoff 的转变是核能政治迅速变化的一个标志。由于各国政府竞相结束对化石燃料的依赖以及乌克兰战争加剧了对能源安全和成本的担忧，人们担心关闭几乎不产生任何排放物的美国核电站毫无意义，因此这种长期以来一直备受争议的能源正获得支持。这种势头在很大程度上是由长期的核怀疑论者推动的，他们对这种技术仍然感到不安，但是现在正在推动保持现有反应堆运行，因为气候方面的消息越来越令人担忧。\n\n\n联合国政府间气候变化专门委员会在 4 月发布的最新报告中警告称，世界在气候行动方面严重滞后，以至于在十年内可能就会突破将气候变暖控制在可控水平的关键目标。排放分析师们越来越多地批评让现有核反应堆退役的做法，因为这种做法让电网失去了大量低排放电力，破坏了风能和太阳能上线所取得的收益。尽管人们还在担心有毒废料，而日本福岛核电站的泄露灾难也只过去了十年，但是保持这些反应堆运转的运动还是出现了。公众对于核电的接受程度越来越高，这推动了它的发展，并且培育出一个原本不太可能的联盟，其中包括行业参与者、昔日的反核人士以及大批年轻的草根环保活动家，他们担心气候变化，甚于核事故。",
+          "link": "https://www.solidot.org/story?sid=71628",
+          "publishedOn": "2022-05-25T07:52:29.000Z",
+          "wordCount": 88,
+          "title": "对气候的担忧激发了美国的核支持运动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71627",
+          "author": null,
+          "description": "今年春天印度和巴基斯坦的天气异常炎热。自 3 月以来，范围大到不寻常的热浪接踵而至，一直持续到 5 月份。这为快速研究气候变化在这一事件中的作用提出了一个难题，因为我们还不能确定它会何时结束。然而已经有两项研究探讨了气候对三四月高温的影响。很多地区的单日、月度温度记录已被打破。温度计的示数高达 49°C，天气还异常干燥。破纪录的热浪通常会与干旱同时发生，因为干燥的地面在没有蒸发的冷却作用的情况下升温更多。户外工作极具挑战，随着高温的持续，对经济放缓的影响也越来越大。对农业的影响非常显著，例如，印度北部地区的小麦产量估计会损失 10% 至 35%。由于战争导致乌克兰出口下滑，印度此前曾经计划增加出口，但是在本月却实施了出口禁令。在巴基斯坦，高温还导致一个冰川湖爆发洪水，摧毁了一座重要的桥梁和包括发电厂在内的许多建筑。\n\n\nWorld Weather Attribution 团队对截止到 4 月底的高温进行了常规分析，告诉了我们它与气候变化的关系。这些快速研究之所以可能，是因为该团队每次都使用相同的（同行评审）方法。目标不是对这种天气事件是否是由气候变化“引起”的做出判断——这不是一个正确的问题。相反这些研究的重点在于我们在气候变暖的情况下是否会更多/更少地看到这种天气模式。如果答案是“更多”，我们就可以问问气候变化对出现概率的影响有多大。\n\n\n研究受限于该地区只有 1979 年以来的每日温度数据，印度境内的数据可追溯到 1951 年——对于趋势分析来说，这并不理想。但为了评估气候变化的影响，研究人员从日常收集的大量气候模型中提取了数据，包括对有/没有人为温室气体排放（和反射阳光的气溶胶）情况的模拟。这项研究分析了事件稀有程度的统计数据。历史数据显示，今年 3 月至 4 月的高温每年出现的概率大约为 1%，即通常所说的“百年一遇”。但是在工业化之前的气候（温度比现在低 1.2°C）模型模拟中，这种极端高温将会是“三千年一遇”。换句话说，气候变化让这种热浪的出现概率增加了大约 30 倍。",
+          "link": "https://www.solidot.org/story?sid=71627",
+          "publishedOn": "2022-05-25T07:38:52.000Z",
+          "wordCount": 100,
+          "title": "受气候趋势影响春季热浪让巴基斯坦达到了 49°C",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71626",
+          "author": null,
+          "description": "自动驾驶汽车——即使数量很少，也可以提高道路上所有汽车的燃油效率、行驶时间和安全性，这一想法将于今年晚些时候在田纳西州纳什维尔附近的道路上进行测试。新泽西州罗格斯大学的 Benedetto Piccoli 和同事之前使用了一个每个方向只有一条车道的简单环形道路计算机模型，发现（PDF）自动驾驶汽车可将所有交通的整体油耗降低 40%，即使是所有车辆中自动驾驶汽车比例仅有 5%。他表示，这些新模型的最佳情况在现实世界中“很少出现”，但是他的团队仍然希望在试验期间将道路上所有车辆——而不仅仅是无人驾驶汽车的油耗减少 10%。他表示：“如果你考虑的是一个国家交通系统的总体成本的话，你甚至只要将其降低 5%，就能节省出数十亿美元。”",
+          "link": "https://www.solidot.org/story?sid=71626",
+          "publishedOn": "2022-05-25T07:26:26.000Z",
+          "wordCount": 78,
+          "title": "无人驾驶汽车可能会让人类司机更高效驾驶",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71625",
+          "author": null,
+          "description": "过去几年，越来越多的发明涉及到了 AI。AI 帮助设计药物，开发疫苗，发现新材料。它的广泛使用对现有的专利制度构成了挑战。因为旧的专利法假设发明者是人类。如果法院和政府决定 AI 创造的发明不能授予专利，无疑这将会产生巨大影响，将会降低利用 AI 进行研究和发明的积极性，人类社会可能会错过具有重要意义的 AI 发明。新南威尔士大学的两位研究人员在《自然》网站上发表评论，提出了一种解决方案：与其让旧的专利法适应新情况，不如设计新的 AI 专利法律 AI-IP 去保护 AI 的发明，各国还应该制定国际条约，确保新的 AI 专利法律遵守标准原则，确保有效解决争端。",
+          "link": "https://www.solidot.org/story?sid=71625",
+          "publishedOn": "2022-05-25T07:18:35.000Z",
+          "wordCount": 89,
+          "title": "AI 正在打破专利法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71624",
+          "author": null,
+          "description": "类太阳恒星近半处于双星或多星系统中，此类的星系如何影响到行星的形成？根据发表在《自然》期刊上的一项研究，行星系统在双星周围形成的方式与围绕太阳等单星形成的方式非常不同。新发现是基于智利 ALMA 望远镜对距离地球约 1000 光年的双星系统 NGC1333-IRAS2A 的观测得出的。从天文学的角度来看，这是一个相当短的距离。它形成于大约 1 万年前，是一个非常年轻的恒星系统。其中的两颗恒星相距 200 个天文单位（AU）。该双星系统被一个由气体和尘埃组成的圆盘所包围。通过观测并借助计算机模拟，研究人员发现，气体和尘埃的运动并不遵循连续的模式。在某些时间点，通常是相对较短的时间段，即每十年到一百年，运动变得非常强烈，双星系统会变得比原来亮十到一百倍，直到它恢复到正常状态。据推测，这种循环模式可以用双星的对偶性来解释。这两颗恒星相互环绕，每隔一段时间，它们的联合重力就会以某种方式影响周围的气体和尘埃盘，导致大量物质向恒星坠落。坠落的物质将引发明显加热，热度将使这颗恒星比平时亮得多。这些爆发会将气体和尘埃盘撕裂。虽然这个圆盘将再次形成，但爆发仍然可能影响后来的行星系统的结构。",
+          "link": "https://www.solidot.org/story?sid=71624",
+          "publishedOn": "2022-05-25T06:48:08.000Z",
+          "wordCount": 81,
+          "title": "双星系统如何影响行星演化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71623",
+          "author": null,
+          "description": "研究发现，如果把每天看电视的时间缩短到一小时以内，那么逾十分之一的冠心病病例可被预防。冠心病的发作是因为脂肪物质在冠状动脉内堆积，导致流向心肌的血流降低，减少心脏血液供应。研究人员称，减少看电视的时间可以降低这种最常见心血管疾病的风险。虽然研究团队没有探究这一关联背后的原因，论文作者、香港大学助理教授 Youngwon Kim 博士称，以前的研究发现，电视观看时间过长与体内胆固醇和葡萄糖的不良水平有关联，可能导致患冠心病的风险增加。",
+          "link": "https://www.solidot.org/story?sid=71623",
+          "publishedOn": "2022-05-25T06:16:33.000Z",
+          "wordCount": 74,
+          "title": "研究发现缩短看电视时间能减少心脏疾病",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71622",
+          "author": null,
+          "description": "因为保密协议，以隐私为主要卖点的搜索引擎 DuckDuckGo 并没有屏蔽所有微软跟踪程序。DuckDuckGo 的搜索是基于微软的 Bing。它是在安全研究人员发现之后承认此事的。安全研究员 @thezedwards 发现，DuckDuckGo 移动浏览器没有屏蔽第三方网站上的微软追踪程序，DuckDuckGo CEO Gabriel Weinberg 解释说，微软不知道用户在 DuckDuckGo 上的搜索，DuckDuckGo 浏览器屏蔽了所有微软的 cookies。但如果你访问了一个含有微软跟踪程序的网站，那么用户的数据将会暴露给 Bing 和 LinkedIn，这是 DuckDuckGo 与微软搜索合作协议（search syndication agreement）的结果。这是一个保密协议，Gabriel Weinberg 称该公司正在幕后工作改进与微软的交易，他预计 DuckDuckGo 未来的更新将会“包含更多第三方微软保护”。",
+          "link": "https://www.solidot.org/story?sid=71622",
+          "publishedOn": "2022-05-25T05:53:19.000Z",
+          "wordCount": 103,
+          "title": "Bing 合同禁止 DuckDuckGo 完全屏蔽微软跟踪程序",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71621",
           "author": null,
@@ -1063,106 +1213,6 @@
           "wordCount": 97,
           "title": "Inkscape 1.2 发布",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71541",
-          "author": null,
-          "description": "科学家研究了植物在月球上生长的可行性，表明与在地球火山灰中相比，拟南芥植株在月球土壤样本中的生长速度较慢，并表现出更多应激迹象。这些月壤是阿波罗任务中收集的样本。科学家指出，这些发现表明为了让植物能在月球土壤中有效生长，对植物和月壤的相互作用还需进一步研究。佛罗里达大学研究团队测试了月壤是否能支持植物生命，他们让拟南芥（一种产于欧洲和非洲的开花植物）在12个土壤样本中生长，这些土壤由阿波罗11号、12号和17号月球任务收集。由于每次任务中收集的样本来自不同土层，阿波罗11号的样本暴露于月球表面的时间比阿波罗12号和17号样本更久。研究团队检查了这些植物之间、以及与16份地球火山灰样本中生长的拟南芥相比是否存在生长和基因表达差异。研究人员发现，种子虽然可以在所有土壤环境中生长，但月球土壤中的植物比在火山灰中长得更慢，需要更长时间展叶，有更多生长停滞根。",
-          "link": "https://www.solidot.org/story?sid=71541",
-          "publishedOn": "2022-05-16T09:14:51.000Z",
-          "wordCount": 71,
-          "title": "月球土壤首次成功培育出植物",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71540",
-          "author": null,
-          "description": "朝鲜疫情迅速扩大。根据朝中社周一最新消息，周日有 39.29 万人出现了可能由新冠引起的发热等症状，死亡人数已攀升至 50 人。自上月末以来，朝鲜共报告了超过 120 万例发热病例。此前，朝鲜一直坚称没有新冠病例，并拒绝接受人道主义援助。上周四它承认，疫情已于 4 月下旬开始蔓延。由于朝鲜公共卫生系统薄弱，疫苗接种率低，长期以来，卫生专家一直对该国抗击新冠疫情大规模暴发的能力表示担忧。国际卫生组织和韩国政府表示，若朝鲜提出需求，他们已准备好运送疫苗、治疗药物并提供其他援助。",
-          "link": "https://www.solidot.org/story?sid=71540",
-          "publishedOn": "2022-05-16T08:59:56.000Z",
-          "wordCount": 80,
-          "title": "朝鲜疫情迅速扩大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71539",
-          "author": null,
-          "description": "FAA 撤销了两位尝试在半空中从一架飞机跳到另一架飞机交换驾驶的特技飞行员的商业执照。这次特技飞行由红牛公司赞助，FAA 拒绝了这次飞行许可，理由是不符合公众利益，但飞行员仍然决定进行特技飞行尝试。在尝试中，一名飞行员成功跳到了另一架飞机上，另一名飞行员没有成功，但依靠降落伞安全着陆。两架飞机都安装了特别的制动系统用降落伞减缓速度，没有飞行员的飞机最后坠落在地面。FAA 在宣布撤销飞行员 Luke Aikins 和 Andrew Farrington 的商业飞行执照时指责他们的行为鲁莽。",
-          "link": "https://www.solidot.org/story?sid=71539",
-          "publishedOn": "2022-05-16T08:40:19.000Z",
-          "wordCount": 82,
-          "title": "FAA 撤销两位在空中交换飞机驾驶的特技飞行员执照",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71538",
-          "author": null,
-          "description": "对超过 100 万张卫星图像的分析表明，20多年来全球有 4000 平方公里的潮汐湿地消失。全球变化和人类活动正在推动全球潮汐湿地（潮汐沼泽、红树林和滩涂）快速变化。生态系统恢复和自然过程在减少总损失方面发挥着作用。但是由于潮汐湿地如何响应变化驱动因素存在不确定性，在全球范围内估计其当前和未来状态的工作仍然非常不清晰。在新研究中，研究人员对大量卫星图像历史档案进行了机器学习分析，以检测从 1999 年到 2019 年间世界潮汐湿地变化的程度、时间和类型。他们发现，在全球范围内有 1.37 万平方公里的潮汐湿地消失了，减去新增加的 9700 平方公里的潮汐湿地，二十年内净损失面积为 4000 平方公里。研究发表在《科学》期刊上。\n\n领导这项研究的澳大利亚詹姆斯库克大学全球生态实验室高级讲师兼负责人 Nicholas Murray 博士表示：“我们发现27%的面积损失和增加都与人类活动直接相关，例如转变为农地\n或者湿地恢复。”所有其他的变化都与间接驱动因素有关，例如人类对河流集水区的影响、沿海地区的广泛开发、海岸下沉、自然海水作用和气候变化。全球约四分之三的潮汐湿地净减少发生在亚洲，其中近 70% 集中在印度尼西亚、中国和缅甸。科学家发现，全球将近四分之三的潮汐湿地损失已被以前没有湿地的地区出现的新潮汐湿地所抵消——横河和亚马逊三角洲的湿地面积增长显著。大多数新的潮汐湿地是间接推动因素的结果，凸显出大范围海水作用在维持潮汐湿地以及促进其自然再生方面的显著作用。现在全球有超过 10 亿人生活在低海拔沿海地区。",
-          "link": "https://www.solidot.org/story?sid=71538",
-          "publishedOn": "2022-05-16T06:59:53.000Z",
-          "wordCount": 94,
-          "title": "卫星图像显示过去二十年全球湿地急剧减少",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71537",
-          "author": null,
-          "description": "全球化带来了非凡的经济效率。汇款几纳秒就能完成，不需要几天或者几周。全球供应链数十个国家的数百个供应商能共同制造出智能手机之类的复杂产品。一些供应链由一个国家主导。如中国控制了光伏制造的所有阶段。这些链接让经济更加相互依存。不同国家的企业可能会为了提高效率而依赖单一供应商——如果该供应商出了问题，就会产生风险。随着战争在乌克兰蔓延，德国汽车工厂因为无法获得乌克兰供应商生产的电子布线系统（或称为“线束”）陷入产能闲置。全球经济不是对称的，正如传统智慧假设的那样，一个开放的链接系统在一个节点关闭时会提供许多替代路径。它是非对称的：贸易和金融的流动依赖于数量较少的枢纽或者节点，这些枢纽和节点拥有许多链接。对这些枢纽进行控制让政府能阻挡对手进入全球经济网络的关键部分。",
-          "link": "https://www.solidot.org/story?sid=71537",
-          "publishedOn": "2022-05-16T06:53:40.000Z",
-          "wordCount": 72,
-          "title": "武器化金融和供应链中的薄弱环节",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71536",
-          "author": null,
-          "description": "生物制药公司 MindMed 公布了高剂量 LSD 治疗焦虑症 2 期临床试验的首份数据摘要。结果表明，一到两个 LSD 疗程可快速并持续地减少焦虑，不过还需要更大规模的试验验证发现。试验是在瑞士巴塞尔大学进行的。有46名参与者参与，试验采用了交叉设计，随机分配参与者，并用安慰剂进行对照。参与者完成了两次高剂量（200微克）LSD 疗程，相隔六周。主要疗效指标是在第二个 LSD 疗程16周后焦虑减少，结果是通过一种名为STAI（状态-特质焦虑量表）量表测量的，这是一种用于量化焦虑的常见测试。MindMed 披露的数据表明，LSD 组中 65%（20 人中的 13 人）的人临床 STAI 评分显著降低了 30% 以上。安慰剂组只有 9% 的人（22 人中有 2 人）表现出类似的临床改善。结果表明治疗总体安全的，大多数受试者仅报告了轻微的不良反应。公告报告在 LSD 疗程期间出现了一起严重不良反应事件，该事件被描述为“急性短暂的焦虑和妄想”。该受试者需要使用镇静剂，但未发现长期不良反应。MindMed 现在正在开始一项 2b 期试验，以扩展这些发现并进一步探索 LSD 作为治疗焦虑症的方法。",
-          "link": "https://www.solidot.org/story?sid=71536",
-          "publishedOn": "2022-05-16T06:48:35.000Z",
-          "wordCount": 108,
-          "title": "至今最大规模 LSD 治疗焦虑试验取得初步成果",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71535",
-          "author": null,
-          "description": "由初创公司创始人组成联盟 My Friends My Data（MFMD）致力于推动科技巨头采用新的行业标准，允许用户将他们的粉丝从一个应用程序转移到另一个应用程序，从而在平台之间创造更多的竞争。摄影社交网络 Dispo 的创始人兼首席执行官 Daniel Liss 表示：“大型社交媒体公司有意的将我们的个人联系信息作为人质。”“限制了消费者的选择，阻碍了竞争并抑制了言论自由。我们致力于让社区成员控制他们的朋友数据。”\n\n\nMFMD 的创始成员包括 Dispo、Itsme、Clash App、Muze、Spam app 和 Collage 等热门社交应用程序，这些应用程序共获得了逾亿美元的风险投资和数千万的下载量。该组织已向 Meta、TikTok、Snap、Twitter 等大型社交平台发出信函，呼吁加入 MFMD 运动。这些初创企业发现，由于无法将粉丝带到其他地方，互联网上的明星内容创作者基本上被锁定在特定的平台，在这种情况下与 Meta 或 YouTube 等巨头竞争是很困难的。\n\n\n很多创作者加入了 MFMD 的倡议。在 Vine 关闭之后，他们在所有权方面吸取了教训。很多 Vine 顶流都有风险过高的问题，将全部的精力投入到这个短视频平台上以建立其粉丝群。当该应用在 2016 年关闭时，没有从 Vine 跳到 YouTube 等应用的人无法访问他们建立的庞大粉丝群。Liss 表示，除了向科技巨头施加公众压力外，他还希望 MFMD 也能成为一支政治力量。Liss 表示：“我很乐意代表我们认为正确的方式参与政治进程。”“不仅是为了我们的公司，也是为了下一代消费者初创企业。”",
-          "link": "https://www.solidot.org/story?sid=71535",
-          "publishedOn": "2022-05-16T06:40:52.000Z",
-          "wordCount": 113,
-          "title": "社交平台应允许用户转移其社交信息？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71534",
-          "author": null,
-          "description": "根据发表在《焦耳》期刊上的一项研究，南京大学研究人员对嫦娥五号带回的月壤的分析显示，月球土壤成分作为人工光合成催化剂，能把人类呼出的二氧化碳、月球表面开采的水等，制造成氧气、氢气、甲烷以及甲醇。要想在月球上居住和生存，水、氧气和能源必不可少，靠地球输送始终是杯水车薪，科研人员希望能从月球“土著”资源寻找更多可能性。为了寻找最优方案，科研团队对月壤催化进行了多种尝试，来评估其性能。比如用光伏电解水的方式实现氢气和氧气的转化；光催化水分解成氢气和氧气；光催化二氧化碳转化成一氧化碳、甲烷和甲醇；光热催化二氧化碳加氢产生甲烷和甲醇。最终，他们筛选出光伏电解水和光热催化二氧化碳加氢这两种方式，可以实现最高的月壤催化效率，而且得到的物质更有用、更纯净。用月壤催化得到的氧气、氢气、甲烷以及甲醇这四种物质，都是人类在月球表面生存且构筑基地和中继站所必须的物质。作为月球上最丰富的资源之一，月壤资源有着巨大的发展空间和潜力。",
-          "link": "https://www.solidot.org/story?sid=71534",
-          "publishedOn": "2022-05-16T06:17:26.000Z",
-          "wordCount": 71,
-          "title": "月球土壤成分能用于制造氧气氢气",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71533",
-          "author": null,
-          "description": "知名音响品牌安桥上周五在大阪法院申请破产，破产原因被认为是音响市场向串流和智能手机转移，安桥未能适应市场变化。安桥成立于 1946 年，专门生产高档家庭影院和音响设备, 包括接收器、环绕声音扬声器和其他便携式设备。 安桥一直在家庭影院领域等扩大业务，但未能顺应瞬息万变的娱乐市场，未能培育成新的收益来源。作为盈利来源的音箱的销售持续缩小，因资金不足，陷入了连产品制造都无法保持的恶性循环。",
-          "link": "https://www.solidot.org/story?sid=71533",
-          "publishedOn": "2022-05-16T05:35:47.000Z",
-          "wordCount": 75,
-          "title": "知名音响品牌安桥申请破产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71532",
-          "author": null,
-          "description": "Red Hat 在 2020 年决定停止支持 CentOS 8，将重心转向滚动发行版 CentOS Stream。CentOS 是企业发行版 Red Hat Enterprise Linux (RHEL) 的社区分支，有很多大企业客户，其中包括括迪士尼、GoDaddy、RackSpace、丰田和 Verizon。作为对 Red Hat 决定的回应，CentOS 联合创始人 Greg Kurtzer 发起了 Rocky Linux 项目，吸引了大量开发者和用户。项目还得到了 Linux 稳定版内核维护者 Greg Kroah-Hartman 的支持，他领导了 Rocky Linux special interest group (SIG)为 Rocky Linux 创建可选的增强内核。Rocky Linux 刚刚宣布它筹集到了 2600 万美元推进在企业领域扩大使用的计划。",
-          "link": "https://www.solidot.org/story?sid=71532",
-          "publishedOn": "2022-05-16T02:35:53.000Z",
-          "wordCount": 123,
-          "title": "Rocky Linux 筹集到 2600 万美元拓展企业业务",
-          "imageUrl": null
         }
       ]
     },
@@ -1199,18 +1249,7 @@
       "title": "思考问题的熊",
       "feedUrl": "https://kaopubear.top/blog/atom.xml",
       "siteUrl": "https://kaopubear.top/blog",
-      "articles": [
-        {
-          "id": "https://kaopubear.top/blog/2022-05-16-fda-ctDNA-for-early-stage-solid-tumor-drug-development/",
-          "author": null,
-          "description": "<p>这个月初，FDA发布了将<a href=\"https://www.fda.gov/regulatory-information/search-fda-guidance-documents/use-circulating-tumor-deoxyribonucleic-acid-early-stage-solid-tumor-drug-development-draft-guidance\">ctDNA应用于早期实体瘤药物开发的指导意见稿</a>。</p>\n<p>对于相关公司而言，意见中的注意事项确实具有「指导」意义。对于相关从业者，等于得到了一份「ctDNA在早期实体瘤临床研究应用方向」的参考答案。</p>",
-          "link": "https://kaopubear.top/blog/2022-05-16-fda-ctDNA-for-early-stage-solid-tumor-drug-development/",
-          "publishedOn": "2022-05-16T14:37:44.000Z",
-          "wordCount": 126,
-          "title": "FDA发布ctDNA应用于早期实体瘤药物开发的指导意见",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "reuixiy",
@@ -1243,16 +1282,6 @@
           "publishedOn": "2022-05-23T01:25:34.000Z",
           "wordCount": 357,
           "title": "[文章] 精读《react-snippets - Router 源码》",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://zhuanlan.zhihu.com/p/514962036",
-          "author": "黄子毅",
-          "description": "useEvent 要解决一个问题：如何同时保持函数引用不变与访问到最新状态。\n本周我们结合 RFC 原文与解读文章 What the useEvent React hook is (and isn't) 一起了解下这个提案。\n借用提案里的代码，一下就能说清楚 useEvent 是个什么东西：\n\nfunction Chat() {\n  const [text, setText] = useState('');\n\n  // ✅ Always the same function (even if `text` changes)\n  const onClick = useEvent(() => {\n    sendMessage(text);\n  });\n\n  return <SendButton onClick={onClick} />;\n}\n\n\nonClick 既保持引用不变，又能在每次触发时访问到最新的 text 值。\n为什么要提供这个函数，它解决了什么问题，在概述里慢慢道来。\n概述\n定义一个访问到最新 state 的函数不是什么难事：\n\nfunction App() {\n  const [count, setCount] = useState(0)\n\n  const sayCount = () => {\n    console.log(count)\n  }\n\n  return <Child onClick={sayCount} />\n}\n\n\n但 sayCount 函数引用每次都会变化，这会直接破坏 Child 组件 memo 效果，甚至会引发其更严重的连锁反应（Child 组件将 onClick 回调用在 useEffect 里时）。\n想要保证 sayCount 引用不变，我们就需要用 useCallback 包裹：\n\nfunction App() {\n  const [c…",
-          "link": "https://zhuanlan.zhihu.com/p/514962036",
-          "publishedOn": "2022-05-16T01:18:33.000Z",
-          "wordCount": 368,
-          "title": "[文章] 精读《React useEvent RFC》",
           "imageUrl": ""
         }
       ]
