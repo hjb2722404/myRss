@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42327",
+          "author": "青小蛙",
+          "description": "Simple Mobile Tools 是一家小而美的安卓应用开发商。如其名，开发了一组简单、开源的安卓应用，无广告、无多余权限，多数免费，质量优异。@Appinn 前几天青小蛙推荐了一款应用：简易绘",
+          "link": "https://www.appinn.com/simple-mobile-tools/",
+          "publishedOn": "2022-05-27T05:43:15.000Z",
+          "wordCount": 697,
+          "title": "Simple Mobile Tools 的 22 款极简安卓应用",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/simple-mobile-tools.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42315",
           "author": "青小蛙",
           "description": "CompactGUI 是微软 NTFS 文件系统压缩工具 compact 的图形界面版本，它可以单独压缩 NTFS 文件，让你单独控制每一个文件夹。@Appinn 当你在 Windows 上开启了「压",
@@ -125,26 +135,6 @@
           "wordCount": 557,
           "title": "Dockit – 超越画中画，最强窗口局部显示软件（AHK 脚本）",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/dockit.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42251",
-          "author": "青小蛙",
-          "description": "今年 1 月份的时候，Google 发布了消息将取消 G Suite 免费版（旧版），G Suite 免费版（旧版）将于2022年7月1日起终止服务，必须升级为付费套餐（https://www.app",
-          "link": "https://www.appinn.com/g-suite-legacy-free-is-start/",
-          "publishedOn": "2022-05-18T07:09:07.000Z",
-          "wordCount": 566,
-          "title": "个人用途：可继续使用 G Suite 免费版（旧版）",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/g-suite-legacy-free-is-start.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42244",
-          "author": "青小蛙",
-          "description": "昨天推荐了一款小工具：SuperRDP2 – 为 Windows 家庭版开启远程桌面功能，就有同学反馈「新版win10必须使用自动分析 而自动分析需要关注微信才能拿」，然后小众软件微信公众号的 @孟雷",
-          "link": "https://www.appinn.com/rdpwrap-by-sebaxakerhtc/",
-          "publishedOn": "2022-05-18T03:28:24.000Z",
-          "wordCount": 489,
-          "title": "rdpwrap by sebaxakerhtc – 激活 Windows 10 家庭版的远程桌面",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/rdpwrap-by-sebaxakerhtc.jpgo_.jpg"
         }
       ]
     },
@@ -153,6 +143,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=366068",
+          "author": "Geoff Graham",
+          "description": "I teach a class over at the local college here in Long Beach and a majority of the content is hosted on the Canvas LMS so students can access it online. And, naturally, I want the content to be as …\nJust How Long Should Alt Text Be? originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/just-how-long-should-alt-text-be/",
+          "publishedOn": "2022-05-27T14:25:39.000Z",
+          "wordCount": 839,
+          "title": "Just How Long Should Alt Text Be?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366068"
+        },
         {
           "id": "https://css-tricks.com/?p=366107",
           "author": "Geoff Graham",
@@ -242,16 +242,6 @@
           "wordCount": 2038,
           "title": "Inline Image Previews with Sharp, BlurHash, and Lambda Functions",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365784"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365766",
-          "author": "Jhey Tompkins",
-          "description": "I was fortunate last year to get approached by Shawn Wang (swyx) about doing some work for Temporal. The idea was to cast my creative eye over what was on the site and come up with some …\nAn Interactive Starry Backdrop for Content originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-interactive-starry-backdrop-for-content/",
-          "publishedOn": "2022-05-18T14:16:43.000Z",
-          "wordCount": 2895,
-          "title": "An Interactive Starry Backdrop for Content",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365766"
         }
       ]
     },
@@ -304,6 +294,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71660",
+          "author": null,
+          "description": "Perl Steering Council（Perl 语言指导委员会，PSC）谈论了 Perl 的未来计划，以及何时会发布 Perl 7。两年前，Perl 语言项目宣布了 Perl 7，与 Perl 6 的激进改变不同，Perl 7 实际上是 Perl v5.32 配上更符合现代趋势的默认设置。开发者称，对向后兼容的承诺使得他们不能改变默认设置，但为了最小化历史包袱的影响，他们决定在新的大版本中调整和启用新的默认设置。Perl 项目原计划是在 2021 年发布 Perl 7，但这个时间表显然延后了。PSC 表示目前的计划是继续引入新特性，以及决定现有的实验性特性是放弃还是转为非实验性。此举的缺陷是人们将不会记住哪个 Perl 版本引入了哪个特性。PSC 可能会在未来某个时候决定将这些特性结合在一块，代表足够大的进步以作为新 Perl 的基线。这个版本将被称为 Perl 7。",
+          "link": "https://www.solidot.org/story?sid=71660",
+          "publishedOn": "2022-05-27T09:45:04.000Z",
+          "wordCount": 109,
+          "title": "Perl 7 将何时发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71659",
+          "author": null,
+          "description": "开启合并窗口的 Linux 5.19 加入了近 50 万行图形驱动代码。新增代码 495,793 行，删除代码 32,019 行，大部分新图形驱动代码为 AMD 下一代显卡的预备工作，包括数据中心显卡 CDNA Instinct 和消费者显卡 RDNA3 Radeon RX 7000 系列。在 Linux 内核，AMD 的图形驱动占到了逾四百万行代码。其它新增图形驱动还有英特尔的 DG2，以及高通和联发科的 GPU 驱动。",
+          "link": "https://www.solidot.org/story?sid=71659",
+          "publishedOn": "2022-05-27T09:15:57.000Z",
+          "wordCount": 104,
+          "title": "Linux 5.19 加入了 50 万行图形驱动代码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71657",
+          "author": null,
+          "description": "世界最大的生产细胞培养肉的生物反应器有望供应数万家商店和餐馆。专家表示，此举可能会改变这个新兴行业的“游戏规则”。美国公司 Good Meat 表示，生物反应器每年可生产超过 1.3 万吨的鸡肉和牛肉。它将使用从细胞库或鸡蛋中提取的细胞，因此不需要屠宰任何牲畜来得到肉。全世界大约有 170 家公司致力于人造肉，但 Good Meat 是唯一一家获得监管部门批准向公众销售其产品的公司。它于 2020 年 12 月开始在新加坡供应细胞培养鸡肉。该公司表示，Good Meat 有 10 个新的生物反应器正在建造，每个反应器的容量为 25 万升，反应器有四层楼高，比迄今为止建造过的任何反应器都要大得多。设施所在的美国地点将在三个月内敲定，并将于 2024 年底投入运营，产量到 2026 年达到每年 1.18 万吨，到 2030 年达到每年 1.37 万吨。根据协议，生物工艺设备制造商 ABEC 正在制造这些生物反应器，该公司还在为 Good Meat 的新加坡工厂制造一个 6000 升的生物反应器——该生物反应器计划于 2023 年初开始生产，将成为迄今为止安装的最大的细胞培养肉生物反应器。细胞培养肉还没有获得美国食品和药物管理局的销售批准。Good Meat 母公司 Eat Just 的首席执行官 Josh Tetrick 透露已提交申请。",
+          "link": "https://www.solidot.org/story?sid=71657",
+          "publishedOn": "2022-05-27T07:54:57.000Z",
+          "wordCount": 118,
+          "title": "美国建造世界最大的“无杀戮”肉培养设施",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71656",
+          "author": null,
+          "description": "140 年前，爱迪生开始用两个燃煤发电站发电，一个位于伦敦（霍尔邦高架桥），另一个位于纽约市（珍珠街站）。尽管电力显然是下一个大事件，但是让大多数人用上电所花费的时间还是超出了人一生的长度。即使是现在，世界上也不是所有的地方都能轻松地用上电。这种缓慢的推广对我们是一个提醒——基础系统性的转型旷日持久。这种转型往往遵循S形曲线：增长率由慢到快，然后又回归到慢。1902 年，美国发电量仅为 6TWh，一百多年的轨迹呈现出清晰的 S 形曲线。到 191 2年，发电量为 25TWh，到 1930 年是 114TWh，到 1940 年是 180TWh，然后连续三个十年翻倍，到 1970 年将发电量提高到将近 1600TWh。在繁荣时期，1930 年代是唯一一个总发电量没有翻倍的十年，但是到 1970 年之后，翻一番用了二十年，从 1990 年到 2020 年，发电量仅增长了三分之一。随着这一过程走向成熟，首先是价格下降推动了电力消费量的上升，然后是电力用途的增加。1970年，通胀调整后电价的大幅下降结束，发电量在 2007 年达到了每年大约 4000TWh 的稳定水平。早期发电量的扩张主要是用于工业（特别是从蒸汽机向电动机的转变）和商业。到二战结束之前，家庭用电一直都很节制。",
+          "link": "https://www.solidot.org/story?sid=71656",
+          "publishedOn": "2022-05-27T07:47:07.000Z",
+          "wordCount": 99,
+          "title": "基本能源转型可能需要一个世纪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71655",
+          "author": null,
+          "description": "研究人员可能确定了约半个世纪之前发现的著名外星人广播的来源。著名且依然神秘的 Wow! 信号——1977 年 8 月 15 日晚上在射电望远镜中短暂出现的信号可能来自于 1800 光年外人马座的一颗类太阳的恒星。天文爱好者 Alberto Caballero 告诉 Live Science：“Wow!信号被认为是我们用望远镜收到的最好的 SETI（寻找外星智慧生命）候选无线电信号。”这个 Wow！信号很可能是来自某个自然事件，而不是外星人，不过天文学家已经排除了一些可能的来源，例如某颗路过的彗星。尽管如此，Caballero 指出，在我们为数不多向外星人打招呼的尝试中，人类产生的大多是一次性广播，例如 1974 年向球状星团 M13 发送的阿雷西博信息。他补充表示，这个Wow！信号也可能是类似的东西。在知道大耳朵望远镜的两个接收器在接到Wow!信号的那个晚上指向的是人马座的方向之后，Caballero 决定搜索欧空局（ESA）Gaia 卫星的恒星目录，以寻找可能的候选者。他表示：“我发现了一颗特别的恒星，类似于太阳。”这是一个名为 2MASS 19281982-2640123 的天体，距离我们大约 1800 光年，其温度、直径和亮度都与我们的太阳几乎一样。Caballero的研究结果发表在 5 月 6 日的《国际天体生物学杂志》上。",
+          "link": "https://www.solidot.org/story?sid=71655",
+          "publishedOn": "2022-05-27T07:44:35.000Z",
+          "wordCount": 103,
+          "title": "著名的“外星人”Wow!信号可能来自遥远类太阳恒星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71653",
+          "author": null,
+          "description": "虚幻引擎和《堡垒之夜》开发商 Epic 的 CEO Tim Sweeney 接受《金融时报》采访谈论了元宇宙，以及过去几年他一直抱怨的两大科技巨头苹果和 Google。Tim Sweeney 认为，浸入式虚拟世界——元宇宙——已经确确实实发生了，至少有 6 亿月活用户使用 3D 社交娱乐，而且这个数字还在不断增长。但要将元宇宙用于工作则是另一回事，他对此表示怀疑，因为坐在 3D 虚拟环境中讨论工作是非常无聊的事情，剥离掉元宇宙的娱乐元素，你得到的只是毛骨悚然版本的 America Online 聊天室。",
+          "link": "https://www.solidot.org/story?sid=71653",
+          "publishedOn": "2022-05-27T06:28:16.000Z",
+          "wordCount": 93,
+          "title": "Tim Sweeney 对元宇宙用于工作表示怀疑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71652",
+          "author": null,
+          "description": "发表在《科学报告》期刊上的一项考古学研究，报道了公元 79 年维苏威火山喷发后在意大利庞贝去世的一名个体的人类基因组测序结果。在此之前，研究人员只测序过庞贝人和动物残骸的线粒体 DNA 短片段。丹麦哥本哈根大学和意大利萨兰托大学的研究人员此次分析了在庞贝“匠人之家”发现的两名个体的残骸，并提取了他们的DNA。根据这些骨骼的形状、构造和长度判断，一组残骸属于一名死亡时年龄 35 到 40 岁的男性，另一组残骸属于一名 50 岁以上的女性。虽然作者能提取两名个体的古 DNA 并进行测序，但他们只能获得男性残骸的完整基因组，因为女性残骸的序列存在空白。研究团队比较了这名男性个体的 DNA 与其他 1030 名古代及 471 名现代西方欧亚个体的 DNA，发现他的 DNA 与现代中部意大利人以及罗马帝国时期住在意大利的其他个体的相似性最大。不过，对这名男性的线粒体DNA和Y染色体 DNA 的分析还发现了在撒丁岛个体中常见的基因群，但在罗马帝国时期住在意大利的其他个体中没有发现这些基因群。这说明整个意大利半岛在这一时期可能有着很高的遗传多样性。",
+          "link": "https://www.solidot.org/story?sid=71652",
+          "publishedOn": "2022-05-27T05:42:58.000Z",
+          "wordCount": 94,
+          "title": "科学家测序庞贝人完整基因组",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71651",
+          "author": null,
+          "description": "在 Google 游戏串流服务 Stadia 的支持论坛，有玩家报告丢失了《幽灵行动：断点》的游戏存档，在登陆进游戏之后玩家发现必须从头开始创建新存档，旧存档消失了。问题看起来不只是影响一个人，许多在 Stadia 上玩《幽灵行动：断点》的玩家都报告存档丢失。Stadia 的技术人员表示正在调查，但目前还没有给出解释。游戏串流服务的优势是可以随时随地玩，但如果不能永久保存游戏存档，那么这个优势也就不存在了。",
+          "link": "https://www.solidot.org/story?sid=71651",
+          "publishedOn": "2022-05-27T05:21:37.000Z",
+          "wordCount": 80,
+          "title": "Stadia 删除《幽灵行动：断点》的玩家存档",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71650",
+          "author": null,
+          "description": "微软表示，将放慢部分招聘步伐，成为最新一家在招募员工方面变得更加谨慎的科技巨头。微软表示，将放慢为开发 Windows、Office 和 Teams 应用程序的软件业务部门招聘人员的速度。近年来，该部门一直是该公司增长最快的部门之一。微软负责软件部门的执行副总裁 Rajesh Jha 周四在电子邮件中告诉员工，尽管该公司计划扩大整体员工人数，但软件部门的新员工必须首先得到高管层的批准。在此之前，招聘不需要得到高管层的批准。",
+          "link": "https://www.solidot.org/story?sid=71650",
+          "publishedOn": "2022-05-27T03:28:48.000Z",
+          "wordCount": 78,
+          "title": "微软放缓招聘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71649",
+          "author": null,
+          "description": "博通正式宣布以 610 亿美元收购 VMware 并承担大约 80 亿美元的债务，总金额将达到 690 亿美元。博通在 2018 年以 189 亿美元收购企业软件公司 CA Technologies，一年后又以 107 亿美元收购网络安全集团赛门铁克，借此进军软件行业。如果最新的这笔交易完成，它将进一步将博通转型为一家多元化的科技公司，而不是一家主要专注于半导体的公司。若包括 VMware 在内，博通在软件和半导体领域的营收将大致相同。博通此前曾尝试收购高通但被特朗普政府以国家安全理由阻止。",
+          "link": "https://www.solidot.org/story?sid=71649",
+          "publishedOn": "2022-05-27T03:23:10.000Z",
+          "wordCount": 95,
+          "title": "博通以 610 亿美元收购 VMware",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71648",
           "author": null,
@@ -1122,126 +1212,6 @@
           "publishedOn": "2022-05-18T15:08:38.000Z",
           "wordCount": 125,
           "title": "Software Freedom Conservancy 诉 Vizio 取得重大突破",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71566",
-          "author": null,
-          "description": "根据发表在《物理评论快报》上的一篇论文，中科大等的研究人员首次实现了侧信道无关量子密钥分发（QKD）的实验验证。QKD 基于量子力学基本原理，理论上可以为远程用户提供无条件安全的密钥交换。然而，实验实现和理论之间存在很大差距。在实际QKD系统中，由于现实器件并不完美，窃听者可以利用编码维度以外的侧信道，如光子频谱、发射时间、传播方向、空间角动量等来窃取密钥，这给现实 QKD 系统留下了潜在安全性漏洞。",
-          "link": "https://www.solidot.org/story?sid=71566",
-          "publishedOn": "2022-05-18T08:27:53.000Z",
-          "wordCount": 78,
-          "title": "中科大首次实现侧信道无关的 QKD 实验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71565",
-          "author": null,
-          "description": "俄罗斯数字发展部长 Maksut Shadaev 周二表示该国不打算封锁 YouTube，因为此举会影响到俄罗斯用户。YouTube 在俄罗斯有九千万月活用户，虽然俄有很多西方流行社交媒体的替代品，但还不存在规模上接近 YouTube 的替代。俄罗斯此前限制了对 Twitter、Facebook 和 Instagram 的访问，曾测试过切断全球互联网接入的试验。Shadaev 否定了俄罗斯可能考虑切断与全球互联网接入的猜测，表示俄罗斯不想与任何人隔离开来，应该继续成为全球网络的一部分。",
-          "link": "https://www.solidot.org/story?sid=71565",
-          "publishedOn": "2022-05-18T07:55:41.000Z",
-          "wordCount": 83,
-          "title": "俄罗斯表示无意切断与全球互联网的接入",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71564",
-          "author": null,
-          "description": "中科院植物研究所研究员郭柯团队在西藏察隅县考察时，在云南黄果冷杉原始森林发现我国迄今为止最高树木。经无人机吊绳多次测量，该树木高度 83.2 米、胸径 207 厘米，高度超过了此前报道的位于西藏的不丹松（76.8米)和位于中国台湾的台湾杉（81-82米），刷新了中国最高树纪录。研究人员表示，该区域之所以能够保留如此高大完好的原始森林，得益于优越的气候和地形条件，以及极少的人类活动干扰。此处的大量高大树木及所在群落和生态系统具有重要的科研价值和保护意义。",
-          "link": "https://www.solidot.org/story?sid=71564",
-          "publishedOn": "2022-05-18T07:33:41.000Z",
-          "wordCount": 75,
-          "title": "云南发现中国最高树木",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71563",
-          "author": null,
-          "description": "Leslie Lamport 的名字可能不是家喻户晓，但作为计算机科学家，他比起那些名人不遑多让：排版程序 LaTeX 以及让 Google 和亚马逊云基础设施成为可能。他对一些问题给予了更多的关注，给它们起了独特的名字，比如面包店算法和拜占庭将军问题。这绝非偶然。这位 81 岁的计算机科学家对于人们如何使用和看待软件有着不同寻常的深入思考。2013 年，他赢得了被认为是计算领域诺贝尔奖的A.M.图灵奖，以表彰他在分布式系统方面的工作，此类系统由不同网络上的多个组件相互协调实现共同目标。互联网搜索、云计算和人工智能都涉及编排强大的计算机军团协同工作。当然这种协调也会给你带来更多的问题。Lamport曾说过：“分布式系统是这样一个系统：一台你甚至不知道其存在的计算机出现故障，就可能导致你自己的计算机无法使用。”\n\n\n问题的最大来源之一是“并发系统”，其中多个计算操作发生在重叠的时间片中，导致模棱两可：哪台计算机的时钟是正确的？在 1978 年的一篇开创性论文中，Lamport 借鉴狭义相对论的见解，引入了“因果关系”概念解决这个问题。两个观察者可能在事件的顺序上存在分歧，但如果一个事件导致另一个事件，这就消除了分歧。并且发送或接收消息可以在多个进程之间建立因果关系。逻辑时钟——现在也称为 Lamport 时钟——提供了一种推理并发系统的标准方法。有了这个工具，计算机科学家接下来想知道他们如何能系统地使这些联网计算机变得更大，而不会增加错误。Lamport 提出了一个优雅的解决方案：Paxos，一种允许多台计算机执行复杂任务的“共识算法”。如果没有 Paxos 及其算法家族，现代计算就不可能存在。",
-          "link": "https://www.solidot.org/story?sid=71563",
-          "publishedOn": "2022-05-18T07:01:40.000Z",
-          "wordCount": 89,
-          "title": "如何编写数学上完美的软件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71562",
-          "author": null,
-          "description": "两名美国国防情报高级官员周二表示，五角大楼致力于确定其所谓的“不明空中现象”——通常称为不明飞行物（UFO）——的起源，但承认其中许多现象仍然超出了政府的解释能力。Ronald Moultrie 和 Scott Bray 两名官员出席众议院情报小组委员会，参加美国国会半个世纪以来关于 UFO 的首次公开听证会。11 个月前，一份政府报告记录了美国军事飞行员自 2004 年以来观察到的 140 多起不明空中现象（UAP事件）。海军情报局副局长 Bray 表示，新成立的五角大楼特别工作组正式编目的 UAP 数量已增至 400 例。两位官员在描述特别工作组的工作以及可能的外星起源问题时都措辞谨慎，Bray 表示国防和情报分析人员并未排除这种可能性。Bray 表示，“我们没有材料，我们没有检测到任何放射物，在 UAP 特别工作组内部这表明它不是来自地球。”",
-          "link": "https://www.solidot.org/story?sid=71562",
-          "publishedOn": "2022-05-18T06:52:54.000Z",
-          "wordCount": 97,
-          "title": "五角大楼致力于理解 UFO 的起源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71561",
-          "author": null,
-          "description": "Google AI 子公司 DeepMind 的首席研究员表示，人类水平的人工智能即将到来。Nando de Freitas 博士表示，在 DeepMind 推出能完成从堆积木到写诗的各种复杂任务的人工智能系统之后，实现通用人工智能（AGI）长达数十年的探索“游戏结束”。de Freitas博士表示，被描述为“通才代理”的 DeepMind 的新 Gato AI 只需要扩大规模，就能创造出与人类智能相媲美的 AI 能力。在回应 The Next Web 上一篇声称“人类永远无法实现AGI”的评论文章时，DeepMind 的研究主管写道，他认为结果是不可避免的。他在 Twitter 上写道：“现在一切都是规模的问题！游戏结束了。”“一切都是为了让这些模型更大、更安全、计算效率更高、采样速度更快、内存更智能、模式更多、创新数据、在线/离线……解决这些挑战就能实现 AGI。”机器学习研究员 Alex Dimikas 询问他认为 Gato AI 距离通过真正的图灵测试还有多远时，de Freitas 博士回答说：“还远着呢。”图灵测试是一种计算机智能的衡量标准，人类无法区分对方是机器还是人即算通过。de Freitas 博士在 Twitter 上回答 AI 研究人员提出的进一步问题时表示，在开发 AGI 时，“安全至关重要”。他写道：“这可能是我们面临的最大挑战。”“每个人都应该重视这个问题。缺乏足够的多样性也让我很担心。”",
-          "link": "https://www.solidot.org/story?sid=71561",
-          "publishedOn": "2022-05-18T06:46:44.000Z",
-          "wordCount": 118,
-          "title": "DeepMind 透露能完成复杂任务的 Gato AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71560",
-          "author": null,
-          "description": "根据发表在《Scientific Reports》期刊上的论文，研究人员将花更多时间玩游戏与儿童智力提升关联起来，在某种程度上与游戏对年轻人有害的说法相矛盾。虽然认知能力的差异很小，不足以证明因果关系，但足以引起注意——研究仔细考虑了各种变量，包括遗传和儿童社会经济背景的差异。与此同时，看电视和使用社交媒体似乎对智力没有正面或负面影响。在年轻人花多少时间盯着屏幕是合适的这样的辩论中，这项研究应该是有用的。研究人员调查了 ABCD 研究中 9855 名儿童盯着屏幕的时间的记录，这些儿童都在美国，年龄在 9 岁或者 10 岁。平均而言，这些年轻人报告说每天花 2.5 小时看电视或者在线视频，1 小时玩电子游戏，半个小时使用社交网络。两年后研究人员再次查阅了其中 5000 多名儿童的数据。期间报告在电子游戏上花费的时间超过正常水平的儿童的智商比平均水平高出了 2.5 个点。智商评分的增加是基于孩子们在阅读理解、视觉空间处理以及专注于记忆、灵活思维和自我控制的任务上的表现。该研究只调查了美国的儿童，没有区分游戏的类型，如手游还是主机游戏。",
-          "link": "https://www.solidot.org/story?sid=71560",
-          "publishedOn": "2022-05-18T06:15:34.000Z",
-          "wordCount": 87,
-          "title": "电玩对儿童智商有意想不到的影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71559",
-          "author": null,
-          "description": "迈阿密市长 Francis Suarez 支持的一种本地加密货币 MiamiCoin 过去几个月贬值了 95%，如今连一美分都不值。MiamiCoin 加密货币由 CityCoins 创造，它声称这是一场金融试验，通过社区驱动的收入流赋权公民，刺激数字城市服务。Francis Suarez 盛赞该代币有朝一日能取代市政税收成为市政府主要资金来源。CityCoins 还为纽约和德州奥斯丁推出类似的城市加密货币，但目前只有迈阿密市长对此类加密货币给与支持。MiamiCoin 于去年 8 月推出，但过去九个月其币值相比最高点下跌了 95%，目前只值 0.0032 美元。",
-          "link": "https://www.solidot.org/story?sid=71559",
-          "publishedOn": "2022-05-18T05:14:00.000Z",
-          "wordCount": 91,
-          "title": "迈阿密市长支持的加密货币贬值 95%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71558",
-          "author": null,
-          "description": "中芯国际 CEO 赵海军表示，2022 年全球智能手机销量至少减少 2 亿部，受影响的主要是中国手机品牌。赵海军称，战争以及新冠封锁大幅减少了对消费电子和家电的需求，影响到了这些领域的芯片订单。赵海军表示他目前看不到结束的迹象，消费电子需求像石头一样直降，部分客户的库存存量能维持五个月。这种情况并没有影响到中芯国际的生产，工厂仍然以百分之百产能运行，绿色能源、电动汽车和工业应用电源管理芯片和微控制器的需求仍然十分旺盛。",
-          "link": "https://www.solidot.org/story?sid=71558",
-          "publishedOn": "2022-05-18T04:19:23.000Z",
-          "wordCount": 76,
-          "title": "中芯国际称手机芯片需求大幅下降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71556",
-          "author": null,
-          "description": "《华尔街日报》引述消息人士指黑盒数据分析报道，中国东方航空客机三月在广西坠毁，造成全机132人死亡的事故，可能是有人蓄意撞毁飞机。东方航空公司对此表示，暂时无确凿证据支持上述揣测推断。东方航空回应《华尔街日报》查询时指，现时未有证据显示涉事飞机出现问题，又指有人强行闯入驾驶室的说法并不成立，暂时亦无任何确凿证据支持有关揣测。",
-          "link": "https://www.solidot.org/story?sid=71556",
-          "publishedOn": "2022-05-18T02:49:45.000Z",
-          "wordCount": 74,
-          "title": "东航称暂无证据显示三月发生的空难为蓄意",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71555",
-          "author": null,
-          "description": "HardenedLinux 写道 \"基础架构包括计算机体系、物联网设备或其他信息化设备的固件、硬件组件、单元等基础组成部分，如主板Flash、显卡网卡等各类外设板卡的ROM，硬盘、EC、主板CSME/PSP/SMU等。基础架构安全性是整个系统的安全基石。如果基础架构的安全设置不当或存在高危漏洞、受到威胁，会导致整个系统的严重破坏，并且难以检测、恢复。固件的运行级别高于操作系统内核所在的RING 0级，如果用户的威胁模型中包含攻击者持久化这一项，那固件安全就不可忽视，特别在全球高级威胁防护的大趋势下，基础架构及平台固件属于整体防御中核心的环节，为了更好的推进行业对于基础架构整体弹性（Resiliency）水平，赛博堡垒（HardenedVault）和中科院软件所基础架构安全团队发起了一份关于平台固件安全的技术指南，草案版本由来自跨领域专家组的审阅，指南的alpha预览版发布于HardenedLinux社区（下载PDF），希望未来有兴趣的个人和机构可以继续推进。\"",
-          "link": "https://www.solidot.org/story?sid=71555",
-          "publishedOn": "2022-05-18T02:04:41.000Z",
-          "wordCount": 74,
-          "title": "基础架构安全弹性技术指南（固件安全篇）发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71554",
-          "author": null,
-          "description": "ARM 开源项目从 GitHub 迁移到 GitLab。GitLab 官方博客阐述了选择 GitLab 作为自托管平台的优点：最大化选择和成本效益，最小化供应商锁定。使用 GitLab 将允许 ARM 使用自己的工具，不像 GitHub 是一个黑箱。ARM 芯片占到了移动市场的 95%，而 ARM 公司的业务是 IP 授权，大部分核心基础设施部署在私有硬件的，安全对其至关重要。",
-          "link": "https://www.solidot.org/story?sid=71554",
-          "publishedOn": "2022-05-17T15:40:02.000Z",
-          "wordCount": 98,
-          "title": "ARM 开源项目从 GitHub 迁移到 GitLab",
           "imageUrl": null
         }
       ]
