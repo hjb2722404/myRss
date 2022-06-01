@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42361",
+          "author": "青小蛙",
+          "description": "AutoBangumi V2 是一个非常有趣的开源项目，它通过订阅蜜柑计划（Mikan Project）上的 RSS 地址，使用 qBittorrent 自动下载，并整理文件名和目录，可直接被 Ple",
+          "link": "https://www.appinn.com/autobangumi-v2/",
+          "publishedOn": "2022-06-01T02:58:37.000Z",
+          "wordCount": 510,
+          "title": "AutoBangumi V2 – 全自动追番工具：从蜜柑计划（Mikan Project）订阅番剧，自动下载、改名、刮削",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/autobangumi-v2.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=42353",
+          "author": "青小蛙",
+          "description": "搜索酱是一款划词搜索油猴脚本，支持众多搜索引擎，以及自定义搜索引擎，甚至把小众软件站内搜索添加进搜索引擎列表。使用简单，划词后点击搜索引擎图标即可，也支持图片搜索，真「开发者自用」。@Appinn 来",
+          "link": "https://www.appinn.com/sousuojiang/",
+          "publishedOn": "2022-05-31T08:55:42.000Z",
+          "wordCount": 506,
+          "title": "搜索酱 – 「开发者自用」的划词搜索油猴脚本",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/sousuojiang.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42348",
           "author": "青小蛙",
           "description": "Sumatra PDF 是一款有着 16 年历史的电子书阅读器，支持 PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM 等格式",
@@ -130,16 +150,6 @@
           "wordCount": 670,
           "title": "ImTip – 仅 660 KB，输入法状态提示工具[Windows]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/imtip.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42279",
-          "author": "青小蛙",
-          "description": "Qdown 是一款基于 aria2 的 Windows 下载工具，支持迅雷链接、BT、磁力链接等，无广告，简单易用。@Appinn aria2 是什么？ aria2 是一个轻量级的多协议和多来源的命令",
-          "link": "https://www.appinn.com/qdown-for-windows/",
-          "publishedOn": "2022-05-22T08:19:51.000Z",
-          "wordCount": 556,
-          "title": "Qdown – 支持迅雷链接的 aria2 下载工具[Windows]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/05/qdown.jpgo_.jpg"
         }
       ]
     },
@@ -271,16 +281,6 @@
           "wordCount": 1074,
           "title": "详解日后定会大规模使用的CSS @layer 规则",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10412",
-          "author": "张 鑫旭",
-          "description": "CSS中有两个重要的基础规则，一个是级联（Cascading），一个是继承（Inheritance），本文详细介绍级联规则，理解了级联，就能明白某些看似普通但不解的背后现象的原因。",
-          "link": "https://www.zhangxinxu.com/wordpress/2022/05/deep-in-css-cascade/",
-          "publishedOn": "2022-05-22T14:34:18.000Z",
-          "wordCount": 787,
-          "title": "CSS必学基础：理解CSS中的级联规则",
-          "imageUrl": null
         }
       ]
     },
@@ -289,6 +289,146 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71694",
+          "author": null,
+          "description": "为捍卫语言纯洁，法国限制使用游戏中的英语技术术语。职业电竞玩家 pro-gamer 改为 joueur professionnel，游戏主播 streamer 叫 joueur-animateur en direct，云端游戏 cloud gaming 变为 jeu video en nuage，电竞 eSports 翻译为 jeu video de competition。法国文化部称，游戏领域充斥着英语术语，可能会对非玩家在理解上造成障碍。最新的限制对政府工作人员有约束力。",
+          "link": "https://www.solidot.org/story?sid=71694",
+          "publishedOn": "2022-05-31T14:07:55.000Z",
+          "wordCount": 93,
+          "title": "为维护语言纯洁法国限制英语游戏技术术语",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71693",
+          "author": null,
+          "description": "在 Chrome 102 发布一周之后，Mozilla 释出了 Firefox 101(直接下载)。按照这一速度，Firefox 在版本号上将很快超过 Chrome。Google 在三月底发布 Chrome 100，Mozilla 在五月初释出 Firefox 100。Firefox 101 在开发者方面的变化包括：默认 CSS prefers-contrast 媒体功能，三种新的 CSS 视窗大小，支持 HTMLInputElement.showPicker()，支持可构造样式表，正确解析 AV1 编解码器参数，等等。",
+          "link": "https://www.solidot.org/story?sid=71693",
+          "publishedOn": "2022-05-31T11:48:59.000Z",
+          "wordCount": 99,
+          "title": "Firefox 101 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71692",
+          "author": null,
+          "description": "根据中国教育部的数据，2022 年中国高校毕业生 1076 万人，比去年增加了 167 万人，是历史上首次突破千万人大关。当前经济状况不佳，因此媒体称之为“史上最难就业季”。国家统计局 5 月 16 日公布的数据显示，4 月全国城镇调查失业率上升 0.3 个百分点至 6.1%，创 2020 年 3 月以来新高。其中最值得瞩目的是 16 岁—24 岁人口调查失业率录得 18.2%，创有历史数据以来最高。4 月城镇新增就业 121 万，不仅低于去年同期的140 万，而且低于 2020 年疫情期间 4 月的 125 万。这些数字反映出当前劳动力市场的严峻形势，而且这是在今年 1076 万毕业生还未正式毕业的情况下。",
+          "link": "https://www.solidot.org/story?sid=71692",
+          "publishedOn": "2022-05-31T11:25:02.000Z",
+          "wordCount": 104,
+          "title": "高校毕业生首次超过千万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71691",
+          "author": null,
+          "description": "Google Colaboratory (Colab) 服务悄悄禁止了深度伪造训练项目。Colab 允许研究人员直接在浏览器上运行 Python 代码使用免费的计算资源训练机器学习项目，而深度伪造（deepfake）是一种通过训练在视频片段中换脸的机器学习模型，能做到以假乱真，因此引发了很多争议。根据  archive.org 存档服务的记录，Google 研究院是从本月初开始禁止深度伪造，将其列入禁止项目清单。",
+          "link": "https://www.solidot.org/story?sid=71691",
+          "publishedOn": "2022-05-31T10:13:48.000Z",
+          "wordCount": 85,
+          "title": "Google Colab 服务禁止深度伪造训练项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71690",
+          "author": null,
+          "description": "印度科学院的 Sanjeeta Sharma Pokharel 和同事最近专注于通过观看 YouTube 视频研究大象对死亡的反应。Sanjeeta 解释说三年的田野工作只目睹过一次大象死亡，但今天几乎每一个人手中都有相机。在 YouTube 上搜索相关关键词，能找到几十则大象与死亡动物互动的视频。科学家日益通过视频共享网站这一公开来源去发掘新的科学见解。新西兰的 Ximena Nelson 教授说他最喜欢的是一只乌鸦站在塑料盖子上把屋顶当成滑雪场的视频，指出无数的研究人员在室外观察乌鸦，未必会有一人能看到这一画面，更不用说把它们记录下来了。",
+          "link": "https://www.solidot.org/story?sid=71690",
+          "publishedOn": "2022-05-31T09:15:37.000Z",
+          "wordCount": 87,
+          "title": "为什么科学家也在 YouTube 上观看动物视频",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71689",
+          "author": null,
+          "description": "法国索尼计算机科学实验室的一个小型研究团队研究了为什么虚假信息在全球疫情肆虐期间大行其道。在发表在《自然人类行为》期刊上的论文中，研究人员研究了疫情期间 COVID-19 新闻的供需状况，并比较了新闻媒体的反应方式。为了更多地了解对疫情信息的需求，研究人员查看了 Google 搜索趋势。为了比较新闻的供需情况，研究人员查看了人们查找信息的搜索，并将其与新闻来源的回应进行比较。研究人员发现，和那些更传统也更可靠的新闻来源相比，通常被认为不可靠的新闻来源对新信息的反应往往更快。研究人员无法确定为什么不可靠的新闻来源能更快地做出反应，但是认为最终结果是不可靠来源的可见度更高，导致广泛传播的虚假信息获得更多关注，并最终被接受。",
+          "link": "https://www.solidot.org/story?sid=71689",
+          "publishedOn": "2022-05-31T07:33:32.000Z",
+          "wordCount": 75,
+          "title": "为什么虚假信息在疫情期间大行其道",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71688",
+          "author": null,
+          "description": "德克萨斯大学奥斯汀分校的一项新研究显示，与共同点较少的同事合作解决问题或者开展项目的团队成员可以通过轮流分享他们不同的专业知识受益。这些发现对管理者如何才能更好地组建和管理团队有影响，以便让所有的声音都可以被听到。拥有不同知识的员工群体，或者称之为“知识多元化团队”，在团队成员之间分享更多信息，这是有效团队合作的一个关键特征。管理学助理教授 Steven Gray 表示：“对团队来说，不稳定通常被视为负面因素。”“但是我们发现不稳定是有帮助的。在一个多元化的团队中，这种流动性有助于让成员通过展示他们的专业知识和独特价值巩固地位。”即便如此，当成员的影响力随着时间的推移稳定下来之后，具有相似知识和技能的成员组成的同质团队会分享更多。一个知识多元化的新产品开发团队可能包含一名科学家、工程师、运营专家和一名营销人员，而一个创业团队可能有一名首席技术官、首席营销官和首席财务官。相比之下，同质团队可能是由执行相同任务但是可能拥有不同类型客户的销售成员组成。作为影响力还在变化的知识多元化团队的一员，员工应该明白，通过共享信息，他们可以向同事展示自己的价值，并且在团队中获得更大的影响力和更多的信任。Gray 表示，经理们需要明白，只是简单地将具有不同知识的人聚集在一起让他们完成一项任务是不够的。相反，知识多元化团队的经理需要思考他们应该如何随着任务的进展促进不同观点。同质团队的管理者应该考虑如何促进稳定，这样成员就不会为了地位竞争。",
+          "link": "https://www.solidot.org/story?sid=71688",
+          "publishedOn": "2022-05-31T07:30:07.000Z",
+          "wordCount": 75,
+          "title": "团队能受益于知识多元化带来的不稳定性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71687",
+          "author": null,
+          "description": "世界大约 25% 的互联网用户所在国家的互联网基础设施比以前认为的更容易受到针对性攻击。很多面临风险的国家都位于南半球，包括拉丁美洲、亚洲、非洲和大洋洲等地区。这是加州大学圣地亚哥分校（UCSD）的计算机科学家进行的一项全面的大规模研究得出的结论。科学家调查了 75 个国家的情况。世界不同地区的互联网连接结构也大不相同。在很多发达国家，例如美国，有大量的互联网提供商竞相为大量用户提供服务。这些网络直接相互连接并交换内容，这一做法被称为对等直连。所有的供应商也可以直接接入世界互联网基础架构。在其他国家，其中许多仍然是发展中国家，大多数用户依赖少数几个提供商访问互联网，其中一家提供商为绝大多数用户提供服务。不仅如此，这些提供商还依赖少数被称为中转自治系统的公司访问全球互联网和来自其他国家的流量。研究人员发现，这些中转自治系统提供商通常是国有的。",
+          "link": "https://www.solidot.org/story?sid=71687",
+          "publishedOn": "2022-05-31T07:14:58.000Z",
+          "wordCount": 75,
+          "title": "四分之一网民依赖的基础设施易受攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71686",
+          "author": null,
+          "description": "每年春天，北方的白天越来越长，融雪汇入溪流，从灰熊到地松鼠，各种昏昏沉沉的动物开始从冬眠中苏醒。说它们正在“醒来”很简单，但是冬眠显然比一场长时间睡眠更复杂也更神秘：任何在地下待了几个月不吃不喝的动物仍然准备好面对世界，它们显然掌握了令人惊叹的生物诀窍。冬眠动物的名单中包含各种啮齿动物、一些两栖动物，甚至还有一些灵长类动物（几种矮狐猴），但是熊是最大的冬眠动物。成年灰熊和黑熊的体重与橄榄球运动员相仿，甚至会更重，它们有着学龄前儿童般的旺盛精力和好奇心，但是可以毫无困难地“躺平”几个月。康涅狄格州纽黑文市耶鲁大学的神经生理学家 Elena Gracheva 表示，这么大的生物会休眠难以解释。她表示：“冬眠是如此复杂，需要在多个层面上进行调整。”Gracheva 解释称，熊冬眠为大型哺乳动物——特别是我们——的生理活动提供了重要的见解。他在《2020年细胞和发育生物回顾》（2020 Annual Review of Cell and Developmental Biology）中与人合著了关于冬眠生理学的研究。更好地理解这一过程可能会改变我们对各种人类疾病的处理方法，包括中风、骨质疏松、帕金森病和阿尔兹海默症。随着气候变暖和冬季变短，熊也将不得不重新考虑冬眠的概念。它们的反应将在很大程度上表明它们对冬季小睡的执着，以及气候和动物行为之间的深层联系。",
+          "link": "https://www.solidot.org/story?sid=71686",
+          "publishedOn": "2022-05-31T07:09:50.000Z",
+          "wordCount": 83,
+          "title": "熊冬眠：不仅仅是冬季小睡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71685",
+          "author": null,
+          "description": "研究人员识别出一种化学信号，被怀孕和哺乳期雌鼠用于警告可能威胁到小鼠的雄鼠，它能增加雄鼠的应激激素，甚至能降低对疼痛的敏感性。这种被称为 n-pentyl acetate 的气味会在雌鼠的尿液中释放出来，而这种气味也是香蕉的独特气味。研究人员用超市购买的香蕉油进行测试，发现这种香蕉提取物对雄鼠产生的压力与怀孕雌鼠一样大。他们的研究报告发表在《Science Advances》期刊上。",
+          "link": "https://www.solidot.org/story?sid=71685",
+          "publishedOn": "2022-05-31T07:01:33.000Z",
+          "wordCount": 75,
+          "title": "为什么雄鼠怕香蕉？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71684",
+          "author": null,
+          "description": "Chris“Moot”Poole 在 2003 年年仅 15 岁时创建了匿名图像讨论版 4chan，这个模仿日本匿名讨论版 2ch 的网站之后成长为美国最具有影响力和争议的社区之一。2015 年 Poole 以未披露的价格将 4chan 出售给了 2ch 的创始人西村博之。但西村哪来的钱能收购 4chan？他回答是借来的钱。《连线》获得的文件显示，名叫 Good Smile Company 的日本玩具公司、电信公司多玩国（Dwango）以及西村的 Future Search Brazil 参与了这次收购。Future Search Brazil 以 Terry Gilliam 执导的反乌托邦科幻电影的名字命名，其注册地址与 Good Smile 在同一栋建筑内。 Good Smile 占了这栋建筑物的绝大部分地方，但与 Future Search Brazil 共享三楼。",
+          "link": "https://www.solidot.org/story?sid=71684",
+          "publishedOn": "2022-05-31T04:54:59.000Z",
+          "wordCount": 113,
+          "title": "谁拥有 4chan？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71683",
+          "author": null,
+          "description": "在超过两个月的封锁之后，上海宣布将从 6 月 1 日起逐步恢复正常。与此同时北京逐步开放办公楼及商场。这表明中国两大最重要城市的两场疫情基本结束。不过北京仍然禁止堂食，上海封控管控区内的居民仍不能自由出入。据官方统计，北京周一通报了 16 例本土新增病例，上海仅九例。",
+          "link": "https://www.solidot.org/story?sid=71683",
+          "publishedOn": "2022-05-31T03:35:36.000Z",
+          "wordCount": 77,
+          "title": "北京上海放松疫情限制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71682",
+          "author": null,
+          "description": "Perl 语言释出 5.36.0 版本，代表了自 Perl 5.34.0 发布以来一年的开发工作，包含了 82 位作者约 25 万行代码变更。主要变化包括：启用函数签名，支持 Unicode 14.0，试验性迭代多值，正则表达式集和可变长度后插等功能不再视为试验性，等等。更多可浏览发布公告。",
+          "link": "https://www.solidot.org/story?sid=71682",
+          "publishedOn": "2022-05-31T03:19:31.000Z",
+          "wordCount": 87,
+          "title": "Perl 5.36.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71681",
+          "author": null,
+          "description": "中国信息通信研究院公布的数据以及中芯国际的预测都显示，中国智能手机需求在走弱。行业高管和分析师表示，受冲击最快、最严重的可能是低端手机，在经济不确定的情况下，收入水平较低、倾向于购买较便宜手机的消费者将减少此类消费。小米、OPPO 和 vivo 在内的手机厂商受冲击最大，苹果公司的产品线倾向于高端产品，不过其较低价产品iPhone SE的销售可能受到影响。分析师估计，中国主要智能手机制造商与此前行业预期相比，已砍去约 2.7 亿部手机的订单量。",
+          "link": "https://www.solidot.org/story?sid=71681",
+          "publishedOn": "2022-05-30T14:23:56.000Z",
+          "wordCount": 78,
+          "title": "智能手机需求走弱",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71680",
           "author": null,
@@ -1087,36 +1227,6 @@
           "publishedOn": "2022-05-23T05:50:57.000Z",
           "wordCount": 98,
           "title": "Linux 5.18 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71597",
-          "author": null,
-          "description": "世界卫生组织数据显示，截至 21 日，12 个非猴痘流行国家已报告 92 例猴痘确诊病例和 28 例疑似病例。世卫组织预测，全球猴痘病例可能进一步增加。猴痘主要在西非和中非地区流行，非洲大陆之外的首次猴痘疫情于 2003 年出现在美国。2018 年以来，以色列、英国、新加坡等国在来自尼日利亚的旅客中发现猴痘病毒感染者。\n世卫组织指出：“现有信息显示，与有症状的病例发生密切身体接触的人群中正在发生人际传播。”一般来说，猴痘病毒的人际传播并不常见。人际传播途径包括密切接触感染者的呼吸道分泌物、皮肤损伤部位或被污染物品等，通常需要更长时间面对面才能发生呼吸道飞沫传播。此外，猴痘病毒可能经由胎盘或生产期间的密切接触发生母婴传播。人感染猴痘的初期症状包括发烧、头痛、肌肉酸痛、背痛、淋巴结肿大等，之后可发展为面部和身体大范围皮疹。多数感染者会在几周内康复，但也有感染者病情严重甚至死亡。",
-          "link": "https://www.solidot.org/story?sid=71597",
-          "publishedOn": "2022-05-22T15:34:43.000Z",
-          "wordCount": 83,
-          "title": "全球可能出现更多猴痘病例",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71596",
-          "author": null,
-          "description": "美国司法部对利用加密货币逃避制裁提起首宗诉讼。联邦法官批准了对一名美国人的刑事指控，他被控将价值逾千万美元的比特币传输到被制裁国家的加密货币交易所。这个国家可能是古巴、伊朗、朝鲜、叙利亚或俄罗斯。加密货币虽然以匿名性著称，但它的公开交易很容易被跟踪并识别到个人。而美国的制裁同样适用于涉及到加密货币的交易。据 The Register 报道，被告使用美国银行账号里的法币，在美国的加密货币交易所购买比特币，然后传输到一个被制裁国家的在线支付平台。",
-          "link": "https://www.solidot.org/story?sid=71596",
-          "publishedOn": "2022-05-22T15:21:03.000Z",
-          "wordCount": 74,
-          "title": "美国政府对利用加密货币逃避制裁提起首宗诉讼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71595",
-          "author": null,
-          "description": "5400 年前大约人类发明文字的同一时间，一颗柏树（Fitzroya cupressoides）在今天智利的沿海峡谷地带生长。它避开了火灾和砍伐，成长为一颗直径逾四米的巨人。今天它被称为 Alerce Milenario 或 Gran Abuelo，可能是至今最古老的活生物体。智利环境科学家 Jonathan Barichivich 结合计算机模型和传统树龄计算方法，估计 Alerce Milenario 的年龄或逾 5000 年。这意味着它比目前的记录保持者至少长一个世纪。很多树龄学家对 Barichivich 的结论持怀疑态度。这项研究尚未发表。但部分专家对此持开放立场。",
-          "link": "https://www.solidot.org/story?sid=71595",
-          "publishedOn": "2022-05-22T14:36:07.000Z",
-          "wordCount": 88,
-          "title": "世界最古老的树可能生长在智利",
           "imageUrl": null
         }
       ]
