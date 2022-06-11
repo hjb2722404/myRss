@@ -145,16 +145,6 @@
           "wordCount": 520,
           "title": "netSend – 开源内网文件传输工具，支持二维码[Win/macOS/Linux]￼",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/netsend.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42361",
-          "author": "青小蛙",
-          "description": "AutoBangumi V2 是一个非常有趣的开源项目，它通过订阅蜜柑计划（Mikan Project）上的 RSS 地址，使用 qBittorrent 自动下载，并整理文件名和目录，可直接被 Ple",
-          "link": "https://www.appinn.com/autobangumi-v2/",
-          "publishedOn": "2022-06-01T02:58:37.000Z",
-          "wordCount": 510,
-          "title": "AutoBangumi V2 – 全自动追番工具：从蜜柑计划（Mikan Project）订阅番剧，自动下载、改名、刮削",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/autobangumi-v2.jpgo_.jpg"
         }
       ]
     },
@@ -163,6 +153,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=366266",
+          "author": "Temani Afif",
+          "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
+          "publishedOn": "2022-06-10T14:26:06.000Z",
+          "wordCount": 2112,
+          "title": "Single Element Loaders: The Spinner",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
+        },
         {
           "id": "https://css-tricks.com/?p=366286",
           "author": "Geoff Graham",
@@ -212,16 +212,6 @@
           "wordCount": 3921,
           "title": "How to Create Block Theme Patterns in WordPress 6.0",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366175",
-          "author": "Geoff Graham",
-          "description": "Nolan Lawson sparked some discussion when he described a noticeable shift away from single-page applications (SPAs):\nHip new frameworks like Astro, Qwik, and Elder.js are touting their MPA [multi-page application] with “0kB JavaScript by default.” \n…\nSPAs, Shared Element Transitions, and Re-Evaluating Technology originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/spas-shared-element-transitions-and-re-evaluating-technology/",
-          "publishedOn": "2022-06-01T14:12:25.000Z",
-          "wordCount": 779,
-          "title": "SPAs, Shared Element Transitions, and Re-Evaluating Technology",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366175"
         }
       ]
     },
@@ -263,6 +253,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71794",
+          "author": null,
+          "description": "有没有向 Windows 剪切板拷贝数据时遇到问题？据微软资深程序员、《Old New Thing》作者 Raymond Chen 的解释，问题通常与剪切板本身无关。剪切板没有对数据预设容量上限，唯一的限制是可用内存和地址空间。Raymond Chen 举例说，有客户尝试向剪切板拷贝 30 万行 Excel 表格，然后再在 Rich Text Format 格式中提取数据，结果返回了 NULL 错误。问题不是因为剪切板有数据容量上限，而是因为 Excel 没有为 Rich Text Format 格式优化。Excel 未能在特定时间范围内完成任务后导致了超时。他说，系统给剪切板数据复制的时间限制是 30 秒，超过 30 秒后会返回 NULL 错误。",
+          "link": "https://www.solidot.org/story?sid=71794",
+          "publishedOn": "2022-06-10T11:32:12.000Z",
+          "wordCount": 105,
+          "title": "Windows 剪切板无最大数据容量限制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71793",
+          "author": null,
+          "description": "持续了两年之久的全球芯片荒可能蔓延到一些最先进制程芯片，而这类芯片对于下一代智能手机和为应用程序提供动力的数据中心至关重要。此前芯片荒主要影响成熟制程芯片。然而现在最先进制程芯片也出现了生产困难和制造设备短缺等问题，引发了人们对全球两家最高端芯片制造商能否履约交货的担忧。问题的棘手之处在于，由于成本和技术壁垒较高，只有台积电和三星两家公司有能力制造最先进制程芯片。据知情人士称，台积电的一些客户收到预警称，一些生产设备的购置遇到一些问题，该公司明年和 2024 年的增产情况可能落后于之前预期的速度。三星代工部门的 4 纳米制程芯片良率的改善速度慢于预期，今年无法提供承诺数量的芯片，促使高通和英伟达等主要客户转而向竞争对手台积电订购其下一代产品使用的芯片。",
+          "link": "https://www.solidot.org/story?sid=71793",
+          "publishedOn": "2022-06-10T10:55:24.000Z",
+          "wordCount": 75,
+          "title": "芯片荒蔓延到先进制程芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71792",
+          "author": null,
+          "description": "NASA 周四表示正组建一个团队研究不明飞行现象（UAP），即俗称的 UFO。 NASA 称该团队将收集“从科学角度无法识别为飞机或者已知自然现象的天空事件”的数据。NASA 表示，出于安全和安防考虑，它对 UAP 很感兴趣。NASA 补充道，没有证据表明 UAP 源于外星。这项研究预计需要九个月的时间。NASA 华盛顿总部的科学助理主管 Thomas Zurbuchen 表示：“NASA 相信科学发现的工具很强大，也适用于这个问题。”“我们可以从太空对地球进行广泛地观测——这是科学探究的生命线。我们拥有可以帮助我们提高对未知事物理解的工具和团队。这就是科学的定义。这就是我们要做的事。”",
+          "link": "https://www.solidot.org/story?sid=71792",
+          "publishedOn": "2022-06-10T10:18:30.000Z",
+          "wordCount": 91,
+          "title": "NASA 建立团队研究 UFO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71791",
+          "author": null,
+          "description": "Rice 大学 Baylor 医学院研究员 Alyssa Blackburn 及其团队使用被称为“地址链接（address linking）”的技术研究比特币诞生前两年内的交易：从 2009 年 1 月至 2011 年 2月。他们的发现这两年中“大多数比特币都是由区区 64 个代理开采出来的，总价值为 B2,676,800（现价值为 840 亿美元）。”“开采”指的是通过解决计算机挑战铸币的过程。他们观察到，这个数字——总共 64 人——“比之前估计的比特币社区的早期规模（7.5 万人）小了 1000 倍”。这 64 个人中包括一些已成为传奇人物的名人，例如以 Dread Pirate Roberts 闻名的 Ross Ulbricht。Ulbricht 是丝绸之路的创始人，一个使用比特币进行非法交易的黑市——直到它被 FBI 关闭。\n\n\n对于 Blackburn 及其团队来说，重点是研究人们匿名参与博弈论情景的情况。他们发现像 Ulbricht 之类的早期内部人士可利用参与者相对稀缺的局面进行“双花”（double-spend），这会破坏比特币，但他们没有这样做。他们采取了“利他主义”的方式维护系统的完整性。这很有趣，但更紧迫的发现是地址可以被追踪，身份可以被揭露。为了找出谁在进行这些早期交易，Blackburn 及其团队不得不对比特币及所有加密货币的整个前提条件进行逆向工程：匿名性。\n\n\n正如中本聪在最初的比特币白皮书中所描述的，隐私将通过两种方式进行保护：使用匿名公钥并为每笔交易创建新的密钥对。Blackburn 和团队必须追踪这些密钥对才能揭示早期比特币的交易方。为此他们开发了一种称为新型地址链接的方案。该方案发现了两种指向用户的模式：一种是重复出现的代码位，另一种是某些交易的重复地址。他们在论文（PDF）中写道，结果就是有可能从一个已知的身份开始，通过跟踪地址图中的关联链识别出身份，并“追踪资金”。此外他们假设“很多加密货币可能容易受到追踪资金攻击。”Blackburn 对《纽约时报》的 Siobhan Roberts 表示，“当你加密私人数据并将其公开时，你就不能认为它能永远保密。”正如该团队在报告中总结的那样，“信息泄露一点一滴地侵蚀了曾经难以逾越的障碍，开辟出社会经济数据的新格局。”",
+          "link": "https://www.solidot.org/story?sid=71791",
+          "publishedOn": "2022-06-10T10:00:08.000Z",
+          "wordCount": 118,
+          "title": "一篇论文如何摧毁比特币的匿名性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71790",
+          "author": null,
+          "description": "Google Cloud 开发大使 Emma Haruka Iwao 及其同事表示将π计算到了小数点后 100 万亿位。Iwao 和她的团队此前曾在 2019 年创下小数点后 31.4 万亿位数的计算精度记录。过海记录之后被打破了几次。Iwao 在博文中写道，尽可能多地计算出 π 的位数是一种衡量计算能力进步的方法。Iwao 的工作要展示 Google\n Cloud 的能力，因此她会利用平台的强大功能执行这种计算也就不足为奇了。2019 年的计算花费了 121 天，最终计算出的位数是最近一次尝试的三分之一。这一次 Iwao 使用了“同样的工具和技术”，计算运行了 157 天 23 小时 31 分 7.651 秒，这意味着计算机的运行速度是原来的两倍多。总共处理了大约 82,000 TB的数据。Iwao 还指出，以每秒 1 个数字的速度大声读出所有 100 万亿个数字将需要花费超过 310 万年的时间。如果你想知道的话，π 在小数点后 100 万亿位上的数字是 0。",
+          "link": "https://www.solidot.org/story?sid=71790",
+          "publishedOn": "2022-06-10T09:26:24.000Z",
+          "wordCount": 129,
+          "title": "Google Cloud 将 π 计算到 100 万亿位",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71789",
+          "author": null,
+          "description": "研究人员可能发现了希格斯玻色子的磁性表亲。研究报告发表在《自然》期刊上。发现希格斯玻色子需要大型强子对撞机（LHC）巨大的粒子加速能力，而这种被称为轴向希格斯玻色子的粒子是通过一个可在小型厨房台面上进行的实验发现的。希格斯玻色子可赋予其他粒子质量，其磁性表亲有可能是暗物质的候选者，暗物质占宇宙总质量的 85%，只能通过引力展示。希格斯玻色子是 LHC 的 ATLAS 和 CMS 探测器在十年前（2012年）首次检测到的，轴向希格斯玻色子与希格斯玻色子不同，因为它具备磁矩、磁强度或产生磁场的方向。因此需要一个比它的非磁性质量赋予表亲更复杂的理论来描述它。\n\n\n获得这一发现的团队的首席研究员、波士顿学院物理学 Kenneth Burch 表示：“当学生给我看数据时，我认为她肯定搞错了。”“你不是每天都能在桌面上发现新粒子的。”Burch 表示：“我们用桌面光学实验发现了轴向希格斯玻色子，该实验位于一个大约 1*1 米的桌子上，目标是研究具有独特特性组合的材料。”“具体而言，我们使用了稀土三碲化物（RTe3），这是一种具有高度二维晶体结构的量子材料。RTe3中的电子自组织成一个波，其中的电荷密度周期性地上升或降低。”这些室温以上出现的电荷密度波动的幅度可以随着时间的推移进行调制，从而产生轴向希格斯模式。\n\n\n在新研究中，该团队将一种颜色的激光射入 RTe3 晶体中，创建出了轴向希格斯模式。在拉曼散射的过程中，光发生散射并变成频率较低的颜色，颜色变化过程中损失的能量产生了轴向希格斯模式。然后该团队旋转晶体，发现轴向希格斯模式还控制了电子的角动量，即它们在圆周上移动的速率，在这种材料中，这意味着这种模式也必须是磁性的。Burch解释称，“我们一开始只是研究这种材料的光散射特性。在仔细研究了响应的对称性——它在我们旋转样本时的变化——之后，我们发现异常变化是某种新东西的最初暗示。”“因此它是第一个被发现的此类磁性希格斯粒子，表明 RTe3 中电子的集体行为不同于此前在自然界中看到的任何状态。”",
+          "link": "https://www.solidot.org/story?sid=71789",
+          "publishedOn": "2022-06-10T09:04:31.000Z",
+          "wordCount": 90,
+          "title": "物理学家可能发现了新粒子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71788",
+          "author": null,
+          "description": "自 5 月 13 日报告疫情首例猴痘病例以来，已有 3 1个国家的 1000 多人被诊断出感染了该病毒，至少还有 1000 例正在接受观察。在以前的疫情中，大多数病例发现于与感染者或动物有密切接触的人。但在某些情况下，空气传播是感染的唯一解释。大多数关于猴痘病毒的信息都是从对天花的研究中收集到的。猴痘是一种较为温和的天花。在过去的二十年里，科学家们一直在研究天花是如何传播的，包括它存在于被称为气溶胶的微小液滴中，以便做好准备应对生物恐怖分子对它的利用。",
+          "link": "https://www.solidot.org/story?sid=71788",
+          "publishedOn": "2022-06-10T07:33:05.000Z",
+          "wordCount": 85,
+          "title": "专家称猴痘可通过空气传播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71787",
+          "author": null,
+          "description": "NASA 透露略小于一粒沙的微流星体击中了韦伯（James Webb）望远镜的一片镜片，不过望远镜仍能完成原定任务。撞击发生在 5 月 23 日至 25 日期间，望远镜收集到的数据因此受到轻微影响，但望远镜运行良好，超出任务要求。声明说，工程师调整了被击中镜片的位置，一定程度抵消了因撞击造成的偏差。“最近的撞击不会改变韦布望远镜的运行计划。”望远镜主镜直径 6.5 米，由 18 片巨大六边形镜片构成，调整这 18 片镜片后可统一聚焦拍摄。望远镜造价 100 亿美元，是 NASA 迄今建造的最大、功能最强的空间望远镜，目前在距离地球约 150 万千米的轨道运行，预计于 7 月 12 日传回首批正式观测照片。",
+          "link": "https://www.solidot.org/story?sid=71787",
+          "publishedOn": "2022-06-10T07:25:05.000Z",
+          "wordCount": 95,
+          "title": "微型流星击中韦伯望远镜镜片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71786",
+          "author": null,
+          "description": "在夏季游戏节（Summer Game Fest）上，索尼旗下的工作室 Naughty Dog 宣布了 PS5 版本的《最后生还者1》，同时证实 PC 版本在开发之中。《最后生还者1》重制版本将于 9 月 2 日发布，PC 版本尚未发布日期。Naughty Dog 称，登陆 PS5 的重制版本现代化了游戏方式、改进了控制、扩展了可及性选项，加强了特效、探索和战斗，实现了 3D Audio 等功能。《最后生还者1》是最新一款将登陆 PC 平台的索尼第一方游戏。Naughty Dog 同时宣布《最后生还者1》的多人模式将转变为一个完整的独立游戏，显示索尼在探索类似《命运（Destiny）》 系列的 live service 游戏服务。",
+          "link": "https://www.solidot.org/story?sid=71786",
+          "publishedOn": "2022-06-10T07:02:34.000Z",
+          "wordCount": 102,
+          "title": "《最后生还者》将登陆 PC",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71785",
           "author": null,
@@ -1011,146 +1091,6 @@
           "publishedOn": "2022-06-02T03:09:17.000Z",
           "wordCount": 98,
           "title": "Sheryl Sandberg 将卸任 Facebook COO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71708",
-          "author": null,
-          "description": "自 1980 年代以来因为预留、无效或用于回环网络（loopback network）而未路由的逾 4 亿 IPv4 地址将被释放出来。Let's Encrypt 联合创始人 Seth Schoen 正在着手清理未路由的 IPv4 地址段。他在 APRICOT 会议上介绍说，1980 年代作为特殊原因而预留的地址段导致了 IPv4 地址资源的大量浪费，释放 240/4, 0/8, 127/8, 225/8-232/8 地址段将增加约 4.19 亿个 IPv4 地址。由于互联网的快速发展，现有的 IPv4 地址空间已经枯竭，IPv4 地址的稀缺导致了囤积、高价和欺诈。",
-          "link": "https://www.solidot.org/story?sid=71708",
-          "publishedOn": "2022-06-01T14:30:32.000Z",
-          "wordCount": 108,
-          "title": "4 亿 IPv4 地址空间即将释放",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71707",
-          "author": null,
-          "description": "据世界卫生组织统计，截至 5 月 31 日全球约 30 个国家报告了确诊的猴痘病例，累计确诊病例达到了 558 例，疑似 52 例，而 5 月 30 日的新增确认病例超过了 100 例，为一个月以来单日最高。当地时间 5 月 30 日，尼日利亚通报了一例猴痘患者死亡病例，这是本轮猴痘疫情中通报的第一例死亡病例。尽管如此，美国疾控中心传染病专家和痘病毒专家 Agam Rao 强调，猴痘不易传播。这种病毒与天花有关，但引起的症状相对温和，有明显皮疹，通常有类似流感的症状。传播需要密切和长时间接触，传播给医护人员以及家庭成员和性伴侣的风险最高。到目前为止，很多病例发生在男男性行为者身上，卫生官员很谨慎，避免刺激耻辱感或虚假安全感。病毒可传播给任何人，它不是性传播传染病。从疫情的规模来看，世卫组织表示，病毒的传播范围可能比目前认识到的更大。声明称,“许多散发病例的突然出现和广泛的地理范围表明，广泛的人际传播已经开始，病毒可能已经传播了数周或更长时间而没有被发现。”",
-          "link": "https://www.solidot.org/story?sid=71707",
-          "publishedOn": "2022-06-01T13:41:25.000Z",
-          "wordCount": 97,
-          "title": "专家警告猴痘的持续传播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71706",
-          "author": null,
-          "description": "你从软件即服务中得到的产品是会发生变化的，有可能某些功能会被取消。微软邮件通知 Microsoft 365 订阅用户，从明年开始 Excel 将取消 Money 和 Wolfram Alpha 数据类型。Money 曾是微软推销 Microsoft 365 的一大重要功能，它方便用户从银行导入数据分析财务状况，该功能从引入到停用只持续了三年多时间，在 2023 年 6 月 30 日前用户可继续使用，现有的数据也不会消失，但不再能加入任何数据。微软推荐想要使用该功能的人试用 Tiller，这意味着用户需要花更多的钱订阅另一项服务。Wolfram Alpha 存在的时间也只有大约三年。",
-          "link": "https://www.solidot.org/story?sid=71706",
-          "publishedOn": "2022-06-01T13:26:10.000Z",
-          "wordCount": 104,
-          "title": "微软杀死 Money 和 Wolfram Alpha 数据类型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71705",
-          "author": null,
-          "description": "北京大学等的研究团队日前宣布，以只使用化合物的新方法成功构建出人的 iPS 细胞。与京都大学山中伸弥教授发现的在人体细胞中加入 4个 基因从而构建 iPS 细胞的方法完全不同。这可能促进实现更轻松且大规模构建iPS细胞的方法等，但也存在其他研究团队能否再现同样的结果及安全性等课题。研究报告发表在《自然》期刊上。北京大学教授邓宏魁等人把利用这种新方法构建的 iPS 细胞称为“CiPS细胞”。该团队 2013 年宣布构建出小鼠 CiPS 细胞，之后又用了 9 年时间，实现人体 CiPS 细胞。在人体细胞中加入多种化合物，分四个阶段用了大约 40～50 天培养，就形成了 iPS 细胞。CiPS 细胞可以利用胎儿及成人皮肤等细胞构建，构建效率为0.2～2.5％ 左右。",
-          "link": "https://www.solidot.org/story?sid=71705",
-          "publishedOn": "2022-06-01T11:35:48.000Z",
-          "wordCount": 98,
-          "title": "北大研究人员用化合物构建出人体 iPS 细胞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71704",
-          "author": null,
-          "description": "GitHub 宣布 Top-500 npm 包维护者被要求启用 2FA（双因素身份验证）。npm 的生态系统比大多数人想象的更相互交织。此前的研究发现平均一个 npm 包加载了 39 名不同维护者的 79 个第三方包。研究人员发现，只要入侵 20 名最有影响力的包维护者帐号就可能危及半数 NPM 生态系统。",
-          "link": "https://www.solidot.org/story?sid=71704",
-          "publishedOn": "2022-06-01T11:12:05.000Z",
-          "wordCount": 93,
-          "title": "Top-500 npm 包维护者被要求启用 2FA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71703",
-          "author": null,
-          "description": "一群知名技术专家联合致函美国参议员，敦促议员打击蓬勃发展的加密货币行业，这是针对区块链公司花费重金的游说活动的首次协同行动。哈佛大学讲师 Bruce Schneier、GNOME 与 Mono 项目发起人 Miguel de Icaza 和 Google Cloud 首席工程师 Kelsey Hightower 等 26 名顶尖计算机科学家和学者联名致信美国国会议员，严厉批评加密货币投资和区块链技术。Schneier 说，区块链倡导者的说法不是真的，它不安全也不是去中心化，任何忘记密码导致终身积蓄丢失的系统都是不安全的。数据显示，2018 年到 2021 年间加密货币行业的游说人数从 115 增加到 320 人，游说资金从 220 万美元增加到 900 万美元。",
-          "link": "https://www.solidot.org/story?sid=71703",
-          "publishedOn": "2022-06-01T10:41:11.000Z",
-          "wordCount": 100,
-          "title": "技术专家致函美国参议员抵制加密货币业的游说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71702",
-          "author": null,
-          "description": "SpaceX 首席执行官马斯克（Elon Musk）表示，下一代 Starlink 卫星将更大更强，能为世界偏远地区提供互联网接入。这位太空亿万富豪在热门 YouTube 节目 Everyday Astronaut 中介绍了Starlink Gen2系统的细节。在32分钟的剪辑中，马斯克透露 SpaceX 已生产出第一颗 Starlink 2.0 卫星。新一代卫星长 7 米，重约 1.25 吨。相比之下，Starlink 1.0 仅重约 260 公斤。马斯克表示，重量的增加让新卫星更有效。马斯克在采访中表示：“想想每颗卫星可以处理多少有用的数据吧。”“就有用数据位而言，Starlink 2.0 几乎比 Starlink 1.0 好一个数量级。”Starlink 卫星搭乘Falcon 9 火箭进入近地轨道，但是这种火箭将无法携带 Starlink 2.0。马斯克表示：“Falcon 既没有 Starlink 2.0 所需的体积和可运载质量，也没有它需要的轨道能力。”“因此，即使我们将Starlink 卫星缩小，Falcon 的总运载质量也不足以运送 Starlink 2.0。”SpaceX 寄望于 Starship，这是一种目前正在开发的重型运载火箭，不过已经历了多次延期。",
-          "link": "https://www.solidot.org/story?sid=71702",
-          "publishedOn": "2022-06-01T09:18:53.000Z",
-          "wordCount": 114,
-          "title": "马斯克透露下一代Starlink卫星细节",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71701",
-          "author": null,
-          "description": "美国人支持回收。我们也是。但是尽管部分材料可有效地回收且用回收材料安全地制成别的东西，但是塑料不行。塑料回收没有用，而且永远也不会有用。2021 年，美国消费后塑料的回收率约为 5%，低于 2014 年 9.5% 的高点，当时美国向中国出口了数百万吨塑料垃圾，并将其计为回收利用——即使其中大部分并没有被回收。一般来说，回收利用是回笼自然资源的有效方式。美国纸张高达 68% 的回收率证明了这一点。回收塑料的问题不在于概念或工艺，而在于材料本身。第一个问题是有成千上万种不同的塑料，每种都有自己的成分和特性。它们包含了不同的化学添加剂和着色剂，无法一起回收，因此无法将数万亿块塑料分成不同的类型来处理。\n\n\n例如聚乙烯对苯二甲酸酯（PET#1）瓶就无法同 PET#1 翻盖一起回收，后者是另一种不同的 PET#1 材料，而绿色的 PET#1 瓶也无法同透明的 PET#1 瓶一起回收（这就是为什么韩国取缔了彩色的 PET#1 瓶）。高密度聚乙系烯（HDPE#2）、聚氯乙烯（PVC#3）、低密度聚乙烯（LDPE#4）、聚丙烯（PP#5）和聚苯乙烯（PS#6）都必须分开回收。仅仅一顿快餐就可能涉及许多不同类型的一次性塑料制品，包括 PET#1、HDPE#2、LDPE#4、PP#5 和PS#6 杯子、盖子、翻盖、托盘、袋子和餐具，这些都不能一起回收。这也是塑料快餐服务行业在美国不能合法地宣称可回收的原因之一。另一个问题是塑料废物的再加工——如果可能的话——具有破坏性。塑料易燃，塑料回收设施发生火灾的风险会影响邻近的社区——很多此类社区都是低收入社区或者有色人种社区。与金属和玻璃不同，塑料不是惰性的。塑料产品可能包含有毒添加剂和吸收化学物质，收集塑料的路边垃圾箱通常塞满了可能危险的材料，例如塑料农药容器。加拿大政府发布的一份报告称，因再生塑料存在毒性风险，禁止用回收的“绝大多数塑料产品和包装”生产食品级包装。",
-          "link": "https://www.solidot.org/story?sid=71701",
-          "publishedOn": "2022-06-01T08:57:38.000Z",
-          "wordCount": 93,
-          "title": "塑料回收没用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71700",
-          "author": null,
-          "description": "可能会推翻 Roe v. Wade 案的意见草案被泄露，最高法院官员正加大力度寻找泄密源头，并采取措施要求工作人员提供手机记录并签署宣誓书。部分工作人员显然对这些举措感到非常震惊，特别是突然要求提供私人手机数据，他们开始考虑是否要聘请外部律师。最高法院的这些举动前所未有，也是关于谁可能向 Politico 提供了 5 月 2 日发布的意见草案的调查迄今为止最引人注目的进展。此项调查加剧了最高法院本已高度紧张的局势——保守派占据上风，让堕胎权和隐私保护倒退半个世纪。CNN 了解到，首席大法官 John Roberts 在违规事件发生后与法庭工作人员集体会面，但尚不清楚是否进行了系统性的个人谈话。最高法院之外的律师听到了调查手机记录的消息，他们警告称，无论是否向新闻媒体披露任何信息，这种做法都有可能对工作人员的个人活动造成侵扰，并表示他们觉得有必要寻求独立律师参与。一位具有调查经验并知晓这些对法院工作人员新要求的上诉律师表示：“在几乎所有其他的政府调查中，处于类似处境的人都会这样做。”“最高法院阻止自己的雇员利用这一基本法律保护的做法是虚伪的。”了解此事进展的消息人士透露，宣誓书的确切措辞以及计划搜索的手机信息范围——内容或者涵盖的时间段——尚不清楚。",
-          "link": "https://www.solidot.org/story?sid=71700",
-          "publishedOn": "2022-06-01T08:49:26.000Z",
-          "wordCount": 85,
-          "title": "最高法院泄密调查升温要求工作人员提供电话记录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71699",
-          "author": null,
-          "description": "技术充满了各种叙事，但是最大声也是最持久的一个是人工智能和所谓的“数据”。我们被告知，AI是未来，一切都与数据有关——所以数据就是未来，我们应该拥有它，也许还会为此付出代价。各国也需要数据战略和数据主权。数据是新的石油。这多半是胡说八道。没有所谓的“数据”，它一文不值，它无论如何也不会属于你。更明显的是，数据不是一个东西，而是无数不同信息的集合，每一种信息都专属于特定的应用，不能用于别的事情。例如西门子有风力涡轮机遥测数据，伦敦交通局有刷票的数据，这是不可互换的。你无法用涡轮机的遥测数据规划新公交线路，如果你把这两套数据都交给 Google 或者腾讯，也不能帮他们建立更好的图像识别系统。\n\n\n这种直截了当的说法似乎不值一提，但是它指出“中国有更多数据”之类常见的论调是无用的——更多的什么数据？美团每天要交付 5000 万份餐厅订单，这让它可以构建更高效的路由算法，但是不能将其用于导弹制导系统。你甚至不能用它在伦敦建立餐厅外卖业务。“数据”是不存在的——只有许多的数据集。当人们谈论数据时，他们主要指的是“你的”数据——你的信息以及你在互联网上所做的事情，其中一些被科技公司筛选、汇总并获取。我们想要更多的隐私控制，我们也认为应该拥有这些数据，无论它们在哪里。麻烦在于，“你的”数据中的大部分意义并不在于你，而是在于所有你与其他人的互动。你在 Instagram 上发布的内容意义不大：重要的是谁喜欢你的内容，他们还喜欢什么，你喜欢什么，还有谁喜欢它，谁关注了你，他们还关注了谁，以及谁关注了他们等等，在数以百万计的人的互动网络中向外延伸。",
-          "link": "https://www.solidot.org/story?sid=71699",
-          "publishedOn": "2022-06-01T08:36:47.000Z",
-          "wordCount": 79,
-          "title": "“没有数据这回事”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71698",
-          "author": null,
-          "description": "2012 年 3 月，一群软件开发者聚集在牛津大学参加被称为 Collaborations Workshop 的研讨会，他们有着共同的职业：开发软件支持科学研究。但他们的头衔千变万化，而且没有清晰的职业路线。他们创造了一个术语来描述自己的工作：研究型软件工程师（research software engineer ，RSE）。十年后 RSE 社区遍布英国、欧洲、澳大利亚和英国，表明这一工作的重要性日益上升。几乎每一个科学领域都需要运行软件，一位 RSE 可能会从事任何工作。绝大多数 RSE 都有博士学位，但这不是必要的。他们工作的一个重要方面是开发出高质量的软件，研究人员通常没有动机开发出高质量软件，但情况正在发生变化，期刊日益要求研究人员公开软件代码，而且需要遵循可查找、可访问、能互操作和可重现的原则，其中高质量的软件是可重现的重要部分。",
-          "link": "https://www.solidot.org/story?sid=71698",
-          "publishedOn": "2022-06-01T07:34:58.000Z",
-          "wordCount": 89,
-          "title": "科学需要更多研究型软件工程师",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71697",
-          "author": null,
-          "description": "医学家利用机械灌注技术使得在体外保存三天的人类肝脏的移植患者在术后一年依然保持健康。这项技术或能扩大可移植肝脏的数量，同时有望为患者安排择期手术，拯救更多生命。研究论文发表在《自然—生物技术》期刊上。对肝移植的需求与少量可用肝之间的差距正在扩大。可是，临床实践要求供肝移植前在冰上的储存时间不超过 12 个小时，导致可与移植受者匹配的供肝数量十分有限。瑞士苏黎士大学医院的 Pierre-Alain Clavien 和同事用一台机器将一个人类肝脏在体外保存了三天，这个机器能操作名为“体外常温灌注”的技术，该技术能为体外的肝脏提供处于正常体温的代血液。这个肝脏被移植到了一名患有晚期肝硬化和严重门静脉高压症等多种严重肝病的患者体内。移植后的肝脏能正常工作，来自体内血管的血流恢复后只出现了很小的损伤，且移植后的第一个 6 周内只需使用基本免疫抑制方案。",
-          "link": "https://www.solidot.org/story?sid=71697",
-          "publishedOn": "2022-06-01T06:49:02.000Z",
-          "wordCount": 78,
-          "title": "人体移植的肝脏在体外保存三天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71696",
-          "author": null,
-          "description": "美国最高法院周二公布的裁决阻止受争议的得州社交媒体法律 HB20 生效。HB20 禁止社交媒体平台根据观点审核或删除内容，它源于右派的一项指控，声称位于加州的社媒平台如 Facebook 和 Twitter 在其审核策略中存在偏见，不成比例的压制保守派的声音。社交平台则否认这一指控，认为产生这一印象是因为右派用户参与度最高。批评者还警告 HB20 有可能会让仇恨言论在网络上肆虐。最高法院大法官以 5 票对 4 票否决了这项法律。",
-          "link": "https://www.solidot.org/story?sid=71696",
-          "publishedOn": "2022-06-01T04:42:17.000Z",
-          "wordCount": 84,
-          "title": "美国最高法院否决得州社交媒体法律",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71695",
-          "author": null,
-          "description": "根据 Atlas VPN 的估计，苹果的 Safari 是 Google Chrome 之外唯一一个用户数超过 10 亿的浏览器，当然 Safari 的用户数远逊于 Chrome，后者估计有接近 34 亿的用户。这一估计包含了桌面和移动版本，在苹果的 iPhone 和 iPad 移动平台上 Safari 是默认的浏览器，它没有 Android 和 Windows 版本。",
-          "link": "https://www.solidot.org/story?sid=71695",
-          "publishedOn": "2022-06-01T04:28:24.000Z",
-          "wordCount": 102,
-          "title": "Safari 和 Chrome 是唯二用户超过十亿的浏览器",
           "imageUrl": null
         }
       ]
