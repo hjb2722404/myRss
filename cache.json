@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42426",
+          "author": "青小蛙",
+          "description": "Sleepy Coffee 是一款新鲜的记录咖啡饮用量的 iPhone 应用，并且它还会同时读取睡眠数据，让你大致了解咖啡因与睡眠的关系。@Appinn 开发者 @HWang 提到： 我很喜欢喝咖啡，",
+          "link": "https://www.appinn.com/sleepy-coffee-for-iphone/",
+          "publishedOn": "2022-06-11T05:47:53.000Z",
+          "wordCount": 496,
+          "title": "Sleepy Coffee – 记录咖啡饮用量，读取睡眠数据，揭开咖啡与睡眠的关系[iPhone]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/sleepy-coffee.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42421",
           "author": "青小蛙",
           "description": "TEASER 是一款能够在几秒钟内自动生成一的短视频的 iPhone 应用，只需要选中照片或者视频，选择不同风格，它就能制作出一段 15 秒左右的短视频。@Appinn 青小蛙觉得觉得距离开通短视频账",
@@ -125,26 +135,6 @@
           "wordCount": 539,
           "title": "FastStone Image Viewer 7.6 发布，时隔两年再更新",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/faststone-image-viewer-7-6.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42368",
-          "author": "青小蛙",
-          "description": "正版软件销售商数码荔枝开启了2022年618第一波优惠，包括 Typora、iSlide、Listary、PDF Expert、AdGuard 等在内的软件特价已经开始。@Appinn 直接上列表：",
-          "link": "https://www.appinn.com/lizhi-22618-2/",
-          "publishedOn": "2022-06-02T11:01:29.000Z",
-          "wordCount": 971,
-          "title": "数码荔枝 618 第一波优惠[正版软件]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/lizhi-22618.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42365",
-          "author": "青小蛙",
-          "description": "netSend 是一款极其简单高效的开源内网文件传输工具，只需要将文件拖拽进主界面即可获得下载链接以及一个供手机扫描的二维码，支持 Windows、macOS、Linux。@Appinn 在 LAND",
-          "link": "https://www.appinn.com/netsend/",
-          "publishedOn": "2022-06-02T06:47:16.000Z",
-          "wordCount": 520,
-          "title": "netSend – 开源内网文件传输工具，支持二维码[Win/macOS/Linux]￼",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/netsend.jpgo_.jpg"
         }
       ]
     },
@@ -202,16 +192,6 @@
           "wordCount": 653,
           "title": "Please Give Me Some Space",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365841",
-          "author": "Ganesh Dahal",
-          "description": "Block patterns, also frequently referred to as sections, were introduced in WordPress 5.5 to allow users to build and share predefined block layouts in the pattern directory. The directory is the home of a wide range of …\nHow to Create Block Theme Patterns in WordPress 6.0 originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-create-block-theme-patterns-in-wordpress-6-0/",
-          "publishedOn": "2022-06-01T15:30:15.000Z",
-          "wordCount": 3921,
-          "title": "How to Create Block Theme Patterns in WordPress 6.0",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365841"
         }
       ]
     },
@@ -246,13 +226,94 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10440",
+          "author": "张 鑫旭",
+          "description": "我以为我对 CSS 变量了解够多够深入了，没想到还是有知识的盲区，今天这个小技巧小特性就是其中之一，并且是相当实用的一个特性。",
+          "link": "https://www.zhangxinxu.com/wordpress/2022/06/css-var-optional-empty-trick/",
+          "publishedOn": "2022-06-11T17:07:22.000Z",
+          "wordCount": 740,
+          "title": "介绍一种CSS变量未定义语法也OK的小妙招",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71801",
+          "author": null,
+          "description": "MIT 研究人员发现苹果 M1 芯片存在一个无法修复的硬件漏洞，允许攻击者突破最后一道安全防线。漏洞存在于 M1 芯片硬件层安全机制 PAC（pointer authentication codes） 中。PAC 旨在加大向硬件内存注入恶意代码的难度，为抵御缓冲区溢出漏洞增加一层防御。但 MIT 的研究人员开发出了一种新颖的硬件攻击 Pacman，利用预测执行泄露 PAC 验证结果。研究人员证明该攻击对系统内核也有效。攻击是在本地进行的，攻击者需要登陆进系统并安装一个定制的 kext，操作难度很大。",
+          "link": "https://www.solidot.org/story?sid=71801",
+          "publishedOn": "2022-06-11T09:03:04.000Z",
+          "wordCount": 93,
+          "title": "MIT 研究人员发现苹果 M1 芯片无法修复的硬件漏洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71800",
+          "author": null,
+          "description": "尽管 eBay 早在 2008 年就宣布全面禁售象牙，但卖家无视禁令，用假名堂而皇之的销售象牙。调查发现，象牙制品通常被列为牛骨销售。象牙贸易专家的分析也表明，自 eBay 禁售象牙制品以来，有数千件象牙制品在该电商平台上被出售。朴茨茅斯大学的 Caroline Cox 博士及其团队在 2018 年追踪了 eBay 英国子站上的“牛骨”销售，他们跟踪了 632 件出售的牛骨，其中逾 500 件被确定为象牙。Cox 解释说，象牙的颜色是乳白色，销售商品通常会精确列出重量——-因为这是衡量象牙价值的标准。",
+          "link": "https://www.solidot.org/story?sid=71800",
+          "publishedOn": "2022-06-11T06:25:44.000Z",
+          "wordCount": 93,
+          "title": "卖家在 eBay 上用假名销售象牙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71799",
+          "author": null,
+          "description": "微软官方博客宣布了多项对员工有利的工作政策调整，此举旨在回应当地政府的新监管要求。微软宣布它计划放弃竞业禁止条款，对现有工作政策进行民权审计，允许员工自由的求职于亚马逊和 Google 等竞争对手，它还将开始披露美国所有工作岗位的薪酬范围。微软总部所在华盛顿州新的法律生效，其中要求企业在竞业禁止条款生效期间向现雇员或前雇员支付薪水。",
+          "link": "https://www.solidot.org/story?sid=71799",
+          "publishedOn": "2022-06-11T05:43:17.000Z",
+          "wordCount": 73,
+          "title": "微软不再禁止员工向竞争对手求职",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71798",
+          "author": null,
+          "description": "1983 年的一项调查发现，台湾七成的学校毕业生需要佩戴眼镜。今天这一比例超过了八成。整个东亚地区存在类似情况。1960 年代中国大陆学校毕业生的近视率约为 20-30%，今天部分地区的近视率也超过了八成。韩国首尔的一项调查发现，男性高中毕业生近视率高达 97%。香港和新加坡不遑多让。近视问题在东亚最严重，但也不是亚洲独有。2015 年的一项研究估计欧洲的近视率在 20-40%。近视的影响持续终身，严重的近视还可能导致失明。在东亚部分地区，五分之一的年轻人高度近视，未来这可能会成为一个大问题。高近视率被认为与长时间室内学习不接触日光相关，户外活动时长与低近视率相关。近视率与糖尿病和心脏病一样，是医生所谓的富贵病——它们在富裕国家比贫穷国家更常见，经济增长推动了教育的普及，儿童有更多的时间是呆在室内。这解释了东亚地区的高近视率：东亚儿童在室内的时间更长，他们通常在离校之后还要去上补习班。台湾在 2010 年制定了一项政策，鼓励学校每天让学生在室外活动两小时，2020 年的研究显示该计划促使了儿童近视率稳定下降。",
+          "link": "https://www.solidot.org/story?sid=71798",
+          "publishedOn": "2022-06-11T05:15:40.000Z",
+          "wordCount": 80,
+          "title": "为何亚洲地区的近视率如此高？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71797",
+          "author": null,
+          "description": "Chrome 宣布了一系列依赖于机器学习的新安全功能，其中之一是屏蔽大部分恼人的通知权限提示。当用户访问网站时，经常会收到提示询问是否愿意接收通知。这种通知提示出现的频率是如此之高，以至于这越来越像是一种垃圾信息。Firefox 等浏览器默认对此类通知进行限制。如今 Chrome 将利用新的机器学习模型去自动阻止用户可能会忽略的网站提示。",
+          "link": "https://www.solidot.org/story?sid=71797",
+          "publishedOn": "2022-06-10T15:44:27.000Z",
+          "wordCount": 77,
+          "title": "Chrome 将静默大部分恼人的通知权限提示",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71796",
+          "author": null,
+          "description": "明年是 Linux 桌面年这个玩笑已开了很多年，许多人都在思考为什么 Linux 桌面发行版难以在市场上占据一席之地。一种观点是 Linux 发行版缺乏标准化，导致其成为开发者为其他开发者而不是普通用户设计的操作系统。根据 Distrowatch 的跟踪，目前市场上至少有 270 种 Linux 桌面发行版，其中不乏优秀的发行版如 Linux Mint、Fedora、openSUSE 和 Ubuntu，但没有一个赢得足够多的桌面市场份额。除了 200 多个发行版，还有 21 种不同的桌面界面和超过 6 种软件包安装方式，如 Debian Package Management System（DPKG）、Red Hat Package Manager（RPM）、Pacman 和 Zypper，以及最近几年出现的容器化包格式如 Flatpak、Snap 和 AppImage。让普通用户搞清楚其中的区别是基本不可能的。主要 Linux 桌面开发商 Canonical、Red Hat 和 SUSE 并不真正关心桌面，它们的收入来自于服务器、容器、云端和物联网（IoT），我们要感谢它们至少在桌面上投入了资源。",
+          "link": "https://www.solidot.org/story?sid=71796",
+          "publishedOn": "2022-06-10T15:20:34.000Z",
+          "wordCount": 114,
+          "title": "Linux 桌面为何远未到来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71795",
+          "author": null,
+          "description": "澳大利亚科学家发现超级蠕虫能靠消化泡沫塑料（聚苯乙烯）为生。超级蠕虫是大麦虫（Zophobas morio）在幼虫阶段的俗称。研究报告发表在《Microbial Genomics》期刊上。研究人员将这一发现视为找到能用于回收泡沫塑料的天然酶的第一步。由于塑料污染日益严重，过去几年全球科学家一直在尝试寻找能消化塑料的微生物。聚苯乙烯是最常见的塑料之一，占到了非纤维塑料总产量的 7-10%。在试验中研究人员将蠕虫分为三组，喂食不同的食物：麦麸、聚苯乙烯或极少量食物。以聚苯乙烯为食的蠕虫不如吃麦麸的蠕虫健康，且对肠道微生物有不利影响。也就是说，它们能消化聚苯乙烯，但也要付出代价。研究人员接下来就是识别出消化聚苯乙烯的酶，并对其进行强化以用于未来使用。",
+          "link": "https://www.solidot.org/story?sid=71795",
+          "publishedOn": "2022-06-10T14:13:56.000Z",
+          "wordCount": 74,
+          "title": "科学家发现超级蠕虫能消化泡沫塑料",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71794",
           "author": null,
@@ -962,136 +1023,6 @@
           "wordCount": 83,
           "title": "Mozilla 释出机器翻译插件",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71722",
-          "author": null,
-          "description": "富士康证实它在墨西哥的一家工厂 5 月底遭勒索软件攻击。富士康没有提供有关攻击者身份的信息，但勒索软件组织 LockBit 的运营者宣称对此负责。富士康在墨西哥有三家工厂，主要生产计算机、液晶电视、移动设备和机顶盒等产品，受攻击影响的是位于 Tijuana 的工厂，该设施被认为具有战略意义，充当了加州的关键供应枢纽。富士康声称攻击对整体运营造成的影响很小，工厂正逐步恢复正常。LockBit 要求富士康在 6 月 11 日前支付赎金，否则将公开窃取的数据。",
-          "link": "https://www.solidot.org/story?sid=71722",
-          "publishedOn": "2022-06-02T14:47:32.000Z",
-          "wordCount": 82,
-          "title": "富士康墨西哥工厂遭勒索软件攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71721",
-          "author": null,
-          "description": "美国芯片公司高通希望和竞争对手一起购买英国芯片设计公司 Arm 的股权，并创建财团，确保其在半导体市场上的中立性。在英伟达以 660 亿美元收购 Arm 的交易失败之后，Arm 母公司日本软银计划让它在美国纽约证券交易所上市。Arm 设计的芯片占据了移动市场的绝大部分份额，它的上市引发了对其所有权的关注。高通是 Arm 最大的客户之一，公司 CEO Cristiano Amon 表示有兴趣投资，如果财团足够大，高通可以和竞争对手联合起来直接收购 Arm，解决对其控制权的担忧。",
-          "link": "https://www.solidot.org/story?sid=71721",
-          "publishedOn": "2022-06-02T11:25:23.000Z",
-          "wordCount": 91,
-          "title": "高通想要收购 Arm 部分股权",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71720",
-          "author": null,
-          "description": "Google 令人困惑的消息应用少了一个，它宣布合并 Duo 和 Meet 为单一平台，以后只有 Meet 没有  Duo，Google 承诺会将 Duo 的所有功能带到 Meet 上。Duo 和 Meet 都是视频通话应用，但前者更倾向于一对一视频通话，而后者则是更多类似 Zoom 的视频会议和群聊应用。Duo 拥有很多 Meet 没有的功能，它可以使用电话号码直接打电话给某个人，它更类似于苹果的 FaceTime。看起来 Duo 死了而 Meet 走到了最后，然而 Google 继续其令人困惑的做法是 Meet 将在晚些时候更名为 Meet Original，最终将被弃用，而 Duo 应用将更名为 Google Meet，成为两者的唯一应用。",
-          "link": "https://www.solidot.org/story?sid=71720",
-          "publishedOn": "2022-06-02T10:57:35.000Z",
-          "wordCount": 115,
-          "title": "Google 合并 Duo 和 Meet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71719",
-          "author": null,
-          "description": "马斯克(Elon Musk)向特斯拉员工发送了两封邮件，通知员工每周至少在办公室工作 40 小时，否则就辞职。他在邮件中称，如果你没有在办公室现身，我们会认为你辞职了。他说想要豁免这项规定是几乎不可能的，他本人将亲自审查和批准例外申请。他声称允许远程办公的企业已经很长一段时间没有创造出瞩目的新产品了。马斯克说，资深员工现身办公室很重要，这是他经常住在办公室里的原因，否则特斯拉早就破产了。马斯克在邮件中写道：“特斯拉已经并将创造且实际制造出任何公司所能生产的最令人兴奋和最有意义的产品。这不是靠打电话就能实现的。”",
-          "link": "https://www.solidot.org/story?sid=71719",
-          "publishedOn": "2022-06-02T10:32:24.000Z",
-          "wordCount": 74,
-          "title": "马斯克要求特斯拉员工回办公室办公",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71718",
-          "author": null,
-          "description": "匿名读者 写道 \"由Ascensio System SIA开发的ONLYOFFICE开源办公套件发布了 Doc2md 插件。Doc2md 有助于将 docstring 转 markdown。现在用户可以在文档编辑器中把全文或文本小的一部分转化为 markdown。\"",
-          "link": "https://www.solidot.org/story?sid=71718",
-          "publishedOn": "2022-06-02T09:24:53.000Z",
-          "wordCount": 82,
-          "title": "ONLYOFFICE发布了Doc2md插件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71717",
-          "author": null,
-          "description": "一个隔音板条箱里装着世界上最糟糕的神经网络之一。在看到数字6的图片之后，它停顿了片刻，然后识别出里面的数字：0。领导开发这个网络的康奈尔大学物理学工程师 Peter McMahon 不好意思地笑着为它辩护，说手写的数字太潦草了。从 NTT Research 访问 McMahon 实验室的博士后 Logan Wright 保证，该设备通常会得到正确的答案，但是也承认错误很常见。他表示，“它就是这么糟糕。”尽管表现平平，但这个神经网络是开创性的。研究人员将板条箱翻了过来，露出的不是计算机芯片，而是一个麦克风，这个麦克风朝向用螺栓固定在扬声器上的钛板。其他神经网络在0和1的数字世界中运行，而这台设备靠声音运行。当 Wright 给出一个新的数字图片时，它的像素会被转换成音频，扬声器震动钛板，实验室会出现微弱的振动声。然后金属混响——而不是运行在硅片上的软件——进行“阅读”。该设备经常令人费解，甚至对它的设计者来说也是如此。\n\n\nMcMahon 表示：“无论震动金属的是什么，它都应该和手写数字的分类无关。”康奈尔大学团队在 1 月份的《自然》期刊上发表了一篇论文，介绍了该设备简陋的阅读能力，这让 McMahon 和其他一些人希望它的后代能彻底改变计算。计算机科学家发现，对于传统机器学习而言，越大越好。用更多的人工神经元（存储数值的节点）填充神经网络可以提高其区分腊肠犬和斑点狗的能力，或者在无数其他模式识别任务中取得成功。真正巨大的神经网络可以完成令人不安的人类工作，例如撰写论文和创作插画。有了更多的计算能力，更伟大的创举也许会成为可能。这种潜力激励了许多人努力开发更强大和更有效的计算方法。\n\n\nMcMahon 和一群志同道合的物理学家倡导一种非正统的方法：让宇宙为我们处理数字。McMahon 表示：“很多物理系统天然可以比计算机更有效或者更快地进行某些计算。”他举了风洞为例：当工程师设计飞机时，他们会将蓝图数字化，并且在超级计算机上花费数个小时模拟空气如何在机翼周围流动。或者他们可以将飞机放进风洞，看看它是否能飞起来。从计算的角度来看，风洞会立刻“计算出”机翼与空气的相互作用。",
-          "link": "https://www.solidot.org/story?sid=71717",
-          "publishedOn": "2022-06-02T09:03:47.000Z",
-          "wordCount": 93,
-          "title": "如何让宇宙为我们思考",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71716",
-          "author": null,
-          "description": "在澳大利亚最西端的鲨鱼湾，海草草地铺满海底，海草在洋流中随波摆动，被儒艮啃食。一项新研究在这些海草身上发现了意外：它们中的许多都是同一棵的植物，克隆了大约 4500 年。海草——不要和海藻混淆，海藻是一种藻类——是波塞冬的带状水草，或者被称为波喜荡（Posidonia australis）。论文作者、西澳大利亚大学博士 Jane Edgeloe 将它的外观比作葱。在对鲨鱼湾不同地区波喜荡草的基因研究中，Edgeloe 女士和同事获得了这一发现，她在该地区潜入浅水区，并从10 个不同的草地上拔下波喜荡草的嫩枝。研究人员在地面上分析并比较了水草的 DNA。他们在周三的《英国皇家学会学报》（Royal Society B）上发表了研究成果。结果证明，许多看似不同的植物的 DNA 几乎是完全一样的。研究作者之一、西澳大利亚大学的 Elizabeth Sinclair 回忆当她在实验室里意识到“这就是同一棵植物”时候的兴奋感觉。虽然鲨鱼湾北部的一些海草草地存在有性繁殖，但其余的波喜荡草会通过根系分出的新芽自我克隆。即使分开的草地在基因上也是完全一样的，这表明它们曾经通过现在已切断的根联系在一起。根据海湾的年龄和海草的生长速度，研究人员推断鲨鱼湾的这个克隆体大约有 4500 年的历史。",
-          "link": "https://www.solidot.org/story?sid=71716",
-          "publishedOn": "2022-06-02T08:52:12.000Z",
-          "wordCount": 89,
-          "title": "世界最大的植物是澳大利亚的一种自我克隆海草",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71715",
-          "author": null,
-          "description": "2020 年初距离地球 700 光年之遥的超巨星参宿四经历了一次奇怪的不均匀变暗，天文学界争先恐后地解释发生了什么。在最近发表在《自然》期刊上的一项新研究中，三位天文学家证实了部分早期解释，这要归功于日本气象卫星 Himawari-8——在它的图像背景中有参宿四。顾名思义，Himawari-8 是日本气象厅运营的第八代 Himawari 卫星。它在地球静止轨道上运行，距离赤道 22236 英里。比国际空间站要远 90 多倍。卫星每 10 分钟拍摄一次整个地球的光学和红外图像，帮助预测亚洲和西太平洋的天气。它拍摄了大量 1月 15 日发生的汤加火山喷发的图像。然而通过回顾追溯到 2017 年的图像，三名日本研究人员寻找可能是参宿四的光点。他们找到了。研究人员研究了该光点，得出了与前辈相同的结论：参宿四变暗是因为灰尘和光线的一些自然变化。这听起来完全不令人兴奋，但是它很好地证实了我们都在正确的轨道上，这正是此项科学研究的目的。有趣的是气象卫星能提供这些数据。对天文学家来说，可能是一件大事。建造和发射新的太空望远镜可不是一件便宜或者容易的事，你必须为自己预订一枚火箭。但已有卫星在绕地球运行，它们也许能完成类似的工作。",
-          "link": "https://www.solidot.org/story?sid=71715",
-          "publishedOn": "2022-06-02T08:39:26.000Z",
-          "wordCount": 89,
-          "title": "天文学家意外捕捉到超巨星参宿四的“大变暗”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71714",
-          "author": null,
-          "description": "“老大哥”在监听。员工在电脑附近时，公司会使用“bossware”监听他们的声音。多款“间谍软件”应用可以记录电话。亚马逊的 Echo 等家用设备可记录日常对话。现在一种名为神经语音伪装（Neural Voice Camouflage）的系统能为你提供防护。在你说话的时候，它会在背景中生成自定义音频噪声，把转录声音记录的人工智能“搞糊涂”。 新系统使用了“对抗性攻击”。该策略使用的机器学习算法在数据中寻找模式，然后调整声音，让人工智能（而非人类）将其误认为是其他东西。从本质上说，你是在用一个 AI 愚弄另一个 AI。这个过程并不像听起来那么容易。机器学习 AI 需要先处理整个声音片段，然后才能知道如何进行调整，如果你想要实时伪装，这种方法就不行。在这项新研究中，研究人员教会了一个神经网络（一种受到大脑启发的机器学习系统）有效地预测未来。他们用几个小时的语音录音进行训练，它可以不间断地处理 2 秒长的音频片段并对接下来要说的内容进行伪装。如果一个人说“享受盛宴”，它无法准确预测接下来会说什么。但是通过刚才所说的内容以及说话者的声音特征，它会产生声音，这些声音可以破坏随后可能出现的各种词语。其中就包括接下来实际出现的词语；在上面的例子中，这位说话者接着说道，“正在烹制。”对于人类听众来说，音频伪装听起来像是背景噪音，他们可以毫不费力地理解所说的话。但是机器会被卡住。论文发表在上个月召开的  International Conference on Learning Representations 会议上。",
-          "link": "https://www.solidot.org/story?sid=71714",
-          "publishedOn": "2022-06-02T08:00:06.000Z",
-          "wordCount": 93,
-          "title": "新 AI 可通过用自定义噪音防止窃听",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71713",
-          "author": null,
-          "description": "亚马逊发表声明，宣布将于一年之后即 2023 年 6 月 30 日在中国停止 Kindle 电子书店的运营。在此之后，用户将不能购买新的电子书。对于已经购买的电子书，可以在 2024 年 6 月 30 日之前下载，并且可以在此后继续阅读。亚马逊表示，除电子书阅读器外用户还可通过 Kindle 应用下载电子书，但在 2024 年 6 月 30 日之后用户将无法从应用商店下载 Kindle APP。目前中国消费者仍然可通过京东等购买 Kindle 电子书阅读器。",
-          "link": "https://www.solidot.org/story?sid=71713",
-          "publishedOn": "2022-06-02T07:12:18.000Z",
-          "wordCount": 104,
-          "title": "亚马逊将关闭 Kindle 中国电子书店",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71711",
-          "author": null,
-          "description": "大型教育培训机构正在摸索新的商机。从 2021 年开始双减后，新东方将与日本学研控股合作，于 6 月开设科学课程。预计烹饪及艺术等监管政策空间有限的课外兴趣类科目的竞争将变得激烈。2021 年以后，新东方在中国各地开设美术和体育培训课程。关于一系列新业务，董事长俞敏洪认为到 2023 财年（截至 2023 年 5 月）可对销售额做出贡献。",
-          "link": "https://www.solidot.org/story?sid=71711",
-          "publishedOn": "2022-06-02T05:25:47.000Z",
-          "wordCount": 82,
-          "title": "教培机构摸索新商机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71710",
-          "author": null,
-          "description": "索尼认为智能手机将在三年内杀死单反，它预测到 2024 年手机相机的图像质量将超过单反。索尼半导体业务 Sony Semiconductor Solutions (SSS)总裁兼 CEO Terushi Shimizu 称他们预测未来几年智能手机相机拍摄的静态照片质量将超过单镜头反光相机的图像质量。智能手机相机远未达到技术的天花板，而对大多数人来说，单独的相机是多余的。索尼认为量子饱和和 AI 处理的改进会进一步推动手机相机的进步，它还预测到 2024 年高端手机相机传感器的大小将扩大一倍。",
-          "link": "https://www.solidot.org/story?sid=71710",
-          "publishedOn": "2022-06-02T05:18:16.000Z",
-          "wordCount": 85,
-          "title": "索尼认为智能手机将杀死单反",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71709",
-          "author": null,
-          "description": "桑德伯格(Sheryl Sandberg)周三宣布将卸任 Facebook 母公司 Meta 首席运营官一职，其职务将由 Javier Olivan 接替。52 岁的桑德伯格是在 2008 年担任首席运营官，14 年后她表示将书写人生新篇章。她将继续留在 Meta 的董事会，但更多时间会专注于个人慈善事业和她的基金会 Lean In，夏天她还将与电视制作人 Tom Bernthal 结婚。随着近年来扎克伯格接管她的更多职责并重组公司，桑德伯格越来越少出现在聚光灯下。",
-          "link": "https://www.solidot.org/story?sid=71709",
-          "publishedOn": "2022-06-02T03:09:17.000Z",
-          "wordCount": 98,
-          "title": "Sheryl Sandberg 将卸任 Facebook COO",
-          "imageUrl": null
         }
       ]
     },
@@ -1157,7 +1088,7 @@
       "articles": []
     },
     {
-      "title": "catonmat.net – less is more",
+      "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": []
