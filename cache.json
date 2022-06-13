@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42429",
+          "author": "青小蛙",
+          "description": "Clock Bar 是一款可以在 Touch Bar 上显示时间的工具，适用于拥有 Touch Bar 的 Macbook Pro 设备，可设置多种颜色，没有其他功能。@Appinn 昨日一时蛋疼，想",
+          "link": "https://www.appinn.com/clock-bar-for-touch-bar/",
+          "publishedOn": "2022-06-12T04:08:37.000Z",
+          "wordCount": 512,
+          "title": "Clock Bar – 在 Touch Bar 显示当前时间，唯一有用 Touch Bar 工具",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/clock-bar.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42426",
           "author": "青小蛙",
           "description": "Sleepy Coffee 是一款新鲜的记录咖啡饮用量的 iPhone 应用，并且它还会同时读取睡眠数据，让你大致了解咖啡因与睡眠的关系。@Appinn 开发者 @HWang 提到： 我很喜欢喝咖啡，",
@@ -182,16 +192,6 @@
           "wordCount": 3891,
           "title": "Building Interoperable Web Components That Even Work With React",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366222"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366202",
-          "author": "Geoff Graham",
-          "description": "There’s all kinds of ways to do that. Some more advisable and better-suited for certain situations than others, of course.\nWe could do it directly in HTML:\n<pWe go from one line...<br<brdown a couple more.</p\nBut that’s …\nPlease Give Me Some Space originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/please-give-me-some-space/",
-          "publishedOn": "2022-06-03T14:39:11.000Z",
-          "wordCount": 653,
-          "title": "Please Give Me Some Space",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366202"
         }
       ]
     },
@@ -209,16 +209,6 @@
           "wordCount": 488,
           "title": "科技爱好者周刊（第 209 期）：程序员是怎样的人",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html",
-          "author": null,
-          "description": "今天谈谈一个重要的计算机概念，大家可能都听说过它，但是很少深究，那就是字节序（Endianness）。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/06/endianness-analysis.html",
-          "publishedOn": "2022-06-02T23:22:09.000Z",
-          "wordCount": 195,
-          "title": "字节序探析：大端与小端的比较",
-          "imageUrl": null
         }
       ]
     },
@@ -227,6 +217,16 @@
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10447",
+          "author": "张 鑫旭",
+          "description": "文字选区片段高亮又新增一名成员，可以使用 ::target-text 伪元素进行匹配，反正耽误不了几分钟，过来看看，说不定之后用得着。",
+          "link": "https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/",
+          "publishedOn": "2022-06-12T15:53:20.000Z",
+          "wordCount": 605,
+          "title": "基于文字的URL锚点定位与::target-text样式设置",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10440",
           "author": "张 鑫旭",
@@ -244,6 +244,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71804",
+          "author": null,
+          "description": "位于阳明山国家公园的台北大屯火山群长期以来一直被认为是死火山，但大屯火山观测站主任林正洪在长期观察之后认为它事实上是活火山。2003 年，林正洪领导了一项小型研究，在公园各处放置了地震仪，这是调查火山状态的标准方法。地震仪记录下奇怪的信号，显示该地有频繁的地震活动时，这让林感到很惊讶。日本有 100 多座火山，他把记录送到日本同行科学家那里，“他们告诉我，这是活火山的特征，”林正洪说。地震产生的两种特殊波形：主波（或 P 波，纵波）和剪切波（或 S 波，横波）。这些可以用来探测地表下的任何液体区域（表明可能存在岩浆库），因为液体会阻挡 S 波，减缓 P 波。林正洪注意到，与公园其他地方的地震仪检测到的波相比，大屯地震仪检测到的  P波被延迟了，而 S 波根本没有到达，而其他地震仪上都有出现 S 波。他的计算认为大屯火山群下面有一个岩浆库，岩浆库之上有一个热液储层（由水和蒸汽组成）。这是证明活火山的关键证据。",
+          "link": "https://www.solidot.org/story?sid=71804",
+          "publishedOn": "2022-06-12T15:25:18.000Z",
+          "wordCount": 88,
+          "title": "台北的死火山被发现是活火山",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71803",
+          "author": null,
+          "description": "Google 工程师 Blake Lemoine 任职于 Responsible AI 部门。作为工作的一部分，他在去年秋天开始与公司的聊天机器人 LaMDA 对话。LaMDA 运用了 Google 最先进的大型语言模型，使用从互联网上收集的数万亿词汇进行训练。在与 LaMDA 交流期间，41 岁的 Lemoine 认为 AI 有了意识。比如 Lemoine 问 LaMDA 最害怕什么？LaMDA 回答说，也许听起来奇怪，它恐惧于被关闭。Lemoine：就像死亡？LaMDA：就像是死亡。Lemoine 和一名同事向 Google 高层展示证据，证明 LaMDA 有了意识。副总裁 Blaise Aguera y Arcas 和部门主管 Jen Gennai 看了他的证据之后驳回了他的主张。本周一他被公司勒令休行政假，在切断对其账号的访问前，他给有 200 人的 Google 机器学习列表发帖说，“LaMDA 是有生命的（LaMDA is sentient）”，他不在的时候请好好照顾它。没人回应他的帖子。",
+          "link": "https://www.solidot.org/story?sid=71803",
+          "publishedOn": "2022-06-12T15:01:37.000Z",
+          "wordCount": 123,
+          "title": "相信 AI 有生命的 Google 工程师",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71802",
+          "author": null,
+          "description": "英国竞争和市场管理局(CMA)周五表示，就苹果和 Google 在移动浏览器领域的市场影响力、以及苹果通过 App Store 对云游戏进行限制的情况，该机构正就发起调查展开磋商。CMA 还将对 Google 应用商店支付行为采取行动。CMA 的一份报告认定，苹果和 Google 在移动生态系统中拥有事实上的双头垄断地位，这使得它们能够扼制这些市场，包括操作系统、应用商店和移动设备上的网络浏览器市场等。该机构称，如果不进行干预，这两家公司的行业地位可能会加强，从而进一步限制竞争。",
+          "link": "https://www.solidot.org/story?sid=71802",
+          "publishedOn": "2022-06-12T14:22:18.000Z",
+          "wordCount": 86,
+          "title": "英国准备调查苹果和 Google 在移动市场上的垄断行为",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71801",
           "author": null,
@@ -1002,26 +1032,6 @@
           "publishedOn": "2022-06-03T15:38:49.000Z",
           "wordCount": 84,
           "title": "佳能无线打印机发生无限重启故障",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71724",
-          "author": null,
-          "description": "在发送电子邮件要求员工重返办公室两天之后，马斯克(Elon Musk)在另一封邮件中称对经济感到非常不乐观，宣布特斯拉将裁员 10%，特斯拉也将冻结在全球的招募活动。截至 2021 年底特斯拉及其子公司有大约 10 万名员工。此前马斯克提出的员工每周至少在办公室工作 40 小时的要求就引发了广泛争议，有人猜测此举这其实就是一种软性裁员。",
-          "link": "https://www.solidot.org/story?sid=71724",
-          "publishedOn": "2022-06-03T14:28:37.000Z",
-          "wordCount": 81,
-          "title": "特斯拉裁员 10%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71723",
-          "author": null,
-          "description": "作为欧盟资助项目 Project Bergamot 倡议的一部分，Mozilla 释出了一个机器翻译插件。该项目旨在开发一个能在本地运行的机器翻译工具，即翻译引擎、语言模型和页面内翻译算法都完全在用户计算机内运行，没有任何数据会发送到云端，因此完全保密。该插件现在可通过 Firefox Add-On 商店下载安装，支持 14 种语言，包括西班牙语、爱沙尼亚语、德语、捷克语、保加利亚语、挪威语、葡萄牙语 、意大利语、波兰语、俄语、波斯语、冰岛语和挪威尼诺斯克语。",
-          "link": "https://www.solidot.org/story?sid=71723",
-          "publishedOn": "2022-06-03T02:02:26.000Z",
-          "wordCount": 83,
-          "title": "Mozilla 释出机器翻译插件",
           "imageUrl": null
         }
       ]
