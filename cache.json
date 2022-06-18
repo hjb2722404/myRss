@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42513",
+          "author": "青小蛙",
+          "description": "亿图软件是国内办公绘图领域的领头羊，旗下的「亿图脑图MindMaster」和「亿图图示」是两款高效的图形表达工具，前者可以将我们复杂、无序的思维、想法和信息进行快速结构化整理，后者支持轻松绘制流程图、",
+          "link": "https://www.appinn.com/mindmaster-and-edrawsoft/",
+          "publishedOn": "2022-06-17T09:09:03.000Z",
+          "wordCount": 418,
+          "title": "超好用的思维导图、流程图软件，亿图软件轻松开启高效绘图之旅！",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/appinn-2022-06-17t165627-189.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=42510",
+          "author": "青小蛙",
+          "description": "Microsoft Defender（Windows安全中心）是微软内置在 Windows 中的病毒防护、恶意软件、勒索软件防护以及防火墙等一揽子服务，免费提供给 Windows 用户。今天微软发布了",
+          "link": "https://www.appinn.com/microsoft-defender-for-individuals/",
+          "publishedOn": "2022-06-17T08:47:49.000Z",
+          "wordCount": 542,
+          "title": "Microsoft Defender（Windows安全中心）发布 macOS、iOS、Android 版本，需要 Microsoft 365 订阅",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/microsoft-defender-for-individuals.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=42504",
+          "author": "青小蛙",
+          "description": "Language Reactor 是一款 Chrome 扩展，专门用来在看剧的时候学外语，比如在线视频、本地视频，支持任何带有字幕的视频，甚至 .txt 文本文件也可以，它会将字幕列出来，支持每播放完",
+          "link": "https://www.appinn.com/language-reactor/",
+          "publishedOn": "2022-06-17T04:54:23.000Z",
+          "wordCount": 576,
+          "title": "Language Reactor – 轻松学：边看剧，边学外语[Chrome]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/language-reactor.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42480",
           "author": "青小蛙",
           "description": "市面上协作软件有很多，我们却要下载各种软件才能解决一些问题，比如沟通要用微信群、任务拆解要用思维导图、文件要用云盘储存、以及盯项目进度要用甘特图等等~ 可见，一款能帮助我们能在一处管理所有事情的软件，",
@@ -160,21 +190,6 @@
           "wordCount": 440,
           "title": "一号通查 – 一键解绑手机号注册过的互联网服务：微博、淘宝、抖音、今日头条、美团、大众点评、小米生态[中国通信研究院]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/yihaotongcha.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42402",
-          "author": "青小蛙",
-          "description": "Animated Drawings 是一个在线演示项目，它允许父母或监护人将儿童绘画转换为 33 种类型的动画，让卡通人物动起来、跑起来、跳起来，非常有趣。@Appinn Animated Drawi",
-          "link": "https://www.appinn.com/animated-drawings/",
-          "publishedOn": "2022-06-08T04:23:03.000Z",
-          "wordCount": 536,
-          "title": "Animated Drawings – 自动将绘画转换为动画",
-          "enclosure": {
-            "url": "https://img.appinn.net/wp-content/uploads/2022/06/running_jump.mp4",
-            "length": "158402",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/animated-drawings.jpgo_.jpg"
         }
       ]
     },
@@ -183,6 +198,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=366342",
+          "author": "Temani Afif",
+          "description": "We’re looking at loaders in this series. More than that, we’re breaking down some common loader patterns and how to re-create them with nothing more than a single div. So far, we’ve picked apart the classic spinning loader. Now, …\nSingle Element Loaders: The Dots originally published on CSS-Tricks. You should get the newsletter.",
+          "link": "https://css-tricks.com/single-element-loaders-the-dots/",
+          "publishedOn": "2022-06-17T14:47:55.000Z",
+          "wordCount": 1803,
+          "title": "Single Element Loaders: The Dots",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366342"
+        },
         {
           "id": "https://css-tricks.com/?p=366252",
           "author": "Preethi",
@@ -232,16 +257,6 @@
           "wordCount": 703,
           "title": "Am I on the IndieWeb yet?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366286"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366147",
-          "author": "Geoff Graham",
-          "description": "QR codes are funny, right? We love them, then hate them, then love them again. Anyways, they’ve lately been popping up again and it got me thinking about how they’re made. There are like a gazillion QR code generators out …\nLet’s Make a QR Code Generator With a Serverless Function! originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/lets-make-a-qr-code-generator-with-a-serverless-function/",
-          "publishedOn": "2022-06-08T14:30:53.000Z",
-          "wordCount": 937,
-          "title": "Let’s Make a QR Code Generator With a Serverless Function!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366147"
         }
       ]
     },
@@ -304,6 +319,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71869",
+          "author": null,
+          "description": "一封针对 SpaceX CEO  Elon Musk 的公开信在公司内部的 Microsoft Teams 频道内流传。公开信呼吁高管公开表态和谴责 Musk 在 Twitter 上的行为。写信者指出，Musk 在公共领域的行为经常令他们分心和尴尬，尤其是最近几周。作为 CEO Musk 被视为是 SpaceX 的代言人，他的每一篇推文都是公司的公开声明。公司的政策 No Asshole（拒绝混蛋）和 Zero Tolerance（零容忍）在执行上显然是不平等。公开信呼吁高管明确定义和执行政策。路透社报道，SpaceX 至少解雇了五名与这封信有关联的雇员。",
+          "link": "https://www.solidot.org/story?sid=71869",
+          "publishedOn": "2022-06-17T14:45:10.000Z",
+          "wordCount": 100,
+          "title": "SpaceX 解雇至少五名批评 CEO 的员工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71868",
+          "author": null,
+          "description": "网信办发布了《互联网跟帖评论服务管理规定（修订草案征求意见稿）》，意见截止日期 7 月 1 日。征求意见稿规定：\n\n按照“后台实名、前台自愿”原则，对注册用户进行真实身份信息认证，不得向未认证真实身份信息的用户提供跟帖评论服务...建立健全跟帖评论审核管理、实时巡查、应急处置、举报受理等信息安全管理制度，对跟帖评论信息内容实行先审后发，及时发现处置违法和不良信息，并向网信部门报告...配备与服务规模相适应的审核编辑队伍，提高审核编辑人员专业素养...具有舆论属性或社会动员能力的跟帖评论服务提供者上线跟帖评论相关新产品、新应用、新功能的，应当按照国家有关规定开展安全评估...\n\n\n跟帖评论服务提供者应当按照用户服务协议对跟帖评论服务使用者和公众账号生产运营者进行规范管理。跟帖评论服务提供者对发布违反法律法规和国家有关规定的信息内容的跟帖评论服务使用者，应当依法依约采取警示、拒绝发布、删除信息、限制功能、暂停账号更新、关闭账号、禁止重新注册等处置措施，并保存相关记录；对未尽到自主管理义务导致跟评环节出现违法和不良信息内容的公众账号生产运营者，应当根据具体情形，依法依约及时采取警示、删除信息、阶段性限制跟帖评论功能直至永久关闭跟帖评论功能、暂停账号更新、关闭账号、禁止重新注册等处置措施，并保存相关记录，及时向网信部门报告。\n\n跟帖评论服务提供者应当建立用户分级管理制度，对用户的跟帖评论行为开展信用评估，根据信用等级确定服务范围及功能，对严重失信的用户应列入黑名单，停止对列入黑名单的用户提供服务，并禁止其通过重新注册等方式开设账号使用跟帖评论服务。",
+          "link": "https://www.solidot.org/story?sid=71868",
+          "publishedOn": "2022-06-17T13:44:29.000Z",
+          "wordCount": 78,
+          "title": "网信办发布跟帖管理征求意见稿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71867",
+          "author": null,
+          "description": "维基用户 AmaryllisGardener 从 2013 年起写了 2.7 万多篇苏格兰低地语条目，进行了 20 多万次编辑，同时还担任低地语的管理员。但事实上 AmaryllisGardener 生活在北卡，不是苏格兰人，不会说低地语，写的条目也都不是用低地语写的，而是用英语书写然后翻译下。现在中文维基百科发现了一例类似的大规模造假事件。维基用户折毛大规模篡改了古罗斯史，累计编辑约 4800 次，至少创建 206 个条目，多与古罗斯有关，而内容大部分是原创或虚构，参考书籍基本伪造。除了中文，他还编辑了对应的英文条目甚至俄语条目让造假看起来更逼真。他编辑的大部分内容目前都已删除。",
+          "link": "https://www.solidot.org/story?sid=71867",
+          "publishedOn": "2022-06-17T12:21:47.000Z",
+          "wordCount": 85,
+          "title": "中文维基用户被发现大规模篡改古罗斯史",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71866",
+          "author": null,
+          "description": "加密货币市场近期尽显颓势，目前比特币币值徘徊在 2.1 万美元左右，不到去年 11 月创下的近 7 万美元最高点的三分之一。因为价格下跌和能源成本上升挤压利润，比特币矿工也在缩减产量。哈希率用于衡量比特币网络的挖矿算力，Blockchain.com 的数据显示从本周开始哈希率下降了 4%。Blockchain.com 的数据还显示矿工的收入也降至了近一年来的最低水平。主要比特币矿商 Marathon Digital、Hut 8 和 Argo Blockchain 的股份也显著下降。哈萨克斯坦矿商 Xive 的联合创始人 Didar Bekbaouov 称在比特币价格跌至 2.5 万美元以下后他就关闭了不盈利的挖矿作业。",
+          "link": "https://www.solidot.org/story?sid=71866",
+          "publishedOn": "2022-06-17T11:35:33.000Z",
+          "wordCount": 94,
+          "title": "币值暴跌矿工减产",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71865",
+          "author": null,
+          "description": "1997 年，哈佛商学院 Clayton Christensen  教授的著作《创新者的困境》(The Innovator's Dilemma)在风险投资家和企业家中引起轰动。大多数人学到的教训是，经营良好的企业无法负担得起转向新方法的代价——一种最终将取代其现有商业模式的方法——直至为时已晚。这种说法也适用于研究。1980 年代和 1990 年代的第二波神经网络是新方法表现欠佳的一个好例子，但最终在 2010 年左右开始彻底改变人工智能。\n\n\n自 1950 年初以来，作为机器学习机制，各种神经网络都得到了研究，但是它们并不擅长学习有趣的东西。1979 年，Kunihiko Fukushima 首次公开了他所谓的移位不变神经网络的研究，该技术让他的自组织网络能学会对图像中任何位置出现的手写数字进行分类。在 1980 年代，一种名为反向传播的技术被重新发现；它允许一种形式的监督学习，在这种模式中，网络会被告知正确答案应该是什么。在 1989 年，Yann LeCun 将反向传播与 Fuksuhima 的想法结合成被称为卷积神经网络（CNN）的东西。LeCun 也专注于手写数字图像的识别。\n\n\n在接下来的 10 年中，美国国家标准与技术研究所（NIST）提出了一个由 LeCun 修改的数据库，其中包含了 6 万个训练数字和 1 万个测试数字。名为 MNIST 的标准测试数据库让研究人员能精确测量并比较 CNN 不同改进的效果。这是一项巨大的进步，但在被应用于早期自动驾驶汽车和工业机器人生成的任意图像时，CNN 无法与计算机视觉中根深蒂固的 AI 方法相匹敌。\n\n\n但是在 2000 年代，越来越多的学习技术和算法改进被添加到 CNN 中，形成了现在所谓的深度学习。2012 年，深度学习如同横空出世一般，突然在一组被称为 ImageNet 的对象图片测试中胜过了标准计算机视觉算法。计算机视觉的这位可怜的表兄胜利了，它彻底地改变了人工智能领域。少数人辛苦了几十年，让所有人大吃一惊。祝贺他们中的所有人，无论是出名的还是不那么出名的。\n\n\n但是要小心。Christensen 的书传达的信息是，这种破坏永远不会停止。今天还高高在上的人将会为他们还没有开始考虑的新方法感到惊讶。一小群叛徒尝试各种新事物，其中有一些人也愿意默默工作几十年，不计成败。总有一天，这些人中的一部分人会让我们所有人都大吃一惊。",
+          "link": "https://www.solidot.org/story?sid=71865",
+          "publishedOn": "2022-06-17T08:13:59.000Z",
+          "wordCount": 123,
+          "title": "深度学习与创新者困境鲜为人知的关系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71864",
+          "author": null,
+          "description": "纽约最高法庭裁定，自 1970 年代以来一直居住在布朗克斯动物园的大象 Happy 在法律上不能被视为人。这个受到密切关注的案件探索了将人权应用于动物的界限。州上诉法院于周二以 5 票对 2 票做出裁决，首席法官Janet DiFiore 撰写的判决书阐述了法庭的观点。DiFiore表示：“虽然没有人质疑大象是值得妥善照顾并同情的智慧生物”，但是人身保护令（writ of habeas corpus）旨在保护人类的自由，并不适用于像 Happy 这样的非人动物。将这一权利扩大到 Happy，以挑战她要留在动物园的限制“将对现代社会产生巨大的不稳定影响”。根据少数服从多数的裁决，这种情况下授予法律人格将影响人类和动物互动的方式。裁决书写道：“事实上，按照逻辑来说，这样的决定会质疑宠物所有权、服务型动物的使用以及在其他形式的工作中招募动物的前提。”",
+          "link": "https://www.solidot.org/story?sid=71864",
+          "publishedOn": "2022-06-17T07:59:45.000Z",
+          "wordCount": 91,
+          "title": "法院裁定大象 Happy 不是人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71863",
+          "author": null,
+          "description": "尽管马斯克（Elon Musk）最近在特斯拉和 SpaceX 禁止了远程工作，但他周四对 Twitter 的员工表示，他不一定会在这家社交网络实施同样的政策。马斯克在虚拟市政厅中对 Twitter 员工表示：“如果有人只能远程工作，而他们又很优秀，那么解雇他们是没有意义的。”马斯克还指出，Twitter 的工作与特斯拉的工作不同。他表示，“特斯拉制造汽车，而你不能远程制造汽车。”虽然他的评论对于想要继续远程工作的人来说可能是件好事，但据报道，马斯克并没有详细说明如果完成这笔价值 440 亿美元的收购，他将如何在 Twitter 处理远程工作。他让“优秀”员工远程工作的说法表明，就算不完全禁止，马斯克治下的 Twitter 可能也会减少远程工作的选择。“这可能会对远程工作是一个打击，因为这种做法确实会降低团队精神，即使有人在远程工作，他们也必须有时候来到办公室，这样他们才能认识同事……对我来说，可能强烈倾向于可以面对面一起工作的人，但是如果有人很优秀，那么远程工作也行。”",
+          "link": "https://www.solidot.org/story?sid=71863",
+          "publishedOn": "2022-06-17T07:53:40.000Z",
+          "wordCount": 89,
+          "title": "马斯克对 Twitter 员工表示，“优秀”员工可远程工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71862",
+          "author": null,
+          "description": "地球上难以找到一个未受到钯影响的地方。这种银白色金属是全球 14 亿辆汽车催化转化器的关键成分，它们向大气中喷出钯粒。采矿等加剧了钯污染。从南极洲到格陵兰冰盖之巅，地球上最偏远的一些地方都出现了钯的痕迹。事实上，钯对于制药也是不可或缺的。这是因为以钯原子为核心的催化剂具有无与伦比的能力，可以帮助碳-碳键结合在一起。这种化学反应是构建有机分子的关键，特别是用作药物的分子。瑞典哥德堡制药巨头阿斯利康的药物研究员 Per-Ola Norrby 表示：“我们生产的每一种药物在某些时候都有钯催化的步骤。”钯的催化反应非常有价值，以至于在 2010 年，这种反应的发现者赢得了诺贝尔奖。尽管钯有很多功用，化学家还是在试图摆脱它。这种金属比黄金更昂贵，且含有钯的分子对人类和野生动物有剧毒。化学品制造商必须从产品中将所有的钯分离出来，小心地处理有害废物，这会增加额外的费用。位于德国达姆施塔特的生命科学公司 Merck 的药物化学家 Thomas Fuchb 举了制造 3 公斤药物分子的例子——其原料成本为 25 万美元。仅钯催化剂就占了 10 万美元；从产品中将它们提取出来又要花费 3 万美元。纽约大学有机金属化学家 Tianning Diao 表示，寻找这种金属毒性较小的替代品有助于减少钯废料对环境的危害，使化学工业朝着“更环保”的方向发展。研究人员希望将钯换成更常见的金属，例如铁和镍，或者发明出能完全绕开这个问题的无金属催化剂。过去二十年研究人员多次报告发现无钯催化剂。但是每一次发现的预告最终都被证明是一个错误，这种情况已经屡见不鲜。",
+          "link": "https://www.solidot.org/story?sid=71862",
+          "publishedOn": "2022-06-17T07:48:57.000Z",
+          "wordCount": 94,
+          "title": "为什么难以摆脱钯？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71861",
+          "author": null,
+          "description": "一加联合创始人裴宇（Carl Pei）创办的新公司 Nothing 融资逾 2 亿美元，准备在 7 月发售其首款手机 Phone (1)。Android 联合创始人 Andy Rubin 创办的 Essential 融资 3.3 亿美元，但其首款手机发售半年销售量不到 10 万部，最终于 2020 年关闭，而裴宇联合创办的一加是少数成功的 Android 智能手机创业公司。Phone (1)是一个独特设计是背面透明，可看到里面的电子元件如无线充电线圈，它使用了高通的骁龙处理器，运行修改版的 Android 系统 Nothing OS。",
+          "link": "https://www.solidot.org/story?sid=71861",
+          "publishedOn": "2022-06-17T06:41:56.000Z",
+          "wordCount": 105,
+          "title": "Nothing 公司透露首款手机 Phone (1)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71860",
+          "author": null,
+          "description": "新华社报道，第三艘航母在中国船舶集团有限公司江南造船厂下水。它被命名为福建舰，舷号为“18”，是我国完全自主设计建造的首艘弹射型航空母舰，采用平直通长飞行甲板，配置电磁弹射和阻拦装置，满载排水量 8 万余吨。该舰下水后，将按计划开展系泊试验和航行试验。此前两艘航母分别为 2012 年服役的辽宁号（原乌克兰的瓦良格号）和 2019 年服役的山东号。",
+          "link": "https://www.solidot.org/story?sid=71860",
+          "publishedOn": "2022-06-17T06:05:37.000Z",
+          "wordCount": 77,
+          "title": "第三艘航母福建号下水",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71859",
+          "author": null,
+          "description": "美国国家公路交通安全管理局（简称NHTSA）披露，过去 10 个月里，美国有近 400 起车祸涉及使用先进驾驶辅助技术的汽车。从去年 7 月 1 日到今年 5 月 15 日，在该机构录得的 392 起事件中，六人死亡，五人重伤。273 起事故涉及使用“自动辅助驾驶”功能、更为彻底的“全自动驾驶”模式或任何与其相关的组件功能。此类特斯拉事故中有五起导致了死亡。NHTSA 局长史蒂文·克利夫指出，目前的数据并没有考虑到各个制造商在路上行驶、配备了这类技术的汽车数量等因素。在美国，大约有 83 万辆特斯拉汽车配备了“自动辅助驾驶”——这解释了为什么特斯拉汽车在数据中占报告事故的近 70%。",
+          "link": "https://www.solidot.org/story?sid=71859",
+          "publishedOn": "2022-06-17T03:29:14.000Z",
+          "wordCount": 94,
+          "title": "特斯拉等先进驾驶系统汽车安全性引发担忧",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71858",
           "author": null,
@@ -1162,116 +1287,6 @@
           "publishedOn": "2022-06-08T15:38:54.000Z",
           "wordCount": 91,
           "title": "Waymo 和 Uber 在自动卡车上展开合作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71770",
-          "author": null,
-          "description": "消息应用 Telegram 准备推出订阅服务 Telegram Premium，月费 4.99 美元。Telegram 过去几年一直在探索盈利模式，如尝试在一对多的公共频道引入广告。新的订阅服务预计将减少针对免费用户的限制，拥有更大的上传容量、更快的下载速度、没有广告、独有的贴纸和动画化身、更高级的聊天管理功能，等等。Telegram Premium 已经在 Beta 版本中提供，但用户目前无法订阅。",
-          "link": "https://www.solidot.org/story?sid=71770",
-          "publishedOn": "2022-06-08T15:18:39.000Z",
-          "wordCount": 84,
-          "title": "Telegram 准备推出订阅服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71769",
-          "author": null,
-          "description": "开源数据库 MongoDB 正准备发布 6.0 版本。新功能包括了加密查询和时间序列数据。加密查询允许整个查询操作都是加密的，MongoDB 称是业内首创，拥有大量敏感数据的组织可能会对该功能感兴趣。端对端的客户端加密使用了新颖的加密索引数据结构，在数据库服务器上被搜索的数据始终处理加密状态。密钥不会离开应用程序，查询速度和应用程序整体性能不受影响。时间序列数据对于面向时间的数据集非常重要，能快速对时间序列数据进行排序。",
-          "link": "https://www.solidot.org/story?sid=71769",
-          "publishedOn": "2022-06-08T14:12:24.000Z",
-          "wordCount": 80,
-          "title": "MongoDB 6.0 引入加密查询和时间序列数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71768",
-          "author": null,
-          "description": "这是癌症史上的首次：一次小型癌症试验完全缓解了每一位参与试验的直肠癌患者。研究报告发表在《New England Journal of Medicine》医学期刊上。制药巨头葛兰素史克赞助了这项研究，18 名直肠癌患者都面临艰难的治疗选择——化疗、放疗，甚至改变生命的手术，他们都认为试验结束之后将不得不接受手术。然而结果出乎意料，他们体内的肿瘤都消失了，无论做任何检查都检测不到，他们不再需要动任何手术。医学专家表示类似的事情闻所未闻。另一个惊喜是他们都没有观察到并发症。试验使用的药物 dostarlimab 每三周给药一次，持续六个月，每剂费用约 11,000 美元。它撕下了癌细胞的面具，免疫系统因此能识别并消灭它们。哈佛的结直肠癌专家 Kimmie Ng 博士表示结果还需要重复才行。",
-          "link": "https://www.solidot.org/story?sid=71768",
-          "publishedOn": "2022-06-08T11:09:30.000Z",
-          "wordCount": 83,
-          "title": "小型癌症试验完全缓解所有患者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71767",
-          "author": null,
-          "description": "人体需要睡眠，就像需要食物和水。许多人睡眠不足，导致身心受到伤害。在睡眠方面苦苦挣扎的人可以通过睡眠监测受益，但是这种做法的选择很有限。研究证明，长期睡眠不足与糖尿病和心脏病等身体疾病以及心理健康问题有关。有兴趣更好应对夜晚发生在自己身上的状况的人主要有两种选择。他们可以在医疗机构进行睡眠测试，也可以使用智能手机或智能手表上的应用程序——这是一种方便得多，但却不太准确的选择。意识到了这种需求之后，很多团体开始尝试用摩擦纳米发电机（TENG）开发新的睡眠监测系统。为了构建新的智能枕头，研究人员配置了一种灵活的多孔聚合物摩擦发电层。头部和该层之间的运动会改变附近电极周围的电场，从而产生电流。他们将几个这种自供电的传感器串在一起，形成了一个灵活又透气的TENG（FB-TENG）阵列，可以将其放在普通的枕头上。该系统可以产生与受到的压力相对应的电压，并且可以跟踪手指划出字母的运动。",
-          "link": "https://www.solidot.org/story?sid=71767",
-          "publishedOn": "2022-06-08T08:57:57.000Z",
-          "wordCount": 72,
-          "title": "自供电智能枕头跟踪睡眠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71766",
-          "author": null,
-          "description": "任天堂将今年早些时候对一名黑客的判决视为向所有游戏玩家传递关于盗版游戏信息的“独特机会”。新发布的、2 月 10 日对 Gary Bowser 的宣判笔录提供了来自任天堂的不满，这是非常罕见的。加拿大公民 Bowser 去年对美国政府对其作为 Team Xecuter 资深成员的网络犯罪指控认罪。该组织出售绕过版权保护的技术，使 Nintendo Switch 等能玩盗版游戏。当局估计，盗版使任天堂在近十年内损失了 6500 万美元，甚至迫使该公司投入资源发布更安全的 Switch 型号。任天堂的律师 Ajay Singh 当时在法庭上表示：“对我们来说，这是一个非常重要的时刻，”他阐述了该公司反盗版的情况并等待判决。Singh 表示：“是电子游戏的购买维持着任天堂和任天堂生态系统，这是一些让人们开心的游戏。”“正是出于这个原因，我们尽己所能防止任天堂系统上的游戏被盗。” 他指出任天堂因 Team Xecuter 的盗版而遭受的损失，并对那些作品同样被盗版的小型非任天堂游戏制造商表示同情。他还控诉了 Team Xecuter 的黑客行为带来的作弊。作弊可能会吓跑诚实的玩家并给家庭带来烦恼：“仅仅因为一个人想要得到不公平的优势，父母就要被迫向他们的孩子解释为什么人们会作弊以及为什么游戏有时候会不公平，这是不应该的。”",
-          "link": "https://www.solidot.org/story?sid=71766",
-          "publishedOn": "2022-06-08T08:55:07.000Z",
-          "wordCount": 101,
-          "title": "任天堂希望黑客的监禁判决能引人注目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71765",
-          "author": null,
-          "description": "任何一个钱多到不知道怎么花的人最终都会试图解决衰老。Google 创始人拉里佩奇（Larry Page）尝试过。贝索斯（Jeff Bezos）尝试过。科技亿万富翁 Larry Ellison 和 Peter Thiel 也尝试过。现在轮到沙特阿拉伯王国——它拥有的财富大约相当于上面这些人加在一起——准备尝试一下了。沙特王室成立了一个名为 Hevolution Foundation 的非营利组织，计划每年花 10 亿美元的石油财富支持衰老生物学的基础研究，寻找延长健康寿命的方法，这个概念被称为“健康跨度”。如果沙特人真的花掉这笔钱，就会让这个海湾国家成为最大单一赞助方，资助研究人员了解衰老的根本原因以及如何通过药物减缓衰老。基金会尚未正式宣布，但已在科学会议上介绍了它的方向，这个话题让衰老研究人员兴奋，他们希望它能为可能的抗衰老药物大规模人体研究提供支持。该基金由梅奥诊所前内分泌学家、曾任百事可乐公司首席科学家的 Mehmood Khan 管理，他于 2020 年被任命为首席执行官。Khan 在接受采访时表示：“我们的主要目标是延长健康生命跨度。”“地球上没有比这个更大的医疗问题了。”这种在一些高龄科学家中流行的想法认为，如果你能减缓身体的衰老过程，你就可以延缓多种疾病的发作，并延长人们在年龄增长过程中能享受的健康岁月。Khan 表示，该基金将和其他人的做法一样，为关于导致衰老的原因的基础科学研究提供资助，但是它还计划更进一步，为药物研究提供支持，包括试验“专利过期或者从未商业化过的”疗法。",
-          "link": "https://www.solidot.org/story?sid=71765",
-          "publishedOn": "2022-06-08T07:55:45.000Z",
-          "wordCount": 96,
-          "title": "沙特阿拉伯计划每年花费 10 亿美元寻找延缓衰老的方法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71764",
-          "author": null,
-          "description": "高能理论领域在 20 世纪取得重大突破，物理天才们赢得了对粒子对撞机连续七十年的支持和资助，推动了这一领域的成功。对撞机将物质撞在一起，从爆炸中发现了一个又一个粒子。天才们建立了标准模型解释这些粒子。位于瑞士的大强子对撞机（LHC）是那个时代的巅峰，它找到了完成模型所需的最后一个粒子——希格斯玻色子。今天那些天才几乎都离开了，继任者陷入了各种形式的数学超对称：弦理论、M-理论、D-膜等等。但问题是它什么都解释不了。高能理论变得高度学术化和数学化。爱因斯坦假设了四维时空，因为他需要四个维度来理解我们看到的世界。弦理论需要 11 个维度——或者可能是 10、12 或 26个维度。有些维度也许是卷曲的。为什么？显然是因为抽象数学中发生了巧妙的事情。\n\n\n超对称不是一种严密而有效的理论，它被融合在一起以解释观察结果。这是一些复杂难懂的数学模型，也许可以解释一切，也许什么也解释不了。曾经在该领域工作的理论物理学家 Sabine Hossenfelder 精辟地总结了对这种情况。她一点也不拐弯抹角。一个巨型粒子对撞机不能真正地测试超对称理论，它已演化到几乎可以适用于一切。这让我们想到 LHC 及其假想的接班人（LHC++）。LHC 发现了希格斯粒子。然而它对超对称或者弦理论完全无用。Sabine 指出，任何大型强子对撞机的结果都无法排除超对称理论。更糟糕的是，LHC++ 也无法排除它。唯一的希望是巨大的新对撞机碰巧发现新的、意想不到的粒子。\n\n\n在真空中，这算不上是一个可怕的想法。科学会在科学家偶然发现出乎意料的新现象时取得进展。出于这个原因，Ethan Siegel 提议建造LHC++。他认为反对这个建议的论点毫无诚意，或者是出于恶意。然而在这一点上他错了。经济和科学理智都主张采用另一种方法。更强大的LHC++将耗资数百亿美元。造价完全有可能飙升至 1000 亿美元。花那么多钱让一台机器上在黑暗中发射粒子是一个错误。如果你没有太多的事情要做而且资源又有限时，最好针对已知存在的问题。这些东西会引领去发现新的东西。20 世纪物理学革命性的成功就是这样拉开序幕的。",
-          "link": "https://www.solidot.org/story?sid=71764",
-          "publishedOn": "2022-06-08T07:45:02.000Z",
-          "wordCount": 93,
-          "title": "拜托，不要再造大强子对撞机了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71763",
-          "author": null,
-          "description": "俄罗斯法庭下令逮捕批评政府的知名科幻小说《地铁2033》的作者德米特里·格魯克夫斯基（Dmitry Alexeevich Glukhovsky），他面临最高十年监禁。这位 42 岁的作家被认为身处国外，他是在社交媒体上发帖批评政府的。《地铁2033》是一部末世小说，讲述了在核战之后幸存的人们在莫斯科地铁里生活，而地铁下的幸存者们的生活也面临着诸多威胁，在与地铁里的同类、变异生物以及各种各样的未知事物斗争。这部小说被改编为同名畅销游戏。俄罗斯内政部将德米特里列入了通缉名单。",
-          "link": "https://www.solidot.org/story?sid=71763",
-          "publishedOn": "2022-06-08T07:24:44.000Z",
-          "wordCount": 75,
-          "title": "俄罗斯法庭下令逮捕《地铁2033》作者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71762",
-          "author": null,
-          "description": "成人网站 OnlyFans 的高管表示该平台的用户数没有经历类似 Netflix 的增长放缓。Netflix 此前报告了十多年来首次付费用户数减少。OnlyFans 首席财务官 Lee Taylor 表示，该公司的商业模式与 Netflix 完全不同，而 Netflix 所在的流媒体领域竞争非常激烈，市场饱和，参与者包括了亚马逊和迪士尼之类的巨头。Netflix 等公司在裁员，而 OnlyFans 则还在招募更多员工，总数每月增长 2% 到 3%，目前在全球有逾千名员工。OnlyFans 为业余成人内容创作者提供了一种通过订阅赚钱的商业模式，它每天要处理 1800 万美元的付款。",
-          "link": "https://www.solidot.org/story?sid=71762",
-          "publishedOn": "2022-06-08T07:06:16.000Z",
-          "wordCount": 99,
-          "title": "OnlyFans 的用户数没有像 Netflix 那样放缓",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71761",
-          "author": null,
-          "description": "根据发表于《内科学纪事》的一项研究，研究者得出结论，早上喝一杯咖啡可能与较低的死亡风险有关。在研究期间，每天喝1.5至3.5杯咖啡的人——即使加了一匙糖——比不喝咖啡的人的死亡风险低 30%。在研究期间，每天喝不加糖咖啡的人死亡风险降低了 16% 到 21%，与不喝咖啡的人相比，每天喝三杯咖啡的人死亡风险最低。这是一项观察性研究，意味着这些数据不能最终证明咖啡本身可以降低死亡风险；喝咖啡的人可能还有其他生活方式方面的因素，有助于降低他们的死亡率，例如健康的饮食或坚持锻炼的习惯。一种解释是咖啡豆含有大量抗氧化物质，可以帮助分解导致细胞损伤的自由基。另一种解释是喝咖啡的人一般来说也有可能会做出更健康的选择。",
-          "link": "https://www.solidot.org/story?sid=71761",
-          "publishedOn": "2022-06-08T06:40:13.000Z",
-          "wordCount": 75,
-          "title": "喝咖啡或能降低死亡风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71760",
-          "author": null,
-          "description": "欧盟议员周二达成协议，要求在欧盟销售的智能手机等便捷式电子设备必须采用通用充电器端口。通用充电标准是基于 USB Type-C，此举旨在减少电子垃圾，这一协议将对苹果产生不利影响，苹果的设备广泛使用私有的 Lightning 充电器端口。欧盟预计将在今年晚些时候正式批准该协议，从 2024 年秋季开始执行这一规定。",
-          "link": "https://www.solidot.org/story?sid=71760",
-          "publishedOn": "2022-06-08T06:26:05.000Z",
-          "wordCount": 77,
-          "title": "欧盟同意采用通用充电器端口",
           "imageUrl": null
         }
       ]
