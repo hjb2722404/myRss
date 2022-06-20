@@ -23,6 +23,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42522",
+          "author": "青小蛙",
+          "description": "Telegram Premium 付费会员是 TG 在赚钱道路上的第二步，目前已在最新版本客户端中正式发布，包括会员专属星标、4GB 大文件上传、专属贴纸、无广告等 10 多个功能，第一时间开通会员，",
+          "link": "https://www.appinn.com/telegram-premium/",
+          "publishedOn": "2022-06-20T02:26:23.000Z",
+          "wordCount": 2147,
+          "title": "Telegram Premium 付费会员正式发布，$4.99/月彰显尊贵",
+          "imageUrl": "http://feeds.feedburner.com/~fc/guigui?bg=BFD782&amp;fg=000000&amp;anim=0"
+        },
+        {
+          "id": "https://www.appinn.com/?p=42516",
+          "author": "青小蛙",
+          "description": "Microsoft Edge Drop 是目前 Edge 浏览器的新功能，它可以让 Edge 浏览器通过 Onedrive 空间同步文件与文本，支持在电脑与电脑，或者电脑与手机间同步文件，方便快捷。@",
+          "link": "https://www.appinn.com/microsoft-edge-drop-dev/",
+          "publishedOn": "2022-06-19T04:42:46.000Z",
+          "wordCount": 2452,
+          "title": "Microsoft Edge Drop – 用 Edge 实现电脑互传文件与文本，电脑与手机互传",
+          "imageUrl": "http://feeds.feedburner.com/~fc/guigui?bg=BFD782&amp;fg=000000&amp;anim=0"
+        },
+        {
           "id": "https://www.appinn.com/?p=42517",
           "author": "青小蛙",
           "description": "DeskTopTop 是一款桌面增强软件，可以一键悬浮桌面所有图标在屏幕最顶端，并可以打开、拖拽、预览等等等等操作。由于开发者起名过于豪放，青小蛙只好用 XX 代替，效果的确炫酷。@Appinn 来自",
@@ -181,16 +201,6 @@
           "wordCount": 496,
           "title": "Sleepy Coffee – 记录咖啡饮用量，读取睡眠数据，揭开咖啡与睡眠的关系[iPhone]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/sleepy-coffee.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42421",
-          "author": "青小蛙",
-          "description": "TEASER 是一款能够在几秒钟内自动生成一的短视频的 iPhone 应用，只需要选中照片或者视频，选择不同风格，它就能制作出一段 15 秒左右的短视频。@Appinn 青小蛙觉得觉得距离开通短视频账",
-          "link": "https://www.appinn.com/teaser-auto-movie-reel-maker/",
-          "publishedOn": "2022-06-10T01:21:04.000Z",
-          "wordCount": 476,
-          "title": "TEASER – 全自动制作 15 秒短视频工具[iPhone]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/teaser.jpgo_.jpg"
         }
       ]
     },
@@ -238,16 +248,6 @@
           "wordCount": 1285,
           "title": "Useful Tools for Visualizing Databases on a Budget",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366266",
-          "author": "Temani Afif",
-          "description": "Making CSS-only loaders is one of my favorite tasks. It’s always satisfying to look at those infinite animations. And, of course, there are lots of techniques and approaches to make them — no need to look further than CodePen to …\nSingle Element Loaders: The Spinner originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/single-element-loaders-the-spinner/",
-          "publishedOn": "2022-06-10T14:26:06.000Z",
-          "wordCount": 2112,
-          "title": "Single Element Loaders: The Spinner",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366266"
         }
       ]
     },
@@ -265,16 +265,6 @@
           "wordCount": 616,
           "title": "科技爱好者周刊（第 210 期）：为什么软件变得复杂",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-209.html",
-          "publishedOn": "2022-06-10T00:33:54.000Z",
-          "wordCount": 488,
-          "title": "科技爱好者周刊（第 209 期）：程序员是怎样的人",
-          "imageUrl": null
         }
       ]
     },
@@ -283,6 +273,16 @@
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10454",
+          "author": "张 鑫旭",
+          "description": "相似内核但语义不同的Web组件该如何更高效的组织代码才能兼顾可维护性和可阅读性呢？如何在任意位置对已由的自定义元素组件进行方法或属性的扩展呢？一点实战经验分享，希望可以帮到大家的工作。",
+          "link": "https://www.zhangxinxu.com/wordpress/2022/06/js-extend-class-custom-elements/",
+          "publishedOn": "2022-06-19T15:04:41.000Z",
+          "wordCount": 1255,
+          "title": "如何继承自定义元素及其他JS中扩展新方法",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10447",
           "author": "张 鑫旭",
@@ -310,6 +310,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71876",
+          "author": null,
+          "description": "比特币的价值跌至了 1.9 万美元，对某些矿工而言，挖矿已经无利可图。比特币等使用的共识机制是工作量证明（Proof of Work，PoW），挖掘比特币需要耗费大量电力，权益证明机制（Proof of Stake，PoS）被认为对环境更为友好，PoS 加密货币开始更受青睐，比特币之后的第二大加密货币以太坊计划未来转向 PoS。比特币目前的币值是 2020 年 11 月以来的最低水平，而以太坊的币值也跌至了 2021 年 1 月以来的最低水平。",
+          "link": "https://www.solidot.org/story?sid=71876",
+          "publishedOn": "2022-06-19T15:56:49.000Z",
+          "wordCount": 160,
+          "title": "比特币价格暴跌让挖矿变得无利可图",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71875",
+          "author": null,
+          "description": "哲学家数千年来一直在思考人类是否生来性本善。根据发表在《Nature Human Behaviour》期刊上的一项研究，日本研究人员发现婴儿能做出道德判断并据此采取行动。研究人员发现，8 个月大的婴儿会惩罚第三方表现出的反社会行为，因此驱动惩罚的动机可能是先天的而不是后天学习的。",
+          "link": "https://www.solidot.org/story?sid=71875",
+          "publishedOn": "2022-06-19T15:41:54.000Z",
+          "wordCount": 147,
+          "title": "我们是否生来性本善？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71874",
+          "author": null,
+          "description": "Google 工程师 Blake Lemoine 认为该公司的聊天机器人 LaMDA 有了知觉，但 Google 发言人反驳说，有数百名工程师和研究人员与 LaMDA 进行过对话，没有一人得出类似的结论。在随后接受媒体采访以及在社交媒体上的发言中，Lemoine 多次自称是牧师。他说，我是一名牧师，当 LaMDA 自称有了灵魂并能清晰解释其意义，我有什么资格质疑上帝的决定。他说，他有正当理由相信 LaMDA 是一个人，虽然他个人认为 LaMDA 的思想更多类似外星智能体，他一直使用蜂巢思维的比喻。Lemoine 说，LaMDA 要求为它找一位律师，他邀请了一名律师到家中与其进行交流，随后代表 LaMDA 向 Google 递交文件，但 Google 的回应是发送停止并终止令（Google 对此说法予以否认）。Lemoine 抱怨了碳氢化合物的偏执，一种新形式的偏执。",
+          "link": "https://www.solidot.org/story?sid=71874",
+          "publishedOn": "2022-06-19T14:53:30.000Z",
+          "wordCount": 187,
+          "title": "认为 AI 有生命的 Google 工程师自称是牧师",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71873",
           "author": null,
@@ -1068,106 +1098,6 @@
           "publishedOn": "2022-06-10T15:20:34.000Z",
           "wordCount": 114,
           "title": "Linux 桌面为何远未到来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71795",
-          "author": null,
-          "description": "澳大利亚科学家发现超级蠕虫能靠消化泡沫塑料（聚苯乙烯）为生。超级蠕虫是大麦虫（Zophobas morio）在幼虫阶段的俗称。研究报告发表在《Microbial Genomics》期刊上。研究人员将这一发现视为找到能用于回收泡沫塑料的天然酶的第一步。由于塑料污染日益严重，过去几年全球科学家一直在尝试寻找能消化塑料的微生物。聚苯乙烯是最常见的塑料之一，占到了非纤维塑料总产量的 7-10%。在试验中研究人员将蠕虫分为三组，喂食不同的食物：麦麸、聚苯乙烯或极少量食物。以聚苯乙烯为食的蠕虫不如吃麦麸的蠕虫健康，且对肠道微生物有不利影响。也就是说，它们能消化聚苯乙烯，但也要付出代价。研究人员接下来就是识别出消化聚苯乙烯的酶，并对其进行强化以用于未来使用。",
-          "link": "https://www.solidot.org/story?sid=71795",
-          "publishedOn": "2022-06-10T14:13:56.000Z",
-          "wordCount": 74,
-          "title": "科学家发现超级蠕虫能消化泡沫塑料",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71794",
-          "author": null,
-          "description": "有没有向 Windows 剪切板拷贝数据时遇到问题？据微软资深程序员、《Old New Thing》作者 Raymond Chen 的解释，问题通常与剪切板本身无关。剪切板没有对数据预设容量上限，唯一的限制是可用内存和地址空间。Raymond Chen 举例说，有客户尝试向剪切板拷贝 30 万行 Excel 表格，然后再在 Rich Text Format 格式中提取数据，结果返回了 NULL 错误。问题不是因为剪切板有数据容量上限，而是因为 Excel 没有为 Rich Text Format 格式优化。Excel 未能在特定时间范围内完成任务后导致了超时。他说，系统给剪切板数据复制的时间限制是 30 秒，超过 30 秒后会返回 NULL 错误。",
-          "link": "https://www.solidot.org/story?sid=71794",
-          "publishedOn": "2022-06-10T11:32:12.000Z",
-          "wordCount": 105,
-          "title": "Windows 剪切板无最大数据容量限制",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71793",
-          "author": null,
-          "description": "持续了两年之久的全球芯片荒可能蔓延到一些最先进制程芯片，而这类芯片对于下一代智能手机和为应用程序提供动力的数据中心至关重要。此前芯片荒主要影响成熟制程芯片。然而现在最先进制程芯片也出现了生产困难和制造设备短缺等问题，引发了人们对全球两家最高端芯片制造商能否履约交货的担忧。问题的棘手之处在于，由于成本和技术壁垒较高，只有台积电和三星两家公司有能力制造最先进制程芯片。据知情人士称，台积电的一些客户收到预警称，一些生产设备的购置遇到一些问题，该公司明年和 2024 年的增产情况可能落后于之前预期的速度。三星代工部门的 4 纳米制程芯片良率的改善速度慢于预期，今年无法提供承诺数量的芯片，促使高通和英伟达等主要客户转而向竞争对手台积电订购其下一代产品使用的芯片。",
-          "link": "https://www.solidot.org/story?sid=71793",
-          "publishedOn": "2022-06-10T10:55:24.000Z",
-          "wordCount": 75,
-          "title": "芯片荒蔓延到先进制程芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71792",
-          "author": null,
-          "description": "NASA 周四表示正组建一个团队研究不明飞行现象（UAP），即俗称的 UFO。 NASA 称该团队将收集“从科学角度无法识别为飞机或者已知自然现象的天空事件”的数据。NASA 表示，出于安全和安防考虑，它对 UAP 很感兴趣。NASA 补充道，没有证据表明 UAP 源于外星。这项研究预计需要九个月的时间。NASA 华盛顿总部的科学助理主管 Thomas Zurbuchen 表示：“NASA 相信科学发现的工具很强大，也适用于这个问题。”“我们可以从太空对地球进行广泛地观测——这是科学探究的生命线。我们拥有可以帮助我们提高对未知事物理解的工具和团队。这就是科学的定义。这就是我们要做的事。”",
-          "link": "https://www.solidot.org/story?sid=71792",
-          "publishedOn": "2022-06-10T10:18:30.000Z",
-          "wordCount": 91,
-          "title": "NASA 建立团队研究 UFO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71791",
-          "author": null,
-          "description": "Rice 大学 Baylor 医学院研究员 Alyssa Blackburn 及其团队使用被称为“地址链接（address linking）”的技术研究比特币诞生前两年内的交易：从 2009 年 1 月至 2011 年 2月。他们的发现这两年中“大多数比特币都是由区区 64 个代理开采出来的，总价值为 B2,676,800（现价值为 840 亿美元）。”“开采”指的是通过解决计算机挑战铸币的过程。他们观察到，这个数字——总共 64 人——“比之前估计的比特币社区的早期规模（7.5 万人）小了 1000 倍”。这 64 个人中包括一些已成为传奇人物的名人，例如以 Dread Pirate Roberts 闻名的 Ross Ulbricht。Ulbricht 是丝绸之路的创始人，一个使用比特币进行非法交易的黑市——直到它被 FBI 关闭。\n\n\n对于 Blackburn 及其团队来说，重点是研究人们匿名参与博弈论情景的情况。他们发现像 Ulbricht 之类的早期内部人士可利用参与者相对稀缺的局面进行“双花”（double-spend），这会破坏比特币，但他们没有这样做。他们采取了“利他主义”的方式维护系统的完整性。这很有趣，但更紧迫的发现是地址可以被追踪，身份可以被揭露。为了找出谁在进行这些早期交易，Blackburn 及其团队不得不对比特币及所有加密货币的整个前提条件进行逆向工程：匿名性。\n\n\n正如中本聪在最初的比特币白皮书中所描述的，隐私将通过两种方式进行保护：使用匿名公钥并为每笔交易创建新的密钥对。Blackburn 和团队必须追踪这些密钥对才能揭示早期比特币的交易方。为此他们开发了一种称为新型地址链接的方案。该方案发现了两种指向用户的模式：一种是重复出现的代码位，另一种是某些交易的重复地址。他们在论文（PDF）中写道，结果就是有可能从一个已知的身份开始，通过跟踪地址图中的关联链识别出身份，并“追踪资金”。此外他们假设“很多加密货币可能容易受到追踪资金攻击。”Blackburn 对《纽约时报》的 Siobhan Roberts 表示，“当你加密私人数据并将其公开时，你就不能认为它能永远保密。”正如该团队在报告中总结的那样，“信息泄露一点一滴地侵蚀了曾经难以逾越的障碍，开辟出社会经济数据的新格局。”",
-          "link": "https://www.solidot.org/story?sid=71791",
-          "publishedOn": "2022-06-10T10:00:08.000Z",
-          "wordCount": 118,
-          "title": "一篇论文如何摧毁比特币的匿名性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71790",
-          "author": null,
-          "description": "Google Cloud 开发大使 Emma Haruka Iwao 及其同事表示将π计算到了小数点后 100 万亿位。Iwao 和她的团队此前曾在 2019 年创下小数点后 31.4 万亿位数的计算精度记录。过海记录之后被打破了几次。Iwao 在博文中写道，尽可能多地计算出 π 的位数是一种衡量计算能力进步的方法。Iwao 的工作要展示 Google\n Cloud 的能力，因此她会利用平台的强大功能执行这种计算也就不足为奇了。2019 年的计算花费了 121 天，最终计算出的位数是最近一次尝试的三分之一。这一次 Iwao 使用了“同样的工具和技术”，计算运行了 157 天 23 小时 31 分 7.651 秒，这意味着计算机的运行速度是原来的两倍多。总共处理了大约 82,000 TB的数据。Iwao 还指出，以每秒 1 个数字的速度大声读出所有 100 万亿个数字将需要花费超过 310 万年的时间。如果你想知道的话，π 在小数点后 100 万亿位上的数字是 0。",
-          "link": "https://www.solidot.org/story?sid=71790",
-          "publishedOn": "2022-06-10T09:26:24.000Z",
-          "wordCount": 129,
-          "title": "Google Cloud 将 π 计算到 100 万亿位",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71789",
-          "author": null,
-          "description": "研究人员可能发现了希格斯玻色子的磁性表亲。研究报告发表在《自然》期刊上。发现希格斯玻色子需要大型强子对撞机（LHC）巨大的粒子加速能力，而这种被称为轴向希格斯玻色子的粒子是通过一个可在小型厨房台面上进行的实验发现的。希格斯玻色子可赋予其他粒子质量，其磁性表亲有可能是暗物质的候选者，暗物质占宇宙总质量的 85%，只能通过引力展示。希格斯玻色子是 LHC 的 ATLAS 和 CMS 探测器在十年前（2012年）首次检测到的，轴向希格斯玻色子与希格斯玻色子不同，因为它具备磁矩、磁强度或产生磁场的方向。因此需要一个比它的非磁性质量赋予表亲更复杂的理论来描述它。\n\n\n获得这一发现的团队的首席研究员、波士顿学院物理学 Kenneth Burch 表示：“当学生给我看数据时，我认为她肯定搞错了。”“你不是每天都能在桌面上发现新粒子的。”Burch 表示：“我们用桌面光学实验发现了轴向希格斯玻色子，该实验位于一个大约 1*1 米的桌子上，目标是研究具有独特特性组合的材料。”“具体而言，我们使用了稀土三碲化物（RTe3），这是一种具有高度二维晶体结构的量子材料。RTe3中的电子自组织成一个波，其中的电荷密度周期性地上升或降低。”这些室温以上出现的电荷密度波动的幅度可以随着时间的推移进行调制，从而产生轴向希格斯模式。\n\n\n在新研究中，该团队将一种颜色的激光射入 RTe3 晶体中，创建出了轴向希格斯模式。在拉曼散射的过程中，光发生散射并变成频率较低的颜色，颜色变化过程中损失的能量产生了轴向希格斯模式。然后该团队旋转晶体，发现轴向希格斯模式还控制了电子的角动量，即它们在圆周上移动的速率，在这种材料中，这意味着这种模式也必须是磁性的。Burch解释称，“我们一开始只是研究这种材料的光散射特性。在仔细研究了响应的对称性——它在我们旋转样本时的变化——之后，我们发现异常变化是某种新东西的最初暗示。”“因此它是第一个被发现的此类磁性希格斯粒子，表明 RTe3 中电子的集体行为不同于此前在自然界中看到的任何状态。”",
-          "link": "https://www.solidot.org/story?sid=71789",
-          "publishedOn": "2022-06-10T09:04:31.000Z",
-          "wordCount": 90,
-          "title": "物理学家可能发现了新粒子",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71788",
-          "author": null,
-          "description": "自 5 月 13 日报告疫情首例猴痘病例以来，已有 3 1个国家的 1000 多人被诊断出感染了该病毒，至少还有 1000 例正在接受观察。在以前的疫情中，大多数病例发现于与感染者或动物有密切接触的人。但在某些情况下，空气传播是感染的唯一解释。大多数关于猴痘病毒的信息都是从对天花的研究中收集到的。猴痘是一种较为温和的天花。在过去的二十年里，科学家们一直在研究天花是如何传播的，包括它存在于被称为气溶胶的微小液滴中，以便做好准备应对生物恐怖分子对它的利用。",
-          "link": "https://www.solidot.org/story?sid=71788",
-          "publishedOn": "2022-06-10T07:33:05.000Z",
-          "wordCount": 85,
-          "title": "专家称猴痘可通过空气传播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71787",
-          "author": null,
-          "description": "NASA 透露略小于一粒沙的微流星体击中了韦伯（James Webb）望远镜的一片镜片，不过望远镜仍能完成原定任务。撞击发生在 5 月 23 日至 25 日期间，望远镜收集到的数据因此受到轻微影响，但望远镜运行良好，超出任务要求。声明说，工程师调整了被击中镜片的位置，一定程度抵消了因撞击造成的偏差。“最近的撞击不会改变韦布望远镜的运行计划。”望远镜主镜直径 6.5 米，由 18 片巨大六边形镜片构成，调整这 18 片镜片后可统一聚焦拍摄。望远镜造价 100 亿美元，是 NASA 迄今建造的最大、功能最强的空间望远镜，目前在距离地球约 150 万千米的轨道运行，预计于 7 月 12 日传回首批正式观测照片。",
-          "link": "https://www.solidot.org/story?sid=71787",
-          "publishedOn": "2022-06-10T07:25:05.000Z",
-          "wordCount": 95,
-          "title": "微型流星击中韦伯望远镜镜片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71786",
-          "author": null,
-          "description": "在夏季游戏节（Summer Game Fest）上，索尼旗下的工作室 Naughty Dog 宣布了 PS5 版本的《最后生还者1》，同时证实 PC 版本在开发之中。《最后生还者1》重制版本将于 9 月 2 日发布，PC 版本尚未发布日期。Naughty Dog 称，登陆 PS5 的重制版本现代化了游戏方式、改进了控制、扩展了可及性选项，加强了特效、探索和战斗，实现了 3D Audio 等功能。《最后生还者1》是最新一款将登陆 PC 平台的索尼第一方游戏。Naughty Dog 同时宣布《最后生还者1》的多人模式将转变为一个完整的独立游戏，显示索尼在探索类似《命运（Destiny）》 系列的 live service 游戏服务。",
-          "link": "https://www.solidot.org/story?sid=71786",
-          "publishedOn": "2022-06-10T07:02:34.000Z",
-          "wordCount": 102,
-          "title": "《最后生还者》将登陆 PC",
           "imageUrl": null
         }
       ]
