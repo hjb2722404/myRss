@@ -2,10 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-06-22T03:28:48.679Z</updated>
-    <generator>osmosfeed 1.15.0</generator>
+    <updated>2022-06-23T03:29:12.416Z</updated>
+    <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7-zip 支持 Windows Mark-of-the-Web 安全功能]]></title>
+        <id>https://www.solidot.org/story?sid=71913</id>
+        <link href="https://www.solidot.org/story?sid=71913"/>
+        <updated>2022-06-22T15:57:42.000Z</updated>
+        <summary type="html"><![CDATA[7-zip 加入了对 Windows Mark-of-the-Web 安全功能的支持。当用户从网络下载文档和可执行文件，Windows 会对其加入特定的标识符 Mark-of-the-Web，告诉操作系统和支持的应用程序，文件是从另一台计算机或网络上下载的，打开文件可能会存在安全风险。举例来说，Microsoft Office 在打开文件时会检查 Mark-of-the-Web，如果有该标识符它会在保护视图下打开文件，文件处于只读模式，禁用了宏功能。7-zip 是最流行的解压缩软件之一，其作者 Igor Pavlov 在 7-zip 22.00 中加入了一个新设置，允许用户启用 Mark-of-the-Web 功能。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国芯片行业高速发展]]></title>
+        <id>https://www.solidot.org/story?sid=71912</id>
+        <link href="https://www.solidot.org/story?sid=71912"/>
+        <updated>2022-06-22T15:11:50.000Z</updated>
+        <summary type="html"><![CDATA[在美国制裁华为海康威视等公司之后，中国芯片行业增长速度比其它任何地方都快。数据显示，过去四个季度全世界增长速度最快的 20 家芯片行业公司有 19 家在中国。据中国半导体行业协会的数据，2021 年中国芯片制造商和设计公司的总销售额增长 18%，达到创纪录的逾 1 万亿元人民币。中芯国际和华虹半导体是中国最大的合同芯片制造商，中芯国际最近报告其季度销售额增长 67%，超过 GlobalFoundries 和台积电。视频芯片设计公司上海富瀚微电子的收入平均增长 37%，它计划进入电动汽车和人工智能领域。集成电路软件工具开发商上海概伦电子过去四个季度平均销售额增长了一倍，它声称其软件可用于制造 3 纳米芯片。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Different Ways to Write CSS in React]]></title>
+        <id>https://css-tricks.com/?p=366452</id>
+        <link href="https://css-tricks.com/different-ways-to-write-css-in-react/"/>
+        <updated>2022-06-22T14:24:37.000Z</updated>
+        <summary type="html"><![CDATA[We’re all familiar with the standard way of linking up a stylesheet to the <head> of an HTML doc, right? That’s just one of several ways we’re able to write CSS. But what does it look like to style things …
+Different Ways to Write CSS in React originally published on CSS-Tricks. You should get the newsletter.]]></summary>
+        <author>
+            <name>Saleh Mubashar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 useful vim shortcuts]]></title>
+        <id>https://catonmat.net/top-10-vim-shortcuts</id>
+        <link href="https://catonmat.net/top-10-vim-shortcuts"/>
+        <updated>2022-06-22T13:35:00.000Z</updated>
+        <summary type="html"><![CDATA[I use these 10 vim shortcuts daily.
+gi
+Typing gi in normal mode moves the cursor to the last place you were editing and instantly puts you in insert mode.
+Ctrl+o and Ctrl+i
+In normal mode, jumps to the previous (Ctrl+o) or next (Ctrl+i) place where cursor recently has been.
+Ctrl+a and Ctrl+z
+In normal mode, increment and decrement the number under the cursor. Additionally, the speeddating vim plugin makes these two shortcuts more powerful and you can also increment and decrement calendar dates under the cursor.
+Ctrl+e and Ctrl+y in normal mode
+In normal mode, scroll the current buffer one line up (Ctrl+e) or down (Ctrl+y).
+Ctrl+e and Ctrl+y in insert mode
+In insert mode, copy text character-by-character from the line below (Ctrl+e) or line above (Ctrl+y).
+{ and }
+In normal mode, go to previous/next paragraph.
+>> and <<
+In normal or visual mode, shift the line (or selection) one indent to the right (>>) or left (<<).
+Ctrl+n and Ctrl+p
+In insert mode, complete the current word under the cursor from the word following it (Ctrl+n) or words preceding it (Ctrl+p).
+Ctrl+j
+In insert mode, join the current line with the next line.
+zz (two lowercase z's in normal mode)
+Center the buffer so that the current line you're editing is in the middle of the screen.
+ZZ (two capital Z's in normal mode)
+In normal mode, same as :wq!. Saves and exits vim.
+See you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID 反弹现象]]></title>
+        <id>https://www.solidot.org/story?sid=71911</id>
+        <link href="https://www.solidot.org/story?sid=71911"/>
+        <updated>2022-06-22T10:28:55.000Z</updated>
+        <summary type="html"><![CDATA[辉瑞抗病毒药 Paxlovid 是抗击 COVID-19 的重要工具之一；它可以将未接种疫苗的高重症风险患者的住院和死亡相对风险降低 89%。但随着这种方便药物在美国使用量的增加，令人不安的反弹病例报告也出现了——那些在感染早期服用药物的人一开始感觉更好，甚至测试呈阴性，但是在几天后又开始出现症状，测试结果也变成了阳性。目前尚不清楚这种现象有多普遍，但它肯定出现在一定比例使用 Paxlovid 治疗的患者身上。5 月美国疾病控制和预防中心甚至针对反弹报告发布了健康警告。但是随着认识的加深，很明显未经 Paxlovid 治疗的患者也可能出现反弹。研究人员指出，在辉瑞对 Paxlovid 的临床试验中，治疗组和安慰剂组中都有约 1% 到 2% 的患者出现反弹。这一现象引起了一系列疑问。反弹是否是重燃的感染？人们是否仍具有传染性？是否需要恢复隔离？是否再次面临重症风险？免疫系统是否未能做出有效反应？病毒是否变异产生对 Paxlovid 的抵抗？omicron 变种是否引起更多的反弹？到目前为止，有限的数据难以回答这些问题。但美国 NIH 研究院的研究人员领导的一项发表在预印本平台的研究提供了有关 COVID 反弹的令人鼓舞的消息。研究包括 7 名反弹患者的数据，其中 6 人接受 Paxlovid 治疗，1 人未接受治疗，没有发现抵抗 Paxlovid 的突变、病毒复制失控或免疫反应减弱的证据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软、Facebook 等组建元宇宙开放标准小组]]></title>
+        <id>https://www.solidot.org/story?sid=71910</id>
+        <link href="https://www.solidot.org/story?sid=71910"/>
+        <updated>2022-06-22T09:32:01.000Z</updated>
+        <summary type="html"><![CDATA[微软、Epic Games、Meta 和其他 33 家公司和组织成立了一个“元宇宙”技术标准小组。元宇宙标准论坛（The Metaverse Standards Forum）将推动增强现实和虚拟现实、地理空间和 3D 技术的开放、可互操作的标准。新闻稿表示，元宇宙标准论坛将专注于“务实的、基于行动的项目”，如黑客马拉松和支持通用标准的原型工具。它也有兴趣为该领域开发“一致的术语”——很多参与者甚至无法就“元宇宙”是什么达成一致。除了上述公司之外，创始成员还包括 W3C、Nvidia、高通、索尼互动娱乐和 Unity 等元宇宙之前的重量级玩家和 Lamina1 等新兴玩家，Lamina1是由《雪崩（Snow Crash）》作者 Neal Stephenson 参与创建的一家区块链支付初创公司。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[物理学家制造出可“永远”运行的原子激光器]]></title>
+        <id>https://www.solidot.org/story?sid=71909</id>
+        <link href="https://www.solidot.org/story?sid=71909"/>
+        <updated>2022-06-22T09:03:23.000Z</updated>
+        <summary type="html"><![CDATA[一项新突破让物理学家能创造出一束原子，其行为方式与激光相同，理论上可以“永远”保持不变。这种原子激光来自于被称为玻色-爱因斯坦凝聚态（BEC）的物质状态。BEC 是通过将玻色子云冷却到略高于绝对零度的低温创建的。在如此低的温度下，原子在下降到它们可能的最低能量状态后不会完全停止，粒子的量子特性将不再互相干扰；它们彼此靠得很近，以至于产生某种重叠，从而形成高密度的原子云，其行为就像一个“超级原子”或者物质波。然而 BEC 非常脆弱；即使是光也能破坏它。鉴于 BEC 中的原子是用激光冷却的，这通常意味着 BEC 的存在转瞬即逝。到目前为止，科学家设法实现的原子激光器都是脉冲的，不是连续的。且只能在需要生成一个新的 BEC 时触发一个脉冲。为了创建一个连续的 BEC，荷兰阿姆斯特丹大学的一组研究人员意识到需要改变一些东西。物理学家 Florian Schreck 解释说：“在之前的试验中，原子的逐渐冷却都是在一个地方完成的。在新设置中，我们决定不随着时间的推移进行冷却步骤，而是在空间上实现它：我们让原子移动通过连续的冷却步骤。”“最后超冷原子到达试验的核心，可用它们在 BEC 中形成连续的物质波。但是在这些原子被使用的时候，新的原子在补充 BEC 的路上。通过这种方式，我们可以让这个过程持续进行——基本上可以直到永远。”研究报告发表在《自然》期刊上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家在木星发现被蚕食的小行星残骸]]></title>
+        <id>https://www.solidot.org/story?sid=71908</id>
+        <link href="https://www.solidot.org/story?sid=71908"/>
+        <updated>2022-06-22T08:35:45.000Z</updated>
+        <summary type="html"><![CDATA[科学家发现木星内部充满了小行星的残骸，在扩张成为今天所见的庞然大物的过程中，这颗气态巨行星吞噬了这些小行星。这项发现来自对木星多云外层大气下化学成分的首次清晰观察。在发表在《Astronomy and Astrophysics》期刊的新研究中，研究人员利用 NASA 朱诺号太空探测器收集到的引力数据一窥木星模糊的云层。数据能绘制出巨行星核心的岩石材料，他们发现重元素的丰度之高令人吃惊。化学成分表明木星吞噬了小行星或微星以扩张自身。研究人员结合了朱诺号及其前辈伽利略号收集到的数据——大部分数据主要是朱诺号收集到的——建立了木星内部的计算机模型。朱诺号探测器在轨道的不同点位测量了木星的引力场。数据显示，木星吸积的岩石物质含有高浓度的重元素，这些元素形成了致密的固体，因此比气态大气具有更强的引力效应。研究团队绘制出行星重力的微小变化，了解岩石物质在木星内的位置。研究人员的模型显示，木星内存在的重元素的质量相当于地球质量的 11 到 30 倍（占木星总质量的 3% 到 9%），这比预期的要多得多。
+
+新模型指出，因为卵石吸积理论无法解释如此高浓度的重元素，所以木星起源于微星吞噬。如果木星最初是由卵石形成的，那么一旦它足够大，最终开始的气体吸积过程就会立即结束岩石吸积阶段。这是因为不断增长的气体层会产生压力屏障，阻止外部卵石被拉入行星内部。这种被缩短的岩石吸积阶段可能会让木星的重金属丰度或者金属丰度远远低于研究人员计算的结果。即使在气体吸积阶段开始之后，微星也可能被木星的核心捕获；那是因为对岩石的引力会大于大气施加的压力。研究人员表示，小行星理论提出的这种岩石物质和气体的同时吸积是木星内高水平重元素的唯一解释。此项研究还得到了另一个有趣的发现：木星的内部无法很好地同高层大气融合，这与科学家此前的预期截然相反。木星内部的新模型表明，这颗行星吸收的重元素很大程度上仍然靠近其核心和低层大气。研究人员曾假设对流混合了木星的大气层，因此木星核心附近的较热气体会上升到外层大气，在冷却之后又沉降下来；按照这一假设重元素会更均匀地分布在整个大气中。然而木星的某些区域可能会有较小的对流效应，需要更多的研究确定气态巨行星大气内部到底发生了什么。这些发现也可能会改变太阳系中其他行星的起源故事。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国成功用自己的火箭发射小型卫星]]></title>
+        <id>https://www.solidot.org/story?sid=71907</id>
+        <link href="https://www.solidot.org/story?sid=71907"/>
+        <updated>2022-06-22T08:02:01.000Z</updated>
+        <summary type="html"><![CDATA[韩国成功用国产火箭发射了一颗小型卫星。6 月 21 日韩国当地时间 16:00(07:00 UTC)，韩国航空宇宙研究院执行了 Korea Space Launch Vehicle (KSLV)-II 火箭（aka Nuri）的第二次发射，火箭将 1.2 吨的质量模拟件、162.5 kg Performance Verification Satellite (PVSAT)卫星、4 颗立方体卫星和 1 颗仿真立方体卫星成功送入轨道。Nuri 是韩国第二代轨道运载火箭，是首款国产火箭。韩国的第一代轨道运载火箭  Naro-1 是与俄罗斯联合研制的，首次发射是在 2009 年，但发射失败未能抵达轨道。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[µMagnetometer – 磁力计，测量手机旁边的磁场强度[iPhone]]]></title>
+        <id>https://www.appinn.com/?p=42553</id>
+        <link href="https://www.appinn.com/umagnetometer/"/>
+        <updated>2022-06-22T07:30:45.000Z</updated>
+        <summary type="html"><![CDATA[µMagnetometer 是一款测量手机附近磁场强度的 iPhone 应用，支持报警。@Appinn 来自万事屋的消息。 µMagnetometer – 磁力计 就很简单，真磁力计，磁铁]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国人对上帝的信仰下滑至 81%]]></title>
+        <id>https://www.solidot.org/story?sid=71906</id>
+        <link href="https://www.solidot.org/story?sid=71906"/>
+        <updated>2022-06-22T07:26:09.000Z</updated>
+        <summary type="html"><![CDATA[盖洛普最新民调显示，美国人对上帝的信仰下滑至 81%，为盖洛普民调至今的最低记录。1944 年到 2011 年之间，逾九成的美国人相信上帝。最新一期的价值观和信仰民调显示，年轻自由派美国人对上帝信仰的比例最低。信仰下滑幅度最大的群体是自由主义者（62% 的人相信上帝），年轻成年人（68%）和民主党人（72%），保守派（94%）和共和党人（92%）对上帝的信仰比例最高。民调还发现，略超过半数的保守派和共和党人表示相信上帝会听到祈祷并能进行干预。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现奥密克戎重症率低]]></title>
+        <id>https://www.solidot.org/story?sid=71905</id>
+        <link href="https://www.solidot.org/story?sid=71905"/>
+        <updated>2022-06-22T07:06:42.000Z</updated>
+        <summary type="html"><![CDATA[中国疾控中心上周六发表的一项研究显示，在奥密克戎检测呈阳性后住院的超过 3.3 万名患者中，有 22 人出现重症。根据这项 3 月 22 日至 5 月 3 日在上海四家医院进行的研究，所有出现重症的患者均超过 60 岁，并且有基础性疾病。研究作者写道，该研究“为完善新冠公共卫生战略提供了证据”，以避免医疗资源不堪重负，但没有提出具体建议。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维基媒体首批商业客户为 Google 和互联网档案馆]]></title>
+        <id>https://www.solidot.org/story?sid=71904</id>
+        <link href="https://www.solidot.org/story?sid=71904"/>
+        <updated>2022-06-22T06:58:03.000Z</updated>
+        <summary type="html"><![CDATA[维基媒体基金会的商业产品 Wikimedia Enterprise 宣布了首批客户：Google 和互联网档案馆。它同时提供了免费试用账号，供感兴趣的客户更好的评估产品是否符合其需求。过去二十年，维基百科项目不仅成为数亿用户的重要知识来源，也被许多企业使用将百科内容整合到产品中。为了解决这些企业的特定技术需求，以及直接资助维基百科的生态系统，社区多年来讨论了构建面向企业的付费服务。结果就是 Wikimedia Enterprise API。API 打包现有的维基百科内容，标准化数据源，帮助商业公司更容易的在其服务中使用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.15.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1"/>
+        <updated>2022-06-22T06:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Favicon used as article image]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克称完成 Twitter 交易需解决三个问题]]></title>
+        <id>https://www.solidot.org/story?sid=71903</id>
+        <link href="https://www.solidot.org/story?sid=71903"/>
+        <updated>2022-06-22T03:23:48.000Z</updated>
+        <summary type="html"><![CDATA[马斯克(Elon Musk)周二表示，他以 440 亿美元收购 Twitter 的计划因三个未决事项而停滞不前，它们是：获得股东批准、获得债务融资，以及就他对平台上的垃圾用户和虚假账户的质疑获得答复。他说，首先，在他最近几周要求 Twitter 提供数据以便他能够评估平台上有多少虚假的机器人账户之后，他“仍在等待答案”。马斯克重申，他希望Twitter成为“数字城市广场”，并补充说，他希望世界上有一半的人能加入这个平台。除了谈及与 Twitter 的交易，马斯克还澄清道，该公司裁撤 10% 受薪员工的计划将在未来三个月左右进行。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Copilot 开放付费使用]]></title>
         <id>https://www.solidot.org/story?sid=71902</id>
@@ -1136,187 +1312,6 @@ De-Mystifying IndieWeb on a WordPress Site originally published on CSS-Tricks. Y
 Useful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.]]></summary>
         <author>
             <name>Aisha Bukar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-9 Mail 加入 Thunderbird]]></title>
-        <id>https://www.solidot.org/story?sid=71817</id>
-        <link href="https://www.solidot.org/story?sid=71817"/>
-        <updated>2022-06-13T14:33:43.000Z</updated>
-        <summary type="html"><![CDATA[开源邮件客户端 K-9 Mail 宣布成为 Thunderbird 家族的一部分，它将转变为 Thunderbird on Android——Thunderbird 桌面用户期盼已久的移动客户端。K-9 Mail 的维护者  Christian Ketterer (aka “cketti”)成为了 Thunderbird 的全职开发者。目前移动客户端计划中的功能包括：账号设置使用 Thunderbird 账号自动配置，改进文件夹管理，支持信息过滤器，在桌面和移动版本的 Thunderbird 之间进行同步。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT 行业的高校毕业生薪酬最高]]></title>
-        <id>https://www.solidot.org/story?sid=71816</id>
-        <link href="https://www.solidot.org/story?sid=71816"/>
-        <updated>2022-06-13T14:18:32.000Z</updated>
-        <summary type="html"><![CDATA[麦可思研究院日发布的《2022年中国大学生就业报告》显示，IT 业持续领跑高校毕业生薪酬榜，2021届 毕业生选择在长三角、珠三角就业者薪资较高。就业报告数据显示，2021 届应届毕业生在信息传输/软件和信息技术服务业就业月收入持续较高(2021 届本科 6781 元人民币，高职 5023 元)，但 2021 届毕业生起薪涨幅(本科 5%，高职 4%)低于全国平均(本科 7%，高职 6%)。报告显示，2021 届毕业生月收入较高的主要专业前 10 位大都与 IT 行业有关，包括信息安全、软件工程、信息工程、计算机科学与技术、网络工程、物联网工程、电子科学与技术等。除直接就业外，报告指出，应届本科生读研比例持续上升。2021 届本科毕业生国内外读研比例为 19.2%。2021 届本科毕业生国内读研比例为 17.2%，较 2019 届(15.2%)的增幅为 13%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么我们没有婴儿时期的记忆？]]></title>
-        <id>https://www.solidot.org/story?sid=71815</id>
-        <link href="https://www.solidot.org/story?sid=71815"/>
-        <updated>2022-06-13T13:23:34.000Z</updated>
-        <summary type="html"><![CDATA[人生最重要的记忆多是自传性的，通常不会发生在 2 到 3 岁之前。大多数人没有早期生活记忆这一现象被称为婴儿健忘症。为什么我们会没有婴儿时期的记忆？婴儿在最初几个月是否能形成记忆？研究人员证明婴儿是能形成记忆的。婴儿健忘症发生的原因科学家有多种猜测，其中之一是婴儿要在 18 个月后才会有部分自我意识，而
-自传式记忆需要具有自我意识。另一种解释是婴儿在 2 岁左右才会发展出语言，因此不能形成生活的语言描述，此类描述会在以后回忆起来。还有一种解释是大脑负责记忆的区域海马体在婴儿时期尚未完全发育。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eagle 3.0 重磅更新，素材管理工具限时 7 折，错过再等一年]]></title>
-        <id>https://www.appinn.com/?p=42445</id>
-        <link href="https://www.appinn.com/eagle-3-0/"/>
-        <updated>2022-06-13T11:48:25.000Z</updated>
-        <summary type="html"><![CDATA[无论是设计、插画、建筑等领域的专业创作者，还是美图收集爱好者，素材文件管理都至关重要。那么素材管理工具 Eagle 你可能听说过！它可以帮你高效整理电脑中的图片、字体、视频、音频等各种素材，支持 Wi]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物理学家证实量子回旋镖效应]]></title>
-        <id>https://www.solidot.org/story?sid=71814</id>
-        <link href="https://www.solidot.org/story?sid=71814"/>
-        <updated>2022-06-13T11:32:07.000Z</updated>
-        <summary type="html"><![CDATA[物理学家首次验证了量子回旋镖效应。加州圣巴巴拉分校(UCSB)物理学家 David Weld 和同事在一个真空密封的小盒子里，将数十万个锂原子冷却到接近绝对零度（约为零下273.15摄氏度），用激光将锂原子排列成一条直线，并使它们保持在一个特定的量子态，希望以此揭示量子回旋镖效应。研究人员随后使用激光推动锂原子，使其从零平均动量变成了正平均动量。如果相同的变化发生在一个球上，球会滚走。但由于量子回旋镖效应的存在，团队发现锂原子的平均动量很快回到了零。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyPI 多个软件包因拼写错误包含后门]]></title>
-        <id>https://www.solidot.org/story?sid=71813</id>
-        <link href="https://www.solidot.org/story?sid=71813"/>
-        <updated>2022-06-13T11:22:55.000Z</updated>
-        <summary type="html"><![CDATA[PyPI 软件包 keep、pyanxdns、api-res-py 的某些版本因依赖包名字拼写错误而包含后门。举例来说，keep 的绝大部分版本都包含合法的 Python 模块 requests 用于 HTTP 请求，但 keep v.1.2 包含的模块 request（没有 s）是一个恶意程序，能从  Chrome 和 Firefox 等浏览器中窃取 cookies 和个人信息，并尝试窃取浏览器保存的登陆凭证。拼写错误在依赖包攻击中十分常见。pyanxdns 的作者 Marky Egebäck 承认是拼写错误导致的，他的开发者账号并没有遭到入侵。Egebäck 删除了包含 request 依赖的版本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethesda 首次公开演示 《星空（Starfield）》]]></title>
-        <id>https://www.solidot.org/story?sid=71812</id>
-        <link href="https://www.solidot.org/story?sid=71812"/>
-        <updated>2022-06-13T09:16:35.000Z</updated>
-        <summary type="html"><![CDATA[在周日举办的 Xbox 游戏发布会上，微软旗下的 Bethesda 游戏工作室首次公开演示备受期待的太空背景开放世界游戏 《星空（Starfield）》（YouTube）。其游戏方式立即被玩家称为是《无人深空》版本的《天际》——Bethesda 开发的上古卷轴系列第五部。《无人深空》由独立游戏工作室 Hello Games 于 2016 年发布，号称有数以万亿颗可探索行星，但它的行星都是用程序预生成的，大部分相当乏味。Bethesda 游戏总监 Todd Howard 在发布会上宣布《星空》将包含逾千颗可探索行星，许多人猜测大部分行星很可能和《无人深空》类似是程序生成，可能只有少数是手工打磨。《星空（Starfield）》的发布已从原计划的 2022 年底推迟到 2023 年。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEO 建议创建永久性的公开的员工业绩数据库]]></title>
-        <id>https://www.solidot.org/story?sid=71811</id>
-        <link href="https://www.solidot.org/story?sid=71811"/>
-        <updated>2022-06-13T08:48:20.000Z</updated>
-        <summary type="html"><![CDATA[公司业务与数据收集相关的两位 CEO 在一个博客节目中建议建立永久性的公开的员工业绩数据库。某种程度上的员工信用评分，永久性的人力资源档案，将跟随员工从一个工作到另一个工作，前一份工作干的不好的人可能难以得到下一份工作。随着远程办公或混合办公模式的流行，企业日益对量化员工绩效感兴趣，这一需求也推动了员工管理软件的流行。但人力资源专家指出这个建议是个糟糕的主意。康奈尔大学人力资源教授 John Hausknecht 指出这一设想假设了人不会改变，工作内容类似，不同企业的经历相似，不同的工作环境和公司文化都类似。但事实上不存在完全一模一样的工作。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PotPlayer X – 免费的全新 macOS 视频播放器]]></title>
-        <id>https://www.appinn.com/?p=42419</id>
-        <link href="https://www.appinn.com/potplayer-x/"/>
-        <updated>2022-06-13T07:03:01.000Z</updated>
-        <summary type="html"><![CDATA[PotPlayer X 是一款 macOS 上免费的全新多媒体播放器，能播放 4K 视频、支持倍速、逐帧播放，自动搜索字幕、画中画、A-B 循环、硬件加速，有专门的音乐模式界面用来听歌。支持格式众多，]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家为一个机器人手指覆上了人类皮肤活体]]></title>
-        <id>https://www.solidot.org/story?sid=71810</id>
-        <link href="https://www.solidot.org/story?sid=71810"/>
-        <updated>2022-06-13T06:52:29.000Z</updated>
-        <summary type="html"><![CDATA[机器人现在可以覆以用真正人类细胞培养出的活体皮肤，让它们看起来更像我们。日本东京大学的 Shoji Takeuchi 表示，随着机器人越来越多地担任护士、护理人员、教室及其他涉及密切个体接触的工作，让它们看起来更加人性化很重要，我们在与它们互动时会感觉更舒服。他表示，有时候我们会给机器人涂上硅胶以赋予它们肉质的外观，但是这种橡胶缺乏人类皮肤的质感。为了制作更逼真的皮肤，Takeuchi 和同事将塑料机器人手指在胶原蛋白和被称为纤维原细胞的人类皮肤细胞的液体中浸泡了三天。胶原蛋白和纤维原细胞粘附在手指上，形成一层类似于真皮的层，真皮层是人类皮肤的第二层。接着他们轻轻地将另一种被称为角质形成细胞的人类皮肤细胞倒在手指上，以重建人类皮肤的上层，即表皮。当手指前后弯曲时，这种方式产生的 1.5 毫米厚的皮肤能够伸展和收缩。Takeuchi 表示，这些皮肤会像正常皮肤一样起皱。“它比硅胶逼真得多。”机器人的这种皮肤在被切割后，可以通过将胶原蛋白片放到伤口上将其愈合。由于没有血管来补充水分，皮肤会在一段时间后开始变干。Takeuchi 表示，在未来，有可能在皮肤中加入人造血管保持皮肤的水分，还可以添加汗腺和毛囊使其更加逼真。他表示，应该还可以通过添加黑色素细胞来制造不同的肤色。研究人员现在计划为整个机器人涂上活体皮肤。研究报告发表在《Matter》期刊上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大型海洋研究发现数千种以前未记载过的病毒]]></title>
-        <id>https://www.solidot.org/story?sid=71809</id>
-        <link href="https://www.solidot.org/story?sid=71809"/>
-        <updated>2022-06-13T06:46:26.000Z</updated>
-        <summary type="html"><![CDATA[全球首次对海洋 RNA 病毒的研究发现了数千种新病毒，其中一些在海底固碳方面发挥了核心作用。2009 年至 2012 年间，研究人员在一艘名为 Tara 的船上收集了世界所有海洋的海水样本。俄亥俄州立大学的 Guillermo Dominguez-Huerta 和同事此前曾研究过这些样本中的数十万个 DNA 病毒，发现它们集中在五个主要生态区，其中一些在北冰洋多样性程度最高。但这只是故事的一半。海洋中还充满了另一种病毒，这些病毒的基因组由另一种被称为 RNA 的遗传物质组成，细胞用它来指导蛋白质合成。使用现有方法分析 DNA 病毒相对容易，但研究人员必须想方设法改进技术以区分病毒 RNA 和每个样本中游动的其他生物体产生的过量 RNA。现在 Dominguez-Huerta 和同事发表论文，他们使用来自 Tara 的样本对海洋中 RNA 病毒进行了有史以来最大规模的研究。研究人员在海洋中发现了 5000 多种 RNA 病毒，几乎所有这些病毒都是新的科学发现。研究团队特别关注病毒在碳封存中所起的作用。每天大量死去的浮游生物沉入海底，带着它们体内的碳，之后可能会被埋葬数百万年。这个过程被称为生物碳泵，每年可以带走多达 120 亿吨的碳。这大约是人类造成的二氧化碳排放总量的三分之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于 CRISPR 的新图谱将人类的每一个基因同功能联系在一起]]></title>
-        <id>https://www.solidot.org/story?sid=71808</id>
-        <link href="https://www.solidot.org/story?sid=71808"/>
-        <updated>2022-06-13T06:41:43.000Z</updated>
-        <summary type="html"><![CDATA[2003 年人类基因组计划完成了对人类 DNA 所有片段的测序。现在二十多年后，MIT 的 Jonathan Weissman 教授及其同事超越了序列，完成了首个人类细胞表达的基因的综合功能图谱。该项目的数据于 6 月 9 日发表在线上《Cell》期刊上，将每个基因与其在细胞中的工作联系起来，这是多年来在单细胞测序方法 Perturb-seq 上合作的成果。数据可供其他科学家使用。这一成果要归功于单测序工具 Perturb-seq 和 CRISPR-Cas9 基因组编辑，它们将基因变化引入细胞，然后捕获关于 RNA 表达的信息（使用单细胞 RNA 测序）。研究人员使用人类血液癌细胞系和来自视网膜的非癌细胞将该方法扩展到整个基因组，最终在超过 250 万个细胞中使用了 Perturb-seq。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家可能探测到一个流浪黑洞]]></title>
-        <id>https://www.solidot.org/story?sid=71807</id>
-        <link href="https://www.solidot.org/story?sid=71807"/>
-        <updated>2022-06-13T06:37:23.000Z</updated>
-        <summary type="html"><![CDATA[如果像天文学家认为的那样，大型恒星的死亡会留下黑洞，那么应该有数亿个黑洞散布在银河系中，问题是黑洞无法被单独看见。现在一个由加州大学伯克利分校领导的天文学家团队通过观察一颗遥远恒星的亮度，首次发现了一个可能的流浪黑洞，这颗恒星的光被该物体的强引力场（即所谓的引力透镜）扭曲了。 研究小组估计，这个看不见的致密物体的质量是太阳质量的 1.6 到 4.4 倍。天文学家认为死去恒星残余部分的质量必须大于太阳质量的 2.2 倍才能坍缩成黑洞，加州大学伯克利分校的研究人员警告说，该物体可能是中子星而不是黑洞。中子星也是高度致密的物体，但它们内部的中子压力平衡了引力，阻止其进一步坍缩成黑洞。无论黑洞还是中子星，该物体都是首个被发现在银河系中飘荡的暗星残骸——一个恒星“幽灵”，没有与另一颗恒星配对。研究团队还得出结论，银河系中可能的黑洞数量为 2 亿——与大多数理论家的预测差不多。值得注意的是，巴尔的摩太空望远镜科学研究所（STScI）的一个竞争团队也分析了这个引力透镜事件，声称该致密物体的质量更接近太阳质量的 7.1 倍，毫无疑问是一个黑洞。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么人们相信麦田怪圈？]]></title>
-        <id>https://www.solidot.org/story?sid=71806</id>
-        <link href="https://www.solidot.org/story?sid=71806"/>
-        <updated>2022-06-13T06:20:51.000Z</updated>
-        <summary type="html"><![CDATA[在互联网和社交媒体诞生之前，全世界的人们曾为麦田怪圈而疯狂。麦田怪圈是指在谷物地里留下的巨大神秘图案，它引发了全世界人的兴趣，助长了外星人访问地球等诸多阴谋论相关的猜测。这种现象提醒人们对阴谋论的狂热，在缺乏证据或者存在相反证据的情况下信徒们仍然深信不疑。麦田怪圈的一对著名恶作剧者是英国南安普顿的 Doug Bower 和 Dave Chorley，他们从 1970 年代开始秘密制作了 200 多个麦田怪圈图案，使用木板和绳索在麦田里印上圆形图案。英国布里斯托尔大学的一位心理学教授解释了信徒对阴谋论的热衷：他们不相信我们生活在一个无法控制的世界，而是认为一切事情都有人在背后指使。一位麦田怪圈的信徒虽然现在相信它们都是人为的，但仍然认为这些人的行为受到了非人思维的操纵。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parallels Desktop 17 最新优惠码：在 Mac 上运行 Windows 的虚拟机软件]]></title>
-        <id>https://www.appinn.com/?p=39880</id>
-        <link href="https://www.appinn.com/parallels-desktop-17-202110/"/>
-        <updated>2022-06-13T05:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Parallels Desktop 17 是著名的虚拟机工具，可以在 Mac 电脑上的原生操作系统 macOS 中，直接安装并运行 Windows 系统，达到同时启动两个操作系统的目的。最新版本 Pa]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[滴滴结束美国上市之旅]]></title>
-        <id>https://www.solidot.org/story?sid=71805</id>
-        <link href="https://www.solidot.org/story?sid=71805"/>
-        <updated>2022-06-13T04:40:04.000Z</updated>
-        <summary type="html"><![CDATA[上个月滴滴股东批准了公司从美国退市的计划。该公司表示，预计退市将在其正式通知美国证券交易委员会(SEC)后 10 天生效。该公司在 6 月 2 日提交文件，正式通知了SEC。6 月 10 日将是滴滴作为纽交所上市公司的最后一天。滴滴从纽交所退市未必意味着投资者无法出售持股。滴滴已表示，其股票将仍可在监管较宽松、流动性较低的场外市场交易。美国场外交易集团表示，滴滴的美国存托凭证(ADR）将从周一开始在场外交易。如果该公司撤销其美国证券的注册，交易将转移到另一个没有公开报价的市场。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProxiTok – 开源第三方网页版 TikTok，无需客户端直接浏览，支持 RSS 订阅，支持自托管，无跟踪、无用户画像]]></title>
-        <id>https://www.appinn.com/?p=42435</id>
-        <link href="https://www.appinn.com/proxitok/"/>
-        <updated>2022-06-13T04:09:27.000Z</updated>
-        <summary type="html"><![CDATA[ProxiTok 是一款基于 PHP 的开源第三方网页版 TikTok，使用浏览器就可以直接观看。可以根据用户名或标签来追踪 TikTok 用户发布的视频。支持 RSS 订阅、支持自托管。@Appin]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于文字的URL锚点定位与::target-text样式设置]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=10447</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2022/06/url-anchor-target-text/"/>
-        <updated>2022-06-12T15:53:20.000Z</updated>
-        <summary type="html"><![CDATA[文字选区片段高亮又新增一名成员，可以使用 ::target-text 伪元素进行匹配，反正耽误不了几分钟，过来看看，说不定之后用得着。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
         </author>
     </entry>
     <entry>
