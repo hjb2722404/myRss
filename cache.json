@@ -33,6 +33,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42541",
+          "author": "青小蛙",
+          "description": "Scrcpy Remote 是一款基于 Scrcpy 的 iPhone 应用，它可以实现在 iPhone 上通过 Wi-Fi 远程控制 Android 设备。@Appinn 来自开发者 @Ethan",
+          "link": "https://www.appinn.com/scrcpy-remote/",
+          "publishedOn": "2022-06-23T09:41:51.000Z",
+          "wordCount": 2314,
+          "title": "Scrcpy Remote – 用 iPhone 远程控制 Android 设备[iOS]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/scrcpy-remote.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=42557",
+          "author": "青小蛙",
+          "description": "Checkbox Olympics 是一个用来测试鼠标点击速度的在线网站。你只需要在最快的速度内点击屏幕上所有的勾选框就可以了，完成的速度越快越厉害。@Appinn 感谢 @Rio 同学的推荐。 Ch",
+          "link": "https://www.appinn.com/checkbox-olympics/",
+          "publishedOn": "2022-06-23T04:20:35.000Z",
+          "wordCount": 1982,
+          "title": "Checkbox Olympics – 你的鼠标点击速度有多快？",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/checkbox-olympics.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42553",
           "author": "青小蛙",
           "description": "µMagnetometer 是一款测量手机附近磁场强度的 iPhone 应用，支持报警。@Appinn 来自万事屋的消息。 µMagnetometer – 磁力计 就很简单，真磁力计，磁铁",
@@ -191,26 +211,6 @@
           "wordCount": 500,
           "title": "SmartZip – 基于 7zip 的功能扩展脚本：智能解压、自动输入密码、解压嵌套压缩包等",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/smartzip.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42364",
-          "author": "青小蛙",
-          "description": "事情是这样的，前几天 @SONSAN 同学在问题频道提出了一个新问题：是否存在仅有任务模块的协同工具？而正巧青小蛙在折腾 0 代码工具伙伴云，一直没想好该怎么试，送上门的题那就试试看呗。@Appinn",
-          "link": "https://www.appinn.com/huoban-cloud/",
-          "publishedOn": "2022-06-14T08:30:43.000Z",
-          "wordCount": 1040,
-          "title": "伙伴云 – 真 0 代码，用 15 分钟搭建仓库售后任务多人协同工具",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/nocode.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42450",
-          "author": "青小蛙",
-          "description": "神奇画中画是一款将 PDF、TXT、图片、视频、文字、网页以 iOS 标准画中画的形式显示在屏幕上的应用，简单实用。@Appinn 神奇画中画 – 在画中画窗口显示任何内容 画中画是目前",
-          "link": "https://www.appinn.com/magic-picture-in-picture-for-ios/",
-          "publishedOn": "2022-06-14T03:18:59.000Z",
-          "wordCount": 469,
-          "title": "神奇画中画 – 在画中画窗口中显示图片、文字、网页、PDF，还有视频[iPad/iPhone]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/magic-picture-in-picture.jpgo_.jpg"
         }
       ]
     },
@@ -258,16 +258,6 @@
           "wordCount": 2254,
           "title": "De-Mystifying IndieWeb on a WordPress Site",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366388"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366260",
-          "author": "Aisha Bukar",
-          "description": "A diagram is a graphical representation of information that depicts the structure, relationship, or operation of anything. Diagrams enable your audience to visually grasp hidden information and engage with them in ways that words alone cannot. Depending on the type …\nUseful Tools for Visualizing Databases on a Budget originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/useful-tools-for-visualizing-databases-on-a-budget/",
-          "publishedOn": "2022-06-13T19:15:26.000Z",
-          "wordCount": 1285,
-          "title": "Useful Tools for Visualizing Databases on a Budget",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366260"
         }
       ]
     },
@@ -276,6 +266,16 @@
       "feedUrl": "http://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-211.html",
+          "publishedOn": "2022-06-24T00:30:53.000Z",
+          "wordCount": 933,
+          "title": "科技爱好者周刊（第 211 期）：虚拟商品可以拉动 GDP",
+          "imageUrl": null
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html",
           "author": null,
@@ -310,6 +310,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71925",
+          "author": null,
+          "description": "严重洪灾正在影响南方部分地区。广东英德市遭受了有记录以来最大的洪灾，该市有逾四十万民众受到影响，三万人安全撤离，目前还没有人员伤亡报告。警察执行了三百多次救援帮助了逾千名受困者。当地水文局报告称，周三下午两点流经英德市的北江水位峰值高度达到了 35.97 米，比警戒水平高 9.97 米，为有记录以来最高值。一位当地居民称，受灾最严重的是农村地区。据统计中国南部地区有 99 条河流水位超过警戒水平。",
+          "link": "https://www.solidot.org/story?sid=71925",
+          "publishedOn": "2022-06-23T11:24:20.000Z",
+          "wordCount": 151,
+          "title": "南方地区遭遇洪灾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71924",
+          "author": null,
+          "description": "马斯克(Elon Musk)接受特斯拉车主俱乐部采访时表示，由于供应链受阻和电芯制造方面的挑战限制了特斯拉提高产量的能力，该公司两家最新汽车工厂已经在遭受数以十亿美元计的损失。采访是在上月底，本周三发布。马斯克在采访中表示：“我们最关心的问题是，我们如何保持上述工厂的运营，以便能支付员工的工资而不破产。”他补充说，他预计特斯拉将迅速解决这些问题。在采访结束后的几周内，特斯拉已经开始裁员。马斯克暗示，裁员人数可能达到该公司受薪员工的10%。上海的抗疫限制举措也降低了特斯拉上海工厂的产量。",
+          "link": "https://www.solidot.org/story?sid=71924",
+          "publishedOn": "2022-06-23T10:53:10.000Z",
+          "wordCount": 145,
+          "title": "马斯克称特斯拉新工厂损失了数十亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71923",
+          "author": null,
+          "description": "民主在黑暗中死去，如果公众不被告知事实和真相，民主不可能存在。受益于黑暗的人总是试图通过宣传控制媒体和操纵公众舆论。以前操纵媒体的主要是国家，但随着互联网的普及和私有化的社交媒体，宣传不再只是精英阶层的工具，而是被商品化，像广告一样易于获得，成为许多人能利用的武器。但假新闻的风险无法被忽视。如果公众不能区分事实、观点和完全错误的信息，那么社会会变得十分危险。这就是浏览器 Brave 的搜索团队的动机（PDF），它开发了一种允许用户利用规则和过滤器改变搜索排名减少偏见的工具：Brave Search Goggles。源代码发布在 GitHub 上，beta 版本的 Goggles 已经上线供用户尝试。",
+          "link": "https://www.solidot.org/story?sid=71923",
+          "publishedOn": "2022-06-23T09:38:32.000Z",
+          "wordCount": 161,
+          "title": "Brave Search Goggles：用规则和过滤器改变搜索排名",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71921",
+          "author": null,
+          "description": "在美国等国，Covid-19 疫情进入了一个矛盾的阶段，这种冠状病毒演化出了具有高度传染性的变种，导致病例激增，但是公众的态度变得漠不关心，影响了防疫措施的效果。耶鲁大学医学院的 Akiko Iwasaki 等免疫学家敏锐地意识到，尚未结束的疫情仍在造成影响，因此继续在实验室中与这种病毒作斗争。Iwasaki 最近在《纽约时报》的一篇专栏文章中写道：“敌人已经演化，世界需要下一代疫苗”。尽管目前针对这种冠状病毒的疫苗在预防重症和死亡方面非常有效，但在预防感染方面却不太成功。Iwasaki 表示，鼻喷剂形式的疫苗可能会改变这种状况，阻止感染以及很多之前的感染者都出现的一系列“Covid 长期症状”。与世界各地的其他实验室一样，耶鲁大学 Iwasaki 的小组正开发鼻腔喷雾剂。她及其团队还试图解开 Covid 长期症状的谜团，以及为什么只有一些人受到折磨。Iwasaki 表示，疫情“改变了我的科研方向”，她和许多其他研究人员一样，在疫情出现后，将实验室重新定位于这种冠状病毒的研究。在此之前，实验室的大部分工作都是研究被称为先天免疫系统的身体防御机制是如何检测病毒，以及它是如何帮助启动粘膜中的免疫反应的。",
+          "link": "https://www.solidot.org/story?sid=71921",
+          "publishedOn": "2022-06-23T07:40:27.000Z",
+          "wordCount": 157,
+          "title": "用推文和喷鼻剂对抗新冠的免疫学家",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71920",
+          "author": null,
+          "description": "一项调查显示，逾半数英国人支持改写人类胚胎 DNA 以预防严重或危及生命的疾病。受生育和基因组学慈善机构进步教育信托基金（PET）的委托，Ipsos 民意调查发现，53% 的人支持使用人类基因组编辑预防儿童患上囊性纤维化等严重疾病。对于使用这种方法预防哮喘等较温和疾病的热情较低，只有 36% 的人赞成，只有五分之一的人表示支持创造基因工程婴儿，但是不同年龄段的人对这种技术的看法差异显著。年轻一代比老年人更喜欢基因工程婴儿，16 至 24 岁年龄段中有 38 %的人，25 至 34 年龄段中有 31% 的人支持使用基因编辑让父母选择孩子的身高、眼睛和头发的颜色等特征。在英国等国家，对怀孕用胚胎进行基因组编辑是非法的，但是如果研究表明这种做法可安全地预防严重疾病，这些限制就可能被取消。基因组编辑被寄予厚望，可能会改变一系列遗传性疾病的治疗，从囊性纤维化和肌肉萎缩症到泰萨二氏病，泰萨二氏病是一种会逐渐破坏神经系统的罕见疾病。原则上，导致这些疾病的有缺陷的基因可以在体外受精的胚胎中被改写，从而使这些胚胎发育成健康的婴儿。",
+          "link": "https://www.solidot.org/story?sid=71920",
+          "publishedOn": "2022-06-23T07:34:17.000Z",
+          "wordCount": 160,
+          "title": "半数英国人支持用基因组编辑预防严重疾病",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71919",
+          "author": null,
+          "description": "NASA 开始关闭航海者号宇宙飞船的系统，标志着探测器 50 年生涯的终章拉开了序幕。航海者一号和航海者二号是两个完全相同的探测器，于 1977 年发射，穿越星际空间到达太阳系边缘，让人类得以近距离观察木星和土星的卫星。现在为了让它能一直运行到 2030 年，NASA 必须开始限制航海者号的运作。约翰霍普金斯大学应用物理实验室的物理学家 Ralph McNutt 表示：“我们已运行了 44 年半。”“所以加了十倍的小心，保障这些该死的东西正常。”航海者一号还剩下四个仪器在工作，而航海者二号剩下五个，所有这些仪器都是通过将衰变的钚转化为电力来供电。这种电池的输出功率每年会降低大约 4 瓦，因此 NASA 不得不做出艰难的选择，决定关闭哪些功能；2019 年，工程师们不得不关闭了宇宙射线探测器的加热器，这是探测航海者二号何时离开太阳风层（磁层、天体层和太阳最外层大气层）的关键设备。NASA 将最后关闭的仪器可能是磁强计和等离子体科学仪器，它们在宇宙飞船的主体之内。计算机散发出的热量可帮助加热，而其他的仪器则悬挂在 13 米长的玻璃纤维吊杆上，这意味着它们在关闭之前能坚持的时间最长。两艘宇宙飞船距离地球都很远，即使是以光速传播的无线电信号，抵达航海者一号也需要 22 个小时，抵达航海者二号需要 18 个多小时。",
+          "link": "https://www.solidot.org/story?sid=71919",
+          "publishedOn": "2022-06-23T07:29:08.000Z",
+          "wordCount": 181,
+          "title": "50 年后 NASA 开始关闭航海者号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71918",
+          "author": null,
+          "description": "在 2600 万人口的上海进入封锁之际，当地有关部门迅速做出反应，派出了一支干部队伍来保护这座中国金融之都一项最宝贵的资源：首次公开发行(IPO)。就在上海居民纷纷在社交媒体上抱怨居家隔离期间的生活时，中国证券监管机构派出官员驻扎在上海证券交易所(SSE)。他们白天通过视频会议对上市申请人进行审查，然后批准上市交易，晚上就睡在行军床和充气床垫上。此举帮助中国今年 IPO 总额达到近 350 亿美元，为美国的两倍。其中半导体行业的 IPO 达到 66 亿美元。",
+          "link": "https://www.solidot.org/story?sid=71918",
+          "publishedOn": "2022-06-23T07:17:39.000Z",
+          "wordCount": 162,
+          "title": "中国今年 IPO 筹资额居全球之首",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71917",
+          "author": null,
+          "description": "云储存服务 Mega 有 2.5 亿注册用户，1200 亿个文件，逾 1000 PB 存储空间。Mega 的一大卖点是文件加密，该公司宣称没有其它云储存公司提供端对端加密，表示只要密码足够强其他人都无法访问用户储存的文件，即使它的基础设施都被扣押。研究人员发布报告指出这一说法并不正确。Mega 用于加密文件的架构充斥着基本的加密学漏洞，只要用户登陆的次数足够多，控制该平台的人很容易执行密钥恢复攻击。恶意者可以破解加密的文件，甚至在用户账号下上传恶意文件。Mega 在 3 月份收到了研究人员的报告，本周释出了一个更新，加大了攻击难度。但研究人员指出这并没有修复他们所发现的密钥复用等诸多问题。",
+          "link": "https://www.solidot.org/story?sid=71917",
+          "publishedOn": "2022-06-23T05:26:57.000Z",
+          "wordCount": 165,
+          "title": "研究发现 Mega 的文件加密容易破解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71916",
+          "author": null,
+          "description": "广电总局发布了《网络主播行为规范》。其中规定：通过互联网提供网络表演、视听节目服务的主播人员，包括在网络平台直播、与用户进行实时交流互动、以上传音视频节目形式发声出镜的人员，应当遵照本行为规范。利用人工智能技术合成的虚拟主播及内容，参照本行为规范...\n对于需要较高专业水平（如医疗卫生、财经金融、法律、教育）的直播内容，主播应取得相应执业资质，并向直播平台进行执业资质报备，直播平台应对主播进行资质审核及备案...\n建立健全网络主播入驻、培训、日常管理、业务评分档案和“红黄牌”管理等内部制度规范。对向上向善、模范遵守行为规范的网络主播进行正向激励；对出现违规行为的网络主播，要强化警示和约束；对问题性质严重、多次出现问题且屡教不改的网络主播，应当封禁账号，将相关网络主播纳入“黑名单”或“警示名单”，不允许以更换账号或更换平台等形式再度开播。对构成犯罪的网络主播，依法追究刑事责任。对违法失德艺人不得提供公开进行文艺表演、发声出镜机会，防止转移阵地复出。网络表演、网络视听经纪机构要加强对网络主播的管理和约束，依法合规提供经纪服务，维护网络主播合法权益。",
+          "link": "https://www.solidot.org/story?sid=71916",
+          "publishedOn": "2022-06-23T03:22:40.000Z",
+          "wordCount": 147,
+          "title": "广电总局发布《网络主播行为规范》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71915",
+          "author": null,
+          "description": "去年夏天阿里巴巴的一名周姓女员工指控她的经理和公司客户在商务宴请中将其灌醉后性侵犯了她。\n几个月后，事情的发展并不如预期。9 月检察官决定不起诉其领导，称他的行为不构成犯罪。11 月阿里巴巴解雇了这名女子。该公司称，周女士散布虚假信息，损害了其声誉。不过，这起案件有了最新进展，法院周三裁定，该案中的公司客户张国犯有“强制猥亵罪”，判张国服刑 18 个月，这是中国男性在性侵犯指控后被追究责任的少数备受瞩目的案例之一。 淮阴区人民法院在判决中写道，根据其调查结果，张国利用周女士醉酒，在餐厅前台附近和私人包间对她进行猥亵。调查还发现，张国第二天去了她的酒店房间，再次对她进行了性侵犯。",
+          "link": "https://www.solidot.org/story?sid=71915",
+          "publishedOn": "2022-06-23T03:11:01.000Z",
+          "wordCount": 158,
+          "title": "阿里巴巴性侵案客户被判 18 个月",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71914",
+          "author": null,
+          "description": "字节跳动旗下短视频应用 TikTok 预计今年将产生高达 120 亿美元的广告收入，较 2021 年增长两倍。TikTok 的总广告收入将是 Snapchat 广告收入的三倍，尽管仍只是 Facebook 和 Instagram 母公司 Meta 同类收入的一个零头。广告买家 Dentsu Media 美洲区首席执行官 Doug Rozen 表示，成立仅五年的 TikTok 已从一个新兴的广告平台成长为知名广告平台。TikTok 的爆炸式增长一定程度上是以 Meta 和 Google 等科技巨头的损失为代价的。苹果去年修改了其设备上的移动广告追踪功能，使广告客户更难锁定消费者并衡量其广告效果。广告买家称，苹果此举导致许多中小型企业和电商公司将支出分散在包括 TikTok 在内的更多平台。",
+          "link": "https://www.solidot.org/story?sid=71914",
+          "publishedOn": "2022-06-23T03:04:11.000Z",
+          "wordCount": 178,
+          "title": "TikTok 广告收入激增",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71913",
           "author": null,
@@ -1099,136 +1209,6 @@
           "wordCount": 87,
           "title": "Adobe 准备推出免费版的 Photoshop",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71830",
-          "author": null,
-          "description": "Mozilla 宣布对所有 Firefox 用户默认启用 Total Cookie Protection。Total Cookie Protection 是 Mozilla 至今推出的最强大的隐私保护功能，它为每个网站创建了“cookie 罐”，防止 cookie 用于跨站跟踪。网站将无法接触到不属于它的 cookie 罐，无法掌握其它网站的用户信息，减少企业收集的用户数据量。Mozilla 称该功能并没有影响到用户的浏览体验。",
-          "link": "https://www.solidot.org/story?sid=71830",
-          "publishedOn": "2022-06-14T15:32:43.000Z",
-          "wordCount": 96,
-          "title": "Firefox 默认对所有用户启用 Total Cookie Protection",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71829",
-          "author": null,
-          "description": "联想表示已设立首家欧洲内部制造厂。继疫情暴露出一些薄弱环节之后，许多企业对供应链进行重新评估。新制造厂位于匈牙利的乌洛(Ullo)，专注于建造服务器基础设施、存储系统和高端 PC 工作站，供整个欧洲、中东和非洲地区的客户使用。联想表示该厂已雇用 1,000 多名全职员工，担任工程、管理和运营等各种职务。联想在全球拥有超过 35 座制造厂，分布在中国、美国、日本、印度、墨西哥和巴西等国。",
-          "link": "https://www.solidot.org/story?sid=71829",
-          "publishedOn": "2022-06-14T13:45:05.000Z",
-          "wordCount": 77,
-          "title": "联想在欧洲建厂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71828",
-          "author": null,
-          "description": "一年多前，阿里巴巴首席财务官武卫向投资者谈论该公司云业务，“中国将在 10 年内成为最大的经济体，企业和数以百万计的业务将迁移到云端。”她预测阿里云的年增长率能达到 50%。但这一预测显然过于乐观。今年第一季度阿里云的销售额增长率为 12%，而主要竞争对手腾讯的云业务则出现了收缩。中国云市场公有云占六成私有云占四成。公有云市场阿里巴巴和腾讯占主导地位，而私有云市场华为等占主导地位。在公有云市场阿里巴巴和腾讯的云业务面临市场结构性问题和日益激烈的竞争，难以继续快速增长。",
-          "link": "https://www.solidot.org/story?sid=71828",
-          "publishedOn": "2022-06-14T11:46:14.000Z",
-          "wordCount": 75,
-          "title": "腾讯阿里巴巴云业务增长放缓或停滞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71827",
-          "author": null,
-          "description": "尼日利亚制定了一份草案，计划对 Facebook、WhatsApp、Instagram 、Twitter、Google 和 TikTok 等互联网公司进行监管。去年六月，在以违反平台规定删除尼日利亚总统 Muhammadu Buhari 的帖子之后，Twitter 在尼日利亚遭到封杀。时隔半年之后，尼日利亚解除了对 Twitter 的封锁。双方达成了一项协议，其中包括第一季度在当地设立一家法人实体，在当地纳税，与政府合作对内容进行监管。半年过去了，Twitter 尚未完成其中任何一个条件。尽管如此，尼日利亚准备将这些要求应用到其它互联网公司身上。",
-          "link": "https://www.solidot.org/story?sid=71827",
-          "publishedOn": "2022-06-14T10:31:10.000Z",
-          "wordCount": 83,
-          "title": "尼日利亚制定草案监管互联网公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71826",
-          "author": null,
-          "description": "在奥密克戎变种出现以前，再次感染新冠的情况很少见。由 Laith Abu-Raddad 领导的一个卡塔尔威尔康奈尔医学院科学家小组估计，在已接种和未接种疫苗的人中，感染一次德尔塔或是更早的病毒变异株在预防再次感染方面的有效性约为 90%。“但奥密克戎的确改变了这一数字，”传染病流行病学家 Abu-Raddad 说。他的研究发现，奥密克戎出现后，过往感染对再次感染的防护率仅在 50% 左右。新冠病毒的刺突蛋白发生了大量突变，导致新的变异株传染性更强，逃避免疫的效果更好。这意味着你在更早的、非奥密克戎的新冠感染中康复后，还是会感染奥密克戎。你甚至可能会在感染一种奥密克戎变异株之后，又因为另一种更新型的奥密克戎亚型株出现病症。2021 年 10 月发表的一项研究估计，人在感染新冠病毒三个月后可能会被再次感染。该研究并未考虑到奥密克戎这类与以往变异株完全不同的新型变异株。由于奥密克戎极为独特，可能导致人体防御力衰减得更快。在今年 2 月发表的一项尚未经过同行评议的研究中，来自丹麦的科学家发现，一些人在感染最初的奥密克戎 BA.1 病毒 20 天后，就再次感染了奥密克戎 BA.2 亚型株。",
-          "link": "https://www.solidot.org/story?sid=71826",
-          "publishedOn": "2022-06-14T09:30:58.000Z",
-          "wordCount": 91,
-          "title": "新冠免疫力能持续多久？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71825",
-          "author": null,
-          "description": "亚马逊周一宣布将在加州 Lockeford 试点无人机送货系统 Prime Air。亚马逊与 FAA 和萨克拉门托南部小镇 Lockeford 的官员合作，获得无人机飞行许可。加州众议院 Heath Flora 表示 Lockeford 居民将能很快使用到世界领先的快递创新。亚马逊投入了多年时间开发无人机送货系统，它在 2020 年获得了 FAA 的批准，但之后却缩小了项目。亚马逊称其无人机能可靠的避开障碍物。无人机运送的货物挂在其下方，因此射击无人机可能会破坏其搭载的货物。",
-          "link": "https://www.solidot.org/story?sid=71825",
-          "publishedOn": "2022-06-14T09:23:30.000Z",
-          "wordCount": 88,
-          "title": "亚马逊将在加州试点无人机送货",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71824",
-          "author": null,
-          "description": "科学家发现了一种方法，利用废物生产生物水泥，为传统水泥提供了一种更环保、更可持续的替代品。生物水泥是一种可再生水泥，它利用细菌产生硬化反应，将土壤粘合成固体块。NTU的科学家们现在已经用两种常见的肥料制出了生物水泥：工业碳化物污泥和尿素（来自哺乳动物的尿液）。他们设计出一种方法，利用工业碳化物污泥中的钙离子与尿素相互作用，形成应固体或沉淀物。当在土壤中发生这种反应时，沉淀物将土壤颗粒粘结在一起，并填充它们之间的空隙，从而形成致密的土壤块。这会产生坚固、耐用且渗透性较低的生物水泥块。它还可以用于对岩石裂缝进行生物灌浆，从而控制渗流，甚至可以修复和修补石刻和雕像等遗迹。",
-          "link": "https://www.solidot.org/story?sid=71824",
-          "publishedOn": "2022-06-14T07:35:56.000Z",
-          "wordCount": 71,
-          "title": "科学家用废料制造水泥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71823",
-          "author": null,
-          "description": "2020 年 COVID-19 疫情期间，众多研究小组都努力寻找有效的方法确定纽约市之类主要城市街道上的流动模式和人群密度，以深入了解居家和保持社交距离政策的效果。但让成队的研究人员前往街头观察并记录这些数据会让研究人员暴露在感染风险之中，这种风险正是这些政策想要遏制的。纽约大学（NYU）智能交通互联城市迈向无障碍和弹性交通中心（C2SMART）是美国交通部资助的一级交通运输中心，研究人员开发出了一种解决方案，不仅消除了研究人员的感染风险，还可以很容易接入现有的公共交通摄像头馈送基础设施，而且还提供了关于人群和交通密度的数据，这些数据比以往编译过的数据都更加全面，并且无法用传统的交通传感器轻易检测到。\n\n\n为了实现这一目标，C2SMART 的研究人员利用纽约市交通局（DOT）700 多个地点的公开视频源，采用了一种基于摄像头的深度学习对象检测方法，让研究人员无需走上街头，就能计算行人和交通密度。C2SMART 主管、纽约大学教授 Kaan Ozbay 表示：“我们的想法是利用这些 DOT 摄像头馈送并记录，更好地了解行人的社交距离行为。”Ozbay 及其团队编写了一个“爬虫”——本质上是一种自动索引视频内容的工具——从互联网上的视频源获得低质量的图像。然后使用现成的深度学习图像处理算法处理视频的每一帧，以了解每一帧图像所包含的内容：公共汽车、汽车、行人、自行车等。该系统还在不影响算法有效性的前提下，模糊了所有人脸之类的可识别图像。这个系统可帮助决策者了解从保持社交距离行为等危机管理到交通拥堵等一系列广泛的问题。",
-          "link": "https://www.solidot.org/story?sid=71823",
-          "publishedOn": "2022-06-14T07:32:06.000Z",
-          "wordCount": 92,
-          "title": "用于 COVID 监控的 AI 工具为城市拥堵提供解决方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71822",
-          "author": null,
-          "description": "天文学家公布了最详细的银河系研究，揭示了数以千计的“星震”和恒星 DNA，帮助确定了银河系中宜居的角落。欧洲航天局盖亚（Gaia）探测器的观察覆盖了近 20 亿颗恒星——约占银河系中恒星总数的 1%——让天文学家得以重新构建我们所在星系的结构，了解它在数十亿年中是如何演变的。2013 年发射的航天器 Gaia 之前的调查精确地确定了星系中恒星的运动。通过回顾这些运动，天文学家可以模拟星系随着时间的推移是如何变化的。最新的观测增加了基于广谱分析的化学成分、恒星温度、颜色、质量和年龄等详细信息，其中星光被分成不同的波长。出人意料的是，这些测量结果揭示了恒星表面发生的数千次星震——灾难性的海啸类事件。Gaia协作的成员、比利时 KU Leuven 的 Conny Aerts 表示：“星震揭示了很多关于恒星的知识——尤其是它们内部的运作情况。”“Gaia 正在为大质量恒星的星震学打开一座金矿。”伦敦大学学院麦拉迪空间科学实验室的高级研究员 George Seabroke 博士表示：“如果你能在穿越银河系的途中看到这些恒星的亮度变化，如果你能在它们附近的任何地方，就像是太阳在眼前改变形状。”Gaia 配备了一个 10 亿像素的摄像头——有史以来最大的太空摄像头——配有 100 多个电子探测器。最新的数据集是迄今为止最大的银河系化学图谱，对 600 万颗恒星进行了编目，是以前地面编制目录覆盖数量的十倍。",
-          "link": "https://www.solidot.org/story?sid=71822",
-          "publishedOn": "2022-06-14T07:24:18.000Z",
-          "wordCount": 99,
-          "title": "盖亚探测器揭示恒星 DNA 和星震",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71821",
-          "author": null,
-          "description": "4 月位于日内瓦郊外的欧洲核子研究中心（CERN）的科学家再次启动了“大炮”——大强子对撞机。因维修和升级停运三年之后，对撞机恢复运行，在 17 英里长的地下电磁轨道中发射质子。七月初，对撞机将开始将对撞粒子以产生原始能量的火花。在粒子物理学家重新燃起的希望和新的发展中，寻找宇宙秘密的伟大游戏即将再度上演。甚至在此次翻新之前，大强子对撞机已经暗示出大自然可能隐藏了一些壮观的东西。在 CERN 上进行过一项实验的伦敦帝国理工学院的粒子物理学家 Mitesh Patel 将他之前得到的数据描述为“在我的职业生涯中看到的最令人兴奋的一组结果。”十年前 CERN 的物理学家因发现希格斯玻色子登上了全球的新闻头条，这是一种长期以来一直在寻找的粒子，它将质量赋予宇宙中的所有其他粒子。还要寻找什么？乐观的物理学家说，几乎要寻找一切。当 CERN 的对撞机于 2010 年首次启动时，一切都大有可为。这台有史以来建造过的最大、最强的机器，旨在寻找希格斯玻色子。该粒子是标准模型的基石，标准模型是一组方程，解释了科学家能够探测到的亚原子世界的一切。但是标准模型没有解释关于宇宙更深层次的问题：宇宙从哪里来？为什么它是由物质而不是反物质构成？弥漫在宇宙中的“暗物质”是什么？希格斯玻色子自身是如何具有质量的？物理学家希望对撞机在 2010 年首次启动时能给出一些答案。可是除了希格斯玻色子之外一无所获——尤其是没有新的粒子可以解释暗物质的性质。令人沮丧的是，标准模型也没有被动摇。",
-          "link": "https://www.solidot.org/story?sid=71821",
-          "publishedOn": "2022-06-14T06:45:39.000Z",
-          "wordCount": 87,
-          "title": "大强子对撞机重启物理学家再燃希望",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71820",
-          "author": null,
-          "description": "河南村镇银行出现取款问题之后，受影响的储户遍布全国，他们组建了沟通群，准备本周一再次前往郑州对峙银行。但这些储户出行前突然发现他们的健康码变红，而他们并没有去过高风险地区，核酸检测结果依旧是阴性。根据国家有关规定，健康码是以真实数据为基础形成的个人二维码，其中健康码分别有三种颜色，分别是绿码、黄码和红码，其中红码是指核酸检测阳性人员、确诊病例、无症状感染者、疑似病例、密切接触者、次密切接触者以及近 14 天内有国内中高风险地区旅居史人员。在沟通群中，先后有来自北京、成都、石家庄、苏州、湖南娄底、山东聊城等全国多地的数百名居民反映健康码突然变红。郑州市政务服务便民热线工作人员称从 6 月 13 日就已经先后接到多起投诉了，为此他们专门向郑州市疫情防控指挥部打了申请报告，希望尽快给出解决方案。",
-          "link": "https://www.solidot.org/story?sid=71820",
-          "publishedOn": "2022-06-14T06:39:07.000Z",
-          "wordCount": 77,
-          "title": "河南村镇银行储户健康码突然变红",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71819",
-          "author": null,
-          "description": "MIT 工程师采用类似乐高的设计，创建出一款可堆叠、可重新配置的人工智能（AI）芯片。这种芯片构件可使设备保持最新状态，同时减少电子浪费。新设计使用光而不是物理线来通过芯片传输信息。因此可根据需要添加任意数量的计算层和光、压力甚至气味传感器。研究人员称其为类似乐高的可重构 AI 芯片，因为它根据层的组合具有无限的可扩展性。在新芯片设计中，研究人员将图像传感器与人工突触阵列配对，训练每个突触阵列识别某些字母——在本例中为 M、I 和 T，团队在每个传感器和人工突触阵列之间制造了一个光学系统，以实现层之间的通信，而无需物理连接，因此能以想要的方式自由地堆叠和添加芯片。",
-          "link": "https://www.solidot.org/story?sid=71819",
-          "publishedOn": "2022-06-14T06:28:05.000Z",
-          "wordCount": 81,
-          "title": "工程师构建类似乐高的 AI 芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71818",
-          "author": null,
-          "description": "加密货币市场最著名的比特币曾在去年 11 月创下近 7 万美元的币值高位，但本周一它跌至了 2 万美元左右，仅为半年多前的三分之一。加密货币市场的市值也从去年 11 月的 3 万亿美元跌至了 1 万亿美元以内，7 个月蒸发 2 万亿美元。即使市场以波动性巨大著称，这一波动可能也不是普通人能承受的。过去一天，Celsius 借贷平台冻结提款，最大加密货币交易所币安也以硬件故障为由短暂暂停比特币取现。Coinglass 的数据显示，过去 24 小时，全网总计爆仓 13 亿美元，爆仓人数 274293 人。",
-          "link": "https://www.solidot.org/story?sid=71818",
-          "publishedOn": "2022-06-14T06:16:34.000Z",
-          "wordCount": 94,
-          "title": "加密货币市场市值跌破一万亿美元",
-          "imageUrl": null
         }
       ]
     },
@@ -1236,18 +1216,7 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com/",
-      "articles": [
-        {
-          "id": "https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability/",
-          "author": "Nicholas C. Zakas",
-          "description": "When the JavaScript Standard Style (StandardJS) project1 decided to show ads during installation, the backlash was swift and harsh. The project is an opinionated JavaScript style guide, formatter, and linter all in one, and it was also the first npm project to try and raise money by inserting an ad in the command line.2 The...",
-          "link": "https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability/",
-          "publishedOn": "2022-06-14T00:00:00.000Z",
-          "wordCount": 2529,
-          "title": "Sponsoring dependencies: The next step in open source sustainability",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "宁南山 - 知乎动态",
