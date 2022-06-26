@@ -191,26 +191,6 @@
           "wordCount": 576,
           "title": "Language Reactor – 轻松学：边看剧，边学外语[Chrome]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/language-reactor.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42480",
-          "author": "青小蛙",
-          "description": "市面上协作软件有很多，我们却要下载各种软件才能解决一些问题，比如沟通要用微信群、任务拆解要用思维导图、文件要用云盘储存、以及盯项目进度要用甘特图等等~ 可见，一款能帮助我们能在一处管理所有事情的软件，",
-          "link": "https://www.appinn.com/feixiang/",
-          "publishedOn": "2022-06-16T09:52:08.000Z",
-          "wordCount": 561,
-          "title": "超牛的团队任务协作软件，让你少装15个APP！",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/feixiang.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42487",
-          "author": "青小蛙",
-          "description": "Tabby Cat 是一款被 Chrome 商店评为精选的扩展，它有够无聊的，让你在每次打开新标签页时，都显示一只猫，嗯，不同的猫。@Appinn 来自少数派微博推荐。所谓 Chrome 商店精选，是",
-          "link": "https://www.appinn.com/tabby-cat-for-chrome/",
-          "publishedOn": "2022-06-16T05:34:47.000Z",
-          "wordCount": 584,
-          "title": "Tabby Cat – 在新标签页上显示 1 只会动的猫[Chrome 商店精选]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/06/tabby-cat.jpgo_.jpg"
         }
       ]
     },
@@ -300,6 +280,76 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=71941",
+          "author": null,
+          "description": "网信办宣布知网启动络安全审查。知网是中国最大学术数据库的运营商。网信办表示，知网掌握着大量个人信息和涉及国防、电信、交通运输、自然资源等重点行业领域数据。这个被称为中国知识基础设施工程的数据库还包含国家重大项目、重要科技成果及关键技术动态等敏感信息。启动这次审查旨在防范国家数据安全风险，维护国家安全。",
+          "link": "https://www.solidot.org/story?sid=71941",
+          "publishedOn": "2022-06-25T15:24:48.000Z",
+          "wordCount": 146,
+          "title": "网信办对知网启动络安全审查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71940",
+          "author": null,
+          "description": "ESA 在 2003 年发射了火星快车号（Mars Express）飞船，它至今运行了逾 19 年，最重要的一项发现是在火星表层下发现巨大冰湖，而帮助获得这一发现的关键科学仪器是地表下探测雷达/高度仪（Sub-Surface Sounding Radar Altimeter，MARSIS）。MARSIS 的软件是在 20 多年前设计的，开发环境是 Windows 98。使用 Windows 98 而不是 NT 的原因推测是对 DOS 的兼容性更好，而早期嵌入式工具是在工作在 DOS 下。ESA 准备升级 MARSIS 的软件，改进信号接收和数据处理，增加发送到地球的科学数据数量和提高质量。",
+          "link": "https://www.solidot.org/story?sid=71940",
+          "publishedOn": "2022-06-25T14:52:42.000Z",
+          "wordCount": 175,
+          "title": "ESA 准备升级火星快车上的软件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71939",
+          "author": null,
+          "description": "一个火箭残骸于 3 月 4 日坠毁在月球表面。该残骸最初被认为是 2015 年 2 月发射的 SpaceX Falcon 9 火箭上面级，之后被认为属于 2014 年 10 月发射嫦娥五号的长征三号丙运载火箭，但中国否认了这一观点。揭开它的身份也许需要在月球上进行调查。现在 NASA Lunar Reconnaissance Orbiter(LRO)的研究人员报告他们发现了火箭残骸坠毁的位置。LRO 的图像显示火箭在月球表面留下了两个撞击坑，东边的宽 18 米西边的宽 16 米。产生两个撞击坑出乎研究人员的意料。火箭残骸的重量通常集中在发动机一段，其余是空燃料箱，但两个坑显示火箭体的两端都比较重。这一特征可能有助于揭示其来源。",
+          "link": "https://www.solidot.org/story?sid=71939",
+          "publishedOn": "2022-06-25T14:00:57.000Z",
+          "wordCount": 177,
+          "title": "NASA 探测器发现了坠毁在月球上的火箭位置",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71938",
+          "author": null,
+          "description": "研究中国的学者注意到过去几年中国的互联网发生了变化。Vincent Brussee 是柏林智库 Mercator 中国研究中心的分析师，他经常在中国互联网上搜寻数据，注意到可靠的数据日益难以获取。部分政府网站可能采取了地理位置屏蔽，限制了境外对其内容的访问。许多中国平台都需要关联实名制的手机号码。三年前公开的文件消失了。Brussee 为此使用了服务器位于中国的 VPN 访问中国的内容。但 VPN 并不稳定，速度缓慢，有时候还会停止工作。腾讯的微信常被政府机构发布公开信息，但使用微信或微博都需要手机号码，外国人很难注册。研究中国的学者已经养成了保存本地副本的习惯。",
+          "link": "https://www.solidot.org/story?sid=71938",
+          "publishedOn": "2022-06-25T11:36:05.000Z",
+          "wordCount": 153,
+          "title": "中国网络分水岭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71937",
+          "author": null,
+          "description": "负担得起奢侈品牌的人倾向于购买并炫耀，与富裕和高社会地位相关的无数社会利益使得此类做法并不令人惊讶。但最近的一项研究发现，在某些情况下这一做法也会带来坏处，会被认为更倾向于利己而不是合作。研究报告发表在《Journal of Personality and Social Psychology》期刊上。研究人员设计了一个版本的囚徒困境游戏，让参与者决定是否选择伙伴进行合作，其中部分可选择的伙伴身穿路易威登或古驰等奢侈品牌衣服。结果显示，参与者更多选择身穿无品牌衣服的伙伴合作。随后的调查问卷显示参与者认为这些人更倾向于利己主义。",
+          "link": "https://www.solidot.org/story?sid=71937",
+          "publishedOn": "2022-06-24T15:59:33.000Z",
+          "wordCount": 149,
+          "title": "穿奢侈品牌衣服会让你显得缺乏合作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71936",
+          "author": null,
+          "description": "日本兵库县尼崎市宣布找回了储存有 46 万居民信息的 U 盘。该市委托一家公司处理受新冠影响的家庭补贴工作。这家公司的员工下班后喝多酒，在马路上睡着了，醒来后发现存放有 U 盘的包丢失了。U 盘储存了尼崎市所有居民的姓名、地址和出生日期数据，以及缴纳的地方税和福利信息。U 盘使用了 13 位密码加密。丢失 U 盘的员工向警方递交了报告，与警官合作搜索了他认为包丢失的地方，最终找回了包和 U 盘。",
+          "link": "https://www.solidot.org/story?sid=71936",
+          "publishedOn": "2022-06-24T15:04:18.000Z",
+          "wordCount": 166,
+          "title": "日本尼崎市找回了储存有居民信息的 U 盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=71935",
+          "author": null,
+          "description": "意大利是最新一个对使用 Google Analytics 发出警告的国家。意大利监管机构发现，有网络出版商在使用 Google Analytics 上不符合欧盟的数据保护规定，因为用户数据被转移到美国，而美国缺乏与欧盟相当的用户信息保护。Google Analytics 收集的用户信息包括设备 IP 地址、浏览器信息、操作系统、屏幕分辨率、语言偏好，以及访问网站的日期和时间，这些数据被转移到美国。意大利监管机构要求网站在 90 天内解决违规问题，并对其它使用 Google Analytics 的本土网站发出警告，要求它们检查合规性问题。意大利没有禁止使用 Google Analytics，而是要求使用该分析工具的网站修改默认设置禁止将用户信息传输到美国。",
+          "link": "https://www.solidot.org/story?sid=71935",
+          "publishedOn": "2022-06-24T14:40:50.000Z",
+          "wordCount": 175,
+          "title": "意大利监管机构对使用 Google Analytics 发出警告",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=71934",
           "author": null,
@@ -1048,126 +1098,6 @@
           "publishedOn": "2022-06-16T15:58:34.000Z",
           "wordCount": 97,
           "title": "地球内核旋转方向每 6 年变化一次",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71856",
-          "author": null,
-          "description": "HardenedVault 写道 \"赛博堡垒之前的文章中介绍了Linux内核安全的现状和挑战以及云原生和车联网方案中第三方Linux内核安全方案的场景。赛博堡垒致力于为运行(GNU)-Linux系统的平台和基础架构构建全栈安全方案，在这个过程中我们从PaX/GRsecurity中学习了很多东西，从2010年开始我们持续研究了不同场景下的Linux内核漏洞利用的方法，有些案例是公开的而有些则是并未公开，到2021年赛博堡垒（HardenedVault）成立后我们开始着手研究如何能在部署简易度，性能开销，稳定性以及安全性之间达到平衡，这也是VED目标，这也让VED从一开始就是针对企业生产环境而设计和实现的，经历了多个生产环境的历练后我们开源一个VED的社区版。\"",
-          "link": "https://www.solidot.org/story?sid=71856",
-          "publishedOn": "2022-06-16T15:14:28.000Z",
-          "wordCount": 77,
-          "title": "VED（Vault Exploit Defense）开源实现",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71855",
-          "author": null,
-          "description": "1995 年 8 月 16 日微软推出了 IE 浏览器。当时美国最热门的歌曲是 Waterfalls，总统还是克林顿。IE 不是一个多完美的浏览器，容易崩溃且运行缓慢，但作为 Windows 的一部分它是无数人最早使用的浏览器，引领他们上网冲浪。微软终止支持 IE 引发了很多人的怀念。MIT 的计算机科学和人工智能实验室发帖说，RIP，IE。你会被人怀念的。我们感觉老了。Old Dominion 大学的计算机科学教授 Michael L. Nelson 认为这标志着一个时代的结束。微软 Microsoft Edge Enterprise 部门总经理 Sean Lyndersay 表示，未来几个月点击 IE 的用户将被重定向到 Microsoft Edge 的 IE 模式，在未来的更新中 IE 将会被永久性禁用，届时 IE 的图标也将会被移除。他称 Edge 是更快更安全更现代的浏览器。微软在操作系统中捆绑 IE 的行为引发了对它的反垄断诉讼，2001 年美国司法部宣布不再寻求拆分微软或要求解除捆绑。此后数年众多 IE 用户切换到了 Google Chrome、Firefox 或 Safari，发现它们更快更安全更少崩溃。他们再也没有回头使用 IE。",
-          "link": "https://www.solidot.org/story?sid=71855",
-          "publishedOn": "2022-06-16T15:13:53.000Z",
-          "wordCount": 125,
-          "title": "微软退役 IE 浏览器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71853",
-          "author": null,
-          "description": "1346 到 1353 年，黑死病席卷西欧，部分地区人口减员多达六成。历史记录显示鼠疫源自东方，1346 年被蒙古军队围困的克里米亚 Caffa 经历了欧洲最早的鼠疫爆发。中国有着遗传多样性最丰富的现代鼠疫菌株 Y. pestis，暗示鼠疫源自东方。但鼠疫是如何传播过去的，它的中转站在哪里？根据本周发表在《自然》期刊上的最新研究， 研究人员在吉尔吉斯斯发现了两个 14 世纪的墓地，其中有 10 个墓碑明确提及了鼠疫。对墓地残骸的 DNA 分析发现了鼠疫菌株。基因组分析显示它们是导致黑死病的菌株的直接祖先。墓地的菌株与从吉尔吉斯斯坦、哈萨克斯坦和中国天山周围旱獭等啮齿动物身上取样的菌株关系最为密切。这些地区都位于丝绸之路的贸易线路上，表明贸易在黑死病的传播上发挥了重要作用。研究人员希望能分析来自中国的古代样本以更好的了解黑死病的起源。",
-          "link": "https://www.solidot.org/story?sid=71853",
-          "publishedOn": "2022-06-16T13:44:31.000Z",
-          "wordCount": 94,
-          "title": "古代 DNA 揭示黑死病的起源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71852",
-          "author": null,
-          "description": "嫦娥五号于 2020 年通过机载光谱分析首次对玄武岩岩石和土壤中的水信号进行了现场实时测定。2021 年，对着陆器带回样本进行的实验室分析验证了这一发现。现在嫦娥五号团队确定了这些水的来源。嫦娥五号没有观测到月球河流或泉水；相反着陆器在月球表面的岩石和土壤中平均发现了30ppm的羟基。这种由一个氧原子和一个氢原子组成的分子是水的主要成分，也是水分子与其他物质发生化学反应最常见的生成物。尽管李春来将其称为“月球结合水的弱端”，但羟基之于水就像是烟雾之于火——前者是后者的证据。李春来在谈到嫦娥五号在“风暴洋”月海玄武岩着陆点的成分时表示，“这种过量羟基是原生的，表明嫦娥五号月球样本中存在来自月球的内部水，并且表明水在月球年轻玄武岩浆的形成和结晶过程中发挥了重要作用。”“通过研究月球水及其来源，我们不仅可以更多地了解月球本身的形成和演化，还可以了解太阳系的形成和演化。而且月球水作为就地资源在未来有望为人类提供支持。”",
-          "link": "https://www.solidot.org/story?sid=71852",
-          "publishedOn": "2022-06-16T09:32:19.000Z",
-          "wordCount": 74,
-          "title": "月球风暴洋样本可能有助于确定月球水的来源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71851",
-          "author": null,
-          "description": "研究人员宣布测试一种新的马铃薯加工技术，该技术旨在让人体更缓慢的消化马铃薯淀粉。首席研究员、A*STAR新加坡食品与生物技术创新研究所（SIFBI）食品碳水化合物项目负责人 Amy Lin 博士表示：“有一种观点认为马铃薯食品不健康，因为食用大量马铃薯食品会导致血糖迅速升高，这对于糖尿病患者或者想要控制体重的人来说是一种风险。”“我们的团队发现，调整小肠中两种消化酶——α-淀粉酶和粘膜α-葡萄糖苷酶——的可及性是一种成功的策略，可使马铃薯中的膳食葡萄糖缓慢而持续地释放。” 研究人员将马铃薯切成小块，并在加入了食品级配料的热水中焯 30 分钟。这个过程会导致果胶（马铃薯中的一种水溶性纤维）发生反应，形成凝胶结构，充当淀粉颗粒与消化酶之间的屏障。这种保护层是多孔的，新加工方法可控制孔隙的大小，以调节 α-淀粉酶能够以多快的速度穿透马铃薯的薄壁细胞并将淀粉降解为小分子。",
-          "link": "https://www.solidot.org/story?sid=71851",
-          "publishedOn": "2022-06-16T09:18:26.000Z",
-          "wordCount": 82,
-          "title": "新加工技术让马铃薯更健康",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71850",
-          "author": null,
-          "description": "十年前粒子物理学家震惊了世界。2012 年 7 月 4 日，在世界上最大的原子粉碎机——欧洲粒子物理实验室 CERN 的大型强子对撞机（LHC）上进行研究的 6000 名研究人员宣布，他们发现了希格斯玻色子，这是一种转瞬即逝的大粒子，是对其他基本粒子如何获得质量的深奥解释的关键。这一发现证实了一个具有 45 年历史的预测，完成了标准模型理论，将物理学家推向了聚光灯之下。然后是漫长的低潮。在 27 公里长的环形 LHC 于 2010年 开始取得数据之前，物理学家担心它可能会产生希格斯玻色子，但不会产生其他任何东西，因此除了标准模型之外会一无所获。到目前为止，这个噩梦般的场景正在变成现实。很多物理学家都认为，现在绝望还为时过早。经过 3 年的升级，LHC 现在正进行计划中五次运行的第三次启动，在其每秒进行的数十亿次质子对质子的碰撞中，可能会产生一些新粒子。事实上，LHC 应该可以再运行 16 年，通过进一步升级，可收集到数据应该是现有数据的 16 倍。所有这些数据可能会揭示出新粒子和现象的微妙迹象。尽管如此，一些研究人员表示，对撞机物理学的结局已经注定。在较小型实验中寻找暗物质的芝加哥大学物理学家 Juan Collar 表示，“如果他们什么都没发现，这个领域就死了。”伦敦国王学院的理论物理学家 John Ellis 表示，突然突破的希望已经让位于对发现的长期不确定的看法。“这就像是拔牙，而不是像牙齿脱落一样。”",
-          "link": "https://www.solidot.org/story?sid=71850",
-          "publishedOn": "2022-06-16T08:45:47.000Z",
-          "wordCount": 102,
-          "title": "希格斯玻色子发现十年之后物理学家面临着别无所获的噩梦",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71849",
-          "author": null,
-          "description": "让人们远离离岸流(rip currents)更多要靠看人类行为而不是看警告标志。每一年离岸流会在全世界范围内造成数百人溺水，以及数以万计的救援需求。澳大利亚 85% 的人口居住在距离海岸一小时车程的范围之内，离岸流造成的死亡人数比洪水、飓风和鲨鱼袭击加起来还要多。1938 年最受欢迎的海滩悉尼邦迪海滩发生了臭名昭著的离岸流悲剧：几分钟之内，大约 200 名游泳者被离岸流卷走，造成 35 人昏迷，5 人死亡。然而更常见的情况是，离岸流一次夺走一个人的生命，几乎引不起媒体的关注。对于很多来海滩休闲的游客来说，离岸流造成的伤亡没有被注意到。尽管有四分之三的海滩游客表示他们知道什么是离岸流，但只有 54% 的人能正确定义它。在调查的人当中，只有一半人记得看到过在每个海滩主要入口处或附近张贴的警告标志或者表示冲浪条件的彩旗标志。能回忆起彩旗颜色的人就更少了——绿色表示海面平静，黄色表示条件中等，红色表示危险情况。\n\n\n防止离岸流相关溺水的挑战部分在于缺乏一种简单的方式躲避它们。当海浪将海水堆积到海岸线附近时，就会形成离岸流。海水会沿着阻力最小的路径流回大海。它可能会沿着沙洲之间或码头或岩石岬角之类的固体结构旁边的通道流动。这些类型的离岸流可能年复一年地存在。其他的离岸流则更不稳定，在平坦开阔的海滩上短暂地爆发流向海洋的水流。人们通常会将离岸流错误地当成从岸边退回去的浪或者“瑞普潮”。然而离岸流不是由潮汐引起的，从岸边退回去的浪是一种不同的、较弱的水流，是被推到海滩上的海水沿着海床离开海岸时形成的。搅起的波纹、含沙的海水或者破碎波浪之间的黑色平坦间隙都是能够表明离岸流的明显迹象。\n\n\n几十年来，海滩安全专家对离岸流机制的看法过于简单化，因此公众的误解也就不足为奇。20 世纪中叶对离岸流的一些最早的研究中，美国科学家观察到木棍、海带碎片和排球漂浮到海中，并描述了从海岸延伸出 300 多米的流动水道。这项工作为离岸流是垂直于海岸向外喷射海浪的激流这一流行观点奠定了基础。为了躲避离岸流，专家们建议游泳者沿着与海岸平行的方向游泳——美国和澳大利亚都曾通过教育活动和警示标志宣传过这种做法。事实证明，这种方法可能并不总是奏效。",
-          "link": "https://www.solidot.org/story?sid=71849",
-          "publishedOn": "2022-06-16T07:46:13.000Z",
-          "wordCount": 87,
-          "title": "警示标志不足以让海滩游客躲开致命水流",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71848",
-          "author": null,
-          "description": "微软联席创始人盖茨(Bill Gates)说，他认为加密货币和非同质化代币(NFT)“100%”是基于博傻理论：被高估的资产将继续上涨，因为有足够的人愿意为它们支付高价。他开玩笑说，“昂贵的猴子数字图像”可以“极大地改善世界”。多年来一直嘲讽加密货币的盖茨周二在加州伯克利举行的 TechCrunch 活动上说，人们购买加密货币和 NFT 是基于这样的想法：无论其价格如何，都可以卖得更高，因为“有人会比我付更高的价格”。他说，无论是做多还是做空，他都没有参与“任何这些事情”。",
-          "link": "https://www.solidot.org/story?sid=71848",
-          "publishedOn": "2022-06-16T07:15:37.000Z",
-          "wordCount": 80,
-          "title": "盖茨称加密货币和 NFT 是一场博傻骗局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71847",
-          "author": null,
-          "description": "IPv6 的普及度在加快，有人可能会产生疑问：用 IPv6 是不是网速会更快点？PanSift 在 30 天内收集了 IPv6 和 IPv4 网络的数据，发现在 39.18% 的时间里 IPv6 更快，31.45% 的时间里 IPv4 更快，其余打平。这一结果很难解释。作者猜测可能是网关处理 ICMPv6 和 ICMPv4 流量的方式导致的。IPv6 的协议栈比 IPv4 的更简单，固定包报头更简单解析更快，ICMPv6 包含了路由器和邻居发现协议，路由器通常不会在传输过程中对大数据包进行分片。",
-          "link": "https://www.solidot.org/story?sid=71847",
-          "publishedOn": "2022-06-16T07:13:05.000Z",
-          "wordCount": 102,
-          "title": "IPv6 比 IPv4 更快？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71845",
-          "author": null,
-          "description": "世卫组织（WHO）警告，猴痘对欧洲公共卫生构成真实风险。WHO 欧洲事务主任表示，病毒传播的时间越长，其影响范围就越广。世卫呼吁欧洲当局和民间团体采取紧急行动，遏制病例数进一步上升。欧洲目前现已成为猴痘暴发的中心，25 个欧洲国家共发现了 1500 多宗病例，占全球病例数的 85%。猴痘是在西非流行的一种病毒，现已蔓延至全球 39 个国家。感染主要来自亲密身体接触，主要影响男同性恋，它也可以通过长时间面对面接触的呼吸道飞沫传播。",
-          "link": "https://www.solidot.org/story?sid=71845",
-          "publishedOn": "2022-06-16T05:49:26.000Z",
-          "wordCount": 80,
-          "title": "WHO 警告猴痘对欧洲构成真实风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71844",
-          "author": null,
-          "description": "澎湃报道，在河南村镇银行储户之后，郑州部分停工楼盘业主被赋红码。一位融创中原大观的业主和一位康桥玖玺园反应他们的健康码都变成了红码，而他们并没有去过高风险区域，之前一直是绿码。融创中原大观和康桥玖玺园都已停工，其中融创中原大观停工八个月，业主担心烂尾。业主称他们被社区要求写一份保证书，内容包括保证不去高风险地区，不再去有关部门等。",
-          "link": "https://www.solidot.org/story?sid=71844",
-          "publishedOn": "2022-06-16T05:37:29.000Z",
-          "wordCount": 71,
-          "title": "郑州部分停工楼盘业主被赋红码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=71843",
-          "author": null,
-          "description": "2020 年底，在纽约时报报道成人视频网站 Pornhub 存在虐待儿童和未经同意的性暴力视频引发广泛关注之后，Pornhub 宣布将做出重大改变：禁止未验证用户上传视频，不再允许普通用户下载它的大部分视频。Pornhub 随后对其整个网站的视频内容展开了大清洗行动，移除了近三分之二的视频。促使 Pornhub 做出改变的其中一个人是活动人士 Laila Mickelwait。《纽约客》发表长文记录了她 与 Pornhub 及其母公司 MindGeek 之间漫长的斗争，迫使该公司为用户上传的成人内容承担责任。在纽约时报的报道发表一年之后，Pornhub 的流量下降了 40%，OnlyFans 的崛起也对它造成了冲击。",
-          "link": "https://www.solidot.org/story?sid=71843",
-          "publishedOn": "2022-06-15T15:30:45.000Z",
-          "wordCount": 92,
-          "title": "让 Pornhub 为内容承担责任的女性",
           "imageUrl": null
         }
       ]
