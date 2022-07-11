@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-07-10T03:28:46.663Z</updated>
+    <updated>2022-07-11T03:35:08.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[网文作者投诉 WPS 锁定本地文稿]]></title>
+        <id>https://www.solidot.org/story?sid=72083</id>
+        <link href="https://www.solidot.org/story?sid=72083"/>
+        <updated>2022-07-11T01:04:02.000Z</updated>
+        <summary type="html"><![CDATA[一位网文作者在龙的天空论坛发帖，称其写的网文文稿被金山办公软件 WPS 锁定。作者自称是 WPS 的会员，WPS 是免费软件但会展示广告且很多功能需要开通会员付费使用。作者称尝试用 WPS 打开本地的稿子结果显示文件含有违禁内容禁止访问，作者称自己的稿子不涉黄不涉政怀疑未发布的稿子被 WPS 内部人员擅自窥探。人工审核不太可能，很有可能都是程序根据关键词自动搜索然后标记。作者在后续评论中称稿子在申述之后解除了锁定。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[墨西哥提议终止夏令时]]></title>
+        <id>https://www.solidot.org/story?sid=72082</id>
+        <link href="https://www.solidot.org/story?sid=72082"/>
+        <updated>2022-07-10T15:21:23.000Z</updated>
+        <summary type="html"><![CDATA[墨西哥总统提交法案终止夏令时，结束每年两次改变时钟的做法。卫生部长 Jorge Alcocer 表示，墨西哥应回归 God's clock 或标准时间，他认为将时钟往回调或往前调会损害健康。墨西哥在 1996 年改用夏令时，此举并没有给国家带来什么好处。墨西哥不是唯一一个最近决定改变夏令时制度的国家，美国参议院今年早些时候通过了使夏令时在美国永久生效的法案。墨西哥更靠近赤道，废弃夏令时对它更有利。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软推迟执行禁止第三方对免费的开源软件收费的政策]]></title>
+        <id>https://www.solidot.org/story?sid=72081</id>
+        <link href="https://www.solidot.org/story?sid=72081"/>
+        <updated>2022-07-10T15:03:27.000Z</updated>
+        <summary type="html"><![CDATA[微软上个月更新了它的应用商店规则，加入了一条“不要试图从开源或其他通常免费提供的软件中获利，也不要试图相对于产品提供的特性和功能定价过高”。微软的初衷被认为是善意的，旨在遏制重新打包免费的开源自由软件将其变成付费软件的行为。然而开源自由软件许可证并没有禁止此类的收费行为或商业化，微软的规定将会影响其应用商店内的所有开源自由软件。它的新规则太模糊而不确定，Software Freedom Conservancy 对此提出了质疑，微软的回应是推迟执行新规。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瑞士的地下货运管道走向现实]]></title>
         <id>https://www.solidot.org/story?sid=72079</id>
@@ -825,166 +855,6 @@ PL/I（1964）的大胆值得一提并令人钦佩，它的目标是成为“一
         <summary type="html"><![CDATA[宝马宣布其未来部分车型使用的车载信息系统将从 Linux 切换到 Android Automotive。Android Automotive 也是基于 Linux 内核，其优点是整合了 Google 应用，包括应用商店、地图和 Google 助手，宝马预计会定制一个皮肤，使得 Android 车载系统接近其上一代 Linux 系统。宝马表示它会继续开发基于 Linux 的车载系统，会在部分车型上继续使用。宝马尚未证实哪些车型将使用 Android Automotive。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自由软件是时候放弃 GitHub]]></title>
-        <id>https://www.solidot.org/story?sid=72007</id>
-        <link href="https://www.solidot.org/story?sid=72007"/>
-        <updated>2022-07-01T15:19:55.000Z</updated>
-        <summary type="html"><![CDATA[GitHub 刚刚宣布商业化其 AI 编程助手 Copilot。Copilot 是用开源自由软件代码库训练的，在开发者写代码时根据函数名等上下文自动补充完后续代码，很多时候 Copilot 补充的是开源代码库中的代码拷贝。这就引起了许可证方面的问题。致力于推广和捍卫开源自由软件的非盈利组织 Software Freedom Conservancy(SFC) 尝试与微软/GitHub 讨论解决这个问题，但一再遭到漠视甚至无视。它正式发表声明，宣布将致力于帮助开源自由软件项目迁移出 GitHub，对现有成员项目不强制，但不再接受没有从 GitHub 迁移出去的长期计划的新成员。SFC 称它曾询问微软/GitHub 为什么只用开源自由软件训练 Copilot，而不将私有的 Microsoft Windows 和 Office 代码库作为训练集的一部分？微软拒绝回答，这暗示了它更注重自己的“知识产权”，乐于忽视和侵蚀开源自由软件用户的权利。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国警方使用 Google 关键词搜索寻找嫌疑人的做法遭遇挑战]]></title>
-        <id>https://www.solidot.org/story?sid=72006</id>
-        <link href="https://www.solidot.org/story?sid=72006"/>
-        <updated>2022-07-01T14:18:51.000Z</updated>
-        <summary type="html"><![CDATA[2020 年 8 月 5 日丹佛一塞内加尔移民家庭遭遇纵火，三名成年人和两名幼童被杀死。警方在 2021 年 1 月逮捕了三名被认为蓄意放火的青少年：其中两人年龄只有 16 岁一人 15 岁。警方是通过名为反向关键词搜索的工具识别嫌疑人的。他们从法庭获得搜查令要求 Google 从其庞大的搜索历史数据库中寻找谁在 2020 年 8 月 5 日之前搜索了被害人的家庭地址。关键词搜索过去几年日益被警方利用去破案。但现在本案中的一位犯罪嫌疑人率先对这一做法发起挑战。其律师主张警方违反了宪法第四修正案对无理搜查的禁止，所有证据都应该都废弃。隐私和堕胎权利倡导者也密切关注这一案件，他们担心关键词搜索工具会被禁止堕胎的州寻找在搜索引擎中查找堕胎信息的女性。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single Element Loaders: Going 3D!]]></title>
-        <id>https://css-tricks.com/?p=366544</id>
-        <link href="https://css-tricks.com/single-element-loaders-going-3d/"/>
-        <updated>2022-07-01T13:24:09.000Z</updated>
-        <summary type="html"><![CDATA[For this fourth and final article of our little series on single-element loaders, we are going to explore 3D patterns. When creating a 3D element, it’s hard to imagine that just one HTML element is enough to simulate something like all six faces of a cube. But  maybe we can get away …
-Single Element Loaders: Going 3D! originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现代城市居民失去了半数肠道微生物群]]></title>
-        <id>https://www.solidot.org/story?sid=72005</id>
-        <link href="https://www.solidot.org/story?sid=72005"/>
-        <updated>2022-07-01T11:23:14.000Z</updated>
-        <summary type="html"><![CDATA[肠道微生物群有助于消化食物，通过影响免疫、代谢和神经系统维持人体健康。人类的部分肠道微生物历史相当悠久，在其它灵长类动物身上都能找到，这意味着它们源自于共同的祖先。随着人类涌入城市生活，逾半数的肠道微生物群都丢失了。这一情况可能会影响人类健康。城市生活改变了饮食、抗生素的使用以及卫生条件的改善，都可能是人类肠道微生物消失的原因。研究人员分析对比了灵长类动物以及人类的肠道微生物，发现人类失去了黑猩猩等灵长类动物中发现的 100 种微生物中的 57 种，其中部分是在几千年前消失的，部分是在近期消失的，城市居民损失最多。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通用无人驾驶出租车挤在一起堵塞了旧金山的交通]]></title>
-        <id>https://www.solidot.org/story?sid=72004</id>
-        <link href="https://www.solidot.org/story?sid=72004"/>
-        <updated>2022-07-01T10:57:24.000Z</updated>
-        <summary type="html"><![CDATA[通用旗下的无人驾驶汽车公司 Cruise 最近获得了完全无人驾驶出租车的商业服务许可，出租车的工作时间限制在晚上十点到凌晨六点之间。根据网友公布的照片，出于某种未知的原因，周二晚上至少八辆 Cruise 的无人驾驶出租车 Chevrolet Bolts 被发现堵住了旧金山 Gough 街和 Fulton 街的十字路口长达数个小时。是机器人起义还是某种故障？这些出租车都是无人驾驶，最终还是人类过来把它们弄走了。Cruise 发言人发表声明，表示某个问题导致无人出租车挤在一块，问题已经解决，没有影响到乘客，它对给人类造成的不便表示歉意。它对故障原因没有给出更详细的解释。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拉丁美洲主要城市近百万万人的死亡可能与极端气温有关]]></title>
-        <id>https://www.solidot.org/story?sid=72003</id>
-        <link href="https://www.solidot.org/story?sid=72003"/>
-        <updated>2022-07-01T09:23:37.000Z</updated>
-        <summary type="html"><![CDATA[随着气候变化，热浪和冷锋恶化并在全球范围内夺走生命：至少一项研究认为过去 20 年极端气候造成了约 500 万人死亡。在发表在《自然医学》杂志上的一项新研究中，一个国际研究小组估计，2002 年至 2015 年间，极端气温仅在拉丁美洲主要城市就造成了近 90 万人死亡。这是拉丁美洲最详细的估算，也是首次对一些城市进行估算。
-
-
-为了估算有多少人死于高温或低温，拉丁美洲城市健康项目的研究人员研究了从 2002 年至 2015 年之间居民数量超过 10 万的 326 个城市登记的死亡数据。拉丁美洲城市健康项目研究城市环境和政策会对拉丁美洲城市居民的健康造成何种影响。他们计算了每日平均气温，并根据大气条件公共数据集估算了每个城市的温度范围。如果死亡发生在每个城市在一年中最热或最冷的 18 天之内，他们就认为其同极端温度有关。研究人员使用一个统计模型，对比了在非常炎热和非常寒冷日子里死亡的风险，并将其同在温和的日子里死亡的风险进行比较。他们发现，在拉丁美洲的大都市中，所有死亡中有将近 6%（人数接近 100万）的人死在极热或极冷的日子里。他们还使用各个城市的数据创建了一个交互式地图。
-
-
-研究小组在分析这些死亡的具体原因时发现，极端温度通常与心血管和呼吸系统疾病死亡相关，这与之前的研究一致。极热会让心脏泵出更多的血液，导致脱水和肺部压力。另一方面，极度寒冷会使心脏泵血减少并导致低血压，在某些情况下还会导致器官衰竭。该研究小组还发现，老年人特别容易受到极端温度的影响，研究覆盖的时间段内7.5%的死亡与极端高温和低温有关。尽管这些数字每年都有所不同，例如在 2015 年，在将近 85.5 万名 65 岁或以上的人中，有 1.6 万多人的死亡可以归因于极端温度。一些估计认为，拉丁美洲的老龄化人口将比世界其他地区增长得更快——从 2020 年的 9% 增长到 2050 年的 19%。尽管极冷天气的死亡人数（约 78.5 万人）远高于极热天气的死亡人数（约 10.3 万人），但总体而言，严寒天数更多，这可以解释这种差异。但对于布宜诺斯艾利斯、里约热内卢和梅里达等一些城市，热比冷更致命：研究人员估计，在非常炎热的天气，气温每升高1摄氏度，死亡的概率就会增加 5.7%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优效日历 – 专业的多功能日历应用（排班、抢票、节日、订阅等）发布 Android、iPhone 客户端]]></title>
-        <id>https://www.appinn.com/?p=42642</id>
-        <link href="https://www.appinn.com/youxiao-calendar-2/"/>
-        <updated>2022-07-01T08:37:55.000Z</updated>
-        <summary type="html"><![CDATA[优效日历 是一款可以用来替换 Windows 10 原生日历的日历工具，拥有超多功能（专业日历、排班日历、抢票日历、节日管理、日历订阅、任务提醒、桌面嵌入日历等），安装包仅 6.49MB。近日发布了移]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT 建议造巴西大小的“太空气泡”帮地球降温]]></title>
-        <id>https://www.solidot.org/story?sid=72002</id>
-        <link href="https://www.solidot.org/story?sid=72002"/>
-        <updated>2022-07-01T08:17:56.000Z</updated>
-        <summary type="html"><![CDATA[一组 MIT 研究人员探索一种扭转全球变暖趋势的激进想法：使用大量“太空气泡”将阳光反射出我们的星球。人类自工业革命以来排放的大量温室气体正在我们的星球周围形成一种“毯子”，将热量滞留在大气中，导致全球气温变得越来越高。一个 MIT 研究人员组成的跨学科团队建议将太阳能地球工程带入太空，而不是将粒子注入地球大气层给地球降温。研究小组探索如果在拉格朗日 L1 点放置一个由气泡制成的防护罩会出现什么情况，在拉格朗日 L1 点上，地球和太阳的引力形成一种平衡，让这个防护罩能够无限期地保持在轨道上。这个建议中的防护罩大约有巴西那么大，防护罩的气泡可以在太空中制造并部署，可能是用硅制作——该小组在实验室里尝试过制造“太空气泡”。他们在新闻发布会上表示：“初步试验成功地在 0.0028 atm 的压力下使薄膜气泡膨胀，并将其保持在-50℃左右（接近于零压力和接近零温度的太空条件）。”因为这些气泡距离地球差不多有一百万英里之遥，MIT 团队表示，这种太阳能地球工程方法不会像在地球大气层内的方法那样冒险。这不是第一次有人提议在太空中放置一个太阳保护罩来帮助地球降温了，但是用气泡制造保护罩会让我们在出错时有一个相对简单的方法中止任务：只要戳破气泡就行了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 通过监听鸡叫声改善养殖鸡的福祉]]></title>
-        <id>https://www.solidot.org/story?sid=72001</id>
-        <link href="https://www.solidot.org/story?sid=72001"/>
-        <updated>2022-07-01T08:05:01.000Z</updated>
-        <summary type="html"><![CDATA[研究人员表示，可以通过监听鸡叫声改善养殖鸡福祉的人工智能可能会在五年内问世。新研究表明，这项新技术可以检测和量化大型室内棚屋中的鸡发出的求救信号，将其与其他谷仓噪声区分开，准确率达到 97%。类似的方法最终可被用于提高其他养殖动物的福祉标准。每年全世界大约要养殖 250 亿只鸡——许多鸡都生活在巨大的鸡舍中，每个鸡舍里都饲养着数千只鸡。监听它们发出的声音是评估此类生物福祉的一种方法。香港城市大学动物行为和福利学副教授 Alan McElligott 表示：“鸡的声音非常响亮，但是求救的声音往往比其他的声音更响亮，就是我们所说的纯音调的叫声。”“即使是未经训练的耳朵也不难将它们分辨出来。”理论上农民可以根据鸡的叫声衡量其痛苦程度，在必要时加以照料。然而在饲养了数千或数万只鸡的商业化鸡群中，安排人类观察员是不切实际的。McElligott 表示，一方面人类的存在可能会进一步给鸡群带来压力，而且鸡的数量这么大，客观量化求救信号的数量是不可能的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新算法提前一周预测未来犯罪准确率 90%]]></title>
-        <id>https://www.solidot.org/story?sid=72000</id>
-        <link href="https://www.solidot.org/story?sid=72000"/>
-        <updated>2022-07-01T07:59:45.000Z</updated>
-        <summary type="html"><![CDATA[芝加哥大学科学家开发出一种新算法，可提前一周预测未来的犯罪，准确率达到了 90%，预测范围约为 1000 英尺。它通过学习暴力和财产犯罪方面公共数据的模式进行预测。该工具使用了芝加哥市两类报告事件进行测试和验证：暴力犯罪（凶杀、袭击和殴打）和财产犯罪（入室盗窃、盗窃和机动车盗窃）。之所以使用这两类数据是因为在历来对执法部门缺乏信任和合作的城市地区，这两类案件是最有可能报警的。与毒品犯罪、交通拦截检查和其他的轻罪不同，这两类犯罪也不太容易出现执法偏见。 新模型通过检查离散案件的时间和空间坐标划分犯罪，检测模式以预测未来的犯罪。它将城市划分为大约 1000 英尺宽的“空间片”，然后预测区域内的犯罪情况。以前的模型更多地依赖传统邻里或者政治边界，这会受到偏见的影响。该模型在美国其他七个城市的数据上也表现得同样出色：亚特兰大、奥斯汀、底特律、洛杉矶、费城、波特兰和旧金山。主要作者 Ishanu Chattopadhyay 谨慎地指出，工具的准确性并不意味着它应该被用于指导执法政策； Chattopadhyay 表示，例如警察部门不应该使用它来主动在社区聚集以防止犯罪。相反它应该被添加到城市政策和治安策略的工具箱中应对犯罪。他表示：“我们创建了城市环境的数字孪生。如果向它提供过去发生过的数据，它会告诉你未来会发生什么。”Chattopadhyay 补充表示：“这并不神奇；也存在局限性，但我们对其进行了验证，效果非常好。”“现在你可以将它作为一个模拟工具，看看如果城市内一个地区的犯罪率上升是什么情况，或者另一个地区加强执法会发生什么。如果你应用所有这些不同的变量，你就会看到系统的回应是如何演变的。”研究论文发表在《Nature Human Behavior》期刊上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国科学家提议海王星核驱动探测器]]></title>
-        <id>https://www.solidot.org/story?sid=71999</id>
-        <link href="https://www.solidot.org/story?sid=71999"/>
-        <updated>2022-07-01T07:52:15.000Z</updated>
-        <summary type="html"><![CDATA[《中国科学 技术科学》期刊去年刊登了北航等机构科学家的一篇论文，提议在 2030 年左右将一个核驱动探测器发射到海王星轨道。海王星保留大量太阳系形成初期的气体，包含原恒星云的状态条件和行星形成的位置信息；海卫一被认为是海王星捕获的柯依伯带天体，并最终会形成光环或撞向海王星，对海王星实施环绕、大气进入、穿透等探测，有望在太阳系和行星起源与演化、生命起源等方面获得重大科学发现。但至今只有   1977 年美国发射的旅行者 2 号于 1989 年实现对海王星短暂的飞掠探测。中国科学家提议发射一个三吨重的探测器，采用输出功率为 10 kWe 的核裂变反应堆电源，携带四颗小卫星：两颗用于研究海王星大气层，两颗用于探测海王星最大卫星海卫一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯政府转向 Linux 操作系统]]></title>
-        <id>https://www.solidot.org/story?sid=71998</id>
-        <link href="https://www.solidot.org/story?sid=71998"/>
-        <updated>2022-07-01T06:41:27.000Z</updated>
-        <summary type="html"><![CDATA[微软于 3 月 4 日停止了在俄罗斯的产品销售，随后微软盗版软件的搜索量就大幅增长了 250%，6 月至今电子表格程序 Excel 的下载搜索增长了 650%。微软上个月表示将会大幅削减在俄罗斯的业务。此举对俄罗斯的打击巨大，该国的制造和工程技术系统依赖于外国软件。与此同时，俄罗斯政府机构也开始从 Windows 桌面转向 Linux 桌面。但转移并非是一朝一夕能完成的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国最高法院裁决 EPA 无权规定减排指标]]></title>
-        <id>https://www.solidot.org/story?sid=71997</id>
-        <link href="https://www.solidot.org/story?sid=71997"/>
-        <updated>2022-07-01T03:19:11.000Z</updated>
-        <summary type="html"><![CDATA[美最高法院对环境监管机构限制发电厂温室气体排放的能力作出制约，这一具有里程碑意义的裁决对拜登政府抗击气候变化的努力是一个打击。在首席大法官 John Roberts 撰写的多数意见中，大法官们裁定，美国国家环境保护局(EPA)在1970年成立时，并没有在减少碳排放方面获得国会的特别授权。该裁决意味着，如果拜登政府希望实施全面的法规来控制排放，它将依赖于推动国会通过立法。多数大法官是保守派的最高法院的意见称，“如此规模和后果的决定要由国会本身，或者根据该代表机构明确授权行事的某个机构作出”。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 212 期）：人生不短]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/07/weekly-issue-212.html"/>
-        <updated>2022-07-01T00:20:12.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bunny Fonts]]></title>
-        <id>https://css-tricks.com/?p=366605</id>
-        <link href="https://css-tricks.com/bunny-fonts/"/>
-        <updated>2022-06-30T17:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Bunny Fonts bills itself as the “privacy-first web font platform designed to put privacy back into the internet.”According to its FAQ:
-With a zero-tracking and no-logging policy, Bunny Fonts helps you stay fully GDPR compliant and puts your user’s personal 
-…
-Bunny Fonts originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
