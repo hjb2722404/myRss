@@ -2,10 +2,99 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-07-16T03:23:49.390Z</updated>
+    <updated>2022-07-17T03:40:05.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软披露朝鲜黑客组织利用勒索软件获取赎金]]></title>
+        <id>https://www.solidot.org/story?sid=72147</id>
+        <link href="https://www.solidot.org/story?sid=72147"/>
+        <updated>2022-07-16T15:48:19.000Z</updated>
+        <summary type="html"><![CDATA[微软安全团队披露了一个以中小企业为勒索目标的朝鲜黑客组织 DEV-0530，该组织自称 H0lyGh0st，使用同名勒索软件入侵企业勒索赎金。DEV-0530 采用的策略和其它勒索软件组织类似，维护了一个 .onion 暗网网站与受害者沟通，在入侵之后，用扩展名  .h0lyenc 加密文件，然后索要比特币赎金。该组织也采用了双重勒索，威胁在社交网络披露企业数据或将数据发送给其客户。微软认为 DEV-0530 与朝鲜黑客组织 PLUTONIUM (aka DarkSeoul 或 Andariel)有关联，该组织使用了 PLUTONIUM 开发的工具。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tor Browser 11.5 发布]]></title>
+        <id>https://www.solidot.org/story?sid=72146</id>
+        <link href="https://www.solidot.org/story?sid=72146"/>
+        <updated>2022-07-16T15:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Tor 项目释出了 Tor Browser 11.5。主要新特性包括：Connection Assist 会根据用户的位置自动配置最佳的网桥，它会在征询用户同意后基于位置下载最新列表，该功能利用了域前置工具 moat；重新设计了 Tor 网络设置；默认启用 HTTPS-Only 模式，不再需要 HTTPS-Everywhere 扩展；改进字体支持；更新到 Firefox 91.11.0esr、OpenSSL 1.1.1q、Tor-Launcher 0.2.37 等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国 FTC 主席提议将宽带最低标准提高到下载 100Mbps 上传 20Mbps]]></title>
+        <id>https://www.solidot.org/story?sid=72145</id>
+        <link href="https://www.solidot.org/story?sid=72145"/>
+        <updated>2022-07-16T14:25:45.000Z</updated>
+        <summary type="html"><![CDATA[美国的宽带标准落后于其它发达国家，当一些国家的宽带速度能达到 10Gbps 上传下载，美国的宽带标准是下载速度 25 Mbps 上传速度 3 Mbps。该标准是在 2015 年采用的，在共和党籍的 FTC 主席 Ajit Pai 任职期间没有更新，Ajit Pai 的理由是这个网速足够快了。现在民主党籍主席 Jessica Rosenworcel 提议将宽带标准提高到下载 100Mbps 上传 20Mbps。她认为 25/3 标准不仅过时而且有害，低收入和农村地区落在后面，而在新冠疫情期间生活中的很大一部分东西都转移到网上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MagicPods – 为 Windows 提供魔法般的 AirPods 体验]]></title>
+        <id>https://www.appinn.com/?p=42743</id>
+        <link href="https://www.appinn.com/magicpods/"/>
+        <updated>2022-07-16T09:13:06.000Z</updated>
+        <summary type="html"><![CDATA[MagicPods 是一款 Windows 下的付费应用（可试用），它能为 Windows 提供 iOS 般的 AirPods 体验，给你的 AirPods 添加一点魔法。@Appinn 来自发现频道]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在《Google软件工程》里了解如何在团队内进行学习和分享]]></title>
+        <id>https://kaopubear.top/blog/2022-07-16-book-software-engineering-at-google/</id>
+        <link href="https://kaopubear.top/blog/2022-07-16-book-software-engineering-at-google/"/>
+        <updated>2022-07-16T05:24:26.000Z</updated>
+        <summary type="html"><![CDATA[《Google软件工程》这本书朋友推荐给我的时候内心里是懵的，咱就是说就我这coding level可万万不敢看狗哥软件工程。结果对方表示可以「少量多次，温水送服，按需阅读，比如只看第二部分」。
+本着看看又不吃亏的原则，在物流原因买不到中文版的情况下还是忍不住看了一小章英文。
+先说结论：这书，得推荐。
+就算你完全不写代码，只要所在的实验室、团队或者公司涉及到软件相关或者扩大到脑力劳动和知识管理相关的工作，这书都应该读（至少第二部分）。
+为什么学习和分享会是挑战
+比如，你可以在这本写软件工程的书里搞清楚为什么在一个组织内部学习和分享会变成一种挑战。
+在第二部分的第三章「Knowledge Sharing」，首先写了Google总结出的6条为什么在一个组织内部学习和分享会变成一种挑战的原因，包括：缺乏心理安全、存在信息孤岛和存在有或无专长等等。
+为了不剧透就稍微扩展一点。
+信息孤岛的存在会客观上带来三个问题：信息碎片化（每个岛屿对于整体都有不完整的描述）、信息重复（每个岛屿都重新发明了自己的做事方式）和信息偏倚（每个岛屿做同一件事情的方法可能并不完全兼容）。
+而所谓「有或无专长」，则是组织内部被分成两类成员，一派是“无所不知”的人，另一派则是菜鸟，但是很少有中间状态。
+如果专家总是自己做每一件事，而不花时间通过指导或文档来培养新的专家，这个问题往往会加剧。在这种情况下，知识和责任继续积累在那些已经拥有专业知识的人身上，而新成员或新手只能自己照顾自己，并以缓慢的速度成长。
+如何营造一个心理安全的空间
+如何应对这些问题呢？仅举例如何营造一个相对心理安全的空间，书中提到了几种推荐模式和反对模式。
+**推荐模式（合作）**包括：
+基础问题或错误需要被引导到正确的方向上
+解释的目的是为了帮助提出问题的人学习
+回应是亲切的、耐心的、有帮助的
+互动是通过共同讨论来寻找解决方案
+**反对模式（对抗）**包括：
+挑剔基础问题或错误，并责备提问的人
+解释的目的是为了炫耀自己的知识
+回应是居高临下、刻薄、没有建设性的
+互动是有「赢家」和「输家」的争论
+不过，需要注意的是，反对模式往往都是在无意中出现的：有人可能试图提供帮助，但却意外看起来不受欢迎。Google在实际操作中，发现Recurse中心提供的三条社交规则，在组织内部很有帮助。
+不要假装惊讶。 不要说「什么，我不相信你不知道……」这样的话。当人们说他们不知道一些事情时，你不应该表现出惊讶的样子。因为假装惊讶通常是为了让自己感觉更好而让别人感觉更糟。即使这不是目的，也总是最终的效果。
+不要轻易说「好吧，实际上」。 当对方说的内容几乎是正确的但又不完全正确时，不要轻易说「好吧，实际上是…」然后给出一个小更正。尤其是当纠正对实际对话不会产生影响时。
+不在后座上开车。 无意中听到别人在解决问题时，不应该断断续续地半参与对话。打断现有讨论又不投入到对话中的行为就像是坐在后座上开车。提供帮助和建议以及加入对话，这些都是被提倡和鼓励的，只是想帮助他人或与他人合作时，应该全力以赴而不是偶尔插手。
+另外，在这一部分里，还写到了如何在组织中学习和分享等一系列话题。粗粗浏览感觉就很受用，如果看了上述部分让你产生了一点兴趣，也不妨找到这本书来读读。
+本文作者：思考问题的熊
+版权声明：本博客所有文章除特别声明外，均采用 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (CC BY-NC-ND 4.0) 进行许可。]]></summary>
+        <author>
+            <name>思考问题的熊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何衡量个人在团队项目中的贡献]]></title>
+        <id>https://kaopubear.top/blog/2022-07-16-credit-a-team-member/</id>
+        <link href="https://kaopubear.top/blog/2022-07-16-credit-a-team-member/"/>
+        <updated>2022-07-16T05:19:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>身处一个团队（部门）中，合作是每一个项目顺利推进开展都必不可少的工作方式。但如何合理展示和评价每一个人的贡献，让每个人都能看到自己的价值，却不是一件容易的事。</p>]]></summary>
+        <author>
+            <name>思考问题的熊</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How stroke-dasharray Patterns Work]]></title>
         <id>https://css-tricks.com/?p=366993</id>
@@ -998,161 +1087,6 @@ PL/I（1964）的大胆值得一提并令人钦佩，它的目标是成为“一
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家观察到双星存在共有包层的直接证据]]></title>
-        <id>https://www.solidot.org/story?sid=72063</id>
-        <link href="https://www.solidot.org/story?sid=72063"/>
-        <updated>2022-07-07T11:37:18.000Z</updated>
-        <summary type="html"><![CDATA[天文学家观察到双星存在共有包层的直接证据。许多恒星都有伴星，在演化过程中双星会形成双黑洞、双中子星等天体。在 1976 年科学家 Bohdan Paczyński 提出理论预言，双星存在“共有包层”的演化过程，这一过程将深刻影响双星命运的结局。但至今最近天文学家没有真正观测到共有包层的存在。中澳两国科学家通过澳大利亚国立大学 2.3 米宽视场望远镜和开普勒卫星等在南半球发现了一颗距离 23000 光年的热亚矮星双星 J1920。分析结果发现，两颗星之间的距离越来越近，它们的周围有一个正在膨胀的壳层，以大约每秒 200 公里的速度离开双星。天文学家解释说，“双星中的一颗恒星由于物质损失剧烈膨胀，将另一颗恒星包裹在外包层内，形成共有包层。此时，整个双星系统看起来就像是一个双黄蛋，两颗蛋黄是恒星本身，蛋清则是共有包层。”研究报告发表在《Monthly Notices of the Royal Astronomical Society》期刊上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok 放弃欧美直播带货]]></title>
-        <id>https://www.solidot.org/story?sid=72062</id>
-        <link href="https://www.solidot.org/story?sid=72062"/>
-        <updated>2022-07-07T11:28:26.000Z</updated>
-        <summary type="html"><![CDATA[TikTok 放弃在欧洲和美国扩张其直播电商业务的计划，此前在英国试水直播购物模式并不顺利，内部出现各种问题，在消费者中间也很难流行起来。字节跳动旗下的 TikTok 去年在英国开通 TikTok Shop，这是其电商业务在亚洲以外的第一个市场。各品牌和网红在这款热门短视频应用上开通直播，通过屏幕上一个可点击打开的橙色篮子销售商品。直播带货被社媒平台视为购物的未来，可从销售中抽取佣金，竞争对手 YouTube 和 Instagram 也在欧洲开发类似的功能。字节跳动在中国的短视频应用抖音的直播带货收入年比增长三倍多，售出了逾百亿件商品。但 TikTok 在欧洲的尝试并不成功，扩展到其它市场的计划已被取消，此外它在英国推行的 996 工作模式遭遇了抵制，英国员工出现大量流失。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟批准核能为绿色能源]]></title>
-        <id>https://www.solidot.org/story?sid=72061</id>
-        <link href="https://www.solidot.org/story?sid=72061"/>
-        <updated>2022-07-07T10:13:41.000Z</updated>
-        <summary type="html"><![CDATA[欧盟议会周三投票将核能和天然气归类为环境可持续能源。有 278 名议员投票反对，但未达到否决提案所需的多数票。根据新批准的分类法，只要是取代煤炭石油等肮脏化石燃料，2030 年前建造的核电和天然气发电站将归类为过渡性能源。核电项目需要采用耐事故燃料（accident-tolerant fuels）和遵守放射性废物处理标准就能得到资助。虽然核电站不排放温室气体，但会产生强毒性的放射性废物。在欧盟，法国支持核电德国支持天然气。为了达成妥协核电和天然气被合并为一个提案。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万豪再次曝出数据泄露]]></title>
-        <id>https://www.solidot.org/story?sid=72060</id>
-        <link href="https://www.solidot.org/story?sid=72060"/>
-        <updated>2022-07-07T09:48:14.000Z</updated>
-        <summary type="html"><![CDATA[万豪酒店再次曝出用户数据泄露的事故。事故发生在 6 月，攻击者利用社交工程技术诱骗马里兰万豪酒店员工，获得了其电脑的访问权，但该公司表示黑客没有访问其核心系统。黑客自称窃取了 20 GB 的数据，其中包括客户的信用卡。万豪酒店此前在 2019 年承认黑客入侵了旗下喜达屋酒店预订系统，访问了 3.83 亿客户信息，有 525 万客户的未加密护照被窃取。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关闭互联网使今年至今全球经济损失 100 亿美元]]></title>
-        <id>https://www.solidot.org/story?sid=72059</id>
-        <link href="https://www.solidot.org/story?sid=72059"/>
-        <updated>2022-07-07T08:37:07.000Z</updated>
-        <summary type="html"><![CDATA[审查和平抗议者并不是政府在 2022 年故意关闭互联网的唯一原因，但研究人员表示，这是主要目标，并对全球经济造成的损失最大。Top10VPN 的一份报告显示，2022 年政府下令关闭互联网的成本让全球经济损失超过 100 亿美元。这个数字几乎比 2021 年翻了一番，而 2022 年才过了一半。给全球经济造成最大损失的是俄罗斯，损失了87.7亿美元。该国持续的社交媒体管制正在入侵乌克兰之后不久就开始了，旨在通过阻止访问 Facebook、Instagram 和 Twitter 限制和平抗议和新闻自由。今年到目前为止，Top10VPN 跟踪了16个国家/地区的政府关闭举措，计算每天的关闭成本，特别是针对从巴基斯坦数十万的抗议到俄罗斯的数亿抗议活动的举措。
-
-
-政府关闭互联网的其他原因包括苏丹、叙利亚和阿尔及利亚防止学生在学术考试中作弊的举措。这些不是因为冲突进行的关闭代价并不低，有时候每天会给全球经济造成超过 600 万美元的损失。如果 Top10VPN 对 2022 年跟踪和前几年一样不完整，那么互联网关闭给全球经济带来的损失中被忽视的部分可能比他们报告的还要多。Top10VPN 报告侧重于主要互联网关闭，忽略了较小的关闭造成的额外经济和人权成本。2021 年他们的年度报告仅记录了 50 次互联网关闭——比国际数字人权非营利性组织 Access Now 记录的数量要少得多。从 2016 年至2021 年，Access Now 记录了 931 次互联网关闭。VPN 研究人员2022年初数据中出现的模式与专家的预测一致：随着各国政府更广泛地使用互联网关闭，希望以此在冲突期间限制在线活动，造成的损失将持续攀升。Access Now 活动人士 Felicia Anthonio 去年对 The Verge 表示：“自从我们开始跟踪政府关闭互联网的举措以来，它们的使用以令人震惊的速度激增。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界首个用冻干皮肤细胞克隆的小鼠诞生]]></title>
-        <id>https://www.solidot.org/story?sid=72058</id>
-        <link href="https://www.solidot.org/story?sid=72058"/>
-        <updated>2022-07-07T08:21:31.000Z</updated>
-        <summary type="html"><![CDATA[研究人员用冷冻干燥的皮肤细胞首次创造出克隆小鼠，旨在帮助保护主义者恢复濒临灭绝的物种种群。这一突破为各国将储存动物皮肤细胞作为保险政策铺平道路，因为这些细胞可用于创建克隆体，如果在未来受到灭绝威胁，此举可提高该物种的遗传多样性。虽然科学家使用冷冻细胞为保护项目生产克隆体，但这些细胞被保存在液氮中，这种做法既昂贵又危险：如果停电或液氮没有定期加满，细胞就会融化变得无法使用。冷冻干燥的精子也可用于创建克隆体，但不是所有的动物身上都可以获得精子。在最新的工作中，研究人员冷冻了老鼠尾巴上干燥的皮肤细胞，将它们储存了长达 9 个月，然后再尝试用它创建克隆体。冷冻干燥过程杀死了细胞，但科学家发现仍然可以通过将死细胞注入去除了自身细胞核的小鼠卵子创造早期克隆胚胎。这些被称为囊胚的早期小鼠胚胎被用来制造干细胞储备，这些干细胞经过另一轮克隆。将这些干细胞注入没有自身细胞核的小鼠卵子中，从而产生代孕小鼠的胚胎。第一只克隆老鼠以《多啦A梦》系列漫画中一个爱吃蜜瓜包的机器人哆啦美命名，之后又生产了 74 只克隆体。为了检查这些克隆体是否具有健康的生育能力，将九只雌性和三只雄性与正常的小鼠进行了交配。所有的雌性都顺利产仔。尽管取得了这一成就，但效率低下——冷冻干燥会损害皮肤细胞中的 DNA——创造出健康雌性和雄性小鼠幼崽的成功率仅为 0.2% 至 5.4%。在一些细胞中，Y 染色体丢失，导致雄性小鼠的细胞产生了雌性小鼠。作者在《自然通讯》中写道：“如果可以对只有雄性存活的濒危物种进行同样的处理，那么就有可能产生雌性并自然地保护该物种。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界最高观测站上的雪融化得比以往任何时候都早]]></title>
-        <id>https://www.solidot.org/story?sid=72057</id>
-        <link href="https://www.solidot.org/story?sid=72057"/>
-        <updated>2022-07-07T08:13:49.000Z</updated>
-        <summary type="html"><![CDATA[世界最高的观测站本应终年覆盖的白雪预计将在未来几天内完全融化，这是有记录以来最早的融化时间。奥地利中央阿尔卑斯山的 Sonnblick 观测站海拔为3106米（10190英尺），这里的科学家们对雪消融得如此之快感到震惊和沮丧。在一些年份峰顶整个夏天都覆盖着皑 皑白雪。但是今年，雪消融的时间比之前的记录（即1963 年和 2003 年的 8 月 13 日）早了一个多月。整个六月，降雪量一直处于自 1938 年有记录以来的最低水平。 观测站每十分钟发布一次降雪量及其他数据。降雨会影响测量。但是稳定下降的趋势很明显，截止周二，降雪量下降到只有几厘米。Sonnblick 建于 1886 年，供科学家探索更高层的大气层。从那时起，它就被气象学家用来预测天气，并且是拥有最长、最可靠的气候数据的山地天观测站。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[甲烷对全球变暖的敏感性比以前认为的高]]></title>
-        <id>https://www.solidot.org/story?sid=72056</id>
-        <link href="https://www.solidot.org/story?sid=72056"/>
-        <updated>2022-07-07T08:01:08.000Z</updated>
-        <summary type="html"><![CDATA[一项新研究表明，甲烷对全球变暖的敏感性是以前认为的四倍。该结论有助于揭示近年来甲烷的快速增长，并表明如果不加以控制，与甲烷相关的变暖将在未来几十年内不断恶化。这种温室气体的增长——在 20 年的时间跨度内，增长是二氧化碳的 80 倍以上，增长速度在 2007 年后经历了快速上升，但自千禧年后一直在放缓，美国国家海洋和大气管理局记录甲烷水平去年超过了十亿分之1900，几乎是工业化前水平的三倍。新加坡南洋理工大学地球科学家 Simon Redfern 表示：“特别令人费解的是，尽管出现了全球疫情——人为来源被认为不那么显著，甲烷排放量在过去两年内以更快速度增长。”大约 40% 的甲烷排放来自湿地等自然来源，而 60% 来自人为来源，如养牛业、化石燃料开采和垃圾填埋场。甲烷排放量增加的可能解释包括石油和天然气勘探扩大、农业和垃圾填埋场排放量增加、以及热带湿地变暖和北极苔原融化造成的自然排放量增加。但另一种解释可能是从大气中清除甲烷的化学反应放缓了。与大气中羟基自由基（OH）反应是“清除”甲烷的主要方式。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恐龙如何躲过三叠纪末的生物大灭绝]]></title>
-        <id>https://www.solidot.org/story?sid=72055</id>
-        <link href="https://www.solidot.org/story?sid=72055"/>
-        <updated>2022-07-07T07:54:26.000Z</updated>
-        <summary type="html"><![CDATA[三叠纪末（约 2 亿年前）生物大灭绝事件是地质历史上五大生物集群灭绝事件之一，但恐龙却幸运地避过了这一劫难，并称霸侏罗纪和白垩纪世界。造成三叠纪末陆地生物大灭绝的主要原因是超级火山喷发，释放出的大量火山灰和气溶胶等阻挡日照辐射，从而造成地球表面温度骤降。当时地球出于温室时期，大气二氧化碳浓度达到1000-6000ppm（1ppm=1/10-6），超级火山喷发之后发生的火山冬天是陆地生物灭绝的首要因素。恐龙具有羽毛能用于保暖，因此能适应严寒气候。在三叠纪末生物大灭绝事件后，恐龙迅速增加，地理分布范围迅速扩张，从此开启了长达 1.3 亿年的地球陆地霸主时代。研究报告发表在《Science Advances》期刊上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[绿色能源解决方案沙储能]]></title>
-        <id>https://www.solidot.org/story?sid=72054</id>
-        <link href="https://www.solidot.org/story?sid=72054"/>
-        <updated>2022-07-07T07:32:59.000Z</updated>
-        <summary type="html"><![CDATA[绿色能源如太阳能和风能的一大问题是如何储存多余的太阳能和风能，如何在没有太阳和风的日子用电？将更多的再生能源输入电网意味着需要提升其他能源来源平衡电网，因为里面电力太多或太少都可能导致电网崩溃。
-解决这个问题最明显的方案就是大规模储电设施，把能源储存起来，在电网增加绿色能源的时候平衡电力需要。 目前大多数的电池都是锂电池，扩大锂电池规模十分昂贵，而且工业制造的排放很大，它们只能应对有限数量的多余电力。但在芬兰的坎康佩（Kankaanpää），一些年轻的工程师建成了第一个商用的用沙子做出的储能设备，它们认为这是一种低成本，低环境代价的储能方式。沙子是储热的有效的媒介，沙子长时间流失热量很少。研究人员说，他们的设备能把沙子以 500 摄氏度的高温保持几个月。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神级网盘 PikPak 发布 iOS 客户端、Chrome 扩展，支持离线下载、秒存、网盘、在线播放等功能]]></title>
-        <id>https://www.appinn.com/?p=42671</id>
-        <link href="https://www.appinn.com/pikpak-for-ios/"/>
-        <updated>2022-07-07T07:01:55.000Z</updated>
-        <summary type="html"><![CDATA[PikPak 是一款私人网盘应用，支持离线下载、秒存、网盘、在线播放等功能，目前已支持 iOS、Android 客户端、网页版、Chrome 扩展和 Telegram 机器人。使用流畅，免费]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axie Infinity 是如何被盗走数亿美元加密货币的]]></title>
-        <id>https://www.solidot.org/story?sid=72053</id>
-        <link href="https://www.solidot.org/story?sid=72053"/>
-        <updated>2022-07-07T03:33:48.000Z</updated>
-        <summary type="html"><![CDATA[Axie Infinity 是一款 Sky Mavis 开发的热门游戏，允许参与者在玩游戏过程中积累加密货币。它的日活跃用户达到 270 万周交易量 2.14 亿美元。今年三月它被盗走了 5.4 亿美元加密货币，攻击者被认为来自朝鲜。据匿名消息来源披露，朝鲜黑客创造了一家假公司，通过职业社交网络 LinkedIn 发送假的招聘广告。Sky Mavis 的一位工程师接受了这家虚假公司的多轮面试，然后对方报了一个极其具有吸引力的薪酬，录取书是以 PDF 文件的形式发送的。这位工程师下载了文件，导致了间谍软件渗透到了 Axie Infinity 使用的侧链 Ronin 系统，黑客随后控制了 Ronin 网络九个验证器中的四个，只要再增加一个就能完全接管 Ronin。只要九个验证器中有五个批准，资金就能被转移出去。但黑客只控制了四个，他们随后利用了 Axie DAO (Decentralized Autonomous Organization)完成了这次加密货币大盗窃。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果预览 Lockdown 模式抵御间谍软件攻击]]></title>
-        <id>https://www.solidot.org/story?sid=72052</id>
-        <link href="https://www.solidot.org/story?sid=72052"/>
-        <updated>2022-07-07T02:46:04.000Z</updated>
-        <summary type="html"><![CDATA[苹果手机曾遭以色列公司 NSO Group  间谍软件 Pegasus 的秘密入侵，为了抵御此类攻击苹果公司宣布了 Lockdown 模式。Lockdown 模式将在今年秋天随 iOS 16、iPadOS 16 和 macOS Ventura 发布，旨在为极少数用户提供可选的极端保护，在 iOS 16、iPadOS 16 和 macOS Ventura 中开启 Lockdown 模式将进一步加强设备防护，严格限制部分功能，大幅减少受攻击面。Lockdown 模式将包括下列保护功能：图片之外的绝大多数信息附件类型将被拦截，链接预览等部分功能将被禁用。
-苹果表示，如果安全研究人员在 Lockdown 模式中发现漏洞，它将提供最高 200 万美元的奖金，这是整个行业封顶金额最高的奖金。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊预览 AI 编程助手 CodeWhisperer]]></title>
-        <id>https://www.solidot.org/story?sid=72051</id>
-        <link href="https://www.solidot.org/story?sid=72051"/>
-        <updated>2022-07-06T15:55:51.000Z</updated>
-        <summary type="html"><![CDATA[在微软/GitHub 商业化其 AI 编程助手 Copilot 的同时，亚马逊开始预览它的 AI 编程助手 CodeWhisperer。和 Copilot 类似，CodeWhisperer 使用开源代码库进行训练，根据上下文向开发者提供代码完成建议。Copilot 因为代码许可证方面的问题引发了争议，CodeWhisperer 存在类似的问题，但它的做法要好于微软/GitHub——在提供示例代码建议时它会给出代码的来源，开发者将能知道是来自于是可以自由使用的 MIT 授权代码，还是来自于对使用有所限制的 GPL 授权代码。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[变形微机器人既能刷牙又能剔牙]]></title>
-        <id>https://www.solidot.org/story?sid=72050</id>
-        <link href="https://www.solidot.org/story?sid=72050"/>
-        <updated>2022-07-06T15:31:13.000Z</updated>
-        <summary type="html"><![CDATA[宾夕法尼亚大学的科学家创造出一种变形微机器人，能帮助人们自动完成刷牙、漱口水和使用牙线剔牙的日常工作。研究报告发表在《ACS Nano》期刊上。微机器人由有催化和磁力活性的氧化铁纳米颗粒构建，研究人员利用磁场能控制其行动方向，将其配置成牙刷状结构清理牙齿表面的菌斑，或者变成类似牙线的细线在牙齿之间移动。微机器人还能通过催化反应产生抗菌剂，杀死有害口腔细菌。牙刷的设计几千年来基本没有改变，电动牙刷的出现也没有改变这一基本设计概念。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
