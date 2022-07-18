@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42750",
+          "author": "青小蛙",
+          "description": "PeakFinder 是一款收录了超过 95 万座山峰的手机应用，从珠穆朗玛峰到世界角落的小山丘，能以 360° 全景显示所有山脉和山峰的名称，让你快速识别眼前的山峰，支持离线使用。@Appinn P",
+          "link": "https://www.appinn.com/peakfinder/",
+          "publishedOn": "2022-07-17T10:22:35.000Z",
+          "wordCount": 1971,
+          "title": "PeakFinder – 群山在召唤，超过 95 万座山峰，360°全景显示[iPhone/Android]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/07/appinn-2022-07-17t165625-460.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42743",
           "author": "青小蛙",
           "description": "MagicPods 是一款 Windows 下的付费应用（可试用），它能为 Windows 提供 iOS 般的 AirPods 体验，给你的 AirPods 添加一点魔法。@Appinn 来自发现频道",
@@ -85,16 +95,6 @@
           "wordCount": 2237,
           "title": "MyComputerManager – 删除「此电脑」中的各大网盘快捷方式，并支持自定义添加￼",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/07/appinn-2022-07-09t152202-434.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42680",
-          "author": "青小蛙",
-          "description": "ShareX 是一款 Windows 上开源的截图、文件共享和生产力工具，近日发布了 14.0.0 版本，新增离线 OCR 文字识别功能，支持中文。@Appinn 一直以来，青小蛙还是非常喜欢 Sha",
-          "link": "https://www.appinn.com/sharex-14/",
-          "publishedOn": "2022-07-08T02:10:47.000Z",
-          "wordCount": 2237,
-          "title": "ShareX 14.0.0 发布，新增离线 OCR 文字识别功能",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/07/appinn-2022-07-08t094355-524.jpgo_.jpg"
         }
       ]
     },
@@ -169,16 +169,6 @@
           "wordCount": 890,
           "title": "科技爱好者周刊（第 214 期）：你的地图是错的",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/07/weekly-issue-213.html",
-          "publishedOn": "2022-07-08T00:06:09.000Z",
-          "wordCount": 867,
-          "title": "科技爱好者周刊（第 213 期）：知识孤岛，知识软件",
-          "imageUrl": null
         }
       ]
     },
@@ -193,6 +183,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72152",
+          "author": null,
+          "description": "美国和俄罗斯上周五达成了一项协议：NASA 的宇航员将再次搭乘俄罗斯的火箭，而俄罗斯的宇航员将在今年秋天开始搭乘 SpaceX 的火箭前往国际空间站。这一协议不涉及任何金钱相关的交易。NASA 和俄罗斯官员称，此举将确保空间站上至少有一名俄罗斯和美国的宇航员。俄罗斯宇航局局长 Dmitry Rogozin 刚刚被解除了职位，但应该和新达成的协议没有关联性。NASA 表示，空间站需要每一个宇航局参与运作，没有宇航局能独立运作空间站。俄罗斯为空间站提供推进剂和推进器，帮助改变空间站轨道和抵消大气阻力影响。NASA 提供了大部分电力，维持方向的陀螺仪，以及计算机和通信网络。NASA 希望国际空间站能一直运行到 2030 年，但这需要俄罗斯的合作，目前不清楚俄罗斯是否会同意。",
+          "link": "https://www.solidot.org/story?sid=72152",
+          "publishedOn": "2022-07-18T03:21:11.000Z",
+          "wordCount": 160,
+          "title": "NASA 和俄罗斯的宇航员将互相搭乘对方的火箭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72151",
+          "author": null,
+          "description": "自由硬件日益稀缺，但自由软件基金会（FSF）仍然在坚持其理念，它的服务器配置都相当古老，因为新一代的硬件都含有非自由的私有固件。FSF 最近表示它更换了最后一台运行非自由 BIOS 的机器。目前它有两个数据中心和逾百个虚拟机。其服务器的标准配置是华硕 KGPE-D16 主板和 2012 年发布的 AMD 6200 系列 CPU，BIOS 使用的是 Libreboot。FSF 目前正致力于支持 Raptor Computer Systems 更新更强大的 Talos II，以及使用 IBM POWER9 CPU 的 Blackbird 主板， Raptor 的主板支持完全自由的固件，采用了自由硬件设计。英特尔和 AMD 在 2013 年之后发售的 CPU 都不自由，没有自由 BIOS 可用，因为这些 CPU 都会在 BIOS 中安装私有固件如 Intel Management Engine，这些 CPU 也会拒绝运行未经过 AMD 和英特尔私钥加密签名的固件，而 AMD 和英特尔只会签名自己的非自由固件。FSF 表示通往自由的道路是漫长的。",
+          "link": "https://www.solidot.org/story?sid=72151",
+          "publishedOn": "2022-07-18T02:54:15.000Z",
+          "wordCount": 202,
+          "title": "FSF 如何确保它的服务器都运行自由 BIOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72150",
+          "author": null,
+          "description": "俄罗斯总统普京（Vladimir Putin）批准了一项法律，禁止将加密资产作为一种支付形式使用。新法律将在十天后生效。此前有猜测认为俄罗斯人可能会利用加密货币逃避制裁，但加密货币如比特币事实上很容易被跟踪，而美国和欧盟甚至将加密货币钱包地址加入到制裁清单。",
+          "link": "https://www.solidot.org/story?sid=72150",
+          "publishedOn": "2022-07-17T13:55:19.000Z",
+          "wordCount": 145,
+          "title": "俄罗斯禁止加密货币用于支付",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72149",
+          "author": null,
+          "description": "卫星数据分析显示全球小麦产量将会出现显著下降。干旱和高温等天气因素将会导致欧盟小麦收成比去年减少 470 万吨，这对于希望寻找乌克兰小麦替代的国家是个坏消息。分析显示，世界五大小麦生产国中的三个——美国、法国和乌克兰——产量将会低于预期。美国是世界第三大小麦出口国，但堪萨斯和俄克拉荷马这两个主要小麦生产州今年春季遭遇了严重干旱，产量预计比平均水平低 7-8%。印度也是小麦生产大国，但在小麦生长的关键时期印度遭遇了极端热浪，印度随后宣布禁止小麦出口，其产量预计将减少一千万吨。加拿大和俄罗斯的小麦产量预计将会好于去年，但这不足以抵消其它地方的小麦收成下降。",
+          "link": "https://www.solidot.org/story?sid=72149",
+          "publishedOn": "2022-07-17T13:43:04.000Z",
+          "wordCount": 147,
+          "title": "卫星数据显示全球小麦产量将显著下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72148",
+          "author": null,
+          "description": "过去几年，Google 投入数以十亿美元计的资金开发名为 Fuchsia 的全新操作系统，但至今为止其成果寥寥无几。Fuchsia 唯一的成果是作为 Nest 设备的底层操作系统使用，Google 曾尝试让 Fuchsia 能运行 Android 应用，为此它在 Android Open Source Project(AOSP) 创建了一个项目 device/google/fuchsia，设计为 Fuchsia 设备构建 Android  运行时。但本周该项目下的所有代码都被删除，取而代之的是一条 TODO 信息，Google 可能会用其它项目取代它。负责该变更的开发者来自 Fuchsia 的 Starnix 项目。Starnix 于 2021 年创建，旨在让 Fuchsia 能原生运行为 Linux 或 Android 构建的应用或库。",
+          "link": "https://www.solidot.org/story?sid=72148",
+          "publishedOn": "2022-07-17T10:44:47.000Z",
+          "wordCount": 193,
+          "title": "Android 移除大部分 Fuchsia 相关代码",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72147",
           "author": null,
@@ -901,126 +941,6 @@
           "publishedOn": "2022-07-09T07:54:01.000Z",
           "wordCount": 170,
           "title": "马斯克终止收购 Twitter，Twitter 表示将起诉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72075",
-          "author": null,
-          "description": "在小鼠和猴子的动物实验中，一种新型的纳米颗粒疫苗能抵御多种类 SARS 病毒，包括新冠病毒的变种。研究报告发表在《科学》期刊上。疫苗是基于笼状的纳米颗粒技术，由蛋白质构成，表面的粘性附加物可用于标记病毒蛋白。当注射到动物体内时，疫苗将病毒片段展示给免疫系统，诱导抗体产生。在最新研究中，研究人员使用了包括新冠在内的八种类 SARS 病毒的刺突结构，诱导免疫系统产生广泛的冠状病毒抗体反应。",
-          "link": "https://www.solidot.org/story?sid=72075",
-          "publishedOn": "2022-07-08T15:26:48.000Z",
-          "wordCount": 156,
-          "title": "纳米颗粒疫苗能抵御类 SARS 病毒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72074",
-          "author": null,
-          "description": "发行商与内容提供商之间经常会因为协议到期而下架内容，对于之前那些购买了相关产品的客户发行商该如何处理？在 Valve 的 PC 游戏平台 Steam，下架的游戏仍然会留在玩家的游戏库，可以下载或继续游戏，游戏对应的商店页面会消失。亚马逊计划在两年后终止其 kindle 中文电子书商店，届时中国客户将无法再下载已购的电子书。这个做法有争议，但至少电商巨人提前两年通知了客户，因此客户有足够的时间下载已购电子书。而索尼的 PlayStation 商店则采取了更备受争议的做法：它通知奥地利和德国的客户，从 2022 年 8 月 31 日起从客户的内容库中删除 Studio Canal 发行的电影(包括 Apocalypse Now、Django、John Wick、La La Land、Saw  和 The Hunger Games 等知名电影)。客户并非租赁而是购买了这些电影。它只给客户留了不到两个月的时间。",
-          "link": "https://www.solidot.org/story?sid=72074",
-          "publishedOn": "2022-07-08T14:02:10.000Z",
-          "wordCount": 181,
-          "title": "索尼 PlayStation 商店将移除客户购买的电影",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72073",
-          "author": null,
-          "description": "几乎每一个电子设备都要使用的内存芯片在疫情期间价格飞涨。但从现在内存芯片价格下降的幅度来看，需求热潮可能已经结束。根据集邦科技(TrendForce)的数据，DRAM 平均合同价格在 4 月至 6月 的季度中较上年同期下降了 10.6%，这是两年来第一次出现同比下降。预计未来几个月的价格下降可能更为剧烈。根据 Gartner 的数据，在整体规模达 5,950 亿美元、包含微处理器和图像传感器芯片的半导体行业中，内存芯片约占 28% 的比重。去年半导体行业里年收入排名前四的企业中有三家是内存制造商：三星电子和海力士，以及美光科技。内存芯片行业定价能力的减弱反映出智能手机、个人电脑(PC)和其他电子产品的销售放缓，因为消费者愈发感受到通胀带来的痛苦。面对需求的放缓，芯片买家削减了生产，降低了半导体需求，补充了供应水平。",
-          "link": "https://www.solidot.org/story?sid=72073",
-          "publishedOn": "2022-07-08T11:44:59.000Z",
-          "wordCount": 156,
-          "title": "内存价格下跌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72072",
-          "author": null,
-          "description": "网信办发布了《数据出境安全评估办法》，2022 年 9 月 1 日起施行。《办法》规定，数据处理者向境外提供重要数数据、关键信息基础设施运营者和处理百万以上个人信息的数据处理者向境外提供个人信息、自上年 1 月 1日 起累计向境外提供 10 万人个人信息或者 1 万人敏感个人信息的数据处理者向境外提供个人信息等必须通过国家网信办的安全评估才能向境外提供信息。",
-          "link": "https://www.solidot.org/story?sid=72072",
-          "publishedOn": "2022-07-08T11:40:31.000Z",
-          "wordCount": 159,
-          "title": "网信办发布《数据出境安全评估办法》",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72071",
-          "author": null,
-          "description": "迄今最具传染性的新冠病毒亚型在美国迅速传播。被称为 BA.5 和 BA.4 的奥密克戎亚型变体正在美国新增病例中占据主导地位，这两种变体的刺突蛋白都发生了突变，是新冠病毒迄今为止最有能力逃避疫苗免疫和感染康复后免疫的版本。美国疾控中心 CDC 称，目前没有证据表明感染者症状更严重，但其传播可能导致住院人数增加。BA.5 也在世界其它地方成为主流变种。另据北京市疾控中心通报，北京近日报告的新冠感染者中也有人携带的是 BA.5 分支病毒。",
-          "link": "https://www.solidot.org/story?sid=72071",
-          "publishedOn": "2022-07-08T11:27:47.000Z",
-          "wordCount": 153,
-          "title": "高传染性奥密克戎亚型在美国快速传播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72070",
-          "author": null,
-          "description": "1997 年 7 月 11 日，Carl Sagan 和 Ann Druyan 的电影《超时空接触（Contact）》上映。一部今天看来完全与潮流相反的反主流电影：没有外星人、没有太空飞船，也没有地球遭到入侵。这位电影由朱迪福斯特主演，Carl Sagan 在拍摄期间去世。在电影上映二十五周年之际，Vulture 采访了参与制作这部影片的数十人，发布了《超时空接触》的口述历史。\n《超时空接触》是一个闪电般的项目，大电影制片厂以前几乎从未制作过，可能也永远不会再制作——智力的挑战，混乱的情感，隐喻很重，里面没有人在美国国旗前朝外星人的脸开枪。“我们曾经这样做过，”福斯特表示，“我们过去常常制作能引起共鸣和娱乐的电影。”Ann Druyan：那是 1978 年。Carl 和我仍然在制作《宇宙（Cosmos）》。当时流行的说法，“好吧，如果男人和女人一样聪明，为什么没有女性的莱昂纳多？没有女性的爱因斯坦？”这让我们俩都很生气。我刚刚与人合写了《宇宙》中关于亚历山大大图书馆的部分，事实是图书馆的负责人希帕蒂亚（Hypatia）是一位数学家，专注于研究丢番图方程（后来这个问题引起了牛顿的兴趣）。她伟大的智慧之光得到的回报是在公元 41 5年被从自己的马车上拖下来，被鲍鱼壳割成了碎片。那时人们把一切都归给了 Carl。他在文化中是一种现象，每个人都想要和他拉上点关系。所以我们知道可以写一本书并得到一份电影合同。一天晚上，我们坐在西好莱坞租来的小房子的游泳池里商定，我们要讲一个故事，在这个故事里，女性不仅会成为智力英雄，而且按照吉尔伽美什的伟大传统，她还要去航行，而男人们则呆在家里。",
-          "link": "https://www.solidot.org/story?sid=72070",
-          "publishedOn": "2022-07-08T11:17:09.000Z",
-          "wordCount": 173,
-          "title": "《超时空接触》上映 25 年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72069",
-          "author": null,
-          "description": "美国宾州州立大学的研究人员表示，让人们关闭智能手机或者设置为静音，以此缓解分心或者避免网络成瘾行为的策略对部分人可能会适得其反。在一项研究中，研究人员报告称，当设备处于静音模式时，人们会更多地查看手机。那些在“害怕错过（FoMO）”和“需要归属”人格测试中得分高的人会在静音后更频繁地查看手机，某些情况下，他们使用手机的时间也会更长。研究作者之一的 S. Shyam Sunda 表示：“克服成瘾或任何物质过度使用或依赖的一般性、常识性方法是减少这种物质。”“抑制智能手机过度使用的行业方法通常是想方设法切断你对手机的使用、减少通知数量或者让你选择关闭声音。虽然这些都是常识性的方法，但我们其实不知道它们在心理上是否有效。这似乎是一个适得其反或者令人反受其害的例子。”开启震动模式之后，FoMO 水平高的人每天大约会查看 50 次手机。在静音模式下，这些参与者查看手机的次数飙升至每天大约 120 次。研究人员还发现，如果手机处于静音模式，FoMO 水平较高的人使用手机的时间会显著增长。具有高度需要归属特质的人在手机处于静音模式的时候不会更多地拿起手机，但是如果他们的手机处于静音或者只有震动的模式，他们确实会在手机上停留更长的时间。“想象一下，在课堂上，老师告诉学生们关掉手机，我们认为现在每个人都在关注老师，”Sunda 说。“但研究结果恰恰相反，因为他们一心一意地惦记着所有错过的东西，所以这可能会让注意力更加分散。”",
-          "link": "https://www.solidot.org/story?sid=72069",
-          "publishedOn": "2022-07-08T10:37:08.000Z",
-          "wordCount": 155,
-          "title": "停止手机分心的常识建议可能是误导",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72068",
-          "author": null,
-          "description": "微软安全研究人员发现，一年前用 Go 语言编写的 Hive 勒索软件有了用 Rust 重写的新变种。Hive 于 2021  年 6 月出现，两个月后 FBI 对此发出警告。11 月，欧洲电子零售巨头 MediaMarkt 受到了 Hive 的攻击。这是另一个勒索软件即服务(RaaS)双重勒索团伙，该团伙最近一直在针对存在漏洞的 Microsoft Exchange 服务器和 RDP 服务器、窃取的 VPN 凭据和网络钓鱼部署勒索软件并窃取值得窃取的信息。Hive 迁移到 Rust 版本已进行了几个月，它吸取了 BlackCat 勒索软件的教训，后者也是用 Rust 编写的。Group-IB 研究人员在 3 月发现 Hive 将其 Linux 加密器（针对 VMware ESXi 服务器）转换为 Rust，让安全研究人员更难以窥看其与受害者的赎金对话。微软的分析表明，用 Rust 重写的 Hive 更加全面，支持在 3 月份提到的对加密方法的更改。微软指出，“它不是在加密的每个文件中嵌入一个加密密钥，而是在内存中生成两组密钥，用它们加密文件，然后将两组密钥加密并写入它所加密的驱动器的根目录，两者都使用 .key 扩展名。”",
-          "link": "https://www.solidot.org/story?sid=72068",
-          "publishedOn": "2022-07-08T10:25:00.000Z",
-          "wordCount": 211,
-          "title": "Hive 勒索软件从 Go 切换到 Rust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72067",
-          "author": null,
-          "description": "我们今天认为理所当然的事情在过去并非如此。早期计算机的存储、内存和处理能力都是有限而昂贵的。人们不得不费尽周折，只为到计算机实验室，通宵熬夜以获得计算机使用时间。那时候编程语言的命名更简单，因为命名空间尚未被开发，在 1950 年代和 1960 年代，最初的程序可以“奢侈地”用其所作的事情精确命名：FORTRAN（公式翻译器）、COBOL（面向商业的通用语言）)、BASIC（初学者通用符号指令代码）、ALGOL（算法语言）、LISP（列表处理器）。大多数人可能没有听说过 SNOBOL（面向字符串和符号语言，1962），但是稍微猜一猜就可以明白它试图做什么。如果那个时代对面向对象的编程概念有更多了解，我们可能会使用“OBJOL”之类的名字命名——明确命名为面向对象语言，至少按照那时的命名模式会是这样。\nPL/I（1964）的大胆值得一提并令人钦佩，它的目标是成为“一种好的编程语言”。这个名字说明了一切：编程语言1。应该不再需要 2、3 或 4。虽然 PL/I 未如设计者希望的那样成为计算机编程的高地，但他们仍然抓住了软件中的一个关键问题：为什么有这么多种语言？早在 1960 年代初，这个问题已被提出。今天的编程语言在很多方面都像是重新发明轮子，发明如此多语言的目的被认为控制和财富，比如在 Java 语言实现一次编写多个平台运行的时代微软发明了 C#，它不需要多个平台它需要的是控制自己的 Windows 平台。",
-          "link": "https://www.solidot.org/story?sid=72067",
-          "publishedOn": "2022-07-08T10:03:31.000Z",
-          "wordCount": 164,
-          "title": "为什么有如此多的编程语言？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72066",
-          "author": null,
-          "description": "空客的无人驾驶太阳能飞机 Zephyr S 已连续飞行逾二十天。Zephyr 太阳能飞机最初由 QinetiQ 公司设计，2013 年该公司出售给了 EADS Astrium——今天的空客国防航天。Zephyr S 是最新的 Zephyr 系列太阳能飞机，最大起飞重量 75 公斤，可携带 5 公斤负荷，它长时间在空中停留的能力使其可作为军方的传感器平台。Zephyr S 于 6 月 15 日从美国陆军位于亚利桑那州的 Yuma 试验场起飞，跟踪数据显示它于 6 月 27 日飞过墨西哥湾，接着飞过加勒比海，进入中美洲伯利兹领空，上周回飞美国。Zephyr S 在 2018 年首飞时连续飞行了近 26 天，这一次是否能打破该记录还有待观察确认。",
-          "link": "https://www.solidot.org/story?sid=72066",
-          "publishedOn": "2022-07-08T09:43:44.000Z",
-          "wordCount": 179,
-          "title": "空客的太阳能飞机已连续飞行逾二十天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72065",
-          "author": null,
-          "description": "前日本首相安倍晋三在奈良市进行街头演说时遇刺，袭击者为 41 岁的奈良市居民山上彻也，他从安倍晋三的背后开了两枪，安倍出血倒下，被直升机搬送到奈良县县立医科大学附属医院，意识不明，被认为心肺停止，目前正在接受紧急救治。安倍晋三虽是前首相，但在日本仍然具有相当大的影响力，他是为参议院选举在街头进行演说。山上彻也的行刺动机未知，目前已被拘捕。更新：自民党官员证实安倍晋三在医院去世。",
-          "link": "https://www.solidot.org/story?sid=72065",
-          "publishedOn": "2022-07-08T07:55:30.000Z",
-          "wordCount": 146,
-          "title": "安倍晋三遇刺",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72064",
-          "author": null,
-          "description": "systemd 作者 Lennart Poettering 离开 Red Hat 之后加盟了微软公司，成为软件巨人雇佣的最新一位知名开源开发者。Poettering 在微软继续从事 systemd 的开发工作。微软雇佣过或正在雇佣多位知名的开源开发人士：Python 作者 Guido van Rossum；GNOME 作者 Miguel de Icaza 在微软收购其联合创办的 Xamarin 公司后加入微软，今年初离职；Xamarin 的另一位联合创始人 Nat Friedman 担任过 GitHub CEO，去年离职；Gentoo Linux 创始人 Daniel Robbins、Linux CIFS/SMB2/SMB3 维护者 Steve French、Matteo Croce、Matthew Wilcox、Shyam Prasad N、Michael Kelley 等等。过去半个月加入微软的内核开发者是 Christian Brauner，曾在 Canonical 公司工作过。",
-          "link": "https://www.solidot.org/story?sid=72064",
-          "publishedOn": "2022-07-08T03:30:25.000Z",
-          "wordCount": 198,
-          "title": "Lennart Poettering 加盟微软",
           "imageUrl": null
         }
       ]
