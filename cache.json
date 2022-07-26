@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42821",
+          "author": "青小蛙",
+          "description": "GP Calendar 是一款 macOS 小工具，只有一个功能，在 Mac 菜单栏显示 F1 世界一级方程式锦标赛赛程日历和具体时间。@Appinn 来自发现频道，独立产品灵感周刊 DecoHack",
+          "link": "https://www.appinn.com/gp-calendar-for-mac/",
+          "publishedOn": "2022-07-25T08:28:14.000Z",
+          "wordCount": 1683,
+          "title": "GP Calendar – 在 Mac 菜单栏显示 F1 世界一级方程式锦标赛赛程日历",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/07/appinn-2022-07-25t162036-665.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=42817",
+          "author": "青小蛙",
+          "description": "数独解算器是一个提供在线解数独的网站，只需要输入已知数字，就能得到结果。但是，你真的不想独立完成数独吗？@Appinn 事情是这样的，今天早上，群里的同学突然发来一个图，说：等一个数独大佬，中午饭就靠",
+          "link": "https://www.appinn.com/sudoku-solver-online/",
+          "publishedOn": "2022-07-25T04:52:19.000Z",
+          "wordCount": 1618,
+          "title": "数独解算器 – 在线解数独，你真的不想独立完成数独吗？",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/07/appinn-2022-07-25t123910-070.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42814",
           "author": "青小蛙",
           "description": "来自发现频道，@kzf 同学发布了自己小工具：代码片段管理工具。 自荐一个我用ahk写的代码片段工具，如果是ahk语言则可以直接执行 特点： 界面简洁 操作方便，可以选择复制、发送、执行 备份文件是x",
@@ -135,16 +155,6 @@
           "wordCount": 1971,
           "title": "PeakFinder – 群山在召唤，超过 95 万座山峰，360°全景显示[iPhone/Android]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/07/appinn-2022-07-17t165625-460.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42743",
-          "author": "青小蛙",
-          "description": "MagicPods 是一款 Windows 下的付费应用（可试用），它能为 Windows 提供 iOS 般的 AirPods 体验，给你的 AirPods 添加一点魔法。@Appinn 来自发现频道",
-          "link": "https://www.appinn.com/magicpods/",
-          "publishedOn": "2022-07-16T09:13:06.000Z",
-          "wordCount": 2154,
-          "title": "MagicPods – 为 Windows 提供魔法般的 AirPods 体验",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/07/magicpods.jpgo_.jpg"
         }
       ]
     },
@@ -182,16 +192,6 @@
           "wordCount": 925,
           "title": "Logical Properties for Useful Shorthands",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367064"
-        },
-        {
-          "id": "https://css-tricks.com/?p=366993",
-          "author": "Geoff Graham",
-          "description": "Say you have a line in SVG:\n<svg<line x1=\"0\" y1=\"30\" x2=\"500\" y2=\"30\" stroke-color=\"#f8a100\" /</svg\nYou can use the stroke-dasharray property in CSS to make dashes:\nline {\n  stroke-dasharray: 5;\n}\nThat 5 value is a relative unit based …\nHow stroke-dasharray Patterns Work originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-stroke-dasharray-patterns-work/",
-          "publishedOn": "2022-07-15T19:43:40.000Z",
-          "wordCount": 1020,
-          "title": "How stroke-dasharray Patterns Work",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/366993"
         }
       ]
     },
@@ -234,6 +234,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72250",
+          "author": null,
+          "description": "WSJ 援引知情人士的消息报道，马斯克(Elon Musk)去年秋天与 Google 联合创始人布林(Sergey Brin)的妻子发生了短暂的婚外情，这促使布林在今年早些时候提出离婚，两位科技亿万富豪的长期友谊也随之终结。报道称，布林已指示其财务顾问出售他在马斯克旗下公司的个人投资。马斯克随后否认了这一报道，声称他与布林仍然是朋友关系。",
+          "link": "https://www.solidot.org/story?sid=72250",
+          "publishedOn": "2022-07-25T15:11:28.000Z",
+          "wordCount": 149,
+          "title": "马斯克否认与布林妻子有婚外情",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72249",
+          "author": null,
+          "description": "芯片巨人在美国时间周一宣布将为联发科生产芯片。联发科是第四大无晶圆厂芯片设计公司，高于 AMD，次于博通、英伟达和高通。联发科去年的收入高达 176 亿美元，同比增长  61%。除了设计智能手机芯片，联发科还设计用于汽车、Chromebook、平板、网络产品，以及物联网和智能家居设备使用的芯片。英特尔表示这笔交易将给予联发科更富有弹性的供应链。英特尔代工的是联发科 smart edge 产品使用的芯片。这笔交易将代表着东方设计西方制造的新趋势。",
+          "link": "https://www.solidot.org/story?sid=72249",
+          "publishedOn": "2022-07-25T14:08:07.000Z",
+          "wordCount": 151,
+          "title": "英特尔将为联发科生产芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72248",
+          "author": null,
+          "description": "1990 年发射的哈勃望远镜已服役 32 年，它的继任者韦伯望远镜已在去年底发射并成为今年天文学的明星。哈勃位于地球大气层之上，轨道高度 559 公里，而韦伯则运行在地球和太阳之间的拉格朗日 L2 点，距离地球 150 万公里。康奈尔大学天文学家 Nikole Lewis 表示，我们仍然需要哈勃望远镜，因为哈勃拥有韦伯缺乏的观测能力。她研究系外行星，需要在可见光和紫外光波长上去解密系外行星的云雾——韦伯在此类波长上并不擅长。韦伯是哈勃的继任者，并不是接替者，它们能互相合作，哈勃仍然能工作十年。",
+          "link": "https://www.solidot.org/story?sid=72248",
+          "publishedOn": "2022-07-25T13:56:49.000Z",
+          "wordCount": 156,
+          "title": "我们仍然需要哈勃望远镜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72247",
+          "author": null,
+          "description": "核电供应了法国七成的电力需求，但它的 56 座核反应堆中逾半数关闭，原因是维修以及老化相关的腐蚀问题。如今极端高温天气有可能对其发电量进一步产生影响。气候通常对核电的影响微乎其微，但今年的高温情况不同，反应堆使用河水冷却，但为防止冷却后的热水危及野生动植物，反应堆的发电受到了限制。国有的法国电力公司估计，由于发电减少它在 2022 年收入减少可能高达 185 亿欧元。",
+          "link": "https://www.solidot.org/story?sid=72247",
+          "publishedOn": "2022-07-25T11:45:17.000Z",
+          "wordCount": 150,
+          "title": "高水温影响法国核电发电量",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72246",
+          "author": null,
+          "description": "央行数字货币研究所所长穆长春在周日召开的会议上发表演讲，表示央行数字货币不会具有完全匿名性。穆长春称，为维护金融安全和稳定，各国中央银行、国际组织在探索央行数字货币的匿名性时均将防范风险作为重要前提，对于无法满足反洗钱、反恐怖融资及反逃税等要求的设计将被一票否决。“完全匿名从来不在各国央行数字货币的考虑范畴之内，只有在符合反洗钱和反恐怖融资等监管要求前提下的有限匿名才是国际共识。”“在数字货币时代，无论交易金额大小，其交易成本基本相同。现钞不便于携带的特点反而对洗钱和恐怖融资等行为增加了摩擦。所以，对现钞的匿名性的容忍度也相对较高。央行数字货币便携性更强，如果提供与现钞同样的匿名性，将极大地便利洗钱等不法交易行为。因此，央行数字货币不应具有与现钞同等的匿名性。”传统货币具有匿名性，而数字加密货币的匿名性一直存疑，比特币等曾宣传过匿名性但很快被证明并不存在。",
+          "link": "https://www.solidot.org/story?sid=72246",
+          "publishedOn": "2022-07-25T11:02:50.000Z",
+          "wordCount": 144,
+          "title": "央行数字货币不会具有完全匿名性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72244",
+          "author": null,
+          "description": "北京时间 2022 年 7 月 24 日 14 时 22 分，搭载问天实验舱的长征五号B遥三运载火箭，在海南文昌航天发射场成功发射，7 月 25 日 3 时 13 分成功对接核心舱，空间站宇航员 10 时 03 分进入问天实验舱。问天实验舱是中国空间站第二个舱段，也是首个科学实验舱。问天实验舱由工作舱、气闸舱和资源舱组成，长 17.9 米直径 4.2 米，起飞重量约 23 吨，主要用于支持航天员驻留、出舱活动和开展空间科学实验，同时可作为天和核心舱的备份，对空间站进行管理。",
+          "link": "https://www.solidot.org/story?sid=72244",
+          "publishedOn": "2022-07-25T08:03:57.000Z",
+          "wordCount": 171,
+          "title": "问天实验舱与天宫空间站成功对接",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72243",
+          "author": null,
+          "description": "在俄罗斯举行的一次国际象棋比赛中，一位与儿童棋手对弈的机器人棋手弄伤了对方的手指，原因是他还没有轮到时抢着出棋，而安装有机械臂的机器人显然缺乏相应的程序，它伸出手臂紧紧按住其手指，直到成年人过来干预拉出手指。发布在 Baza Telegram 频道上的视频展现了这一罕见的事故。这位儿童参加的九岁以下年龄组的比赛，他的名字叫 Christopher，在事故后手指打上石膏，继续参加并完成了比赛。他的父母据报道联络了公诉人办公室。国际象棋大师 Sergey Karjakin 认为是软件错误导致了此次事故。",
+          "link": "https://www.solidot.org/story?sid=72243",
+          "publishedOn": "2022-07-25T07:22:11.000Z",
+          "wordCount": 151,
+          "title": "国际象棋机器人弄伤了对弈儿童的手指",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72242",
+          "author": null,
+          "description": "三星申请在德州建 11 座芯片工厂： 2 座在奥斯汀，9 座在 Taylor，总开支预计将高达 2000 亿美元。三星并没有承诺完全兑付这些芯片工厂建造计划。在这之前，美国正在制定补贴芯片行业的法案，被认为主要有利于在美国有芯片工厂的公司如英特尔。三星目前在奥斯汀有一座芯片工厂，正在建造另一座，并开始在 Taylor 建造一座工厂。",
+          "link": "https://www.solidot.org/story?sid=72242",
+          "publishedOn": "2022-07-25T06:24:43.000Z",
+          "wordCount": 162,
+          "title": "三星申请在德州建 11 座芯片工厂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72241",
+          "author": null,
+          "description": "中国在建设新的芯片工厂方面处于世界前列。根据芯片行业组织国际半导体产业协会(SEMI)的数据，在截至 2024 年的四年里，中国计划建设 31 家大型半导体工厂。这超过了同期台湾和美国准备上线的芯片工厂数量。台湾准备上线工厂数量排名第二，为 19 家，美国预计有 12 家。中国有很大一部分项目是为了生产更成熟制程的芯片，成熟制程芯片中有许多目前需求量最大的处理器，比如执行无数基本功能的微控制器等芯片，以及广泛用于汽车、智能手机和其他电子产品的电源芯片。大部分电子产品不需要使用先进制程芯片。",
+          "link": "https://www.solidot.org/story?sid=72241",
+          "publishedOn": "2022-07-25T05:26:15.000Z",
+          "wordCount": 152,
+          "title": "中国加快建造芯片工厂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72240",
+          "author": null,
+          "description": "梅赛德斯-奔驰公司邀请媒体记者试驾了它的电动概念车 Vision EQXX，其单次充电的行驶里程超过 1200 公里。EQXX 虽然叫概念车，但实际上更接近工程原型，其外形设计致力于减少空气阻力，轴距 2.8 米，宽 1.87 米，车顶弧线 1.348 米，其正面面积只有 2.12 平方米，阻力系数 0.17，为阻力最低的汽车之一。它的后门不能打开，也没有后窗，而是安装了 300 瓦太阳能面板。多家媒体都发表了试驾评估报告。",
+          "link": "https://www.solidot.org/story?sid=72240",
+          "publishedOn": "2022-07-25T05:18:02.000Z",
+          "wordCount": 172,
+          "title": "奔驰电动概念车单次充电行驶里程逾 1200 公里",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72239",
+          "author": null,
+          "description": "美国正在制定补贴半导体行业的芯片法案，以振兴本土半导体制造业。上周美国参议院通过了程序性投票，反对者包括了 31 名共和党参议员和民主党议员 Bernie Sanders。佛蒙特州的 Sanders 等人认为这些补贴事实上变成了企业福利。他说，相关企业给他们的首席执行官支付了惊人的薪酬奖励，数以十亿美元计的资助变成了企业福利。",
+          "link": "https://www.solidot.org/story?sid=72239",
+          "publishedOn": "2022-07-25T03:41:12.000Z",
+          "wordCount": 168,
+          "title": "31 名共和党参议员和 Bernie Sanders 反对半导体补贴法案",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72238",
           "author": null,
@@ -1123,36 +1233,6 @@
           "wordCount": 193,
           "title": "Android 移除大部分 Fuchsia 相关代码",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72147",
-          "author": null,
-          "description": "微软安全团队披露了一个以中小企业为勒索目标的朝鲜黑客组织 DEV-0530，该组织自称 H0lyGh0st，使用同名勒索软件入侵企业勒索赎金。DEV-0530 采用的策略和其它勒索软件组织类似，维护了一个 .onion 暗网网站与受害者沟通，在入侵之后，用扩展名  .h0lyenc 加密文件，然后索要比特币赎金。该组织也采用了双重勒索，威胁在社交网络披露企业数据或将数据发送给其客户。微软认为 DEV-0530 与朝鲜黑客组织 PLUTONIUM (aka DarkSeoul 或 Andariel)有关联，该组织使用了 PLUTONIUM 开发的工具。",
-          "link": "https://www.solidot.org/story?sid=72147",
-          "publishedOn": "2022-07-16T15:48:19.000Z",
-          "wordCount": 160,
-          "title": "微软披露朝鲜黑客组织利用勒索软件获取赎金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72146",
-          "author": null,
-          "description": "Tor 项目释出了 Tor Browser 11.5。主要新特性包括：Connection Assist 会根据用户的位置自动配置最佳的网桥，它会在征询用户同意后基于位置下载最新列表，该功能利用了域前置工具 moat；重新设计了 Tor 网络设置；默认启用 HTTPS-Only 模式，不再需要 HTTPS-Everywhere 扩展；改进字体支持；更新到 Firefox 91.11.0esr、OpenSSL 1.1.1q、Tor-Launcher 0.2.37 等等。",
-          "link": "https://www.solidot.org/story?sid=72146",
-          "publishedOn": "2022-07-16T15:00:44.000Z",
-          "wordCount": 174,
-          "title": "Tor Browser 11.5 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72145",
-          "author": null,
-          "description": "美国的宽带标准落后于其它发达国家，当一些国家的宽带速度能达到 10Gbps 上传下载，美国的宽带标准是下载速度 25 Mbps 上传速度 3 Mbps。该标准是在 2015 年采用的，在共和党籍的 FTC 主席 Ajit Pai 任职期间没有更新，Ajit Pai 的理由是这个网速足够快了。现在民主党籍主席 Jessica Rosenworcel 提议将宽带标准提高到下载 100Mbps 上传 20Mbps。她认为 25/3 标准不仅过时而且有害，低收入和农村地区落在后面，而在新冠疫情期间生活中的很大一部分东西都转移到网上。",
-          "link": "https://www.solidot.org/story?sid=72145",
-          "publishedOn": "2022-07-16T14:25:45.000Z",
-          "wordCount": 190,
-          "title": "美国 FTC 主席提议将宽带最低标准提高到下载 100Mbps 上传 20Mbps",
-          "imageUrl": null
         }
       ]
     },
@@ -1209,28 +1289,7 @@
       "title": "思考问题的熊",
       "feedUrl": "https://kaopubear.top/blog/atom.xml",
       "siteUrl": "https://kaopubear.top/blog",
-      "articles": [
-        {
-          "id": "https://kaopubear.top/blog/2022-07-16-book-software-engineering-at-google/",
-          "author": null,
-          "description": "《Google软件工程》这本书朋友推荐给我的时候内心里是懵的，咱就是说就我这coding level可万万不敢看狗哥软件工程。结果对方表示可以「少量多次，温水送服，按需阅读，比如只看第二部分」。\n本着看看又不吃亏的原则，在物流原因买不到中文版的情况下还是忍不住看了一小章英文。\n先说结论：这书，得推荐。\n就算你完全不写代码，只要所在的实验室、团队或者公司涉及到软件相关或者扩大到脑力劳动和知识管理相关的工作，这书都应该读（至少第二部分）。\n为什么学习和分享会是挑战\n比如，你可以在这本写软件工程的书里搞清楚为什么在一个组织内部学习和分享会变成一种挑战。\n在第二部分的第三章「Knowledge Sharing」，首先写了Google总结出的6条为什么在一个组织内部学习和分享会变成一种挑战的原因，包括：缺乏心理安全、存在信息孤岛和存在有或无专长等等。\n为了不剧透就稍微扩展一点。\n信息孤岛的存在会客观上带来三个问题：信息碎片化（每个岛屿对于整体都有不完整的描述）、信息重复（每个岛屿都重新发明了自己的做事方式）和信息偏倚（每个岛屿做同一件事情的方法可能并不完全兼容）。\n而所谓「有或无专长」，则是组织内部被分成两类成员，一派是“无所不知”的人，另一派则是菜鸟，但是很少有中间状态。\n如果专家总是自己做每一件事，而不花时间通过指导或文档来培养新的专家，这个问题往往会加剧。在这种情况下，知识和责任继续积累在那些已经拥有专业知识的人身上，而新成员或新手只能自己照顾自己，并以缓慢的速度成长。\n如何营造一个心理安全的空间\n如何应对这些问题呢？仅举例如何营造一个相对心理安全的空间，书中提到了几种推荐模式和反对模式。\n**推荐模式（合作）**包括：\n基础问题或错误需要被引导到正确的方向上\n解释的目的是为了帮助提出问题的人学习\n回应是亲切的、耐心的、有帮助的\n互动是通过共同讨论来寻找解决方案\n**反对模式（对抗）**包括：\n挑剔基础问题或错误，并责备提问的人\n解释的目的是为了炫耀自己的知识\n回应是居高临下、刻薄、没有建设性的\n互动是有「赢家」和「输家」的争论\n不过，需要注意的是，反对模式往往都是在无意中出现的：有人可能试图提供帮助，但却意外看起来不受欢迎。Google在实际操作中，发现Recurse中心提供的三条社交规则，在组织内部很有帮助。\n不要假装惊讶。 不要说「什么，我不相信你不知道……」这样的话。当人们说他们不知道一些事情时，你不应该表现出惊讶的样子。因为假装惊讶通常是为了让自己感觉更好而让别人感觉更糟。即使这不是目的，也总是最终的效果。\n不要轻易说「好吧，实际上」。 当对方说的内容几乎是正确的但又不完全正确时，不要轻易说「好吧，实际上是…」然后给出一个小更正。尤其是当纠正对实际对话不会产生影响时。\n不在后座上开车。 无意中听到别人在解决问题时，不应该断断续续地半参与对话。打断现有讨论又不投入到对话中的行为就像是坐在后座上开车。提供帮助和建议以及加入对话，这些都是被提倡和鼓励的，只是想帮助他人或与他人合作时，应该全力以赴而不是偶尔插手。\n另外，在这一部分里，还写到了如何在组织中学习和分享等一系列话题。粗粗浏览感觉就很受用，如果看了上述部分让你产生了一点兴趣，也不妨找到这本书来读读。\n本文作者：思考问题的熊\n版权声明：本博客所有文章除特别声明外，均采用 知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议 (CC BY-NC-ND 4.0) 进行许可。",
-          "link": "https://kaopubear.top/blog/2022-07-16-book-software-engineering-at-google/",
-          "publishedOn": "2022-07-16T05:24:26.000Z",
-          "wordCount": 114,
-          "title": "在《Google软件工程》里了解如何在团队内进行学习和分享",
-          "imageUrl": null
-        },
-        {
-          "id": "https://kaopubear.top/blog/2022-07-16-credit-a-team-member/",
-          "author": null,
-          "description": "<p>身处一个团队（部门）中，合作是每一个项目顺利推进开展都必不可少的工作方式。但如何合理展示和评价每一个人的贡献，让每个人都能看到自己的价值，却不是一件容易的事。</p>",
-          "link": "https://kaopubear.top/blog/2022-07-16-credit-a-team-member/",
-          "publishedOn": "2022-07-16T05:19:12.000Z",
-          "wordCount": 180,
-          "title": "如何衡量个人在团队项目中的贡献",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "reuixiy",
