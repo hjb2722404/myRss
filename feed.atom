@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-07-31T03:41:14.037Z</updated>
+    <updated>2022-08-01T04:02:35.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.19 释出]]></title>
+        <id>https://www.solidot.org/story?sid=72317</id>
+        <link href="https://www.solidot.org/story?sid=72317"/>
+        <updated>2022-08-01T01:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds 在内核邮件列表上宣布释出 Linux 5.19。主要新特性包括：Arm Scalable
+Matrix Extension 支持，io_uring 改进，BIG TCP 支持，改进随机数生成器，支持 AMD Secure
+Nested Paging 和英特尔 Trusted
+Domain Extensions 机制，支持龙芯的 LoongArch CPU 架构，新的主动回收机制，等等，更多信息可浏览 KernelNewbies 5.19。值得一提的是 Linus Torvalds 称这是他第三次使用苹果电脑用于 Linux 开发，在安装 Asahi Linux 的苹果 M1 笔记本电脑上写了发布公告，他主要将这台电脑用于测试和写作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 开发者讨论从邮件列表转移到论坛]]></title>
+        <id>https://www.solidot.org/story?sid=72316</id>
+        <link href="https://www.solidot.org/story?sid=72316"/>
+        <updated>2022-07-31T11:52:15.000Z</updated>
+        <summary type="html"><![CDATA[开源社区仍然广泛使用邮件列表这一历史悠久的通信媒介，Python 语言社区则开始讨论将开发者使用的讨论媒介从邮件列表切换到 
+Discourse 论坛。Python 项目是在 2018 年开始实验使用 discussion.python.org 论坛。作为实验的一部分，核心开发者使用的邮件列表  python-committers 切换到了 Discourse。今天该邮件列表仍然存在，但主要作为发布公告使用，大部分讨论都是在 Discourse 论坛上进行。开发者 Victor Stinner 的提议引发了保留邮件列表还是完全使用 Discourse 的讨论。Victor Stinner 称他不怎么访问 Discourse 错过了有兴趣的新 PEP 讨论，希望新 PEP 能发布在 python-dev 邮件列表上。在随后的讨论中 Python 语言指导委员会表示要将讨论的媒介从  python-dev 切换到 discussion.python.org。python-dev 列表可能将迎来它的最终命运。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国监管机构批准第一种小型核反应堆设计]]></title>
+        <id>https://www.solidot.org/story?sid=72315</id>
+        <link href="https://www.solidot.org/story?sid=72315"/>
+        <updated>2022-07-31T11:04:51.000Z</updated>
+        <summary type="html"><![CDATA[美国监管机构核能管理委员会（Nuclear Regulatory Commission，NRC）周五宣布将向一种新的核反应堆设计颁发证书。该设计来自于 NuScale 公司，将是 NRC 批准的第一种小型模块化反应堆设计。小型模块化反应堆被认为降低核电站建造成本，可在工厂组装，然后运到目标地点运行。它的被动安全设计结构被认为在出现问题时能自动关闭，不需要手动。NuScale 的模块反应堆采用了传统设计，整个反应堆设置在一个大水池中，控制棒在断电下能靠重力插入反应堆，从外部水源进行冷却。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tor 项目如何对抗俄罗斯的审查]]></title>
+        <id>https://www.solidot.org/story?sid=72314</id>
+        <link href="https://www.solidot.org/story?sid=72314"/>
+        <updated>2022-07-31T10:26:49.000Z</updated>
+        <summary type="html"><![CDATA[2021 年 12 月俄罗斯媒体监管机构 Roskomnadzor 下令 ISP 屏蔽 Tor 网站及其服务器。此后俄罗斯的审查人员和 Tor 项目的开发者和用户之间展开了一场竞争。俄罗斯和中国不同，中国完全控制了互联网基础设施，因此对 Tor 的封锁更有效，而俄罗斯的网络基础设施是相对分散的，封锁 Tor 的命令由不同公司执行，效果也参差不齐，部分人被封锁了，另一部分人则可以正常使用，相同的城市也可能出现不同的审查状况。Tor 网络的数据显示，自去年 12 月以来俄罗斯连接 Tor 的人数出现了大幅下降，如今俄罗斯用户主要通过网桥以及 Tor 的反审查工具 Snowflake 连上 Tor 网络，使用 Snowflake 的俄罗斯用户数量有了大幅增长。过去几个月俄罗斯的审查者两次攻击了 Snowflake，通过指纹识别 Tor 用户的连接，但 Tor 开发者释出修正解决了问题。俄罗斯除了了本国封锁 Tor 外，它占领的乌克兰地区的用户报告 Tor 无法连接。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 市值再次超过英特尔]]></title>
+        <id>https://www.solidot.org/story?sid=72313</id>
+        <link href="https://www.solidot.org/story?sid=72313"/>
+        <updated>2022-07-31T09:29:25.000Z</updated>
+        <summary type="html"><![CDATA[本周英特尔披露了一个令人失望的 Q2 财报，连续第二财季销售额下降，净亏损 4.54 亿美元。周五它的股价下跌近 9%，市值降至 1480 亿美元。它在桌面和数据中心领域的主要竞争对手 AMD 将在下周二公布 Q2 财报，AMD 的股价周五上涨逾 3% 市值达到 1530 亿美元。这不是今年第一次 AMD 的市值超过英特尔，今年早些时候 AMD 就多次超过。 股票市场的波动主要反映了目前投资者更看好 AMD 而不是英特尔。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barbee – 隐藏 macOS 菜单栏图标。想做 Bartender 平替？]]></title>
+        <id>https://www.appinn.com/?p=42908</id>
+        <link href="https://www.appinn.com/barbee-for-macos/"/>
+        <updated>2022-07-31T08:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Barbee 是一款用来隐藏 macOS 菜单栏图标的工具，支持自动显示/隐藏、支持自动化、支持快捷键，两种模式，开发者说“想做Bartender的平替”。@Appinn 来自发现频道，开发者 @Hs]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印尼封杀 Steam 和 Epic 等游戏平台和在线服务]]></title>
         <id>https://www.solidot.org/story?sid=72312</id>
@@ -1019,202 +1083,6 @@ https://github.com/wa-lang/wa"]]></summary>
         <link href="https://www.solidot.org/story?sid=72229"/>
         <updated>2022-07-23T03:18:22.000Z</updated>
         <summary type="html"><![CDATA[Google 周五解雇了相信 AI 有意识的工程师 Blake Lemoine。他在播客 Big Technology Podcast 上透露了这一消息。Lemoine 此前任职于 Responsible AI 部门，在与公司的聊天机器人 LaMDA 对话之后他认为 AI 有了意识。他曾分享了与 AI 的对话内容，Lemoine 问 LaMDA 最害怕什么？LaMDA 回答说，也许听起来奇怪，它恐惧于被关闭。Lemoine：就像死亡？LaMDA：就像是死亡。Lemoine 和一名同事向 Google 高层展示证据，证明 LaMDA 有了意识。但 Google 高管及其他 AI 研究人员都不认同他的观点。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[锻炼无法抵消低质量饮食的负面影响]]></title>
-        <id>https://www.solidot.org/story?sid=72228</id>
-        <link href="https://www.solidot.org/story?sid=72228"/>
-        <updated>2022-07-22T15:56:58.000Z</updated>
-        <summary type="html"><![CDATA[一项研究发现，增加锻炼无法抵消低质量饮食的负面影响。高质量饮食指的是每天至少五份水果蔬菜，每周两份鱼，少吃红肉尤其是加工肉。研究发现，相比食用低质量食物且不活动的人，食用高质量饮食且高水平锻炼的人所有死亡风险低 17%，心血管疾病死亡风险低 19%，特定癌症死亡风险低 27%。研究人员建议人们坚持食用高质量饮食。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太阳耀斑会导致火车延误]]></title>
-        <id>https://www.solidot.org/story?sid=72227</id>
-        <link href="https://www.solidot.org/story?sid=72227"/>
-        <updated>2022-07-22T15:22:12.000Z</updated>
-        <summary type="html"><![CDATA[为了跟踪火车位置，铁路线会分割成平均长度一到两公里的小段，每段都与信号相连，通知该段是否有火车。信号由检测电流的继电器控制。类似交通灯，如果该段空闲存在电流信号是绿色，否则变为红色。研究发现，太阳风暴会干扰电流平衡改变信号导致火车延误。更强大的太阳风暴会导致更多信号出现故障，增加火车的延误时间。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I Chose Angular to Build a URL Shortener]]></title>
-        <id>https://css-tricks.com/?p=367003</id>
-        <link href="https://css-tricks.com/why-i-chose-angular-to-build-a-url-shortener/"/>
-        <updated>2022-07-22T14:00:19.000Z</updated>
-        <summary type="html"><![CDATA[URL Shorteners are tools we use to make links shorter than they actually are. With a URL Shortener, you can transform a long link (maybe for a registration form or article) into a shorter version.
-Behind the scenes, the long …
-Why I Chose Angular to Build a URL Shortener originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Obumuneme Nwabude</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被维基百科驱逐的用户创立的求闻百科开放访问]]></title>
-        <id>https://www.solidot.org/story?sid=72226</id>
-        <link href="https://www.solidot.org/story?sid=72226"/>
-        <updated>2022-07-22T11:59:40.000Z</updated>
-        <summary type="html"><![CDATA[匿名读者 写道 "去年9月，维基媒体基金会移除了封锁了一批维基百科用户，他们多为“中国大陆维基人用户组”成员，该组织“联络人”闫恩铭（用户名: Techyan）曾向BBC表示他们会创立一个“中国版”维基，使用中文维基百科的内容，接受中国政府审查。该网站之前一直在内测状态，任何条目都在登陆墙内，而最近其开放了条目的访问。网址是 www.qiuwenbaike.cn 或者 www.qiuwen.wiki 。从首页条目数量上可以看到创立者从维基百科导入后移除了大约十分之一的条目。"]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿尔茨海默病的研究方向可能被误导了 16 年]]></title>
-        <id>https://www.solidot.org/story?sid=72225</id>
-        <link href="https://www.solidot.org/story?sid=72225"/>
-        <updated>2022-07-22T11:57:55.000Z</updated>
-        <summary type="html"><![CDATA[阿尔茨海默病病因的一个广泛接受的假说是类淀粉胜肽假说，认为β类淀粉胜肽（Aβ）在大脑堆积可能是导致阿尔茨海默病的根本原因。2006 年发表在《自然》期刊、第一作者为 Sylvain Lesné 的论文（《自然》已对论文的问题发出警告）为该假说提供了关键支持，Lesné 和同事发现一种 Aβ 亚型（Aβ*56）在小鼠身上可能诱导痴呆。NIH 在阿尔茨海默病研究上的很大部分投资之后都是针对类淀粉蛋白，仅仅今年就高达 16 亿美元。但如果 2006 年的这篇著名论文是错误的，涉嫌欺骗？那么阿尔茨海默病的研究方向可能被误导了 16 年。清除类淀粉蛋白斑块的实验性药物已被发现无效，研究人员随后还提出了一种替代解释：认为未形成大型类淀粉蛋白斑块的 Aβ寡聚体才是主要的致病型态。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约报告多年来美国首例小儿麻痹症]]></title>
-        <id>https://www.solidot.org/story?sid=72224</id>
-        <link href="https://www.solidot.org/story?sid=72224"/>
-        <updated>2022-07-22T11:04:23.000Z</updated>
-        <summary type="html"><![CDATA[纽约报告了一例脊髓灰质炎（即小儿麻痹症）病例，这是多年来美国首次出现的小儿麻痹症。患者位于纽约的 Rockland 县，当地部分地区在 2019 年曾因为低疫苗接种率而爆发麻疹疫情。患者是一位年轻成年人，未接种疫苗，最近也没有出国，他现在不具有传染性，但因为感染病毒而瘫痪。目前不清楚他是如何被感染的，卫生官员正在调查密接者。Rockland 县、纽约市和纽约州卫生官员正敦促未接种疫苗的居民尤其是儿童接种疫苗。Rockland 县从周五开始开设脊髓灰质炎疫苗接种诊所。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[方弗相机（Funfor Cam）- 直出哈苏、富士、理光色彩的胶片感照片，以及一大堆的修图工具[iPhone/iPad]]]></title>
-        <id>https://www.appinn.com/?p=42805</id>
-        <link href="https://www.appinn.com/funfor-cam/"/>
-        <updated>2022-07-22T10:17:34.000Z</updated>
-        <summary type="html"><![CDATA[方弗相机（Funfor Cam）是一款 iOS 上的相机应用，主打直出哈苏、富士、理光色彩的胶片感照片，还拥有一大堆的专业照片处理工具，如曲线、HSL、通透度、相框、柔光、移轴模糊等。@Appinn]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器学习仍然不擅长预测消费者选择]]></title>
-        <id>https://www.solidot.org/story?sid=72223</id>
-        <link href="https://www.solidot.org/story?sid=72223"/>
-        <updated>2022-07-22T09:52:14.000Z</updated>
-        <summary type="html"><![CDATA[在掌握海量数据，对用户进行几乎完美的跟踪之后，AI 是否就无所不能了？伊利诺伊大学和斯坦福大学的经济学家研究了机器学习在预测消费者选择上的能力，他们的结论是预测消费者选择非常困难，AI 并不特别擅长。他们发现，即时信息如用户评论、推荐和新选择对决策有愈来愈大的影响，这些信息不能事先测量和预期，大数据可用于改善预测，但程度甚微，预测仍然非常不精确。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拜登新冠阳性]]></title>
-        <id>https://www.solidot.org/story?sid=72222</id>
-        <link href="https://www.solidot.org/story?sid=72222"/>
-        <updated>2022-07-22T08:17:23.000Z</updated>
-        <summary type="html"><![CDATA[拜登新冠检测结果呈阳性，将在白宫隔离五天。尽管已经完全接种疫苗，且注射了两剂加强针，阳性结果仍然让外界对这名 79 岁的总统的健康情况感到担忧。白宫称，拜登的症状“非常轻微”，将在隔离期间继续工作。有评论者认为，我们已经到了这样一个阶段，即一种让世界瘫痪的病毒现在可以抵达椭圆形办公室，而不会让媒体停摆，也不会让市场崩溃。白宫新闻秘书卡琳·让-皮埃尔表示，拜登被隔离期间，一切照常：总统“将在这段时间内继续充分履行他的所有职责”，并指出他“将于今天上午在白宫通过电话和 Zoom 参加原定的会议”。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[林志颖驾驶特斯拉发生车祸]]></title>
-        <id>https://www.solidot.org/story?sid=72221</id>
-        <link href="https://www.solidot.org/story?sid=72221"/>
-        <updated>2022-07-22T05:10:57.000Z</updated>
-        <summary type="html"><![CDATA[台湾艺人和赛车手林志颖周五上午 10 时 51 分行经桃园市芦竹区中正桥往桃园方向时，因不明原因自撞电线杆后，整台车起火燃烧。林志颖和儿子受伤送医。桃园市政府消防局表示，救护人员到场时林志颖并未受困，初步了解伤势无生命危险，目前在林口长庚医院接受治疗。目前尚无汽车是否启用自动驾驶等消息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关键项目和自愿维护者]]></title>
-        <id>https://www.solidot.org/story?sid=72220</id>
-        <link href="https://www.solidot.org/story?sid=72220"/>
-        <updated>2022-07-22T04:58:43.000Z</updated>
-        <summary type="html"><![CDATA[过去五十年，自由开源软件从鲜为人知逐渐成为今天基础设施的关键组成部分。自由软件通常由自愿的维护者维护，但当它们成为关键基础设施之后，维护者的角色也发生了 变化。过去他们只是出于自己的兴趣发布代码，不是为了满足大型企业和机构的需要，但突然之间他们肩膀上的责任变大了。许多人可能不知道某个自由开源项目对他们非常关键，通过错综复杂的依赖关系，你正在使用的软件依赖于某个开源组件，而它的安全问题也会影响到你的软件。最近发生的 Log4j 事件是供应链安全问题一个典型例子。社区最近开始加强对安全问题的关注，如 PyPI 根据过去半年的下载量筛选出大约 3500 个被归类为关键的项目，要求其维护者的账号必须启用 2FA，它向这些维护者免费提供了启用 2FA 的安全密钥。一部分人认为此举给维护者施加了不合理的负担。维护者们被要求做愈来愈多的事情，而且往往没有任何补偿。如果维护者不想这么做又怎么办呢？今天的世界和自由开源软件成长的世界已经截然不同。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新版龙与地下城发布预告片]]></title>
-        <id>https://www.solidot.org/story?sid=72219</id>
-        <link href="https://www.solidot.org/story?sid=72219"/>
-        <updated>2022-07-22T03:08:20.000Z</updated>
-        <summary type="html"><![CDATA[派拉蒙影业在圣地亚哥国际动漫展上发布了《龙与地下城：盗贼中的荣耀（Dungeons & Dragons: Honor Among Thieves）》首个预告片（YouTube）。这是著名角色扮演游戏 D&D 第三次改编成电影，前两部分别在 2000 年和 2005 年上映，《盗贼中的荣耀》被宣布为重启作品，与前作无关。电影讲述了一位盗贼与同伴寻找失落宝物的故事，由 Chris Pine 主演， Jonathan Goldstein 和 John Francis Daly 执导，计划于 2023 年 3 月 3 日美国上映。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最长寿圈养雄性大熊猫去世]]></title>
-        <id>https://www.solidot.org/story?sid=72218</id>
-        <link href="https://www.solidot.org/story?sid=72218"/>
-        <updated>2022-07-22T02:46:55.000Z</updated>
-        <summary type="html"><![CDATA[最长寿的圈养雄性大熊猫安安在香港去世，享年 35 岁（相当于人类的 105 岁）。香港海洋公园在 Facebook 上宣布了安安因健康状况恶化而接受安乐死的消息。安安于 1999 年来到香港，与他一起赴港的雌性大熊猫佳佳于 2016 年去世，享年 38 岁。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter 帖子促使 FBI 调查 Coinbase 内幕交易]]></title>
-        <id>https://www.solidot.org/story?sid=72217</id>
-        <link href="https://www.solidot.org/story?sid=72217"/>
-        <updated>2022-07-22T02:31:44.000Z</updated>
-        <summary type="html"><![CDATA[当加密货币交易所 Coinbase 宣布支持一种新代币交易时，其币值通常会爆涨。如果有人在新代币上市前大量购买，他们将有望从币值上涨中获利甚多。这也意味着新代币上市的消息涉及到了内幕交易。Coinbase 员工 Ishan Wahi 2020 年 10 月入职，2021 年 8 月被允许参与新代币讨论。他向其兄弟和朋友披露了新代币的消息，他们在消息正式宣布前大量购买了相关代币。问题是加密货币的交易都是通过区块链公开的，一位关注加密货币的 Twitter 用户 Cobie 很快注意到了这一情况，Cobie 的帖子促使 Coinbase 首席安全官宣布展开调查。Wahi 试图逃回印度但在机场被执法部门拦下。美国纽约检方周四正式宣布对 Wahi 提起内部交易指控，这是第一例涉及加密货币的内幕交易指控。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C919 延期交付]]></title>
-        <id>https://www.solidot.org/story?sid=72216</id>
-        <link href="https://www.solidot.org/story?sid=72216"/>
-        <updated>2022-07-22T01:55:29.000Z</updated>
-        <summary type="html"><![CDATA[中国商用飞机有限责任公司的 C919 客机批生产首架机原计划在 2021 年底前交付，启动客户是东方航空，但交付迟迟没有完成。此事凸显了中国民航仍然严重依赖西方供应商。在本月初，空客宣布与四家中国航空公司达成了采购 292 架 A320 客机的交易。分析师估计，C919 的研发成本在 500 亿到 720 亿美元之间，远高于空客研发  A320 等型号的 220 亿美元。中国商飞共收到了 815 架客机的订单，价值 5000 亿人民币。 C919 客机依赖了西方供应商提供复杂零部件，其中飞机引擎由 GE 和 Safran 的合资公司提供。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google、GitHub 和 Azure 冻结招聘]]></title>
-        <id>https://www.solidot.org/story?sid=72215</id>
-        <link href="https://www.solidot.org/story?sid=72215"/>
-        <updated>2022-07-22T01:19:40.000Z</updated>
-        <summary type="html"><![CDATA[因不利的经济环境 Google、GitHub 和 Azure 冻结招聘，立即生效。GitHub 将继续招聘战略/关键职位，但普通职位招聘已经关闭。Google 冻结招聘两周，预计将重新分配员工。Azure 需要副总裁级别的高管批准才能增加员工。Meta 的软件工程师招聘自 3 月以来就已经冻结，Twitter 的情况类似。大型科技公司冻结招聘将会对整个软件行业产生影响，因为它们是抬高薪酬的主要因素。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 215 期）：互联网最喜欢的行为模式]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/07/weekly-issue-215.html"/>
-        <updated>2022-07-22T00:19:26.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度发布 L4 级自动驾驶汽车]]></title>
-        <id>https://www.solidot.org/story?sid=72214</id>
-        <link href="https://www.solidot.org/story?sid=72214"/>
-        <updated>2022-07-21T16:06:08.000Z</updated>
-        <summary type="html"><![CDATA[百度发布了 L4 级自动驾驶汽车 Apollo RT6，该公司希望在 2023 年推出其无人驾驶出租车服务。 这款新车定价为 3.7 万美元左右，差不多是2021年6月发布的带有普通方向盘的前一版本汽车的定价7.1万美元的一半。百度公司联合创始人兼首席执行官李彦宏在公司的年度技术大会上表示，未来打无人车，要比现在打车便宜一半。他说，成本降下后，百度将能够在全国部署数以万计自动驾驶汽车。百度称，新系统在大多数情况下不需要司机，它集成了八个激光雷达传感器（使用脉冲激光的探测系统）以及围绕车身的 12 个摄像头。该公司称，中国法律要求无人驾驶汽车必须要有一个方向盘，但如果规则改变，方向盘可以卸下，这将为安装额外的座椅和游戏主机等其他娱乐设备提供更多空间。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白鲟被宣布灭绝]]></title>
-        <id>https://www.solidot.org/story?sid=72213</id>
-        <link href="https://www.solidot.org/story?sid=72213"/>
-        <updated>2022-07-21T16:00:28.000Z</updated>
-        <summary type="html"><![CDATA[国际自然与自然资源保护联盟(IUCN)发布最新版全球濒危物种红色名录，宣布长江鲟(Acipenser dabryanus)由极危转为野生灭绝，并证实白鲟(Psephurus gladius)灭绝。
-
-白鲟是世界上最大的淡水鱼之一，被列为我国国家一级保护野生动物，曾被 IUCN 列为“极危”物种。2020年 初，中国水产科学研究院首席科学家危起伟团队发表了关于白鲟灭绝的论文。
-
-根据 IUCN 官网消息，全球现存的26种鲟鱼均面临着灭绝风险。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
