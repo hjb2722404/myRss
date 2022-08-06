@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=42961",
+          "author": "青小蛙",
+          "description": "7-Zip 自身缺乏给压缩包文件名添加“日期/时间”的功能，只能在生成压缩包之后再重命名。本脚本后台运行，检测到 7-Zip 的“添加到压缩包”窗口后会在右侧生成一个窗口，包含六个按钮，对应六种日期/",
+          "link": "https://www.appinn.com/7zdt-for-windows/",
+          "publishedOn": "2022-08-05T09:18:36.000Z",
+          "wordCount": 1909,
+          "title": "7zDT – 给 7-Zip 压缩界面添加“日期/时间命名”功能",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-05T170705.117.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=42954",
           "author": "青小蛙",
           "description": "置顶的箭头 是一款 Windows 小工具，它可以在屏幕上放置可拖动、置顶、多个箭头，用来标记屏幕位置。支持自定义置顶图片，一个开放的软件。@Appinn 来自发现频道，@earthnet 同学的自荐",
@@ -165,26 +175,6 @@
           "wordCount": 1656,
           "title": "Synology Photos 套件更新，支持创建照片请求链接，向其他用户及访客搜集照片",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/07/Appinn-2022-07-28T130208.001.png"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42872",
-          "author": "青小蛙",
-          "description": "iPreview 是一款为 macOS 原生「快速查看」功能（按下空格预览文件）新增几十种文件格式的小工具，包括源代码、3D模型、数学公式、压缩文件、字幕文件等，并且还可以选择代码高亮主题、TAB 宽",
-          "link": "https://www.appinn.com/ipreview-for-macos/",
-          "publishedOn": "2022-07-27T08:46:16.000Z",
-          "wordCount": 1790,
-          "title": "iPreview – 为 macOS 「快速查看」新增源代码、3D模型、数学公式、压缩文件等文件预览",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/07/Appinn-2022-07-27T162422.675.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=42866",
-          "author": "青小蛙",
-          "description": "拒绝勒索软件 No More Ransom 网站是一项由荷兰国家警察高科技犯罪单位、欧洲刑警组织下属欧洲网络犯罪中心, 卡巴斯基实验室和英特尔公司（英特尔安全）网络保安全公司所推动的计划，旨在帮助勒索",
-          "link": "https://www.appinn.com/no-more-ransom/",
-          "publishedOn": "2022-07-27T08:01:52.000Z",
-          "wordCount": 1751,
-          "title": "拒绝勒索软件 No More Ransom：帮助受害者从 172 种勒索软件中取回加密数据",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/07/no-more-ransom.jpgo_.jpg"
         }
       ]
     },
@@ -193,6 +183,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=367283",
+          "author": "Šime Vidas",
+          "description": "CSS Scroll Snap allows websites to snap the web page or any other scroll container to a specific scroll position when the user performs a scrolling operation. This feature has been supported in all modern browsers for over two years, …\nHow I Added Scroll Snapping To My Twitter Timeline originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-i-added-scroll-snapping-to-my-twitter-timeline/",
+          "publishedOn": "2022-08-05T13:10:09.000Z",
+          "wordCount": 2931,
+          "title": "How I Added Scroll Snapping To My Twitter Timeline",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367283"
+        },
         {
           "id": "https://css-tricks.com/?p=367361",
           "author": "Geoff Graham",
@@ -289,16 +289,6 @@
           "wordCount": 954,
           "title": "科技爱好者周刊（第 216 期）：极简主义的胜利",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html",
-          "author": null,
-          "description": "一、 美国能源署统计，1650年到2009年的美国能源消耗，年增长率为2.9%。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/07/energy-consumption.html",
-          "publishedOn": "2022-07-27T00:54:54.000Z",
-          "wordCount": 565,
-          "title": "能源的极限",
-          "imageUrl": null
         }
       ]
     },
@@ -324,6 +314,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72378",
+          "author": null,
+          "description": "Gitlab 被发现有一项禁止使用 Microsoft Windows 的公司政策。微软旗下的 GitHub 是 Gitlab 最主要的竞争对手。Gitlab 表示它允许员工使用 Linux 和苹果 macOS，而禁止使用 Windows 的理由是它是份额最高的桌面系统，因此也是间谍软件、病毒和勒索软件的最主要目标。Windows 家庭版的安全性难以保障，因此不符合公司安全准则。苹果的电脑是首选，如果熟悉 Linux 也可选择戴尔公司的 Linux 笔记本电脑。",
+          "link": "https://www.solidot.org/story?sid=72378",
+          "publishedOn": "2022-08-05T15:30:38.000Z",
+          "wordCount": 175,
+          "title": "Gitlab 禁止使用 Microsoft Windows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72377",
+          "author": null,
+          "description": "亚马逊以 17 亿美元收购了扫地机器人 Roomba 的制造商 iRobot。这是亚马逊至今第四大收购交易：2017 年以 137 亿美元收购 Whole Foods；2021 年以 84.5 亿美元收购米高梅；上个月以 39 亿美元收购  One Medica。iRobot 于 1990 年在特拉华州成立，设计及制造军用机器人、商用机器人、医疗机器人及家用机器人，并以家用自动吸尘机器人——Roomba 最为知名。",
+          "link": "https://www.solidot.org/story?sid=72377",
+          "publishedOn": "2022-08-05T15:06:11.000Z",
+          "wordCount": 179,
+          "title": "亚马逊以 17 亿美元收购 iRobot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72376",
+          "author": null,
+          "description": "今年早些时候，因为与微软的搜索合作协议，DuckDuckGo 被发现没有屏蔽所有微软跟踪程序。当时 DuckDuckGo CEO Gabriel Weinberg 解释说，DuckDuckGo 浏览器屏蔽了所有微软的 cookies。但如果你访问了一个含有微软跟踪程序的网站，那么用户的数据将会暴露给 Bing 和 LinkedIn，这是 DuckDuckGo 与微软搜索合作协议（search syndication agreement）的结果。他承诺将改进与微软的交易。现在 DuckDuckGo 宣布它的浏览器能屏蔽所有微软第三方 cookies。",
+          "link": "https://www.solidot.org/story?sid=72376",
+          "publishedOn": "2022-08-05T14:47:43.000Z",
+          "wordCount": 171,
+          "title": "DuckDuckGo 浏览器屏蔽所有微软第三方 cookies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72375",
+          "author": null,
+          "description": "在马斯克(Elon Musk)宣布终止收购 Twitter 的协议之后，Twitter 在特拉华州提起诉讼，指控马斯克扰乱其运营破坏股东价值。现在马斯克在本周四公开的反诉中指控 Twitter 欺诈，称 Twitter 虚假描述了其业务状况，以及有关其平台用户的关键指标。反诉文件是在上周递交的，而 Twitter 也立即公布了它的回应。Twitter 称：“马斯克捏造了 Twitter 从未做出过的陈述，然后试图选择性的利用 Twitte r提供给他的大量机密数据，编造出违反前述所谓陈述的情况。”Twitter 表示该公司在提交给监管机构的文件中对于可盈利日均用户的披露信息是准确的。",
+          "link": "https://www.solidot.org/story?sid=72375",
+          "publishedOn": "2022-08-05T14:37:42.000Z",
+          "wordCount": 168,
+          "title": "马斯克反诉 Twitter 欺诈",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72374",
+          "author": null,
+          "description": "气候变化正对人类的生活产生肉眼可见的影响。放眼未来，全球变暖的长期趋势又将如何左右人类种群本身？ 气候变化将以微小但显著的方式改变人体的内部运行机制，并可能导致人体外形发生明显变化。先看对人体的体内影响。气候变暖，意味着疟疾、西尼罗热等长期流行于热带地区的疾病将扩散到温带地区。其结果是，美国等发达国家的居民将接触到这些疾病，他们的免疫系统将被迫进化出新的防御机制，但这或许将引起其他非传染性疾病。我们的消化系统也会随摄入食物的变化而进化，而食物的摄入类型取决于当地种植农作物和饲养牲畜的种类。改变饮食也会引发人体微生物组的变化。素食者体内的菌群往往与肉食者不同。如果长期干旱导致饲养成本过高，人们吃不到牲畜肉，这种微生物组的变化可能会被进一步放大。",
+          "link": "https://www.solidot.org/story?sid=72374",
+          "publishedOn": "2022-08-05T11:24:04.000Z",
+          "wordCount": 145,
+          "title": "高温如何影响人类演化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72373",
+          "author": null,
+          "description": "在 Google 上搜索特定短语或单词相关的网页，用户可以加上引号。比如输入[“无线手机充电器”]，搜索引擎将只会显示包含该短语的网页。Google 官方博客周四宣布它改进了带引号的特定短语搜索结果：在搜索结果页展示特定短语出现的片段，方便用户定位到该短语所在在位置；桌面上的搜索结果还会加粗该特定短语。",
+          "link": "https://www.solidot.org/story?sid=72373",
+          "publishedOn": "2022-08-05T11:09:42.000Z",
+          "wordCount": 151,
+          "title": "Google 改进带引号的特定短语搜索",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72372",
+          "author": null,
+          "description": "Meta CEO Mark Zuckerberg 宣布扩大 Instagram 对 NFT 的国际支持。此前对 NFT 的支持仅限于美国的内容创作者，现在非洲、亚太、中东和美洲等逾百个国家的用户和企业将能在 Instagram 分享其 NFT。Meta 还宣布 Coinbase Wallet 和 Dapper Wallet 被接受为第三方兼容钱包，Instagram 支持的区块链除了以太坊和 Polygon 外增加了 Flow。Instagram 的 NFT 功能允许用户连接数字钱包分享 NFT，自动标记创作者和收藏者身份。在 Instagram 上发布数字收藏品需要关联第三方钱包连接，它支持的第三方钱包此前包括 Rainbow、MetaMask 和 Trust Wallet。",
+          "link": "https://www.solidot.org/story?sid=72372",
+          "publishedOn": "2022-08-05T10:12:24.000Z",
+          "wordCount": 198,
+          "title": "Meta 扩大 Instagram 的 NFT 支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72371",
+          "author": null,
+          "description": "Valve 宣布与 Komodo 合作在不包括中国大陆的东亚地区开售 Steam Deck 掌机。Valve 此前表示供应链问题已经好转，它现在能更快的交付客户订单。日本、韩国、台湾及香港的玩家可通过 steamdeck.komodo.jp 网站预定 Steam Deck，Valve 表示将与 Komodo 协作在东京电玩展上开设大型展位，包括一个大型上手体验区。东京电玩展将在 9 月 15 日举行。",
+          "link": "https://www.solidot.org/story?sid=72371",
+          "publishedOn": "2022-08-05T07:41:28.000Z",
+          "wordCount": 170,
+          "title": "Steam Deck 在东亚地区开放预售",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72370",
+          "author": null,
+          "description": "HardenedVault 写道 \"2018的币热间接或者直接的导致Security Chain中止，但其涉及到的技术并未停止进化，随着web3(x?)的崛起一些技术再次派上的用场，HardenedVault（赛博堡垒）以安全为视角对下一代数据中心和Web3进行了一些讨论，文章谈到了从数据中心到云计算的“计算”维度，对极端去中心化（BTC/XMR） vs. 邦联化在效率方面的折中进行了分析以及对于下一代数据中心安全和Web3的关系以及技术上的挑战进行了探讨。互联网的未来，Web3的终极形态以及下一代数据中心都是令人兴奋的议题，但其中的挑战也是不言而喻的，这些挑战几乎涉及到所有的基础架构安全领域，包括硬件，固件，操作系统，密码通讯协议等。黑客和密码朋克社区再一次踏上远征，最终的结果依然会是无数个体选择的涌现，个体的力量的大小取决于能承受多少”真相“，而这又回到了个体面对人生时红蓝药丸的选择：真实的荒漠还是虚幻的荣耀。真实的荒漠，就以这个作为这篇以赛博堡垒视角讨论下一代数据中心的结尾，之前有不少反馈问我们对Web3的看法，如果直接让读者去读Security\n Chain的白皮书可能会劝退大部分人，况且Security \nChain毕竟早已是历史，这篇文章希望能在技术和哲学之间有一个平衡，祝老派黑客和密码朋克继续在世俗的世界中去实现那神圣的愿景。\"",
+          "link": "https://www.solidot.org/story?sid=72370",
+          "publishedOn": "2022-08-05T07:17:27.000Z",
+          "wordCount": 151,
+          "title": "下一代数据中心安全：Web3之基础架构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72369",
+          "author": null,
+          "description": "新华社报道，2022 年 8 月 5 日，我国在酒泉卫星发射中心，运用长征二号F运载火箭，成功发射一型可重复使用的试验航天器，这是长征二号F运载火箭第 18 次执行发射任务。试验航天器将在轨运行一段时间后，返回国内预定着陆场，其间，将按计划开展可重复使用和在轨服务技术验证，为和平利用太空提供技术支撑。报道未提供更多细节。Nasaspaceflight 报道称，这是该航天器的第二次试飞，第一次是在 2020 年 9 月。该航天器被认为源于 2000 年代初的神龙项目。",
+          "link": "https://www.solidot.org/story?sid=72369",
+          "publishedOn": "2022-08-05T07:01:04.000Z",
+          "wordCount": 158,
+          "title": "中国成功发射可重复使用试验航天器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72368",
+          "author": null,
+          "description": "星巴克将在下个月投资者日活动中公布 Web3 计划，其中包括咖啡主题的 NFT。但目前还不知道它的 NFT 会是什么样，提供什么功能，构建在什么区块链上。星巴克认为收藏品是客户忠诚度的延伸。该公司的投资者活动日是在 2022 年 9 月 13 日。星巴克有积分奖励计划，通过消费累积星星，积累多颗星星之后可提高会员等级，不同的会员等级有不同的权益。公司创始人兼临时 CEO Howard Schultz 表示将建立基于 Web3 的积分奖励计划，吸引年轻消费者。但暂时还不清楚星巴克的具体方案。",
+          "link": "https://www.solidot.org/story?sid=72368",
+          "publishedOn": "2022-08-05T06:45:53.000Z",
+          "wordCount": 169,
+          "title": "星巴克将在下个月宣布基于 Web3 的积分奖励计划",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72367",
           "author": null,
@@ -1212,136 +1312,6 @@
           "publishedOn": "2022-07-27T15:19:13.000Z",
           "wordCount": 171,
           "title": "《侠盗猎车 VI》将有一个女性主角",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72277",
-          "author": null,
-          "description": "美光宣布量产 232 层 3D NAND 闪存芯片，这是首款突破 200 层的闪存芯片，竞争对手目前提供的技术最多 176 层。美光新技术将每单位面积存储的比特密度提高一倍至每平方毫米存储 14.6 Gb。3D NAND 闪存芯片的底层由控制读写操作的 CMOS 逻辑电路和其它电路组成，CMOS 之上是垂直堆叠和互联的 NAND 闪存单元。美光数据中心存储副总裁 Alvaro Toledo 表示未来会增加更多的层。",
-          "link": "https://www.solidot.org/story?sid=72277",
-          "publishedOn": "2022-07-27T14:51:46.000Z",
-          "wordCount": 185,
-          "title": "美光量产首款 232 层 3D NAND 闪存芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72276",
-          "author": null,
-          "description": "过去几个月俄罗斯出台了多项政策和规定，加强对互联网的控制。议员要求在手机上预装本国的应用商店，限制数据转移到境外，收紧外国代理人法律打击 VPN 使用，宣布建立手机 IMEI 码数据库，计划到 2025 年关键基础设施停止使用外国软件。Privacy Accelerator 的创始人 Stanislav Shakirov 指出，自 2012 年以来俄罗斯在五个方面立法规范和控制互联网：控制领土上的互联网基础设施，施压本国互联网公司加强审查，限制独立媒体，审查网络言论和限制抗议活动，通过封锁网站限制信息获取。",
-          "link": "https://www.solidot.org/story?sid=72276",
-          "publishedOn": "2022-07-27T11:32:58.000Z",
-          "wordCount": 157,
-          "title": "俄罗斯加强互联网的控制",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72275",
-          "author": null,
-          "description": "欧洲两大卫星互联网公司 OneWeb 和 Eutelsat 计划合并，以更好的挑战 SpaceX 公司 Starlink 宽带卫星星座。合并计划还需要得到监管机构和 Eutelsat 股东批准，预计 2023 年年中完成。OneWeb 和 Eutelsat 股东将各自拥有新公司一半股份。Eutelsat 目前有 36 颗地球静止轨道卫星，OneWeb 拥有 428 颗低地球轨道卫星群。两家公司预计 2022-23 财年总收入将达到 15.6 亿美元。Eutelsat 董事长 Dominique D'Hinnin 和 CEO Eva Berneke 将继续担任合并后企业的董事长和 CEO。投资 OneWeb 的英国政府将保留其特定权利，包括对某些决策的否决权。",
-          "link": "https://www.solidot.org/story?sid=72275",
-          "publishedOn": "2022-07-27T11:12:11.000Z",
-          "wordCount": 197,
-          "title": "OneWeb 和 Eutelsat 合并以挑战 Starlink",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72274",
-          "author": null,
-          "description": "美国的劳动力供不应求。为了在高流失率的市场环境下留住员工，企业都将 90 天作为一个重要目标。高管和人力资源称，如果能留住三个月，那么员工就可能长期留任——即至少工作一年以上。为了防止新员工在三个月内辞职，企业使出了浑身解数。他们推出了特别奖金（三个月后才能拿到），加强培训，让新员工和有经验的员工结对。人力资源高管称，三个月的时间足够让员工能证明自己。",
-          "link": "https://www.solidot.org/story?sid=72274",
-          "publishedOn": "2022-07-27T10:44:57.000Z",
-          "wordCount": 147,
-          "title": "为减少流失美国企业致力于在三个月内留住员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72273",
-          "author": null,
-          "description": "留给系统管理员打上新披露漏洞修复补丁的时间比以前认为的要短得多。安全公司 Palo Alto 发布的事故响应报告（Incident Response Report）称，黑客一直在监视安全公司的新漏洞披露报告，通常在 CVE 公布 15 分钟后就开始扫描漏洞，在数小时内就能观察到首次漏洞利用尝试。Palo Alto 以 2022 年 5 月 4 日披露的 F5 BIG-IP 远程执行漏洞 CVE-2022-1388 为例，在 CVE 公布 10 小时内就记录到了 2552 次扫描和漏洞利用尝试。这场攻防大战每年留给任意一方的时间都越来越短。Palo Alto 的报告称 ，2022 年上半年利用最多的漏洞是 ProxyShell 占 55%，其次是阿里巴巴发现的 Log4Shell 占 14%，SonicWall 7%，ProxyLogon 5%。",
-          "link": "https://www.solidot.org/story?sid=72273",
-          "publishedOn": "2022-07-27T09:56:02.000Z",
-          "wordCount": 192,
-          "title": "在披露 15 分钟内黑客就开始扫描漏洞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72272",
-          "author": null,
-          "description": "2021 年圣诞节发射本月上旬正式开始投入天文观测的韦伯太空望远镜在两周时间内就对天文学产生了巨大影响。韦伯宣传最多的是其观测宇宙诞生初期早期星系和恒星的能力，而它确实不负众望。它已经发现了已知最遥远的早期星系。被称为 GLASS-z13 的星系诞生于创世大爆炸 3 亿年之后。早期星系只有银河系百分之一大小，但恒星形成的速度超出预期，而这只是开始。在最早公布的星系团 SMACS 0723 的图像中，天文学家通过引力透镜发现了 16 个遥远星系，其具体年龄尚未确定。望远镜从其中一个星系中发现了氧气等重元素的光谱。天文学家称这很疯狂。",
-          "link": "https://www.solidot.org/story?sid=72272",
-          "publishedOn": "2022-07-27T09:29:26.000Z",
-          "wordCount": 154,
-          "title": "才两周时间韦伯望远镜就重塑了天文学",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72270",
-          "author": null,
-          "description": "乌兹别克斯坦的自治区 Karakalpakstan 首府 Nukus 本月初发生了民众抗议，警方开枪导致至少 18 人死亡。抗议的原因是政府准备改变宪法将 Karakalpakstan 从有权独立的自治区变为省。为平息抗议政府采取了一种常见的手段——断网。政府早在抗议发生前的 6 月 26 日就开始针对移动网络的访问实施某种形式的信息封锁，之后 ATM 和支付服务被关闭。Karakalpakstan 的紧急状况已经解除，但截至本周互联网服务仍然未完全恢复。Access Now 的 Anastasiya Zhyrmont 称，从该地区获取信息非常困难，网络从 7 月 1 日以来十分不稳定，即使能上网上传照片都需要几个小时，发送短消息都需要 5 到 10 分钟。当然这就是政府断网的意图。",
-          "link": "https://www.solidot.org/story?sid=72270",
-          "publishedOn": "2022-07-27T07:59:36.000Z",
-          "wordCount": 172,
-          "title": "乌兹别克斯坦断网以平息抗议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72269",
-          "author": null,
-          "description": "全球光缆出现短缺，欧洲、印度和中国是受影响最严重的地区，光纤价格从每公里 $3.70 上涨到了 $6.30。疫情促使部分公司削减资本支出，但对互联网和数字服务需求激增，这种关键但常被忽视的材料出现供不应求的情况。今年上半年光缆总消费同比增长 8.1%，其中中国占 46%，北美增长最快同比增长 15%。制造光纤玻璃使用的氦因俄罗斯和美国的工厂停工出现短缺，其价格过去两年上涨 135%。光纤的另一个关键成分四氯化硅的价格上涨 50%。",
-          "link": "https://www.solidot.org/story?sid=72269",
-          "publishedOn": "2022-07-27T06:33:55.000Z",
-          "wordCount": 152,
-          "title": "光缆出现短缺",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72268",
-          "author": null,
-          "description": "据财新网报道，紫光集团原董事长赵伟国被有关部门带走调查。财新从多名知情人士处获悉，7月上旬，赵伟国被有关部门从北京家中带走，目前仍处于与外界失联的状态。不同信源均称，赵伟国身涉调查或与其个人所控公司和原紫光集团旗下公司之间利益输送相关，比如设备采购、装修工程等未经公开招投标的问题。从 2009 年起，赵伟国执紫光集团逾十年，但在 2021 年 7 月现金短缺的紫光宣布破产重组，赵伟国的董事长职位也在前不久被撤下。",
-          "link": "https://www.solidot.org/story?sid=72268",
-          "publishedOn": "2022-07-27T06:30:08.000Z",
-          "wordCount": 150,
-          "title": "紫光前董事长被调查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72267",
-          "author": null,
-          "description": "4 月 27 日未知身份的人士或团体故意切断了巴黎附近三个地方的光缆，为法国至今发生的最严重网络基础设施破坏事件。有约 10 家互联网和基础设施运营商受到影响。法国电信联盟的常务董事 Michel Combot 称，攻击者目标明确，针对是骨干网光缆，影响到多个地区的网络连接，部分用户断网，部分用户因为网络流量被重路由而网速下降。三次对光缆的攻击几乎发生在同一时间，攻击手段也类似。法国电信公司 Nasca Group 的 CEO Nicolas Guillaume 称，攻击者相当专业，对光缆的破坏需要更长时间才能修复。许多光缆被切断了两处，如果切断一次那么光缆还可能重新连接起来，但切断多处增加了修复难度。反对数字化的激进活动人士被怀疑是攻击发起者，但许多专家对此持怀疑立场，因为之前那些破坏手机信号塔的活动人士在行动之后都宣布对此负责。",
-          "link": "https://www.solidot.org/story?sid=72267",
-          "publishedOn": "2022-07-27T03:43:21.000Z",
-          "wordCount": 159,
-          "title": "神秘人士破坏法国网络光缆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72266",
-          "author": null,
-          "description": "俄罗斯宣布将在 2024 年结束与 NASA 等在国际空间站上的合作，俄罗斯宇航局还宣布将建造自己的空间站。国际空间站原计划在 2024 年左右退役，NASA 决定将退役时间推迟到 2030 年。俄罗斯退出意味着什么？NASA 有没有应对方案？有报道称 NASA 有应对之策：俄罗斯进步号货运飞船帮助改变空间站轨道和抵消大气阻力影响，美国的  Cygnus NG-17 货运飞船可作为替代。俄罗斯据说还准备将其模块舱脱离空间站，如果要保留这些模块舱俄罗斯可能会要求美国支付大量费用。",
-          "link": "https://www.solidot.org/story?sid=72266",
-          "publishedOn": "2022-07-27T02:53:44.000Z",
-          "wordCount": 168,
-          "title": "俄罗斯宣布将在 2024 年退出国际空间站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72265",
-          "author": null,
-          "description": "Creative Commons CC0 是公有领域许可证，允许任何人不受限制地在全球范围内发布内容。但放弃对内容的限制并不意味着放弃商标或专利权。而自由开源社区（FOSS）的一个共识是排除任何形式的专利授权或专利宽限的许可证不能被视为 FOSS 许可证。Fedora 项目宣布将不允许使用 CC0 授权代码，现有的 CC0 授权代码可能会继续使用但决定尚未做出。",
-          "link": "https://www.solidot.org/story?sid=72265",
-          "publishedOn": "2022-07-27T01:45:10.000Z",
-          "wordCount": 166,
-          "title": "Fedora 将不接受 CC0 授权的代码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72264",
-          "author": null,
-          "description": "Debian 项目、Debian.ch 和 Software in the Public Interest 组织最近向世界知识产权组织 (WIPO)递交申请，寻求拿回 Debian.community 域名。该域名被 Daniel Pocock 用于攻击Debian 项目及其成员。Daniel Pocock 是开源社区的“名人”或者说是“巨魔（troll）”，其行为备受争议。今年早些时候，Red Hat 曾尝试从 Daniel Pocock 手中拿回 WeMakeFedora.org 域名，但未获成功。Debian 项目的尝试成功了，WIPO 在 7 月 19 日裁定转移域名。虽然域名拿回了，但攻击不太可能会停止。",
-          "link": "https://www.solidot.org/story?sid=72264",
-          "publishedOn": "2022-07-26T15:55:28.000Z",
-          "wordCount": 187,
-          "title": "Debian 拿回了 Debian.community 域名",
           "imageUrl": null
         }
       ]
