@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-08-07T03:20:49.055Z</updated>
+    <updated>2022-08-08T03:37:41.642Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美国参议院通过气候法案]]></title>
+        <id>https://www.solidot.org/story?sid=72387</id>
+        <link href="https://www.solidot.org/story?sid=72387"/>
+        <updated>2022-08-08T02:55:55.000Z</updated>
+        <summary type="html"><![CDATA[美国参议院通过关注气候、健康和税收的法案。这项规模近 4000 亿美元的立法是有史以来联邦政府为应对气候变化做出的最重大投资，可能会产生全球影响。被称为“连续投票”(vote-a-rama)的程序从周六深夜开始，一直持续到周日下午，50 名民主党参议员全部赞成该法案，共和党参议员则一致反对该法案。预计众议院将于周五对其进行投票，国会距离实现民主党的一系列优先事项又近了一步。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部分中国用户转战 Mastodon]]></title>
+        <id>https://www.solidot.org/story?sid=72386</id>
+        <link href="https://www.solidot.org/story?sid=72386"/>
+        <updated>2022-08-08T02:47:48.000Z</updated>
+        <summary type="html"><![CDATA[因国内加强监管，部分中国社交媒体用户转向了微博服务 Mastodon。Mastodon 是去中心化、分布式微博社交网络，采用联邦式架构。4 月底至 7 月中旬期间，Mastodon 的中文用户增加了逾 5.1 万。Mastodon 是一家德国软件开发商在 2016 年创建的，提供类似于 Twitter 的功能，但允许用户加入各种社区，这些社区托管在不同的服务器上。现在，大约有 15 万名讲中文的用户使用 Mastodon，入驻了其中的 100 多个社区。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱普生为其打印机设定死亡日期]]></title>
+        <id>https://www.solidot.org/story?sid=72385</id>
+        <link href="https://www.solidot.org/story?sid=72385"/>
+        <updated>2022-08-07T14:02:12.000Z</updated>
+        <summary type="html"><![CDATA[电子产品的计划性报废一直备受诟病，但为硬件设定硬编码的报废日期，绝大多数人可能从未听说过。爱普生打印机的用户在社交网络上抱怨，他们的打印机突然停止工作，显示错误信息，称某个零部件达到使用寿命，设备需要维修。根据爱普生网站上提供的支持信息，问题与墨垫有关，该元件用于收集打印页面残留墨水，因此随着使用时间的墨垫会被墨水浸透，但这通常不会发生在打印机因其它原因替换之前。爱普生没有测量墨垫的饱和状态以判断它何时达到寿命终点，而是使用了一个硬编码的计数器，达到阈值之后就禁用设备。对于 Windows 用户，爱普生提供了一个单次使用且只能在短时间内继续打印的重置工具。对于 Mac 用户或已经使用了一次重置的 Windows 用户，爱普生建议去维修。爱普生还指出，对于打印机这类的设备，维修非常不合算，因此最好直接更换打印机。法律专家认为爱普生的做法是不合法的，它需要在客户购买前告知硬编码的寿命终止。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于syzkaller实现的模糊测试技术分析：来自不是VaultFuzzer故事的部门]]></title>
+        <id>https://www.solidot.org/story?sid=72384</id>
+        <link href="https://www.solidot.org/story?sid=72384"/>
+        <updated>2022-08-07T09:46:24.000Z</updated>
+        <summary type="html"><![CDATA[HardenedVault 写道 "2017年的晚些时候，一名匿名黑客建议HardenedLinux可以尝试把语料库和特定的代码路径形成具备概率性的关联，经过HardenedLinux
+ 
+maintiner的内部讨论认为syzkaller作为通用框架对于大规模QA的生产环境仍有大量的改进空间，假设GCP的工程师也是如此思路的话，那的确可以完成更全面的QA工程化。2018年，HardenedLinux的maintainer尝试使用eBPF在函数入口和出口收集一些函数接口中的结构体及其数值，即便这些数据目前尚未对执行流产生任何影响（因为在函数入口），并把它称为
+ 
+内核状态。完成了PoC原型后并与Syzkaller社区进行讨论，经过讨论和一些更细粒度的测试后发现这个方法本身不合适被用于QA工程师的日常工作，直到2020年，终于完成了通用型模糊测试工具的设计和实现，这个项目被正式命名为Harbian-QA，这也是VaultFuzzer的前身。后来在一个关于可控并发测试议题的讨论中，内容涉及一些和状态相关的内容，在讨论中，Vegard
+ Nossum提出了一种方法，即对结构及成员进行hash来收集数据访问情况，并且在不到24小时内发布他为此开发的GCC 
+plugin的PoC原型。这个方法其实和2020年 
+Harbian-QA发布的Clang/LLVM以instrumentation的实现内容很相似，但只收集访问结构体及其成员名的hash，Vegard
+ Nossum似乎是为了这个触发并发错误开发的，和 Harbian-QA设计目标有所不同。近期的一篇论文"GREBE: Unveiling Exploitation Potential for Linux
+Kernel Bugs"中，GREBE声称他们开发了一种“内核对象驱动”的模糊测试方法，经过HardenedVault团队分析后发现其和Harbian-QA以及Vegard的方案的相似度极高，Vault Labs联系了HardenedLinux曾经的全职maintainer确认GREBE论文作者之一Dongliang 
+Mu不仅长期关注Harbian-QA的进展，甚至曾经就Harbian-QA内容寻求HardenedLinux 的帮助，而Dongliang 
+Mu亦活跃于syzkaller社区，可能也读过Vegard的PoC。遗憾的是，GREBE在更换完这些术语和解释后，声称其设计是自行完成的一种新型内核fuzzer，GREBE论文花了大量篇幅来描述其他Fuzzer无法满足其应用场景的原因，整篇论文即没有引用Harbian-QA也没有引用Vegard的PoC，虽然我们不大清楚现代学术界是怎么运作的，但以常识判断这种”copy+paste+replace"并且不给出引用显然是有悖于柏拉图时代的学院派。希望RR坚信的HardenedVault应该保持“We’re
+ neither academia bitch nor industry leech.“并不是红药丸的选择，不是吗？"]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVNC – Android 上的开源 VNC 客户端]]></title>
+        <id>https://www.appinn.com/?p=42969</id>
+        <link href="https://www.appinn.com/avnc-for-android/"/>
+        <updated>2022-08-07T04:59:52.000Z</updated>
+        <summary type="html"><![CDATA[AVNC 是一款 Android 端的开源 VNC 客户端，它允许远程控制运行 VNC 服务器的任何设备。@Appinn 来自发现频道，@God-Asimov 同学的推荐： AVNC：Android]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧洲最大核电站再次发生爆炸]]></title>
+        <id>https://www.solidot.org/story?sid=72383</id>
+        <link href="https://www.solidot.org/story?sid=72383"/>
+        <updated>2022-08-07T01:15:09.000Z</updated>
+        <summary type="html"><![CDATA[欧洲最大核电站扎波罗热的建筑物周五发生爆炸，乌克兰和俄罗斯互相指责对方炮击。扎波罗热核电站在 3 月初被俄罗斯占领，俄罗斯在攻击期间轰炸了部分建筑物导致其严重受损。对于最新的事件，乌克兰国有核电运营商 Energoatom 表示，俄罗斯的炮击击中了核设施内部和周围，破坏了一个进水装置，切断了 Enerhodar 市大部分地区的供电和供水。有三枚炮弹直接击中核电站所在地，其中一枚炮弹靠近核反应堆的一个动力装置。Energoatom 周六表示核电站继续运行，工作人员在继续工作。乌克兰检方对此事故展开调查。本周二国际原子能机构负责人曾警告扎波罗热核电站失控，核安全的每一项原则都被违反了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗对阿尔巴尼亚政府发动网络攻击]]></title>
+        <id>https://www.solidot.org/story?sid=72382</id>
+        <link href="https://www.solidot.org/story?sid=72382"/>
+        <updated>2022-08-06T11:35:48.000Z</updated>
+        <summary type="html"><![CDATA[针对阿尔巴尼亚政府的网络攻击在 7 月中旬导致政府网站和公共服务中断数小时。俄罗斯被认为是最可能的攻击嫌疑人，但安全公司 Mandiant 本周公布的研究报告认为伊朗才是攻击发起者。自由伊朗世界峰会计划于 7 月 23 日到 24 日在阿尔巴尼亚的 Albania 举行，而这一攻击发生在会议前的 7 月 17 日。随后峰会在开始前一天因所谓的恐怖主义威胁而推迟。研究人员称，攻击者部署了 Roadsweep 家族的勒索软件，可能利用了一个先前未知的后门 Chimneysweep，以及 Zeroclear 删除程序的新变种。伊朗此前主要在中东地区特别是以色列从事网络黑客活动。但针对阿尔巴尼亚的网络攻击不是为了窃取数据，而是为了破坏，影响到阿尔巴尼亚人的日常生活，是为了迫使阿尔巴尼亚政府回应。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家声称西班牙辣肠是韦伯拍摄的照片]]></title>
         <id>https://www.solidot.org/story?sid=72381</id>
@@ -980,208 +1062,6 @@ Discourse 论坛。Python 项目是在 2018 年开始实验使用 discussion.pyt
         <link href="https://www.solidot.org/story?sid=72307"/>
         <updated>2022-07-30T03:01:24.000Z</updated>
         <summary type="html"><![CDATA[美国证券交易委员会(SEC)周五将阿里巴巴列入面临摘牌中概股名单，即如果这些公司的审计公司不能在 2024 年春季之前接受检查，就有可能被从美国的证交所摘牌。根据 2021 年生效的《2020年外国公司问责法案》，美国可以禁止那些审计公司连续三年不接受美国审计监督机构检查的公司的证券交易。SEC 已确定有150多家公司不符合规定，其中包括京东和拼多多，以及餐饮运营商百胜中国。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玩游戏不会伤害心理健康，除非玩家是不得不玩而不是想要玩]]></title>
-        <id>https://www.solidot.org/story?sid=72306</id>
-        <link href="https://www.solidot.org/story?sid=72306"/>
-        <updated>2022-07-29T15:19:58.000Z</updated>
-        <summary type="html"><![CDATA[牛津互联网研究所团队对近四万玩家的调查发现，玩游戏不会伤害心理健康，除非玩家是不得不玩而不是想要玩。研究人员发现，任何类型的游戏与不良心理健康之间都不存在因果关系。研究人员调查的游戏包括休闲游戏《Animal Crossing: New Horizons》、赛车游戏《Gran Turismo Sport》、网游竞技类游戏《Apex Legends》和《Eve Online》。研究参与者同意研究人员使用他们的游戏数据。研究人员发现，除非玩家感觉到被迫玩游戏，否则游戏不会对玩家产生负面影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll Shadows? Pure CSS Parallax? Game Back On.]]></title>
-        <id>https://css-tricks.com/?p=367270</id>
-        <link href="https://css-tricks.com/scroll-shadows-pure-css-parallax-game-back-on/"/>
-        <updated>2022-07-29T14:55:31.000Z</updated>
-        <summary type="html"><![CDATA[Chris calls scroll shadows one his favorite CSS-Tricks of all time. Lea Verou popularized the pure CSS approach using four layered background gradients with some clever background-attachment magic. The result is a slick scrolling interaction that gives users a hint …
-Scroll Shadows? Pure CSS Parallax? Game Back On. originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家芯片大基金总裁被调查]]></title>
-        <id>https://www.solidot.org/story?sid=72305</id>
-        <link href="https://www.solidot.org/story?sid=72305"/>
-        <updated>2022-07-29T14:40:05.000Z</updated>
-        <summary type="html"><![CDATA[国家集成电路产业投资基金(大基金)前后两任负责人被调查：7 月 17 日国家芯片大基金管理公司原总裁路军涉嫌严重违纪违法，目前已正在接受调查；7 月 28 日大基金总裁丁文武被有关部门调查。大基金是为促进集成电路产业发展于 2014 年 9 月设立的，由国开金融、中国烟草、亦庄国投、中国移动、上海国盛、中国电科、紫光通信、华芯投资等企业于发起，基金规模约为 1200 亿元。基金重点投资集成电路芯片制造业，兼顾芯片设计、封装测试、设备和材料等产业，实施市场化运作、专业化管理。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔二季度营收出现亏损]]></title>
-        <id>https://www.solidot.org/story?sid=72304</id>
-        <link href="https://www.solidot.org/story?sid=72304"/>
-        <updated>2022-07-29T14:30:27.000Z</updated>
-        <summary type="html"><![CDATA[英特尔公布了它的 Q2 财报，连续第二财季销售额下降：Q2 销售额下降 22% 至 153 亿美元，净亏损 4.54 亿美元，去年同期为盈利 57.5 亿美元。其中 PC 芯片部门收入下降 25% 至 77 亿美元数据中心芯片部门的销售额下降了 16% 至 46 亿美元。CEO Pat Gelsinger 称经济活动的突然快速下降是造成亏损的最主要原因，但它也同时反映了产品设计等领域的执行问题。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越富有肉吃的越多]]></title>
-        <id>https://www.solidot.org/story?sid=72303</id>
-        <link href="https://www.solidot.org/story?sid=72303"/>
-        <updated>2022-07-29T11:25:00.000Z</updated>
-        <summary type="html"><![CDATA[人类是杂食动物，自然选择让我们既吃植物类食物也吃动物类食物。在基因上最接近人类的黑猩猩每年消费 4 到 12 公斤的肉，成年的雄性黑猩猩每年吃最多 25 公斤肉，比人类在工业化前的农业社会还要多。根据联合国粮农组织的统计，世界肉类和家禽产量在 1970 年约 1 亿吨，2000 年 2.33 亿吨，2020 年 3.25 亿吨。过去五十年人均肉类消费增长 55%。由于宗教和收入等因素，不同国家的肉消费存在差异。在人口大国中，孟加拉国和印度在 2020 年的肉消费人均不到五公斤，埃及达到约 30 公斤，巴西达到 100 公斤，中国超过了 60 公斤。高肉食国家如丹麦、法国和德国的肉消费出现了下降，原因是年轻一代减少吃红肉，更多吃海产品，以及极少数人转为素食。西班牙的肉消费在 2002 年达到 120 公斤，今天减少到 100 公斤，在疫情爆发前的 2019 年其人均寿命为 84 岁，为欧盟国家最高。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子计算机公司声称在 6 分钟内解决宝马有 3854 个变量的优化问题]]></title>
-        <id>https://www.solidot.org/story?sid=72302</id>
-        <link href="https://www.solidot.org/story?sid=72302"/>
-        <updated>2022-07-29T10:25:12.000Z</updated>
-        <summary type="html"><![CDATA[量子计算机公司  Quantum Computing Inc. (QCI) 声称在 6 分钟内解决了宝马一个包含 3854 个变量的优化问题。QCI 使用的是其新量子硬件 Entropy Quantum Computing (EQC)，尝试解决的是汽车传感器的理想位置安放问题。在汽车尤其是自动驾驶汽车上安放传感器涉及大量的变量，如底盘设计，没有障碍物（不同位置提供了不同视野），风阻和重量平衡等等，这需要大量的试错，不同的车型还需要重新制定不同的方案。宝马的问题涉及到了 3854 个变量和 500 个约束条件，经典计算机解决这个问题需要大量的时间，QCI 在 6 分钟内解决了问题，提供了一个由 15 个传感器构成的方案。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据意查句 WantQuotes – 通过描述查找名言，来自清华大学自然语言处理实验室]]></title>
-        <id>https://www.appinn.com/?p=42895</id>
-        <link href="https://www.appinn.com/wantquotes/"/>
-        <updated>2022-07-29T09:30:10.000Z</updated>
-        <summary type="html"><![CDATA[据意查句 WantQuotes 是一款由清华大学自然语言处理实验室（THUNLP）发布的工具，只需要输入想要表达的意思，就能查询到名言，包括现代、古诗文、歇后语等，需要扫码登录。@Appinn 不知道]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔将终止基于 3D XPoint 技术的 Optane 业务]]></title>
-        <id>https://www.solidot.org/story?sid=72301</id>
-        <link href="https://www.solidot.org/story?sid=72301"/>
-        <updated>2022-07-29T08:58:52.000Z</updated>
-        <summary type="html"><![CDATA[在美光卖掉它的 3D XPoint(Optane)工厂后，英特尔如今也透露它将结束其 Optane 业务。3D XPoint 是美光与英特尔合作开发的非易失性存储器（NVM）技术，英特尔为使用该技术的存储产品冠名 Optane。它的优点是比 NAND Flash 记忆芯片更快（速度提升 1000 倍），比 DRAM 芯片储存更多数据（速度是 DRAM 的十分之一，存储密度是 DRAM 的 10 倍），功耗比两者都低。但问题是此类产品的需求太低，美光和英特尔的业务连年亏损。英特尔在一份声明中表示它在评估剥离盈利不强的非战略核心类业务，在考虑之后它决定终止 Optane 业务的未来产品研发。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国众议院通过芯片法案]]></title>
-        <id>https://www.solidot.org/story?sid=72300</id>
-        <link href="https://www.solidot.org/story?sid=72300"/>
-        <updated>2022-07-29T08:33:52.000Z</updated>
-        <summary type="html"><![CDATA[在参议院之后，美国众议院以 243 票对 187 票通过快速通过了 2800 亿美元的法案，该法案旨在提高美国在半导体行业的竞争力。美国总统拜登预计将签署法案。芯片法案将为半导体制造设施的建设和扩建以及其他项目提供 527 亿美元的直接财政援助，以及 240 亿美元的税收优惠和其他条款。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST 宣布后量子加密算法竞赛的首批获胜者]]></title>
-        <id>https://www.solidot.org/story?sid=72299</id>
-        <link href="https://www.solidot.org/story?sid=72299"/>
-        <updated>2022-07-29T07:52:40.000Z</updated>
-        <summary type="html"><![CDATA[美国国家标准技术局（NIST）宣布（PDF）后量子加密和签名算法竞赛的首批获胜者。对于加密算法，NIST 建议使用 CRYSTALS-Kyber，考虑选择  NTRU（相关专利已过期），Kyber 和 NTRU 都是基于格(lattice-based)的算法；对于签名算法，NIST 选择 CRYSTALS-Dilithium 作为主算法，以及另外两种 Falcon 和 SPHINCS+，其中 Falcon 和 Dilithium 都是基于格的算法，而 Falcon 是哈希算法。这一算法竞赛针对是即将到来的量子计算时代，量子计算机很容易破解现有的 RSA 或基于椭圆曲线的算法。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TreeSheets – 神仙级笔记软件：开源的分层电子表格工具]]></title>
-        <id>https://www.appinn.com/?p=42890</id>
-        <link href="https://www.appinn.com/treesheets/"/>
-        <updated>2022-07-29T07:31:00.000Z</updated>
-        <summary type="html"><![CDATA[TreeSheets 是一款跨平台的开源分层电子表格工具，官方的讲法是「自由格式数据整理器」，它可以是电子表格、思维导图器、大纲器、PIM、文本编辑器和小型数据库的替代品。可以用来待办事项清单、日历、]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMind 的 AlphaFold 能预测几乎所有蛋白质结构]]></title>
-        <id>https://www.solidot.org/story?sid=72298</id>
-        <link href="https://www.solidot.org/story?sid=72298"/>
-        <updated>2022-07-29T07:24:28.000Z</updated>
-        <summary type="html"><![CDATA[DeepMind 去年 7 月发布了预测蛋白质结构的 AI 系统 AlphaFold 的源代码，并创建了一个数据库 AlphaFold Protein Structure Database (AlphaFold DB) 。一年之后，AlphaFold 已被逾百万研究人员访问，被用于解决重要的真实世界问题，从塑料污染到抗生素抵抗。DeepMind 现在宣布与 EMBL European Bioinformatics Institute (EMBL-EBI)合作，发布所有已知蛋白质的预测结构，将 AlphaFold DB 规模扩大逾 200 倍——从接近一百万增加到逾两亿——有望提高我们对生物学的理解。所有结构将可通过  Google Cloud Public Datasets 批量下载。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔收缩对旧集显的支持]]></title>
-        <id>https://www.solidot.org/story?sid=72297</id>
-        <link href="https://www.solidot.org/story?sid=72297"/>
-        <updated>2022-07-29T06:38:41.000Z</updated>
-        <summary type="html"><![CDATA[英特尔再次进军独显，其图形驱动的更新愈来愈接近英伟达和 AMD。对于独显产品 Arc GPU 以及架构类似的集显，英特尔承诺每月发布一个新驱动，为新发布游戏提供特定的修正和性能加强。与此同时，对于过去的旧集显，英特尔收缩对其的支持，将大部分集显转移到传统支持模式，将提供季度更新以修正安全问题和重要 bug，但不包含对游戏的特定优化。受影响的集显产品包括了：第六代酷睿（2015 年发布，代号为 Skylake），第七代酷睿（2016 年发布，代号为 Kaby Lake），第八代酷睿（2017-2018 年发布，代号为 Kaby Lake-R、Whiskey Lake 和 Coffee Lake），第九代酷睿（2018 年推出，代号为 Coffee Lake），第十代酷睿（ 2019-2020 年推出，代号为 Comet Lake 和 Ice Lake），以及 N4000、N5000 和 N6000 系列赛扬和奔腾 CPU。英特尔仍然只提供单一的驱动安装程序，但安装包含有两种驱动，其中一种适用于新架构的独显和集显，另一种则是传统支持模式下的旧集显。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更干净的空气加剧了全球暖化]]></title>
-        <id>https://www.solidot.org/story?sid=72296</id>
-        <link href="https://www.solidot.org/story?sid=72296"/>
-        <updated>2022-07-29T03:48:38.000Z</updated>
-        <summary type="html"><![CDATA[根据一篇论文预印本，更干净的空气加剧了全球暖化。这是全球变暖的悖论之一 ——燃烧煤炭或汽油会释放导致气候变化的温室气体，但同时也会释放污染颗粒，反射阳光，使地球冷却，抵消一部分全球变暖。通过卫星观测，研究人员发现，全球空气污染对气候的影响比 2000 年时下降了 30%。虽然这对公众健康来说是个好消息——空气中的细颗粒物或气溶胶每年导致数百万人死亡，但对全球变暖而言却是个坏消息。研究人员估计，更清洁的空气使同期排放的二氧化碳造成的变暖效应增加了 15%～50%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马云可能放弃蚂蚁控制权]]></title>
-        <id>https://www.solidot.org/story?sid=72295</id>
-        <link href="https://www.solidot.org/story?sid=72295"/>
-        <updated>2022-07-29T03:31:44.000Z</updated>
-        <summary type="html"><![CDATA[蚂蚁集团正在重组为一家金融控股公司，而在此过程中马云计划放弃对其的控制权。马云并未担任蚂蚁集团高管或董事，但他在该公司举足轻重，目前通过一个他占主导地位的实体控制着蚂蚁集团 50.52% 的股份。他可以通过将部分投票权转让给蚂蚁集团高管来放弃他的控制权，之后他们将共同控制该公司。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙特计划为超级城市项目 Neom 启动 IPO]]></title>
-        <id>https://www.solidot.org/story?sid=72294</id>
-        <link href="https://www.solidot.org/story?sid=72294"/>
-        <updated>2022-07-29T03:26:40.000Z</updated>
-        <summary type="html"><![CDATA[沙特王储 Mohammed bin Salman 表示该国计划最早在 2024 年对超级城市项目 Neom 启动 IPO。Neom 意思是新未来城市，沙特计划斥资 5000 亿美元，沙特主权财富基金将提供所需的一半资金，另一半则从其它国家的主权财富基金、国内外私人投资者以及 IPO 中筹集。王储雄心勃勃的想要建成自己的金字塔，而 Neom 的设计极具乌托邦或未来色彩。Neom 位于沙特西北部的 Tabuk，总面积 26500 平方公里，其核心组成部分是名叫 The Line 的线条城市（CG 动画），高 500 米，长 170 公里，能容纳 900 万居民，城市被封闭在两座距离约 200 米的平行高墙之内，表面覆盖镜子。The Line 有三层，地面一层供行人使用，地下两层一层为基础设施一层为地下交通。它还有一条高铁，时速能达到 512 公里，从线条城市的一头到另一头只需要 20 分钟。整个城市完全使用可更新能源提供电力。整个建筑成本估计为 1000 亿到 2000 亿美元（有估计认为费用可能要高达 1 万亿美元），项目的第一阶段计划在 2030 年完成。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技爱好者周刊（第 216 期）：极简主义的胜利]]></title>
-        <id>http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2022/07/weekly-issue-216.html"/>
-        <updated>2022-07-29T00:13:39.000Z</updated>
-        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recreating MDN’s Truncated Text Effect]]></title>
-        <id>https://css-tricks.com/?p=367170</id>
-        <link href="https://css-tricks.com/recreating-mdns-truncated-text-effect/"/>
-        <updated>2022-07-28T17:18:46.000Z</updated>
-        <summary type="html"><![CDATA[It’s no secret that MDN rolled out a new design back in March. It’s gorgeous! And there are some sweet CSS-y gems in it that are fun to look at. One of those gems is how card components handle truncated …
-Recreating MDN’s Truncated Text Effect originally published on CSS-Tricks. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工信部部长肖亚庆被调查]]></title>
-        <id>https://www.solidot.org/story?sid=72293</id>
-        <link href="https://www.solidot.org/story?sid=72293"/>
-        <updated>2022-07-28T16:08:30.000Z</updated>
-        <summary type="html"><![CDATA[中央纪委国家监委网站发表简短声明，工业和信息化部党组书记、部长肖亚庆同志接受中央纪委国家监委审查调查。肖亚庆曾先后出任国务院国有资产监督管理委员会主任、党委副书记，国务院副秘书长，中国铝业公司总经理、党组书记，中国铝业股份有限公司董事长、兼首席执行官。2020 年 7 月担任工业和信息化部党组书记，之后兼任部长一职。他是过去五年首位接受中纪委调查的在任部长。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[果蝇研究发现蓝光危害随年龄增长加重]]></title>
-        <id>https://www.solidot.org/story?sid=72292</id>
-        <link href="https://www.solidot.org/story?sid=72292"/>
-        <updated>2022-07-28T16:02:12.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《npj Aging》期刊上的一篇论文，对果蝇的研究表明，随着年龄的增长，每天长期暴露在手机、电脑和其他家庭设备发出的蓝光下，所受到的有害影响会越来越大。研究分析了果蝇在黑暗中存活的几率，然后随着年龄的增长，分别在果蝇2 天、20 天、40 天和 60 天大小时，将其转移到有蓝光持续存在的环境中，并研究蓝光对果蝇细胞线粒体的影响。论文通讯作者 Jaga Giebultowicz 指出，长期暴露在蓝光下会损害细胞产生能量的途径，即使是那些不擅长感光的细胞。“虽然我们还不知道蓝光照射对人类寿命的全部影响，但在寿命较短的模式生物中观察到的加速衰老应该会提醒我们，这种应激源可能会对细胞造成损伤。”Giebultowicz指出，该研究明确了蓝光对果蝇的破坏性影响与年龄密切相关，且暴露在蓝光下的果蝇视网膜细胞、大脑神经元和运动能力均有受损。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
