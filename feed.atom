@@ -2,10 +2,171 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-08-15T03:54:30.593Z</updated>
+    <updated>2022-08-16T03:44:35.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[1900 名 Signal 用户受 Twilio 攻击的影响]]></title>
+        <id>https://www.solidot.org/story?sid=72474</id>
+        <link href="https://www.solidot.org/story?sid=72474"/>
+        <updated>2022-08-16T03:29:17.000Z</updated>
+        <summary type="html"><![CDATA[为加密消息应用 Signal 提供电话号码验证服务的 Twilio 前不久遭到了钓鱼攻击，攻击者访问了它的客户支持控制台，有大约 1900 名 Signal 用户受到影响。Signal 称，没有任何用户的消息历史、通讯簿等个人数据受到影响，对于潜在受到影响的 1900 名用户它将解除注册要求他们重新注册，它将从 8 月 15 日起通过短信向受影响用户直接发送消息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果要求员工 9 月 5 日后每周至少去办公室三天]]></title>
+        <id>https://www.solidot.org/story?sid=72473</id>
+        <link href="https://www.solidot.org/story?sid=72473"/>
+        <updated>2022-08-16T03:05:57.000Z</updated>
+        <summary type="html"><![CDATA[苹果将 9 月 5 日设为要求员工每周至少回办公室三天的日期。苹果要求每周二和周四在办公室工作，另外一天由各自团队决定。员工每周可远程办公两天，每年四周。苹果原计划从 2021 年 6 月起开始要求员工每周至少三天回到办公室，但之后因为新冠疫情而推迟了数次。如今疫情在大部分地区已经缓解，苹果已终止了在办公室公共区域强制性佩戴口罩的要求。苹果预计将在 9 月宣布 iPhone 14。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻找能耗更低更环保的空调]]></title>
+        <id>https://www.solidot.org/story?sid=72472</id>
+        <link href="https://www.solidot.org/story?sid=72472"/>
+        <updated>2022-08-15T15:20:02.000Z</updated>
+        <summary type="html"><![CDATA[气候变化之下热浪更频繁的出现，愈来愈多的人依赖空调熬过炎热的气候，然而空调同时也是全球暖化的重要来源。自一个世纪前发明以来，空调的基本原理没有发生改变。它需要消耗大量能量，使用名为制冷剂的有害化学物质，专家认为如今是时候改变家庭冷却方式了。空调的问题在于其核心技术：蒸汽压缩，将储存的氢氟碳化合物冷却剂从液体转化为气体，期间吸收热量，将热量从室内移出。氢氟碳化合物是温室气体，泄露到大气中后会吸收大量热。制造更环保空调的技术已经存在。大金和格力两家公司去年赢得了设计环保型空调的竞赛 Global Cooling Prize，新空调能将对气候的影响减少到原来的五分之一，格力计划 2025 年销售其原型。另一种替代技术是使用热泵，它不依赖于蒸汽压缩，能同时提供加热和冷却。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自学式 AI 显示与大脑如何工作的相似性]]></title>
+        <id>https://www.solidot.org/story?sid=72471</id>
+        <link href="https://www.solidot.org/story?sid=72471"/>
+        <updated>2022-08-15T13:56:11.000Z</updated>
+        <summary type="html"><![CDATA[过去十年的大部分 AI 系统都是基于监督学习，利用人工标注的数据集进行训练。它们取得了巨大的成功，但也存在明显的缺陷。此类的 AI 对于理解大脑如何工作没什么帮助，因为包括人类在内的动物是不依靠已标注数据集学习的。生物大脑通过探索环境获得对世界的深入理解。科学家们开始探索自我监督学习的机器学习算法，此类神经网络显示出了与大脑如何工作的相似性。当然大脑的工作不只是限于自我监督式学习，它充满了反馈连接，现有的自学式 AI 缺乏此类功能。AI 模型还有很长的路要走。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Grid and Custom Shapes, Part 1]]></title>
+        <id>https://css-tricks.com/?p=367324</id>
+        <link href="https://css-tricks.com/css-grid-and-custom-shapes-part-1/"/>
+        <updated>2022-08-15T13:13:47.000Z</updated>
+        <summary type="html"><![CDATA[In a previous article, I looked at CSS Grid’s ability to create complex layouts using its auto-placement powers. I took that one step further in another article that added a zooming hover effect to images in a grid layout…
+CSS Grid and Custom Shapes, Part 1 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 高居 TIOBE 语言流行指数榜首]]></title>
+        <id>https://www.solidot.org/story?sid=72470</id>
+        <link href="https://www.solidot.org/story?sid=72470"/>
+        <updated>2022-08-15T11:48:37.000Z</updated>
+        <summary type="html"><![CDATA[最新 TIOBE 语言流行度指数显示Python 的榜首位置岿然不动。荷兰软件质量保证公司 Tiobe 跟踪了编程语言的流行度逾二十年，它侧重于企业级语言，根据语言相关的搜索查询等因素进行排名，多年来 Java 和 C 一直排在最前面，但去年 10 月 Python 首次跃居第一，此后 10 个月一直保持这一位置。除了安全关键的嵌入式系统领域，Python 语言几乎在所有编程领域都被广泛使用。Python 是动态类型，对嵌入式系统而言速度太慢。TIOBE 排名前十的语言为：Python、Java、 JavaScript、C#、C/C++、PHP、R、TypeScript、Swift、JavaScript 和 Objective-C。Rust 语言接近 20 名。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果和 IBM 都禁止种姓歧视]]></title>
+        <id>https://www.solidot.org/story?sid=72469</id>
+        <link href="https://www.solidot.org/story?sid=72469"/>
+        <updated>2022-08-15T11:24:15.000Z</updated>
+        <summary type="html"><![CDATA[苹果和 IBM 都在现有的基于种族、宗教、性别、年龄和血统等的反歧视规则中添加了种姓歧视。这一消息此前没有报道过，但《纽约客》关于 Google 内部种姓歧视的报道再次引发了对此问题的关注。印度的种姓制度已经实施了两千年。在这个制度中，最上层的是祭司或婆罗门，其次是战士或刹帝利，然后是商人农民或吠舍，仆人工匠都属于首陀罗。这个制度中最下等的则是贱民或不可接触者，他们被称为达利人（Dalits）。不久之前，如果达利人遇到高种姓的人，他们必须扑倒在地以免自己的影子污染了高种姓的人。违反者将会被殴打，这种现象至今在印度仍然发生。目前达利人占到了印度人口的四分之一。而在美国，九成的印度裔移民来自上层种姓。2020 年，加州就业监管机构代表一名达利人工程师起诉思科公司，这名工程师称遭到高种姓上司的歧视，影响其职业前景。这一诉讼案促使包括苹果和 IBM 在内的科技公司添加了反种姓歧视的规则。Google 的工程师也要求公司明确反种姓歧视，但没有收到上司的回应。Google CEO Sundar Pichai 来自婆罗门。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 测试 Messenger 默认启用端对端加密]]></title>
+        <id>https://www.solidot.org/story?sid=72468</id>
+        <link href="https://www.solidot.org/story?sid=72468"/>
+        <updated>2022-08-15T10:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Meta/Facebook 宣布它开始测试 Messenger 聊天默认启用端对端加密。端对端的加密和解密是在通讯端的双方进行的，因此服务商也无法知道会话内容，这能有效防止第三方监听。Meta 称除非用户选择向他们报告否则它也不会知道聊天内容，社交巨人计划到 2023 年在全球默认启用个人消息的通话和端对端加密。Messenger 还将继续提供阅后即焚的 Disappearing 功能，在端到端加密聊天中被查看的消息会在预先设定的时间段后自动消失。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[气候变化恶化数百种疾病]]></title>
+        <id>https://www.solidot.org/story?sid=72467</id>
+        <link href="https://www.solidot.org/story?sid=72467"/>
+        <updated>2022-08-15T10:12:25.000Z</updated>
+        <summary type="html"><![CDATA[一项分析显示，气候变化加剧了 200 多种传染病和数十种非传染性疾病，如毒蛇咬伤。气候灾害使人类和致病生物更加紧密地联系在一起，导致病例增加。全球变暖也会使一些情况更加严重，并影响人们抵抗感染的能力。夏威夷大学的数研究人员分析了 77000 多篇有关传染病的研究论文、报告和书籍，90% 以上的相关论文是在 2000 年以后发表的。研究人员发现，气候变化加剧了全球传染病和流行病学网络(GIDEON)以及美国疾病控制和预防中心的国家法定疾病监测系统中列出的 375 种传染病中的 218 种，即 58%。如果包括哮喘、毒蛇或昆虫叮咬等非传染性疾病，总数将上升到 277 例。该团队还确定了 9 种因气候变化而减少的疾病。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免疫细胞在抵御感染过程中发生突变]]></title>
+        <id>https://www.solidot.org/story?sid=72466</id>
+        <link href="https://www.solidot.org/story?sid=72466"/>
+        <updated>2022-08-15T09:35:48.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《自然》期刊上的一项研究，免疫细胞在抵御病原体感染过程中会发生突变。被称为淋巴细胞的免疫细胞是后天免疫系统的一部分，它包括了记忆 B 细胞和记忆 T 细胞，为了识别和抵御病原体，这两种细胞都会经历了一定程度的基因突变。这种正常的基因突变主要针对抗体基因，但会在其它地方产生附带损害。这种脱靶突变会导致淋巴细胞发生癌变，发展成淋巴瘤。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单个漏洞穿透 macOS 所有安全防线]]></title>
+        <id>https://www.solidot.org/story?sid=72465</id>
+        <link href="https://www.solidot.org/story?sid=72465"/>
+        <updated>2022-08-15T08:37:31.000Z</updated>
+        <summary type="html"><![CDATA[在 macOS 12.0.1 Monterey 中，苹果修复了一个进程注入漏洞 CVE-2021-30873。漏洞影响所有基于 macOS AppKit 的应用，研究人员利用该漏洞逃逸沙盒，root 提权，并绕过 SIP 文件系统限制。进程注入是指一个进程在另一个进程中执行代码的能力，在 Windows 中它被利用躲避反病毒扫描器的检测，在 macOS 中由于两个应用权限不同它的影响会更大。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加州州长提议延长最后一座核电站的使用寿命]]></title>
+        <id>https://www.solidot.org/story?sid=72464</id>
+        <link href="https://www.solidot.org/story?sid=72464"/>
+        <updated>2022-08-15T08:08:50.000Z</updated>
+        <summary type="html"><![CDATA[加州州长 Gavin Newsom 上周五提议延长该州最后一座仍在运营的核电站的使用寿命，此举旨在气候变化的时代提供可靠的电力供应。2020 年 8 月因创纪录热浪导致空调用电激增，电网不堪重负下加州曾连续两天出现停电。加州政府正在推广清洁电力，核电不产生温室气体，但留下的放射性核废料在数个世纪内都具有危险性。加州最后的核电站提供了全州所需电力的 9%，Newsom 提议延长 5 到 10 年，确保 2025 年之后仍然能运行。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉上海工厂生产百万辆汽车]]></title>
+        <id>https://www.solidot.org/story?sid=72463</id>
+        <link href="https://www.solidot.org/story?sid=72463"/>
+        <updated>2022-08-15T07:36:05.000Z</updated>
+        <summary type="html"><![CDATA[马斯克(Elon Musk)说，特斯拉生产逾三百万辆汽车，其中三分之一是在上海制造的。马斯克发表推文，庆祝该公司上海“超级工厂”达到里程碑产量。“祝贺上海工厂生产第 100 万辆汽车！特斯拉总产量现在已超过 300 万辆。”特斯拉 7月 份表示，第二季度交付了近25.5万辆汽车，比上一季度下降了约 18%。尽管如此，这家电动汽车制造商的第二季度盈利仍超过华尔街的预期，打破了上海工厂停工将打击利润的预测。特斯拉在财报中称，上海工厂在 6 月份实现了“我们历史上最高的月度汽车产量”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[17 岁少年设计出不使用稀土磁铁的电机]]></title>
+        <id>https://www.solidot.org/story?sid=72462</id>
+        <link href="https://www.solidot.org/story?sid=72462"/>
+        <updated>2022-08-15T07:03:03.000Z</updated>
+        <summary type="html"><![CDATA[17 岁少年 Robert Sansone 设计出一种新型的同步磁阻电机原型，比现有的电机扭矩更大效率更高。他的作品赢得了 Regeneron International Science and Engineering Fair (ISEF)一等奖和 7.5 万美元奖金。ISEF 是最高级别的国际高中 STEM 竞赛。现有的永磁电机使用了稀土元素如钕、钐和镝等，因为用途广泛，稀土元素材料的需求量很大。Sansone 的电机原型由 3D 打印的塑料、铜线和钢转子制成，他没有透露更多细节，因为他准备为此申请专利。他的测试显示，300 RPM（每分钟转速）效率 31%，750 RPM 效率提高到 37%。因为材料使用了塑料，他无法用更高转速测试，塑料组件在高温下会融化。他的一个原型就在测试中融化了。相比下特斯拉汽车使用的一种电机转速能达到 18,000 RPM。Sansone 计划用更坚固的材料制造原型，以测试更高的转速。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用脑过度后疲劳的原因]]></title>
+        <id>https://www.solidot.org/story?sid=72461</id>
+        <link href="https://www.solidot.org/story?sid=72461"/>
+        <updated>2022-08-15T04:12:31.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Current Biology》期刊上的一项研究，法国研究人员发现，长时间注意力集中会导致谷氨酸在大脑前部区域积聚，而谷氨酸过量会使进一步的脑力工作变得困难。研究负责人 Antonius Wiehler 解释说，过多的谷氨酸对人体有潜在危害，大脑想要避免这种情况，所以它会试图减少活动。Wiehler 团队利用磁共振波谱（MRS）技术，无害地测量了活体组织中各种化学物质的水平。研究人员将注意力集中在大脑前部和两侧的一个区域，即外侧前额叶皮层。此前的许多研究表明，该区域与复杂的智力任务有关。共有 40 名参与者进行了 MRS 扫描记忆测试，其中 26 人完成了更难的任务，另外 14 名参与者则完成了更简单的任务。在完成 6 小时的记忆任务后，与实验开始时相比，经历更难记忆任务的参与者的外侧前额叶皮层的谷氨酸水平有所提高。而那些做较简单任务的参与者的谷氨酸水平却保持不变。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我，用 符箓术 操纵电脑！就离谱]]></title>
+        <id>https://www.appinn.com/?p=43061</id>
+        <link href="https://www.appinn.com/fulushu/"/>
+        <updated>2022-08-15T03:35:38.000Z</updated>
+        <summary type="html"><![CDATA[来自老朋友 @dog 同学的精彩分享，通过画画操作电脑，就离谱：https://meta.appinn.net/t/topic/35232 精彩预览 背景 坛友 @CataeroGong 制作了一个软]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[过量饮酒会缩短端粒]]></title>
         <id>https://www.solidot.org/story?sid=72460</id>
@@ -997,46 +1158,6 @@ Mu亦活跃于syzkaller社区，可能也读过Vegard的PoC。遗憾的是，GRE
         <summary type="html"><![CDATA[欧洲最大核电站扎波罗热的建筑物周五发生爆炸，乌克兰和俄罗斯互相指责对方炮击。扎波罗热核电站在 3 月初被俄罗斯占领，俄罗斯在攻击期间轰炸了部分建筑物导致其严重受损。对于最新的事件，乌克兰国有核电运营商 Energoatom 表示，俄罗斯的炮击击中了核设施内部和周围，破坏了一个进水装置，切断了 Enerhodar 市大部分地区的供电和供水。有三枚炮弹直接击中核电站所在地，其中一枚炮弹靠近核反应堆的一个动力装置。Energoatom 周六表示核电站继续运行，工作人员在继续工作。乌克兰检方对此事故展开调查。本周二国际原子能机构负责人曾警告扎波罗热核电站失控，核安全的每一项原则都被违反了。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伊朗对阿尔巴尼亚政府发动网络攻击]]></title>
-        <id>https://www.solidot.org/story?sid=72382</id>
-        <link href="https://www.solidot.org/story?sid=72382"/>
-        <updated>2022-08-06T11:35:48.000Z</updated>
-        <summary type="html"><![CDATA[针对阿尔巴尼亚政府的网络攻击在 7 月中旬导致政府网站和公共服务中断数小时。俄罗斯被认为是最可能的攻击嫌疑人，但安全公司 Mandiant 本周公布的研究报告认为伊朗才是攻击发起者。自由伊朗世界峰会计划于 7 月 23 日到 24 日在阿尔巴尼亚的 Albania 举行，而这一攻击发生在会议前的 7 月 17 日。随后峰会在开始前一天因所谓的恐怖主义威胁而推迟。研究人员称，攻击者部署了 Roadsweep 家族的勒索软件，可能利用了一个先前未知的后门 Chimneysweep，以及 Zeroclear 删除程序的新变种。伊朗此前主要在中东地区特别是以色列从事网络黑客活动。但针对阿尔巴尼亚的网络攻击不是为了窃取数据，而是为了破坏，影响到阿尔巴尼亚人的日常生活，是为了迫使阿尔巴尼亚政府回应。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家声称西班牙辣肠是韦伯拍摄的照片]]></title>
-        <id>https://www.solidot.org/story?sid=72381</id>
-        <link href="https://www.solidot.org/story?sid=72381"/>
-        <updated>2022-08-06T10:26:53.000Z</updated>
-        <summary type="html"><![CDATA[你也许还记得 NASA 欧罗巴 Twitter 账号（该账号已停止更新，内容全部删光）曾发布一张九宫图，由平底锅和欧罗巴卫星照片混合组成，让网友从中寻找哪张是真正的欧罗巴。现在法国替代能源和原子能委员会研究总监 Etienne Klein 做了类似的事情，但更具欺骗性。他转发了天体物理学家  Peter Coles 的帖子，但更换了描述，声称是韦伯太空望远镜拍摄的距离太阳最近的恒星比邻星的照片，称恒星细节难以置信，“Ce niveau de détails… Un nouveau monde se dévoile jour après jour.”很多人信以为真，他随后承认是恶作剧，照片其实是西班牙辣肠。他说，如果不提到韦伯望远镜，不会有多少人会当真的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梦工厂动画的 MoonRay 将开源]]></title>
-        <id>https://www.solidot.org/story?sid=72379</id>
-        <link href="https://www.solidot.org/story?sid=72379"/>
-        <updated>2022-08-06T07:25:13.000Z</updated>
-        <summary type="html"><![CDATA[在 SIGGRAPH 国际图像学年会上，梦工厂动画宣布其私有渲染器 MoonRay 将在年内开源。 MoonRay 是梦工厂内部开发的蒙特卡洛路径追踪器，被用于制作《驯龙高手3（How to Train Your Dragon: The Hidden World）》、《疯狂原始人2（The Croods: A New Age）》、《坏蛋联盟》和即将在年底上映的《穿靴子的猫2（Puss in Boots: The Last Wish）》。MoonRay 使用的基于云端的分布式计算框架 Arras 也将包含在开源代码库中。源代码将采用 Apache 2.0 许可证，未来的更新将通过 OpenMoonRay.org 网站公布。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你叉叉（You Fa Fa）- 主动屏蔽输入法敏感词，骂人前提醒自己消消气]]></title>
-        <id>https://www.appinn.com/?p=42965</id>
-        <link href="https://www.appinn.com/you-fa-fa/"/>
-        <updated>2022-08-06T07:02:56.000Z</updated>
-        <summary type="html"><![CDATA[你叉叉（You Fa Fa）是一款输入法辅助工具，它可以在你心情激动打出敏感词、骂人的话时，弹窗提醒自己消消气，避免陷入毫无意义的骂战。@Appinn 来自发现频道，@dog 同学的新作品：https]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
