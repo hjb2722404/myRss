@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43086",
+          "author": "青小蛙",
+          "description": "aFreeRDP 是一款开源的 RDP Android 客户端，基于 FreeRDP，界面简洁，完美支持 RDP 协议，符合微软开放规范。@Appinn 来自发现频道，@God-Asimov 同学的推",
+          "link": "https://www.appinn.com/afreerdp/",
+          "publishedOn": "2022-08-20T09:24:47.000Z",
+          "wordCount": 1820,
+          "title": "aFreeRDP – 远程桌面协议（RDP）客户端 FreeRDP 的 Android 版本",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-20T171814.208.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=43087",
+          "author": "青小蛙",
+          "description": "最近青小蛙遇到了越来越多、越来越离谱的人机验证程序，比如：请点击每张包含微笑狗的图片、请点击每张包含雌狮的图片、请点击每张包含一只闭着眼睛的狮子的照片。@Appinn 真的是浪费时间啊。 这一系列不着",
+          "link": "https://www.appinn.com/noptcha/",
+          "publishedOn": "2022-08-20T07:33:42.000Z",
+          "wordCount": 1888,
+          "title": "Noptcha – 鉴于越来越离谱的人机验证（Captcha），是时候用机器人反击了",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-20T151420.429.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43043",
           "author": "青小蛙",
           "description": "Files 是一款漂亮的现代开源文件资源管理器，支持多标签页、为文件添加标签、多主题、整合网络硬盘、文件预览等功能。完全可以用来替换 Windows 系统原生资源管理器。@Appinn Files A",
@@ -80,26 +100,6 @@
           "wordCount": 1976,
           "title": "Desk Height Calculator – 站立式办公桌高度计算器",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Desk-Height-Calculator.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43036",
-          "author": "青小蛙",
-          "description": "「才子快写」是一款输入法增强小软件，通过将输入法（微软输入法）和本地词典应用（goldendict）链接，对输入的词汇进行实时查询，给你的输入法开个“文采外挂”。@Appinn 来先感受下开发者 @d",
-          "link": "https://www.appinn.com/caizikuaixie/",
-          "publishedOn": "2022-08-11T06:08:55.000Z",
-          "wordCount": 1915,
-          "title": "才子快写 – 输入法「文采外挂」，实时显示同义词提高文采[Windows]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-11T135550.143.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43033",
-          "author": "青小蛙",
-          "description": "Menubar Countdown 是一款适用于 macOS 系统，简单易用的菜单栏倒计时工具，开源、免费。支持语音提醒、支持 AppleScript 脚本调用实现自动化。@Appinn Menuba",
-          "link": "https://www.appinn.com/menubar-countdown-for-macos/",
-          "publishedOn": "2022-08-11T04:50:23.000Z",
-          "wordCount": 1923,
-          "title": "Menubar Countdown – 简单的菜单栏倒计时工具，支持语音提醒、脚本控制[macOS]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Menubar-Countdown.jpg"
         }
       ]
     },
@@ -137,16 +137,6 @@
           "wordCount": 3405,
           "title": "CSS Grid and Custom Shapes, Part 1",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367324"
-        },
-        {
-          "id": "https://css-tricks.com/?p=367403",
-          "author": "Geoff Graham",
-          "description": "If you use VS Code, you might have enabled the setting for re-opening a previously open file next time the app launches. I do. I like that.\nHey, thanks for remembering, buddy! 🤗\nBut sometimes you really, really don’t want …\nQuick Tip: Clear VS Code Cache for Open Files originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-tip-clear-vs-code-cache-for-open-files/",
-          "publishedOn": "2022-08-11T13:35:56.000Z",
-          "wordCount": 1177,
-          "title": "Quick Tip: Clear VS Code Cache for Open Files",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/367403"
         }
       ]
     },
@@ -188,6 +178,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72525",
+          "author": null,
+          "description": "越南信息通信部更新了网络安全法（PDF），强制要求科技巨头和电信公司必须在其境内储存用户数据，由境内实体控制数据。网络安全法覆盖的用户数据不限于姓名、电邮、信用卡、电话号码和 IP，还涉及到用户加入的群组、社交互动等等。基本上用户在网上创建的任何数据都必须储存在越南境内。法律适用于电信服务、存储和共享数据、域名服务、电子商务、在线支付、社交媒体、在线游戏、消息服务，以及语音或视频通话等。新规则将于 2022 年 10 月 1 日生效，外国科技公司有 12 个月时间遵守，它们被要求在越南存储数据至少 24 个月，系统日志存储 12 个月。宽限期后，越南政府保留权利，通过调查和数据收集请求，以及内容删除令，确保公司遵守法律。",
+          "link": "https://www.solidot.org/story?sid=72525",
+          "publishedOn": "2022-08-20T16:17:38.000Z",
+          "wordCount": 157,
+          "title": "越南要求外国科技公司在其境内储存数据和设立办事处",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72524",
+          "author": null,
+          "description": "黑水创始人 Erik Prince 正在力推智能手机创业公司 Unplugged 开发的一款高度安全的手机，但对手机的描述受到了很多人的质疑。新手机的宣传材料声称其操作系统和硬件无法被篡改，消息服务无法被拦截或解密。这款售价预计 850 美元的智能手机声称使用了政府级加密，运行 Android 的一个私有修改版本 LibertOS，硬件规格未知，它可选择的一个服务器集群运行在轮船上，轮船位于国际水域的一个秘密地点，不受任何政府管辖，通过 StarLink 卫星宽带与外界连接。安全研究人员对其安全性是否能达到宣称的程度表示怀疑。",
+          "link": "https://www.solidot.org/story?sid=72524",
+          "publishedOn": "2022-08-20T15:52:05.000Z",
+          "wordCount": 156,
+          "title": "黑水创始人力推“安全”智能手机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72523",
+          "author": null,
+          "description": "美银、巴克莱、德银、摩根士丹利和高盛等华尔街大型银行即将达成协议，各自支付高达 2 亿美元的罚款，并承认其员工使用 WhatsApp 等加密消息应用违反了监管要求。罚款总额可能会超过 10 亿美元，和解协议将在 9 月底前公布。美国证券交易委员会(SEC)和美国商品期货交易委员会(CFTC)计划在 9 月 30 日、政府本财年结束前宣布与银行的协议。这将把这些处罚列入政府的年度执法统计。",
+          "link": "https://www.solidot.org/story?sid=72523",
+          "publishedOn": "2022-08-20T11:31:26.000Z",
+          "wordCount": 172,
+          "title": "华尔街银行将为使用 WhatsApp 等加密应用罚款逾 10 亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72522",
+          "author": null,
+          "description": "苹果宣布它在 2017 年以四亿美元收购的歌曲识别服务 Shazam 诞生 20 周年。创造 Shazam 的同名公司成立于 1999 年，2002 年上线。苹果新闻稿称，Shazam 的歌曲识别次数在本周正式突破 700 亿次。这个平台如今已是流行文化的一个重要组成部分，它让所有人都能轻松便利地识别歌曲，从而改变人们与音乐互动的方式。 对于全球超过 2.25 亿的月度活跃用户来说，“Shazam 一下”就意味着新的发现。为纪念这个里程碑时刻，Shazam 打造了一份特别歌单，收录了过去 20 年来每一年中 Shazam 识别次数最多的歌曲。",
+          "link": "https://www.solidot.org/story?sid=72522",
+          "publishedOn": "2022-08-20T11:21:50.000Z",
+          "wordCount": 185,
+          "title": "苹果旗下的 Shazam 服务诞生 20 年",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72521",
           "author": null,
@@ -1026,156 +1056,6 @@
           "publishedOn": "2022-08-11T16:11:58.000Z",
           "wordCount": 156,
           "title": "当加密货币受到监管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72437",
-          "author": null,
-          "description": "微软收购动视暴雪的交易还需要获得主要国家监管机构的批准，而监管机构则在询问游戏业内对这一交易的看法。此前微软游戏机业务的主要竞争对手索尼发表评论，认为动视旗下的《使命召唤》系列游戏是独一无二的，其它游戏公司难以制作出与之抗衡的同类产品。微软本周回应了索尼的评论，否认《使命召唤》是独一无二的。微软列举数据称，2021 年最畅销的 20 款游戏中动视暴雪只有两款入榜，《使命召唤》只是畅销游戏之一。而由于竞争对手采取了独占策略，很多畅销游戏都无法登陆 Xbox 平台。微软强调，《使命召唤》不会 Xbox 平台独占，会继续登陆多个平台如索尼的 PS。微软指责索尼将独占作为其平台战略的核心，除了第一方游戏，索尼还与第三方达成协议，限时独占或 DLC 独占。微软称，索尼推出了自己的订阅服务，它不满 Game Pass 是因为它不希望具有吸引力的订阅服务会危及其在主机数字游戏发行市场的地位。",
-          "link": "https://www.solidot.org/story?sid=72437",
-          "publishedOn": "2022-08-11T15:27:56.000Z",
-          "wordCount": 157,
-          "title": "微软否认动视暴雪的使命召唤是独一无二的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72436",
-          "author": null,
-          "description": "最近几周 Pinterest 联合创始人本·西尔伯曼辞去了首席执行官一职；Airbnb 联合创始人乔·杰比亚宣布退出公司领导层；Instacart 创始人阿普尔瓦·梅塔表示，公司最快于今年内上市，此后他将不再执行董事长的职务。这些都是过去十年硅谷涌现的最具价值、最知名的公司，这些辞职事件意味着一个时代的结束，也意味着它们所代表时代的结束。近年来投资者向一批价值在 10 亿美元以上、被称为“独角兽”的高估值初创企业投入了越来越多资金，它们的创始人被视为有远见的英雄。他们争取到了特殊的所有权，以保持他们对公司的控制——这与过去企业家经常被更有经验的高管取代或被迫出售公司有很大区别。但随着今年股市大幅下跌，亏损的科技公司受到尤其严重的打击，这种做法开始改变。风险投资家不再大手大脚，并敦促硅谷那些备受赞誉的年轻公司削减成本、谨慎行事。这个行业开始谈论“战时首席执行官”，他们可以用更少的钱做更多的事情，同时大肆宣扬从以前的衰退中吸取的教训。",
-          "link": "https://www.solidot.org/story?sid=72436",
-          "publishedOn": "2022-08-11T14:52:01.000Z",
-          "wordCount": 150,
-          "title": "独角兽创始人纷纷离开创办的公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72435",
-          "author": null,
-          "description": "一组诉讼指控成人社媒平台 OnlyFans 制定了一种奇特的方案打击竞争对手：通过贿赂 Meta 员工将成人明星放到恐怖分子观察名单，导致她们在 Meta 旗下平台如 Instagram 和 Facebook 的账号被限制访问。在 OnlyFans 竞争平台出售 X 级照片和视频的成人明星称她们的 Instagram 的账号被错误标记为包含恐怖主义内容——这破坏了她们推广业务的能力，降低了其收入。OnlyFans 发表声明否认指控，称没有任何证据支持这一指控。原告声称至少从 2018 年开始，有一名或多名 Meta 员工从 OnlyFans 接受贿赂。",
-          "link": "https://www.solidot.org/story?sid=72435",
-          "publishedOn": "2022-08-11T14:46:50.000Z",
-          "wordCount": 179,
-          "title": "OnlyFans 被控贿赂 Meta 员工将成人明星放到恐怖分子观察名单",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72434",
-          "author": null,
-          "description": "根据发表在《The Astrophysical Journal Letters》期刊上的一项研究，天文学家宣布在距离地球 395 光年的蛇夫座上发现了一颗只有 150 万年历史的星体，可能是有史以来人类发现的最年轻的行星。科学家表示仍需进一步利用韦伯太空望远镜观测来确认它的存在。一旦确认，天文学家将可以利用它来更好地了解我们的世界是如何形成的。天文学家使用位于智利的 Atacama Large Millimeter/submillimeter Array(ALMA)收集到了这个极其年轻的星体正在形成的证据，该天体围绕的恒星 AS 209 的质量略大于太阳，只有 150 万年历史，最近才开始燃烧氢气。未来几天，韦伯望远镜将会瞄准该天体研究其大气化学成分。",
-          "link": "https://www.solidot.org/story?sid=72434",
-          "publishedOn": "2022-08-11T10:44:44.000Z",
-          "wordCount": 160,
-          "title": "天文学家或发现银河系最年轻行星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72433",
-          "author": null,
-          "description": "伊朗商务部长 Alireza Peyman Pak 在 Twitter 上透露该国用加密货币支付进口商品费用。他称，本周使用了价值 1 千万美元的加密货币下了第一份正式的进口订单，到九月底加密货币和智能合约将会广泛用于目标国家的对外贸易。他没有透露使用的加密货币和交易国家的身份。但他的信息清楚表明伊朗将在跨境结算中使用加密货币。此举被认为有助于逃避美国制裁。",
-          "link": "https://www.solidot.org/story?sid=72433",
-          "publishedOn": "2022-08-11T09:59:17.000Z",
-          "wordCount": 152,
-          "title": "伊朗用加密货币支付商品进口费用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72432",
-          "author": null,
-          "description": "FCC 现任主席 Jessica Rosenworcel 取消了上任主席 Ajit Pai 在 2020 年 12 月授予 Starlink 的 8.8551 亿美元拨款。名为 Rural Digital Opportunity Fund (RDOF)的拨款用于资助很少或几乎没有高速宽带接入地区的宽带建设。Rosenworcel 列举的理由包括：Starlink 的卫星宽带服务需要用户购买价值 600 美元的终端；Starlink 的网速不够快，无法提供下载 100 Mbps 和上传 20 Mbps 的低延迟服务，Starlink 的上传网速远低于 20 Mbps...",
-          "link": "https://www.solidot.org/story?sid=72432",
-          "publishedOn": "2022-08-11T09:03:45.000Z",
-          "wordCount": 198,
-          "title": "FCC 取消了给予 Starlink 的 8.86 亿美元的拨款",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72431",
-          "author": null,
-          "description": "比利时鲁汶大学的安全研究人员 Lennert Wouters 将在拉斯维加斯举行的 Black Hat 安全会议上介绍如何使用 25 美元的设备入侵 Starlink 宽带卫星星座的终端。Wouters 已经将工具开源发布在 GitHub 上。他的黑客工具是名叫 modchip 的定制电路板，使用现成的元件，成本约 25 美元，连接到 Starlink 天线上后能发动故障注入攻击，短暂的短路系统，绕过安全保护，进入被锁定的部分。Wouters 去年向 SpaceX 报告了漏洞，该公司也释出了一个更新增加了入侵的难度，但除非更换主芯片，问题并没有根本上解决。SpaceX 已经就此发表了一则声明（PDF），强调该漏洞无法远程利用必须物理访问终端，不会直接影响到 Starlink 卫星。",
-          "link": "https://www.solidot.org/story?sid=72431",
-          "publishedOn": "2022-08-11T08:04:52.000Z",
-          "wordCount": 185,
-          "title": "研究人员使用 25 美元的设备入侵 Starlink 终端",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72430",
-          "author": null,
-          "description": "微软电子书商店发表声明，宣布从 8 月 18 日起开始停止提供 MOBI 格式。微软给出的理由是亚马逊已经宣布将退役其私有的 MOBI 电子书格式，从 2022 年 8 月开始将无法通过 Send to Kindle 服务向  Kindle 电子书阅读器和 Kindle 应用发送 MOBI 文件格式。微软电子书商店将会继续提供 EPUB 和 PDF 格式，但不再提供 MOBI 格式。",
-          "link": "https://www.solidot.org/story?sid=72430",
-          "publishedOn": "2022-08-11T07:23:40.000Z",
-          "wordCount": 184,
-          "title": "微软电子书商店停止支持 MOBI 格式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72429",
-          "author": null,
-          "description": "Pew Research 发表报告，调查了美国青少年的社媒使用趋势：95% 的人使用 YouTube，19% 的人几乎一直在用；67% 的人使用 TikTok，16% 的人几乎一直在用；第三受欢迎的社媒是 Instagram，62% 的人使用它，10% 的人称几乎一直在用。此前在 2014-15 年进行的调查结果是，52% 的人在用 Instagram，当时 TikTok 还不存在，调查也没有询问 YouTube 的使用情况。Snapchat 的使用率 59%，上一次是 41%。Facebook 之前是青少年最受欢迎的社媒平台，使用率 71%，如今降至 32%，Twitter 从 33% 降至 23%，Tumblr 从 14% 降至 5%。在最新调查中，Twitch 为 20%，WhatsApp 17%，Reddit 14%。",
-          "link": "https://www.solidot.org/story?sid=72429",
-          "publishedOn": "2022-08-11T06:44:40.000Z",
-          "wordCount": 185,
-          "title": "美国青少年最爱用的社媒是 YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72428",
-          "author": null,
-          "description": "富士康警告对智能手机等消费电子产品的需求正在放缓。 董事长刘扬伟称，今年剩下时间里，智能手机市场的表现可能与上年同期持平。他列举了可能的风险，包括不断变化的地缘政治局势、通货膨胀和新冠疫情。 富士康公布，在截至 6 月份的季度里，净利润较上年同期增长了 12%，这得益于对智能手机和云计算设备的强劲需求。",
-          "link": "https://www.solidot.org/story?sid=72428",
-          "publishedOn": "2022-08-11T03:56:45.000Z",
-          "wordCount": 149,
-          "title": "富士康警告智能手机需求放缓",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72427",
-          "author": null,
-          "description": "根据发表在《自然》期刊上的一项研究，澳大利亚科学家证明地球大陆是由巨大的陨石撞击形成的，在地球 45 亿年历史的最初 10 亿年左右，这种撞击尤为普遍。研究人员对锆石晶体中氧同位素组成的研究揭示了一个“自上而下”的过程，即从地表附近的岩石熔化开始，然后逐渐深入，这与巨型陨石撞击的地质效应一致。新研究提供了第一个确凿的证据，证明最终形成大陆的过程始于巨大的陨石撞击，类似于导致恐龙灭绝的过程。",
-          "link": "https://www.solidot.org/story?sid=72427",
-          "publishedOn": "2022-08-11T03:48:23.000Z",
-          "wordCount": 151,
-          "title": "地球大陆形成于陨石撞击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72426",
-          "author": null,
-          "description": "达拉斯独行侠队老板库班（Mark Cuban）是加密货币的狂热支持者，但他也不看好元宇宙中的虚拟房地产生意。他认为在虚拟世界里买房产是最最愚蠢的事情。他的理由是与现实世界不同，元宇宙的房地产不具有稀缺性，其数量可以无限增加。库班投资过 NFT，是 Yuga Labs 的投资人，该公司拥有 Bored Ape Yacht Club 和 CryptoPunks 等 NFT 收藏品，最近融资 3.17 亿美元进军元宇宙房地产，库班不看好这一生意，认为不实用。",
-          "link": "https://www.solidot.org/story?sid=72426",
-          "publishedOn": "2022-08-11T03:15:46.000Z",
-          "wordCount": 160,
-          "title": "库班不看好元宇宙里的虚拟房地产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72425",
-          "author": null,
-          "description": "CoinGecko 的研究发现，非洲人口最多的国家对加密货币的兴趣最为浓厚。尼日利亚以其骗局扬名全世界。研究调查了 Google 趋势中的六个搜索词，其中包括 buy crypto、invest in crypto 等，然后组合排名，结果显示尼日利亚最高 371 分，其次是阿拉伯联合酋长国和新加坡。CoinGecko 联合创始人 Bobby Ong 称，名单中靠前的国家热衷于买跌，显示它们对加密货币的长期前景看好。",
-          "link": "https://www.solidot.org/story?sid=72425",
-          "publishedOn": "2022-08-11T02:20:57.000Z",
-          "wordCount": 158,
-          "title": "尼日利亚对加密货币的兴趣最为浓厚",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72424",
-          "author": null,
-          "description": "Netflix 订阅用户连续两个季度减少，它的竞争对手迪士尼则报告其订户增长逾 1400 万。迪士尼公布了截至 7 月 2 日的 Q3 FY22 财报，收入 215 亿美元，增长 26%，利润 14.1 亿美元，流媒体服务 Disney+ 新增 1440 万订户，几乎都来自北美以外。首席执行官包正博(Bob Chapek)将该公司的强劲业绩归功于其美国主题公园的表现、体育直播收视率的大增和流媒体服务的订户增长。虽然订户数增长，但迪士尼三大流媒体服务 Disney+、 Hulu 和 ESPN+ 亏损高达 11 亿美元，米老鼠宣布了涨价并推出广告支持的订阅方案：无广告的 Disney+ 月费从 7.99 美元上涨至 10.99 美元，含广告的月费为 7.99 美元；Hulu 的无广告订阅费从 12.99 美元增加到 14.99 美元，带广告的月费从 6.99 美元增加到 7.99 美元。流媒体套餐收费将保持不变为每月 19.99 美元，包括无广告的 Disney+ 和 Hulu 以及有广告的 ESPN+。",
-          "link": "https://www.solidot.org/story?sid=72424",
-          "publishedOn": "2022-08-11T02:07:29.000Z",
-          "wordCount": 207,
-          "title": "Disney+ 新增加 1440 万订户，将提供广告支持的订阅方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72423",
-          "author": null,
-          "description": "用于渗透测试、安全审计和网络安全研究的发行版 Kali Linux 释出了 2022.3。主要新变化包括：改进虚拟机支持；新的网络分析工具 BruteShark，开源应用漏洞关联和安全协调工具 DefectDojo，漏洞利用框架 phpsploit，针对 Lync/S4B/OWA/O365 的密码喷射攻击工具SprayingToolkit，shellfire；Linux Kernel 5.18.5；改进  ARM 支持；等等。",
-          "link": "https://www.solidot.org/story?sid=72423",
-          "publishedOn": "2022-08-10T15:36:28.000Z",
-          "wordCount": 170,
-          "title": "Kali Linux 2022.3 发布",
           "imageUrl": null
         }
       ]
