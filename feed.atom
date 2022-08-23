@@ -2,10 +2,143 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-08-22T03:57:33.538Z</updated>
+    <updated>2022-08-23T04:11:20.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[疫情期间中国出口份额上升]]></title>
+        <id>https://www.solidot.org/story?sid=72539</id>
+        <link href="https://www.solidot.org/story?sid=72539"/>
+        <updated>2022-08-22T15:34:59.000Z</updated>
+        <summary type="html"><![CDATA[数据显示，新冠疫情期间，中国在全球货物出口总额中的占比有所上升，从 2019 年的 13% 升至 2021 年底的 15%。相比下，2021 年德国在全球出口总额中的占比从 2019 年的 7.8% 降至 7.3%；日本的份额从 3.7% 降至 3.4%；而美国的比重从 8.6% 降至 7.9%。数据显示，中国在全球电子产品出口中的份额从 2019 年的 38% 上升到 2021 年的 42%，在纺织品出口中的份额从 32% 上升到 34%。中国 2020 年从疫情造成的最初冲击中迅速恢复过来，因此在西方市场商品需求猛增之际，国内工厂存在供应优势，这些商品包括口罩和检测试剂盒等低成本医疗物资，以及电脑周边设备和健身器材等消费品。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Grid and Custom Shapes, Part 2]]></title>
+        <id>https://css-tricks.com/?p=372396</id>
+        <link href="https://css-tricks.com/css-grid-and-custom-shapes-part-2/"/>
+        <updated>2022-08-22T14:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Alright, so the last time we checked in, we were using CSS Grid and combining them with CSS clip-path and mask techniques to create grids with fancy shapes.
+Here’s just one of the fantastic grids we made together:
+CodePen…
+CSS Grid and Custom Shapes, Part 2 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[包路由算法无法区分网络抖动和拥堵]]></title>
+        <id>https://www.solidot.org/story?sid=72538</id>
+        <link href="https://www.solidot.org/story?sid=72538"/>
+        <updated>2022-08-22T11:35:06.000Z</updated>
+        <summary type="html"><![CDATA[一项新研究发现，设计控制网络拥堵延迟的许多关键算法有内在缺陷，不公平的拥堵控制变得不可避免，让部分用户占据了全部带宽，另一部分什么也没有。拥塞控制算法依赖丢包和延迟等信息去推断拥塞，决定发送数据的速度。但由于现实世界网络路径的复杂性，数据包会因为拥堵之外的因素丢失和延迟，这种不是由于拥堵造成的延迟被称为抖动(Jitter)。算法无法分辨抖动和拥堵所造成的延迟之间的区别，而抖动造成的延迟是不可预测的。这就造成了被称为“饥饿（starvation）”的现象——总是会有人因为不公平的拥堵控制算法而无法获得带宽。研究人员测试了所有已知的拥堵控制算法以及设计的新算法，发现这种现象是不可避免的，需要新的策略去避免饥饿。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内专家建议建立元宇宙监管机制]]></title>
+        <id>https://www.solidot.org/story?sid=72537</id>
+        <link href="https://www.solidot.org/story?sid=72537"/>
+        <updated>2022-08-22T10:57:57.000Z</updated>
+        <summary type="html"><![CDATA[元宇宙虚拟房地产暴跌，中国政法大学区块链金融法治研究中心主任胡继晔建议建立元宇宙监管机制。元宇宙分析平台 WeMeta 最新数据显示，2022 年六大元宇宙平台内的虚拟土地价格大幅下降，平均价格从今年1月份的约 1.7 万美元下降到 8 月份的约 2500 美元，半年内跌幅达 85%。而整体的销售数量也从去年的 1.6万 笔跌到今年 8 月份的 2000 笔，下降了 87.5%。胡继晔教授认为，社会需要完善元宇宙的治理体系，不能放任自流，必须建立元宇宙的监管机制。他透露目前正在为《元宇宙领导干部读本》撰写“元宇宙治理”的章节，将对元宇宙的治理、监管方面做一些新的探索。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CleanMyMac X VS 腾讯柠檬清理｜功能对比￼]]></title>
+        <id>https://www.appinn.com/?p=43065</id>
+        <link href="https://www.appinn.com/cleanmymac-x-vs-lemon-cleaner/"/>
+        <updated>2022-08-22T10:36:00.000Z</updated>
+        <summary type="html"><![CDATA[上个月有一条消息：腾讯柠檬清理开源。作为一款大厂产品，这对很多人来说都有一些意外。而作为同类但实际上功能又大不相同的付费软件 CleanMyMac X 在上月也迎来了更新，推出了全新的「菜单」功能。到]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北半球遭遇严重干旱]]></title>
+        <id>https://www.solidot.org/story?sid=72536</id>
+        <link href="https://www.solidot.org/story?sid=72536"/>
+        <updated>2022-08-22T09:47:00.000Z</updated>
+        <summary type="html"><![CDATA[从加州的农场到欧洲和中国的水道，整个北半球的严重干旱正进一步扰乱供应链，推高食品和能源价格，同时令本就处于压力之下的全球贸易体系进一步承压。据中国气象局国家气候中心，中国部分地区正经历自 1961 年有记录以来持续时间最长的高温热浪事件，由此引发的水力发电量锐减导致生产停摆。欧盟委员会联合研究中心的气候科学家 Andrea Toreti 表示，影响西班牙、葡萄牙、法国和意大利的干旱可能是 500 年来最严重的一次。气候科学家称，造成今年旱情的一个因素是拉尼娜现象(La Nina)。拉尼娜现象是指太平洋东部海水温度周期性变冷，推动大气急流向北移动，导致欧洲、美国和亚洲部分地区的降雨量减少。联合国表示，自 2000 年以来，全球干旱的次数和持续时间增加了 29%，主要影响因素是土地退化和气候变化。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[质子可能含有一个粲夸克]]></title>
+        <id>https://www.solidot.org/story?sid=72535</id>
+        <link href="https://www.solidot.org/story?sid=72535"/>
+        <updated>2022-08-22T08:54:11.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《自然》期刊上的一项研究，质子可能含有一个粲夸克。夸克是一种基本粒子，已知有6种夸克：上、下、顶、底、粲、奇异夸克，通常情况下，2 个或 3 个夸克结合在一起可以形成亚原子粒子强子（如质子和中子）。教科书上称，质子包含两个上夸克和一个下夸克。但在量子力学领域，粒子的结构由概率决定，这意味着从理论上来说，在质子内部，其他夸克有可能以物质—反物质对的形式出现。在最新研究中，荷兰阿姆斯特丹自由大学的物理学家发现了证据，证明质子动量的一小部分（约 0.5%）来自粲夸克。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当 Google 认定你在犯罪]]></title>
+        <id>https://www.solidot.org/story?sid=72534</id>
+        <link href="https://www.solidot.org/story?sid=72534"/>
+        <updated>2022-08-22T08:26:30.000Z</updated>
+        <summary type="html"><![CDATA[当 Google 关闭你的账号，你是很难找到方法上诉去推翻搜索巨人的决定的。即使你是付费用户，依赖 Google 仍然是一个巨大的风险。同样的事情一次又一次发生。《纽约时报》报道了一位旧金山家庭主夫的不幸经历。2021 年 2 月的一个周五晚上，Mark（他没有提供完整姓名以免名誉受损） 注意到儿子的生殖器似乎发胀了，他抓起  Android 手机拍摄了照片。新冠疫情当时正在流行，护士建议发送照片给医生评估。医生很快诊断了问题，开了抗生素，情况迅速好转。但真正的麻烦才刚刚开始。因为 Google 有自动工具扫描儿童色情内容，在拍摄照片两天之后他的 Google 账号就以存在有害内容的理由关闭了。讽刺的是，作为软件工程师 Mark 曾为一家大公司开发自动工具下架被用户标记为有问题的视频内容。他以为在申述阐述情况之后 Google 会迅速解封账号。他很快发现过于依赖 Google 的问题——他的  Google Fi 账号也被关闭了，必须换手机号码。Google 之后还拒绝了他的上诉，没有给出更多解释。2021 年 12 月，Mark 收到旧金山警局的邮件，披露了他因为“儿童色情”而受到的调查，警方调查人员的结论是没有犯罪发生，案件了结了。他再次上诉到 Google 并提供了警方的证词，但一无所获。他的账号已经被永久删除了。Mark 考虑起诉 Google 但认识到并不值得。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Highlighter – 为图片上的私密内容打码（漂亮、均匀、完整），保护隐私[macOS/iOS]]]></title>
+        <id>https://www.appinn.com/?p=43106</id>
+        <link href="https://www.appinn.com/black-highlighter/"/>
+        <updated>2022-08-22T08:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Black Highlighter 是一款支持 macOS、iPad、iPhone 的隐私内容打码工具，它能够自动识别图片上的文字部分，但并不会自动打码，而是需要用户手动划掉隐私部分，获得漂亮、均匀、]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot 可能是完美的编程考试作弊工具]]></title>
+        <id>https://www.solidot.org/story?sid=72533</id>
+        <link href="https://www.solidot.org/story?sid=72533"/>
+        <updated>2022-08-22T07:15:44.000Z</updated>
+        <summary type="html"><![CDATA[微软的代码建议完成工具 GitHub Copilot 可能是完美的编程考试作弊工具。马萨诸塞大学阿默斯特分校的 CS 教授 Emery Berger 对教师发出警告，认为 Copilot 就像是学生带着乌兹枪去参加刀战，让传统的编程考试变得毫无意义，因为 Copilot 知道所有答案。对使用 Copilot 的学生而言，教师的课程目标就像是敲一下 Tab 键去生成期望输出的代码。Berger 称，Copilot 不同于在编程问答社区 Stack Overflow 搜索答案，你能在网上找到示例代码，教师也能这么做，然后可以用剽窃检测工具对比下代码。Copilot 能生成网上没有的代码。他认为编程教学需要适应这一新情况。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯投资的游戏公司逾 180 家]]></title>
+        <id>https://www.solidot.org/story?sid=72532</id>
+        <link href="https://www.solidot.org/story?sid=72532"/>
+        <updated>2022-08-22T04:57:59.000Z</updated>
+        <summary type="html"><![CDATA[按照游戏业务营收排名，腾讯高居第一，2021 年收入 322 亿美元，远高于索尼的 182 亿美元和苹果的 153 亿美元。因国内业务发展受阻，腾讯正在快速拓展国外业务，此前传出它计划收购法国游戏巨头育碧的股份。统计数据显示，腾讯至今在欧美和日本投资了逾 180 家企业，其中包括《艾尔登法环》(Elden Ring )开发商 From Software 的母公司 KADOKAWA。从 2022 年 1～6 月腾讯的出资案件来看，海外比例达到 40%，大幅超过 2021 年全年的 18%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本首相新冠阳性]]></title>
+        <id>https://www.solidot.org/story?sid=72531</id>
+        <link href="https://www.solidot.org/story?sid=72531"/>
+        <updated>2022-08-22T03:50:37.000Z</updated>
+        <summary type="html"><![CDATA[日本首相官邸 21 日发布消息称，首相岸田文雄感染了新冠病毒。20 日晚开始出现低烧和咳嗽症状，21 日上午 10 点在公邸接受 PCR 检测，下午 4 点确认结果为阳性。据称属于轻症。他将在公邸疗养至 30 日。岸田结束 15 日下午开始的暑假，原计划 22 日恢复处理公务。被判定为密切接触者的是夫人裕子、担任秘书的长子翔太郎。因症状较轻岸田文雄将以远程形式恢复办公。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新加坡将男同性行为非罪化]]></title>
+        <id>https://www.solidot.org/story?sid=72530</id>
+        <link href="https://www.solidot.org/story?sid=72530"/>
+        <updated>2022-08-22T03:44:41.000Z</updated>
+        <summary type="html"><![CDATA[新加坡总理李显龙表示，将废除英国殖民时代的一项法律，将男性之间自愿进行的性行为合法化。但他也表示，将提出一项宪法修正案，以婚姻定义为“一男一女”之间的关系。根据此前的条款，男性之间的“严重猥亵”行为将被判处最高两年监禁，该条文不适用于女性。新加坡的同性恋群体多年来一直在争取废除这项法律，表示尽管该法未被执行，仍会助长歧视。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自由和隐私：一币两面]]></title>
         <id>https://www.solidot.org/story?sid=72529</id>
@@ -871,117 +1004,6 @@ CSS Grid and Custom Shapes, Part 1 originally published on CSS-Tricks, which is 
         <summary type="html"><![CDATA[爱格升工作空间规划器是一个简单明了的办公桌、椅子高度计算器，它来自著名的显示器支架厂商爱格升，提供了更精准、中文，适用于站立与坐姿的办公桌、椅子高度计算器。@Appinn 昨日介绍了 Desk Hei]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国智能手机黄金时代即将结束]]></title>
-        <id>https://www.solidot.org/story?sid=72458</id>
-        <link href="https://www.solidot.org/story?sid=72458"/>
-        <updated>2022-08-13T15:56:06.000Z</updated>
-        <summary type="html"><![CDATA[世界最大智能手机市场陷入了困境。IDC 的数据显示，中国二季度手机出货量下降 14.7%，小米、Vivo 和 Oppo 等都报告销售额急剧下降。销量下降的原因被认为包括新冠严格清零（Covid Zero）政策导致的需求下降，以及市场高度饱和，智能手机的黄金时代即将结束。十年前，4G 时代刚刚起步，中国当时还有很多人从未接触过智能手机。但在今天的 5G 时代，智能手机市场已经高度饱和，中国人口 14 亿，但活跃手机的数量逾 16 亿部，人均一部以上。这一比率远高于全球平均水平。更换手机的需求在减少，智能手机的寿命也在拉长。5G 网络的价格让很多人继续留在 4G 网络。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北极变暖速度远快于预期]]></title>
-        <id>https://www.solidot.org/story?sid=72457</id>
-        <link href="https://www.solidot.org/story?sid=72457"/>
-        <updated>2022-08-13T15:35:16.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《Communications Earth & Environment》期刊上的一项研究，与全球平均值相比，北极变暖速度确实比之前人们认为的更快。北极在全球气候系统中发挥着重要的调制作用。但过去的报告称，极地变暖速率平均而言是全球其他地方的 2—3 倍，是全球地表气温增高最剧烈的地区，这一现象被称为北极放大效应。芬兰气象研究所的科学家分析了北极圈 1979—2021 年间的观测数据，估计这一时期内北冰洋的大部分以每十年 0.75℃ 的速率暖化，至少是全球平均值的 4 倍。在北冰洋的欧亚部分，邻近斯瓦尔巴和新地岛，变暖速度高达每十年 1.25℃，已经 7 倍于世界其他地方。研究团队认为，由于海冰损失增加，北极放大效应会随时间加剧。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈佛教授相信认第一个撞击地球的星际天体来自外星文明]]></title>
-        <id>https://www.solidot.org/story?sid=72456</id>
-        <link href="https://www.solidot.org/story?sid=72456"/>
-        <updated>2022-08-13T15:07:32.000Z</updated>
-        <summary type="html"><![CDATA[今年早些时候，美国太空司令部确认了已知第一个撞击地球的星际天体：它于 2014 年 1 月 8 日在巴布亚新几内亚 Manus 岛附近坠落。哈佛大学天体物理学教授 Avi Loeb 相信该天体可能由外星文明制造而成，但如果不能找到它进行检查，这一猜测是无法确认的，因此教授计划展开一次探险，找回该星际天体。探险活动将花费来自私人捐赠者的逾百万美元。Loeb 教授已经筹集到了 50 万美元，他希望再募集到一百万美元，毕竟要在太平洋的海床上捞针。他相信这将是人类历史上最重要的发现之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 岁，让我们成熟的不是生日而是生活]]></title>
-        <id>https://kaopubear.top/blog/2022-08-13-thirty-years-old-what-i-know/</id>
-        <link href="https://kaopubear.top/blog/2022-08-13-thirty-years-old-what-i-know/"/>
-        <updated>2022-08-13T12:32:11.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="写在前面">写在前面</h2>
-<p>30 岁，有人开始发现自己不再年轻，有人开始焦虑自己的目标、成功和失败，30 岁在 20 岁看来也许觉得好笑，在 40 岁看来也许又觉得矫情。不管怎么说，我的 30 岁还是来了。</p>]]></summary>
-        <author>
-            <name>思考问题的熊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼泊尔的一种本土语言没有“是”或“否”]]></title>
-        <id>https://www.solidot.org/story?sid=72455</id>
-        <link href="https://www.solidot.org/story?sid=72455"/>
-        <updated>2022-08-13T11:32:08.000Z</updated>
-        <summary type="html"><![CDATA[尼泊尔的一个小型土著部落 Kusunda 使用的同名语言 Kusunda 被语言学家认为是独一无二的，它与所有已知语言没有关联，起源未知，缺乏否定句，没有表示“是”或“否”的单词，也没有表示方向的词汇。根据 2011 年的尼泊尔人口普查，目前只有 273 名 Kusunda 人，其中只有一位 48 岁的女性 Kamala Khatri 能流利说 Kusunda 语。Kusunda 人在尼泊尔处于高度边缘化和贫困的地位，大部分人生活在西部的 Dang 区。为保护这种语言，尼泊尔语言委员会自 2019 年以来一直开办 Kusunda 语课程。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寒冷环境抑制肿瘤生长]]></title>
-        <id>https://www.solidot.org/story?sid=72454</id>
-        <link href="https://www.solidot.org/story?sid=72454"/>
-        <updated>2022-08-13T09:59:53.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《自然》期刊上的一项研究，对小鼠的研究发现寒冷环境有助于抑制肿瘤生长。研究人员证明生活在 4 摄氏度下的小鼠相比正常温度，肿瘤生长受到了抑制，这一效应也适用于其它癌症类型。低温不仅对皮肤表面的癌症有影响，对体内深处的肝癌也起作用。原因被认为与激活产生体热的棕色脂肪组织有关。棕色脂肪组织吸收了大量葡萄糖，葡萄糖氧化释放热量，作为体热消耗，没有产生多少 ATP(三磷酸腺苷)。而肿瘤组织需要大量 ATP 来满足其高能量需求。寒冷的作用是限制了肿瘤组织的能量摄取，因此抑制了其生长。研究人员还发现，在人类身上 22 摄氏度就足以激活棕色脂肪组织，导致肿瘤组织的葡萄糖摄取量明显下降。但对小鼠而言，22 摄氏度不够冷，无法产生影响。所以人类并不需要生活在 4 摄氏度下。研究人员指出，这种癌症治疗方法超级简单，家里都可以做到。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desk Height Calculator – 站立式办公桌高度计算器]]></title>
-        <id>https://www.appinn.com/?p=43046</id>
-        <link href="https://www.appinn.com/desk-height-calculator/"/>
-        <updated>2022-08-13T04:50:34.000Z</updated>
-        <summary type="html"><![CDATA[Desk Height Calculator 是一个简单的在线站立式办公桌高度计算器，只需要输入穿上鞋子以后的身高，就能给出站立式办公桌高度建议，另外还提供坐姿高度建议。@Appinn 来自 免費資源]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《撒旦诗篇》作者萨尔曼·拉什迪纽约州遇刺]]></title>
-        <id>https://www.solidot.org/story?sid=72453</id>
-        <link href="https://www.solidot.org/story?sid=72453"/>
-        <updated>2022-08-13T03:24:32.000Z</updated>
-        <summary type="html"><![CDATA[《撒旦诗篇》作者萨尔曼·拉什迪在纽约州遇刺，脖子和腹部被至少刺了一刀，目前正在当地医院接受手术。萨尔曼·拉什迪生于英属印度孟买，十四岁移居英国，现居美国纽约。他的第二部小说《午夜之子》获得 1981 年布克奖，1988 年出版的《撒旦诗篇》对穆罕默德的刻画而在伊斯兰世界视为不敬，拉什迪在 1989 年初发表文章为此辩解，称伊斯兰教义视穆罕默德为人类，既然是人类肯定是不完美的。尽管如此，当时的伊朗精神领袖霍梅尼还是下达了追杀令，英国为此与伊朗断交，1998 年两国恢复外交关系，作为复交的前提，伊朗政府宣布“既不支持也不阻止对拉什迪的刺杀”。 袭击拉什迪的嫌疑人是 24 岁的 Hadi Matar，来自新泽西州的 Fairview。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[江浙沪部分地区今天气温将超过 42 摄氏度]]></title>
-        <id>https://www.solidot.org/story?sid=72452</id>
-        <link href="https://www.solidot.org/story?sid=72452"/>
-        <updated>2022-08-13T02:12:45.000Z</updated>
-        <summary type="html"><![CDATA[中央气象台发布首个高温红色预警：预计 8 月 13 日白天，陕西中南部、四川东部、重庆、河南、湖北、山东南部、安徽、江苏、上海、浙江、福建、江西、湖南、贵州北部和东部以及新疆南疆盆地东部、内蒙古西部等地有 35～39℃ 高温天气，其中，陕西东南部、四川东部、重庆、湖北西部和东南部、湖南北部、江西北部、安徽中部和东南部、江苏南部、上海、浙江中北部等地的部分地区可达 40-42℃，局地可超过 42℃。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度封杀 VLC 播放器项目]]></title>
-        <id>https://www.solidot.org/story?sid=72451</id>
-        <link href="https://www.solidot.org/story?sid=72451"/>
-        <updated>2022-08-13T02:04:56.000Z</updated>
-        <summary type="html"><![CDATA[印度屏蔽了 VLC 播放器项目的网站及下载链接，印度用户访问该网站会显示“根据电子信息技术部在 2000 年 IT 法下的命令，网站已被屏蔽”的信息。印度并没有公开宣布封锁 VLC，印度媒体称背后的原因是该平台被中国黑客组织 Cicada 发动网络攻击，安全专家发现 Cicada 利用 VLC 播放器部署恶意程序加载器。开发 VLC 的 VideoLAN基金会主席 Jean-Baptiste Kempf 表示，封锁始于 2022 年 2 月 13 日，他们询问了印度政府但没有收到回应，奇怪的是部分印度 ISP 屏蔽了 VLC 但还有部分 ISP 没有屏蔽。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tornado Cash 一开发者在荷兰被捕]]></title>
-        <id>https://www.solidot.org/story?sid=72450</id>
-        <link href="https://www.solidot.org/story?sid=72450"/>
-        <updated>2022-08-13T00:57:46.000Z</updated>
-        <summary type="html"><![CDATA[荷兰财政情报调查处（FIOD）宣布在阿姆斯特丹逮捕了一名 29 岁的男子，他涉嫌参与了加密货币混币器项目 Tornado Cash 的开发。混币器旨在提高加密货币的匿名性，本周一美国财政部宣布制裁 Tornado Cash，原因是它帮助朝鲜黑客组织 Lazarus Group 洗钱逾 4.55 亿美元。荷兰 FIOD 称它从今年六月开始对 Tornado Cash 展开刑事调查，原因和美国类似，它被认为帮助洗黑钱。调查显示至少有价值 10 亿美元的犯罪来源加密货币通过该混币器洗白，Tornado Cash 的幕后人士被怀疑从中谋取了大量利润。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
