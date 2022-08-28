@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43158",
+          "author": "青小蛙",
+          "description": "genact 是一款毫无用处的程序员忙碌生成器，支持 Windows、macOS、Linux，它会一直不停的模拟终端运行，显示很多内容，假装你的电脑很忙，让你摸鱼。@Appinn 来自发现频道，论坛的",
+          "link": "https://www.appinn.com/genact/",
+          "publishedOn": "2022-08-27T06:24:37.000Z",
+          "wordCount": 1864,
+          "title": "genact –  假装电脑很忙🌀毫无用处的程序员忙碌状态生成器",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-27T140945.745.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43153",
           "author": "青小蛙",
           "description": "BgSub 是一款最近才推出的免费在线服务，主要功能包括自动去背景（抠图）、更换背景、自动调色、图片编辑几个功能。本地运算，无数据上传，最重要的是支持高达 4096×4096 分辨率，无水印",
@@ -130,16 +140,6 @@
           "wordCount": 1919,
           "title": "Files App – 一个漂亮的现代开源文件资源管理器[Windows]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/files.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43081",
-          "author": "青小蛙",
-          "description": "ZoomIt 是一款有着悠久历史的 Sysinternals 工具，前几日更新了 v6.01 版本，新增录屏功能，目前拥有的功能包括：屏幕放大镜、屏幕涂鸦、屏幕倒计时、录屏几个功能。@Appinn S",
-          "link": "https://www.appinn.com/zoomit-v6-01/",
-          "publishedOn": "2022-08-18T14:29:03.000Z",
-          "wordCount": 1991,
-          "title": "ZoomIt v6.01 更新，支持屏幕放大镜、屏幕涂鸦，新增录屏功能[Windows]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-18T221647.765.jpg"
         }
       ]
     },
@@ -197,16 +197,6 @@
           "wordCount": 4517,
           "title": "CSS Grid and Custom Shapes, Part 2",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372396"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372539",
-          "author": "Geoff Graham",
-          "description": "That ain’t rhetorical: I’m really interested in finding great use cases for CSS multi-column layouts.\nThe answer seems straightforward. Use columns when you want to split any content into columns, right? Here is generally the sort of example you’ll find …\nWhen Do You Use CSS Columns? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/when-do-you-use-css-columns/",
-          "publishedOn": "2022-08-18T13:24:48.000Z",
-          "wordCount": 1272,
-          "title": "When Do You Use CSS Columns?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372539"
         }
       ]
     },
@@ -269,6 +259,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72594",
+          "author": null,
+          "description": "提供密码管理服务的 LastPass 发表声明，称黑客窃取了它的部分源代码。LastPass 称，两周前他们检测到开发环境中有异常活动，随后展开的调查发现未经授权的黑客通过一个入侵的开发者账号获得了对部分开发环境的访问权限，窃取了部分源代码和私有技术信息。LastPass 表示它已经采取了应对措施，并雇佣了一家网络安全和取证公司。它强调没有任何证据表明黑客访问了客户数据或密码库。LastPass 解释说，它利用了行业标准的 Zero Knowledge 零知识架构确保它也不知道客户的主密码。",
+          "link": "https://www.solidot.org/story?sid=72594",
+          "publishedOn": "2022-08-27T15:00:41.000Z",
+          "wordCount": 160,
+          "title": "黑客窃取 LastPass 源代码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72593",
+          "author": null,
+          "description": "四川过去几个月同时遭遇了高温和干旱天气，河流水位降至非常低的水平，多处出现森林火灾。为缓解当地旱情，周四中国航空工业集团的翼龙-2H 无人机参与了中国气象局人工影响天气中心联合四川省气象局等开展的大型无人机人工增雨作业。无人机共飞行 3 小时 50 分钟，使用点燃碘化银焰条 20 根。预测四川的旱情将持续至 29 日，气象部门将密切监测气象条件，抢抓有力时机，持续开展人工增雨作业。",
+          "link": "https://www.solidot.org/story?sid=72593",
+          "publishedOn": "2022-08-27T11:10:00.000Z",
+          "wordCount": 153,
+          "title": "中国气象局尝试用无人机在四川人工降雨",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72592",
           "author": null,
@@ -1097,136 +1107,6 @@
           "publishedOn": "2022-08-19T01:58:32.000Z",
           "wordCount": 168,
           "title": "台积电下个月量产 3 纳米芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72509",
-          "author": null,
-          "description": "在众筹平台 Kickstarter 上筹集到 840994 新西兰元（约合人民币 360 万元）的网游项目 Untamed Isles 宣布停止开发，原因是它将众筹资金花在加密货币上，如今因加密货币崩溃而血本无归，现在只能停止开发。它已经没有钱了，所以也不可能退款。项目停止开发而不是取消开发被认为旨在规避诉讼。根据  Kickstarter 页面的统计，有 10 人资助了 1.2 万元，18 人资助了 5000 元，30 人资助了 3900 元。",
-          "link": "https://www.solidot.org/story?sid=72509",
-          "publishedOn": "2022-08-18T15:44:31.000Z",
-          "wordCount": 165,
-          "title": "因众筹资金花在加密货币上网游项目停止开发",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72508",
-          "author": null,
-          "description": "根据发表在《Science Immunology》期刊上的一项研究，哈佛医学院和和波士顿儿童医院的研究人员开发出一种新抗体，在实验室测试中能中和所有已知新冠变种，包括 Omicron。研究人员希望抗体对病人也具有相同的效果。该抗体被称为 SP1-77，它采用了一种独特的方式抵御新冠病毒。新冠病毒是通过与 ACE2 受体结合逐步进入人体，当它与 ACE2 受体结合后，它需要完成最后一步：将其外膜与人体细胞膜融合起来，从而为感染打开大门。研究发现 SP1-77 抗体能阻止这一步完成。如果这项发现能在人类身上复制，可能有助于研发出更好的疫苗和治疗方法。",
-          "link": "https://www.solidot.org/story?sid=72508",
-          "publishedOn": "2022-08-18T11:27:14.000Z",
-          "wordCount": 153,
-          "title": "新抗体中和所有已知新冠变种",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72507",
-          "author": null,
-          "description": "GNOME 桌面项目本周迎来 25 周岁，开发者发布了 GNOME 43.beta。1997 年 8 月 15 日，两位开发者 Miguel de Icaza 和 Federico Mena Quintero 宣布要开发一套用户友好的应用和桌面工具，类似 CDE 和 KDE，但完全是基于自由软件。1999 年 3 月 3 日首个大版本 GNOME 1.0 发布，GIMP ToolKit (GTK+)被选择作为 GNOME 的基础。 另一个桌面环境 KDE 选择了 Qt，但当时的  Qt 不是 GPL 许可，因此 Red Hat 拒绝其发行版捆绑 KDE。而 GTK 完全采用 GPL 许可证，因而 Red Hat Linux 发行版选择了 GNOME 桌面。",
-          "link": "https://www.solidot.org/story?sid=72507",
-          "publishedOn": "2022-08-18T10:54:24.000Z",
-          "wordCount": 211,
-          "title": "GNOME 项目庆祝诞生 25 周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72506",
-          "author": null,
-          "description": "苹果蓝牙追踪设备AirTag 导致了一名机场合同工被捕。19 岁的 Giovanni De Luca 被控盗窃了价值上万美元的旅客物品。一位旅客上个月报告，她的行李没有到达目的地，其中的物品价值大约 1600 美元。行李箱中有一个 AirTag，位置跟踪显示它目前位于 Pensacola 以东 50 英里 Mary Esther 的 Kathy Court。另一名旅客 8 月 9 日报告行李箱中价值逾 15,000 美元的珠宝等物品被盗。警方交叉对比了居住在 Kathy Court 附近的机场员工，搜索了 De Luca 的家找到了被盗物品。他于 8 月 10 日被捕。De Luca 承认拿走了一个 AirTag。",
-          "link": "https://www.solidot.org/story?sid=72506",
-          "publishedOn": "2022-08-18T09:55:47.000Z",
-          "wordCount": 185,
-          "title": "AirTag 帮助逮捕了盗窃行李的机场工人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72505",
-          "author": null,
-          "description": "微软知道如何让你分心。软件巨人本周为 Windows 小组件（Widget）更新了任务栏通知系统。以天气组件为例，它在大部分情况下为用户提供的是一种静态的体验：晴朗的天显示阳光图标，下雨的天显示雨伞图标。但现在微软为此类组件添加了动画，用户未来几周将会在任务栏看到动画形式的通知，如雷暴警告，如股票上涨或下跌的行情警告。微软称，这些通知是为了让用户快速浏览，如果用户不与它们互动，任务栏会恢复原样。",
-          "link": "https://www.solidot.org/story?sid=72505",
-          "publishedOn": "2022-08-18T08:38:08.000Z",
-          "wordCount": 158,
-          "title": "Windows 11 Widget 现在能触发任务栏通知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72504",
-          "author": null,
-          "description": "剑桥大学的研究人员成功将 3 个已故捐赠者肾脏的血型转变为最常见的 O 型。这一突破将对等待肾移植的患者产生重大影响。研究报告将发表在《British Journal of Surgery》期刊上。研究人员使用常温灌注机灌注一种酶，让其通过已故者的肾脏来冲刷其血液。常温灌注机是一种可与人类肾脏连接的设备，能使含氧血液通过肾脏以便更好地保存。这种酶就像一种“分子剪刀”，可以去除肾脏血管上的血型标记，使肾脏的血型转变为最常见的 O 型。捐赠肾脏移植给谁，最大的决定因素之一是两者的血型兼容。A 型血患者的肾脏不能移植到 B 型血患者身上，反之亦然。但将血型改为通用 O 型将使医生们能进行更多移植，因为 O 型能与其他血型兼容。研究人员表示，接下来需要了解新改变的 O 型血肾脏对患者的正常血型有何反应。",
-          "link": "https://www.solidot.org/story?sid=72504",
-          "publishedOn": "2022-08-18T08:05:58.000Z",
-          "wordCount": 162,
-          "title": "研究人员成功改变肾脏血型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72503",
-          "author": null,
-          "description": "朝鲜黑客组织 Lazarus 的黑客使用一种签名的 macOS 可执行文件冒充 Coinbase，引诱 Web3 领域的求职者打开恶意文件。冒充 Coinbase 的招聘文件命名为 Coinbase_online_careers_2022_07，打开之后它会显示虚假的 PDF 同时加载恶意 DLL，允许攻击者向被感染设备发送指令。安全公司 ESET 的研究人员还发现了 macOS 版本的恶意程序，专门为 macOS 系统编译。macOS 版本恶意程序使用了一个截至 8 月 12 日仍然有效的签名，该签名是在今年 2 月签发给名叫 Shankey Nohria 的开发者的。恶意程序没有经过公证——苹果检查程序是否有恶意成分的自动程序。",
-          "link": "https://www.solidot.org/story?sid=72503",
-          "publishedOn": "2022-08-18T07:51:06.000Z",
-          "wordCount": 189,
-          "title": "朝鲜黑客用签名的 macOS 恶意程序瞄准 IT 求职者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72502",
-          "author": null,
-          "description": "根据发表在《iScience》期刊上的一项研究，艾滋病病毒（HIV）对感染者的衰老具有“早期和实质性”的影响，在感染后2—3年内加速了与正常衰老相关的身体生物变化。与未感染的人相比，HIV 感染可能会使个人的预期寿命缩短大约 5 年。研究表明，即使在感染 HIV 的最初几个月和几年里，病毒已经在 DNA 水平上启动了加速衰老的过程。研究人员检查了 102 名男性在感染HIV后6个月内采集的血液样本，并在 2—3 年后再次采集血样。他们将这些样本与同一时期从 102 名同龄未感染病毒的男性身上采集的样本进行了比较。研究小组检查了 5 种表观遗传学的衰老指标，在没有进行高效抗逆转录病毒治疗的情况下，HIV 感染者在 4 项表观遗传时钟测量中的每一项都显示出显著的年龄加速，从 1.9 岁到 4.8 岁不等，以及在感染初始到感染后 2—3 年的一段时间内端粒的缩短。在相同的时间间隔内，未感染的参与者中没有看到类似的年龄加速。",
-          "link": "https://www.solidot.org/story?sid=72502",
-          "publishedOn": "2022-08-18T07:05:51.000Z",
-          "wordCount": 180,
-          "title": "感染 HIV 加速衰老缩短寿命五年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72501",
-          "author": null,
-          "description": "英国利兹大学的博士生、在 Twitter 上转发女性权利推文的活动人士 Salma al-Shehab 在 2021 年 1 月回沙特度假时遭到拘留，随后被以扰乱公共秩序、破坏国家安全和稳定的理由，判处六年监禁。Shehab 提起了上诉，辩解称她的推特粉丝只有 2000 人，怎么会构成国家安全风险。她抱怨被单独监禁了 285 天。沙特检方的回应是加大惩罚，认为应该按照反恐法和网络犯罪法同时起诉她。8 月 8 日她被判 34 年监禁，是已知沙特王国对女权活动人士刑期最长的判决。",
-          "link": "https://www.solidot.org/story?sid=72501",
-          "publishedOn": "2022-08-18T06:50:16.000Z",
-          "wordCount": 171,
-          "title": "沙特女子因其推文被判入狱 34 年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72500",
-          "author": null,
-          "description": "Redwire 宣布将在 2023 年春季发射首个商业太空温室，推动外太空的作物生产研究，支持未来的探索任务，提高人类在太空种植作物的能力。NASA 正计划重返月球，建立一个长期的月球基地，为未来探索火星做准备。Redwire 的太空温室包含了一个完全自动化的植物生长系统。",
-          "link": "https://www.solidot.org/story?sid=72500",
-          "publishedOn": "2022-08-18T06:18:19.000Z",
-          "wordCount": 161,
-          "title": "Redwire 将在 2023 年发射首个商业太空温室",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72499",
-          "author": null,
-          "description": "NASA 将更新火星漫游车好奇号的软件，将行驶速度提高 50%（付费墙，Google 缓存）。好奇号依靠视觉测程法测量行驶距离，它通常每行驶约 1 米就要停下来检查周围环境照片计算究竟走了多远。这种谨慎的做法使得好奇号的时速只有 45 米，而它本身的硬件能支持每小时 120 米。更新后的软件将让好奇号在静止时拍摄周围环境照片，在行驶时检查先前停止时的位置，随后对发现的任何错误进行补偿。这种做法使得测程精度略有下降，但允许连续移动，提高了速度。测试显示，好奇号的时速能增加到 83.2 米，提速 50%。好奇号漫游车本月初迎来了登陆火星的十周年。",
-          "link": "https://www.solidot.org/story?sid=72499",
-          "publishedOn": "2022-08-18T06:05:51.000Z",
-          "wordCount": 160,
-          "title": "好奇号将通过软件更新提速 50%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72498",
-          "author": null,
-          "description": "日经报道（archive），越南将首次为苹果生产 Apple Watch 和 MacBook。越南是苹果在中国之外最重要的制造基地，此前主要生产 iPad 和 AirPods 等一系列产品。Apple Watch 更复杂，生产该设备代表着制造技术的进步。在今年早些时候上海因新冠疫情实施大规模封锁政策导致供应链中断之后，苹果将更多的生产转移到了越南。报道援引消息来源称，苹果供应商 Luxshare Precision Industry 和富士康开始在越南北部试产 Apple Watch。苹果供应商也已经在越南建了一条 MacBook 测试生产线。Google、戴尔和亚马逊等公司也都在越南设立了生产基地。",
-          "link": "https://www.solidot.org/story?sid=72498",
-          "publishedOn": "2022-08-18T02:23:16.000Z",
-          "wordCount": 178,
-          "title": "越南将首次为苹果生产 Apple Watch 和 MacBook",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72497",
-          "author": null,
-          "description": "四川省政府等在 8 月 14 日发出的通知显示，要求工业用电企业全面停产。时间为 8 月 15 日至 20 日。对象涉及全省 21 市（含自治州）中的 19 市，预计四川的约 1.65 万家企业（包括制造企业等）中的一大半将受到影响。鸿海精密工业的工厂位于成都市，生产 iPad、和苹果手表等。计划停电的原因是中国遭遇了高温天气和降雨量减少。四川的最高气温有时超过摄氏 40 度。四川省一名干部表示，从 7 月迎来了 60 年一遇的高温天气。酷暑持续，用电需求扩大。四川山区较多，水力发电是主要的发电方式，但 7 月的降雨量减少至往年的一半左右，发电量减少。",
-          "link": "https://www.solidot.org/story?sid=72497",
-          "publishedOn": "2022-08-18T02:00:39.000Z",
-          "wordCount": 169,
-          "title": "四川等地限电",
           "imageUrl": null
         }
       ]
