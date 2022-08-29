@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43167",
+          "author": "青小蛙",
+          "description": "Progressbar95 是一款独特的怀旧超休闲游戏， 旨在唤起人们对旧 Windows 和 Macintosh 操作系统的怀念。其中模拟了开始菜单，任务栏，Clippy，磁盘清理甚至蓝屏等经典元素",
+          "link": "https://www.appinn.com/progressbar95/",
+          "publishedOn": "2022-08-28T07:24:04.000Z",
+          "wordCount": 1977,
+          "title": "Progressbar95 – 模拟旧操作系统，一路打怪、拼硬件，升级到最新操作系统，这居然是一款游戏？！",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-28T151134.042.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43158",
           "author": "青小蛙",
           "description": "genact 是一款毫无用处的程序员忙碌生成器，支持 Windows、macOS、Linux，它会一直不停的模拟终端运行，显示很多内容，假装你的电脑很忙，让你摸鱼。@Appinn 来自发现频道，论坛的",
@@ -130,16 +140,6 @@
           "wordCount": 1888,
           "title": "Noptcha – 鉴于越来越离谱的人机验证（Captcha），是时候用机器人反击了",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-20T151420.429.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43043",
-          "author": "青小蛙",
-          "description": "Files 是一款漂亮的现代开源文件资源管理器，支持多标签页、为文件添加标签、多主题、整合网络硬盘、文件预览等功能。完全可以用来替换 Windows 系统原生资源管理器。@Appinn Files A",
-          "link": "https://www.appinn.com/files-app-for-windows/",
-          "publishedOn": "2022-08-19T05:26:29.000Z",
-          "wordCount": 1919,
-          "title": "Files App – 一个漂亮的现代开源文件资源管理器[Windows]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/files.jpg"
         }
       ]
     },
@@ -214,16 +214,6 @@
           "wordCount": 962,
           "title": "科技爱好者周刊（第 220 期）：人工智能的机会在哪里",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/08/weekly-issue-219.html",
-          "publishedOn": "2022-08-19T00:21:03.000Z",
-          "wordCount": 875,
-          "title": "科技爱好者周刊（第 219 期）：如何防止帐号被黑",
-          "imageUrl": null
         }
       ]
     },
@@ -259,6 +249,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72599",
+          "author": null,
+          "description": "根据发表在《皇家学会开放科学》期刊上的一项研究，草食性海生哺乳动物儒艮在中国沿海水域功能性灭绝。这项研究基于对中国南方近 800 名渔民的采访。自 1970 年代中期以来，中国沿海水域的儒艮数就开始急剧下降。“功能性灭绝”意味着，即使少量儒艮仍然存活在中国沿海，它们的数量也无法维持一个可存活的种群。全世界大约 40 个国家的水域仍然生活着接近 10 万只儒艮。儒艮为海牛目儒艮科，是海牛目中唯一仍生存于印度-太平洋地区的物种。",
+          "link": "https://www.solidot.org/story?sid=72599",
+          "publishedOn": "2022-08-29T02:53:04.000Z",
+          "wordCount": 153,
+          "title": "儒艮在中国沿海功能性灭绝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72598",
+          "author": null,
+          "description": "试图成为 Web3 版本 DNS 的以太坊域名服务 ENS 依赖 Eth.link 将 .eth 域名记录转换到其它服务。但 eth.link 域名是有时间期限的，到期后需要续期。问题是域名持有人 Virgil Griffith 因帮助朝鲜逃避制裁而被判入狱五年，目前正在服第一年牢役。域名服务商 GoDaddy 此前允许其他人代表 Griffith 续期域名，但现在它逆转了这一决定，让 eth.link 域名在 9 月 5 日过期。ENS DAO 督促人们切换到不同的服务，担心域名被恶意者抢注后发动钓鱼攻击。",
+          "link": "https://www.solidot.org/story?sid=72598",
+          "publishedOn": "2022-08-28T15:50:58.000Z",
+          "wordCount": 179,
+          "title": "因域名持有人入狱 Eth.link 域名将下线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72597",
+          "author": null,
+          "description": "Forsaken 写道 \"在今年早些时候，内核开发者社区曾有一番围绕 RaiserFS 去留的讨论。产业界似乎都在等待着它最终归入历史的那一年到来，而这一年，也许就是今年。\"",
+          "link": "https://www.solidot.org/story?sid=72597",
+          "publishedOn": "2022-08-28T14:39:48.000Z",
+          "wordCount": 154,
+          "title": "RaiserFS 何去何从？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72596",
+          "author": null,
+          "description": "今天的软件都是数字发行的，没有任何重量。但过去的软件并非如此，它有软盘或 CD 光盘之类的物理形态，还有打印的文档。有的文档可能多达数千页，导致整个软件奇重无比。微软的 Windows 开发者文档团队询问公司档案专家 Amy Stevenson 一个问题：微软至今发行的最大软件是哪个？答案是 1992 年发行的 Microsoft C/C++ 编译器和  Windows SDK，重逾 40 磅，软件使用的盒子长度超过 2 英尺。微软之后再也没有这么做过。",
+          "link": "https://www.solidot.org/story?sid=72596",
+          "publishedOn": "2022-08-28T14:38:41.000Z",
+          "wordCount": 170,
+          "title": "微软发行的最重软件重逾 40 磅",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72595",
+          "author": null,
+          "description": "Moderna 周五起诉竞争对手辉瑞/BioNTech，指控其新冠疫苗 侵犯了它的专利。Moderna 和辉瑞/BioNTech 的新冠疫苗都是基于 mRNA 技术，Moderna 认为辉瑞/BioNTech 侵犯了它在 2010 年到 2016 年期间为 mRNA 技术申请的专利。过去疫苗通常是利用病毒的一部分或灭活病毒刺激免疫反应。通过 mRNA 技术，疫苗使用在实验室制造的信使 RNA 发送遗传指令，教细胞制造蛋白质或蛋白质的一部分去触发免疫反应。2020 年 10 月，Moderna 承诺在新冠疫情流行不执行 COVID-19 疫苗相关专利。今年三月，Moderna 表示坚守不在中低收入国家执行相关专利的承诺，但希望辉瑞等公司能尊重其知识产权。",
+          "link": "https://www.solidot.org/story?sid=72595",
+          "publishedOn": "2022-08-27T15:42:32.000Z",
+          "wordCount": 182,
+          "title": "Moderna 起诉 辉瑞/BioNTech 侵犯其新冠疫苗专利",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72594",
           "author": null,
@@ -987,126 +1027,6 @@
           "publishedOn": "2022-08-20T11:21:50.000Z",
           "wordCount": 185,
           "title": "苹果旗下的 Shazam 服务诞生 20 年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72521",
-          "author": null,
-          "description": "自新冠疫情以来，酒吧等饮酒场所遭到了严重打击，导致酒类商品的销售额以及相关税收急剧减少。政府的应对之策是：鼓励年轻人多饮酒。日本国税厅(National Tax Agency)发起了名为 Sake Viva! 的宣传活动，邀请参赛者递交刺激年轻人饮酒的新点子，以吸引年轻一代去振兴萎缩的酒精饮料市场。",
-          "link": "https://www.solidot.org/story?sid=72521",
-          "publishedOn": "2022-08-19T15:55:00.000Z",
-          "wordCount": 149,
-          "title": "日本政府想要年轻人喝更多酒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72520",
-          "author": null,
-          "description": "至今人类建造的最昂贵太空望远镜大量使用 JavaScript 写的脚本，而它使用的 JS 语言版本有二十年历史了。根据 JWST Integrated Science Instrument Module(ISIM)的手册，ISIM 的软件由 Script Processor Task (SP)控制，在收到命令后运行 JavaScript 写的脚本。JWST 使用了大量预先编写的脚本去执行特定任务，用名叫脚本处理器的程序去解释 JS 代码。脚本使用的语言版本是 Nombas ScriptEase 5.00e，由已经倒闭的 Nombas 公司开发，其最新更新是在 2003 年 1 月释出的。选择如此古老的程序事实上并不令人惊讶。韦伯太空望远镜项目始于 1989 年，2004 年开始建造，当时 ScriptEase 5 只有两年历史，而太空飞行器通常使用成熟而不是最新的技术。",
-          "link": "https://www.solidot.org/story?sid=72520",
-          "publishedOn": "2022-08-19T15:28:05.000Z",
-          "wordCount": 186,
-          "title": "韦伯太空望远镜大量使用 JavaScript 写的脚本",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72519",
-          "author": null,
-          "description": "Google 宣布将在未来几周更新搜索引擎排名算法，从搜索结果前列减少低质量非原创内容。Google 表示此次更新主要针对 SEO 内容农场——即专门为搜索排名靠前而创建的内容。搜索巨人称，它的测试显示最新更新将改善用户在搜索内容如在线教育材料、艺术、娱乐、购物和科技时的结果。用户将会在搜索结果页面的前列看到更多原创有用的内容。Google 以搜索新电影信息为例，它将让用户能阅读到更多新的内容而不是聚合的旧内容。",
-          "link": "https://www.solidot.org/story?sid=72519",
-          "publishedOn": "2022-08-19T11:26:55.000Z",
-          "wordCount": 153,
-          "title": "Google 更新搜索排名减少低质量非原创内容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72518",
-          "author": null,
-          "description": "科学家发现了蚊子如何找到人类的机制。研究报告发表在《Cell》期刊上。人体会释放由体味、热量和二氧化碳组成的独特气味，蚊子通过这种气味跟踪人类，而且蚊子接受气味的方法不只一种而是有多种。研究人员发现完全剔除人类气味感应蛋白之后蚊子仍然能找到人类进行叮咬。失去一种或多种受体并不会影响蚊子对人类气味的接收能力。这种备份系统已经演化出一种生存机制。埃及伊蚊专门叮咬人类，因为人类生活靠近淡水，而蚊子在淡水中产卵。人类对蚊子而言是完美的食物来源。",
-          "link": "https://www.solidot.org/story?sid=72518",
-          "publishedOn": "2022-08-19T11:00:10.000Z",
-          "wordCount": 144,
-          "title": "科学家发现蚊子是如何找到人类的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72517",
-          "author": null,
-          "description": "根据发表在《Science Advances》期刊上的一项研究，科学家在西非海岸附近的海底发现一个 9 公里宽的陨石坑，距今约 6600 万年前，即导致恐龙毁灭的 Chicxulub 小行星撞击地球事件前后。科学家猜测，这一陨石坑是由 Chicxulub 小行星脱落的一块碎片造成的。这个陨石坑以附近的一座海山命名为“ Nadir”。它位于几内亚海岸几百公里外的大陆架上，埋在 300 米深的沉积物下，海水深度为 900 米。研究小组成员、亚利桑那大学 Veronica Bray 进行的建模表明，陨石坑是由一颗直径约 400 米的小行星撞击造成的。Nadir 与现在墨西哥境内 180 公里宽的 Chicxulub 陨石坑处于同一时期。这使得研究小组推测，它是由一块从Chicxulub 小行星上分离出的碎片造成的，该小行星直径估计为 13 公里。",
-          "link": "https://www.solidot.org/story?sid=72517",
-          "publishedOn": "2022-08-19T10:26:08.000Z",
-          "wordCount": 171,
-          "title": "科学家发现侏罗纪时代的巨大海底陨石坑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72516",
-          "author": null,
-          "description": "20 多年前针对微软的反垄断案件中，Windows 捆绑的 IE 浏览器是主要目标。如今新一代的监管机构和竞争对手再次质疑这些互联网入口是否受到了过于严格的控制。Google 和苹果通过 Chrome 和 Safari 控制着八成以上的浏览器市场份额。英国竞争和市场管理局（CMA) 6 月表示，作为对苹果和 Google 反垄断调查的一项内容，该机构正在审查浏览器开发商在移动设备上的竞争。Google 发言人表示，人们选择使用 Chrome 浏览器，是因为它“快速、安全且能提供最佳体验”。该发言人还称，Google 已将Chrome浏览器的底层代码免费开放给其他人使用。苹果发言人表示，该公司“完全有兴趣支持由第三方浏览器和网络应用组成的强大生态系统，并将继续促进创新和扩大选项，与此同时会确保用户的隐私和安全得到保护”。软件开发商表示，浏览器是苹果和 Google 在过去 10 年占据互联网市场主导地位的关键战略手段之一。",
-          "link": "https://www.solidot.org/story?sid=72516",
-          "publishedOn": "2022-08-19T09:41:16.000Z",
-          "wordCount": 177,
-          "title": "Chrome 和 Safari 引起反垄断调查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72515",
-          "author": null,
-          "description": "互联网域名系统国家地方联合工程研究中心（ZDNS）、CNNIC 和国家互联网应急中心等联合主办了 2022 年下一代 DNS 发展论坛，工程院院士方滨兴等发表了主题演讲。与会专家表示，以 DNS 为核心的网络基础设施与网络基础资源是互联网发展的基础，也是保障数字经济发展的重要根基。我国互联网域名系统面临着“断根”（指国家域名被关停、拒绝该国用户对根服务器访问）、“停服”（指通过顶级域名管理权阻断机构域名的全球互联互通、阻断路由）、“断供”（指国外域名基础软件和装备停止提供产品和技术服务）三大风险。随着以5G、IPv6、卫星互联网、物联网、工业互联网为代表的信息网络升级，以工数字化、农业数字化、数字政府、数字金融、智慧能源、智慧城市等为代表的数字经济发展，互联网关键基础资源层也面临升级。论坛启动了“下一代DNS行动计划”。",
-          "link": "https://www.solidot.org/story?sid=72515",
-          "publishedOn": "2022-08-19T09:04:29.000Z",
-          "wordCount": 159,
-          "title": "国内专家讨论下一代 DNS 发展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72514",
-          "author": null,
-          "description": "微软资深软件工程师、《The Old New Thing》作者 Raymond Chen 证实，一家未披露名字的 PC 制造商发现某型号的笔记本电脑在播放珍妮·杰克逊的 1989 年热门音乐视频《节奏国度(Rhythm Nation)》时会崩溃。调查发现播放音乐视频还会崩溃竞争对手的一款笔电，更离奇的是相邻的一台未播放音乐的笔电也崩溃了。原因被发现是《节奏国度》含有某款 5400 RPM 笔电硬盘的自然谐振频率，会干扰其运行。该 bug 被赋予了正式的 CVE 编号 CVE-2022-38392，影响到 2005 年上市的笔记本电脑，此类电脑基本上应该都被淘汰了。",
-          "link": "https://www.solidot.org/story?sid=72514",
-          "publishedOn": "2022-08-19T08:01:31.000Z",
-          "wordCount": 165,
-          "title": "旧笔电硬盘播放《节奏国度》会崩溃",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72513",
-          "author": null,
-          "description": "网友声称百度在为百度网盘招聘人工审核员，称可审核用户上传的照片等信息。此事立即引发了广泛关注。百度网盘官方微博回应称，百度网盘不存在所谓的照片人工审核，网络上关于百度网盘照片真人审核的内容是谣言。百度表示会保留追究法律责任的权利。",
-          "link": "https://www.solidot.org/story?sid=72513",
-          "publishedOn": "2022-08-19T07:33:08.000Z",
-          "wordCount": 144,
-          "title": "百度网盘否认人工审核用户照片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72512",
-          "author": null,
-          "description": "中国经历 60 年来最严峻高温天气：农业农村部称高温天气已导致了长时间的干旱，使靠雨水灌溉的稻田干枯；卡车上运的猪由于高温出现了脱水；长江的水位已降至历史最低水平，与去年同期相比，水位比常年同期下降了 4.8 米至 6 米；四川全省水电站的发电能力已下降了 50% 以上，迫使其采取限电措施，丰田和苹果供应商富士康的工厂停工。气候学家说，由于减少温室气体排放的全球努力进展缓慢，极端天气事件的频率和强度将在未来几十年增加。",
-          "link": "https://www.solidot.org/story?sid=72512",
-          "publishedOn": "2022-08-19T03:07:41.000Z",
-          "wordCount": 152,
-          "title": "中国经历最严峻高温天气",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72511",
-          "author": null,
-          "description": "根据尼尔森的月度电视和流媒体测量服务 The Gauge，流媒体视频服务的使用量在 7 月份超过有线电视，首次占据最大电视收视份额。7 月份观看流媒体服务的总时间比上年同期大增 22.6%，达到每周近 1,910 亿分钟，而有线电视的观看时间下降了 8.9%，无线广播电视的使用量下降 9.8%。流媒体占收视率的 34.8%，高于有线电视的 34.4% 和无线广播电视的 21.6%。在流媒体平台中，Netflix 在整体电视收视中的份额最大，达到 8%。",
-          "link": "https://www.solidot.org/story?sid=72511",
-          "publishedOn": "2022-08-19T02:21:10.000Z",
-          "wordCount": 160,
-          "title": "美国流媒体收视率首次超过有线电视",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72510",
-          "author": null,
-          "description": "工商时报报道，台积电将从 9 月份开始量产 3 纳米（N3）制程芯片。台积电总裁魏哲家此前表示，N3 具有高良品率，2023 年将稳定量产。N3 的改进版 N3E 将在 2023 年下半年量产，苹果及英特尔会是主要大客户。三星日前宣布率先量产 3 纳米芯片，是业界首家采用环绕闸极电晶体（GAA）架构投片的半导体厂。台积电的 3 纳米芯片仍然为鳍式场效电晶体（FinFET）架构，但台积电将其改进为 FINFLEX——允许设计人员能在相同的晶片上，利用相同的设计工具，选择最佳的鳍结构以支援每一个关键功能区块。",
-          "link": "https://www.solidot.org/story?sid=72510",
-          "publishedOn": "2022-08-19T01:58:32.000Z",
-          "wordCount": 168,
-          "title": "台积电下个月量产 3 纳米芯片",
           "imageUrl": null
         }
       ]
