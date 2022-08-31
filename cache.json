@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43188",
+          "author": "青小蛙",
+          "description": "桌面图标分类整理神器 Fences 4 后天涨价，限时 49 元。多平台广告屏蔽专家 AdGuard 明天涨价，目前仅需 40 元。@Appinn 想不到，软件也要迎来涨价潮… Fence",
+          "link": "https://www.appinn.com/fences-and-adguard-price-increase/",
+          "publishedOn": "2022-08-30T10:16:18.000Z",
+          "wordCount": 1895,
+          "title": "Fences、AdGuard 将要在未来两日涨价，有需求的可以考虑了",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-30T180554.205.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=43180",
+          "author": "青小蛙",
+          "description": "Hex Clock 是一个简单的网站，它使用十六进制的颜色代码 #000000 ～ #235959 来表示一天 24 小时，并且会在背景展示当前颜色代码的具体颜色。@Appinn 来自发现频道，@vi",
+          "link": "https://www.appinn.com/hex-clock-online/",
+          "publishedOn": "2022-08-30T09:44:10.000Z",
+          "wordCount": 1901,
+          "title": "Hex Clock – 精确的颜色时钟，用当前时间显示当前颜色",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn_-_2022-08-30T173928_813.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=43181",
+          "author": "青小蛙",
+          "description": "来自论坛的 YAKULT 同学消息，Craft Pro 版本教育优惠正在限时免费，各位老师同学不要错过了。@Appinn 以下内容来自发现频道： 一款笔记文档软件，设计相当精美，功能全面，团队更新迭代",
+          "link": "https://www.appinn.com/craft-pro-edu-free/",
+          "publishedOn": "2022-08-30T08:35:56.000Z",
+          "wordCount": 2008,
+          "title": "Craft – 设计精美且功能强大的 Apple 笔记软件 | Pro 版教育优惠限时免费",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-30T163053.782.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43166",
           "author": "青小蛙",
           "description": "今天分享的小工具 CapsCursor – 大小写键 4 功能辅助工具：在鼠标指针旁为中文输入法添加标记、，想不到关心软件的同学不多，全都在问：鼠标样式哪里下载？ 想必 CapsCu",
@@ -130,16 +160,6 @@
           "wordCount": 1888,
           "title": "Black Highlighter – 为图片上的私密内容打码（漂亮、均匀、完整），保护隐私[macOS/iOS]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn_-_2022-08-22T154458_113.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43096",
-          "author": "青小蛙",
-          "description": "PopFrame 是一款为 iPhone 截图或录屏添加背景与外壳的小工具，其中截图免费，视频可付费去水印。非常适合青小蛙使用。@Appinn PopFrame 与传统的带壳截图工具不同的是，PopF",
-          "link": "https://www.appinn.com/popframe/",
-          "publishedOn": "2022-08-21T06:43:52.000Z",
-          "wordCount": 1819,
-          "title": "PopFrame – 为 iPhone 截图、录屏添加背景与外壳",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/08/Appinn-2022-08-21T141827.891.jpg"
         }
       ]
     },
@@ -148,6 +168,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=372839",
+          "author": "Geoff Graham",
+          "description": "We can make variables in CSS pretty easily:\n:root {\n  --scale: 1;\n}\nAnd we can declare them on any element:\n.thing {\n  transform: scale(--scale);\n}\nEven better for an example like this is applying the variable on a user …\nInterpolating Numeric CSS Variables originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/interpolating-numeric-css-variables/",
+          "publishedOn": "2022-08-30T13:17:25.000Z",
+          "wordCount": 963,
+          "title": "Interpolating Numeric CSS Variables",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372839"
+        },
         {
           "id": "https://css-tricks.com/?p=372634",
           "author": "Preethi Selvam",
@@ -231,16 +261,6 @@
           "wordCount": 1064,
           "title": "来了，来了，CSS :has()伪类她来了",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10499",
-          "author": "张 鑫旭",
-          "description": "介绍两个比较新的都带有 all 字样的 JS API，replaceAll 和 matchAll，增强了传统的 replace 和 match 方法的能力，看看自己项目中是不是可以用用。",
-          "link": "https://www.zhangxinxu.com/wordpress/2022/08/js-replaceall-matchall/",
-          "publishedOn": "2022-08-21T07:27:33.000Z",
-          "wordCount": 1099,
-          "title": "JS replaceAll 和 matchAll 使用指南不指北",
-          "imageUrl": null
         }
       ]
     },
@@ -249,6 +269,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72625",
+          "author": null,
+          "description": "加州议会周二通过了一项议案，将在美国首次要求 Facebook、Instagram 和 TikTok 等社交媒体应用程序的开发者在设计其产品时考虑未成年人的身心健康。这项议案在加州众议院获得两党议员的一致支持，与周一州参议院投票结果相同。州长 Gavin Newsom 尚未表示是否会签署或否决这项议案。若得到 Newsom 签字批准，该议案的规定将于 2024 年 7 月生效。议案遭到社交媒体公司的反对，理由是如果各州都拿出不同的应用程序监管规则，将给合规带来很大难度。",
+          "link": "https://www.solidot.org/story?sid=72625",
+          "publishedOn": "2022-08-31T03:28:30.000Z",
+          "wordCount": 158,
+          "title": "加州新议案要求社交媒体考虑未成年人健康",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72624",
+          "author": null,
+          "description": "前苏联领导人戈尔巴乔夫逝世，享年 91 岁。俄罗斯官媒称，他死于一种未指明的“长期而严重的疾病”。很少有领导人像戈尔巴乔夫一样，能对其所在的时代产生如此深远的影响。执政期间，他带领苏联进行了一系列革命性变革，对世界政治气候和欧洲版图产生了极大影响，并终结了以核毁灭的可能性威胁世界的冷战；也是在他任内，苏联走向解体。戈尔巴乔夫因在外交上的成就获得诺贝尔和平奖，但对国内的许多人来说，他造成的动荡是一场灾难，一些人批评他未能兑现经济变革的承诺。",
+          "link": "https://www.solidot.org/story?sid=72624",
+          "publishedOn": "2022-08-31T02:54:21.000Z",
+          "wordCount": 146,
+          "title": "戈尔巴乔夫去世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72623",
+          "author": null,
+          "description": "根据发表在《Nature Climate Change》期刊上的最新研究，格陵兰冰盖融化难以逆转，而无论在哪种气候变暖预测情景下，格陵兰冰盖的整体冰损失加上降水量、冰流排放和融水径流的增加都将使海平面至少上升 274 毫米。研究人员利用 2000 年至 2019 年的气候数据，计算了格陵兰冰不平衡已经导致的冰盖体积和面积变化指出，融水径流引起的冰面消融是格陵兰冰盖质量预算发生同比变化的主要驱动因素。无论在哪一种未来气候情景下，格陵兰冰盖质量损失将导致 5900 平方千米的海冰减退，这相当于其 3.3% 的冰体积损失，使海平面至少上升 274 毫米。",
+          "link": "https://www.solidot.org/story?sid=72623",
+          "publishedOn": "2022-08-30T15:58:14.000Z",
+          "wordCount": 158,
+          "title": "格陵兰冰盖融化难以逆转",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72622",
+          "author": null,
+          "description": "在猴痘疫情之初，一名 20 多岁的男子来到北加州的急诊室，他的嘴唇、手部和背部都长了小水泡。不到 12 个小时，他就被医生诊断患上了猴痘。但医生们能确定的也只有这些了。该患者无发热、不适、虚弱、疼痛或其他典型疾病症状。他也不知道自己何时或如何被感染。他说自己几个月以来都没有和任何人发生过性接触，据他所知也没有触碰过任何有这种痘疹或其他症状的人。在疫情初期，科学家们以为自己已经了解猴痘病毒是何时以及如何传播的，也清楚这种疾病的症状以及谁最容易受到感染。但全球确诊的 4.7 万例病例颠覆了他们的许多预期。",
+          "link": "https://www.solidot.org/story?sid=72622",
+          "publishedOn": "2022-08-30T15:34:20.000Z",
+          "wordCount": 150,
+          "title": "猴痘病毒颠覆科学家认知",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72621",
+          "author": null,
+          "description": "中国手机制造商 Oppo 在今年的 Mobile World Congress 大会上演示了 240 W 快充技术，一部智能手机在不到 10 分钟内就能充满电。被称为 240 W SuperVooc Flash Charge 的技术目前尚未提供给商业产品使用。Oppo 的快充雄心看起来没有限制。该公司的一位品牌经理最近甚至表示，未来有一天智能手机一秒钟就能充满电。Oppo 开发快充技术的实验室负责人 Edward Tian 承认加快充电速度不是一件简单的事情，需要考虑安全、充电温度、电池单元能量密度、充电器大小、电池寿命等等因素。Oppo 的快充技术位居业界最先进之列，在 OnePlus 10T 上，它的 150 W 快充能在 19 分钟内充满电。",
+          "link": "https://www.solidot.org/story?sid=72621",
+          "publishedOn": "2022-08-30T15:31:30.000Z",
+          "wordCount": 179,
+          "title": "Oppo 认为未来有一天智能手机一秒钟就能充满电",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72620",
+          "author": null,
+          "description": "影迷和影评人对同一部电影的评分通常是相近的，但今年的情况有显著不同。今年至今最受欢迎的 10 部（基于票房以及最大流媒体平台 Netflix 上的观影数字）双方之间的评分出现巨大鸿沟，只有票房冠军的《壮志凌云2：独行侠》和《新蝙蝠侠》的评分相近，其它八部——包括《侏罗纪世界3》、《奇异博士2：疯狂多元宇宙》、《小黄人2》、《雷神4：爱与雷霆》等都相差巨大。以改编自索尼热门游戏《神秘海域》的同名电影为例，影评人痛斥这部电影毫无吸引力，非常空洞，综合评分只有 43 分，但影迷的评分是 77 分。《侏罗纪世界3》的影评人评分是 34 分，影迷的评分是 67 分，Netflix 《灰影人》的影评人评分是 47.5 分，影迷评分是 77.5 分。这几部热门电影的评分都相差 30 分左右。前 10 电影的评分平均相差 19 分，创下了本世纪以来的最高记录。",
+          "link": "https://www.solidot.org/story?sid=72620",
+          "publishedOn": "2022-08-30T14:23:24.000Z",
+          "wordCount": 167,
+          "title": "影迷和影评人的评分日益两级分化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72619",
+          "author": null,
+          "description": "一项研究指出，每周步行 1 小时可让85岁及以上人群更长寿。“随着年龄的增长，成年人不太可能完成上述建议的活动量。”研究作者、韩国仁济大学医学院 Sanggye Paik 医院的 Moo Nyun Jin 说，“我们的研究表明，每周至少步行1小时（每天步行10分钟）对 85 岁及以上人群健康有益。”研究人员利用韩国国家健康保险局（NHIS）高级数据库的信息，调查了 85 岁及以上成年人步行与全因和心血管病死亡风险之间的关系。研究人员根据中等强度到高强度活动消耗能量的水平，分析了步行、全因和心血管病死亡率之间的关联，发现与不活动的个体相比，每周步行至少 1 小时的人全因和心血管病死亡率分别降低 40% 和 39%。",
+          "link": "https://www.solidot.org/story?sid=72619",
+          "publishedOn": "2022-08-30T10:24:13.000Z",
+          "wordCount": 162,
+          "title": "每天步行10分钟有助延长老年人寿命",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72618",
+          "author": null,
+          "description": "AI 技术发现逾 2 万个未申报游泳池给法国税务部门带来了一笔意外之财。因为建造水池能提高房价，意味着更高的财产税，根据法国法律业主需要申报。平均面积 30 平方米的游泳池每年的税收为 200 欧元。2020 年法国有逾 320 万个私人游泳池，新冠疫情期间愈来愈多的人在家办公，游泳池的安装量也进一步激增。法国税务部门使用的软件由 Google 和咨询公司 Capgemini 开发。除了寻找未申报游泳池，税务部门还计划用它发现未申报的房屋扩建、庭院或凉亭，这些扩建建筑都会提高房产税。",
+          "link": "https://www.solidot.org/story?sid=72618",
+          "publishedOn": "2022-08-30T10:17:06.000Z",
+          "wordCount": 166,
+          "title": "法国用 AI 发现未申报的私人水池",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72617",
+          "author": null,
+          "description": "清华大学的研究人员在大学学报上发表论文，提议用分布式 3D 打印机建造水坝、高速公路等建造工艺相对单一的工程。研究人员建议利用 AI、机器人和 3D 打印建造 180 米高的黄河羊曲水坝。它将能每年产生 50 亿 kWh 的电，足以满足 5000 万家庭的电力需求。黄河上已经有一座水坝，研究人员提议扩大现有结构增加发电能力，使其成为世界最大大坝之一。如果按计划进行，羊曲水坝将成为最大的 AI 辅助制造的 3D 打印结构。项目首席科学家刘天云在论文中称，大型基础建设的3D列印技术已经够成熟，足以进行大规模应用，并能让人从繁重，重复又危险的作业中解脱。",
+          "link": "https://www.solidot.org/story?sid=72617",
+          "publishedOn": "2022-08-30T09:29:16.000Z",
+          "wordCount": 169,
+          "title": "清华大学提议用分布式 3D 打印机建造水坝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72616",
+          "author": null,
+          "description": "巴基斯坦气候变迁部长 Sherry Rehman 称，该国三分之一土地完全被历史性洪水淹没。洪水冲毁了道路、房屋和农作物，在巴基斯坦各地留下了严重破坏的痕迹，官方数据显示，自 6 月季风季节以来，有至少 1136 人死亡。Rehman 称，“这里是一片汪洋，没有任何干地吸走河水”，她形容这场洪水是“难以想象的危机”，表示从未见过这样的情况。官方估计，全国人口中的七分之一——逾 3300 万人受到洪水影响，而三分之一的遇难者是儿童。",
+          "link": "https://www.solidot.org/story?sid=72616",
+          "publishedOn": "2022-08-30T08:07:18.000Z",
+          "wordCount": 154,
+          "title": "巴基斯坦遭遇创记录洪水",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72615",
+          "author": null,
+          "description": "印度竞争委员会(CCI)获得德里高等法院的批准，对 WhatsApp 去年发布的引发争议的隐私政策进行调查。这是印度首次开展此类调查，将调查 WhatsApp 与 Meta 和后者旗下其它公司数据共享做法的全部范围和影响。这是印度政府为维护其公民的数字权利而迈出的一大步，最引人注目的一点或许是，印度宣称当一款应用具有市场主导地位时，其隐私政策和服务条款可能受到竞争监管机构重点关注。这可能为全球和印度本身的更多此类调查铺平道路。Meta 并不是唯一一家受到关注的大型科技公司。该反垄断机构已在就其他涉嫌违反反垄断规定的行为调查 Google、亚马逊和沃尔玛拥有的 Flipkart，以及印度食品科技公司 Swiggy 和 Zomato。",
+          "link": "https://www.solidot.org/story?sid=72615",
+          "publishedOn": "2022-08-30T07:30:59.000Z",
+          "wordCount": 164,
+          "title": "印度调查 WhatsApp 隐私政策",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72614",
+          "author": null,
+          "description": "Google 更新了 Google Play 政策，禁止 VPN 应用干扰或屏蔽广告。最新的政策于 11 月 1 日生效，禁止 VPNService 在未提供醒目披露声明和未征得用户同意的情况下收集个人数据和敏感用户数据；出于变现目的重定向或操控来自某个设备上其他应用的用户流量（例如，重定向广告流量，使之流经与用户所在国家/地区不同的国家/地区）；操控会影响应用变现的广告。提供隐私保护的 VPN 服务商对新政策表达了担忧。DuckDuckGo 不认为它会受到影响但会持续评估。",
+          "link": "https://www.solidot.org/story?sid=72614",
+          "publishedOn": "2022-08-30T06:57:45.000Z",
+          "wordCount": 175,
+          "title": "Google Play 禁止 VPN 应用屏蔽广告",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72613",
           "author": null,
@@ -1118,26 +1258,6 @@
           "wordCount": 159,
           "title": "中国游戏公司大举进军海外市场",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72526",
-          "author": null,
-          "description": "研究发现，流行 iOS 应用如 TikTok、Instagram、FB Messenger 和 Facebook 都支持用户在应用内打开浏览器访问第三方网站，期间会植入跟踪代码。以 TikTok 为例，它会记录用户的所有键盘输入，包括密码信用卡信息等敏感数据，以及屏幕上的每一次点击。从技术上说这相当于安装了一个键盘记录器。在这一报道发表之后，TikTok 发表声明，证实该功能存在，但 TikTok 并没有利用这些代码。TikTok 表示应用内浏览器旨在提供更好的用户体验，它植入第三方网站的 JS 代码是为了调试、排错和性能监视。",
-          "link": "https://www.solidot.org/story?sid=72526",
-          "publishedOn": "2022-08-21T11:22:41.000Z",
-          "wordCount": 159,
-          "title": "应用内浏览器的安全隐患",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72525",
-          "author": null,
-          "description": "越南信息通信部更新了网络安全法（PDF），强制要求科技巨头和电信公司必须在其境内储存用户数据，由境内实体控制数据。网络安全法覆盖的用户数据不限于姓名、电邮、信用卡、电话号码和 IP，还涉及到用户加入的群组、社交互动等等。基本上用户在网上创建的任何数据都必须储存在越南境内。法律适用于电信服务、存储和共享数据、域名服务、电子商务、在线支付、社交媒体、在线游戏、消息服务，以及语音或视频通话等。新规则将于 2022 年 10 月 1 日生效，外国科技公司有 12 个月时间遵守，它们被要求在越南存储数据至少 24 个月，系统日志存储 12 个月。宽限期后，越南政府保留权利，通过调查和数据收集请求，以及内容删除令，确保公司遵守法律。",
-          "link": "https://www.solidot.org/story?sid=72525",
-          "publishedOn": "2022-08-20T16:17:38.000Z",
-          "wordCount": 157,
-          "title": "越南要求外国科技公司在其境内储存数据和设立办事处",
-          "imageUrl": null
         }
       ]
     },
@@ -1206,18 +1326,7 @@
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
-      "articles": [
-        {
-          "id": "https://catonmat.net/new-york-times-browserling-customer",
-          "author": null,
-          "description": "TLDR: Success!\nIt's another small step for a ling but one giant leap for ling-kind. See you next time!",
-          "link": "https://catonmat.net/new-york-times-browserling-customer",
-          "publishedOn": "2022-08-21T04:00:00.000Z",
-          "wordCount": 121,
-          "title": "The New York Times is now a Browserling customer!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Discover Dev",
