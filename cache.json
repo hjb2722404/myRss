@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43358",
+          "author": "青小蛙",
+          "description": "InPaper 壁纸是一款不提供壁纸的 iPhone、iPad 壁纸类工具。通过拼图、文字、日历、地图等 42 种布局，配合颜色、照片、文字，来生成无限量的个性化壁纸，并可以通过快捷指令自动化更换壁纸",
+          "link": "https://www.appinn.com/inpaper-for-ios/",
+          "publishedOn": "2022-09-17T04:00:57.000Z",
+          "wordCount": 2369,
+          "title": "InPaper – 42 种布局，无限量壁纸，创造性的自动化壁纸应用[iPhone/iPad]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/Appinn-2022-09-17T112843.632.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43344",
           "author": "青小蛙",
           "description": "AList 是一款支持 18 款常见网盘的的文件列表工具，它可以让用户直接在浏览器中预览文件、上传文件、下载文件、播放视频、浏览照片，也可以直接在播放器中打开视频文件，还可以配合 aria2 实现文件",
@@ -110,16 +120,6 @@
           "wordCount": 2229,
           "title": "记一款有趣软件的离开：SimpleDiagrams",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/Appinn-2022-09-09T123537.667.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43254",
-          "author": "青小蛙",
-          "description": "Linkding 是一款简单易用的自托管网络书签服务，支持 Docker 部署，拥有标签、时光机、存档、稍后阅读、共享书签等功能。@Appinn 感谢 @Hue 在 Munk 的推荐。是的，很像 Pi",
-          "link": "https://www.appinn.com/linkding-self-hosted-bookmark-service/",
-          "publishedOn": "2022-09-08T07:28:35.000Z",
-          "wordCount": 2489,
-          "title": "Linkding – 简单易用的自托管网络书签服务，有点像 Pinboard",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/Appinn-2022-09-08T150013.504.jpg"
         }
       ]
     },
@@ -187,16 +187,6 @@
           "wordCount": 3431,
           "title": "How I Made a Pure CSS Puzzle Game",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372952"
-        },
-        {
-          "id": "https://css-tricks.com/?p=372979",
-          "author": "Ollie Williams",
-          "description": "Browsers are constantly adding new HTML, JavaScript and CSS features. Here are some useful additions to working with forms that you might have missed…\nrequestSubmit()\nSafari 16 will be the final browser to add support for requestSubmit.\nBefore we …\nWhat’s New With Forms in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-new-with-forms-in-2022/",
-          "publishedOn": "2022-09-08T13:12:51.000Z",
-          "wordCount": 1540,
-          "title": "What’s New With Forms in 2022?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/372979"
         }
       ]
     },
@@ -238,6 +228,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72795",
+          "author": null,
+          "description": "自 1995 年上线至今，分类广告网站 Craigslist 维持了相同的外观。Craigslist 创始人 Craig Newmark 接受采访谈论了这一现象，他早在 2000 年就辞去了 CEO 一职，目前全职从事慈善活动。他说，Craigslist 总共只有 10 名员工，从事开发、客服和会记工作，没有任何人从事销售工作。即使更换了 CEO 之后 Craigslist 外观仍然保持一致？他说，因为这能更好的服务于用户，人们想要简单快捷的完成工作，不需要花哨的东西。对使用这个网站的用户来说，它简单又方便，这就足够了。他说作为一名工程师，简单就是美，实用就是美。",
+          "link": "https://www.solidot.org/story?sid=72795",
+          "publishedOn": "2022-09-17T11:27:55.000Z",
+          "wordCount": 178,
+          "title": "为什么 Craigslist 的界面和 25 年前一样",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72794",
+          "author": null,
+          "description": "在全世界逾一百个国家经营 6,028 家酒店的洲际酒店集团上周证实遭到网络攻击，称攻击严重干扰了房间预定等功能。它没有披露更多细节。现在两位自称 TeaPea 的越南黑客情侣通过 Telegram 联络 BBC，提供了截图作为证据证明攻击是他们发起的。他们利用了钓鱼攻击和一个弱密码 Qwerty1234 访问了内部数据库，一开始计划发动勒索软件攻击，但发现 IT 团队隔离了服务器，所以为了找点乐趣决定删库。黑客对于其行动无任何内疚，称越南的薪水太低，月薪只有 300 美元，否则他们宁可有一个合法的工作。黑客称他们在洲际酒店集团的系统中发现其内部密码库的登陆密码是 Qwerty1234。",
+          "link": "https://www.solidot.org/story?sid=72794",
+          "publishedOn": "2022-09-17T10:20:01.000Z",
+          "wordCount": 158,
+          "title": "两越南黑客出于找乐删除洲际酒店集团的数据库",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72793",
+          "author": null,
+          "description": "匿名读者 写道 \"凹语言最新发布了 v0.2.1 版本，经过小伙伴们的通力合作，终于可以在浏览器环境编译并执行（不依赖后台服务）。Playground 在线地址 https://wa-lang.org/playground，以下是执行效果：\n\n- 支持纯浏览器编译执行: https://wa-lang.org/playground\n- 命令行增加打印 logo 子命令\n- 本地支持被嵌入脚本模式执行\n- 修复格式化问题\n \n下一阶段将继续完善 Playground 和 在线版本的 VSCode 插件，以提供和本地开发完全相同的能力。\n\"",
+          "link": "https://www.solidot.org/story?sid=72793",
+          "publishedOn": "2022-09-17T09:34:05.000Z",
+          "wordCount": 175,
+          "title": "凹语言支持 Chrome 浏览器执行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72792",
+          "author": null,
+          "description": "美国司法部组建了数字资产协调人网络(Digital Asset Coordinators Network)专门打击加密货币犯罪。美国司法部国家加密货币执法小组第一主任 Eun Young Choi 表示，之所以建立这个网络，部分原因是其拥有高度的技术专业经验，可以用于起诉加密货币案件，而且数字货币在几个不同的犯罪领域越来越常见。她还称，这些犯罪领域包括洗钱或资助恐怖主义，成为勒索软件黑客使用的支付工具以及盗窃的直接目标。",
+          "link": "https://www.solidot.org/story?sid=72792",
+          "publishedOn": "2022-09-17T03:23:10.000Z",
+          "wordCount": 150,
+          "title": "美国司法部成立专门机构打击加密货币犯罪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72790",
+          "author": null,
+          "description": "EVGA CEO Andrew Han 通过 YouTube 频道 JayZTwoCents 和 GamersNexus 公开了与英伟达的冲突，宣布终止与其合作，完全退出显卡市场。EVGA 是英伟达显卡在北美最大的供应商，与英伟达有长达 22 年的合作，Andrew Han 称，英伟达在定价上不透明，显卡厂商是和消费者在同一时间获知新显卡的建议零售价（MSRP）；EVGA 的 GeForce RTX 3080 以上高端显卡都是亏本卖的；EVGA 会继续提供 RTX 30 系列显卡直至库存耗尽，它不会生产即将发布的 RTX 4000 系列显卡，也不会为 AMD 或英特尔制造显卡。",
+          "link": "https://www.solidot.org/story?sid=72790",
+          "publishedOn": "2022-09-17T03:14:52.000Z",
+          "wordCount": 176,
+          "title": "EVGA 终止与英伟达的合作完全退出显卡市场",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72789",
           "author": null,
@@ -926,126 +966,6 @@
           "publishedOn": "2022-09-09T00:56:10.000Z",
           "wordCount": 161,
           "title": "伊丽莎白女王去世，享年96岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72719",
-          "author": null,
-          "description": "儿童电视动画片《小猪佩奇》深受学龄前观众的喜爱，可以说是世界上最知名和最受欢迎的卡通动物之一。因此该动画片首次引入同性伴侣的决定引起了轰动，这或许就不足为奇了。周二在英国第5频道首播的一集名为《家庭》的剧集中，《小猪佩奇》介绍了北极熊佩妮（Penny Polar Bear）的母亲。北极熊佩妮画下了她的家人，并告诉佩奇她有两个妈妈。佩妮在为她的家人画肖像时解释说：“我和我的妈妈以及另一个妈妈住在一起。一个妈妈是医生，另一个妈妈会煮意大利面。”自 2004 年开播以来，这是其 18 年来首次出现同性伴侣。",
-          "link": "https://www.solidot.org/story?sid=72719",
-          "publishedOn": "2022-09-08T15:49:49.000Z",
-          "wordCount": 151,
-          "title": "《小猪佩奇》首次出现同性伴侣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72718",
-          "author": null,
-          "description": "苹果的 iPhone 手机不支持 RCS 标准。RCS 代表 Rich Communication Services，比短信或彩信支持更多的功能，兼容于支持 RCS 标准的运营商和厂商的消息应用。因为不兼容，iPhone 手机发送给 Android 手机的消息会显示绿色泡泡。苹果 CEO 库克（Tim Cook）在周三 Vox Media 举行的 Code 2022 活动上被问到了这个问题。库克的回答是不想看泡泡就去买部 iPhone。他的回答引发了争议。 Vox Media 的 LiQuan Hun 抱怨说，他没办法给母亲发视频，因为 iMessage 和 RCS 之间缺乏互操作性，iMessage 和 RCS 都支持发送视频，但无法在彼此之间发送，iMessage 用户收到的 Android 消息应用视频是模糊的，反之亦然。如何解决这个恼人的问题？库克说：给妈妈买一部 iPhone。",
-          "link": "https://www.solidot.org/story?sid=72718",
-          "publishedOn": "2022-09-08T15:43:56.000Z",
-          "wordCount": 193,
-          "title": "库克回应苹果不支持 RCS：给妈妈买一部 iPhone",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72717",
-          "author": null,
-          "description": "天文学家在一百光年外发现了两颗超级地球，其中一颗可能适宜生命。NASA 的 Transiting Exoplanet Survey Satellite(TESS) 首先探测到了一颗超级地球 LP 890-9b，比地球大 30%，围绕恒星运动一周只需要 2.7 天。比利时 Liege 大学的天文学家使用地面望远镜 SPECULOOS(代表 Search for habitable Planets EClipsing ULtra-cOOl Stars)对这颗系外行星进行跟踪观测，结果在同一星系发现了另一颗行星 LP 890-9c，它比地球大 40%，绕恒星运动一周只需 8.5 天。根据发表在《Astronomy & Astrophysics》期刊上的研究，研究人员指出虽然行星距离母星只有 370 万英里，但这颗 M 级矮星产生的热量不高，表面温度只有太阳的一半，只要有足够的大气层行星表面可能存在液态水。",
-          "link": "https://www.solidot.org/story?sid=72717",
-          "publishedOn": "2022-09-08T14:27:47.000Z",
-          "wordCount": 176,
-          "title": "天文学家发现一颗可能适宜生命的超级地球",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72716",
-          "author": null,
-          "description": "Google 安全团队 TAG 跟踪了对乌克兰发动网络战的黑客组织 UAC-0098，认为有很多迹象显示 UAC-0098 的部分成员来自 Conti 勒索软件黑帮。UAC-0098 的攻击者最近从发动勒索软件攻击获取金钱转向了攻击乌克兰组织、乌克兰政府、欧盟人道主义和非营利组织。Google TAG 认为，UAC-0098 的活动代表了东欧地区黑客组织在经济动机和政府支持活动之间的模糊界限，他们会根据地区地缘政治利益而改变攻击目标。安全研究人员发现，UAC-0098 利用了 Conti 黑帮的私有后门 AnchorMail。",
-          "link": "https://www.solidot.org/story?sid=72716",
-          "publishedOn": "2022-09-08T13:49:25.000Z",
-          "wordCount": 164,
-          "title": "Conti 勒索软件黑帮前成员参与对乌克兰的网络战",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72715",
-          "author": null,
-          "description": "根据发表在《科学》期刊上的一项研究，科学家在婆罗洲发现了一例可追溯至 3.1 万年前的人类骨架，此人左脚曾做过截肢手术，而且在术后获得了康复又活了 6 至 9 年。这一发现表明，先进外科手术在热带亚洲的出现时间比之前认为的早了几千年。截肢要求对人体解剖学和手术卫生有非常全面的理解，还需要掌握大量手术技巧。在现代临床医学（如抗菌剂）发展前，大部分接受截肢手术的患者都死于失血休克或是术后感染。之前已知最复杂的手术是约 7000 年前法国新石器时代的一位农民接受了左前臂截肢手术，并在术后部分愈合。",
-          "link": "https://www.solidot.org/story?sid=72715",
-          "publishedOn": "2022-09-08T11:37:20.000Z",
-          "wordCount": 156,
-          "title": "3 万年前的截肢手术",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72714",
-          "author": null,
-          "description": "NAS 设备制造商 QNAP 发布安全警告，督促客户立即更新他们的联网存储设备，以防御勒索软件 DeadBolt 的攻击。DeadBolt 利用 QNAP NAS 设备上 Photo Station 软件的漏洞感染设备破坏用户储存的数以 TB 的数据。QNAP 督促客户禁用端口转发功能并更新固件修复漏洞。受影响的版本为：\nQTS 5.0.1: Photo Station 6.1.2 及以上版本\nQTS 5.0.0/4.5.x: Photo Station 6.0.22 及以上版本\nQTS 4.3.6: Photo Station 5.7.18 及以上版本\nQTS 4.3.3: Photo Station 5.4.15 及以上版本\nQTS 4.2.6: Photo Station 5.2.14 及以上版本",
-          "link": "https://www.solidot.org/story?sid=72714",
-          "publishedOn": "2022-09-08T11:33:30.000Z",
-          "wordCount": 209,
-          "title": "勒索软件 DeadBolt 以 QNAP NAS 设备为攻击目标",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72713",
-          "author": null,
-          "description": "印度正计划对玩家在网络游戏中赢得的钱征税。印度财政部在今年五月提议对网游收入征收 28% 的消费税，不管游戏是基于玩家的技能还是运气。对这一提议，业内专家指出 28% 的消费税加上 30% 的收入税，意味着网络游戏行业的总税率将高达五成，对这个新兴的行业而言可能意味着“游戏结束”。印度税务官员正在审查过去三年在一游戏平台上玩家赢得的 58000 亿卢比（72 亿美元）的收入。",
-          "link": "https://www.solidot.org/story?sid=72713",
-          "publishedOn": "2022-09-08T10:31:52.000Z",
-          "wordCount": 153,
-          "title": "印度考虑对网游赢家征税",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72712",
-          "author": null,
-          "description": "对阿尔巴尼亚政府的网络攻击在 7 月中旬导致政府网站和公共服务中断数小时。俄罗斯一开始被认为是最可能的攻击嫌疑人，但上个月安全公司报告伊朗才是攻击发起者，伊朗的动机与自由伊朗世界峰会将在阿尔巴尼亚举行有关。\n本周三阿尔巴尼亚总理 Edi Rama 宣布断绝与伊朗的外交关系，驱逐伊朗大使馆工作人员，他们被勒令在 24 小时内离开阿尔巴尼亚。此次针对阿尔巴尼亚政府的网络攻击被称为是一次国家侵略行动。这是已知第一次一个国家因网络攻击而断绝外交关系。",
-          "link": "https://www.solidot.org/story?sid=72712",
-          "publishedOn": "2022-09-08T08:55:02.000Z",
-          "wordCount": 152,
-          "title": "阿尔巴尼亚因网络攻击切断与伊朗的外交关系",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72711",
-          "author": null,
-          "description": "Twitter 上周宣布将为付费订阅服务 Twitter Blue 的用户提供推文编辑功能 ，当该功能上线之后，用户可以在推文发表后的 30 分钟之内重新编辑内容。但编辑次数有限制，用户只能最多编辑五次，以纠正错别字、上传媒体文件或添加标签。Twitter 施加这一限制可能是为了阻止滥用，该公司表示它将会观察用户行为，未来可编辑次数可能会有变化。Twitter 还证实不会同时提供给所有 Blue 用户，而是先提供给新西兰的用户，然后逐渐推广到澳大利亚、加拿大和美国。",
-          "link": "https://www.solidot.org/story?sid=72711",
-          "publishedOn": "2022-09-08T08:09:50.000Z",
-          "wordCount": 159,
-          "title": "Twitter 允许用户编辑推文最多五次",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72710",
-          "author": null,
-          "description": "根据发表在《自然》期刊上的一项研究，韩国超导托卡马克聚变装置实现 1 亿摄氏度运行 30 秒。韩国首尔国立大学 Yong-Su Na 团队使用了一种改进的 ITB（internal transport barrier）技术，实现了更低的等离子体密度，提高了核心的等离子温度降低了边缘的温度，这可能有助于延长装置元件的寿命。研究团队还没有完全理解其中的机制。由于硬件限制，反应在 30 秒后停止，未来应该能工作更长时间。韩国超导托卡马克装置已经关闭进行升级。",
-          "link": "https://www.solidot.org/story?sid=72710",
-          "publishedOn": "2022-09-08T07:33:50.000Z",
-          "wordCount": 172,
-          "title": "韩国超导托卡马克聚变装置实现 1 亿摄氏度运行 30 秒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72709",
-          "author": null,
-          "description": "根据法庭听证会上披露的埃隆•马斯克(Elon Musk)和他的银行家之间的短信，这位亿万富翁企业家建议推迟他对 Twitter 的440亿美元的收购，理由是“如果我们正走向第三次世界大战，收购 Twitter 就没有意义了”。周二，在特拉华州衡平法院长达 3 个小时的庭审中，Twitter 分享了马斯克与摩根士丹利银行家 Michael Grimes 之间的信息交流。该公司试图辩称，这位亿万富翁以对机器人账户的担忧为由继续试图退出交易，“都是借口”。",
-          "link": "https://www.solidot.org/story?sid=72709",
-          "publishedOn": "2022-09-08T03:44:01.000Z",
-          "wordCount": 163,
-          "title": "马斯克因担心三战而建议推迟 Twitter 交易",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72708",
-          "author": null,
-          "description": "苹果在周三举行的新闻发布会上宣布了 iPhone 14、Apple Watch Series 8 和升级版 AirPods Pro 耳机等新产品，其中 iPhone 14 支持基于卫星的 SOS 紧急联络功能，可以在没有蜂窝网络的地方通过卫星发送急救信息，该功能前两年免费，两年后如何收费暂时不清楚。iPhone 14 和 iPhone 14 Plus 分别配备了 6.1 英寸和 6.7 英寸 OLED 显示屏，分辨率 2532 x 1170 和 2778 x 1284，配备 A15 仿生芯片，包含 6 核 CPU（2 性能 4 能效核心） 和 5 核 GPU 以及 16 核神经网络引擎，起售价分别为 5999 和 6999 元，9 月 9 日晚 8 点开放预购，iPhone 14 于 9 月 16 日发售，iPhone 14 Plus 于 10 月 7 日发售。苹果特别介绍了它的车祸检测功能，称能根据速度突变、方向骤变、车内气压变化和撞击巨响等信息识别车祸，并在用户无法动弹的情况下主动帮助呼叫急救。",
-          "link": "https://www.solidot.org/story?sid=72708",
-          "publishedOn": "2022-09-08T03:18:25.000Z",
-          "wordCount": 230,
-          "title": "苹果发布 iPhone 14，支持卫星 SOS 紧急联络",
           "imageUrl": null
         }
       ]
