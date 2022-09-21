@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43393",
+          "author": "青小蛙",
+          "description": "KikoPlay 是一款全功能的弹幕播放器，开源。主要功能就是在播放本地视频的同时，显示网络弹幕，支持从 A 站、B 站、动画疯、Dandan、爱奇艺、腾讯视频、Tucao 获取弹幕。另外还能获取动画",
+          "link": "https://www.appinn.com/kikoplay/",
+          "publishedOn": "2022-09-20T05:12:38.000Z",
+          "wordCount": 2317,
+          "title": "KikoPlay – 播放本地视频，显示网络弹幕（ A 站、B 站、动画疯、Dandan、爱奇艺、腾讯视频、Tucao）[Windows]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/Appinn-2022-09-20T115702.906.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43382",
           "author": "青小蛙",
           "description": "ArchiveWeb.page 是一款可以将浏览过的网页完整的录下来的 Chrome 扩展，可保存下高保真度的网页存档，包括外部资源，使用起来就像联网使用一样。@Appinn 青小蛙专门对比测试了一下",
@@ -110,26 +120,6 @@
           "wordCount": 2521,
           "title": "RSSPush – 将 RSS 实时推送至微信，以及大多数主流服务（IFTTT、Telegram、）",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/Appinn-2022-09-12T132037.471.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43283",
-          "author": "稻米鼠",
-          "description": "最近写了几枚小脚本，是那种很没有存在感的小脚本，然后恰好遇到了一些令人感慨的事情，所以出来聊聊天。@Appinn 事情的起因在这里：https://meta.appinn.net/t/topic/36",
-          "link": "https://www.appinn.com/making-links-better/",
-          "publishedOn": "2022-09-11T08:26:40.000Z",
-          "wordCount": 2262,
-          "title": "[油猴脚本]让链接变得更好系列",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/cover.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43280",
-          "author": "青小蛙",
-          "description": "来自发现频道，@gezhong.vip 同学发布了一款名为中高风险疫情地区-API接口的在线服务，提供了更容易检索、更直观的各地疫情风险等级查询功能。@Appinn 开发者提到： 由于官方的查询界面太",
-          "link": "https://www.appinn.com/arearisklist/",
-          "publishedOn": "2022-09-11T07:51:33.000Z",
-          "wordCount": 2223,
-          "title": "更易检索的「中高风险地区查询」工具，支持 API",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/Appinn-2022-09-11T153938.981.jpg"
         }
       ]
     },
@@ -138,6 +128,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=373167",
+          "author": "Preethi",
+          "description": "On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.\nAt least that’s what I thought while staring at …\nCSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-checkerboard-background-but-with-rounded-corners-and-hover-styles/",
+          "publishedOn": "2022-09-20T13:19:24.000Z",
+          "wordCount": 1515,
+          "title": "CSS Checkerboard Background… But With Rounded Corners and Hover Styles",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373167"
+        },
         {
           "id": "https://css-tricks.com/?p=373184",
           "author": "Brecht De Ruyte",
@@ -223,6 +223,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10535",
+          "author": "张 鑫旭",
+          "description": "本文介绍一个实用前端技术，可以让框架中私有上下文中的CSS不添加随机属性选择器，从而可以匹配第三方组件的HTML结构以及JS动态生成的HTML元素。",
+          "link": "https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/",
+          "publishedOn": "2022-09-20T15:10:45.000Z",
+          "wordCount": 1044,
+          "title": "巧用:is()或:where()伪类让scoped的style依然全局匹配",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10525",
           "author": "张 鑫旭",
           "description": "不知道大家有没有遇到autocomplete off无效，或者需要重置浏览器表单自动填充样式的需求，本文就将带大家聊聊背后相关的知识。",
@@ -239,6 +249,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72826",
+          "author": null,
+          "description": "TikTok 高管最近接受美国议员询问时表示它与字节跳动保持着一定的距离，并且由它自己的高管负责。但报道援引知情人士的消息称，有关 TikTok 的决策人都是由字节跳动创始人张一鸣、字节跳动一名高级战略高管和 TikTok 研发团队负责人共同做出的，这包括强化 TikTok 的直播和购物功能的举措。TikTok 的发展和战略由字节跳动的团队领导，不向 TikTok CEO 周受资汇报，而是向字节跳动在北京的办公室汇报。周受资主要活跃在 TikTok 的财务和运营方面。",
+          "link": "https://www.solidot.org/story?sid=72826",
+          "publishedOn": "2022-09-21T02:17:41.000Z",
+          "wordCount": 164,
+          "title": "报道否认 TikTok 与母公司保持距离",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72825",
+          "author": null,
+          "description": "英伟达在 GTC 2022 开发者大会上宣布了 GeForce RTX 40 系列显卡。英伟达称，新一代显卡基于 Ada Lovelace 架构，新流处理器在性能和能效上提升最高 2 倍，第四代 Tensor Cores 在 AI 性能上提升最高 2 倍，第三代 RT Cores 在光线追踪性能上提升最高 2 倍，新增光流预测的 DLSS 3，等等。英伟达宣布三款针对中高端市场的显卡： GeForce RTX 4090，16384 个 CUDA Cores，频率 2.52 GHz，GDDR6X 显存 24 GB，售价 1599 美元，10 月 12 日发售；GeForce RTX 4080 (16GB)售价 1199  美元，GeForce RTX 4080 (12GB)售价 899 美元。如此高定价让绝大部分玩家望而却步。",
+          "link": "https://www.solidot.org/story?sid=72825",
+          "publishedOn": "2022-09-20T16:05:01.000Z",
+          "wordCount": 211,
+          "title": "英伟达发布 GeForce RTX 40 系列显卡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72824",
+          "author": null,
+          "description": "上周韩国首尔南部地方检察厅宣布从法庭获得了对 Terraform Labs 创始人 Do Kwon 等六人的逮捕令。Do Kwon 最近一段时间一直在新加坡，他通过律师告诉检方无意出庭接受审讯。检方已要求韩国外交部吊销 Do Kwon 的护照，认为他有逃跑的迹象。检方要求国际刑警组织发出红色通缉令通缉 Do Kwon。Do Kwon 则通过 Twitter 回应表示会全面配合调查，不会隐藏或躲避。",
+          "link": "https://www.solidot.org/story?sid=72824",
+          "publishedOn": "2022-09-20T15:44:43.000Z",
+          "wordCount": 168,
+          "title": "韩国求助国际刑警组织通缉 Do Kwon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72823",
+          "author": null,
+          "description": "英国 De Montfort 大学的一项小规模调查研究显示，儿童每周会因为过度沉迷社交网络损失一个晚上的睡眠时间。研究调查了 60 名 12 岁以下儿童，七成每天用社交媒体四小时以上，三分之二睡前两小时用社交应用，12.5% 的人晚上醒来看应用通知。根据英国 NHS 的指南，儿童每晚应睡 9 到 11 小时，被调查的儿童平均每晚睡 8.7 个小时，一周损失相当于一个晚上的睡眠。TikTok 使用率最高，九成的儿童使用，其次是 Snapchat，使用率 84%，Instagram 使用率五成以上。",
+          "link": "https://www.solidot.org/story?sid=72823",
+          "publishedOn": "2022-09-20T14:53:41.000Z",
+          "wordCount": 163,
+          "title": "儿童每周会因为过度沉迷社交网络损失一个晚上的睡眠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72822",
+          "author": null,
+          "description": "一位拉斯维加斯的外科医生透露有数十位软件工程师花费 7 万到 15 万美元到他那儿做增高手术。这些软件工程师多来自知名科技公司，其中包括 PayPal、Google、亚马逊、Facebook 和微软，其中还有一位是女性。Kevin Debiparshad 医生称他所在的 LimbplastX 研究所自疫情在家工作时代起，做增高手术的人数是平常的两倍，有时一个月有 50 多个人。为什么要做增高手术？原因可能是各种统计数据显示，身材高大的人在社会上更有利：高个子的人赚钱更多，更可能成为企业高管（财富五百强企业男性 CEO 平均身高 6 英尺），也更受女性青睐。付出些代价来获得更多好处对一部分人来说是值得的。",
+          "link": "https://www.solidot.org/story?sid=72822",
+          "publishedOn": "2022-09-20T14:08:41.000Z",
+          "wordCount": 160,
+          "title": "软件工程师做增高手术",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72821",
+          "author": null,
+          "description": "去年坠落在英国的陨石中发现了地外水。这颗陨石于 2021 年 2 月坠落在格洛斯特郡温奇科姆镇的一条车道上，这块 0.5 公斤的陨石在坠落后 12 小时内被迅速回收，它也是迄今为止收集到的污染最少的样本。陨石样本大约大约 12% 由水组成，这些水的组成与地球海洋中水的组成“非常非常相似”。地球上的水来自哪里？有假设认为彗星或小行星是主要来源。分析表明，这块陨石来自木星附近的一颗小行星。它形成于大约 46 亿年前，花了大约 30 万年才到达地球。",
+          "link": "https://www.solidot.org/story?sid=72821",
+          "publishedOn": "2022-09-20T11:32:30.000Z",
+          "wordCount": 161,
+          "title": "2021 年坠落在英国的陨石中发现水",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72820",
+          "author": null,
+          "description": "在 Linux 内核维护者峰会上，Linus Torvalds 表示除非有怪事发生，Rust 将进入 Linux 6.1。目前正在开发的版本是 Linux 6.0，6.1 是下一个版本。首个进入内核的是用 Rust 语言开发的 NVMe 驱动，它已经实现了与 C 语言版本相当的性能。Linux 内核 和 Rust 开发者 Miguel Ojeda 的工作让内核对 Rust 的支持更加成熟。内核开发者同意 Rust on Linux 已经准备就绪。",
+          "link": "https://www.solidot.org/story?sid=72820",
+          "publishedOn": "2022-09-20T11:24:24.000Z",
+          "wordCount": 184,
+          "title": "Rust 将进入 Linux 6.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72819",
+          "author": null,
+          "description": "本月举行的  Sinquefield Cup 国际象棋比赛上，19 岁的美国棋手 Hans Niemann 爆冷击败了 53 场不败的棋王  Magnus Carlsen，结果却引发了一场作弊的指控。Niemann 承认以前网上比赛曾作弊过，但坚决否认线下比赛作弊。不管真相是什么，每个人都同意在 2022 年国际象棋比赛中作弊是非常简单的事情，过去 15 年名为 chess engines 的 AI 软件包可以轻而易举的击败最强的国际象棋大师。棋手面对机器毫无胜算，那么人类棋手之间的对弈就主要依赖于心理弱点寻找漏洞击败对手，因此国际象棋比赛变成了一场心理战，就像是打扑克牌。要理解机器的优势有多大，可以参考国际象棋排名：Carlsen 保持了人类最高的得分记录 2882 分，1997 年击败卡斯帕罗夫的 IBM 深蓝超算得分 2853，今天最强大的 AI 程序 Stockfish 保守估计得分超过 3500 分，Carlsen 基本上不可能打败它。",
+          "link": "https://www.solidot.org/story?sid=72819",
+          "publishedOn": "2022-09-20T10:19:33.000Z",
+          "wordCount": 178,
+          "title": "国际象棋比赛现在就像打扑克牌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72818",
+          "author": null,
+          "description": "Uber 网络系统上周遭黑客入侵，这家网约车巨头周一在安全公告中称，一家 EXT 承包商的账户被攻击者入侵。攻击者可能是在这个承包商的个人设备感染恶意软件后，在暗网上购买了该承包商的 Uber 公司密码。在攻击者发送了大量 2FA 请求后，该承包商接受了其中一次登录请求，导致攻击者最终成功登录。Uber 认为攻击者与黑客组织 Lapsus$ 有关联。该公司仍在进行调查。 Uber 表示未发现攻击者访问了支持其应用程序的生产系统、任何用户账户或用于存储敏感用户信息的数据库。该公司还称，其审查了自己的代码库，没有发现攻击者做了任何更改。Uber 也未发现攻击者访问其云供应商存储的任何客户或用户数据。攻击者下载了一些内部 Slack 信息，并对其财务团队用于管理一些发票的内部工具进行了访问或下载了信息。目前正在分析这些下载内容。",
+          "link": "https://www.solidot.org/story?sid=72818",
+          "publishedOn": "2022-09-20T08:59:25.000Z",
+          "wordCount": 163,
+          "title": "Uber 将入侵归咎于一家承包商",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72817",
+          "author": null,
+          "description": "HardenedVault 写道 \"HardenedVault此前谈到过下一代数据中心安全和web3之间的联系。近期，阿法兔（科技投资研究者）和HardenedVault（赛博堡垒）共同合作编写了一篇题为《从下一代数据中心的角度，谈谈为何Web3终将到来》的文章。本篇文章涉及多个议题，包括数据中心的发展历史，数据中心技术的迭代早就了公有云以及行业云的商业模式，云原生环境下Service Mesh的邦联化/去中心化趋势，自建数据中心 vs. 公有云的成本问题，摩尔定律对于硅芯片接近极限为通用计算平台的扩展提供了空间和机会，下一代数据中心和区块链的不可能三角以及以太坊（ETH）合并后的通信（邦联化，跨连桥）和安全（任何形式的超级节点）的挑战。\"",
+          "link": "https://www.solidot.org/story?sid=72817",
+          "publishedOn": "2022-09-20T08:27:27.000Z",
+          "wordCount": 148,
+          "title": "从下一代数据中心的角度，谈谈为何Web3终将到来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72816",
+          "author": null,
+          "description": "根据发表在 PNAS 期刊上的一项研究，香港大学的一组科学家估计地球上总共有 2 万万亿只蚂蚁。它们的总质量相当于所有野生鸟类和哺乳动物的总和。地球上每有一个人类就有 250 万只蚂蚁。蚂蚁和人类一样，其足迹遍及全世界。研究人员称，蚂蚁在热带和亚热带地区数量最多，除了地球最寒冷的地方，几乎所有地方都能找到蚂蚁。因为栖息地的破坏、气候变化和杀虫剂的广泛使用，科学家担心昆虫数量在下降，但并不确定蚂蚁的数量是否在下降。这是研究团队下一个准备回答的问题。",
+          "link": "https://www.solidot.org/story?sid=72816",
+          "publishedOn": "2022-09-20T08:26:49.000Z",
+          "wordCount": 157,
+          "title": "研究估计地球有 2 万万亿只蚂蚁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72815",
+          "author": null,
+          "description": "Unicode 标准释出了 v15。Unicode 15 增加了 4,489 个字符，总数达到 149,186 个字符。新增字符包括两种新文字——印度 Mundari 语 Nag Mundari 和 Kannada 语 Kaktovik，共 161 个；以及 20 个新绘文字符号，和 4193 个 CJK 中日韩表意文字。",
+          "link": "https://www.solidot.org/story?sid=72815",
+          "publishedOn": "2022-09-20T03:54:04.000Z",
+          "wordCount": 175,
+          "title": "Unicode 15 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72814",
+          "author": null,
+          "description": "9 月 14 日晚上，22 岁的 Mahsa Amini 因为头巾没达到政府规定的标准而被道德警察拘捕，头部遭到棍子殴打，警察的暴力行为导致她脑出血，最终于 9 月 16 日在医院死亡。她的死亡引发了伊朗民众的大规模抗议。NetBlocks 的网络监测显示，本周一晚上伊朗 Kurdistan 省部分地区网络几乎完全中断。Mahsa Amini 来自 Kurdistan 省的 Saqqez 市。此类的物理层断网是无法通过 VPN 等软件绕过的。断网持续了大约 3.5 个小时。",
+          "link": "https://www.solidot.org/story?sid=72814",
+          "publishedOn": "2022-09-20T03:28:15.000Z",
+          "wordCount": 179,
+          "title": "抗议 Mahsa Amini 死亡伊朗部分地区短时间断网",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72813",
           "author": null,
@@ -977,26 +1117,6 @@
           "publishedOn": "2022-09-12T11:13:59.000Z",
           "wordCount": 174,
           "title": "苹果将使用 Globalstar 85% 的卫星网络容量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72737",
-          "author": null,
-          "description": "根据一项对 641 名医疗行业 IT 和安全从业者自我报告调查《Cyber Insecurity in Healthcare: The Cost and Impact on Patient Safety and Care》，网络攻击最常见的后果是手术和测试推迟，导致病人恢复结果不佳，并发症增加。对医院造成最严重后果的网络攻击类型是勒索软件攻击，报告称近四分之一的被调查机构病人死亡率上升，64% 的医疗机构手术或测试推迟，59% 的机构病人住院时间延长。报告称，89% 的接受调查的机构过去一年平均经历 43 次网络攻击。最常见的攻击类型是云端入侵、勒索软件、供应链攻击，以及商业电子邮件入侵或钓鱼。",
-          "link": "https://www.solidot.org/story?sid=72737",
-          "publishedOn": "2022-09-11T15:11:56.000Z",
-          "wordCount": 165,
-          "title": "研究发现部分遭受勒索软件攻击的医院病人死亡率上升",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72736",
-          "author": null,
-          "description": "国际象棋在线平台 Chess.com 封杀了被控作弊的 19 岁棋手 Hans Moke Niemann。Niemann 前不久击败了五次赢得国际象棋世界冠军赛的棋王  Magnus Carlsen，随后引发了作弊的指控，但没有任何证据支持这一指控。Niemann 此前接受采访时承认他曾在 Chess.com 平台的非实战类比赛中两次作弊，但两次作弊的年龄都是未成年人，分别是 12 岁和 16 岁，他解释说只是想拿到更高的等级与更强大的棋手对弈。他强调自己从未在实战中作弊。Chess.com 称它掌握的证据与 Niemann 在该平台的作弊数量和严重性陈述存在矛盾。目前没有确凿证据证明 Niemann 在与 Carlsen 的比赛中作弊了。",
-          "link": "https://www.solidot.org/story?sid=72736",
-          "publishedOn": "2022-09-11T14:20:25.000Z",
-          "wordCount": 180,
-          "title": "Chess.com 封杀被控作弊的 19 岁棋手",
           "imageUrl": null
         }
       ]
