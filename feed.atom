@@ -2,10 +2,189 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-09-21T04:20:46.230Z</updated>
+    <updated>2022-09-22T04:12:47.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[伊朗再次切断互联网和移动服务]]></title>
+        <id>https://www.solidot.org/story?sid=72839</id>
+        <link href="https://www.solidot.org/story?sid=72839"/>
+        <updated>2022-09-22T03:22:00.000Z</updated>
+        <summary type="html"><![CDATA[上周 22 岁的 Mahsa Amini 因为头巾没达到政府的标准而被道德警察拘捕被殴打致死，这起事件在伊朗各地引发了大规模抗议。反政府抗议蔓延至数十个城市。在 Amini 的家乡库尔德斯坦省，至少有七人丧生。妇女冒着被逮捕的危险在公共场合摘下并焚烧她们的头巾。抗议者高喊“独裁者去死”、“生命、自由和妇女”等口号，呼吁结束伊朗伊斯兰共和国。政府则派出防暴警察和便衣民兵等安全部队镇压抗议者。在有抗议活动的社区，互联网和手机服务已被中断。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Rules vs. CSS Rulesets]]></title>
+        <id>https://css-tricks.com/?p=373639</id>
+        <link href="https://css-tricks.com/css-rules-vs-css-rulesets/"/>
+        <updated>2022-09-21T21:53:44.000Z</updated>
+        <summary type="html"><![CDATA[The latest spec:
+A style rule is a qualified rule that associates a selector list with a list of property declarations and possibly a list of nested rules. They are also called rule sets in CSS2.
+Louis Lazaris:
+As the above quote from W3C indicates, it seems 
+…
+CSS Rules vs. CSS Rulesets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币做市商 Wintermute DeFi 业务遭攻击损失 1.6 亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=72838</id>
+        <link href="https://www.solidot.org/story?sid=72838"/>
+        <updated>2022-09-21T16:03:48.000Z</updated>
+        <summary type="html"><![CDATA[加密货币做市商 Wintermute 首席执行官 Evgeny Gaevoy 周二发推文披露，Wintermute 的去中心化融资业务（DeFi）遭黑客攻击，损失约 1.6 亿美元。该公司的中心化融资和场外业务没有受到影响，而该公司“剩余股本超过上述金额的两倍，具有偿付能力”。Gaevoy 说，“如果你和 Wintermute 签订了做市协议，你的资金是安全的。今天我们的服务会受到干扰，可能会持续几天，之后会恢复正常。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[划词评论与Range开发若干经验分享]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=10541</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2022/09/js-selection-range/"/>
+        <updated>2022-09-21T15:50:59.000Z</updated>
+        <summary type="html"><![CDATA[如果你有类似划词评论的开发需求，本文内容不容错过，这可是外面很难找到的开发素材，暂时没有遇到类似需求也没关系，可以Star下项目，日后再说。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wasmtime 1.0 发布]]></title>
+        <id>https://www.solidot.org/story?sid=72837</id>
+        <link href="https://www.solidot.org/story?sid=72837"/>
+        <updated>2022-09-21T15:47:18.000Z</updated>
+        <summary type="html"><![CDATA[Wasmtime WebAssembly 运行时 1.0 版发布，这意味着它做好了用于生产的准备。WebAssembly 或 wasm 源于 Mozilla 发起的 Asm.js 项目，设计补充 JavaScript，能提供比 JavaScript 更快的编译及执行，让高性能 Web 应用在浏览器上运行成为可能。Wasmtime 是 WebAssembly 的一个独立运行时项目，由  Bytecode Alliance 发起，能在 Web 之外运行 WebAssembly 代码，设计成为一种可配置可嵌入运行时，能在任何应用上运行。开发者列举了多个使用 Wasmtime 的项目：Shopify 的 WebAssembly 引擎在切换到 Wasmtime 之后执行性能改进了 50%；Fastly 在采用 Wasmtime 之后执行性能提高 50%，每秒请求增加了 72% 到 163%；等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube 的不喜欢按钮对减少类似推荐基本无效]]></title>
+        <id>https://www.solidot.org/story?sid=72836</id>
+        <link href="https://www.solidot.org/story?sid=72836"/>
+        <updated>2022-09-21T11:33:00.000Z</updated>
+        <summary type="html"><![CDATA[社交媒体通常会根据我们的浏览习惯推荐内容，用户则可以通过不喜欢、不感兴趣等反馈减少相似内容的出现。很多用户感到困惑的是，不喜欢按钮往往并不能减少类似内容的推荐。Mozilla 的一项研究证实在 YouTube 平台上点击不喜欢按钮对减少类似推荐基本无效。研究分析了四种控制内容推荐方法的有效性：不喜欢按钮、不感兴趣、不要推荐该频道和从观看历史中移除。结果显示，不要推荐该频道最有效，能阻止 43% 的不想看内容推荐；不感兴趣最无效，只阻止 11% 的不需要推荐；不喜欢按钮基本相同有效性只有 12%；从观看历史中移除阻止了 29% 的不需要推荐。研究作者指出，YouTube 等平台就像家长一样为你做出选择。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软开始推送 Windows 11 2022]]></title>
+        <id>https://www.solidot.org/story?sid=72835</id>
+        <link href="https://www.solidot.org/story?sid=72835"/>
+        <updated>2022-09-21T11:05:46.000Z</updated>
+        <summary type="html"><![CDATA[微软周二宣布开始推送 Windows 11 2022，Windows 11 操作系统的首个重大更新。在 Windows 11 2022 中，微软更新了开始菜单和快速设置，引入了一组新的可及性功能，安全功能 Smart App 控制，改进 Snap 布局，加入最小化分心的 Focus sessions 和 Do Not Disturb 的功能，等等。Windows 11 用户可通过检查更新查看是否有可用更新。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《星际公民(Star Citizen)》筹集的资金突破五亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=72834</id>
+        <link href="https://www.solidot.org/story?sid=72834"/>
+        <updated>2022-09-21T10:03:40.000Z</updated>
+        <summary type="html"><![CDATA[《星际公民(Star Citizen)》这个开发了十年至今不知道发布日期的游戏筹集的资金突破了五亿美元。它是至今为止开发费用最昂贵的游戏。根据维基百科的数据，《星际公民》的开发费用遥遥领先于开放世界 3A 游戏如《赛博朋克2077》、《侠盗猎车V》和《荒野大镖客2》。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014 年。但在 Kickstarter 众筹结束后，开发团队继续在官方网站上进行募资，许多募资其实就是销售游戏内的虚拟物品。2018 年它筹集到 2 亿美元，四年之后突破 5 亿美元，但游戏何时发布仍然是未知数。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 105.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=72833</id>
+        <link href="https://www.solidot.org/story?sid=72833"/>
+        <updated>2022-09-21T09:50:38.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 释出了 Firefox 105.0。主要新变化包括：打印预览对话框加入只打印当前页选项；在第三方上下文中支持分割 Service Worker——Service Worker 充当了 Web 应用、浏览器和网络之间的代理服务器功能，旨在创造一种离线体验，拦截网络请求并根据网络是否可用采取适当行动，更新服务器上的资源；Windows 版本启用滑动导航；兼容 User Timing L3 规格，搜索大列表中个别项目的速度提升一倍；改进 Windows 版本的稳定性，bug 修复等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tab Wrangler – 倒计时，自动关闭不常用的标签页[Chrome/Firefox]]]></title>
+        <id>https://www.appinn.com/?p=43409</id>
+        <link href="https://www.appinn.com/tab-wrangler/"/>
+        <updated>2022-09-21T09:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Tab Wrangler 是一款专为不愿关闭浏览器标签页用户准备，帮你自动、定时关闭不常用的标签页，以让你的浏览器看起来正常一些，当然还可以节约内存、节省 CPU 资源。另外被关闭的标签页可以轻松找回]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧盟开放 Web 搜索项目启动]]></title>
+        <id>https://www.solidot.org/story?sid=72832</id>
+        <link href="https://www.solidot.org/story?sid=72832"/>
+        <updated>2022-09-21T09:00:10.000Z</updated>
+        <summary type="html"><![CDATA[搜索是数字经济的支柱，但它控制在少数巨头手中。为了实现信息的自由、不带偏见和透明的访问，欧盟 7 个国家 14 个研究和计算中心发起了开放 Web 搜索项目，为欧盟的 Web 搜索构建开放的基础设施。未来三年，研究人员将开发核心的索引 Open Web Index (OWI)。索引将与搜索引擎分开，创建索引的昂贵过程可以在大型集群上完成，而搜索引擎则可以在本地执行。通过 Open-Web-Search Engine Hub，任何人都可以分享其搜索引擎规格和预计算定期更新的索引。最终目标是创造一个以人为中心无隐私问题的搜索。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice 在 Mac App Store 的版本开始收费]]></title>
+        <id>https://www.solidot.org/story?sid=72831</id>
+        <link href="https://www.solidot.org/story?sid=72831"/>
+        <updated>2022-09-21T07:49:37.000Z</updated>
+        <summary type="html"><![CDATA[开发 LibreOffice 的 The Document Foundation 基金会开始对 Mac App Store 发布的版本收费。LibreOffice 是 OpenOffic 的一个分支，也是目前最流行的开源办公软件，它有提供付费支持的企业版本 LibreOffice Enterprise，以及免费的社区版本 LibreOffice Community。从本周开始，基金会宣布对 Mac App Store 上的版本收取 8.99 欧元的费用以支持项目的开发。macOS 用户仍然可以从基金会的网站下载免费版本。免费版本事实上可能比应用商店的版本更优，原因是它支持 Java，而苹果应用商店禁止依赖，因此商店版本不包含 Java。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现端粒 DNA 新结构]]></title>
+        <id>https://www.solidot.org/story?sid=72830</id>
+        <link href="https://www.solidot.org/story?sid=72830"/>
+        <updated>2022-09-21T07:27:11.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《自然》期刊上的研究，科学家报告发现了一种端粒 DNA 新结构。端粒被视为长寿的关键，它们保护基因免受损害，但每次细胞分裂时都会变短一些。如果它们变得太短，细胞就会死亡。端粒之间的 DNA 有两米长，因此必须将其折叠以适合细胞。这是通过将 DNA 包裹在蛋白质上来实现的，DNA 和蛋白质一起被称为核小体，它们排列成类似于一串珠子的东西。这串珠子还会进行更多的折叠。它如何做到这一点取决于核小体之间的 DNA 长度，即串上的珠子。折叠后出现的两种结构是已知的。一种结构是两个相邻的珠子黏在一起，游离的DNA挂在它们之间。但如果珠子之间的DNA片段较短，则相邻的珠子不会黏在一起，两个堆叠并排形成第二种结构。结合电子显微镜和分子力光谱法，研究人员发现了另一种端粒结构。核小体靠得更近，因此珠子之间不再有任何游离 DNA。这最终会产生一个大的 DNA 螺旋。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当 AI 问蠢问题它会更快变聪明]]></title>
+        <id>https://www.solidot.org/story?sid=72829</id>
+        <link href="https://www.solidot.org/story?sid=72829"/>
+        <updated>2022-09-21T07:16:27.000Z</updated>
+        <summary type="html"><![CDATA[如果有人给你看鳄鱼照片问是不是鸟，你可能会笑。如果你友善且有耐心，可能会帮助纠正错误。根据发表在 PNAS 期刊上的一项研究，研究人员借助 Instagram 展开的研究发现，这种策略能显著提高 AI 解释新图像的正确率。研究人员奖励系统写出能理解的问题，当用户对问题做出回应时，系统收到反馈调整内部工作。然后 AI 逐渐学会了语言和社会规范相关的知识，改进它提出有意义问题的能力。研究团队 8 个月内在 Instagram 用逾 20 万个问题进行训练，系统回答与已回答问题相似问题的正确率提高了 118%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 韦伯望远镜发布火星红外照片]]></title>
+        <id>https://www.solidot.org/story?sid=72828</id>
+        <link href="https://www.solidot.org/story?sid=72828"/>
+        <updated>2022-09-21T03:58:07.000Z</updated>
+        <summary type="html"><![CDATA[NASA 韦伯太空望远镜发布了火星红外照片。韦伯发布的图像用两种不同的红外波长显示了火星东半球的图像。波长较短的部分是火星反射太阳光得到的结果，显示了可见光图像中常见的行星表面特征；波长较长的部分则显示了火星表面和大气散发的热量，以及大气中二氧化碳浓度的信息。研究人员表示，使用韦伯望远镜的一个优点是，可以在短曝光时间内以高分辨率同时成像整个星球的表面，从而可以研究短时间内发生的事件，如沙尘暴、天气模式和季节变化等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS Ref – iOS 开发者一站式系统、硬件数据指南]]></title>
+        <id>https://www.appinn.com/?p=43404</id>
+        <link href="https://www.appinn.com/ios-ref/"/>
+        <updated>2022-09-21T03:38:46.000Z</updated>
+        <summary type="html"><![CDATA[iOS Ref 是一个为 iOS 开发者提供一站式的硬件数据参考网站，比如历代 iPhone、iPad 屏幕分辨率、支持的最低系统、Swift 版本、内存与 CPU 等信息。@Appinn 事情是这样]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 投票是否允许默认加载非自由固件]]></title>
+        <id>https://www.solidot.org/story?sid=72827</id>
+        <link href="https://www.solidot.org/story?sid=72827"/>
+        <updated>2022-09-21T03:36:46.000Z</updated>
+        <summary type="html"><![CDATA[在一个月的讨论之后，Debian 项目宣布对是否允许默认加载非自由固件举行投票，截至日期为 10 月 1 日。Debian 社区采用的是孔多塞投票法。此次投票共六个选项：
+Only one installer, including non-free firmware；
+为了改进可及性。如盲人用户需要在文本语音模式下运行安装程序，可能需要先加载音频固件。目前
+ Debian 发行版默认不加载非自由固件，要盲人用户自己去摸索调整是非常困难的。因此 Debian 
+开发者提议在官方镜像中包含非自由固件。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[报道否认 TikTok 与母公司保持距离]]></title>
         <id>https://www.solidot.org/story?sid=72826</id>
@@ -1074,48 +1253,6 @@ The Basics of Remix originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[全球旅行快速通关（Global Entry）不再需要游客扫描护照只根据人脸就能识别身份。今天的人脸识别准确度已经足够精确到人脸就能成为你的护照。但身份只是人脸识别的一部分功能，它还可能会关联你的更多信息，如兴趣爱好等等等等。纽约大学的计算机科学教授 Ken Perlin 认为这不是好事，但这就是我们即将进入的未来。他认为我们需要权衡利弊，为了便利而放弃隐私是否值得。Ken Perlin 曾因其发明的 Perlin 噪声（Perlin noise）而在 1996 年获得奥斯卡科技成果奖。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Interactive Figma Widgets]]></title>
-        <id>https://css-tricks.com/?p=372991</id>
-        <link href="https://css-tricks.com/building-interactive-figma-widgets/"/>
-        <updated>2022-09-12T13:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Figma has always encouraged collaboration between developers and designers. It strives on an endless treasury of community-made plugins. Need 3D elements? There’s a plugin for that. Need abstract SVGs? There’s a plugin for that, too.
-That said, the design part of Figma has …
-Building Interactive Figma Widgets originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Eluda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思科证实阎罗王勒索软件组织窃取了企业数据]]></title>
-        <id>https://www.solidot.org/story?sid=72740</id>
-        <link href="https://www.solidot.org/story?sid=72740"/>
-        <updated>2022-09-12T11:44:44.000Z</updated>
-        <summary type="html"><![CDATA[勒索软件黑帮阎罗王（音 Yanluowang）声称从思科网络窃取了数以千计的文件，总容量 55GB，其中包括机密文件、技术图表和源代码。但阎罗王没有提供证据证明其说法，只是公布了一张访问思科开发系统的屏幕截图。思科证实，阎罗王勒索软件组织在今年五月的一次攻击中从企业网络窃取了部分数据，但否认有任何敏感数据被盗。思科称阎罗王盗取了一名雇员的 VPN 账号，访问了该雇员的 Box 文件夹，但在勒索软件尝试加密系统前攻击就被阻止了。阎罗王是一个最近出现的勒索软件组织。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果将使用 Globalstar 85% 的卫星网络容量]]></title>
-        <id>https://www.solidot.org/story?sid=72739</id>
-        <link href="https://www.solidot.org/story?sid=72739"/>
-        <updated>2022-09-12T11:13:59.000Z</updated>
-        <summary type="html"><![CDATA[苹果最新一代的 iPhone 14 手机将支持卫星紧急通信功能，卫星网络由 Globalstar 公司提供，前两年免费，两年后的资费未知。根据 Globalstar 的公告，苹果将承担 Globalstar 为提供该服务搭建网络（包括新卫星）所需的 95% 的资本支出，Globalstar 被要求将“当前和未来网络容量”的 85% 分配给苹果来支持该服务。该服务仅用于紧急情况下发送短信，而非提供更普遍的野外场景的智能手机服务。苹果公司在上周三的发布会上指出，用户需要将手机拿到接收卫星通讯的最佳位置才能工作，而且即使只是树叶的轻微遮蔽，也会使这种短信耗时几分钟才能发送。iPhone 14 用户或许无法在乞力马扎罗山山顶上进行视频通话，但苹果公司已经为 Globalstar 在卫星通信市场锁定了一席之地。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSSPush – 将 RSS 实时推送至微信，以及大多数主流服务（IFTTT、Telegram、）]]></title>
-        <id>https://www.appinn.com/?p=43289</id>
-        <link href="https://www.appinn.com/rsspush/"/>
-        <updated>2022-09-12T09:44:41.000Z</updated>
-        <summary type="html"><![CDATA[RSSPush 是一款基于 Docker 部署的自托管服务，它能够将 RSS 实时推送至微信（基于 Server酱，支持关键词过滤），支持 RSSHub 生成的 RSS 地址。近日更是整合了 Appr]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
