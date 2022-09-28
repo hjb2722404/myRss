@@ -2,10 +2,144 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-09-27T04:09:17.397Z</updated>
+    <updated>2022-09-28T04:15:42.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英特尔发布起售价 329 美元的桌面显卡 Arc A770]]></title>
+        <id>https://www.solidot.org/story?sid=72900</id>
+        <link href="https://www.solidot.org/story?sid=72900"/>
+        <updated>2022-09-28T02:55:33.000Z</updated>
+        <summary type="html"><![CDATA[英特尔周二宣布了它的最高端桌面显卡 Arc A770 GPU，有两个显存版本，8GB 和 16GB，其中 16 GB 版本被称为限量版，起售价为 329 美元（英特尔未公布两个版本的价格，329 美元可能指的是 8GB 版本），远低于英伟达前不久宣布的旗舰显卡 RTX 4090，但它的性能也与 RTX 4090 相去甚远，英特尔声称 Arc A770 的性能能挑战或超越英伟达上一代的 RTX 3060 Ti 显卡，该显卡的价格为 399 美元。Arc A770 上市时间与 RTX 4090 相同，都是 10 月 12 日。英特尔显卡驱动在支持 DX11 游戏上被认为存在性能问题，可能需要比较长的时间才可能解决。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《自然》撤回备受争议的室温超导论文]]></title>
+        <id>https://www.solidot.org/story?sid=72899</id>
+        <link href="https://www.solidot.org/story?sid=72899"/>
+        <updated>2022-09-27T15:39:13.000Z</updated>
+        <summary type="html"><![CDATA[《自然》期刊撤回了备受争议的室温超导论文。论文发表于 2020 年 10 月，科学家报告在超高压下由氢、碳和硫组成的化合物能在室温下表现出超导性。但这篇论文很快在科学界引发了争议，质疑者认为存在数据捏造问题。支持者和反对者通过预印本平台 arXiv 打起了笔仗，促使 arXiv 管理员对其中一位质疑者禁止发表论文半年。多位科学家未能成功重复实验结果，而论文作者则对《自然》的决定表示失望。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 22H2 导致部分英特尔设备蓝屏死机]]></title>
+        <id>https://www.solidot.org/story?sid=72898</id>
+        <link href="https://www.solidot.org/story?sid=72898"/>
+        <updated>2022-09-27T15:17:28.000Z</updated>
+        <summary type="html"><![CDATA[刚刚释出的 Windows 11 22H2 被发现会导致使用英特尔 Smart Sound Technology (SST)音频驱动的设备蓝屏死机。微软在一份声明中称，英特尔和微软发现部分版本的  SST 驱动存在兼容性问题。英特尔  SST 是一个集成音频 DSP (Digital Signal Processor)，用于在不影响性能的情况下处理音频和语音交互。受影响用户将驱动更新到 v10.30.00.5714 或以上版本将能解决问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果开始在印度组装 iPhone 14]]></title>
+        <id>https://www.solidot.org/story?sid=72897</id>
+        <link href="https://www.solidot.org/story?sid=72897"/>
+        <updated>2022-09-27T13:37:00.000Z</updated>
+        <summary type="html"><![CDATA[苹果周一宣布它开始在印度组装 iPhone 14。苹果表示其代工厂富士康在位于金奈（Chennai）的工厂 Sriperumbudur 开始组装最新款的旗舰手机。苹果从 2017 年以来一直在印度组装 iPhone，但通常是旧型号。iPhone 14 是刚刚发布的最新款，印度组装最新款的时间间隔日益缩短。印度组装的 iPhone 主要在当地销售，但也会出口到全球其它市场。根据分析师的报告，苹果计划到今年年底将 5% 的 iPhone 生产从中国转移到印度，到 2025 年印度的产量将占到四分之一。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Named Element IDs Can Be Referenced as JavaScript Globals]]></title>
+        <id>https://css-tricks.com/?p=373209</id>
+        <link href="https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/"/>
+        <updated>2022-09-27T12:58:21.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that DOM elements with IDs are accessible in JavaScript as global variables? It’s one of those things that’s been around, like, forever but I’m really digging into it for the first time.
+If this is the first …
+Named Element IDs Can Be Referenced as JavaScript Globals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Matteo Mazzarolo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[达斯·维德的声音未来将用 AI 合成]]></title>
+        <id>https://www.solidot.org/story?sid=72896</id>
+        <link href="https://www.solidot.org/story?sid=72896"/>
+        <updated>2022-09-27T11:28:19.000Z</updated>
+        <summary type="html"><![CDATA[在创作星战电视剧《Obi-Wan Kenobi》期间，James Earl Jones 签署了允许迪士尼在未来项目中使用 AI 合成其声音的协议。91 岁的 Jones 为星战系列最著名反派达斯·维德的配音长达 45 年。他早就考虑了退出，但没有了他的标志性声音，黑爵士将何去何从？答案是 AI 语音建模工具  Respeecher。该工具由一家乌克兰公司开发，使用了深度学习去建模和复制人类声音，能达到以假乱真难以分辨。在此之前卢卡斯公司使用了 Respeecher 在《曼达洛人(The Mandalorian》中克隆了天行者卢克的扮演者 Mark Hamill 的声音。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 14 在华销量不及预期]]></title>
+        <id>https://www.solidot.org/story?sid=72895</id>
+        <link href="https://www.solidot.org/story?sid=72895"/>
+        <updated>2022-09-27T09:24:54.000Z</updated>
+        <summary type="html"><![CDATA[彭博援引 Jefferies 的分析师报道称，消费者在 iPhone 14 交付的头三天抢购了 98.7 万部，比去年 iPhone 13 系列手机的同期销量低了 11%。报告表示：“这些初步数据表明，iPhone 14 的销量可能没有预订水平所显示的那么强劲，因为预订不需要支付任何费用。”苹果最新智能手机系列的亮相表现平平，延续了全球最大手机市场令人失望的销售势头，该市场受到了疲弱的经济和严格的新冠疫情限制措施的打击。7 月智能手机出货量暴跌近三分之一至 1910 万部。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSA 在美国时间对西北工业大学发动攻击]]></title>
+        <id>https://www.solidot.org/story?sid=72894</id>
+        <link href="https://www.solidot.org/story?sid=72894"/>
+        <updated>2022-09-27T09:00:33.000Z</updated>
+        <summary type="html"><![CDATA[央视采访了调查西北工业大学网络攻击的 360 公司和国家计算机病毒应急处理中心的工程师。国家计算机病毒应急处理中心的调查发现：
+根据对相关网络攻击行为的大数据分析，对西北工业大学的网络攻击行动98%集中在北京时间 21 时至凌晨 4 时之间，该时段对应着美国东部时间 9 时至 16 时，属于美国国内的工作时间段。其次，美国时间的全部周六、周日中，均未发生对西北工业大学的网络攻击行动。第三，分析美国特有的节假日，发现美国的“阵亡将士纪念日”放假 3 天，美国“独立日”放假 1 天，在这四天中攻击方没有实施任何攻击窃密行动。第四，长时间对攻击行为密切跟踪发现，在历年圣诞节期间，所有网络攻击活动都处于静默状态。依据上述工作时间和节假日安排进行判断，针对西北工业大学的攻击窃密者都是按照美国国内工作日的时间安排进行活动的。
+调查还发现，NSA TAO 通过掌握的中国基础设施运营商的思科PIX防火墙、天融信防火墙等设备的账号口令，以“合法”身份进入运营商网络，随后实施内网渗透拓展，分别控制相关运营商的服务质量监控系统和短信网关服务器，利用“魔法学校”等专门针对运营商设备的武器工具，查询了一批中国境内敏感身份人员，并将用户信息打包加密后经多级跳板回传至 NSA 总部。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源古战争策略游戏 0 A.D 发布庄子版]]></title>
+        <id>https://www.solidot.org/story?sid=72893</id>
+        <link href="https://www.solidot.org/story?sid=72893"/>
+        <updated>2022-09-27T08:36:11.000Z</updated>
+        <summary type="html"><![CDATA[开源自由软件历史策略游戏 0 A.D 发布了 Alpha 26 庄子版。0 A.D 风格类似于帝国时代，包含了建设基地、训练军队、战斗和研发科技等要素。游戏的阵营包含多个文明，而每个文明都有自己独特的军队和建筑。Alpha 26 以著名道教哲学家庄子命名，新增加了汉文明，新增了战役地图塔里木盆地和长江，单位现在能加速，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我国拥有大学文化程度的人口超过 2.18 亿]]></title>
+        <id>https://www.solidot.org/story?sid=72892</id>
+        <link href="https://www.solidot.org/story?sid=72892"/>
+        <updated>2022-09-27T08:02:59.000Z</updated>
+        <summary type="html"><![CDATA[教育部在今天举行的新闻发布会上称，我国拥有大学文化程度的人口超过 2.18 亿。全国共有各级各类学校 52.9 3万所，在校生 2.91 亿人；其中义务教育阶段学校 20.7 万所，在校生 1.6 亿人；高中阶段教育学校 2.2 万所，在校生 3976.4 万人；高等教育学校 3012 所，在学总规模 4430 万人。劳动年龄人口平均受教育年限达到了 10.9 年，相当于高中二年级的水平。全国教育经费总投入 2021 年达到 5.8 万亿元。本科教育包括职教本科，在校生规模达到 1906 万人；研究生在校生规模 333.2 万人，其中博士研究生 50.9 万人。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[细胞漫游者探索细胞内部世界]]></title>
+        <id>https://www.solidot.org/story?sid=72891</id>
+        <link href="https://www.solidot.org/story?sid=72891"/>
+        <updated>2022-09-27T07:00:37.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Nature Communications》期刊上的一项研究，MIT 工程师设计了一种可在活细胞内无线操作的微型天线，该天线具有实时监测甚至指导细胞活动的潜力，为医学诊断和治疗以及研究其他科学过程开辟了新的前景。研究人员将这项技术命名为“细胞漫游者”，天线比细胞小得多，在对卵母细胞的研究中，天线占细胞体积不到 0.05%，不会损坏细胞。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国电动汽车今年销量预计将超五分之一]]></title>
+        <id>https://www.solidot.org/story?sid=72890</id>
+        <link href="https://www.solidot.org/story?sid=72890"/>
+        <updated>2022-09-27T06:43:10.000Z</updated>
+        <summary type="html"><![CDATA[中国计划到 2025 年电动汽车占到到新车销量的五分之一，而今年有望提前三年实现这一目标。今年购买的新车中电动或混动预计将占到四分之一。中国有300多家生产电动汽车的企业，向消费者提供各种价位的汽车。全国目前约有 400 万个公共充电桩，比一年前翻了一番，还有更多在建设中。在其他国家的电动车市场仍严重依赖补贴和财政激励措施的时候，中国已进入了一个新阶段：消费者正在根据功能和价格来权衡电动汽车与汽油动力车的优劣，而不太考虑国家的补贴。中国已经是世界上最大，同时也是增长速度最快的电动汽车市场之一，预计今年的新能源汽车销量将翻一番，达到约 600 万辆，超出世界其他地区的总和。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok 准备与美国政府达成继续在美运营的协议]]></title>
+        <id>https://www.solidot.org/story?sid=72889</id>
+        <link href="https://www.solidot.org/story?sid=72889"/>
+        <updated>2022-09-27T04:18:58.000Z</updated>
+        <summary type="html"><![CDATA[TikTok 有望就其能否继续在美国运营与拜登政府达成协议。NYT 援引知情人士的消息报道，拜登政府和 TikTok 已经起草了一份初步协议，以解决这个视频应用所带来的问题。双方已经敲定了一项交易的基础，TikTok 将修改其数据安全和管理方式，而无需其所有者字节跳动将其出售。双方仍在协商中，在具体条款方面仍面临障碍。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA DART 飞船成功撞击小行星]]></title>
         <id>https://www.solidot.org/story?sid=72888</id>
@@ -75,6 +209,16 @@
 How to Create Wavy Shapes & Patterns in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[即刻转‪换 – 功能全面的视频、音频格式转换软件[macOS]]]></title>
+        <id>https://www.appinn.com/?p=43468</id>
+        <link href="https://www.appinn.com/video-converter-x2/"/>
+        <updated>2022-09-26T12:35:17.000Z</updated>
+        <summary type="html"><![CDATA[即刻转‪换是一款功能全面的视频格式、音频格式转换工具，能够非常简单的在几乎所有主流多媒体格式之间转换，支持音轨、字幕，内置多种设备模板，点几下就行了，完全不需要去研究播放格式、视频参数。@Appinn]]></summary>
+        <author>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
@@ -1163,46 +1307,6 @@ Making a Real-Time Clock With a Conic Gradient Face originally published on CSS-
         <summary type="html"><![CDATA[名叫 teapotuberhacker 黑客在 GTAForums 论坛（已删除）泄露了数十个《侠盗猎车手6（GTA6）》测试视频，总长度约 50 分钟。视频被证实是真实的，相关帖子已经删除，大部分视频也被开发商 Rockstar Games 的母公司 Take-Two Interactive 以侵权为由下架。GTA6 正在开发之中，预计还要数年时间才会发布，故事发生在虚构的迈阿密及周边地区，男女主角的塑造受到了著名雌雄大盗 Bonnie 和 Clyde 的启发。黑客声称是通过 Rockstar 内部 Slack 服务器访问到这些视频的，他们还访问到了游戏源代码，考虑公开 GTA 5 和 GTA 6 的源代码，以及 GTA 6 的一个测试版本。黑客同时表示愿意与 Rockstar 或 Take-Two 达成不公开源代码的交易。这起事件被认为是游戏史上最大的泄露事件之一。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上月集成电路产量大幅下跌]]></title>
-        <id>https://www.solidot.org/story?sid=72798</id>
-        <link href="https://www.solidot.org/story?sid=72798"/>
-        <updated>2022-09-18T15:59:58.000Z</updated>
-        <summary type="html"><![CDATA[国家统计局周五公布的 8 月经济数据显示，集成电路产量为 247 亿块，同比下跌 24.7%，创下了 1997 年以来的最大单月跌幅。这也是半导体行业连续第二个月萎缩，7 月产量下跌了 16.6% 至 272 亿块。今年前八个月，集成电路产量同比下跌 10% 至 2181 亿块。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[仍在销售软盘的商人]]></title>
-        <id>https://www.solidot.org/story?sid=72797</id>
-        <link href="https://www.solidot.org/story?sid=72797"/>
-        <updated>2022-09-18T14:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Floppydisk.com 创始人 Tom Persky 自称是行业最后一人。他的网站专注于销售和回收软盘，早期的生意是软盘复制，在 1980 年代到 1990 年代初复制磁盘就像印钞一样，利润令人难以置信。但随着软盘的使用下降，绝大部分商店开始停售或退出软盘业务，他才开始销售空白软盘，Floppydisk.com 如今是全球软盘的供应商。为什么他还从事软盘生意？他说原因是他忘记退出这个行业了。软盘使用者的人数在下降，但销售软盘的人数下降更快，他成为软盘行业的最后一人掌握着最大的份额。他买下了数百万张空白软盘，然后靠着销售软盘库存为生。他透露目前软盘库存数量大约还有 50 万张，包括 3.5 英寸、5.25 英寸 和 8 英寸。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国 CISA 下令修补 Stuxnet 攻击使用的漏洞]]></title>
-        <id>https://www.solidot.org/story?sid=72796</id>
-        <link href="https://www.solidot.org/story?sid=72796"/>
-        <updated>2022-09-18T14:01:17.000Z</updated>
-        <summary type="html"><![CDATA[美国网络和基础设施安全局（CISA）在其 Known Exploited Vulnerabilities 目录中加入了 6 个漏洞，要求联邦机构按照供应商的指示修补漏洞。六个漏洞只有一个是今年报告的，其它五个分别是在 2013 年 和 2010 年报告的，其中 2010 年披露的漏洞 CVE-2010-2568 (RCE) 被用于传播攻击伊朗  Natanz 铀浓缩工厂离心机的 Stuxnet 蠕虫。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图形方格纸 MyGraphPaper – 免费、可自定义的纸张模板、方格笔记本、打印纸]]></title>
-        <id>https://www.appinn.com/?p=43369</id>
-        <link href="https://www.appinn.com/mygraphpaper/"/>
-        <updated>2022-09-18T06:58:20.000Z</updated>
-        <summary type="html"><![CDATA[图形方格纸 MyGraphPaper 是一款自定义纸张模板的网页，主要用来制作各种大小的田字格/拼音、作业本、信纸、分镜表等模板，并用来打印。免费，高自定义（纸张大小、方向、边框、留白、标题、横线等等]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
