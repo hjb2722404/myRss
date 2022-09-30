@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43513",
+          "author": "青小蛙",
+          "description": "MaterialFox 是一款为 Firefox 启用 Chrome 样式的主题文件，安装之后能让你在使用 Firefox 时，看起来就像使用 Chrome 一样。@Appinn 感谢 Appinn",
+          "link": "https://www.appinn.com/materialfox/",
+          "publishedOn": "2022-09-30T04:26:53.000Z",
+          "wordCount": 2366,
+          "title": "MaterialFox – 为 Firefox 启用 Chrome 样式",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/Appinn-2022-09-30T120141.370.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=43501",
+          "author": "青小蛙",
+          "description": "简单打码 是一款简单的智能图片打码应用，支持 iPhone 与 Android，除了喜闻乐见的 AI 自动识别打码，还支持在图片上涂鸦、添加表情、文字、水印。@Appinn 来自发现频道，开发者 @h",
+          "link": "https://www.appinn.com/jiandan-dama/",
+          "publishedOn": "2022-09-29T09:04:00.000Z",
+          "wordCount": 2332,
+          "title": "简单打码 – 支持表情、涂鸦的自动打码工具[iPhone/Android]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/Appinn-2022-09-29T164112.371.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43484",
           "author": "青小蛙",
           "description": "青小蛙一直有一个需求，就是将几张图片、截图简单的拼接起来，完全不需要花里胡哨的边框、留白、变形、文字，就只是简单的把他们拼接在一起，在一起… 然后今天下午，就在微博提出了这个问题。@您的脸",
@@ -125,16 +145,6 @@
           "wordCount": 2285,
           "title": "iOS Ref – iOS 开发者一站式系统、硬件数据指南",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/Appinn-2022-09-21T113605.261.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43393",
-          "author": "青小蛙",
-          "description": "KikoPlay 是一款全功能的弹幕播放器，开源。主要功能就是在播放本地视频的同时，显示网络弹幕，支持从 A 站、B 站、动画疯、Dandan、爱奇艺、腾讯视频、Tucao 获取弹幕。另外还能获取动画",
-          "link": "https://www.appinn.com/kikoplay/",
-          "publishedOn": "2022-09-20T05:12:38.000Z",
-          "wordCount": 2317,
-          "title": "KikoPlay – 播放本地视频，显示网络弹幕（ A 站、B 站、动画疯、Dandan、爱奇艺、腾讯视频、Tucao）[Windows]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/09/Appinn-2022-09-20T115702.906.jpg"
         }
       ]
     },
@@ -212,16 +222,6 @@
           "wordCount": 922,
           "title": "CSS Rules vs. CSS Rulesets",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373639"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373167",
-          "author": "Preethi",
-          "description": "On one hand, creating simple checkered backgrounds with CSS is easy. On the other hand, though, unless we are one of the CSS-gradient-ninjas, we are kind of stuck with basic patterns.\nAt least that’s what I thought while staring at …\nCSS Checkerboard Background… But With Rounded Corners and Hover Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-checkerboard-background-but-with-rounded-corners-and-hover-styles/",
-          "publishedOn": "2022-09-20T13:19:24.000Z",
-          "wordCount": 1515,
-          "title": "CSS Checkerboard Background… But With Rounded Corners and Hover Styles",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373167"
         }
       ]
     },
@@ -230,6 +230,16 @@
       "feedUrl": "http://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周十一长假，周刊暂停一次。）...",
+          "link": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-225.html",
+          "publishedOn": "2022-09-30T00:28:22.000Z",
+          "wordCount": 914,
+          "title": "科技爱好者周刊（第 225 期）：NPC 演员也是一种职业",
+          "imageUrl": null
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2022/09/weekly-issue-224.html",
           "author": null,
@@ -266,16 +276,6 @@
           "wordCount": 1432,
           "title": "划词评论与Range开发若干经验分享",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10535",
-          "author": "张 鑫旭",
-          "description": "本文介绍一个实用前端技术，可以让框架中私有上下文中的CSS不添加随机属性选择器，从而可以匹配第三方组件的HTML结构以及JS动态生成的HTML元素。",
-          "link": "https://www.zhangxinxu.com/wordpress/2022/09/css-is-where-scoped-style/",
-          "publishedOn": "2022-09-20T15:10:45.000Z",
-          "wordCount": 1044,
-          "title": "巧用:is()或:where()伪类让scoped的style依然全局匹配",
-          "imageUrl": null
         }
       ]
     },
@@ -284,6 +284,166 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72930",
+          "author": null,
+          "description": "Google 的产品或服务大概率会关闭，这几乎是一个自我实现的预言。搜索巨人现在准备关闭的是早就面临困境的串流服务 Stadia。Google 官方博客宣布，将于 2023 年 1 月 18 日关闭 Stadia。玩家在这个日期前继续使用，足够打完游戏了。Google 在 FAQ 中称，玩家的游戏进度不太可能转移到其它平台，它会对所有硬件购买者退款，直接从 Google 购买硬件的人 可以保留硬件无需退还，但  Stadia Pro 订阅服务的购买者将无法获得退款，他们可以在 1 月 18 日前继续访问 Pro 游戏库。Google 现在关闭了  Stadia Store 商店，禁用了所有购买选项。",
+          "link": "https://www.solidot.org/story?sid=72930",
+          "publishedOn": "2022-09-30T03:03:49.000Z",
+          "wordCount": 180,
+          "title": "Google 将关闭 Stadia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72929",
+          "author": null,
+          "description": "根据发表在《Frontiers in Cell and Developmental Biology》期刊上的一项研究，在母牛生殖道的模型中，公牛的精子以 2 到 4 个细胞为一组的方式聚集在一起。这似乎有助于它们逆流而上。科学家指出，成群结队游泳可以帮助精子穿过厚厚的生殖道和子宫黏液逆流而上，这些黏液往往会冲走那些独自游泳的精子。研究人员将 1 亿个新鲜的公牛精子注入一个硅胶管中，其中的液体类似于母牛的宫颈和子宫黏液——具有溶化的奶酪的稠度。然后他们使用注射泵来创造两种流速。当黏液没有流动时，聚集的精子游的线路比单个精子更笔直。在中等流速时，精子群可以逆流而上，而单个精子则不能。当液流强劲时，聚集的精子能比单个精子更好地通过迎面而来的黏液，单个精子则通常会被冲走。",
+          "link": "https://www.solidot.org/story?sid=72929",
+          "publishedOn": "2022-09-29T15:49:14.000Z",
+          "wordCount": 154,
+          "title": "动物研究显示精子组团前进",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72928",
+          "author": null,
+          "description": "美国人 Doreen Bogdan-Martin 被选为国际电联（ITU）下一任秘书长，接替中国的赵厚麟。她也是 ITU 的首位女性秘书长。她赢得了 139 张选票，其竞争对手俄罗斯的 Rashid Ismailov 得到了 25 张选票。她在获胜后的声明中称，世界面临巨大挑战——冲突升级、气候危机、粮食安全、性别不平等，以及 27 亿人无法使用互联网。她相信 ITU 能帮助解决其中一部分问题。",
+          "link": "https://www.solidot.org/story?sid=72928",
+          "publishedOn": "2022-09-29T15:39:44.000Z",
+          "wordCount": 175,
+          "title": "Doreen Bogdan-Martin 当选为 ITU 秘书长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72927",
+          "author": null,
+          "description": "Sensor Tower 的数据显示，米哈游的《原神》发布两年全球收入达到 37 亿美元。它过去两年的收入仅次于腾讯的两款手游：《PUBG Mobile》的 49 亿美元和《王者荣耀》的 53 亿美元。《原神》在中国之外地区的收入为 25 亿美元，略低于《Roblox》的 25 亿美元，高于《糖果粉碎传奇（Candy Crush Saga）》的 23 亿美元。在利用抽卡机制获利的游戏中，《原神》高居第一，高于莉莉丝游戏《万国觉醒》和阿里巴巴《三国志战略版》的 17 亿美元。",
+          "link": "https://www.solidot.org/story?sid=72927",
+          "publishedOn": "2022-09-29T15:32:01.000Z",
+          "wordCount": 170,
+          "title": "《原神》两年产生 37 亿美元收入",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72926",
+          "author": null,
+          "description": "欧盟提出 AI 责任指令（ AI Liability Directive），降低起诉 AI 产品的举证负担。自动驾驶汽车、语音助手和搜索引擎都可能在该指令的管辖范围之内。如果获得通过，该指令将配合拟议中的 AI 法——首个对 AI 系统设定限制的法律。AI 责任指令引入了 “因果关系推定”，只要证明产品的 AI 性能与相关伤害之间有因果关系，受害者将不需要破译复杂的 AI 系统以证明案件具有关联性。举例来说，如果无人机造成了伤害，其 AI 系统在其中起到了作用，那么厂商将不能免责。",
+          "link": "https://www.solidot.org/story?sid=72926",
+          "publishedOn": "2022-09-29T15:14:23.000Z",
+          "wordCount": 178,
+          "title": "欧盟提出 AI 责任指令更容易就 AI 产品提起诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72925",
+          "author": null,
+          "description": "加州州长 Gavin Newsom 签署了参议院 1162 号法案，正式将薪酬透明变成一项法律。这项法律要求员工数大于 15 人的雇主必须在招聘信息中披露薪酬范围，总部在加州、员工数大于一百人的企业必须公布不同性别和不同种族之间薪酬差异的中位数。加州企业需要在 2023 年 1 月前遵守该规定。加州知名的公司如  Meta/Facebook、Alphabet/Google 和迪士尼都将需要披露薪酬范围。美国科罗拉多州、纽约市和华盛顿州都通过类似的法律，其中科罗拉多州的法律已经生效，纽约市的法律将在 11 月 1 日生效，纽约州议会通过的法律正等待州长 Kathy Hochul 签署。",
+          "link": "https://www.solidot.org/story?sid=72925",
+          "publishedOn": "2022-09-29T13:54:38.000Z",
+          "wordCount": 163,
+          "title": "加州州长签署了薪酬透明法案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72924",
+          "author": null,
+          "description": "美国监管机构公布了与十多家华尔街银行就使用 WhatsApp 等加密消息应用违反记录保存监管要求而达成的和解协议，总罚款金额逾 20 亿美元。美国证券交易委员会(SEC)公布了 11 亿美元的罚款，美国商品期货交易委员会(CFTC)则公布了 7.1 亿美元罚款，加上摩根大通此前公布的 2 亿美元罚款，总罚款金额 20.1 亿美元。",
+          "link": "https://www.solidot.org/story?sid=72924",
+          "publishedOn": "2022-09-29T13:33:55.000Z",
+          "wordCount": 172,
+          "title": "华尔街银行为使用 WhatsApp 等加密应用缴纳逾 20 亿美元罚款",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72923",
+          "author": null,
+          "description": "solids 写道 \"在Google宣布退出中国之后，它仅在中国保留了翻译服务和不含搜索的地图服务，后来地图服务关闭了，但现在看来它也要关闭翻译服务了。近期有人发现访问Google翻译的中国站点 http://translate.google.cn 时有几率（经测试，是1/2）看到和搜索主页相同的重定向到 google.com.hk 页面 。目前不清楚这一现象的缘由，也不清楚Google是否完全计划关闭或者保留翻译服务。\"",
+          "link": "https://www.solidot.org/story?sid=72923",
+          "publishedOn": "2022-09-29T13:26:20.000Z",
+          "wordCount": 150,
+          "title": "Google疑似关闭了Google翻译的中国站点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72922",
+          "author": null,
+          "description": "台积电准备量产 3 纳米芯片，而苹果是最有可能首家使用  3 纳米工艺制造芯片的公司。但据台《经济日报》报道称，苹果拒绝涨价。台积电原计划是涨价 6%-9%，作为占到台积电收入四分之一的苹果公司则拒绝这一提议。报道称，半导体市场已经逆转了供不应求的状况，因此台积电的涨价计划遭遇阻力，客户希望台积电让利以共度难关。AMD CEO 据报道准备和台积电协商 3纳米芯片供应。",
+          "link": "https://www.solidot.org/story?sid=72922",
+          "publishedOn": "2022-09-29T11:38:20.000Z",
+          "wordCount": 159,
+          "title": "苹果据报道拒绝了台积电涨价 6% 的提议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72921",
+          "author": null,
+          "description": "Cloudflare 推出了 CAPTCHA 的免费替代 Turnstile，任何人都可以使用，不管是不是 Cloudflare 的客户。Turnstile 利用了 Cloudflare 的 Managed Challenge 系统，从用户行为、浏览器数据，以及苹果设备上的 Private Access Tokens 获取线索区分人类和机器人程序。Cloudflare 称其  Managed Challenge 系统能在一年内将向访问者展示的 CAPTCHA 减少 91%。用户将只会看到“验证中...”然后是“成功”。Cloudflare 称，除了烦人和浪费时间外，CAPTCHA 主要由 Google 通过其 reCAPTCHA 服务控制。Google 说不会将该信息用于定位广告，然而 Google 终究是一家广告销售公司。",
+          "link": "https://www.solidot.org/story?sid=72921",
+          "publishedOn": "2022-09-29T11:05:59.000Z",
+          "wordCount": 191,
+          "title": "Cloudflare 推出 CAPTCHA 免费替代 Turnstile",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72920",
+          "author": null,
+          "description": "安全公司 Lumen 的研究人员发现了一种从未见过的跨平台恶意程序，能感染 Windows 和 Linux 设备，包括小型办公室路由器、FreeBSD 盒子和大型企业服务器。研究人员将该恶意程序命名为 Chaos，因为这个单词反复出现在恶意程序的函数名、证书和文件名中。它最早可能是在 4 月 16 日出现的，之后几个月感染了数以百计的设备。Chaos 的独特之处是设计支持 ARM、Intel(i386)、MIPS 和 PowerPC 等架构，支持 Windows 和 Linux 操作系统，它只通过已知的 CVE 漏洞，利用暴力破解和窃取的 SSH 密钥进行传播。Chaos 的感染主要集中在欧洲地区。",
+          "link": "https://www.solidot.org/story?sid=72920",
+          "publishedOn": "2022-09-29T10:14:13.000Z",
+          "wordCount": 181,
+          "title": "新恶意程序能感染 Windows、Linux 和 FreeBSD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72919",
+          "author": null,
+          "description": "亚马逊发布了支持手写的 10.2 英寸电子书阅读器 Kindle Scribe，有 16GB/32GB/64GB 三个版本，起售价340 美元，目前已开放预购（已售罄无货），中国区用户可通过京东国际购买（有货），含税价 4299/4429/4699元（带普通手写笔），带高级手写笔则需要再加价 300 元左右。Kindle Scribe 的显示屏为 10.2 英寸 300 ppi，重 443 克，如果每天阅读半小时电池单次充电可持续使用长达 12 周（关闭无线），如果每天写作半小时单次充电可持续使用长达 3 周（关闭无线）。",
+          "link": "https://www.solidot.org/story?sid=72919",
+          "publishedOn": "2022-09-29T09:45:07.000Z",
+          "wordCount": 182,
+          "title": "亚马逊发布 10.2 英寸电子书阅读器 Kindle Scribe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72918",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一项研究，中国科学院微生物所高福院士团队和施一团队合作，首次解析了埃博拉病毒聚合酶复合物的三维结构，为从分子水平理解埃博拉病毒复制机制奠定了关键理论基础。他们还解析了老药苏拉明能有效抑制埃博拉病毒聚合酶活性的分子机制，为抗埃博拉病毒的药物开发提供了新的靶点和方向。",
+          "link": "https://www.solidot.org/story?sid=72918",
+          "publishedOn": "2022-09-29T08:45:47.000Z",
+          "wordCount": 144,
+          "title": "中国科学家揭示埃博拉病毒聚合酶复合物的三维结构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72917",
+          "author": null,
+          "description": "美国国家情报总监办公室（ODNI）的研究部门 Intelligence Advanced Research Projects Activity (IARPA) 启动了 The Human Interpretable Attribution of Text Using Underlying Structure (HIATUS)研究项目，旨在开发能识别语言指纹的软件。人类创作的文本包含有作者的语言特征，能用于揭示作者身份。IARPA 相信有了正确的模型就能从不同文本样本中识别出作者的风格，软件同时还能修改这种风格去掩盖作者身份实现文本匿名性。",
+          "link": "https://www.solidot.org/story?sid=72917",
+          "publishedOn": "2022-09-29T08:20:15.000Z",
+          "wordCount": 169,
+          "title": "美国研究利用 AI 揭开匿名作者身份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72916",
+          "author": null,
+          "description": "1912 年 4 月 15 日，英国商船 SS Mesaba 在横渡大西洋期间向泰坦尼克号发出了冰山的无线电警告。泰坦尼克号收到了这条信息，但没有传达到主控制中心。当天晚上泰坦尼克号撞上冰山沉没。Mesaba 号则在 1918 年护航时被一艘德国潜艇发射鱼雷击沉，包括指挥官在内的 20 人死亡。一个世纪以来，Mesaba 号沉没的确切位置一直未知。现在科学家利用多波束声纳在爱尔兰海底发现了其残骸。这种近海测量工具能在声纳图上显示沉船的上层建筑，研究人员因此能识别其身份。",
+          "link": "https://www.solidot.org/story?sid=72916",
+          "publishedOn": "2022-09-29T07:48:44.000Z",
+          "wordCount": 157,
+          "title": "科学家发现了警告泰坦尼克号冰山的船只残骸",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72915",
+          "author": null,
+          "description": "Google Chrome 开发者博客更新了 Manifest V2 扩展淘汰时间。搜索巨人正在强行推广受争议的 Manifest V3 扩展。Google 宣布：从 2023 年 1 月起 Chrome Web Store 停止接受现有 Manifest V2 扩展的更新，Manifest V3 将成为扩展精选标记的先决条件；从 2023 年 6 月起 Chrome Web Store 中的 Manifest V2 扩展将不再对用户可见；2024 年 1 月 Chrome Web Store 将移除所有 Manifest V2 扩展。",
+          "link": "https://www.solidot.org/story?sid=72915",
+          "publishedOn": "2022-09-29T03:43:39.000Z",
+          "wordCount": 202,
+          "title": "Google 推迟 Manifest V2 扩展淘汰时间",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72914",
           "author": null,
@@ -1172,146 +1332,6 @@
           "publishedOn": "2022-09-21T02:17:41.000Z",
           "wordCount": 164,
           "title": "报道否认 TikTok 与母公司保持距离",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72825",
-          "author": null,
-          "description": "英伟达在 GTC 2022 开发者大会上宣布了 GeForce RTX 40 系列显卡。英伟达称，新一代显卡基于 Ada Lovelace 架构，新流处理器在性能和能效上提升最高 2 倍，第四代 Tensor Cores 在 AI 性能上提升最高 2 倍，第三代 RT Cores 在光线追踪性能上提升最高 2 倍，新增光流预测的 DLSS 3，等等。英伟达宣布三款针对中高端市场的显卡： GeForce RTX 4090，16384 个 CUDA Cores，频率 2.52 GHz，GDDR6X 显存 24 GB，售价 1599 美元，10 月 12 日发售；GeForce RTX 4080 (16GB)售价 1199  美元，GeForce RTX 4080 (12GB)售价 899 美元。如此高定价让绝大部分玩家望而却步。",
-          "link": "https://www.solidot.org/story?sid=72825",
-          "publishedOn": "2022-09-20T16:05:01.000Z",
-          "wordCount": 211,
-          "title": "英伟达发布 GeForce RTX 40 系列显卡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72824",
-          "author": null,
-          "description": "上周韩国首尔南部地方检察厅宣布从法庭获得了对 Terraform Labs 创始人 Do Kwon 等六人的逮捕令。Do Kwon 最近一段时间一直在新加坡，他通过律师告诉检方无意出庭接受审讯。检方已要求韩国外交部吊销 Do Kwon 的护照，认为他有逃跑的迹象。检方要求国际刑警组织发出红色通缉令通缉 Do Kwon。Do Kwon 则通过 Twitter 回应表示会全面配合调查，不会隐藏或躲避。",
-          "link": "https://www.solidot.org/story?sid=72824",
-          "publishedOn": "2022-09-20T15:44:43.000Z",
-          "wordCount": 168,
-          "title": "韩国求助国际刑警组织通缉 Do Kwon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72823",
-          "author": null,
-          "description": "英国 De Montfort 大学的一项小规模调查研究显示，儿童每周会因为过度沉迷社交网络损失一个晚上的睡眠时间。研究调查了 60 名 12 岁以下儿童，七成每天用社交媒体四小时以上，三分之二睡前两小时用社交应用，12.5% 的人晚上醒来看应用通知。根据英国 NHS 的指南，儿童每晚应睡 9 到 11 小时，被调查的儿童平均每晚睡 8.7 个小时，一周损失相当于一个晚上的睡眠。TikTok 使用率最高，九成的儿童使用，其次是 Snapchat，使用率 84%，Instagram 使用率五成以上。",
-          "link": "https://www.solidot.org/story?sid=72823",
-          "publishedOn": "2022-09-20T14:53:41.000Z",
-          "wordCount": 163,
-          "title": "儿童每周会因为过度沉迷社交网络损失一个晚上的睡眠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72822",
-          "author": null,
-          "description": "一位拉斯维加斯的外科医生透露有数十位软件工程师花费 7 万到 15 万美元到他那儿做增高手术。这些软件工程师多来自知名科技公司，其中包括 PayPal、Google、亚马逊、Facebook 和微软，其中还有一位是女性。Kevin Debiparshad 医生称他所在的 LimbplastX 研究所自疫情在家工作时代起，做增高手术的人数是平常的两倍，有时一个月有 50 多个人。为什么要做增高手术？原因可能是各种统计数据显示，身材高大的人在社会上更有利：高个子的人赚钱更多，更可能成为企业高管（财富五百强企业男性 CEO 平均身高 6 英尺），也更受女性青睐。付出些代价来获得更多好处对一部分人来说是值得的。",
-          "link": "https://www.solidot.org/story?sid=72822",
-          "publishedOn": "2022-09-20T14:08:41.000Z",
-          "wordCount": 160,
-          "title": "软件工程师做增高手术",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72821",
-          "author": null,
-          "description": "去年坠落在英国的陨石中发现了地外水。这颗陨石于 2021 年 2 月坠落在格洛斯特郡温奇科姆镇的一条车道上，这块 0.5 公斤的陨石在坠落后 12 小时内被迅速回收，它也是迄今为止收集到的污染最少的样本。陨石样本大约大约 12% 由水组成，这些水的组成与地球海洋中水的组成“非常非常相似”。地球上的水来自哪里？有假设认为彗星或小行星是主要来源。分析表明，这块陨石来自木星附近的一颗小行星。它形成于大约 46 亿年前，花了大约 30 万年才到达地球。",
-          "link": "https://www.solidot.org/story?sid=72821",
-          "publishedOn": "2022-09-20T11:32:30.000Z",
-          "wordCount": 161,
-          "title": "2021 年坠落在英国的陨石中发现水",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72820",
-          "author": null,
-          "description": "在 Linux 内核维护者峰会上，Linus Torvalds 表示除非有怪事发生，Rust 将进入 Linux 6.1。目前正在开发的版本是 Linux 6.0，6.1 是下一个版本。首个进入内核的是用 Rust 语言开发的 NVMe 驱动，它已经实现了与 C 语言版本相当的性能。Linux 内核 和 Rust 开发者 Miguel Ojeda 的工作让内核对 Rust 的支持更加成熟。内核开发者同意 Rust on Linux 已经准备就绪。",
-          "link": "https://www.solidot.org/story?sid=72820",
-          "publishedOn": "2022-09-20T11:24:24.000Z",
-          "wordCount": 184,
-          "title": "Rust 将进入 Linux 6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72819",
-          "author": null,
-          "description": "本月举行的  Sinquefield Cup 国际象棋比赛上，19 岁的美国棋手 Hans Niemann 爆冷击败了 53 场不败的棋王  Magnus Carlsen，结果却引发了一场作弊的指控。Niemann 承认以前网上比赛曾作弊过，但坚决否认线下比赛作弊。不管真相是什么，每个人都同意在 2022 年国际象棋比赛中作弊是非常简单的事情，过去 15 年名为 chess engines 的 AI 软件包可以轻而易举的击败最强的国际象棋大师。棋手面对机器毫无胜算，那么人类棋手之间的对弈就主要依赖于心理弱点寻找漏洞击败对手，因此国际象棋比赛变成了一场心理战，就像是打扑克牌。要理解机器的优势有多大，可以参考国际象棋排名：Carlsen 保持了人类最高的得分记录 2882 分，1997 年击败卡斯帕罗夫的 IBM 深蓝超算得分 2853，今天最强大的 AI 程序 Stockfish 保守估计得分超过 3500 分，Carlsen 基本上不可能打败它。",
-          "link": "https://www.solidot.org/story?sid=72819",
-          "publishedOn": "2022-09-20T10:19:33.000Z",
-          "wordCount": 178,
-          "title": "国际象棋比赛现在就像打扑克牌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72818",
-          "author": null,
-          "description": "Uber 网络系统上周遭黑客入侵，这家网约车巨头周一在安全公告中称，一家 EXT 承包商的账户被攻击者入侵。攻击者可能是在这个承包商的个人设备感染恶意软件后，在暗网上购买了该承包商的 Uber 公司密码。在攻击者发送了大量 2FA 请求后，该承包商接受了其中一次登录请求，导致攻击者最终成功登录。Uber 认为攻击者与黑客组织 Lapsus$ 有关联。该公司仍在进行调查。 Uber 表示未发现攻击者访问了支持其应用程序的生产系统、任何用户账户或用于存储敏感用户信息的数据库。该公司还称，其审查了自己的代码库，没有发现攻击者做了任何更改。Uber 也未发现攻击者访问其云供应商存储的任何客户或用户数据。攻击者下载了一些内部 Slack 信息，并对其财务团队用于管理一些发票的内部工具进行了访问或下载了信息。目前正在分析这些下载内容。",
-          "link": "https://www.solidot.org/story?sid=72818",
-          "publishedOn": "2022-09-20T08:59:25.000Z",
-          "wordCount": 163,
-          "title": "Uber 将入侵归咎于一家承包商",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72817",
-          "author": null,
-          "description": "HardenedVault 写道 \"HardenedVault此前谈到过下一代数据中心安全和web3之间的联系。近期，阿法兔（科技投资研究者）和HardenedVault（赛博堡垒）共同合作编写了一篇题为《从下一代数据中心的角度，谈谈为何Web3终将到来》的文章。本篇文章涉及多个议题，包括数据中心的发展历史，数据中心技术的迭代早就了公有云以及行业云的商业模式，云原生环境下Service Mesh的邦联化/去中心化趋势，自建数据中心 vs. 公有云的成本问题，摩尔定律对于硅芯片接近极限为通用计算平台的扩展提供了空间和机会，下一代数据中心和区块链的不可能三角以及以太坊（ETH）合并后的通信（邦联化，跨连桥）和安全（任何形式的超级节点）的挑战。\"",
-          "link": "https://www.solidot.org/story?sid=72817",
-          "publishedOn": "2022-09-20T08:27:27.000Z",
-          "wordCount": 148,
-          "title": "从下一代数据中心的角度，谈谈为何Web3终将到来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72816",
-          "author": null,
-          "description": "根据发表在 PNAS 期刊上的一项研究，香港大学的一组科学家估计地球上总共有 2 万万亿只蚂蚁。它们的总质量相当于所有野生鸟类和哺乳动物的总和。地球上每有一个人类就有 250 万只蚂蚁。蚂蚁和人类一样，其足迹遍及全世界。研究人员称，蚂蚁在热带和亚热带地区数量最多，除了地球最寒冷的地方，几乎所有地方都能找到蚂蚁。因为栖息地的破坏、气候变化和杀虫剂的广泛使用，科学家担心昆虫数量在下降，但并不确定蚂蚁的数量是否在下降。这是研究团队下一个准备回答的问题。",
-          "link": "https://www.solidot.org/story?sid=72816",
-          "publishedOn": "2022-09-20T08:26:49.000Z",
-          "wordCount": 157,
-          "title": "研究估计地球有 2 万万亿只蚂蚁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72815",
-          "author": null,
-          "description": "Unicode 标准释出了 v15。Unicode 15 增加了 4,489 个字符，总数达到 149,186 个字符。新增字符包括两种新文字——印度 Mundari 语 Nag Mundari 和 Kannada 语 Kaktovik，共 161 个；以及 20 个新绘文字符号，和 4193 个 CJK 中日韩表意文字。",
-          "link": "https://www.solidot.org/story?sid=72815",
-          "publishedOn": "2022-09-20T03:54:04.000Z",
-          "wordCount": 175,
-          "title": "Unicode 15 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72814",
-          "author": null,
-          "description": "9 月 14 日晚上，22 岁的 Mahsa Amini 因为头巾没达到政府规定的标准而被道德警察拘捕，头部遭到棍子殴打，警察的暴力行为导致她脑出血，最终于 9 月 16 日在医院死亡。她的死亡引发了伊朗民众的大规模抗议。NetBlocks 的网络监测显示，本周一晚上伊朗 Kurdistan 省部分地区网络几乎完全中断。Mahsa Amini 来自 Kurdistan 省的 Saqqez 市。此类的物理层断网是无法通过 VPN 等软件绕过的。断网持续了大约 3.5 个小时。",
-          "link": "https://www.solidot.org/story?sid=72814",
-          "publishedOn": "2022-09-20T03:28:15.000Z",
-          "wordCount": 179,
-          "title": "抗议 Mahsa Amini 死亡伊朗部分地区短时间断网",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72813",
-          "author": null,
-          "description": "自称为小型应用开发商发声的游说组织  App Association 被发现其最大金主是苹果，而苹果公司还不是该组织成员。苹果提供了该组织逾半数资金，因此该组织的议程也反应了苹果的需求，包括反对使用替代应用内支付系统的 Open App Markets Act 法案，以及禁止应用商店和大型平台偏袒自家产品的 American Innovation and Choice Online Act 法案。",
-          "link": "https://www.solidot.org/story?sid=72813",
-          "publishedOn": "2022-09-20T02:36:35.000Z",
-          "wordCount": 159,
-          "title": "自称代表小型应用开发商的游说组织的最大金主是苹果",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72812",
-          "author": null,
-          "description": "63 岁的退休工程师 Hiroyuki Ueda 为 iPhone 和 iPad 开发了一款二合一计算器应用 Twin-Calc——即在同一个界面显示两个计算器。发布早期的下载量并不高，Ueda 作为了些改动让应用意外火爆。Twin-Calc 一开始在手机的垂直屏幕上只显示单个计算器，因此用户会以为它只是普通的计算器应用，更新之后 Twin-Calc 固定水平显示两个计算器，而且两个计算器的计算结果可以通过箭头按钮互通，一个计算器的结果可以通过箭头传到另一个计算器上，然后用户在另一个计算器上继续计算。反之亦然。这种显示方式让用户能很容易发现错误。Twin-Calc 有免费版和付费版，付费版本在三周内吸引了逾五万次下载。",
-          "link": "https://www.solidot.org/story?sid=72812",
-          "publishedOn": "2022-09-20T02:03:13.000Z",
-          "wordCount": 157,
-          "title": "退休工程师开发的二合一计算器应用意外火爆",
           "imageUrl": null
         }
       ]
