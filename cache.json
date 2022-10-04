@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43537",
+          "author": "青小蛙",
+          "description": "Melody 是一款需要自托管的本地音乐管理器，它可以通过歌单在各大音乐与视频网站中检索歌曲，并统一下载至本地，或一键上传至网易云音乐云盘，让你能够更简单的听歌。@Appinn 当听歌也需要这样的时候",
+          "link": "https://www.appinn.com/melody/",
+          "publishedOn": "2022-10-03T04:07:04.000Z",
+          "wordCount": 2508,
+          "title": "大家好，我叫 Melody，你的音乐精灵：一键检索并批量下载音乐",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/Appinn-2022-10-03T113927.638.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43531",
           "author": "青小蛙",
           "description": "质感文件 是一款 Android 上开源、轻量、简洁的 Material Design 风格文件管理器，Root 支持、NAS 支持、Linux 友好。@appinn 来自发现频道，@God-Asim",
@@ -157,16 +167,6 @@
           "wordCount": 4304,
           "title": "How to Create Wavy Shapes & Patterns in CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373403"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373057",
-          "author": "Ganesh Dahal",
-          "description": "If we browse the WordPress theme directory, a majority of themes showcase cover images. It is a feature in popular demand. The cover page trend is true even in the block theme directory screenshots as well.\nLet’s consider the …\nHow To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-customize-wordpress-block-theme-cover-templates-with-dynamic-post-feature-images/",
-          "publishedOn": "2022-09-23T16:15:19.000Z",
-          "wordCount": 3482,
-          "title": "How To Customize WordPress Block Theme Cover Templates with Dynamic Post Feature Images",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373057"
         }
       ]
     },
@@ -209,6 +209,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72955",
+          "author": null,
+          "description": "Linus Torvalds 在内核邮件列表上宣布释出  Linux 6.0。主要新特性包括：改进 ACPI 处理和电源管理；一系列 io_uring 改进，支持 XFS 文件系统缓冲写入，Zero-copy 网络传输，基于 io_uring 的块驱动机制，运行时验证子系统；等等。更多可浏览 LWN 概况一 和 二。",
+          "link": "https://www.solidot.org/story?sid=72955",
+          "publishedOn": "2022-10-03T15:59:17.000Z",
+          "wordCount": 170,
+          "title": "Linux 6.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72954",
+          "author": null,
+          "description": "诺贝尔奖评选委员会宣布瑞典科学家 Svante Pääbo 获得 2022 年度诺贝尔生理学或医学奖，以表彰他“在已灭绝古人类基因组和人类进化方面的发现”。人类总是对自己的起源感兴趣。我们从哪里来？是什么让我们智人与其他古人类不同?通过他的开创性研究，Svante Pääbo 完成了一件看似不可能的事情：对当今人类已经灭绝的亲戚——尼安德特人的基因组进行测序。他还发现了一种以前不为人知的古人类——丹尼索瓦人。重要的是，Pääbo 还发现，在大约 7 万年前人类离开非洲后，基因从这些现已灭绝的古人类转移到了智人身上。这种古老的基因流向今天的人类在生理上有关联，例如影响我们的免疫系统对感染的反应。Pääbo 的开创性研究产生了一门全新的科学学科：古基因组学。通过揭示所有现存人类与灭绝的古人类之间的基因差异，他的发现为探索是什么使我们成为独一无二的人类提供了基础。",
+          "link": "https://www.solidot.org/story?sid=72954",
+          "publishedOn": "2022-10-03T13:38:38.000Z",
+          "wordCount": 174,
+          "title": "瑞典科学家 Svante Pääbo 获 2022 年度诺贝尔生理学或医学奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72953",
+          "author": null,
+          "description": "2018 年轻博客服务 Tumblr 宣布屏蔽所有成人内容。2019 年 Verizon 将 Tumblr 出售给 WordPress 的母公司 Automattic。三年之后许多人开始讨论 Tumblr 也许会恢复成人内容，取消禁令。Automattic CEO Matt Mullenweg 亲自对此做出回应，称 Tumblr 永远不会再回到过去，互联网早期对色情友好的情况在今天已经不可能了。他说，2022 年的任何互联网服务都不可能像 2007 年的 Tumblr 那样制定对色情友好的规则。原因是中介机构开始对人们如何访问互联网扮演越来越重要的角色。长期对色情不友好的支付服务商加大了执法力度，部分原因是担心儿童色情和未经同意发布的色情内容。苹果的 iOS App Store 严厉打击色情。没有支付公司和苹果，运营一个营利服务是几乎不可能的。如果苹果应用商店永久封杀了 Tumblr 应用，那么 Tumblr 可能不得不关闭。然而在 Twitter 或 Reddit 上，色情内容仍然很多，为什么苹果不封杀它们？Mullenweg 猜测是它们太大而无法被封杀。",
+          "link": "https://www.solidot.org/story?sid=72953",
+          "publishedOn": "2022-10-03T11:18:55.000Z",
+          "wordCount": 184,
+          "title": "Tumblr 永远不会再允许色情",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72952",
+          "author": null,
+          "description": "Debian 项目公布了对是否允许默认加载非自由固件的投票结果，共六个选项，第五选项——“Change SC for non-free firmware in installer, one installer”获选。SC 指的是 Social Contract，是 Debian 项目的一份基础文件，它将添加一句话，声明项目官方媒介将会包含非自由固件，如果硬件工作需要将会默认加载安装。Debian 项目表示，如果硬件需要非自由固件将会默认启用，它考虑同时提供启动菜单选项和内核命令行等方式允许用户在启动时禁用非自由固件。允许非自由固件是为了改进可及性。如盲人用户需要在文本语音模式下运行安装程序，可能需要先加载音频固件。",
+          "link": "https://www.solidot.org/story?sid=72952",
+          "publishedOn": "2022-10-03T08:20:20.000Z",
+          "wordCount": 162,
+          "title": "Debian 社区投票允许安装非自由固件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72951",
+          "author": null,
+          "description": "Google 确认以低使用量为由关闭了中国版翻译服务。访问域名 http://translate.google.cn 会被重定向到 Google 的香港域名，用户可以通过香港域名下的  translate.google.com.hk 继续使用翻译服务。这一变动是在过去几天内发生和被用户注意到的，除了域名不定时跳转，部分应用如 KOReader 的翻译功能也受到了影响。",
+          "link": "https://www.solidot.org/story?sid=72951",
+          "publishedOn": "2022-10-03T01:00:03.000Z",
+          "wordCount": 156,
+          "title": "Google 以低使用量关闭中国版翻译服务",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72950",
           "author": null,
@@ -1007,66 +1057,6 @@
           "publishedOn": "2022-09-24T16:00:54.000Z",
           "wordCount": 180,
           "title": "Arch Linux 停止支持 Python 2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72868",
-          "author": null,
-          "description": "Mozilla 指责 Google、苹果和微软强迫用户使用各自平台的默认浏览器。Mozilla 的报告指责各大平台都有各种各样的不端行为，包括限制发现独立应用，在操作系统捆绑自己的浏览器并在主屏幕或快捷栏设为默认。对大部分用户而言，他们将不会采取额外的行动去寻找或发现替代浏览器。Mozilla 指责微软在 Windows 上采取越来越激进的做法旨在逆转用户使用非微软软件的决定，如逆转默认浏览器选择恢复到 MS Edge。Mozilla 发言人称，消费者应该控制其在线体验，选择希望使用的软件，而不是为了维持自己的软件偏好而不得不与操作系统对抗。",
-          "link": "https://www.solidot.org/story?sid=72868",
-          "publishedOn": "2022-09-24T15:33:28.000Z",
-          "wordCount": 160,
-          "title": "Mozilla 指责 Google、苹果和微软强迫用户使用默认浏览器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72867",
-          "author": null,
-          "description": "2022 年 8 月 17 日，英国一家不知名的网络运营商  Quickhost.uk 突然通过 BGP 广播宣布，隶属于亚马逊 AS16509 的一个 IP 段 44.235.216.0/24 需要路由经过它的网络 AS20943。该 IP 段中的一个地址 44.235.216.69 被用于托管 cbridge-prod2.celer.network——加密货币交易所 Celer Bridge 一关键智能合约用户界面使用的子域名。攻击者通过向证书颁发机构 GoGetSSL 证明对该子域名拥有控制权而获得了一个 TLS 证书，然后在该域名托管自己的智能合约，随后从访问该域名的 32 个账号中窃取了价值 234,866.65 美元的加密货币。这一 BGP 劫持持续了 3 个多小时，亚马逊最后恢复了对该地址段的控制。这不是第一次亚马逊遭到  BGP 劫持，它在 2018 年遭到类似的攻击，攻击者的目标同样是窃取加密货币。",
-          "link": "https://www.solidot.org/story?sid=72867",
-          "publishedOn": "2022-09-24T11:41:30.000Z",
-          "wordCount": 209,
-          "title": "黑客利用 BGP 劫持 IP 段窃取了约 23 万美元加密货币",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72866",
-          "author": null,
-          "description": "微软刚刚释出了 Windows 11 的首次重大更新 v2022。英伟达 GeForce 显卡用户很快报告遭遇严重的性能问题：卡顿、帧率起伏，速度下降。英伟达表示问题是部分 Windows 图形调试功能被错误启用造成的。它释出了  GeForce Experience 软件包的一个 beta 版本，称能解决问题。这意味着问题根源在于英伟达软件的扩展组件而不是驱动。如果英伟达显卡用户只安装驱动而没有安装 GeForce Experience 软件，那么很有可能没有任何问题。",
-          "link": "https://www.solidot.org/story?sid=72866",
-          "publishedOn": "2022-09-24T11:06:48.000Z",
-          "wordCount": 172,
-          "title": "Windows 11 2022 更新后英伟达显卡出现性能问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72865",
-          "author": null,
-          "description": "伦敦警方官方 Twitter 账号证实在牛津郡逮捕了一名 17 岁少年，其罪名与黑客攻击相关。因为嫌疑人尚未成年，因隐私规定警方没有透露更多细节。多家媒体报道称，这位黑客涉嫌入侵了《侠盗猎车手 6（GTV6）》开发商 Rockstar North 泄露了正在开发的游戏测试视频，以及入侵了打车软件巨头 Uber，他被认为与 Lapsus$ 黑客组织有关联，而早在今年上半年 BBC 报道称一名 16 岁的牛津少年（aka White 或 Breachbase） 是该黑客组织的主谋之一，目前尚不清楚是否是同一人。",
-          "link": "https://www.solidot.org/story?sid=72865",
-          "publishedOn": "2022-09-24T10:40:57.000Z",
-          "wordCount": 170,
-          "title": "伦敦警方逮捕一名与《GTV6》泄露相关的 17 岁少年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72864",
-          "author": null,
-          "description": "英国科学家说，一种使用普通病毒来感染和破坏癌细胞的新疗法在早期人体试验中效果显著。其中一名病人的癌症彻底消失，其他患者的肿瘤也缩小了。该药物通过对唇疱疹病毒（cold sore virus）的弱化版进行改造，并用它杀死肿瘤。唇疱疹病毒是一种单纯疱疹病毒（herpes simplex）。接下来还需要进行更大规模和更长时间的研究，但专家说，这种病毒注射疗法最终会给更多晚期癌症患者提供一条生命线。",
-          "link": "https://www.solidot.org/story?sid=72864",
-          "publishedOn": "2022-09-23T15:51:20.000Z",
-          "wordCount": 147,
-          "title": "英国病毒治疗癌症临床试验取得成果",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72863",
-          "author": null,
-          "description": "Jingyao Liu 诉刘强东的民事诉讼案将于 10 月 3 日在明尼苏达亨内平县法庭开庭审理。2018 年 8 月，因被指控性侵时年 21 岁的明尼苏达大学学生 Jingyao Liu（现在华盛顿大学读研究生），刘强东被警方逮捕，后于次日获释。同年 12 月，亨内平县检察院以证据不足为由决定不起诉刘强东。2019 年 4 月，Jingyao 提起民事诉讼，将刘强东及京东列为被告，要求补偿性赔偿和惩罚性赔偿。根据本周公开的备忘录，法官 Edward T. Wahl 批准了对刘强东的补偿性赔偿和惩罚性赔偿要求，批准了对京东的补偿性赔偿要求，但驳回了惩罚性赔偿动议。Jingyao 的律师 Wil Florin 此前表示，“……亨内平县的陪审团将会听取本案的事实。我们乐观地认为，当陪审团看到事情全貌，陪审团会认为 Jingyao 被伤害了。不仅是被 2018 年 8 月在亨内平县发生的事伤害，还有整件事发生时，权势者如何利用媒体污蔑她。”对于庭审，法庭接受了刘强东一方的主张，拒绝了媒体的直播申请，但允许文字直播。",
-          "link": "https://www.solidot.org/story?sid=72863",
-          "publishedOn": "2022-09-23T15:36:49.000Z",
-          "wordCount": 185,
-          "title": "Jingyao Liu 诉刘强东案将于下月初庭审",
           "imageUrl": null
         }
       ]
