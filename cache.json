@@ -99,6 +99,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=373798",
+          "author": "Lorenzo Bonannella",
+          "description": "Spammers are a huge deal nowadays. If you want to share your contact information without getting overwhelmed by spam email you need a solution. I run into this problem a few months ago. While I was researching how to solve …\nHow to Safely Share Your Email Address on a Website originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/",
+          "publishedOn": "2022-10-06T12:54:53.000Z",
+          "wordCount": 2194,
+          "title": "How to Safely Share Your Email Address on a Website",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373798"
+        },
+        {
           "id": "https://css-tricks.com/?p=373787",
           "author": "Adam Rackis",
           "description": "In my previous post we looked at Shoelace, which is a component library with a full suite of UX components that are beautiful, accessible, and — perhaps unexpectedly — built with Web Components. This means they can be used …\nUsing Web Components With Next (or Any SSR Framework) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -147,16 +157,6 @@
           "wordCount": 4034,
           "title": "GIFs Without the .gif: The Most Performant Image and Video Options Right Now",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373484"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373209",
-          "author": "Matteo Mazzarolo",
-          "description": "Did you know that DOM elements with IDs are accessible in JavaScript as global variables? It’s one of those things that’s been around, like, forever but I’m really digging into it for the first time.\nIf this is the first …\nNamed Element IDs Can Be Referenced as JavaScript Globals originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/",
-          "publishedOn": "2022-09-27T12:58:21.000Z",
-          "wordCount": 2450,
-          "title": "Named Element IDs Can Be Referenced as JavaScript Globals",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373209"
         }
       ]
     },
@@ -181,24 +181,63 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10554",
-          "author": "张 鑫旭",
-          "description": "2022年最期待的大杀器CSS特性@container规则和container容器查询Chrome和Safari都已正式支持，来看看其可以做些什么，特性和语法又是什么？",
-          "link": "https://www.zhangxinxu.com/wordpress/2022/09/css-container-rule/",
-          "publishedOn": "2022-09-26T16:01:02.000Z",
-          "wordCount": 1110,
-          "title": "介绍2022最期待且已正式支持的CSS container容器查询",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=72973",
+          "author": null,
+          "description": "使用英特尔 CPU 以及集显的笔记本电脑用户最好不要升级到最新的稳定内核 Linux 5.19.12，因为 LCD 显示器可能会受损。有使用 Linux 5.19.12 的英特尔用户报告了白色闪烁的显示问题，一位用户形容显示屏的闪烁就像 1990 年代的派对舞会灯光。英特尔内核工程师 Ville Syrjal 在检查日志后发现问题与英特尔 GPU 的显示驱动有关。稳定版内核维护者 Greg Kroah-Hartman 已经释出了 Linux 5.19.13，修复了有问题的显示驱动。Greg 称如果用户在使用中没有遇到问题那么就没必要升级。",
+          "link": "https://www.solidot.org/story?sid=72973",
+          "publishedOn": "2022-10-06T14:38:14.000Z",
+          "wordCount": 177,
+          "title": "运行在 Linux 5.19.12 之上的英特尔集显可能会破坏显示器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72972",
+          "author": null,
+          "description": "初步支持 Rust 语言的首批补丁合并到了 Linux 6.1 中。Linux 6.0 发布之后 Linux 6.1 合并窗口开启，持续两周。Rust-for-Linux 的初步支持大致来自四个领域：Kernel 内部(kallsyms expansion for Rust symbols, %pA format)；Kbuild 基础设施 (Rust 构建规则和支持脚本)；支持初步最简可行构建所需的 Rust crates 和绑定；Rust kernel 文档和示例。",
+          "link": "https://www.solidot.org/story?sid=72972",
+          "publishedOn": "2022-10-06T14:18:39.000Z",
+          "wordCount": 185,
+          "title": "Linux 6.1 合并补丁加入对 Rust 的初步支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72971",
+          "author": null,
+          "description": "数月来围绕马斯克(Elon Musk)收购 Twitter 重磅交易命运的闹剧继续上演，双方的代表还在努力协商一项协议的条款，若达成协议，收购将得以推进。这是双方在即将到来的法庭对峙之前举行的最新一次讨论。据知情人士称，在马斯克周一改弦易辙、表示将按最初协议的条款收购 Twitter 之前，双方的谈判代表曾悄悄就潜在降价事宜进行了谈判，但未获成功。知情人士表示，截至周三晚间，马斯克和 Twitter 的代表正努力敲定马斯克本周所提遵守最初协议的提议的细节，包括双方需要怎样才能撤销围绕这笔陷入停滞的交易提起的诉讼，以及交易的完成是否将取决于马斯克能否获得必要的债务融资。",
+          "link": "https://www.solidot.org/story?sid=72971",
+          "publishedOn": "2022-10-06T12:50:08.000Z",
+          "wordCount": 162,
+          "title": "马斯克 和 Twitter 在收购条款上存在分歧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72970",
+          "author": null,
+          "description": "台积电计划从 2023 年 1 月起对 8 英寸晶圆涨价 6%，12 英寸晶圆涨价 3%。台《经济日报》此前报道称台积电最大客户苹果拒绝涨价提议，但现在又报道称苹果同意了价格上涨。台积电为苹果的 iPhone 和 iPad 生产 A 系列芯片，为 Mac 生产 M 系列芯片。它计划从 2022 年底开始为苹果生产 3 纳米芯片，可能是 Mac 的 M2 Pro 芯片，明年上市的 iPhone 15 Pro 使用的 A17 仿生芯片预计也将采用 3 纳米工艺制造。",
+          "link": "https://www.solidot.org/story?sid=72970",
+          "publishedOn": "2022-10-06T12:37:19.000Z",
+          "wordCount": 179,
+          "title": "苹果据报同意台积电的芯片价格上涨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=72969",
+          "author": null,
+          "description": "匿名读者 写道 \"获得诺贝尔化学奖的 click chemistry 在国内被翻译为「点击化学」，根据知乎用户 Uranium 的回答，这是由 Barry Sharpless 妻子起名，源于美国俗语 click it or ticket 不系安全带就吃罚单，可以直接的音译「咔嚓化学」，当然我们或许可以翻译成「刻俪化学」。\"",
+          "link": "https://www.solidot.org/story?sid=72969",
+          "publishedOn": "2022-10-06T04:25:56.000Z",
+          "wordCount": 158,
+          "title": "点击化学是个糟糕的翻译",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=72968",
           "author": null,
@@ -857,136 +896,6 @@
           "publishedOn": "2022-09-28T02:55:33.000Z",
           "wordCount": 197,
           "title": "英特尔发布起售价 329 美元的桌面显卡 Arc A770",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72899",
-          "author": null,
-          "description": "《自然》期刊撤回了备受争议的室温超导论文。论文发表于 2020 年 10 月，科学家报告在超高压下由氢、碳和硫组成的化合物能在室温下表现出超导性。但这篇论文很快在科学界引发了争议，质疑者认为存在数据捏造问题。支持者和反对者通过预印本平台 arXiv 打起了笔仗，促使 arXiv 管理员对其中一位质疑者禁止发表论文半年。多位科学家未能成功重复实验结果，而论文作者则对《自然》的决定表示失望。",
-          "link": "https://www.solidot.org/story?sid=72899",
-          "publishedOn": "2022-09-27T15:39:13.000Z",
-          "wordCount": 151,
-          "title": "《自然》撤回备受争议的室温超导论文",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72898",
-          "author": null,
-          "description": "刚刚释出的 Windows 11 22H2 被发现会导致使用英特尔 Smart Sound Technology (SST)音频驱动的设备蓝屏死机。微软在一份声明中称，英特尔和微软发现部分版本的  SST 驱动存在兼容性问题。英特尔  SST 是一个集成音频 DSP (Digital Signal Processor)，用于在不影响性能的情况下处理音频和语音交互。受影响用户将驱动更新到 v10.30.00.5714 或以上版本将能解决问题。",
-          "link": "https://www.solidot.org/story?sid=72898",
-          "publishedOn": "2022-09-27T15:17:28.000Z",
-          "wordCount": 174,
-          "title": "Windows 11 22H2 导致部分英特尔设备蓝屏死机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72897",
-          "author": null,
-          "description": "苹果周一宣布它开始在印度组装 iPhone 14。苹果表示其代工厂富士康在位于金奈（Chennai）的工厂 Sriperumbudur 开始组装最新款的旗舰手机。苹果从 2017 年以来一直在印度组装 iPhone，但通常是旧型号。iPhone 14 是刚刚发布的最新款，印度组装最新款的时间间隔日益缩短。印度组装的 iPhone 主要在当地销售，但也会出口到全球其它市场。根据分析师的报告，苹果计划到今年年底将 5% 的 iPhone 生产从中国转移到印度，到 2025 年印度的产量将占到四分之一。",
-          "link": "https://www.solidot.org/story?sid=72897",
-          "publishedOn": "2022-09-27T13:37:00.000Z",
-          "wordCount": 168,
-          "title": "苹果开始在印度组装 iPhone 14",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72896",
-          "author": null,
-          "description": "在创作星战电视剧《Obi-Wan Kenobi》期间，James Earl Jones 签署了允许迪士尼在未来项目中使用 AI 合成其声音的协议。91 岁的 Jones 为星战系列最著名反派达斯·维德的配音长达 45 年。他早就考虑了退出，但没有了他的标志性声音，黑爵士将何去何从？答案是 AI 语音建模工具  Respeecher。该工具由一家乌克兰公司开发，使用了深度学习去建模和复制人类声音，能达到以假乱真难以分辨。在此之前卢卡斯公司使用了 Respeecher 在《曼达洛人(The Mandalorian》中克隆了天行者卢克的扮演者 Mark Hamill 的声音。",
-          "link": "https://www.solidot.org/story?sid=72896",
-          "publishedOn": "2022-09-27T11:28:19.000Z",
-          "wordCount": 171,
-          "title": "达斯·维德的声音未来将用 AI 合成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72895",
-          "author": null,
-          "description": "彭博援引 Jefferies 的分析师报道称，消费者在 iPhone 14 交付的头三天抢购了 98.7 万部，比去年 iPhone 13 系列手机的同期销量低了 11%。报告表示：“这些初步数据表明，iPhone 14 的销量可能没有预订水平所显示的那么强劲，因为预订不需要支付任何费用。”苹果最新智能手机系列的亮相表现平平，延续了全球最大手机市场令人失望的销售势头，该市场受到了疲弱的经济和严格的新冠疫情限制措施的打击。7 月智能手机出货量暴跌近三分之一至 1910 万部。",
-          "link": "https://www.solidot.org/story?sid=72895",
-          "publishedOn": "2022-09-27T09:24:54.000Z",
-          "wordCount": 167,
-          "title": "iPhone 14 在华销量不及预期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72894",
-          "author": null,
-          "description": "央视采访了调查西北工业大学网络攻击的 360 公司和国家计算机病毒应急处理中心的工程师。国家计算机病毒应急处理中心的调查发现：\n根据对相关网络攻击行为的大数据分析，对西北工业大学的网络攻击行动98%集中在北京时间 21 时至凌晨 4 时之间，该时段对应着美国东部时间 9 时至 16 时，属于美国国内的工作时间段。其次，美国时间的全部周六、周日中，均未发生对西北工业大学的网络攻击行动。第三，分析美国特有的节假日，发现美国的“阵亡将士纪念日”放假 3 天，美国“独立日”放假 1 天，在这四天中攻击方没有实施任何攻击窃密行动。第四，长时间对攻击行为密切跟踪发现，在历年圣诞节期间，所有网络攻击活动都处于静默状态。依据上述工作时间和节假日安排进行判断，针对西北工业大学的攻击窃密者都是按照美国国内工作日的时间安排进行活动的。\n调查还发现，NSA TAO 通过掌握的中国基础设施运营商的思科PIX防火墙、天融信防火墙等设备的账号口令，以“合法”身份进入运营商网络，随后实施内网渗透拓展，分别控制相关运营商的服务质量监控系统和短信网关服务器，利用“魔法学校”等专门针对运营商设备的武器工具，查询了一批中国境内敏感身份人员，并将用户信息打包加密后经多级跳板回传至 NSA 总部。",
-          "link": "https://www.solidot.org/story?sid=72894",
-          "publishedOn": "2022-09-27T09:00:33.000Z",
-          "wordCount": 168,
-          "title": "NSA 在美国时间对西北工业大学发动攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72893",
-          "author": null,
-          "description": "开源自由软件历史策略游戏 0 A.D 发布了 Alpha 26 庄子版。0 A.D 风格类似于帝国时代，包含了建设基地、训练军队、战斗和研发科技等要素。游戏的阵营包含多个文明，而每个文明都有自己独特的军队和建筑。Alpha 26 以著名道教哲学家庄子命名，新增加了汉文明，新增了战役地图塔里木盆地和长江，单位现在能加速，等等。",
-          "link": "https://www.solidot.org/story?sid=72893",
-          "publishedOn": "2022-09-27T08:36:11.000Z",
-          "wordCount": 169,
-          "title": "开源古战争策略游戏 0 A.D 发布庄子版",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72892",
-          "author": null,
-          "description": "教育部在今天举行的新闻发布会上称，我国拥有大学文化程度的人口超过 2.18 亿。全国共有各级各类学校 52.9 3万所，在校生 2.91 亿人；其中义务教育阶段学校 20.7 万所，在校生 1.6 亿人；高中阶段教育学校 2.2 万所，在校生 3976.4 万人；高等教育学校 3012 所，在学总规模 4430 万人。劳动年龄人口平均受教育年限达到了 10.9 年，相当于高中二年级的水平。全国教育经费总投入 2021 年达到 5.8 万亿元。本科教育包括职教本科，在校生规模达到 1906 万人；研究生在校生规模 333.2 万人，其中博士研究生 50.9 万人。",
-          "link": "https://www.solidot.org/story?sid=72892",
-          "publishedOn": "2022-09-27T08:02:59.000Z",
-          "wordCount": 182,
-          "title": "我国拥有大学文化程度的人口超过 2.18 亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72891",
-          "author": null,
-          "description": "根据发表在《Nature Communications》期刊上的一项研究，MIT 工程师设计了一种可在活细胞内无线操作的微型天线，该天线具有实时监测甚至指导细胞活动的潜力，为医学诊断和治疗以及研究其他科学过程开辟了新的前景。研究人员将这项技术命名为“细胞漫游者”，天线比细胞小得多，在对卵母细胞的研究中，天线占细胞体积不到 0.05%，不会损坏细胞。",
-          "link": "https://www.solidot.org/story?sid=72891",
-          "publishedOn": "2022-09-27T07:00:37.000Z",
-          "wordCount": 146,
-          "title": "细胞漫游者探索细胞内部世界",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72890",
-          "author": null,
-          "description": "中国计划到 2025 年电动汽车占到到新车销量的五分之一，而今年有望提前三年实现这一目标。今年购买的新车中电动或混动预计将占到四分之一。中国有300多家生产电动汽车的企业，向消费者提供各种价位的汽车。全国目前约有 400 万个公共充电桩，比一年前翻了一番，还有更多在建设中。在其他国家的电动车市场仍严重依赖补贴和财政激励措施的时候，中国已进入了一个新阶段：消费者正在根据功能和价格来权衡电动汽车与汽油动力车的优劣，而不太考虑国家的补贴。中国已经是世界上最大，同时也是增长速度最快的电动汽车市场之一，预计今年的新能源汽车销量将翻一番，达到约 600 万辆，超出世界其他地区的总和。",
-          "link": "https://www.solidot.org/story?sid=72890",
-          "publishedOn": "2022-09-27T06:43:10.000Z",
-          "wordCount": 149,
-          "title": "中国电动汽车今年销量预计将超五分之一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72889",
-          "author": null,
-          "description": "TikTok 有望就其能否继续在美国运营与拜登政府达成协议。NYT 援引知情人士的消息报道，拜登政府和 TikTok 已经起草了一份初步协议，以解决这个视频应用所带来的问题。双方已经敲定了一项交易的基础，TikTok 将修改其数据安全和管理方式，而无需其所有者字节跳动将其出售。双方仍在协商中，在具体条款方面仍面临障碍。",
-          "link": "https://www.solidot.org/story?sid=72889",
-          "publishedOn": "2022-09-27T04:18:58.000Z",
-          "wordCount": 153,
-          "title": "TikTok 准备与美国政府达成继续在美运营的协议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72888",
-          "author": null,
-          "description": "NASA 执行双小行星重定向测试(DART)任务的飞船于 9 月 26日成功撞击了名为 Dimorphos 的小行星。这是世界首次行星防御技术演示，测试撞击是否可能偏转小行星轨道，结果需要几个月后才可能知道。Dimorphos 是双小行星系统之一，围绕体积更大的伴星 Didymos 运动。DART 飞船重 500 公斤，于去年 11 月 24 日发射升空。",
-          "link": "https://www.solidot.org/story?sid=72888",
-          "publishedOn": "2022-09-27T03:33:49.000Z",
-          "wordCount": 167,
-          "title": "NASA DART 飞船成功撞击小行星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72887",
-          "author": null,
-          "description": "俄罗斯总统普京授予 NSA 告密者斯诺登(Edward Snowden)俄罗斯公民身份。普京周一签署了向斯诺登和其他71人授予俄罗斯公民身份的命令。斯诺登 2020 年 10 月曾表示，他和妻子正申请入籍俄罗斯，从而获得双重国籍，因为不想与他们当时即将出生的孩子分开。斯诺登 2013 年逃离美国后向媒体泄露了有关美国和国际监控项目的文件，他被美国政府指控偷窃政府财产和两项违反间谍法的罪名。白宫对此不予置评，称有关斯诺登刑事案件的问题应由美国司法部回答。司法部也不予置评。",
-          "link": "https://www.solidot.org/story?sid=72887",
-          "publishedOn": "2022-09-27T02:58:50.000Z",
-          "wordCount": 152,
-          "title": "普京授予斯诺登俄罗斯公民身份",
           "imageUrl": null
         }
       ]
