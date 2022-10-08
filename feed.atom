@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-10-07T03:47:35.763Z</updated>
+    <updated>2022-10-08T03:28:52.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英伟达开源内核驱动是否带来了改变？]]></title>
+        <id>https://www.solidot.org/story?sid=72977</id>
+        <link href="https://www.solidot.org/story?sid=72977"/>
+        <updated>2022-10-07T16:06:33.000Z</updated>
+        <summary type="html"><![CDATA[今年早些时候英伟达宣布开源其内核驱动模块，这是否意味着会有更好的开源驱动支持英伟达的显卡？内核显示维护者 Dave Airlie 的回答是短时间内不会有什么变化。他在 2022 年度的 Linux Plumbers Conference (LPC)大会上发表演讲对此做出了详细解释。英伟达从 2014 年发布的 Maxwell 2(GM2xx) GPU 开始引入签名固件。2018 年发布的 Turing(TU1xx)加入了对系统处理器 GSP 的支持。逆向工程英伟达私有驱动的开源驱动项目  Nouveau 与英伟达达成协议获得签名固件，但英伟达提供的固件与私有驱动使用的固件并不相同，也没有经过良好测试，如果有问题只有英伟达能调试，所以 Nouveau 驱动只提供对英伟达显卡的最基本支持。GSP 是基于 RISC-V 的处理器，它像至尊魔戒那样管理 GPU 上的其它处理器，它的固件容量高达 30 或 40MB。相比较下早期的固件容量是 256KB 上下，GSP 的固件是一个庞然大物，英伟达事实上是把它的部分私有驱动转移到了 GSP。英伟达的开源驱动只提供了 GSP 的接口，所以才会开源，不可能进入到上游内核。开源驱动还有很长的路要走。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[政治立场如何影响新冠死亡率]]></title>
+        <id>https://www.solidot.org/story?sid=72976</id>
+        <link href="https://www.solidot.org/story?sid=72976"/>
+        <updated>2022-10-07T15:23:07.000Z</updated>
+        <summary type="html"><![CDATA[美国国家经济研究局的一项研究显示，政治立场与新冠超额死亡之间存在关联(PDF)。在新冠疫情期间期间，政治派别倾向是一个潜在的死亡风险因素，证据显示倾向共和党的县相比倾向民主党的县有更高的新冠死亡率。那么这种关联在个人层面是否也存在 ? 研究人员分析了 2018 年 1 月到 2021 年 12 月俄亥俄州和佛罗里达州的 577,659 例死亡记录以及他们在 2017 年的党派登记记录。结果显示，在疫苗开始大规模接种前，登记的民主党人和共和党人之间的超额死亡差距不明显。但在疫苗广泛接种之后，两个党派的超额死亡出现了明显的差异。总体上，共和党人的超额死亡比民主党人高 76%，在疫苗接种前差距是 22%，广泛接种之后差距扩大到了 153%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adding Fluid Typography Support to WordPress Block Themes]]></title>
+        <id>https://css-tricks.com/?p=373905</id>
+        <link href="https://css-tricks.com/fluid-typography-wordpress-block-themes/"/>
+        <updated>2022-10-07T13:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Fluid typography is a fancy way of “describing font properties, such as size or line height, that scale fluidly according to the size of the viewport”. It’s also known by other names, like responsive typography, flexible type, fluid type, …
+Adding Fluid Typography Support to WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ganesh Dahal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记者卢宇光被指发布虚假信息]]></title>
+        <id>https://www.solidot.org/story?sid=72974</id>
+        <link href="https://www.solidot.org/story?sid=72974"/>
+        <updated>2022-10-07T12:44:10.000Z</updated>
+        <summary type="html"><![CDATA[匿名读者 写道 "9 月 29 日凤凰卫视记者卢宇光在其抖音 makcim19781987 发布「海马死零部件」CAM14060575 MADE IN CHINA 视频， 实际片段来源于 Jump Boost Garage 频道，是被烧毁科尔维特(Corvette)跑车的收音机。由于视频被用作战争宣传，Jump Boost Garage 被迫发布视频回应。"]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matrix WebCam – 黑客帝国式的虚拟摄像头]]></title>
+        <id>https://www.appinn.com/?p=43551</id>
+        <link href="https://www.appinn.com/matrix-webcam/"/>
+        <updated>2022-10-07T08:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Matrix WebCam 是一款开源的虚拟摄像头工具，基于 Python，可以提供一个黑客帝国式的虚拟摄像头工具，让你在远程视频、视频会议中独具一格。@Appinn 注意，obs-studio 自]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[运行在 Linux 5.19.12 之上的英特尔集显可能会破坏显示器]]></title>
         <id>https://www.solidot.org/story?sid=72973</id>
@@ -727,147 +778,6 @@ Getting Started With WordPress Block Development originally published on CSS-Tri
         <link href="https://www.solidot.org/story?sid=72912"/>
         <updated>2022-09-28T15:37:29.000Z</updated>
         <summary type="html"><![CDATA[OpenAI 今年早些时候发布了自然语言图像合成系统 DALL-E 的最新版本，开放 Beta 测试，但用户需要申请并通过一个等待名单。现在 OpenAI 宣布将允许任何人立即使用 DALL-E（目前尚未解除限制）。DALL-E 吸引了数字艺术家、图形设计师和尝鲜者，它能从随机输入的短语创造出合成图像，结果常常会令人眼前一亮，就像是对话式的 Photoshop，网民对 AI 的进步感到吃惊。DALL-E 也推动了语言图像合成模型的流行，Google 和 Meta 都开发了类似的系统，创业公司 Midjourney 和 Stable Diffusion 发布了自己的版本，其中 Stable Diffusion 开放了源代码更是吸引了许多人的参与。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国将保留剩余三个核电站中的两个至明年 4 月]]></title>
-        <id>https://www.solidot.org/story?sid=72911</id>
-        <link href="https://www.solidot.org/story?sid=72911"/>
-        <updated>2022-09-28T13:34:45.000Z</updated>
-        <summary type="html"><![CDATA[为防止冬季能源短缺，德国政府计划让剩余三个核电站中的两个运行至明年 4 月中旬。经济能源部长 Robert Habeck 表示巴伐利亚的 Isar 2 和斯图加特的 Neckarwestheim 将运行至明年。第三个核电站下萨克森州的  Emsland 仍然按计划在今年年底关闭。Habeck 称法国核电供应商的压力测试显示，今年冬天的电力短缺可能比预期的更严重。因乌克兰战争来自俄罗斯的天然气供应减少，德国正努力确保今年冬天有足够的电力保暖。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际电联将宣布新秘书长]]></title>
-        <id>https://www.solidot.org/story?sid=72910</id>
-        <link href="https://www.solidot.org/story?sid=72910"/>
-        <updated>2022-09-28T13:12:08.000Z</updated>
-        <summary type="html"><![CDATA[来自 193 个国家的代表周四将在布加勒斯特的议会宫选出国际电联（ITU）下一任秘书长，候选人是一名美国人和一名俄罗斯人。联合国技术机构的领导者选举很少引起公众的注意。但此次选举的利害关系将远远超过一个神秘机构的象征性人物。美国候选人 Doreen Bogdan-Martin 在 ITU 担任不同职位近三十年，她的竞选纲领平淡无奇，旨在缩小数字鸿沟、改进组织的数字化和效率。俄罗斯候选人 Rashid Ismailov 有着类似的缩小数字鸿沟的纲领，但同时想要减少美国的权力，增加各国的主权。现任 ITU 秘书长是来自中国的赵厚麟，预计中国将会支持 Ismailov。中国曾在 2020 年提出名为 New IP 的新互联网基础设施提议。虽然互联网不在 ITU 的管辖范围内，但很多人担心一旦互联网治理被纳入管辖范围，可能会增加互联网的分裂：在部分国家互联网是自由开放的，另一部分国家则受国家控制。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIFs Without the .gif: The Most Performant Image and Video Options Right Now]]></title>
-        <id>https://css-tricks.com/?p=373484</id>
-        <link href="https://css-tricks.com/gifs-without-the-gif-the-most-performant-image-and-video-options-right-now/"/>
-        <updated>2022-09-28T13:09:11.000Z</updated>
-        <summary type="html"><![CDATA[So you want an auto-playing looping video without sound? In popular vernacular this is the very meaning of the word GIF. The word has stuck around but the image format itself is ancient and obsolete. Twitter, for example, has …
-GIFs Without the .gif: The Most Performant Image and Video Options Right Now originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ollie Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix 创办自己的游戏工作室]]></title>
-        <id>https://www.solidot.org/story?sid=72909</id>
-        <link href="https://www.solidot.org/story?sid=72909"/>
-        <updated>2022-09-28T10:31:20.000Z</updated>
-        <summary type="html"><![CDATA[流媒体巨头 Netflix 加大对游戏业务的投入，在芬兰赫尔辛基创办了自己的游戏工作室，由前 Zynga 和 EA 高管 Marko Lastikka 领导。Netflix 此前购买了多家独立游戏工作室，包括《Oxenfree》开发商  Night School Studio。新工作室是从零起步的。选择赫尔辛基被认为是它对当地的游戏开发有所了解，Netflix 今年早些时候收购了为它开发《怪奇物语》手游的赫尔辛基开发商 Next Games。著名手游《部落冲突（Clash of Clans）》的开发商 Supercell、《控制》开发商 Remedy Entertainment 等知名工作室都在芬兰。暂时还不知道 Netflix 的游戏工作室是专注于开发手游还是面向游戏机市场。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 和机器人帮助设计最佳电池]]></title>
-        <id>https://www.solidot.org/story?sid=72908</id>
-        <link href="https://www.solidot.org/story?sid=72908"/>
-        <updated>2022-09-28T09:49:17.000Z</updated>
-        <summary type="html"><![CDATA[卡内基梅隆大学研究人员设计出一个名为 Clio 的定制自动化机器人平台，并与一个名为 Dragonfly 的基于贝叶斯优化的 AI 相结合。利用这些工具，他们证明该系统能在两个工作日里的 42 次实验中，自主筛选并确定出 6 种高导电非水锂离子电池的电解质配方。研究人员指出，他们的方法发现电解质的速度是随机筛选速度的 6 倍。研究团队在商用锂离子软包电池中测试了该电解质溶液，并以传统的电解质组分作为基线实验，演示了其快速充电的性能。研究团队总结道，他们的研究有助于高性能充电电池的研发，对于更大范围的能源应用和材料科学具有重要意义。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人民币兑美元汇率跌破 7.2]]></title>
-        <id>https://www.solidot.org/story?sid=72907</id>
-        <link href="https://www.solidot.org/story?sid=72907"/>
-        <updated>2022-09-28T09:27:24.000Z</updated>
-        <summary type="html"><![CDATA[离岸人民币兑美元汇率跌至有史以来最低，跌破 1 美元兑人民币 7.2 元，自 2008 年 2 月以来首次跌破这一关口。央行将受到更严格控制的在岸人民币汇率中间价设定在人民币7.1107元，为两年多最低水平。央行此前提高了外汇存款准备金率，使人民币衍生品交易变得更加昂贵，并且中间价设定越来越超出市场预期。央行通过人民币中间价为在岸人民币设定交易区间。中国尚未宣布对外汇市场进行任何直接干预。日本在日圆兑美元持续疲软后已进行这种干预。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[求简单易用的「在线拼接多张图片」工具]]></title>
-        <id>https://www.appinn.com/?p=43484</id>
-        <link href="https://www.appinn.com/photo-collage-online/"/>
-        <updated>2022-09-28T07:56:17.000Z</updated>
-        <summary type="html"><![CDATA[青小蛙一直有一个需求，就是将几张图片、截图简单的拼接起来，完全不需要花里胡哨的边框、留白、变形、文字，就只是简单的把他们拼接在一起，在一起… 然后今天下午，就在微博提出了这个问题。@您的脸]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌干达爆发埃博拉疫情 23 人死亡]]></title>
-        <id>https://www.solidot.org/story?sid=72906</id>
-        <link href="https://www.solidot.org/story?sid=72906"/>
-        <updated>2022-09-28T07:11:35.000Z</updated>
-        <summary type="html"><![CDATA[一种罕见的埃博拉病毒变种 Sudan (SUDV)正在乌干达爆发，这种病毒无治疗方法或疫苗。Sudan 的潜伏期长达 21 天，意味着在症状出现前可能会有更多的人被感染，而它的致死率在 41-100% 之间。乌干达确定了 36 个病例，有 23 人死亡，当局识别了 223 名密接。这个数字很可能是低估，因为对疫情爆发的认知延迟，部分死者是通过传统仪式安葬的，有大量人群聚集，可能导致感染进一步扩散。此外有感染者生活在一座金矿周围，而金矿的人口流动性非常高。埃博拉最常见的变种是  Zaire，已有疫苗和治疗方法。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fast Company 遭黑客入侵网站关闭]]></title>
-        <id>https://www.solidot.org/story?sid=72905</id>
-        <link href="https://www.solidot.org/story?sid=72905"/>
-        <updated>2022-09-28T06:55:09.000Z</updated>
-        <summary type="html"><![CDATA[Fast Company 遭黑客入侵，黑客向 Apple News 用户推送了包含种族主义和淫秽语言的通知。目前整个网站都关闭，显示“404 Not Found”错误信息。该公司通过 Twitter 账号发表声明，“Apple News 账号在周二晚上被黑，两条包含淫秽和种族主义内容的推送通知相隔约一分钟被发出。这些信息是卑鄙的，不符合 Fast Company 的内容和精神。我们正在调查这一情况，并已暂停推送和关闭 http://FastCompany.com 网站，直到我们确定情况已得到解决。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国约会平台变为交友平台]]></title>
-        <id>https://www.solidot.org/story?sid=72904</id>
-        <link href="https://www.solidot.org/story?sid=72904"/>
-        <updated>2022-09-28T06:49:35.000Z</updated>
-        <summary type="html"><![CDATA[中国的约会应用正在蓬勃发展。对许多用户来说，这些软件已成为虚拟的庇护所，可以说是城市学家所谓的“第三场所”（介于工作和家庭之间的社区）的 21 世纪变种，让人们可以探索兴趣爱好、讨论热门话题、结识新朋友。陌陌、探探和 Soul 是中国最受欢迎的三款约会应用，三者加起来的月活跃用户数已超过了 1.5 亿。这些约会应用的许多用户似乎对结识朋友更感兴趣，而不是爱情。一家研究机构去年 10 月做的掉查中，89% 的受访者说他们使用过约会应用，其中大多数人表示，他们主要是想扩大社交圈子，而不是寻找伴侣。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员发现 Stable Diffusion 能压缩图像]]></title>
-        <id>https://www.solidot.org/story?sid=72903</id>
-        <link href="https://www.solidot.org/story?sid=72903"/>
-        <updated>2022-09-28T06:42:02.000Z</updated>
-        <summary type="html"><![CDATA[瑞士软件工程师 Matthias Bühlmann 发现，流行的 AI 自然语言图像合成模型 Stable Diffusion 能用于压缩位图图像，在高压缩率下比 JPEG 或 WebP 有更少的视觉瑕疵，缺陷是可能会添加原图不存在的东西。Stable Diffusion 利用互联网上数百万张图片进行训练，能根据文本描述或提示生成图像。在训练过程中，它在图像和相关词语之间进行统计关联，对每张图像提取出较少的关键信息表述，将其作为“权重（weights）”储存。绝大部分用户在使用 Stable Diffusion 时是通过文本描述去生成图像，但 Bühlmann 剔除了文本编码器，强行让图像通过 Stable Diffusion 的图像编码器进行处理，能将低精度的图像转变成高精度的潜在空间(latent space)表示，在此过程中大幅减少图像体积。测试显示一张 768KB 的图像用 JPEG 压缩到 5.68KB，用 WebP 压缩到 5.71 KB，而用 Stable Diffusion 压缩到 4.98KB。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔公布 XeSS 1.0 源代码]]></title>
-        <id>https://www.solidot.org/story?sid=72902</id>
-        <link href="https://www.solidot.org/story?sid=72902"/>
-        <updated>2022-09-28T03:56:00.000Z</updated>
-        <summary type="html"><![CDATA[英特尔公布了 XeSS 1.0 源代码，采用 Intel Simplified Software 许可证托管在 GitHub 上。XeSS 代表 Xe Super Sampling，是英特尔为其显卡研发的帧率提升技术，类似 AMD FidelityFX Super Resolution 和 NVIDIA DLSS。它在技术上更接近 DLSS，利用 AI 深度学习在不降低游戏图像质量的情况下提升性能。XeSS 目前只支持 Windows 和 DirectX 12 游戏。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔发布 13 代 Raptor Lake 处理器]]></title>
-        <id>https://www.solidot.org/story?sid=72901</id>
-        <link href="https://www.solidot.org/story?sid=72901"/>
-        <updated>2022-09-28T03:38:17.000Z</updated>
-        <summary type="html"><![CDATA[英特尔发布了代号为 Raptor Lake 的 13 代酷睿处理器，10 月 20 日上市。新处理器仍然使用 Intel 7 工艺，但提高了时钟频率增加了更多 E 效能核心。英特尔共宣布了三个型号，每个型号都有包含集显和不包含集显两个版本（不包含的版本尾字母带 F）：Core i9-13900K（8P/16E）、Core i7-13700K（8P/8E）和 Core i5-13600K（6P/8E）。Raptor Lake 支持上一代的主板，支持 DDR4 和 DDR5 两种内存，英特尔同时发布了新主板 Z790。英特尔称  i9-13900K 单线程性能比上一代提高 15%，主要是 P 性能核心的频率提高；多线程性能提高 41%，原因是更多的二级三级缓存，更多的 E 核心和更高的频率。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔发布起售价 329 美元的桌面显卡 Arc A770]]></title>
-        <id>https://www.solidot.org/story?sid=72900</id>
-        <link href="https://www.solidot.org/story?sid=72900"/>
-        <updated>2022-09-28T02:55:33.000Z</updated>
-        <summary type="html"><![CDATA[英特尔周二宣布了它的最高端桌面显卡 Arc A770 GPU，有两个显存版本，8GB 和 16GB，其中 16 GB 版本被称为限量版，起售价为 329 美元（英特尔未公布两个版本的价格，329 美元可能指的是 8GB 版本），远低于英伟达前不久宣布的旗舰显卡 RTX 4090，但它的性能也与 RTX 4090 相去甚远，英特尔声称 Arc A770 的性能能挑战或超越英伟达上一代的 RTX 3060 Ti 显卡，该显卡的价格为 399 美元。Arc A770 上市时间与 RTX 4090 相同，都是 10 月 12 日。英特尔显卡驱动在支持 DX11 游戏上被认为存在性能问题，可能需要比较长的时间才可能解决。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
