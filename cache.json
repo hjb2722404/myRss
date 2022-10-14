@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43604",
+          "author": "青小蛙",
+          "description": "GestureSign 是一款开源的 Windows 电脑鼠标手势工具，同时支持触控板、触摸屏、触控笔、鼠标，自定义度很高，支持全局手势、指定应用手势，可以发送指令、快捷键、运行程序等。@Appinn",
+          "link": "https://www.appinn.com/gesturesign/",
+          "publishedOn": "2022-10-13T03:30:20.000Z",
+          "wordCount": 2335,
+          "title": "GestureSign – 开源鼠标手势工具，支持触摸版、触摸屏、触控笔、鼠标[Windows]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/GestureSign.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43598",
           "author": "青小蛙",
           "description": "VocalRemover 是一款拥有中文界面的在线音频处理工具，主要用来进行人声分离，也支持变调、剪辑、合并、录音、卡拉OK 等功能。@appinn 感谢 @noshit 同学的推荐：https://",
@@ -105,16 +115,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/Appinn-2022-10-07T163559.861.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43547",
-          "author": "青小蛙",
-          "description": "Shelter 是一个自由开源(FOSS)应用程序，它利用 Android 的“工作配置文件”功能，提供一个独立的空间，你可以安装或克隆应用程序。@appinn 来自发现频道，作者 @God-Asim",
-          "link": "https://www.appinn.com/shelter-2022/",
-          "publishedOn": "2022-10-04T02:31:00.000Z",
-          "wordCount": 2367,
-          "title": "Shelter – Work Profile 的简单实现，Android上的隔离软件",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/Appinn-2022-10-03T224145.034.jpg"
         }
       ]
     },
@@ -123,6 +123,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=374401",
+          "author": "Geoff Graham",
+          "description": "An Event Apart 2022 Denver wrapped up yesterday. And while I was unable to make it to all three days this time, I did catch yesterday’s action — and it was awesome. I’m not very social or outgoing, but …\nSome Things I Took Away From An Event Apart 2022 in Denver originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-things-i-took-away-from-an-event-apart-2022-in-denver/",
+          "publishedOn": "2022-10-13T20:01:00.000Z",
+          "wordCount": 1872,
+          "title": "Some Things I Took Away From An Event Apart 2022 in Denver",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374401"
+        },
+        {
+          "id": "https://css-tricks.com/?p=373508",
+          "author": "Krzysztof Gonciarz",
+          "description": "Oftentimes in the past, I needed to figure out how to add styles to all elements inside the container but not the hovered one.\nDemo of the expected “fade-out” effect on siblings to let users “focus” on a particular element.…\nA Pure CSS Gallery Focus Effect with :not originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-pure-css-gallery-focus-effect-with-not/",
+          "publishedOn": "2022-10-13T15:10:15.000Z",
+          "wordCount": 1454,
+          "title": "A Pure CSS Gallery Focus Effect with :not",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373508"
+        },
         {
           "id": "https://css-tricks.com/?p=374330",
           "author": "Geoff Graham",
@@ -182,16 +202,6 @@
           "wordCount": 828,
           "title": "State of CSS 2022 Survey Now Open",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374217"
-        },
-        {
-          "id": "https://css-tricks.com/?p=373703",
-          "author": "Adam Rackis",
-          "description": "This is a post about Shoelace, a component library by Cory LaViska, but with a twist. It defines all your standard UX components: tabs, modals, accordions, auto-completes, and much, much more. They look beautiful out of the …\nIntroducing Shoelace, a Framework-Independent Component-Based UX Library originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/shoelace-component-frameowrk-introduction/",
-          "publishedOn": "2022-10-04T13:01:53.000Z",
-          "wordCount": 2755,
-          "title": "Introducing Shoelace, a Framework-Independent Component-Based UX Library",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373703"
         }
       ]
     },
@@ -199,7 +209,18 @@
       "title": "阮一峰的网络日志",
       "feedUrl": "http://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-226.html",
+          "publishedOn": "2022-10-14T00:18:13.000Z",
+          "wordCount": 927,
+          "title": "科技爱好者周刊（第 226 期）：谷歌出了什么问题？",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "张鑫旭-鑫空间-鑫生活",
@@ -233,6 +254,156 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73056",
+          "author": null,
+          "description": "微软以 687 亿美元收购动视暴雪的交易面临来自英国反垄断监管机构的严加审视。UK Competition & Markets Authority (CMA) 对交易的调查进入到第二阶段，结果可能导致合并被禁止或要求出售部分业务。CMA 刚刚公布了第一阶段的调查结论（PDF）。调查的一个焦点是索尼对动视游戏《使命召唤》系列的异议，索尼认为微软会让《使命召唤》退出 PS 平台，现有协议再延长三年还不够充分。微软向 CMA 递交了它的回复，认为索尼此举是出于自利，称索尼 PS 平台上的独占或限时独占游戏数量远多于 Xbox 平台，2021 年的数量超过 280 款，是 Xbox 的近六倍。",
+          "link": "https://www.solidot.org/story?sid=73056",
+          "publishedOn": "2022-10-13T15:55:00.000Z",
+          "wordCount": 167,
+          "title": "微软反击称索尼对其合并动视的抗议是“自利的”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73055",
+          "author": null,
+          "description": "微软准备将 AI 图像合成带给主流用户，它宣布是基于 OpenAI 的 DALL-E 2 模型的应用 Microsoft Designer。与 DALL-E 2 和 Stable Diffusion 等的工作方式类似，用户可通过输入文字提示生成一系列图像。Microsoft Designer 有免费版和付费版，将提供给  Microsoft 365 个人和家庭订阅用户。目前 Designer 作为一个免费的 Web 应用供公众测试和获取反馈，未来它将整合到  Microsoft Edge 浏览器和 Bing 搜索引擎中。",
+          "link": "https://www.solidot.org/story?sid=73055",
+          "publishedOn": "2022-10-13T15:28:17.000Z",
+          "wordCount": 180,
+          "title": "微软准备将 AI 图像合成带到主流",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73054",
+          "author": null,
+          "description": "科学家首次证明，生活在培养皿中的 80 万个脑细胞可以执行目标导向的任务。他们玩的是简单的电脑游戏乒乓。研究论文发表在《Neuron》杂志上。为了进行这项实验，科学家团队收集了从胚胎大脑中提取的老鼠细胞和一些从干细胞中提取的人类脑细胞。他们把它们放在微电极阵列上，这样既能刺激它们，又能读取它们的活动。一个阵列左右两侧的电极被点燃，以告诉类器官大脑球在哪一边，而与球拍的距离则由信号频率指示。来自电极的反馈告诉培养皿类器官如何把球回球，方法是让细胞像球拍一样活动。",
+          "link": "https://www.solidot.org/story?sid=73054",
+          "publishedOn": "2022-10-13T12:35:51.000Z",
+          "wordCount": 146,
+          "title": "培养皿中的活体人脑细胞学会玩乒乓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73053",
+          "author": null,
+          "description": "今年八月，一组诉讼指控成人社媒平台 OnlyFans 制定了一种奇特的方案打击竞争对手：通过贿赂 Meta/Facebook  员工将成人明星放到恐怖分子观察名单，导致她们在 Meta 旗下平台如 Instagram 和 Facebook 的账号被限制访问。现在法庭文件披露 Nick Clegg、Nicola Mendelsohn 和 Cristian Perrella 是接受 OnlyFans 贿赂的 Facebook 高管。Nick Clegg 是前英国自由民主党党魁，曾是自由民主党与保守党联合政府（2010－2015年）的副首相，2015 年联合政府结束后离任，2018 年担任 Facebook/Meta 全球事务和通讯副总裁，2022 年升任该部门总裁。",
+          "link": "https://www.solidot.org/story?sid=73053",
+          "publishedOn": "2022-10-13T12:20:26.000Z",
+          "wordCount": 187,
+          "title": "Nick Clegg 等人接受了 OnlyFans 的贿赂",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73052",
+          "author": null,
+          "description": "名叫 YoWhatsApp 的 WhatsApp 非官方应用的新版本被发现会窃取用户账号的访问密钥。卡巴斯基研究人员发现，YoWhatsApp v2.22.11.75 会将用户的访问密钥发送到攻击者的服务器上。攻击者利用密钥可以接管账号、窃取私密通信信息和冒充用户。YoWhatsApp 主要通过视频下载器 Snaptube 做广告宣传。安全研究人员还发现了另一个 YoWhatsApp 克隆 WhatsApp Plus 通过 VidMate app 传播，包含有相同的恶意功能。虽然不是所有 WhatsApp 非官方应用都是恶意的，但尽量使用官方应用是更明智的做法。",
+          "link": "https://www.solidot.org/story?sid=73052",
+          "publishedOn": "2022-10-13T11:18:36.000Z",
+          "wordCount": 166,
+          "title": "WhatsApp 非官方应用被发现会窃取用户账号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73051",
+          "author": null,
+          "description": "Twitter 在全球各地的办公室里——旧金山、伦敦和纽约——墙上都亮起了霓虹灯，鼓励员工#爱你工作的地方。但过去 6 个月，许多人已经难以践行这一口号。自今年 4 月以来，Twitter 员工已成为硅谷最可怜的员工。他们陷入了令人不安的两难境地，埃隆•马斯克(Elon Musk)先是不请自来地以 440 亿美元收购该平台，之后又试图退出交易，在这个过程中，他一边激励他们一边诋毁他们的工作。现在他又将可能成为他们的主人。内部人士披露，Twitter 的员工流失率在急剧增加。还留在公司的员工则在权衡，是留下来看看马斯克的统治还是立即跳槽。马斯克的反复无常和难以预测的干预被认为影响了整个 Twitter 体验。马斯克旗下公司鼓励长时间工作的文化也与 Twitter 轻松的工作文化相冲突。",
+          "link": "https://www.solidot.org/story?sid=73051",
+          "publishedOn": "2022-10-13T11:04:19.000Z",
+          "wordCount": 165,
+          "title": "马斯克的交易让 Twitter 员工辗转难安",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73050",
+          "author": null,
+          "description": "NASA 发布了由韦伯太空望远镜拍摄到的双星在太空中形成“指纹”的图像。这个罕见的宇宙景象由恒星及其伴星产生的尘埃环组成。这对双星组合距离地球逾 5000 光年，统称为 Wolf-Rayet 140。当 Wolf-Rayet 140 中的两颗恒星靠近时，它们的恒星风会相撞压缩气体并形成一个尘埃环。这两颗恒星的运行轨道大约每 8 年聚集一次，便产生一层尘埃环。这个像“指纹”图案的宇宙景象由至少 17 个同心尘埃环组成。",
+          "link": "https://www.solidot.org/story?sid=73050",
+          "publishedOn": "2022-10-13T10:40:19.000Z",
+          "wordCount": 155,
+          "title": "韦伯望远镜捕捉到双星形成的“指纹”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73049",
+          "author": null,
+          "description": "在发生凶杀案逾一年之后，复旦大学校长金力教授透露，大学将推出“非升即走“的替代计划，不升也能留，只要青年科学家可以在行业内做得足够好，就可以留下来，化解人才评价中“唯论文、唯帽子、唯职称、唯学历、唯奖项”的“五唯“压力。2021年 6 月复旦大学发生了一起遭解聘数学教师杀死数学学院党委书记的案件。行凶者罕见的得到了人们的同情，认为部分原因与目前中国高校推行的 tenure-track（非升即走）制度有关。tenure-track 来自美国，但美国的制度远没有中国竞争激烈。美国的 tenure-track 候选人通常就 1 到 2 人，而中国的 tenure-track 却常常有双数位的候选人，评判标准还经常有变动，导致青年教师在耗费许多年的时间后却一无所获。",
+          "link": "https://www.solidot.org/story?sid=73049",
+          "publishedOn": "2022-10-13T09:51:28.000Z",
+          "wordCount": 155,
+          "title": "复旦大学将推出“非升即走”的替代方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73048",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一则论文，研究人员首次成功地将人类神经元移植到幼鼠的大脑中。人类细胞与大鼠神经元形成连接，可以用来控制大鼠的行为。为了测试移植的人类神经元是否会影响幼鼠的行为，研究人员使用一种名为光遗传学的技术对人类细胞进行了基因改造，这种技术允许细胞对光做出反应。然后，当他们给大鼠提供水的时候，他们用一根光纤电缆在与大鼠集成的人类神经元上发出蓝光。大鼠很快就把光线和水联系起来：仅仅两周后，它们就开始舔水，期待着光线照射时喝水。",
+          "link": "https://www.solidot.org/story?sid=73048",
+          "publishedOn": "2022-10-13T09:44:04.000Z",
+          "wordCount": 143,
+          "title": "人类迷你大脑植入小鼠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73047",
+          "author": null,
+          "description": "细菌和真菌之间的跨界合作能形成不同寻常的超有机体。根据发表在 PNAS 期刊上的一项研究，科学家在儿童蛀牙样本中发现了这种特殊的超有机体，比细菌或真菌更粘，更耐抗菌剂，更难从牙齿上清除。微生物本身不具有移动能力，但组合起来却具有了某种肢体，能在牙齿表面扩散。蛀牙是由于食物中的糖分在口腔中的细菌和真菌作用下产生破坏釉质的牙菌斑。",
+          "link": "https://www.solidot.org/story?sid=73047",
+          "publishedOn": "2022-10-13T09:02:01.000Z",
+          "wordCount": 146,
+          "title": "导致蛀牙的微生物能形成超有机体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73046",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一项研究，研究人员研发出一种支持腿部运动的外骨骼。根据实验结果和现实世界的优化数据，论文作者设计出一种专门的脚踝外骨骼，包括两个脚踝各佩戴的一个外骨骼和腰部佩戴的一个电池组。该装置能让行走速度提高9%，比穿着普通鞋子的自然行走节省了 17% 的能量，相当于拿走了 9.2 公斤的包袱。论文作者表示，他们的最新研究结果表明，这种新技术能让外骨骼更贴合个性化需求，从而提升其性能。不过，今后仍需开展进一步研究推动该装置的实际应用，并探索这种技术如何应用于其他装置和活动。",
+          "link": "https://www.solidot.org/story?sid=73046",
+          "publishedOn": "2022-10-13T08:04:02.000Z",
+          "wordCount": 147,
+          "title": "外骨骼“靴子”帮助更快走路",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73045",
+          "author": null,
+          "description": "日经报道（付费墙），台积电从美国获得一年期许可证，可继续订购美国芯片制造设备，用于在中国扩建的新厂。台积电正在南京扩厂，美国已同意台积电可以将设备运至新厂，知情人士表示，这代表台积电扩大在中国制造的计划并未受到影响。南京厂 2018 年开工，目前主要生产 22/28 纳米制程芯片，也有部分是最近被美国列入设备输中管制 16 纳米芯片。韩国 SK 海力士昨天也表示，已经获得美国一年期许可，可在中国使用美国芯片制造设备。",
+          "link": "https://www.solidot.org/story?sid=73045",
+          "publishedOn": "2022-10-13T07:03:58.000Z",
+          "wordCount": 151,
+          "title": "台积电从美国获得一年的芯片设备出口许可证",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73044",
+          "author": null,
+          "description": "流媒体巨头 Netflix 在 2022 年第三季度上线了创记录的 1026 集原创剧，相比较下它的主要竞争对手 Amazon Prime Video 发布了 223 集，Hulu 发布了 194 集，Disney+ 发布了 140 集，HBO Max 114 集。当季的热播剧包括《怪物：杰夫瑞·达莫的故事 DAHMER - Monster: The Jeffrey Dahmer Story》，尼尔·盖曼的《睡魔（The Sandman）》和《怪奇物语4》的最后两集。Netflix 采取的是覆盖一切的战略，让每一位订阅用户能找到他们喜欢的不同类型的剧集。Netflix 称它的客户每个月观看六种类型的影视剧内容，从剧情片到恐怖片，从喜剧片到儿童片。",
+          "link": "https://www.solidot.org/story?sid=73044",
+          "publishedOn": "2022-10-13T06:51:13.000Z",
+          "wordCount": 186,
+          "title": "Netflix 在第三季度发布了 1026 集原创剧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73043",
+          "author": null,
+          "description": "广泛使用的音频编解码器项目 Opus 面临专利挑战。Opus 从一开始就设计避开已有专利，对所有用户不征收任何专利使用费。它的专利是在开源兼容、免专利费下授权的。其专利技术在 2012 年被 IETF 以 RFC 6716 标准化。但如今一家名叫 Vectis 的公司正在收集相关专利，试图对使用 Opus 的硬件设备征收专利使用费，该公司的计划不针对开源软件、应用、服务或内容。",
+          "link": "https://www.solidot.org/story?sid=73043",
+          "publishedOn": "2022-10-13T06:32:14.000Z",
+          "wordCount": 161,
+          "title": "Opus 编解码器项目面临专利挑战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73042",
+          "author": null,
+          "description": "《科学》杂志出版商将允许其研究论文的作者在发表后，立即在他们选择的文献库中公开其手稿的几乎最终版本，而无需支付任何费用。美国科学促进会（AAAS）的《科学》杂志出版人 Bill Moran 称，此政策将从 2023 年 1 月开始生效，并适用于《科学》家族的五种订阅杂志。目前，大多数在《科学》系列期刊上的论文作者只被允许在机构资料库或个人网站上发布他们于《科学》发表的稿件。他们必须在文章发表后 6 个月后，才能将论文添加到其他文献库。今年 8 月，美国政府发布了一份关于论文开放获取的最新政策，要求国家资助的研究在发表后，立即免费向公众开放，并在2025年底前确保实施到位。",
+          "link": "https://www.solidot.org/story?sid=73042",
+          "publishedOn": "2022-10-13T03:26:25.000Z",
+          "wordCount": 162,
+          "title": "《科学》期刊论文免费开放获取政策将于 2023 年生效",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73041",
           "author": null,
@@ -991,76 +1162,6 @@
           "publishedOn": "2022-10-05T11:37:58.000Z",
           "wordCount": 159,
           "title": "马斯克提议按原提议收购 Twitter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72962",
-          "author": null,
-          "description": "天文学家制作了第一幅银河系死亡恒星墓场地图。研究报告发表在《Monthly Notices of the Royal Astronomical Society》期刊上。大型恒星会在生命末期坍缩成黑洞和中子星，它们会产生强烈的爆发，而这种爆发是不对称的，部分残余物甚至会直接甩出银河系。天文学家发现，银河系墓场的高度是其本身高度的三倍，约三分之一的天体甩出了银河系，它们不减速的在星际空间中飞行。",
-          "link": "https://www.solidot.org/story?sid=72962",
-          "publishedOn": "2022-10-04T16:02:51.000Z",
-          "wordCount": 149,
-          "title": "天文学家发现银河系死亡恒星墓场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72961",
-          "author": null,
-          "description": "树木能通过吸收大气中的二氧化碳减缓气候变化的影响。大气层中二氧化碳含量在不断增长，而树木在吸收了更多的二氧化碳之后体积也在不断变化，一两年也许不明显，但今天的树木与几十年的树木相对比则能发现变化显著。根据发表在《Nature Communications》期刊上的一项研究，美国 10 个不同温带森林组的木材体积在增加。过去二十年，美国森林每年封存约 700-800 亿吨二氧化碳，相当于年排放量的 10%-11%。研究发现增加的体积相当于额外的一个树轮。今天的树木比 30 年前体积大了 20%-30%。研究人员还发现，随着二氧化碳浓度的提高，即使是历史悠久的大树也在增加体积。",
-          "link": "https://www.solidot.org/story?sid=72961",
-          "publishedOn": "2022-10-04T15:35:22.000Z",
-          "wordCount": 152,
-          "title": "气候变化让树木变“胖”了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72960",
-          "author": null,
-          "description": "Valve 的 Linux 掌机 Steam Deck 于今年 2 月 25 日上市，将近 8 个月后它的销量几何？我们不知道官方的数据，但据 KDE 开发者在最近举行的 Akademy 2022 会议上透露的消息，Steam Deck 掌机出货量已逾一百万部，而 Valve 仍然在处理预登记的订单。Steam Deck 采用预售制，玩家先支付 5 美元预定一个版本，然后排队等待 Valve 发送补交尾款的邮件通知，玩家看到通知后有 48 小时决定是否付款。Steam Deck 有三个版本，64GB 版本从预定到收到通知的时间非常短，可能是因为库存充足，而 512 GB 版本则需要等待较长时间。为何 KDE 开发者会知道销量？原因是 Steam Deck 包含了一个完整的 KDE Plasma 桌面模式，因此 KDE 开发团队在与 Valve 合作改进桌面用户体验。",
-          "link": "https://www.solidot.org/story?sid=72960",
-          "publishedOn": "2022-10-04T14:17:24.000Z",
-          "wordCount": 198,
-          "title": "Steam Deck 掌机出货量逾一百万部",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72959",
-          "author": null,
-          "description": "2022 年度诺贝尔物理学奖授予了法国科学家 Alain Aspect、美国科学家 John F.Clauser 和奥地利科学家 Anton Zeilinger ，以表彰他们“用纠缠光子进行的实验，建立了贝尔不等式的违反，并开创了量子信息科学”。John Clauser 发展了 John Bell 在 1960 年代提出的不等式，开展了一个实际的量子实验。Alain Aspect 发展了这个设置，能在一个纠缠对离开它的源后切换测量设置，所以当它们被发射时存在的设置不会影响结果。通过精密的工具和一系列的实验，Anton Zeilinger 开始使用纠缠量子态。他的小组还展示了一种被称为量子隐形传态的现象，这种现象使得量子态在一定距离内从一个粒子移动到另一个粒子成为可能。",
-          "link": "https://www.solidot.org/story?sid=72959",
-          "publishedOn": "2022-10-04T11:13:09.000Z",
-          "wordCount": 163,
-          "title": "诺贝尔物理学奖授予了三名研究纠缠量子态的科学家",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72958",
-          "author": null,
-          "description": "美国最高法院将考虑网站何时对其用户发布的内容负责，受理一系列恐怖主义受害者家属指控Twitter、Facebook 和 YouTube 等社交媒体平台对极端组织伊斯兰国组织(ISIS)的袭击负有部分责任的案件。最高法院同意受理 Gonzalez 诉 Google 案，这是 2015 年在巴黎 ISIS 袭击中丧生的年轻女子 Nohemi Gonzalez 家人提出的上诉。Gonzalez的 家人指控 Alphabet 子公司 YouTube 向用户推荐 ISIS 的视频，从而帮助了该恐怖组织。",
-          "link": "https://www.solidot.org/story?sid=72958",
-          "publishedOn": "2022-10-04T10:55:03.000Z",
-          "wordCount": 164,
-          "title": "美最高法院同意审理挑战科技公司免责的案件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72957",
-          "author": null,
-          "description": "印度空间研究组织（Indian Space Research Organisation，ISRO） 10 月 3 日证实，其火星轨道飞行器 Mangalyaan 已失去了联络，且无法恢复，任务结束。Mangalyaan 于 2013 年 11 月发射，2014 年  9 月抵达火星轨道，它主要是用作技术演示，设计寿命 6 个月，但在火星轨道上工作了约 8 年，获得一系列火星研究成果。ISRO 表示 Mangalyaan 是在 2022 年 4 月的一次日食期间与地球地面站失去联络，它猜测燃料已经耗尽，飞行器已经达到使用寿命。",
-          "link": "https://www.solidot.org/story?sid=72957",
-          "publishedOn": "2022-10-04T10:45:47.000Z",
-          "wordCount": 179,
-          "title": "印度火星探测器 Mangalyaan 停止工作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=72956",
-          "author": null,
-          "description": "俄罗斯总统普京前不久下达了部分动员令，征召有军事经验的公民入伍。部分俄罗斯公民的回应是逃避，一部分人通过边境逃离，还有人则诉诸于非法手段，尝试购买不适合服兵役的证明文件，这为欺骗敞开了大门。欺骗者通过暗网、Telegram 等渠道兜售帮助逃避入伍的证明文件。他们还承诺能更新地区征兵办公室的数据库，让征兵者永远找不到客户。客户则需要提供护照复印件和 27,000 卢布。但在钱支付之后，欺骗者会拉黑客户，不再联系，他们还可能利用护照进行欺诈或出售。",
-          "link": "https://www.solidot.org/story?sid=72956",
-          "publishedOn": "2022-10-04T10:07:22.000Z",
-          "wordCount": 147,
-          "title": "俄罗斯人试图购买不适合服兵役的证明躲避动员令",
           "imageUrl": null
         }
       ]
