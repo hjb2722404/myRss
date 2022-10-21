@@ -2,10 +2,219 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-10-20T04:02:19.283Z</updated>
+    <updated>2022-10-21T03:46:57.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 227 期）：脸书的公司入职教育]]></title>
+        <id>http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2022/10/weekly-issue-227.html"/>
+        <updated>2022-10-21T00:03:38.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences]]></title>
+        <id>https://css-tricks.com/?p=374470</id>
+        <link href="https://css-tricks.com/instant-articles-proprietary-syndication-user-fidelity-preferences/"/>
+        <updated>2022-10-20T19:59:46.000Z</updated>
+        <summary type="html"><![CDATA[I love it when there’s a sense of synergy in the blogosphere. First, I caught Nick Heer’s coverage of Meta ending support for Instant Articles, its proprietary format for stripped-down performant news articles. He also compares it to the similar …
+Instant Articles, Proprietary Syndication, and a Web Built on User Fidelity Preferences originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卡塔尔世界杯官方应用被指是间谍软件]]></title>
+        <id>https://www.solidot.org/story?sid=73123</id>
+        <link href="https://www.solidot.org/story?sid=73123"/>
+        <updated>2022-10-20T15:51:41.000Z</updated>
+        <summary type="html"><![CDATA[卡塔尔世界杯将于 2022 年 11 月 20 日至 12 月 19 日举行，期间前往卡塔尔的人都需要下载安装两个应用—— Ehteraz 和 Hayya，Ehteraz 是 covid-19 追踪应用，Hayya 是世界杯官方应用，用于跟踪比赛门票和访问免费地铁。Ehteraz 和 Hayya 都被指存在安全隐私问题，被认为是间谍软件。Ehteraz 要求访问读取、删除或更改手机所有内容的权限，连接 WiFi 和蓝牙、覆盖其他应用和防止手机进入睡眠模式的权限。Hayya 索要的权限没有那么多，但也要求几乎不受限制的分享个人信息，以及定位和防止睡眠等权限。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告别pointer-events:none使用HTML inert属性真正禁用]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=10597</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2022/10/html-inert-disabled-attribute/"/>
+        <updated>2022-10-20T14:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Web领域终于出了个针对任意元素，且是真正意义上彻底禁用的属性了。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绘画社区 pixiv 将为 AI 生成作品单独划分属性]]></title>
+        <id>https://www.solidot.org/story?sid=73122</id>
+        <link href="https://www.solidot.org/story?sid=73122"/>
+        <updated>2022-10-20T13:47:14.000Z</updated>
+        <summary type="html"><![CDATA[靛青之花 写道 "10 月 20 日, pixiv 发布公告宣布即将开始针对 AI 生成的一类作品划分单独的属性, 包括:
+
+1. 在作品编辑页中, 提供可选标识为 AI 生成作品的选项;
+2. 在筛选功能中, 可过滤 AI 生成作品;
+3. 提供 AI 生成作品的独立排行榜, 与其他常规作品单独区分.
+
+预计将于今年十月下旬开始实施, 但这些选项更新并不是「永久的」, pixiv 在公告中谈及 AI 技术时将其视作类似 3D 技术和其他创作工具一样的, 能够有效辅助于创作的「得力助手」. 文末说道, 现今 AI 技术发展中的我们正处于「一个相关道德伦理、条例规定尚未明确的过渡阶段。」, 仍需要更多调查和审议."]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Responsive Animations for Every Screen Size and Device]]></title>
+        <id>https://css-tricks.com/?p=374345</id>
+        <link href="https://css-tricks.com/responsive-animations-for-every-screen-size-and-device/"/>
+        <updated>2022-10-20T12:42:30.000Z</updated>
+        <summary type="html"><![CDATA[Before I career jumped into development, I did a bunch of motion graphics work in After Effects. But even with that background, I still found animating on the web pretty baffling.
+Video graphics are designed within a specific ratio and …
+Responsive Animations for Every Screen Size and Device originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Cassie Evans</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kakao 联席 CEO 因服务故障辞职]]></title>
+        <id>https://www.solidot.org/story?sid=73121</id>
+        <link href="https://www.solidot.org/story?sid=73121"/>
+        <updated>2022-10-20T12:40:26.000Z</updated>
+        <summary type="html"><![CDATA[上周六因数据中心失火韩国万能应用 Kakao 遭遇了长时间的服务宕机，影响了数以千万计的韩国用户。Kakao 提供了类似微信的消息、打车、支付和游戏等功能。公司联席 CEO 南宫熏宣布引咎辞职。南宫熏召开记者会表示，作为 Kakao 负责人，我对数据中心火灾导致公司服务故障一事深感心情沉重和责任重大，并决定卸下代表董事一职。作为负责公司业务的代表，我其间很重视销售和营业利润。但对 IT 公司来说，系统是重中之重，从此次事故中我领悟到需要关注管理系统，并对系统进行更多投资。Kakao 将由洪银泽单独掌管运营。Kakao 的消息应用 Kakao Talk 在韩国有逾 4700 万活跃用户，在全世界有 5300 万活跃用户。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流行广告过滤规则 EasyList 正遭受拒绝服务攻击]]></title>
+        <id>https://www.solidot.org/story?sid=73120</id>
+        <link href="https://www.solidot.org/story?sid=73120"/>
+        <updated>2022-10-20T10:56:59.000Z</updated>
+        <summary type="html"><![CDATA[匿名读者 写道 "流行广告过滤列表 EasyList 的维护者在最近几周里看到了流量的迅速增长，增长的源头可能是源自某个具有严重缺陷的印度安卓浏览器，它频繁的获取规则列表。EasyList 托管在 GitHub，并使用 Cloudflare 的代理服务，但 Cloudflare 免费版不允许使用如此多流量，维护者联系了支持工程师后被告知，托管 TXT 文本格式文件是非网页内容，违反了服务条款。工程师建议其使用子域名，Cloudflare 不再将它缓存和代理 TXT 文本格式。目前还不清楚 EasyList 会如何决定，EasyList 是一个由志愿者驱动的项目，它是否会接受捐款继续维持托管，还是更改域名——影响众多依赖它的项目？去年11月，Adguard 遇到了相同的情况，但其使用自己的网络设施，每月为返回“拒绝请求”也要消耗 100TB 流量。"]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新研究认为我们的大脑使用了量子计算]]></title>
+        <id>https://www.solidot.org/story?sid=73119</id>
+        <link href="https://www.solidot.org/story?sid=73119"/>
+        <updated>2022-10-20T10:55:52.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Journal of Physics Communications》期刊上的一项研究，都柏林三一学院的科学家相信我们的大脑运用了量子计算。研究人员采用了为证明量子引力而设计的实验：已知量子系统与未知系统相互作用，如果已知系统纠缠了，那么未知系统必定也是量子系统。它规避了为未知系统寻找测量设备所面临的挑战。在实验中，研究人员将脑液体中的质子自旋作为已知系统，脑液体在人脑中自然积累。质子自旋可以用 MRI 设备进行测量，然后去寻找纠缠的质子自旋，他们相信自己观测到了纠缠的自旋，因此证明与其作用的大脑过程也是量子系统。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软透露正在创建手游应用商店]]></title>
+        <id>https://www.solidot.org/story?sid=73118</id>
+        <link href="https://www.solidot.org/story?sid=73118"/>
+        <updated>2022-10-20T10:05:22.000Z</updated>
+        <summary type="html"><![CDATA[英国监管机构正在调查微软以 687 亿美元收购动视暴雪的交易，它要求微软提供背景材料。在递交的材料中，软件巨人透露收购动视暴雪的一个动机是推动手游业务。微软计划推出 Xbox 手游商店，挑战苹果和 Google。为了让 Google Play Store 和 App Store 的用户转移到 Xbox Mobile Platform，微软需要提供有吸引力的内容，动视暴雪能帮助它完成这个任务。动视暴雪旗下包括了知名手游《糖果传奇》的开发商 King，《使命召唤》系列也有手游版本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[律师宣布调查 GitHub Copilot 版权侵犯问题]]></title>
+        <id>https://www.solidot.org/story?sid=73117</id>
+        <link href="https://www.solidot.org/story?sid=73117"/>
+        <updated>2022-10-20T08:58:24.000Z</updated>
+        <summary type="html"><![CDATA[GitHub 的 AI 编程助手 Copilot 使用公开的代码库进行训练，在开发者写代码时根据函数名等上下文自动补充完后续代码。很多时候 Copilot 补充的是公开代码库中代码片段的拷贝。这就引起了版权相关的问题。律师 Matthew Butterick 本周宣布与律所 Joseph Saveri 合作调查对 Copilot 提起版权索赔的可能性，包括：GitHub 用开源代码训练 Copilot 是否有不当行为；在补充代码时是否不当的推荐了其他人的版权作品。自由软件基金会（FSF）此前曾呼吁对 GitHub Copilot 所产生代码的许可授权问题展开调查。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 将会首先取代企业的中层管理人员]]></title>
+        <id>https://www.solidot.org/story?sid=73116</id>
+        <link href="https://www.solidot.org/story?sid=73116"/>
+        <updated>2022-10-20T08:16:38.000Z</updated>
+        <summary type="html"><![CDATA[AI 能轻而易举的打败最强的国际象棋选手，但 AI 驱动的扫地机器人仍然会卡住某个地方耗尽电力。你认为 AI 对企业哪方面的影响最大：能完成曾经由人类完成特定任务的机器人，还是基于历史和当前可用数据做出最佳商业决策的程序？AI 首先取代的可能不是临时工而是中层管理，而这将能为企业每年节省数十亿美元，也能为推动 AI 自动化提供资金。当然不是所有人都认同这一观点。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desktop Pets – 那只羊，桌面宠物 macOS 版本]]></title>
+        <id>https://www.appinn.com/?p=43679</id>
+        <link href="https://www.appinn.com/desktop-pets-for-macos/"/>
+        <updated>2022-10-20T08:10:22.000Z</updated>
+        <summary type="html"><![CDATA[Desktop Pets for macOS 是今天介绍的《eSheep 64bit – 来自 Windows 95 桌面宠物 STRAY SHEEP 流浪绵羊复刻版》的 macOS 版本，不是同一个]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克称对 Twitter 收购价过高]]></title>
+        <id>https://www.solidot.org/story?sid=73115</id>
+        <link href="https://www.solidot.org/story?sid=73115"/>
+        <updated>2022-10-20T07:34:15.000Z</updated>
+        <summary type="html"><![CDATA[马斯克(Elon Musk)周三表示他为收购 Twitter 感到兴奋虽然出价有点过高。马斯克是在特斯拉的财报电话会议上谈及了这笔 440 亿美元的收购交易。他认为从长期看 Twitter 将比目前的价值高一个数量级。马斯克是在今年 4 月同意收购 Twitter，但很快反悔，在 Twitter 起诉之后他在本月再次表示继续收购，他目前还在筹集收购所需的资金，分析师认为他需要出售 30 亿美元的特斯拉股票。法官要求他在 10 月 28 日前完成交易。马斯克还在电话会议上表示他相信特斯拉的市值将会超过苹果公司和沙特阿美。这两家公司的市值都超过 2 万亿美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 公布韦伯拍摄的创生之柱图像]]></title>
+        <id>https://www.solidot.org/story?sid=73114</id>
+        <link href="https://www.solidot.org/story?sid=73114"/>
+        <updated>2022-10-20T07:10:33.000Z</updated>
+        <summary type="html"><![CDATA[NASA 公布了韦伯太空望远镜拍摄的圆柱形星际气体和尘埃构成的天体景象创生之柱的最新图像。 创生之柱位于距地球约 6500 光年的鹰状星云，哈勃太空望远镜曾在 1995 年和 2014 年先后两次对它进行拍摄，最新发布的图像揭示了创生之柱的新细节，它被形容无比壮观。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时隔半年芯片行业水深火热]]></title>
+        <id>https://www.solidot.org/story?sid=73113</id>
+        <link href="https://www.solidot.org/story?sid=73113"/>
+        <updated>2022-10-20T06:58:54.000Z</updated>
+        <summary type="html"><![CDATA[今年春天，当英特尔破土动工建造两座耗资 200 亿美元的芯片工厂时，美国总统拜登（Joe Biden）盛赞这是美国未来的基石。彼时的芯片行业正无比火热，新冠疫情引发的半导体短缺助长了芯片的供不应求。半年之后的半导体行业如今是冰天雪地，处于水深火热之中，主要半导体公司都对收入下降发出了预警，其中包括英特尔、美光、AMD 和英伟达。芯片行业的投资是有周期性的，应对需求增长加大的投资增加的产能要在几年后实现，而到这个时候需求可能下降了。在每年半导体行业 6000 亿美元的销售中，PC 和智能手机占了大约一半，如今面临通货膨胀的消费者正在减少对此类产品的需求。新冠期间的大肆采购是对需求的提前预支。去年的芯片短缺也导致了企业库存的增加，分析师估计企业芯片库存比历史水平高了约四成。PC 和汽车公司都面临着高库存。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eSheep 64bit – 来自 Windows 95 桌面宠物 STRAY SHEEP 流浪绵羊复刻版]]></title>
+        <id>https://www.appinn.com/?p=43673</id>
+        <link href="https://www.appinn.com/desktop-pet-esheep-64bit/"/>
+        <updated>2022-10-20T06:33:10.000Z</updated>
+        <summary type="html"><![CDATA[eSheep 64bit 是一款复刻了 Windows 95 时代 16/32 位程序 STRAY SHEEP 的开源软件，功能完全相同，一只漂亮的绵羊会在你的屏幕上走来走去，偶尔还会摔下去，就没有然]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新方法揭示学习时大脑的变化]]></title>
+        <id>https://www.solidot.org/story?sid=73112</id>
+        <link href="https://www.solidot.org/story?sid=73112"/>
+        <updated>2022-10-20T03:44:32.000Z</updated>
+        <summary type="html"><![CDATA[当你学习新东西时，会发生两件事：首先，神经元立即沿着大脑中的新路线传递电信号。然后，随着时间的推移，这会导致大脑中细胞的物理结构及其连接的变化。但科学家们一直想知道这两个步骤之间发生了什么。神经元中的这种电活动最终是如何引导大脑以更持久的方式改变的呢？甚至更进一步，这种可塑性是如何以及为什么会随着年龄和某些疾病而减弱的？根据发表在《Journal of Neuroscience》期刊上的一项研究，研究人员设计了一个系统，可以一次将一种特殊标记的氨基酸(蛋白质的组成部分之一)引入一种类型的神经元。当细胞产生新的蛋白质时，它们会将这种氨基酸，叠氮氨亮氨酸，合并到它们的结构中。研究人员可以监测新合成的蛋白质，并将它们与已有的蛋白质区分开来。他们发现，在神经活动增加后，研究人员发现神经元中 300 种不同蛋白质的水平发生了变化。三分之二在大脑活动高峰时增加，剩下三分之一的合成减少。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[治愈艾滋病跨出重要一步]]></title>
+        <id>https://www.solidot.org/story?sid=73111</id>
+        <link href="https://www.solidot.org/story?sid=73111"/>
+        <updated>2022-10-20T03:30:10.000Z</updated>
+        <summary type="html"><![CDATA[一个国际研究团队找到一种增强人体自身抗击艾滋病病毒（HIV）能力的方法。论文发表在《自然·医学》杂志上。研究人员认为，这是向治愈艾滋病迈出的重要一步。目前艾滋病的抗逆转录病毒疗法（ART）主要用于治疗 HIV 和预防 AIDS 的发作，这种疗法可以抑制血液中的病毒数量，并部分恢复免疫系统。然而如果停止 ART 疗法，血液中的病毒数量在几周内就会上升到治疗开始前的水平。这是因为 HIV 隐藏在人体某些免疫细胞的基因组中，而这项研究正是针对这些细胞，对其进行干预。研究人员研究了两种类型的实验药物对最近被诊断出感染艾滋病的人的影响。研究结果表明，新诊断出的 HIV 携带者，如果在接受治疗的同时服用抗 HIV 的单抗，在治疗开始后，病毒数量下降的速度会更快，并对 HIV 产生更好的免疫力。如果他们暂停服用常用的抗 HIV 药物，他们的免疫系统也可以部分或完全抑制病毒。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度学习识别显微照片中的细菌]]></title>
+        <id>https://www.solidot.org/story?sid=73110</id>
+        <link href="https://www.solidot.org/story?sid=73110"/>
+        <updated>2022-10-20T03:03:12.000Z</updated>
+        <summary type="html"><![CDATA[华盛顿大学研究人员开发出深度学习软件 Omnipose，能帮助解决在显微镜图像中识别各种微小细菌的挑战。研究论文发表在《自然·方法学》杂志上。Omnipose 的源代码托管在 GitHub 上，采用非商业许可证。研究人员发现，在大型细菌图像数据库上训练的 Omnipose 在表征和量化混合微生物培养物中的无数细菌方面表现良好，并消除了其前身可能出现的一些错误。此外由于不同细菌的光学特性存在差异，Omnipose 在克服识别问题方面表现出色。研究人员称，Omnipose 在各种细胞形态和模式上的高性能，可能会从以前无法访问的显微镜图像中解开信息，这或将改变生物图像分析的游戏规则。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黄柳霜将出现在 25 美分硬币上]]></title>
         <id>https://www.solidot.org/story?sid=73109</id>
@@ -1129,176 +1338,6 @@ Early Days of Container Style Queries originally published on CSS-Tricks, which 
 Rendering External API Data in WordPress Blocks on the Front End originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Manoj Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 加入对 Wayland 的支持]]></title>
-        <id>https://www.solidot.org/story?sid=73026</id>
-        <link href="https://www.solidot.org/story?sid=73026"/>
-        <updated>2022-10-11T15:42:45.000Z</updated>
-        <summary type="html"><![CDATA[开源 3D 图形设计软件 Blender 准备对 Linux 版本加入对 Wayland 的原生支持。Blender 的每日构建版本启用了对 Wayland 的支持，如果一切顺利 Blender 3.4 发布时将默认支持 Wayland。Wayland 是替代 X11 的显示服务器，始于 2008 年，但直到最近 Linux 发行版才开始默认支持 Wayland。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉和比亚迪电动车交付量破记录]]></title>
-        <id>https://www.solidot.org/story?sid=73025</id>
-        <link href="https://www.solidot.org/story?sid=73025"/>
-        <updated>2022-10-11T14:15:30.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉及比亚迪的电动汽车月度交付数双双打破纪录。中国乘用车市场信息联席会公布的数据显示，9 月份特斯拉上海工厂交付超过 83,000 辆 Model 3 和 Model Y 汽车。总部在深圳的比亚迪 9 月份电动车交付量接近 9.5 万辆，为该公司的最高纪录。比亚迪包括混合动力车在内的总销量在 9 月份达到了 20.1 万辆，也创下纪录。特斯拉上周表示，在截至 9 月 30 日的季度里，该公司在全球范围内交付了 343,830 辆电动汽车。根据乘联会数据计算，在此期间，特斯拉上海工厂占其全球交付量的 54% 左右，高于第二季度的 44%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家发现女性更容易患阿尔茨海默氏症的机制]]></title>
-        <id>https://www.solidot.org/story?sid=73024</id>
-        <link href="https://www.solidot.org/story?sid=73024"/>
-        <updated>2022-10-11T14:11:34.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《Cell》期刊上的一项研究，科学家在大脑组织中发现了一种机制，可以解释为什么女性更容易患阿尔茨海默症。这一发现可能有助于研制治疗该疾病的新药。研究人员发现，与男性相比，女性大脑中某种酶的表达量更高，导致一种名为 tau 的蛋白质的积累量更大。tau 蛋白负责在阿尔茨海默病患者的脑神经细胞内形成有毒蛋白团块。这种酶被称为泛素特异性肽酶11 (USP11)，是 X 连锁的，这意味着它存在于 X 染色体上的基因中，X 染色体是每个细胞中两条性染色体中的一条。女性患阿尔茨海默病的频率大约是男性的两倍。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 如何改进 macOS 版本的响应]]></title>
-        <id>https://www.solidot.org/story?sid=73023</id>
-        <link href="https://www.solidot.org/story?sid=73023"/>
-        <updated>2022-10-11T14:08:20.000Z</updated>
-        <summary type="html"><![CDATA[macOS 用户可能注意到 Firefox v103 版本的响应有了显著改进，尤其是在打开大量标签的情况下。Firefox 的内存分配器在 macOS 平台依赖于系统自带的 OSSpinLock 去执行自旋锁(spin lock)和互斥量(mutex)功能。但 OSSpinLock 的自旋锁存在基础性缺陷，它是在用户空间内执行的，用户空间并不知系统负载信息，如果是在内核空间则能根据负载做出合理决策，用户空间锁则可能在系统高负载的情况下执行自旋锁结果增加了额外负载。苹果知道 OSSpinLock 的问题，它提供了 os_unfair_lock 作为 OSSpinLock 的官方替代。但开发者在测试后发现 os_unfair_lock 反而会导致性能下降，进一步分析发现 os_unfair_lock 支持内核空间锁，但并没有在文档中记录下来。在启用了 os_unfair_lock 的内核空间自适应自旋锁之后，Firefox 的响应有了显著改进。该功能需要 macOS 10.15 及以上版本才能支持。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[访问密钥在 GitHub 暴露五年后丰田警告数据泄露]]></title>
-        <id>https://www.solidot.org/story?sid=73022</id>
-        <link href="https://www.solidot.org/story?sid=73022"/>
-        <updated>2022-10-11T11:19:12.000Z</updated>
-        <summary type="html"><![CDATA[访问密钥在 GitHub 暴露近五年后丰田对数据泄露发出警告。丰田 T-Connect 是官方连接应用，允许丰田车主将手机与车载信息娱乐系统连接起来，获得电话、音乐、导航、通知集成、驾驶数据、发动机状态、油耗等数据。丰田近期发现 T-Connect 的部分源代码被错误在 GitHub 公开，其中包含有管理客户电邮等信息的服务器访问密钥，未经授权的第三方可以利用访问密钥获取用户的信息。访问密钥暴露的时间是从 2017 年 12 月到 2022 年 9 月 15 日，丰田公司建议在此期间注册 T-Connect 的客户对自称来自丰田的钓鱼邮件保持警惕。丰田在 9 月 17 日修改了密钥，表示客户的姓名、信用卡数据和电话号码没有泄露，因为它们没有储存在该服务器上。丰田表示它没有检测到数据被盗用，但不能排除可能性。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查显示逾四成 Windows PC 无法升级到 Windows 11]]></title>
-        <id>https://www.solidot.org/story?sid=73021</id>
-        <link href="https://www.solidot.org/story?sid=73021"/>
-        <updated>2022-10-11T09:52:33.000Z</updated>
-        <summary type="html"><![CDATA[资产管理服务商 Lansweeper 对数千万台设备的测试显示，接近 43% 的 Windows PC 无法升级到 Windows 11。微软对 Windows 11 制定了高硬件需求，Lansweeper 对 6 万家机构的 2700 万台 PC 的测试发现，42.76% 未能通过 CPU 测试，71.5% 未通过内存测试，14.66% 未通过 TPM 测试。未通过测试的 PC 只能继续使用 Windows 10。Lansweeper 的客户包括索尼、百事可乐、Cerner、MIT 和希尔顿酒店。Lansweeper 的调查还显示 Windows 11 的普及率在提高，从 1 月的 0.52% 增加到了 1.44%，超过了 Windows 8，但仍然低于 Windows 7。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISC DHCP Server 寿命终止]]></title>
-        <id>https://www.solidot.org/story?sid=73020</id>
-        <link href="https://www.solidot.org/story?sid=73020"/>
-        <updated>2022-10-11T08:36:21.000Z</updated>
-        <summary type="html"><![CDATA[上周发布的 ISC DHCP v4.4.3-P1 和 4.1-ESV-R16-P2 将是最后一个维护版本，除非发现非常严重的安全漏洞，ISC 没有计划继续发布更新。项目的代码库将停止维护，用户仍然可以递交补丁和问题，但没人再去解决问题或发布补丁了。ISC DHCP 或 dhcpd 是动态主机设置协议（DHCP）的服务器程序，至今有 23 年历史，ISC 结束这个项目是因为它不是为可测试性设计的，修改代码的风险性非常高，因此过去几年它越来越少的修改代码，它创造了名叫 Kea 的新 DHCP 服务器程序，并建议使用旧版本的用户切换到该版本或其它替代。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC 出货量三季度同比下降近 20%]]></title>
-        <id>https://www.solidot.org/story?sid=73019</id>
-        <link href="https://www.solidot.org/story?sid=73019"/>
-        <updated>2022-10-11T07:54:58.000Z</updated>
-        <summary type="html"><![CDATA[Gartner 的数据显示，第三季度全球 PC 出货量同比下降 19.5%，创下 20 多年来的最大降幅。最近一个季度的PC 出货量为 6,800 万台，低于上年同期的 8,450 万台。“本季度的出货结果可能标志着 P C市场的历史性放缓，”Gartner 分析师 Mikako Kitagawa 表示。另一家数据提供商 IDC 说，第三季度全球 PC 发货量下降了 15%，总发货量为 7,430 万台，但发货量仍高于疫情前水平。两家公司计算数据的方式略有不同。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[统计显示大规模抗议活动的成功率越来越低]]></title>
-        <id>https://www.solidot.org/story?sid=73018</id>
-        <link href="https://www.solidot.org/story?sid=73018"/>
-        <updated>2022-10-11T07:48:43.000Z</updated>
-        <summary type="html"><![CDATA[哈佛大学研究人员根据过去几十年的数据进行分析发现，大规模抗议活动的成功率过去二十年越来越低。在 20 世纪的大部分时间里，大规模抗议活动变得越来越普遍，且越来越容易取得成功。到 2000 年代初，要求进行系统性变革的抗议运动中有三分之二最终取得了成功。在 2000 年代的中点附近，趋势开始逆转。到 2010 年代末，尽管抗议活动继续变得越来越普遍，但成功率却减半，降至三分之一。2020 年代初的数据表明，它可能已经再次减半，降至六分之一。专家们认为，有几股广泛的力量推动了这一趋势。一方面，两极分化在世界范围内日益普遍，收入不平等、民族主义态度、碎片化的新闻媒体和其他力量加深了跨越社会和政治界限的分歧。在过去，活动人士可能会花费数月或数年的时间来建立发起大规模抗议所必需的组织结构以及与现实世界的联系。这也使运动得以持久进行，同时逐渐树立纪律和指挥系统。社交媒体使得潜在的抗议者可以跳过这些步骤，只需一条广为传播的帖子就可以激发彼此采取行动。结果，成千上万甚至上百万人一夜之间聚集街头——但消散的速度同样很快。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家在癌症肿瘤中发现真菌]]></title>
-        <id>https://www.solidot.org/story?sid=73017</id>
-        <link href="https://www.solidot.org/story?sid=73017"/>
-        <updated>2022-10-11T07:41:49.000Z</updated>
-        <summary type="html"><![CDATA[人类与微生物和谐共处，每个人身上能寄宿大约 39 万亿细菌真菌之类的微生物。根据最近发表的两项研究，科学家还在癌症肿瘤中发现了真菌。发表在《细胞》期刊的一项研究中，研究小组在所有 35 种癌症中发现了真菌。在《细胞》同一天发表的另一篇论文中，研究人员从身体七个部位的肿瘤中发现了真菌。研究人员估计，部分肿瘤每 1000 到 10000 个癌细胞就有一个真菌细胞。研究人员使用的样本没有尽可能避免真菌感染，因此需要更多研究，包括研究在无菌环境下收集的样本是否能得出相同的结论。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费虚拟机软件 VirtualBox 7.0 发布，距离上一个大版本发布已相隔 4 年]]></title>
-        <id>https://www.appinn.com/?p=43585</id>
-        <link href="https://www.appinn.com/virtualbox-7-0/"/>
-        <updated>2022-10-11T07:30:56.000Z</updated>
-        <summary type="html"><![CDATA[VirtualBox 是一款著名的跨平台虚拟机软件，昨日（2022-10-10）正式发布 VirtualBox 7.0 版本，距离上一个大版本 6.0 发布已相隔 4 年。新版本带来了完全加密的虚拟机]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stoke Space 试图设计出完全可重复使用的火箭]]></title>
-        <id>https://www.solidot.org/story?sid=73016</id>
-        <link href="https://www.solidot.org/story?sid=73016"/>
-        <updated>2022-10-11T06:59:15.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX 的 Falcon 9 火箭展现了重复使用第一级的方法，但火箭的第二级是否也能重复使用？由前 Blue Origin BE-3 引擎项目总监 Andy Lapsa 等人联合创办的 Stoke Space 试图解决这个问题，设计出完全可重复使用的火箭。Stoke 目前筹集到了逾一亿美元，它在上个月公布了火箭上面级引擎试点火视频，展现了一种实现复用第二级的新颖设计：一个环形结构上的 15 个推进器喷嘴持续喷射数秒。Stoke 的环形结构由 30 个推进器组成，测试只点燃了其中的 15 个。在真空中这些喷嘴释放出的羽流可作为一个整体行动，在大气层中它们可用于支持垂直降落。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 再次遭遇无法拨打急救电话的问题]]></title>
-        <id>https://www.solidot.org/story?sid=73015</id>
-        <link href="https://www.solidot.org/story?sid=73015"/>
-        <updated>2022-10-11T06:19:40.000Z</updated>
-        <summary type="html"><![CDATA[去年底，一位 Google Pixel 3 用户在祖母疑似中风时尝试拨打紧急救助电话 911 结果在铃声响了一下之后就卡死了。调查发现 bug 是微软协作工具 Teams 应用触发的。现在 Google Pixel 手机用户通过社交网站 Reddit 和 Google 官方支持论坛再次报告了相似的问题：拨打急救电话时无法完成连接。急救电话通常是在紧急情况下才会拨打的，无法拨打急救电话可能会产生严重后果。受影响的手机型号为 Pixel 6a 和 Pixel 6，暂时不清楚原因。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LESLIE NOTE / 桌面便签 – 本地笔记软件，支持 WebDAV 同步[Windows]]]></title>
-        <id>https://www.appinn.com/?p=43579</id>
-        <link href="https://www.appinn.com/leslie-note/"/>
-        <updated>2022-10-11T04:37:27.000Z</updated>
-        <summary type="html"><![CDATA[LESLIE NOTE 是一款 Windows 下的本地笔记软件，自带一个桌面便签，数据保存在本地，开发者强调「你的笔记只属于你自己」。@Appinn 来自发现频道，开发者自荐： LESLIE NOT]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国陆军将使用 Google Workspace 服务]]></title>
-        <id>https://www.solidot.org/story?sid=73014</id>
-        <link href="https://www.solidot.org/story?sid=73014"/>
-        <updated>2022-10-11T03:41:12.000Z</updated>
-        <summary type="html"><![CDATA[2019 年美国国防部授予微软的 100 亿美元 JEDI（Joint Enterprise Defense Infrastructure）云计算合同引发了争议，最终导致合同被撤回。五角大楼随后采取了多元化云计算供应商的策略，不再限于单个云服务商。美国陆军此前已经采购了微软的 Office 365，但有 25 万士兵没有包含在 Office 365 授权方案中。现在 Google 官方博客宣布这 25 万士兵将使用它的 Google Workspace 服务，称美国陆军是其 Google Public Sector 的首个大客户。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VirtualBox 7.0.0 释出支持完全加密]]></title>
-        <id>https://www.solidot.org/story?sid=73013</id>
-        <link href="https://www.solidot.org/story?sid=73013"/>
-        <updated>2022-10-11T02:51:45.000Z</updated>
-        <summary type="html"><![CDATA[虚拟机软件 VirtualBox 释出了 7.0.0 版本。主要新特性包括：支持完全加密，包括虚拟机配置日志和保存状态（CLI only）；云端虚拟机能被加入到 Virtual Machine Manager，像本地虚拟机那样控制；DirectX 11 3D 加速支持；Secure Boot 支持；通过 Network Manager 工具配置云端网络；等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yuri Milner 放弃俄罗斯国籍]]></title>
-        <id>https://www.solidot.org/story?sid=73012</id>
-        <link href="https://www.solidot.org/story?sid=73012"/>
-        <updated>2022-10-11T01:59:40.000Z</updated>
-        <summary type="html"><![CDATA[亿万富翁 Yuri Milner 周一宣布，他已正式放弃俄罗斯国籍，并在 8 月完成了这一过程。他在 2009 年创立了投资公司 DST Global，其投资的公司包括 Facebook、Twitter、Snapchat、Airbnb 和小米。Milner 在其网站上说，自 1999 年以来他一直是以色列公民，他们一家自 2014 年以来一直住在加利福尼亚州。Milner 在其网站上说，他在俄罗斯没有任何资产，自 2014 年以来就没有去过那里，他 97% 的个人财富是在俄罗斯以外创造的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
