@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43712",
+          "author": "青小蛙",
+          "description": "来自 @LambertCrofts 同学的帖子：终于把右键新建菜单搞整齐了。 对于强迫症患者来说，看到上图左侧的样式，真不能忍，为什么 PPT 全称那么长？就不能短一些么？ 可以的。但需要…",
+          "link": "https://www.appinn.com/context-menu-change-name-win10/",
+          "publishedOn": "2022-10-24T05:45:58.000Z",
+          "wordCount": 2474,
+          "title": "终于把右键新建菜单搞整齐了，强迫症患者福音：Windows 10 右键新建菜单重命名",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/context-menu-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43704",
           "author": "青小蛙",
           "description": "Swift Backup 是一款用来备份 Android 手机重要数据的应用，可以备份应用、短信、通话记录、壁纸，甚至可以保留应用更新后的旧版本应用，以便将来降级安装。另外在 root 之后将获得更多",
@@ -150,16 +160,6 @@
           "wordCount": 2348,
           "title": "利用 Windows 10/11 原生语音输入功能，实现无限量、免费「语音转文字」",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/Speech-to-Text.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43628",
-          "author": "青小蛙",
-          "description": "GoodSync 是一款老牌的数据同步工具，支持在 Windows、macOS、Linux 之间同步数据，以及在 iOS、Android 设备上读取数据。近日新版本 GoodSync 12 首次限免，",
-          "link": "https://www.appinn.com/goodsync-12/",
-          "publishedOn": "2022-10-15T04:56:08.000Z",
-          "wordCount": 2384,
-          "title": "GoodSync 12 首次限免，跨平台文件同步工具",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/GoodSync-12.jpg"
         }
       ]
     },
@@ -168,6 +168,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=374364",
+          "author": "Sacha Greif",
+          "description": "As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …\nIs There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/is-there-too-much-css-now/",
+          "publishedOn": "2022-10-24T12:59:16.000Z",
+          "wordCount": 2239,
+          "title": "Is There Too Much CSS Now?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364"
+        },
         {
           "id": "https://css-tricks.com/?p=374194",
           "author": "Temani Afif",
@@ -227,16 +237,6 @@
           "wordCount": 2406,
           "title": "Pure CSS Bezier Curve Motion Paths",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/373600"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374393",
-          "author": "Haley Mills",
-          "description": "Well, hey, welcome back to Behind the CSScenes! These posts are like little check-ins we’re doing each month to give you a peek behind what we’re doing here at CSS-Tricks, as well as a chance for us to pause …\nBehind the CSScenes, October 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/behind-the-csscenes-october-2022/",
-          "publishedOn": "2022-10-14T21:40:26.000Z",
-          "wordCount": 1627,
-          "title": "Behind the CSScenes, October 2022",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374393"
         }
       ]
     },
@@ -245,6 +245,16 @@
       "feedUrl": "http://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html",
+          "author": null,
+          "description": "[海报] 稀土掘金正在面向全国举办\"首届编程挑战赛\"，这是展示自己作品的好机会，详情见文后。...",
+          "link": "http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html",
+          "publishedOn": "2022-10-25T00:20:07.000Z",
+          "wordCount": 532,
+          "title": "羊了个羊，如何自己实现（暨\"码上掘金\"编程挑战赛介绍）",
+          "imageUrl": null
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2022/10/git-server.html",
           "author": null,
@@ -299,6 +309,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73155",
+          "author": null,
+          "description": "Linus Torvalds 表达了从内核移除对英特尔 i486 处理器支持的意愿。Linux 内核在十年前移除对 i386 的支持后，i486 是内核主线对 x86 架构支持的最低版本，Linus Torvalds 认为应该让 x86-32 架构支持的最低版本提高到 cmpxchg8b，即奔腾及更高版本。他指出 i486 已经被视为可以在博物馆里展示的展品，不如让它们运行博物馆版本的内核。",
+          "link": "https://www.solidot.org/story?sid=73155",
+          "publishedOn": "2022-10-24T16:20:19.000Z",
+          "wordCount": 176,
+          "title": "Linux 考虑淘汰对英特尔 i486 CPU 的支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73154",
+          "author": null,
+          "description": "美国国家教育进展评估(NAEP)的数据显示，美国四年级和八年级学生的数学分数出现大幅下滑。这一结果被认为与疫情期间推动的远程学习有关联。远程学习让学生在家中学习功课，而家庭的学习氛围需要学生有强大的自制力和专注，对于大部分中小学生来说，这个要求可能过高了。NAEP 称，2022 年美国四年级学生的数学平均分比 2019 年下降了 5 分，低于 2005 年以来的所有年份；八年级学生的数学平均分比 2019 年下降了 8 分，低于 2003 年以来的所有年份。",
+          "link": "https://www.solidot.org/story?sid=73154",
+          "publishedOn": "2022-10-24T15:50:21.000Z",
+          "wordCount": 157,
+          "title": "美国学生的数学成绩出现大幅下滑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73153",
+          "author": null,
+          "description": "都说早起的鸟儿有虫子吃，但在远程工作时代人们不早起了，很多人要到 9 点才起床。这并没有影响到他们的业绩表现。28 岁的 Vivian Tu 是前华尔街交易员，她在疫情期间创办了自己的媒体品牌 Your Rich BFF，并获得了 7 位数的收入，她从未在 9 点之前起床。睡眠专家 Chris Barnes 不喜欢“早睡早起，使人健康、富有、明智”的格言，认为企业高管们是在玩弄早晨工作更好的虚假印象。一部分人是夜猫子，早起是强迫他们与自己的昼夜节律作斗争。远程工作改变了这一切。Ruth Kraft 是一家律所合伙人，也是一位前法官，她很高兴 Zoom 会议取代了线下会议，让她可以睡到最后一分钟。而在疫情之前她需要在早上 7:30 离开家，赶到城里开 10 点的庭会。Barnes 呼吁企业高管们尊重每个人的时间表，尽可能推行异步工作。",
+          "link": "https://www.solidot.org/story?sid=73153",
+          "publishedOn": "2022-10-24T11:12:32.000Z",
+          "wordCount": 168,
+          "title": "远程工作员工不早起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73152",
+          "author": null,
+          "description": "日本宇宙航空研究开发机构（JAXA)等宣布，从探测器“隼鸟2号”带回的小行星“龙宫”沙粒样本中检测出了气体。其中包括稀有气体氦和氖等，据悉将小行星的气体直接带回地球在全世界尚属首次。 相关论文发表在《Science Advances》杂志上。研究人员还检测出了氮和氩，但因与地球的气体特征类似，很可能是返回后混进了地球空气。检测出的氦和氖与地球的气体特征有所不同，可能是被太阳风带到小行星表面。",
+          "link": "https://www.solidot.org/story?sid=73152",
+          "publishedOn": "2022-10-24T10:20:26.000Z",
+          "wordCount": 145,
+          "title": "小行星龙宫沙粒样本中检测出气体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73151",
+          "author": null,
+          "description": "根据发表在《Nature Communications》期刊上的一项研究，新加坡南洋理工大学(NTU Singapore)的科学家们发现，当细胞中的应激反应在生殖后年龄“启动”时，可能是减缓衰老和延长寿命的关键。在对一种与人类相似的线虫进行的实验室实验中，新加坡南洋理工大学的研究团队发现，与正常饮食的线虫相比，通过给年老的线虫喂食高葡萄糖食物，开启这种应激反应，可以延长它们的寿命。这是第一次发现压力反应和衰老之间的联系。科学家表示，“虽然我们的研究发现，高糖饮食可能有助于延缓衰老，促进老年线虫的寿命，但我们不建议老年人现在转向高糖饮食。”",
+          "link": "https://www.solidot.org/story?sid=73151",
+          "publishedOn": "2022-10-24T09:46:09.000Z",
+          "wordCount": 145,
+          "title": "新加坡研究发现高糖饮食有助于延长线虫寿命",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73150",
+          "author": null,
+          "description": "一名黑客入侵了歌手 Ed Sheeran 的账号窃取了两首未发行歌曲然后在暗网出售。他被判处 18 个月的监禁。23 岁的 Adrian Kwiatkowsk 入侵了 Sheeran 和说唱歌手 Lil Uzi Vert 等人的账号，从窃取的未发行歌曲中获得了 131,000 英镑，他承认了 19 项指控，包括版权侵犯和占有犯罪财产。美国最早是在 2019 年启动了对名叫 Spirdark 的黑客的调查，这名黑客入侵了歌手的账号，然后到暗网出售未发行歌曲。调查人员将 Spirdark 加密货币账户的电邮地址与 Kwiatkowski 关联起来，他入侵歌手账号时使用的一个 IP 地址也能关联到其家庭地址。他在 2019 年 9 月被英国警方逮捕，从扣押的设备硬盘中发现了 1263 首未发行歌曲。硬盘上的文件还记录了他窃取歌曲的方法，以及比特币钱包地址。",
+          "link": "https://www.solidot.org/story?sid=73150",
+          "publishedOn": "2022-10-24T08:58:11.000Z",
+          "wordCount": 187,
+          "title": "入侵歌手账号窃取未发现歌曲的黑客被判 18 个月",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73149",
+          "author": null,
+          "description": "伊朗原子能机构周日指控黑客组织入侵了一家子公司的网络，访问了电邮系统。同一天一个匿名黑客组织宣称对攻击负责，要求伊朗释放最近因为抗议而逮捕的政治犯。这个自称 Black Reward 的黑客组织称它泄露了 50GB 的内部电邮、合同和与位于 Bushehr 的核电站相关的施工计划。它通过其 Telegram 频道上分享了文件。暂时还不清楚其中是否包含机密材料。",
+          "link": "https://www.solidot.org/story?sid=73149",
+          "publishedOn": "2022-10-24T07:58:56.000Z",
+          "wordCount": 156,
+          "title": "黑客组织入侵伊朗核电企业的电邮系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73148",
+          "author": null,
+          "description": "最大的 PC 数字游戏平台 Steam 同时在线人数突破了三千万，创造了新的记录。Valve 旗下的 Steam 平台诞生于 2003 年，截至 2015 年它的注册用户数达到 1.25 亿，峰值在线玩家数突破一千万，2017 年在线峰值突破 1700 万，2020 年 3 月突破两千万，仅仅两年半之后的 10 月 24 日突破了三千万，在线玩家数增加了 50%。同时在线人数并不意味着所有登陆用户都在玩游戏，事实上游戏只是 Steam 服务的一部分，它的社交功能如游戏评价和论坛都对用户有着巨大的黏性。SteamDB 的数据显示峰值时有 850 万玩家在玩游戏。",
+          "link": "https://www.solidot.org/story?sid=73148",
+          "publishedOn": "2022-10-24T07:00:44.000Z",
+          "wordCount": 176,
+          "title": "Steam 同时在线人数突破三千万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73147",
+          "author": null,
+          "description": "Facebook 母公司 META 警告加拿大，准备像去年在澳大利亚做的那样，阻止加拿大新闻内容的分享，除非自由党政府修改迫使大型数字公司对国内媒体机构进行补偿的立法。加拿大议会的一个委员会正在审查这项立法，议员们上周投票决定停止听取证人的进一步证词。Facebook 向加拿大发出的通知可能会引发去年在澳大利亚围绕媒体补偿问题展开的那种利害攸关的斗争。Facebook 在澳大利亚屏蔽其平台上的新闻的行动在五天后结束，该公司和政府达成了一项协议，官员们同意放松实际上要求 Facebook 支付费用的规定，以换取这家社交媒体公司恢复内容。Facebook 的策略招致了世界各地立法者的批评。",
+          "link": "https://www.solidot.org/story?sid=73147",
+          "publishedOn": "2022-10-24T03:38:55.000Z",
+          "wordCount": 156,
+          "title": "Facebook 威胁禁止加拿大新闻分享",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73146",
           "author": null,
@@ -1068,46 +1168,6 @@
           "wordCount": 185,
           "title": "猎天使魔女声优发声否认开发商说法呼吁抵制",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73068",
-          "author": null,
-          "description": "马斯克(Elon Musk)说，在乌克兰维护 Starlink 终端的费用每月接近 2,000 万美元，SpaceX 无法无限期地资助这项服务。马斯克说，在乌克兰的服务已耗费了SpaceX 8,000万美元，到今年年底这一数字将超过 1 亿美元。他在周五的一系列推文中说，SpaceX 无法自行继续资助该项目的运行成本。CNN 的调查显示，在乌克兰的 Starlink 终端大约有 2 万个，其中 85%  是由美国波兰等国家和实体捐赠的，其中波兰最多捐赠了 9 千个终端，美国捐赠了 1,700 个，其余由英国、NGO 和众筹捐赠。这些国家和组织还支付了 30% 的网络连接费用。 Starlink 的网站称最便宜的服务只要每个月 60 美元，但它声称在乌克兰提供的是最高级的服务，每月每终端需要 4500 美元。",
-          "link": "https://www.solidot.org/story?sid=73068",
-          "publishedOn": "2022-10-15T11:39:56.000Z",
-          "wordCount": 181,
-          "title": "马斯克要求五角大楼支付 Starlink 费用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73067",
-          "author": null,
-          "description": "本月初，SpaceX 的 Crew Dragon 飞船完成 Crew-5 任务，将四名宇航员送入国际空间站。自 2020 年以来，包括演示飞行和两次私人太空飞行——Inspiration4 和 Axiom-1，Crew Dragon 共将 30 名宇航员送入轨道，超过了中国神舟飞船 2003 年至今的所有入轨人数，也超过了俄罗斯联盟号飞船过去两年运送的宇航员总数。Crew-5 是今年 Crew Dragon 飞船的最后一次任务，明年第一季度它将执行两次载人飞行任务。",
-          "link": "https://www.solidot.org/story?sid=73067",
-          "publishedOn": "2022-10-15T10:51:09.000Z",
-          "wordCount": 171,
-          "title": "Crew Dragon 过去两年运送的宇航员数量超过其他国家",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73066",
-          "author": null,
-          "description": "Propublica 的调查披露了一个在北美和亚洲运作的地下钱庄，将墨西哥毒枭在美国贩毒所得洗白，帮助华人富豪在美国获得能使用的美元，可用于购买房地产或支付美国大学费用。墨西哥毒枭为美国市场供应了各种毒品，但如何将贩毒所得汇到墨西哥？美国缉毒局的特工在调查中发现了一位扮演中间人角色的华人 Xizhi Li。调查人员发现墨毒枭在美国的成员会将一箱子现金送到唐人街给接头人，接头人没有任何犯罪记录，或者是学生或者是服务员或者是司机，他们使用的暗号是一张美元纸币序列号照片。调查发现了一个在亚洲和美洲运作的地下钱庄。Li 的系统是这样运作的：毒贩在美国给接头人一箱美元，接头人向 Li 发送照片确认，Li 的墨西哥的组织会在一天内将等价的墨西哥比索送给毒枭，整个过程堪比银行转账，Li 只收取 2% 的佣金；在美国购买房地产的华人富豪从 Li 手中购买美元；富豪将人民币转给 Li 在中国控制的银行账号，Li 会在这一过程中收取 10% 甚至更高的佣金；Li 向需要在中国购买商品的墨西哥公司提供人民币；墨西哥公司将比索或美元支付给 Li，整个交易完成，钱被洗白。Li 于 2019 年在墨西哥被捕，被引渡到美国，被判 15 年徒刑。",
-          "link": "https://www.solidot.org/story?sid=73066",
-          "publishedOn": "2022-10-15T10:05:41.000Z",
-          "wordCount": 167,
-          "title": "墨西哥毒枭与华人地下钱庄合作洗钱",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73065",
-          "author": null,
-          "description": "英伟达上个月宣布了三款中高端显卡：GeForce RTX 4090，16384 个 CUDA Cores，频率 2.52 GHz，GDDR6X 显存 24 GB，售价 1599 美元，10 月 12 日发售；GeForce RTX 4080 (16GB)售价 1199  美元，GeForce RTX 4080 (12GB)售价 899 美元。其中两款 RTX 4080 的命名听起来似乎主要区别是显存大小，但实际上两者的架构也存在巨大差异，英伟达的命名引发了批评和争议。在争议之后，英伟达现在直接宣布 RTX 4080 12GB 显卡不发布了。可能是要改名为 RTX 4070 了。",
-          "link": "https://www.solidot.org/story?sid=73065",
-          "publishedOn": "2022-10-15T03:15:48.000Z",
-          "wordCount": 194,
-          "title": "英伟达取消发布 RTX 4080 12GB 显卡",
-          "imageUrl": null
         }
       ]
     },
@@ -1176,18 +1236,7 @@
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
-      "articles": [
-        {
-          "id": "https://catonmat.net/if-you-blank-they-will-blank",
-          "author": null,
-          "description": "Hint: build, come.\nwww.onlineLISTtools.com\nBuild too and see you next time!",
-          "link": "https://catonmat.net/if-you-blank-they-will-blank",
-          "publishedOn": "2022-10-14T17:30:00.000Z",
-          "wordCount": 118,
-          "title": "Complete the sentence: If you __, they will __.",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Discover Dev",
