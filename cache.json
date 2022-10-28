@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43763",
+          "author": "青小蛙",
+          "description": "来自微博的同学提问： 能推荐个电视用的投屏软件吗，免费无广告，能投1080以上画质，支持协议尽量多一点吧。 这真是一个好问题，其实好像并没有标准答案。 因为一些视频 app 自身限制，比如爱奇艺、腾讯",
+          "link": "https://www.appinn.com/how-to-cast-screen-in-android-tv/",
+          "publishedOn": "2022-10-27T08:48:50.000Z",
+          "wordCount": 2292,
+          "title": "求推荐 Android 电视投屏应用，最好免费、无广告、多协议，以及 1080+ 以上",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/how-to-cast-screen.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=43758",
+          "author": "青小蛙",
+          "description": "Skim 是一款 macOS 上老牌的开源 PDF 阅读器和标注工具，主要用来阅读和注释 PDF 科学论文，当然也可以仅当作 PDF 阅读器使用，支持笔记、高亮、放大镜、删除线、突出、箭头等标注工具。",
+          "link": "https://www.appinn.com/skim-app/",
+          "publishedOn": "2022-10-27T07:28:36.000Z",
+          "wordCount": 2348,
+          "title": "Skim – 轻量级带标注的开源 PDF 阅读器[macOS]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/skim.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43719",
           "author": "开发者推荐账号",
           "description": "Obsidian 是一款强大的可扩展的知识库软件，它可以帮你管理本地的 .md 文件，并让这些文件以链接的方式互相连接起来，被誉为你永远的第二个大脑。 简悦则是一款适配了很多很多网站的开源沉浸式阅读扩",
@@ -145,26 +165,6 @@
           "wordCount": 2418,
           "title": "Les Pas – Nextcloud 私有云第三方相册应用[Android]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/Les-Pas-Nextcloud.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43653",
-          "author": "青小蛙",
-          "description": "Douban Book+ 是一款浏览器扩展，支持 Chrome、Edge、Firefox，它能为豆瓣读书页面添加微信读书、Kindle、多看、蜗牛等在线资源链接，最新版本添加了 Zlibrary 链接",
-          "link": "https://www.appinn.com/douban-book-plus/",
-          "publishedOn": "2022-10-18T04:40:15.000Z",
-          "wordCount": 2303,
-          "title": "Douban Book+ – 为豆瓣读书页面添加微信读书、Kindle、多看、蜗牛等在线资源链接",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/Douban-Book-plus.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43649",
-          "author": "青小蛙",
-          "description": "来自问题频道 @fengwhen 同学的自问自答： Android 设备上，有什么应用可以长按 Home 键熄屏的？ 如题。手机有一个实体 Home 键，希望能长按 Home 键熄屏，这样就不用去按电",
-          "link": "https://www.appinn.com/lockoo-home-close-screen/",
-          "publishedOn": "2022-10-18T03:03:59.000Z",
-          "wordCount": 2345,
-          "title": "老 Android 设备，如何长按 Home 键熄屏？",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/home-close-screen.jpg"
         }
       ]
     },
@@ -242,16 +242,6 @@
           "wordCount": 1419,
           "title": "How to Make a Folder “Slit” Effect With CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374376"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374466",
-          "author": "Geoff Graham",
-          "description": "By way of a post by Manuel Matuzović which is by way of a demo by Temani Afif.\n.wrapper {\n  margin-inline: max(0px, ((100% - 64rem) / 2)); \n}\nYou’d be doing yourself a favor to read Manuel’s breakdown of …\nManuel Matuzovic: max() Trickery originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/manuel-matuzovic-max-trickery/",
-          "publishedOn": "2022-10-18T13:54:38.000Z",
-          "wordCount": 940,
-          "title": "Manuel Matuzovic: max() Trickery",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374466"
         }
       ]
     },
@@ -260,6 +250,16 @@
       "feedUrl": "http://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html",
+          "publishedOn": "2022-10-28T00:11:45.000Z",
+          "wordCount": 1056,
+          "title": "科技爱好者周刊（第 228 期）：人类和人生的意义",
+          "imageUrl": null
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2022/10/sheep-n-sheep.html",
           "author": null,
@@ -314,6 +314,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73192",
+          "author": null,
+          "description": "美国联邦检方起诉了一位运营恶意程序即服务的 26 岁乌克兰男子 Mark Sokolovsky。他运营的 Raccoon 是一种窃取敏感信息的恶意程序，以相当于 200 美元的加密货币月费提供给客户，Sokolovsky 及其同伙向客户提供恶意程序、基础设施和技术支持。客户使用该服务感染目标，窃取电邮和银行账户、信用卡、加密货币钱包和其它私人信息相关的凭证。它支持 29 种基于 Chromium 浏览器，Mozilla apps，来自 Exodus 和 Jaxx 的钱包。恶意软件用 C++ 编写，支持屏幕截图。一旦从被感染的机器上提取所有数据，它会卸载并删除所有痕迹。美国检方称，有 200 万用户的数据被盗，他们从被盗的数据中发现了逾 5000 万个凭证和身份证明。Sokolovsky 于今年 3 月在荷兰被捕。",
+          "link": "https://www.solidot.org/story?sid=73192",
+          "publishedOn": "2022-10-27T15:45:48.000Z",
+          "wordCount": 170,
+          "title": "美国起诉一位运营恶意程序即服务的乌克兰男子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73191",
+          "author": null,
+          "description": "提供自托管 Git 版本控制平台的 Gitea 项目宣布成立公司 Gitea Limited 以对该项目提供更好的支持。Gitea 项目会继续开源并继续采用社区治理模式，通过成立公司项目将能为部分维护者提供兼职工作，未来有望扩大为全职工作，并雇佣更多维护者。他们还计划成立基金。Gitea 源自于 Gogs，因为 Gogs 控制在单个维护者手中，他不太乐意接受外部贡献，因此在 2016 年一群开发者创建了 Gogs 分支 Gitea，该项目在开发上比 Gogs 更为活跃功能也更为丰富。",
+          "link": "https://www.solidot.org/story?sid=73191",
+          "publishedOn": "2022-10-27T15:28:01.000Z",
+          "wordCount": 166,
+          "title": "Gitea 项目成立公司",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73190",
+          "author": null,
+          "description": "日本富士通、NEC 和日立等公司加大了对 量子计算机的研发投资。富士通计划到明年造出有 64 个量子位的通用型量子计算机实机，力争 2026 年度后实现 1000 个量子位。NEC 则专注于被称为量子退火(annealing)的特化型量子计算机，可高速解答“组合优化”的问题，比如从多条候选路径中选出最高效的物流路线等。量子退火能更早实现实用化。日立则计划到 2030 年实现 100 万量子位规模。",
+          "link": "https://www.solidot.org/story?sid=73190",
+          "publishedOn": "2022-10-27T10:58:56.000Z",
+          "wordCount": 156,
+          "title": "日本加大量子计算机研发投资",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73189",
+          "author": null,
+          "description": "UC Irvine 的三位研究人员在 arXiv 上发表了一篇预印本，描述了一种扩散致命病原体的新颖攻击。为了防止致命病原体泄露，生物实验室或传染病控制医院会要求使用名为负压室（Negative Pressure Room 或 简写 NPR）的设备，其内部维持负压，将微生物控制在 NPR 内部。实验室或医院会使用差压传感器（DPS）去监视和控制 NPR 的负压。研究人员报告，他们可以利用流行音乐在 DPS 中制造共振导致其读数超标，使其负压变成正压，导致潜在致命的病原体从 NPR 设备中泄露出来。研究人员在一个未具名的生物研究机构演示了他们的攻击。",
+          "link": "https://www.solidot.org/story?sid=73189",
+          "publishedOn": "2022-10-27T10:48:29.000Z",
+          "wordCount": 160,
+          "title": "披着羊皮的狼：利用流行乐扩散致命病原体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73188",
+          "author": null,
+          "description": "一位被媒体冠名为世界最肮脏男子的隐居者以 94 岁高龄去世。Amou Haji 拒绝使用肥皂和水，担心这会让他生病。这名伊朗男子居住在法尔斯省（Fars），他在半个多世纪里都没有清洗过。几个月前他在外界的压力下首次清洗，伊朗 IRNA 新闻社报道称，他不久就生病了，于上周日去世。他此前告诉媒体他选择避世和不清洗是因为年轻时的情感挫折，因为长年不清洗他的皮肤上覆盖了碳烟和脓，而他的饮食包括了腐肉和不卫生的水。",
+          "link": "https://www.solidot.org/story?sid=73188",
+          "publishedOn": "2022-10-27T09:50:51.000Z",
+          "wordCount": 157,
+          "title": "世界最“肮脏”男子以 94 岁高龄去世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73187",
+          "author": null,
+          "description": "Google 上线了一个工具，允许用户从搜索结果中移除个人身份信息。Google 在帮助文档中解释说，所谓个人身份信息包括具有保密性质的由政府签发的身份证件 (ID) 号码如中国的居民身份证，银行账号，信用卡号，手写签名的图片，身份证件图片，高度私人化且限制获取的官方记录，例如医疗记录，个人联系信息（实际地址、电话号码和电子邮件地址）等，用户在递交身份信息移除请求之后需要经过一段时间的审核，如果提供的信息不足 Google 会要求重新提交要求。",
+          "link": "https://www.solidot.org/story?sid=73187",
+          "publishedOn": "2022-10-27T08:54:42.000Z",
+          "wordCount": 157,
+          "title": "现在用户可以请求 Google 移除个人身份信息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73186",
+          "author": null,
+          "description": "过去二十年，苹果的股价增长了 600 倍，市值达到了 2.4 万亿美元。它在很大程度上得益于来自中国的供应链。但苹果目前正在从中国走向南亚和东南亚。苹果最大供应商中有 150 家在中国有生产设施。库克(Tim Cook)在 2011 年成为 CEO 前担任公司运营主管，他是中国的常客。他最近一段时间一直在招揽新合作伙伴。今年五月他在苹果总部招待了越南总理 Pham Minh Chinh (范明政)。明年苹果预计将在印度开设第一家实体店。越南和印度是苹果供应链转移的主要受益者。",
+          "link": "https://www.solidot.org/story?sid=73186",
+          "publishedOn": "2022-10-27T08:31:01.000Z",
+          "wordCount": 158,
+          "title": "苹果从中国走向南亚和东南亚",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73185",
+          "author": null,
+          "description": "欧盟本周一批准了通用充电器接口法案，要求包括智能手机在内的特定设备标准化充电接口，统一采用 USB-C。本周二，苹果全球营销高级副总裁 Greg Joswiak 告诉 Wall Street Journal Tech Live 的与会者，苹果将遵守这一规定，虽然该公司对此仍然持有反对意见。苹果的 MacBook 和 iPad 都采用了 USB-C 接口，但 iPhone 系列一直使用私有的 Lightning 接口。欧盟的最新规定要求企业在 2024 年前遵守这一规定，它适用于新产品不适用于旧产品，也就是苹果可以继续销售采用  Lightning 接口旧型号 iPhone 手机。",
+          "link": "https://www.solidot.org/story?sid=73185",
+          "publishedOn": "2022-10-27T07:31:38.000Z",
+          "wordCount": 177,
+          "title": "苹果确认将采用 USB-C 接口",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73184",
+          "author": null,
+          "description": "印度政府拟议中的法案将授予其拦截加密消息的权力，然而端对端加密是无法拦截的，因此法案还要求提供端对端加密的企业帮助解密或拦截消息。提供端对端加密消息服务的 Signal 明确表示它不会帮助印度。Signal 总裁 Meredith Whittaker 接受采访时表示，如果印度要求强制解密或植入加密后门，Signal 将会退出印度市场。",
+          "link": "https://www.solidot.org/story?sid=73184",
+          "publishedOn": "2022-10-27T06:55:54.000Z",
+          "wordCount": 154,
+          "title": "Signal 表示拒绝帮助解密考虑退出印度市场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73183",
+          "author": null,
+          "description": "苹果正在开发该公司至今尺寸最大的平板电脑，进一步模糊与笔记本电脑 MacBook 之间的界限。新款的 16 英寸 iPad 预计将在明年第四季度发售，其屏幕大小与 MacBook 最大的型号一致，目前 iPad 屏幕最大为 12.9 英寸。",
+          "link": "https://www.solidot.org/story?sid=73183",
+          "publishedOn": "2022-10-27T05:29:39.000Z",
+          "wordCount": 167,
+          "title": "苹果开发 16 英寸 iPad",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73182",
+          "author": null,
+          "description": "特斯拉在自动驾驶功能上的潜在虚假宣传引发了美国司法部的刑事调查。这意味着它可能会对特斯拉公司或个别高管提起刑事指控。对于其自主驾驶功能 Full Self-Driving，特斯拉公司一方面宣传它可以允许司机不接触方向盘，但另一方面却在网站上警告客户必须把手放在方向盘上保持对汽车的控制。美国联邦和加州的安全监管机构都在审查特斯拉有关其自主驾驶功能的宣传是否让客户产生了虚假的安全感，将其视为完全自主驾驶汽车，在驾驶中过于自满而可能造成惨剧。美国司法部的检察官在调查特斯拉是否误导了消费者、投资者和监管机构。他们可能会或者不会提起正式的指控。",
+          "link": "https://www.solidot.org/story?sid=73182",
+          "publishedOn": "2022-10-27T04:54:42.000Z",
+          "wordCount": 145,
+          "title": "美国司法部就自主驾驶功能宣传对特斯拉发起刑事调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73181",
+          "author": null,
+          "description": "特斯拉 CEO 马斯克(Elon Musk)在本周五的交易最后期限前访问了 Twitter 总部，还拍摄了一则视频显示他抱着一个水槽，他发帖说“Entering Twitter HQ - let that sink in!”，马斯克同时将个人简介改为 Chief Twit。马斯克需要在美国东部时间本周五前完成以 440 亿美元收购 Twitter 的交易，否则法庭审讯将会在下个月继续。马斯克本周已经通知了投资人，他计划在最后期限前完成交易。此前有报道称，马斯克计划在收购之后对 Twitter 进行大规模裁员。由于他收购  Twitter 一事所带来的不确定性，过去三个月已有至少  530 名 Twitter 雇员辞职，他们中的许多人去了 Google、Meta、Pinterest、LinkedIn 和 TikTok 等公司。",
+          "link": "https://www.solidot.org/story?sid=73181",
+          "publishedOn": "2022-10-27T03:30:57.000Z",
+          "wordCount": 189,
+          "title": "马斯克访问 Twitter 总部自称 Chief Twit",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73180",
           "author": null,
@@ -1142,136 +1262,6 @@
           "publishedOn": "2022-10-19T01:57:54.000Z",
           "wordCount": 163,
           "title": "Ubuntu 终端广告惹恼用户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73097",
-          "author": null,
-          "description": "因为难以预测的疫情相关因素，CCC（德国混沌计算机俱乐部）宣布取消今年的年度会议 37C3。CCC 称如果要举办大型会议，将需要遵守严格的卫生要求，复杂化后勤挑战，从而影响到整个活动的氛围。在与团队讨论之后 CCC 决定取消会议。取而代之的是 CCC 计划于 2023 年 8 月 15 日到 19 日在德国柏林附近的 Mildenberg 举办 Chaos Communication Camp。CCC 同时呼吁社区成员在年底举办本地的小型会议。",
-          "link": "https://www.solidot.org/story?sid=73097",
-          "publishedOn": "2022-10-18T13:11:15.000Z",
-          "wordCount": 171,
-          "title": "CCC 取消 37C3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73096",
-          "author": null,
-          "description": "赛门铁克的研究人员披露黑客组织 Winnti 入侵香港政府机构的网络长达一年时间。黑客使用了 Spyder Loader 后门的不同变种攻击目标，在感染的早期阶段 Spyder Loader 会加载 AES 加密的数据块创造下一阶段的有效负荷 wlbsctrl.dll。攻击者渗透之后还会部署窃取密码的恶意程序  Mimikatz 以更深入挖掘受害者的网络。研究人员认为攻击者的主要目标是收集情报。",
-          "link": "https://www.solidot.org/story?sid=73096",
-          "publishedOn": "2022-10-18T11:14:52.000Z",
-          "wordCount": 156,
-          "title": "黑客入侵香港政府机构网络",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73095",
-          "author": null,
-          "description": "德国总理朔尔茨(Olaf Scholz)令执政联盟中持对立意见的合作伙伴达成妥协，下令该国剩余的三座核电站将继续运行至 2023 年 4 月中旬。德国政府正努力避免今年冬天出现能源危机。这一举动表明朔尔茨实际上是在平息争论，以结束他在政府中的合作伙伴——绿党和自由民主党(FDP)——之间的冲突，这种冲突威胁到执政联盟的团结。德国原计划在今年 12 月 31 日前关闭剩余的三座核电站。自由民主党认为为避免能源危及应暂缓关闭，绿党则坚持要求按计划关闭。绿党的经济部长 Robert Habeck 后来在自由民主党的压力下退缩，宣布其中两座将暂缓关闭。但自由民主党仍然想要进一步延长三座核电站的使用寿命。总理现在介入以结束争吵。",
-          "link": "https://www.solidot.org/story?sid=73095",
-          "publishedOn": "2022-10-18T10:35:38.000Z",
-          "wordCount": 155,
-          "title": "德国三座核电站的运营时间将延长到明年四月",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73094",
-          "author": null,
-          "description": "根据彭博社亿万富翁指数，以路易威登等奢侈品牌闻名的法国公司 LVMH CEO Bernard Arnault 超过贝佐斯（Jeff Bezos）成为世界第二大富豪，他的净资产目前为 1330 亿美元，而贝佐斯为 1300 亿美元。他还因为经常使用私人飞机而受到批评，法国 Twitter 用户利用公开信息跟踪了他的私人飞机使用情况。但在上个月 Arnault 的飞机在法国取消了注册，他被认为在躲避。周一 Arnault 通过公司播客证实了此事，称 LVMH 卖掉了私人飞机，以后不会有人知道他去了哪里，他以后会租飞机出行。Arnault 家族的二少爷 Antoine Arnault 还表示让其他人知道公司飞机的位置可能会给竞争对手带来优势。",
-          "link": "https://www.solidot.org/story?sid=73094",
-          "publishedOn": "2022-10-18T10:19:41.000Z",
-          "wordCount": 166,
-          "title": "世界第二大富豪卖掉私人飞机以避开跟踪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73093",
-          "author": null,
-          "description": "九月份的芯片交付周期缩短了四天，显示供应紧张局面缓解了。从芯片订购到交货的交付周期在九月份为 26.3周，相比下之前一个月为 27 周。所有芯片产品类别的交付周期都在缩短，其中电源管理芯片和模拟芯片缩短幅度最大。过去一年的全球芯片短缺困扰着各行各业，汽车制造商等都在努力获得足够的半导体。但今天的芯片厂商担心的是相反的问题：库存过高。",
-          "link": "https://www.solidot.org/story?sid=73093",
-          "publishedOn": "2022-10-18T08:59:10.000Z",
-          "wordCount": 146,
-          "title": "芯片交付周期缩短显示供应紧张缓解",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73092",
-          "author": null,
-          "description": "Ugur Sahin a和 Özlem Türeci 夫妇共同创办了 BioNTech，该公司研发的 mRNA 疫苗是最成功的新冠疫苗之一。他们在接受 BBC 采访时对未来几年癌症疫苗上市持乐观态度。当被问及基于 mRNA 的癌症疫苗何时可以用于患者时，Sahin 表示，它们可能会在“2030 年之前”上市。mRNA 新冠疫苗通过将冠状病毒上无害的刺突蛋白的遗传指令输送到体内来发挥作用。这些遗传指令被大量产生刺突蛋白的细胞所接受，然后这些蛋白质或抗原能够告诉免疫系统的抗体和其他防御系统要搜索和攻击什么。Türeci 认为，可以采取同样的方法让免疫系统寻找和摧毁癌细胞。在新冠疫情暴发之前，BioNTech一直在研究 mRNA 癌症疫苗。但在疫情全球蔓延之后，该公司转而研发新冠疫苗。BioNTech 现在有几种癌症疫苗处于临床试验阶段。BioNTech 希望开发针对肠癌、黑色素瘤和其他癌症类型的治疗方法，但目前仍面临重大障碍。因为构成肿瘤的癌细胞中可能含有多种不同的蛋白质，使得制造针对所有癌细胞而不针对健康组织的疫苗变得极其困难。",
-          "link": "https://www.solidot.org/story?sid=73092",
-          "publishedOn": "2022-10-18T08:06:16.000Z",
-          "wordCount": 175,
-          "title": "BioNTech 创始人预测到 2030 年疫苗可能治疗癌症",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73091",
-          "author": null,
-          "description": "超加工食品（UPF）对健康有不利影响，可能会导致肥胖。但根据发表在《Nature Reviews Clinical Oncology》期刊上的一项研究，消费超加工食品带来的不利影响可能比以前认为的更多，会增加心血管疾病、痴呆症和结肠癌的风险。研究发现，1990 年后出生的人比 1970 年以前出生的人更有可能在 50 岁之前患上癌症，超加工食品可能是导致这一结果的风险因素。除新鲜水果和蔬菜外，几乎所有食品都经过某种程度的加工。超加工食品中的蛋白质和纤维含量较低，盐、糖和脂肪含量较高，经过挤压、成型和研磨等程序。",
-          "link": "https://www.solidot.org/story?sid=73091",
-          "publishedOn": "2022-10-18T07:56:03.000Z",
-          "wordCount": 151,
-          "title": "超加工食品可能比以前认为的更不健康",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73089",
-          "author": null,
-          "description": "在 Meta 等公司之后，微软确认因 PC 销售放缓而裁员。Axios 报道称微软在多个部门裁员近千人。受影响的部门包括 Xbox 和 Edge，涉及到多个地区。微软发言人称，和所有公司一样，我们会定期评估业务重点，并据此做出相应的结构调整。",
-          "link": "https://www.solidot.org/story?sid=73089",
-          "publishedOn": "2022-10-18T06:04:36.000Z",
-          "wordCount": 152,
-          "title": "微软裁员近千人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73088",
-          "author": null,
-          "description": "在一个内核版本发布之后，下一个版本会经历两周的补丁合并周期，之后关闭合并窗口进入预发布测试阶段。Linux 作者 Linus Torvalds 刚刚释出了 Linux 6.1 的首个 RC 版本，他同时呼吁内核开发者不要赶在截止日期前递交补丁。他说合并周期为两周是为了给他更多时间检查，不是让他们在第二周的周五匆忙把补丁发给他。在截止日期前通宵达旦写论文是高中生才会做的，从高中毕业之后就应该淘汰这种做法了。",
-          "link": "https://www.solidot.org/story?sid=73088",
-          "publishedOn": "2022-10-18T05:44:04.000Z",
-          "wordCount": 161,
-          "title": "Linus Torvalds 呼吁内核开发者不要在截止日期前递交补丁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73087",
-          "author": null,
-          "description": "周一开采一个比特币区块的时间花费了逾一个小时，导致上万笔交易停留在未确认状态。Foundry USA 和 Luxor 开采出的两个比特币区块之间的时间间隔为 85 分钟，期间逾 1.3 万笔交易等待确认。比特币上周经历了一次难度调整，确保区块确认每十分钟一次。随着开采难度的提升，比特币挖矿也变得愈加昂贵，给面对能源价格飙升和熊市的加密货币挖矿行业带来了压力。Lightning Network 创始人 Tadge Dryja 认为，如果不考虑难度变化，比特币区块 85 分钟间隔预计会每 34 天发生一次。",
-          "link": "https://www.solidot.org/story?sid=73087",
-          "publishedOn": "2022-10-18T05:25:57.000Z",
-          "wordCount": 160,
-          "title": "比特币单个区块开采时间超过一小时",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73086",
-          "author": null,
-          "description": "说唱歌手 Kanye West 与保守派社交媒体 Parler 达成了收购协议。West 现在的名字叫 Ye。双方在周一发表的一份声明中表示，此举将有助于个人自由发表保守派观点。收购协议没有披露财务方面的条款，Parler 将完整出售给 Kanye West，而 Parler 服务商 Parlement Technologies 将会继续提供技术支持，包括使用其私有云服务和数据中心设施。收购预计会在今年晚些时候完成。West 在一份声明中表示，“在一个保守观点被认为是有争议的世界里，我们必须确保有自由表达的权利。”",
-          "link": "https://www.solidot.org/story?sid=73086",
-          "publishedOn": "2022-10-18T03:51:13.000Z",
-          "wordCount": 171,
-          "title": "Kanye West 将收购保守派社媒 Parler",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73085",
-          "author": null,
-          "description": "在数据中心周六发生火灾之后，韩国两大互联网巨头 Naver 和 Kakao 的服务遭遇了大规模宕机事故。发生火灾的数据中心由 SK C&C 运营，位于首尔南部的板桥，始建于 2014 年，占地 66,942 平方米。SK C&C 没有披露起火原因和火灾的严重程度。Kakao 和 Naver 的大部分服务从周六下午开始就无法访问，影响广泛。Kakao 通过官方博客对服务中断表示歉意，称该公司成立了多个委员会去调查事故、制定应急对策和安排赔偿。Naver 表示其搜索、新闻、购物、博客等服务出现错误。截至周一，大部分服务已经恢复。",
-          "link": "https://www.solidot.org/story?sid=73085",
-          "publishedOn": "2022-10-18T03:28:14.000Z",
-          "wordCount": 161,
-          "title": "数据中心火灾导致韩国网络巨头下线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73084",
-          "author": null,
-          "description": "匿名读者 写道 \"凹语言™（凹读音 “Wa”, 主页 https://github.com/wa-lang/wa ）是 国内 Gopher 针对 WASM 平台设计的的通用编程语言，支持 Linux、macOS 和 Windows 等主流操作系统和 Chrome 等浏览器环境，同时也支持作为独立 Shell 脚本和被嵌入脚本模式执行。近日 JetBrains 宣布首次公共预览 Fleet，凹语言在第一时间增加了对 Fleet 的语法高亮支持。\n\n\n细节请参考 https://wa-lang.org/smalltalk/st0015.html\"",
-          "link": "https://www.solidot.org/story?sid=73084",
-          "publishedOn": "2022-10-18T02:09:06.000Z",
-          "wordCount": 211,
-          "title": "凹语言支持 JetBrains Fleet 语法高亮",
           "imageUrl": null
         }
       ]
