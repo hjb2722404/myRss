@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43770",
+          "author": "青小蛙",
+          "description": "Cider 是一个开源的、面向社区的 Apple Music 客户端，基于 Electron 和 Vue.js，适用于 Windows、Linux、macOS，还拥有 iOS 与 Android 远程",
+          "link": "https://www.appinn.com/cider-for-apple-music/",
+          "publishedOn": "2022-10-28T10:22:59.000Z",
+          "wordCount": 2401,
+          "title": "Cider – 第三方开源 Apple Music 客户端，更好看、可远程控制[Win/Linux/macOS]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/cider-for-apple-music.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=43766",
+          "author": "青小蛙",
+          "description": "Hide Volume OSD 是一款专门用来隐藏 Windows 10、8 通过键盘调整音量时的音乐播放提示，就这么简单，解决了很多人的问题。@Appinn 来自发现频道，@wulu 同学的分享：",
+          "link": "https://www.appinn.com/hide-volume-osd/",
+          "publishedOn": "2022-10-28T07:55:23.000Z",
+          "wordCount": null,
+          "title": "Hide Volume OSD – 隐藏调整音量时 Windows 10 的音乐播放提示",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.appinn.com/?p=43763",
           "author": "青小蛙",
           "description": "来自微博的同学提问： 能推荐个电视用的投屏软件吗，免费无广告，能投1080以上画质，支持协议尽量多一点吧。 这真是一个好问题，其实好像并没有标准答案。 因为一些视频 app 自身限制，比如爱奇艺、腾讯",
@@ -135,36 +155,6 @@
           "wordCount": 2418,
           "title": "eSheep 64bit – 来自 Windows 95 桌面宠物 STRAY SHEEP 流浪绵羊复刻版",
           "imageUrl": "https://eucf.appinn.net/wp-content/uploads/2022/10/eSheep-64bit.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43667",
-          "author": "青小蛙",
-          "description": "Washbaidu 是一款适用于 Chrome、Edge 浏览器的扩展，用来「努力提升百度搜索体验」，让获取信息更高效。@Appinn 来自发现频道，开发者 @pangzi 自荐：https://me",
-          "link": "https://www.appinn.com/washbaidu/",
-          "publishedOn": "2022-10-19T08:56:42.000Z",
-          "wordCount": 2311,
-          "title": "Washbaidu – 一个很努力提升百度搜索体验的插件[Chrome/Edge]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/Washbaidu.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43663",
-          "author": "青小蛙",
-          "description": "Spirit 是一款纯粹装饰性的 Windows 小工具，运行后会在当前活跃窗口右上角显示一只猪，就没有然后了，嗯，做到了鼠标在哪猪在哪。@appinn 来自发现频道，开发中自荐： 放一只猪在鼠标当前",
-          "link": "https://www.appinn.com/spirit-pigpig/",
-          "publishedOn": "2022-10-19T06:10:34.000Z",
-          "wordCount": 2317,
-          "title": "Spirit – 一只放在窗口右上角的猪[Windows]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/Spirit.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43657",
-          "author": "青小蛙",
-          "description": "Les Pas 是一款开源的专门针对 Nextcloud 私有云的第三方相册应用，可以用来在 Android 设备与 Nextcloud 之间双向同步照片，还能整合 Snapseed 软件联动修图。@",
-          "link": "https://www.appinn.com/les-pas-for-nextcloud/",
-          "publishedOn": "2022-10-19T03:55:57.000Z",
-          "wordCount": 2418,
-          "title": "Les Pas – Nextcloud 私有云第三方相册应用[Android]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/Les-Pas-Nextcloud.jpg"
         }
       ]
     },
@@ -173,6 +163,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=374302",
+          "author": "Temani Afif",
+          "description": "We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …\nFancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/",
+          "publishedOn": "2022-10-28T12:45:47.000Z",
+          "wordCount": 1610,
+          "title": "Fancy Image Decorations: Outlines and Complex Animations",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374302"
+        },
         {
           "id": "https://css-tricks.com/?p=374609",
           "author": "Bradley Kouchi",
@@ -232,16 +232,6 @@
           "wordCount": 3565,
           "title": "Responsive Animations for Every Screen Size and Device",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374345"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374376",
-          "author": "Preethi",
-          "description": "When you put something — say a regular sheet of paper — in a manilla folder, a part of that thing might peek out of the folder a little bit. The same sort of thing with a wallet and credit …\nHow to Make a Folder “Slit” Effect With CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-to-make-a-folder-slit-effect-with-css/",
-          "publishedOn": "2022-10-19T12:56:37.000Z",
-          "wordCount": 1419,
-          "title": "How to Make a Folder “Slit” Effect With CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374376"
         }
       ]
     },
@@ -314,6 +304,156 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73207",
+          "author": null,
+          "description": "匿名读者 写道 \"OpenStreetMap是允许用户编辑的网上地图协作计划，在中国有一些使用者和编辑人员，它在最近几天被屏蔽，方法是DNS污染和SNI检测（Blocky的测试结果）。央视新闻上个月称“近一个时期以来，一些境外地图服务商以“开源共享”等名义，诱导境内人员对我重要军事目标、关键基础设施等开展非法测绘活动，造成我相关敏感涉密地理空间信息数据泄露。”这可能是屏蔽的原因。\"",
+          "link": "https://www.solidot.org/story?sid=73207",
+          "publishedOn": "2022-10-29T02:37:48.000Z",
+          "wordCount": 149,
+          "title": "OpenStreetMap 被屏蔽",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73206",
+          "author": null,
+          "description": "Google 释出了紧急更新修复了一个正被利用的 Chrome 桌面浏览器 0day。该高危漏洞编号为 CVE-2022-3723，位于 Chrome V8 Javascript 引擎中，属于类型混淆漏洞。Avast 的安全研究人员向 Google 报告了这一漏洞。Google 没有披露漏洞细节，它建议用户立即更新到版本 107.0.5304.87/88。它要等待大部分用户都更新之后才会披露细节。这是今年内 Google 修复的第 7 个  0day——前 6 个是 2 月 14 日的 CVE-2022-0609、3 月 25 日的 CVE-2022-1096、4 月 14 日的 CVE-2022-1364、7 月 4  日的 CVE-2022-2294 、8 月 17 日的 CVE-2022-2856 和 9 月 2 日的 CVE-2022-3075。",
+          "link": "https://www.solidot.org/story?sid=73206",
+          "publishedOn": "2022-10-28T15:39:00.000Z",
+          "wordCount": 204,
+          "title": "Google Chrome 释出紧急更新修复一个 0day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73205",
+          "author": null,
+          "description": "一项关于大脑可塑性和视觉感知的研究发现，儿时接受过切除一半大脑手术的人，80% 以上的时间都能准确识别出两个单词或两张脸之间的差异。考虑到切除的脑组织的体积，这一准确性突显了大脑重新连接自身并适应剧烈性手术或创伤的能力及其局限性。神经可塑性是一个过程，它允许大脑改变其活动，并在结构或功能上重新连接自己，以应对环境的变化。尽管大脑的可塑性在发育早期达到顶峰，但大脑在成年后仍会继续发生变化。随着年龄的增长，大脑的两个半球变得越来越专门化，两个半球承担着不同的职责。但神经可塑性是有局限性的，随着时间的推移，这种半球偏好会变得更加僵化。",
+          "link": "https://www.solidot.org/story?sid=73205",
+          "publishedOn": "2022-10-28T15:29:37.000Z",
+          "wordCount": 144,
+          "title": "半脑就能识别文字和面孔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73204",
+          "author": null,
+          "description": "欧洲理事会和欧洲议会周四就到 2030 年大幅减少乘用车碳排放和到 2035 年全面禁售内燃机汽车达成一致（https://arstechnica.com/?p=1893499）。欧盟已经制定了世界最严格的排放法规，目前的法规要求汽车厂商旗下的汽车必须达到每百公里排放 95 g CO2 的标准。最新规定要求到 2030 年乘用车的 CO2 排放在 2021 年的水平上降低 55%，货车减少 50%。到 2035 年所有新乘用车和货车必须零排放。法拉利、迈凯轮和阿斯顿马丁等年产量低于一万的厂商获得豁免，免于 2030 年的目标，但到 2035 年仍然必须实现零排放。现有的内燃机汽车无需到时立即报废和停止使用。",
+          "link": "https://www.solidot.org/story?sid=73204",
+          "publishedOn": "2022-10-28T15:25:33.000Z",
+          "wordCount": 173,
+          "title": "欧盟到 2035 年禁售内燃机汽车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73203",
+          "author": null,
+          "description": "Reddit 用户 PoisonWaffe3 在一家 ISP 工作，该 ISP 最近在处理退役的 Netflix 缓存服务器，他因而能拿到一台，让公众有机会一窥这一神秘的机器（https://arstechnica.com/?p=1893364）。这种机器被称为 Open Connect Appliance(OCA)—是 Netflix Open Connect CDN 的一部分。Open Connect 是一个服务器网络，安装在世界各地 ISP 的数据中心，储存了 Netflix 视频内容的本地拷贝，被用于加速该地区 Netflix 用户的串流。Open Connect 服务器配置外界所知不多，退役的缓存服务器源自 2013 年，使用了 SuperMicro 主板，一颗 Xeon E5 2650 v2 CPU，64GB DDR3 内存，36 个西部数据 7.2TB 硬盘，6 个 500GB 美光 SSD，一个 4 口 10GbE 网卡，一对  750 瓦电源供应。总储存容量 262TB。对个人用户来说相当多了。",
+          "link": "https://www.solidot.org/story?sid=73203",
+          "publishedOn": "2022-10-28T14:52:54.000Z",
+          "wordCount": 203,
+          "title": "一窥退役的 Netflix 缓存服务器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73202",
+          "author": null,
+          "description": "NASA InSight 火星探测器去年 12 月 24 日探测到了一次四级地震，科学家后来才知道地震源于陨石撞击。这是有记录以来火星遭到的最强陨石撞击（www.nasa.gov/feature/jpl/nasa-s-insight-lander-detects-stunning-meteoroid-impact-on-mars），留下直径近 150 米深 21 米的陨石坑，暴露出火星地表以下大块水冰。研究报告发表在本周四出版的《科学》期刊上。InSight 自 2018 年登陆火星以来，已经记录逾 1300 次火星地震，震级均未超过此次陨石撞击引发的地震。撞击火星的陨石直径在 5 米至 12 米之间。NASA 火星勘测轨道飞行器则捕捉到撞击留下的陨石坑图像。图像显示，陨石坑附近露出地表下的大块冰，因撞击飞溅的碎块最远落在陨石坑 40 公里外。",
+          "link": "https://www.solidot.org/story?sid=73202",
+          "publishedOn": "2022-10-28T10:46:29.000Z",
+          "wordCount": 173,
+          "title": "NASA InSight 探测到迄今火星遭遇的最强陨石撞击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73201",
+          "author": null,
+          "description": "NASA 和 NOAA 报告（www.nasa.gov/esnt/2022/ozone-hole-continues-shrinking-in-2022-nasa-and-noaa-scientists-say），今年南极上空的臭氧空洞面积稍小于去年。9 月 7 日至 10 月 13 日，南极臭氧空洞平均面积为 2320 万平方公里，相比去年“略微减小”。从整体来看，空洞面积近年来呈缩小趋势。1980 年代，科学家发现南极上空出现臭氧空洞，关联大量使用制冷剂、发泡剂、喷射剂等含有消耗臭氧层物质的化学制品。多国随后签署《关于消耗臭氧层物质的蒙特利尔议定书》，限制破坏臭氧层化学物质的生产和使用。截至今年 9 月，全球已经淘汰超过 99% 的消耗臭氧层物质。NASA 和 NOAA 预测，南极臭氧空洞将在 2070 年前后恢复。",
+          "link": "https://www.solidot.org/story?sid=73201",
+          "publishedOn": "2022-10-28T10:20:33.000Z",
+          "wordCount": 165,
+          "title": "南极臭氧空洞继续缩小",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73200",
+          "author": null,
+          "description": "乌干达的埃博拉疫情日益令人担忧，病毒正在人口密集的首都快速蔓延。这次疫情是埃博拉一种不常见的变种 Sudan 病毒引发的，目前没有疫苗或治疗方法。自 9 月 20 日宣布疫情爆发以来，病毒扩散到了7 个地区，109 个确诊病例，30 人死亡，可能还有病例未报告。有逾 160 万人口的首都 Kampala 报告了 15 个确诊病例，其中 6 人来自同一个家庭的学龄儿童，这些儿童及其家人和邻居是被一名从外地进入首都寻求治疗的人感染的。6 名儿童在三所不同学校上学，学校里的密接有 170 人，总密接人数有数百人。Sudan 病毒的致死率在 41%-100% 之间。乌干达已经批准了三种针对 Sudan 病毒的实验性疫苗，计划未来几周对暴露人群进行接种。",
+          "link": "https://www.solidot.org/story?sid=73200",
+          "publishedOn": "2022-10-28T10:06:18.000Z",
+          "wordCount": 168,
+          "title": "乌干达的埃博拉确诊病例突破百例",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73199",
+          "author": null,
+          "description": "根据发表在《Cell Metabolism》期刊上的一项研究，对小鼠的研究显示，一种被称为 Ovol2 的基因突变会导致肥胖。与未发生突变的同窝小鼠相比，肥胖小鼠的脂肪重量增加了 556%，瘦体重减少了 20%。实验表明，肥胖的动物在暴露在寒冷环境中时无法保持核心体温，这似乎是由于它们无法有效利用一种叫做褐色脂肪的组织，而褐色脂肪的主要功能是产生热量。进一步的测试表明，健康的 Ovol2 基因抑制了白色脂肪的发育，而白色脂肪是负责能量储存的主要组织。",
+          "link": "https://www.solidot.org/story?sid=73199",
+          "publishedOn": "2022-10-28T08:44:17.000Z",
+          "wordCount": 150,
+          "title": "基因突变可能是“喝水都胖”的原因",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73198",
+          "author": null,
+          "description": "Fedora 发行版宣布（https://fedoramagazine.org/fedora-linux-37-update/） Fedora Linux 37 的发布日期从原计划的 10 月底推迟到 11 月 15 日，原因是为了修复一个 OpenSSL 高危漏洞。修复漏洞的补丁计划在 11 月 1 日释出，因此关于该漏洞的细节尚未公开，安全社区的一种通常做法是在补丁做好准备前对相关信息保密，以防止其被利用。如果 Fedora 提前构建补丁就可能会泄露漏洞细节。",
+          "link": "https://www.solidot.org/story?sid=73198",
+          "publishedOn": "2022-10-28T08:00:56.000Z",
+          "wordCount": 174,
+          "title": "Fedora Linux 37 为修复高危漏洞推迟发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73197",
+          "author": null,
+          "description": "CD Projekt 和波兰游戏工作室 Fool's Theory 宣布正在用虚幻5 引擎重制第一代《猎魔人》游戏。Fool's Theory 由 CD Projekt 前员工创办，其作品包括《Seven: The Days Long Gone》，重制版主要由它负责开发。该项目代号为 Canis Majoris。Fool's Theory 此前参与了 Larian 工作室《神界》系列和《博德之门3》的开发支持工作。CD Projekt 加入了卡普空和顽皮狗等工作室的阵营，以重制受欢迎旧作的方式重整业务，而不是重启整个品牌。《猎魔人3》的图像升级预计会在年底推出，这一升级将免费提供给《猎魔人3》玩家，预计会支持光追，以及 DLSS/FSR 等提升频率的技术。",
+          "link": "https://www.solidot.org/story?sid=73197",
+          "publishedOn": "2022-10-28T05:41:23.000Z",
+          "wordCount": 180,
+          "title": "CD Projekt 用虚幻5 重制第一代猎魔人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73196",
+          "author": null,
+          "description": "苹果公司公布了截至 9 月 24 日的 2022 年第四财季报告，其收入继续保持增长势头。第四季度销售额 901 亿美元，同比增长 8%，净利润为 207 亿美元，都创下纪录。全年收入 3943 亿美元，同比增长 8%。\n总收入、iPhone 销售和净利润均超过分析师的预期。消费者需求下降并没有对苹果产生多大的影响。其它一些科技巨头已出现明显的增长放缓。本周早些时候，微软、Google 和 Facebook 母公司 Meta 公布的利润都令人失望，给出的理由包括消费者对个人电脑的需求减弱或数字广告表现疲软。",
+          "link": "https://www.solidot.org/story?sid=73196",
+          "publishedOn": "2022-10-28T05:04:07.000Z",
+          "wordCount": 164,
+          "title": "苹果收入继续增长势头",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73195",
+          "author": null,
+          "description": "因 PC 市场的不景气，英特尔公布了截至 10 月 1 日的 2022 年 Q3 财报，该季销售额 153 亿美元，同比下滑 20%，净利润为 10 亿美元，同比下滑 85%。英特尔预测当前财季销售额为 140-150 亿美元，全年销售额降为 640 亿美元。英特尔同时透露它的 Intel 4（7 纳米工艺）进展顺利进入大批量生产阶段，第 14 代酷睿处理器准备进入早期生产阶段，",
+          "link": "https://www.solidot.org/story?sid=73195",
+          "publishedOn": "2022-10-28T03:37:36.000Z",
+          "wordCount": 168,
+          "title": "英特尔销售额下滑五分之一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73194",
+          "author": null,
+          "description": "墨西哥参议院批准了取消夏令时的法案，结束了一年两次调整时钟的做法。靠近美国边境的城镇可以继续保留夏令时，可能是因为这些城镇与美国的联系密切。墨西哥参议院以 59 票赞成、25 票反对和 12 票弃权通过了法案。该法案此前已经在下院通过，交给总统 Andres Manuel Lopez Obrador 签署后将成为正式法律。它预计将在周日生效，墨西哥届时将最后一次调回时钟。",
+          "link": "https://www.solidot.org/story?sid=73194",
+          "publishedOn": "2022-10-28T03:06:32.000Z",
+          "wordCount": 153,
+          "title": "墨西哥取消夏令时，靠近美的边境城市可保留",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73193",
+          "author": null,
+          "description": "马斯克在周四完成了对 Twitter 的收购，他立即解雇了 CEO Parag Agrawal、CFO Ned Segal、首席法务官 Vijaya Gadde 、总法律顾问 Sean Edgett 以及首席客户官 Sarah Personette。法官要求他在本周五前完成这笔 440 亿美元的收购交易。作为被解雇的补偿，Agrawal 将获得 3870 万美元，Segal 获得 2540 万美元，Gadde 获得 1250 万美元。曾发推对收购欢呼的 Personette 获得 1120 万美元。马斯克此前据报道计划裁掉四分之三的 Twitter 员工，在收购之后他告诉员工这个数字是不准确的。根据马斯克与其朋友 Jason Calacanis 之间的通信，这位特斯拉 CEO 考虑通过要求远程办公的员工重返办公室的方式裁员，如果员工不愿意回办公室他们将被视为自愿辞职。对于 Twitter 的未来，马斯克曾讨论过要将其变成一种类似微信的万能应用，包含购物、支付和游戏功能。",
+          "link": "https://www.solidot.org/story?sid=73193",
+          "publishedOn": "2022-10-28T02:45:42.000Z",
+          "wordCount": 198,
+          "title": "马斯克控制 Twitter，解雇 CEO 和 CFO",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73192",
           "author": null,
@@ -1142,126 +1282,6 @@
           "publishedOn": "2022-10-20T03:03:12.000Z",
           "wordCount": 151,
           "title": "深度学习识别显微照片中的细菌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73109",
-          "author": null,
-          "description": "好莱坞第一位亚裔电影明星黄柳霜将成为首位印在美元上的亚裔美国人。美国造币厂于周一开始生产有黄柳霜形象的 25 美分硬币，上面是她的面部特写，纤纤玉手托着她的脸庞，该设计属于一个钱币新版系列的一部分，其他新面孔还包括作家玛雅·安吉洛和宇航员萨莉·莱德。美国造币厂预计将铸造超过 3 亿枚黄柳霜 25 美分硬币。黄柳霜于 1905 年出生在洛杉矶的唐人街，她的父母开了一家洗衣店。大约在那个时候，电影业进驻洛杉矶，越来越多作品在黄柳霜家附近的街区拍摄。黄柳霜决心成为演员，并开始跑龙套，直到她 17 岁时在《海逝》(The Toll of the Sea, 1922)中首次担任主角。但亚裔演员的角色有限，她的职业生涯受到了阻碍。黄柳霜有句名言说她“死了一千次”，因为在她出演的每一部电影中，她的角色都死了。",
-          "link": "https://www.solidot.org/story?sid=73109",
-          "publishedOn": "2022-10-19T15:00:16.000Z",
-          "wordCount": 166,
-          "title": "黄柳霜将出现在 25 美分硬币上",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73108",
-          "author": null,
-          "description": "台积电正考虑扩大在日本的产能，这将是这家全球最大的芯片代工商为降低地缘政治风险所采取的一项举措。但相关决定尚未作出，台积电正在研究这样做的可行性。台积电目前正在日本南部的九州岛上建造该公司在日本的首家芯片厂。这家工厂可能会专注于生产通常用于汽车和传感器等零部件的成熟制程芯片，计划在 2024 年底开始出货。如果台积电在当前计划的基础上进一步扩张，可能将考虑在九州制造先进制程芯片。",
-          "link": "https://www.solidot.org/story?sid=73108",
-          "publishedOn": "2022-10-19T14:02:17.000Z",
-          "wordCount": 145,
-          "title": "台积电考虑扩大日本产能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73107",
-          "author": null,
-          "description": "匿名发行版 Tail OS 发布了 5.5 版本，主要新特性为更新到 Thunderbird 102，其中包括 OpenPGP 功能的可用性改进，密钥助手将帮助用户解决密钥相关问题；Tor Browser 11.5.4，Linux kernel 5.10.140，wget 命令行工具每次都会使用不同 Tor 回路，等等。Tail OS 设计作为 Live CD 或 Live USB 使用，不在主系统留下使用痕迹。",
-          "link": "https://www.solidot.org/story?sid=73107",
-          "publishedOn": "2022-10-19T10:12:58.000Z",
-          "wordCount": 175,
-          "title": "Tails 5.5 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73106",
-          "author": null,
-          "description": "Mozilla 释出了 Firefox 106。主要新特性包括：支持 PDF 编辑，包括输入文本、绘图和签名；在 Windows 下设置 Firefox 为默认浏览器也将设置 Firefox 为默认 PDF 浏览器；支持在 Windows 任务栏固定新建隐私窗口，简化隐私模式访问；Linux 下的滑动导航支持 Wayland；Firefox View 允许用户寻找和打开最近关闭的标签；一组新的配色方案，等等。",
-          "link": "https://www.solidot.org/story?sid=73106",
-          "publishedOn": "2022-10-19T09:44:02.000Z",
-          "wordCount": 171,
-          "title": "Firefox 106 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73105",
-          "author": null,
-          "description": "AMD 宣布了实时全局光照技术 GI-1.0，宣称相比其它全局光照实现在质量相当的情况下速度更快。GI-1.0 的技术白皮书发表在 GPUOpen 上，将公开源代码但目前还没有发布。GI-1.0 利用了两种缓存机制，旨在为实时渲染管道提供高效的全局光照，无需任何内容预处理，仍然能提供高光照保真度。",
-          "link": "https://www.solidot.org/story?sid=73105",
-          "publishedOn": "2022-10-19T09:28:51.000Z",
-          "wordCount": 157,
-          "title": "AMD 宣布开源全局光照技术 GI-1.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73104",
-          "author": null,
-          "description": "研究人员认为每晚至少睡五小时有助于减少 50 岁以上人群的健康风险。研究报告发表在《PLoS Medicine》期刊上。这项研究跟踪了大约 8000 名英国公务员的睡眠和健康，部分参与者还佩戴了睡眠跟踪器。在长达 20 年的跟踪调查中，他们患上了糖尿病、癌症和心脏病等慢性疾病。睡眠时间五小时或不足的 50 岁以上人群比睡眠七小时的人群患疾病的风险高 30%，因慢性疾病风险增加死亡的可能性也增加。专家通常建议每晚睡七或八小时。",
-          "link": "https://www.solidot.org/story?sid=73104",
-          "publishedOn": "2022-10-19T08:49:11.000Z",
-          "wordCount": 153,
-          "title": "五小时睡眠是健康恶化的临界点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73103",
-          "author": null,
-          "description": "Windows Terminal 项目经理 Kayla Cinnamon 宣布，从  Windows 11 22H2 开始所有命令行应用将默认用 Windows Terminal 打开。Windows Terminal 是微软在 2019 年宣布的新命令行终端，源代码发布在 GitHub 上。Windows Terminal 支持多标签、Unicode 和 UTF-8 字符、GPU 加速 DirectWrite/DirectX 文本渲染引擎，定制主题、样式和配置。",
-          "link": "https://www.solidot.org/story?sid=73103",
-          "publishedOn": "2022-10-19T07:36:56.000Z",
-          "wordCount": 185,
-          "title": "Windows 11 默认使用开源的 Windows Terminal",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73102",
-          "author": null,
-          "description": "Google CEO Sundar Pichai 削减预算的计划对公司不同部门有不同的影响。Google 为了确保搜索市场的统治地位而与苹果达成了数十亿美元的搜索合作协议，让 Google 成为 iPhone 上的默认搜索引擎，但美国监管机构可能会终止这一协议，Google 可能会失去 iPhone 这一平台。对这一局面 Google 的应对之策是加大对 Pixel 智能手机硬件的投资，将更多开发人员转移到该硬件部门专注于 Pixel。遭到削减的业务包括了 Google TV 和  Google Assistant。",
-          "link": "https://www.solidot.org/story?sid=73102",
-          "publishedOn": "2022-10-19T06:51:27.000Z",
-          "wordCount": 180,
-          "title": "Google 加大对 Pixel 硬件的投资",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73101",
-          "author": null,
-          "description": "支付宝 App 转账页面新增“转微信好友”功能。该功能并非全新上线，9 月中旬已有用户进行了体验。从公开平台上的用户反馈来看，仍有部分用户支付宝账户无法使用这一功能。该功能的原理类似红包码，并非双方支付线下二维码互扫互认的“互联互通”动作。分析师表示，“按照现有监管要求，支付机构之间不能不经过银行和清算机构直接进行账户互转。上述功能并不是支付互联互通动作，而是支付宝希望通过产品创新，以实现更大范围的场景辐射，提升用户使用体验。从便捷度上来看，打开支付宝后不用发起人再操作转账，更多价值还是在满足用户对转账的便捷化需求上。”",
-          "link": "https://www.solidot.org/story?sid=73101",
-          "publishedOn": "2022-10-19T03:34:12.000Z",
-          "wordCount": 146,
-          "title": "支付宝上线微信好友转账功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73100",
-          "author": null,
-          "description": "Tiktok 母公司北京字节跳动内部人士透露，Tiktok 全球日活跃用户数（DAU）突破10亿。此举一度触发在线用户登录警报，开发人员临时扩容才允许新用户访问。目前全球日活突破 10 亿的 App 有 Facebook、WhatsApp、Instagram 和 YouTube，微信日活在 9 亿左右。",
-          "link": "https://www.solidot.org/story?sid=73100",
-          "publishedOn": "2022-10-19T03:25:49.000Z",
-          "wordCount": 166,
-          "title": "Tiktok 日活突破 10 亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73099",
-          "author": null,
-          "description": "印度媒体 The Wire 上周爆料，援引内部人士泄露的文件报道 Meta 允许执政党的一位有影响力的高官审查 Instagram 上的内容。Meta 坚决否认了这一报道，认为 The Wire 引用的文件很可能是伪造的。The Wire 本周宣布对文件的真伪展开调查，承认发现了一些可疑的迹象，它同时宣布撤下相关报道。The Wire 是一家印度有知名度的独立媒体，一直批评政府，其创始编辑 Siddharth Varadarajan 可能因此遭到政府的监视，他的手机被发现了感染了以色列的间谍软件 Pegasus，而 Pegasus 只出售给政府客户。",
-          "link": "https://www.solidot.org/story?sid=73099",
-          "publishedOn": "2022-10-19T03:10:48.000Z",
-          "wordCount": 176,
-          "title": "印媒称 Meta 允许执政党高官审查内容，Meta 否认",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73098",
-          "author": null,
-          "description": "从 9 月开始，Ubuntu 用户在执行 apt 更新时注意到终端窗口添加了一条广告文字，推广 Ubuntu 自家产品 Ubuntu Pro。有人为 Canonical 辩护，认为这不是广告，理由是 Ubuntu Pro 对普通用户是免费的（限于最多五台设备），不太可能会增加 Canonical 的收入，因此更多是一种提高产品知名度的公告。但宣传自家产品的信息和广告并没有本质上的区别。",
-          "link": "https://www.solidot.org/story?sid=73098",
-          "publishedOn": "2022-10-19T01:57:54.000Z",
-          "wordCount": 163,
-          "title": "Ubuntu 终端广告惹恼用户",
           "imageUrl": null
         }
       ]
