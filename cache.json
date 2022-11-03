@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43807",
+          "author": "青小蛙",
+          "description": "Word 正则工具（查找、替换）是一款由 @cx123 在发现频道发布的适用于 Word、WPS 的小工具，用途是通过正则表达式进行更高效、灵活的查找、替换。@appinn Word正则工具（查找、替",
+          "link": "https://www.appinn.com/word-regular-tool/",
+          "publishedOn": "2022-11-02T07:11:00.000Z",
+          "wordCount": 2318,
+          "title": "Word 正则工具（查找、替换）- 为 Word、WPS 添加正则表达式支持[Windows]",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/11/word-regular.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=43803",
+          "author": "青小蛙",
+          "description": "WordPress 6.1 “Misha 正式发布，新默认主题 二十二三 发布，具有 10 种不同风格，包括更精准的布局自定义，古藤堡编辑器持续更新，带来简单的页面定制（模板），以及更流畅的撰写体验。",
+          "link": "https://www.appinn.com/wordpress-6-1-misha/",
+          "publishedOn": "2022-11-02T04:16:23.000Z",
+          "wordCount": 2399,
+          "title": "WordPress 6.1 “Misha” 发布",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/11/wordpress-6-1-misha.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43796",
           "author": "开发者推荐账号",
           "description": "Localc 是一款面向程序开发和调试的计算器，除了基础的运算功能之外，还提供进制转换/文本-字节数组转换/表达式计算/变量定义等功能。@Appinn 来自发现频道，开发者 @differentrai",
@@ -145,16 +165,6 @@
           "wordCount": 2419,
           "title": "macOS Ventura 13.0 发布，看看你的 Mac 电脑是否可以升级",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/macos-ventura-is-now-available-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43712",
-          "author": "青小蛙",
-          "description": "来自 @LambertCrofts 同学的帖子：终于把右键新建菜单搞整齐了。 对于强迫症患者来说，看到上图左侧的样式，真不能忍，为什么 PPT 全称那么长？就不能短一些么？ 可以的。但需要…",
-          "link": "https://www.appinn.com/context-menu-change-name-win10/",
-          "publishedOn": "2022-10-24T05:45:58.000Z",
-          "wordCount": 2474,
-          "title": "终于把右键新建菜单搞整齐了，强迫症患者福音：Windows 10 右键新建菜单重命名",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/context-menu-1.jpg"
         }
       ]
     },
@@ -163,6 +173,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=374697",
+          "author": "Geoff Graham",
+          "description": "Every once in a while, the blogging zeitgiest seems to coalesce around a certain topic and it’s like the saved articles in my bookmarks folder are having a conversation. The conversation sitting in there now is all about CSS Gradients …\nSome Links About CSS Gradients originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-links-about-css-gradients/",
+          "publishedOn": "2022-11-02T12:59:02.000Z",
+          "wordCount": 1215,
+          "title": "Some Links About CSS Gradients",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374697"
+        },
         {
           "id": "https://css-tricks.com/?p=374381",
           "author": "Manoj Kumar",
@@ -212,16 +232,6 @@
           "wordCount": 2320,
           "title": "Creating Animated, Clickable Cards With the :has() Relational Pseudo Class",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374690"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374364",
-          "author": "Sacha Greif",
-          "description": "As front-end developers, we’ve wished for a lot of things over the years — ways to center things in CSS, encapsulate styles, set an element’s aspect ratio, get finer-grained control over our colors, select an element based on its children’s …\nIs There Too Much CSS Now? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/is-there-too-much-css-now/",
-          "publishedOn": "2022-10-24T12:59:16.000Z",
-          "wordCount": 2239,
-          "title": "Is There Too Much CSS Now?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374364"
         }
       ]
     },
@@ -263,6 +273,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73246",
+          "author": null,
+          "description": "Google 旗下的 AI 子公司 DeepMind 今年早些时候宣布了预测蛋白质结构的 AI 系统 AlphaFold。现在社交网络巨头 Meta/Facebook 的研究人员完成了类似的工作，他们利用了一种语言模型，用已知的蛋白质结构序列进行训练，然后再用它去预测其它蛋白质的结构。研究人员将他们的 AI 模型称为 ESMFold，它没有 AlphaFold 精确，但预测蛋白质结构的速度是 AlphaFold 的 60 倍。研究人员用了两周时间预测了逾 6.17 亿蛋白质的结构，相比之下 AlphaFold 需要用数分钟才能完成一个蛋白质结构的预测。在 6.17 亿结构中，逾三分之一被认为是高质量的，被认为是正确的。其中有数百万是全新的，与已知蛋白质结构数据库都不同。",
+          "link": "https://www.solidot.org/story?sid=73246",
+          "publishedOn": "2022-11-02T15:57:24.000Z",
+          "wordCount": 189,
+          "title": "Meta AI 模型预测蛋白质结构的速度 60 倍于 AlphaFold",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73245",
+          "author": null,
+          "description": "上周如果你在 Google 搜索知名开源图像编辑软件 GIMP，会显示自称 GIMP.org 的广告，但点击该广告会进入伪装成 GIMP 的钓鱼网站，而不是真正的官网，它提供下载的当然不是真正的 GIMP 而是恶意程序。攻击者使用了域名 gilimp.org 和 gimp.monster，与真正的官网域名 GIMP.org 存在明显区别。对其托管的恶意程序样本的调查发现它是窃取信息的恶意程序 VIDAR，设计窃取浏览器上储存的密码、cookies、历史和信用卡数据，以及加密货币钱包，Telegram 登陆凭证，等等。",
+          "link": "https://www.solidot.org/story?sid=73245",
+          "publishedOn": "2022-11-02T15:38:31.000Z",
+          "wordCount": 175,
+          "title": "钓鱼网站在 Google 上伪装成 GIMP 打广告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73244",
+          "author": null,
+          "description": "Meta/Facebook 宣布了 AI 驱动的新音频编解码器 EnCodec，压缩后的大小仅为 MP3 文件格式的十分之一。Meta 表示这项技术能显著改善低带宽下的语音声音质量。Meta 同时在预印本平台 arxiv 上发表了论文《High Fidelity Neural Audio Compression》。新的方法由三部分组成，首先编码器将未压缩数据转换成低帧率的潜在空间（latent space）表示；量化器 quantizer 随后压缩表示到目标大小，同时跟踪最重要信息以用于未来重建原始信号；解码器最后用单 CPU 上的神经网络将压缩后的数据实时转变成音频。研究人员表示他们是第一个实现将神经网络技术应用于压缩  48 kHz 立体声。",
+          "link": "https://www.solidot.org/story?sid=73244",
+          "publishedOn": "2022-11-02T15:25:33.000Z",
+          "wordCount": 186,
+          "title": "Meta 的 AI 驱动音频编解码器压缩率十倍于 MP3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73243",
+          "author": null,
+          "description": "联通创投与腾讯产投合作成立了一家混合所有制公司。该合营企业拟主要从事内容分发网络（CDN）和边缘计算业务。交易完成后，联通创投、腾讯产投、有关员工持股平台将分别持有合营企业48%、42%、10%的股权，联通创投、腾讯产投共同控制合营企业。业内人士表示，“此次合作或许重点集中在腾讯和联通的云计算业务合作，有了联通背书后，将极大促进腾讯旗下云计算业务的发展。从合营企业的经营范围来看，目前涵盖业务并不广泛，预计是将腾讯和联通旗下部分现有业务剥离出来，打包进新公司，而不是开辟新业务。”",
+          "link": "https://www.solidot.org/story?sid=73243",
+          "publishedOn": "2022-11-02T12:49:49.000Z",
+          "wordCount": 144,
+          "title": "联通与腾讯合作设立混改新公司",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73242",
+          "author": null,
+          "description": "知名汽车 GPS 导航系统制造商 TomTom 宣布与开源地图项目 OpenStreetMap 合作，它们将推出名为 TomTom Maps Platform 的新地图平台，将为地图制图设定新的标准。通过与  OpenStreetMap 合作，新地图将能覆盖更大的范围，提供更多的细节和新鲜度。TomTom 预计将在 2023 年第二季度开始推出新地图。",
+          "link": "https://www.solidot.org/story?sid=73242",
+          "publishedOn": "2022-11-02T12:46:23.000Z",
+          "wordCount": 171,
+          "title": "TomTom 宣布与 OpenStreetMap 合作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73241",
+          "author": null,
+          "description": "诸葛恐民 写道 \"据英国《泰晤士报》网站10月28日报道，一只刚刚脱离父母保护的阿拉斯加西部冻原上5个月大的小鸟，从世界的一端直飞另一端，打破了世界纪录。 超轻卫星跟踪技术技术显示这只斑尾塍鹬周二午夜在澳大利亚塔斯马尼亚东北部一个寂静的渔村附近着陆。监测报告显示，这只小鸟不间断地飞行了11天零1小时，飞行里程达8425英里（约合13500公里），打破鸟类不间断飞行纪录，即使在艰难的飞越太平洋的过程中，它也没有中途停下来休息。",
+          "link": "https://www.solidot.org/story?sid=73241",
+          "publishedOn": "2022-11-02T08:39:39.000Z",
+          "wordCount": 146,
+          "title": "一只小鸟打破不间断飞行纪录：11天零1小时",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73240",
+          "author": null,
+          "description": "美国亚特兰大市从 2019 年 8 月 9 日起禁止在晚上 9 点到凌晨 4 点之间使用共享电滑板和电动自行车后。这一突发禁令让研究人员有机会比较禁止微型交通工具前后的城市交通水平和通勤时间。研究人员利用了 Uber Movement 从 2019 年 6 月 25 日到 2019 年 9 月 22 日之间收集的数据去测量政策实施前后夜间的通勤时间变化。结果显示，禁止微型交通工具迫使居民使用汽车出行，由此导致了出行时间和交通拥堵的增加。研究发现，禁止共享电滑板和自行车后，亚特兰大的汽车出行时间立即增加了 9.9-10.7%，对普通通勤者而言这意味着每晚出行时间要多花费 2-5 分钟。拥堵和通勤时间增加给亚特兰大市产生的经济影响计算为 490 万美元。如果放大到全美，经济影响可能会达到 4.08 亿-5.73 亿美元。",
+          "link": "https://www.solidot.org/story?sid=73240",
+          "publishedOn": "2022-11-02T08:37:13.000Z",
+          "wordCount": 177,
+          "title": "研究发现亚特兰大禁止电滑板和电动自行车后拥堵增加",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73239",
+          "author": null,
+          "description": "英国监管机构 Ofcom 敲响了传真机的丧钟，它开始废除使用传真机的相关立法。传真机由施乐公司在 1964 年商业化，1980 年代起被世界各地的企业广泛使用，如今已被电子邮件、扫描仪、云端传真和即时通讯服务所取代。Ofcom 称，随着数字技术和宽带的发展，传真机已被能提供更好或相同功能的电邮和文件共享软件所取代。Ofcom 表示它准备修订电信规则淘汰传真机。虽然传真机早已过时，但英国卫生保健部门仍然在使用，该部门的数字化进展缓慢。英国国家医疗服务系统（NHS）还有数百台传真机。",
+          "link": "https://www.solidot.org/story?sid=73239",
+          "publishedOn": "2022-11-02T08:06:36.000Z",
+          "wordCount": 150,
+          "title": "英国监管机构准备废除传真机相关立法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73238",
+          "author": null,
+          "description": "美国疾病控制与预防中心的数据显示，美国每年有近一半的成年人试图减肥，其中大多数人试图多吃水果、蔬菜和沙拉。健康的饮食对心脏、身体健康和长寿都是必不可少的。美国心脏协会在 2021 年发布的膳食指南建议成年人吃各种水果和蔬菜；选择全谷物而不是精制谷物；选择健康的蛋白质来源；用脱脂和低脂乳制品代替全脂乳制品；选择瘦肉(给那些吃肉的人)；用液体植物油代替热带油和动物油；选择最少加工的食物而不是超加工的食物；尽量减少添加糖的食物和饮料；选择添加盐很少或不添加盐的食物；限制或避免饮酒。研究人员评估了 116 名 35-58 岁的成年人的饮食，这些人都在试图减肥。研究参与者与营养师一对一地讨论他们的营养状况，然后在一年中通过 Fitbit 应用记录每天吃喝。他们还每天称体重，并佩戴 Fitbit 设备来跟踪身体活动。结果显示多数寻求人高估了他们饮食的健康程度。",
+          "link": "https://www.solidot.org/story?sid=73238",
+          "publishedOn": "2022-11-02T07:10:50.000Z",
+          "wordCount": 153,
+          "title": "节食者会高估饮食健康程度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73237",
+          "author": null,
+          "description": "Google 尝试的众多消息应用中的一种 Hangouts 于 11 月 1 日正式死亡。之后 Hangouts 用户将被重定向到替代它的 Google Chat，在明年 1 月 1 日之前，用户仍然可以使用“Google 导出”下载自己的数据。Google 目前有两大不兼容的消息产品：Google Chat 和 Google Messages，此外还有多种支持消息服务的产品如 Google Voice、Google Photos 和 Google Pay。Hangouts 最初是 Google+ 的一部分，名字叫 Google+ Hangouts，在 Google+ 死亡之后 Hangouts 也变得半死不活，尽管它被视为是搜索巨人最优秀最完整的消息服务。",
+          "link": "https://www.solidot.org/story?sid=73237",
+          "publishedOn": "2022-11-02T03:50:23.000Z",
+          "wordCount": 187,
+          "title": "Google Hangouts 正式死亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73236",
+          "author": null,
+          "description": "备受瞩目的 OpenSSL 3 漏洞补丁释出，漏洞等级从之前被认为与 Heartbleed 漏洞相当的“高危”降为“高”。最新释出的 OpenSSL version 3.0.7 修复了两个缓冲溢出漏洞 CVE-2022-37786 和 CVE-2022-3602，两个漏洞影响所有 OpenSSL 3.x 系列版本，但不太可能导致远程代码执行。包括 Fedora 在内的 Linux 发行版因该漏洞而推迟发布。在所有 OpenSSL 版本中，OpenSSL 1.1.1 仍然处于长期支持阶段，OpenSSL 3.x 的普及度还不高。",
+          "link": "https://www.solidot.org/story?sid=73236",
+          "publishedOn": "2022-11-02T03:16:01.000Z",
+          "wordCount": 176,
+          "title": "OpenSSL 3 漏洞补丁释出，漏洞等级略降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73235",
+          "author": null,
+          "description": "马斯克(Elon Musk)在 Twitter 上表示，他考虑将 Twitter 的订阅费用从原来的每月 5 美元上涨至 8 美元。他最初据称是考虑上涨至每月 20 美元，并要求认证用户必须购买订阅服务，这一消息立即引发了激烈反弹，认证用户以及名人如作家斯蒂芬·金纷纷表示拒绝。马斯克称，订阅服务将有助于减少 Twitter 对广告的依赖。本周，两家大型广告公司建议其客户暂时停止在 Twitter 上投放广告，增加了马斯克寻找其他收入来源的紧迫性。目前还不知道 Twitter Blue 订阅服务有多少客户。",
+          "link": "https://www.solidot.org/story?sid=73235",
+          "publishedOn": "2022-11-02T02:42:34.000Z",
+          "wordCount": 177,
+          "title": "马斯克计划将 Twitter 订阅费用上涨至每月 8 美元",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73234",
           "author": null,
@@ -1072,116 +1202,6 @@
           "wordCount": 157,
           "title": "美国学生的数学成绩出现大幅下滑",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73153",
-          "author": null,
-          "description": "都说早起的鸟儿有虫子吃，但在远程工作时代人们不早起了，很多人要到 9 点才起床。这并没有影响到他们的业绩表现。28 岁的 Vivian Tu 是前华尔街交易员，她在疫情期间创办了自己的媒体品牌 Your Rich BFF，并获得了 7 位数的收入，她从未在 9 点之前起床。睡眠专家 Chris Barnes 不喜欢“早睡早起，使人健康、富有、明智”的格言，认为企业高管们是在玩弄早晨工作更好的虚假印象。一部分人是夜猫子，早起是强迫他们与自己的昼夜节律作斗争。远程工作改变了这一切。Ruth Kraft 是一家律所合伙人，也是一位前法官，她很高兴 Zoom 会议取代了线下会议，让她可以睡到最后一分钟。而在疫情之前她需要在早上 7:30 离开家，赶到城里开 10 点的庭会。Barnes 呼吁企业高管们尊重每个人的时间表，尽可能推行异步工作。",
-          "link": "https://www.solidot.org/story?sid=73153",
-          "publishedOn": "2022-10-24T11:12:32.000Z",
-          "wordCount": 168,
-          "title": "远程工作员工不早起",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73152",
-          "author": null,
-          "description": "日本宇宙航空研究开发机构（JAXA)等宣布，从探测器“隼鸟2号”带回的小行星“龙宫”沙粒样本中检测出了气体。其中包括稀有气体氦和氖等，据悉将小行星的气体直接带回地球在全世界尚属首次。 相关论文发表在《Science Advances》杂志上。研究人员还检测出了氮和氩，但因与地球的气体特征类似，很可能是返回后混进了地球空气。检测出的氦和氖与地球的气体特征有所不同，可能是被太阳风带到小行星表面。",
-          "link": "https://www.solidot.org/story?sid=73152",
-          "publishedOn": "2022-10-24T10:20:26.000Z",
-          "wordCount": 145,
-          "title": "小行星龙宫沙粒样本中检测出气体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73151",
-          "author": null,
-          "description": "根据发表在《Nature Communications》期刊上的一项研究，新加坡南洋理工大学(NTU Singapore)的科学家们发现，当细胞中的应激反应在生殖后年龄“启动”时，可能是减缓衰老和延长寿命的关键。在对一种与人类相似的线虫进行的实验室实验中，新加坡南洋理工大学的研究团队发现，与正常饮食的线虫相比，通过给年老的线虫喂食高葡萄糖食物，开启这种应激反应，可以延长它们的寿命。这是第一次发现压力反应和衰老之间的联系。科学家表示，“虽然我们的研究发现，高糖饮食可能有助于延缓衰老，促进老年线虫的寿命，但我们不建议老年人现在转向高糖饮食。”",
-          "link": "https://www.solidot.org/story?sid=73151",
-          "publishedOn": "2022-10-24T09:46:09.000Z",
-          "wordCount": 145,
-          "title": "新加坡研究发现高糖饮食有助于延长线虫寿命",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73150",
-          "author": null,
-          "description": "一名黑客入侵了歌手 Ed Sheeran 的账号窃取了两首未发行歌曲然后在暗网出售。他被判处 18 个月的监禁。23 岁的 Adrian Kwiatkowsk 入侵了 Sheeran 和说唱歌手 Lil Uzi Vert 等人的账号，从窃取的未发行歌曲中获得了 131,000 英镑，他承认了 19 项指控，包括版权侵犯和占有犯罪财产。美国最早是在 2019 年启动了对名叫 Spirdark 的黑客的调查，这名黑客入侵了歌手的账号，然后到暗网出售未发行歌曲。调查人员将 Spirdark 加密货币账户的电邮地址与 Kwiatkowski 关联起来，他入侵歌手账号时使用的一个 IP 地址也能关联到其家庭地址。他在 2019 年 9 月被英国警方逮捕，从扣押的设备硬盘中发现了 1263 首未发行歌曲。硬盘上的文件还记录了他窃取歌曲的方法，以及比特币钱包地址。",
-          "link": "https://www.solidot.org/story?sid=73150",
-          "publishedOn": "2022-10-24T08:58:11.000Z",
-          "wordCount": 187,
-          "title": "入侵歌手账号窃取未发现歌曲的黑客被判 18 个月",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73149",
-          "author": null,
-          "description": "伊朗原子能机构周日指控黑客组织入侵了一家子公司的网络，访问了电邮系统。同一天一个匿名黑客组织宣称对攻击负责，要求伊朗释放最近因为抗议而逮捕的政治犯。这个自称 Black Reward 的黑客组织称它泄露了 50GB 的内部电邮、合同和与位于 Bushehr 的核电站相关的施工计划。它通过其 Telegram 频道上分享了文件。暂时还不清楚其中是否包含机密材料。",
-          "link": "https://www.solidot.org/story?sid=73149",
-          "publishedOn": "2022-10-24T07:58:56.000Z",
-          "wordCount": 156,
-          "title": "黑客组织入侵伊朗核电企业的电邮系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73148",
-          "author": null,
-          "description": "最大的 PC 数字游戏平台 Steam 同时在线人数突破了三千万，创造了新的记录。Valve 旗下的 Steam 平台诞生于 2003 年，截至 2015 年它的注册用户数达到 1.25 亿，峰值在线玩家数突破一千万，2017 年在线峰值突破 1700 万，2020 年 3 月突破两千万，仅仅两年半之后的 10 月 24 日突破了三千万，在线玩家数增加了 50%。同时在线人数并不意味着所有登陆用户都在玩游戏，事实上游戏只是 Steam 服务的一部分，它的社交功能如游戏评价和论坛都对用户有着巨大的黏性。SteamDB 的数据显示峰值时有 850 万玩家在玩游戏。",
-          "link": "https://www.solidot.org/story?sid=73148",
-          "publishedOn": "2022-10-24T07:00:44.000Z",
-          "wordCount": 176,
-          "title": "Steam 同时在线人数突破三千万",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73147",
-          "author": null,
-          "description": "Facebook 母公司 META 警告加拿大，准备像去年在澳大利亚做的那样，阻止加拿大新闻内容的分享，除非自由党政府修改迫使大型数字公司对国内媒体机构进行补偿的立法。加拿大议会的一个委员会正在审查这项立法，议员们上周投票决定停止听取证人的进一步证词。Facebook 向加拿大发出的通知可能会引发去年在澳大利亚围绕媒体补偿问题展开的那种利害攸关的斗争。Facebook 在澳大利亚屏蔽其平台上的新闻的行动在五天后结束，该公司和政府达成了一项协议，官员们同意放松实际上要求 Facebook 支付费用的规定，以换取这家社交媒体公司恢复内容。Facebook 的策略招致了世界各地立法者的批评。",
-          "link": "https://www.solidot.org/story?sid=73147",
-          "publishedOn": "2022-10-24T03:38:55.000Z",
-          "wordCount": 156,
-          "title": "Facebook 威胁禁止加拿大新闻分享",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73146",
-          "author": null,
-          "description": "Facebook 母公司 META 警告加拿大，准备像去年在澳大利亚做的那样，阻止加拿大新闻内容的分享，除非自由党政府修改迫使大型数字公司对国内媒体机构进行补偿的立法。加拿大议会的一个委员会正在审查这项立法，议员们上周投票决定停止听取证人的进一步证词。Facebook 向加拿大发出的通知可能会引发去年在澳大利亚围绕媒体补偿问题展开的那种利害攸关的斗争。Facebook 在澳大利亚屏蔽其平台上的新闻的行动在五天后结束，该公司和政府达成了一项协议，官员们同意放松实际上要求 Facebook 支付费用的规定，以换取这家社交媒体公司恢复内容。Facebook 的策略招致了世界各地立法者的批评。",
-          "link": "https://www.solidot.org/story?sid=73146",
-          "publishedOn": "2022-10-24T03:38:13.000Z",
-          "wordCount": 155,
-          "title": "Facebook 威胁禁止加拿大新闻分享",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73145",
-          "author": null,
-          "description": "大强子对撞机（LHC）紧凑渺子线圈（CMS）国际合作组在最新一期《Nature Physics》上撰文指出，他们对希格斯玻色子的质量分布——“宽度”作了迄今最精确测量：3.2 MeV。这与标准模型预测一致，但比此前测量更精确，此前测量仅指出其宽度必须小于 9.2 MeV。在粒子物理标准模型中，希格斯玻色子赋予所有其他基本粒子质量，2012 年 LHC 首次发现了希格斯玻色子。但希格斯玻色子的性质很难确定，因为它会很快衰变为其他粒子，且并不总是以相同质量出现。在最新研究中，CMS 合作组根据 2016 年至 2018 年 LHC 第二轮运行期间收集的数据，确定了希格斯玻色子的宽度。他们的策略是比较希格斯玻色子衰变为其他两个粒子的两个不同过程的数据。在一个过程中，一个质量异常巨大的希格斯玻色子衰变为两个Z玻色子。在另一种情况下，希格斯玻色子的质量为理论模型预测更常见的质量。通过比较，研究人员计算出希格斯玻色子的宽度可能为 3.2 MeV。",
-          "link": "https://www.solidot.org/story?sid=73145",
-          "publishedOn": "2022-10-24T03:28:34.000Z",
-          "wordCount": 159,
-          "title": "物理学家获得希格斯玻色子“宽度”至今最精确测量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73144",
-          "author": null,
-          "description": "据 U-Boot 邮件列表上的消息，项目创始人 Wolfgang Denk 最近去世。Das U-Boot 或简写 U-Boot 是主要用于嵌入式系统的引导加载程序，支持多种不同的架构，包括 68k、ARM, Blackfin、MicroBlaze、MIPS、Nios、SuperH、PPC、RISC-V 和 x86。项目起源于 Magnus Damm 在 8xx PowerPC 架构下写的引导加载程序 8xxROM。1999 年 10 月，Wolfgang Denk 将项目移转到 SourceForge.net，因 SF.net 不允许数字开头的项目名称，所以改名为 PPCBoot。PPCBoot 在 2000年 7 月 19 日第一次公开发布 0.4.1 版。2002 年 10 月发布的 PPCBoot−2.0.0 是最后一个用 PPCBoot 名字发布的版本。它开始支持其它架构，PPCBoot−2.0.0 变成了 U−Boot−0.1.0。",
-          "link": "https://www.solidot.org/story?sid=73144",
-          "publishedOn": "2022-10-24T02:45:15.000Z",
-          "wordCount": 197,
-          "title": "Das U-Boot 创始人去世",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73143",
-          "author": null,
-          "description": "哥本哈根丹麦科技大学的科学家利用单根光缆和单个光子芯片实现了 1.84 petabit/s 数据传输率。这一壮举是在 7.9 公里距离上完成的。相比较下，全球网民每天使用的平均带宽为 1 petabit/s。随着数据使用量的增加，对带宽的需求也日益高涨。在标准光缆上使用紧凑单芯片实现 1.84 petabits/s 传输率的方案将会非常有吸引力。在实验中，数据流被分成 37 条，光子芯片将激光分成许多频率，为 37 条光纤数据流编码光数据。",
-          "link": "https://www.solidot.org/story?sid=73143",
-          "publishedOn": "2022-10-24T02:17:11.000Z",
-          "wordCount": 169,
-          "title": "科学家利用光缆和光子芯片实现 1.84 Petabit/s 传输率",
-          "imageUrl": null
         }
       ]
     },
@@ -1250,7 +1270,18 @@
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://catonmat.net/did-you-blank-today",
+          "author": null,
+          "description": "Hint: ship.",
+          "link": "https://catonmat.net/did-you-blank-today",
+          "publishedOn": "2022-11-02T06:25:00.000Z",
+          "wordCount": 105,
+          "title": "Complete the sentence: Did you __ today?",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        }
+      ]
     },
     {
       "title": "Discover Dev",
