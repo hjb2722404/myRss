@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43827",
+          "author": "青小蛙",
+          "description": "PowerToys 是微软发布的一款开源小工具集，集成了包括置顶窗口、保持唤醒、颜色选取器、图像大小调整等 15+ 种功能，前几日更新 v0.64.0 版本，新增「什么程序在使用此文件」和",
+          "link": "https://www.appinn.com/powertoys-v0-64-0/",
+          "publishedOn": "2022-11-06T13:04:36.000Z",
+          "wordCount": 2280,
+          "title": "PowerToys v0.64.0 发布，新增文件 Locksmith 与 主机文件编辑器 hosts",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/11/powertoys-0-64.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=43824",
+          "author": "青小蛙",
+          "description": "Telegram 今日更新了一个新功能：Topics in Groups（群组话题），可以为超过 200 人的群组设置不同的话题，有点类似 Discord 的感觉。@Appinn 对于超过数万用户的庞",
+          "link": "https://www.appinn.com/tg-topics-in-groups/",
+          "publishedOn": "2022-11-06T10:07:22.000Z",
+          "wordCount": 2298,
+          "title": "Telegram 新增群组话题功能 Topics in Groups",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/11/topics-in-groups.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43821",
           "author": "青小蛙",
           "description": "在线LaTeX公式编辑器 是一款简单易用，可视化的 LaTeX 公式编辑器，拥有实时预览，可导出图片、代码，或在线分享地址。拥有公式模板、图片识别，9个扩展，非常专业的公式编辑器。@Appinn 感谢",
@@ -130,26 +150,6 @@
           "wordCount": 2337,
           "title": "Typedown – 免费轻量级 Markdown 编辑器，可尝试替代 Typora[Windows]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/typedown.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43770",
-          "author": "青小蛙",
-          "description": "Cider 是一个开源的、面向社区的 Apple Music 客户端，基于 Electron 和 Vue.js，适用于 Windows、Linux、macOS，还拥有 iOS 与 Android 远程",
-          "link": "https://www.appinn.com/cider-for-apple-music/",
-          "publishedOn": "2022-10-28T10:22:59.000Z",
-          "wordCount": 2401,
-          "title": "Cider – 第三方开源 Apple Music 客户端，更好看、可远程控制[Win/Linux/macOS]",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/cider-for-apple-music.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43766",
-          "author": "青小蛙",
-          "description": "Hide Volume OSD 是一款专门用来隐藏 Windows 10、8 通过键盘调整音量时的音乐播放提示，就这么简单，解决了很多人的问题。@Appinn 来自发现频道，@wulu 同学的分享：",
-          "link": "https://www.appinn.com/hide-volume-osd/",
-          "publishedOn": "2022-10-28T07:55:23.000Z",
-          "wordCount": null,
-          "title": "Hide Volume OSD – 隐藏调整音量时 Windows 10 的音乐播放提示",
-          "imageUrl": null
         }
       ]
     },
@@ -207,16 +207,6 @@
           "wordCount": 2557,
           "title": "The New CSS Media Query Range Syntax",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374670"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374302",
-          "author": "Temani Afif",
-          "description": "We’ve spent the last two articles in this three-part series playing with gradients to make really neat image decorations using nothing but the <img> element. In this third and final piece, we are going to explore more techniques using the …\nFancy Image Decorations: Outlines and Complex Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/fancy-image-decorations-outlines-and-complex-animations/",
-          "publishedOn": "2022-10-28T12:45:47.000Z",
-          "wordCount": 1610,
-          "title": "Fancy Image Decorations: Outlines and Complex Animations",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374302"
         }
       ]
     },
@@ -234,16 +224,6 @@
           "wordCount": 1112,
           "title": "科技爱好者周刊（第 229 期）：手机充电问题的解决",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2022/10/weekly-issue-228.html",
-          "publishedOn": "2022-10-28T00:11:45.000Z",
-          "wordCount": 1056,
-          "title": "科技爱好者周刊（第 228 期）：人类和人生的意义",
-          "imageUrl": null
         }
       ]
     },
@@ -252,6 +232,16 @@
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10609",
+          "author": "张 鑫旭",
+          "description": "介绍在Web布局中，我所知道的与倒序排列，或反向布局，或任意位置设置相关的属性和技术，肯定还有其他策略，欢迎补充。",
+          "link": "https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/",
+          "publishedOn": "2022-11-06T09:27:52.000Z",
+          "wordCount": 1093,
+          "title": "Web前端开发中的反向与倒序",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10607",
           "author": "张 鑫旭",
@@ -269,6 +259,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73281",
+          "author": null,
+          "description": "消费者在网购时通常会阅读商品的评价，调查显示多达九成的消费者会根据在线评价决定是否购买某个商品，这是操纵评论制造虚假评论背后的商业动机。对于多达三成的虚假在线评论，消费者是很难甄别真假的。美国联邦贸易委员会最近宣布将制定新规定打击在线虚假评论。这一保护消费者的举措既受欢迎，也被认为难以彻底根除。评论也具有网络效应，部分企业的商品会有更多的评论，从而创造出了不公平的竞争环境，新企业或者没有多少评论的企业为了吸引更多客户会越界，因为你需要作弊才有可能参与竞争。",
+          "link": "https://www.solidot.org/story?sid=73281",
+          "publishedOn": "2022-11-06T15:46:11.000Z",
+          "wordCount": 144,
+          "title": "多达三成的在线评价是虚假的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73280",
+          "author": null,
+          "description": "辉瑞公布了新加强针的初步研究结果，称其更新后的新冠加强针显著提高了成年人体内对抗病毒的抗体。目前世界各地最流行的新冠病毒株是奥密克戎及其亚种。辉瑞及其合作伙伴 BioNTech 称，在注射了针对奥密克戎的新加强针一个月后，55 岁及以上人群的抗体水平增加了 13 倍，年轻成年人的抗体水平增加了 9.5 倍。注射时间距离参与者最后一次接种疫苗相距大约 11 个月。暂时还不知道新加强针在现实世界里能提供多大程度的保护，其效力能持续多久。研究还在进行之中，接种者体内的抗体水平会随着时间而减弱。",
+          "link": "https://www.solidot.org/story?sid=73280",
+          "publishedOn": "2022-11-06T14:32:19.000Z",
+          "wordCount": 152,
+          "title": "辉瑞称改进后的新冠加强针显著增加了抗体水平",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73279",
+          "author": null,
+          "description": "马斯克（Elon Musk）掌管 Twitter 所带来的不确定性促使许多用户涌向了去中心化微博客服务 Mastodon。Mastodon 创始人 Eugen Rochko 周四接受采访时表示，自 10 月 27 日马斯克宣布完成收购 Twitter 以来 Mastodon 吸引了 123,562 名新用户，到周六这一数字翻了一倍达到了 23 万新用户。很多 Twitter 用户都公布了自己的 Mastodon 账号，但在短时间他们应该不会立即前往 Mastodon，而是处于观望阶段。Mastodon 没有中心服务器，采用联邦式架构，没有广告。它的功能与 Twitter 基本一致，相比  Twitter 超过 2.3 亿日活用户，Mastodon 目前活跃用户只有 65.5 万。",
+          "link": "https://www.solidot.org/story?sid=73279",
+          "publishedOn": "2022-11-06T10:35:35.000Z",
+          "wordCount": 182,
+          "title": "Mastodon 迎来更多用户",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73278",
           "author": null,
@@ -998,146 +1018,6 @@
           "wordCount": 144,
           "title": "半脑就能识别文字和面孔",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73204",
-          "author": null,
-          "description": "欧洲理事会和欧洲议会周四就到 2030 年大幅减少乘用车碳排放和到 2035 年全面禁售内燃机汽车达成一致（https://arstechnica.com/?p=1893499）。欧盟已经制定了世界最严格的排放法规，目前的法规要求汽车厂商旗下的汽车必须达到每百公里排放 95 g CO2 的标准。最新规定要求到 2030 年乘用车的 CO2 排放在 2021 年的水平上降低 55%，货车减少 50%。到 2035 年所有新乘用车和货车必须零排放。法拉利、迈凯轮和阿斯顿马丁等年产量低于一万的厂商获得豁免，免于 2030 年的目标，但到 2035 年仍然必须实现零排放。现有的内燃机汽车无需到时立即报废和停止使用。",
-          "link": "https://www.solidot.org/story?sid=73204",
-          "publishedOn": "2022-10-28T15:25:33.000Z",
-          "wordCount": 173,
-          "title": "欧盟到 2035 年禁售内燃机汽车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73203",
-          "author": null,
-          "description": "Reddit 用户 PoisonWaffe3 在一家 ISP 工作，该 ISP 最近在处理退役的 Netflix 缓存服务器，他因而能拿到一台，让公众有机会一窥这一神秘的机器（https://arstechnica.com/?p=1893364）。这种机器被称为 Open Connect Appliance(OCA)—是 Netflix Open Connect CDN 的一部分。Open Connect 是一个服务器网络，安装在世界各地 ISP 的数据中心，储存了 Netflix 视频内容的本地拷贝，被用于加速该地区 Netflix 用户的串流。Open Connect 服务器配置外界所知不多，退役的缓存服务器源自 2013 年，使用了 SuperMicro 主板，一颗 Xeon E5 2650 v2 CPU，64GB DDR3 内存，36 个西部数据 7.2TB 硬盘，6 个 500GB 美光 SSD，一个 4 口 10GbE 网卡，一对  750 瓦电源供应。总储存容量 262TB。对个人用户来说相当多了。",
-          "link": "https://www.solidot.org/story?sid=73203",
-          "publishedOn": "2022-10-28T14:52:54.000Z",
-          "wordCount": 203,
-          "title": "一窥退役的 Netflix 缓存服务器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73202",
-          "author": null,
-          "description": "NASA InSight 火星探测器去年 12 月 24 日探测到了一次四级地震，科学家后来才知道地震源于陨石撞击。这是有记录以来火星遭到的最强陨石撞击（www.nasa.gov/feature/jpl/nasa-s-insight-lander-detects-stunning-meteoroid-impact-on-mars），留下直径近 150 米深 21 米的陨石坑，暴露出火星地表以下大块水冰。研究报告发表在本周四出版的《科学》期刊上。InSight 自 2018 年登陆火星以来，已经记录逾 1300 次火星地震，震级均未超过此次陨石撞击引发的地震。撞击火星的陨石直径在 5 米至 12 米之间。NASA 火星勘测轨道飞行器则捕捉到撞击留下的陨石坑图像。图像显示，陨石坑附近露出地表下的大块冰，因撞击飞溅的碎块最远落在陨石坑 40 公里外。",
-          "link": "https://www.solidot.org/story?sid=73202",
-          "publishedOn": "2022-10-28T10:46:29.000Z",
-          "wordCount": 173,
-          "title": "NASA InSight 探测到迄今火星遭遇的最强陨石撞击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73201",
-          "author": null,
-          "description": "NASA 和 NOAA 报告（www.nasa.gov/esnt/2022/ozone-hole-continues-shrinking-in-2022-nasa-and-noaa-scientists-say），今年南极上空的臭氧空洞面积稍小于去年。9 月 7 日至 10 月 13 日，南极臭氧空洞平均面积为 2320 万平方公里，相比去年“略微减小”。从整体来看，空洞面积近年来呈缩小趋势。1980 年代，科学家发现南极上空出现臭氧空洞，关联大量使用制冷剂、发泡剂、喷射剂等含有消耗臭氧层物质的化学制品。多国随后签署《关于消耗臭氧层物质的蒙特利尔议定书》，限制破坏臭氧层化学物质的生产和使用。截至今年 9 月，全球已经淘汰超过 99% 的消耗臭氧层物质。NASA 和 NOAA 预测，南极臭氧空洞将在 2070 年前后恢复。",
-          "link": "https://www.solidot.org/story?sid=73201",
-          "publishedOn": "2022-10-28T10:20:33.000Z",
-          "wordCount": 165,
-          "title": "南极臭氧空洞继续缩小",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73200",
-          "author": null,
-          "description": "乌干达的埃博拉疫情日益令人担忧，病毒正在人口密集的首都快速蔓延。这次疫情是埃博拉一种不常见的变种 Sudan 病毒引发的，目前没有疫苗或治疗方法。自 9 月 20 日宣布疫情爆发以来，病毒扩散到了7 个地区，109 个确诊病例，30 人死亡，可能还有病例未报告。有逾 160 万人口的首都 Kampala 报告了 15 个确诊病例，其中 6 人来自同一个家庭的学龄儿童，这些儿童及其家人和邻居是被一名从外地进入首都寻求治疗的人感染的。6 名儿童在三所不同学校上学，学校里的密接有 170 人，总密接人数有数百人。Sudan 病毒的致死率在 41%-100% 之间。乌干达已经批准了三种针对 Sudan 病毒的实验性疫苗，计划未来几周对暴露人群进行接种。",
-          "link": "https://www.solidot.org/story?sid=73200",
-          "publishedOn": "2022-10-28T10:06:18.000Z",
-          "wordCount": 168,
-          "title": "乌干达的埃博拉确诊病例突破百例",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73199",
-          "author": null,
-          "description": "根据发表在《Cell Metabolism》期刊上的一项研究，对小鼠的研究显示，一种被称为 Ovol2 的基因突变会导致肥胖。与未发生突变的同窝小鼠相比，肥胖小鼠的脂肪重量增加了 556%，瘦体重减少了 20%。实验表明，肥胖的动物在暴露在寒冷环境中时无法保持核心体温，这似乎是由于它们无法有效利用一种叫做褐色脂肪的组织，而褐色脂肪的主要功能是产生热量。进一步的测试表明，健康的 Ovol2 基因抑制了白色脂肪的发育，而白色脂肪是负责能量储存的主要组织。",
-          "link": "https://www.solidot.org/story?sid=73199",
-          "publishedOn": "2022-10-28T08:44:17.000Z",
-          "wordCount": 150,
-          "title": "基因突变可能是“喝水都胖”的原因",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73198",
-          "author": null,
-          "description": "Fedora 发行版宣布（https://fedoramagazine.org/fedora-linux-37-update/） Fedora Linux 37 的发布日期从原计划的 10 月底推迟到 11 月 15 日，原因是为了修复一个 OpenSSL 高危漏洞。修复漏洞的补丁计划在 11 月 1 日释出，因此关于该漏洞的细节尚未公开，安全社区的一种通常做法是在补丁做好准备前对相关信息保密，以防止其被利用。如果 Fedora 提前构建补丁就可能会泄露漏洞细节。",
-          "link": "https://www.solidot.org/story?sid=73198",
-          "publishedOn": "2022-10-28T08:00:56.000Z",
-          "wordCount": 174,
-          "title": "Fedora Linux 37 为修复高危漏洞推迟发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73197",
-          "author": null,
-          "description": "CD Projekt 和波兰游戏工作室 Fool's Theory 宣布正在用虚幻5 引擎重制第一代《猎魔人》游戏。Fool's Theory 由 CD Projekt 前员工创办，其作品包括《Seven: The Days Long Gone》，重制版主要由它负责开发。该项目代号为 Canis Majoris。Fool's Theory 此前参与了 Larian 工作室《神界》系列和《博德之门3》的开发支持工作。CD Projekt 加入了卡普空和顽皮狗等工作室的阵营，以重制受欢迎旧作的方式重整业务，而不是重启整个品牌。《猎魔人3》的图像升级预计会在年底推出，这一升级将免费提供给《猎魔人3》玩家，预计会支持光追，以及 DLSS/FSR 等提升频率的技术。",
-          "link": "https://www.solidot.org/story?sid=73197",
-          "publishedOn": "2022-10-28T05:41:23.000Z",
-          "wordCount": 180,
-          "title": "CD Projekt 用虚幻5 重制第一代猎魔人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73196",
-          "author": null,
-          "description": "苹果公司公布了截至 9 月 24 日的 2022 年第四财季报告，其收入继续保持增长势头。第四季度销售额 901 亿美元，同比增长 8%，净利润为 207 亿美元，都创下纪录。全年收入 3943 亿美元，同比增长 8%。\n总收入、iPhone 销售和净利润均超过分析师的预期。消费者需求下降并没有对苹果产生多大的影响。其它一些科技巨头已出现明显的增长放缓。本周早些时候，微软、Google 和 Facebook 母公司 Meta 公布的利润都令人失望，给出的理由包括消费者对个人电脑的需求减弱或数字广告表现疲软。",
-          "link": "https://www.solidot.org/story?sid=73196",
-          "publishedOn": "2022-10-28T05:04:07.000Z",
-          "wordCount": 164,
-          "title": "苹果收入继续增长势头",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73195",
-          "author": null,
-          "description": "因 PC 市场的不景气，英特尔公布了截至 10 月 1 日的 2022 年 Q3 财报，该季销售额 153 亿美元，同比下滑 20%，净利润为 10 亿美元，同比下滑 85%。英特尔预测当前财季销售额为 140-150 亿美元，全年销售额降为 640 亿美元。英特尔同时透露它的 Intel 4（7 纳米工艺）进展顺利进入大批量生产阶段，第 14 代酷睿处理器准备进入早期生产阶段，",
-          "link": "https://www.solidot.org/story?sid=73195",
-          "publishedOn": "2022-10-28T03:37:36.000Z",
-          "wordCount": 168,
-          "title": "英特尔销售额下滑五分之一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73194",
-          "author": null,
-          "description": "墨西哥参议院批准了取消夏令时的法案，结束了一年两次调整时钟的做法。靠近美国边境的城镇可以继续保留夏令时，可能是因为这些城镇与美国的联系密切。墨西哥参议院以 59 票赞成、25 票反对和 12 票弃权通过了法案。该法案此前已经在下院通过，交给总统 Andres Manuel Lopez Obrador 签署后将成为正式法律。它预计将在周日生效，墨西哥届时将最后一次调回时钟。",
-          "link": "https://www.solidot.org/story?sid=73194",
-          "publishedOn": "2022-10-28T03:06:32.000Z",
-          "wordCount": 153,
-          "title": "墨西哥取消夏令时，靠近美的边境城市可保留",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73193",
-          "author": null,
-          "description": "马斯克在周四完成了对 Twitter 的收购，他立即解雇了 CEO Parag Agrawal、CFO Ned Segal、首席法务官 Vijaya Gadde 、总法律顾问 Sean Edgett 以及首席客户官 Sarah Personette。法官要求他在本周五前完成这笔 440 亿美元的收购交易。作为被解雇的补偿，Agrawal 将获得 3870 万美元，Segal 获得 2540 万美元，Gadde 获得 1250 万美元。曾发推对收购欢呼的 Personette 获得 1120 万美元。马斯克此前据报道计划裁掉四分之三的 Twitter 员工，在收购之后他告诉员工这个数字是不准确的。根据马斯克与其朋友 Jason Calacanis 之间的通信，这位特斯拉 CEO 考虑通过要求远程办公的员工重返办公室的方式裁员，如果员工不愿意回办公室他们将被视为自愿辞职。对于 Twitter 的未来，马斯克曾讨论过要将其变成一种类似微信的万能应用，包含购物、支付和游戏功能。",
-          "link": "https://www.solidot.org/story?sid=73193",
-          "publishedOn": "2022-10-28T02:45:42.000Z",
-          "wordCount": 198,
-          "title": "马斯克控制 Twitter，解雇 CEO 和 CFO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73192",
-          "author": null,
-          "description": "美国联邦检方起诉了一位运营恶意程序即服务的 26 岁乌克兰男子 Mark Sokolovsky。他运营的 Raccoon 是一种窃取敏感信息的恶意程序，以相当于 200 美元的加密货币月费提供给客户，Sokolovsky 及其同伙向客户提供恶意程序、基础设施和技术支持。客户使用该服务感染目标，窃取电邮和银行账户、信用卡、加密货币钱包和其它私人信息相关的凭证。它支持 29 种基于 Chromium 浏览器，Mozilla apps，来自 Exodus 和 Jaxx 的钱包。恶意软件用 C++ 编写，支持屏幕截图。一旦从被感染的机器上提取所有数据，它会卸载并删除所有痕迹。美国检方称，有 200 万用户的数据被盗，他们从被盗的数据中发现了逾 5000 万个凭证和身份证明。Sokolovsky 于今年 3 月在荷兰被捕。",
-          "link": "https://www.solidot.org/story?sid=73192",
-          "publishedOn": "2022-10-27T15:45:48.000Z",
-          "wordCount": 170,
-          "title": "美国起诉一位运营恶意程序即服务的乌克兰男子",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73191",
-          "author": null,
-          "description": "提供自托管 Git 版本控制平台的 Gitea 项目宣布成立公司 Gitea Limited 以对该项目提供更好的支持。Gitea 项目会继续开源并继续采用社区治理模式，通过成立公司项目将能为部分维护者提供兼职工作，未来有望扩大为全职工作，并雇佣更多维护者。他们还计划成立基金。Gitea 源自于 Gogs，因为 Gogs 控制在单个维护者手中，他不太乐意接受外部贡献，因此在 2016 年一群开发者创建了 Gogs 分支 Gitea，该项目在开发上比 Gogs 更为活跃功能也更为丰富。",
-          "link": "https://www.solidot.org/story?sid=73191",
-          "publishedOn": "2022-10-27T15:28:01.000Z",
-          "wordCount": 166,
-          "title": "Gitea 项目成立公司",
-          "imageUrl": null
         }
       ]
     },
@@ -1207,6 +1087,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/ship",
+          "author": null,
+          "description": "Ship!",
+          "link": "https://catonmat.net/ship",
+          "publishedOn": "2022-11-06T05:05:00.000Z",
+          "wordCount": 90,
+          "title": "Ship!",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/complete-sentence-ship",
           "author": null,
