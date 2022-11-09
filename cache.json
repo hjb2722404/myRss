@@ -12,6 +12,31 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43856",
+          "author": "青小蛙",
+          "description": "ContextMenuForWindows11 是一款用来修改 Windows 11 右键菜单的小工具，比如为 .txt 添加使用 EmEditor 打开这个右键菜单。@Appinn 来自发现频道，手",
+          "link": "https://www.appinn.com/contextmenuforwindows11/",
+          "publishedOn": "2022-11-08T08:37:08.000Z",
+          "wordCount": 2277,
+          "title": "ContextMenuForWindows11 – 修改 Windows 11 右键菜单",
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/11/contextmenuforwindows11.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=43851",
+          "author": "青小蛙",
+          "description": "KBLAutoSwitch 是一款基于 AHK 的开源小工具，它能够根据不同窗口，自动切换中英文输入法，还可以当作输入法指示器使用，在屏幕上当前所敲击的键位。@Appinn 来自发现频道，@anony",
+          "link": "https://www.appinn.com/kblautoswitch/",
+          "publishedOn": "2022-11-08T05:07:33.000Z",
+          "wordCount": 2280,
+          "title": "KBLAutoSwitch – 中英文输入法自动切换、输入法指示器[Windows]",
+          "enclosure": {
+            "url": "https://img.appinn.com/wp-content/uploads/2022/11/ezgif.com-gif-maker-46.mp4",
+            "length": "102646",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/11/kblautoswitch.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43834",
           "author": "青小蛙",
           "description": "来自 sharewareonsale 的 250 Professional Font Bundle ，拥有 250 款专业的英文字体，非常适合标示、展示、邀请函、标",
@@ -140,16 +165,6 @@
           "wordCount": 2266,
           "title": "ToonMe – 排名第一的照片卡通化应用[Web/iPhone/Android]",
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/toonme.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43780",
-          "author": "青小蛙",
-          "description": "米历是一个追求极致简洁的日历 App，支持暗色主题、同步本地日历/日程等。@Appinn 来自发现频道，开发者 @yuanx 自荐： 米历 – 探索日历本质，追求极致简洁 大多数日历 Ap",
-          "link": "https://www.appinn.com/mili-calendar-for-iphone/",
-          "publishedOn": "2022-10-30T13:23:40.000Z",
-          "wordCount": 2364,
-          "title": "米历 – 为 iPhone 做一款简单的日历应用",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/10/mili.jpgo_.jpg"
         }
       ]
     },
@@ -158,6 +173,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=374775",
+          "author": "Geoff Graham",
+          "description": "Sacha Greif openly wondered whether CSS has gotten to be, you know, too big. With all the goodies that’ve shipped in browsers the past couple of years — container queries! relative color syntax! cascade layers! logical properties…\nWhat CSS Do You Absolutely Have to Know in 2022? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/what-css-do-you-absolutely-have-to-know-in-2022/",
+          "publishedOn": "2022-11-08T13:51:48.000Z",
+          "wordCount": 1572,
+          "title": "What CSS Do You Absolutely Have to Know in 2022?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374775"
+        },
         {
           "id": "https://css-tricks.com/?p=374910",
           "author": "Ganesh Dahal",
@@ -269,6 +294,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73305",
+          "author": null,
+          "description": "GNU 项目的文档系统排版软件包 Texinfo 释出了一个大更新版本 v7.0。主要新特性是支持输出格式 LaTeX 和 EPUB 3，以及大量其它变化如改进 HTML 输出格式支持，修正了字符编码问题，加强了 DocBook 输出。LaTeX 是基于 TeX 的排版系统，以生成高印刷质量的科技和数学、物理文档著称。EPUB 3 是 EPUB 电子书格式的最新一代。",
+          "link": "https://www.solidot.org/story?sid=73305",
+          "publishedOn": "2022-11-08T14:08:13.000Z",
+          "wordCount": 175,
+          "title": "GNU Texinfo 7.0 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73304",
+          "author": null,
+          "description": "日本经济产业省节能委员会本月初讨论了获得远程关闭私人住宅空调/加热器的能力。委员会认为，日本正试图依赖于太阳能等可更新能源，太阳能的发电量受到了日常气候的影响，难以提供稳定的可用发电量。而家用空调占到了家庭用电量的三成。远程控制空调的目的是在预期电力短缺时减少用电量。从技术角度看实施该计划并不困难。当代的很多空调都支持通过互联网启动或关闭或调整温度设置。政府考虑让制造商将联网遥控空调的能力扩大提供给政府监管机构。这个权限并不是默认授予，委员会考虑的是只有在空调所有者同意的情况下政府才能遥控关闭空调。",
+          "link": "https://www.solidot.org/story?sid=73304",
+          "publishedOn": "2022-11-08T12:39:31.000Z",
+          "wordCount": 143,
+          "title": "日本政府寻求获得远程关闭私人住宅空调的能力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73303",
+          "author": null,
+          "description": "索尼准备全面弃用塑料包装。这项计划准备从 2023 年启动，首次从智能手机等小型产品开始，塑料包装将逐步被纸箱和竹子等材料替代。索尼电视机等大型产品也将会弃用塑料包装，目前电视机等产品使用泡沫塑料防止磕磕碰碰。在日本大型电子产品厂商中，索尼是第一家提出全面弃用塑料包装的公司。除了包装外，索尼还准备用二维码来减少说明书。",
+          "link": "https://www.solidot.org/story?sid=73303",
+          "publishedOn": "2022-11-08T09:26:31.000Z",
+          "wordCount": 146,
+          "title": "索尼将从产品中全面去除塑料包装",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73302",
+          "author": null,
+          "description": "Max Planc k动物行为研究所的一个小组发现，欧洲鼹鼠的大脑在冬天前收缩 11%，到夏天时又会长回 4%。此类大脑萎缩的哺乳动物以通过一种被称为德涅尔现象的过程可逆收缩大脑而闻名。欧洲鼹鼠是已知的最新一种。然而，这项研究不仅仅是为大脑萎缩的动物增添了一个奇异的物种；它深入研究了是什么推动它们走上这条危险道路的进化之谜。当研究人员比较来自不同地区的鼹鼠时，他们发现德纳尔的现象是由寒冷的环境引起的，而不仅仅是缺乏食物。减少大脑组织有助于动物消耗更少的能量，从而抵御寒冷。",
+          "link": "https://www.solidot.org/story?sid=73302",
+          "publishedOn": "2022-11-08T08:57:11.000Z",
+          "wordCount": 148,
+          "title": "欧洲鼹鼠的大脑会在冬季萎缩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73301",
+          "author": null,
+          "description": "天文学家利用欧洲空间局（ESA）盖亚空间探测器的数据，发现了迄今为止距离地球最近的黑洞。这种基于双星系统特性的新方法未来有望检测出更多休眠黑洞。2022 年 6 月，ESA 公布了盖亚第三次完整观测数据集（盖亚 DR3）。根据发光恒星和巨大的隐形伴星相互环绕的系统的选择标准，研究人员确定了 6 个候选对象。两个物体作为双星系统相互绕行时，它们中的每一个通常都有椭圆形的运行轨道。盖亚 DR3 包含 168065 个此类椭圆的部分数据。通过轨道计算和拟合，研究人员找到了与已知数据最相符的对象“盖亚BH1”。研究结果显示，盖亚BH1 是一个具有类太阳恒星和一个不可见物体的系统，轨道运行周期为 185.6 天。这个不可见物体的质量大约为太阳 10 倍。恒星与伴星之间的距离和地球与太阳之间的平均距离大致相同。如果盖亚 BH1是另一颗恒星，它必然会比它的伴星亮得多。相反，盖亚的数据和后续观测都没有显示来自第二颗恒星的光。因此，这个不可见物体被认为是黑洞。",
+          "link": "https://www.solidot.org/story?sid=73301",
+          "publishedOn": "2022-11-08T08:31:38.000Z",
+          "wordCount": 162,
+          "title": "天文学家发现已知最近的黑洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73300",
+          "author": null,
+          "description": "发表在预印本平台 medrxiv 的一项大型研究发现，对老年人和有基础疾病的患者来说，在感染新冠几天内服用抗病毒药物 Paxlovid 不仅降低了他们住院或死亡的几率，还降低了他们出现新冠长期症状的风险。该研究尚未经过同行评议，也未表明该药物是否会对年轻人或没有高危疾病的人等患者有益。研究分析了逾 5.6 万名新冠患者，其中逾 9 千人在感染前五天内接受了 Paxlovid 的治疗。结果显示，接受药物治疗的人出现新冠长期症状的风险降低了  26%。",
+          "link": "https://www.solidot.org/story?sid=73300",
+          "publishedOn": "2022-11-08T07:38:44.000Z",
+          "wordCount": 160,
+          "title": "Paxlovid 可能有助于降低长新冠风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73299",
+          "author": null,
+          "description": "Windows 用户可能都有类似的经历，试图删除一个文件，结果被告知文件正在被使用，但在任务管理器中你不知道文件是被哪个进程使用。现在 Windows 11 和 Windows 10 上的工具 PowerToys 释出了更新，加入了名叫 File LockSmith 的功能让用户知道哪一个进程在使用哪个文件，安装之后选定某个文件或某个文件夹右键，可以选择查看哪个进程在使用该文件。PowerToys 发布在 GitHub 上。",
+          "link": "https://www.solidot.org/story?sid=73299",
+          "publishedOn": "2022-11-08T07:26:50.000Z",
+          "wordCount": 167,
+          "title": "Windows 11 将让用户知道哪一个进程在使用文件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73298",
+          "author": null,
+          "description": "美国司法部周一宣布，从暗网市场丝绸之路窃取价值逾 33 亿美元比特币的男子 James Zhong 承认电信欺诈，其窃取加密货币资产被没收。32 岁的 Zhong 是在 2012 年 9 月从丝绸之路非法获取了 5 万枚比特币。司法部表示，联邦特工去年 11 月使用搜查令从当时被告在乔治亚州 Gainesville 的一栋房子内的保险箱和单板电脑上查获了逾 50,491 枚比特币，$661,900 现金，25 个比特币硬币 Casascius 价值约 174 比特币，额外的 11.1160005300044 比特币等。这是至今美国司法部扣押的最大规模的加密货币资产。Zhong 窃取的比特币当时只有 65 万美元，他是利用快存快取的方式欺骗丝绸之路的提款系统，举例来说，他先向一个丝绸之路钱包储存了 500 比特币，然后在不到 5 秒中执行 5 次 500 比特币提款。 \nZhong 的刑期将于 2023 年 2 月宣布。",
+          "link": "https://www.solidot.org/story?sid=73298",
+          "publishedOn": "2022-11-08T06:59:53.000Z",
+          "wordCount": 197,
+          "title": "美国没收窃取自丝绸之路的 33.6 亿美元比特币",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73297",
+          "author": null,
+          "description": "联合国开发计划署（UNDP）周一公布的报告称，印度在 2005-06 年到 2019-21 年的 15 年间有 4.15 亿人口摆脱了贫困。印度的贫困率从 2005-06 年的 55.1% 降至 2019-21 年的 16.4%。报告称，在 4.15 亿脱贫人口中，2.75 亿是在 2005-06 到 2015-16 年之间脱贫，1.4 亿是在 2015-16 到 2019-21 年之间脱贫。农村地区 2015-16 年到 2019-21 年贫困率从 36.6% 降至 21.2%，城市贫困率从 9.0% 降至 5.5%。印度仍然有 4.2% 的人口处于赤贫状态。",
+          "link": "https://www.solidot.org/story?sid=73297",
+          "publishedOn": "2022-11-08T05:54:49.000Z",
+          "wordCount": 192,
+          "title": "印度 4.15 亿人口脱贫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73296",
+          "author": null,
+          "description": "世界气象组织（WMO）的研究人员在全球 100 多个监测点测量了大气中主要温室气体的浓度。他们发现，自 1750 年以来，二氧化碳对全球变暖的贡献率约为 66%，其浓度在 2021 年平均增加了 2.5ppm，达 415.5ppm。一氧化二氮对全球变暖的贡献率约为 7%，增加了 1.3ppb，达 334.5ppb。这些增幅都略高于前 10 年的年均增幅。对全球变暖贡献率达 16% 的甲烷，则出现了40年前有记录以来的最大单年增幅。在 2020 年至 2021 年间，大气中的甲烷增加了 18ppb，达到1908ppb，是工业化前水平的 2.5 倍多。二氧化碳和一氧化二氮浓度上升的原因并不神秘。二氧化碳主要来自化石燃料的持续燃烧等；一氧化二氮主要来自氮肥使用、化石燃料燃烧，以及一些工业过程，其重要天然来源还包括土壤和海洋中的微生物。",
+          "link": "https://www.solidot.org/story?sid=73296",
+          "publishedOn": "2022-11-08T03:47:47.000Z",
+          "wordCount": 166,
+          "title": "温室气体浓度再创新高",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73295",
+          "author": null,
+          "description": "金融时报报道称，阿里巴巴和壁仞科技正在对它们最先进的芯片设计进行微调，以降低运行速度，从而避开美国为打压中国算力而实施的制裁。当美国宣布严格的芯片出口政策时，阿里巴巴和壁仞的最新芯片正在台积电测试运行。新规定迫使这些公司停止生产，对设计进行修改。美国的一项规定是芯片的数据传输率必须低于 600 GB/s，为了让台积电继续生产其芯片，壁仞的工程师降低了处理器的速度。壁仞的首款芯片 BR100 设计传输率 640 GB/s，超出了美国的限制。修改后的设计将  BR100 的传输率降至 576 GB/s。阿里巴巴的平头哥正在研究如何修改 5 纳米处理器的设计。",
+          "link": "https://www.solidot.org/story?sid=73295",
+          "publishedOn": "2022-11-08T03:43:20.000Z",
+          "wordCount": 157,
+          "title": "阿里巴巴和壁仞等降低芯片速度",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73294",
           "author": null,
@@ -1077,26 +1212,6 @@
           "publishedOn": "2022-10-31T02:50:28.000Z",
           "wordCount": 148,
           "title": "富士康郑州工厂受疫情冲击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73212",
-          "author": null,
-          "description": "本周三，马斯克(Elon Musk)抱着一个水槽访问了 Twitter 总部，传达了融入(sink in)的意愿，当天晚些时候他与员工进行友好交谈。马斯克此前告诉投资者计划在收购后将 Twitter 大约 7500 名员工裁掉四分之三，但周三他告诉员工没有大规模裁员计划。周四马斯克完成了对 Twitter 的收购，立即解雇了包括 CEO、CFO 和首席法务官在内的主要高管。周五员工们焦急的等待马斯克的下一步计划，在公司的 Slack 频道上搜索谁可能会被解雇，他们的工作将会如何改变的信息，但一无所获。剩余的高管与马斯克的团队举行了闭门会议。一名匿名员工称，当天非常混乱。马斯克先是要求程序员们打印出过去 30 到 60 天写的代码，供特斯拉的工程师检查。然后接着又通知不要打印了，只要在马斯克评估时在机器上准备好最近写的代码就行。一名匿名的特斯拉前工程师说，特斯拉工程师在评估 Twitter 工程师写的代码时可能会遇到困难，因为  Twitter 的分布式系统并不是汽车工程师的特长。他认为整件事非常可笑。一位  Twitter 员工称其感受是“谨慎乐观的毛骨悚然”。部分员工在马斯克控制的 Twitter 的第一天感到愤怒和困惑，他们完全是一无所知。",
-          "link": "https://www.solidot.org/story?sid=73212",
-          "publishedOn": "2022-10-30T13:30:34.000Z",
-          "wordCount": 177,
-          "title": "马斯克控制 Twitter 的第一天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73211",
-          "author": null,
-          "description": "韩国首尔龙山区黎泰院洞一带 29 日晚有数万人为庆祝万圣节而聚集并发生大规模踩踏事故。目前有至少 151 人死亡，82 人受伤。遇难者中有两名外籍人员。龙山消防署方面称，部分伤者在抢救过程中死亡，另一部分伤者接受治疗后返家。大部分遇难者是 29 岁以下的年轻人。消防部门于 29 日晚上 10 时 15 分许开始接到数十起有关哈密尔顿酒店附近大批人员被挤压并呼吸困难的报告。事发后，数十人倒在哈密尔顿酒店前面的道路上，并接受心肺复苏。黎泰院多处在万圣节前夕的 29 日晚举行派对。大批人员一下子聚集在哈密尔顿酒店旁4米宽的下坡路，由此发生踩踏事故。一名在场人员表示，当晚 10 点过后，有人在哈密尔顿酒店旁的小巷里摔倒，之后后面的人们也一个个摔倒并层层挤压。",
-          "link": "https://www.solidot.org/story?sid=73211",
-          "publishedOn": "2022-10-30T01:54:30.000Z",
-          "wordCount": 168,
-          "title": "韩国首尔万圣节活动发生踩踏事故至少 151 人死亡",
           "imageUrl": null
         }
       ]
