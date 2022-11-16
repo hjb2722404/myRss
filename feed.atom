@@ -2,10 +2,134 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-11-15T03:12:54.491Z</updated>
+    <updated>2022-11-16T03:14:28.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Behind the CSScenes, November 2022]]></title>
+        <id>https://css-tricks.com/?p=375066</id>
+        <link href="https://css-tricks.com/behind-the-csscenes-november-2022/"/>
+        <updated>2022-11-15T15:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Is it Fall? Winter? I don’t know, but I woke up with snow in the front yard this morning and felt like it was time to write a little update about what’s been happening around CSS-Tricks this past month, as …
+Behind the CSScenes, November 2022 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Googe 奖励发现 Pixel 锁屏绕过漏洞的研究人员七万美元]]></title>
+        <id>https://www.solidot.org/story?sid=73373</id>
+        <link href="https://www.solidot.org/story?sid=73373"/>
+        <updated>2022-11-15T10:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Googe 向一位发现 Pixel 锁屏绕过漏洞的研究人员奖励了七万美元。这个漏洞被称为 CVE-2022-20465，被描述为本地提权漏洞，允许任何人在能访问设备的情况下无需密码解锁 Google Pixel 智能手机。匈牙利研究人员 David Schutz 是无意中发现该漏洞的，他旅行回到家，Pixel 6 只剩下 1% 的电，自动关机时他正在写短信，他赶紧给手机充电重启手机，手机要求输入 Pin 码，但他一时间忘记了...在解锁手机过程中他发现任何接触到 Pixel 手机的人都可以换上自己的 SIM 卡，输入预设恢复代码，绕过操作系统的锁屏保护。他向 Google 报告了漏洞，Google 在本月初释出的安全更新中修复了该漏洞。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 就隐私问题与美国 40 个州达成 3.91 亿美元和解]]></title>
+        <id>https://www.solidot.org/story?sid=73372</id>
+        <link href="https://www.solidot.org/story?sid=73372"/>
+        <updated>2022-11-15T09:50:38.000Z</updated>
+        <summary type="html"><![CDATA[Google 就其收集用户位置数据与美国 40 个州的检察长联盟达成了 3.915 亿美元的和解协议，这是搜索巨人在隐私投诉中支付的最高金额。在达成和解之前，各州指控即使用户选择停止记录行踪，Google 仍通过其多个移动应用程序收集位置数据。和解结束了这 40 个州对 Google 为期四年的调查。Google 表示它已经纠正了在和解协议中提到的一些做法，从 2023 年起它还将更明确的披露位置跟踪相关的信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴菲特的公司向台积电投资 41 亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=73371</id>
+        <link href="https://www.solidot.org/story?sid=73371"/>
+        <updated>2022-11-15T09:00:01.000Z</updated>
+        <summary type="html"><![CDATA[巴菲特(Warren Buffett)旗下的伯克希尔哈撒韦(Berkshire Hathaway)公司向 SEC 递交了第三季度的 Form 13F 文件，披露了其所持股票和持仓规模。文件显示，伯克希尔第三季度向股市投资了约 90 亿美元，约三分之一的资金流向了能源公司西方石油公司和雪佛龙公司，它斥资 41 亿美元购买了台积电 6000 万股美国上市股票，这是该季度进行的最大一笔新股投资。台积电在伯克希尔所持科技集团股票中排名第三。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[意大利禁止使用面部识别技术，犯罪调查例外]]></title>
+        <id>https://www.solidot.org/story?sid=73370</id>
+        <link href="https://www.solidot.org/story?sid=73370"/>
+        <updated>2022-11-15T08:34:54.000Z</updated>
+        <summary type="html"><![CDATA[意大利暂停使用面部识别技术和能识别汽车牌照的红外智能眼镜。隐私监督机构数据保护局称，在相关法律采用前或至少到明年年底之前，不允许使用生物识别数据的面部识别系统。司法调查或打击犯罪行为将作为例外情况。数据保护局表示要对面部识别相关的做法进行规范。该机构表示，根据欧盟和意大利的法律，公共机构使用视频设备处理个人数据，基于公共利益的理由且与公共当局活动有关，这些通常是允许的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distill Web Monitor – 监控网页「任意区域」变化，实时提醒]]></title>
+        <id>https://www.appinn.com/?p=43906</id>
+        <link href="https://www.appinn.com/distill-web-monitor/"/>
+        <updated>2022-11-15T07:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Distill Web Monitor 是一款专门用来监控网页任意区域变化，并发出实时提醒的工具，支持 Chrome、Firefox、Opear，以及拥有 Android 与 iOS 客户端。@App]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基因变异或能解释一名母亲四个孩子的死亡]]></title>
+        <id>https://www.solidot.org/story?sid=73369</id>
+        <link href="https://www.solidot.org/story?sid=73369"/>
+        <updated>2022-11-15T07:16:57.000Z</updated>
+        <summary type="html"><![CDATA[Kathleen Folbigg 有四个孩子在婴儿时期猝死，她被怀疑谋杀了他们。检察官说，闪电不可能击中同一个人四次。2003 年 10 月她被判处 40 年监禁，对她的指控都是基于间接证据。2018 年一组科学家开始收集证据，表明死亡的另一种可能性——至少两例死亡可归因于一种可以影响心脏功能的基因突变。2019 年的一项司法调查未能推翻 Kathleen 的定罪，但本月，研究人员将在第二次调查中提出大量新证据，这可能最终使 Kathleen 在监狱中服刑近 20 年后获得自由。超过 90 名科学家在 2021 年 3 月签署了一份请愿书，主张基于这些证据释放她。科学家在 Kathleen 身上发现了名为钙调素2 (CALM2)的基因变体。人类有三个钙调素基因，编码与钙结合并控制细胞内钙浓度的相同蛋白质，这有助于调节心脏收缩等功能。这些基因的突变极其罕见，但有突变的人往往患有严重的心脏疾病和突然死亡的报道。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现用字母书写的已知最古老句子]]></title>
+        <id>https://www.solidot.org/story?sid=73368</id>
+        <link href="https://www.solidot.org/story?sid=73368"/>
+        <updated>2022-11-15T06:51:07.000Z</updated>
+        <summary type="html"><![CDATA[以色列科学家在一把象牙梳的侧面发现了第一个用字母书写的最古老的句子。字母大小从 1 毫米到 3 毫米不等，句中以恳求的语气写道：“愿这颗象牙能根除头发和胡子上的虱子。”大约 5200 年前，美索不达米亚和埃及出现了文字。这些早期书写系统并非字母形式，而是用符号表示单词和音节。字母出现较晚，可能是在埃及及附近地区发明的。某些古埃及象形文字被重新利用，形成了人们熟悉的字母。每个字母代表一个语音单位。由于缺乏考古证据，字母的早期历史是神秘的，人们甚至连字母的确切发明时间都无法确定。许多研究人员认为大约是在 3800 年前，但有一些证据表明，字母早在 4300 年前就开始使用了。耶路撒冷希伯来大学的 Yosef Garfinkel 和同事于 2016 年在以色列南部的考古遗址拉奇什发掘了这把梳子。虽然来自大约 2700 年前的遗址，但从刻在梳子上的文字风格来看，这件特殊的艺术品当时可能已有大约 1000 年历史。象牙梳上有 17 个字母，两个已损坏。至关重要的是，它们似乎形成了一个完整的、可理解的句子，并以拉奇什使用的古迦南语书写。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度解除 VideoLAN 禁令]]></title>
+        <id>https://www.solidot.org/story?sid=73367</id>
+        <link href="https://www.solidot.org/story?sid=73367"/>
+        <updated>2022-11-15T06:37:42.000Z</updated>
+        <summary type="html"><![CDATA[陈少举 写道 "今年8月份，印度政府屏蔽了 VLC 播放器项目的网站及下载链接，上个月 VLC 播放器的非盈利组织威胁起诉印度政府后，印度于近日解除了对 VLC 网站的相关禁令。
+
+
+在经历了 9 个月的封禁之后，印度电子和信息技术部 (MeitY) 取消了对 VLC Media Player 网站的相关禁令。这意味着印度用户可以继续免费下载这款热门的媒体播放器。"]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类在社媒上的行为类似自然界中的群行]]></title>
+        <id>https://www.solidot.org/story?sid=73366</id>
+        <link href="https://www.solidot.org/story?sid=73366"/>
+        <updated>2022-11-15T06:36:46.000Z</updated>
+        <summary type="html"><![CDATA[你可能见到过一群鸟在天空翱翔的行为，它们一会向左一会向右，一会密集一会稀疏，一会慢一会快，仿佛有着秘密的节奏在引导它们。这种现象生物学上有一个专有名词叫“群行行为（murmuration）”。在群行中，平均每只鸟只能看见周围的七只鸟，并据此调整其行为，它们不知道鸟群的目的地，但每一只鸟的微小变化都会对整体的进程产生影响，创造出一种我们难以理解的迷人模式。愈来愈多的研究表明，人类在社交媒体上的行为与之存在相似性。社交媒体的群体行为最早形成于 2000 年代中期，当时的互联网提供了一种新颖的人际关系拓扑结构，人只能认识最多 150 个朋友的邓巴数（Dunbar’s Number）仍然有效。但慢慢的，我们有了成千上万的朋友，有了成千上万的跟随者，朋友和跟随者的数量成为了一种骄傲的资本，显著的展现在个人资料页面上。朋友成为了动词，我们结交的不只是我们的朋友，还有熟人，熟人的朋友，熟人朋友的熟人。虚拟世界不受物理空间或人类认知的限制，而是受到商业的激励。一旦人们与现实世界中的朋友建立了紧密联系，受商业激励的平台会帮助他们寻找新的群体以最大化他们留在平台上的时间——因为这意味着更多的广告和收入。算法会根据相似性推荐用户加入特定的在线社群。这种做法被称为协同过滤(Collaborative Filtering)。这种商业驱使的做法产生了意想不到的后果，也可能 导致了愈来愈多的社会动荡。在美国，一个突出的例子是 QAnon 阴谋论运动。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APTV – 直播流播放器，播放在线 m3u8 视频，支持回放[iPhone/iPad/AppleTV]]]></title>
+        <id>https://www.appinn.com/?p=43903</id>
+        <link href="https://www.appinn.com/aptv-m3u8-player/"/>
+        <updated>2022-11-15T04:30:47.000Z</updated>
+        <summary type="html"><![CDATA[APTV 是一款可实时预览的直播流播放器，用于播放在线 m3u8 视频，或本地 m3u8 文件，对于支持的源，还可以进行回放，支持 iOS、iPadOS、tvOS、macOS。@Appinn 感谢 @]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊计划裁减上万员工]]></title>
+        <id>https://www.solidot.org/story?sid=73365</id>
+        <link href="https://www.solidot.org/story?sid=73365"/>
+        <updated>2022-11-15T02:40:31.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊计划裁减上万员工，这一计划可能最快于本周展开。裁员主要针对的是企业员工，可能影响包括语音助手 Alexa 产品的设备部门，以及人力资源和零售部门。亚马逊另外也已开始裁减从事招聘工作的承包商，他们在过去几周被告知其委托将突然结束。此次裁员占亚马逊全球员工总数的不到 1%，截至 9 月底，亚马逊全球员工总数超过 150 万人，其中包括数十万名仓库工人。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[贝索斯表示将会捐出大部分财富]]></title>
         <id>https://www.solidot.org/story?sid=73364</id>
@@ -1003,76 +1127,6 @@ Managing CSS Styles in a WordPress Block Theme originally published on CSS-Trick
         <summary type="html"><![CDATA[消费者在网购时通常会阅读商品的评价，调查显示多达九成的消费者会根据在线评价决定是否购买某个商品，这是操纵评论制造虚假评论背后的商业动机。对于多达三成的虚假在线评论，消费者是很难甄别真假的。美国联邦贸易委员会最近宣布将制定新规定打击在线虚假评论。这一保护消费者的举措既受欢迎，也被认为难以彻底根除。评论也具有网络效应，部分企业的商品会有更多的评论，从而创造出了不公平的竞争环境，新企业或者没有多少评论的企业为了吸引更多客户会越界，因为你需要作弊才有可能参与竞争。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[辉瑞称改进后的新冠加强针显著增加了抗体水平]]></title>
-        <id>https://www.solidot.org/story?sid=73280</id>
-        <link href="https://www.solidot.org/story?sid=73280"/>
-        <updated>2022-11-06T14:32:19.000Z</updated>
-        <summary type="html"><![CDATA[辉瑞公布了新加强针的初步研究结果，称其更新后的新冠加强针显著提高了成年人体内对抗病毒的抗体。目前世界各地最流行的新冠病毒株是奥密克戎及其亚种。辉瑞及其合作伙伴 BioNTech 称，在注射了针对奥密克戎的新加强针一个月后，55 岁及以上人群的抗体水平增加了 13 倍，年轻成年人的抗体水平增加了 9.5 倍。注射时间距离参与者最后一次接种疫苗相距大约 11 个月。暂时还不知道新加强针在现实世界里能提供多大程度的保护，其效力能持续多久。研究还在进行之中，接种者体内的抗体水平会随着时间而减弱。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PowerToys v0.64.0 发布，新增文件 Locksmith 与 主机文件编辑器 hosts]]></title>
-        <id>https://www.appinn.com/?p=43827</id>
-        <link href="https://www.appinn.com/powertoys-v0-64-0/"/>
-        <updated>2022-11-06T13:04:36.000Z</updated>
-        <summary type="html"><![CDATA[PowerToys 是微软发布的一款开源小工具集，集成了包括置顶窗口、保持唤醒、颜色选取器、图像大小调整等 15+ 种功能，前几日更新 v0.64.0 版本，新增「什么程序在使用此文件」和]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastodon 迎来更多用户]]></title>
-        <id>https://www.solidot.org/story?sid=73279</id>
-        <link href="https://www.solidot.org/story?sid=73279"/>
-        <updated>2022-11-06T10:35:35.000Z</updated>
-        <summary type="html"><![CDATA[马斯克（Elon Musk）掌管 Twitter 所带来的不确定性促使许多用户涌向了去中心化微博客服务 Mastodon。Mastodon 创始人 Eugen Rochko 周四接受采访时表示，自 10 月 27 日马斯克宣布完成收购 Twitter 以来 Mastodon 吸引了 123,562 名新用户，到周六这一数字翻了一倍达到了 23 万新用户。很多 Twitter 用户都公布了自己的 Mastodon 账号，但在短时间他们应该不会立即前往 Mastodon，而是处于观望阶段。Mastodon 没有中心服务器，采用联邦式架构，没有广告。它的功能与 Twitter 基本一致，相比  Twitter 超过 2.3 亿日活用户，Mastodon 目前活跃用户只有 65.5 万。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram 新增群组话题功能 Topics in Groups]]></title>
-        <id>https://www.appinn.com/?p=43824</id>
-        <link href="https://www.appinn.com/tg-topics-in-groups/"/>
-        <updated>2022-11-06T10:07:22.000Z</updated>
-        <summary type="html"><![CDATA[Telegram 今日更新了一个新功能：Topics in Groups（群组话题），可以为超过 200 人的群组设置不同的话题，有点类似 Discord 的感觉。@Appinn 对于超过数万用户的庞]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web前端开发中的反向与倒序]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=10609</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2022/11/web-direction-reverse-css-dom/"/>
-        <updated>2022-11-06T09:27:52.000Z</updated>
-        <summary type="html"><![CDATA[介绍在Web布局中，我所知道的与倒序排列，或反向布局，或任意位置设置相关的属性和技术，肯定还有其他策略，欢迎补充。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ship!]]></title>
-        <id>https://catonmat.net/ship</id>
-        <link href="https://catonmat.net/ship"/>
-        <updated>2022-11-06T05:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Ship!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于list-style-type项目符号你应该知道的事情]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=10607</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2022/11/about-css-list-style-type-item/"/>
-        <updated>2022-11-05T15:13:10.000Z</updated>
-        <summary type="html"><![CDATA[有些看起来简简单单的CSS属性，深究起来，其背后的知识量却是惊人的大！比方说list-style-type属性。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
         </author>
     </entry>
     <entry>
