@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=43910",
+          "author": "青小蛙",
+          "description": "Runestone Text Editor 是一个用来在 iOS 的 文件.app 应用里直接编辑文本文件的小工具，简单易用。@Appinn 感谢 @小南同学在 Appinn Talk 群组的推荐：",
+          "link": "https://www.appinn.com/runestone-text-editor/",
+          "publishedOn": "2022-11-16T07:08:00.000Z",
+          "wordCount": 2344,
+          "title": "Runestone Text Editor – 文本编辑器：直接编辑 iOS 文件.app 里的文本文件",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/11/runestone-text-editor.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=43906",
           "author": "青小蛙",
           "description": "Distill Web Monitor 是一款专门用来监控网页任意区域变化，并发出实时提醒的工具，支持 Chrome、Firefox、Opear，以及拥有 Android 与 iOS 客户端。@App",
@@ -145,16 +155,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/11/kblautoswitch.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43834",
-          "author": "青小蛙",
-          "description": "来自 sharewareonsale 的 250 Professional Font Bundle ，拥有 250 款专业的英文字体，非常适合标示、展示、邀请函、标",
-          "link": "https://www.appinn.com/250-professional-font-bundle/",
-          "publishedOn": "2022-11-07T04:21:10.000Z",
-          "wordCount": 2248,
-          "title": "250 款专业英文字体包，可商用，限免",
-          "imageUrl": "https://img3.appinn.net/static/wp-content/uploads/2022/11/250-professional-font-bundle.jpgo_.jpg"
         }
       ]
     },
@@ -163,6 +163,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=375385",
+          "author": "Haley Mills",
+          "description": "Hey folks! If you’ve been keeping up with the latest DigitalOcean news, you might be aware that we recently announced our acquisition of a company called Cloudways. In case you’re curious about what this means, we thought it might …\nDigitalOcean Welcomes Cloudways to the Family originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/digitalocean-welcomes-cloudways-to-the-family/",
+          "publishedOn": "2022-11-16T23:38:36.000Z",
+          "wordCount": 910,
+          "title": "DigitalOcean Welcomes Cloudways to the Family",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375385"
+        },
+        {
+          "id": "https://css-tricks.com/?p=374792",
+          "author": "Geoff Graham",
+          "description": "I’m often asked where to learn web development. The answer varies, of course, and we’ve published a few posts on the topic over the years, the most recent of which was Chris taking a stab at different learning paths in …\nFinding Front-End Development Scholarships originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/finding-front-end-development-scholarships/",
+          "publishedOn": "2022-11-16T14:11:11.000Z",
+          "wordCount": 1598,
+          "title": "Finding Front-End Development Scholarships",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374792"
+        },
         {
           "id": "https://css-tricks.com/?p=375066",
           "author": "Geoff Graham",
@@ -202,16 +222,6 @@
           "wordCount": 1572,
           "title": "What CSS Do You Absolutely Have to Know in 2022?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374775"
-        },
-        {
-          "id": "https://css-tricks.com/?p=374910",
-          "author": "Ganesh Dahal",
-          "description": "The way we write CSS for WordPress themes is in the midst of sweeping changes. I recently shared a technique for adding fluid type support in WordPress by way of theme.json, a new file that WordPress has been pushing …\nManaging CSS Styles in a WordPress Block Theme originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/managing-css-styles-in-a-wordpress-block-theme/",
-          "publishedOn": "2022-11-07T14:05:11.000Z",
-          "wordCount": 4131,
-          "title": "Managing CSS Styles in a WordPress Block Theme",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/374910"
         }
       ]
     },
@@ -243,6 +253,176 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73390",
+          "author": null,
+          "description": "赛门铁克的安全研究人员报告黑客组织 Billbug aka Thrip aka Lotus Blossom 使用多种恶意程序入侵一家 CA 机构。CA 机构签发的证书对浏览器和操作系统至关重要，用于证明特定应用和服务器的身份。如果黑客获得了对 CA 机构基础设施的控制权，它可以给自己的恶意程序签名，更容易绕过终端防护。此外还可以冒充信任的网站或拦截加密数据。在入侵该 CA 机构过程中，黑客使用了后门程序如 Hannotog 和 Sagerunex，以及大量合法软件如 AdFind、Winmail、WinRAR、Ping、Tracert、Route、NBTscan、Certutil 和 Port Scanner。",
+          "link": "https://www.solidot.org/story?sid=73390",
+          "publishedOn": "2022-11-16T15:40:54.000Z",
+          "wordCount": 174,
+          "title": "安全研究人员发现黑客入侵 CA 机构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73389",
+          "author": null,
+          "description": "网信办发布了修订版的《互联网跟帖评论服务管理规定》，2022 年 12 月 15 日起施行。网信办称，旧版的《规定》自 2017 年 10 月 1 日施行以来，对于规范跟帖评论环节信息秩序，维护良好网络环境发挥了积极作用。但随着互联网新技术新应用的快速发展，互联网跟帖评论服务也出现了许多新情况、新问题，需要适应形势发展变化进行修订完善。新《规定》共 16 条，重点明确了跟帖评论服务提供者跟帖评论管理责任、跟帖评论服务使用者和公众账号生产运营者应当遵守的有关要求等内容。新《规定》明确，跟帖评论服务提供者应当按照用户服务协议对跟帖评论服务使用者和公众账号生产运营者进行规范管理。新《规定》要求，公众账号生产运营者应当对账号跟帖评论信息内容加强审核管理，及时发现跟帖评论环节违法和不良信息内容并采取必要措施。新《规定》强调，公众账号生产运营者可按照用户服务协议向跟帖评论服务提供者申请跟帖评论区管理权限。跟帖评论服务提供者应当对公众账号生产运营者的跟帖评论管理情况进行信用评估后，合理设置管理权限，提供相关技术支持。新《规定》将点赞包含在管理范围内。",
+          "link": "https://www.solidot.org/story?sid=73389",
+          "publishedOn": "2022-11-16T15:15:09.000Z",
+          "wordCount": 158,
+          "title": "网信办发布修订版的《互联网跟帖评论服务管理规定》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73388",
+          "author": null,
+          "description": "Mozilla 释出了 Firefox 107。这次更新变化较少，主要是改进了 Windows 11 v22H2 下微软 IME 和 Defender 在检索当前文档 URL 时的性能，可视化浏览器性能数据的 Power profiling 支持使用英特尔 CPU 的 Linux 和 Mac 操作系统，bug 修正，开发者工具改进，等等。",
+          "link": "https://www.solidot.org/story?sid=73388",
+          "publishedOn": "2022-11-16T15:06:40.000Z",
+          "wordCount": 175,
+          "title": "Firefox 107 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73387",
+          "author": null,
+          "description": "Fedora 项目释出了  Fedora Linux 37 的正式版。Fedora 37 新增了自动更新和易于回滚的版本 Fedora CoreOS，适用于基于容器的工作负载。其他更新包括：最新桌面环境 GNOME 43；Firefox 浏览器和语言包分离，用户可删除不需要的语言包；Fedora Server 提供了方便在虚拟机中运行的 KVM 镜像；不再接受 SHA-1 签名，未来计划移除 SHA-1 算法；支持 Raspberry Pi 4；Python 3.11、Golang 1.19、glibc 2.36 和 LLVM 15 等等。",
+          "link": "https://www.solidot.org/story?sid=73387",
+          "publishedOn": "2022-11-16T10:20:34.000Z",
+          "wordCount": 182,
+          "title": "Fedora 37 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73386",
+          "author": null,
+          "description": "根据联合国的预测，世界人口在 11 月 15 日达到 80 亿。研究显示，世界人口还将继续增长，预计到本世纪 80 年代达到 104 亿左右的顶峰，但其整体的增长率正在放缓。世界人口从 70 亿增长到 80 亿花了大约 12 年的时间，而下一个 10 亿人口增幅则预计需要大约 14.5 年。世界的人口结构比以往任何时候都更加多样化，各国面临的人口变化趋势截然不同。如今，全球三分之二的人口生活在低生育率环境当中，平均每名妇女终身生育不到 2.1 个孩子。与此同时，人口增长越发集中在世界上最贫穷的国家，其中大部分在撒哈拉以南非洲。数据显示，在世界人口从 70 亿增长到 80 亿的过程中，大约 70% 的新增人口出现在低收入和中低收入国家；而在 80 亿到 90 亿的增幅当中，预计这两个组别的国家会占到新增人口的九成以上。",
+          "link": "https://www.solidot.org/story?sid=73386",
+          "publishedOn": "2022-11-16T09:16:48.000Z",
+          "wordCount": 186,
+          "title": "世界人口达到 80 亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73385",
+          "author": null,
+          "description": "NASA 于美国东部时间周三凌晨 1:47 在佛罗里达的肯尼迪太空中心成功发射登月火箭 Space Launch System（SLS）。SLS 是为了载人登月项目 Artemis 设计的重型火箭，此次发射代号为 Artemis I，为无人飞行，将把 Orion 飞船送往月球并返回地球，为期六周，任务旨在测试系统，为载人任务的 Artemis II 做准备。此前 Artemis I 的发射因种种原因推迟了多次。Orion 飞船预计将于 12 月 11 日溅落在加州附近的太平洋上。美国的 Artemis 任务计划把第一位女性宇航员和第一位有色人种宇航员送往月球。",
+          "link": "https://www.solidot.org/story?sid=73385",
+          "publishedOn": "2022-11-16T08:57:57.000Z",
+          "wordCount": 182,
+          "title": "NASA 成功发射登月火箭 Artemis I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73384",
+          "author": null,
+          "description": "美国的一项新研究将首次已知的、约 5.5亿 年前埃迪卡拉纪末期出现的动物大规模灭绝（End-Ediacaran extinction）的原因追溯到全球氧气供应减少。研究报告发表在 PNAS 期刊上。研究表明，在这段时间里，大约 80% 的动物大规模灭绝，其中依赖大量氧气的动物似乎受到了特别严重的打击。这表明灭绝事件是受环境控制的，地质记录中的所有其他大规模灭绝事件也是如此。究竟是什么导致了全球氧气的下降？研究人员认为可能是火山喷发、板块运动、小行星撞击等的任意组合，但看到的结果是，灭绝的动物似乎是对全球氧气供应减少的反应。",
+          "link": "https://www.solidot.org/story?sid=73384",
+          "publishedOn": "2022-11-16T07:59:11.000Z",
+          "wordCount": 153,
+          "title": "地球第一次大规模生物灭绝事件的新视角",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73383",
+          "author": null,
+          "description": "苹果从周二开始在美国和加拿大地区提供卫星紧急通信服务，iPhone 14 用户可以在没有蜂窝网络的地方通过卫星发送急救信息，与紧急联络人分享位置和状态，该功能前两年免费，之后将收费。系统在最近的更新中已经加入了该功能，因此无需额外的下载。iPhone 14 的卫星紧急通信服务是通过 Globalstar 公司在轨的 24 颗卫星实现的。苹果将在 12 月份开始向法国、德国、爱尔兰和英国的用户提供该功能。",
+          "link": "https://www.solidot.org/story?sid=73383",
+          "publishedOn": "2022-11-16T07:47:27.000Z",
+          "wordCount": 154,
+          "title": "苹果开始在美国加拿大提供卫星紧急通信服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73382",
+          "author": null,
+          "description": "多达 14 名 Twitter 员工因纠正和批评马斯克（Elon Musk）遭到解雇。员工称在马斯克的统治下工作环境变得公开敌意。马斯克在周一凌晨 1:45 am 召开紧急会议，告诉员工他将依靠偏执狂度过这个困难时期，对于搞乱  Twitter 代码的工程师他可能会采取激烈的措施阻止他们修改。马斯克同时把 Twitter 作为一个讨论 Twitter  功能的公开平台，有员工认为这一做法是在侮辱人格，多名工程师公开纠正了马斯克无知的推文。结果是他们遭到公开的解雇。Twitter 工程师 Eric Frohnhoefer 是第一个因公开纠正马斯克关于 Twitter 在 Android 上运行缓慢的推文而遭到解雇的人。许多人认为此类讨论应该私下展开。另一名工程师 Ben Leib 因批评马斯克对其所讨论内容一无所知而被解雇。",
+          "link": "https://www.solidot.org/story?sid=73382",
+          "publishedOn": "2022-11-16T07:25:19.000Z",
+          "wordCount": 185,
+          "title": "马斯克解雇在 Twitter 和 Slack 上纠正和批评他的员工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73381",
+          "author": null,
+          "description": "一百年前的实体书如果保存良好，可以正常阅读。但十年前的电子书今天去阅读极有可能会遇到各种问题。从出版商的租赁业务模式到物理设备的演变，到格式过时，数字书是脆弱且受到威胁的。数字书需要不断维护，需要重新处理、重新格式化、重新激活，否则将无法阅读。出版商称电子书永不过时，事实并非如此。随着格式从 djvu 到 daisy 到 epub1 到 epub2 到 epub3 到 pdf-a 等等，电子书需要不间断的重新处理。储存媒介从磁带到 PATA 硬盘，到 SATA 硬盘到 SSD，也在不断变化，如果不维护电子书将会无法阅读。数字书的磨损速度是快于实体书的。",
+          "link": "https://www.solidot.org/story?sid=73381",
+          "publishedOn": "2022-11-16T05:51:31.000Z",
+          "wordCount": 161,
+          "title": "数字书的磨损速度快于实体书",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73380",
+          "author": null,
+          "description": "苹果 CEO 库克(Tim Cook)在最近的一次内部会议上表示计划于 2024 年采购在亚利桑那州一家芯片工厂制造的芯片。库克还表示苹果可能会采购更多欧洲制造的芯片。此举旨在减少对亚洲芯片制造的依赖。苹果正在重塑其供应链。库克提到的亚利桑那州芯片工厂基本上就是台积电的 Fab 21，这座台积电斥资 120 亿美元建造的工厂计划于 2024 年投产。而苹果的芯片主要由台积电代工。",
+          "link": "https://www.solidot.org/story?sid=73380",
+          "publishedOn": "2022-11-16T03:33:24.000Z",
+          "wordCount": 163,
+          "title": "苹果计划在 2024 年采购在亚利桑那州芯片工厂制造的芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73379",
+          "author": null,
+          "description": "FTX 的律师递交到法庭的文件显示其债权人可能超过百万。文件称过去一周发生在 FTX 身上的事件是前所未有的。一周多前 FTX 还被视为加密货币行业最具有创新的公司之一，其联合创始人 Sam Bankman-Fried 还被称为是行业的王子。文件表示，FTX 此前在申请破产时称其债权人超过 10 万，这是因为它是破产申请表格允许的最大数字，但实际上的债权人可能逾百万之多。FTX 的公司结构高度复杂，有数十家关联公司，每家公司都在上周申请破产，FTX 已经暂停取款，客户资金的命运悬而未决。",
+          "link": "https://www.solidot.org/story?sid=73379",
+          "publishedOn": "2022-11-16T03:17:03.000Z",
+          "wordCount": 165,
+          "title": "法庭文件显示 FTX 的债权人多达百万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73378",
+          "author": null,
+          "description": "小w同学 写道 \"凹语言™（凹读音 “Wa”）是国内 Gopher 针对 WASM 平台设计的的通用编程语言，支持 Linux、macOS 和 Windows 等主流操作系统和 Chrome 等浏览器环境，同时也支持作为独立 Shell 脚本和被嵌入脚本模式执行。主页：https://wa-lang.org 。v0.3.1 更新内容：1. 完善 WAT 后端, 支持多包； 2. LLVM 后端支持基本数值运算 (依赖 clang 和 llc) ；3. wazero 更新到 v1.0.0-pre.3。\"",
+          "link": "https://www.solidot.org/story?sid=73378",
+          "publishedOn": "2022-11-16T02:30:55.000Z",
+          "wordCount": 183,
+          "title": "凹语言 v0.3.1 发布，支持多包",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73377",
+          "author": null,
+          "description": "NASA 的月球卫星 CAPSTONE (Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment) 历经近五个月的飞行抵达了月球轨道，成为第一个绕月球飞行的立方体卫星。CAPSTONE 于今年 6 月搭载 Rocket Lab 的 Electron 火箭发射升空，执行美国载人登月任务的测试工作。7 月 4 日开始了飞往月球之路。它成功抵达月球对 NASA 而言具有里程碑意义，它非常稳定，维持位置只需很少的燃料，它的轨道距离月球表面最近为 3 千公里最远 7 万公里。它非常小，质量只有 25 公斤，可以塞在一个迷你冰箱内。它预计将在轨道上至少运行半年时间。",
+          "link": "https://www.solidot.org/story?sid=73377",
+          "publishedOn": "2022-11-15T15:54:14.000Z",
+          "wordCount": 184,
+          "title": "立方体卫星 CAPSTONE 进入月球轨道",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73376",
+          "author": null,
+          "description": "美国波士顿东北大学和英国剑桥大学的两个团队在实验室中制造出一种独特的磁性材料。这种磁性材料最初是在陨石中发现的，由镍和铁组合而成，但它们随着陨石在太空中缓慢冷却了数百万年，创造出了独特的晶体结构，具有非同寻常的属性，是高端永磁体的理想材料，而永磁体广泛用于现代生活中的各种设备。这种材料被称为 tetrataenite，科学家找到了在实验室中制造它的方法，如果合成材料能在工业中得到应用，它将能大幅降低绿色能源技术的成本，扰乱中国主导的稀土市场。研究人员表示还有很长的路要走，有很多测试要做，在用于制造永磁体前至少还需要 5 到 8 年的时间。",
+          "link": "https://www.solidot.org/story?sid=73376",
+          "publishedOn": "2022-11-15T15:27:21.000Z",
+          "wordCount": 149,
+          "title": "科学家在实验室中制造出地球不存在的磁性材料",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73375",
+          "author": null,
+          "description": "根据联合国粮农组织的数据，畜牧业占到了全球温室气体排放的 14.5%。但最近发表在《Sustainability》期刊上的一项研究认为，这个数字是低估，实际比例在 16.5%-28% 之间。即使取最低的 16.5%，这也意味着畜牧业的温室气体排放超过了整个运输业。而且随着人类消费肉类食品的增长，畜牧业的排放还在不断增加。截至 2018 年的 20 年里，全球肉类消费增长了 58%。 Our World in Data 的一项分析认为，即使其他部门的全部排放都消除，按照目前的趋势，粮食生产到 2100 年产生的排放将超过全球碳预算的 2 到 3 倍。其中畜牧业占到了 57%。如果将最富有国家的牧场归还给野生生态系统，能完全抵消 12 年的全球碳排放。畜牧业是人类活动所释放的甲烷的最大来源。但谈论气候问题时没人原因谈及减少畜牧业的排放，因为这涉及到大幅改变我们的生活方式，没有多少人愿意这么做。",
+          "link": "https://www.solidot.org/story?sid=73375",
+          "publishedOn": "2022-11-15T14:39:04.000Z",
+          "wordCount": 167,
+          "title": "无人愿意谈论的一个气候问题：畜牧业",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73374",
+          "author": null,
+          "description": "在青藏高原边缘的四川稻城县，工程师在 11 月 13 日完成了研究太阳的世界最大望远镜阵列的硬件设备安装，开始进入调试阶段。稻城圆环阵太阳射电成像望远镜是由 313 台直径 6 米的碟形天线构成的综合孔径射电望远镜，天线均匀分布在直径 1 公里的圆环上，由圆环中心 100 米高的定标塔为整个观测链路提供定标基准。项目预计将在 2023 年 6 月完成系统联调联试，进入试运行阶段，全面投入科学研究。这项耗资 1 亿人民币的工程将帮助研究人员研究太阳爆发及其如何影响地球周围环境。太阳预计将在未来几年进入高度活跃阶段。届时圆环阵太阳射电成像望远镜，将能实时监测太阳射电耀斑，跟踪日冕物质抛射（CME）的形成、演化和进入行星际的全过程。",
+          "link": "https://www.solidot.org/story?sid=73374",
+          "publishedOn": "2022-11-15T13:52:55.000Z",
+          "wordCount": 162,
+          "title": "稻城圆环阵太阳射电成像望远镜完成建造",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73373",
           "author": null,
@@ -1011,146 +1191,6 @@
           "publishedOn": "2022-11-08T03:43:20.000Z",
           "wordCount": 157,
           "title": "阿里巴巴和壁仞等降低芯片速度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73294",
-          "author": null,
-          "description": "英国研究人员利用卫星捕获的图像证实，今年 1 月爆发的汤加火山产生了有史以来最高的羽流。这也是第一次看到火山喷发的羽流穿过较低的大气层延伸到了中间层。1 月 15 日，南太平洋汤加群岛的海底火山猛烈喷发，并引发了毁灭性海啸，导致数千人无家可归。这是迄今为止观测到的威力最大的一次火山喷发，全世界都感受到了冲击波。汤加火山的位置被 3 颗地球同步气象卫星覆盖，研究人员将视差效应应用到卫星捕捉到的图像上。至关重要的是，在火山喷发期间，卫星每 10 分钟记录一次图像，从而记录了羽流轨迹的快速变化。研究结果表明，羽流的最高高度达到 57 公里。显著高于之前的记录。这也使该羽流成为火山喷发的第一个观测证据，通过平流层将物质直接注入到离地球表面约 50 公里的中间层。",
-          "link": "https://www.solidot.org/story?sid=73294",
-          "publishedOn": "2022-11-07T14:02:12.000Z",
-          "wordCount": 157,
-          "title": "汤加火山创史上最高羽流记录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73293",
-          "author": null,
-          "description": "英国研究人员在临床试验中首次将实验室培育的血液输入人体，观察其在人体内的表现。大部分的输血仍然依赖于献血，这项研究针对的是罕见的难以获得的血型。对于镰状细胞性贫血症等需要定期输血的患者而言，血液需要精确匹配，否则身体会排斥，治疗会失败。而某些血型极其罕见，整个国家可能只有几个人能捐献。以首次在印度发现的 Bombay 血型为例，整个英国只有三个单位的库存。这项研究的重点是将氧气从肺部输送到其它部位的红血球细胞。研究人员首先从捐献的血液中提取出能产生红细胞的干细胞，他们在实验室中大量培育这些干细胞，诱导它们发育成红细胞。整个过程大约三周时间，研究人员将 50 万个干细胞培育出 500 亿个红细胞。经过滤后获得 150 亿个可用于输血的红细胞。",
-          "link": "https://www.solidot.org/story?sid=73293",
-          "publishedOn": "2022-11-07T13:55:58.000Z",
-          "wordCount": 151,
-          "title": "实验室培育的血液首次输入人体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73292",
-          "author": null,
-          "description": "温室气体浓度不断上升，热量不断累积，在其推动下，过去八年已步入成为有记录以来最暖八年的轨道。根据世界气象组织的《2022年全球气候状况》临时报告，今年的极端热浪、干旱和破坏性洪水已经影响了数百万人，并造成数十亿的损失。气候变化的预兆和影响正愈发令人关注。自 1993 年以来，海平面的升速已翻了一番。自 2020 年 1 月以来，已上升了近 10 毫米，今年达到了新高。自近 30 年前开始卫星测量以来，仅在过去两年半的时间内，海平面的上升就占到了整体上升的 10%。据当前估计，2022 年的全球平均温度比 1850-1900 年工业化前平均温度高出约 1.15 °C。罕见的“三峰”降温型拉尼娜现象意味着 2022 年可能“仅”是第五或第六最暖年份。然而，这并不能扭转长期趋势；出现另一个有记录以来最暖年份只是时间问题。",
-          "link": "https://www.solidot.org/story?sid=73292",
-          "publishedOn": "2022-11-07T13:20:21.000Z",
-          "wordCount": 162,
-          "title": "过去八年是有记录以来最热的八年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73291",
-          "author": null,
-          "description": "数学家张益唐在预印本平台 arXiv 上发表了备受瞩目的朗道-西格尔零点猜想论文。他并没有说自己证明了这一猜想，而是类似他在 2013 年发表的孪生素数猜想论文，改进了下界，并使用了一个数字 2022。有人开玩笑说这是他为什么在 2022 年发表的原因。他长达 111 页的论文也为后续改进提供了有用的工具。",
-          "link": "https://www.solidot.org/story?sid=73291",
-          "publishedOn": "2022-11-07T12:46:11.000Z",
-          "wordCount": 155,
-          "title": "张益唐发表朗道-西格尔零点猜想论文",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73290",
-          "author": null,
-          "description": "传统观点认为我们的右脑半球负责创造力，左脑负责理性思考。尽管这种大脑不同区域都有特定的功能的“模块”观点已经被取代，但它仍然可以在许多教科书中找到。拉德堡大学的神经科学家现在提出，我们应该以不同的方式看待大脑功能。大脑功能并不局限于单独的大脑区域，而是产生于这些区域之间的交换。神经科学家称，连接可以放大或减少大脑信号，并决定大脑的结构和功能。在认知任务中，大脑区域的连接模式和它们的活动之间有很强的关系。根据大脑连接，可以预测大脑中的某个功能将在哪里出现。",
-          "link": "https://www.solidot.org/story?sid=73290",
-          "publishedOn": "2022-11-07T10:20:33.000Z",
-          "wordCount": 145,
-          "title": "科学家提出大脑工作的关键在于连接",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73289",
-          "author": null,
-          "description": "发表在《柳叶刀公共卫生》杂志上的一项研究称，无偿劳动——家务劳动、照顾儿童和老人，以及家庭管理带来的精神负担——伤害女性身心。研究人员称，结果表明，通过让男性分摊同等比例的劳动，减少女性过多的无偿劳动负担，有可能改善女性的心理健康。研究发现，做家务和育儿对男性心理健康的影响要小得多。那可能是因为他们做的要少得多。根据经济合作与发展组织的数据，在美国，女性平均每天在此类劳动上花费 4.5 小时，而男性则为 2.8 小时。在希腊，女性花费 4.3 小时，男性 1 个半小时。即使在瑞典等性别最平等的国家，女性每天也比男性多做 50 分钟。",
-          "link": "https://www.solidot.org/story?sid=73289",
-          "publishedOn": "2022-11-07T09:37:05.000Z",
-          "wordCount": 154,
-          "title": "研究称无偿家务劳动伤害女性身心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73288",
-          "author": null,
-          "description": "明天将有月全食，全球大部分地区都可观看到。月食的半影阶段开始于 11 月 8 日北京时间 16:02（GMT时间08:02）。这个阶段是肉眼看不到的。月食的偏食阶段开始于北京时间 17:09（GMT时间09:09）。可以开始观察。在这个阶段，月亮的一部分看起来变暗了，因为它被地球的本影覆盖了。全食阶段开始于北京时间18:16。此时，月亮变成红色，完全被地球的本影覆盖。由于它的颜色，月全食被称为血月。北京时间 19:41，全食阶段结束，偏食阶段又开始。半影阶段再次开始在北京时间20:49；从那时起，肉眼就看不到月食了。",
-          "link": "https://www.solidot.org/story?sid=73288",
-          "publishedOn": "2022-11-07T09:01:53.000Z",
-          "wordCount": 164,
-          "title": "11 月 8 日将有月全食",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73287",
-          "author": null,
-          "description": "基于对灵长类动物的研究，科学家发现，生育会以前所未有的方式永久改变女性的骨骼。这一发现为搞清生育如何永久改变身体提供了新的线索。研究人员发现，经历过生育的女性体内的钙、镁和磷浓度较低。这些变化与分娩本身和哺乳有关。更年期会对女性骨骼产生影响，这一点早已得到证实。尚不清楚的是，之前的生命周期事件（如生育）如何影响骨骼成分。为了解决这个问题，研究人员研究了初级板层骨——成熟骨骼中的主要骨类型。这一部分骨骼是检查身体的理想部位，因为它会随着时间推移而变化，并留下这些变化的生物标记，使科学家能够监测生命周期中的变化。研究结果显示，与没有生育的雌性灵长类动物相比，生育的灵长类动物体内某些元素的浓度有所不同。具体来说，它们在生殖过程中形成的骨骼钙和磷含量较低。此外，这些灵长类动物在喂养幼崽期间，镁的浓度显著下降。",
-          "link": "https://www.solidot.org/story?sid=73287",
-          "publishedOn": "2022-11-07T07:16:05.000Z",
-          "wordCount": 144,
-          "title": "生育永久改变女性骨骼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73286",
-          "author": null,
-          "description": "诸葛恐民 写道 \"11月2日发表在《美国科学院院刊》上的一项实验发现强化版mRNA流感疫苗能预防多种流感毒株。目前大多数季节性流感疫苗靶向的是一种名为血凝素的单一蛋白，但该蛋白突变迅速，这意味着疫苗必须每年重制来适应新的突变株。为了改变这一现状，来自纽约的研究者们构建了一种编码四种流感蛋白的强化版mRNA疫苗。小鼠实验发现，疫苗能诱导免疫T细胞响应全部四种流感蛋白并产生抗体。只需一剂低剂量的免疫就足以保护小鼠免于实验甲流病毒导致的死亡，表明这种四价mRNA流感疫苗比其他任何单价疫苗更有效。\"",
-          "link": "https://www.solidot.org/story?sid=73286",
-          "publishedOn": "2022-11-07T06:55:51.000Z",
-          "wordCount": 147,
-          "title": "强化版mRNA疫苗能抵御多种流感病毒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73285",
-          "author": null,
-          "description": "上个月宣布与律所 Joseph Saveri 合作调查的程序员/设计师 Matthew Butterick 上周正式对微软的 AI 编程助手 GitHub Copilot 提起集体诉讼，指控其从事了大规模软件盗版行为。Copilot 使用公开的代码库进行训练，在开发者写代码时根据函数名等上下文自动补充完后续代码。Copilot 补充的多是公开代码库中代码片段的拷贝。这些开源代码使用了不同的许可证授权，包括 MIT licence、GNU General Public Licence 和 Apache licence 等许可证都要求署名和注明版权。Copilot 在自动补充时剔除了这些要求，侵犯了数以千计甚至数百万软件开发者的版权。GitHub Copilot 是付费服务，微软此举是将开源代码货币化。如果它是用微软自己的私有代码库训练，比如 MS Office 和 Windows，那么没人会它收费的行为表示异议。",
-          "link": "https://www.solidot.org/story?sid=73285",
-          "publishedOn": "2022-11-07T06:50:10.000Z",
-          "wordCount": 181,
-          "title": "GitHub Copilot 被控从事大规模软件盗版",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73284",
-          "author": null,
-          "description": "鼓吹 PUA 的中国开发者群体 ApacheCN 引起了国外开发者的注意。扫描开源代码库的 Socket 项目检测到一个叫“英文联萌”的 NPM 包缺乏许可证信息。分析该包时 Socket 的工程师在解压后的文件中发现了 .EPUB 电子书。进一步分析发现该 NPM 包的维护者上传了数以千计的相同包，其中有开源项目的中文文档，也有大量的电子书。几乎所有这些包都称作者为与 Apache 基金会或项目毫无关系的 ApacheCN。Socket 尝试联系了 ApacheCN 但没有收到任何回应。 访问 ApacheCN 的网站和他们的 GitHub 软件包库可能会让人产生强烈的不适感，比如他们的“男性觉醒知识库”。",
-          "link": "https://www.solidot.org/story?sid=73284",
-          "publishedOn": "2022-11-07T03:40:01.000Z",
-          "wordCount": 185,
-          "title": "中国开发者在 GitHub 和 npm 上储存逾千本电子书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73283",
-          "author": null,
-          "description": "Meta/Facebook 计划本周开始大规模裁员，预计将会影响数千名员工。Meta 目前有逾 8.7 万名员工，裁员比例低于规模更小的 Twitter，但人数可能会更多。Meta 已通知员工本周开始取消非必要旅行。这是 Meta 从 Facebook 改名以来第一次大规模裁员。Meta CEO 扎克伯格(Mark Zuckerberg)最近表示将集中投资在优先领域。",
-          "link": "https://www.solidot.org/story?sid=73283",
-          "publishedOn": "2022-11-07T02:53:55.000Z",
-          "wordCount": 160,
-          "title": "Meta 计划本周开始裁员数千名员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73282",
-          "author": null,
-          "description": "苹果罕见的发表声明，证实富士康郑州工厂的新冠疫情影响到了 iPhone 14 Pro 和 iPhone 14 Pro Max 的生产。富士康郑州工厂有逾二十万名员工，是苹果 iPhone 最大的生产基地，其产量占到了全球供应量的一半。苹果在新闻稿中称，疫情的影响导致了工厂的产能大幅降低，iPhone 14 Pro 和 iPhone 14 Pro Max 机型的需求依旧强劲，但现在预计出货量会低于之前的预期，客户将经历更长时间的等待。苹果表示正与供应商密切合作，在确保每一位工人健康和安全的情况下，恢复到正常的生产水平。",
-          "link": "https://www.solidot.org/story?sid=73282",
-          "publishedOn": "2022-11-07T02:31:55.000Z",
-          "wordCount": 173,
-          "title": "苹果证实富士康郑州工厂疫情影响新 iPhone 生产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73281",
-          "author": null,
-          "description": "消费者在网购时通常会阅读商品的评价，调查显示多达九成的消费者会根据在线评价决定是否购买某个商品，这是操纵评论制造虚假评论背后的商业动机。对于多达三成的虚假在线评论，消费者是很难甄别真假的。美国联邦贸易委员会最近宣布将制定新规定打击在线虚假评论。这一保护消费者的举措既受欢迎，也被认为难以彻底根除。评论也具有网络效应，部分企业的商品会有更多的评论，从而创造出了不公平的竞争环境，新企业或者没有多少评论的企业为了吸引更多客户会越界，因为你需要作弊才有可能参与竞争。",
-          "link": "https://www.solidot.org/story?sid=73281",
-          "publishedOn": "2022-11-06T15:46:11.000Z",
-          "wordCount": 144,
-          "title": "多达三成的在线评价是虚假的",
           "imageUrl": null
         }
       ]
