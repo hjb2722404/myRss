@@ -2,10 +2,144 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-11-29T02:50:27.328Z</updated>
+    <updated>2022-11-30T02:47:48.167Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[世界最大活火山在夏威夷爆发]]></title>
+        <id>https://www.solidot.org/story?sid=73514</id>
+        <link href="https://www.solidot.org/story?sid=73514"/>
+        <updated>2022-11-29T15:52:36.000Z</updated>
+        <summary type="html"><![CDATA[美国地质调查局报道，当地时间周日晚间 11 点 30 分，夏威夷火山国家公园内的莫纳罗亚(Mauna Loa)山顶火山口开始喷发。这是莫纳罗亚火山 38 年来首次喷发，当地官员没有立即发布疏散令。尽管目前对附近的社区不构成威胁，但熔岩流动的位置和方向可能会迅速改变。莫纳罗亚火山口面积约 10 万平方公里，深 1500-1800 米。估计它的容量大约为 75,000 立方千米。它此前在 1975 年及 1984 年均有大的喷发。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlockFi 申请破产，起诉 Bankman-Fried]]></title>
+        <id>https://www.solidot.org/story?sid=73513</id>
+        <link href="https://www.solidot.org/story?sid=73513"/>
+        <updated>2022-11-29T15:41:45.000Z</updated>
+        <summary type="html"><![CDATA[在加密货币交易平台 FTX 破产后，与其关系紧密的 BlockFi 本周一申请破产保护，此前它因为受 FTX 崩盘牵连已经暂停了客户提款。递交到破产法庭的文件显示，该公司前十大债权人的债务近 12 亿美元。BlockFi 同时递交了起诉书，试图追偿 FTX 前 CEO Sam Bankman-Fried 欠其的债务。Bankman-Fried 在今年 5 月通过其投资公司 Emergent 斥资 6.48 亿美元收购了在线券商 Robinhood 的 7.6% 股份，BlockFi 试图将这些股份作为债务抵押品。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[百度计划扩大无人出租车运营范围]]></title>
+        <id>https://www.solidot.org/story?sid=73512</id>
+        <link href="https://www.solidot.org/story?sid=73512"/>
+        <updated>2022-11-29T15:29:39.000Z</updated>
+        <summary type="html"><![CDATA[百度周二表示，2023 年将扩大无人出租车业务规模和运营范围。百度在周二的新闻稿中表示，在北上广三个一线城市，萝卜快跑(Apollo Go)上的平均单车日订单量 15 次以上，逼近传统网约车服务的日均订单量。百度表示，自动驾驶技术泛化能力进步速度超预期，落地新城市技术交付时间仅需 20 天。百度还宣布了一种可实时更新、提高可靠性的高精自动驾驶地图，一种有助于有效筛选自动驾驶汽车在大规模部署情况下收到的更多信息的闭环数据系统。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Than “Slapping Paint on a Website”]]></title>
+        <id>https://css-tricks.com/?p=375190</id>
+        <link href="https://css-tricks.com/more-than-slapping-paint-on-a-website/"/>
+        <updated>2022-11-29T15:03:20.000Z</updated>
+        <summary type="html"><![CDATA[I’m a sucker for anything about front-end job titles.
+Anselm Hannemann:
+CSS evolved and we’re beyond the point where everyone can just do it as a side interest. We all can learn it and build amazing stuff with it, 
+…
+More Than “Slapping Paint on a Website” originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Project Zero 呼吁 Android 加快修复漏洞]]></title>
+        <id>https://www.solidot.org/story?sid=73511</id>
+        <link href="https://www.solidot.org/story?sid=73511"/>
+        <updated>2022-11-29T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Google Project Zero 安全团队想要消灭 0day，它采用的一种方法是公开督促企业加快修复漏洞，其中包括 Google 自己。在最新的官方博客中，它批评了 Android 和 Pixel 团队。今年 6 月，Project Zero 研究员 Maddie Stone 报告了一个位于 ARM GPU 驱动中正被利用的提权漏洞，另一位研究员 Jann Horn 接下来三周在驱动中发现了多个相关漏洞，这些漏洞允许攻击者获得系统的完整访问权限，绕过 Android 的权限模型。他们向 ARM 报告了漏洞，ARM 在 7 月和 8 月修复了漏洞并公布相关源代码，然而  Android 至今没有给用户打上补丁。这一次掉链子的是 Google 和 Android OEM。高通使用了自己的 GPU，但 Google 的 Tensor SoC 使用了 ARM GPU，三星和联发科也都使用了 ARM GPU，这意味着受影响的设备数量多达数百万部。Google 接受采访时表示它正在测试补丁，将会在未来几周释出。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAXA 称宇航员古川团队伪造实验数据]]></title>
+        <id>https://www.solidot.org/story?sid=73510</id>
+        <link href="https://www.solidot.org/story?sid=73510"/>
+        <updated>2022-11-29T12:52:54.000Z</updated>
+        <summary type="html"><![CDATA[日本宇宙航空研究开发机构（JAXA）宣布一组研究人员在一次实验中伪造了数据，该团队由 58 岁的宇航员古川聪领导，实验旨在模拟国际空间站上的日常生活。实验是在 2016 年到 2017 年之间展开的，40 名参与者在一个封闭环境中生活两周，评估其精神压力。JAXA 确认研究人员编写子虚乌有的数据以及改写多处数据。古川是整个项目的实施负责人，而与问题直接相关的是心理面谈的专家。JAXA 理事佐佐木宏指出，古川“负有管理监督责任”。有关对古川的处分，JAXA 方面称“今后将根据手续妥善应对”，而关于古川 2023 年前后在国际空间站驻留的计划则表示，“未考虑变更明年的飞行”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最古老大脑化石揭示大脑演化的秘密]]></title>
+        <id>https://www.solidot.org/story?sid=73509</id>
+        <link href="https://www.solidot.org/story?sid=73509"/>
+        <updated>2022-11-29T10:51:46.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《科学》期刊上的研究，云南大学古生物学云南重点实验室的侯先光和瑞典隆德大学和悉尼麦觉理大学生物科学系的 Marcel Sayre 等人报告，一种死于 5 亿多年前的微小海洋生物的化石可能会迫使科学教科书重写大脑的进化过程。这具化石最初发现于 1984 年，长仅半英寸（小于1.5厘米），迄今为止，它隐藏着一个关键的秘密：一个精心保存的神经系统，包括大脑。这是迄今为止最古老的大脑化石。化石属于 Cardiodictyon catenuum，属于一种已灭绝的动物，被称为铠甲叶足类动物，这种动物在寒武纪早期大量存在。化石显示早期的头部没有分割，这表明大脑和躯干神经系统可能是分开进化的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本演示水蒸气推进的飞船]]></title>
+        <id>https://www.solidot.org/story?sid=73508</id>
+        <link href="https://www.solidot.org/story?sid=73508"/>
+        <updated>2022-11-29T09:55:51.000Z</updated>
+        <summary type="html"><![CDATA[日本宇航局 JAXA 宣布其水蒸气推进的飞船 EQUULEU 开始启程飞往地月拉格朗日 L2 点。EQUULEU 是一颗立方体卫星，搭乘美国登月任务 Artemis I 的火箭飞往月球。在完成绕月飞行之后切换到飞往拉格朗日 L2 点的轨道。JAXA 称这是世界首次使用水推进剂推进系统成功实现低地球轨道以外的轨道控制。EQUULEU 将需要花 1.5 年飞到 L2 点。EQUULE 使用了名为 AQUARIUS（AQUA ResIstojet propUlsion System）的引擎，使用水作为燃料，其通信组件的废热将水加热成蒸汽，喷出后产生推力。水比其它燃料更易储存和处理，非常适合小型廉价飞行器。AQUARIUS 的功率较低。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 4080 12GB 显卡可能将改名为 4070 Ti]]></title>
+        <id>https://www.solidot.org/story?sid=73507</id>
+        <link href="https://www.solidot.org/story?sid=73507"/>
+        <updated>2022-11-29T07:49:37.000Z</updated>
+        <summary type="html"><![CDATA[英伟达上个月出人意料的宣布取消发售 RTX 4080 12GB 显卡。英伟达在 9 月的发布会上宣布了两个型号的 RTX 4080，一款显存 16 GB 一款显存 12 GB，听名字两款显卡的差别主要在显存大小，但实际上两款显卡的规格也存在巨大差异，后者的带宽更低显示核心也更少，英伟达的命名引发了争议。这一争议最终迫使英伟达以避免混淆为由取消发售 RTX 4080 12GB。根据显卡厂商技嘉递交的监管文件，这款显卡可能将改名为 4070 Ti 重新发售。暂时还不知道改名后的显卡价格，英伟达最初给 RTX 4080 12GB 的定价是 899 美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克称苹果威胁下架 Twitter]]></title>
+        <id>https://www.solidot.org/story?sid=73506</id>
+        <link href="https://www.solidot.org/story?sid=73506"/>
+        <updated>2022-11-29T07:38:45.000Z</updated>
+        <summary type="html"><![CDATA[马斯克(Elon Musk)批评苹果及其 CEO 库克(Tim Cook)，称其撤走了在 Twitter 上的大部分广告支出，声称苹果威胁要把 Twitter 从其应用商店中下架。马斯克没有提供苹果准备审查 Twitter 的证据，鉴于他本人的可信度也不高，双方之间究竟发生了什么矛盾外界难以判断。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coreboot 加入开源固件基金会]]></title>
+        <id>https://www.solidot.org/story?sid=73505</id>
+        <link href="https://www.solidot.org/story?sid=73505"/>
+        <updated>2022-11-29T07:15:42.000Z</updated>
+        <summary type="html"><![CDATA[Coreboot 项目正式加入了开源固件基金会（Open-Source Firmware Foundation）。开源固件基金会是在今年 2 月成立的，旨在推动开源固件的开发。创始成员包括  9elements Cyber Security 和 Mullvad VPN。它曾呼吁英特尔开源其 Firmware Support Package（FSP）。LinuxBoot 固件项目在 Coreboot 项目之前加入了该基金会。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韦氏词典的年度词是 Gaslighting]]></title>
+        <id>https://www.solidot.org/story?sid=73504</id>
+        <link href="https://www.solidot.org/story?sid=73504"/>
+        <updated>2022-11-29T07:03:07.000Z</updated>
+        <summary type="html"><![CDATA[韦氏词典宣布它的 2022 年度词是 Gaslighting（煤气灯效应）。煤气灯效应是一种心理操纵行为，使受害者心理上去稳定化以及使受害者不再相信原来的的信仰。它源于 1938 年舞台剧《煤气灯》（Gas Light）及其 1940 年和 1944 年的改编版电影。在故事中，丈夫试图通过环境中的小细节来操纵妻子和其他人，并坚持让妻子认为她自己错了，错误地记住了事情或在指出这些变化时有妄想的可能，从而说服妻子相信她自己疯了。这部剧的标题隐含了虐待，丈夫如何在家里故意让煤气灯缓慢变暗，同时又假装什么都没有改变，目的是使妻子怀疑自己的看法。社交变态者和自恋者经常使用煤气灯效应来虐待和破坏受害者。韦氏词典称，在其网站上煤气灯效应的搜索量比前一年增加了 1740%。进入网站前十的流行词还包括：Oligarch、Omicron、Codify、Queen consort、Raid、Sentient、Cancel culture、LGBTQIA 和 Loamy。去年的年度词是 vaccine。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO 将猴痘改为 mpox]]></title>
+        <id>https://www.solidot.org/story?sid=73503</id>
+        <link href="https://www.solidot.org/story?sid=73503"/>
+        <updated>2022-11-29T05:11:50.000Z</updated>
+        <summary type="html"><![CDATA[世界卫生组织(WHO)将猴痘的英文名 monkeypox 重命名为 mpox，以减少与这种疾病相关的污名化和种族主义。猴痘多年来主要存在于西非和中非，但今年初开始通过男男性行为传播到世界各地。得益于疫苗接种或感染所产生的免疫力的积累，以及感染风险最高人群所采取的预防措施，现在的猴痘病例数正在减少。WHO 表示已就该疾病的潜在新名称咨询了全球专家。为避免在一轮全球疫情期间出现混乱，在旧名被逐步停用的一年时间里，新旧名称都可使用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100 家英国公司同意不减薪推行四天工作制]]></title>
         <id>https://www.solidot.org/story?sid=73502</id>
@@ -96,6 +230,16 @@ Newer Things to Know About Good Ol’ HTML Lists originally published on CSS-Tri
         <summary type="html"><![CDATA[北极地松鼠（Arctic ground squirre）是地球最极端的冬眠动物之一，它一年中有 8 个月处于睡眠状态，体内温度降至华氏 27 度以下（零下 2 摄氏度），脑电波微不足道几乎难以难以探测到，心脏每分钟跳一下。但地松鼠仍然充满活力，春天来临它可以在几个小时内将体温提高到华氏 98.6 度（37 摄氏度）。人类正试图在 2040 年前后登陆火星。对于一个每天需要消耗大量食物、水和氧气的物种，火星之旅的一大挑战是后勤问题。根据国际空间站宇航员的饮食习惯，一个四人机组完成来回火星地球的 1100 天需要至少 11 吨食物，加上其它生命支持系统，以及其它必要物品，一艘火星飞船的起飞重量将超过 330 吨。应对这一问题的一种显而易见的解决方案就是冬眠。在《2001 太空奥德赛》中，宇航员在冬眠舱中每分钟心跳 3 次。如果宇航员在飞往火星途中处于某种冬眠状态，那么他们的生命支持资源的质量能减少六成，这也有助于抵御从太空辐射到无聊和孤立带来的心理问题。对北极地松鼠冬眠能力的研究可能有助于我们实现这一目标。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feeddd – 分布式，免费的微信公众号 RSS 订阅源，已超过 30000+ 微信公众号]]></title>
+        <id>https://www.appinn.com/?p=43997</id>
+        <link href="https://www.appinn.com/feeddd/"/>
+        <updated>2022-11-28T07:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Feeddd 是一个分布式开源服务，它提供超过 30000 的微信公众号 RSS 订阅地址，免费使用。并且任何人都可以为该服务贡献自己的力量，堪称分布式 RSS 订阅源。@Appinn 感谢 @aur]]></summary>
+        <author>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
@@ -943,86 +1087,6 @@ Taming the Cascade With BEM and Modern CSS Selectors originally published on CSS
         <updated>2022-11-20T15:19:10.000Z</updated>
         <summary type="html"><![CDATA[科幻作家、五次星云奖得主 Greg Bear 于 11 月 19 日去世，享年 71 岁。他的直接死因是中风，CT 扫描显示根本原因可能是 8 年前一次手术之后藏在大脑前动脉假腔中的凝块。他一直失去意识，按照其遗愿，医疗团队拔掉了他的生命支持，他在两小时之后去世。他的知名作品包括获得星云奖的长篇小说《移动火星》和《达尔文电波》，以及获得
 星云奖和雨果奖的一系列短篇小说。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2035 年起将停止增加闰秒]]></title>
-        <id>https://www.solidot.org/story?sid=73422</id>
-        <link href="https://www.solidot.org/story?sid=73422"/>
-        <updated>2022-11-20T14:13:33.000Z</updated>
-        <summary type="html"><![CDATA[11 月 18 日全球度量衡大会（CGPM）的各国代表做出决定，2035 年或更早起将停止增加闰秒。闰秒是不可预测的，因为它依赖于地球自转，而地球自转从长期看是不可预测的，它时而加速时而减速。这一决定意味着天文时 UT1 将允许与基于原子钟的协调世界时 UTC 相差一秒以上。从 1972 年起，每当 UTC 和 UT1 相差 0.9 秒以上时就会加入一个闰秒。加入闰秒会破坏精确计时的系统，会在数字时代产生巨大影响，Meta/Facebook 和 Google 都呼吁停止加入闰秒。CGPM 还提议在至少一百年内不增加闰秒，允许 UTC 和 UT1 之间相差一分钟。它计划与其它国际组织协商，在 2026 年前确定时间上限。俄罗斯代表投票反对在 2035 年后停止增加闰秒，它希望推迟到 2040 年之后，原因是该国的卫星导航系统 GLONASS 含有闰秒，而 GPS 等能忽略闰秒，这意味着俄罗斯可能需要更新其卫星和地面站。国际电信联盟（ITU）有可能阻止这一计划的推行，它认为现在不是做出决定的时候。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS之我用单img元素实现了图像resize拉伸效果]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=10611</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2022/11/js-image-resize/"/>
-        <updated>2022-11-20T11:10:23.000Z</updated>
-        <summary type="html"><![CDATA[图像尺寸拉伸的时候，会在外面有一圈拖拽按钮，大多数开发实现此效果会包裹一层标签，然后定位各个按钮以实现最终效果，我就突发奇想，有没有可能仅仅使用IMG标签，就实现同样的效果呢？]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 宣布开源 Radeon 光线追踪分析器 RRA]]></title>
-        <id>https://www.solidot.org/story?sid=73421</id>
-        <link href="https://www.solidot.org/story?sid=73421"/>
-        <updated>2022-11-20T10:38:42.000Z</updated>
-        <summary type="html"><![CDATA[AMD 开源了它的 Radeon 开源光线追踪分析器 Radeon Raytracing Analyzer (RRA)，该工具旨在帮助开发者改进光线追踪性能。AMD 是在今年夏天宣布了 RRA，但 RRA 1.0 最初发布时只提供了二进制包，现在正式公布了其代码，源代码托管在 GitHub 上，采用 MIT 许可证，支持 Windows 和 Linux，其中 Linux 主要针对的是 Ubuntu 发行版。构建 RRA 需要 Qt 5.15。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[越南前教师因 Facebook 帖子被判八年]]></title>
-        <id>https://www.solidot.org/story?sid=73420</id>
-        <link href="https://www.solidot.org/story?sid=73420"/>
-        <updated>2022-11-20T09:59:55.000Z</updated>
-        <summary type="html"><![CDATA[一位在 Facebook 发帖批评环境污染和新冠疫情处理方式的前越南高中化学教师 Van Thuan 被判八年徒刑。在服完刑后他还将在家中软禁五年。越南检方指控他诽谤地方及中央领导人的声望和荣誉，弯曲党和国家的政策，在人民中间引发了猜疑。Thuan 否认了所有指控，重申自己是清白的。他是在去年 8 月被捕的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新闻出版署已经有五百天未批准进口游戏]]></title>
-        <id>https://www.solidot.org/story?sid=73419</id>
-        <link href="https://www.solidot.org/story?sid=73419"/>
-        <updated>2022-11-20T08:39:48.000Z</updated>
-        <summary type="html"><![CDATA[负责游戏版号审批的监管机构新闻出版署已有五百天未批准进口游戏。根据新闻出版署网站的游戏审批结果，上一次发布进口网络游戏审批信息还是 2021 年 6 月 28 日，距今 510 天。在最后的审批公告中，网易的《暗黑破坏神：不朽》位列其中。国产网络游戏审批也停滞了 9 个月，直到 2022 年 4 月才逐渐恢复，而网易及最大游戏公司腾讯今年没有几部游戏获批。最近网易与暴雪暂停了合作，如果暴雪游戏找到另一家代理商，这个代理商要获得版号有可能也是遥遥无期。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软输入法plus – 让输入法回归专注]]></title>
-        <id>https://www.appinn.com/?p=43930</id>
-        <link href="https://www.appinn.com/ms-input-method-plus/"/>
-        <updated>2022-11-20T07:00:18.000Z</updated>
-        <summary type="html"><![CDATA[本文来自发现频道，作者：@dog，原文链接：https://meta.appinn.net/t/topic/38111 微软输入法plus 给 Windows 系统默认的微软输入法添加了一张高效美观的]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国空军和 FBI 突击搜查一位 51 区博主的家]]></title>
-        <id>https://www.solidot.org/story?sid=73418</id>
-        <link href="https://www.solidot.org/story?sid=73418"/>
-        <updated>2022-11-19T15:27:03.000Z</updated>
-        <summary type="html"><![CDATA[美国空军和 FBI 的特工在 11 月 3 日早晨突击搜查了 51 区网站 dreamlandresort.com 站长 Joerg Arnu 的家，扣押了笔记本电脑、手机、备份硬盘、照相机和无人机等设备。Arnu 从 1999 年起创办了网站 Dreamland Resort，专注于报道美国军方神秘的军事基地 51 区。51 区位于内华达州林肯县，被美国空军用于测试实验性的飞行器，其中包括 U-2 间谍飞机。因为高度机密，这个设施长期以来一直是阴谋论的焦点，许多人报告在此发现了不明飞行物（UFO）。Arnu 的博客就自称要揭示 51 区的秘密。负责此次行动的 Bryon McGarry 中校证实了此次搜查行动，但拒绝透露更多信息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Theranos 创始人被判 11.25 年]]></title>
-        <id>https://www.solidot.org/story?sid=73417</id>
-        <link href="https://www.solidot.org/story?sid=73417"/>
-        <updated>2022-11-19T15:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Theranos 创始人霍姆斯(Elizabeth Holmes)周五被判处入狱 135 个月（11.25 年），终结了这位昔日硅谷神童非同一般的陨落。她被判犯有四项刑事欺诈罪，在 Theranos 血液测试技术的功效上欺骗投资者，其中包括新闻集团的 Rupert Murdoch 等名人。霍姆斯在法庭上落泪，表示非常抱歉，称她为公司付出了一切。法庭文件显示，她的辩护团队寻求判处不超过 18 个月的监禁。她将从 2023 年 4 月 27 日开始服刑。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
