@@ -90,16 +90,6 @@
           "wordCount": 2267,
           "title": "一份爱小工具 – 田字格字帖、拼音田字格、古诗词、口算题等 13 款「中文学习」生成器，低年级学生练字神器[Web]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/11/an2.net_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=43987",
-          "author": "青小蛙",
-          "description": "有群里的同学提问：「安卓手机，当PC 的摄像头，哪个软件比较好？ ​​​​」青小蛙转发到了微博上，就有不少同学发来了应用，当属 @爱口无罪 同学的评论，言简意赅：droidcam 神级软件。@头撞墙",
-          "link": "https://www.appinn.com/android-camera-for-pc/",
-          "publishedOn": "2022-11-26T07:46:34.000Z",
-          "wordCount": 2353,
-          "title": "安卓手机，当 PC 的摄像头，哪个软件比较好？ ​​​​",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/11/android-camera-for-pc.jpg"
         }
       ]
     },
@@ -108,6 +98,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=375184",
+          "author": "Pieter De Decker",
+          "description": "For years, a small pedantry war has been raging in our address bars. In one corner are brands like Google, Instagram, and Facebook. This group has chosen to redirect example.com to www.example.com. In the opposite corner: …\nDoes WWW still belong in URLs? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/does-www-still-belong-in-urls/",
+          "publishedOn": "2022-12-05T15:20:22.000Z",
+          "wordCount": 1667,
+          "title": "Does WWW still belong in URLs?",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375184"
+        },
         {
           "id": "https://css-tricks.com/?p=375308",
           "author": "Temani Afif",
@@ -199,6 +199,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73564",
+          "author": null,
+          "description": "随着北极暖化，美洲河狸开始向北迁移。如今阿拉斯加和加拿大冻土地带的河狸数量在不断增加。暂时还不知道这对北极的生态系统意味着什么。河狸有“自然界水坝工程师”之称，能使用树枝、灌木、石头、泥土等材料建造水坝和用于居住的小木屋。原居民担心这种河狸水坝可能会对鱼类的迁移构成威胁。科学家指出，河狸改变地貌的能力仅次于人类。1950 年代的航空摄影没有发现任何河狸池塘的痕迹。但在最近的一项研究中，Alaska Fairbanks 大学生态学家 Ken Tape 根据卫星图像发现了 11377 个河狸池塘。",
+          "link": "https://www.solidot.org/story?sid=73564",
+          "publishedOn": "2022-12-05T15:02:16.000Z",
+          "wordCount": 150,
+          "title": "随着北极暖化河狸向北迁移",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73563",
+          "author": null,
+          "description": "俄罗斯安全公司卡巴斯基披露了一种冒充勒索软件但实际上旨在破坏数据的恶意程序 CryWiper——名字来自于恶意程序破坏文件使用的扩展名 .cry。该恶意程序的攻击目标是俄罗斯法庭和市长办公室，但更多细节未知。卡巴斯基称，CryWiper 不破坏任何  .exe、.dll、.lnk、.sys 或 .msi 扩展的文件，也放过了重要的系统文件夹，它的破坏目标是数据库、档案和用户文件。目前只知道的是 CryWiper 专门攻击俄罗斯目标。卡巴斯基称，CryWiper 是用 C++ 编写的，用 MinGW-w64 和 GCC 编译器编译，这有点不同寻常，大部分 C++ 恶意程序是用微软的  Visual Studio 编译。恶意程序应该是在非 Windows 系统上开发的。",
+          "link": "https://www.solidot.org/story?sid=73563",
+          "publishedOn": "2022-12-05T14:29:14.000Z",
+          "wordCount": 166,
+          "title": "俄罗斯法庭和市长办公室遭到破坏性恶意程序攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73560",
+          "author": null,
+          "description": "3D 打印建筑公司 ICON 从 NASA 获得了一份价值 5720 万美元的合同，研发在月球表面建造基础设施如着陆场、公路和住宅的 3D 打印机。打印机将使用月球本地的材料如月尘和月石。从地球向月球运送原材料是非常昂贵的，其费用将是天文数字，因此在月球上建造基地之类的设施需要尽可能利用月球上存在的材料。ICON 研发的月球打印机被称为 Olympus，其外表看似是一个携带起重机的巨大机械蜘蛛，它将通过商业着陆器送到月球，自己行驶到目的地动工建设。",
+          "link": "https://www.solidot.org/story?sid=73560",
+          "publishedOn": "2022-12-05T10:28:58.000Z",
+          "wordCount": 174,
+          "title": "ICON 将为 NASA 研发月球用的 3D 打印机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73559",
+          "author": null,
+          "description": "美国马萨诸塞州民主党参议员 Ed. Markey 致函 20 多家汽车厂商，呼吁它们在未来的车型中保留 AM 广播。参议员称，AM 广播是美国消费者的一个重要信息来源，在 COVID-19 疫情前，12 岁以上美国人有九成每周收听 AM 广播，这一比例高于看电视的 56% 和拥有一台计算机的 77%。此外 33% 的新车买家表示 AM 广播是汽车的一项重要功能，高于专用 Wi-Fi（31%）、SiriusXM 卫星广播（27%），以及 Google Assistant（12%）和亚马逊 Alexa（9%）。AM 广播也是政府在自然灾害、极端天气事件等紧急情况下与公众沟通的一种重要机制。相比 FM 广播，AM 广播工作频率更低，波长更长，更容易穿过固体，能传播更远距离，非常适用于广播紧急信息。淘汰 AM 广播会在紧急情况下造成通信问题。",
+          "link": "https://www.solidot.org/story?sid=73559",
+          "publishedOn": "2022-12-05T09:50:43.000Z",
+          "wordCount": 182,
+          "title": "美国参议员呼吁汽车厂商保留 AM 广播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73558",
+          "author": null,
+          "description": "艾滋病（AIDS）是一种全球公共卫生问题，这一慢性、可能危及生命的疾病由人类免疫缺陷病毒（HIV）引起。由于 HIV 会迅速变异为新毒株，开发相关疫苗十分困难。根据发表在《科学》期刊上的一项研究，一种实验性 HIV 疫苗可使97%参与者产生抗体。在相隔 8 周接种两剂 HIV 疫苗的 36 名试验者中，有 35 名产生了病毒抗体，且未发现严重副作用。被称为 eOD-GT8 60mer 的疫苗可刺激 B 细胞产生 HIV 特异性广泛中和抗体。在所有参与者中，98% 的参与者出现了轻微副作用，如疲劳、头痛和注射部位疼痛等。大多数情况下，这些副作用会在一两天内好转。",
+          "link": "https://www.solidot.org/story?sid=73558",
+          "publishedOn": "2022-12-05T08:01:37.000Z",
+          "wordCount": 180,
+          "title": "实验性疫苗让 97% 的人产生 HIV 抗体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73557",
+          "author": null,
+          "description": "美国考古学会发表公开信，呼吁 Netflix 将 Graham Hancock 的《Ancient Apocalypse》归类为虚构作品而不是纪录片。Graham Hancock 是历史考古类作品的畅销书作家，他的大部分作品是围绕着远古神话和巨石建筑，新的《Ancient Apocalypse》讲述的是传说中的亚特兰蒂斯。考古学界通常将其作品归类为伪考古学研究。公开信呼吁  Netflix 和制作公司 TNT 加入免责声明，强调内容不是基于真正的考古学研究。Hancock 则在《Ancient Apocalypse》第一集中强硬的表示，他要颠覆历史的范式。",
+          "link": "https://www.solidot.org/story?sid=73557",
+          "publishedOn": "2022-12-05T07:42:29.000Z",
+          "wordCount": 178,
+          "title": "考古学家呼吁 Netflix 将 Graham Hancock 纪录片归类为虚构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73556",
+          "author": null,
+          "description": "根据珠海拱北海关的通报，有女子假装孕妇走私英特尔 CPU。通报称，11 月 25 日下午，内地女子赵某身穿黄色连衣裙经拱北口岸进境，腹部隆起、体态异常，在接受关员问询时，言语逻辑混乱，谈及身孕月份闪烁其词。女子声称怀孕 5 到 6 个月，不过看起来更像是孕晚期。随后现场女性海关人员依规对其进行查验，发现肚子部分有一个硅胶假体，拿掉假体后，露出了用透明胶带绑藏得严严实实的CPU和手机。经过清点后，总共有 202 块 CPU 和 9 台手机。与过往众多走私案一样，涉及的 CPU 都是英特尔的产品。",
+          "link": "https://www.solidot.org/story?sid=73556",
+          "publishedOn": "2022-12-05T06:55:36.000Z",
+          "wordCount": 163,
+          "title": "女子假装孕妇走私英特尔 CPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73555",
+          "author": null,
+          "description": "OpenAI 的新通用聊天机器人原型 ChatGPT 过去几天风靡一时，它在解决各种问题上的能力使其可以成为 Google 等搜索引擎和 Stack Overflow 等编程问答社区的部分替代。Stack Overflow 上也涌入了大量用 ChatGPT 生成的问题答案。Stack Overflow 社区现在发表了一则声明，宣布临时封杀 ChatGPT。Stack Overflow 称 ChatGPT 答案的正确率非常低，因此对整个网站以及寻求正确答案的用户来说是有害的。如果用户被发现使用 ChatGPT 回答问题，他们可能会受到禁止继续发帖的惩罚。",
+          "link": "https://www.solidot.org/story?sid=73555",
+          "publishedOn": "2022-12-05T06:37:43.000Z",
+          "wordCount": 176,
+          "title": "Stack Overflow 临时封杀 ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73554",
+          "author": null,
+          "description": "研究人员给雄性和雌性果蝇服用抗衰老药物雷帕霉素，以研究对不同性别果蝇的影响。雷帕霉素是一种细胞生长抑制剂和免疫调节剂，通常用于癌症治疗和器官移植后。他们发现雷帕霉素延长了雌性苍蝇的寿命，减缓了与年龄相关的肠道疾病，但对雄性苍蝇没有影响。研究人员观察到雷帕霉素增加了雌性肠道细胞的自噬——细胞的废物处理过程。然而雌性肠道细胞似乎已经具有较高的基础自噬活性，雷帕霉素不能进一步提高这种活性。老鼠身上也观察到雷帕霉素的这种效果。雌性小鼠经雷帕霉素治疗后自噬活性增加。研究人员认为，性别可能是抗衰老药物有效性的决定性因素。",
+          "link": "https://www.solidot.org/story?sid=73554",
+          "publishedOn": "2022-12-05T06:25:13.000Z",
+          "wordCount": 144,
+          "title": "抗衰老药物对不同性别可能有不同影响",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73553",
           "author": null,
@@ -807,56 +897,6 @@
           "publishedOn": "2022-11-26T15:19:57.000Z",
           "wordCount": 168,
           "title": "德国隐私监管机构认为 Microsoft 365 不兼容 GDPR",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73490",
-          "author": null,
-          "description": "Google 释出了紧急更新修复了一个正被利用的 Chrome 桌面浏览器 0day，这是今年 Chrome 的第 8 个 0day。该高危漏洞编号为 CVE-2022-4135，为 GPU 中的一个堆溢出漏洞，由 Google Threat Analysis Group 的 Clement Lecigne 在 11 月 22 日发现。在大部分用户完成更新前 Google 没有披露漏洞细节，它建议桌面用户立即更新到新版本 107.0.5304.122 。Google Chrome 今年发现的前 7 个 0day 是 2 月 14 日的 CVE-2022-0609、3 月 25 日的 CVE-2022-1096、4 月 14 日的 CVE-2022-1364、7 月 4  日的 CVE-2022-2294 、8 月 17 日的 CVE-2022-2856、9 月 2 日的 CVE-2022-3075，10 月 28 日的 CVE-2022-3723。",
-          "link": "https://www.solidot.org/story?sid=73490",
-          "publishedOn": "2022-11-26T14:34:20.000Z",
-          "wordCount": 226,
-          "title": "Google Chrome 释出紧急更新修复年内的第 8 个 0day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73489",
-          "author": null,
-          "description": "NordPass 公布了 2022 年最常用密码名单，以及破解密码所需的时间。最常用密码相比过去几年差异并不大：password、123456、123456789、guest、qwerty、12345678、111111、12345、col123456 和 123123。对于不重要的密码，大部分人都会选择容易记忆的数字或短语。破解大部分常用密码只需要不到一秒钟，少数可能需要 10 秒或更长时间，比如 col123456。NordPass 还公布了与密码趋势相关的统计：在奥斯卡奖颁奖季节使用 Oscars 作为密码的频率会大幅增加，在流行电影电视剧放映期间同名密码也会大增，比如 batman、euphoria 和 encanto。",
-          "link": "https://www.solidot.org/story?sid=73489",
-          "publishedOn": "2022-11-26T14:15:50.000Z",
-          "wordCount": 166,
-          "title": "2022 年最常用的密码仍然是 password",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73488",
-          "author": null,
-          "description": "在 FTX 交易所崩盘之后，主要加密货币交易所都被要求公开资产储备证明系统，以证明它们都有充足的资产。币安是最大的加密货币交易所，它周五公布了自己的资产储备证明：截至 11 月 23 日，它储备有 582,485.9302 个比特币，而用户净余额为 575,742.4228 个比特币，意味着它有 6,743 个比特币保证金。币安称它会在未来两周内公布第二批资产储备证明结果，并聘请第三方审核公司审计资产储备证明结果。",
-          "link": "https://www.solidot.org/story?sid=73488",
-          "publishedOn": "2022-11-26T13:40:46.000Z",
-          "wordCount": 155,
-          "title": "币安公布其资产储备证明系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73487",
-          "author": null,
-          "description": "在新加坡举行的  Google Search Central Live 活动上，Google Webmaster 趋势分析师  Gary Illyes 称，互联网上六成的内容是重复的。他没有对重复进行定义，是 100% 相同的重复，还是改个标题但实际内容一致的重复比如社交网络中的转载，或者进行搜索引擎优化之后的重复。互联网上有大量重复内容是众所周知的事实，问题是比例有多大，作为最大最流行的搜索引擎，Google 给出了它的答案。",
-          "link": "https://www.solidot.org/story?sid=73487",
-          "publishedOn": "2022-11-26T03:19:09.000Z",
-          "wordCount": 161,
-          "title": "Google 称互联网的六成是重复内容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73486",
-          "author": null,
-          "description": "根据发表在本周《科学》期刊上的一项研究，mRNA 通用流感疫苗在动物实验中取得初步成功。mRNA 新冠疫苗的成功推动了这项技术扩大使用范围。流感疫苗面临的一大难题是流感病毒有至少 20 种谱系，每种都包含多种病毒株。能针对所有 20 种谱系的通用流感疫苗将有助于预防下一次流感大流行。研究人员在小鼠和雪貂的动物实验中测试了一种 mRNA 通用流感疫苗，结果显示它对 20 种不同的 HA 靶位都引发了特异性抗体。",
-          "link": "https://www.solidot.org/story?sid=73486",
-          "publishedOn": "2022-11-25T15:51:08.000Z",
-          "wordCount": 159,
-          "title": "mRNA 通用流感疫苗在动物实验中取得初步成功",
           "imageUrl": null
         }
       ]
