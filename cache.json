@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44201",
+          "author": "青小蛙",
+          "description": "kaf-cli 是一个开源项目，用来自动将 .txt 格式的电子小说转换为 EPub、Mobi、azw3 电子书格式，并且能够自动识别目录、标题，以及添加封面图片。支持 Windows、macOS、L",
+          "link": "https://www.appinn.com/kaf-cli/",
+          "publishedOn": "2022-12-18T09:44:07.000Z",
+          "wordCount": 2748,
+          "title": "kaf-cli – 将 txt 小说转换为电子书（EPub、Mobi、azw3），带封面、目录[Win/macOS/Linux/Android]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/12/kaf-cli.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44164",
           "author": "青小蛙",
           "description": "VideoProc 是一款一站式视频处理工具，支持下载网页视频、视频编辑/剪辑、格式转换、录屏、DVD 转录，可以处理 4K/HDR 影片，支持 GPU 硬件加速。目前已开启限免及圣诞节促销。@App",
@@ -120,21 +130,6 @@
           "wordCount": 2334,
           "title": "记事本++ 高仿 Windows 内置记事本软件[macOS]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/12/jishibenpp.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44130",
-          "author": "青小蛙",
-          "description": "我的 MacBook Pro 只有 256GB 硬盘空间，平时也勉强够用。但最近在升级新版本操作系统 macOS Ventura 13 时发现磁盘空间不够，导致不能升级。对于一个升级强迫症患者来说，任",
-          "link": "https://www.appinn.com/cleanmymac-x-7/",
-          "publishedOn": "2022-12-09T06:08:11.000Z",
-          "wordCount": 2452,
-          "title": "专业的 Mac 辅助工具 CleanMyMac X：清理、杀毒、加速、卸载",
-          "enclosure": {
-            "url": "https://cdn.cleanmymac.cn/video/main_topper_new.d61ce695c7d595a33683.mp4",
-            "length": "1358482",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/03/cleanmymac.jpgo_.jpg"
         }
       ]
     },
@@ -222,26 +217,6 @@
           "wordCount": 1565,
           "title": "Saving Settings for a Custom WordPress Block in the Block Editor",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375577"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375537",
-          "author": "Temani Afif",
-          "description": "In the last article, we made a pretty cool little slider (or “carousel” if that’s what you prefer) that rotates in a circular direction. This time we are going to make one that flips through a stack of Polaroid …\nCSS Infinite Slider Flipping Through Polaroid Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-infinite-slider-flipping-through-polaroid-images/",
-          "publishedOn": "2022-12-09T14:26:39.000Z",
-          "wordCount": 3542,
-          "title": "CSS Infinite Slider Flipping Through Polaroid Images",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375537"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375697",
-          "author": "Preethi",
-          "description": "How often to do you reach for the CSS background-size property? If you’re like me — and probably lots of other front-end folks — then it’s usually when you background-size: cover an image to fill the space of an entire …\nAnimated Background Stripes That Transition on Hover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/animated-background-stripes-transition-hover/",
-          "publishedOn": "2022-12-08T15:36:21.000Z",
-          "wordCount": 2431,
-          "title": "Animated Background Stripes That Transition on Hover",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375697"
         }
       ]
     },
@@ -266,13 +241,54 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10654",
+          "author": "张 鑫旭",
+          "description": "原本以为CSS逻辑属性只能在对称布局这样少见的场景中才有用武之地，最近发现，CSS逻辑属性还有简写的作用，这可牛逼坏了~",
+          "link": "https://www.zhangxinxu.com/wordpress/2022/12/css-logic-property-for-write/",
+          "publishedOn": "2022-12-18T06:17:26.000Z",
+          "wordCount": 1018,
+          "title": "Tips: 使用CSS逻辑属性简化我们的书写",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73685",
+          "author": null,
+          "description": "Let's Encrypt 宣布支持 ACME-CAA(Certification Authority Authorization)——它是 DNS CAA 记录的一个扩展，旨在堵上 Domain Validation（域名验证）的漏洞。SSL 证书的一个主要目的是限制中间人攻击。而当你从 CA 如 Let's Encrypt 为一个域名申请证书，Let's Encrypt 必须采取措施确认你是域名的合法所有者。域名验证的方法通常是 CA 生成随机的质询字符串，要求你将其托管在自己的域名上。如果你成功的完成了这一要求，那么意味着你控制着该域名，因此是域名的合法运营者。问题是在执行域名验证时你还没有 SSL 证书，也就是说 CA 验证你的域名是通过 HTTP 而不是 HTTPS，这意味着整个域名验证过程容易遭到中间人攻击。ACME-CAA 就是设计堵上漏洞，要求 CAA 记录指向 Let’s Encrypt 的一个特定帐户名。",
+          "link": "https://www.solidot.org/story?sid=73685",
+          "publishedOn": "2022-12-18T14:58:26.000Z",
+          "wordCount": 189,
+          "title": "Let's Encrypt 支持 ACME-CAA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73684",
+          "author": null,
+          "description": "与国际空间站对接的俄罗斯联盟号飞船 MS-22 本周早些时候发生冷却剂泄露事故，俄罗斯宇航员 Sergey Prokopyev 和 Dmitri Petelin 原计划进行的太空行走被取消。俄罗斯宇航官员表示，事故很有可能是微陨石撞击导致的，空间站的宇航员没有任何安全危险。俄罗斯载人航天任务负责人 Sergei Krikalev 称，陨石撞击了 MS-22 的一个散热器，可能导致冷却剂泄漏。这一事故可能会影响飞船冷却系统性能和设备部分温度，但不会危及乘员。NASA 和俄罗斯航天局将在评估之后决定空间站未来的运作。",
+          "link": "https://www.solidot.org/story?sid=73684",
+          "publishedOn": "2022-12-18T13:43:20.000Z",
+          "wordCount": 156,
+          "title": "俄罗斯联盟飞船可能遭微陨石撞击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73683",
+          "author": null,
+          "description": "Google 周五宣布向部分 Gmail 用户提供端对端加密——Google 称其为 Gmail CSE。一旦启用，邮件主体、附件和内嵌图像都将在传输和储存在网盘前由客户端的浏览器进行加密，Google 服务器将无法获得加密密钥，因此也无法对其进行解密。邮件的标题、时间戳和收件人名单不加密。目前该功能提供给 Google Workspace Enterprise Plus、Education Plus 或 Education Standard 客户，他们都可以申请 Gmail CSE beta。该功能暂时不会提供给普通用户。",
+          "link": "https://www.solidot.org/story?sid=73683",
+          "publishedOn": "2022-12-18T13:14:27.000Z",
+          "wordCount": 166,
+          "title": "Gmail 开始向部分用户提供端对端加密",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73682",
           "author": null,
@@ -991,96 +1007,6 @@
           "publishedOn": "2022-12-09T14:38:14.000Z",
           "wordCount": 185,
           "title": "日本亿万富翁前泽友作为其绕月飞行挑选了 8 位艺术家",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73608",
-          "author": null,
-          "description": "最新版本的 Chrome 加入了两个性能设置：Memory Saver 和 Energy Saver。浏览器通常会消耗大量内存，Chrome 过去曾被诟病占用内存过高。新的 Memory Saver 通过将不活跃标签进入睡眠模式而能节省最多 30% 的内存。如果用户重新访问那么标签将会重新加载。Energy Saver 则在笔记本电池水平低于 20% 时限制网站的后台活动和动画视频的视觉效果。休眠不活跃标签最初是微软在其 Edge 浏览器中引入的，软件巨人曾宣布它在 9 月份休眠了 13.8 亿个标签，一个标签占用的内存相比正常水平减少了 83%。Edge 和 Chrome 基于相同的 Chromium 开源浏览器。",
-          "link": "https://www.solidot.org/story?sid=73608",
-          "publishedOn": "2022-12-09T14:28:17.000Z",
-          "wordCount": 174,
-          "title": "Chrome 引入节能和节省内存模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73607",
-          "author": null,
-          "description": "韩国国会周四表决通过规定周岁计算年龄的《民法》及《行政基本法》部分修正案，两项法案将在颁布 6 个月后实施。现行《民法》规定计算年龄以周岁为准，但韩国民间流行按虚岁算年龄，部分法律按照虚岁减一的实岁计算。因此至今计龄标准不一导致不少行政服务混乱。此次修法规定，民法﹑商法等规范私权关系的法律和行政领域统一采用从零算起的周岁标准计算年龄。",
-          "link": "https://www.solidot.org/story?sid=73607",
-          "publishedOn": "2022-12-09T09:58:17.000Z",
-          "wordCount": 145,
-          "title": "韩国修改了年龄计算方法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73606",
-          "author": null,
-          "description": "基于 Chromium 的浏览器 Vivaldi 释出了 v5.6，成为第一个集成 Mastodon 实例的桌面浏览器。用户可以在浏览器侧边栏访问 Mastodon 实例 Vivaldi Social。Mastodon 是 Twitter 的去中心化替代。Vivaldi 5.6 的其它新功能包括：固定标签组，重新设计了设置页面，向英美加德四个国家的用户提供可选的注重隐私保护的新搜索引擎 You.com，等等。",
-          "link": "https://www.solidot.org/story?sid=73606",
-          "publishedOn": "2022-12-09T09:54:10.000Z",
-          "wordCount": 168,
-          "title": "Vivaldi 在其桌面浏览器中集成 Mastodon",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73605",
-          "author": null,
-          "description": "中国商飞的首架 C919 客机本周五正式交付给中国东方航空公司。飞机注册号 B-919A，“B”代表飞机的中国国籍，“919”和型号名称契合，“A”则有首架之意。该架飞机为 164 座两舱布局，公务舱 8 座，经济舱 156 座。C919 客机于 2022 年 9 月 29 日取得中国民航局型号合格证（TC证），11 月 29 日取得中国民航局生产许可证（PC证），座级 158-192 座，航程 4075-5555 公里。 C919 首架机原计划是在 2021 年底前交付给东航。",
-          "link": "https://www.solidot.org/story?sid=73605",
-          "publishedOn": "2022-12-09T07:19:38.000Z",
-          "wordCount": 178,
-          "title": "首架 C919 交付给东方航空",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73604",
-          "author": null,
-          "description": "Google 宣布 Chrome Stable M108 加入对无密码身份验证 Passkeys 的支持。密码容易被钓鱼或被泄露， Passkeys 是密码的替代，它不能复用，也不会被泄露。常用的 Passkeys 设备是手机，应用或网站会在用户尝试登陆时向配对的手机推送请求进行身份验证。最新版本的 Chrome 在 Windows 11、macOS 和 Android 上将启用 Passkeys，在 Android 上，它将通过 Google Password Manager 或其它支持 passkeys 的密码管理器同步。",
-          "link": "https://www.solidot.org/story?sid=73604",
-          "publishedOn": "2022-12-09T07:04:22.000Z",
-          "wordCount": 178,
-          "title": "Chrome 支持无密码身份验证 Passkeys",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73603",
-          "author": null,
-          "description": "一年前天文学家观测到持续近两分钟的伽马射线暴事件 GRB 211211A。伽马射线暴有两种，一种是持续不到 2 秒钟的短伽马射线暴，还有一种是持续 10 秒以上的长伽马射线暴。短伽马射线暴被认为是双中子星合并事件——即所谓的千新星；而长伽马射线暴则是超新星爆发。GRB 211211A 因此被认为可能与超新星爆发有关。但根据发表在《自然》期刊上的研究，两个独立研究团队报告   GRB 211211A 事件的源头是千新星。这一结论让科学家重新思考伽马射线暴。宇宙之谜还在等待我们去真正理解。",
-          "link": "https://www.solidot.org/story?sid=73603",
-          "publishedOn": "2022-12-09T06:33:54.000Z",
-          "wordCount": 154,
-          "title": "新千新星让科学家重新思考伽马射线暴",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73602",
-          "author": null,
-          "description": "美国联邦贸易委员会(FTC)提起诉讼，寻求阻止微软收购动视暴雪。动视暴雪是最大的游戏公司之一，旗下包括热门游戏《使命召唤》系列、《魔兽》系列和《暗黑破坏神》系列，以及热门手游如粉碎糖果系列。微软收购动视暴雪引发的担忧之一是软件巨人可能会限制这些热门游戏登陆竞争对手的平台。 FTC 的起诉就是基于这一担忧，微软将要在法庭上为自己辩护。微软此前收购了 Bethesda，之后 Bethesda 开发的游戏如《Starfield》将\n主要为微软平台独占。FTC 认为微软有反竞争行为。",
-          "link": "https://www.solidot.org/story?sid=73602",
-          "publishedOn": "2022-12-09T06:00:14.000Z",
-          "wordCount": 154,
-          "title": "FTC 寻求阻止微软收购动视暴雪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73601",
-          "author": null,
-          "description": "丹麦研究人员从格陵兰岛冻土中提取到约 200 万年前的生物 DNA，为迄今已知最古老 DNA。对它们的分析显示，这片荒凉的冰雪世界曾树木繁茂，栖息着多种动物。研究报告发表在《自然》期刊上。研究人员 2006 年从格陵兰岛北部皮里地半岛厚达 100 米、有约 200 万年历史的冻土中收集沉积物。最初受技术所限，他们没能从其中提取到远古 DNA。情况在过去几年发生改变。随着技术进步，研究人员从这些沉积物中提取到 160 多亿个 DNA 片段，其中大量属于现代微生物。对这些 DNA 片段的分析显示，200 万年前的格陵兰岛生活着乳齿象、驯鹿、野兔和大雁等动物。此外，这里不仅有如今还在当地能见到的苔藓、灌木、桦树等植物，还生长着白杨、杉树等如今通常生长在纬度较低地区的树木。研究人员说，格陵兰岛当时的平均气温比如今高 11 至 19 摄氏度。",
-          "link": "https://www.solidot.org/story?sid=73601",
-          "publishedOn": "2022-12-08T15:51:49.000Z",
-          "wordCount": 171,
-          "title": "研究人员从格陵兰岛提取出最古老 DNA",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73600",
-          "author": null,
-          "description": "开源 3D 图形设计软件 Blender 释出了v3.4。主要新特性包括：集成了英特尔的 Open Path Guiding Library，帮助渲染含有复杂焦散线的场景；Sculpt 模式下的自动遮蔽设置；基于几何的放松刷法；等等。",
-          "link": "https://www.solidot.org/story?sid=73600",
-          "publishedOn": "2022-12-08T15:46:06.000Z",
-          "wordCount": 160,
-          "title": "Blender 3.4 发布",
           "imageUrl": null
         }
       ]
