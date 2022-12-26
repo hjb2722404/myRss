@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2022-12-25T02:35:38.007Z</updated>
+    <updated>2022-12-26T02:34:39.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ruby 3.2.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=73754</id>
+        <link href="https://www.solidot.org/story?sid=73754"/>
+        <updated>2022-12-25T12:19:12.000Z</updated>
+        <summary type="html"><![CDATA[Ruby 语言在圣诞节这天释出了 3.2.0 版本，包含了众多新功能和性能改进。其中包括：基于 WebAssembly 的WASI 支持；YJIT 不再列入实验性功能，做好了生产准备，在 Linux 上支持 x86-64 和 arm64/aarch64 CPU，构建需要 Rust 1.58.0+；改进 Regexp 抵御正则表达式 DoS 攻击；SyntaxSuggest；等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客出售 4 亿 Twitter 用户数据库]]></title>
+        <id>https://www.solidot.org/story?sid=73753</id>
+        <link href="https://www.solidot.org/story?sid=73753"/>
+        <updated>2022-12-25T11:53:06.000Z</updated>
+        <summary type="html"><![CDATA[一名用户名 Ryushi 的用户在黑客论坛 Breached 兜售 4 亿 Twitter 用户的数据库，声称是利用 Twitter API 的漏洞抓取的，包括了电子邮件、用户名、姓名、粉丝数、创建日期和电话号码。这位用户公开了几位名人的样本，排在最前面的是美国民主党议员 AOC（Alexandria Ocasio-Cortez）。黑客还建议 Twitter 或马斯克（Elon Musk）花钱购买该数据库，威胁他们将会面临因数亿用户数据被抓取而面临欧盟的 GDPR 巨额罚款，表示如果 Twitter 购买的话将会停止出售。黑客利用的是今年早些时候已经修补的漏洞，上个月一个包含 540 万 Twitter 账号的数据库在黑客论坛免费共享，最新披露的数据规模则包含了绝大部分 Twitter 用户。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PikPak 助手 – 将 PikPak 网盘文件推送至 aria2[油猴脚本]]]></title>
+        <id>https://www.appinn.com/?p=44255</id>
+        <link href="https://www.appinn.com/pikpak-helper/"/>
+        <updated>2022-12-25T10:31:32.000Z</updated>
+        <summary type="html"><![CDATA[PikPak 助手 是一款油猴脚本，它主要用来为 PikPak 网页版提供推送到 aria2 下载功能。@Appinn PikPak 是一个网盘工具，支持离线下载、秒存、在线播放，最大特色是不限速，下]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么你应该接种有效疫苗而不只是靠感染？]]></title>
+        <id>https://www.solidot.org/story?sid=73752</id>
+        <link href="https://www.solidot.org/story?sid=73752"/>
+        <updated>2022-12-25T07:10:50.000Z</updated>
+        <summary type="html"><![CDATA[在新一波疫情中，很多人可能认为自己感染之后无需再接种疫苗。这是一种不太正确的观点，新冠疫情三年以来，已经有足够的数据证明接种有效疫苗能带来更大的好处。首先疫苗更安全，感染通常会伴随着严重症状，而二价加强针抵抗感染的有效率能达到五成以上；研究人员发现感染后康复者体内的抗体水平存在巨大差异，最高最低之间相差逾千倍，抗体水平越高意味着感染风险越低；在自然感染中，新冠病毒会感染呼吸道中的细胞，免疫系统对大量的病毒做出反应，因此产生了相对多的抗体多样性，相比之下疫苗针对的是对病毒至关重要的刺突蛋白，它的抗体多样性不如自然感染者，但产生了高水平的高度靶向抗体，可以将两者比喻为霰弹枪和狙击步枪之间的差异；去年的研究发现，康复者接种疫苗后体内的中和抗体水平提高了一千倍；新冠奥密克戎变种能逃避免疫，被认为具有高传播性但低伤害性，很多人因此可能认为疫苗效力不大，但这种轻伤害是在普遍接种有效疫苗的基础之上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚裔美国人罹患肺癌的风险异常高]]></title>
+        <id>https://www.solidot.org/story?sid=73751</id>
+        <link href="https://www.solidot.org/story?sid=73751"/>
+        <updated>2022-12-24T13:32:33.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Clinical Gastroenterology and Hepatology》期刊上的一项研究，亚裔美国人罹患肺癌的风险异常高。肺癌是全球第三大死因，而美国的肺癌发生率非常低，但生活在美国的亚裔肺癌风险仍然是异常的高。在加州，非拉丁裔白人的肺癌风险是大约 9/100,000，而韩裔是非拉丁裔白人的 13 倍，越南裔是 7 倍，日裔和华裔是 5 倍。亚裔高肺癌风险的原因是感染了幽门螺杆菌。幽门螺杆菌的感染通常没有症状，因此难以察觉。但如果一个人感染幽门螺杆菌数十年，它会发展成慢性炎症导致癌症。WHO 将其归类为 1 类致癌物。美国人口的幽门螺杆菌感染率是 10%-20%，亚洲国家则高达 80%，其中原因不太清楚。治疗幽门螺杆菌感染的常用方法为三联疗法，使用三种抗生素奥美拉唑、阿莫西林和克拉霉素。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软证实 Bethesda 即将发布的三款作品将是 PC 和 Xbox 独占]]></title>
         <id>https://www.solidot.org/story?sid=73750</id>
@@ -966,140 +1016,6 @@ CSS Infinite 3D Sliders originally published on CSS-Tricks, which is part of the
         <link href="https://www.solidot.org/story?sid=73675"/>
         <updated>2022-12-16T14:42:12.000Z</updated>
         <summary type="html"><![CDATA[今年早些时候，最大代码托管平台 GitHub 宣布到 2023 年底所有上传代码的用户都必须使用双因素认证（2FA）。此举旨在预防开发者的账号被劫持，防止攻击者劫持账号后上传恶意代码对下游项目发动供应链攻击。现在 GitHub 官方博客详述了逐步推广 2FA 的流程：从 3 月开始要求不同组的开发者逐渐启用 2FA，这些开发者或者发布了 GitHub 或 OAuth 应用或软件包，或者创建了一个发布，或者是企业和机构的管理员，向重要的 npm、OpenSSF、PyPI 或 RubyGems 软件包贡献了代码，向前 400 万公开和私有的软件包贡献代码。相关开发者将会收到邮件通知，要求在截止期限前完成启用 2FA，这个期限通常是间隔 45 天。在这期间开发者将会每天收到警告提示。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foundation Medicine 42万例样本库分析KRAS泛癌种突变特征得出了这些结论]]></title>
-        <id>https://kaopubear.top/blog/2022-12-16-fmi-kars-pancancer-landscape/</id>
-        <link href="https://kaopubear.top/blog/2022-12-16-fmi-kars-pancancer-landscape/"/>
-        <updated>2022-12-16T12:22:50.000Z</updated>
-        <summary type="html"><![CDATA[<p>KRAS和HRAS以及NRAS都属于RAS家族，这些基因一旦发生突变便可以启动或促进肿瘤生长。尽管KRAS是很多肿瘤中常见的突变致癌基因，但是KRAS基因所编码的蛋白像一个表面光滑的圆球，很难找到能可以抓住它的小分子化合物。过去几十年的时间里，一直认为其「不可成药」。</p>]]></summary>
-        <author>
-            <name>思考问题的熊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有没有 Win 笔记本电池设置充电阈值的软件？]]></title>
-        <id>https://www.appinn.com/?p=44189</id>
-        <link href="https://www.appinn.com/batterycare/"/>
-        <updated>2022-12-16T11:50:30.000Z</updated>
-        <summary type="html"><![CDATA[有同学在微博 @小众软件 询问：「笔记本三四年前的，没有电池保养软件，请问有没有笔记本电池设置充电阈值的软件，谢谢。 ​​​​」 本来这个问题可以标记 #问ChatGPT 标签的： @爱生活爱狗狗-]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST 建议 2030 年底前淘汰 SHA-1 加密算法]]></title>
-        <id>https://www.solidot.org/story?sid=73674</id>
-        <link href="https://www.solidot.org/story?sid=73674"/>
-        <updated>2022-12-16T10:36:15.000Z</updated>
-        <summary type="html"><![CDATA[美国国家标准与技术研究院（NIST）宣布 SHA-1 算法已经抵达寿命终点，建议使用者尽快迁移到 SHA-2 或 SHA-3。NIST 的安全专家称，今天日益强大的计算机很容易破解 SHA-1 算法，它应在 2030 年 12 月 31 日之前被淘汰。SHA-1 是在 1995 年作为美国联邦资料处理标准（FIPS PUB 180-1 发布的，Google 在 2017 年宣布了对 SHA-1 哈希算法的首个成功碰撞攻击。所谓碰撞攻击是指两个不同的信息产生了相同的哈希值，当时实现碰撞攻击需要耗费大量计算资源。但到了 2020 年研究人员将攻击成本降至 4.5 万美元，并预测未来成本会越来越低。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报道称 FTX 内部有一个名叫“Wirefraud”的秘密聊天群]]></title>
-        <id>https://www.solidot.org/story?sid=73673</id>
-        <link href="https://www.solidot.org/story?sid=73673"/>
-        <updated>2022-12-16T09:48:42.000Z</updated>
-        <summary type="html"><![CDATA[报道称，最近突然倒闭的加密货币交易平台 FTX 内部核心圈子组建了一个名叫“Wirefraud（意思是电信欺骗）”的秘密聊天群，用于发送平台运营的秘密信息。FTX 创始人 Sam Bankman-Fried 否认了该聊天群的存在，表示从未听说过，如果真的存在的话那么他本人不是核心圈的成员。Bankman-Fried 此前表示他已经无法接触到私人通信。他本周被巴哈马逮捕，面临引渡到美国受审。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO 预计明年新冠将不再是全球卫生紧急事件]]></title>
-        <id>https://www.solidot.org/story?sid=73672</id>
-        <link href="https://www.solidot.org/story?sid=73672"/>
-        <updated>2022-12-16T08:03:29.000Z</updated>
-        <summary type="html"><![CDATA[随着冬季新一波疫情的到来，WHO 正展望未来预计明年新冠将不再是全球卫生紧急事件。WHO 总干事谭德塞表示，将在明年 1 月开始讨论结束新冠疫情大流行的条件，“希望到明年的某个时候，我们能说 COVID-19 不再是全球卫生紧急事件。”他同时警告，病毒不会消失，会和我们共存，所有国家都需要要学会与其它呼吸道疾病一起管理它。谭德塞指出疫苗接种的不平等仍然是一个重要问题，低收入国家只有五分之一的人接种了疫苗。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊成为《古墓丽影》游戏的发行商]]></title>
-        <id>https://www.solidot.org/story?sid=73671</id>
-        <link href="https://www.solidot.org/story?sid=73671"/>
-        <updated>2022-12-16T07:27:44.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊游戏部门将发行新一代的《古墓丽影》游戏。游戏将由晶体动力（Crystal Dynamics）工作室开发，它也是之前三作《古墓丽影》游戏的开发商，它原来隶属于日本公司 Square Enix，今年初 Square Enix 宣布将晶体动力等西方工作室以及《古墓丽影》等游戏的知识产权出售给瑞典控股公司 Embracer Group。Embracer 有自己的游戏发行业务，新《古墓丽影》选择由亚马逊游戏发行有些出人意料。亚马逊游戏并没有收购《古墓丽影》IP 或晶体动力工作室，它只是发行商。它此前主要开发或发行网游如《New World》和《Lost Ark》。新《古墓丽影》将是它发行的第一款单人游戏。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家在附近恒星的宜居带探测到两颗地球大小的行星]]></title>
-        <id>https://www.solidot.org/story?sid=73670</id>
-        <link href="https://www.solidot.org/story?sid=73670"/>
-        <updated>2022-12-16T07:08:34.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在预印本平台 arXiv 上的研究报告，天文学家在一颗附近恒星的宜居带探测到两颗地球大小的行星。GJ~1002 位于鲸鱼座，距离太阳系 15.8 光年，是一颗 M 级红矮星。通过观测恒星光谱中谱线的多普勒效应以寻找是否有行星环绕，天文学家发现了两颗行星的信号，其中 GJ~1002 b 最小质量为 1.08 倍地球质量，轨道周期 10.3 天，距离母星 0.045 天文单位；GJ~1002 c 最小质量为 1.36 倍地球质量，轨道周期 21.2 天，距离母星 0.07 天文单位。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长江存储被美国列入出口黑名单]]></title>
-        <id>https://www.solidot.org/story?sid=73669</id>
-        <link href="https://www.solidot.org/story?sid=73669"/>
-        <updated>2022-12-16T06:26:34.000Z</updated>
-        <summary type="html"><![CDATA[美国商务部将长江存储列入出口黑名单，美国公司在向长江存储销售任何商品或服务之前，必须获得商务部的许可证。长江存储是中国最先进的存储芯片制造商，被列入出口黑名单可能会影响到其业务。长江存储的美国供应商包括芯片工具供应商 KLA 和 Lam Research，它们在长江存储的工厂派驻了数十名雇员，在工厂运营和制造能力开发上扮演重要作用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter 以恶意程序为由限制用户在其用户名添加 Mastodon 链接]]></title>
-        <id>https://www.solidot.org/story?sid=73668</id>
-        <link href="https://www.solidot.org/story?sid=73668"/>
-        <updated>2022-12-16T06:05:41.000Z</updated>
-        <summary type="html"><![CDATA[多位 Twitter 用户报告，他们尝试修改用户名或用户简介，加入去中心化微博服务 Mastodon 链接。结果返回了错误信息，“Account update failed: Description is considered malware.”还有用户报告称，他们在推文中发布了自己的 Mastodon 链接，结果被 Twitter 警告含有“敏感内容”而限制其显示。在马斯克（Elon Musk）控制 Twitter 之后，大量用户涌向了 Mastodon。仅在两周内，它就增加了 100 万新用户。马斯克过去几天更是挥起了大棒，以“直接人身安全风险”的理由封杀所有披露个人实时位置的帐户。在马斯克眼里，Mastodon 实例可能成为 Twitter 越来越大的威胁。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atom 项目存档进入只读模式]]></title>
-        <id>https://www.solidot.org/story?sid=73667</id>
-        <link href="https://www.solidot.org/story?sid=73667"/>
-        <updated>2022-12-16T05:47:38.000Z</updated>
-        <summary type="html"><![CDATA[GitHub 正式归档了 Atom 项目的代码库，进入只读模式。Atom 曾经是备受瞩目的文本编辑器，2015 年 5 月发布了 1.0 版本，它吸引了数百万开发者使用。微软在 2015 年推出了自己的文本编辑器 VS Code，2018 年收购 GitHub 后 Atom 成为了微软的项目，过去几年 VS Code 的用户数在不断增长，而 Atom 的使用者日益减少。Atom 死亡了，但它的 Electron 框架继续被数以千计的应用广泛使用。项目创始人 Max Brunsfeld 则推出了 Atom 精神续作——用 Rust 语言开发的 Zed。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing paid plans for Text and String tools!]]></title>
-        <id>https://catonmat.net/paid-plans-for-text-and-string-tools</id>
-        <link href="https://catonmat.net/paid-plans-for-text-and-string-tools"/>
-        <updated>2022-12-15T19:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Team Browserling keeps shipping!
-Last week we launched paid plans for our top three most popular websites (PNG Tools, JPG Tools, and GIF Tools) and this week we're launching paid plans for our next two most popular website – Text Tools and String Tools. Text and string tools are collectively used by 300,000 people every month. Next, we're adding paid plans to all other online tools websites that we built and eventually joining them into a single ultimate get things done website called OnlineTools.com (we already bought this premium domain!)
-You can still use the free tools version but if you super like them, then you can get a subscription to support my team's work. See you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So, you’d like to animate the display property]]></title>
-        <id>https://css-tricks.com/?p=375714</id>
-        <link href="https://css-tricks.com/so-youd-like-to-animate-the-display-property/"/>
-        <updated>2022-12-15T15:41:06.000Z</updated>
-        <summary type="html"><![CDATA[The CSS Working Group gave that a thumbs-up a couple weeks ago. The super-duper conceptual proposal being that we can animate or transition from, say, display: block to display: none.
-It’s a bit of a brain-twister to reason …
-So, you’d like to animate the display property originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boom Supersonic 披露其超音速客机引擎设计]]></title>
-        <id>https://www.solidot.org/story?sid=73666</id>
-        <link href="https://www.solidot.org/story?sid=73666"/>
-        <updated>2022-12-15T15:37:05.000Z</updated>
-        <summary type="html"><![CDATA[世界第一种超音速客机协和号在 18 年前退役，它在工程上是一大成就，但始终未能盈利。创业公司 Boom Supersonic 试图改变这一局面。该公司计划中的超音速客机 Overture 使用软件建模，用超轻材料制造，使用超高效的引擎。本周该公司披露了 Overture 的引擎 Symphony，参与设计和咨询的公司包括了 Florida Turbine Technologies、GE Additive 和 StandardAero，它是一个中旁路、双转子、无加力燃烧室的涡轮风扇发动机，起飞推力 35,000 磅，进气排气为超音速飞行特别设计，能降低噪音。引擎预计在 2024 年投产，2026 年测试，2027 年首飞，如果一切顺利，2029 年投入服役。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
