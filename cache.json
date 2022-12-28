@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44266",
+          "author": "青小蛙",
+          "description": "小白云盘TV 是一款适用于安卓TV端的阿里云盘视频播放器、文件管理器，支持多用户，可调用第三方播放器，在线搜索字幕、倍速、追剧，还有个图片浏览器用来看图，文件浏览器用来管理文件。@Appinn 感谢小",
+          "link": "https://www.appinn.com/xiaobaiyunpan-tv/",
+          "publishedOn": "2022-12-27T09:22:20.000Z",
+          "wordCount": 2308,
+          "title": "小白云盘TV – 适用于安卓TV端的阿里云盘播放器、文件管理器",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/12/xiaobaiyunpan.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44259",
           "author": "青小蛙",
           "description": "汉语字典和汉语成语词典专业版 是一款无广告、无内购的汉语字典应用，支持 iPhone、iPad，使用起来比较顺手，好用。另外还内置了古诗词查询工具。@Appinn 在找到这款 app 之前，青小蛙遇到",
@@ -130,16 +140,6 @@
           "wordCount": 2319,
           "title": "微信键盘 正式发布，已上架包括 App Store 在内的各大应用市场",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/12/wechat-input.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44201",
-          "author": "青小蛙",
-          "description": "kaf-cli 是一个开源项目，用来自动将 .txt 格式的电子小说转换为 EPub、Mobi、azw3 电子书格式，并且能够自动识别目录、标题，以及添加封面图片。支持 Windows、macOS、L",
-          "link": "https://www.appinn.com/kaf-cli/",
-          "publishedOn": "2022-12-18T09:44:07.000Z",
-          "wordCount": 2748,
-          "title": "kaf-cli – 将 txt 小说转换为电子书（EPub、Mobi、azw3），带封面、目录[Win/macOS/Linux/Android]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/12/kaf-cli.jpgo_.jpg"
         }
       ]
     },
@@ -201,24 +201,63 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10654",
-          "author": "张 鑫旭",
-          "description": "原本以为CSS逻辑属性只能在对称布局这样少见的场景中才有用武之地，最近发现，CSS逻辑属性还有简写的作用，这可牛逼坏了~",
-          "link": "https://www.zhangxinxu.com/wordpress/2022/12/css-logic-property-for-write/",
-          "publishedOn": "2022-12-18T06:17:26.000Z",
-          "wordCount": 1018,
-          "title": "Tips: 使用CSS逻辑属性简化我们的书写",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73759",
+          "author": null,
+          "description": "佛罗里达州立大学医学院的研究人员发现，阿斯巴甜与小鼠的焦虑行为有关。吃了阿斯巴甜的小鼠会产生焦虑，这种影响从接触这种甜味剂的雄性小鼠延续了两代。美国食品和药物管理局(FDA)于 1981 年批准阿斯巴甜为甜味剂。如今，每年生产近 5000 公吨。食用后，阿斯巴甜会变成天冬氨酸、苯丙氨酸和甲醇，所有这些都能对中枢神经系统产生强大的影响。研究人员为小鼠提供含有阿斯巴甜的饮用水，其含量约为 FDA 批准的人类每日最大摄入量的 15%。在一项历时四年的研究中，这种剂量相当于人类每天喝 6 到 8 罐 8 盎司的无糖汽水，持续了 12 周。",
+          "link": "https://www.solidot.org/story?sid=73759",
+          "publishedOn": "2022-12-27T12:07:39.000Z",
+          "wordCount": 158,
+          "title": "阿斯巴甜与焦虑行为相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73758",
+          "author": null,
+          "description": "Mozilla 修复了一个有 18 年历史的 Firefox Bug。Bug 290125 最早是在 2005 年 4 月 12 日报告的，问题与 Firefox 渲染带有::首字符 CSS 伪元素的文本有关，浏览器使用的 Gecko 引擎会忽略任何声明的行高，继承父框的行高。该问题一直被归类为低优先级，直到 2022 年 12 月 20 日才修复，Firefox 110 将包含更新后的代码。目前 Firefox 最新稳定版本是 108，110 预计将在 2023 年 2 月释出。",
+          "link": "https://www.solidot.org/story?sid=73758",
+          "publishedOn": "2022-12-27T11:33:45.000Z",
+          "wordCount": 198,
+          "title": "Mozilla 修复了一个 18 年历史的 Firefox Bug",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73757",
+          "author": null,
+          "description": "由于美国上周遭遇了恶劣暴风雪天气，很多比特币矿场关闭了设施，导致数天内比特币网络哈希率下跌近四成。比特币哈希率上周六为每秒 155.28 exahashes，相比周三的每秒 253.88 exahashes 减少 38.8%。比特币矿场 Riot Blockchain 上周四在推特上表示，由于德克萨斯州的极端天气，它正关闭其设施。",
+          "link": "https://www.solidot.org/story?sid=73757",
+          "publishedOn": "2022-12-27T09:27:19.000Z",
+          "wordCount": 152,
+          "title": "上周比特币网络哈希率因美国致命暴风雪下跌近四成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73756",
+          "author": null,
+          "description": "日本名古屋大学的一个研究小组报告说，大脑视前区的 EP3 神经元在调节哺乳动物体温方面起着关键作用。这一发现有助开发一种人工调节体温技术，帮助治疗中暑、体温过低甚至肥胖症。人类和许多其它哺乳动物的体温维持在 37℃ 左右，当体温明显偏离正常范围时，可能对身体功能造成伤害，导致中暑、体温过低甚至死亡。大脑的温度调节中心位于视前区，这是控制身体重要功能的下丘脑的一部分。例如，当视前区接收到来自前列腺素E（PGE_2，为响应感染而产生）介质的信号时，该区域会发出提高体温的命令，以对抗病毒、细菌和其他致病生物。为识别究竟是视前区的哪些神经元释放了升高或降低体温的命令，名古屋大学研究团队使用大鼠开展了研究。他们首先研究了视前区EP3神经元的活动如何随着环境温度的变化而变化。大鼠舒适的环境温度为28℃左右。在两个小时内，研究人员将大鼠暴露在寒冷（4℃）、室温（24℃）和高温（36℃）环境中。结果表明，暴露于 36℃ 会激活 EP3 神经元，而暴露于 4℃ 和 24℃ 则不会。",
+          "link": "https://www.solidot.org/story?sid=73756",
+          "publishedOn": "2022-12-27T07:55:49.000Z",
+          "wordCount": 164,
+          "title": "哺乳动物体温维持 37℃ 的关键神经元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73755",
+          "author": null,
+          "description": "市场监管总局判定知网滥用市场支配地位，并处以其 2021 年中国境内销售额 17.52 亿元 5% 的罚款，计 8760万元。知网是中国最大的学术电子资源集成商，收录了 95% 以上正式出版的中文学术资源，由于其在学术资源上 “大而全” 的优势，因此各高校图书馆基本都是知网的客户。知网一直保持着 60% 左右的毛利率，这也与其极高的市场占有率有关，其昂贵的订阅费用最近几年备受争议，近年来已发生数起高校因不满知网涨价而暂停续订的新闻，其中不乏北京大学等知名院校。",
+          "link": "https://www.solidot.org/story?sid=73755",
+          "publishedOn": "2022-12-27T06:02:57.000Z",
+          "wordCount": 164,
+          "title": "知网因垄断行为被罚 8760 万元",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73754",
           "author": null,
@@ -908,36 +947,6 @@
           "wordCount": 189,
           "title": "Let's Encrypt 支持 ACME-CAA",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73684",
-          "author": null,
-          "description": "与国际空间站对接的俄罗斯联盟号飞船 MS-22 本周早些时候发生冷却剂泄露事故，俄罗斯宇航员 Sergey Prokopyev 和 Dmitri Petelin 原计划进行的太空行走被取消。俄罗斯宇航官员表示，事故很有可能是微陨石撞击导致的，空间站的宇航员没有任何安全危险。俄罗斯载人航天任务负责人 Sergei Krikalev 称，陨石撞击了 MS-22 的一个散热器，可能导致冷却剂泄漏。这一事故可能会影响飞船冷却系统性能和设备部分温度，但不会危及乘员。NASA 和俄罗斯航天局将在评估之后决定空间站未来的运作。",
-          "link": "https://www.solidot.org/story?sid=73684",
-          "publishedOn": "2022-12-18T13:43:20.000Z",
-          "wordCount": 156,
-          "title": "俄罗斯联盟飞船可能遭微陨石撞击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73683",
-          "author": null,
-          "description": "Google 周五宣布向部分 Gmail 用户提供端对端加密——Google 称其为 Gmail CSE。一旦启用，邮件主体、附件和内嵌图像都将在传输和储存在网盘前由客户端的浏览器进行加密，Google 服务器将无法获得加密密钥，因此也无法对其进行解密。邮件的标题、时间戳和收件人名单不加密。目前该功能提供给 Google Workspace Enterprise Plus、Education Plus 或 Education Standard 客户，他们都可以申请 Gmail CSE beta。该功能暂时不会提供给普通用户。",
-          "link": "https://www.solidot.org/story?sid=73683",
-          "publishedOn": "2022-12-18T13:14:27.000Z",
-          "wordCount": 166,
-          "title": "Gmail 开始向部分用户提供端对端加密",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73682",
-          "author": null,
-          "description": "中国科学院院士陆林表示，在所有疾病中，抑郁症正逐渐成为负担最大的疾病，已超过癌症、心血管疾病对人的影响。“心血管疾病有的可以治好，患者痊愈后可维持正常的生活。但是抑郁症给个体带来的痛苦巨大，导致他们生活质量低下。”陆林说，世界卫生组织称，抑郁症对健康的损害超过冠心病对健康的影响。心理问题不仅伤害个体，对社会稳定也会造成巨大影响。为此，陆林呼吁社会各界，包括政府、企业、学校、社区、媒体等，要充分重视新冠疫情给社会带来的心理影响，积极采取措施，以保障老百姓的生活质量。新冠肺炎疫情暴发三年以来，对很多人的心理状态都产生了不同程度的影响，其中，青少年群体的心理健康受到了较为严重的长期影响。",
-          "link": "https://www.solidot.org/story?sid=73682",
-          "publishedOn": "2022-12-17T14:33:09.000Z",
-          "wordCount": 143,
-          "title": "院士称抑郁症正成为负担最大的疾病",
-          "imageUrl": null
         }
       ]
     },
@@ -994,7 +1003,18 @@
       "title": "思考问题的熊",
       "feedUrl": "https://kaopubear.top/blog/atom.xml",
       "siteUrl": "https://kaopubear.top/blog",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://kaopubear.top/blog/2022-12-27-grail-2022-look-back/",
+          "author": null,
+          "description": "<p>到了年底每一位打工人都少不了做工作年终总结，即便是一家公司的CEO也不例外。</p>",
+          "link": "https://kaopubear.top/blog/2022-12-27-grail-2022-look-back/",
+          "publishedOn": "2022-12-27T15:06:57.000Z",
+          "wordCount": 197,
+          "title": "和头部肿瘤早筛公司 GRAIL CEO 学写年终工作总结",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "reuixiy",
