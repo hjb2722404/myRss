@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44280",
+          "author": "青小蛙",
+          "description": "微信清理工具2022.02版 是一款专门用来清理微信 PC 版磁盘空间占用的 Windows 工具，它可以针对不同微信账户清理，并区分为安全、警告、危险三个类别分别清理，简单易用。@Appinn 感谢",
+          "link": "https://www.appinn.com/wechat-pc-clean-2022-02/",
+          "publishedOn": "2022-12-28T09:41:57.000Z",
+          "wordCount": 2407,
+          "title": "微信清理工具 – 专门用来清理微信 PC 版磁盘占用工具",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/12/wechat-pc-clean.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44266",
           "author": "青小蛙",
           "description": "小白云盘TV 是一款适用于安卓TV端的阿里云盘视频播放器、文件管理器，支持多用户，可调用第三方播放器，在线搜索字幕、倍速、追剧，还有个图片浏览器用来看图，文件浏览器用来管理文件。@Appinn 感谢小",
@@ -130,16 +140,6 @@
           "wordCount": 2271,
           "title": "Windows 资源管理器快速定位，支持全拼、首字母、小鹤",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/12/explore_select_items.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44205",
-          "author": "青小蛙",
-          "description": "微信键盘是微信官方出品的中文输入法，目前已上架各大应用市场。@Appinn 微信键盘 这是一款包括里拼音、双拼、五笔、笔划、手写在内的中文输入法，拥有九宫格、全键盘，语音转文字、表情推荐，并且拥有一个",
-          "link": "https://www.appinn.com/wechat-keyboard/",
-          "publishedOn": "2022-12-19T12:27:58.000Z",
-          "wordCount": 2319,
-          "title": "微信键盘 正式发布，已上架包括 App Store 在内的各大应用市场",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/12/wechat-input.jpgo_.jpg"
         }
       ]
     },
@@ -148,6 +148,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=375486",
+          "author": "Geoff Graham",
+          "description": "You know, this is the time of year where Chris normally publishes a big ol’ reflection of the past year. The first one was published in 2007, the same year CSS-Tricks began, and it continued all the way through 2021…\nThank You (2022 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/thank-you-2022-edition/",
+          "publishedOn": "2022-12-28T15:46:15.000Z",
+          "wordCount": 2951,
+          "title": "Thank You (2022 Edition)",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375486"
+        },
         {
           "id": "https://css-tricks.com/?p=375869",
           "author": "Geoff Graham",
@@ -201,13 +211,54 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10667",
+          "author": "张 鑫旭",
+          "description": "copyWithin()是一个数组内的复制与替换方法，类似C或C++里面的memmove，是个高性能的数据移动方法，其语法需要多看几篇才看得懂。",
+          "link": "https://www.zhangxinxu.com/wordpress/2022/12/js-array-copywithin/",
+          "publishedOn": "2022-12-28T13:48:06.000Z",
+          "wordCount": 1355,
+          "title": "JS数组的copyWithin()语法我看了好几遍才懂",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73762",
+          "author": null,
+          "description": "在 1980 年代和 1990 年代，有数十家公司从事显卡开发，但它们中的大部分在竞争中被淘汰。到 2010 年，只剩下 AMD 和英伟达提供有竞争力的显卡产品。但过去几年，随着 AI、HPC 和图形处理的需求高速增长，全球显卡厂商的数量出现了大幅增长。其中中国公司的数量令人瞩目。根据 Jon Peddie Research 的数据，共有 18 家公司在开发和生产 GPU。两家公司针对智能手机和笔记本电脑开发集成 GPU 的 SoC，六家 GPU IP 供应商，11 家专注于 PC 和数据中心 GPU 的 GPU 开发商，包括 AMD、英特尔和英伟达。这个名单没有包括壁仞科技和天数智芯这两家专注于  AI 和 HPC 的 GPU 开发商。",
+          "link": "https://www.solidot.org/story?sid=73762",
+          "publishedOn": "2022-12-28T11:57:16.000Z",
+          "wordCount": 180,
+          "title": "中国显卡制造商的崛起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73761",
+          "author": null,
+          "description": "哲学家们试图回答家务劳动中的不平等和女性在家庭中的工作被忽视的问题，他们提出了一种新的理论——男性和女性受到社会的训练，在同一个家庭环境中看到不同的行动可能性。例如，女性可能会看到一个表面，并看到一个隐含的动作——“擦拭”，而男性可能只看到一个覆盖着面包屑的工作台面。这些根深蒂固的家庭观念上的性别差异可以通过社会干预来改变，比如延长陪产假，这将鼓励男性在心理上建立起对家务的联想。根据哲学家们的说法，当一个女人走进厨房时，她更有可能感知到特定家庭任务的“可见性”——她认为盘子是“要洗的”，冰箱是“要储存的”。一个男人可能只是观察水槽里的盘子，或半空的冰箱，但没有察觉到这种启示或体验到相应的精神“拉扯”。随着时间的推移，这些微小的差异会累积成谁做什么方面的巨大差异。",
+          "link": "https://www.solidot.org/story?sid=73761",
+          "publishedOn": "2022-12-28T11:34:59.000Z",
+          "wordCount": 144,
+          "title": "男性可能不像女性那样“认为”需要做家务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73760",
+          "author": null,
+          "description": "印度未来十年很可能成为制造业的宠儿。苹果已通过纬创、富士康和和硕这三家台湾公司在印度组装iPhone 11、12、13 和 14 手机。据 Counterpoint Research称，由于新 iPhone 模块化程度更高的设计，印度工厂现在几乎可以与中国工厂同时生产 iPhone 14。Counterpoin t估计，到 2025 年，全球 18% 至 20% 的 iPhone 产品将产自印度，而 2021 年这一比例仅为 3% 左右。印度仍然有自己的缺点，基础设施不足，上下游电子产品供应链薄弱。",
+          "link": "https://www.solidot.org/story?sid=73760",
+          "publishedOn": "2022-12-28T11:30:05.000Z",
+          "wordCount": 166,
+          "title": "印度正成为制造业的新生产基地",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73759",
           "author": null,
@@ -826,126 +877,6 @@
           "publishedOn": "2022-12-19T15:00:35.000Z",
           "wordCount": 158,
           "title": "Meta 因分类广告被欧盟指控违反反垄断法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73696",
-          "author": null,
-          "description": "GCC 13 将支持 Modula-2。Modula-2 是 Pascal 语言的直接继承者，如名字所表示的，旨在更加模块化，更有利于并行编程。其设计理念的一部分是将程序分解成非连续块，可分别编译运行。瑞士计算机科学家、Pascal 语言作者 Niklaus Wirth 在施乐帕洛阿尔托研究中心进修期间受到了早期 GUI 界面和 Mesa 语言的启发，在返回苏黎世联邦理工后终止了 Pascal 第一个后继者 Modula 的工作，创建了 Modula-2，使用基于 coroutines 的模型，加入对对模块间通信的支持。Modula-2 至今仍然在使用中，如俄罗斯的导航卫星 GLONASS 系统。GNU Modula-2 最近合并到了 GCC 主线，将成为  GCC 13 的一部分。",
-          "link": "https://www.solidot.org/story?sid=73696",
-          "publishedOn": "2022-12-19T14:13:02.000Z",
-          "wordCount": 186,
-          "title": "GCC 13 将支持 Modula-2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73695",
-          "author": null,
-          "description": "旧金山的房价和房租曾经令人望而却步，但在新冠疫情以及远程办公流行之后，该市办公楼的空置率从 2019 年的 5% 增至了 24%，比美国主要城市的平均水平低约 7 个百分点。目前办公楼的使用率只有疫情前的四成。这对该市的税收将会产生重大影响。在几个月时间里，Yelp 公司腾空了总部，允许其约 4400 名员工在美国的任何地方工作。当越来越多的人在家中工作，曾经繁华的市中心会发生什么？旧金山将测试这一问题的答案。该市的首席经济学家 Ted Egan 已对税收减少发出了警告。在典型的经济衰退中，转机是一个相当简单的等式，即租金下降到足以吸引新租户，经济改善到足以刺激新需求。但当下的一个更重要的问题：市中心到底有什么意义。",
-          "link": "https://www.solidot.org/story?sid=73695",
-          "publishedOn": "2022-12-19T12:30:48.000Z",
-          "wordCount": 164,
-          "title": "当 IT 工人在家工作，曾经繁华的市中心会发生什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73694",
-          "author": null,
-          "description": "流媒体公司过去几年不断投入了巨额资金增加内容，但这一趋势今年下半年开始放缓。Ampere Analysis 的数据显示，电视网和流媒体公司订购的成人剧集数量与去年同期相比下降 24%，相比 2019 年下降了 40%。这一趋势始于流媒体巨头 Netflix 今年早些时候宣布其订阅人数首次出现流失，该公司的股票随之暴跌。Netflix 也迅速采取措施开源节流，包括裁员和减少内容投入，并推出了便宜的广告支持订阅服务。媒体巨头华纳兄弟和发现频道在 4 月合并之后面临近 500 亿美元的债务，包括 HBO 和 HBO Max 在内的业务都出现了多轮裁员，砍掉了受欢迎的剧集如《西部世界》。迪士尼公司的剧集订购量比去年下半年同期也有所减少。在这一波退潮中，两大巨头亚马逊和苹果是例外——Apple TV+ 和亚马逊今年下半年都增加了剧集订购量。",
-          "link": "https://www.solidot.org/story?sid=73694",
-          "publishedOn": "2022-12-19T11:30:55.000Z",
-          "wordCount": 163,
-          "title": "流媒体公司减少剧集订购，但亚马逊和苹果是例外",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73693",
-          "author": null,
-          "description": "五角大楼今年 7 月组建新部门调查不明飞行物，之后收到几百份发现不明飞行物(UFO)的报告，但是没有证据显示它们与外星人相关。美国防部今年 7 月组建全域异常情况处理办公室，负责调查在空中、水下和太空出现的不明物体。该部门此前发表报告称，2004 年至 2021 年期间观察到“不明航空现象”144 起。报告发布以来，\n又收到几百份关于发现不明物体的报告，其中一些涉及多年前的发现。军方官员没有说明有多少报告已经接受分析并结案，但表示其中不少最终可能被发现不过是气球或无人机，并非以侦察或搜集情报为目的，不具危险性。",
-          "link": "https://www.solidot.org/story?sid=73693",
-          "publishedOn": "2022-12-19T10:24:40.000Z",
-          "wordCount": 161,
-          "title": "五角大楼收到了数百份新 UFO 报告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73692",
-          "author": null,
-          "description": "Apache SpamAssassin 垃圾邮件过滤器释出了 v4.0.0 版本。新版包含了大量变更和调整，显著改进了对国际语言文本的处理，包含了完整的 Unicode 字符支持。它整合了过去数年的修正，显著改进了分类和性能，已在生产系统中进行了全面测试。开发者强烈建议用户尽快升级。",
-          "link": "https://www.solidot.org/story?sid=73692",
-          "publishedOn": "2022-12-19T09:41:26.000Z",
-          "wordCount": 161,
-          "title": "Apache SpamAssassin 4.0.0 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73691",
-          "author": null,
-          "description": "三大存在竞争关系的浏览器开发商 Google、苹果和 Mozilla 合作构建新浏览器基准测试 Speedometer 3。为了防止新工具偏向任意一家，Speedometer 的治理政策要求任何重大变更都需要另外两家公司的批准，非重大变更需要另外两家公司之一的批准，三家公司的任意一位评审者可以同意对一个“微小变更”开绿灯。Speedometer 3 将是主要由苹果 WebKit  团队开发的 Speedometer 2 的后续，目前处于早期开发阶段。开发者建议在项目进一步开发之前继续使用 Speedometer 2.1。",
-          "link": "https://www.solidot.org/story?sid=73691",
-          "publishedOn": "2022-12-19T09:21:31.000Z",
-          "wordCount": 173,
-          "title": "Google 苹果 Mozilla 合作构建新浏览器基准测试",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73690",
-          "author": null,
-          "description": "Stack Overflow 公布了年度开发者调查，结果显示 74% 开发者正在积极寻找新工作或者对新的工作机会持开放立场。活跃的求职者中比例最高的是 20-24 岁人群（27%），25-34 岁人群为 21%，35-44 岁人群有 17%，45-54岁只有 12%。想要寻找新工作的开发者比例同比增加了 9%。在受访者中，获得更高的薪水是换工作的最大动力。而影响更换工作的最大因素是工作灵活性（58%）、薪水（54%）和学习机会（54%），开发者希望能选择在家工作，46% 的人表示被要求在固定时间开始/结束工作，以及 44% 的人认为被要求在办公室工作是目前职位最大缺点。StackOverflow CEO Prashanth Chandrasekar 称，无论经济情况，工资是重要的因素，但它不是一切。",
-          "link": "https://www.solidot.org/story?sid=73690",
-          "publishedOn": "2022-12-19T07:07:06.000Z",
-          "wordCount": 170,
-          "title": "Stack Overflow 调查发现四分之三的程序员想要换工作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73689",
-          "author": null,
-          "description": "Linux 基金会、亚马逊 AWS、Meta、微软和 TomTom 宣布了一个新的开放地图项目 Overture Maps，创办了新的 Overture Maps 基金会。Overture Maps 寻求整合来自开放地图项目 OpenStreetMap 的数据，以及项目成员贡献的新地图数据，使用计算机视觉和 AI/ML 去创建一个活的物理世界数字记录。Overture Maps 意图与 OpenStreetMap 项目形成互补关系，Overture 的数据将在兼容性的开放数据许可证下提供给 OpenStreetMap 社区，Overture 的成员也被鼓励直接向 OpenStreetMap 贡献数据。Overture 基金会不太满意 OpenStreetMap 的数据结构，认为其地图数据缺乏易于构建地图产品所需的结构。目前地图市场上 Google Maps 占据统治地位，但搜索巨人也因此大幅提高了 API 价格，一年上涨了逾百倍。打车软件 Uber 在  IPO 材料中披露向 Google 地图服务支付了数千万美元。Overture 意图挑战 Google Maps，计划在 2023 年上半年发布首个数据集。",
-          "link": "https://www.solidot.org/story?sid=73689",
-          "publishedOn": "2022-12-19T06:10:26.000Z",
-          "wordCount": 203,
-          "title": "Linux 基金会、亚马逊、Meta 和微软力推开放地图服务 Overture Maps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73688",
-          "author": null,
-          "description": "在 Steam Deck 掌机发售 10 个月之后，Valve 的硬件设计师畅谈了下一代产品的设计侧重点。在现有的硬件配置下，绝大部分游戏（包括 3A 级作品）能在 Steam Deck 的系统分辨率 1200×800 下能以最低 30 fps 的帧数运行，提高硬件配置不太可能带来质的飞跃，也就能提高十几帧。但 Steam Deck 的缺陷也十分明显，包括电池续航力和屏幕质量。硬件设计师 Lawrence Yang 和 Pierre-Loup Griffais 表示下一个版本的设计重点是减少消费者的痛点，在保持现有性能水平的同时延长电池使用时间。",
-          "link": "https://www.solidot.org/story?sid=73688",
-          "publishedOn": "2022-12-19T05:17:34.000Z",
-          "wordCount": 181,
-          "title": "Steam Deck 2.0 可能侧重于改进电池续航而并非性能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73687",
-          "author": null,
-          "description": "世界卫生组织估计，世界上至少有 30% 的人口感染了弓形虫。根据发表在《Cell Host & Microbe》期刊上的一项研究，科学家发现了弓形虫如何传播到大脑的机制。研究人员发现了弓形虫重新编程免疫系统的蛋白质。寄生虫将这种蛋白质注入免疫细胞的细胞核，改变了细胞的身份。免疫细胞被寄生虫欺骗，误以为它们是另一种细胞。这改变了免疫细胞的基因表达和行为。弓形虫会导致本不应该在体内传播的受感染细胞迅速移动，从而使寄生虫传播到不同的器官。",
-          "link": "https://www.solidot.org/story?sid=73687",
-          "publishedOn": "2022-12-19T04:54:33.000Z",
-          "wordCount": 149,
-          "title": "弓形虫是如何传播到大脑的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73686",
-          "author": null,
-          "description": "知名程序员、《黑客与画家》的作者、创业孵化器 Y Combinator 联合创始人 Paul Graham 宣布离开 Twitter 加入 Mastodon，然后他的帐户被短暂封杀。此举再一次引发了广泛争议，马斯克(Elon Musk)的 Twitter 之后解除了封锁。Twitter 还宣布了新的政策，禁止“免费推广某些社交媒体平台”，遭到封杀的平台包括了 Facebook、Instagram、Mastodon、Truth Social、Tribel、Nostr 和 Post，Paul Graham 的最后一则推文被链接到了新政策的网页。Paul Graham 在 HN 上回应称，他不会永久性的离开 Twitter，但在 Twitter 解除此类禁令前他不会去 Twitter。他仍然为马斯克进行了一番辩护，称在电动汽车和火箭上的成就证明马斯克不是笨蛋。",
-          "link": "https://www.solidot.org/story?sid=73686",
-          "publishedOn": "2022-12-19T04:09:54.000Z",
-          "wordCount": 190,
-          "title": "马斯克的 Twitter 短暂封杀宣布离开的 Paul Graham",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73685",
-          "author": null,
-          "description": "Let's Encrypt 宣布支持 ACME-CAA(Certification Authority Authorization)——它是 DNS CAA 记录的一个扩展，旨在堵上 Domain Validation（域名验证）的漏洞。SSL 证书的一个主要目的是限制中间人攻击。而当你从 CA 如 Let's Encrypt 为一个域名申请证书，Let's Encrypt 必须采取措施确认你是域名的合法所有者。域名验证的方法通常是 CA 生成随机的质询字符串，要求你将其托管在自己的域名上。如果你成功的完成了这一要求，那么意味着你控制着该域名，因此是域名的合法运营者。问题是在执行域名验证时你还没有 SSL 证书，也就是说 CA 验证你的域名是通过 HTTP 而不是 HTTPS，这意味着整个域名验证过程容易遭到中间人攻击。ACME-CAA 就是设计堵上漏洞，要求 CAA 记录指向 Let’s Encrypt 的一个特定帐户名。",
-          "link": "https://www.solidot.org/story?sid=73685",
-          "publishedOn": "2022-12-18T14:58:26.000Z",
-          "wordCount": 189,
-          "title": "Let's Encrypt 支持 ACME-CAA",
           "imageUrl": null
         }
       ]
