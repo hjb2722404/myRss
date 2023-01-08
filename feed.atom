@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-01-07T02:35:09.900Z</updated>
+    <updated>2023-01-08T02:42:14.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[亚马逊 S3 将默认用 AES-256 加密数据]]></title>
+        <id>https://www.solidot.org/story?sid=73832</id>
+        <link href="https://www.solidot.org/story?sid=73832"/>
+        <updated>2023-01-07T14:14:56.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊 Simple Storage Service (S3)将默认在服务器端用 AES-256 自动加密新数据。AWS 的服务器端加密已经存在了十多年，但现在为了加强安全将默认启用。管理员无需采取任何行动，亚马逊表示加密不会对性能产生任何影响。默认的加密算法是 AES-256，管理员可以选择 SSE-C 或 SSE-KMS 等替代方法。其中 SSE-C 将由存储桶的所有者控制密钥，SSE-KMS 将由亚马逊管理密钥。存储桶的所有者还可以为每个 KMS 密钥设置不同的权限以便于细化控制。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小鼠研究显示长期运动可延缓器官衰老]]></title>
+        <id>https://www.solidot.org/story?sid=73831</id>
+        <link href="https://www.solidot.org/story?sid=73831"/>
+        <updated>2023-01-07T13:37:23.000Z</updated>
+        <summary type="html"><![CDATA[中科院动物所的小鼠研究显示，长期运动可延缓全身多器官衰老。研究人员将年轻小鼠（2 月龄，相当于人类 18 岁）和年老小鼠（16 月龄，相当于人类 55 岁）随机分为运动组和对照组，并借助自动化运动装置“引导”年轻和年老动物进行了长达 12 个月（相当于人类的 35 年）的自主运动锻炼。通过行为学评估发现，长期有氧运动不仅增加了小鼠的肌肉耐力，还增强了小鼠的学习及记忆能力。此外，经过运动后，小鼠血液中炎性因子的含量相较对照组小鼠明显降低。为了进一步揭示运动对机体不同器官和细胞类型的影响，研究人员分离获得了各组动物的大脑、小脑、脊髓、肺、心脏、骨骼肌、肝、肾、小肠、睾丸、脾脏、骨髓、主动脉、外周血共 14 种组织器官，基于高分辨率的单细胞或单细胞核转录组测序，系统绘制了运动组和对照组小鼠的泛组织单细胞基因表达全景图谱。结果表明，运动可以诱导全身多种细胞类型基因表达的显著改变。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[垂直放置 PS5 可能会导致硬件故障]]></title>
+        <id>https://www.solidot.org/story?sid=73830</id>
+        <link href="https://www.solidot.org/story?sid=73830"/>
+        <updated>2023-01-07T10:27:22.000Z</updated>
+        <summary type="html"><![CDATA[PS5 存在一个几个月时间才会显现的设计缺陷，与垂直放置游戏机有关。PS5 维修专家发现，问题的根源与索尼游戏机所采用的定制 AMD Zen 2 CPU 使用的液态金属热介面有关。当游戏机以垂直方向放置时，随着时间液态金属会移动并溢出到 CPU 周围的元件上，意味着液态金属不再均匀分布在所要冷却的芯片上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前端原生API实现条形码二维码的JS解析识别]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=10678</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/01/js-parse-barcode-qrcode-barcodedetector/"/>
+        <updated>2023-01-07T10:09:17.000Z</updated>
+        <summary type="html"><![CDATA[今天才知道，原来浏览器有原生的API，可以对二维码、条形码进行解析，使用非常简单！]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[康希诺开始试产 mRNA 疫苗]]></title>
+        <id>https://www.solidot.org/story?sid=73829</id>
+        <link href="https://www.solidot.org/story?sid=73829"/>
+        <updated>2023-01-07T09:49:18.000Z</updated>
+        <summary type="html"><![CDATA[康希诺生物开始试产 mRNA 疫苗，针对奥密克戎毒株的疫苗一期生产项目设计产能 1 亿剂。康希诺在新闻稿中称，它的 mRNA疫苗 CS-2034 是针对现有新冠病毒变异株有更好保护效果的新一代疫苗，可以诱导出针对多种世界卫生组织认定的奥密克戎等重要变异株的高滴度中和抗体，具有更强的广谱性，可以更有效地保护机体免受现有变异株的感染。研究表明，已接种 3 剂灭活疫苗的 18 岁及以上人群，采用康希诺生物新型冠状病毒 mRNA 疫苗进行序贯加强具有良好的耐受性，针对奥密克戎 BA.5 变异株的中和抗体水平是灭活疫苗同源加强的 29 倍。60 岁及以上的老年人群接种安全性更佳，可获得较强的免疫保护。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究建议减少氮的使用]]></title>
+        <id>https://www.solidot.org/story?sid=73828</id>
+        <link href="https://www.solidot.org/story?sid=73828"/>
+        <updated>2023-01-06T15:09:00.000Z</updated>
+        <summary type="html"><![CDATA[一个国际研究小组在《自然》期刊上发表报告，指出全球面临减少农田氮污染这一巨大挑战。氮肥的大量使用推动上个世纪人口增长四倍，对于到 2050 年养活百亿人口也是至关重要。但这是有巨大代价的。氮肥中逾半数氮渗入空气和水中，导致致命污染、土壤酸化、气候变化、臭氧层耗竭和生物多元化丧失。报告主要作者、浙江大学的谷保静教授称，活性氮对健康、气候和环境具有多重影响，因此必须减少空气和水等介质中的活性氮。谷领导的研究人员分析了逾 1500 份野外观测，确定了 11 项减少氮损失同时仍能提高农作物产量的关键措施。其中一个方法是轮流耕作，在同一块土地上种植各种作物，优化土壤养分流动。因化肥的广泛使用中国和印度是世界上最大的氮污染国。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slack 和 CircleCI 先后披露安全事故]]></title>
+        <id>https://www.solidot.org/story?sid=73827</id>
+        <link href="https://www.solidot.org/story?sid=73827"/>
+        <updated>2023-01-06T13:56:46.000Z</updated>
+        <summary type="html"><![CDATA[在 LastPass 披露用户加密库被盗两周之后，消息应用 Slack 和软件测试和交付公司 CircleCI 先后披露了安全事故。Slack 称员工令牌凭证被盗，而 CircleCI 的事故可能更严重，其储存的客户秘密可能暴露，它建议客户轮换储存在其服务上的所有秘密。CircleCI 同时通知客户其 Project API 令牌失效需要更换。CircleCI 的服务被逾百万开发者使用，登录凭证、访问令牌等秘密暴露可能会对整个互联网的安全造成严重影响。CircleCI  建议客户检查下 12 月 21 日到 1 月 4 日期间的内部日志，看看是否有未经授权的访问。这可能意味着黑客在 CircleCI 的系统中可能潜伏了两周时间，如此长的时间足够收集行业最敏感的数据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WhatsApp 加入代理支持]]></title>
         <id>https://www.solidot.org/story?sid=73826</id>
@@ -745,117 +815,6 @@ Nature Reviews Cancer 发文：未来10年肿瘤精准治疗的6个未解之谜
         <summary type="html"><![CDATA[WebToEpub 是一款开源浏览器扩展，支持 Chrome、Firefox，它能够自动获取带目录的网络小说，或其他网页，将其下载并转换为 Epub 格式的电子书，已内置需要网页规则，但也可以通过简单]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客滥用 Google Ads 将恶意程序传播给搜索合法软件的用户]]></title>
-        <id>https://www.solidot.org/story?sid=73770</id>
-        <link href="https://www.solidot.org/story?sid=73770"/>
-        <updated>2022-12-29T13:24:20.000Z</updated>
-        <summary type="html"><![CDATA[恶意程序的运营者日益滥用 Google Ads 将恶意程序传播给搜索合法软件的用户。受害者包括了 Grammarly、MSI Afterburner、Slack、Dashlane、Malwarebytes、Audacity、μTorrent、OBS、Ring、AnyDesk、Libre Office、Teamviewer、Thunderbird 和 Brave。黑客会创建上述项目官方网站的克隆，但将用户点击下载的软件替换为恶意程序。通过这种方法传播的恶意程序包括 Raccoon Stealer 的变种， Vidar Stealer 的定制版本， IcedID 恶意程序加载器。当广告商利用 Google Ads 发布广告时，如果 Google 检测到目标网站是恶意的，广告会删除。恶意程序的运营者利用了一种简单的方法绕过了这种检测——方法是首先将点击广告的用户带到没有恶意程序的网站，然后再重定向到克隆网站。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA 考虑使用 SpaceX 的 Crew Dragon 作为宇航员的备用飞船]]></title>
-        <id>https://www.solidot.org/story?sid=73769</id>
-        <link href="https://www.solidot.org/story?sid=73769"/>
-        <updated>2022-12-29T12:53:45.000Z</updated>
-        <summary type="html"><![CDATA[NASA 和俄罗斯宇航局正在调查联盟号飞船 MS-22 外部散热器冷却剂管路破裂的原因。飞船原计划将在明年 2 月将两名俄罗斯宇航员和 1 名美国宇航员送回地面。俄罗斯正在研究应急发射另一艘联盟号飞船。但如果俄罗斯无法发射飞船，NASA 在考虑使用 SpaceX 的载人飞船 Crew Dragon。Crew Dragon 飞船与联盟号飞船的一个区别是它有 4 个座位，还有一大问题是两艘飞船的太空服和座位都是量身定做的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六成 Netflix 订户今年看过至少一部韩剧]]></title>
-        <id>https://www.solidot.org/story?sid=73768</id>
-        <link href="https://www.solidot.org/story?sid=73768"/>
-        <updated>2022-12-29T12:13:29.000Z</updated>
-        <summary type="html"><![CDATA[Netflix 周四表示，每 10 名订户中有 6 名至少观看了一部韩剧。Netflix 称韩流比任何时候更强大，而在韩国搜索量最高的 10 部韩剧有 6 部是 Netflix 出品。2022 年 Netflix 平台收视率最高的两部韩剧是僵尸题材的《僵尸校园》和《非常律师禹英佑》，它们分别在该平台 2022 年最受欢迎的非英语电视节目榜单中名列第一和第二。此外，韩国浪漫喜剧《社内相亲》排名第 8。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国月球探测器进入绕月轨道]]></title>
-        <id>https://www.solidot.org/story?sid=73767</id>
-        <link href="https://www.solidot.org/story?sid=73767"/>
-        <updated>2022-12-29T11:43:11.000Z</updated>
-        <summary type="html"><![CDATA[韩国月球轨道探测器“Danuri”号（Korea Pathfinder Lunar Orbiter） 27 日进入预定的绕月飞行轨道。“Danuri”号于今年 8 月 5 日在佛罗里达州卡纳维拉尔角发射升空，26 日上午 11 时 6 分许开始执行最后一次变轨任务，并于次日被确认成功进入预定轨道。它目前在距离月表 100±30 公里的轨道上以约 2 小时的周期公转。“Danuri”号即将开始测试搭载的各类系统和装备，执行探月任务。它搭载研究院研制的高分辨率相机，该相机将以最高 2.5 米的分辨率拍摄月表。它还搭载广角偏振相机和伽马射线光谱仪，这些装备将用于探测月球地下资源。它还将用偏光镜拍摄月球背面。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国货之光 5 折起，40+ 正版软件马上购！]]></title>
-        <id>https://www.appinn.com/?p=44288</id>
-        <link href="https://www.appinn.com/lizhi-guohuozhiguang-2022/"/>
-        <updated>2022-12-29T11:09:28.000Z</updated>
-        <summary type="html"><![CDATA[正版软件商数码荔枝在2022年末带来了正版软件「国货之光」大促。让用户优惠入手国产正版，它们无论在软件质量还是口碑上，都相当优秀，堪称软件中的国货之光。 今年国货之光活动截止时间：2023 年 1 月]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[72 岁美国议员在攻读机器学习硕士课程]]></title>
-        <id>https://www.solidot.org/story?sid=73766</id>
-        <link href="https://www.solidot.org/story?sid=73766"/>
-        <updated>2022-12-29T09:59:56.000Z</updated>
-        <summary type="html"><![CDATA[Don Beyer 通常不会带多元微积分课本去工作，但马上期末考试了，他快没时间了。他是维吉尼亚州的民主党众议员，现年 72 岁，最近一直在 George Mason 大学兼读机器学习硕士课程，每学期选修一门课，缓慢但稳定地朝着学位前进，希望未来有一天能将 AI 知识应用于立法工作。他说自己将过去用来读书的时间花在解题上。他通常在晚上 9 点到 11 点之间做作业，每周四晚上会和一群 18 岁的年轻人一起参加 Zoom 课程，他们常常不打开摄像头，不知道或者不在乎同学是国会议员。他是众议院科学太空和科技小组委员会主席，该机构是 NASA 的监管者。一年前他参观George Mason 大学时为 AI 的潜力而着迷，询问可不可以来上课。大学寄给他一本目录，并为他错过报名的最后期限而破了例。为了获得攻读硕士的资格，他需要完成七门本科数学和计算机科学课程。他今年已经完成了三门课，剩下四门，他预计将在 2024 年开始真正攻读机器学习的研究生。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vbook – 将 TXT 转换为 ePub、Mobi 电子书格式，支持分卷、目录、封面、行距尺寸等[Win/macOS]]]></title>
-        <id>https://www.appinn.com/?p=44285</id>
-        <link href="https://www.appinn.com/vbook-convert-txt-to-epub/"/>
-        <updated>2022-12-29T09:23:42.000Z</updated>
-        <summary type="html"><![CDATA[Vbook 是一款可以将 TXT 转换为 ePub、Mobi 电子书格式的 Windows、macOS 图形界面工具，支持分卷、目录、封面、自定义行距尺寸等，还可以从网络自动获取封面图片，不支持批量处]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastodon 拒绝硅谷风投以维持非盈利地位]]></title>
-        <id>https://www.solidot.org/story?sid=73765</id>
-        <link href="https://www.solidot.org/story?sid=73765"/>
-        <updated>2022-12-29T07:43:23.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 的竞争对手 Mastodon 拒绝了至少五次硅谷风投提议以维持其非盈利地位。Mastodon 由德国软件开发者 Eugen Rochko 在 2016 年创办，自 10 月 Elon Musk 以 440 亿美元收购 Twitter 以来，其用户数出现激增。Rochko 接受《金融时报》采访时表示他收到了五次以上的美国投资提议，要投资数十万美元资助 Mastodon 的发展。他表示平台的非盈利地位是不可触及的，Mastodon 的独立性以及不同服务器上选择的内容审核风格是其吸引力的一部分。Mastodon 将继续依靠捐款获得资金，项目在 Patreon 上有逾 8500 名捐助者，每月筹集 25,000 多英镑。它目前有 250 万活跃用户。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的手机将成为卫星电话]]></title>
-        <id>https://www.solidot.org/story?sid=73764</id>
-        <link href="https://www.solidot.org/story?sid=73764"/>
-        <updated>2022-12-29T07:24:10.000Z</updated>
-        <summary type="html"><![CDATA[2023 年，你或你认识的某个人将能通过太空发送短信。2022 年下半年手机制造商华为和苹果先后发布了支持通过卫星网络发送短信的手机。通过卫星建立联系将不再需要臃肿昂贵的卫星电话，但目前普通手机的卫星通信功能仅限于短信，没有语音通话或高速数据流功能。华为还没有声明它的手机卫星功能何时提供服务，而苹果的卫星紧急通信功能则从 2022 年 11 月开始提供。技术上的进步让手机卫星通信成为可能：卫星制造成本的下降，卫星体积的缩小，因此比过去负担得起制造更多卫星，小型卫星可以被发射到 300 到 600 公里高度的低地球轨道，以及软件定义无线电。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国恢复进口游戏审批]]></title>
-        <id>https://www.solidot.org/story?sid=73763</id>
-        <link href="https://www.solidot.org/story?sid=73763"/>
-        <updated>2022-12-29T06:25:28.000Z</updated>
-        <summary type="html"><![CDATA[负责游戏版号审批的监管机构国家新闻出版署在 12 月 28 日公布了《2022 年进口网络游戏审批信息》，显示了进口游戏审批流程在中断一年半之后得以恢复。国家新闻出版署批准了 44 款游戏，数量仍然非常少，其中的知名游戏包括了《双点医院》、腾讯与日本 Pokémon 公司联合开发的《宝可梦大集结》、《巫师之昆特牌》等。上一次公布《进口网络游戏审批信息》是在 2021 年 6 月，共批准了 76 款游戏。国家新闻出版署还在同一天公布了《2022 年 12 月份国产网络游戏审批信息》。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thank You (2022 Edition)]]></title>
-        <id>https://css-tricks.com/?p=375486</id>
-        <link href="https://css-tricks.com/thank-you-2022-edition/"/>
-        <updated>2022-12-28T15:46:15.000Z</updated>
-        <summary type="html"><![CDATA[You know, this is the time of year where Chris normally publishes a big ol’ reflection of the past year. The first one was published in 2007, the same year CSS-Tricks began, and it continued all the way through 2021…
-Thank You (2022 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
