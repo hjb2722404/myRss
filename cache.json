@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44420",
+          "author": "青小蛙",
+          "description": "QuickPic Gallery Mod 是一款只有 1.5MB 大小的 Android 相册应用，源自于巴西的开发团队 @WSTxda，由早期的快图应用编译、更新而来。@Appinn QuickPi",
+          "link": "https://www.appinn.com/quickpic-gallery-mod/",
+          "publishedOn": "2023-01-16T09:04:36.000Z",
+          "wordCount": 2369,
+          "title": "QuickPic Gallery Mod – 只有 1.5MB 的相册应用，快图第三方编译版本[Android]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/01/quickpic-gallery-mod.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=44410",
+          "author": "青小蛙",
+          "description": "棋路是一款中国象棋应用，适用于 iPhone、iPad、Android，有超过30万局的在线棋谱、3665 局残局、超过 18000 内置棋谱，如果你只想简单的下下棋、研究残局，那就选它吧。@Appi",
+          "link": "https://www.appinn.com/mdevs/",
+          "publishedOn": "2023-01-16T07:08:52.000Z",
+          "wordCount": 2344,
+          "title": "棋路 – 就想简单的下象棋：中国象棋对弈、残局，超过30万在线棋谱[iOS/Andriod]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/01/mdevs.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44407",
           "author": "青小蛙",
           "description": "烟·红 是一款 Chrome、Firefox 扩展，用来在浏览器新标签页中查看 RSS 订阅，简单易用。@appinn 来自发现频道，@SystemRoot 同学自荐：",
@@ -191,24 +211,123 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10678",
-          "author": "张 鑫旭",
-          "description": "今天才知道，原来浏览器有原生的API，可以对二维码、条形码进行解析，使用非常简单！",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/01/js-parse-barcode-qrcode-barcodedetector/",
-          "publishedOn": "2023-01-07T10:09:17.000Z",
-          "wordCount": 1022,
-          "title": "前端原生API实现条形码二维码的JS解析识别",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73904",
+          "author": null,
+          "description": "过去十年，机器学习软件开发框架经历了巨大变化。虽然大部分框架严重依赖于英伟达 CUDA，在 英伟达 CUDA 上有最佳性能。但随着 PyTorch 2.0 和 OpenAI Triton 的到来，英伟达 CUDA 对机器学习的垄断地位正逐渐瓦解。几年前，Google 的 TensorFlow 框架及专用加速器 TPU 具有先发优势，Google 被认为有望在机器学习行业占据主导地位。然而 Google 未能将先发优势转变为行业主导地位。PyTorch 赢了。没有使用 PyTorch 和 GPU 的 Google 孤立于机器学习社区。Google 偏爱自己软件栈和硬件，甚至于以典型的 Google 风格，它还开发了第二个框架 Jax 与自家的 TensorFlow 展开直接竞争。PyTorch 的一大优势是其灵活性，而即将到来的 2.0 将能更容易的利用不同硬件资源。PyTorch 2.0 改进英伟达 A100 GPU 训练性能达 86%，CPU 推理性能提升 26%，显著减少了训练模型所需的计算时间和成本。它还可以扩展到 AMD、英特尔、Tenstorrent、Luminous Computing、特斯拉、Google、亚马逊、微软、Marvell、Meta、Graphcore、Cerebras、SambaNova 等公司生产的 GPU 和加速器上。OpenAI 的 Triton 同样对英伟达的机器学习闭源软件护城河产生冲击，它可以跳过闭源 CUDA 库如 cuBLAS，使用开源库如 cutlass。使用 CUDA 需要对底层硬件有深入了解，而 Triton 能让高级语言达到与使用低级语言相当的性能，提高了可用性。OpenAI Triton 目前只支持英伟达 GPU，但未来将会支持其它硬件制造商。",
+          "link": "https://www.solidot.org/story?sid=73904",
+          "publishedOn": "2023-01-16T14:16:29.000Z",
+          "wordCount": 215,
+          "title": "英伟达 CUDA 对机器学习的垄断正逐步瓦解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73903",
+          "author": null,
+          "description": "因网易与暴雪之间的授权协议将于 2023 年 1 月 23 日到期，届时暴雪旗下游戏如《魔兽世界》、《炉石传说》、《魔兽争霸III：重制版》、《守望先锋》、《星际争霸》、《暗黑破坏神III》和《风暴英雄》将暂停在华运营。在协议到期前，网易开始解散其暴雪游戏运营团队，它位于上海的子公司上海网之易网络科技裁掉或重新调整了大部分团队成员。该团队人数不足百人，在去年 11 月网易与暴雪宣布协议终止之后，大部分成员就已经离开，少数技术人员转移到了其他团队。只有大约 10 人留下来处理后续事宜。手游《暗黑破坏神：不朽》的团队不受影响。",
+          "link": "https://www.solidot.org/story?sid=73903",
+          "publishedOn": "2023-01-16T13:02:15.000Z",
+          "wordCount": 153,
+          "title": "网易解散大部分运营暴雪游戏的团队",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73902",
+          "author": null,
+          "description": "利兹大学研究人员发现，巧克力口感与润滑有关。当一块巧克力与舌头接触时，脂肪几乎立即起了关键作用。在此之后，固体可可颗粒被释放出来，它们在触觉方面变得很重要，所以巧克力内部深处的脂肪起着相当有限的作用，可以在不影响巧克力的感觉的情况下减少。研究人员称，“润滑科学让我们对食物在嘴里的感觉有了机械的了解。你可以利用这些知识来设计味道更好、质地更好或对健康有益的食物。如果巧克力含有 5% 或 50% 的脂肪，它仍然会在口中形成液滴，这给你巧克力的感觉。然而脂肪在巧克力组成中的位置在润滑的每个阶段都很重要，这一点很少被研究。我们的研究表明，脂肪层需要在巧克力的外层，这是最重要的，其次是脂肪有效地覆盖在可可颗粒上，这些有助于让巧克力感觉如此好。”",
+          "link": "https://www.solidot.org/story?sid=73902",
+          "publishedOn": "2023-01-16T12:28:00.000Z",
+          "wordCount": 147,
+          "title": "巧克力口感与润滑有关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73901",
+          "author": null,
+          "description": "科学家对穿过银河系的快速射电暴（FRB）开展的测量表明，与暗物质的数量相比，银河系内部和周围的正常物质（重子物质）少于预期，比宇宙其他部分低 40%。深度同步光学阵列（DSA）位于加州，拥有 110 个无线电天线，其 中63 个仍在运行，专门用于探测 FRB 并追溯其所在星系。在追溯的过程中，探测器还可以通过测量这些物质如何吸收来自 FRB 的辐射，从而计算星系和探测器之间的物质的数量，这有点像通过雾照射光线来确定雾的厚度。加州理工学院的研究人员公布了此类测量的最新结果。整个宇宙重子物质所占的比例为 16%，其余都是暗物质，但银河系的重子比例要低得多。观测结果表明，银河系光晕中，重子物质所占的比例仅为 9.6%，比整个宇宙少 40%。如果这一测量结果被未来的观测结果所证实，可能证明银河系年轻时期是动荡的，物质被抛入星系间的空间。",
+          "link": "https://www.solidot.org/story?sid=73901",
+          "publishedOn": "2023-01-16T10:42:42.000Z",
+          "wordCount": 156,
+          "title": "银河系普通物质比例少于宇宙其它地方",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73900",
+          "author": null,
+          "description": "打车软件巨头滴滴出行发表声明恢复新用户注册：“一年多来，我公司认真配合国家网络安全审查，严肃对待审查中发现的安全问题，进行了全面整改。经报网络安全审查办公室同意，即日起恢复“滴滴出行”的新用户注册。后续，公司将采取有效措施，切实保障平台设施安全和大数据安全，维护国家网络安全。”滴滴出行是在 2021 年 6 月底赴美上市后引发监管风暴，旗下应用遭下架，被禁止新用户注册。2022 年 7 月网信办宣布了对滴滴的行政处罚结果：罚款 80.26 亿元，CEO 程维和总裁柳青分别处以 100 万元罚款。",
+          "link": "https://www.solidot.org/story?sid=73900",
+          "publishedOn": "2023-01-16T10:27:00.000Z",
+          "wordCount": 155,
+          "title": "滴滴恢复新用户注册",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73899",
+          "author": null,
+          "description": "Z 世代最近流行的怀旧产品是翻盖手机。原因一则是翻盖手机比智能手机便宜得多，功能更简单，也更容易操作，没有什么社交软件，因此不用时刻查看谁说了什么谁给你发了信息。它在隐私保护上也比智能手机好得多，Z 世代的智能手机是一个让你无时无刻受到监控跟踪的产品。TikTok 网红 Sammy Palazzolo 是一位 18 岁的伊利诺伊大学香槟分校的新生，她鼓吹其他人购买翻盖手机的视频浏览量逾 1400 万，点赞逾 300 万。她认为翻盖手机消除了智能手机所有不好的地方，只保留有用的功能，也就是联络朋友，拍视频和照片。Z 世代的年轻人认为线下的社交活动更真实。",
+          "link": "https://www.solidot.org/story?sid=73899",
+          "publishedOn": "2023-01-16T09:58:57.000Z",
+          "wordCount": 160,
+          "title": "Z 世代开始流行翻盖手机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73898",
+          "author": null,
+          "description": "美国 2022 年可更新能源的发电量逾六十年来首次超过煤炭。包括风力、太阳能和水力等可更新能源的发电量占总发电量的22%，超过了煤炭的 20%。美国的温室气体排放量仍然高于前一年，主要是新冠疫情之后美国航空旅行出现反弹，航空燃料的增加推动了排放量的上升。作为巴黎协定的一部分，美国承诺到 2030 年排放量在 2005 年的水平上减少一半。目前美国的排放量只比 2005 年减少 15%，它需要在未来八年再减少 35%。",
+          "link": "https://www.solidot.org/story?sid=73898",
+          "publishedOn": "2023-01-16T07:58:27.000Z",
+          "wordCount": 163,
+          "title": "美国 2022 年可更新能源发电量超过煤炭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73897",
+          "author": null,
+          "description": "出于安全担忧 Linux 准备禁用微软的 RNDIS 协议驱动。RNDIS 代表 Remote Network Driver Interface Specification，是一个私有协议，主要使用 USB 协议作为其下层传输，向上层提供虚拟的以太网连接。 除了 Windows，RNDIS 在跨平台环境中没有广泛使用，由于安全担忧，Linux 内核正寻求将 RNDIS 内核驱动转移到 BROKEN Kconfig 选项，因此它在未来的内核构建中将被禁用。在被标记为 BROKEN 一段时间之后，驱动将可能从上游源码树中删除。内核稳定分支维护者 Greg Kroah-Hartman 称，RNDIS 在设计上就是不安全的，因该协议不可能做到安全，禁用其驱动将防止任何人使用它。",
+          "link": "https://www.solidot.org/story?sid=73897",
+          "publishedOn": "2023-01-16T07:32:30.000Z",
+          "wordCount": 184,
+          "title": "Linux 准备禁用微软的 RNDIS 协议驱动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73896",
+          "author": null,
+          "description": "科技新闻网站 CNET 已经用 AI 撰写了数十篇文章。文章的署名者都是 CNET Money Staff，内容与个人财务有关，每篇文章底部都有免责声明，“这篇文章使用自动技术生成，由编辑部的编辑进行彻底的编辑和事实核查。”CNET 主编为用 AI 编写文章辩护，称这种做法为“AI 辅助”，表示虽然 AI 引擎编写了故事草稿或收集了一部分信息，但 CNET 上发表的每一篇文章都经过了具有相关专业知识的编辑的审查、事实核查和编辑。CNET 将增加透明度，对于文章是否由 AI 编写上给出更明确的信息。",
+          "link": "https://www.solidot.org/story?sid=73896",
+          "publishedOn": "2023-01-16T06:56:45.000Z",
+          "wordCount": 181,
+          "title": "CNET 用 AI 写了 75 篇文章",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73895",
+          "author": null,
+          "description": "比尔盖茨第 11 次在 Reddit 的 Ask My Anything 上回答用户提问，谈及了 AI、气候变化和在微软的时光。盖茨称，他的代码最后一次出现在微软产品中是在 1985 年，以后如果一个产品的时间周期太长，他无法再发出威胁说周末写代码搞定它。盖茨在 2000 年前一直担任微软 CEO，今天回顾在微软工作他有两大问题想要做出不同的决策，其一是手机操作系统，其二是想更早的解决针对微软的反垄断诉讼。盖茨对生成式 AI 的进步印象非常深刻，认为 AI 而不是什么元宇宙或 Web3 将会在未来产生最重要的影响。盖茨对遏制气候变化表达了乐观，称他使用的手机是三星的折叠手机 Fold 4，认为最近上映的《阿凡达2》还不错，认为超级富豪应该缴纳更多的税，并逐渐捐出大部分财富。",
+          "link": "https://www.solidot.org/story?sid=73895",
+          "publishedOn": "2023-01-16T06:12:36.000Z",
+          "wordCount": 170,
+          "title": "比尔盖茨谈 AI、气候变化和在微软的时光",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73894",
+          "author": null,
+          "description": "根据发表在《Nature Ecology & Evolution》期刊上的一篇论文，对雄性果蝇的研究显示，年长父亲将更多突变遗传给后代可能是因为突变无法修复。研究人员发现，突变在年轻和年老的果蝇的睾丸中都很常见，但从一开始，年老的果蝇的睾丸就有更多的突变。此外这些突变中的许多似乎在年轻果蝇的精子发生过程中被身体的基因组修复机制清除了，但它们无法在年老果蝇的睾丸中被修复。基因组通过一些修复机制来保持自身的完整。当涉及到睾丸时，它们必须加班工作，因为睾丸的基因表达率是所有器官中最高的。当涉及到老年精子时，这种清除机制就会停止工作。先前的研究表明，错误的转录偶联修复机制(只修复转录基因)可能是罪魁祸首。",
+          "link": "https://www.solidot.org/story?sid=73894",
+          "publishedOn": "2023-01-16T05:37:32.000Z",
+          "wordCount": 147,
+          "title": "年长父亲将更多突变遗传给后代可能是因为突变无法修复",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73893",
           "author": null,
@@ -807,56 +926,6 @@
           "publishedOn": "2023-01-08T13:54:36.000Z",
           "wordCount": 183,
           "title": "50 万 Celsius Network 投资人不拥有他们的账号",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73832",
-          "author": null,
-          "description": "亚马逊 Simple Storage Service (S3)将默认在服务器端用 AES-256 自动加密新数据。AWS 的服务器端加密已经存在了十多年，但现在为了加强安全将默认启用。管理员无需采取任何行动，亚马逊表示加密不会对性能产生任何影响。默认的加密算法是 AES-256，管理员可以选择 SSE-C 或 SSE-KMS 等替代方法。其中 SSE-C 将由存储桶的所有者控制密钥，SSE-KMS 将由亚马逊管理密钥。存储桶的所有者还可以为每个 KMS 密钥设置不同的权限以便于细化控制。",
-          "link": "https://www.solidot.org/story?sid=73832",
-          "publishedOn": "2023-01-07T14:14:56.000Z",
-          "wordCount": 176,
-          "title": "亚马逊 S3 将默认用 AES-256 加密数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73831",
-          "author": null,
-          "description": "中科院动物所的小鼠研究显示，长期运动可延缓全身多器官衰老。研究人员将年轻小鼠（2 月龄，相当于人类 18 岁）和年老小鼠（16 月龄，相当于人类 55 岁）随机分为运动组和对照组，并借助自动化运动装置“引导”年轻和年老动物进行了长达 12 个月（相当于人类的 35 年）的自主运动锻炼。通过行为学评估发现，长期有氧运动不仅增加了小鼠的肌肉耐力，还增强了小鼠的学习及记忆能力。此外，经过运动后，小鼠血液中炎性因子的含量相较对照组小鼠明显降低。为了进一步揭示运动对机体不同器官和细胞类型的影响，研究人员分离获得了各组动物的大脑、小脑、脊髓、肺、心脏、骨骼肌、肝、肾、小肠、睾丸、脾脏、骨髓、主动脉、外周血共 14 种组织器官，基于高分辨率的单细胞或单细胞核转录组测序，系统绘制了运动组和对照组小鼠的泛组织单细胞基因表达全景图谱。结果表明，运动可以诱导全身多种细胞类型基因表达的显著改变。",
-          "link": "https://www.solidot.org/story?sid=73831",
-          "publishedOn": "2023-01-07T13:37:23.000Z",
-          "wordCount": 156,
-          "title": "小鼠研究显示长期运动可延缓器官衰老",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73830",
-          "author": null,
-          "description": "PS5 存在一个几个月时间才会显现的设计缺陷，与垂直放置游戏机有关。PS5 维修专家发现，问题的根源与索尼游戏机所采用的定制 AMD Zen 2 CPU 使用的液态金属热介面有关。当游戏机以垂直方向放置时，随着时间液态金属会移动并溢出到 CPU 周围的元件上，意味着液态金属不再均匀分布在所要冷却的芯片上。",
-          "link": "https://www.solidot.org/story?sid=73830",
-          "publishedOn": "2023-01-07T10:27:22.000Z",
-          "wordCount": 160,
-          "title": "垂直放置 PS5 可能会导致硬件故障",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73829",
-          "author": null,
-          "description": "康希诺生物开始试产 mRNA 疫苗，针对奥密克戎毒株的疫苗一期生产项目设计产能 1 亿剂。康希诺在新闻稿中称，它的 mRNA疫苗 CS-2034 是针对现有新冠病毒变异株有更好保护效果的新一代疫苗，可以诱导出针对多种世界卫生组织认定的奥密克戎等重要变异株的高滴度中和抗体，具有更强的广谱性，可以更有效地保护机体免受现有变异株的感染。研究表明，已接种 3 剂灭活疫苗的 18 岁及以上人群，采用康希诺生物新型冠状病毒 mRNA 疫苗进行序贯加强具有良好的耐受性，针对奥密克戎 BA.5 变异株的中和抗体水平是灭活疫苗同源加强的 29 倍。60 岁及以上的老年人群接种安全性更佳，可获得较强的免疫保护。",
-          "link": "https://www.solidot.org/story?sid=73829",
-          "publishedOn": "2023-01-07T09:49:18.000Z",
-          "wordCount": 169,
-          "title": "康希诺开始试产 mRNA 疫苗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73828",
-          "author": null,
-          "description": "一个国际研究小组在《自然》期刊上发表报告，指出全球面临减少农田氮污染这一巨大挑战。氮肥的大量使用推动上个世纪人口增长四倍，对于到 2050 年养活百亿人口也是至关重要。但这是有巨大代价的。氮肥中逾半数氮渗入空气和水中，导致致命污染、土壤酸化、气候变化、臭氧层耗竭和生物多元化丧失。报告主要作者、浙江大学的谷保静教授称，活性氮对健康、气候和环境具有多重影响，因此必须减少空气和水等介质中的活性氮。谷领导的研究人员分析了逾 1500 份野外观测，确定了 11 项减少氮损失同时仍能提高农作物产量的关键措施。其中一个方法是轮流耕作，在同一块土地上种植各种作物，优化土壤养分流动。因化肥的广泛使用中国和印度是世界上最大的氮污染国。",
-          "link": "https://www.solidot.org/story?sid=73828",
-          "publishedOn": "2023-01-06T15:09:00.000Z",
-          "wordCount": 150,
-          "title": "研究建议减少氮的使用",
           "imageUrl": null
         }
       ]
