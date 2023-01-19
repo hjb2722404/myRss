@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44433",
+          "author": "青小蛙",
+          "description": "EditRename 是一款非常有创意的文件重命名工具，它通过在文本编辑器中直接编辑多个文件的文件名来重命名文件，非常灵活，堪比一些强大的重命名工具，但更加易用。@Appinn 说到重命名，尤其批量重",
+          "link": "https://www.appinn.com/editrename/",
+          "publishedOn": "2023-01-18T07:03:41.000Z",
+          "wordCount": 2355,
+          "title": "EditRename – 用文本编辑器批量重命名文件[Win]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/01/editrename.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44424",
           "author": "青小蛙",
           "description": "这是一篇授权转载文章，内容仅代表原作者 @Yuko 观点，本文最后一次更新于 2022/11/07，请注意时效。@Appinn 原作者 @Yuko，原链接 https://yuukoamamiya.g",
@@ -130,16 +140,6 @@
           "wordCount": 2278,
           "title": "让我帮你百度一下",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/01/lmstfy-baidu.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44365",
-          "author": "青小蛙",
-          "description": "感谢论坛的 @susheng 同学用自己的脚本，帮小众软件总结了 2022 年小众软件微信公众号（appinncom）阅读数排名前10的文章，并且还贴心导出了 PDF，真是很厉害啊。 2022 年公众",
-          "link": "https://www.appinn.com/appinncom-wechat-miniapp-2022-top10/",
-          "publishedOn": "2023-01-09T08:16:47.000Z",
-          "wordCount": 2451,
-          "title": "2022 年小众软件微信公众号阅读数 TOP 10 文章",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/01/appinncom-wechat-miniapp-2022-top10.jpgo_.jpg"
         }
       ]
     },
@@ -148,6 +148,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=376435",
+          "author": "Liam Johnston",
+          "description": "If you’ve ever worked on sites with lots of long-form text — especially CMS sites where people can enter screeds of text in a WYSIWYG editor — you’ve likely had to write CSS to manage the vertical spacing between different …\nSolved With :has(): Vertical Spacing in Long-Form Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/",
+          "publishedOn": "2023-01-18T13:44:00.000Z",
+          "wordCount": 2183,
+          "title": "Solved With :has(): Vertical Spacing in Long-Form Text",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376435"
+        },
         {
           "id": "https://css-tricks.com/?p=376352",
           "author": "Mariana Beldi",
@@ -177,16 +187,6 @@
           "wordCount": 1708,
           "title": "Faking Min Width on a Table Column",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376307"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376237",
-          "author": "Fränk Klein",
-          "description": "A little while back, Ganesh Dahal penned a post here on CSS-Tricks responding to a tweet that asked about adding CSS box shadows on WordPress blocks and elements. There’s a lot of great stuff in there that leverages new features …\nStyling Buttons in WordPress Block Themes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/styling-buttons-in-wordpress-block-themes/",
-          "publishedOn": "2023-01-09T13:56:19.000Z",
-          "wordCount": 2156,
-          "title": "Styling Buttons in WordPress Block Themes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376237"
         }
       ]
     },
@@ -229,6 +229,76 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73921",
+          "author": null,
+          "description": "微星主板的 BIOS 默认设置被发现不安全，允许任何操作系统镜像运行，不管它们有没有签名或者签名是错误的。逾 290 款微星主板受到影响。波兰安全研究员 Dawid Potocki 最早发现了该问题，他尝试联系了微星但没有收到任何回应。该问题影响英特尔或 AMD 处理器使用的微星主板使用的最新固件，甚至全新型号的微星主板。",
+          "link": "https://www.solidot.org/story?sid=73921",
+          "publishedOn": "2023-01-18T13:00:12.000Z",
+          "wordCount": 160,
+          "title": "微星主板的 BIOS 设置被发现不安全",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73920",
+          "author": null,
+          "description": "印度电子信息技术部在国家 IT 政策修正案中提议，让印度新闻局和其它政府机构作为用户信息是否有误导性的真相仲裁者。在修正案草案中，电子信息技术部要求社交媒体公司和网络游戏公司对用户发布的内容进行严格调查，确保这些内容不是明显错误的、虚假的或者具有误导性的。它提议社交媒体公司和网络游戏公司使用新闻局或中央政府授权的其它机构的判断进行事实核查。但印度新闻局的事实核查已经被发现在某些情况下是有误导性的。",
+          "link": "https://www.solidot.org/story?sid=73920",
+          "publishedOn": "2023-01-18T12:50:06.000Z",
+          "wordCount": 145,
+          "title": "印度想要由政府判断信息真伪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73919",
+          "author": null,
+          "description": "卡迪夫大学团队在《PLOS Genetics》杂志上发表的一项新研究发现，五种基因变异会随着一个人在学校呆的时间越长而显著提高其患近视的风险。近视通常被认为是由遗传、户外活动时间有限和长期受教育等多种因素共同导致的。遗传学研究已经确定了 450 多种与近视风险增加有关的遗传变异，但很少有研究表明，特别是在有相关生活方式因素的人群中，这种变异会增加近视风险。在这项新研究中，研究人员使用了 34 万多名欧洲血统参与者的遗传和健康数据。他们进行了一项全基因组研究，以确定在强化教育的结合下，人们更容易患上近视的遗传变异。研究发现了五种基因变异，它们会随着个人在学校的时间越长而逐渐增加近视的风险，尤其是对那些接受过大学教育的人来说。其中三种变异是以前不为人知的，而两种是在东亚人群的研究中发现的，那里大约 80% 的儿童会近视。相比之下，西方国家大约 30% 的儿童患有近视。",
+          "link": "https://www.solidot.org/story?sid=73919",
+          "publishedOn": "2023-01-18T07:57:48.000Z",
+          "wordCount": 153,
+          "title": "基因变异增加近视风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73918",
+          "author": null,
+          "description": "苹果宣布推出搭载 M2 Pro 与 M2 Max 芯片的新款 14 与 16 英寸 MacBook Pro，其电池续航时间最高可达 22 小时。新款 MacBook Pro 的 HDMI 端口支持连接 8K 显示器。M2 Max 配备最高 96GB 统一内存。新款 MacBook Pro 将于 1 月 19 日起开放订购，2 月 3 日发售。其中 14 英寸型号的起售价为 15,999 元；16 英寸型号的起售价为 19,999 元。",
+          "link": "https://www.solidot.org/story?sid=73918",
+          "publishedOn": "2023-01-18T07:35:05.000Z",
+          "wordCount": 217,
+          "title": "苹果推出搭载 M2 Pro 与 M2 Max 芯片的 MacBook Pro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73917",
+          "author": null,
+          "description": "Mozilla 释出了 Firefox 109，版本号赶上了 Chrome。Google 在上周释出了 Chrome 109。Firefox 109 的新变化包括：默认启用 Manifest Version 3 (MV3) 扩展支持，MV2 扩展仍然支持；引入了统一的扩展按钮，用户可通过该按钮在工具栏快速删除、报告和管理扩展及其权限；在媒体回放工具进程启用 Arbitrary Code Guard 保护，改进 Windows 的安全；开发者相关的更新包括 HTML range 元素支持 list 属性，CSS content-visibility 属性支持 auto 值，等等。",
+          "link": "https://www.solidot.org/story?sid=73917",
+          "publishedOn": "2023-01-18T07:10:47.000Z",
+          "wordCount": 181,
+          "title": "Firefox 109 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73916",
+          "author": null,
+          "description": "网易和暴雪之间的游戏授权协议将于 1 月 23 日到期。暴雪周二表示它正在寻找新的合作伙伴，曾向网易提议将合作协议顺延六个月，但遭到拒绝。周二晚上，网易公众号发表了回应，指责暴雪蛮横、不得体且不符合商业逻辑，“其过分的自信中并未考虑这种予取予求、骑驴找马、离婚不离身的行为，将玩家和网易置于了何地。”网易表示，暴雪提出顺延合作的意图在于在保证服务不中断的前提下，有时间与其他潜在合作方谈判更好的条件。",
+          "link": "https://www.solidot.org/story?sid=73916",
+          "publishedOn": "2023-01-18T06:13:52.000Z",
+          "wordCount": 147,
+          "title": "网易指责暴雪蛮横",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73915",
+          "author": null,
+          "description": "微软据报道将最早在美国时间周三宣布裁员大约 1.1 万人。微软发言人表示它对流言不予置评。微软有逾 22 万名员工，它去年已进行了两次小规模裁员。最新的裁员将涉及到工程和人力资源部门。过去几个月科技行业最大规模的裁员包括亚马逊裁员 1.8 万人，Facebook 母公司 Meta 裁员 1.1 万人，Salesforce 裁员近八千人，马斯克（Elon Musk）在收购 Twitter 之后将裁掉了五千人，员工总数从 7500 减少到 2500。",
+          "link": "https://www.solidot.org/story?sid=73915",
+          "publishedOn": "2023-01-18T05:46:48.000Z",
+          "wordCount": 168,
+          "title": "微软计划裁员 1.1 万人",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73914",
           "author": null,
@@ -898,136 +968,6 @@
           "wordCount": 155,
           "title": "马云不再拥有蚂蚁集团的控制权",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73846",
-          "author": null,
-          "description": "微软新文本语音模型 VALL-E 只要听 3 秒钟的声音样本就能复制任何人的声音。VALL-E 是一种基于转换器（transformer）的文本语音模型，比之前的模型有显著的改进，旧的模型需要长时间训练才能生成新的声音。此外，在生成的语音中声音的语调、卡里斯马（或魅力）和风格都完全一致。这是文本语音系统朝着更自然的声音迈出的重要一步。",
-          "link": "https://www.solidot.org/story?sid=73846",
-          "publishedOn": "2023-01-09T13:27:16.000Z",
-          "wordCount": 160,
-          "title": "微软新文本语音模型能在 3 秒内复制任何人的声音",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73845",
-          "author": null,
-          "description": "美国的伐木工人从事着地球上最快乐最有意义的工作。根据对美国劳工局美国人时间使用调查（American Time Use Survey）的分析，农业、伐木业和林业从业者有着最高的自我报告的幸福水平，以及最低的自我报告的压力水平。美国人时间使用调查要求记录一天中任意时刻在做什么。2010 到 2021 年展开的四次调查还询问了一部分人这些活动的意义，或者他们的快乐、悲伤、压力、痛苦和疲劳程度。快乐和意义并不总是相关的。医护和社会工作者认为他们做着最有意义的工作，但他们并不感到快乐，而且感到压力很大。伐木工人则认为他们做着最快乐最有意义的工作。压力最大的行业包括金融和保险行业，以及教育和科技行业，其中压力最大的单一职业是律师。总体上，白领可能比蓝领的压力大得多。",
-          "link": "https://www.solidot.org/story?sid=73845",
-          "publishedOn": "2023-01-09T12:42:57.000Z",
-          "wordCount": 149,
-          "title": "美国最快乐的工作是伐木工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73844",
-          "author": null,
-          "description": "日本名古屋大学的一个团队首次在太空中观察到从共振电子到哨声模波的能量转移，确认了有效波增长理论（effective wave growth theory）。人们通常以为太空是完美的真空，事实上这是错误的印象，因为真空充斥着带电粒子。深空中的带电粒子非常稀疏以至于彼此基本不会发生碰撞。太空中电磁场相关的力主要是控制带电粒子的运动。除了靠近星际天体如恒星和行星，太空中的带电粒子不会发生碰撞。在地球周围，带电粒子的相互作用会产生波，其中包括电磁哨声模波，会散射和加速部分带电粒子。日本研究人员利用 NASA Magnetospheric Multiscale 飞行器搭载的 Fast Plasma Investigation-Dual Electron Spectrometers 收集的数据，直接检测到了共振电子到哨声模波的持续能量转移。研究报告发表在《Nature Communications》期刊上。",
-          "link": "https://www.solidot.org/story?sid=73844",
-          "publishedOn": "2023-01-09T12:18:17.000Z",
-          "wordCount": 158,
-          "title": "物理学家确认太空中的有效波增长理论",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73843",
-          "author": null,
-          "description": "进入 2023 年后 Twitter 的裁员潮还在继续。它解雇了位于新加坡和都柏林办公室的信任安全团队的数十名员工，还解雇了处理全球内容审核和监管仇恨言论等的员工。马斯克（Elon Musk）还解雇了亚太区网站完整性负责人 Nur Azhar Bin Ayob 和收入政策高级总监 Analuisa Dominguez。在以 440 亿美元收购 Twitter 后，马斯克去年将公司员工总数从 7500 人缩减到 2500 人。他说，截至 2022 年 11 月公司每天亏损 400 万美元。马斯克周日宣布将修改 Twitter 界面，引入长文本功能。",
-          "link": "https://www.solidot.org/story?sid=73843",
-          "publishedOn": "2023-01-09T10:44:11.000Z",
-          "wordCount": 187,
-          "title": "Twitter 进入 2023 年后继续裁员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73842",
-          "author": null,
-          "description": "因中美之间的紧张关系，戴尔据报道计划到 2024 年在其产品中停止使用中国造芯片。而在 2024 年前戴尔将会开始大幅减少使用中国造芯片。戴尔此举一则是推动供应链的多元化，一则是回应美国内部对国家安全的担忧，可能会禁止中国制造的产品。戴尔产品使用的中国造芯片包括中芯国际和华虹等制造商生产的相对简单的芯片，如显示驱动器 IC (DDIC)、电源管理 IC (PMIC)，以及用于各种 PC、显示器、键盘、鼠标等设备的微控制器（MCU）。三星和 SK 海力士等公司还在中国工厂生产 3D NAND 和 DRAM 芯片，美光在中国有一家测试封装工厂。对这一报道，戴尔只是表示它在探索全球供应链的多元化。",
-          "link": "https://www.solidot.org/story?sid=73842",
-          "publishedOn": "2023-01-09T09:56:40.000Z",
-          "wordCount": 159,
-          "title": "戴尔计划停止使用中国造芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73841",
-          "author": null,
-          "description": "在 TikTok 短视频时代，任何人都可能会被拍摄到视频中，不知不觉成为娱乐的一部分。现在许多人开始抵制这一潮流，发出了“2023 年不要把我拍进视频里”的呼声。在 TikTok 诞生之前，公共空间就日益成为内容创造的一个舞台。只要你走出去，就可能出现在其他人的视频中。在监视资本主义时代，这种临时性的、个性化的监控设备让很多人反感的一个原因是我们被监控的足够多了。如果有人想拍摄其他人的视频，那么最好征得对方的同意。",
-          "link": "https://www.solidot.org/story?sid=73841",
-          "publishedOn": "2023-01-09T09:43:45.000Z",
-          "wordCount": 152,
-          "title": "“2023 年不要把我拍进视频里”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73840",
-          "author": null,
-          "description": "2022 年 12 月 21 日第十四届春兰杯半决赛战罢，中国棋手李轩豪完胜韩国第一人申真谞后，李轩豪的队友、围棋世界冠军杨鼎新次日凌晨在朋友圈提出了作弊方面的质疑。几天后，事件发生了“反转”。对于杨鼎新提出的质疑，中国围棋协会进行了调查，并最终认定这一指控没有证据。协会根据国家体育总局相关规定和国家队管理条例，对杨鼎新作出了处罚：除未完成的 LG 杯世界赛决赛外，停止杨鼎新一切个人比赛六个月。即便如此，杨鼎新直指队友利用人工智能（AI）作弊的做法，还是将战火烧到赛场之外，甚至引起日韩媒体的广泛关注，也将 AI 时代的诸多新课题呈现于公众视野。",
-          "link": "https://www.solidot.org/story?sid=73840",
-          "publishedOn": "2023-01-09T06:58:24.000Z",
-          "wordCount": 161,
-          "title": "棋手作弊疑云背后的 AI 身影",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73839",
-          "author": null,
-          "description": "西雅图公立学校对 TikTok、YouTube、Facebook、Snap、Instagram 及其母公司提起诉讼，指控社媒巨头出于其利益成功利用青少年脆弱大脑，使用心理战术导致了青少年在学校的心理健康危机。起诉方寻求法律允许的最大法定和民事罚款，称社媒公司违反了华盛顿州的妨害公害法。西雅图公立学校称，由于学生的社交媒体使用和上瘾，它在财务和运营方面遭受了广泛的伤害。",
-          "link": "https://www.solidot.org/story?sid=73839",
-          "publishedOn": "2023-01-09T06:48:12.000Z",
-          "wordCount": 145,
-          "title": "西雅图公立学校起诉社交媒体危及年轻人的精神健康",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73838",
-          "author": null,
-          "description": "程序员使用 ChatGPT 帮助他们完善代码，网络罪犯则求助于 ChatGPT 帮助他们完善恶意代码。OpenAI 的通用聊天机器人原型 ChatGPT 让技术不那么精通的网络罪犯快速写出恶意代码成为可能。安全研究人员在地下黑客论坛观察到了使用 ChatGPT 写恶意代码的现象。研究人员称，目前用 ChatGPT 开发的恶意程序都相当简单，但更复杂程序的出现只是时间问题。在一个黑客论坛，有人以《ChatGPT – Benefits of Malware》为题描述了使用 ChatGPT 重新创造常见的恶意程序。",
-          "link": "https://www.solidot.org/story?sid=73838",
-          "publishedOn": "2023-01-09T05:56:44.000Z",
-          "wordCount": 168,
-          "title": "网络罪犯让 ChatGPT 写恶意代码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73837",
-          "author": null,
-          "description": "微软将在本周二的例行更新中释出 Windows 8.1 的最后一次安全更新。Windows 8.1 没有获得与 Windows 7 相同的 Extended Security Updates 扩展安全更新待遇，因此在最后一个安全更新释出之后，微软将停止支持 Windows 8.1，用户可以继续使用，但微软或其它任何人不会再修复安全问题。微软也将在周二释出 Windows 7 的最后一次安全更新，但此后还是会有商业公司继续提供付费更新，ACROS Security 的第三方安全平台 0patch 将会至少支持 Windows 7 两年，每年付费 25 美元。",
-          "link": "https://www.solidot.org/story?sid=73837",
-          "publishedOn": "2023-01-09T05:01:37.000Z",
-          "wordCount": 181,
-          "title": "微软将在本周二释出 Windows 8.1 的最后一次安全更新",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73836",
-          "author": null,
-          "description": "新加坡企业家、创新科技创始人、计算机声音系统先驱沈望傅于 1 月 4 日去世，享年 67 岁。沈望傅今天可能不是家喻户晓的名字，他在 1981 年创办了创新科技，该公司推出了最早的消费者声卡声霸卡，当时如果你想听音乐和玩游戏，你需要确保计算机系统有声霸卡。当主板集成声卡之后声霸卡的流行结束了，在这之前它为逾 4  亿台 PC 提供了音频。沈的公司还推出过 MP3 播放器，曾试图挑战苹果的 iPod。创新科技在 2006 年起诉苹果侵犯其专利，两家公司后来达成了和解，苹果向创新支付了 1 亿美元。",
-          "link": "https://www.solidot.org/story?sid=73836",
-          "publishedOn": "2023-01-09T04:48:29.000Z",
-          "wordCount": 163,
-          "title": "声霸卡创始人去世",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73835",
-          "author": null,
-          "description": "古代雅典只有最富有的人才直接纳税，税款用于资助城邦国家最重要的开支——海军和敬神。今天听来可能让人倍感吃惊，这些纳税人大部分不仅愉快的缴税，而且还会吹嘘缴了多少钱。金钱对古代雅典人和今天一样重要，是什么导致对巨额税单产生如此热烈的反应？ 雅典的金融精英获得了无价的回报：来自民主国家其他公民的尊重。今天的美国，据估计每 6 美元税款就有 1 美元未缴纳，大公司和富有公民尽其所能减少税单。雅典人会嘲笑这种行为。",
-          "link": "https://www.solidot.org/story?sid=73835",
-          "publishedOn": "2023-01-08T15:35:30.000Z",
-          "wordCount": 148,
-          "title": "只有最富有的古希腊人纳税，他们还为此炫耀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73834",
-          "author": null,
-          "description": "中国研究人员最近在预印本平台 arxiv 上发表论文，报告破解 2048 位 RSA 密钥所需的量子比特数可以大幅减少，现有的量子计算机就能做到。知名量子计算专家 Scott Aaronson 认为这篇论文是错误的。中国研究人员提出的优化方法是基于 Peter Schnorr 的算法，而 Schnorr 的算法是基于格的经典算法，Schnorr 声称使用了名叫 QAOA 的启发式量子优化方法。论文作者承认 QAOA 的收敛性不明确，其加速大数分解尚未证明。Scott Aaronson 则明确指出这篇论文是他见过的最误导性的量子计算论文之一。",
-          "link": "https://www.solidot.org/story?sid=73834",
-          "publishedOn": "2023-01-08T15:07:50.000Z",
-          "wordCount": 164,
-          "title": "量子计算机分解大数仍然只存在于理论上",
-          "imageUrl": null
         }
       ]
     },
@@ -1084,7 +1024,18 @@
       "title": "思考问题的熊",
       "feedUrl": "https://kaopubear.top/blog/atom.xml",
       "siteUrl": "https://kaopubear.top/blog",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://kaopubear.top/blog/2023-01-18-mechanisms-of-resistance-2/",
+          "author": null,
+          "description": "<blockquote>\n<p>本文为<a href=\"https://kaopubear.zhubai.love/\">熊言熊语邮件通讯会员计划</a>内容的试读版，完整内容请点击<a href=\"https://kaopubear.zhubai.love/\">通讯主页</a>订阅并查看。</p>\n</blockquote>",
+          "link": "https://kaopubear.top/blog/2023-01-18-mechanisms-of-resistance-2/",
+          "publishedOn": "2023-01-18T07:57:22.000Z",
+          "wordCount": 145,
+          "title": "从靶向治疗耐药机制到联合用药策略（下篇）",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "reuixiy",
