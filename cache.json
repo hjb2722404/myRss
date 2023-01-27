@@ -157,16 +157,6 @@
           "wordCount": 2183,
           "title": "Solved With :has(): Vertical Spacing in Long-Form Text",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376435"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376352",
-          "author": "Mariana Beldi",
-          "description": "Someone recently asked me how I approach debugging inline SVGs. Because it is part of the DOM, we can inspect any inline SVG in any browser DevTools. And because of that, we have the ability to scope things out and …\n6 Common SVG Fails (and How to Fix Them) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/6-common-svg-fails-and-how-to-fix-them/",
-          "publishedOn": "2023-01-17T13:51:20.000Z",
-          "wordCount": 3072,
-          "title": "6 Common SVG Fails (and How to Fix Them)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376352"
         }
       ]
     },
@@ -209,6 +199,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=73959",
+          "author": null,
+          "description": "纽约创业公司 DoNotPay 提出了一种方法，使用 AI 律师为收到交通罚单的司机在法庭上辩护。它的工作过程是：收到超速罚单的被告佩戴智能眼镜，记录法庭审讯过程，同时通过扬声器在被告耳边口述回应。其 AI 系统是基于 ChatGPT 和 DaVinci 等业界领先的 AI 文本生成工具。首次 AI 律师庭审原计划于 2 月 22 日在加州举行，但由于  DoNotPay 收到了人类律师的控诉和威胁，庭审取消了。DoNotPay 创始人 Joshua Browder 称美国多个州的律师协会对其发出了威胁，称未经授权进行律师执业活动在某些州属于轻罪，将面临最高半年的县监狱监禁。Browder 称他的公司正面临多个州律师协会的调查，其中包括加州的律师协会。",
+          "link": "https://www.solidot.org/story?sid=73959",
+          "publishedOn": "2023-01-26T15:23:33.000Z",
+          "wordCount": 176,
+          "title": "人类律师杀死了 AI 律师",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73958",
+          "author": null,
+          "description": "图库服务商 Shutterstock 向其客户提供了自己的 AI 图像生成工具。Shutterstock 去年 10 月宣布与  DALL-E AI 工具的开发商 OpenAI 建立合作关系，合作的成果现在提供给了所有付费客户。为了消除侵权和艺术道德方面的担忧，Shutterstock 表示它使用了获得授权的数据集去训练其 DALL-E 和 LG EXAONE 驱动的 AI，它将向其作品用于 AI 生成图像的艺术家支付报酬。它将成立名为 Contributor Fund 的基金。",
+          "link": "https://www.solidot.org/story?sid=73958",
+          "publishedOn": "2023-01-26T14:48:33.000Z",
+          "wordCount": 179,
+          "title": "Shutterstock 发布了自己的生成式 AI 图像工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73957",
+          "author": null,
+          "description": "Facebook 母公司 Meta 宣布将恢复前总统特朗普(Donald Trump)在 FB 和 Instagram 的账户。因特朗普在 2021 年 1 月 6 日美国国会骚乱中扮演的角色 Facebook 和 Twitter 等社交平台先后封杀了特朗普的账号，马斯克（Elon Musk）完成收购 Twitter 后就解除了特朗普的账号，但至今为止特朗普没有通过其 Twitter 账号发过贴，他现住主要在自己的社交平台 Truth Social 上活动。Meta 就其决定称，公众需要能听到政客的意见，才能获得充分信息做出选择。",
+          "link": "https://www.solidot.org/story?sid=73957",
+          "publishedOn": "2023-01-26T14:14:12.000Z",
+          "wordCount": 175,
+          "title": "Meta 将恢复特朗普的账号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73956",
+          "author": null,
+          "description": "IDC 的数据显示，2022 年第四季度全球智能手机出货量同比下降 18.3% 至 3.003 亿部，全年出货量同比下降 11.3% 至 12.1 亿部，创 2013 年以来最低。四季度为假日季，智能手机的出货量通常是上涨，但去年的情况显示市场对智能手机的需求在减弱，同时厂商面临更高的库存而迫使其削减出货量。数据显示，苹果四季度的出货量高居第一，出货量 7230 万部，同比下降 14.9%，市场份额 24.1%；三星出货量 5820 万部，同比下降 15.6%，市场份额 19.4%；小米出货量 3320 万部，同比下降 26.3%，市场份额 11.0%；OPPO 出货量 2530 万部，同比下降 15.9%，市场份额 8.4%；vivo 出货量 2290 万部，同比下降 18.9%，市场份额 7.6%。三星全年的出货量 2.609 亿部，超过苹果的 2.264 亿部。",
+          "link": "https://www.solidot.org/story?sid=73956",
+          "publishedOn": "2023-01-26T12:47:38.000Z",
+          "wordCount": 185,
+          "title": "2022 年智能手机出货量为近十年最低",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=73955",
+          "author": null,
+          "description": "IBM 成为最新一家裁员的科技公司，它在周三宣布将裁员大约 3900 人，占 28 万员工总数的 1.4%。IBM 同时公布了第四财季的财报：收入 167 亿美元，与去年同期持平，净利润为 27.1 亿美元；2022 年全年收入 605 亿美元，同比增长 6%，其中混合云收入 224 亿美元，同比增长 11%。 因经济衰退的担忧，主要科技公司都宣布了裁员，市值最高的苹果是例外，至今没有公开裁员相关信息。",
+          "link": "https://www.solidot.org/story?sid=73955",
+          "publishedOn": "2023-01-26T09:57:33.000Z",
+          "wordCount": 175,
+          "title": "IBM 裁员 3900 人",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=73954",
           "author": null,
@@ -597,106 +637,6 @@
           "publishedOn": "2023-01-18T05:46:48.000Z",
           "wordCount": 168,
           "title": "微软计划裁员 1.1 万人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73914",
-          "author": null,
-          "description": "漫威影业宣布《黑豹2》和《蚁人与黄蜂女：量子狂潮》分别于 2 月 7 日和 2 月 17 日在中国大陆上映。这是时隔三年半之后漫威电影重返中国大陆市场。上一部漫威/索尼电影是 2019 年上映的《蜘蛛侠：英雄远征》。中国大陆 2022 年的电影总票房估计比 2021 年下跌了 36%，去年只有少数好莱坞电影上映，其中年底的《阿凡达 2：水之道》是同步上映，至今获得了 2.2 亿美元的票房。两部漫威电影之一的《蚁人3》是同步上映，而《黑豹2》北美是在 2022 年 11 月 11 日上映，2023 年 2 月 1 日上线迪士尼的流媒体服务 Disney+，2 月 7 日发行碟片版本。",
-          "link": "https://www.solidot.org/story?sid=73914",
-          "publishedOn": "2023-01-17T13:53:20.000Z",
-          "wordCount": 185,
-          "title": "漫威电影在 2019 年之后重返中国大陆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73913",
-          "author": null,
-          "description": "黑洞是守株待兔的采集者而不是猎人，它们会耐心等待倒霉的恒星路过。当恒星的距离足够近时，黑洞的巨大引力会将其撕碎然后吞噬，同时释放出强烈的辐射。这种现象被称为黑洞潮汐瓦解事件。天文学家正利用哈勃太空望远镜观测一颗恒星被黑洞吞噬的过程。这起事件被称为 AT2022dsb，被吞噬的恒星距离星系 ESO 583-G004 中央接近 3 亿光年。它是在 2022 年 3 月 1 日被 ASAS-SN（All-Sky Automated Survey for Supernovae）自动系统捕捉到的，天文学家观测到黑洞将其捕获的恒星扭曲成甜甜圈的圆环形状。",
-          "link": "https://www.solidot.org/story?sid=73913",
-          "publishedOn": "2023-01-17T13:37:13.000Z",
-          "wordCount": 160,
-          "title": "黑洞将其捕获的恒星扭曲成圆环形",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73912",
-          "author": null,
-          "description": "科学家通过实验首次证明，快速发射的激光可以转移闪电。这项研究表明激光束可以用作保护基础设施的“避雷针”，尽管这可能还需要点时间。金属避雷针通常被用来转移雷击并安全消散电荷。但避雷针的大小有限，效果也有效。物理学家一直想知道激光能否增强建筑设施保护，因为激光可以比物理结构射向更高的天空，而且可以指向任何方向。由约 25 名研究人员组成的团队成立了激光避雷针项目，他们在瑞士阿尔卑斯山用一个特别制造的 200 万美元的高功率激光器做了试验。研究者将激光器放置在经常被闪电击中的 Santis 电信塔旁边——该塔每年会被雷电击中约 100 次。经过 10 周观察，研究团队发现激光在 6 小时的雷暴中引导了 4 次闪电事件。",
-          "link": "https://www.solidot.org/story?sid=73912",
-          "publishedOn": "2023-01-17T13:16:14.000Z",
-          "wordCount": 158,
-          "title": "激光可以将闪电引导到安全地点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73911",
-          "author": null,
-          "description": "微软官方博客宣布 Azure OpenAI Service GA（General Availability）——即该服务允许更多客户使用。微软此前向 OpenAI 投资了 10 亿美元，最近有传言它正在协商再投资 100 亿美元。微软表示，炙手可热的聊天机器人 ChatGPT 目前不在允许客户使用的范围之内，客户可使用的 OpenAI 工具包括 GPT-3.5、图像文本生成模型 Dall-E 2 以及代码编写工具 Codex。微软表示，未来将会提供 ChatGPT。",
-          "link": "https://www.solidot.org/story?sid=73911",
-          "publishedOn": "2023-01-17T12:33:06.000Z",
-          "wordCount": 172,
-          "title": "微软开始提供更多 OpenAI 服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73910",
-          "author": null,
-          "description": "暴雪旗下的《魔兽世界》、《炉石传说》、《魔兽争霸III：重制版》、《守望先锋》、《星际争霸》、《暗黑破坏神III》和《风暴英雄》等游戏即将于 1 月 23 日暂停在华运营。暴雪中国通过其微博账号发表声明，称它在积极寻找新合作伙伴，希望其游戏能继续服务于中国玩家。但网易拒绝在它寻找新合作方期间延长游戏服务半年时间。网易已经解散了暴雪游戏的大部分运营团队，暴雪的这些游戏都会在下周一关闭国服。",
-          "link": "https://www.solidot.org/story?sid=73910",
-          "publishedOn": "2023-01-17T10:08:50.000Z",
-          "wordCount": 147,
-          "title": "暴雪中国称它请求网易延长游戏服务半年但遭到拒绝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73909",
-          "author": null,
-          "description": "蜂鸟可悬停甚至向后飞行，这种特殊的飞行技能非常耗能。科学家发现，新陈代谢的进化适应，例如缺失果糖二磷酸酶-2（FBP2）基因，可增加糖代谢能力，可能是蜂鸟适应悬停所需的肌肉新陈代谢的重要一步。蜂鸟在悬停飞行过程中高速拍动翅膀，每秒最多可达 80 次。动物王国中没有其他运动方式比这个更耗能，因此蜂鸟的新陈代谢必须全速运行，甚至比任何其它脊椎动物更活跃。蜂鸟用花蜜中的糖来满足它们的高能量需求，它们吸收得特别快，与人类不同，它们有高活性的酶，可像葡萄糖一样有效地代谢果糖。研究团队对长尾隐蜂鸟的基因组进行了测序，并和其它蜂鸟物种的基因组以及其它 45 种鸟类（包括鸡、鸽子和鹰）的基因组进行了比较。研究发现，在所有接受检查的蜂鸟中，FBP2 都缺失了。进一步的调查表明，在大约 4800 万到 3000 万年前，FBP2 已经在所有蜂鸟的共同祖先中消失了。",
-          "link": "https://www.solidot.org/story?sid=73909",
-          "publishedOn": "2023-01-17T09:58:43.000Z",
-          "wordCount": 153,
-          "title": "蜂鸟悬停能力与基因缺失相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73908",
-          "author": null,
-          "description": "AI 图像生成公司使用了数以亿计的版权图像训练模型，然后生成具有独特风格的新图像，图像艺术家则没有从中获得任何好处。部分艺术家已对此采取法律行动。Joseph Saveri 律所代表一组艺术家在旧金山递交了集体诉讼，起诉 Stability AI、Midjourney 和 DeviantArt 等 AI 公司，指控它们侵犯了 DMCA 法，违反形象权和非法竞争。这些艺术家寻求在其职业被基于其作品的计算机程序淘汰前结束这种公然的侵权。用户使用 Stability AI 的 Stable Diffusion、Midjourney 或 DeviantArt 的 DreamUp 等工具，可以通过输入短语生成与现有艺术家作品相似的图像。创造 DALL-E 图像合成模型的 OpenAI 没有被列为被告，它没有披露其训练数据集的具体内容，它的部分训练数据有商业许可授权。",
-          "link": "https://www.solidot.org/story?sid=73908",
-          "publishedOn": "2023-01-17T09:34:09.000Z",
-          "wordCount": 177,
-          "title": "艺术家对 AI 图像生成公司提起集体诉讼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73907",
-          "author": null,
-          "description": "第三方 Twitter 客户端如 Twitterific 和 Tweetbot 前几天突然停止工作，根据 Twitter 内部 Slack 服务器上的聊天信息，此举为 Twitter 有意为之。在更换了 API 密钥之后，Tweetbot 一度短暂恢复访问，但之后密钥又被收回了。Twitter 以及马斯克（Elon Musk）都没有对第三方客户端停止工作发表任何公开声明。马斯克早已砍掉了 Twitter 的公共关系和通信部门，此举可能是旨在让用户使用官方客户端，增加其广告收入。",
-          "link": "https://www.solidot.org/story?sid=73907",
-          "publishedOn": "2023-01-17T07:42:38.000Z",
-          "wordCount": 166,
-          "title": "Twitter 有意杀死第三方客户端",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73906",
-          "author": null,
-          "description": "安全公司 Avast 公布了免费的变脸（BianLian）勒索软件解密器。变脸勒索软件是在 2022 年 8 月出现的，主要针对媒体、娱乐、制造和医疗保健行业的目标，它用 Go 语言开发，硬编码了 1013 种文件扩展名，感染之后它会搜索系统中的这些扩展名用 AES-256 进行加密，加密后的文件扩展名为 .bianlian，然后留下一份勒索通知。Avast 公布的解密器主要针对现有的变种，如果出现变脸勒索软件的新变种，它可能无法解密。",
-          "link": "https://www.solidot.org/story?sid=73906",
-          "publishedOn": "2023-01-17T07:06:33.000Z",
-          "wordCount": 161,
-          "title": "Avast 公布变脸勒索软件解密器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=73905",
-          "author": null,
-          "description": "根据国家统计局公布的最新统计数据，中国人口自 1960 年代以来首次减少。统计局称，年末全国人口（包括 31 个省、自治区、直辖市和现役军人的人口，不包括居住在 31 个省、自治区、直辖市的港澳台居民和外籍人员）141175 万人，比上年末减少 85 万人。全年出生人口 956 万人，人口出生率为 6.77‰；死亡人口 1041 万人，人口死亡率为 7.37‰；人口自然增长率为-0.60‰。从性别构成看，男性人口 72206 万人，女性人口 68969 万人，总人口性别比为 104.69（以女性为 100）。从年龄构成看，16-59 岁的劳动年龄人口 87556 万人，占全国人口的比重为 62.0%；60 岁及以上人口 28004 万人，占全国人口的 19.8%，其中 65 岁及以上人口 20978 万人，占全国人口的 14.9%。从城乡构成看，城镇常住人口 92071 万人，比上年末增加 646 万人；乡村常住人口 49104 万人，减少 731 万人；城镇人口占全国人口比重（城镇化率）为 65.22%，比上年末提高 0.50 个百分点。",
-          "link": "https://www.solidot.org/story?sid=73905",
-          "publishedOn": "2023-01-17T04:22:17.000Z",
-          "wordCount": 196,
-          "title": "中国人口自 1960 年代以来首次减少",
           "imageUrl": null
         }
       ]
