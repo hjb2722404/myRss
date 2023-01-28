@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-01-27T02:41:06.065Z</updated>
+    <updated>2023-01-28T02:39:16.560Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[警方称一荷兰黑客获得了几乎所有奥地利人的个人数据]]></title>
+        <id>https://www.solidot.org/story?sid=73962</id>
+        <link href="https://www.solidot.org/story?sid=73962"/>
+        <updated>2023-01-27T15:53:01.000Z</updated>
+        <summary type="html"><![CDATA[奥地利警方本周披露，一名荷兰黑客于去年 11 月被捕，这名黑客窃取并出售几乎所有奥地利人的个人数据，包括全名、性别、完整地址和出生日期。这名黑客是于 2020 年 5 月在一个黑客论坛上出售这些数据，该数据集已被调查人员确认是真实的。它包含了近 900 万组数据，而奥地利人口为 910 万，因此几乎所有奥地利人都包含在内。该黑客还出售了意大利、荷兰和哥伦比亚等国的类似数据集。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yandex 称前雇员泄露源代码]]></title>
+        <id>https://www.solidot.org/story?sid=73961</id>
+        <link href="https://www.solidot.org/story?sid=73961"/>
+        <updated>2023-01-27T15:41:46.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯科技巨头 Yandex 的源代码库被以 Torrent 磁链的方式在一黑客论坛上泄露。泄露者声称源代码是在 2022 年 7 月窃取到的，文件总容量  44.7 GB。该源码库包含了 Yandex 几乎所有产品的源代码，其中包括搜索引擎和索引爬虫，地图、AI 助手、邮件、云盘、云服务和支付服务，等等。Yandex 在一份声明中表示，它没有遭到黑客入侵，源代码库是一位前雇员泄露的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔砍掉了 Pathfinder for RISC-V 项目]]></title>
+        <id>https://www.solidot.org/story?sid=73960</id>
+        <link href="https://www.solidot.org/story?sid=73960"/>
+        <updated>2023-01-27T15:20:14.000Z</updated>
+        <summary type="html"><![CDATA[英特尔公布了失望的 2022 年第四季度财报，宣布砍掉 Pathfinder for RISC-V 项目，即时生效。英特尔在 2022 年遇到了困难，而 2023 年预计仍然会很艰难。2022 年 Q4 的收入为 140 亿美元，2021 年同期是 205 亿美元，同比下降 32%；净亏损 6.61 亿美元，而 2021 年同期是净利润 46 亿美元，同比下跌 114%。其中数据中心和 AI 业务下跌 33%，客户端计算业务下跌 36%。Pathfinder for RISC-V 是 X86 芯片巨人探索新 CPU 开放架构的一次尝试，直接砍掉意味着英特尔固守其主要平台的决心。Pathfinder for RISC-V 旨在帮助加速开发 RISC-V 芯片，允许用户构建 RISC-V 芯片然后运行在 FPGA 上，英特尔预计仍然会为其芯片代工业务的合作伙伴制造 RISC-V 芯片。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AR, VR, and a Model for 3D in HTML]]></title>
+        <id>https://css-tricks.com/?p=376674</id>
+        <link href="https://css-tricks.com/ar-vr-and-a-model-for-3d-in-html/"/>
+        <updated>2023-01-27T14:15:43.000Z</updated>
+        <summary type="html"><![CDATA[Tucked down somewhere in the Safari Technology Preview 161 release notes is a seemingly innocous line about support for a new HTML element and attribute:
+Added support for <model src> and honor <source type> attributes (257518@main)
+Anytime I …
+AR, VR, and a Model for 3D in HTML originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哔哩哔哩字幕列表 – 为 B 站添加字幕列表功能，可根据字幕跳转视频[Chrome/Edge]]]></title>
+        <id>https://www.appinn.com/?p=44480</id>
+        <link href="https://www.appinn.com/bilibili-subtitles-list/"/>
+        <updated>2023-01-27T05:08:18.000Z</updated>
+        <summary type="html"><![CDATA[哔哩哔哩字幕列表 是一款 Chrome、Edge 扩展，用来将 B 站视频的字幕单独提取出来，以列表的形式展示在侧边栏，并且可以通过点击字幕跳转到对应时间线。@appinn 来自发现频道，@kongk]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[人类律师杀死了 AI 律师]]></title>
         <id>https://www.solidot.org/story?sid=73959</id>
@@ -54,6 +107,26 @@
         <summary type="html"><![CDATA[IBM 成为最新一家裁员的科技公司，它在周三宣布将裁员大约 3900 人，占 28 万员工总数的 1.4%。IBM 同时公布了第四财季的财报：收入 167 亿美元，与去年同期持平，净利润为 27.1 亿美元；2022 年全年收入 605 亿美元，同比增长 6%，其中混合云收入 224 亿美元，同比增长 11%。 因经济衰退的担忧，主要科技公司都宣布了裁员，市值最高的苹果是例外，至今没有公开裁员相关信息。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模板记 – 用模板记笔记：开发者买空气炸锅后，觉得需要先开发一个 app]]></title>
+        <id>https://www.appinn.com/?p=44477</id>
+        <link href="https://www.appinn.com/mubanji/"/>
+        <updated>2023-01-26T08:33:50.000Z</updated>
+        <summary type="html"><![CDATA[模板记 是一款基于模板的笔记应用，支持 iPhone 与 Android。通过预设的模板，可以非常方便的记录规律性内容，比如购物、账单、观影记录、物品管理等，并能够通过自动化实现求和、求平均值等数据。]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ente Authenticator – 开源二次验证 2FA 工具：云存储、同步、导入导出[Android/iOS]]]></title>
+        <id>https://www.appinn.com/?p=44473</id>
+        <link href="https://www.appinn.com/ente-authenticator/"/>
+        <updated>2023-01-26T06:54:07.000Z</updated>
+        <summary type="html"><![CDATA[ente Authenticator 是一款开源的 2FA（Two-factor authentication）工具，支持 Android 与 iOS，桌面客户端未来发布。拥有云存储、跨设备同步、端对]]></summary>
+        <author>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
@@ -492,139 +565,6 @@ How to Transition to Manifest V3 for Chrome Extensions originally published on C
         <summary type="html"><![CDATA[2013 年，亚马逊上线了慈善项目 AmazonSmile，客户可通过 smile.amazon.com 等域名访问，在购物时亚马逊将捐出商品售价的 0.5% 给予客户选择的慈善机构。全球有逾百万慈善组织参与了该项目。但现在亚马逊以项目未达到预计的影响力为由宣布将于 2023 年 2 月 20 日关闭 AmazonSmile。亚马逊称为了帮助参与 AmazonSmile 的慈善组织过渡，它将一次性捐出相当于它们在 2022 年三个月内收到的善款。当项目关闭之后，慈善组织可以通过创建愿望单的形式请求亚马逊客户捐赠。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国联邦选举委员会驳回了 Google 歧视共和党竞选广告的投诉]]></title>
-        <id>https://www.solidot.org/story?sid=73922</id>
-        <link href="https://www.solidot.org/story?sid=73922"/>
-        <updated>2023-01-18T14:14:50.000Z</updated>
-        <summary type="html"><![CDATA[美国联邦选举委员会驳回了 Google 歧视共和党竞选广告的投诉。美国共和党人投诉 Google 电邮服务 Gmail 将其竞选筹款广告邮件标记为垃圾邮件的比例远高于民主党，因此帮助了民主党候选人。共和党全国委员会（RNC）认为这种好处相当于给予民主党的未申报企业竞选捐款。联邦选举委员会称，它没有发现有任何理由相信 Google 做了被禁止的企业竞选捐款，来自 Gmail 垃圾邮件过滤算法的任何倾斜结果都是无意造成的。RNC 等共和党机构去年投诉称，2019 - 2020 年，共和党候选人近七成电邮被送入垃圾邮件文件夹，而民主党候选人不到十分之一。Google 此前为自己辩护称 Gmail 的垃圾邮件过滤器反应的是用户行为。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solved With :has(): Vertical Spacing in Long-Form Text]]></title>
-        <id>https://css-tricks.com/?p=376435</id>
-        <link href="https://css-tricks.com/solved-with-has-vertical-spacing-in-long-form-text/"/>
-        <updated>2023-01-18T13:44:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever worked on sites with lots of long-form text — especially CMS sites where people can enter screeds of text in a WYSIWYG editor — you’ve likely had to write CSS to manage the vertical spacing between different …
-Solved With :has(): Vertical Spacing in Long-Form Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Liam Johnston</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微星主板的 BIOS 设置被发现不安全]]></title>
-        <id>https://www.solidot.org/story?sid=73921</id>
-        <link href="https://www.solidot.org/story?sid=73921"/>
-        <updated>2023-01-18T13:00:12.000Z</updated>
-        <summary type="html"><![CDATA[微星主板的 BIOS 默认设置被发现不安全，允许任何操作系统镜像运行，不管它们有没有签名或者签名是错误的。逾 290 款微星主板受到影响。波兰安全研究员 Dawid Potocki 最早发现了该问题，他尝试联系了微星但没有收到任何回应。该问题影响英特尔或 AMD 处理器使用的微星主板使用的最新固件，甚至全新型号的微星主板。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度想要由政府判断信息真伪]]></title>
-        <id>https://www.solidot.org/story?sid=73920</id>
-        <link href="https://www.solidot.org/story?sid=73920"/>
-        <updated>2023-01-18T12:50:06.000Z</updated>
-        <summary type="html"><![CDATA[印度电子信息技术部在国家 IT 政策修正案中提议，让印度新闻局和其它政府机构作为用户信息是否有误导性的真相仲裁者。在修正案草案中，电子信息技术部要求社交媒体公司和网络游戏公司对用户发布的内容进行严格调查，确保这些内容不是明显错误的、虚假的或者具有误导性的。它提议社交媒体公司和网络游戏公司使用新闻局或中央政府授权的其它机构的判断进行事实核查。但印度新闻局的事实核查已经被发现在某些情况下是有误导性的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基因变异增加近视风险]]></title>
-        <id>https://www.solidot.org/story?sid=73919</id>
-        <link href="https://www.solidot.org/story?sid=73919"/>
-        <updated>2023-01-18T07:57:48.000Z</updated>
-        <summary type="html"><![CDATA[卡迪夫大学团队在《PLOS Genetics》杂志上发表的一项新研究发现，五种基因变异会随着一个人在学校呆的时间越长而显著提高其患近视的风险。近视通常被认为是由遗传、户外活动时间有限和长期受教育等多种因素共同导致的。遗传学研究已经确定了 450 多种与近视风险增加有关的遗传变异，但很少有研究表明，特别是在有相关生活方式因素的人群中，这种变异会增加近视风险。在这项新研究中，研究人员使用了 34 万多名欧洲血统参与者的遗传和健康数据。他们进行了一项全基因组研究，以确定在强化教育的结合下，人们更容易患上近视的遗传变异。研究发现了五种基因变异，它们会随着个人在学校的时间越长而逐渐增加近视的风险，尤其是对那些接受过大学教育的人来说。其中三种变异是以前不为人知的，而两种是在东亚人群的研究中发现的，那里大约 80% 的儿童会近视。相比之下，西方国家大约 30% 的儿童患有近视。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从靶向治疗耐药机制到联合用药策略（下篇）]]></title>
-        <id>https://kaopubear.top/blog/2023-01-18-mechanisms-of-resistance-2/</id>
-        <link href="https://kaopubear.top/blog/2023-01-18-mechanisms-of-resistance-2/"/>
-        <updated>2023-01-18T07:57:22.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>本文为<a href="https://kaopubear.zhubai.love/">熊言熊语邮件通讯会员计划</a>内容的试读版，完整内容请点击<a href="https://kaopubear.zhubai.love/">通讯主页</a>订阅并查看。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>思考问题的熊</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果推出搭载 M2 Pro 与 M2 Max 芯片的 MacBook Pro]]></title>
-        <id>https://www.solidot.org/story?sid=73918</id>
-        <link href="https://www.solidot.org/story?sid=73918"/>
-        <updated>2023-01-18T07:35:05.000Z</updated>
-        <summary type="html"><![CDATA[苹果宣布推出搭载 M2 Pro 与 M2 Max 芯片的新款 14 与 16 英寸 MacBook Pro，其电池续航时间最高可达 22 小时。新款 MacBook Pro 的 HDMI 端口支持连接 8K 显示器。M2 Max 配备最高 96GB 统一内存。新款 MacBook Pro 将于 1 月 19 日起开放订购，2 月 3 日发售。其中 14 英寸型号的起售价为 15,999 元；16 英寸型号的起售价为 19,999 元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 109 释出]]></title>
-        <id>https://www.solidot.org/story?sid=73917</id>
-        <link href="https://www.solidot.org/story?sid=73917"/>
-        <updated>2023-01-18T07:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla 释出了 Firefox 109，版本号赶上了 Chrome。Google 在上周释出了 Chrome 109。Firefox 109 的新变化包括：默认启用 Manifest Version 3 (MV3) 扩展支持，MV2 扩展仍然支持；引入了统一的扩展按钮，用户可通过该按钮在工具栏快速删除、报告和管理扩展及其权限；在媒体回放工具进程启用 Arbitrary Code Guard 保护，改进 Windows 的安全；开发者相关的更新包括 HTML range 元素支持 list 属性，CSS content-visibility 属性支持 auto 值，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EditRename – 用文本编辑器批量重命名文件[Win]]]></title>
-        <id>https://www.appinn.com/?p=44433</id>
-        <link href="https://www.appinn.com/editrename/"/>
-        <updated>2023-01-18T07:03:41.000Z</updated>
-        <summary type="html"><![CDATA[EditRename 是一款非常有创意的文件重命名工具，它通过在文本编辑器中直接编辑多个文件的文件名来重命名文件，非常灵活，堪比一些强大的重命名工具，但更加易用。@Appinn 说到重命名，尤其批量重]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网易指责暴雪蛮横]]></title>
-        <id>https://www.solidot.org/story?sid=73916</id>
-        <link href="https://www.solidot.org/story?sid=73916"/>
-        <updated>2023-01-18T06:13:52.000Z</updated>
-        <summary type="html"><![CDATA[网易和暴雪之间的游戏授权协议将于 1 月 23 日到期。暴雪周二表示它正在寻找新的合作伙伴，曾向网易提议将合作协议顺延六个月，但遭到拒绝。周二晚上，网易公众号发表了回应，指责暴雪蛮横、不得体且不符合商业逻辑，“其过分的自信中并未考虑这种予取予求、骑驴找马、离婚不离身的行为，将玩家和网易置于了何地。”网易表示，暴雪提出顺延合作的意图在于在保证服务不中断的前提下，有时间与其他潜在合作方谈判更好的条件。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软计划裁员 1.1 万人]]></title>
-        <id>https://www.solidot.org/story?sid=73915</id>
-        <link href="https://www.solidot.org/story?sid=73915"/>
-        <updated>2023-01-18T05:46:48.000Z</updated>
-        <summary type="html"><![CDATA[微软据报道将最早在美国时间周三宣布裁员大约 1.1 万人。微软发言人表示它对流言不予置评。微软有逾 22 万名员工，它去年已进行了两次小规模裁员。最新的裁员将涉及到工程和人力资源部门。过去几个月科技行业最大规模的裁员包括亚马逊裁员 1.8 万人，Facebook 母公司 Meta 裁员 1.1 万人，Salesforce 裁员近八千人，马斯克（Elon Musk）在收购 Twitter 之后将裁掉了五千人，员工总数从 7500 减少到 2500。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用AbortController abort中断原生fetch或axios请求]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=10694</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2023/01/fetch-abortcontroller-abort-fetch-axios/"/>
-        <updated>2023-01-17T15:07:36.000Z</updated>
-        <summary type="html"><![CDATA[今天才知道，原来浏览器提供了原生的API用来abort阻断fetch请求（或者 axios 这个JS库发出的请求）。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写在 zlib 被资产阶级的铁拳干烂之际：电子书一键摆烂ABC]]></title>
-        <id>https://www.appinn.com/?p=44424</id>
-        <link href="https://www.appinn.com/ebooks-abc/"/>
-        <updated>2023-01-17T06:05:31.000Z</updated>
-        <summary type="html"><![CDATA[这是一篇授权转载文章，内容仅代表原作者 @Yuko 观点，本文最后一次更新于 2022/11/07，请注意时效。@Appinn 原作者 @Yuko，原链接 https://yuukoamamiya.g]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
