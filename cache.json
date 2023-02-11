@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44600",
+          "author": "青小蛙",
+          "description": "SyncFolder Photos 是免费的 Windows 文件同步工具 SyncFolder 配套移动应用，支持 iPhone 与 Android，主要用来将手机照片通过 Wi-Fi 传输到电脑上",
+          "link": "https://www.appinn.com/syncfolder-photos/",
+          "publishedOn": "2023-02-10T07:55:16.000Z",
+          "wordCount": 2398,
+          "title": "SyncFolder Photos – 通过 Wi-Fi，快速备份手机照片到电脑",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/syncfolder-photos.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44597",
           "author": "青小蛙",
           "description": "SyncFolder 是一个超级简单的文件同步应用程序，用于同步 Windows 10 / 11 上的文件夹并导入照片和视频。支持本地驱动器、外部存储、网络存储、FTP 等地方，还能用 App 实现通",
@@ -145,26 +155,6 @@
           "wordCount": 2344,
           "title": "1Password 家庭版试用账号又送一年整｜跨平台密码管理器工具",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/1password-one-year-free.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44522",
-          "author": "青小蛙",
-          "description": "RSS+笔记+在线创作，会打动你吗? 来自发现频道： RSS.CAFE是一款以RSS阅读器为基础功能的，并支持文章归档管理、个人创作、笔记等功能的Web端产品，去年上线，详情可以看RSS.CAFE介绍",
-          "link": "https://www.appinn.com/rss-cafe/",
-          "publishedOn": "2023-02-01T07:39:00.000Z",
-          "wordCount": 2348,
-          "title": "RSS.CAFE – 支持 2万+ 学术期刊，B站UP主动态，可创建笔记的 RSS 阅读器",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/01/rss-cafe.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44526",
-          "author": "青小蛙",
-          "description": "HiBit Uninstaller 是一款可以完全卸载顽固软件、应用和浏览器扩展的工具。完全卸载程序，不留任何东西。@Appinn 来自发现频道的漏网之鱼：https://meta.appinn.ne",
-          "link": "https://www.appinn.com/hibit-uninstaller/",
-          "publishedOn": "2023-02-01T03:04:00.000Z",
-          "wordCount": 2342,
-          "title": "HiBit Uninstaller – 3.19MB，体积娇小功能强大的卸载工具[Windows]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/01/hibit-uninstaller.jpgo_.jpg"
         }
       ]
     },
@@ -173,6 +163,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=376764",
+          "author": "Temani Afif",
+          "description": "It’s a question I hear asked quite often: Is it possible to create shadows from gradients instead of solid colors? There is no specific CSS property that does this (believe me, I’ve looked) and any blog post you find about …\nDifferent Ways to Get CSS Gradient Shadows originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/different-ways-to-get-css-gradient-shadows/",
+          "publishedOn": "2023-02-10T15:13:42.000Z",
+          "wordCount": 3802,
+          "title": "Different Ways to Get CSS Gradient Shadows",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376764"
+        },
         {
           "id": "https://css-tricks.com/?p=377169",
           "author": "Geoff Graham",
@@ -284,6 +284,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74104",
+          "author": null,
+          "description": "特德·姜（Ted Chiang）在纽约客上发表文章，将最近火热无比的 AI 聊天机器人 ChatGPT 比喻为 互联网内容的有损压缩版本（他形容为模糊 JPEG）。JPEG 是一种有损压缩图像格式，在压缩过程中会舍弃部分次要数据，解压后的图像和原始图像不同，但非常接近，大部分情况下够用了。将 ChatGPT 形容为模糊 JPEG 可以帮助我们更好的理解它能擅长做什么。如果我们只需要让它概述或重新包装已有的信息，它能做到，而且返回的结果显得仿佛它能理解所描述的内容，但实际上它做的是在有损压缩之后解压缩，它处理的是文本而不是图像，虽然有失真但足够有趣，人们因此玩得很开心。但它能取代搜索引擎吗？ 失真性让它在原始内容面前并无用武之地，你需要精确的结果，模糊的东西对你就没什么价值。",
+          "link": "https://www.solidot.org/story?sid=74104",
+          "publishedOn": "2023-02-10T15:42:34.000Z",
+          "wordCount": 161,
+          "title": "ChatGPT 是互联网的有损压缩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74103",
+          "author": null,
+          "description": "艾滋病至今没有根治方法，主要原因是患者在接受抗病毒治疗之后血液中的病毒会降低到无法检测出的水平，但如果停止治疗病毒会再次出现。科学家已经发现了一个感染 HIV 病毒的 CD4+ T 细胞的潜伏位置——血液和淋巴组织。现在，科学家报告了另一个潜伏位置：中枢神经系统。科学家分析了 11 名抗病毒治疗的患者停止治疗后反弹病毒的基因序列，不同潜伏位置的病毒群存在差异。研究证明感染 HIV 病毒的 CD4+ T 细胞能从血液进入到中枢神经系统。任何艾滋病的治疗都需要激活这些休眠的病毒潜伏库。",
+          "link": "https://www.solidot.org/story?sid=74103",
+          "publishedOn": "2023-02-10T14:55:24.000Z",
+          "wordCount": 163,
+          "title": "科学家发现两个 HIV 病毒潜伏位置",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74102",
+          "author": null,
+          "description": "悉尼大学的科学家在肺部发现一种蛋白质，可阻止 SARS-CoV-2 感染，在人体内形成天然保护屏障。被称为 LRRC15（leucine-rich repeat-containing protein 15） 的蛋白质能与 SARS-CoV-2 结合但不传播感染。研究报告发表在《PLOS Biology》期刊上。英国牛津以及美国布朗和耶鲁大学的团队都各自独立在 LRRC15 蛋白质中发现了受体。SARS-CoV-2 病毒主要通过与 ACE2 受体结合感染人体细胞，而肺细胞具有高水平的  ACE2 受体，因此病毒主要通过感染肺部而造成严重问题。LRRC15 和  ACE2 一样都是 SARS-CoV-2 的受体，但不同之处是它不支持感染，通过粘住病毒使其无法移动，防止其它脆弱的细胞被感染。它会形成一道屏障，隔离病毒和最脆弱的肺细胞。",
+          "link": "https://www.solidot.org/story?sid=74102",
+          "publishedOn": "2023-02-10T14:00:56.000Z",
+          "wordCount": 166,
+          "title": "科学家发现阻止新冠病毒感染的受体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74101",
+          "author": null,
+          "description": "日本反垄断监管机构公平贸易委员会周四表示，苹果和 Google 在处理移动应用时可能违反了日本的反垄断法律，建议进一步监管以遏制两大科技平台的反垄断行为。公平贸易委员会发现，苹果和 Google 是移动操作系统市场的双寡头，苹果的 iOS 占 46.6% 的份额，Google 的 Android 占 53.4%，两家公司同时支配了应用商店市场。公平贸易委员会建议苹果和 Google 做出改变，允许第三方应用商店或第三方支付系统。",
+          "link": "https://www.solidot.org/story?sid=74101",
+          "publishedOn": "2023-02-10T12:32:05.000Z",
+          "wordCount": 165,
+          "title": "日本警告苹果 Google 应用商店涉嫌垄断",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74100",
+          "author": null,
+          "description": "苹果联合创始人沃兹（Steve Wozniak）在《CNBC: SquawkBox》上公开批评特斯拉及其自动驾驶技术 Full Self-Driving (FSD) ，认为受到了欺骗，称他家被特斯拉骗走了好多钱。FSD 是特斯拉的 L2 级辅助驾驶技术，但离 L3 以及以上的自动驾驶技术还有距离。使用 FSD 是需要额外付费的，沃兹很早就购买了 FSD，他可能相信了特斯拉 CEO 马斯克（Elon Musk）所许诺的美好愿景。马斯克曾在 2019 年表示到第二年特斯拉将变成真正的自动驾驶出租车，车主还可以在里面睡觉。但四年之后特斯拉在这方面仍然进展甚微，而 FSD 现在需要客户支付 1.5 万美元。沃兹最新的电动汽车是一辆 Lucid Air。",
+          "link": "https://www.solidot.org/story?sid=74100",
+          "publishedOn": "2023-02-10T10:36:54.000Z",
+          "wordCount": 168,
+          "title": "沃兹受够了特斯拉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74099",
+          "author": null,
+          "description": "根据发表在《Nature Aging》期刊上的一项研究，日常饮食减少四分之一热量有助于延缓人类衰老。已经有很多研究显示限制热量摄入能带来健康上的好处。在为期两年的临床试验中，220 名成年人被随机分成两组，一组每天减少四分之一热量，从 2000 卡路里减少 500 卡路里；对照组不做任何改变。他们的 BMI 指数从 22-27。实验组在前三个月收到了预先准备好的食物以熟悉食物份量。研究人员称，大部分实验组参与者实际上每天只减少 12% 的热量，但这 12% 的减少就产生了显著的变化。研究发现，被限制热量的人的衰老速度降低了 2-3%。",
+          "link": "https://www.solidot.org/story?sid=74099",
+          "publishedOn": "2023-02-10T10:08:10.000Z",
+          "wordCount": 157,
+          "title": "研究显示减少四分之一热量有助于延缓人类衰老",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74098",
+          "author": null,
+          "description": "社交网站 Reddit 披露了一起安全事故，称其员工遭到复杂且高度针对性的钓鱼攻击。它是在 2 月 5 日察觉到这起攻击，攻击者在窃取到一名雇员的登陆凭证之后访问了部分内部文档、代码、仪表盘和业务系统，但没有迹象表明访问了主生产系统，用户密码和账号仍然是安全的。Reddit 称泄露的主要是企业联系人以及前和现员工的联络信息，它建议用户为保护账号安全启用 2FA。",
+          "link": "https://www.solidot.org/story?sid=74098",
+          "publishedOn": "2023-02-10T08:26:54.000Z",
+          "wordCount": 156,
+          "title": "Reddit 遭到钓鱼攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74097",
+          "author": null,
+          "description": "科技巨头们最近动辄成千上万规模的裁员，可能让人产生这些公司冗员过多的印象，部分员工在 Tiktok 上发布的公司内部视频也让人觉得他们尽在玩不在工作。其实科技巨头们雇佣如此多的员工是出于理性是一种长期投资。首先基础设施上的投资是外人看不见的，但能感受得到，比如更低的延迟更快的响应服务更可靠，这些因素都可能影响到用户是选择你的服务还是竞争对手的服务。其次是试验，公司内部在进行各种数以百计的试验，100 个团队做的试验可能只有一个成功，从而被外界知晓，但这并不意味着其它 99 个团队做的工作是无用功，只要公司规模足够大，做这种大概率失败的游戏是值得的。最后是阻挡竞争，如果你不雇佣这些人才那么他们可能会去创业，最终可能会冲击到你的业务，这是科技巨头们收购创业公司和雇佣大量员工的一大动机。",
+          "link": "https://www.solidot.org/story?sid=74097",
+          "publishedOn": "2023-02-10T07:38:29.000Z",
+          "wordCount": 148,
+          "title": "为何科技巨头们雇佣了如此多的员工？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74096",
+          "author": null,
+          "description": "在研究人员私下警告之后，Valve 修复了一个 Dota 2 的高危漏洞。该漏洞位于 Dota 2 使用的开源 JS 引擎 V8 中，它是在 2021 年发现的，跟踪编号 CVE-2021-38003，Google 在 2021 年 10 月修复了漏洞，但 Valve  直到上个月才修复，期间隔了 15 个月。安全公司 Avast 的研究人员发现，已经有一名黑客利用修补的拖延而发布了 4 个自定义游戏模式利用该漏洞。Dota 2 支持自定义游戏模式，用户通过一个验证流程递交自己开发的自定义模式后可以公开发布供其他玩家下载。黑客递交的第一个自定义模式显然是用于概念验证的，它的一个文件名叫 evil.lua，之后递交的三个自定义模式则更隐蔽，包含了后门，可以执行通过 HTTP 下载的任意 JS 脚本。",
+          "link": "https://www.solidot.org/story?sid=74096",
+          "publishedOn": "2023-02-10T06:56:25.000Z",
+          "wordCount": 201,
+          "title": "Valve 用了 15 个月才修复 Dota 2 的一个高危漏洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74095",
+          "author": null,
+          "description": "微软旗下的代码托管平台 GitHub 宣布将在本财年结束前裁员 10%，并关闭所有办公室切换到全远程办公，部分原因是这些办公室利用率很低。GitHub 有大约 3000 名员工，10% 相当于 300 人，最近这一财年结束于 2023 年 7 月 1 日。GitHub 的竞争对手 GitLab 也几乎同时宣布将裁员 7%。GitLab 早就拥抱了纯远程办公模式。GitLab CEO Sid Sijbrandij 在声明中给出的一个理由是宏观经济环境严峻。",
+          "link": "https://www.solidot.org/story?sid=74095",
+          "publishedOn": "2023-02-10T06:14:12.000Z",
+          "wordCount": 179,
+          "title": "GitHub 裁员 10% 切换到全远程办公",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74094",
+          "author": null,
+          "description": "开源邮件客户端项目 Thunderbird 宣布它正在打造全新的 UI。开发者解释了做出这一决定的原因。Thunderbird 是基于 Firefox 的代码，利用了 Firefox 的 Gecko 渲染引擎和 Spidermonkey JavaScript 编译器，因此能紧跟 Firefox 的发布周期。但这种方法也是有代价的。Firefox 有数百名开发者，而 Thunderbird 只有十几名核心开发者，紧跟上游的变化不是一个简单的任务，有时候一天的大部分时间都耗在这上面。Mozilla 基金会在 2012 年宣布将 Thunderbird 转变成一个社区驱动的项目，是社区让 Thunderbird 项目活到了今天，并成立一个独立实体 MZLA Technologies 去控制项目的未来。它决定在未来三年对代码进行大幅修改，消除过去十年积累的技术债和 UI 债。开发者表示，他们的目标包括精简代码库，使其更可靠，重写古老的代码，消除技术债；重写 UI，打造一致的设计体系，同时维护灵活高度可定制的用户界面；每月发布一个版本。",
+          "link": "https://www.solidot.org/story?sid=74094",
+          "publishedOn": "2023-02-10T06:04:19.000Z",
+          "wordCount": 182,
+          "title": "Thunderbird 正在打造全新的 UI",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74093",
           "author": null,
@@ -1032,156 +1142,6 @@
           "publishedOn": "2023-02-02T03:35:22.000Z",
           "wordCount": 181,
           "title": "OpenAI 发布月费 20 美元的 ChatGPT Plus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74015",
-          "author": null,
-          "description": "在位于北威尔士 Wrexham 的分店发生“骚乱”事件后，麦当劳威尔士分支采取措施，通过播放古典音乐和限时提供 Wi-Fi 等方式遏制反社会行为。北威尔士警方表示，有 20 到 30 名年轻人参与，他们向店员投掷标语和硬币，点燃了灭火器，发生了追逐。目前情况已经正常。这家快餐连锁店表示它致力于成为当地的好邻居。麦当劳采取的措施包括在 17:00 GMT 开始播放古典音乐，在晚上某些时间点关闭 Wi-Fi。",
-          "link": "https://www.solidot.org/story?sid=74015",
-          "publishedOn": "2023-02-01T14:24:33.000Z",
-          "wordCount": 155,
-          "title": "麦当劳威尔士播放古典音乐遏制反社会行为",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74014",
-          "author": null,
-          "description": "市场分析公司 Gartner 预测 2023年 PC 和手机出货量将连续第二年下降，其中手机出货量将跌至十年来最低点。Gartner 预测 2023 年手机出货量将下降 4% 至 13.4 亿部，低于 2022 年的 14 亿部，2021 年的 14.3 亿部。这一数字接近 2009 年的水平，当时最流行的手机还是黑莓和诺基亚，苹果手机开始崭露头角。过去十多年，手机市场在 2015 年达到峰值，出货量达到 19 亿部。过去三年的新冠疫情一度增加了 PC 的出货量，因为在家远程办公的人需要新 PC，但在家工作并没有必要频繁更换手机。",
-          "link": "https://www.solidot.org/story?sid=74014",
-          "publishedOn": "2023-02-01T13:38:52.000Z",
-          "wordCount": 183,
-          "title": "2023 年 PC 和手机出货量预计将连续第二年下滑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74013",
-          "author": null,
-          "description": "美国总统拜登（Joe Biden）计划在 5 月 11 日 结束新冠疫情紧急状态，将对联邦政府针对新冠病毒的响应措施做出结构调整，将该病毒视为地方病级别的公共卫生威胁，结束联邦政府新冠疫苗接种、检测和医院护理的大部分支持。美国众议院共和党议员想要立即结束疫情紧急状态，拜登政府在给国会的声明中表达了反对意见，认为“突然结束宣布紧急状态将在整个医疗保健系统产生范围广泛的混乱和不确定性，影响到州、医院和医生诊所，最重要的是，影响到数千万美国人”。",
-          "link": "https://www.solidot.org/story?sid=74013",
-          "publishedOn": "2023-02-01T13:05:06.000Z",
-          "wordCount": 165,
-          "title": "美国计划在 5 月 11 日结束新冠疫情紧急状态",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74012",
-          "author": null,
-          "description": "Instagram 联合创始人 Kevin Systrom 和 Mike Krieger 在 2018 年因与母公司 Facebook/Meta 关系紧张而离职，他们成立了一家新企业，探索新社交应用。他们的首个产品是个性化新闻源 Artifact，运用机器学习了解用户兴趣，未来将支持与朋友对文章展开讨论。在某种程度上它是文字版的 TikTok，或者 Google 阅读器以移动应用的形式复活。应用首先向用户展示热门文章，随着用户点击感兴趣的文章，它会逐渐向用户推荐更多类似文章，类似在 TikTok 上刷视频。",
-          "link": "https://www.solidot.org/story?sid=74012",
-          "publishedOn": "2023-02-01T12:42:32.000Z",
-          "wordCount": 168,
-          "title": "Instagram 联合创始人推出新社交应用 Artifact",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74011",
-          "author": null,
-          "description": "波音公司向 Atlas Air Worldwide 控股公司交付了第 1574 架同时也是最后一架 747 飞机，该机型正式宣告停产。波音 747 停产并不意味着它将会立即从天空中消失，最后交付的飞机能飞行数十年。但波音 747 在商业航班中正越来越罕见。首架波音 747 是在 1968 年出厂的，1969 年首飞，1970 年投入服役。在空客 A380 投入服务之前，波音 747 保持全世界载客量最高飞机的纪录长达 37 年。它如今被更小、更高效的飞机所取代。",
-          "link": "https://www.solidot.org/story?sid=74011",
-          "publishedOn": "2023-02-01T12:15:33.000Z",
-          "wordCount": 174,
-          "title": "波音交付最后一架 747 飞机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74010",
-          "author": null,
-          "description": "芬兰研究人员演示了一种靠风飞行由光控制的机器人 Fairy(仙女，代表 Flying Aero-robots based on Light Responsive Materials Assembly)。从蒲公英种子得到灵感，“仙女”具有多个仿生特征。由于其高孔隙率（0.95）和轻质（1.2毫克）的结构，它很容易漂浮在有风的空中。更重要的是，稳定的分离涡环生成使长距离风力辅助飞行成为可能。研究人员称，“仙女”可由光源供电和控制，比如激光束或 LED。这意味着光可用来改变微小的蒲公英种子状结构的形状，“仙女”可通过改变形状来适应风向和风力，光束可用来控制聚合物组件的起飞和着陆。研究人员称，新开发的机器人向适合人工授粉的现实应用迈出了重要的一步。在未来，数以百万计的携带花粉的人造蒲公英种子可被自然风自由驱散，然后在光线的指引下前往特定地区，那里有等待授粉的树木。",
-          "link": "https://www.solidot.org/story?sid=74010",
-          "publishedOn": "2023-02-01T11:57:35.000Z",
-          "wordCount": 154,
-          "title": "科学家演示靠风飞行由光控制的机器人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74009",
-          "author": null,
-          "description": "特斯拉在向美国 SEC 递交的文件中披露，它的比特币投资净亏损 1.4 亿美元。特斯拉 CEO 马斯克（Elon Musk）在加密货币火热无比的 2021 年 1 月宣布投资 15 亿美元购买比特币，当时比特币的价格在 3 万到 4 万 美元，今天比特币的币值在 2 万美元左右，去年底一度持续在 2 万美元以下。特斯拉是在 2022 年第二季度宣布出售持有的四分之三的比特币，目前它手中仍然有大约 1.1 万枚比特币。",
-          "link": "https://www.solidot.org/story?sid=74009",
-          "publishedOn": "2023-02-01T09:54:52.000Z",
-          "wordCount": 177,
-          "title": "特斯拉在比特币投资上亏损 1.4 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74008",
-          "author": null,
-          "description": "AI 聊天机器人 ChatGPT 的开发商 OpenAI 发布了监测机器生成文本的免费 Web 工具(需要登陆或注册)，帮助教师和其他人判断一段文本是机器还是人类撰写的。OpenAI 谨慎的表示，工具并不完美，有假阳性和假阴性，不能单靠它去判断一篇文档的作者身份。该工具会根据五分制对分析的文本给出结果：非常不可能是 AI 生成的、不可能，不清楚，有可能和很可能。该工具对于一千字以上文本和英文书写的文本表现最优。",
-          "link": "https://www.solidot.org/story?sid=74008",
-          "publishedOn": "2023-02-01T07:24:02.000Z",
-          "wordCount": 157,
-          "title": "OpenAI 发布检测机器生成文本的工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74007",
-          "author": null,
-          "description": "锂电池会随时间失去部分电量。即使放着不用，电量也会缓慢减少。这种现象被称为“自放电”。达尔豪斯大学\n的研究人员发现，导致自放电的一个罪魁祸首是胶带，如果替换它有可能解决这一长久困扰电池行业的问题。类似透明胶带，电池使用胶带将电极固定起来。而胶带会发生分解，产生导致自放电的分子。研究人员将多个电池暴露在不同温度下，然后将其打开，发现里面的电解液呈红色。进一步分析发现，胶带中的聚对苯二甲酸乙二醇酯（PET）会发生分解， 产生名为氧化还原穿梭（redox shuttle）的分子，它能移动到电极的正极，然后到负极，然后再返回正极。它在电极之间穿梭产生了自放电。如果用不易降解的材料替换 PET 胶带，自放电现象有望大幅缓解。",
-          "link": "https://www.solidot.org/story?sid=74007",
-          "publishedOn": "2023-02-01T06:47:49.000Z",
-          "wordCount": 152,
-          "title": "PET 胶带导致电池自放电",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74006",
-          "author": null,
-          "description": "Spotify 在其 2022 年第四季度财报中披露，截至 2022 年 12 月 31 日它的付费订阅用户数达到了 2.05 亿，同比增长 14%；月活用户 4.89 亿，同比增长 20%。Spotify 成为第一家订阅用户数突破 2 亿的音乐串流服务。不过它面临来自 Apple Music 和 Amazon Music 的激烈竞争，后者提供的无损 CD 质量音乐串流无需额外付费，而 Spotify 却需要额外付费。",
-          "link": "https://www.solidot.org/story?sid=74006",
-          "publishedOn": "2023-02-01T06:02:54.000Z",
-          "wordCount": 183,
-          "title": "Spotify 订阅用户数突破 2 亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74005",
-          "author": null,
-          "description": "AMD 公布了 2022 年第四季度的财报，净利润大幅下降。截至 2022 年 12 月 31 日的第四季度，AMD 营收为 55.99 亿美元，去年同期为 48.26 亿美元，同比增长 16%；净利润 2100 万美元，去年同期为 9.74 亿美元，同比下降 98%。出现亏损的主要是 PC 客户端业务。数据中心业务营收 16.55 亿美元，同比增长 42%；客户端业务营收 9.03 亿美元，同比下降 51%，运营亏损 1.52 亿美元；游戏业务营收 16.44 亿美元，同比下降 7%； 嵌入式业务因包含最近完成收购的赛灵思，营收 13.97 亿美元同比增长 1868%。AMD 2022 年全年营收 236.01 亿美元，同比增长 44%，净利润 13.20 亿美元，同比下降 58%。",
-          "link": "https://www.solidot.org/story?sid=74005",
-          "publishedOn": "2023-02-01T05:04:53.000Z",
-          "wordCount": 192,
-          "title": "AMD 四季度净利润大幅下降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74004",
-          "author": null,
-          "description": "根据来自雇员的消息，英特尔正计划通过降低所有雇员的薪水以削减成本。季度奖金取消，年度奖金暂停，401k 匹配从 5% 减至 2.5%，绩效加薪暂停，所有员工基本工资根据等级削减。首席工程师（Principal Engineer）以下所有员工，从 7 到 11 级将减薪 5%，副总裁减薪 10%，领导层高管团队减薪 15%，CEO Pat Gelsinger 减薪 25%。与此同时，英特尔仍然决定给股东发放股息。芯片巨人被批评短视，认为分红比留住人才更重要。",
-          "link": "https://www.solidot.org/story?sid=74004",
-          "publishedOn": "2023-02-01T03:23:57.000Z",
-          "wordCount": 159,
-          "title": "英特尔计划削减所有雇员的薪水",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74003",
-          "author": null,
-          "description": "小鹏汇天宣布其飞行汽车旅航者X2 获民航总局的批准。它是汇天研发的第五代、获得批准的第一款载人垂直起降电动飞行器。旅航者X2 为双座，没有轮子，机身采用碳纤维结构，能在 1000 米高度飞行 35 分钟，有手动和自动飞行模式，2021 年 6 月首飞，至今飞行了逾 3000 次。小鹏表示它会继续进行一系列测试，积累数据和经验，为批量生产做准备。该公司正在研发 X3，计划 2024 年推出。",
-          "link": "https://www.solidot.org/story?sid=74003",
-          "publishedOn": "2023-01-31T15:40:17.000Z",
-          "wordCount": 159,
-          "title": "小鹏飞行汽车获民航总局的批准",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74002",
-          "author": null,
-          "description": "根据发布在《Nature Biotechnology》上的一项研究，AI 工具 ProGen 设计出已被证明有效的抗菌蛋白质，新方法有望用于研制新药。研究人员使用 AI，设计出了数百万种新蛋白质，然后选取其中一些制成小样本，以测试它们是否有效。ProGen 的工作方式与能生成文本的 AI 相似。ProGen 通过学习氨基酸如何结合形成 2.8 亿种现有蛋白质，学会了如何生成新蛋白质。研究人员可让 ProGen 专注于设计某一组类似的蛋白质，例如具有抗菌活性的蛋白质。科学家对 AI 的设计过程进行了核查。他们也在真实细胞内测试了 AI 设计出的分子样本。结果表明，在他们基于 AI 设计创造出的 100 个分子中，66 个参与了类似于天然蛋白质的化学反应，破坏了蛋清和唾液中的细菌，这表明这些新蛋白质能杀死细菌。",
-          "link": "https://www.solidot.org/story?sid=74002",
-          "publishedOn": "2023-01-31T15:12:26.000Z",
-          "wordCount": 170,
-          "title": "AI 系统设计出全新的抗菌蛋白质",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74001",
-          "author": null,
-          "description": "未来月球定居点使用的导航系统需要本地原子钟，科学家正在讨论月球时间如何制定。月球有着与地球不同的引力场，时钟的滴答速度不同。月球官方时间有可能是基于设计与地球 UTC 时间同步的时钟系统，或者独立于地球时间。全球航天机构和学术机构的代表于 2022 年 11 月在欧洲航天局位于荷兰 Noordwijk 的欧洲空间研究和技术中心召开会议，开始起草如何定义月球时间。如果不尽快制定月球时间，各国宇航局和私人公司可能会制定自己的时间标准。月球时间最迫切的需求来自于月球导航系统计划，它类似于实现地球精确位置跟踪的 GPS 等导航系统。航天机构计划在 2030 年左右发射月球导航系统。目前的月球任务都是通过在预定时间给地球上的大型天线发射无线电信号去确定位置。但随着计划中的月球任务数量大幅增长，现有资源已经满足不了要求。",
-          "link": "https://www.solidot.org/story?sid=74001",
-          "publishedOn": "2023-01-31T14:56:01.000Z",
-          "wordCount": 155,
-          "title": "月球上的时间如何制定？",
           "imageUrl": null
         }
       ]
