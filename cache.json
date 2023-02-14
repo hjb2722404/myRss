@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44611",
+          "author": "青小蛙",
+          "description": "Bulk Crap Uninstaller 是一款有着 77MB 尺寸的 Windows 程序与游戏卸载器，它能够快速删除大量不需要的应用程序，甚至是便携或未注册的程序与游戏，并且能自动扫描残留文件、",
+          "link": "https://www.appinn.com/bulk-crap-uninstaller/",
+          "publishedOn": "2023-02-13T10:19:06.000Z",
+          "wordCount": 2398,
+          "title": "Bulk Crap Uninstaller – 最重量级卸载器，能扫便携软件、游戏，速度又快，免费开源[Windows]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/bulk-crap-uninstaller.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44605",
           "author": "青小蛙",
           "description": "PhotoSync 是一款通过 Wi-Fi 快速、安全地移动、备份、共享照片与视频的工具，支持 iPhone、Android，可以将照片备份至 NAS、电脑、FTP、网盘等处。@Appinn 感谢群里",
@@ -110,16 +120,6 @@
           "wordCount": 2331,
           "title": "键魂 – 「键道」双拼键位入门辅助工具[Windows]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/poto-jianhun.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44550",
-          "author": "青小蛙",
-          "description": "来源：https://meta.appinn.net/t/topic/40193 作者：@dog 缘起 一直一来就想要通过语音来操纵电脑。现有的方案有这5个：盘点支持用语音控制PC的软件但是普遍中文识",
-          "link": "https://www.appinn.com/ahk-yongchangshu/",
-          "publishedOn": "2023-02-04T08:42:20.000Z",
-          "wordCount": 2307,
-          "title": "ahk咏唱术 – 通过声音操纵电脑~",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/Appinn-feature-image-20.jpg"
         }
       ]
     },
@@ -128,6 +128,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=376991",
+          "author": "Frederik Dohr",
+          "description": "We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance.\nInspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom …\nAn Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/",
+          "publishedOn": "2023-02-13T15:10:41.000Z",
+          "wordCount": 1617,
+          "title": "An Approach to Lazy Loading Custom Elements",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376991"
+        },
         {
           "id": "https://css-tricks.com/?p=376764",
           "author": "Temani Afif",
@@ -177,16 +187,6 @@
           "wordCount": 1946,
           "title": "The Double Emphasis Thing",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376548"
-        },
-        {
-          "id": "https://css-tricks.com/?p=376676",
-          "author": "Temani Afif",
-          "description": "Do you know that kind of effect where someone’s head is poking through a circle or hole? The famous Porky Pig animation where he waves goodbye while popping out of a series of red rings is the perfect example, and …\nA Fancy Hover Effect For Your Avatar originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-fancy-hover-effect-for-your-avatar/",
-          "publishedOn": "2023-02-03T15:11:46.000Z",
-          "wordCount": 3105,
-          "title": "A Fancy Hover Effect For Your Avatar",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376676"
         }
       ]
     },
@@ -239,6 +239,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74122",
+          "author": null,
+          "description": "丰田正在召回 16,680 辆 2021 年款混动汽车 RAV4 Primes，以修复可能导致牵引电池过度放电的软件 bug，该  bug 最终会导致混动系统关闭。该问题主要在寒冷天气下发生。当 RAV4 Primes 只用电池不使用内燃机的情况下行驶，快速踩下踏板加速，电池有可能降到特定阈值下。如果发生这种情况，汽车会显示错误信息，混动系统将关闭，汽车将失去动力。",
+          "link": "https://www.solidot.org/story?sid=74122",
+          "publishedOn": "2023-02-13T15:39:57.000Z",
+          "wordCount": 170,
+          "title": "丰田因电池软件故障召回 2021 年款 RAV4 Prime",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74121",
+          "author": null,
+          "description": "科技巨头们在生成式 AI 领域展开激烈的竞争，微软和 Google 都计划在搜索引擎中整合 AI，索引和搜索互联网都需要大量资源，但 AI 所需要的资源将会高出几个数量级。英国  Surrey 大学网络安全教授 Alan Woodward 称，这需要处理能力、储存和有效检索。训练大语言模型（LLM）如 ChatGPT 使用的 GPT-3.5 和 Google 的 Bard 使用的相似模型，都需要大量的算力。OpenAI 和 Google 都没有透露使用的算力，第三方分析估计训练 GPT-3 消耗了 1287 MWh，释放出了 550 吨二氧化碳，再加上执行搜索和服务百万用户所需的能耗，排放还会更高。",
+          "link": "https://www.solidot.org/story?sid=74121",
+          "publishedOn": "2023-02-13T15:19:03.000Z",
+          "wordCount": 179,
+          "title": "生成式 AI 的能耗和碳排放",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74120",
+          "author": null,
+          "description": "用于印刷电路板设计的自由软件 KiCad 释出了 v7.0。新版本相比 KiCad 6 是一次重大更新，包含了逾 6000 commits，修复了逾 1200 个报告的问题，加入了许多新功能，其中包括：自定义字体支持，文本框支持，3Dconnexion SpaceMouse 支持，Sentry 崩溃报告数据收集，插件和内容管理器将自动检查是否有更新，拖放操作支持，macOS Apple Silicon 支持，命令行界面，正交拖动，等等。",
+          "link": "https://www.solidot.org/story?sid=74120",
+          "publishedOn": "2023-02-13T12:52:33.000Z",
+          "wordCount": 166,
+          "title": "KiCad 7.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74119",
+          "author": null,
+          "description": "由哈佛大学科学家领导的一个国际团队，借助暗能量光谱仪器（DESI），发现了证据表明仙女座星系内曾经发生过一次大型“星系移民”事件。这是科学家首次在银河系外其他星系内发现“星系移民”。仙女座星系（M31）是离银河系最近的大型星系。在最新研究中，科学家通过测量仙女座星系内晕中近 7500 颗恒星的运动，发现了与恒星位置和运动有关的重要信息，这些信息揭示了这些恒星曾经在另一个星系的“生活情况”。该星系约 20 亿年前与 M31 合并，虽然理论早就预测到了这种模式，但此前从未在任何星系内观察到如此清晰的情况。研究人员解释道，对仙女座星系的这一新观测结果，非常详细地揭示了一次“星系移民”事件。虽然夜空看似一成不变，但宇宙是一个充满活力的地方，像 M31 这样的星系和银河系都包含许多组成部分。",
+          "link": "https://www.solidot.org/story?sid=74119",
+          "publishedOn": "2023-02-13T10:10:49.000Z",
+          "wordCount": 155,
+          "title": "20 亿年前仙女座合并曾导致大规模星系迁移",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74118",
+          "author": null,
+          "description": "加州理工工程师 Mory Gharib 在研究达芬奇笔记时注意到几个独特的三角形草图，进一步调查发现达芬奇尝试在研究引力的性质，试图在引力和加速度之间建立等价关系，这早于提出运动定律的牛顿，远早于用广义相对论证明等效原理的爱因斯坦。Gharib 和同事在《Leonardo》期刊上发表了他们的研究。他们还通过现代计算发现达芬奇模型的引力常数 G 的值达到了精确值的 97%。更令人惊讶的是，达芬奇没有精确计时也没有使用微积分。微积分是在 1660 年代牛顿为运动定律和万有引力定律发明的。Gharib 指出达芬奇在 1500s 初期解决该问题的方式表明他的思想是多么超前。",
+          "link": "https://www.solidot.org/story?sid=74118",
+          "publishedOn": "2023-02-13T09:42:15.000Z",
+          "wordCount": 154,
+          "title": "达芬奇笔记显示他曾研究过引力和加速度关系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74117",
+          "author": null,
+          "description": "Opera 正在浏览器侧边栏添加一个 ChatGPT 驱动的工具，能生成网页和文章的简短摘要。该功能被称为 shorten，是 Opera 整合 AI 工具的计划的一部分，类似微软在 Edge 浏览器上做的。该功能尚未向所有人开放，Opera 营销和通信副总裁 Jan Standel 表示它将会很快推出。Opera 还在开发其它 AI 驱动的功能，计划在侧边栏加入流行的 AI 内容生成服务。",
+          "link": "https://www.solidot.org/story?sid=74117",
+          "publishedOn": "2023-02-13T07:47:54.000Z",
+          "wordCount": 169,
+          "title": "Opera 将在浏览器中整合 ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74116",
+          "author": null,
+          "description": "YouTube 频道 PC Security Channel 对比了全新的 Windows 11 和 Windows XP PC 的数据收集，用 Wireshark 抓包，发现一台从未用于浏览互联网的全新 Windows 11 PC 不仅会向 Windows Update、MSN 和 Bing 发送数据，还向 Steam、McAfee、geo.prod.do 和 Comscore ScorecardResearch.com 等第三方服务发送数据。相比下 Windows XP 只检查下更新服务器。Windows 11 因此被称为间谍软件。微软发言人对此回应称，流数据在现代操作系统中很常见，以帮助保持安全和最新，确保系统按预期工作，“我们致力于提高透明度，定期公布收集的数据信息，使客户更多了解隐私。”",
+          "link": "https://www.solidot.org/story?sid=74116",
+          "publishedOn": "2023-02-13T07:01:28.000Z",
+          "wordCount": 192,
+          "title": "微软为 Windows 11 向第三方服务发送数据辩护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74115",
+          "author": null,
+          "description": "上周一土耳其和叙利亚接连着发生了两次 7.5 级规模甚至以上的强地震，卫星观测显示地震后地壳出现了两条巨大的裂缝。英国地震、火山和地质构造观测与建模中心（COMET）的研究人员通过比较欧洲地球观测卫星 Sentinel-1 在地震发生前后拍摄的卫星图像，发现了两条断裂缝。其中较长的一条从地中海东北端向东北方向延伸了 300 公里。这条裂缝是由两次大地震中的第一次当地时间 4 点 17 分发生的 7.8 级地震造成的。第二条裂缝长 125 公里，是约 9 个小时后第二次 7.5 级地震中产生的。",
+          "link": "https://www.solidot.org/story?sid=74115",
+          "publishedOn": "2023-02-13T06:10:06.000Z",
+          "wordCount": 168,
+          "title": "卫星观测显示强地震后地壳出现了 300 公里长的裂缝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74114",
+          "author": null,
+          "description": "Shawn the R0ck 写道：安全多方计算（Secure multi-party computation，简称MPC或者SMPC）起源于 A. Shamir, R. Rivet and L. Adleman 在1979年对于秘密分割问题的研究，其后姚期智（Andrew Yao）于 1982 年提出百万富翁问题和于 1986 年正式提出的 Garbled Circuit Protocol,成为了今天意义上多方计算的基础，Web3.0 的兴起让业界关注使用多方计算解决资产管理和跨链等场景的问题，SMPC 在多台计算节点之间分配签名过程，每台计算机都拥有一份代表密钥份额的私有数据，它们共同合作以分布式方式签署交易以降低单点失败的风险，但实际情况是这样吗？HardenedVault 的 Vault Labs 近期针对 SMPC 中安全假设，Oblivious transfer，同态加密，零知识证明，Shamir 秘密分割，Feldman-VSS，Paillier算法，EdDSA以及MPC-CMP等SMPC的主要特性进行了分析，以此为基础得出以下结论：1）建立合理威胁模型的前提是SMPC实现本身遵循密码学最佳实践。2）有一些厂商宣称的SMPC方案是去中心化的，但实际上是基于特权设置不仅会导致单点失败风险，而且可以让攻击者具备制造假签名的能力，用户需要仔细确认技术参数。3）即使没有特权节点，SMPC也并不能一劳永逸的解决单点失败风险的问题，因为系统安全问题依旧存在。4）没有银弹，高度依赖TEE（可信执行环境）并不是理性的选择，魔鬼在细节中。",
+          "link": "https://www.solidot.org/story?sid=74114",
+          "publishedOn": "2023-02-13T05:28:42.000Z",
+          "wordCount": 182,
+          "title": "祛魅 SMPC 和它的威胁模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74113",
+          "author": null,
+          "description": "Google 上周一宣布了它的 AI 聊天机器人 Bard，应对 OpenAI 聊天机器人 ChatGPT 所带来的严峻挑战。但 Google 周二公布的 Bard 演示广告发生了事实性错误。当天 Google 的股价为 108 美元，从周三开始到周五，它的股价跌至了 94.86 美元，三天下跌 11.5%，市值蒸发了千亿美元。ChatGPT 对 Google 的挑战是真实的，但演示广告不是实况直播，直播容易出错，对于广告 Google 甚至连事实核查都不做，这凸显了它应对的是如此的匆忙、粗心甚至傲慢。这都让公众对 Google 产生了负面印象。",
+          "link": "https://www.solidot.org/story?sid=74113",
+          "publishedOn": "2023-02-13T05:16:51.000Z",
+          "wordCount": 188,
+          "title": "Google AI 机器人 Bard 演示广告出错，市值蒸发千亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74112",
+          "author": null,
+          "description": "国内 45 亿个人信息泄露遭到泄露，最新数据大概来自 2022 年，数据主要来自各快递平台以及淘宝、京东等购物网站，数据包含用户真实姓名、电话与住址等。泄露的数据量为 4541420022 条，数据库大小为 435.35GB。主要购物平台尚未对此消息做出回应。",
+          "link": "https://www.solidot.org/story?sid=74112",
+          "publishedOn": "2023-02-13T04:48:17.000Z",
+          "wordCount": 149,
+          "title": "数十亿国内快递信息泄露",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74111",
           "author": null,
@@ -887,66 +997,6 @@
           "publishedOn": "2023-02-05T09:31:58.000Z",
           "wordCount": 179,
           "title": "法官使用 ChatGPT 做出法庭裁决",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74044",
-          "author": null,
-          "description": "Dark Energy Survey 和 South Pole Telescope 对宇宙结构的精确测量再次表明物理学标准模型可能存在缺失。最新观测发现当前宇宙的团块结构（clumpiness）比标准宇宙学模型预测的少。观测结果没有达到科学家认为称得上发现的统计阈值（5 sigma），但这些发现一次又一次出现暗示理论预测和宇宙实际之间存在的缝隙。论文主要作者 Chihway Chang 博士说，如果发现站得住脚将是非常令人兴奋的。物理学的全部意义在于测试模型和挑战模型。最好情况是它帮助我们更多了解暗物质和暗能量的性质。没有参与研究的宇宙学家认为，最新结果可能有三种解释：数据中的噪声或望远镜的系统误差，未知天文现象，以及需要新物理学去解释。",
-          "link": "https://www.solidot.org/story?sid=74044",
-          "publishedOn": "2023-02-04T14:45:41.000Z",
-          "wordCount": 154,
-          "title": "最新观测再次预示标准模型可能存在缺失",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74043",
-          "author": null,
-          "description": "2020 年 8 月 Mozilla 在裁员时砍掉了 Servo 引擎团队的大部分成员。Servo 是用 Rust 语言开发的实验性浏览器引擎项目。Servo 项目之后脱离 Mozilla 成为一个独立项目，由 Linux 基金会托管，旨在为其它项目提供一个嵌入的高性能的、安全的渲染引擎。本周五，Servo 官方博客公布了 2023 年的计划：更新主要依赖如 WebRender 和 Stylo，分析两个布局引擎选择其一继续开发，实现基本的 CSS2 一致性，探索支持 Android 平台，等等。",
-          "link": "https://www.solidot.org/story?sid=74043",
-          "publishedOn": "2023-02-04T14:02:06.000Z",
-          "wordCount": 172,
-          "title": "Servo 项目公布未来计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74041",
-          "author": null,
-          "description": "一位宝马 i4 车主注意到一个奇怪的现象，当汽车停止在斜坡上时无线更新软件，显示屏会弹出警告信息，称停车位太陡软件无法升级。只要汽车不是停在平地上，OTA 软件更新就无法进行，车主也无法超控这一指令。宝马给出的理由是此举是一种安全措施。宝马发言人称，汽车配备了各种传感器能判断其所在位置的倾向，知道是不是在斜坡还是平地。这种安全措施是为了防止程序出错导致汽车移动。虽然这听起来有点愚蠢，但如果软件更新出错，汽车的制动器突然释放，停在斜坡时发生移动是十分危险的。",
-          "link": "https://www.solidot.org/story?sid=74041",
-          "publishedOn": "2023-02-04T10:20:51.000Z",
-          "wordCount": 146,
-          "title": "停在斜坡上时宝马汽车不会更新软件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74040",
-          "author": null,
-          "description": "社交网站 Facebook 是在 2004 年上线的，而 Google 直到 2011 年才推出自己的针对性产品 Google+。相比之下，对于 OpenAI 的聊天机器人 ChatGPT，Google 的反应速度是非常迅速的，因为 ChatGPT 确实有可能动摇到 Google 的立足之本——它的最核心业务搜索引擎。根据寄送给媒体的邀请函，Google 将在 2 月 8 日透露挑战 ChatGPT 的 AI 工具。计划于下周举办的活动将围绕“使用 AI 的力量重新想象如何搜索、探索和与信息互动，使得比以往任何时候更自然、更直观的找到所需要的信息”。这场 40 分钟的活动将在 YouTube 上直播。",
-          "link": "https://www.solidot.org/story?sid=74040",
-          "publishedOn": "2023-02-04T08:40:19.000Z",
-          "wordCount": 195,
-          "title": "Google 将在下周透露挑战 ChatGPT 的 AI 工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74039",
-          "author": null,
-          "description": "在线百科全书因为未能移除被认为“亵渎”的内容，正式遭到巴基斯坦的封杀。巴基斯坦电信监管机构发言人  Malahat Obaid 称，在 48 小时期限后部分亵渎内容在维基百科上仍然可访问，它因此采取了行动。她表示该机构仍然在与维基百科官员磋商，如果相关内容完全移除将考虑解除对维基百科的封锁。在这之前巴基斯坦以相同理由限制了维基百科的访问。",
-          "link": "https://www.solidot.org/story?sid=74039",
-          "publishedOn": "2023-02-04T06:04:43.000Z",
-          "wordCount": 147,
-          "title": "巴基斯坦屏蔽维基百科",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74038",
-          "author": null,
-          "description": "美国 FDA 提议每年更新一次新冠疫苗，就像流感疫苗一样。科学家对此存在分歧。费城儿童医院的疫苗专家 Angela Shen 认为从概念上讲，这个主意不坏。然而 SARS-CoV-2 不是流感，它产生新变种的速度与流感不同。流感病毒毒株存在可预测的季节性模式，虽然有证据表明 SARS-CoV-2 也会季节性传播，但它不像流感那样可预测。科学家表示，目前的数据还不知道是否需要每年接种新疫苗以避免严重的新冠感染。SARS-CoV-2 变种不像流感毒株传播到全世界，意味着难以在全球协调新冠疫苗的成分。",
-          "link": "https://www.solidot.org/story?sid=74038",
-          "publishedOn": "2023-02-03T15:02:57.000Z",
-          "wordCount": 153,
-          "title": "是否应该每年接种新冠疫苗？",
           "imageUrl": null
         }
       ]
