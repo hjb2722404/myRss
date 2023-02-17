@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-02-16T02:44:44.368Z</updated>
+    <updated>2023-02-17T02:48:39.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[内核开发者讨论移除安腾架构]]></title>
+        <id>https://www.solidot.org/story?sid=74156</id>
+        <link href="https://www.solidot.org/story?sid=74156"/>
+        <updated>2023-02-16T14:32:24.000Z</updated>
+        <summary type="html"><![CDATA[因基本上没人用且没人维护，内核开发者讨论是否移除英特尔的安腾/IA64 架构，讨论结果还是让它活着。问题最早是 Arm 开发者 Ard Biesheuvel 提出的，他指出内核的 IA64 版本无人维护，而根据一位可能是仅剩的用户报告它已经出问题一个月了，但没人关心，因此提议干脆移除它。Linux 作者 Linus Torvalds 说他不是 IA64 架构粉丝，但完全移除一个架构还是令人难过，而且它的维护负担看起来并不大。他同时表示，如果没人愿意花时间去处理故障，那么结束对 IA64 的支持只能是唯一选项。物理学家兼 Debian 维护者 John Paul Adrian Glaubitz 站出来拯救了 IA64，表示他有时间维护该架构，而且他还有一台安腾服务器可以测试。英特尔是在 2021 年退役了安腾处理器产品。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赤道几内亚爆发青猴病疫情]]></title>
+        <id>https://www.solidot.org/story?sid=74155</id>
+        <link href="https://www.solidot.org/story?sid=74155"/>
+        <updated>2023-02-16T12:56:20.000Z</updated>
+        <summary type="html"><![CDATA[WHO 周三表示，赤道几内亚爆发了青猴病疫情，卫生官员正在加快行动遏制病毒的传播。青猴病病毒又称马尔堡病毒，有记录的最早爆发是在德国马尔堡，它与埃博拉病毒相近，传播方式也相似，通过直接接触和体液传播。罹患此病的人会出现发高烧、腹泻、呕吐及出血的现象，无医治方法，死亡率很高。至今为止有 9 人死于最新一波疫情，其中一人确诊，另外 8 人为疑似。目前有轻症疑似病例 16 例，密接 21 人。青猴病疫情相当罕见，至今只爆发了大约 15 次，感染人数都是个位数。赤道几内亚的疫情是过去十年最严重的，病例数已经达到两位数，临近的喀麦隆报告了两例疑似病例，目前该国还没有报告确诊病例。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 开发能自我修正的 AI 语言模型]]></title>
+        <id>https://www.solidot.org/story?sid=74154</id>
+        <link href="https://www.solidot.org/story?sid=74154"/>
+        <updated>2023-02-16T12:15:12.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 的 ChatGPT 让无数人惊叹，然而它在简单任务如算术和事实核查上仍然存在明显缺陷。Meta 的研究人员最近透露了一种新的语言模型 Toolformer，能在不牺牲核心语言建模能力的情况下利用外部工具如搜索引擎、计算器和日历来自我修正。Toolformer 的关键在于它能以无缝和自动化的方式使用 API。在训练中，研究人员给了一组人类编写的示例演示 API 如何使用，然后让它使用 API 调用给一个大语言建模数据集做注解。Toolformer 以自我监督的方式完成了任务，意味着它可以在不需要明确的人类指导下学习。模型学会了预测每个基于文本的 API 调用，可以在需要时插入调用，它还能基于上下文自行决定使用哪个工具，以及如何使用。如 Toolformer 能使用计算器来解决大语言模型（LLM）在算术上的局限性。Toolformer 基于预训练的 GPT-J 模型，该模型有 67 亿个参数。测试显示它的表现优于有 1750 亿个参数的 GPT-3 模型。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现黑洞是暗能量来源的首个证据]]></title>
+        <id>https://www.solidot.org/story?sid=74153</id>
+        <link href="https://www.solidot.org/story?sid=74153"/>
+        <updated>2023-02-16T10:33:45.000Z</updated>
+        <summary type="html"><![CDATA[宇宙大约七成的质量是看不见的暗能量，对星系中心超大质量黑洞的观测显示它可能就是暗能量的来源。研究报告发表在《The Astrophysical Journal》和《The Astrophysical Journal Letters》期刊上。对古老星系和休眠星系的测量显示，黑洞的增长超出预期，与爱因斯坦引力论预测的一种现象一致。这意味着我们可能不需要任何新理论去解释暗能量：黑洞加爱因斯坦的引力就是暗能量的来源。这个结论是通过研究 90 亿年黑洞演化得出的。研究人员观测了名为巨型椭圆星系的特殊星系，它在宇宙早期演化，之后进入休眠态。休眠星系中恒星的形成已经结束，供中心黑洞吸积的物质很少，意味着正常的天体物理过程无法解释任何黑洞的增长。但对比观测显示：今天的黑洞比 90 亿年前大了 7-20 倍。对宇宙演化不同阶段相关星系群的进一步测量表明，宇宙大小与黑洞质量之间具有良好一致性。这表明宇宙中测量到的暗能量可用黑洞真空能量解释。这种现象被称为“宇宙耦合（cosmological coupling）论”。 如果进一步观测得到证实，宇宙耦合将重新定义对黑洞的理解。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[葛兰素在长达 40 年里对雷尼替丁的致癌风险保持沉默]]></title>
+        <id>https://www.solidot.org/story?sid=74152</id>
+        <link href="https://www.solidot.org/story?sid=74152"/>
+        <updated>2023-02-16T09:42:04.000Z</updated>
+        <summary type="html"><![CDATA[雷尼替丁（ranitidine)常用于治疗消化性溃疡，葛兰素称它不会导致癌症，但它自己的科学家和独立研究人员都对该药的致癌风险发出过警告。葛兰素在早期被称为葛兰素大学，它开展了重要的制药研究，但很少能产生有利可图的药物，直到研究人员创造出了名为雷尼替丁的分子，1978 年在美国获得专利，FDA 也迅速通过审查，葛兰素将其冠名为 Zantac，它很快成为世界上最畅销的处方药。葛兰素也最终通过收购合并变成了葛兰素史克，今天它最畅销的药物包括抗抑郁药 Paxil 和 Wellbutrin 以及带状疱疹疫苗 Shingrix。雷尼替丁不再是了。2019 年该药物被发现含有高浓度的致癌物，致癌物是雷尼替丁本身产生的。它在世界各地都被召回，2020 年 FDA 迫使它退市。它的致癌物被称为 NDMA，曾被添加到火箭燃料中，现在只用于对实验鼠诱发癌症。FDA 称 NDMA 微量食用无害，但雷尼替丁中的 NDMA 含量过高，随着时间还会愈来愈多。根据法庭文件以及根据信息自由法获得的研究报告，葛兰素在 FDA 审批药物时没有披露一项关键研究。葛兰素史克出售了一种可能对人有害的药物，试图撇清证据，且从未向任何人发出过警告。它在美国正面临一场集体诉讼。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClickmonitorDDC – 最完美的亮度调节软件｜没人用，没人晓，毫无知名度，作者已跑路[Windows]]]></title>
+        <id>https://www.appinn.com/?p=44635</id>
+        <link href="https://www.appinn.com/clickmonitorddc/"/>
+        <updated>2023-02-16T07:57:50.000Z</updated>
+        <summary type="html"><![CDATA[ClickmonitorDDC 是一款 Windows 下的显示器亮度调节软件，可以通过任务栏图标、鼠标滚轮来调整显示器背光亮度和对比度。软件大小 615KB，内存占用 3M，被 @GhassanAr]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国司法部认为 John Deere 应该允许农民维修他们的拖拉机]]></title>
+        <id>https://www.solidot.org/story?sid=74151</id>
+        <link href="https://www.solidot.org/story?sid=74151"/>
+        <updated>2023-02-16T07:39:28.000Z</updated>
+        <summary type="html"><![CDATA[因为计算机和 DRM ，现代的拖拉机农民自己无法修理。世界最大的拖拉机制造商 John Deere 声称，拖拉机的买家并不拥有拖拉机，他们获得的只是在拖拉机寿命期内使用它的默示许可。如果农民想要自己修理拖拉机，他们将违反 DMCA 法律。John Deere 在美国拖拉机市场拥有 53% 的份额。上个月，Forest River Farms 对 John Deere 发起集体诉讼，指控其维修政策违反反托拉斯法。本周美国司法部站在了原告一边，认为应该允许农民维修他们的拖拉机。司法部认为限制维修通过提高成本或拒绝提供关键设备而导致独立维修店倒闭，最终导致消费者选择减少。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴菲特的公司大幅减持台积电股份]]></title>
+        <id>https://www.solidot.org/story?sid=74150</id>
+        <link href="https://www.solidot.org/story?sid=74150"/>
+        <updated>2023-02-16T07:03:27.000Z</updated>
+        <summary type="html"><![CDATA[巴菲特(Warren Buffett)的伯克希尔哈撒韦公司在入股最大芯片制造商台积电仅几个月后，就减持了价值数十亿美元的股份。伯克希尔哈撒韦去年 11 月披露斥资 41 亿美元购买了 6000 万股台积电股份，但过去三个月该公司卖出了 5180 万股份，卖出的股份占到了其持有总股份的 86%。此举可能是因为芯片行业的低迷所致，业内公司如英特尔都对未来几个月的收入发出了预警。伯克希尔哈撒韦还卖出了动视暴雪等公司的股份，增持了苹果等公司的股份。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 失去了方向]]></title>
+        <id>https://www.solidot.org/story?sid=74149</id>
+        <link href="https://www.solidot.org/story?sid=74149"/>
+        <updated>2023-02-16T06:33:58.000Z</updated>
+        <summary type="html"><![CDATA[一位 Google 前员工认为搜索巨人失去了方向，效率低下且管理不善。Praveen Seshadri 联合创办了 AppSheet，Google 云服务 2020 年初收购 AppSheet 后他加入了该公司。他在今年 1 月离职。Seshadri 认为，面临微软 AI 计划竞争的 Google 显得十分脆弱，但搜索巨人问题的根源不是技术而是在于其文化。Google 有 4 个核心的文化问题，这是“广告”这个印钞机产生的自然结果，这台机器收入每年都在增长，从而掩盖了所有其它罪恶：没有使命，没有紧迫感，例外主义的妄想，以及管理不善。Google 的绝大部分员工不是为客户服务，而是为其他 Google 员工工作。Google 内部是一个封闭的世界，加倍努力工作不一定会带来回报。反馈是基于你的同事和经理对你工作的看法。Google 狂热的关注风险，减轻风险胜于其他一切。每一行代码、每一次发布、隐性决定、协议的改变和分歧都是 Google 员工必须谨慎对待的风险。员工被困在一长串的审批、法律评估、绩效评估和会议中，创造力或真正的创新几乎没有空间。Seshadri 认为 Google 还是有可能逆转这一切的，但不再可能通过回避风险来取得成功。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google CEO 要求员工投入 2-4 小时时间帮助改进 Bard]]></title>
+        <id>https://www.solidot.org/story?sid=74148</id>
+        <link href="https://www.solidot.org/story?sid=74148"/>
+        <updated>2023-02-16T05:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Alphabet CEO Sundar Pichai 周三向 Google 员工发送了一份内部备忘录，要求他们贡献 2-4 小时时间帮助改进该公司的 AI 聊天机器人 Bard。这份备忘录突出了 Google 的危机感和紧迫性。OpenAI 的 AI 聊天机器人 ChatGPT 能部分代替搜索引擎回答各种问题，微软上周宣布将把 ChatGPT 的技术整合到其搜索引擎和浏览器中，并立即启动了测试。Pichai 在备忘录中表示，底层技术迅速发展，潜力巨大。他表示已有数千名人在测试 Bard 和递交反馈。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新避孕药降低了雄性实验鼠精子的活力]]></title>
+        <id>https://www.solidot.org/story?sid=74147</id>
+        <link href="https://www.solidot.org/story?sid=74147"/>
+        <updated>2023-02-16T05:22:18.000Z</updated>
+        <summary type="html"><![CDATA[根据《Nature Communications》期刊上发表的一项研究，一种新的雄性避孕药在实验鼠身上显示出了效果，能在短时间内显著降低小鼠和人类精子的活力。这种避孕药需要周期性服用，因此相比其它候选避孕药能给药厂带来更多持续性收入。在实验中，新药物注射到雄性小鼠体内后，其避孕效率在前 2 小时为 100%，前 3 小时为 91%，期间小鼠可以正常交配。24 小时后恢复正常。在实验中，研究人员让雄鼠在注射 2.5 小时后交配，实验组 52 对小鼠中没有一对怀孕。对照组则有三分之一怀孕了。研究人员表示计划展开更多动物实验，力争未来几年进行人体试验。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[气候变化扩大蚊子活动范围]]></title>
         <id>https://www.solidot.org/story?sid=74146</id>
@@ -1042,149 +1152,6 @@ The truth about CSS selector performance originally published on CSS-Tricks, whi
         <summary type="html"><![CDATA[Google CEO Sundar Pichai 在宣布裁员 1.2 万名员工时表示他本人对目前的情况承担全部责任。他付出的代价是大幅减少奖金。此类的代价在亚马逊、英特尔、微软等公司高管身上都能看到。这些 CEO 们将公司置于不可持续的境地，假定新冠驱动的科技繁荣未来会成为一种常态。现在期望破灭了，普通的员工承受了错误决策的冲击，而责任最大的高管却没有面临任何有意义的后果。他们本应该因为管理不善遭到解雇。在公布的裁员声明中，几乎每一家科技公司都将主要责任归咎于经济环境。亚马逊说经济不确定，Salesforce CEO Marc Benioff 说经济衰退，PayPal 说宏观经济环境不景气。但很多问题的根源都是 CEO 们的愚蠢决定。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新加坡支持学校使用 ChatGPT 但要求谨慎]]></title>
-        <id>https://www.solidot.org/story?sid=74069</id>
-        <link href="https://www.solidot.org/story?sid=74069"/>
-        <updated>2023-02-07T14:26:58.000Z</updated>
-        <summary type="html"><![CDATA[新加坡支持学校使用 AI 工具如 ChatGPT，但希望学生不要过度依赖，能理解技术的局限性。教育部长陈振声在在国会答复四名议员有关人工智能聊天机器人 ChatGPT 对教育的影响时，强调教师在新时代引导学生“发掘、提取、判断”信息的重要性。“如同计算机能辅助学生学习数学，但他们仍然须学习基本功。只有当学生掌握了基本概念和思考能力，ChatGPT 才可作为实用的学习工具……ChatGPT 可能提供不准确或带有偏见的内容，学生须有判断信息是否准确且客观的能力。他解释，学校与大专学府通过各个方式防止学生滥用这项科技，包括教育学生诚信的重要，以及抄袭的后果。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国计划将加密货币资产视为证券]]></title>
-        <id>https://www.solidot.org/story?sid=74068</id>
-        <link href="https://www.solidot.org/story?sid=74068"/>
-        <updated>2023-02-07T14:11:30.000Z</updated>
-        <summary type="html"><![CDATA[韩国计划将加密货币资产如代币作为证券进行监管。韩国金融服务委员会在一份公告中表示，投资者应期待代币资产享有与传统证券相同的保护，因为它们在韩国满足其它证券的定义。韩国许多类型的证券能在没有机构或交易所参与的情况下进行交易，因此将加密货币视为证券不会创造新的证券类别。韩金融监管机构计划在 2023 年晚些时候递交修正案，希望立法机构将其变成法律。去年因算法稳定币 Terra 币崩溃，开发商 Terraform Labs 的韩国创始人  Do Kwon 一度被称为加密货币领域最大的恶人，但如今这个称号已被 FTX 创始人 Sam Bankman-Fried 抢走了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度封杀 232 个中国借贷和赌博应用]]></title>
-        <id>https://www.solidot.org/story?sid=74067</id>
-        <link href="https://www.solidot.org/story?sid=74067"/>
-        <updated>2023-02-07T13:22:40.000Z</updated>
-        <summary type="html"><![CDATA[印度电子信息技术部开始封杀 138 个赌博应用和 94 个借贷应用，这些应用被指都与中国有关联，但因其做法不透明以及包含非中国应用而受到批评。印度国有广播公司 PBNS 上周日公布了禁令，名单中的部分应用不是来自中国，其中包括金融应用 PayU、先买后付服务 LazyPay 和借贷平台 Kissht，因此引发了批评和争议。非盈利组织 Internet Freedom Foundation(IFF)指出政府需要提高透明度，认为没有迫在眉睫的情况需要立即封杀这些应用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国 AMC 院线将根据座位设定不同价格]]></title>
-        <id>https://www.solidot.org/story?sid=74066</id>
-        <link href="https://www.solidot.org/story?sid=74066"/>
-        <updated>2023-02-07T11:58:54.000Z</updated>
-        <summary type="html"><![CDATA[美国最大的院线 AMC 电影院宣布将对不同座位设定不同价格，这一新的分级定价方案被称为 Sightline。从本周五开始，AMC 在全美的电影院将把观众席分成三个不同的价格等级，部分座位更便宜，部分座位则更贵。AMC 首席营销官 Eliot Hamlisch 声称这种定价方案让喜欢特定座位的观众以更大的机会预定到座位。消费者对 AMC 的做法褒贬不一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星 Galaxy S23 的系统软件占用了 60 GB 空间]]></title>
-        <id>https://www.solidot.org/story?sid=74065</id>
-        <link href="https://www.solidot.org/story?sid=74065"/>
-        <updated>2023-02-07T10:27:47.000Z</updated>
-        <summary type="html"><![CDATA[Android 操作系统并不以臃肿著称，它需要满足各种不同配置智能手机的需求 ，而部分低端型号的储存空间是相当有限的。然而三星最新智能手机 Galaxy S23 使用的 Android 定制系统使用了多达 60 GB 空间。也就是如果你的  Galaxy S23 手机存储空间是 128GB，那么有一半的空间被操作系统及预装的应用给占用了。为什么三星的系统如此臃肿？原因可能包括：三星软件部门开发的软件质量较差；三星为了突出自己的独立性而克隆了每一个 Google 应用。但三星同时还有合同义务在设备中包含 Google 应用，结果是系统同时预装了一套 Google 应用和对应的三星版本。这意味着设备上有两个应用商店，两个浏览器，两个语音助手，两个短信应用，诸如此类。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度确认将在下个月推出自己的 AI 聊天机器人]]></title>
-        <id>https://www.solidot.org/story?sid=74064</id>
-        <link href="https://www.solidot.org/story?sid=74064"/>
-        <updated>2023-02-07T09:14:46.000Z</updated>
-        <summary type="html"><![CDATA[百度周二确认将在 3 月份推出自己的 AI 聊天机器人“文心一言”（英文名 ERNIE Bot），目前该机器人正在内部进行测试。这一消息推动百度的股价大幅上涨。ERNIE 代表 Enhanced Representation through Knowledge Integration，是基于百度从 2019 年起开始开发的语言模型，目前是它的第三版迭代，ERNIE 允许用户写诗和文章，或使用文本提示自动生成图像。百度表示其研究人员正在努力升级技术，使其能像人类那样学习多项任务。Google 刚刚宣布了它的 AI 机器人 Bard，而微软预计也将很快推出基于 OpenAI ChatGPT 的 AI 工具。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年超级碗没有加密货币广告]]></title>
-        <id>https://www.solidot.org/story?sid=74063</id>
-        <link href="https://www.solidot.org/story?sid=74063"/>
-        <updated>2023-02-07T08:22:04.000Z</updated>
-        <summary type="html"><![CDATA[去年美国的橄榄球冠军赛超级碗被称为“加密碗”，有四家加密货币公司 FTX、Coinbase、Crypto.com 和 eToro 播放了广告。这是加密货币公司通过赞助体育赛事打入主流市场的努力的一部分。超级碗是美国收视率最高的体育赛事直播，期间播出的广告的费用非常昂贵，30 秒的广告售价数百万美元。但去年 11 月 FTX 申请破产，其创始人被控欺诈等罪名。今年的超级碗没有加密货币公司购买广告。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地震能被预测吗？]]></title>
-        <id>https://www.solidot.org/story?sid=74062</id>
-        <link href="https://www.solidot.org/story?sid=74062"/>
-        <updated>2023-02-07T07:37:30.000Z</updated>
-        <summary type="html"><![CDATA[土耳其和叙利亚昨天接连遭遇了两场 7.5 级规模以上的大地震，可能有上万人死亡。在地震发生三天前，一位荷兰研究员 Frank Hoogerbeets 在 Twitter 上发表推文，声称靠近土耳其中南部、约旦、叙利亚、黎巴嫩的地区或早或晚会发生 7.5 级左右的地震。Hoogerbeets 隶属于名叫 SSGEOS，该机构通过监测与地震活动有关的天体之间的几何构造去预测地震，听起来像是伪科学，但这则病毒式传播的推文再次引发了地震是否可以预测的讨论。美国地质勘探局（USGS）认为，要准确预测地震需要满足三个标准：1.) 日期和时间；2.）地点；3.）震级。USGS 称该机构以及其它任何机构的科学家都没有预测过大地震，因为地震无法预测。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在总理干预之后巴基斯坦解除对维基百科的封锁]]></title>
-        <id>https://www.solidot.org/story?sid=74061</id>
-        <link href="https://www.solidot.org/story?sid=74061"/>
-        <updated>2023-02-07T06:53:36.000Z</updated>
-        <summary type="html"><![CDATA[在巴基斯坦总理 Shehbaz Sharif 干预之后该国解除了对在线百科全书的封锁。三天前巴基斯坦以未能移除它认为属于“亵渎”的内容而封锁了维基百科。Sharif 下达了解封令，称审查维基百科不是限制访问亵渎内容的适当措施，全面封锁的非预期后果超过了它的好处。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盖蒂图片社起诉 Stability AI 侵犯版权]]></title>
-        <id>https://www.solidot.org/story?sid=74060</id>
-        <link href="https://www.solidot.org/story?sid=74060"/>
-        <updated>2023-02-07T06:36:36.000Z</updated>
-        <summary type="html"><![CDATA[盖蒂图片社对开源 AI 文本图像模型 Stable Diffusion 的开发商 Stability AI 提起诉讼，指控该创业公司侵犯版权，且侵权规模惊人。这家著名图库提供商称，Stability AI 未经许可或补偿从其数据库中复制了逾 1200 万幅图像，作为其构建竞争性业务努力的一部分。盖蒂图片社称 Stability AI 还侵犯了它的版权和商标保护权。该诉讼是 AI 艺术生成器开发商与版权所有人之间展开的持续法律纠纷的最新一起。AI 文本图像模型需要大量图库进行训练。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clear New Tab – 真.极简的新标签页扩展：去除一切，还可换上视频、图片[Chrome/Firefox]]]></title>
-        <id>https://www.appinn.com/?p=44578</id>
-        <link href="https://www.appinn.com/clear-new-tab/"/>
-        <updated>2023-02-07T04:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Clear New Tab 是一款默认 Chrome 系浏览器新标签页，它能够去除新标签页上的一切元素，并且还可以将图片、视频设置为新标签页背景，并且支持循环切换、纯色背景。@Appinn 来自发现频]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 宣布了挑战 ChatGPT 的 AI 服务 Bard]]></title>
-        <id>https://www.solidot.org/story?sid=74059</id>
-        <link href="https://www.solidot.org/story?sid=74059"/>
-        <updated>2023-02-07T03:39:56.000Z</updated>
-        <summary type="html"><![CDATA[Google 正式宣布了挑战 OpenAI 聊天机器人 ChatGPT 的 AI 服务。ChatGPT 能以对话的方式回答用户输入的各种问题，它引入了信息检索的新模式，向 Google 统治了 20 多年的搜索引擎市场发起了挑战，搜索巨人为此加快推出自己的对话式 AI 服务 Bard。Bard 是基于它的  Language Model for Dialogue Applications (缩写 LaMDA)，将首先挑选部分人员进行测试，然后未来几周逐渐推广给更广泛的用户。Bard 和 ChatGPT  的工作模式类似，根据训练的语料对用户输入的问题生成文本答案，它相对于 ChatGPT 的一个优势是能利用最新的数据，ChatGPT 的数据截止于 2021 年。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS fixed固定定位transofrm失效及居中小技巧]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=10707</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2023/02/css-fixed-position-transform-center/"/>
-        <updated>2023-02-06T15:32:51.000Z</updated>
-        <summary type="html"><![CDATA[介绍个我认为最好的固定居中定位的CSS实现，以及展示transform内fixed固定定位失效的解决方法，你说不定哪天就会用到。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Double Emphasis Thing]]></title>
-        <id>https://css-tricks.com/?p=376548</id>
-        <link href="https://css-tricks.com/the-double-emphasis-thing/"/>
-        <updated>2023-02-06T15:06:55.000Z</updated>
-        <summary type="html"><![CDATA[I used to have this boss who loved, loved, loved, loved to emphasize words. This was way back before we used a WYSIWYG editors and I’d have to handcode that crap.
-<pI used to have this 
-…
-The Double Emphasis Thing originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
