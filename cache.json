@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44693",
+          "author": "青小蛙",
+          "description": "bilinfo 是一款能够对下载回来的 B 站视频进行刮削的 Windows 工具。适合 B 站重度用户和松鼠症患者，并且经常会看到收藏夹里众多失效视频的用户。@Appinn 来自发现频道，开发者 @",
+          "link": "https://www.appinn.com/bilinfo/",
+          "publishedOn": "2023-02-23T09:31:02.000Z",
+          "wordCount": 2407,
+          "title": "bilinfo – 管理下载的本地 B 站视频，并刮削[Windows]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/bilinfo.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=44681",
+          "author": "青小蛙",
+          "description": "狐猴浏览器是一款安卓手机浏览器，支持来自 Chrome 和 Edge 扩展商店超 20 万扩展，拥有清爽的主页、独特的插件交互方式等，基于 Chromium 内核，注重隐私安全。@Appinn 来自发",
+          "link": "https://www.appinn.com/lemurbrowser/",
+          "publishedOn": "2023-02-23T06:02:37.000Z",
+          "wordCount": 2336,
+          "title": "狐猴浏览器 – 这可能是扩展最多最全的安卓浏览器",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/lemurbrowser.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44641",
           "author": "青小蛙",
           "description": "宠物小强模拟器是一款能够让人血脉偾张的桌面宠物工具，基于已淘汰的 Adobe AIR 平台，支持在 Windows 与 macOS 上使用，它模拟了🪳小强（蟑螂）在桌面上乱跑，真恶趣味啊。@Appin",
@@ -110,31 +130,6 @@
           "wordCount": 2638,
           "title": "WinFR界面版 – 基于微软官方命令行工具 Windows File Recovery 的误删除文件恢复工具",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/winfr-gui.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44626",
-          "author": "青小蛙",
-          "description": "ClipboardViewer 是一款可以查看 Windows 剪贴板原始内容的工具，简单易用，支持显示文本、System.String、HTML、Locale 等格式和内容。#真的没什么用。@App",
-          "link": "https://www.appinn.com/clipboardviewer/",
-          "publishedOn": "2023-02-14T08:53:11.000Z",
-          "wordCount": 2310,
-          "title": "ClipboardViewer – 剪贴板原始内容查看器[Windows]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/clipboardviewer.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44609",
-          "author": "青小蛙",
-          "description": "Parallels Desktop 18 年度精选 Mac 软件捆绑包又开始了，PD 官网今年的活动是这样的：买 Parallels Desktop 18，送 14 款 Mac 软件，包括：Snagi",
-          "link": "https://www.appinn.com/parallels-desktop-18-promo-mac-app-bundle/",
-          "publishedOn": "2023-02-14T02:11:31.000Z",
-          "wordCount": null,
-          "title": "买 1 送 14，Parallels Desktop 18 年度精选 Mac 软件捆绑包：Snagit、PDF Expert、Fantastical、MindManager 等",
-          "enclosure": {
-            "url": "https://www.parallels.cn/static/pl/fileadmin/res/video/pd/pd18/pd-seamless.mp4",
-            "length": "594490",
-            "type": "video/mp4"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -142,18 +137,7 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=376991",
-          "author": "Frederik Dohr",
-          "description": "We’re fans of Custom Elements around here. Their design makes them particularly amenable to lazy loading, which can be a boon for performance.\nInspired by a colleague’s experiments, I recently set about writing a simple auto-loader: Whenever a custom …\nAn Approach to Lazy Loading Custom Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/an-approach-to-lazy-loading-custom-elements/",
-          "publishedOn": "2023-02-13T15:10:41.000Z",
-          "wordCount": 1617,
-          "title": "An Approach to Lazy Loading Custom Elements",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376991"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",
@@ -194,6 +178,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74221",
+          "author": null,
+          "description": "今天的搜索引擎首先需要构建一个庞大 Web 索引，用户搜索时对索引条目进行扫描、排序和分类，最相关条目出现在搜索结果中。整个搜索过程通常不需要一秒钟。相比之下，AI 聊天机器人 ChatGPT 搜索时需要启动一个庞大的神经网络模型，产生文本，可能还需要利用搜索引擎核查事实信息。整个过程要漫长得多，花费也更多。分析师估计，大语言模型的搜索成本可能是关键词搜索的 10 倍以上，意味着数十亿美元的额外成本。如果 Google 提供了 ChatGPT 式搜索它的成本每年将增加 60 亿美元。",
+          "link": "https://www.solidot.org/story?sid=74221",
+          "publishedOn": "2023-02-23T15:50:17.000Z",
+          "wordCount": 174,
+          "title": "ChatGPT 式搜索对 Google 微软而言意味着成本增加 10 倍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74220",
+          "author": null,
+          "description": "新冠疫情改变了美国的办公场所。在家远程办公的比例从 2019 年 1 月的 4.7% 飙升到 2020 年 5 月的 61%。\n这一现象被誉为美国自二战以来劳动力市场最大的变化。但从 2021 年开始，雇主们又开始要求员工重返办公室。此举遭到了员工们的抵制，远程办公的比例维持在三成左右。但大部分人还是回到了办公室。许多工作如餐饮和零售业、工厂和仓库工人、调酒师和农民等从未存在远程办公之说。斯坦福大学的经济学家 Nicholas Bloom 指出，美国 55% 的工作是无法在家里完成的，即使人们想在家里办公他们也做不到。有 13% 的工作则完全可以在家里完成，包括 IT、合同工和电话客服等等。其余 30% 则是混合办公。",
+          "link": "https://www.solidot.org/story?sid=74220",
+          "publishedOn": "2023-02-23T14:07:06.000Z",
+          "wordCount": 165,
+          "title": "美国近三成的工作仍然是远程工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74219",
+          "author": null,
+          "description": "乌克兰数字部表示，它将请求 Steam、微软和索尼从其平台的乌克兰区移除俄罗斯人资助的游戏《原子之心》。《原子之心》本周二发售，故事发生在架空的苏联，天才科学家谢切诺夫发明了一种可编程液态物质“聚合物”，令苏联科技飞跃提升，机械和能源科技领先世界。苏联在二战战胜德国后，也开发出电脑网络系统“大集体”与植入式终端“思想”来控制机器人，并在一个叫“3826设施”的浮空工业园区来生产各式各样的机器人，令人类的生活变得更加便利。但在 1955 年，当谢切诺夫将“大集体”升级做“大集体2.0”的时候，3826 设施的机器人们突然发狂屠杀人类。玩家扮演代号为“P-3”的克格勃特工，在 3826 设施调查该事故的背后的阴谋。乌克兰数字部认为《原子之心》美化了苏联，其开发资金部分来自受制裁的俄罗斯企业家和银行。《原子之心》开发商 Mundfish 的总部位于塞浦路斯，在俄罗斯有办公室，其投资人包括了腾讯和 GEM Capital，其中 GEM 深度参与了俄罗斯能源市场。",
+          "link": "https://www.solidot.org/story?sid=74219",
+          "publishedOn": "2023-02-23T12:42:07.000Z",
+          "wordCount": 153,
+          "title": "乌克兰希望在该国禁止俄罗斯资助的游戏《原子之心》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74218",
+          "author": null,
+          "description": "阻碍量子处理器走向实用的一大挑战是它出错的概率是传统处理器的上万亿倍，而量子比特数越多通常错误率也越高。Google 现在在量子纠错上取得了进步：让错误率随量子比特数的增加而下降成为可能。它的下一代量子处理器 Sycamore 在量子比特数上与上一代相同，但性能有了改进。Google 研究人员在《自然》期刊上发表研究报告，描述了两种纠错的方法，其中一种的错误率比另一种下降了 0.11%。但目前的错误率仍然太高，我们还需要更长时间才会看到量子处理器展现出它优于经典处理器的地方。",
+          "link": "https://www.solidot.org/story?sid=74218",
+          "publishedOn": "2023-02-23T11:50:04.000Z",
+          "wordCount": 152,
+          "title": "Google 在量子纠错上取得进步",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74217",
+          "author": null,
+          "description": "Ubuntu 及其衍生发行版 Kubuntu 等联合宣布，计划在 2023 年 4 月释出的下一个版本 Lunar Lobster 默认移除对 Flatpak 格式的支持，以“改进新用户开箱即用的体验”。Flatpak 是与 Canonical 自家打包格式 Snap 竞争的格式， 默认不支持 Flatpak 意味着普通用户将只能使用 Snap 以及 Canonical 控制的应用商店。除了 Ubuntu 及其衍生发行版，很少有其它发行版使用 Snap。",
+          "link": "https://www.solidot.org/story?sid=74217",
+          "publishedOn": "2023-02-23T11:21:07.000Z",
+          "wordCount": 176,
+          "title": "Ubuntu 下一个版本默认不再支持 Flatpak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74216",
+          "author": null,
+          "description": "祝融号火星车于 2021 年 5 月 15 日登陆火星，它于 2022 年 5 月火星冬季期间进入休眠模式，原计划在 12 月前后恢复工作，但它至今没有苏醒。NASA 火星勘测轨道器（MRO）公布了祝融号在 2022 年 3 月 11 日、2022 年 9 月 8 日、2023 年 2 月 7 日的照片，显示其位置没有任何改变，且表面光谱变暗，表明车身被火星沙尘覆盖。中科院此前表示，当祝融号的太阳能电池有足够的能量进行操作时，它会自动唤醒。鉴于它唤醒的时间已经超出预测，加上火星环境险恶，而沙尘会严重影响到光电转换效率。祝融号恢复工作的可能性非常低。",
+          "link": "https://www.solidot.org/story?sid=74216",
+          "publishedOn": "2023-02-23T09:08:24.000Z",
+          "wordCount": 171,
+          "title": "祝融号火星车可能接近死亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74215",
+          "author": null,
+          "description": "根据美国疾控中心（CDC）的青少年危险行为调查（Youth Risk Behavior Survey），53% 的年轻女孩说她们经历了持久性的悲伤或绝望，这一数据比 2011 年的 36% 有大幅提高；30% 的女孩表示她们认真考虑过自杀，相比下 2011 年是 19%。年轻男孩的比例没有这么高，但他们的忧郁及焦虑也有所增加。新冠不是造成这一趋势的主因，社交媒体被认为才是少女精神疾病的主因。今天绝大部分的社交生活是经过智能手机和社交媒体，即便有人想退出社交媒体，由于她们的朋友都使用社媒，退出的人会在社交中孤立起来。",
+          "link": "https://www.solidot.org/story?sid=74215",
+          "publishedOn": "2023-02-23T08:48:28.000Z",
+          "wordCount": 153,
+          "title": "社交媒体是少女精神疾病的主因",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74214",
+          "author": null,
+          "description": "斑马身上的独特黑白条纹能防止马蝇叮咬，但哪一种条纹最有效？科学家做了个实验，给马披上不同图案的条纹，然后观察马蝇叮咬的情况。他们发现，马蝇会被环境中大型暗色物体所吸引，黑白对比鲜明的条纹则缺乏吸引力。研究团队没有发现偏振或光学错觉影响马蝇叮咬物体的证据。他们推测，斑马的条纹模式将对马蝇具有吸引力的局部特征的大小降至了最低。研究报告发表在《Journal of Experimental Biology》期刊上。",
+          "link": "https://www.solidot.org/story?sid=74214",
+          "publishedOn": "2023-02-23T06:58:21.000Z",
+          "wordCount": 144,
+          "title": "斑马的条纹如何阻止马蝇叮咬",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74213",
+          "author": null,
+          "description": "与大多数哺乳动物不同，雌性裸鼹鼠一生都会发育出新卵子——这一发现或有助于解决人类不孕不育问题。研究报告发表于《自然-通讯》。原产于东非的裸鼹鼠寿命长达 37 年。它们生活在地下，有着与蜜蜂相似的社会结构，包括一只一生都能生育后代的女王。相比之下，老鼠只能活 4 年左右，当它们 9 个月大时，生育能力就开始下降。研究人员分别在裸鼹鼠 1、5、8、15、28 和 90 天大时，用显微镜观察了它们的卵巢。在人类、小鼠和其他哺乳动物中，卵子只在出生前产生。而在一些物种中，卵子会在出生后不久产生且供应量有限。随着时间推移，这些卵子逐渐死亡，导致生育能力随着年龄增长而降低。但在裸鼹鼠身上，研究人员测试的每个生命阶段都发现了大量生殖细胞。",
+          "link": "https://www.solidot.org/story?sid=74213",
+          "publishedOn": "2023-02-23T06:22:44.000Z",
+          "wordCount": 152,
+          "title": "雌性裸鼹鼠一生都能供应卵子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74212",
+          "author": null,
+          "description": "韩国统计厅发布的一份报告显示，该国 2022 年总和生育率（育龄女性平均生育子女数）较前一年下降 0.03，为 0.78，创下 1970 年相关统计以来最低值。在经合组织（OECD）成员国中，韩国总和生育率从 2013 年起连续 10 年排名垫底。以 2020 年数据为准，韩国也是总和生育率低于 1 的唯一一个国家。据悲观预期，韩国总和生育率恐将于 2025 年降至 0.61。据低生育老龄社会委员会数据，政府从 2006 年至 2021 年投入的低生育相关预算共达 280 万亿韩元，但迄今未能有效提高生育率。难以兼顾工作和育儿、教育费负担较大是造成低生育的主要原因，婚姻登记减少和婚龄推迟也导致生育率下滑。",
+          "link": "https://www.solidot.org/story?sid=74212",
+          "publishedOn": "2023-02-23T06:05:09.000Z",
+          "wordCount": 168,
+          "title": "韩国去年的总和生育率为 0.78",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74211",
+          "author": null,
+          "description": "摩根大通公司限制员工使用 AI 聊天机器人 ChatGPT。知情人士表示，这一决定不是因为任何特定事件而进行限制，而是作为对第三方软件使用进行控制一部分。目前不知道摩根大通有多少员工在使用 ChatGPT。分析师认为银行可能是担心员工与 ChatGPT 分享了机密或私有信息。ChatGPT 在很多方面表现出色，但它给出的答案未必正确。",
+          "link": "https://www.solidot.org/story?sid=74211",
+          "publishedOn": "2023-02-23T06:02:05.000Z",
+          "wordCount": 152,
+          "title": "摩根大通限制员工使用 ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74210",
+          "author": null,
+          "description": "Google Code Jam 国际编程竞赛将在举办二十年后结束，今年 4 月 15 日的比赛将是最后一届，采用线上比赛，自 2020 年以来，因新冠疫情比赛改为线上举办。Code Jam 始于 2003 年，比赛内容包括一系列的算法问题，参赛者必须在指定时间内解决。参赛者允许使用任意自选编程语言和开发环境来解答问题，奖金最高为 1 万美元。过去二十年，中国的楼天城（两次）和白俄的 Gennady Korotkevich（八次） 多次获得了冠军，按国家统计，白俄最多赢得了 9 次冠军，中国第二 3 次，俄罗斯 2 次，波兰 2 次。",
+          "link": "https://www.solidot.org/story?sid=74210",
+          "publishedOn": "2023-02-23T05:34:53.000Z",
+          "wordCount": 183,
+          "title": "Google 将举办最后一届 Code Jam 编程竞赛",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74209",
           "author": null,
@@ -933,136 +1037,6 @@
           "wordCount": 167,
           "title": "印度税务官员突击搜查 BBC 印度办事处",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74133",
-          "author": null,
-          "description": "CDN 服务商 Cloudflare 披露了发生在周末的一次流量创记录的 DDoS 攻击，在峰值期间攻击流量每秒请求数超过了 7100 万。这是有记录以来规模最大的 HTTP DDoS 攻击，比之前的记录每秒请求数 4600 万高 35%。攻击源头来自逾 3 万 IP 地址，被攻击的网站包括游戏服务商、加密货币公司、托管服务商和云计算平台。Cloudflare 称，过去一年 DDoS 攻击频率在显著增加，HTTP DDoS 攻击年度增加 79%，规模超过 100 Gbps 的攻击次数季度增加 67%，持续时间超过 3 小时的攻击次数季度增加 87%。勒索性质的  DDoS 攻击也有显著增加。",
-          "link": "https://www.solidot.org/story?sid=74133",
-          "publishedOn": "2023-02-14T14:08:12.000Z",
-          "wordCount": 178,
-          "title": "DDoS 攻击频率在增加",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74132",
-          "author": null,
-          "description": "首都医科大学的科学家在《JOURNAL OF ALZHEIMERS DISEASE》期刊上报告了最年轻的阿尔茨海默病例。阿尔茨海默病（AD）是一种神经退行性疾病，主要发生在老年人身上，因此被称为老年痴呆症。2020 年的普查显示，我国现有 5000 多万认知障碍患者，其中 AD 患者高达 1000 万。科学家报告的最新病例只有 19 岁，是至今最年轻的 AD 病例。患者从 17 岁时开始出现注意力难以集中的症状，一年后短期记忆丧失明显，例如时常丢失个人物品，忘记当天吃没吃饭，而且阅读困难，反应迟缓，无法完成规定的课业任务。最终，由于记忆力严重下降，患者的学习成绩从班级中上游滑落到了末位，不得不从高中退学。患者头部核磁共振扫描显示双侧海马存在与青少年不相称的萎缩。",
-          "link": "https://www.solidot.org/story?sid=74132",
-          "publishedOn": "2023-02-14T10:09:09.000Z",
-          "wordCount": 159,
-          "title": "中国科学家报告最年轻的痴呆症病例",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74131",
-          "author": null,
-          "description": "微软宣布它的 Windows Subsystem for Linux（WSL）子系统开始支持 GPU 视频加速。微软称该功能是基于现有的  Mesa 3D D3D12 后端，集成 VAAPI mesa 前端。Linux 媒体应用能使用 VAAPI 接口访问硬件视频加速。微软表示，支持 GPU 视频加速需要 WSL 版本 1.1.0 或更新版本，WSL 需要启用 systemd。",
-          "link": "https://www.solidot.org/story?sid=74131",
-          "publishedOn": "2023-02-14T09:52:59.000Z",
-          "wordCount": 178,
-          "title": "WSL 开始支持 GPU 视频加速",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74130",
-          "author": null,
-          "description": "一天中不同时间的体育活动会以不同的方式影响身体，因为生物过程取决于细胞的昼夜节律。为了确定一天中锻炼的时间是如何影响脂肪燃烧的，研究人员在每天周期的两个时间点进行高强度锻炼后，研究了小鼠的脂肪组织，这两个时间点是早期活动阶段和早期休息阶段(分别对应于人类的上午晚些时候和晚上晚些时候)。研究人员发现，在早期活动阶段的体育活动增加了与脂肪组织分解、产热(产热)和脂肪组织中线粒体有关的基因的表达，表明更高的代谢率。这些影响仅在活动早期运动的小鼠身上观察到，与食物摄入量无关。",
-          "link": "https://www.solidot.org/story?sid=74130",
-          "publishedOn": "2023-02-14T08:51:35.000Z",
-          "wordCount": 143,
-          "title": "小鼠研究显示早晨锻炼的新陈代谢更快",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74129",
-          "author": null,
-          "description": "日本政府内阁采纳了“最大限度利用”核电的新政策。福岛核事故后，政府曾提出降低对核电的依赖，但在乌克兰危机导致能源资源采购环境恶化等背景下，将大幅调整能源政策。福岛核事故后规定“原则上 40 年、最长 60 年”的核电站运转年限，今后除去为重启而进行审查导致停运的时间外，核电站可以运转超过 60 年。",
-          "link": "https://www.solidot.org/story?sid=74129",
-          "publishedOn": "2023-02-14T07:34:14.000Z",
-          "wordCount": 156,
-          "title": "日本允许核电站运转年限超过 60 年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74128",
-          "author": null,
-          "description": "中国音像与数字协会发布的《2022年中国游戏出海情况报告》显示，2022 年全球游戏市场规模约人民币 11107.6 亿元，同比下降 6.96%，其中全球移动游戏市场规模约 5945.19 亿元，同比下降 10.26%。出海方面，去年中国自主研发游戏在海外市场的实际销售收入 173.46 亿美元，同比下降 3.7%，为 2018 年来首次出现下降。2022 年中国移动游戏的出海游戏收入前三名国家分别为美国、日本以及韩国，收入占比为 32.31%、17.12%、6.97%。",
-          "link": "https://www.solidot.org/story?sid=74128",
-          "publishedOn": "2023-02-14T07:22:35.000Z",
-          "wordCount": 156,
-          "title": "中国游戏海外收入五年来首次下滑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74127",
-          "author": null,
-          "description": "英国竞争与市场管理局（CMA）对微软收购动视暴雪的初步报告披露，微软承认其游戏订阅服务 Game Pass 冲击了相关游戏的销量。微软递交的内部分析显示，游戏进入 Game Pass 12 个月内销量下降[]%（具体数字未披露）。这一结果显然与 XBox 主管 Phil Spencer 在 2018 年做出的订阅服务促进游戏销量的说法相反。报告还披露动视暴雪不愿意将旗下游戏加入到任何平台的订阅服务，认为会严重影响销量，尤其是新作的销量。",
-          "link": "https://www.solidot.org/story?sid=74127",
-          "publishedOn": "2023-02-14T07:04:33.000Z",
-          "wordCount": 156,
-          "title": "微软证实其订阅服务影响了游戏销量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74126",
-          "author": null,
-          "description": "北京市经济和信息化局发布了《2022年北京人工智能产业发展白皮书》，提出支持头部企业打造对标 ChatGPT 的大模型。《白皮书》称，截至 2022 年 10 月，北京拥有人工智能核心企业 1048 家，占我国人工智能核心企业总量的 29%，数量位列全国第一。北京人工智能领域核心技术人才超 4 万人，占全国的 60%。人工智能论文发表量居全国第一。在专利授权数量全球排名前 100 的机构中，北京总部机构 30 家。智源“悟道2.0”，成为全球最大智能模型，参数规模达到 1.75 万亿。百度“文心”大模型参数规模达到 2600 亿，是目前全球最大中文单体模型。",
-          "link": "https://www.solidot.org/story?sid=74126",
-          "publishedOn": "2023-02-14T06:26:28.000Z",
-          "wordCount": 170,
-          "title": "北京支持头部企业打造对标 ChatGPT 的大模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74125",
-          "author": null,
-          "description": "美国政府去年逮捕了 Z-Library 团队的主要成员，试图杀死这个互联网上最大的盗版图书馆。但 Z-Library 仍然在暗网活跃着。上周它又开始现身“明网”，并推出了一个独特的域名系统让封锁更困难。Z-Library 团队在宣布回归时表示，用户现在可以用自己的账号登陆 singlelogin.me，登陆之后会被重定向到一个私密域名，不要公开该私密域名，这个域名只有你能访问，其他用户无法访问。Z-Library 团队承诺会认真对待书籍作者的侵权投诉。",
-          "link": "https://www.solidot.org/story?sid=74125",
-          "publishedOn": "2023-02-14T06:17:07.000Z",
-          "wordCount": 153,
-          "title": "Z-Library 回归，推出私密域名",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74124",
-          "author": null,
-          "description": "Google 迅速对 ChatGPT 做出了反应，它上周宣布了自己的 AI 聊天机器人 Bard。但适得其反的是它的股价上周内下跌了近 12%，市值蒸发了逾千亿美元。Google 的 Bard 演示广告被发现存在事实性错误，公司员工在内部也公开抨击 CEO Sundar Pichai 短视。员工在内部论坛 Memegen 上写道，Bard 的发布和裁员是仓促的、笨拙的和短视的。另一个帖子认为 Pichai 和他的领导层都应该被评为“需要改进”的最低绩效排名。Google 原计划是在上周三宣布 Bard，但因为微软开始内测整合 ChatGPT 的“新必应”，它匆忙的提前两天宣布了 Bar。员工认为 Google 在恐慌中匆忙的举行发布会证实了市场对该公司的担忧。更令 Google 感到尴尬的可能是 ChatGPT 使用的技术其实是它发明的——ChatGPT 中的 GPT 代表 Generative Pre-trained Transformer，其中 Transformer 是 Google Brain 团队在 2017 年发明和开源的神经网络架构，Google 认为该架构非常适合语言理解，但它从未用 Transformer 开发出产品。",
-          "link": "https://www.solidot.org/story?sid=74124",
-          "publishedOn": "2023-02-14T05:48:40.000Z",
-          "wordCount": 212,
-          "title": "Google 员工内部批评 CEO 对 ChatGPT 的反应太极端",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74123",
-          "author": null,
-          "description": "无论有没有跟随 Twitter 的新老板，你都将会看到马斯克（Elon Musk）的一举一动。Twitter 用户注意到，从本周一下午开始“For You”的时间线和以前有了显著差异，马斯克的推文出现了最前面。在发生这一切的前几天，马斯克抱怨他的推文浏览量太少，并为此解雇了一名工程师。马斯克周末称，Twitter 释出了部分改动以修正“能见度”问题。这位亿万富翁称他的 95% 的推文没有“传达”。",
-          "link": "https://www.solidot.org/story?sid=74123",
-          "publishedOn": "2023-02-14T04:38:46.000Z",
-          "wordCount": 154,
-          "title": "Twitter 开始向所有人展示马斯克的推文",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74122",
-          "author": null,
-          "description": "丰田正在召回 16,680 辆 2021 年款混动汽车 RAV4 Primes，以修复可能导致牵引电池过度放电的软件 bug，该  bug 最终会导致混动系统关闭。该问题主要在寒冷天气下发生。当 RAV4 Primes 只用电池不使用内燃机的情况下行驶，快速踩下踏板加速，电池有可能降到特定阈值下。如果发生这种情况，汽车会显示错误信息，混动系统将关闭，汽车将失去动力。",
-          "link": "https://www.solidot.org/story?sid=74122",
-          "publishedOn": "2023-02-13T15:39:57.000Z",
-          "wordCount": 170,
-          "title": "丰田因电池软件故障召回 2021 年款 RAV4 Prime",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74121",
-          "author": null,
-          "description": "科技巨头们在生成式 AI 领域展开激烈的竞争，微软和 Google 都计划在搜索引擎中整合 AI，索引和搜索互联网都需要大量资源，但 AI 所需要的资源将会高出几个数量级。英国  Surrey 大学网络安全教授 Alan Woodward 称，这需要处理能力、储存和有效检索。训练大语言模型（LLM）如 ChatGPT 使用的 GPT-3.5 和 Google 的 Bard 使用的相似模型，都需要大量的算力。OpenAI 和 Google 都没有透露使用的算力，第三方分析估计训练 GPT-3 消耗了 1287 MWh，释放出了 550 吨二氧化碳，再加上执行搜索和服务百万用户所需的能耗，排放还会更高。",
-          "link": "https://www.solidot.org/story?sid=74121",
-          "publishedOn": "2023-02-13T15:19:03.000Z",
-          "wordCount": 179,
-          "title": "生成式 AI 的能耗和碳排放",
-          "imageUrl": null
         }
       ]
     },
@@ -1070,18 +1044,7 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com",
-      "articles": [
-        {
-          "id": "https://humanwhocodes.com/blog/2023/02/astro-jekyll-blog-year-archive/",
-          "author": "Nicholas C. Zakas",
-          "description": "While not included in their default blog template, it is straightforward to create a year-based archive for your posts in Astro.",
-          "link": "https://humanwhocodes.com/blog/2023/02/astro-jekyll-blog-year-archive/",
-          "publishedOn": "2023-02-14T00:00:00.000Z",
-          "wordCount": 1008,
-          "title": "Creating a Jekyll-style blog post year archive in Astro",
-          "imageUrl": "https://humanwhocodes.com/favicon.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "宁南山 - 知乎动态",
