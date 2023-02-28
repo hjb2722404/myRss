@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44723",
+          "author": "青小蛙",
+          "description": "Lively Wallpaper 是一款开源的 Windows 动态壁纸工具，近日新增音乐壁纸功能，桌面上会增加一个小电视，并实时显示当前播放的音乐信息，支持 SPotify、foobar2000、原",
+          "link": "https://www.appinn.com/lively-wallpaper-music/",
+          "publishedOn": "2023-02-27T10:07:44.000Z",
+          "wordCount": 2366,
+          "title": "Lively Wallpaper 音乐壁纸：用小电视，显示当前播放的音乐[Windows]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/lively-wallpaper-music.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=44717",
+          "author": "青小蛙",
+          "description": "傲梅轻松备份（AOMEI Backupper）是一款十分著名的 Windows 备份工具，由位于成都的开发商开发，其国际版本近日发布了 7.2 版本，新增 Microsoft Outlook 备份功能",
+          "link": "https://www.appinn.com/aomei-backupper-7-2/",
+          "publishedOn": "2023-02-27T05:01:30.000Z",
+          "wordCount": 2364,
+          "title": "傲梅轻松备份 7.2 版本发布，新增 Microsoft Outlook 备份",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/aomei-backupper.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44708",
           "author": "青小蛙",
           "description": "Immich 是一个直接从 iPhone、Android 手机上备份照片与视频的开源解决方案，通过部署在自己的电脑、NAS、服务器中，使用 App 进行备份。界面酷似 Google Photos，支持",
@@ -152,6 +172,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10719",
+          "author": "张 鑫旭",
+          "description": "突发奇想给自己想了个需求， 抽时间研究并实现了下，作为日后的技术储备，等待厚积薄发。",
+          "link": "https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/",
+          "publishedOn": "2023-02-27T14:03:05.000Z",
+          "wordCount": 1004,
+          "title": "任意两个点的曲线连接JS算法",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10728",
           "author": "张 鑫旭",
           "description": "介绍7个全新的CSS颜色函数，虽然不算特别深入，但也算是CSS颜色这块比较有含金量的介绍文章了，里面全部都是以前不知道的知识，不得不感叹，颜色这东西，若要深究，怕是比贝加尔湖还要深。",
@@ -168,6 +198,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74249",
+          "author": null,
+          "description": "Valve 的 Linux 掌机 Steam Deck 于 2022 年 2 月 25 日上市，至今一周年，它将 Linux 游戏体验带到了普通玩家手中。上市之初，Steam Deck 需要预约排队购买，但到年底，供应问题基本解决，大部分地区的用户可以现货购买。截至今年 2 月 26 日，Steam 平台有近 8000 款游戏可以在掌机上游戏，其中 3000 款获得已验证标签，其中包括过去一个月发售的热门作品如《Hi-Fi Rush》、《Spiderman Miles Morales》、《Hogwarts Legacy》和《Dead Space Remake》等。 Steam Deck 的诞生改变了 PC 玩家的游戏习惯，玩家现在投入了很多时间在掌机上玩游戏。它是 Valve 至今最成功的硬件产品。",
+          "link": "https://www.solidot.org/story?sid=74249",
+          "publishedOn": "2023-02-27T13:53:11.000Z",
+          "wordCount": 187,
+          "title": "Steam Deck 发售一周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74248",
+          "author": null,
+          "description": "Meta 上周宣布了一个新的大语言模型 LLaMA-13B，称其参数规模更小但性能强于 OpenAI 的 GPT-3 模型，且它能运行在单张显卡上。LLaMA 语言模型的规模在从 70 亿到 650 亿参数，而 OpenAI GPT-3 模型有 1750 亿个参数。Meta 使用 Common Crawl、维基百科和 C4 等公开数据集训练其模型，它有可能公开其源代码和权重。今天绝大部分最先进的语言模型都没有公开源代码。Meta 称 LLaMA 为其基础模型，它将是未来该公司更先进模型的基础。它的 LLaMA-13B 模型在 BoolQ、PIQA、SIQA、HellaSwag、WinoGrande、ARC 和 OpenBookQA 等标准测试中的表现超过了 GPT-3。GPT-3 等衍生模型需要数据中心规模的计算能力进行处理，而 LLaMA-13B 能运行在单张显卡上，为在消费者硬件上实现类似 ChatGPT 的性能打开了大门。",
+          "link": "https://www.solidot.org/story?sid=74248",
+          "publishedOn": "2023-02-27T13:01:47.000Z",
+          "wordCount": 183,
+          "title": "Meta 新语言模型能运行在单张显卡上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74247",
+          "author": null,
+          "description": "苹果去年发售 iPhone 14 时推出了基于卫星的紧急呼救功能，该功能目前仅对部分国家开放。此后 Android 手机厂商也在尝试推出类似的功能。预计今年下半年发布的 Android 14 也将内置部分卫星支持功能。但到目前为止，还没有企业真正开始将卫星消息服务带给普通大众。现在，英国公司 Bullitt 与摩托罗拉合作，将推出一整套端到端解决方案，为 Android 用户提供卫星通信功能。它将发布 Bullitt Satellite Connect 服务，Bullitt Satellite Messenger 应用，以及支持卫星连接的 Cat S75 智能手机，另一款摩托罗拉品牌的卫星消息手机 Motorola Defy 2，卫星消息服务热点 Motorola Defy Satellite Link。卫星消息服务的起售价为每月 5 美元。Motorola Defy 2 售价 599 美元，预计二季度上市。",
+          "link": "https://www.solidot.org/story?sid=74247",
+          "publishedOn": "2023-02-27T12:26:17.000Z",
+          "wordCount": 185,
+          "title": "摩托罗拉将月费 5 美元的卫星消息服务带给所有用户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74246",
+          "author": null,
+          "description": "根据最新分析，若日美欧和中国等二十国集团（G20）不采取新措施，2050 年塑料消费量将达到 2019 年的 1.7 倍，可能导致严重的海洋污染。结果还显示，即便加强禁用部分塑料制品或征税等措施，2050 年消费量也将增至 2019 年的 1.2 倍。研究团队以 G20 各国塑料消费量和人口等数据为基础，通过计算机建模对 3 项政策的效果进行估算。分别为（1）禁用部分一次性塑料制品（2）向以石油为原料的塑料制品征税（3）彻底做好要求制品厂商负担废弃物处理等费用的“扩大生产者责任”。若不采取新措施，2019 年 2.61 亿吨的消费量到 2050 年将增至 4.51 亿吨。即便考虑各种限制措施，到 2050 年消费量也将达到 3.25 亿吨，增势或难以停歇。",
+          "link": "https://www.solidot.org/story?sid=74246",
+          "publishedOn": "2023-02-27T11:40:34.000Z",
+          "wordCount": 170,
+          "title": "2050 年全球塑料消费量预计将增加七成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74245",
+          "author": null,
+          "description": "当今社会中，不孕不育是一个日益严重的问题，由多种复杂因素介导。大约 40% 的不孕不育案例根源在于男性精子数量、质量以及性功能等方面的问题。其中精子数量和质量被认为是男性不育率不断上升的主要驱动因素。旨在探讨环境化学物质暴露和不同生活方式如何影响生殖健康的大型研究——环境与生殖健康研究（EARTH）的一项分析发现，在 2000 年至 2017 年间接受不育治疗的男性中，精子数量与质量下降了 42% 之多。在最新研究中，研究人员分析了 377 名在生育中心寻求治疗的不育男性，发现与体力工作较少的男性相比，经常在工作中举起或移动重物的男性精子浓度高 46%、精子总数高 44%。进行更多体力活动的男性还具有较高水平的男性性激素睾酮以及雌激素。",
+          "link": "https://www.solidot.org/story?sid=74245",
+          "publishedOn": "2023-02-27T10:02:22.000Z",
+          "wordCount": 154,
+          "title": "研究称男性体力劳动者的精子数更多",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74244",
+          "author": null,
+          "description": "根据 Google 子公司 Mandiant 的报告，勒索软件黑帮在过去的一年里不太成功。Mandiant 响应的勒索软件事件减少了 15%。而勒索软件组织索要的赎金平均金额下降了 28%，从一年前的 570 万美元减少到 410 万美元。另一家安全公司 CrowdStrike 认为原因包括勒索软件黑帮的成员遭到逮捕，比特币等加密货币的币值下降，等等。根据 Chainalysis 的分析，2022 年勒索软件组织的总收入从 2021 年的 7.656 亿美元下降到 2022 年的大约 4.568 亿美元，下降了 40.3%。受害者支付赎金的概率也在下降。这种情况导致了勒索软件组织也发生了裁员事件，有报道称前勒索软件组织 Conti 的成员解雇了 45 名客服。这些客服是实施网络骗局的一部分。",
+          "link": "https://www.solidot.org/story?sid=74244",
+          "publishedOn": "2023-02-27T09:55:41.000Z",
+          "wordCount": 174,
+          "title": "2022 年勒索软件攻击频率和勒索金额下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74243",
+          "author": null,
+          "description": "龙芯最初是基于 MIPS 指令集架构，但最近切换到了名为 LoongArch 的自研架构。新的指令集架构保留了大量 MIPS 的语义，但使用了不兼容的编码，它的扩展支持也更好。LoongArch 的 LSX 和 LASX 向量扩展就是其中的典型例子。LSX 类似 x86 架构的 SSE，有 128 位向量寄存器和相应指令。LASX 类似 AVX2，都是 256 位向量扩展。与 SSE 和 AVX2 不同的是，LSX 和 LASX 没有公开的文档。但龙芯的 Linux 系统 Loongnix 提供了 LSX/LASX 工具链，让外界有机会更深入的了解这些向量扩展。",
+          "link": "https://www.solidot.org/story?sid=74243",
+          "publishedOn": "2023-02-27T08:04:53.000Z",
+          "wordCount": 192,
+          "title": "龙芯的 LSX 和 LASX 向量扩展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74242",
+          "author": null,
+          "description": "Resumebuilder.com 调查了 1000 名计划使用或已经使用 ChatGPT 的企业领导人，发现近半数企业部署了 ChatGPT，部分企业还表示已经开始用 ChatGPT 取代员工。企业高管谈论了 ChatGPT 的用途，其中 66% 用于写代码，58% 用于文案和内容创作，57% 用于客户支持，52% 用于写会议摘要和其它文档。在招聘过程中，使用 ChatGPT 的企业还有 77% 用它撰写工作职位描述、66% 用它起草面试申请书，65% 回应求职书。大部分企业领导人对 ChatGPT 的表现印象深刻，55% 的人认为工作质量“出色”，34% 的人认为“非常好”。几乎所有使用 ChatGPT 的公司表示节省了资金，48% 表示节省逾 50,000 美元，11% 表示节省逾 100,000 美元。这些企业中 93% 还计划扩大对 ChatGPT 的使用。",
+          "link": "https://www.solidot.org/story?sid=74242",
+          "publishedOn": "2023-02-27T07:05:08.000Z",
+          "wordCount": 189,
+          "title": "调查称部分企业开始用 ChatGPT 取代员工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74241",
+          "author": null,
+          "description": "开源云数据平台公司 Aiven 分析了 GitHub 代码项目，发现最主要的代码贡献者来自于 AWS、英特尔、Red Hat、Google 和微软等科技公司。Aiven 根据贡献者的数量、贡献者的项目以及递交数量三个指标进行分析，结果是微软和 Google 并列第一，Red Hat 第三，英特尔第四，之后是 AWS 和 IBM。在 2022 年第四季度，微软开发者递交的代码数量最多为 128,247，Red Hat 第二 125,012，Google 只有 94,961。而 Google 参与开源项目的人数最多有 5,757 人，微软 5,513 人，Red Hat 3,656 人。对 Linux Kernel 5.16 到 6.1 时代码作者的分析有类似的发现，开发者主要来自 AMD（主要是驱动代码多）、英特尔、Google、Linaro、主要的 Arm Linux 开发组织，Meta 和 Red Hat 等企业，只有 7.5% 的内核开发来自个人开发者。",
+          "link": "https://www.solidot.org/story?sid=74241",
+          "publishedOn": "2023-02-27T06:11:54.000Z",
+          "wordCount": 193,
+          "title": "Linux 和开源软件由谁开发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74240",
+          "author": null,
+          "description": "Twitter 上周三突然关闭了内部使用的 Slack 频道，员工失去了 Slack 访问。一时传闻四起，有 Twitter 员工在 Blind 上匿名发帖时猜测是因为公司停止向 Slack 付钱。Twitter 员工也失去了跟踪软件 Jira 的访问。Twitter 告诉员工 Slack 频道关闭是“例行维护”，然而 Slack 员工反驳说“胡扯”，不存在所谓的“例行维护”。Slack 发言人证实该公司与 Twitter 频道关闭无关。为什么 Slack 频道被关闭？可能是  Twitter CEO Elon Musk 寻找更多削减成本的方法或测试其它内部沟通工具。",
+          "link": "https://www.solidot.org/story?sid=74240",
+          "publishedOn": "2023-02-27T05:33:03.000Z",
+          "wordCount": 182,
+          "title": "Twitter 突然关闭内部使用的 Slack 频道",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74239",
+          "author": null,
+          "description": "日本研究团队发表研究成果称，探测器“隼鸟2号”在小行星“龙宫”采集的沙粒样本中含有约 2 万种有机化合物。其中至少有 20 种是氨基酸，以及蛋白质构成材料。有学说认为氨基酸是被太空飞来的陨石带到地球，此次成果有利于佐证该学说。样本中的氨基酸与地球上的氨基酸特点不同。氨基酸存在两种构型，其关系如同人的左右手。地球的生命几乎只利用了其中之一，但样本中的 20 种氨基酸中约有 5 种以两种构型 1 比 1 的比例存在。",
+          "link": "https://www.solidot.org/story?sid=74239",
+          "publishedOn": "2023-02-27T04:28:35.000Z",
+          "wordCount": 155,
+          "title": "龙宫沙粒样本富含数万种有机化合物",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74238",
           "author": null,
@@ -826,46 +966,6 @@
           "publishedOn": "2023-02-18T15:35:26.000Z",
           "wordCount": 180,
           "title": "NASA 和开源软件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74172",
-          "author": null,
-          "description": "Google 向苹果和三星等设备厂商支付了数十亿美元以将其设为默认搜索引擎，现在 Google 还被发现与苹果分享了用户在 iOS 上使用 Chrome 浏览器搜索时产生的广告收入。英国竞争监管机构竞争市场管理局（CMA）担心，如此丰厚的条件让苹果不愿意与 Google 竞争。这或许解释了虽然苹果财力雄厚却没有推出与 Google 竞争的搜索引擎，也没有加大投资 Safari 浏览器以成为 Chrome 的强有力挑战者。根据 2021 年 12 月 27 日提起的反垄断诉讼，苹果不需要付出什么代价就获得了与 Google 展开竞争可能带来的利润。Google 一半的搜索流量是通过苹果设备完成的，因此苹果公司是搜索巨人的一个潜在威胁，Google 通过向苹果支付数十亿美元并分享搜索广告收入，从而消除了这一潜在威胁。Google 向苹果支付的费用从早期的10 亿美元增加到了 2021 年的 150 亿美元。根据反垄断法，这种市场划分的做法是非法的。",
-          "link": "https://www.solidot.org/story?sid=74172",
-          "publishedOn": "2023-02-18T14:35:47.000Z",
-          "wordCount": 188,
-          "title": "Google 与苹果分享 Chrome iOS 搜索广告收入",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74171",
-          "author": null,
-          "description": "Twitter 宣布了一项安全政策改动，从即日起基于短信的 2FA 身份验证仅限于付费订阅用户 Twitter Blue。Twitter 的理由是基于短信的 2FA 遭到了恶意用户的滥用，但真实理由很可能是为了省掉一点钱。Twitter 表示将给非 Twitter Blue 30 天时间迁移到另一种 2FA 方法，3 月 20 日之后将不再允许非订阅用户使用基于短信的 2FA。",
-          "link": "https://www.solidot.org/story?sid=74171",
-          "publishedOn": "2023-02-18T12:44:26.000Z",
-          "wordCount": 172,
-          "title": "Twitter 宣布基于短信的 2FA 身份验证仅限于付费用户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74170",
-          "author": null,
-          "description": "Web 托管巨头 GoDaddy 证实它遭到了持续多年的入侵，源代码失窃服务器也被安装恶意程序。GoDaddy 是在去年 12 月初收到客户报告其网站被重定向到随机域名后发现未知攻击者入侵了它的 cPanel 共享托管环境。它的调查显示攻击者在它的服务器上活跃了多年，近几年披露的多起安全事故都与此相关。黑客在它的服务器上安装了恶意程序，还窃取到部分服务相关的源代码。它在 2021 年 11 月和 2020 年 3 月披露的安全事件都与此相关。其中 2021 年 11 月的事件影响到了它管理的 120 万 WordPress 客户，攻击者利用一个窃取的密码入侵了它的 WordPress 托管环境，窃取到了客户的邮件地址、管理员密码、sFTP 和数据库凭证，以及部分 SSL 私钥。",
-          "link": "https://www.solidot.org/story?sid=74170",
-          "publishedOn": "2023-02-18T09:06:18.000Z",
-          "wordCount": 174,
-          "title": "GoDaddy 源代码失窃服务器被安装恶意程序",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74169",
-          "author": null,
-          "description": "联想报告受 PC 行业不景气的影响其第三财季净利润下降 32%，对裁员发出警告。截至 2022 年 12 月的财季净利润 4.37 亿美元，同比下降 32%，为 2020 年以来季度净利润首次下降。该季度收入 152.7 亿美元，同比下降 24%。联想 CEO 杨元庆表示，他相信市场还在消化新冠疫情期间的库存，认为市场没有人们想象的那么糟糕，随着需求的恢复和库存过剩的缓解，预测从今年下半年开始 PC 市场将会恢复增长。",
-          "link": "https://www.solidot.org/story?sid=74169",
-          "publishedOn": "2023-02-17T15:33:14.000Z",
-          "wordCount": 160,
-          "title": "联想利润下降警告可能裁员",
           "imageUrl": null
         }
       ]
