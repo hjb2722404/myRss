@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44748",
+          "author": "青小蛙",
+          "description": "Okular 是一款功能丰富、轻巧快速的跨平台文档阅读器。可以使用它来阅读 PDF 文档、漫画、Epub 电子书，浏览图像，显示标记语言文档等，还可以批注 PDF 文件、签名等，来自 KDE 社区项目",
+          "link": "https://www.appinn.com/okular-2/",
+          "publishedOn": "2023-03-02T09:11:26.000Z",
+          "wordCount": 2374,
+          "title": "Okular –  开源 PDF 文档、Epub 电子书，图像阅读器[Windows/Linux]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/okular.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=44740",
+          "author": "青小蛙",
+          "description": "全能工具箱是一款拥有白噪音、OCR、随机数、计数器、大事记、模拟音效、抛硬币等 20 多项便捷生活小工具的 iPhone 应用，目前内购限免，去广告，解锁所有功能。@Appinn 早上有人在群里推荐了",
+          "link": "https://www.appinn.com/quannenggongjuxiang-for-iphone-2/",
+          "publishedOn": "2023-03-02T04:10:17.000Z",
+          "wordCount": 2367,
+          "title": "全能工具箱 内购限免：20+ 便捷生活小工具[iPhone]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/quannenggongjuxiang-for-iphone.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44737",
           "author": "青小蛙",
           "description": "喔知 Wozi 英语单词本 是一款向右滑动表示记住、向左滑动表示没记住，并且会根据记忆情况智能安排复习的背单词应用。有等级考试词汇，也有著名电影、电视剧词汇。@Appinn 虽然，开发者刷 Tinde",
@@ -130,16 +150,6 @@
           "wordCount": 2404,
           "title": "⚠️警告：宠物小强模拟器 – 一只/很多只蟑螂“宠物”在桌面[Windows]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/virtualcockroach1.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44677",
-          "author": "青小蛙",
-          "description": "糊弄键盘 是一款 iPhone、Android 键盘，它内置了许多敷衍别人用的词条，在需要的时候随机抽取并发送给聊天对象，让你没有心理负担、不用费脑筋的「参与聊天」。@Appinn 感谢 Appinn",
-          "link": "https://www.appinn.com/hunong-keyboard/",
-          "publishedOn": "2023-02-21T07:22:10.000Z",
-          "wordCount": 2332,
-          "title": "糊弄键盘 – 随机选择回复词，糊弄你不想参加的聊天[iOS/Android]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/02/hunong-keyboard.jpgo_.jpg"
         }
       ]
     },
@@ -147,7 +157,18 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://css-tricks.com/?p=376748",
+          "author": "Šime Vidas",
+          "description": "I was reading “Creative List Styling” on Google’s web.dev blog and noticed something odd in one of the code examples in the ::marker section of the article. The built-in list markers are bullets, ordinal numbers, and letters. The ::marker pseudo-element …\nEverything You Need to Know About the Gap After the List Marker originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/everything-you-need-to-know-about-the-gap-after-the-list-marker/",
+          "publishedOn": "2023-03-02T18:20:03.000Z",
+          "wordCount": 2504,
+          "title": "Everything You Need to Know About the Gap After the List Marker",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376748"
+        }
+      ]
     },
     {
       "title": "阮一峰的网络日志",
@@ -188,6 +209,166 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74286",
+          "author": null,
+          "description": "电邮应用 BlueMail 在最新更新中引入了生成式 AI，但苹果决定推迟批准应用的更新，理由是担心 AI 可能生成少儿不宜的内容。文件显示，苹果应用审查小组表示，由于该应用可能产生不适合所有受众的内容，BlueMail 应将其年龄限制提高到 17 岁及以上，或进行内容筛查。苹果公司设在 17 岁及以上用户的年龄限制针对的是可能包含攻击性语言、性内容和提及毒品等内容的应用程序类别。BlueMail 开发商 Blix 联合创始人 Ben Volach 表示，这项要求不公平，其他使用类似 AI 功能的应用软件没有年龄限制，并已开放苹果公司用户使用。",
+          "link": "https://www.solidot.org/story?sid=74286",
+          "publishedOn": "2023-03-03T03:26:08.000Z",
+          "wordCount": 167,
+          "title": "苹果担忧 AI 应用可能生成成人内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74285",
+          "author": null,
+          "description": "日本国家聚变科学研究所和美国 TAE 技术公司合作，首次在磁约束聚变等离子体中实现了氢—硼聚变实验。研究团队表示，尽管最新试验没有产生净能量增益，但它证明了无中子核聚变的可行性，使制造更清洁的聚变反应堆成为可能。目前全球有多个团队正力图实现可控核聚变。可控核聚变主要的方式大概有3种：引力约束、惯性约束和磁约束，占据主流的托卡马克装置属于磁约束，主要利用氢的同位素氘—氚作为聚变燃料。在最新研究中，科学家们在日本国家聚变科学研究所的大型螺旋装置中进行了氢—硼核聚变，并借助 TAE 开发的探测器，测量出了反应产物：氦核（α粒子）。TAE 公司认为氢—硼是最清洁、最具成本竞争力的聚变燃料，因为它不仅原料丰富，而且“实现了更清洁的聚变反应堆的概念，反应产物仅三个α粒子。”",
+          "link": "https://www.solidot.org/story?sid=74285",
+          "publishedOn": "2023-03-02T14:52:43.000Z",
+          "wordCount": 147,
+          "title": "日美实现磁约束氢硼聚变",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74284",
+          "author": null,
+          "description": "分析师称，索尼是 AMD 公司去年最大的客户，16% 的收入来自于索尼的 PS5 游戏机销售。如果将赛灵思排除在外，那么来自索尼的收入占到了 AMD 总收入的五分之一。AMD 的游戏业务占比最大，它向索尼出售了价值 37.76 亿美元的芯片。而索尼在今年一月的 CES 展会上证实它售出了逾 3000 万台 PS5 游戏机，过去近两个月内可能还售出大约 177 万台。 微软的 Xbox Series X|S 游戏机销量远不如索尼，估计至今出货量 2068 万台。 \nAMD 过去一年的游戏业务收入 68.05 亿美元，利润 9.53 亿美元，今年游戏机的销量可能会下降，来自索尼和微软的芯片收入预计也会下降。AMD 去年数据中心业务 60.43 亿美元，今年有望成为最大的收入来源。",
+          "link": "https://www.solidot.org/story?sid=74284",
+          "publishedOn": "2023-03-02T14:27:16.000Z",
+          "wordCount": 179,
+          "title": "AMD 最大的客户是索尼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74283",
+          "author": null,
+          "description": "微软研究人员在预印本网站 arXiv 发表论文，介绍了它的多模大语言模型 Kosmos-1，能理解图像内容，解决视觉难题，执行视觉文本识别，通过视觉 IQ 测试，理解自然语言指令。研究人员认为，集成文本、音频、图像和视频等不同输入模式的多模 AI 模型是构建通用 AI（AGI）的关键一步。研究人员称，作为智能的基本组成部分，多模感知是实现 AGI 所必不可少的。Kosmos-1 能分析图像并回答关于相关问题，能从图像中读取文本，为图像写标题，以 22-26% 的准确率完成视觉 IQ 测试。微软使用来自 Web 的数据训练 Kosmos-1，包括 The Pile（800GB 容量的英文文本资源）和 Common Crawl。训练后通过一系列测试去评估了 Kosmos-1 的能力。微软称，在众多测试中，Kosmos-1 的表现超过了目前最先进的模型。",
+          "link": "https://www.solidot.org/story?sid=74283",
+          "publishedOn": "2023-03-02T14:07:59.000Z",
+          "wordCount": 178,
+          "title": "微软新 AI 模型能理解图像内容解决视觉难题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74282",
+          "author": null,
+          "description": "英国皇家天文学会宣布从 2024 年 1 月起，该学会出版的所有期刊都将开放获取。全世界所有人都能不受限制的免费即时访问它出版的期刊论文。开放获取的期刊包括《Monthly Notices of the Royal Astronomical Society》、《Monthly Notices of the Royal Astronomical Society Letters》、《Geophysical Journal International》和《RAS Techniques and Instruments》。转向开放获取模式后，它的期刊将不再收取订阅费，而是使用 Article Processing Charges（文章处理费）支持。 英国皇家天文学会从 1827 年到今天出版的期刊论文都可以免费阅读全文。",
+          "link": "https://www.solidot.org/story?sid=74282",
+          "publishedOn": "2023-03-02T13:09:03.000Z",
+          "wordCount": 177,
+          "title": "英国皇家天文学会从 2024 年起所有期刊开放获取",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74281",
+          "author": null,
+          "description": "SpaceX 周四执行了 Crew-6 载人发射任务，它的  Falcon 9 火箭将四名宇航员送往国际空间站。此次发射使用的火箭第一级是首次执行任务，而宇航员乘坐的 Crew Dragon 飞船则是第四次执行任务——是至今飞往太空次数最多的飞船。火箭发射之后，第一级成功回收，这是 SpaceX 的火箭连续 101 次成功着陆。四名宇航员包括了 NASA 的任务指挥官 Stephen Bowen、飞行员 Warren “Woody” Hoburg，以及任务专家阿联酋的 Sultan Alneyadi 和俄罗斯的 Andrey Fedyaev。",
+          "link": "https://www.solidot.org/story?sid=74281",
+          "publishedOn": "2023-03-02T13:02:25.000Z",
+          "wordCount": 178,
+          "title": "SpaceX 火箭完成连续 101 次成功着陆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74280",
+          "author": null,
+          "description": "日本是一个亚热带岛国，必须应对飓风、台风等各种恶劣天气。它也是一个位于地壳构造俯冲带的火山岛，地震和海啸也是常态。随着天气愈加恶劣，线性雨带变得更常见且强大。线性雨带是一种缓慢移动或几乎静止不动的积雨云，会在同一地区停留数小时，大雨倾泻而出，会有可能导致山体滑坡和洪水。如果能提前 6 到 12 小时预测此类事件，将有助于制定计划减少财产和生命损失。从去年 6 月开始，日本气象厅和日本理化学研究所的研究人员使用 ARM 超算富岳研究线性雨带的形成及其造成的暴雨。日本气象厅还将采购一台新超算专门研究线性雨带。但暂时还不知道是富士通的 ARM 超算入选还是 HPE 的 Cray 超算。",
+          "link": "https://www.solidot.org/story?sid=74280",
+          "publishedOn": "2023-03-02T12:33:12.000Z",
+          "wordCount": 166,
+          "title": "日本用 ARM 超算富岳预测暴雨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74279",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的研究，物理学家首次观察到了量子隧穿效应。量子隧穿效应指的是微观粒子能穿入或穿越位势垒的量子行为。研究团队试图在一个非常简单的反应中追踪量子力学隧穿效应。团队选择了氢来进行实验，他们将氘（氢的同位素）引入一个离子阱，使其冷却，然后用氢气填充离子阱。由于温度非常低，带负电的氘离子缺乏以常规方式与氢分子反应的能量。然而，在极少数情况下，当两者发生碰撞时，确实会发生反应。2018 年，理论物理学家计算出，在这个系统中，每千亿次碰撞中只有一次发生量子隧穿。这与现在科学家测量的结果非常吻合，经过多年研究，研究人员首次证实了化学反应中隧穿效应的精确理论模型。",
+          "link": "https://www.solidot.org/story?sid=74279",
+          "publishedOn": "2023-03-02T09:58:18.000Z",
+          "wordCount": 143,
+          "title": "物理学家首次观察到量子隧穿效应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74278",
+          "author": null,
+          "description": "根据 Hired 的《2023 State of Software Engineers》报告，近四成程序员只爱远程工作，尽管主要科技巨头如苹果、亚马逊、微软、AT&T 等开始要求员工返回办公室工作。报道调查了 68,500 名候选软件工程，1300 多名软件工程师和 120 名专业人才。如果雇主强制要求他们重返办公室，21% 的人表示会立即辞职，49 %的人表示会开始寻找其他工作。",
+          "link": "https://www.solidot.org/story?sid=74278",
+          "publishedOn": "2023-03-02T09:45:26.000Z",
+          "wordCount": 155,
+          "title": "近四成程序员只爱远程工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74277",
+          "author": null,
+          "description": "OpenAI 向开发者提供了 ChatGPT 使用的 gpt-3.5-turbo 模型和 Whisper 语音文本转录模型的 API，允许开发者将其 API 整合到他们自己的应用中，价格是每 1k token（大约为 750 个字） 为 0.002 美元，为现有 GPT-3.5 API 费用的十分之一。OpenAI 称它通过优化将 ChatGPT 所需的计算成本减少了 90%，它还修改了服务条款，允许开发者退出数据收集，同时增加了一个 30 天的数据保留政策。",
+          "link": "https://www.solidot.org/story?sid=74277",
+          "publishedOn": "2023-03-02T08:48:07.000Z",
+          "wordCount": 181,
+          "title": "OpenAI 向开发者提供 ChatGPT API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74276",
+          "author": null,
+          "description": "美国共和党领导的众议院外交事务委员会通过了一项旨在在美国封禁 TikTok 的法案，但该法案未来仍面临重重阻力。外交事务委员会按党派立场以 24 票支持、16 票反对的表决结果通过了《遏制美国技术对手法案》 (DATA)。该法案将有效阻止美国与字节跳动旗下的热门视频分享应用的互动。法案仍需得到由共和党掌控的众议院批准，然后将提交给由民主党掌控的参议院，到目前为止，民主党人普遍关注的是针对外国应用构成的安全风险的更广泛解决方案，而不是一项彻底的禁令。而美国公民自由联盟（ACLU）也认为该禁令违反了宪法第一修正案。",
+          "link": "https://www.solidot.org/story?sid=74276",
+          "publishedOn": "2023-03-02T06:52:59.000Z",
+          "wordCount": 156,
+          "title": "美众议院委员会通过 TikTok 禁令法案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74275",
+          "author": null,
+          "description": "开源游戏引擎项目 Godot 释出了 4.0 版本。该版本经历了四年时间开发，合并了 1.2 万个 pull requests，修正了 7000 个问题，有 1500 名贡献者。Godot 4.0 的新特性包括：新的 Vulkan 后端；支持 AMD 的 FSR 1.0，未来将支持 FSR 2.1；为大型开放世界引入了新实时全局照明技术 Signed Distance Field Global Illuminatio；新的渲染优化技术，等等。",
+          "link": "https://www.solidot.org/story?sid=74275",
+          "publishedOn": "2023-03-02T06:47:04.000Z",
+          "wordCount": 176,
+          "title": "Godot 4.0 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74274",
+          "author": null,
+          "description": "在侏罗纪之后，地球与一颗较大的小行星相遇只是时间问题。但与恐龙不同，人类有能力去改变小行星的轨道。去年九月 NASA 执行双小行星重定向测试(DART)任务的飞船成功撞击了名为 Dimorphos 的小行星。这是世界首次行星防御技术演示，测试撞击是否可能偏转小行星轨道。Dimorphos 是一个双小行星系统之一，其直径不到 200 米，它的伴星 Didymos 直径大约 800 米。Dimorphos 围绕 Didymos 一周需要 11 小时 55 分钟，在撞击后缩短到 11 小时 22 分钟，减少了 33 分钟。研究人员估计撞击导致至少 100 万公斤的物质溅射出去。在 DART 撞击时小行星上的岩石变得更红，NASA 位于夏威夷的红外望远镜设施观察到颜色之后又变成了蓝色。天文学家猜测原因是撞击导致了小行星暴露了内部物质，因此在几小时后短暂呈现蓝色。天文学家还将在 2026 年利用 ESA 的 Hera 探测器近距离观察撞击后果。",
+          "link": "https://www.solidot.org/story?sid=74274",
+          "publishedOn": "2023-03-02T06:15:37.000Z",
+          "wordCount": 184,
+          "title": "小行星与 DART 撞击之后短暂改变颜色",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74273",
+          "author": null,
+          "description": "2023 年 2 月 6 日发生在土耳其-叙利亚的里氏 7.8 级地震至今已造成逾 5.1 万人死亡和 12 万人受伤，是百年来该地区伤亡最惨重的地震。主震之后紧跟着发生了多起强烈的余震，其中最高震级为 7.5 级。游戏网站 Humble Bundle 推出了土耳其叙利亚地震慈善包，共包含 70 款游戏，其中包括《Gotham Knights》、《Ghostrunner》、《XCOM 2》等，全部销售所得将捐赠给地震救援工作，到目前为止共筹集到逾四百万人民币善款。这次慈善筹款活动共持续 7 天。",
+          "link": "https://www.solidot.org/story?sid=74273",
+          "publishedOn": "2023-03-02T05:26:32.000Z",
+          "wordCount": 171,
+          "title": "Humble Bundle 推出土耳其叙利亚地震慈善包",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74272",
+          "author": null,
+          "description": "英国科学家发现，每天 11 分钟快走有助于降低早死风险。每天 11 分钟(每周 75 分钟)的中等强度的体育活动——比如快步走——足以降低心脏病、中风和一些癌症等疾病的风险。心脏病和中风等心血管疾病是全球死亡的主要原因，2019 年每年导致 1790 万人死亡，而 2017 年癌症导致 960 万人死亡。众所周知，体育活动——特别是中等强度的体育活动——可以降低心血管疾病和癌症的风险，英国国民健康保险制度建议成年人每周至少进行 150 分钟中等强度的体育活动或 75 分钟高强度的体育活动。研究人员发现，在与工作相关的体育活动之外，三分之二的人每周的中等强度活动水平低于 150 分钟，不到十分之一的人每周的中等强度活动时间超过 300 分钟。他们发现，每周超过 150 分钟的中等强度活动，在降低疾病或过早死亡风险方面的额外好处是微乎其微的。但即使只有一半的运动量也会带来显著的好处：每周积累 75 分钟的中等强度活动，早死的风险降低 23%，患心血管疾病的风险降低 17%，患癌症的风险降低 7%。",
+          "link": "https://www.solidot.org/story?sid=74272",
+          "publishedOn": "2023-03-01T15:47:46.000Z",
+          "wordCount": 177,
+          "title": "每天 11 分钟快走降低早死风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74271",
+          "author": null,
+          "description": "Canonical 公司在 Ubuntu 中加入了愈来愈多恼人的广告，这也从侧面证明了 Ubuntu 不只是 Canonical 支持的 Linux 发行版，而是该公司的产品。既然是产品，那么其存在的最终目的就是给 Canonical 公司带来收入。而加入广告意味着目前 Ubuntu 还没能让 Canonical 赚到足够的钱。对于那些不太可能增加收入的用户的观点，Canonical 是不感兴趣的。对普通用户而言，Ubuntu 是基于 Debian，还有很多社区发行版是基于 Ubuntu，因此切换到其它 Linux 版本的难度并不大。",
+          "link": "https://www.solidot.org/story?sid=74271",
+          "publishedOn": "2023-03-01T15:00:43.000Z",
+          "wordCount": 174,
+          "title": "Ubuntu 是 Canonical 公司的产品",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74270",
           "author": null,
@@ -917,136 +1098,6 @@
           "wordCount": 148,
           "title": "黑客窃取到数据中心的登陆凭证",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74197",
-          "author": null,
-          "description": "世界各地各行各业的商界人士正在测试新生成式 AI，它可以像人类一样生成文字、图像和艺术。国际建筑设计公司的设计师使用 Midjourney 生成草图。工程师和科学家使用 ChatGPT 来对长篇技术文件进行概括，企业家用它加快内部文件起草。程序员使用 Copilot 补充代码加快编程速度。许多从事白领和创意工作的人员担心，一旦生成式 AI 取得长足的发展，它将像机器人取代工厂岗位那样取代他们的工作。",
-          "link": "https://www.solidot.org/story?sid=74197",
-          "publishedOn": "2023-02-21T15:49:15.000Z",
-          "wordCount": 154,
-          "title": "人人都在尝试生成式 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74196",
-          "author": null,
-          "description": "我国科学家在非法走私的马来亚穿山甲中发现了一种新的MERS样蝙蝠冠状病毒（CoV），它可以感染人类细胞并在其中复制，表明它也许会跳到人类身上并引发疾病。这项研究表明，穿山甲携带的 MERS 样冠状病毒与蝙蝠有关，但与蝙蝠病毒相比，它能够直接感染人类，而且对人类的传染性增强，这表明穿山甲在人类冠状病毒的出现中发挥重要作用。穿山甲是被贩卖最多的哺乳动物之一，经常与人类接触。之前的研究在从马来西亚走私到中国的穿山甲中发现了与新型冠状病毒（SARS-CoV-2）相关的谱系。新冠大流行已持续了快三年时间，但目前仍不清楚人类是如何首次感染SARS-CoV-2的。在这项新研究中，研究人员采集了从东南亚非法走私到中国的 86 只马来亚穿山甲的肛拭子样本，并采用一种泛 CoV PCR 检测对其进行筛选。其中 4 个样本呈 CoV 阳性。",
-          "link": "https://www.solidot.org/story?sid=74196",
-          "publishedOn": "2023-02-21T14:54:32.000Z",
-          "wordCount": 152,
-          "title": "中国科学家在穿山甲发现可感染人类的新冠状病毒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74195",
-          "author": null,
-          "description": "Adobe 本月将释出一系列更新，从其应用中移除对 PostScript 字体格式 Type 1 的支持。PostScript 是 Adobe 为专业数字排版开发的轮廓字体规范编码的字体文件，它在 1984 年创造了 Type 1 和 Type 3 字体格式，而 Type 1 提供了当时最佳的质量和性能，在多年里 Type 1 是数字排版的黄金标准。但进入 1990 年代中期后，Type 1 遇到了各种挑战：它不支持大的字符集，Unicode 字符编码标准出现了，跨平台兼容性，等等。\nOpenType 字体逐渐取代了 Type 1，而 Adobe 也最终淘汰了它。",
-          "link": "https://www.solidot.org/story?sid=74195",
-          "publishedOn": "2023-02-21T14:52:00.000Z",
-          "wordCount": 194,
-          "title": "Adobe 移除对 Type 1 字体格式的支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74194",
-          "author": null,
-          "description": "Linux 6.2 发布后，Linux 6.3 合并窗口开启。对代码合并的跟踪显示，Linux 6.3 合并了硬件噪声工具 hwnoise。hwnoise 与随机数生成器无关，而是用于测量操作系统导致的抖动（jitter），通常是因为内存或其他资源耗尽或有限而无法完成所要执行的操作，意味着实时应用或高性能计算应用出问题了。",
-          "link": "https://www.solidot.org/story?sid=74194",
-          "publishedOn": "2023-02-21T14:25:57.000Z",
-          "wordCount": 161,
-          "title": "Linux 6.3 合并了硬件噪声工具 hwnoise",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74193",
-          "author": null,
-          "description": "在澳大利亚 Tasmania 州 Derwent 河的深处，一种特殊的鱼会利用一双胸鳍在河床上行走。学名为臂钩躄鱼科的斑点手鱼相当罕见，其颜色与沙床融为一体，很难被发现，它容易被惊吓因此也很难拍摄到。该物种处于濒危状态，野生种群可能不到 3000 条。法国摄影师 Nicolas Remy 去年从悉尼前往 Tasmania 州潜入寒冷的河流去拍摄这种难以捉摸的鱼。他很快发现了一条，但在相机的闪光灯下它很快消失了，照片上只留下淤泥。他随后穿着脚蹼游泳以免搅动淤泥，使用一种特殊的照明设备拍到手鱼的照片。该照片赢得了 Underwater Photography Guide 的海洋艺术 2022 竞赛。",
-          "link": "https://www.solidot.org/story?sid=74193",
-          "publishedOn": "2023-02-21T14:04:11.000Z",
-          "wordCount": 159,
-          "title": "摄影师捕捉到手鱼的罕见照片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74192",
-          "author": null,
-          "description": "对冲基金 Galois Capital 成为加密货币交易所 FTX 破产丑闻的一个引入注目的受害者，它半数资产被困其中。该对冲基金决定关闭将剩余资产还给投资者。Galois Capital 管理的资产规模约 2 亿美元，是投资加密货币的最大量化基金之一。它告诉投资者，所有交易已经终止，所有头寸都已经解除，联合创始人 Kevin Zhou 表示，鉴于 FTX 情况的严重性，我们认为继续运营基金已经不可行，“对于目前的处境我再次表示歉意。”Galois 从 FTX 撤出了 部分资金，但在交易所倒闭时，它仍然有半数资产留在 FTX 内。FTX 的债权人可能多达百万，被困资产多达数十亿美元。FTX 的创始人Sam Bankman-Fried 面临欺诈的指控，但他本人否认有罪。",
-          "link": "https://www.solidot.org/story?sid=74192",
-          "publishedOn": "2023-02-21T13:08:56.000Z",
-          "wordCount": 185,
-          "title": "对冲基金 Galois Capital 因半数资产困在破产的 FTX 而宣布关闭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74191",
-          "author": null,
-          "description": "Google 去年底释出 Chrome 108 时宣布它将发布工具减少浏览器的内存占用和改进电池续航。刚刚释出的 Chrome 110 桌面版本开始向用户提供这两个工具 Energy Saver 和 Memory Saver。Memory Saver 通过将不活跃标签进入睡眠模式而能节省最多 30% 的内存。如果用户重新访问那么标签将会重新加载。Energy Saver 则通过限制网站的后台活动和动画视频的视觉效果减少耗电，用户可选择在笔记本电池水平低于 20% 时启用，或者在笔记本电脑只使用电池不使用电源时启用。两项功能默认启用，用户可以随时关闭。",
-          "link": "https://www.solidot.org/story?sid=74191",
-          "publishedOn": "2023-02-21T12:46:02.000Z",
-          "wordCount": 170,
-          "title": "Google Chrome 推出减少内存占用和耗电的工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74190",
-          "author": null,
-          "description": "德国科学家在《Nature Medicine》报告了一位艾滋病患者在接受造血干细胞移植治疗后治愈。第一位治愈的艾滋病患者是柏林病人 Timothy Ray Brown，2020 年因癌症去世；第二位是伦敦病人 Adam Castillejo。最新病例的患者为男性，现年 53 岁，在 2008 年诊断患有艾滋病，之后接受了抗逆转录病毒治疗，2011 年 1 月被诊断为急性髓性白血病，接受了 CCR5Δ32/Δ32 造血干细胞移植治疗，九年之后停止治疗，四年后没有观察到病毒反弹。",
-          "link": "https://www.solidot.org/story?sid=74190",
-          "publishedOn": "2023-02-21T08:44:13.000Z",
-          "wordCount": 157,
-          "title": "第三或第四位艾滋病患者治愈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74189",
-          "author": null,
-          "description": "OpenAI 从互联网上搜集了海量内容训练它的 AI 聊天机器人 ChatGPT，而随着 ChatGPT 日益受欢迎，新闻机构开始构批评 OpenAI 没有付费就使用其发表的文章。新闻集团道琼斯的总法律顾问 Jason Conti 在一份声明中表示，任何想要使用《华尔街日报》记者的作品去训练 AI 的人都需要从道琼斯获得合适的授权，而道琼斯未与 OpenAI 达成任何授权交易，该机构正在调查这一情况。OpenAI 使用公开内容训练 AI 应该与当年 Google 扫描图书的做法类似，ChatGPT 并没有侵权，其行为属于合理使用（fair use）。",
-          "link": "https://www.solidot.org/story?sid=74189",
-          "publishedOn": "2023-02-21T07:20:01.000Z",
-          "wordCount": 175,
-          "title": "新闻机构批评 OpenAI 使用其文章训练 ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74188",
-          "author": null,
-          "description": "好莱坞标志对于洛杉矶，相当于埃菲尔铁塔对于巴黎，自由女神像对于纽约，而今年是该标志树立的一百周年。好莱坞标志在 1923 年树立，最初是作为一个巨大的广告牌，原写作 HOLLYWOODLAND，是为了宣传本地的一个地产项目。在当地电影业崛起之后，好莱坞标志演变成了洛杉矶的一个象征。这个标志牌随着时间而逐渐衰败不堪，经历了多次修缮，广告牌上的字母最后留下了 HOLLYWOOD。",
-          "link": "https://www.solidot.org/story?sid=74188",
-          "publishedOn": "2023-02-21T06:04:47.000Z",
-          "wordCount": 145,
-          "title": "好莱坞标志树立一百年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74187",
-          "author": null,
-          "description": "OpenAI 的聊天机器人 ChatGPT 能像人类那样写出流畅的文章，回答用户的各种问题，但如果你仔细核查文章中的事实时会发现，它经常张冠李戴，胡说八道，所以有人开玩笑的说它是胡扯生成器，对于不追求正确性的用户来说娱乐性十足。ChatGPT 的这种表现给了一位教历史课的教师极大的启发，他用 ChatGPT 生成文章，然后让学生挑错并修正。",
-          "link": "https://www.solidot.org/story?sid=74187",
-          "publishedOn": "2023-02-21T05:24:50.000Z",
-          "wordCount": 154,
-          "title": "历史学教授用 ChatGPT 生成文章让学生修改",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74186",
-          "author": null,
-          "description": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 6.2。主要新特性包括：Retbleed CPU 预测执行漏洞的新缓解方案，显著减轻了性能影响；改进 Btrfs RAID5/6；BPF 支持用户定义对象；合并 Runtime Verification System；改进 Rust 语言的支持；IPv6 PLB (Protective Load Balancing)；改进控制流完整性；等等。更多可浏览 KernelNewbies 6.2。",
-          "link": "https://www.solidot.org/story?sid=74186",
-          "publishedOn": "2023-02-21T03:11:56.000Z",
-          "wordCount": 174,
-          "title": "Linux 6.2 kernel 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74185",
-          "author": null,
-          "description": "2005 年推出的 Ruby on Rails（或 Rails）Web 应用框架诞生于互联网发展的黄金时期，它一度被视为将接替 Java 语言，然而今天无处不在的 Web 语言是 JavaScript，它为何失败了？资深 Ruby 开发者 Matthew Boeh 说，Rails 诞生于 Web 转型和发展的关键时期，它同时受益和推动了 Web 的发展。它也可以说是自己成功的受害者。它在 2000 年代初期向从未听过 Lisp 语言的人引荐了 REPL（交互式命令行）驱动开发，向被 Perl 软件包库 CPAN 吓跑的人引荐了包管理器，向非企业开发者引荐了测试驱动的开发，诸如此类。所有这些今天已被视为理所当然。它们并不是 Rails 开创的，但它推广和普及了这些概念。今天的 JavaScript 的生态是早期无法想象的。从 1999 年到 2009 年只发布了一个 JavaScript 新标准，如今的 JavaScript 标准每年发布一个新版本。今天的全栈开发者必须掌握 JavaScript，而 Rails 是在 JavaScript 未流行前夕全栈开发者所需要掌握的东西。JavaScript 有着科技巨头如 Google 的支持，而 Rails 缺乏同等规模的企业赞助商，它在性能上被认为已经落后了。",
-          "link": "https://www.solidot.org/story?sid=74185",
-          "publishedOn": "2023-02-20T15:43:30.000Z",
-          "wordCount": 197,
-          "title": "Ruby 语言为何没有成功",
-          "imageUrl": null
         }
       ]
     },
@@ -1116,6 +1167,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/20-more-text-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 50 new text tools. This week we added 20 more tools to our Online Text Tools collection.\nAdd Symbols Around Each Letter\nInsert Symbols Between All Letters\nSwap Adjacent Letters in Words\nRemove Random Letters from Words\nRemove Random Symbols from Text\nAdd Prefix to Words\nAdd Suffix to Words\nRemove Prefix from Words\nRemove Suffix from Words\nAdd Prefix to Text Lines\nAdd Suffix to Text Lines\nRemove Prefix from Text Lines\nRemove Suffix from Text Lines\nUnwrap Text Lines\nAdd Strikethrough to Text\nAdd Symbols Around Words\nRemove Symbols From Around Words\nReplace Vowels in Words\nDuplicate Vowels in Words\nRemove Vowels from Words\nReplace Consonants in Words\nDuplicate Consonants in Words\nRemove Consonants from Words\nNext week we'll add 10 more tools. See you then!",
+          "link": "https://catonmat.net/20-more-text-tools",
+          "publishedOn": "2023-03-02T21:10:00.000Z",
+          "wordCount": 231,
+          "title": "20 more text tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/marketing-emails-on-weekends",
           "author": null,
