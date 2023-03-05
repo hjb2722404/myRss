@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-03-04T02:42:07.876Z</updated>
+    <updated>2023-03-05T02:57:36.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[佛罗里达法案要求撰写州长相关内容的博主必须登记]]></title>
+        <id>https://www.solidot.org/story?sid=74300</id>
+        <link href="https://www.solidot.org/story?sid=74300"/>
+        <updated>2023-03-04T15:02:44.000Z</updated>
+        <summary type="html"><![CDATA[佛罗里达州共和党参议员 Jason Brodeur 提出了一项法案，将要求撰写有关州长 Ron DeSantis 等民选官员相关内容的博主必须向该州的 Office of Legislative Services 办公室登记，并需要提交月度报告，否则将面临每天 25 美元的罚款。Ron DeSantis 被认为将会竞选共和党内的总统候选人提名，是热门人选之一。该拟议中的法律被认为违反了保护言论自由和新闻自由的美国宪法第一修正案，Brodeur 则辩解称法案针对的博主是有偿（有偿的定义涵盖了博客内容的免费托管）撰写选举相关内容，他们实际上是用笔从事竞选活动的说客，是专业的助选者。如果说客需要登记和报告，为什么这些付费博主不需要？]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stability AI 发布官方的 Blender 插件]]></title>
+        <id>https://www.solidot.org/story?sid=74299</id>
+        <link href="https://www.solidot.org/story?sid=74299"/>
+        <updated>2023-03-04T14:38:54.000Z</updated>
+        <summary type="html"><![CDATA[开源 AI 文本图像模型 Stable Diffusion 的开发商 Stability AI 发布了 Stability for Blender，为开源 3D 设计软件 Blender 提供了官方的生成式 AI 插件，允许 Blender 用户直接在软件内使用文本描述生成图像。Blender 有第三方的 Stable Diffusion 插件，而官方的插件应该会表现更好，它还承诺会定期更新。该插件还允许用户使用现有的渲染创建图像，无需重建场景的情况下实验不同风格。Stability for Blender 免费，使用插件甚至无需独显，只需要联网和获得 Stability API 密钥。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富士康计划扩大印度投资]]></title>
+        <id>https://www.solidot.org/story?sid=74298</id>
+        <link href="https://www.solidot.org/story?sid=74298"/>
+        <updated>2023-03-04T13:13:39.000Z</updated>
+        <summary type="html"><![CDATA[WSJ 援引知情人士的消息报道，富士康计划扩大印度投资，在印的现有工厂扩大生产 iPhone。富士康的目标是到 2024 年将当地 iPhone 年产量提高到约 2,000 万部，并将工人的数量增加两倍，达到 10 万人。富士康还计划在印度其它城市建造新的生产设施，用于生产包括 iPhone 在内的产品。此举旨在寻求在中国之外进一步实现多元化。富士康目前最大的生产基地位于郑州，雇佣了逾二十万名员工。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WeTab – iOS 小组件式新标签页扩展[Chrome/Safari]]]></title>
+        <id>https://www.appinn.com/?p=44772</id>
+        <link href="https://www.appinn.com/wetab/"/>
+        <updated>2023-03-04T03:56:44.000Z</updated>
+        <summary type="html"><![CDATA[WeTab 是一款界面模仿 iOS 小组件，以及使用类 iOS 桌面图标的浏览器新标签页扩展，可以自定义包括笔记，待办，天气、纪念日、倒计时、热搜榜在内的众多小工具，也可以放置你常访问的网站，甚至还有]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伊朗将视频游戏作为宣传工具]]></title>
         <id>https://www.solidot.org/story?sid=74297</id>
@@ -993,157 +1033,6 @@ See you next time!]]></summary>
         <link href="https://www.solidot.org/story?sid=74221"/>
         <updated>2023-02-23T15:50:17.000Z</updated>
         <summary type="html"><![CDATA[今天的搜索引擎首先需要构建一个庞大 Web 索引，用户搜索时对索引条目进行扫描、排序和分类，最相关条目出现在搜索结果中。整个搜索过程通常不需要一秒钟。相比之下，AI 聊天机器人 ChatGPT 搜索时需要启动一个庞大的神经网络模型，产生文本，可能还需要利用搜索引擎核查事实信息。整个过程要漫长得多，花费也更多。分析师估计，大语言模型的搜索成本可能是关键词搜索的 10 倍以上，意味着数十亿美元的额外成本。如果 Google 提供了 ChatGPT 式搜索它的成本每年将增加 60 亿美元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国近三成的工作仍然是远程工作]]></title>
-        <id>https://www.solidot.org/story?sid=74220</id>
-        <link href="https://www.solidot.org/story?sid=74220"/>
-        <updated>2023-02-23T14:07:06.000Z</updated>
-        <summary type="html"><![CDATA[新冠疫情改变了美国的办公场所。在家远程办公的比例从 2019 年 1 月的 4.7% 飙升到 2020 年 5 月的 61%。
-这一现象被誉为美国自二战以来劳动力市场最大的变化。但从 2021 年开始，雇主们又开始要求员工重返办公室。此举遭到了员工们的抵制，远程办公的比例维持在三成左右。但大部分人还是回到了办公室。许多工作如餐饮和零售业、工厂和仓库工人、调酒师和农民等从未存在远程办公之说。斯坦福大学的经济学家 Nicholas Bloom 指出，美国 55% 的工作是无法在家里完成的，即使人们想在家里办公他们也做不到。有 13% 的工作则完全可以在家里完成，包括 IT、合同工和电话客服等等。其余 30% 则是混合办公。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰希望在该国禁止俄罗斯资助的游戏《原子之心》]]></title>
-        <id>https://www.solidot.org/story?sid=74219</id>
-        <link href="https://www.solidot.org/story?sid=74219"/>
-        <updated>2023-02-23T12:42:07.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰数字部表示，它将请求 Steam、微软和索尼从其平台的乌克兰区移除俄罗斯人资助的游戏《原子之心》。《原子之心》本周二发售，故事发生在架空的苏联，天才科学家谢切诺夫发明了一种可编程液态物质“聚合物”，令苏联科技飞跃提升，机械和能源科技领先世界。苏联在二战战胜德国后，也开发出电脑网络系统“大集体”与植入式终端“思想”来控制机器人，并在一个叫“3826设施”的浮空工业园区来生产各式各样的机器人，令人类的生活变得更加便利。但在 1955 年，当谢切诺夫将“大集体”升级做“大集体2.0”的时候，3826 设施的机器人们突然发狂屠杀人类。玩家扮演代号为“P-3”的克格勃特工，在 3826 设施调查该事故的背后的阴谋。乌克兰数字部认为《原子之心》美化了苏联，其开发资金部分来自受制裁的俄罗斯企业家和银行。《原子之心》开发商 Mundfish 的总部位于塞浦路斯，在俄罗斯有办公室，其投资人包括了腾讯和 GEM Capital，其中 GEM 深度参与了俄罗斯能源市场。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 在量子纠错上取得进步]]></title>
-        <id>https://www.solidot.org/story?sid=74218</id>
-        <link href="https://www.solidot.org/story?sid=74218"/>
-        <updated>2023-02-23T11:50:04.000Z</updated>
-        <summary type="html"><![CDATA[阻碍量子处理器走向实用的一大挑战是它出错的概率是传统处理器的上万亿倍，而量子比特数越多通常错误率也越高。Google 现在在量子纠错上取得了进步：让错误率随量子比特数的增加而下降成为可能。它的下一代量子处理器 Sycamore 在量子比特数上与上一代相同，但性能有了改进。Google 研究人员在《自然》期刊上发表研究报告，描述了两种纠错的方法，其中一种的错误率比另一种下降了 0.11%。但目前的错误率仍然太高，我们还需要更长时间才会看到量子处理器展现出它优于经典处理器的地方。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 下一个版本默认不再支持 Flatpak]]></title>
-        <id>https://www.solidot.org/story?sid=74217</id>
-        <link href="https://www.solidot.org/story?sid=74217"/>
-        <updated>2023-02-23T11:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 及其衍生发行版 Kubuntu 等联合宣布，计划在 2023 年 4 月释出的下一个版本 Lunar Lobster 默认移除对 Flatpak 格式的支持，以“改进新用户开箱即用的体验”。Flatpak 是与 Canonical 自家打包格式 Snap 竞争的格式， 默认不支持 Flatpak 意味着普通用户将只能使用 Snap 以及 Canonical 控制的应用商店。除了 Ubuntu 及其衍生发行版，很少有其它发行版使用 Snap。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bilinfo – 管理下载的本地 B 站视频，并刮削[Windows]]]></title>
-        <id>https://www.appinn.com/?p=44693</id>
-        <link href="https://www.appinn.com/bilinfo/"/>
-        <updated>2023-02-23T09:31:02.000Z</updated>
-        <summary type="html"><![CDATA[bilinfo 是一款能够对下载回来的 B 站视频进行刮削的 Windows 工具。适合 B 站重度用户和松鼠症患者，并且经常会看到收藏夹里众多失效视频的用户。@Appinn 来自发现频道，开发者 @]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[祝融号火星车可能接近死亡]]></title>
-        <id>https://www.solidot.org/story?sid=74216</id>
-        <link href="https://www.solidot.org/story?sid=74216"/>
-        <updated>2023-02-23T09:08:24.000Z</updated>
-        <summary type="html"><![CDATA[祝融号火星车于 2021 年 5 月 15 日登陆火星，它于 2022 年 5 月火星冬季期间进入休眠模式，原计划在 12 月前后恢复工作，但它至今没有苏醒。NASA 火星勘测轨道器（MRO）公布了祝融号在 2022 年 3 月 11 日、2022 年 9 月 8 日、2023 年 2 月 7 日的照片，显示其位置没有任何改变，且表面光谱变暗，表明车身被火星沙尘覆盖。中科院此前表示，当祝融号的太阳能电池有足够的能量进行操作时，它会自动唤醒。鉴于它唤醒的时间已经超出预测，加上火星环境险恶，而沙尘会严重影响到光电转换效率。祝融号恢复工作的可能性非常低。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社交媒体是少女精神疾病的主因]]></title>
-        <id>https://www.solidot.org/story?sid=74215</id>
-        <link href="https://www.solidot.org/story?sid=74215"/>
-        <updated>2023-02-23T08:48:28.000Z</updated>
-        <summary type="html"><![CDATA[根据美国疾控中心（CDC）的青少年危险行为调查（Youth Risk Behavior Survey），53% 的年轻女孩说她们经历了持久性的悲伤或绝望，这一数据比 2011 年的 36% 有大幅提高；30% 的女孩表示她们认真考虑过自杀，相比下 2011 年是 19%。年轻男孩的比例没有这么高，但他们的忧郁及焦虑也有所增加。新冠不是造成这一趋势的主因，社交媒体被认为才是少女精神疾病的主因。今天绝大部分的社交生活是经过智能手机和社交媒体，即便有人想退出社交媒体，由于她们的朋友都使用社媒，退出的人会在社交中孤立起来。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斑马的条纹如何阻止马蝇叮咬]]></title>
-        <id>https://www.solidot.org/story?sid=74214</id>
-        <link href="https://www.solidot.org/story?sid=74214"/>
-        <updated>2023-02-23T06:58:21.000Z</updated>
-        <summary type="html"><![CDATA[斑马身上的独特黑白条纹能防止马蝇叮咬，但哪一种条纹最有效？科学家做了个实验，给马披上不同图案的条纹，然后观察马蝇叮咬的情况。他们发现，马蝇会被环境中大型暗色物体所吸引，黑白对比鲜明的条纹则缺乏吸引力。研究团队没有发现偏振或光学错觉影响马蝇叮咬物体的证据。他们推测，斑马的条纹模式将对马蝇具有吸引力的局部特征的大小降至了最低。研究报告发表在《Journal of Experimental Biology》期刊上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雌性裸鼹鼠一生都能供应卵子]]></title>
-        <id>https://www.solidot.org/story?sid=74213</id>
-        <link href="https://www.solidot.org/story?sid=74213"/>
-        <updated>2023-02-23T06:22:44.000Z</updated>
-        <summary type="html"><![CDATA[与大多数哺乳动物不同，雌性裸鼹鼠一生都会发育出新卵子——这一发现或有助于解决人类不孕不育问题。研究报告发表于《自然-通讯》。原产于东非的裸鼹鼠寿命长达 37 年。它们生活在地下，有着与蜜蜂相似的社会结构，包括一只一生都能生育后代的女王。相比之下，老鼠只能活 4 年左右，当它们 9 个月大时，生育能力就开始下降。研究人员分别在裸鼹鼠 1、5、8、15、28 和 90 天大时，用显微镜观察了它们的卵巢。在人类、小鼠和其他哺乳动物中，卵子只在出生前产生。而在一些物种中，卵子会在出生后不久产生且供应量有限。随着时间推移，这些卵子逐渐死亡，导致生育能力随着年龄增长而降低。但在裸鼹鼠身上，研究人员测试的每个生命阶段都发现了大量生殖细胞。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国去年的总和生育率为 0.78]]></title>
-        <id>https://www.solidot.org/story?sid=74212</id>
-        <link href="https://www.solidot.org/story?sid=74212"/>
-        <updated>2023-02-23T06:05:09.000Z</updated>
-        <summary type="html"><![CDATA[韩国统计厅发布的一份报告显示，该国 2022 年总和生育率（育龄女性平均生育子女数）较前一年下降 0.03，为 0.78，创下 1970 年相关统计以来最低值。在经合组织（OECD）成员国中，韩国总和生育率从 2013 年起连续 10 年排名垫底。以 2020 年数据为准，韩国也是总和生育率低于 1 的唯一一个国家。据悲观预期，韩国总和生育率恐将于 2025 年降至 0.61。据低生育老龄社会委员会数据，政府从 2006 年至 2021 年投入的低生育相关预算共达 280 万亿韩元，但迄今未能有效提高生育率。难以兼顾工作和育儿、教育费负担较大是造成低生育的主要原因，婚姻登记减少和婚龄推迟也导致生育率下滑。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狐猴浏览器 – 这可能是扩展最多最全的安卓浏览器]]></title>
-        <id>https://www.appinn.com/?p=44681</id>
-        <link href="https://www.appinn.com/lemurbrowser/"/>
-        <updated>2023-02-23T06:02:37.000Z</updated>
-        <summary type="html"><![CDATA[狐猴浏览器是一款安卓手机浏览器，支持来自 Chrome 和 Edge 扩展商店超 20 万扩展，拥有清爽的主页、独特的插件交互方式等，基于 Chromium 内核，注重隐私安全。@Appinn 来自发]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩根大通限制员工使用 ChatGPT]]></title>
-        <id>https://www.solidot.org/story?sid=74211</id>
-        <link href="https://www.solidot.org/story?sid=74211"/>
-        <updated>2023-02-23T06:02:05.000Z</updated>
-        <summary type="html"><![CDATA[摩根大通公司限制员工使用 AI 聊天机器人 ChatGPT。知情人士表示，这一决定不是因为任何特定事件而进行限制，而是作为对第三方软件使用进行控制一部分。目前不知道摩根大通有多少员工在使用 ChatGPT。分析师认为银行可能是担心员工与 ChatGPT 分享了机密或私有信息。ChatGPT 在很多方面表现出色，但它给出的答案未必正确。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 将举办最后一届 Code Jam 编程竞赛]]></title>
-        <id>https://www.solidot.org/story?sid=74210</id>
-        <link href="https://www.solidot.org/story?sid=74210"/>
-        <updated>2023-02-23T05:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Google Code Jam 国际编程竞赛将在举办二十年后结束，今年 4 月 15 日的比赛将是最后一届，采用线上比赛，自 2020 年以来，因新冠疫情比赛改为线上举办。Code Jam 始于 2003 年，比赛内容包括一系列的算法问题，参赛者必须在指定时间内解决。参赛者允许使用任意自选编程语言和开发环境来解答问题，奖金最高为 1 万美元。过去二十年，中国的楼天城（两次）和白俄的 Gennady Korotkevich（八次） 多次获得了冠军，按国家统计，白俄最多赢得了 9 次冠军，中国第二 3 次，俄罗斯 2 次，波兰 2 次。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTX 日本用户现在可以提款]]></title>
-        <id>https://www.solidot.org/story?sid=74209</id>
-        <link href="https://www.solidot.org/story?sid=74209"/>
-        <updated>2023-02-22T15:31:27.000Z</updated>
-        <summary type="html"><![CDATA[FTX 日本用户从周二开始能取回此前被冻结的加密货币资产。这与日本政府监管加密货币的政策有关。日本法律要求加密货币交易所在该国的金融厅登记，遵守反洗钱法，留出资本准备金，将客户资产与交易所资产分开。FTX 去年底突然破产之后，该公司在日本业务的员工也无法访问资金分配的系统。但 FTX 日本承诺将会恢复服务，本周一它履行了承诺。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国共和党议员提议将使用 mRNA 疫苗视为犯罪]]></title>
-        <id>https://www.solidot.org/story?sid=74208</id>
-        <link href="https://www.solidot.org/story?sid=74208"/>
-        <updated>2023-02-22T14:59:22.000Z</updated>
-        <summary type="html"><![CDATA[美国爱达荷州的两位共和党议员提出一项法案，要将在该州任何使用 mRNA 疫苗的人归入轻罪。如果法案通过，那么目前正在开发的各种 mRNA 疫苗都将在该州被提前禁止使用。提出法案的参议员 Tammy Nichols 和众议员 Judy Boyle 都是坚定的保守派，表示倡导自由和支持生命权。他们反对 mRNA 疫苗的理由是这些新冠疫苗最初是在 FDA 的紧急使用授权(EUAs) 下批准的，没有经过仔细的审查。该州的民主党议员 Ilana Rubel 指出了他们所坚持理由的错误之处：疫苗最终还是经过 FDA 的正常审批程序后获得批准。但 Nichols 参议员仍然坚信审批流程不完善。根据美国疾控中心的数据，美国有逾 2.69 亿人至少接种了一种新冠疫苗，mRNA 疫苗的注射量超过 7 亿剂，已被证明是非常安全的。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
