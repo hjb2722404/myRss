@@ -2,10 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-03-08T02:50:16.508Z</updated>
+    <updated>2023-03-09T02:50:17.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bethesda 宣布《星空》于 9 月 6 日发售]]></title>
+        <id>https://www.solidot.org/story?sid=74338</id>
+        <link href="https://www.solidot.org/story?sid=74338"/>
+        <updated>2023-03-08T15:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Bethesda 宣布了备受期待的太空背景动作角色扮演游戏《星空》的发售日期——9 月 6 日，Bethesda 将在 6 月 11 日举行的活动上披露关于游戏的更多信息。《星空》是 Bethesda 工作室在《辐射76》之后时隔五年推出的新作品。故事发生在距太阳系约 50 光年外的“殖民系统”（The Settled Systems）星系内。大约在 2310 年，最大的两个派系“联合殖民地”（United Colonies）和“自由之星共同体”（Freestar Collective）爆发了惨烈的“殖民地战争”（Colony War）。玩家将扮演一位隶属于太空探索组织“星座”的角色，游戏里的时间是在战争发生 20 年后。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 演示能完成多项任务的通用 AI 模型 PaLM-E]]></title>
+        <id>https://www.solidot.org/story?sid=74337</id>
+        <link href="https://www.solidot.org/story?sid=74337"/>
+        <updated>2023-03-08T15:43:34.000Z</updated>
+        <summary type="html"><![CDATA[Google 和柏林科技大学的一组研究人员透露了可用于控制机器人的多模态 Embodied 视觉语言模型（VLM）PaLM-E，有 5620 亿个参数，融合了视觉和语言处理。当用户发出“高阶指令”，如“将抽屉里的米片拿过我”， PaLM-E 能为装备机械臂的移动机器人平台生成一个行动计划，并自行执行。它执行不同任务不需要预先或重复训练。消除数据预处理或注释给予了机器人更强大的自主控制。PaLM-E 是基于 Google 现有的大语言模型 PaLM，通过加入感觉信息和机器人控制使其有具身性(embodied) 。它能与处理语言的相同方式理解感觉信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宏碁证实遭黑客入侵数据被盗]]></title>
+        <id>https://www.solidot.org/story?sid=74336</id>
+        <link href="https://www.solidot.org/story?sid=74336"/>
+        <updated>2023-03-08T15:04:21.000Z</updated>
+        <summary type="html"><![CDATA[在一黑客在网络犯罪论坛宣布出售 160 Gb 大小的数据之后，宏碁证实它遭到了入侵，但否认有消费者数据被盗。宏碁称它最近发现了一起安全事故，维修技工使用的一台文档服务器遭到未经授权访问。调查还在进行之后，目前无迹象表明该服务器储存有消费者数据。黑客以门罗币出售这批被盗的数据，称包含有机密幻灯片、员工手册、机密产品文档、二进制文件、后台基础设施信息、磁盘镜像、替换的数字产品密钥和 BIOS 相关信息。黑客称这些数据是在 2 月中旬窃取到的。这不是第一次宏碁发生数据泄露安全事故，它在 2021 年发生过类似事故，有逾 60 GB 数据被盗。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让 LLaMa 能运行在 CPU 上]]></title>
+        <id>https://www.solidot.org/story?sid=74335</id>
+        <link href="https://www.solidot.org/story?sid=74335"/>
+        <updated>2023-03-08T14:41:27.000Z</updated>
+        <summary type="html"><![CDATA[AI 聊天机器人的炙手可热让 GPU 尤其是英伟达的 GPU 再次成为市场热点。今天流行的聊天机器人如 OpenAI 的 ChatGPT 运行在云服务器上，对普通用户而言日常使用只能依赖于 OpenAI。Meta 的大语言模型 LLaMA 则让工作站用户在配备服务器级 GPU 的本地计算机上运行成为可能。类似开源的文本图像模型 Stable Diffusion，开发者也在快速推动大语言模型的普及化。一位西雅图的开发者将 LLaMA 移植到了 CPU 上。对于 LLaMA-7B 模型（包含 70 亿参数） ，Ryzen 7900X 能每秒推断出多个单词。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Clock with the New CSS sin() and cos() Trigonometry Functions]]></title>
+        <id>https://css-tricks.com/?p=377074</id>
+        <link href="https://css-tricks.com/creating-a-clock-with-the-new-css-sin-and-cos-trigonometry-functions/"/>
+        <updated>2023-03-08T14:05:52.000Z</updated>
+        <summary type="html"><![CDATA[CSS trigonometry functions are here! Well, they are if you’re using the latest versions of Firefox and Safari, that is. Having this sort of mathematical power in CSS opens up a whole bunch of possibilities. In this tutorial, I thought …
+Creating a Clock with the New CSS sin() and cos() Trigonometry Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mads Stoumann</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报道披露全球逾千个甲烷超级排放点]]></title>
+        <id>https://www.solidot.org/story?sid=74334</id>
+        <link href="https://www.solidot.org/story?sid=74334"/>
+        <updated>2023-03-08T13:53:06.000Z</updated>
+        <summary type="html"><![CDATA[科学家通过全球卫星数据测量发现，2022 年全球有超 1000 个石油和天然气设施的“超级排放点”，将巨量甲烷排放至大气中。甲烷是比二氧化碳更强的温室气体，四分之一的全球暖化效应被认为可归因于甲烷排放。美国、俄罗斯和土库曼斯坦三个国家超标排放甲烷的化石燃料设施数量最多。最严重的一次甲烷泄露事件，发生在去年 8 月土库曼斯坦里海海岸附近的一条主要管道，每小时的甲烷排放量达到 427 吨，单次泄漏相当于 6700 万辆正在行驶的汽车的排放量。美国发生了 154 起超级排放事件，俄罗斯 120 起，排在前 15 的国家还有阿尔及利亚、中国、沙特阿拉伯、澳大利亚、伊朗和伊拉克。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于wolai被钉钉收购：多研究些问题少谈些逻辑]]></title>
+        <id>https://kaopubear.top/blog/2023-03-08-about-wolai-dingding/</id>
+        <link href="https://kaopubear.top/blog/2023-03-08-about-wolai-dingding/"/>
+        <updated>2023-03-08T13:40:25.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>说明：本文写在听闻钉钉收购在线笔记工具wolai，并看到两篇相关评论文章之后。</strong></p>
+<p>不在效率工具圈子很久，刚刚刷少数派看到老麦发了一篇「<a href="https://sspai.com/post/78711">钉钉收购我来 wolai 的背后逻辑</a>」才知道这个软件被钉钉收了，紧接着又看到一篇发表在MacTalk上池老师团队成员写的文章「<a href="https://mp.weixin.qq.com/s/ppXbmPbTNV0OD4GMJ2b3Rg">钉钉居然收购了我来wolai</a>」。</p>
+<p>还是忍不住说几句自己的观感：<strong>如果你和我一样是个普通用户，还是多研究些问题，少谈些逻辑。</strong></p>]]></summary>
+        <author>
+            <name>思考问题的熊</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[惠普更新打印机固件禁止非惠普墨盒]]></title>
+        <id>https://www.solidot.org/story?sid=74333</id>
+        <link href="https://www.solidot.org/story?sid=74333"/>
+        <updated>2023-03-08T10:50:15.000Z</updated>
+        <summary type="html"><![CDATA[惠普被发现更新了打印机固件禁止非惠普墨盒使用。以前惠普打印机可以使用第三方墨盒，但会显示打印质量无法保证的警告信息。现在它在检测到第三方墨盒之后停止打印，直到换上官方墨盒之后才会继续工作。惠普客服表示该公司最近向其生产的所有打印机释出了禁止非官方墨盒的更新。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克为嘲笑残疾员工道歉]]></title>
+        <id>https://www.solidot.org/story?sid=74332</id>
+        <link href="https://www.solidot.org/story?sid=74332"/>
+        <updated>2023-03-08T10:22:57.000Z</updated>
+        <summary type="html"><![CDATA[如果你没有告知被裁，你真的被裁了吗？一位 Twitter 员工遇到了该问题。Haraldur Thorleifsson 在 2 月底发现无法使用其 Twitter 凭证登陆工作站后推断自己和其他大约 200 名员工一起被裁了。然而人力资源主管无法确认他究竟有没有被解雇。他等待了 9 天仍然没有得到明确答案，于是在 Twitter 上直接 @ 老板马斯克（Elon Musk）。马斯克问他是做什么工作，Thorleifsson 称他做所有活跃设计项目的原型设计（Figma），马斯克用嘲笑的表情文字回复。马斯克随后称他没有履行其工作义务，假装残疾作为不工作的借口。Thorleifsson 解释了他的身体状况和财富，称有肌肉萎缩症，一直使用轮椅。他的财富来自于在 2021 年将其创业公司 Ueno 出售给 Twitter，他选择了以工资形式而不是一次性支付的方式获得收购对价，此举可以给当地带来更多税收。在两人的交流期间，Thorleifsson 收到了被解雇的邮件。但马斯克很快在周二晚上对他道歉，称误解了所获得的信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔称它完成了 18A 和 20A 生产节点的开发]]></title>
+        <id>https://www.solidot.org/story?sid=74331</id>
+        <link href="https://www.solidot.org/story?sid=74331"/>
+        <updated>2023-03-08T09:46:36.000Z</updated>
+        <summary type="html"><![CDATA[英特尔中国区董事长王锐表示，该公司完成了 Intel 18A (1.8nm 级) 和 Intel 20A (2nm 级）制造工艺的开发。Intel 18A 和 20A 是英特尔为其 5 纳米制程起的名字，而 Intel 4 是 7 纳米制程。完成生产节点的开发并不意味着它为商业制造做好了准备，而是代表英特尔确定了两项技术所需的规格、材料、要求和性能目标。Intel 20A 将基于环绕闸极  RibbonFET 晶体管，使用背面电力输送。目前英特尔尚未发售 Intel 4 芯片，而  Intel 20A 计划到 2024 年下半年开始量产。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阅读3 – 自建图书馆：搜书、下书、看书、管书]]></title>
+        <id>https://www.appinn.com/?p=44801</id>
+        <link href="https://www.appinn.com/hectorqin-reader-3/"/>
+        <updated>2023-03-08T07:56:32.000Z</updated>
+        <summary type="html"><![CDATA[阅读3 是一款可以自己部署的图书馆服务，部分开源，通过 Docker 部署，可以让你在浏览器上就能实现搜书、下书、看书、管书等操作，支持多用户。今日刚刚更新 v3.0.0 版本，是一款非常不错的、在家]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[域名注册商 Freenom 暂停域名注册]]></title>
+        <id>https://www.solidot.org/story?sid=74330</id>
+        <link href="https://www.solidot.org/story?sid=74330"/>
+        <updated>2023-03-08T07:43:41.000Z</updated>
+        <summary type="html"><![CDATA[域名注册商 Freenom 暂停了新域名注册，它的免费域名常被钓鱼者和垃圾邮件发送者使用。Freenom 一直对中非共和国的 .cf、加蓬的 .ga、赤道几内亚的 .gq、马里的.ml和托克劳岛的 .tk 这五个国家顶级域名免除注册费，可能是为了鼓励客户注册其它需要付费的域名。3 月 3 日，Meta 在北加州法院起诉了 Freenom，指控其违反域名抢注和商标侵犯。社交巨人还寻求获得 20 位 John Does 的身份信息，Meta 称这些用户参与了对 Facebook、Instagram 和 WhatsApp 用户的钓鱼攻击。2021 年的一项域名滥用研究发现，Freenom 提供的 5 个国家顶级域名都位于最常滥用的域名名单中。目前不清楚 Freenom 为何停止域名注册，可能是因为它最近受到了 ICANN 的纪律处分。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust for Linux 维护者谈未来计划]]></title>
+        <id>https://www.solidot.org/story?sid=74329</id>
+        <link href="https://www.solidot.org/story?sid=74329"/>
+        <updated>2023-03-08T06:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Linux 内核从 6.1 开始加入了对 Rust 语言的初步支持，Rust for Linux 维护者 Miguel Ojeda 接受采访，谈论项目的现状和未来。他表示目前的工作主要是为上游加入足够的抽象，为首批 Rust 驱动做好准备。而首批进入上游的驱动可能包括 Asahi Linux 的 GPU 驱动、Android 的 Binder 和 NVMe 驱动。它们将为未来的 Rust 内核抽象和驱动树立标杆。在此过程中还需要相关的内核维护者参与进来评估和评论代码。一旦 Rust for Linux 准备就绪，内核使用 Rust 的一个明显优点是减少内存相关漏洞。此前的报告显示，七成的漏洞是由于C/C++ 代码库中的内存安全问题导致的。如果使用 Rust 能消除其中大部分或者减轻漏洞的严重程度，那么对终端用户而言意味着安全性改进，需要紧急给内核打补丁的次数减少，企业也可能更少遭到入侵。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 的大语言模型 LLaMA 泄露]]></title>
+        <id>https://www.solidot.org/story?sid=74328</id>
+        <link href="https://www.solidot.org/story?sid=74328"/>
+        <updated>2023-03-08T05:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Meta 最近宣布了它的大语言模型 LLaMA，其参数规模从 70 亿到 650 亿参数不等，该模型的一大优势是能运行在单张显卡上。Meta 还没有开源 LLaMA，而是通过邀请制的方式出于研究的目的将源代码提供给社区。但 Meta 控制 LLaMA 访问的努力显然是徒劳的，有匿名用户通过 BT 种子公开了 LLaMA-65B——有 650 亿个参数的 LLaMA，容量为 220GB。它已被确认是真实的，已有用户在单张显卡上运行了 LLaMA，结果相当出色，这位用户使用的显卡是服务器级别的英伟达 A100 80GB。虽然模型遭到泄露，Meta 表示会继续与挑选的研究人员共享 LLaMA。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在囚犯越狱之后毛里塔尼亚切断了整个国家的移动网络]]></title>
+        <id>https://www.solidot.org/story?sid=74327</id>
+        <link href="https://www.solidot.org/story?sid=74327"/>
+        <updated>2023-03-08T03:32:48.000Z</updated>
+        <summary type="html"><![CDATA[在发生监狱骚乱囚犯越狱事件之后，毛里塔尼亚切断了整个国家的移动网络。上周日晚上，毛里塔尼亚首都努瓦克肖特 Tevragh Zeina 区的 Civil Prison 监狱发生了骚乱事件，两名守卫被杀，四名囚犯越狱，其中两人为死囚，其余两人因恐怖主义和叛国罪等待审判。当局在搜寻这些具有高度危险性的犯人时切断了当地的移动网络，随后整个国家的移动网络都被切断。这种物理性质的断网无法使用 VPN 等软件工具绕过。毛里塔尼亚的固网使用率不高，也因此没有被切断。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《城市：天际线 II》宣布]]></title>
         <id>https://www.solidot.org/story?sid=74326</id>
@@ -982,169 +1135,6 @@ AMD 过去一年的游戏业务收入 68.05 亿美元，利润 9.53 亿美元，
         <link href="https://www.solidot.org/story?sid=74250"/>
         <updated>2023-02-28T03:38:27.000Z</updated>
         <summary type="html"><![CDATA[Meta 的大语言模型 LLaMA 最近引起了广泛关注，它的一大优势是参数规模更小但性能强于 OpenAI 的 GPT-3 模型，而且能运行在单张显卡上，让普通消费者的硬件也有可能提供类似 ChatGPT 性能的 AI 聊天机器人。LLaMA 是一组大语言模型的集合，其参数规模从  70 亿到 650 亿，它最新的 LLaMA-13B 模型有 130 亿个参数，不到 GPT-3 模型 1750 亿个参数的十分之一。现在 Nebuly AI 推出了首个基于人类反馈强化学习的 LLaMA AI 聊天机器人开源实现 ChatLLaMA。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任意两个点的曲线连接JS算法]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=10719</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2023/02/js-curve-two-points/"/>
-        <updated>2023-02-27T14:03:05.000Z</updated>
-        <summary type="html"><![CDATA[突发奇想给自己想了个需求， 抽时间研究并实现了下，作为日后的技术储备，等待厚积薄发。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck 发售一周年]]></title>
-        <id>https://www.solidot.org/story?sid=74249</id>
-        <link href="https://www.solidot.org/story?sid=74249"/>
-        <updated>2023-02-27T13:53:11.000Z</updated>
-        <summary type="html"><![CDATA[Valve 的 Linux 掌机 Steam Deck 于 2022 年 2 月 25 日上市，至今一周年，它将 Linux 游戏体验带到了普通玩家手中。上市之初，Steam Deck 需要预约排队购买，但到年底，供应问题基本解决，大部分地区的用户可以现货购买。截至今年 2 月 26 日，Steam 平台有近 8000 款游戏可以在掌机上游戏，其中 3000 款获得已验证标签，其中包括过去一个月发售的热门作品如《Hi-Fi Rush》、《Spiderman Miles Morales》、《Hogwarts Legacy》和《Dead Space Remake》等。 Steam Deck 的诞生改变了 PC 玩家的游戏习惯，玩家现在投入了很多时间在掌机上玩游戏。它是 Valve 至今最成功的硬件产品。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 新语言模型能运行在单张显卡上]]></title>
-        <id>https://www.solidot.org/story?sid=74248</id>
-        <link href="https://www.solidot.org/story?sid=74248"/>
-        <updated>2023-02-27T13:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Meta 上周宣布了一个新的大语言模型 LLaMA-13B，称其参数规模更小但性能强于 OpenAI 的 GPT-3 模型，且它能运行在单张显卡上。LLaMA 语言模型的规模在从 70 亿到 650 亿参数，而 OpenAI GPT-3 模型有 1750 亿个参数。Meta 使用 Common Crawl、维基百科和 C4 等公开数据集训练其模型，它有可能公开其源代码和权重。今天绝大部分最先进的语言模型都没有公开源代码。Meta 称 LLaMA 为其基础模型，它将是未来该公司更先进模型的基础。它的 LLaMA-13B 模型在 BoolQ、PIQA、SIQA、HellaSwag、WinoGrande、ARC 和 OpenBookQA 等标准测试中的表现超过了 GPT-3。GPT-3 等衍生模型需要数据中心规模的计算能力进行处理，而 LLaMA-13B 能运行在单张显卡上，为在消费者硬件上实现类似 ChatGPT 的性能打开了大门。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摩托罗拉将月费 5 美元的卫星消息服务带给所有用户]]></title>
-        <id>https://www.solidot.org/story?sid=74247</id>
-        <link href="https://www.solidot.org/story?sid=74247"/>
-        <updated>2023-02-27T12:26:17.000Z</updated>
-        <summary type="html"><![CDATA[苹果去年发售 iPhone 14 时推出了基于卫星的紧急呼救功能，该功能目前仅对部分国家开放。此后 Android 手机厂商也在尝试推出类似的功能。预计今年下半年发布的 Android 14 也将内置部分卫星支持功能。但到目前为止，还没有企业真正开始将卫星消息服务带给普通大众。现在，英国公司 Bullitt 与摩托罗拉合作，将推出一整套端到端解决方案，为 Android 用户提供卫星通信功能。它将发布 Bullitt Satellite Connect 服务，Bullitt Satellite Messenger 应用，以及支持卫星连接的 Cat S75 智能手机，另一款摩托罗拉品牌的卫星消息手机 Motorola Defy 2，卫星消息服务热点 Motorola Defy Satellite Link。卫星消息服务的起售价为每月 5 美元。Motorola Defy 2 售价 599 美元，预计二季度上市。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2050 年全球塑料消费量预计将增加七成]]></title>
-        <id>https://www.solidot.org/story?sid=74246</id>
-        <link href="https://www.solidot.org/story?sid=74246"/>
-        <updated>2023-02-27T11:40:34.000Z</updated>
-        <summary type="html"><![CDATA[根据最新分析，若日美欧和中国等二十国集团（G20）不采取新措施，2050 年塑料消费量将达到 2019 年的 1.7 倍，可能导致严重的海洋污染。结果还显示，即便加强禁用部分塑料制品或征税等措施，2050 年消费量也将增至 2019 年的 1.2 倍。研究团队以 G20 各国塑料消费量和人口等数据为基础，通过计算机建模对 3 项政策的效果进行估算。分别为（1）禁用部分一次性塑料制品（2）向以石油为原料的塑料制品征税（3）彻底做好要求制品厂商负担废弃物处理等费用的“扩大生产者责任”。若不采取新措施，2019 年 2.61 亿吨的消费量到 2050 年将增至 4.51 亿吨。即便考虑各种限制措施，到 2050 年消费量也将达到 3.25 亿吨，增势或难以停歇。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lively Wallpaper 音乐壁纸：用小电视，显示当前播放的音乐[Windows]]]></title>
-        <id>https://www.appinn.com/?p=44723</id>
-        <link href="https://www.appinn.com/lively-wallpaper-music/"/>
-        <updated>2023-02-27T10:07:44.000Z</updated>
-        <summary type="html"><![CDATA[Lively Wallpaper 是一款开源的 Windows 动态壁纸工具，近日新增音乐壁纸功能，桌面上会增加一个小电视，并实时显示当前播放的音乐信息，支持 SPotify、foobar2000、原]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究称男性体力劳动者的精子数更多]]></title>
-        <id>https://www.solidot.org/story?sid=74245</id>
-        <link href="https://www.solidot.org/story?sid=74245"/>
-        <updated>2023-02-27T10:02:22.000Z</updated>
-        <summary type="html"><![CDATA[当今社会中，不孕不育是一个日益严重的问题，由多种复杂因素介导。大约 40% 的不孕不育案例根源在于男性精子数量、质量以及性功能等方面的问题。其中精子数量和质量被认为是男性不育率不断上升的主要驱动因素。旨在探讨环境化学物质暴露和不同生活方式如何影响生殖健康的大型研究——环境与生殖健康研究（EARTH）的一项分析发现，在 2000 年至 2017 年间接受不育治疗的男性中，精子数量与质量下降了 42% 之多。在最新研究中，研究人员分析了 377 名在生育中心寻求治疗的不育男性，发现与体力工作较少的男性相比，经常在工作中举起或移动重物的男性精子浓度高 46%、精子总数高 44%。进行更多体力活动的男性还具有较高水平的男性性激素睾酮以及雌激素。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 年勒索软件攻击频率和勒索金额下降]]></title>
-        <id>https://www.solidot.org/story?sid=74244</id>
-        <link href="https://www.solidot.org/story?sid=74244"/>
-        <updated>2023-02-27T09:55:41.000Z</updated>
-        <summary type="html"><![CDATA[根据 Google 子公司 Mandiant 的报告，勒索软件黑帮在过去的一年里不太成功。Mandiant 响应的勒索软件事件减少了 15%。而勒索软件组织索要的赎金平均金额下降了 28%，从一年前的 570 万美元减少到 410 万美元。另一家安全公司 CrowdStrike 认为原因包括勒索软件黑帮的成员遭到逮捕，比特币等加密货币的币值下降，等等。根据 Chainalysis 的分析，2022 年勒索软件组织的总收入从 2021 年的 7.656 亿美元下降到 2022 年的大约 4.568 亿美元，下降了 40.3%。受害者支付赎金的概率也在下降。这种情况导致了勒索软件组织也发生了裁员事件，有报道称前勒索软件组织 Conti 的成员解雇了 45 名客服。这些客服是实施网络骗局的一部分。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[龙芯的 LSX 和 LASX 向量扩展]]></title>
-        <id>https://www.solidot.org/story?sid=74243</id>
-        <link href="https://www.solidot.org/story?sid=74243"/>
-        <updated>2023-02-27T08:04:53.000Z</updated>
-        <summary type="html"><![CDATA[龙芯最初是基于 MIPS 指令集架构，但最近切换到了名为 LoongArch 的自研架构。新的指令集架构保留了大量 MIPS 的语义，但使用了不兼容的编码，它的扩展支持也更好。LoongArch 的 LSX 和 LASX 向量扩展就是其中的典型例子。LSX 类似 x86 架构的 SSE，有 128 位向量寄存器和相应指令。LASX 类似 AVX2，都是 256 位向量扩展。与 SSE 和 AVX2 不同的是，LSX 和 LASX 没有公开的文档。但龙芯的 Linux 系统 Loongnix 提供了 LSX/LASX 工具链，让外界有机会更深入的了解这些向量扩展。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查称部分企业开始用 ChatGPT 取代员工]]></title>
-        <id>https://www.solidot.org/story?sid=74242</id>
-        <link href="https://www.solidot.org/story?sid=74242"/>
-        <updated>2023-02-27T07:05:08.000Z</updated>
-        <summary type="html"><![CDATA[Resumebuilder.com 调查了 1000 名计划使用或已经使用 ChatGPT 的企业领导人，发现近半数企业部署了 ChatGPT，部分企业还表示已经开始用 ChatGPT 取代员工。企业高管谈论了 ChatGPT 的用途，其中 66% 用于写代码，58% 用于文案和内容创作，57% 用于客户支持，52% 用于写会议摘要和其它文档。在招聘过程中，使用 ChatGPT 的企业还有 77% 用它撰写工作职位描述、66% 用它起草面试申请书，65% 回应求职书。大部分企业领导人对 ChatGPT 的表现印象深刻，55% 的人认为工作质量“出色”，34% 的人认为“非常好”。几乎所有使用 ChatGPT 的公司表示节省了资金，48% 表示节省逾 50,000 美元，11% 表示节省逾 100,000 美元。这些企业中 93% 还计划扩大对 ChatGPT 的使用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 和开源软件由谁开发]]></title>
-        <id>https://www.solidot.org/story?sid=74241</id>
-        <link href="https://www.solidot.org/story?sid=74241"/>
-        <updated>2023-02-27T06:11:54.000Z</updated>
-        <summary type="html"><![CDATA[开源云数据平台公司 Aiven 分析了 GitHub 代码项目，发现最主要的代码贡献者来自于 AWS、英特尔、Red Hat、Google 和微软等科技公司。Aiven 根据贡献者的数量、贡献者的项目以及递交数量三个指标进行分析，结果是微软和 Google 并列第一，Red Hat 第三，英特尔第四，之后是 AWS 和 IBM。在 2022 年第四季度，微软开发者递交的代码数量最多为 128,247，Red Hat 第二 125,012，Google 只有 94,961。而 Google 参与开源项目的人数最多有 5,757 人，微软 5,513 人，Red Hat 3,656 人。对 Linux Kernel 5.16 到 6.1 时代码作者的分析有类似的发现，开发者主要来自 AMD（主要是驱动代码多）、英特尔、Google、Linaro、主要的 Arm Linux 开发组织，Meta 和 Red Hat 等企业，只有 7.5% 的内核开发来自个人开发者。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter 突然关闭内部使用的 Slack 频道]]></title>
-        <id>https://www.solidot.org/story?sid=74240</id>
-        <link href="https://www.solidot.org/story?sid=74240"/>
-        <updated>2023-02-27T05:33:03.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 上周三突然关闭了内部使用的 Slack 频道，员工失去了 Slack 访问。一时传闻四起，有 Twitter 员工在 Blind 上匿名发帖时猜测是因为公司停止向 Slack 付钱。Twitter 员工也失去了跟踪软件 Jira 的访问。Twitter 告诉员工 Slack 频道关闭是“例行维护”，然而 Slack 员工反驳说“胡扯”，不存在所谓的“例行维护”。Slack 发言人证实该公司与 Twitter 频道关闭无关。为什么 Slack 频道被关闭？可能是  Twitter CEO Elon Musk 寻找更多削减成本的方法或测试其它内部沟通工具。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[傲梅轻松备份 7.2 版本发布，新增 Microsoft Outlook 备份]]></title>
-        <id>https://www.appinn.com/?p=44717</id>
-        <link href="https://www.appinn.com/aomei-backupper-7-2/"/>
-        <updated>2023-02-27T05:01:30.000Z</updated>
-        <summary type="html"><![CDATA[傲梅轻松备份（AOMEI Backupper）是一款十分著名的 Windows 备份工具，由位于成都的开发商开发，其国际版本近日发布了 7.2 版本，新增 Microsoft Outlook 备份功能]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[龙宫沙粒样本富含数万种有机化合物]]></title>
-        <id>https://www.solidot.org/story?sid=74239</id>
-        <link href="https://www.solidot.org/story?sid=74239"/>
-        <updated>2023-02-27T04:28:35.000Z</updated>
-        <summary type="html"><![CDATA[日本研究团队发表研究成果称，探测器“隼鸟2号”在小行星“龙宫”采集的沙粒样本中含有约 2 万种有机化合物。其中至少有 20 种是氨基酸，以及蛋白质构成材料。有学说认为氨基酸是被太空飞来的陨石带到地球，此次成果有利于佐证该学说。样本中的氨基酸与地球上的氨基酸特点不同。氨基酸存在两种构型，其关系如同人的左右手。地球的生命几乎只利用了其中之一，但样本中的 20 种氨基酸中约有 5 种以两种构型 1 比 1 的比例存在。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should you send marketing emails on weekends?]]></title>
-        <id>https://catonmat.net/marketing-emails-on-weekends</id>
-        <link href="https://catonmat.net/marketing-emails-on-weekends"/>
-        <updated>2023-02-26T22:45:00.000Z</updated>
-        <summary type="html"><![CDATA[At Browserling and Online Tools, we ran an experiment to see if it was worth sending marketing emails on weekends.
-It turned out weekends had very good open rates for personal email addresses (@gmail, @yahoo, @hotmail, @outlook, etc) but no open rates for business emails (all other non-@gmail etc addresses).
-So from now on we're sending marketing emails to businesses only on weekdays but to everyone else we send marketing emails on all days of the week, including Saturdays and Sundays.
-See you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla 发现八成的 Google Play 应用安全标签是不精确的]]></title>
-        <id>https://www.solidot.org/story?sid=74238</id>
-        <link href="https://www.solidot.org/story?sid=74238"/>
-        <updated>2023-02-26T15:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla 基金会的研究发现，八成 Google Play 应用的安全标签是不精确的。Mozilla 隐私研究团队检查了 Google Play 商店里的 40 款最受欢迎的应用（基于下载量）， 对比了它们的隐私政策和报告给 Google 的 Data Safety Form 的信息，发现其中 16 款即 40% 的应用在隐私政策和自我报告的信息之间存在巨大差异，获得了差的评分，15 款应用获得了需要改进的评分，只有 6 款应用获得了 OK 的评分，其中包括 Stickman Legends Offline Games、Power Amp Full Version Unlocker、League of Stickman: 2020 Ninja、Google Play Games、 Subway Surfers 和 Candy Crush Saga。Mozilla 发现 Google 的 Data Safety Form 报告有漏洞，没有要求应用披露与服务提供商共享数据，使用了收集和共享的狭窄定义。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
