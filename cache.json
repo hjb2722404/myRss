@@ -12,6 +12,31 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44864",
+          "author": "青小蛙",
+          "description": "通知滤盒是一款 Android 系统通知管理器，它能够完整记录 30 天的历史通知内容，通过各种规则过滤，让你只看到需要的通知。今日新增了机器学习过滤，「提供了最适合简中互联网环境的，开箱即用的过滤体",
+          "link": "https://www.appinn.com/filter-box-ml/",
+          "publishedOn": "2023-03-15T08:44:49.000Z",
+          "wordCount": 2220,
+          "title": "通知滤盒 – 用机器学习过滤 Android 通知，适合简中互联网环境，开箱即用",
+          "enclosure": {
+            "url": "https://iceboxdoc.catchingnow.cn/files/%E5%BD%95%E5%B1%8F-%E9%80%9A%E7%9F%A5%E6%BB%A4%E7%9B%92-%E8%AE%BE%E5%A4%87%E7%AB%AF%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.mp4",
+            "length": "3314591",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/filter-box.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=44858",
+          "author": "青小蛙",
+          "description": "Chat YouTube 是一款基于 ChatGPT 与 OpenAI 的在线服务，只需要给它一个油管视频链接，就能针对视频内容向它提问，或者让它总结视频内容，甚至帮你直接理解外语视频内容，再也不用看",
+          "link": "https://www.appinn.com/chat-youtube/",
+          "publishedOn": "2023-03-15T06:17:59.000Z",
+          "wordCount": 2224,
+          "title": "Chat YouTube – 用 ChatGPT 总结视频、向视频提问。再也不用看视频了。",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/chat-yt.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44853",
           "author": "青小蛙",
           "description": "ChatMind 是一个利用 AI 自动生成思维导图的在线工具，只需要输入问题、文章、数据就可以了。并且对于问题，它还能自己获取答案，可导出图片与 Markdown 文档两种格式。@Appinn 实际",
@@ -150,31 +175,6 @@
           "wordCount": 2359,
           "title": "Joyfusion – AI 绘画，不用显卡，0基础，有手机就能画[macOS/iOS]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/joyfusion.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44788",
-          "author": "青小蛙",
-          "description": "OpenAI Translator 是一款浏览器扩展，基于 ChatGPT API 的划词翻译，支持 55 种语言的相互翻译和润色功能。目前还在扩展商店审核中，需要以开发者模式安装。@Appinn 感",
-          "link": "https://www.appinn.com/openai-translator-for-chrome/",
-          "publishedOn": "2023-03-06T12:58:57.000Z",
-          "wordCount": 2259,
-          "title": "OpenAI Translator – 基于 ChatGPT API 的划词翻译，55 种语言互译[Chrome]",
-          "enclosure": {
-            "url": "https://static1.appinn.com/wp-content/uploads/2023/03/ezgif.com-video-cutter.mp4",
-            "length": "266828",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/openai-translator.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44782",
-          "author": "青小蛙",
-          "description": "🤖️ ChatGPT Siri 是一个 iOS、macOS 上的快捷指令，用来通过 Hi Siri 的方式，向 ChatGPT 提问。@Appinn 感谢群组的小伙伴推荐，一大早就分享了一堆。今天继续",
-          "link": "https://www.appinn.com/chatgpt-siri/",
-          "publishedOn": "2023-03-06T07:24:29.000Z",
-          "wordCount": 2321,
-          "title": "🤖️ ChatGPT Siri – 语音指令，用 Hi Siri 向 ChatGPT 提问[快捷指令]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/chatgpt-siri.jpgo_.jpg"
         }
       ]
     },
@@ -248,6 +248,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10770",
+          "author": "张 鑫旭",
+          "description": "除了absolute绝对定位，margin负值，grid重叠外，我有发现了一种可以让元素叠加的CSS方法，是什么呢？",
+          "link": "https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/",
+          "publishedOn": "2023-03-15T15:48:59.000Z",
+          "wordCount": 996,
+          "title": "又发现一种无需绝对定位就可以元素重叠的CSS技巧",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10764",
           "author": "张 鑫旭",
           "description": "Safari啊Safari，都这个年代了，你还支持text-align-last作甚，当年千呼万唤你不出来，如今无人问津了却粉墨登场，唉，支持总归不必支持好，在单行内容的纯文本控制领域，这个属性还是有个无可替代的优势的。",
@@ -264,6 +274,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74403",
+          "author": null,
+          "description": "中国音像与数字出版协会通过其官方微信账号发布了《游戏分发与推广基本要求》的征求意见稿，游戏公司的意见递交截止日期为 4 月 13 日。该《要求》由抖音、腾讯、完美世界、华为、紫龙互娱、易玩网络（TapTap）等公司共同制定。音数协称，2021 年中国玩家数量达到 6.66 亿，在巨大的市场和利益的驱动下，大量游戏非法发布和推广。《基本要求》将有助于解决仿冒、版权纠纷、游戏成瘾、过度消费和用户隐私侵犯等问题。根据规定，一款游戏在发布前必须在内容方面满足 11 条要求，包括不得“泄露国家秘密、危害国家安全、损害国家荣誉和利益”，不得“宣扬淫秽、色情、赌博、暴力、或帮助犯罪”。游戏广告还必须“符合建设社会主义精神文明的要求”。规定还对未成年人保护提出了严格要求，要求网络游戏必须接入防沉迷实名认证系统。",
+          "link": "https://www.solidot.org/story?sid=74403",
+          "publishedOn": "2023-03-15T13:35:49.000Z",
+          "wordCount": 150,
+          "title": "《游戏分发与推广基本要求》征求意见发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74402",
+          "author": null,
+          "description": "Mozilla 释出了 Firefox 111.0。主要新特性包括：启用 Windows 原生通知，生成随机电邮地址和电话号码的 Firefox Relay 服务的用户可选择直接从凭证管理器创建假电邮；启用文件系统访问 API，等等。文件系统访问 API 允许操作用户本地设备上的文件，支持读写和保存，调用该 API 将会要求得到用户的明确许可，并且在标签关闭之后需要重新获得授权。",
+          "link": "https://www.solidot.org/story?sid=74402",
+          "publishedOn": "2023-03-15T12:36:15.000Z",
+          "wordCount": 167,
+          "title": "Firefox 111.0 启用文件系统访问 API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74401",
+          "author": null,
+          "description": "在销售 ARM 单板电脑 Tinker Board 五年之后，华硕发布了第一款 RISC-V 单板电脑 Tinker V。Tinker V 面向工业 IoT 开发者社区，支持 Debian Linux 和 Yocto 发行版，未来预计会支持更多发行版。Tinker V 将会在二季度开始出样品，价格尚未公布。它的速度估计不会很快，因为使用的 RISC-V 处理器主频只有 1GHz 而且为单核。 Tinker V 使用 Renesas RZ/Five 的 AndesCore AX45MP 单核 1.0GHz 处理器，1GB DDR4 内存和一个可选的 16GB eMMC 和 micro SD 插槽。因为专注于物联网，没有任何显示支持。",
+          "link": "https://www.solidot.org/story?sid=74401",
+          "publishedOn": "2023-03-15T11:02:07.000Z",
+          "wordCount": 201,
+          "title": "华硕发布第一款 RISC-V 单板电脑 Tinker V",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74400",
+          "author": null,
+          "description": "今年 2 月，俄罗斯勒索软件组织 BlackCat 入侵了 Lehigh Valley Health Network（LVHN）医院集团旗下的一个诊所，访问了接受放射肿瘤治疗的病人照片系统。LVHN 拒绝了该组织提出的赎金要求。数周后，BlackCat 在其暗网勒索网站上发表声明，威胁公开窃取的病人数据。它随后公布了三张癌症患者接受放射性治疗的屏幕截图和七份包含患者信息的文件。这些照片相当私密，从不同角度拍摄了患者裸露的乳房。安全研究人员表示，随着愈来愈多的组织拒绝支付赎金，勒索软件组织在勒索赎金上开始采取极端的做法。另一个勒索软件组织 Medusa 本周二公布了上个月攻击 Minneapolis Public Schools（MPS）中窃取的样本数据，其中包括性侵指控相关的文件和涉及的男女学生名字。Medus 要求支付 100 万美元赎金，MPS 表示它未支付赎金。",
+          "link": "https://www.solidot.org/story?sid=74400",
+          "publishedOn": "2023-03-15T10:40:42.000Z",
+          "wordCount": 160,
+          "title": "勒索软件攻击进入到了令人发指的新阶段",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74399",
+          "author": null,
+          "description": "根据发表在 PNAS 上的一项研究，在 DeepMind 的 AlphaGo 击败最强大的人类棋手之后，人类棋手通过与 AI 棋手对弈而取得了显著进步。香港城市大学的研究人员收集了 1950 年至 2021 年间职业棋手作出的 580 万次移棋决策的数据集。然后使用围棋人工智能帮助计算一种称为“决策质量指数”（DQI）的指标。该指标用于评估一步棋的质量。如果没有尝试与之前的动作相结合，即认为一个动作是“新颖的”。分析发现，人类棋手对 2016 年围棋人工智能的出现作出了明显更好、更新颖的反应。1950 年至 2015 年间，围棋水平的改善相对较小，年度 DQI 中值在 -0.2 至 0.2 之间波动。而在 2016 年后，DQI 跃升，2018 年至 2021 年间的中值超过 0.7。",
+          "link": "https://www.solidot.org/story?sid=74399",
+          "publishedOn": "2023-03-15T09:39:16.000Z",
+          "wordCount": 178,
+          "title": "AI 棋手帮助人类棋手进步",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74398",
+          "author": null,
+          "description": "亚马逊展示了三种卫星宽带用户终端，计划在 2024 年推出卫星宽带服务。亚马逊未披露这些终端的售价：标准版小于 11 平方英寸，能提供最高 400 Mbps 的传输速度，制造成本低于 400 美元/台；紧凑版大小为 7 英寸，传输速度最高 100 Mbps，制造成本更低；大型版尺寸为 19 英寸× 30 英寸，传输速度最高 1Gbps。三个版本针对不同的客户和需求。这些终端使用了名为 Prometheus 的定制芯片，亚马逊计划 2023 年上半年发售两颗宽带卫星原型，2024 年上半年发射首批卫星，2024 年年底开始提供服务。它从 FTC 获得了发射 3,236 颗卫星的许可。",
+          "link": "https://www.solidot.org/story?sid=74398",
+          "publishedOn": "2023-03-15T09:05:14.000Z",
+          "wordCount": 177,
+          "title": "亚马逊计划在 2024 年推出卫星宽带服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74397",
+          "author": null,
+          "description": "用于渗透测试、安全审计和网络安全研究的发行版 Kali Linux 项目发布了一个专门用于防御的版本 Kali Purple。开发者表示这代表着一个新的时代，Kali 不再是进攻用，它还能防御了。Kali Purple 提供了逾百种安全防御工具，包括完整的数据包捕获和分析工具 Arkime，网络瑞士军刀 CyberChef，漏洞扫描工具 GVM，入侵检测系统 Suricata 和 Zeek，网络流量分析工具 Malcolm，事件响应平台 TheHive，安全信息和事件管理工具 Elastic Security，等等。",
+          "link": "https://www.solidot.org/story?sid=74397",
+          "publishedOn": "2023-03-15T07:47:12.000Z",
+          "wordCount": 172,
+          "title": "Kali Linux 发布防御安全发行版 Purple",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74396",
+          "author": null,
+          "description": "Google 开始了一切产品都整合生成式 AI 的尝试。搜索巨人宣布将在包括 Google Docs 和 Gmail 在内的 Google Workspace 产品中加入 AI。Docs 和 Gmail 集成的生成式 AI 将可以帮助用户起草初稿，润色文字，在 Gmail 中它能对邮件进行回复总结和优先处理，在 Docs 中校对和重写文章，能在 Slides 中自动生成图像、声频和视频将用户的创意变成现实，在 Sheet 中通过自动完成、公式生成和上下文分类从原始数据中得到洞察和分析。Google Workspace 从 3 月 14 日开始月费上涨二成。",
+          "link": "https://www.solidot.org/story?sid=74396",
+          "publishedOn": "2023-03-15T07:08:13.000Z",
+          "wordCount": 189,
+          "title": "Google Workspace 加入对 AI 的支持同时涨价二成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74395",
+          "author": null,
+          "description": "Meta CEO 扎克伯格(Mark Zuckerberg)在周二发给员工的一封电子邮件中表示，该公司将在未来几个月进行多轮裁员，同时取消一些项目，并放慢招聘速度，作为他所称的“效率之年”的一部分。扎克伯格表示，首先裁员的将是该公司的招聘团队，随后将在 4 月底对技术团队进行重组和裁员。他说，业务团队将在 5 月面临裁员。该公司也将停止招聘约 5,000 个空缺职位。扎克伯格表示，他的公司必须应对经济中的长期变化，主要是低利率时代的结束、日益加剧的地缘政治紧张局势，以及代价高昂的新法规。Meta已 于去年秋天宣布该公司史上首次大规模裁员行动，当时宣布的裁员人数约为 1.1 万人，相当于其员工总数的 13%。新一轮裁员的规模可能与之前相当。",
+          "link": "https://www.solidot.org/story?sid=74395",
+          "publishedOn": "2023-03-15T06:01:00.000Z",
+          "wordCount": 158,
+          "title": "Meta 将再次裁员上万名员工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74394",
+          "author": null,
+          "description": "OpenAI 正式公布了它的多模态大语言模型 GPT-4。GPT-4 是多模态模型，这是和 GPT-3 的一个显著区别，它的输入输出不再局限于文本，可以是图像或者是视频。简单对比的话 ，GPT-4 和 GPT-3.5 的差别可能很小，OpenAI 称当任务的复杂性达到足够的阈值，GPT-4 优势就会非常明显，它更可靠，更富有创造性，能处理更细微的指令。GPT-3.5 有 1750 亿个参数，GPT-4 的情况未知，可能更多，它的数据训练集仍然停留在 2021 年 9 月，但它在测试中的表现远胜于 GPT-3.5。OpenAI 称它在律师考试中的得分能进入前 10%，而 GPT-3.5 是后 10%；在生物奥林匹克竞赛 USABO Semifinal 2020 和 GRE 写作中能接近满分。但它也存在与 GPT-3.5 类似的局限性，就是会产生错误的答案会胡说八道。OpenAI 演示了 GPT-4 处理税务问题、图像识别等问题的能力。目前 GPT-4 还没有开放给公众试用。",
+          "link": "https://www.solidot.org/story?sid=74394",
+          "publishedOn": "2023-03-15T05:52:38.000Z",
+          "wordCount": 190,
+          "title": "OpenAI 宣布 GPT-4",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74393",
           "author": null,
@@ -1053,126 +1163,6 @@
           "wordCount": 159,
           "title": "探测木星卫星是否支持生命的探测器即将发射",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74313",
-          "author": null,
-          "description": "1986 年乌克兰切尔诺贝利核电站发生灾难性的核事故后，当地居民被迫永久撤离，留下了他们的家，部分情况下还有宠物。由于担心被遗弃的动物可能会传播疾病或污染人类，官员试图将其灭绝。但有部分犬活了下来。它们还与清理切尔诺贝利核电站的工作人员建立了关系，他们偶尔会提供食物。有冒险精神的游客也会施舍食物。今天有数百只流浪犬生活在被称为禁区的事故区域附近，它们在废弃的 Pripyat 城流浪，睡在高度污染的 Semikhody 火车站。科学家分析了 302 只犬的 DNA，它们代表了生活在禁区、距离现场数十公里的不同狗群。结果显示，生活在切尔诺贝利的犬的基因有显著差异。但现在下结论说辐射环境促成了这一切还为时过早，还需要进一步的研究。研究报告发表在《Science Advances》期刊上。",
-          "link": "https://www.solidot.org/story?sid=74313",
-          "publishedOn": "2023-03-06T14:32:19.000Z",
-          "wordCount": 150,
-          "title": "科学家调查切尔诺贝利核辐射对流浪犬的影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74312",
-          "author": null,
-          "description": "LastPass 的严重安全事故本可可以避免。攻击者利用了该公司一高级工程师家用电脑上安装的 Plex 软件的一个已知漏洞，而该漏洞早在 2020 年 5 月 7 日就修复了，但不知道出于什么原因，这位工程师从未更新软件打上补丁。该漏洞允许能访问服务器管理员 Plex 账号的人通过 Camera Upload 功能上传恶意文件，利用服务器数据目录位置与 Camera Upload 允许上传的库重叠，让 Plex 媒体服务器执行该恶意文件。Plex Media Server v1.19.3 修复了该漏洞，而到攻击者利用漏洞入侵工程师的电脑时 Plex 都发布了 75 个版本。",
-          "link": "https://www.solidot.org/story?sid=74312",
-          "publishedOn": "2023-03-06T13:43:04.000Z",
-          "wordCount": 172,
-          "title": "LastPass 工程师被利用的软件漏洞有近三年历史",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74311",
-          "author": null,
-          "description": "得州拟议中的一项法律将强迫 ISP 屏蔽包含如何获得堕胎或堕胎药等相关信息的网站。该法案由该州共和党众议员 Steve Toth 提出。得州已经制定了多项严格限制堕胎的法律，但最新法案因试图控制 ISP 如何提供 Web 访问而引人注目。该法案列出了六个必须被屏蔽的网站：aidaccess.org、heyjane.co、plancpills.org、mychoix.co、justthepill.com 和 carafem.org。法案还表示任何知道网站含有被禁止的堕胎信息的人都可以向 ISP 举报。它还试图将法律的适用范围扩大到得州之外，称堕胎药物如果是来自得州之外，那么销售者或提供者将会面临民事责任。",
-          "link": "https://www.solidot.org/story?sid=74311",
-          "publishedOn": "2023-03-06T09:58:04.000Z",
-          "wordCount": 162,
-          "title": "得州法案想要 ISP 屏蔽堕胎网站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74310",
-          "author": null,
-          "description": "币安高管之间的私人聊天记录披露了该公司如何躲避美国监管的计划。币安是目前世界最大的加密货币交易平台。一位币安高管在聊天中警告同事，美国监管机构的任何诉讼对币安的业务及其管理人员都相当于一场“核辐射”。它因此制定了躲避美国监管的方案，其核心是建立了一个服务于美国市场的平台 Binance.US，该平台授权使用了币安的品牌和技术，但其它方面被认为独立于币安，以避免美国当局对规模更大的币安的监管，而币安则将美国用户排除在外。然而内部通信和文件显示，币安和 Binance.US 之间的关系非常密切，员工和财务基本混在一起，共享一个交易加密货币的实体。币安在中国的开发者维护了 Binance.US 用户钱包使用的代码。至少在 2021 年夏天前上海开发者维护了 Binance.US 的关键软件功能，而上海开发商的合同是与币安而不是 Binance.US 签署的。如果美国监管机构认定币安控制了一家美国公司，那么它有可能声称对币安的整个业务拥有监管权。币安创始人赵长鹏及其财务状况可能将面临更严格的审查。",
-          "link": "https://www.solidot.org/story?sid=74310",
-          "publishedOn": "2023-03-06T09:39:42.000Z",
-          "wordCount": 152,
-          "title": "币安躲避美国监管的计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74309",
-          "author": null,
-          "description": "Linus Torvalds 释出了 Linux Kernel 6.3-rc1，关闭了合并窗口。主要新特性包括：改进了 EXT4 文件系统 direct I/O 速度，AMD-Xilinx XDMA 驱动，通过 Automatic IBRS 优化 AMD Zen4 性能，8BitDo Pro 2 有线手柄支持，Intel TPMI 驱动，英特尔 TDX、CXL 和 LKGS 指令支持，Ath12k 无线驱动，IPv4 BIG TCP 支持，Btrfs 性能优化，移除 Intel ICC 编译器支持，等等。Linux 6.3 正式版预计会在 4 月底或 5 月初发布。",
-          "link": "https://www.solidot.org/story?sid=74309",
-          "publishedOn": "2023-03-06T08:01:14.000Z",
-          "wordCount": 195,
-          "title": "Linux Kernel 6.3-rc1 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74308",
-          "author": null,
-          "description": "记者 Richard Lewis 援引匿名消息来源报道，Valve 正在开发中的《反恐精英 2（CS2）》可能会在本月进入 beta 测试。此前英伟达的最新驱动被发现包含了两个可执行文件：csgos2.exe 和 cs2.exe。《反恐精英 2》是暂定的名字，将使用 Source 2 引擎，它目前是 Valve 的工作重心，这可以部分解释为什么 CSGO（反恐精英全球攻势）中的部分问题无人处理。消息来源称新作的服务器将使用 128 tick（服务器每秒接收并运算的次数，128 tick 代表每秒 128 次），与 Riot Games 开发的竞品《Valorant》相同。游戏还将改进配对系统，让玩家获得与其竞技水平更一致的体验。",
-          "link": "https://www.solidot.org/story?sid=74308",
-          "publishedOn": "2023-03-06T06:57:10.000Z",
-          "wordCount": 174,
-          "title": "Valve 在开发《反恐精英 2》",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74307",
-          "author": null,
-          "description": "2003 年 3 月 7 日，苦苦挣扎的 SCO Group 公司对 IBM 提起诉讼，声称 Linux 的成功是窃取其技术的结果。20 年后回顾这起诉讼，很容易将其视为 Linux 发展过程中的一个好笑的插曲。但在当时，它震撼了整个 Linux 社区。SCO 声称是 UNIX 操作系统的拥有者，它出售了一款在 x86 硬件上运行的私有 Unix 系统。当时私有 UNIX 系统的黄金时代已经过去，SCO 的 UNIX 产品销量也不行。它推断背后原因是 Linux 的增长，但它同时认为靠 Linux 本身是不可能威胁到 Unix。它认为 Linux 窃取了 UNIX 的技术，盗用了 UNIX 代码、方法或概念，它提起了 10 亿美元的索赔，之后进一步提高到 50 亿美元。虽然没有确认，当时人们普遍认为 SCO 诉 IBM 是为了迫使 IBM 收购 SCO，这可以解决该公司的业务问题，所需资金也低于索赔金额。但 IBM 拒绝玩这个游戏。",
-          "link": "https://www.solidot.org/story?sid=74307",
-          "publishedOn": "2023-03-06T06:09:04.000Z",
-          "wordCount": 210,
-          "title": "SCO 诉 IBM 20 年后",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74306",
-          "author": null,
-          "description": "Alphabet 的裁员在继续。它在今年 1 月宣布裁员 1.2 万人，进入 3 月后不断传出更多的裁员消息。它关闭了子公司 Everyday Robots，所有员工都被解雇。它的自动驾驶子公司 Waymo 宣布了第二轮裁员共 137 人，今年内的两次裁员共裁掉员工总数的 8% 合计 209 人。Waymo 表示要将精力集中到在商业上取得成功。它已经有 14 年历史了，是自动驾驶汽车领域的领导者，但仍然距离商业成功还很遥远，甚至还看不到尽头。它刚刚宣布其自动驾驶出租车只搭载乘客（即没有人类司机在旁监督）的行驶里程已超过了百万英里。但它扩大自动驾驶出租车业务还面临着成本和安全方面的挑战。",
-          "link": "https://www.solidot.org/story?sid=74306",
-          "publishedOn": "2023-03-06T04:58:54.000Z",
-          "wordCount": 169,
-          "title": "Waymo 今年内裁员了 8%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74305",
-          "author": null,
-          "description": "ChatGPT等AIGC背后的智能是个黑盒子，所以用户-使用者是同等的创新者。鉴于爱因斯坦曾经说，提出一个问题往往比解决一个问题更重要。在黑客，闪客和博客、奇客（极客）等等之后，应该有“问客”。",
-          "link": "https://www.solidot.org/story?sid=74305",
-          "publishedOn": "2023-03-06T03:55:21.000Z",
-          "wordCount": 167,
-          "title": "“问客”诞生，第四次工业革命才算石锤了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74304",
-          "author": null,
-          "description": "Zen 2 对于 AMD 而言具有重要意义，它代表着十几年来其 CPU 的单线程性能首次能与英特尔最好的产品不相上下。Zen 2 也开创了桌面 CPU 能最高有 16 个核心的潮流，消费者无需购买 HEDT 平台就能拥有强大的多线程性能。Zen 2 也非常灵活，能满足低功耗需求，以至于 AMD 在发布 Zen 3 后的 2021 年还推出了使用 Zen 2 核心的产品如 Ryzen 7 5700U。梵高 APU 是另一个例子，它是一款独一无二的产品，集成了四个 Zen 2 核心和  RDNA 2 GPU。梵高 APU 不是通用的笔记本芯片，它只用于 Valve 的掌机 Steam Deck，它也没有专有名字，而是自称 AMD Custom APU 0405。Chipsandcheese 发表文章详解了梵高 APU，解释了为什么它的 CPU 性能显著低于同类产品——为了在有限的功率范围内最大化 RDNA 2 GPU 的性能而牺牲了 CPU 性能。",
-          "link": "https://www.solidot.org/story?sid=74304",
-          "publishedOn": "2023-03-06T03:11:43.000Z",
-          "wordCount": 214,
-          "title": "详解 Steam Deck 的梵高 APU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74303",
-          "author": null,
-          "description": "一项新研究发现，每天多走 500 步，罹患心脏病、中风或心脏衰竭的风险可降低 14%。研究人员分析了 452 名参与者的健康资料， 这些参与者使用类似于计步器的加速计装置，该装置佩戴在髋部，可测量他们的每日步数。参与者平均年龄为 78 岁；其中 59% 为女性。在 3.5 年的随访期间， 7.5% 的参与者经历过心血管疾病事件， 例如冠状动脉心脏病、中风或心脏衰竭。分析发现：与每天步行少于 2,000 步的成年人相比，观察显示每天步行约 4,500 步的成年人发生心血管事件的风险要降低 77%。将近 12% 的每天步行少于 2,000 步的老年人经历过心血管事件，而每天步行约 4,500 步的参与者有 3.5% 经历过心血管事件。每天每多走 500 步，可逐渐将患心血管疾病的风险降低 14%。",
-          "link": "https://www.solidot.org/story?sid=74303",
-          "publishedOn": "2023-03-05T15:51:30.000Z",
-          "wordCount": 180,
-          "title": "研究发现老年人每天多走 500 步可减少患心脏病中风等的风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74302",
-          "author": null,
-          "description": "瑞典国有的电力公司 Vattenfal 发表了海鸟和海上风力涡轮机互动的研究。2020 年和 2021 年鸟类活动的高峰期间，研究人员在阿伯丁海上风电场用相机和雷达记录了鸟儿白天的飞行轨迹。研究没有观察到鸟儿与涡轮机叶片发生碰撞。在 97.7% 的记录中，鸟儿避开了涡轮机叶片掠过的区域。研究花费了 300 万欧元，记录了一万个鸟儿飞行的视频。记录显示，银鸥在距离叶片 90-110 米的位置飞行，海鸥则在 140-160 米外飞行。",
-          "link": "https://www.solidot.org/story?sid=74302",
-          "publishedOn": "2023-03-05T15:46:07.000Z",
-          "wordCount": 154,
-          "title": "研究显示海鸟避开了风力涡轮机叶片",
-          "imageUrl": null
         }
       ]
     },
@@ -1180,7 +1170,18 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://humanwhocodes.com/blog/2023/03/astro-jekyll-blog-post-url/",
+          "author": "Nicholas C. Zakas",
+          "description": "It's not obvious from the examples, but you can emulate Jekyll-style blog post URLs including years and months in Astro.",
+          "link": "https://humanwhocodes.com/blog/2023/03/astro-jekyll-blog-post-url/",
+          "publishedOn": "2023-03-14T00:00:00.000Z",
+          "wordCount": 1402,
+          "title": "Creating a Jekyll-style blog post URL in Astro",
+          "imageUrl": "https://humanwhocodes.com/favicon.png"
+        }
+      ]
     },
     {
       "title": "宁南山 - 知乎动态",
