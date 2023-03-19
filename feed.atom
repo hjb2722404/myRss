@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-03-18T02:34:08.580Z</updated>
+    <updated>2023-03-19T02:43:36.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[婴儿食用花生酱能大幅减少花生过敏]]></title>
+        <id>https://www.solidot.org/story?sid=74426</id>
+        <link href="https://www.solidot.org/story?sid=74426"/>
+        <updated>2023-03-18T14:02:46.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Journal of Allergy and Clinical Immunology》上的一项研究，科学家发现给 4-6 个月大的婴儿食用平滑的花生酱能减少 77% 的花生过敏症。政府建议在婴儿 6 个月大时开始食用固体食物，研究人员认为这一建议需要修改。食物过敏是免疫系统将食物视为严重威胁的结果。引起过敏的常见食物有麦、牛奶、花生、坚果等等。其中花生过敏已经变得相当普遍，以至于部分学校禁止在食物中包含花生。诸多研究显示，在婴儿发育早期食用与过敏相关的食物可以大幅减少过敏。最新研究发现，婴儿 4-6 个月之间食用花生可将过敏症减少 77%，如果推迟到 1 岁之后过敏症病例只能减少 33%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星 Exynos 芯片漏洞影响数十款 Android 设备]]></title>
+        <id>https://www.solidot.org/story?sid=74425</id>
+        <link href="https://www.solidot.org/story?sid=74425"/>
+        <updated>2023-03-18T13:32:11.000Z</updated>
+        <summary type="html"><![CDATA[Google Project Zero 研究人员在广泛使用的三星 Exynos 调制解调器芯片中发现了 18 个漏洞，其中四个漏洞允许攻击者在只知道受害者电话号码的情况下，在基带水平远程入侵手机，不需要发生任何用户交互。受影响的芯片组包括： Exynos Modem 5123、Exynos Modem 5300、Exynos 980、Exynos 1080 和 Exynos Auto T5123，受影响的产品包括：三星 S22, M33、M13、M12、A71、A53、A33、A21、A13、A12 和 A04 系列，Vivo S16、S15、S6、X70、X60 和 X30 系列，Google Pixel 6、6 Pro、Pixel 6a、Pixel 7 和 7 Pro，任何使用 Exynos W920 芯片组的智能手表，任何使用 Exynos Auto T5123 的汽车，等等。研究人员表示，在补丁释出前，受影响设备可通过在设置里关闭 Wi-Fi 呼叫和 Voice-over-LTE (VoLTE)保护自己。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大语言模型涌现无法预测的能力]]></title>
+        <id>https://www.solidot.org/story?sid=74424</id>
+        <link href="https://www.solidot.org/story?sid=74424"/>
+        <updated>2023-03-18T07:01:38.000Z</updated>
+        <summary type="html"><![CDATA[在去年组织的一次测试中，研究人员输入不同的提示去测试不同规模大语言模型的能力。其中之一是一个女孩和三条鱼的绘文字，询问它们描述了哪部电影。最小的模型产生了超现实的答案：“The movie is a movie about a man who is a man who is a man”。中等复杂度的模型猜测是《Emoji大电影》，最复杂的模型一锤定音《海底总动员（Finding Nemo）》。计算机科学家对大语言模型的表现非常吃惊。语言模型已经研究了几十年，五年前最强大的模型是基于递归神经网络，本质上是根据提供的文本字符串猜测下一个单词是什么，所谓递归是从输出中不断学习，利用反馈去改进性能。2017 年 Google Brain 的研究人员提出了被称为 transformer 的新型架构。递归网络是逐字分析句子，transformer 则是同时处理所有单词，它能并行处理大块文本。Transformers 能通过增加模型的参数快速扩展语言模型的复杂度。2020 年 OpenAI 的研究人员发现随着参数规模的增加语言模型改进了其能力和准确度。但大语言模型也同时带来了一些始料未及的东西。研究人员发现大语言模型产生了数以百计的“新”能力，这种行为被称为涌现。研究人员如今正努力去识别新的涌现能力，以及找出背后的原因——本质上是去尝试预测不可预测性。了解涌现可揭示出 AI 和一般机器学习深层问题的答案，如复杂模型是真的在做新事情，还是极其擅长统计。它还可帮助研究人员去利用潜在的益处和减少涌现风险。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Godot 登陆 Epic Games Store]]></title>
+        <id>https://www.solidot.org/story?sid=74423</id>
+        <link href="https://www.solidot.org/story?sid=74423"/>
+        <updated>2023-03-18T05:40:12.000Z</updated>
+        <summary type="html"><![CDATA[开源游戏引擎项目 Godot 宣布它登陆了 Epic Games Store，用户从今天开始可以通过 Epic 的游戏商店下载 Godot。Godot 称 Epic 是其长期支持者，帮助改进了其渲染管线和内置的脚本语言 GDScript。Godot 最近释出了 v4.0 版本，从应用商店下载的版本和它提供的版本没有差别，登陆应用商店主要是为了方便用户下载和使用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scribble Diffusion – AI 画画，将手绘草稿转换为图片，基于 ControlNet，太搞笑了]]></title>
+        <id>https://www.appinn.com/?p=44892</id>
+        <link href="https://www.appinn.com/scribble-diffusion/"/>
+        <updated>2023-03-18T03:56:55.000Z</updated>
+        <summary type="html"><![CDATA[Scribble Diffusion 是一个简单的在线服务，它使用 AI 将粗略的草图转换为精致的图像，每一张图像都是不同的。@Appinn 比如上面的例子，就是告诉先画了一个草稿，然后告诉它：夕阳在]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX 称创始人拿走了 22 亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=74422</id>
+        <link href="https://www.solidot.org/story?sid=74422"/>
+        <updated>2023-03-17T15:30:14.000Z</updated>
+        <summary type="html"><![CDATA[加密货币交易所 FTX 的资产清算人在递交到破产法庭的文件中称，创始人 Sam Bankman-Fried 从公司收到了高达 22 亿美元的借款和付款。这些借款主要是转给了他创办的对冲基金 Alameda Research，该基金因投资失败损失惨重，它滥用了 FTX 客户账号的资金试图弥补损失。Bankman-Fried 不是唯一一个通过 Alameda Research 获得报酬的高管：前工程总监 Nishad Singh 获得 5.87 亿美元，联合创始人 Gary Wang 获得 2.46 亿美元，前联席 CEO  Ryan Salame 获得 8700 万美元，前 Alameda 联席 CEO John Samuel Trabucco 获得2500万美元。Bankman-Fried 的前女友、Alameda 前 CEO Caroline Ellison 只得到 600 万美元的贷款和付款。这些还没有包括 FTX  和 Alameda 高管在巴哈马豪宅上花费的 2.4 亿美元，以及政治捐款。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完全由 AI 生成的作品仍然不受版权保护]]></title>
+        <id>https://www.solidot.org/story?sid=74421</id>
+        <link href="https://www.solidot.org/story?sid=74421"/>
+        <updated>2023-03-17T13:09:43.000Z</updated>
+        <summary type="html"><![CDATA[今天的生成式 AI 已经能创作出不逊于人类的文本和图像，那么这些作品能否受到版权保护？美国国会图书馆版权办公室发表了一份指南，阐述了登记 AI 相关作品版权的要求。版权办公室坚持了对现有版权法的定义：即必须包含有人类作者，纯 AI 作品不受版权保护。它举例说收到了一份使用 AI 文本图像服务 Midjourney 生成图像的版权登记，它的裁决是该作品属于绘图小说——因为它包含了人类作者的文本和 AI 生成的图像，但图像本身不受版权保护。如果一个作品没有人类元素完全由机器生成，那么版权办公室不会登记它。如果 AI 接受人类的提示生成了复杂的文本、视觉或音乐作品，版权办公室认为人类的提示像是给予艺术家的委托指示，如何输出完全由机器决定，那么该作品不是由人类输出，不受版权保护，它不会接受版权登记。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[咖啡因或有助于降低体脂肪和 2 型糖尿病风险]]></title>
         <id>https://www.solidot.org/story?sid=74420</id>
@@ -917,176 +987,6 @@ Making Calendars With Accessibility and Internationalization in Mind originally 
         <link href="https://www.solidot.org/story?sid=74350"/>
         <updated>2023-03-09T15:58:48.000Z</updated>
         <summary type="html"><![CDATA[如果你在等待更强大的 Steam Deck 型号面世，你要有着等了。Valve 设计师 Lawrence Yang 接受采访时表示，该公司要过几年才会推出真正的下一代 Steam Deck。Linux 掌机于去年 2 月发售，采用了 AMD Zen2 APU，至今售出超过一百万部。Zen2 不是 AMD 最新的 CPU 架构，因此 Steam Deck 在运行某些优化欠缺的新作品时已经表现的力不从心。但 Valve 并没有计划立即推出新一代产品，而是致力于优化，改善整体玩家群的体验。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国 FBI 承认购买过位置数据]]></title>
-        <id>https://www.solidot.org/story?sid=74349</id>
-        <link href="https://www.solidot.org/story?sid=74349"/>
-        <updated>2023-03-09T14:11:32.000Z</updated>
-        <summary type="html"><![CDATA[FBI 局长 Christopher Wray 在美国参议院举行的听证会上承认，该机构过去购买过位置数据，但现在没有，该机构目前主要通过“法庭授权程序”从相关公司获得位置数据。在 2018 年的 Timothy Ivory Carpenter 诉美利坚合众国（ Carpenter v. United States）的案件中，美国最高法院裁决，政府机构在未获得搜查令的情况下访问历史位置数据违反了宪法第四修正案对免受不合理的搜查的保护。FBI 此前未披露它购买过位置数据。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Groups 被任其死亡]]></title>
-        <id>https://www.solidot.org/story?sid=74348</id>
-        <link href="https://www.solidot.org/story?sid=74348"/>
-        <updated>2023-03-09T13:49:09.000Z</updated>
-        <summary type="html"><![CDATA[搜索巨人的邮件列表和网络论坛服务 Google Groups 正在死亡，尽管还没有正式铭刻在墓碑上，但它的基本功能逐渐停止工作。Google 以搜索起家，然而 Google Groups 的搜索功能早就出故障了，现在 Monospace 字体停止渲染，导致代码示例难以阅读。已读/未读指示器工作不正常，用户刚刚访问的主题或者自己的帖子或回复都被标记为未读。用户递交的帖子或回复断断续续的自己删除了，帖子成功递交了，但却返回删除的信息，如果这个帖子未保存或花了很长时间完成，这对用户的打击是巨大的。Google Groups 仍然被 FOSS 社区广泛使用，寻找它的替代重建一个社区需要时间。常见的替代如 Discord 和 GitHub 都是私有的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vultr 推出免费套餐计划，只需绑卡、2FA 即可申请]]></title>
-        <id>https://www.appinn.com/?p=44809</id>
-        <link href="https://www.appinn.com/vultr-free-tier-program/"/>
-        <updated>2023-03-09T12:35:52.000Z</updated>
-        <summary type="html"><![CDATA[作为知名的独立云服务提供商，Vultr 在这两天开放了 Free Tier Program（免费套餐计划）的申请，只需要在注册后绑定信用卡（支持银联），并开通二次验证（2FA），即可申请。@Appin]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度的 “文心一言”还在加紧测试]]></title>
-        <id>https://www.solidot.org/story?sid=74347</id>
-        <link href="https://www.solidot.org/story?sid=74347"/>
-        <updated>2023-03-09T12:11:02.000Z</updated>
-        <summary type="html"><![CDATA[距离 3 月 16 日百度推出类 ChatGPT 聊天机器人还有一周时间，该公司员工表示，他们正抓紧时间赶在发布最后期限前完成任务，而被称为文心一言(Ernie Bot)的 AI 聊天机器人仍难以完成一些基本功能。为了赶上发布，数百名员工在夜以继日地工作。一些员工说，他们没有足够的时间来打造一款功能完善的产品。百度计划分阶段推出该产品，首先向部分用户开放公测。知情人士称，春节假期过后，李彦宏要求包括自动驾驶部门在内的整个公司的 AI 研究团队将他们最强大的计算机芯片英伟的 A100 支援给文心一言的开发。去年年底实施的美国芯片制裁令禁止中国公司购买新的 A100。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 通知员工今年减少升职加薪]]></title>
-        <id>https://www.solidot.org/story?sid=74346</id>
-        <link href="https://www.solidot.org/story?sid=74346"/>
-        <updated>2023-03-09T10:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Google 通知员工，今年晋升到 L6 和以上级别的员工数量会少于往年。L6 是 Google 高级员工的第一层，通常有 10 年左右的工作经验。这意味着在 Google 推行的新绩效评估系统 Google Reviews and Development (GRAD)中，将会有更多员工获得低绩效评级，更少员工获得高分。Google 有着庞大的中层管理人员。去年的内部调查认为，这影响了公司有效交付产品的能力。随着增长放缓和经济衰退担忧，Google 努力削减成本，它放慢了招聘，宣布裁员 1.2 万人，占员工总数的 6%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[荷兰限制出口先进光刻机]]></title>
-        <id>https://www.solidot.org/story?sid=74345</id>
-        <link href="https://www.solidot.org/story?sid=74345"/>
-        <updated>2023-03-09T09:05:59.000Z</updated>
-        <summary type="html"><![CDATA[荷兰政府周三表示，计划对半导体技术出口实施新的管制。荷兰光刻机巨头阿斯麦（ASML）周四发布声明表示，它预计将需要申请出口许可证才能发运最先进的浸润式 DUV 系统，这些管制措施需要一定时间才能付诸立法并生效。ASML 强调，新的出口管制措施并不针对所有浸润式光刻系统，而只涉及所谓“最先进”的浸润式光刻系统。截至目前企业尚未收到有关“最先进”的确切定义的信息。ASML 指出，先进程度相对较低的浸润式光刻系统已能很好满足成熟制程为主的客户的需求。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大众宣布汽车跟踪紧急服务免费]]></title>
-        <id>https://www.solidot.org/story?sid=74344</id>
-        <link href="https://www.solidot.org/story?sid=74344"/>
-        <updated>2023-03-09T08:51:03.000Z</updated>
-        <summary type="html"><![CDATA[上个月大众遭遇了一场公关灾难，警方联络该公司希望利用汽车内置的 Car-Net 跟踪功能跟踪一辆被劫持的汽车，车内有一名 2 岁儿童。结果大众的客服要求警方先付钱，因为 Car-Net 需要额外付费。现在这家德国汽车巨头对这起事件公开道歉，宣布联网汽车的紧急服务在五年内免费。2020-2023 年生产的大部分支持联网的大众汽车都适用。从 6 月 1 日开始，大众车主可以注册最高五年的 Car-Net Safe and Secure 服务，它使用车载调制解调器通过车内的 SOS 按钮连接到紧急服务。车主还可通过移动应用通过 Car-Net 远程访问汽车，锁定和解锁车门，按喇叭和闪灯，甚至还可以遥控启动汽车。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 绘画 Stable Diffusion 傻瓜包 + 模型下载分享]]></title>
-        <id>https://www.appinn.com/?p=44805</id>
-        <link href="https://www.appinn.com/stable-diffusion-download/"/>
-        <updated>2023-03-09T08:28:34.000Z</updated>
-        <summary type="html"><![CDATA[感谢 @洞穴寓言 & @南国叶 同学的推荐。这是一次纯资源分享： Stable Diffusion Stable Diffusion 大概是时下最流行的两个项目之一，另外一个就是大名鼎鼎的 C]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软测试资源管理器文件推荐功能]]></title>
-        <id>https://www.solidot.org/story?sid=74343</id>
-        <link href="https://www.solidot.org/story?sid=74343"/>
-        <updated>2023-03-09T07:49:23.000Z</updated>
-        <summary type="html"><![CDATA[微软开始测试名为“文件资源管理器”的“文件推荐”功能，如名所示，当用户访问文件资源管理器主标签，它会在顶部展示你可能想要打开的特定文件。该功能目前只提供给 Windows 11 Insider Preview Build 23403 的部分测试者，且需要登陆 Azure Active Directory 账户。这意味着目前该功能针对的是企业用户。微软表示将会先收集反馈，然后决定如何推送给所有用户。软件巨人也认识到不是所有人都喜欢资源管理器里面出现意想不到的结果。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家被撤稿后再次宣称创造室温超导]]></title>
-        <id>https://www.solidot.org/story?sid=74342</id>
-        <link href="https://www.solidot.org/story?sid=74342"/>
-        <updated>2023-03-09T06:44:11.000Z</updated>
-        <summary type="html"><![CDATA[美国一研究团队称，他们发现了在实用条件下工作的室温超导。但该团队此前声称破纪录的室温超导一直存在争议，半年前甚至遭遇论文撤稿，因此新的研究结果或将面临严格审查。纽约罗切斯特大学物理学家朗加·迪亚斯（Ranga Dias）在美国物理学会年会上介绍了团队的研究新进展。据称他们创造出的超导可在室温和相对较低的压力下工作。研究团队发现了一种由氢、氮、镥组成的材料，迪亚斯和同事将这些元素混合在金刚石压砧中，施加不同的压力，测量电阻。实验发现，在 294K（即 21°C）的温度下，材料失去电阻，不过仍然需要10kbar（约大气压力的 10000 倍）压力才能实现材料的超导性能。但这已经远低于在室温工作的超导通常所需要的数百万个大气压。如果这一研究成果得到证实，这种材料有望用于现实。不过这项研究可能会面临严重质疑，部分原因是该团队早期发表的文章声称在 15°C 下发现了一材料的超导性。在发表之后被《自然》撤回论文，称研究人员在数据处理方面存在违规行为。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[假如火星和木星之间有一颗类地行星]]></title>
-        <id>https://www.solidot.org/story?sid=74341</id>
-        <link href="https://www.solidot.org/story?sid=74341"/>
-        <updated>2023-03-09T06:28:09.000Z</updated>
-        <summary type="html"><![CDATA[木星和火星之间有着广阔的空间，假如它们之间有一颗类地行星，会发生什么？加州河滨的研究人员对此进行了一番模拟，发现结果将是灾难性的，地球会有可能毁灭，生命将会灭绝。实验证明太阳系是脆弱的，目前的系统已经非常精密。研究人员模拟了火星和木星之间不同质量的类地行星，观察其对其它行星轨道的影响。木星是太阳系最大行星，它的质量是地球的 318 倍，比其它行星加起来还要重，如果它受到哪怕轻微的干扰，对整个太阳系都会产生深远影响。位于火星木星之间的超级地球，有可能会将水星、金星以及地球从太阳系中驱逐出去。即使地球留在太阳系，它的轨道形状也会发生改变，生命也许还能存在，但不会像今天这样宜居。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们对时间的感知与心跳有关]]></title>
-        <id>https://www.solidot.org/story?sid=74340</id>
-        <link href="https://www.solidot.org/story?sid=74340"/>
-        <updated>2023-03-09T05:55:23.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《Psychophysiology》期刊上的一项研究，我们对时间的感知与心跳有关。研究证明，心脏是大脑中重要的计时器之一，在我们的时间流逝感中起着根本作用——这一观点自古以来就有了。在实验中，45 名年龄在 18 岁至 21 岁之间、没有心脏病史的研究参与者被心电图仪(ECG)监测，以毫秒分辨率测量心脏电活动。心电图与一台计算机相连，可以由心跳触发持续 80-180 毫秒的简短音调。研究发现，我们对时间的瞬间感知并不是连续的，而是会随着每次心跳而拉伸或收缩。时间感知和心脏之间的联系表明，我们对时间的短暂感知植根于生物能学，帮助大脑根据包括心率在内的身体状态变化来管理精力和资源。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马祖海底网络电缆被切断逾一个月]]></title>
-        <id>https://www.solidot.org/story?sid=74339</id>
-        <link href="https://www.solidot.org/story?sid=74339"/>
-        <updated>2023-03-09T03:21:12.000Z</updated>
-        <summary type="html"><![CDATA[网易援引美联社的报道称，过去一个月，早餐店老板陈玉林不得不告诉客人，他不能为他们提供互联网。其他住在台湾离大陆较近的离岛之一马祖岛上的人不得不为支付电费、预约医生或领取包裹而挣扎。为了连接外界，马祖岛的 14000 名居民依靠两条通往台湾主岛的海底互联网电缆。第一条电缆被一艘中国渔船切断，六天后的 2 月 8 日，一艘中国货船切断了第二条电缆。岛民被迫通过微波无线电传输连接到一个有限的互联网作为备用。这意味着人们可以等上几个小时才能发短信。电话会掉线，视频也无法观看。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethesda 宣布《星空》于 9 月 6 日发售]]></title>
-        <id>https://www.solidot.org/story?sid=74338</id>
-        <link href="https://www.solidot.org/story?sid=74338"/>
-        <updated>2023-03-08T15:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Bethesda 宣布了备受期待的太空背景动作角色扮演游戏《星空》的发售日期——9 月 6 日，Bethesda 将在 6 月 11 日举行的活动上披露关于游戏的更多信息。《星空》是 Bethesda 工作室在《辐射76》之后时隔五年推出的新作品。故事发生在距太阳系约 50 光年外的“殖民系统”（The Settled Systems）星系内。大约在 2310 年，最大的两个派系“联合殖民地”（United Colonies）和“自由之星共同体”（Freestar Collective）爆发了惨烈的“殖民地战争”（Colony War）。玩家将扮演一位隶属于太空探索组织“星座”的角色，游戏里的时间是在战争发生 20 年后。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 演示能完成多项任务的通用 AI 模型 PaLM-E]]></title>
-        <id>https://www.solidot.org/story?sid=74337</id>
-        <link href="https://www.solidot.org/story?sid=74337"/>
-        <updated>2023-03-08T15:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Google 和柏林科技大学的一组研究人员透露了可用于控制机器人的多模态 Embodied 视觉语言模型（VLM）PaLM-E，有 5620 亿个参数，融合了视觉和语言处理。当用户发出“高阶指令”，如“将抽屉里的米片拿过我”， PaLM-E 能为装备机械臂的移动机器人平台生成一个行动计划，并自行执行。它执行不同任务不需要预先或重复训练。消除数据预处理或注释给予了机器人更强大的自主控制。PaLM-E 是基于 Google 现有的大语言模型 PaLM，通过加入感觉信息和机器人控制使其有具身性(embodied) 。它能与处理语言的相同方式理解感觉信息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宏碁证实遭黑客入侵数据被盗]]></title>
-        <id>https://www.solidot.org/story?sid=74336</id>
-        <link href="https://www.solidot.org/story?sid=74336"/>
-        <updated>2023-03-08T15:04:21.000Z</updated>
-        <summary type="html"><![CDATA[在一黑客在网络犯罪论坛宣布出售 160 Gb 大小的数据之后，宏碁证实它遭到了入侵，但否认有消费者数据被盗。宏碁称它最近发现了一起安全事故，维修技工使用的一台文档服务器遭到未经授权访问。调查还在进行之后，目前无迹象表明该服务器储存有消费者数据。黑客以门罗币出售这批被盗的数据，称包含有机密幻灯片、员工手册、机密产品文档、二进制文件、后台基础设施信息、磁盘镜像、替换的数字产品密钥和 BIOS 相关信息。黑客称这些数据是在 2 月中旬窃取到的。这不是第一次宏碁发生数据泄露安全事故，它在 2021 年发生过类似事故，有逾 60 GB 数据被盗。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让 LLaMa 能运行在 CPU 上]]></title>
-        <id>https://www.solidot.org/story?sid=74335</id>
-        <link href="https://www.solidot.org/story?sid=74335"/>
-        <updated>2023-03-08T14:41:27.000Z</updated>
-        <summary type="html"><![CDATA[AI 聊天机器人的炙手可热让 GPU 尤其是英伟达的 GPU 再次成为市场热点。今天流行的聊天机器人如 OpenAI 的 ChatGPT 运行在云服务器上，对普通用户而言日常使用只能依赖于 OpenAI。Meta 的大语言模型 LLaMA 则让工作站用户在配备服务器级 GPU 的本地计算机上运行成为可能。类似开源的文本图像模型 Stable Diffusion，开发者也在快速推动大语言模型的普及化。一位西雅图的开发者将 LLaMA 移植到了 CPU 上。对于 LLaMA-7B 模型（包含 70 亿参数） ，Ryzen 7900X 能每秒推断出多个单词。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
