@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44925",
+          "author": "青小蛙",
+          "description": "最近青小蛙又发现了一个新的有趣的项目：Leizhenpeng/feishu-chatgpt，它能够将 GPT-3.5、DALL·E、Whisper 接入飞书，实现语音对话、角色扮演、多话题讨论、图片创",
+          "link": "https://www.appinn.com/feishu-openai/",
+          "publishedOn": "2023-03-22T08:28:20.000Z",
+          "wordCount": 2267,
+          "title": "飞书集成 3 大智能 AI：GPT-3.5、DALL·E、Whisper，实现语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出等功能",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/feishu-chatgpt.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=44921",
+          "author": "青小蛙",
+          "description": "Iconhunt 是一款图标搜索引擎，有用超过 150000 个免费的、开放源码的图标。并且可以快速在 Notion、Figma 中使用它们。还支持自定义颜色，可下载为 .svg 格式。@Appinn",
+          "link": "https://www.appinn.com/iconhunt-t-iconify/",
+          "publishedOn": "2023-03-22T03:55:22.000Z",
+          "wordCount": 2241,
+          "title": "Iconhunt – 15 万张，开源图标合集搜索引擎，可快速复制到 Notion、Figma 等环境",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/iconhunt.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44916",
           "author": "青小蛙",
           "description": "微软为 Bing 推出了新功能：图像创建者，通过 AI 画画。想画什么图像，对它说就行。@Appinn 用 AI 画画这件事情，已经…以非常快的速度进入了我们的视野。 如果说之前需要使用自",
@@ -170,26 +190,6 @@
           "wordCount": 2254,
           "title": "WinSize 4.0 – 用快捷键调整窗口大小、位置，再大的屏幕也能摆满[Windows]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/winsize-v4-0.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44830",
-          "author": "开发者推荐账号",
-          "description": "ChatGPT 版本不断迭代以及 API 接口的升级，集简云平台率先接入了 ChatGPT 模型训练功能。不同的业务场景进行模型训练后的模型可以更加准备，快速回答用户的问题。无论你是否已经拥有 Cha",
-          "link": "https://www.appinn.com/chatgpt-jijyun3/",
-          "publishedOn": "2023-03-13T10:20:15.000Z",
-          "wordCount": 2216,
-          "title": "不懂代码也能轻松搞定 ChatGPT 模型训练同其他软件相连接",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/jijyun3.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44829",
-          "author": "青小蛙",
-          "description": "OpenCat 是一款使用 OpenAI API 的 macOS、iOS 原生客户端，即开即用，比官方 Web 版本更加便捷，支持自定义 API 地址。来自熊猫吃短信开发者。@Appinn 来自很多朋",
-          "link": "https://www.appinn.com/opencat/",
-          "publishedOn": "2023-03-13T08:01:56.000Z",
-          "wordCount": 2314,
-          "title": "OpenCat – 第三方 ChatGPT 原生客户端，即开即用，支持自定义 API 地址[macOS/iOS]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/opencat.jpgo_.jpg"
         }
       ]
     },
@@ -199,14 +199,14 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=376950",
-          "author": "Mads Stoumann",
-          "description": "Doing a quick search here on CSS-Tricks shows just how many different ways there are to approach calendars. Some show how CSS Grid can create the layout efficiently. Some attempt to bring actual data into the mix. Some …\nMaking Calendars With Accessibility and Internationalization in Mind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/making-calendars-with-accessibility-and-internationalization-in-mind/",
-          "publishedOn": "2023-03-13T13:23:52.000Z",
-          "wordCount": 3413,
-          "title": "Making Calendars With Accessibility and Internationalization in Mind",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/376950"
+          "id": "https://css-tricks.com/?p=377264",
+          "author": "Pankaj Parashar",
+          "description": "I spend a lot of time in DevTools, and I’m sure you do too. Sometimes I even bounce between them, especially when I’m debugging cross-browser issues. DevTools is a lot like browsers themselves — not all of the features in …\nSome Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/",
+          "publishedOn": "2023-03-22T20:22:42.000Z",
+          "wordCount": 1861,
+          "title": "Some Cross-Browser DevTools Features You Might Not Know",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377264"
         }
       ]
     },
@@ -269,6 +269,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74467",
+          "author": null,
+          "description": "Valve 正式宣布它最受欢迎的团队竞技游戏《反恐精英》系列的最新版本将在夏天发布，从今天开始封闭测试。《反恐精英2》将取代《反恐精英：全球攻势（CSGO）》，游戏将免费升级。Valve 发布了一系列视频，展示了《反恐精英2》的新特性，包括：烟雾弹现在是三维动态物体，能与环境相互作用并对光照、枪击和爆炸作出反应；移动、射击或投掷时不再受到刷新频率的阻碍；地图使用起源2 引擎全面翻新；起源2工具将提供给社区地图制作者；CSGO 的库存将带到《反恐精英2》；等等。",
+          "link": "https://www.solidot.org/story?sid=74467",
+          "publishedOn": "2023-03-23T02:02:50.000Z",
+          "wordCount": 149,
+          "title": "Valve 宣布《反恐精英2》将在夏天发布，封闭测试开启",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74466",
+          "author": null,
+          "description": "生成式 AI 日益常见，AI 撰写的文本也愈来愈多的出现在我们生活中。但我们能分辨出它们吗？斯坦福大学的一项调查发现，人类只能以 50-52% 的准确率区分出人类和 AI 撰写的文本，也就是说基本上靠猜测。研究人员指出，人类在判断上并不是基于猜测，而是基于合理的直觉和共同的语言线索，将文本中的高语法正确性和第一人称代词的使用错误的归于人类，这些假设实际上是有缺陷的。研究人员称，AI 生成内容的数量可能会在数年内超过人类，这将会冲击到我们的信息生态系统，破坏信任，我们必须找到解决方法去识别 AI 文本。",
+          "link": "https://www.solidot.org/story?sid=74466",
+          "publishedOn": "2023-03-22T15:17:19.000Z",
+          "wordCount": 159,
+          "title": "研究显示人类识别 AI 撰写文本的准确率只有五成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74465",
+          "author": null,
+          "description": "日本北海道大学和九州大学的研究团队在《Nature Communications》上发表研究成果称，从探测器“隼鸟2号”采集的小行星“龙宫”的沙粒样本中，发现了构成遗传物质 RNA 的一种名为“尿嘧啶”的碱基。RNA 在细胞内负责合成蛋白质等。此外还检测出了“烟酸”，这是在体内与代谢相关的维生素B中的一种。有学说认为，约 40 亿年前坠落的陨石所含物质成为了地球最初诞生生命的材料。北海道大学副教授大场康弘表示：“虽不能断言小行星的 RNA 成分与地球的生命直接相关，但从小行星带回了同一成分这一点或许毋庸置疑。”成为 RNA 和 DNA 材料的碱基共有 5 种，除了尿嘧啶之外，还有腺嘌呤、鸟嘌呤、胞嘧啶、胸腺嘧啶。该团队迄今从落在地球的陨石中发现了全部 5 种。据称，此次的样本未检测出尿嘧啶以外的 4 种，但有可能会从“龙宫”其他样本中检测到。",
+          "link": "https://www.solidot.org/story?sid=74465",
+          "publishedOn": "2023-03-22T14:45:35.000Z",
+          "wordCount": 169,
+          "title": "小行星龙宫样本发现 RNA 碱基",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74464",
+          "author": null,
+          "description": "ACM 宣布，2022 年度图灵奖授予了 Ethernet（以太网）的发明者 Bob Metcalfe。1973 年任职于施乐帕洛阿托研究中心（PARC）的计算机科学家 Metcalfe 撰写了有关“广播通信网”的著名备忘录。以太网的第一个版本设计的传输速度是 2.94Mbit/s，是它设计取代的终端网络传输率的逾万倍。以太网的最早实现是基于同轴电缆，但备忘录设想了未来“通过以太的通信”，可适应未来通信媒介的创新如电话双绞线、光纤、Wi-Fi 等等。备忘录为今天我们所知的以太网奠定了基础。Metcalfe离开 PARC 之后创办了 3Com，推动了以太网的标准化。",
+          "link": "https://www.solidot.org/story?sid=74464",
+          "publishedOn": "2023-03-22T14:25:40.000Z",
+          "wordCount": 166,
+          "title": "2022 年图灵奖授予了以太网发明者 Bob Metcalfe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74463",
+          "author": null,
+          "description": "黑客利用一个 0day 从比特币 ATM 机器上盗走了价值 150 万美元的加密货币。黑客针对的目标是 General Bytes 出售的比特币 ATM（BATM），它允许人们兑换比特币。BATM 连接了一个加密货币应用服务器（CAS）。出于未知的原因，BATM 提供了一个选项允许客户通过主服务器接口从终端向 CAS 上传视频。攻击者利用了这个接口上传和执行一个恶意 Java 应用，从各个热钱包中转走了全部加密货币，总共为 56 BTC，价值约 150 万美元。General Bytes 已经释出了补丁修复了漏洞，但加密货币已经无法找回。",
+          "link": "https://www.solidot.org/story?sid=74463",
+          "publishedOn": "2023-03-22T09:59:13.000Z",
+          "wordCount": 189,
+          "title": "黑客利用 0day 从比特币 ATM 盗走 150 万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74462",
+          "author": null,
+          "description": "加州欧文物理学家主导的“前向搜索实验”（FASER）首次探测到粒子对撞机产生的中微子，此前该团队曾观察到 6 个中微子之间的相互作用，此次新发现有望加深科学家对中微子的理解，还有助揭示行进较长距离与地球发生碰撞的宇宙中微子，为管窥遥远宇宙打开一扇窗。中微子无处不在，非常神奇，被称为宇宙的“隐形人”，是宇宙中数量最丰富的粒子。科学家们此前从未探测到对撞机产生的中微子。FASER 位于 CERN 内，旨在探测 CERN 著名的大型强子对撞机（LHC）产生的粒子。研究人员指出，他们从一个全新的来源，也就是粒子对撞机那里发现了中微子。前物理学家研究的大多数中微子都是低能中微子，但 FASER 探测到的中微子是迄今实验室制造出的最高能量的中微子，与深空粒子在地球大气层中引发剧烈粒子簇射时发现的中微子相似。",
+          "link": "https://www.solidot.org/story?sid=74462",
+          "publishedOn": "2023-03-22T07:44:10.000Z",
+          "wordCount": 151,
+          "title": "科学家首次探测到对撞机产生的中微子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74461",
+          "author": null,
+          "description": "一组独立研究人员在 Zenodo 上发表研究报告，全面分析了中国疾控中心在 2020 年 1月 和 2 月收集的元基因组数据，将新冠起源追溯到武汉华南海鲜批发市场出售的野生动物——主要是貉（raccoon dogs）。最新研究报告提供了证据证明新冠病毒是从菊头蝠（horseshoe bats）通过中间宿主传播到人类身上。",
+          "link": "https://www.solidot.org/story?sid=74461",
+          "publishedOn": "2023-03-22T07:12:38.000Z",
+          "wordCount": 151,
+          "title": "新冠的中间宿主可能是貉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74460",
+          "author": null,
+          "description": "甲骨文宣布 Java 20 的参考实现 JDK 20 GA（Generally Available）。GPL 授权的 OpenJDK 20 也一同发布。Java 20 / JDK 20 的主要新特性包括：JEP 429：作用域值（孵化）；JEP 432：记录类的模式（第二预览版本）；JEP 433：使用 switch 的模式匹配（第四预览版本）；JEP 434：外部函数与内存 API（第二预览版本）；JEP 436：虚拟线程（第二预览版本）；JEP 437：结构化并发（第二孵化版本）；JEP 438：向量 API(第五孵化版本)。此外还有大量的增强和 bug 修复。",
+          "link": "https://www.solidot.org/story?sid=74460",
+          "publishedOn": "2023-03-22T06:29:01.000Z",
+          "wordCount": 190,
+          "title": "Java 20 / JDK 20 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74459",
+          "author": null,
+          "description": "负责英特尔 GPU 业务的高管 Raja Koduri 离职去创办生成式 AI 公司。Raja 是在 2017 年离开 AMD 加盟了其竞争对手英特尔，之后负责英特尔的 GPU 业务，帮助推出了英特尔的独显产品。虽然目前芯片巨人的独显尚无法对 AMD 和英伟达的产品构成挑战。他的新创业公司将围绕生成式 AI 为游戏、媒体和娱乐创造软件。",
+          "link": "https://www.solidot.org/story?sid=74459",
+          "publishedOn": "2023-03-22T05:56:48.000Z",
+          "wordCount": 189,
+          "title": "英特尔 GPU 高管 Raja Koduri 离职创办 AI 公司",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74458",
+          "author": null,
+          "description": "触摸屏和触摸控制在汽车设计中日益流行，但已经过百年验证的设计还是值得保留的。现代公司承诺会在未来的汽车型号中继续使用物理按钮。现代设计主管 Sang Yup Lee 在宣布新款 Hyundai Kona 时重申了该公司对保留物理按钮的承诺。他说，与安全相关的按钮必须是硬的。司机在开车时操纵软按钮是很难靠感觉感知的，而分散注意力可能会带来安全隐患。现代汽车的空调和音量控制等都有物理按钮。Lee 表示物理按钮是目前现代汽车的优选，但如果未来自动驾驶成为主流，该公司会更多考虑触摸控制。",
+          "link": "https://www.solidot.org/story?sid=74458",
+          "publishedOn": "2023-03-22T05:36:32.000Z",
+          "wordCount": 150,
+          "title": "现代承诺会保留汽车的物理按钮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74457",
+          "author": null,
+          "description": "微软官方博客宣布推出 Bing Image Creator，它的 AI 文本图像生成工具。和 Stable Diffusion 和 MidJourney 类似，用户可以通过输入一段文字描述，让 AI 生成相应的图像。Bing Image Creator 是基于 OpenAI 的  DALL∙E 模型。Bing Image Creator 可以作为一个工具独立使用，也可以通过  Bing chat 使用，它还将支持 Microsoft Edge。",
+          "link": "https://www.solidot.org/story?sid=74457",
+          "publishedOn": "2023-03-22T03:50:46.000Z",
+          "wordCount": 183,
+          "title": "微软推出 Bing Image Creator",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74456",
+          "author": null,
+          "description": "Linux 内核主线早在 2021 年就开始加入对英特尔未发布产品 Thunder Bay 的支持，相关代码合并工作一直持续到 2022 年中期。除了内核代码，英特尔没有披露多少 Thunder Bay 的信息。流言称它是芯片巨人的一款 SoC，集成了 Xeon CPU 核心和 Movidius VPU 核心，其中 Movidius 是英特尔在 2016 年收购的公司，该公司开发了低功耗的计算机视觉处理器。但 Linux 补丁显示 Thunder Bay 集成了 Arm Cortex A53 核心和 Movidius VPU。但不管如何，这款未发布产品已经取消了，递交到内核的补丁集显示英特尔正在移除相关代码。",
+          "link": "https://www.solidot.org/story?sid=74456",
+          "publishedOn": "2023-03-22T03:41:56.000Z",
+          "wordCount": 190,
+          "title": "英特尔取消 Thunder Bay，相关 Linux 代码将移除",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74455",
+          "author": null,
+          "description": "设计软件巨头 Adobe 推出了自己的 AI 图像生成工具 Firefly。Adobe 称，用户可以使用日常语言通过 Firefly 生成各种创意图像。对于每一幅图像，用户还可以自由的修改每一部分，利用生成式 AI 替换不同的区域。Firefly 的上下文感知图像生成让各个区域能融合起来，不会有割裂感。Adobe 表示 Firefly 未来将会支持 3D 模型。",
+          "link": "https://www.solidot.org/story?sid=74455",
+          "publishedOn": "2023-03-22T03:28:32.000Z",
+          "wordCount": 173,
+          "title": "Adobe 发布 AI 图像生成工具 Firefly",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74454",
           "author": null,
@@ -997,136 +1127,6 @@
           "publishedOn": "2023-03-13T15:05:00.000Z",
           "wordCount": 171,
           "title": "Google 对 AI 的谨慎导致其落在微软后面",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74380",
-          "author": null,
-          "description": "2013 年 3 月 13 日 Google 宣布，作为第二个春季大扫除计划之一，Google Reader 因用户数量逐年下降，于 2013 年 7  月 1 日终止服务。10 年之后，Google 杀死 Reader 的主要动机——为其社交服务 Google+ 吸引用户——也早就不复存在。当时的 Google 执行官将社交网络 Facebook 视为对其构成了存在性威胁，因而全力推广和整合 Google+，而集成了简约社交功能的 Google Reader 被视为一大障碍，须将其除掉而后快。Google Reader 被杀死了，而 Google+ 也在几年后步入后尘。社交网络没有成为 Google 的存在性威胁，AI 聊天机器人会不会还是未知数。但 Google Reader 作为一个成功的产品，对许多人具有重要意义，Google 冒然将其杀死造成了巨大冲击，对所有其它 Google 产品都产生了负面影响——今天每当 Google 推出一个新产品，用户心中都会涌出疑问——它会不会被杀死？Google 产品成为了不可靠的代名词。",
-          "link": "https://www.solidot.org/story?sid=74380",
-          "publishedOn": "2023-03-13T14:19:17.000Z",
-          "wordCount": 198,
-          "title": "Google 杀死 Reader 十周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74379",
-          "author": null,
-          "description": "虽然现代和起亚汽车只占美国汽车销量的十分之一，但因为它们过去几年生产的型号缺乏电子防盗系统，它们占到了被盗汽车的相当大一部分。盗窃此类车只需一把螺丝刀、一根 USB 线和社交网络热传视频介绍的短接启动技术。在孟菲斯 2022 年被盗的近 11,000 辆汽车中，现代和起亚占了三分之一。警方称，很多盗车贼是青少年或年轻成年人，他们偷车是为了取乐，或者将其用于抢劫。今年孟菲斯被捕被指控偷车的 175 人中，一半以上是青少年，他们经常会在偷车之后抛弃汽车。因为病毒式传播的盗车视频，现代和起亚正在向大约 450 万辆起亚和 380 万辆现代汽车推送免费软件更新，修复容易被盗的问题。这些汽车公司甚至还免费向车主提供方向盘锁。美国多个城市的律师开始对没有提供电子防盗的汽车厂商提起诉讼。",
-          "link": "https://www.solidot.org/story?sid=74379",
-          "publishedOn": "2023-03-13T13:45:56.000Z",
-          "wordCount": 153,
-          "title": "美国青少年盗窃汽车的现象大幅增长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74378",
-          "author": null,
-          "description": "作为与微软广泛合作的一部分，通用汽车正探索将 ChatGPT 带到汽车上。通用汽车副总裁 Scott Miller 上周在接受采访时表示，ChatGPT 将无处不在。Miller 称，通过 ChatGPT 车主可以查询汽车手册中使用特定功能的信息，给车库门编码，或从日历中导入日程安排。汽车司机的 AI 助手将不同于其它聊天机器人如 Bing Chat，通用正努力在 ChatGPT 使用的大语言模型上加入一个汽车特定层。",
-          "link": "https://www.solidot.org/story?sid=74378",
-          "publishedOn": "2023-03-13T13:23:48.000Z",
-          "wordCount": 164,
-          "title": "通用汽车探索将 ChatGPT 带到汽车上",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74377",
-          "author": null,
-          "description": "Twitter 的衰落给其它平台带来了机会，现在社交领域最大的玩家也参与进来。Facebook 和 Instagram 的母公司 Meta 据报道正在构建一个去中心化的、基于文本的社交网络应用。该应用的代号为 P92，允许用户通过 Instagram 账号登陆。该产品处于早期阶段，没有发布时间表。作为最大的围墙花园中心化社交网络运营者，新应用最引人瞩目的地方是去中心化，也就是和联邦架构的 Mastodon 类似，用户可以构建自己的服务器，为该服务器上的内容审核制定自己的规则。去中心化允许该应用与其它应用互通，这对 Meta 而言是闻所未闻的。",
-          "link": "https://www.solidot.org/story?sid=74377",
-          "publishedOn": "2023-03-13T12:54:41.000Z",
-          "wordCount": 162,
-          "title": "Meta 探索构建去中心化微博服务挑战 Twitter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74376",
-          "author": null,
-          "description": "《潜行者》系列的乌克兰游戏工作室 GSC Game World 通过官方 Twitter 账号发表声明，证实员工共同使用的图像应用账号遭到入侵，正在开发中的《潜行者2（STALKER 2）》图像素材库遭窃取。此前，自称 Vestnik TSS 的俄罗斯黑客组织在社交网站 VK 上公布了一系列游戏图像和原画，提出了一系列要求，如果得不到满足它将泄露数十 GB 的游戏材料。俄罗斯黑客要求 GSC Game World 改变对待俄罗斯和白俄玩家的态度并为此道歉，要求游戏支持俄语本地化，以及解除工作室 Discord 频道对 NF Star 的禁令。如果条件在 3 月 15 日前得不到满足，黑客将公开数十 GB 的素材，包括完整故事、过场、世界地图等。工作室发表声明拒绝了所有要求，请求玩家不要观看泄露的信息，耐心等待游戏的正式发布。",
-          "link": "https://www.solidot.org/story?sid=74376",
-          "publishedOn": "2023-03-13T10:34:11.000Z",
-          "wordCount": 171,
-          "title": "俄罗斯黑客威胁泄露开发中的《潜行者2》游戏素材",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74375",
-          "author": null,
-          "description": "欧洲研究人员从七个不同的古西伯利亚永久冻土样本中分离出 13 种新病毒。科学家表示，该研究显示气候变化带来了一种潜在危险：地球变暖导致的永久冻土融化可能会让大量“僵尸病毒”苏醒。一项近期发布的研究预印本显示，法国、德国和俄罗斯科学家们从西伯利亚的永久冻土中分离并复活了几种古老的病毒，其中一种是从 2.7 万年前含有大量猛犸象毛发的永久冻土样本中发现的巨型病毒 Pithovirus。它是已知最大的病毒，是一种双链 DNA 病毒，属于核质巨型 DNA 病毒演化支。西伯利亚受到气候变化导致的全球变暖影响最大，大约是全球平均水平的四倍。近年来的夏天，这里都会达到 37-38 摄氏度的极端高温并发生野火。受其影响，西伯利亚地区的永久冻土正在迅速融化。这意味着被掩埋在地下数千年的生物将不断被暴露，在未来可能会释放出更多未知的病毒。",
-          "link": "https://www.solidot.org/story?sid=74375",
-          "publishedOn": "2023-03-13T09:36:16.000Z",
-          "wordCount": 153,
-          "title": "科学家复活在永久冻土中发现的十余种新病毒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74374",
-          "author": null,
-          "description": "汇丰银行以象征性的 1 英镑价格收购了破产的硅谷银行的英国子公司。截至 3 月 10 日，硅谷银行英国分行共有贷款约 55 亿英镑，存款约 67 亿英镑。汇丰表示所有储户的钱都是安全的。虽然收购价是象征性的，但汇丰实际付出的代价远不止此，它需要在短期内注入现金以满足流动负债，此外还要重新安排员工和进行整合。",
-          "link": "https://www.solidot.org/story?sid=74374",
-          "publishedOn": "2023-03-13T09:05:11.000Z",
-          "wordCount": 159,
-          "title": "汇丰以 1 英镑价格收购硅谷银行英国分行",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74373",
-          "author": null,
-          "description": "微塑料在我们的生活中已经无处不在。被称为微塑料和纳米塑料的颗粒在饮用水、食物甚至空气中都被检测到。纳米塑料可以通过食物和水被人类和动物吸收。有人担心，随着时间的推移，微塑料会在体内积聚。德国莱比锡大学和亥姆霍兹环境研究中心(UFZ)的科学家调查了 PET 颗粒对生物体代谢和发育的负面影响。他们发现，微小的塑料颗粒积聚在模型动物的几个器官中，包括肝脏、肠道、肾脏和大脑。此外，PET纳米塑料导致胚胎行为异常，因为观察到较少的运动。",
-          "link": "https://www.solidot.org/story?sid=74373",
-          "publishedOn": "2023-03-13T07:56:41.000Z",
-          "wordCount": 143,
-          "title": "微塑料影响新陈代谢和发育",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74372",
-          "author": null,
-          "description": "网信办宣布部署开展“清朗·从严整治‘自媒体’乱象”专项行动。网信办表示，网上乱象仍时有发生，“自媒体”还存在许多问题，特别是一些“自媒体”造谣传谣、恶意炒作、假冒仿冒、违规营利等违法违规行为，挑动网民情绪、撕裂社会共识、污染网络生态，个别“自媒体”的恶劣行径甚至对国家安全和经济社会发展带来严重影响。网信办要求，网站平台要充分发挥信息内容管理第一责任人作用，着力解决“自媒体”信息内容失真、运营行为失度等深层次问题，维护网上信息内容传播良好秩序。",
-          "link": "https://www.solidot.org/story?sid=74372",
-          "publishedOn": "2023-03-13T07:00:51.000Z",
-          "wordCount": 141,
-          "title": "网信办启动自媒体专项整治行动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74371",
-          "author": null,
-          "description": "苹果及其合作伙伴富士康说服印度卡纳塔克邦放松了劳工法律，允许实行两班倒，类似在中国生产基地的做法。卡纳塔克邦是印度科技业的中心，上周通过了一项劳动法修正案，允许 12 小时轮班，此前轮班被限制在 9 小时。它还放宽了女性夜间工作的规定，女性在中国大陆、台湾和越南的电子生产线上占绝对多数，但在印度劳动人口中人数不足。该立法将每周最长工作时间定为 48 小时，将三个月内允许的加班时间从 75 小时增加到 145 小时。印度预计将在今年超过中国成为世界人口最多的国家，而印度也在努力成为替代中国的一个制造基地，新的劳动法让卡纳塔克邦成为印度工作制度最灵活的邦之一。",
-          "link": "https://www.solidot.org/story?sid=74371",
-          "publishedOn": "2023-03-13T06:31:03.000Z",
-          "wordCount": 151,
-          "title": "苹果富士康说服印度邦放松劳工法律",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74370",
-          "author": null,
-          "description": "在第 95 届奥斯卡金像奖颁奖典礼上，杨紫琼主演的《瞬息全宇宙（Everything Everywhere All at Once）》赢得了奥斯卡最佳影片。《瞬息全宇宙》共获得 11 项提名，赢得 7 个奖项，除最佳影片外，还有最佳导演、最佳女主角、最佳男配角、最佳女配角、最佳原创剧本和最佳影片剪辑。《阿凡达:水之道》赢得最佳视觉特特效，《西线无战事》最佳摄影，《壮志凌云：独行侠》最佳音效，《吉尔莫·德尔·托罗的匹诺曹》最佳动画。",
-          "link": "https://www.solidot.org/story?sid=74370",
-          "publishedOn": "2023-03-13T05:54:41.000Z",
-          "wordCount": 152,
-          "title": "《瞬息全宇宙》赢得奥斯卡最佳影片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74369",
-          "author": null,
-          "description": "美联储、美国财政部长和 FDIC 的负责人发表联合声明，宣布为了加强公众对银行系统的信心保护美国经济，上周五破产的硅谷银行的所有储户都能从本周一开始取回所有存款，而不是标准情况下的 25 万美元。美国联邦监管机构称，政府基金的任何损失都将在对银行的一项特别评估中得到补偿，美国纳税人不会承担任何损失。 美联储表示，“正在密切关注整个金融系统的状况，并准备使用其全部工具来支持家庭和企业，并将酌情采取更多措施”。美联储称，将通过一个新的“银行定期融资项目”向银行提供额外的资金，以确保它们有“能力满足所有储户的需求”；该项目将向以美国国债、抵押贷款支持证券等作为抵押品的银行提供最长一年的贷款。",
-          "link": "https://www.solidot.org/story?sid=74369",
-          "publishedOn": "2023-03-13T01:51:54.000Z",
-          "wordCount": 150,
-          "title": "美国监管机构表示硅谷银行的所有储户能取回所有存款",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74368",
-          "author": null,
-          "description": "黑胶唱片的寿命可能比 CD 更长。根据唱片业组织 RIAA 的数据，去年黑胶唱片销量自 1987 年以来首次超过 CD。2022 年大约售出了 4100 万张黑胶唱片，而 CD 销量只有 3300 万张。黑胶唱片的复兴已经持续了数年，主要推动因素其一是认为黑胶唱片的音质更好其二是年轻一代的怀旧。持续的需求将唱片制作很大程度上变成了手工业，买家想要各种新奇的黑胶唱片，五颜六色的、香味的、夜光的，诸如此类，这些都增加了黑胶唱片的魅力。去年黑胶唱片的收入增长 17% 逾 12 亿美元，这是它连续第 16 年收入增长，它占到了实物音乐格式销售收入的 71%。去年 CD 收入下降了 18% 至 4.83 亿美元。",
-          "link": "https://www.solidot.org/story?sid=74368",
-          "publishedOn": "2023-03-12T15:13:01.000Z",
-          "wordCount": 180,
-          "title": "黑胶唱片销量自 1987 年以来首次超过 CD",
           "imageUrl": null
         }
       ]
