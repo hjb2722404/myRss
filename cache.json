@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44946",
+          "author": "青小蛙",
+          "description": "Lunabot 是一款 Chrome、Edge 浏览器扩展，用来针对网页进行 ChatGPT 提问，比如总结、翻译、回邮件等。@Appinn 来自发现频道，开发者 @hfcorriez 自荐：http",
+          "link": "https://www.appinn.com/lunabot/",
+          "publishedOn": "2023-03-24T12:17:09.000Z",
+          "wordCount": 2242,
+          "title": "Lunabot – 在任何网页使用 ChatGPT 的扩展，无需注册可免费用[Chrome/Edge]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/appinn-feature-image-2023-03-24t200228-240.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=44942",
+          "author": "青小蛙",
+          "description": "RSS阅读器 – RSS Reader，就是这款浏览器扩展的名字，一个简单的本地 RSS 阅读器，支持收藏、今日更新，可以显示 TOC 目录，已经在 Chrome、Edge 商店上架。@A",
+          "link": "https://www.appinn.com/rss-reader-in-chrome/",
+          "publishedOn": "2023-03-24T07:17:21.000Z",
+          "wordCount": 2310,
+          "title": "一个简单轻量的本地 RSS 阅读器，支持 Chrome/Edge",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/rss-reader.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44934",
           "author": "xbeta",
           "description": "Aski AI 是我持续使用超过 40 天的 AI 集成工具。官网的简介是「AI 问答、写作、绘画」。在我看来，它的价值在于，向普通用户提供了最简单、最方便的使用 ChatGPT/OpenAI 文本",
@@ -155,31 +175,6 @@
           "wordCount": 2323,
           "title": "Go MusicFox – 终端里的「网易云音乐」，就该这么用电脑",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/go-musicfox.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44864",
-          "author": "青小蛙",
-          "description": "通知滤盒是一款 Android 系统通知管理器，它能够完整记录 30 天的历史通知内容，通过各种规则过滤，让你只看到需要的通知。今日新增了机器学习过滤，「提供了最适合简中互联网环境的，开箱即用的过滤体",
-          "link": "https://www.appinn.com/filter-box-ml/",
-          "publishedOn": "2023-03-15T08:44:49.000Z",
-          "wordCount": 2220,
-          "title": "通知滤盒 – 用机器学习过滤 Android 通知，适合简中互联网环境，开箱即用",
-          "enclosure": {
-            "url": "https://iceboxdoc.catchingnow.cn/files/%E5%BD%95%E5%B1%8F-%E9%80%9A%E7%9F%A5%E6%BB%A4%E7%9B%92-%E8%AE%BE%E5%A4%87%E7%AB%AF%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.mp4",
-            "length": "3314591",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/filter-box.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44858",
-          "author": "青小蛙",
-          "description": "Chat YouTube 是一款基于 ChatGPT 与 OpenAI 的在线服务，只需要给它一个油管视频链接，就能针对视频内容向它提问，或者让它总结视频内容，甚至帮你直接理解外语视频内容，再也不用看",
-          "link": "https://www.appinn.com/chat-youtube/",
-          "publishedOn": "2023-03-15T06:17:59.000Z",
-          "wordCount": 2224,
-          "title": "Chat YouTube – 用 ChatGPT 总结视频、向视频提问。再也不用看视频了。",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/chat-yt.jpgo_.jpg"
         }
       ]
     },
@@ -269,6 +264,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74486",
+          "author": null,
+          "description": "最大的源代码托管平台 GitHub 宣布更换其 SSH 密钥。原因是本周早些时候，它发现 GitHub.com 的 RSA SSH 私钥在一个公开的库内短暂暴露。它立即采取了行动并展开了调查。问题并不是任何 GitHub 系统被入侵或客户信息泄露的结果，它认为问题是疏忽大意，认为没有证据表明曝光的密钥遭到了滥用，出于谨慎考虑它更换了密钥。",
+          "link": "https://www.solidot.org/story?sid=74486",
+          "publishedOn": "2023-03-24T10:26:42.000Z",
+          "wordCount": 165,
+          "title": "GitHub.com 短暂暴露其 SSH 私钥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74485",
+          "author": null,
+          "description": "中兴和一家名叫 Leia 的公司联手推出了一款裸眼 3D 平板。它在国际市场上的品牌名称叫 ZTE Nubia Pad 3D，在美国市场上因为中兴被视为国家安全威胁因此品牌名改名为 Leia Lume Pad 2。它配备了 12.4 英寸 120 Hz 2560×1600 IPS LCD 显示屏，运用  Leia 的光场技术实现裸眼 3D 效果，显示屏会向每只眼睛发送略有差异的画面。试用过的记者表示效果令人印象深刻，但可能有头疼的副作用。平板的硬件规格称不上最新，它使用了高通的 Snapdragon 888 SoC，8GB 内存，128GB 或 256GB 存储选项，9070 mAh 电池和 33 W 快充，操作系统是 Android 12L，美版售价 1099 美元。",
+          "link": "https://www.solidot.org/story?sid=74485",
+          "publishedOn": "2023-03-24T09:23:27.000Z",
+          "wordCount": 198,
+          "title": "中兴推出售价 1100 美元的裸眼 3D 平板",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74484",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一项研究，星际天体‘Oumuamua 之前原因不明的加速其实是源于储冰产生的氢气。‘Oumuamua 是人类探测到的首个起源于太阳系外并穿越太阳系的已知星际天体。它的小幅非引力加速通常与某种物质释放的俘获气体有关，类似彗星。不过，‘Oumuamua 并不具有彗星活动的迹象，比如一条由尘埃或气体组成的“尾巴”。研究人员在其建立的模型中研究发现，‘Oumuamua 的加速是由该天体内部俘获分子氢的释放导致。在‘Oumuamua 近距离飞过太阳时，这些氢在富水冰产生的激烈反应中形成，并随后从内部释放，轻微弯曲了穿过太阳系的轨迹。研究结果支持了之前的理论，即‘Oumuamua 可能和太阳系彗星类似，起源时曾是冰质星子——冰质星子是行星形成早期阶段形成的小型天体。",
+          "link": "https://www.solidot.org/story?sid=74484",
+          "publishedOn": "2023-03-24T08:22:04.000Z",
+          "wordCount": 153,
+          "title": "‘Oumuamua 的加速源自其释放的氢气",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74483",
+          "author": null,
+          "description": "今天盛行付费订阅服务，各种服务都在努力吸引用户订阅，但如果你想终止某个服务的订阅就不是那么容易了。美国联邦贸易委员会（FTC）提议正式禁止此类订阅简单但取消困难的做法。FTC 宣布了被称为 click to cancel 的提议，要求企业让取消服务和订阅一样简单。企业不能够让用户在网上订阅服务，但取消的操作却要通过电话来完成。对于服务设定不取消就认为续订，企业需要每年提醒用户。FTC 主席 Lina Khan 表示，企业不应该操纵消费者为不想要的订阅付费，每年有大量消费者投诉此类做法。",
+          "link": "https://www.solidot.org/story?sid=74483",
+          "publishedOn": "2023-03-24T07:07:50.000Z",
+          "wordCount": 154,
+          "title": "FTC 寻求禁止订阅难以取消的行为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74482",
+          "author": null,
+          "description": "OpenAI 宣布它的 AI 聊天机器人 ChatGPT 加入对插件的初步支持。插件开发者现在可以加入一个等待名单等候批准。OpenAI 称，自 ChatGPT 推出以来，用户就要求支持插件，因为插件将能解开大量可能的用例。OpenAI 表示它将采用逐步扩大的方式，创建一个庞大的插件库，首批插件由 Expedia、FiscalNote、Instacart、KAYAK、Klarna、Milo、OpenTable、Shopify、Slack、Speak、Wolfram 和 Zapier 创建。以 Wolfram 为例， 当用户输入一个问题，ChatGPT 会将问题格式化，然后发送给 Wolfram|Alpha 进行计算，对于返回的计算结果 ChatGPT 会决定用什么方式回复用户。",
+          "link": "https://www.solidot.org/story?sid=74482",
+          "publishedOn": "2023-03-24T05:53:54.000Z",
+          "wordCount": 167,
+          "title": "ChatGPT 加入对插件的支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74481",
+          "author": null,
+          "description": "加密货币公司 Terraform Labs 的创始人 Do Kwon 在黑山被捕。Terraform 发行了被称为 Terra USD（UST）的算法稳定币，去年 5 月 UST 的币值崩溃关联代币 LUNA 几乎跌至一文不值，客户损失了数十亿美元。Do Kwon 是韩国公民，他的公司总部位于新加坡，他遭到了韩国警方的通缉，国际刑警组织也对他发出了红色通缉令。此前他被发现从新加坡逃到了塞尔维亚。黑山内政部长 Filip Adzic 在一份声明中表示，当地警方在 Podgorica 机场逮捕了一名持有伪造文件的男子，他被认为就是通缉犯 Kwon。他表示官方仍然在确认其身份。韩国国家警察厅已经表示它根据现有信息确认这名嫌疑犯就是 Kwon。",
+          "link": "https://www.solidot.org/story?sid=74481",
+          "publishedOn": "2023-03-24T03:35:53.000Z",
+          "wordCount": 173,
+          "title": "Do Kwon 在黑山被捕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74480",
+          "author": null,
+          "description": "台湾威盛（VIA）与上海市政府的合资企业兆芯开始向内核递交补丁加入对永丰微架构的支持。兆芯去年宣布了采用永丰架构的服务器 x86_64 处理器 KH-4000 系列。永丰是陆家嘴微架构的继任者，仍然采用 16nm 工艺，支持最高 32 个核心，相比陆家嘴的 8 核是一大飞跃，频率最高  2.2GHz，支持 PCIe 3.0 和 DDR4。虽然它比不上 AMD 和英特尔的最新处理器，但对于国产 CPU 而言是进步。兆芯的工程师刚刚向内核递交了首批支持永丰的补丁。",
+          "link": "https://www.solidot.org/story?sid=74480",
+          "publishedOn": "2023-03-24T03:26:46.000Z",
+          "wordCount": 160,
+          "title": "兆芯开始向内核递交补丁加入对永丰架构的支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74479",
+          "author": null,
+          "description": "美洲亚马逊居民常在宗教仪式中使用名叫死藤水的饮料，它能让服用者产生强烈的幻觉，甚至还能经历濒死体验，接触高维生命和走上改变人生的替代现实之路。死藤水中的致幻物质是 N,N-二甲基色胺（DMT）。根据发表在 PNAS 期刊上的一项研究，伦敦帝国学院的研究人员招募了 20 名健康志愿者，分别给他们注射 20 毫克的 DMT 和安慰剂，使用脑电图（EEG）和功能性磁共振成像（fMRI）记录志愿者在服用药物之前、期间和之后的大脑活动。结果显示，DMT 破坏了大脑的基本网络，导致彼此之间的区分很小。大脑的主要节奏（充当抑制、约束作用）瓦解，大脑活动具有了更多熵或更多信息。想象力等高级功能的大脑区域连接性飙升。",
+          "link": "https://www.solidot.org/story?sid=74479",
+          "publishedOn": "2023-03-23T16:00:42.000Z",
+          "wordCount": 151,
+          "title": "脑扫描揭示死藤水对大脑产生的深刻影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74478",
+          "author": null,
+          "description": "Adobe 推出了它的 AI 图像合成生成器 Firefly。与 Stable Diffusion 和 DALL-E 等类似模型不同的，Adobe  称它的 AI 是完全是通过合法和合乎道德的数据来源训练的，因此生成的结果可以供商业艺术家使用。此前，开源 AI 模型 Stable Diffusion 使用的数据集被认为包含有大量的版权作品，且未征得版权所有者的同意，因此遭遇了艺术家的抗议和诉讼。为了避免这些问题，Adobe 的 Firefly 使用了 Adobe Stock 图库、开放授权的内容和已过版权保护期的公有领域内容进行训练，确保生成的内容可安全用于商业用途。",
+          "link": "https://www.solidot.org/story?sid=74478",
+          "publishedOn": "2023-03-23T15:26:31.000Z",
+          "wordCount": 180,
+          "title": "Adobe 称它的 Firefly AI 是合乎道德的",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74477",
           "author": null,
@@ -1007,136 +1092,6 @@
           "publishedOn": "2023-03-16T02:27:35.000Z",
           "wordCount": 169,
           "title": "梦工厂公开 MoonRay 源代码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74403",
-          "author": null,
-          "description": "中国音像与数字出版协会通过其官方微信账号发布了《游戏分发与推广基本要求》的征求意见稿，游戏公司的意见递交截止日期为 4 月 13 日。该《要求》由抖音、腾讯、完美世界、华为、紫龙互娱、易玩网络（TapTap）等公司共同制定。音数协称，2021 年中国玩家数量达到 6.66 亿，在巨大的市场和利益的驱动下，大量游戏非法发布和推广。《基本要求》将有助于解决仿冒、版权纠纷、游戏成瘾、过度消费和用户隐私侵犯等问题。根据规定，一款游戏在发布前必须在内容方面满足 11 条要求，包括不得“泄露国家秘密、危害国家安全、损害国家荣誉和利益”，不得“宣扬淫秽、色情、赌博、暴力、或帮助犯罪”。游戏广告还必须“符合建设社会主义精神文明的要求”。规定还对未成年人保护提出了严格要求，要求网络游戏必须接入防沉迷实名认证系统。",
-          "link": "https://www.solidot.org/story?sid=74403",
-          "publishedOn": "2023-03-15T13:35:49.000Z",
-          "wordCount": 150,
-          "title": "《游戏分发与推广基本要求》征求意见发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74402",
-          "author": null,
-          "description": "Mozilla 释出了 Firefox 111.0。主要新特性包括：启用 Windows 原生通知，生成随机电邮地址和电话号码的 Firefox Relay 服务的用户可选择直接从凭证管理器创建假电邮；启用文件系统访问 API，等等。文件系统访问 API 允许操作用户本地设备上的文件，支持读写和保存，调用该 API 将会要求得到用户的明确许可，并且在标签关闭之后需要重新获得授权。",
-          "link": "https://www.solidot.org/story?sid=74402",
-          "publishedOn": "2023-03-15T12:36:15.000Z",
-          "wordCount": 167,
-          "title": "Firefox 111.0 启用文件系统访问 API",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74401",
-          "author": null,
-          "description": "在销售 ARM 单板电脑 Tinker Board 五年之后，华硕发布了第一款 RISC-V 单板电脑 Tinker V。Tinker V 面向工业 IoT 开发者社区，支持 Debian Linux 和 Yocto 发行版，未来预计会支持更多发行版。Tinker V 将会在二季度开始出样品，价格尚未公布。它的速度估计不会很快，因为使用的 RISC-V 处理器主频只有 1GHz 而且为单核。 Tinker V 使用 Renesas RZ/Five 的 AndesCore AX45MP 单核 1.0GHz 处理器，1GB DDR4 内存和一个可选的 16GB eMMC 和 micro SD 插槽。因为专注于物联网，没有任何显示支持。",
-          "link": "https://www.solidot.org/story?sid=74401",
-          "publishedOn": "2023-03-15T11:02:07.000Z",
-          "wordCount": 201,
-          "title": "华硕发布第一款 RISC-V 单板电脑 Tinker V",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74400",
-          "author": null,
-          "description": "今年 2 月，俄罗斯勒索软件组织 BlackCat 入侵了 Lehigh Valley Health Network（LVHN）医院集团旗下的一个诊所，访问了接受放射肿瘤治疗的病人照片系统。LVHN 拒绝了该组织提出的赎金要求。数周后，BlackCat 在其暗网勒索网站上发表声明，威胁公开窃取的病人数据。它随后公布了三张癌症患者接受放射性治疗的屏幕截图和七份包含患者信息的文件。这些照片相当私密，从不同角度拍摄了患者裸露的乳房。安全研究人员表示，随着愈来愈多的组织拒绝支付赎金，勒索软件组织在勒索赎金上开始采取极端的做法。另一个勒索软件组织 Medusa 本周二公布了上个月攻击 Minneapolis Public Schools（MPS）中窃取的样本数据，其中包括性侵指控相关的文件和涉及的男女学生名字。Medus 要求支付 100 万美元赎金，MPS 表示它未支付赎金。",
-          "link": "https://www.solidot.org/story?sid=74400",
-          "publishedOn": "2023-03-15T10:40:42.000Z",
-          "wordCount": 160,
-          "title": "勒索软件攻击进入到了令人发指的新阶段",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74399",
-          "author": null,
-          "description": "根据发表在 PNAS 上的一项研究，在 DeepMind 的 AlphaGo 击败最强大的人类棋手之后，人类棋手通过与 AI 棋手对弈而取得了显著进步。香港城市大学的研究人员收集了 1950 年至 2021 年间职业棋手作出的 580 万次移棋决策的数据集。然后使用围棋人工智能帮助计算一种称为“决策质量指数”（DQI）的指标。该指标用于评估一步棋的质量。如果没有尝试与之前的动作相结合，即认为一个动作是“新颖的”。分析发现，人类棋手对 2016 年围棋人工智能的出现作出了明显更好、更新颖的反应。1950 年至 2015 年间，围棋水平的改善相对较小，年度 DQI 中值在 -0.2 至 0.2 之间波动。而在 2016 年后，DQI 跃升，2018 年至 2021 年间的中值超过 0.7。",
-          "link": "https://www.solidot.org/story?sid=74399",
-          "publishedOn": "2023-03-15T09:39:16.000Z",
-          "wordCount": 178,
-          "title": "AI 棋手帮助人类棋手进步",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74398",
-          "author": null,
-          "description": "亚马逊展示了三种卫星宽带用户终端，计划在 2024 年推出卫星宽带服务。亚马逊未披露这些终端的售价：标准版小于 11 平方英寸，能提供最高 400 Mbps 的传输速度，制造成本低于 400 美元/台；紧凑版大小为 7 英寸，传输速度最高 100 Mbps，制造成本更低；大型版尺寸为 19 英寸× 30 英寸，传输速度最高 1Gbps。三个版本针对不同的客户和需求。这些终端使用了名为 Prometheus 的定制芯片，亚马逊计划 2023 年上半年发售两颗宽带卫星原型，2024 年上半年发射首批卫星，2024 年年底开始提供服务。它从 FTC 获得了发射 3,236 颗卫星的许可。",
-          "link": "https://www.solidot.org/story?sid=74398",
-          "publishedOn": "2023-03-15T09:05:14.000Z",
-          "wordCount": 177,
-          "title": "亚马逊计划在 2024 年推出卫星宽带服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74397",
-          "author": null,
-          "description": "用于渗透测试、安全审计和网络安全研究的发行版 Kali Linux 项目发布了一个专门用于防御的版本 Kali Purple。开发者表示这代表着一个新的时代，Kali 不再是进攻用，它还能防御了。Kali Purple 提供了逾百种安全防御工具，包括完整的数据包捕获和分析工具 Arkime，网络瑞士军刀 CyberChef，漏洞扫描工具 GVM，入侵检测系统 Suricata 和 Zeek，网络流量分析工具 Malcolm，事件响应平台 TheHive，安全信息和事件管理工具 Elastic Security，等等。",
-          "link": "https://www.solidot.org/story?sid=74397",
-          "publishedOn": "2023-03-15T07:47:12.000Z",
-          "wordCount": 172,
-          "title": "Kali Linux 发布防御安全发行版 Purple",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74396",
-          "author": null,
-          "description": "Google 开始了一切产品都整合生成式 AI 的尝试。搜索巨人宣布将在包括 Google Docs 和 Gmail 在内的 Google Workspace 产品中加入 AI。Docs 和 Gmail 集成的生成式 AI 将可以帮助用户起草初稿，润色文字，在 Gmail 中它能对邮件进行回复总结和优先处理，在 Docs 中校对和重写文章，能在 Slides 中自动生成图像、声频和视频将用户的创意变成现实，在 Sheet 中通过自动完成、公式生成和上下文分类从原始数据中得到洞察和分析。Google Workspace 从 3 月 14 日开始月费上涨二成。",
-          "link": "https://www.solidot.org/story?sid=74396",
-          "publishedOn": "2023-03-15T07:08:13.000Z",
-          "wordCount": 189,
-          "title": "Google Workspace 加入对 AI 的支持同时涨价二成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74395",
-          "author": null,
-          "description": "Meta CEO 扎克伯格(Mark Zuckerberg)在周二发给员工的一封电子邮件中表示，该公司将在未来几个月进行多轮裁员，同时取消一些项目，并放慢招聘速度，作为他所称的“效率之年”的一部分。扎克伯格表示，首先裁员的将是该公司的招聘团队，随后将在 4 月底对技术团队进行重组和裁员。他说，业务团队将在 5 月面临裁员。该公司也将停止招聘约 5,000 个空缺职位。扎克伯格表示，他的公司必须应对经济中的长期变化，主要是低利率时代的结束、日益加剧的地缘政治紧张局势，以及代价高昂的新法规。Meta已 于去年秋天宣布该公司史上首次大规模裁员行动，当时宣布的裁员人数约为 1.1 万人，相当于其员工总数的 13%。新一轮裁员的规模可能与之前相当。",
-          "link": "https://www.solidot.org/story?sid=74395",
-          "publishedOn": "2023-03-15T06:01:00.000Z",
-          "wordCount": 158,
-          "title": "Meta 将再次裁员上万名员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74394",
-          "author": null,
-          "description": "OpenAI 正式公布了它的多模态大语言模型 GPT-4。GPT-4 是多模态模型，这是和 GPT-3 的一个显著区别，它的输入输出不再局限于文本，可以是图像或者是视频。简单对比的话 ，GPT-4 和 GPT-3.5 的差别可能很小，OpenAI 称当任务的复杂性达到足够的阈值，GPT-4 优势就会非常明显，它更可靠，更富有创造性，能处理更细微的指令。GPT-3.5 有 1750 亿个参数，GPT-4 的情况未知，可能更多，它的数据训练集仍然停留在 2021 年 9 月，但它在测试中的表现远胜于 GPT-3.5。OpenAI 称它在律师考试中的得分能进入前 10%，而 GPT-3.5 是后 10%；在生物奥林匹克竞赛 USABO Semifinal 2020 和 GRE 写作中能接近满分。但它也存在与 GPT-3.5 类似的局限性，就是会产生错误的答案会胡说八道。OpenAI 演示了 GPT-4 处理税务问题、图像识别等问题的能力。目前 GPT-4 还没有开放给公众试用。",
-          "link": "https://www.solidot.org/story?sid=74394",
-          "publishedOn": "2023-03-15T05:52:38.000Z",
-          "wordCount": 190,
-          "title": "OpenAI 宣布 GPT-4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74393",
-          "author": null,
-          "description": "编程问答社区 Stack Overflow 调查了数千名开发者，询问哪些新兴的技术趋势已经证明了自己。它将一个技术根据 0-10 的尺度进行评分，其中 0 代表实验性，10 代表已被证明。结果显示，被认为已获得证明得到广泛认可的技术是开源 6.9、云计算 6.5 和机器学习 5.9，被认为尚未证明的技术包括量子计算 3.7，纳米技术 4.5，低代码/零代码 4.6。对于下一个人人都将使用的技术，AI 高居第一，之后是开源、机器学习和云计算。调查还根据 0-10 的尺度对一项技术产生正面还是负面影响进行评价（0 代表负面，10 代表正面），结果显示开源技术得分最高 7.2，可持续技术 6.6，机器学习 6.5。 低代码/零代码的评价非常低，这可以理解，因为这可能会对部分开发者的职业安全产生冲击。大多数开发者认为，低代码/零代码以及区块链在未来不会广泛使用。",
-          "link": "https://www.solidot.org/story?sid=74393",
-          "publishedOn": "2023-03-14T15:49:51.000Z",
-          "wordCount": 175,
-          "title": "Stack Overflow 调查显示开源、云计算和机器学习是最得到认可的技术",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74392",
-          "author": null,
-          "description": "皮尤研究中心（Pew Research Center）调查了 11,004 名美国成年人对周围产品使用 AI 的认识。这次调查是在去年 12 月进行的，当时 ChatGPT 还没有成为最热门的科技话题。调查发现，一个人受教育程度越高，或家庭收入越高，那么更有可能识别 AI。一个人使用互联网的次数越多，也越可能认识到 AI 的使用。在被调查的人中，约四分之一听过 AI，15% 从未听过。对于 AI 可能带来的隐患，38% 的人担忧多于兴奋，15% 的人兴奋多于担忧。人们对 AI 的了解越深入，那么他们就越可能兴奋不已。",
-          "link": "https://www.solidot.org/story?sid=74392",
-          "publishedOn": "2023-03-14T15:18:40.000Z",
-          "wordCount": 170,
-          "title": "皮尤调查显示人们对 AI 更可能感到担忧而不是兴奋",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74390",
-          "author": null,
-          "description": "在美国证交会（SEC）指控总部位于新加坡的加密货币公司 Terraform 及其 CEO Do Kwon 欺骗投资者数十亿美元之后，美国司法部也对 Terraform 的算法稳定币 TerraUSD（UST）的崩溃展开了调查，Do Kwon 有可能在美国面临刑事指控。去年 5 月 UST 币值崩溃关联代币 LUNA 几乎跌至一文不值，客户为此损失了数十亿美元。FBI 最近询问了 Terraform 的前成员，其调查范围与 SEC 的指控类似。",
-          "link": "https://www.solidot.org/story?sid=74390",
-          "publishedOn": "2023-03-14T14:34:14.000Z",
-          "wordCount": 172,
-          "title": "美国司法部调查 TerraUSD 稳定币的崩溃",
           "imageUrl": null
         }
       ]
