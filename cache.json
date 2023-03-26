@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=44956",
+          "author": "青小蛙",
+          "description": "ChatDOC 是一款基于 ChatGPT 的文件阅读助手，它可以快速从 Word 文档中提取，定位和总结信息。@Appinn 前几天有一个 ChatPDF，可以让 AI 与 PDF 聊天，这很快就可",
+          "link": "https://www.appinn.com/chatdoc/",
+          "publishedOn": "2023-03-25T03:42:49.000Z",
+          "wordCount": 2316,
+          "title": "ChatDOC – 让 ChatGPT 与 Word 文档对话，自动提出最重要的 5 个问题",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/chatdoc.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44946",
           "author": "青小蛙",
           "description": "Lunabot 是一款 Chrome、Edge 浏览器扩展，用来针对网页进行 ChatGPT 提问，比如总结、翻译、回邮件等。@Appinn 来自发现频道，开发者 @hfcorriez 自荐：http",
@@ -165,16 +175,6 @@
           "wordCount": 2275,
           "title": "Noise Smith – 35 种高质量白噪音，组合定制倒计时，很漂亮[macOS/iOS/Android]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/noise-smith.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44878",
-          "author": "青小蛙",
-          "description": "Go MusicFox 是一款在终端中运行的网易云音乐播放器，通过命令行的方式实现登录、播放、下载、搜索、歌词、Last.fm、签到等功能。很酷，电脑就该这么用。@Appinn 来自发现频道，@tou",
-          "link": "https://www.appinn.com/go-musicfox/",
-          "publishedOn": "2023-03-16T12:47:27.000Z",
-          "wordCount": 2323,
-          "title": "Go MusicFox – 终端里的「网易云音乐」，就该这么用电脑",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/go-musicfox.jpgo_.jpg"
         }
       ]
     },
@@ -246,16 +246,6 @@
           "wordCount": 1288,
           "title": "好奇心驱使下试验了chatGPT写CSS代码的能力",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10770",
-          "author": "张 鑫旭",
-          "description": "除了absolute绝对定位，margin负值，grid重叠外，我有发现了一种可以让元素叠加的CSS方法，是什么呢？",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/03/css-container-rule-overlap/",
-          "publishedOn": "2023-03-15T15:48:59.000Z",
-          "wordCount": 996,
-          "title": "又发现一种无需绝对定位就可以元素重叠的CSS技巧",
-          "imageUrl": null
         }
       ]
     },
@@ -264,6 +254,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74491",
+          "author": null,
+          "description": "去年 4 月物理学家对费米实验室对撞机产生的 W 玻色子进行分析后发现，W 玻色子比标准模型预测的重了 0.1%。数字虽小但意义可能重大。如果结论能被独立验证，那么这一发现将暗示存在着尚未发现的粒子或者力，将带来半个世纪以来量子物理学定律的首次重大改写。CERN 大强子对撞机（LHC）ATLAS 实验的物理学家分析了 LHC 产生的  W 玻色子数据，发现其质量仍然与标准模型预测的一致。这是初步结论，但降低了费米实验室测量正确的可能性。",
+          "link": "https://www.solidot.org/story?sid=74491",
+          "publishedOn": "2023-03-25T14:26:47.000Z",
+          "wordCount": 157,
+          "title": "W 玻色子的最新测量再次支持标准模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74490",
+          "author": null,
+          "description": "法国周五宣布禁止政府公务员在办公用的手机上安装娱乐应用如 TikTok、Twitter 和 Instagram。法国转型和公共管理部长 Stanislas Guerini 在一份声明中表示，在政府行政服务中使用娱乐应用不够安全，可能会对数据保护构成安全风险。Guerini 的办公室称，被禁止安装的应用包括 TikTok、Twitter、Instagram、Netflix 和 Candy Crush 等社交和游戏应用。政府官员如果想在社交应用上从事公众通信等用途他们可以申请许可。",
+          "link": "https://www.solidot.org/story?sid=74490",
+          "publishedOn": "2023-03-25T14:17:54.000Z",
+          "wordCount": 153,
+          "title": "法国禁止政府工作手机安装娱乐应用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74489",
+          "author": null,
+          "description": "美国犹他州州长签署了两项法案——H.B. 311 Social Media Usage Amendments 和 S.B. 152 Social Media Regulation Amendments，可能将改变该州青少年使用社交媒体的方式。但执行这两项法律将需要制定更多的辅助措施。根据新法律，犹他州青少年创建账户前 Meta、Snap 和 TikTok 等公司将需要征得他们的父母许可。法律还要求社交帐户有宵禁、家长控制和年龄验证功能，以及禁止社交媒体公司诱导青少年对其平台上瘾。目前不知道犹他州官员如何执行新法律，以及如何适用于青少年的现有社媒帐户。新法律将于 2024 年 3 月生效。",
+          "link": "https://www.solidot.org/story?sid=74489",
+          "publishedOn": "2023-03-25T13:24:17.000Z",
+          "wordCount": 161,
+          "title": "美国犹他州通过法律青少年使用社交媒体需要父母批准",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74488",
+          "author": null,
+          "description": "英特尔联合创始人戈登·摩尔（Gordon Moore）去世，享年 94 岁。他最为人熟知的事迹是提出了与集成电路晶体管数量相关的摩尔定律。Gordon and Betty Moore 基金会在声明中称，“作为一名杰出的科学家、商业领袖和慈善家，戈登共同创立并领导了两家开创性的科技公司——仙童半导体和英特尔，与他的妻子贝蒂一起创办了美国最大的私人捐赠基金会之一——戈登和贝蒂·摩尔基金会。”",
+          "link": "https://www.solidot.org/story?sid=74488",
+          "publishedOn": "2023-03-25T05:14:52.000Z",
+          "wordCount": 148,
+          "title": "英特尔联合创始人戈登·摩尔去世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74487",
+          "author": null,
+          "description": "在游戏开发者大会 GDC 上，虚幻引擎开发商 Epic 演示了其最新的动作捕捉技术 MetaHuman Animator，它利用了机器学习能在几分钟内将 iPhone 视频转变成逼真的 3D 脸部动画。新的自动化动画技术是基于 2021 年推出的 MetaHuman 建模工具。Epic 称逾百万用户创建了数百万 MetaHuman 脸部模型，部分模型只使用了 3 张脸部照片经过数分钟内处理完成。但将脸部模型转变成脸部动画仍然有不小的难度，即使是富有经验的游戏工作室，也需要使用专门的硬件和数周或数个月的处理时间，需要人工调整才能在游戏中使用。MetaHuman Animator 大幅简化了整个流程。Epic 现场演示了《Hellblade: Senua's Sacrifice》中主角 Senua 的脸模 Melina Juergens 的 15 秒表演，使用 iPhone 拍摄脸部视频，然后用一台高端 AMD 电脑花不到 1 分钟处理，创造出与原始视频相差无几的 3D 动画。Epic 称它的机器学习系统使用了大量高精细的脸部数据库进行训练。",
+          "link": "https://www.solidot.org/story?sid=74487",
+          "publishedOn": "2023-03-24T14:35:19.000Z",
+          "wordCount": 201,
+          "title": "Epic 新动作捕捉技术将 iPhone 视频变成高保真 3D 动画",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74486",
           "author": null,
@@ -982,116 +1022,6 @@
           "publishedOn": "2023-03-17T05:20:02.000Z",
           "wordCount": 175,
           "title": "Steam Deck 首次九折销售",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74414",
-          "author": null,
-          "description": "三星电子周三宣布它计划未来 20 年内投资 300 万亿韩元（2300 亿美元）在首尔附近建造世界最大的半导体制造基地。这个芯片制造的超级集群将于 2042 年在京畿道完成建造，其核心是三星的五家新半导体工厂，韩国政府希望该基地能吸引到 150 家元件、材料和芯片设计公司。作为全球存储器（Memory）业务的巨头，三星试图扩大在先进芯片领域的影响力，未来几年随着 5G、AI 和自动驾驶汽车等新技术的普及，芯片的需求将激增。",
-          "link": "https://www.solidot.org/story?sid=74414",
-          "publishedOn": "2023-03-16T13:44:39.000Z",
-          "wordCount": 159,
-          "title": "三星将斥资 2300 亿美元建造芯片基地",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74413",
-          "author": null,
-          "description": "当企业还在努力搞明白 ChatGPT 之类的 AI 工具如何影响工作方法时，日本一家金融科技公司已经开始强制要求新员工使用 AI，它甚至还会进行测试。总部位于东京的 LayerX 在招聘广告中明确表示将会测试应聘者使用 OpenAI 和 Notion 的 AI 工具。LayerX 的 HR 主管 Takaya Ishiguro 说，我们承认 ChatGPT 并不完美，但过于害怕新技术也是危险的。公司的招聘者将会评估应聘者向 AI 聊天机器人提出问题的能力，同时还会要求应聘者展开研究识别 AI 技术的限制。ChatGPT 在产生错误的答案时也会表现得自信满满，这影响了企业采用它的意愿。",
-          "link": "https://www.solidot.org/story?sid=74413",
-          "publishedOn": "2023-03-16T13:23:46.000Z",
-          "wordCount": 171,
-          "title": "日本公司强制新员工使用 ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74412",
-          "author": null,
-          "description": "微软周二释出了三月例行安全更新，修复了 74 个漏洞，其中两个是正被利用的 0day——CVE-2023-23397 的危险得分 9.8/10，是 Microsoft Outlook 中的一个提权漏洞，微软没有公开漏洞细节，但披露它正被俄罗斯黑客用于攻击欧洲的政府、能源和军事部门；CVE-2023-24880 是一个 Windows SmartScreen 绕过漏洞，它的危险得分比较低只有 5.4/10，它正被勒索软件组织利用。",
-          "link": "https://www.solidot.org/story?sid=74412",
-          "publishedOn": "2023-03-16T09:26:26.000Z",
-          "wordCount": 158,
-          "title": "微软释出更新修复两个正被利用的 0day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74411",
-          "author": null,
-          "description": "苹果主要代工厂富士康董事长刘扬伟在最新的财报电话会议上表示，该公司将减少对中国作为主要收入来源的依赖。富士康约七成收入来自中国，未来来自中国以外市场的比例将继续增长。刘扬伟表示：“劳动密集型产业向低 GDP 国家转移，这是一个基本事实。”他说，这些经济体随着劳动密集型产业的发展而增长，这转而又引发了另一轮的迁移。去年年底，富士康郑州工厂爆发了抗议活动，当时工人们对严格的疫情防控政策和工资问题愈发不满。鉴于郑州厂区恢复正常生产，刘扬伟表示，富士康的智能消费电子产品业务今年第一季度料将实现同比增长。",
-          "link": "https://www.solidot.org/story?sid=74411",
-          "publishedOn": "2023-03-16T08:18:47.000Z",
-          "wordCount": 143,
-          "title": "富士康将减少对中国收入的依赖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74410",
-          "author": null,
-          "description": "百度宣布了它的 AI 聊天机器人文心一言，但不同于 OpenAI 的 GPT-4 发布会，百度 CEO 李彦宏在介绍文心一言时并没有实时展示 AI 的能力，而是使用了预先录制好的视频。这让人对百度 AI 聊天机器人的实际表现感到担忧。百度目前没有开放文心一言供用户测试，而是采用了邀请码的模式，且没有像 OpenAI 那样提供等待列表(waitlist)之类的申请测试。",
-          "link": "https://www.solidot.org/story?sid=74410",
-          "publishedOn": "2023-03-16T07:56:58.000Z",
-          "wordCount": 155,
-          "title": "百度宣布文心一言",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74409",
-          "author": null,
-          "description": "一年一度的 Debian 项目领导人（DPL）竞选可能变得不那么令人兴奋了，现任 DPL Jonathan Carter 将第四次展开竞选，而今年的候选人也只有他一人。DPL 选举采用的是孔多塞投票法。投票者将候选人或候选的项目随自己的喜好而排名，例如第一意愿写“1”，第二意愿写“2”，如此类推。这种方法将每个选项与所有其他的选项成对比较，一次一个，而击败所有其他选项的选项便是赢家。只要一个选项在大多数选票上的位置高于另一个选项，那么它便击败了那个选项。Jonathan Carter 公布了他的竞选纲领，主要是找出问题去解决，让 Debian 项目变得更友好。",
-          "link": "https://www.solidot.org/story?sid=74409",
-          "publishedOn": "2023-03-16T07:39:29.000Z",
-          "wordCount": 168,
-          "title": "Jonathan Carter 第四次竞选 Debian 项目领导人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74408",
-          "author": null,
-          "description": "PyTorch 基金会宣布释出 PyTorch 2.0。PyTorch 是一个开源 Python 机器学习库。新版的变化包括：稳定版  Accelerated Transformers（前称 Better Transformers），torch/compile 作为其主 API，Nvidia 和 AMD GPU 将依靠  OpenAI Triton 深度学习编译器生成高性能代码隐藏底层硬件细节，Metal Performance Shaders 后端在 macOS 平台提供了 GPU 加速的 PyTorch，在 AWS Graviton CPU 上提供更快的推理性能，等等。更多可浏览发布公告。",
-          "link": "https://www.solidot.org/story?sid=74408",
-          "publishedOn": "2023-03-16T07:05:33.000Z",
-          "wordCount": 180,
-          "title": "PyTorch 2.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74407",
-          "author": null,
-          "description": "纳斯达克证券交易所通知俄罗斯互联网巨头 Yandex 和电子商务公司 Ozon，它们的股票将被摘牌。自俄罗斯攻击乌克兰之后，这两家公司的股票就被交易所暂停交易，至今已经一年多。Yandex 和 Ozon 表示将对纳斯达克的这一决定提起上诉。两家公司都没有受到制裁，虽然 Yandex 的部分高级管理人员受到了制裁。俄罗斯招聘公司 Headhunter 和支付服务提供商 Qiwi 也被通知将被摘牌。",
-          "link": "https://www.solidot.org/story?sid=74407",
-          "publishedOn": "2023-03-16T05:32:56.000Z",
-          "wordCount": 161,
-          "title": "纳斯达克将摘牌 Yandex 等俄罗斯公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74406",
-          "author": null,
-          "description": "Docker 向所有 Docker Hub 用户发去邮件，如果他们是以组织的名义创建账号，那么他们的账号将被删除，所有镜像也将一并删除，除非他们升级到一个付费的团队方案——其年费为 420 美元。Docker Hub 被很多开源项目用于发布镜像，而绝大部分开源项目是没有多少资金的。此举引发了争议，很多人开始将其镜像迁移出 Docker 转到其它平台或自托管。没有自己的基础设施依赖于私有平台都会存在风险。",
-          "link": "https://www.solidot.org/story?sid=74406",
-          "publishedOn": "2023-03-16T03:29:29.000Z",
-          "wordCount": 155,
-          "title": "Docker 将删除开源组织的所有镜像除非他们付钱",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74405",
-          "author": null,
-          "description": "WSJ 援引知情人士的消息报道，拜登政府要求 TikTok 的中国所有者出售其股份，否则该应用可能会在美国被禁。此举标志着美国政府的政策发生重大转变，一些共和党人一直在抨击政府没有采取足够强硬的立场来解决 TikTok 所带来的安全威胁。TikTok 高管曾表示，总部位于北京的母公司字节跳动有 60% 的股份由全球投资者持有，20% 由员工持有，另外 20% 由创始人持有。创始人的股份拥有超额投票权。TikTok 周三表示，强制出售持股并不能解决所谓安全风险。",
-          "link": "https://www.solidot.org/story?sid=74405",
-          "publishedOn": "2023-03-16T02:43:39.000Z",
-          "wordCount": 162,
-          "title": "美国要求字节跳动出售其持有的 TikTok 股份",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74404",
-          "author": null,
-          "description": "去年 8 月举办的 SIGGRAPH 国际图像学年会上，梦工厂动画宣布其私有渲染器 MoonRay 将在年内开源。梦工厂开源的进展略微滞后了几个月。本周四，梦工厂动画在 Apache License 2.0 许可证下公开了 MoonRay 源代码，项目托管在 GitHub 上。MoonRay 是梦工厂内部开发的蒙特卡洛路径追踪器，被用于制作《驯龙高手3》、《疯狂原始人2》、《坏蛋联盟》和《穿靴子的猫2》。MoonRay 使用的基于云端的分布式计算框架 Arras 也包含在开源代码库中。",
-          "link": "https://www.solidot.org/story?sid=74404",
-          "publishedOn": "2023-03-16T02:27:35.000Z",
-          "wordCount": 169,
-          "title": "梦工厂公开 MoonRay 源代码",
           "imageUrl": null
         }
       ]
