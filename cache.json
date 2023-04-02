@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45033",
+          "author": "青小蛙",
+          "description": "Scrcpy 是一款可以在电脑上通过鼠标键盘控制 Android 手机的开源工具，无需 root 权限，支持数据线与 Wi-Fi 连接。上个月发布了 2.0 版本，新增对低延迟音频的支持，Androi",
+          "link": "https://www.appinn.com/scrcpy-2/",
+          "publishedOn": "2023-04-01T06:21:17.000Z",
+          "wordCount": 2686,
+          "title": "Scrcpy 2 发布，新增音频支持｜用 Win 电脑控制 Android 手机",
+          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/scrcpy-2.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45029",
           "author": "青小蛙",
           "description": "iSlide 是一款拥有超过 30 万 PPT 模板、素材的插件工具，支持 Windows 与 macOS，并且兼容 Office 和 WPS，让 PPT 制作更简单。目前在数码荔枝开展买二送一活动，",
@@ -185,26 +195,6 @@
           "wordCount": 2310,
           "title": "一个简单轻量的本地 RSS 阅读器，支持 Chrome/Edge",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/rss-reader.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44934",
-          "author": "xbeta",
-          "description": "Aski AI 是我持续使用超过 40 天的 AI 集成工具。官网的简介是「AI 问答、写作、绘画」。在我看来，它的价值在于，向普通用户提供了最简单、最方便的使用 ChatGPT/OpenAI 文本",
-          "link": "https://www.appinn.com/aski-ai/",
-          "publishedOn": "2023-03-23T12:47:00.000Z",
-          "wordCount": 2363,
-          "title": "Aski AI – 中文 AI 问答、写作、绘画工具[by 善用佳软]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/aski-ai-1.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44931",
-          "author": "青小蛙",
-          "description": "Multiplicity 3 是一款可以通过一套键盘鼠标跨屏幕控制多台电脑的 Windows 工具，让 A 电脑的鼠标直接进入 B 电脑的显示器。而其高级版本（KVM）更是可以共享其它电脑的显示器，实",
-          "link": "https://www.appinn.com/multiplicity-3/",
-          "publishedOn": "2023-03-23T08:21:51.000Z",
-          "wordCount": 2443,
-          "title": "Multiplicity 3 – 通过一套键盘鼠标跨屏幕控制多达 9 台电脑，还能共享音频[Windows]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/multiplicity-31.jpgo_.jpg"
         }
       ]
     },
@@ -212,18 +202,7 @@
       "title": "CSS-Tricks",
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=377264",
-          "author": "Pankaj Parashar",
-          "description": "I spend a lot of time in DevTools, and I’m sure you do too. Sometimes I even bounce between them, especially when I’m debugging cross-browser issues. DevTools is a lot like browsers themselves — not all of the features in …\nSome Cross-Browser DevTools Features You Might Not Know originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/some-cross-browser-devtools-features-you-might-not-know/",
-          "publishedOn": "2023-03-22T20:22:42.000Z",
-          "wordCount": 1861,
-          "title": "Some Cross-Browser DevTools Features You Might Not Know",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377264"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "阮一峰的网络日志",
@@ -264,6 +243,76 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74557",
+          "author": null,
+          "description": "Google 云储存服务 Google Drive 的用户报告，搜索巨人对 Drive 能储存的文件数量设定了一个上限，超过这个限额之后就必须删除旧文件，否则将无法使用。Google Drive 的最高容量为 30 TB，月费为 150 美元。但无论你是企业级还是消费级客户，都受到这个未公开的限额的影响——文件数量超过 500 万之后就无法使用。Google 发言人证实了该限额的存在，称此举是一种防止滥用的安全保障措施，避免系统的稳定性和安全性受到影响。",
+          "link": "https://www.solidot.org/story?sid=74557",
+          "publishedOn": "2023-04-01T11:05:19.000Z",
+          "wordCount": 164,
+          "title": "Google Drive 对用户储存的文件数量设定了上限",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74556",
+          "author": null,
+          "description": "1998 年 3 月 31 日，Netscape 通过 mozilla.org 公开了其浏览器的源代码，标志着 Mozilla 的诞生。Mozilla 联合创始人兼 CEO Mitchell Baker 通过官方博客回顾了过去的 25 年。她表示过去 25 年 Mozilla 发生了巨大变化，但其精神和价值观没有改变，且这种精神和价值观比以往任何时候更重要。Mozilla 将会继续致力于推动互联网的健康发展。",
+          "link": "https://www.solidot.org/story?sid=74556",
+          "publishedOn": "2023-04-01T10:55:55.000Z",
+          "wordCount": 175,
+          "title": "Mozilla 诞生 25 周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74555",
+          "author": null,
+          "description": "对于最近火热无比的 AI 聊天机器人，中国工程院院士方滨兴表示，ChatGPT是聊天形式的软件，能给出直接答案，取代了传统教学体系，当大家习惯于查 ChatGPT，什么都问它，它什么都给解答，就会形成知识茧房，甚至“三观都会被左右”，这是一个大问题。 ​​​",
+          "link": "https://www.solidot.org/story?sid=74555",
+          "publishedOn": "2023-04-01T08:00:30.000Z",
+          "wordCount": 156,
+          "title": "方滨兴称 ChatGPT 可能会造成知识茧房",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74554",
+          "author": null,
+          "description": "网信办在一份简短声明中宣布对美国内存芯片制造商美光启动网络安全审查。声明称，“为保障关键信息基础设施供应链安全，防范产品问题隐患造成网络安全风险，维护国家安全，依据《中华人民共和国国家安全法》《中华人民共和国网络安全法》，网络安全审查办公室按照《网络安全审查办法》，对美光公司（Micron）在华销售的产品实施网络安全审查。”",
+          "link": "https://www.solidot.org/story?sid=74554",
+          "publishedOn": "2023-04-01T07:57:39.000Z",
+          "wordCount": 142,
+          "title": "网信办对美光启动网络安全审查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74553",
+          "author": null,
+          "description": "Twitter 公开了推荐算法源代码，源代码托管在 GitHub 上，采用 GNU Affero General Public License v3.0 许可证。推荐算法的一个主要目的是筛选出流行推文，利用机器学习模型进行排名，应用过滤器过滤掉 NSFW 推文和已屏蔽用户推文等，最后展示到用户的时间线。Twitter 的算法引发了用户的强烈兴趣，用户很快发现 Twitter CEO 马斯克（Elon Musk）得到了特别对待。上个月马斯克的推文曾一度展示给几乎所有 Twitter 用户。相关算法代码特别提到了 author_is_elon、author_is_power_user、author_is_democrat、author_is_republican...代码注解声称这些用户 ID 只是用于数据收集的目的。对于这一发现，马斯克本人在 Twitter 上表示将会移除，声称他也是才知道。",
+          "link": "https://www.solidot.org/story?sid=74553",
+          "publishedOn": "2023-04-01T07:55:06.000Z",
+          "wordCount": 170,
+          "title": "Twitter 公开推荐算法源代码，马斯克获特别优待",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74552",
+          "author": null,
+          "description": "意大利隐私监管机构周五以涉嫌侵犯隐私为由对 OpenAI 的聊天机器人 ChatGPT 下达了禁令。意大利数据保护机构表示将调查 OpenAI 如何处理意大利用户的数据。对 ChatGPT 的禁令是临时性的，只要 OpenAI 遵守欧盟的数据保护规定 GDPR 即可。隐私监管机构称，OpenAI 大量收集和储存个人数据去训练 ChatGPT 的算法这一做法缺乏法律依据，该公司也没有正确的处理数据。ChatGPT 上周遭遇了数据泄露，暴露了用户的对话和支付信息。此外 OpenAI 没有验证用户的年龄，使得未成年人接触到不合适他们年龄的答案。OpenAI 有 20 天时间回答如何遵守欧盟的隐私规定。更新：OpenAI 遵守禁令限制意大利用户使用 ChatGPT。",
+          "link": "https://www.solidot.org/story?sid=74552",
+          "publishedOn": "2023-03-31T15:04:48.000Z",
+          "wordCount": 176,
+          "title": "意大利隐私监管机构对 ChatGPT 下达禁令",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74551",
+          "author": null,
+          "description": "朝鲜黑客通过广泛使用的 VoIP 客户端 3CX 对其用户发动了供应链攻击。黑客采用的方法目前还不清楚，但他们设法传播了含有恶意功能的 3CX Windows 和 macOS 客户端，使用了官方的有效密钥进行签名，还通过了苹果的安全检查。受影响的版本包括：Windows 下有 18.12.407 和 18.12.416；macOS 下有 18.11.1213、18.12.402、18.12.407 和 18.12.416。任何使用 3CX 的企业或组织都应该立即检查其网络寻找是否有入侵迹象。3CX 有逾 60 万客户，其中包括美国运通、奔驰和普华永道等知名公司。黑客的入侵准备活动至少是从 2022 年 2 月就开始了，当时他们注册了一系列相关域名。本周安全软件开始检测到来自 3CX 客户端的恶意活动，这次供应链攻击才曝光。对恶意版本的分析显示，它包含了干净版本的 3CX 应用，通过 DLL Sideloading 的方法加入恶意功能。",
+          "link": "https://www.solidot.org/story?sid=74551",
+          "publishedOn": "2023-03-31T14:37:13.000Z",
+          "wordCount": 182,
+          "title": "朝鲜黑客通过 3CX 对用户发动供应链攻击",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74550",
           "author": null,
@@ -1003,126 +1052,6 @@
           "wordCount": 168,
           "title": "如果美国封杀 TikTok，微信可能是下一个",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74476",
-          "author": null,
-          "description": "韩国早些时候披露 2022 年总和生育率为 0.78，创 1970 年开始相关统计以来最低值。韩国统计厅公布的最新数据展示了韩国人的低生育欲望，但背后的原因未解释。统计显示，去年韩国 13 岁以上人口中认为有必要结婚的人群仅占 50%。这意味着剩余的半数人口认为没必要非得结婚，10 到 29 岁年龄段中 58.9% 的人认为婚后不必生娃。2021 年韩国育龄妇女平均初育年龄为 32.6 岁，比 2000 年的 27.7 岁增长了近 5 岁。平均每个家庭户人口为 2.3 人，较 2000 年锐减 0.83 人。",
-          "link": "https://www.solidot.org/story?sid=74476",
-          "publishedOn": "2023-03-23T12:30:54.000Z",
-          "wordCount": 169,
-          "title": "调查显示半数韩国人认同不结婚或者丁克",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74475",
-          "author": null,
-          "description": "贝多芬是有史以来最伟大的作曲家之一，但他终身都受到健康问题的困扰。1818 年基本上失去了听力。这些问题无疑影响到了他的职业和情绪状态。以至于他留下遗嘱要求医生检查尸体确定痛苦的根源。在接近两个世纪之后，科学家通过分析贝多芬头发的基因组，确认他感染了乙肝，但他的死因还是无法判断。研究小组发现了肝病的许多重要遗传风险因素，以及贝多芬感染乙型肝炎病毒的证据，这种情况至少发生在他患致命疾病之前的几个月。研究人员无法确定贝多芬耳聋或肠胃问题的遗传原因。贝多芬的听力损失与多种可能的原因有关。根据基因组数据，研究人员排除了麸质和乳糖不耐症、肠易激综合征导致肠胃问题的可能。 研究主要作者表示，贝多芬在他生命的最后十年中使用的“谈话笔记本”表明他经常饮酒。如果贝多芬的饮酒量在足够长的时间内足够高，且与他的遗传风险因素的相互作用，就为他的肝硬化提供了可能的解释。",
-          "link": "https://www.solidot.org/story?sid=74475",
-          "publishedOn": "2023-03-23T11:57:09.000Z",
-          "wordCount": 144,
-          "title": "贝多芬的基因组数据揭示了他死亡的线索",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74474",
-          "author": null,
-          "description": "根据上个世纪被称为“弗林效应”的现象，人类的 IQ 得分一直在上升，每十年差异在 3 到 5 分之间。但根据发表在《Intelligence》上的一项研究，在 2006- 2018 年期间，在美国的一个大型样本中，除了一个类别外，所有类别都存在反向“弗林效应”的证据。研究发现，在研究期间，语言推理(逻辑、词汇)、矩阵推理(视觉问题解决、类比)以及字母和数字序列(计算/数学)的能力得分下降，但 3D 旋转(空间推理)的得分从 2011-2018 年普遍上升。综合能力得分(由多条信息得出的单一得分)在最近的样本中也较低。得分的差异与年龄、教育程度和性别无关。这项研究没有调查智商下降的原因，科学界不乏相关理论，包括营养不良、健康状况恶化、媒体曝光和教育变化。研究人员表示需要更多研究。",
-          "link": "https://www.solidot.org/story?sid=74474",
-          "publishedOn": "2023-03-23T09:58:52.000Z",
-          "wordCount": 155,
-          "title": "美国成年人中间出现反向弗林效应",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74473",
-          "author": null,
-          "description": "TikTok 在华盛顿召集了一群网红，向国会喊话： 禁止该应用将激起民众的广泛反对。有 20 多位 TikTok 网红本周应 TikTok 邀请前往华盛顿游说国会议员和其他人士。TikTok 首席执行官周受资周四将出席众议院能源和商务委员会的听证会。拜登政府最近要求字节跳动出售所持 TikTok 股份，否则可能面临美国对该应用的封禁。TikTok 坚称不受制于任何政府，是 1.5 亿美国用户不可或缺的一个平台。周三网红在国会附近与记者见面时着力强调了这一点。TikTok 承担了这批人的旅行和住宿费用。",
-          "link": "https://www.solidot.org/story?sid=74473",
-          "publishedOn": "2023-03-23T09:11:54.000Z",
-          "wordCount": 161,
-          "title": "TikTok 召集网红抗议美国的封杀计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74472",
-          "author": null,
-          "description": "石药集团发表声明，该公司开发的新型 mRNA 疫苗已被卫生监管机构纳入紧急使用。这是中国批准的首个基于 mRNA 技术的新冠疫苗。此前中国批准的新冠疫苗主要是灭活疫苗，由已杀灭的病原体制成之疫苗，其抗原成分加工程度较低，需要多次接种且免疫效果持续较短。mRNA疫苗是利用信使 RNA（mRNA）的分子副本产生免疫反应的疫苗，能快速设计和生产，能产生更持久的免疫反应。",
-          "link": "https://www.solidot.org/story?sid=74472",
-          "publishedOn": "2023-03-23T08:47:33.000Z",
-          "wordCount": 154,
-          "title": "中国批准首个 mRNA 新冠疫苗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74471",
-          "author": null,
-          "description": "据国际可再生能源机构（IRENA）的数据，截至 2022 年底，全球可再生能源装机容量达到 3372 GW，增长 9.6%  即净增加 295 GW。可再生能源占去年新增装机容量的 83%。增长幅度最多的地区主要位于亚洲、美国和欧洲，其中近半数在亚洲，中国最多贡献了 141  GW，欧洲增加 57.3 GW，北美 29.1 GW。大洋洲 5.2 GW，非洲 2.7 GW，南美洲 18.2 GW。中东的可再生能源增长创下了记录，增长 12.8% 或 3.2 GW。",
-          "link": "https://www.solidot.org/story?sid=74471",
-          "publishedOn": "2023-03-23T08:32:23.000Z",
-          "wordCount": 176,
-          "title": "2022 年全球可再生能源增长 9.6%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74470",
-          "author": null,
-          "description": "五名厄瓜多尔记者收到了激活时会爆炸的 U 盘。瓜亚基尔 Ecuavisa 电视台记者 Lenin Artieda 在收到 U 盘后将其插入电脑，这时 U 盘发生了爆炸。记者的手和脸部受到了轻伤，没有其他人受到伤害。U 盘内被认为装有名为环三亚甲基三硝胺（RDX）的高能炸药，该炸药也被美国军方使用，可以单独用也可以与 TNT 等炸药混合。Artieda 插入的 U 盘只有半数炸药激活，因此可能产生的伤害较小。厄瓜多尔非盈利组织 Fundamedios 称另外还有两名瓜亚基尔和两名首都的记者收到了炸弹 U 盘。EXA FM 电台记者 Alvaro Rosero 在 3 月 15 日收到了装有 U 盘的信件，他将其交给了一位制片人，后者使用带适配器的线缆将其连接到电脑上，U 盘没有爆炸，警方认为是适配器没有足够的电量激活炸弹。警方对其它 U 盘实施了“控制性引爆”。目前还不清楚邮寄炸弹 U 盘的动机，厄瓜多尔内政部长 Juana Zapata 表示邮寄者旨在传达让记者闭嘴的信息。政府表示，任何企图恐吓新闻和言论自由的行为都应该收到严厉的司法惩罚。",
-          "link": "https://www.solidot.org/story?sid=74470",
-          "publishedOn": "2023-03-23T07:26:16.000Z",
-          "wordCount": 189,
-          "title": "厄瓜多尔记者收到插入电脑会爆炸的 U 盘",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74469",
-          "author": null,
-          "description": "GNOME 项目释出了 v44。GNOME 44 代号吉隆坡，选择这一名字旨在表彰 2022 年 GNOME 亚洲峰会的主办方所做的工作。新版的主要变化包括：Epihaphy (GNOME Web) 浏览器移植到 GTK4，网络面板可直接添加 WireGuard VPN，设置应用大修，改进了快速设置菜单，文件选择器加入网格视图，Software 提供了更流畅更快的体验，低电量通知改进，等等。",
-          "link": "https://www.solidot.org/story?sid=74469",
-          "publishedOn": "2023-03-23T06:50:02.000Z",
-          "wordCount": 164,
-          "title": "GNOME 44 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74468",
-          "author": null,
-          "description": "美国证券交易委员会（SEC）对孙宇晨及其名下三家 Tron Foundation Limited、BitTorrent Foundation Ltd. 和 Rainberry Inc. (前 BitTorrent)提起指控，指控其未登记提供和销售加密货币资产证券 Tronix (TRX) 和 BitTorrent (BTT) ，SEC 还指控孙及其公司通过广泛的冲销交易欺诈性的操纵 TRX 币的二级市场。所谓冲销交易是同时或近同时购买和出售一种证券，让它的交易看起来很活跃，但实际所有权并没有改变。孙及其公司还在未披露报酬的情况下雇佣名人推销 TRX 和 BTT。",
-          "link": "https://www.solidot.org/story?sid=74468",
-          "publishedOn": "2023-03-23T04:08:09.000Z",
-          "wordCount": 167,
-          "title": "SEC 指控孙宇晨及其公司欺诈",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74467",
-          "author": null,
-          "description": "Valve 正式宣布它最受欢迎的团队竞技游戏《反恐精英》系列的最新版本将在夏天发布，从今天开始封闭测试。《反恐精英2》将取代《反恐精英：全球攻势（CSGO）》，游戏将免费升级。Valve 发布了一系列视频，展示了《反恐精英2》的新特性，包括：烟雾弹现在是三维动态物体，能与环境相互作用并对光照、枪击和爆炸作出反应；移动、射击或投掷时不再受到刷新频率的阻碍；地图使用起源2 引擎全面翻新；起源2工具将提供给社区地图制作者；CSGO 的库存将带到《反恐精英2》；等等。",
-          "link": "https://www.solidot.org/story?sid=74467",
-          "publishedOn": "2023-03-23T02:02:50.000Z",
-          "wordCount": 149,
-          "title": "Valve 宣布《反恐精英2》将在夏天发布，封闭测试开启",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74466",
-          "author": null,
-          "description": "生成式 AI 日益常见，AI 撰写的文本也愈来愈多的出现在我们生活中。但我们能分辨出它们吗？斯坦福大学的一项调查发现，人类只能以 50-52% 的准确率区分出人类和 AI 撰写的文本，也就是说基本上靠猜测。研究人员指出，人类在判断上并不是基于猜测，而是基于合理的直觉和共同的语言线索，将文本中的高语法正确性和第一人称代词的使用错误的归于人类，这些假设实际上是有缺陷的。研究人员称，AI 生成内容的数量可能会在数年内超过人类，这将会冲击到我们的信息生态系统，破坏信任，我们必须找到解决方法去识别 AI 文本。",
-          "link": "https://www.solidot.org/story?sid=74466",
-          "publishedOn": "2023-03-22T15:17:19.000Z",
-          "wordCount": 159,
-          "title": "研究显示人类识别 AI 撰写文本的准确率只有五成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74465",
-          "author": null,
-          "description": "日本北海道大学和九州大学的研究团队在《Nature Communications》上发表研究成果称，从探测器“隼鸟2号”采集的小行星“龙宫”的沙粒样本中，发现了构成遗传物质 RNA 的一种名为“尿嘧啶”的碱基。RNA 在细胞内负责合成蛋白质等。此外还检测出了“烟酸”，这是在体内与代谢相关的维生素B中的一种。有学说认为，约 40 亿年前坠落的陨石所含物质成为了地球最初诞生生命的材料。北海道大学副教授大场康弘表示：“虽不能断言小行星的 RNA 成分与地球的生命直接相关，但从小行星带回了同一成分这一点或许毋庸置疑。”成为 RNA 和 DNA 材料的碱基共有 5 种，除了尿嘧啶之外，还有腺嘌呤、鸟嘌呤、胞嘧啶、胸腺嘧啶。该团队迄今从落在地球的陨石中发现了全部 5 种。据称，此次的样本未检测出尿嘧啶以外的 4 种，但有可能会从“龙宫”其他样本中检测到。",
-          "link": "https://www.solidot.org/story?sid=74465",
-          "publishedOn": "2023-03-22T14:45:35.000Z",
-          "wordCount": 169,
-          "title": "小行星龙宫样本发现 RNA 碱基",
-          "imageUrl": null
         }
       ]
     },
@@ -1192,6 +1121,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/happy-april-sale",
+          "author": null,
+          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated sales campaign called \"Happy month Sale\" where month is a variable.\nNow each new month, for the first couple of days, we show a 50% discount offer to all users who visit our site.\nThis month it's \"Happy April Sale\". Next month it will be \"Happy May Sale\", etc.\nHere's how it looks:\nRun happy month sales too and see you next time!",
+          "link": "https://catonmat.net/happy-april-sale",
+          "publishedOn": "2023-04-01T09:00:00.000Z",
+          "wordCount": 169,
+          "title": "Happy April Sale",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/paid-plans-for-number-tools",
           "author": null,
