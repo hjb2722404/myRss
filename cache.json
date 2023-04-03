@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45039",
+          "author": "青小蛙",
+          "description": "OpenCat 是一款知名好用的第三方 ChatGPT 客户端，目前在 Mac、iOS 上使用起来非常不错。最近新功能有点多，包括团队版、支持 Siri，以及利用 Azure TTS 实现的朗读功能。",
+          "link": "https://www.appinn.com/opencat-for-team/",
+          "publishedOn": "2023-04-02T08:35:35.000Z",
+          "wordCount": 2755,
+          "title": "OpenCat 团队版：为团队成员提供 OpenAI API 服务",
+          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/opencat-for-team.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=45040",
+          "author": "青小蛙",
+          "description": "Nearby Share Beta for Windows 是刚刚发布的，适配 Android 原生附近分享（Nearby Share）功能的 Windows 客户端，可以更方便的在 Android",
+          "link": "https://www.appinn.com/nearby-share-beta-for-windows/",
+          "publishedOn": "2023-04-02T07:50:18.000Z",
+          "wordCount": 2395,
+          "title": "Nearby Share Beta for Windows 发布，可以更方便的在 Android 与 Windows 间传输文件",
+          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/nearby-share-beta-for-windows.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45033",
           "author": "青小蛙",
           "description": "Scrcpy 是一款可以在电脑上通过鼠标键盘控制 Android 手机的开源工具，无需 root 权限，支持数据线与 Wi-Fi 连接。上个月发布了 2.0 版本，新增对低延迟音频的支持，Androi",
@@ -175,26 +195,6 @@
           "wordCount": 2316,
           "title": "ChatDOC – 让 ChatGPT 与 Word 文档对话，自动提出最重要的 5 个问题",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/chatdoc.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44946",
-          "author": "青小蛙",
-          "description": "Lunabot 是一款 Chrome、Edge 浏览器扩展，用来针对网页进行 ChatGPT 提问，比如总结、翻译、回邮件等。@Appinn 来自发现频道，开发者 @hfcorriez 自荐：http",
-          "link": "https://www.appinn.com/lunabot/",
-          "publishedOn": "2023-03-24T12:17:09.000Z",
-          "wordCount": 2242,
-          "title": "Lunabot – 在任何网页使用 ChatGPT 的扩展，无需注册可免费用[Chrome/Edge]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/appinn-feature-image-2023-03-24t200228-240.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44942",
-          "author": "青小蛙",
-          "description": "RSS阅读器 – RSS Reader，就是这款浏览器扩展的名字，一个简单的本地 RSS 阅读器，支持收藏、今日更新，可以显示 TOC 目录，已经在 Chrome、Edge 商店上架。@A",
-          "link": "https://www.appinn.com/rss-reader-in-chrome/",
-          "publishedOn": "2023-03-24T07:17:21.000Z",
-          "wordCount": 2310,
-          "title": "一个简单轻量的本地 RSS 阅读器，支持 Chrome/Edge",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/rss-reader.jpgo_.jpg"
         }
       ]
     },
@@ -225,24 +225,43 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10772",
-          "author": "张 鑫旭",
-          "description": "一不留神，又发现了一个CSS全局关键字revert-layer，一番研究后，终于知道干嘛用的了，这个值以后@layer大火的时候会很有用。",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/03/css-revert-layer-global-keyword/",
-          "publishedOn": "2023-03-23T16:56:50.000Z",
-          "wordCount": 1054,
-          "title": "CSS又出了个revert-layer全局关键字😂",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74560",
+          "author": null,
+          "description": "美国研究人员发现，细胞内部基因表达的错误率越来越高，无法正常合成蛋白质，可能是细胞停止分裂、陷入衰老状态的原因。这项成果有望为研发抗衰老药物提供新靶点。在基因表达的过程中，DNA 序列转录产生 RNA，随后以 RNA 为模板合成蛋白质，执行具体生理功能。此前对酵母和蠕虫的研究显示，衰老细胞里基因表达的保真度严重下降。为了确定人类细胞是否有同样特征，研究小组用来自人类胚胎的肺部细胞进行体外培养，促使它们快速分裂以模拟衰老过程，使这些细胞在三个月后就陷入衰老。基因测序显示，这些衰老细胞里基因转录为 RNA 的错误率很高，大量转录产物的长度过短，它们很可能无法正常翻译成蛋白质，或者合成的蛋白质不正常。研究还发现，老龄小鼠的肝细胞也存在类似的状况。",
+          "link": "https://www.solidot.org/story?sid=74560",
+          "publishedOn": "2023-04-02T15:17:43.000Z",
+          "wordCount": 147,
+          "title": "细胞衰老可能与基因表达错误率上升有关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74559",
+          "author": null,
+          "description": "著名音乐家坂本龙一因病去世，享年 71 岁。坂本龙一于 3 月 28 日在医院去世，他逝世的消息 4 月 2 日才传出。他曾先后诊断罹患咽喉癌和直肠癌。他在 1987 年因在《末代皇帝》中的配乐而获得奥斯卡最佳原创配乐奖，他最成功的电影作曲作品包括《末代皇帝》（1987）、《遮蔽的天空》（1990）、《小活佛》（1993）和《神鬼猎人》（2015）等。",
+          "link": "https://www.solidot.org/story?sid=74559",
+          "publishedOn": "2023-04-02T15:02:43.000Z",
+          "wordCount": 153,
+          "title": "音乐家坂本龙一去世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74558",
+          "author": null,
+          "description": "旧金山曾以房价高昂著称，在新冠前市区是该市生金蛋的鹅。七成的工作岗位来自在市区租办公室的企业，它们创造了近八成的经济产出。但在新冠之后，企业员工并没有全都回来。2023 年一季度旧金山写字楼空置率创下了 29.4% 的历史新高。这一趋势短时间内不会结束。旧金山近 30% 的新增就业职位是混合办公或远程办公，在美国 50 大城市中高居第一。员工们多在家里办公而不是乘坐交通工具或驾车前往市区，这意味着税收的大幅减少。旧金山政府估计未来两个财年将出现 7.28 亿美元的财政赤字。怎么办？一种解决方法是将闲置的写字楼改造成住宅楼，希望员工们尽可能住在市区而不是郊外。",
+          "link": "https://www.solidot.org/story?sid=74558",
+          "publishedOn": "2023-04-02T14:54:00.000Z",
+          "wordCount": 150,
+          "title": "旧金山面临税收大幅减少的困境",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74557",
           "author": null,
@@ -951,106 +970,6 @@
           "publishedOn": "2023-03-24T14:35:19.000Z",
           "wordCount": 201,
           "title": "Epic 新动作捕捉技术将 iPhone 视频变成高保真 3D 动画",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74486",
-          "author": null,
-          "description": "最大的源代码托管平台 GitHub 宣布更换其 SSH 密钥。原因是本周早些时候，它发现 GitHub.com 的 RSA SSH 私钥在一个公开的库内短暂暴露。它立即采取了行动并展开了调查。问题并不是任何 GitHub 系统被入侵或客户信息泄露的结果，它认为问题是疏忽大意，认为没有证据表明曝光的密钥遭到了滥用，出于谨慎考虑它更换了密钥。",
-          "link": "https://www.solidot.org/story?sid=74486",
-          "publishedOn": "2023-03-24T10:26:42.000Z",
-          "wordCount": 165,
-          "title": "GitHub.com 短暂暴露其 SSH 私钥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74485",
-          "author": null,
-          "description": "中兴和一家名叫 Leia 的公司联手推出了一款裸眼 3D 平板。它在国际市场上的品牌名称叫 ZTE Nubia Pad 3D，在美国市场上因为中兴被视为国家安全威胁因此品牌名改名为 Leia Lume Pad 2。它配备了 12.4 英寸 120 Hz 2560×1600 IPS LCD 显示屏，运用  Leia 的光场技术实现裸眼 3D 效果，显示屏会向每只眼睛发送略有差异的画面。试用过的记者表示效果令人印象深刻，但可能有头疼的副作用。平板的硬件规格称不上最新，它使用了高通的 Snapdragon 888 SoC，8GB 内存，128GB 或 256GB 存储选项，9070 mAh 电池和 33 W 快充，操作系统是 Android 12L，美版售价 1099 美元。",
-          "link": "https://www.solidot.org/story?sid=74485",
-          "publishedOn": "2023-03-24T09:23:27.000Z",
-          "wordCount": 198,
-          "title": "中兴推出售价 1100 美元的裸眼 3D 平板",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74484",
-          "author": null,
-          "description": "根据发表在《自然》期刊上的一项研究，星际天体‘Oumuamua 之前原因不明的加速其实是源于储冰产生的氢气。‘Oumuamua 是人类探测到的首个起源于太阳系外并穿越太阳系的已知星际天体。它的小幅非引力加速通常与某种物质释放的俘获气体有关，类似彗星。不过，‘Oumuamua 并不具有彗星活动的迹象，比如一条由尘埃或气体组成的“尾巴”。研究人员在其建立的模型中研究发现，‘Oumuamua 的加速是由该天体内部俘获分子氢的释放导致。在‘Oumuamua 近距离飞过太阳时，这些氢在富水冰产生的激烈反应中形成，并随后从内部释放，轻微弯曲了穿过太阳系的轨迹。研究结果支持了之前的理论，即‘Oumuamua 可能和太阳系彗星类似，起源时曾是冰质星子——冰质星子是行星形成早期阶段形成的小型天体。",
-          "link": "https://www.solidot.org/story?sid=74484",
-          "publishedOn": "2023-03-24T08:22:04.000Z",
-          "wordCount": 153,
-          "title": "‘Oumuamua 的加速源自其释放的氢气",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74483",
-          "author": null,
-          "description": "今天盛行付费订阅服务，各种服务都在努力吸引用户订阅，但如果你想终止某个服务的订阅就不是那么容易了。美国联邦贸易委员会（FTC）提议正式禁止此类订阅简单但取消困难的做法。FTC 宣布了被称为 click to cancel 的提议，要求企业让取消服务和订阅一样简单。企业不能够让用户在网上订阅服务，但取消的操作却要通过电话来完成。对于服务设定不取消就认为续订，企业需要每年提醒用户。FTC 主席 Lina Khan 表示，企业不应该操纵消费者为不想要的订阅付费，每年有大量消费者投诉此类做法。",
-          "link": "https://www.solidot.org/story?sid=74483",
-          "publishedOn": "2023-03-24T07:07:50.000Z",
-          "wordCount": 154,
-          "title": "FTC 寻求禁止订阅难以取消的行为",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74482",
-          "author": null,
-          "description": "OpenAI 宣布它的 AI 聊天机器人 ChatGPT 加入对插件的初步支持。插件开发者现在可以加入一个等待名单等候批准。OpenAI 称，自 ChatGPT 推出以来，用户就要求支持插件，因为插件将能解开大量可能的用例。OpenAI 表示它将采用逐步扩大的方式，创建一个庞大的插件库，首批插件由 Expedia、FiscalNote、Instacart、KAYAK、Klarna、Milo、OpenTable、Shopify、Slack、Speak、Wolfram 和 Zapier 创建。以 Wolfram 为例， 当用户输入一个问题，ChatGPT 会将问题格式化，然后发送给 Wolfram|Alpha 进行计算，对于返回的计算结果 ChatGPT 会决定用什么方式回复用户。",
-          "link": "https://www.solidot.org/story?sid=74482",
-          "publishedOn": "2023-03-24T05:53:54.000Z",
-          "wordCount": 167,
-          "title": "ChatGPT 加入对插件的支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74481",
-          "author": null,
-          "description": "加密货币公司 Terraform Labs 的创始人 Do Kwon 在黑山被捕。Terraform 发行了被称为 Terra USD（UST）的算法稳定币，去年 5 月 UST 的币值崩溃关联代币 LUNA 几乎跌至一文不值，客户损失了数十亿美元。Do Kwon 是韩国公民，他的公司总部位于新加坡，他遭到了韩国警方的通缉，国际刑警组织也对他发出了红色通缉令。此前他被发现从新加坡逃到了塞尔维亚。黑山内政部长 Filip Adzic 在一份声明中表示，当地警方在 Podgorica 机场逮捕了一名持有伪造文件的男子，他被认为就是通缉犯 Kwon。他表示官方仍然在确认其身份。韩国国家警察厅已经表示它根据现有信息确认这名嫌疑犯就是 Kwon。",
-          "link": "https://www.solidot.org/story?sid=74481",
-          "publishedOn": "2023-03-24T03:35:53.000Z",
-          "wordCount": 173,
-          "title": "Do Kwon 在黑山被捕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74480",
-          "author": null,
-          "description": "台湾威盛（VIA）与上海市政府的合资企业兆芯开始向内核递交补丁加入对永丰微架构的支持。兆芯去年宣布了采用永丰架构的服务器 x86_64 处理器 KH-4000 系列。永丰是陆家嘴微架构的继任者，仍然采用 16nm 工艺，支持最高 32 个核心，相比陆家嘴的 8 核是一大飞跃，频率最高  2.2GHz，支持 PCIe 3.0 和 DDR4。虽然它比不上 AMD 和英特尔的最新处理器，但对于国产 CPU 而言是进步。兆芯的工程师刚刚向内核递交了首批支持永丰的补丁。",
-          "link": "https://www.solidot.org/story?sid=74480",
-          "publishedOn": "2023-03-24T03:26:46.000Z",
-          "wordCount": 160,
-          "title": "兆芯开始向内核递交补丁加入对永丰架构的支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74479",
-          "author": null,
-          "description": "美洲亚马逊居民常在宗教仪式中使用名叫死藤水的饮料，它能让服用者产生强烈的幻觉，甚至还能经历濒死体验，接触高维生命和走上改变人生的替代现实之路。死藤水中的致幻物质是 N,N-二甲基色胺（DMT）。根据发表在 PNAS 期刊上的一项研究，伦敦帝国学院的研究人员招募了 20 名健康志愿者，分别给他们注射 20 毫克的 DMT 和安慰剂，使用脑电图（EEG）和功能性磁共振成像（fMRI）记录志愿者在服用药物之前、期间和之后的大脑活动。结果显示，DMT 破坏了大脑的基本网络，导致彼此之间的区分很小。大脑的主要节奏（充当抑制、约束作用）瓦解，大脑活动具有了更多熵或更多信息。想象力等高级功能的大脑区域连接性飙升。",
-          "link": "https://www.solidot.org/story?sid=74479",
-          "publishedOn": "2023-03-23T16:00:42.000Z",
-          "wordCount": 151,
-          "title": "脑扫描揭示死藤水对大脑产生的深刻影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74478",
-          "author": null,
-          "description": "Adobe 推出了它的 AI 图像合成生成器 Firefly。与 Stable Diffusion 和 DALL-E 等类似模型不同的，Adobe  称它的 AI 是完全是通过合法和合乎道德的数据来源训练的，因此生成的结果可以供商业艺术家使用。此前，开源 AI 模型 Stable Diffusion 使用的数据集被认为包含有大量的版权作品，且未征得版权所有者的同意，因此遭遇了艺术家的抗议和诉讼。为了避免这些问题，Adobe 的 Firefly 使用了 Adobe Stock 图库、开放授权的内容和已过版权保护期的公有领域内容进行训练，确保生成的内容可安全用于商业用途。",
-          "link": "https://www.solidot.org/story?sid=74478",
-          "publishedOn": "2023-03-23T15:26:31.000Z",
-          "wordCount": 180,
-          "title": "Adobe 称它的 Firefly AI 是合乎道德的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74477",
-          "author": null,
-          "description": "Jimmy Zhou 是纽约人，他的母亲是在 1982 年从东莞移民到美国。母亲只会用微信。WhatsApp 和 Signal 等美国应用在中国都被封掉，因此微信是唯一的选择。微信在美国有大约 1900 万活跃用户，像 Zhou 的母亲这些人都依赖于微信与海外的家人和美国华人社区保持紧密联系。Zhou 从事移动应用开发和项目管理工作，他说自己这一代人很容易从一个应用转移到另一个应用，但像他母亲这类不太懂技术的人来说，这是非常困难的。过去几个月，美国政府对中国社交应用 TikTok 施加了越来越大的压力。拜登要求字节跳动出售所持的 TikTok 股份。但 TikTok 并不是唯一一个在美国流行的中国应用，还有 Shein、拼多多的 Temu、字节跳动的另一款视频编辑应用 CapCut，以及腾讯的微信。分析师认为，如果 TikTok 在美国被封杀，那么下一个很可能就是微信了。",
-          "link": "https://www.solidot.org/story?sid=74477",
-          "publishedOn": "2023-03-23T15:11:24.000Z",
-          "wordCount": 168,
-          "title": "如果美国封杀 TikTok，微信可能是下一个",
           "imageUrl": null
         }
       ]
