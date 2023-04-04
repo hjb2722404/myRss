@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45118",
+          "author": "青小蛙",
+          "description": "小白羊阿里云盘客户端是一款非常知名的第三方阿里云盘客户端，目前已不再维护。新版由 @gaozhangmin 基于原代码以及阿里云盘开发平台 API 开发，修复了在线播放等问题，已发布 Windows、",
+          "link": "https://www.appinn.com/new-xiaobaiyang/",
+          "publishedOn": "2023-04-03T07:50:02.000Z",
+          "wordCount": 2299,
+          "title": "新版 小白羊阿里云盘客户端 发布，支持多账号、在线播放、下载等功能",
+          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/xiaobaiyang.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45039",
           "author": "青小蛙",
           "description": "OpenCat 是一款知名好用的第三方 ChatGPT 客户端，目前在 Mac、iOS 上使用起来非常不错。最近新功能有点多，包括团队版、支持 Siri，以及利用 Azure TTS 实现的朗读功能。",
@@ -185,16 +195,6 @@
           "wordCount": 2338,
           "title": "Via 浏览器 发布 iPhone、iPad 版本，仅 5.5MB 大小",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/viayoo.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=44956",
-          "author": "青小蛙",
-          "description": "ChatDOC 是一款基于 ChatGPT 的文件阅读助手，它可以快速从 Word 文档中提取，定位和总结信息。@Appinn 前几天有一个 ChatPDF，可以让 AI 与 PDF 聊天，这很快就可",
-          "link": "https://www.appinn.com/chatdoc/",
-          "publishedOn": "2023-03-25T03:42:49.000Z",
-          "wordCount": 2316,
-          "title": "ChatDOC – 让 ChatGPT 与 Word 文档对话，自动提出最重要的 5 个问题",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/03/chatdoc.jpgo_.jpg"
         }
       ]
     },
@@ -232,6 +232,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74572",
+          "author": null,
+          "description": "Tor 项目宣布与 Mullvad VPN 合作推出隐私浏览器 Mullvad Browser，没有使用 Tor 网络，而是搭配 VPN 隐藏网络痕迹。Mullvad Browser 也是基于 Firefox，由 Tor 项目工程师开发，设计最小化跟踪和指纹， 支持 Windows、MacOS 和 Linux，源代码托管在 GitHub，采用 Mozilla Public License V2 许可证。",
+          "link": "https://www.solidot.org/story?sid=74572",
+          "publishedOn": "2023-04-03T15:30:11.000Z",
+          "wordCount": 179,
+          "title": "Tor 项目推出捆绑 VPN 的隐私浏览器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74571",
+          "author": null,
+          "description": "VoiP 软件提供商 3CX 遭遇了一次供应链攻击，该公司 CEO Nick Galea 称收到警告之后他的团队测试了产品，没发现问题，认为是一次误报。几天后又检查了一下，结果相同。他表示公司并没有无视警告。直到安全公司 Crowdstrike 提供了完整细节之后 3CX 才认识到这次入侵的规模。他表示响应供应链攻击是非常困难的。3CX 的日活用户高达 1200 万，包括知名公司如奔驰、麦当劳、宝马、假日酒店、NHS、美国运通、可口可乐和法国航空。对于这次供应链攻击，3CX 免费延长了客户三个月服务。",
+          "link": "https://www.solidot.org/story?sid=74571",
+          "publishedOn": "2023-04-03T15:18:42.000Z",
+          "wordCount": 160,
+          "title": "3CX 公司最初以为供应链攻击是误报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74570",
+          "author": null,
+          "description": "在三维时空下，引力的作用使得行星和恒星的形状都是球形，黑洞也不例外——确切的说黑洞的视界呈球形。那么如果是高维空间呢？它们是否可能呈现其它形状？数学家发表论文证明，五维以上的空间，黑洞可以是任意形状。论文表明爱因斯坦的广义相对论可以产生大量形状奇特的高维黑洞。这项研究是纯理论性的，并没有告诉我们高维黑洞是否存在。但论文作者表示，如果我们能以某种方式探测到形状奇特的黑洞，那么这将证明我们的宇宙是高维的。",
+          "link": "https://www.solidot.org/story?sid=74570",
+          "publishedOn": "2023-04-03T12:38:55.000Z",
+          "wordCount": 142,
+          "title": "数学家证明高维度黑洞形状可以是无限的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74569",
+          "author": null,
+          "description": "维基百科创始人 Jimmy Wales 接受采访讨论了用 AI 写维基文章。Wales 称社区目前的讨论结果对此谨慎，我们到让 ChatGPT 写一个条目还有一段距离，但距离多远难说，不过肯定比两年前认为的更近。AI 聊天机器人的一大问题是胡说八道——业内称之为幻觉（hallucinating）。它会凭空编造内容。这对于在线百科全书来说是非常糟糕的。Wales 认为 AI 技术可以在其它方面帮助维基百科，比如让 AI 对比两个条目是否存在互相矛盾的陈述。但以 ChatGPT 为代表的 AI 还无法识别自身的矛盾。你指出它的错误，它会表示歉意但继续返回胡扯的回应。",
+          "link": "https://www.solidot.org/story?sid=74569",
+          "publishedOn": "2023-04-03T10:26:20.000Z",
+          "wordCount": 168,
+          "title": "维基百科创始人谈用 AI 写文章",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74568",
+          "author": null,
+          "description": "华为公布了 2022 年财报：2022 年收入 6423 亿元，同比增长 0.9%；净利润 355.6 亿元，同比下滑 68.7%。\n华为将净利润下滑归咎于疫情封锁和美国制裁、供应链中断导致的原材料价格以及研发投资的上涨。华为手机业务受制裁影响最大，它出售了旗下的荣耀手机业务，至今只能出售 4G 手机，无法推出 5G 手机，因为美国禁止向华为出售 5G 手机芯片。",
+          "link": "https://www.solidot.org/story?sid=74568",
+          "publishedOn": "2023-04-03T09:45:34.000Z",
+          "wordCount": 157,
+          "title": "华为净利润大幅下滑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74567",
+          "author": null,
+          "description": "美国科学家利用韦伯太空望远镜，发现了迄今已知最古老黑洞，这个黑洞在宇宙大爆炸后 5.7 亿年形成，这一发现可帮助人们理解黑洞这类宇宙“怪兽”的起源及演化历程。该黑洞的质量是太阳的 1000 万倍。研究团队利用望远镜观察了一个星系，哈勃望远镜此前曾将该星系确定为宇宙早期已知最明亮的星系，但哈勃望远镜一直无法分辨出星系里面是什么。使用两台相机和两台分光镜，韦伯望远镜可分辨出星系发出的光信号的不同成分，并据此发现了这个黑洞。",
+          "link": "https://www.solidot.org/story?sid=74567",
+          "publishedOn": "2023-04-03T07:58:42.000Z",
+          "wordCount": 147,
+          "title": "韦伯发现宇宙已知最古老黑洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74566",
+          "author": null,
+          "description": "巴黎周日以压倒性的票数取缔了电动滑板车共享服务，打击了提供电动滑板车的 Lime 等公司。在市长 Anne Hidalgo 组织的一次咨询公众意见的活动中，近九成的市民投票反对电动滑板车。电动滑板车被批评引发了更多交通事故，很多人都有家人被电动滑板车撞到的经历，称他们现在过马路都要左看右看，十分紧张。提供电动滑板车的企业抱怨被当成替罪羔羊，被不公平的挑出来去对巴黎混乱的交通负责。市长继续支持共享单车，赞同禁止共享电动滑板车。",
+          "link": "https://www.solidot.org/story?sid=74566",
+          "publishedOn": "2023-04-03T07:50:10.000Z",
+          "wordCount": 146,
+          "title": "巴黎禁止共享电动滑板车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74565",
+          "author": null,
+          "description": "天文学家相信，银河系的前身是原星系，一个由年轻恒星组成的混乱暴力的地方。在创世大爆炸之后，暗物质凝聚起来，它们吸引了普通物质，第一波恒星随后出现。但没人知道恒星是如何到达那里的。天文学家在本世纪初提出了两种恒星形成理论。其一是原星系内部诞生了银河系的首批恒星，其二是原星系吞噬了其它星系。为了回答这个问题，天文学家需要识别出银河系最早一批的恒星。过去 20 年天文学家在这方面进展缓慢，直到现在他们利用机器学习发现了大量此类恒星。",
+          "link": "https://www.solidot.org/story?sid=74565",
+          "publishedOn": "2023-04-03T06:58:06.000Z",
+          "wordCount": 151,
+          "title": "天文学家利用 AI 挖掘孕育银河系的古老恒星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74564",
+          "author": null,
+          "description": "黑客正在利用一个广泛使用的 WordPress 插件的高危漏洞。Elementor Pro 是 WordPress 页面生成器插件，允许用户在不需要了解代码的情况下构建一个专业级的网站，它的安装量高达 1100 万。NinTechNet 研究员 Jerome Bruandet 在 2023 年 3 月 18 日发现了该漏洞，他在上周公开了漏洞细节。当该插件与电子商务生成器 WooCommerce 一起安装时，网站成员或电商客户可以利用该漏洞改变网站设置，甚至完全接管网站。漏洞影响 v3.11.6 及之前版本。",
+          "link": "https://www.solidot.org/story?sid=74564",
+          "publishedOn": "2023-04-03T05:22:31.000Z",
+          "wordCount": 171,
+          "title": "黑客正在利用一个广泛使用的 WordPress 插件漏洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74563",
+          "author": null,
+          "description": "拼多多在第三方应用商店发行的版本中加入了提权等恶意功能，被曝光之后遭到 Google 的封杀。安全专家表示，他们从未看到过一个主流应用会像拼多多那样做。匿名拼多多员工称，公司在 2020 年组建了一支由大约 100 名工程师和产品经理组成的团队，致力于挖掘 Android 手机漏洞，开发漏洞利用方法，将其转化为利润。\n消息源称，拼多多应用的恶意功能最初只针对农村和小城镇的用户，避开北京上海之类大都市的用户，此举旨在降低被暴露的风险。通过收集用户活动的大量数据，拼多多能全面了解用户习惯、兴趣和偏好，改进其机器学习模型，提供更具有个性化的推送通知和广告，吸引用户打开应用并下单。在被曝光之后该团队于三月初被解散。拼多多是在 3 月 5 日释出 v6.50.0 更新移除了漏洞利用代码。匿名员工称，两天之后开发漏洞利用的团队遭到解散。第三天团队成员发现他们被内部使用的工作通讯应用 Knock 锁定，失去了访问内网文件的权限。工程师访问大数据、数据表和日志系统的权限也被撤销。大部分团队成员被转移到了 Temu，被分配到不同部门，从事营销或开发推送通知的工作。20 名核心的网络安全工程师仍然留在公司。安全专家称，虽然漏洞利用代码移除了，但底层代码仍然留在那里，仍然可以被重新激活去执行攻击。",
+          "link": "https://www.solidot.org/story?sid=74563",
+          "publishedOn": "2023-04-03T04:54:12.000Z",
+          "wordCount": 160,
+          "title": "拼多多解散了在应用中加入恶意功能的团队",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74562",
+          "author": null,
+          "description": "睡眠过少或过长都与寿命较短有关，但科学家们发现，体育活动可以抵消其中一些负面影响。研究包括了英国生物银行 92221 名年龄在 40 岁至 73 岁之间的成年人，他们在 2013 年至 2015 年期间佩戴了一周的加速度计腕带。每晚睡眠时间分为短(少于 6 小时)、正常( 6-8 小时)和长(超过 8 小时)。体育活动的总量被分为低、中、高。参与者的平均年龄为 62 岁，56% 为女性。在平均 7 年的随访中，3080 名参与者死亡，其中 1074 人死于心血管疾病，1871 人死于癌症。研究人员发现，在运动量大的人群中，睡眠时间与死亡风险无关。对于心血管疾病死亡，低运动量睡眠时间短的人有 69% 的风险增加，当运动量增加到中等或高运动量时，这种风险就消失了。就癌症死亡而言，睡眠时间长但运动量少的人的风险增加了 21%，而这种风险在适度或大量运动后消失。",
+          "link": "https://www.solidot.org/story?sid=74562",
+          "publishedOn": "2023-04-03T04:23:59.000Z",
+          "wordCount": 169,
+          "title": "运动或可减少不健康睡眠时间对寿命的负面影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74561",
+          "author": null,
+          "description": "体力劳动会让你精疲力竭，但用脑过度也会让你感到疲劳。这种认知疲劳是如何产生的？一种生物学假说认为施加认知控制会消耗葡萄糖形式的能量，当一天专注的思考结束之后，大脑会因此感到油尽灯枯。但问题是，大脑思考的能耗是非常低的，它消费的额外葡萄糖还不到一次跑酷动作 Tic-Tac 的十分之一。如果认知疲劳不是由于能量不足导致的，那么又是什么原因？巴黎 Pitié-Salpêtrière 医学院的研究人员认为与神经代谢有关。他们推测认知疲劳是某种化学物质在大脑控制区域积累导致的。这种化学物质就是谷氨酸，是一种兴奋性神经递质，在哺乳动物中枢神经系统大量存在，在学习、记忆和睡眠-觉醒周期等活动中扮演重要作用。他们用实验证明了其假说，在认知控制相关的大脑区域外侧前额叶皮层中谷氨酸的浓度更高。",
+          "link": "https://www.solidot.org/story?sid=74561",
+          "publishedOn": "2023-04-03T04:20:28.000Z",
+          "wordCount": 145,
+          "title": "用脑过度如何导致疲劳",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74560",
           "author": null,
@@ -920,56 +1040,6 @@
           "publishedOn": "2023-03-26T09:56:01.000Z",
           "wordCount": 165,
           "title": "大众车载软件将支持 15 年左右",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74491",
-          "author": null,
-          "description": "去年 4 月物理学家对费米实验室对撞机产生的 W 玻色子进行分析后发现，W 玻色子比标准模型预测的重了 0.1%。数字虽小但意义可能重大。如果结论能被独立验证，那么这一发现将暗示存在着尚未发现的粒子或者力，将带来半个世纪以来量子物理学定律的首次重大改写。CERN 大强子对撞机（LHC）ATLAS 实验的物理学家分析了 LHC 产生的  W 玻色子数据，发现其质量仍然与标准模型预测的一致。这是初步结论，但降低了费米实验室测量正确的可能性。",
-          "link": "https://www.solidot.org/story?sid=74491",
-          "publishedOn": "2023-03-25T14:26:47.000Z",
-          "wordCount": 157,
-          "title": "W 玻色子的最新测量再次支持标准模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74490",
-          "author": null,
-          "description": "法国周五宣布禁止政府公务员在办公用的手机上安装娱乐应用如 TikTok、Twitter 和 Instagram。法国转型和公共管理部长 Stanislas Guerini 在一份声明中表示，在政府行政服务中使用娱乐应用不够安全，可能会对数据保护构成安全风险。Guerini 的办公室称，被禁止安装的应用包括 TikTok、Twitter、Instagram、Netflix 和 Candy Crush 等社交和游戏应用。政府官员如果想在社交应用上从事公众通信等用途他们可以申请许可。",
-          "link": "https://www.solidot.org/story?sid=74490",
-          "publishedOn": "2023-03-25T14:17:54.000Z",
-          "wordCount": 153,
-          "title": "法国禁止政府工作手机安装娱乐应用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74489",
-          "author": null,
-          "description": "美国犹他州州长签署了两项法案——H.B. 311 Social Media Usage Amendments 和 S.B. 152 Social Media Regulation Amendments，可能将改变该州青少年使用社交媒体的方式。但执行这两项法律将需要制定更多的辅助措施。根据新法律，犹他州青少年创建账户前 Meta、Snap 和 TikTok 等公司将需要征得他们的父母许可。法律还要求社交帐户有宵禁、家长控制和年龄验证功能，以及禁止社交媒体公司诱导青少年对其平台上瘾。目前不知道犹他州官员如何执行新法律，以及如何适用于青少年的现有社媒帐户。新法律将于 2024 年 3 月生效。",
-          "link": "https://www.solidot.org/story?sid=74489",
-          "publishedOn": "2023-03-25T13:24:17.000Z",
-          "wordCount": 161,
-          "title": "美国犹他州通过法律青少年使用社交媒体需要父母批准",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74488",
-          "author": null,
-          "description": "英特尔联合创始人戈登·摩尔（Gordon Moore）去世，享年 94 岁。他最为人熟知的事迹是提出了与集成电路晶体管数量相关的摩尔定律。Gordon and Betty Moore 基金会在声明中称，“作为一名杰出的科学家、商业领袖和慈善家，戈登共同创立并领导了两家开创性的科技公司——仙童半导体和英特尔，与他的妻子贝蒂一起创办了美国最大的私人捐赠基金会之一——戈登和贝蒂·摩尔基金会。”",
-          "link": "https://www.solidot.org/story?sid=74488",
-          "publishedOn": "2023-03-25T05:14:52.000Z",
-          "wordCount": 148,
-          "title": "英特尔联合创始人戈登·摩尔去世",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74487",
-          "author": null,
-          "description": "在游戏开发者大会 GDC 上，虚幻引擎开发商 Epic 演示了其最新的动作捕捉技术 MetaHuman Animator，它利用了机器学习能在几分钟内将 iPhone 视频转变成逼真的 3D 脸部动画。新的自动化动画技术是基于 2021 年推出的 MetaHuman 建模工具。Epic 称逾百万用户创建了数百万 MetaHuman 脸部模型，部分模型只使用了 3 张脸部照片经过数分钟内处理完成。但将脸部模型转变成脸部动画仍然有不小的难度，即使是富有经验的游戏工作室，也需要使用专门的硬件和数周或数个月的处理时间，需要人工调整才能在游戏中使用。MetaHuman Animator 大幅简化了整个流程。Epic 现场演示了《Hellblade: Senua's Sacrifice》中主角 Senua 的脸模 Melina Juergens 的 15 秒表演，使用 iPhone 拍摄脸部视频，然后用一台高端 AMD 电脑花不到 1 分钟处理，创造出与原始视频相差无几的 3D 动画。Epic 称它的机器学习系统使用了大量高精细的脸部数据库进行训练。",
-          "link": "https://www.solidot.org/story?sid=74487",
-          "publishedOn": "2023-03-24T14:35:19.000Z",
-          "wordCount": 201,
-          "title": "Epic 新动作捕捉技术将 iPhone 视频变成高保真 3D 动画",
           "imageUrl": null
         }
       ]
