@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-04-05T02:18:30.582Z</updated>
+    <updated>2023-04-06T02:27:09.484Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chrome 112 发布，支持 WASM 垃圾收集]]></title>
+        <id>https://www.solidot.org/story?sid=74585</id>
+        <link href="https://www.solidot.org/story?sid=74585"/>
+        <updated>2023-04-05T15:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Google 释出了 Chrome 112，一个新特性是实验性支持 WASM（WebAssembl） 垃圾收集，以及 WASM 尾调用开箱即用支持。WASM 是一种低级编程语言，源自 Mozilla 发起的 Asm.js 项目，设计提供比 JavaScript 更快速的编译及执行，它允许开发者运用自己熟悉的语言编译，再藉虚拟机引擎在浏览器内执行。Chrome 112 的另一项新功能是默认支持 CSS 嵌套，能将 CSS 样式规则嵌套在其它样式规则中，提高样式表的模块化和可维护性。Chrome 112 还包含了多个安全和 bug 修正。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国青少年对虚拟现实缺乏兴趣]]></title>
+        <id>https://www.solidot.org/story?sid=74584</id>
+        <link href="https://www.solidot.org/story?sid=74584"/>
+        <updated>2023-04-05T13:20:29.000Z</updated>
+        <summary type="html"><![CDATA[调查显示美国青少年对虚拟现实缺乏兴趣。青少年通常被视为新技术的早期使用者，他们的喜好能为行业的发展方向提供一种参考。在被调查的青少年中间，29% 拥有 VR 设备，87% 拥有 iPhone 手机。调查显示，只有 4% 的 VR 设备拥有者每天使用它们，14% 的人每周使用。绝大部分青少年没有多少兴趣购买新一代的 VR 设备，只有 7% 的人计划购买，52% 的人表示不确定或没兴趣。调查显示，VR 设备尚未进入主流。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 进入企业控制的时代]]></title>
+        <id>https://www.solidot.org/story?sid=74583</id>
+        <link href="https://www.solidot.org/story?sid=74583"/>
+        <updated>2023-04-05T12:37:24.000Z</updated>
+        <summary type="html"><![CDATA[斯坦福的 AI 研究所 Institute for Human-Centered Artificial Intelligence 发布了《2023 AI Index Report》，该报告由斯坦福和 AI 公司如 Google、Anthropic 和 Hugging Face 的研究人员共同编写，认为 AI 进入了新的发展阶段，随着 AI 的开发和训练日益昂贵，企业掌握了主动权。报告指出，在 2014 年之前最先进的机器学习模型都是由学术界发布，但之后业界占据主导。2022 年业界发布了 22 个重要的机器学习模型，而学术界只发布了 3 个。构建最先进的 AI 系统需要大量的数据、计算资源和资金，相比非盈利组织和学术界，企业界优势显著。报告以最近火热的大语言模型为例，2019 年发布的 GPT-2 模型包含了 15 亿参数，训练成本估计 5 万美元。2022 年发布的 PaLM 包含了 5400 亿参数，训练成本 800 万美元。大语言模型和多模态模型日益复杂而昂贵。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[番茄人生 – 网页版番茄时钟与任务管理，再加一个线上自习室]]></title>
+        <id>https://www.appinn.com/?p=45133</id>
+        <link href="https://www.appinn.com/tomatolist-online/"/>
+        <updated>2023-04-05T09:51:51.000Z</updated>
+        <summary type="html"><![CDATA[番茄人生是一款专注于番茄时钟、任务管理的工具，以界面设计简陋。近日开发者在发现频道发布了网页版与线上自习室，还喜闻乐见的添加了用户间的番茄钟 PK 功能，让其在增加功能的同时，可以跨平台使用。@App]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google 将削减提供给员工的各种福利]]></title>
         <id>https://www.solidot.org/story?sid=74582</id>
@@ -993,137 +1033,6 @@ Next week we'll add even more tools. See you then!]]></summary>
         <link href="https://www.solidot.org/story?sid=74505"/>
         <updated>2023-03-27T14:37:27.000Z</updated>
         <summary type="html"><![CDATA[俄罗斯在 2022 年逮捕了多名知名的 Telegram 用户，调查显示国有的俄罗斯国家工业和科技集团公司(Rostec)旗下的一家公司开发了名为  "Okhotnik" (Охотник) 的系统，利用了逾 800 个数据点建立关联去匿名化 Telegram 用户的身份。这些数据点来自社交网络、博客、论坛、即时通讯工具、BBS、加密货币区块链、暗网以及政府服务，包括姓名、昵称、电邮地址、网站、域名、加密钱包、加密密钥、电话号码、地理位置信息、IP地址等。Okhotnik 可以找到目标用户过去任何时候犯下的任何错误去实现去匿名化。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[他们在 Twitter 发色图，德国当局叫了警察]]></title>
-        <id>https://www.solidot.org/story?sid=74504</id>
-        <link href="https://www.solidot.org/story?sid=74504"/>
-        <updated>2023-03-27T14:09:34.000Z</updated>
-        <summary type="html"><![CDATA[过去几周，德国有逾百名成人内容创作者和模特收到了警方的信函，指控他们在互联网上分享色情，将面临刑事诉讼——大多数情况下是面临 300 欧元的罚款。这些行动标志着德国打击互联网色情活动的升级。德国监管机构开发了名为 KIVI 的 AI 系统，去搜寻 Twitter、TikTok、YouTube、Telegram 等网站上的色情和攻击性内容。色情内容在德国并不违法，但当局一直在打击没有年龄验证的色情内容——也就是浏览成人内容需要验证年龄超过 18 岁。收到警方信函的多名德国人表示他们已经害怕了，删除了大量帖子，不敢再分享内容。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lookout 确认拼多多的非 Play 版本包含恶意代码]]></title>
-        <id>https://www.solidot.org/story?sid=74503</id>
-        <link href="https://www.solidot.org/story?sid=74503"/>
-        <updated>2023-03-27T13:35:30.000Z</updated>
-        <summary type="html"><![CDATA[本月早些时候，独立安全研究机构 DarkNavy 发表文章披露，国内一家互联网巨头的 APP 利用了 Android 系统漏洞提权使其难以卸载。这家巨头之后确认为拼多多。上周一 Google 将拼多多的多个应用标记为恶意程序。拼多多则发表声明，表示强烈反对一位匿名独立安全研究员关于其应用恶意的推测和指控。现在，安全公司 Lookout 的研究人员对非 Google Play 版本的拼多多应用的分析确认了 DarkNavy 的指控。初步分析显示，至少两个非 Play 版本的拼多多应用利用了漏洞  CVE-2023-20963。该漏洞是 Google 在 3 月 6 日公开的，利用该漏洞可以提权，而且整个过程不需要用户交互。两周前修复补丁才提供给终端用户。 Lookout 的研究人员分析了拼多多在 3 月 5 日前发布的两个版本，都包含了利用  CVE-2023-20963 的代码。这两个版本都使用了与拼多多 Google Play 版本相同的密钥签名。目前没有证据表明  Play Store 和苹果 App Store 的版本含有恶意代码，通过 Google 和苹果官方商店下载的拼多多应用是安全的。但通过第三方市场下载的 Android 用户则没有那么幸运了，鉴于拼多多有数亿用户，受影响的用户数量可能是非常惊人。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARM 想要改变芯片授权模式]]></title>
-        <id>https://www.solidot.org/story?sid=74502</id>
-        <link href="https://www.solidot.org/story?sid=74502"/>
-        <updated>2023-03-27T12:49:04.000Z</updated>
-        <summary type="html"><![CDATA[英国芯片设计公司 ARM 的母公司软银陷入了财务困境，导致了 ARM 面临了不断跳跃的命运。首先是尝试出售给英伟达，但因为无法获得监管机构批准而终止交易，随后准备采用 B 计划——IPO。如果企业想要在股市上取得成功，你需要收入能持续增长。而 ARM 主要依赖于芯片授权协议，每季度的收入在 5 亿美元左右。为了提高收入，ARM 据报道准备彻底改变芯片授权模式，大幅增加授权费用。ARM 考虑停止向芯片制造商收取授权费用，而是转而向设备制造商收费——其费用将是基于产品的总价。举例来说，摩托罗拉制造了一款使用高通 Snapdragon 芯片的手机，高通的芯片是基于 ARM 设计，它与该公司有芯片授权协议。现在 ARM 想要从摩托罗拉公司获得授权费用，它将要求高通停止向没有与它签署授权协议的企业出售芯片。ARM 计划在 2024 年推动新的模式，报道称手机厂商对此持抵制态度。此举可能推动手机厂商拥抱免授权费的开放架构 RISC-V。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where/When – 我当年在哪里？安全的将地点记录在日历[iPhone]]]></title>
-        <id>https://www.appinn.com/?p=44971</id>
-        <link href="https://www.appinn.com/where-when-in-calendar/"/>
-        <updated>2023-03-27T12:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Where/When 是一款比较有意思的 iPhone 应用，它完全本地化，手动，绝对安全的把你此时在哪里记录在日历中。未来的时候你就可以回答「那家我五年前去过的火锅店在哪里？」这样的问题。@Appi]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么美国儿童不再热爱阅读？]]></title>
-        <id>https://www.solidot.org/story?sid=74501</id>
-        <link href="https://www.solidot.org/story?sid=74501"/>
-        <updated>2023-03-27T10:56:32.000Z</updated>
-        <summary type="html"><![CDATA[出于消遣而热衷阅读的美国儿童数量在减少。美国 National Assessment of Educational Progress 在疫情前展开的调查的显示，自 1984 年以来 9 岁和 13 岁儿童出于消遣而阅读的比例下降了两位数。屏幕的诱惑和无处不在是其中一个因素，但还有其它因素的存在。这些因素鼓励了学生去精读而不是粗放型阅读。以前美国学校鼓励学生大量阅读以作为发展自身技能的一种方式，但今天基于标准化测试的教育系统更侧重于阅读分析。这种分析性阅读可能导致学生丧失了对广泛阅读的兴趣。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电子竞技走向主流]]></title>
-        <id>https://www.solidot.org/story?sid=74500</id>
-        <link href="https://www.solidot.org/story?sid=74500"/>
-        <updated>2023-03-27T09:39:31.000Z</updated>
-        <summary type="html"><![CDATA[Kim Kyu-min 是一位极其专注的学生，即使在假期也会去补习班接受强化教学。与众不同的是，他所学的科目是 Riot Games 开发的团队竞技游戏《Valorant》。在 Seoul Game Academy，有大约 3000 名学生在九种游戏中磨练技能渴望能成为职业电竞选手。韩国整个国家都对电竞着魔，职业选手李相赫在《英雄联盟》中用 Faker 化名，他的收入据称超过了该国任何一位足球联赛的运动员。家长对电竞学院一开始持怀疑态度，但今天部分家长甚至也会来上课。对游戏发行商而言，电子竞技有两大目的。首先电竞联赛的转播权和赞助权收入不菲，腾讯旗下的 Riot Games 将《英雄联盟》五年的中国流媒体转播权出售给了虎牙，据报道价格高达 3.1 亿美元。
-就像其他运动一样。加利福尼亚州的腾讯公司是 "英雄联盟 "背后的公司，该公司已将其中国联赛的五年流媒体权利出售给中国流媒体服务机构Huya，据称价格为3.1亿美元。其二是有助于游戏的推广普及。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊拒绝 3 万员工反对强制性重返办公室的请愿]]></title>
-        <id>https://www.solidot.org/story?sid=74499</id>
-        <link href="https://www.solidot.org/story?sid=74499"/>
-        <updated>2023-03-27T08:46:43.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊 CEO Andy Jassy 此前发布指令，要求员工从 5 月 1 日起重返办公室，大部分员工每周至少去办公室三天。有大约 3 万员工递交请愿，请求 CEO 撤销该指令，认为远程办公的效率更好，有助于平衡工作和生活。亚马逊的 HR 主管 Beth Galetti 在一份备忘录中拒绝了请愿，表示重返办公室将按计划进行。此举令员工大为沮丧。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盖茨预言 AI 新时代正在开启]]></title>
-        <id>https://www.solidot.org/story?sid=74498</id>
-        <link href="https://www.solidot.org/story?sid=74498"/>
-        <updated>2023-03-27T07:47:26.000Z</updated>
-        <summary type="html"><![CDATA[微软联合创始人比尔盖茨预言 AI 新时代正在开启，AI 的发明将和微处理器、PC、互联网和手机一样成为社会的基本组成部分。盖茨预言整个行业将会围绕 AI 重新定位，他表示自己经历了两次革命性的技术演示，第一次是 1980 年的图形用户界面，第二次是在 2022 年目睹 OpenAI 的 GPT 模型完成了 60 个 AP Bio 生物考试选择题，答对了其中 59 题。它还回答了 6 个开放性问题。专家给它的答案打了 5 分——可能的最高分，相当于在大学水平生物课上获得 A 或 A+。它关于如何安慰生病孩子父亲的答案也极其出色。整个经历令他倍感震惊。盖茨预言：操作计算机的主要方式不再是点击或按下菜单和对话框，而是简单的英文请求；人工助手（personal agent）将为你处理各种事务；AI 软件将彻底改变教和学的方式，能为每个人量身定做；AI 将加速医学研究的突破...]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[整个基因网络参与了植物的复活]]></title>
-        <id>https://www.solidot.org/story?sid=74497</id>
-        <link href="https://www.solidot.org/story?sid=74497"/>
-        <updated>2023-03-27T07:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Craterostigma plantagineum 是一种特殊的植物，在干旱的时候，人们可能会认为它死了。但即使经历了几个月的干旱，一点点水也足以让它复活。研究人员分析了它的完整基因组，发现 Craterostigma 的一大特殊之处是有 8 个染色体副本，而大部分动物只有两个副本——一个来自母系，一个来自父系。这可能是它能抵御极端干旱的一个原因。此外，Craterostigma 中一些与更强的耐旱性相关的基因甚至被进一步复制。Craterostigma 有近 200 个 ELIPs（早期光诱导蛋白）基因，这些基因几乎完全相同，位于不同染色体上的 10 个或 20 个拷贝的大簇中。它的复活能力是整个基因网络的结果。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约会软件上的骗局]]></title>
-        <id>https://www.solidot.org/story?sid=74496</id>
-        <link href="https://www.solidot.org/story?sid=74496"/>
-        <updated>2023-03-27T06:53:01.000Z</updated>
-        <summary type="html"><![CDATA[根据 FTC 的数据，2022 年美国因恋爱骗局造成的损失高达 13 亿美元。FBI 波特兰办公室的负责人认为，科技让人产生了虚假的信任感。The Verge 的一篇报道讲述了一位 32 岁、曾从事过 SEO 工作的百万富翁的故事。他最近与妻子离异，因此注册了约会应用 Tinder 寻找约会对象。他在上面与一位神秘女子配对，两人开始约会。这位女子发出了一系列令人警惕的信息，询问他如何支付约会费用，他说用信用卡。对方问能不能用现金。他说可以。她还问他驾驶什么型号的汽车。一辆路虎。结果可想而知。他经历了一次持枪抢劫汽车的遭遇。路虎被人抢走了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 个漂亮的在线工具：将代码片段转换为图片]]></title>
-        <id>https://www.appinn.com/?p=44966</id>
-        <link href="https://www.appinn.com/code-snippet-conversion-to-images/"/>
-        <updated>2023-03-27T05:23:42.000Z</updated>
-        <summary type="html"><![CDATA[又有朋友有新问题来找青小蛙了，这次是如何优雅的分享文字、代码。并不是在网页上，而是图片、视频中。那么这些可以将代码片段转换为图片的在线服务，就是最佳选择了。@Appinn 怎么选 选顺眼的 1. Co]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter 源代码泄露]]></title>
-        <id>https://www.solidot.org/story?sid=74495</id>
-        <link href="https://www.solidot.org/story?sid=74495"/>
-        <updated>2023-03-27T03:39:18.000Z</updated>
-        <summary type="html"><![CDATA[根据 Twitter 上周五递交到加州法庭的一份文件，它的部分私有源代码被泄露在代码托管平台 GitHub 上。泄露的部分是其  web service 多种功能和内部工具的源代码。Twitter 向 GitHub 递交了删除请求，GitHub 遵守了要求。泄露源代码的账号叫 FreeSpeechEnthusiast，这位用户是在今年初注册的，只上传了 Twitter 的代码。Twitter 正寻求识别该账号的身份，这位用户被认为是该公司的前雇员。Twitter 此前裁掉了数以千计的员工。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软研究员称 GPT-4 是 AGI 的雏形]]></title>
-        <id>https://www.solidot.org/story?sid=74494</id>
-        <link href="https://www.solidot.org/story?sid=74494"/>
-        <updated>2023-03-26T14:59:21.000Z</updated>
-        <summary type="html"><![CDATA[微软研究院的研究人员在预印本平台 arXiv 上发表论文《Sparks of Artificial General Intelligence: Early experiments with GPT-4》，称赞 GPT-4 是 AGI（通用人工智能）系统的早期不完整版本。GPT-4 是 OpenAI 最近公布的多模态语言模型，而 OpenAI 的主要合作伙伴就是微软。研究人员强调他们在测试时 GPT-4 还在开发中，他们测试使用的是其早期版本。GPT-4 比过去的模型表现出更多的通用智能，除了精通语言，GPT-4 还能解决数学、编程、视觉、医学、法律、心理学等领域的新难题。在所有这些任务中，GPT-4 的表现接近了人类水平。微软研究人员的测试显示，GPT-4 能解决 Leetcode 上的中等甚至部分高难度问题，能解决国际数学奥林匹克竞赛 2022 年上的一道难题，根据高层次描述生成游戏的完整代码，等等。虽然 GPT-4 还不完美，但它正朝着 AGI 前进。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
