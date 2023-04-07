@@ -2,10 +2,153 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-04-06T02:27:09.484Z</updated>
+    <updated>2023-04-07T02:26:26.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD 和 JEDEC 标准化 DDR5 MRDIMM]]></title>
+        <id>https://www.solidot.org/story?sid=74597</id>
+        <link href="https://www.solidot.org/story?sid=74597"/>
+        <updated>2023-04-06T15:07:34.000Z</updated>
+        <summary type="html"><![CDATA[桌面平台对内存带宽不特别敏感。桌面办公软件、浏览器甚至游戏，对内存延迟比内存性能更敏感，这是为什么 AMD 认为其 3D V-缓存技术能在游戏上带来巨大收益。服务器和高性能计算任务则极端渴求内存带宽。那么如何提高内存带宽？可以提高时钟频率但有限制，可以在 CPU 上增加更多内存通道但会增加复杂度。可以引入新的内存标准，放宽延迟提高带宽，就像从 DDR2 到 DDR5。还有一种更聪明的方法，发明一种新方式去访问已有的内存——AMD 提出了 HBDIMM，而英特尔提出了 MCR-DIMMs。行业标准组织 JEDEC 已经和 AMD 合作将 HBDIMM 标准化为 MRDIMM。通过在内存和 CPU 之间放置一个多路复用器，MRDIMM 能同时访问两个内存条将数据传输率提高一倍，代价是增加了少许延迟。AMD 公布的一张幻灯片显示，MRDIMMs 能将传输率提高到 17,600 MT/s。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为和阿里巴巴准备发布各自的 AI 聊天机器人]]></title>
+        <id>https://www.solidot.org/story?sid=74596</id>
+        <link href="https://www.solidot.org/story?sid=74596"/>
+        <updated>2023-04-06T14:21:02.000Z</updated>
+        <summary type="html"><![CDATA[华为和阿里巴巴预计将于本周和下周宣布各自的生成式 AI 聊天机器人。华为将于 4 月 8 日在杭州举行的 AI 
+大模型技术峰会宣布其盘古大模型的进展和应用，而阿里巴巴则将于 4 月 11 日在北京举行的 2023 
+年阿里云峰会上推出它的大模型。报道称，阿里巴巴旗下的天猫精灵已经开始内测 AI 聊天机器人。阿里巴巴旗下的研究机构达摩院自 2021 年以来发布了多个版本的大语言模型，它的第一个多模态大模型 M6 有 100 亿个参数。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 搜索引擎将加入 AI 聊天功能]]></title>
+        <id>https://www.solidot.org/story?sid=74595</id>
+        <link href="https://www.solidot.org/story?sid=74595"/>
+        <updated>2023-04-06T13:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Alphabet 以及 Google CEO 桑达·皮采(Sundar Pichai)在接受采访时表示 Google 搜索引擎将加入 AI 聊天功能。他表示 AI 的进步将增强 Google 回答一系列搜索查询的能力。他驳斥了聊天机器人对其搜索业务构成威胁的说法，“如果说有影响的话，那就是机会空间比以前更大了。”长期以来，Google 在开发被称为大语言模型的计算机程序方面一直处于领先地位，这些模型可以用类似人类的表述处理和回复自然语言指令。但 Google 还没有应用这种技术来影响搜索的使用，皮采称这一点将会改变。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 的新 AI 模型能分割出图像中的特定对象]]></title>
+        <id>https://www.solidot.org/story?sid=74594</id>
+        <link href="https://www.solidot.org/story?sid=74594"/>
+        <updated>2023-04-06T13:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Meta 宣布了新 AI 模型  Segment Anything Model (SAM) ，能识别出图像和视频中的个别对象。代码已发布在 GitHub 上，Meta 发布了一个 DEMO 演示该功能。SAM 是一个图像分割模型，能根据用户的文本提示或点击去分离图像中的特定对象。图像分割被用于更方便的分析或处理图像，它通常需要专家的高度专业化工作，而 Meta 希望 SAM 将这一过程自动化。它将在 Apache 2.0 下公开 SAM 及其使用的数据集。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EasyCode AI – 集成在 VS Code 里的 ChatGPT，帮你写代码、改代码]]></title>
+        <id>https://www.appinn.com/?p=45141</id>
+        <link href="https://www.appinn.com/easycode-ai-in-vscode/"/>
+        <updated>2023-04-06T12:43:04.000Z</updated>
+        <summary type="html"><![CDATA[这是一款由 EasyCode AI 发布的 VS Code 插件，名叫 ChatGPT – EasyCode，它可以帮你写代码、提供代码建议，为代码添加注释、语义搜索等，可自定义 prom]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币白皮书隐藏在 macOS Mojave 之后的所有版本中]]></title>
+        <id>https://www.solidot.org/story?sid=74593</id>
+        <link href="https://www.solidot.org/story?sid=74593"/>
+        <updated>2023-04-06T11:56:13.000Z</updated>
+        <summary type="html"><![CDATA[一位苹果 macOS 用户在修复打印机时无意中发现中本聪著名的比特币白皮书作为示例文档隐藏在 2018 年之后发布的所有 macOS 版本中。从 Mojave (10.14.0) 到当前版本 Ventura (13.3)都包含该文档，如果你是 Mac 用户，可以在终端输入命令“open /System/Library/Image\ Capture/Devices/VirtualScanner.app/Contents/Resources/simpledoc.pdf” 。High Sierra (10.13) 以及之前的版本不包含该白皮书。有消息来源称，白皮书是一位苹果工程师放置的，一年前苹果内部有人认为包含该白皮书不妥，但问题分配给了这位工程师去处理，而此人没有采取任何行动。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现南极冰原的消融速度能达到每天 600 米]]></title>
+        <id>https://www.solidot.org/story?sid=74592</id>
+        <link href="https://www.solidot.org/story?sid=74592"/>
+        <updated>2023-04-06T11:44:53.000Z</updated>
+        <summary type="html"><![CDATA[对挪威冰原的研究表明，南极冰盖可以以高达每天 600 米的速度消融，这一速度比此前记录的最快冰盖后退速度快了 20 倍。这一发现预示着包括思韦茨冰川在内的一些南极洲冰川可能在不久的将来经历快速崩塌，进一步加速全球海平面的上升。这项研究使用了挪威附近海床的高分辨率地图，此处的大型冰原在 2 万年前最后一个冰期结束时消融坍塌入海。科学家们发现，挪威冰原消融的速度在每天 50 米到 600 米之间，比此前卫星记录的最快冰盖后退速度快了 20 倍。研究结果表明目前的融化速度足以导致南极冰原的平坦区域在短期内快速消融，这会使得海平面快速上升。举例而言，如果预期在200年内出现的海平面上升实际上在20年内便发生，那么冰川消融的速度就变得至关重要。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究揭示寒冷有利于延寿的一个机制]]></title>
+        <id>https://www.solidot.org/story?sid=74591</id>
+        <link href="https://www.solidot.org/story?sid=74591"/>
+        <updated>2023-04-06T10:28:52.000Z</updated>
+        <summary type="html"><![CDATA[寒冷激活了一种细胞清洁机制，这种机制可以分解与衰老相关的各种疾病有关的有害蛋白质聚集。德国研究人员探索了寒冷对蛋白酶体活动的影响，蛋白酶体是一种从细胞中去除受损蛋白质的细胞机制。研究表明，蛋白酶体激活剂 PA28γ/PSME3 缓解了线虫和人类细胞中由衰老引起的缺陷。在这两种情况下，都有可能通过适度降低温度来激活蛋白酶体的活性。一个关键的发现是蛋白酶体的活性也可以通过激活子的基因过表达而增加。这样，即使在 37 摄氏度的正常体温下，也能消除致病蛋白质。这些结果可能为衰老和衰老相关疾病提供治疗靶点。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现错误记忆能在几秒钟内形成]]></title>
+        <id>https://www.solidot.org/story?sid=74590</id>
+        <link href="https://www.solidot.org/story?sid=74590"/>
+        <updated>2023-04-06T10:05:57.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在 PLOS One 期刊上的一项研究，人们可能会在事件发生的数秒钟内形成错误的记忆。错误记忆的形成可能是源于人们对事件应该如何发生的期望。研究人员招募了数百名志愿者参与一系列字母记忆的实验。志愿者在观看之后要求立即回忆出一个高亮的字母。但字母的方向有时候会是反向的。志愿者必须记住字母是正还是反的。结果显示，实验参与者经常会记错，但记错的方式很特别。当一个字母以正常方式展示，错误率在 10% 左右。当字母是镜向时，错误率要高得多，最高达到 40%。而且记忆等待的时间越长错误率越高。当他们要求在半秒内回忆看到的字母，错误率不到 20%，但如果要求在 3 秒后进行回忆，错误率达到了 30%。研究显示，人们的记忆容易受先入为主的观念所操纵。人们期望看到一个正常展示的字母，但与预期的结果不符时，可能仍然会坚持错误。时间越长越不可靠。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 称其 TPU 超算比英伟达 A100 更快更环保]]></title>
+        <id>https://www.solidot.org/story?sid=74589</id>
+        <link href="https://www.solidot.org/story?sid=74589"/>
+        <updated>2023-04-06T08:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Google 本周二在预印本平台 arXiv 上发表论文，介绍了它的第四代 TPU（Tensor Processing Unit）处理器。TPU 是 Google 专用于训练 AI 的定制处理器，每个 TPUv4 包含两个 TensorCores（TC），每个 TC 包含四个 128x128 矩阵乘法单元（MXU）和一个矢量处理单元(VPU)，使用 128 条通道（每通道 16 ALU）和一个 16MB 的
+矢量存储器（VMEM）。Google 自己的测试显示，它的 TPUv4 相对于英伟达的 A100 更快更环保（能耗更低）。A100 是英伟达上一代的数据中心 GPU，它最新一代的产品是 H100，Google 研究人员没有对比 TPUv4 和 H100，因为 H100 是在 TPUv4 之后推出的。与英伟达的产品不同的是，Google TPU 不对外销售，公开 TPUv4 的一个目的可能是为了宣传该公司的云端 TPU 服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何用 FreeFileSync 自动备份移动硬盘？]]></title>
+        <id>https://www.appinn.com/?p=45144</id>
+        <link href="https://www.appinn.com/how-to-auto-backup-a-removable-drive-with-freefilesync/"/>
+        <updated>2023-04-06T08:06:09.000Z</updated>
+        <summary type="html"><![CDATA[来自微博 @小众软件 的提问：有没有插上pc端自动备份移动硬盘的软件？@Appinn 感谢 @MoonDigi 同学，以及 @绝洛 同学的推荐：免费开源的 FreeFileSync 可以，插上自动备份]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全世界最富有的男性和女性都来自奢饰品行业]]></title>
+        <id>https://www.solidot.org/story?sid=74588</id>
+        <link href="https://www.solidot.org/story?sid=74588"/>
+        <updated>2023-04-06T06:45:04.000Z</updated>
+        <summary type="html"><![CDATA[根据福布斯最新的亿万富翁榜单，全世界最富有的男人和女人都是法国人，且都来自奢侈品行业。奢侈品大亨伯纳德·阿尔诺的净资产约为 2110 亿美元，成为全球首富。他旗下的商业帝国拥有迪奥、路易威登等品牌。全球女首富是欧莱雅化妆品集团的继承人弗朗索瓦丝·贝当古-梅耶斯，她的财富约为 80 5亿美元。这个榜单在法国引发了新一轮关于收入不平等，以及超级富豪是否通过缴纳过少税收而增加财富的辩论。这一排名也反映了奢侈品行业的崛起，以及科技巨头财富的相对衰落。在所有上榜富豪中，美国富豪数量为 736 位，位居全球第一。中国大陆地区紧随其后，富豪数量为 562 位，连续第二年出现下跌，农夫山泉董事长钟睒睒为中国首富，这已经是他第三年成为中国首富。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思科退出俄罗斯市场，销毁百万美元设备]]></title>
+        <id>https://www.solidot.org/story?sid=74587</id>
+        <link href="https://www.solidot.org/story?sid=74587"/>
+        <updated>2023-04-06T05:59:10.000Z</updated>
+        <summary type="html"><![CDATA[思科完全退出了俄罗斯市场，销毁了价值数百万美元设备和零部件。它没有在俄罗斯恢复运营的计划。思科是在 2022 年 3 月宣布在俄罗斯市场停止产品销售，三个月后拒绝更新其许可证，宣布退出俄罗斯和白俄罗斯市场，并决定销毁备用配件、产品演示、设备甚至家具。被销毁的库存价值估计为 2342 万美元。该公司还处理了 12,600 美元的固定资产。到 2022 年底，思科在俄罗斯的员工只剩下 5 人，它向被解雇的员工支付了 240 万美元遣散费。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硅谷知名高管 Bob Lee 遇刺身亡]]></title>
+        <id>https://www.solidot.org/story?sid=74586</id>
+        <link href="https://www.solidot.org/story?sid=74586"/>
+        <updated>2023-04-06T04:09:31.000Z</updated>
+        <summary type="html"><![CDATA[MobileCoin 首席产品官、Square 前 CTO、Cash App 创始人 Bob Lee 在旧金山遇刺身亡。在 Java 社区他有 Crazy Bob 之称。旧金山警方称，他们是在周二凌晨 2:35 a.m. 收到了有人在市场南（South of Market）遇刺的报告，他被送往医院抢救，最后在医院宣告死亡。警方发布消息寻求与此次事件相关的情报，目前还不知道行凶者身份。43 岁的 Bob Lee 曾任职于 Google 参与 Android 系统早期的开发，之后加入了 Square 担任了这家支付公司的首任 CTO，创造了加密货币应用 Cash App，他还投资了 SpaceX、Clubhous、Tile、Figm 等公司。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome 112 发布，支持 WASM 垃圾收集]]></title>
         <id>https://www.solidot.org/story?sid=74585</id>
@@ -876,163 +1019,6 @@ Publish too and see you next time!]]></summary>
         <link href="https://www.solidot.org/story?sid=74516"/>
         <updated>2023-03-28T15:54:26.000Z</updated>
         <summary type="html"><![CDATA[阿里巴巴周二宣布将重组为六个业务集团，允许各集团独立融资和 IPO。阿里巴巴将设立阿里云智能、淘宝天猫商业、本地生活、菜鸟、国际数字商业、大文娱等六大业务集团，每个业务集团将分别有自己的 CEO 和董事会。 阿里巴巴 CEO 兼董事长张勇表示：“市场是最好的试金石，未来，具备条件的业务集团和公司，都将有独立融资和上市的可能性。” 张勇将继续领导阿里巴巴，并兼任云智能集团 CEO。淘宝天猫商业集团将继续由阿里巴巴全资拥有。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国可更新能源发电量首次超过燃煤火电]]></title>
-        <id>https://www.solidot.org/story?sid=74515</id>
-        <link href="https://www.solidot.org/story?sid=74515"/>
-        <updated>2023-03-28T14:12:39.000Z</updated>
-        <summary type="html"><![CDATA[根据美国能源信息署（EIA）的数据，2022 年美国电力部门可再生能源——风能、太阳能、水能、生物质能和地热能——的总发电量有史以来首次超过燃煤火电。2022 年美国总发电量为 40.9 亿 MWh。风力和太阳能占 14%，水电 6%，生物质和地热不到 1%。因此可更新能源总共占 21%。而燃煤发电比例则从 2021 年的 23% 降至 2022 年 20%，因为部分燃煤电厂退役，而服役中的燃煤电厂使用率减少。可再生能源发电量在 2021 年首次超过了核能，核能从 2021 年的 20% 降至 2022 年的 19%，原因是密歇根州的 Palisades 核电站退役了。天然气仍然是美国最主要发电来源，它的占比从 2021 年的 37% 增长到 2022 年的 39%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam 从明年起将停止支持 Windows 7、8 和 8.1]]></title>
-        <id>https://www.solidot.org/story?sid=74514</id>
-        <link href="https://www.solidot.org/story?sid=74514"/>
-        <updated>2023-03-28T13:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Valve 通过其支持文档宣布它的 Steam 客户端从明年 1 月 1 日起将停止支持 Windows 7、8 和 8.1。之后  Steam 客户端将停止在这些操作系统上运行。为了继续运行 Steam 以及运行通过 Steam 购买的游戏，用户需要更新到新版本的 Windows。Valve 解释说，Steam 客户端是基于 Google Chrome 的嵌入式版本，而 Chrome 在旧版本的 Windows 上不再工作。未来版本的 Steam 将需要 Windows 10 及以上版本。Google 今年初发布的 Chrome 109 是最后一个支持 Windows 7 和 Windows 8/8.1 的版本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 在文本标注任务中的表现超过了众包工人]]></title>
-        <id>https://www.solidot.org/story?sid=74513</id>
-        <link href="https://www.solidot.org/story?sid=74513"/>
-        <updated>2023-03-28T11:05:07.000Z</updated>
-        <summary type="html"><![CDATA[苏黎世大学的研究人员在预印本平台 arXiv 上发表论文，报告 OpenAI 的 AI 聊天机器人 ChatGPT 在文本标注任务中的表现超过了众包工人。大量的自然语言处理（NLP）应用需要高质量的标注数据，此类任务可根据复杂程度和规模交给亚马逊众包平台 MTurk 上的众包工人或专业的标注者去完成。研究人员使用了包含 2,382 则推文的样本，对比了 ChatGPT 和众包工人以及专业标注者的表现。结果显示， ChatGPT 在五项任务中有四项超过了众包工人，在评估一致性（intercoder agreement）上超过了众包工人以及专业标注者。更重要的是 ChatGPT 的标注成本每条不到 0.003 美元，是众包工人二十分之一。研究显示大语言模型可显著提高文本分类的效率。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 的 AI 加速芯片设计论文引发质疑]]></title>
-        <id>https://www.solidot.org/story?sid=74512</id>
-        <link href="https://www.solidot.org/story?sid=74512"/>
-        <updated>2023-03-28T09:40:39.000Z</updated>
-        <summary type="html"><![CDATA[2021 年，Google 研究人员在《自然》期刊上报告利用 AI 加速芯片设计。研究人员使用了 1 万张芯片设计图去训练他们的软件，基于强化学习的 AI 学习了如何在有限空间、布线和功耗下完成设计图。Google 已将这一方法应用于自己的芯片 TPU（tensor processing uni）。现在，UCSD（加州圣迭戈）计算机科学和工程学教授 Andrew Kahng 领导的一个团队尝试了重现 Google 的研究。由于 Google 以商业敏感性为由未披露模型内部工作的部分细节，研究人员花了几个月时间进行逆向工程，他们最终的模型 circuit training (CT)比使用传统方法差得多。为什么差异如此显著？一种原因被认为是 Google 利用 EDA 软件巨头 Synopsys 开发的商业软件去创造芯片逻辑门的起始布局，然后用强化学习系统优化。UCSD 团队指出 Google 没有在论文中进行披露。Google 论文的主要作者表示没有披露是因为这并不重要。他们认为 UCSD 团队的结果糟糕一则是模型没有预先训练，另一个原因是没有像 Google 那样有充足的计算能力。UCSD 团队表示没有预训练是因为无法获得 Google 使用的私有数据。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[节食后大脑会放大饥饿信号]]></title>
-        <id>https://www.solidot.org/story?sid=74511</id>
-        <link href="https://www.solidot.org/story?sid=74511"/>
-        <updated>2023-03-28T08:32:58.000Z</updated>
-        <summary type="html"><![CDATA[人们在节食瘦身之后常常会在短时间内体重出现反弹。发表在《Cell Metabolism》期刊上针对小鼠的研究揭示了背后的神经机制。研究人员检查了小鼠下丘脑中的一组 AgRP神经元，这些神经元已知可以控制饥饿感。当小鼠节食时，刺激 AgRP 神经元的神经元通路发送了更多的信号。在节食后的很长一段时间内，大脑中这种深刻的变化都能被检测到。研究人员还成功地选择性地抑制了激活 AgRP 神经元的小鼠神经通路。这导致节食后体重增加明显减少。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waige – 在 Mac 菜单栏显示 OpenAI API 消耗量与余额[开发者必备]]]></title>
-        <id>https://www.appinn.com/?p=44978</id>
-        <link href="https://www.appinn.com/waige/"/>
-        <updated>2023-03-28T08:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Waige 是一个专门为 OpenAI 开发者准备的小工具，它能够在 Mac 菜单栏上显示多个账号的 API 消耗量与账户余额。@Appinn Waige Waige 使用消费者定价方式，你可以出任意]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达表示加密货币没有给社会带来任何有用的东西]]></title>
-        <id>https://www.solidot.org/story?sid=74510</id>
-        <link href="https://www.solidot.org/story?sid=74510"/>
-        <updated>2023-03-28T07:59:25.000Z</updated>
-        <summary type="html"><![CDATA[在加密货币火热无比的时期，英伟达曾推出过专门的挖矿用显卡（主要是挖掘以太坊，但以太坊最近切换到了 POS 权益证明机制，不再需要专门的矿机了），同时也释出过驱动限制消费者用显卡的挖矿能力。它曾从加密货币行业获得了大笔收入，但如今该公司的 CTO Michael Kagan 表示加密货币没有给社会带来任何有用的东西。英伟达强调了自己对于 AI 行业的作用，Kagan 说，加密货币行业购买了大量挖矿用显卡，但它最终崩溃了，因为它们没有带来任何有用的东西。而AI 做到了。第一个版本的 ChatGPT 使用了一台包含 1 万台英伟达显卡的超算训练。他说，“有了 ChatGPT，每个人都能打造自己的机器，自己的程序：你只需告诉它做什么。如果它没有按照你想要的方式工作，你就告诉它'我想要不同的'。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度投资 RISC-V 数据中心芯片创业公司]]></title>
-        <id>https://www.solidot.org/story?sid=74509</id>
-        <link href="https://www.solidot.org/story?sid=74509"/>
-        <updated>2023-03-28T06:42:32.000Z</updated>
-        <summary type="html"><![CDATA[百度领投了一家 RISC-V 数据中心芯片创业公司赛昉科技。赛昉科技自称是国内“为数不多能提供高性能大小核及多核架构方案的 RISC-V 厂商”。除了投资外，“双方还将进一步在业务上展开合作。"RISC-V 是一种开源指令集架构，目前不清楚这是否意味着百度对 RISC-V 处理器感兴趣，还是出于在基础设施中采用 RISC-V 的愿望。美国对中国的技术产品出口限制没有影响到百度，不过该公司官员表示它有计划开发美国禁止出口产品的替代品。百度最近公布了它的 AI 聊天机器人文心一言，此类的 AI 平台背后需要庞大的数据中心支持。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国禁止联邦机构采购商业间谍软件]]></title>
-        <id>https://www.solidot.org/story?sid=74508</id>
-        <link href="https://www.solidot.org/story?sid=74508"/>
-        <updated>2023-03-28T06:21:42.000Z</updated>
-        <summary type="html"><![CDATA[美国拜登政府周一宣布了一项行政令，禁止联邦机构——包括执法、国防和情报部门——采购商业间谍软件。此前以色列 NSO 集团的商业间谍软件 Pegasus 在出售之后被用于监视数十名美国政府官员的手机。私营公司开发的间谍软件通常只出售给国家和政府机构，而这些政府虽然声称间谍软件只用于调查严重犯罪活动，但在实际中它们经常被用于监视政府的批评者。滥用间谍软件并不仅限于专制国家，民主国家如希腊、西班牙和波兰等也都曾经依赖过商业间谍软件。上周持有美国和希腊护照的前 Meta 高管 Artemis Seaford 确认遭到 Predator 间谍软件的入侵，她表示不知道自己为何成为目标。她是最新一位成为商业间谍软件目标的美国受害者。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chatbox – 开源跨平台 ChatGPT 客户端，基于 OpenAI API]]></title>
-        <id>https://www.appinn.com/?p=44974</id>
-        <link href="https://www.appinn.com/chatbox-for-chatgpt/"/>
-        <updated>2023-03-28T04:22:01.000Z</updated>
-        <summary type="html"><![CDATA[Chatbox 是一款开源的 ChatGPT 客户端，基于 OpenAI API，适合平时使用，也可以用做 Prompt 的调试与管理。拥有 Windows、macOS、Linux 客户端。@Appi]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国监管机构起诉币安及其CEO 赵长鹏]]></title>
-        <id>https://www.solidot.org/story?sid=74507</id>
-        <link href="https://www.solidot.org/story?sid=74507"/>
-        <updated>2023-03-28T04:13:55.000Z</updated>
-        <summary type="html"><![CDATA[美国商品期货交易委员会(CFTC)周一起诉币安，指控这家全球最大的加密货币交易所运营商违反了美国要求期货和其他衍生品在受监管平台上交易的规定。CFTC 的诉讼还将币安创始人赵长鹏与该机构认为是币安首位首席合规官的 Samuel Lim 列为被告。这起诉讼请求做出赔偿和罚款的裁决，以及发布命令阻止该公司继续从事任何违反美国规则的行为。CFTC 在民事诉讼中称，尽管币安公开表示限制美国人使用其平台，但该公司仍采取了有计划、分阶段的作法来增加其在美国的影响力。币安在没有注册的情况下同时招揽了散户和机构客户。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We've added 15 more text tools]]></title>
-        <id>https://catonmat.net/15-more-text-tools</id>
-        <link href="https://catonmat.net/15-more-text-tools"/>
-        <updated>2023-03-28T01:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Team Browserling keeps shipping!
-Two weeks ago we added 50 new text tool, last week we added 20 more tools, and just now we added 15 more text tools to our Online Text Tools collection.
-Draw Box Around Text
-Calculate Letter Sum
-Filter Words in Text
-Sort Text Lines
-Sort Letters in Words
-Sort Words in Text
-Sort Sentences in Text
-Sort Paragraphs in Text
-Sort All Symbols in Text
-Randomize Letters in Text
-Randomize Words in Text
-Randomize Text Lines
-Randomize Text Paragraphs
-Randomize Text Sentences
-Calculate Text Complexity
-Next week we'll add even more tools. See you then!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客组织以中国核能机构为攻击目标]]></title>
-        <id>https://www.solidot.org/story?sid=74506</id>
-        <link href="https://www.solidot.org/story?sid=74506"/>
-        <updated>2023-03-27T14:56:22.000Z</updated>
-        <summary type="html"><![CDATA[被认为来自南亚的黑客组织 Bitter APT 最近正以中国核能机构为攻击目标。安全公司 Intezer 报告，在最近的行动中，Bitter APT 伪装成吉尔吉斯斯坦驻北京大使馆向中国核能公司和该领域的学者发送钓鱼邮件，邀请他们参加吉尔吉斯斯坦大使馆等主办的一个核能会议。邮件签名者是真实存在的，是吉尔吉斯斯坦外交部的一名官员。但邮件附件是恶意的，会执行一系列行动释放恶意负荷。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯去匿名化 Telegram 用户]]></title>
-        <id>https://www.solidot.org/story?sid=74505</id>
-        <link href="https://www.solidot.org/story?sid=74505"/>
-        <updated>2023-03-27T14:37:27.000Z</updated>
-        <summary type="html"><![CDATA[俄罗斯在 2022 年逮捕了多名知名的 Telegram 用户，调查显示国有的俄罗斯国家工业和科技集团公司(Rostec)旗下的一家公司开发了名为  "Okhotnik" (Охотник) 的系统，利用了逾 800 个数据点建立关联去匿名化 Telegram 用户的身份。这些数据点来自社交网络、博客、论坛、即时通讯工具、BBS、加密货币区块链、暗网以及政府服务，包括姓名、昵称、电邮地址、网站、域名、加密钱包、加密密钥、电话号码、地理位置信息、IP地址等。Okhotnik 可以找到目标用户过去任何时候犯下的任何错误去实现去匿名化。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
