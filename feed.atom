@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-04-08T02:23:55.353Z</updated>
+    <updated>2023-04-09T02:27:59.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微星承认遭到网络攻击源代码被盗]]></title>
+        <id>https://www.solidot.org/story?sid=74611</id>
+        <link href="https://www.solidot.org/story?sid=74611"/>
+        <updated>2023-04-08T15:14:10.000Z</updated>
+        <summary type="html"><![CDATA[在一个勒索软件黑帮声称盗窃到源代码之后，微星承认遭到网络攻击数据被盗，但该公司没有提供更多细节。微星在一份声明中呼吁用户不要从第三方网站下载它的固件/BIOS 更新，只从它的官方网站下载。这一声明显示微星担心黑客会传播恶意版本的固件。此前自称 Money Message 的新勒索软件组织声称从微星窃取到了源代码，其中包括 BIOS 框架。Money Message 要求微星支付 400 万美元赎金，否则将会在下周泄露窃取的数据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源 VPN 帮助俄罗斯用户绕过封锁]]></title>
+        <id>https://www.solidot.org/story?sid=74610</id>
+        <link href="https://www.solidot.org/story?sid=74610"/>
+        <updated>2023-04-08T14:32:07.000Z</updated>
+        <summary type="html"><![CDATA[过去一年俄罗斯政府屏蔽了逾万网站，其中包括知名社交网络 Facebook、Twitter 和 Instagram。俄罗斯人转而通过 VPN 等工具绕过封锁。但俄罗斯政府随后又封锁了流行 VPN 服务使用的 IP 地址。现在一种开源 VPN 客户端 Amnezia 帮助俄罗斯用户挫败新的封锁。不同于商业 VPN 服务通过企业服务器路由用户，Amnezia 允许用户设定自己的服务器，选择自己的 IP，使用难以屏蔽的协议。Amnezia VPN 类似 Google Jigsaw 开发的开源工具 Outline，它是在 2020 年举行的一次黑客马拉松活动中创造出来的，它目前有大约 10 万用户。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter 限制 Substack 链接]]></title>
+        <id>https://www.solidot.org/story?sid=74608</id>
+        <link href="https://www.solidot.org/story?sid=74608"/>
+        <updated>2023-04-08T13:02:51.000Z</updated>
+        <summary type="html"><![CDATA[刚刚从柴犬 logo 恢复到蓝鸟的 Twitter 被发现限制了 Substack 链接。Substack 是一家提供付费订阅的内容平台。在 Substack 上发表文章的作者从周五早晨注意到了 Substack 链接受限，很多人怀疑马斯克（Elon Musk）此举旨在挫败潜在的竞争对手。Substack 本周三宣布了它的微博客平台 Notes，它允许 Substack 上的作者们发表简短形式的内容，它没有广告，通过付费订阅获得收入。去年 12 月 Twitter 曾短暂限制了去中心化社交平台 Mastodon。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Weekend Sales]]></title>
+        <id>https://catonmat.net/weekend-sale</id>
+        <link href="https://catonmat.net/weekend-sale"/>
+        <updated>2023-04-08T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[At Browserling and Online Tools, we love sales.
+We just created a new automated weekend sales campaign.
+Now each weekend, we show a 50% discount offer to all users who visit our site.
+Here's how it looks:
+Run weekend sales too and see you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲去年冬天大幅削减了能源消耗]]></title>
         <id>https://www.solidot.org/story?sid=74607</id>
@@ -848,167 +892,6 @@ See you next time!]]></summary>
         <link href="https://www.solidot.org/story?sid=74540"/>
         <updated>2023-03-30T15:23:35.000Z</updated>
         <summary type="html"><![CDATA[curl 项目作者 Daniel Stenberg 称收到了彭博社开源项目办公室的来函，curl 项目成为彭博社 FOSS Contributor Fund 基金的首个赞助对象，它通过 Open Source Collective 向其资助 1 万美元。 curl 项目不是法人，不能自己持有资金或任何资产，它的所有资金都由  Open Source Collective 托管。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发改委督促苹果加强数据安全和个人隐私保护]]></title>
-        <id>https://www.solidot.org/story?sid=74539</id>
-        <link href="https://www.solidot.org/story?sid=74539"/>
-        <updated>2023-03-30T13:31:24.000Z</updated>
-        <summary type="html"><![CDATA[苹果 CEO 库克（Tim Cook）最近在中国访问，在与国家发改委官员的见面中，发改委主任郑栅洁
-督促苹果加强数据安全和个人隐私保护，称“中国的产业数字化和数字产业化进程、超大规模市场、庞大的中等收入群体等都将为包括苹果公司在内的跨国企业带来广阔市场。希望苹果公司继续积极承担企业社会责任，加强数据安全和个人隐私保护。”苹果年收入的 19%——约 742 亿美元——来自大中华区市场。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰空袭警报应用使用 Mark Hamill 的声音]]></title>
-        <id>https://www.solidot.org/story?sid=74538</id>
-        <link href="https://www.solidot.org/story?sid=74538"/>
-        <updated>2023-03-30T13:23:11.000Z</updated>
-        <summary type="html"><![CDATA[电影《星球大战》系列主角天行者卢克的扮演者 Mark Hamill 将他的声音借给了乌克兰空袭警报应用 Air Alert 使用。Air Alert 连接国家防空系统，一旦发现空袭来临，Mark Hamill 的声音会响起：“注意。空袭警报。请前往最近的庇护所。”当威胁过去之后，他会说，“警报结束。愿原力与你同在。”Hamill 还会引用部分《星球大战》中的著名台词，比如“别大意，过度自信是你的弱点”。Hamill 提供的台词向用户警告导弹袭击、炮轰、巷战、辐射和化学威胁。Hamill 是乌克兰的支持者，为乌克兰展开过筹款活动。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市青少年和儿童的生长发育优势可能已经消失]]></title>
-        <id>https://www.solidot.org/story?sid=74537</id>
-        <link href="https://www.solidot.org/story?sid=74537"/>
-        <updated>2023-03-30T12:55:08.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《自然》期刊上的一项研究，到了 21 世纪，历史上曾存在于大多数国家、生活在城市的儿童和青少年相对于乡村地区同龄人的生长发育优势或已消失，但对生活在非洲和亚洲一些地区的男孩，城市优势有所放大。研究人员整理了 200 个国家在 1990-2020 年间生活在城市和乡村地区的 7100 万年轻人( 5-19 岁)的身高和体重数据。他们发现，在 1990 年，除少数国家外，几乎所有城市儿童和青少年都比乡村的同龄人高。但到 2020 年，城市身高优势在大多数国家都变小了，而在许多富裕西方国家(如英国、美国和法国)，城市反而有了轻微劣势。上述情况的例外出现在撒哈拉以南非洲的大多数国家，以及一些太平洋、南亚和中东国家的男孩身上。在这些国家，连续队列的乡村男孩身高都没有增加，甚至可能更矮了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家发现已知质量最大的黑洞]]></title>
-        <id>https://www.solidot.org/story?sid=74536</id>
-        <link href="https://www.solidot.org/story?sid=74536"/>
-        <updated>2023-03-30T12:46:37.000Z</updated>
-        <summary type="html"><![CDATA[天文学家发现了可能是已知质量最大的黑洞，其质量大约为太阳质量的 300 亿倍。研究报告发表在《Royal Astronomical Society》期刊上。天文学家是利用引力透镜和超级计算机模拟发现这个巨无霸黑洞的。该黑洞位于星系团 Abell 1201 中的一个星系，虽然巨大无比但并不活跃，也就是它没有吞噬太多周围的物质而释放出巨大的能量。论文主要作者 James Nightingale 博士称，此前发现的绝大多数超大质量黑洞都处于活跃状态，引力透镜让研究此类不活跃巨型黑洞成为可能。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter 获得法庭传票要求 GitHub 披露其源代码上传者的身份]]></title>
-        <id>https://www.solidot.org/story?sid=74535</id>
-        <link href="https://www.solidot.org/story?sid=74535"/>
-        <updated>2023-03-30T10:26:35.000Z</updated>
-        <summary type="html"><![CDATA[Twitter 上周披露它的部分源代码被人在今年初上传到 GitHub。上周五 Twitter 向北加州地区法院递交申请，要求法庭签发传票强迫 GitHub 披露源代码上传者 FreeSpeechEnthusiast 的身份。本周二法庭书记员签署了传票，GitHub 需要在 4 月 3 日前提供上传者所有的身份信息，包括 FreeSpeechEnthusiast 相关的姓名、地址、电话号码、电邮地址、社媒档案数据和 IP 地址。GitHub 还被要求提供 FreeSpeechEnthusiast 所上传代码仓库中发布、上传、下载或修改数据的用户的相同类型的信息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[间谍软件供应商利用 0day 和 Nday 漏洞攻击流行平台]]></title>
-        <id>https://www.solidot.org/story?sid=74534</id>
-        <link href="https://www.solidot.org/story?sid=74534"/>
-        <updated>2023-03-30T10:03:40.000Z</updated>
-        <summary type="html"><![CDATA[Google Threat Analysis Group (TAG) 安全团队多年来一直跟踪间谍软件供应商的活动。它跟踪了逾三十家公司，认为这些间谍软件的开发商推动了黑客工具的扩散，让内部缺乏技术能力的政府能利用先进的黑客工具去监视持不同政见者、记者、人权活动人士和反对党政客。间谍软件供应商组合利用 0day 和 Nday 漏洞去攻击流行平台，它们囤积了已知和未知的漏洞，利用了已知漏洞及其修复补丁推送到终端用户的时间差。Google 安全研究人员根据其活动认为，间谍软件开发商之间在分享漏洞和技术，加速了危险黑客工具的扩散。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亿图图示，简单好用的AI办公绘图神器：一键作图]]></title>
-        <id>https://www.appinn.com/?p=45017</id>
-        <link href="https://www.appinn.com/edraw-ai-images/"/>
-        <updated>2023-03-30T09:06:21.000Z</updated>
-        <summary type="html"><![CDATA[这阵子，AI杀疯了。 除了 AI 工具在卷，“办公软件+AI”也卷起来了。 比如:微软 Office 加上了 AI，谷歌 Workspace 加上了 AI…… 但国内办公软件也]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国共和党参议员 Rand Paul 反对 TikTok 禁令]]></title>
-        <id>https://www.solidot.org/story?sid=74533</id>
-        <link href="https://www.solidot.org/story?sid=74533"/>
-        <updated>2023-03-30T08:42:33.000Z</updated>
-        <summary type="html"><![CDATA[美国共和党参议员 Rand Paul 反对针对 TikTok 的禁令。TikTok 是美国最受欢迎的社交应用之一，有 1.5 亿用户，主要是年轻人。Rand Paul 认为应该小心提防以恐惧之名诱骗美国人民放弃自由的人，对 TikTok 的每一项指控都适用于美国的科技巨头。如果美国要禁止 TikTok 那么这实际上是效仿中国。因为中国已经禁止了  TikTok。如果你不喜欢 TikTok 或 Facebook 或 YouTube，那么就不要使用它们。但不要以为对宪法的任何诠释赋予了你禁止它们的权利。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trancy – 又来骗我学习外语，这次连完形填空都有了，还集成了 ChatGPT…]]></title>
-        <id>https://www.appinn.com/?p=45014</id>
-        <link href="https://www.appinn.com/trancy/"/>
-        <updated>2023-03-30T08:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Trancy 是一款在观看 YouTube、Netflix 视频时，学习外语的 Chrome 扩展，它能显示双语字幕、进行口语练习（微软打分）、将字幕变成完形填空，让 ChatGPT 帮你查生词等等。]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度奥里萨邦警方仍然在用信鸽传递信息]]></title>
-        <id>https://www.solidot.org/story?sid=74532</id>
-        <link href="https://www.solidot.org/story?sid=74532"/>
-        <updated>2023-03-30T07:17:22.000Z</updated>
-        <summary type="html"><![CDATA[我们生活在一个信息即时传递的时代，但在印度东部的奥里萨邦（Odisha），警方仍然保留信鸽作为一种传递信息的手段。警方使用信鸽与偏远的分局保持联络，在 1982 年的灾难性洪水和 1999 年的超级飓风面前，信鸽被证明是唯一可靠的通信方法，它们被认为拯救了很多人的生命。警用信鸽服务是在 1946 年启用的，当时奥里萨邦没有无线电也没有电话，军方因此向其提供了 200 只比利时信鸽。如今奥里萨邦保留了世界唯一现存的信鸽通信服务。使用比利时信鸽是因为它们能在 15-25 分钟内飞行最远 24 公里，寿命长达 20 年。警方目前保留了大约 155 只信鸽。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SBF 的辩护费用部分来自于他送给父亲的钱]]></title>
-        <id>https://www.solidot.org/story?sid=74531</id>
-        <link href="https://www.solidot.org/story?sid=74531"/>
-        <updated>2023-03-30T06:11:56.000Z</updated>
-        <summary type="html"><![CDATA[Sam Bankman-Fried(SBF)在担任 FTX CEO 期间曾向他的父亲转移了数百万美元，其中部分款项正被用于资助他不断增加的辩护费用。SBF 是在2021 年送给他的父亲、斯坦福法学教授 Joseph Bankman 一笔大额礼金。这笔资金来自于他旗下对冲基金 Alameda Research 的贷款。这笔赠与款使用了美国的终身免税额——根据美国的税法，一个人被赠与和继承的价值不超过 1170 万美元不需要缴纳相应的税款。他的父亲曾恳求儿子存钱，但 SBF 拒绝了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克等呼吁暂停开发更强大的 AI 系统]]></title>
-        <id>https://www.solidot.org/story?sid=74530</id>
-        <link href="https://www.solidot.org/story?sid=74530"/>
-        <updated>2023-03-30T05:28:02.000Z</updated>
-        <summary type="html"><![CDATA[包括马斯克(Elon Musk)和图灵奖得主 Yoshua Bengio 在内的科技行业高管和顶级 AI 研究人员正呼吁暂停对强大的新 AI 工具的快速开发。主张暂停的这些人士表示，六个月或更长时间的暂停，将使该行业有时间制定 AI 设计方面的安全标准，从而防止风险最高的一些 AI 技术的潜在危害。《暂停巨型 AI 实验：一封公开信》并非呼吁暂停所有 AI 开发，但敦促各公司暂时停止训练比 GPT-4 更强大的系统。OpenAI 的管理人员说他们还没有开始训练 GPT-5。OpenAI 首席执行官 Sam Altman 在接受采访时表示，公司长期以来在开发时将安全作为重点，并在 GPT-4 发布前花了六个多月的时间对其进行安全测试。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bing chat 引入广告]]></title>
-        <id>https://www.solidot.org/story?sid=74529</id>
-        <link href="https://www.solidot.org/story?sid=74529"/>
-        <updated>2023-03-30T05:20:58.000Z</updated>
-        <summary type="html"><![CDATA[微软官方博客宣布它的 AI 聊天机器人 Bing chat 引入广告。Bing 的日活用户逾一亿，其中三分之一用户首次使用 Bing，与 AI 的聊天也超过了一亿。微软称这些都给内容出版商带来了新的机遇。互联网的生态系统是如此运作的：出版商提供优质内容，驱动流量，吸引广告商，出版商通过广告为内容获得报酬，用户则能免费访问内容。微软表示它希望新 Bing 为出版商增加流量，增加广告收入，继续促进健康的互联网生态系统。 微软目前探索的 Bing chat 广告方式是当用户鼠标悬浮在一个链接时将会展示该内容出版商的更多链接；在聊天答案旁边放置内容驱动用户点击。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界备份日 WinX MediaTrans 限免：一键备份、传输 iPhone 照片、视频等数据]]></title>
-        <id>https://www.appinn.com/?p=45006</id>
-        <link href="https://www.appinn.com/winx-mediatrans/"/>
-        <updated>2023-03-30T04:52:12.000Z</updated>
-        <summary type="html"><![CDATA[你知道3月31日是世界备份日吗？这是由 Reddit 社区发起的，每年一次提醒网友别忘记了数据备份。小编是永远无法忘记中学毕业时手机拍摄的珍贵照片和视频因惨遭格式化而再也无法找回的痛。 对于 iPho]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速射电暴首次发现关联引力波]]></title>
-        <id>https://www.solidot.org/story?sid=74528</id>
-        <link href="https://www.solidot.org/story?sid=74528"/>
-        <updated>2023-03-29T15:54:06.000Z</updated>
-        <summary type="html"><![CDATA[快速射电暴（Fast radio bursts 或 FRB）是一种高能天体物理现象，呈现瞬态电波脉冲，仅维持数毫秒的爆发，它的来源至今充满谜团。现在科学家首次将两颗中子星合并产生的引力波事件与 FRB 事件关联起来。激光干涉仪引力波天文台（LIGO）探测到了一起中子星合并产生的引力波事件 GW190425。专门设计观测 FRB 事件的 CHIME 望远镜公布的数据显示，在 GW190425 发生两个半小时后它探测到了 FRB 20190425A。由于当时 LIGO 的两个探测器只有一个在工作，两起事件存在关联性的证据并非确凿无疑，还有 5% 的可能性是巧合。未来的进一步观测将能验证两者之间是否存在关联性。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因为 TikTok 的数据中心挪威兵工厂无法扩大生产]]></title>
-        <id>https://www.solidot.org/story?sid=74527</id>
-        <link href="https://www.solidot.org/story?sid=74527"/>
-        <updated>2023-03-29T15:16:43.000Z</updated>
-        <summary type="html"><![CDATA[你可能无法想象 TikTok 与挪威兵工厂扩大生产之间存在关联，但这就是现实。TikTok 正在欧洲建造两个数据中心保存欧洲用户的数据，以安抚欧盟对于用户数据安全的担忧。其中一个数据中心就建在挪威的 Hamar 地区。数据中心需要消耗大量的电力，而电力供应商是根据先到先得的原则分配供电。结果是当地供应商没有多余的电力可以支持 Nammo 公司在该地区的最大兵工厂扩大生产。扩大电网容量需要时间。Nammo CEO Morten Brandtzaeg 表示他们有点担心，公司未来的增长面临 TikTok 储存猫咪视频所带来的挑战。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
