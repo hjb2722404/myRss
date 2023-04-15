@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45195",
+          "author": "青小蛙",
+          "description": "CodeWhisperer 是亚马逊的用几十亿行开源代码训练出来的 AI 工具，它可以根据你的代码注释和现有代码实时生成代码建议。另外还能进行安全漏洞扫描。支持 15 种编程语言（包括 Python、",
+          "link": "https://www.appinn.com/amazon-codewhisperer/",
+          "publishedOn": "2023-04-14T03:56:13.000Z",
+          "wordCount": 2610,
+          "title": "亚马逊 AI 编程助手 CodeWhisperer 免费对个人用户开放，提供不限量的代码建议，类似 GitHub Copilot",
+          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/amazon-codewhisperer.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45187",
           "author": "青小蛙",
           "description": "Magic Copy 是一款可以在浏览器中直接对图片进行抠图的工具，支持 Chrome、Firefox，使用了 Meta AI 近期发布的 Segment Anything Model (SAM) A",
@@ -130,16 +140,6 @@
           "wordCount": 2341,
           "title": "如何用 FreeFileSync 自动备份移动硬盘？",
           "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/backups.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45133",
-          "author": "青小蛙",
-          "description": "番茄人生是一款专注于番茄时钟、任务管理的工具，以界面设计简陋。近日开发者在发现频道发布了网页版与线上自习室，还喜闻乐见的添加了用户间的番茄钟 PK 功能，让其在增加功能的同时，可以跨平台使用。@App",
-          "link": "https://www.appinn.com/tomatolist-online/",
-          "publishedOn": "2023-04-05T09:51:51.000Z",
-          "wordCount": 2274,
-          "title": "番茄人生 – 网页版番茄时钟与任务管理，再加一个线上自习室",
-          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/tomatolist.jpgo_.jpg"
         }
       ]
     },
@@ -188,6 +188,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74674",
+          "author": null,
+          "description": "OpenAI 联合创始人兼 CEO Sam Altman 在讨论 AI 带来的威胁时确认该公司目前没有在训练 GPT-5——GPT-5 是 OpenAI 今年 3 月发布的 GPT-4 的下一代系统。OpenAI 尚未开始训练 GPT-5 并不意味着该公司没有在扩展 GPT-4 的功能。他表示 GPT-4 还有各种安全问题需要解决。",
+          "link": "https://www.solidot.org/story?sid=74674",
+          "publishedOn": "2023-04-14T16:05:09.000Z",
+          "wordCount": 176,
+          "title": "OpenAI CEO 确认该公司目前没有在训练 GPT-5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74673",
+          "author": null,
+          "description": "4 月 14 日 14:14 CEST，ESA 在法属圭亚那的航天港使用 Ariane 5 火箭成功发射木星卫星探测器 Juice。探测器旨在确定木星三颗存在地下海洋的卫星 Ganymede（木卫三）、Callisto（木卫四） 和 Europa（木卫二） 是否能维持生命。Juice 代表 Jupiter Icy Moons Explorer，它将于 2031 年 7 月抵达木星轨道，2034 年 12 月进入木卫三 Ganymede 的轨道，成为第一艘环绕地球以外卫星的飞船。Ganymede 是木星最大的卫星，也是太阳系最大的卫星，是唯一有磁圈的卫星。Juice 将利用其搭载的探测器获取卫星地下海洋的信息。",
+          "link": "https://www.solidot.org/story?sid=74673",
+          "publishedOn": "2023-04-14T15:24:44.000Z",
+          "wordCount": 179,
+          "title": "ESA 成功发射木星卫星探测器 Juice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74672",
+          "author": null,
+          "description": "中国计划大幅削减火箭发射费用以迎接 SpaceX 可复用火箭带来的挑战。长征火箭目前将载荷发射到地球轨道的费用大约为每公斤 3000 美元。相比下 NASA 航天飞机发射每公斤载荷的费用超过 6 万美元。但 SpaceX 的 Falcon 9 火箭通过重复利用第一级已经将发射费用降低到与长征火箭相似的水平。SpaceX 的新火箭 Starship Super Heavy 预计还将会进一步降低发射费用。马斯克（Elon Musk）声称 Starship 能将发射费用降至每公斤 10 美元，许多人相信这是夸大之词，但认为它能将发射费用降至每公斤数百美元。中国正在开发新型可复用发射载具，当局希望能重复使用百次以上，每千次飞行的失败率低于 3 次，将有效载荷发射费用降至每公斤 150 美元，保持对 SpaceX 的价格竞争力。",
+          "link": "https://www.solidot.org/story?sid=74672",
+          "publishedOn": "2023-04-14T14:57:46.000Z",
+          "wordCount": 180,
+          "title": "中国计划大幅削减火箭发射费用以迎接 SpaceX 的挑战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74671",
+          "author": null,
+          "description": "苹果周三早晨 7 点给公司员工发邮件调查他们对混合办公的看法。此前苹果威胁对每周未能来办公室工作三天的员工进行纪律处分。苹果在邮件中提出的问题主要是关于哪些方面远程工作工作良好，哪些方面在办公室工作更好。在办公室工作最主要的问题通常是通勤时间长，以及分心导致工作效率下降。苹果要求员工在 4 月 28 日前完成调查。无独有偶的是，一家甘肃酒泉公司凌晨三点要求员工写检查，且要在第二天上班时交稿。",
+          "link": "https://www.solidot.org/story?sid=74671",
+          "publishedOn": "2023-04-14T11:18:09.000Z",
+          "wordCount": 156,
+          "title": "苹果早晨 7 点给员工发邮件调查混合办公",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74670",
+          "author": null,
+          "description": "根据发表在《Transportation Research Part A: Policy and Practice》上的一项研究，北大和暨南大学的研究人员发表论文《High-speed rail and happiness》，调查了高铁项目与幸福感之间的关联。中国过去二十年投入了巨资建造高铁，截至 2020 年底，全球高铁商业总里程 52,418 公里，中国高铁就占到了三分之二达到 35,740 公里。高铁的建造和运营成本巨大，因此必须权衡收益和成本。此外人们也逐渐认识到，经济增长不一定会增加幸福感。高铁方便了居民出行，应该能增加幸福感，但程度有多大呢？对 28,646 名居民的调查发现，以 1-5 的尺度衡量，高铁使得幸福感增加了 0.076，不到 2%。研究人员说，如果不能有效的提高居民幸福感，那么经济增长的意义何在呢？",
+          "link": "https://www.solidot.org/story?sid=74670",
+          "publishedOn": "2023-04-14T10:49:31.000Z",
+          "wordCount": 162,
+          "title": "研究发现高铁略微增加了幸福感",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74669",
+          "author": null,
+          "description": "借助韦伯太空望远镜（JWST）天文学家利用引力透镜观察了一个小而明亮的星系。该星系红移值为 9.5，相当于宇宙大爆炸后约 5.1 亿年。由引力透镜提供的高倍放大使得天文学家能探测这个内部模糊的星系，并通过强烈的星云发射谱线获得光谱信息，这些发射谱线可揭示星系的部分物理属性。天文学家发现，该星系的半径为 16.2 秒差距（约 52.8 光年），比其它具有同等光度的星系要密实得多，这表明恒星形成的密度很高。更重要的是，光谱分析显示，该星系含有丰富的氧和氢。",
+          "link": "https://www.solidot.org/story?sid=74669",
+          "publishedOn": "2023-04-14T09:40:37.000Z",
+          "wordCount": 158,
+          "title": "天文学家发现了一个诞生于创世大爆炸后 5 亿年的小星系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74668",
+          "author": null,
+          "description": "自然资源部海洋预警监测司司长在周三的新闻发布会上表示，中国沿海海平面变化总体呈波动上升趋势。1980－2022 年，中国沿海海平面上升速率为 3.5 毫米/年；1993－2022 年，中国沿海海平面上升速率为 4.0 毫米/年，高于同时段全球平均水平。2022 年，中国沿海海平面较常年（1993－2011 年）高 94 毫米，为 1980 年以来最高。过去 11 年（2012－2022年）中国沿海海平面均处于有观测记录以来的高位。海平面上升对金融中心上海等沿海城市构成了严重威胁。",
+          "link": "https://www.solidot.org/story?sid=74668",
+          "publishedOn": "2023-04-14T08:55:53.000Z",
+          "wordCount": 156,
+          "title": "中国沿海海平面上升创下记录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74667",
+          "author": null,
+          "description": "数据存储巨头西部数据本月初证实它在 3 月 26 日遭到入侵，但没有透露更多信息。现在参与发动此次攻击的一名黑客公开接受采访，披露了更多相关信息。黑客称他们从西部数据窃取到了大约 10 TB 数据，正在与西数谈判至少八位数的赎金。作为证据，黑客分享了一份使用西数证书签名的文件，证明他们现在能冒充西数给文件签名。黑客还分享了西数高管未公开的电话号码，以及一张高管们开电话会议的截图——其中一位参与者是西数的首席信息安全官。黑客表示他们入侵的目的是获利，因此没有用勒索软件加密西数的文件，如果西数拒绝或不理睬他们的要求，他们将会公开西数的数据。",
+          "link": "https://www.solidot.org/story?sid=74667",
+          "publishedOn": "2023-04-14T08:29:08.000Z",
+          "wordCount": 160,
+          "title": "黑客从西部数据窃取到了 10 TB 数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74666",
+          "author": null,
+          "description": "根据 Fandom 发表的年度《Inside Gaming》报告，千禧世代花在游戏上的时间比 Z 世代和青少年还多。千禧世代通常是指出生于 1980 年代到 1990 年代中期的人，Z 世代则是出生于 1990 年代中后期到 2009 年的人，今天的青少年通常指 2010 年之后出生的一代。Fandom 的调查发现，52% 的千禧世代视游戏为其最大兴趣，40% 的千禧世代每周玩游戏的时间超过 22 小时。千禧世代的游戏购买力也相当强，他们购买游戏的可能性比其他群体高出 24%。调查显示，青少年最可能玩大逃杀 (49%)、赛车 (46%) 和生存游戏 (39%)，而千禧世代更可能玩 MMO (41%)、策略 (27%) 和角色扮演 (26%)类型的游戏。年轻一代的玩家对竞技游戏和社交类游戏更感兴趣，而年长游戏玩家更倾向于智力刺激的游戏。",
+          "link": "https://www.solidot.org/story?sid=74666",
+          "publishedOn": "2023-04-14T06:32:46.000Z",
+          "wordCount": 182,
+          "title": "千禧世代花在游戏上的时间比 Z 世代和青少年更多",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74665",
+          "author": null,
+          "description": "Servo 项目计划迁移到布局引擎 Layout 2020。Servo 是用 Rust 语言开发的实验性浏览器引擎项目，最初由 Mozilla 发起，2020 年 Mozilla 大裁员期间裁掉了 Servo 引擎团队，Servo 的开发此后陷入了停滞。Servo 项目后来找到 Linux 基金会托管，寻求为其它项目提供一个高性能的、安全的、可嵌入的模块化渲染引擎。过去几个月，项目的开发再次活跃。本周四，官方博客表示计划迁移到 Layout 2020 引擎。Servo 项目目前有两个布局引擎——Layout 2013 和 Layout 2020，顾名思义，其开发分别始于 2013 年和 2020 年，其中 Layout 2020 设计弥补 Layout 2013 的多个不足之处，开发者表示他们认为 Layout 2020 是项目继续前进的最佳布局引擎，计划不久之后迁移到该引擎。",
+          "link": "https://www.solidot.org/story?sid=74665",
+          "publishedOn": "2023-04-14T06:01:52.000Z",
+          "wordCount": 191,
+          "title": "Servo 项目计划迁移到 Layout 2020",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74664",
+          "author": null,
+          "description": "中科院等离子体研究所报告：4 月 12 日晚 21 时，正在运行的世界首个全超导托卡马克 EAST 装置获重大成果，成功实现了 403 秒稳态长脉冲高约束模等离子体运行，创造了托卡马克装置高约束模式运行新的世界纪录。在 4 月 13 日下午 19 时，再次重复了 403 秒稳态长脉冲高约束模等离子体运行，标志着 EAST 全超导托卡马克装置高参数长脉冲稳态运行的可靠能力...EAST 物理实验取得的系列重大突破，进一步验证了未来聚变实验堆高约束模式稳态运行的可行性。同时，也对探索未来聚变堆前沿物理问题，提升核聚变能源经济性、高效性，加快实现聚变能应用具有重要意义。",
+          "link": "https://www.solidot.org/story?sid=74664",
+          "publishedOn": "2023-04-14T03:23:45.000Z",
+          "wordCount": 173,
+          "title": "EAST 实现 403 秒高约束模等离子体运行",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74663",
           "author": null,
@@ -977,46 +1087,6 @@
           "wordCount": 184,
           "title": "Chrome 112 发布，支持 WASM 垃圾收集",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74584",
-          "author": null,
-          "description": "调查显示美国青少年对虚拟现实缺乏兴趣。青少年通常被视为新技术的早期使用者，他们的喜好能为行业的发展方向提供一种参考。在被调查的青少年中间，29% 拥有 VR 设备，87% 拥有 iPhone 手机。调查显示，只有 4% 的 VR 设备拥有者每天使用它们，14% 的人每周使用。绝大部分青少年没有多少兴趣购买新一代的 VR 设备，只有 7% 的人计划购买，52% 的人表示不确定或没兴趣。调查显示，VR 设备尚未进入主流。",
-          "link": "https://www.solidot.org/story?sid=74584",
-          "publishedOn": "2023-04-05T13:20:29.000Z",
-          "wordCount": 158,
-          "title": "美国青少年对虚拟现实缺乏兴趣",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74583",
-          "author": null,
-          "description": "斯坦福的 AI 研究所 Institute for Human-Centered Artificial Intelligence 发布了《2023 AI Index Report》，该报告由斯坦福和 AI 公司如 Google、Anthropic 和 Hugging Face 的研究人员共同编写，认为 AI 进入了新的发展阶段，随着 AI 的开发和训练日益昂贵，企业掌握了主动权。报告指出，在 2014 年之前最先进的机器学习模型都是由学术界发布，但之后业界占据主导。2022 年业界发布了 22 个重要的机器学习模型，而学术界只发布了 3 个。构建最先进的 AI 系统需要大量的数据、计算资源和资金，相比非盈利组织和学术界，企业界优势显著。报告以最近火热的大语言模型为例，2019 年发布的 GPT-2 模型包含了 15 亿参数，训练成本估计 5 万美元。2022 年发布的 PaLM 包含了 5400 亿参数，训练成本 800 万美元。大语言模型和多模态模型日益复杂而昂贵。",
-          "link": "https://www.solidot.org/story?sid=74583",
-          "publishedOn": "2023-04-05T12:37:24.000Z",
-          "wordCount": 191,
-          "title": "AI 进入企业控制的时代",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74582",
-          "author": null,
-          "description": "Google 财务总监 Ruth Porat 通知所有员工，为节省成本提供给员工的各种福利和办公用品将进行削减。Google 将减少健身课程、订书机和胶带，降低员工用笔记本电脑的更换频率。Google 在 2023 年的目标是通过改善速度和效率实现持久的节约。",
-          "link": "https://www.solidot.org/story?sid=74582",
-          "publishedOn": "2023-04-04T15:01:51.000Z",
-          "wordCount": 153,
-          "title": "Google 将削减提供给员工的各种福利",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74581",
-          "author": null,
-          "description": "数据存储巨头西部数据证实它在 3 月 26 日遭到入侵，黑客从其系统中盗取了数据。西部数据没有披露更多细节，但根据它发表的声明此次攻击可能与勒索软件有关。西部数据表示它正采取措施确保业务正常运营，恢复受影响的基础设施和服务，正与安全公司合作展开调查，并通报了执法部门。西数 NAS 服务 My Cloud 的用户则报告他们无法访问云端的媒体库。",
-          "link": "https://www.solidot.org/story?sid=74581",
-          "publishedOn": "2023-04-04T14:37:57.000Z",
-          "wordCount": 149,
-          "title": "西部数据遭黑客入侵数据被盗",
-          "imageUrl": null
         }
       ]
     },
@@ -1086,6 +1156,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/optimizing-cancellations",
+          "author": null,
+          "description": "At Browserling and Online Tools, we collected statistics from users who cancel their subscriptions and found that 15% of users change their mind within a day after canceling a subscription.\nWe acted on this data and added a feature that lets our users restore a subscription that they just canceled with a single click.\nHere's how it works.\nA single click to cancel a subscription:\nAnd once a subscription has been canceled, it can be restored with a single click as well:\nMake it easy to cancel and uncancel subscriptions for your users as well and see you next time!",
+          "link": "https://catonmat.net/optimizing-cancellations",
+          "publishedOn": "2023-04-14T08:11:00.000Z",
+          "wordCount": 186,
+          "title": "Optimizing Cancellations",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/easter-sale",
           "author": null,
