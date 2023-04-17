@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45202",
+          "author": "青小蛙",
+          "description": "QrCodeScanner 是一款二维码扫描器，用来在电脑上通过截图、摄像头来识别二维码，最低支持 Windows 7 系统。@Appinn 来自发现频道，开发者 @Hikari 自荐：https:/",
+          "link": "https://www.appinn.com/qrcodescanner/",
+          "publishedOn": "2023-04-16T03:15:00.000Z",
+          "wordCount": 2473,
+          "title": "QrCodeScanner（二维码扫描器）- 支持 Win7，在电脑上通过截图或摄像头识别二维码",
+          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/qrcodescanner.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45195",
           "author": "青小蛙",
           "description": "CodeWhisperer 是亚马逊的用几十亿行开源代码训练出来的 AI 工具，它可以根据你的代码注释和现有代码实时生成代码建议。另外还能进行安全漏洞扫描。支持 15 种编程语言（包括 Python、",
@@ -100,26 +110,6 @@
           "wordCount": 2344,
           "title": "ChatGPT 增强：支持 PDF 上传、转换为 Markdown 格式，自动提问[Chrome 开发中]",
           "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/chatgpt-markdown-and-pdf-extension.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45154",
-          "author": "青小蛙",
-          "description": "Upscayl 是一个跨平台的 AI 图像放大工具，免费、开源，下载后即开即用，不联网。@Appinn 需要兼容 Vulkan 显卡 使用 Upscayl 需要兼容 Vulkan 的 GPU，主要包括",
-          "link": "https://www.appinn.com/upscayl/",
-          "publishedOn": "2023-04-07T08:55:50.000Z",
-          "wordCount": 2339,
-          "title": "Upscayl – 免费开源的 AI 图像放大工具，跨平台",
-          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/upscayl.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45151",
-          "author": "青小蛙",
-          "description": "imgsli 是一个相当简单的服务，它能帮你创建一个在线的可滑动对比照片相册。比如帮客户 P 图之后，用来展示与原图之间的差别，支持放大，支持多张图片对比。@Appinn imgsli –",
-          "link": "https://www.appinn.com/imgsli/",
-          "publishedOn": "2023-04-07T07:25:46.000Z",
-          "wordCount": 2264,
-          "title": "imgsli – 在线，左右滑动，对比照片[一个简单的服务]",
-          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/imgsli.jpg"
         }
       ]
     },
@@ -168,6 +158,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74681",
+          "author": null,
+          "description": "Denuvo DRM 并不能保护游戏不会被破解，它主要用于保护游戏在发售的短时间内不会被破解，因为游戏绝大部分销量是在这个时间里售出的。但 Bethesda 发行的《幽灵线：东京（Ghostwire: Tokyo）》却反其道而行之。《幽灵线：东京》在去年发售时没有使用第三方 DRM 保护，因此游戏几乎立即破解了。如今在时隔一年之后，《幽灵线：东京》在最新更新中却加入了 Denuvo DRM。Bethesda 此举可能是避免游戏新加入的 DLC 和额外内容避免被立即破解。",
+          "link": "https://www.solidot.org/story?sid=74681",
+          "publishedOn": "2023-04-16T15:58:37.000Z",
+          "wordCount": 161,
+          "title": "Bethesda 在游戏被破解一年之后给《幽灵线东京》加入 Denuvo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74680",
+          "author": null,
+          "description": "Google 最近从 Chrome 中移除了对实验性的 JPEG-XL 图像格式的支持，它更偏爱自家的专利格式 AVIF。Google 工程师给出的理由是整个生态系统对 JPEG-XL 格式缺乏兴趣，相比现有的格式新格式没有带来足够的增量收益，通过移除相关代码可以减轻维护负担专注于改进现有格式。JPEG-XL 支持无损也支持有损压缩，而且免专利费，它目前的性能被认为比较差，但仍然好于 AVIF。自由软件基金会（FSF）发表文章，公开批评 Google。因 Chrome/Chromium 占据了九成市场份额，Google Chrome 是 Web 标准事实上的仲裁者。它停止支持 JPEG-XL 的决定突出了它对 Web 平台的控制。对整个 Web 生态系统而言，Google 拥有压倒性的力量，普通用户是微不足道的。FSF 呼吁用户团结起来支持自由的浏览器。",
+          "link": "https://www.solidot.org/story?sid=74680",
+          "publishedOn": "2023-04-16T15:42:51.000Z",
+          "wordCount": 185,
+          "title": "自由软件基金会批评 Google 移除对 JPEG-XL 支持的决定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74679",
+          "author": null,
+          "description": "据估计 15% 的新冠感染者留下了被称长新冠的长期后遗症。长新冠症状千奇百怪，其产生的机制目前还不清楚，也没有有效的诊断或治疗方法。两位研究人员提出了一种假说，认为长新冠与酸碱失衡相关。新冠会导致多个系统组织损伤、炎症失调和细胞代谢紊乱，组织损伤和炎症会损害微血管循环导致缺氧，增加细胞的无氧呼吸。研究人员认为无氧呼吸会导致影响每一个器官系统的酸碱失衡，这可能是长新冠的根本原因。研究人员称可通过测量长新冠患者体内的酸碱标志物去判断酸碱失衡。",
+          "link": "https://www.solidot.org/story?sid=74679",
+          "publishedOn": "2023-04-16T10:57:45.000Z",
+          "wordCount": 143,
+          "title": "研究人员认为长新冠与酸碱失衡相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74678",
+          "author": null,
+          "description": "亲历 Linux 诞生的芬兰自由软件开发者 Lars Wirzenius 回顾了 Linux 的早期历史。他是在 1988 年秋天进入赫尔辛基大学主修计算机科学专业，与 Linus Torvalds 是同学，学完一年之后去服了一年兵役，重返大学之后开始学 C 和 UNIX，两人热情的讨论了操作系统应该如何正确构建，都是初生牛犊不怕虎。1991 年 1 月 Linus 购买了第一台组装机，配备了 386 CPU，有 4MB 内存，Linus 还买了游戏《波斯王子》，之后疯玩了几个月。游戏通关之后，Linus 开始学 Intel 汇编语言，开始给我们今天所知的 Linux 内核写早期代码，Lars Wirzenius 也帮助实现了一个 sprintf() 函数。Linus 不断给内核加入新功能。到了 1991 年 8 月，Linus 在 comp.os.minix 新闻组里首次公开宣布了新内核，谦虚的表示“仅仅是个人爱好，不会像 GNU 那样完善、专业”。Linus 自己的 PC 被用于开发 Linux，而 Lars 的 PC 则是第一台安装 Linux 的电脑。Linux 的第一个版本使用了禁止商业使用的许可证，部分早期参与者建议改到自由软件许可证。1991 年秋天 RMS 访问了芬兰，Lars 带着 Linus 参加了 RMS 的演讲。这些经历最终说服 Linus 在 1992 年初采用了 GNU GPL 许可证。",
+          "link": "https://www.solidot.org/story?sid=74678",
+          "publishedOn": "2023-04-16T05:40:48.000Z",
+          "wordCount": 215,
+          "title": "Linux 的早期历史",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74677",
           "author": null,
@@ -867,116 +897,6 @@
           "wordCount": 174,
           "title": "Twitter 限制 Substack 链接",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74607",
-          "author": null,
-          "description": "面临俄罗斯限制天然气出口的欧盟去年 8 月制定了一个目标：冬季减少 15% 的天然气消费。根据智库 Bruegel 上月底公布的数据，欧盟完成了这个目标。2022 年 12 月初到 2023 年 2 月底的天然气需求比 2019 年和 2021 年同期平均水平低 16%。是因为暖冬的原因？统计模型显示，暖冬能解释三分之一的天然气需求下降。在剔除了天气因素之后，欧洲国家仍然减少了 12% 的天然气消费。荷兰、英国和德国最多：荷兰人均天然气使用量减少 24%，英国减少 18%，德国减少 7%。削减天然气使用的一个重要原因是费用上涨，促使家庭和企业减少能源消耗，部分企业转而使用石油，改进能效也使得天然气使用减少 1.2%。",
-          "link": "https://www.solidot.org/story?sid=74607",
-          "publishedOn": "2023-04-07T14:09:48.000Z",
-          "wordCount": 166,
-          "title": "欧洲去年冬天大幅削减了能源消耗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74606",
-          "author": null,
-          "description": "法学教授 Jonathan Turley 发现自己被 ChatGPT 列入了性骚扰名单，澳大利亚一位市长发现 ChatGPT 声称他有贿赂罪被判处监禁，为什么 AI 聊天机器人 ChatGPT 和 Bing Chat 擅长捏造故事？AI 研究人员通常将此类错误称为“幻觉（hallucinations）”，一部分人认为这个形容词太拟人化了，暗示了它们能自己做决定。商业大语言模型的创造者可能会以此为借口将错误输出归罪于模型本身而不是他们自己。“虚构”可能是更恰当的比喻。在人类心理学中，记忆出现空白，在无意欺骗他人时大脑会虚构出空白部分。ChatGPT 与人脑的工作原理不同，但虚构是更合适的比喻。ChatGPT 事实上已经比它的前辈能更有效的抑制虚构了。这种虚构能力与大语言模型的工作方式相关。ChatGPT 等模型是根据统计概率挑选出一个适合上下文的词，当它寻找其数据集中不存在的信息时，它会用看似合理的词贴补空白。它是使用海量的数据集训练的，编造虚构故事对其而言就是信手拈来，它还能根据上下文让虚构的故事看起来逼真。AI 研究人员使用名叫 temperature（温度）的属性去控制模型的这种胡编乱造的“创造性”。如果它的值设置过低的话准确度会提高但会变得不太有趣。平衡创造性和准确度是微调 ChatGPT 之类模型的一大挑战。AI 公司 Hugging Face 的首席伦理科学家 Margaret Mitchel 说，ChatGPT 不是构建去实事求是，因此也不会实事求是。就是这么简单。",
-          "link": "https://www.solidot.org/story?sid=74606",
-          "publishedOn": "2023-04-07T13:33:47.000Z",
-          "wordCount": 187,
-          "title": "ChatGPT 和 Bing Chat 为何擅长捏造故事？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74605",
-          "author": null,
-          "description": "从 2019 年到至少 2022 年年中，特斯拉员工使用内部消息系统分享了来自客户汽车摄像头拍摄的私密图像和视频。虽然特斯拉坚称车载摄像头设计保护客户的隐私，但实际上员工很容易获得摄像头拍摄的视频并自由与其他员工分享。一则视频显示一名赤身裸体的男性走近汽车；一则车祸视频显示汽车在居民区高速行驶撞上了骑着自行车的儿童；一名前员工报告看到了亲密但非裸体的情景；另一名前员工表示可以看到私家车库和私人财产；甚至马斯克（Elon Musk）本人的车库内视频也在员工之间分享，其中包含马斯克在 2013 年拍卖到的 007 电影道具车，但不清楚马斯克是否知道此事，他没有对这一报道置评。",
-          "link": "https://www.solidot.org/story?sid=74605",
-          "publishedOn": "2023-04-07T11:49:22.000Z",
-          "wordCount": 150,
-          "title": "特斯拉员工是在内部分享客户的私密图像",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74604",
-          "author": null,
-          "description": "根据发表在《自然》上的一项研究，如果暴露在 PM2.5 细颗粒物中，被普遍认为是肺癌原因的特定基因变异会受到影响，导致形成癌症的速度加快。英国研究人员主要研究了携带 EGFR 基因变异的肺癌患者，此类变异在从未吸烟的肺癌患者中更常见。在加拿大进行的跟踪调查中，暴露在包括 PM2.5 在内的大气污染物质中 3 年的人，肺癌发生率高达 73%，而污染浓度较低环境下则为 40%。在发生 EGFR 基因变异的小鼠实验中，PM2.5 进入肺部后免疫细胞涌入肺部，释放出名为“白细胞介素-1β”的引发炎症的物质，加速细胞癌变。如果过药物阻断该物质的作用，则能阻止癌症的发展。",
-          "link": "https://www.solidot.org/story?sid=74604",
-          "publishedOn": "2023-04-07T10:43:29.000Z",
-          "wordCount": 159,
-          "title": "PM2.5 颗粒可能会导致肺癌恶化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74603",
-          "author": null,
-          "description": "一颗流浪黑洞在宇宙中乱穿，留下的气体形成了新生的恒星。天文学家是无意中在哈勃拍摄的图像中发现这个看不见的怪物留下的痕迹。他们最初以为是宇宙射线留下的“伪影”，但在消除之后发现它仍然存在。进一步分析发现这是一个长达 20 万光年的年轻恒星带。天文学家认为这颗流浪黑洞是因为三个超大质量黑洞合并而导致其中之一被驱逐出去。首先是两个星系合并，两个超大质量黑洞在中心相遇形成了双子黑洞，然后第三个星系加入了进来，它也有一个超大质量黑洞，三个黑洞引发的混乱和不稳定性导致了其中之一被甩出。天文学家将使用 NASA 的韦伯望远镜和钱德勒 X 射线天文台对其进行后续观察，确认黑洞假说。",
-          "link": "https://www.solidot.org/story?sid=74603",
-          "publishedOn": "2023-04-07T10:03:31.000Z",
-          "wordCount": 147,
-          "title": "哈勃观察到流浪黑洞留下的新生恒星尾迹",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74602",
-          "author": null,
-          "description": "印度修订了 IT 法，禁止 Facebook、Twitter 等社交媒体公司发布、托管和分享政府任何事务的虚假信息，要求社交媒体使用政府的事实核查确定任何声明的真实性。最新的规定也影响 Jio 和 Airte 等 ISP，未遵守的公司可能会失去安全港保护。批评者表示，该规定赋予了政府事实核查部门任意的和过度的权力去判断在线内容的真实性，绕过了自然正义原则。",
-          "link": "https://www.solidot.org/story?sid=74602",
-          "publishedOn": "2023-04-07T08:53:12.000Z",
-          "wordCount": 150,
-          "title": "印度要求社交媒体使用政府的事实核查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74601",
-          "author": null,
-          "description": "微软宣布 MS Edge 成为第一个也是目前唯一一个整合 AI 图像生成器的浏览器。微软表示 Edge 用户可以通过侧边栏的“+”按钮访问其 AI 图像生成器 Image Creator——目前该功能尚未提供给中国大陆的用户。Image Creator 是基于 OpenAI 最新的 DALL∙E 模型，用户可通过文字描述生成各种风格的图像。",
-          "link": "https://www.solidot.org/story?sid=74601",
-          "publishedOn": "2023-04-07T08:20:29.000Z",
-          "wordCount": 170,
-          "title": "Edge 整合 AI 图像生成器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74600",
-          "author": null,
-          "description": "武汉华南海鲜批发市场被广泛认为是新冠最初爆发的中心。中国疾控中心的研究人员在本周出版的《自然》期刊上发表了 2020 年 1 月从该市场收集的逾千样本的基因组分析。研究人员声称从采集的 73 个环境样本中检测出了新冠病毒，但没有从动物样本中发现病毒，因此主张病毒是通过人类或冷冻食品带到该市场的。但这项分析被认为存在缺陷，因为样本包含明显不存在该市场的动物，其中包括大熊猫、黑猩猩和大西洋灰海豹。",
-          "link": "https://www.solidot.org/story?sid=74600",
-          "publishedOn": "2023-04-07T07:24:00.000Z",
-          "wordCount": 147,
-          "title": "武汉华南海鲜市场样本中包含大熊猫基因",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74599",
-          "author": null,
-          "description": "Google 宣布 Chrome 的下一个版本 v113 将支持 WebGPU API。WebGPU 为 Web 提供了下一代高性能图形 API，允许在 GPU 上执行渲染和计算操作，类似 Direct3D 12、Metal 和 Vulkan。与现有的源自 OpenGL (ES) 的 WebGL API 不同的是，WebGPU 提供了对更高级的 GPU 功能的访问。Chrome 113 的 WebGPU 支持将只限于 ChromeOS、macOS 和 Windows 三个平台，Linux 发行版的支持要等待今年晚些时候。",
-          "link": "https://www.solidot.org/story?sid=74599",
-          "publishedOn": "2023-04-07T06:57:41.000Z",
-          "wordCount": 188,
-          "title": "Chrome 113 将支持 WebGPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74598",
-          "author": null,
-          "description": "类似信用卡，Google Pay 也有返现促销活动 reward，会向购买特定商品的用户返还少量现金。用户本周报告 Google Pay 出现了 bug，它送给用户的金额最高达到了 1000 美元。Google Play 团队向收到意外之财的客户发去邮件，证实了它遭遇了错误，表示会尝试从用户账号里逆转这笔转账，但如果用户已经消费或转出了这笔意外之财，Google 表示不会追究。",
-          "link": "https://www.solidot.org/story?sid=74598",
-          "publishedOn": "2023-04-07T06:18:43.000Z",
-          "wordCount": 169,
-          "title": "Google Pay 的 Bug 给用户返还了大额现金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74597",
-          "author": null,
-          "description": "桌面平台对内存带宽不特别敏感。桌面办公软件、浏览器甚至游戏，对内存延迟比内存性能更敏感，这是为什么 AMD 认为其 3D V-缓存技术能在游戏上带来巨大收益。服务器和高性能计算任务则极端渴求内存带宽。那么如何提高内存带宽？可以提高时钟频率但有限制，可以在 CPU 上增加更多内存通道但会增加复杂度。可以引入新的内存标准，放宽延迟提高带宽，就像从 DDR2 到 DDR5。还有一种更聪明的方法，发明一种新方式去访问已有的内存——AMD 提出了 HBDIMM，而英特尔提出了 MCR-DIMMs。行业标准组织 JEDEC 已经和 AMD 合作将 HBDIMM 标准化为 MRDIMM。通过在内存和 CPU 之间放置一个多路复用器，MRDIMM 能同时访问两个内存条将数据传输率提高一倍，代价是增加了少许延迟。AMD 公布的一张幻灯片显示，MRDIMMs 能将传输率提高到 17,600 MT/s。",
-          "link": "https://www.solidot.org/story?sid=74597",
-          "publishedOn": "2023-04-06T15:07:34.000Z",
-          "wordCount": 187,
-          "title": "AMD 和 JEDEC 标准化 DDR5 MRDIMM",
-          "imageUrl": null
         }
       ]
     },
@@ -1084,26 +1004,6 @@
           "publishedOn": "2023-04-08T05:55:00.000Z",
           "wordCount": 138,
           "title": "Automated Weekend Sales",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/more-google-heart-onlinetools",
-          "author": null,
-          "description": "More Google <3 for Online Tools this month.\nTraffic open.\nLast month also <3.\nNext month also <3.\nSee you then!",
-          "link": "https://catonmat.net/more-google-heart-onlinetools",
-          "publishedOn": "2023-04-07T13:30:00.000Z",
-          "wordCount": 117,
-          "title": "More Google <3 for OnlineTools.com",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/onlinetools-seo-ranking-update-apr-2023",
-          "author": null,
-          "description": "Google <3 Online Tools. Nice new SEO boost in April. Tools soon top 100 site on the Internet. Compare to: previous month.\nNext SEO ranking update next month. See you then!",
-          "link": "https://catonmat.net/onlinetools-seo-ranking-update-apr-2023",
-          "publishedOn": "2023-04-07T13:30:00.000Z",
-          "wordCount": 126,
-          "title": "OnlineTools.com SEO Ranking Update April 2023",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
