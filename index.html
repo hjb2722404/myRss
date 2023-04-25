@@ -241,6 +241,291 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-24 datetime="2023-04-24T15:24:59.000Z">2023-04-24</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-24 datetime="2023-04-24T15:24:59.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >奇客Solidot–传递最新科技情报</button>
+                  <a class="source-heading__link" href="https://www.solidot.org">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74772"
+                        open
+                      >
+                        <summary class="article-expander__title">亚马逊静静的拥抱开源</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74772">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>在搭乘了开源项目免费便车多年之后，亚马逊拥抱开源革命，开始积极向开源项目贡献代码。以前 AWS 靠  PostgreSQL 赚了很多钱但基本不回报，现在 PostgreSQL 项目的代码递交的页面充斥着 AWS 员工，其中部分人是从 PostgreSQL 代码贡献者转变成受雇于 AWS 专门开发 PostgreSQL 的企业开发者。今天 AWS 是 PostgreSQL 项目排名第三的企业贡献者。这些迹象显示 AWS 正在改变，几年前 AWS 在开源项目上是零贡献，如今情况好多了。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74771"
+                        open
+                      >
+                        <summary class="article-expander__title">当 Windows 用户在恐慌下删除 system32\curl.exe</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74771">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>curl 作者 Daniel Stenberg 说，Windows 10 和 11 自带的 curl 工具包含了一个低危漏洞，该漏洞已经修复了，微软也释出了补丁，但补丁释出前部分用户自行删除了存在漏洞的版本，导致无法更新，他表示 curl 项目对此不负任何责任，有问题找微软。
+Windows 10 和 11 操作系统包含的 curl 工具位于 System32 系统文件夹下，这里面的程序是不能随便删除或替换的。2022 年 12 月 curl 项目报告了一个释放后使用（Use-After-Free）的低危漏洞 CVE-2022-43552，但美国国家漏洞数据库可能是为了督促用户尽快更新而提高了该漏洞的危险等级，将其列为中危漏洞。导致的结果是 2022 年 12 月 21 日之后的某个时间安全扫描工具开始就系统中包含存在漏洞的工具对用户发出警告。这让部分用户恐慌了。他们删除或替换了 C:\Windows\System32\curl.exe。微软在 4 月 11 日的例行安全更新中修复了该漏洞释出了补丁 KB5025221，但那些自行删除系统文件的用户发现 Windows 更新程序拒绝更新。Stenberg 表示 curl 项目对此无能为力。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74770"
+                        open
+                      >
+                        <summary class="article-expander__title">高中教师和他的开源图像数据集</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74770">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>在德国汉堡郊区的一栋房子前，邮箱上涂了一个单词 LAION。LAION 代表 Large-scale AI Open Network，是高中教师 Christoph Schuhmann 的一个业余爱好项目。他在业余时间和一群志愿者建立了世界上最大的开源 AI 数据集。该数据集被 Google Imagen 和 Stable Diffusion 等用于训练文本图像模型。Schuhmann 常去 Discord 上的一个 AI 狂热者聚集的群组，当时 OpenAI 的第一代 DALL-E 模型刚刚发布，他既受鼓舞也感到担忧，担心这可能会鼓励科技巨头不开放数据。他和该群组的成员因此创建了一个开源数据集帮助训练文本图像模型 diffusion。仅仅三个月时间，他们发布了一个包含 4 亿对图像及其文字描述的数据集。今天这个数字超过了 50 亿，是世界最大的免费图像和文字描述数据集。当 Emad Mostaque 在 2022 年创建 Stability AI 时，他使用 LAION 训练了模型 Stable Diffusion，还雇佣了两位该组织的研究人员。一年之后，该公司的估值接近 40 亿美元，很大程度上要感谢 LAION 提供的数据。 Schuhmann 没有从中获得任何收入，他也没有兴趣这么做，他想要保持独立。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74769"
+                        open
+                      >
+                        <summary class="article-expander__title">计算机科学家认为不应神化 AI</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74769">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>计算机科学家 Jaron Lanier 在《纽约客》发表文章《There Is No AI》，提出应停止对人工智能的神化，而将其作为一种创新的社会协作形式来看待。他反对最近呼吁停止训练更高级人工智能的联署信，并再次提出“数据尊严”概念：结束人工智能黑箱，记录比特的来源，“人们可以为他们创造的东西获得报酬，即使这些东西是通过大模型过滤和重新组合的”，“当一个大模型提供有价值的输出时，数据尊严的方法将追踪最独特和有影响力的贡献者。”</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74768"
+                        open
+                      >
+                        <summary class="article-expander__title">英特尔驱动程序 bug 导致  I219-LM Gigabit Ethernet 适配器在特定模式下以六成速率运行</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74768">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>英特尔工程师修复了该公司产品驱动程序中的一个 bug，该 bug 是在 2020 年引入的，会导致 I219-LM Gigabit Ethernet 千兆以太网适配器在特定模式下以六成速率运行。该 bug 仅在 10/100 模式下触发，如果用户运行在 Gigabit 模式下，那么最高速率没有受到影响。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74767"
+                        open
+                      >
+                        <summary class="article-expander__title">比特币不再具有匿名性</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74767">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>比特币使用的分布式账簿区块链虽然不记录身份，但它留下的交易痕迹可以很容易跟踪到真人。交易所币安调查事务负责人的 Matthew Price 说，如今比特币被盗时，罪犯“就像是一个在雪地里抢了银行的人。”他说，罪犯的名字或许没人知道，但数字领域留下的蛛丝马迹，就像雪地上的足迹，仍然可以让当局追查下去。从丝绸之路窃取到五万枚比特币的 James Zhong 是加密货币领域较早的一批玩家，他很长时间里没有动用这些加密货币，直到 2017 年他开始疯狂花钱交朋友，根据法庭收到的一份心理评估报告，Zhong 说过，“他希望这些现金产生的视觉吸引能让一名女性与他发生性关系。他说，这个计划并没有奏效。”</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74766"
+                        open
+                      >
+                        <summary class="article-expander__title">微塑料能进入大脑</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74766">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>根据发表在《纳米材料》期刊上的一项研究，微塑料和纳米塑料颗粒能突破血脑屏障。动物模型研究发现，在摄入两小时后，大脑中就可以检测到微小的聚苯乙烯颗粒。微塑料能通过各种途径进入食物链，从而进入人体，它的潜在环境和健康影响还需要更深入的研究。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74765"
+                        open
+                      >
+                        <summary class="article-expander__title">Linux 6.3 kernel 释出</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74765">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Linus Torvalds 在内核邮件列表上宣布释出 6.3 kernel。主要新特性包括：移除了大量淘汰的 ARM 板文件和驱动，持续改进对 Rust 语言的支持，BPF 程序红黑树，tmpfs 文件系统 ID 映射挂载支持，IPv4 支持 BIG TCP，抖动测量工具 hwnoise，支持不可执行 memfds，等等。更多可浏览  KernelNewbies 6.3。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74764"
+                        open
+                      >
+                        <summary class="article-expander__title">苏丹断网</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74764">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>监视互联网连通性的 Netblocks 报告，苏丹目前处于断网状态，其连通性仅为正常水平的 2%。苏丹在本月早些时候爆发了武装冲突，军方和准军事武装快速支援部队在包括首都喀土穆在内的多个地方进行交火，至今已有至少 420 人死亡 3700 人受伤。苏丹军方称，快速支援部队破坏了喀土穆的电信交换设施，导致了网络中断。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74763"
+                        open
+                      >
+                        <summary class="article-expander__title">科学家创造至今最重的“薛定谔的猫”</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74763">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>科学家已设法让原子或分子同时身处两个位置——所谓“叠加”态，实现了“薛定谔的猫”效应。在一项最新研究中，瑞士苏黎世联邦理工学院（ETH）科学家让一个 16 微克的微小晶体处于两个振荡状态的叠加态，创建了迄今最重“薛定谔的猫”。研究发表在《科学》杂志上，有望催生更大更稳健的量子比特，并用于探测引力波或暗物质等。研究人员此次成功地使用振荡晶体创造出了一种所谓的“薛定谔的猫”，其中振荡晶体代表猫，一个超导电路代表量子比特。量子比特和“猫”之间的联系不是计数器和毒药，而是一层压电材料，晶体在振荡时会改变形状，产生电场。该电场可与量子比特的电场耦合，量子比特的叠加态可转移给晶体，晶体也因此可同时向上及向下振荡，这个重达 16 微克处于叠加态的晶体，也因此成为迄今最重“薛定谔的猫”。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74762"
+                        open
+                      >
+                        <summary class="article-expander__title">盖茨预言 AI 在 18 个月内能教儿童阅读和写作</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74762">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>盖茨（Bill Gates）预言 AI 聊天机器人能在 18 个月内教儿童如何阅读和磨练写作技能。对计算机而言，教学生如何写作是一项十分困难的工作。教师对学生的作文会从叙事结构和清晰度等方面进行反馈，这是一项高级认知的任务，很难在代码中实现。但 AI 聊天机器人改变了这一切。盖茨相信随着 AI 聊天机器人技术的进步，它将能成为学生的私人辅导老师，而大部分学生是请不起家教的，因为家庭教师对他们而言太昂贵了。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74761"
+                        open
+                      >
+                        <summary class="article-expander__title">ARM 将制造自己的芯片</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74761">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>英国芯片设计公司 ARM 准备涉足芯片制造，展示其芯片设计能力。ARM 准备在今年晚些时候 IPO，它需要吸引新客户和推动收入增长。ARM 此前和三星和台积电等公司合作制造过测试芯片，主要是帮助软件开发商熟悉新产品。它在过去半年开发的新芯片将更先进，针对目标是芯片制造商而不是软件开发商。ARM 此举在行业内部引发了担忧，如果它寻求出售其芯片，那么它将与其最主要客户高通和联发科展开直接竞争。ARM 内部人士否认该公司计划出售或授权新芯片，称该公司只是在开发原型。ARM 芯片工程主管此前负责过高通 Snapdragon 芯片的开发。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >小众软件</button>
+                  <a class="source-heading__link" href="https://www.appinn.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.appinn.com/?p&#x3D;45271"
+                        open
+                      >
+                        <summary class="article-expander__title">Virtual DSM – 在 Docker 里安装黑群晖 DSM 7.2 系统</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.appinn.com/kroese-virtual-dsm/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://static1.appinn.com/stwww/wp-content/uploads/2023/04/Virtual-DSM-for-Docker.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Virtual DSM 是一个可以在 Docker 里安装黑群晖的项目，甚至可以在 DSM 中再安装一个 DSM，无限套娃。@Appinn 首先需要明确一下，群晖本身就可以在其系统内虚拟一个 DSM，</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-23 datetime="2023-04-23T13:43:52.000Z">2023-04-23</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-23 datetime="2023-04-23T13:43:52.000Z"></time>
           </button>
@@ -2472,176 +2757,6 @@ It&#x27;s another small step for a ling but one giant leap for ling-kind. See yo
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-15 datetime="2023-04-15T09:53:23.000Z">2023-04-15</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-15 datetime="2023-04-15T09:53:23.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >奇客Solidot–传递最新科技情报</button>
-                  <a class="source-heading__link" href="https://www.solidot.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74677"
-                        open
-                      >
-                        <summary class="article-expander__title">美国蒙大拿州众议院投票全面禁止 TikTok</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74677">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>美国蒙大拿州众议院以 54 比 43 批准了一项在全州范围内禁止 TikTok 的法案，法案将提交给州长 Greg Gianforte 签署。该禁令将于 2024 年 1 月 1 日生效。法案将禁止 TikTok 在该州内运营，也将禁止应用商店在该州内提供 TikTok。该法案将对违反的任何实体处以每次 1 万美元的罚款。目前还不清楚该法案将如何执行。法案的起草者表示，如果 Greg Gianforte 签署该法案，他们预计法律挑战可能最终会上诉到美国最高法院。包括美国公民自由联盟(ACLU)在内的批评者说，该法案相当于审查制度，侵犯了受宪法第一修正案保护的言论自由权。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74676"
-                        open
-                      >
-                        <summary class="article-expander__title">盗窃丝绸之路逾 30 亿美元比特币的男子被判一年零一天</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74676">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>从暗网市场丝绸之路窃取价值逾 30 亿美元比特币的男子 James Zhong 被判一年零一天。32 岁的 Zhong 是在 2012 年 9 月从丝绸之路非法获取了 5 万枚比特币。Zhong 窃取的比特币当时只价值 66 万美元，他是利用快存快取的方式欺骗丝绸之路的提款系统，举例来说，他先向一个丝绸之路钱包储存了 500 比特币，然后在不到 5 秒中执行 5 次 500 比特币提款，他从未在丝绸之路购买任何商品。Zhong 是在 2021 年 11 月被捕的，当时比特币的币值正处于高位，扣押的 5 万多比特币价值 34 亿美元，今天它的币值降到了 15.7 亿美元。Zhong 在去年 11 月认罪，承认电信欺诈，其窃取加密货币资产被没收。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74675"
-                        open
-                      >
-                        <summary class="article-expander__title">Bob Lee 遇刺与凶手妹妹相关</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74675">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>根据周五公开的法庭文件，硅谷高管 Bob Lee 遇刺案件牵连到凶手 Nima Momeni 的妹妹，加上 Momeni 来自伊朗，本案被发现带有某种伊斯兰教的荣誉谋杀意味。Momeni 与 Lee 曾在 4 月 3 日在旧金山的一家旅馆房间内对峙，之前 Lee 与 Momeni 的妹妹等人一起喝过酒，Momeni 质问 Lee 他的妹妹是否嗑药或其他任何不得体的行为，Lee 告诉他没有任何不得体的事情发生。监控录像显示 Momeni 当晚去了他妹妹的家，时间是在 8:30 p.m 左右，Lee 在 12:30 a.m 左右抵达，两人于凌晨 2 a.m 左右一起乘坐 Momeni 的宝马汽车离开。汽车开到一个偏僻的地方之后两人一起下车，大约五分钟后 Momeni 突然对 Lee 动手，刺了他三下，随后迅速驾车离开。Momeni 的妹妹已婚，她发信息给 Lee 询问他是否一切还好。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2023-04-14 datetime="2023-04-14T16:05:09.000Z">2023-04-14</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2023-04-14 datetime="2023-04-14T16:05:09.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >奇客Solidot–传递最新科技情报</button>
-                  <a class="source-heading__link" href="https://www.solidot.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74674"
-                        open
-                      >
-                        <summary class="article-expander__title">OpenAI CEO 确认该公司目前没有在训练 GPT-5</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74674">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>OpenAI 联合创始人兼 CEO Sam Altman 在讨论 AI 带来的威胁时确认该公司目前没有在训练 GPT-5——GPT-5 是 OpenAI 今年 3 月发布的 GPT-4 的下一代系统。OpenAI 尚未开始训练 GPT-5 并不意味着该公司没有在扩展 GPT-4 的功能。他表示 GPT-4 还有各种安全问题需要解决。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74673"
-                        open
-                      >
-                        <summary class="article-expander__title">ESA 成功发射木星卫星探测器 Juice</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74673">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>4 月 14 日 14:14 CEST，ESA 在法属圭亚那的航天港使用 Ariane 5 火箭成功发射木星卫星探测器 Juice。探测器旨在确定木星三颗存在地下海洋的卫星 Ganymede（木卫三）、Callisto（木卫四） 和 Europa（木卫二） 是否能维持生命。Juice 代表 Jupiter Icy Moons Explorer，它将于 2031 年 7 月抵达木星轨道，2034 年 12 月进入木卫三 Ganymede 的轨道，成为第一艘环绕地球以外卫星的飞船。Ganymede 是木星最大的卫星，也是太阳系最大的卫星，是唯一有磁圈的卫星。Juice 将利用其搭载的探测器获取卫星地下海洋的信息。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.solidot.org/story?sid&#x3D;74672"
-                        open
-                      >
-                        <summary class="article-expander__title">中国计划大幅削减火箭发射费用以迎接 SpaceX 的挑战</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.solidot.org/story?sid&#x3D;74672">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>中国计划大幅削减火箭发射费用以迎接 SpaceX 可复用火箭带来的挑战。长征火箭目前将载荷发射到地球轨道的费用大约为每公斤 3000 美元。相比下 NASA 航天飞机发射每公斤载荷的费用超过 6 万美元。但 SpaceX 的 Falcon 9 火箭通过重复利用第一级已经将发射费用降低到与长征火箭相似的水平。SpaceX 的新火箭 Starship Super Heavy 预计还将会进一步降低发射费用。马斯克（Elon Musk）声称 Starship 能将发射费用降至每公斤 10 美元，许多人相信这是夸大之词，但认为它能将发射费用降至每公斤数百美元。中国正在开发新型可复用发射载具，当局希望能重复使用百次以上，每千次飞行的失败率低于 3 次，将有效载荷发射费用降至每公斤 150 美元，保持对 SpaceX 的价格竞争力。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-11-11 datetime="2022-11-11T00:19:59.000Z">2022-11-11</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-11-11 datetime="2022-11-11T00:19:59.000Z"></time>
           </button>
@@ -2970,8 +3085,8 @@ export default function Router ({ routes }) {
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/hjb2722404/myRss/actions/runs/4781874644">
-        <time id="build-timestamp" datetime="2023-04-24T02:30:37.119Z">2023-04-24T02:30:37.119Z</time>
+      <a class="footer-link" href="https://github.com/hjb2722404/myRss/actions/runs/4793046093">
+        <time id="build-timestamp" datetime="2023-04-25T02:29:22.423Z">2023-04-25T02:29:22.423Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
