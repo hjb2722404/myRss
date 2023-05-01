@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45308",
+          "author": "青小蛙",
+          "description": "cc caption automatic translator 是一个油猴脚本，用来自动翻译视频 CC 字幕，支持多语言互相翻译，需要百度翻译 API。@Appinn 来自发现频道，@NeverWin",
+          "link": "https://www.appinn.com/cc-caption-automatic-translator/",
+          "publishedOn": "2023-04-30T14:45:50.000Z",
+          "wordCount": 2620,
+          "title": "自动翻译视频 CC 字幕[油猴脚本]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/04/cc-caption-automatic-translator.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45305",
           "author": "青小蛙",
           "description": "CTFever 是一个为 CTFer 和所有人准备的在线实用工具箱，提供 pyc 反编译、binwalk、端口扫描、Zip 伪加密检测，以及多种加密、编码和各种实用工具。@Appinn 来自发现频道，",
@@ -120,26 +130,6 @@
           "wordCount": 2518,
           "title": "把数据喂给 ChatGPT，做了一个[中国法律 AI 助手]",
           "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/law-cn-ai.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45252",
-          "author": "青小蛙",
-          "description": "AlDente 是一款 macOS 下著名的电池管理工具，它可以限制 MacBook 电池的最大充电百分比，让你的电脑在插着电源的情况下，不充满电，以延长电池寿命。电池很辛苦，请好好对它。@Appin",
-          "link": "https://www.appinn.com/aldente-pro/",
-          "publishedOn": "2023-04-21T09:12:46.000Z",
-          "wordCount": 2560,
-          "title": "电池很辛苦，请好好对它。那个可以延长 Mac 电池寿命的 AlDente Pro 来了",
-          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/AlDente-Pro.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45247",
-          "author": "青小蛙",
-          "description": "简明字帖 是一个简单的网页服务，提供了可打印、带笔顺的练字字帖，并内置了人教版、苏教版、北师大版小学语文生字，方便使用。另外也有拼音、数字、字母字帖。@Appinn 来自发现频道，感谢 @hulkde",
-          "link": "https://www.appinn.com/jianmingzitie/",
-          "publishedOn": "2023-04-21T07:46:44.000Z",
-          "wordCount": 2484,
-          "title": "简明字帖 – 带笔顺的练字字帖，内置人教版、苏教版、北师大版小学语文生字简明字帖，可打印",
-          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/jianmingzitie.jpgo_.jpg"
         }
       ]
     },
@@ -188,6 +178,16 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74832",
+          "author": null,
+          "description": "网信办工信部等发布通知，要求加速部署 IPv6，目标是到 2023 年末，IPv6 活跃用户数达到 7.5 亿，物联网 IPv6 连接数达到 3 亿，固定网络 IPv6 流量占比达到 15%，移动网络 IPv6 流量占比达到 55%。网信办去年发布了类似的通知，要求到 2022 年末，IPv6 活跃用户数达到 7 亿，物联网 IPv6 连接数达到 1.8 亿，固定网络 IPv6 流量占比达到 13%，移动网络 IPv6 流量占比达到 45%...国内主要商业网站及移动互联网应用 IPv6 支持率达到 85%...但目标明显没有达成。根据 Akamai 的 IPv6 普及率报告，到 2023 年 4 月中国的 IPv6 普及率为 23.3%。",
+          "link": "https://www.solidot.org/story?sid=74832",
+          "publishedOn": "2023-04-30T14:11:48.000Z",
+          "wordCount": 191,
+          "title": "网信办要求加速普及 IPv6",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74831",
           "author": null,
@@ -1087,126 +1087,6 @@
           "wordCount": 187,
           "title": "ChatGPT 每日运营成本超过 70 万美元",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74741",
-          "author": null,
-          "description": "利用一部诺基亚 3310 手机，没有多少技术经验的小偷可以在 15 秒内盗走一辆丰田陆地巡洋舰。这种新型的汽车盗窃案正在美国各地扩散，导致的一个结果是诺基亚 3310 手机的价格飙升到了 3000-4000 美元。这种攻击技术可用于盗窃豪车如玛莎拉蒂和雷克萨斯。研究人员将其称为 CAN (controller area network 或控制器区域网络)注入攻击，其工作原理是发送伪造的汽车智能钥匙接收器信息，核心原因是汽车没有对信息进行验证。丰田发言人在一份声明中表示正与执法部门和专家合作解决该问题。",
-          "link": "https://www.solidot.org/story?sid=74741",
-          "publishedOn": "2023-04-21T14:18:51.000Z",
-          "wordCount": 154,
-          "title": "盗车贼用旧诺基亚手机盗车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74740",
-          "author": null,
-          "description": "Twitter 大约 40 万认证用户的旧蓝色勾选标记将从 4 月 20 日起消失，除非他们以每月 8 美元（美国）/9.6 英镑（英国）/13 澳元（澳大利亚）订阅 Twitter Blue 服务。有几位名人公开表示拒绝支付订阅费，其中之一是 NBA 球星 LeBron James 和著名作家 Stephen King。然而到了 4 月 21 日，James 和 King 的蓝色勾选标记仍然保留着，King 明确表示他没有付钱。Twitter 老板马斯克（Elon Musk）则宣称他个人掏钱给几位名人订阅了 Twitter Blue。报道称，一名 Twitter 员工给 James 发邮件说代表马斯克为其账号 @kingjames 免费订阅 Twitter Blue。",
-          "link": "https://www.solidot.org/story?sid=74740",
-          "publishedOn": "2023-04-21T13:29:50.000Z",
-          "wordCount": 190,
-          "title": "马斯克声称他自己掏钱给几位名人订阅了 Twitter Blue",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74739",
-          "author": null,
-          "description": "美国有一项特殊的汽车进口规定：允许进口车龄超过 25 年不符合安全监管等规定的汽车。该规定原本是针对古董汽车收藏，但如今它被用于填补美国的市场空白。美国市场缺乏小型皮卡之类能在窄小空间进出的汽车。汽车经销商正利用该规定小规模进口来自日本的小型皮卡。一家公司过去几年售出了 300 多辆，相当抢手，很多人认为它比福特公司售价 8.5 万美元的大型皮卡 F250 更有用。随着对此类汽车需求的上涨，部分人担心该规则的漏洞会被堵上。",
-          "link": "https://www.solidot.org/story?sid=74739",
-          "publishedOn": "2023-04-21T11:18:00.000Z",
-          "wordCount": 149,
-          "title": "美国农民进口小型日本皮卡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74738",
-          "author": null,
-          "description": "Canonical 释出了代号为 Lunar Lobster 的 Ubuntu 23.04。主要新特性包括：新的安装程序，统一了服务器版和桌面版的安装引擎，UI 使用了全新的用户界面；GNOME 4；Ubuntu Desktop 成为首个支持 Azure Active Directory 用户认证的 Linux 桌面；Python、Java、Go、C、C++、Rust 等语言的最新工具链和运行时，支持 armhf、arm64、RISC-V 和 s390x 等不同 CPU 架构；Firefox 111，LibreOffice 7.5.2，支持 RISC-V，Thunderbird 102.10，等等。",
-          "link": "https://www.solidot.org/story?sid=74738",
-          "publishedOn": "2023-04-21T09:48:57.000Z",
-          "wordCount": 180,
-          "title": "Ubuntu 23.04 (Lunar Lobster)释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74737",
-          "author": null,
-          "description": "加密邮件服务商 Proton 发布了它的端对端加密密码管理器 Proton Pass，目前是 beta 测试版，只提供给其 Lifetime 和 Visionary 用户，未来会免费提供给所有用户。类似 Proton 的其它产品，Proton Pass 使用了 E2EE（end-to-end encryption），包括 Proton 公司在内的任何第三方都不会知道你的个人信息。除了存储用户名、密码和备注外，Proton Pass 还可以生成电邮别名地址去替代真正的地址。E2EE 不仅仅限于密码，还包括用户名、网址以及与登录信息相关的所有字段。所有的加密操作都在用户的本地进行，Proton 也无法解密。",
-          "link": "https://www.solidot.org/story?sid=74737",
-          "publishedOn": "2023-04-21T09:19:56.000Z",
-          "wordCount": 167,
-          "title": "Proton 发布端对端加密密码管理器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74736",
-          "author": null,
-          "description": "华为宣布用自己开发的 ERP 系统 MetaERP 取代了甲骨文的产品。华为最早引入了 MRP Ⅱ，之后迭代升级 ERP 版本。华为在新闻稿中表示，“2019 年，面对外部环境的压力和自身业务挑战，华为决定启动对旧有ERP系统替换，并开启研发自主可控的MetaERP系统。作为华为有史以来牵涉面最广、复杂性最高的项目，三年来，华为投入数千人，联合产业伙伴和生态伙伴攻坚克难，研发出面向未来的超大规模云原生的 MetaERP，并成功完成对旧有ERP系统的替换。截至目前，MetaERP 已经覆盖了华为公司 100% 的业务场景和 80% 的业务量...”",
-          "link": "https://www.solidot.org/story?sid=74736",
-          "publishedOn": "2023-04-21T07:35:17.000Z",
-          "wordCount": 165,
-          "title": "华为用自己开发的 ERP 系统取代了甲骨文的产品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74735",
-          "author": null,
-          "description": "当苹果向一家血氧检测设备公司的创始人 Joe Kiani 伸出橄榄枝时，这听起来像是一种梦幻般的合作。他认为自己公司的技术与苹果手表完美适配。与他会面后不久，苹果开始从他的公司挖走员工，包括几名工程师和该公司首席医疗官。苹果随后推出了一款可以测量血氧水平的手表。“当苹果公司对一家公司产生兴趣时，那就是死亡之吻，”Kiani 说。有 20 多名高管、发明者、投资者和律师讲述了与苹果打交道的类似经历，Kiani 只是其中之一。他们说，起初讨论的是潜在的合作关系或将他们的技术整合到苹果公司的产品中；然后，谈判停止了，苹果推出了自己的类似功能。苹果否认了剽窃指控，表示将在法庭上抗辩。软件开发人员为苹果的此类行为起了一个名字：sherlocking。这个词涉及大约 20 年前的一个类似事件。",
-          "link": "https://www.solidot.org/story?sid=74735",
-          "publishedOn": "2023-04-21T07:08:09.000Z",
-          "wordCount": 150,
-          "title": "苹果被控在合作名义下剽窃对方创意",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74734",
-          "author": null,
-          "description": "我们的骨头不是静止的：在一个被称为骨重塑的过程中，材料在不断地被添加、移除和转移。最近的研究表明，肠道微生物可能通过多种机制影响骨重塑，包括与免疫系统和激素系统的相互作用。微生物也会因为自身的新陈代谢而产生各种分子，其中一些代谢物与负责骨重塑的细胞间接相互作用。对送往国际空间站的啮齿动物的研究发现，肠道微生物群的变化可能与宇航员的骨质流失有关。在国际空间站呆了一个月或更长时间的啮齿动物的微生物群发生了变化，更加多样化，而在太空中大量繁殖的细菌物种可能有助于增加影响骨骼重塑过程的分子的产生。",
-          "link": "https://www.solidot.org/story?sid=74734",
-          "publishedOn": "2023-04-21T06:47:42.000Z",
-          "wordCount": 141,
-          "title": "宇航员的骨质流失可能与微生物群变化有关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74733",
-          "author": null,
-          "description": "中科院大学研究团队利用机器学习的方法，获得了郭守敬望远镜(LAMOST)和美国 APOGEE 巡天中超过 25 万颗银河系亮红巨星的高精度距离，并利用该样本精确测量了距离银河系中心 1.6 万光年至 8.1 万光年范围内的银河系旋转曲线，成为目前该范围内最精确的银河系旋转曲线。基于该旋转曲线，研究团队进一步构建了银河系的质量模型。在该模型中，研究人员估算出的银河系质量约为 8050 亿倍太阳质量，太阳邻域的暗物质密度约为 0.39±0.03 GeV cm^（-3）。 研究报告发表在《天体物理学报》上。",
-          "link": "https://www.solidot.org/story?sid=74733",
-          "publishedOn": "2023-04-21T06:14:53.000Z",
-          "wordCount": 157,
-          "title": "天文学家估计银河系的质量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74732",
-          "author": null,
-          "description": "Google 重组了旗下的 AI 研究部门，将 Google 研究院的 Google Brain 团队与英国的 DeepMind 团队合并统一为 Google DeepMind。Google 在 AI 研究领域一直走在世界前列，但产品化严重滞后，将事实上的领先优势拱手让给了竞争对手。新成立的 Google DeepMind 将与 Google 的其它产品和服务紧密合作，它还将成为一个科学委员会，由 DeepMind 研究副总裁 Koray Kavukcuoglu 领导，将监督该部门的研究进展和方向。Google 研究院产品副总裁 Eli Collins 将加入 Google DeepMind 担任产品副总裁，原 Google Brain 负责人 Zoubin Ghahramani 将成为研究领导团队成员，向 Kavukcuoglu 汇报。",
-          "link": "https://www.solidot.org/story?sid=74732",
-          "publishedOn": "2023-04-21T03:29:02.000Z",
-          "wordCount": 193,
-          "title": "Google 重组 AI 研究部门",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74731",
-          "author": null,
-          "description": "国家传染病医学中心（上海）主任、复旦大学附属华山医院感染科主任张文宏教授建议脆弱人群再次接种新冠疫苗。他介绍，数据显示，如果新冠病毒发生变异，6 个月后会慢慢出现二次感染，一般规模不大，但如果下一波病毒的变异有效突破了人体为对抗前一波病毒而形成的免疫屏障，第二波就会形成感染高峰。他表示，应对新冠二次感染，需关注脆弱人群，不断地监测、预警，做好药物储备，对任何变异株的到来做出快速反应。张文宏引用美国传染病专家福奇的话称，“新冠病毒会找到每一个人。当群体免疫的屏障建立起来后，新冠病毒会去寻找尚未建立起免疫屏障的人。所以第一波感染控制较好的国家，第二波感染的峰值就会比较高。”",
-          "link": "https://www.solidot.org/story?sid=74731",
-          "publishedOn": "2023-04-20T14:57:24.000Z",
-          "wordCount": 142,
-          "title": "张文宏建议脆弱人群再次接种新冠疫苗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74730",
-          "author": null,
-          "description": "SpaceX Starship 完成了首次轨道飞行测试，但测试不太成功或者说不太理想。火箭助推器没有按计划分离，之后持续翻滚，在起飞 4 分钟后爆炸，残骸坠落在墨西哥湾。按照计划，太空船在分离之后将环绕世界飞行，在夏威夷附近坠入太平洋。Starship 是 SpaceX 至今建造的最强大火箭，设计可完全重复使用，火箭第一级使用了 33 个使用甲烷燃料的猛禽引擎，它能将一百吨重的有效载荷送到月球甚至火星。",
-          "link": "https://www.solidot.org/story?sid=74730",
-          "publishedOn": "2023-04-20T14:39:21.000Z",
-          "wordCount": 158,
-          "title": "SpaceX Starship 完成首次轨道飞行测试",
-          "imageUrl": null
         }
       ]
     },
@@ -1277,6 +1157,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/paid-plans-for-unicode-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast month we launched paid plans for Number Tools and today we're launching paid plans for our next most popular tool category – Unicode Tools. Unicode tools are used by 40,000 people every month and they let you find Unicode code points, convert Unicode to UTF-8, UTF-16, and UTF-32 encodings, extract graphemes, and much more.\n\n\nNext, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.\nFrom technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.\nYou can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.\nSee you next time!",
+          "link": "https://catonmat.net/paid-plans-for-unicode-tools",
+          "publishedOn": "2023-04-30T07:11:00.000Z",
+          "wordCount": 258,
+          "title": "Announcing paid plans for Unicode tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/10-new-text-tools",
           "author": null,
           "description": "Team Browserling keeps shipping!\nFour weeks ago we added 50 new text tool.\nThree weeks ago we added 20 more tools.\nTwo weeks ago we added 15 more text tools.\nLast week we added another 15 text tools.\nAnd today we just added another 10 tools  to our Online Text Tools collection.\nHere are the new text tools.\nScramble Words in Text\nSwap Adjacent Words in Text\nErase Letters from Words\nErase Words from Text\nDuplicate Sentences in Text\nRemove Sentences from Text\nGenerate Fake Text\nUnfake Text\nCheck if Text is Fake\nConvert Text to URL Slug\nNext week we'll add even more tools. See you then!",
@@ -1284,16 +1174,6 @@
           "publishedOn": "2023-04-26T11:00:00.000Z",
           "wordCount": 206,
           "title": "We've added 10 new text tools",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/sedo-browserling-customer",
-          "author": null,
-          "description": "TLDR: Success!\nIt's another small step for a ling but one giant leap for ling-kind. See you next time!",
-          "link": "https://catonmat.net/sedo-browserling-customer",
-          "publishedOn": "2023-04-20T18:10:00.000Z",
-          "wordCount": 113,
-          "title": "Sedo is now a Browserling customer!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
