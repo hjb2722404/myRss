@@ -130,16 +130,6 @@
           "wordCount": 2899,
           "title": "Virtual DSM – 在 Docker 里安装黑群晖 DSM 7.2 系统",
           "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/Virtual-DSM-for-Docker.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45248",
-          "author": "青小蛙",
-          "description": "一生足迹是一款能在 iPhone 后台自动记录每日地理位置轨迹的应用，省电，无干扰，用来数字化你的个人轨迹，并且可以生成个性化地图，还能将带有轨迹的地图当作壁纸。@Appinn 经常在问题频道收到类似",
-          "link": "https://www.appinn.com/yishengzuji-for-iphone/",
-          "publishedOn": "2023-04-23T08:02:37.000Z",
-          "wordCount": 2562,
-          "title": "一生足迹 – 省电、后台、自动，记录位置轨迹[iPhone]",
-          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/yishengzuji.jpgo_.jpg"
         }
       ]
     },
@@ -170,24 +160,53 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10813",
-          "author": "张 鑫旭",
-          "description": "Codeium官方说自己哪哪都比GitHub Copilot强，我倒要看看，Codeium究竟是吹牛，还是真的深藏不露。",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/04/ai-code-tool-codeium-github-copilot/",
-          "publishedOn": "2023-04-23T13:43:52.000Z",
-          "wordCount": 1312,
-          "title": "AI代码辅助工具codeium和copilot在前端表现对比",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74843",
+          "author": null,
+          "description": "Windows 11 新预览版包含了两个引人注目的新特性：内核整合了用 Rust 语言写的库，以及默认文件系统用 ReFS 取代 NTFS。ReFS 代表 Resilient File System，于 2012 年发布，但只支持企业级操作系统如 Windows Server，此前不支持消费者版本，它在很多方面都优于 1993 年发布的 NTFS（New Technology File System），包括自动完整性检查和数据清理、避免需要运行 chkdsk、内置硬盘驱动器故障和冗余的处理、集成 RAID 功能等等。它将在未来几个月提供给 Windows 11 用户。",
+          "link": "https://www.solidot.org/story?sid=74843",
+          "publishedOn": "2023-05-02T15:00:35.000Z",
+          "wordCount": 188,
+          "title": "Windows 11 默认文件系统将用 ReFS 取代 NTFS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74842",
+          "author": null,
+          "description": "Debian 项目宣布代号为 Bookworm 的下一个版本将于 6 月 10 日发布。Debian 发行版大约每两年发布一个大版本，上一个版本 Debian 11 Bullseye 在 2021 年 8 月发布。Debian 12 的软冻结是在 2023 年 2 月 17 日 ，意味着除了修正不会再添加或移除新的软件包。完全冻结定在 5 月 24 日，从那时起如果新软件包需要进入 Bookworm 将需要发布团队的批准，在正式发布前将只考虑紧急的 bug 修正。",
+          "link": "https://www.solidot.org/story?sid=74842",
+          "publishedOn": "2023-05-02T14:07:50.000Z",
+          "wordCount": 202,
+          "title": "Debian 12 Bookworm 将于 6 月 10 日发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74841",
+          "author": null,
+          "description": "IBM CEO Arvind Krishna 接受彭博社采访时表示，该公司将暂停招聘未来几年可被 AI 取代的约 7800 个岗位。Krishna 称将放缓或暂停招聘非面向客户的职位如 HR，他表示在五年内 30% 非面向客户的岗位可能被 AI 和自动化取代。OpenAI的 AI 聊天机器人 ChatGPT 自去年 11 月推出之后引发了 AI 能取代白领工作的猜想。",
+          "link": "https://www.solidot.org/story?sid=74841",
+          "publishedOn": "2023-05-02T09:51:58.000Z",
+          "wordCount": 186,
+          "title": "IBM 将暂停招聘可被 AI 取代的 7800 个岗位",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74840",
+          "author": null,
+          "description": "在美国犹他州通过法律要求成人网站验证用户年龄之后，Pornhub 屏蔽了该州居民的访问。从现在起，任何从犹他州 IP 地址访问 Pornhub 的用户会看到一则成人演员 Advocacy Committee 的视频，解释为什么他们无法正常访问网站，称犹他州民选官员的身份验证要求会带来隐私风险，现有的身份验证方案都存在缺陷，在没有找到真正有效的身份验证方法前，Pornhub 只能完全屏蔽犹他州居民的访问。犹他州的成人网站身份验证法案于 5 月 2 日生效。",
+          "link": "https://www.solidot.org/story?sid=74840",
+          "publishedOn": "2023-05-02T09:29:12.000Z",
+          "wordCount": 158,
+          "title": "Pornhub 屏蔽犹他州居民访问网站",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74839",
           "author": null,
@@ -976,126 +995,6 @@
           "publishedOn": "2023-04-24T02:16:03.000Z",
           "wordCount": 155,
           "title": "ARM 将制造自己的芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74760",
-          "author": null,
-          "description": "微星显卡超频工具 MSI Afterburner 释出了 v4.6.5，上一个版本 v4.6.4 还是在 2021 年 12 月释出的。MSI Afterburner 被用于显卡的监控、超频和降压，新版本加入了对英伟达 RTX 4000 系列和 AMD RX 7000 系列显卡的支持，以及对英特尔 Arc 显卡的部分支持（支持监控不支持超频和调优）。MSI Afterburner 由俄罗斯开发者 Alexey 'Unwinder' Nicolaychuk 开发，今年 1 月他表示因为战争和政治原因，项目半放弃了，微星已经近一年时间没有履行软件的许可协议——即支付开发费用。他说，过去 11 个月 MSI Afterburner 的开发还在继续，但他个人感觉是在一个微星公司不需要的东西上浪费时间，如果有空闲时间他可能会继续支持它，但为了支付账单他需要做其它事情。微星证实，由于俄罗斯对乌克兰的战争，它停止了付款。但对于是否将放弃 MSI Afterburner，微星有不同观点，它有意继续支持该工具，正在研究解决方案。新版本的发布意味着他们找到了解决方案。",
-          "link": "https://www.solidot.org/story?sid=74760",
-          "publishedOn": "2023-04-23T12:44:10.000Z",
-          "wordCount": 185,
-          "title": "MSI Afterburner 时隔一年多发布新版",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74759",
-          "author": null,
-          "description": "睡眠障碍可能是阿尔茨海默病的早期征兆。许多最终被诊断为阿尔茨海默氏症的人，在出现记忆力丧失和思维混乱等认知问题之前，就开始出现跌倒和睡眠困难的症状。这是一个恶性循环:阿尔茨海默病涉及到大脑的变化，扰乱睡眠，而睡眠不足会加速大脑的有害变化。圣路易斯华盛顿大学医学院的研究人员已经找到了一种可能的方法来帮助打破这种循环。一项为期两晚的小型研究表明，睡前服用安眠药的人，阿尔茨海默病关键蛋白质的水平有所下降——这是一个好兆头，因为这种蛋白质的水平越高，疾病就越严重。这项研究涉及一种被称为 suvorexant 的助眠药物，这种药物已经被 FDA 批准用于治疗失眠症，它暗示了睡眠药物减缓或阻止阿尔茨海默病进展的潜力，尽管还需要更多的工作来证实这种方法的可行性。",
-          "link": "https://www.solidot.org/story?sid=74759",
-          "publishedOn": "2023-04-23T10:58:40.000Z",
-          "wordCount": 145,
-          "title": "安眠药降低了阿尔茨海默病关键蛋白质水平",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74758",
-          "author": null,
-          "description": "在 Reddit 之后，编程问答社区 Stack Overflow 也将对科技巨头们使用其数据训练 AI 收费。和 Reddit 类似，Stack Overflow 也有着高质量的问答语料库，它有 2000 万注册用户，5000 万问题和答案。Stack Overflow 的内容所有权属于原作者，采用了 CC BY-SA 授权，也就是使用时要求署名。CEO Prashanth Chandrasekar 称，使用该平台数据集训练大语言模型的公司违反了该许可证，在将模型出售给客户时无法为每一个问题和答案归属，违反了 CC 许可证。无论是  Stack Overflow 或 Reddit 都没有公布收费价格。也许 Twitter 的定价可以作为参考：每月 4.2 万美元。",
-          "link": "https://www.solidot.org/story?sid=74758",
-          "publishedOn": "2023-04-23T10:50:31.000Z",
-          "wordCount": 193,
-          "title": "Stack Overflow 将对使用其数据训练 AI 收费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74757",
-          "author": null,
-          "description": "US Public Interest Research Group (PIRG) 发表报告称 Chromebook 不耐用，认为如果学校采购 Chromebook 是为了节省资金的话，那么其长期费用可能会超过短期节省的费用。举例来说，Chromebook 不利用自行维修，制造商提供的零部件价格昂贵，华硕的键盘售价高达 90 美元，惠普的 Chromebook 11a 售价只有 260 美元，但交流适配器售价 74 美元和电源线售价 58 美元。Google 对于 Chromebook 零部件短缺的解决方案就是让学校购买更多 Chromebook。",
-          "link": "https://www.solidot.org/story?sid=74757",
-          "publishedOn": "2023-04-23T10:28:09.000Z",
-          "wordCount": 171,
-          "title": "Chromebook 不耐用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74756",
-          "author": null,
-          "description": "大气中的二氧化碳正处于人类历史上的最高水平，这被认为对植物是好事，它们能将大气中的碳转换成碳水化合物，因此能生长的更大。但研究发现，可被昆虫和动物食用的植物缺少了营养成分。这种现象被称为营养稀释。有科学家认为这是一个简单的比率问题：碳增加了，但其它微量营养元素没有变化。其他科学家认为问题要更复杂。这种营养稀释可能会导致广泛的问题，其中一个结果是食草昆虫的数量出现大幅下降。北美蚱蜢的数量在 20 年里减少了大约三分之一。二氧化碳浓度的上升正以各种方式影响地球。",
-          "link": "https://www.solidot.org/story?sid=74756",
-          "publishedOn": "2023-04-23T08:43:02.000Z",
-          "wordCount": 143,
-          "title": "更温暖的星球，营养物质更少的植物，更少的昆虫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74755",
-          "author": null,
-          "description": "世界气象组织发布了《2022 年全球气候状况报告》。报告指出，由于吸热温室气体达到了创纪录水平，陆地、海洋和大气发生了全球范围的变化。就全球温度而言，尽管在过去三年拉尼娜事件产生了冷却影响，但 2015-2022 年仍是有记录以来最暖的八年。冰川融化和海平面上升在 2022 年再次达到了创纪录的水平，而且这一趋势还将持续数千年之久。\n\n2022 年的全球平均温度比 1850-1900 年的平均值高出了1.15°C。三种主要的温室气体：二氧化碳、甲烷和一氧化二氮的浓度在 2021 年达到了观测到的最高纪录，2021 年是可获得全球综合值（1984-2021 年）的最近一年。从 2020 年到 2021 年，甲烷浓度的年度增长是有记录以来最高的。特定地点的实时数据显示，这三种温室气体的水平在 2022 年都在继续上升。2021 年 10 月至 2022 年 10 月期间，有长期观测数据的基准冰川经历了平均厚度超过−1.3 米的变化。这一损失比过去十年的平均水平大得多。在有记录的 10 个质量平衡负值最大年份（1950-2022）中，有 6 个发生在 2015 年以后。自 1970 年以来，累积的厚度损失达到了近 30 米。",
-          "link": "https://www.solidot.org/story?sid=74755",
-          "publishedOn": "2023-04-23T07:25:01.000Z",
-          "wordCount": 183,
-          "title": "2015-2022 年是有记录以来最暖的八年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74754",
-          "author": null,
-          "description": "根据发表在《Cell Metabolism》期刊上的一项研究，人类和小鼠的生物年龄（根据正常人体生理学和解剖学的发育状态所推断出来的年龄，表明人体的组织结构和生理功能的实际状态）是流动的，即在应对各种压力时它会迅速增加，但在压力缓解后则可以逆转。不过这些变化发生在几天或几个月相对较短的时间内。论文通信作者表示，“研究结果表明，在一定程度上，影响生物年龄的重要因素是压力。严重的压力会增加生物年龄，从而提高死亡率。这表明，降低生物年龄可以降低死亡率，从压力中恢复的能力可能是长寿的重要决定因素。另一方面，生物年龄可能是评估生理压力及其缓解情况的一个有用参数。”",
-          "link": "https://www.solidot.org/story?sid=74754",
-          "publishedOn": "2023-04-23T07:09:52.000Z",
-          "wordCount": 143,
-          "title": "生物年龄在压力下增加也能通过缓解压力恢复",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74753",
-          "author": null,
-          "description": "美国国土安全部将成立一个特别工作组研究如何使用 AI。国土安全部部长 Alejandro Mayorkas 介绍了如何使用 AI 优化该部门的工作，其一在其系统中部署 AI 帮助筛选出使用强迫劳动生产的产品，其二是使用 AI 更好的检测出运到美国的芬太尼，识别和阻止生产该毒品的前体化学品的流动。美国国防部也在加强 AI 的使用，它雇佣了 Google AI 云端服务的前总监，担任首位 AI、机器人、云计算和数据分析顾问。",
-          "link": "https://www.solidot.org/story?sid=74753",
-          "publishedOn": "2023-04-23T06:53:03.000Z",
-          "wordCount": 161,
-          "title": "美国国土安全部研究如何使用 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74752",
-          "author": null,
-          "description": "此前有报道称，为了遵守欧盟的监管规定，苹果公司将在 iOS 17 中支持应用侧载，允许用户从官方网站或第三方平台下载安装应用。最新的传言称，该功能可能只提供给欧盟用户，美国等地区的用户将仍然需要通过官方应用商店下载应用。苹果显然不是真心实意的支持应用侧载，它是迫不得已。除此之外，想要在 iOS App Store 之外提供应用的开发商可能需要支付额外的费用。",
-          "link": "https://www.solidot.org/story?sid=74752",
-          "publishedOn": "2023-04-23T06:17:37.000Z",
-          "wordCount": 160,
-          "title": "iOS 17 的应用侧载支持可能只提供给欧盟用户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74751",
-          "author": null,
-          "description": "21 岁的美国空中国民警卫队队员 Jack Teixeira 因在 Discord 上泄露军事机密而于 4 月 13 日被捕。他从去年 10 月起在有大约 50 名成员的 Discord 私密群组 Thug Shaker Central 上传了机密信息。他在麻省的一个空军基地担任了 IT 专家，拥有最高机密的访问权限。调查发现，Teixeira 泄露机密文件的时间可以追溯到去年 2 月，他在另一个有 600 人的 Discord 群组泄露了俄罗斯备战相关的机密情报。这个群组是可以公开访问的，该群组的一名成员曾督促 Teixeira 不要滥用机密情报的访问权限，他回答说“太晚了...”这起泄密事件引发了对美国军方如何保护机密数据的批评。",
-          "link": "https://www.solidot.org/story?sid=74751",
-          "publishedOn": "2023-04-23T06:09:26.000Z",
-          "wordCount": 188,
-          "title": "美国军方机密文件泄露者去年 2 月就在 Discord 上发布机密情报",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74750",
-          "author": null,
-          "description": "瑞典 VPN 服务商 Mullvad 称警方带着搜查令搜查了其办公室，但在被告知它不储存客户数据后就离开了。这是该公司成立 14 年以来首次收到搜查令。公司 CEO 表示不知道警方在搜寻什么。Mullvad VPN 执行了最小化用户信息储存的政策，只记录了支付信息和对应的用户 ID，在确认客户付款之后它不保存任何付款者的信息，它也不记录用户登陆 VPN 的原始 IP 地址。",
-          "link": "https://www.solidot.org/story?sid=74750",
-          "publishedOn": "2023-04-22T15:09:12.000Z",
-          "wordCount": 164,
-          "title": "Mullvad VPN 称警方搜查了其办公室但没找到任何用户数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74749",
-          "author": null,
-          "description": "在每三年一次的股票赠予推动下，Alphabet/Google CEO Sundar Pichai 在 2022 年的薪水达到了 2.26 亿美元，成为世界收入最高的企业领导人之一。根据 Alphabet 周五递交的文件，他薪酬中的股票奖励部分为 2.16 亿美元，过去三年他的工资一直稳定在 200 万美元。他的股票奖励是每三年进行一次，三年前他收到了类似规模的补偿金——他在 2019 年的薪酬高达 2.81 亿美元。在 Alphabet/Google 大裁员的背景下，CEO 的薪酬是一个敏感的话题。Alphabet 在今年 1 月宣布裁员 1.2 万人。根据 Alphabet 的文件，Pichai 的个人安保花费了 594 万美元。",
-          "link": "https://www.solidot.org/story?sid=74749",
-          "publishedOn": "2023-04-22T14:42:09.000Z",
-          "wordCount": 196,
-          "title": "Google CEO Sundar Pichai 收到了 2.26 亿美元的补偿金",
           "imageUrl": null
         }
       ]
