@@ -120,16 +120,6 @@
           "wordCount": 2480,
           "title": "如何找回 PPT、Word、Excel 文档的历史版本，并进行版本控制，随时拿出修改前的文档",
           "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/documents-history-version.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45271",
-          "author": "青小蛙",
-          "description": "Virtual DSM 是一个可以在 Docker 里安装黑群晖的项目，甚至可以在 DSM 中再安装一个 DSM，无限套娃。@Appinn 首先需要明确一下，群晖本身就可以在其系统内虚拟一个 DSM，",
-          "link": "https://www.appinn.com/kroese-virtual-dsm/",
-          "publishedOn": "2023-04-24T07:27:14.000Z",
-          "wordCount": 2899,
-          "title": "Virtual DSM – 在 Docker 里安装黑群晖 DSM 7.2 系统",
-          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2023/04/Virtual-DSM-for-Docker.jpg"
         }
       ]
     },
@@ -167,6 +157,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74847",
+          "author": null,
+          "description": "韦伯望远镜在一颗遥远岩石行星周围探测到水蒸气。这可能意味着这颗系外行星存在大气层，但科学家表示水蒸气可能是来自恒星而不是行星。这颗行星 GJ 486 b 围绕一颗红矮星运行，位于处女星座，距离地球 26 光年。它的质量是地球的三倍，但大小不到地球的三分之一，它的公转周期不到 1.5 个地球日，可能被红矮星潮汐锁定。它的表面温度高达 430 摄氏度，不太可能有液态水。但天文学家还是探测到了水蒸气的信号。天文学家表示不确定水是来自行星大气层还是恒星。",
+          "link": "https://www.solidot.org/story?sid=74847",
+          "publishedOn": "2023-05-03T15:21:32.000Z",
+          "wordCount": 151,
+          "title": "韦伯望远镜在系外行星周围探测到水蒸气",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74846",
+          "author": null,
+          "description": "Google DeepMind CEO Demis Hassabis 在 WSJ 举办的 Future of Everything Festival 活动上表示，通用人工智能(AGI)有望在几年内变成现实。通用人工智能拥有与人类同等的认知能力。他说，人工智能研究的速度可能快上加快。“过去几年的发展相当惊人，”Hassabis 说。“我看不出有减缓的理由。我认为甚至可能加速。所以我认为可能只需要几年，也许是在十年之内。”Hassabis 称，研究人员还没有就通用人工智能的恰当定义达成一致。",
+          "link": "https://www.solidot.org/story?sid=74846",
+          "publishedOn": "2023-05-03T13:37:52.000Z",
+          "wordCount": 177,
+          "title": "Google DeepMind CEO 认为某种形式的 AGI 有望在数年内实现",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74845",
+          "author": null,
+          "description": "美国副总统哈里斯(Kamala Harris)周四将在白宫与 Google、微软和 OpenAI 以及 Anthropic 公司的 CEO 们举行会议，讨论如何负责任的开发 AI。白宫官员寻求和 CEO 们展开坦诚对话，尤其是关于 AI 技术当前和近期发展带来的风险。OpenAI 去年底发布 ChatGPT 后生成式 AI 进入了主流。微软随后开始将 OpenAI 的技术整合到其产品中。但生成式 AI 也引发了监管机构和科技行业巨头的质疑和担忧。",
+          "link": "https://www.solidot.org/story?sid=74845",
+          "publishedOn": "2023-05-03T13:35:05.000Z",
+          "wordCount": 183,
+          "title": "Google、微软和 OpenAI 等公司 CEO 将前往白宫讨论 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74844",
+          "author": null,
+          "description": "2023 年 3 月 Steam 平台用户语言统计出现了异常：简体中文用户占有率突然之间爆炸式增长，从 25.35% 增至 51.63%，英文用户比例降至了 22.83%。2023 年 4 月，Steam 用户语言统计恢复了正常，简体中文用户减少了 26.60% 至 25.03%，英文用户增加了 12.81% 至 35.64%，再次成为最流行的语言。Steam 的 4 月统计显示，Windows 系统份额减少 1.37% 至 96.38%，Linux 增加 0.48% 至 1.32%，macOS 2.30%。",
+          "link": "https://www.solidot.org/story?sid=74844",
+          "publishedOn": "2023-05-03T13:14:14.000Z",
+          "wordCount": 176,
+          "title": "Steam 平台简体中文占有率恢复正常",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74843",
           "author": null,
@@ -886,116 +916,6 @@
           "wordCount": 163,
           "title": "亚马逊静静的拥抱开源",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74771",
-          "author": null,
-          "description": "curl 作者 Daniel Stenberg 说，Windows 10 和 11 自带的 curl 工具包含了一个低危漏洞，该漏洞已经修复了，微软也释出了补丁，但补丁释出前部分用户自行删除了存在漏洞的版本，导致无法更新，他表示 curl 项目对此不负任何责任，有问题找微软。\nWindows 10 和 11 操作系统包含的 curl 工具位于 System32 系统文件夹下，这里面的程序是不能随便删除或替换的。2022 年 12 月 curl 项目报告了一个释放后使用（Use-After-Free）的低危漏洞 CVE-2022-43552，但美国国家漏洞数据库可能是为了督促用户尽快更新而提高了该漏洞的危险等级，将其列为中危漏洞。导致的结果是 2022 年 12 月 21 日之后的某个时间安全扫描工具开始就系统中包含存在漏洞的工具对用户发出警告。这让部分用户恐慌了。他们删除或替换了 C:\\Windows\\System32\\curl.exe。微软在 4 月 11 日的例行安全更新中修复了该漏洞释出了补丁 KB5025221，但那些自行删除系统文件的用户发现 Windows 更新程序拒绝更新。Stenberg 表示 curl 项目对此无能为力。",
-          "link": "https://www.solidot.org/story?sid=74771",
-          "publishedOn": "2023-04-24T13:47:27.000Z",
-          "wordCount": 200,
-          "title": "当 Windows 用户在恐慌下删除 system32\\curl.exe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74770",
-          "author": null,
-          "description": "在德国汉堡郊区的一栋房子前，邮箱上涂了一个单词 LAION。LAION 代表 Large-scale AI Open Network，是高中教师 Christoph Schuhmann 的一个业余爱好项目。他在业余时间和一群志愿者建立了世界上最大的开源 AI 数据集。该数据集被 Google Imagen 和 Stable Diffusion 等用于训练文本图像模型。Schuhmann 常去 Discord 上的一个 AI 狂热者聚集的群组，当时 OpenAI 的第一代 DALL-E 模型刚刚发布，他既受鼓舞也感到担忧，担心这可能会鼓励科技巨头不开放数据。他和该群组的成员因此创建了一个开源数据集帮助训练文本图像模型 diffusion。仅仅三个月时间，他们发布了一个包含 4 亿对图像及其文字描述的数据集。今天这个数字超过了 50 亿，是世界最大的免费图像和文字描述数据集。当 Emad Mostaque 在 2022 年创建 Stability AI 时，他使用 LAION 训练了模型 Stable Diffusion，还雇佣了两位该组织的研究人员。一年之后，该公司的估值接近 40 亿美元，很大程度上要感谢 LAION 提供的数据。 Schuhmann 没有从中获得任何收入，他也没有兴趣这么做，他想要保持独立。",
-          "link": "https://www.solidot.org/story?sid=74770",
-          "publishedOn": "2023-04-24T13:23:03.000Z",
-          "wordCount": 191,
-          "title": "高中教师和他的开源图像数据集",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74769",
-          "author": null,
-          "description": "计算机科学家 Jaron Lanier 在《纽约客》发表文章《There Is No AI》，提出应停止对人工智能的神化，而将其作为一种创新的社会协作形式来看待。他反对最近呼吁停止训练更高级人工智能的联署信，并再次提出“数据尊严”概念：结束人工智能黑箱，记录比特的来源，“人们可以为他们创造的东西获得报酬，即使这些东西是通过大模型过滤和重新组合的”，“当一个大模型提供有价值的输出时，数据尊严的方法将追踪最独特和有影响力的贡献者。”",
-          "link": "https://www.solidot.org/story?sid=74769",
-          "publishedOn": "2023-04-24T10:10:32.000Z",
-          "wordCount": 155,
-          "title": "计算机科学家认为不应神化 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74768",
-          "author": null,
-          "description": "英特尔工程师修复了该公司产品驱动程序中的一个 bug，该 bug 是在 2020 年引入的，会导致 I219-LM Gigabit Ethernet 千兆以太网适配器在特定模式下以六成速率运行。该 bug 仅在 10/100 模式下触发，如果用户运行在 Gigabit 模式下，那么最高速率没有受到影响。",
-          "link": "https://www.solidot.org/story?sid=74768",
-          "publishedOn": "2023-04-24T08:35:14.000Z",
-          "wordCount": 180,
-          "title": "英特尔驱动程序 bug 导致  I219-LM Gigabit Ethernet 适配器在特定模式下以六成速率运行",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74767",
-          "author": null,
-          "description": "比特币使用的分布式账簿区块链虽然不记录身份，但它留下的交易痕迹可以很容易跟踪到真人。交易所币安调查事务负责人的 Matthew Price 说，如今比特币被盗时，罪犯“就像是一个在雪地里抢了银行的人。”他说，罪犯的名字或许没人知道，但数字领域留下的蛛丝马迹，就像雪地上的足迹，仍然可以让当局追查下去。从丝绸之路窃取到五万枚比特币的 James Zhong 是加密货币领域较早的一批玩家，他很长时间里没有动用这些加密货币，直到 2017 年他开始疯狂花钱交朋友，根据法庭收到的一份心理评估报告，Zhong 说过，“他希望这些现金产生的视觉吸引能让一名女性与他发生性关系。他说，这个计划并没有奏效。”",
-          "link": "https://www.solidot.org/story?sid=74767",
-          "publishedOn": "2023-04-24T07:11:23.000Z",
-          "wordCount": 150,
-          "title": "比特币不再具有匿名性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74766",
-          "author": null,
-          "description": "根据发表在《纳米材料》期刊上的一项研究，微塑料和纳米塑料颗粒能突破血脑屏障。动物模型研究发现，在摄入两小时后，大脑中就可以检测到微小的聚苯乙烯颗粒。微塑料能通过各种途径进入食物链，从而进入人体，它的潜在环境和健康影响还需要更深入的研究。",
-          "link": "https://www.solidot.org/story?sid=74766",
-          "publishedOn": "2023-04-24T06:56:30.000Z",
-          "wordCount": 142,
-          "title": "微塑料能进入大脑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74765",
-          "author": null,
-          "description": "Linus Torvalds 在内核邮件列表上宣布释出 6.3 kernel。主要新特性包括：移除了大量淘汰的 ARM 板文件和驱动，持续改进对 Rust 语言的支持，BPF 程序红黑树，tmpfs 文件系统 ID 映射挂载支持，IPv4 支持 BIG TCP，抖动测量工具 hwnoise，支持不可执行 memfds，等等。更多可浏览  KernelNewbies 6.3。",
-          "link": "https://www.solidot.org/story?sid=74765",
-          "publishedOn": "2023-04-24T06:34:37.000Z",
-          "wordCount": 173,
-          "title": "Linux 6.3 kernel 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74764",
-          "author": null,
-          "description": "监视互联网连通性的 Netblocks 报告，苏丹目前处于断网状态，其连通性仅为正常水平的 2%。苏丹在本月早些时候爆发了武装冲突，军方和准军事武装快速支援部队在包括首都喀土穆在内的多个地方进行交火，至今已有至少 420 人死亡 3700 人受伤。苏丹军方称，快速支援部队破坏了喀土穆的电信交换设施，导致了网络中断。",
-          "link": "https://www.solidot.org/story?sid=74764",
-          "publishedOn": "2023-04-24T03:32:55.000Z",
-          "wordCount": 148,
-          "title": "苏丹断网",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74763",
-          "author": null,
-          "description": "科学家已设法让原子或分子同时身处两个位置——所谓“叠加”态，实现了“薛定谔的猫”效应。在一项最新研究中，瑞士苏黎世联邦理工学院（ETH）科学家让一个 16 微克的微小晶体处于两个振荡状态的叠加态，创建了迄今最重“薛定谔的猫”。研究发表在《科学》杂志上，有望催生更大更稳健的量子比特，并用于探测引力波或暗物质等。研究人员此次成功地使用振荡晶体创造出了一种所谓的“薛定谔的猫”，其中振荡晶体代表猫，一个超导电路代表量子比特。量子比特和“猫”之间的联系不是计数器和毒药，而是一层压电材料，晶体在振荡时会改变形状，产生电场。该电场可与量子比特的电场耦合，量子比特的叠加态可转移给晶体，晶体也因此可同时向上及向下振荡，这个重达 16 微克处于叠加态的晶体，也因此成为迄今最重“薛定谔的猫”。",
-          "link": "https://www.solidot.org/story?sid=74763",
-          "publishedOn": "2023-04-24T03:10:16.000Z",
-          "wordCount": 149,
-          "title": "科学家创造至今最重的“薛定谔的猫”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74762",
-          "author": null,
-          "description": "盖茨（Bill Gates）预言 AI 聊天机器人能在 18 个月内教儿童如何阅读和磨练写作技能。对计算机而言，教学生如何写作是一项十分困难的工作。教师对学生的作文会从叙事结构和清晰度等方面进行反馈，这是一项高级认知的任务，很难在代码中实现。但 AI 聊天机器人改变了这一切。盖茨相信随着 AI 聊天机器人技术的进步，它将能成为学生的私人辅导老师，而大部分学生是请不起家教的，因为家庭教师对他们而言太昂贵了。",
-          "link": "https://www.solidot.org/story?sid=74762",
-          "publishedOn": "2023-04-24T03:00:19.000Z",
-          "wordCount": 166,
-          "title": "盖茨预言 AI 在 18 个月内能教儿童阅读和写作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74761",
-          "author": null,
-          "description": "英国芯片设计公司 ARM 准备涉足芯片制造，展示其芯片设计能力。ARM 准备在今年晚些时候 IPO，它需要吸引新客户和推动收入增长。ARM 此前和三星和台积电等公司合作制造过测试芯片，主要是帮助软件开发商熟悉新产品。它在过去半年开发的新芯片将更先进，针对目标是芯片制造商而不是软件开发商。ARM 此举在行业内部引发了担忧，如果它寻求出售其芯片，那么它将与其最主要客户高通和联发科展开直接竞争。ARM 内部人士否认该公司计划出售或授权新芯片，称该公司只是在开发原型。ARM 芯片工程主管此前负责过高通 Snapdragon 芯片的开发。",
-          "link": "https://www.solidot.org/story?sid=74761",
-          "publishedOn": "2023-04-24T02:16:03.000Z",
-          "wordCount": 155,
-          "title": "ARM 将制造自己的芯片",
-          "imageUrl": null
         }
       ]
     },
@@ -1052,7 +972,48 @@
       "title": "思考问题的熊",
       "feedUrl": "https://kaopubear.top/blog/atom.xml",
       "siteUrl": "https://kaopubear.top/blog",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://kaopubear.top/blog/2023-05-03-cancer-homologous-recombination-deficiency-part3/",
+          "author": null,
+          "description": "<blockquote>\n<p>本文为<a href=\"https://kaopubear.zhubai.love/\">熊言熊语邮件通讯会员计划</a>内容的试读版，完整内容请点击<a href=\"https://kaopubear.zhubai.love/\">通讯主页</a>订阅并查看。</p>\n</blockquote>",
+          "link": "https://kaopubear.top/blog/2023-05-03-cancer-homologous-recombination-deficiency-part3/",
+          "publishedOn": "2023-05-03T11:52:38.000Z",
+          "wordCount": 268,
+          "title": "同源重组修复缺陷HRD ：产品总览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kaopubear.top/blog/2023-05-03-cancer-homologous-recombination-deficiency-part2/",
+          "author": null,
+          "description": "<blockquote>\n<p>本文为<a href=\"https://kaopubear.zhubai.love/\">熊言熊语邮件通讯会员计划</a>内容的试读版，完整内容请点击<a href=\"https://kaopubear.zhubai.love/\">通讯主页</a>订阅并查看。</p>\n</blockquote>",
+          "link": "https://kaopubear.top/blog/2023-05-03-cancer-homologous-recombination-deficiency-part2/",
+          "publishedOn": "2023-05-03T11:50:18.000Z",
+          "wordCount": 149,
+          "title": "同源重组修复缺陷HRD：临床验证",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kaopubear.top/blog/2023-05-03-cancer-homologous-recombination-deficiency-part1/",
+          "author": null,
+          "description": "<blockquote>\n<p>本文为<a href=\"https://kaopubear.zhubai.love/\">熊言熊语邮件通讯会员计划</a>内容的试读版，完整内容请点击<a href=\"https://kaopubear.zhubai.love/\">通讯主页</a>订阅并查看。</p>\n</blockquote>",
+          "link": "https://kaopubear.top/blog/2023-05-03-cancer-homologous-recombination-deficiency-part1/",
+          "publishedOn": "2023-05-03T11:45:27.000Z",
+          "wordCount": 268,
+          "title": "同源重组修复缺陷HRD：从无到有",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kaopubear.top/blog/2025-05-03-how-to-learn-biomarker/",
+          "author": null,
+          "description": "<blockquote>\n<p>本文为<a href=\"https://kaopubear.zhubai.love/\">熊言熊语邮件通讯会员计划</a>内容的试读版，完整内容请点击<a href=\"https://kaopubear.zhubai.love/\">通讯主页</a>订阅并查看。</p>\n</blockquote>",
+          "link": "https://kaopubear.top/blog/2025-05-03-how-to-learn-biomarker/",
+          "publishedOn": "2023-05-03T11:40:41.000Z",
+          "wordCount": 147,
+          "title": "聊肿瘤生物标志物时我们在聊什么",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "reuixiy",
