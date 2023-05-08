@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-05-07T02:33:27.658Z</updated>
+    <updated>2023-05-08T02:30:01.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用ImageDecoder API让GIF图片暂停播放]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=10830</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/"/>
+        <updated>2023-05-07T15:43:05.000Z</updated>
+        <summary type="html"><![CDATA[ImageDecoder是浏览器支持的原生API，可以对GIF动图进行逐帧解析渲染，播放控制，图像处理，水印添加等，都不在话下。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家辞职抗议期刊出版商的“贪婪”]]></title>
+        <id>https://www.solidot.org/story?sid=74890</id>
+        <link href="https://www.solidot.org/story?sid=74890"/>
+        <updated>2023-05-07T14:12:38.000Z</updated>
+        <summary type="html"><![CDATA[在科学期刊出版巨头 Elsevier 拒绝减少出版费用之后，《Neuroimage》期刊学术委员会逾 40 名成员全部辞职抗议。《Neuroimage》是开放获取期刊之一，出版商靠对论文作者收费获利。在该期刊上发表一篇论文学者们需要花费逾 2700 英镑。辞职的编委认为这是不道德的，出版商太贪婪了。前编委、卡迪夫大学教授 Chris Chambers 呼吁同行放弃向 Elsevier 的期刊投稿，转向其团队正在创办的非盈利开放获取期刊投稿。Elsevier 出版了全世界四分之一的学术论文，去年收入增长 10% 至 29 亿英镑。根据该公司 2019 年的账簿，它的利润率接近 40%，令科学家极为愤怒，学术期刊的编委基本上是免费给出版商打工，出版商付出的成本是非常低的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Safari 超过 Edge 成为第二流行的桌面浏览器]]></title>
+        <id>https://www.solidot.org/story?sid=74889</id>
+        <link href="https://www.solidot.org/story?sid=74889"/>
+        <updated>2023-05-07T13:50:44.000Z</updated>
+        <summary type="html"><![CDATA[根据 Statcounter 的统计，今年四月苹果的 Safari 超过 Edge 成为第二流行的桌面浏览器。如果将平板和移动平台包含在内，Safari 早就是仅次于 Chrome 的第二大浏览器。数据显示，Google Chrome 依旧遥遥领先于竞争对手，市场份额 66.13%，Safari 11.87% 超过 Microsoft Edge 的 11%，Firefox 5.65%，Opera 3.09%，Internet Explorer 0.55%——微软已经停止支持 IE。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比利时合法化道德黑客行为]]></title>
+        <id>https://www.solidot.org/story?sid=74888</id>
+        <link href="https://www.solidot.org/story?sid=74888"/>
+        <updated>2023-05-07T13:33:28.000Z</updated>
+        <summary type="html"><![CDATA[比利时的新吹哨人法于年初生效，该法律合法化了道德黑客行为。只要道德黑客（或俗称白帽子黑客）满足一定条件，他们未经同意入侵的行为可以免于刑罚。在这之前，除非被攻击的对象同意，任何形式的黑客行为都将在刑法下面临惩罚。新的法律改变了这一状况。从现在开始，一个自然人或法人可以调查位于比利时的组织的安全漏洞，不管被调查者是否同意。但这不是随心所欲的空头支票，白帽子黑客需要遵守一定的条件：不能造成伤害或有获利企图，黑客不能在发现漏洞之后敲诈对方，除非是某些形式的漏洞悬赏计划；必须尽快向比利时网络安全中心（CCB）以及被调查的对象报告漏洞；黑客行动不能超出必要的范围；除非获得 CCB 同意黑客不能过早披露发现的漏洞。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[信息素阻止蝗虫同类相食]]></title>
+        <id>https://www.solidot.org/story?sid=74887</id>
+        <link href="https://www.solidot.org/story?sid=74887"/>
+        <updated>2023-05-07T10:52:40.000Z</updated>
+        <summary type="html"><![CDATA[一项新研究发现，蝗虫可通过产生一种气味难闻的名为苯乙腈（PAN）的信息素而避免被其它蝗虫吃掉。蝗虫中存在抗同类相食信号通路的发现可能为蝗虫管控策略提供一个靶点，因为蝗虫间的同类相食性互动与蝗虫集群的生产有关，而蝗虫群具有极大的破坏性。很多物种都有同类相食行为，其主要原因是为了补充营养。这使得动物演变出多种抗同类相食策略，其目的是保护个体不被其同类吃掉。尽管这些动态变化具有重要的生态学意义，但人们对抗同类相食策略的理解仍十分匮乏。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里云盘备份助手 – 定时备份本地目录到阿里云盘]]></title>
+        <id>https://www.appinn.com/?p=45346</id>
+        <link href="https://www.appinn.com/aliyunpan-backups/"/>
+        <updated>2023-05-07T08:35:33.000Z</updated>
+        <summary type="html"><![CDATA[阿里云盘备份助手是一个可以定时备份本地目录文件到阿里云盘的小工具，支持 Windows、macOS、Linux，支持自动检测新增文件自动上传、定时上传。@Appinn 来自问题求助频道的问题：http]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[活得更长可能意味着等死的时间更长]]></title>
+        <id>https://www.solidot.org/story?sid=74886</id>
+        <link href="https://www.solidot.org/story?sid=74886"/>
+        <updated>2023-05-06T16:04:25.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《American Journal of Public Health》期刊上的一项研究，瑞典研究发现活得更长可能意味着等死的时间也更长。研究人员研究了 2018 年至 2020 年期间瑞典的所有死亡病例，他们首次研究了 70 岁及以上老年人生命的最后一年。利用一种新颖的研究设计，研究小组确定了六种不同类型的死亡轨迹，这取决于生命的最后一年是否需要以及需要多少医疗和老年护理。研究结果显示，瑞典大多数 70 岁以上的人在生命的最后一年接受长期护理。此外，在分析数据后，研究人员认识到，在 83 岁以上(瑞典目前的平均预期寿命)的死亡人群中，先进的医疗护理和护理需求更为普遍。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果零售店工会员工想要客户付小费]]></title>
+        <id>https://www.solidot.org/story?sid=74885</id>
+        <link href="https://www.solidot.org/story?sid=74885"/>
+        <updated>2023-05-06T15:57:49.000Z</updated>
+        <summary type="html"><![CDATA[苹果位于马里兰州 Towson 的零售店员工组建了首个工会，而工会正在与苹果公司谈判如何给员工带来更多经济好处的合同。工会提出的建议包括：以店内信用卡交易的 3%、5% 或自定义金额给员工小费，扩大带薪假期，增加兼职全职员工的休假时间，提供健康福祉假（Wellness leave），为每天工作超过 8 小时或每周工作超 40 小时的员工支付双倍工资，周末双倍加班费，增加有急救证书员工的工资，对裁员员工提供最多 34 周的遣散费，等等。工会代表表示这是谈判的初步建议，他们希望最终能给工会成员带回一份可接受的合同。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梅赛德斯考虑要求对电动车引擎额外动力额外付费]]></title>
+        <id>https://www.solidot.org/story?sid=74884</id>
+        <link href="https://www.solidot.org/story?sid=74884"/>
+        <updated>2023-05-06T14:29:53.000Z</updated>
+        <summary type="html"><![CDATA[去年宝马宣布对汽车座椅的加热功能收取 18 美元的月订阅费，现在梅赛德斯考虑要求车主对电动车发动机的额外动力额外付费。这一做法引发了争议，批评者呼吁监管机构采取行动。根据梅赛德斯的计划，梅赛德斯奔驰电动汽车在北美的车主如果想要额外的动力和速度，可以以每月 60 美元的订阅费购买 60 马力，以每月 90 美元的费用购买 80 马力。车主无需去奔驰经销商，也无需离开车道，直接可以通过无线升级软件获得额外的动力。如果车主不想要按月付费，梅赛德斯也将提供一次性付费选项——通常约数千美元——解除对汽车引擎的限制。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴西树蛙可能是已知第一种授粉两栖动物]]></title>
+        <id>https://www.solidot.org/story?sid=74883</id>
+        <link href="https://www.solidot.org/story?sid=74883"/>
+        <updated>2023-05-06T13:54:42.000Z</updated>
+        <summary type="html"><![CDATA[巴西树蛙 Xenohyla truncata 无法抵抗牛奶果（或金星果）树上的果实和富含花蜜的花朵的诱惑。它们会在夜晚爬上树品尝果实和饮用花蜜。在此过程中，它们的身上会沾满花粉。它们无意中充当了类似蜜蜂的授粉角色。这是已知的第一种为植物授粉的两栖动物。研究报告发表在《Food Webs》上。长期以来科学家认为只有昆虫和鸟类充当了授粉者，但研究发现部分爬行动物和哺乳动物能胜任这一任务。现在两栖动物被发现也可能完成授粉的工作。科学家表示还需要进一步研究才能确认。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We've added 20 new time tools]]></title>
         <id>https://catonmat.net/20-new-time-tools</id>
@@ -747,136 +847,6 @@ See you next time!]]></summary>
         <link href="https://www.solidot.org/story?sid=74827"/>
         <updated>2023-04-28T15:16:04.000Z</updated>
         <summary type="html"><![CDATA[乌克兰网络警察逮捕了一名 36 岁的 Netishyn 市居民，这名男子以 500-2000 美元不等的价格出售来自不同国家的逾三亿人的个人数据和敏感信息。这些信息包括护照、纳税人号码、出生证明、驾照和银行账户等。他是 Telegram 上私密群组和频道的管理员，在里面出售乌克兰和欧盟公民的数据。有俄罗斯公民从其手中购买了被盗的数据。执法人员扣押了他的手机、几十个硬盘、SIM卡、电脑设备和服务器设备。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[站在中美芯片战中心的 ASML]]></title>
-        <id>https://www.solidot.org/story?sid=74826</id>
-        <link href="https://www.solidot.org/story?sid=74826"/>
-        <updated>2023-04-28T14:05:24.000Z</updated>
-        <summary type="html"><![CDATA[诞生于 1984 年的 ASML，从一家与尼康佳能竞争的小公司成长为全世界唯一一家生产高端半导体光刻设备的制造商，它的市值超过 2470 亿美元，为欧洲市值最高的企业，是芯片巨人英特尔的两倍多。ASML 高端光刻设备售价高达 1.8 亿美元，即便如此昂贵以及近期半导体市场疲软，它的设备仍然供不应求，其增长前景看好。它是一家具有自然垄断性的企业，就像 20 世纪的石油，芯片在 21 世纪成为了地缘政治的重要一环，ASML 的独特地位使得它站在了中美芯片战的中心。ASML 被禁止向中国出售高端的光刻机，它遥遥领先于竞争对手，正在开发更先进的光刻机，预计到 2025 年投入市场，届时售价将高达 3.8 亿美元，超过了 波音 787 客机。公司高管表示，即使有人赶上了该公司今天的水平，但它将确保 10 年之后 ASML 将在一个完全不同的范式下运作。无法向中国出售先进光刻机也许会拖累 ASML 长期的增长，但目前几乎没有实质影响，因为它积压的订单超过了其生产能力。但 ASML CEO Peter Wennink 仍然认为对中国的封锁是一个错误，因为这将推动中国加速开发自己的芯片设备。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软品牌外设被 Surface 品牌外设取代]]></title>
-        <id>https://www.solidot.org/story?sid=74825</id>
-        <link href="https://www.solidot.org/story?sid=74825"/>
-        <updated>2023-04-28T13:16:55.000Z</updated>
-        <summary type="html"><![CDATA[微软将不再生产冠名微软品牌的外设如鼠标、键盘和网络摄像头，改为力推冠名 Surface 品牌的外设如鼠标、键盘、笔等。软件巨人是在 1983 年与 Microsoft Word 和 Notepad 一起发布了首个自有品牌鼠标。微软媒体经理 Dan Laycock 表示，现有的微软品牌 PC 外设将会继续销售，直至售罄。微软将专注于 Surface 品牌的 PC 外设。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家在系外行星大气中发现稀有元素铽]]></title>
-        <id>https://www.solidot.org/story?sid=74824</id>
-        <link href="https://www.solidot.org/story?sid=74824"/>
-        <updated>2023-04-28T11:03:40.000Z</updated>
-        <summary type="html"><![CDATA[瑞典研究人员开发了一种分析系外行星的新方法，首次在系外行星 KELT-9b 的大气层中发现了稀有元素铽，了解较重元素有助于科学家确定系外行星的年龄，以及它们是如何形成的。KELT-9b 是银河系内最热的系外行星，距离地球约 670 光年。其平均温度高达惊人的 4000℃，自 2016 年被发现以来，一直令全球天文学家深深着迷。研究人员发现了 7 种元素，包括稀有元素铽，科学家们此前从未在任何系外行星的大气层中发现过这种元素。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅行者2号延长其搭载的科学仪器关闭时间]]></title>
-        <id>https://www.solidot.org/story?sid=74823</id>
-        <link href="https://www.solidot.org/story?sid=74823"/>
-        <updated>2023-04-28T10:45:26.000Z</updated>
-        <summary type="html"><![CDATA[1977 年发射的旅行者 2 号目前距离地球 200 亿公里，它搭载了五种科学仪器去研究星际空间。为了保持仪器运行，NASA JPL 团队释出软件更新将原来用于安全机制的电力用于科学仪器，此举将科学仪器关闭时间推迟到 2026 年而不是今年。旅行者 2 号和 1 号都使用 钚-238 放射性同位素热电机提供电力，其半衰期逾 87 年，目前输出功率下降了逾四分之一。为了弥补输出功率的减少，工程师已经关闭了所有非必要系统。旅行者 2 号接下来的一个选择是关闭其中一个科学仪器。为了避免关闭仪器，JPL 团队选择关闭了防止电压波动的安全系统。如果这一做法在旅行者 2 号上运转良好， JPL 团队计划将其应用于旅行者 1 号。旅行者 1 号的一个仪器在早期就发生了故障，它要到明年才需要决定是否关闭剩余 4 个仪器之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[案记索图 – 搜索图片里的文字：不联网，自动 OCR 并搜索图片[Windows]]]></title>
-        <id>https://www.appinn.com/?p=45299</id>
-        <link href="https://www.appinn.com/anjisuotu-for-windows/"/>
-        <updated>2023-04-28T09:19:18.000Z</updated>
-        <summary type="html"><![CDATA[「案记索图」可以让你根据图片里的文本来搜索本地图片，就像微信、iOS 图库、谷歌图库一般，但不用联网。基于本地 OCR 工具 Umi-OCR 和搜索工具 Everything 实现本地 OCR 并搜索]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ispace 登月失败可能是高度出错]]></title>
-        <id>https://www.solidot.org/story?sid=74822</id>
-        <link href="https://www.solidot.org/story?sid=74822"/>
-        <updated>2023-04-28T08:19:50.000Z</updated>
-        <summary type="html"><![CDATA[日本公司 ispace 的首次商业太空舱月球登陆失败，原因可能是登月舱判识距月球表面的高度出现误差。ispace 公司的技术负责人氏家亮介绍，登月舱通过测定距离的仪器算出高度，喷射引擎调整速度并降落。但此次登月舱在高度值达到“零”之后，仍继续传送回了“负值”的数据。氏家分析称，登月舱出现了明明还在上空但辨识高度为“零”的误差。ispace 将详细调查出现误差的原因。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软用 Rust 重写核心 Windows 代码]]></title>
-        <id>https://www.solidot.org/story?sid=74821</id>
-        <link href="https://www.solidot.org/story?sid=74821"/>
-        <updated>2023-04-28T07:29:14.000Z</updated>
-        <summary type="html"><![CDATA[微软正在用 Rust 语言重写核心 Windows 库，开始将其提供给开发者使用。Windows 操作系统安全总监 David "dwizzle" Weston 上个月在以色列特拉维夫举行的 BlueHat IL 2023 上宣布了 Rust 代码进入内核的消息。微软的基本目标是将内部 C++ 数据类型替换成 Rust。Rust 是一种高性能、内存安全语言，而软件项目的大部分漏洞都属于内存安全 bug。自 2006 年以来微软在 Windows 中修复的漏洞大约七成是内存安全漏洞。Windows 的 Rust 重写始于 2020 年的 DWriteCore，它是用于文本分析、布局和渲染的 DWrite 引擎的 Windows App SDK 实现。DWriteCore 现在包含大约 15.2 万行的 Rust 代码和大约 9.6 万行的 C++ 代码。Windows 的 GUI Win32 GDI 正移植到 Rust，目前包含了 3.6 万行 Rust 代码。Weston 称，Windows 内核的一个系统调用（SysCall）正用 Rust 实现。他表示在可预见的未来用 Rust 语言重写 Windows 还不可能会发生。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软证实 v22H2 是 Windows 10 最后一个版本]]></title>
-        <id>https://www.solidot.org/story?sid=74820</id>
-        <link href="https://www.solidot.org/story?sid=74820"/>
-        <updated>2023-04-28T06:23:12.000Z</updated>
-        <summary type="html"><![CDATA[微软宣布它将不再发布新版本的 Windows 10，v22H2 是该操作系统的最后一个版本，将一直支持到 2025 年 10 月 14 日。微软在 2015 年推出了 Windows 10，之后以每年发布两个新版本，在 Windows 11 发布之后 Windows 10 的更新规模越来越小，v22H2 主要是修正 bug 没有什么新功能。因微软提高了硬件要求，不是所有 Windows 10 用户能升级到 Windows 11，因此他们只能继续用 Windows 10 直至其寿命终止。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克的 Twitter 遵守了更多政府命令]]></title>
-        <id>https://www.solidot.org/story?sid=74819</id>
-        <link href="https://www.solidot.org/story?sid=74819"/>
-        <updated>2023-04-28T06:12:27.000Z</updated>
-        <summary type="html"><![CDATA[根据 Twitter 的报告，在马斯克（Elon Musk）正式接管以来的半年里，它一共从政府和法庭收到了 971 次要求——这些要求包括删除受争议的推文，提供数据识别匿名账号的身份等——Twitter 完全遵守了其中 808 次要求，部分遵守了 154 次要求，还有 9 次没有报告任何具体的回应。这一数据远超 Twitter 被收购之前。马斯克的 Twitter 还没有公布任何透明度报告，它的系统在处理政府请求时会自动向 Lumen 数据库递交报告。绝大部分要求来自土耳其、德国、印度、巴西、法国和日本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天涯社区因拖欠服务器费用关闭访问]]></title>
-        <id>https://www.solidot.org/story?sid=74818</id>
-        <link href="https://www.solidot.org/story?sid=74818"/>
-        <updated>2023-04-28T04:57:04.000Z</updated>
-        <summary type="html"><![CDATA[去年停止更新的天涯社区前几天网站开始无法访问。据知情人士透露，天涯社区已拖欠海南电信十几年的服务器费用，金额高达一千万多万。后因无力支付，天涯社区将网站数据打包下载后，把其余的资产转卖给了海南电信。知情人士称，天涯社区的域名早在 3 月底就被封了，4 月 24 日才确定正式停止运营，中间一个月左右的时间高层方面估计是还没谈拢。天涯是继猫扑，西祠胡同之后最后一个曾经风靡一时但最终沉寂的网络社区。天涯成立于 1999 年，创始人为现任董事长邢明，曾经与谷歌合作创办天涯问答，它的主要收入来源为广告，但随着微博和移动应用的流行，天涯社区的流行度逐渐下降，没有了巅峰期的荣耀，连年亏损。天眼查的数据显示，天涯公司累计被执行超 1.39 亿元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟将要求 ChatGPT 等披露数据来源]]></title>
-        <id>https://www.solidot.org/story?sid=74817</id>
-        <link href="https://www.solidot.org/story?sid=74817"/>
-        <updated>2023-04-28T03:14:08.000Z</updated>
-        <summary type="html"><![CDATA[根据欧盟一项新的立法草案，ChatGPT 等 AI 工具的开发商将被要求披露在构建其系统时使用的版权材料。该草案将成为西方首套管理 AI 推广的全面规则。这一规则将给出版商和内容创作者一个新的武器，当他们的作品被 ChatGPT 等工具用作 AI 生成内容的原始材料时，他们可以寻求利润分成。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔第一财季亏损 27.6 亿美元]]></title>
-        <id>https://www.solidot.org/story?sid=74816</id>
-        <link href="https://www.solidot.org/story?sid=74816"/>
-        <updated>2023-04-28T03:03:21.000Z</updated>
-        <summary type="html"><![CDATA[英特尔公布了 2023 年第一财季财报，亏损 27.6 亿美元，创公司历史上最大财季亏损。第一财季收入为 117 亿美元，同比下降 36%，其中客户端计算事业部(Client Computing Group)收入 58 亿美元，同比下降 38%，数据中心和 AI 部门收入 37 亿美元，同比下降 39%，网络和边缘（Network and Edge）部门收入 15 亿美元，同比下降 30%，Mobileye 收入 4.58 亿美元，同比增长 16%，代工业务 Intel Foundry Services 收入 1.18 亿美元，同比下降 24%。英特尔预测第二财季收入为 115-125 亿美元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dropbox 裁员 500 人]]></title>
-        <id>https://www.solidot.org/story?sid=74815</id>
-        <link href="https://www.solidot.org/story?sid=74815"/>
-        <updated>2023-04-27T14:40:58.000Z</updated>
-        <summary type="html"><![CDATA[云储存和同步服务公司 Dropbox 宣布裁员 500 人，约占员工总数的 16%。公司联合创始人兼 CEO Drew Houston 表示，Dropbox 的业务是稳定而且盈利的，但增长一直在放缓，加上经济衰退给客户带来的压力，公司的业务也承受着压力。最重要的是 AI 时代终于到来了，公司需要采取行动抓住这一机会。他说，在一个理想世界里，员工可以从一个团队转移到另一个团队，但是下一阶段的增长需要 AI 和新产品开发相关的新技能，因此他不得不决定裁掉一部分员工。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
