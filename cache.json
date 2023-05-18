@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45430",
+          "author": "青小蛙",
+          "description": "AHK2Manager 是一个基于 AutoHotkey(V2.0+) 语法重写的 AHK 脚本管理器，它可以统一启动、关闭、重启 AHK 脚本。@Appinn 来自发现频道，开发者 @Jvcon 自",
+          "link": "https://www.appinn.com/ahk-v2-manager/",
+          "publishedOn": "2023-05-17T13:36:55.000Z",
+          "wordCount": 2547,
+          "title": "AHK2Manager – 基于 AutoHotKey V2，统一启动、关闭、重启 AHK 脚本管理器",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/13d60d21197fcaf85ae005698b3982848d7904fe.png"
+        },
+        {
+          "id": "https://www.appinn.com/?p=45425",
+          "author": "青小蛙",
+          "description": "简单拼接 是一款由 Yulinsoft 开发的 Windows 小工具，用来将多张图片横向、纵向拼接成一张图片，支持设置间隔、图片质量。@Appinn 来自论坛 @maple 同学的吐槽：https:",
+          "link": "https://www.appinn.com/jiandan-pinjie/",
+          "publishedOn": "2023-05-17T04:42:25.000Z",
+          "wordCount": 2498,
+          "title": "简单拼接 – 将多张图片横向、纵向拼接成一张图片[Windows]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/jiandanpinjie.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45419",
           "author": "青小蛙",
           "description": "Emoji to image 是一个将 Emoji 表情转换为图片的在线工具，简单易用。@Appinn 这是一个青小蛙经常要使用到的服务，主要是很多图片编辑工具并不支持输入 Emoji 表情符号，会出",
@@ -165,16 +185,6 @@
           "wordCount": 2616,
           "title": "Trancy AI Talk – 又骗我学习外语系列：ChatGPT + Azure TTS 实现 AI 口语私教",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/trancy-ai-talk.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45331",
-          "author": "青小蛙",
-          "description": "AALocker 是一款最近大火的 iPhone 应用，它可以用来隐藏、限制或锁定 iPhone 上已经安装的应用，还能限制购买、卸载，以及限制成人内容，有真假密码，看起来像一款家长必备应用，但不是家",
-          "link": "https://www.appinn.com/aalocker/",
-          "publishedOn": "2023-05-08T07:10:29.000Z",
-          "wordCount": 2581,
-          "title": "AALocker – 隐藏应用不再安卓专属，苹果用户也可以拥有了，终身 VIP 内购限免[iPhone/iPad]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/aalocker.jpgo_.jpg"
         }
       ]
     },
@@ -205,24 +215,123 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10830",
-          "author": "张 鑫旭",
-          "description": "ImageDecoder是浏览器支持的原生API，可以对GIF动图进行逐帧解析渲染，播放控制，图像处理，水印添加等，都不在话下。",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/05/js-imagedecoder-api-gif/",
-          "publishedOn": "2023-05-07T15:43:05.000Z",
-          "wordCount": 1140,
-          "title": "使用ImageDecoder API让GIF图片暂停播放",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=74987",
+          "author": null,
+          "description": "安全公司 Check Point Research 报告了一种伪装成 TP-Link 路由器固件的恶意程序，包含了完整的后门功能，允许攻击者和被感染设备建立通信和文件传输，远程发送指令，上传、下载和删除文件。恶意程序的主要目的被认为是充当代理掩盖通信来源。Check Point Research 发现其指令控制基础设施由 APT 组织 Mustang Panda 控制。Check Point 推荐路由器用户检查是否连接域名 m.cremessage[.com]，管理面板中是否有修改过的升级固件，是否存在 /vat/udhcp.cnf、/var/udhcp 和 .remote_shell.log 等文件。如果存在那么路由器很可能被感染了。TP-Link 尚未对此报告发表评论。",
+          "link": "https://www.solidot.org/story?sid=74987",
+          "publishedOn": "2023-05-17T15:46:50.000Z",
+          "wordCount": 163,
+          "title": "恶意程序将家用路由器变成黑客组织的代理服务器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74986",
+          "author": null,
+          "description": "2008-2014 年间人权活动人士 Abdulrahman al-Sadhan 在美国工作期间，通过其匿名 Twitter 账号批评沙特。他的账号有逾 16 万名粉丝。2015 年他返回了沙特。沙特政府利用两名前 Twitter 雇员访问了包括他在内的批评者的账号，获得了其身份相关的信息。2018 年他遭到了逮捕，直到 2020 年他才被允许联络家人。现在他的妹妹 Areej Al-Sadhan 对 Twitter 提起诉讼。诉讼指出，Twitter 在 2015 年的隐私政策声称不会分析用户的个人信息，可能给 Abdulrahman 带来了虚假的安全感，认为自己不会与批评沙特的推文关联起来。2019 年 11 月美国司法部指控两名前 Twitter 雇员为沙特阿拉伯从事间谍活动。两名前雇员被控访问了 6000 多个账号。人权组织确认有六名因使用匿名账号批评政府的沙特公民遭到逮捕。最新的案件是基于 2019 年的这起案件。今天沙特还是 Twitter 的大股东。",
+          "link": "https://www.solidot.org/story?sid=74986",
+          "publishedOn": "2023-05-17T15:11:08.000Z",
+          "wordCount": 180,
+          "title": "Twitter 因沙特间谍活动导致用户被捕而遭到起诉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74985",
+          "author": null,
+          "description": "美国司法部起诉一名前苹果工程师窃取和尝试窃取公司的商业机密。这位叫 Weibao Wang 的软件工程师是在 2016 年受雇于苹果参与了该公司机密的自动驾驶汽车研发项目 Project Titan。但在 18 个月后王接受了一家总部位于中国的自动驾驶汽车公司的工作。他直到四个月后才通知苹果将离职。苹果发现他在离职前访问了大量公司的机密信息。执法部门对其在加州山景城的家进行了搜查，发现了苹果的数据。他在当晚就搭乘飞机从旧金山飞往了广州。他被控有 6 项罪名，每项罪名面临最高 10 年徒刑和最高 25 万美元罚款。Wang 目前仍然在中国。他是第三名被控窃取苹果自动驾驶机密的华裔工程师，前两位是 Xiaolang Zhang 和 Jizhong Chen。",
+          "link": "https://www.solidot.org/story?sid=74985",
+          "publishedOn": "2023-05-17T13:54:56.000Z",
+          "wordCount": 162,
+          "title": "前苹果工程师被控窃取公司自动驾驶汽车研发机密",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74984",
+          "author": null,
+          "description": "《自然》刊登了南京大学研究人员的一项研究，他们论证罗切斯特大学 Ranga Dias 团队的室温超导研究无法重现。Ranga Dias 团队曾在 2020 年发表了一项类似研究，但之后因为在数据处理方面存在违规行为而被撤稿。在今年早些时候公布的研究中，该团队声称发现了一种由氢、氮、镥组成的材料，实验发现，在 294K（即 21°C）的温度下，材料失去电阻，不过仍然需要 10kbar（约大气压力的 10000 倍）压力才能实现材料的超导性能。南京大学研究团队报告，即使是在更低的温度下，他们仍然没有观察到这种材料呈现超导的迹象。",
+          "link": "https://www.solidot.org/story?sid=74984",
+          "publishedOn": "2023-05-17T13:34:12.000Z",
+          "wordCount": 154,
+          "title": "室温超导验证研究未成功",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74983",
+          "author": null,
+          "description": "OpenAI 名字里有 Open，一开始也是以非盈利的名义开发 AI ，但自从 2019 年去除非盈利状态之后它就走向了闭源。OpenAI 的聊天机器人 ChatGPT 使用的模型 GPT-3.5 并没有开源。据 The Information 援引知情人士的消息报道，OpenAI 准备发布一个新的开源模型。看起来 OpenAI 在目睹了以 LLama 为代表的开源大模型（但商业使用受限）短时间内取得惊人进展之后重新对开源产生了兴趣。",
+          "link": "https://www.solidot.org/story?sid=74983",
+          "publishedOn": "2023-05-17T10:01:04.000Z",
+          "wordCount": 164,
+          "title": "OpenAI 准备发布新开源模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74982",
+          "author": null,
+          "description": "苹果在新西兰注册了 xrOS 文字商标，这是该公司首次披露即将推出的头戴式设备使用的操作系统名字。xrOS 中 xr 代表 extended reality（扩展现实），意味着苹果的新设备将支持增强现实和虚拟现实功能。苹果在新西兰知识产权局注册时使用它自己设计的旧金山字体（San Francisco typeface），和宣传 macOS、iOS、watchOS 和 tvOS 时使用的字体相同。",
+          "link": "https://www.solidot.org/story?sid=74982",
+          "publishedOn": "2023-05-17T08:17:44.000Z",
+          "wordCount": 162,
+          "title": "苹果注册了 xrOS 商标",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74981",
+          "author": null,
+          "description": "Steam 开始提供 90 分钟的游戏试玩，首款提供试玩的是 2023 年初发布的《死亡空间》重制版。此前，玩家在购买游戏后如果对游戏不满意——如性能或游戏本身——而此时的游戏时间不足 2 小时，他们可选择退款。90 分钟的游戏试玩将简化消费者选择。Valve 和其它游戏出版商将密切关注这一功能，观察是否值得推广到更多游戏。",
+          "link": "https://www.solidot.org/story?sid=74981",
+          "publishedOn": "2023-05-17T06:44:53.000Z",
+          "wordCount": 163,
+          "title": "Steam 开始提供 90 分钟的游戏试玩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74980",
+          "author": null,
+          "description": "联发科最早将于 2024 年在其旗舰移动芯片中集成英伟达 GPU 核心。知情人士称，除了共同开发手机平台增强 芯片的 AI 和游戏功能外，联发科和英伟达还将开发针对笔记本平台的 WOA (Windows on Arm)产品。因 AI 的火爆英伟达收到了大量 A100/H100 芯片订单，以及针对中国市场的 A800/H800 芯片订单。",
+          "link": "https://www.solidot.org/story?sid=74980",
+          "publishedOn": "2023-05-17T03:30:48.000Z",
+          "wordCount": 162,
+          "title": "联发科将在其旗舰移动芯片中集成英伟达 GPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74979",
+          "author": null,
+          "description": "OpenAI CEO Sam Altman 呼吁美国国会为先进 AI 系统制定许可和安全标准，目前两党议员正开始推动对消费者使用的强大新 AI 工具进行监管。Altman 周二在参议院小组委员会听证会上谈到 AI 技术时说，他理解人们担心 AI 会如何改变人们的生活方式，如果这项技术出了问题，可能就会是很大的问题。他呼吁成立一个新的机构，对能力超过一定规模的项目颁发许可，并可以取消许可证，确保符合安全标准。他说，与此同时，OpenAI会预先测试并不断更新其工具，以确保安全。他认为，让公众广泛使用这些工具，实际上有助于该公司识别和降低风险。",
+          "link": "https://www.solidot.org/story?sid=74979",
+          "publishedOn": "2023-05-17T02:49:02.000Z",
+          "wordCount": 166,
+          "title": "OpenAI 创始人呼吁制定 AI 安全标准",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74978",
+          "author": null,
+          "description": "你的 Google 账号不会永远存在。搜索巨人通过官方博客宣布将永久删除超过两年时间不活跃/不登陆的账号。Google 表示此举旨在防止遗弃的账号被入侵后用于发送垃圾邮件：不活跃账号启用二因素认证的可能性不到活跃账号的十分之一，一旦遭到入侵，会用于发送垃圾信息和身份盗窃。删除账号还可以释放储存空间节省成本。最新的政策只针对个人账号，如果是付费企业账号，只要账号里有钱不活跃任意长时间都可以。Google 承诺会在账号删除前发送多轮通知。",
+          "link": "https://www.solidot.org/story?sid=74978",
+          "publishedOn": "2023-05-17T02:42:19.000Z",
+          "wordCount": 149,
+          "title": "Google 将删除超过两年时间不活跃的账号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=74977",
+          "author": null,
+          "description": "广泛使用的工业化学溶剂三氯乙烯与帕金森病强相关。帕金森病是增长最快的神经退行性疾病之一，过去 25 年全球发病率翻了一番。根据发表在 JAMA Neurology 上的一项研究，研究人员分析了 1975-1985 年间在北卡 Lejeune 基地训练的数万名海军陆战队队员和海军退伍军人的医疗记录，发现暴露在三氯乙烯污水中的退伍军人相比其他基地训练的退伍军人患帕金森病的风险高 70%。约九成的帕金森症病例不能用遗传学解释，而有迹象表明接触三氯乙烯可能会诱发帕金森病。最新研究提供了至今最强有力的证据。三氯乙烯是一种无色有毒易挥发液体，可通过皮肤或吸入吸收。它主要用于生产制冷剂和重工业使用的脱脂剂。",
+          "link": "https://www.solidot.org/story?sid=74977",
+          "publishedOn": "2023-05-16T15:29:18.000Z",
+          "wordCount": 151,
+          "title": "常用化学物三氯乙烯与帕金森病强相关",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=74976",
           "author": null,
@@ -982,96 +1091,6 @@
           "wordCount": 149,
           "title": "美国更多地方图书馆取消逾期罚款",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74899",
-          "author": null,
-          "description": "根据发表在《PRX Energy》上的一项研究，科学家发现光合作用和玻色爱因斯坦凝聚态存在关联。玻色爱因斯坦凝聚态（BEC）又被称为物质第五态，是玻色子原子在冷却到接近绝对零度所呈现出的一种气态的、超流性的物质状。芝加哥大学的研究人员发现，光合作用中太阳光子对树叶引发的激子行为在原子水平上与 BEC 存在相似性。光合作用工作在室温下，而  BEC 则是发生在绝对零度附近。这一发现可能为电子产品的设计提供新思路。",
-          "link": "https://www.solidot.org/story?sid=74899",
-          "publishedOn": "2023-05-08T10:17:37.000Z",
-          "wordCount": 146,
-          "title": "科学家发现光合作用和玻色爱因斯坦凝聚态存在关联",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74898",
-          "author": null,
-          "description": "俄罗斯互联网巨头 Mail.ru（现名字 VK）的 iOS 邮件应用 myMail 被发现传输用户明文密码。当客户在其论坛上报告 myMail 客户端发送邮件出现传输错误后 mailbox.org 展开了调查，发现 myMail 存在安全漏洞，没有在建立连接后发送 STARTTLS 指令，而是继续在未加密的情况下传输用户密码和邮件。由于 mailbox.org 服务器拒绝未加密连接，因此出现了传输错误。它建议用户在安全问题解决前停止使用 myMail 客户端。",
-          "link": "https://www.solidot.org/story?sid=74898",
-          "publishedOn": "2023-05-08T09:20:26.000Z",
-          "wordCount": 167,
-          "title": "Mail.ru 的邮件应用被发现传输用户明文密码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74897",
-          "author": null,
-          "description": "玻璃不仅是重要的人造材料，更是自然界中普遍存在的天然物质。即使是在荒凉贫瘠的月球表面，仍然存在着由火山喷发、地质运动、陨石撞击等活动产生的丰富的玻璃物质。许多月球玻璃可以稳定存在亿万年，不仅可以像地球上的琥珀一样保存古老的月球物质，还记录着其形成时的环境信息，就像一帧帧的摄影快照一样记录着月球亿万年间的重要历史演化信息，是探索月球奥秘的重要材料。嫦娥五号实现了我国首次地外天体采样，成功采集返回了迄今为止最高纬度、最为年轻的月壤样品，为揭示月球起源与演化、认识月球表面和空间环境、促进月球资源原位利用等提供了绝佳机遇，也为地外玻璃物质研究提供了宝贵样本。中科院研究团队发现月球表面存在着固、液、气多种转变路径的玻璃起源。月球表面频繁遭受的陨石及微陨石撞击导致的矿物熔化和快速冷却产生了各种形态的玻璃物质，包括旋转形状的玻璃珠（球状、椭球状、哑铃状等）、气孔构造的胶结质、流体形态的溅射物等。这些撞击起源的玻璃物质记录了月球表面从数千米到纳米的多尺度撞击事件，相关凝固玻璃的形态取决于撞击温度主导的玻璃形成液体的粘度，由此可反演陨石的撞击强度。",
-          "link": "https://www.solidot.org/story?sid=74897",
-          "publishedOn": "2023-05-08T08:45:33.000Z",
-          "wordCount": 144,
-          "title": "揭秘月壤中的玻璃物质",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74896",
-          "author": null,
-          "description": "新华社报道，我国在酒泉卫星发射中心成功发射的可重复使用试验航天器，在轨飞行 276 天后，于 5 月 8 日成功返回预定着陆场。此次试验的圆满成功，标志着我国可重复使用航天器技术研究取得重要突破，后续可为和平利用太空提供更加便捷、廉价的往返方式。Nasaspaceflight 此前报道称，这是该航天器的第二次试飞，第一次是在 2020 年 9 月。该航天器被认为源于 2000 年代初的神龙项目。美国类似的飞行器是 X-37B，美国空军在 2010 年4 月22 日发射了第一架 X-37B OTV-1，上一次发射是在 2020 年 5 月 17 日，创下了在轨飞行 908 天的记录。",
-          "link": "https://www.solidot.org/story?sid=74896",
-          "publishedOn": "2023-05-08T07:54:44.000Z",
-          "wordCount": 179,
-          "title": "中国可重复使用试验航天器在轨飞行 276 天后着陆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74895",
-          "author": null,
-          "description": "五一假期的人流密集可能增加新冠二次感染风险。新冠抗体水平通常能保持 3—6 个月，之后会下降，因此可能会有二次感染，尤其是出现了免疫逃逸能力和传染性更强的变种。首都医科大学附属北京佑安医院感染综合科主任医师李侗曾表示，距离上次感染已经超过半年时间左右的老年人、免疫力低下人群，发生二次感染的风险仍会增加，因为这部分人群抵抗力下降得会更快，尤其是面对 XBB.1.16 这种免疫逃逸能力强的毒株。北京大学第一医院感染疾病科主任王贵强表示，同一毒株二次感染的风险相对是比较低的。但老年人以及有基础病者，本身免疫功能较弱，产生的抗体水平较低，无论是面对新的变异株还是二次感染风险，都是需要重点关注的人群，这类人更应该完成疫苗接种，以降低重症感染率的发生。专家们都强调，虽然人员流动增加了病毒的传播风险，但更多的是针对“未阳”人群，这类人群尤其要注意防护。",
-          "link": "https://www.solidot.org/story?sid=74895",
-          "publishedOn": "2023-05-08T07:42:39.000Z",
-          "wordCount": 145,
-          "title": "医生谈新冠二次感染风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74894",
-          "author": null,
-          "description": "西部数据向客户发去邮件警告，证实黑客在 3 月底的网络攻击中窃取到了客户数据。被窃取的数据包括客户姓名、帐单和交付地址、电邮地址和电话号码。西部数据称，其数据库储存的密码和信用卡账号使用了加盐哈希处理。对西部数据的入侵发生在  3 月 26 日前后，参与攻击的黑客窃取到了大约 10 TB 数据，并正在与西部数据谈判赎金。在攻击之后，西部数据关闭了云服务两周，下线了移动、桌面和 Web 应用。它的商店也在调查期间关闭，计划在 5 月 15 日重新上线。西数还对可能的钓鱼攻击发出了警告。",
-          "link": "https://www.solidot.org/story?sid=74894",
-          "publishedOn": "2023-05-08T06:35:48.000Z",
-          "wordCount": 164,
-          "title": "西部数据称黑客在 3 月的网络攻击中窃取了客户数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74893",
-          "author": null,
-          "description": "TCP/IP 合作者 Vint Cerf 赢得了 IEEE 2023 年度的荣誉勋章。他接受 IEEE Spectrum 采访谈论了在 TCP/IP 设计中犯下的三大错误。第一个错误是认为 32 位对于互联网地址而言足够了，当然那时是在 1973 年，128 位地址可能还无法想象；没有认真考虑安全性如引入加密；没有想到 World Wide Web 的出现会带来海量的内容，以至于需要搜索引擎才能找到东西。",
-          "link": "https://www.solidot.org/story?sid=74893",
-          "publishedOn": "2023-05-08T06:09:26.000Z",
-          "wordCount": 178,
-          "title": "Vint Cerf 谈他在 TCP/IP 设计中犯下的三大错误",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74892",
-          "author": null,
-          "description": "5 月 4 日，全球首例非人灵长类动物介入式脑机接口试验在北京取得成功。试验在猴脑内实现了介入式脑机接口脑控机械臂，对推动脑科学领域研究具有重要意义，标志着我国脑机接口技术跻身国际领先行列。此次试验由南开大学教授段峰团队牵头，与中国人民解放军总医院（301医院）、上海心玮医疗科技股份有限公司联合完成。试验是在前期介入式脑机接口动物（羊）试验基础上取得的进一步成果，实现了介入式脑电信号从被动采集到主动控制的技术飞跃，突破了血管内脑电信号采集、介入式脑电信号识别等核心技术。",
-          "link": "https://www.solidot.org/story?sid=74892",
-          "publishedOn": "2023-05-08T05:53:01.000Z",
-          "wordCount": 144,
-          "title": "北京完成首例非人灵长类介入式脑机接口试验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74891",
-          "author": null,
-          "description": "根据 Similarweb 的估计，去年 11 月底发布的 AI 聊天机器人 ChatGPT 的流量增长开始放缓。ChatGPT 在去年 12 月吸引了约 2.66 亿次访问，与 Yahoo News 相近，之后 1 月流量增长 131.6%，2 月 62.5%，3 月 55.8%，到了 4 月增长 12.6% 至 17.6 亿次，指数级增长势头开始消退。它的流量超过了 bing.com、nytimes.com 和 cnn.com，但仍然只有 google.com 的 2%。ChatGPT 在美国地区的访问量为 1.876 亿次，环比增长 17.5%，bing.com 在美国的流量仍然高于 ChatGPT，其 4 月访问量为 3.778 亿，环比下降 5%，bing.com 全球的访问量下降  9.7% 至 13 亿次。",
-          "link": "https://www.solidot.org/story?sid=74891",
-          "publishedOn": "2023-05-08T05:50:38.000Z",
-          "wordCount": 196,
-          "title": "ChatGPT 的流量增长放缓",
-          "imageUrl": null
         }
       ]
     },
@@ -1140,18 +1159,7 @@
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
-      "articles": [
-        {
-          "id": "https://catonmat.net/another-20-new-time-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nLast week we added 20 new time tool.\nAnd today we just added another 20 tools to our Online Time Tools collection.\nI've done my job, and now it's Google's job to index them and rank them well.\nHere are the new time tools.\nAdd Fuzziness To Clock Times\nAdd Fuzziness to Calendar Dates\nFind Day of the Week by Date\nFind Date by Day of the Year\nCalculate Clock Hand Angle\nSet Clock Hand Angle\nFind a Specific Day\nFind Friday the 13th\nFind Day of the Week for July 4th\nFind Day of the Week for Christmas Day\nFind Day of the Week for New Year's Day\nFind Dates of Thanksgiving\nAnalyze a Clock Time\nAnalyze a Calendar Date\nVisualize Time Intervals\nVisualize Date Intervals\nSplit Time into Intervals\nSplit Date into Intervals\nMirror a Clock Time\nConvert Time Between Timezones\nConvert Time Between Countries\nFind Season by Date\nNext week we'll add even more tools. See you then!",
-          "link": "https://catonmat.net/another-20-new-time-tools",
-          "publishedOn": "2023-05-08T11:20:00.000Z",
-          "wordCount": 265,
-          "title": "We've added another 20 new time tools",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Discover Dev",
