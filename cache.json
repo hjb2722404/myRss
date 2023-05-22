@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45469",
+          "author": "青小蛙",
+          "description": "Trakt 是一个老牌网站，它主要用来记录、追踪你所看的电视剧、电影，支持非常多的节目，还可以用来评分以及发现热门节目。最近其刚刚发布了 Android 客户端。@Appinn Trakt 从 201",
+          "link": "https://www.appinn.com/trakt-for-android/",
+          "publishedOn": "2023-05-21T09:32:48.000Z",
+          "wordCount": 2584,
+          "title": "Trakt 发布 Android 客户端，用来记录、追踪电视剧、电影",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/trakt-tv-andriod.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45473",
           "author": "青小蛙",
           "description": "Gecata by Movavi 是一款适用于 Windows 的游戏录制直播软件，提供显示实时帧率、视频编辑转换、快速截图等多种功能。操作简单，优化适配百余款游戏。 这是一款付费工具。 Movavi",
@@ -190,26 +200,6 @@
           "wordCount": 2619,
           "title": "Alist Helper – 图形界面的 Alist：聚合加载 115/阿里云盘/百度网盘/OneDrive/迅雷/夸克/等 20+ 网盘文件，支持播放视频[Windows]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/alist-helper1.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45387",
-          "author": "青小蛙",
-          "description": "Bark 是一款高度逼真的开源、生成式文字转语音模型。它可以生成类似真人的多语言语音，还能生成音乐、背景噪音等简单的音效，以及可以根据文字内容产生笑、叹息和哭泣、喘息声、清嗓子等声音。英语效果优秀，中",
-          "link": "https://www.appinn.com/suno-ai-bark/",
-          "publishedOn": "2023-05-12T08:54:26.000Z",
-          "wordCount": 2494,
-          "title": "Bark – 高度逼真的开源、生成式文字转语音模型",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/bark.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45378",
-          "author": "青小蛙",
-          "description": "来自论坛的黑伽罗同学发了一个帖子，非常有意思。他在上班摸鱼的时候，用 AI 实现了一个功能：《让 ChatGPT 写一个脚本监控试图输入密码解锁我设备的人》。 原帖链接：https://meta.ap",
-          "link": "https://www.appinn.com/chatgpt-script-1/",
-          "publishedOn": "2023-05-12T07:12:53.000Z",
-          "wordCount": 2479,
-          "title": "让 ChatGPT 写脚本：解锁我电脑的人，输错密码就拍照",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/chatgpt-script.jpgo_.jpg"
         }
       ]
     },
@@ -240,13 +230,74 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10815",
+          "author": "张 鑫旭",
+          "description": "本文算是目前国内关于浏览器音视频合成，尤其WebCodecs API进行视频合成这块比较稀缺的内容了。",
+          "link": "https://www.zhangxinxu.com/wordpress/2023/05/mp4-video-api-webcodecs-webm/",
+          "publishedOn": "2023-05-21T12:36:28.000Z",
+          "wordCount": 1459,
+          "title": "JS audio加图片序列或canvas转webM/MP4的实现",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75016",
+          "author": null,
+          "description": "本周三，世界各地的华硕路由器用户报告其设备突然发生故障，无法联网，反复重启之后路由器在数分钟内就因为内存耗尽而停止工作。对日志的分析显示，在发生故障前华硕向内置安全守护程序 ASD 推送了一个损坏的定义文件，路由器自动更新之后就崩溃了。华硕周五承认此次故障是因为服务器配置文件的一个配置错误导致的。它已经修复了故障，大部分用户只需要重启设备。如果重启无法解决问题，华硕建议用户保存当前配置设置，恢复出厂设置。",
+          "link": "https://www.solidot.org/story?sid=75016",
+          "publishedOn": "2023-05-21T16:07:27.000Z",
+          "wordCount": 143,
+          "title": "华硕修复导致路由器故障的远程推送",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75015",
+          "author": null,
+          "description": "52 岁的名古屋居民 Shinobu Yoshida 成为日本第一位因为向 YouTube 上传游戏视频而被捕的主播。他上传了著名视觉小说游戏《命运石之门（Steins;Gate）》系列中《比翼双飞的恋人》的游戏视频，《命运石之门》动漫改编以及《Spy x Family》动漫。《命运石之门》的版权持有人角川书店认为此举是非法的，因为视觉小说和其它类型的游戏不同，它更接近于小说或电影，观看此类的游戏视频类似盗版电影。 日本版权组织 CODA 称，在原则上发布游戏视频需要征得版权所有者的许可。",
+          "link": "https://www.solidot.org/story?sid=75015",
+          "publishedOn": "2023-05-21T15:51:17.000Z",
+          "wordCount": 160,
+          "title": "日本警方首次逮捕了一名上传游戏视频的 YouTube 主播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75014",
+          "author": null,
+          "description": "网信办发表声明，美光公司在华销售的产品未通过网络安全审查。声明称：“审查发现，美光公司产品存在较严重网络安全问题隐患，对我国关键信息基础设施供应链造成重大安全风险，影响我国国家安全。为此，网络安全审查办公室依法作出不予通过网络安全审查的结论。按照《网络安全法》等法律法规，我国内关键信息基础设施的运营者应停止采购美光公司产品。此次对美光公司产品进行网络安全审查，目的是防范产品网络安全问题危害国家关键信息基础设施安全，是维护国家安全的必要措施。中国坚定推进高水平对外开放，只要遵守中国法律法规要求，欢迎各国企业、各类平台产品服务进入中国市场。”",
+          "link": "https://www.solidot.org/story?sid=75014",
+          "publishedOn": "2023-05-21T15:30:47.000Z",
+          "wordCount": 141,
+          "title": "美光公司的内存芯片被限制在华销售",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75013",
+          "author": null,
+          "description": "如果你在 Linux 上玩 Windows 游戏如使用 Valve 的掌机 Steam Deck，那么你需要感谢 CodeWeavers 公司。该公司是 Wine 程序的最主要贡献者。CodeWeavers 创始人兼 CEO Jeremy White 在领导公司 27 年之后决定“翻开新的一章”，作为公司最大的股东，他决定将 CodeWeavers 转变成一家员工所有权信托（employee ownership trust）控制的公司。公司总裁 James Ramey 担任 CEO，研发总监 Ulrich Czekalla 担任总裁，Jeremy White 继续担任公司董事会主席。",
+          "link": "https://www.solidot.org/story?sid=75013",
+          "publishedOn": "2023-05-21T15:15:13.000Z",
+          "wordCount": 177,
+          "title": "CodeWeavers 转变成由员工所有权信托控制的公司",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75012",
+          "author": null,
+          "description": "自 Windows 7 时代以来，大部分 PC 用户运行的 Windows 操作系统都是 64 位，搭载的内存超过了 4GB，64 位应用和游戏都逐渐成为了主流。对芯片巨人而言，是时候简化 x86 指令集架构了。英特尔发表了一份白皮书，探索了仅 64 位的 x86S 架构，主要包括：用 64 位的简化分段模型分段支持 32 位应用；移除 ring 1 和 2，以及过时的分段功能如门；移除 16 位寻址支持；移除对 ring 3 I/O 端口访问的支持；移除字符串端口 I/O；限制本地中断控制器（APIC）使用 X2APIC，移除 8259 支持；移除未使用操作系统模式位。64 位的 x86S 芯片仍然支持 32 位应用，但不再支持 32 位操作系统。",
+          "link": "https://www.solidot.org/story?sid=75012",
+          "publishedOn": "2023-05-21T14:58:46.000Z",
+          "wordCount": 200,
+          "title": "英特尔探索仅 64 位的 x86S 架构",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75011",
           "author": null,
@@ -865,116 +916,6 @@
           "publishedOn": "2023-05-12T15:01:19.000Z",
           "wordCount": 151,
           "title": "科学家创造出可食用电池",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74948",
-          "author": null,
-          "description": "欧洲议会两个委员会通过《人工智能法（The AI Act）》提案的谈判授权草案。草案就对 ChatGPT 等生成式人工智能大模型的一系列要求达成一致，标志着欧盟对人工智能实施强监管方面又迈出了一步。新文本将严格禁止“对人类安全造成不可接受风险的人工智能系统”，包括有目的地操纵技术、利用人性弱点或根据行为、社会地位和个人特征等进行评价的系统等。草案提出了新的保障措施，并禁止各种危险用例，包括禁止在公共场所进行大规模面部识别程序，以及禁止使用预测性警务系统（即 AI 犯罪预测系统）。草案还要求建立一个公共数据库，记录政府部门部署的“高风险”人工智能系统，公开数据，以便公民能够了解他们将何时以及如何受到这项技术的影响。这一草案将于 6 月中旬提交欧洲议会全会表决，之后欧洲议会将与欧盟理事会就法律的最终形式进行谈判。欧洲议会的声明说，一旦获得批准，这将成为全世界首部有关人工智能的法规。",
-          "link": "https://www.solidot.org/story?sid=74948",
-          "publishedOn": "2023-05-12T11:05:22.000Z",
-          "wordCount": 158,
-          "title": "欧盟制定 AI 法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74947",
-          "author": null,
-          "description": "天文学家探测到有史以来规模最大的宇宙爆炸。一个超大质量黑洞正在吞噬一个巨大的气体云团。这一事件发生在 80 亿光年之外，比任何已知的超新星明亮 10 倍以上，已持续了三年多年时间，是有记录以来能量最高的爆炸。研究人员估计爆炸产生的火球面积百倍于太阳系，亮度是太阳的 20 万倍，在三年多时间里释放出的能量百倍于太阳在其 100 亿寿命中释放的总能量。被称为 AT2021lwx 的事件并非有史以来最亮的爆炸，去年发现的伽马射线暴事件 GRB 221009A 更亮，但它只持续了几分钟，而 AT2021lwx 的爆炸还在持续。",
-          "link": "https://www.solidot.org/story?sid=74947",
-          "publishedOn": "2023-05-12T10:20:53.000Z",
-          "wordCount": 156,
-          "title": "天文学家探测到有史以来规模最大的宇宙爆炸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74946",
-          "author": null,
-          "description": "美国股票市场的价值遥遥领先于世界其它国家，而苹果作为美国第一大股其市值超过了大部分国家股市总市值。美国股市总市值 40 万亿美元，占到了全球的六成，一个国家超过了世界其它所有国家的总和，排名第二的是日本的 4.1 万亿美元，之后是英国的 2.6 万亿，中国的 2.5 万亿，加拿大的 2.1 万亿。苹果目前的市值为 2.7 万亿美元，也就是比第三名英国股票市场的总市值还要高，是德国股市市值 1.3 万亿美元的两倍。德国是欧洲 GDP 最高的国家，但其股市规模要比英国和法国都要小。市值反映了市场对企业增长导向的热衷，而德国有更多价值导向的公司。",
-          "link": "https://www.solidot.org/story?sid=74946",
-          "publishedOn": "2023-05-12T08:20:01.000Z",
-          "wordCount": 157,
-          "title": "苹果市值超过大部分国家股票市场总市值",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74945",
-          "author": null,
-          "description": "根据发表在《欧洲预防心脏病学杂志》上的研究，健康的饮食与中年人更好的身体健康相关。这项研究调查了健康饮食是否与社区居住成年人的身体健康有关。参与研究的 2380 人平均年龄为54岁，其中54%为女性。参与者在一个循环计力器上进行了最大努力心肺运动测试，以测量峰值VO2。这是健康评估的黄金标准，表明在尽可能高强度的运动中使用的氧气量。参与者还完成了哈佛大学半定量食物频率调查问卷，以评估过去一年中 126 种饮食项目的摄入量，从每月从不或少于一次到每天六次或更多。这些信息被用于使用替代健康饮食指数和地中海式饮食评分，这两者都与心脏健康有关。得分越高表明饮食质量越好，注重蔬菜、水果、全谷物、坚果、豆类、鱼类和健康脂肪，限制红肉和酒精。研究人员在控制了其他可能影响这种关系的因素后，评估了饮食质量和健康之间的关系。",
-          "link": "https://www.solidot.org/story?sid=74945",
-          "publishedOn": "2023-05-12T07:51:55.000Z",
-          "wordCount": 146,
-          "title": "饮食与中年人健康相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74944",
-          "author": null,
-          "description": "过去十年台积电能在芯片制造上领先于英特尔和三星等竞争对手，很大程度上是因为工程师的聪明才智。但今天的台湾正面临人才短缺。台湾的人才危机与台积电的成功交织在一起。过去十年该公司的员工人数增长了近70%，而台湾的出生率却骤降了一半。人工智能等前景广阔领域的初创企业正在吸引顶尖工程师。在招聘方面，台积电必须与谷歌等互联网公司和荷兰 ASML 等外国半导体公司竞争，这些公司通常提供更好的工作与生活平衡。台积电被迫调整招聘策略。它拓宽了招聘渠道，并提高了硕士毕业生的基本工资，现在，他们的平均年薪有望高达 6.5 万美元。台积电从 9 月开始招收台湾毕业生，远远早于传统的 3 月求职季，甚至开始培养高中生，通过网络课程教授半导体基础知识。",
-          "link": "https://www.solidot.org/story?sid=74944",
-          "publishedOn": "2023-05-12T07:02:42.000Z",
-          "wordCount": 149,
-          "title": "台湾缺工程师人才",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74943",
-          "author": null,
-          "description": "AI 创业公司 Stability AI 发布了 Stable Animation SDK，帮助艺术家和开发者实现最先进的 Stable Diffusion 模型生成 AI 动画。用户可以通过多种途径去生成动画，如利用纯文本提示，基于原始图像或视频。Stability AI 提供了三种生成动画的方式：文本到动画；文本输入+初始图像输入；输入视频+文本输入。",
-          "link": "https://www.solidot.org/story?sid=74943",
-          "publishedOn": "2023-05-12T06:48:05.000Z",
-          "wordCount": 175,
-          "title": "Stability AI 发布 Stable Animation SDK",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74942",
-          "author": null,
-          "description": "SpaceX 周三发射了 51 颗 Starlink 卫星，该公司的 Falcon 火箭家族连续成功发射 200 次。这一记录远超任何发射载具。Falcon 火箭上一次发射失败是 2016 年 9 月 Falcon 9 火箭在发射台测试时发生爆炸。周三 13:09 PDT (20:09 UTC)在加州范登堡太空基地执行的 Starlink Group 2-9 任务是 SpaceX 今年的第 31 次发射，该公司一个雄心勃勃的目标是在今年发射 100 次。将 51 颗 Starlink 卫星送入轨道之后 SpaceX 的 Starlink 星座数量达到了 4391 颗。",
-          "link": "https://www.solidot.org/story?sid=74942",
-          "publishedOn": "2023-05-12T06:16:35.000Z",
-          "wordCount": 202,
-          "title": "SpaceX 的 Falcon 火箭连续成功发射 200 次",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74941",
-          "author": null,
-          "description": "故意坠毁飞机的 YouTube 主播面临最长 20 年徒刑。2021 年 12 月 24 日 YouTube 主播 Trevor Jacob 上传了发生在 11 月 24 日的单引擎轻型飞机 Taylorcraft 坠毁视频。他声称驾驶飞机前往 Mammoth 去洒掉朋友的骨灰，但途中引擎熄火，他带着 Gopro 相机从飞机上跳下拍摄了整个飞机坠毁的戏剧性过程。此事引发了很多争议，飞机坠毁被认为是计划好的而不是意外。美国国家运输安全委员会和美国联邦航空管理局（FAA） 随后宣布对此展开调查。2022 年 4 月 FAA 撤销了他的飞行执照。在认罪协议中，Jacob 承认他毁掉飞机残骸以阻碍调查，以及拍摄视频是为了牟利，承认向调查人员撒谎。他的刑期将在晚些时候公布。",
-          "link": "https://www.solidot.org/story?sid=74941",
-          "publishedOn": "2023-05-12T04:17:39.000Z",
-          "wordCount": 188,
-          "title": "故意坠毁飞机的 YouTube 主播面临最长 20 年徒刑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74940",
-          "author": null,
-          "description": "过去几个月，软银将其在阿里巴巴的持股几乎全部套现。阿里巴巴是软银创始人孙正义 40 多年职业生涯中最成功的一笔投资。2000 年，他在阿里巴巴刚刚起步时就进行了投资，到了 2021 年年中，软银在这家中国公司持有的股份价值已接近 1000 亿美元。套现阿里巴巴股票帮助该公司挺过了过去一两年的巨额亏损。在告别阿里巴巴之际，软银正在转向 AI 领域，该公司准备推出日本版的 ChatGPT。",
-          "link": "https://www.solidot.org/story?sid=74940",
-          "publishedOn": "2023-05-12T04:06:19.000Z",
-          "wordCount": 151,
-          "title": "软银退出阿里巴巴",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74939",
-          "author": null,
-          "description": "英国风力发电首次超过天然气。伦敦帝国理工学院的报告显示，今年前三个月英国三分之一的电力来自风力发电场。英国大部分风能来自海上风电场，它目前事实上已禁止在陆地安装风力涡轮机。2023 年第一季度，英国 42% 的电力来自可再生能源，33% 的电力来自化石燃料如天然气和煤炭。帝国理工学院的报告主要作者 Iain Staffell 表示风电超过天然气发电具有里程碑意义。",
-          "link": "https://www.solidot.org/story?sid=74939",
-          "publishedOn": "2023-05-11T15:41:54.000Z",
-          "wordCount": 148,
-          "title": "英国风力发电首次超过天然气",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74938",
-          "author": null,
-          "description": "上周，欧洲警方逮捕了臭名昭著的黑手党 Ndrangheta 的 132 名成员，他们被控从南美走私可卡因，从巴基斯坦走私武器，在欧洲洗钱等一系列罪行。欧洲刑警组织称，这次行动始于从 Sky 和 Encrochat 等被破解加密消息应用收集的情报。根据法庭披露的文件，黑手党成员在 Sky 的消息交流中讨论使用不同的加密电话，其中之一是 No. 1 Business Communication (缩写No. 1 BC)。黑手党们认为，No. 1 BC 比 Sky 更安全。No. 1 BC 有十多年历史，它是加密手机行业的一个重要玩家。一项联合调查发现，No. 1 BC 与一位知名的美国商人、一位乌克兰技术专家和多名被定罪的罪犯有关联。法庭文件称，No. 1 BC 的加密消息尚未被执法机构破解。",
-          "link": "https://www.solidot.org/story?sid=74938",
-          "publishedOn": "2023-05-11T15:29:55.000Z",
-          "wordCount": 176,
-          "title": "意大利黑手党使用的加密手机",
           "imageUrl": null
         }
       ]
