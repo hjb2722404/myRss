@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45482",
+          "author": "青小蛙",
+          "description": "RSS-Translate 是一个开源项目，它通过 GitHub Action 配合 Google Translate 实现了自动翻译 RSS，然后再通过 RSS阅读器订阅，一次配置永久使用。@App",
+          "link": "https://www.appinn.com/rss-translate/",
+          "publishedOn": "2023-05-23T08:52:56.000Z",
+          "wordCount": 2549,
+          "title": "RSS-Translate – 自动翻译外语 RSS 至中文",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/rss-translate.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45478",
           "author": "青小蛙",
           "description": "Whisper 是一个由 OpenAI 训练并开源的神经网络，在英语语音识别方面的稳健性和准确性接近人类水平。当然也支持包括中文在内的多种语言。除了使用本地电脑的 CPU 与 GPU 进行语",
@@ -190,26 +200,6 @@
           "wordCount": 2508,
           "title": "👻 Tai – 统计 Windows 中：软件使用时长、网站浏览时长",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/tai.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45395",
-          "author": "青小蛙",
-          "description": "Pi, your personal AI 是一款基于 AI 的聊天工具，它用 AI 以及英文母语者的口音与你聊天。它会引导你持续聊天，完全不尬聊。@Appinn Pi 说自己的目标是成为一个有用、友好",
-          "link": "https://www.appinn.com/pi-your-personal-ai/",
-          "publishedOn": "2023-05-14T07:36:44.000Z",
-          "wordCount": 2555,
-          "title": "Pi 你的个人聊天 AI。不，你的私人英语听力老师",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/pi-your-personal-ai.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45391",
-          "author": "青小蛙",
-          "description": "Alist Helper 是网盘文件聚合工具 Alist 的第三方图形界面版本，它可以让你无需折腾配置文件、无需命令行，就能运行 Alist，并且支持最小化至系统托盘等功能，可以让你在 Windows",
-          "link": "https://www.appinn.com/alist-helper/",
-          "publishedOn": "2023-05-14T06:12:50.000Z",
-          "wordCount": 2619,
-          "title": "Alist Helper – 图形界面的 Alist：聚合加载 115/阿里云盘/百度网盘/OneDrive/迅雷/夸克/等 20+ 网盘文件，支持播放视频[Windows]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/alist-helper1.jpgo_.jpg"
         }
       ]
     },
@@ -258,6 +248,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75037",
+          "author": null,
+          "description": "Google 自动驾驶子公司 Waymo 宣布与 Uber 合作，从菲尼克斯凤凰城开始，通过 Uber 平台向更多用户提供其自动驾驶服务 Waymo Driver。用户可通过 Uber 和 Uber Eats 应用体验 Waymo Driver。Waymo 在凤凰城的运营面积超过 180 平方英里，是世界最大的自动驾驶服务区。",
+          "link": "https://www.solidot.org/story?sid=75037",
+          "publishedOn": "2023-05-23T15:02:15.000Z",
+          "wordCount": 172,
+          "title": "Waymo 和 Uber 在自动驾驶上展开合作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75036",
+          "author": null,
+          "description": "《连线》报道，一份泄密文件显示西班牙想要禁止端对端加密。欧盟委员会向其成员国询问了对加密进行监管的意见。西班牙对端对端加密的立场最为坚决，该国认为应该立法阻止欧盟的服务商实现端对端加密。西班牙称，访问所有数据是至关重要的，加密通信应该能解密。而端对端的加密和解密是在通讯端的双方进行的，因此服务商也无法知道会话内容，这能有效防止第三方监听。欧盟其它国家也有多个国家主张弱加密：波兰建议允许法院命令解密，认为父母有权解密儿童的通信。",
+          "link": "https://www.solidot.org/story?sid=75036",
+          "publishedOn": "2023-05-23T14:28:07.000Z",
+          "wordCount": 145,
+          "title": "泄密文件显示西班牙想要禁止端对端加密",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75035",
+          "author": null,
+          "description": "腾讯安全玄武实验室和浙江大学的研究人员披露了一种针对 Android 设备指纹解锁的低成本暴力破解攻击。这种攻击方法被称为 BrutePrint，攻击者需要物理控制设备，利用了两个 0day——其一称为 CAMF (cancel-after-match fail) 其二称为 MAL (match-after-lock)——对智能手机指纹验证（SFA）执行\n无限次的暴力破解攻击。攻击者能在最短 45 分钟内破解手机。BrutePrint 的核心设备是一块 15 美元的电路板，包含一个来自意法半导体的微控制器 STM32F412、双向双通道模拟开关 RS2117、8GB 闪存卡、连接手机主板和指纹传感器柔性电路板的板对板连接器。此外还需要一个指纹数据库以加载到闪存卡中。研究人员对 10 款手机测试了漏洞，其中包括小米 Mi 11 Ultra、Vivo X60 Pro、OnePlus 7 Pro、OPPO Reno Ace、Samsung Galaxy S10+、OnePlus 5T、华为 Mate30 Pro 5G, 华为 P40、Apple iPhone SE 和 Apple iPhone 7。结果是 8 款 Android 手机都破解了，其中耗时最长的是 Mi 11（2.78 - 13.89 小时），最短的是三星 Galaxy S10+（0.73 -2.9 小时），苹果手机有匹配限制，并加密了指纹数据，因此没能破解。研究人员认为可通过设置额外的错误取消限制阻止 CAMF 漏洞利用，加密指纹传感器和设备处理器之间传输的数据防止中间人攻击。",
+          "link": "https://www.solidot.org/story?sid=75035",
+          "publishedOn": "2023-05-23T13:52:23.000Z",
+          "wordCount": 208,
+          "title": "研究人员披露对 Android 设备指纹解锁的暴力破解攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75034",
+          "author": null,
+          "description": "OpenAI CEO Sam Altman、总裁 Greg Brockman 和首席科学家 Ilya Sutskever 通过官方博客呼吁设立监管超级智能的国际机构。“我们最终可能需要类似于 IAEA（国际原子能机构）的东西来进行超级智能方面的努力；任何超过一定能力（或计算等资源）门槛的努力都需要接受国际权威机构的检查，要求进行审计，测试是否符合安全标准，对部署程度和安全级别进行限制，等等。追踪计算和能源使用情况会有很大的帮助，并给我们一些希望，这个想法实际上是可以实现的。作为第一步，公司可以自愿同意开始实施这样一个机构有朝一日可能要求的要素，而作为第二步，各个国家可以实施。重要的是，这样一个机构应专注于减少存在的风险，而不是那些应该留给各个国家的问题，例如定义人工智能应该被允许说什么。”",
+          "link": "https://www.solidot.org/story?sid=75034",
+          "publishedOn": "2023-05-23T11:17:36.000Z",
+          "wordCount": 156,
+          "title": "OpenAI 呼吁设立监管超级智能的国际机构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75033",
+          "author": null,
+          "description": "市场监管总局公布了新国际单位制中文名。国际单位制，简称 SI，是世界普遍采用的单位制，也是我国法定计量单位的基础。词头是 SI 的重要组成部分，词头和SI单位组合可以更简洁地表达量值。随着数据科学和数字存储等领域的快速发展，以前的 SI 词头已逐渐不能满足超大、超小科学数据的表达需求。2022 年 11 月，第 27 届国际计量大会通过决议，引入 4 个新词头 ronna、ronto、quetta、quecto，分别表示10^27、10^-27、10^30、10^-30。这是自 1991 年以来，国际单位制首次新增词头。此次新词头的中文定名经广泛征集意见、专家研讨和中文名称审定等程序，最终确定新词头的中文名称为：容[那]、柔[托]、昆[它]、亏[科托]，分别表示10^27、10^-27、10^30、10^-30。引入新词头后，可以更简洁地表达很大或很小的量值，例如地球质量约为 6 容克，电子质量约为 0.9 柔克。",
+          "link": "https://www.solidot.org/story?sid=75033",
+          "publishedOn": "2023-05-23T11:01:51.000Z",
+          "wordCount": 160,
+          "title": "市场监管总局公布新国际单位制中文名",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75032",
+          "author": null,
+          "description": "根据发表在《Biological Reviews》期刊上的一项研究，地球上近一半物种正经历种群数量快速下降。物种灭绝的主要原因是野生动物栖息地因为农场、城镇、城市和道路建设而遭到破坏。气候变化也是物种减少的重要因素之一，预计随着全球变暖，其影响会越来越大。该研究分析了全球 70000 多个物种，包括哺乳动物、鸟类、爬行动物、两栖动物、鱼类和昆虫，以确定它们的数量是否在增长、缩减或保持稳定。他们发现其中有 48% 的种群数量正在减少，只有不到 3% 有所增加。根据这项评估，目前在世界自然保护联盟（IUCN）红色名录中被归类为“非受威胁”的物种中有 33% 实际上正在走向灭绝。",
+          "link": "https://www.solidot.org/story?sid=75032",
+          "publishedOn": "2023-05-23T10:02:43.000Z",
+          "wordCount": 161,
+          "title": "研究发现 48% 的物种数量出现下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75031",
+          "author": null,
+          "description": "根据世界气象组织（WMO）的最新数据，1970 年至 2021 年期间，与极端天气、气候和水相关的事件造成了 11778 起已报告的灾害，死亡人数略高于 200 万，经济损失达 4.3 万亿美元。全世界报告的死亡人数 90% 以上发生在发展中国家。美国的损失高达 1.7 万亿美元，占 51 年来全球经济损失的 39%。但最不发达国家和小岛屿发展中国家相对于其经济规模而言，遭受了不成比例的高额损失。亚洲报告的由天气、气候和水等极端事件引发的灾害有 3612起，造成了 984263 人死亡，经济损失达 1.4 万亿美元。1970 年至 2021 年期间，亚洲占全球所有报告死亡人数的 47%，而热带气旋是造成死亡的主要原因。2008 年的热带气旋“纳尔吉斯”造成 138366 人死亡。孟加拉国是亚洲死亡人数最多的国家，281 起事件造成了 520758 人死亡。",
+          "link": "https://www.solidot.org/story?sid=75031",
+          "publishedOn": "2023-05-23T09:33:22.000Z",
+          "wordCount": 184,
+          "title": "WMO 称过去五十年逾 200 万人死于气候灾害",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75030",
+          "author": null,
+          "description": "Meta 宣布了新模型 Massively Multilingual Speech (MMS)，能识别和产生逾千种语言的声音。代码托管在 GitHub 上，源代码和模型权重采用 CC-BY-NC 4.0 许可证授权。Meta 称，世界上大约有 7000 种语言，但现有的语音识别模型只能识别其中的约 100 种，原因是此类的模型需要大量的已标记训练数据，而只有英语、西班牙语和中文等少数语言能提供此类数据。MMS 是基于 Meta 在 2020 年发布的 AI 模型，该模型只支持识别约 100 种语言，但能从音频中学习语言模式，不需要大量标记数据。MMS 能识别逾 4000多种语言，预训练模型支持逾 1400 种语言，文本到语音模型支持逾 1100 种语言。",
+          "link": "https://www.solidot.org/story?sid=75030",
+          "publishedOn": "2023-05-23T09:18:31.000Z",
+          "wordCount": 175,
+          "title": "Meta 的新模型能识别和生成逾千种语言的声音",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75029",
+          "author": null,
+          "description": "Meta 旗下的消息应用 WhatsApp 宣布允许用户在发送后 15 分钟内重新编辑消息。官方博客称，如果你犯了错或改变了想法，你现在可以重新编辑已发送消息。对于一条已发送的消息，用户可以长按消息从下拉菜单里选择编辑，修改后的消息将会带有“已编辑”的标记，但不会显示编辑历史。",
+          "link": "https://www.solidot.org/story?sid=75029",
+          "publishedOn": "2023-05-23T07:13:45.000Z",
+          "wordCount": 150,
+          "title": "WhatsApp 允许用户编辑信息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75028",
+          "author": null,
+          "description": "中国批准微软收购动视暴雪。微软发言人表示，“中国无条件批准了我们对动视暴雪的收购，在这之前，欧盟和日本等司法管辖区也做出了批准决定，批准总数达到 37 个国家，代表超 20 亿人口。”欧盟 5 月 17 日已批准动视暴雪的收购，微软还向欧盟承诺，10 年内，欧洲经济区(EEA)的消费者们将得到免费得许可，可以在任何云游戏流媒体服务上，玩到所有当前和未来动视暴雪 PC 和主机游戏；10 年内，云游戏流媒体服务提供商也将得到免费许可，可以向玩家提供任何动视暴雪PC和主机游戏。目前反对这笔交易的主要是英国。",
+          "link": "https://www.solidot.org/story?sid=75028",
+          "publishedOn": "2023-05-23T05:48:50.000Z",
+          "wordCount": 153,
+          "title": "中国批准微软收购动视暴雪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75027",
+          "author": null,
+          "description": "TikTok 就美国蒙大拿州对其的禁令提起诉讼，挑战该禁令的合宪性。诉讼称，这项禁令违反了宪法第一修正案和其他一些法律。该禁令定于明年 1 月 1 日生效，目前还不清楚将如何执行。除了与第一修正案相关的问题之外，TikTok 还声称，颁布这样的禁令不在蒙大拿州的权力范围内。该公司辩称，与外国实体打交道完全是联邦政府专属的权力。该禁令还违反了一项禁止政府宣布个人或实体有罪且不经审判就对其进行处罚的法律，以及管理跨州商业活动的法规。",
+          "link": "https://www.solidot.org/story?sid=75027",
+          "publishedOn": "2023-05-23T03:36:28.000Z",
+          "wordCount": 151,
+          "title": "TikTok 起诉蒙大拿州",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75026",
+          "author": null,
+          "description": "Frontier 是第一台突破 Exascale 超算，而更多的 Exascale 超算即将到来。英特尔周一透露了 Aurora 超算的完整规格。Aurora 超算最初目标是 1 Exascale，如今升级到了 2 Exascale，它有 10,624 个节点，21,248 个基于  Sapphire Rapids-SP 家族的至强 CPU 和 63,744 个基于 Ponte Vecchio 的 GPU。英特尔声称 Ponte Vecchio GPU 的性能强于英伟达的 AI 芯片 H100，它正在开发的下一代 GPU Falcon Shores 预计将在 2025 年推出，将有 288GB 的显存，支持 8 位浮点计算。Aurora 超算配备了 10.9 PB 的 DDR5 系统内存，CPU 使用了 1.36 PB 的 HBM 内存，GPU 使用了 8.16 PB 的 HBM 内存。",
+          "link": "https://www.solidot.org/story?sid=75026",
+          "publishedOn": "2023-05-23T03:27:03.000Z",
+          "wordCount": 210,
+          "title": "英特尔透露 Aurora 超算完整规格",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75025",
           "author": null,
@@ -937,26 +1047,6 @@
           "wordCount": 164,
           "title": "微软将用一年时间完成对一个 0day 漏洞的修补",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74956",
-          "author": null,
-          "description": "AI 公司 Anthropic 宣布它类似 ChatGPT 的语言模型 Claude AI 能在一分钟内分析整本书。它将 Claude 的上下文窗口扩大到了 100,000 tokens，或相当于 7.5 万字。Claude 是类似 OpenAI GPT-4 的大语言模型，tokens 是简化 AI 数据处理的最小文本单元，上下文窗口类似短期记忆——大模型一次能处理的输入数据。更大的上下文窗口意味着大模型能一次性处理图书或持续数小时或数天的漫长对话。Anthropic 称，普通人阅读 7.5 万字需要大约 5 小时，之后还需要时间消化、记忆和分析，Claude 能在不到一分钟内做到。《了不起的盖茨比（The Great Gatsby）》有 72K tokens，他们将其输入 Claude，修改了一行字，将原书中的叙述人 Nick Carraway 的背景改为“在 Anthropic 从事机器学习的软件工程师”，让模型找不同。Claude 花了 22 秒钟找到了差异。",
-          "link": "https://www.solidot.org/story?sid=74956",
-          "publishedOn": "2023-05-14T14:19:32.000Z",
-          "wordCount": 197,
-          "title": "Anthropic 的 Claude AI 能在一分钟内分析整本书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74955",
-          "author": null,
-          "description": "Google 发布了实验性的 AI 文本音乐生成工具 MusicLM。用户现在可通过 AI Test Kitchen 应用试用。Google  是在今年初宣布了 MusicLM，该模型使用了 28 万小时的音乐数据集进行训练，学习从复杂的文本描述中生成连贯的歌曲。当时 Google 没有公开测试，原因是需要解决 AI 生成音乐相关的伦理问题。过去几个月 Google 称它一直和音乐家合作，举办了研讨会，以“弄清楚这项技术如何赋权创意过程”。结果是公开的 MusicLM 版本无法生成特定艺术家或特定音乐作品的音乐。",
-          "link": "https://www.solidot.org/story?sid=74955",
-          "publishedOn": "2023-05-13T15:48:35.000Z",
-          "wordCount": 178,
-          "title": "Google 发布 AI 文本音乐生成工具 MusicLM",
-          "imageUrl": null
         }
       ]
     },
@@ -1019,7 +1109,18 @@
       "title": "reuixiy",
       "feedUrl": "https://io-oi.me/rss.xml",
       "siteUrl": "https://io-oi.me/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://io-oi.me/life/i-murdered-a-butterfly/",
+          "author": "reuixiy@gmail.com (reuixiy)",
+          "description": "我是在厨房的门框上发现它的，浑身青色带着些许斑点，比一般的菜叶上的要大许多，它正在沿着门框往上爬行，它的尾部有长长的刺，它的突然出现让我感到一丝的惊恐和更多的厌恶。\n我认识这种毛虫，尽管已经很久没见过了，但在我上小学的时候，学校大门旁的绿植总是爬着这些毛虫，它们能长得很大个，比我现在见到的这只大很多，有几个捣蛋鬼还会捉来吓唬人哩。那时候的我是害怕这种生物的，我现在倒也谈不上害怕，只是想到可能它或者还有其它会爬行到家中的任何地方，就让我觉得自己不能置之不理。观摩了一会儿，我去客厅拿了一张纸巾，然后诱骗它爬到纸巾上，拿起旁边的一个半透明塑料袋，将纸巾和它放进去——该不该把它带到外面？——然后打了两个死结拉紧，最后丢进了垃圾篓。我看着鼓着一包气的半透明塑料袋，心想它还能呼吸生存一段时间吧——又想到它即将被丢进垃圾桶然后被垃圾车碾压——我走开了，走开的时候我刚好瞥到它在往袋子爬，在内壁试探。\n事情就这样结束了，就像什么都没有发生过一样，然后我准备吃晚饭了，吃完后回房间继续鼓捣我的相机了。但是在我刚才洗碗时，我看到些许黑色蝴蝶在我小学放学的半空中飞舞，而它长大成年后也是一只蝴蝶，这让我为自己的行为感到罪恶。我转头看着被剩菜压住的垃圾篓，我没有做任何事情，我洗完碗后走回了房间，我趴在笔记本电脑前思绪写下了这段文字。——我是一个没有信仰即非虔诚的人，我今天杀死了一个生命，我今天杀死了一只蝴蝶。",
+          "link": "https://io-oi.me/life/i-murdered-a-butterfly/",
+          "publishedOn": "2023-05-23T03:17:05.000Z",
+          "wordCount": 20,
+          "title": "我杀死了一只蝴蝶",
+          "imageUrl": "https://io-oi.me/icons/apple-touch-icon.png"
+        }
+      ]
     },
     {
       "title": "catonmat.net",
