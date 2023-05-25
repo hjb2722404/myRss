@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45489",
+          "author": "开发者推荐账号",
+          "description": "摘要：文档批量处理是我们在工作当中经常需要面对的问题，比如批量修改文件名称、批量修改文件内容、批量格式转换等等。今天给大家介绍的就是一款非常强大文档批量处理工具，轻轻松松就可以实现对大量的文档进行批量",
+          "link": "https://www.appinn.com/wodeabc-6-4-0/",
+          "publishedOn": "2023-05-24T03:57:44.000Z",
+          "wordCount": 2625,
+          "title": "这款文档批量处理工具真的太强了，赶紧收藏！",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/wodeabc-6-4-0.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=45486",
+          "author": "青小蛙",
+          "description": "猫抓 Cat Catch 是一款网页资源嗅探扩展，能帮你下载网页视频，支持 M3U8，支持媒体控制（包括倍速、画中画、全屏、截图等）用起来很方便。今日更新 2.4 版本，新增音频、视频合并，自定义 C",
+          "link": "https://www.appinn.com/cat-catch-2-4-0/",
+          "publishedOn": "2023-05-24T02:42:34.000Z",
+          "wordCount": 2614,
+          "title": "猫抓 Cat Catch 2.4.0 发布，帮你下载网页视频[Chrome/Firefox]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/cat-catch.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45482",
           "author": "青小蛙",
           "description": "RSS-Translate 是一个开源项目，它通过 GitHub Action 配合 Google Translate 实现了自动翻译 RSS，然后再通过 RSS阅读器订阅，一次配置永久使用。@App",
@@ -180,26 +200,6 @@
           "wordCount": 2532,
           "title": "Pot – 开源免费的跨平台划词翻译软件，拥有 DeepL、彩云小译、OpenAI 等 7 家翻译引擎，整合 Anki、欧路词典生词本",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/pot-translation.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45404",
-          "author": "青小蛙",
-          "description": "有趣时钟是一款将 iPhone、Android 变成动画时钟的应用，配合音效，很适合放在桌面、床边，也可以用来催眠。@Appinn 来自发现频道，开发者 @yugakhan 自荐：https://me",
-          "link": "https://www.appinn.com/youqu-shizhong/",
-          "publishedOn": "2023-05-15T10:04:36.000Z",
-          "wordCount": 2477,
-          "title": "有趣时钟 – 一款好玩的动画专注时钟[iPhone/Android]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/youqushizhong.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45398",
-          "author": "青小蛙",
-          "description": "👻 Tai 是一款开源的，在 Windows 上统计软件使用时长和网站浏览时长的工具，有详细的统计数据、可以分类、支持多屏幕统计，可以帮你找出频繁使用的软件、访问的网站。@Appinn 有人在 App",
-          "link": "https://www.appinn.com/tai-timer/",
-          "publishedOn": "2023-05-15T07:32:30.000Z",
-          "wordCount": 2508,
-          "title": "👻 Tai – 统计 Windows 中：软件使用时长、网站浏览时长",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/tai.jpgo_.jpg"
         }
       ]
     },
@@ -248,6 +248,86 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75045",
+          "author": null,
+          "description": "根据发表在本周 PNAS 期刊上的一项研究，人类和其它哺乳动物在日常行为和育儿习惯上非常相似。研究人员发现，人类绝不是例外，只不过是另一种独特的哺乳动物，可以用同样的预测因素模拟人类和非人类哺乳动物的生殖不平等。当专门关注女性时，研究人员发现，在允许一夫多妻制婚姻的社会中，生殖平等主义程度高于一夫一妻制婚姻盛行的社会。在一夫多妻制中，男性同时娶几个妻子，女性往往有更平等的机会获得资源，如土地、食物和住所，以及育儿帮助。这是因为女性，或者她们的父母代表她们，倾向于与有更多资源可分享的富有男性进行一夫多妻婚姻。",
+          "link": "https://www.solidot.org/story?sid=75045",
+          "publishedOn": "2023-05-24T11:14:06.000Z",
+          "wordCount": 144,
+          "title": "人类和哺乳动物的生殖不平等",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75044",
+          "author": null,
+          "description": "Meta 开源了它的计算机视觉基础模型 DINOv2，源代码托管在 GitHub 上，和 Meta 近期开源的其它 AI 模型一样，采用的是非商用的 CC-BY-NC 4.0 许可证。DINOv2 是基于 Vision Transformer (ViT)架构，使用一个包含 1.42 亿幅图像的精选数据集进行预训练，可用于图像分类、视频动作识别、语义分割和深度估计等任务。Meta 称 DINOv2 模型的速度是旧方法的两倍，使用的内存只有旧方法的三分之一。测试显示它相比其它同类模型有显著改进。",
+          "link": "https://www.solidot.org/story?sid=75044",
+          "publishedOn": "2023-05-24T10:23:05.000Z",
+          "wordCount": 170,
+          "title": "Meta 开源计算机视觉基础模型 DINOv2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75043",
+          "author": null,
+          "description": "马斯克(Elon Musk)在 WSJ 举行的 CEO Council Summit 峰会上表示，他认为有必要开展 AI 业务，与谷歌和微软相抗衡，这可能涉及他的企业帝国的不同部分，其中包括 Twitter。Twitter 可能会是他创建 AI 业务努力的一部分。特斯拉直在使用 AI 来改善其先进的辅助驾驶功能。他说，Twitter 和特斯拉可以成为一家 AI 公司的合作伙伴，有点像微软和 OpenAI 之间的关系。长期以来，这位 Twitter 和特斯拉的老板一直试图引领AI的发展，但时而发现自己被人超越了。马斯克对 AI 方面的进展表达了关切，并呼吁政府进行监管。",
+          "link": "https://www.solidot.org/story?sid=75043",
+          "publishedOn": "2023-05-24T08:59:54.000Z",
+          "wordCount": 179,
+          "title": "马斯克准备在 AI 领域挑战微软和 Google",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75042",
+          "author": null,
+          "description": "一部分美国人一方面声称自己支持民主，但另一方面却又支持反民主的手段如限制人们的投票能力或选择性的丢弃已投的票。发表在《Nature Human Behaviour》的一项研究对这种现象做出了解释。加州伯克利和 MIT 的研究人员向被调查者询问了多种反民主手段的观点。其中包括是否同意减少支持反对党的城镇的投票设施数量，以及禁止集会、限制言论自由、无视法院裁决、诉诸暴力等众多问题，以及他们对于政治对手是否支持此类反民主手段的看法。结果显示，被调查者中无论是民主党还是共和党个人都不支持反民主手段，但他们认为政治对手支持反民主手段的程度远高于实际水平，而这一评估会影响自己对反民主手段的支持程度。你越相信政治对手会采取行动颠覆民主，你越可能支持采取反民主手段。研究人员称，前总统特朗普对于民主党人窃取选举的说法推动了共和党人对特朗普以拯救民主名义僭越民主规范的支持。",
+          "link": "https://www.solidot.org/story?sid=75042",
+          "publishedOn": "2023-05-24T08:05:27.000Z",
+          "wordCount": 145,
+          "title": "研究显示如果对手先做了那么美国人会支持反民主手段",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75041",
+          "author": null,
+          "description": "微软宣布 Windows 11 将原生支持 Tar、7-zip、rar、gz 等格式的压缩文件。以前在 Windows 上打开此类压缩文件需要安装第三方解压缩软件如开源的 7-zip。微软负责 Windows 业务的首席产品官 Panos Panay 表示 Windows 11 即将释出的更新将原生支持使用开源项目 libarchive 的压缩格式，该功能将通过本周晚些时候释出的一个开发版本提供给用户。",
+          "link": "https://www.solidot.org/story?sid=75041",
+          "publishedOn": "2023-05-24T06:46:50.000Z",
+          "wordCount": 175,
+          "title": "Windows 11 将原生支持 Tar、7-zip、rar、gz 等格式的压缩文件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75040",
+          "author": null,
+          "description": "日本经济产业省公布了基于外汇法的货物等省令的修正版。把尖端半导体制造设备等 23 个品类列入出口管理限制对象名单。经过两个月的公告期之后，预计于 7 月 23 日施行。美国已严格限制对中国出口尖端半导体制造设备等，日本将与美国保持步调一致。23 个品类包括极紫外（EUV）相关产品的制造设备，以及可立体堆叠存储元件的蚀刻设备等。按运算用逻辑半导体的性能来看，均属于制造电路线宽在 10～14 纳米以下的尖端产品所需设备。",
+          "link": "https://www.solidot.org/story?sid=75040",
+          "publishedOn": "2023-05-24T06:04:31.000Z",
+          "wordCount": 150,
+          "title": "日本限制最先进半导体出口",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75039",
+          "author": null,
+          "description": "微软在 Build 开发者大会上宣布将在未来几个月为 Windows 11 加入 AI 辅助功能 Windows Copilot。Windows Copilot 将以一个独立的窗口展示在屏幕右侧，能根据用户的要求完成多项任务。微软在演示中 Copilot 改变了 Windows 设置、用 Snap Layout 重新安排窗口、总结内容和重写文档，打开应用如 Spotify、Adobe Express 和 Teams。微软没有谈及 Copilot 的隐私和安全问题，如用户文档的内容是否保持私有，其 AI 处理是在本地进行还是通过微软的服务器，聊天记录和上下文信息是否会在会话之间保存，是否会在不同计算机之间同步，等等。更多信息要等到 Windows Copilot 发布之后才知道。",
+          "link": "https://www.solidot.org/story?sid=75039",
+          "publishedOn": "2023-05-24T06:02:17.000Z",
+          "wordCount": 194,
+          "title": "Windows 11 将加入 AI 辅助功能 Windows Copilot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75038",
+          "author": null,
+          "description": "Twitter 蓝标用户 Bloomberg Feed 周一发布了一幅 AI 生成照片，声称五角大楼发生爆炸。这起事件导致了短暂的混乱，道琼斯指数在四分钟内下挫 85 点。在假新闻被戳穿前，Russia Today 等媒体账号对此进行了广泛的传播。该照片被认为是使用 Stable Diffusion 等文本图像模型创造的。在 Twitter 暂停 Bloomberg Feed 的账号前，它的粉丝不到千人，发了 22 万推文。这起事件凸显了 AI 生成图像和 Twitter 蓝标系统在瞬息万变的社交媒体领域可能带来的风险。Twitter 蓝标可以用每月 8 美元购买，不再代表身份认证的标记，加上 AI 图像，造假的门槛大幅下降。",
+          "link": "https://www.solidot.org/story?sid=75038",
+          "publishedOn": "2023-05-24T03:02:21.000Z",
+          "wordCount": 178,
+          "title": "五角大楼“爆炸”假照片在 Twitter 上引发混乱",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75037",
           "author": null,
@@ -937,116 +1017,6 @@
           "wordCount": 164,
           "title": "今年可能会非常炎热",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74968",
-          "author": null,
-          "description": "曾被视为“新媒体成功典范”的 Vice Media 于周一正式申请破产。破产不会中断 Vice 的日常运营，除了其核心网站外，Vice 旗下还有广告公司 Virtue、Pulse Films 部门和 2019 年收购的女性主题网站 Refinery29。包括 Fortress Investment Group 和 Soros Fund Management 在内的贷方报价 2.25 亿美元收购 Vice，收购费用由现有贷款覆盖，收购之后他们也将接手公司的债务。如果 Vice 没有收到更高的报价，它将被包括 Fortress 和 Soros 在内的贷方组织收购。2017 年 Vice  的估值曾高达 57 亿美元，如今不到二十分之一。",
-          "link": "https://www.solidot.org/story?sid=74968",
-          "publishedOn": "2023-05-15T13:35:44.000Z",
-          "wordCount": 183,
-          "title": "Vice Media 申请破产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74967",
-          "author": null,
-          "description": "特斯拉在中国召回 110 万辆存在刹车风险的汽车。中国市场监管总局表示，本次召回范围内的车辆，没有允许驾驶员选择能量回收制动策略；同时，对驾驶员长时间深度踩下加速踏板的情况可能没有提供足够提醒。以上因素叠加可能增加长时间误踩加速踏板的概率，可能增加碰撞的风险，存在安全隐患。召回的汽车为生产日期在 2019 年  1月 12 日至 2023 年 4 月 24 日期间的部分进口 Model S、 Model X 、Model 3 及国产 Model 3 、Model Y 汽车，共计 1104622 辆。特斯拉计划通过汽车远程升级（OTA）技术，为召回范围内的车辆推送新开发的功能，以降低因长时间深踩加速踏板导致速度过快引起的碰撞风险。",
-          "link": "https://www.solidot.org/story?sid=74967",
-          "publishedOn": "2023-05-15T10:55:34.000Z",
-          "wordCount": 168,
-          "title": "因刹车风险特斯拉在中国召回逾百万辆汽车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74966",
-          "author": null,
-          "description": "科学家开发出一种由蚕丝制成的食品包装，其在接触腐烂食物时会变色，且能在土壤中迅速降解。研究论文发表在《ACS Nano》杂志上。研究人员称，易腐食品上贴的日期标签不能很好地预测食品何时会变质，这可能导致食物浪费或食物中毒。因此他们决定制作一种可对食物中的变化作出反应的新包装，以更好地指示食物何时变质。\n他们制作了4种类似塑料包装的薄膜，每种由两层组成，其中一层由从蚕丝中提取的蛋白质制成；另一层由一种共价有机框架（COF）制成。研究人员检查了这 4 种薄膜，确认其足够柔韧，可用作包装且无毒。随后，他们测试了这些薄膜是否能生物降解。结果显示，性能最好的薄膜在土壤中静置 30 天后，50% 的薄膜降解，与现有的可生物降解塑料相当。COF 层与液体交换质子和电子，因此新材料在浸入不同pH值溶液中时会变色。由于食物的 pH 值会随着变质而增加，研究人员用一块薄膜作为智能变色标签，贴在一包生鸡肉上。标签一开始是橙色的，在 30℃ 的温度下静置 20 小时后，标签颜色变浅了 17%，表明肉已经开始变质。",
-          "link": "https://www.solidot.org/story?sid=74966",
-          "publishedOn": "2023-05-15T10:45:11.000Z",
-          "wordCount": 157,
-          "title": "新包装材料能通过变色指示食物变质",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74965",
-          "author": null,
-          "description": "根据发表在《科学》期刊上的一项对果蝇的研究，饥饿感本身就足以减缓衰老。研究人员用几种方法诱导果蝇产生饥饿。第一种方法是改变测试零食中支链氨基酸(BCAAs)的含量，然后让果蝇自由地吃酵母或含糖食物。在自助餐中，喂食低支链氨基酸零食的果蝇比喂食高支链氨基酸零食的果蝇消耗更多的酵母而不是糖。这种对酵母的偏好超过了糖，这是基于需求的饥饿的一个指标。研究人员指出，这种行为不是由于低 BCAA 零食的卡路里含量。这些果蝇事实上消耗了更多的食物和更多的总热量。当果蝇终生食用低支链氨基酸食物时，它们的寿命也明显长于食用高支链氨基酸食物的果蝇。研究人员指出，在将研究结果应用于人类之前，应该谨慎使用，但“有充分的理由期待发现的机制可能会调节其他物种的饥饿驱动。”",
-          "link": "https://www.solidot.org/story?sid=74965",
-          "publishedOn": "2023-05-15T10:22:22.000Z",
-          "wordCount": 144,
-          "title": "研究认为饥饿感本身就能减缓衰老",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74964",
-          "author": null,
-          "description": "苹果准备推出混合现实头戴式装置。苹果预测，与迅速成为消费者必备品的 Apple Watch 或 iPhone 相比，这款头戴式装置的采用速度会比较慢。这款头戴式装置在上市前已经过七年的开发，它将是任何公司有史以来销售的最复杂消费品之一。苹果预计会在下个月宣布这款产品，最早要到秋天才能向大多数用户交付。了解该产品研发情况的知情人士说，鉴于将该款头戴式装置与新软件整合起来以及其生产和更广泛市场所面临的挑战，一些苹果员工和供应商对是否会延迟推出该款产品存有疑虑。该产品的售价预计会高达 3,000 美元左右。",
-          "link": "https://www.solidot.org/story?sid=74964",
-          "publishedOn": "2023-05-15T10:01:11.000Z",
-          "wordCount": 151,
-          "title": "苹果准备推出混合现实装置",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74962",
-          "author": null,
-          "description": "Pixel 6 和 7 用户通过社交平台 Reddit 和 Twitter 以及  Google 支持论坛，报告了手机过热和耗电量增加等问题。5 月 12 日释出的更新被认为是导致手机过热和耗电量过多的罪魁祸首，但用户报告回滚到旧版本对减少电池消耗基本没有什么帮助，因此一种可能性是问题发生在服务器端。可能是 Google 应用在持续连接其服务器或陷入某种死循环。",
-          "link": "https://www.solidot.org/story?sid=74962",
-          "publishedOn": "2023-05-15T07:04:20.000Z",
-          "wordCount": 172,
-          "title": "Pixel 6 和 7 用户报告过热和耗电量增加",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74961",
-          "author": null,
-          "description": "旨在将 Linux 移植到使用 Apple Silicon 芯片的 Mac 电脑上的发行版 Asahi Linux 督促用户停止使用 X.Org，因为 Wayland 代表着未来。开发者表示他们没有时间和资源解决 X.Org 上的问题，而 X.Org 也基本上没什么人维护了，主要 Linux 桌面发行版都认为是时候从 Xorg 转向 Wayland。Asahi Linux 将在未来的更新中从默认使用 Xorg 切换到默认使用 Wayland。",
-          "link": "https://www.solidot.org/story?sid=74961",
-          "publishedOn": "2023-05-15T06:23:29.000Z",
-          "wordCount": 180,
-          "title": "Asahi Linux 督促用户停止使用 X.Org",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74960",
-          "author": null,
-          "description": "2021 年初，开发 Elasticsearch 和 Kibana 的公司 Elastic 宣布更改许可证，新版本将不再使用 Apache 2.0 而是使用 Elastic License 和 Server Side Public License，此举旨在禁止云服务商如 AWS 使用它的软件作为一种服务提供给客户。但许可的更改也意味着 Elasticsearch 和 Kibana 不再是开源软件了。亚马逊随后宣布创建 ElasticSearch 开源分支 OpenSearch。两年之后，OpenSearch 从某种意义上成功了：下载量突破 1 亿，496 名贡献值递交了 8760 次 pull requests，Adobe 决定在 Adobe Commerce 套件中用 OpenSearch 取代 Elasticsearch，进入 DB-Engines 数据库流行度排名前五十。对比显示，OpenSearch 和 Elasticsearch 在基本功能和性能上没什么差异，Elasticsearch 有更多的功能，但需要客户额外付费，而某些类似功能 Elasticsearch 收费  OpenSearch 则免费提供。",
-          "link": "https://www.solidot.org/story?sid=74960",
-          "publishedOn": "2023-05-15T05:51:40.000Z",
-          "wordCount": 201,
-          "title": "亚马逊的 ElasticSearch 开源分支成功了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74959",
-          "author": null,
-          "description": "彭博社报道，苹果预计今年推出的下一代 M3 SoC 将有 12 个 CPU 核心和 18 个 GPU 核心。苹果正对此展开测试，报道援引了消息源发送的 App Store 开发者日志，显示一款未发布的 MacBook Pro 配备了 M3 SoC，操作系统是 macOS 14。苹果过去三年推出了 M1 和 M2 系列 SoC，其中 M1 标准版为 8 核 CPU 和 8 核 GPU，M2 标准版为 8核 CPU 和 10 核 GPU，都采用 5 纳米工艺制造。M3 SoC 将采用 3 纳米工艺制造，其 CPU 核心性能比第一代提升 50%。",
-          "link": "https://www.solidot.org/story?sid=74959",
-          "publishedOn": "2023-05-15T05:24:35.000Z",
-          "wordCount": 236,
-          "title": "苹果下一代 M3 SoC 将有 12 个 CPU 核心和 18 个 GPU 核心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74958",
-          "author": null,
-          "description": "木星是太阳系最大的行星，但土星将是太阳系拥有最多卫星的行星。国际天文学联合会报告发现土星 62 颗新卫星，使其卫星总数达到 145 颗，超过木星的 95 颗。新发现的卫星形状不规则，像土豆一样，直径不超过一英里或两英里。它们的轨道距离土星很远，在 600 万到 1800 万英里之间。相比之下，土星大卫星如泰坦（Titan）距离土星在 100 万英里内。",
-          "link": "https://www.solidot.org/story?sid=74958",
-          "publishedOn": "2023-05-14T16:02:00.000Z",
-          "wordCount": 161,
-          "title": "天文学家发现土星 62 颗新卫星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74957",
-          "author": null,
-          "description": "微软本周释出了补丁修复了一个被 BlackLotus bootkit 利用的 Secure Boot 绕过漏洞。微软在今年 1 月释出补丁修复了编号为 CVE-2022-21894 的漏洞，但该补丁并不完整，攻击者很快找到了绕过方法。本周释出的补丁修复了新漏洞 CVE-2023-24932。微软称能物理访问系统或拥有管理员权限的攻击者可利用该漏洞。但新补丁不会默认启用，因为它涉及到修改 Windows 启动管理器，一旦更改将是无法撤销的，它会导致现有的启动媒介无法启动。为了避免导致客户的系统无法启动，补丁将会分三个阶段应用，直到 2024 年第一季度补丁才会默认启用，届时旧的启动媒介将会无法使用。",
-          "link": "https://www.solidot.org/story?sid=74957",
-          "publishedOn": "2023-05-14T15:52:10.000Z",
-          "wordCount": 164,
-          "title": "微软将用一年时间完成对一个 0day 漏洞的修补",
-          "imageUrl": null
         }
       ]
     },
@@ -1126,7 +1096,18 @@
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://catonmat.net/10-new-list-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 20 new time tools and and today we just added 10 new tools to our Online List Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new list tools.\nColor List Items\nCreate a Custom List\nCreate a Random List\nFind Certain List Items\nReplace Certain List Items\nDelete Certain List Items\nDelete Repeating List Items\nRemove List Item Bullets\nChange the Length of a List\nAppend Items to a List\nLeft-pad a List\nRight-pad a List\nNext week we'll add even more tools. See you then!",
+          "link": "https://catonmat.net/10-new-list-tools",
+          "publishedOn": "2023-05-25T06:12:00.000Z",
+          "wordCount": 212,
+          "title": "We've added 10 new list tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        }
+      ]
     },
     {
       "title": "Discover Dev",
