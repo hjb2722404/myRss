@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45521",
+          "author": "青小蛙",
+          "description": "eaio (Electron All in One) 是一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。@Appinn Elect",
+          "link": "https://www.appinn.com/eaio-electron-all-in-one/",
+          "publishedOn": "2023-05-28T04:57:53.000Z",
+          "wordCount": 2589,
+          "title": "eaio (Electron All in One) – 让你的电脑里，只需要一份 Electron，大量节省空间。",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/eaio-electron-all-in-one.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45517",
           "author": "青小蛙",
           "description": "minipad2 是一款性能优、功能多、体积小，同时又界面简约、风格低调的 Windows 笔记本工具，虽已停更许久，最后一次更新在 2010 年，但依旧可以很好的运行在 Windows 10 中。@",
@@ -120,36 +130,6 @@
           "wordCount": 2583,
           "title": "Delapp – 开源的文件删除工具，专治文件占用不可删除[Windows]开发者「瞎扯八道」写的好",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/delapp.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45461",
-          "author": "青小蛙",
-          "description": "Parallels Desktop for Mac 是一款 macOS 系统下的虚拟机软件，它可以让 Windows 以软件的形式运行在 macOS 之中，随时切换，无需重启，非常方便。近日其正式成为",
-          "link": "https://www.appinn.com/parallels-desktop-for-mac-education/",
-          "publishedOn": "2023-05-19T13:11:58.000Z",
-          "wordCount": 2608,
-          "title": "Parallels Desktop for Mac 教育版购买指南，5 折！",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/parallels-desktop-for-mac-education.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45458",
-          "author": "青小蛙",
-          "description": "Epic 商店再次开启了神秘游戏限免，连续四周，本周的限免游戏于昨天晚上 11 点上线：小岛秀夫作品《死亡搁浅》（Death Stranding），官网定价 30 刀，限免至 2023/5/25 11",
-          "link": "https://www.appinn.com/death-stranding/",
-          "publishedOn": "2023-05-19T02:47:55.000Z",
-          "wordCount": 2553,
-          "title": "小岛秀夫作品《死亡搁浅》（Death Stranding）在 Epic 商店限免一周",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/death-stranding.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45447",
-          "author": "青小蛙",
-          "description": "OpenAI 刚刚发布了 ChatGPT 官方 iPhone 客户端，名字就叫做 OpenAI ChatGPT，免费、无广告，可同步历史对话，使用最新 OpenAI 模型，能通过 App Store",
-          "link": "https://www.appinn.com/openai-chatgpt-for-iphone/",
-          "publishedOn": "2023-05-19T01:43:53.000Z",
-          "wordCount": 2604,
-          "title": "OpenAI ChatGPT 官方 iPhone 客户端发布，支持升级 Plus，不限量 GPT-4",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/openai-chatgpt.jpgo_.jpg"
         }
       ]
     },
@@ -947,96 +927,6 @@
           "wordCount": 147,
           "title": "卫星观测显示全球湖水蓄水量大规模减少",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75003",
-          "author": null,
-          "description": "Google 正准备用隐私沙盒（ Privacy Sandbox）取代受争议的第三方 Cookie，隐私沙盒跟踪用户的兴趣，允许广告商根据兴趣展示广告，而用户可以管理兴趣并对其归类分组。隐私沙盒代表着广告行业的一次巨大变化。现在 Google 宣布，今年七月发布的 Chrome 115 标志着隐私沙盒相关的 API GA（普遍可用），开发者可对其进行测试，Google 不会在之后对 API 进行重大改变。开发者可以评估淘汰第三方 Cookie 之后的情况，为接下来的变化做准备。从 2024 年开始，Google 将把 1% 的 Chrome 用户迁移到隐私沙盒禁用第三方 Cookie，它准备在 2024 年底完全淘汰第三方 Cookie。",
-          "link": "https://www.solidot.org/story?sid=75003",
-          "publishedOn": "2023-05-19T11:31:51.000Z",
-          "wordCount": 184,
-          "title": "Google 计划从 2024 年起逐渐用隐私沙盒取代第三方 Cookie",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75002",
-          "author": null,
-          "description": "意大利拨款 3000 万欧元，提高最可能被 AI 取代的工人的技能。意大利政府部门的数据显示，16-74 岁人口中有 54% 缺乏基本的数字技能，相比之下欧盟国家的平均比例为 46%。被称为 Fondo per la Repubblica Digitale (FRD)的基金将以两种方式分配 3000 万欧元，其中 1000 万欧元用于提高其工作因自动化和技术创新而面临取代的工人的技能，其余 2000 万欧元用于帮助失业和非经济活动人口发展数字技能。FRD 称，受自动化影响的工作包括运输和物流、后勤和管理、生产、服务和零售部门。",
-          "link": "https://www.solidot.org/story?sid=75002",
-          "publishedOn": "2023-05-19T09:46:05.000Z",
-          "wordCount": 170,
-          "title": "意大利拨款保护工人免遭被 AI 取代的威胁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75001",
-          "author": null,
-          "description": "亚马逊计划在 2030 年前向印度的云计算业务投资 127 亿美元，扩大 AWS 基础设施在这一关键海外市场的规模。亚马逊此前在印度投资 37 亿美元建设 AWS 基础设施，目前在当地有两大数据中心区域。电商巨头表示它的投资将能支持 13.17 万全职工作，横跨工程、电信和建筑等领域。印度是全球第二大互联网市场，亚马逊 AWS 是印度最大的云服务商，其客户包括了印度电子和信息技术部和 Axis Bank 等。Google 在印度也有两个数据中心区域，而微软有三个，它们都计划扩大在印度的云服务。",
-          "link": "https://www.solidot.org/story?sid=75001",
-          "publishedOn": "2023-05-19T08:06:54.000Z",
-          "wordCount": 175,
-          "title": "亚马逊 AWS 将向印度投资 127 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75000",
-          "author": null,
-          "description": "在共和党籍州长 Greg Gianforte 签署法案之后，蒙大拿州成为美国第一个对 TikTok 实施全面禁令的州。该禁令将于 2024 年 1 月 1 日生效，将禁止 TikTok 在该州运营，禁止 Google 和苹果的应用商店在该州提供 TikTok 应用。该州的一群 TikTok 用户迅速提起了诉讼，认为在州内全面禁止 TikTok 的法案侵犯了他们的第一修正案权利。",
-          "link": "https://www.solidot.org/story?sid=75000",
-          "publishedOn": "2023-05-19T07:11:09.000Z",
-          "wordCount": 166,
-          "title": "TikTok 用户起诉蒙大拿州",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74999",
-          "author": null,
-          "description": "苹果在开发自家 AI 技术之际，已限制使用 ChatGPT 和其他外部 AI 工具。苹果担心员工使用这类程序可能会泄露机密数据。苹果还告诉其员工不要使用微软旗下的 GitHub 的产品 Copilot。苹果的 AI 开发由该公司 2018 年从 Google 挖来的 John Giannandrea 领导。苹果最近还在密切关注 iPhone 应用商店上架的加载生成式 AI 技术的新软件。应用开发商 Blix 曾尝试更新其电子邮件应用 BlueMail，加载一项 ChatGPT 功能，但苹果临时屏蔽了这一更新，理由是有可能向儿童展示不适当内容。苹果曾在 2011 年推出 Siri 语音助手，是 AI 消费应用的早期参与者之一。但在随后几年中，Siri 的发展落后于亚马逊的 Alexa 等语音助手。",
-          "link": "https://www.solidot.org/story?sid=74999",
-          "publishedOn": "2023-05-19T06:46:23.000Z",
-          "wordCount": 181,
-          "title": "苹果限制员工用 ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74998",
-          "author": null,
-          "description": "类似传统电视频道中的广告，YouTube 将在其电视应用加入了 30 秒无法跳过的广告。除此之外，YouTube 还将在用户暂停正在观看的内容时展示广告。暂停时的广告将是可以高度定制的，甚至可以与用户互动，还可以提供二维码供用户扫描，如访问网站或社交媒体频道。举例来说，一则广告鼓励用户扫描二维码获得特定商品的折扣。",
-          "link": "https://www.solidot.org/story?sid=74998",
-          "publishedOn": "2023-05-19T06:28:15.000Z",
-          "wordCount": 157,
-          "title": "YouTube 电视应用将加入 30 秒无法跳过的广告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74997",
-          "author": null,
-          "description": "阿里巴巴公布了截至 3 月的季度财报，概述了 IPO 分拆计划：菜鸟网络目标是在 12 至 18 个月内上市；盒马鲜生目标是在 6-12 个月内上市；阿里云计划在未来 12 个月内通过向股东分配股息的方式，分拆为一家上市公司，此之前它计划进行私募融资；国际数字商务正在寻求融资。阿里巴巴已经成立了一个新的资本管理委员会，由董事会主席张勇导，负责决定 IPO、融资和分拆等事宜。",
-          "link": "https://www.solidot.org/story?sid=74997",
-          "publishedOn": "2023-05-19T03:44:46.000Z",
-          "wordCount": 162,
-          "title": "阿里巴巴通过 IPO 分拆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74996",
-          "author": null,
-          "description": "OpenAI 发布了免费的 ChatGPT iOS 应用，Android 版本将在晚些时候推出。该应用能与 Web 版本同步，支持基于开源模型 Whisper 的语音输入，将首先在美国推出，然后未来几周逐步推广到其它国家。自去年 11 月底推出以来，ChatGPT 是最受欢迎的 AI 聊天机器人，吸引了上亿用户使用。根据 Similarweb 的估计，ChatGPT 在去年 12 月吸引了约 2.66 亿次访问，到上个月月访问量高达 17.6 亿次。",
-          "link": "https://www.solidot.org/story?sid=74996",
-          "publishedOn": "2023-05-19T02:39:01.000Z",
-          "wordCount": 181,
-          "title": "OpenAI 发布免费的 ChatGPT iOS 应用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=74995",
-          "author": null,
-          "description": "目前最强大的 Arm 芯片是日本富岳超算使用的富士通 48 核 A64FX CPU，英伟达准备发布它的 72 核 Grace Arm CPU，现在印度也准备发布它开发的用于高性能计算的 Arm 芯片。它的芯片被称为 Aum HPC，使用了 “Zeus” Neoverse V1 核心，但芯片架构没有公布，小芯片（chiplet）有 48 个核心，被称为 A48Z。A48Z 支持 DDR5 和 HBM3 内存。Aum 芯片将封装一对 A48Z，用 D2D（die-to-die）互连，共享 96 MB L2 缓存，另外还有 96 MB 缓存在核心之间共享。",
-          "link": "https://www.solidot.org/story?sid=74995",
-          "publishedOn": "2023-05-18T15:47:54.000Z",
-          "wordCount": 186,
-          "title": "印度开发用于高性能计算的 Arm 芯片",
-          "imageUrl": null
         }
       ]
     },
@@ -1117,6 +1007,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/der-spiegel-browserling-customer",
+          "author": null,
+          "description": "TLDR: Success!\nIt's another small step for a ling but one giant leap for ling kind. See you next time!",
+          "link": "https://catonmat.net/der-spiegel-browserling-customer",
+          "publishedOn": "2023-05-28T21:35:00.000Z",
+          "wordCount": 121,
+          "title": "Der Spiegel is now a Browserling customer!",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/onlinepngtools-serp-clicks",
           "author": null,
