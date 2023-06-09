@@ -2,10 +2,191 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-06-08T02:50:22.649Z</updated>
+    <updated>2023-06-09T02:53:11.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为何英国地震频率高于爱尔兰]]></title>
+        <id>https://www.solidot.org/story?sid=75196</id>
+        <link href="https://www.solidot.org/story?sid=75196"/>
+        <updated>2023-06-08T14:10:10.000Z</updated>
+        <summary type="html"><![CDATA[英国和爱尔兰的研究人员破解了英国地震频率高于爱尔兰之谜。利用地震层析成像技术，研究人员发现英国小震频繁而爱尔兰几乎没有的原因是两国的岩石圈（Lithosphere）厚度差异。两国的地震差异困扰了科学家逾百年。研究人员发现，英国西部下方的岩石圈薄弱不堪，容易弯曲而引发地震。相比之下，爱尔兰下方的岩石圈厚而牢固，这就是它没有地震的原因。英国远离板块边界，但中小型地震依旧频繁发生，每年有 200-300 起，主要是在西部，其中不到 30 起地震强度能让人感受到。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因加拿大野火纽约空气质量全球最差]]></title>
+        <id>https://www.solidot.org/story?sid=75195</id>
+        <link href="https://www.solidot.org/story?sid=75195"/>
+        <updated>2023-06-08T12:43:29.000Z</updated>
+        <summary type="html"><![CDATA[加拿大数百场野火产生的烟雾让纽约经历了“空气末日”，周三下午两点纽约市空气质量指数为 342，远高于空气质量“有害的”阈值 301 ，为同一时间全球大城市中最差空气质量。相比之下印度德里的空气质量指数当时为 168。因雾霾笼罩，纽约在下午两点就点亮了路灯。纽约州的其它地区空气质量甚至更糟。州卫生官员建议居民减少户外活动，佩戴口罩和补充滤气器，因为雾霾可能加剧哮喘增加感染肺部疾病的可能性。由于野火加拿大至今疏散了数万人。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo 的自动驾驶汽车杀死了一只宠物狗]]></title>
+        <id>https://www.solidot.org/story?sid=75194</id>
+        <link href="https://www.solidot.org/story?sid=75194"/>
+        <updated>2023-06-08T11:18:31.000Z</updated>
+        <summary type="html"><![CDATA[Alphabet 自动驾驶子公司 Waymo 披露了一起事故，它的一辆汽车在自动驾驶模式下与一只宠物狗相撞，狗没有生还，车也受损。事故发生在 2023 年 5 月 21 日 10:56 AM PT，地点是旧金山 Toland Place 的 Toland 街，Waymo 的一辆 Jaguar I-Pace 汽车沿街朝西南方行驶，一只小狗跑到了车前方的街道上，发生碰撞时汽车处于 Level 4 ADS 驾驶模式下，方向盘后还坐着一位测试司机。Waymo 称它的系统识别出了跑出来的狗，但未能避免相撞。这是 Waymo 首次报告致命事故。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逾 6 万 Android 应用被发现会悄悄安装广告程序]]></title>
+        <id>https://www.solidot.org/story?sid=75193</id>
+        <link href="https://www.solidot.org/story?sid=75193"/>
+        <updated>2023-06-08T10:33:26.000Z</updated>
+        <summary type="html"><![CDATA[安全公司 Bitdefender 报告它发现逾 6 万 Android 应用携带了广告程序，怀疑实际数字会高得多。携带广告程序的 Android 应用伪装成合法的安全软件、游戏破解工具、作弊程序、VPN 软件、Netflix 等在第三方网站传播，主要针对美国、韩国、巴西、德国、英国和法国用户。它们没有托管在 Google Play 官方应用商店，而是提供 APK 安装包的第三方网站，应用在安装后没有图标而是使用 UTF-8 字符，此举可能导致用户在安装之后不会启动应用。如果用户启动应用，它会显示错误信息，称应用不在用户所在地区提供，建议卸载。如果点击卸载，它实际上并不真的卸载，而是休眠两个小时，注册两次意图（intents）使得应用在设备重启或解锁时启动。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vivaldi 将伪装成 Microsoft Edge 允许用户使用 Bing Chat]]></title>
+        <id>https://www.solidot.org/story?sid=75192</id>
+        <link href="https://www.solidot.org/story?sid=75192"/>
+        <updated>2023-06-08T09:21:21.000Z</updated>
+        <summary type="html"><![CDATA[基于 Chromium 的浏览器 Vivaldi 释出了 v6.1，创始人谭咏文表示新版的一项新功能是能伪装成 Microsoft Edge，允许用户绕过限制使用 Bing Chat。谭咏文称，很多网站和服务会根据用户代理字符串（User-Agent strings）限制其它浏览器，其中最著名的是 Google 的服务，因此在 2019 年他们修改了 Vivaldi 的用户代理字符串冒充 Google Chrome 以实现更好的网站兼容性。到了 2023 年，历史再次重复了。用户如果想尝试最近火爆的 AI 聊天机器人 Bing Chat，他们需要使用 Microsoft Edge。因此在最新版本中，Vivaldi 将能冒充 Microsoft Edge，帮助用户绕过使用限制。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 在 iOS 上已整合 Siri 和快捷指令]]></title>
+        <id>https://www.appinn.com/?p=45652</id>
+        <link href="https://www.appinn.com/chatgpt-siri-and-shortcuts-integration/"/>
+        <updated>2023-06-08T08:28:46.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT 的 iOS 客户端今日更新，整合了 Siri 和快捷指令，你可以通过各种姿势使用它了。但目前还不支持用中文问 Siri，但可以使用 嘿 Siri，Ask ChatGPT。@Appinn]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[青少年志愿者身心更健康]]></title>
+        <id>https://www.solidot.org/story?sid=75191</id>
+        <link href="https://www.solidot.org/story?sid=75191"/>
+        <updated>2023-06-08T08:10:11.000Z</updated>
+        <summary type="html"><![CDATA[发表在 JAMA Network Open 上的一项研究称，青少年志愿者身心更健康。研究小组发现，与没有做志愿者的同龄人相比，在过去一年中做过志愿者的年轻人身体更健康，对生活的看法更积极，患焦虑、抑郁或行为问题的可能性更小。第一作者 Kevin Lanza 说:“这些研究结果让人们乐观地认为，青年志愿服务可能是一个双赢的局面，青年为自己的利益服务于社会。”“此外，家庭成员和其他人可能会加入年轻人的志愿活动，在建立社区的同时加强社会联系。”Lanza 的团队分析了一项长期全国调查中家长报告的数据，该调查追踪了美国儿童和青少年的健康和福祉，重点关注了2019-2020年期间接受调查的近5.2万名6至17岁的儿童和青少年。在这些受访者中，三分之一的儿童和略多于一半的青少年在过去一年中做过志愿者工作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流行《我的世界》模组被发现感染恶意程序 Fracturiser]]></title>
+        <id>https://www.solidot.org/story?sid=75190</id>
+        <link href="https://www.solidot.org/story?sid=75190"/>
+        <updated>2023-06-08T07:46:28.000Z</updated>
+        <summary type="html"><![CDATA[为《我的世界（Minecraft）》提供模组的平台 CurseForge 建议用户立即停止下载或更新模组。它托管的模组开发者账号遭到入侵，数十个流行的插件和模组被植入了恶意程序 Fracturise。攻击可以追溯到四月份，意味着开发者账号被入侵达数周之久。CurseForge 运营的开发者平台 Bukkit.org 也受到影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时隔两年，小狼毫输入法更新了]]></title>
+        <id>https://www.appinn.com/?p=45653</id>
+        <link href="https://www.appinn.com/rime-for-windows-0-15-0/"/>
+        <updated>2023-06-08T07:20:57.000Z</updated>
+        <summary type="html"><![CDATA[来自论坛 @Landius 同学的消息：跨平台输入法算法框架 RIME／中州韵输入法引擎下的 Windows 发行版本小狼毫输入法（Rime for Windows）时隔 2 年更新至 0.15.0]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We've added 15 new integer tools]]></title>
+        <id>https://catonmat.net/15-new-integer-tools</id>
+        <link href="https://catonmat.net/15-new-integer-tools"/>
+        <updated>2023-06-08T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Team Browserling keeps shipping!
+Last week we added 10 new list tools and and today we just added 15 new tools to our Online Integer Tools collection.
+We've done our job and now it's Google's job to index them and rank them well.
+Here are the new integer tools.
+Create Palindromic Integers
+Rewrite an Integer as a Sum
+Rewrite an Integer as a Product
+Add Commas to an Integer
+Remove Commas from an Integer
+Add Integers
+Add Integer Digits
+Multiply Integers
+Multiply Integer Digits
+Find the Running Total
+Find the Running Product
+Join Multiple Integers Together
+Create an Integer Array
+Truncate Integers
+Round Integers
+Analyze Integers
+Destroy Integers
+Next week we'll add even more tools. See you then!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 不再想让员工远程工作]]></title>
+        <id>https://www.solidot.org/story?sid=75189</id>
+        <link href="https://www.solidot.org/story?sid=75189"/>
+        <updated>2023-06-08T06:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Google 首席人事官 Fiona Cicconi 周三通知员工，将在绩效评估中考虑办公室出勤记录，并向经常缺勤的员工发送提醒。她在邮件中写道，大多数员工已经在遵循混合办公政策；该政策要求每周大约有三天在办公室工作。Cicconi 写道：“当然，会有一些情况导致员工可能无法来办公室，比如本周加拿大和美国东海岸发布了空气质量控制警告——我们一直希望大家能照顾好自己，照顾好自己的健康。”周三，加拿大发生了数以百计的山火，产生的烟雾在美国东部人口众多的地区造成持续的雾霾，迫使许多人减少户外活动。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit API 付费豁免非商业无障碍应用]]></title>
+        <id>https://www.solidot.org/story?sid=75188</id>
+        <link href="https://www.solidot.org/story?sid=75188"/>
+        <updated>2023-06-08T06:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Reddit 正为其受争议的 API 定价方案制定豁免条款，允许“解决无障碍需求”的非商业应用免费使用 API。Reddit 目前给出的 API 定价是 5000 万次请求 1.2 万美元，第三方客户端不太可能负担得起如此高昂的价格，流行 iOS 客户端 Apollo 的开发者 Christian Selig 称这意味着他每年需要支付 2000 万美元。Reddit 社区准备发起持续 48 小时的抵制活动，抗议 Reddit 的这一做法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google AI 发现更快的排序算法]]></title>
+        <id>https://www.solidot.org/story?sid=75187</id>
+        <link href="https://www.solidot.org/story?sid=75187"/>
+        <updated>2023-06-08T05:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Google Deepmind 的研究人员在《自然》期刊上发表研究报告，他们使用深度强化学习发现了更快的排序算法。Google Deepmind 的新 AI 系统被称为 AlphaDev，它发现的新算法已经整合到 LLVM 的 C++ 排序库中。Google 研究人员称新算法对较短序列的排序速度提升了最高 70%，对超过 25 万元素的长序列速度提升了 1.7%。研究人员称这是排序库这一部分十年来的首次变化。有开发者认为 Google 的声明过于夸张了，它的算法只是发现了能节省一次 MOV 操作的组装序列，排序库之所以没变化是没有活跃的开发计划。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法庭同意了 SEC 冻结币安美国资产的要求]]></title>
+        <id>https://www.solidot.org/story?sid=75186</id>
+        <link href="https://www.solidot.org/story?sid=75186"/>
+        <updated>2023-06-08T05:03:22.000Z</updated>
+        <summary type="html"><![CDATA[美国证券交易委员会(SEC)周二向法庭递交紧急动议，要求法官冻结币安美国平台的资产，归还客户持有的法币和加密货币。哥伦比亚特区联邦地方法院随后批准了这一动议，认为 SEC 提供了充分的证据。紧急冻结令将冻结币安 BAM Management 和 BAM Trading 的资产，阻止资产转移，除非是转移给认可的第三方托管人，要求币安代表 Binance.US 客户汇回在美国境外持有的任何资产。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[音流 Beta – 支持 Subsonic 和 Navidrome 的音乐播放器[iPhone/Android]]]></title>
+        <id>https://www.appinn.com/?p=45648</id>
+        <link href="https://www.appinn.com/yinliu-music-player/"/>
+        <updated>2023-06-08T04:23:16.000Z</updated>
+        <summary type="html"><![CDATA[「音流」是一款支持 Subsonic 和 Navidrome 的音乐播放器，支持歌词显示（推荐部署 Navidrome，这样可以获取到动态歌词），希望能给你多一种 Subsonic 客户端的选择。@A]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊 Prime Video 计划推出广告版]]></title>
+        <id>https://www.solidot.org/story?sid=75185</id>
+        <link href="https://www.solidot.org/story?sid=75185"/>
+        <updated>2023-06-08T03:28:35.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊流媒体服务 Prime Video 计划推出广告版，以吸引更多用户。Prime Video 以两种方式提供给用户：其一是作为月费 14.99 美元的 Prime 会员的一部分，其二是月费 8.99 美元的独立版本。亚马逊还与其它流媒体公司如华纳兄弟发现（WBD）和派拉蒙协商通过其 Prime Video Channels 提供各自的广告版流媒体。亚马逊是目前美国第三大广告公司，仅次于 Google 和 Meta。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefox  114.0 释出]]></title>
         <id>https://www.solidot.org/story?sid=75184</id>
@@ -988,146 +1169,6 @@ Run end of month sales too and see you next time!]]></summary>
         <link href="https://www.solidot.org/story?sid=75103"/>
         <updated>2023-05-30T15:18:12.000Z</updated>
         <summary type="html"><![CDATA[2023 年如果你想侮辱某个人，你可以称他们为 AI。比如把 NBA 勇士队球星 Jordan Poole 称为 AI Steph Curry，将美国运输部长 Pete Buttigieg 称为第一位 AI 内阁成员。相比人类的作品，AI 生产的文本被认为是乏味、缺乏灵魂、充斥着陈词滥调和重复的创意。因此如果有人写出类似风格的作品，就有可能被批评是 AI 写的。Apple TV+ 上个月上线的动作片《Ghosted》由明星克里斯·埃文斯等人主演，但故事相当的陈词滥调，因此 《卫报》的影评人认为这是第一部完全由 AI 创作的电影。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust 项目回应 RustConf 主题演讲争议]]></title>
-        <id>https://www.solidot.org/story?sid=75102</id>
-        <link href="https://www.solidot.org/story?sid=75102"/>
-        <updated>2023-05-30T14:39:06.000Z</updated>
-        <summary type="html"><![CDATA[继商标使用争议之后，Rust 项目最近又卷入了 RustConf 主题演讲争议。RustConf 2023 邀请了 JeanHeyd Meneide 发表主题演讲，但在 5 月 26 日又通知他主题演讲降为普通演讲，此事被认为是相当于一次侮辱，JeanHeyd 随即宣布拒绝出席 RustConf。Rust 项目已经发表声明，对此事公开道歉，称它的决策和沟通流程出现了问题，它将采取措施避免犯同样的错误，包括将执行严格的共识机制，启动新的治理委员会。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究揭示一位女子无痛觉的分子机制]]></title>
-        <id>https://www.solidot.org/story?sid=75101</id>
-        <link href="https://www.solidot.org/story?sid=75101"/>
-        <updated>2023-05-30T13:51:44.000Z</updated>
-        <summary type="html"><![CDATA[苏格兰女子 Jo Cameron 被发现几乎感觉不到疼痛，从不感到焦虑或恐惧。她身上的基因 FAAH-OUT 包含了一个罕见突变，与 FAAH 基因的一种常见突变结合，导致了 Jo Cameron 独特的生理特征。根据发表在《Brain》上的一项研究，科学家揭示了这一现象背后的分子机制。FAAH-OUT 所在的基因组区域以前被认为是垃圾 DNA 1，它被发现能调节 FAAH 基因的表达，FAAH 基因是内分泌系统的一部分，参与了疼痛、情绪和记忆。当 Jo Cameron 携带的突变导致这一功能关闭之后，FAAH 酶的活性水平显著降低。除此之外，还有 797 个基因表达被调高，348 个被调低。其中包括与伤口愈合相关的  WNT pathway 的改变，以及与骨骼再生相关的 WNT16 基因活性增加。另外两个改变的关键基因是与情绪调节相关的 BDNF 和调节阿片类药物水平的 ACKR3。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mullvad 移除对端口转发的支持]]></title>
-        <id>https://www.solidot.org/story?sid=75100</id>
-        <link href="https://www.solidot.org/story?sid=75100"/>
-        <updated>2023-05-30T12:27:01.000Z</updated>
-        <summary type="html"><![CDATA[瑞典 VPN 服务商 Mullvad 宣布移除对端口转发的支持，现有的端口将在 7 月 1 日移除。 Mullvad 解释说，原因是该功能遭到滥用，被利用托管不良内容和恶意服务，导致了执法部门的调查，IP 地址被列入黑名单，主机托管商取消其服务。因为 IP 被屏蔽，连带着其他普通用户也受到影响。Mullvad  上个月披露警方带着搜查令突击搜查了其办公室。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄仁勋称 AI 意味着人人都能成为程序员]]></title>
-        <id>https://www.solidot.org/story?sid=75099</id>
-        <link href="https://www.solidot.org/story?sid=75099"/>
-        <updated>2023-05-30T11:17:36.000Z</updated>
-        <summary type="html"><![CDATA[英伟达 CEO 黄仁勋周一表示，AI 意味着人人都可以是程序员了，因为他们所需要做的是与计算机对话。他欢呼了数字鸿沟的终结。黄仁勋出生在台南，幼时随父母移民到美国，他在台北电脑展上发表主题演讲时表示，我们正处以一个新计算时代，这是毫无疑问的。每个计算时代你都可以做以前无法做到的事情，AI 时代当然也是如此。编程的门槛将会降至难以置信。数字鸿沟大幅缩小。人人都是程序员，你只需要对着计算机说话。每一个行业都会深受影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔将在其 Meteor Lake CPU 中引入 VPU]]></title>
-        <id>https://www.solidot.org/story?sid=75098</id>
-        <link href="https://www.solidot.org/story?sid=75098"/>
-        <updated>2023-05-30T10:04:03.000Z</updated>
-        <summary type="html"><![CDATA[芯片巨人在台北电脑展上宣布其第 14 代酷睿处理器 Meteor Lake 将引入名为 VPU 的专用 AI 芯片。英特尔没有明确 VPU 这一缩写所代表的意思，此前它代表 Vision Processing Unit，但显然 AI 不只与视觉有关。英特尔副总裁兼 Client AI 总经理 John Rayfield 表示，大量 PC 工作负荷都使用到 AI，所以需要专用 AI 芯片。举例来说，视频会议用 AI 增强视频，游戏使用了大量 AI，类 GPT 模型，以及 Stable Diffusion 之类的 AI 工具都可以在本地执行。Rayfield 称，该公司使用 Foveros 封装技术将 CPU、GPU 和 VPU 组合成 SoC，CPU 做部分低延迟的推理工作，GPU 从事并行计算和高吞吐工作，AI 相关的工作则交给 VPU。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter 的算法放大了愤怒、敌意和情绪极化]]></title>
-        <id>https://www.solidot.org/story?sid=75097</id>
-        <link href="https://www.solidot.org/story?sid=75097"/>
-        <updated>2023-05-30T08:53:28.000Z</updated>
-        <summary type="html"><![CDATA[康奈尔科技和加州伯克利的研究人员在预印本平台 arXiv 上发表论文，分析了 Twitter 的推荐算法。Twitter 展示给用户的信息流有两种，其一是按时间线展示所关注用户的推文，其二是推荐的用户推文（被称为 For You）。研究人员收集了这两类推文，显示 Twitter 的算法放大了情绪性内容，尤其是那些表达愤怒和外群体敌意的推文。算法推荐的政治类推文让用户更正面的看待其政治内群体推文，更负面的看待其政治外群体推文。研究人员发现，虽然 Twitter 用户普遍喜欢算法推荐的推文，但不太喜欢算法选择的政治类推文。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MessAuto – 在 macOS 上自动提取「短信验证码」并自动输入的工具]]></title>
-        <id>https://www.appinn.com/?p=45535</id>
-        <link href="https://www.appinn.com/messauto-for-macos/"/>
-        <updated>2023-05-30T08:49:21.000Z</updated>
-        <summary type="html"><![CDATA[MessAuto 是一款适合苹果全家桶用户的小工具，它能够在 macOS 上自动提取短线验证码，并自动输入至验证框，以及自动发送回车键确定的三自动小工具。可以非常方便的在 Mac 上登录那些需要验证码]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 繁荣催生芯片荒]]></title>
-        <id>https://www.solidot.org/story?sid=75096</id>
-        <link href="https://www.solidot.org/story?sid=75096"/>
-        <updated>2023-05-30T07:42:10.000Z</updated>
-        <summary type="html"><![CDATA[AI 繁荣催生芯片荒。用于 AI 的图形处理器(GPU)几乎都是由英伟达制造的。但随着 ChatGPT 的爆火，对这些芯片的需求大增，已经远超供应。“缺芯”局面限制了亚马逊和微软等云服务提供商能够向 ChatGPT 的开发商 OpenAI 等客户提供的处理能力。即使是 OpenAI 也难以获得充足的服务器容量。在 5 月 16 日国会 AI 听证会上，OpenAI 首席执行官 Sam Altman 说，由于处理器瓶颈，如果使用 ChatGPT 的人少一点会好一些。马斯克(Elon Musk)在 WSJ CEO Council Summit 上说：“眼下获得 GPU 比获得毒品要难得多了。”英伟达首席执行官黄仁勋周日表示，已提高其旗舰芯片 H100 的产量。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机智号在火星安全度过两年，其冒险还在继续]]></title>
-        <id>https://www.solidot.org/story?sid=75095</id>
-        <link href="https://www.solidot.org/story?sid=75095"/>
-        <updated>2023-05-30T07:28:50.000Z</updated>
-        <summary type="html"><![CDATA[机智号火星直升机已经在火星上度过了两年，完成了 51 次飞行，目前由于地形造成的通信问题 52 次飞行迟迟没有进行。机智号原计划只服役 30 天。这一成就显示了在太空任务中使用成熟商业零部件的潜力。机智号主要用于技术演示，大量使用了商业零部件，包括高通的 2.26 GHz 四核处理器 Snapdragon 801，德州仪器的 TMS570LC43x，索尼的锂离子电池，运行的是 Linux 操作系统。根据 NASA 的记录，自 2021 年 4 月成功首飞以来，机智号累计飞行 11.7 公里，总飞行时长约 91.4 分钟。最高飞行高度 18 米。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淡马锡削减投资 FTX 的工作人员薪酬]]></title>
-        <id>https://www.solidot.org/story?sid=75094</id>
-        <link href="https://www.solidot.org/story?sid=75094"/>
-        <updated>2023-05-30T06:51:05.000Z</updated>
-        <summary type="html"><![CDATA[管理着 3000 亿美元资产的新加坡主权财富基金淡马锡公布了对最近倒闭的加密货币平台 FTX 的内部调查结果。淡马锡称，投资团队在得出投资建议的过程中并没有不当行为。淡马锡也表示不会因此停止投资新兴行业和科技公司，因为这有助于了解这些领域对现有投资组合公司的影响，淡马锡也会加强对这些领域公司的评估。虽然如此，考虑到 FTX 投资亏损对声誉带来的负面影响，负责的投资团队和高层管理须共同承担责任，淡马锡将扣回他们的部分薪酬。淡马锡向 FTX 投资了 2.75 亿美元，已全数减值。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度 JioCinema 打破了现场直播同时观看人数记录]]></title>
-        <id>https://www.solidot.org/story?sid=75093</id>
-        <link href="https://www.solidot.org/story?sid=75093"/>
-        <updated>2023-05-30T06:39:48.000Z</updated>
-        <summary type="html"><![CDATA[印度 JioCinema 周一晚上打破了现场直播同时观看人数记录，它吸引了逾 3200 万人观看印度超级板球联赛 Chennai Super Kings 和 Gujarat Titans 之间的最后一场决赛，超过迪士尼旗下的 Hotstar 服务在 2019 年 7 月一场板球比赛创下的 2530 万人同时观看记录。JioCinema 隶属于印度 Jio Platforms，而后者是信实工业的子公司，信实工业的老板是亚洲第一富豪 Mukesh Ambani。去年 JioCinema 报价 30 亿美元击败迪士尼获得了超级板球联赛的独家数字播放权，它采用了免费策略吸引用户观看。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LHC 实验观察到希格斯玻色子衰变的首个证据]]></title>
-        <id>https://www.solidot.org/story?sid=75092</id>
-        <link href="https://www.solidot.org/story?sid=75092"/>
-        <updated>2023-05-30T05:52:28.000Z</updated>
-        <summary type="html"><![CDATA[CERN 的 LHC 的 ATLAS 和 CMS 实验在 2012 年发现了希格斯玻色子，这是标准物理学的一个重要里程碑。此后 ATLAS 和 CMS 转向了研究希格斯玻色子的属性，确定它如何衰变成其它粒子的不同方式。在 Large Hadron Collider Physics (LHCP)会议上，ATLAS 和 CMS 报告了希格斯玻色子衰变为 Z 玻色子和光子的首个证据。粒子物理学标准模型预测，如果希格斯玻色子质量在 1250 亿电子伏特左右，它有 0.15% 的概率衰变为一个 Z 玻色子和一个光子，但部分标准模型扩展理论给出了不同的衰变率。利用 LHC 的质子对撞数据，ATLAS 和 CMS 的搜索发现希格斯玻色子衰变为 Z 玻色子的概率为 6.6%。目前希格斯玻色子衰变为 Z 玻色子和光子的证据为 3.4个标准差，还达不到 5 个标准差的要求。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xlist – AList 手机客户端，网盘文件聚合，支持在线视频播放和文档预览[iPhone]]]></title>
-        <id>https://www.appinn.com/?p=45530</id>
-        <link href="https://www.appinn.com/xlist-for-alist/"/>
-        <updated>2023-05-30T04:21:36.000Z</updated>
-        <summary type="html"><![CDATA[Xlist 是网盘文件聚合兼在线视频播放工具 Alist 的 iPhone 客户端，能够浏览你的 Alist 文件，并直接播放网盘里的在线视频。支持配置多个 Alist 服务器。@Appinn 来自@]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神舟十六号发射成功]]></title>
-        <id>https://www.solidot.org/story?sid=75091</id>
-        <link href="https://www.solidot.org/story?sid=75091"/>
-        <updated>2023-05-30T03:11:50.000Z</updated>
-        <summary type="html"><![CDATA[北京时间 2023 年 5 月 30 日 9 时 31 分，搭载神舟十六号载人飞船的长征二号F遥十六运载火箭在酒泉卫星发射中心点火发射，约 10 分钟后，神舟十六号载人飞船与火箭成功分离，进入预定轨道，航天员乘组状态良好，发射取得圆满成功。飞船入轨后，将按照预定程序与空间站组合体进行自主快速交会对接，神舟十六号航天员乘组将与神舟十五号航天员乘组进行在轨轮换。在空间站工作生活期间，神舟十六号航天员乘组将进行出舱活动，开展空间科学实（试）验，完成舱内外设备安装、调试、维护维修等各项任务。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
