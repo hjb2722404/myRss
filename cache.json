@@ -12,6 +12,31 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45434",
+          "author": "开发者推荐账号",
+          "description": "今天要介绍的软件功能很强大。 我觉得，不管你是公司做宣传推广，需要给为自己公司制作特效动画视频的职员，还是专业的AE设计师，日常需要为甲方爸爸制作视频，抑或是需要做真人出镜微课的老师，都建议你试试它，",
+          "link": "https://www.appinn.com/wancai-videoclipmaster/",
+          "publishedOn": "2023-06-09T10:41:09.000Z",
+          "wordCount": 2490,
+          "title": "强推！让小白也能制作宣传视频片头片尾/真人出镜微课—万彩特效大师（文中有福利）",
+          "enclosure": {
+            "url": "https://files.animiz.cn/videoclipmaster/home/demo/propaganda.mp4",
+            "length": "20934372",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/09/Appinn-2022-09-22T131005.929.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=45626",
+          "author": "青小蛙",
+          "description": "Numpkin 是一款 iPhone 上的多人记账工具，专为多人旅行和聚会团队设计。它适合多个人共同记账，也适合一个人为整件事记账，但终究还是一个人记账。@Appinn 发现 Numpkin 的过程很",
+          "link": "https://www.appinn.com/numpkin/",
+          "publishedOn": "2023-06-09T09:47:12.000Z",
+          "wordCount": 2536,
+          "title": "Numpkin – 多人记账的终极解决方案，其实是一个人记账[iPhone]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/06/numpkin.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45652",
           "author": "青小蛙",
           "description": "ChatGPT 的 iOS 客户端今日更新，整合了 Siri 和快捷指令，你可以通过各种姿势使用它了。但目前还不支持用中文问 Siri，但可以使用 嘿 Siri，Ask ChatGPT。@Appinn",
@@ -150,16 +175,6 @@
           "wordCount": 2739,
           "title": "618 正版软件大促 5 折起，80+ 款软件特价，51 款历史低价",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/06/lizhi-23618.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45549",
-          "author": "开发者推荐账号",
-          "description": "一条通知是一款增强和管理 Android 通知的工具，通过规则匹配 APP 推送的通知，并执行操作（如记录历史通知、自动播报通知等），支持 14种执行操作。@Appinn 来自发现频道，开发者 @sk",
-          "link": "https://www.appinn.com/one-notification-for-android/",
-          "publishedOn": "2023-05-31T08:03:25.000Z",
-          "wordCount": 2526,
-          "title": "一条通知 – Android 通知管理工具：转发、播报等",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/05/one-notification.jpgo_.jpg"
         }
       ]
     },
@@ -210,16 +225,6 @@
           "wordCount": 1485,
           "title": "使用jsPDF导出PDF文件实践分享",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10858",
-          "author": "张 鑫旭",
-          "description": "这个CSS属性至少99%的人都没见过。",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/05/css-margin-trim/",
-          "publishedOn": "2023-05-30T16:26:59.000Z",
-          "wordCount": 1013,
-          "title": "CSS margin-trim属性是做什么用的？",
-          "imageUrl": null
         }
       ]
     },
@@ -228,6 +233,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75209",
+          "author": null,
+          "description": "ArchiveTeam 存档团队正在 Reddit 社区计划中的大规模抗议开始前存档内容，他们目前存档了 108 亿个帖子（包括帖子内容、评论和图像），还有很多等待完成，团队表示时间来不及了。因为 API 价格变更，Reddit 社区将于 6 月 12 日举行大规模抗议活动，大部分 subreddit 将关闭 48 小时，但还有部分 subreddit 将无限期关闭，除非 Reddit 官方改变其 API 定价。这意味着很多内容将无法从外部访问，ArchiveTeam 希望能赶在  6 月 12 日前将内容存档。",
+          "link": "https://www.solidot.org/story?sid=75209",
+          "publishedOn": "2023-06-09T15:52:54.000Z",
+          "wordCount": 181,
+          "title": "ArchiveTeam 正在存档 Reddit 内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75208",
+          "author": null,
+          "description": "Reddit 第三方 iOS 客户端 Apollo 公开了后端源代码，项目托管在 GitHub，开发者未选择许可证。Reddit 备受争议的 API 定价即将生效，Apollo 开发者 Christian Selig 宣布将于 6 月 30 日关闭该客户端，他同时表示没有出售的意愿。公开后端源代码的一个目的是证明它并不是抓取 Reddit 的内容，而是合法使用 API，并遵守了 API 的速率限制。",
+          "link": "https://www.solidot.org/story?sid=75208",
+          "publishedOn": "2023-06-09T15:33:19.000Z",
+          "wordCount": 167,
+          "title": "Apollo 公开后端源代码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75207",
+          "author": null,
+          "description": "科学家呼吁对一种常见能量饮料成分牛磺酸展开大型临床试验，以研究它是不是真的有助于延缓衰老。牛磺酸是一种存在于动物组织中的有机酸，研究人员发现它可能是衰老过程中的一种潜在驱动因素，包括人类在内的动物随着年龄的增长其体内的牛磺酸水平会急剧下降。在 60 岁时人体内的牛磺酸水平会降至 5 岁儿童的三分之一。对实验鼠的研究发现，将牛磺酸补充到年轻时的水平，有助于延缓衰老过程，改善健康，延长寿命。相比对照组的小鼠，实验组小鼠的骨骼更致密，肌肉更强壮，记忆力更好，免疫系统更年轻。实验组雄性小鼠寿命增加了 10%，雌性增加了 12%，平均多活 3 到 4 个月，相当于人类的 7 到 8 年。对中年猕猴的实验也发现了类似的效应。研究人员还发现，骑健身自行车进行剧烈运动可提高牛磺酸水平。在没有大型试验证明牛磺酸的安全性或益处的情况下，科学家不建议通过服用药丸、能量饮料或饮食改变增加牛磺酸的摄入量。科学家称，能量饮料除了含有牛磺酸外，还有其它大量饮用可能不安全的成分，比如尼古丁。",
+          "link": "https://www.solidot.org/story?sid=75207",
+          "publishedOn": "2023-06-09T15:09:44.000Z",
+          "wordCount": 155,
+          "title": "常见能量饮料成分牛磺酸或有助于延缓衰老",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75206",
+          "author": null,
+          "description": "美国路易斯安那州通过法案禁止不到 18 岁的未成年人未经父母同意创建社交媒体账号。法案 HB61 对在线服务的定义过于宽泛，涵盖了 Instagram 等社交媒体，以及 Roblox 和 Fortnite 等流行网游，甚至还可能包括注册电邮。法案还允许父母在儿童登陆现有账号时取消签订的服务条例。法案将在州长 John Bel Edwards 签署之后于明年 8 月 1 日生效（他也可以选择否决该法案）。法案如何执行仍然未知。在路易斯安那州，17 岁的未成年人可以购枪，但他们此时还无法自行创建社交账号，这令人感到荒诞。",
+          "link": "https://www.solidot.org/story?sid=75206",
+          "publishedOn": "2023-06-09T14:04:30.000Z",
+          "wordCount": 160,
+          "title": "美国路易斯安那州禁止儿童未经父母同意访问社交网络",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75205",
+          "author": null,
+          "description": "南佛罗里达大学教授 Joseph Dituri 在水下生活了一百天。这一实验旨在研究压力增加对身体的长期影响。Dituri 于 3 月 1 日潜入佛罗里达州基拉戈潟湖底部水深约 9.14 米的朱尔斯水下旅馆，并打破了目前在水下生活的最长时间纪录。他于 6 月 9 日 10:30 a.m. EDT 浮出水面。在水下旅馆中，大气压力比水面高 70%。Dituri 认为这种条件可以帮助人们逆转地表衰老，这可能是活到 110 岁的关键。作为一名高压医学研究人员，Dituri 每天大部分时间都在测试自己的血液和唾液，而测量心脏功能的心电图、记录大脑活动的脑电图和评估肺功能的肺功能测试，则可以观察水下栖息给身体带来的变化。",
+          "link": "https://www.solidot.org/story?sid=75205",
+          "publishedOn": "2023-06-09T10:25:56.000Z",
+          "wordCount": 166,
+          "title": "科学家在水下生活一百天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75204",
+          "author": null,
+          "description": "0day 漏洞通常不会导致网络安全供应商督促客户替换受影响的硬件，但这就是梭子鱼网络（Barracuda Networks）本周发生的事情。它的 Email Security Gateway（ESG） 发现了一个 0day——远超命令注入漏洞 CVE-2023-2868。而这个 0day 被活跃利用了 8 个月，被攻击者利用安装恶意程序窃取敏感数据。梭子鱼发现自己难以通过软件更新修复漏洞，它现在督促 ESG 客户移除和更换设备，而不只是打补丁。梭子鱼称，除了更换设备外客户还需要轮换连接设备的任何凭据，检查是否有入侵的迹象。ESG 从去年 10 月起就遭到利用。",
+          "link": "https://www.solidot.org/story?sid=75204",
+          "publishedOn": "2023-06-09T09:57:28.000Z",
+          "wordCount": 158,
+          "title": "梭子鱼网络督促客户替换设备而不是打补丁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75203",
+          "author": null,
+          "description": "对上个月泄露的特斯拉内部文件的分析发现，截至 2022 年 1 月 Cybertruck 仍然受困于很多基础性的设计问题。Cybertruck 是特斯拉在 2019 年宣布的赛博朋克风格的电动皮卡，原计划 2021 年开始投产，但两年之后产品仍然没有交付。而据估计有 180 万客户支付了 100 美元的预订费。根据日期为 2022 年 1 月 25 日的报告，Cybertruck 的 alpha 试生产版本受困于悬架、车身密封、噪音水平、控制和刹车等相关的基础性问题。汽车设计师表示，这些问题在传统汽车上都很常见，他相信特斯拉有充足的财力去解决这些问题。特斯拉的报告认为，alpha 版本的 Cybertruck 性能与目标相去甚远。",
+          "link": "https://www.solidot.org/story?sid=75203",
+          "publishedOn": "2023-06-09T08:41:06.000Z",
+          "wordCount": 176,
+          "title": "特斯拉泄密文件显示 Cybertruck 受困于设计问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75202",
+          "author": null,
+          "description": "Meta CEO 扎克伯格(Mark Zuckerberg)在公司大会上评价了苹果刚宣布的 AR/MR 设备 Vision Pro。扎克伯格表示，“从我最初看到的情况判断，好消息是，对于我们团队尚未探索和考虑的任何规律和物理限制，他们没有提供任何神奇的解决方案。”售价 3,500 美元的 Vision Pro 并没有带来 Meta 尚未“探索过”的重大突破，苹果公司近十年来的首次重大硬件创新并非他想要实现的那种创新。扎克伯格称：“我认为，他们发布的产品确实显示出我们公司的价值观和愿景与之不同，我认为这一点非常重要。”他还表示，Quest 的设计理念是让“人们以新的方式互动及感受到距离拉近”，以及“保持活跃和做点事情。”“他们的每个演示都是一个人独自坐在沙发上。”扎克伯格不屑地说。“我的意思是，这可能是未来计算的愿景，不过，这不是我想要的。”",
+          "link": "https://www.solidot.org/story?sid=75202",
+          "publishedOn": "2023-06-09T08:03:58.000Z",
+          "wordCount": 164,
+          "title": "扎克伯格评论苹果 Vision Pro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75201",
+          "author": null,
+          "description": "希捷透露了采用热辅助磁记录 (HAMR) 技术的下一代硬盘发布计划。首批商用的 HAMR 硬盘容量为 32TB，推出时间大约为今年第三季度。HAMR 硬盘容量最高能达到 40TB。32 TB HAMR 硬盘将基于其  10 盘片平台，有 20 个磁头。36 TB 和 40 TB 版本也都是 10 盘片和 20 磁头。希捷称在实验室中测试的 HAMR 硬盘容量达到了 50TB。HAMR 是最早由富士通发展的技术，能大幅提升存储密度。",
+          "link": "https://www.solidot.org/story?sid=75201",
+          "publishedOn": "2023-06-09T06:58:32.000Z",
+          "wordCount": 180,
+          "title": "希捷将推出最高 40 TB 的硬盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75200",
+          "author": null,
+          "description": "BBC 曝光了一个通过社交网络传播的跨国偷拍团伙，其核心成员包括了一名《最终幻想 15》的 Cosplayer，他的用户名就来自游戏的主角 Noctis Lucis Caelum。记者在调查“痴汉（Chikan）”这一性犯罪现象时发现了一个叫“顶不住”的中文网站销售各种偷拍视频，视频拍摄地点包括了日本、韩国、香港、台湾和大陆。通过卧底相关 Telegram 群组以及挖掘付费使用 PayPal 邮箱，发现了三位核心人物：创办人猫咪 aka 齐叔；管理员 Noctis Zang——也就是曾公开参与《最终幻想 15》推广的 Cosplayer，他还组建了一个叫 The VERSUS 的乐队；以及管理员 LUPUS。他们的付费会员超过 1 万人，大部分来自中国大陆。在被记者曝光之后，主谋猫咪已经从日本逃回了大陆。",
+          "link": "https://www.solidot.org/story?sid=75200",
+          "publishedOn": "2023-06-09T06:02:55.000Z",
+          "wordCount": 163,
+          "title": "跨国偷拍团伙被曝光",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75199",
+          "author": null,
+          "description": "桌面独显的销量继续萎缩。今年一季度独显销量 630 万部，环比下降 12.6%，同比下降 38.2%，创几十年来的新低。第二季度预计会延续这一趋势，可能要到第三季度才可能反弹。英伟达继续统治着独显市场，市场份额 84%，销售约 529 万部；AMD 占 12%，出货量 76 万；英特尔 4%，出货量大约 25 万。",
+          "link": "https://www.solidot.org/story?sid=75199",
+          "publishedOn": "2023-06-09T05:36:12.000Z",
+          "wordCount": 155,
+          "title": "桌面独显销量创新低",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75198",
+          "author": null,
+          "description": "因备受争议的 API 定价，多个流行的第三方 Reddit 客户端正式宣布将于 6 月 30 日关闭。Apollo 的开发者 Christian Selig 发表了一篇长文，详细讲述了他与 Reddit 打交道的经过。Sync 开发者 Lj 宣布将在 API 变更生效前关闭。许多 Subreddit 已经宣布将举行持续 48 小时的抗议，但还有部分 Subreddit 认为这远远不够，他们宣布将无限期关闭除非 Reddit 改变做法，其中之一是在程序员中间流行的 r/ProgrammerHumor。Reddit CEO Steve Huffman(aka spez)宣布将在明天就此事做一次 AMA。",
+          "link": "https://www.solidot.org/story?sid=75198",
+          "publishedOn": "2023-06-09T03:37:18.000Z",
+          "wordCount": 188,
+          "title": "流行 Reddit 客户端宣布关闭，Subreddit 宣布将永久关闭",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75196",
           "author": null,
@@ -1027,136 +1152,6 @@
           "wordCount": 166,
           "title": "Twitter 估值跌至马斯克收购价的三分之一",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75115",
-          "author": null,
-          "description": "固件安全公司 Eclypsium 的研究人员披露，技嘉出售的主板固件含有一个隐藏的机制。每当计算机重启时，固件代码会启动一个更新程序，然后下载和执行另一个软件。其更新工具的实现是不安全的，有可能被劫持安装恶意程序。271 个型号的技嘉主板受到影响，其数量数以百万计。Eclypsium 的研究人员称，技嘉的更新机制没有正确验证就下载代码到用户计算机上，部分情况下甚至是通过 HTTP 而不是 HTTPS 下载的，这容易遭到中间人攻击。技嘉已经表示它计划修复研究人员发现的问题。",
-          "link": "https://www.solidot.org/story?sid=75115",
-          "publishedOn": "2023-05-31T14:23:03.000Z",
-          "wordCount": 150,
-          "title": "技嘉主板固件被发现内置了后门",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75114",
-          "author": null,
-          "description": "知名 BT 网站 RARBG 宣布关闭。RARBG 成立于 2008 年，至今有 15 年历史。它在最后的声明中称，过去两年对他们而言非常艰难，部分团队成员死于新冠并发症，部分成员仍然受困于新冠后遗症而无法工作，还有成员则在欧洲作战——在战争双方都有。此外还有数据中心运营费用的上涨，收入无法抵消成本的上升，关站可能是最好的方案。它表示，团队成员一致投票同意关闭网站。这是 2015/2016 年以来关闭的最大的 BT 网站。",
-          "link": "https://www.solidot.org/story?sid=75114",
-          "publishedOn": "2023-05-31T14:09:31.000Z",
-          "wordCount": 171,
-          "title": "知名 BT 网站 RARBG 宣布关闭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75113",
-          "author": null,
-          "description": "5 月 26 日以来，南方气温持续攀升，多地高温突破有气象记录以来的历史极值。5 月 29 日至 31 日是此轮高温天气过程的最强时段，江西、湖南、广东、广西以及云南、四川等地部分地区气温超过 37℃。其中，单站最高温出现在云南省巧家县，达到 43℃（5 月 29 日）。截至 5 月 31 日，南方地区 578 个国家级气象观测站刷新历史同期极值，25 个国家级气象观测站超过历史极值。中央气象台首席预报员陈涛表示，台风“玛娃”以及西太平洋副热带高压是造成此轮高温天气的主要天气系统。",
-          "link": "https://www.solidot.org/story?sid=75113",
-          "publishedOn": "2023-05-31T12:55:44.000Z",
-          "wordCount": 161,
-          "title": "南方高温刷新历史同期最高值",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75112",
-          "author": null,
-          "description": "美国政府在 18 个月前对使用以色列公司 NSO Group 的间谍软件 Pegasus 下达了禁令，根据《金融时报》的报道，美国缉毒署（DEA）转而使用另一家以色列公司 Paragon 功能几乎相同的间谍软件 Graphite。该恶意程序能渗透现代智能手机，躲避加密消息应用 Signal 或 WhatsApp 的加密，甚至还能窃取云端备份。DEA 没有直接发表评论，但据称 DEA 购买 Graphite 是供墨西哥执法机构使用打击贩毒集团。DEA 发言人表示，该机构使用可用的一切合法调查工具，追捕需要对去年 107,735 名美国人死于毒品负责的外国贩毒组织和个人。",
-          "link": "https://www.solidot.org/story?sid=75112",
-          "publishedOn": "2023-05-31T12:18:45.000Z",
-          "wordCount": 183,
-          "title": "美国 DEA 使用与 NSO Pegasus 类似的间谍软件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75111",
-          "author": null,
-          "description": "梭子鱼网络（Barracuda Networks）于 10 天前修复的一个高危漏洞被活跃利用了 8 个月。该漏洞 CVE-2023-2868 是一个远程命令注入漏洞，源自对用户提供的 .tar 文件的不完全输入验证。如果以特定方式格式化文件名，攻击者可以通过 QX 运算符执行系统命令。漏洞影响版本号 Barracuda Email Security Gateway v5.1.3.001 - v9.2.0.006。梭子鱼本周二承认该漏洞从去年 10 月起被利用安装恶意程序窃取敏感数据。",
-          "link": "https://www.solidot.org/story?sid=75111",
-          "publishedOn": "2023-05-31T10:05:43.000Z",
-          "wordCount": null,
-          "title": "梭子鱼网络高危漏洞被利用了 8 个月",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75110",
-          "author": null,
-          "description": "Canonical 开发者透露，Ubuntu 的下一个长期支持版将有两个版本，默认是基于传统的 deb 格式的版本，另一个是完全基于 Snap 格式的版本。deb 格式源自 Ubuntu 的上游发行版 Debian，而 Snap 则是 Canonical 自己开发的打包格式，此前它已经决定默认不再支持竞争的格式 Flatpak。",
-          "link": "https://www.solidot.org/story?sid=75110",
-          "publishedOn": "2023-05-31T09:05:03.000Z",
-          "wordCount": 168,
-          "title": "Ubuntu 将在明年提供基于 Snap 的桌面版本",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75109",
-          "author": null,
-          "description": "Levidow, Levidow, & Oberman 律所律师 Steven Schwartz 承认在法庭文件中引用了 ChatGPT 伪造的六个案例，联邦法官 Kevin Castel 正在考虑是否惩罚 Schwartz 及其同事。Schwartz 在一份宣誓书面陈述中对此表示深表懊悔，称生产式 AI 已在法律业开始推广开来，他质询了 ChatGPT 以补充正在进行的法律研究，并要求它提供了信息来源。尽管 ChatGPT 编造故事的能力早就众所周知，但 Schwartz 称自己此前从未用过 ChatGPT，没有考虑到聊天机器人提供的信息是虚假的，没有去核实信息。法官 Castel 将在 6 月 8 日召开听证会，要求 Schwartz 及其律所说明为什么他们不应该受到制裁。",
-          "link": "https://www.solidot.org/story?sid=75109",
-          "publishedOn": "2023-05-31T08:02:29.000Z",
-          "wordCount": 181,
-          "title": "律师引用 ChatGPT 伪造的六个案例，将面临法官惩罚",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75108",
-          "author": null,
-          "description": "一群行业领袖周二警告，他们正在开发的人工智能技术有朝一日可能对人类的生存构成威胁，应被视为与大流行病及核战争同等的社会风险。非营利组织人工智能安全中心发表的一份只有一句话的声明写道：“减轻人工智能带来的灭绝风险应该成为全球的优先事项，就像应对其他社会规模的风险——如大流行病和核战争一样。”这封公开信由逾 350 名从事人工智能工作的高管、研究人员和工程师签署。签署者包括三家领先人工智能公司的高管：OpenAI 首席执行官 Sam Altman，Google DeepMind 首席执行官 Demis Hassabis，以及 Anthropic 首席执行官 Dario Amodei。Geoffrey Hinton 和 Yoshua Bengio是因在神经网络方面的开创性工作而获得图灵奖的三位研究人员中的两位，他们通常被视为现代人工智能运动的“教父”，他们也签署了该声明。此外还有中科院和清华大学等机构的研究人员。",
-          "link": "https://www.solidot.org/story?sid=75108",
-          "publishedOn": "2023-05-31T06:55:03.000Z",
-          "wordCount": 167,
-          "title": "科技业领袖再次警告 AI 构成生存威胁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75107",
-          "author": null,
-          "description": "主要为用户提供盗版英超联赛流媒体服务的 Flawless IPTV 的五名运营者被判了 3-11 年徒刑，总刑期超过 30 年。Flawless IPTV 在 2016-2018 年之间通过官方和非官方来源向逾 5 万户英国用户提供了可负担得起的英超比赛串流服务，但在英超眼里，它是窃取了其收入的犯罪组织，直接影响到了获得英超流媒体播放权的 Sky 和 Virgin Media 的订阅收入。Flawless 的主谋 Mark Gould 被判了史无前例的 11 年徒刑，Steven Gordon 和 Peter Jolley 被判 5 年 2 个月徒刑，Christopher Felvus 被判 3 年 11 个月，William Brown 4 年 9 个月，还有一名从犯 Zak Smith 尚未被捕。",
-          "link": "https://www.solidot.org/story?sid=75107",
-          "publishedOn": "2023-05-31T06:30:26.000Z",
-          "wordCount": 196,
-          "title": "英超盗版流媒体服务提供者被判 3-11 年徒刑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75106",
-          "author": null,
-          "description": "世界气象组织（WMO）警告，地球冰冻圈正在快速变化，急需采取协调行动。WMO 称，基准冰川在 2021 年 10 月至 2022 年 10 月期间经历了平均厚度减少 1.3米 以上的变化。这一损失远高于过去十年的平均水平。自 1970 年以来，累积厚度损失几乎达到了 30 米。格陵兰冰盖的总质量平衡连续第 26 年为负。2022 年 2 月 25 日，南极海冰降至 192 万平方公里，为有记录以来的最低水平，比长期(1991-2020年)均值低近 100 万平方公里。冰川、格陵兰岛和南极洲冰盖融化约占海平面上升的 50%，海平面上升正在加速。这对小岛屿发展中国家和人口稠密的沿海地区产生了日益增大的级联影响。",
-          "link": "https://www.solidot.org/story?sid=75106",
-          "publishedOn": "2023-05-31T05:26:42.000Z",
-          "wordCount": 172,
-          "title": "WMO 警告地球冰冻圈正在快速变化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75105",
-          "author": null,
-          "description": "英特尔正致力于发展芯片代工业务，为其它公司代工芯片，但这一业务进展缓慢，有兴趣合作的公司如高通因芯片巨人多次达不到目标而暂停了工作。英特尔的芯片工厂主要专注于高性能 CPU 生产，而电池寿命有限的手机芯片需要不同的技能和新的电路设计。据 WSJ 援引消息来源报道，高通和特斯拉曾探讨过让英特尔代工芯片，但后来又打了退堂鼓。其中一位知情高管表示，特斯拉之所以放弃，是因为英特尔无法提供其他主要代工商所提供的大量芯片设计服务。据一些参与相关互动的人士透露，英特尔在技术方面屡屡遇挫之后，高通公司退缩了。",
-          "link": "https://www.solidot.org/story?sid=75105",
-          "publishedOn": "2023-05-31T05:20:50.000Z",
-          "wordCount": 145,
-          "title": "英特尔的芯片代工业务遭遇挫折",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75104",
-          "author": null,
-          "description": "英伟达周二成为第一家市值突破 1 万亿美元的芯片公司。此前进入万亿美元俱乐部的公司包括苹果、微软、Alphabet/Google 和亚马逊。今天的 AI 程序大部分运行在英伟达的芯片上，因此 AI 的繁荣催动了英伟达的股价上周一度飙升 24%，接近万亿美元，本周二开盘后的涨势推动该公司正式突破这一数字。台积电目前是次于英伟达的第二大芯片公司，市值约为 5350 亿美元。",
-          "link": "https://www.solidot.org/story?sid=75104",
-          "publishedOn": "2023-05-30T15:30:43.000Z",
-          "wordCount": 163,
-          "title": "英伟达成为第一家市值突破 1 万亿美元的芯片公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75103",
-          "author": null,
-          "description": "2023 年如果你想侮辱某个人，你可以称他们为 AI。比如把 NBA 勇士队球星 Jordan Poole 称为 AI Steph Curry，将美国运输部长 Pete Buttigieg 称为第一位 AI 内阁成员。相比人类的作品，AI 生产的文本被认为是乏味、缺乏灵魂、充斥着陈词滥调和重复的创意。因此如果有人写出类似风格的作品，就有可能被批评是 AI 写的。Apple TV+ 上个月上线的动作片《Ghosted》由明星克里斯·埃文斯等人主演，但故事相当的陈词滥调，因此 《卫报》的影评人认为这是第一部完全由 AI 创作的电影。",
-          "link": "https://www.solidot.org/story?sid=75103",
-          "publishedOn": "2023-05-30T15:18:12.000Z",
-          "wordCount": 169,
-          "title": "AI 变成一种侮辱",
-          "imageUrl": null
         }
       ]
     },
@@ -1227,6 +1222,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/annual-onlinetools-discount",
+          "author": null,
+          "description": "We just added a 33% annual discount for Online Tools subscriptions. Now in the pricing page, when you switch from a monthly type to a yearly type, the price gets recalculated and you get 33% off.\nNext we'll add annual discounts to Browserling as well. See you then!",
+          "link": "https://catonmat.net/annual-onlinetools-discount",
+          "publishedOn": "2023-06-09T07:15:00.000Z",
+          "wordCount": 148,
+          "title": "33% Annual Discount for Online Tools Subscriptions",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/15-new-integer-tools",
           "author": null,
           "description": "Team Browserling keeps shipping!\nLast week we added 10 new list tools and and today we just added 15 new tools to our Online Integer Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new integer tools.\nCreate Palindromic Integers\nRewrite an Integer as a Sum\nRewrite an Integer as a Product\nAdd Commas to an Integer\nRemove Commas from an Integer\nAdd Integers\nAdd Integer Digits\nMultiply Integers\nMultiply Integer Digits\nFind the Running Total\nFind the Running Product\nJoin Multiple Integers Together\nCreate an Integer Array\nTruncate Integers\nRound Integers\nAnalyze Integers\nDestroy Integers\nNext week we'll add even more tools. See you then!",
@@ -1244,16 +1249,6 @@
           "publishedOn": "2023-06-01T18:00:00.000Z",
           "wordCount": 99,
           "title": "We now have the browserking.com domain!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/end-of-may-sale",
-          "author": null,
-          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated sales campaign called \"End of month Sale\" where month is a variable.\nNow each month, on the last day of the month, we show a 50% discount offer to all users who visit our site.\nThis month it's \"End of May Sale\". Next month it will be \"End of June Sale\", etc.\nHere's how it looks.\nRun end of month sales too and see you next time!",
-          "link": "https://catonmat.net/end-of-may-sale",
-          "publishedOn": "2023-05-31T06:26:01.000Z",
-          "wordCount": 176,
-          "title": "End of May Sale",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
