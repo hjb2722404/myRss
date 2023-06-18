@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-06-17T02:33:14.244Z</updated>
+    <updated>2023-06-18T02:50:34.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[欧盟投票要求智能手机电池可替换]]></title>
+        <id>https://www.solidot.org/story?sid=75274</id>
+        <link href="https://www.solidot.org/story?sid=75274"/>
+        <updated>2023-06-17T15:14:33.000Z</updated>
+        <summary type="html"><![CDATA[欧盟议会议员以 587 票赞成、9 票反对和 20 票弃权通过了改革欧盟电池和废电池规则的协议。新的电池规则将涵盖电动汽车电池、消费者设备的便捷式电池和工业电池等等。对于智能手机等消费设备使用的电池，新规定将要求电池易于拆卸和更换。今天绝大部分智能手机电池都是固定的，而十几年前的电池是可以自行更换的。欧盟的新规定可能有助于恢复旧的方式，延长设备的使用时间。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[harbian-audit v0.7 发布，支持 Debian 12]]></title>
+        <id>https://www.solidot.org/story?sid=75273</id>
+        <link href="https://www.solidot.org/story?sid=75273"/>
+        <updated>2023-06-17T11:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Shawn the R0ck 写道：HardenedLinux社区在2018年12月公开了harbian-audit项目后，一直持续的进行着bug修复和新功能的开发。此次harbian-audit v0.7版本正式发布，这个版本在原有支持Debian GNU/Linux 9,10,10及CentOS 8版本的基础上修复了一些bug及添加了一些新特性，并主要针对Debian 12的发布进行了合规的实现。此项目是目前为止唯一一个整合了STIG和CIS两个安全部署合规指南，并且覆盖Debian和RHEL/CentOS两大企业部署量最大GNU/Linux发行版的自由软件的公开实现。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[众包工人用 AI 做数据标注等零工]]></title>
+        <id>https://www.solidot.org/story?sid=75272</id>
+        <link href="https://www.solidot.org/story?sid=75272"/>
+        <updated>2023-06-17T11:28:06.000Z</updated>
+        <summary type="html"><![CDATA[高质量的数据标注对 AI 模型至关重要，AI 公司通常会利用亚马逊的 Amazon Mechanical Turk 等第三方平台雇佣廉价众包工人做一些数据标注等工作。AI 模型是建立在人类劳动的基础之上的，但研究显示随着 AI 聊天机器人如 OpenAI ChatGPT 的流行，众包工人开始利用 AI 做零工。根据发表在 arXiv 预印本平台上的论文，瑞士洛桑联邦理工学院 (EPFL) 的研究人员招募了 44 名 Mechanical Turk 众包工人总结 16 篇医学研究论文的摘要，他们估计有 33-46% 的文本是用大模型生成的。众包工人的薪水很低，用 AI 生成文本可以更快完成工作，增加工作量提高工资。研究团队训练了一个分类器预测提交的文本是人工生成还是 AI 生成。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit CEO 向马斯克学习]]></title>
+        <id>https://www.solidot.org/story?sid=75271</id>
+        <link href="https://www.solidot.org/story?sid=75271"/>
+        <updated>2023-06-17T08:35:44.000Z</updated>
+        <summary type="html"><![CDATA[Reddit CEO Steve Huffman 接受 NBC News 采访时称赞了马斯克（Elon Musk）在收购 Twitter 后大幅削减成本和裁员的做法，他与马斯克就运营互联网平台这一主题交谈了多次。他视马斯克处理 Twitter 的方法为 Reddit 的榜样。他说，长话短说，我从 Twitter 以及马斯克之于 Twitter 中得到的启示，以我们之规模在我们的领域可以构建良好的业务。他说机会很多。马斯克在收购 Twitter 之后裁掉了三分之二的员工，Huffman 表示他没有采纳马斯克的全部想法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国军方机密文件泄密者收到六项指控]]></title>
         <id>https://www.solidot.org/story?sid=75270</id>
@@ -909,207 +949,6 @@ Next we'll add annual discounts to Browserling as well. See you then!]]></summar
         <link href="https://www.solidot.org/story?sid=75198"/>
         <updated>2023-06-09T03:37:18.000Z</updated>
         <summary type="html"><![CDATA[因备受争议的 API 定价，多个流行的第三方 Reddit 客户端正式宣布将于 6 月 30 日关闭。Apollo 的开发者 Christian Selig 发表了一篇长文，详细讲述了他与 Reddit 打交道的经过。Sync 开发者 Lj 宣布将在 API 变更生效前关闭。许多 Subreddit 已经宣布将举行持续 48 小时的抗议，但还有部分 Subreddit 认为这远远不够，他们宣布将无限期关闭除非 Reddit 改变做法，其中之一是在程序员中间流行的 r/ProgrammerHumor。Reddit CEO Steve Huffman(aka spez)宣布将在明天就此事做一次 AMA。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为何英国地震频率高于爱尔兰]]></title>
-        <id>https://www.solidot.org/story?sid=75196</id>
-        <link href="https://www.solidot.org/story?sid=75196"/>
-        <updated>2023-06-08T14:10:10.000Z</updated>
-        <summary type="html"><![CDATA[英国和爱尔兰的研究人员破解了英国地震频率高于爱尔兰之谜。利用地震层析成像技术，研究人员发现英国小震频繁而爱尔兰几乎没有的原因是两国的岩石圈（Lithosphere）厚度差异。两国的地震差异困扰了科学家逾百年。研究人员发现，英国西部下方的岩石圈薄弱不堪，容易弯曲而引发地震。相比之下，爱尔兰下方的岩石圈厚而牢固，这就是它没有地震的原因。英国远离板块边界，但中小型地震依旧频繁发生，每年有 200-300 起，主要是在西部，其中不到 30 起地震强度能让人感受到。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因加拿大野火纽约空气质量全球最差]]></title>
-        <id>https://www.solidot.org/story?sid=75195</id>
-        <link href="https://www.solidot.org/story?sid=75195"/>
-        <updated>2023-06-08T12:43:29.000Z</updated>
-        <summary type="html"><![CDATA[加拿大数百场野火产生的烟雾让纽约经历了“空气末日”，周三下午两点纽约市空气质量指数为 342，远高于空气质量“有害的”阈值 301 ，为同一时间全球大城市中最差空气质量。相比之下印度德里的空气质量指数当时为 168。因雾霾笼罩，纽约在下午两点就点亮了路灯。纽约州的其它地区空气质量甚至更糟。州卫生官员建议居民减少户外活动，佩戴口罩和补充滤气器，因为雾霾可能加剧哮喘增加感染肺部疾病的可能性。由于野火加拿大至今疏散了数万人。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo 的自动驾驶汽车杀死了一只宠物狗]]></title>
-        <id>https://www.solidot.org/story?sid=75194</id>
-        <link href="https://www.solidot.org/story?sid=75194"/>
-        <updated>2023-06-08T11:18:31.000Z</updated>
-        <summary type="html"><![CDATA[Alphabet 自动驾驶子公司 Waymo 披露了一起事故，它的一辆汽车在自动驾驶模式下与一只宠物狗相撞，狗没有生还，车也受损。事故发生在 2023 年 5 月 21 日 10:56 AM PT，地点是旧金山 Toland Place 的 Toland 街，Waymo 的一辆 Jaguar I-Pace 汽车沿街朝西南方行驶，一只小狗跑到了车前方的街道上，发生碰撞时汽车处于 Level 4 ADS 驾驶模式下，方向盘后还坐着一位测试司机。Waymo 称它的系统识别出了跑出来的狗，但未能避免相撞。这是 Waymo 首次报告致命事故。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逾 6 万 Android 应用被发现会悄悄安装广告程序]]></title>
-        <id>https://www.solidot.org/story?sid=75193</id>
-        <link href="https://www.solidot.org/story?sid=75193"/>
-        <updated>2023-06-08T10:33:26.000Z</updated>
-        <summary type="html"><![CDATA[安全公司 Bitdefender 报告它发现逾 6 万 Android 应用携带了广告程序，怀疑实际数字会高得多。携带广告程序的 Android 应用伪装成合法的安全软件、游戏破解工具、作弊程序、VPN 软件、Netflix 等在第三方网站传播，主要针对美国、韩国、巴西、德国、英国和法国用户。它们没有托管在 Google Play 官方应用商店，而是提供 APK 安装包的第三方网站，应用在安装后没有图标而是使用 UTF-8 字符，此举可能导致用户在安装之后不会启动应用。如果用户启动应用，它会显示错误信息，称应用不在用户所在地区提供，建议卸载。如果点击卸载，它实际上并不真的卸载，而是休眠两个小时，注册两次意图（intents）使得应用在设备重启或解锁时启动。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivaldi 将伪装成 Microsoft Edge 允许用户使用 Bing Chat]]></title>
-        <id>https://www.solidot.org/story?sid=75192</id>
-        <link href="https://www.solidot.org/story?sid=75192"/>
-        <updated>2023-06-08T09:21:21.000Z</updated>
-        <summary type="html"><![CDATA[基于 Chromium 的浏览器 Vivaldi 释出了 v6.1，创始人谭咏文表示新版的一项新功能是能伪装成 Microsoft Edge，允许用户绕过限制使用 Bing Chat。谭咏文称，很多网站和服务会根据用户代理字符串（User-Agent strings）限制其它浏览器，其中最著名的是 Google 的服务，因此在 2019 年他们修改了 Vivaldi 的用户代理字符串冒充 Google Chrome 以实现更好的网站兼容性。到了 2023 年，历史再次重复了。用户如果想尝试最近火爆的 AI 聊天机器人 Bing Chat，他们需要使用 Microsoft Edge。因此在最新版本中，Vivaldi 将能冒充 Microsoft Edge，帮助用户绕过使用限制。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 在 iOS 上已整合 Siri 和快捷指令]]></title>
-        <id>https://www.appinn.com/?p=45652</id>
-        <link href="https://www.appinn.com/chatgpt-siri-and-shortcuts-integration/"/>
-        <updated>2023-06-08T08:28:46.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT 的 iOS 客户端今日更新，整合了 Siri 和快捷指令，你可以通过各种姿势使用它了。但目前还不支持用中文问 Siri，但可以使用 嘿 Siri，Ask ChatGPT。@Appinn]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青少年志愿者身心更健康]]></title>
-        <id>https://www.solidot.org/story?sid=75191</id>
-        <link href="https://www.solidot.org/story?sid=75191"/>
-        <updated>2023-06-08T08:10:11.000Z</updated>
-        <summary type="html"><![CDATA[发表在 JAMA Network Open 上的一项研究称，青少年志愿者身心更健康。研究小组发现，与没有做志愿者的同龄人相比，在过去一年中做过志愿者的年轻人身体更健康，对生活的看法更积极，患焦虑、抑郁或行为问题的可能性更小。第一作者 Kevin Lanza 说:“这些研究结果让人们乐观地认为，青年志愿服务可能是一个双赢的局面，青年为自己的利益服务于社会。”“此外，家庭成员和其他人可能会加入年轻人的志愿活动，在建立社区的同时加强社会联系。”Lanza 的团队分析了一项长期全国调查中家长报告的数据，该调查追踪了美国儿童和青少年的健康和福祉，重点关注了2019-2020年期间接受调查的近5.2万名6至17岁的儿童和青少年。在这些受访者中，三分之一的儿童和略多于一半的青少年在过去一年中做过志愿者工作。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流行《我的世界》模组被发现感染恶意程序 Fracturiser]]></title>
-        <id>https://www.solidot.org/story?sid=75190</id>
-        <link href="https://www.solidot.org/story?sid=75190"/>
-        <updated>2023-06-08T07:46:28.000Z</updated>
-        <summary type="html"><![CDATA[为《我的世界（Minecraft）》提供模组的平台 CurseForge 建议用户立即停止下载或更新模组。它托管的模组开发者账号遭到入侵，数十个流行的插件和模组被植入了恶意程序 Fracturise。攻击可以追溯到四月份，意味着开发者账号被入侵达数周之久。CurseForge 运营的开发者平台 Bukkit.org 也受到影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时隔两年，小狼毫输入法更新了]]></title>
-        <id>https://www.appinn.com/?p=45653</id>
-        <link href="https://www.appinn.com/rime-for-windows-0-15-0/"/>
-        <updated>2023-06-08T07:20:57.000Z</updated>
-        <summary type="html"><![CDATA[来自论坛 @Landius 同学的消息：跨平台输入法算法框架 RIME／中州韵输入法引擎下的 Windows 发行版本小狼毫输入法（Rime for Windows）时隔 2 年更新至 0.15.0]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We've added 15 new integer tools]]></title>
-        <id>https://catonmat.net/15-new-integer-tools</id>
-        <link href="https://catonmat.net/15-new-integer-tools"/>
-        <updated>2023-06-08T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Team Browserling keeps shipping!
-Last week we added 10 new list tools and and today we just added 15 new tools to our Online Integer Tools collection.
-We've done our job and now it's Google's job to index them and rank them well.
-Here are the new integer tools.
-Create Palindromic Integers
-Rewrite an Integer as a Sum
-Rewrite an Integer as a Product
-Add Commas to an Integer
-Remove Commas from an Integer
-Add Integers
-Add Integer Digits
-Multiply Integers
-Multiply Integer Digits
-Find the Running Total
-Find the Running Product
-Join Multiple Integers Together
-Create an Integer Array
-Truncate Integers
-Round Integers
-Analyze Integers
-Destroy Integers
-Next week we'll add even more tools. See you then!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 不再想让员工远程工作]]></title>
-        <id>https://www.solidot.org/story?sid=75189</id>
-        <link href="https://www.solidot.org/story?sid=75189"/>
-        <updated>2023-06-08T06:35:56.000Z</updated>
-        <summary type="html"><![CDATA[Google 首席人事官 Fiona Cicconi 周三通知员工，将在绩效评估中考虑办公室出勤记录，并向经常缺勤的员工发送提醒。她在邮件中写道，大多数员工已经在遵循混合办公政策；该政策要求每周大约有三天在办公室工作。Cicconi 写道：“当然，会有一些情况导致员工可能无法来办公室，比如本周加拿大和美国东海岸发布了空气质量控制警告——我们一直希望大家能照顾好自己，照顾好自己的健康。”周三，加拿大发生了数以百计的山火，产生的烟雾在美国东部人口众多的地区造成持续的雾霾，迫使许多人减少户外活动。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit API 付费豁免非商业无障碍应用]]></title>
-        <id>https://www.solidot.org/story?sid=75188</id>
-        <link href="https://www.solidot.org/story?sid=75188"/>
-        <updated>2023-06-08T06:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Reddit 正为其受争议的 API 定价方案制定豁免条款，允许“解决无障碍需求”的非商业应用免费使用 API。Reddit 目前给出的 API 定价是 5000 万次请求 1.2 万美元，第三方客户端不太可能负担得起如此高昂的价格，流行 iOS 客户端 Apollo 的开发者 Christian Selig 称这意味着他每年需要支付 2000 万美元。Reddit 社区准备发起持续 48 小时的抵制活动，抗议 Reddit 的这一做法。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google AI 发现更快的排序算法]]></title>
-        <id>https://www.solidot.org/story?sid=75187</id>
-        <link href="https://www.solidot.org/story?sid=75187"/>
-        <updated>2023-06-08T05:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Google Deepmind 的研究人员在《自然》期刊上发表研究报告，他们使用深度强化学习发现了更快的排序算法。Google Deepmind 的新 AI 系统被称为 AlphaDev，它发现的新算法已经整合到 LLVM 的 C++ 排序库中。Google 研究人员称新算法对较短序列的排序速度提升了最高 70%，对超过 25 万元素的长序列速度提升了 1.7%。研究人员称这是排序库这一部分十年来的首次变化。有开发者认为 Google 的声明过于夸张了，它的算法只是发现了能节省一次 MOV 操作的组装序列，排序库之所以没变化是没有活跃的开发计划。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法庭同意了 SEC 冻结币安美国资产的要求]]></title>
-        <id>https://www.solidot.org/story?sid=75186</id>
-        <link href="https://www.solidot.org/story?sid=75186"/>
-        <updated>2023-06-08T05:03:22.000Z</updated>
-        <summary type="html"><![CDATA[美国证券交易委员会(SEC)周二向法庭递交紧急动议，要求法官冻结币安美国平台的资产，归还客户持有的法币和加密货币。哥伦比亚特区联邦地方法院随后批准了这一动议，认为 SEC 提供了充分的证据。紧急冻结令将冻结币安 BAM Management 和 BAM Trading 的资产，阻止资产转移，除非是转移给认可的第三方托管人，要求币安代表 Binance.US 客户汇回在美国境外持有的任何资产。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[音流 Beta – 支持 Subsonic 和 Navidrome 的音乐播放器[iPhone/Android]]]></title>
-        <id>https://www.appinn.com/?p=45648</id>
-        <link href="https://www.appinn.com/yinliu-music-player/"/>
-        <updated>2023-06-08T04:23:16.000Z</updated>
-        <summary type="html"><![CDATA[「音流」是一款支持 Subsonic 和 Navidrome 的音乐播放器，支持歌词显示（推荐部署 Navidrome，这样可以获取到动态歌词），希望能给你多一种 Subsonic 客户端的选择。@A]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊 Prime Video 计划推出广告版]]></title>
-        <id>https://www.solidot.org/story?sid=75185</id>
-        <link href="https://www.solidot.org/story?sid=75185"/>
-        <updated>2023-06-08T03:28:35.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊流媒体服务 Prime Video 计划推出广告版，以吸引更多用户。Prime Video 以两种方式提供给用户：其一是作为月费 14.99 美元的 Prime 会员的一部分，其二是月费 8.99 美元的独立版本。亚马逊还与其它流媒体公司如华纳兄弟发现（WBD）和派拉蒙协商通过其 Prime Video Channels 提供各自的广告版流媒体。亚马逊是目前美国第三大广告公司，仅次于 Google 和 Meta。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox  114.0 释出]]></title>
-        <id>https://www.solidot.org/story?sid=75184</id>
-        <link href="https://www.solidot.org/story?sid=75184"/>
-        <updated>2023-06-07T15:59:26.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla 释出了 Firefox  114.0。主要新特性包括：添加 UI 去管理 DNS over HTTPS 例外清单；书签菜单可搜索书签，用户可在工具栏加入书签菜单按钮；从 History、Library 或 Application 菜单按钮选择搜索历史时将搜索限制在本地浏览历史；Mac 用户可以用相机支持的所有原生分辨率捕捉视频；重新排序扩展面板中的扩展；macOS、Linux 和 Windows 7 用户可通过 USB 使用 FIDO2 / WebAuthn 认证器；等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbon Health 用 OpenAI 的 GPT-4 写医疗记录]]></title>
-        <id>https://www.solidot.org/story?sid=75183</id>
-        <link href="https://www.solidot.org/story?sid=75183"/>
-        <updated>2023-06-07T15:35:33.000Z</updated>
-        <summary type="html"><![CDATA[旗下有逾百家诊所的医疗连锁机构 Carbon Health 利用 OpenAI 的 GPT-4 根据医生和病人之间的对话自动生成医疗记录。如果病人同意记录与医生的对话，那么录音首先传输到亚马逊的 AWS Transcribe Medical 云服务，将录音转成文本。转录文本和病人的医疗数据将传输给机器学习模型，名为 Carby 的 AI 工具将总结诊断中的重要信息。Carbon Health 称 AI 工具能在 4 分钟内生成诊断摘要，而医生需要耗费 16 分钟，因此医生将有时间诊断更多病人。Carbon Health 表示，88% 的自动生成记录不需要编辑就能接受。Carbon Health 旗下的一个诊所在试用该工具后治疗的病人数量增加了 30%。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
