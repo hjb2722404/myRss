@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45762",
+          "author": "青小蛙",
+          "description": "小物品是一款专门用来记录生活中物品的 iPhone、iPad 应用，它只是用来帮你记着你有这件东西，不会去记录这件东西在哪里。另外还支持提醒、标签、归档、桌面小部件等功能。@Appinn 来自发现频道",
+          "link": "https://www.appinn.com/xiaowupin-for-ios/",
+          "publishedOn": "2023-06-20T07:40:26.000Z",
+          "wordCount": 2495,
+          "title": "小物品 – 只记录一件事：你有什么？[iPhone/iPad]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/06/appinn-feature-images-2023-06-20t145813-943.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45755",
           "author": "青小蛙",
           "description": "Monica 是一款基于 OpenAI API 的 Chrome、Edge 扩展，可以让你随时随地，不受限制的使用 ChatGPT、AI 绘画，甚至是白嫖 GPT-4。其新发布的 Windows、ma",
@@ -160,16 +170,6 @@
           "wordCount": 2517,
           "title": "因为涉密，要待在无网络的地方半个月，求 Android 平板管理本地影片的应用",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/06/no-wifi-android-media-manage.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45673",
-          "author": "青小蛙",
-          "description": "来自数码荔枝的 618 活动，已上架数款软件，包括 Xmind、Bandizip、Typora、Bartender 4、Downie & Permute、 QSpace、AdGuard、UPD",
-          "link": "https://www.appinn.com/lizhi6182/",
-          "publishedOn": "2023-06-11T07:35:10.000Z",
-          "wordCount": 2722,
-          "title": "Typora、UPDF、Bandizip、Downie、Bartender 等 21 款正版软件优惠，已上线数码荔枝 618 活动",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/06/lizhi-23618-1.jpgo_-1.jpg"
         }
       ]
     },
@@ -218,6 +218,146 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75299",
+          "author": null,
+          "description": "Stable Diffusion 与 GPT-3(.5) 和 GPT-4 等 AI 模型正在改变网络生态。如果人类消费的大部分内容是 AI 生成的，那么 AI 又如何继续改进其模型呢？如果 AI 用 AI 生成的数据进行训练又会发生什么？牛津、剑桥、伦敦帝国学院等机构的研究人员在预印本平台 arXiv 上发表论文，对此展开了分析。研究人员发现，这会导致 AI 模型存在不可逆转的缺陷，他们将其称之为模型崩溃（Model Collapse）。这意味着未来模型训练使用的高质量数据将会愈来愈昂贵，将可能导致网络的碎片化和封闭化，内容创作者将会竭尽全力防止其内容被免费抓取。社交媒体公司也逐渐认识到其数据的价值，对 API 访问收取昂贵费用。如果未来的模型使用容易获取的数据（很可能是其它模型生成）训练，那么这将会加速模型的崩溃，增加对模型进行中毒攻击的可能性。",
+          "link": "https://www.solidot.org/story?sid=75299",
+          "publishedOn": "2023-06-20T15:48:04.000Z",
+          "wordCount": 174,
+          "title": "当可供 AI 训练的人造数据愈来愈少",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75298",
+          "author": null,
+          "description": "苹果联合创始人 Mike Markkula 在 1977 年向乔布斯（Steve Jobs）和沃茨（Steve Wozniak）资助了 25 万美元，他成为了苹果的第三名员工，担任了 CEO 和董事会主席，一度拥有 26% 的公司股权。Markkula 此前在英特尔公司担任工程师，他使用了部分个人财富在卡梅尔山谷（Carmel Valley）购买了连绵 8 英里面积达 14,100 英亩的巨大农场。他刚刚以 3500 万美元的价格将农场出售给了环保组织 Wildlands Conservancy。该组织准备将该农场变成自然保护区，向公众免费开放，用作徒步旅行、山地自行车运动和骑马。Markkula 在 2016 年接受采访时表示他与妻子购买该农场是将其作为第二个家和可能的退休去处。夫妻两人在 1982 年以 800 万美元购买了 9000 英亩，之后购买了周围的其它土地。",
+          "link": "https://www.solidot.org/story?sid=75298",
+          "publishedOn": "2023-06-20T14:12:04.000Z",
+          "wordCount": 173,
+          "title": "苹果联合创始人出售大农场它将变成自然保护区",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75297",
+          "author": null,
+          "description": "Tor 项目与 Mullvad VPN 联合推出的隐私浏览器 Mullvad Browser 默认使用 DuckDuckGo，但它也同时为 VPN 的付费用户提供了一种替代搜索引擎：Mullvad Leta。Mullvad Leta 使用 Google Search API 作为代理，缓存每次的搜索，缓存结果在所有用户之间共享，此举旨在降低成本和改进隐私。该搜索服务是由用户支持的，不依赖于广告或数据出售。一旦用户在设置页完成账号设置，就不再每次都需要登陆。为抵御相关性攻击和节省费用，结果将缓存 30 天，可能会导致信息过时。",
+          "link": "https://www.solidot.org/story?sid=75297",
+          "publishedOn": "2023-06-20T13:53:56.000Z",
+          "wordCount": 172,
+          "title": "Mullvad 浏览器使用的搜索引擎 Mullvad Leta",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75296",
+          "author": null,
+          "description": "国际山地综合开发中心 (ICIMOD) 发布新评估报告，揭示出由于全球变暖导致兴都库什-喜马拉雅 (HKH) 地区的冰川、雪和永久冻土的变化是 “前所未有的，且多为不可逆的” 。如果不大幅减少温室气体排放，该地区冰川总体积的 80% 将在本世纪末消失。研究报告利用最新科学进展，首次绘制了该地区冰冻圈、水、生物多样性与社会之间的联系，以及冰川和积雪的快速变化对人与自然的影响，经过同行评议后发布。报告警告说，兴都库什-喜马拉雅地区的冰川在 2011-2020 年期间的消融速度比之前十年加快了 65%，未来几年该地区山洪暴发和雪崩的可能性在增加。兴都库什-喜马拉雅地区的冰川是流经亚洲 16 个国家，为山区 2.4 亿人和下游 16.5 亿人提供淡水的重要河流的重要水源。",
+          "link": "https://www.solidot.org/story?sid=75296",
+          "publishedOn": "2023-06-20T11:01:58.000Z",
+          "wordCount": 159,
+          "title": "本世纪末喜马拉雅冰川可能会消融八成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75295",
+          "author": null,
+          "description": "本月初微软的办公软件套件（包括电邮 Outlook 和文件共享应用 OneDrive）以及其云计算平台遭遇了偶发但严重的宕机事故，自称 Anonymous Sudan 的黑客组织宣称对此负责，称他们对微软网站发动了 DDoS 攻击。微软发言人证实了网络攻击，但没有透露多少细节，如有多少客户受影响，受影响范围是否遍及全球，等等。Anonymous Sudan 是通过其 Telegram 频道宣布对此负责，它被认为是俄罗斯人。微软官方博客此前表示，攻击者可能使用了租赁的云服务和 VPN，通过僵尸网络对微软服务发动 DDoS 攻击。",
+          "link": "https://www.solidot.org/story?sid=75295",
+          "publishedOn": "2023-06-20T09:46:58.000Z",
+          "wordCount": 156,
+          "title": "微软证实本月初其服务遭网络攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75294",
+          "author": null,
+          "description": "Meta 宣布了新 AI 模型 Voicebox，称其为至今最全面的语音生成模型。但 Meta 没有公开 Voicebox 的模型和代码，原因是公开发布太危险。Meta 称生成式语音模型有很多令人兴奋的用例，但潜在也可能被滥用，因此它没有公开 Voicebox 模型或代码。Voicebox 能从最短两秒钟的声音样本中生成六种语言的语音，未来可用于真实自然的语音翻译等用途。",
+          "link": "https://www.solidot.org/story?sid=75294",
+          "publishedOn": "2023-06-20T09:00:03.000Z",
+          "wordCount": 157,
+          "title": "Meta 称其新语音生成模型公开太危险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75293",
+          "author": null,
+          "description": "旅游公司 OceanGate 的一艘带乘客参观泰坦尼克号残骸的观光潜艇于 6 月 18 日在大西洋失踪，目前搜救行动正在进行之中。泰坦尼克号于 1912 年沉没，其残骸位于水下 3800 米处。失踪的潜艇为泰坦号，卡车大小，可容纳五人，其氧气供应可维持 4 天。观光潜艇单个座位的票价为 25 万美元，持续 8 天。OceanGate 公司宣称这一八天之旅是走出日常生活发现非同寻常的一次机会。潜艇上的一位乘客是 Action Aviation 主席 Hamish Harding，去年曾参与 Blue Origin 的亚轨道太空飞行。",
+          "link": "https://www.solidot.org/story?sid=75293",
+          "publishedOn": "2023-06-20T07:56:05.000Z",
+          "wordCount": 166,
+          "title": "一艘泰坦尼克号观光潜艇失踪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75292",
+          "author": null,
+          "description": "根据发表在《Science Advances》期刊上的一项研究，一位遗传致命基因突变的患者在不到 40 年里长出了 12 个肿瘤，其中 5 个是恶性。这位患者身上名为 MAD1L1 的基因发生了突变。该基因在细胞分裂和增殖过程中起重要作用。在动物模型中，当该基因的两个拷贝都发生突变时——每个拷贝都来自父母一方——胚胎就会死亡。令研究人员惊讶的是，这位患者两个拷贝都有突变，但却活了下来，像一个患有疾病的人一样过着正常的生活。在不到 40 年里，患者长出了 12 个肿瘤，其中至少 5 个是恶性的。每一种都有不同的类型和身体的不同部位。患者还会出现皮肤斑点、小头畸形和其他变化。研究人员认为，患者之所以能幸存下来的原因是“不断产生的变异细胞在病人体内产生了一种慢性的防御反应，以对抗这些细胞，这有助于肿瘤的消失”。",
+          "link": "https://www.solidot.org/story?sid=75292",
+          "publishedOn": "2023-06-20T06:36:34.000Z",
+          "wordCount": 165,
+          "title": "一位罹患 12 种癌症的幸存者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75291",
+          "author": null,
+          "description": "韩国执政党国民力量和政府 19 日在国会开会决定，安排大学修学能力考试（高考）出题排除“杀手级试题”（超高难度试题），并推翻前届政府决定，继续保留多类精英高中。韩国党政一致认为，“杀手级试题”是助长课外补习的根本原因，并决定安排高考出题范围不覆盖公共教育课程以外的内容，以确保高考公平公正。党政还决定对出题系统进行检查，确保试题能体现适当的区分度。此外，党政商定继续保留前届政府决定废除的民办精英高中、外语高中、国际高中，做到因材施教，推动各地进行教育改革并增强教育力量。",
+          "link": "https://www.solidot.org/story?sid=75291",
+          "publishedOn": "2023-06-20T05:58:11.000Z",
+          "wordCount": 143,
+          "title": "韩政府要求高考不要出太难的考题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75290",
+          "author": null,
+          "description": "Google 警告员工在使用 Bard 时不要泄露机密信息或用其生成代码。其它大公司也对员工发出了类似的警告。但 Google 的警告与其声称 Bard 有助于开发者提高工作效率的说法产生了冲突。搜索巨人对此表示，它的内部使用禁令是因为 Bard 会产生不需要的代码建议，潜在会导致程序出 bug 或过于复杂，软件过于臃肿，相比不使用 AI 辅助编程需要更多时间修复。",
+          "link": "https://www.solidot.org/story?sid=75290",
+          "publishedOn": "2023-06-20T05:51:08.000Z",
+          "wordCount": 166,
+          "title": "Google 警告员工不要使用 Bard 生成的代码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75289",
+          "author": null,
+          "description": "得克萨斯大学奥斯汀分校科学家模拟了地球周围水分布的变化如何影响两极的漂移。结果发现，1993 年至 2010 年间人类抽取的地下水总量约为 2100 亿吨，地下水分布的变化使地球两极漂移了 80 厘米，平均每年移动 4.36 厘米。地球不是一个完美的球体，它每年都会像陀螺一样摆动几米。地球两极也会因地球周围质量分布的变化（如季节导致的水的运动）而漂移。但造成极地漂移的因素还有很多，水库蓄水和抽取地下水，以及气候变化导致的冰川融化和海平面上升等都是原因，但尚不清楚每个具体变化会产生何种影响。研究人员指出，大多数人不会意识到地球的摆动或漂移，这种漂移本身也并不会对每天的时长或季节的变化产生特别的影响，但知道地轴的精确位置对与 GPS 技术相关的工作至关重要。",
+          "link": "https://www.solidot.org/story?sid=75289",
+          "publishedOn": "2023-06-20T03:40:36.000Z",
+          "wordCount": 153,
+          "title": "抽取地下水导致极地每年移动数厘米",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75288",
+          "author": null,
+          "description": "加州山景城议会批准了 Google 在其总部以南建造一个 153 英亩的综合性社区。该项目将为期 30 年，其开发理念类似以前的“公司城”，将包括餐饮、住宅和各类服务。新项目将创造 300 万平方英尺的办公空间和 7000 个住宅单位。最初计划是将五分之一的住宅单位作为经济适用房，但批准的计划将该目标缩小到了 15%，以在不确定的经济环境下具有可行性。Google 今年初宣布裁掉了 1.2 万名员工。除此之外，开发计划还包括 26 英亩的公园和开放空间，最多 288,990 平方英尺的底层商业空间、学校用地、新街道和私人公用设施系统。",
+          "link": "https://www.solidot.org/story?sid=75288",
+          "publishedOn": "2023-06-19T15:56:02.000Z",
+          "wordCount": 167,
+          "title": "加州山景城批准 Google 在其总部附近建造一个综合社区",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75287",
+          "author": null,
+          "description": "BentoML 发布了大模型开放平台 OpenLLM，采用 Apache-2.0 许可证，允许用户在云端或本地（对硬件有高要求）部署和运行任何开源大模型，构建 AI 应用。OpenLLM 支持的开源大模型包括了 StableLM、Falcon、Dolly、Flan-T5、ChatGLM 和 StarCoder 等。不同模型对硬件有不同的需求，举例来说，有 400 亿参数的 Falcon 40b 模型需要英伟达 48GB 显存的 A100 专业显卡。开发者表示他们正在开发微调功能，预计会很快释出。",
+          "link": "https://www.solidot.org/story?sid=75287",
+          "publishedOn": "2023-06-19T15:19:34.000Z",
+          "wordCount": 169,
+          "title": "BentoML 发布大模型开放平台 OpenLLM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75286",
+          "author": null,
+          "description": "神经学家通常一次只研究一个人的大脑，比如观察一个人在阅读特定单词或玩游戏时神经元如何放电。人类是一种社会性动物，两个人之间的互动会对大脑产生什么影响？早期的研究发现人们彼此之间分享经验或交谈时他们的脑电波会同步。大脑相应位置的神经元会同时激活，创造出一种匹配的模式，就像一同跳舞的舞者。但大脑同步是如何发生的？一种直观的解释是，大脑间的同步是共享经验的结果，或者我们和其他人听到或看到相同东西的反应。科学家发现，有证据表明，大脑间的同步为互动做好了准备，开始将其理解为关系的一种标志。同步体验通常是令人愉悦的，研究人员猜测这种现象是有益的，它有助于互动，可能促进了社会性的演化。此类研究有助于解释为什么我们和其他人并不总能配合默契，为什么社会隔离对身体和精神有害。",
+          "link": "https://www.solidot.org/story?sid=75286",
+          "publishedOn": "2023-06-19T15:05:15.000Z",
+          "wordCount": 141,
+          "title": "当人们互动时候脑电波会同步",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75285",
           "author": null,
@@ -906,16 +1046,6 @@
           "publishedOn": "2023-06-11T15:23:19.000Z",
           "wordCount": 180,
           "title": "英特尔开源 One Mono 字体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75215",
-          "author": null,
-          "description": "被称为大学航空炸弹客的美国数学家、无政府主义者、恐怖分子 Ted Kaczynski 在狱中去世，终年 81 岁。他在 16 岁时进入哈佛读本科，在密歇根大学获得数学博士学位，25 岁时成为加州伯克利最年轻的数学系助理教授，1973 年在蒙大拿州隐居。从 1978 年至 1995 年，他向大学教授、大型企业主管以及航空公司邮寄炸弹，共造成 3 人死亡 23 人受伤。1995 年 4 月，他向美国多间报社和杂志社发信，承诺如果《纽约时报》和《华盛顿邮报》刊登他长达 3 万 5 千字的论著——《论工业社会及其未来》（Industrial Society & Its Future），他便会停止持续近 18 年的连环炸弹案。FBI 最终以“阻止炸弹案再次发生”为由，允许刊登其论文。他在《论工业社会及其未来》中解释了自己的犯罪动机。他认为工业社会必将侵蚀人类自由，技术革新将会带来过度发展的人类基因工程，致使人类不断适应并服务于社会体系，并最终被后者完全控制。因此他主张为了推翻工业体系的革命，作为象征，他将推动科技发展的科学家和工程师等高级技术人才作为袭击目标，企图以科技倒退的形式达成人类自由的解放。他在 1996 年被捕，被判了8 项连续终身监禁，不得假释。",
-          "link": "https://www.solidot.org/story?sid=75215",
-          "publishedOn": "2023-06-11T14:17:49.000Z",
-          "wordCount": 188,
-          "title": "大学航空炸弹客 Ted Kaczynski 在狱中去世",
           "imageUrl": null
         }
       ]
