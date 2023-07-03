@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-07-02T03:00:13.739Z</updated>
+    <updated>2023-07-03T02:55:05.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SpaceX 发射 ESA 的欧几里得太空望远镜]]></title>
+        <id>https://www.solidot.org/story?sid=75399</id>
+        <link href="https://www.solidot.org/story?sid=75399"/>
+        <updated>2023-07-02T15:45:40.000Z</updated>
+        <summary type="html"><![CDATA[7 月 1 日 11:12 a.m. ET，SpaceX 在佛罗里达州卡纳维拉尔角空军基地使用 Falcon 9 火箭成功发射了 ESA 的欧几里得太空望远镜。望远镜以古希腊数学家欧几里得的名字命名，它将飞往日地之间的拉格朗日 L2 点，距离地球 160 万公里，预计需要飞行 1 个月时间。到达预定轨道之后，还需要花 2 个月时间测试和校准仪器。这一过程和 NASA 的韦伯太空望远镜类似。欧几里得望远镜的目标是测绘宇宙中暗物质的大尺度分布结构，并确认暗能量的性质。望远镜的口径为 1.2 米，它主要通过近红外光波长观测宇宙。预计在 2027 年发射的 NASA 南希·格蕾丝·罗曼太空望远镜将在红外波长下观测宇宙，它们将共同创建宇宙的三维地图。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snap 前开发者开发脚本用 Flatpaks 取代 Snap]]></title>
+        <id>https://www.solidot.org/story?sid=75398</id>
+        <link href="https://www.solidot.org/story?sid=75398"/>
+        <updated>2023-07-02T15:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Alan Pope 在 2021 年离开了工作了 10 年的 Canonical 公司，是 Canonical 主导的包格式 Snap 的共同开发者。该公司今年早些时候发布的 Ubuntu 23.04 默认移除了对竞争对手 Flatpak 格式的支持。Flatpak 和 Snap    都类似 docker，旨在提供一种独立于发行版的打包格式，解决包依赖问题，能在不导致依赖地狱的情况下在同一个系统上安装同一个程序的多个版本。Flatpak 由 Red Hat 主导开发，完全开源，能存在多个 Flatpak 软件库。相比下，Snap 的后端是 Canonical 私有的，只存在一个 Canonical 控制的 Snap 应用商店。Alan Pope 开发了一个脚本 unsnap，如果一个 Snap 软件包存在对应的 Flatpak 包，那么它将会自动用 Flatpak 包替换 Snap 包。该脚本托管在 GitHub 上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another 1.1 million SERP clicks!]]></title>
+        <id>https://catonmat.net/onlinejpgtools-serp-clicks</id>
+        <link href="https://catonmat.net/onlinejpgtools-serp-clicks"/>
+        <updated>2023-07-02T08:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Online JPG Tools had 1.1M SERP clicks in the last 12 months.
+Optimize your SERPs too and see you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[择文看图器1.0 – 类似微信看图，让你直接从图片上OCR识别文本并复制[Windows]]]></title>
+        <id>https://www.appinn.com/?p=45838</id>
+        <link href="https://www.appinn.com/zewenkantuqi/"/>
+        <updated>2023-07-02T08:05:23.000Z</updated>
+        <summary type="html"><![CDATA[择文看图器1.0 是一款论坛大佬 @dog 同学发布的 Windows 小工具，模拟了微信看图功能，让你直接从图片上 OCR 识别文本并复制。@Appinn 缘起 经常有人在论坛寻找类似微信看图的wi]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过注入 js 代码，为 Typora 额外增加 4 个功能]]></title>
+        <id>https://www.appinn.com/?p=45835</id>
+        <link href="https://www.appinn.com/typora-4-plugin/"/>
+        <updated>2023-07-02T07:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Typora 是一款非常优秀的跨平台 Markdown 编辑器，原开发者一直在做的，就是一个简单的编辑器。但用户需求是不断增加的，论坛的 @tempUserName 同学就通过注入 js 代码，为 T]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gfycat 宣布将删除所有内容]]></title>
+        <id>https://www.solidot.org/story?sid=75397</id>
+        <link href="https://www.solidot.org/story?sid=75397"/>
+        <updated>2023-07-02T05:45:24.000Z</updated>
+        <summary type="html"><![CDATA[短视频托管网站 Gfycat 宣布将在 9 月 1 日之后删除所有内容，如果想要保存自己上传的内容，用户需要尽快登陆其账号。Gfycat 是首批提供 GIF 视频编码的 Web 服务之一，它一度是全世界访问量最高的网站之一，但难以商业化导致它最终停止了服务。它在去年被  Snap 收购，今年 5 月 18 日它的域名 TLS 证书过期，直到 22 日问题才解决，现在 Snap 正式给它敲上了最后一个钉子。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter 疑似自我 DDoS，马斯克宣布限流]]></title>
+        <id>https://www.solidot.org/story?sid=75396</id>
+        <link href="https://www.solidot.org/story?sid=75396"/>
+        <updated>2023-07-02T02:45:09.000Z</updated>
+        <summary type="html"><![CDATA[在限制未登陆用户访问 Twitter 后，该微博客服务遭遇了严重技术故障，老板马斯克（Elon Musk）以有人在大规模抓取推文为由宣布了限流措施：普通用户每天只能阅读 600 则推文，认证用户 6000，新注册用户 300（之后又宣布略微放宽限制）。但开发者 Sheldon Chang 认为不是有人在抓取推文，而是它自己的问题导致了它自己对自己发动 DDoS 攻击。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《使命召唤》用虚假的玩家影像欺骗作弊者]]></title>
         <id>https://www.solidot.org/story?sid=75395</id>
@@ -966,48 +1037,6 @@ Next, we'll add more neat features. See you then!]]></summary>
         <link href="https://www.solidot.org/story?sid=75320"/>
         <updated>2023-06-23T15:30:20.000Z</updated>
         <summary type="html"><![CDATA[执导过《泰坦尼克号》的著名导演卡梅隆（James Cameron）在搭乘泰坦号的五名船员确认死亡后指责 OceanGate 公司走捷径而疏于安全。卡梅隆是资深深潜专家，他在 2012 年驾驶单人潜艇抵达了地球最深处挑战者深渊。挑战者深渊是太平洋马里亚纳海沟的最深处，深约 10,902 到 10,929 米。他曾多达 33 次访问了泰坦尼克号的残骸。该残骸位于水面下 3,810 米处。卡梅隆称，当他听到同时失去潜艇的导航和通信之后就知道发生了灾难事件。他认为最有可能的是发生了内爆。美国海军军官周四称，在潜艇失联后不久他们探测到了与内爆相符合的异常声音。卡梅隆认为和泰坦尼克号一样，这是又一场无视警告的悲剧。深潜界的部分人士早就警告过 OceanGate 公司。海洋技术学会 (Marine Technology Society)  2018 年 3 月致函 OceanGate，称该公司使用的实验性方法可能会导致灾难。OceanGate 前员工在 2018 年警告潜艇存在潜在安全问题。卡梅隆认为这场灾难本可以预防的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[browserlinq.com (with a Q)]]></title>
-        <id>https://catonmat.net/browserlinq</id>
-        <link href="https://catonmat.net/browserlinq"/>
-        <updated>2023-06-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I noticed that in some fonts when a link is underlined the word "browserling" looks like "browserlinq". Like this:
-So I bought the browserlinq.com domain and redirected it to browserling.com and it turns out 40 people every week make such a typo.
-Purchase all domain typos too and see you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExcelGPT – 为 Excel、WPS 添加 GPT 支持]]></title>
-        <id>https://www.appinn.com/?p=45773</id>
-        <link href="https://www.appinn.com/excelgpt/"/>
-        <updated>2023-06-23T04:24:29.000Z</updated>
-        <summary type="html"><![CDATA[ExcelGPT 是一款为 Excel、WPS 添加 GPT 支持的插件，可以让你在电子表格中，通过 =AI() 来实现智能提问，仅支持 Windows。@Appinn @吃爆米花的小熊 在发现频道带]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OceanGate 证实泰坦号上的五名乘客全部遇难]]></title>
-        <id>https://www.solidot.org/story?sid=75319</id>
-        <link href="https://www.solidot.org/story?sid=75319"/>
-        <updated>2023-06-22T23:37:31.000Z</updated>
-        <summary type="html"><![CDATA[旅游公司 OceanGate 证实，6 月 18 日在大西洋失踪的泰坦尼克号残骸观光潜艇泰坦号上的五名乘客全部遇难。遇难者包括了公司创始人兼 CEO Stockton Rush，英国亿万富翁和冒险家 Hamish Harding，曾在法国海军服役的前军官 Paul-Henry Nargeolet，巴基斯坦商人 Shahzada Dawood 及其 19 岁儿子 Suleman Dawood。OceanGate 在一份声明中称这五人是真正的探险家，“在这个悲痛时刻，我们的心与他们的灵魂及其家人同在。”美国海岸警卫队称他们在搜索区域发现了一个碎片场。泰坦号被认为是在海水高压下碎裂解体。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo 发布 Beta 版 Windows 浏览器]]></title>
-        <id>https://www.solidot.org/story?sid=75318</id>
-        <link href="https://www.solidot.org/story?sid=75318"/>
-        <updated>2023-06-22T15:10:58.000Z</updated>
-        <summary type="html"><![CDATA[DuckDuckGo 发布了 Beta 版 Windows 浏览器。DuckDuckGo 是在去年 4 月发布了一款注重隐私的 Mac 版浏览器，不同于其它浏览器主要是基于 Google Chromium，DuckDuckGo 的 Mac 版浏览器是基于苹果的 WebKit 渲染引擎。它的 Windows 版本也是利用了操作系统自带的引擎，通过 Windows WebView2 调用使用 Blink 渲染引擎。在大部分网站它会被视为是 Microsoft Edge。DuckDuckGo 浏览器内置的播放器会过滤掉 YouTube 上隐私侵犯的广告，会预屏蔽跟踪程序，数据使用比 Chrome 少六成。目前浏览器的一大缺陷是不支持扩展，DuckDuckGo 表示计划未来加入扩展支持。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
