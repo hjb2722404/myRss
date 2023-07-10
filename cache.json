@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45900",
+          "author": "青小蛙",
+          "description": "ZoomIt 是一款有着 17 年历史的微软 Sysinternals 经典小工具。在两个月前发布了 7.0 版本，没啥特别的新功能，依旧是那么小巧，功能丰富。@Appinn 在昨天的《🌌 Milky",
+          "link": "https://www.appinn.com/zoomit-7/",
+          "publishedOn": "2023-07-09T08:40:16.000Z",
+          "wordCount": 2636,
+          "title": "ZoomIt v7.0 屏幕放大和注释工具｜微软 Sysinternals 经典小工具",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/07/appinn-feature-images-2023-07-09t161855-020.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=45896",
+          "author": "青小蛙",
+          "description": "EasyFileCount文件管理 是一款基于 java 的 Windows 工具，它能够批量查询文件夹大小、查找重复文件，还能查找文件夹中的大文件。@Appinn 来自发现频道，开发者自荐：http",
+          "link": "https://www.appinn.com/easyfilecount/",
+          "publishedOn": "2023-07-09T05:56:07.000Z",
+          "wordCount": 2501,
+          "title": "EasyFileCount – 批量查询文件夹大小、查找重复文件工具[Windows]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/07/appinn-feature-images-2023-07-09t132713-322.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45890",
           "author": "青小蛙",
           "description": "🌌 Milky Warp 是一款开源的屏幕局部放大工具，通过快捷键开启，鼠标滚轮控制，就能局部放大屏幕，简单易用。并且可以自己编译 macOS、Linux 版本。@Appinn 来自发现频道，@ddd",
@@ -165,16 +185,6 @@
           "wordCount": 2485,
           "title": "文心一言上架 App Store，有体验权限的可以上了",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/07/appinn-feature-images-2023-07-01t152756-322.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45825",
-          "author": "稻米鼠",
-          "description": "快捷方式 是一个 Android 应用，它就叫“快捷方式”，作用就是创建快捷方式，满足各种创建快捷方式的需求。@Appinn 快捷方式 是什么？ 初次接触时，可能会觉得它很普通，平平无奇，泯然大众……",
-          "link": "https://www.appinn.com/syyf-quickpay-for-android/",
-          "publishedOn": "2023-06-30T04:28:27.000Z",
-          "wordCount": 2513,
-          "title": "快捷方式 – 满足你对 Android 快捷方式的一切幻想",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/06/appinn-feature-images-2023-06-30t122508-037.jpgo_.jpg"
         }
       ]
     },
@@ -205,24 +215,33 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10901",
-          "author": "张 鑫旭",
-          "description": "我发现，有个CSS三角函数之后，以前很多需要JS计算才能实现的布局现在都可以纯CSS完成了，代码简洁了不少。",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/06/css-sin-cos-tan-function/",
-          "publishedOn": "2023-06-29T16:23:42.000Z",
-          "wordCount": 1316,
-          "title": "CSS sin()/cos()等数学三角函数简介与应用",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75462",
+          "author": null,
+          "description": "Reddit 社区对 API 定价的抗议还在继续，仍然有逾两千 Subreddit 设为私有，还有很多流行 Subreddit 采用了 NSFW 抗议策略——此举旨在破坏 Reddit 的广告业务，因为广告商不会在 NSFW 社区展示广告。Reddit 则对这些 Subreddit 的 Mod 团队发出了最后警告：它警告 r/PICs、r/Military、r/dndmemes 和 r/JustNoMil 等社区的 Mod 团队，称不正确的标记为 NSFW 违反 Mod 行为规则，如果不修改社区的 NSFW 标签，它将对其 Mod 团队采取行动。",
+          "link": "https://www.solidot.org/story?sid=75462",
+          "publishedOn": "2023-07-09T13:50:06.000Z",
+          "wordCount": 193,
+          "title": "Reddit 向使用 NSFW 抗议策略的 Subreddit 发出最后警告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75461",
+          "author": null,
+          "description": "马斯克的 Twitter（或者新名字 X Corp.）起诉了律所 Wachtell, Lipton, Rosen & Katz，索赔 9000 万美元。去年四月马斯克宣布收购 Twitter，报价 440 亿美元，他很快就反悔，试图退出双方已经达成的收购协议。Twitter 的原董事会雇佣了该律所去推动完成这笔交易。去年 10 月，马斯克在面临败诉的情况下被迫完成了对 Twitter 的交易，而该律所在交易完成的同一天拿到了 8430 万美元。马斯克在最新的诉讼中称，“Wachtell 利用了一个没有受到跛脚鸭受托人保护的公司客户，这些受托人在 Twitter 将出售给马斯克及其实体 X Holdings I, Inc. 和 X Holdings II, Inc.之前已失去了为 Twitter 的最佳利益行事的动力。”在收购完成之后，马斯克拖欠了大量账单，已经遭到了多起诉讼。",
+          "link": "https://www.solidot.org/story?sid=75461",
+          "publishedOn": "2023-07-08T15:22:05.000Z",
+          "wordCount": 192,
+          "title": "马斯克起诉帮助 Twitter 完成被马斯克收购的律所，索赔 9000 万美元",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75460",
           "author": null,
@@ -921,116 +940,6 @@
           "publishedOn": "2023-06-30T15:07:16.000Z",
           "wordCount": 151,
           "title": "Twitter 开始限制未注册用户访问",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75390",
-          "author": null,
-          "description": "世界最大的半导体制造商台积电成为勒索软件黑帮 LockBit 最新一位的受害者，该组织勒索 7000 万美元以交换不泄露窃取的数据。LockBit 是通过台积电的供应商 Kinmax Technologies 窃取到该公司的数据。Kinmax 是一家从事网络、云计算、存储、安全和数据库管理的 IT 服务商。对 Kinmax 的入侵发生在 6 月 29 日。台积电已经证实了此次攻击，表示网络入侵导致了与服务器初始设置和配置相关的信息泄露，没有任何客户信息泄露。它已经采取行动终止了与 Kinmax 的数据交换。",
-          "link": "https://www.solidot.org/story?sid=75390",
-          "publishedOn": "2023-06-30T14:57:18.000Z",
-          "wordCount": 160,
-          "title": "台积电遭勒索软件组织攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75389",
-          "author": null,
-          "description": "资产管理巨头富达降低了社交网站 Reddit 和消息应用 Discord 的估值。它对 Reddit 的估值降至了 55 亿美元，而在 2021 年 8 月它领投 Reddit 的 F 轮融资时该社交网站的估值高达 100 亿美元。富达持有的 Discord 股权价值也在其投资之后贬值了 47%。Reddit 最近因 API 定价超出了合理范围而引发社区的大规模抗议。",
-          "link": "https://www.solidot.org/story?sid=75389",
-          "publishedOn": "2023-06-30T14:01:02.000Z",
-          "wordCount": 173,
-          "title": "富达降低 Reddit 的估值",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75388",
-          "author": null,
-          "description": "一所美国高中将所有学生的密码都重置为 Ch@ngeme!，让每个学生都有机会黑入任何同学的账号。伊利诺伊州 Oak Park and River Forest (OPRF)高中通知学生家长，在安全评估期间，供应商失误重置了所有学生的密码，使学生无法登陆其 Google 账号。为了解决这个问题，他们将所有学生的密码重设为 Ch@ngeme!，学生将可以再次访问他们的 Google 账号，学校在邮件中警告家长，“我们强烈建议您的孩子将密码改为自己的唯一密码。”",
-          "link": "https://www.solidot.org/story?sid=75388",
-          "publishedOn": "2023-06-30T11:39:56.000Z",
-          "wordCount": 157,
-          "title": "美国高中将所有学生的密码重置为 Ch@ngeme!",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75387",
-          "author": null,
-          "description": "世界气象组织发布的臭氧和紫外线年度公报显示，平流层臭氧正在缓慢恢复，在未来几十年内，臭氧有望在大气中的大部分区域实现全面复原；但与此同时，气候变化正在放缓这一趋势。气象组织指出，得益于《蒙特利尔议定书》及其修正案的实施，已有高达 99% 的受管制的臭氧消耗物质（ODS）的生产和消费被逐步淘汰。该组织秘书长塔拉斯（Petteri Taalas）强调，这一成功可以激励整个世界在科学的支持下采取集体行动，以应对诸多其他全球环境挑战。但他同时警告，不幸的是，“气候变化正在减缓臭氧层的恢复，臭氧消耗也在影响低层大气的气候”。去年 1 月发生的汤加海底火山喷发将大量冰和水蒸气注入平流层。这次喷发使平流层的水汽含量增加了5% 至 10%，导致南半球上空的平流层大幅降温。额外的水蒸气导致 2022 年南半球平流层低层的臭氧减少。预计在接下来的几个冬天，极地涡旋中的水蒸气和气溶胶将会增加，这可能会导致更多的极地平流层云生成，并加剧臭氧消耗，从而引发面积更大和持续时间更长的“臭氧洞”。",
-          "link": "https://www.solidot.org/story?sid=75387",
-          "publishedOn": "2023-06-30T09:58:28.000Z",
-          "wordCount": 150,
-          "title": "气候变化放缓臭氧层的恢复",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75386",
-          "author": null,
-          "description": "多个研究团队在《The Astrophysical Journal Letters》上发表了四篇论文，报告首次观测到“引力波背景”证据。引力波产生的源头可能是一对相互绕转的超大质量黑洞。其质量是太阳的几百万到几十亿倍，是宇宙中最具存在感的天体。此次的发现有望为了解其数量和运动等提供线索。此次观测采用的策略类似于根据漂浮于海上的大量浮标动向描绘出波形。“脉冲星”被当作浮标。研究人员分析了散布在宇宙中的 68 颗脉冲星最长达 15 年的观测数据，锁定了信号到达时间比预测时间稍早或稍晚的现象。得出结论认为，这是引力波穿过导致地球和脉冲星之间的空间伸缩的证据。波长达到 9 万亿至 90 万亿公里。",
-          "link": "https://www.solidot.org/story?sid=75386",
-          "publishedOn": "2023-06-30T09:36:35.000Z",
-          "wordCount": 156,
-          "title": "科学家首次观测到“引力波背景”证据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75385",
-          "author": null,
-          "description": "即使 Twtter 用户体验多么糟糕，它的老板马斯克（Elon Musk）多么令人讨厌，它的用户仍然留在那里，去中心化微博客替代 Mastodon 未能吸引到更多 Twtter 用户，前 Mastodon 实例管理员解释了其中的原因：对于绝大多数用户而言 Mastodon 没有独特的卖点，从功能上讲它本质上是 2008 年的 Twtter，而从功能角度看 2023 年的 Twtter 能让绝大多数用户满意；对 99% 的用户来说去中心化不是卖点，就像绝大多数用户不在意开源或自由软件，在意识形态上也不反对私有软件；去中心化让用户体验糟糕；管理 Mastodon 的人对现状感到满意，他们认为其他人只需要接受就行，新用户无法将他们的体验反馈给管理者，他们会选择离开；Mastodon 扩展性不行，其用户群只接受慈善不接受其它任何资助模式；在很大程度上，Mastodon 的文化是排外的。",
-          "link": "https://www.solidot.org/story?sid=75385",
-          "publishedOn": "2023-06-30T08:10:49.000Z",
-          "wordCount": 177,
-          "title": "为什么 Mastodon 无法取代 Twtter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75384",
-          "author": null,
-          "description": "加拿大通过了在线新闻法（Online News Act），类似澳大利亚等国提出的类似法律，要求 Google 和 Meta 的 Facebook 等在线平台展示加拿大新闻时补偿该国的新闻机构，或者接受一个有约束力的仲裁程序。Google 和 Facebook 都拒绝了加拿大的要求，它们都决定从其平台上删除加拿大的新闻内容。Google 全球事务总裁 Kent Walker 称，事情发展到这一步我们也感到失望，对链接定价的决定（被称为链接税）会给 Google 的产品带来不确定性，仅仅为了方便加拿大人获取加拿大新闻出版商的新闻而要承担无上限的财务负担。",
-          "link": "https://www.solidot.org/story?sid=75384",
-          "publishedOn": "2023-06-30T07:37:11.000Z",
-          "wordCount": 171,
-          "title": "Google 和 Facebook 都决定不展示加拿大新闻",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75383",
-          "author": null,
-          "description": "在今年五月举行的 Build 开发者大会，微软宣布将为 Windows 11 加入 AI 辅助功能 Windows Copilot。Windows Copilot 将以一个独立的窗口展示在屏幕右侧，能根据用户的要求完成多项任务。现在，微软通过其开发版本（Dev Channel）向测试者（Windows Insiders）提供了 Windows Copilot 预览版。首个预览版的重心是集成 UI 体验，未来的版本会逐步加入额外的功能。要测试 Windows Copilot，用户需要运行 Windows Build 23493 及以上版本， Microsoft Edge 版本需要 115.0.1901.150 及以上。",
-          "link": "https://www.solidot.org/story?sid=75383",
-          "publishedOn": "2023-06-30T06:29:42.000Z",
-          "wordCount": 178,
-          "title": "Windows Copilot 预览版发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75382",
-          "author": null,
-          "description": "美国最高法院周四裁定，哈佛大学和北卡罗来纳大学具有种族意识的招生计划违宪。这一由保守派占绝对多数的最高法院做出的最新裁决意味着，寻求增加学生多样性的美国精英大学可能会减少黑人和拉丁裔学生的数量。法院以六比三的结果做出了裁决。首席大法官小约翰·G·罗伯茨在多数意见书中写道，这两个项目“不可避免地以负面方式运用种族因素”，“涉及种族成见”，违反了宪法。索尼娅·索托马约尔法官总结了她的异议——这是一个罕见的举动，表明法官与最终裁决存在严重分歧。她说这项裁决“进一步加剧了教育领域的种族不平等”。“这一决定的破坏性影响怎么强调都不为过。”",
-          "link": "https://www.solidot.org/story?sid=75382",
-          "publishedOn": "2023-06-30T06:13:49.000Z",
-          "wordCount": 142,
-          "title": "美最高法院裁定大学招生考虑种族因素违宪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75381",
-          "author": null,
-          "description": "亚马逊已在去年宣布将于 2023 年 6 月 30 日起在中国停止 Kindle 电子书店的运营。明天就是最后一天。明天之后用户将无法再购买新的电子书。对于已经购买的电子书，可以在 2024 年 6 月 30 日之前下载。亚马逊已经关闭了中国电商业务，它表示亚马逊海外购、亚马逊全球开店、亚马逊广告、亚马逊全球物流在内的跨境电商业务、亚马逊云科技和亚马逊智能硬件与服务等中国区业务会继续运营。更新：电子书店于 18 时正式关闭。",
-          "link": "https://www.solidot.org/story?sid=75381",
-          "publishedOn": "2023-06-29T15:25:44.000Z",
-          "wordCount": 161,
-          "title": "Kindle 中国电子书店的最后一天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75380",
-          "author": null,
-          "description": "Valve 成为最新一家拒绝 AI 生成内容的公司。一位匿名开发者递交的游戏遭到了拒绝，理由是包含 AI 生成素材。这位化名 potterharry97 的用户承认使用了文本图像开源模型 Stable Diffusion 生成了相当大一部分的游戏素材。Valve 的审核人员认为游戏素材的知识产权属于一个或多个第三方，由于 AI 生成艺术的所有权尚不清晰，因此它无法发行包含 AI 生成素材的游戏。Valve 表示它不清楚模型训练所用的数据集的版权。不过也不是所有包含 AI 生成内容的游戏都被 Valve 拒绝了，它的游戏商店 Steam 已经上架了多个包含 AI 内容的游戏。",
-          "link": "https://www.solidot.org/story?sid=75380",
-          "publishedOn": "2023-06-29T15:06:10.000Z",
-          "wordCount": 185,
-          "title": "Valve 拒绝在 Steam 上发行包含 AI 生成内容的游戏",
           "imageUrl": null
         }
       ]
