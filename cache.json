@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=45954",
+          "author": "青小蛙",
+          "description": "明日故乡 是一个通过公开数据，收集了 2206 个城市（直辖市+地级市+县级市+自治州）的 30 项可筛选数据的网站，通过 GPT-4 帮你找到那些拥有高铁、飞机、快递可达，生活成本低廉的三四线城市，",
+          "link": "https://www.appinn.com/guxiang/",
+          "publishedOn": "2023-07-15T05:56:44.000Z",
+          "wordCount": 2608,
+          "title": "明日故乡 – 中国版数字游民指南：用 AI 来寻找有星巴克、麦当劳，全年雨天小于 60 天，最高气温低于 30 度的城市，目前包括 2206 个城市数据",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/07/appinn-feature-images-2023-07-14t214354-021.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=45951",
           "author": "青小蛙",
           "description": "Bard 是由 Google 发布的聊天式大型语言模型，在最近的更新之后，新支持包括中文在内的 40 多种语言，也包括界面的中文显示与输入提问，均支持中文。另外，Bard 还支持了 Google 智能",
@@ -180,16 +190,6 @@
           "wordCount": 2661,
           "title": "GPT-4 面向所有 OpenAI API 付费用户开放使用",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/07/appinn-feature-images-2023-07-07t112747-561.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45875",
-          "author": "青小蛙",
-          "description": "在不久前，青小蛙发现了一款非常有趣的工具：钱条 – 在 Mac 菜单栏显示今天挣了多少钱，根据设置的工资与工作时长，可以实时显示你当前挣了多少钱，非常有趣 😂 还有：MySalary – 在 VS C",
-          "link": "https://www.appinn.com/3-moneyprogress-tools/",
-          "publishedOn": "2023-07-06T06:14:34.000Z",
-          "wordCount": 2621,
-          "title": "3 款钱条工具：在桌面显示今天赚了多少钱[Windows]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/07/appinn-feature-images-2023-07-06t131812-666.jpgo_.jpg"
         }
       ]
     },
@@ -227,6 +227,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75523",
+          "author": null,
+          "description": "互联网档案馆的 Jason Scott 宣布在志愿者的帮助下该项目的 Flash 模拟器获得了显著改进。Adobe Flash 于 2020 年底结束支持，主流浏览器都移除了对 Flash 的支持。互联网档案馆是在 2020 年宣布存档 Flash 动画和游戏作品，因为作为一种创作工具，Flash 留下了很多出色的作品，应该让后人能体验这些作品，而不是让它们消失在数字时代。互联网档案馆开发了 Flash 模拟器 Ruffle，无需插件就能在浏览器中运行 Flash 动画和游戏作品。最新的改进包括加入了对静音/取消静音的支持，能根据实际动画的信息调整屏幕大小。很多之前不能正常工作的 Flash 作品都将能加入档案收藏。互联网档案馆目前存档的 Flash 作品超过了一万件。",
+          "link": "https://www.solidot.org/story?sid=75523",
+          "publishedOn": "2023-07-15T11:14:08.000Z",
+          "wordCount": 175,
+          "title": "互联网档案馆改进 Flash 模拟支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75522",
+          "author": null,
+          "description": "Red Hat 前不久宣布其企业发行版 RHEL（Red Hat Enterprise Linux）相关源码仅通过 CentOS Stream 公开。此举加大了社区发行版如 Alma Linux 和 Rocky Linux 构建 1:1 兼容性的难度。AlmaLinux OS 基金会董事会主席 Benny Vasquez 通过官方博客宣布该项目放弃了构建与 RHEL 发行版 1:1 兼容性的目标，改为实现 Application Binary Interface (ABI)兼容性，即能在 RHEL 上运行的软件也能在 Alma Linux 上运行。对用户而言，他们在使用过程中将基本不会体验到任何差别。RHEL 兼容应用仍然能在 Alma Linux 上运行，操作系统能继续及时收到安全更新。变化在于，Alma Linux 项目不再坚持于与 Red Hat 的 bug-for-bug 兼容性，意味着 Alma Linux 将接受 Red Hat 发布周期之外的 bug 修正，部分用户可能遭遇到 Red Hat 发行版上没有的 bug，它也将能接受未被上游接受或向下游发布的 bug 修正补丁。",
+          "link": "https://www.solidot.org/story?sid=75522",
+          "publishedOn": "2023-07-15T06:28:13.000Z",
+          "wordCount": 222,
+          "title": "AlmaLinux 不再致力于实现与 RHEL 的 1:1 兼容性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75521",
+          "author": null,
+          "description": "Meta 的大语言模型 LLaMA 过去几个月推动了开源大模型的快速发展，但 LLaMA 目前不支持商业使用，而是在非商业授权下提供给社区和研究人员使用。Meta 现在准备推出 LLaMA 的商业版本，允许开发者和企业在 LLaMA 基础上构建商业应用。LLaMA 有 70 亿、130 亿、330 亿和 650 亿参数多个版本，相比下 ChatGPT 使用大模型 GPT-3.5 有 1750 亿个参数，而新一代的 GPT-4 据报有超过 1 万亿个参数。",
+          "link": "https://www.solidot.org/story?sid=75521",
+          "publishedOn": "2023-07-15T05:29:53.000Z",
+          "wordCount": 176,
+          "title": "Meta 将发布商业版开源大模型 LLaMA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75520",
+          "author": null,
+          "description": "WSJ 援引消息来源报道，最大的加密货币交易所过去几周裁掉了逾千名员工。知情人士表示，裁员还在继续，币安可能会失去逾三分之一的员工。这次裁员是全球性的，币安在印度的客服有数十人被解雇。在大规模裁员行动开始前，币安的员工总数约为 8000 人。过去几个月，它成为美国监管机构的打击目标。美国证交会 SEC 上个月起诉了币安及其创始人赵长鹏，被控其在美国非法经营交易所，滥用客户资金。币安还面临美国司法部的调查。",
+          "link": "https://www.solidot.org/story?sid=75520",
+          "publishedOn": "2023-07-15T05:04:01.000Z",
+          "wordCount": 146,
+          "title": "币安裁员逾千人",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75519",
           "author": null,
@@ -986,126 +1026,6 @@
           "wordCount": 173,
           "title": "WordPress 插件 0day 威胁 20 万网站",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75443",
-          "author": null,
-          "description": "上海 AI 实验室发布了开源模型 InternLM-7B，中文名书生·浦语大模型，包含有 70 亿参数。开发者称，“InternLM 是在过万亿 token 数据上训练的多语千亿参数基座模型。通过多阶段的渐进式训练，InternLM 基座模型具有较高的知识水平，在中英文阅读理解、推理任务等需要较强思维能力的场景下性能优秀，在多种面向人类设计的综合性考试中表现突出。在此基础上，通过高质量的人类标注对话数据结合 RLHF 等技术，使得 InternLM 可以在与人类对话时响应复杂指令，并且表现出符合人类道德与价值观的回复。”源代码在 Apache-2.0 协议下开源，权重对学术研究完全开放，在获得官方的书面许可后，亦允许商业使用。",
-          "link": "https://www.solidot.org/story?sid=75443",
-          "publishedOn": "2023-07-06T11:44:36.000Z",
-          "wordCount": 169,
-          "title": "上海 AI 实验室发布开源模型 InternLM-7B",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75442",
-          "author": null,
-          "description": "亚马逊旗下的好莱坞工作室(Hollywood studio)过去两年投入了巨额资金开发原创内容，但结果乏善可陈。正着手大幅削减开支的 CEO Andy Jassy 要求高管们对部分投资巨大的电视剧项目给出详细的预算分析。好莱坞工作室过去十年投入了数百亿美元制作原创内容，前一年投入了 50 亿美元，去年投入了 70 亿美元。只有网飞（Netflix）和迪士尼在流媒体上的投资高于亚马逊。过去九个月，亚马逊发布了至少 6 部高预算的电视剧，其中包括《Daisy Jones & the Six》、《The Power》、《Dead Ringers》和《The Peripheral》制作成本都超过 1 亿美元，但未能吸引到多少观众，都未能进入尼尔森的美国 10 大流媒体节目名单。制作成本超过 4 亿美元的指环王衍生剧《The Rings of Power》第一季未能在整季的播出过程中留住观众。",
-          "link": "https://www.solidot.org/story?sid=75442",
-          "publishedOn": "2023-07-06T10:31:46.000Z",
-          "wordCount": 176,
-          "title": "亚马逊 CEO 质问旗下好莱坞工作室钱花哪儿去了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75441",
-          "author": null,
-          "description": "研究人员在 66 名一年级大学生观看一系列视频片段的同时，对他们的大脑进行了检查。这些视频的主题从伤感的音乐视频到派对场景和体育赛事，为分析提供了各种各样的场景。在扫描之前，年参与者被要求完成孤独量表。根据调查结果，研究人员将参与者分为两组：孤独和“不孤独”。当参与者观看视频时，他们用功能磁共振成像扫描每个参与者的大脑。比较两组人的脑成像数据，研究人员发现，孤独的人比不孤独的人表现出更多不同和特殊的大脑处理模式。遭受孤独之苦的人不仅与社会处理世界的规范不太相似，而且每个孤独的人也有独特的方式。这种独特性可能会进一步影响孤立感和缺乏社会联系的感觉。",
-          "link": "https://www.solidot.org/story?sid=75441",
-          "publishedOn": "2023-07-06T09:35:53.000Z",
-          "wordCount": 144,
-          "title": "孤独者感知世界的方式与众不同",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75440",
-          "author": null,
-          "description": "根据 Similarweb 的估计，去年 11 月底发布的 AI 聊天机器人 ChatGPT 的流量首次出现下降。ChatGPT 在去年 12 月吸引了约 2.66 亿次访问，与 Yahoo News 相近，之后 1 月份流量增长 131.6%，2 月 62.5%，3 月 55.8%，到了 4 月增长 12.6% 至 17.6 亿次，指数级增长势头开始消退。它的流量超过了 bing.com、nytimes.com 和 cnn.com，但仍然只有 google.com 的 2%。如今 6 月份的桌面和移动 ChatGPT 访问量比 5 月下降了 9.7%，独立访客人数下降了 5.7%，用户在网站上花费的时间下降了 8.5%。即便如此，ChatGPT 仍然是至今增长最快的消费者应用，其访问量排名全球前 20，远超使用 OpenAI 技术的微软搜索引擎 Bing。",
-          "link": "https://www.solidot.org/story?sid=75440",
-          "publishedOn": "2023-07-06T09:18:53.000Z",
-          "wordCount": 195,
-          "title": "ChatGPT 的流量首次出现下降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75439",
-          "author": null,
-          "description": "本周迪士尼从其流媒体 Disney+ 上下架了电影《Crater》。这部电影是在 2023 年 5 月 12 日上线的，这意味着它在 Disney+ 只生存了 48 天。迪士尼没有解释下架原因，很有可能是观看量不佳于是下架以减记“内容资产”的价值，降低税费。一切都与金钱有关，向来如此。迪士尼不是唯一这么做的流媒体公司，Netflix 和 HBO Max(现在叫 Max)都会在未警告订户的情况下下架内容。迪士尼取消并下架了《Willow》，Hulu 下架了《Single Drunk Female》，HBO 下架了《西部世界》和《雪国列车》，Paramount+ 下架了《Grease: Rise of the Pink Ladies》。 很多时候，下架的内容会永远消失，因为很多节目是为流媒体制作的，只在流媒体上播出，未发行实体版，也没有在有线电视上播出。对于这些不再有合法来源提供的内容，盗版也许是唯一的选项。",
-          "link": "https://www.solidot.org/story?sid=75439",
-          "publishedOn": "2023-07-06T08:32:37.000Z",
-          "wordCount": 168,
-          "title": "当流媒体上的内容消失",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75438",
-          "author": null,
-          "description": "衰老通常与认知功能下降有关。海马体和邻近的大脑皮层对学习和记忆至关重要，它们是最先受到影响的大脑部位之一。认知能力缺陷与海马体体积减少和海马体与(周围)内嗅皮层之间的突触连通性恶化有关。越来越多的证据表明，体育活动可以帮助延缓或避免老年人的这些结构和功能衰退。最近进行的一项研究为运动的好处提供了新的见解。这强调了成年人，特别是中年人在一生中保持身体活动的重要性。在这项研究中，研究人员专注于长期跑步对年轻成年小鼠在中年时产生的新海马神经元网络的影响。这些“奔跑的小鼠”表明，在中年跑步可以使成年时出生的老年神经元保持连接，这可能会预防或延缓与衰老相关的记忆丧失和神经退化。",
-          "link": "https://www.solidot.org/story?sid=75438",
-          "publishedOn": "2023-07-06T07:50:03.000Z",
-          "wordCount": 142,
-          "title": "跑步有助于在衰老过程中保持记忆功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75437",
-          "author": null,
-          "description": "发表于《神经病学》的一项研究发现，牙龈疾病和牙齿脱落与海马体萎缩有关。海马体位于大脑丘脑和内侧颞叶之间，主要负责短时记忆的存储转换和定向等功能。因此海马体萎缩主要见于阿尔茨海默病等。但这项新研究至提出了一种潜在的关联，没有直接证明牙龈疾病或牙齿脱落会导致阿尔茨海默病。研究涉及 172 名平均年龄 67 岁的人群。他们在研究开始时没有记忆问题。研究开始时参与者接受了牙科检查、记忆力测试以及脑部扫描，以测量海马体体积。4 年后，研究人员再次对参与者进行脑部扫描以测量海马体体积、统计牙齿数量、通过测量牙龈组织的牙周探诊深度来检测牙龈疾病。研究人员发现，牙齿的数量和牙龈疾病数量与大脑左侧海马体的变化有关。对于患有轻度牙龈疾病的人来说，牙齿越少，左侧海马体的萎缩速度越快。",
-          "link": "https://www.solidot.org/story?sid=75437",
-          "publishedOn": "2023-07-06T07:39:18.000Z",
-          "wordCount": 147,
-          "title": "牙齿疾病与脑健康相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75436",
-          "author": null,
-          "description": "对清洁能源的需求推动了对核能的兴趣。加拿大电力公司 Bruce Power 将执行一次环境评估，它计划建造世界最大的核电站。Bruce Power 在安大略省的核电站有 8 座反应堆，装机容量 6.2GW，供应了安大略省三成的电力需求。Bruce Power 计划增加多达 4.8GW 的发电能力，这将使得它超过日本的柏崎刹羽核电站，后者是目前世界最大的核电站，有 7 座反应堆，发电能力超过 8GW。",
-          "link": "https://www.solidot.org/story?sid=75436",
-          "publishedOn": "2023-07-06T07:34:45.000Z",
-          "wordCount": 156,
-          "title": "加拿大计划建造世界最大核电站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75435",
-          "author": null,
-          "description": "育碧《超越善恶2（Beyond Good and Evil 2）》游戏创意总监 Emile Morel 去世，年仅 40 岁。《超越善恶2》早在 2017 年就宣布了，但之后的开发陷入了困境，至今仍然处于开发的前期准备阶段。Morel 早在 2009 年就加入了育碧公司，参与的游戏项目包括了横板过关游戏《雷曼传奇（Rayman Legends）》，担任资深游戏策划。他参与《超越善恶2》项目时最初的职位是副创意总监，在 Jean-Marc Geffroy 离职之后担任创意总监。",
-          "link": "https://www.solidot.org/story?sid=75435",
-          "publishedOn": "2023-07-06T05:40:49.000Z",
-          "wordCount": 167,
-          "title": "《超越善恶2》创意总监去世，年仅 40 岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75434",
-          "author": null,
-          "description": "Meta 创始人马扎克伯格（Mark Zuckerberg）在 Threads 上宣布，该公司的微博客服务上线两小时注册量突破了 200 万。Meta 于周三正式上线了 Threads（Web 版本只能浏览不能发帖），Instagram 用户可通过现有账号登陆。它目前是一个基本文本的社交应用，在功能上还无法真正替代 Twitter，但鉴于马斯克(Elon Musk)最近采取的一系列受争议行为——如限制浏览的推文数量，愈来愈多的人都愿意尝试 Twitter 的不同替代。更新：\n马扎克伯格宣布 Threads 的注册量突破了三千万。",
-          "link": "https://www.solidot.org/story?sid=75434",
-          "publishedOn": "2023-07-06T02:31:34.000Z",
-          "wordCount": 171,
-          "title": "Threads 上线两小时注册量突破 200 万",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75433",
-          "author": null,
-          "description": "黑客组织 Anonymous Sudan 声称入侵了微软服务器窃取了包含有逾 3000 万客户账号凭证的数据库。微软对此说法予以否认。Anonymous Sudan 以发动 DDoS 攻击闻名，它被认为与亲俄的 Killnet 等组织有关联。微软上个月承认其服务 Azure、Outlook 和 OneDrive 等发生的短暂宕机是遭到了 Anonymous Sudan 的  DDoS 攻击。Anonymous Sudan 正以 5 万美元的价格出售窃取的微软客户数据库，但微软发言人表示没有证据表明其客户数据遭到泄露。",
-          "link": "https://www.solidot.org/story?sid=75433",
-          "publishedOn": "2023-07-05T15:35:10.000Z",
-          "wordCount": 173,
-          "title": "微软否认 3000 万客户账号凭证被盗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75432",
-          "author": null,
-          "description": "GoFundMe 拒绝取消为被控枪杀北非裔少年 Nahel M 的警官举行的筹款活动。Nahel M 枪击案导致法国各地发生大规模骚扰。这位警官至今收到了逾百万欧元的捐赠，筹款活动的发起人是极右翼政客勒庞（Marine Le Pen）的前顾问 Jean Messiha。GoFundMe 发言人称，筹款活动的声明称捐赠的资金将用于支持其家人。警官的家人被列为受益人，资金将流向他们。法国总理 Élisabeth Borne 对筹款持保留立场，但表示不会介入。她表示有必必要的话将由法庭决定其合法性，但由不得政府决定。",
-          "link": "https://www.solidot.org/story?sid=75432",
-          "publishedOn": "2023-07-05T15:05:44.000Z",
-          "wordCount": 172,
-          "title": "GoFundMe 拒绝取消被控杀死 Nahel M 的警官的筹款活动",
-          "imageUrl": null
         }
       ]
     },
@@ -1174,18 +1094,7 @@
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
-      "articles": [
-        {
-          "id": "https://catonmat.net/25-new-gif-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nLast week we added 35 new string tools and and today we just added 25 new tools to our Online GIF Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new gif tools.\nChange GIF Loop Count\nSharpen a GIF\nChange GIF Brightness\nChange GIF Contrast\nRandomize GIF Frames\nChange GIF Duration\nAdd GIF Border\nRemove GIF Border\nAdd GIF Background\nRemove GIF Background\nCompress a GIF Animation\nAdd a Timer to a GIF\nAdd a Frame Counter to a GIF\nMake GIF Corners Round\nConvert GIF to Grayscale\nCut a Fragment from a GIF\nSlow Down a GIF Animation\nSpeed Up a GIF Animation\nCreate a Colorful GIF\nCreate a Random GIF\nCreate a 1x1 Pixel GIF\nCreate a Boomerang GIF\nAdd White Noise to a GIF\nOptimize a GIF Animation\nAnalyze a GIF Animation\nNext week we'll add even more tools. See you then!",
-          "link": "https://catonmat.net/25-new-gif-tools",
-          "publishedOn": "2023-07-06T06:40:00.000Z",
-          "wordCount": 258,
-          "title": "We've added 25 new gif tools",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Discover Dev",
