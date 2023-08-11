@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46196",
+          "author": "青小蛙",
+          "description": "ChoEazyCopy 是为 Microsoft CLI 工具软件 RoboCopy 制作的简单而强大的 GUI 工具，使用 Cinchoo，一个.NET应用程序框架。主要用来复制海量小文件。@App",
+          "link": "https://www.appinn.com/choeazycopy/",
+          "publishedOn": "2023-08-10T08:47:00.000Z",
+          "wordCount": 2544,
+          "title": "ChoEazyCopy, 简洁强大的 RoboCopy GUI，微软官方超强复制海量小文件工具的图形界面版本",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/choeazycopy.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=46193",
+          "author": "青小蛙",
+          "description": "Syncthing Tray 是一个小而全 Syncthing 的微型 GUI。Syncthing 是一款开源的跨平台文件同步工具，它能够在两台或者多台计算机、手机之间实时同步文件。@Appinn 来",
+          "link": "https://www.appinn.com/syncthing-tray/",
+          "publishedOn": "2023-08-10T02:32:00.000Z",
+          "wordCount": 2569,
+          "title": "Syncthing Tray 简单小巧的文件同步工具 Syncthing 的图形界面版本",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/syncthing-tray.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46186",
           "author": "青小蛙",
           "description": "Extension Manager 是一款能够根据规则、情景模式自动打开、关闭 Chrome 扩展的工具。@Appinn 来自发现频道，开发者 @JasonGrass 自荐：https://meta.",
@@ -175,16 +195,6 @@
           "wordCount": 2474,
           "title": "随便扫 – 扫码二维码自动跳转，支持微信、支付宝、抖音、美团、京东、QQ 等[iOS/Android]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-01t211038-224.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46114",
-          "author": "青小蛙",
-          "description": "ChatPicMigrator4QQNT 是一款帮你从旧版 Windows QQ 平滑升级到新版 QQ NT 的小工具，它能迁移聊天记录中的图片、视频、接收的文件。@Appinn 来自发现频道，开发者",
-          "link": "https://www.appinn.com/chatpicmigrator4qqnt/",
-          "publishedOn": "2023-08-01T05:14:23.000Z",
-          "wordCount": 2555,
-          "title": "ChatPicMigrator4QQNT – 从旧版 Windows QQ 平滑升级到新版 QQ NT 的小工具",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-01t130744-399.pngo_.png"
         }
       ]
     },
@@ -215,13 +225,134 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10939",
+          "author": "张 鑫旭",
+          "description": "nonce可以用来决定哪些内联JS执行，popover可以无JS实现浮层弹出层交互效果。",
+          "link": "https://www.zhangxinxu.com/wordpress/2023/08/html-attribute-nonce-translate/",
+          "publishedOn": "2023-08-10T15:24:42.000Z",
+          "wordCount": 1094,
+          "title": "查漏补缺，我仍未知道的HTML nonce和popover属性",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75765",
+          "author": null,
+          "description": "中国对未成年人的游戏时长实施了严格的限制，但发表在《Nature Human Behavior》期刊上的一项研究显示，没有证据显示它遏制了过于沉迷游戏。研究人员与 Unity 合作，检查了从 2019 年 8 月中旬到 2020 年 1 月中旬逾 70 亿小时的游戏时长和约 24 亿中国玩家的资料，其中包括未成年人每天游戏时长限制在一个半小时，节假日三小时。研究人员将沉迷游戏的玩家定义为每天玩游戏四小时以上每周玩游戏六天以上。他们发现没有可靠的证据显示在限制实施之后沉迷游戏的普遍性在整体上减少了。去年的一项研究发现，未成年人普遍还是遵守了严格的游戏时长限制。",
+          "link": "https://www.solidot.org/story?sid=75765",
+          "publishedOn": "2023-08-10T16:00:08.000Z",
+          "wordCount": 157,
+          "title": "研究称中国对未成年人游戏时间限制没有减少游戏沉迷",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75764",
+          "author": null,
+          "description": "Vim 作者 Bram Moolenaar 一周前去世，他被称为是 Vim 项目的终身仁慈独裁者，管理着 Vim 项目的各个方面。他的去世留下了巨大的空白。在 vim_dev 邮件列表上，Vim 开发者 Christian Brabandt 宣布了项目的未来计划，称从 Bram 家人获得了 Vim 在 Github 上的管理权，邀请了更多开发者加入了 Vim 组织，已经开始合并 commits，但目前主要是 bug 修正、安全补丁和文档更新等。他暂时无法访问 Vim FTP 主服务器，正在接触 Bram 的家人是否知道凭证。",
+          "link": "https://www.solidot.org/story?sid=75764",
+          "publishedOn": "2023-08-10T15:04:02.000Z",
+          "wordCount": 175,
+          "title": "Vim 项目的未来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75763",
+          "author": null,
+          "description": "微塑料无处不在。北京首都医科大学的科学家报告，他们在人体心脏组织中发现了微塑料。研究报告发表在《Environmental Science & Technology》期刊上。在一项实验中，研究人员收集了 15 名接受心脏手术的患者的心脏组织样本，以及半数参与者手术前后的血液样本。他们用激光直接红外成像进行分析，发现了 20-500 微米宽的颗粒，由八种塑料构成，包括聚对苯二甲酸乙二醇酯、聚氯乙烯和聚甲基丙烯酸甲酯。微塑料能通过嘴和鼻以及手术进入人体组织。研究人员表示需要更多研究才能知道微塑料对心血管系统的影响，以及对心脏手术的预后。",
+          "link": "https://www.solidot.org/story?sid=75763",
+          "publishedOn": "2023-08-10T14:05:17.000Z",
+          "wordCount": 149,
+          "title": "科学家在心脏组织中发现微塑料",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75762",
+          "author": null,
+          "description": "印度议会周三通过了数据保护法案，政府称需要该法案来监管大型科技公司并保护公民，但维权组织称该法案赋予新德里方面过大的权力。法案规定公司在收集用户的个人数据之前需征得同意，并规定公司仅能将数据用于既定目的。该法案允许政府限制将数据传输到印度境外，并对违反规定的公司进行处罚。数字平台维权组织 Access Now 指出，该法案并未设立独立的监管机构，而且让政府不必遵守该法案规定的义务。其中一项条款增加了政府封锁网络信息的能力，另一项条款则在一定程度上削弱了让公民从公共机构获取信息的透明度法律。",
+          "link": "https://www.solidot.org/story?sid=75762",
+          "publishedOn": "2023-08-10T11:49:00.000Z",
+          "wordCount": 144,
+          "title": "印度通过数据保护法案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75761",
+          "author": null,
+          "description": "Google 就澳大利亚政府的 AI 监管框架递交文件表示，版权法应该修改允许生成式 AI 爬取互联网内容，让版权内容以恰当和合理使用的方式在澳大利亚用于训练 AI 模型，不愿意被训练的内容出版商可以选择退出。Google 最近提出了 robots.txt 的一种替代方案，网站可以在其中明确是否允许爬取内容训练 AI。AI 需要海量数据进行训练，而数据集的版权问题正日益引起关注。版权将是生成式 AI 未来面临的一大问题。",
+          "link": "https://www.solidot.org/story?sid=75761",
+          "publishedOn": "2023-08-10T11:38:00.000Z",
+          "wordCount": 167,
+          "title": "Google 认为 AI 可以挖掘网上内容除非选择退出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75760",
+          "author": null,
+          "description": "西雅图市议会通过了一项法案，保护零工不会突然被 Instacart 或 DoorDash 等应用踢出而停止雇佣，成为第一个提供此类保护的美国城市。零工们告诉议会，他们因为拒绝了太多的订单或者超过他们控制范围的延误而被突然解雇或者叫踢出应用。这项法案的发起人 Lisa Herbold 议员表示，做出解雇决定的通常是算法而不是真人。法案对解雇零工设定了更高的门槛，并要求公司提前 14 天通知零工。该法案预计将在市长 Bruce Harrell 签署之后成为法律。",
+          "link": "https://www.solidot.org/story?sid=75760",
+          "publishedOn": "2023-08-10T10:03:07.000Z",
+          "wordCount": 153,
+          "title": "西雅图成为第一个保护零工避免突然“解雇”的美国城市",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75759",
+          "author": null,
+          "description": "在保守派眼里，流行的在线百科全书太倾向自由派了，他们需要自己的声音，这就是维基百科的替代 Justapedia。Justapedia 包含了维基百科的内容，也包含了保守派志愿者撰写的内容。类似马斯克(Elon Musk)所宣称的“言论自由绝对主义者”，保守派想通过 Justapedia 恢复百科全书的客观性和中立性。举例来说，它认为演化论是受争议的主题，蓝光光盘也是，LGBT 更是争议中的争议，法西斯主义不应该包含极右这一说法，等等。",
+          "link": "https://www.solidot.org/story?sid=75759",
+          "publishedOn": "2023-08-10T08:22:58.000Z",
+          "wordCount": 155,
+          "title": "保守派的维基百科替代 Justapedia 上线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75758",
+          "author": null,
+          "description": "沙特阿拉伯宣布计划采用 USB-C 连接器作为所有电子设备的标准化充电端口。该决定将于 2025 年 1 月 1 日起生效，适用于除便捷式计算机和笔记本电脑之外的所有电子设备。标准化充电端口的工作将分成两个阶段，第一阶段始于 2025 年 1 月 1 日，覆盖手机、耳机、键盘、扬声器、路由器等电子设备；第二阶段始于 2026 年4 月 1 日，便捷式计算机和笔记本电脑也都需要采用 USB-C。沙特政府表示此举旨在改善用户体验和降低成本。",
+          "link": "https://www.solidot.org/story?sid=75758",
+          "publishedOn": "2023-08-10T07:52:44.000Z",
+          "wordCount": 177,
+          "title": "沙特宣布到 2025 年所有电子设备使用 USB-C 标准充电端口",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75757",
+          "author": null,
+          "description": "广西发布的 2022 年审计报告显示，自治区内九所大学 2020-2022 年之间的研究成果市场转化率不到 1%。其中一所大学获得了 1.31 亿元的拨款，资助了 862 个已实施研究项目，但没有一个成功的工业应用。报告凸显了中国将学术研究转化为市场应用过程中长期存在的问题。中国人民大学国家发展与战略研究院教授刘瑞明称，这是一个全国性问题。",
+          "link": "https://www.solidot.org/story?sid=75757",
+          "publishedOn": "2023-08-10T06:46:16.000Z",
+          "wordCount": 155,
+          "title": "广西报告称大学的研究成果转化率不到 1%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75755",
+          "author": null,
+          "description": "加拿大多伦多大学公民实验室的研究人员分析了腾讯旗下的搜狗输入法。该输入法月活用户逾 4.5 亿，是中国最流行的中文输入法，占据了七成市场份额，讯飞排名第二，百度输入法第三。研究人员分析了搜狗输入法的 Windows、Android 和 iOS 版本，发现搜狗使用了一个自己开发的加密系统 EncryptWall 加密敏感数据，而该加密系统存在 CBC 密文填塞（Padding Oracle）漏洞，允许网络监听者获得加密网络传输的明文，包括用户输入的内容。研究人员向搜狗报告了漏洞，搜狗开发者释出了新版本修复了漏洞。该输入法的用户需要尽快升级到新版本——Windows v13.7、Android v11.26 和 iOS v11.25。",
+          "link": "https://www.solidot.org/story?sid=75755",
+          "publishedOn": "2023-08-10T05:58:16.000Z",
+          "wordCount": 158,
+          "title": "腾讯搜狗输入法存在加密漏洞容易暴露输入内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75754",
+          "author": null,
+          "description": "科技新闻网站 CNET 删除了数千篇旧文章，它告诉员工此举旨在改善 Google 搜索排名。CNET 是从 7 月开始对内容进行大清洗，它在内部备忘录中称，此举向 Google 发去了一个信号，CNET 是一个新鲜的，有相关性，有价值的网站，在搜索结果中应该比竞争对手排名更高。CNET 称，被删除的文章用互联网档案馆的时光机器进行了存档，并至少提前十天通知了文章作者。对时光机器存档的对比显示，被删除的文章可以追溯到 1990 年代。CNET 隶属于 Red Ventures 公司。",
+          "link": "https://www.solidot.org/story?sid=75754",
+          "publishedOn": "2023-08-10T05:06:14.000Z",
+          "wordCount": 162,
+          "title": "CNET 删除旧文以改进搜索排名",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75753",
           "author": null,
@@ -1011,86 +1142,6 @@
           "wordCount": 150,
           "title": "AI 搜索尼安德特人蛋白质重新发现抗生素",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75674",
-          "author": null,
-          "description": "NYT 今年四月披露了一家美国政府承包商购买并部署了受争议的以色列间谍软件公司 NSO 的产品 Landmark。白宫随后表示他们对此不知情，命令 FBI 查找出原因。FBI 的调查发现，部分原因就是它自己。承包商 Riva Networks 与 NSO 之间的合同是在 2021 年 11 月完成的。而就在几天前美国政府将 NSO 列入了商务部黑名单，事实上禁止美国公司与 NSO 做生意。Landmark 允许美国政府官员秘密跟踪墨西哥居民。FBI 称它无意中使用了 NSO 的间谍软件，Riva Networks 误导了它。它已经终止了与 Riva 的合同。FBI 称它雇佣 Riva 是为了跟踪墨西哥毒贩和逃犯，因为该公司能利用墨西哥移动网络的漏洞秘密跟踪手机。而 Riva 在使用 NSO 的 Landmark 时并没有告知该机构。",
-          "link": "https://www.solidot.org/story?sid=75674",
-          "publishedOn": "2023-08-01T13:25:34.000Z",
-          "wordCount": 194,
-          "title": "FBI 称它无意中使用了 NSO 的间谍软件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75672",
-          "author": null,
-          "description": "马斯克（Elon Musk）的 Twitter/X 起诉研究仇恨言论的非营利组织 Center for Countering Digital Hate。该组织称 Twitter 平台上仇恨言论泛滥。在诉讼中，马斯克的公司指控该组织通过抓取和不正当获取由供应商运营的数据库的登录凭据，不正当地访问了 X 平台的数据。该诉讼要求陪审团审判、经济赔偿，并禁止该组织及其员工访问与 X 平台有关的某些数据。该组织此前认为马斯克试图让它噤声。",
-          "link": "https://www.solidot.org/story?sid=75672",
-          "publishedOn": "2023-08-01T11:13:04.000Z",
-          "wordCount": 160,
-          "title": "Twitter 起诉研究仇恨言论的非营利组织",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75671",
-          "author": null,
-          "description": "科学家演示了用电控制人类基因。研究报告发表在《自然》期刊上。在实验中，研究人员通过“electrogenetic”接口发送电流，激活目标基因，触发人体细胞生成胰岛素。这项研究为医疗用的可穿戴设备铺平了道路，使用电流通过接口控制人类 DNA 去治疗糖尿病在内的各种疾病。苏黎世联邦理工学院分子生物学家 Jinbo Huang 领导的团队发明了一种电池驱动的接口，他们称之为直流驱动调控技术（direct current -actuated regulation technology 或 DART），用电流触发特定基因反应。研究人员称该设备是一次技术飞跃。",
-          "link": "https://www.solidot.org/story?sid=75671",
-          "publishedOn": "2023-08-01T10:31:03.000Z",
-          "wordCount": 153,
-          "title": "科学家演示用电控制人类基因",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75670",
-          "author": null,
-          "description": "VGC 援引多个知情人士的消息报道，任天堂准备明年下半年推出下一代游戏机。消息来源称，为降低成本，游戏机将使用 LCD 显示屏而不是更昂贵的 OLED 屏，预计其存储容量比 Switch 的 32GB 有增加。和 Switch 一样，新主机支持通过插卡槽运行实体游戏。目前还不清楚是否向后兼容 Switch 游戏，任天堂此前表示要确保其 Switch 用户能顺利过渡到下一代游戏机。任天堂新游戏机最大的竞争对手是它自己，Switch 是目前最畅销的游戏机，尽管硬件规格远低于竞争对手，但其销量超过了 1 亿。",
-          "link": "https://www.solidot.org/story?sid=75670",
-          "publishedOn": "2023-08-01T08:37:08.000Z",
-          "wordCount": 159,
-          "title": "任天堂准备明年推出下一代游戏机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75669",
-          "author": null,
-          "description": "华硕之后，更多的 PC 厂商准备踏入掌机市场。联想据报道正在开发 Windows 11 掌机 Legion Go。和华硕和 Valve 等厂商类似，PC 掌机基本上都是使用 AMD 的 APU。Legion Go 将采用基于 Zen4 架构的 Phoenix 系列处理器，GPU 是基于 RDNA3 架构。华硕 Windows 掌机 ROG Ally 使用的 Z1 系列处理器就属于 Phoenix 系列。Legion Go 的显示屏是 8 英寸，比 ROG Ally 和 Steam Deck 的 7 英寸更大。其它信息所知不多。",
-          "link": "https://www.solidot.org/story?sid=75669",
-          "publishedOn": "2023-08-01T08:04:21.000Z",
-          "wordCount": 200,
-          "title": "联想开发 Windows 掌机 Legion Go",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75668",
-          "author": null,
-          "description": "在居民投诉之后，旧金山拆除了前 Twitter 公司总部顶部的巨型“X”标志。 Twitter  现在改名为X 公司，上周五竖立起了这个标志，随后几天，居民们对其亮度和稳固性提出了投诉。市政府表示，该标志竖立起来之后共收到 24 起相关投诉，涉及该标志的发光和稳定性。市政府表示，竖立该标志未获许可，这可能会给公共安全和历史性建筑保护带来风险。",
-          "link": "https://www.solidot.org/story?sid=75668",
-          "publishedOn": "2023-08-01T06:31:36.000Z",
-          "wordCount": 171,
-          "title": "旧金山拆除 Twitter 总部的 X 标志",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75667",
-          "author": null,
-          "description": "去中心化社交服务 Mastodon 正吸引更多机构参与者加入。BBC 宣布创建了一个自己的  Mastodon 实例 https://social.bbc，感兴趣的用户可以关注 BBC 在联邦宇宙的社交媒体账号，其中包括 BBC R&D、Radio 4 和 5 Live 等。BBC 新闻或中文尚无账号。BBC 称，Mastodon 是一个联邦式社交网络，目前有大约 200 万活跃用户。联邦社交网络不受单一组织的控制，任何人都可以创建自己的实例，制定自己的内容管理和成员规则，所有实例都可以互相连接。这一模式更接近电邮，你可以给任何一个人发电邮，同时你也可以选择你想要使用的电邮服务提供商。",
-          "link": "https://www.solidot.org/story?sid=75667",
-          "publishedOn": "2023-08-01T03:36:24.000Z",
-          "wordCount": 173,
-          "title": "BBC 创建 Mastodon 实例",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75666",
-          "author": null,
-          "description": "云计算巨头亚马逊 AWS 宣布将从明年开始对 IPv4 公网地址收费，鼓励用户使用 IPv6 地址。原因是\n IPv4 地址日益稀缺，获取的成本在增加。IPv4 地址空间从 2019 年起开始枯竭，此后要获得 IPv4 地址主要靠回收和未使用地址段的释放，过去五年单个 IPv4 地址的获取成本增加了三倍以上。对云计算巨头来说，现在是时候将成本转嫁给客户了。从 2024 年 2 月 1 日开始，对于所有 IPv4 公网地址，AWS 将对每个地址每小时收 $0.005。新政策适用于包括 AWS EC2、Relational Database Service (RDS)和 Elastic Kubernetes Service (EKS)在内的服务。",
-          "link": "https://www.solidot.org/story?sid=75666",
-          "publishedOn": "2023-07-31T14:32:29.000Z",
-          "wordCount": 187,
-          "title": "AWS 将对 IPv4 公网地址收取费用",
-          "imageUrl": null
         }
       ]
     },
@@ -1098,18 +1149,7 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com",
-      "articles": [
-        {
-          "id": "https://humanwhocodes.com/blog/2023/08/managing-interrupt-rate-tech-lead-office-hours-appointment-blocks/",
-          "author": "Nicholas C. Zakas",
-          "description": "You can more easily eliminate interruptions when you create a specific time for them.",
-          "link": "https://humanwhocodes.com/blog/2023/08/managing-interrupt-rate-tech-lead-office-hours-appointment-blocks/",
-          "publishedOn": "2023-08-01T00:00:00.000Z",
-          "wordCount": 2407,
-          "title": "Managing your interrupt rate as a tech lead, part 3: Office hours and appointment blocks",
-          "imageUrl": "https://humanwhocodes.com/favicon.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "宁南山 - 知乎动态",
@@ -1199,16 +1239,6 @@
           "publishedOn": "2023-08-02T11:50:00.000Z",
           "wordCount": 177,
           "title": "Aasdfasfd sadfdsf asdf aafs",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/paid-plans-for-ascii-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nLast month we launched paid plans for Image Tools and today we're launching paid plans for our next most popular tool category – ASCII Tools. ASCII tools are used by 40,000 people every month and they let you find ASCII codes of characters, draw ASCII art, encode and decode ASCII text, validate ASCII data, and much more\nNext, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.\nFrom technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.\nYou can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.\nAdd paid plans too and see you next time!",
-          "link": "https://catonmat.net/paid-plans-for-ascii-tools",
-          "publishedOn": "2023-08-01T10:45:00.000Z",
-          "wordCount": 265,
-          "title": "Announcing paid plans for ASCII tools",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
