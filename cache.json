@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46266",
+          "author": "青小蛙",
+          "description": "前几天介绍了 Apple 的全平台工具全自动敲木鱼后，就有同学来寻找安卓端的敲木鱼应用了。青小蛙从应用商店找到了三款还算不错的安卓全自动敲木鱼应用，各取所需。@Appinn 3 款应用，有功能丰富的，",
+          "link": "https://www.appinn.com/3-wooden-fish/",
+          "publishedOn": "2023-08-19T09:24:08.000Z",
+          "wordCount": 2660,
+          "title": "3 款安卓全自动敲木鱼，功德继续 +11111",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/Appinn-feature-images-2023-08-19T193425.716.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46262",
           "author": "青小蛙",
           "description": "NetDrive 是能将多个网盘挂载到本地的工具，支持 Windows、macOS，它可以像用本地硬盘一样用网盘。只需要在主页点击 + 号添加相应网盘，再连接到自己的账号即可。 挂载到本地后，可以直接",
@@ -140,26 +150,6 @@
           "wordCount": 2499,
           "title": "这个加密视频怎么下载？",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/dl-vodeo.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46196",
-          "author": "青小蛙",
-          "description": "ChoEazyCopy 是为 Microsoft CLI 工具软件 RoboCopy 制作的简单而强大的 GUI 工具，使用 Cinchoo，一个.NET应用程序框架。主要用来复制海量小文件。@App",
-          "link": "https://www.appinn.com/choeazycopy/",
-          "publishedOn": "2023-08-10T08:47:00.000Z",
-          "wordCount": 2544,
-          "title": "ChoEazyCopy, 简洁强大的 RoboCopy GUI，微软官方超强复制海量小文件工具的图形界面版本",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/choeazycopy.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46193",
-          "author": "青小蛙",
-          "description": "Syncthing Tray 是一个小而全 Syncthing 的微型 GUI。Syncthing 是一款开源的跨平台文件同步工具，它能够在两台或者多台计算机、手机之间实时同步文件。@Appinn 来",
-          "link": "https://www.appinn.com/syncthing-tray/",
-          "publishedOn": "2023-08-10T02:32:00.000Z",
-          "wordCount": 2569,
-          "title": "Syncthing Tray 简单小巧的文件同步工具 Syncthing 的图形界面版本",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/syncthing-tray.jpgo_.jpg"
         }
       ]
     },
@@ -208,6 +198,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75841",
+          "author": null,
+          "description": "WinRAR 修复了一个高危漏洞 CVE-2023-40477，该漏洞允许远程攻击者通过引诱受害者打开一个特制的 RAR 压缩文件去执行任意代码。该漏洞需要欺骗用户因此危险等级评分略低为 7.8/10。该漏洞是 Zero Day Initiative 的 研究员 goodbyeselene 发现的，2023 年 6 月 8 日报告给开发商 RARLAB，漏洞存在于恢复卷处理过程中，是未能正确验证用户提供的数据导致的。RARLAB 在 8 月 2 日释出 WinRAR v6.23 修复了该漏洞。WinRAR 用户需要尽可能快的升级。WinRAR v6.23 还修复了另一个会导致错误文件初始化的漏洞。",
+          "link": "https://www.solidot.org/story?sid=75841",
+          "publishedOn": "2023-08-19T11:24:48.000Z",
+          "wordCount": 175,
+          "title": "WinRAR 高危漏洞允许黑客在用户打开压缩文件时运行程序",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75840",
+          "author": null,
+          "description": "过去几个月，用户通过社交网络和官方论坛报告西部数据旗下的闪迪 Extreme 系列固态硬盘存在缺陷，会导致硬盘里储存的数据被抹掉。尽管释出了固件修复，但问题仍然存在。受影响的型号包括 SanDisk Extreme Portable 4TB (SDSSDE61-4T00)、SanDisk Extreme Pro Portable 4TB (SDSSDE81-4T00)、SanDisk Extreme Pro Portable 2TB (SDSSDE81-2T00)、SanDisk Extreme Pro Portable 1TB (SDSSDE81-1T00) 和Western Digital My Passport 4TB (WDBAGF0040BGY)。本周加州居民 Nathan Krum 向圣何塞联邦法庭提起诉讼，寻求集体诉讼资格，代表 2023 年 1 月以来购买受影响硬盘的用户。诉讼指控西部数据未能履行最基本的承诺，即销售的硬盘产品能安全的储存数据。",
+          "link": "https://www.solidot.org/story?sid=75840",
+          "publishedOn": "2023-08-18T16:20:41.000Z",
+          "wordCount": 177,
+          "title": "西部数据闪迪固态硬盘被指不能安全的储存数据",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75839",
           "author": null,
@@ -966,146 +976,6 @@
           "publishedOn": "2023-08-10T15:04:02.000Z",
           "wordCount": 175,
           "title": "Vim 项目的未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75763",
-          "author": null,
-          "description": "微塑料无处不在。北京首都医科大学的科学家报告，他们在人体心脏组织中发现了微塑料。研究报告发表在《Environmental Science & Technology》期刊上。在一项实验中，研究人员收集了 15 名接受心脏手术的患者的心脏组织样本，以及半数参与者手术前后的血液样本。他们用激光直接红外成像进行分析，发现了 20-500 微米宽的颗粒，由八种塑料构成，包括聚对苯二甲酸乙二醇酯、聚氯乙烯和聚甲基丙烯酸甲酯。微塑料能通过嘴和鼻以及手术进入人体组织。研究人员表示需要更多研究才能知道微塑料对心血管系统的影响，以及对心脏手术的预后。",
-          "link": "https://www.solidot.org/story?sid=75763",
-          "publishedOn": "2023-08-10T14:05:17.000Z",
-          "wordCount": 149,
-          "title": "科学家在心脏组织中发现微塑料",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75762",
-          "author": null,
-          "description": "印度议会周三通过了数据保护法案，政府称需要该法案来监管大型科技公司并保护公民，但维权组织称该法案赋予新德里方面过大的权力。法案规定公司在收集用户的个人数据之前需征得同意，并规定公司仅能将数据用于既定目的。该法案允许政府限制将数据传输到印度境外，并对违反规定的公司进行处罚。数字平台维权组织 Access Now 指出，该法案并未设立独立的监管机构，而且让政府不必遵守该法案规定的义务。其中一项条款增加了政府封锁网络信息的能力，另一项条款则在一定程度上削弱了让公民从公共机构获取信息的透明度法律。",
-          "link": "https://www.solidot.org/story?sid=75762",
-          "publishedOn": "2023-08-10T11:49:00.000Z",
-          "wordCount": 144,
-          "title": "印度通过数据保护法案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75761",
-          "author": null,
-          "description": "Google 就澳大利亚政府的 AI 监管框架递交文件表示，版权法应该修改允许生成式 AI 爬取互联网内容，让版权内容以恰当和合理使用的方式在澳大利亚用于训练 AI 模型，不愿意被训练的内容出版商可以选择退出。Google 最近提出了 robots.txt 的一种替代方案，网站可以在其中明确是否允许爬取内容训练 AI。AI 需要海量数据进行训练，而数据集的版权问题正日益引起关注。版权将是生成式 AI 未来面临的一大问题。",
-          "link": "https://www.solidot.org/story?sid=75761",
-          "publishedOn": "2023-08-10T11:38:00.000Z",
-          "wordCount": 167,
-          "title": "Google 认为 AI 可以挖掘网上内容除非选择退出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75760",
-          "author": null,
-          "description": "西雅图市议会通过了一项法案，保护零工不会突然被 Instacart 或 DoorDash 等应用踢出而停止雇佣，成为第一个提供此类保护的美国城市。零工们告诉议会，他们因为拒绝了太多的订单或者超过他们控制范围的延误而被突然解雇或者叫踢出应用。这项法案的发起人 Lisa Herbold 议员表示，做出解雇决定的通常是算法而不是真人。法案对解雇零工设定了更高的门槛，并要求公司提前 14 天通知零工。该法案预计将在市长 Bruce Harrell 签署之后成为法律。",
-          "link": "https://www.solidot.org/story?sid=75760",
-          "publishedOn": "2023-08-10T10:03:07.000Z",
-          "wordCount": 153,
-          "title": "西雅图成为第一个保护零工避免突然“解雇”的美国城市",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75759",
-          "author": null,
-          "description": "在保守派眼里，流行的在线百科全书太倾向自由派了，他们需要自己的声音，这就是维基百科的替代 Justapedia。Justapedia 包含了维基百科的内容，也包含了保守派志愿者撰写的内容。类似马斯克(Elon Musk)所宣称的“言论自由绝对主义者”，保守派想通过 Justapedia 恢复百科全书的客观性和中立性。举例来说，它认为演化论是受争议的主题，蓝光光盘也是，LGBT 更是争议中的争议，法西斯主义不应该包含极右这一说法，等等。",
-          "link": "https://www.solidot.org/story?sid=75759",
-          "publishedOn": "2023-08-10T08:22:58.000Z",
-          "wordCount": 155,
-          "title": "保守派的维基百科替代 Justapedia 上线",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75758",
-          "author": null,
-          "description": "沙特阿拉伯宣布计划采用 USB-C 连接器作为所有电子设备的标准化充电端口。该决定将于 2025 年 1 月 1 日起生效，适用于除便捷式计算机和笔记本电脑之外的所有电子设备。标准化充电端口的工作将分成两个阶段，第一阶段始于 2025 年 1 月 1 日，覆盖手机、耳机、键盘、扬声器、路由器等电子设备；第二阶段始于 2026 年4 月 1 日，便捷式计算机和笔记本电脑也都需要采用 USB-C。沙特政府表示此举旨在改善用户体验和降低成本。",
-          "link": "https://www.solidot.org/story?sid=75758",
-          "publishedOn": "2023-08-10T07:52:44.000Z",
-          "wordCount": 177,
-          "title": "沙特宣布到 2025 年所有电子设备使用 USB-C 标准充电端口",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75757",
-          "author": null,
-          "description": "广西发布的 2022 年审计报告显示，自治区内九所大学 2020-2022 年之间的研究成果市场转化率不到 1%。其中一所大学获得了 1.31 亿元的拨款，资助了 862 个已实施研究项目，但没有一个成功的工业应用。报告凸显了中国将学术研究转化为市场应用过程中长期存在的问题。中国人民大学国家发展与战略研究院教授刘瑞明称，这是一个全国性问题。",
-          "link": "https://www.solidot.org/story?sid=75757",
-          "publishedOn": "2023-08-10T06:46:16.000Z",
-          "wordCount": 155,
-          "title": "广西报告称大学的研究成果转化率不到 1%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75756",
-          "author": null,
-          "description": "美国总统拜登(Joe Biden)周三发布了一项行政命令，从明年开始禁止美国人投资于开发先进半导体和量子计算机的中国公司。除此之外，该行政令还要求在华经商的美国人向美国政府通报对 AI 和其他类型半导体的直接投资。华盛顿方面越来越担心，美国的技术和专有知识可能无意中帮助中国开发可在军事冲突中用来对付美国的武器。拜登政府去年限制向中国出口先进制程半导体和芯片制造设备，美国还加强了对中国投资美国科技公司的审查。",
-          "link": "https://www.solidot.org/story?sid=75756",
-          "publishedOn": "2023-08-10T06:16:55.000Z",
-          "wordCount": 144,
-          "title": "美国限制对华投资",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75755",
-          "author": null,
-          "description": "加拿大多伦多大学公民实验室的研究人员分析了腾讯旗下的搜狗输入法。该输入法月活用户逾 4.5 亿，是中国最流行的中文输入法，占据了七成市场份额，讯飞排名第二，百度输入法第三。研究人员分析了搜狗输入法的 Windows、Android 和 iOS 版本，发现搜狗使用了一个自己开发的加密系统 EncryptWall 加密敏感数据，而该加密系统存在 CBC 密文填塞（Padding Oracle）漏洞，允许网络监听者获得加密网络传输的明文，包括用户输入的内容。研究人员向搜狗报告了漏洞，搜狗开发者释出了新版本修复了漏洞。该输入法的用户需要尽快升级到新版本——Windows v13.7、Android v11.26 和 iOS v11.25。",
-          "link": "https://www.solidot.org/story?sid=75755",
-          "publishedOn": "2023-08-10T05:58:16.000Z",
-          "wordCount": 158,
-          "title": "腾讯搜狗输入法存在加密漏洞容易暴露输入内容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75754",
-          "author": null,
-          "description": "科技新闻网站 CNET 删除了数千篇旧文章，它告诉员工此举旨在改善 Google 搜索排名。CNET 是从 7 月开始对内容进行大清洗，它在内部备忘录中称，此举向 Google 发去了一个信号，CNET 是一个新鲜的，有相关性，有价值的网站，在搜索结果中应该比竞争对手排名更高。CNET 称，被删除的文章用互联网档案馆的时光机器进行了存档，并至少提前十天通知了文章作者。对时光机器存档的对比显示，被删除的文章可以追溯到 1990 年代。CNET 隶属于 Red Ventures 公司。",
-          "link": "https://www.solidot.org/story?sid=75754",
-          "publishedOn": "2023-08-10T05:06:14.000Z",
-          "wordCount": 162,
-          "title": "CNET 删除旧文以改进搜索排名",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75753",
-          "author": null,
-          "description": "美国政府去年通过了《芯片法案》(Chips Act)，旨在通过补贴等措施将先进芯片制造带回美国。表面上看，法案正在产生影响。自 2020 年以来，芯片制造商宣布了逾 2000 亿美元的投资。如果一切顺利，到 2025 年美国在尖端芯片制造的份额将达到 18%。台积电投资 400 亿美元在亚利桑那州造两座芯片厂，三星在德州投资 170 亿美元，英特尔投资 400 亿美元造四座芯片厂。但现在说芯片法案取得成功还为时过早。相比亚洲的芯片工厂，美国的先进芯片厂建造速度更慢、运营成本更高，规模也更小。智库 The Centre for Security and Emerging Technology 估计，在中国大陆和台湾，建造一座新芯片厂的平均时间是 650 天。芯片厂商在美国面临来自联邦、州和地方政府一系列监管法规，平均施工时间延长到 900 天。建造成本占了新芯片厂资本支出的一半，美国的成本比亚洲高约四成。因为更高的工资水平，美国的运营成本也要高出三成。台积电在亚利桑那州的芯片工厂的预计产量为每月 5 万片晶圆，相比下它在台湾工厂的生产规模达到了逾 10 万片/月。",
-          "link": "https://www.solidot.org/story?sid=75753",
-          "publishedOn": "2023-08-09T16:13:42.000Z",
-          "wordCount": 171,
-          "title": "美国的芯片制造复兴成功了吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75752",
-          "author": null,
-          "description": "AI 创业公司 Stability AI 宣布了它的 AI 编程助手 StableCode。StableCode 使用了三种不同的模型，基础模型首先使用了 BigCode 的 stack-dataset (v1.2)数据集训练，然后用流行编程语言如 Python、Go、Java、 Javascript、C、markdown 和 C++ 进一步训练。训练使用的总数据量达到了5600 亿 token。基础模型确定之后，指令模型用特定用例微调，以帮助解决复杂的编程任务。",
-          "link": "https://www.solidot.org/story?sid=75752",
-          "publishedOn": "2023-08-09T15:29:58.000Z",
-          "wordCount": 180,
-          "title": "Stability AI 宣布了它的 AI 编程助手 StableCode",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75751",
-          "author": null,
-          "description": "浙江大学和剑桥大学的研究人员在《The Lancet Planetary Health》期刊上发表论文认为，空气污染与抗生素耐药性上升相关。研究人员分析了逾 100 个国家近二十年的数据，显示每个国家和大陆的空气污染加剧都与抗生素耐药性上升相关联。而且随着时间推移，关联性在加强，空气污染水平的上升伴随着抗生素耐药性的上升。抗生素耐药性威胁到全球所有人的健康，每年导致 130 万人死亡。它主要被认为是抗生素滥用和过度使用导致的。最新研究表明，空气污染加剧了这一问题。研究人员没有给出关联性背后的原因，猜测是空气中的 PM2.5 颗粒物可能充当了抗生素耐药性细菌的载体，在环境中转移，被人体吸入。",
-          "link": "https://www.solidot.org/story?sid=75751",
-          "publishedOn": "2023-08-09T14:49:02.000Z",
-          "wordCount": 150,
-          "title": "空气污染与抗生素耐药性上升相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75750",
-          "author": null,
-          "description": "日本文部科学省科学技术与学术政策研究所发布的最新排名显示，中国所发表论文数再次高居第一。论文总数与研究的活跃度有关，而引用次数排名前 10% 的“受关注论文”、排名前 1% 的“顶尖论文”的数量则与研究的质量、受关注度和影响力有关。中国的论文总数的全球份额为 24.6%，与第 2 位的美国相比高出 8.5 个百分点，相比上年有所扩大。受关注论文的份额为28.9%，顶尖论文的份额为 29.3%，均拉大了与美国的差距。但也有观点指出中国的排名上升是因为本国研究人员相互引用了彼此的论文。关于引用论文的研究者所属机构属于本国的比例，美国为 29%，日本为 19%，英国、德国、法国和韩国为 10% 左右。而中国达到 61%。",
-          "link": "https://www.solidot.org/story?sid=75750",
-          "publishedOn": "2023-08-09T14:34:24.000Z",
-          "wordCount": 157,
-          "title": "中国论文数再次高居第一",
           "imageUrl": null
         }
       ]
