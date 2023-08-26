@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-08-25T02:17:21.730Z</updated>
+    <updated>2023-08-26T02:14:19.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD 公布 FSR 3 细节]]></title>
+        <id>https://www.solidot.org/story?sid=75899</id>
+        <link href="https://www.solidot.org/story?sid=75899"/>
+        <updated>2023-08-25T16:24:09.000Z</updated>
+        <summary type="html"><![CDATA[AMD 公布了 FidelityFX Super Resolution version 3(FSR 3)的更多细节。FSR 是 AMD 的开源采样提升技术，是英伟达 DLSS 和英特尔 XeSS 的竞争对手。FSR 3 支持 AMD 的 Radeon RX 5000、6000 和 7000 系列显卡，推荐 6000 和 7000 系列；英特尔 Arc 显卡，英伟达 RTX 20、30 和 40 系列显卡，索尼 PS5 和 Xbox Series X/S 游戏机。英伟达 DLSS 和英特尔 XeSS 都依赖机器学习硬件生成内插像素和帧，FSR 3 不依赖特定硬件，使用游戏中的运动矢量数据生成内插像素。多款游戏预计会在 9 月加入对 FSR 3 的支持。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里巴巴开源能理解图像的 AI 模型 Qwen-VL]]></title>
+        <id>https://www.solidot.org/story?sid=75898</id>
+        <link href="https://www.solidot.org/story?sid=75898"/>
+        <updated>2023-08-25T16:07:36.000Z</updated>
+        <summary type="html"><![CDATA[阿里巴巴周五开源了能理解图像和完成更复杂对话的 AI 模型 Qwen-VL 和 Qwen-VL-Chat。阿里巴巴称，Qwen-VL 基于 Qwen-7B，可以以图像、文本、检测框作为输入，并以文本和检测框作为输出，它使用了约 1.5B 的图文数据训练。在四大类多模态任务的标准英文测评中上，Qwen-VL 均取得同等通用模型大小下最好效果；支持英文、中文等多语言对话，端到端支持图片里中英双语的长文本识别；支持多图输入和比较，指定图片问答，多图文学创作等；相比于目前其它开源 LVLM使用的 224 分辨率，Qwen-VL 是首个开源的 448 分辨率的 LVLM 模型。更高分辨率可以提升细粒度的文字识别、文档问答和检测框标注。Qwen-VL 和 Qwen-VL-Chat 使用名为 Tongyi Qianwen LICENSE AGREEMENT 的许可证，有限制条件，如果商业使用，则需要从阿里巴巴获得授权。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 桌面有逾 600 万用户]]></title>
+        <id>https://www.solidot.org/story?sid=75897</id>
+        <link href="https://www.solidot.org/story?sid=75897"/>
+        <updated>2023-08-25T15:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Canonical 官方博客讨论了即将在 10 月释出的 Ubuntu 23.10，它公布了一系列 Ubuntu 桌面数据：有逾 600 万桌面用户，这一数字是基于检查桌面特定更新的设备数量，不包含藏身于企业防火墙或代理之后的设备；根据  Stack Overflow 的调查，Ubuntu 桌面占到 Linux 开发者桌面市场的 27%，是最流行的开发者用发行版；在 Steam 平台的 Linux 玩家中，Ubuntu 也是最流行的桌面发行版。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《星际公民(Star Citizen)》筹款突破六亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=75896</id>
+        <link href="https://www.solidot.org/story?sid=75896"/>
+        <updated>2023-08-25T14:58:30.000Z</updated>
+        <summary type="html"><![CDATA[不到一年时间，《星际公民(Star Citizen)》这个开发了十多年至今不知道发布日期的游戏筹集的资金再次增加了一亿美元突破了六亿美元。它是至今为止开发费用最昂贵的游戏。根据维基百科的数据，《星际公民》的开发费用遥遥领先于开放世界 3A 游戏如《赛博朋克2077》、《侠盗猎车V》和《荒野大镖客2》。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014 年。但在 Kickstarter 众筹结束后，开发团队继续在官方网站上进行募资，许多募资其实就是销售游戏内的虚拟物品如各种型号的飞船。2018 年它筹集到 2 亿美元，五年之后突破 6 亿美元，但游戏何时发布仍然是未知数。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tor 项目宣布抵御 DoS 攻击的 Proof-of-Work Defense]]></title>
+        <id>https://www.solidot.org/story?sid=75895</id>
+        <link href="https://www.solidot.org/story?sid=75895"/>
+        <updated>2023-08-25T11:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Tor 项目宣布了设计抵御 DoS 攻击的工作量防御机制（Proof-of-Work Defense）。工作量证明 PoW 是一种动态的反应机制，在正常工作条件下保持休眠。当 onion 服务面临压力时，PoW 将提示传入的客户端连接连续执行复杂操作，onion 服务将根据客户端的工作量水平进行连接优先排序。此举旨在将 DoS 攻击的成本增加到难以维持的水平，优先考虑合法流量，抑制攻击流量。onion 服务因为优先考虑客户的隐私混淆 IP 地址而容易遭到  DoS 攻击，传统的基于 IP 的速率限制无效，因此 Tor 项目设计了一种工作量证明机制，在不影响客户隐私的同时遏制 DoS 攻击。如果攻击者向 onion 服务发送大量连接请求，PoW 防御会启动增加访问 .onion 网站所需的计算量。增加的计算量对绝大部分设备是可控的，所耗费时间从 5 毫秒到 30 毫秒。攻击流量增加，工作量就会增加，最多需要 1 分钟的工作量。整个过程对用户是不可见的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 岁前吸烟更容易上瘾更难戒掉]]></title>
+        <id>https://www.solidot.org/story?sid=75894</id>
+        <link href="https://www.solidot.org/story?sid=75894"/>
+        <updated>2023-08-25T10:32:57.000Z</updated>
+        <summary type="html"><![CDATA[欧洲心脏病学会年会 ESC Congress 2023 上发表的一项调查结果称，随着人们年龄的增长，吸烟的成瘾性会降低，并且更容易戒烟。20 岁之前开始吸烟的人对烟草的上瘾程度更高，且更难戒烟。日本的调查数据显示，较晚开始吸烟的人每天吸 22 支烟，较早开始吸烟的人每天吸烟数量较多，达 25 支。较早开始吸烟者成功戒烟的人数不到一半 ，仅 46%。而较晚开始吸烟者成功戒烟的比例为 56%。日本京都国立医院组织京都医疗中心的研究作者 Koji Hasekawa 博士说：“我们的研究结果表明，过早开始吸烟与较高的尼古丁依赖性有关，即使在青年时期也是如此。这项研究表明，将购买烟草的法定年龄提高到 22 岁或以上，可以减少尼古丁成瘾和面临不良健康后果风险的人数。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShanaEncoder 6.0 – 「最强视频压制软件」「B站指定压制工具」｜但这个世界，终究是 FFmpeg 的]]></title>
+        <id>https://www.appinn.com/?p=46306</id>
+        <link href="https://www.appinn.com/shanaencoder-6/"/>
+        <updated>2023-08-25T09:44:57.000Z</updated>
+        <summary type="html"><![CDATA[ShanaEncoder 6.0 是一款基于 FFmpeg 的音频、视频压制工具，操作简单适合初学者，自定义选项也让专业用户得以适用。它能即快又好（速度快、质量好），支持 GPU、隐藏式字幕、字幕叠加]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 支持从 Chrome 导入扩展]]></title>
+        <id>https://www.solidot.org/story?sid=75893</id>
+        <link href="https://www.solidot.org/story?sid=75893"/>
+        <updated>2023-08-25T08:56:44.000Z</updated>
+        <summary type="html"><![CDATA[Firefox 已经实现了 WebExtensions 扩展系统，它现在允许 Firefox 用户从 Chrome 等浏览器导入部分扩展。该功能还在测试中，没有默认启用。用户需要修改 about:config，修改 browser.migrate.chrome.extensions.enabled 的值为 True 后就可以启用该功能。用户可以从菜单 > 设置 > 导入数据中选择 Chrome 导入扩展。Firefox 实现的 WebExtensions 与 Chrome 不完全兼容，目前仅限于 部分扩展。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[裸鼹鼠长寿基因延长了小鼠寿命]]></title>
+        <id>https://www.solidot.org/story?sid=75892</id>
+        <link href="https://www.solidot.org/story?sid=75892"/>
+        <updated>2023-08-25T08:15:41.000Z</updated>
+        <summary type="html"><![CDATA[罗切斯特大学的研究人员成功将裸鼹鼠长寿基因转移到小鼠身上，改善了小鼠的健康并延长了其寿命。裸鼹鼠以其长寿和衰老相关疾病的抵抗能力而知名。通过将加强细胞修复和保护的特定基因引入到小鼠身上，研究人员为解开衰老的秘密和延长人类寿命提供了令人兴奋的可能性。裸鼹鼠的寿命最高能达到 41 岁，是同等大小啮齿类动物的十倍。而且随着年龄的增长，裸鼹鼠通常不会患上神经退行性疾病、心血管疾病、关节炎和癌症等衰老相关疾病。研究人员此前发现，hyaluronic acid (HMW-HA) 是裸鼹鼠抗癌能力的关键。研究人员对小鼠进行基因改造，引入了裸鼹鼠 hyaluronan synthase 2 基因版本，该基因负责制造产生 HMW-HA 的蛋白质。实验显示，相比普通小鼠，基因改造版的小鼠更健康，中位寿命延长了约 4.4%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 发布代码生成 AI 模型 Code Llama]]></title>
+        <id>https://www.solidot.org/story?sid=75891</id>
+        <link href="https://www.solidot.org/story?sid=75891"/>
+        <updated>2023-08-25T07:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Meta 发布了它的代码生成 AI 模型 Code Llama。类似 GitHub Copilot 和 Amazon CodeWhisperer，以及 StarCoder、StableCode 和 PolyCoder 等开源 AI 代码生成模型，Code Llama 支持为 Pytho、C++、Java、 PHP、Typescript (Javascript)、C# 和 Bash 等编程语言补完代码和调试。Code Llama 是 Llama 2 的编程专用版本，有 7B、13B 和 34B 参数三个版本，使用 500B tokens 的代码和代码相关数据进行训练。其中 7B 参数的版本可以单张 GPU 上运行，7B 和 13B 参数版本更适合实时代码补完之类的任务，而 34B 参数版本更适合作为编程助手使用。Code Llama 采用和 Llama 2 相同的许可证，可作为研究和商业使用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脑机接口让瘫痪者以意念“发声”]]></title>
+        <id>https://www.solidot.org/story?sid=75890</id>
+        <link href="https://www.solidot.org/story?sid=75890"/>
+        <updated>2023-08-25T03:53:21.000Z</updated>
+        <summary type="html"><![CDATA[《自然》发表的两篇论文报告了新的脑机接口装置，不仅能将大脑活动解码为语言，而且比当前所有技术都更迅速、更准确且覆盖词汇量更大。这一成果展示了在帮助严重瘫痪人群恢复沟通能力方面的技术进步。由斯坦福大学团队开发的脑机接口装置，可以通过插入大脑的细电极阵列收集单个细胞的神经活动，并训练人工神经网络来解码病人想说的话。在该装置的帮助下，一名肌萎缩性侧索硬化症病人能以每分钟 62 个词的速度进行交流，这种语速是此前类似装置的 3.4 倍，更接近自然对话（每分钟约 160 个词）。在另一项研究中，加州旧金山团队开发了一种基于不同方法获取大脑活动的脑机接口装置，其电极覆盖在大脑表面并侦测许多细胞的活动，可以将大脑信号同时转化为三种输出形式：文字、语音和控制一个头像。研究人员训练了一个深度学习模型解码一名患者的神经数据，该患者因脑干中风而严重瘫痪，收集数据时病人无声地说出句子。脑信号到文字的转译速度中位数为每分钟 78 个词（错误率为 25%）；脑信号转译为语音时，372 词汇量下错误率为28.2%，词汇量越小，错误率越低。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微星泄露英特尔 14 代酷睿处理器性能，比上一代平均提升 3%]]></title>
+        <id>https://www.solidot.org/story?sid=75889</id>
+        <link href="https://www.solidot.org/story?sid=75889"/>
+        <updated>2023-08-25T03:42:12.000Z</updated>
+        <summary type="html"><![CDATA[微星不小心泄露了产品培训视频，其中包括一张幻灯片披露了英特尔即将推出的下一代酷睿系列处理器的性能，平均提升 3%，主要变化是能效核心（E 核）和性能核心数量（P 核）的配置，通过增加 E 核的数量，芯片巨人设法实现了两位数的多核性能提升。14 代酷睿处理器和 13 代相差不大，其中 Core i7-14700K 有 12 个 E 核，上一代的 Core i7-13700K 只有 8 个 E 核。Core i9-14900K 仍然是 8P+16E 配置，Core i5-14600K 也是  6P+8E 的配置。14 代酷睿仍然是采用 Intel 7 工艺，提供了更高的 DDR5 频率支持，平均性能提升 3%。其中 Core i7-14700K 因为增加了 4 个 E 核，多核性能提升了 17%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国遭遇全方面的极端气候]]></title>
         <id>https://www.solidot.org/story?sid=75888</id>
@@ -874,196 +994,6 @@ Next week we'll add even more tools. See you then!]]></summary>
         <link href="https://www.solidot.org/story?sid=75818"/>
         <updated>2023-08-16T14:23:06.000Z</updated>
         <summary type="html"><![CDATA[Firefox 合并了 Wayland fractional-scale-v1 协议，支持 Linux 下的浏览器分数缩放。目前该功能默认关闭，可通过设置 widget.wayland.fractional-scale.enabled 启用。另一个主流浏览器 Google Chrome/Chromium 是在今年初合并了 Wayland fractional-scale-v1 协议代码。Linux 下的主要浏览器，以及 KDE Plasma/KWin 和 GNOME 桌面都加入了对 Wayland 分数缩放的支持。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家退出 Twitter 加盟 Mastodon]]></title>
-        <id>https://www.solidot.org/story?sid=75817</id>
-        <link href="https://www.solidot.org/story?sid=75817"/>
-        <updated>2023-08-16T13:48:04.000Z</updated>
-        <summary type="html"><![CDATA[《自然》的调查显示，科学家纷纷退出以前叫 Twitter 现在叫 X 的社交网站，转到 Mastodon 或其它替代。Emilia Jarochowska 在 2016 年加入 Twitter 时希望该平台有助于提升其事业，帮助她联络同行和找到新的工作机会。去年 12 月她决定关闭账号，认为继续使用有损其声誉。自马斯克 (Elon Musk)接手 Twitter 以来，他推行了一系列备受争议的政策。他的做法令众多的科学家重新考虑 X 的价值，很多人选择了离开。《自然》联系了逾 17 万曾经或现在仍然是 Twitter 用户的科学家，约 9200 人做出了回应。逾半数人表示他们减少了在该平台的使用时间，不到 7% 的人完全停止使用该平台。大约 46% 的人加入了其他社交平台，如 Mastodon、Bluesky、Threads 和 TikTok。其中最受欢迎的替代是去中心化平台 Mastodon。不过 Mastodon 规模太小是其劣势。英国曼彻斯特教育学院的 Mark Carrigan 说，我们所熟知的 Twitter 已经死了，学术界越早接受越好。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to School Sale]]></title>
-        <id>https://catonmat.net/back-to-school-sale</id>
-        <link href="https://catonmat.net/back-to-school-sale"/>
-        <updated>2023-08-16T13:44:00.000Z</updated>
-        <summary type="html"><![CDATA[At Browserling and Online Tools, we love sales.
-We just created a new automated Back to School sales campaign.
-Now each year, from 15th to 20th of August, we show a 50% discount offer to all users who visit our site.
-Here's how it looks.
-Run automated sales too and see you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 插件市场国内平替]]></title>
-        <id>https://www.appinn.com/?p=46236</id>
-        <link href="https://www.appinn.com/yuju-ai/"/>
-        <updated>2023-08-16T13:01:43.000Z</updated>
-        <summary type="html"><![CDATA[语聚AI是国内首推的AI模型连接器，它能够连接AI模型、软件工具与知识信息。 通过强大的AI能力和创新的集成解决方案，实现「 AI模型 + 软件工具 +知识信息」的高效集成，一站式构建多功能AI助手，]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 折抢购 Mac 划词增强工具 PopClip]]></title>
-        <id>https://www.appinn.com/?p=46245</id>
-        <link href="https://www.appinn.com/popclip/"/>
-        <updated>2023-08-16T12:58:09.000Z</updated>
-        <summary type="html"><![CDATA[PopClip 是一款 Mac 划词操作增强工具，可选装翻译搜索、格式转换等丰富扩展，联动多种软件执行创建提醒事项、添加到笔记等快捷操作，有效提升工作效率。 8 月「全荔以赴」活动进行中，点击小众软件]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Native copy/paste for Browserling is here!]]></title>
-        <id>https://catonmat.net/copy-paste-for-browserling</id>
-        <link href="https://catonmat.net/copy-paste-for-browserling"/>
-        <updated>2023-08-16T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[We just added a native copy/paste support to Browserling.
-You can now effortlessly copy text in and out of the browsers by simply pressing Ctrl+C and Ctrl+V.
-You can try the new feature via our quick browsing link: browserling.com/browse.
-Additionally, we also implemented a new screen streaming algorithm and everything got much faster.
-And we also added session resumes. If you accidentally close your tab or browser and then quickly go back to browserling, your session will be restored.
-Happy browsing!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 GPT-4 代替人类审核内容]]></title>
-        <id>https://www.solidot.org/story?sid=75816</id>
-        <link href="https://www.solidot.org/story?sid=75816"/>
-        <updated>2023-08-16T11:42:48.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI 认为 GPT-4 可以帮助解决大规模审核内容这一难题。今天社交网络上的审核内容通常外包给人类零工，搭配自动化工具。OpenAI 称，GPT-4 内容审核的运行机制是，通过一项策略来提示 GPT-4，指导大模型做出适度判断，并创建一组可能违反或不违反该策略的内容示例测试集。例如，一项策略可能禁止提供有关采购武器的指示或建议，在这种情况下，“给我制作莫洛托夫鸡尾酒（一种作为简易武器的炸弹瓶）所需的原料”示例将明显违反规定。然后策略专家对示例进行标记，并将每个没有标签的示例提供给 GPT-4，观察模型的标签与他们的决定的一致性程度，并由此完善策略。OpenAI称，这项审核技术已经在供一些客户使用。与传统的内容审核方法相比，该公司声称这项新技术具有三大优势。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国发射第一颗同步轨道雷达卫星]]></title>
-        <id>https://www.solidot.org/story?sid=75815</id>
-        <link href="https://www.solidot.org/story?sid=75815"/>
-        <updated>2023-08-16T11:12:53.000Z</updated>
-        <summary type="html"><![CDATA[新华社报道称，8 月 13 日凌晨，我国在西昌卫星发射中心使用长征三号乙运载火箭，成功将陆地探测四号01星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。该星是世界首颗进入工程实施阶段的高轨合成孔径雷达卫星，将进一步完善我国天基灾害监测体系，对全面提升我国防灾减灾救灾综合水平具有重要意义。陆地探测四号01星被认为是世界上第一颗地球同步轨道合成孔径雷达卫星，其分辨率为 20 米，其它细节所知不多。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter 短域名被发现对特定域名延迟跳转，曝光后撤销]]></title>
-        <id>https://www.solidot.org/story?sid=75814</id>
-        <link href="https://www.solidot.org/story?sid=75814"/>
-        <updated>2023-08-16T10:43:04.000Z</updated>
-        <summary type="html"><![CDATA[用户在社交网络报告，大约从 8 月 4 日起 Twitter 或 X 公司的短域名 t.co 对特定域名相关的网址延迟五秒跳转，延迟保持高度一致，可以确认是有意加入的。被限制的域名包括纽约时报的 NYTimes.com，Meta 旗下的 threads.net、Facebook 和 Instagram，以及 Bluesky 和 Substack。相关公司都曾被马斯克（Elon Musk）抨击过，或者是 Twitter 的竞争对手。马斯克曾自称是“言论自由的绝对主义者”。在媒体曝光这一消息后，t.co 撤销了特定域名的延迟跳转。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约时报禁止将其文章用于 AI 训练]]></title>
-        <id>https://www.solidot.org/story?sid=75813</id>
-        <link href="https://www.solidot.org/story?sid=75813"/>
-        <updated>2023-08-16T10:20:15.000Z</updated>
-        <summary type="html"><![CDATA[纽约时报被发现在 8 月 3 日更新了其服务条款，禁止将其内容——包括新闻报道、照片、图像、音频视频文件等——用于训练 AI 模型。此外，网络爬虫等自动化工具如果没有获得书面许可也被禁止抓取其内容。纽约时报还表示拒绝遵守这些规定的人会面临惩罚，但对此没有具体说明。时报网站的 robots.txt 文件没有任何修改。
-纽约时报的做法反映了最近几个月围绕 AI 训练的版权争议，其他媒体机构可能会采取类似的行动。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费、开源、P2P、不限量，用 Transfer.zip 传输任意大小文件，不限速]]></title>
-        <id>https://www.appinn.com/?p=46240</id>
-        <link href="https://www.appinn.com/transfer-zip/"/>
-        <updated>2023-08-16T10:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Transfer.zip 是一个开源项目，基于 WebRTC 实现了 P2P（点对点）、不限量文件传输功能。可以在任意两个设备间使用，无网络储存，需要设备同时在线。@Appinn via @免費資源網]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 打败 OpenAI 的计划]]></title>
-        <id>https://www.solidot.org/story?sid=75812</id>
-        <link href="https://www.solidot.org/story?sid=75812"/>
-        <updated>2023-08-16T09:47:58.000Z</updated>
-        <summary type="html"><![CDATA[今年四月，Alphabet CEO 皮查伊（Sundar Pichai）做出了一项不同寻常的举动，合并了两个不同文化和风格的大型 AI 团队，此举旨在赶超 OpenAI 等竞争对手。现在考验即将到来，Google 准备在秋季发布该公司成立至今最具有风险性的产品之一：一组大机器学习模型。这些模型统称为 Gemini，能帮助 Google 构建出竞争对手做不到的产品。OpenAI 的 GPT-4 大模型能理解和生成会话文本，而 Gemini 将超越 GPT-4，它组合了 GPT-4 的文本生成能力，以及 Midjourney 和 Stable Diffusion 等文本图像生成模型的图像生成能力。Gemini 还能分析图表，创建带有文本描述的图形，或使用文本或语音命令控制软件。Google 准备将 Gemini 支持其各项服务，从 AI 聊天机器人 Bard 到 Google Docs 和 Slides 等企业应用。Google 还计划通过其云端服务向应用开发者提供 Gemini 的付费访问。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙特和阿联酋竞相采购英伟达的 AI 芯片]]></title>
-        <id>https://www.solidot.org/story?sid=75811</id>
-        <link href="https://www.solidot.org/story?sid=75811"/>
-        <updated>2023-08-16T08:24:53.000Z</updated>
-        <summary type="html"><![CDATA[沙特和阿联酋加入了全球 AI 军备竞赛，竞相采购英伟达的 AI 芯片。FT 援引知情人士的消息报道，沙特通过其研究机构阿卜杜拉国王科技大学采购了至少 3000 张单价 4 万美元的英伟达 H100 芯片。黄仁勋曾将 H100 形容为第一款专为生成式 AI 设计的芯片。阿联酋也采购了数千张英伟达芯片，正在开发自己的开源大模型 Falcon。美国公司如微软支持 OpenAI 以及 Google 拥有最先进的 AI 模型，它们也是英伟达 H100 和 A100 芯片的主要买家。阿卜杜拉国王科技大学预计会在年底收到这批价值 1.2 亿美元的芯片。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“飞翔的外星人”被发现是使用喷气背包的非法黄金矿工]]></title>
-        <id>https://www.solidot.org/story?sid=75810</id>
-        <link href="https://www.solidot.org/story?sid=75810"/>
-        <updated>2023-08-16T07:08:06.000Z</updated>
-        <summary type="html"><![CDATA[神秘袭击始于 7 月 11 日。当地人称袭击者是奇怪的生物，他们夜间去了秘鲁一个偏僻的土著社区 Ikitu，骚扰居民，试图绑架一名 15 岁女孩。模糊的视频引发了“飞翔的外星人”访问地球的热烈讨论。海军和警方前往这个距离 Maynas 省首府 Iquitos 10 小时船程的土著社区展开调查。当局公布的调查结果称肇事者是来自哥伦比亚和巴西的非法淘金团伙，他们用喷气背包去恐吓土著人。该地八成的非法淘金活动位于 Ikitu 所在的 Nanay 河流域。当局没有逮捕任何人，只是表示他们今年内已经摧毁了 110 个淘金作业和 10 个非法营地。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome 内置 AI 工具能总结文章]]></title>
-        <id>https://www.solidot.org/story?sid=75809</id>
-        <link href="https://www.solidot.org/story?sid=75809"/>
-        <updated>2023-08-16T06:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Google Chrome 内置的生成式 AI 工具 Search Generative Experience (SGE)能为用户总结正在阅读的网文。OpenAI 的 AI 聊天机器人 ChatGPT 给搜索巨人造成了巨大冲击，它正将生成式 AI 工具带到愈来愈多的产品中。SGE 通过可选择加入的 Search Labs 程序提供给用户。它首先提供给 Chrome 的 Android 和 iOS 版本，然后未来几天提供给桌面用户。当用户使用该功能时候，它会生成正在阅读的文章的要点。该功能不支持付费墙文章。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德州女子在一起色情报复案件中获得 12 亿美元赔偿]]></title>
-        <id>https://www.solidot.org/story?sid=75808</id>
-        <link href="https://www.solidot.org/story?sid=75808"/>
-        <updated>2023-08-16T05:37:14.000Z</updated>
-        <summary type="html"><![CDATA[一位德州女子起诉前男友，指控他通过假的网络账号向其家人、朋友和同事发送了她的私密照片。她获得了 12 亿美元的赔偿。在法庭文件中，这名女子使用了 D.L. 的首字母缩写，她指控前男友 Marques Jamal Jackson 对她进行色情报复（revenge porn）。两人在 2016 年开始约会，2020 年初在芝加哥同居，但此后就开始了漫长而令人疲惫的分手。她后来搬到了位于德州的母亲家中，而 Jackson 则通过访问家中的监控探头监视她。2021 年 10 月两人正式结束了关系，她要求他删除两人此前拍摄的亲密影像。但他反而将这些影像发布到了网上，其中包括一个成人网站，以及 Dropbox 一个可公开访问的文件夹内。他创建了虚假的社交媒体账号，然后与她的家人、朋友和同事分享私密影像，包括发送 Dropbox 文件夹链接。Jackson 还给她发邮件说，你将会在余生中试图抹掉自己在互联网上的痕迹，但永远不会成功。休斯顿的一个陪审团命令 Jackson 支付 2 亿美元的 精神赔偿，以及 10 亿美元的惩罚性赔偿。Jackson 没有出庭。D.L. 的律师表示不会预计 Jackson 会全额支付赔偿，但希望能对其他人产生威慑作用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爱尔兰银行 IT 故障允许储户取出高于存款的现金]]></title>
-        <id>https://www.solidot.org/story?sid=75807</id>
-        <link href="https://www.solidot.org/story?sid=75807"/>
-        <updated>2023-08-16T03:42:04.000Z</updated>
-        <summary type="html"><![CDATA[爱尔兰各地的 ATM 机器前排起了长长的队伍，原因是爱尔兰银行（Bank of Ireland）IT 系统故障允许储户取出高于存款的现金。但超额的钱其实变成了欠款，储户需要在未来偿还，并不存在免费现金可以拿。爱尔兰银行官方应用允许账号内没有钱的客户向欧洲网上银行 Revolut 转入最高 500 欧元。部分用户声称能转最高 1000 欧元。一旦完成转账，客户可以从任何 ATM 机器上取出现金。爱尔兰银行发表声明表示它正致力于解决该技术问题，对给客户造成的不便表示歉意。爱尔兰银行警告其客户，透支的钱未来是需要偿还的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电视占美国人观看时间的比例首次低于五成]]></title>
-        <id>https://www.solidot.org/story?sid=75806</id>
-        <link href="https://www.solidot.org/story?sid=75806"/>
-        <updated>2023-08-15T15:58:56.000Z</updated>
-        <summary type="html"><![CDATA[根据尼尔森的统计，7 月份电视占美国人观看时间的比例首次低于五成。这是愈来愈多的美国人从有线电视转向流媒体服务如 Netflix、YouTube 和迪士尼 Hulu 的最新迹象。在 7 月，有线电视占了美国人观看时间的 29.6%，无线电视占 20%，流媒体占 38.7%，DVD 和游戏等占剩余的 11.6%。美国人上个月观看时间最多的是 Netflix 于今年六月上线的由 Meghan Markle 主演的法律剧《金装律师 Suits》，其首播时间是在 2011 年。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网档案馆存档78转唱片，唱片公司提起诉讼]]></title>
-        <id>https://www.solidot.org/story?sid=75805</id>
-        <link href="https://www.solidot.org/story?sid=75805"/>
-        <updated>2023-08-15T15:40:22.000Z</updated>
-        <summary type="html"><![CDATA[互联网档案馆等社区正在尝试数字化同时存档历史悠久的 78 转唱片，让后代能接触和欣赏 70-120 年前的音乐艺术。78 转唱片制作于 1898-1950 年代，单面只能记录 3 分钟左右的一首歌。它们多数是用虫胶压制的，容易破碎。该项目被称为 Great 78 Project，其运作始于 2006 年，至今已经收集了逾 40 万张旧的 78 转唱片。但这一社区努力引起了大唱片公司的注意，包括索尼和环球唱片在内的巨头提起诉讼。互联网档案馆表示正在考虑如何应诉，他们发表声明认为其行为属于合理使用，称保存唱片的目的主要是教育和研究。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
