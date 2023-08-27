@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46318",
+          "author": "青小蛙",
+          "description": "朱雀仿宋是首款开源的仿宋字体，「志在最终提供高质量的、支持多语言的正文仿宋解决方案」。覆盖《通用规范汉字表》一、二级，总汉字数达 6512 字。目前已发布预览测试版，属于免费商用本字体。并由于开发过程",
+          "link": "https://www.appinn.com/zhuque-font/",
+          "publishedOn": "2023-08-26T07:16:25.000Z",
+          "wordCount": 2647,
+          "title": "首款开源仿宋字体「朱雀仿宋」发布预览测试版及问卷调查",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-26t150205-723.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46306",
           "author": "青小蛙",
           "description": "ShanaEncoder 6.0 是一款基于 FFmpeg 的音频、视频压制工具，操作简单适合初学者，自定义选项也让专业用户得以适用。它能即快又好（速度快、质量好），支持 GPU、隐藏式字幕、字幕叠加",
@@ -125,16 +135,6 @@
           "wordCount": 2682,
           "title": "口袋时钟 – 把闲置 iPhone、iPad 变成时钟｜用 40 款小组件装饰你的正经 iPhone",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-18t140037-157.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46251",
-          "author": "青小蛙",
-          "description": "敲木鱼是一款 Apple 全平台应用，支持 Mac、iPhone、iPad、Apple Watch、Apple TV 和 iMessage 信息，你可以用它在屏幕上敲木鱼，也可以让它全自动帮你敲木鱼，",
-          "link": "https://www.appinn.com/qiaomuyu/",
-          "publishedOn": "2023-08-17T05:38:45.000Z",
-          "wordCount": 2702,
-          "title": "全自动敲木鱼来啦，功德 +11111｜还有 100 多种不同音效：钟、铃、篝火、飞盘、人物等",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-17t131334-344.jpgo_.jpg"
         }
       ]
     },
@@ -172,6 +172,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75904",
+          "author": null,
+          "description": "华盛顿州立大学的研究人员在《Journal of Neuroscience》期刊上发表论文，报告激活基底前脑的星形胶质细胞能让小鼠一直保持清醒，没有表现出任何睡意的迹象。星形胶质细胞是神经胶质细胞的一种亚型，能调控不同大脑和身体的功能。研究人员一直调查它在睡眠和清醒过程中的作用。他们使用遗传和化学技术可逆的改变小鼠基底前脑中星形胶质细胞的活性。研究人员观察到，激活基底前脑的星形胶质细胞导致小鼠连续几个小时保持清醒，而且没有表现出任何睡意。研究人员表示，这项研究或有助于创造出能长时间让人保持清醒的药物，比如轮班工人不会昏昏欲睡，宇航员、飞行员、士兵、医疗人员、急救人员可以在较长时间内无需睡眠。",
+          "link": "https://www.solidot.org/story?sid=75904",
+          "publishedOn": "2023-08-26T13:04:10.000Z",
+          "wordCount": 144,
+          "title": "激活基底前脑的星形胶质细胞让小鼠不休不眠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75903",
+          "author": null,
+          "description": "部分 Windows 10 和 Windows 11 用户在安装了最新预览版更新 KB5029351 后遭遇了错误信息为 UNSUPPORTED_PROCESSOR 的蓝屏死机。微星公司现在证实该问题与其主板相关，它在官方声明中称使用 MSI 600/700 系列主板的用户遭遇了蓝屏死机，如果该补丁没有自动卸载，那么建议用户回滚 BIOS 到上一个版本，然后卸载 KB5029351。微软表示受影响的操作系统版本包括 Windows 10 21H2/22H2 和 Windows 11 22H2，它表示在多次蓝屏死机之后系统应该会自动卸载该补丁。",
+          "link": "https://www.solidot.org/story?sid=75903",
+          "publishedOn": "2023-08-26T11:07:26.000Z",
+          "wordCount": 169,
+          "title": "Windows 最近更新导致的蓝屏死机与微星主板相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75902",
+          "author": null,
+          "description": "纽约时报（NYT）、CNN、路透社、澳大利亚广播公司（ABC）、芝加哥论坛报、以及 Australian Community Media 旗下的坎培拉时报和纽卡斯尔先驱报等媒体都屏蔽了 OpenAI 的网络爬虫 GPTBot 抓取其网站上的内容。大语言模型需要海量数据进行训练，但数据的版权问题引发了很多争议。这些媒体公司都是本月内在 robots.txt 文件中禁止了 GPTBot 的访问。部分媒体还屏蔽了另一个被用于 AI 项目的爬虫程序 CCBot。CNN 证实它屏蔽了 GPTBot，但没有评论是否就其内容被 AI 系统使用采取进一步的行动。",
+          "link": "https://www.solidot.org/story?sid=75902",
+          "publishedOn": "2023-08-26T10:47:32.000Z",
+          "wordCount": 188,
+          "title": "NYT、CNN 和 ABC 屏蔽 OpenAI 的 GPTBot 爬取内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75901",
+          "author": null,
+          "description": "Shawn the R0ck 写道：现代网络安全运营中心主要依赖于两个关键要素：基于agent的安全解决方案，在台式机、笔记本和服务器操作系统上运行；以及威胁分析系统，通常称为安全信息与事件管理（SIEM）系统或扩展检测与响应（XDR）系统充当安全大脑的角色。然而，网络安全行业面临两个主要挑战。首先，大多数安全解决方案未能在操作系统（OS）及OS以下层面提供全面的威胁检测，导致这一关键领域容易受到攻击。安全大脑本身或者周边的安全产品被攻陷并不是一件有趣的事情，安全领域最尴尬之处莫过于次。其次，威胁分析系统通常缺乏与最佳安全实践相一致的强大保护措施，这可能无意中导致安全漏洞。针对这些挑战，HardenedVault开发了一种基于开源SIEM/XDR工具Wazuh的解决方案，以展示HardenedVault可以如何解决这些问题。该工具与VED无缝集成，扩展了对Linux内核运行时的监控维度，实时监控漏洞提权、容器逃逸和rootkit，同时提供了其他安全措施，如CIS合规性，为已识别的威胁提供了强大的解决方案。VED能够将SIEM/XDR的监控维度扩展到Linux内核运行时，以应对特权升级、容器逃逸和Rootkits等安全威胁，这是一个强大的增强功能。通过整合这一功能，VED可以为内核中潜在的安全威胁提供全面的可见性和检测能力。这确保了主动防御，并增强了系统的整体安全状态，从而保护系统免受复杂的攻击和未经授权的访问尝试。目前，HardenedVault在AWS上提供了Hardened SIEM/XDR，方便集成和部署。对于那些有兴趣在自建机房环境中实施类似解决方案的用户，HardenedVault将乐意提供帮助。",
+          "link": "https://www.solidot.org/story?sid=75901",
+          "publishedOn": "2023-08-26T03:45:05.000Z",
+          "wordCount": 150,
+          "title": "守护者的零之曙光：Hardened SIEM/XDR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75900",
+          "author": null,
+          "description": "根据 Gitlab 的官方文档，它正准备支持联邦宇宙协议 ActivityPub。ActivityPub 是一个 W3C 标准，其最知名的实现是去中心化微博客服务 Mastodon 以及 Reddit 的去中心化替代 Lemmy。Gitlab 允许用户创建各自的实例，但实例之间如何互动？通过支持 ActivityPub 不同 Gitlab 实例之间可以互相关注（或叫订阅），创建分支（fork）、可以递交合并请求，可以就合并请求展开讨论，然后合并代码。Gitlab 将逐步实现 ActivityPub 的功能，首先是社交功能，实现跨实例的订阅，最终实现跨实例合并请求。",
+          "link": "https://www.solidot.org/story?sid=75900",
+          "publishedOn": "2023-08-26T03:42:11.000Z",
+          "wordCount": 172,
+          "title": "Gitlab 支持将 ActivityPub 协议用于合并请求",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75899",
           "author": null,
@@ -891,106 +941,6 @@
           "wordCount": 155,
           "title": "纽约大学向脑死亡患者移植的猪肾连续工作 32 天",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75827",
-          "author": null,
-          "description": "纽约时报和 OpenAI 可能会对簿公堂。该报的律师考虑采取法律行动以保护版权。纽约时报和 OpenAI 已就其新闻报道的许可协议展开了为期数周的谈判，但进展不顺。如果纽约时报对 OpenAI 提起诉讼，这将是 AI 时代最引人注目的版权纠纷。一位参与谈判的人士表示，如果 AI 工具在答案中重述了纽约时报的报道，那么用户访问时报网站的可能性将会大大降低。而根据美国联邦法律，如果联邦法官发现 OpenAI 非法复制时报新闻报道去训练 AI 模型，那么法庭可以命令 OpenAI 销毁 ChatGPT 的数据集，迫使该公司仅使用获得授权的数据重建数据集。联邦版权法还允许对每项蓄意的侵权行为收取最高 15 万美元的罚款。",
-          "link": "https://www.solidot.org/story?sid=75827",
-          "publishedOn": "2023-08-17T11:15:31.000Z",
-          "wordCount": 169,
-          "title": "纽约时报考虑对 OpenAI 采取法律行动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75826",
-          "author": null,
-          "description": "澎湃报道称，最近面临愈来愈大监管压力以及大规模裁员的最大加密货币交易所币安可能是规模最大的分布式公司。赵长鹏于 2017 年在上海创立币安，在中国对加密货币交易所发布禁令之后迁移到日本，在日本金融监管机构对其发出警告之后，它不再公布公司总部所在地。报道称，币安员工远程分散在世界各地，可能很多人从入职到离职都没见过自己的几位同事。统计数据显示，币安员工分布在 69 个不同的国家或地区，其中新加坡 176人，英国 78人，阿联酋 75人，公司创始人赵长鹏和何一都在迪拜。如果根据城市来排名的话，迪拜将会排名第一。有 65 个人在迪拜，64 个人在伦敦和 16 个人在阿姆斯特丹。",
-          "link": "https://www.solidot.org/story?sid=75826",
-          "publishedOn": "2023-08-17T10:00:49.000Z",
-          "wordCount": 153,
-          "title": "币安可能是规模最大的分布式公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75825",
-          "author": null,
-          "description": "加州旧金山分校和澳大利亚昆士兰大学的 3 个研究团队在《自然》等期刊上发表论文，将血小板第Ⅳ因子（PF4）确定为逆转衰老的共同信使——3 种独立的对衰老的干预措施，包括寿命蛋白klotho 注射、年轻血液输送和运动，焦点都聚集在这一血小板因子上。简单来说，血液因子 PF4 的逆衰效果是使免疫系统看起来更年轻，它减少了所有活跃的促衰老免疫因子，让大脑炎症减少、可塑性增强，最终，认知能力也得到了提升。可能有人会说，运动难道不是简易且副作用最小的方式吗？但对很多有健康问题、行动不便或年事已高的人来说，锻炼几乎是不可能的，而从不同角度发现共同的逆衰关键，正是适用所有人的药物研发的着手点。",
-          "link": "https://www.solidot.org/story?sid=75825",
-          "publishedOn": "2023-08-17T09:44:42.000Z",
-          "wordCount": 151,
-          "title": "血小板因子被认为是逆转衰老的关键",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75824",
-          "author": null,
-          "description": "Linus Sebastian 的 YouTube 帝国 Linus Media Group 正处于危机之中，它被控盗窃、道德沦丧以及性骚扰。\n该公司暂停了所有视频制作，CEO Terren Tong 表示将聘请外部调查员调查性骚扰指控。危机始于另一个 YouTube 频道 Gamers Nexus 在 8 月 15 日发表视频《The Problem with Linus Tech Tips: Accuracy, Ethics, & Responsibility》 ，称 Linus Tech Tips 系列频道重量不重质，匆忙发布了大量视频，但这些视频中的数据存在大量的事实错误，有时候是明知故犯，并非是无意造成的错误。Gamers Nexus 对 Linus Tech Tips 的道德提出了质疑。接着是该公司的前雇员 Madison Reeve 在 X 上发表了一系列帖子，称工作环境损害了她的精神健康。",
-          "link": "https://www.solidot.org/story?sid=75824",
-          "publishedOn": "2023-08-17T08:59:07.000Z",
-          "wordCount": 199,
-          "title": "Linus Tech Tips 暂停视频制作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75823",
-          "author": null,
-          "description": "纽约大学市场营销学教授 Scott Galloway 称在拒绝与马斯克（Elon Musk）见面后他的 X 账号被锁定了逾两周时间。路透社上月底发表调查报告称，特斯拉夸大了其电动汽车的续航里程，以至于车主经常以为电池出问题，需要联络特斯拉检查电池，而此类要求是如此之多以至于特斯拉设立了一个专门的团队去取消此类的检查（因为检查是要花钱的）。Galloway 在 X 上发帖讽刺说，尽管如此“你完全应该把 X 当银行用”。马斯克正试图将 X 打造为类似微信的万能应用，包含支付购物等功能。\nGalloway 在 Threads 上称，马斯克认为这是对他不公平的攻击，想要和他见面，但他拒绝了。两天后他的 X 账号就没法访问了。Galloway 还以 Galloway 指数著称，原因是他很多的金融相关预测都是错误的，所以反着押注其建议会带来更高回报。",
-          "link": "https://www.solidot.org/story?sid=75823",
-          "publishedOn": "2023-08-17T08:14:15.000Z",
-          "wordCount": 172,
-          "title": "纽约大学教授称在拒绝与马斯克见面后他的 X 账号被锁定",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75822",
-          "author": null,
-          "description": "因中国监管机构在本周二的截止日期未批准交易，英特尔终止了对以色列公司 Tower Semiconductor 的收购，令芯片巨人扩大代工业务的计划受挫。Tower 在以色列本土和全球其他一些地方建有生产线。按照英特尔之前的计划，Tower 将处理成熟制程芯片的代工生产，而英特尔将围绕其较先进制程的芯片生产线打造自己的芯片代工生产业务。收购失败将使英特尔重整业务之路面临更大困难。这是美国芯片公司第二宗因中国监管机构未批准而收购失败的案例，上一次是高通以 440 亿美元收购恩智浦（NXP）。",
-          "link": "https://www.solidot.org/story?sid=75822",
-          "publishedOn": "2023-08-17T06:48:26.000Z",
-          "wordCount": 160,
-          "title": "因监管问题英特尔终止对 Tower Semiconductor 的收购",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75821",
-          "author": null,
-          "description": "Adobe 和微软 Office 应用今年先后宣布停止支持 PostScript Type 1 字体。PostScript 是 Adobe 在 1980 年代为专业数字排版开发的大纲字体规范编码的字体文件。PostScript 让文字和图像的自由缩放、旋转和移动成为可能，今天大部分打印机都依赖于 PostScript 或其后续技术 PDF。PostScript 最重要的字体就是 Type 1。为了避免 Adobe 一家独大，苹果在 1990 年代创建 TrueType，并将其授权给微软。Adobe 和微软后来合作开发了 OpenType 字体格式去取代 TrueType 和 PostScript Type 1。MS Office 的 Windows 版本早在 2013 年就停止支持 Type 1，本周它的 Mac 版本也终止了对 Type 1 字体的支持。此举有可能对旧的文件造成兼容性问题，在新版本 Office 应用中打开旧文件可能会显示字体缺失的错误信息，而应用在尝试替代 Type 1 字体时也可能导致布局问题。",
-          "link": "https://www.solidot.org/story?sid=75821",
-          "publishedOn": "2023-08-17T06:37:54.000Z",
-          "wordCount": 211,
-          "title": "Adobe 和微软停止支持 PostScript Type 1 字体可能导致部分旧文件的兼容性问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75820",
-          "author": null,
-          "description": "特斯拉推出了 Model S 和 Model X 的廉价版，价格减少 1 万美元，单次充电续航里程减少约 80 英里。Model S SR 售价 78,490 美元，续航里程从 405 英里降至 320 英里，减少 85 英里；Model X SR 售价 88,490 美元，续航里程从 348 英里降至 269 英里，减少 79 英里。廉价版本和标准版本的电池其实是一样的，特斯拉用软件锁定了续航里程。仅仅改动下软件就让特斯拉对汽车进行差异化销售，无需对汽车本身、装配或零部件进行物理修改。",
-          "link": "https://www.solidot.org/story?sid=75820",
-          "publishedOn": "2023-08-17T03:31:46.000Z",
-          "wordCount": 197,
-          "title": "特斯拉廉价版 Model S 和 Model X 用软件锁定了续航里程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75819",
-          "author": null,
-          "description": "科学家基本上解开了 LK-99 之谜，确认它不是超导体。LK-99 的故事始于 7 月底，当时首尔创业公司 Quantum Energy Research Centre 的 Sukbae Lee 和 Ji-Hoon Kim 领导的团队发表了一篇预印本，声称发现了第一种室温环境压力超导体 LK-99。此前发现的所有超导体都需要极端的低温和极端的高压。全世界数十个实验室随后展开了研究，尝试复制这一发现。专家们现在可以自信地说，证据显示 LK-99 不是超导体。LK-99 是由铜、铅、磷和氧组成的化合物，它的硫化铜杂质是导致电阻急剧下降和部分悬浮的原因，使其看起来与超导体展现出的属性相似。",
-          "link": "https://www.solidot.org/story?sid=75819",
-          "publishedOn": "2023-08-17T03:01:42.000Z",
-          "wordCount": 165,
-          "title": "LK-99 不是超导体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75818",
-          "author": null,
-          "description": "Firefox 合并了 Wayland fractional-scale-v1 协议，支持 Linux 下的浏览器分数缩放。目前该功能默认关闭，可通过设置 widget.wayland.fractional-scale.enabled 启用。另一个主流浏览器 Google Chrome/Chromium 是在今年初合并了 Wayland fractional-scale-v1 协议代码。Linux 下的主要浏览器，以及 KDE Plasma/KWin 和 GNOME 桌面都加入了对 Wayland 分数缩放的支持。",
-          "link": "https://www.solidot.org/story?sid=75818",
-          "publishedOn": "2023-08-16T14:23:06.000Z",
-          "wordCount": 175,
-          "title": "Firefox 加入 Wayland 分数缩放支持",
-          "imageUrl": null
         }
       ]
     },
@@ -1059,18 +1009,7 @@
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
-      "articles": [
-        {
-          "id": "https://catonmat.net/20-new-unicode-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nLast week we added 25 new png tools and and today we just added 20 new tools to our Online Unicode Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new unicode tools:\nConvert Emojis to Images\nSort Graphemes\nIncrement Unicode Code Points\nDecrement Unicode Code Points\nNormalize Unicode Numbers\nNormalize Unicode Letters\nNormalize Unicode Text\nAdd Combining Characters\nRemove Combining Characters\nSpoof Unicode Text\nUnspoof Unicode Text\nCheck if Unicode Text is Spoofed\nEscape Unicode Characters\nURL-encode Unicode Text\nConvert Unicode to Bytes\nConvert Unicode to ASCII\nConvert ASCII to Unicode\nConvert Unicode to a String Literal\nUnleash Zalgo on Unicode Text\nRemove Zalgo from Unicode Text\nNext week we'll add even more tools. See you then!",
-          "link": "https://catonmat.net/20-new-unicode-tools",
-          "publishedOn": "2023-08-17T06:55:00.000Z",
-          "wordCount": 230,
-          "title": "We've added 20 new unicode tools",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Discover Dev",
