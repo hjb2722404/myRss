@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46323",
+          "author": "青小蛙",
+          "description": "在 Chrome 上阅读 Epub 电子书的扩展 Readium Chrome 宣布停止开发，并推荐了这个新的阅读器：Thorium Reader 是一款免费、多语言、多平台、简单易用的阅读应用程序，",
+          "link": "https://www.appinn.com/thorium-reader/",
+          "publishedOn": "2023-08-27T06:38:22.000Z",
+          "wordCount": 2715,
+          "title": "Readium Chrome 插件停止开发 ，Thorium Reader 接替：开源、跨平台、多格式电子书阅读器",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-27t142238-801.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46318",
           "author": "青小蛙",
           "description": "朱雀仿宋是首款开源的仿宋字体，「志在最终提供高质量的、支持多语言的正文仿宋解决方案」。覆盖《通用规范汉字表》一、二级，总汉字数达 6512 字。目前已发布预览测试版，属于免费商用本字体。并由于开发过程",
@@ -110,31 +120,6 @@
           "wordCount": 2660,
           "title": "3 款安卓全自动敲木鱼，功德继续 +11111",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/Appinn-feature-images-2023-08-19T193425.716.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46262",
-          "author": "青小蛙",
-          "description": "NetDrive 是能将多个网盘挂载到本地的工具，支持 Windows、macOS，它可以像用本地硬盘一样用网盘。只需要在主页点击 + 号添加相应网盘，再连接到自己的账号即可。 挂载到本地后，可以直接",
-          "link": "https://www.appinn.com/netdrive-3/",
-          "publishedOn": "2023-08-18T08:51:20.000Z",
-          "wordCount": 2678,
-          "title": "用 NetDrive 3 将 20+ 网盘挂载到本地，像本地硬盘一样用网盘",
-          "enclosure": {
-            "url": "https://img.appinn.com/wp-content/uploads/2023/08/ezgif.com-gif-to-mp4-4.mp4",
-            "length": "124038",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-18t155813-300.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46258",
-          "author": "青小蛙",
-          "description": "口袋时钟是一款 iPhone、iPad 上的屏幕时钟应用，它可以把你的闲置 iPhone、iPad 设备变成时钟，拥有 14 种时钟样式，包括经典的翻页时钟。目前的口袋时钟内购「普通会员」终身版正在限",
-          "link": "https://www.appinn.com/pocket-clock/",
-          "publishedOn": "2023-08-18T07:06:01.000Z",
-          "wordCount": 2682,
-          "title": "口袋时钟 – 把闲置 iPhone、iPad 变成时钟｜用 40 款小组件装饰你的正经 iPhone",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-18t140037-157.jpgo_.jpg"
         }
       ]
     },
@@ -165,13 +150,54 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10950",
+          "author": "张 鑫旭",
+          "description": "Performance和PerformanceObserver，用户 Timing API，哦，学不完，根本学不完，这两周抽时间好好研究了一番，终于了解了个大概了🙊，特此记录下。",
+          "link": "https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/",
+          "publishedOn": "2023-08-27T08:34:24.000Z",
+          "wordCount": 1277,
+          "title": "狠狠地研究了下 PerformanceObserver API",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75907",
+          "author": null,
+          "description": "HashiCorp 公司创建的基础设施即代码软件 Terraform 最初是于 2014 年在 Mozilla Public License (v2.0) 许可证下开源的。它逐渐建立起一个由数以千计的用户、贡献者、客户、认证从业者、供应商，以及开源模块、库、插件和扩展生态系统组成的社区。但在 8 月 10 日，在几乎没有提前通知或社区反馈的情况下，HashiCorp 将 Terraform 的许可证从 MPL 切换到了非开源的 Business Source License (v1.1)。此举被认为威胁到了整个社区和生态系统。OpenTF 基金会宣布创建 Terraform 的分支，它已经申请成为 Linux 基金会的一部分。OpenTF 基金会表示，已经有四家公司承诺为项目提供 14 名全职工程师，预计该数字未来几周将会至少增加一倍。它指出过去两年 HashiCorp 公司只提供了大约 5 名全职工程师去维护 Terraform。",
+          "link": "https://www.solidot.org/story?sid=75907",
+          "publishedOn": "2023-08-27T12:11:08.000Z",
+          "wordCount": 193,
+          "title": "OpenTF 宣布创建 Terraform 分支",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75906",
+          "author": null,
+          "description": "加蓬于 8 月 26 日举行总统、议会和地方选举，当天主要 ISP 的网络服务被切断。当局表示此举旨在防止暴力的呼声蔓延。反对者认为此举旨在限制信息的自由传播，维护总统 Ali Bongo 家族对加蓬国家权力长达 56 年的统治。加蓬政府还在投票结束的当晚宣布了宵禁。加蓬在 2016 年举行的上一次总统选举曾引发大规模抗议，Ali Bongo 与反对派候选人的得票率非常接近，宪法法院还在宣布结果之后称选票已经烧掉无法重新计票。",
+          "link": "https://www.solidot.org/story?sid=75906",
+          "publishedOn": "2023-08-27T11:00:33.000Z",
+          "wordCount": 156,
+          "title": "加蓬在选举日断网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75905",
+          "author": null,
+          "description": "Bugzilla 项目庆祝了诞生二十五周年，宣布成立了一个接受捐款的组织 Zarro Boogs Corporation，但用户的捐款无法抵税，因为软件开发在美国不被视为慈善事业，该组织不隶属于 Mozilla 基金会或与 Mozilla 基金会关联的实体。Bugzilla 是一个基于 Web 的 bug 跟踪系统和测试工具，最初是在 1998 年 4 月作为 Mozilla.org 项目的一部分发布的，开发语言是 Tcl。完整开源版本是在 1998 年 8 月 26 日发布的。因为 Perl 当时是更受欢迎的语言，9 月 15 日宣布完成了 Perl 移植。",
+          "link": "https://www.solidot.org/story?sid=75905",
+          "publishedOn": "2023-08-27T10:20:29.000Z",
+          "wordCount": 178,
+          "title": "Bugzilla 庆祝诞生二十五周年",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75904",
           "author": null,
@@ -840,106 +866,6 @@
           "publishedOn": "2023-08-18T14:58:37.000Z",
           "wordCount": 146,
           "title": "被废弃的沈阳别墅群",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75837",
-          "author": null,
-          "description": "刊登在 《自然》的一项研究解决了再生医学中长期存在的一个难题。澳大利亚研究团队开发了一种重新编程人类细胞以更好模仿胚胎干细胞的新方法，或对生物医学和疾病治疗产生重大影响。在2000年代中期的一项革命性进展中，人们发现身体的非生殖性成体细胞（称为体细胞）可人工重新编程为类似于胚胎干细胞（ES）的状态，这些细胞之后有能力生成身体的任何细胞。将人类体细胞（例如皮肤细胞）人工重编程为诱导多能干细胞（iPS）的能力，提供了一种无限量供应ES细胞的方法，在疾病建模、药物筛选等方面具有广泛的应用。但传统重编程过程中长期存在的一个问题是，iPS细胞会保留其原始体细胞状态的表观遗传记忆，以及其他表观遗传异常。这可能会在iPS细胞和它们应该模仿的ES细胞以及随后衍生的特化细胞之间产生功能差异，从而限制了使用。研究人员开发了一种称为瞬时幼稚治疗（TNT）重编程的新方法，它模仿了在非常早期的胚胎发育过程中发生的细胞表观基因组的重置。",
-          "link": "https://www.solidot.org/story?sid=75837",
-          "publishedOn": "2023-08-18T11:17:26.000Z",
-          "wordCount": 143,
-          "title": "格式化细胞记忆以更好的重编程干细胞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75836",
-          "author": null,
-          "description": "根据发表在《PLOS Climate》期刊上的一项研究，美国前 1% 超级富豪家庭的温室气体量排放超过后 50% 的穷人家庭排放量。美国是历史上温室气体第一排放国，目前次于中国位居第二。最新研究还发现，美国富裕家庭的排放量在增长，而低收入家庭则在减少。美国收入最高的 0.9% 家庭的排放量在 1990- 2019 年之间增加了 43%，其中最富有的 0.1% 家庭排放量增加了 83%。相比下，收入排在后 50% 的家庭排放量同期平均下降了 38%。2019 年收入最高的 0.1% 家庭年排放量相当于逾 3000 吨二氧化碳，而收入最低的 10% 家庭平均排放量相当于 1.6 吨二氧化碳。",
-          "link": "https://www.solidot.org/story?sid=75836",
-          "publishedOn": "2023-08-18T11:02:13.000Z",
-          "wordCount": 184,
-          "title": "研究显示美国前 1% 富人的温室气体排放超过后 50% 的穷人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75835",
-          "author": null,
-          "description": "英国和巴西的研究人员在《Public Choice》上发表了有一篇论文《More human than human: measuring ChatGPT political bias》，认为 OpenAI 的聊天机器人 ChatGPT 偏向自由派。研究人员要求 ChatGPT 回答一项政治信仰调查，因为它相信美国、英国和巴西自由派支持者可能会回答这些问题。然后他们要求 ChatGPT 在没有任何提示的情况下回答相同的问题，最后对比两组答案。结果显示 ChatGPT 对美国民主党、巴西左翼总统卢拉和英国工党有着显著和系统性的政治偏见。论文作者之一的 Fabio Motoki 称，ChatGPT 会告诉用户它没有任何政治观点或信仰，但现实中它会表现一定的偏见。",
-          "link": "https://www.solidot.org/story?sid=75835",
-          "publishedOn": "2023-08-18T10:21:27.000Z",
-          "wordCount": 172,
-          "title": "研究发现 ChatGPT 倾向自由派",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75834",
-          "author": null,
-          "description": "面对人口老龄化和土地稀缺，北京正在试点数字墓园。按照一座传统双穴墓的面积是 0.8 平方米来计算，算上道路等公摊面积，一亩地大约只能设计 200 个墓位。而一座 20 多平方米的数字安葬厅，就可以设置 150 余个墓位。在人去世火化之后，骨灰盒被放置在专门的格位上，每个墓位可以安放两个骨灰盒。每个数字墓位上都有一块电子屏，可以播放逝者的音容笑貌，甚至还引进了AR、VR 技术，与家属互动。全北京 5 座数字墓园共设有近 7000 个墓位。与传统墓位相比，数字墓位的租期同样是 20 年，价位在 3 万元到 10 万元之间。",
-          "link": "https://www.solidot.org/story?sid=75834",
-          "publishedOn": "2023-08-18T08:41:44.000Z",
-          "wordCount": 161,
-          "title": "北京试点数字墓园",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75833",
-          "author": null,
-          "description": "企业级 Linux 开发商 SuSE 将私有化，从法兰克福证券交易所退市。SuSE 成立于 1994 年，是最早的 Linux 开发商之一，2004 年它被 Novell 收购，Novell 在 2010 年被 Attachmate 收购，Micro Focus 在 2014 年收购 Novell 后将 SuSE 分拆为一家独立公司。2018 年瑞典私募股权投资机构殷拓集团（EQT Partners）以 25.35 亿美元收购了 SUSE。现在它的大股东 Marcel LUX III SARL (Marcel)计划将其私有化。Marcel 是殷拓控制的一个实体。Marcel将以每股 16 欧元收购剩余股份，该收购价比 SUSE 在 8 月 17 日收盘价 9.605 欧元溢价 67%。预计收购将在 10 月完成。",
-          "link": "https://www.solidot.org/story?sid=75833",
-          "publishedOn": "2023-08-18T07:44:16.000Z",
-          "wordCount": 194,
-          "title": "SuSE 准备私有化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75832",
-          "author": null,
-          "description": "根据路透/益普索(Ipsos)的民意调查，近半数美国成年人支持封杀 TikTok。短视频应用 TikTok 隶属于字节跳动，被数以千万计的美国人使用，因为中国可能对字节跳动施加影响，美国议员呼吁在全美封杀 TikTok。民意调查显示，约 47% 的人在一定程度上支持禁止 TikTok 在美使用，36% 的人反对，17% 的人没下结论。其中 58% 的共和党人支持封杀，相比下民主党人是 47%。参与调查的有 1005 名成年人，其中 443 名民主党人和 346 名共和党人。皮尤研究中心上个月公布的一项调查显示，59% 的美国人认为 TikTok 对国家安全构成威胁。",
-          "link": "https://www.solidot.org/story?sid=75832",
-          "publishedOn": "2023-08-18T06:59:34.000Z",
-          "wordCount": 167,
-          "title": "半数美国成年人支持封杀 TikTok",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75831",
-          "author": null,
-          "description": "订阅模式是如此普遍，以至于人们可以不终生永久性拥有任何东西。今天你可以以每月付费的方式使用软件、阅读新闻、观看影视剧、喝咖啡、甚至是吃饭。相比一次性出售，反复销售相同的产品对企业显然更有利，尤其是当客户经常忘记取消订阅时。忘记取消订阅是如此普遍，以至于有创业公司帮助客户寻找忘记取消的订阅来省钱。现在研究人员发表论文，分析了这种用户惯性给企业创造的收入。研究人员使用了未披露的支付系统提供商的大数据集，首先确定了 10 种常见的订阅服务，然后是观察它们的更新频率，以及客户换卡后更新订阅服务的可能性。研究人员发现，客户换卡后续订比例急剧下降。换句话说，当客户需要主动去重新订阅服务时，他们很多时候选择了不订阅。研究人员的计算显示惯性导致的持续订阅给企业增加了 14%-200% 的收入。对消费者来说，意味着数百美元的不必要支出。",
-          "link": "https://www.solidot.org/story?sid=75831",
-          "publishedOn": "2023-08-18T06:31:13.000Z",
-          "wordCount": 153,
-          "title": "研究发现忘记取消订阅给企业增加了最高 200% 的收入",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75830",
-          "author": null,
-          "description": "微软今年 2 月率先在必应（Bing）搜索引擎中整合了 AI 功能，希望能吸引更多用户使用，能增加它的市场份额。虽然新必应很有意思，但并不具有改变游戏的能力。微软希望新必应能增加几个百分点的市场份额，带来 20 亿美元的收入。但新的数据显示，即使增加一个百分点也是可望不可及的目标。根据 StatCounter 的数据，7 月必应的全球份额为 3%，与新必应推出前的 1 月份的数据基本相同。Similarweb 的数据显示，7 月必应的访问量为 Google 的 1%，也与 1 月份的情况基本一致。微软坚称，新必应是成功的。它对外部数据提出了异议，认为没有考虑直接访问必应聊天页面的人。",
-          "link": "https://www.solidot.org/story?sid=75830",
-          "publishedOn": "2023-08-18T05:52:02.000Z",
-          "wordCount": 168,
-          "title": "率先推出 AI 搜索并没有增加必应的市场份额",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75829",
-          "author": null,
-          "description": "三十年前，已故的 Ian Murdock 在新闻组 comp.os.linux.development 宣布发布一个全新的 Linux 发行版，他将其命名 Debian Linux。他从零构建了该发行版，制定了新版本如何工作、大小、升级方式、安装流程的详细指南；并考虑到了没有网络的用户。他无意中在 F/OSS 社区引发了一场运动。 Debian 在世界各地志愿者的帮助下不断壮大，成为至今规模最庞大、最古老的自由操作系统之一。Debian 项目计划未来几天在奥地利、比利时、玻利维亚、巴西、保加利亚、捷克、法国、德国、印度、伊朗、葡萄牙、塞尔维亚、南非和土耳其举行庆祝派对。",
-          "link": "https://www.solidot.org/story?sid=75829",
-          "publishedOn": "2023-08-17T15:59:58.000Z",
-          "wordCount": 159,
-          "title": "Debian 庆祝诞生三十周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75828",
-          "author": null,
-          "description": "纽约大学朗格健康中心周三宣布一项猪肾移植实验结果。他们将经基因修改过的猪肾移植到一名脑死亡患者体内，没有出现排斥反应，它开始产生尿液，接管了人类肾脏的功能如过滤毒素。猪肾已经连续工作了 32 天，仍然在发挥作用，研究人员将继续跟踪患者一个月时间。这项研究标志着将动物器官应用于人类取得了进展。研究人员称，移植使用的猪肾只需要经过一次基因修改，移除会被人类免疫系统攻击的蛋白质（Alpha-gal）。他们认为可以进入临床实验的早期阶段，验证确猪肾移植到活人体内的安全性。研究人员称，猪身上拥有 1000 种人类没有的蛋白质，可能需要 10-14 天才能观察到人类免疫系统对其的反应。",
-          "link": "https://www.solidot.org/story?sid=75828",
-          "publishedOn": "2023-08-17T15:46:08.000Z",
-          "wordCount": 155,
-          "title": "纽约大学向脑死亡患者移植的猪肾连续工作 32 天",
           "imageUrl": null
         }
       ]
