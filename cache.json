@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46329",
+          "author": "青小蛙",
+          "description": "Mango 是一款开源、自托管的漫画管理与阅读工具，支持多用户、OPDS 目录、嵌套文件夹、自动保存阅读进度、拥有插件系统，部署简单。可在移动设备访问阅读。@Appinn 感谢 @smallpig 的",
+          "link": "https://www.appinn.com/mango/",
+          "publishedOn": "2023-08-29T02:57:00.000Z",
+          "wordCount": 2799,
+          "title": "Mango – 开源、自托管漫画管理与阅读工具",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/mango-099.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=44176",
           "author": "青小蛙",
           "description": "「Cubox 是一款跨平台的网络收藏工具，通过浏览器扩展、客户端、手机应用、微信转发等方式，将网页、文字、图片、语音、视频、文件等内容保存起来，再经过自动整理、标签、分类之后，就可以随时阅读",
@@ -110,26 +120,6 @@
           "wordCount": 2734,
           "title": "用 DockX 在 macOS 程序坞与菜单栏显示「任何内容」，内购限免",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-21t201210-813.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46276",
-          "author": "青小蛙",
-          "description": "深言达意是由清华大学自然语言处理实验室和北京智源人工智能研究院孵化的第三方 AI 产品，可根据模糊描述，找到合适的词语或句子，一款 AI 智能写作工具。@Appinn 来自发现频道，@CCR 同学的推",
-          "link": "https://www.appinn.com/shenyandayi/",
-          "publishedOn": "2023-08-20T11:21:00.000Z",
-          "wordCount": 2625,
-          "title": "深言达意：想不出来词，只知道意思？AI帮你｜由清华大学 THUNLP 发布的万词王、反向词典升级版",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-19t202609-653.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46272",
-          "author": "青小蛙",
-          "description": "Catchup 是一个简单的应用，将特别的联系人添加到里面，每次联系之后点击一下就行了，它会自动计算你们多久没联系了。高级版本还能发送通知提醒该联系谁了。它不会强迫你。@Appinn 来自 @nish",
-          "link": "https://www.appinn.com/catchup/",
-          "publishedOn": "2023-08-20T02:08:00.000Z",
-          "wordCount": 2638,
-          "title": "Catchup – 无压力、不强迫提示，你与朋友或家人多久没联系了[iPhone/iPad]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-19t200025-720.jpgo_.jpg"
         }
       ]
     },
@@ -162,6 +152,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10967",
+          "author": "张 鑫旭",
+          "description": "一个看似简单的HTML属性的底下，可能是一座巨大的冰山，referrer及其相关特性就是如此。",
+          "link": "https://www.zhangxinxu.com/wordpress/2023/08/web-referer-image-policy/",
+          "publishedOn": "2023-08-29T15:53:49.000Z",
+          "wordCount": 1075,
+          "title": "Web referrer策略详解与防盗链图片的显示",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10950",
           "author": "张 鑫旭",
           "description": "Performance和PerformanceObserver，用户 Timing API，哦，学不完，根本学不完，这两周抽时间好好研究了一番，终于了解了个大概了🙊，特此记录下。",
@@ -178,6 +178,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75929",
+          "author": null,
+          "description": "在 8 月份的 Windows Certificate Trust List 更新中，微软禁用了 VeriSign Class 3 Public Primary Certification Authority – G5，结果导致应用如 QuickBooks 和 Avatax 无法启动，让系统管理员不知所措，因为导致了问题微软在三天后回滚了更新。该 CA 原属于赛门铁克，因在 2015 年错误签发了 google.com 证书以及后续发现有大量错误签发行为而不再被信任。赛门铁克在 2017 年将其 CA 业务出售给了 VeriSign。微软称，VeriSign Class 3 Public Primary Certification Authority – G5 在 2019 年起就不再被信任，该 CA 当时被设为 NotBefore，也就是 NotBefore 日期后签发的证书不再被信任，但之前签发的证书仍然被信任。在 8 月的证书信任更新中，微软将该 CA 设为  Disable，也就是被禁用。但此举导致了部分客户遭遇问题，微软随后回滚了更新。",
+          "link": "https://www.solidot.org/story?sid=75929",
+          "publishedOn": "2023-08-29T12:39:59.000Z",
+          "wordCount": 201,
+          "title": "微软更新 CA 信任列表导致部分应用无法启动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75928",
+          "author": null,
+          "description": "NYT 的 Magazine 报道了哈佛大学天体物理学教授 Avi Loeb。在科学界他以非传统观念闻名，但同时他也是一位权威，在传统的天体物理学领域发表了数百篇论文。在 2017 年天文学家发现已知第一颗外星天体 Oumuamua 后，Loeb 将其研究重心转向了外星生命，他呼吁科学家严肃考虑外星人或他们建造的飞船曾经造访地球这一可能性。2021 年在私人资助下 Loeb 与软件工程师 Eugene Jhong 和 Bruker 公司的 CEO Frank Laukien 联合创办了专注于研究近地或地球上外星技术的项目 Galileo Project。2022 年美国太空司令部确认了已知第一个撞击地球的星际天体：它于 2014 年 1 月 8 日在巴布亚新几内亚 Manus 岛附近坠落。Loeb 相信该天体可能由外星文明制造而成，但如果不能找到它进行检查，这一猜想是无法确认的。Loeb 筹建了资金，启动了一项找回天体残骸的探险行动。他在 6 月底通过其个人博客宣布在星际天体坠落地点发现了 25 个小型球体。虽然他的做法饱受批评，但 Loeb 对此表示不以为然，但仍然花费了很多时间对批评进行反驳。天体物理学家 Karl Gebhardt 评论说，如果他真的发现了什么，这将改变一切。",
+          "link": "https://www.solidot.org/story?sid=75928",
+          "publishedOn": "2023-08-29T11:43:14.000Z",
+          "wordCount": 185,
+          "title": "哈佛教授如何成为外星猎人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75927",
+          "author": null,
+          "description": "丰田汽车公司周二透露它在日本的 14 家组装厂将全部停工，原因是零部件订购相关系统发生故障，何时修复未知。目前已有 12 家工厂停工，其余 2 家也将从当天傍晚起停工。故障原因正在调查，报道称目前认为不是网络攻击。丰田称，29 日清晨起元町工厂（爱知县丰田市）、丰田汽车东日本岩手工厂（岩手县金崎町）等 12 家工厂 25 条生产线停工。仍在运转的丰田汽车九州宫田工厂（福冈县宫若市）、大发工业的京都工厂（京都府大山崎町）总计 3 条生产线也将从傍晚起相继停工。所有工厂均使用相同系统。去年 3 月丰田曾因供货的零部件公司遭网络攻击而停工。",
+          "link": "https://www.solidot.org/story?sid=75927",
+          "publishedOn": "2023-08-29T08:43:16.000Z",
+          "wordCount": 156,
+          "title": "丰田日本工厂因系统故障停工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75926",
+          "author": null,
+          "description": "根据发表在《Environmental Science and Technology》上的一项研究，亚裔美国人有更高的几率暴露在 PFAS 化合物下。PFAS（全氟烷基和多氟烷基物质）涵盖约 9000 种化合物，主要用于制造防水、防污或耐热型产品。这类化学品被广泛应用于数十个行业产出的几千种日常消费品，包括防污剂、地毯以及鞋子。PFAS 被称为“永久留存的化学品”，因为它们不会自然分解。它们会在包括人类在内的各种动物体内积累，与癌症、新生儿缺陷、肝病、甲状腺疾病、免疫力下降、激素紊乱及其他一系列严重健康问题相关。研究人员发现，亚裔美国人的 PFAS 暴露量明显高于美国其他族裔或种群，暴露分数中位数比非西裔白人高 89%。",
+          "link": "https://www.solidot.org/story?sid=75926",
+          "publishedOn": "2023-08-29T08:35:45.000Z",
+          "wordCount": 160,
+          "title": "亚裔美国人有最高的几率暴露在 PFAS 化合物下",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75925",
+          "author": null,
+          "description": "北卡罗来纳大学教堂山分校的一位材料学博士生周一下午枪杀了其实验室导师。行凶原因未知，凶手齐太磊（Tailei Qi）已经被捕。视频显示，在枪击事件发生时二楼的学生通过窗口跳到一楼逃生。齐太磊毕业于武汉大学材料专业， 2010 年他在复读之后与弟弟同一年考进名校而被河南大河报报道过。枪击事件后，教堂山分校宣布取消当天的所有课和活动。",
+          "link": "https://www.solidot.org/story?sid=75925",
+          "publishedOn": "2023-08-29T06:15:09.000Z",
+          "wordCount": 145,
+          "title": "北卡博士生枪杀其导师",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75924",
+          "author": null,
+          "description": "用纸杯代替一次性塑料杯是有问题的。哥德堡大学的研究人员表明，最终进入大自然的纸杯也会造成损害，因为它们也含有有毒化学物质。该研究测试了由不同材料制成的一次性杯子对蝴蝶蚊子幼虫的影响。纸既不耐脂也不耐水，因此用于食品包装材料的纸需要进行表面涂层处理。这种塑料可以保护纸不被你手里的咖啡沾到。如今，塑料薄膜通常由聚乳酸(PLA)制成，这是一种生物塑料。生物塑料由可再生资源生产(聚乳酸通常由玉米、木薯或甘蔗生产)，而不是像今天市场上 99% 的塑料那样由化石燃料生产。聚乳酸通常被认为是可生物降解的，这意味着在适当的条件下，它比油基塑料分解得更快，但研究人员的研究表明，聚乳酸仍然是有毒的。",
+          "link": "https://www.solidot.org/story?sid=75924",
+          "publishedOn": "2023-08-29T05:49:04.000Z",
+          "wordCount": 143,
+          "title": "纸杯也含有有毒化学物质",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75923",
+          "author": null,
+          "description": "OpenAI 宣布推出企业版 ChatGPT（ChatGPT Enterprise），与最大投资者微软的 Bing Chat Enterprise 展开直接竞争。企业版 ChatGPT 基于 GPT-4 模型，速度提升两倍，没有任何使用限制，支持 32k 上下文，\n允许处理四倍长的输入或文件。企业版 ChatGPT 还提供了 Code Interpreter 等先进数据分析功能。OpenAI  表示不会用企业客户的数据训练模型或改进服务。",
+          "link": "https://www.solidot.org/story?sid=75923",
+          "publishedOn": "2023-08-29T05:44:10.000Z",
+          "wordCount": 169,
+          "title": "OpenAI 推出企业版 ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75922",
+          "author": null,
+          "description": "中国互联网络信息中心（CNNIC）发布了第 52 次《中国互联网络发展状况统计报告》。《报告》显示，截至2023 年 6 月，我国网民规模达 10.79 亿人，较 2022 年 12 月增长 1109 万人，互联网普及率达 76.4%。目前该《报告》尚未提供 PDF 或 Word 版本。《报告》显示，在网络基础资源方面，我国域名总数为 3024 万个；IPv6地 址数量为 68055块/32，IPv6 活跃用户数达 7.67 亿；互联网宽带接入端口数量达 11.1 亿个；光缆线路总长度达 6196 万公里。在移动网络发展方面，截至6月，我国移动电话基站总数达1129万个，其中累计建成开通 5G 基站 293.7 万个，占移动基站总数的 26%；移动互联网累计流量达 1423 亿 GB，同比增长14.6%；移动互联网应用蓬勃发展，国内市场上监测到的活跃APP数量达 260 万款，进一步覆盖网民日常学习、工作、生活。在物联网发展方面，截至6月，三家基础电信企业发展蜂窝物联网终端用户21.23亿户，较2022年12月净增2.79亿户，占移动网终端连接数的比重为55.4%。",
+          "link": "https://www.solidot.org/story?sid=75922",
+          "publishedOn": "2023-08-29T04:57:00.000Z",
+          "wordCount": 200,
+          "title": "CNNIC 称中国 IPv6 用户超过 7 亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75921",
+          "author": null,
+          "description": "国际象棋对弈平台 Chess.com 和 Hans Niemann 达成和解，允许他重返该平台参加比赛，而后者同意放弃针对 Chess.com 和世界冠军 Magnus Carlsen 的一亿美元诽谤诉讼。去年九月，19 岁的 Niemann 在 Sinquefield 杯上结束了 Carlsen 53 场不败连胜的记录。Carlsen 随后退出了比赛，并公开指控 Niemann 作弊。Chess.com 之后关闭了 Niemann 的账号。Niemann 则提起了诉讼，指控 Magnus Carlsen 等人诽谤，索赔一亿美元。作为和解的一部分，Carlsen 发表声明，表示没有确凿的证据表明 Niemann 在 Sinquefield 杯的比赛中作弊。他愿意在未来的比赛中再次与 Niemann 交手。",
+          "link": "https://www.solidot.org/story?sid=75921",
+          "publishedOn": "2023-08-29T04:36:21.000Z",
+          "wordCount": 192,
+          "title": "Hans Niemann 与 Chess.com 达成和解允许重返该平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75920",
+          "author": null,
+          "description": "托管平台 WordPress 宣布了百年域名注册选项，此举旨在吸引那些想要保存终生数字遗产的客户。该服务的费用为 3.8 万美元，也就是平均每年 380 美元。域名注册商提供的域名注册年限通常为一到十年，WordPress 将这一年限提高到了一百年。然而十年甚至二十年后会发生什么都是难以预测的。WordPress 的方案还包括跨越多个地理区域的内容备份，带宽不受限制，以及  24/7 小时的技术支持。",
+          "link": "https://www.solidot.org/story?sid=75920",
+          "publishedOn": "2023-08-29T04:25:21.000Z",
+          "wordCount": 155,
+          "title": "WordPress 提供百年域名注册选项",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75919",
           "author": null,
@@ -926,36 +1026,6 @@
           "publishedOn": "2023-08-20T15:37:03.000Z",
           "wordCount": 163,
           "title": "Debian 支持龙芯 LoongArch 架构",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75844",
-          "author": null,
-          "description": "俄罗斯官方确认，该国首颗月球探测器 Luna-25 坠毁在月球表面。Luna-25 此前试图在印度的 Chandrayaan 3 探测器之前成为首个在月球南极地区着陆的探测器。俄罗斯是在 8 月 11 日从位于远东的东方航天发射场发射了 Luna-25， 三天前它进入了绕月轨道，工程师此后一直发送指令点燃引擎纠正轨道，周六它发送了最新指令让探测器进入到预着陆轨道，准备提前一天着陆在月球南极。但周六莫斯科时间 14:10(11:10 UTC)的机动出现了问题，俄罗斯国家航天集团 Roscosmos 通过其 Telegram 官方频道表示遭遇了紧急情况，称在莫斯科时间 14:57 与探测器失去联络。周日官方宣布探测器坠毁。",
-          "link": "https://www.solidot.org/story?sid=75844",
-          "publishedOn": "2023-08-20T11:05:22.000Z",
-          "wordCount": 171,
-          "title": "俄罗斯探测器 Luna-25 坠毁在月球上",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75843",
-          "author": null,
-          "description": "当施乐在 1980 年向 MIT 人工智能实验室捐赠一台新的激光打印机时，它无意中点燃了一场革命。打印机卡住了，MIT 27 岁的程序员 RMS（Richard M. Stallman）尝试从代码中找到问题修复它。早期的软件开发是建立在开放获取和自由交流的文化之上的。但新打印机运行的是不被外部接触的私有软件。RMS 被拒绝访问代码。1983 年 9 月 RMS 发布了 GNU 操作系统，它设计作为当时占统治地位的操作系统 Unix 的自由软件软件替代。自由软件运动诞生自一位受挫折的工程师的简单而顽固的哲学理念：为了全世界的利益，代码必须公开，不受限制或不受商业干预。40 年后，科技公司通过私有软件赚了数十亿美元，而我们周围的很多技术——从 ChatGPT 到智能恒温器——对日常消费者而言都是难以理解的。尽管 RMS 的运动似乎是一次失败的实验，但自由开源软件运动生机勃勃且发展良好，它已成为科技业的基石。今天 96% 的代码库包含了开源软件。",
-          "link": "https://www.solidot.org/story?sid=75843",
-          "publishedOn": "2023-08-19T15:59:16.000Z",
-          "wordCount": 167,
-          "title": "开源的未来仍然存在不确定性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75842",
-          "author": null,
-          "description": "加拿大政府要求 Meta 取消其平台上禁止分享加拿大新闻的禁令，以允许加国用户分享有关林火的信息。因加拿大新法律要求互联网巨头为其平台上的新闻分享付费，Meta 本月起在 Facebook 和 Instagram 平台上对所有加拿大用户屏蔽了加国的新闻。部分逃离林火的加国居民抱怨该禁令让他们无法分享有关林火的重要信息。加国政府官员对 Meta 此举表达了强烈不满，但 Meta 拒绝了该要求，表示该公司已在 Facebook 上激活“安全检查（Safety Check）”功能，允许用户在自然灾害或危机后标记自己是安全的。",
-          "link": "https://www.solidot.org/story?sid=75842",
-          "publishedOn": "2023-08-19T14:59:22.000Z",
-          "wordCount": 163,
-          "title": "加拿大要求 Meta 解除禁令允许用户分享山林火灾信息",
           "imageUrl": null
         }
       ]
