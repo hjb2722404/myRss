@@ -2,10 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-09-01T02:22:25.351Z</updated>
+    <updated>2023-09-02T02:14:06.182Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ReiserFS 被标记为将停止支持]]></title>
+        <id>https://www.solidot.org/story?sid=75971</id>
+        <link href="https://www.solidot.org/story?sid=75971"/>
+        <updated>2023-09-01T15:31:35.000Z</updated>
+        <summary type="html"><![CDATA[作为更新 Linux 6.6 旧文件系统驱动的一部分，ReiserFS 不再被标记为“支持”，而是正式被视为“弃用（Obsolete）”。内核开发者去年开始讨论移除 ReiserFS 文件系统。ReiserFS 是在 21 年前作为第一个日志文件系统引入的，SUSE 发行版在 2006 年前一直将其作为默认的文件系统。但自从 ReiserFS 作者 Hans Reiser 因谋杀罪被判刑之后该文件系统的开发和用户兴趣就停滞了，只有前 Namesys（Hans Reiser 创办的公司）开发者 Edward Shishkin 前几年在 Reiser4 上做了些 bug 修复之类的维护工作。Linux 内核预计会在三年内移除 ReiserFS。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客如何挫败梭子鱼的漏洞修补]]></title>
+        <id>https://www.solidot.org/story?sid=75970</id>
+        <link href="https://www.solidot.org/story?sid=75970"/>
+        <updated>2023-09-01T15:13:02.000Z</updated>
+        <summary type="html"><![CDATA[梭子鱼网络在 5 月 20 日披露其 Email Security Gateway（ESG） 发现了一个 0day——远程命令注入漏洞 CVE-2023-2868。而这个 0day 从去年 10 月起被活跃利用了 8 个月，被攻击者利用安装恶意程序窃取敏感数据。梭子鱼在六月初发布了不同寻常的声明，建议客户直接替换受影响的设备。现在我们知道了原因：修复的设备又重新感染了恶意程序。安全公司 Mandiant 发表报告称，黑客组织 UNC4841 早就做好了反制漏洞修补的准备。从去年 10 月开始 UNC4841 选择性的感染了部分梭子鱼客户，数量大约在 400-500 左右。在梭子鱼发布补丁堵上漏洞之后，UNC4841 再次选择性的对部分高价值目标释出了 DepthCharge、SkipJack 和 FoxTrot/FoxGlove 三种恶意程序。其中 DepthCharge 被认为最复杂，它设计在 ESG 清除掉恶意程序之后重新感染，方法是在备份配置中隐藏恶意代码。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 驳斥 ChatGPT 的回复是衍生作品的主张]]></title>
+        <id>https://www.solidot.org/story?sid=75969</id>
+        <link href="https://www.solidot.org/story?sid=75969"/>
+        <updated>2023-09-01T14:13:44.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 的 ChatGPT 使用了海量数据训练，其中包括许多作家的作品。有多位作家提起了集体诉讼，指控 OpenAI 侵犯版权、违反 DMCA、不公平竞争、不当得利、ChatGPT 的每条回复都是衍生作品等等。OpenAI 逐一驳斥了这些主张。OpenAI 认为，作家们误解了版权保护的范围，没有考虑限制和合理使用等例外，版权的限制和例外为大模型等创新留出了空间。创新者以变革的方式使用版权材料并没有侵犯版权。版权法的目的是促进科学和实用艺术的进步，而不是作者所表达想法本身。OpenAI 还以 Google Books 诉讼为例，指出图书中的词频、句法模式和主题标记等统计信息超出了版权保护的范围。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学证明是一种社会契约]]></title>
+        <id>https://www.solidot.org/story?sid=75968</id>
+        <link href="https://www.solidot.org/story?sid=75968"/>
+        <updated>2023-09-01T13:13:57.000Z</updated>
+        <summary type="html"><![CDATA[2012 年日本京都大学数学家望月新一宣称证明了 ABC 猜想。该猜想涉及到数论中的质数、加法和乘法之间的关系。问题是望月新一的论文超过 500 页，依赖于大量新的定义、符号和理论，绝大多数数学家都难以理解。菲尔茨奖得主、波恩大学数学家 Peter Scholze 和法兰克福大学的 Jakob Stix 数年后将其论文翻译到数学家更熟悉的术语，指出他的逻辑存在“无法修复的漏洞”。望月对此的回应是他们没能理解他的证明。这件事提出了一个根本性问题：什么是数学证明？人们倾向于将其视为某种永恒真理的启示，但也许最好将其理解为一种社会契约。蒙特利尔大学的 Andrew Granville 最近一直在思考该问题。他从小喜欢算术，但从未考虑从事数学研究。他父母都很早辍学，对大学一无所知。从剑桥数学系毕业后，他尝试了剧本改编，在寻求资金期间他去读了研究生，获得数学硕士学位，然后是博士学位。他在数学研究之路上再也没有回头。他在此后数十年里写 175 篇论文，大部分与数论相关。他还写了些数学科普。他指出，大众媒体未能更好的描述数学家的研究。人们倾向于将数学视为一种纯粹的探索，数学家仅通过纯粹的思考就获得伟大的真理。但数学事实上是猜测——经常是错误的猜测。数学是一个实验过程。数学家在不同阶段获得不同的结论。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing paid plans for UTF8 tools]]></title>
+        <id>https://catonmat.net/paid-plans-for-utf8-tools</id>
+        <link href="https://catonmat.net/paid-plans-for-utf8-tools"/>
+        <updated>2023-09-01T12:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Team Browserling keeps shipping!
+Last month we launched paid plans for ASCII Tools and today we're launching paid plans for our next most popular tool category – UTF8 Tools. UTF8 tools are used by 40,000 people every month and they let you let you convert UTF8 data and text to its binary, octal, decimal, hex representation, encode and decode UTF8 data to and from base-64 and many other encodings, convert UTF8 to UTF16 and UTF32, and back, validate and debug UTF8 data, and much more.
+Next, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.
+From technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.
+You can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.
+Add paid plans too and see you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 从用户的私人收藏内删除盗版链接]]></title>
+        <id>https://www.solidot.org/story?sid=75967</id>
+        <link href="https://www.solidot.org/story?sid=75967"/>
+        <updated>2023-09-01T12:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Google 向一位用户发去电邮通知，称从他的 Google Saved 收藏里移除了一个链接（一个已经失效的 KickassTorrents 链接），理由是它违法了 Google 的政策。移除的原因是“下游影响”，相关链接已被 Google 搜索屏蔽。Google 删除的不是用户保存的书签，而是类似 Pinterest 的网址保存和组织服务，保存的网址可以与第三方共享或私有。 Google 不允许用户保存其搜索服务屏蔽的网址，如 BT 网址 1337x.to 或 Katcr.com。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《黑街圣徒》开发商 Volition 被母公司关闭]]></title>
+        <id>https://www.solidot.org/story?sid=75966</id>
+        <link href="https://www.solidot.org/story?sid=75966"/>
+        <updated>2023-09-01T11:23:38.000Z</updated>
+        <summary type="html"><![CDATA[在连续推出两款销量惨淡的游戏后，《黑道圣徒》、《红色派系》和《混乱特工》的开发商  Volition 被母公司 Embracer 关闭。Volition 的最后一款作品是去年上市的重启版 《黑道圣徒》。Volition 成立于 1993 年，最早的名字叫 Parallax Software Corporation，1996 年改名为 Volition，其早期的作品包括了太空射击游戏《Descent》系列和《FreeSpace 2》，被 THQ 收购之后推出了《黑道圣徒（Saints Row）》系列和《红色派系（Red Faction）》系列以及《惩罚者（The Punisher）》。它的最后两款作品《混乱特工（Agents of Mayhem）》和重启版《黑道圣徒》都褒贬不一，销量不佳。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内核 AMD GPU 驱动代码行数超过 500 万行]]></title>
+        <id>https://www.solidot.org/story?sid=75965</id>
+        <link href="https://www.solidot.org/story?sid=75965"/>
+        <updated>2023-09-01T10:45:49.000Z</updated>
+        <summary type="html"><![CDATA[随着 Linux 6.6 加入对即将推出的 AMD Radeon GPU 的支持，内核中 AMD GPU 驱动代码行数超了过 500 万行，而整个内核的代码行数大约为 3480 万行。大部分 AMD GPU 驱动代码是自动生成的头文件。针对英伟达 GPU 的开源驱动有大约  20.1 万行代码，英特尔 i915 DRM 
+图形驱动有大约 38.1 万行代码。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox v117 支持自动翻译]]></title>
+        <id>https://www.solidot.org/story?sid=75964</id>
+        <link href="https://www.solidot.org/story?sid=75964"/>
+        <updated>2023-09-01T09:56:07.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 释出了 Firefox v117。 其中一项新功能是支持自动翻译，但没有默认启用，Mozilla 决定采取分阶段推出的方式，准备到下一个版本 v118 时再默认启用。感兴趣的用户可以手动启用——输入 about:config，寻找 browser.translations.enable 然后将值设为 True，重启浏览器生效。Mozilla 的翻译功能不同于 Google 翻译或其它第三方翻译服务，它的翻译引擎、语言模型和页面内翻译算法都完全在用户计算机内运行，没有任何数据会发送到云端，因此完全保密。缺点是支持翻译的语言数量有限。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软为记事本应用加入自动保存功能]]></title>
+        <id>https://www.solidot.org/story?sid=75963</id>
+        <link href="https://www.solidot.org/story?sid=75963"/>
+        <updated>2023-09-01T09:29:31.000Z</updated>
+        <summary type="html"><![CDATA[微软更新了 Windows 11 的截图工具和记事本应用。其中截图工具引入了组合的截图工具条，更容易的在截图和录屏之间切换。而记事本应用加入了自动保存功能，用户关闭记事本时不会再出现是否需要保存的对话框。关闭后重新打开将会自动回到用户离开的地方。用户如果喜欢旧的工作模式可以在设置里关闭该功能。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneNote Md Exporter – 一键导出 OneNote 笔记为 Joplin、MarkDown 格式[Windows]]]></title>
+        <id>https://www.appinn.com/?p=46357</id>
+        <link href="https://www.appinn.com/onenote-md-exporter/"/>
+        <updated>2023-09-01T08:48:28.000Z</updated>
+        <summary type="html"><![CDATA[OneNote Md Exporter 是一个 Windows 开源项目，它可以将 OneNote 笔记导出为 Joplin、MarkDown 格式，并且不丢失章节信息，页面顺序、附件等内容。@App]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最大水坝拆除项目正在进行中]]></title>
+        <id>https://www.solidot.org/story?sid=75962</id>
+        <link href="https://www.solidot.org/story?sid=75962"/>
+        <updated>2023-09-01T08:39:12.000Z</updated>
+        <summary type="html"><![CDATA[流经美国俄勒冈州和加州北部的克拉马斯河（Klamath River）全长 440 公里，整个流域共建有四座水坝和水力发电设施。现在世界最大的水坝拆除项目进行之中。到 2024 年底，四座老化的水电站将消失。10 万立方码混凝土、130 万立方码土方和 2000 吨钢铁将从河道运出。原居民部落成员、研究人员、水坝附近居民、自然资源保护主义者和渔业都在等待着这条被筑坝数十年的河流将会发生什么变化。克拉马斯河上的水坝最早是在 1918 年开始运营。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[九十万年前人类祖先接近灭绝]]></title>
+        <id>https://www.solidot.org/story?sid=75961</id>
+        <link href="https://www.solidot.org/story?sid=75961"/>
+        <updated>2023-09-01T07:56:38.000Z</updated>
+        <summary type="html"><![CDATA[中科院李海鹏研究组与华师大潘逸萱研究组创建了快速极小时间溯祖（FitCoal）新理论，并发现人类在早、中更新世过渡期由于气候环境剧变经历了严重的“群体瓶颈”。在长达十几万年的漫长岁月中，人类祖先群体只有 1000 多人，几近灭绝。基于 FitCoal，研究人员进一步分析了来自千人基因组计划和 HGDP-CEPH 基因组计划产生的 50 个现代人类群体基因组数据，首次发现在距今 93 万年前，人类祖先由于早、中更新世过渡期的气候剧烈变化，在短期内丧失了约 98.7% 的群体成员，导致人类几乎灭绝。在此后长达 11.7 万年的时间里，人类平均成年个体数仅为 1280，且从千人基因组和HGDP-CEPH 两组独立数据获得的群体数估值几乎完全一致，分别为 1270 人和 1300 人。考虑到群体数量的自然波动，这一均值代表了远古人类群体瓶颈期最小群体数量的上限。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群聊和消息应用正在杀死社交媒体]]></title>
+        <id>https://www.solidot.org/story?sid=75960</id>
+        <link href="https://www.solidot.org/story?sid=75960"/>
+        <updated>2023-09-01T07:26:02.000Z</updated>
+        <summary type="html"><![CDATA[社交媒体上算法精心编排的内容让用户们感到疲惫，愈来愈多的人转向私聊、群聊和封闭社群。今天社媒上定时发帖的主要是内容创作者和网红，而其他人则通过更私人的渠道发表生活点滴。社媒用户的内容消费并没有减少，但他们现在更多是浏览他人创造的内容，而不是自己发表生活动态，部分用户觉得发帖的门槛在上升，还有部分用户厌倦数以千计的眼睛注视。他们退回到了更私密的聊天和社群。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度探测器确认月球表面有硫]]></title>
+        <id>https://www.solidot.org/story?sid=75959</id>
+        <link href="https://www.solidot.org/story?sid=75959"/>
+        <updated>2023-09-01T06:40:28.000Z</updated>
+        <summary type="html"><![CDATA[印度空间研究组织(ISRO)称，月船三号（Chandrayaan-3）漫游车搭载的激光诱导击穿光谱（LIBS）仪器对南极月球表面的测量确认了硫的存在。LIBS 是利用强激光脉冲分析材料成分的技术，高能激光脉冲聚焦到岩石或土壤等材料的表面，产生炙热的局部等离子体。对等离子体光进行光谱解析可以确定元素成分，因为每种元素在处于等离子体状态时会发射一组特征波长。初步分析显示月球表面存在铝 (Al)、硫 (S)、钙 (Ca)、铁 (Fe)、铬 (Cr) 和钛 (Ti)。进一步测量表明存在锰 (Mn)、硅 (Si) 和氧 (O)。是否存在氢还在调查中。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[廉价 AI 时代正在走来]]></title>
+        <id>https://www.solidot.org/story?sid=75958</id>
+        <link href="https://www.solidot.org/story?sid=75958"/>
+        <updated>2023-09-01T06:13:16.000Z</updated>
+        <summary type="html"><![CDATA[Nala Ginrut 写道：AIGC 被认为是未来的基础物料，就如同水电一样存在普遍需求。可是高昂的算力成本已然成为 AIGC 进一步推进的阻碍。SymeCloud 在探索低成本 AI 方案的方向上更进了一步，最近他们发布了一个超廉价的 Chatbot 云方案，仅需 4.99 美元/月，是目前世界上最便宜的付费方案。该方案在 HackerNews 上引起了热议。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X 想要收集用户的生物识别信息和工作经历]]></title>
+        <id>https://www.solidot.org/story?sid=75957</id>
+        <link href="https://www.solidot.org/story?sid=75957"/>
+        <updated>2023-09-01T05:41:42.000Z</updated>
+        <summary type="html"><![CDATA[马斯克(Elon Musk)的 X/Twitter 平台更新了隐私政策，加入了收集用户生物识别信息和工作经历的条款。新的隐私政策声明，它可能会因安全以及身份识别的目的收集和使用用户的生物识别信息。生物识别信息包括指纹、虹膜或面部特征等。X 此举可能是该公司构建类似微信的万能应用计划的一部分。苹果等公司也收集用户的生物识别信息，但它们并不保存到自己的服务器上，而是直接储存在设备上，只能通过设备访问和使用。新隐私政策还表示要收集用户的工作和教育经历、就业偏好等信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fairphone 5 将提供 8-10 年的 Android 支持]]></title>
         <id>https://www.solidot.org/story?sid=75956</id>
@@ -990,139 +1166,6 @@ Next week we'll add even more tools. See you then!]]></summary>
         <link href="https://www.solidot.org/story?sid=75874"/>
         <updated>2023-08-23T14:19:18.000Z</updated>
         <summary type="html"><![CDATA[印度成为第一个探测器在月球南极着陆的国家。印度空间研究组织(ISRO)于 7 月 14 日在斯里赫里戈达岛（Sriharikota）的萨迪什·达万航天中心使用 LVM3-M4 火箭成功发射了 Chandrayaan-3（月船三号）探测器，第二次尝试登陆月球表面。印度在 2019 年发射了月球探测器 Chandrayaan-2，它包含了一个轨道器、Vikram 着陆器和 Pragyan 漫游车，但着陆期间失去联络最终登陆失败。Chandrayaan-3 在 8 月 5 日进入月球轨道，花费大约三周时间逐渐降低高度，最终于 8 月 23 日登陆月球南极。它由一个 1,726 公斤的 Vikram 着陆器和 26 公斤的 Pragyan 漫游车，以及 2,148 公斤的推进模块组成。南极被认为富含水冰。印度成为继美国、苏联和中国之后第四个登陆月球的国家。此前几天俄罗斯的首颗月球探测器登陆失败。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可视化纠缠光子的波函数]]></title>
-        <id>https://www.solidot.org/story?sid=75873</id>
-        <link href="https://www.solidot.org/story?sid=75873"/>
-        <updated>2023-08-23T11:20:45.000Z</updated>
-        <summary type="html"><![CDATA[加拿大渥太华大学与意大利罗马第一大学的科学家展示了一种新技术，可实时可视化两个纠缠光子的波函数。这一成果有望加速量子技术的进步，改进量子态表征、量子通信并开发新的量子成像技术。波函数是量子力学的核心原理，使量子科学家能预测对量子实体的各种测量（如位置和速度等）的可能结果。这种预测能力非常有用，了解量子计算机中产生或输入的量子态使科学家可以测试计算机本身，也有望促进量子技术的发展。了解量子系统波函数的方法，也被称为量子态断层扫描，是一项极具挑战性的任务。使用基于投影运算的标准方法，完整的断层扫描需要进行大量测量，而这些测量会随着系统复杂性（维度）的增加而迅速增加。最新研究将经典光学领域的数字全息术扩展到两个光子的情况。研究人员让两个光子与一个量子态叠加，然后分析两个光子同时到达位置的空间分布。对两个光子的同时到达成像被称为重合图像，这使他们获得了用于重建未知波函数的干涉图案。研究团队通过一台可在每个像素上以纳秒分辨率记录事件的相机实现了这一点。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 NVIDIA 初创企业展示暨 GTC 2024 线下展示报名开启]]></title>
-        <id>https://www.solidot.org/story?sid=75872</id>
-        <link href="https://www.solidot.org/story?sid=75872"/>
-        <updated>2023-08-23T10:43:42.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA 初创加速计划（NVIDIA Inception）是 NVIDIA 为初创企业提供的一个加速平台，目前全球已有超过15,000 名成员。NVIDIA 为会员企业提供了一系列全面而有针对性的资源，从技术指导到软硬件支持，从市场宣传到投融资及大企业对接，在各个方面助力会员企业发展。在 NVIDIA 领先技术的助力下，会员能够更快地推进产品开发、优化算法、提高性能，在市场上取得竞争优势，同时他们也正在通过诸如 GTC 这样的国际化平台走向世界，拥抱更多未知的机会和可能性。
-
- 
-
-
-NVIDIA初创企业展示巡回路演正在进行中，招募项目包括大语言模型、生成式人工智能、元宇宙等多个领域。通过全国范围内的项目征集、项目甄选、各分站展示、项目路演、技术交流沙龙和半程及最终展示等，挖掘中国科技创业优秀项目及人才
- 
-
-参与企业还将有机会： 
-亲临 GTC 2024 线下活动现场，展示您的企业风采！
- 
-通过“绿色通道”直接进入更多行业活动的复赛或总决赛环节！
- 
-深圳站、武汉站、北京站、杭州站的报名即将截止，点击链接即可报名 https://jinshuju.net/f/zH9NcV]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“遗忘”可能是一种学习形式]]></title>
-        <id>https://www.solidot.org/story?sid=75871</id>
-        <link href="https://www.solidot.org/story?sid=75871"/>
-        <updated>2023-08-23T09:30:41.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《Cell Reports》上的一项研究，“遗忘”可能是一种学习形式，有利于在动态环境中灵活的行为，他们的实验测试表明，记忆并没有真正丢失，而是储存在可以重新激活的记忆印迹中。我们获取某些记忆的能力的变化源于环境反馈和可预测性。遗忘可能是大脑有意为之的一种特征，使其能够适应不断变化的环境。生活的这样一个不断变化的世界里，忘记一些记忆是有益的，因为这可以导致更灵活的行为和更好的决策。如果记忆是在与当前环境不完全相关的情况下获得的，那么忘记它们可能是一种积极的变化，可以提高我们的幸福感。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉要求 NHTSA 官员编辑掉车祸中是否使用辅助驾驶软件的信息]]></title>
-        <id>https://www.solidot.org/story?sid=75870</id>
-        <link href="https://www.solidot.org/story?sid=75870"/>
-        <updated>2023-08-23T08:42:31.000Z</updated>
-        <summary type="html"><![CDATA[《纽约客》发表了调查报告《Elon Musk’s Shadow Rule》，其中披露特斯拉曾要求美国国家公路交通安全管理局（NHTSA）编辑掉车祸中是否使用辅助驾驶软件的信息。NHTSA 发言人表示，特斯拉是以商业机密为由要求编辑掉这些信息的，《车辆安全法（The Vehicle Safety Act）》明确限制了 NHTSA 发布企业标记为机密信息的能力。一旦任何公司声称机密，NHTSA 有法律义务将其视为机密，除非或者直到 NHTSA 通过法律程序否定这一声明。特斯拉汽车提供了辅助驾驶软件 Autopilot，其高级版本 Full Self-Driving 需要额外付费，车主可以一次性支付 1.5 万美元或者每月支付 99 美元或 199 美元，具体根据升级细节而定。特斯拉的 Full Self-Driving 虽然名字的意思是完全自主驾驶，但实际上仍然只有 L2 级的自主驾驶能力。《华盛顿邮报》此前报道称，2019 年以来特斯拉汽车在 Autopilot 模式下共发生了 736 起车祸，有 17 人死亡。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国企业巨头大而不倒]]></title>
-        <id>https://www.solidot.org/story?sid=75869</id>
-        <link href="https://www.solidot.org/story?sid=75869"/>
-        <updated>2023-08-23T07:54:29.000Z</updated>
-        <summary type="html"><![CDATA[管理学大师 Clayton Christensen 在其《创新者的窘境：大公司面对突破性技术时引发的失败》一书中讲述了企业为维护现有业务的盈利能力而墨守成规，从而为技术变革中没有此类负担的新兴企业创造了超越的机会。最近 AI 领域的突破会让 OpenAI 等创业公司有机会将 Google 之类的老牌互联网巨头拉下马吗？《经济学人》认为不会，认为 Google 仍然会保持领先地位。财富 500 强企业中只有 52 家诞生于 1990 年之后，其中包括 Alphabet、亚马逊和 Meta。500 强中只有 7 家是在苹果推出 iPhone 的 2007 年之后创办的，有 280 家诞生于二战前。事实上新企业巨头出现的速度一直在放缓。1990 年财富 500 强企业中有 30 年历史或低于 30 年的企业只有 66 家，此后它们的平均年龄从 75 岁增加到了 90 岁。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whisper JAX – 在线免费语音转文字工具，单文件 2 小时内免费使用]]></title>
-        <id>https://www.appinn.com/?p=46296</id>
-        <link href="https://www.appinn.com/whisper-jax/"/>
-        <updated>2023-08-23T07:53:14.000Z</updated>
-        <summary type="html"><![CDATA[Whisper JAX 是一款基于 Whisper API 的在线语音转文字工具，支持麦克风、录音文件、YouTube 三种音频来源，单文件 2 小时以内免费使用。@Appinn 感谢 @地衣 的推荐]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 工程师自曝每天只干一小时活]]></title>
-        <id>https://www.solidot.org/story?sid=75868</id>
-        <link href="https://www.solidot.org/story?sid=75868"/>
-        <updated>2023-08-23T06:57:06.000Z</updated>
-        <summary type="html"><![CDATA[一位化名 Devon 的 Google 程序员告诉《Fortune》，他每天只为公司干一小时活。他说自己每天大约 9 点起床，洗澡吃早餐，然后工作到 11 点左右，下午则开始给自己的创业公司工作。Devon 将自己视为是成千上万无所事事的科技从业者之一。达特茅斯大学塔克商学院教授 Vijay Govindarajan 称，在疫情早期的繁荣期，科技巨头会进行超出需求的招聘，这种为不需要的职位提供高薪和囤积人才的做法被称为“penning”。Devon 的年薪接近 15 万美元。他说老板只是在买断所有能买断的人，以免他们去另一家公司打造与 Google 竞争的产品。在一轮又一轮的裁员之后，在科技行业整体销售低迷的背景下，留下的很多人无所事事。Devon 在接受 Google 职位时就知道工作比较轻松，他在 Google 实习的早期就完成了所有的代码，但以比较低的速度将代码一行行发给他的经理，实习期间甚至还去了趟夏威夷度假。 他说，如果要长时间工作他会去创业公司。但在 Google 大部分人都知道他们只是干一份工作而已。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国将强制要求后座乘客系安全带]]></title>
-        <id>https://www.solidot.org/story?sid=75867</id>
-        <link href="https://www.solidot.org/story?sid=75867"/>
-        <updated>2023-08-23T03:24:38.000Z</updated>
-        <summary type="html"><![CDATA[自 1968 年以来，美国汽车和卡车的所有座位都配备了安全带，但并没有强制使用，而是由各州自行决定。绝大部分州都只要求前排乘客系安全带，有 10 个州不要求后排乘客系安全带。现在美国国家公路交通安全管理局（NHTSA）将强制要求所有乘客系安全带，车辆将需要为所有乘客配备安全带警告系统。NHTSA 代理局长 Ann Carlson 表示，系安全带是防止车祸中受伤和死亡的最有效方法。2021 年有接近 43,000 人在美国公路上失去生命，半数是因为车内乘客没有系安全带。新规定将有助于减少这一数字。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 调整版本号命名规则，v7.6 之后是 v24.2]]></title>
-        <id>https://www.solidot.org/story?sid=75866</id>
-        <link href="https://www.solidot.org/story?sid=75866"/>
-        <updated>2023-08-23T03:01:28.000Z</updated>
-        <summary type="html"><![CDATA[LibreOffice 办公软件项目刚刚释出了 v7.6 版本，但 v7.6 之后不是 v7.7 或 v8.0，而是 v24.2。LibreOffice 项目正迁移到基于年月的版本命名规则，它的发布周期是每半年发布一个新的版本。下一个版本将在 2024 年 2 月释出，因此版本号将是 v24.2，之后是 v24.8、v25.2、v25.8、v26.2 等等。LibreOffice 代码库已经相当成熟，现有版本系统让大版本号的跳跃变得难以做到理由正当。切换到基于日历的版本号更方便。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软让 Windows 11 的“干净安装”愈来愈恼人]]></title>
-        <id>https://www.solidot.org/story?sid=75865</id>
-        <link href="https://www.solidot.org/story?sid=75865"/>
-        <updated>2023-08-22T15:34:44.000Z</updated>
-        <summary type="html"><![CDATA[以前 Windows 用户可通过“干净安装（Clean Install）或全新安装”移除 PC 厂商会捆绑到系统中的第三方软件。今天 Windows 的“干净安装”仍然是可能的，甚至比以前更方便了，因为  Windows Update 能提供计算机所需的所有驱动程序。但问题是“干净安装”并不干净，让 Windows 变得不干净的不是第三方而是微软本身。微软让 Windows 11 的“干净安装”愈来愈恼人，它会反复向用户推销它的服务如 Microsoft 365 试用版、OneDrive 云储存和 PC Game Pass 游戏订阅，第一次你说不需要，微软还会用第二次来烦你，并美名为“SCOOBE（second chance out-of-box experience）”。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软将 Python 带到 Excel]]></title>
-        <id>https://www.solidot.org/story?sid=75864</id>
-        <link href="https://www.solidot.org/story?sid=75864"/>
-        <updated>2023-08-22T15:08:23.000Z</updated>
-        <summary type="html"><![CDATA[微软将 Python 语言带到了电子表格 Excel 中，Excel 用户现在可通过预览版本尝试用 Python 操作和分析数据。微软的项目总经理 Stefan Kinnestrand 在官方博客上表示，用户可通过 Python 绘图和库在 Excel 中操作和探索数据，然后用 Excel 公式、图表和数据透视表进一步完善见解。使用 Python 不需要安装额外的程序或插件，Python 的集成是作为 Excel 内置连接器和 Power Query 的一部分。微软还引入了新的 PY 函数，在电子表格中展示 Python 数据。流行的 Python 库如 pandas、statsmodels 和 Matplotlib 都可以在 Excel 使用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社媒算法扭曲了人类互相学习的倾向]]></title>
-        <id>https://www.solidot.org/story?sid=75863</id>
-        <link href="https://www.solidot.org/story?sid=75863"/>
-        <updated>2023-08-22T14:24:08.000Z</updated>
-        <summary type="html"><![CDATA[人类日益在社交媒体环境中与人互动，其中算法控制他们的信息流。算法一定程度上决定了社媒用户看到的信息、遇到的人群和传播的观点。社交媒体的算法旨在放大能促进平台互动的信息。社会心理学家发现的证据表明，这种设计的副作用是放大了人们倾向于学习的信息。此类信息被称为 PRIME，代表 prestigious, in-group, moral and emotional information，即有威望的、群体内的、道德的和情感的信息。在人类演化的过去，从 PRIME 信息中学习的偏见是有益的：从有威望的个体学习会富有成效，因为他们是成功的，他们的行为可以复制。此外，关注和惩罚违反道德的人则有利于社群的合作。但当 PRIME 信息被算法放大并被人利用时，会发生什么？社交媒体上的威望是可以伪造的，而新闻源充斥着负面和道德的信息助长了冲突而不是合作。人类心理和算法放大之间的互相作用导致了失调，社会化学习支持合作和问题解决，但社媒算法旨在增加互动。社会心理学家将这种失调称为功能错位（functional misalignment）。算法调解的社会化学习中功能错位的后果之一是人们开始形成错误的认知。近期的研究发现，当算法选择性地放大更极端的政治观点时，人们认为其所在的政治内群体和外群体之间的分歧比实际的更严重。功能错位也会扩大错误信息的传播。另一项研究发现，传播政治错误信息的人会利用道德的和情感的信息来扩大此类信息的分享。研究人员表示他们正在专研新算法设计，鼓励互动的同时惩罚 PRIME 信息。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
