@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46387",
+          "author": "青小蛙",
+          "description": "自从收到腾讯律师函，安卓跳开屏广告应用批量下架之后，李跳跳、蹦跶、大圣净化、叮小跳…等等，该类别的应用差不多就没有了。然后，在期盼之中，开源产品顶上了。@Appinn 开屏跳过 这款产品名称也简单粗暴",
+          "link": "https://www.appinn.com/zfdang-touchhelper/",
+          "publishedOn": "2023-09-05T08:09:47.000Z",
+          "wordCount": 2498,
+          "title": "开屏跳过 – 安卓开屏广告自动跳过应用，免费开源",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/appinn-feature-images-2023-09-05t153047-813.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=46384",
+          "author": "青小蛙",
+          "description": "Benham’s Top（贝纳姆转盘）是一个在 128 年前出售的玩具，它是一个顶部带有黑白相间图形的陀螺，旋转后就能看到彩色，具体的颜色与转速有关，也与每个具体的人有关，相同的转速下你可",
+          "link": "https://www.appinn.com/benham-top/",
+          "publishedOn": "2023-09-05T04:22:12.000Z",
+          "wordCount": 2509,
+          "title": "贝纳姆转盘：体验大脑被骗的那一刻：著名视错觉，黑白变彩色",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/Appinn-feature-images-2023-09-05T114728.411.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46378",
           "author": "青小蛙",
           "description": "ALog 是一款支持 iPhone、Apple Watch 的开源语音日记应用，带有 AI 功能，可以实现录音之后的语音转文字，以及 AI 总结两个功能，让你每日不停的碎碎念之后，还能有一篇完整的文字",
@@ -125,16 +145,6 @@
           "wordCount": 2536,
           "title": "有人求「拖入 2 张图片，重合叠加对比」工具，大佬说：如果明天还没有，我就拿 AHK 写个｜他写好了",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/picquickcompare.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46323",
-          "author": "青小蛙",
-          "description": "在 Chrome 上阅读 Epub 电子书的扩展 Readium Chrome 宣布停止开发，并推荐了这个新的阅读器：Thorium Reader 是一款免费、多语言、多平台、简单易用的阅读应用程序，",
-          "link": "https://www.appinn.com/thorium-reader/",
-          "publishedOn": "2023-08-27T06:38:22.000Z",
-          "wordCount": 2715,
-          "title": "Readium Chrome 插件停止开发 ，Thorium Reader 接替：开源、跨平台、多格式电子书阅读器",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/appinn-feature-images-2023-08-27t142238-801.jpgo_.jpg"
         }
       ]
     },
@@ -167,6 +177,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=10983",
+          "author": "张 鑫旭",
+          "description": "相比于tinypng，我这个工具还自带尺寸设置功能，同时还可以控制压缩率，指定压缩格式，纯前端实现，高性能高效率。",
+          "link": "https://www.zhangxinxu.com/wordpress/2023/09/js-jpg-png-compress-tinyimg-mini/",
+          "publishedOn": "2023-09-05T13:05:30.000Z",
+          "wordCount": 962,
+          "title": "做了个纯前端JPG/PNG尺寸缩放+压缩的在线工具",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10969",
           "author": "张 鑫旭",
           "description": "一开始看到registerProtocolHandler()方法老激动了，以为又发现了个好玩具，谁知深入体验了一番之后……呵呵~",
@@ -185,16 +205,6 @@
           "wordCount": 1075,
           "title": "Web referrer策略详解与防盗链图片的显示",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=10950",
-          "author": "张 鑫旭",
-          "description": "Performance和PerformanceObserver，用户 Timing API，哦，学不完，根本学不完，这两周抽时间好好研究了一番，终于了解了个大概了🙊，特此记录下。",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/08/js-performanceobserver-api/",
-          "publishedOn": "2023-08-27T08:34:24.000Z",
-          "wordCount": 1277,
-          "title": "狠狠地研究了下 PerformanceObserver API",
-          "imageUrl": null
         }
       ]
     },
@@ -203,6 +213,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=75997",
+          "author": null,
+          "description": "Android 操作系统正日益封闭，最新的 Android 14 将进一步限制对系统证书的修改。Google 是从 2016 年发布的 Android 7（Nougat）起将设备上信任 CA 列表的权力从用户转移到设备供应商和第三方应用开发者。以前 Android 系统允许用户创建自己的 CA 并信任它，拦截设备上的 HTTPS 流量，查看设备上正在发送和接收的内容，可以进行修改或阻止。即将在未来几个月释出的 Android 14 将 CA 证书的管理转移到了一个独立更新的组件，由 Google Play 提供更新。一方面它对普通用户的安全是好事，但另一方面它进一步限制了开发者，即使 root 设备也将无法修改系统证书。",
+          "link": "https://www.solidot.org/story?sid=75997",
+          "publishedOn": "2023-09-05T15:43:28.000Z",
+          "wordCount": 176,
+          "title": "Android 14 将禁止对系统证书的修改",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75996",
+          "author": null,
+          "description": "因为欧盟强制要求到明年底移动设备制造商必须采用通用的 USB-C 充电端口，苹果 9 月 12 日举行的新品发布会上将推出使用 USB-C 的新 iPhone 15 手机和新 AirPods Pro 无线耳机。苹果不会提及欧盟的要求，而是将称之为消费者的重大胜利。苹果消费者的新连接器未来将能与其它非苹果产品兼容了。苹果移动设备之前广泛使用的是私有的 Lightning 连接器。",
+          "link": "https://www.solidot.org/story?sid=75996",
+          "publishedOn": "2023-09-05T14:45:42.000Z",
+          "wordCount": 161,
+          "title": "苹果新一代产品被迫拥抱 USB-C",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75995",
+          "author": null,
+          "description": "自加拿大联邦监狱去年开设亚马逊账号以来，囚犯们购买了价值 13 万美元的老式游戏机，原因是几十年前的安全政策限制他们购买新一代游戏机。加拿大惩教署（Correctional Service Canada 或 CSC）的政策禁止囚犯购买任何能与外界沟通的技术。这意味着在加拿大监狱，光盘没有消失，智能电视不存在，超级任天堂游戏机还在流行。自亚马逊成为 CSC 首个电商供应商以来，囚犯们购买的都是几十年前的产品，比如索尼的 PS1，任天堂的 Super Nintendo、Nintendo 64，以及 Game Boy 和 Game Boy Advance。其中 PS1 是监狱里最流行的游戏机，购买量多达 159 台，CSC 的政策禁止购买任何一代的 Xbox。PC 也停留在 1990 年代，囚犯不能使用比 Windows 98 更新的操作系统，办公软件不能超过 Microsoft Office 97。编译器或编程也都是不允许的。",
+          "link": "https://www.solidot.org/story?sid=75995",
+          "publishedOn": "2023-09-05T14:33:23.000Z",
+          "wordCount": 182,
+          "title": "加拿大囚犯被限制只能使用 1990 年代的技术",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75994",
+          "author": null,
+          "description": "中石化最近公布的一份报告预测，中国的汽油需求将在今年达到峰值。这比早先的预测提前了两年。中石化是中国最大的能源巨头，它说汽油将开始走下坡路不会是无的放矢。过去二十年中国是精制油产品如汽油柴油全球增长的最主要推手。但随着电动汽车的普及，化学燃料的需求开始下降。插电式汽车占乘用车总销量的比例已从 2020 年的 6% 提高到了 2023 年 8 月的接近四成。中石化的报告还指出，相比私家汽车，网约车更可能是电动汽车，电动汽车占网约车的比例接近四成。电动汽车也比燃油汽车更高效，滴滴的数据显示电动汽车的行驶里程占到了总里程的五成。全国有 22 个城市已经要求新网约车必须是电动或混动汽车。",
+          "link": "https://www.solidot.org/story?sid=75994",
+          "publishedOn": "2023-09-05T13:08:01.000Z",
+          "wordCount": 151,
+          "title": "因电动汽车中国汽油需求今年将达到峰值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75993",
+          "author": null,
+          "description": "AI 的先驱们正在为这项技术的哪种危险最可怕而争论不休。末日论者担心，被训练来寻求奖励的 AI 系统最终可能会有隐藏的追求权力的冲动，在执行我们的愿望时无意中伤害人类，或者干脆超越人类，掌握我们的命运。AI 伦理与公平领域的专家们担心的是这些工具如何无意或有意地剥削工人、加深数以百万计人的不平等。他们希望科技公司和监管机构执行培训标准和技术，以减少这种威胁。一些伦理学研究者表示，他们并不完全否定有关人类生死存亡的风险，只是认为应该把这作为有更明确定义的现有问题的一部分来解决。一些末日论者认为，通向灾难的道路很可能来自伦理学界所强调的问题，比如大量炮制的虚假信息导致政府被推翻或引发战争的后果。双方都希望能够揭开 AI 思考方式的黑箱，即所谓的可解释性问题。",
+          "link": "https://www.solidot.org/story?sid=75993",
+          "publishedOn": "2023-09-05T10:04:02.000Z",
+          "wordCount": 151,
+          "title": "AI 对人类的威胁究竟有多大",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75992",
+          "author": null,
+          "description": "日本大阪大学、上海师范大学等机构的研究人员在《PLOS ONE》上发表论文，对清朝灭亡的原因给出了更全面的解释。研究人员发现了三大因素加剧了社会政治压力：首先是 1700-1840 年间人口增长四倍，导致人均土地减少，农村人口陷入贫困。其次，人口暴涨也导致了精英职位的竞争加剧，在竞争者人数大幅增长的同时，授予的最高学位数量却减少了，在 1796 年达到最低点。此类功名是获得官位的前提，这种不匹配制造了一大群心怀不满的精英野心家，人类历史上最血腥的内战太平天国运动就是由未能考取功名的失败精英领导的。第三，镇压的成本上升、人均生产率下降，白银储备枯竭和鸦片进口导致的贸易逆差增加，导致了国家财政负担加剧。这些因素最终导致了清朝的灭亡。社会紧张局势在 1840-1890 年间达到峰值。清朝统治者也认识到压力的加剧，它一直持续到 1912 年也凸显了其结构的牢固。",
+          "link": "https://www.solidot.org/story?sid=75992",
+          "publishedOn": "2023-09-05T08:41:32.000Z",
+          "wordCount": 151,
+          "title": "新研究揭示清朝灭亡的原因",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75991",
+          "author": null,
+          "description": "中国科学院上个月发布的新版《中国科学院院士行为规范（试行）》引起了关注。新版《规范》第五章禁止行为规定：",
+          "link": "https://www.solidot.org/story?sid=75991",
+          "publishedOn": "2023-09-05T07:01:20.000Z",
+          "wordCount": 145,
+          "title": "中科院限制院士公开发表与专业领域无关的学术意见",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75990",
+          "author": null,
+          "description": "根据发表在《Psychological Medicine》上的一项研究，脑成像显示抑郁症青少年对父母的批评更敏感对赞扬更不敏感。荷兰 Leiden 大学的研究人员招募了 20 名年龄在 13.5-18 岁之间诊断有轻度慢性抑郁症和重度急性抑郁症的荷兰青少年。他们还招募了 59 名 12-18 岁无抑郁症的健康青少年作为对照组。青少年的父母也被邀请参加研究。研究人员用 MRI 扫描了他们对批评赞扬等反馈的大脑活动。结果显示，健康和抑郁症青少年在受到批评后情绪都会下降，在受到赞扬之后情绪都会上升。但抑郁症青少年对赞扬不太敏感情绪提升有限，对负面情绪则更为敏感。",
+          "link": "https://www.solidot.org/story?sid=75990",
+          "publishedOn": "2023-09-05T06:20:40.000Z",
+          "wordCount": 155,
+          "title": "脑成像显示抑郁症青少年对父母的批评更敏感",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75989",
+          "author": null,
+          "description": "日本考虑解散导致前首相安倍晋三遇刺的统一教会。安倍晋三于去年 7 月参与街头演讲时遇刺，凶手为山上彻也，他的动机主要是针对与安倍晋三有关联的教会统一教。该教会由韩国人文鲜明创办，他的母亲信仰该教会并有大笔捐款，被认为导致了家庭破产。日本政府可能最早将于下个月下令解散统一教。根据日本的宗教公司法，如果一个组织被认为明确存在严重损害公共福利的行为，法庭可以下达解散命令。被解散的团体将被剥夺宗教法人地位，失去企业税和财产税以及捐款收入税的豁免。但它们可以以其它方式继续运营。如奥姆道理教在 1995 年被剥夺宗教法人后，改名为 Aleph，继续招募成员和募捐。",
+          "link": "https://www.solidot.org/story?sid=75989",
+          "publishedOn": "2023-09-05T05:20:09.000Z",
+          "wordCount": 146,
+          "title": "日本考虑解散导致安倍晋三遇刺的统一教会",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=75988",
+          "author": null,
+          "description": "流行的开源代码编辑器 Notepad++ 发现了多个缓冲溢出漏洞，允许攻击者执行任意代码。Notepad++ 尚未发布补丁修复漏洞。GitHub Security Lab 的安全研究员 Jaroslav Lobačevski 发现，Notepad++ 使用的部分函数和库存在堆缓冲区写溢出和堆缓冲区读取溢出漏洞，这些漏洞的风险评分从 5.5（中危）到 7.8（高危）不等。他是在四月底报告了漏洞，但直到 Notepad++ 发布最新版本 v8.5.6 漏洞仍然没有修复，因此根据披露政策公开了漏洞和 PoC。",
+          "link": "https://www.solidot.org/story?sid=75988",
+          "publishedOn": "2023-09-05T05:00:24.000Z",
+          "wordCount": 164,
+          "title": "Notepad++ 漏洞允许执行任意代码",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=75987",
           "author": null,
@@ -1001,36 +1111,6 @@
           "publishedOn": "2023-08-28T04:21:05.000Z",
           "wordCount": 175,
           "title": "Linux 6.5 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75907",
-          "author": null,
-          "description": "HashiCorp 公司创建的基础设施即代码软件 Terraform 最初是于 2014 年在 Mozilla Public License (v2.0) 许可证下开源的。它逐渐建立起一个由数以千计的用户、贡献者、客户、认证从业者、供应商，以及开源模块、库、插件和扩展生态系统组成的社区。但在 8 月 10 日，在几乎没有提前通知或社区反馈的情况下，HashiCorp 将 Terraform 的许可证从 MPL 切换到了非开源的 Business Source License (v1.1)。此举被认为威胁到了整个社区和生态系统。OpenTF 基金会宣布创建 Terraform 的分支，它已经申请成为 Linux 基金会的一部分。OpenTF 基金会表示，已经有四家公司承诺为项目提供 14 名全职工程师，预计该数字未来几周将会至少增加一倍。它指出过去两年 HashiCorp 公司只提供了大约 5 名全职工程师去维护 Terraform。",
-          "link": "https://www.solidot.org/story?sid=75907",
-          "publishedOn": "2023-08-27T12:11:08.000Z",
-          "wordCount": 193,
-          "title": "OpenTF 宣布创建 Terraform 分支",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75906",
-          "author": null,
-          "description": "加蓬于 8 月 26 日举行总统、议会和地方选举，当天主要 ISP 的网络服务被切断。当局表示此举旨在防止暴力的呼声蔓延。反对者认为此举旨在限制信息的自由传播，维护总统 Ali Bongo 家族对加蓬国家权力长达 56 年的统治。加蓬政府还在投票结束的当晚宣布了宵禁。加蓬在 2016 年举行的上一次总统选举曾引发大规模抗议，Ali Bongo 与反对派候选人的得票率非常接近，宪法法院还在宣布结果之后称选票已经烧掉无法重新计票。",
-          "link": "https://www.solidot.org/story?sid=75906",
-          "publishedOn": "2023-08-27T11:00:33.000Z",
-          "wordCount": 156,
-          "title": "加蓬在选举日断网",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75905",
-          "author": null,
-          "description": "Bugzilla 项目庆祝了诞生二十五周年，宣布成立了一个接受捐款的组织 Zarro Boogs Corporation，但用户的捐款无法抵税，因为软件开发在美国不被视为慈善事业，该组织不隶属于 Mozilla 基金会或与 Mozilla 基金会关联的实体。Bugzilla 是一个基于 Web 的 bug 跟踪系统和测试工具，最初是在 1998 年 4 月作为 Mozilla.org 项目的一部分发布的，开发语言是 Tcl。完整开源版本是在 1998 年 8 月 26 日发布的。因为 Perl 当时是更受欢迎的语言，9 月 15 日宣布完成了 Perl 移植。",
-          "link": "https://www.solidot.org/story?sid=75905",
-          "publishedOn": "2023-08-27T10:20:29.000Z",
-          "wordCount": 178,
-          "title": "Bugzilla 庆祝诞生二十五周年",
           "imageUrl": null
         }
       ]
