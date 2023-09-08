@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46404",
+          "author": "青小蛙",
+          "description": "易笺是一款简单的在线、开源 TXT 小说阅读器，只需要打开网页，将 TXT 文件拖进去就可以进行阅读。最近新增了 Chrome、Firefox 扩展，还拥有一个无界面版本，用来看小说太方便了。@App",
+          "link": "https://www.appinn.com/yijian-reader/",
+          "publishedOn": "2023-09-07T05:23:17.000Z",
+          "wordCount": 2562,
+          "title": "易笺 – 极简 .TXT 小说阅读器 Chrome、Firefox 版本",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/appinn-feature-images-2023-09-07t122909-464.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46389",
           "author": "青小蛙",
           "description": "小伙伴们，这个AI智能创作PPT神器真的太哇塞了！无需撰稿，无需设计排版，你只需要输入核心内容与关键词，就能快速做出精美PPT文稿！让你的大脑从头脑风暴中解放出来，加速工作效率，它就是万彩智演！ 它是",
@@ -145,16 +155,6 @@
           "wordCount": 2628,
           "title": "ta 来了：苹果发布会、网易云音乐3.0.0、离线 Android 输入法 Fcitx5、Firefox 安装 Chrome 扩展",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/ta-coming-1.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46329",
-          "author": "青小蛙",
-          "description": "Mango 是一款开源、自托管的漫画管理与阅读工具，支持多用户、OPDS 目录、嵌套文件夹、自动保存阅读进度、拥有插件系统，部署简单。可在移动设备访问阅读。@Appinn 感谢 @smallpig 的",
-          "link": "https://www.appinn.com/mango/",
-          "publishedOn": "2023-08-29T02:57:00.000Z",
-          "wordCount": 2799,
-          "title": "Mango – 开源、自托管漫画管理与阅读工具",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/08/mango-099.jpgo_.jpg"
         }
       ]
     },
@@ -223,6 +223,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76018",
+          "author": null,
+          "description": "Bethesda 备受期待的太空背景角色扮演游戏《星空》刚刚发布。它是 AMD 赞助的游戏，上线之初只支持 AMD 的上采样技术 FSR2，不支持英伟达的 DLSS。FSR2 是基于软件的技术，不受硬件限制，也支持 AMD 竞争对手英伟达和英特尔的显卡。DLSS 则受限于英伟达的显卡，而且最新版本还不支持上一代的显卡。虽然 Bethesda 没有提供 DLSS 的开箱即用支持，但 Mod 开发者很快就填补了空白，为游戏加入了 DLSS Mod。但此事有意思的是，一位 Mod 开发者对最新的支持帧生成的 DLSS3 Mod 加入了 DRM 限制，用户需要订阅他的 Patreon 页面才能获得该 Mod。此事引发了争议。其他 Mod 开发者则很快释出了免费版的 DLSS3 Mod。",
+          "link": "https://www.solidot.org/story?sid=76018",
+          "publishedOn": "2023-09-07T14:45:43.000Z",
+          "wordCount": 188,
+          "title": "《星空》加入 DLSS 支持，付费版本包含有 DRM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76017",
+          "author": null,
+          "description": "来自中国和诺丁汉的科学家已经确定了中国家禽养殖场的一种地方性禽流感病毒亚型发生的突变。这些变化可能会增加向人类传播的可能性。这些发现引起了对潜在的流行病或大流行的担忧，有必要进行协调一致的研究，以密切监测家禽和人类中的此类病毒。论文发表在《Cell》杂志上，报告了从人类患者身上分离出的 H3N8 禽流感病毒(AIV)的特性。该研究使用实验室小鼠和雪貂作为人类感染的模型，发现该病毒经历了几次适应性变化，导致严重的动物感染，并使其通过动物之间的空气传播途径传播。",
+          "link": "https://www.solidot.org/story?sid=76017",
+          "publishedOn": "2023-09-07T11:04:41.000Z",
+          "wordCount": 144,
+          "title": "禽流感突变可能加重人类感染",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76016",
+          "author": null,
+          "description": "美国国防部考虑未来两年内开发出一套由 AI 驱动技术、无人机和自治系统组成的庞大网络，应对来自中国等国的威胁。美国国防部副部长 Kathleen Hicks 在周三晚间的一次演讲中透露了该计划的新细节，包括斥资几亿美元开发数千套海陆空 AI 系统，力求“小巧、智能、低成本”。五角大楼考虑的其他能力还包括用于后勤保障的陆基自治系统，数量多到让对手难以摧毁的天基自治系统，以及可抵御来袭导弹的自治系统。自治系统利用 AI 技术侦测并打击敌方目标，并且可以包含自动驾驶的空中和海上无人机。美国国防部对这类系统的投资由来已久，包括自动驾驶的舰船和无人驾驶飞机。",
+          "link": "https://www.solidot.org/story?sid=76016",
+          "publishedOn": "2023-09-07T10:48:40.000Z",
+          "wordCount": 158,
+          "title": "五角大楼计划打造庞大的 AI 网络",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76014",
+          "author": null,
+          "description": "今天的汽车大多数都运行基于 Linux 的系统，但这并不意味着它们尊重你的隐私。Mozilla 基金会评估了 25 个汽车品牌的数据收集和隐私政策。它发现所有汽车品牌都在收集非必要的用户个人数据，将这些信息用于汽车之外的其它目的。它的结论是现代汽车是隐私噩梦。汽车上的传感器、摄像头、麦克风和跟踪器会记录用户的一举一动。过去三年，有 17 个汽车品牌发生过安全或隐私泄露事故。",
+          "link": "https://www.solidot.org/story?sid=76014",
+          "publishedOn": "2023-09-07T08:06:22.000Z",
+          "wordCount": 148,
+          "title": "汽车在隐私方面是最糟糕的产品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76013",
+          "author": null,
+          "description": "今年的夏季是有记录以来最热的。根据欧盟哥白尼气候变化服务中心的数据，6- 8 月是 1940 年有记录以来最热的夏季。今年夏天的全球平均气温为 16.77 摄氏度，比 1990-2020 年平均气温高 0.66 摄氏度，比 2019 年 8 月创下的前纪录高出近 0.3 摄氏度。在经历了有记录以来最热的六月后，地球又经历了最热的七月，而根据新的哥白尼数据，八月也是有记录以来最热的，高于除七月之外的其它月份。八月全球平均气温为 16.82 摄氏度，比 2016 年创下的纪录高出 0.31 度。7 月和 8 月的气温估计比工业化前水平高 1.5 摄氏度。今年还剩下四个月，目前 2023 年是有记录以来第二热的年份，仅仅比 2016 年低 0.01 摄氏度。",
+          "link": "https://www.solidot.org/story?sid=76013",
+          "publishedOn": "2023-09-07T07:43:47.000Z",
+          "wordCount": 174,
+          "title": "世界经历了有记录以来最热的夏季",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76012",
+          "author": null,
+          "description": "美国 50 个州和 4 个领地的总检察长周三致函国会，呼吁对 AI 生成的儿童色情图像采取行动。Stable Diffusion 之类的开源文本图像模型让 AI 生成色情图像比以往任何时候都容易。由于开源模型是可公开访问的，可以在本地运行，因此没有任何方法能阻止一个人生成儿童色情图像。闭源的商业模型如 Midjourney、DALL-E 和 Adobe Firefly 都内置了过滤器禁止生成色情图像。总检察长们呼吁，扩大现有的针对儿童色情材料（child sexual abuse material 或 CSAM）的法律，涵盖 AI 生成的材料。虽然 AI 生成的儿童色情图像是假的，但总检察长们认为这仍然会对儿童及其家人带来风险。",
+          "link": "https://www.solidot.org/story?sid=76012",
+          "publishedOn": "2023-09-07T07:02:12.000Z",
+          "wordCount": 173,
+          "title": "美国各州总检察长呼吁对 AI 生成的儿童色情图像采取行动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76011",
+          "author": null,
+          "description": "以色列魏茨曼科学研究所 Jacob Hanna 教授领导的研究团队利用实验室培育的干细胞创造出完整的人类胚胎模型，并设法在子宫外发育最长 14 天。研究报告发表在《自然》期刊上。研究者指出，该模型重现了人类胚胎植入后早期阶段的所有已知谱系和胚室的组织结构，包括上胚层、下胚层、胚外中胚层和滋养层。与之前的模型不同，该模型具有整合胚胎模型的明确特征，包括植入后胚胎的所有谱系（但一些细胞亚群或需更多实验支持）和组织结构。Hanna 希望，新平台或能支持今后用实验研究那些之前无从了解的人类胚胎植入后的早期发育阶段。",
+          "link": "https://www.solidot.org/story?sid=76011",
+          "publishedOn": "2023-09-07T06:45:49.000Z",
+          "wordCount": 150,
+          "title": "科学家从干细胞培育人类胚胎模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76010",
+          "author": null,
+          "description": "微软在 7 月份披露，中国黑客组织 Storm-0558 入侵了它的 Azure 云服务，访问了多名美国政府官员的电邮账号。本周三微软官方博客披露了此次攻击的更多细节。软件巨人称，黑客盗取了该公司一名工程师的账号，该账号能访问调试环境，其中包括了崩溃转储（crash dump）。它的调查发现，由于被称为“竞争条件”的 bug，2021 年 4 月发生的一次消费者签名系统崩溃留下的信息包含有机密的签名密钥，密钥原本应该在崩溃转储过程中移除。两年后黑客访问了崩溃转储获得了密钥。利用密钥黑客伪造了令牌访问了 OWA 和 Outlook.com。从 5 月 15 日起黑客访问了大约 25 个组织的账号，而直到 6 月中旬客户警告之后微软才获悉此次入侵。微软表示，黑客是通过窃取令牌的恶意程序盗取了工程师的账号，但没有进一步透露恶意程序是如何安装的，是否有其他工程师账号被入侵。",
+          "link": "https://www.solidot.org/story?sid=76010",
+          "publishedOn": "2023-09-07T05:27:10.000Z",
+          "wordCount": 168,
+          "title": "中国黑客通过盗窃微软工程师账号入侵 Azure",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76009",
+          "author": null,
+          "description": "丰田上月底宣布它在日本的 14 家组装厂将全部停工，原因是零部件订购相关系统发生故障。现在丰田公布了原因——磁盘没空间了。丰田在声明中称，8 月 27 日的维护工作重组了数据库，结果却导致了零部件处理服务器\n耗光了空间。没有可用存储空间意味着服务器停止工作，而备份服务器出现了相同的问题。在公司重新上线容量更大的服务器前，丰田在日本的生产线停止运作。这些生产线每天能生产大约 1.3 万辆汽车。丰田表示它已经采取措施防止类似的事件再次发生。",
+          "link": "https://www.solidot.org/story?sid=76009",
+          "publishedOn": "2023-09-07T03:19:49.000Z",
+          "wordCount": 149,
+          "title": "丰田服务器磁盘空间满了导致它中断生产线",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76008",
           "author": null,
@@ -1001,146 +1091,6 @@
           "publishedOn": "2023-08-30T04:04:47.000Z",
           "wordCount": null,
           "title": "英特尔展示 8 核 528 线处理器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75930",
-          "author": null,
-          "description": "微塑料已经无处不在。罗得岛大学的一项研究发现，微塑料能渗透到身体所有组织，甚至能改变行为。研究人员让年轻小鼠和年老鼠在三周内饮用含有不同剂量微塑料的水。他们发现，微塑料会改变行为，改变肝脏和脑组织中的免疫标记物。小鼠甚至会出现类似人类痴呆症的行为。研究人员对他们的发现倍感震惊。微塑料的剂量并不高，但却在短时间内产生了显著的变化。对小鼠的解剖发现，微塑料在所有器官组织中累积，包括穿透脑血屏障进入大脑。",
-          "link": "https://www.solidot.org/story?sid=75930",
-          "publishedOn": "2023-08-29T14:07:06.000Z",
-          "wordCount": 141,
-          "title": "微塑料渗透到身体所有组织甚至能改变行为",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75929",
-          "author": null,
-          "description": "在 8 月份的 Windows Certificate Trust List 更新中，微软禁用了 VeriSign Class 3 Public Primary Certification Authority – G5，结果导致应用如 QuickBooks 和 Avatax 无法启动，让系统管理员不知所措，因为导致了问题微软在三天后回滚了更新。该 CA 原属于赛门铁克，因在 2015 年错误签发了 google.com 证书以及后续发现有大量错误签发行为而不再被信任。赛门铁克在 2017 年将其 CA 业务出售给了 VeriSign。微软称，VeriSign Class 3 Public Primary Certification Authority – G5 在 2019 年起就不再被信任，该 CA 当时被设为 NotBefore，也就是 NotBefore 日期后签发的证书不再被信任，但之前签发的证书仍然被信任。在 8 月的证书信任更新中，微软将该 CA 设为  Disable，也就是被禁用。但此举导致了部分客户遭遇问题，微软随后回滚了更新。",
-          "link": "https://www.solidot.org/story?sid=75929",
-          "publishedOn": "2023-08-29T12:39:59.000Z",
-          "wordCount": 201,
-          "title": "微软更新 CA 信任列表导致部分应用无法启动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75928",
-          "author": null,
-          "description": "NYT 的 Magazine 报道了哈佛大学天体物理学教授 Avi Loeb。在科学界他以非传统观念闻名，但同时他也是一位权威，在传统的天体物理学领域发表了数百篇论文。在 2017 年天文学家发现已知第一颗外星天体 Oumuamua 后，Loeb 将其研究重心转向了外星生命，他呼吁科学家严肃考虑外星人或他们建造的飞船曾经造访地球这一可能性。2021 年在私人资助下 Loeb 与软件工程师 Eugene Jhong 和 Bruker 公司的 CEO Frank Laukien 联合创办了专注于研究近地或地球上外星技术的项目 Galileo Project。2022 年美国太空司令部确认了已知第一个撞击地球的星际天体：它于 2014 年 1 月 8 日在巴布亚新几内亚 Manus 岛附近坠落。Loeb 相信该天体可能由外星文明制造而成，但如果不能找到它进行检查，这一猜想是无法确认的。Loeb 筹建了资金，启动了一项找回天体残骸的探险行动。他在 6 月底通过其个人博客宣布在星际天体坠落地点发现了 25 个小型球体。虽然他的做法饱受批评，但 Loeb 对此表示不以为然，但仍然花费了很多时间对批评进行反驳。天体物理学家 Karl Gebhardt 评论说，如果他真的发现了什么，这将改变一切。",
-          "link": "https://www.solidot.org/story?sid=75928",
-          "publishedOn": "2023-08-29T11:43:14.000Z",
-          "wordCount": 185,
-          "title": "哈佛教授如何成为外星猎人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75927",
-          "author": null,
-          "description": "丰田汽车公司周二透露它在日本的 14 家组装厂将全部停工，原因是零部件订购相关系统发生故障，何时修复未知。目前已有 12 家工厂停工，其余 2 家也将从当天傍晚起停工。故障原因正在调查，报道称目前认为不是网络攻击。丰田称，29 日清晨起元町工厂（爱知县丰田市）、丰田汽车东日本岩手工厂（岩手县金崎町）等 12 家工厂 25 条生产线停工。仍在运转的丰田汽车九州宫田工厂（福冈县宫若市）、大发工业的京都工厂（京都府大山崎町）总计 3 条生产线也将从傍晚起相继停工。所有工厂均使用相同系统。去年 3 月丰田曾因供货的零部件公司遭网络攻击而停工。",
-          "link": "https://www.solidot.org/story?sid=75927",
-          "publishedOn": "2023-08-29T08:43:16.000Z",
-          "wordCount": 156,
-          "title": "丰田日本工厂因系统故障停工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75926",
-          "author": null,
-          "description": "根据发表在《Environmental Science and Technology》上的一项研究，亚裔美国人有更高的几率暴露在 PFAS 化合物下。PFAS（全氟烷基和多氟烷基物质）涵盖约 9000 种化合物，主要用于制造防水、防污或耐热型产品。这类化学品被广泛应用于数十个行业产出的几千种日常消费品，包括防污剂、地毯以及鞋子。PFAS 被称为“永久留存的化学品”，因为它们不会自然分解。它们会在包括人类在内的各种动物体内积累，与癌症、新生儿缺陷、肝病、甲状腺疾病、免疫力下降、激素紊乱及其他一系列严重健康问题相关。研究人员发现，亚裔美国人的 PFAS 暴露量明显高于美国其他族裔或种群，暴露分数中位数比非西裔白人高 89%。",
-          "link": "https://www.solidot.org/story?sid=75926",
-          "publishedOn": "2023-08-29T08:35:45.000Z",
-          "wordCount": 160,
-          "title": "亚裔美国人有最高的几率暴露在 PFAS 化合物下",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75925",
-          "author": null,
-          "description": "北卡罗来纳大学教堂山分校的一位材料学博士生周一下午枪杀了其实验室导师。行凶原因未知，凶手齐太磊（Tailei Qi）已经被捕。视频显示，在枪击事件发生时二楼的学生通过窗口跳到一楼逃生。齐太磊毕业于武汉大学材料专业， 2010 年他在复读之后与弟弟同一年考进名校而被河南大河报报道过。枪击事件后，教堂山分校宣布取消当天的所有课和活动。",
-          "link": "https://www.solidot.org/story?sid=75925",
-          "publishedOn": "2023-08-29T06:15:09.000Z",
-          "wordCount": 145,
-          "title": "北卡博士生枪杀其导师",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75924",
-          "author": null,
-          "description": "用纸杯代替一次性塑料杯是有问题的。哥德堡大学的研究人员表明，最终进入大自然的纸杯也会造成损害，因为它们也含有有毒化学物质。该研究测试了由不同材料制成的一次性杯子对蝴蝶蚊子幼虫的影响。纸既不耐脂也不耐水，因此用于食品包装材料的纸需要进行表面涂层处理。这种塑料可以保护纸不被你手里的咖啡沾到。如今，塑料薄膜通常由聚乳酸(PLA)制成，这是一种生物塑料。生物塑料由可再生资源生产(聚乳酸通常由玉米、木薯或甘蔗生产)，而不是像今天市场上 99% 的塑料那样由化石燃料生产。聚乳酸通常被认为是可生物降解的，这意味着在适当的条件下，它比油基塑料分解得更快，但研究人员的研究表明，聚乳酸仍然是有毒的。",
-          "link": "https://www.solidot.org/story?sid=75924",
-          "publishedOn": "2023-08-29T05:49:04.000Z",
-          "wordCount": 143,
-          "title": "纸杯也含有有毒化学物质",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75923",
-          "author": null,
-          "description": "OpenAI 宣布推出企业版 ChatGPT（ChatGPT Enterprise），与最大投资者微软的 Bing Chat Enterprise 展开直接竞争。企业版 ChatGPT 基于 GPT-4 模型，速度提升两倍，没有任何使用限制，支持 32k 上下文，\n允许处理四倍长的输入或文件。企业版 ChatGPT 还提供了 Code Interpreter 等先进数据分析功能。OpenAI  表示不会用企业客户的数据训练模型或改进服务。",
-          "link": "https://www.solidot.org/story?sid=75923",
-          "publishedOn": "2023-08-29T05:44:10.000Z",
-          "wordCount": 169,
-          "title": "OpenAI 推出企业版 ChatGPT",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75922",
-          "author": null,
-          "description": "中国互联网络信息中心（CNNIC）发布了第 52 次《中国互联网络发展状况统计报告》。《报告》显示，截至2023 年 6 月，我国网民规模达 10.79 亿人，较 2022 年 12 月增长 1109 万人，互联网普及率达 76.4%。目前该《报告》尚未提供 PDF 或 Word 版本。《报告》显示，在网络基础资源方面，我国域名总数为 3024 万个；IPv6地 址数量为 68055块/32，IPv6 活跃用户数达 7.67 亿；互联网宽带接入端口数量达 11.1 亿个；光缆线路总长度达 6196 万公里。在移动网络发展方面，截至6月，我国移动电话基站总数达1129万个，其中累计建成开通 5G 基站 293.7 万个，占移动基站总数的 26%；移动互联网累计流量达 1423 亿 GB，同比增长14.6%；移动互联网应用蓬勃发展，国内市场上监测到的活跃APP数量达 260 万款，进一步覆盖网民日常学习、工作、生活。在物联网发展方面，截至6月，三家基础电信企业发展蜂窝物联网终端用户21.23亿户，较2022年12月净增2.79亿户，占移动网终端连接数的比重为55.4%。",
-          "link": "https://www.solidot.org/story?sid=75922",
-          "publishedOn": "2023-08-29T04:57:00.000Z",
-          "wordCount": 200,
-          "title": "CNNIC 称中国 IPv6 用户超过 7 亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75921",
-          "author": null,
-          "description": "国际象棋对弈平台 Chess.com 和 Hans Niemann 达成和解，允许他重返该平台参加比赛，而后者同意放弃针对 Chess.com 和世界冠军 Magnus Carlsen 的一亿美元诽谤诉讼。去年九月，19 岁的 Niemann 在 Sinquefield 杯上结束了 Carlsen 53 场不败连胜的记录。Carlsen 随后退出了比赛，并公开指控 Niemann 作弊。Chess.com 之后关闭了 Niemann 的账号。Niemann 则提起了诉讼，指控 Magnus Carlsen 等人诽谤，索赔一亿美元。作为和解的一部分，Carlsen 发表声明，表示没有确凿的证据表明 Niemann 在 Sinquefield 杯的比赛中作弊。他愿意在未来的比赛中再次与 Niemann 交手。",
-          "link": "https://www.solidot.org/story?sid=75921",
-          "publishedOn": "2023-08-29T04:36:21.000Z",
-          "wordCount": 192,
-          "title": "Hans Niemann 与 Chess.com 达成和解允许重返该平台",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75920",
-          "author": null,
-          "description": "托管平台 WordPress 宣布了百年域名注册选项，此举旨在吸引那些想要保存终生数字遗产的客户。该服务的费用为 3.8 万美元，也就是平均每年 380 美元。域名注册商提供的域名注册年限通常为一到十年，WordPress 将这一年限提高到了一百年。然而十年甚至二十年后会发生什么都是难以预测的。WordPress 的方案还包括跨越多个地理区域的内容备份，带宽不受限制，以及  24/7 小时的技术支持。",
-          "link": "https://www.solidot.org/story?sid=75920",
-          "publishedOn": "2023-08-29T04:25:21.000Z",
-          "wordCount": 155,
-          "title": "WordPress 提供百年域名注册选项",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75919",
-          "author": null,
-          "description": "法国政府的失业登记和救助机构的网站 Pôle emploi 被入侵，有一千万用户受到影响。被暴露的信息包括全名和社会安全号码，电邮地址、电话号码、密码和银行数据等不受影响。造成 Pôle emploi 被入侵的罪魁祸首被认为与 MOVEit 有关。MOVEit 是一个广泛使用的文件传输程序，今年早些时候 MOVEit 曝出的一个高危漏洞导致其客户遭遇数据大规模被盗。MOVEit 的漏洞允许 SQL 注入，通过输入特制字符串，攻击者可以诱骗 Web 应用返回敏感数据，赋予管理系统权限等。安全公司披露攻击者在利用漏洞疯狂抓取数据，而攻击者与勒索软件组织 Clop 有关。但目前 Clop 尚未证实是否是该组织入侵了 Pôle emploi。",
-          "link": "https://www.solidot.org/story?sid=75919",
-          "publishedOn": "2023-08-28T15:52:56.000Z",
-          "wordCount": 163,
-          "title": "法国政府网站被入侵一千万用户信息泄露",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75918",
-          "author": null,
-          "description": "根据发表在《Research & Politics》上的一项研究，渴望破坏和挑战现行体制的人更可能分享阴谋论。研究人员想要探索分享阴谋论背后的三个动机：有动机的分享——旨在支持同一群体或其群体内的信仰；发出警报——在失败的挫折下通过分享引发对政治外群体的集体行动；引发混乱——不管党派或信仰通过分享破坏现行政治制度。研究人员调查了 3336 人， 其中 1772 人被认定为民主党或倾向民主党，1564人 被认为是共和党或倾向共和党。结果显示，渴望引发混乱的动机与社交媒体上分享阴谋论呈正相关。",
-          "link": "https://www.solidot.org/story?sid=75918",
-          "publishedOn": "2023-08-28T15:38:08.000Z",
-          "wordCount": 150,
-          "title": "渴望引发混乱的人更可能分享阴谋论",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75917",
-          "author": null,
-          "description": "一位 64 岁的澳大利亚新南威尔士州女子在持续了三周的腹痛和腹泻、干咳、发烧和盗汗后于 2021 年 1 月送入当地医院医治。2022 年她出现了新的症状，包括健忘和抑郁，她被送入了堪培拉医院。核磁共振扫描显示其大脑中有异常情况需要手术。但医生们没有想到会从她的大脑中取出一条活的长 8 厘米的寄生蛔虫。一位寄生虫专家认出该蠕虫是一种寄生于蟒蛇的蛔虫 Ophidascaris robertsi。这位患者生活在蟒蛇居住的湖区附近， 经常收集野生禾草用于烹饪。医生和科学家猜设蟒蛇可能通过粪便将寄生虫排入草丛，而患者通过接触或食用而感染了这种寄生虫。医生表示患者需要接受寄生虫相关的治疗，但需要十分谨慎，因为部分药物在杀死寄生虫时可能会引发炎症，会伤害大脑等器官，她还需要服用药物抵消副作用。",
-          "link": "https://www.solidot.org/story?sid=75917",
-          "publishedOn": "2023-08-28T14:26:41.000Z",
-          "wordCount": 153,
-          "title": "澳大利亚女子大脑内发现活的蠕虫",
           "imageUrl": null
         }
       ]
