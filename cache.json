@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46439",
+          "author": "青小蛙",
+          "description": "嗯背单词是一款 iPhone 背单词应用，开发者说「让你一小时背 2000 左右单词」，「可能是目前背单词速度最快的 App」，我表示怀疑，开发者回应：「平均 1.8 秒回忆一个单词」，你数学好 👍",
+          "link": "https://www.appinn.com/enbeidanci/",
+          "publishedOn": "2023-09-12T07:14:39.000Z",
+          "wordCount": 2589,
+          "title": "嗯背单词 – 一小时背 2000 单词、可能是目前背单词速度最快的 App",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/enbeidanci.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46412",
           "author": "青小蛙",
           "description": "最近收到一位同学的提问，想要找一款可以在任务栏看小说的工具… 虽然这样摸鱼有点累，但…安排。 事情是这样的，在青小蛙将问题发给微博网友之后，大家纷纷表示… 解决方案",
@@ -140,16 +150,6 @@
           "wordCount": 2541,
           "title": "Apps by Apple – 亲自下场，最全 Apple 自家 App 收录网页",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/apps-by-apple.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46356",
-          "author": "青小蛙",
-          "description": "有同学发来了新问题：「需求有点小众，想请问下有什么手机上小工具可以设置个不透明置顶横条，用来遮住视频字幕。不喜欢字幕分心，想把注意力更多集中在说话声上」。@Appinn 这里要先吐槽那些不支持外挂字幕",
-          "link": "https://www.appinn.com/block-the-subtitles/",
-          "publishedOn": "2023-09-03T07:06:08.000Z",
-          "wordCount": 2506,
-          "title": "求 Android 遮挡屏幕视频字幕区域工具｜屏幕工具箱",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/pingmugongjux.jpgo_.jpg"
         }
       ]
     },
@@ -182,6 +182,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11003",
+          "author": "张 鑫旭",
+          "description": "坚持探索Web标准下的原生浏览器开发行为，行为驱动和数据驱动的表单开发其实各有千秋，深入HTML，你会发现这个世界比你所知的要精彩的多。",
+          "link": "https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/",
+          "publishedOn": "2023-09-12T15:52:48.000Z",
+          "wordCount": 1088,
+          "title": "Tips：form元素reset后input不触发change事件处理",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=10983",
           "author": "张 鑫旭",
           "description": "相比于tinypng，我这个工具还自带尺寸设置功能，同时还可以控制压缩率，指定压缩格式，纯前端实现，高性能高效率。",
@@ -198,6 +208,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76061",
+          "author": null,
+          "description": "微软公布了 Windows Update 在四年内逐步禁用第三方打印机驱动的计划，此举旨在增强 Windows 生态系统的安全性，因为影响数以百计型号的打印机驱动漏洞常常被忽视数年之久，给用户造成严重安全隐患。Windows 未来将默认使用新的打印模式，禁用第三方打印驱动。从 2025 年起，微软将停止接受打印机供应商递交的驱动，Windows Update 将停止提供新的第三方打印机驱动。从 2026 年起，微软将修改打印机驱动排序，优先使用其开发的 Windows Internet Printing Protocol (IPP) Class 驱动。从 2027 年起，除了安全修正，Windows Update 将停止提供第三方打印机驱动更新。Windows 用户仍然可使用打印机制造商提供的独立安装包安装打印机驱动。",
+          "link": "https://www.solidot.org/story?sid=76061",
+          "publishedOn": "2023-09-12T13:31:50.000Z",
+          "wordCount": 173,
+          "title": "Windows Update 将禁止第三方打印机驱动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76060",
+          "author": null,
+          "description": "Google 释出紧急更新修复一个 Chrome 0day。Google 在安全公告中警告，被称为 CVE-2023-4863 的漏洞正被利用，但没有披露更多信息。Chrome 用户被建议尽快更新到 v116.0.5845.187 (Mac 和 Linux) 以及 v116.0.5845.187/.188(Windows)。CVE-2023-4863 属于 WebP 堆缓冲区溢出（heap buffer overflow）漏洞，会导致从崩溃到任意代码执行。苹果  Security Engineering and Architecture (SEAR)和多伦多大学公民实验室在 9 月 6 日报告了该漏洞。",
+          "link": "https://www.solidot.org/story?sid=76060",
+          "publishedOn": "2023-09-12T11:07:55.000Z",
+          "wordCount": 180,
+          "title": "Google 释出紧急更新修复正被利用的 Chrome 0day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76059",
+          "author": null,
+          "description": "预印本平台 arXiv 官方博客宣布它遭遇了 DDOS 攻击。过去几天一小部分用户发出了逾百万电邮变更请求。这些邮件来自 200 多个 IP 地址，几乎全部隶属于中国某个省的一家 ISP。如此多的确认电邮请求令其电邮服务器不堪重负，可能导致 arXiv 用户未能收到邮件。arXiv 正采取措施遏制攻击，包括屏蔽特定 IP 段，这可能会影响部分合法用户。arXiv 的开发和运营团队规模很小，没有能力对抗 DDOS 攻击。",
+          "link": "https://www.solidot.org/story?sid=76059",
+          "publishedOn": "2023-09-12T09:57:14.000Z",
+          "wordCount": 170,
+          "title": "arXiv 电邮服务遭遇源自中国的 DDOS 攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76058",
+          "author": null,
+          "description": "加州圣巴巴拉 Yasamin Mostofi 教授的实验室研究人员利用 WiFi 信号实现高质量静物成像。他们的方法运用了衍射几何理论和相应的凯勒锥（Keller cones）去追踪物体的边缘，首次实现了 WiFi 穿墙成像或阅读英文字母。Mostofi 教授称，缺乏运动使得 WiFi 静物成像颇具挑战性。通过跟踪物体边缘，他们使用了完全不同的方法解决了这一挑战性难题。他解释说，当给定波入射到边缘点，根据 Keller 的衍射几何理论，会出现被称为凯勒锥的外射线锥体。他们开发出一个数学框架，根据相应的凯勒锥去推断边缘的方向，创建其边缘图。",
+          "link": "https://www.solidot.org/story?sid=76058",
+          "publishedOn": "2023-09-12T09:21:30.000Z",
+          "wordCount": 162,
+          "title": "研究人员利用 WiFi 穿墙读取字母",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76057",
+          "author": null,
+          "description": "运营赌场和酒店的米高梅集团周一发表声明称遭遇了网络攻击，表示已经通知了执法部门，并立即采取措施保护\n系统和数据。目前尚不清楚是否是勒索软件攻击，攻击者是否是在与米高梅协商赎金。根据用户在社交媒体上的消息，米高梅的移动应用已经下线，赌场的信用卡机、ATM 机和进票机和出票机全部瘫痪。米高梅集团在拉斯维加斯的所有业务都受到影响。赌场和酒店官网都下线。目前网络攻击未影响到米高梅在澳门的业务。",
+          "link": "https://www.solidot.org/story?sid=76057",
+          "publishedOn": "2023-09-12T07:37:10.000Z",
+          "wordCount": 143,
+          "title": "米高梅遭网络攻击，大部分服务瘫痪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76056",
+          "author": null,
+          "description": "NASA 韦伯望远镜在系外行星 K2-18 b 大气层中发现了甲烷和二氧化碳等含碳分子。最新研究表明 K2-18 b 可能是一颗氢气海洋行星，拥有富含氢的大气层和水海洋覆盖的表面。K2-18 b 的母星 K2-18 是一颗冷矮星，位于狮子座，距离地球 120 光年。K2-18 b 的质量为地球的 8.6 倍，大小在地球和海王星之间，不同于太阳系的任何行星。部分天文学家认为氢气海洋行星有可能寻找到系外行星存在生命的证据。韦伯望远镜也许有可能在 K2-18 b 上发现二甲基硫醚（dimethyl sulfide），在地球上，\n二甲基硫醚是由生命产生的。地球大气层中绝大部分二甲基硫醚来自海洋中的浮游植物。",
+          "link": "https://www.solidot.org/story?sid=76056",
+          "publishedOn": "2023-09-12T07:12:58.000Z",
+          "wordCount": 163,
+          "title": "韦伯望远镜在系外行星大气层发现甲烷和二氧化碳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76055",
+          "author": null,
+          "description": "通过 Google Play 传播的恶意版 Telegram 在被 Google 下架前下载了逾六万次。恶意版本主要针对中文用户，感染之后会通过间谍软件窃取用户消息和通讯录等数据。恶意版 Telegram 被宣传是原版更快的替代。它们表面上与原版相同，但加入了窃取用户数据的代码。恶意版本包括了名叫 com. wsys 的包，能访问用户的联系人，收集用户名、用户 ID 和电话号码。当用户收到消息时，间谍软件会向位于 sg[.]telegrnm[.]org 指令控制服务器发送副本。恶意版本的包名称为 org.telegram.messenger.wab 和 org.telegram.messenger.wob，原版是 org.telegram.messenger.web。今年早些时候安全研究人员还发现了恶意版本的 Signal 和 WhatsApp，也被认为主要针对中文用户。",
+          "link": "https://www.solidot.org/story?sid=76055",
+          "publishedOn": "2023-09-12T05:54:47.000Z",
+          "wordCount": 184,
+          "title": "通过 Google Play 传播的恶意版 Telegram 被下载了逾六万次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76054",
+          "author": null,
+          "description": "OpenSSL 1.1.1 系列结束支持，意味着未来将不再提供公开可用的安全修正。OpenSSL 1.1.1 是在 2018 年 9 月 11 日发布的，作为长期支持版本提供了五年的支持，2023 年 9 月 11 日结束寿命。操作系统供应商或第三方所提供的 OpenSSL 1.1.1 支持时间可能不同于 OpenSSL 项目本身。如果用户是从 OpenSSL 项目下载的 OpenSSL 1.1.1，那么是时候更新到较新版本。OpenSSL 的最新版本是 OpenSSL 3.1。",
+          "link": "https://www.solidot.org/story?sid=76054",
+          "publishedOn": "2023-09-12T05:37:09.000Z",
+          "wordCount": 176,
+          "title": "OpenSSL 1.1.1 结束支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76053",
+          "author": null,
+          "description": "FBI 有一个问题。它在 2019 年秘密运营了名为 Anom 的加密手机公司。该手机被有组织犯罪分子广泛使用。它包含有后门，能悄悄的复制和转发每一条“加密”消息。但问题是 FBI 没有获得法律授权去查看它收集的加密消息。FBI 因此求助于所谓的“第三国”，该国允许 FBI 绕过这一法律障碍。这个国家为 FBI 托管了 Anom 的拦截服务器，每周一、三和五向 FBI 提供 Anom 的信息。该国不想被曝光，要求对其参与一事保密。法庭文件称这个国家是欧盟成员国。根据 404 Media 从消息来源获得信息，这个国家是立陶宛。",
+          "link": "https://www.solidot.org/story?sid=76053",
+          "publishedOn": "2023-09-12T05:08:15.000Z",
+          "wordCount": 171,
+          "title": "立陶宛为 FBI 秘密监听世界",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76052",
+          "author": null,
+          "description": "马斯克的 X 公司提起诉讼，寻求阻止加州的内容审核法律 AB 587 生效。该法律于 2022 年 9 月通过，要求社交媒体平台每半年向加州总检察长递交报告，提供内核审核方法的细节，以及如何定义和审核仇恨言论或种族主义、极端主义或激进化、虚假或错误消息、骚扰和外国政治干预等类别的信息。此外社交平台还需要提供针对此类信息所采取的内容审核行动的统计数据。社媒平台需要从 2023 年第三季度开始收集数据，2024 年 1 月 1 日前递交首份报告。违反者将面临罚款。X 公司在诉讼中称，加州政府试图摆布其服务条款，强迫引起争议的披露其如何审核内容。X 公司认为 AB 587 违反了宪法第一修正案，如果法院不阻止该法律，那么加州政府将有权向企业施压，要求删除加州政府不喜欢的内容。AB 587 法案的提出者 Jesse Gabriel 议员表示该法律旨在提高透明度，没有要求任何具体的内容审核政策。如果 X 没有什么可隐瞒，那么它不应该反对该法案。",
+          "link": "https://www.solidot.org/story?sid=76052",
+          "publishedOn": "2023-09-12T03:10:59.000Z",
+          "wordCount": 173,
+          "title": "X 公司正寻求阻止加州的内容审核法律",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76051",
           "author": null,
@@ -946,16 +1056,6 @@
           "publishedOn": "2023-09-03T15:52:59.000Z",
           "wordCount": 198,
           "title": "我们正目睹 Googe 宇宙的终结",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75976",
-          "author": null,
-          "description": "微软宣布未来发布的 Windows 将移除写字板应用。写字板应用最早是随 Windows 95 一起发布的，是一种简单的文字处理器，它的功能强于记事本但弱于 Microsoft Word。微软现在推荐用户将 Microsoft Word 用于富文本文件如.doc 和.rtf 的处理，将记事本用于纯文本文件如 .txt 的处理。Microsoft Word 是付费应用，它的开源替代 LibreOffice 最近释出了 v7.6。",
-          "link": "https://www.solidot.org/story?sid=75976",
-          "publishedOn": "2023-09-03T13:25:46.000Z",
-          "wordCount": 160,
-          "title": "微软淘汰写字板应用",
           "imageUrl": null
         }
       ]
