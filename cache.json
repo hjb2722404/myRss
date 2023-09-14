@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46443",
+          "author": "青小蛙",
+          "description": "就是很离谱，居然有这种网站： 就…太离谱了。 它除了帮你显示倒计时以外，也没有声音提醒，字还那么小，选起来好难 🙈 我不知道它能干什么，真用来吃火锅嘛 😂 但是很好玩啊 获取 原文：htt",
+          "link": "https://www.appinn.com/shuanhuoguo/",
+          "publishedOn": "2023-09-13T13:10:17.000Z",
+          "wordCount": 2592,
+          "title": "居然有这种网站？涮火锅啦",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/Appinn-2023-09-13T205712.803.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=46445",
+          "author": "青小蛙",
+          "description": "ta 来了 系列第二篇，以及距离上次的汇总只过了 14 天。 这是一个青小蛙准备尝试的新系列：ta 来了，目前的想法是把前一日或者几日的消息汇总一下，尤其是发现频道内容有点多，来不及发布的情况下。就不",
+          "link": "https://www.appinn.com/ta-coming-2/",
+          "publishedOn": "2023-09-13T08:54:04.000Z",
+          "wordCount": 2789,
+          "title": "ta 来了2：iPhone 15 挤着牙膏来了、AHK v2 中文离线文档、自制 Win98 复古扫雷、IPv6 内网反代、免费 Stable Diffusion XL",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/ta-is-here.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46439",
           "author": "青小蛙",
           "description": "嗯背单词是一款 iPhone 背单词应用，开发者说「让你一小时背 2000 左右单词」，「可能是目前背单词速度最快的 App」，我表示怀疑，开发者回应：「平均 1.8 秒回忆一个单词」，你数学好 👍",
@@ -130,26 +150,6 @@
           "wordCount": 2509,
           "title": "贝纳姆转盘：体验大脑被骗的那一刻：著名视错觉，黑白变彩色",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/Appinn-feature-images-2023-09-05T114728.411.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46378",
-          "author": "青小蛙",
-          "description": "ALog 是一款支持 iPhone、Apple Watch 的开源语音日记应用，带有 AI 功能，可以实现录音之后的语音转文字，以及 AI 总结两个功能，让你每日不停的碎碎念之后，还能有一篇完整的文字",
-          "link": "https://www.appinn.com/alog/",
-          "publishedOn": "2023-09-04T08:59:29.000Z",
-          "wordCount": 2573,
-          "title": "ALog – 开源 AI 语音日记：每日碎碎念，AI 帮你转录及总结，变为文字日记",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/appinn-feature-images-2023-09-04t160443-071.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46374",
-          "author": "青小蛙",
-          "description": "Apps by Apple 是苹果最近发布的一个「Apple 推出的应用程序」网页，收录了由 Apple 发布的众多应用，并可以通过设备、分类来筛选，除了耳熟能详的 Photos（照片）、Camera",
-          "link": "https://www.appinn.com/apps-by-apple/",
-          "publishedOn": "2023-09-04T04:16:08.000Z",
-          "wordCount": 2541,
-          "title": "Apps by Apple – 亲自下场，最全 Apple 自家 App 收录网页",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/apps-by-apple.jpgo_.jpg"
         }
       ]
     },
@@ -208,6 +208,166 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76077",
+          "author": null,
+          "description": "Mozilla 释出紧急更新修复了一个正被利用的 0day 漏洞，该漏洞影响 Firefox 和 Thunderbird。漏洞编号为 CVE-2023-4863，由 WebP 库(libwebp)中的堆缓冲区溢出引起，会导致崩溃到任意代码执行，攻击者能通过恶意 WebP 图像利用该漏洞。Mozilla 释出了 Firefox 117.0.1、Firefox ESR 115.2.1、Firefox ESR 102.15.1、Thunderbird 102.15.1 和 Thunderbird 115.2.2 修复漏洞。漏洞利用的细节尚未披露。",
+          "link": "https://www.solidot.org/story?sid=76077",
+          "publishedOn": "2023-09-13T15:18:48.000Z",
+          "wordCount": 176,
+          "title": "Mozilla 释出紧急更新修复正被利用的 Firefox 0day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76076",
+          "author": null,
+          "description": "卡巴斯基研究人员披露了一个秘密植入后门三年之久的 Linux 应用 Free Download Manager。网站  freedownloadmanager[.]org 向 Linux 用户提供应用 Free Download Manager，但从 2020 年开始，该域名会不定时的将用户重定向到另一个域名 deb.fdmpkg[.]org 下载恶意版本。恶意版本包含了脚本会下载两个可执行文件到 /var/tmp/crond 和 /var/tmp/bs 中，脚本然后使用 cron 定时任务调度器每 10 分钟执行一次 /var/tmp/crond 中的文件，这意味着设备被永久植入了后门。安全研究人员发现，攻击者会收集系统信息、浏览历史、保存的密码、加密钱包文件以及云服务（AWS、Google Cloud、Oracle Cloud Infrastructure 和 Azure）凭证等数据，将窃取的数据上传到其控制的服务器。恶意域名的重定向在 2022 年结束，该行动目前处于不活跃状态。",
+          "link": "https://www.solidot.org/story?sid=76076",
+          "publishedOn": "2023-09-13T15:04:28.000Z",
+          "wordCount": 194,
+          "title": "Linux 应用 Free Download Manager 秘密植入后门三年之久",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76075",
+          "author": null,
+          "description": "英特尔宣布了它的新一代通用总线 Thunderbolt 5。Thunderbolt 5 将支持 80 Gbps 的双向带宽，两倍于 Thunderbolt 4；加上 40 Gbps 的下游带宽 Thunderbolt 5 的 Bandwidth Boost 最高能达到 120Gbps。它还支持最高 240 瓦功率。Thunderbolt 从第三代开始使用 USB Type-C (USB-C) 端口。它的应用场景包括了扩展坞站、外接显示器、外置显卡等等。",
+          "link": "https://www.solidot.org/story?sid=76075",
+          "publishedOn": "2023-09-13T14:26:55.000Z",
+          "wordCount": 175,
+          "title": "英特尔宣布 Thunderbolt 5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76074",
+          "author": null,
+          "description": "在周三外交部例行新闻发布会上，发言人毛宁回应了日本记者有关部分中国政府机关禁止使用苹果手机的提问。毛宁称，“中国没有出台禁止购买和使用苹果等外国品牌手机的法律法规和政策文件。但我们近期确实注意到，有媒体曝出苹果手机有关安全事件。中国政府高度重视网络和信息安全，对内外资企业一视同仁、平等对待。我们希望在华经营的所有手机企业都能够严格遵守《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》等法律法规，加强信息安全管理，保护消费者存储在手机中的数据不被任何个人、任何组织窃取，确保信息安全。”",
+          "link": "https://www.solidot.org/story?sid=76074",
+          "publishedOn": "2023-09-13T13:25:09.000Z",
+          "wordCount": 141,
+          "title": "外交部回应苹果手机被限制使用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76073",
+          "author": null,
+          "description": "对创业公司 Chingmu 的创始人 Zhang Haiwei 而言，构建自己的大语言模型（LLM）是不现实的。你需要几亿美元资金，需要与遥遥领先的科技巨头们展开竞争。在 AI 热兴起前，百度和科大讯飞等公司早就对大模型之类的 AI 系统展开了多年研究。Zhang 的公司专注于 AI 应用，利用 OpenAI 的模型去分析人和物如何移动，将其应用于动画和运动训练。他认为今年是 AI 内卷化的一年。内卷是中国流行的一个术语，描述了一种疯狂竞争的状态，每个人都愈来愈辛苦的工作，但回报愈来愈少。AI 行业的新人即使有足够的资金，也不太可能脱颖而出。在 AI 领域，成本之外还有计算能力和计算芯片供应的挑战。与硅谷的同行一样，中国的创业公司也掀起了 AI 热。AI 被普遍认为将给科技行业和整个经济带来一场革命。但它们很快就回归现实。革命性的应用尚未出现，训练 AI 使用的芯片则面临短缺，限制了增长。在日益挑战性的经济环境中，AI 面临更多的内卷。",
+          "link": "https://www.solidot.org/story?sid=76073",
+          "publishedOn": "2023-09-13T13:16:10.000Z",
+          "wordCount": 174,
+          "title": "中国的 AI 热回归现实",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76072",
+          "author": null,
+          "description": "Google、IBM、亚马逊等公司正在建造基于超导电路的量子计算机，其中超导电路需要冷却到接近绝对零度。这些量子计算机依赖于名为 dilution refrigerators 的制冷系统将温度冷却到 1K 或以下。制冷系统复杂而庞大笨重。现在芬兰科学家报告他们正在开发纯电子制冷法，更小更简单，功耗是现有系统的十分之一。电子制冷有望大幅缩小量子计算机的体积。新制冷系统使用电子形式散热。科学家正在开发一种商业演示系统，该项目获得了欧盟的资助。",
+          "link": "https://www.solidot.org/story?sid=76072",
+          "publishedOn": "2023-09-13T10:52:20.000Z",
+          "wordCount": 146,
+          "title": "电子制冷有望大幅缩小量子计算机的体积",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76071",
+          "author": null,
+          "description": "9 月 4 日形成的地中海飓风丹尼尔（Storm Daniel）给利比亚造成了灾难性影响，逾五千人死亡，数万人失踪，死亡人数还在继续攀升。利比亚地方当局周二表示，暴雨导致沿海城市德尔纳附近的两座大坝决堤，该市大部分地区被毁，多处社区被完全卷入海中。利比亚由两个敌对政权分治，这导致救灾援助工作更加复杂。管理利比亚东部的政府的内政部发言人表示，仅在德尔纳市就有至少 5200人 死亡。但洪水还淹没了东部其它聚居地，包括沙哈特、贝达和马吉，至少有 2 万民众流离失所。分析人士称，利比亚政治分裂、经济不稳定、腐败、环境恶化和基础设施破败的种种问题似乎都在德尔纳南部大坝垮塌后的灾难中同时爆发出来了。",
+          "link": "https://www.solidot.org/story?sid=76071",
+          "publishedOn": "2023-09-13T10:00:19.000Z",
+          "wordCount": 150,
+          "title": "利比亚洪灾致逾五千人死亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76070",
+          "author": null,
+          "description": "制造诺基亚品牌手机的芬兰公司 HMD 宣布将推出自有品牌智能手机。HMD Global CEO Jean-Francois Baril 表示，新的 HMD 品牌将和诺基亚品牌共存，将与新的伙伴携手合作，但更多细节没有披露。HMD Global 成立于 2016 年，当时微软将原诺基亚的手机业务出售给了鸿海旗下公司，HMD Global 则获得了诺基亚品牌未来 10 年独家使用权，它的诺基亚品牌手机都是由鸿海富士康制造的。",
+          "link": "https://www.solidot.org/story?sid=76070",
+          "publishedOn": "2023-09-13T09:02:39.000Z",
+          "wordCount": 166,
+          "title": "诺基亚手机制造商 HMD 推出自有品牌智能手机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76069",
+          "author": null,
+          "description": "苏黎世联邦理工学院和卢塞恩应用科学与艺术大学的学生手工打造的电动赛车 mythen 打破了汽车加速世界纪录。电动汽车从零加速到时速百公里仅用时 0.956 秒。该记录已获得吉尼斯认证。此前的记录是由德国斯图加特大学团队在 2022 年 9 月创造的，他们的电动汽车从零加速到时速百公里耗时 1.461 秒，新记录减少了 0.5 秒。mythen 的所有组件，从 PCB 到底盘和电池，都是由学生开发的，并对其功能进行了优化。赛车的重量仅为 140 公斤，动力系统功率为 240 千瓦。",
+          "link": "https://www.solidot.org/story?sid=76069",
+          "publishedOn": "2023-09-13T08:00:48.000Z",
+          "wordCount": 168,
+          "title": "电动汽车从零加速到时速百公里仅用时 0.956 秒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76068",
+          "author": null,
+          "description": "在  Unity 引擎宣布备受争议的新付费模式的同时，它的竞争对手、开源游戏引擎项目 Godot 宣布成立开发基金，帮助开发者获得稳定的资金来源，确保项目的长寿。开发基金有 7 个级别：从青铜到钻石到赞助，最低资助为每月 5 欧元。Godot 基金会注册地点是欧洲的荷兰，它今年早些时候释出了 v4.0 版本。在 Unity 公布基于安装量的收费模式后，部分游戏项目正在考虑采用 Godot 引擎。",
+          "link": "https://www.solidot.org/story?sid=76068",
+          "publishedOn": "2023-09-13T06:58:38.000Z",
+          "wordCount": 160,
+          "title": "Godot 引擎项目宣布成立开发基金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76067",
+          "author": null,
+          "description": "Valve 于 2003 年 9 月 12 日推出了 Steam。Valve 开发的备受期待的 FPS 游戏《半衰期2》必须安装 Steam 客户端才能运行，当时这一做法曾引发很多争议。今天通过 Steam 平台访问游戏对绝大部分 PC 玩家而言已经像是呼吸空气那样理所当然的事情了。Steam 彻底改变了 PC 游戏市场，也改变了 Valve，它从一家游戏工作室转变成为了游戏零售行业的霸主，以至于它现在很少开发新游戏，二十年后《半衰期2》的续作仍然没有诞生。作为庆祝活动的一部分，Valve 在 Steam 上回顾了过去二十年的热门游戏。",
+          "link": "https://www.solidot.org/story?sid=76067",
+          "publishedOn": "2023-09-13T06:09:20.000Z",
+          "wordCount": 170,
+          "title": "Steam 庆祝发布二十周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76066",
+          "author": null,
+          "description": "备受瞩目的 Google 反垄断诉讼案周二开庭。Google 律师称，企业选择 Google 作为浏览器和智能手机的默认搜索引擎是因为它是最好的，而不是因为缺乏竞争。代表搜索巨人的 Williams & Connolly LLP 律所合伙人John Schmidtlein 反驳了美国司法部的说法，也就是指 Google 利用其市场支配力量和数十亿美元与浏览器开发商达成的独占协议，非法的阻止了竞争对手。Schmidtlein 称用户是有选择的，很容易切换默认搜索引擎。比如微软在 Windows 上的默认搜索引擎是 Bing，但用户切换到 Google 是因为它是搜索市场上更好的产品。他表示，苹果和 Firefox 的开发商 Mozilla 长期以来都通过默认搜索引擎交易换取收入分成，帮助支付创新上的开支。",
+          "link": "https://www.solidot.org/story?sid=76066",
+          "publishedOn": "2023-09-13T03:48:43.000Z",
+          "wordCount": 169,
+          "title": "Google 称它的搜索引擎是最好的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76065",
+          "author": null,
+          "description": "苹果在周二举行的新闻发布会上宣布了采用 USB-C 端口的 iPhone 15 系列新品。iPhone 15 的价格比上一代更贵，将于 9 月 15 日开放预购，9 月 22 日发售，其中 iPhone 15 起售价 5999 元，iPhone 15 Pro 7999 元。iPhone 15 配备了 6.1 英寸或 6.7 英寸的 OLED 全面屏，A16 仿生芯片采用台积电 3 纳米工艺制造，包括 6 核 CPU(2 性能 4 能效)和5 核 GPU 以及 16 核神经网络引擎，主摄像头 4800 万像素。值得一提的是，iPhone 15 Pro 的 USB-C 配的是 USB 3 线，传输速度最高 10 Gbps，而非 Pro 版配的是 USB 2.0 线，传输速度最高 480 Mbps，这在 2023 年是难以想象的。",
+          "link": "https://www.solidot.org/story?sid=76065",
+          "publishedOn": "2023-09-13T03:25:30.000Z",
+          "wordCount": 223,
+          "title": "苹果发布采用 USB-C 的 iPhone 15",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76064",
+          "author": null,
+          "description": "被广泛用于制作手游、独立游戏的引擎 Unity 宣布了新的付费模式：从 2024 年 1 月 1 日起将根据游戏的安装量引入版税或者叫新的 Unity Runtime 费用。Unity Personal 和 Unity Plus 用户过去 12 个月的收入达到或超过 20 万美元，且达到了20 万次的游戏生命周期内的安装量需要支付 Unity Runtime 费用。Unity Pro 和 Unity Enterprise 用户的门槛则提高到 100 万。超过门槛之后，每次安装将需要支付 $0.20（Personal 和 Plus 用户）或最低 $0.01（Enterprise 用户）。这意味着游戏开发商的成本将显著增加。米哈游的《原神》就是用 Unity 引擎开发的。",
+          "link": "https://www.solidot.org/story?sid=76064",
+          "publishedOn": "2023-09-12T16:01:14.000Z",
+          "wordCount": 184,
+          "title": "Unity 引入基于安装量的版税收费模式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76063",
+          "author": null,
+          "description": "1935 年，两位当时最著名的物理学家爱因斯坦和薛定谔就现实本质产生了争论。爱因斯坦认为宇宙是局域性的，一个地方发生的事情不会立即影响遥远的另一个地方。薛定谔认为量子纠缠与局域性的假设相悖。当一对粒子发生纠缠时，测量其中一个粒子会立即影响到另一个粒子，无论它身在何处。这违背了爱因斯坦关于传播速度无法超越光速的铁令。爱因斯坦不喜欢不受范围限制的纠缠，他将其称之为幽灵，认为量子力学理论是不完整的。今天的物理学家基本上解决了该问题，纠缠不会在遥远的地方产生立即的影响，它无法在遥远距离上实现特定结果：它只是传播该结果的知识。过去几年一系列的理论和实验研究揭示了纠缠的新面孔：它不是成对出现，而是以粒子星图的形式出现。纠缠通过一组粒子自然传播，建立了一个复杂的临时网。如果你测量粒子的频率足够多，你能阻止网的形成。这种网状非网状的状态令人想起物质的液态固态。网状与非网状的转变代表着信息结构的变化，这是信息的相变。",
+          "link": "https://www.solidot.org/story?sid=76063",
+          "publishedOn": "2023-09-12T15:30:07.000Z",
+          "wordCount": 142,
+          "title": "物理学家观测到“不可观测”的量子相变",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76062",
+          "author": null,
+          "description": "被命名为 WiKI-Eve 的新型攻击能拦截智能手机通过 WiFi 传输的明文信号，以最高九成的正确率推断出单个数字按键，从而窃取到数字密码。WiKI-Eve 利用了 2013 年随 WiFi 5 (802.11ac) 引入的一项功能 BFII(beamforming feedback information)，该功能允许设备向路由器发送有关其位置的反馈，让路由器更精确的引导信号。BFI 交换的是明文形式的数据，意味着它无需专门的硬件或破解加密密钥就能拦截和使用数据。来自中国和新加坡的一组大学研究人员发现，他们能以九成的正确率破译单个数字按键，以 85% 的正确率破译 6 位数字密码。攻击仅适用于数字密码，而且必须是在密码输入期间拦截 WiFi 信号，这是一种实时攻击。攻击者还需要使用 MAC 地址等识别目标。",
+          "link": "https://www.solidot.org/story?sid=76062",
+          "publishedOn": "2023-09-12T14:12:59.000Z",
+          "wordCount": 180,
+          "title": "新 WiKI-Eve 攻击能窃取通过 WiFi 传输的数字密码",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76061",
           "author": null,
@@ -967,96 +1127,6 @@
           "wordCount": 160,
           "title": "Cruise 无人出租车被指阻挡了救护车延误了救治时间",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75985",
-          "author": null,
-          "description": "在  6个月的时间里，当一种香味每晚在老年人的卧室里飘两个小时时，他们的记忆就会激增。事实上，在这项研究中，参与者的认知能力比对照组提高了 226%。研究人员此前发现，中度痴呆症患者在一段时间内每天两次接触多达 40 种不同的气味，可以提高他们的记忆力和语言技能，缓解抑郁，并提高他们的嗅觉能力。研究团队决定尝试将这些知识转化为一种简单且非侵入性的痴呆症治疗工具。研究人员表示，他们的研究结果证实了科学家们关于嗅觉和记忆之间联系的认识。研究小组下一步将研究该技术对诊断为认知丧失的人的影响。研究人员还表示，他们希望这一发现将导致对嗅觉治疗记忆障碍的更多研究。根据他们的研究，一款专为人们在家使用而设计的产品预计将于今年秋天上市。",
-          "link": "https://www.solidot.org/story?sid=75985",
-          "publishedOn": "2023-09-04T10:27:03.000Z",
-          "wordCount": 146,
-          "title": "研究发现香味能显著提升老年人的认知能力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75984",
-          "author": null,
-          "description": "华中师范大学黄双全教授团队的一项研究发现，地球九成开花植物依赖动物传粉。此前的评估估计，87.5% 的被子植物种是动物传粉的。该研究的方法是基于 40 多个群落中动物传粉的植物物种比例的平均值推断，群落中的物种总数约为有花植物（即被子植物）的 1%，即涉及的植物类群少。研究团队注意到另外一个问题，过去的报道中错误判断了一些植物类群的传粉模式，人们对一些植物的传粉模式存在误解，这将误导人们对真正依赖动物传粉的植物提出合理的保护措施，乃至影响有花植物传粉方式的精准统计。例如，昆栏树科的水青树是中国的本土植物，有绿色下垂的花序，文献中认为该种是风媒传粉，然而团队在湖北神农架实地观察到其花分泌相当体积的花蜜吸引了小型蜂类频繁访花，有效地传递水青树的花粉。研究团队分析结果表明，在有花植物中，64-68% 的科，88%的 属和 90% 的种依赖于动物传粉。",
-          "link": "https://www.solidot.org/story?sid=75984",
-          "publishedOn": "2023-09-04T10:17:46.000Z",
-          "wordCount": 151,
-          "title": "地球九成开花植物依赖动物传粉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75983",
-          "author": null,
-          "description": "根据 Interisle Consulting Group 的研究，美国国家顶级域名 .US 被广泛用于钓鱼攻击。研究人员分析了 2022 年 5 月 1 日至 2023 年 4 月 30 日期间的 600 万份钓鱼攻击报告，发现了 30,000 个 .US 钓鱼域名。其它主要国家的域名很少像 .US 那样广泛用于钓鱼。.US 由美国商务部的国家电信资讯管理局（NTIA）监管，但 NTIA 将其外包给了最大的域名注册商 GoDaddy。NTIA 要求 GoDaddy 采取措施确保域名注册者居住在美国或在美国有组织机构。GoDaddy 显然在这方面有欠缺。",
-          "link": "https://www.solidot.org/story?sid=75983",
-          "publishedOn": "2023-09-04T10:01:50.000Z",
-          "wordCount": 183,
-          "title": "美国国家域名 .US 被广泛用于钓鱼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75982",
-          "author": null,
-          "description": "大多数阴谋论驱动的运动背后的秘密是，他们的信仰核心包含有一丝的真实性。举例来说，反疫苗者将大型制药公司过去的行为作为医疗机构不可信任的证据。加密货币批评者 Ben McKenzie 表示，这一丝的真实性就是来骗你的。他说，加密货币社群做对的一件事是指出现有的金融制度存在严重缺陷。加密货币兴起于 2008 年金融危机之后并非巧合。所有人都同意，现有的金融和经济体系问题很多。而加密货币倡导人士说：我们可以解决所有问题。是的，我们可以解决这个问题——然后你们会变得非常富有。McKenzie 认为加密货币是史上最大的庞氏骗局。",
-          "link": "https://www.solidot.org/story?sid=75982",
-          "publishedOn": "2023-09-04T09:22:54.000Z",
-          "wordCount": 147,
-          "title": "为什么说加密货币是史上最大的庞氏骗局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75981",
-          "author": null,
-          "description": "美国佛罗里达人没有想到，在飓风 Idalia 袭击之后，他们的电动汽车或混动汽车会突然起火。当地消防部门发出警告，如果他们的汽车在过去二十四小时内接触到了飓风洪水带来的盐水，那么最好立即将汽车转移出车库。该警告适用于所有使用锂离子电池的车辆，包括电动滑板车和电动自行车。原因是海水中的盐分在干了之后会连接电池单元，制造短路导致起火。",
-          "link": "https://www.solidot.org/story?sid=75981",
-          "publishedOn": "2023-09-04T07:09:21.000Z",
-          "wordCount": 143,
-          "title": "电动汽车被海水浸泡可能会起火",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75980",
-          "author": null,
-          "description": "发表在《自然》期刊上的一项研究发现，过去二十年地球海洋的颜色发生了变化。曾经的深蓝色正在消失，愈来愈多的地方变绿了。研究人员分析了逾二十年的卫星观测数据，发现 56% 的海洋表面比二十年前更绿了。研究人员认为颜色的变化将影响海洋的食物网。气候变化可能是这一变化的主因，但研究认为颜色变化可能与海洋表面温度上升没有关联。研究人员认为需要展开更深入的研究。",
-          "link": "https://www.solidot.org/story?sid=75980",
-          "publishedOn": "2023-09-04T06:51:41.000Z",
-          "wordCount": 144,
-          "title": "研究发现地球海洋的颜色发生了变化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75979",
-          "author": null,
-          "description": "和心理学一样，历史学这一领域同样存在“重复性危机”。历史学者乐于根据片段的历史去讲述一个个具有戏剧性效果的故事，因为故事能引人关注并产生影响。但故事是事实的过滤器，它们丢弃了所有不符合故事的事实，只留下叙事者想要我们关注的内容。从这个意义上说，它们就像是意识形态。故事与随机性或结构性力量是不兼容的，它们依赖因果链和个人动机。新冠是不可能偶然出现的。它是某种阴谋。阴谋论不是理论，阴谋论其实就是故事。故事对我们怀疑和质疑的能力产生了麻醉作用。如果你阅读的历史书讲述了一个伟大的故事，这个故事巧妙的融入了你已经相信的主导叙事之中，那么你需要更多怀疑它的真实价值。",
-          "link": "https://www.solidot.org/story?sid=75979",
-          "publishedOn": "2023-09-04T06:38:48.000Z",
-          "wordCount": 141,
-          "title": "历史学领域的重复性危机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75978",
-          "author": null,
-          "description": "切尔诺贝利核事故后，德国野生动物体内的辐射水平大增。最近几年动物的辐射水平在下降，但野猪是例外。为什么德国和奥地利野猪体内的放射性同位素铯-137 的水平仍然惊人的高，而鹿和狍子却下降了？现在科学家破解这一谜团：放射性来源不是切尔诺贝利核事故，而是 1960 年代的核武器试验。研究人员分析了野猪体内铯的水平和来源。对收集的约 50 个样本的分析显示， 88% 的样本超过了德国对食品中放射性铯的监管标准。通过计算放射性同位素铯-135 和铯-137 的比例，研究人员发现核武器试验造成的污染占到了 10%-68%。研究人员猜测野猪可能从受污染的鹿松露蘑菇中摄入了铯。核武器试验和切尔诺贝利事故释放的放射性铯通过土壤扩散，被蘑菇吸收。",
-          "link": "https://www.solidot.org/story?sid=75978",
-          "publishedOn": "2023-09-04T05:20:49.000Z",
-          "wordCount": 152,
-          "title": "科学家破解德国野猪高放射性之谜",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=75977",
-          "author": null,
-          "description": "我们正目睹 Googe 宇宙的终结。过去二十年 Google 搜索是决定在线内容受欢迎度的无形之手。现在种种迹象显示 Google 宇宙的巅峰正在结束，或者已经结束。愈来愈多的人抱怨 Google 的搜索不再像以前那样精确。大型封闭式算法驱动社交网络如 Meta 的 Facebook 和 Instagram 的兴起，从 2010 年代起逐渐蚕食开放互联网。TikTok 之类的算法驱动视频社交网络被新一代网民用作主搜索引擎。Google Reader 在 2013 年关闭，博客圈的最后痕迹随之消失。Google Groups 的搜索功能多年来一直故障频频，博客服务 Blogger 仍然还在运作，但没有了 Google Reader 作为聚合中心，大多数内容创作者在 Facebook 和 Instagram 以及 TikTok 等平台上发表原创内容。开放互联网的可发现性一直受到侵蚀。最近围绕 Reddit 第三方 API 访问的抗议表明，更多的人将 Google 作为 Reddit 内容的搜索引擎。Google 在科技巨头中的地位在下滑，有人甚至承认应该给与苹果地图第二次机会，在几年前这是无法想象的。OpenAI ChatGPT 的巨大成功迫使 Google 与微软在构建一种完全不同类型的搜索上展开竞争。这一切可追溯到 Google 在网络广告上的巨大成功。",
-          "link": "https://www.solidot.org/story?sid=75977",
-          "publishedOn": "2023-09-03T15:52:59.000Z",
-          "wordCount": 198,
-          "title": "我们正目睹 Googe 宇宙的终结",
-          "imageUrl": null
         }
       ]
     },
@@ -1145,16 +1215,6 @@
           "publishedOn": "2023-09-08T14:25:00.000Z",
           "wordCount": 115,
           "title": "Ironman is now a Browserling customer!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/labor-day-sale",
-          "author": null,
-          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated Labor Day sales campaign.\nNow each year, on the Labor day, we show a 50% discount offer to all users who visit our site.\nThis year it runs on September 4th, next year on September 2nd, etc\nHere's how it looks.\nRun automated sales too and see you next time!",
-          "link": "https://catonmat.net/labor-day-sale",
-          "publishedOn": "2023-09-04T09:11:00.000Z",
-          "wordCount": 156,
-          "title": "Labor Day Sale",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
