@@ -2,10 +2,200 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-09-20T02:17:55.113Z</updated>
+    <updated>2023-09-21T02:17:00.418Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人类出现后物种灭绝速度加快了 35 倍]]></title>
+        <id>https://www.solidot.org/story?sid=76145</id>
+        <link href="https://www.solidot.org/story?sid=76145"/>
+        <updated>2023-09-20T15:52:48.000Z</updated>
+        <summary type="html"><![CDATA[人类祖先一度濒临灭绝，但如今人类占到了整个地球哺乳动物总数的 36%，为养活人类而饲养的哺乳动物占到了六成，野生哺乳动物仅仅只有 4%。根据发表在 PNAS 期刊上的一项研究，对过去 500 年 5400 个脊椎动物属的 34600 个物种的分析显示，有 73 个属灭绝，比之前 6500 万年的灭绝速度快了 35 倍。至少三分之一的已知脊椎动物数量在减少，20 世纪初大象有 1000 万头，如今不足 50 万头，而且在许多国家消失了。除了增加动物和人类之间的疾病传播（如新冠），生物多样性的丧失和对野生空间的过度开发在加剧能用于改善人类健康的资源的破坏。比如已灭绝的胃育蛙(Rheobatrachus)本有助于胃回流和相关癌症的研究。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FTX 起诉 Sam Bankman-Fried 的父母]]></title>
+        <id>https://www.solidot.org/story?sid=76144</id>
+        <link href="https://www.solidot.org/story?sid=76144"/>
+        <updated>2023-09-20T15:19:16.000Z</updated>
+        <summary type="html"><![CDATA[加密货币交易所 FTX 去年底申请破产保护，正在清算资产的新管理层向特拉华州破产法庭起诉了前 CEO Sam Bankman-Fried（SBF） 的父母，试图追回 SBF 赠送给父母的价值千万美元的房产和挪用的数以百万计的资金。SBF 的父母 Allan Joseph Bankman 和 Barbara Fried 都是斯坦福大学的法学教授。起诉书引用 Joseph Bankman 的邮件称，他曾向其儿子游说大幅提高自己的薪水，而 SBF 随后从 Alameda 向其父母赠送了一千万美元，并在巴拿马向父母赠送了价值 1640 万美元的豪华房产。他的父母还推动了数千万美元的政治和慈善捐款，其中向斯坦福大学的捐款被认为旨在提升两人的职业和社会地位。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南极海冰面积创新低]]></title>
+        <id>https://www.solidot.org/story?sid=76143</id>
+        <link href="https://www.solidot.org/story?sid=76143"/>
+        <updated>2023-09-20T14:03:51.000Z</updated>
+        <summary type="html"><![CDATA[卫星数据显示，9 月中旬南极洲的海冰面积创下历史新低。截至 17 日，卫星数据显示，南极洲周围仅存在1689.2 万平方公里的海冰，比 9 月份的平均海冰面积少了 150 万平方公里，也远低于之前的南极冬季记录低点。南极洲在很多方面都受到全球变暖的影响。自 1950 年代以来，南极洲年平均气温上升了 3.2℃，变暖速度是全球平均水平的 3 倍多。据南极和南大洋联盟称，其海洋升温速度也比世界其他地区更快。1980 年代，南极洲平均每年损失 400 亿吨冰。到 2020 年，这一数字扩大逾 6 倍，达到每年 2520 亿吨。自 1990 年代以来，南极洲陆地冰的消失导致海平面上升7.2毫米。科学家警告说，不稳定的南极洲可能会对地球气候产生深远影响，迫使全球气温上升，从而给人类带来潜在的毁灭性后果。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告诉大模型“深呼吸”能大幅提升数学得分]]></title>
+        <id>https://www.solidot.org/story?sid=76142</id>
+        <link href="https://www.solidot.org/story?sid=76142"/>
+        <updated>2023-09-20T13:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Google DeepMind 的研究人员在预印本平台 arXiv 发表论文《Large Language Models as Optimizers》，介绍了大模型的一种优化方法：用一个大模型修饰提示，改进另一个大模型的数学能力。初步结果显示，使用“深呼吸，一步步解决问题”的提示效果最为显著，能大幅提升数学测试得分。对 Google 的 PaLM 2 大模型使用该提示，它在小学数学应用题数据集 GSM8K 中的正确率达到了 80.2%，而不使用该提示正确率只有 34%，“让我们一步步思考”提示的正确率为 71.8%。为什么会有如此惊人的变化？大模型显然不会呼吸，也不像人类那样思考和推理。它们所做的推理都源自从书籍和互联网上抓取的短语数据集。其中包括问答形式的论坛，此类论坛包含了大量“深呼吸”，“一步步思考”等短语，后面紧跟着更细致入微的推理方案。这些短语可能有助于大模型产生更好的答案。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenTF 因担心商标诉讼改名为 OpenTofu]]></title>
+        <id>https://www.solidot.org/story?sid=76141</id>
+        <link href="https://www.solidot.org/story?sid=76141"/>
+        <updated>2023-09-20T10:15:07.000Z</updated>
+        <summary type="html"><![CDATA[因 HashiCorp 更改了基础设施即代码软件 Terraform 的许可证，从 MPL 切换到了非开源的 Business Source License (v1.1)，在这一背景下 OpenTF 项目宣布创建 Terraform 的分支。但现在由于担心名字中的 TF 与 Terraform 过于相近而引起商标诉讼，OpenTF 改名为 OpenTofu。它也成为了 Linux 基金会的一部分，预计 Linux 基金会执行董事 Jim Zemlin 将在周三举行的开源欧洲峰会正式宣布这一消息。OpenTofu 项目的一位组织者 Sebastian Stadil 表示，HashiCorp 在非常激进的发送停止并终止（cease and desist）函，我们认为 TF 与 Terraform 太相似了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO 呼吁采取行动遏制高血压]]></title>
+        <id>https://www.solidot.org/story?sid=76140</id>
+        <link href="https://www.solidot.org/story?sid=76140"/>
+        <updated>2023-09-20T09:49:58.000Z</updated>
+        <summary type="html"><![CDATA[世界卫生组织（WHO）发布了第一份关于高血压对全球的破坏性影响的报告，并就如何战胜这一无声杀手提出了建议。报告显示，每 5 名高血压患者中约有 4 人未得到充分治疗，如果各国能够扩大治疗覆盖范围，则 2023 年至 2050 年期间可以避免 7600 万人死亡。高血压影响全世界三分之一的成年人。这种常见的致命病症可导致中风、心脏病发作、心力衰竭、肾损伤以及许多其他健康问题。1990 年至 2019 年期间，高血压患者（指血压为140/90 mmHg或更高或者正在服用高血压药物）的人数翻了一番，从 6.5 亿人增加到了 13 亿人。全球近半数高血压患者目前不知道自己的病情。四分之三以上的成年高血压患者生活在低收入和中等收入国家。高龄和遗传因素会增加患高血压的风险，但一些可改变的风险因素，如高盐饮食，缺乏身体活动和饮酒过多等也会增加患高血压的风险。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家首次分离出已灭绝物种的 RNA 分子]]></title>
+        <id>https://www.solidot.org/story?sid=76139</id>
+        <link href="https://www.solidot.org/story?sid=76139"/>
+        <updated>2023-09-20T09:18:04.000Z</updated>
+        <summary type="html"><![CDATA[研究人员从一博物馆室温保存的塔斯马尼亚虎（Tasmanian tiger）标本中分离出有逾百年历史的 RNA 分子，并进行可测序。他们认为这项发现对于复活已灭绝物种和研究流行病 RNA 病毒有重要意义。塔斯马尼亚虎又名袋狼，曾广泛分布于新几内亚热带雨林和澳大利亚大陆，一度是当地体型最大的食肉有袋类动物。1888 年它被宣布为农业害虫，每猎杀一只成年动物赏金 1 英镑。已知最后一只塔斯马尼亚虎在 1936 年死于塔斯马尼亚州的 Beaumaris 动物园。塔斯马尼亚虎是复活已灭绝物种的一个主要目标，原因是它的自然栖息地仍然存在，重新引入有助于恢复生态系统平衡。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[泰拉瑞亚开发商向两大开源游戏引擎分别捐赠 10 万美元]]></title>
+        <id>https://www.solidot.org/story?sid=76138</id>
+        <link href="https://www.solidot.org/story?sid=76138"/>
+        <updated>2023-09-20T06:43:19.000Z</updated>
+        <summary type="html"><![CDATA[在 Unity 新收费模式引发争议的背景下，游戏工作室 Re-Logic 宣布向开源游戏引擎项目 Godot 和 FNA 分别捐赠 10 万美元，同时额外每月捐赠 1000 美元。Godot 从某种程度上是 Unity 的开源替代，而 FNA 是微软已经停止支持的 XNA 框架的开源替代。Godot 上周成立了开发基金，目前该基金已经收到了大量捐款，每月资助金额已经超过了 4.7 万欧元。Re-Logic 过去十年唯一开发的游戏是《泰拉瑞亚》，史上最畅销游戏作品之一，截至 2022 年其销量突破了 4400 万份拷贝。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[调查发现大部分美国人不相信 AI 的好处超过其风险]]></title>
+        <id>https://www.solidot.org/story?sid=76137</id>
+        <link href="https://www.solidot.org/story?sid=76137"/>
+        <updated>2023-09-20T06:30:29.000Z</updated>
+        <summary type="html"><![CDATA[周二公布的 Mitre-Harris 民意调查显示，大部分美国人不相信 AI 的好处超过其风险。接受调查的 2063 名成年人中有 54% 表示更担心 AI 的风险，只有 39% 的人相信今天的 AI 技术是安全的——相比去年 11 月的调查下降了 9 个百分点。美国监管部门正考虑加强对 AI 的监管，而 AI 服务商和科技行业正在密切关注监管和政策变化，以确保其模型和技术的安全，缓解相关的隐私和安全风险。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔披露 Meteor Lake CPU 架构]]></title>
+        <id>https://www.solidot.org/story?sid=76136</id>
+        <link href="https://www.solidot.org/story?sid=76136"/>
+        <updated>2023-09-20T05:36:15.000Z</updated>
+        <summary type="html"><![CDATA[英特尔披露了下一代 CPU 架构 Meteor Lake 的信息。在第 12 代 (Alder Lake) 和第 13 代 (Raptor Lake)酷睿之后，Meteor Lake 本应该是第 14 代酷睿，但芯片巨人正在放弃旧的命名方案，它可能代表着代际数字的一次重启。传言称，第 14 代酷睿只是 Raptor Lake 的更新版本。Meteor Lake 将使用 Intel 4 工艺制造，用  Foveros 3D 封装，预计它将在 2023 年底或 2024 年初随轻薄本发布，它将有更长的电池寿命，其效率将能与苹果 M 系列处理器媲美。Meteor Lake 最大的变化是将把核心组件分成多个块，英特尔称之为 Tile，其实就是 AMD Zen 系列 CPU 采用的 chiplet 方案——但芯片巨人不想叫它 chiplet。Meteor Lake 由 4 个 Tile 组成，包括：    Compute Tile，新的 E 核和 P 核微架构；SoC Tile，低功耗岛 E 核、NPU、Wi-Fi 6E/7、HDMI 2.1 和 8K HDR AV1 支持；Graphics Tile，集成 Intel Arc GPU；IO Tile，Thunderbolt 4 (或Thunderbolt 5) 和 PCIe Gen5。Meteor Lake 可以关闭不同的 Tile，举例来说，在串流视频或播放本地视频时可以关闭耗电大的 Graphics Tile，只使用 SoC Tile。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[功德++：想不到这款应用居然是 iOS 17 的新功能最佳演示｜iOS 17 都更新了什么？]]></title>
+        <id>https://www.appinn.com/?p=46487</id>
+        <link href="https://www.appinn.com/gongde-ios17/"/>
+        <updated>2023-09-20T03:50:35.000Z</updated>
+        <summary type="html"><![CDATA[功德++ 是一款极简的敲木鱼应用，适配了昨天正式发布的 iOS 17 交互式桌面小组件、待机显示功能，可以让你在桌面直接敲木鱼。@Appinn 只需 500 下，功德拉满，必有回报 功德++ 支持 i]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究显示阿兹特克帝国统治者是无情的剥削者]]></title>
+        <id>https://www.solidot.org/story?sid=76135</id>
+        <link href="https://www.solidot.org/story?sid=76135"/>
+        <updated>2023-09-20T03:31:37.000Z</updated>
+        <summary type="html"><![CDATA[在被西班牙征服前，阿兹特克帝国就已经存在严重的经济不平等。阿兹特克帝国由贵族、平民和奴隶组成，贵族通过独占资源统治平民。每个省的税率存在差异，主要是基于该省是如何成为阿兹特克帝国的一部分而定。如果曾在军事上抵抗帝国，那么被征服之后将需要缴纳更高的税率。意大利和法国的研究人员根据考古数据估计，在被征服前，阿兹特克帝国的人均收入相当于今天的 690 美元，明显低于同时期的西班牙。这个平均值忽略了城市和农村之间的巨大差异。其中最富有的 1% 人口占据了总收入的 41.8%，最富有的 5% 占据了 50.8%。最贫困的 50% 人口只占 23.3% 的收入。帝国和省级的统治阶级，以及非统治阶级的贵族占到了总人口不到 2%，但控制了总收入的 46.6%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究估计人体的细胞总数]]></title>
+        <id>https://www.solidot.org/story?sid=76134</id>
+        <link href="https://www.solidot.org/story?sid=76134"/>
+        <updated>2023-09-20T03:04:19.000Z</updated>
+        <summary type="html"><![CDATA[德国马克斯普朗克研究所科学家通过分析 1500 多篇科学论文，确定了人体中有多少细胞类型、每个组织中有多少种细胞，以及每种细胞的平均大小和质量等因素。国际辐射防护委员会整理了一名 70 公斤成年男性、一名60公斤成年女性和一名 32 公斤儿童体内每个组织的质量，研究团队利用该委员会的数据估计了每种体型包含多少细胞。结果表明，一名成年女性有 28 万亿个细胞；儿童有 17 万亿个细胞；成年男性有 36 万亿个细胞。研究还发现，无论是非常小的细胞、非常大的细胞还是大小介于两者之间的细胞的质量大致相同。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvell 否认其产品包含有 NSA 后门]]></title>
+        <id>https://www.solidot.org/story?sid=76133</id>
+        <link href="https://www.solidot.org/story?sid=76133"/>
+        <updated>2023-09-20T02:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Jacob Appelbaum 在 2022 年发表的博士论文《Communication in a world of pervasive surveillance: Sources and methods: Counter-strategies against pervasive surveillance architecture》最近在安全行业引起了关注，原因是他根据斯诺登（Edward Snowden）在 2013 年的泄密文档在论文中声称 Cavium 的产品包含有 NSA 后门。Cavium 为路由器、网络交换器、NAS 等产品提供 ARM 或 MIPS 处理器，2018 年被 Marvell 收购。Marvell 发言人发表声明，否认这一指控，称该公司将产品的安全放在第一位，Marvell 或 Cavium 没有为任何政府实现后门。Appelbaum 对此解释说，Marvell 也许没有有意植入后门，但它可能无意中在产品中加入了容易利用的弱加密算法，比如臭名昭著的 NAS 椭圆曲线算法 Dual EC DRBG。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 21 / JDK 21 释出]]></title>
+        <id>https://www.solidot.org/story?sid=76132</id>
+        <link href="https://www.solidot.org/story?sid=76132"/>
+        <updated>2023-09-20T01:37:43.000Z</updated>
+        <summary type="html"><![CDATA[Java 21 及其参考实现 JDK 21 GA（Generally Available）。新版的主要特性包括：JEP 430 字符串范本（预览）；JEP 431 有序的 Collections；JEP 439 世代 ZGC，JEP 440 记录类的模式；JEP 441 使用 witch 的模式匹配；JEP 442 外部函数与存储器 API（第三预览版本）；JEP 443 未命名模式和变量（预览）；JEP 444 虚拟线程；JEP 445 未命名的类别和实例 main 方法（预览）；JEP 446 作用域值（预览）；JEP 448 Vector API（第六孵化版本）；JEP 449 弃用 Windows 32 位 x86 端口以待后续移除；JEP 451 准备禁止动态加载代理；JEP 452 密钥封装机制 API；JEP 453 结构化并发（预览）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软曾有意收购任天堂 Valve 等公司]]></title>
+        <id>https://www.solidot.org/story?sid=76131</id>
+        <link href="https://www.solidot.org/story?sid=76131"/>
+        <updated>2023-09-19T15:45:01.000Z</updated>
+        <summary type="html"><![CDATA[美国 FTC 曾试图阻止微软收购动视暴雪，但失败了。本周公布的未经过编辑的 FTC 法庭文件显示，微软高管曾将任天堂、Valve 等公司列为潜在收购对象。微软 Xbox 业务负责人 Phil Spencer 等多名高管在 2020 年 6 月的邮件中讨论了潜在收购事宜，Spencer 说如果有美国公司有机会收购任天堂，微软将处于最有利位置。如果能收购任天堂，这将是他职业生涯的最高点。但收购任天堂很难，因为该公司拥有大量现金。微软的收购列表还包括了：Valve、华纳兄弟互动、ZeniMax、世嘉、CD Projekt Red、From Software、Square Enix、Larian Studios 和 Remedy 等。它最终选择收购 Bethesda 的母公司 ZeniMax。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bard 支持关联 Google 应用和服务]]></title>
+        <id>https://www.solidot.org/story?sid=76130</id>
+        <link href="https://www.solidot.org/story?sid=76130"/>
+        <updated>2023-09-19T15:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Google 宣布它的 AI 聊天机器人 Bard 现在能关联该公司旗下的各种应用和服务。Google 针对英文版发布了 Bard Extensions。Bard 能从用户日常使用的 Gmail、Docs、Drive、Google Maps、YouTube 和 Google Flights 等工具中查找和显示相关信息，即使你所需要的信息跨越了多个应用和服务。举例来说，你准备去大峡谷旅行，可以在一次对话中要求 Bard 从 Gmail 中获取适合每个人的日期，查找实时航班和酒店信息，查看前往机场的 Google Maps 路线，观看相关的 YouTube 视频。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海盗湾庆祝二十周年]]></title>
+        <id>https://www.solidot.org/story?sid=76129</id>
+        <link href="https://www.solidot.org/story?sid=76129"/>
+        <updated>2023-09-19T14:47:12.000Z</updated>
+        <summary type="html"><![CDATA[2003 年夏天，瑞典支持文化共享的组织 Piratbyrån 对新的 BitTorrent 协议产生了兴趣，宣布推出自己的 BitTorrent tracker 海盗湾。海盗湾最早托管在墨西哥的服务器上，Gottfrid Svartholm aka Anakata 当时在墨西哥的一家公司工作，海盗湾就托管在该公司的服务器上。几个月后，网站搬到了瑞典，运行在一台 Pentium III 1GHz 256MB 内存的笔记本电脑上，这台电脑属于 Fredrik Neij aka TiAMO。Piratbyrå 最初的计划是创建瑞典第一个文件共享网络。但几年后它成为了整个世界文件共享的代表。海盗湾团队为他们的成果自豪，但也付出了代价。他们面临来自世界各地的侵权指控。美国政府向瑞典施压，网站创始人遭到跟踪。2006 年 5 月 31 日，65 名瑞典警察进入斯德哥尔摩的一个数据中心关闭了海盗湾的服务器。对大多数盗版网站而言，这意味着路走到头了。但海盗湾不打算投降。Fredrik 在收到 Gottfrid 的警告之后提前给网站做了备份，三天后海盗湾重新上线。海盗湾的发言人 Peter Sunde aka Brokep 向世界宣布网站不会销声匿迹。这几位联合创始人成为了英雄。但他们很快因为审判而被判刑。大多数成员都切断了与网站的联系，海盗湾之后交给了一支更匿名的团队管理，它也日益低调。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[远程工作能大幅减少碳足迹]]></title>
+        <id>https://www.solidot.org/story?sid=76128</id>
+        <link href="https://www.solidot.org/story?sid=76128"/>
+        <updated>2023-09-19T13:45:18.000Z</updated>
+        <summary type="html"><![CDATA[康奈尔大学和微软的一项研究发现，远程工人的碳足迹能比现场工人少 54%。研究报告发表在 PNAS 期刊上。研究还发现，每周在家远程工作 2-4 天的混合办公工人的碳足迹能减少 11%-29%，但只在家远程办公一天的碳足迹几乎不减少，仅为少 2%。论文资深作者、康奈尔的 Fengqi You 指出，远程办公并不是零碳，混合办公带来的碳足迹减少也不是线性的。现场工作和混合办公对碳足迹的影响主要来自出行的能耗和办公室用电。远程工作天数的增加会推动非通勤出行的增加，比如社交和娱乐活动；混合办公工人通常比现场办公居住的更遥远，因此通勤时间更长。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全公司披露全新 Linux 后门]]></title>
         <id>https://www.solidot.org/story?sid=76127</id>
@@ -954,146 +1144,6 @@ Next week we'll add even more tools. See you then!]]></summary>
         <link href="https://www.solidot.org/story?sid=76051"/>
         <updated>2023-09-11T15:37:28.000Z</updated>
         <summary type="html"><![CDATA[2021 年，马斯克（Elon Musk）成为世界最富有的人。《时代》杂志在将马斯克评选为年度风云人物时形容他是小丑、天才、矫情之人、富有远见的人、实业家、表演者、无赖；是爱迪生（Thomas Edison）、巴纳姆（P. T. Barnum）、卡内基（Andrew Carnegie）和 DC 漫画《守望者》中曼哈顿博士的疯狂混合体。曼哈顿博士是一位蓝皮肤的人神（man-God），发明了电动汽车并搬到了火星。就在《时代》发表这一公告的同时，奥斯汀一家医院的妇产科病房内，三位女性参与了这位疯狂人神的基因传递。马斯克认为出生率下降对文明构成了威胁，他做了富有远见的矫情之人最擅长做的，通过生更多孩子来抵御威胁。Shivon Zilis 是一位风投家，同时担任马斯克旗下公司 Neuralink 的高管，她通过人工授精怀上了双胞胎，正经历怀孕并发症。另一个女性充当了马斯克与其前妻 Claire Boucher aka Grimes 的代孕母亲，而 Grimes 正陪伴着她。Grimes 表示她非常想为马斯克生个女儿。马斯克有 7 个儿子，其中包括与 Grimes 生的取名为 X 的儿子。Grimes 不知道 Zilis 在同一家医院，也不知道 Zilis 怀了马斯克的孩子。Zilis 早产了七周，代孕母亲在几周后安全分娩。Grimes 带着婴儿去见了她的哥哥 X，她被取名为 Y，有时叫 Why? 或者简单的“?”。 名字参考了道格拉斯·亚当斯的《银河系漫游指南》，这是马斯克最喜欢的书。马斯克曾被视为超级英雄，但如今他更像是超级恶棍 Lex Luthor，而不是钢铁侠 Tony Stark。他的母亲 Maye Haldeman 曾在 1969 年入围南非选美比赛的决赛。她生长在南非的种族隔离时代，但其回忆录只字未提种族隔离。马斯克在儿童时代喜欢游戏、电脑、龙与地下城以及《银河系漫游指南》。亚当斯写《银河系漫游指南》的打印机贴着“结束种族隔离”，他并不是为超级富有的豪华行星建造者编写操作指南。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.6-rc1 释出，Bcachefs 未能合并]]></title>
-        <id>https://www.solidot.org/story?sid=76050</id>
-        <link href="https://www.solidot.org/story?sid=76050"/>
-        <updated>2023-09-11T14:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds 释出了 Linux 6.6-rc1，标志着合并窗口的关闭。备受瞩目的写时复制文件系统 Bcachefs 再一次未能进入内核主线。Linux 6.6 的新特性包括：EEVDF 调度器，令 AMD chiplet CPU 受益的工作队列变更，实验性引入 DRM 持续集成(CI)，KSMBD 稳定，HP BIOS 设置驱动，AMD Dynamic Boost Control，ReiserFS   标记为准备移除，英特尔 Shadow Stack 支持，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IEEE Specctrum 的年度语言是 Python 和 SQL]]></title>
-        <id>https://www.solidot.org/story?sid=76049</id>
-        <link href="https://www.solidot.org/story?sid=76049"/>
-        <updated>2023-09-11T11:14:47.000Z</updated>
-        <summary type="html"><![CDATA[IEEE Specctrum 宣布它的 2023 年的年度编程语言排名。Python 语言不仅高居第一，而且领先优势巨大。Python 几乎无所不能无处不在，是炙手可热的 AI 的助力器。SQL 是最广泛使用的工作语言，但程序员不太可能就仅仅靠 SQL 获得一份工作。雇主通常需要员工同时掌握 SQL 和其它语言如 Java 或 C++。相对于 高性能或资源敏感类型的任务，Java 和类 C 语言比 Python 更受欢迎。JavaScript 语言的流行度次于 Python 和 Java 位居第三。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在 Windows 任务栏看小说！?]]></title>
-        <id>https://www.appinn.com/?p=46412</id>
-        <link href="https://www.appinn.com/trafficmonitor-plugin-textreader/"/>
-        <updated>2023-09-11T09:12:40.000Z</updated>
-        <summary type="html"><![CDATA[最近收到一位同学的提问，想要找一款可以在任务栏看小说的工具… 虽然这样摸鱼有点累，但…安排。 事情是这样的，在青小蛙将问题发给微博网友之后，大家纷纷表示… 解决方案]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 面临自微软以来最大的美国反垄断诉讼]]></title>
-        <id>https://www.solidot.org/story?sid=76048</id>
-        <link href="https://www.solidot.org/story?sid=76048"/>
-        <updated>2023-09-11T08:58:52.000Z</updated>
-        <summary type="html"><![CDATA[下月将是美国政府律师在华盛顿联邦法庭上指控微软非法打压竞争的 25 周年。这起具有里程碑意义的案件发生在微软称霸科技行业的鼎盛时期，最终法官下令拆分该公司，不过该裁决在上诉中被推翻。周二华盛顿的一个法庭将再次成为美国司法部遏制科技巨头的历史性努力的焦点。它对 Google 提起的诉讼，是针对最新一代占主导地位的科技公司提起的第一起诉讼。许多法律观察人士表示，这一结果将是对美国监管机构雄心勃勃的法律战略的一次重要考验，并有助于确定其在控制大型科技公司方面所做的更广泛努力。如果 Google 获胜，它的商业模式将无需改变。如果它失利，目前美国司法部尚未表态将会寻求何种改正方法。批评者希望拆分 Google，但法律专家认为不太可能。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球仍然高度依赖燃煤火电]]></title>
-        <id>https://www.solidot.org/story?sid=76047</id>
-        <link href="https://www.solidot.org/story?sid=76047"/>
-        <updated>2023-09-11T08:18:53.000Z</updated>
-        <summary type="html"><![CDATA[全球仍然高度依赖燃煤火电，煤电新增装机速度超过淘汰。中国是全球最大的煤炭消费国，其电力来源的一半以上依赖煤炭。法国卫星数据公司 Kayrros 的数据显示，中国 7 月日均煤炭火力发电量比 1 年前增长了 14.2%。国际能源机构（IEA） 7 月的报告显示，2022 全球第二大煤炭消费国印度的煤炭需求增长了 8%。印度尼西亚增长 36%，成为世界第五大消费国。预计全球整体需求也将在 2023 年创出历史新高。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软和 Google 训练 AI 模型增加了水的消耗]]></title>
-        <id>https://www.solidot.org/story?sid=76046</id>
-        <link href="https://www.solidot.org/story?sid=76046"/>
-        <updated>2023-09-11T07:54:35.000Z</updated>
-        <summary type="html"><![CDATA[训练 AI 模型所需的计算量是惊人的，需要昂贵的英伟达芯片，还需要大量的水去冷却数据中心。微软最近承认，OpenAI 最先进的大语言模型 GPT-4 是在微软位于爱荷华州的数据中心训练的，冷却用水抽取自浣熊河和得梅因河的分水岭。微软在其《2022 年环境可持续性报告》中披露，从 2021 年到 2022 年，该公司全球用水量大幅增长了 34%，接近 17 亿加仑，相比前几年，用水量急剧增加被认为源于 AI 研究，包括生成式 AI 以及微软与 OpenAI 的合作。此前有研究团队估计，每向 ChatGPT 提出 5 到 50 个提示或问题时，ChatGPT 会喝下 500 毫升的水。Google 也报告其数据中心用水量增长了五分之一，这也被认为与 AI 研究相关。OpenAI 和微软都表示正致力于提高 AI 模型训练效率。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一所高中对小行星 Dimorphos 的观测发现其行为异常]]></title>
-        <id>https://www.solidot.org/story?sid=76045</id>
-        <link href="https://www.solidot.org/story?sid=76045"/>
-        <updated>2023-09-11T06:31:19.000Z</updated>
-        <summary type="html"><![CDATA[去年九月 NASA 执行双小行星重定向测试(DART)任务的飞船成功撞击了名为 Dimorphos 的小行星。这是世界首次行星防御技术演示，撞击成功偏转了小行星轨道。撞击后的小行星产生了一片碎石场，天文学家利用哈勃望远镜在观测中了发现了数十个直径 4–7 米之间大石块。加州高中 Thacher School 的教师 Jonathan Swift 和其学生使用学校望远镜对 Dimorphos 展开了后续观测，发现其行为异常。在撞击一个多月后，Dimorphos 在持续放慢速度。一种解释是撞击后产生的大石块再次碰撞了小行星表面，进一步改变了其轨道。ESA 计划发射探测器 Hera，将在 2026 年抵达 Dimorphos，有望揭示更多信息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[萨尔瓦多的比特币法币实验推行两年后]]></title>
-        <id>https://www.solidot.org/story?sid=76044</id>
-        <link href="https://www.solidot.org/story?sid=76044"/>
-        <updated>2023-09-11T05:44:43.000Z</updated>
-        <summary type="html"><![CDATA[两年前萨尔瓦多宣布将比特币作为美元之外的第二种法币，此举旨在降低跨境交易成本以及推动支付数字化。该国的汇款收入占到了 GDP 的五分之一。萨尔瓦多政府还多次斥巨资购买比特币。两年之后，比特币对于该国的金融系统没有产生任何影响。经济学家称该国的工资、服务和商品等一切经济行为仍然是以美元支付的。而比特币的币值相比两年前下跌了一半。居民基本不使用比特币汇款，对于加密货币缺乏信任。今年五月进行的一项调查显示，71% 的回应者表示加密货币没能改善家庭经济状况。对于起伏巨大的比特币币值，一位报贩认为简直是抢劫。至今为止不到 2% 跨境汇款是通过加密货币和数字钱包完成的，政府购买的比特币损失了 4540 万美元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PipePipe – 第三方开源 B 站 Android 客户端，支持弹幕、评论、登录下载｜原自 NewPipe]]></title>
-        <id>https://www.appinn.com/?p=46429</id>
-        <link href="https://www.appinn.com/pipepipe/"/>
-        <updated>2023-09-11T04:31:52.000Z</updated>
-        <summary type="html"><![CDATA[PipePipe 是一款第三方开源 B 站客户端，支持弹幕、评论、登录下载，原自著名的 Android 轻量级流媒体客户端 NewPipe。@Appinn 来自发现频道，@Daneel 同学推荐：ht]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 开发新 AI 模型挑战 OpenAI]]></title>
-        <id>https://www.solidot.org/story?sid=76043</id>
-        <link href="https://www.solidot.org/story?sid=76043"/>
-        <updated>2023-09-11T03:35:15.000Z</updated>
-        <summary type="html"><![CDATA[Meta Platforms 正在开发一款新的 AI 系统，预计其功能将 OpenAI 提供的最先进模型一样强大。根据 Meta 的目标，其新 AI 模型将比两个月前发布的 Llama 2 强大数倍。新 AI 模型计划明年上线。Meta 目前正在搭建这项工作所需的数据中心，并购置更多的英伟达 H100 芯片。CEO 扎克伯格(Mark Zuckerberg)正推动这个新模型像 Meta 早些时候的 AI 产品一样实现开源，从而可以免费提供给构建 AI 驱动工具的公司。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试显示微软并没有改变欧洲地区 Edge 浏览器行为]]></title>
-        <id>https://www.solidot.org/story?sid=76042</id>
-        <link href="https://www.solidot.org/story?sid=76042"/>
-        <updated>2023-09-11T03:05:24.000Z</updated>
-        <summary type="html"><![CDATA[微软官方博客上月底表示，最新释出的 Windows 11 Insider Preview Build 23531 将在欧洲经济区（不包括英国）尊重用户的默认浏览器设置，Windows 系统组件将用默认浏览器而不是系统预装的 MS Edge 打开链接。然而测试显示，微软没有改变 Windows 11 的任何行为。AI 助手 Copilot、开始菜单、任务栏和桌面搜索、Windows Spotlight 以及微软第一方应用如 Outlook 等上的 Web 链接仍然强行使用 Edge 打开，没有使用用户默认的浏览器。在挪威和德国的测试结果都一样。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国发现世界最大的锂矿床]]></title>
-        <id>https://www.solidot.org/story?sid=76041</id>
-        <link href="https://www.solidot.org/story?sid=76041"/>
-        <updated>2023-09-10T15:29:38.000Z</updated>
-        <summary type="html"><![CDATA[美国内华达州和俄勒冈州交界的一个火山口发现了世界储藏量最大的锂矿床，其储量估计高达 2000-4000 万吨，超过了玻利维亚盐滩下发现的锂矿床。分析显示，火山口的粘土岩含有 1.3%- 2.4% 的锂。被称为 McDermitt 的火山口形成于 1640 万年前，当时喷发了大约 1000 平方公里的岩浆。火山口填满了富含钠钾锂的岩浆，岩浆冷却之后形成了火山岩和火成岩，风化后产生富含锂的颗粒。地质学家表示，如果储量估计正确，那么这将改变全球锂的价格、供应安全和相关地缘政治。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法庭裁决 YouTube 没有义务托管反疫苗宣传视频]]></title>
-        <id>https://www.solidot.org/story?sid=76040</id>
-        <link href="https://www.solidot.org/story?sid=76040"/>
-        <updated>2023-09-10T14:58:02.000Z</updated>
-        <summary type="html"><![CDATA[三大社交平台发布的反疫苗宣传视频中，有 12 个人占到相当大的比例。其中一人因其频道被 YouTube 封杀而提起诉讼。但法庭做出了有利于 YouTube 的裁决， 认为 YouTube 没有义务托管反疫苗宣传视频。Joseph Mercola 以违反用户合同和阻止他访问其视频为由索赔 7.5 万美元。法官 Laurel Beeler 表示，在 YouTube 以违反 COVID-19 和疫苗相关的社区准则封杀其频道后，它没有义务托管 Mercola 的内容。法庭认为 YouTube 没有违规行为，因为服务条款中没有规定要 YouTube 维护特定内容或成为用户内容的储存网站。法庭驳回了诉讼，且没有允许原告修改诉状。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币矿场从德州电力部门获得的收入超过挖矿所得]]></title>
-        <id>https://www.solidot.org/story?sid=76039</id>
-        <link href="https://www.solidot.org/story?sid=76039"/>
-        <updated>2023-09-10T14:25:55.000Z</updated>
-        <summary type="html"><![CDATA[当夏季电力需求超过供应时，美国德州电力部门 Electric Reliability Council of Texas (ERCOT)会推行一项政策，鼓励高耗电企业停产或减少运营活动，以将更多电力留在电网。高耗电企业可以从中积累名为能源信用（energy credits）的积分换取现金。比特币矿场是耗电大户，一家位于德州的矿场披露该公司上个月通过减产获得的收入远远超过挖矿所得。Riot Platforms 称它上个月从德州电力部门获得了 3170 万美元的收入，而它的矿机上个月共挖出 333 个比特币，其价值不到 900 万美元。该矿场去年 8 月也通过类似方法获得了 950 万美元。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
