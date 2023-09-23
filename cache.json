@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46516",
+          "author": "青小蛙",
+          "description": "Open Interpreter 是一个让 AI 在你的电脑上执行代码的开源项目，它支持 OpenAI 和托管在 Hugging Face 上的模型，通过与你的电脑 ChatGPT 式问答，来实现写代",
+          "link": "https://www.appinn.com/open-interpreter/",
+          "publishedOn": "2023-09-22T07:04:05.000Z",
+          "wordCount": 2856,
+          "title": "Open Interpreter – 可能门槛最低，让 AI 在你的电脑上执行代码",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/Appinn-feature-images-2023-09-22T114532.626.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46513",
           "author": "青小蛙",
           "description": "Passkeys 越来越近了。 昨天，著名的密码管理器 1Password 发布消息带来了桌面浏览器和 iOS 的 Passkeys 支持。 Passkeys 是一个由公钥和私钥组成的验证系统，它能够",
@@ -130,26 +140,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/Appinn-2023-09-14T102128.076.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46443",
-          "author": "青小蛙",
-          "description": "就是很离谱，居然有这种网站： 就…太离谱了。 它除了帮你显示倒计时以外，也没有声音提醒，字还那么小，选起来好难 🙈 我不知道它能干什么，真用来吃火锅嘛 😂 但是很好玩啊 获取 原文：htt",
-          "link": "https://www.appinn.com/shuanhuoguo/",
-          "publishedOn": "2023-09-13T13:10:17.000Z",
-          "wordCount": 2592,
-          "title": "居然有这种网站？涮火锅啦",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/Appinn-2023-09-13T205712.803.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46445",
-          "author": "青小蛙",
-          "description": "ta 来了 系列第二篇，以及距离上次的汇总只过了 14 天。 这是一个青小蛙准备尝试的新系列：ta 来了，目前的想法是把前一日或者几日的消息汇总一下，尤其是发现频道内容有点多，来不及发布的情况下。就不",
-          "link": "https://www.appinn.com/ta-coming-2/",
-          "publishedOn": "2023-09-13T08:54:04.000Z",
-          "wordCount": 2789,
-          "title": "ta 来了2：iPhone 15 挤着牙膏来了、AHK v2 中文离线文档、自制 Win98 复古扫雷、IPv6 内网反代、免费 Stable Diffusion XL",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/ta-is-here.jpg"
         }
       ]
     },
@@ -200,16 +190,6 @@
           "wordCount": 956,
           "title": "HTML elementtiming属性初体验记录",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11003",
-          "author": "张 鑫旭",
-          "description": "坚持探索Web标准下的原生浏览器开发行为，行为驱动和数据驱动的表单开发其实各有千秋，深入HTML，你会发现这个世界比你所知的要精彩的多。",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/09/form-reset-input-change/",
-          "publishedOn": "2023-09-12T15:52:48.000Z",
-          "wordCount": 1088,
-          "title": "Tips：form元素reset后input不触发change事件处理",
-          "imageUrl": null
         }
       ]
     },
@@ -218,6 +198,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76170",
+          "author": null,
+          "description": "在本周举行的开源欧洲峰会上，与 Valve 合作的开源咨询公司 Igalia 谈论了 Valve 及其合作伙伴对 Linux 和开源社区的贡献。Valve 的掌机 Steam Deck 运行的操作系统 SteamOS 是基于 Arch Linux，以及 GNU 用户空间和 systemd，桌面模式为 KDE Plasma，Valve 资助了相关程序的改进。Valve 的 Steam Play/Proton 利用   了 Wine 项目，使用了 DXVK / VKD3D-Proton 等开源项目，在这些领域的持续改进对 Linux 游戏和爱好者有重大价值。Igalia 工程师参与了 Valve 在 AMD 色彩管理等方面的工作，如通过启用新的内核功能改进 Steam Play 支持。Valve 工程师还参与了 Mesa OpenGL 和 Vulkan 驱动以及内核图形驱动组件的改进。在 Linux 图形驱动上的贡献让整个 Linux 桌面生态系统都受益。",
+          "link": "https://www.solidot.org/story?sid=76170",
+          "publishedOn": "2023-09-22T15:44:38.000Z",
+          "wordCount": 206,
+          "title": "Valve 对 Linux 和开源社区的贡献",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76169",
+          "author": null,
+          "description": "2017 年是智能手机市场的巅峰期，全世界有逾 700 个品牌展开激烈竞争。到了 2023 年，对逾 70 个重点国家手机销售的跟踪显示，活跃品牌只剩下了不足 250 个，减少了三分之二。绝大部分退出市场的是本土品牌，全球品牌数量基本保持不变。比如印度的 Micromax 和孟加拉国的 Symphony，过去五年失去了大量市场份额或退出了市场。小品牌难以跟上大品牌，小米、OPPO、vivo 等中国品牌的崛起，也加速了小品牌的衰落。中国品牌能以激进的价格点推出更好的产品，提供更高的性价比。",
+          "link": "https://www.solidot.org/story?sid=76169",
+          "publishedOn": "2023-09-22T15:06:48.000Z",
+          "wordCount": 166,
+          "title": "2017-2023 年近 500 品牌退出智能手机市场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76168",
+          "author": null,
+          "description": "美国的一项研究发现，早晨 7 点到 9 点锻炼可能最有利于减肥。研究人员将 5285 名中年人基于锻炼时间分成三组，早上（7点到9点）、中午（11点到下午1点）、晚上（17点到20点），其中 642 人在上午锻炼，2400 人在中午锻炼，2187 人在晚上锻炼。结果表明，早晨组的 BMI 最低，为 25.9，中午组和晚上组的 BMI 分别为 27.6 和 27.2，处于超重范围。早晨组的腰围也最低，为 91.5 厘米，而晚上组和中午组的腰围分别为 95 厘米和 95.8 厘米。",
+          "link": "https://www.solidot.org/story?sid=76168",
+          "publishedOn": "2023-09-22T14:46:34.000Z",
+          "wordCount": 182,
+          "title": "早晨 7 点到 9 点锻炼可能最有利于减肥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76167",
+          "author": null,
+          "description": "过去半年，你可能注意到潮流改变了，这种变化在网红身上最明显：曾经的加密货币网红一度变成元宇宙网红，现在则是 AI 网红。人们谈论的内容毫不费劲的从“web3 是未来”切换到“我将向你解释为什么 AI 会取代你”。根据新闻里的流行趋势，曾以谈论自动驾驶汽车知名的人会在接下来一周谈起超导体。在数字时代我们把这些人称之为内容创作者。内容是一个绝对抽象的概念，它剥夺了关于对象的所有具体内容，剥夺了所有意义。人们不再是作家音乐家或电影制作人，他们就是内容创作者。内容与质量无关，也与创作无关，它关乎的是交付和管理观众注意力。社交媒体的算法会奖励特定行为和特定的结构，除此之外，它们也什么也不关心。它们只关心你停留在网站上的时间越长就可以展示更多的广告。我们的生活和经济日益被数字技术重塑，与此同时我们似乎失去了对特定主题展开严肃讨论的能力。骗术转移就是这一变化的症状。",
+          "link": "https://www.solidot.org/story?sid=76167",
+          "publishedOn": "2023-09-22T14:39:32.000Z",
+          "wordCount": 146,
+          "title": "骗术转移的时代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76166",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的论文，对小鼠的研究表明，听到新生儿的啼哭声可以触发催产素的释放，催产素是一种控制母亲母乳释放的大脑化学物质。研究人员发现，一旦受到刺激，这种激素洪流会持续大约5分钟，然后逐渐减少，使母亲能够喂养它们的孩子，直到它们吃饱或再次开始哭泣。研究发现，当幼鼠开始哭泣时，声音信息会传递到它母亲大脑中一个叫做丘脑后层内核的区域。然后这个感觉中枢向位于下丘脑的释放催产素的脑细胞(神经元)发送信号。催产素的增加只发生在哺乳母鼠身上，而不会发生在从未生育过的母鼠身上。",
+          "link": "https://www.solidot.org/story?sid=76166",
+          "publishedOn": "2023-09-22T10:54:46.000Z",
+          "wordCount": 142,
+          "title": "婴儿哭泣诱导母亲释放催产素",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76165",
+          "author": null,
+          "description": "Google 旗下的 AI 子公司 DeepMind 研发的蛋白质结构预测模型 AlphaFold 获得了拉斯克奖的基础医学研究奖，拉斯克奖颁发三个奖项，另外两个是临床医学研究奖和医学科学特殊成就奖。Demis Hassabis 博士和 John Jumper 博士领导 AlphaFold 团队借助 AI 系统成功解决了蛋白质结构预测难题，实现了准确性和速度的巨大突破。James Fujimoto、David Huang和Eric Swanson 发明的光学相干断层扫描（OCT）技术赢得了临床医学研究奖，OCT 使医生能够迅速检测并治疗影响视力的视网膜疾病，从而拯救了数百万人的视力。医学科学特殊成就奖授予了 Piet Borst。",
+          "link": "https://www.solidot.org/story?sid=76165",
+          "publishedOn": "2023-09-22T10:18:50.000Z",
+          "wordCount": 169,
+          "title": "DeepMind 的蛋白质结构预测模型获拉斯克奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76164",
+          "author": null,
+          "description": "前不久遭到网络攻击导致大部分服务瘫痪至今还没有恢复的米高梅集团正在紧急招聘一位 Red Hat Linux 系统管理员，时薪 110 美元（相当于年薪 40 万美元），但有条件：在新的 IT 环境重建起来前每周工作七天每天工作十小时，候选人必须是美国公民，非绿卡或 H1B 签证持有者，工作截至 10 月 15 日。在遭到勒索组织攻击之后，米高梅的计算机问题持续了 10 天，每天损失最多 8400 万美元。米高梅的竞争对手凯撒娱乐也披露遭到了网络攻击，但其运营基本没有受到影响，据报道它向自称 Scattered Spider 的勒索组织支付 1500 万美元赎金，以换取数据安全的承诺。",
+          "link": "https://www.solidot.org/story?sid=76164",
+          "publishedOn": "2023-09-22T09:43:25.000Z",
+          "wordCount": 175,
+          "title": "米高梅紧急招聘 Linux 管理员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76163",
+          "author": null,
+          "description": "苹果的 iPhone 手机不支持 RCS 标准。RCS 代表 Rich Communication Services，比短信或彩信支持更多的功能，兼容于支持 RCS 标准的运营商和厂商的消息应用。因为不兼容，iPhone 手机发送给 Android 手机的消息不支持高级功能如视频。对此问题，苹果 CEO 库克（Tim Cook）曾建议消费者给妈妈买一部 iPhone。Google 一直尝试向苹果施压，督促其采用 RCS。在最新的广告 iPager 中，Google 指出 iPager 使用过时的通信技术给 Android 发送短信，而使用逾三十年历史的 SMS 技术存在很多能感受到的缺点。",
+          "link": "https://www.solidot.org/story?sid=76163",
+          "publishedOn": "2023-09-22T08:42:57.000Z",
+          "wordCount": 180,
+          "title": "Google 再次通过广告施压苹果采用 RCS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76162",
+          "author": null,
+          "description": "木星卫星欧罗巴是太阳系少数几个可能存在适宜生命生存条件的行星之一。它的冰冻表面之下被认为存在液态咸海洋，但尚未确定海洋中是否含有生命所需的化学物质如碳。根据发表在本周《科学》期刊上的两篇论文，天文学家利用 NASA 韦伯望远镜的数据，发现欧罗巴冰冻表面特定区域有二氧化碳。分析表明，二氧化碳可能源自地下海洋而不是陨石等外部来源。它是在最近的地质时间尺度沉积的。这一发现对欧罗巴海洋的潜在可居住性具有重要意义。韦伯望远镜发现，欧罗巴表面二氧化碳最丰富的区域是 Tara Regio。",
+          "link": "https://www.solidot.org/story?sid=76162",
+          "publishedOn": "2023-09-22T07:46:48.000Z",
+          "wordCount": 145,
+          "title": "韦伯望远镜在欧罗巴表面发现碳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76161",
+          "author": null,
+          "description": "Matrix 项目宣布用户现在可通过 Element X 客户端体验下一代协议 Matrix 2.0 的新功能。Matrix 是一个端对端加密、去中心化的即时通讯系统，它没有中心服务器，通过网桥与其它平台互通。不精确统计显示公网上有 111,873,374 个 Matrix ID，之所以说不精确是因为逾半数公网服务器不报告统计数据，此外还有很多私有网络服务器。Matrix 有着不断增长的庞大生态系统。Matrix 2.0 的新功能包括：Sliding Sync (即时登陆/启动/同步)，Native OIDC (行业标准的身份认证系统)，Native Group VoIP (端对端加密的语音和视频会议群聊) ，Faster Joins 等。",
+          "link": "https://www.solidot.org/story?sid=76161",
+          "publishedOn": "2023-09-22T06:46:01.000Z",
+          "wordCount": 174,
+          "title": "Matrix 2.0：Matrix 的未来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76160",
+          "author": null,
+          "description": "微软将于 9 月 26 日释出 Windows 11 的下一个重大更新 v23H2。Windows 11 23H2 的新功能包括 AI 驱动的 Windows Copilot、重新设计的文件资源管理器、为数字笔用户提供的 Ink Anywhere、改进画图应用、新的音量混合器、原生 RAR 和 7-zip 文件支持等。其中 Windows Copilot 将 Bing Chat 功能带到了桌面上，鉴于 Bing Chat 不支持中国用户使用，Windows Copilot 的情况可能类似，微软官方博客声明“具体功能依据不同市场而有所不同”。原生 RAR 和 7-zip 文件支持只是解压相应格式的压缩文件，并不支持创建，创建 RAR 压缩文件仍然需要应用 WinRAR。",
+          "link": "https://www.solidot.org/story?sid=76160",
+          "publishedOn": "2023-09-22T05:54:45.000Z",
+          "wordCount": 208,
+          "title": "微软将在 9 月 26 日释出 Windows 11 23H2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76159",
+          "author": null,
+          "description": "视频会议在新冠疫情期间爆炸式增长，但网络摄像头的分辨率相比你的智能手机上的摄像头普遍要差很多。为什么不能把智能手机作为网络摄像头使用？第三方软件可以帮助实现这一目标。从 Android 14 开始，你无需再安装第三方应用，Android 14 可以直接将智能手机变成网络摄像头。当你将 Android 手机插到 PC 上时，它会提供选项改变 USB 模式，包括文件传输/Android Auto (MTP)、USB tethering (NCM)、MIDI 或 PTP，Android 14 加入了一个新的选项 USB webcam，选择该选项之后，USB 模式会切换到 UVC (USB Video Class)，将你的手机变成网络摄像头。不过该功能不是开箱即用，需要启用一个 Linux 内核配置CONFIG_USB_CONFIGFS_F_UVC。",
+          "link": "https://www.solidot.org/story?sid=76159",
+          "publishedOn": "2023-09-22T05:08:26.000Z",
+          "wordCount": 177,
+          "title": "Android 14 支持将智能手机作为网络摄像头使用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76158",
+          "author": null,
+          "description": "思科达成了以 280 亿美元收购 Splunk 的协议，这是该公司至今金额最高的一笔收购。此举被认为有助于推动该公司基于 AI 的数据分析能力。Splunk 成立于 2003 年，主要是提供监控和数据分析软件，而思科的主营是网络设备硬件，这笔收购也有助于加强思科的软件业务。思科是以每股 157 美元现金的方式收购 Splunk，相比 Splunk 周三的收盘价溢价 31%。这笔交易预计将会在 2024 年底完成，这次并购不需要中国监管部门的批准。",
+          "link": "https://www.solidot.org/story?sid=76158",
+          "publishedOn": "2023-09-22T04:45:00.000Z",
+          "wordCount": 170,
+          "title": "思科 280 亿美元收购 Splunk",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76157",
           "author": null,
@@ -1046,126 +1156,6 @@
           "publishedOn": "2023-09-13T14:26:55.000Z",
           "wordCount": 175,
           "title": "英特尔宣布 Thunderbolt 5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76074",
-          "author": null,
-          "description": "在周三外交部例行新闻发布会上，发言人毛宁回应了日本记者有关部分中国政府机关禁止使用苹果手机的提问。毛宁称，“中国没有出台禁止购买和使用苹果等外国品牌手机的法律法规和政策文件。但我们近期确实注意到，有媒体曝出苹果手机有关安全事件。中国政府高度重视网络和信息安全，对内外资企业一视同仁、平等对待。我们希望在华经营的所有手机企业都能够严格遵守《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》等法律法规，加强信息安全管理，保护消费者存储在手机中的数据不被任何个人、任何组织窃取，确保信息安全。”",
-          "link": "https://www.solidot.org/story?sid=76074",
-          "publishedOn": "2023-09-13T13:25:09.000Z",
-          "wordCount": 141,
-          "title": "外交部回应苹果手机被限制使用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76073",
-          "author": null,
-          "description": "对创业公司 Chingmu 的创始人 Zhang Haiwei 而言，构建自己的大语言模型（LLM）是不现实的。你需要几亿美元资金，需要与遥遥领先的科技巨头们展开竞争。在 AI 热兴起前，百度和科大讯飞等公司早就对大模型之类的 AI 系统展开了多年研究。Zhang 的公司专注于 AI 应用，利用 OpenAI 的模型去分析人和物如何移动，将其应用于动画和运动训练。他认为今年是 AI 内卷化的一年。内卷是中国流行的一个术语，描述了一种疯狂竞争的状态，每个人都愈来愈辛苦的工作，但回报愈来愈少。AI 行业的新人即使有足够的资金，也不太可能脱颖而出。在 AI 领域，成本之外还有计算能力和计算芯片供应的挑战。与硅谷的同行一样，中国的创业公司也掀起了 AI 热。AI 被普遍认为将给科技行业和整个经济带来一场革命。但它们很快就回归现实。革命性的应用尚未出现，训练 AI 使用的芯片则面临短缺，限制了增长。在日益挑战性的经济环境中，AI 面临更多的内卷。",
-          "link": "https://www.solidot.org/story?sid=76073",
-          "publishedOn": "2023-09-13T13:16:10.000Z",
-          "wordCount": 174,
-          "title": "中国的 AI 热回归现实",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76072",
-          "author": null,
-          "description": "Google、IBM、亚马逊等公司正在建造基于超导电路的量子计算机，其中超导电路需要冷却到接近绝对零度。这些量子计算机依赖于名为 dilution refrigerators 的制冷系统将温度冷却到 1K 或以下。制冷系统复杂而庞大笨重。现在芬兰科学家报告他们正在开发纯电子制冷法，更小更简单，功耗是现有系统的十分之一。电子制冷有望大幅缩小量子计算机的体积。新制冷系统使用电子形式散热。科学家正在开发一种商业演示系统，该项目获得了欧盟的资助。",
-          "link": "https://www.solidot.org/story?sid=76072",
-          "publishedOn": "2023-09-13T10:52:20.000Z",
-          "wordCount": 146,
-          "title": "电子制冷有望大幅缩小量子计算机的体积",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76071",
-          "author": null,
-          "description": "9 月 4 日形成的地中海飓风丹尼尔（Storm Daniel）给利比亚造成了灾难性影响，逾五千人死亡，数万人失踪，死亡人数还在继续攀升。利比亚地方当局周二表示，暴雨导致沿海城市德尔纳附近的两座大坝决堤，该市大部分地区被毁，多处社区被完全卷入海中。利比亚由两个敌对政权分治，这导致救灾援助工作更加复杂。管理利比亚东部的政府的内政部发言人表示，仅在德尔纳市就有至少 5200人 死亡。但洪水还淹没了东部其它聚居地，包括沙哈特、贝达和马吉，至少有 2 万民众流离失所。分析人士称，利比亚政治分裂、经济不稳定、腐败、环境恶化和基础设施破败的种种问题似乎都在德尔纳南部大坝垮塌后的灾难中同时爆发出来了。",
-          "link": "https://www.solidot.org/story?sid=76071",
-          "publishedOn": "2023-09-13T10:00:19.000Z",
-          "wordCount": 150,
-          "title": "利比亚洪灾致逾五千人死亡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76070",
-          "author": null,
-          "description": "制造诺基亚品牌手机的芬兰公司 HMD 宣布将推出自有品牌智能手机。HMD Global CEO Jean-Francois Baril 表示，新的 HMD 品牌将和诺基亚品牌共存，将与新的伙伴携手合作，但更多细节没有披露。HMD Global 成立于 2016 年，当时微软将原诺基亚的手机业务出售给了鸿海旗下公司，HMD Global 则获得了诺基亚品牌未来 10 年独家使用权，它的诺基亚品牌手机都是由鸿海富士康制造的。",
-          "link": "https://www.solidot.org/story?sid=76070",
-          "publishedOn": "2023-09-13T09:02:39.000Z",
-          "wordCount": 166,
-          "title": "诺基亚手机制造商 HMD 推出自有品牌智能手机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76069",
-          "author": null,
-          "description": "苏黎世联邦理工学院和卢塞恩应用科学与艺术大学的学生手工打造的电动赛车 mythen 打破了汽车加速世界纪录。电动汽车从零加速到时速百公里仅用时 0.956 秒。该记录已获得吉尼斯认证。此前的记录是由德国斯图加特大学团队在 2022 年 9 月创造的，他们的电动汽车从零加速到时速百公里耗时 1.461 秒，新记录减少了 0.5 秒。mythen 的所有组件，从 PCB 到底盘和电池，都是由学生开发的，并对其功能进行了优化。赛车的重量仅为 140 公斤，动力系统功率为 240 千瓦。",
-          "link": "https://www.solidot.org/story?sid=76069",
-          "publishedOn": "2023-09-13T08:00:48.000Z",
-          "wordCount": 168,
-          "title": "电动汽车从零加速到时速百公里仅用时 0.956 秒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76068",
-          "author": null,
-          "description": "在  Unity 引擎宣布备受争议的新付费模式的同时，它的竞争对手、开源游戏引擎项目 Godot 宣布成立开发基金，帮助开发者获得稳定的资金来源，确保项目的长寿。开发基金有 7 个级别：从青铜到钻石到赞助，最低资助为每月 5 欧元。Godot 基金会注册地点是欧洲的荷兰，它今年早些时候释出了 v4.0 版本。在 Unity 公布基于安装量的收费模式后，部分游戏项目正在考虑采用 Godot 引擎。",
-          "link": "https://www.solidot.org/story?sid=76068",
-          "publishedOn": "2023-09-13T06:58:38.000Z",
-          "wordCount": 160,
-          "title": "Godot 引擎项目宣布成立开发基金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76067",
-          "author": null,
-          "description": "Valve 于 2003 年 9 月 12 日推出了 Steam。Valve 开发的备受期待的 FPS 游戏《半衰期2》必须安装 Steam 客户端才能运行，当时这一做法曾引发很多争议。今天通过 Steam 平台访问游戏对绝大部分 PC 玩家而言已经像是呼吸空气那样理所当然的事情了。Steam 彻底改变了 PC 游戏市场，也改变了 Valve，它从一家游戏工作室转变成为了游戏零售行业的霸主，以至于它现在很少开发新游戏，二十年后《半衰期2》的续作仍然没有诞生。作为庆祝活动的一部分，Valve 在 Steam 上回顾了过去二十年的热门游戏。",
-          "link": "https://www.solidot.org/story?sid=76067",
-          "publishedOn": "2023-09-13T06:09:20.000Z",
-          "wordCount": 170,
-          "title": "Steam 庆祝发布二十周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76066",
-          "author": null,
-          "description": "备受瞩目的 Google 反垄断诉讼案周二开庭。Google 律师称，企业选择 Google 作为浏览器和智能手机的默认搜索引擎是因为它是最好的，而不是因为缺乏竞争。代表搜索巨人的 Williams & Connolly LLP 律所合伙人John Schmidtlein 反驳了美国司法部的说法，也就是指 Google 利用其市场支配力量和数十亿美元与浏览器开发商达成的独占协议，非法的阻止了竞争对手。Schmidtlein 称用户是有选择的，很容易切换默认搜索引擎。比如微软在 Windows 上的默认搜索引擎是 Bing，但用户切换到 Google 是因为它是搜索市场上更好的产品。他表示，苹果和 Firefox 的开发商 Mozilla 长期以来都通过默认搜索引擎交易换取收入分成，帮助支付创新上的开支。",
-          "link": "https://www.solidot.org/story?sid=76066",
-          "publishedOn": "2023-09-13T03:48:43.000Z",
-          "wordCount": 169,
-          "title": "Google 称它的搜索引擎是最好的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76065",
-          "author": null,
-          "description": "苹果在周二举行的新闻发布会上宣布了采用 USB-C 端口的 iPhone 15 系列新品。iPhone 15 的价格比上一代更贵，将于 9 月 15 日开放预购，9 月 22 日发售，其中 iPhone 15 起售价 5999 元，iPhone 15 Pro 7999 元。iPhone 15 配备了 6.1 英寸或 6.7 英寸的 OLED 全面屏，A16 仿生芯片采用台积电 3 纳米工艺制造，包括 6 核 CPU(2 性能 4 能效)和5 核 GPU 以及 16 核神经网络引擎，主摄像头 4800 万像素。值得一提的是，iPhone 15 Pro 的 USB-C 配的是 USB 3 线，传输速度最高 10 Gbps，而非 Pro 版配的是 USB 2.0 线，传输速度最高 480 Mbps，这在 2023 年是难以想象的。",
-          "link": "https://www.solidot.org/story?sid=76065",
-          "publishedOn": "2023-09-13T03:25:30.000Z",
-          "wordCount": 223,
-          "title": "苹果发布采用 USB-C 的 iPhone 15",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76064",
-          "author": null,
-          "description": "被广泛用于制作手游、独立游戏的引擎 Unity 宣布了新的付费模式：从 2024 年 1 月 1 日起将根据游戏的安装量引入版税或者叫新的 Unity Runtime 费用。Unity Personal 和 Unity Plus 用户过去 12 个月的收入达到或超过 20 万美元，且达到了20 万次的游戏生命周期内的安装量需要支付 Unity Runtime 费用。Unity Pro 和 Unity Enterprise 用户的门槛则提高到 100 万。超过门槛之后，每次安装将需要支付 $0.20（Personal 和 Plus 用户）或最低 $0.01（Enterprise 用户）。这意味着游戏开发商的成本将显著增加。米哈游的《原神》就是用 Unity 引擎开发的。",
-          "link": "https://www.solidot.org/story?sid=76064",
-          "publishedOn": "2023-09-12T16:01:14.000Z",
-          "wordCount": 184,
-          "title": "Unity 引入基于安装量的版税收费模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76063",
-          "author": null,
-          "description": "1935 年，两位当时最著名的物理学家爱因斯坦和薛定谔就现实本质产生了争论。爱因斯坦认为宇宙是局域性的，一个地方发生的事情不会立即影响遥远的另一个地方。薛定谔认为量子纠缠与局域性的假设相悖。当一对粒子发生纠缠时，测量其中一个粒子会立即影响到另一个粒子，无论它身在何处。这违背了爱因斯坦关于传播速度无法超越光速的铁令。爱因斯坦不喜欢不受范围限制的纠缠，他将其称之为幽灵，认为量子力学理论是不完整的。今天的物理学家基本上解决了该问题，纠缠不会在遥远的地方产生立即的影响，它无法在遥远距离上实现特定结果：它只是传播该结果的知识。过去几年一系列的理论和实验研究揭示了纠缠的新面孔：它不是成对出现，而是以粒子星图的形式出现。纠缠通过一组粒子自然传播，建立了一个复杂的临时网。如果你测量粒子的频率足够多，你能阻止网的形成。这种网状非网状的状态令人想起物质的液态固态。网状与非网状的转变代表着信息结构的变化，这是信息的相变。",
-          "link": "https://www.solidot.org/story?sid=76063",
-          "publishedOn": "2023-09-12T15:30:07.000Z",
-          "wordCount": 142,
-          "title": "物理学家观测到“不可观测”的量子相变",
           "imageUrl": null
         }
       ]
