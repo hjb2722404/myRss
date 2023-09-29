@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46574",
+          "author": "青小蛙",
+          "description": "DoubleKiller 是一款针对个人用户免费使用，在 Windows 上查找并删除重复文件的小工具。基于文件名、尺寸、日期、CRC32 校验四种方式相互结合完成重复文件的查找与删除。@Appinn",
+          "link": "https://www.appinn.com/doublekiller-2/",
+          "publishedOn": "2023-09-28T04:30:51.000Z",
+          "wordCount": 2642,
+          "title": "DoubleKiller – 查找并删除重复文件[Windows]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/Appinn-feature-images-2023-09-28T120457.924.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46564",
           "author": "青小蛙",
           "description": "来自群友的问题：请教一下 有没有查询一个城市可以直飞其他城市航班的软件或者网页。我只是想在假期后随便找个城市飞去旅游。 微博的网友提供了不少答案，如下： 飞常准 @曲泽弘:飞常准app，机票购买，机票",
@@ -140,16 +150,6 @@
           "wordCount": 2677,
           "title": "功德++：想不到这款应用居然是 iOS 17 的新功能最佳演示｜iOS 17 都更新了什么？",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/gongde.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46491",
-          "author": "青小蛙",
-          "description": "桌面计算器是一款适配最新 iOS 17 互动式桌面小组件的应用，它能让你在桌面上直接计算，随时用。目前内购限免中。@Appinn 来自 @hzlzh 自力 同学的应用，以下内容为开发者提交： 一款超强",
-          "link": "https://www.appinn.com/desktop-calculator-ios17/",
-          "publishedOn": "2023-09-19T02:53:28.000Z",
-          "wordCount": 2543,
-          "title": "📱 桌面计算器 – iOS 17 互动式小组件，在桌面随时计算",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/zhuomian-jisuanqi.jpg"
         }
       ]
     },
@@ -187,6 +187,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76222",
+          "author": null,
+          "description": "美国和日本对黑客组织 BlackTech aka Palmerworm、Temp.Overboard、Circuit Panda 和 Radio Panda 秘密在路由器上植入后门固件发出了警告。BlackTech 的活动至少始于 2010 年，它设法获得管理员凭证访问子公司使用的网络设备，安装后门固件，然后逐渐渗透和入侵关联公司的网络。BlackTech 通常以分支机构使用的路由器为目标，然后滥用企业网络之间路由器的信任关系。安全警告提到了思科的路由器。思科表示攻击者只能该公司的旧型号路由器上安装后门固件，新路由器能阻止运行未经授权的固件。",
+          "link": "https://www.solidot.org/story?sid=76222",
+          "publishedOn": "2023-09-28T09:54:37.000Z",
+          "wordCount": 154,
+          "title": "美日对黑客组织秘密在路由器植入后门固件发出警告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76221",
+          "author": null,
+          "description": "Raspberry Pi 基金会宣布了 Raspberry Pi 5，4GB 版本售价 60 美元，8GB 版本 80 美元。主要规格包括：2.4GHz 四核 64位 Arm Cortex-A76 CPU；VideoCore VII GPU，支持 OpenGL ES 3.1 和 Vulkan 1.2；双 4Kp60 HDMI 显示输出；4Kp60 HEVC 解码器；双频段 802.11ac Wi-Fi；蓝牙 5.0 /蓝牙低功耗(BLE)；2 × USB 3.0 端口，2 × USB 2.0 端口，高速 microSD 卡接口，等等。",
+          "link": "https://www.solidot.org/story?sid=76221",
+          "publishedOn": "2023-09-28T08:05:40.000Z",
+          "wordCount": 204,
+          "title": "Raspberry Pi 基金会宣布 Raspberry Pi 5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76220",
+          "author": null,
+          "description": "即使你不养猫，通过社交媒体你也会知道猫喜欢盒子。为什么猫喜欢呆在盒子里？原因正如你所预料的：盒子的狭窄空间给猫带来安全感。研究显示，让动物收容所的猫躲藏在盒子里，它们的压力水平会显著降低。兽医行为学家 Nicholas Dodman 认为，藏身狭窄空间是一种“襁褓”行为，是幼时与母亲和兄弟姐妹依偎在一起留下的。但除了实体盒子，猫对某种虚拟盒子也很痴迷。办公桌、桌子或地板上的一张纸都对猫具有强大的吸引力。Dodman 认为这类似安慰剂效应。纽约州立大学的一项研究发现，猫容易受到视觉错觉的影响。",
+          "link": "https://www.solidot.org/story?sid=76220",
+          "publishedOn": "2023-09-28T07:57:15.000Z",
+          "wordCount": 145,
+          "title": "为什么猫咪喜欢盒子？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76219",
+          "author": null,
+          "description": "CERN 的 ALPHA-g 探测器是 一个反氢原子的磁阱，专门用于研究引力效应。研究团队通过实验观察到，释放到ALPHA-g 的被磁阱捕获的反氢原子，更倾向于从装置的底部下落。该研究结果验证了反物质和普通物质受到相同引力效应的主流观点，这与广义相对论的预测相符。研究人员认为，该研究为进一步检验弱等效原理铺平了道路，有望增进人们对反物质的引力性质的理解。广义相对论预测引力对所有物质“一视同仁”。反物质不代表反引力。如今的实验在证明这一点的同时，也让物理学家进一步了解反物质的本质，从宏观方面讲，这一结果可帮助人们探求宇宙形成初期反物质比重之谜；从实用角度看，其还可推动正电子发射断层扫描技术的进步，它正是通过对反物质的应用来检测癌症，真正挽救了许多生命。",
+          "link": "https://www.solidot.org/story?sid=76219",
+          "publishedOn": "2023-09-28T06:48:12.000Z",
+          "wordCount": 147,
+          "title": "科学家观测到引力对反物质的影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76218",
+          "author": null,
+          "description": "大众汽车周三遭遇了严重的 IT 故障，导致了停产。此前丰田也遭遇了类似的大规模停产事故，原因是服务器磁盘满了。大众表示，保时捷、奥迪和大众品牌都受到影响。大众没有详细说明发生的 IT 故障，只是表示事故发生在公司总部所在地 Wolfsburg。大众表示外部攻击不太可能是故障的原因，它已经将解决该问题作为优先任务。停产影响到了位于德国 Emden、Osnabrueck、Hanover、Dresden 和 Zwickau 的工厂，以及 Braunschweig、Kassel、Chemnitz 和 Salzgitter 的零部件工厂。",
+          "link": "https://www.solidot.org/story?sid=76218",
+          "publishedOn": "2023-09-28T06:12:56.000Z",
+          "wordCount": 162,
+          "title": "大众汽车因 IT 故障停产",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76217",
           "author": null,
@@ -1076,116 +1126,6 @@
           "wordCount": 177,
           "title": "海盗湾庆祝二十周年",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76128",
-          "author": null,
-          "description": "康奈尔大学和微软的一项研究发现，远程工人的碳足迹能比现场工人少 54%。研究报告发表在 PNAS 期刊上。研究还发现，每周在家远程工作 2-4 天的混合办公工人的碳足迹能减少 11%-29%，但只在家远程办公一天的碳足迹几乎不减少，仅为少 2%。论文资深作者、康奈尔的 Fengqi You 指出，远程办公并不是零碳，混合办公带来的碳足迹减少也不是线性的。现场工作和混合办公对碳足迹的影响主要来自出行的能耗和办公室用电。远程工作天数的增加会推动非通勤出行的增加，比如社交和娱乐活动；混合办公工人通常比现场办公居住的更遥远，因此通勤时间更长。",
-          "link": "https://www.solidot.org/story?sid=76128",
-          "publishedOn": "2023-09-19T13:45:18.000Z",
-          "wordCount": 152,
-          "title": "远程工作能大幅减少碳足迹",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76127",
-          "author": null,
-          "description": "安全公司趋势科技的研究人员披露了黑客组织 Earth Lusca 使用的全新 Linux 后门。研究人员自 2021 年以来一直跟踪 Earth Lusca，他们在其服务器上发现了一个加密二进制文件，通过 VirusTotal 搜索文件名 libmonitor.so.2，研究人员找到了一个可执行 Linux 文件 mkmon，它包含了可用于解密 libmonitor.so.2 的凭证。研究人员发现解密后的有效负荷是一个他们从未见过的 Linux 后门。主执行例行程序(routine)和字符串显示其源自开源 Windows 后门 Trochilus，有多个功能是专为 Linux 重新实现的。他们将该 Linux 后门命名为 SprySOCKS。它有版本号的标记，显示它还在开发之中。",
-          "link": "https://www.solidot.org/story?sid=76127",
-          "publishedOn": "2023-09-19T10:30:30.000Z",
-          "wordCount": 178,
-          "title": "安全公司披露全新 Linux 后门",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76126",
-          "author": null,
-          "description": "1983 年 9 月 27 日，计算机科学家 Richard Stallman 宣布开发类 Unix 自由软件操作系统 GNU 的计划，名字 GNU 代表 GNU's not Unix。GNU 是唯一一个为捍卫用户自由而开发的操作系统，四十年始终如一。它为私有操作系统提供了一个完整的合乎道德的替代。自由软件运动的历史就是始于 GNU。自由软件基金会（FSF）执行董事 Zoë Kooyman 表示，GNU 系统不仅仅是基于自由软件的最广泛使用的操作系统，也是指导自由软件运动四十年的哲学理念的核心。9 月 27 日，FSF 将庆祝 GNU 和自由软件运动四十年。四十年后的今天，自由软件比以往任何时候都重要，软件已经深入到我们的日常生活，但它无法被大部分用户控制。",
-          "link": "https://www.solidot.org/story?sid=76126",
-          "publishedOn": "2023-09-19T09:19:14.000Z",
-          "wordCount": 174,
-          "title": "GNU 和自由软件运动四十周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76125",
-          "author": null,
-          "description": "以色列总理内塔尼亚胡(Benjamin Netanyahu)与马斯克(Elon Musk)周一会面，讨论了 AI 以及 X/Twitter 平台上的反犹言论，马斯克表示为了打击机器人账号，他考虑实行付费制，认为这是唯一的方法。目前不清楚这是马斯克随口的评论，还是尚未宣布的计划的信号。X/Twitter 公司尚未对此置评。马斯克一直说过，消除社媒平台上机器人账号和虚假账号的唯一方法是付费验证。X/Twitter 目前有付费和免费两种模式，付费用户叫 X Premium，提供了更多功能，可以发更长的帖子和更多的曝光度。",
-          "link": "https://www.solidot.org/story?sid=76125",
-          "publishedOn": "2023-09-19T08:06:13.000Z",
-          "wordCount": 159,
-          "title": "马斯克考虑 Twitter/X 推行付费制",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76124",
-          "author": null,
-          "description": "英伟达 GPU 内核开源驱动 Nouveau 的维护者 Ben Skeggs 辞职，宣布退出开发。Ben Skeggs 此前一直为 Red Hat 工作，他从 2008 年起就担任 Nouveau 的维护者。他最后递交的补丁为内核驱动加入了利用英伟达 GPU 系统处理器 GSP 固件改进 RTX 20/30 系列显卡的硬件支持，加入对 RTX 40 Ada Lovelace GPU 的初步支持。英伟达最近开源了其内核驱动，但用户空间驱动仍然是闭源的。",
-          "link": "https://www.solidot.org/story?sid=76124",
-          "publishedOn": "2023-09-19T07:40:52.000Z",
-          "wordCount": 178,
-          "title": "英伟达开源内核驱动 Nouveau 维护者辞职",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76123",
-          "author": null,
-          "description": "美国的教科书出版商起诉了知名电子书库 Library Genesis（Libgen）侵犯版权，要求将 Libgen 的域名转让给原告，或者删除其域名。起诉书称，根据 similarweb.com 的数据，2023 年 3 月到 5 月，Libgen 网站每个月共吸引了 900 万美国访客，部分 Libgen 网站以英文形式请求用户捐赠，捐赠使用的比特币或门罗币。自 2023 年 1 月 1 日以来它共筹集到 182540 美元的捐款。教科书出版商还表示，美国学生被社交网络和同龄人鼓励使用 Libgen 获得盗版教科书而不是花钱买合法教科书，剥夺了出版商以及作者们的收入。出版商们还指控搜索引擎 Google、域名注册商 NameCheap 以及代理服务提供商 Cloudflare 等第三方公司帮助 Libgen 非法运作。",
-          "link": "https://www.solidot.org/story?sid=76123",
-          "publishedOn": "2023-09-19T06:10:20.000Z",
-          "wordCount": 187,
-          "title": "美国教科书出版商起诉 Library Genesis 侵犯版权",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76122",
-          "author": null,
-          "description": "微软向 Windows Insider 推送了画图应用更新，加入了对图层和透明度的支持。对于图层，用户现在可在画布上添加、删除和管理图层，创建更丰富更复杂的数字艺术。用户可通过工具栏中的新图层按钮打开侧面板，给画布添加图层，或更改图层顺序。对于透明度，微软称用户可以打开和保存透明 PNG，在画布上擦除内容将是真的删除掉内容，而不是涂成白色。如果有多个图层，擦除上一个图层中的内容将会显示下一个图层中的内容。",
-          "link": "https://www.solidot.org/story?sid=76122",
-          "publishedOn": "2023-09-19T05:38:20.000Z",
-          "wordCount": 153,
-          "title": "Windows 画图应用将支持图层和透明度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76121",
-          "author": null,
-          "description": "在引发广泛争议之后，游戏引擎开发商 Unity 正在调整它的收费政策，对收取的费用设定了上限。此前受争议的收费模式是在达到一定门槛(20 万美元或 100 万美元)之后再根据安装量收费，这种模式下收费是没有上限的。根据暂定的计划，Unity 对收入超过 100 万美元的客户收取的费用不会超过其总收入的 4%，对达到门槛的安装量不会追溯。Unity 还没有正式宣布新收费政策的改动。对于如何跟踪安装量，该公司此前表示是利用私有工具，但现在改为由客户自行报告。CEO John Riccitiello 在员工会议上表示，新政策旨在从大客户身上获取更多收入，逾九成的客户不会受到影响。对于如何恢复社区对公司的信任，公司高管表示将通过行动展示而不是光说不做。",
-          "link": "https://www.solidot.org/story?sid=76121",
-          "publishedOn": "2023-09-19T03:44:52.000Z",
-          "wordCount": 158,
-          "title": "Unity 修改收费政策，对收取的费用设定上限",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76120",
-          "author": null,
-          "description": "香港警方周一逮捕了当地社交媒体名人林作及其他五人。警方表示，该团伙涉嫌“合谋诈骗”投资者。就在上述抓捕行动几日前，香港证监会点名加密货币交易平台 JPEX，称其无牌照经营，并利用社交媒体上的名人来赢得业务。林作曾为 JPEX 平台宣传；JPEX 的某些产品回报率高达 21%。香港监管机构是世界上最看好加密货币的监管机构之列，但他们要求所有交易所都必须获得牌照。警方表示，迄今已收到 1400 多人对此案的投诉，涉及资产价值约 1.28 亿美元。",
-          "link": "https://www.solidot.org/story?sid=76120",
-          "publishedOn": "2023-09-19T02:54:24.000Z",
-          "wordCount": 150,
-          "title": "香港警方逮捕加密货币网红",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76119",
-          "author": null,
-          "description": "正在罢工的全美汽车工人联合会(UAW)希望提高薪资、改善工作保障、增加退休人员的工资，以及实行每周 32 小时工作制，这可能会推动工作周缩短事宜在更大范围内被接受。专家们说，如果工会在每周 32 小时工作制的要求上取得胜利，这可能会对更广泛的每周四天工作制运动的发展势头产生重大影响。致力于推动四天工作制的 Four Day Week Global 的主管 Alex Soojung-Kim Pang 称，如果 UAW 成功拿下每周 32 小时工作制，“将有助于将每周四天工作制转变为每个工人和企业主的主流诉求，而不再是一件如果你有一位大胆的领导者或是你想在行业中脱颖而出才会去做的事”。",
-          "link": "https://www.solidot.org/story?sid=76119",
-          "publishedOn": "2023-09-18T15:10:53.000Z",
-          "wordCount": 162,
-          "title": "UAW 罢工寻求推行四天工作制",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76118",
-          "author": null,
-          "description": "今年初，因基本上没人用且没人维护，内核开发者讨论了是否移除英特尔的安腾 IA64 架构。现在半年之后 Linux 内核真的准备移除安腾架构了。英特尔已经在 2021 年淘汰了安腾处理器产品。正在开发的 Linux 6.6 预计将被选为长期支持版本，它很有可能是最后一个支持安腾架构的内核版本。移除安腾架构的 pull request 进入了 linux-next 分支，这意味着如果没有意外发生，Linux 6.7 将移除对安腾的支持。",
-          "link": "https://www.solidot.org/story?sid=76118",
-          "publishedOn": "2023-09-18T15:05:12.000Z",
-          "wordCount": 169,
-          "title": "Linux 内核准备移除安腾 IA64 架构",
-          "imageUrl": null
         }
       ]
     },
@@ -1255,6 +1195,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/20-new-number-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 20 new binary tools and and today we just added 20 new tools to our Online Number Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new number tools.\nGenerate Fibonacci-like Series\nCalculate Linear Recurrence Series\nFind the Greatest Common Divisor\nFind the Least Common Multiple\nGenerate a Sequence of Squares\nGenerate a Sequence of Cubes\nGenerate Powers of Two\nGenerate Powers of Ten\nShuffle Digits in a Number\nAdd Fractions\nFind the Inverse of a Matrix\nFind the Maximum Number\nFind the Minimum Number\nConvert Numbers to Words\nConvert Words to Numbers\nConvert a Number to Negadecimal Base\nChange a Number's Base\nCreate Neat Unicode Fractions\nCreate a Palindrome from a Number \nCheck if a Number is a Palindrome\nNext week we'll add even more tools. See you then!",
+          "link": "https://catonmat.net/20-new-number-tools",
+          "publishedOn": "2023-09-28T06:30:00.000Z",
+          "wordCount": 247,
+          "title": "We've added 20 new number tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/virtual-browser-comprehensive-guide",
           "author": null,
