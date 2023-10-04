@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46592",
+          "author": "青小蛙",
+          "description": "PDF24 是一款由真牧羊人开发的 77 款在线 PDF 处理工具，拥有一个可离线、完全不联网的 Windows 客户端。每一项工具图标都有一只羊构成，并且开发者是一位真正的牧羊人，在德国管理了很多羊",
+          "link": "https://www.appinn.com/pdf24/",
+          "publishedOn": "2023-10-03T03:23:00.000Z",
+          "wordCount": 2633,
+          "title": "PDF24 – 牧羊人开发的 77 款免费、在线 PDF 处理工具，有离线 Win 版本｜全是羊，很多羊",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/10/IMG_2788.webp"
+        },
+        {
           "id": "https://www.appinn.com/?p=46587",
           "author": "青小蛙",
           "description": "NOVA Video Player 是一款开源的安卓视频播放器，支持从本地、局域网、NAS、网盘*上播放视频，拥有海报背景墙和刮削功能，内置字幕下载，支持 Android 手机、平板、电视。@Appi",
@@ -120,16 +130,6 @@
           "wordCount": 2716,
           "title": "Image Eye – 简洁明了的无边框图片浏览器[Windows]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/Appinn-feature-images-2023-09-25T112730.426.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46525",
-          "author": "青小蛙",
-          "description": "Omnivore 是一款开源的稍后阅读工具，拥有浏览器插件、iPhone、Android 客户端，支持抓取微信公众号图片，可整合 Logseq、Obsidian、Webhooks，有朗读、搜索、根据规",
-          "link": "https://www.appinn.com/omnivore/",
-          "publishedOn": "2023-09-24T08:30:06.000Z",
-          "wordCount": 2653,
-          "title": "Omnivore – 开源稍后阅读工具，可跨设备同步阅读进度，支持抓取微信公众号，可整合 Logseq、Obsidian",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/09/Appinn-feature-images-2023-09-24T160143.712.jpg"
         }
       ]
     },
@@ -167,6 +167,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76244",
+          "author": null,
+          "description": "印度警方以打击恐怖主义的名义扣押了左倾新闻网站 Newsclick.in 记者和讽刺作家的笔记本电脑和手机，两名记者被拘留。这次突击搜查是莫迪政府领导对记者采取的一系列行动的最新一起。莫迪政府正通过打压独立媒体控制国家在线上和线下的叙事，同时允许亲政府媒体不受惩罚的传播对少数族裔的虚假信息和仇恨信息。自莫迪在 2014 年上台以来，印度政府在反恐法律下指控了多名记者。该国政府还被指控在至少两名被捕者的设备上植入了证据。印度新闻俱乐部（Press Club of India）对 Newsclick 事件表达了关切。",
+          "link": "https://www.solidot.org/story?sid=76244",
+          "publishedOn": "2023-10-03T14:22:43.000Z",
+          "wordCount": 150,
+          "title": "印度用反恐法打击记者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76243",
+          "author": null,
+          "description": "Arm 周一警告其 Mali 系列 GPU 驱动漏洞 CVE-2023-4211 正被活跃利用。Mali GPU 被广泛用于 Google Pixels 等 Android 手机，Chromebook 等 Linux 设备。本地非特权用户可利用该漏洞访问已释放的内存。访问不再使用的系统内存是将恶意代码加载到攻击者可执行位置的一种常见机制。Arm 表示它已在 Bifrost、Valhall 和 Arm 第五代 GPU 架构内核驱动版本 r43p0 中修复了该漏洞，受影响的版本包括：Midgard 内核驱动版本 r12p0 - r32p0，Bifrost 驱动版本 r0p0 - r42p0，Valhall 驱动版本 r19p0 - r42p0，Arm 第五代 GPU 架构内核驱动版本 r41p0 - r42p0。高通芯片使用的是 Adreno GPU，使用高通芯片的 Android 手机不受影响。",
+          "link": "https://www.solidot.org/story?sid=76243",
+          "publishedOn": "2023-10-03T14:07:06.000Z",
+          "wordCount": 202,
+          "title": "Arm 警告其 GPU 驱动漏洞正被活跃利用",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76241",
           "author": null,
@@ -816,36 +836,6 @@
           "wordCount": 161,
           "title": "网友称为境外公司远程工作被没收所有违法所得",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76176",
-          "author": null,
-          "description": "Google 通过支持文档披露，Gmail 将从明年 1 月起停止支持基本 HTML 视图。基本 HTML 视图旨在解决 Gmail 无法加载或加载太慢的问题——比如浏览器不被支持或网速太慢，它只包含  Gmail 基本功能，没有新版本 Gmail 加入的日益臃肿的与邮件无关的功能，如聊天、拼写检查、富文本格式，等等。如果以后用户还会遇到加载问题，Google 建议用户使用 Gmail 应用或邮件客户端。",
-          "link": "https://www.solidot.org/story?sid=76176",
-          "publishedOn": "2023-09-24T10:59:20.000Z",
-          "wordCount": 178,
-          "title": "Gmail 将从明年 1 月起停止支持基本 HTML 视图",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76175",
-          "author": null,
-          "description": "欧盟就英特尔在 2002-2007 年之间阻止竞争对手 AMD 进入市场而对其罚款 4 亿美元（3.76 亿欧元）。这起反垄断诉讼可追溯到 2009 年，当时欧盟就英特尔的反垄断行为开出了创纪录的 11.3 亿美元罚款。英特尔隐藏回扣等行为因缺乏伤害证据而在上诉中驳回，但欧盟委员会维持了英特尔向 PC 厂商付费限制或推迟推出 AMD 产品的指控。举例来说，2002-2005 年英特尔向惠普付费要求其不得通过直销渠道向中小企业提供采用 AMD CPU 的电脑；英特尔付费给宏碁公司，要求其将 AMD 笔电的推出时间从 2003 年底推迟到 2004 年初；英特尔付费给联想公司，要求其将 AMD 笔电的推出时间推迟六个月。欧盟委员会已就被驳回的回扣指控提起上诉，如果上诉法院裁定回扣也违反反垄断法，英特尔可能面临更多罚款。",
-          "link": "https://www.solidot.org/story?sid=76175",
-          "publishedOn": "2023-09-24T03:39:16.000Z",
-          "wordCount": 192,
-          "title": "欧盟就英特尔付钱给 PC 厂商阻止 AMD 进入市场而罚款 4 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76174",
-          "author": null,
-          "description": "根据发表在《Lancet Planetary Health》期刊上的最新模型估计，铅中毒导致的死亡和 IQ 损失远远超过此前的预期。铅中毒会导致心脏病和大脑发育等一系列问题，含铅汽油已在全世界被禁止使用，但人们仍然可能通过食物、土壤、炊具、肥料、化妆品、铅酸汽车电池等接触到铅。世界银行的两名经济学家通过模型估计，2019 年有 550 万成年人死于铅暴露导致的心脏病，其中九成生活在中低收入国家。研究还估计，2019 年全球五岁以下儿童因铅中毒累计损失了 7.65 亿 IQ 分数，其中 95% 发生在发展中国家。",
-          "link": "https://www.solidot.org/story?sid=76174",
-          "publishedOn": "2023-09-23T14:54:25.000Z",
-          "wordCount": 164,
-          "title": "铅中毒导致的死亡和 IQ 损失超过预期",
-          "imageUrl": null
         }
       ]
     },
@@ -963,16 +953,6 @@
           "publishedOn": "2023-09-25T17:00:00.000Z",
           "wordCount": 1187,
           "title": "Virtual Browser: A Comprehensive Guide",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/how-to-access-tor-network-without-installing-tor-browser",
-          "author": null,
-          "description": "TLDR: You can use Browserling and get an online Tor browser via browserling.com/tor.\nIntroduction\nAnonymity and privacy on the Internet have never been more critical. The Tor browser, renowned for its robust privacy features, has long been the go-to option for anonymous browsing. However, not everyone wants to download and install additional software (especially Tor) or might be using a computer where installations are restricted. At Browserling, we created a cloud version of the Tor browser and you can start browsing Onion links directly from your standard web browser. This blog post delves into how you can use an online Tor browser via Browserling without any installations.\nWhat Sets the Tor Browser Apart\nThe Tor browser is a specialized web browser built for anonymity and privacy. It ac…",
-          "link": "https://catonmat.net/how-to-access-tor-network-without-installing-tor-browser",
-          "publishedOn": "2023-09-24T10:55:00.000Z",
-          "wordCount": 962,
-          "title": "How to Access the Tor Network Without Installing the Tor Browser",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
