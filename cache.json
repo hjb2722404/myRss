@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=46643",
+          "author": "青小蛙",
+          "description": "DocsGPT 是一款开源的、可自托管、可自定义模型、可自定义 Prompt 的 AI 文档提问、总结工具。@Appinn 这是一个很有意思的项目，针对很多小团队想用 AI 处理文档又担心泄密的问题，",
+          "link": "https://www.appinn.com/docsgpt/",
+          "publishedOn": "2023-10-10T07:35:38.000Z",
+          "wordCount": 2551,
+          "title": "DocsGPT – 开源、可自托管，向 PDF、TXT 文档提问，让 AI 帮你总结。",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/10/Appinn-feature-images-2023-10-10T144123.511.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=46640",
+          "author": "青小蛙",
+          "description": "SingleFile 是一款著名的网页离线保存工具，支持 Chrome、Edge、Firefox、Safari，它可以将网页完整保存为一个单文件。最近（2023年10月4日）发布了 v1.22 版本，",
+          "link": "https://www.appinn.com/singlefile-v1-22/",
+          "publishedOn": "2023-10-10T04:10:08.000Z",
+          "wordCount": 2549,
+          "title": "著名网页离线保存工具 SingleFile v1.22 新增通用自解压 ZIP 功能，可节省 4 倍硬盘空间",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/10/Appinn-feature-images-2023-10-10T114120.918.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46637",
           "author": "青小蛙",
           "description": "最新的 Windows 11 23H2 已经有了传说已久的 Windows Copilot 智能助手，但目前微软并没有面向全球完全开放这个功能，所以需要一些「手段」才能打开它。@Appinn Wind",
@@ -100,16 +120,6 @@
           "wordCount": 2633,
           "title": "PDF24 – 牧羊人开发的 77 款免费、在线 PDF 处理工具，有离线 Win 版本｜全是羊，很多羊",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/10/IMG_2788.webp"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46587",
-          "author": "青小蛙",
-          "description": "NOVA Video Player 是一款开源的安卓视频播放器，支持从本地、局域网、NAS、网盘*上播放视频，拥有海报背景墙和刮削功能，内置字幕下载，支持 Android 手机、平板、电视。@Appi",
-          "link": "https://www.appinn.com/nova-video-player/",
-          "publishedOn": "2023-10-01T07:50:48.000Z",
-          "wordCount": 2574,
-          "title": "NOVA Video Player – 开源 Android 视频播放器，支持手机、平板、电视，支持刮削、NAS 等",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/10/Appinn-feature-images-2023-10-01T152127.278.jpg"
         }
       ]
     },
@@ -142,6 +152,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11022",
+          "author": "张 鑫旭",
+          "description": "3年前有更新过JS剪裁audio音频，今天我们再讲讲如何使用原生的JS实现多个音频的拼接或合并，此文可是其他地方见不到的哟。",
+          "link": "https://www.zhangxinxu.com/wordpress/2023/10/js-audio-audiobuffer-concat-merge/",
+          "publishedOn": "2023-10-10T14:53:25.000Z",
+          "wordCount": 1197,
+          "title": "纯JS实现多个音频的拼接或者合并",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=11026",
           "author": "张 鑫旭",
           "description": "本文介绍三种改变音频播放音量的方法，其中还有一种方法直接改变音频AudioBuffer数据源的音量，说不定你哪天就会用到。",
@@ -158,6 +178,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76300",
+          "author": null,
+          "description": "2002 年 6 月 2 日，一位 Firefox 用户报告了一个 bug：当鼠标悬浮在工具栏图标上时会展示相关提示。如果此时将浏览器从前台切换到后台，该鼠标提示会仍然留在前台，摆脱这一恼人提示的唯一方法是再次将浏览器从后台切换到前台，然后移动鼠标。22 年后 Mozilla 终于修复了该 bug，相关 bugzilla 报告终于关闭了。",
+          "link": "https://www.solidot.org/story?sid=76300",
+          "publishedOn": "2023-10-10T14:28:19.000Z",
+          "wordCount": 171,
+          "title": "Firefox 修复了有 22 年历史的工具栏鼠标提示 bug",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76299",
+          "author": null,
+          "description": "Valve 最近推出的《反恐精英2（CS2）》没有提供 macOS 版本，只支持 Windows 和 Linux（SteamDeck）。Valve 在一份声明中表示，它做出了一个困难的决定，停止支持旧硬件，包括 DirectX 9 和 32 位操作系统，类似的原因它决定停止支持 macOS。Valve 声称受影响玩家数量不到活跃 CS:GO 玩家总数的 1%—— CS:GO 是 CS2 上一代，也是 Valve 最热门的游戏之一，同时玩家人数超过百万，它至少有数千万玩家，这意味着受影响玩家人数有数十万。目前 macOS 用户可以继续玩 CS:GO，但对 CS:GO 的支持将于 2024 年 1 月 1 日结束。符合资格的 macOS 玩家可以申请 Prime Status Upgrade 退款。Valve 将在 12 月 1 日前允许玩家申请退款。",
+          "link": "https://www.solidot.org/story?sid=76299",
+          "publishedOn": "2023-10-10T13:55:53.000Z",
+          "wordCount": 195,
+          "title": "Valve 以玩家人数太少宣布《反恐精英2》不支持 macOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76298",
+          "author": null,
+          "description": "抛硬币得到正面和反面的概率被认为是 50% 对 50%。如果落在一面的概率比另一面高，那么我们会说存在正反面偏差。前职业魔术师、斯坦福数学统计学教授 Persi Diaconis 指出，当人们抛一枚普通硬币时会引入一个小幅度的“进动”——整个硬币的轨迹中对旋转轴方向的一个变动。结果是硬币更可能落在开始抛出的那一面，即所谓的“同面偏差”。他的模型预测硬币落在开始抛出那一面的概率大约为 51%。欧洲研究人员收集了 350,757 次抛硬币的情况，结果强有力的支持了Diaconis 的预测，落在同面的概率为 0.508。这一现象对不同硬币都适用。",
+          "link": "https://www.solidot.org/story?sid=76298",
+          "publishedOn": "2023-10-10T13:31:19.000Z",
+          "wordCount": 152,
+          "title": "数十万次测试证明抛硬币更可能落在开始抛的那一面",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76297",
+          "author": null,
+          "description": "在 US v. Google 反垄断案中，MIT 经济学教授 Michael Whinston 作证称，Google 在 2017 年改变了广告拍卖公式，使得广告价格提高了 15%，为公司带来了数十亿美元的额外收入。Google 通过 Project Momiji 拍卖文本广告，以前的规则是出价的第一名只需要比第二名多支付 1 美分。Google 在 2016 年注意到第二名的报价通常只有第一名的 80%。为了消除第二名和第一名之间 20% 的差价，Google 给第二名一个内置的差点（handicap）让其报价更有竞争力。Whinston 称 Google 调整规则的能力证明了其对网络广告的垄断地位。",
+          "link": "https://www.solidot.org/story?sid=76297",
+          "publishedOn": "2023-10-10T12:41:48.000Z",
+          "wordCount": 178,
+          "title": "Google 改变广告拍卖公式提价 15%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76296",
+          "author": null,
+          "description": "一百多年以来，科学家知道人类大脑更擅长数 4 以内的数字，超过 4 就会卡顿下。对大脑神经元活动的分析发现，原因是大脑用一种机制评估 4 以内的数，用另一种机制评估 5 以及 5 以上的数。17 名患者在德国波恩大学医院(University Hospital Bonn)接受癫痫治疗，为做手术他们的大脑中植入了电极。这让研究人员有机会记录清醒时大脑神经元的活动。他们向这些患者展示了 1-9 个点的图案，询问他们看到的是奇数点还是偶数点。结果显示，当他们看到的是 4 以内的点时，答案更精确。神经元活动的分析发现，4 以内的数由专门的神经元处理，5-9 数则由另外的神经元处理。",
+          "link": "https://www.solidot.org/story?sid=76296",
+          "publishedOn": "2023-10-10T10:01:59.000Z",
+          "wordCount": 168,
+          "title": "为什么人类大脑更擅长计算 4 以内的数字",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76295",
+          "author": null,
+          "description": "研究人员通过分析在法国阿尔卑斯山发现的古老树木的年轮发现了有记录以来最强太阳风暴。研究使用的树干是亚化石，是化石过程尚未完成的遗骸，其被切成微小的单个树轮。对这些单个树轮的分析发现，在 14300 年前，放射性碳水平发生了史无前例的飙升。通过将这种放射性碳峰值与铍（格陵兰冰芯中发现的一种化学元素）的测量结果进行比较，团队提出，这种峰值是由大规模太阳风暴引起的，这场太阳风暴将大量高能粒子喷射到地球大气层中。通过宇宙射线引发的一系列反应，高层大气会不断产生放射性碳。包括太阳耀斑和日冕物质抛射在内的极端太阳事件也会产生短期的高能粒子爆发，这些粒子在短短一年内就会呈现放射性碳产量的巨大峰值，从而被保存下来。今天如发生类似的太阳风暴，对于现代科技社会来说将是灾难性的，或会摧毁电信和卫星系统，导致大规模电网停电，造成巨大经济损失。",
+          "link": "https://www.solidot.org/story?sid=76295",
+          "publishedOn": "2023-10-10T09:23:08.000Z",
+          "wordCount": 144,
+          "title": "树轮揭示有记录以来最强太阳风暴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76294",
+          "author": null,
+          "description": "GNOME 项目正在评估移除对 X.Org 会话支持，未来转变为只支持 Wayland 的桌面环境。开发者递交了一组合并请求，准备移除对 X.Org 会话支持。开发者称，X11 的测试愈来愈少，自 2016 年以来 GNOME 就默认使用 Wayland 会话，现在是时候完全移除 X.Org 会话了。可能到明年 GNOME 项目将只支持 Wayland 会话。",
+          "link": "https://www.solidot.org/story?sid=76294",
+          "publishedOn": "2023-10-10T08:04:11.000Z",
+          "wordCount": 174,
+          "title": "GNOME 准备移除对 X.Org 会话支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76293",
+          "author": null,
+          "description": "生成式 AI 热潮给很多公司带来了巨额利润，其中受益最大的可能是 GPU 芯片供不应求的英伟达了。而微软据报道难以受益于其 AI 业务。它为程序员提供的 AI 编程助手 GitHub Copilot 就一直亏损。GitHub Copilot 于 2022 年 6 月推出，月费 10 美元或年费 100 美元。身份验证过的学生和知名开源项目开发者可免费使用。据知情人士透露，微软今年初每月每位用户平均损失逾 20 美元，部分用户损失最高逾 80 美元。微软一直尝试降低 AI 服务费用，其中之一是自研而不是依赖英伟达供应 AI 芯片。软件巨人最早可能会在下个月的  Ignite 大会上宣布其 AI 芯片。",
+          "link": "https://www.solidot.org/story?sid=76293",
+          "publishedOn": "2023-10-10T07:29:58.000Z",
+          "wordCount": 186,
+          "title": "微软据报 GitHub Copilot 业务亏损",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76292",
+          "author": null,
+          "description": "美国政府决定允许三星电子和SK海力士向在华工厂提供美国半导体设备，无需其它许可。美国政府将三星电子和SK海力士在华半导体工厂指定为“经验证最终用户”(VEU)。“经验证最终用户”是指仅允许事先获得美国政府批准的企业出口指定项目的方式。被列为“经验证最终用户”后，不需另外获得批准即可适用美国出口禁令豁免，相当于获得芯片设备出口的无限期豁免。美国商务部工业和安全局（BIS）去年 10 月发布了一套全新的出口管制措施，实际上禁止了美国半导体设备商向中国芯片生产企业出口芯片相关设备，以防中方窃取芯片制造技术。",
+          "link": "https://www.solidot.org/story?sid=76292",
+          "publishedOn": "2023-10-10T06:48:07.000Z",
+          "wordCount": 143,
+          "title": "三星和SK海力士获准无需额外批准为其中国工厂供应设备",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76291",
+          "author": null,
+          "description": "在基于安装量的收费模式在游戏社区引发广泛争议之后，Unity CEO John Riccitiello 辞职，立即生效。该收费模式在争议之后已被弃用。James M. Whitehurs 被任命为临时 CEO 兼公司总裁。独立董事主席 Roelof Both 被任命为董事长。Unity 表示董事会将与猎头公司合作挑选新 CEO。Whitehurs 此前长期担任 Red Hat 的 CEO，在 IBM 收购 Red Hat 后担任了一段时间的高级顾问兼总裁。",
+          "link": "https://www.solidot.org/story?sid=76291",
+          "publishedOn": "2023-10-10T06:27:56.000Z",
+          "wordCount": 173,
+          "title": "Unity CEO 辞职，立即生效",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76290",
+          "author": null,
+          "description": "思科开发者在内核邮件列表上发布了用 Rust 写的 PuzzleFS 文件系统驱动，征求其他开发者的意见（RFC）。PuzzleFS 是下一代 Linux 容器文件系统，其设计旨在减少冗余、快速镜像构建、直接挂载支持，内存安全保证，以及其它为容器优化的功能。Linux 内核最近加入了对 Rust 语言的初步支持，思科的 PuzzleFS 驱动目前属于概念验证。",
+          "link": "https://www.solidot.org/story?sid=76290",
+          "publishedOn": "2023-10-10T06:15:43.000Z",
+          "wordCount": 171,
+          "title": "思科发布用 Rust 写的 PuzzleFS 文件系统驱动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76289",
+          "author": null,
+          "description": "在容器管理器 LXD 成为 Canonical 公司的一部分之后，Linux Containers (LXC)项目发布了 LXD 社区分支 Incus 的首个版本。Incus 0.1 相当于 LXD 5.18，除了名字外还有大量变动，包括移除了很多未使用或有问题的功能。开发者以前就想在 LXD 中这么做了，但为了保持向后兼容而没有做。作为首个分支版本，开发者借此机会在 Incus 0.1 中大刀阔斧的进行更改，后续版本仍然会严格保证向后兼容。",
+          "link": "https://www.solidot.org/story?sid=76289",
+          "publishedOn": "2023-10-10T05:37:42.000Z",
+          "wordCount": 180,
+          "title": "LXD 社区分支 Incus 发布 0.1 版本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76288",
+          "author": null,
+          "description": "FTX 的骗局就明明白白的写在代码里，甚至都没有去有意的混淆代码。2019 年 8 月 1 日 FTX 代码库引入了 allow_negative 标记，前 FTX CTO Gary Wang 在作证时承认是前 CEO Sam Bankman-Fried（SBF）要求他与前工程总监 Nishad Singh 添加该标记的。带有该标记的账号被免除检查是否有足够的可取款金额。Wang 后来还修改了代码，带有该标记的账号被免除清算。检方同时指出，在修改代码的同一天 SBF 在 Twitter 上发帖声称 Alameda 的账号与其他人的账号一视同仁。Wang 作证说，allow_negative 标记是只提供给 Alameda Research 交易账号的特别权限。这意味着 Alameda Research 的账号可动用无限的信用额度。Wang 解释说，Alameda 一开始是没有如此高的信用额度的，但由于该公司缺乏足够的抵押品，它经常会遭遇交易问题，因此 SBF 要求将信用额度提高到防止问题再次发生。Wang 称，Alameda 最初的额度是几百万美元，后来提高到 10 亿美元，最后提高到 650 亿美元。Wang 还承认，FTX 的“保险基金”数字是虚假的。",
+          "link": "https://www.solidot.org/story?sid=76288",
+          "publishedOn": "2023-10-10T05:16:21.000Z",
+          "wordCount": 193,
+          "title": "FTX 的骗局就写在代码里",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76287",
           "author": null,
@@ -647,56 +797,6 @@
           "wordCount": 151,
           "title": "研究显示死亡时人们经历新维度的现实",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76237",
-          "author": null,
-          "description": "Google DeepMind 和 Meta 的研究人员在预印本平台 arXiv 上发表论文《Language Modeling Is Compression》，他们发现 DeepMind 的大语言模型 Chinchilla 70B 在图像和音频的无损压缩上超过了 PNG 和 FLAC。Chinchilla 70B 能将 ImageNet 图像数据库无损压缩到原始大小 43.4%，超过了 PNG 算法的 58.5%。Chinchilla 能将 LibriSpeech 音频数据集中的样本无损压缩到原始大小 16.4%，超过 FLAC 算法的 30.3%。Chinchilla 70B 主要是训练去处理文本，但它在压缩其它类型的数据集上的效果也表现优异，甚至优于专门的算法。",
-          "link": "https://www.solidot.org/story?sid=76237",
-          "publishedOn": "2023-10-01T13:58:43.000Z",
-          "wordCount": 188,
-          "title": "研究显示大模型在无损压缩上能超过 PNG 和 FLAC",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76236",
-          "author": null,
-          "description": "Linux 基金会执行董事 Jim Zemlin 在上海举行的 Kubecon 会议上公布了一组统计数据，表示如果 Linux 基金会是一家软件公司，它的规模将是世界最大的：如果将程序员的平均年薪设为 4 万美元，那么为基金会贡献代码的程序员的总薪水将达到 260 亿美元，超过微软的 240 亿美元。当然为 Linux 基金会旗下项目贡献代码的程序员并不真正受雇于了该基金会，他们很多都受雇于使用这些项目的大型科技公司。Linux 基金会战略伙伴关系副总裁 Robert Reeves 则指出，随着开源项目的日益全球化，确保工程师能访问相同的服务也日益成为一个挑战。比如在中国访问 Google 的服务，以及在西方访问华为的产品。",
-          "link": "https://www.solidot.org/story?sid=76236",
-          "publishedOn": "2023-10-01T13:17:53.000Z",
-          "wordCount": 171,
-          "title": "Linux 基金会如果是一家软件公司，它的规模将是世界最大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76235",
-          "author": null,
-          "description": "牛津是中世纪英格兰的暴力之都，而该市的学生是最致命的暴力团。在伦敦、约克和牛津三座城市中间，牛津的人均凶杀率是另外两座城市的 4-5 倍。在凶手背景已知的谋杀案中，75% 被称为“clericus”，而 72% 的受害者身份同样是“clericus”。中世纪的 clericus 通常就是指学生。中世纪谋杀地图（Medieval Murder Maps）项目的首席调查员 Manuel Eisner 教授表示，牛津之类的中世纪大学城存在着产生暴力的多个条件：他们都是男性；年龄在 14-21 岁之间，这个年龄段是暴力和冒险的高峰期；摆脱了家庭、教区和公会严格控制的年轻人被送入到一个充斥着武器、能接触到酒馆和性工作者的环境。在 14 世纪早期，牛津是欧洲最重要的学术中心之一，当地有大约 7000 名居民，其中 1500 名是学生。研究人员估计这个时期牛津的凶杀率为每 10 万人 60-75 人，比 21 世纪牛津高 50 倍。年轻男学生和酒精的混合通常是暴力的火药桶。",
-          "link": "https://www.solidot.org/story?sid=76235",
-          "publishedOn": "2023-09-30T15:56:51.000Z",
-          "wordCount": 170,
-          "title": "牛津学生是中世纪英格兰的致命杀手",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76234",
-          "author": null,
-          "description": "奥地利、法国、德国、波兰和瑞士本周五公布了有记录以来最热的九月。今年预计将成为有记录以来最热的一年。法国气象局表示，该国 9 月平均气温约为 21.5 摄氏度，比 1991-2020 年的基线高出 3.5 到 3.6 摄氏度。德国气象局 DWD 表示，本月是有国家记录以来最热的 9 月，比 1961-1990 年的基线高出近 4 摄氏度。波兰气象研究所宣布，9 月气温比平均水平高出 3.6 摄氏度，是 100 多年前有记录以来最热的月份。奥地利和瑞士等阿尔卑斯山国家的国家气象机构也记录了有记录以来最热的 9 月。此前的研究显示，由于全球暖化，瑞士冰川体积两年内减少了十分之一。",
-          "link": "https://www.solidot.org/story?sid=76234",
-          "publishedOn": "2023-09-30T15:14:34.000Z",
-          "wordCount": 174,
-          "title": "欧洲多国 9 月气温创纪录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76233",
-          "author": null,
-          "description": "瑞士冰川体积两年损失十分之一。瑞士科学院的分析发现，瑞士冰川体积今年减少了 4%，而去年减少了 6%。过去两年是冰川体积损失最多的两年。冰川监测机构 Glamos 负责监测 176 座冰川，但最近停止了对中部 St Annafirn 冰川的监测，因为基本上没冰了。Glamo 负责人 Matthias Huss 表示，随着冰损失的速度加快，小型冰川正在消失，大型的冰川则在缩小。",
-          "link": "https://www.solidot.org/story?sid=76233",
-          "publishedOn": "2023-09-30T15:07:07.000Z",
-          "wordCount": 154,
-          "title": "瑞士冰川体积两年损失十分之一",
-          "imageUrl": null
         }
       ]
     },
@@ -767,6 +867,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/how-to-open-webistes-in-browser-emulator",
+          "author": null,
+          "description": "Simply visit browserling.com/browse and you'll get a browser emulator.",
+          "link": "https://catonmat.net/how-to-open-webistes-in-browser-emulator",
+          "publishedOn": "2023-10-10T15:11:00.000Z",
+          "wordCount": 113,
+          "title": "How to Open Websites in a Browser Emulator",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/how-to-open-websites-in-online-browser",
           "author": null,
           "description": "Simply visit browserling.com/browse and you'll get an online browser.",
@@ -824,26 +934,6 @@
           "publishedOn": "2023-10-02T09:10:00.000Z",
           "wordCount": 136,
           "title": "You can now left-pad a string online",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/browserling-number-one",
-          "author": null,
-          "description": "Browserling #1, BrowserStack #34, Lambdatest #77, Testingbot #122\nPerl #2, Python #9999999, Rust #99999999999999\nTyped programming #999999999999999999999999999\nIf statement #3\nNode.js #9999999999999999999999999999, npm #9999999999999999999999999\nHaskell #9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999",
-          "link": "https://catonmat.net/browserling-number-one",
-          "publishedOn": "2023-10-01T13:46:48.000Z",
-          "wordCount": 116,
-          "title": "Browserling #1",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/paid-plans-for-list-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nLast month we launched paid plans for UTF8 Tools and today we're launching paid plans for our next most popular tool category – List Tools. List tools are used by 20,000 people every month and they let you sort, reverse, randomize lists, find unique and duplicate list items, change list item separators, and much more.\nNext, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.\nFrom technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.\nYou can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.\nAdd paid plans too and see you next time!",
-          "link": "https://catonmat.net/paid-plans-for-list-tools",
-          "publishedOn": "2023-10-01T06:15:00.000Z",
-          "wordCount": 265,
-          "title": "Announcing paid plans for List tools",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
