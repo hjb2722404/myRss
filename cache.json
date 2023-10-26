@@ -248,6 +248,116 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=76447",
+          "author": null,
+          "description": "芝加哥大学计算机科学教授 Ben Zhao 领导的一个团队开发了一种数据中毒工具 Nightshade，允许艺术家在将作品上传到网上前使用该工具在像素中添加不可见的改动，如果作品被抓取到 AI 训练数据集中，它会导致模型以混乱且不可预测的方式崩溃。该工具旨在反击 AI 公司未经作者许可使用其作品训练 AI 模型的行为。训练数据中毒可能会破坏图像生成模型如 DALL-E、Midjourney 和 Stable Diffusion 的未来迭代，它会导致部分输出无用——狗变成猫，汽车变成牛，诸如此类。相关论文已递交到 Usenix 计算机安全会议接受同行评审。Zhao 表示，他希望数据中毒工具有助于将权力平衡从 AI 公司转向艺术家。他的团队还开发了另一种工具 Glaze，帮助艺术家隐藏个人艺术风格，防止被 AI 公司抓取。它的工作方式与 Nightshade 类似。研究团队计划将 Nightshade 整合到 Glaze 中，并将其开源，让其他人能开发自己的版本。大型 AI 模型使用的训练集可能包含数十亿幅图像，其中的有毒图像越多，造成的破坏就会越大。数据集一旦中毒是很难清理的，它需要公司努力找出并删除每一个损坏的样本。",
+          "link": "https://www.solidot.org/story?sid=76447",
+          "publishedOn": "2023-10-25T15:20:15.000Z",
+          "wordCount": 177,
+          "title": "新数据中毒工具让艺术家能反击生成式 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76446",
+          "author": null,
+          "description": "中国在过去十几年里一直是美国第一大留学生来源国。根据最新数据，目前印度在美的留学生人数超过 32 万人，而中国持有学生签证的人数约为 25 万余人。印度自 2009 年以来首次超越中国，成为美国国际学生的最大来源国。据有关学者分析，中国未来仍将是美国国际学生的重要来源，但不再是主要来源。在美国阿默斯特学院招生副院长兼国际招生负责人万晓峰的调查中，大多数的中国辅导员都表示，学生们对出国留学地的选择已经呈现出多元化倾向——很多人都申请了多个国家或境外地区的大学。换句话说，留学生的首选或许依旧是美国高校，但他们会有 B 计划和 C 计划。也有专家认为，由于签证困难或出境困难等原因，目前很多学生不再申请美国高校，加之如果学生赴美是为了学习科技，或者为了具有更先进技术专业的话，其获得签证的可能性会更小，这致使很多优秀学生不再申请美国高校。",
+          "link": "https://www.solidot.org/story?sid=76446",
+          "publishedOn": "2023-10-25T13:26:06.000Z",
+          "wordCount": 152,
+          "title": "印度超过中国成为美国第一大留学来源国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76445",
+          "author": null,
+          "description": "微软 CEO 纳德拉（Satya Nadella）表示放弃 Windows Phone 和移动业务是一大错误。纳德拉在 2014 年接替鲍尔默(Steve Ballmer)担任 CEO，仅仅一年之后就将鲍尔默任内斥资 74 亿美元收购的诺基亚手机业务勾销。纳德拉接受采访时候表示微软“退出”手机业务本应该处理的更好。勾销诺基亚手机业务之后，Windows Phone 事实上就退出了移动舞台。微软后来推出了运行 Android 的 Surface Duo 和 Surface Duo 2 智能手机，但由于没有后续产品，也缺乏软件更新，Surface Duo 手机品牌的未来悬而未决。",
+          "link": "https://www.solidot.org/story?sid=76445",
+          "publishedOn": "2023-10-25T10:35:35.000Z",
+          "wordCount": 186,
+          "title": "微软 CEO 称放弃 Windows Phone 和移动业务是一大错误",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76444",
+          "author": null,
+          "description": "国际能源署（IEA）发表了《World Energy Outlook 2023》报告，称对化石能源如煤炭、石油和天然气的需求将在 2030 年前达到峰值，全世界正加速转向不排放温室气体的能量来源。报告预测，到 2030 年全世界公路上行驶的电动汽车数量将增加十倍，电动汽车将占到美国汽车销售比例的五成，到 2020 年代末全世界安装的太阳能电池板发电量将超过美国目前的总发电量，可更新能源将满足全球电力需求的五成，目前这一比例约为三成。但报告也警告称，为了实现将全球气温上升幅度控制比工业化前水平高 1.5 °C 以内，向可更新能源的转变速度还需要加快。",
+          "link": "https://www.solidot.org/story?sid=76444",
+          "publishedOn": "2023-10-25T09:38:43.000Z",
+          "wordCount": 165,
+          "title": "IEA 报告称对化石能源的需求将在 2030 年前达到峰值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76443",
+          "author": null,
+          "description": "英伟达向 SEC 递交文件称，美国政府要求它立即停止向中国出口先进 AI 芯片，而不是原计划的 10 月 17 日起的 30 天后生效。立即限制出口的产品包括 A100、A800、H100、H800 和 L40S，此前列入限制出口的旗舰显卡 RTX 4090 仍然会是 30 天后生效。英伟达称，由于需求强劲，限制向华出口在短期内不会对公司业绩产生显著影响。",
+          "link": "https://www.solidot.org/story?sid=76443",
+          "publishedOn": "2023-10-25T07:49:17.000Z",
+          "wordCount": 168,
+          "title": "英伟达称美国政府要求立即停止向中国出口先进 AI 芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76442",
+          "author": null,
+          "description": "国产软件用户非常熟悉的做法，微软也学会了。Windows 用户报告，如果尝试通过 Microsoft Edge 下载 Google Chrome，Edge 会打开侧边栏提出一系列问题，询问你为什么不用 Edge 的原因。微软说，“我们想让你留下来，您能花一点时间告诉我们为什么要尝试其它浏览器？是因为不能更便捷的访问 Google，不能访问 Google 文档，没有收藏夹或密码，太多广告和弹出窗口，不喜欢 news feed，太慢了，自己的网站无法在 Microsoft Edge 上运行，其它原因。”",
+          "link": "https://www.solidot.org/story?sid=76442",
+          "publishedOn": "2023-10-25T06:51:04.000Z",
+          "wordCount": 175,
+          "title": "用 Edge 下载 Chrome 微软会询问你为什么",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76441",
+          "author": null,
+          "description": "根据发表在《Geochemical Perspectives Letters》期刊上的一项研究，对阿波罗任务带回地球的锆石分析确定，月球的年龄比以前认为的要“老”4000 万年，达到 44.6 亿岁。科学家认为，月球是在一颗火星大小的行星撞击地球并将一个巨大的熔岩球“甩”到太空后形成的。当该物体的岩浆表面冷却并凝固时，形成了被称为锆石的硅晶体。由于它们对高温和恶劣环境的适应能力，这些晶体仍然在月球上存在，并且可以用来识别月球年龄。此次研究中，科学家首次使用被称为原子探针断层扫描的技术，基本确定了最古老月球晶体的年龄。",
+          "link": "https://www.solidot.org/story?sid=76441",
+          "publishedOn": "2023-10-25T06:00:05.000Z",
+          "wordCount": 155,
+          "title": "月球年龄比以前认为的老 4000 万年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76440",
+          "author": null,
+          "description": "密歇根大学的一项研究发现，人们对超加工食品有上瘾的迹象，包括冰淇淋薯片等高糖、高碳水化合物产品。研究人员分析了来自 36 个国家的 281 项研究，发现 14% 的成年人和 12% 的儿童表现出对超加工食品上瘾的迹象。研究发现，这些成瘾与酒精和烟草的成瘾程度相同。密歇根大学心理学教授、首席研究员 Ashley Gearhardt 在一份新闻稿中说:“超加工食品成瘾的有效性和临床相关性得到了一致的支持。通过承认某些类型的加工食品具有成瘾物质的特性，我们可能能够帮助改善全球健康。”",
+          "link": "https://www.solidot.org/story?sid=76440",
+          "publishedOn": "2023-10-25T05:47:04.000Z",
+          "wordCount": 153,
+          "title": "研究发现冰淇淋薯片和毒品一样易上瘾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76439",
+          "author": null,
+          "description": "日本公正取引委员会宣布对 Google 开展反垄断调查。民间调查数据显示，截至 2022 年 Google 在移动搜索市场的全球份额达到 96％，呈现出一家独大的状态。Google 的搜索服务在日本占 78％份额，在日本国内排第 2 的 LINE雅虎（20％）也使用 Google 的搜索引擎技术。关于 Google 占绝对优势份额的搜索服务，早就有人怀疑其违反反垄断法。关于违规让终端厂商预装自身搜索服务的行为，日本政府的数字市场竞争会议 2021 年 4 月指出“无法排除保持和强化竞争优势的可能性”，提出应该由日本公正取引委员会判断要不要进行案件审查。",
+          "link": "https://www.solidot.org/story?sid=76439",
+          "publishedOn": "2023-10-25T05:05:01.000Z",
+          "wordCount": 169,
+          "title": "日本对 Google 展开反垄断调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76438",
+          "author": null,
+          "description": "由美国 41个州和哥伦比亚特区组成的联盟正在提起诉讼，指 控Meta 故意在其产品中加入令人上瘾的功能，对使用其 Facebook 和 Instagram 服务的青少年用户造成伤害。在联邦和州法院提起的诉讼称，Meta 在其平台对青少年的危害方面误导了公众。各州还指控 Meta 故意向 13 岁以下用户推销产品，而 Meta 自己的政策和联邦法律均禁止 13 岁以下用户使用该平台。各州正在寻求迫使 Meta 改变他们认为会对青少年用户造成危险的产品功能。",
+          "link": "https://www.solidot.org/story?sid=76438",
+          "publishedOn": "2023-10-25T04:56:56.000Z",
+          "wordCount": 175,
+          "title": "美国逾 40 个州起诉 Meta 指控其服务伤害年轻人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76437",
+          "author": null,
+          "description": "RISC-V 创业公司 SiFive 正在大规模裁员。报道称，该公司从 10 月中旬开始大裁员，约 700 名员工中的 100-300 多人被解雇，大部分是工程师，还有少数销售和产品人员。SiFive 在随后发表给媒体的一份声明中澄清，它裁掉了来自不同业务组的约 140 名员工，占员工总数的五分之一。RISC-V 是开源指令集架构，SiFive 少数几家提供高性能 RISC-V 产品的公司之一。该公司在声明中表示，随着 Google 将 Android 引入 RISC-V 生态系统，它在 AI 以及可穿戴设备和移动设备等消费产品领域看到了巨大的机遇。",
+          "link": "https://www.solidot.org/story?sid=76437",
+          "publishedOn": "2023-10-25T04:51:30.000Z",
+          "wordCount": 178,
+          "title": "SiFive 裁掉了逾百名 RISC-V 开发者",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=76436",
           "author": null,
           "description": "有没有办法不靠任何形式的围栏就能让大象和人类友好相处？众多研究表明，人类可以依赖渺小的蜜蜂。小蜜蜂能吓跑体型是它 2200 万倍的庞然大物。即使是蜜蜂的嗡嗡声音就能让一群大象惊慌失措。当听到嗡嗡声时，大象会奔跑，摇晃着头，好像要把蜜蜂从空中拍下来。蜜蜂的刺无法穿透大象的厚皮肤，但一群蜜蜂能叮蜇大象最敏感的部位，如鼻子、嘴和眼睛。非洲蜜蜂群的攻击性是很强的，蜇一口是很疼的。研究人员报告了如何在蜜蜂的帮助下解决农民与大象之间的紧张关系。大象生性和平，但它们能轻而易举的践踏毁坏农作物，甚至能推倒整栋房屋。人类对此也负有责任，大象的自然栖息地变成了耕地变成了农田，侵占了其食物来源，让动物们别无选择。结果是大象和人类争夺相同的资源，它们能在一夜之间毁掉整个农场的收成。农民也缺乏资源用铁丝网围住农田。研究显示，悬挂蜂巢阻止大象袭击的效率高达 95%。",
@@ -1056,96 +1166,6 @@
           "wordCount": 165,
           "title": "OpenBSD 7.4 释出",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76355",
-          "author": null,
-          "description": "NASA Psyche 探测器搭乘 SpaceX Falcon Heavy 火箭升空，开始了探索灵神星的六年之旅。灵神星位于火星和木星之间的小行星带，距离地球大约 40 亿公里，被认为含有铁、镍、白金、稀土等元素，潜在价值巨大。虽然可以从地球向太空运送建筑材料和机械，但需要耗费大量的能源和费用。如果能用太空中的资源就地取材，就可以降低成本，并防止因开采和冶炼造成地球环境污染，对宇宙开发的进展做出巨大贡献。以铁为例，与地球上的铁矿石不同，太空中的铁没有被氧化，具有无需高温还原、使用方便的优点。",
-          "link": "https://www.solidot.org/story?sid=76355",
-          "publishedOn": "2023-10-16T13:34:35.000Z",
-          "wordCount": 154,
-          "title": "NASA 向含有贵金属的小行星发射探测器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76354",
-          "author": null,
-          "description": "今天地球的平均气温已比工业化前高 1.2C ，科学家预测到 2030 年北极的夏天可能会没有冰。随着北极地区永久冻土的融化，除了会将甲烷等温室气体排放到大气层外，休眠了数千甚至数万年的病原体也可能会苏醒再次现身。人类祖先可能没有暴露在这些病原体下，因此现代人类会缺乏抵抗能力。此类“僵尸病毒”可能是气候变化对人类健康带来的另一个风险。北极的暖化速度高于地球的其它地区。病毒学家 Jean-Michel Claverie 的研究团队去年报告，从西伯利亚永久冻土中提取出的多种古代病毒仍然具有传染性。今年夏天，研究人员报告复活了一条休眠了 46,000 年的蛔虫。Claverie 警告，如果五万年前的尼安德特人是死于一种未知的病毒，这种病毒如果重新现身，可能会对人类构成危险。",
-          "link": "https://www.solidot.org/story?sid=76354",
-          "publishedOn": "2023-10-16T13:07:24.000Z",
-          "wordCount": 151,
-          "title": "随着地球暖化长期休眠的病毒正在苏醒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76353",
-          "author": null,
-          "description": "国际奥运会宣布了电竞奥运会的计划。电竞比赛越来越多的的出现在各种运动赛事中，并吸引了愈来愈多的人观看比赛。在印度孟买举行的国际奥委会第 141 届会议的开幕式上，奥委会主席 Thomas Bach 表示，新成立的国际奥委会电竞委员会将研究创建该赛事，他表示通过举办的各种电竞活动，“我们成功的将奥林匹克和电竞社区凝聚在一起。”",
-          "link": "https://www.solidot.org/story?sid=76353",
-          "publishedOn": "2023-10-16T10:40:31.000Z",
-          "wordCount": 146,
-          "title": "国际奥运会宣布电竞奥运会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76352",
-          "author": null,
-          "description": "因 AI 火爆而进入市值万亿美元公司俱乐部的英伟达没有强制要求员工重返办公室。英伟达在全球有约 2.6 万名员工，CEO 黄仁勋继续允许员工无限期远程办公。英伟达让员工自行决定在家里、咖啡馆还是办公室工作。责员工体验的副总裁 Beau Davidson 表示，该公司认为这种安排是平衡员工个人生活和工作义务、同时为未来做准备的一种方式，他们可以专注于自己一生的工作。与此同时，其它科技公司对要求员工重返办公室日益强硬。黄仁勋表示，员工喜欢混合工作环境，“我对此非常满意。”",
-          "link": "https://www.solidot.org/story?sid=76352",
-          "publishedOn": "2023-10-16T10:27:21.000Z",
-          "wordCount": 149,
-          "title": "英伟达继续允许员工选择远程办公",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76351",
-          "author": null,
-          "description": "一个国际科学家团队正利用 ChatGPT 背后的技术构建用于科学发现的 AI 工具。该项目被称为 Polymathic AI，研究人员已经在 arXiv 上发表了一系列论文预印本。ChatGPT 是利用从互联网上搜集的文本数据集进行训练，而 Polymathic AI 将从不同科学领域的数值数据和物理模拟进行训练，帮助科学家对从超巨星到地球气候的各种现象进行建模。从已有的预训练大模型开始，而不是从头构建科学模型，要更快更准确。研究人员表示，Polymathic AI 有望展示不同领域之间可能被忽视的共性和联系。",
-          "link": "https://www.solidot.org/story?sid=76351",
-          "publishedOn": "2023-10-16T10:03:16.000Z",
-          "wordCount": 168,
-          "title": "科学家利用 ChatGPT 背后的技术构建用于科学发现的 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76350",
-          "author": null,
-          "description": "科技巨头们纷纷恢复办公室工作模式，而 Dropbox 仍然坚持远程工作。公司 CEO Drew Houston 称员工不是可控制的资源，他们是有选择的。Houston 在 2007 年创办 Dropbox 后一直担任公司 CEO。Dropbox 原本也是办公室办公，但在新冠疫情之后全面拥抱远程办公。Houston 已经习惯了这种模式，对其他科技公司的高管没有支持这一模式感到困惑。Houston 及其团队发现，每个季度进行多次 2-3 天异地办公对员工最合适，它提供了对办公室办公最热烈支持者所想要的文化联系和头脑风暴，同时免除了员工因通勤和单调会议而产生的疲惫感。",
-          "link": "https://www.solidot.org/story?sid=76350",
-          "publishedOn": "2023-10-16T08:33:35.000Z",
-          "wordCount": 166,
-          "title": "Dropbox CEO 为远程办公模式辩护",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76349",
-          "author": null,
-          "description": "Brad Smith 是在美国政府几乎要成功分拆微软的情况下担任了软件巨人的首席法务官，2015 年开始担任公司总裁，在他的领导下微软向监管机构展示了更为和解的一面。Smith 主张对公司要对监管机构更透明。尽管如此，微软面临的压力仍然是愈来愈大。在微软收购动视暴雪面临来自英国监管机构的反对之后 Smith 也罕见的表达了情绪，称此举对英国不利，这是微软“40 年里最黑暗的一天”。但微软仍然成功说服了英国监管机构，达成了妥协，最终让交易获得批准。微软每年在法务和游说上投入了逾 10 亿美元，其法务政务团队多达 2000 人。它甚至在联合国设立了办事处。",
-          "link": "https://www.solidot.org/story?sid=76349",
-          "publishedOn": "2023-10-16T06:51:15.000Z",
-          "wordCount": 161,
-          "title": "Brad Smith 如何利用微软的游说机器赢得动视暴雪的交易",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76348",
-          "author": null,
-          "description": "微软的 Windows 操作系统过去二十年一直使用 Kerberos 作为默认的身份认证协议，但在部分情况下操作系统会使用 NTLM（NT LAN Manager）。微软现在表示它准备扩大 Kerberos 的使用，最终弃用 NTLM。微软称，Kerberos 提供了更好的安全保障，比 NTLM 更具有扩展性，这是它作为 Windows 首选默认协议的原因。 微软称，它将逐渐减少 NTLM 的使用，采用数据驱动的方法去监视 NTLM 使用的减少情况，确定何时可以禁用 NTLM。",
-          "link": "https://www.solidot.org/story?sid=76348",
-          "publishedOn": "2023-10-16T06:24:44.000Z",
-          "wordCount": 171,
-          "title": "微软准备弃用 NTLM 作为身份认证协议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76347",
-          "author": null,
-          "description": "训练 AI 和运行 AI 都是能量密集过程。AI 公司 Hugging Face 报告称，其多语言文本生成 AI 工具在训练期间消耗了约 433 MWH 的电力，足以为 40 个普通美国家庭供电一年。荷兰阿姆斯特丹自由大学的 Alex de Vries 指出，每当 AI 工具生成文本或图像时，它也会使用大量的计算能力和能源。例如 ChatGPT 每天运行可能需要 564 MWH 的电力。虽然，世界各地的公司都在努力提高 AI 硬件和软件的效率，以降低这种工具消耗的能源，但机器效率的提高往往会增加需求。最终，技术进步将导致资源使用的净增加，这种现象被称为杰文斯悖论。De Vries 说：“提高这些工具的效率和易用性的结果可能是，我们允许更多的应用程序和更多的人使用它。”研究人员估计，如果每一次 Google 搜索都使用 AI，每年将需要大约 29.2 TWH 的电力，这相当于爱尔兰一年的用电量。到 2027年全球 AI 相关的用电量预计每年将增加 85~134 TWH。这相当于荷兰、阿根廷、瑞典等国家的年用电量。",
-          "link": "https://www.solidot.org/story?sid=76347",
-          "publishedOn": "2023-10-15T14:30:12.000Z",
-          "wordCount": 188,
-          "title": "AI 耗电量将与国家相当",
-          "imageUrl": null
         }
       ]
     },
@@ -1215,6 +1235,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/how-to-test-dark-net-link",
+          "author": null,
+          "description": "TLDR: I and my team virtualized the Tor browser and you can test your dark net links via browserling.com/tor. You can access all Tor browser versions from 7.5 till 13 on multiple operating systems in real-time without installing the Tor browser yourself.\nWhat is a dark net link?\nA dark net link refers to a URL that directs users to the dark net, a part of the Internet that is intentionally hidden and inaccessible through standard web browsers and search engines. The dark net hosts forums, social networks, and other services concerned with privacy and anonymity. To access content on the dark net, specific software such as the Tor browser is required, which anonymizes user activity and allows access to websites with special top-level domains like .onion. \nHow to test a dark net link?\nTesting…",
+          "link": "https://catonmat.net/how-to-test-dark-net-link",
+          "publishedOn": "2023-10-25T19:15:00.000Z",
+          "wordCount": 433,
+          "title": "How to test a dark net link?",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/how-to-open-websites-in-cloud-browser",
           "author": null,
