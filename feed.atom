@@ -2,10 +2,170 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-10-31T02:19:33.596Z</updated>
+    <updated>2023-11-01T02:22:52.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to get fast browser speed on a slow Internet connection?]]></title>
+        <id>https://catonmat.net/how-to-get-fast-browser-speed-on-a-slow-internet-connection</id>
+        <link href="https://catonmat.net/how-to-get-fast-browser-speed-on-a-slow-internet-connection"/>
+        <updated>2023-10-31T22:50:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: You can load an online browser via browserling.com/browse. It runs on a remote server with super-fast Internet speed.
+How fast can browsers get?
+The download speeds achievable by web browsers are predominantly governed by user's Internet connection speed. Other factors such as the efficiency of the browser's network stack and the performance and bandwidth of the server from which the content is being downloaded also play a big role. Modern browsers employ various optimization techniques, such as connection pooling and parallel downloads to maximize data throughput, yet the ultimate download speed is still subject to limitations imposed by user's network connection, conditions, and potential congestion.
+How to download files fast on a slow Internet connection?
+To download content more quickly on a slow Internet connection, you can leverage cloud-based browser services such as Browserling, where the browsers run on remote servers connected to high-speed Internet. This setup enables you to initiate and complete downloads on the remote server at a much faster rate, after which you can download the file to your local machine, potentially benefiting from file compression and optimized transfer protocols.
+What is Browserling?
+Browserling is a cloud-based service that provides access to a variety of web browsers running on remote servers, enabling users to interact with websites and perform downloads using Browserling servers' high-speed Internet connections. This service is particularly beneficial for users with slow or unreliable Internet connections, as it allows them to leverage the faster network speeds of the remote servers for more efficient browsing and downloading experiences.
+Happy browsing!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小行星撞击地球产生的尘埃导致了持续 15 年的严冬]]></title>
+        <id>https://www.solidot.org/story?sid=76493</id>
+        <link href="https://www.solidot.org/story?sid=76493"/>
+        <updated>2023-10-31T14:34:23.000Z</updated>
+        <summary type="html"><![CDATA[大约 6600 万年前，一颗直径至少 10 公里的小行星撞击了地球，留下了直径约 180 公里的希克苏鲁伯陨石坑，杀死了地球四分之三的生命，其中包括恐龙。根据发表在《Nature Geoscience》期刊上的最新研究，这起撞击事件产生的尘埃在大气中逗留了 15 年，导致的严冬在生物灭绝中扮演了重要作用。研究人员分析了位于美国北达科他州的 Tanis 化石遗址。该地距离陨石坑 3000 公里，但其古湖泊沉积层保留了很多撞击事件产生的尘埃颗粒物。研究人员估计，撞击释放到大气层中的物质 75% 是尘埃、24% 硫磺和 1% 炭黑。大气层中的尘埃使得光合作用至少停止了一年，导致了生命的灾难性崩溃。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BookxNote Pro – 电子书学习软件：划重点做笔记，导出脑图[Windows/Android]]]></title>
+        <id>https://www.appinn.com/?p=45942</id>
+        <link href="https://www.appinn.com/bookxnote-pro/"/>
+        <updated>2023-10-31T12:14:55.000Z</updated>
+        <summary type="html"><![CDATA[如果你经常阅读电子书、做学习笔记，那肯定听说过 MarginNote 这款软件。一直以来，它都是苹果用户的专属，只能在 Mac / iPad 上使用，让 Windows 电脑和安卓平板的用户，羡慕不已]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国法庭裁决 Do Not Track 具有法律约束力]]></title>
+        <id>https://www.solidot.org/story?sid=76492</id>
+        <link href="https://www.solidot.org/story?sid=76492"/>
+        <updated>2023-10-31T10:01:09.000Z</updated>
+        <summary type="html"><![CDATA[请勿追踪（Do Not Track）是一个允许用户启用的 HTTP 头字段，启用该字段向网站的服务器表明不希望被追踪。但请勿追踪被认为并不具有约束力，网站可以选择尊重用户的决定，或者无视该选择。但德国柏林地区法院裁决，请勿追踪具有法律约束力。此案与微软旗下的职业社交网络 LinkedIn 有关，它在网站上明确表示：由于目前没有“请勿追踪”的相关标准，它对请勿追踪信号不予回应。但德国消费者保护组织 vzbv 指出，如果消费者启用了浏览器的请勿追踪功能，那么他们发出了一个明确的信号：不希望其上网行为被跟踪用于广告等目的，网站运营者必须尊重这一信号。法官同意了这一意见，认为 LinkedIn 的声明具有误导性。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国软件公司要求 Meta 在英国停止使用 Threads 名称]]></title>
+        <id>https://www.solidot.org/story?sid=76491</id>
+        <link href="https://www.solidot.org/story?sid=76491"/>
+        <updated>2023-10-31T09:30:59.000Z</updated>
+        <summary type="html"><![CDATA[英国软件公司 Threads Software Limited 的律师周一致函 Facebook 和 Instagram 的母公司，要求 Meta 在英国停止使用 Threads 这一名字，因为该公司拥有该名字的商标。如果 Meta 在 30 天内不停用 Threads，它将诉诸法院寻求发布禁令。Threads Software 是在 2012 年为其智能消息中心注册了 Threads 商标，该消息中心可将企业的电邮、推文和 VoIP 呼叫语音储存在云数据库中。Threads Software 表示它拒绝了 Meta 律师对其域名 threads.app 提出的四次收购要约。该公司表示面临科技巨头的严重威胁。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halloween Sale]]></title>
+        <id>https://catonmat.net/halloween-sale</id>
+        <link href="https://catonmat.net/halloween-sale"/>
+        <updated>2023-10-31T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[At Browserling and Online Tools, we love sales.
+We just created a new automated Halloween sales campaign.
+Now each year, on 31st of October, we show a 50% discount offer to all users who visit our site.
+Run automated sales too and see you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西部数据将剥离闪存业务]]></title>
+        <id>https://www.solidot.org/story?sid=76490</id>
+        <link href="https://www.solidot.org/story?sid=76490"/>
+        <updated>2023-10-31T09:16:41.000Z</updated>
+        <summary type="html"><![CDATA[在与日本铠侠合并谈判陷入僵局后，西部数据宣布将剥离其闪存业务。西部数据将分拆成两家上市公司，一家保留其传统的机械硬盘业务，另一家就是 2016 年以接近 190 亿美元收购的闪存制造商闪迪（SanDisk），这意味着它事实上撤销 了合并。这次拆分预计将在 2024 年下半年完成。新冠疫情之后，闪存需求大幅下降，市场供大于求。西部数据自 2021 年以来就一直与其日本合作伙伴铠侠商谈合并，但因为铠侠的间接出资方韩国SK海力士的反对而中断谈判。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果宣布了 M3 系列芯片]]></title>
+        <id>https://www.solidot.org/story?sid=76489</id>
+        <link href="https://www.solidot.org/story?sid=76489"/>
+        <updated>2023-10-31T08:52:15.000Z</updated>
+        <summary type="html"><![CDATA[苹果宣布了 M3 系列芯片以及搭配 M3 系列芯片的 MacBook Pro 笔记本电脑。苹果称，M3、M3 Pro 与 M3 Max 是全球首批使用 3 纳米工艺的 PC 芯片，它把 M3 与第一代 M1 芯片进行了对比，称其高性能核心和高能效核心比 M1 中的相应核心分别快 30% 和 50%，神经网络引擎也比 M1 系列芯片上的快 60%，图形处理器渲染速度比 M1 系列芯片相比最快可达 2.5 倍。M3 系列芯片最大变化就是其图形处理器，苹果引入了动态缓存，硬件加速光线追踪和网格着色，在功耗减半的情况下可达到与 M1 相当的性能，在峰值功耗下可实现 65% 的性能提升。其它包括媒体处理引擎支持 AV1 解码，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerToys v0.75.0 带来全新的仪表盘界面，新的环境变量编辑器]]></title>
+        <id>https://www.appinn.com/?p=46830</id>
+        <link href="https://www.appinn.com/powertoys-v0-75-0/"/>
+        <updated>2023-10-31T08:14:14.000Z</updated>
+        <summary type="html"><![CDATA[PowerToys 朝着越来越大的道路上勇往向前，目前安装后的文件已经接近 600MB。今天发布的 v0.75.0 版本带来了全新的仪表盘界面，和一个新的环境变量编辑器。小工具总数来到了 23 个。@]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 准备明年推出 RISC-V 版 Android 模拟器]]></title>
+        <id>https://www.solidot.org/story?sid=76488</id>
+        <link href="https://www.solidot.org/story?sid=76488"/>
+        <updated>2023-10-31T07:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Google 开源博客公布了 Android 支持开源架构 RISC-V 的未来计划，表示准备明年推出 RISC-V 版的 Android 模拟器。Google 是在去年底举行的 RISC-V 峰会上宣布计划让 RISC-V 成为 Android 的 T1 级支持架构——即其地位与 ARM 处理器处于同一水平，它也将参加下个月举行的 RISC-V 峰会。Android Open Source Project(AOSP)去年 9 月开始接受 RISC-V 补丁，目前进入到了成熟支持阶段（mature support）。RISC-V 是一个模块化指令集架构，有大量的可选扩展，为确保 Android 应用能在 RISC-V 处理器上获得高性能，它需要挑选出一个初始集，目前该初始集包含了 rva22 以及向量和向量加密扩展。AOSP 对 RISC-V 的支持现阶段还比较原始，尚未优化，Android Runtime (ART) 的完全优化后端还在开发之中。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bcachefs 再次尝试递交的 Linux 主线]]></title>
+        <id>https://www.solidot.org/story?sid=76487</id>
+        <link href="https://www.solidot.org/story?sid=76487"/>
+        <updated>2023-10-31T06:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Linux 6.6 发布之后，Linux 6.7 的合并窗口开启，此前备受瞩目的写时复制文件系统 Bcachefs 再次尝试递交到新内核主线，这一次 Linus Torvalds 有可能会接受。Bcachefs 是在 2015 年宣布的，至今有近十年历史，它源自于名叫 bcache 的内核块层缓存，项目开发者希望能提供类似 XFS/EXT4 的性能以及类似 Btrfs 和 ZFS 的特性。Bcachefs 开发者是在 Linux 6.5 合并窗口期间首次递交补丁，但未被接受，Linux 6.6 开发期间再次递交也未成功。更新：已接受合并。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加拿大禁止政府移动设备安装微信和卡巴斯基]]></title>
+        <id>https://www.solidot.org/story?sid=76486</id>
+        <link href="https://www.solidot.org/story?sid=76486"/>
+        <updated>2023-10-31T06:19:22.000Z</updated>
+        <summary type="html"><![CDATA[加拿大政府宣布在在政府配发的移动设备上禁止使用微信和卡巴斯基软件套装。该禁令即日生效。加拿大政府是以保护政府信息和网络安全的理由做出这一决定。政府还将在这些设备上屏蔽微信和卡巴斯基的下载。加拿大官员表示，这些应用“对隐私和安全构成了不可接受的风险”。腾讯旗下的微信是中国最流行的社交软件之一，有逾十亿用户，在国外也有数以千万计的用户，但主要是华人使用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[活久见，跨平台快速启动工具 Wox v2.0.0 更新｜“Alfred 和 Launchy 替代品”]]></title>
+        <id>https://www.appinn.com/?p=46826</id>
+        <link href="https://www.appinn.com/wox-v2-0-0-alpha-1/"/>
+        <updated>2023-10-31T04:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Wox 是一款开源的跨平台快速启动器，小众软件最早曾在 2014 年介绍过：Wox – 开源快速启动工具。昨日由新开发者接手后，时隔近 2 年半更新 Wox v2.0.0-alpha.1 版本，目前仅]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook 和 Instagram 将在欧洲推出无广告的订阅服务]]></title>
+        <id>https://www.solidot.org/story?sid=76485</id>
+        <link href="https://www.solidot.org/story?sid=76485"/>
+        <updated>2023-10-30T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta 宣布，旗下社交网络 Facebook 和 Instagram 将在欧盟、欧洲经济区和瑞士推出无广告的订阅服务。此举是为了遵守欧盟不断变化的监管要求。如果欧洲用户选择订阅，他们的个人数据将不会被用于广告。该订阅服务分为 Web 端和移动端购买，Web 端购买为每月 9.99 欧元，iOS 和 Android 上的移动端购买为每月 12.99 欧元，更贵是因为苹果和 Google 都要收取提成。如果用户的 Account Center 包含了多个账号，那么从 2024 年  3 月 1 日开始，额外的账号需要每月支付 6 欧元（Web）或 8 欧元（移动）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do Kwon 如何在黑山落网]]></title>
+        <id>https://www.solidot.org/story?sid=76484</id>
+        <link href="https://www.solidot.org/story?sid=76484"/>
+        <updated>2023-10-30T15:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Do Kwon 创造的两种代币 TerraUSD 和 Luna 的币值在 2022 年 5 月崩盘时，他与妻子以及刚刚出生的女儿生活在新加坡的豪宅内。2022 年 9 月 7 日面临被捕的 Kwon 飞往了迪拜，然后抵达塞尔维亚。他随后在塞尔维亚首都贝尔格莱德安顿下来。韩国检方通过国际刑警组织发布了红色通缉令，要求世界各地的警察抓捕 Kwon。但塞尔维亚仍允许他留在该国。12 月韩国正式要求塞尔维亚逮捕并引渡 Kwon。他在 2023 年 3 月中旬潜过边境进入黑山，藏身在亚得里亚海的度假胜地彼得罗瓦茨。3 月 23 日他乘坐出租车前往黑山首都波德戈里察的机场，其护照在黑山机场触发警报，黑山警方随后以伪造护照的名义将其逮捕。目前他被隔离关押在黑山的一所监狱里。美国以及韩国都希望将其引渡到自己的国家受审。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla 开始提供 Firefox Nightly 的 .deb 包]]></title>
         <id>https://www.solidot.org/story?sid=76483</id>
@@ -999,86 +1159,6 @@ Since web content is rendered on the server side, threats like malware are isola
         <summary type="html"><![CDATA[MIT 斯隆商学院的黄亚生教授谈论了科举制对整个中国社会的深远影响。今年有近 1300 万人参加高考，约 260 万人参加公务员考试（录取名额只有 3.71 万个）。高考和公考都源自隋朝的科举，清朝在 1905 年将其废除。在这之前，科举是帝国官僚机构的主要选拔途径。科举纯粹是背诵，是基于儒家经典。而儒家经典有 40 万个字和短语，男孩通常 3-5 岁起就开始背诵。科举只对男性开放，竞争非常激烈，明代有 100 万人定期参加各级资格考试，只有 400 人进入最后的会试。明代乡试的平均通过率为 4%，比被哈佛录取还要难。科举产生的文凭主义今天仍然盛行，很多官员都声称拥有博士学位。科举对整个社会的影响是巨大的，它需要男性人口投入大量的时间、精力和认知投资。国家垄断了最好的人力资本，间接剥夺了社会获得人才的机会，巩固了帝国的专制制度。科举是早熟的产物，是反流动性的流动渠道，将所有的向上流动性集中在国家所占有的一个渠道内。社会被排挤，随着时间的推移，由于缺乏优秀的人力资本，社会开始萎缩。这是专制力量的根源。科举推动了知识的普及，在明朝真正的文盲可能少之又少。但与此同时，帝国从未出现过有组织的知识学派，类似英国皇家学会之类的机构。宋朝的东林书院随着起创办人的去世而消失，明朝的东林党被宦官镇压，只存在了 22 年。帝国有很多知识分子，但缺乏知识阶级。科举是中国不成熟社会的早熟产物，它垄断了考生的时间和精力。明朝的数据显示，通过会试的考生平均年龄为 32 岁，而当时中国人口的平均寿命要比今天短得多。以归有光（1507年1月6日—1571年2月5日）为例，他 34 岁通过乡试，59 岁才考取进士，64 岁去世。对他以及许多人来说，科举是一生的事业。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数千朝鲜 IT 开发者给美国公司做远程外包工作]]></title>
-        <id>https://www.solidot.org/story?sid=76412</id>
-        <link href="https://www.solidot.org/story?sid=76412"/>
-        <updated>2023-10-22T09:59:20.000Z</updated>
-        <summary type="html"><![CDATA[FBI 和美国司法部官员表示，数千名朝鲜 IT 开发者使用虚假身份秘密为美国公司从事远程外包工作。他们获得的工资转移到朝鲜用于武器开发。法庭文件称，朝鲜政府派遣了数千名技术熟练的 IT 开发者，他们主要生活在中国和俄罗斯，欺骗美国等地的企业雇用他们作为远程工作的自由职业者。这些开发者利用各种手段让他们看起来像是在美国工作，包括付钱给美国人使用其家庭 Wi-Fi 连接。朝鲜的 IT 开发者每年获得数百万美元的工资，在某些情况下，他们还渗透进入雇用他们的企业的计算机网络并窃取相关信息，保持未来黑客入侵和勒索计划的访问权限。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士康旗下企业受到税务调查]]></title>
-        <id>https://www.solidot.org/story?sid=76411</id>
-        <link href="https://www.solidot.org/story?sid=76411"/>
-        <updated>2023-10-22T09:41:33.000Z</updated>
-        <summary type="html"><![CDATA[《环球时报》报道，税务部门近期对富士康集团在广东、江苏等地的重点企业进行税务稽查，自然资源部门对富士康在河南、湖北等地的重点企业用地情况进行现场调查。厦门大学台湾研究院副院长张文生接受采访时表示，有关部门对任何涉嫌存在违法违规行为的企业进行税务稽查、用地情况调查，属于正常的依法行政，合情合理合法。富士康旗下企业有义务积极配合稽查、调查，若确有违法违规行为，应认错认罚、加紧整改。张文生表示，祖国大陆历来欢迎、支持台商到大陆投资，依法保护台商台企合法正当权益。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发送至 Kindle 文档的新功能：PDF 注释、高亮，电子书 Page Flip 功能]]></title>
-        <id>https://www.appinn.com/?p=46761</id>
-        <link href="https://www.appinn.com/send-to-kindle/"/>
-        <updated>2023-10-22T08:13:04.000Z</updated>
-        <summary type="html"><![CDATA[虽然 Kindle 已不再中国运营，看起来也没啥用了。但实际上 Kindle 作为一款阅读器应用，而非硬件设备本身还是十分合格的。青小蛙也一直在持续使用 Kindle 阅读文档、电子书。最近发送至 K]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨平台、开源磁盘加密工具 VeraCrypt 时隔20个月更新，修复与新系统的兼容性]]></title>
-        <id>https://www.appinn.com/?p=46758</id>
-        <link href="https://www.appinn.com/veracrypt-1-26-7/"/>
-        <updated>2023-10-22T04:04:41.000Z</updated>
-        <summary type="html"><![CDATA[VeraCrypt 是一款著名的跨平台、开源磁盘加密工具，基于已经结束的 TrueCrypt 项目。这个月初更新 1.26.7 版本，距离上次更新已经20个月了。新版本主要修复了与新系统的兼容性问题，]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why would someone create a dark web version of their website?]]></title>
-        <id>https://catonmat.net/why-create-dark-web-version-of-website</id>
-        <link href="https://catonmat.net/why-create-dark-web-version-of-website"/>
-        <updated>2023-10-21T22:25:00.000Z</updated>
-        <summary type="html"><![CDATA[This is an excerpt from Browserling's Tor Browser Testing Guide. Browserling offers a cloud-based service for cross-browser testing your onion websites via the Tor browser, which can be accessed via browserling.com/tor. The Tor browser is virtualized and runs in a sandboxed environment on Browserling's servers that are isolated from your device and network.
-Introduction
-Creating a dark web version of a website usually refers to setting up an instance of that website on the Tor network that's accessible through an onion address (ending with .onion). The dark web is a part of the deep web that is intentionally hidden and only accessible using specialized software (such as the Tor browser). There are various reasons why an individual or organization might want to create a dark web version of …]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can now right-pad a string online]]></title>
-        <id>https://catonmat.net/right-pad-string-online</id>
-        <link href="https://catonmat.net/right-pad-string-online"/>
-        <updated>2023-10-21T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Last month we created the Left-pad a String tool and just now we also created its reverse tool – Right-pad a String. We promise we won't unpublish it so it's guaranteed to work forever. And also we won't rewrite it in Rust. ✌️
-PS. Use coupon code RIGHTPAD0000 for 30% off.]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to test a dark web link?]]></title>
-        <id>https://catonmat.net/how-to-test-dark-web-link</id>
-        <link href="https://catonmat.net/how-to-test-dark-web-link"/>
-        <updated>2023-10-21T14:31:00.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: You can test your dark web links via an online Tor browser. I and my team virtualized the Tor browser and it can be accessed via browserling.com/tor. By using Browserling, you can cross-browser test onion links with a single click, making it a hassle-free and safe experience.
-What is a dark web link?
-A dark web link is a URL that leads to a website hosted on the dark web, a part of the deep web that's intentionally hidden and is inaccessible through standard web browsers. The primary reasons for hosting on the dark web include ensuring anonymity, evading surveillance, and bypassing Internet censorship. It also serves as a haven for activists, journalists, and those in oppressive regimes. Notably, the BBC, Facebook, and Reddit have a mirror of its site on the Tor network, ensuring unrestricted news access in areas with stringent censorship.
-How to test a dark web link?
-To test a dark web link, one typically requires specialized software, such as the Tor browser. However, installing the Tor browser can feel unsettling and comes with its own set of privacy risks. Instead of navigating these complications, you can opt for Browserling. Browserling offers a cloud-hosted variant of the Tor browser, granting users immediate and secure access without the need for any downloads or installations. This method offers both convenience and a layer of safety for those looking to cross-browser test their dark web content.
-What is Browserling?
-Browserling is a web-based service offering live and interactive browser testing. Users can evaluate their websites or apps across a range of browsers, including the Tor browser, on multiple operating systems without local installations. Running in on the cloud, Browserling supports instant testing and troubleshooting. By integrating the Tor browser testing, Browserling ensures site compatibility even for privacy-centric dark web websites.
-Happy testing!]]></summary>
-        <author>
-            <name>catonmat.net</name>
         </author>
     </entry>
     <entry>
