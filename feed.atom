@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-11-06T02:23:22.027Z</updated>
+    <updated>2023-11-07T02:21:41.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[新闻网红是否将取代传统媒体？]]></title>
+        <id>https://www.solidot.org/story?sid=76545</id>
+        <link href="https://www.solidot.org/story?sid=76545"/>
+        <updated>2023-11-06T13:40:33.000Z</updated>
+        <summary type="html"><![CDATA[新冠初期，新闻消费在增长，然而愈来愈多的人转向的是 TikTok、YouTube 和 Instagram 等社媒平台，而不是传统新闻媒体的网站。路透社新闻学研究所的数字新闻报告称，低于 24 岁的年轻人中间有五分之一将 TikTok 作为新闻源，比去年增加了 5%。英国通讯办公室称，英国年轻人花在  TikTok 的时间超过了广播电视。年轻人消费的新闻通常是由网红而不是传统媒体的记者提供。虽然《纽约时报》和《华盛顿邮报》等传统媒体的数字观众在增加，但新闻学的经济学在转变。社交媒体引导到传统媒体的流量在下降，而广告商开始将更多广告费投入在网红或内容创作者身上。这些内容创作者更多是收集内容和传递情绪，并不遵守传统媒体的新闻标准。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊的无人机快递并没有走到现实生活]]></title>
+        <id>https://www.solidot.org/story?sid=76544</id>
+        <link href="https://www.solidot.org/story?sid=76544"/>
+        <updated>2023-11-06T12:30:57.000Z</updated>
+        <summary type="html"><![CDATA[十年前亚马逊宣布了它的无人机快递服务，十年后无人机送快递只在美国德州的一个城市推广，且象征意义大于实际意义。无人机送货有非常多的限制，一次只能送一件货物，总量不能超过五磅，体积不能太大，不能是易碎物，因为货物要从 12 英尺的高度扔下来。天气也不能太热，风不能太强，雨不能太大，恶劣天气下无人机是不能飞行的。客户需要及时到家门口拿货，否则有可能被人顺手牵羊，或者滚到街上。如果客户家有后院，可能解决部分问题，但后院有树的话也没法送。技术的复杂性也让无人机送货难以普及，安全性无法保障，比如不小心落在行人的头上。一位德州农工大学教授订购了一种药物，结果无人机送来时药物已经融化了。一位客户认为，无人机送货更像是一种玩具，而且是那种铺张浪费的玩具。为什么我们需要无人机送货？这仍然是该服务面临的最大问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当脑损伤导致时间感知能力丢失]]></title>
+        <id>https://www.solidot.org/story?sid=76543</id>
+        <link href="https://www.solidot.org/story?sid=76543"/>
+        <updated>2023-11-06T11:36:05.000Z</updated>
+        <summary type="html"><![CDATA[因狼疮性脑炎引发的脑部损伤，音乐家 Meghan Beaudry 失去了时间感知能力，无法走路，无法沟通，也无法连续思考，在长达数个月里卧床不起。由于无法感知时间长短，她把过去发生的事情，无论是前几天还是前几年都说成昨天。她通过学习神经科学以加深对自身疾病的理解。测量时间不是由大脑单一部分完成的。大脑依赖于神经传递的时间，从外部世界接收到的信息以波或脉冲形式通过神经元发送，一切都是以此形式处理的，也就是说我们大脑中有数万亿个微型时间处理单元。一条特定的信息并不会停留在大脑中的特定位置。虽然大脑没有单一区域控制抽象的时间概念，但特定的神经元网络通过帮助形成情景记忆，在时间的感知中发挥重要作用。脑损伤的恢复相当复杂，因患者情况而定。在康复六年之后她的记忆能力还是无法恢复到以前。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 开发将从 Mercurial 转移到 Git]]></title>
+        <id>https://www.solidot.org/story?sid=76542</id>
+        <link href="https://www.solidot.org/story?sid=76542"/>
+        <updated>2023-11-06T10:09:20.000Z</updated>
+        <summary type="html"><![CDATA[Firefox 桌面开发长期以来一直支持 Mercurial 和 Git 两种版本控制系统，这给团队带来了巨大负担，因此 Mozilla 决定将开发转移到 Git。Firefox 开发团队将会继续使用 Bugzilla、moz-phab、Phabricator 和 Lando，虽然项目将会托管在 GitHub，但短时间内不会接受 Pull Requests，贡献工作流维持不变。目前还是计划阶段，开始迁移至少要等到六个月之后。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[咖啡和茶或有助于降低认知障碍风险]]></title>
+        <id>https://www.solidot.org/story?sid=76541</id>
+        <link href="https://www.solidot.org/story?sid=76541"/>
+        <updated>2023-11-06T08:36:23.000Z</updated>
+        <summary type="html"><![CDATA[饮用适量的咖啡和茶有助于降低患认知障碍如痴呆症的风险。中国医科大学的研究人员使用元分析（meta-analysis）方法，选择了 1990 - 2019 年发表的 22 项队列研究和 11 项病例对照研究，涉及 389,505 名参与者，其中 18,459 人患有认知障碍。研究发现，饮用咖啡和茶可降低认知障碍风险，相比不饮咖啡或茶的人，饮用咖啡或茶的人患认知障碍的可能性分别降低约 27% 和 32%。研究发现，咖啡摄入量与阿尔茨海默病风险之间的关系是非线性的，超过 2.5 杯后保护作用就不再有显著变化。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李开复的 AI 公司发布开源模型 Yi-34B]]></title>
+        <id>https://www.solidot.org/story?sid=76540</id>
+        <link href="https://www.solidot.org/story?sid=76540"/>
+        <updated>2023-11-06T07:58:49.000Z</updated>
+        <summary type="html"><![CDATA[李开复在年初宣布了他创办的开发大模型的 AI 公司零一万物，七个月后零一万物发布了它的首个开源大模型 Yi-34B，源代码采用 Apache v2 许可证托管在 GitHub 上。Yi-34B 是中英双语模型，有 350 亿个参数，比  Falcon-180B 和 Meta LlaMa2-70B 等开源大模型都要小，但性能并不逊色。李开复表示有信心在一年半内发布  1000 亿到 4000 亿参数的大模型，将显著强于 Yi-34B。李开复称他的公司获得了来自创新工场、阿里云等的投资，估值 10 亿美元。大模型耗资巨大，零一万物将会选择性的开源部分模型，但其重点仍然是构建最先进的私有模型。在美国 AI 芯片出口限制生效前，零一万物已经囤积了能满足未来 12-18 个月计算需求的 AI 芯片。零一万物称，Yi-34B 及其规模更小的版本 Yi-6B 开源模型对学术研究完全开放，同步开放免费商用申请。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魔芋爽 – 俗话说：上班摸鱼一时爽，一直摸鱼一直爽｜上班摸鱼看小说[Windows]]]></title>
+        <id>https://www.appinn.com/?p=46877</id>
+        <link href="https://www.appinn.com/moyushuang/"/>
+        <updated>2023-11-06T06:56:23.000Z</updated>
+        <summary type="html"><![CDATA[现有的摸鱼看小说软件有极简小说阅读器、WKReader（需要会员）、Reader，Thief-Reader（软件体积大）等，摸个鱼还要会员？！岂有此理！ 于是乎，在上班摸鱼期间开发了这个摸鱼看小说的软]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软万圣节文件泄露二十五周年]]></title>
+        <id>https://www.solidot.org/story?sid=76539</id>
+        <link href="https://www.solidot.org/story?sid=76539"/>
+        <updated>2023-11-06T06:56:03.000Z</updated>
+        <summary type="html"><![CDATA[二十五年，一份内部备忘录揭示了微软高管和软件开发经理对自由软件的深忧。备忘录警告，自由软件的质量能达到或超越商业软件，潜在对微软构成了严重威胁。该备忘录泄露给了知名的开源软件开发者 Eric Raymond（ESR），他后来又收到了多份相关备忘录，这些备忘录构成了万圣节文件，在万圣节前夕公布在 ESR 的网站上。备忘录还表示，自由软件运动是一种长期的可信的威胁，警告称微软长期使用的营销策略 FUD（代表恐惧，不确定和怀疑）将无法成功对抗自由软件的开发者。备忘录对 Linux 的日益成功也表达了担忧。自由软件运动是开源软件运动的一部分，微软备忘录指出，开源软件整合和利用集体智慧的能力令人惊叹。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国打击跨国电信诈骗]]></title>
+        <id>https://www.solidot.org/story?sid=76538</id>
+        <link href="https://www.solidot.org/story?sid=76538"/>
+        <updated>2023-11-06T06:28:38.000Z</updated>
+        <summary type="html"><![CDATA[跨国电信诈骗最近一段时间引发了广泛关注，此类骗局被称为“杀猪盘”，通常由来自中国的逃犯控制或经营。今年 8 月，中国与附近三个国家发起了“特别联合行动”，并向控制缅甸偏远地区的武装组织施加更大压力，说服他们追捕、围捕并遣返了近 5,000 名涉嫌从事非法活动的中国公民。在缅甸西南边境的佤族自治区，中国与佤邦联军合作策划了为期两天的突袭行动，最终有 1,000 多名嫌疑人被带出边境并被中国拘留。10 月 12 日，公安部表示已对两名被控领导诈骗网络的佤邦高级官员发出逮捕令，他们是缅甸掸邦第二特区建设部部长陈岩板和勐能县县长肖岩块。四天后，佤邦联军称这两人已被解除职务。目前他们下落不明。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[趋势科技在 Exchange 中发现 4 个 0day，微软对漏洞严重性提出质疑]]></title>
+        <id>https://www.solidot.org/story?sid=76537</id>
+        <link href="https://www.solidot.org/story?sid=76537"/>
+        <updated>2023-11-06T04:26:28.000Z</updated>
+        <summary type="html"><![CDATA[趋势科技的 Zero Day Initiative（ZDI） 在 2023 年 9 月 7 日和 8 日向微软报告了 Microsoft Exchange 的 4 个 0day，攻击者可以利用漏洞远程执行任意代码或泄露敏感信息。对于这些漏洞的严重性微软提出质疑，该公司发言人表示其中一个漏洞已经在 8 月的安全更新中修复，另外三个漏洞需要攻击者先获得凭证，而且没有证据表明能被利用提权。微软表示这些漏洞没有达到需要立即修复的标准，他们会视情况而定在未来版本中评估修复。ZDI 对此不予认同，决定自己公开漏洞，以警告 Exchange 管理员注意安全风险。它承认漏洞确实需要获得凭证才能利用，但指出犯罪分子有很多方法窃取 Exchange 凭证，包括但不限于暴力破解弱密码、钓鱼攻击、收购等等。目前最主要的缓解漏洞利用的方法是避免凭证泄露。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克宣布了他的聊天机器人 Grok]]></title>
+        <id>https://www.solidot.org/story?sid=76536</id>
+        <link href="https://www.solidot.org/story?sid=76536"/>
+        <updated>2023-11-06T02:44:31.000Z</updated>
+        <summary type="html"><![CDATA[马斯克（Elon Musk）宣布他旗下的 AI 公司 xAI 推出了 AI 聊天机器人 Grok。马斯克表示 Grok 将作为 X/Twitter 订阅服务 Premium+ 的一部分提供给用户，该订阅服务月费为 16 美元，他推荐想使用的用户订阅。目前用户可注册加入等候者名单。xAI 表示，Grok 这个名字来自于《银河系漫游指南》，它是马斯克最喜欢的科幻小说。然而根据维基百科，Grok 这一名字来自于科幻大师罗伯特·海因莱因的《异乡异客（Stranger in a Strange Land）》，《异乡异客》的出版时间远早于《银河系漫游指南》。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软 180 度转弯允许员工保留 Xbox Game Pass Ultimate]]></title>
+        <id>https://www.solidot.org/story?sid=76535</id>
+        <link href="https://www.solidot.org/story?sid=76535"/>
+        <updated>2023-11-05T15:32:27.000Z</updated>
+        <summary type="html"><![CDATA[微软员工原本有一项大部分人都不知道的福利，直到它准备取消这一福利之后才为公众所熟知：软件巨人本周通知员工，从 2024 年 1 月起将取消给予固定员工的福利 Xbox Game Pass Ultimate，如果想继续获得该服务，员工可以享受折扣价。Xbox Game Pass Ultimate 的月费为 16.99 美元。这一决定在公司内部引发了不满。在媒体报道之后，微软改变了注意，负责游戏业务的执行官 Phil Spencer 通知员工，23.8 万名员工中的绝大多数将仍然享有该免费福利。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Falcon 9 火箭第一级重复使用次数达到 18 次]]></title>
         <id>https://www.solidot.org/story?sid=76534</id>
@@ -906,66 +1026,6 @@ Happy browsing!]]></summary>
         <summary type="html"><![CDATA[waifu2x – 改善图片和视频画质 是一个适用于 iOS、macOS 系统的图片、视频放大工具，内置 SRCNN 模型，并可内购其他模型以及自定义模型。可以非常方便的提升画质。@App]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 14 bug 会锁定多配置文件用户的设备]]></title>
-        <id>https://www.solidot.org/story?sid=76470</id>
-        <link href="https://www.solidot.org/story?sid=76470"/>
-        <updated>2023-10-28T11:53:48.000Z</updated>
-        <summary type="html"><![CDATA[部分 Android 14 用户遭遇了某种“勒索软件”攻击，不过该勒索软件是 Google 开发的，Google 开发者目前似乎对此不太重视，将该 bug 的处理标记为中优先级。bug 主要影响使用了多配置文件的用户，多用户配置文件系统允许在一台设备上创建多个账号，允许将工作数据和个人数据分隔开来。受影响的设备包括了 Pixel 6、 6a、7、7a、Pixel Fold 和 Pixel Tablet。用户报告他们或者遭遇了死循环，或者卡在了启动界面，日志文件里包含了大量错误信息如 Failed to open directory /data/media/0: Structure needs cleaning。部分用户报告无法访问存储空间，启动应用会显示存储空间不足的错误信息。Google 的迟钝反应可能更令用户担忧。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waifu2x ncnn – 安卓手机上的图片放大降噪神器[Android]]]></title>
-        <id>https://www.appinn.com/?p=46810</id>
-        <link href="https://www.appinn.com/waifu2x-ncnn/"/>
-        <updated>2023-10-28T11:44:17.000Z</updated>
-        <summary type="html"><![CDATA[Waifu2x ncnn 是一款适合日常使用的 Android 本地 AI 图片放大降噪工具，不上传图片至服务器，也无数量限制、不用排队，免费，全靠自己的手机算力。支持 CUnet, UpConv-P]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 在 2021 年为默认搜索交易支付了 263 亿美元]]></title>
-        <id>https://www.solidot.org/story?sid=76469</id>
-        <link href="https://www.solidot.org/story?sid=76469"/>
-        <updated>2023-10-28T09:58:20.000Z</updated>
-        <summary type="html"><![CDATA[US v. Google 反垄断案凸显了默认设置的重要性，即使 Google 是搜索市场上最出色的产品，切换搜索引擎对用户而言也十分容易，但搜索巨人为了成为浏览器和手机等不同产品的默认搜索引擎而在 2021 年支付了多达 263 亿美元的费用。这个数字是美国司法部在询问 Google 搜索业务负责人 Prabhakar Raghavan 时披露的。根据 Google 母公司 Alphabet 最近公布的财报，它的搜索广告业务过去三个月的收入为 440 亿美元，去年的收入为 1650 亿美元。广告业务（其中包括 YouTube 广告）整体利润略少于 900 亿美元。263 亿美元意味着 Google 放弃了搜索收入的 16% 和利润的 29%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiniRenamer – 支持实时预览的批量重命名工具，用户：此前20年收藏改名工具种种，至此可弃[Win]]]></title>
-        <id>https://www.appinn.com/?p=46806</id>
-        <link href="https://www.appinn.com/minirenamer/"/>
-        <updated>2023-10-28T09:21:06.000Z</updated>
-        <summary type="html"><![CDATA[MiniRenamer 是一款被用户誉为「此前20年收藏改名工具种种，至此可弃」的工具，主要功能是实时预览重命名、正则，支持改名模板等功能。@Appinn 来自发现频道，@lforl 同学推荐，以及]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界尽头的扫地机器人]]></title>
-        <id>https://www.solidot.org/story?sid=76468</id>
-        <link href="https://www.solidot.org/story?sid=76468"/>
-        <updated>2023-10-27T16:00:25.000Z</updated>
-        <summary type="html"><![CDATA[Amundsen–Scott 南极科考站可能是地球上最孤立的地区。在南半球的夏季，这里有大约 150 名科学家和工作人员，到了冬季人数缩小到了 40 名左右。从 2 月中旬 到 10 月下旬，生活在南极站的人基本上是与世隔绝。他们只能靠自己，没有来自外界的食物、燃料、零部件等的运送。除非发生了最紧急的医疗情况，才会有飞机尝试抵达南极站。虽然南极科考站的工作人员是季节性轮换的，但这里有四名永久居民：Bert，iRobot 的 Roomba 652 扫地机器人，2018 年来到南极站；Ernie，2019 年抵达，型号为 Roomba 690；另外两个扫地机器人 Sam 和 Frodo 稍后抵达。它们做着扫地机器人该做的事情：保持地面清洁。但同时也为工作人员提供了某种安慰作用。为了保护当地生态系统，《南极条约》禁止养宠物、种植植物甚至是泥土。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学术界的了不起的盖茨比曲线]]></title>
-        <id>https://www.solidot.org/story?sid=76467</id>
-        <link href="https://www.solidot.org/story?sid=76467"/>
-        <updated>2023-10-27T14:55:22.000Z</updated>
-        <summary type="html"><![CDATA[了不起的盖茨比曲线（Great Gatsby Curve）是基于加拿大经济学家  Miles Corak 的研究，他统计了 21 个国家的数据，得出“社会不公平程度”与“代际收入弹性”基本正相关的结论。这说明一个国家的社会不公平程度越高，父辈的收人水平对下一代收入水平的影响越大，子女处于父辈的经济阶层的可能性就越高。它的名字源自菲茨杰拉德（Francis Scott Fitzgerald）的《了不起的盖茨比》，这部小说讲述了美国爵士时代的代际财富差距和新富阶层，主角盖茨比出生贫穷，但后来赚了很多钱，显著提高了他的社会层次。英国研究人员在预印本平台 arXiv 发表论文，分析了 22 个学科中逾 24.5 万对导师学生组合以及他们所出版论文的系谱数据，发现学术界也存在了不起的盖茨比曲线，即学术影响的不平等与学术影响的跨代持续性之间正相关，导师影响力与被指导者影响力随着时间相关性日益增加，这意味着学术界的代际流动性下降。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
