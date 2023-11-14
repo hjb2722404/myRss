@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-11-13T02:23:54.365Z</updated>
+    <updated>2023-11-14T02:21:51.499Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python 混淆包被发现隐藏了秘密后门]]></title>
+        <id>https://www.solidot.org/story?sid=76609</id>
+        <link href="https://www.solidot.org/story?sid=76609"/>
+        <updated>2023-11-13T14:11:19.000Z</updated>
+        <summary type="html"><![CDATA[安全公司 Checkmarx 报告了针对 Python 开发者的供应链攻击，攻击者发布了 8 个用于混淆代码的 Python 软件包，其中植入了具有高度侵入性的后门。这些软件包共被下载了 2348 次。以第八个混淆包 pyobfgood 为例，一旦安装，攻击者基本上可以完全控制受害者的电脑，能窃取主机信息、窃取 Chrome 保存的密码、设置键盘记录器、下载文件、屏幕截图和录屏录音、通过增加 CPU 占用等方法关闭电脑或导致蓝屏死机、加密文件、执行任何指令，等等。软件包的下载绝大部分来自美国（62%）、其次是中国（12%）和俄罗斯（6%）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工商银行美国子公司遭勒索软件攻击]]></title>
+        <id>https://www.solidot.org/story?sid=76608</id>
+        <link href="https://www.solidot.org/story?sid=76608"/>
+        <updated>2023-11-13T13:37:59.000Z</updated>
+        <summary type="html"><![CDATA[工商银行美国子公司 ICBC Financial Services(FS) 于 11 月 9 日遭到了勒索软件攻击。ICBC FS 在网站的声明中表示它立即切断了网络连接隔离了受影响系统。工商银行表示，其业务和电邮系统是独立于集团运行，这起事故没有对纽约分行、总行以及其他境内外附属机构产生影响。它已经向执法机构报告了这起事件。工商银行是全球收入最高的商业银行，去年收入 2147 亿美元，利润 535 亿美元。勒索软件攻击短干扰了美国国债的交易，ICBC FS 表示它能清算 8 日执行的美国国债交易，以及 9 日的回购融资。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepLX – 一个第三方 DeepL 翻译的免费、不限量 API]]></title>
+        <id>https://www.appinn.com/?p=46934</id>
+        <link href="https://www.appinn.com/deeplx/"/>
+        <updated>2023-11-13T10:28:22.000Z</updated>
+        <summary type="html"><![CDATA[DeepLX 是一个开源项目，它基于 DeepL 免费服务，将其转换为本地 API，提供给第三次程序使用，如沉浸式翻译、BOb。@Appinn DeepL 本身提供了免费的有额度限制的 API，但注册]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳大利亚港口运营商因网络攻击下线两天]]></title>
+        <id>https://www.solidot.org/story?sid=76607</id>
+        <link href="https://www.solidot.org/story?sid=76607"/>
+        <updated>2023-11-13T10:00:53.000Z</updated>
+        <summary type="html"><![CDATA[澳大利亚主要港口运营商 DP World Australia 在网络攻击导致设施瘫痪愈两天后恢复了正常运行。该公司管理的港口处理了澳大利亚四成的进出口货物，从上周五到本周一早晨，位于墨尔本、悉尼、布里斯班和珀斯的港口运营因网络攻击受到干扰。这次事故没有影响到澳大利亚超市的商品供应。DP World Australia 隶属于迪拜国有的 DP World 集团，该公司表示今天将有四千个集装箱离开其管理的四个港口。目前还不清楚攻击者的身份。DP World 表示在上周五攻击发生之后，它立刻切断了与港口的网络连接，防止对其网络的任何未经授权的访问。它表示正对此次事故展开调查。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.7-rc1 释出]]></title>
+        <id>https://www.solidot.org/story?sid=76606</id>
+        <link href="https://www.solidot.org/story?sid=76606"/>
+        <updated>2023-11-13T08:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds 在内核邮件列表上宣布释出 Linux 6.7-rc1，这标志着合并窗口的关闭。主要新特性包括：实验性文件系统 Bcachefs；Nouveau 驱动初步支持英伟达的 GSP 固件，改进 RTX 20 系列显卡支持，初步支持  RTX 40 系列显卡；初步支持 AMD 下一代显卡；移除英特尔安腾 IA-64 架构支持；改进调度器；AppArmor IO_uring 整合；新的 make hardening.config 选项；等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[闪迪固态硬盘故障是设计和制造缺陷导致的]]></title>
+        <id>https://www.solidot.org/story?sid=76605</id>
+        <link href="https://www.solidot.org/story?sid=76605"/>
+        <updated>2023-11-13T07:59:31.000Z</updated>
+        <summary type="html"><![CDATA[数据恢复公司 Attingo 的报告称，闪迪 Extreme Pro 系列固态硬盘故障是设计和制造缺陷导致的。今年五月，
+闪迪 Extreme Portable 4TB 用户报告硬盘里储存的数据被抹掉。西部数据承诺将释出固件更新修复问题。然而问题并没有解决。随后 2TB 和 3TB 型号也发生相同问题。西数没有再次承诺释出固件更新。硬件本身的问题可能是闪迪对此保持沉默的原因。这起事故已经导致了集体诉讼。Attingo 指出，固态硬盘使用的零部件对电路板而言太大而导致了弱连接和易断裂，使用的焊接材料容易起泡和破裂。新版的 Extreme Pro 系列固态硬盘已经使用了额外的环氧树脂保护大的组件，这意味着西数可能知道问题出在硬件上。然而较新型号仍然有问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yanis Varoufakis 认为科技封建主义杀死了资本主义]]></title>
+        <id>https://www.solidot.org/story?sid=76604</id>
+        <link href="https://www.solidot.org/story?sid=76604"/>
+        <updated>2023-11-13T07:21:30.000Z</updated>
+        <summary type="html"><![CDATA[曾短暂担任希腊财长的经济学家 Yanis Varoufakis 出版了一本新书《Technofeudalism: What Killed Capitalism》，认为科技封建主义杀死了资本主义。他说在 19 世纪初，封建主义关系基本完好，但资本主义关系逐渐占据主导。今天资本主义关系基本完好，但科技封建主义逐渐占据主导。传统资本家变成了“附庸资本家”，依附于新一代的“领主”——也就是大型科技公司——这些公司通过数字平台创造了巨大的财富。被称为“云资本”的新形式算法资本逐渐形成，取代了传统资本主义的两大支柱——市场和利润。市场被数字交易平台所取代，平台看似是市场，但实际上并不是。当你作为消费者访问亚马逊网站，你实际上退出了资本主义，进入了某种类似“封建领地”的地方——这个数字世界从属于一个人和他的算法，算法决定了你看到什么产品看不到什么产品。如果你是卖家，平台将决定你如何销售和接触哪些客户。你的互动、信息共享和交易的条款由为“贝佐斯（Jeff Bezos）盈亏线”工作的算法决定。如果附庸资本家不遵守领地法律，他们就会被踢出，这会给他们的业务造成毁灭性影响。进入数字领地需要支付昂贵的租金。苹果应用商店收取三成佣金，而亚马逊商店则向卖家收取 35% 的佣金。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AOMedia 发布免版税音频容器规范 IAMF]]></title>
+        <id>https://www.solidot.org/story?sid=76603</id>
+        <link href="https://www.solidot.org/story?sid=76603"/>
+        <updated>2023-11-13T06:15:33.000Z</updated>
+        <summary type="html"><![CDATA[AOMedia 发布了它的首个免版税音频容器规范 IAMF（代表 Immersive Audio Model and Formats）。AOMedia 以免版税视频编解码器 AV1 和图像格式 AVIF 闻名，目前主要硬件产品正逐渐加入对 AV1 的支持。IAMF 旨在为从 AR/VR 到传统广播的各种应用提供全新的沉浸式音频体验，它是与编解码器无关的容器规范。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯将代理销售 Meta 的 VR 设备]]></title>
+        <id>https://www.solidot.org/story?sid=76602</id>
+        <link href="https://www.solidot.org/story?sid=76602"/>
+        <updated>2023-11-13T05:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Meta 与腾讯达成一项初步协议，将在中国销售低价版的新款 VR 头戴式设备。腾讯将成为 Meta 头戴式设备在中国的独家销售商。这为 Meta 提供了一个重要的新市场，Meta 正寻求刺激全球对其小众设备不温不火的需求。腾讯将从 2024 年底开始销售这款设备，两家公司已就此谈判了大约一年时间。该协议仍是暂时的，细节可能还会有变化。因中国尚未出台 VR 相关规定，目前还不清楚腾讯引进 Meta 设备并在该平台上提供 VR 内容是否需要像引进任天堂 Switch 和发布传统游戏那样寻求政府的正式批准。在这桩交易中，Meta 将拿走设备销售收入的大头，而腾讯将拿走内容和服务收入的大头。这款头戴式设备将提供腾讯发布的游戏和其他应用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github 发布了适合显示代码的开源字体超级家族 Monaspace，支持编程连字，其 Texture Healing 特性可让 w、m、i、l 读起来更舒服]]></title>
+        <id>https://www.appinn.com/?p=46930</id>
+        <link href="https://www.appinn.com/github-superfamily-fonts-monaspace/"/>
+        <updated>2023-11-13T05:35:01.000Z</updated>
+        <summary type="html"><![CDATA[Monaspace 是由 GitHub 发布的适合显示代码的等宽字体集，拥有 5 种字体，3 个”可变轴” (variation axis)，支持编程连字（Coding Lig]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[印度如何管理互联网]]></title>
         <id>https://www.solidot.org/story?sid=76601</id>
@@ -903,66 +1004,6 @@ What can affect file download speed?
 File download speed can be affected by multiple factors including the quality and speed of your Internet connection, the amount of traffic on the network, the performance of the server hosting the file, and the condition of your networking hardware such as a modem and router. Additionally, local network congestion, the use of a wireless versus wired connection, and software configurations on your device can also influe…]]></summary>
         <author>
             <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动物也具有想象力]]></title>
-        <id>https://www.solidot.org/story?sid=76532</id>
-        <link href="https://www.solidot.org/story?sid=76532"/>
-        <updated>2023-11-04T13:38:53.000Z</updated>
-        <summary type="html"><![CDATA[研究人员开发了一种结合虚拟现实和脑机接口的新系统，对大鼠进行实验。他们发现，和人类一样，动物可以想象不在它们面前的地方和物体，用它们的思想想象走到一个地方或把一个遥远的物体移动到一个特定的地方。和人类一样，当啮齿类动物经历地点和事件时，海马区(大脑中负责空间记忆的区域)会激活特定的神经活动模式。这项新研究发现，大鼠可以自发地产生同样的活动模式，并以此来回忆远离当前位置的遥远位置。这种想象远离当前位置的位置的能力对于记住过去的事件和想象可能的未来情景是至关重要的。这项新研究表明，动物和人类一样，拥有一种想象力。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最强大离子引擎通过了合格性测试]]></title>
-        <id>https://www.solidot.org/story?sid=76531</id>
-        <link href="https://www.solidot.org/story?sid=76531"/>
-        <updated>2023-11-04T13:28:09.000Z</updated>
-        <summary type="html"><![CDATA[NASA 和 Aerojet Rocketdyne 完成了 Advanced Electric Propulsion System (AEPS)的合格性测试。AEPS 是为月球和更遥远目标等长期太空任务而开发的电力推进系统或者叫离子引擎。AEPS 被誉为下一代太空引擎。传统的化学推进系统以液体推进剂为燃料，产生短暂但强大的能量爆炸，推动飞行器向目标方向前进。而电力推进系统以惰性气体推进剂为燃料，产生的能量低但持续时间更长，效率更高，因此对长期太空任务非常有帮助。NASA 为登月任务建造的 Gateway 空间站将使用 AEPS 引擎，Gateway 空间站预计在 2025 年发射。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA 准备让国际空间站一直运行到 2030 年之后]]></title>
-        <id>https://www.solidot.org/story?sid=76530</id>
-        <link href="https://www.solidot.org/story?sid=76530"/>
-        <updated>2023-11-04T12:44:26.000Z</updated>
-        <summary type="html"><![CDATA[商业太空站有可能短时间内难以准备就绪，NASA 已经做好了应对之策。官员表示，如果到 2020 年代末商业太空站还无法做好准备接替国际空间站，空间站将在 2030 年之后继续运行。目前到 2020 年代末退役国际空间站的计划并不是强制性的，而是取决于商业公司在商业空间站上的进展。NASA 对商业空间站的要求是至少一次能容纳两名宇航员，这一数字少于目前的国际空间站。NASA 不希望从国际空间站过渡到商业空间站过程中出现管理不善等问题，削弱美国在该领域的实力。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla 督促开发者为移动版扩展做好准备]]></title>
-        <id>https://www.solidot.org/story?sid=76529</id>
-        <link href="https://www.solidot.org/story?sid=76529"/>
-        <updated>2023-11-04T12:28:38.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla 计划在 Firefox v120 发布后不久为 Android 版本提供移动扩展，它督促开发者评估其代码，为此做好准备。Firefox 扩展编辑经理 Scott DeVaney 表示，在 12 月开放移动扩展时 AMO [addons.mozilla.org] 上将至少有 200 个新扩展。Mozilla 从 2019 年开始就考虑提供移动版扩展，但因为安全等方面的担忧而进展缓慢。允许 Android 版 Firefox 用户下载和安装未经仔细审查的扩展会带来安全风险，尤其是考虑到手机通常存储了敏感数据，比如支付卡和个人信息。在桌面生态系统中，浏览器扩展也一直是恶意软件和滥用的常见来源。即使存在安全风险，浏览器的可扩展性一直是 Open Web 的定义特征之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只读 – 简洁的稍后阅读工具：没有太多复杂的功能，只为让你有一个舒适的地方阅读你保存的文章[iOS/macOS]]]></title>
-        <id>https://www.appinn.com/?p=46868</id>
-        <link href="https://www.appinn.com/zhidu-read-it-later/"/>
-        <updated>2023-11-04T03:33:00.000Z</updated>
-        <summary type="html"><![CDATA[只读是一款简洁易用的 iPhone、macOS 稍后阅读应用。没有太多复杂的功能，只为让你有一个舒适的地方阅读你保存的文章。6.1 MB 大小。@Appinn 来自发现频道，开发者自荐：https:/]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arm 收购树莓派少数股权]]></title>
-        <id>https://www.solidot.org/story?sid=76528</id>
-        <link href="https://www.solidot.org/story?sid=76528"/>
-        <updated>2023-11-03T15:00:46.000Z</updated>
-        <summary type="html"><![CDATA[作为战略投资，Arm 宣布收购了树莓派（Raspberry Pi）少数股权。树莓派是流行的单板电脑，一直使用的是基于 Arm 架构的 SoC，其最新产品是刚刚上市的 Raspberry Pi 5。Arm 与树莓派有着长期的合作关系，收购少数股权或有助于阻止树莓派转投开源架构 RISC-V，发布使用基于 RISC-V 架构的单板电脑。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
