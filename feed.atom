@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-11-19T02:26:26.139Z</updated>
+    <updated>2023-11-20T02:26:06.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[剪映APP的视频特效如何在Web中JS实现]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=11051</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2023/11/video-effect-js-filter-pixijs-webgl-3d/"/>
+        <updated>2023-11-19T15:12:20.000Z</updated>
+        <summary type="html"><![CDATA[剪映中的视频特效虽多，其实就两类，一类改变原始像素，一类叠加混合，本文通过精简的源码和精致的案例给大家介绍具体如何实现。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 庆祝诞生 20 周年]]></title>
+        <id>https://www.solidot.org/story?sid=76662</id>
+        <link href="https://www.solidot.org/story?sid=76662"/>
+        <updated>2023-11-19T13:50:26.000Z</updated>
+        <summary type="html"><![CDATA[自由软件向量图形编辑器 Inkscape 项目释出了 v1.3.1，修复了 逾 70 个 bug，其中 逾 30 个是崩溃或挂起 bug。释出该版本是为了庆祝项目诞生二十周年。Inkscape 项目诞生于 2003 年，2020 年发布了 1.0 版本。而 Inkscape 项目是另一个最早发布于 2000 年的 sodipod 项目的分支，sodipod 项目则是最早发布于 1998 年的 Gill 项目的分支。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海葵被发现具有向日性]]></title>
+        <id>https://www.solidot.org/story?sid=76661</id>
+        <link href="https://www.solidot.org/story?sid=76661"/>
+        <updated>2023-11-19T13:37:17.000Z</updated>
+        <summary type="html"><![CDATA[沟迎风海葵可能是已知第一种“向日性”动物。它们的触角指向太阳，像植物一样追随太阳的运动。研究人员表示，沟迎风海葵的身体组织中有共生藻类，这些藻类利用光合作用为动物“伴侣”提供食物。研究团队注意到，他们所在研究所水族馆里的沟迎风海葵会把触角指向从附近窗户射进来的太阳光。当窗帘关上时，海葵的触角迅速陷入混乱。窗帘一打开，这些触角在几分钟内又开始追随太阳。在实验室环境下，科学家使用缓慢移动的光源开展实验，海葵的行为也如出一辙。对海葵开展的进一步实验表明，就像追踪太阳的植物一样，海葵的运动主要受太阳光中蓝光波长的影响。当研究小组漂白海葵，去除它们的藻类“伴侣”时，“向日”行为完全消失了。藻类在光合作用过程中会产生活性超高的氧基化学物质，这些化合物会在海葵组织内积累，这可能是阳光触发动物触角移动的一种方式。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小行星将在 12 月 12 日从参宿四前方飞过]]></title>
+        <id>https://www.solidot.org/story?sid=76660</id>
+        <link href="https://www.solidot.org/story?sid=76660"/>
+        <updated>2023-11-19T13:34:27.000Z</updated>
+        <summary type="html"><![CDATA[直径约 60 公里的主带小行星 319 Leona 将于 12 月 12 日从参宿四前方飞过。参宿四是猎户座中第二亮的恒星，它是一颗红巨星，已进入了生命的末期，距离地球约 650 光年，在 2020 年它曾因为光芒过于黯淡而引发关注。当 Leona 从它前方飞过时它的光将被遮挡几秒钟，天文学家通过这次事件将能收集到有关恒星和小行星的很多信息。一等星被遮住的掩星事件是十分罕见的，大约每几十年才发生一次，参宿四是夜空中第十亮的星星，在 12 月 12 日 01:17 UTC 你将有机会通过肉眼或望远镜观察到这次事件。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Remote Browser?]]></title>
+        <id>https://catonmat.net/what-is-a-remote-browser</id>
+        <link href="https://catonmat.net/what-is-a-remote-browser"/>
+        <updated>2023-11-19T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: A demo speaks louder than a thousand words. You can connect to a remote browser created by me and my team via browserling.com/browse. We run remote browsers on our servers and stream just the browser window to you. No cap.
+Remote Browser – What Is It?
+A remote browser is a browser that runs on a remote cloud computer instead of on the user's own computer. Users can connect to the remote computer and use the browser as if it were running on their own computer. Remote browsers are used for security purposes, as they can keep threats such as malware off the user's device and internal networks, keeping everyone safe. Additionally, for web developers, remote browsers are invaluable for testing websites across different platforms and browsers without the need for multiple devices or instal…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[习题打印生成器 – 语文字帖、数学题、英语词帖，一个干净的练习题模板打印网站]]></title>
+        <id>https://www.appinn.com/?p=46979</id>
+        <link href="https://www.appinn.com/dayin-page/"/>
+        <updated>2023-11-19T08:29:08.000Z</updated>
+        <summary type="html"><![CDATA[习题打印生成器（原名：数学题生成器）是小众软件去年介绍过的一个网站，当时可以非常容易的生成一个 100 以内加减法页面，并打印出来（打印机自备），一年过去了，开发者新增了许多功能，包括文字帖、英语单词]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《半条命》发布二十五周年]]></title>
         <id>https://www.solidot.org/story?sid=76659</id>
@@ -812,146 +874,6 @@ Google 希望获得赔偿，并禁止被告使用其产品或服务。]]></summa
         <link href="https://www.solidot.org/story?sid=76596"/>
         <updated>2023-11-11T12:51:25.000Z</updated>
         <summary type="html"><![CDATA[微软正通过愈来愈恼人的方法向用户强推它的产品，最新的尝试是云储存和同步应用 OneDrive，如果用户想要退出 OneDrive，微软会要求你解释，而且解释是强制性的，你不选择的话退出按钮将一直保持灰色，用户无法关闭应用。在媒体曝光之后，微软告诉媒体这是一项测试，仅向少数用户推出，目前已经恢复正常。软件巨人在声明中称，从 11 月 1 日到 8 日，一小部分 OneDrive 用户在关闭应用时会看到一个对话框，要求提供选择关闭该应用的原因。微软称，此类用户反馈有助于他们为改进产品质量而不懈努力。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首只胚胎干细胞系“嵌合猴”诞生]]></title>
-        <id>https://www.solidot.org/story?sid=76595</id>
-        <link href="https://www.solidot.org/story?sid=76595"/>
-        <updated>2023-11-10T13:44:46.000Z</updated>
-        <summary type="html"><![CDATA[中国研究人员首次公布了一只活产“嵌合猴”研究的具体细节。这只“嵌合猴”由同一种猴子的两个基因的不同胚胎细胞组成。据介绍，该技术此前已在大鼠和小鼠身上实现，但迄今为止还未在其他物种，包括非人类灵长类动物身上实现，此次成功当属首例。研究由中国科学院和华大基因研究所合作完成，相关论文刊登在《细胞》（Cell）杂志上。论文通讯作者、中国科学院脑科学与智能技术卓越创新中心（神经科学研究所）研究员刘真介绍：“我们在两年半前得到了这只活产的嵌合猴，这只嵌合猴在活产后存活了 10 天。在目前阶段，我们的成功率仍然有限，在 12 个胚胎当中，我们只得到了 2 只嵌合猴，不过猴子在自然状态下的生产成功率为 70%，体外受精的情况下为 40%，所以我想我们接近 20% 的成功率也不算太坏。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[路透调查披露 SpaceX 数百起未报告工伤]]></title>
-        <id>https://www.solidot.org/story?sid=76594</id>
-        <link href="https://www.solidot.org/story?sid=76594"/>
-        <updated>2023-11-10T13:37:30.000Z</updated>
-        <summary type="html"><![CDATA[路透调查披露了 SpaceX 至少有 600 起此前未报告的工伤事故，其中美国海军陆战队退役军人 Lonnie LeBlanc 因头部受伤死亡。美国职业安全与健康管理局的调查人员在调查之后要求改进安全，但马斯克（Elon Musk）的火箭公司此后仍然无视工人安全法规，自 LeBlanc 于 2014 年 6 月去世之后又发生了至少 600 起工人受伤事故，有很多人伤势严重。现任和前任员工表示，训练不足和过度疲劳的员工为满足马斯克紧迫的太空任务期限而跳过基本安全程序，工作场所因而混乱无序。十多名现任和前任员工表示，SpaceX 自创办以来采取的立场是员工要对保护自己负有责任。马斯克本人在参观 SpaceX 工厂时对安全问题也漫不经心：员工表示他有时会玩新火焰喷射器，不鼓励员工穿黄色安全服，因为他不喜欢明亮的颜色。宽松的安全文化部分源于马斯克对官僚主义的蔑视，部分源自 SpaceX 内部的信念，即它正领导一项紧急任务：在太空中为濒死的地球建立一个避难所。因投诉工作场所问题而被解雇的航空电子工程师 Tom Moline 表示，埃隆认为 SpaceX 的使命是尽快登陆火星以拯救人类，这一信念渗透到了公司各个部门。如果会妨碍这一目标的实现，公司会抛开一切，其中包括工人的安全。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[执行首次绕月任务的阿波罗 8 号指挥官 Frank Borman 去世]]></title>
-        <id>https://www.solidot.org/story?sid=76593</id>
-        <link href="https://www.solidot.org/story?sid=76593"/>
-        <updated>2023-11-10T12:41:23.000Z</updated>
-        <summary type="html"><![CDATA[执行首次绕月任务的阿波罗 8 号指挥官 Frank Borman 去世，享年 95 岁。他的家人表示死因是中风。Borman 从美国军事学院以优异成绩毕业后成为了美国喷气战斗机的试飞员，1962 年被选拔为 NASA 宇航员。他的首次太空任务是 1965 年的双子星 7 号，第 2 次太空任务是 1968 年 12 月作为指令长执行阿波罗 8 号。1968 年 12 月，阿波罗 8 号进入月球轨道，环绕月球 10 周。阿波罗 8 号的成功为阿波罗 11 号登月任务铺平了道路。在去世之前，他是美国最年长的前宇航员。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中山大学肿瘤实验室多人患癌]]></title>
-        <id>https://www.solidot.org/story?sid=76592</id>
-        <link href="https://www.solidot.org/story?sid=76592"/>
-        <updated>2023-11-10T12:18:01.000Z</updated>
-        <summary type="html"><![CDATA[在社交媒体上的传言愈演愈烈之际，中山大学孙逸仙纪念医院周三表示，该医院的两名外科医生分别于今年 6 月和 10 月被确诊患有癌症。两人之前都在该院的乳腺肿瘤中心实验室工作过。另外一名进修人员曾在该实验室工作，于去年 4 月结束进修，也于今年被诊断为癌症。该医院称，针对将患癌与实验室或者试剂接触进行关联的关切，鉴于个体癌症发生的诱因极其复杂，诚挚欢迎有关部门组织第三方机构进行评估调查。该院称，这两名外科医生分别姓黄和姓刘，他们在攻读医学学位期间曾在乳腺肿瘤中心实验室学习。黄被确诊出患胰腺癌，刘被确诊患滑膜肉瘤，这是一种发生在肌肉和韧带等软组织中的罕见癌症。两人均已接受手术，一人目前情况稳定，一人恢复良好。该院称另外一名进修人员在另外一家医院被诊断为乳腺癌，但未提供进一步细节。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赶上“双十一”，VideoProc Converter 五周年庆，支持 GPU 的视频格式转换与压缩工具，还能下载在线视频，限时免费中…]]></title>
-        <id>https://www.appinn.com/?p=46911</id>
-        <link href="https://www.appinn.com/videoproc-converter/"/>
-        <updated>2023-11-10T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[VideoProc Converter 是一款一站式视频处理工具，拥有下载网页视频、视频编辑/剪辑、视频压缩、视频格式转换、录屏、DVD 转录等功能，支持 Windows、macOS 系统，可处理高分]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家称太阳比以前认为的要略小]]></title>
-        <id>https://www.solidot.org/story?sid=76591</id>
-        <link href="https://www.solidot.org/story?sid=76591"/>
-        <updated>2023-11-10T09:53:15.000Z</updated>
-        <summary type="html"><![CDATA[英国和日本科学家对穿过太阳的声波开展的测量显示，太阳可能比人们以前认为的要小，这一发现或将改变人们对其内部结构和行为的理解。天文学家一般通过测量太阳的发光部分（光球）来估计其大小，这种测量一般在日食期间完成。而通过测量穿过太阳的声波，也可以估算其半径。1990 年代，天文学家利用太阳表面附近的声波（f波）估算了太阳的半径。利用太阳内部及其表面下等离子体循环的模型，研究人员发现利用f波方法测得的太阳半径略小于光球方法测得的半径，这表明人们对太阳内部的了解并不完整。在最新研究中，英国剑桥大学和日本东京大学研究人员使用p波计算了太阳的半径，这种声波由太阳内部物质的运动产生，很容易穿过其核心。这一方法测得的结果比光球方法小万分之几。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla 推出首个大模型 Fakespot Chat]]></title>
-        <id>https://www.solidot.org/story?sid=76590</id>
-        <link href="https://www.solidot.org/story?sid=76590"/>
-        <updated>2023-11-10T09:32:16.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla 今年初收购了一家利用 AI 和机器学习识别虚假商品评论的创业公司 Fakespot，现在它推出了自己的首个大模型 Fakespot Chat，帮助用户评估商品。用户向 Fakespot Chat 询问他们正在考虑的商品，AI 会利用机器学习根据商品评论进行排序，分辨真伪，回答用户的问题。Mozilla 称保存会话主要是为了改善体验，但用户无需注册或泄露个人信息。用户可通过安装扩展或黏贴商品网址的形式使用该工具。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员发现加拿大巴芬岛富集氦-3和氦-4]]></title>
-        <id>https://www.solidot.org/story?sid=76589</id>
-        <link href="https://www.solidot.org/story?sid=76589"/>
-        <updated>2023-11-10T07:55:41.000Z</updated>
-        <summary type="html"><![CDATA[科学家在位于加拿大巴芬岛的火山岩里检测到了“惊人数量”的稀有氦同位素氦-3，这一发现为“惰性气体正在从地核‘泄漏’”提供了有力证据。研究团队指出，在陆地上发现如此高含量的氦-3是一个重大发现。行星的组成反映了构成它的元素。2022 年发表在《美国地球物理联盟杂志》的一项研究就已指出，氦-3 从地核中“泄漏”支持了一种流行的理论，即我们的星球起源于太阳星云，其中就含有氦-3元素。根据研究团队的测量，每克橄榄石晶体中约有 1000 万个氦-3原子。氦-3 和氦-4的测量值比之前研究报告的要高得多，大约比地球大气中的比例高 50 倍。这表明它们可能是在太阳系形成过程中从太阳星云“继承”而来的气体，在地球上的保存状况比之前想象的要好，这对于了解地球的形成及其深层内部尤其重要。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tab Rotate – 定时、循环、切换、刷新 Chrome 多个标签页｜适合各类监控项目]]></title>
-        <id>https://www.appinn.com/?p=46726</id>
-        <link href="https://www.appinn.com/tab-rotate/"/>
-        <updated>2023-11-10T07:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Tab Rotate 是一个有点神奇的 Chrome 开源扩展，它能够帮你在指定的范围内，自动切换标签页，并且还可以根据时间来自动刷新。基于 JSON 配置，非常适合各种监控项目。@Appinn 有同]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[医生完成了首例脸部和眼睛移植]]></title>
-        <id>https://www.solidot.org/story?sid=76588</id>
-        <link href="https://www.solidot.org/story?sid=76588"/>
-        <updated>2023-11-10T07:06:17.000Z</updated>
-        <summary type="html"><![CDATA[医生本周宣布完成了首例部分脸部和一完整眼睛的移植手术。移植的眼睛还没有视力，可能永远也无法恢复，但眼睛本身是健康的。46 岁的患者 Aaron James 在 2021 年做电力线维护工作时脸部碰到了电线，脸部、左眼和左臂受到严重电灼伤，他的左眼后来因疼痛摘除。他于今年 5 月在纽约大学的 Langone Health 接受了手术。这一成就为因伤毁容或失明的患者带来了希望。但研究人员也警告，在视力能恢复前还有很多技术障碍需要克服。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻博客服务 Tumblr 可能接近生命终点]]></title>
-        <id>https://www.solidot.org/story?sid=76587</id>
-        <link href="https://www.solidot.org/story?sid=76587"/>
-        <updated>2023-11-10T06:24:08.000Z</updated>
-        <summary type="html"><![CDATA[轻博客服务 Tumblr 母公司 Automattic 向员工发送了一封备忘录，事实上宣布 Tumblr 进入了维护模式。Automattic 称，Tumblr 产品和营销团队的 139 名员工中的绝大多数将被分配到其它部门，客户支持和服务以及信任和安全部门的员工将继续原来的工作。Tumblr 成立于 2007 年，2013 年被雅虎以 11 亿美元收购，2019 年被 Automattic 以仅仅 300 万美元收购。Automattic 称它在过去几年投入了 600+ 人年，希望  Tumblr 能重现辉煌，但未能如愿。它在备忘录中表示不会解雇任何员工，员工可以在其他部门就职，每个人都可以列出他们最想做的三项工作。Tumblr 曾以大量成人内容闻名，但 2018 年 12 月它宣布了禁止成人内容，很多人认为从这个时候起，它的死亡将是不可避免的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve 推出 Steam Deck OLED 掌机]]></title>
-        <id>https://www.solidot.org/story?sid=76586</id>
-        <link href="https://www.solidot.org/story?sid=76586"/>
-        <updated>2023-11-10T05:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Valve 宣布了配备 OLED 显示屏的 Steam Deck 掌机，AMD APU 规格一致，工艺制程从 7 纳米升级到 6 纳米， 存储容量、电池和散热和 WiFi 6E 都有升级。旧版采用 LCD 显示屏的掌机被称为 Steam Deck LCD，其中 64GB 和 512GB 版本将在库存售罄之后停售。Steam Deck OLED 有两个版本：512GB 版售价 549 美元，1TB 版售价 649 美元，显示屏还加入了高级防眩光蚀刻玻璃，屏幕大小为 7.4 英寸。256GB 版的 Steam Deck LCD 降价为 319 美元。OLED 版将从 11 月 16 日发售，Valve 表示如果特定型号的产品库存售完，将会切换至预订队列系统，顾客将按排队顺序收到购买邀请。日本、韩国、台湾、香港的客户可通过 Komodo 网站购买。Valve 设计师 Lawrence Yang 和 Pierre-Loup Griffais 透露，Steam Deck 掌机至今售出了数百万台。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃兹遭遇轻度中风]]></title>
-        <id>https://www.solidot.org/story?sid=76585</id>
-        <link href="https://www.solidot.org/story?sid=76585"/>
-        <updated>2023-11-10T04:21:29.000Z</updated>
-        <summary type="html"><![CDATA[苹果联合创始人沃兹（Steve Wozniak）遭遇轻度中风，他正从墨西哥返回美国。沃兹是在参加世界商业论坛期间出现眩晕症状后送往当地医院，MRI 扫描确认了中风。沃兹与乔布斯在 1976 年联合创办了苹果公司，发明了第一台苹果电脑，他很早就离开了公司，而苹果如今已经成为全世界市值最高的公司。沃兹在很多公共议题上非常活跃，他呼吁加强对 AI 的监管，但同时对监管是否有效表示怀疑。他说，追逐金钱的一方通常会获胜，这一点颇令人伤感。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果高管称 MacBook Pro 上 的 8GB 内存相当于 PC 的 16 GB 内存]]></title>
-        <id>https://www.solidot.org/story?sid=76584</id>
-        <link href="https://www.solidot.org/story?sid=76584"/>
-        <updated>2023-11-09T14:33:03.000Z</updated>
-        <summary type="html"><![CDATA[苹果 MacBook Pro 笔电标准型号过去十年配备的内存一直是 8GB，2023 年售价 1599 美元的型号仍然是 8GB。相比之下，Windows PC 笔电标准型号基本上都是 16GB 或 32GB。8GB 内存是不是太少了，而且它还在 CPU、GPU 和神经网络引擎之间共享？苹果全球产品营销副总裁 Bob Borchers 接受机器学习工程师 Lin YilYi 采访时称，苹果 M 系列芯片和软件栈的内存效率非常高，MacBook Pro 上 的 8GB 内存相当于 PC 的 16 GB 内存。Borchers 表示，苹果对内存的使用非常有效，使用了内存压缩，采用统一内存架构。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
