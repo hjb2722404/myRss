@@ -2,10 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-11-20T02:26:06.433Z</updated>
+    <updated>2023-11-21T02:28:08.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软周二补丁日实施二十周年]]></title>
+        <id>https://www.solidot.org/story?sid=76671</id>
+        <link href="https://www.solidot.org/story?sid=76671"/>
+        <updated>2023-11-20T13:03:16.000Z</updated>
+        <summary type="html"><![CDATA[微软安全响应中心上周庆祝了周二补丁日实施二十周年。所谓周二补丁日是指在每个月的第二个星期二推送安全补丁。在统一采用周二补丁日前，安全补丁的发布是零零散散的，这种零散的模式给 IT 工作者和组织部署重要补丁带来了挑战。微软率先提出的可预测的补丁发布时间表改变了这一状况。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 用户访问 YouTube 时人为加入了 5 秒加载延迟]]></title>
+        <id>https://www.solidot.org/story?sid=76670</id>
+        <link href="https://www.solidot.org/story?sid=76670"/>
+        <updated>2023-11-20T12:14:08.000Z</updated>
+        <summary type="html"><![CDATA[一位 Mozilla Firefox 用户在 Reddit 论坛上报告了一个异常情况：在新标签页打开一个 YouTube 视频时不知为何加载超级慢。其他 Firefox 用户很快发现 YouTube 的 polymer 脚本中有一行人为引入 5 秒加载延迟的代码：“setTimeout(function(){c();a.resolve(1)},5E3);”，根据上下文，该代码被认为是 YouTube 最近采取的反广告屏蔽扩展的功能的一部分。使用流行广告屏蔽扩展 UBO 的用户可以在过滤器中加入“www.youtube.com##+js(nano-stb, resolve(1), *, 0.001)”来绕过这段恼人的加载延迟。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Black Friday Sale]]></title>
+        <id>https://catonmat.net/early-black-friday-sale</id>
+        <link href="https://catonmat.net/early-black-friday-sale"/>
+        <updated>2023-11-20T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[At Browserling and Online Tools, we love sales.
+We just created a new automated Early Black Friday sales campaign.
+Now each year, on the Black Friday week, we show a 50% discount offer to all users who visit our site.
+Run automated sales too and see you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[肥胖者晚上消耗更多能量]]></title>
+        <id>https://www.solidot.org/story?sid=76669</id>
+        <link href="https://www.solidot.org/story?sid=76669"/>
+        <updated>2023-11-20T10:23:11.000Z</updated>
+        <summary type="html"><![CDATA[一项研究发现，体重健康的人在白天消耗更多能量，此时大多数人都在活动和吃饭。而肥胖的人在晚上消耗更多能量，此时大多数人都在睡觉。研究还发现，在白天，肥胖者的胰岛素激素水平更高，这表明身体在更努力地使用葡萄糖，即一种富含能量的糖。研究作者表示不确定哪个是因哪个是果。共有 30 人自愿参与这项研究，参与者在一个专门设计的昼夜节律研究实验室呆了 6 天。这项研究遵循了一项严格的昼夜节律研究方案，其中包括一个时间表，旨在让参与者在每天的不同时间保持清醒和睡眠。每睡一段时间后，志愿者都会被唤醒进食，并在每天剩下的时间里参加各种测试。一项测试让参与者戴着口罩锻炼，口罩与一种名为间接量热计的机器相连，该机器可以测量呼出的二氧化碳，并有助于估计能源使用量。同时还收集参与者的血液样本，以测量每天进食相同食物后的血糖水平。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 在 AI 生成音乐中嵌入了听不见的水印]]></title>
+        <id>https://www.solidot.org/story?sid=76668</id>
+        <link href="https://www.solidot.org/story?sid=76668"/>
+        <updated>2023-11-20T09:43:19.000Z</updated>
+        <summary type="html"><![CDATA[Google DeepMind 最近发布的 AI 音乐生成模型 Lyria 会使用 SynthID 在生成的音乐中嵌入人耳听不见的水印。此举便于跟踪 AI 音乐的来源。DeepMind 称，人耳应该听不到，也不会影响聆听体验。即使音轨压缩、加速或减速，或者加入噪音，水印仍然能检测出来。DeepMind 称，SynthID 的工作原理是通过将音频波转变为显示声音频谱如何随时间演变的二维可视化。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sam Altman 和 Greg Brockman加入微软领导其 AI 研究团队]]></title>
+        <id>https://www.solidot.org/story?sid=76667</id>
+        <link href="https://www.solidot.org/story?sid=76667"/>
+        <updated>2023-11-20T09:19:42.000Z</updated>
+        <summary type="html"><![CDATA[在董事会上周五解雇 CEO Sam Altman 以及重返公司的谈判失败之后，微软 CEO 纳德拉（Satya Nadella)宣布 Sam Altman 以及 OpenAI 联合创始人 Greg Brockman 及其同事加入微软领导它的一个先进 AI 研究团队。纳德拉同时表示继续与 OpenAI 保持合作关系。微软对 OpenAI 投资了数十亿美元，投资额可能达到百亿美元。作为合作关系的一部分，微软是 OpenAI 的独家云合作伙伴，其云服务为所有 OpenAI 工作负载提供支持。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenTrace – 开源跨、平台，基于 NextTrace，可视化路由跟踪工具，在地图上追踪并显示 IP 地址]]></title>
+        <id>https://www.appinn.com/?p=46988</id>
+        <link href="https://www.appinn.com/opentrace/"/>
+        <updated>2023-11-20T08:41:55.000Z</updated>
+        <summary type="html"><![CDATA[OpenTrace 是一款开源跨、平台的图形界面工具，支持 Windows、macOS、Linux，基于命令行工具 NextTrace 开发。主要用来追踪路由，并且可以在地图上追踪并显示 IP 地址。]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学家发现第九个 Dedekind 数]]></title>
+        <id>https://www.solidot.org/story?sid=76666</id>
+        <link href="https://www.solidot.org/story?sid=76666"/>
+        <updated>2023-11-20T07:50:25.000Z</updated>
+        <summary type="html"><![CDATA[在历尽逾三十年的搜索之后，在超级计算机的帮助下，数学家发现了第九个 Dedekind 数。Dedekind 数由德国数学家 Richard Dedekind 在 1897 年定义，其核心是布尔函数（即其值为 false 或 true），它是将 n 个布尔变量作为输入，生成另一个布尔变量作为输出的函数。前六个 Dedekind 数都非常简单，D(1)是 2，之后是 3、6、20、168、7581，后面的数愈来愈大。1991 年当时最强大超算之一的 Cray-2 花了 200 小时计算出 D(8)，32 年后德国帕德博恩大学的数学家使用 Noctua 2 超算和现场可编程门阵列(FPGA)计算出 D(9)为 286 386 577 668 298 411 128 469 151 667 598 498 812 366，这是一个 42 位的数。D(10)无疑也要花费很长时间才可能发现。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源视频转码器 HandBrake 1.7.0 发布]]></title>
+        <id>https://www.appinn.com/?p=46984</id>
+        <link href="https://www.appinn.com/handbrake-1-7-0/"/>
+        <updated>2023-11-20T07:33:51.000Z</updated>
+        <summary type="html"><![CDATA[开源视频转码器 HandBrake 1.7.0 版本发布，新增 Apple VideoToolbox 硬件预设、更新创作者（Creator）预设、更新社交（Social）预设（适合段视频和游戏录屏），]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[央行数字货币有望取代现金]]></title>
+        <id>https://www.solidot.org/story?sid=76665</id>
+        <link href="https://www.solidot.org/story?sid=76665"/>
+        <updated>2023-11-20T06:51:24.000Z</updated>
+        <summary type="html"><![CDATA[国际货币基金组织(IMF)董董事总经理 Kristalina Georgieva 表示，央行数字货币（CBDC）有取代现金的潜力，但还需要时间去普及。它发布了一份 CBDC 参考指南。IMF 称，逾一百个国家在探索 CBDC。多家央行已经启动了试点，或者推出了 CBDC。国际清算银行 2022 年的一项调查显示，在接受调查的 86 家央行中，93% 表示在探索 CBDC，58% 表示可能或可能在短期或中期发行零售 CBDC 。但大西洋理事会的数据显示，截至今年 6 月，只有 11 个国家采用 CBDC，53 个国家处于前期规划阶段，46 个国家还在研究。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[河南联通被曝故意停掉用户宽带账号以更换光猫]]></title>
+        <id>https://www.solidot.org/story?sid=76664</id>
+        <link href="https://www.solidot.org/story?sid=76664"/>
+        <updated>2023-11-20T05:43:34.000Z</updated>
+        <summary type="html"><![CDATA[河南周口联通被曝为了强迫用户更换光猫，公司在后台停掉用户的宽带账号，导致用户无法上网，然后让工程师上门“维修”，谎称光猫损坏，需要花 299 元换新。更换完后，联通再在后台恢复用户的网络。联通公司不仅对老用户进行这种强制更换光猫的行为，还会在给新用户装机的时候，故意使用破旧光猫，也就是之前强迫用户换新留下的，而在过一段时间之后，又会告诉用户使用的是旧光猫无法匹配，必须换新。联通公司还会故意关掉用户的短信服务，在后台增加增值业务，之后再把短信功能打开，以此牟利。周口联通回应称，全力配合省公司调查组进行调查核实。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emmett Shear 担任 OpenAI 临时 CEO]]></title>
+        <id>https://www.solidot.org/story?sid=76663</id>
+        <link href="https://www.solidot.org/story?sid=76663"/>
+        <updated>2023-11-20T05:36:18.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 董事会上周五出人意料的解雇了 CEO Sam Altman，此后 OpenAI 的高管和投资者采取行动想让 Sam Altman 恢复原职。据彭博社援引未具名知情人士的消息称，在解雇事件之后部分投资者考虑将所持 OpenAI 股份价值减记为零，这将危及 OpenAI 未来的融资。微软 CEO 纳德拉（Satya Nadella)也对 OpenAI 董事会的决定非常恼火。周六晚上，包括临时 CEO Mira Murati 在内的多位 OpenAI 高管和数十名员工在 Twitter 上发表心形表情符号，表达对 Altman 的支持。但周日晚上，联合创始人兼董事长 Ilya Sutskever 通知员工，董事会与 Altman 的谈判破裂，他不会再次担任 CEO，Twitch 联合创始人 Emmett Shear 将担任临时 CEO。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[剪映APP的视频特效如何在Web中JS实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/?p=11051</id>
@@ -854,26 +977,6 @@ Google 希望获得赔偿，并禁止被告使用其产品或服务。]]></summa
         <link href="https://www.solidot.org/story?sid=76598"/>
         <updated>2023-11-11T15:51:04.000Z</updated>
         <summary type="html"><![CDATA[李开复在彭博新经济论坛期间接受采访时表示，他的 AI 创业公司零一万物（01.AI）囤积了可满足 12-18 个月需求的英伟达 AI 芯片。但一年半之后呢？李开复表示，就看中国能否在一年半制造出同等性能或接近的 AI 芯片。他表示中美科技之争将进一步分裂科技世界，“我们将有两个平行宇宙，美国公司将向美国及其盟友提供技术和产品，中国公司将为中国及使用中国产品的国家提供服务。他们将不会在同一个市场展开激烈竞争。”李开复表示，零一万物今年的收入接近为零，但明年将会相当可观。他称构建 AI 模型十分昂贵，必须购买芯片才能改进技术，在 GPU 芯片上的投资与性能直接相关。这将是没有止境的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软视窗操作系统诞生四十周年]]></title>
-        <id>https://www.solidot.org/story?sid=76597</id>
-        <link href="https://www.solidot.org/story?sid=76597"/>
-        <updated>2023-11-11T13:16:44.000Z</updated>
-        <summary type="html"><![CDATA[微软联合创始人比尔盖茨在 COMDEX 1982 上观摩了 VisiCorp 的 GUI 软件套装 Visi On 的演示以及了解了苹果的 GUI 软件之后，微软开始着手开发它的图形用户界面操作系统。盖茨招募了施乐 PARC 原视窗系统的核心开发者 Scott A. McGregor 担任 Windows 1.0 的开发负责人。1983 年 11 月 10 日微软在纽约举行新闻发布会宣布了 Windows 1.0。微软希望在 1984 年 4 月推出，但因为内存管理等方面的 bug 需要解决，Windows 1.0 直到 1985 年 11 月 20 日才正式发布。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软撤回了 OneDrive 的退出调查]]></title>
-        <id>https://www.solidot.org/story?sid=76596</id>
-        <link href="https://www.solidot.org/story?sid=76596"/>
-        <updated>2023-11-11T12:51:25.000Z</updated>
-        <summary type="html"><![CDATA[微软正通过愈来愈恼人的方法向用户强推它的产品，最新的尝试是云储存和同步应用 OneDrive，如果用户想要退出 OneDrive，微软会要求你解释，而且解释是强制性的，你不选择的话退出按钮将一直保持灰色，用户无法关闭应用。在媒体曝光之后，微软告诉媒体这是一项测试，仅向少数用户推出，目前已经恢复正常。软件巨人在声明中称，从 11 月 1 日到 8 日，一小部分 OneDrive 用户在关闭应用时会看到一个对话框，要求提供选择关闭该应用的原因。微软称，此类用户反馈有助于他们为改进产品质量而不懈努力。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
