@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47013",
+          "author": "青小蛙",
+          "description": "飞傲音乐是一款为手机解码耳放设计的更贴合发烧友使用习惯的本地播放器，支持 iOS、Android。@Appinn 来自发现频道，@feeshy 同学推荐：https://meta.appinn.net",
+          "link": "https://www.appinn.com/feiao-music/",
+          "publishedOn": "2023-11-24T04:36:35.000Z",
+          "wordCount": 2536,
+          "title": "飞傲音乐，十余年经验积累的本地音乐播放器[iOS/Android]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/11/Appinn-feature-images-2023-11-24T122607.696.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=46998",
           "author": "青小蛙",
           "description": "这几天论坛的 @ONEMi 同学在问题求助频道发了一个有趣的帖子：有什么比较低成本的NAS？ 问题 @ONEMi 同学是这样说的： 除去硬盘的开销，内网穿透，相对易用或者折腾好了可以很易用，最重要的是",
@@ -110,16 +120,6 @@
           "wordCount": 2648,
           "title": "PotPlayer 直接播放网盘视频：连接 Alist，接入阿里云盘、百度/夸克网盘等",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/11/Appinn-feature-images-2023-11-16T133026.401.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=46948",
-          "author": "青小蛙",
-          "description": "Water / 水 是一款适合于 iPhone、Apple Watch 的喝水记录、跟踪和分析应用，它能提醒你喝水，统计每日喝水量，设计优美，使用简单。目前内购一次性买断限免中。@Appinn 说实话",
-          "link": "https://www.appinn.com/water-tracker-reminder/",
-          "publishedOn": "2023-11-15T06:40:52.000Z",
-          "wordCount": 2604,
-          "title": "Water / 水 – 记录、追踪、统计喝水量，一次性买断的内购限免[iPhone/Apple Watch]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/11/Appinn-feature-images-2023-11-15T124354.595.jpg"
         }
       ]
     },
@@ -170,16 +170,6 @@
           "wordCount": 1229,
           "title": "剪映APP的视频特效如何在Web中JS实现",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11043",
-          "author": "张 鑫旭",
-          "description": "应该是国内第一篇专门介绍用mp4box.js和VideoDecoder方法解码MP4视频序列帧的文章了。",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/11/mp4box-js-webcodecs-mp4-canvas/",
-          "publishedOn": "2023-11-14T16:37:18.000Z",
-          "wordCount": 1216,
-          "title": "mp4box.js加WebCodecs 解码MP4视频帧并渲染",
-          "imageUrl": null
         }
       ]
     },
@@ -188,6 +178,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76714",
+          "author": null,
+          "description": "图像编辑自由软件项目 GIMP 宣布备受期待的 GIMP 3.0 计划在 2024 年 5 月发布。开发者今年初的计划是 2023 年内释出的。GIMP 项目主开发和维护者 Jehan Pages 在 Patreon 上宣布了这一消息，功能冻结定在 12 月中旬，之后用约 5 个月时间修 bug。 GIMP 3.0 主要变化包括非破坏性编辑的基本实现，新的 API，等等。",
+          "link": "https://www.solidot.org/story?sid=76714",
+          "publishedOn": "2023-11-24T10:42:38.000Z",
+          "wordCount": 206,
+          "title": "GIMP 3.0 计划在 2024 年 5 月发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76713",
+          "author": null,
+          "description": "英伟达通知中国客户，将推迟到明年一季度发布中国特供版 AI 芯片。英伟达将特供三款 AI 芯片 HGX H20、L20 PCle 和 L2 PCle，它们全都由 H100 改良而来，推迟发布的是其中最强大的 H20，有可能延迟到明年 2 月或 3 月。知情人士称，推迟的原因被告知是服务器制造商在集成芯片上遇到问题。另外两款中 L20 不会延期， L2 情况未知。",
+          "link": "https://www.solidot.org/story?sid=76713",
+          "publishedOn": "2023-11-24T08:34:42.000Z",
+          "wordCount": 185,
+          "title": "英伟达推迟发布中国特供版 AI 芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76712",
+          "author": null,
+          "description": "根据“世界高层建筑与都市人居学会（CTBUH）”的数据库，位居前 50 的超高层大楼中，中国大陆及香港最多，拥有 25 座，远多于美国的 8 座和阿联酋的 4 座。在过去的排名中，2000 年时美国以 26 座居首位，中国以 9 座紧随其后，但 2010 年中国以 15 座逆转超过了美国的 14 座。中国的超高层建筑超过 100 座，其中近 6 成在 2010 年代竣工。目前排全球第 3 高的上海中心（632米）于 2015 年竣工，2016 年的广州周大福金融中心（530米），2017 年的平安国际金融中心（599米），2019 年的天津周大福金融中心（530米）等。",
+          "link": "https://www.solidot.org/story?sid=76712",
+          "publishedOn": "2023-11-24T08:00:08.000Z",
+          "wordCount": 196,
+          "title": "前 50 摩天大楼一半在中国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76711",
+          "author": null,
+          "description": "用于储存可更新能源电力的电池足够便宜到让全世界数十个燃气电厂项目被放弃。美国和欧洲的燃气电厂主要用于弥补风力发电和太阳能发电的间断性。1990 年代初，燃气电厂以基本负荷运行，如今运行时间减少到了 40%，未来 8-10 年将进一步减少到 11%-15%。今年上半年全世界搁置或取消了 68 个燃气电厂项目。从 2016 年到 2022 年，锂离子电池成本减少一半以上至每千瓦时电池存储成本 151 美元。与此同时，可再生能源发电也达到创纪录水平。去年风能和太阳能发电占欧盟电力的 22%，差不大乎是 2016 年的两倍，首次超过然气发电份额。",
+          "link": "https://www.solidot.org/story?sid=76711",
+          "publishedOn": "2023-11-24T07:50:49.000Z",
+          "wordCount": 172,
+          "title": "燃气电厂正逐渐失去市场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76710",
+          "author": null,
+          "description": "科学家探测到逾三十年来能量最强的宇宙射线，研究报告发表在《科学》期刊上。其确切来源未知，部分科学家猜测可能是由未知物理现象产生的。至今探测到的最强宇宙射线是 1991 年发现的 Oh-My-God 粒子，其能量高达 320 EeV（1 EeV 等于 10^18 伏）。最新探测到的宇宙射线能量为 240 EeV，是日本大阪公立大学天文学家藤井俊博（Toshihiro Fujii）在 2021 年 5 月 27 日使用美国犹他州的宇宙射线探测器 Telescope Array 发现的。科学家以日本太阳女神的名字将该宇宙射线命名为“天照大神（Amaterasu）”。藤井的团队无法识别射线来源，他们的计算表明该射线来自于一个空旷的太空区域。",
+          "link": "https://www.solidot.org/story?sid=76710",
+          "publishedOn": "2023-11-24T06:24:53.000Z",
+          "wordCount": 179,
+          "title": "科学家探测到逾三十年以来最强宇宙射线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76709",
+          "author": null,
+          "description": "10 月 31 日主要社交网站如微博、知乎、B 站、抖音和小红书都宣布了前台实名制，其中微博现阶段针对的是 100 万粉丝以上的“自媒体”账号，未来将逐步扩大到 50 万粉丝以上的“自媒体”账号。微博 CEO 王高飞/来去之间已提前在前台公布了自己的名字。对于前台实名要求，部分微博大 V 选择了离开，还有部分大 V 采取了清粉或叫清除僵尸粉的方法，将粉丝数降低到阈值以内。有 200 万粉丝的书评博主兔庖丁此前宣布将退出微博，但后来仍然活跃在微博上，她的粉丝数已经降至了 20 多万，目前无需实名。",
+          "link": "https://www.solidot.org/story?sid=76709",
+          "publishedOn": "2023-11-24T05:44:06.000Z",
+          "wordCount": 182,
+          "title": "微博大 V 用清粉应对前台实名制要求",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76708",
+          "author": null,
+          "description": "本月早些时候，微软释出了 Windows 11 的一个预览版本，为了遵守欧洲经济区的监管规定，它现在允许该区域的用户卸载 Edge 和移除 Bing。不幸的是，其它区域的用户享受不到这一变化。但用户现在找到了一个“简单”的方法，允许生活在不被支持区域的用户也能卸载 Edge，整个过程共有十几步，其中包括下载开源应用 ViVeTool、修改注册表和多次重启电脑，等等。整体来说还是比较简单。",
+          "link": "https://www.solidot.org/story?sid=76708",
+          "publishedOn": "2023-11-24T05:06:14.000Z",
+          "wordCount": 177,
+          "title": "如何在 Windows 上卸载 Edge",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76707",
+          "author": null,
+          "description": "在 AI 聊天机器人的帮助下，生成支持未经验证的科学假设的虚假数据集比以往任何时候都容易。AI 生成足以以假乱真数据集的能力增加了研究人员和期刊编辑对科研诚信的担忧。在发表在《JAMA Ophthalmology》期刊上的论文中，研究人员利用了 GPT-4 和 Advanced Data Analysis (ADA)，生成了数据集去对比两种手术程序的结果，错误的表明一种手术优于另一种手术。论文合作者 Giuseppe Giannaccare 表示，他们的研究目的旨在突出你可以在几分钟内生成以假乱真的数据集。这种虚假数据集比虚假论文更难分辨。",
+          "link": "https://www.solidot.org/story?sid=76707",
+          "publishedOn": "2023-11-24T03:34:47.000Z",
+          "wordCount": 178,
+          "title": "科学家用 ChatGPT 生成支持科学假设的虚假数据集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76706",
+          "author": null,
+          "description": "世界卫生组织(WHO)在周三发表的一份声明中要求中国提供更多儿童肺炎发病情况的信息。最近几周，北京各公立医院和社区卫生服务中心里人满为患，随处可见家长们带着咳嗽不止的孩子前来看病。北京各学校中一些感染病例较多的班级已经停课。在 11 月 13 日举行的国家卫健委新闻发布会上，北京市呼吸疾病研究所所长童朝晖表示，近三年全球范围监测支原体感染均处在一个较低水平，每三至七年支原体感染会出现周期性的流行。国家卫健委在周四新华社发表的一篇采访中承认国内许多儿童医院最近挤满了病人，并称主管部门正采取措施改善就医条件。",
+          "link": "https://www.solidot.org/story?sid=76706",
+          "publishedOn": "2023-11-23T14:35:48.000Z",
+          "wordCount": 165,
+          "title": "WHO 对中国儿童肺炎激增表示关注",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76705",
+          "author": null,
+          "description": "根据发表在《Faseb》期刊上的一项研究，执行长期深空任务的男性宇航员可能会面临勃起障碍。自太空时代以来，科学家一直在探索失重和宇宙辐射对人类生理的影响。此类研究推动了预防措施的采用，如国际空间站（ISS）上的特殊锻炼制度就是为了以保护宇航员免受骨骼和肌肉的损耗。地球受地磁场和大气层的保护，免受宇宙辐射的影响，但月球、火星以及两者之间的深空都缺乏有效的保护屏障。国际空间站上的宇航员受屏障和地磁场的保护，但一周内接受到的辐射量相当于地面居民一年所经历的辐射量。在纽约 NASA 太空辐射实验室内，研究人员将小鼠作为实验目标，将数十只小鼠暴露在模拟银河宇宙辐射的环境中。一年后对其组织的分析显示，宇宙辐射会增加动物的氧化应激，损害了向阴茎和勃起组织供血的动脉功能。对未来的火星探险者来说，好消息是这种影响不是不可逆的，用特定抗氧化剂治疗可以改善勃起功能。",
+          "link": "https://www.solidot.org/story?sid=76705",
+          "publishedOn": "2023-11-23T14:25:33.000Z",
+          "wordCount": 162,
+          "title": "研究发现宇航员可能面临勃起障碍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76704",
+          "author": null,
+          "description": "DeepMind 新 AI Student of Games 能在需要不同策略的游戏中击败人类玩家。该公司表示，这是朝着能够以超人的表现执行任何任务的通用人工智能迈出的一步。Student of Games 源于能在扑克比赛中击败人类职业选手的 DeepStack 和在围棋等比赛中击败最优秀人类棋手的 AlphaZero。这两种模型的不同之处在于，一种专注于不完美的知识游戏——玩家不知道其他玩家的状态，比如扑克游戏中的手牌；另一种专注于完美的知识游戏，比如国际象棋，双方玩家在任何时候都能看到所有棋子的位置。这两者需要根本不同的方法。",
+          "link": "https://www.solidot.org/story?sid=76704",
+          "publishedOn": "2023-11-23T13:27:45.000Z",
+          "wordCount": 197,
+          "title": "DeepMind 新 AI 模型 Student of Games 能在多种游戏中击败人类",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76703",
+          "author": null,
+          "description": "赵长鹏多年来一直告诉自己的员工，他永远不会去自首。然而本周二，他出现在西雅图一家联邦法院，承认自己违反了美国的洗钱规定。几个小时前，赵长鹏和他创办的币安同意认罪，以就美国司法部的一项刑事调查和解，作为认罪协议的一部分，币安将支付 43 亿美元的罚款，赵长鹏则辞去首席执行官一职。他将面临长达 18 个月的监禁。双方达成的协议允许币安继续运营。现年 46 岁的赵长鹏将退居幕后，但保留所有权。该协议规定的内部监控可能会限制甚至扼杀币安的业务，但同时也可能让币安的客户放心，监管麻烦已经过去。币安有能力承受如此巨额的罚款，这反映出该公司已经积累了雄厚的资金。公司内部人士称，该公司已为和解预留了 80 亿美元。赵长鹏以 1.75 亿美元保释金获得保释。量刑宣判时间目前定在明年 2 月。",
+          "link": "https://www.solidot.org/story?sid=76703",
+          "publishedOn": "2023-11-23T12:47:00.000Z",
+          "wordCount": 168,
+          "title": "赵长鹏前往美国法庭自首",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76702",
           "author": null,
@@ -927,126 +1037,6 @@
           "wordCount": 208,
           "title": "DeepL 在 AI 翻译领域占优",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76628",
-          "author": null,
-          "description": "Google DeepMind 研究人员在《科学》期刊上发表研究论文，报告他们的 AI 气象模型 GraphCast 在预测未来十天的天气上显著优于传统预测方法。这一成就意味着未来的天气预测将会更精确。欧洲中期天气预报中心 (ECMWF) 运营着最先进的传统天气预测系统，在 1380 个指标中 GraphCast 在九成的指标上优于 ECMWF 的系统。它的预测速度也非常快，可以在一分钟内以 0.25°的分辨率预测未来十天的数百个天气变量。GraphCast 利用了被称为“图神经网络（graph neural network）”的机器学习架构，使用超过四十年的 ECMWF 历史天气数据进行训练。GraphCast 使用当前和 6 小时前的全球大气状态，用 Google TPU v4 云计算运行一分钟就能生成未来十天的天气预测。相比下，传统的数值天气预报方法需要超级计算机，耗费的时间也更长。",
-          "link": "https://www.solidot.org/story?sid=76628",
-          "publishedOn": "2023-11-15T14:06:24.000Z",
-          "wordCount": 188,
-          "title": "AI 在天气预报上首次超越传统预测方法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76627",
-          "author": null,
-          "description": "英特尔周二推送了微码更新，修复高危 CPU 漏洞 Reptar（CVE-2023-23583）。该漏洞影响几乎所有现代英特尔处理器，可被用于攻击云端主机。Reptar 与 CPU 管理前缀有关，Intel x64 解码通常允许忽略冗余前缀而不会有任何后果，但 Google 安全研究员 Tavis Ormandy 在测试时发现，在支持“快速短重复移动（fast short repeat move）”的英特尔处理器上运行 REX 前缀会产生“意料之外的结果”。一旦触发，可能导致虚拟机中的  guest 账号执行不信任代码而导致系统崩溃，或者可用于提权。",
-          "link": "https://www.solidot.org/story?sid=76627",
-          "publishedOn": "2023-11-15T10:38:09.000Z",
-          "wordCount": 190,
-          "title": "英特尔修复高危 CPU 漏洞 Reptar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76626",
-          "author": null,
-          "description": "限制热量摄入或禁食通常对健康有积极影响。然而研究人员发现禁食在老年动物身上产生的效果与在年轻动物不同。研究人员研究了年龄相关的禁食对鳉鱼的影响。鳉鱼是一种快速衰老的鱼类，在短短几个月内就能从幼鱼变老。他们发现，老鱼的内脏脂肪组织对喂食的反应减弱。当研究人员更仔细地观察老鱼的脂肪组织与幼鱼的脂肪组织有何不同时，他们发现了一种叫做 AMP 激酶的特殊蛋白质。这种激酶是一种细胞能量传感器，由不同的亚基组成，其中γ - 1亚基的活性随着年龄的增长而降低。当科学家通过基因改造增加这个亚基的活性时，这种类似禁食的状态被抵消了，老鱼更健康，甚至活得更久。γ - 1亚基与人类衰老之间也存在关联，但还需要更多研究。",
-          "link": "https://www.solidot.org/story?sid=76626",
-          "publishedOn": "2023-11-15T09:45:40.000Z",
-          "wordCount": 164,
-          "title": "禁食为何对年长动物效果不大？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76625",
-          "author": null,
-          "description": "发表在《Psychological Science》期刊上的一项研究发现，AI 生成的白人脸部图像更能愚弄人类自己。人类更可能认为 AI 生成的白人图像是真实人类的图像。这一结果并不适用于 AI 生成的有色人种图像。原因可能是用于生成 AI 脸部图像的算法主要是用白人图像训练的。研究小组警告，这可能意味着种族观念最终会与对“人类”的观念混淆，这也可能会延续社会偏见。",
-          "link": "https://www.solidot.org/story?sid=76625",
-          "publishedOn": "2023-11-15T09:37:40.000Z",
-          "wordCount": 174,
-          "title": "研究发现 AI 生成的白人脸部图像更容易愚弄人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76624",
-          "author": null,
-          "description": "2022 年 10 月 9 日，太空望远镜探测到了朝地球方向喷发的高能光子束流，一颗超新星在 19 亿光年外爆发。天文学家表示这是至今观测到的最明亮伽马射线爆事件。科学家现在报告，这起事件对地球上层大气层的电离粒子数量造成了可观测的影响。天文学家 Pietro Ubertini 表示，臭氧层被短暂遭到破坏，臭氧层枯竭只持续了数分钟就自我修复，问题并不严重。但如果超新星是在距离地球更近的地方爆发，那么其影响将是灾难性的。研究人员利用了一颗设计在地震时观测大气变化的卫星“中国地震电磁卫星”收集的数据观测电离层上层的信号。 他们发现，当伽马射线电离大气层上层的臭氧和氮分子时电场强度增加了 60 倍。电离后的臭氧分子无法吸收任何紫外线，地球会短暂暴露在更多太阳的有害辐射下。",
-          "link": "https://www.solidot.org/story?sid=76624",
-          "publishedOn": "2023-11-15T08:10:16.000Z",
-          "wordCount": 175,
-          "title": "2022 年超新星爆发短暂破坏了部分地球臭氧层",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76623",
-          "author": null,
-          "description": "美国地区法院法官 Yvonne Gonzalez Rogers 驳回了 Meta、字节跳动、Alphabet 和 Snap 等社交巨头等提出的动议。这些公司都面临数十起引诱儿童上瘾的指控，它们希望驳回诉讼，但法官裁决社交巨头们都须面临这些与儿童安全相关的诉讼。法官指出，宪法第一修正案以及法典第 47 章 230 节关于在线平台不应被视为第三方内容发布者的规定，并不能免除 Facebook、Instagram、YouTube、TikTok 和 Snapchat 的责任。法官称，原告的许多主张并不构成“言论自由或表达自由”，而是与社交平台的“缺陷”有关，包括缺乏家长控制和强有力的年龄验证系统，以及难以删除帐户。",
-          "link": "https://www.solidot.org/story?sid=76623",
-          "publishedOn": "2023-11-15T07:07:21.000Z",
-          "wordCount": 173,
-          "title": "美国法官裁决社交平台须面临儿童安全诉讼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76622",
-          "author": null,
-          "description": "美国现在每三周就会经历一次极端天气事件，每次造成的损失和相关费用超过 10 亿美元。根据周二发布的美国国家气候评估最新一期报告，相比之下，经通胀因素调整后，1980 年代美国每四个月才会发生一次极端天气事件。这类事件每年给美国造成近 1500 亿美元的损失，对贫困和弱势社区的伤害尤甚。报告认为，除非美国加大对清洁能源的投资，并使城市适应气温升高和海平面不断上涨，否则气候变化带来的其他经济后果将愈演愈烈。\n美国西北部的滑雪度假区、中西部农业地带和东北部渔业区域所在地区的经济都面临着与气候相关的风险。由于温室气体排放量的增加，干旱、野火、飓风和洪水更加频繁，扰乱了美国的粮食和水供应以及生活方式。大约 40% 的美国人口居住在受海平面上升影响的沿海社区，上述评估显示，到本世纪末，可能会有数以百万计的房主流离失所。",
-          "link": "https://www.solidot.org/story?sid=76622",
-          "publishedOn": "2023-11-15T05:50:36.000Z",
-          "wordCount": 174,
-          "title": "报告称美国经济每年为气候变化付出了 1500 亿美元的代价",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76621",
-          "author": null,
-          "description": "印度首都新德里准备用人工降雨来对抗严重空气污染。人工降雨实验最早将在下周进行，印度将在多云的情况下撒播碘化银以过冷水滴凝固冰晶最后掉落成雨。印度希望降雨能带走笼罩在首都上空的细颗粒物。德里已尝试限制交通、使用空气过滤塔以及喷水车等方法，但都没有效果。环保人士和科学家担心，政府的应对措施主要集中在减轻污染，而不是试图切断污染源，都是治标不治本的。中国过去也尝试过利用类似的方法减轻污染。",
-          "link": "https://www.solidot.org/story?sid=76621",
-          "publishedOn": "2023-11-15T05:44:59.000Z",
-          "wordCount": 157,
-          "title": "印度计划用人工降雨对抗严重空气污染",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76620",
-          "author": null,
-          "description": "开源 3D 建模软件 Blender 释出了 4.0 版本。主要新特性包括：Cycles 支持光和影的耦合，支持光滑表面的路径引导，支持苹果 Metal API 的 MetalRT 硬件光线追踪，HIP 后端支持 AMD RDNA2 和 RDNA3 APU，默认 UI 字体 Inter，Linux 和 macOS 版最低要求 OpenGL 4.3，等等。更多可浏览发布公告。",
-          "link": "https://www.solidot.org/story?sid=76620",
-          "publishedOn": "2023-11-14T16:01:11.000Z",
-          "wordCount": 192,
-          "title": "Blender 4.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76619",
-          "author": null,
-          "description": "Tumblr 在 2018 年禁止成人内容之后被认为走向了死亡，上周一份泄露的内部备忘录披露它的母公司 Automattic 正将大部分员工转移到其它部门。公司 CEO Matt Mullenweg 随后在他的 Tumblr 主页公开了备忘录全文并回答用户提问。对这一消息，部分 Tumblr 核心用户反而认为是好事，因为这意味着网站不会添加不受欢迎的功能或不被用户接纳的 UI 变更。Mullenweg 还披露了用户数据：Tumblr 的月活用户有 1150 万，但付费用户仅仅只有 27,000 人，仅占活跃用户总数的 0.2%。Tumblr 的年订阅费用为 29.99 美元。Mullenweg 称如果有 10% 到 20% 的用户付费，那么 Tumblr 将能永远运营下去。然而一周过去了，没人再讨论此事，一切又恢复如常，Tumblr 还活着。",
-          "link": "https://www.solidot.org/story?sid=76619",
-          "publishedOn": "2023-11-14T15:38:03.000Z",
-          "wordCount": 194,
-          "title": "Tumblr 还活着",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76618",
-          "author": null,
-          "description": "Google 在加州起诉了两名越南男子 Nguyen Van Duc 和 Pham Van Thien，他们被控使用 65 个 Google 账号对多达 62 万个网址发送欺诈性的 DMCA 删除通知。Google 称他们将版权法中的 DMCA 通知武器化，旨在破坏竞争对手的生意。滥用 DMCA 通知并非新鲜事，因为此类行为通常不会有任何后果。Google 通过诉讼试图向恶意使用 DMCA 通知的人发出警告——“它受够了”。Google 称，被告系统性的滥用删除请求，旨在从搜索结果里删除竞争对手的网址。其中一位客户每年在 Google 搜索广告上投入了数千万美元，因为欺诈性的 DMCA 删除通知导致其在假日期间流量大幅下降，损失 500 万美元。Google 自己也损失了 200 万到 300 万美元。 \n\n\n\nGoogle 希望获得赔偿，并禁止被告使用其产品或服务。",
-          "link": "https://www.solidot.org/story?sid=76618",
-          "publishedOn": "2023-11-14T15:04:43.000Z",
-          "wordCount": 210,
-          "title": "Google 起诉两名滥用 DMCA 通知的越南男子",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76617",
-          "author": null,
-          "description": "SektorCERT 披露丹麦关键基础设施在今年五月遭遇了该国历史上最大规模的网络攻击。有 22 家公司遭到入侵，部分公司被迫切断与外界的网络接入断开所有非必要网络连接。攻击者利用了未修复的 Zyxel 防火墙漏洞，还利用了多个尚未公布的 0day 漏洞。SektorCERT 研究人员表示，攻击由多个组织发起，其中至少一个与俄罗斯情报机构的 Sandworm 行动相关。Zyxel 防火墙漏洞是在 4 月爆出的，允许远程攻击者无需身份验证完全控制防火墙，许多使用 Zyxel 的组织以为防火墙是由供应商更新的，但实际上 Zyxel 的软件是免费的，获得安全补丁则需要付费。还有很多组织根本不知道网络中存在有问题的设备。这种情况使得攻击者可以利用已公开的漏洞发动攻击。",
-          "link": "https://www.solidot.org/story?sid=76617",
-          "publishedOn": "2023-11-14T14:41:45.000Z",
-          "wordCount": 177,
-          "title": "丹麦关键基础设施在上半年遭遇网络攻击",
-          "imageUrl": null
         }
       ]
     },
@@ -1116,6 +1106,26 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/what-is-a-safe-browser",
+          "author": null,
+          "description": "TLDR: A demo speaks louder than a thousand words. You can connect to a safe browser created by me and my team via browserling.com/browse. We run safe browsers on our servers and stream just the browser window to you.\nSafe Browser – What Is It?\nA safe browser refers to a web browser (such as Chrome or Firefox) that operates in a controlled, isolated environment, preventing malware and other malicious scripts from affecting the user's main operating system. These browsers are essential in cybersecurity as they allow to safely examine and interact with potentially harmful content, such as suspicious links, websites, and files without risking the integrity of the primary system or network.\nWhat are a Safe Browser Use Cases?\nSafe browsers are utilized for a wide range of cybersecurity applicati…",
+          "link": "https://catonmat.net/what-is-a-safe-browser",
+          "publishedOn": "2023-11-24T16:40:00.000Z",
+          "wordCount": 684,
+          "title": "What is a Safe Browser?",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/black-friday-sale",
+          "author": null,
+          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated Black Friday sales campaign.\nNow every year on the Black Friday we show a 75% discount offer to all users who visit our site.\nRun automated sales too and see you next time!",
+          "link": "https://catonmat.net/black-friday-sale",
+          "publishedOn": "2023-11-24T12:13:00.000Z",
+          "wordCount": 176,
+          "title": "Black Friday Sale (75% OFF)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/online-tools-coupon-code-winter-2023",
           "author": null,
