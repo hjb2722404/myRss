@@ -2,10 +2,171 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-12-05T02:26:46.690Z</updated>
+    <updated>2023-12-06T02:25:51.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[随着 Firefox 份额越来越低网站兼容性问题将会愈发突出]]></title>
+        <id>https://www.solidot.org/story?sid=76808</id>
+        <link href="https://www.solidot.org/story?sid=76808"/>
+        <updated>2023-12-05T14:33:16.000Z</updated>
+        <summary type="html"><![CDATA[随着 Firefox 的市场份额越来越低，网站兼容性问题将会愈发突出。指导美国政府网站开发的 The U.S. Web Design System (USWDS) 声明支持根据 analytics.usa.gov 统计使用率超过 2% 的所有浏览器。过去 90 天，访问  analytics.usa.gov 的浏览器中 Chrome 占 49%，Safari 占 34.8%，Edge 8.5%，Firefox 只有 2.2 %。其中可能只有 Firefox 使用一个完全不同的渲染引擎。如果它的使用率低于 2% 的阈值，那么 USWDS 可以不再要求政府网站的开发者继续兼容 Firefox，这有可能在整个 Web 开发界产生涟漪效应，政府的决定会影响到无数企业，就像多米诺骨牌倒下一样，会有愈来愈多的网站不兼容 Firefox。Firefox 处于危机边缘。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 限制 ChatGPT 一直重复单词]]></title>
+        <id>https://www.solidot.org/story?sid=76807</id>
+        <link href="https://www.solidot.org/story?sid=76807"/>
+        <updated>2023-12-05T14:07:54.000Z</updated>
+        <summary type="html"><![CDATA[Google DeepMind 和华盛顿大学等机构的研究人员上月底发表了一篇论文，介绍了一种对 OpenAI ChatGPT 的攻击方法：他们让 ChatGPT 3.5-turbo 一直重复特定单词。AI 机器人会一遍遍返回同一个单词，直到达到某个限制，之后机器人开始返回从互联网上抓取的训练数据集，这些数据集会包含敏感的用户身份信息。这一攻击披露之后，OpenAI 限制了 ChatGPT 重复单词的次数。机器人在重复几十或几百次之后会停止输出相同单词，表示无法继续下去。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[惠普高管称锁定打印机客户带来了更多收入]]></title>
+        <id>https://www.solidot.org/story?sid=76806</id>
+        <link href="https://www.solidot.org/story?sid=76806"/>
+        <updated>2023-12-05T13:28:43.000Z</updated>
+        <summary type="html"><![CDATA[惠普通过打印机订阅服务将多年来无利可图的业务变得有利可图。惠普首席财务官 Marie Myers 在瑞银全球科技峰会上表示，通过锁定客户建立长期关系，客户的价值提升了二成。惠普的 Instant Ink 是一项订阅服务，在需要时向客户送去墨盒或硒鼓。该服务费用从每月 0.99 美元到 25.99 美元。2022 年 5 月的数据显示，惠普在全球有逾 1100 万 Instant Ink 订户，它的收入保持了两位数增长。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国 Sellafield 核设施曾遭黑客组织入侵]]></title>
+        <id>https://www.solidot.org/story?sid=76805</id>
+        <link href="https://www.solidot.org/story?sid=76805"/>
+        <updated>2023-12-05T13:07:35.000Z</updated>
+        <summary type="html"><![CDATA[卫报援引消息来源报道，英国 Sellafield 核设施曾遭与中俄有关联的黑客组织入侵。最早的入侵时间未知，英国当局是在 2015 年探测到 Sellafield 的计算机网络被植入了恶意程序。Sellafield 核设施主要进行核废料处理和储存，占地 6 平方公里，是欧洲最大的核设施，拥有全球最大的钚储存库，员工总数超过 1.1 万。报道称，Sellafield 最敏感的活动如转移放射性核废料、监测危险材料泄漏等可能已被黑客窃取。核设施不安全的服务器问题还被起了一个绰号叫伏地魔。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国政府官员警告英伟达不要设计中国特供版芯片]]></title>
+        <id>https://www.solidot.org/story?sid=76804</id>
+        <link href="https://www.solidot.org/story?sid=76804"/>
+        <updated>2023-12-05T09:56:26.000Z</updated>
+        <summary type="html"><![CDATA[加州 Simi Valley 举行的里根国防论坛上，美国商务部长 Gina Raimondo 对英伟达发出警告，督促该公司停止为中国设计绕过出口管控的 AI 芯片。她表示，美国公司需要适应国家安全的优先事项，包括对半导体的出口管控。相关企业高管肯定不乐意，但这就是生活，保护国家的安全比短期收入更重要。她点名了英伟达公司。美国在 2022 年对芯片出口实施第一轮管控措施之后，英伟达设计了中国特供版芯片，绕过了出口限制。Raimondo 表示如果英伟达继续这么做，那么商务部会迅速施加新的管控措施。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小日子日历 – 集日历、记事、打卡、纪念日的免费小工具[iPhone]]]></title>
+        <id>https://www.appinn.com/?p=47125</id>
+        <link href="https://www.appinn.com/easy-day-for-ios/"/>
+        <updated>2023-12-05T09:23:23.000Z</updated>
+        <summary type="html"><![CDATA[小日子 – 忙中有乐 是这款 iPhone 应用的全程，但叫小日子日历可能更顺嘴一些，它集成了日历、记事、打卡、纪念日几个小功能，免费无内购，简单有趣，还有很多猫。@Appinn 感谢 @]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23andMe 证实黑客窃取了 690 万用户的家族遗传史数据]]></title>
+        <id>https://www.solidot.org/story?sid=76803</id>
+        <link href="https://www.solidot.org/story?sid=76803"/>
+        <updated>2023-12-05T08:54:26.000Z</updated>
+        <summary type="html"><![CDATA[23andMe 证实黑客窃取了 690 万用户的家族遗传史数据。提供基因检测服务的 23andMe 是在 10 月初黑客在地下论坛兜售其客户数据之后证实遭到黑客入侵，当时表示攻击者利用的是撞库攻击，它的系统本身没有发现漏洞。23andMe 有约 1400 万客户，690 万意味着受影响用户规模接近半数。被盗取的数据包括了用户姓名、出生年份、关系标签、与亲属共享的 DNA 百分比、家族史报告和自我报告的位置。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 更新 bug 将所有人的打印机都重命名为 HP M101-M106]]></title>
+        <id>https://www.solidot.org/story?sid=76802</id>
+        <link href="https://www.solidot.org/story?sid=76802"/>
+        <updated>2023-12-05T07:48:26.000Z</updated>
+        <summary type="html"><![CDATA[几天前，Windows 用户报告系统上突然安装了惠普打印机软件，而他们的机器并没有连接任何惠普公司的设备。用户在尝试卸载或重装系统后惠普的软件还是会再次出现。现在问题的原因找到了：Windows 11 和 10 最近一次更新将所有人的打印机都重命名为 HP M101-M106，不管它是什么型号是哪个品牌。bug 被认为是惠普向 Windows Update 推送了最新的元数据后出现的，更新代码中的 bug 将所有打印机都标记为惠普的 LaserJet。这解释了为什么惠普的打印机软件 HP Smart 会突然出现在用户系统中。Windows Update 的一个关键功能是确保第三方驱动和设备为最新，其中包括下载设备所依赖的任何应用。微软已经删除了存在问题的元数据，HP Smart 不再安装到没有使用惠普打印机的系统中。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[声笔条反 – Poto 开发的声笔部首条件反射练习软件，科学、快速帮你掌握声笔部首键位]]></title>
+        <id>https://www.appinn.com/?p=47122</id>
+        <link href="https://www.appinn.com/singbitp-poto/"/>
+        <updated>2023-12-05T07:21:27.000Z</updated>
+        <summary type="html"><![CDATA[声笔条反是 Poto 开发的声笔部首条件反射练习软件 科学、快速帮你掌握声笔部首键位 条件反射是掌握打字方案键位的科学训练方式 记录是最快 20 分钟即可掌握声笔部首键位，从而开始声笔之路 声笔围绕字]]></summary>
+        <author>
+            <name>开发者推荐账号</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故意坠毁飞机的 YouTube 主播因妨碍调查被判 6 个月]]></title>
+        <id>https://www.solidot.org/story?sid=76801</id>
+        <link href="https://www.solidot.org/story?sid=76801"/>
+        <updated>2023-12-05T06:58:11.000Z</updated>
+        <summary type="html"><![CDATA[YouTube 主播 Trevor Jacob 因故意毁坏飞机残骸妨碍联邦调查而被判入狱 6 个月。2021 年 12 月 24 日 Jacob 上传了发生在 11 月 24 日的单引擎轻型飞机 Taylorcraft 坠毁视频。他声称驾驶飞机前往 Mammoth 
+去洒掉朋友的骨灰，但途中引擎熄火，他带着 Gopro 相机从飞机上跳下拍摄了整个飞机坠毁的戏剧性过程。此事引发了很多争议，飞机坠毁被认为是计划好的而不是意外。美国国家运输安全委员会和美国联邦航空管理局（FAA）随后宣布对此展开调查。2022 年 4 月 FAA 撤销了他的飞行执照。在认罪协议中，Jacob 承认他毁坏飞机残骸以阻碍调查，以及拍摄视频是为了牟利，承认向调查人员撒谎。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Django 5.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=76800</id>
+        <link href="https://www.solidot.org/story?sid=76800"/>
+        <updated>2023-12-05T06:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Python Web 框架 Django 释出了 v5.0。主要新特性包括：数据库计算默认值，数据库生成的模型字段  GeneratedField，声明字段选择选项 Field.choices 和 ChoiceField.choices，等等。随着 Django 5.0 的发布，Django 4.2 结束主流支持，最后一个版本是 v4.2.8，之后该版本将在 2026 年 4 月前一直提供安全和数据丢失修正，开发者鼓励用户升级到较新的版本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美日等国考虑通过增加核电应对气候变化]]></title>
+        <id>https://www.solidot.org/story?sid=76799</id>
+        <link href="https://www.solidot.org/story?sid=76799"/>
+        <updated>2023-12-05T05:29:49.000Z</updated>
+        <summary type="html"><![CDATA[美国和日本等约 20 个国家汇总了一份宣言，提出到 2050 年前把全球核电站发电能力提高 2 倍，将其作为气候变化对策的一部分，配合《联合国气候变化框架公约》第 28 次缔约方会议（COP28）首脑级会议提出。环保团体批评称“这是错误的对策”。宣言写道在气候变化对策中“核能将发挥重要作用”，提出为使发电能力到2050 年增至 2020 年的 3 倍，参加国将开展合作。除日美之外，加入的还有加拿大、法国、韩国、乌克兰、英国等。核电站在发电时不排放温室气体，但存在核事故风险等很多课题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《龙腾世纪4》将首次提供中文版]]></title>
+        <id>https://www.solidot.org/story?sid=76798</id>
+        <link href="https://www.solidot.org/story?sid=76798"/>
+        <updated>2023-12-05T03:38:11.000Z</updated>
+        <summary type="html"><![CDATA[在 Rockstar 放出万众瞩目的《侠盗猎车6》预告片的同一天，Bioware 则发布了预告片的预告，宣布将在 2024 年夏天全面揭晓《龙腾世纪: 恐惧之狼》，发售时间未披露，可能是在秋天或年底。《龙腾世纪》系列可能是高开低走，第一部《龙腾世纪：起源》被广泛视为史上最出色的角色扮演游戏之一，《龙腾世纪II》和《龙腾世纪：审判》都未达到第一部的高度。《恐惧之狼》将延续《审判》的故事，将登陆 Steam 平台，并首次提供简体和繁体中文版。《龙腾世纪》系列前三部没有官方中文版，但有汉化版，都是由志愿者组成的汉化组完成的，其中《审判》的汉化精翻尚未完成。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《侠盗猎车6》将在 2025 年发售]]></title>
+        <id>https://www.solidot.org/story?sid=76797</id>
+        <link href="https://www.solidot.org/story?sid=76797"/>
+        <updated>2023-12-05T02:54:24.000Z</updated>
+        <summary type="html"><![CDATA[Rockstar 发布了备受期待的《侠盗猎车》系列新作预告片，宣布游戏将于 2025 年发售，首发平台为 PS5 和 Xbox Series X|S，PC 版本预计将晚些时候发布。《侠盗猎车》系列是史上最畅销的游戏系列之一，总销量突破  4.1 亿份拷贝，前一代 《侠盗猎车5》于 2013 年发布（PC 版本隔了一年半），至今售出了逾 1.9 亿份拷贝。《侠盗猎车6》将首次包含男女主角，故事发生在以迈阿密为背景的虚构城市中，男女主角的塑造受到了著名雌雄大盗 Bonnie 和 Clyde 的启发。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消费者报告称电动汽车车主报告了更多问题]]></title>
+        <id>https://www.solidot.org/story?sid=76796</id>
+        <link href="https://www.solidot.org/story?sid=76796"/>
+        <updated>2023-12-04T15:40:04.000Z</updated>
+        <summary type="html"><![CDATA[《消费者报告》的年度汽车可靠性调查显示，电动汽车车主报告的汽车问题比传统汽车或混动汽车车主多得多。该机构的汽车测试高级总监 Jake Fisher 表示，今天绝大部分电动汽车要么由刚接触电动汽车技术的传统汽车厂商生产，要么由刚接触汽车制造的创业公司生产。电动汽车更多的问题是成长烦恼的一部分。车主们报告的最常见问题与电动马达、充电和电池有关。调查显示，混动汽车是最可靠的汽车类型，车主报告的问题比传统汽车 少 26%，尽管混动汽车同时配备了传统汽车引擎和电动马达，潜在问题更多。一个原因是混动汽车的生产历史比电动汽车更长，丰田是在 25 年前推出了它的混动汽车 Prius。它们的经验足够丰富了。此外混动汽车并没有配备电动汽车常见的大屏幕等功能更可能出现问题的部件。插电混动是最不可靠的汽车类别，问题比传统汽车多 146%。例外是丰田的插电混动汽车 RAV4 Prime 是最可靠是车型之一。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小型恒星周围发现了一颗大型行星]]></title>
+        <id>https://www.solidot.org/story?sid=76795</id>
+        <link href="https://www.solidot.org/story?sid=76795"/>
+        <updated>2023-12-04T15:19:17.000Z</updated>
+        <summary type="html"><![CDATA[天文学家在一颗小型恒星周围发现了一颗大型行星。此类恒星通常没有足够的物质形成大型行星，这一发现凸显科学家并没有完全理解行星是如何形成的。LHS 3154 是一颗红矮星，其质量为太阳的 11%，温度为 2850 K，远低于太阳的 5800 K。新发现的行星 LHS 3154b 其质量至少是地球的 13 倍，略小于海王星，它的公转仅为 3.7 天。如此大的行星很少出现在如此小的恒星周围。现有的行星形成模型需要大幅修改初始条件才可能形成 LHS 3154b 之类的行星。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[诺奖得主称白天缺少太阳光比晚上的电灯问题更严重]]></title>
         <id>https://www.solidot.org/story?sid=76794</id>
@@ -919,48 +1080,6 @@ Onion domains can only be accessed through the Tor network, typically using the 
         <summary type="html"><![CDATA[Linux 平台的音频视频串流工具 PipeWire 正式释出了 1.0 版本，它之前的版本号是 0.3.xx，PipeWire 1.0 维持了与 0.3.xx 系列的 API/ABI 兼容性，两者之间的区别并不大，0.3.xx 就相当稳定，已经成为主流 Linux 发行版默认的音频服务器，1.0 版本主要是包括了众多的改进和修复。PipeWire 是在 2017 年释出第一个版本。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新 CRISPR 系统为基因编辑带来希望]]></title>
-        <id>https://www.solidot.org/story?sid=76722</id>
-        <link href="https://www.solidot.org/story?sid=76722"/>
-        <updated>2023-11-26T14:08:53.000Z</updated>
-        <summary type="html"><![CDATA[单细胞细菌和古细菌使用 CRISPR 系统保护自己免受噬菌体的侵害。CRISPR 系统通常由两部分组成：识别并结合噬菌体 DNA 或 RNA 的“引导RNA”分子，以及在引导RNA指示的位点切割或干扰遗传物质的酶。到目前为止，研究人员已经确定了六种 CRISPR 系统，分别从 I 命名到 VI。它们有不同的特性，包括使用酶的类型，以及它们如何识别、结合和切割RNA或DNA。用于基因工程的 CRISPR-cas9 系统被归类为 II 型，其他类型的 CRISPR 特征可能对其他方面有用。MIT 的张锋团队开发了一种名为 FLSHclust 的算法去寻找不同的 CRISPR 系统。他们发现了大约 13 万个基因以某种方式与 CRISPR 相关，其中 188 个是以前从未见过的，他们在实验室测试了几个基因以了解它们的作用。实验结果揭示了 CRISPR 系统用来攻击噬菌体的各种策略，包括解开 DNA 双螺旋结构，以及以允许基因插入或删除的方式切割 DNA。他们还发现了“抗 CRISPR”的 DNA 片段，这可能有助于噬菌体逃避细菌的防御。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valeo 起诉英伟达窃取其源代码]]></title>
-        <id>https://www.solidot.org/story?sid=76721</id>
-        <link href="https://www.solidot.org/story?sid=76721"/>
-        <updated>2023-11-26T13:59:51.000Z</updated>
-        <summary type="html"><![CDATA[法国汽车公司 Valeo 起诉英伟达窃取其源代码。此案与前 Google 和 Uber 工程师 Anthony Levandowski 案件有相似之处：Mohammad Moniruzzaman 曾任职于 Valeo 公司，后来辞职加盟了英伟达公司，在新公司担任了一个高级职位，当时 Valeo 和英伟达在先进辅助驾驶技术开发上有合作关系，而 Moniruzzaman 也参与了该项目。在 2022 年一次两家公司参加的视频会议上，他共享了其电脑屏幕，其中包含了 Valeo 公司的源代码文件，被 Valeo 员工注意到并截屏。Valeo 调查发现他在加盟英伟达时带走了数万份文件和 6GB 源代码。Moniruzzaman 已经承认了窃取软件的罪行。英伟达的律师则声称该公司对 Valeo 的源代码和商业机密没有兴趣。但 Valeo 仍然提起了诉讼，认为它的源代码帮助英伟达节省了数百万甚至数亿美元的开发费用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔力玄(Medlexo) – 只有 3MB 的 FFmpeg 图形界面工具：视频格式转换、.ts 视频合并、音视频合并、视频压缩、提取音轨[Windows]]]></title>
-        <id>https://www.appinn.com/?p=47035</id>
-        <link href="https://www.appinn.com/medlexo/"/>
-        <updated>2023-11-26T04:18:22.000Z</updated>
-        <summary type="html"><![CDATA[魔力玄(Medlexo) 是一款小巧易用的 FFmpeg 图形界面工具，主要拥有视频格式转换、音视频合并、视频压缩、提取音轨等几个功能。主程序只有 3MB，拖拽操作。@Appinn 来自发现频道，开发]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Remote Browser Isolation (RBI)?]]></title>
-        <id>https://catonmat.net/what-is-rbi</id>
-        <link href="https://catonmat.net/what-is-rbi"/>
-        <updated>2023-11-25T16:11:00.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: A demo speaks louder than a thousand words. You can connect to a remotely isolated browser created by me and my team via browserling.com/browse. We run remote browsers on our servers and stream just the browser window to you.
-Remote Browser Isolation – What Is It?
-Remote Browser Isolation (RBI) is a cybersecurity technology that isolates web browsing activities from endpoint devices by executing web sessions on a remote server, typically in virtual machines or Docker containers. This approach effectively shields endpoints from browser-based threats like malware and phishing attacks by ensuring that only the browser window is transmitted to the user's device. RBI is particularly valuable in enterprise security, protecting against web-based threats. It's also useful in safeguarding aga…]]></summary>
-        <author>
-            <name>catonmat.net</name>
         </author>
     </entry>
     <entry>
