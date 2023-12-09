@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47143",
+          "author": "青小蛙",
+          "description": "HTTP Shortcuts 是一款开源 Android 应用，它能够在屏幕上放置快捷方式或小部件，点击就会触发 RESTful API、Web 服务和 HTTP(S) 请求，支持 JavaScrip",
+          "link": "https://www.appinn.com/http-shortcuts/",
+          "publishedOn": "2023-12-08T07:56:50.000Z",
+          "wordCount": 2803,
+          "title": "HTTP Shortcuts – 在屏幕上触发 RESTful API、Web 服务和 HTTP(S) 请求[Android]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-08T154156.393.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=47138",
+          "author": "青小蛙",
+          "description": "clipboard-online 是一个在 Windows 和 iOS 之间分享剪切板的 Windows 工具，iOS 通过快捷指令实现。另外也适用于 Windows 与 Android 设备之间。@",
+          "link": "https://www.appinn.com/clipboard-online/",
+          "publishedOn": "2023-12-08T06:38:07.000Z",
+          "wordCount": 3230,
+          "title": "clipboard-online – 在 Windows 和 iOS、Android 之间分享剪切板",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-08T142408.338.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47135",
           "author": "青小蛙",
           "description": "Gemini 是 Google 今天发布的一个多模态的 AI 模型，它能够归纳并流畅地理解、操作处理包括文本、代码、音频、图像和视频在内的信息。另外，Gemini 的最小版本。Nano 可以直接部署在",
@@ -155,36 +175,6 @@
           "wordCount": 2586,
           "title": "Evernote 测试收紧免费用户权限，包括仅允许创建 50 条笔记",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/11/Appinn-feature-images-2023-11-30T135942.098.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47056",
-          "author": "青小蛙",
-          "description": "最近发现了一款好用的在线实时翻译软件 —— 「会译」，它几乎可以涵盖你所有的翻译场景。当你浏览新闻报道、科技资讯、购物网站、还是 YouTube 视频、学术论文等PDF文档，都能借助「会译」实现无障碍",
-          "link": "https://www.appinn.com/huiyiai/",
-          "publishedOn": "2023-11-29T08:19:58.000Z",
-          "wordCount": 2587,
-          "title": "会译 – 免费好用的「双语对照」网页翻译工具",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/11/1901701227864_.pic_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47063",
-          "author": "青小蛙",
-          "description": "Bundlehunt 在前几天发布了 2023 年的 macOS 软件黑五捆绑包，青小蛙一直忘记发布，今天早上他们又发来邮件说：这是打折买 Downie 最后几天的机会啦，快去买 😂 基本上 Bund",
-          "link": "https://www.appinn.com/bundlehunt-2023-black-friday/",
-          "publishedOn": "2023-11-29T08:18:15.000Z",
-          "wordCount": 2808,
-          "title": "Bundlehunt 2023年 macOS 软件黑五捆绑包【慢讯】",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/11/Appinn-feature-images-2023-11-29T151640.231.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47051",
-          "author": "青小蛙",
-          "description": "今天尝试了一下给视频配音，临时起意想找一款文字转语音服务，就找到了这个 Text-to-Speech AI，毕竟提供在线试用服务。发现可以很简单的将试用语音保存下来。@Appinn 最近有不少同学在",
-          "link": "https://www.appinn.com/save-gcloud-text-to-speech-to-file/",
-          "publishedOn": "2023-11-29T05:17:03.000Z",
-          "wordCount": 2600,
-          "title": "如何保存 Google Cloud Text-to-Speech AI 文字转语音服务为音频文件",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/11/Text-to-Speech-AI.jpg"
         }
       ]
     },
@@ -215,24 +205,93 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11070",
-          "author": "张 鑫旭",
-          "description": "本文通过真实的demo演示案例给大家展示如何使用JS获取本地音乐文件的封面图、文件名及时长等信息。",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/11/js-mp3-media-tags-metadata/",
-          "publishedOn": "2023-11-28T16:21:17.000Z",
-          "wordCount": 996,
-          "title": "本地MP3封面图、时长等信息的JS读取",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76838",
+          "author": null,
+          "description": "苹果通知供应商，希望从印度工厂生产采购 iPhone 16 的电池。电池厂商如德赛电池被鼓励在印度建立新工厂，台湾电池厂商新普科技则被要求扩大印度生产规模。日本公司 TDK 正在印度哈里亚纳邦的马纳萨（Manesar）建造一座占地 180 英亩的工厂生产 iPhone 电池。德赛和新普等公司将 TDK 等生产的电池封装成模块发送给富士康等组装公司。苹果正致力于将供应链从中国转移出去。 另据 WSJ 援引知情人士的消息透露，苹果公司及其供应商计划未来两三年内在印度每年生产 5000 多万部iPhone，之后还计划在此基础上进一步增加数千万部的产量。",
+          "link": "https://www.solidot.org/story?sid=76838",
+          "publishedOn": "2023-12-08T11:25:00.000Z",
+          "wordCount": 181,
+          "title": "苹果让印度工厂生产更多 iPhone 零部件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76837",
+          "author": null,
+          "description": "正在智利 Atacama 沙漠建造的欧洲极大望远镜（ELT）预计将于 2028 年竣工，届时它将是世界最大的光学望远镜，其主镜直径为 39.3 米，由 798 个六角形小镜片拼接而成，集光面积达到了 978 平方米，它将能聚集更多光线获得更清晰的图像，比目前的任何光学望远镜都先进，将改变系外行星、黑洞、暗物质和早期宇宙的研究。它计划中的继任者超大望远镜（Overwhelmingly Large Telescope，OLT）因复杂度和成本原因而在 2000 年代搁置，OLT 的主镜直径将高达 100 米。目前其它地方正在建造或计划建造的多个光学望远镜都没有 ELT 先进。巨型麦哲伦望远镜由 7 个直径 8.4 米的镜片组合成的主镜直径为 24.5 米，预计在 2030 年代建成，其聚光能力只有 ELT 的三分之一。计划在夏威夷建造的望远镜直径为 30 米，比 ELT 小，因与原居民围绕建造地点莫纳克亚山的争议而停工。",
+          "link": "https://www.solidot.org/story?sid=76837",
+          "publishedOn": "2023-12-08T10:00:09.000Z",
+          "wordCount": 189,
+          "title": "极大望远镜将改变天文学研究",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76836",
+          "author": null,
+          "description": "专注于拆解和 DIY 的 iFixit 将荷兰公司 Fairphone 的最新手机 Fairphone 5 的可维修评分评为 10/10。Fairphone 系列手机的多个零部件可以更换，Fairphone 5 可更换零部件为十个，其中包括电池、显示屏和 USB 端口等，它使用的 SoC 是高通为物联网设计的 QCM6490，原因是高通愿意为此类芯片提供更长时间的支持，而用于手机的芯片通常支持时间都比较短。iFixit 联合创始人兼CEO Kyle Wiens 表示，Fairphone 承诺为 Fairphone 5 提供五个 Android 版本升级和超过八年的安全更新，对于一个产品生命周期短暂的行业而言是一个大胆的声明。这是朝着可持续发展迈出的巨大一步，为智能手机的使用寿命设立了新基准。",
+          "link": "https://www.solidot.org/story?sid=76836",
+          "publishedOn": "2023-12-08T08:31:30.000Z",
+          "wordCount": 204,
+          "title": "Fairphone 5 的可维修性被 iFixit 评为 10/10",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76835",
+          "author": null,
+          "description": "Larian 工作室开发的《博德之门III》赢得了 TGA（The Game Awards）的年度游戏奖。今年八月正式发售的《博德之门III》将 cRPG 这一游戏类别带到了主流，它横扫了主要奖项，包括了金摇杆奖和众多游戏媒体的评选。总部位于比利时根特(Ghent)的 Larian 工作室成立于 1996 年，早期游戏销量乏善可陈，它的第一款畅销游戏是 2014 发布的《神界原罪（Divinity: Original Sin）》，售出了逾 50 万份拷贝，2017 年发布的续作《神界原罪2》更是大受好评，两个月售出逾百万份拷贝。它在 cRPG 作品上的成功吸引了威世智（Wizards Of The Coast）的注意，邀请该工作室制作著名 cRPG 游戏《博德之门》系列的续作。TGA 2023 年的其它奖项包括：最佳游戏指导、最佳叙事和最佳美术设计《心灵杀手2》，最佳音效《完美音浪》，最佳原声《最终幻想16》，最佳独立游戏《星之海》，最佳独立游戏处女作《Cocoon》，最佳动作冒险游戏《塞尔达传说 王国之泪》，最佳持续经营游戏《赛博朋克2077》，最佳手游米哈游的《崩坏：星穹铁道》，最佳游戏改编《最后生还者》（HBO），等等。",
+          "link": "https://www.solidot.org/story?sid=76835",
+          "publishedOn": "2023-12-08T07:06:22.000Z",
+          "wordCount": 191,
+          "title": "《博德之门III》赢得 TGA 年度游戏奖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76834",
+          "author": null,
+          "description": "Windows 臭名昭著的蓝屏死机（BSOD）进入到了 Linux 世界。BSOD 其实是一个展示错误信息的诊断工具，只不过早期 Windows  的 BSOD 代码太模糊而毫无意义。这并不意味着 BSOD 本身是一个糟糕的主意。Linux 的初始化工具 systemd 释出了 v255 版本，引入了一个实验性的组件 systemd-bsod，当 Linux 系统发生引导错误，它会显示一个显示错误代码的全屏信息（即 BSOD），和 Windows 的 BSOD 类似，它也会生成二维码，方便在手机上查找。systemd 的作者 Lennart Poettering 如今在为微软工作。",
+          "link": "https://www.solidot.org/story?sid=76834",
+          "publishedOn": "2023-12-08T06:40:14.000Z",
+          "wordCount": 195,
+          "title": "systemd 更新引入了 Windows 的蓝屏死机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76833",
+          "author": null,
+          "description": "Windows 11 的记事本应用终于加入了字数统计功能，统计数字将会显示在窗口底部。当文本选定时，状态栏会显示所选的文本和整个文档的字符数。如果没有选定文本，则会显示整个文档的字符数。微软最近为记事本应用添加了一系列新功能，在这之前包括了自动保存、标签页、深色模式等等。",
+          "link": "https://www.solidot.org/story?sid=76833",
+          "publishedOn": "2023-12-08T06:10:03.000Z",
+          "wordCount": 166,
+          "title": "Windows 11 记事本应用加入字数统计功能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76832",
+          "author": null,
+          "description": "年长的人喜欢说，啤酒是男人的饮料。但在历史上直到 14 世纪，女性主导了酿酒，女酿酒师负责了欧洲大部分的啤酒销售。英格兰直到 1300 年左右大部分酿酒师都是女性，她们被称为 alewife，表明她们已婚。到 1350 年左右，席卷欧洲的鼠疫毁掉了大部分社区，为了满足需求而不断增加了男性酿酒师。到 1370 年代，男性主导了英格兰的啤酒酿造。alewife 等女性职业让位于 huswyffe——即家庭主妇，女性的家庭角色被人为提高。",
+          "link": "https://www.solidot.org/story?sid=76832",
+          "publishedOn": "2023-12-07T15:44:22.000Z",
+          "wordCount": 172,
+          "title": "14 世纪的鼠疫改变了酿酒师的性别构成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76831",
+          "author": null,
+          "description": "现代 CPU 的 64 位指针寻址空间远多于需求，因此主要 CPU 供应商都提供了一种机制，将部分地址位用于储存其它数据：英特尔是线性地址掩码(LAM），AMD 是高位地址忽略，Arm 是顶部字节忽略。研究人员报告了被称为 SLAM 的新 Spectre 攻击，利用这些机制绕过指针有效性检查。对于 SLAM 攻击，英特尔计划未来发布相关软件指南，Linux 工程师开发了补丁在软件指南发布前默认禁用 LAM，ARM 发布了类似的声明，AMD 则表示现有的  Spectre v2 补丁能解决 SLAM 攻击。",
+          "link": "https://www.solidot.org/story?sid=76831",
+          "publishedOn": "2023-12-07T14:13:14.000Z",
+          "wordCount": 196,
+          "title": "CPU 新 Spectre 攻击 SLAM",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76830",
           "author": null,
@@ -289,6 +348,16 @@
           "description": "在英特尔抨击 AMD 的移动芯片命名之后，AMD 在刚刚举行的新闻发布会上推出了名字再次令人困惑的新移动芯片 Ryzen 8040 系列。8040 与 AMD 几个月前推出的移动芯片 7040 系列相差无几，主要区别在于它的 AI 加速器 NPU。我们需要重新回顾下未来几年 AMD   的芯片命名方法：第一个数字中 7 代表是在 2023 年上市，8 代表 2024 年，9 代表 2025 年；第二个数字代表针对低中端市场，有 1、2、3、4、5、6、7、8、9 之分；第三个数字是 CPU 架构，2 是 Zen2，4 是 Zen4，5 是尚未宣布的 Zen5；第四个数字有 0 或 5，代表下端或上端；后缀字母与功耗相关，U 代表功耗范围 15 - 28W，HS = 35W - 54W，HX = 55W+。最新的 Ryzen 8040 系列其实就表示是 2024 年初上市的 Zen4 移动处理器，相比半年前的 7040 系列，主要区别是通过提高 AI 加速器频率以及优化使得运行大模型 Llama 2 和 ONNX 的性能提高了四成。AMD 称 8040 系列使用的 NPU 性能从 7040 系列的 10 TOPS 提高到了 16 TOPS。",
           "link": "https://www.solidot.org/story?sid=76825",
           "publishedOn": "2023-12-07T07:01:03.000Z",
+          "wordCount": 265,
+          "title": "AMD 发布 Ryzen 8040 移动芯片，与 Ryzen 7040 的差别在于 NPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76824",
+          "author": null,
+          "description": "在英特尔抨击 AMD 的移动芯片命名之后，AMD 在刚刚举行的新闻发布会上推出了名字再次令人困惑的新移动芯片 Ryzen 8040 系列。8040 与 AMD 几个月前推出的移动芯片 7040 系列相差无几，主要区别在于它的 AI 加速器 NPU。我们需要重新回顾下未来几年 AMD   的芯片命名方法：第一个数字中 7 代表是在 2023 年上市，8 代表 2024 年，9 代表 2025 年；第二个数字代表针对低中端市场，有 1、2、3、4、5、6、7、8、9 之分；第三个数字是 CPU 架构，2 是 Zen2，4 是 Zen4，5 是尚未宣布的 Zen5；第四个数字有 0 或 5，代表下端或上端；后缀字母与功耗相关，U 代表功耗范围 15 - 28W，HS = 35W - 54W，HX = 55W+。最新的 Ryzen 8040 系列其实就表示是 2024 年初上市的 Zen4 移动处理器，相比半年前的 7040 系列，主要区别是通过提高 AI 加速器频率以及优化使得运行大模型 Llama 2 和 ONNX 的性能提高了四成。AMD 称 8040 系列使用的 NPU 性能从 7040 系列的 10 TOPS 提高到了 16 TOPS。",
+          "link": "https://www.solidot.org/story?sid=76824",
+          "publishedOn": "2023-12-07T07:00:51.000Z",
           "wordCount": 265,
           "title": "AMD 发布 Ryzen 8040 移动芯片，与 Ryzen 7040 的差别在于 NPU",
           "imageUrl": null
@@ -951,136 +1020,6 @@
           "publishedOn": "2023-11-29T14:53:03.000Z",
           "wordCount": 184,
           "title": "ownCloud 高危漏洞正被大规模利用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76755",
-          "author": null,
-          "description": "2023 年 9 月 4 日，主带小行星 5457 Queen’s 从一颗 12.5 星等的恒星前方飞过，世界各地的业余天文爱好者使用望远镜和摄像机观察了这次掩星事件。捷克的 Jan Mánek 捕捉到了两次掩星现象，一次持续 1.67 秒，0.87 秒后另一次掩星仅持续了 0.2 秒。9 月 20 日希腊的 Serge Dramonis 观察了这颗小行星的另一次掩星事件，也观察到了两次“日食”。两位业余天文爱好者的观察意味着 Queen’s 有一颗卫星。IOTA/ES 的 Christian Weber 博士的分析显示，这颗尚未命名的卫星直径低于 2.8 公里，而小行星 Queen’s 本身的大小为  25x16 公里。已知大约有 500 颗小行星有卫星，Mánek 和 Dramonis 发现的卫星是第二颗通过掩星方法发现的主带小行星卫星。第一颗是澳大利亚人 David Gault 和 Peter Nosworthy 在 2021 年发现的，隶属于小行星  4227 Arecibo。",
-          "link": "https://www.solidot.org/story?sid=76755",
-          "publishedOn": "2023-11-29T13:17:28.000Z",
-          "wordCount": 207,
-          "title": "业余天文爱好者发现小行星的卫星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76754",
-          "author": null,
-          "description": "日本宇宙航空研究开发机构（JAXA）发言人周三声明该机构今年夏季前后遭到网络攻击，黑客没有访问到任何对火箭和卫星运行重要的信息。警方在秋季前后察觉到攻击，联系了 JAXA。现阶段攻击源和受害情况不得而知，政府和相关机构正联手调查详细情况。相关人士称，可能是管理 JAXA 网络的服务器遭到非法访问，攻击方或许已经接触到内部的大范围信息。",
-          "link": "https://www.solidot.org/story?sid=76754",
-          "publishedOn": "2023-11-29T10:35:22.000Z",
-          "wordCount": 168,
-          "title": "日本宇航局 JAXA 遭网络攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76753",
-          "author": null,
-          "description": "AI 生成的图片有版权吗？北京互联网法院周一裁决 AI 生成图片应当被认定为作品，受到著作权法保护。本案原告通过开源文本图像模型 Stable Diffusion 使用关键词如日本偶像生成了 AI 图片发布在小红书上。数天后被告将该图片用于百度的百家号账号，发布时裁剪了水印。原告要求被告道歉并赔偿。北京互联网法庭认定原告享有涉案图片的著作权，要求被告向原告赔礼道歉，并赔偿人民币 500元。法院认为，尽管该图片是使用 AI 工具生成，但原告进行了一定的智力投入，例如选择模型、提示词和设置相关参数等。法庭称，原告是涉案图片的作者，享有涉案图片的著作权。",
-          "link": "https://www.solidot.org/story?sid=76753",
-          "publishedOn": "2023-11-29T10:28:16.000Z",
-          "wordCount": 177,
-          "title": "北京互联网法院裁决 AI 生成图片有版权",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76752",
-          "author": null,
-          "description": "自 Q4 2023 达到 60.3% 的峰值之后，全球付费电视渗透率将在 2024 年首次下降。根据 Ampere 对全世界 96 个市场的最新预测，到 2028 年底付费电视渗透率将下降约 4 个百分点。北美市场的跌幅最大，从 2009 年的 84% 降至了 2023 年的 45%。订阅视频点播市场的成熟促使愈来愈多的消费者放弃有线电视。拉美的渗透率也从 2016 年 42% 下降了约 10 个百分点。亚太和欧洲的付费电视渗透率则在增加。中国移动在 2018 年获得了 IPTV 牌照，通过将宽带和 IPTV 捆绑在一起而大幅提高了付费电视订阅。",
-          "link": "https://www.solidot.org/story?sid=76752",
-          "publishedOn": "2023-11-29T10:02:41.000Z",
-          "wordCount": 198,
-          "title": "全球付费电视渗透率将在 2024 年首次下降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76751",
-          "author": null,
-          "description": "微软在 2019 年收购了 Express Logic 公司，该公司开发了使用广泛的实时操作系统 ThreadX，ThreadX 作者 William Lamie 后来离开了微软创办了新的公司，开发了新的实时操作系统 PX5OS。上周微软宣布在 MIT 许可证下将 ThreadX RTOS 开源，将其捐赠给 Eclipse 基金会，改名为 Eclipse ThreadX 或简称 ThreadX。微软称，ThreadX 几乎无处不在，全世界有 120 亿台设备运行 ThreadX，你身边可能就有一台。英特尔处理器的 Management Engine 使用了 ThreadX，树莓派（Raspberry P）的固件就运行着 ThreadX。",
-          "link": "https://www.solidot.org/story?sid=76751",
-          "publishedOn": "2023-11-29T09:47:16.000Z",
-          "wordCount": 194,
-          "title": "微软开源它收购的实时操作系统 ThreadX",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76750",
-          "author": null,
-          "description": "Unity 在 2021 年以 16.25 亿美元收购了 Peter Jackson 联合创办的视觉特效公司 Weta Digital 的工程技术部门，与美术部门 Weta FX 达成服务协议。现在作为公司重组的一部分它宣布终止服务协议裁掉相关的 265 名员工，约占员工总数的 3.8%。Unity 是规模最大的游戏引擎开发商，目前还有 7000 名员工。它同时宣布将关闭部分办事处，缩小办公面积，不再强制要求员工每周前往办公室工作三天。Unity CEO John Riccitiello 上个月因受争议的运行时费用而下台，前 IBM 总裁 Jim Whitehurst 担任临时 CEO，Whitehurst 表示为了重新专注于公司业务更多的变化即将到来。",
-          "link": "https://www.solidot.org/story?sid=76750",
-          "publishedOn": "2023-11-29T07:35:44.000Z",
-          "wordCount": 207,
-          "title": "Unity 裁掉了收购自 Weta 的 265 名员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76749",
-          "author": null,
-          "description": "亚马逊 AWS 推出了针对企业客户的 AI 聊天机器人 Q，向微软和 Google 发起了挑战。微软支持的 OpenAI 在大约一年前推出了 AI 聊天机器人 ChatGPT，ChatGPT 普及了生成式 AI，它能根据几行输入生成类似人类书写的文本。Q 有多个版本，企业客户每月支付 20 美元，针对开发者和 IT 工作人员的功能加强版每月收费 25 美元。相比下，微软与 Google 的类似服务 Microsoft 365 的 Copilot 和 Google Workspace 的 Duet AI 的费用都是每月 30 美元。",
-          "link": "https://www.solidot.org/story?sid=76749",
-          "publishedOn": "2023-11-29T06:35:10.000Z",
-          "wordCount": 205,
-          "title": "亚马逊推出针对企业客户的 AI 聊天机器人 Q",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76748",
-          "author": null,
-          "description": "牛津互联网研究院对逾 200 万人网络使用习惯的分析没有发现浏览社交媒体和游戏等在线活动会损害精神健康的确凿证据。研究人员同时也承认，如果没有科技公司的更多配合，建立因果关系所需的数据是不会存在的。如果应用会损害精神健康，那么只有构建该应用的公司掌握着证明这一结论的用户数据。研究人员分析了 168 个国家 200 万名 15-89 岁个体的数据，发现如果互联网真的会损害精神健康，那么相关性也比预期的要小得多且不太一致。研究表明，过去二十年全球的幸福感和精神健康只发生了微小且不一致的变化。",
-          "link": "https://www.solidot.org/story?sid=76748",
-          "publishedOn": "2023-11-29T05:59:43.000Z",
-          "wordCount": 164,
-          "title": "牛津研究发现使用互联网不会损害精神健康",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76747",
-          "author": null,
-          "description": "Google Registry 的 .meme 顶级域名开放注册，目前处于早期使用期（early access），注册者需要支付一笔额外费用。如果不想支付额外费用，注册者可以等到 2023 年 12 月 5 日 4PM UTC 域名公开可用后注册。.meme 的诞生是为了突出模因这一互联网上的病毒性传播现象。已有部分网站拥抱了 .meme，跟踪模因的网站 knowyour.meme 也启用了新的域名。",
-          "link": "https://www.solidot.org/story?sid=76747",
-          "publishedOn": "2023-11-29T05:37:53.000Z",
-          "wordCount": 187,
-          "title": "Google .meme 域名开放注册",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76746",
-          "author": null,
-          "description": "印象笔记(Evernote）于今年 1 月被意大利公司 Bending Spoons 收购，之后全部员工被裁掉，其运营由 Bending Spoons 接手，它还提高了订阅价格，称需要新的收入来支付新功能的开发费用。现在该公司正在测试一个方案迫使免费用户升级到付费服务。有印象笔记用户收到了通知，称除非升级到付费方案否则他们现在只能使用 1 个笔记本和 50 条笔记。对于积累了数以百计或千计笔记的长期用户而言这一限制几乎代表着免费使用印象笔记变得不可能。Bending Spoons 证实了这一消息，称它在进行小范围的测试，限制免费用户创建的笔记数量，表示新的方案尚未正式确定。",
-          "link": "https://www.solidot.org/story?sid=76746",
-          "publishedOn": "2023-11-29T03:36:59.000Z",
-          "wordCount": 170,
-          "title": "印象笔记测试迫使免费用户付费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76745",
-          "author": null,
-          "description": "精子游动模式和斑马条纹有着共同之处——都遵循图灵（Alan Turing）的反应扩散理论。图灵在 1952 年发表了一篇论文，提出了被称为反应扩散的图案生成理论。他认为，只需要两种成分——化学物质扩散和共同反应——图案就能自发出现。图灵的图案理论可应用于从生物学、机器人到天体物理学的各个领域。在最新研究中，精子鞭毛的波动在时空中形成条纹图案，产生沿着尾部传播的波，驱动精子前进。研究人员发现鞭毛的波动会自发产生，不受流体环境的影响。从数学上讲，它相当于图灵描述化学模式的反应扩散系统。",
-          "link": "https://www.solidot.org/story?sid=76745",
-          "publishedOn": "2023-11-28T16:10:50.000Z",
-          "wordCount": 159,
-          "title": "精子游动模式遵循图灵的反应扩散理论",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76744",
-          "author": null,
-          "description": "荷兰新闻媒体 NCR 报道称，与中国有关联的黑客组织 Chimer aka G0114 被发现在恩智浦（NXP）内部潜伏了逾两年时间。恩智浦代表回应了该报道，表示该报道是基于过时的信息，它早在 2019 年就披露了入侵，它的调查并没有发现这次入侵造成了重大不利影响。NCR 的报道称，Chimera 使用了微软和 Dropbox 的云服务接受从恩智浦窃取的数据。这一入侵从 2017 年底持续到 2020 年初，黑客定期访问了恩智浦员工的邮箱和网络硬盘，搜索了芯片设计等恩智浦知识产权。恩智浦是 ASML 之后欧洲第二大芯片制造商，其芯片被用于 iPhone 和 Apple Watch。",
-          "link": "https://www.solidot.org/story?sid=76744",
-          "publishedOn": "2023-11-28T15:45:54.000Z",
-          "wordCount": 178,
-          "title": "黑客组织在恩智浦内部潜伏了逾两年时间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76743",
-          "author": null,
-          "description": "根据德国科隆高等地区法庭的一项裁决，CDN 服务商 Cloudflare 对盗版网站负有责任。本案始于 2019 年的环球唱片德国分公司起诉 Cloudflare 为盗版音乐网站 DDL-Music 提供服务，环球在 2020 年 10 月获得了初步禁令，要求 Cloudflare 停止服务 DDL-Music，否则将面临最高 25 万欧元罚款以及高管入狱最长半年的惩罚。Cloudflare 遵守了法庭命令但提起了上诉。科隆高等地区法庭驳回了 Cloudflare 的上诉，裁定它必须对公然侵权的盗版网站采取行动。法庭认为，DDL-Music 除了分享盗版音乐没有其它目的，而 Cloudflare 对于网站的可访问性扮演了重要角色。环球除了要求停止提供服务外，还要求 Cloudflare 的公共 DNS 服务器 1.1.1.1 屏蔽 DDL-Music。科隆法庭认为这个要求太过头了，Cloudflare 的 DNS 服务对于 DDL-Music 的可访问性并不没有起到核心作用。DNS 服务商的作用是中立的。",
-          "link": "https://www.solidot.org/story?sid=76743",
-          "publishedOn": "2023-11-28T14:52:34.000Z",
-          "wordCount": 201,
-          "title": "德国法庭裁决 Cloudflare 对盗版网站负有责任",
           "imageUrl": null
         }
       ]
