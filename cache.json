@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47208",
+          "author": "青小蛙",
+          "description": "WeChatMsg 是一款适合于 Windows 的微信聊天记录导出工具，傻瓜式操作，目前已支持导出文本、图片、视频、表情包、语音聊天，并且可导出为 HTML、Docx、csv、TXT 文件，帮你保留",
+          "link": "https://www.appinn.com/wechatmsg/",
+          "publishedOn": "2023-12-15T07:00:22.000Z",
+          "wordCount": 2579,
+          "title": "WeChatMsg 留痕 – 支持语音聊天，微信聊天记录导出工具[Windows]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-15T141046.382.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=47203",
+          "author": "青小蛙",
+          "description": "OMP 是一款适用于现代浏览器的开源 OneDrive 网盘文件媒体播放器，可直接在网页上播放存储于 OneDrive 里的视频、图片、音乐，支持自托管。@Appinn 来自发现频道，开发者 @22P",
+          "link": "https://www.appinn.com/onedrive-media-player-on-the-web/",
+          "publishedOn": "2023-12-15T02:37:02.000Z",
+          "wordCount": 2558,
+          "title": "OMP – 可自托管的开源 OneDrive 媒体播放器[Web]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-15T102506.623.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47197",
           "author": "青小蛙",
           "description": "微软 Windows 天气应用，是 Windows 10、11 中自带的软件，在开始菜单中输入天气就能找到。这是一款被长期低估了的软件，它功能强大，数据丰富，拥有1975～2023 共 48 年历史天",
@@ -140,26 +160,6 @@
           "wordCount": 2644,
           "title": "Google 发布了「他们规模最大、能力最强的 AI 模型」 Gemini",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-07T141406.079.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47132",
-          "author": "青小蛙",
-          "description": "作为最近几年的多邻国用户，青小蛙对于这样一款语言学习应用，还是非常喜欢的。前天多邻国博客公布了这样一组报告：《2023 全球语言学习趋势报告》，一些数据非常有意思。 多邻国是全球下载量最高的教育类应用",
-          "link": "https://www.appinn.com/2023-duolingo-language-report/",
-          "publishedOn": "2023-12-06T14:15:01.000Z",
-          "wordCount": 2495,
-          "title": "多邻国：2023 全球语言学习趋势报告",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-06T171706.414.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47129",
-          "author": "青小蛙",
-          "description": "TreeLine 是一款强大的树状、大纲式的开源信息管理工具，可储存包括纯文本、富文本、HTML、数字、日期、时间、布尔值、URL 等各种形式的信息。每个节点相当于一个迷你数据库，而树状的信息组织结构",
-          "link": "https://www.appinn.com/treeline/",
-          "publishedOn": "2023-12-06T07:17:44.000Z",
-          "wordCount": 2558,
-          "title": "TreeLine – 开源树状大纲式笔记软件，可当小型数据库使用[Win/Linux/macOS]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-06T145147.337.jpg"
         }
       ]
     },
@@ -197,6 +197,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76898",
+          "author": null,
+          "description": "Stability AI 发布了能根据单幅图像生成对象各个角度视图的模型 Stable Zero123。Stable Zero123 是基于 Stable Diffusion 1.5，生成一个视图消耗的内存与 Stable Diffusion 1.5 相同，但如果要生成 3D 视图需要更多时间和更多内存，建议 24GB。Stable Zero123 目前只支持研究目的的非商业使用。代码和权重发布在 Hugging Face 上。",
+          "link": "https://www.solidot.org/story?sid=76898",
+          "publishedOn": "2023-12-15T15:46:40.000Z",
+          "wordCount": 202,
+          "title": "Stability AI 发布单幅图像生成 3D 对象的 Stable Zero123",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76897",
+          "author": null,
+          "description": "Google Groups 从 2024 年 2 月 22 日起终止支持新闻组（Usenet）。Usenet 用户将无法再使用 Google Groups 在 Usenet 里发表内容、订阅或查看新的 Usenet 内容，但可以继续查看和搜索之前的内容。Google 的 Network News Transfer Protocol (NNTP) 和相应的对等操作将不再可用。Google 表示，Usenet 用户将需要寻找新的客户端和公共服务器。Usenet 始于 1980 年，比万维网的历史更长。Google 称，Usenet 的活跃度已经显著下降，充斥着垃圾信息。",
+          "link": "https://www.solidot.org/story?sid=76897",
+          "publishedOn": "2023-12-15T14:11:05.000Z",
+          "wordCount": 194,
+          "title": "Google Groups 明年终止支持新闻组（Usenet）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76895",
+          "author": null,
+          "description": "A24 工作室和小岛工作室宣布联合制作《死亡搁浅》的真人版。《死亡搁浅》是小岛秀夫离开科乐美之后推出的首款游戏作品，电影版将探索被称为“死亡搁浅”的末日事件的未解之迷，死亡搁浅事件模糊了生与死的界限，将噩梦般的生物引入到一个濒临崩溃的世界。小岛秀夫表示，A24 诞生于约十年前，它以制作高质量的独立电影著称，他本人也深受这些作品的影响。他表示《死亡搁浅》真人版不是直接翻拍自游戏，目标观众不只是游戏粉丝，而是适合所有人，将打造一个前所未见的《死亡搁浅》宇宙。",
+          "link": "https://www.solidot.org/story?sid=76895",
+          "publishedOn": "2023-12-15T12:50:09.000Z",
+          "wordCount": 162,
+          "title": "A24 和小岛工作室制作《死亡搁浅》真人版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76894",
+          "author": null,
+          "description": "亚马逊在今年 10 月发射了它的首批宽带卫星原型，它表示将使用太空激光器以在大洋中央确保可靠的宽带覆盖。这项技术将让卫星能向邮轮传输数据，即使卫星不处于亚马逊地面站的连接范围内。卫星能将请求发送到另一颗处于连接范围内的卫星。亚马逊表示它已经成功测试了被称为激光星际链路的技术。亚马逊 Kuiper 宽带卫星项目负责人 Rajeev Badyal 称，在大洋中央，即使能够安装卫星地面站，也是十分困难的。SpaceX 的 StarLink   卫星的早期版本不支持该技术，但过去两年发射的版本都支持。",
+          "link": "https://www.solidot.org/story?sid=76894",
+          "publishedOn": "2023-12-15T12:33:30.000Z",
+          "wordCount": 166,
+          "title": "亚马逊宽带卫星用太空激光器传输数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76893",
+          "author": null,
+          "description": "提供硬件和软件钱包的 Ledger 公司遭遇了供应链攻击。它的一名前员工首先遭到了钓鱼攻击，黑客因此能访问到这名员工的 NPMJS 账号，然后发布了恶意版本的 Ledger Connect Kit——该库被其它公司和项目开发的 dApps（去中心化应用）用于连接 Ledger 的钱包服务。恶意版 Ledger Connect Kit 嵌入的恶意代码会将用户的加密货币转移到黑客控制的钱包。这次供应链攻击被 Ledger 很快监测到并迅速修复。恶意版本存活了大约 5 个小时。Ledger 发言人表示正在帮助受影响的用户。",
+          "link": "https://www.solidot.org/story?sid=76893",
+          "publishedOn": "2023-12-15T07:42:42.000Z",
+          "wordCount": 183,
+          "title": "加密钱包 Ledger 遭供应链攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76892",
+          "author": null,
+          "description": "担心 AI 聊天机器人会帮助学生作弊？斯坦福大学的一项调查显示，AI 聊天机器人的普及并没有增加学校的总体作弊率，也就是统计上并不显著。研究人员调查了美国逾 40 所高中， 60- 70% 的学生表示最近有过作弊行为。这一比例与往年相近。斯坦福大学的 Denise Pope 表示，人们担心 AI 模型会带来全新形式的作弊，但数据并没有体现这一变化。研究结果挑战了 AI 聊天机器人正颠覆公立学校的观点。",
+          "link": "https://www.solidot.org/story?sid=76892",
+          "publishedOn": "2023-12-15T07:05:45.000Z",
+          "wordCount": 179,
+          "title": "研究发现 AI 聊天机器人并没有增加学校的总体作弊率",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76891",
+          "author": null,
+          "description": "太阳于 12 月 14 日 1702 GMT 释放出一个 X2.8 级耀斑（X 级是最高强度的耀斑），这是 2017 年 9 月以来太阳释放的强度最高的耀斑。强耀斑通常会伴随着日冕物质抛射，直接喷向地球方向的日冕物质抛射通常会产生强地磁风暴。本月初地磁场在多个 M 级耀斑（次于 X 级）喷发的日冕物质抛射冲击后产生了 G3 级强地磁风暴。据 Spaceweather 报道，最新的 X2.8 级耀斑没有直接瞄准地球，但会有部分会擦过地球，时间是在 12 月 17 日。",
+          "link": "https://www.solidot.org/story?sid=76891",
+          "publishedOn": "2023-12-15T05:47:53.000Z",
+          "wordCount": 193,
+          "title": "太阳释放出一个 X2.8 级耀斑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76890",
+          "author": null,
+          "description": "Google DeepMind 的研究人员在《自然》期刊上发表论文，报告他们首次用大模型（LLM）发现了一个尚未解决的数学问题的解。Google DeepMind 的新工具被称为“FunSearch”，研究人员将一组产生创造性解决方案的 LLM 和一个作为检查者以避免错误建议的评估程序结合起来。接着将一个多次迭代此过程的演化方法，作为输入来引导 LLM。结果表明，这种方法可以得到新的、可验证的正确结果。他们将“FunSearch”应用到了著名的上限集问题（数学中涉及计数和排列领域的一个中心问题），发现了超越最著名上限集的大上限集新构造。研究人员表示，“FunSearch”的成功关键是它会寻找那些描述怎样解决问题的程序，而非直接寻找解决办法。因为“FunSearch”的结果易于被解释和验证，这意味着这一方法有望激发科学家在该领域的进一步思考。",
+          "link": "https://www.solidot.org/story?sid=76890",
+          "publishedOn": "2023-12-15T04:38:30.000Z",
+          "wordCount": 172,
+          "title": "Google DeepMind 用大模型解决尚未解决的数学问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76889",
+          "author": null,
+          "description": "AMD 在 MIT 许可证下开源了 FSR（FidelityFX Super Resolution）3，与英伟达 DLSS 竞争的上采样技术，但与 DLSS 不同的是，它不依赖私有的 CUDA 核心，而是基于软件。FSR 3 组合了上采样和帧生成，它目前只支持 DirectX 12，对 Vulkan 的支持还在开发中，会在未来版本中发布。AMD 是在 9 月底发布了 FSR 3，当时只有《Forspoken》和《Immortals of Aveum》两款游戏支持，未来会有更多游戏支持，包括游戏科学的《黑神话：悟空》。",
+          "link": "https://www.solidot.org/story?sid=76889",
+          "publishedOn": "2023-12-15T04:11:51.000Z",
+          "wordCount": 195,
+          "title": "AMD 开源 FSR 3",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76888",
           "author": null,
@@ -885,116 +975,6 @@
           "publishedOn": "2023-12-06T14:29:16.000Z",
           "wordCount": 165,
           "title": "新理论尝试统一广义相对论和量子力学",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76818",
-          "author": null,
-          "description": "Meta 和 IBM 发起了一个由 50 多家 AI 公司和研究机构组成的联盟，推动 AI 开源模式，支持 AI 领域的“开放式创新和开放式科学”。自 OpenAI 一年前推出 ChatGPT 以来，生成式 AI 已经成为了技术讨论的焦点话题。OpenAI 及其竞争对手，比如 Anthropic 和 Cohere，在开发先进的AI模型方面大体都处于领先地位，这些模型被构建为封闭式或自有系统，由它们的创建者管理，使用这些AI系统的公司要向开发者付费。",
-          "link": "https://www.solidot.org/story?sid=76818",
-          "publishedOn": "2023-12-06T13:39:41.000Z",
-          "wordCount": 197,
-          "title": "Meta 和 IBM 推动 AI 开源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76817",
-          "author": null,
-          "description": "澳大利亚阿德莱德大学和英国埃塞克斯大学研究人员发现，租房对衰老的影响大于抽烟和肥胖。生活在私人出租房对生物年龄的影响相当于每年加速衰老约 2 周半，相比之下失业每年加速 1.4 周，肥胖每年加速 1 周，曾经抽烟每年加速 1.1 周。研究人员认为，私人出租房带来的不安全感和可负担问题可能是加速衰老的原因。租私人出租房会面临租金上涨和无理由驱逐等压力，公租房或阻止无理由驱逐和限制租金上涨有助于减少相关的负面影响。研究人员称，澳大利亚的平均租房租赁期为 6-12 个月，即使延长租约，租房人仍然生活在不确定不安全的状态中。",
-          "link": "https://www.solidot.org/story?sid=76817",
-          "publishedOn": "2023-12-06T13:22:29.000Z",
-          "wordCount": 170,
-          "title": "研究发现租房对衰老的影响大于抽烟和肥胖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76816",
-          "author": null,
-          "description": "根据发表在《PNAS Nexus》上的一项研究，敌意的环境是会影响生产力的。维基百科是最大的在线百科全书，人人都可编辑，而编辑战也是维基百科上志愿者们生活的一部分。但其他人的有毒评论是否会对志愿者的生产力产生影响？研究人员分析了英语、德语、法语、西班牙语、意大利语、俄语六大语种过去 20 年用户讨论页面上的 5700 万条评论，结果显示有毒评论会降低志愿者编辑的活动，对新志愿者的有毒评论的影响尤其强烈。新志愿者遭遇有毒评论之后继续贡献的可能性会大幅降低。以英文版为例，有毒评论可能导致损失 265 人年的志愿者工作，致使志愿者人数增长放缓。",
-          "link": "https://www.solidot.org/story?sid=76816",
-          "publishedOn": "2023-12-06T10:35:19.000Z",
-          "wordCount": 164,
-          "title": "维基百科上的有毒评论与编辑活动下降相关联",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76815",
-          "author": null,
-          "description": "经合组织（OECD）2022 年面向全球 81 个国家 69 万名 15 岁学生实施的国际学生评估项目（PISA）结果显示，美国学生的数学学习能力显著下降。美国学生的“数学应用能力”得分为 465 分，在经合组织调查的 37 个国家中排在第 28 位。低于平均分（472分），下滑至 2000 年开始调查以来最低水平。与排在前列的亚洲各国拉开了差距。与新冠疫情前的 2018 年相比，全球学生的数学学习能力都在下降。PISA 每三年评估一次，2021 年的评估因疫情推迟到 2022 年。有人指出，PISA 是在费城公立学校、洛杉矶公立学校和塔拉哈西公立学校评估学生能力，其中费城是美国最差的学区之一。",
-          "link": "https://www.solidot.org/story?sid=76815",
-          "publishedOn": "2023-12-06T09:36:06.000Z",
-          "wordCount": 179,
-          "title": "全球教育评估中美国学生数学得分下降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76814",
-          "author": null,
-          "description": "为满足国庆大阅兵等活动的要求，中国科学家在城市微观气象预报上取得突破，研究报告发表在《中国科学: 地球科学》期刊上。研究报告称，“随着我国综合国力的提升, 各大城市举办国内和国际大型活动的频率日益增加, 其中不乏国庆日阅兵仪式、大型运动会开幕式或大型国际博览会等室外活动. 气象条件是大型活动组织规划、实时保障和应急预案等环节之中需要重点考虑的因素. 在活动举办地, 城市复杂下垫面和局地微气象环境的相互作用给实时高分辨率气象环境预报带来很大挑战, 其中人体热舒适度等气象服务产品对于人群健康以及中暑或风寒风险的预防十分重要, 是决策制定和应急预案中不可或缺的科学依据. ”与传统的天气预报方法相比，该方法的最大特点是提供极其清晰的风力、气温、湿度和人体舒适度的分布。以 2021 年 7 月 1 日上午 10 时的人体舒适度模拟结果为例，受太阳运动轨迹影响在建筑西侧的阴影中体感最为凉爽，在建筑东侧受太阳直射和背风低速气流的影响体感最为炎热，此外植被和水面可明显缓解人体的不适。通过模拟结果与站点观测之间对比可知模拟效果总体良好。",
-          "link": "https://www.solidot.org/story?sid=76814",
-          "publishedOn": "2023-12-06T08:51:31.000Z",
-          "wordCount": 174,
-          "title": "中国科学家在城市微观气象预报上取得突破",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76813",
-          "author": null,
-          "description": "印度空间研究组织(ISRO)宣布其月球探测器的推进模块返回了地球轨道，验证了未来将月球岩石带回地球的能力。印度是于 7 月 14 日在斯里赫里戈达岛（Sriharikota）的萨迪什·达万航天中心使用 LVM3-M4 火箭成功发射了 Chandrayaan-3（月船三号）探测器，Chandrayaan-3 在 8 月 5 日进入月球轨道，花费大约三周时间逐渐降低高度，最终于 8 月 23 日登陆月球南极，成为第一个探测器在月球南极着陆的国家。Chandrayaan-3 包含了  1726 公斤的 Vikram 着陆器和 26 公斤的 Pragyan 漫游车，以及 2148 公斤的推进模块，返回地球的就是该模块。",
-          "link": "https://www.solidot.org/story?sid=76813",
-          "publishedOn": "2023-12-06T08:00:59.000Z",
-          "wordCount": 183,
-          "title": "印度月球探测器推进模块返回地球轨道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76812",
-          "author": null,
-          "description": "哺育中的帽带企鹅（chinstrap penguin）每日睡眠时间超过 11 小时，这并非一次睡眠所花的时间。一项新研究披露，企鹅每天会打盹数千次，但每次只用 4 秒左右；它们用这种累积睡眠来满足每日的睡眠需求，并同时对其巢穴时刻保持密切关注。哺育中的企鹅通常需要保护自己的巢穴免受掠食性鸟类和其它企鹅闯入，而一位伴侣会外出觅食数天之久。趴窝企鹅长时间的睡眠会使巢穴和幼崽面临危险。研究人员利用远程脑电图（EEG）监测和其他非侵入性传感器记录了能自由漫步的企鹅及趴窝中企鹅的睡眠模式，并对其进行连续性录影和直接观察；他们据此发现企鹅与众不同的睡眠模式。他们发现，这些企鹅不会有长时间的一次性睡眠，而是表现为频繁入睡，即以超过 1 万次的片刻睡眠（每次平均持续时间仅 4 秒）累积达每天逾 11 小时的睡眠时间。",
-          "link": "https://www.solidot.org/story?sid=76812",
-          "publishedOn": "2023-12-06T07:30:58.000Z",
-          "wordCount": 168,
-          "title": "帽带企鹅每天打盹数千次但每次只持续数秒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76811",
-          "author": null,
-          "description": "维基媒体基金会公布了 2023 年维基百科上最受欢迎的英文文章。去年底发布的 OpenAI AI 聊天机器人 ChatGPT 的条目吸引了 4949 万次浏览；2023 年逝世人物列表排名第二，吸引了 4267 万浏览；2023 年板球世界杯浏览量 3817 万排名第三，印度板球超级联赛 3201 万次浏览排名第四，电影《奥本海默》2835 万次浏览排名第五。2023 年维基百科上最受欢迎的 25 篇英文文章还包括了印度电影《乱世勇者》、《芭比》、足球明星梅西（Lionel Messi）、美国、《阿凡达水之道》、马斯克和印度等等。",
-          "link": "https://www.solidot.org/story?sid=76811",
-          "publishedOn": "2023-12-06T06:57:50.000Z",
-          "wordCount": 191,
-          "title": "ChatGPT 是维基百科 2023 年浏览量最高的条目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76810",
-          "author": null,
-          "description": "Windows 10 将于 2025 年 10 月 14 日终止支持，此后微软将停止提供安全更新。Windows 10 仍然是目前最流行的操作系统，微软也为那些想要继续使用该操作系统的用户提供了额外三年的付费安全更新支持 Extended Security Updates(ESU)。ESU 通常是批量授权，主要提供给企业级客户，但这一次微软将向个人用户提供 ESU，只要用户负担得起。ESU 的付费是一年支付一次，定价将在晚些时候公布，价格可能会一年比一年高，此举旨在督促用户将操作系统升级到新版本。ESU 的价格是按计算机数量计费的，数量越多价格越贵。微软未来将通过  Windows 10 的支持页面提供相关信息。",
-          "link": "https://www.solidot.org/story?sid=76810",
-          "publishedOn": "2023-12-06T06:25:44.000Z",
-          "wordCount": 186,
-          "title": "Windows 10 将向个人用户提供额外的三年付费支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76809",
-          "author": null,
-          "description": "拼多多现在是中国市值最高的电商公司。在今年上涨了 78% 之后，拼多多市值达到 1930 亿美元，取代了阿里巴巴的王者地位。尽管上个季度拼多多收入仍不到阿里巴巴的三分之一，但增长速度比阿里巴巴快得多。在截至 9 月份的三个月，拼多多收入同比增长 94%，阿里巴巴仅增长 9%。在国内，拼多多应用已让阿里巴巴和京东等老牌对手相形见绌。在中国消费者对价格变得越来越敏感的时候，多年来靠打折返利建立起来的低价平台声誉让拼多多获得了竞争优势。拼多多还编织了一张低成本制造商网络，这张网络让拼多多得以在电商平台上维持低价商品供应。这是拼多多与阿里巴巴旗下淘宝的关键不同之处，淘宝一直属于纯粹的电商平台，对直接建立供应商网络关注较少。拼多多的混合模式让该公司能更直接地影响定价，在节俭意识变强的中国，这是一个关键优势。",
-          "link": "https://www.solidot.org/story?sid=76809",
-          "publishedOn": "2023-12-06T05:25:09.000Z",
-          "wordCount": 164,
-          "title": "拼多多重塑中国电商格局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76808",
-          "author": null,
-          "description": "随着 Firefox 的市场份额越来越低，网站兼容性问题将会愈发突出。指导美国政府网站开发的 The U.S. Web Design System (USWDS) 声明支持根据 analytics.usa.gov 统计使用率超过 2% 的所有浏览器。过去 90 天，访问  analytics.usa.gov 的浏览器中 Chrome 占 49%，Safari 占 34.8%，Edge 8.5%，Firefox 只有 2.2 %。其中可能只有 Firefox 使用一个完全不同的渲染引擎。如果它的使用率低于 2% 的阈值，那么 USWDS 可以不再要求政府网站的开发者继续兼容 Firefox，这有可能在整个 Web 开发界产生涟漪效应，政府的决定会影响到无数企业，就像多米诺骨牌倒下一样，会有愈来愈多的网站不兼容 Firefox。Firefox 处于危机边缘。",
-          "link": "https://www.solidot.org/story?sid=76808",
-          "publishedOn": "2023-12-05T14:33:16.000Z",
-          "wordCount": 201,
-          "title": "随着 Firefox 份额越来越低网站兼容性问题将会愈发突出",
           "imageUrl": null
         }
       ]
