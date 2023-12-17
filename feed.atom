@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-12-16T02:23:10.513Z</updated>
+    <updated>2023-12-17T02:26:30.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[图片对比 – 横向或纵向对比两张照片[Windows]]]></title>
+        <id>https://www.appinn.com/?p=47215</id>
+        <link href="https://www.appinn.com/compare-image/"/>
+        <updated>2023-12-16T11:34:46.000Z</updated>
+        <summary type="html"><![CDATA[图片对比是一款 Windows 工具，可以针对不同的图片进行横向或纵向对比。@Appinn 来自发现频道，开发者自荐：https://meta.appinn.net/t/topic/49552 多图对]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Android 版支持逾 450 个扩展]]></title>
+        <id>https://www.solidot.org/story?sid=76899</id>
+        <link href="https://www.solidot.org/story?sid=76899"/>
+        <updated>2023-12-16T10:29:13.000Z</updated>
+        <summary type="html"><![CDATA[Firefox 的 Android 版本开始支持逾 450 个扩展，涵盖了反跟踪隐私保护、广告拦截器、生产力工具、串流音乐、用户界面个性化等各个方面，允许用户根据需要定制移动浏览器。Android 版 Firefox 此前只支持有限的几个扩展，主要是屏蔽广告的 uBlock Origin。今年 8 月 Mozilla 宣布完成了支持开放扩展生态系统所需的基础设施建设，开始逐渐对 Android 用户开放更多浏览器扩展。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stability AI 发布单幅图像生成 3D 对象的 Stable Zero123]]></title>
         <id>https://www.solidot.org/story?sid=76898</id>
@@ -841,169 +861,6 @@ Happy browsing!]]></summary>
         <link href="https://www.solidot.org/story?sid=76832"/>
         <updated>2023-12-07T15:44:22.000Z</updated>
         <summary type="html"><![CDATA[年长的人喜欢说，啤酒是男人的饮料。但在历史上直到 14 世纪，女性主导了酿酒，女酿酒师负责了欧洲大部分的啤酒销售。英格兰直到 1300 年左右大部分酿酒师都是女性，她们被称为 alewife，表明她们已婚。到 1350 年左右，席卷欧洲的鼠疫毁掉了大部分社区，为了满足需求而不断增加了男性酿酒师。到 1370 年代，男性主导了英格兰的啤酒酿造。alewife 等女性职业让位于 huswyffe——即家庭主妇，女性的家庭角色被人为提高。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPU 新 Spectre 攻击 SLAM]]></title>
-        <id>https://www.solidot.org/story?sid=76831</id>
-        <link href="https://www.solidot.org/story?sid=76831"/>
-        <updated>2023-12-07T14:13:14.000Z</updated>
-        <summary type="html"><![CDATA[现代 CPU 的 64 位指针寻址空间远多于需求，因此主要 CPU 供应商都提供了一种机制，将部分地址位用于储存其它数据：英特尔是线性地址掩码(LAM），AMD 是高位地址忽略，Arm 是顶部字节忽略。研究人员报告了被称为 SLAM 的新 Spectre 攻击，利用这些机制绕过指针有效性检查。对于 SLAM 攻击，英特尔计划未来发布相关软件指南，Linux 工程师开发了补丁在软件指南发布前默认禁用 LAM，ARM 发布了类似的声明，AMD 则表示现有的  Spectre v2 补丁能解决 SLAM 攻击。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 的 AI 图像生成器用了 11 亿 Instagram 和 Facebook 照片训练]]></title>
-        <id>https://www.solidot.org/story?sid=76830</id>
-        <link href="https://www.solidot.org/story?sid=76830"/>
-        <updated>2023-12-07T10:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Meta 发布了一个免费的文本图像生成网站 Imagine with Meta AI(需要登陆)。它的图像生成器是基于其 Emu 图像合成模型，用了 11 亿 Instagram 和 Facebook 上公开可见的照片训练。你的 Facebook 或 Instagram 的公开照片很可能被用于训练 Emu 了，不想被训练的话可以将自己的照片设为私有。Instagram 上每天上传的照片数以亿计，Meta 只使用了很小一部分去训练其模型。在 Imagine with Meta AI 上输入提示词，它会返回四张 1280×1280 像素的图像，可以以 JPEG 格式下载保存，图像左下方会打上水印 Imagined with AI。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国面临慢性疾病挑战]]></title>
-        <id>https://www.solidot.org/story?sid=76829</id>
-        <link href="https://www.solidot.org/story?sid=76829"/>
-        <updated>2023-12-07T10:19:56.000Z</updated>
-        <summary type="html"><![CDATA[《柳叶刀》刊文指中国面临慢性疾病挑战。慢性病包括心血管疾病（如心脏病和中风）、癌症、慢性呼吸道疾病以及糖尿病。这些疾病每年造成 4100 万人死亡，占全球死亡人数的 74%。中国糖尿病患病人数从 2018 年的 3550 万人增长到了 2021 年的 1.18 亿人。如果按照这个速度，2050 年时，中国将有 2.57 亿糖尿病人口。从2007 年至 2017 年的 10 年间，中国高血压的流行率从 25.7% 上升到了 31.5%，其中只有 34.2% 的患者得到了治疗，而血压得到有效控制的人数比例仅为 9.2%。因吸烟人口庞大，肺癌和慢性肺病发病率也是居高不下。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 开始在 Facebook Messenger 和 Instagram 应用中启用端对端加密]]></title>
-        <id>https://www.solidot.org/story?sid=76828</id>
-        <link href="https://www.solidot.org/story?sid=76828"/>
-        <updated>2023-12-07T09:46:58.000Z</updated>
-        <summary type="html"><![CDATA[Meta 周四宣布开始在 Facebook Messenger 和 Instagram 应用中启用端对端加密。端对端加密是基于 Signal 协议和 Meta 自己的 Labyrinth 协议。Facebook Messenger 从 2016 年起就支持可选de 消息加密，原计划 2022 年默认启用，但因为担心无法监测平台上的儿童滥用行为而推迟。让 Messenger 的逾 10 亿用户全部启用端对端加密将需要数个月时间。执法部门和儿童保护组织反对平台启用端对端加密，认为会被滥用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[检方寻求对青叶真司判处死刑]]></title>
-        <id>https://www.solidot.org/story?sid=76827</id>
-        <link href="https://www.solidot.org/story?sid=76827"/>
-        <updated>2023-12-07T08:02:55.000Z</updated>
-        <summary type="html"><![CDATA[对于 2019 年京都动画纵火杀人案，检方要求对被控杀人等罪名的青叶真司（45岁）判处死刑。检方就被告抱有的妄想指出，“影响有限。有妄想无法成为避免极刑的理由”，并称“此案有预谋、极度危险且非常残忍和反人道，社会影响也很大”。判决日期为明年 1 月 25 日。2019 年 7 月 18 日上午 10 点半左右，被告闯入有员工等 70 人的京都动画第一工作室，向员工泼洒汽油并纵火，杀害 36 人并导致 32 人不同程度受伤。这起案件是日本数十年来最严重的恶性事件。京都动画成立于 1981 年，昵称为京阿尼，主要致力于制作独立动画，其作品包括《凉宫春日的忧郁》，《轻音少女》，《小林家的女仆龙》等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 发布 MI300X，称性能比 H100 高 30%]]></title>
-        <id>https://www.solidot.org/story?sid=76826</id>
-        <link href="https://www.solidot.org/story?sid=76826"/>
-        <updated>2023-12-07T07:57:34.000Z</updated>
-        <summary type="html"><![CDATA[AMD 正式发布了 AI 芯片 MI300X，FP8 FLOPS 性能比英伟达的 H100 高 30%，内存带宽多 60%，内存容量是其两倍以上。Meta、OpenAI 和微软都表示将采购 MI300X 以作为英伟达产品的替代。但要将硬件性能转换为实际性能，AMD 还需要在 AI 软件上取得突破，才有可能打破英伟达的 CUDA 软件护城河。AMD 表示它已经改进了其 ROCm 软件堆栈。目前 MI300X 的性能优势主要在大模型的推理而不是训练上，Meta 表示将在 AI 推理工作负荷中使用 MI300X。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 发布 Ryzen 8040 移动芯片，与 Ryzen 7040 的差别在于 NPU]]></title>
-        <id>https://www.solidot.org/story?sid=76825</id>
-        <link href="https://www.solidot.org/story?sid=76825"/>
-        <updated>2023-12-07T07:01:03.000Z</updated>
-        <summary type="html"><![CDATA[在英特尔抨击 AMD 的移动芯片命名之后，AMD 在刚刚举行的新闻发布会上推出了名字再次令人困惑的新移动芯片 Ryzen 8040 系列。8040 与 AMD 几个月前推出的移动芯片 7040 系列相差无几，主要区别在于它的 AI 加速器 NPU。我们需要重新回顾下未来几年 AMD   的芯片命名方法：第一个数字中 7 代表是在 2023 年上市，8 代表 2024 年，9 代表 2025 年；第二个数字代表针对低中端市场，有 1、2、3、4、5、6、7、8、9 之分；第三个数字是 CPU 架构，2 是 Zen2，4 是 Zen4，5 是尚未宣布的 Zen5；第四个数字有 0 或 5，代表下端或上端；后缀字母与功耗相关，U 代表功耗范围 15 - 28W，HS = 35W - 54W，HX = 55W+。最新的 Ryzen 8040 系列其实就表示是 2024 年初上市的 Zen4 移动处理器，相比半年前的 7040 系列，主要区别是通过提高 AI 加速器频率以及优化使得运行大模型 Llama 2 和 ONNX 的性能提高了四成。AMD 称 8040 系列使用的 NPU 性能从 7040 系列的 10 TOPS 提高到了 16 TOPS。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 发布了「他们规模最大、能力最强的 AI 模型」 Gemini]]></title>
-        <id>https://www.appinn.com/?p=47135</id>
-        <link href="https://www.appinn.com/google-gemini-ai/"/>
-        <updated>2023-12-07T07:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Gemini 是 Google 今天发布的一个多模态的 AI 模型，它能够归纳并流畅地理解、操作处理包括文本、代码、音频、图像和视频在内的信息。另外，Gemini 的最小版本。Nano 可以直接部署在]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 发布 Ryzen 8040 移动芯片，与 Ryzen 7040 的差别在于 NPU]]></title>
-        <id>https://www.solidot.org/story?sid=76824</id>
-        <link href="https://www.solidot.org/story?sid=76824"/>
-        <updated>2023-12-07T07:00:51.000Z</updated>
-        <summary type="html"><![CDATA[在英特尔抨击 AMD 的移动芯片命名之后，AMD 在刚刚举行的新闻发布会上推出了名字再次令人困惑的新移动芯片 Ryzen 8040 系列。8040 与 AMD 几个月前推出的移动芯片 7040 系列相差无几，主要区别在于它的 AI 加速器 NPU。我们需要重新回顾下未来几年 AMD   的芯片命名方法：第一个数字中 7 代表是在 2023 年上市，8 代表 2024 年，9 代表 2025 年；第二个数字代表针对低中端市场，有 1、2、3、4、5、6、7、8、9 之分；第三个数字是 CPU 架构，2 是 Zen2，4 是 Zen4，5 是尚未宣布的 Zen5；第四个数字有 0 或 5，代表下端或上端；后缀字母与功耗相关，U 代表功耗范围 15 - 28W，HS = 35W - 54W，HX = 55W+。最新的 Ryzen 8040 系列其实就表示是 2024 年初上市的 Zen4 移动处理器，相比半年前的 7040 系列，主要区别是通过提高 AI 加速器频率以及优化使得运行大模型 Llama 2 和 ONNX 的性能提高了四成。AMD 称 8040 系列使用的 NPU 性能从 7040 系列的 10 TOPS 提高到了 16 TOPS。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We've added another 20 new text tools]]></title>
-        <id>https://catonmat.net/another-20-new-text-tools</id>
-        <link href="https://catonmat.net/another-20-new-text-tools"/>
-        <updated>2023-12-07T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Team Browserling keeps shipping!
-Last week we added another 20 new math tools and today we just added another 20 new tools to our Online Text Tools collection.
-Here are the new text tools.
-Generate Skip-grams
-Add Quotes to Words
-Remove Quotes from Words
-Add Quotes to Lines
-Remove Quotes from Lines
-Print Text Statistics
-Visualize Text Structure
-Highlight Letters in Text
-Highlight Words in Text
-Highlight Patterns in Text
-Highlight Sentences in Text
-Highlight Regex Matches in Text
-Generate Tiny Text
-Fix Paragraph Distance
-Fancify Line Breaks
-Normalize Line Breaks
-Randomize Line Breaks
-Replace Line Breaks
-Add Line Breaks to Text
-Remove Line Breaks to Text
-Next week we'll add even more tools. See you then!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔抨击 AMD 的芯片命名是在欺骗客户]]></title>
-        <id>https://www.solidot.org/story?sid=76822</id>
-        <link href="https://www.solidot.org/story?sid=76822"/>
-        <updated>2023-12-07T06:32:25.000Z</updated>
-        <summary type="html"><![CDATA[英特尔发布然后又删除了名为 Core Truths 的文档，抨击了竞争对手 AMD 的芯片命名，尽管芯片巨人以前也没少干类似的事情。英特尔在文档中指责 AMD 的芯片命名是“蛇油”，是在欺骗客户。英特尔特别点名了 AMD 的低端移动芯片 Ryzen 5 7520U。它的宣布日期是 2022 年 9 月，上市日期是 2023 年，但使用的是 2019 年发布的 Zen2 架构(数字里的 2 就是指 Zen2)。不知情的客户看到名字以为它是最新的基于 Zen4 架构的 Ryzen 7000 系列产品，英特尔强调儿童教育的未来需要性能最好的 CPU。芯片巨人还对比了 Ryzen 5 7520U 和它的第 13 代酷睿 i5-1335U，显示后者的性能要比前者快得多。AMD 发布的名字令人困惑的芯片都是针对移动市场，旨在适应不同的移动应用场景。YouTube 频道 Gamers Nexus 帮助 AMD 发布了一则反驳视频。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICANN 发布一站式 WHOIS 查询服务]]></title>
-        <id>https://www.solidot.org/story?sid=76821</id>
-        <link href="https://www.solidot.org/story?sid=76821"/>
-        <updated>2023-12-07T05:57:49.000Z</updated>
-        <summary type="html"><![CDATA[2018 年 5 月，监管全球域名系统的非盈利行业组织 ICANN 指示域名注册商从 WHOIS 信息中隐藏掉用户的名字、地址、电话号码和电子邮件。此举是为了遵守欧盟颁布的数据保护法律 GDPR（General Data Protection Regulation），GDPR 要求企业在收集欧盟居民个人信息时必须获得明确许可。域名注册商会继续收集客户的信息，但不会公开发布。现在 ICANN 发布了一站式 WHOIS 查询服务 RDRS，允许通过递交标准化的请求表格获得域名注册者的信息。它要求所有注册商都加入，但它们可以选择退出或停止使用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 发布 AI 大模型 Gemini，称比 GPT-4 更先进]]></title>
-        <id>https://www.solidot.org/story?sid=76820</id>
-        <link href="https://www.solidot.org/story?sid=76820"/>
-        <updated>2023-12-07T03:42:40.000Z</updated>
-        <summary type="html"><![CDATA[Google 发布了 AI 大模型 Gemini，称比 OpenAI 的最新大模型 GPT-4 更先进。Gemini 目前已经整合在搜索巨人的聊天机器人 Bard 中提供给英文版用户。Google 称，Gemini 1.0 有多个针对不同规模的优化版本——Ultra、Pro 和 Nano，其中 Gemini Ultra 在基准测试中的表现超过了 GPT-4。Gemini 具有多模能力，能概括和无缝理解、操作和组合不同类型的信息，包括文本、代码、音频、图像和视频。Google 将在明年初发布使用其最强大模型 Gemini Ultra 的 Bard Advanced 版本，商业化相关信息尚未宣布。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新理论尝试统一广义相对论和量子力学]]></title>
-        <id>https://www.solidot.org/story?sid=76819</id>
-        <link href="https://www.solidot.org/story?sid=76819"/>
-        <updated>2023-12-06T14:29:16.000Z</updated>
-        <summary type="html"><![CDATA[爱因斯坦的广义相对论和量子理论在数学上不兼容，解决该矛盾的普遍假设是广义相对论需要修改或量子化，以适应量子理论。这是弦论的方法，它提出的时空包含 10、11 或 26 个维度。另一种候选大一统理论是圈量子引力，它将时空描述为背景独立由关系性循环织出的自旋网络铺成。伦敦大学学院物理学家 Jonathan Oppenheim 提出的新理论挑战了这一假设，认为时空是经典的，不受量子理论支配。时空无论放大多少倍都是平滑连续的，不是“量子化”的离散单位。Oppenheim  认为，时空本质上是不稳定的，会受到随机波动的影响，导致可预测性的内在崩溃。研究证明，如果时空不具有量子性质，那么时空曲率必然存在随机波动，这种波动具有可通过实验验证的特定特征。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
