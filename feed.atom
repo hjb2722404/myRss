@@ -2,10 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2023-12-22T02:23:06.306Z</updated>
+    <updated>2023-12-23T02:19:34.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run Firefox in Firefox (browser in browser)]]></title>
+        <id>https://catonmat.net/how-to-run-firefox-in-firefox</id>
+        <link href="https://catonmat.net/how-to-run-firefox-in-firefox"/>
+        <updated>2023-12-22T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: You can run Firefox in Firefox via browserling.com/firefox. This link will open a virtual Firefox browser inside of your Firefox browser so that you can browse while you browse.
+What Is Firefox?
+Firefox is a free and open-source web browser developed by the Mozilla Foundation. It uses the Gecko rendering engine, which implements current and anticipated web standards, providing robust performance and customization capabilities. Firefox is known for its emphasis on privacy and security features, including tracking protection and a wide array of extensions for enhanced user experience.
+What Is a Browser In a Browser?
+A browser within a browser is a nested browsing interface, where a secondary browser instance operates inside the primary web browser. This is typically achieved through us…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperloop One 即将倒闭]]></title>
+        <id>https://www.solidot.org/story?sid=76958</id>
+        <link href="https://www.solidot.org/story?sid=76958"/>
+        <updated>2023-12-22T14:28:09.000Z</updated>
+        <summary type="html"><![CDATA[曾经备受瞩目的未来风格的运输科技公司 Hyperloop One 即将倒闭。Hyperloop One 通过建造隧道形状的线路，以类似飞机的运输速度将乘客和货物从一个城市运送到另一个城市。它自 2014 年以来筹集到了逾 4.5 亿美元，在 Richard Branson 的维珍集团投资之后一度更名为 Virgin Hyperloop One。在 Hyperloop One 决定专注于货运之后维珍集团移除了它的名字。该公司在拉斯维加斯附近建造了一条小型测试轨道。据知情人士的消息称，该公司解雇了大部分员工，尝试出售剩余资产，包括测试轨道和机械设备，其余的知识产权将转移给大股东迪拜的 DP World 集团。该公司在 2022 年初有逾 200 名员工。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[医生发现阴茎骨折风险在圣诞节期间上升]]></title>
+        <id>https://www.solidot.org/story?sid=76957</id>
+        <link href="https://www.solidot.org/story?sid=76957"/>
+        <updated>2023-12-22T13:52:38.000Z</updated>
+        <summary type="html"><![CDATA[医生对圣诞节期间的过度亲热发出了警告。德国慕尼黑泌尿科医生 Nikolaos Pyrgides 和同事分析了 2005-2021 年间德国 3421 名阴茎骨折患者的医院数据，发现阴茎骨折在圣诞节期间更频繁发生。如果每天都是圣诞节，那么阴茎骨折发生率将会增加 43%。周末和暑期也有较高的阴茎骨折风险，但新年前夜没什么变化。在新冠疫情的封锁期间，因阴茎骨折入院的情况保持稳定。遭受阴茎骨折的男性的平均年龄为 42 岁。Pyrgides 称，大部分阴茎骨折发生在外遇或特殊地点的性行为期间，中年男性更可能出现这种问题。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女性的眼泪包含能降低男性好斗行为的化合物]]></title>
+        <id>https://www.solidot.org/story?sid=76956</id>
+        <link href="https://www.solidot.org/story?sid=76956"/>
+        <updated>2023-12-22T12:43:30.000Z</updated>
+        <summary type="html"><![CDATA[根据周四发表在《PLOS Biology》期刊上的一项研究，女性的眼泪包含能降低男性好斗行为的化合物。人类女性的眼泪含有一种无味的化学信号，嗅到时会降低人类男性的睾酮水平。睾丸激素减少与攻击性减少相关，研究人员测试了眼泪是否能减少男性的攻击性，发现眼泪能将男性攻击性降低 43.7%。进一步研究发现有 4 种人类嗅觉受体会对眼泪做出反应。他们用功能性大脑成像重复了实验，发现眼泪中的化学信号增加了嗅觉和攻击性神经基质之间的功能连接，降低了神经活动的总体水平。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[darktable 4.6.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=76955</id>
+        <link href="https://www.solidot.org/story?sid=76955"/>
+        <updated>2023-12-22T12:12:23.000Z</updated>
+        <summary type="html"><![CDATA[照片编辑软件 Darktable 释出了 4.6.0 版本。主要新特性包括：darkroom 视图下编辑图像会每 10 秒自动保存编辑历史，用户可通过将时间间隔设为零禁用自动保存；新的处理模块 rgb 原色；底层像素操作与通道混合基本相同；显示转换模块 sigmoid 包含新的原色区；等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 15 将能告诉用户什么时候换电池]]></title>
+        <id>https://www.solidot.org/story?sid=76954</id>
+        <link href="https://www.solidot.org/story?sid=76954"/>
+        <updated>2023-12-22T11:49:15.000Z</updated>
+        <summary type="html"><![CDATA[Android 14 为操作系统跟踪电池健康信息奠定了基础，而它的下一个版本将能告诉用户什么时候应该更换电池。电池是手机中最容易出现损坏的零部件之一，今天的手机使用寿命比以前更长，更换损耗过半的电池有助于进一步延长手机寿命。Android 14 通过 API 为应用提供了与电池相关的各种信息，包括制造日期和周期计数、首次使用日期、充电策略、充电状态和健康状况。电池容量会随着时间而减少，健康状况能告诉用户剩余容量相对于额定容量的比例，比如 Pixel 8 电池额定容量为 4575mAh，如果健康状况为 90%，意味着目前电池充满电后的容量只有 4118mAh。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部分研究人员不使用 ChatGPT]]></title>
+        <id>https://www.solidot.org/story?sid=76953</id>
+        <link href="https://www.solidot.org/story?sid=76953"/>
+        <updated>2023-12-22T10:02:20.000Z</updated>
+        <summary type="html"><![CDATA[AI 聊天机器人 ChatGPT 风靡世界，但《自然》的调查发现，78% 的研究人员不常用 ChatGPT 等生成式 AI 工具。而使用 ChatGPT 的研究人员通常将其用于与研究无关的有趣活动，或者只是做做实验。ChatGPT 使用群体给出的一个重要理由是：对非母语英语者非常有帮助，可以减少花在撰写邮件和文件的时间，有助于提高工作效率。但部分研究人员还是选择尽可能避开 ChatGPT。心理学者 Ada Kaluzna 说，如果我不写自己的研究，我还算是研究员吗？她认为使用 ChatGPT 有可能会破坏学习和创造性思维能力。很多人说除非写下来，他们不知道自己在想什么。写作能让你专注于主题，收集整理想法。如果不尝试以结构化的形式纪录想法，你可能无法创造出新观念。另一些研究人员不使用 ChatGPT 是因为它经常生成假的参考文档。爱尔兰科学家 Viswanath Vittaladevaram 称，ChatGPT 有助于获取基本信息，但不应该将其用于科学论文撰写。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果想让 AI 在本地而不是云端运行]]></title>
+        <id>https://www.solidot.org/story?sid=76952</id>
+        <link href="https://www.solidot.org/story?sid=76952"/>
+        <updated>2023-12-22T08:13:58.000Z</updated>
+        <summary type="html"><![CDATA[苹果研究人员在预印本平台 arxiv 上发表了一篇论文《LLM in a Flash》，介绍了在内存有限的设备上运行大模型推理。今天流行的大模型通常是运行在云端，依托数据中心，需要惊人的计算能力，远非本地硬件能比拟。在生成式 AI 领域追赶竞争对手的苹果计划让 AI 在 iPhone 本地直接运行而不是云端运行。苹果在移动领域的竞争对手三星也计划明年推出 AI 智能手机，最大移动芯片制造商高通 CEO Cristiano Amon 预测，智能手机引入 AI 将能带来全新的体验，逆转销量下滑。在移动设备上运行大模型或 AI 聊天机器人如 ChatGPT 需要克服巨大的技术挑战，因为手机的性能和资源都有限，解决该问题意味着大模型能离线工作，能更快响应，同时也具有隐私方面的优点，这也是苹果相对于 Google Android 的一大竞争优势。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[敬业签3.0 – 多端云同步好用便签备忘录工具，可记笔记、列待办、设提醒事项]]></title>
+        <id>https://www.appinn.com/?p=47261</id>
+        <link href="https://www.appinn.com/jingyeqian-v3/"/>
+        <updated>2023-12-22T07:13:44.000Z</updated>
+        <summary type="html"><![CDATA[敬业签是一款云便签工具，适用于Windows、Android/HarmonyOS 、 iOS手机、iPad平板、iWatch客户端，Mac电脑、 Web 网页版，以及微信小程序，拥有多平台自动云同步、]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家新闻出版署发布《网络游戏管理办法（草案征求意见稿）》]]></title>
+        <id>https://www.solidot.org/story?sid=76951</id>
+        <link href="https://www.solidot.org/story?sid=76951"/>
+        <updated>2023-12-22T06:12:38.000Z</updated>
+        <summary type="html"><![CDATA[国家新闻出版署发布《网络游戏管理办法（草案征求意见稿）》，意见截止日期 2024 年 1 月 22 日。《草案》规定：
+第十八条【限制游戏过度使用和高额消费】网络游戏不得设置每日登录、首次充值、连续充值等诱导性奖励。网络游戏出版经营单位不得以炒作、拍卖等形式提供或纵容虚拟道具高价交易行为。所有网络游戏须设置用户充值限额，并在其服务规则中予以公示，对用户非理性消费行为，应进行弹窗警示提醒。
+
+第二十四条【游戏币交易规范】从事网络游戏币交易服务，应当遵守以下规定：（二）应以实名制数字人民币钱包从事网络游戏币交易，不得向用户提供匿名数字人民币钱包交易服务；]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA 6 黑客被判无限期入院令]]></title>
+        <id>https://www.solidot.org/story?sid=76950</id>
+        <link href="https://www.solidot.org/story?sid=76950"/>
+        <updated>2023-12-22T05:45:23.000Z</updated>
+        <summary type="html"><![CDATA[黑客组织 Lapsus$ 的关键成员、18 岁的 Arion Kurtaj 被判无限期关押在一所高度戒备的医院内，直到医生认为他不再构成威胁。Kurtaj 有严重自闭症，关押期间有数十起伤害或财产损失报告。Lapsus$ 此前入侵了金融科技公司 Revolut、拼车服务商 Uber 、游戏开发商 Rockstar Games 以及英伟达。法官表示，Kurtaj 的计算机技能和实施网络犯罪的愿望意味着他对公众仍然构成高风险。在保释期间，他曾使用化名 teapotuberhacker 泄露了正在开发中的《侠盗猎车 6( Grand Theft Auto 6)》游戏视频。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[arXiv 论文开始提供 HTML 格式]]></title>
+        <id>https://www.solidot.org/story?sid=76949</id>
+        <link href="https://www.solidot.org/story?sid=76949"/>
+        <updated>2023-12-22T04:46:38.000Z</updated>
+        <summary type="html"><![CDATA[为了让所有人能公平的访问科研文献，预印本平台 arXiv 宣布它开始实验性的提供论文的 HTML 格式。如果 TeX/LaTeX 格式的预印本是在 2023 年 12 月 1 日后递交到 arXiv，它会尝试对其生成 HTML 格式版本。HTML 不会取代 PDF，提交者将被邀请预览论文的 HTML 版本。此举旨在帮助有残疾的科学家，有了 HTML 格式版本，他们可以用屏幕阅读器等工具阅读论文。目前 HTML 转换尚处于实验阶段。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[古有 Infuse，现有 VidHub，要不来试试？]]></title>
+        <id>https://www.appinn.com/?p=47253</id>
+        <link href="https://www.appinn.com/vidhub-video-player/"/>
+        <updated>2023-12-22T03:02:42.000Z</updated>
+        <summary type="html"><![CDATA[如何在 iPhone、iPad、Mac 以及 Apple TV 这些苹果设备上更先进的播放视频，一直困扰着很多同学。 一方面，Infuse 被很多用户念叨：可以播放多种类型的视频，将不同设备上的视频聚]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Usenet 兴衰史]]></title>
         <id>https://www.solidot.org/story?sid=76948</id>
@@ -836,147 +973,6 @@ Success!]]></summary>
         <link href="https://www.solidot.org/story?sid=76879"/>
         <updated>2023-12-13T15:30:14.000Z</updated>
         <summary type="html"><![CDATA[不要被猫咪的可爱外表所迷惑，它们是适应性惊人的职业杀手。美国奥本大学生态学家 Christopher Lepczyk 的团队在《Nature Communications》上发表报告，汇集了百年全球研究证据，识别了逾两千种能被猫咪吃掉的动物，其中 347 种面临灭绝风险，11 种已被列为野外灭绝。自大约 1 万年前在中东驯化以来，猫的足迹遍布全球。为了在如此多的不同环境中生存，它变成了机会主义者。熊猫和考拉等动物只吃特定食物，但猫咪完全不挑食。Lepczyk 最初是出于好奇而收集猫咪吃的食物证据。在两千多种“猫粮”中，鸟类有 981 种，占总数的 47%。爬行动物有 463 种，哺乳动物 431 种，昆虫 119 种，两栖动物 57 种，此外还有蜘蛛和螃蟹等 33 种其它小动物。种种证据显示，流浪猫破坏了本土物种相对孤立演化的生态系统。以澳大利亚为例，自 1788 年欧洲人将其引入以来，它们就对本土物种构成了威胁。2023 年 9 月澳大利亚对野猫宣战，认为猫咪需要对现代史上规模最大的哺乳动物灭绝承担责任。但其他科学家认为这不过是找替罪羊。砍伐森林、集约式农业、城市发展和燃烧化石燃料等人类行为对本土物种的伤害同样巨大。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔、三星和台积电竞争谁率先推出 2 纳米芯片]]></title>
-        <id>https://www.solidot.org/story?sid=76878</id>
-        <link href="https://www.solidot.org/story?sid=76878"/>
-        <updated>2023-12-13T14:15:24.000Z</updated>
-        <summary type="html"><![CDATA[全球最大的三家半导体制造商正在竞争谁第一个量产 2 纳米芯片。台积电被广泛视为能维持该领域的领先地位，但英特尔和台积电将芯片制造的下一次飞跃视为缩小差距的机会。台积电已向苹果和英伟达等大客户展示了其 2 纳米工艺 N2 的原型测试结果。韩国三星则降价提供其 2 纳米工艺原型，以吸引英伟达等大客户的兴趣。昔日的芯片巨人英特尔则计划在明年年底前生产下一代芯片。这一时间表早于台积电。台积电表示 N2 芯片将于 2025 年量产。台积电表示其 N2 工艺研发进展顺利，一旦推出，在晶体管密度和能效上都将领先于市场。在先进芯片的代工市场，台积电占了 66% 的份额，而三星为 25%。三星认为这是缩小差距的一次机会。三星去年率先量产 3 纳米芯片，但良品率低于客户预期，其最简单的 3 纳米芯片的良品率也只有六成。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软想要用核能驱动其 AI 业务]]></title>
-        <id>https://www.solidot.org/story?sid=76877</id>
-        <link href="https://www.solidot.org/story?sid=76877"/>
-        <updated>2023-12-13T13:52:36.000Z</updated>
-        <summary type="html"><![CDATA[AI 模型需要消耗大量电，而微软正在核能上下注，使用核能驱动其 AI 业务。更疯狂的是，据 WSJ 报道，微软过去六个月使用美国核监管和许可文件训练其大语言模型，此举旨在加快批准建造民用核电所需的文书工作，这通常需要数年时间和花费数百万美元。微软和 Google 等科技巨头最近一直在考虑使用小型模块化反应堆（SMR），一种低成本的模块化的核电设计，目前美国尚未有此类中小型反应堆投入运行。SMR 的许可和建造仍然十分昂贵。使用 AI 起草核监管文件似乎不是一个好主意，软件巨人表示它会确保 AI 不会引发核反应堆熔毁，它也不会让 AI 去处理核代码。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乌克兰最大移动运营商遭遇至今最具有破坏性的网络攻击]]></title>
-        <id>https://www.solidot.org/story?sid=76876</id>
-        <link href="https://www.solidot.org/story?sid=76876"/>
-        <updated>2023-12-13T10:20:07.000Z</updated>
-        <summary type="html"><![CDATA[乌克兰最大移动运营商 Kyivstar 遭遇开战至今最大规模的网络攻击，数百万人的移动和互联网服务中断，基辅部分地区的空袭警报系统下线。Kyivstar 有 2430 万移动用户，占到了乌克兰人口总数一半以上，此外还为逾 110 万家庭提供互联网服务。这次攻击被认为源自俄罗斯，Kyivstar CEO Oleksandr Komarov 表示该公司部分 IT 基础设施遭到破坏，他们无法在虚拟层阻止攻击，只能通过物理层限制攻击。他表示两个包含客户数据的数据库被破坏，但用户个人数据没有被入侵。与此同时乌克兰也在对俄罗斯发动网络战，俄罗斯国家税务机构的数千台服务器感染了恶意软件，数据库和备份都被破坏。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canonical 改变了容器管理器项目 LXD 的许可证]]></title>
-        <id>https://www.solidot.org/story?sid=76875</id>
-        <link href="https://www.solidot.org/story?sid=76875"/>
-        <updated>2023-12-13T09:14:28.000Z</updated>
-        <summary type="html"><![CDATA[Canonical 改变了旗下容器管理器项目 LXD 的许可证。在 Canonical 接管 LXD 之后，社区开发者创建了分支 Incus。Canonical 对 LXD 做出了两项改动，其一是将许可证从 Apache2 切换到 AGPLv3，其二是加入  Canonical CLA 作为所有贡献的要求。Canonical 员工向 LXD 项目贡献的代码将全部使用 AGPLv3 授权。Canonical 此举无疑会影响到仍使用 Apache2 授权的分支 Incus，如果它合并了来自 LXD 的新变动，将变成混合 Apache2 和 AGPLv3 授权代码的项目。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宝宝起名软件 – 宝爸开发者用 AI「训练」几十万古诗词，做了一款宝宝起名应用[iPhone]]]></title>
-        <id>https://www.appinn.com/?p=47189</id>
-        <link href="https://www.appinn.com/baobao-qiming/"/>
-        <updated>2023-12-13T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[宝宝起名软件是一款用 AI 训练了几十万古诗词之后，开发的宝宝起名应用，它可以结合诗词意境、父母名字组合、特别的信息、寄托希望等几个方面，来生成宝宝名字，免费无内购。@Appinn 来自发现频道，开发]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix 首次公布其平台上所有影视剧的观影数据]]></title>
-        <id>https://www.solidot.org/story?sid=76874</id>
-        <link href="https://www.solidot.org/story?sid=76874"/>
-        <updated>2023-12-13T07:58:35.000Z</updated>
-        <summary type="html"><![CDATA[流媒体巨头 Netflix 首次公布了其平台今年上半年 18,214 部影视剧的观影数据：《The Night Agent》是上半年累积观影时长最多的，达到 8.121 亿小时；《Ginny & Georgia》第二季第二累积 6.651 亿小时；韩剧《The Glory》第三累积 6.228 亿小时；去年底上线的《星期三（Wednesday）》仍然高达 5.077 亿小时位居第四。Netflix 透露其原创影视剧和授权影视剧的观影时长比例为 55% 对 45%。今年 6 月上线的 Meghan Markle 主演的法律剧《金装律师 Suits》观影时长为 5.99 亿小时。Netflix 大约五分之一的
-影视剧观看次数很少。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只听数字，英文听力练习｜听力数字专练]]></title>
-        <id>https://www.appinn.com/?p=47184</id>
-        <link href="https://www.appinn.com/listen-to-numbers-in-english/"/>
-        <updated>2023-12-13T07:17:23.000Z</updated>
-        <summary type="html"><![CDATA[听力数字专练是一个专门练习英文听力的网站，但它只练习数字，包括数字、日期、时间、电话号码等不同数字类型的内容，在经过大量的练习之后，让你对英文数字也有肌肉记忆。另外还支持中文（包括粤语）练习。@App]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《体育画报》CEO 因 AI 文章丑闻被解雇]]></title>
-        <id>https://www.solidot.org/story?sid=76873</id>
-        <link href="https://www.solidot.org/story?sid=76873"/>
-        <updated>2023-12-13T07:04:49.000Z</updated>
-        <summary type="html"><![CDATA[《体育画报》上个月被发现发表了一篇由虚假作者署名的 AI 生成文章。虽然文章很快被撤下，但这不足以平息批评。本周《体育画报》出版商 The Arena Group 宣布董事会解雇了 CEO Ross Levinsohn。Levinsohn 自 2019 年起担任 The Arena Group CEO，此前是《洛杉矶时报》的发行人。对于 AI 文章，《体育画报》此前辩解称这篇产品评论来自第三方内容合作方 AdVon Commerce。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FFmpeg 准备加入 CLI 多线程支持]]></title>
-        <id>https://www.solidot.org/story?sid=76872</id>
-        <link href="https://www.solidot.org/story?sid=76872"/>
-        <updated>2023-12-13T06:43:25.000Z</updated>
-        <summary type="html"><![CDATA[在多核世界里，广泛使用的开源多媒体框架 FFmpeg 准备好支持多线程了。FFmpeg 7.0 将在明年初发布，它的  CLI 多线程转码管线已经合并到了 FFmpeg Git。开发者表示，项目始于 2021 年底，几乎每一行代码都受到影响，这项工作是数十年来 FFmpeg CLI 最复杂的重构之一。开发者呼吁多多测试和报告反馈。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欢迎来到无广告互联网]]></title>
-        <id>https://www.solidot.org/story?sid=76871</id>
-        <link href="https://www.solidot.org/story?sid=76871"/>
-        <updated>2023-12-13T06:24:14.000Z</updated>
-        <summary type="html"><![CDATA[互联网曾以免费闻名，但代价是用户被跟踪被精准广告包围。如今有钱的人有机会逃离这一切。Facebook 和 Instagram 上个月向欧洲用户提供无广告的订阅服务，每月 9.99 欧元。X/Twitter 在 10 月提供了无广告订阅服务。TikTok 也在测试无广告订阅。Snapchat 也在做类似的尝试。除了社交媒体，从视频和音频到新闻和游戏，监管和技术变革正鼓励媒体公司提供替代方案。“我们生活在一个愈来愈可能避免广告的世界。”牛津大学路透社研究所的数据显示，2014 年只有 5% 的成年人付费订阅在线新闻网站，今年这一比例提高到了 13%。同一期间，广告支持的广播逐渐被流媒体平台如 Spotify 的串流音乐和播客服务所取代，Spotify 的 5.75 亿用户中有四成每月支付 10.99 美元收听无广告节目。电视广告同样面临来自视频订阅服务的冲击。曾依赖广告的手游也逐渐转向内购和订阅。欧盟等地区的监管规定限制 18 岁以下的青少年接触广告，Snapchat 和 Meta 都逐渐让欧洲的青少年访问无广告的社交服务。广告商也在应对这一变化，它们增加了户外广告的投放，通过招募网红推销产品。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware 拥抱订阅模式]]></title>
-        <id>https://www.solidot.org/story?sid=76870</id>
-        <link href="https://www.solidot.org/story?sid=76870"/>
-        <updated>2023-12-13T05:08:43.000Z</updated>
-        <summary type="html"><![CDATA[被 Broadcom 收购的 VMware 公司宣布全面拥抱订阅模式，即日起停止永久许可证销售，客户可以继续使用具有有效合同的永久许可证产品，Broadcom 将与客户合作通过“trade in（以旧换新）”将永久许可证产品换到新订阅产品。VMware 称，其旗舰企业级混合云解决方案 VMware Cloud Foundation 订阅价降低一半，推出新的面向中小企业的产品 VMware vSphere Foundation。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E3 游戏展宣告死亡]]></title>
-        <id>https://www.solidot.org/story?sid=76869</id>
-        <link href="https://www.solidot.org/story?sid=76869"/>
-        <updated>2023-12-13T04:53:10.000Z</updated>
-        <summary type="html"><![CDATA[游戏行业最大的展会 E3 游戏展宣告死亡。主办方、非盈利游戏商会 Entertainment Software Association (ESA) 正式宣布了这一消息。E3 创办于 1995 年，很长时间里是玩家最受期待的游戏展会，但过去几年因新竞争对手的出现、游戏行业主要巨头的退出、观众习惯的改变，以及新冠疫情的干扰，这些因素共同导致了 E3 的死亡。2011 年任天堂通过其 Direct 直面会开始以视频方式宣布新游戏和产品，索尼 PS 在 2018 年退出，引发了多米诺骨牌效应。E3 最后一次举办现场展会是在新冠前的 2019 年。疫情促使更多游戏公司以在线视频方式展示游戏。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国企业增加在越南的投资]]></title>
-        <id>https://www.solidot.org/story?sid=76868</id>
-        <link href="https://www.solidot.org/story?sid=76868"/>
-        <updated>2023-12-12T15:02:57.000Z</updated>
-        <summary type="html"><![CDATA[中国企业正加快在越南构建供应链。来自中国的直接投资过去 11 个月增至上年同期的约 2 倍，达到 83 亿美元。比亚迪在越南投资突破 4 亿美元，天合光能投资 4.2 亿美元。这一趋势的背景是美国对中国的出口限制，以及苹果等公司的供应链转移。摩根大通认为，到 2025 年 iPad 和 Apple Watch 的约 20%、无线耳机AirPods 的约 65% 将在越南生产。负责 AirPods 代工的立讯精密工业已决定在越南北部北江省追加投资 3.3 亿美元，共雇用了 2 万多名工人。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 年 Google 搜索最多的新闻是巴以冲突]]></title>
-        <id>https://www.solidot.org/story?sid=76867</id>
-        <link href="https://www.solidot.org/story?sid=76867"/>
-        <updated>2023-12-12T14:55:06.000Z</updated>
-        <summary type="html"><![CDATA[Google 公布的 2023 年度热搜榜显示，搜索最多的是新闻以色列和加沙战争，泰坦号潜水器内爆事故第二，之后是土耳其地震和两场飓风。搜索最多的名人是美国橄榄球明星 Damar Hamlin，搜索最多的已故名人是《老友记》主演 Matthew Perry，搜索最多的游戏则是《《霍格沃茨之遗》、《The Last of Us》和《Connections》，电影则是《芭比》、《奥本海默》以及印度的《Jawan》。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
