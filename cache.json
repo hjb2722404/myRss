@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47279",
+          "author": "青小蛙",
+          "description": "Mainonly 是一款浏览器小书签，只有一个功能：按下小书签后出现网页选区，然后仅显示被选中区域内容，非常适合使用《沉浸式翻译》时，单独翻译某个区域内容。@Appinn 来自发现频道，@jerryl",
+          "link": "https://www.appinn.com/selected-mainonly/",
+          "publishedOn": "2023-12-24T02:52:34.000Z",
+          "wordCount": 2887,
+          "title": "Mainonly – 小书签：只显示网页上选中的区域，适合使用《沉浸式翻译》",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-6.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47276",
           "author": "青小蛙",
           "description": "即将过去的 2023 年，是不断崛起的一年。众多国产商品的推出，让大家感受到了国货的魅力与品质。 不只是大宗商品，软件届的国货也同样出色。我们的朋友数码荔枝，为了让更多用户体验国产软件的风采，带来了正",
@@ -120,26 +130,6 @@
           "wordCount": 2563,
           "title": "图片对比 – 横向或纵向对比两张照片[Windows]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-16T190328.059.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47208",
-          "author": "青小蛙",
-          "description": "WeChatMsg 是一款适合于 Windows 的微信聊天记录导出工具，傻瓜式操作，目前已支持导出文本、图片、视频、表情包、语音聊天，并且可导出为 HTML、Docx、csv、TXT 文件，帮你保留",
-          "link": "https://www.appinn.com/wechatmsg/",
-          "publishedOn": "2023-12-15T07:00:22.000Z",
-          "wordCount": 2579,
-          "title": "WeChatMsg 留痕 – 支持语音聊天，微信聊天记录导出工具[Windows]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-15T141046.382.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47203",
-          "author": "青小蛙",
-          "description": "OMP 是一款适用于现代浏览器的开源 OneDrive 网盘文件媒体播放器，可直接在网页上播放存储于 OneDrive 里的视频、图片、音乐，支持自托管。@Appinn 来自发现频道，开发者 @22P",
-          "link": "https://www.appinn.com/onedrive-media-player-on-the-web/",
-          "publishedOn": "2023-12-15T02:37:02.000Z",
-          "wordCount": 2558,
-          "title": "OMP – 可自托管的开源 OneDrive 媒体播放器[Web]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-15T102506.623.jpg"
         }
       ]
     },
@@ -170,13 +160,54 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11077",
+          "author": "张 鑫旭",
+          "description": "其实使用Web Audio API就能从视频中提取音频文件了，本文有演示页面，有实现代码，有详细讲解，值得一看。",
+          "link": "https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/",
+          "publishedOn": "2023-12-24T13:47:59.000Z",
+          "wordCount": 1137,
+          "title": "使用JS提取视频中的音频资源",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=76966",
+          "author": null,
+          "description": "发表在《Nature Human Behaviour》期刊上的一项研究显示，74 种早期疾病与终生不生育的可能性之间存在显著关联，其中 33 种疾病男女共享。在部分西欧和东亚国家，1970 年左右出生的人有最多 15-20% 没有孩子。全球不育现象是很多因素推动的，推迟生育是其中一个主要因素。研究人员主要探讨了疾病与低生育率和不生育之间的关联。他们分析了已完成生育年龄的 110 万男性和 140 万女性——其中女性定义为 45 岁，男性为 50 岁。其中男性有四分之一没有孩子，而女性是 16.6%。33 种男女共享疾病大部分是精神行为障碍，被诊断患有肥胖症的女性有较高的无子女比例。",
+          "link": "https://www.solidot.org/story?sid=76966",
+          "publishedOn": "2023-12-24T14:17:02.000Z",
+          "wordCount": 176,
+          "title": "早期疾病与终生不生育存在关联",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76965",
+          "author": null,
+          "description": "美国网络安全官员警告称，主要关键基础设施提供商在防御网络安全上面做的相当马虎。来自伊朗和中国的黑客入侵了多个州的水务和能源公用事业公司。虽然对基础设施的攻击尚未引发服务中断等事故。官员表示加强网络访问有时候很简单，不要使用默认密码。举例来说，部分接入到开放网络的设备使用了默认密码 1111，很容易被黑客发现并入侵。官员表示，解决该问题不需要花任何钱。安全专家 Andy Thompson 指出，美国部分基础设施优先考虑的是易操作性而不是安全性，他认为不让关键基础设施能容易通过互联网访问应该成为标准做法。",
+          "link": "https://www.solidot.org/story?sid=76965",
+          "publishedOn": "2023-12-24T12:21:26.000Z",
+          "wordCount": 164,
+          "title": "美国基础设施供应商使用了默认密码如 1111",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=76964",
+          "author": null,
+          "description": "根据 PNAS 期刊上的一项研究，爱与父母聊天的孩子更健谈，与社会阶层等因素关系不大。研究人员获得了 1001 名儿童 2865 天的记录，儿童的年龄从 2-4 岁，大部分来自英语家庭，还有部分来自荷兰语、西班牙语、越南语、芬兰语、巴布亚新几内亚 Yélî Dnye、塞内加尔 Wolof 和玻利维亚 Tsimané 语言家庭。他们发现，当孩子周围的成人更健谈，孩子也会说得更多，在早期拥有更多的词汇量。平均而言，儿童每多听到 100 次成人声音，每小时会多说 27 次话。他们发出的声音量与其词汇量紧密相关。用于衡量阶层的母亲教育水平与儿童说话能力没有关联。研究人员没有发现任何证据显示教育程度低的父母与儿童说话较少。",
+          "link": "https://www.solidot.org/story?sid=76964",
+          "publishedOn": "2023-12-24T11:52:33.000Z",
+          "wordCount": 174,
+          "title": "爱与父母聊天的孩子更健谈",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=76963",
           "author": null,
@@ -826,96 +857,6 @@
           "wordCount": 202,
           "title": "Stability AI 发布单幅图像生成 3D 对象的 Stable Zero123",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76897",
-          "author": null,
-          "description": "Google Groups 从 2024 年 2 月 22 日起终止支持新闻组（Usenet）。Usenet 用户将无法再使用 Google Groups 在 Usenet 里发表内容、订阅或查看新的 Usenet 内容，但可以继续查看和搜索之前的内容。Google 的 Network News Transfer Protocol (NNTP) 和相应的对等操作将不再可用。Google 表示，Usenet 用户将需要寻找新的客户端和公共服务器。Usenet 始于 1980 年，比万维网的历史更长。Google 称，Usenet 的活跃度已经显著下降，充斥着垃圾信息。",
-          "link": "https://www.solidot.org/story?sid=76897",
-          "publishedOn": "2023-12-15T14:11:05.000Z",
-          "wordCount": 194,
-          "title": "Google Groups 明年终止支持新闻组（Usenet）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76895",
-          "author": null,
-          "description": "A24 工作室和小岛工作室宣布联合制作《死亡搁浅》的真人版。《死亡搁浅》是小岛秀夫离开科乐美之后推出的首款游戏作品，电影版将探索被称为“死亡搁浅”的末日事件的未解之迷，死亡搁浅事件模糊了生与死的界限，将噩梦般的生物引入到一个濒临崩溃的世界。小岛秀夫表示，A24 诞生于约十年前，它以制作高质量的独立电影著称，他本人也深受这些作品的影响。他表示《死亡搁浅》真人版不是直接翻拍自游戏，目标观众不只是游戏粉丝，而是适合所有人，将打造一个前所未见的《死亡搁浅》宇宙。",
-          "link": "https://www.solidot.org/story?sid=76895",
-          "publishedOn": "2023-12-15T12:50:09.000Z",
-          "wordCount": 162,
-          "title": "A24 和小岛工作室制作《死亡搁浅》真人版",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76894",
-          "author": null,
-          "description": "亚马逊在今年 10 月发射了它的首批宽带卫星原型，它表示将使用太空激光器以在大洋中央确保可靠的宽带覆盖。这项技术将让卫星能向邮轮传输数据，即使卫星不处于亚马逊地面站的连接范围内。卫星能将请求发送到另一颗处于连接范围内的卫星。亚马逊表示它已经成功测试了被称为激光星际链路的技术。亚马逊 Kuiper 宽带卫星项目负责人 Rajeev Badyal 称，在大洋中央，即使能够安装卫星地面站，也是十分困难的。SpaceX 的 StarLink   卫星的早期版本不支持该技术，但过去两年发射的版本都支持。",
-          "link": "https://www.solidot.org/story?sid=76894",
-          "publishedOn": "2023-12-15T12:33:30.000Z",
-          "wordCount": 166,
-          "title": "亚马逊宽带卫星用太空激光器传输数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76893",
-          "author": null,
-          "description": "提供硬件和软件钱包的 Ledger 公司遭遇了供应链攻击。它的一名前员工首先遭到了钓鱼攻击，黑客因此能访问到这名员工的 NPMJS 账号，然后发布了恶意版本的 Ledger Connect Kit——该库被其它公司和项目开发的 dApps（去中心化应用）用于连接 Ledger 的钱包服务。恶意版 Ledger Connect Kit 嵌入的恶意代码会将用户的加密货币转移到黑客控制的钱包。这次供应链攻击被 Ledger 很快监测到并迅速修复。恶意版本存活了大约 5 个小时。Ledger 发言人表示正在帮助受影响的用户。",
-          "link": "https://www.solidot.org/story?sid=76893",
-          "publishedOn": "2023-12-15T07:42:42.000Z",
-          "wordCount": 183,
-          "title": "加密钱包 Ledger 遭供应链攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76892",
-          "author": null,
-          "description": "担心 AI 聊天机器人会帮助学生作弊？斯坦福大学的一项调查显示，AI 聊天机器人的普及并没有增加学校的总体作弊率，也就是统计上并不显著。研究人员调查了美国逾 40 所高中， 60- 70% 的学生表示最近有过作弊行为。这一比例与往年相近。斯坦福大学的 Denise Pope 表示，人们担心 AI 模型会带来全新形式的作弊，但数据并没有体现这一变化。研究结果挑战了 AI 聊天机器人正颠覆公立学校的观点。",
-          "link": "https://www.solidot.org/story?sid=76892",
-          "publishedOn": "2023-12-15T07:05:45.000Z",
-          "wordCount": 179,
-          "title": "研究发现 AI 聊天机器人并没有增加学校的总体作弊率",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76891",
-          "author": null,
-          "description": "太阳于 12 月 14 日 1702 GMT 释放出一个 X2.8 级耀斑（X 级是最高强度的耀斑），这是 2017 年 9 月以来太阳释放的强度最高的耀斑。强耀斑通常会伴随着日冕物质抛射，直接喷向地球方向的日冕物质抛射通常会产生强地磁风暴。本月初地磁场在多个 M 级耀斑（次于 X 级）喷发的日冕物质抛射冲击后产生了 G3 级强地磁风暴。据 Spaceweather 报道，最新的 X2.8 级耀斑没有直接瞄准地球，但会有部分会擦过地球，时间是在 12 月 17 日。",
-          "link": "https://www.solidot.org/story?sid=76891",
-          "publishedOn": "2023-12-15T05:47:53.000Z",
-          "wordCount": 193,
-          "title": "太阳释放出一个 X2.8 级耀斑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76890",
-          "author": null,
-          "description": "Google DeepMind 的研究人员在《自然》期刊上发表论文，报告他们首次用大模型（LLM）发现了一个尚未解决的数学问题的解。Google DeepMind 的新工具被称为“FunSearch”，研究人员将一组产生创造性解决方案的 LLM 和一个作为检查者以避免错误建议的评估程序结合起来。接着将一个多次迭代此过程的演化方法，作为输入来引导 LLM。结果表明，这种方法可以得到新的、可验证的正确结果。他们将“FunSearch”应用到了著名的上限集问题（数学中涉及计数和排列领域的一个中心问题），发现了超越最著名上限集的大上限集新构造。研究人员表示，“FunSearch”的成功关键是它会寻找那些描述怎样解决问题的程序，而非直接寻找解决办法。因为“FunSearch”的结果易于被解释和验证，这意味着这一方法有望激发科学家在该领域的进一步思考。",
-          "link": "https://www.solidot.org/story?sid=76890",
-          "publishedOn": "2023-12-15T04:38:30.000Z",
-          "wordCount": 172,
-          "title": "Google DeepMind 用大模型解决尚未解决的数学问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76889",
-          "author": null,
-          "description": "AMD 在 MIT 许可证下开源了 FSR（FidelityFX Super Resolution）3，与英伟达 DLSS 竞争的上采样技术，但与 DLSS 不同的是，它不依赖私有的 CUDA 核心，而是基于软件。FSR 3 组合了上采样和帧生成，它目前只支持 DirectX 12，对 Vulkan 的支持还在开发中，会在未来版本中发布。AMD 是在 9 月底发布了 FSR 3，当时只有《Forspoken》和《Immortals of Aveum》两款游戏支持，未来会有更多游戏支持，包括游戏科学的《黑神话：悟空》。",
-          "link": "https://www.solidot.org/story?sid=76889",
-          "publishedOn": "2023-12-15T04:11:51.000Z",
-          "wordCount": 195,
-          "title": "AMD 开源 FSR 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76888",
-          "author": null,
-          "description": "柏林自由大学考古学家领导的一个国际团队，在西伯利亚一个偏远地区发现了有复杂防御结构的定居点，距今有八千年历史。这一发现挑战了一个传统观念：人类是在农业出现之后才开始建造永久定居点。而西伯利亚的定居点是由狩猎采集群体建造的。考古学家在西伯利亚 Amnya 发现了 10 个石器时代的防御遗址，其中的穴居用土墙和木栅栏围住。防御工事建在具有战略意义的地点，推翻了狩猎采集社会不存在竞争和冲突的假设。",
-          "link": "https://www.solidot.org/story?sid=76888",
-          "publishedOn": "2023-12-14T14:29:39.000Z",
-          "wordCount": 160,
-          "title": "考古学家发现距今八千年的要塞",
-          "imageUrl": null
         }
       ]
     },
@@ -985,6 +926,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/happy-holidays-2023",
+          "author": null,
+          "description": "I and my team at Browserling is wishing everyone warm and happy holidays!\nThanks for reading my blog and see you in 2024!",
+          "link": "https://catonmat.net/happy-holidays-2023",
+          "publishedOn": "2023-12-24T20:55:00.000Z",
+          "wordCount": 165,
+          "title": "Happy Holidays!",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/40-new-image-tools",
           "author": null,
