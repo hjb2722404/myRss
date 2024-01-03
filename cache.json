@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47344",
+          "author": "青小蛙",
+          "description": "Stitch Photos 是一款支持横向、纵向自动拼接图片的 Android 工具，适合于聊天截图拼接、全景照片拼接。另外支持微调，比如剪裁掉图片边缘的滚动条。目前正在 Play 限免，原价 1.9",
+          "link": "https://www.appinn.com/stitch-photos/",
+          "publishedOn": "2024-01-02T07:48:03.000Z",
+          "wordCount": 2604,
+          "title": "Stitch Photos – 长截图自动拼接工具｜全景照片自动拼接工具[Android 限免]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-17.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47329",
           "author": "青小蛙",
           "description": "Qwerty Learner 是一款「为键盘工作者设计的单词与肌肉记忆锻炼软件」，通过内置的英语、日语、德语单词库，以及 Phthon、C++、AI、Go、Java 等 9 种编程语言常用词汇，练习打",
@@ -110,16 +120,6 @@
           "wordCount": 2567,
           "title": "搜索酱 Chrome/Firefox 插件版- 右键搜索/划词搜索/拖拽搜索/模拟点击/页内高亮",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-7.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47279",
-          "author": "青小蛙",
-          "description": "Mainonly 是一款浏览器小书签，只有一个功能：按下小书签后出现网页选区，然后仅显示被选中区域内容，非常适合使用《沉浸式翻译》时，单独翻译某个区域内容。@Appinn 来自发现频道，@jerryl",
-          "link": "https://www.appinn.com/selected-mainonly/",
-          "publishedOn": "2023-12-24T02:52:34.000Z",
-          "wordCount": 2887,
-          "title": "Mainonly – 小书签：只显示网页上选中的区域，适合使用《沉浸式翻译》",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-6.jpg"
         }
       ]
     },
@@ -170,16 +170,6 @@
           "wordCount": 983,
           "title": "JS实现图片相似度的判断",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11077",
-          "author": "张 鑫旭",
-          "description": "其实使用Web Audio API就能从视频中提取音频文件了，本文有演示页面，有实现代码，有详细讲解，值得一看。",
-          "link": "https://www.zhangxinxu.com/wordpress/2023/12/js-fetch-video-audio-mp3-mp4-wav/",
-          "publishedOn": "2023-12-24T13:47:59.000Z",
-          "wordCount": 1137,
-          "title": "使用JS提取视频中的音频资源",
-          "imageUrl": null
         }
       ]
     },
@@ -188,6 +178,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77031",
+          "author": null,
+          "description": "桌面排版应用 Scribus 释出了新稳定版本 v1.6，它将取代 v1.4.8 和 v1.5.x 系列的开发版本。该版本经历了数年时间的开发，包含了数以千计的增强和 bug 修复，其中最瞩目的变化包括：用户界面全面翻新、新的脚本命令、大量改进了排版，用于图形资产管理的新图形浏览器、支持更多渐变类型，等等。",
+          "link": "https://www.solidot.org/story?sid=77031",
+          "publishedOn": "2024-01-02T14:09:17.000Z",
+          "wordCount": 173,
+          "title": "Scribus 1.6.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77030",
+          "author": null,
+          "description": "澎湃报道，应美国政府要求，荷兰光刻机巨头阿斯麦（ASML）取消了两款深紫外（DUV）光刻机出口中国。ASML 目前最先进的光刻机是极紫外 (EUV) 光刻机，台积电和三星等公司使用 EUV 制造 7 纳米或更先进芯片。但中芯国际去年量产了华为的 7 纳米芯片麒麟 9000S，使用的就是 DUV 光刻机。美国显然在进一步限制中国获取  DUV 光刻机。中国外交部发言人汪文斌在新闻发布会上表示，中方一贯反对美国泛化国家安全概念，以各种借口胁迫其他国家搞对华科技封锁。",
+          "link": "https://www.solidot.org/story?sid=77030",
+          "publishedOn": "2024-01-02T13:42:51.000Z",
+          "wordCount": 170,
+          "title": "荷兰限制向中国出口深紫外光刻机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77029",
+          "author": null,
+          "description": "30 年前，荷兰程序员 Ton Roosendaal 使用假期重写了动画工作室 NeoGeo 内部使用的 3D 软件。1994 年 1 月 2 日，Blender 发布了首个版本。30 年后 Blender 已经是最成功的开源 3D 图形设计软件。Blender 最初是作为共享软件发布的，在 NeoGeo 被收购以及后来创办的 Not a Number Technologies（NaN）公司破产之后，Roosendaal 成立了非盈利的 Blender 基金会，筹集资金将 Blender 作为开源项目继续开发和维护。",
+          "link": "https://www.solidot.org/story?sid=77029",
+          "publishedOn": "2024-01-02T12:37:52.000Z",
+          "wordCount": 192,
+          "title": "Blender 诞生三十周年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77028",
+          "author": null,
+          "description": "过去一年是 AI 聊天机器人 ChatGPT 从震惊世界到平凡的一年。人们从最初的吃惊到逐渐认识到 AI 其实很蠢，当然不是 NFT 猿猴头像或扎克伯格元宇宙办公隔间那种蠢。ChatGPT 和 MidJourney 为代表的生成式 AI 既聪明又愚蠢，既能为我们提供帮助，也能为我们带来麻烦。比如给律师提供它自创的案例，给学生列出不存在的参考论文。问题是生成式 AI 的技术进步是否能继续下去？是逐渐变成类似科幻电影中刻画的真正的智能助手，还是停滞不前？就像自主驾驶汽车一样。厂商多年就宣称真正的自主驾驶即将到来。然而一直没有到来。生成式 AI 是否也可能出现类似的情况？如果微软 Google 等主要投资者停止补贴 AI，对大多人而言使用 AI 是否会变得过于昂贵而不值得？AI 生成的内容是否真的有人会喜欢，还是它只是浪费我们的时间？",
+          "link": "https://www.solidot.org/story?sid=77028",
+          "publishedOn": "2024-01-02T11:41:13.000Z",
+          "wordCount": 184,
+          "title": "AI 是否在浪费每一个人的时间？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77027",
+          "author": null,
+          "description": "尼康、索尼和佳能正在开发在相机拍摄的照片中嵌入数字签名的技术，以区分日益复杂的 AI 图片。防篡改数字签名将包括日期、时间、地点和摄影师等信息。AI 图片日益逼真，考验着内容制作者和用户的判断力。由全球新闻媒体、科技公司和照相机制造商组成的联盟发布了被称为 Verify 的 Web 工具，免费检查图片来源。如果图片有数字签名，Verify 将显示日期、位置等有效凭证；如果图片是 AI 创造或纂改，它会显示无内容凭证。尼康、索尼和佳能等日本照相机制造商占据着全球相机市场约九成份额。",
+          "link": "https://www.solidot.org/story?sid=77027",
+          "publishedOn": "2024-01-02T09:33:04.000Z",
+          "wordCount": 174,
+          "title": "尼康、索尼和佳能用相机数字签名对抗 AI 作假",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77026",
+          "author": null,
+          "description": "从 2024 年 1 月 1 日起，Steam 正式停止支持 Windows 7、Windows 8 和 Windows 8.1 操作系统。此后这些操作系统上的 Steam 客户端将不再能收到任何更新，包括安全相关的更新。Valve 督促用户升级到较新版本的 Windows，称 Steam 的核心功能依赖于内嵌版本的 Google Chrome，该版本已不可在旧版的 Windows 上运行。 而微软分别于 2020 年 1 月和 2023 年 1 月结束了对 Windows 7 和 Windows 8.1 的安全更新和技术支持。继续运行旧版操作系统存在安全风险，新发现的洞不会被修补，恶意软件会导致电脑、Steam 和游戏性能低下或崩溃，甚至可能窃取 Steam 帐户或其他服务的凭据。根据 Steam 的统计数据，Windows 10 和 11 占到了 95.57% 的市场份额，Linux 1.97%，Mac 1.63%，Windows 7、Windows 8 和 8.1 约占 0.9%。根据 Valve 公布的截至 2021 年的数据，Steam 月活跃用户 1.32 亿，意味着运行这些旧版本操作系统的用户仍然逾百万之多。",
+          "link": "https://www.solidot.org/story?sid=77026",
+          "publishedOn": "2024-01-02T08:35:14.000Z",
+          "wordCount": 250,
+          "title": "Steam 停止支持 Windows 7、Windows 8 和 8.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77025",
+          "author": null,
+          "description": "Gentoo Linux 是著名的滚动更新发行版，它主要以源代码形式提供软件包，用户需要在自己的计算机上重新编译构建。但从源代码编译所有东西是很耗费时间的，尤其是如果计算机配置比较低比较陈旧的话。为了方便用户让工作更轻松，Gentoo Linux 宣布提供二进制安装选项，大多数架构仅限于核心系统和每周更新，amd64 和 arm64 架构除外。",
+          "link": "https://www.solidot.org/story?sid=77025",
+          "publishedOn": "2024-01-02T07:33:40.000Z",
+          "wordCount": 172,
+          "title": "Gentoo 提供二进制安装选项",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77024",
+          "author": null,
+          "description": "日本总务省公布的人口估算显示，2005 年出生的新成人（18 岁）为 106 万人，比 2023 年减少 6 万人，创历史新低。反映每名女性一生生育子女人数的“合计特殊出生率”在 2005 年为 1.26，与 2022 年同为历史最低，人口估算再次凸显少子化问题。龙年出生的人口为 1005 万人。新增成年人占总人口的比例为 0.86%，其中男性 55 万人，女性 52 万人。龙年出生的男性有 488 万，女性有 517 万。",
+          "link": "https://www.solidot.org/story?sid=77024",
+          "publishedOn": "2024-01-02T06:22:29.000Z",
+          "wordCount": 197,
+          "title": "日本 18 岁人口数 106 万创新低",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77023",
+          "author": null,
+          "description": "太阳于 2023 年 12 月 31 日 2155 UTC(北京时间 1 月 1 日 5 时 55 分)释放出一个 X5 级耀斑（X 级是最高强度的耀斑），这是第 25 太阳周期产生的最强耀斑，也是 2017 年 9 月 X8.2 级耀斑以来的最强耀斑。产生耀斑的区域与 12 月 14 日释放的 X2.8 级耀斑区域相同。强耀斑通常会伴随着日冕物质抛射，直接喷向地球方向的日冕物质抛射通常会产生强地磁风暴。据 Spaceweather 报道，最新的 X5 级耀斑没有直接瞄准地球，但会掠过地球，预计产生 G1 级强地磁风暴，时间是在 1 月 2 日。",
+          "link": "https://www.solidot.org/story?sid=77023",
+          "publishedOn": "2024-01-02T06:03:15.000Z",
+          "wordCount": 204,
+          "title": "X5 级耀斑喷出的日冕物质抛射今天掠过地球",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77022",
+          "author": null,
+          "description": "美国研究人员正在联邦基金的支持下开发一种高效的细菌治疗方法，更精确地针对癌症，使治疗更安全，只需一剂 1 美元。传统上，癌症疗法对患者的疗效有限且价格不菲。美国癌症协会癌症行动网络的调查结果显示，73% 的癌症幸存者和患者担心如何支付癌症治疗的费用，51% 的人表示他们因治疗而欠下医疗债务。最先进的癌症治疗费用高达 100 万美元。德州农工大学和密苏里大学正在开发一种低成本、安全、可控的癌症治疗方法。其中德州农工研究人员正开发用于肿瘤环境中免疫定向杀伤的合成可编程细菌(SPIKEs)。这个想法是设计细菌来帮助 T 细胞杀死癌变组织，一旦癌细胞消失就自我毁灭，然后作为人体废物安全地离开身体。这种细菌将被改造成一个受体，以确保一旦癌症消失，病人可以服用抗生素，这些抗生素会向细菌发出信号，让它把自己切成碎片，安全地从病人体内移除。",
+          "link": "https://www.solidot.org/story?sid=77022",
+          "publishedOn": "2024-01-02T05:28:10.000Z",
+          "wordCount": 169,
+          "title": "1 美元癌症疗法",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77021",
           "author": null,
@@ -727,36 +817,6 @@
           "wordCount": 191,
           "title": "GTA 5 源代码泄露",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76966",
-          "author": null,
-          "description": "发表在《Nature Human Behaviour》期刊上的一项研究显示，74 种早期疾病与终生不生育的可能性之间存在显著关联，其中 33 种疾病男女共享。在部分西欧和东亚国家，1970 年左右出生的人有最多 15-20% 没有孩子。全球不育现象是很多因素推动的，推迟生育是其中一个主要因素。研究人员主要探讨了疾病与低生育率和不生育之间的关联。他们分析了已完成生育年龄的 110 万男性和 140 万女性——其中女性定义为 45 岁，男性为 50 岁。其中男性有四分之一没有孩子，而女性是 16.6%。33 种男女共享疾病大部分是精神行为障碍，被诊断患有肥胖症的女性有较高的无子女比例。",
-          "link": "https://www.solidot.org/story?sid=76966",
-          "publishedOn": "2023-12-24T14:17:02.000Z",
-          "wordCount": 176,
-          "title": "早期疾病与终生不生育存在关联",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76965",
-          "author": null,
-          "description": "美国网络安全官员警告称，主要关键基础设施提供商在防御网络安全上面做的相当马虎。来自伊朗和中国的黑客入侵了多个州的水务和能源公用事业公司。虽然对基础设施的攻击尚未引发服务中断等事故。官员表示加强网络访问有时候很简单，不要使用默认密码。举例来说，部分接入到开放网络的设备使用了默认密码 1111，很容易被黑客发现并入侵。官员表示，解决该问题不需要花任何钱。安全专家 Andy Thompson 指出，美国部分基础设施优先考虑的是易操作性而不是安全性，他认为不让关键基础设施能容易通过互联网访问应该成为标准做法。",
-          "link": "https://www.solidot.org/story?sid=76965",
-          "publishedOn": "2023-12-24T12:21:26.000Z",
-          "wordCount": 164,
-          "title": "美国基础设施供应商使用了默认密码如 1111",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=76964",
-          "author": null,
-          "description": "根据 PNAS 期刊上的一项研究，爱与父母聊天的孩子更健谈，与社会阶层等因素关系不大。研究人员获得了 1001 名儿童 2865 天的记录，儿童的年龄从 2-4 岁，大部分来自英语家庭，还有部分来自荷兰语、西班牙语、越南语、芬兰语、巴布亚新几内亚 Yélî Dnye、塞内加尔 Wolof 和玻利维亚 Tsimané 语言家庭。他们发现，当孩子周围的成人更健谈，孩子也会说得更多，在早期拥有更多的词汇量。平均而言，儿童每多听到 100 次成人声音，每小时会多说 27 次话。他们发出的声音量与其词汇量紧密相关。用于衡量阶层的母亲教育水平与儿童说话能力没有关联。研究人员没有发现任何证据显示教育程度低的父母与儿童说话较少。",
-          "link": "https://www.solidot.org/story?sid=76964",
-          "publishedOn": "2023-12-24T11:52:33.000Z",
-          "wordCount": 174,
-          "title": "爱与父母聊天的孩子更健谈",
-          "imageUrl": null
         }
       ]
     },
@@ -827,6 +887,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/30-new-image-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 40 new image tools and today we just added another 30 new tools to our Image Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new image tools:\nFind Image Color Palette\nFind Top Colors in an Image\nCreate an Image with One Color\nConvert Image to Web Safe Colors\nConvert Image to Binary Art\nCreate a Black and White Image\nCreate a Two-color Image\nChange Image Base Color\nRemove Chroma Key from Image\nRemove Green Screen from Image\nRemove Specific Color from Image\nExtract Object by Color from Image\nInvert Colors in Image\nReduce Number of Image Colors\nReplace a Color in Image\nSelect a Color in an Image\nSeparate Image Color Channels\nSimplify Image Colors\nAdd Noise to an Image\nApply Dithering to an Image\nShow CMYK Colors of Image\nShow HCL Colors of Image\nShow HSI Colors of Image\nShow HSL Colors of Image\nShow HSV Colors of Image\nShow LAB Colors of Image\nShow LCH Colors of Image\nShow RGB Colors of Image\nShow YCbCr (YPbPr) Colors of Image\nShow YIQ Colors of Image\nNext week we'll add even more tools. See you then!",
+          "link": "https://catonmat.net/30-new-image-tools",
+          "publishedOn": "2024-01-02T13:15:00.000Z",
+          "wordCount": 360,
+          "title": "We've added another 30 new image tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/paid-plans-for-hex-tools",
           "author": null,
           "description": "Team Browserling keeps shipping!\nLast month we launched paid plans for Math Tools and today we're launching paid plans for our next most popular tool category – Hex Tools. Hex tools are used by 30,000 people every month and they let you generate random hex values, convert hexadecimal numbers to binary, octal, decimal bases, edit hexadecimal colors, change endianness, and much more.\nNext, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.\nFrom technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.\nYou can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.\nAdd paid plans too and see you next time!",
@@ -844,16 +914,6 @@
           "publishedOn": "2023-12-24T20:55:00.000Z",
           "wordCount": 165,
           "title": "Happy Holidays!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/40-new-image-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nLast week we added 20 new text tools and today we just added another 40 new tools to our Image Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new image tools:\nExplode an Image into Pieces\nCut an Image into Strips\nAdd Compression Effect to an Image\nConvert Text to Pixel Art\nConvert an Image to Hex Codes\nConvert Hex Codes to an Image\nConvert an Image to RGB Values\nConvert RGB Values to an Image\nMake an Image Transparent\nMake an Image Semitransparent\nView Transparent Image Regions\nCheck if Image is Transparent\nGenerate a Custom Image\nGenerate an Empty Image\nAdd Image Background\nRemove Image Background\nAdd Image Border\nRemove Image Border\nAdd Rainbow Filter to Image\nAdd Sepia Filter to Image\nAdd Symmetry to an Image\nAdd Padding to an Image\nAdd a Watermark to an Image\nAdd Stroke to an Image\nConvert WebP to Bitmap\nConvert Bitmap to WebP\nConvert WebP to JPG\nConvert JPG to WebP\nConvert WebP to PNG\nConvert PNG to WebP\nConvert WebP to GIF\nConvert GIF to WebP\nConvert Base64 to WebP\nConvert WebP to Base64\nCensor an Image\nUpscale an Image\nDownscale an Image\nCompress an Image\nAnnotate an Image\nAnalyze an Image\nNext week we'll add even more tools. See you then!",
-          "link": "https://catonmat.net/40-new-image-tools",
-          "publishedOn": "2023-12-23T20:00:00.000Z",
-          "wordCount": 382,
-          "title": "We've added 40 new image tools",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
