@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47426",
+          "author": "青小蛙",
+          "description": "WeOCR 是一个开源的在线文字识别 OCR 工具，支持 PWA 得以实现在浏览器中离线使用，基于同样开源的 OCR 引擎 Tesseract。可以很方便的托管在 Vercel 中。@Appinn 就",
+          "link": "https://www.appinn.com/weocr/",
+          "publishedOn": "2024-01-11T08:07:40.000Z",
+          "wordCount": 2600,
+          "title": "WeOCR – 可离线使用的开源在线文字识别 OCR 工具",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-36.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47420",
           "author": "青小蛙",
           "description": "Star Order 是一款专门用来管理你在 GitHub 上的星标 Stars 的工具，它可以为你收藏的星标项目加标签、根据编程语言筛选、再次收藏，以及查看最近更新，开发者必备小工具。@Appinn",
@@ -160,16 +170,6 @@
           "wordCount": 2718,
           "title": "截图/贴图工具 PixPin 新增截图历史记录回溯，可找回之前的截图，以及之前的截图区域",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-18.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47344",
-          "author": "青小蛙",
-          "description": "Stitch Photos 是一款支持横向、纵向自动拼接图片的 Android 工具，适合于聊天截图拼接、全景照片拼接。另外支持微调，比如剪裁掉图片边缘的滚动条。目前正在 Play 限免，原价 1.9",
-          "link": "https://www.appinn.com/stitch-photos/",
-          "publishedOn": "2024-01-02T07:48:03.000Z",
-          "wordCount": 2604,
-          "title": "Stitch Photos – 长截图自动拼接工具｜全景照片自动拼接工具[Android 限免]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-17.jpg"
         }
       ]
     },
@@ -200,13 +200,104 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11097",
+          "author": "张 鑫旭",
+          "description": "Firefox也正式支持popover属性了，大人，时代变了，所有的下拉效果要换种实现方式啦。",
+          "link": "https://www.zhangxinxu.com/wordpress/2024/01/js-html-popover-dropdown/",
+          "publishedOn": "2024-01-11T15:01:33.000Z",
+          "wordCount": 1328,
+          "title": "时代变了，该使用原生popover属性模拟下拉了",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77114",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的最新研究，科学家揭开了最大类人猿步氏巨猿（Gigantopithecus blacki）灭绝之谜。步氏巨猿曾经成群结队地漫步于中国南方的喀斯特地区。步氏巨猿的直立身高可达3米，体重最大可达300公斤，是地球上有史以来体型最大的灵长类。这个“远房亲戚”在我们人类到达这片土地之前便已绝灭了。迄今，只有将近 2000 颗牙齿和4件不完整的下颌能够向人们证明步氏巨猿曾经存在。研究表明，在 29.5～21.5 万年前，正是对摄食行为和食物偏好的执着，导致步氏巨猿在面对环境改变时显得脆弱无比，并锁定了走向绝灭的命运。在步氏巨猿绝灭之前，它们在食物资源丰富且多样的森林中盛极一时。之后由于环境变得更加多样，森林群落的结构开始发生变化。它的近亲猩猩（Pongo）改变了摄食行为和栖息地偏好。但步氏巨猿没有改变，而且体型变得越来越大越来越笨重，摄食活动的地理范围也大为减少。步氏巨猿种群长期面临生存压力，且不断萎缩，最终走向绝灭。",
+          "link": "https://www.solidot.org/story?sid=77114",
+          "publishedOn": "2024-01-11T10:01:56.000Z",
+          "wordCount": 162,
+          "title": "科学家揭开最大类人猿灭绝之谜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77113",
+          "author": null,
+          "description": "联想最新的可拆卸笔记本电脑实际上是由两台电脑组成，所以它的售价是两台电脑的价格。联想在 CES 展会上展示了 ThinkBook Plus Gen 5 Hybrid 笔记本电脑，售价 2000 美元，它既是一台采用英特尔芯片的 Windows 笔电也是一部使用高通处理器的 Android 平板。其中笔电部分运行 Windows 11，使用英特尔 Core Ultra 7 处理器、32GB 内存和 1TB SSD, 英特尔集显，以及 75 Whr 电池。平板部分运行 Android 13，使用高通第一代 Snapdragon 8+ SoC，12GB 内存和 256GB UFS 3.1 存储，以及 38 Whr 电池。平板配备了 4 个  1 W 扬声器，而笔电配备了 2 个 2 W 扬声器。电脑总重 1,755 克，其中拆下的底部部分重 970 克，平板部分重 785 克。预计第二季度上市。",
+          "link": "https://www.solidot.org/story?sid=77113",
+          "publishedOn": "2024-01-11T09:55:23.000Z",
+          "wordCount": 212,
+          "title": "联想的可拆卸笔记本电脑实际上是两台电脑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77112",
+          "author": null,
+          "description": "开源免专利芯片技术 RISC-V 成为美中科技战的新战场。华盛顿过去几个月一直在讨论限制中国获取 RISC-V 技术，认为中国利用 RISC-V 绕过了美国对华芯片出口管制。上个月众议院一个委员会建议成立一个跨部门政府委员会研究 RISC-V 的潜在风险。知情人士称，英国芯片设计公司 Arm Holdings 也在游说美国官员限制 RISC-V。Arm 与 RISC-V 之间存在竞争关系。由于 RISC-V 架构是开源免专利，限制中国使用 RISC-V 技术就如同类似限制中国使用开源的 Linux，基本上是不可能的。负责 RISC-V 技术的非盈利组织的总部设在欧洲的瑞士。",
+          "link": "https://www.solidot.org/story?sid=77112",
+          "publishedOn": "2024-01-11T08:37:17.000Z",
+          "wordCount": 186,
+          "title": "美国讨论限制中国获取 RISC-V 技术",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77111",
+          "author": null,
+          "description": "2017 年，Linux 内核长期支持版本（LTS）的支持时间从原来的两年增加到六年。首个获得六年支持的版本是 4.14。在六年支持之后，稳定版内核维护者 Greg Kroah-Hartman 释出了 4.14.336，这将是最后一次更新，它已被标记为 EOL (End of Life)。使用该版本的用户被鼓励升级到较新的长期支持版本。如果只能继续用 4.14，那么用户需要让供应商提供支持。去年下半年举行的开源欧洲峰会，LTS 的支持时间再次缩短到了 2 年。",
+          "link": "https://www.solidot.org/story?sid=77111",
+          "publishedOn": "2024-01-11T07:59:07.000Z",
+          "wordCount": 183,
+          "title": "Linux Kernel 4.14 在六年之后结束支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77109",
+          "author": null,
+          "description": "2023 年全球唱片业的音乐串流播放量突破了 4 万亿次，创新了新的单年纪录。全球音乐串流增长了 34%，且日益国际化。以美国为例，更多的美国人开始听非英语音乐，英语歌曲份额下降了 3.8%。美国市场最流行的三大音乐流派是：乡村乐 23.7%，拉丁乐 24.1%，包括 J-pop、K-pop 和 Afrobeats 等的世界音乐 26.2%。在拉丁音乐中墨西哥音乐点播量增长 60% 达到 219 亿次。Taylor Swift 是最受欢迎的美国音乐人，其歌曲在美国的市场份额高达 1.79%，每点播 78 首歌曲就有 1 首来自 Swift。美国前 10 张音乐专辑有 5 张来自 Swift。",
+          "link": "https://www.solidot.org/story?sid=77109",
+          "publishedOn": "2024-01-11T06:48:03.000Z",
+          "wordCount": 197,
+          "title": "2023 年音乐流媒体播放量突破 4 万亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77108",
+          "author": null,
+          "description": "微软位于北京的亚洲研究院是是世界最重要的 AI 实验室之一，但随着中美关系紧张，至少在过去一年里，微软高层——包括首席执行官萨蒂亚·纳德拉和总裁布拉德·史密斯——一直在讨论如何处理该研究院。知情人士说，美国官员质疑微软在中国维持一个 800 人规模的先进技术研究院是否合理。微软表示，它已经在该研究院设置了安全护栏，限制研究人员从事政治敏感的工作。微软还在温哥华设立了一个该研究院的分部，并将把部分研究人员从中国调到那里。关闭或转移研究院的想法已经出现，但微软领导层支持将该研究机构留在中国。知情人透露，去年秋天，微软不允许中国研究者加入可以提前使用 GPT-4 的小型团队。微软称，公司也对该研究院在量子计算、面部识别与合成媒体方面的研究工作进行了限制。",
+          "link": "https://www.solidot.org/story?sid=77108",
+          "publishedOn": "2024-01-11T06:20:55.000Z",
+          "wordCount": 162,
+          "title": "微软内部讨论转移或关闭亚洲研究院",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77107",
+          "author": null,
+          "description": "苹果从其印度 App Store 下架了币安、Kraken、火币、Gate.io、Bittrex 和 Bitfinex 等至少 9 个加密货币交易所应用。在这之前，印度政府负责调查金融交易的金融情报机构（FIU）上月底称 9 家加密货币交易所违反了该国的反洗钱规定。金融情报机构已经要求印度信息技术部在印度封锁这些交易所的网站。",
+          "link": "https://www.solidot.org/story?sid=77107",
+          "publishedOn": "2024-01-11T06:07:18.000Z",
+          "wordCount": 166,
+          "title": "苹果从印度应用商店下架币安等加密货币应用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77106",
+          "author": null,
+          "description": "Valve 宣布允许使用 AI 技术开发的游戏上架 Steam 平台。它将 AI 的使用划分为两个大类，要求游戏开发商予以披露：预生成内容，在游戏开发过程中借助 AI 工具生成的内容（艺术作品/代码/音效等）；实时生成内容，在游戏运行过程中借助 AI 工具生成的内容。Valve 还将在 Steam 上推出举报系统，让玩家可以举报游戏内违法的实时生成 AI 内容。色情游戏不在许可范围内，Valve 目前不允许 AI 实时生成成人内容。",
+          "link": "https://www.solidot.org/story?sid=77106",
+          "publishedOn": "2024-01-11T05:01:26.000Z",
+          "wordCount": 191,
+          "title": "Valve 允许使用 AI 开发的游戏上架 Steam",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77105",
           "author": null,
@@ -936,106 +1027,6 @@
           "wordCount": 198,
           "title": "中科院高被引用学者人数位居世界第一",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77031",
-          "author": null,
-          "description": "桌面排版应用 Scribus 释出了新稳定版本 v1.6，它将取代 v1.4.8 和 v1.5.x 系列的开发版本。该版本经历了数年时间的开发，包含了数以千计的增强和 bug 修复，其中最瞩目的变化包括：用户界面全面翻新、新的脚本命令、大量改进了排版，用于图形资产管理的新图形浏览器、支持更多渐变类型，等等。",
-          "link": "https://www.solidot.org/story?sid=77031",
-          "publishedOn": "2024-01-02T14:09:17.000Z",
-          "wordCount": 173,
-          "title": "Scribus 1.6.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77030",
-          "author": null,
-          "description": "澎湃报道，应美国政府要求，荷兰光刻机巨头阿斯麦（ASML）取消了两款深紫外（DUV）光刻机出口中国。ASML 目前最先进的光刻机是极紫外 (EUV) 光刻机，台积电和三星等公司使用 EUV 制造 7 纳米或更先进芯片。但中芯国际去年量产了华为的 7 纳米芯片麒麟 9000S，使用的就是 DUV 光刻机。美国显然在进一步限制中国获取  DUV 光刻机。中国外交部发言人汪文斌在新闻发布会上表示，中方一贯反对美国泛化国家安全概念，以各种借口胁迫其他国家搞对华科技封锁。",
-          "link": "https://www.solidot.org/story?sid=77030",
-          "publishedOn": "2024-01-02T13:42:51.000Z",
-          "wordCount": 170,
-          "title": "荷兰限制向中国出口深紫外光刻机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77029",
-          "author": null,
-          "description": "30 年前，荷兰程序员 Ton Roosendaal 使用假期重写了动画工作室 NeoGeo 内部使用的 3D 软件。1994 年 1 月 2 日，Blender 发布了首个版本。30 年后 Blender 已经是最成功的开源 3D 图形设计软件。Blender 最初是作为共享软件发布的，在 NeoGeo 被收购以及后来创办的 Not a Number Technologies（NaN）公司破产之后，Roosendaal 成立了非盈利的 Blender 基金会，筹集资金将 Blender 作为开源项目继续开发和维护。",
-          "link": "https://www.solidot.org/story?sid=77029",
-          "publishedOn": "2024-01-02T12:37:52.000Z",
-          "wordCount": 192,
-          "title": "Blender 诞生三十周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77028",
-          "author": null,
-          "description": "过去一年是 AI 聊天机器人 ChatGPT 从震惊世界到平凡的一年。人们从最初的吃惊到逐渐认识到 AI 其实很蠢，当然不是 NFT 猿猴头像或扎克伯格元宇宙办公隔间那种蠢。ChatGPT 和 MidJourney 为代表的生成式 AI 既聪明又愚蠢，既能为我们提供帮助，也能为我们带来麻烦。比如给律师提供它自创的案例，给学生列出不存在的参考论文。问题是生成式 AI 的技术进步是否能继续下去？是逐渐变成类似科幻电影中刻画的真正的智能助手，还是停滞不前？就像自主驾驶汽车一样。厂商多年就宣称真正的自主驾驶即将到来。然而一直没有到来。生成式 AI 是否也可能出现类似的情况？如果微软 Google 等主要投资者停止补贴 AI，对大多人而言使用 AI 是否会变得过于昂贵而不值得？AI 生成的内容是否真的有人会喜欢，还是它只是浪费我们的时间？",
-          "link": "https://www.solidot.org/story?sid=77028",
-          "publishedOn": "2024-01-02T11:41:13.000Z",
-          "wordCount": 184,
-          "title": "AI 是否在浪费每一个人的时间？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77027",
-          "author": null,
-          "description": "尼康、索尼和佳能正在开发在相机拍摄的照片中嵌入数字签名的技术，以区分日益复杂的 AI 图片。防篡改数字签名将包括日期、时间、地点和摄影师等信息。AI 图片日益逼真，考验着内容制作者和用户的判断力。由全球新闻媒体、科技公司和照相机制造商组成的联盟发布了被称为 Verify 的 Web 工具，免费检查图片来源。如果图片有数字签名，Verify 将显示日期、位置等有效凭证；如果图片是 AI 创造或纂改，它会显示无内容凭证。尼康、索尼和佳能等日本照相机制造商占据着全球相机市场约九成份额。",
-          "link": "https://www.solidot.org/story?sid=77027",
-          "publishedOn": "2024-01-02T09:33:04.000Z",
-          "wordCount": 174,
-          "title": "尼康、索尼和佳能用相机数字签名对抗 AI 作假",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77026",
-          "author": null,
-          "description": "从 2024 年 1 月 1 日起，Steam 正式停止支持 Windows 7、Windows 8 和 Windows 8.1 操作系统。此后这些操作系统上的 Steam 客户端将不再能收到任何更新，包括安全相关的更新。Valve 督促用户升级到较新版本的 Windows，称 Steam 的核心功能依赖于内嵌版本的 Google Chrome，该版本已不可在旧版的 Windows 上运行。 而微软分别于 2020 年 1 月和 2023 年 1 月结束了对 Windows 7 和 Windows 8.1 的安全更新和技术支持。继续运行旧版操作系统存在安全风险，新发现的洞不会被修补，恶意软件会导致电脑、Steam 和游戏性能低下或崩溃，甚至可能窃取 Steam 帐户或其他服务的凭据。根据 Steam 的统计数据，Windows 10 和 11 占到了 95.57% 的市场份额，Linux 1.97%，Mac 1.63%，Windows 7、Windows 8 和 8.1 约占 0.9%。根据 Valve 公布的截至 2021 年的数据，Steam 月活跃用户 1.32 亿，意味着运行这些旧版本操作系统的用户仍然逾百万之多。",
-          "link": "https://www.solidot.org/story?sid=77026",
-          "publishedOn": "2024-01-02T08:35:14.000Z",
-          "wordCount": 250,
-          "title": "Steam 停止支持 Windows 7、Windows 8 和 8.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77025",
-          "author": null,
-          "description": "Gentoo Linux 是著名的滚动更新发行版，它主要以源代码形式提供软件包，用户需要在自己的计算机上重新编译构建。但从源代码编译所有东西是很耗费时间的，尤其是如果计算机配置比较低比较陈旧的话。为了方便用户让工作更轻松，Gentoo Linux 宣布提供二进制安装选项，大多数架构仅限于核心系统和每周更新，amd64 和 arm64 架构除外。",
-          "link": "https://www.solidot.org/story?sid=77025",
-          "publishedOn": "2024-01-02T07:33:40.000Z",
-          "wordCount": 172,
-          "title": "Gentoo 提供二进制安装选项",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77024",
-          "author": null,
-          "description": "日本总务省公布的人口估算显示，2005 年出生的新成人（18 岁）为 106 万人，比 2023 年减少 6 万人，创历史新低。反映每名女性一生生育子女人数的“合计特殊出生率”在 2005 年为 1.26，与 2022 年同为历史最低，人口估算再次凸显少子化问题。龙年出生的人口为 1005 万人。新增成年人占总人口的比例为 0.86%，其中男性 55 万人，女性 52 万人。龙年出生的男性有 488 万，女性有 517 万。",
-          "link": "https://www.solidot.org/story?sid=77024",
-          "publishedOn": "2024-01-02T06:22:29.000Z",
-          "wordCount": 197,
-          "title": "日本 18 岁人口数 106 万创新低",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77023",
-          "author": null,
-          "description": "太阳于 2023 年 12 月 31 日 2155 UTC(北京时间 1 月 1 日 5 时 55 分)释放出一个 X5 级耀斑（X 级是最高强度的耀斑），这是第 25 太阳周期产生的最强耀斑，也是 2017 年 9 月 X8.2 级耀斑以来的最强耀斑。产生耀斑的区域与 12 月 14 日释放的 X2.8 级耀斑区域相同。强耀斑通常会伴随着日冕物质抛射，直接喷向地球方向的日冕物质抛射通常会产生强地磁风暴。据 Spaceweather 报道，最新的 X5 级耀斑没有直接瞄准地球，但会掠过地球，预计产生 G1 级强地磁风暴，时间是在 1 月 2 日。",
-          "link": "https://www.solidot.org/story?sid=77023",
-          "publishedOn": "2024-01-02T06:03:15.000Z",
-          "wordCount": 204,
-          "title": "X5 级耀斑喷出的日冕物质抛射今天掠过地球",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77022",
-          "author": null,
-          "description": "美国研究人员正在联邦基金的支持下开发一种高效的细菌治疗方法，更精确地针对癌症，使治疗更安全，只需一剂 1 美元。传统上，癌症疗法对患者的疗效有限且价格不菲。美国癌症协会癌症行动网络的调查结果显示，73% 的癌症幸存者和患者担心如何支付癌症治疗的费用，51% 的人表示他们因治疗而欠下医疗债务。最先进的癌症治疗费用高达 100 万美元。德州农工大学和密苏里大学正在开发一种低成本、安全、可控的癌症治疗方法。其中德州农工研究人员正开发用于肿瘤环境中免疫定向杀伤的合成可编程细菌(SPIKEs)。这个想法是设计细菌来帮助 T 细胞杀死癌变组织，一旦癌细胞消失就自我毁灭，然后作为人体废物安全地离开身体。这种细菌将被改造成一个受体，以确保一旦癌症消失，病人可以服用抗生素，这些抗生素会向细菌发出信号，让它把自己切成碎片，安全地从病人体内移除。",
-          "link": "https://www.solidot.org/story?sid=77022",
-          "publishedOn": "2024-01-02T05:28:10.000Z",
-          "wordCount": 169,
-          "title": "1 美元癌症疗法",
-          "imageUrl": null
         }
       ]
     },
@@ -1117,6 +1108,26 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/can-pdf-files-have-viruses",
+          "author": null,
+          "description": "TLDR: Visit browserling.com/browse to securely open and view potentially risky PDFs. This PDF sandbox, developed by my team and me, offers a secure, isolated environment to open PDFs externally, protecting you from possible viruses within the PDFs.\nViruses – Can PDF Files Have Them?\nYes, PDF files can contain viruses. These viruses are often embedded in the file and can be activated when the PDF is opened, exploiting vulnerabilities in PDF reader software. This can result in unauthorized system access, data breaches, or other cybersecurity threats. To safeguard against such risks, it's advisable to utilize a PDF sandbox, a secure environment that isolates and scrutinizes PDF files before opening them on your network.\nHow Can I Safely Open PDF Files Without Risking Viruses?\nTo defend agains…",
+          "link": "https://catonmat.net/can-pdf-files-have-viruses",
+          "publishedOn": "2024-01-11T18:25:00.000Z",
+          "wordCount": 621,
+          "title": "Can PDF Files Have Viruses? (And How to Avoid Them)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/how-to-run-firefox-in-chrome",
+          "author": null,
+          "description": "TLDR: You can run Firefox in Chrome via browserling.com/chrome. This link will open a virtual Firefox browser inside of your Chrome browser so that you can browse while you browse.\nWhat Is Chrome?\nChrome is a widely-used, free web browser developed by Google, based on the Chromium open-source project. It is recognized for its fast performance, high security, and seamless integration with Google services, employing a sandboxing technique to isolate processes and enhance web security. Chrome's features include tabbed browsing, the Omnibox for combined search and address bar functionality, synchronization across devices with a Google account, and a vast extension ecosystem. Regular updates every six weeks ensure the latest security features and improvements are in place, maintaining Chrome's …",
+          "link": "https://catonmat.net/how-to-run-firefox-in-chrome",
+          "publishedOn": "2024-01-11T12:31:00.000Z",
+          "wordCount": 874,
+          "title": "How to Run Firefox in Chrome (browser in browser)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/how-to-open-suspicious-pdf-files-safely",
           "author": null,
           "description": "TLDR: You can safely access and view suspicious PDFs via browserling.com/browse – a PDF sandbox that I and my team created. It provides an isolated, secure environment, ensuring the PDF file is opened externally from your network, thereby shielding you from potential cyber threats.\nWhy Are PDFs Unsafe?\nPDFs can be unsafe due to their ability to contain various types of potentially harmful content, such as embedded JavaScript, which can be exploited for malicious purposes like executing unauthorized code or conducting phishing attacks. Additionally, PDFs can contain vulnerabilities like buffer overflows and insecure parsing in reader software, making them a vector for cyberattacks. These risks necessitate robust security measures, including the use of updated PDF readers and sandbox environ…",
@@ -1184,16 +1195,6 @@
           "publishedOn": "2024-01-08T14:25:00.000Z",
           "wordCount": 831,
           "title": "How to Run Edge in Edge (browser in browser)",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/30-new-image-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nLast week we added 40 new image tools and today we just added another 30 new tools to our Image Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new image tools:\nFind Image Color Palette\nFind Top Colors in an Image\nCreate an Image with One Color\nConvert Image to Web Safe Colors\nConvert Image to Binary Art\nCreate a Black and White Image\nCreate a Two-color Image\nChange Image Base Color\nRemove Chroma Key from Image\nRemove Green Screen from Image\nRemove Specific Color from Image\nExtract Object by Color from Image\nInvert Colors in Image\nReduce Number of Image Colors\nReplace a Color in Image\nSelect a Color in an Image\nSeparate Image Color Channels\nSimplify Image Colors\nAdd Noise to an Image\nApply Dithering to an Image\nShow CMYK Colors of Image\nShow HCL Colors of Image\nShow HSI Colors of Image\nShow HSL Colors of Image\nShow HSV Colors of Image\nShow LAB Colors of Image\nShow LCH Colors of Image\nShow RGB Colors of Image\nShow YCbCr (YPbPr) Colors of Image\nShow YIQ Colors of Image\nNext week we'll add even more tools. See you then!",
-          "link": "https://catonmat.net/30-new-image-tools",
-          "publishedOn": "2024-01-02T13:15:00.000Z",
-          "wordCount": 360,
-          "title": "We've added another 30 new image tools",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
