@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47447",
+          "author": "青小蛙",
+          "description": "Tree.FM 是一个比较新奇的在线服务和 Chrome 扩展，它能让你收听遍布在世界各地的 39 座森林的真实录音，打开浏览器开始听，就这么简单。@Appinn 在云里的真实世界 小众软件一直有一个",
+          "link": "https://www.appinn.com/tree-fm/",
+          "publishedOn": "2024-01-14T12:10:08.000Z",
+          "wordCount": 2602,
+          "title": "Tree.FM – 收听世界各地的森林之音｜39 座森林的真实录音",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-39.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=47441",
+          "author": "青小蛙",
+          "description": "Xterminal 是一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功",
+          "link": "https://www.appinn.com/xterminal/",
+          "publishedOn": "2024-01-14T09:56:53.000Z",
+          "wordCount": 2589,
+          "title": "Xterminal – 跨平台开发工具：SSH 客户端，不止是终端，还支持 CPU、内存、网络监控，快捷动作等",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-38.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47437",
           "author": "青小蛙",
           "description": "wiliwili 是一个专为手柄用户设计的第三方 B 站客户端，拥有非常接近官方 PC 客户端的 B 站浏览体验，同时支持触屏、鼠标、键盘 与 手柄操控，目前可以在 Switch、PS4、PSVita",
@@ -130,26 +150,6 @@
           "wordCount": 2609,
           "title": "神操作：用 Everything 1.5 进行代码片段管理",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-23.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47377",
-          "author": "青小蛙",
-          "description": "GoMusic 是一款开源小工具，它可以导出公开的网易云音乐、QQ 音乐歌单，并转换为纯文本，然后就可以通过 Tune My Music 导入第三方音乐服务了。@Appinn 来自发现频道，开发者 @",
-          "link": "https://www.appinn.com/bistutu-gomusic/",
-          "publishedOn": "2024-01-05T07:38:17.000Z",
-          "wordCount": 2580,
-          "title": "GoMusic – 导出网易云音乐、QQ 音乐歌单｜可导入Apple Music、Youtube Music、Spotify",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-22.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47370",
-          "author": "青小蛙",
-          "description": "Mahjong Online 是一款在线打麻将游戏，但它不是中国传统意义上的四人麻将，而是适合一个人玩的在线麻将连连看游戏，拥有多种连连看布局，只需要从最外侧两两配对相同的麻将牌即可。另外还包含梅兰菊",
-          "link": "https://www.appinn.com/mahjong-online/",
-          "publishedOn": "2024-01-05T04:50:01.000Z",
-          "wordCount": 2765,
-          "title": "打麻将 – 老外眼中的麻将游戏：麻将连连看",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-21.jpg"
         }
       ]
     },
@@ -198,6 +198,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77130",
+          "author": null,
+          "description": "NASA 正式展示了由洛克希德马丁著名的臭鼬工厂设计的 X-59 Quess 低音爆超音速飞机。它设计能突破音速但同时不会有超音速飞机通常会产生的音爆。Quest 会产生更安静的“砰砰声”，类似室内听到关车门的声音。如果 X-59 成功它有望对超音速飞行和航空业产生革命性影响。X-59 的外形设计减少飞机产生的音爆，它没有前向窗户，而是通过摄像头和显示屏为飞行员提供飞机前方的增强现实的外部视觉系统。",
+          "link": "https://www.solidot.org/story?sid=77130",
+          "publishedOn": "2024-01-14T16:05:46.000Z",
+          "wordCount": 180,
+          "title": "NASA 展示 X-59 Quess 低音爆超音速飞机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77129",
+          "author": null,
+          "description": "安全公司 Nozomi 的研究人员发现了 23 个漏洞，允许黑客破坏联网的博世力士乐（Bosch Rexroth）手持螺帽扳手 NXA015S-36V-B。工程师使用该设备将螺栓等扭紧到精确的扭矩水平，这对设备的安全性和可靠性至关重要，如果太松的话设备可能会过热甚至起火，太紧的话可能会失效。研究人员称，黑客能利用漏洞安装恶意程序，能导致整个设备组停止工作，或者扭的太松或太紧，但设备的显示屏却显示一切正常。博世力士乐表示他们在数周前收到了漏洞报告，计划在 2024 年 1 月下旬发布补丁。",
+          "link": "https://www.solidot.org/story?sid=77129",
+          "publishedOn": "2024-01-14T15:45:59.000Z",
+          "wordCount": 166,
+          "title": "黑客能感染联网扳手安装恶意软件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77128",
+          "author": null,
+          "description": "根据发表在《Science Advances》期刊上的一项研究，哥伦比亚大学的研究人员在 AI 帮助下发现指纹并非是独一无二的。领导这项研究是的一位计算机科学系的本科生 Gabe Guo，他的导师 Wenyao Xu 也是署名作者之一。研究团队利用了被称为深度对比网络（deep contrastive network）的 AI 模型，该模型常被用于面部识别等任务。他们使用了美国政府数据库中的 6 万对指纹，指纹或属于同一人或不同的人。他们的 AI 系统发现同一个人的不同指纹有着强相似性，因此能辨别指纹是否属于同一个人或不同的人。Guo 解释说，原因是指纹中心的角度和曲率。其他科学家对他们的发现不以为然，认为他们只是发现了已知的现象。",
+          "link": "https://www.solidot.org/story?sid=77128",
+          "publishedOn": "2024-01-14T15:09:15.000Z",
+          "wordCount": 174,
+          "title": "研究称指纹并非是独一无二的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77126",
+          "author": null,
+          "description": "iPhone 的 AirDrop 功能允许在苹果设备之间匿名共享文件，无需通过互联网。但 AirDrop 并不能真正做到匿名，而苹果早在 2019 年就知道 AirDrop 能被溯源。德国达姆施塔特工业大学的研究人员在 2019 年发现了漏洞，研究人员表示当时就向苹果递交了报告，苹果安全团队也承认收到了报告，但它看来并没有采取行动修补漏洞。研究人员在 2021 年发布了修补方法，但苹果并没有实现。德国安全研究员 Alexander Heinrich 称，北京网神洞鉴司法鉴定所使用了他们在 2019 年发现的相同技术。",
+          "link": "https://www.solidot.org/story?sid=77126",
+          "publishedOn": "2024-01-13T15:21:51.000Z",
+          "wordCount": 191,
+          "title": "苹果早在 2019 年就知道 AirDrop 能被溯源",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77125",
           "author": null,
@@ -786,146 +826,6 @@
           "publishedOn": "2024-01-05T14:49:35.000Z",
           "wordCount": 204,
           "title": "LG 新 OLED 显示器刷新率达到 480Hz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77065",
-          "author": null,
-          "description": "欧洲最大经济体德国减少了对煤炭的依赖，2023 年排放量创 70 年新低。德国 2023 年温室气体排放量为 6.73 亿吨，比 2022 年减少了 7300 万吨。原因包括基于煤炭的火力发电量的大幅下降，减少了 4600 万吨的碳排放量；工业排放量大幅下降，主要原因是能源密集企业产量下降。德国可再生能源发电量比例首次超过五成，而煤炭发电量从 34% 降至 26%。俄乌战争后俄罗斯切断了天然气供应，德国转向了煤炭。但此后德国大幅减少了煤炭的使用。",
-          "link": "https://www.solidot.org/story?sid=77065",
-          "publishedOn": "2024-01-05T14:20:07.000Z",
-          "wordCount": 188,
-          "title": "德国 2023 年排放量创 70 年新低",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77064",
-          "author": null,
-          "description": "微软本周释出了最新的预览版本 Windows 11 Build 26020，正式杀死了写字板应用。写字板应用最早是随 Windows 95 一起发布的，是一种简单的文字处理器，它的功能强于记事本但弱于 Microsoft Word。微软在去年 9 月宣布将在未来版本中移除写字板，推荐用户将 Microsoft Word 用于富文本文件如.doc 和.rtf 的处理，将记事本用于纯文本文件如 .txt 的处理。Windows 11 Build 26020 除了杀死写字板，还杀死了没什么人使用的通讯录应用 People 和步骤记录器（Steps Recorder）。",
-          "link": "https://www.solidot.org/story?sid=77064",
-          "publishedOn": "2024-01-05T14:01:39.000Z",
-          "wordCount": 198,
-          "title": "Windows 11 Build 26020 预览版移除了写字板",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77063",
-          "author": null,
-          "description": "根据旅行者2号（Voyager 2）发回的照片，人们普遍认为海王星表面呈深蓝色，而天王星为浅青色。但根据《Monthly Notices of the Royal Astronomical Society》上的最新研究，牛津大学研究人员报告两颗气态行星的外表颜色是相似的青绿色。早期探测器拍摄的照片是单色的，通过重组合成彩色图像，但合成后的图像会失真，海王星的合成图像就被认为太蓝了。在最新研究中，研究人员利用哈勃和欧洲南方天文台甚大望远镜的观测数据，创造出最“真实”的海王星和天王星表面颜色。结果显示它们都是相似的青绿色。",
-          "link": "https://www.solidot.org/story?sid=77063",
-          "publishedOn": "2024-01-05T13:47:16.000Z",
-          "wordCount": 163,
-          "title": "海王星和天王星的颜色相近",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77062",
-          "author": null,
-          "description": "ATI 公司在 2002 年发布了 Radeon R300 系列显卡，当时距离它被 AMD 公司收购还有 3 年。 Radeon R300 是第一款完全支持 DirectX 9 的显卡。在发布 22 年后，Mesa Gallium3D OpenGL 开源驱动项目合并了数百行代码，改进了对  Radeon R300 系列到 R500 系列显卡的支持。AMD 工程师主要专注于新一代的显卡，这些旧显卡的支持和改进都来自于开源社区。",
-          "link": "https://www.solidot.org/story?sid=77062",
-          "publishedOn": "2024-01-05T10:23:25.000Z",
-          "wordCount": 205,
-          "title": "开源社区更新 22 年历史的 ATI R300 显卡驱动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77061",
-          "author": null,
-          "description": "根据发表在《Nature Communications》期刊上的一项研究，研究人员认为他们发现了长新冠患者锻炼后感到疲倦、不适和疼痛的原因。研究对象为 25 名长新冠患者和 21 名感染后完全康复的患者，他们在运动自行车上锻炼 10-15 分钟，在任务前一周和之后一天采集血液样本和骨骼肌活检。研究人员分析后发现，相比健康参与者，长新冠患者肌肉有更高比例的白色纤维，白色纤维细胞内的线粒体和毛细血管都较少。而长新冠患者的线粒体功能也弱于健康参与者。研究结果部分解释了长新冠患者的低运动能力。研究人员表示，长新冠患者不应进行剧烈运动。剧烈运动会损害肌肉，恶化新陈代谢，导致锻炼后几周内感到肌肉疼痛和疲劳。",
-          "link": "https://www.solidot.org/story?sid=77061",
-          "publishedOn": "2024-01-05T10:10:53.000Z",
-          "wordCount": 163,
-          "title": "长新冠削弱运动能力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77060",
-          "author": null,
-          "description": "日本气象厅发布的数据显示，2023 年平均气温较常年（到 2020 年为止的 30 年平均值）高出 1.29 摄氏度，创 1898 年有统计以来最高纪录。此前最高纪录为 2020 年的高出 0.65 摄氏度，而 2023 年大幅刷新这一纪录。2019～2023 年包揽了观测史上的前五位。气象厅称平均气温上升除了全球变暖外，春季至秋季的偏西风位置偏北，使日本更容易被暖空气覆盖，日本南部高气压势力较强也是重要原因。可能受气温偏高影响，预计日本近海的平均海面水温也将创新高。",
-          "link": "https://www.solidot.org/story?sid=77060",
-          "publishedOn": "2024-01-05T09:35:52.000Z",
-          "wordCount": 188,
-          "title": "日本 2023 年平均气温比常年高 1.29 摄氏度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77059",
-          "author": null,
-          "description": "2024 年的 Linux 内核会发生什么，开源社区又会发生什么：邮件列表长期以来是内核开发流程的核心，但从 2024 年起电邮将逐渐让位，用 Linus Torvalds 的话说是时候做出改变了；Linux 6.12 将是下一个长期稳定版内核，预计 12 月 1 日释出；首批用户可见的 Rust 代码将合并进内核，最早可能是 Linux 6.8；Red Hat 对企业级 Linux 发行版市场的统治将面临更强大的挑战；Google 受争议的 Manifest V3 扩展系统即将生效，Firefox 如果不抓住机会扩大市场份额，可能就再也没机会了；开源生成式 AI 将更受关注；支持自由线程的 Python 首个版本将在 10 月发布；开源项目的维护者危机将加剧...",
-          "link": "https://www.solidot.org/story?sid=77059",
-          "publishedOn": "2024-01-05T08:07:10.000Z",
-          "wordCount": 201,
-          "title": "2024 年的 Linux 内核和开源社区展望",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77058",
-          "author": null,
-          "description": "西班牙第二大移动运营商 Orange España 周三因黑客获取了弱密码“ripeadmin”登录了它用于管理全球路由表的账号而遭遇严重网络故障。Orange 在欧洲网络协议中心（RIPE Network Coordination Center）的账号用户名是 adminripe-ipnt@orange.es，密码是 ripeadmin。安全公司 Hudson Rock 的调查发现，该账号凭证已被去年 9 月安装在 Orange 员工电脑上的信息窃取恶意程序窃取并在网上出售。化名为 Snow 的黑客在社交媒体上公布了 Orange 的管理账号截图。Snow 在登陆 Orange 的账号之后修改了其全球路由表，大部分修改对网络流量没有产生影响，因为这些路由地址都在 Orange 自己的自治系统 AS12479 内，但其中一个修改 149.74.0.0/16 引发了问题，它将最大前缀长度设为 16，导致了使用该地址范围的较小的路由无效，比如 149.74.100.0/23 被认为无效并被过滤掉。BGP 专家 Doug Madory 认为黑客只是在恶搞。黑客对全球路由表的纂改很快被 RPKI（Resource Public Key Infrastructure）阻止——其它骨干运营商拒绝了黑客发布的路由公告。",
-          "link": "https://www.solidot.org/story?sid=77058",
-          "publishedOn": "2024-01-05T06:46:38.000Z",
-          "wordCount": 196,
-          "title": "西班牙第二大移动运营商因弱密码被黑客入侵纂改路由表",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77057",
-          "author": null,
-          "description": "根据发表在《Pediatric Research》期刊上的一项研究，孕期服用对乙酰氨基酚与儿童发育迟缓相关。相关性不代表因果联系。对乙酰氨基酚被认为是怀孕期间最安全的非处方止痛药和退烧药。研究表明，在北美和欧洲，50%-65% 的女性在怀孕期间服用对乙酰氨基酚。研究人员探索了怀孕期间对乙酰氨基酚的使用与儿童早期语言成绩之间的关系，发现对乙酰氨基酚的使用增加与语言发育迟缓有关。语言分析涉及 298 名 2 岁的儿童，他们在产前被跟踪，其中 254 名在 3 岁时返回进行进一步的研究。最引人注目的发现是，在怀孕的第三个月，每使用一次对乙酰氨基酚，两岁大的孩子的词汇量就会减少近两个单词。胎儿的大脑发育贯穿整个怀孕过程，但第二和第三个三个月是特别关键的时期。",
-          "link": "https://www.solidot.org/story?sid=77057",
-          "publishedOn": "2024-01-05T06:03:32.000Z",
-          "wordCount": 167,
-          "title": "孕期服用对乙酰氨基酚与儿童语言发育迟缓相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77056",
-          "author": null,
-          "description": "备受好评的角色扮演游戏《漫威银河护卫队》在 Epic 商店限免一周。《漫威银河护卫队》由 Eidos 蒙特利尔开发 Square Enix 发行（在 Square Enix 将 Eidos 出售之后发行商变为 Eidos）。该游戏基于漫威漫画的银河护卫队漫画系列，Metacritic 评分 78/100（PC）、80/100(PS5) 和 84/100（XSXS）。玩家将扮演彼得·奎尔/星爵，同伴卡魔拉、火箭浣熊、格鲁特和德拉克斯则由 AI 控制，游戏支持简体和繁体中文。",
-          "link": "https://www.solidot.org/story?sid=77056",
-          "publishedOn": "2024-01-04T16:24:32.000Z",
-          "wordCount": 183,
-          "title": "《漫威银河护卫队》在 Epic 商店限免一周",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77055",
-          "author": null,
-          "description": "微软要将它的 Copilot AI 助手从软件层面走向硬件层面。自 1994 年它给 PC 键盘加入了 Windows 按键以来，软件巨人再次给键盘加入了一个新按键 Copilot。顾名思义，按下这个键会在 Windows 10 和 Windows 11 中打开 Copilot AI 助手。微软表示它不会强制要求 OEM 厂商给键盘添加 Copilot 按键，但随着时间的推移，预计 Windows 11 PC 键盘上将需要 Copilot 键。Copilot 在中国境内基本不可用，中国区用户的 Windows 11 PC 可能不会出现该键。",
-          "link": "https://www.solidot.org/story?sid=77055",
-          "publishedOn": "2024-01-04T15:11:28.000Z",
-          "wordCount": 196,
-          "title": "微软给键盘加入了新按键 Copilot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77054",
-          "author": null,
-          "description": "Vim 项目发布了 v9.1。该版本特别献给半年前去世的 Bram Moolenaar，他担任项目首席开发者逾 30 年，没有他的工作 Vim 项目不会存在。Bram Moolenaar 出生于 1961 年，大学时期接触了 vi 编辑器，为了在自己的 Amiga 电脑上运行 vi 他开发了 Vim。他长期以自由工作者身份，在家里全职开发自由软件，以电邮通讯作为主要对外沟通管道。2006-2021 年间为 Google 工作。当时他通过空闲时间维护 Vim。Vim 和 Emacs 是 Unix 系统用户最喜欢的编辑器。他在 2023 年 8 月 3 日去世。Vim 9.1 主要是修 bug，少数新功能包括支持脚本语言的类和对象，平滑滚动支持，EditorConfig 插件，等等。",
-          "link": "https://www.solidot.org/story?sid=77054",
-          "publishedOn": "2024-01-04T15:03:03.000Z",
-          "wordCount": 202,
-          "title": "Vim 9.1 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77053",
-          "author": null,
-          "description": "美国 2023 年第三季度电动汽车销量达到了创纪录的 30 万辆，但增长明显放缓，电动汽车制造商需要降价促销，然而库存仍然在不断增加。主要电动汽车制造商都减少了投资：福特计划投资 150 亿美元提高电动汽车产能但其中 120 亿美元推迟；通用汽车推迟了关键电动车型的生产，取消了与本田合作生产廉价电动汽车的 50 亿美元计划；特斯拉推迟了墨西哥建厂计划。汽车行业高管甚至宣称在美国推动汽车电动化行不通。分析师认为原因包括充电基础设施不足和电动汽车过于昂贵。过于昂贵的原因则是美国厂商热衷于生产大型化的汽车，美国流行的电动汽车也是大型的 SUV 和卡车，而此类汽车需要更大的电池，增加了成本。数据显示，2023 年 9 月美国电动汽车的均价为 50,683 美元，比去年同期下降 22%，但仍然比燃油汽车高  28%。",
-          "link": "https://www.solidot.org/story?sid=77053",
-          "publishedOn": "2024-01-04T14:46:21.000Z",
-          "wordCount": 175,
-          "title": "美国电动汽车销量增长放缓",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77052",
-          "author": null,
-          "description": "美国 2023 年第三季度电动汽车销量达到了创纪录的 30 万辆，但增长明显放缓，电动汽车制造商需要降价促销，然而库存仍然在不断增加。主要电动汽车制造商都减少了投资：福特计划投资 150 亿美元提高电动汽车产能但其中 120 亿美元推迟；通用汽车推迟了关键电动车型的生产，取消了与本田合作生产廉价电动汽车的 50 亿美元计划；特斯拉推迟了墨西哥建厂计划。汽车行业高管甚至宣称在美国推动汽车电动化行不通。分析师认为原因包括充电基础设施不足和电动汽车过于昂贵。过于昂贵的原因则是美国厂商热衷于生产大型化的汽车，美国流行的电动汽车也是大型的 SUV 和卡车，而此类汽车需要更大的电池，增加了成本。数据显示，2023 年 9 月美国电动汽车的均价为 50,683 美元，比去年同期下降 22%，但仍然比燃油汽车高  28%。",
-          "link": "https://www.solidot.org/story?sid=77052",
-          "publishedOn": "2024-01-04T14:45:14.000Z",
-          "wordCount": 175,
-          "title": "美国电动汽车销量增长放缓",
           "imageUrl": null
         }
       ]
