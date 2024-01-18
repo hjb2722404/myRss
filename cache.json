@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47479",
+          "author": "青小蛙",
+          "description": "简约翻译是一款原名叫 kiss-translator 的开源项目，主要用来进行网页翻译。支持 Chrome、Firefox 以及油猴脚本。可以进行整页翻译、划词翻译、鼠标悬停翻译等，并且拥有很多网页规",
+          "link": "https://www.appinn.com/kiss-translator/",
+          "publishedOn": "2024-01-17T13:27:57.000Z",
+          "wordCount": 2610,
+          "title": "简约翻译 – 自带网页规则的双语对照翻译、字幕翻译、划词翻译、自动翻译插件[Chrome/Firefox/油猴脚本]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-49.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=47475",
+          "author": "青小蛙",
+          "description": "微信 8.0.46 for iOS 更新，在 我的 > 通用 > 存储空间 中，新增了「资源文件和其他账号的聊天记录」，可释放部分手机空间。@Appinn 微信一直以来以超级占用大家的手机空间著称，最",
+          "link": "https://www.appinn.com/wechat-8-0-46-ios/",
+          "publishedOn": "2024-01-17T03:10:48.000Z",
+          "wordCount": 2534,
+          "title": "微信：存储空间新增「资源文件和其他账号的聊天记录」，可释放部分手机空间",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-48.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47464",
           "author": "青小蛙",
           "description": "DDColor 是一个为黑白图片上色的模型，只需要上传一张黑白图片，就能还你一张彩色图片。非常适合为老照片添加颜色。开源，并托管在 ModelScope（魔塔社区） 上，即开即用。@Appinn DD",
@@ -140,16 +160,6 @@
           "wordCount": 2561,
           "title": "键谱 – 记不住快捷键怎么办？自己做一张，打印出来放桌上",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-28.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47397",
-          "author": "青小蛙",
-          "description": "符号包裹是一款为文字添加各种符号的 Windows 工具，比如你可以为一串文字列表的每一行添加序号或者书名号，还能根据指定符号截断文字。属于 Excel 都能干的活，但是它干起来更简单。@Appinn",
-          "link": "https://www.appinn.com/fuhaobaoguo/",
-          "publishedOn": "2024-01-08T07:05:24.000Z",
-          "wordCount": 2602,
-          "title": "符号包裹 – Excel 都能干的活：为文字列表批量添加/删除序号、书名号，分隔文字[Windows]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-26.jpg"
         }
       ]
     },
@@ -208,6 +218,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77160",
+          "author": null,
+          "description": "上海 AI 实验室在 Apache-2.0 许可证下开源了 InternLM2。InternLM2 是在 2.6 万亿 token 的高质量语料上训练得到的。沿袭第一代 InternLM 的设定，InternLM2 包含 7B 及 20B 两种参数规格及基座、对话等版本，满足不同复杂应用场景需求。实验室称：InternLM2 有效支持 20 万字超长上下文：模型在 20 万字长输入中几乎完美地实现长文“大海捞针”，而且在 LongBench 和 L-Eval 等长文任务中的表现也达到开源模型中的领先水平。 可以通过 LMDeploy 尝试20万字超长上下文推理。综合性能全面提升：各能力维度相比上一代模型全面进步，在推理、数学、代码、对话体验、指令遵循和创意写作等方面的能力提升尤为显著，综合性能达到同量级开源模型的领先水平，在重点能力评测上 InternLM2-Chat-20B 能比肩甚至超越 ChatGPT （GPT-3.5）。代码解释器与数据分析：在配合代码解释器（code-interpreter）的条件下，InternLM2-Chat-20B 在 GSM8K 和 MATH 上可以达到和 GPT-4 相仿的水平。基于在数理和工具方面强大的基础能力，InternLM2-Chat 提供了实用的数据分析能力。",
+          "link": "https://www.solidot.org/story?sid=77160",
+          "publishedOn": "2024-01-17T14:47:47.000Z",
+          "wordCount": 210,
+          "title": "上海 AI 实验室开源 InternLM2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77159",
+          "author": null,
+          "description": "比特币的神秘作者中本聪曾在介绍比特币的邮件中表示它的交易具有匿名性，但到了 2013 年比特币被证明比现有的金融系统更容易跟踪和识别身份，也更透明。而第一位打破比特币匿名神话的是加州圣迭戈的计算机科学研究生 Sarah Meiklejohn。2013 年初，她在短时间内成为最活跃的比特币用户之一，她将计算机算力贡献给矿池，使用了 10 种比特币钱包服务，从丝绸之路暗网市场购买了各种奇奇怪怪的商品（不包括毒品）。她在数周内完成了 344 笔交易，每一笔交易的细节都纪录在电子表格里。她的目标是证明比特币的交易是可以被跟踪的。本周出版的新书《Tracers in the Dark: The Global Hunt for the Crime Lords of Cryptocurrency》讲述了这段十年前的历史。",
+          "link": "https://www.solidot.org/story?sid=77159",
+          "publishedOn": "2024-01-17T14:35:08.000Z",
+          "wordCount": 186,
+          "title": "打破比特币匿名神话的 27 岁研究员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77158",
+          "author": null,
+          "description": "苹果正在调整美国 iOS App Store 的政策，允许应用开发商引导用户通过非商店购买选项付费购买数字商品，但苹果仍然想对通过这种第三方支付的付费方式收取 12%-27% 的佣金。Google 和苹果应用商店中的应用内购通常只允许通过商店内置的付费选项支付，Google 和苹果从中提取约三成的佣金。这种做法引发了争议，Google 和苹果因此面临反垄断调查，它们正被迫允许应用开发商提供第三方支付选项，比如允许引导用户通过应用开发商的官网付费。苹果正在更新政策，但它仍然试图从用户付费中收取略微低一点的佣金。比如通过外链付费订阅应用一年的服务，苹果想要收取 27% 的佣金，第二年订阅的佣金比例降至 12%。",
+          "link": "https://www.solidot.org/story?sid=77158",
+          "publishedOn": "2024-01-17T13:48:25.000Z",
+          "wordCount": 168,
+          "title": "苹果仍然想收取第三方支付的佣金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77157",
+          "author": null,
+          "description": "Google 正更新 Chrome 隐身模式的警告，明确 Google 和网站运营商在浏览器隐身模式下仍然会收集用户数据。此举部分是为了解决一起集体诉讼。该诉讼指控搜索巨人侵犯了 Chrome 隐身模式相关的隐私权。警告加入到了面向开发者的隔夜构建版本 Chrome Canary 中。在 Chrome Canary 中打开隐身模式，会显示警告“您已进入隐身模式。使用此设备的其他人不会看到您的活动，因此您可以更私密的浏览。这不会改变您访问的网站及其使用的服务——包括 Google——的数据收集方式。”Chrome 稳定版中进入隐身模式后只显示，“您已进入隐身模式。现在您可以私密浏览，使用此设备的其他人将看不到您的活动。”",
+          "link": "https://www.solidot.org/story?sid=77157",
+          "publishedOn": "2024-01-17T10:23:51.000Z",
+          "wordCount": 183,
+          "title": "Google 承认在 Chrome 隐身模式下它仍然在跟踪用户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77156",
+          "author": null,
+          "description": "德国研究人员报告，Google 搜索的质量确实在劣化，搜索引擎看起来输掉了与低质量 SEO 网站的猫鼠游戏。魏玛包豪斯大学和莱比锡大学的研究人员分析了一年内 Google、Bing 和 DuckDuckGo 上 7392 个商品评论术语的搜索结果。他们发现低质量的 SEO 网站占领了搜索结果前列。低质量 SEO 网站与 Google 在搜索排名上展开了激烈的竞争，他们通过操纵系统进入搜索前列，然后 Google 调整算法降低其排名。SEO 工程师调整参数再次挫败系统。大多数情况下 Google、Bing 和 DuckDuckGo 调整算法剔除低质量 SEO 网站的效果只能持续较短时间。三大搜索引擎都存在相同的问题，而根据研究人员的测量，大部分情况下 Google 的表现要胜过 Bing 和 DuckDuckGo。研究人员警告，随着生成式 AI 的流行，搜索引擎未来的实用性将面临严峻挑战。",
+          "link": "https://www.solidot.org/story?sid=77156",
+          "publishedOn": "2024-01-17T09:53:00.000Z",
+          "wordCount": 197,
+          "title": "研究人员发现 Google 搜索质量确实在劣化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77155",
+          "author": null,
+          "description": "2023 年中国芯片进口额下跌 15.4%，从 2022 年的 4130 亿美元减少到 3490 亿美元，创 2004 年海关数据发布至今的最大跌幅。造成大幅下跌的可能原因包括全球的经济疲软，本国经济的通缩，美国对先进芯片的出口限制等。因全球经济疲软，台积电的销售额去年下滑了 4.5%，但中国芯片进口额下滑 15.4% 意味着存在经济疲软之外的其它因素。",
+          "link": "https://www.solidot.org/story?sid=77155",
+          "publishedOn": "2024-01-17T09:09:49.000Z",
+          "wordCount": 177,
+          "title": "2023 年中国芯片进口额下跌 15%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77154",
+          "author": null,
+          "description": "搜索巨人在新的一年继续裁员。本周二 Google 宣布它裁掉了数百名广告销售团队员工，虽然它没有将 AI 列为裁员的原因，但鉴于 Google 广告业务正转向 AI 驱动，AI 无疑是裁员的重要因素。作为 Google 最重要的产品，Google Ads 最近加入了大量生成式 AI 功能，其中之一是自然语言聊天机器人，帮助客户了解广告产品；其二是基于客户的预算和目标制作图像和文本等广告资源。这些生成式 AI 功能能取代人类为客户提供广告销售服务，而且它的服务响应速度比人类快得多。",
+          "link": "https://www.solidot.org/story?sid=77154",
+          "publishedOn": "2024-01-17T08:49:07.000Z",
+          "wordCount": 185,
+          "title": "Google 裁掉了数百名销售用 AI 替代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77153",
+          "author": null,
+          "description": "Wine 项目释出了 9.0 版本，主要变化包括；实验性的 Wayland 驱动，默认未启用；从 Windows 到 Unix 代码的所有转换都经过 NT 系统调用接口，这标志着多年重构工作的完成；新的 WoW64 模式允许在纯 64 位 Unix 系统运行 32 位 Windows 应用，该模式默认没有启用；增强 ARM64 平台支持，更新 Vulkan 驱动支持，改进 Direct3D 以及 DirectMusic 支持，等等。",
+          "link": "https://www.solidot.org/story?sid=77153",
+          "publishedOn": "2024-01-17T08:16:05.000Z",
+          "wordCount": 194,
+          "title": "Wine 9.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77152",
+          "author": null,
+          "description": "Rockstar Games 母公司 Take-Two 和 Remedy Entertainment 因 R 字母产生商标纠纷。Remedy 是《马克思·佩恩（Max Payne）》系列前两部的开发商，最近的作品包括了《量子破碎（Quantum Break)》、《控制（Control）》和《心灵杀手（Alan Wake）》系列。Remedy 自 1995 年成立至今使用了三个 logo，其中 1999 年到 2023 年之间的 logo 是风格化的 R 字母，其中心部分是子弹，它代表了该公司的马克思·佩恩时代，2023 年它启用了新的 logo， 由两个风格化的 R 字母构成，代表了它后马克思·佩恩时代的新旧作品。但该 logo 被 Take-Two 认为与 Rockstar 著名的 R 星商标过于相似。这不是第一次 Take-Two 卷入字母相关的商标纠纷，它此前因为 Hazelight Studios 游戏《双人成行（It Takes Two）》名称中包含了 Takes Two 而与其产生商标纠纷。",
+          "link": "https://www.solidot.org/story?sid=77152",
+          "publishedOn": "2024-01-17T06:14:08.000Z",
+          "wordCount": 225,
+          "title": "Take-Two 和 Remedy 因 R 字母产生商标纠纷",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77151",
+          "author": null,
+          "description": "名叫 ReTro 的克隆恒河猴首次活到成年，研究报告发表在《自然通讯》期刊上。被称为体细胞核移植(SCNT)的标准克隆技术通常导致克隆胚胎的出生率和存活率极低。在灵长类动物身上的成功尤其有限。当研究人员在 2018 年克隆长尾猕猴时，他们创造了 109 个克隆胚胎，将近四分之三的胚胎植入 21 只代孕猴子体内，其中 6 只怀孕，但只有两只活了下来。2022 年研究人员使用 SCNT 克隆了一只恒河猴，它存活了不到 12 个小时。为了调查克隆过程中出现的问题，位于上海的中科院研究人员将 484 个SCNT恒河猴胚胎与 499 个传统体外受精胚胎进行了比较。他们对 SCNT 胚胎进行了一系列的 DNA 分析，发现了发育过程中表观遗传修饰的显著差异。研究人员还发现，通常在母体和父系基因组中表达不同的基因，在克隆胚胎中失去了它们独特的模式，尤其是在胎盘内的细胞中。为了解决这个问题，研究人员开发了一种技术，即用体外受精胚胎的滋养细胞替换 SCNT 滋养细胞利用这种方法，研究人员创造了 113 个克隆恒河猴胚胎，并将其中 11个 植入 7 个代孕母亲体内，结果导致了两次怀孕。其中一个怀孕的代孕母亲生下了一只健康的雄性恒河猴，名叫 ReTro，它已经存活了两年多。另一位代孕母亲怀了一对双胞胎，在怀孕第 106 天死亡。",
+          "link": "https://www.solidot.org/story?sid=77151",
+          "publishedOn": "2024-01-17T05:33:56.000Z",
+          "wordCount": 191,
+          "title": "克隆恒河猴首次活到成年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77150",
+          "author": null,
+          "description": "国家统计局周三公布的数据显示，2023 年人口总数比 2022 年减少 208 万，全年出生人口 902 万，死亡人口 1110 万人，人口自然增长率为-1.48‰。根据去年发布的数据，2022 年人口比 2021 年减少 85 万，中国人口连续两年减少，并且呈递增趋势。2023 年人口出生率为 6.39‰，创历史新低。中国人口总数在过去两百年内一直是世界第一，去年被印度超过位居第二。国家统计局称，“从年龄构成看，16—59 岁的劳动年龄人口 86481 万人，占全国人口的比重为 61.3%；60 岁及以上人口 29697 万人，占全国人口的 21.1%，其中 65 岁及以上人口 21676 万人，占全国人口的 15.4%。”",
+          "link": "https://www.solidot.org/story?sid=77150",
+          "publishedOn": "2024-01-17T05:02:19.000Z",
+          "wordCount": 197,
+          "title": "2023 年出生人口 902 万",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77149",
           "author": null,
@@ -867,96 +987,6 @@
           "wordCount": 172,
           "title": "北京司法鉴定所能对 AirDrop 匿名投放进行溯源",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77081",
-          "author": null,
-          "description": "为缓解人们对游戏行业再次受到监管整顿的担忧，北京紧急就新措施召开磋商会议。上月底国家新闻出版署公布了《网络游戏管理办法（草案征求意见稿）》，结果导致主要游戏公司市值蒸发数千亿元，国家新闻出版署之后软化了立场。知情人士称，草案在发布前未采纳主要游戏公司的意见。知情人士表示，尽管加强监管是普遍预期，但由于事先沟通不充分，且条款极其严格，草案让所有人感到震惊。一名游戏公司高管称，他们之前被告知大部分监管针对的是未成年人，结果最终草案将所有人都包含在内。最终草案与 2021 年公布的初稿有巨大差异，监管力度加强，命令也更加详细，导致了游戏公司股价大跌。监管机构目前与主要游戏公司召开闭门会议，讨论草案的可行性和影响。",
-          "link": "https://www.solidot.org/story?sid=77081",
-          "publishedOn": "2024-01-08T13:56:10.000Z",
-          "wordCount": 158,
-          "title": "中国寻求缓解游戏业对新一轮监管的担忧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77080",
-          "author": null,
-          "description": "分析师预期 iPhone 的需求将会放缓，苹果的股价下跌，而微软的股价上涨，两家公司的市值相差千亿美元，微软有可能超越苹果成为市值最高的公司。苹果是在 2020 年 8 月成为第一家市值超过 2 万亿美元的美国上市公司，微软在 2021 年 6 月成为第二家。两家公司之后多次交替占居榜首。目前苹果市值 2.83 万亿美元，微软 2.73 万亿美元，相差 1000 亿美元。微软的股价在 2023 年上涨了 57%，苹果上涨 48%，最近几天因分析师称 iPhone 需求减弱且下半年上市的 iPhone 16 无突出功能后苹果股价大幅下跌。分析师认为，苹果过度依赖 iPhone 硬件销售是微软表现更出色的原因之一，微软不太依赖硬件的销售，它的主要收入来源是 Office 365 之类的软件订阅。微软还是在力推目前炙手可热的生成式 AI 工具 Copilot，而苹果尚无类似产品或服务。",
-          "link": "https://www.solidot.org/story?sid=77080",
-          "publishedOn": "2024-01-08T13:27:02.000Z",
-          "wordCount": 191,
-          "title": "微软市值有望超越苹果",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77079",
-          "author": null,
-          "description": "Web3 创业公司在 2023 年融资额为 78 亿美元，相比 2022 年的 215 亿美元减少了 73%。与此同时 AI 创业公司获得了逾 178 亿美元的投资。Web3 风光不再，在 AI 的浪潮下它是否有可能再次获得青睐？Web3 面临众多障碍，你没办法像 AI 那样推广 Web3。作为 Web3 重要组成部分的加密货币也面临监管方面问题。生成式 AI 用户能直接体验，但 Web3 仍然是空中楼阁，普通人难以体验。在变得可用前，Web3 创业公司难以摆脱现在的局面。",
-          "link": "https://www.solidot.org/story?sid=77079",
-          "publishedOn": "2024-01-08T12:24:36.000Z",
-          "wordCount": 196,
-          "title": "随着 AI 的兴起，Web3 停滞不前",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77078",
-          "author": null,
-          "description": "阿根廷、玻利维亚和智利交界处有着绵延数千公里的盐层，盐水储层蕴含着全世界 58% 的锂储量。而锂电池是智能手机和电动汽车等的关键组件。锂开采方法通常是将盐水抽到表面让水蒸发掉，锂盐浓缩到可以过滤提取，这个过程耗时 12 到 18 个月，既浪费掉了大量水又会留下大量的废弃物。为了加快提取锂并保护环境，很多公司正在开发用化学或物理方法提取锂将盐水重新注入地下的工艺。这种工艺被称为直接锂提取（direct lithium extraction 或 DLE），能在数小时而不是数个月提取锂，能将现有现有盐水作业的锂产量提高一倍。高盛认为，DLE 可能会像石油页岩开采技术那样改变游戏规则。中国的部分商业项目已开始使用西安蓝晓科技的 DLE 技术。",
-          "link": "https://www.solidot.org/story?sid=77078",
-          "publishedOn": "2024-01-08T11:35:15.000Z",
-          "wordCount": 169,
-          "title": "直接锂提取技术将加快锂的生产",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77077",
-          "author": null,
-          "description": "Mozilla 最近启动了 Mozilla.ai，在董事会中加入了多位专注于 AI 的成员。它在炙手可热的生成式 AI 领域有什么计划？Mozilla 总裁兼执行董事 Mark Surman 在接受采访时表示，Mozilla 的重心是构建一个封装器，对各种开源大模型进行微调，构建数据管线，改进性能。大部分相关工作尚未公开，未来几个月会透露更多信息。Surman 认为，不管开源 AI 如何，透明度和自由研究修改重分发代码的总体原则是关键。他说，少数几家资金雄厚的参与者支配了 AI 市场，开源组织需要联合起来创建替代方案。他认为这类似早期的开源运动，如创建微软 Windows 系统替代的 Linux 运动。",
-          "link": "https://www.solidot.org/story?sid=77077",
-          "publishedOn": "2024-01-08T09:37:18.000Z",
-          "wordCount": 188,
-          "title": "Mozilla 的 AI 计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77076",
-          "author": null,
-          "description": "印尼雅加达因含水层塌陷地面每年下沉近一英尺。未来三十年，北雅加达 95% 的地区可能会淹没在水下。因过度抽取地下水或沉积物沉降导致的地面下沉不只是发生在印尼。美国加州的圣华金河谷海拔下降了几十英尺。美国大西洋沿海地区每年下降几毫米，加上全球暖化伴随着的海平面上升，沿海地区的风险在增加。根据发表在PNAS Nexus 期刊上的新研究，美国大西洋沿岸逾 3700 平方公里的土地每年下沉逾 5 毫米，高于每年海平面上升的 4 毫米。除非停止抽取地下水，地面下沉将会越来越深。数以百万计的人口受到影响。",
-          "link": "https://www.solidot.org/story?sid=77076",
-          "publishedOn": "2024-01-08T08:01:17.000Z",
-          "wordCount": 166,
-          "title": "沿海地区地面下沉速度高于海平面上涨速度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77075",
-          "author": null,
-          "description": "Linus Torvalds 在内核邮件列表宣布释出 Linux 6.7。该版本因新年假期推迟了一周发布。主要新特性包括：移除了对英特尔安腾架构的支持，新 futex2 API 的第一部分，io_uring 的 futex 支持，BPF 异常机制， bcachefs 文件系统，TCP 身份认证选项，内核同页合并智能扫描模式，Landlock 安全模块网络支持，Nouveau 驱动初步支持英伟达 GSP 固件，等等，更多可浏览 KernelNewbies 6.7（更新中）。",
-          "link": "https://www.solidot.org/story?sid=77075",
-          "publishedOn": "2024-01-08T07:04:02.000Z",
-          "wordCount": 185,
-          "title": "Linux 6.7 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77074",
-          "author": null,
-          "description": "有 24 名阿波罗宇航员在 1960 年代和 1970 年代访问了月球，去年 10 月-11 月之间 Ken Mattingly 和 Frank Borman 在数天内相继去世，访问月球的阿波罗宇航员只剩下 8 人，登陆月球的宇航员只剩下 4 人，其中之一是 Charlie Duke。他登月时的年龄只有 36 岁，是最年轻的登月宇航员，目前与妻子 Dorothy 生活在德州圣安东尼奥郊外，两人结婚已有 60 年。Jim Lovell 是三名两次登月的宇航员之一，在 Frank Borman 以 95 岁高龄去世之后，他现在是最年长的仍然活着的阿波罗宇航员。Harrison Schmitt 在成为宇航员前不是飞行员而是一名地质学家，1975 年从 NASA 退役之后他被选为参议员，但只任一届，之后在多个行业担任顾问，继续从事学术工作。他对气候变化的科学共识持反对立场。登月第二人 Buzz Aldrin 去年结了第四次婚。",
-          "link": "https://www.solidot.org/story?sid=77074",
-          "publishedOn": "2024-01-08T06:30:06.000Z",
-          "wordCount": 198,
-          "title": "仍然活着的阿波罗宇航员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77073",
-          "author": null,
-          "description": "在 1928 年上映的迪士尼动画短片《蒸汽船威利（Steamboat Willie）》进入公有领域之后，YouTube 主播  Brock Baker 制作了他自己的《蒸汽船威利》配音版，上传到其频道，他的频道有逾百万订阅用户。他立即收到了迪士尼的版权侵犯声明，配音版本遭到限流，无法嵌入分享，在部分国家还遭到屏蔽。他随即对版权主张提起异议，因为《蒸汽船威利》已经不受版权保护了。迪士尼一天之后撤回了对《蒸汽船威利》的版权要求，他的视频恢复了正常访问。YouTube 的政策允许版权所有者在一个月内做出回应，但在本案中它的动作要迅速得多。过去几天有很多人在 YouTube 上传了《蒸汽船威利》，也收到了版权通知。",
-          "link": "https://www.solidot.org/story?sid=77073",
-          "publishedOn": "2024-01-08T05:50:48.000Z",
-          "wordCount": 170,
-          "title": "迪士尼撤回了对《蒸汽船威利》YouTube 视频的版权要求",
-          "imageUrl": null
         }
       ]
     },
@@ -1030,13 +1060,34 @@
       "title": "reuixiy",
       "feedUrl": "https://io-oi.me/rss.xml",
       "siteUrl": "https://io-oi.me/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://io-oi.me/life/how-do-you-live/",
+          "author": "reuixiy@gmail.com (reuixiy)",
+          "description": "这是一部怎样的电影？沉闷，我在昏暗的影院里，感受到的是沉闷。这个正在迎接死亡的老头，这次背对着荧幕，拿起了桌上的笔，创作了自己的自画像，一幅半开心扉的内心写照，真实却也是朦胧的。\n看着这幅画，我掉进了一个他用一生描绘的万花筒中，一个充溢着想象、惊喜、意外的缤纷世界。许多年前，这个老头和另三个老头一起开启了他们的人生旅程，我由衷钦佩他们的勇气、决心，和友谊。\n「君たちはどう生きるか」电影的标题浮现在我的脑海，我看着当时扶梯下行眯着眼睛看着巨大玻璃窗外白茫茫一片的自己，电影标题长久萦绕留存在我的印象中。好了，我们去搭建一个更好的世界吧。🌍",
+          "link": "https://io-oi.me/life/how-do-you-live/",
+          "publishedOn": "2024-01-17T18:13:43.000Z",
+          "wordCount": 20,
+          "title": "君たちはどう生きるか",
+          "imageUrl": "https://io-oi.me/images/how-do-you-live.jpg"
+        }
+      ]
     },
     {
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/what-is-a-temporary-browser",
+          "author": null,
+          "description": "TLDR: You can access a temporary browser session created by me and my team via browserling.com/browse. We spawn single-session browsers on our servers and stream only the browser interface to you. This solution is ideal for casual browsing and testing websites, without leaving a digital trace, such as history or cookies.\nTemporary Browser – What Is It?\nA temporary browser is a cloud-hosted web browser that operates for the duration of a single browsing session. Upon session termination, it automatically purges all retained data, including cookies, history, downloaded files, and cached content, ensuring a high degree of privacy and security. This approach effectively mitigates risks associated with data persistence and user tracking.\nTemporary Browser – How Does It Work?\nAt the start of eac…",
+          "link": "https://catonmat.net/what-is-a-temporary-browser",
+          "publishedOn": "2024-01-17T18:01:00.000Z",
+          "wordCount": 822,
+          "title": "What is a Temporary Browser?",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/20-new-image-tools",
           "author": null,
@@ -1155,16 +1206,6 @@
           "publishedOn": "2024-01-08T16:50:00.000Z",
           "wordCount": 772,
           "title": "How to Run Opera in Opera (browser in browser)",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/how-to-run-edge-in-edge",
-          "author": null,
-          "description": "TLDR: You can run Edge in Edge via browserling.com/edge. This link will open a virtual Edge browser inside of your Edge browser so that you can browse while you browse.\nWhat Is Edge?\nEdge is a web browser developed by Microsoft, built using the Chromium open-source project. It features integration with Microsoft's services and supports extensions from the Chrome Web Store. Edge is designed for Windows, macOS, and mobile platforms, offering features like a tracking prevention mechanism, a Collections feature for organizing web content, and integration with Microsoft's digital assistant, Cortana.\nWhat Is a Browser In a Browser?\nA browser in a browser is a setup where a web browser interface is embedded within another web browser, typically implemented using remote desktop technologies like V…",
-          "link": "https://catonmat.net/how-to-run-edge-in-edge",
-          "publishedOn": "2024-01-08T14:25:00.000Z",
-          "wordCount": 831,
-          "title": "How to Run Edge in Edge (browser in browser)",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
