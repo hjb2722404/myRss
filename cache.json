@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47552",
+          "author": "青小蛙",
+          "description": "播客录播助手 是一款 Windows 下的直播平台自动录屏工具，和「播客」无关，支持 YY、虎牙、斗鱼、B站等 25+ 主流直播平台的直播高清录制（后台自动录制，无需观看），在关注主播后可实现开播检测",
+          "link": "https://www.appinn.com/bklivedown-2/",
+          "publishedOn": "2024-01-25T12:19:21.000Z",
+          "wordCount": 2578,
+          "title": "播客录播助手 – 25+ 直播平台自动录屏工具（YY、虎牙、斗鱼、B站等），高清直播录屏、开播检测自动后台录制工具",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-65.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=47549",
+          "author": "青小蛙",
+          "description": "Penc 是一款开源工具，专门为 Mac 的触控板设计，通过快捷键（双击 ⌘）激活后，用手势移动窗口、调整窗口大小。@Appinn 这是青小蛙从 Tab Wrangler 里挖坟挖出来的，它排最早，大",
+          "link": "https://www.appinn.com/penc-for-macos/",
+          "publishedOn": "2024-01-25T10:03:49.000Z",
+          "wordCount": 2584,
+          "title": "Penc – 用 Mac 触控板快速移动窗口、调整窗口大小",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-64.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=47545",
+          "author": "青小蛙",
+          "description": "TextPal 是一款在 macOS 英文输入法状态下，快速输入 Emoji 表情的小工具。只需要输入快捷键 \\ 后面跟符号说明即可。中文输入法自带此功能，并且是中文输入。@Appinn 说起来，用惯",
+          "link": "https://www.appinn.com/textpal/",
+          "publishedOn": "2024-01-25T09:27:37.000Z",
+          "wordCount": 2590,
+          "title": "TextPal – 在 macOS 英文输入法状态下，快速输入 Emoji 表情",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-63.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47535",
           "author": "青小蛙",
           "description": "SQL 之母是开发者 @程序员鱼皮 在 GitHub 完全开源的一个项目，提供了完全免费的闯关式 SQL 自学教程。完全想不到居然有人只改了开发者的名字，然后就发布出来说「独立开发了一个在线 SQL",
@@ -140,26 +170,6 @@
           "wordCount": 2534,
           "title": "微信：存储空间新增「资源文件和其他账号的聊天记录」，可释放部分手机空间",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-48.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47464",
-          "author": "青小蛙",
-          "description": "DDColor 是一个为黑白图片上色的模型，只需要上传一张黑白图片，就能还你一张彩色图片。非常适合为老照片添加颜色。开源，并托管在 ModelScope（魔塔社区） 上，即开即用。@Appinn DD",
-          "link": "https://www.appinn.com/ddcolor-model/",
-          "publishedOn": "2024-01-16T08:36:29.000Z",
-          "wordCount": 2573,
-          "title": "DDColor – 黑白图像上色，为老照片添加生动、自然的色彩",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-44.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47456",
-          "author": "青小蛙",
-          "description": "Podcast Generator 是一款用 PHP 编写的开源播客内容发布与管理系统，专为播客发布与管理而设计。让播客作者可以很轻松的上传剧集。不过有用户将其用来管理自己的有声书，并在其他设备上收听",
-          "link": "https://www.appinn.com/podcast-generator/",
-          "publishedOn": "2024-01-16T04:59:27.000Z",
-          "wordCount": 2876,
-          "title": "Podcast Generator – 开源的播客发布与管理系统，居然用来听有声书",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-41.jpg"
         }
       ]
     },
@@ -200,16 +210,6 @@
           "wordCount": 1395,
           "title": "CSS @scope他来了",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11103",
-          "author": "张 鑫旭",
-          "description": "其实获取视频的缩略图并不需要视频解码就能实现，方法就是其貌不扬的HTML video元素。",
-          "link": "https://www.zhangxinxu.com/wordpress/2024/01/js-get-video-thumb-poster/",
-          "publishedOn": "2024-01-15T15:55:26.000Z",
-          "wordCount": 1483,
-          "title": "使用JS快速获取video视频任意位置的缩略图",
-          "imageUrl": null
         }
       ]
     },
@@ -218,6 +218,76 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77224",
+          "author": null,
+          "description": "苹果在 1984 年 1 月发布了第一代麦金塔/Mac 个人电脑。它在当时被认为具有革命性，是第一款鼠标操作、菜单导向图形用户界面的个人电脑，但价格过于昂贵，售价 2495 美元，相当于今天的 7300 美元。它必须与苹果自己的廉价电脑 Apple II 系列展开竞争，而当微软用 Windows 拥抱 Mac 的界面之后，留给 Mac 的空间微乎其微。Mac 电脑如今是苹果最长寿的产品，尽管它对于苹果收入的贡献甚微。20 年前乔布斯（Steve Jobs）强调 Mac 对苹果仍然重要，10 年前苹果高管表示该公司会一直生产 Mac。过去二十年苹果收入的主要来源已经从 iPod 转变到了iPhone、iPad 和 Apple Watch，下周苹果还将发布新的头戴式设备 Vision Pro。40 岁的 Mac 在苹果产品线中属于非常小的一部分。",
+          "link": "https://www.solidot.org/story?sid=77224",
+          "publishedOn": "2024-01-25T14:31:43.000Z",
+          "wordCount": 195,
+          "title": "Mac 电脑诞生四十年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77223",
+          "author": null,
+          "description": "纽约市宣布，它是第一个发布建议将社交媒体指定为“环境毒素（environmental toxin）”的美国城市。纽约市市长埃里克·亚当斯（Eric Adams）在市情咨文演讲中，将社交媒体归类为“公共健康危害”和“环境毒素”，并表示必须保护年轻人免受网络“伤害”。“今天，阿什温·瓦桑博士（Ashwin Vasan，纽约市健康与心理卫生局局长）发布了卫生专员的建议，正式将社交媒体指定为纽约市的公共健康危害。”亚当斯说。这份建议称，纽约年轻人的心理健康状况“十多年来一直在下降”。2021 年的数据显示，在工作日，77% 的纽约市高中生每天在屏幕前花费至少 3 个小时，这还不包括做家庭作业。亚当斯称，TikTok、YouTube 和 Facebook“通过设计具有令人上瘾和危险功能的平台，加剧了心理健康危机。”",
+          "link": "https://www.solidot.org/story?sid=77223",
+          "publishedOn": "2024-01-25T13:45:10.000Z",
+          "wordCount": 166,
+          "title": "纽约市将社交媒体归类为环境毒素",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77222",
+          "author": null,
+          "description": "日本游戏工作室 Pocketpair 开发的《Palworld /幻兽帕鲁》成为今年的第一款爆款作品，过去一周销量突破 800 万份，同时在线玩家突破 200 万，在 Steam 平台历史上仅次于《PUBG绝地求生》的 325 万。《幻兽帕鲁》是一款结合精灵宝可梦和方舟玩法的开放世界生存和收集游戏，里面的幻兽帕鲁与著名的宝可梦有相似之处，在玩家中间引发了抄袭的指控，部分玩家甚至向宝可梦公司投诉。宝可梦公司为此发表声明，它没有授权《幻兽帕鲁》开发使用其 IP，会调查任何侵权行为并采取合适行动。",
+          "link": "https://www.solidot.org/story?sid=77222",
+          "publishedOn": "2024-01-25T10:26:17.000Z",
+          "wordCount": 170,
+          "title": "宝可梦公司声明调查《幻兽帕鲁》的潜在抄袭指控",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77221",
+          "author": null,
+          "description": "艺术界公布了一份 1.6 万名艺术家的名单，号召艺术家们团结起来对抗提供文本图像生成服务的 AI 公司如 Midjourney。部分英国艺术家已经联络美国律师，讨论加入针对 Midjourney 和 Stability AI 等公司的集体诉讼，而其他英国艺术家则表示考虑在英国提起相应诉讼。艺术家们的投诉称，虽然被告喜欢用高深的词语去形容他们的 AI 图像产品，但现实更卑鄙更肮脏：AI 图像产品被视为是洗版权的工具，向客户承诺艺术的好处而不需要向艺术家支付费用。艺术家们发现，Midjourney 会生成与他们的原始作品非常相似的图像，他们认为这是复制。",
+          "link": "https://www.solidot.org/story?sid=77221",
+          "publishedOn": "2024-01-25T09:46:23.000Z",
+          "wordCount": 183,
+          "title": "上万艺术家指控 Midjourney 使用其作品训练 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77220",
+          "author": null,
+          "description": "《原子科学家公报（Bulletin of the Atomic Scientists）》今年的末日时钟仍然停留在距离午夜 90 秒。末日时钟旨在衡量人类文明距离灭绝有多远。今年的《原子科学家公报》将 AI 添加到对人类构成存在性威胁的名单之中，但并没有因此拨快时钟，可能是因为 AI 尚未先进的真的会威胁到人类。",
+          "link": "https://www.solidot.org/story?sid=77220",
+          "publishedOn": "2024-01-25T07:43:16.000Z",
+          "wordCount": 174,
+          "title": "末日时钟仍然距离午夜 90 秒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77219",
+          "author": null,
+          "description": "英伟达发布了新驱动 551.23 Game Ready，其中包含了一项新功能 RTX Video HDR，使用 AI 将 SDR 色彩空间视频转换为 HDR。用户所需要的是拥有 RTX 显卡，兼容 HDR10 的显示器，以及在 Windows 中启用 HDR。Video HDR 功能支持 Microsoft Edge 和 Google Chrome，用户的显卡至少需要 RTX 20 系列，它利用了 GPU 的 Tensor Core（张量计算核心）。",
+          "link": "https://www.solidot.org/story?sid=77219",
+          "publishedOn": "2024-01-25T07:17:38.000Z",
+          "wordCount": 209,
+          "title": "英伟达新驱动使用 AI 将 SDR 内容转变为 HDR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77218",
+          "author": null,
+          "description": "京都地方法院 25 日对被控杀人等罪名的青叶真司（45岁）作出死刑判决。此前检方要求判处死刑。法院认为案发时青叶具备刑事责任能力。2019 年 7 月 18 日上午 10 点半左右，被告闯入有员工等 70 人的京都动画第一工作室，向员工泼洒汽油并纵火，杀害 36 人并导致 32 人不同程度受伤。这起案件是日本数十年来最严重的恶性事件。京都动画成立于 1981 年，昵称为京阿尼，主要致力于制作独立动画，其作品包括《凉宫春日的忧郁》，《轻音少女》，《小林家的女仆龙》等等。 \n查看全文",
+          "link": "https://www.solidot.org/story?sid=77218",
+          "publishedOn": "2024-01-25T05:25:28.000Z",
+          "wordCount": 174,
+          "title": "青叶真司被判处死刑",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77217",
           "author": null,
@@ -927,76 +997,6 @@
           "wordCount": 187,
           "title": "Anthropic 警告 AI 中毒可能导致开源大模型变成潜伏的间谍",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77146",
-          "author": null,
-          "description": "IDC 最新发布的数据显示，2023 年智能手机的全球出货量苹果跃居首位。韩国三星 13 年来再次跌至第 2 位。2023 年的全球市场规模比 2022 年减少 3.2%，降至 11 亿 6690 万部，受全球通货膨胀和技术成熟的影响，创出过去 10 年最低水平。这是三星自 2010 年以来再次失去首位宝座。从出货量来看，苹果同比增长 3.7%，达到 2 亿 3460 万部，市场份额达到创历史最高的 20.1%。三星下降 13.6%，降至 2 亿 2660 万部，市场份额为 19.4%。小米排在第三，出货量下降 4.7%。在非洲很受欢迎的中国传音控股增长 30.8%。",
-          "link": "https://www.solidot.org/story?sid=77146",
-          "publishedOn": "2024-01-16T09:04:53.000Z",
-          "wordCount": 201,
-          "title": "IDC 数据显示去年全球手机出货量创 10 年新低",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77145",
-          "author": null,
-          "description": "一组天文学家使用 NASA 哈勃望远镜探测到了一颗系外行星的天气变化。WASP-121 b 是一颗木星大小的系外行星，距离地球 880 光年，被母星潮汐锁定，围绕母星一周仅需 30 小时，它的表面在恒星紫外线的照射下非常炎热。天文学家在三年多时间内对其进行了数次观测，构建了一个数据集，用计算机模拟重组系外行星的大气条件。WASP-121 b 之类的系外行星无法直接观测，只能在它从恒星与地球之间掠过时的光线变化进行观测。观测其大气层更困难，天文学家主要通过其光谱的变化确定其大气层构成。哈勃的第三代广域照相机（Wide Field Camera 3，WFC3）在 2016 年、2018 年和 2019 年对 WASP-121 b 进行了四次观测，收集了 90 小时的观测数据。研究报告将发表在《The Astrophysical Journal》增刊上。",
-          "link": "https://www.solidot.org/story?sid=77145",
-          "publishedOn": "2024-01-16T08:31:44.000Z",
-          "wordCount": 182,
-          "title": "天文学家使用哈勃观测系外行星的天气",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77144",
-          "author": null,
-          "description": "根据发表在《Nature Cities》上的一项研究，城市为居民生活提供了很多便利，但不是所有人都能享受这些便利，尤其是对于低收入和年轻一代居民而言。研究人员使用 GPS 位置数据，测量了城市流动性，以及年轻人和弱势群体的种族和经济隔离。他们发现在大都市内年轻人最孤立。相比成年人，年轻人大部分时间是呆在家中，离开家时出行范围也很有限，很少去餐馆和零售场所。高收入家庭的学生比低收入家庭的学生访问更多的便利设施，在户外度过更多的时间，探索更多独特的地理位置。",
-          "link": "https://www.solidot.org/story?sid=77144",
-          "publishedOn": "2024-01-16T07:41:17.000Z",
-          "wordCount": 159,
-          "title": "城市青年在大都市内最孤立",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77143",
-          "author": null,
-          "description": "去年 10 月美国国际贸易委员会(ITC)裁决，苹果的 Apple Watch Series 9 和 Apple Watch Ultra 2 等型号的智能手表侵犯了开发医疗监控技术的 Masimo 公司的脉搏血氧计专利，勒令苹果停售相关产品。为避免专利纠纷而导致禁售，苹果正从其最新的智能手表 Series 9 和 Ultra 2 移除血氧功能。Masimo 周一披露，美国海关和边境保护局于 1 月 12 日批准了这一变动，允许继续进口苹果智能手表，认为新的变动意味这些智能手表不在  ITC 禁令的范围内。",
-          "link": "https://www.solidot.org/story?sid=77143",
-          "publishedOn": "2024-01-16T06:39:17.000Z",
-          "wordCount": 184,
-          "title": "苹果将从智能手表中移除血氧功能以避免被禁售",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77142",
-          "author": null,
-          "description": "Google 从 2021 年开始尝试将完整版 Chrome/Chromium 带到其 Fuchsia OS 操作系统。Fuchsia OS 是 Google 开发的实验性操作系统，使用名叫 Zircon 的微内核。Fuchsia 操作系统在很长时间里只具有最基本的网络访问功能，它的浏览器 Simple Browse 甚至不支持地址栏和标签。过去两年，Google 经历了多轮裁员，Fuchsia 部门也遭遇了裁员。根据 Chromium 最近的代码更改，Google 开发者声明 fuchsia 上的 Chrome 浏览器将不再被维护。",
-          "link": "https://www.solidot.org/story?sid=77142",
-          "publishedOn": "2024-01-16T06:17:23.000Z",
-          "wordCount": 204,
-          "title": "Google 停止了将完整版 Chromium 带到 Fuchsia 的尝试",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77141",
-          "author": null,
-          "description": "为了遵守欧盟的数字市场法（Digital Markets Act），微软被迫在 Windows 11 系统中做出一系列重大改变，如允许卸载 MS Edge，而苹果也面临同样的问题。据彭博社报道，苹果准备在未来几周对 App Store 进行重大改变，它将欧盟地区的 App Store‌ 与世界其它地方分割开来，欧盟的 App Store‌ 将允许侧载（sideloading）和第三方支付。苹果遵守数字市场法的最后期限是 3 月 7 日，苹果需要在七周内完成这些变动。苹果 CEO 库克（Tim Cook）上周在其总部会见了欧盟反垄断主管 Margrethe Vestager，Vestager 强调了苹果遵守法规的义务。",
-          "link": "https://www.solidot.org/story?sid=77141",
-          "publishedOn": "2024-01-16T06:00:41.000Z",
-          "wordCount": 190,
-          "title": "为遵守欧盟法律苹果准备切分欧盟的 App Store‌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77140",
-          "author": null,
-          "description": "微软上周二释出了例行安全更新，结果是很多 Windows 10 用户通过社交媒体报告遭遇了 0x80070643 错误。问题补丁 KB5034441 旨在修复 Windows 10 21H2 和 22H2 的 BitLocker 漏洞。微软称，0x80070643 错误代码可能并不正确，实际错误原因与恢复分区容量不足有关，“Windows Recovery Environment servicing failed. (CBS_E_INSUFFICIENT_DISK_SPACE)”。早期版本的 Windows 10 恢复分区比较小。修复该错误需要用户用管理权限打开命令提示符窗口，执行一系列命令，调整分区大小，将恢复分区大小扩大到 250 MB。用户抱怨 Windows 什么时候变成了 Linux。",
-          "link": "https://www.solidot.org/story?sid=77140",
-          "publishedOn": "2024-01-15T14:49:12.000Z",
-          "wordCount": 198,
-          "title": "微软最新的 Windows 10 更新出错需要使用命令行修正",
-          "imageUrl": null
         }
       ]
     },
@@ -1105,26 +1105,6 @@
           "publishedOn": "2024-01-17T18:01:00.000Z",
           "wordCount": 822,
           "title": "What is a Temporary Browser?",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/20-new-image-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nLast week we added 30 new image tools and today we just added another 20 new tools to our Image Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new image tools:\nAdd Effects to Image\nConvert Image to Polaroid\nAdjust Image Brightness\nAdjust Image Contrast\nAdjust Image Hue\nAdjust Image Lightness\nAdjust Image Saturation\nUpsize an Image\nDownsize an Image\nFind Image Dimensions\nFind Image File Size\nChange Image Orientation\nGenerate Image from Text\nIncrease Space Around an Image\nOptimize an Image\nRecompress a JPG\nChange Image Quality\nRefine Edges of an Image\nTwist Image Pixels\nImage Viewer\nNext week we'll add even more tools. See you then!",
-          "link": "https://catonmat.net/20-new-image-tools",
-          "publishedOn": "2024-01-16T13:25:00.000Z",
-          "wordCount": 306,
-          "title": "We've added another 20 new image tools",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/what-is-an-internet-sandbox",
-          "author": null,
-          "description": "TLDR: You can access a secure Internet sandbox created by my team and me through browserling.com/browse, where we operate browsers in virtual machines and stream them as a video to you. This setup ensures a controlled and isolated browsing environment, safeguarding your computer from potential cyber threats and allowing for safe exploration of the web.\nInternet Sandbox – What Is It?\nAn Internet sandbox is a secure, isolated environment where untested, untrusted, or unknown websites and applications can be opened safely, without risking the integrity of the primary operating system. Essentially, it acts like a quarantined area or a secondary Internet browsing environment, separate from the user's main system and network. In this environment, users can safely experiment with new software, ex…",
-          "link": "https://catonmat.net/what-is-an-internet-sandbox",
-          "publishedOn": "2024-01-15T18:45:00.000Z",
-          "wordCount": 998,
-          "title": "What is an Internet Sandbox?",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
