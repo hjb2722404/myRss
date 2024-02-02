@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47582",
+          "author": "青小蛙",
+          "description": "Trancy 是一款专为移动端定制开发的插件，提供了许多功能。其中包括 AI 划词翻译功能，可以通过划词来实现翻译；还有沉浸式全文翻译功能，可以将整篇文章进行翻译。除此之外，Trancy 还支持 Yo",
+          "link": "https://www.appinn.com/trancy-for-mobile/",
+          "publishedOn": "2024-02-01T11:14:23.000Z",
+          "wordCount": 2617,
+          "title": "手机浏览器必备翻译插件 – Trancy",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/Appinn-feature-images-71.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=47598",
+          "author": "青小蛙",
+          "description": "嗯背单词是一个支持英日双语（未来支持更多语种），采用独特算法设计，支持编辑单词之间双向关联的高效背单词 APP 来自发现频道，开发者 @whitecosm0s 自荐： https://met",
+          "link": "https://www.appinn.com/en-beidanci/",
+          "publishedOn": "2024-02-01T04:25:53.000Z",
+          "wordCount": 2589,
+          "title": "【iOS】高效重复 + 双链笔记，用这个 APP 30天搞定英语，日语单词!",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/enbeidanci.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47595",
           "author": "青小蛙",
           "description": "Agr Reader 是一款简单的安卓 RSS 阅读器，Material Design 3 风格，支持 FreshRSS、Tiny Tiny RSS、Miniflux 源，自带翻译功能，分组、收藏、通",
@@ -140,16 +160,6 @@
           "wordCount": 2602,
           "title": "Record You – 开源、轻量级录音、录屏工具，Material Design 3 风格[Android]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-59.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47523",
-          "author": "青小蛙",
-          "description": "极速记账是一款微信小程序，专门用来打牌记账。在同一个房间里的人，互相记账，最终结账。@Appinn 感谢 @阿韬的推荐。 很简单易用的微信小程序，三步走： 就差直接在微信里打牌了，完美闭环。 小视频",
-          "link": "https://www.appinn.com/jisujizhang-wechat-miniapps/",
-          "publishedOn": "2024-01-23T08:20:38.000Z",
-          "wordCount": 2561,
-          "title": "极速记账 – 过年打牌记账，ta 赖账怎么办？",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/01/Appinn-feature-images-58.jpg"
         }
       ]
     },
@@ -1046,6 +1056,36 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/how-does-a-virtual-browser-work",
+          "author": null,
+          "description": "In this article, extracted from my Comprehensive Virtual Browser Guide, I explain how a virtual browser works and how to quickly access a virtual browser via Browserling.\nVirtual Browser Demo\nA demo speaks louder than a thousand words. You can connect to a virtual browser created by me and my team via browserling.com/browse. We run virtual browsers on our servers and stream just the browser window to you as a live video.\nHow Does a Virtual Browser Work?\nA virtual browser is created by booting a new virtual machine for each browsing session, ensuring complete isolation from the user's local network. This setup guarantees that each session starts with a clean slate, free of any cookies, history, or previous activity. As soon as the browser session is closed, the virtual machine is destroyed,…",
+          "link": "https://catonmat.net/how-does-a-virtual-browser-work",
+          "publishedOn": "2024-02-01T17:11:00.000Z",
+          "wordCount": 532,
+          "title": "How Does a Virtual Browser Work?",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/what-is-a-single-task-browser",
+          "author": null,
+          "description": "TLDR: You can instantly access a single-task browser via browserling.com/browse. I and my team host single-session virtual browsers on remote servers and stream only the browser interface to your device. After each session, the virtual machine, browser, history, cookies, and downloads are erased, ensuring privacy and security.\nSingle-Task Browser – What Is It?\nA single-task browser is a browser designed to execute a specific lightweight web task or run a JavaScript function once, usually for purposes like web automation, testing, or cybersecurity assessments. These browsers start with a clean state – no pre-existing cookies, history, or cached data – and automatically delete all traces of activity, including cookies, history, and downloads, upon completing the task. This ensures a consiste…",
+          "link": "https://catonmat.net/what-is-a-single-task-browser",
+          "publishedOn": "2024-02-01T15:00:00.000Z",
+          "wordCount": 1106,
+          "title": "What is a Single-Task Browser?",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/paid-plans-for-binary-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast month we launched paid plans for Hex Tools and today we're launching paid plans for our next most popular tool category – Binary Tools. Binary tools are used by 15,000 people every month and they let you count zeros and ones in binary numbers, invert, reverse, shift, and rotate binary bits, change bases, and much more.\nNext, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.\nFrom technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.\nYou can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.\nSee you next time!",
+          "link": "https://catonmat.net/paid-plans-for-binary-tools",
+          "publishedOn": "2024-02-01T07:15:00.000Z",
+          "wordCount": 399,
+          "title": "Announcing paid plans for Binary tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/what-is-a-download-sandbox",
           "author": null,

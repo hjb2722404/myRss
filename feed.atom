@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-02-01T02:21:44.475Z</updated>
+    <updated>2024-02-02T02:17:46.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Does a Virtual Browser Work?]]></title>
+        <id>https://catonmat.net/how-does-a-virtual-browser-work</id>
+        <link href="https://catonmat.net/how-does-a-virtual-browser-work"/>
+        <updated>2024-02-01T17:11:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, extracted from my Comprehensive Virtual Browser Guide, I explain how a virtual browser works and how to quickly access a virtual browser via Browserling.
+Virtual Browser Demo
+A demo speaks louder than a thousand words. You can connect to a virtual browser created by me and my team via browserling.com/browse. We run virtual browsers on our servers and stream just the browser window to you as a live video.
+How Does a Virtual Browser Work?
+A virtual browser is created by booting a new virtual machine for each browsing session, ensuring complete isolation from the user's local network. This setup guarantees that each session starts with a clean slate, free of any cookies, history, or previous activity. As soon as the browser session is closed, the virtual machine is destroyed,…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Single-Task Browser?]]></title>
+        <id>https://catonmat.net/what-is-a-single-task-browser</id>
+        <link href="https://catonmat.net/what-is-a-single-task-browser"/>
+        <updated>2024-02-01T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: You can instantly access a single-task browser via browserling.com/browse. I and my team host single-session virtual browsers on remote servers and stream only the browser interface to your device. After each session, the virtual machine, browser, history, cookies, and downloads are erased, ensuring privacy and security.
+Single-Task Browser – What Is It?
+A single-task browser is a browser designed to execute a specific lightweight web task or run a JavaScript function once, usually for purposes like web automation, testing, or cybersecurity assessments. These browsers start with a clean state – no pre-existing cookies, history, or cached data – and automatically delete all traces of activity, including cookies, history, and downloads, upon completing the task. This ensures a consiste…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手机浏览器必备翻译插件 – Trancy]]></title>
+        <id>https://www.appinn.com/?p=47582</id>
+        <link href="https://www.appinn.com/trancy-for-mobile/"/>
+        <updated>2024-02-01T11:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Trancy 是一款专为移动端定制开发的插件，提供了许多功能。其中包括 AI 划词翻译功能，可以通过划词来实现翻译；还有沉浸式全文翻译功能，可以将整篇文章进行翻译。除此之外，Trancy 还支持 Yo]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing paid plans for Binary tools]]></title>
+        <id>https://catonmat.net/paid-plans-for-binary-tools</id>
+        <link href="https://catonmat.net/paid-plans-for-binary-tools"/>
+        <updated>2024-02-01T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Team Browserling keeps shipping!
+Last month we launched paid plans for Hex Tools and today we're launching paid plans for our next most popular tool category – Binary Tools. Binary tools are used by 15,000 people every month and they let you count zeros and ones in binary numbers, invert, reverse, shift, and rotate binary bits, change bases, and much more.
+Next, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.
+From technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.
+You can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.
+See you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【iOS】高效重复 + 双链笔记，用这个 APP 30天搞定英语，日语单词!]]></title>
+        <id>https://www.appinn.com/?p=47598</id>
+        <link href="https://www.appinn.com/en-beidanci/"/>
+        <updated>2024-02-01T04:25:53.000Z</updated>
+        <summary type="html"><![CDATA[嗯背单词是一个支持英日双语（未来支持更多语种），采用独特算法设计，支持编辑单词之间双向关联的高效背单词 APP 来自发现频道，开发者 @whitecosm0s 自荐： https://met]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Download Sandbox?]]></title>
         <id>https://catonmat.net/what-is-a-download-sandbox</id>
@@ -1034,16 +1095,6 @@ Vision Pro 首周末卖出 16–18 万部。但该产品可能不具有长尾效
         <summary type="html"><![CDATA[喀麦隆在世界上率先大规模接种疟疾疫苗。本周一在首都雅温德(Yaounde)，名叫 Daniella 的女婴接受了第一剂疫苗注射。根据 WHO 的数据，非洲每年有 60 万人死于疟疾，其中 5 岁以下儿童占八成以上。喀麦隆向所有 6 个月以下婴儿免费接种 RTS,S 疫苗。病人需要总共接种四剂。卫生官员表示，为方便父母疟疾疫苗将与其它儿童疫苗一同接种。联合国儿童基金会称，在肯尼亚、加纳和马拉维开展的疫苗试点取得了成功，这些国家符合条件的儿童因疟疾死亡人数下降了 13%。美国研究人员称，疫苗对至少 36% 的病例有效，意味着可以挽救逾三分之一疟疾感染者的生命，但低有效率也意味着它不是什么一剂见效的灵丹妙药。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极速记账 – 过年打牌记账，ta 赖账怎么办？]]></title>
-        <id>https://www.appinn.com/?p=47523</id>
-        <link href="https://www.appinn.com/jisujizhang-wechat-miniapps/"/>
-        <updated>2024-01-23T08:20:38.000Z</updated>
-        <summary type="html"><![CDATA[极速记账是一款微信小程序，专门用来打牌记账。在同一个房间里的人，互相记账，最终结账。@Appinn 感谢 @阿韬的推荐。 很简单易用的微信小程序，三步走： 就差直接在微信里打牌了，完美闭环。 小视频]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
