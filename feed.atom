@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-02-06T02:17:37.627Z</updated>
+    <updated>2024-02-07T02:16:32.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is a Private Browser?]]></title>
+        <id>https://catonmat.net/what-is-a-private-browser</id>
+        <link href="https://catonmat.net/what-is-a-private-browser"/>
+        <updated>2024-02-06T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR:  You can instantly access a secure, private browser via browserling.com/browse. Developed by me and my team, our service delivers isolated web browser sessions directly to you as a video stream from our remote servers.
+Private Browser – What Is It?
+A private browser is a cloud-based browser that provides enhanced anonymity and security for the user. It operates in a temporary virtual machine that runs in the cloud, ensuring that no history, cookies, or session data are retained post-session. This approach maximizes privacy and minimizes the user's digital footprint on the web.
+Private Browser – How Does It Work?
+A private browser operates by spawning a new virtual machine for each user session, hosted on a cloud infrastructure. This isolated environment ensures that all browsing acti…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoothrase – 图片去水印、照片去路人，白描开发者新作：用 ChatGPT 开发的完整的 iPhone、iPad 应用]]></title>
+        <id>https://www.appinn.com/?p=47648</id>
+        <link href="https://www.appinn.com/smoothrase/"/>
+        <updated>2024-02-06T10:35:24.000Z</updated>
+        <summary type="html"><![CDATA[Smoothrase 是一款 iOS 上使用 AI 实现的图片去水印工具，由本地 AI 驱动，可以移除照片中的多余物体，比如电线、脸部瑕疵、纹身、路人、建筑等，简单易用，直接涂抹多余物体即可。由著名的]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 向 Rust 基金会资助了 100 万美元]]></title>
+        <id>https://www.solidot.org/story?sid=77321</id>
+        <link href="https://www.solidot.org/story?sid=77321"/>
+        <updated>2024-02-06T06:50:11.000Z</updated>
+        <summary type="html"><![CDATA[Google 周一向 Rust 基金会捐赠了 100 万美元，这笔款项专门用于改进 Rust 和 C++ 之间的互操作性。Rust 是一种内存安全语言，而 Google 和微软系统发现的大部分漏洞都属于内存安全漏洞。Google 工程、Android 安全和隐私副总裁 Dave Kleidermacher 表示，Rust 已主动阻止了数百个影响 Android 生态系统的漏洞，这笔投资旨在推动 Rust 的普及。Rust 与 C++ 的互操作性是 Google 等组织扩大采用 Rust 的最大障碍之一。现有系统的大部分代码都是用 C++ 编写的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging Face 发布开源自定义 AI 聊天助手]]></title>
+        <id>https://www.solidot.org/story?sid=77320</id>
+        <link href="https://www.solidot.org/story?sid=77320"/>
+        <updated>2024-02-06T06:29:39.000Z</updated>
+        <summary type="html"><![CDATA[Hugging Face 发布了开源自定义 AI 聊天助手工具。Hugging Face 类似 GitHub，但托管的是 AI 代码和框架。Hugging Chat Assistants 类似 OpenAI 的自定义 GPT Builder，但不同的是 GPT Builder 完全依赖于 OpenAI 的私有大模型 GPT-4 和 GPT-4 Vision/Turbo，而 Hugging Chat Assistants 可选各种 AI 开源模型，从  Mistral 的 Mixtral 到 Meta 的 Llama 2，而且它还是免费的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub 短暂屏蔽了它的联合创始人、前 CEO 的账号]]></title>
+        <id>https://www.solidot.org/story?sid=77319</id>
+        <link href="https://www.solidot.org/story?sid=77319"/>
+        <updated>2024-02-06T05:28:02.000Z</updated>
+        <summary type="html"><![CDATA[GitHub 短暂了屏蔽了其联合创始人、前 CEO Chris Wanstrath “defunkt”的账号。他在社交媒体上发布这一消息之后 GitHub COO Kyle Daigle 亲自检查了该事件，发现是该平台的 Automation System 系统触发的误报。Chris Wanstrath 与 PJ Hyett 等人于  2008 年共同创办了代码托管和分享平台 GitHub，在 2018 年被微软收购前他先后两次担任 GitHub CEO 一职。此事凸显了在 GitHub 上托管关键系统所面临的风险，绝大部分开发者都不是 GitHub 联合创始人或前高管，他们的账号如果无缘无故被封不太可能会在短时间内解封。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在线麻将接龙 – 经典配对游戏，龙年主题上线]]></title>
+        <id>https://www.appinn.com/?p=47638</id>
+        <link href="https://www.appinn.com/mahjongg-mentor/"/>
+        <updated>2024-02-06T04:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Mahjongg Mentor 是一个免费的在线麻将接龙游戏，拥有多种接龙样式、颜色主题。最近专为中国用户上线了漂亮的龙年主题，配合 8 块奖励牌，在新年期间愉快的玩耍吧。@Appinn 微软曾经也在]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国国王确诊癌症]]></title>
+        <id>https://www.solidot.org/story?sid=77318</id>
+        <link href="https://www.solidot.org/story?sid=77318"/>
+        <updated>2024-02-06T04:01:20.000Z</updated>
+        <summary type="html"><![CDATA[白金汉宫表示，英王查尔斯三世（King Charles III）确诊患有某种癌症。该癌症是在他最近接受前列腺增大（摄护腺肥大）治疗期间被发现，但并不是前列腺癌（摄护腺癌）。癌症的类型并未披露，但根据白金汉宫的声明，查尔斯于周一开始接受“定期治疗”。75 岁的查尔斯将暂停他的公开活动，而王后卡米拉和威廉王子将在他接受治疗期间代替他履行职务。关于癌症的阶段或预后，白金汉宫并没有披露更多细节。白金汉宫表示，国王查尔斯“对治疗感到完全正面，并期望尽快全面恢复公开活动职务”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类对温度变化非常敏感]]></title>
+        <id>https://www.solidot.org/story?sid=77317</id>
+        <link href="https://www.solidot.org/story?sid=77317"/>
+        <updated>2024-02-06T03:20:20.000Z</updated>
+        <summary type="html"><![CDATA[研究发现人类对温度变化的敏感度不到 1 摄氏度。实验使用了四个温度控制在 23 至25摄氏度之间的气候室。男性和女性各 13 名参与者在房间之间移动来比较成对的房间，然后确定哪个房间感觉更热，哪个房间感觉更冷。每个人在两组房间之间进行 120 次比较，总共进行 3120 次比较。对数据的分析显示，感知温差的平均阈值为 0.92 摄氏度。此外，所有的参与者都表现出非常相似的温度敏感性。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究估计仙女星系质量约为太阳的 1.14 万亿倍]]></title>
+        <id>https://www.solidot.org/story?sid=77316</id>
+        <link href="https://www.solidot.org/story?sid=77316"/>
+        <updated>2024-02-06T03:10:30.000Z</updated>
+        <summary type="html"><![CDATA[中国天文学家使用郭守敬望远镜（LAMOST）的光谱数据和仙女星系（M31）已有的观测结果，估计仙女星系质量约为 1.14 万亿倍太阳质量。仙女星系是距离银河系最近的大型漩涡星系，离地球大约 250 万光年。银河系的质量约为太阳质量的 8900 亿倍-1.54 万亿倍之间。中国研究团队收集了13679 个具有视向速度测量值的位于仙女星系的天体，绘制出距离仙女星系中心 40.76 万光年内的旋转曲线，精度达到 5%—20%。研究结果显示，仙女星系的旋转曲线在其星系盘上保持恒定值约为每秒 220 千米，向外逐渐减小至外晕处时约为每秒 170 千米。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[六成 Steam 玩家仍然用 1080p 显示屏分辨率]]></title>
         <id>https://www.solidot.org/story?sid=77315</id>
@@ -1043,59 +1137,6 @@ Throw-away browsers operate on Amazon EC2 …]]></summary>
         <link href="https://www.solidot.org/story?sid=77242"/>
         <updated>2024-01-28T14:34:40.000Z</updated>
         <summary type="html"><![CDATA[穆迪分析公司研究发现，逾 2200 家空壳公司有年龄 123 岁以上的董事，而全世界已知的最年长人类活到了 122 岁。其中最年长的董事年龄 942 岁，出生在公元 11 世纪。虽然世界各地制定新法律寻求提高空壳公司的透明度，研究显示还有很长的路要走，全世界每年的洗钱金额高达 1.6 万亿美元。穆迪分析的调查发现，一家中国纺织服装制造商虽然只有一名员工，但 2019 年的收入逾 20 亿美元。他们还发现有数千名董事的年龄不到 5 岁，2.2 万家公司用埃及金字塔作为地址，有人在 2883 个不同实体担任了 5751 个职位。空壳公司风险最多的国家是英国，存在问题的空壳公司接近 500 万。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday Sale]]></title>
-        <id>https://catonmat.net/sunday-sale</id>
-        <link href="https://catonmat.net/sunday-sale"/>
-        <updated>2024-01-28T12:31:00.000Z</updated>
-        <summary type="html"><![CDATA[At Browserling and Online Tools, we love sales.
-We just created a new automated Sunday Sale sales campaign.
-Now each week on Sunday, we show a 50% discount offer to all users who visit our site.
-Run automated sales too and see you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Tab Search –  全文搜索已打开 Chrome 标签页内容，支持中文]]></title>
-        <id>https://www.appinn.com/?p=47575</id>
-        <link href="https://www.appinn.com/deep-tab-search/"/>
-        <updated>2024-01-28T12:09:44.000Z</updated>
-        <summary type="html"><![CDATA[Deep Tab Search 是一款可以全文搜索已打开的 Chrome 标签页内容的扩展，支持中文。输入关键词后自动跳转页面。@Appinn 来自发现频道，@Sullevy 同学推荐：https:/]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 应用商店 Flathub 的活跃 Flatpak App 用户突破百万]]></title>
-        <id>https://www.solidot.org/story?sid=77241</id>
-        <link href="https://www.solidot.org/story?sid=77241"/>
-        <updated>2024-01-27T15:51:16.000Z</updated>
-        <summary type="html"><![CDATA[Linux 应用商店 Flathub 宣布其 Flatpak App 活跃用户突破百万。Flathub 提供了 Flatpak 打包的应用，其商店有逾 2,400 款应用，其中 850 款有原作者的认证，所有应用的总下载量 16 亿次。Flathub 团队认为，用户增长来自多个因素，其中包括流行应用如 Firefox、Thunderbird、VLC、Spotify、OBS Studio、Google Chrome 和 Telegram 等的可用性，Steam Deck 桌面模式默认将 Flathub 作为应用来源，Fedora、Linux Mint 和 KDE neo 等发行版的支持，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家在银河系内发现古老的巨恒星]]></title>
-        <id>https://www.solidot.org/story?sid=77240</id>
-        <link href="https://www.solidot.org/story?sid=77240"/>
-        <updated>2024-01-27T15:11:24.000Z</updated>
-        <summary type="html"><![CDATA[天文学家在银河系中心区域发现了一群古老的巨恒星，它们释放出太阳系大小的尘埃气体云。天文学家将它们称为“老烟民（old smokers）”，很多年里它们安安静静，黯淡几乎不可见，然后突然喷出了巨大的烟云。天文学家旨在寻找原恒星，他们跟踪了数亿颗恒星，识别出 32 颗喷发中的原恒星，它们的亮度至少增加了 40 倍，部分情况下增加了逾 300 倍。在分析期间研究人员银河系中心附近发现了一群古老的红巨星，使用欧洲南方天文台甚大望远镜进一步观察发现，其中 7 颗被认为是一种新型的红巨星，他们将之称为“老烟民”。研究报告发表在《Monthly Notices of the Royal Astronomical Society》期刊上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果 iOS 17.4 测试版发现大模型相关代码]]></title>
-        <id>https://www.solidot.org/story?sid=77239</id>
-        <link href="https://www.solidot.org/story?sid=77239"/>
-        <updated>2024-01-27T14:35:03.000Z</updated>
-        <summary type="html"><![CDATA[苹果 iOS 17.4 的首个 Beta 版本中发现了与大语言模型相关的代码。苹果代码中包含了名叫 SiriSummarization 的私有框架，能调用 OpenAI 的 ChatGPT API。苹果不太可能会在正式版本中使用 ChatGPT 支持其 AI 功能，它可能是在测试自己的大模型，然后与 ChatGPT 的结果进行对照。iOS 17.4 代码显示苹果在测试四种不同的大模型，其中之一是此前披露过的 Ajax。苹果在测试两个版本的 AjaxGPT，其中之一在设备上进行处理，另一个可能是云端。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
