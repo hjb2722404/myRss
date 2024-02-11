@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-02-10T02:15:15.182Z</updated>
+    <updated>2024-02-11T02:20:15.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Open Websites in a Sandbox]]></title>
+        <id>https://catonmat.net/how-to-open-websites-in-a-sandbox</id>
+        <link href="https://catonmat.net/how-to-open-websites-in-a-sandbox"/>
+        <updated>2024-02-10T20:11:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: You can instantly open any website in a sandbox via browserling.com/browse, which offers a secure and isolated environment for testing, debugging, or assessing web content for potential security threats without exposing your own device or network to risk.
+What Is a Sandbox?
+A sandbox is a secure, isolated environment (usually a virtual machine, a container, or a cloud server) that allows the execution and analysis of untrusted web links, JavaScript code, or software without risking the integrity or security of the user's system. It's commonly used in cybersecurity to safely test suspicious web content, analyze malware behavior, and evaluate potentially malicious downloads, documents, and files thereby preventing direct harm to real systems and networks.
+Why Should You Open Websites i…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z 世代拥抱实体书]]></title>
+        <id>https://www.solidot.org/story?sid=77343</id>
+        <link href="https://www.solidot.org/story?sid=77343"/>
+        <updated>2024-02-10T14:44:05.000Z</updated>
+        <summary type="html"><![CDATA[Z 世代正在复兴实体书阅读。实体书购买量在增加，更多年轻一代访问图书馆。2023 年英国实体书销售量为  6.69 亿册，为有纪录以来最高。Nielsen BookData 的研究显示，Z 世代喜欢实体书，占到了 2021 年 11 月到 2022 年 11 月购买量的八成。图书馆也报告，喜欢安静的 Z 世代年轻人有小幅增加。Z 世代的阅读类型也不限于幻想和浪漫类小说，他们阅读各种主题的书，并没有人们以为的同质化。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Secure Browser?]]></title>
+        <id>https://catonmat.net/what-is-a-secure-browser</id>
+        <link href="https://catonmat.net/what-is-a-secure-browser"/>
+        <updated>2024-02-10T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: A demo speaks louder than a thousand words. You can connect to a secure browser created by me and my team via browserling.com/browse. We run secure browsers on our remote servers and stream just the browser window to you as a video.
+Secure Browser – What Is It?
+A secure browser is a web browser that isolates browsing activities from the local computer and network by running in a sandboxed environment (such as a virtual machine) on a remote server. This approach mitigates risks associated with web-based threats, such as phishing, malware infiltration, and drive-by downloads, by ensuring any malicious content is contained within the virtual machine and cannot compromise the user's local system. It enables safe investigation of suspicious links and downloads, crucial for threat analysis…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为法国办事处被突击搜查]]></title>
+        <id>https://www.solidot.org/story?sid=77342</id>
+        <link href="https://www.solidot.org/story?sid=77342"/>
+        <updated>2024-02-10T13:44:03.000Z</updated>
+        <summary type="html"><![CDATA[华为周五证实，称其位于法国的办公室 2 月 6 日遭到法国方面的突击搜查。法国司法界消息人士透露，华为是因涉嫌违反廉正行为遭到突击搜查。消息人士称，此次搜查是法国国家金融检察官办公室（PNF）的发起的初步调查的一部分。华为否认有不当行为，发表声明表示：“华为已充分配合调查人员的调查，并将继续这样做。华为进入法国已达20多年，始终尊重法国的所有法律法规。尽管华为法国公司不愿对正在进行的调查发表评论，但公司对调查结论仍然充满信心。”法国关于“违反廉正”行为的定义包括腐败、以权谋私、非法获取利益等违法行为。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Instagram 和 Threads 将停止推荐政治内容]]></title>
+        <id>https://www.solidot.org/story?sid=77341</id>
+        <link href="https://www.solidot.org/story?sid=77341"/>
+        <updated>2024-02-10T13:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Meta 宣布旗下应用 Instagram 和 Threads 将停止推荐政治内容，除非用户明确要求展示此类内容。想要在公共信息流中看到政治内容的用户可以在账号设置中关闭限制。Meta 称这一更新没有改变用户浏览所关注账号的内容展示方式，发布政治内容的账号仍然能通过动态和故事向其关注者展示此类内容。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家找到数据存储和时间的最佳平衡]]></title>
+        <id>https://www.solidot.org/story?sid=77340</id>
+        <link href="https://www.solidot.org/story?sid=77340"/>
+        <updated>2024-02-10T13:04:56.000Z</updated>
+        <summary type="html"><![CDATA[1953 年 IBM 科学家 Hans Peter Luhn 提出了一种存储和检索信息的新方法，它就是哈希表（hash table），如今已内置在几乎所有计算机系统中。哈希表是历史最悠久、速度最快、最简单且使用最广泛的数据结构之一，它设计执行三个操作：插入，在数据库里加入新条目；查询，获取一个条目或检查该条目是否存在；删除。Chrome 或 Safari 等浏览器可能内置了多个哈希表去跟踪不同类的数据。哈希表不可避免的存在权衡取舍。1957 年另一位 IBM 计算机科学家 W. Wesley Peterson 指出了哈希表面临的技术挑战：需要足够快以快速检索必要的信息，需要紧凑使用尽可能少的内存。两个目标从根本上是矛盾的：哈希表有更多内存时能更快访问和修改数据库，哈希表使用更少空间时操作会很慢。几十年来，研究人员一直在寻找哈希表时间和空间的最佳平衡。2022 年纽约石溪大学的 Michael Bender 等人发表论文，提出了一种具有时间和空间效率最佳组合的新哈希表。2023 年普林斯顿大学 Huacheng Yu 领导的一个团队证明 Bender 的哈希表是理论上的最优解。由于新哈希表太复杂，还没人尝试在短时间去构建，而且理论上快的算法在实践中未必快。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小众软件 2023 年度精选.1]]></title>
+        <id>https://www.appinn.com/?p=47668</id>
+        <link href="https://www.appinn.com/appinn-2023-top-15-list-1/"/>
+        <updated>2024-02-10T06:45:28.000Z</updated>
+        <summary type="html"><![CDATA[继 2022 年精选榜单之后，今天带来小众软件 2023 年度精选。所有内容来自小众软件精选分类，仅代表青小蛙的主观评断。@Appinn 先来回顾下：《兔年（2023）小众软件微信公众号阅读数前 10]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We've added another 20 new png tools]]></title>
         <id>https://catonmat.net/another-20-new-png-tools</id>
@@ -821,165 +896,6 @@ Single-Task Browser – What Is It?
 A single-task browser is a browser designed to execute a specific lightweight web task or run a JavaScript function once, usually for purposes like web automation, testing, or cybersecurity assessments. These browsers start with a clean state – no pre-existing cookies, history, or cached data – and automatically delete all traces of activity, including cookies, history, and downloads, upon completing the task. This ensures a consiste…]]></summary>
         <author>
             <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微短剧在美国逐渐火爆]]></title>
-        <id>https://www.solidot.org/story?sid=77280</id>
-        <link href="https://www.solidot.org/story?sid=77280"/>
-        <updated>2024-02-01T13:08:43.000Z</updated>
-        <summary type="html"><![CDATA[微短剧最近开始在美国火爆起来，它以短视频的形式为注意力短暂的互联网时代制作肥皂剧。其中最大的参与者是中文在线集团的支持的微短剧应用 ReelShort。Sensor Tower 的数据显示， ReelShort 上个月在苹果应用商店的下载量达到了 100 万次，收入达 500 万美元；在 Google Play 商店的下载量达到了 300 万次，收入达 300 万美元。根据 data.ai 的数据，2023 年美国总共有逾 700 万人在苹果手机或 Android 手机上下载了 ReelShort。去年它的全球下载量超过了 2400 万次。印度是继美国之后 ReelShort 的第二大市场，第三是菲律宾。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家捕捉到光合作用“从水到氧”过程]]></title>
-        <id>https://www.solidot.org/story?sid=77279</id>
-        <link href="https://www.solidot.org/story?sid=77279"/>
-        <updated>2024-02-01T12:52:41.000Z</updated>
-        <summary type="html"><![CDATA[日本冈山大学教授沈建仁等人成功捕捉到了负责植物光合作用的蛋白质中存在的催化剂吸收水分子的瞬间。研究报告发表在本周出版的《自然》期刊上。光合作用是指植物和藻类利用阳光分解水和二氧化碳、产生能量和氧气的反应。名为“光系统Ⅱ”的约 20 个蛋白质与叶绿素组成的复合体吸收光能，从水分子中分离电子和氢离子，形成氧气分子的过程是光合作用的开始。研究团队此前捕捉到水分子被光系统Ⅱ吸收之后的情形，但不知道这一过程中发生了什么。研究团队在 X 射线激光设施“SACLA”中，利用持续数十飞秒(1 秒的 1000 万亿分之一)的 X 射线进行闪光拍摄，捕捉到了光系统Ⅱ蛋白质的快速活动。用可见光照射蛋白质，在促进反应的同时，通过 X 射线照射分析了吸收水分子后立体结构发生变化的情形。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本月球探测器发回照片，因日落将休眠]]></title>
-        <id>https://www.solidot.org/story?sid=77278</id>
-        <link href="https://www.solidot.org/story?sid=77278"/>
-        <updated>2024-02-01T12:20:00.000Z</updated>
-        <summary type="html"><![CDATA[JAXA 透露，降落在月球表面的探测器“SLIM”在 28 日恢复运用后持续顺利工作，还使用特殊摄像头在月表实施了额外的岩石观测。由于着陆点迎来“日落”，预计在太阳能发电暂停的 2 月 1 日以后，SLIM 将进入休眠状态。SLIM 于 20 日降落时因处于“倒立”状态，太阳能电池板朝向西侧，无法发电。28 日，太阳朝向变化后恢复了发电。不过，月球上大约每两周昼夜交替一次，因此若着陆点迎来“日落”，就无法使用太阳能发电。JAXA 表示今后的运用事宜未定。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卫星正变成新的手机信号塔]]></title>
-        <id>https://www.solidot.org/story?sid=77277</id>
-        <link href="https://www.solidot.org/story?sid=77277"/>
-        <updated>2024-02-01T12:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Starlink 最新一代卫星 v2mini 上个月演示了卫星与手机之间接收发送短信。亚马逊、苹果、AST SpaceMobile、华为和 Lynk Global 也都有类似的卫星短信项目。未来 Starlink 星座还有可能支持卫星和手机之间的语音和数据传输，不再需要使用地面终端。卫星与手机蜂窝基站融合所面临的一大挑战是地面的手机信号塔是静止的，手机是移动的；天上的信号塔是移动的，手机反而相对而言是静止的。以前的卫星手机需要巨大的天线，而且需要多颗卫星的视线畅通，获取信号还需要时间。现在能支持卫星的手机并不需要重新设计，不需要类似卫星电话的巨大天线，反而是卫星的天线被放大了。AST SpaceMobile 第一代卫星的天线面积达到了 64 平方米，第二代进一步扩大到 128 平方米，未来还计划放大到 400 平方米。Starlink 的 v2mini 卫星天线面积为 6.21 平方米，未来支持蜂窝网络的卫星也将会更大，需要 Starship 重型火箭发射。支持手机通信的卫星轨道高度也比以前同步轨道上的通信卫星低得多，因此更像是太空的基站。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手机浏览器必备翻译插件 – Trancy]]></title>
-        <id>https://www.appinn.com/?p=47582</id>
-        <link href="https://www.appinn.com/trancy-for-mobile/"/>
-        <updated>2024-02-01T11:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Trancy 是一款专为移动端定制开发的插件，提供了许多功能。其中包括 AI 划词翻译功能，可以通过划词来实现翻译；还有沉浸式全文翻译功能，可以将整篇文章进行翻译。除此之外，Trancy 还支持 Yo]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软招募 Rust 开发者重写核心 C# 代码]]></title>
-        <id>https://www.solidot.org/story?sid=77276</id>
-        <link href="https://www.solidot.org/story?sid=77276"/>
-        <updated>2024-02-01T09:26:12.000Z</updated>
-        <summary type="html"><![CDATA[微软正在招募 Rust 开发者去重写核心 C# 代码。微软招募的职位隶属于 Microsoft 365 Core Platform 旗下的 Substrate App Platform 组，该组从事微软云服务的幕后工作。 微软称，它正在组建一个团队去现代化其平台服务。软件巨人早就表达了对 Rust 的兴趣，Windows 操作系统安全总监 David "dwizzle" Weston 去年初表示  Rust 代码已经进入了 Windows 内核。Rust 是一种高性能、内存安全语言，而软件项目的大部分漏洞都属于内存安全 bug。自 2006 年以来微软在 Windows 中修复的漏洞大约七成是内存安全漏洞。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI 移除了安装在路由器上的中国僵尸网络程序]]></title>
-        <id>https://www.solidot.org/story?sid=77275</id>
-        <link href="https://www.solidot.org/story?sid=77275"/>
-        <updated>2024-02-01T07:59:23.000Z</updated>
-        <summary type="html"><![CDATA[美国司法部周三表示，FBI 向数百个路由器发送指令移除了设备上感染的中国僵尸网络程序。这些路由器主要是已结束支持的思科和网件（Netgear）设备，它们被悄悄安装了 KV Botnet 恶意程序。黑客和被感染设备之间的通信使用了安装的 VPN 模块进行了加密。要合法删除这些被感染设备上的恶意程序，FBI 需要获得联邦法官的授权。虽然 FBI 删除了设备上的 KV Botnet 阻止了其 VPN 进程的运行，但如果设备重启，它们还是容易重新感染恶意程序，FBI 计划联系 ISP 由他们去通知受影响的客户。路由器是使用期限比较长的设备，当供应商结束支持停止提供安全补丁之后它们容易被黑客入侵。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing paid plans for Binary tools]]></title>
-        <id>https://catonmat.net/paid-plans-for-binary-tools</id>
-        <link href="https://catonmat.net/paid-plans-for-binary-tools"/>
-        <updated>2024-02-01T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Team Browserling keeps shipping!
-Last month we launched paid plans for Hex Tools and today we're launching paid plans for our next most popular tool category – Binary Tools. Binary tools are used by 15,000 people every month and they let you count zeros and ones in binary numbers, invert, reverse, shift, and rotate binary bits, change bases, and much more.
-Next, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.
-From technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.
-You can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.
-See you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复旦杀死书记的教师被判死缓]]></title>
-        <id>https://www.solidot.org/story?sid=77274</id>
-        <link href="https://www.solidot.org/story?sid=77274"/>
-        <updated>2024-02-01T06:13:57.000Z</updated>
-        <summary type="html"><![CDATA[2024 年 2 月 1 日上午，上海市第二中级人民法院公开宣判姜文华故意杀人案，以故意杀人罪判处姜文华死刑，缓期二年执行，剥夺政治权利终身；对被告人姜文华限制减刑。2021 年  6 月发生的这起凶杀案行凶者罕见的得到了人们的同情，认为部分原因与目前中国高校推行的 tenure-track（非升即走）制度有关。tenure-track 来自美国，但美国的制度远没有中国竞争激烈。美国的 tenure-track 候选人通常就 1 到 2 人，而中国的 tenure-track 却常常有双数位的候选人，评判标准还经常有变动，导致青年教师在耗费许多年的时间后却一无所获。2022 年复旦大学宣布将推出“非升即走”的替代方案。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【iOS】高效重复 + 双链笔记，用这个 APP 30天搞定英语，日语单词!]]></title>
-        <id>https://www.appinn.com/?p=47598</id>
-        <link href="https://www.appinn.com/en-beidanci/"/>
-        <updated>2024-02-01T04:25:53.000Z</updated>
-        <summary type="html"><![CDATA[嗯背单词是一个支持英日双语（未来支持更多语种），采用独特算法设计，支持编辑单词之间双向关联的高效背单词 APP 来自发现频道，开发者 @whitecosm0s 自荐： https://met]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Download Sandbox?]]></title>
-        <id>https://catonmat.net/what-is-a-download-sandbox</id>
-        <link href="https://catonmat.net/what-is-a-download-sandbox"/>
-        <updated>2024-01-31T21:16:00.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: You can connect to a download sandbox created by me and my team via browserling.com/browse. It lets you safely download and view files, including executables, documents, and PDFs in a remote, isolated environment.
-Download Sandbox – What Is It?
-A download sandbox is a secure, isolated environment used in cybersecurity to safely execute and analyze untrusted files, such as those downloaded from the Internet or sent as email attachments. This virtual environment acts as a quarantine area where potentially harmful executables can be run without affecting the host system, thereby protecting against malware and security breaches. Download sandboxes are designed for temporary use and they discard all browsing history and data after each session, ensuring a clean slate for each new analysis…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JetBlue is now a Browserling customer!]]></title>
-        <id>https://catonmat.net/jetblue-browserling-customer</id>
-        <link href="https://catonmat.net/jetblue-browserling-customer"/>
-        <updated>2024-01-31T18:45:00.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: Success!
-It's another small step for a ling but one giant leap for ling kind. See you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员尝试将大肠杆菌作为显示器去玩《Doom》]]></title>
-        <id>https://www.solidot.org/story?sid=77273</id>
-        <link href="https://www.solidot.org/story?sid=77273"/>
-        <updated>2024-01-31T15:35:27.000Z</updated>
-        <summary type="html"><![CDATA[1993 年发布的 FPS 游戏《Doom》衍生出了名为 Doom running on everything（DROE）的文化现象，尝试在任何有屏幕的东西上运行这款游戏。那么生物系统是否有可能？如何设计出有屏幕的生物系统？MIT 博士生 Lauren "Ren" Ramlan 利用荧光蛋白将大肠杆菌作为单个像素，用大肠杆菌构成了一个 32x48 的 1 位显示器，每个细胞根据需要使用荧光蛋白进行点亮。由于细胞能力有限，仅仅为了显示游戏中的一帧就需要细胞花 70 分钟点亮，还需要花 8 小时 20 分钟才能返回到初始状态。也就是说为了显示游戏中的一帧，你需要等待 8.5 小时。《Doom》平均通关时间 5 小时，其每秒帧数为 35，意味着在大肠杆菌上通关《Doom》需要 599 年。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML MicroData微数据结构简介]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=11116</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/01/html-microdata/"/>
-        <updated>2024-01-31T14:58:31.000Z</updated>
-        <summary type="html"><![CDATA[只要你的产品有SEO的需求，那么MicroData微数据就是必须要了解的知识，通过几个属性，让数据结构更适合搜索引擎识别。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网信办去年约谈了逾万家网站]]></title>
-        <id>https://www.solidot.org/story?sid=77272</id>
-        <link href="https://www.solidot.org/story?sid=77272"/>
-        <updated>2024-01-31T14:19:05.000Z</updated>
-        <summary type="html"><![CDATA[网信办总结了 2023 年的工作成果：全年共约谈网站 10646 家，责令 453 家网站暂停功能或更新，下架移动应用程序 259 款，关停小程序 119 款，会同电信主管部门取消违法网站许可或备案、关闭违法网站 14624 家，督促相关网站平台依法依约关闭违法违规账号 127878 个。典型案例包括：
-针对百度、必应、夸克浏览器等网站平台未按照法律法规要求尽到管理义务，在搜索环节呈现法律、法规禁止发布或传输的信息问题，国家网信办指导属地网信办分别依法约谈相关网站负责人，责令其限期整改，从严处理责任人，并分别给予罚款行政处罚。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
