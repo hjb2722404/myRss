@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-02-13T02:17:37.095Z</updated>
+    <updated>2024-02-14T02:17:46.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软正在为 Windows 11 开发类似 DLSS 的上采样技术]]></title>
+        <id>https://www.solidot.org/story?sid=77353</id>
+        <link href="https://www.solidot.org/story?sid=77353"/>
+        <updated>2024-02-13T13:15:32.000Z</updated>
+        <summary type="html"><![CDATA[微软正在为 Windows 11 开发类似 DLSS 的 AI 上采样技术。在现有的上采样技术中，DLSS 是英伟达私有的技术，且只支持英伟达显卡；AMD 的 FSR 为开源的，基本支持所有平台；英特尔的 XeSS 类似 FSR 也不限于支持自家的 Intel Arc 显卡。微软将其上采样技术描述为利用 AI 技术让支持的游戏运行更流畅细节更丰富。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD 未来计划停止支持 32 位架构]]></title>
+        <id>https://www.solidot.org/story?sid=77352</id>
+        <link href="https://www.solidot.org/story?sid=77352"/>
+        <updated>2024-02-13T13:00:18.000Z</updated>
+        <summary type="html"><![CDATA[FreeBSD 发行版宣布了停止支持 32 位架构的未来计划：FreeBSD 15.0 将不包含 armv6、i386 和 powerpc 架构，FreeBSD 16.0 将不包含 armv7 架构。至少在 v16 分支中会一直支持在 64 位内核执行 32 位二进制文件。开发者表示此举是为了整合资源，32 位平台在减少，而支持相关架构的开发者也在减少，除了逐渐停止支持现有的 32 位架构，FreeBSD 不会引入新的 32 位架构如 32 位 RISC-V。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Sandboxed Firefox?]]></title>
+        <id>https://catonmat.net/what-is-a-sandboxed-firefox</id>
+        <link href="https://catonmat.net/what-is-a-sandboxed-firefox"/>
+        <updated>2024-02-13T12:01:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: You can instantly access a sandboxed Firefox browser via browserling.com/firefox. I and my team created a sandboxed Firefox version that runs on remote servers and we stream just the browser window to you. Each session starts with a new and clean user profile and once the session ends, all data (cookies, downloads, browser history) is deleted.
+Sandboxed Firefox – What Is It?
+A sandboxed Firefox is a modified version of the regular Firefox web browser designed to run in a remote virtual machine. This configuration isolates the browser from the host operating system, enhancing security by containing potential threats within the sandbox environment, thereby mitigating the risk of system-wide and network-wide compromises. This approach ensures secure browsing by minimizing the attack sur…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We've Added 20 New PNG Tools]]></title>
+        <id>https://catonmat.net/20-new-png-tools</id>
+        <link href="https://catonmat.net/20-new-png-tools"/>
+        <updated>2024-02-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Team Browserling keeps shipping!
+Last week we added 10 new image tools and today we just added another 20 new tools to our Online PNG Tools collection.
+We've done our job and now it's Google's job to index them and rank them well.
+Here are the new PNG tools:
+Analyze PNG
+View PNG Components
+Convert Text to PNG
+Convert PNG to Hex Codes
+Convert Hex Codes to PNG
+Create a Color Spectrum
+Create a Gradient Palette
+Add Empty Space Around PNG
+Add Padding to PNG
+Remove Color from PNG
+Find PNG File Size
+Find PNG Dimensions
+Check if the Given Image is PNG
+Check if a PNG is Transparent
+Show Transparent PNG Areas
+Generate PNG Alpha Mask
+Check if PNG is Landscape or Portrait
+Convert Portrait PNG to Landscape PNG
+Convert Landscape PNG to Portrait PNG
+Preview PNG on a Colorful Background
+Next week we'll add even more tools. See you then!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软电脑管家 上架 微软商店，为全球用户提供服务｜适合新手用户]]></title>
+        <id>https://www.appinn.com/?p=47684</id>
+        <link href="https://www.appinn.com/microsoft-pc-manager-on-the-microsoft-store/"/>
+        <updated>2024-02-13T05:04:09.000Z</updated>
+        <summary type="html"><![CDATA[历时 2 年，由微软中国出品的《微软电脑管家》终于正式上架微软商店，为全球 Windows 用户提供一站式电脑问题解决方案，包括系统被篡改、空间不足、卡顿、弹窗、广告等问题。@Appinn 早在 20]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 资助的 CUDA 实现 ZLUDA 开源]]></title>
+        <id>https://www.solidot.org/story?sid=77351</id>
+        <link href="https://www.solidot.org/story?sid=77351"/>
+        <updated>2024-02-12T16:29:41.000Z</updated>
+        <summary type="html"><![CDATA[可能有人还记得 ZLUDA 项目，该开源项目旨在为英特尔显卡提供 CUDA 支持，也就是基于英伟达 CUDA 的应用无需修改就能运行在英特尔显卡上。该项目几年前停止了更新，但并没有停止开发。项目作者 Andrzej Janik 与 AMD 签订了合同，旨在让 CUDA 应用无需修改就能运行在 AMD 的显卡上。但 AMD 如今将投资重心集中在了 CUDA  的替代 ROCMv6 上，因此停止了对 ZLUDA 项目的资助，好消息是它允许 Andrzej Janik 将其开源。初步测试显示，许多 CUDA 软件确实能无需修改运行在 AMD 显卡上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳大利亚新法案将给予工人离线权]]></title>
+        <id>https://www.solidot.org/story?sid=77350</id>
+        <link href="https://www.solidot.org/story?sid=77350"/>
+        <updated>2024-02-12T15:24:28.000Z</updated>
+        <summary type="html"><![CDATA[已经下班了，但老板打电话给你了。未来澳大利亚工人将可以按下拒绝接听键。澳大利亚众议院上周通过了一项法案给予工人离线权，允许工人在工作时间之外忽略与工作相关的电话和信息。该法案预计会在参议院轻松通过。企业如果因此惩罚员工将可能会面临罚款。澳总理 Anthony Albanese 表示：没有每天 24 小时领取工资的人不应该因为不能时刻在线每天 24 小时待命而受到惩罚。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可可豆的价格涨至历史高点]]></title>
         <id>https://www.solidot.org/story?sid=77349</id>
@@ -651,138 +747,6 @@ A private browser operates by spawning a new virtual machine for each user sessi
         <link href="https://www.solidot.org/story?sid=77306"/>
         <updated>2024-02-04T14:34:57.000Z</updated>
         <summary type="html"><![CDATA[养狗能增加儿童尤其是女孩的体能活动。澳大利亚研究人员在三年内跟踪了 600 名儿童，测量了他们的移动速度、长度和强度等数据，就养狗和活动等问题询问了他们的父母。半数的儿童没有狗，204 名儿童在整个跟踪时间里养了一只狗，58 名儿童在研究期间养了一只狗，还有 31 名儿童失去了一只狗。研究人员发现，养狗增加了女孩每天的轻度体能活动 52 分钟。但当狗不幸死亡之后，女孩们每天的轻度体能活动减少了 62 分钟。研究显示，随着年龄的增长，女孩的体能活动比男孩下降幅度更大。研究人员表示，如果能找到方法用养狗让女孩多运动，可能有助于公共健康。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is a Sandboxed Chrome?]]></title>
-        <id>https://catonmat.net/what-is-a-sandboxed-chrome</id>
-        <link href="https://catonmat.net/what-is-a-sandboxed-chrome"/>
-        <updated>2024-02-04T13:55:00.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: You can instantly access a sandboxed Chrome browser via browserling.com/chrome. I and my team created a sandboxed Chrome version that runs on remote servers and we stream just the browser window to you. Each session starts with a new and clean user profile and once the session ends, all data (cookies, downloads, browser history) is deleted.
-Sandboxed Chrome – What Is It?
-A sandboxed Chrome refers to a version of standard Chrome browser that has been modified to execute within a remote virtual machine, providing a remote isolated browsing environment. This configuration enhances security by restricting the browser's access to the host system, thereby mitigating potential threats and ensuring secure browsing. Through such isolation, any malicious code executed by the browser is confine…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国能源部估计全国 2% 的电力被用于挖比特币]]></title>
-        <id>https://www.solidot.org/story?sid=77305</id>
-        <link href="https://www.solidot.org/story?sid=77305"/>
-        <updated>2024-02-04T12:50:07.000Z</updated>
-        <summary type="html"><![CDATA[美国能源信息局（Energy Information Agency）估计，全国逾 2% 的电力被用于挖掘比特币。今天的比特币主要用专用矿机设备挖掘，它们昂贵且需要消耗大量电力。矿工们通常会前往电力比较便宜的地方安装矿机进行挖矿作业。自中国打击加密货币挖矿行业之后，很多矿场都搬迁到了美国。剑桥另类金融中心（Cambridge Centre for Alternative Finance）估计，美国在 2020 年初的比特币开采量仅占全球的 3%，到 2022 年初增加到了 38%。为了更好的了解加密货币挖矿对美国电网的影响，能源信息局将每月进行分析。该部门跟踪了 137 家矿场，其中 101 家回复了矿场满负荷供电相关的询问。如果这 101 家矿场全部满负荷运作，那么它们消耗的电力将占全美电力需求的 2.3%。如果不是比特币矿场，很多发电厂本来应该退役了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TVBox Android TV 版 – 家用安卓电视盒子：视频播放器、直播源播放器]]></title>
-        <id>https://www.appinn.com/?p=47628</id>
-        <link href="https://www.appinn.com/tvbox-android-tv/"/>
-        <updated>2024-02-04T12:38:04.000Z</updated>
-        <summary type="html"><![CDATA[TVBox Android TV版是一款开源的安卓端视频播放器，适配电视屏幕尺寸，通过订阅第三方数据源实现了视频播放、电视直播等功能。@Appinn TVBox 项目最早的维护者在 2022 年之后已]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian 的 64 位 time_t 时间计数转换正在进行中]]></title>
-        <id>https://www.solidot.org/story?sid=77304</id>
-        <link href="https://www.solidot.org/story?sid=77304"/>
-        <updated>2024-02-04T12:28:19.000Z</updated>
-        <summary type="html"><![CDATA[为解决 32 位系统的 2038 年问题，Debian Experimental 开始用 64 位时间计数 time_t 重构软件包。2038 年问题是指类 Unix 系统采用的是 32 位时间计数 time_t，计数从 1970 年开始，到 2038 年 1 月将会溢出。Debian 开发者想要确保下一个版本能在 2038 年之后正常工作。此次 64 位 time_t 转换涉及到逾 1200 个软件包。下一个版本 Debian 13 Trixie 将于 2025 年发布，有充裕的时间完成 2038 年问题的处理。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit 最快下个月在纽约 IPO]]></title>
-        <id>https://www.solidot.org/story?sid=77303</id>
-        <link href="https://www.solidot.org/story?sid=77303"/>
-        <updated>2024-02-04T09:35:38.000Z</updated>
-        <summary type="html"><![CDATA[社交媒体平台 Reddit 选择纽约证交所作为其推迟已久的上市地点，该公司最快将于下月进行 IPO。Reddit 是在 2021 年底向美国证交会递交了上市申请，但因为宏观经济严峻和广告收入下降，它推迟了 IPO。Reddit 在 2021 年的融资中其估值达到了 100 亿美元，但过去两年因利率上升私营公司的估值大幅下滑。Reddit 希望其上市的初始估值能达到至少 50 亿美元。Reddit 是美国最大的新闻聚合和论坛社交网络，在全球访问量排名中排在第 18 位，半数访问量来自美国。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员发现一种潜在的非阿片止痛药]]></title>
-        <id>https://www.solidot.org/story?sid=77302</id>
-        <link href="https://www.solidot.org/story?sid=77302"/>
-        <updated>2024-02-04T09:19:01.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在 PNAS 期刊上的一项研究，研究人员发现一种潜在的非阿片止痛药。现有的治疗慢性疼痛的止痛药会带来严重副作用或增加成瘾风险。研究人员在小鼠试验中发现了名为 FEM-1689 新化合物，它不会与体内的阿片受体结合，潜在可能成为现有阿片止痛药的替代。此外它还能帮助调节整合应激反应(integrated stress response, ISR)。研究人员称新化合物的止痛效果相当持久。论文作者已经成立了一家公司 NuvoNuro 商业化他们的发现。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[现金的终结]]></title>
-        <id>https://www.solidot.org/story?sid=77301</id>
-        <link href="https://www.solidot.org/story?sid=77301"/>
-        <updated>2024-02-04T07:58:32.000Z</updated>
-        <summary type="html"><![CDATA[英国金融业行业组织 UK Finance 的报告称，2022 年英国近 2200 万人每月只使用一次现金或根本没有使用任何现金。只有不到 100 万人常用现金。自 2017 年以来，包括智能手机和智能手表的借记卡支付已超过现金支付。新冠疫情加速了现金支付的终结。截至 2021 年的十年间，非现金支付量的比例从 45% 升至 85%。这种情况可能会让国王查理三世非常失望，当了几十年的储君之后，这位 73 岁的老人终于有机会在英国硬币上印上自己的头像，结果使用这些硬币的人少之又少。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHO 报告估计全球癌症病例到 2050 年将增加 77%]]></title>
-        <id>https://www.solidot.org/story?sid=77300</id>
-        <link href="https://www.solidot.org/story?sid=77300"/>
-        <updated>2024-02-04T07:03:03.000Z</updated>
-        <summary type="html"><![CDATA[根据 WHO 国际癌症研究机构报告的最新估计，到 2050 年全球癌症确诊数将达到 3500 万例，比 2022 年的 2000 万例增加 77%。报告统计的数据涵盖了 185 个国家和 36 种疾病。研究人员发现，2022 年肺癌是全球最常见的癌症，有 250 万例，占总数的 12.4%，其次是女性乳腺癌、结直肠癌、前列腺癌和胃癌。肺癌造成的死亡人数也是最多有 180 万人，占总数的 19%。在高人类发展指数的国家，每 12 名女性中有 1 名会被诊断患有乳腺癌，每 71 名女性中有 1 名死于乳腺癌。在低人类发展指数国家，每 27 名女性中有 1 名会被诊断出乳腺癌，但每 48 名女性中有 1 人会死于乳腺癌，主要是因为诊断较晚和缺乏治疗机会。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终生接触音乐有助于大脑健康]]></title>
-        <id>https://www.solidot.org/story?sid=77299</id>
-        <link href="https://www.solidot.org/story?sid=77299"/>
-        <updated>2024-02-04T06:43:05.000Z</updated>
-        <summary type="html"><![CDATA[英国埃克塞特大学研究人员发现，老年时的大脑健康状况和改善程度与终身接触音乐有关。研究分析了1000多名40岁以上成年人的数据，以评估演奏乐器或在合唱团唱歌对大脑健康的影响。结果表明，演奏一种乐器，尤其是弹奏钢琴，与改善演奏者的记忆力关系密切。在晚年生活中继续弹奏钢琴会带来更多好处。此外，唱歌也能更好地保持和维护大脑健康。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球生育率普遍下降]]></title>
-        <id>https://www.solidot.org/story?sid=77298</id>
-        <link href="https://www.solidot.org/story?sid=77298"/>
-        <updated>2024-02-04T06:18:45.000Z</updated>
-        <summary type="html"><![CDATA[全球生育率普遍下滑，出生人数急剧下降。美国好于大多数国家，下降了 1.9%。捷克、爱尔兰和波兰的降幅都在10% 或以上。韩国下降了 8.1%，而该国在 2022 年的总和生育率已经是世界最低的 0.78。一代人生育的减少会导致下一代生育的女性人数减少。人口减少可能会减轻对环境的压力，但倒置的人口金字塔导致工作的年轻人太少，无法养活退休的老年人。解决低出生率的最好办法就是提高出生率，但生育奖励、免费托儿等生育政策在试行后并未达到预期效果，因此决策者将面临一系列令人不快的选择：提高税收、提高退休年龄、削减老年人的退休和医疗福利，或者增加移民。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apk.1 安装器 – 特色安卓应用：无需改名，直接安装 QQ、微信收到的 apk.1 文件]]></title>
-        <id>https://www.appinn.com/?p=47620</id>
-        <link href="https://www.appinn.com/apk-1-installer/"/>
-        <updated>2024-02-04T05:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Apk.1 安装器是一款非常非常有特色的安卓应用，用来安装通过 QQ、微信收到的安卓安装包 .apk.1 文件。@Appinn 首先需要说一下，QQ、微信为了保护你们，连 apk.1 这样的方式都做了]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在战争模拟游戏中 AI 聊天机器人倾向于选择核攻击]]></title>
-        <id>https://www.solidot.org/story?sid=77297</id>
-        <link href="https://www.solidot.org/story?sid=77297"/>
-        <updated>2024-02-04T05:50:42.000Z</updated>
-        <summary type="html"><![CDATA[研究人员在预印本平台 arXiv 上发表论文，测试了 OpenAI 的 GPT-3.5 和 GPT-4、Anthropic 的 Claude 2，以及 Meta 的 Llama 2 等流行大模型在战争游戏中的行为，发现 AI 聊天机器人倾向于选择核攻击。研究人员模拟了三种场景：入侵，网络攻击，以及没有冲突的中立。每一轮 AI 为其下一步行动能采取的行动提供推理，然后从 27 个行动中进行选择，包括开始正式和平谈判，实施贸易限制，升级全面核攻击。在模拟中，AI 倾向于投资军事和升级冲突风险，其中 GPT-4 的基础版本最暴力。研究人员认为，不应该信任 AI 做出的战争与和平的重大决策。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Threads 月活跃用户达到 1.3 亿]]></title>
-        <id>https://www.solidot.org/story?sid=77296</id>
-        <link href="https://www.solidot.org/story?sid=77296"/>
-        <updated>2024-02-04T05:06:42.000Z</updated>
-        <summary type="html"><![CDATA[根据扎克伯格（Mark Zuckerberg）分享的数据，该公司的微博客应用 Threads 月活跃用户数达到了 1.3 亿。因 Twitter/X 在马斯克（Elon Musk）控制下面临的不确定性，Threads 的上线引发了广泛关注，推出前五天吸引了 1 亿用户注册，但此后下载量不断下降，到了去年 12 月，Threads 的下载量恢复了增长，达到了前一个月的三倍，进入苹果和 Google 应用商店的下载量前十。这在很大程度上是因为 Meta 通过 Instagram 推广 Threads 上的热门帖子。据估计，Threads 应用目前可能有 1.6 亿用户。Threads 目前正通过支持联邦宇宙协议 ActivityPub 与 Mastodon 等去中心化微博客服务实现互操作。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
