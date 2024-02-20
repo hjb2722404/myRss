@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47705",
+          "author": "青小蛙",
+          "description": "Raptor 是一款开源的第三方阿里云盘 Windows 桌面客户端，使用 Qt 与 C++ 构建，低内存占用。支持扫码登录、上传、下载、在线播放等功能，可与 IDM、FDM、VLC、PotPlaye",
+          "link": "https://www.appinn.com/raptor-for-aliyundrive/",
+          "publishedOn": "2024-02-19T02:25:29.000Z",
+          "wordCount": 2590,
+          "title": "Raptor – 第三方开源阿里云盘客户端[Windows]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/Appinn-feature-images-94.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47701",
           "author": "青小蛙",
           "description": "将到（Hurry Day Countdown & Reminder）是一款简单易用，又漂亮的安卓倒数日应用，它能够在桌面小部件与通知栏显示倒计时，可以用来跟踪事件，比如生日、考试、音乐会、假期",
@@ -95,16 +105,6 @@
           "wordCount": 2635,
           "title": "小众软件 2023年度精选.2",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/Appinn-feature-images-84.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47668",
-          "author": "青小蛙",
-          "description": "继 2022 年精选榜单之后，今天带来小众软件 2023 年度精选。所有内容来自小众软件精选分类，仅代表青小蛙的主观评断。@Appinn 先来回顾下：《兔年（2023）小众软件微信公众号阅读数前 10",
-          "link": "https://www.appinn.com/appinn-2023-top-15-list-1/",
-          "publishedOn": "2024-02-10T06:45:28.000Z",
-          "wordCount": 2636,
-          "title": "小众软件 2023 年度精选.1",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/Appinn-feature-images-84.jpg"
         }
       ]
     },
@@ -142,6 +142,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77391",
+          "author": null,
+          "description": "一项研究发现，生长在廉价浮动平台上的花可以帮助清理污染的水道。相比自然氮循环，花在 12 周内能从未经处理的水中多移除 52% 的磷和 36% 的氮。培育的花还能在花卉市场获得收入。对不同种类的花的测试显示，大型万寿菊（giant marigolds）效果最显著。水污染通常是由来自农田、城市草坪甚至化粪池的径流造成的，下雨时过多的磷、氮等营养物质会冲入湖泊和河流，导致有害藻类大量繁殖。径流养分影响着水生态系统的健康。受浮动农场的启发，研究人员将在浮动木筏上种植插花作为一种移除多余养分的方法。",
+          "link": "https://www.solidot.org/story?sid=77391",
+          "publishedOn": "2024-02-19T15:11:25.000Z",
+          "wordCount": 164,
+          "title": "花可以帮助清理径流养分",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77390",
+          "author": null,
+          "description": "Linux 内核项目最近成为了 CVE 编号颁发机构，Linux 作者 Linus Torvalds 周末释出了 Linux 6.8-rc5，其中一个文档方面的变化就是 CVE 漏洞处理相关的指南。分配的 CVE 编号将在 linux-cve-announce 邮件列表上公布，修复的安全漏洞才会分配 CVE 编号，未修复的不会自动分配编号。",
+          "link": "https://www.solidot.org/story?sid=77390",
+          "publishedOn": "2024-02-19T13:59:17.000Z",
+          "wordCount": 187,
+          "title": "Linux 内核成为 CVE 编号颁发机构，发布相关指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77389",
+          "author": null,
+          "description": "法国电信公司 Orange 因违反 GNU GPL v2 许可被罚 65 万欧元——50 万欧元经济赔偿和 15 万欧元精神赔偿。Orange 的 IDMP platform 使用了名叫 Lasso 的库，Lasso 在 GPLv2 下授权，它也有商业授权。Orange 要么按照 GPLv2 许可证要求公布它的源代码，要么从版权所有者 Entr'Ouvert 购买许可证。Orange 没有付费也没有遵守 GPL 要求。法国上诉法庭判决 Orange 侵权行为成立。",
+          "link": "https://www.solidot.org/story?sid=77389",
+          "publishedOn": "2024-02-19T13:20:13.000Z",
+          "wordCount": 204,
+          "title": "法国电信公司因违反 GPL 许可被罚 65 万欧元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77388",
+          "author": null,
+          "description": "在高空强风的助力下，上周至少有两个商业航班提前到达目的地，两架客机相对于地面的飞行速度都超过 800 英里/小时——而音速是 767 英里/小时。客机本身并没有突破音障，但顺风让它们的对地速度超过了音速，当时巡航高度的风速最高约 265 英里/小时。其中一个是维珍航空 (Virgin Atlantic) 从华盛顿特区飞往伦敦的波音 787 航班，飞行时间缩短了 45 分钟，客机的最高对地速度达到了 802 英里/小时。另一个是美国联合航空从新泽西州纽瓦克飞往葡萄牙里斯本的 787 航班，最高地速达到 838 英里/小时，比预定时间缩短 20 分钟。这种风速助力的客机超音速飞行过去几年出现过多次。",
+          "link": "https://www.solidot.org/story?sid=77388",
+          "publishedOn": "2024-02-19T11:40:33.000Z",
+          "wordCount": 177,
+          "title": "强风将客机的对地飞行速度推到音速以上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77387",
+          "author": null,
+          "description": "随着手游和最新一代游戏机带来的巨大增长达到极限，价值 2000 亿美元的游戏产业正面临着 30 年来最严重的增长放缓。硬件销售正在放缓，索尼下调了 PS5 的销售预期。根据Data.ai的数据，去年消费者在手游上的支出下降 2% 至 1073 亿美元，预计 2024 年将实现低个位数的增长。游戏公司在 2023 年裁员上万人，今年至今再次裁掉数千人。有报告显示，去年游戏业的增长率不到 1%，微软游戏业务负责人 Phil Spencer 指出，这一增长率低于通胀，低于大部分国家的 GDP 增长率，这意味着游戏的占比相对于其它娱乐类别是下降的。",
+          "link": "https://www.solidot.org/story?sid=77387",
+          "publishedOn": "2024-02-19T09:50:16.000Z",
+          "wordCount": 176,
+          "title": "游戏行业增长放缓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77386",
+          "author": null,
+          "description": "苹果准备推出类似 GitHub Copilot 的辅助编程工具，使用生成式 AI 帮助补充完成代码。该工具将作为下一个 Xcode 大版本的一部分推出，苹果已在该项目上工作了一年时间，预计最快今年推出，苹果最快在 6 月举行开发者大会 WWDC 上宣布这一新工具。微软的 GitHub Copilot 是在 2021 年推出的，能根据自然语言查询生成代码。",
+          "link": "https://www.solidot.org/story?sid=77386",
+          "publishedOn": "2024-02-19T09:27:08.000Z",
+          "wordCount": 180,
+          "title": "苹果准备推出 AI 辅助编程工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77385",
+          "author": null,
+          "description": "欧盟的风力发电首次超过天然气。欧盟 2023 年能源排放量下降 19%。根据能源智库 Ember 最新发布的研究报告，去年欧盟能源领域排放量的下降幅度比以往任何时候都大。一方面是由于煤炭和天然气发电量急剧下降（煤炭发电量下降 26%，天然气发电量下降 15%），化石燃料发电量首次占欧盟电力的 1/3 以下；另一方面，对电力的需求也有所下降。报告显示，风力和太阳能发电量持续增长，其发电量合计占欧盟电力总量的 27%，创下历史新高。其中风力发电量占欧盟电力的18%，风电占比首次超过天然气。总体而言，可再生能源在欧盟发电量中的份额升至创纪录的44%。",
+          "link": "https://www.solidot.org/story?sid=77385",
+          "publishedOn": "2024-02-19T08:31:37.000Z",
+          "wordCount": 166,
+          "title": "欧盟风力发电超过天然气发电",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77384",
+          "author": null,
+          "description": "佛罗里达男子 JL 三年前突然想知道自己的祖先，他将唾液样本寄到了提供基因检测服务 23andMe。他意外得知自己有德系犹太人血统（Ashkenazi Jewish）。他对此没有太多想法，直到获悉 23andMe 约 700 万客户的数据被盗，而化名 Golem 的黑客正在暗网论坛兜售 100 万类似德系犹太人血统的 23andMe 客户数据，他担心自己及家人可能会面临危险。他是最近向 23andMe 提起集体诉讼的两名原告之一。原告认为，在犹太裔和华裔用户成为目标之后 23andMe 未能充分的通知他们。代表原告的律师认为，特定血统的用户群体可能会被列入攻击的黑名单。23andMe 坚称黑客是通过撞库——即已泄露的密码——获取用户遗传数据的，不是利用它的系统漏洞，因此不是它的错误。",
+          "link": "https://www.solidot.org/story?sid=77384",
+          "publishedOn": "2024-02-19T08:08:58.000Z",
+          "wordCount": 191,
+          "title": "黑客从 23andMe 窃取了约 700 万人的遗传数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77383",
+          "author": null,
+          "description": "去年 12 月就任波兰总理的公民纲领党主席 Donald Tusk 上周表示，他有文件证明前任政府非法使用了间谍软件 Pegasus。Pegasus 的使用发生在右翼的法律与公正党执政时期。Pegasus 由以色列公司 NSO Group 开发，能完全控制被感染的移动设备，能提取设备上的密码、照片、消息、联系人和浏览历史记录，激活麦克风和摄像头进行实时窃听。Tusk 称间谍软件受害者的名单很长。加拿大多伦多大学公民实验室此前的研究发现，有多名波兰前任政府的反对者成为了 Pegasus 的目标。",
+          "link": "https://www.solidot.org/story?sid=77383",
+          "publishedOn": "2024-02-19T06:44:38.000Z",
+          "wordCount": 178,
+          "title": "波兰新总理称前任政府非法使用间谍软件 Pegasus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77382",
+          "author": null,
+          "description": "地球海洋的温度通常十分稳定，不同于陆地昼夜温差巨大，海洋表面温度出现零点几摄氏度的变化就相当显著了，但过去一年海洋部分区域出现了多达数摄氏度的温度变化。这可能会引发严重的生态问题。迈阿密大学飓风研究员布 Brian McNoldy 指出，东大西洋热带气旋飓风提前四个月形成，今年的二月仿佛往年的六月，真的非常奇怪。因为海洋吸收了人类排放到大气层中的九成额外热量，它过去几十年一直在缓慢变热。这种情况会影响海洋表面的浮游动植物，动摇整个海洋食物链的根基。当海洋表面变热时，它会形成热水层，阻止下层冷水中的营养物质进入到上层，浮游植物需要营养物质才能正常生长并固定碳，缓解气候变化的影响。如果变暖引发的热水分层情况日益严重，浮游植物会受到严重影响，冲击依赖浮游植物的生态系统。更糟糕的是，水越热容纳的氧气会越少。",
+          "link": "https://www.solidot.org/story?sid=77382",
+          "publishedOn": "2024-02-19T06:18:27.000Z",
+          "wordCount": 159,
+          "title": "海洋表面温度快速变热",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77381",
+          "author": null,
+          "description": "欧盟将就苹果在音乐流媒体领域的反竞争行为罚款 5 亿欧元。这一罚款预计将在下月初宣布。在音乐流媒体服务 Spotify 投诉苹果阻止应用告诉用户其音乐服务有更廉价替代之后，欧盟监管机构对此展开了调查。苹果当时对此案的回应是“没有任何根据”。据《金融时报》援引知情人士的消息报道，欧盟将禁止苹果的这一做法。",
+          "link": "https://www.solidot.org/story?sid=77381",
+          "publishedOn": "2024-02-19T04:40:49.000Z",
+          "wordCount": 168,
+          "title": "欧盟将就苹果在音乐流媒体领域的反竞争行为罚款 5 亿欧元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77380",
+          "author": null,
+          "description": "OpenAI CEO Sam Altman 据报道计划筹集 5-7 万亿美元打造一个晶圆厂网络，为 AI 应用生产足够的芯片。传奇芯片设计师 Jim Keller 对此回应称他不用 1 万亿美元就能做到。Jim Keller 目前就职于设计 AI 和 HPC 处理器的 Tenstorrent 公司。他以及英伟达的黄仁勋都认为，Altman 的计划可能会导致产能过剩和 AI 处理器贬值，此类处理器必须变得更复杂而不是专门只用于 AI。此外 AI 硬件的供应链必须更简单，以降低 AI 服务器等设备的成本。",
+          "link": "https://www.solidot.org/story?sid=77380",
+          "publishedOn": "2024-02-18T15:41:44.000Z",
+          "wordCount": 213,
+          "title": "Jim Keller 认为不用 1 万亿美元就能实现 Sam Altman 的计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77379",
+          "author": null,
+          "description": "Android 操作系统的下一个大版本释出了首个开发者预览版，支持 Google 的 Pixel 6、7 和 8，Pixel Fold 以及 Pixel Tablet 等设备。这也意味着 Pixel 5 和 5a 系列不会再收到新操作系统的更新。Android 15 的新特性包括：部分屏幕共享，允许用户共享或录制单个应用窗口而不是整个屏幕；支持内核 fs-verity 功能的 API，允许用户在可读写文件系统上存储只读文件，对其进行加密签名以确保没有被恶意篡改；改进相机控制；如果检测到手机过热将提供更多动态性能控制，让应用根据情况做出相应的回应。Android 15 预计将在今年下半年释出。",
+          "link": "https://www.solidot.org/story?sid=77379",
+          "publishedOn": "2024-02-18T15:11:30.000Z",
+          "wordCount": 188,
+          "title": "Android 15 首个开发者预览版释出",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77378",
           "author": null,
@@ -481,46 +611,6 @@
           "wordCount": 178,
           "title": "Z 世代拥抱实体书",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77342",
-          "author": null,
-          "description": "华为周五证实，称其位于法国的办公室 2 月 6 日遭到法国方面的突击搜查。法国司法界消息人士透露，华为是因涉嫌违反廉正行为遭到突击搜查。消息人士称，此次搜查是法国国家金融检察官办公室（PNF）的发起的初步调查的一部分。华为否认有不当行为，发表声明表示：“华为已充分配合调查人员的调查，并将继续这样做。华为进入法国已达20多年，始终尊重法国的所有法律法规。尽管华为法国公司不愿对正在进行的调查发表评论，但公司对调查结论仍然充满信心。”法国关于“违反廉正”行为的定义包括腐败、以权谋私、非法获取利益等违法行为。",
-          "link": "https://www.solidot.org/story?sid=77342",
-          "publishedOn": "2024-02-10T13:44:03.000Z",
-          "wordCount": 160,
-          "title": "华为法国办事处被突击搜查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77341",
-          "author": null,
-          "description": "Meta 宣布旗下应用 Instagram 和 Threads 将停止推荐政治内容，除非用户明确要求展示此类内容。想要在公共信息流中看到政治内容的用户可以在账号设置中关闭限制。Meta 称这一更新没有改变用户浏览所关注账号的内容展示方式，发布政治内容的账号仍然能通过动态和故事向其关注者展示此类内容。",
-          "link": "https://www.solidot.org/story?sid=77341",
-          "publishedOn": "2024-02-10T13:33:53.000Z",
-          "wordCount": 175,
-          "title": "Instagram 和 Threads 将停止推荐政治内容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77340",
-          "author": null,
-          "description": "1953 年 IBM 科学家 Hans Peter Luhn 提出了一种存储和检索信息的新方法，它就是哈希表（hash table），如今已内置在几乎所有计算机系统中。哈希表是历史最悠久、速度最快、最简单且使用最广泛的数据结构之一，它设计执行三个操作：插入，在数据库里加入新条目；查询，获取一个条目或检查该条目是否存在；删除。Chrome 或 Safari 等浏览器可能内置了多个哈希表去跟踪不同类的数据。哈希表不可避免的存在权衡取舍。1957 年另一位 IBM 计算机科学家 W. Wesley Peterson 指出了哈希表面临的技术挑战：需要足够快以快速检索必要的信息，需要紧凑使用尽可能少的内存。两个目标从根本上是矛盾的：哈希表有更多内存时能更快访问和修改数据库，哈希表使用更少空间时操作会很慢。几十年来，研究人员一直在寻找哈希表时间和空间的最佳平衡。2022 年纽约石溪大学的 Michael Bender 等人发表论文，提出了一种具有时间和空间效率最佳组合的新哈希表。2023 年普林斯顿大学 Huacheng Yu 领导的一个团队证明 Bender 的哈希表是理论上的最优解。由于新哈希表太复杂，还没人尝试在短时间去构建，而且理论上快的算法在实践中未必快。",
-          "link": "https://www.solidot.org/story?sid=77340",
-          "publishedOn": "2024-02-10T13:04:56.000Z",
-          "wordCount": 186,
-          "title": "科学家找到数据存储和时间的最佳平衡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77339",
-          "author": null,
-          "description": "一项研究发现，在涉及到政治时人们愿意扭曲道德，甚至包括容忍不道德的行为。对反对党之类外群体的敌意是道德模糊感背后的驱动因素。研究人员发现，人们在道德上对他们喜欢的政客更宽容，类似愿意宽容朋友的行为。在日益两极分化且有毒的政治环境中，研究结果凸显了愤怒政治的危害。论文合作者 Kyle Hull 称，政治让我们做通常不会做的事情，容忍通常不会容忍的事情。有时会展现出我们最糟糕的一面。部分政客和媒体谈论的方式就是火上浇油，越是将另一边视为坏人就越可能将道德置之脑后。政治似乎将每一个人都变成卑鄙小人。",
-          "link": "https://www.solidot.org/story?sid=77339",
-          "publishedOn": "2024-02-09T15:01:59.000Z",
-          "wordCount": 159,
-          "title": "研究发现政治扭曲了道德判断和宽容",
-          "imageUrl": null
         }
       ]
     },
@@ -591,6 +681,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/presidents-day-sale",
+          "author": null,
+          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated President's Day sales campaign.\nNow each year on President's Day, we show a 50% discount offer to all users who visit our site.\nRun automated sales too and see you next time!",
+          "link": "https://catonmat.net/presidents-day-sale",
+          "publishedOn": "2024-02-19T10:51:00.000Z",
+          "wordCount": 309,
+          "title": "Presidents' Day Sale",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/what-is-a-cybersecurity-sandbox",
           "author": null,
           "description": "TLDR: A demo speaks louder than a thousand words. You can connect to an online cybersecurity sandbox created by me and my team via browserling.com/browse. You can analyze and run untrusted apps, download, edit, and view suspicious files, and visit unknown links in a sandboxed environment without risking the security of your own computer.\nCybersecurity Sandbox – What Is It?\nA cybersecurity sandbox is an isolated testing environment that allows users to execute and analyze untrusted software, links, or files without risking harm to the host device or network. It is commonly used to enhance security measures, enabling safe examination of potentially malicious code, testing of suspicious downloads, and assessing the behavior of unknown applications. Such sandboxes are a critical tool in proact…",
@@ -608,6 +708,16 @@
           "publishedOn": "2024-02-16T15:19:00.000Z",
           "wordCount": 1093,
           "title": "What is an Untracked Browser?",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/20-new-image-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 30 new image tools and today we just added another 20 new tools to our Image Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new image tools:\nAdd Effects to Image\nConvert Image to Polaroid\nAdjust Image Brightness\nAdjust Image Contrast\nAdjust Image Hue\nAdjust Image Lightness\nAdjust Image Saturation\nUpsize an Image\nDownsize an Image\nFind Image Dimensions\nFind Image File Size\nChange Image Orientation\nGenerate Image from Text\nIncrease Space Around an Image\nOptimize an Image\nRecompress a JPG\nChange Image Quality\nRefine Edges of an Image\nTwist Image Pixels\nImage Viewer\nNext week we'll add even more tools. See you then!",
+          "link": "https://catonmat.net/20-new-image-tools",
+          "publishedOn": "2024-02-16T13:25:00.000Z",
+          "wordCount": 399,
+          "title": "We've Added Another 20 New Image Tools",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         },
         {
@@ -678,36 +788,6 @@
           "publishedOn": "2024-02-10T20:11:00.000Z",
           "wordCount": 763,
           "title": "How to Open Websites in a Sandbox",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/what-is-a-secure-browser",
-          "author": null,
-          "description": "TLDR: A demo speaks louder than a thousand words. You can connect to a secure browser created by me and my team via browserling.com/browse. We run secure browsers on our remote servers and stream just the browser window to you as a video.\nSecure Browser – What Is It?\nA secure browser is a web browser that isolates browsing activities from the local computer and network by running in a sandboxed environment (such as a virtual machine) on a remote server. This approach mitigates risks associated with web-based threats, such as phishing, malware infiltration, and drive-by downloads, by ensuring any malicious content is contained within the virtual machine and cannot compromise the user's local system. It enables safe investigation of suspicious links and downloads, crucial for threat analysis…",
-          "link": "https://catonmat.net/what-is-a-secure-browser",
-          "publishedOn": "2024-02-10T14:10:00.000Z",
-          "wordCount": 874,
-          "title": "What is a Secure Browser?",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/another-20-new-png-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nLast week we added 20 new png tools and today we just added another 20 new tools to our Online PNG Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new png tools:\nCreate a Multi-color Gradient PNG\nCreate an Empty PNG\nAdd a Glow Effect to a PNG\nAdd an Outline to a PNG\nRemove an Outline from a PNG\nAdd Stroke to PNG\nRemove Stroke From PNG\nConvert a PNG to RGB Values\nConvert RGB Values to a PNG\nConvert a PNG to HSL Colors\nConvert a PNG to CMYK Colors\nConvert a PNG to HSV Colors\nConvert a PNG to YCbCr Colors\nSplit a PNG Into RGB Components\nRemove the Alpha Channel from a PNG\nFill the Alpha Channel in a PNG\nExtract the Alpha Channel from a PNG\nCount Colors in a PNG\nCheck if a PNG is Grayscale\nimprove-low-quality-signature (coming soon)\nNext week we'll add even more tools. See you then!",
-          "link": "https://catonmat.net/another-20-new-png-tools",
-          "publishedOn": "2024-02-09T21:00:00.000Z",
-          "wordCount": 419,
-          "title": "We've added another 20 new png tools",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/what-is-a-document-sandbox",
-          "author": null,
-          "description": "TLDR: You can connect to a document sandbox created by me and my team via browserling.com/browse. It lets you safely download, view, and edit various document types in a remote virtual machine, including PDFs, Word documents, Excel spreadsheets, PowerPoint presentations, Rich Text Files (rtf), images, and source code files.\nDocument Sandbox – What Is It?\nA document sandbox is a secure, isolated environment (usually a virtual machine) designed to download, open, edit, and analyze untrusted documents, such as PDFs, Word files, and Excel spreadsheets, without risking the integrity of the host system and network. The sandbox ensures that any potential malware or spyware within the documents cannot affect the user's actual computer or propagate across network. Document sandboxes are integral to…",
-          "link": "https://catonmat.net/what-is-a-document-sandbox",
-          "publishedOn": "2024-02-09T20:55:00.000Z",
-          "wordCount": 1170,
-          "title": "What is a Document Sandbox?",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
