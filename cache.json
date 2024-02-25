@@ -12,12 +12,22 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47765",
+          "author": "青小蛙",
+          "description": "RunCat 是小众软件曾经介绍过的一款 Mac 菜单栏工具，完全没什么用处，但描述很讲究：RunCat 是一个可能会安抚你心灵的 macOS 应用，它会让猫、狗、青蛙、齿轮、火、水滴等动画",
+          "link": "https://www.appinn.com/runcat-for-macos-2/",
+          "publishedOn": "2024-02-24T11:25:05.000Z",
+          "wordCount": 2605,
+          "title": "RunCat 在 Mac 菜单栏搞事情：日式道歉、粘液、俯卧撑…",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/Appinn-feature-images-98.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47750",
           "author": "青小蛙",
           "description": "在使用电脑时，总少不了和文件打交道。系统自带的 Explorer 资源管理器功能又非常有限，想要拥有一个多功能文件管理器吗？ Directory Opus 是一款老牌多功能文件管理器，能很好地接管 W",
           "link": "https://www.appinn.com/directory-opus-13/",
           "publishedOn": "2024-02-23T08:48:34.000Z",
-          "wordCount": 2673,
+          "wordCount": 2681,
           "title": "Directory Opus 13 来袭：增强型文件管理器，新功能来啦！",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/Appinn-feature-images-97.jpg"
         },
@@ -85,16 +95,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/Appinn-feature-images-92.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47691",
-          "author": "青小蛙",
-          "description": "来自发现频道 的 @14790897abc 同学自荐了自己的开源项目：《搜索真实的文献让 ChatGPT 引用的网站 paperai.life（vercel一键部署，开源）》，用来让 AI 帮你写论文",
-          "link": "https://www.appinn.com/paper-ai/",
-          "publishedOn": "2024-02-15T09:31:24.000Z",
-          "wordCount": 2617,
-          "title": "如何用 GPT 写论文、搜文献、自动撰写引用｜1分钟能搞定吗？｜开源解决方案：paper-ai",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/faq-1.jpg"
         }
       ]
     },
@@ -208,7 +208,7 @@
           "description": "AI 创业公司 Stability AI 宣布其最新一代的文本图像模型 Stable Diffusion 3 开放预览。感兴趣的用户可以申请加入等候名单。Stability AI 称开放预览是为了在正式发布前收集与性能和安全性相关的用户反馈。Stable Diffusion 3 模型的参数规模从 8 亿 到 80 亿不等，其架构组合了 diffusion transformer 和  flow matching，技术报告将在晚些时候公布。",
           "link": "https://www.solidot.org/story?sid=77423",
           "publishedOn": "2024-02-22T15:25:18.000Z",
-          "wordCount": 200,
+          "wordCount": 199,
           "title": "Stability AI 宣布 Stable Diffusion 3",
           "imageUrl": null
         },
@@ -831,56 +831,6 @@
           "wordCount": 181,
           "title": "美国军方在游戏中招募年轻玩家",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77359",
-          "author": null,
-          "description": "2014 年加州通过了禁止一次性塑料袋的法案，此举旨在减少废弃塑料制品的数量。但十年之后，加州人丢弃的塑料制品的数量比法案通过前还要多。CALPIRG 的报告显示，加州废弃塑料袋的吨位从 2014 年的每千人 4.08 吨增加到 2022 年的每千人 5.89 吨。为什么会发生这种情况？塑料袋的制造商用一种塑料袋替代了另一种塑料袋。新塑料袋更厚，符合可重复使用的技术规格。但这些塑料袋其实和旧的塑料袋一样，大多数情况下是一次性使用。它们方便又便宜（价格通常为 10 美分），结果就是顾客并没有改变他们使用塑料袋的方式。加州正在制定新的法案堵上漏洞，禁止使用这种较厚的塑料袋。",
-          "link": "https://www.solidot.org/story?sid=77359",
-          "publishedOn": "2024-02-15T14:08:09.000Z",
-          "wordCount": 168,
-          "title": "加州禁止一次性塑料袋并没有减少塑料袋使用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77358",
-          "author": null,
-          "description": "Windows 11 的官方硬件需求高于 Windows 10，但如果找到方法绕过硬件检查，在 Windows 10 PC 上运行 Windows 11 基本不会带来任何后果。用户甚至可以在 Windows XP 时代的英特尔酷睿2（Core 2 Duo）处理器上运行 Windows 11。但即将于今年下半年推出的 Windows 11 24H2 改变了这一状况。24H2 的最新测试版本被发现会拒绝在不支持 POPCNT 指令的处理器上启动。在 x86 CPU 中，POPCNT 是作为 SSE4 指令集的一部分实现的。在英特尔 CPU 中，它是作为 SSE4.2 的一部分加入到酷睿架构中的；在 AMD CPU 中，它包含在 SSE4a 中，最早应用于基于 K10 架构的 Phenom、Athlon 和 Sempron CPU。微软的这一改动意味着 24H2 将不支持英特尔的酷睿2 和 AMD 早期的 Athlon 64。此类 CPU 应该早就退出了市场，绝大部分用户不会受到影响。",
-          "link": "https://www.solidot.org/story?sid=77358",
-          "publishedOn": "2024-02-15T13:44:20.000Z",
-          "wordCount": 227,
-          "title": "Windows 11 24H2 停止支持部分旧 CPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77357",
-          "author": null,
-          "description": "IBM 的生意可以追溯到 19 世纪末，但它是在 1924 年 2 月从 Computing-Tabulating-Recording Co.改名为 International Business Machines Corp.。如今它已经有一百年历史。从 19 世纪到 20 世纪到 21 世纪，在 IT 世界里 IBM 让惠普、微软、苹果看起来像是子辈或孙辈，Facebook、Google 和 Twitter/X 像是曾孙辈。IBM 的前身 Computing-Tabulating-Recording 业务主要是为美国人口普查提供卡片穿孔机。职业经理人 Thomas Watson Sr. 在 1914 年加入公司帮助整合业务。1914 年公司有 1346 名员工，年收入 400 万美元（相当于今天的 1.2 亿美元）；1920 年收入 1400 万美元，员工 2731 名。1922 年因经济衰退收入降为 900 万美元，但员工总数增至 3043 人。1924 年 2 月 15 日，《华尔街日报》刊登了一篇短文宣告了 IBM 的成立。",
-          "link": "https://www.solidot.org/story?sid=77357",
-          "publishedOn": "2024-02-14T15:50:49.000Z",
-          "wordCount": 220,
-          "title": "IBM 诞生一百年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77356",
-          "author": null,
-          "description": "清华大学的研究人员利用清华—马化腾巡天望远镜（TMTS）发现了一颗距离地球约 2760 光年、轨道周期仅为20.5 分钟的致密双星系统 TMTS J0526。该双星系统由一颗质量为 0.74 倍太阳质量的碳氧白矮星与一颗质量约为太阳 0.33 倍的热亚矮星组成。该热亚矮星的半径仅有地球的 7 倍左右，代表了人类目前发现的体积最小的恒星。这样一对极短轨道周期的双星能够在毫赫兹频段产生强的引力波辐射，有望被未来的空间引力波天文台如 LISA、天琴以及太极显著探测到。",
-          "link": "https://www.solidot.org/story?sid=77356",
-          "publishedOn": "2024-02-14T14:20:47.000Z",
-          "wordCount": 169,
-          "title": "科学家发现体积最小的恒星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77355",
-          "author": null,
-          "description": "在任命 Laura Chambers 担任临时 CEO 不到一周后，Mozilla 宣布裁员约 60 人并缩减多项产品的投资。Mozilla 将缩减 VPN、Relay 和 Online Footprint Scrubber 等的投资，关闭 2018 年推出的 3D 虚拟世界 Hubs，缩减对 Mastodon 实例 mozilla.social 的投资。和今天的很多科技公司类似，Mozilla 将专注于将可信赖的 AI 引入到 Firefox。",
-          "link": "https://www.solidot.org/story?sid=77355",
-          "publishedOn": "2024-02-14T14:16:09.000Z",
-          "wordCount": 197,
-          "title": "Mozilla 裁员 60 人",
-          "imageUrl": null
         }
       ]
     },
@@ -956,8 +906,8 @@
           "description": "TLDR:  You can instantly access an unrestricted browser via browserling.com/browse. I and my team created a service that streams remote browser sessions as video content, disguising your online activities as typical video streaming. This approach allows circumventing censorship and Internet filters and provides you with unlimited access to the web.\nUnrestricted Browser – What Is It?\nAn unrestricted browser is a web browser that runs on a remote server and allows bypassing traditional Internet restrictions like firewalls, content filters, parental controls, ISP blocks, and geographical or governmental censorship. This browser ensures anonymity and privacy, as it masks the user's activities and location, making it impossible for third parties to monitor or track the websites visited or the i…",
           "link": "https://catonmat.net/what-is-an-unrestricted-browser",
           "publishedOn": "2024-02-23T21:45:00.000Z",
-          "wordCount": 1048,
-          "title": "What is an Unrestricted Browser?",
+          "wordCount": 1089,
+          "title": "What is an Unrestricted Browser? (2024)",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         },
         {
@@ -986,7 +936,7 @@
           "description": "Team Browserling keeps shipping!\nLast week we added 10 new image tools and today we just added another 20 new tools to our Online PNG Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new PNG tools:\nAnalyze PNG\nView PNG Components\nConvert Text to PNG\nConvert PNG to Hex Codes\nConvert Hex Codes to PNG\nCreate a Color Spectrum\nCreate a Gradient Palette\nAdd Empty Space Around PNG\nAdd Padding to PNG\nRemove Color from PNG\nFind PNG File Size\nFind PNG Dimensions\nCheck if the Given Image is PNG\nCheck if a PNG is Transparent\nShow Transparent PNG Areas\nGenerate PNG Alpha Mask\nCheck if PNG is Landscape or Portrait\nConvert Portrait PNG to Landscape PNG\nConvert Landscape PNG to Portrait PNG\nPreview PNG on a Colorful Background\nNext week we'll add even more tools. See you then!",
           "link": "https://catonmat.net/20-new-png-tools",
           "publishedOn": "2024-02-20T17:01:00.000Z",
-          "wordCount": 430,
+          "wordCount": 431,
           "title": "We've Added 20 New PNG Tools",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         },
@@ -1038,16 +988,6 @@
           "publishedOn": "2024-02-16T10:20:00.000Z",
           "wordCount": 522,
           "title": "We've Added Another 10 New Image Tools",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/what-is-a-no-leaks-browser",
-          "author": null,
-          "description": "TLDR:  You can instantly access a no-leaks browser via browserling.com/browse. I and my team created a service that streams isolated web browser sessions from our servers to you as a video. Each browsing session starts from a clean state and when it terminates, downloads, history, and cookies get deleted, so nothing can get leaked.\nNo-Leaks Browser – What Is It?\nA no-leaks browser is a specialized sandboxed browser designed to safeguard against the leakage of personal information and browsing habits, preventing ISPs from gathering user data. By isolating browsing sessions from the underlying operating system, it ensures that sensitive data doesn't remain on the user's computer after the session ends. This approach not only enhances cybersecurity by containing potential threats but also pri…",
-          "link": "https://catonmat.net/what-is-a-no-leaks-browser",
-          "publishedOn": "2024-02-14T20:19:00.000Z",
-          "wordCount": 888,
-          "title": "What is a No-Leaks Browser?",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
