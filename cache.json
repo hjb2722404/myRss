@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47816",
+          "author": "青小蛙",
+          "description": "ZeroTier For QNAP With WebUI 是一款专门为威联通 NAS 提供的异地组网插件，基于 ZeroTier 实现在任何地点连接你的 NAS。@Appinn 来自发现频道，@枫叶飘",
+          "link": "https://www.appinn.com/zerotier-for-qnap/",
+          "publishedOn": "2024-03-02T02:51:00.000Z",
+          "wordCount": 2633,
+          "title": "ZeroTier For QNAP – 威联通 NAS 异地组网插件",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-01T201537.786.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47813",
           "author": "青小蛙",
           "description": "Swipe & Delete 是一款专门用来筛选不要的照片的工具，支持 iPhone 与 Android，就像你用的那些软件一样：左滑删除，右滑保留，按月选择，干净利落。@Appinn 其实类",
@@ -130,16 +140,6 @@
           "wordCount": 2681,
           "title": "Directory Opus 13 来袭：增强型文件管理器，新功能来啦！",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/Appinn-feature-images-97.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47728",
-          "author": "青小蛙",
-          "description": "Apple Sports 是一款由苹果刚刚发布的体育赛事比分追踪应用，可以关注包括足球五大联赛、NBA、MLB、MLS 等赛事的比分、联赛统计数据。@Appinn 今天中午，Cook 宣布了 Appl",
-          "link": "https://www.appinn.com/apple-sports/",
-          "publishedOn": "2024-02-22T07:30:38.000Z",
-          "wordCount": 2608,
-          "title": "Apple Sports 发布，追踪实时你喜爱的球队和联赛比分和统计数据，包括五大联赛、NBA、MLB、MLS 等，无国内联赛[iPhone]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/02/Appinn-feature-images-96.jpg"
         }
       ]
     },
@@ -188,6 +188,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77495",
+          "author": null,
+          "description": "在用户报告遭遇“内存不足”错误后，微软撤下了 Microsoft Edge 122.0.2365.63 更新。该问题影响 Windows 10 和 Windows 11 用户，在浏览网页和查看设置时浏览器返回了“页面有问题”或“内存不足无法打开此页面”的错误信息。问题被认为与“增强 Web 安全性”功能有关（设置—隐私、搜索和服务—增强 Web 安全性），当该功能设置为“严格”时会报“内存不足”错误，将设置改为“平衡”或禁用，问题就能修复。但部分受影响用户打开设置页就会报错，因此无法修改设置。",
+          "link": "https://www.solidot.org/story?sid=77495",
+          "publishedOn": "2024-03-02T15:45:07.000Z",
+          "wordCount": 178,
+          "title": "微软撤下导致“内存不足”错误的 Edge 更新",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77494",
+          "author": null,
+          "description": "马斯克（Elon Musk）在旧金山高等法院起诉 OpenAI 及其首席执行官奥尔特曼（Sam Altman）等人，称其为了利润而非“人类的利益”开发人工智能，并要求该公司共享技术。诉讼文件称，奥尔特曼和 OpenAI 联合创始人格雷格·布罗克曼 2015 年与马斯克接洽，并同意成立一个非营利实验室，为“人类的利益”开发通用人工智能。实验室将开放其技术，这意味着共享其底层软件代码。起诉书称，这家公司创建了一个营利性业务部门，并限制他人对其技术的使用。在新董事会的领导下，该公司正在开发和完善通用人工智能，以最大限度地提高微软的利润，其出发点不是“人类的利益”。OpenAI 已转变为微软事实上的一个闭源子公司。马斯克指控 OpenAI 和奥尔特曼违反合同以及信托义务，并存在不公平的商业行为。布罗克曼也被列为被告。马斯克要求 OpenAI 开放其技术，并要求奥尔特曼等人偿还他提供的资金。",
+          "link": "https://www.solidot.org/story?sid=77494",
+          "publishedOn": "2024-03-02T15:06:09.000Z",
+          "wordCount": 186,
+          "title": "马斯克起诉 OpenAI 和 Sam Altman“违反合同”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77493",
+          "author": null,
+          "description": "美国疾控中心（CDC）周五表示，COVID-19 越来越像流感，不再需要特别对待。疾控中心将 COVID-19 与流感、RSV、腺病毒、鼻病毒、肠道病毒等一起列入呼吸道病毒遵循相同的指导方针。它表示，COVID-19 仍然是一个重要的公共卫生威胁，但它不再是以前的紧急情况，其健康影响日益类似其它呼吸道病毒性疾病。在疫情期间 COVID-19 感染者至少需要隔离五天，现在的隔离情况根据症状决定，与流感类似。\n疾控中心建议出现症状后呆在家中远离其他人，等症状好转后至少 24 小时。",
+          "link": "https://www.solidot.org/story?sid=77493",
+          "publishedOn": "2024-03-02T14:51:06.000Z",
+          "wordCount": 173,
+          "title": "美国疾控中心称 COVID-19 越来越像流感",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77492",
+          "author": null,
+          "description": "今天的人们更多通过智能手机娱乐和获取信息，但电脑仍然是你必不可少的工作工具，你仍然会和十几年前的人一样遭遇各种垃圾软件。遇到不想要的软件卸载不掉怎么办？用 360 以毒攻毒？你其实可以用开源软件来帮助完成这项工作，今天推荐的就是其中的佼佼者：Bulk Crap Uninstaller，简写 BCUninstaller 或缩写 BCU。",
+          "link": "https://www.solidot.org/story?sid=77492",
+          "publishedOn": "2024-03-02T14:32:54.000Z",
+          "wordCount": 185,
+          "title": "BCUninstaller：轻松卸载你不想要的应用",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77491",
           "author": null,
@@ -857,106 +897,6 @@
           "wordCount": 182,
           "title": "Google 暂停了 Gemini 的图像生成功能",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77421",
-          "author": null,
-          "description": "图像编辑项目 GIMP 释出了 3.0 之前的最后一个开发者预览版本 GIMP 2.99.18。该版本旨在预览开发进展，让社区能更早发现问题和报告问题。它是一个不稳定版本，不适合开发使用。GIMP 项目原计划在 2024 年 5 月释出备受瞩目的 GIMP 3.0。GIMP 2.99.18 包含了大量更新，其中包括正确校正颜色的 Space Invasion 项目，改进色彩算法，非破坏性编辑的基本实现，改进字体处理，自动扩展层，等等。",
-          "link": "https://www.solidot.org/story?sid=77421",
-          "publishedOn": "2024-02-22T14:02:08.000Z",
-          "wordCount": 182,
-          "title": "GIMP 3.0 之前的最后一个开发者预览版发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77420",
-          "author": null,
-          "description": "当前地质时代（始于 1.17 万年前的全新世）最大一次火山爆发发生在约 7300 年前的日本南部海岸水下。其产生的物质是 1815 年坦博拉火山爆发产生物质的 3 倍多。坦博拉火山位于印度尼西亚，其爆发导致了剧烈的气候变化，使 1816 年成为“无夏之年”。而作为新记录保持者的 Kikai-Akahoya 火山，淹没于日本九州岛附近海域，在这个破火山口之上是名为硫磺岛的火山岛。日本神户大学的研究人员计算出，Kikai-Akahoya 火山喷发在水下产生的岩石和火山灰体积约为 70 立方千米，远超之前的想象。如果将日本陆上沉积火山岩也算进去，那么火山喷发的物质总体积达 300 多立方千米。研究人员表示，Kikai-Akahoya 破火山口下面有一个巨大的岩浆库，很可能再次喷发。",
-          "link": "https://www.solidot.org/story?sid=77420",
-          "publishedOn": "2024-02-22T12:58:54.000Z",
-          "wordCount": 175,
-          "title": "全新世最大火山喷发事件发生在日本海底",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77419",
-          "author": null,
-          "description": "李开复的 AI 初创公司 01.AI 去年 11 月跃居开源人工智能系统能力排行榜的榜首。它的部分技术是基于 Meta 公司开源的大模型 LLaMA。李开复对此在邮件中表示，他的初创公司的人工智能模型是建立在 LLaMA 上的，就像“其他大多数 AI 公司一样”，并补充说，使用开源技术是一种标准做法。他说，他的公司使用自己的数据和算法，从零开始训练人工智能模型。这些都是 01.AI“表现出色”的“主要决定因素”。Meta 发言人表示，公开分享该公司的 AI 模型有助于传播其价值观和标准，进而有助于确保美国的领导地位。一位投资公司的合伙人称，中国公司从零开始建立的 AI 模型“不是很好”，所以许多中国公司经常使用“西方模型的微调版”。",
-          "link": "https://www.solidot.org/story?sid=77419",
-          "publishedOn": "2024-02-22T10:13:46.000Z",
-          "wordCount": 183,
-          "title": "中国 AI 模型建立在美国模型基础上",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77418",
-          "author": null,
-          "description": "私人太空公司 Firefly 在 2023 年 12 月 20 日使用其火箭 Alpha 发射了洛克希德马丁公司的卫星，火箭第二级没有按照计划的燃烧，导致了卫星留在错误轨道上，距离重返大气层只有几周时间。根据 Firefly 的任务更新，火箭 Guidance, Navigation, and Control (GNC)软件算法中的错误，阻止系统向 Reaction Control System (RCS)推进器在第二级重点火前发送必要的脉冲命令。",
-          "link": "https://www.solidot.org/story?sid=77418",
-          "publishedOn": "2024-02-22T09:41:49.000Z",
-          "wordCount": 182,
-          "title": "Firefly 软件算法错误导致卫星留在错误轨道上",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77417",
-          "author": null,
-          "description": "荷兰 ASML 取代美国 Applied Materials 成为全球最大的晶圆厂工具制造商。分析师称，ASML 在 2023 年的收入为  298.3 亿美元，而 Applied Materials 是 265.2 亿美元。ASML 在 2023 年出售了 53 台 Low-NA EUV Twinscan NXE，单价约 1.83 亿美元，相比下 2022 年是 40 台；此外它还出售了 125 台深紫外光刻机，相比下 2022 年是 81 台。美国对华先进芯片制造工具出口禁令对 ASML 的影响没有 Applied Materials 大。两家公司在芯片制造领域并不存在直接竞争，Applied Materials 不制造光刻机，而是提供其它相关工具 。",
-          "link": "https://www.solidot.org/story?sid=77417",
-          "publishedOn": "2024-02-22T08:29:00.000Z",
-          "wordCount": 216,
-          "title": "ASML 取代 Applied Materials 成为全球最大的晶圆厂工具制造商",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77416",
-          "author": null,
-          "description": "在美国阿拉巴马州最高法院裁定冷冻的胚胎是“儿童”后，阿拉巴马大学伯明翰分校卫生系统宣布暂停所有体外人工受精手术。该校为一类公立研究型大学，有逾 2.4 万名教职工，它的卫生系统是美国最大的学术医疗中心之一。州最高法院上周五裁定冷冻的胚胎是“儿童”，享有完整人格权利，任何毁坏冷冻胚胎的人都可能需要在非正常死亡案件中担责。由于体外受精使用的冷冻胚胎并不都会变成活胎儿，大学担心会面临刑事诉讼或惩罚性赔偿，因此宣布暂停所有此类手术。法律专家表示，目前还不清楚标准的体外受精手术在阿拉巴马州是否非法，是否意味着无法在该州做任何体外受精手术。",
-          "link": "https://www.solidot.org/story?sid=77416",
-          "publishedOn": "2024-02-22T08:06:04.000Z",
-          "wordCount": 158,
-          "title": "阿拉巴马州大学暂停体外受精手术",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77415",
-          "author": null,
-          "description": "黑山首都波德戈里察（Podgorica）高等法院拒绝了将 Do Kwon 引渡到其祖国韩国的请求，法庭裁决他应被引渡到美国接受欺诈指控的审判。Kwon 的律师有三天时间对裁决提出上诉。加密货币公司 Terraform Labs 的创始人 Do Kwon 是在 2023 年 3 月在黑山被捕。Terraform 发行了被称为 Terra USD（UST）的算法稳定币，2022 年 5 月 UST 的币值崩溃关联代币 LUNA 几乎跌至一文不值，客户损失了数十亿美元。Do Kwon 是韩国公民，他的公司总部位于新加坡，他遭到了韩国和美国的指控，Kwon 则一直否认自己存在欺诈行为。",
-          "link": "https://www.solidot.org/story?sid=77415",
-          "publishedOn": "2024-02-22T07:31:11.000Z",
-          "wordCount": 191,
-          "title": "Do Kwon 预计将被引渡到美国受审",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77414",
-          "author": null,
-          "description": "英特尔和微软周三宣布了芯片代工合作，微软将使用英特尔的 18A 技术制造其自研芯片。英特尔过去几年一直在推动其芯片代工业务，但进展缓慢，与行业巨头台积电还相去甚远。芯片巨人的代工业务被称为 Intel Foundry，上一财季收入 2.91 亿美元，英特尔认为该业务未来能达到 150 亿美元，而台积电上一财季收入为 196 亿美元。微软去年底透露了台积电代工的自研芯片—— AI 芯片 Maia 100 和云计算处理器 Cobalt 100。目前不清楚英特尔会为其代工哪款芯片。",
-          "link": "https://www.solidot.org/story?sid=77414",
-          "publishedOn": "2024-02-22T06:07:49.000Z",
-          "wordCount": 173,
-          "title": "英特尔将为微软代工其自研芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77413",
-          "author": null,
-          "description": "社媒平台 Reddit 预计最快下个月在纽约证交所上市，该公司希望估值至少达到 50 亿美元，这比 2021 年融资时的 100 亿美元估值下降了一半。据《华尔街日报》援引知情人士的消息报道，Reddit 计划上市前向其平台上最活跃的 7.5 万名忠实用户以 IPO 价格出售部分股票。这一特权通常只提供给大投资者。Reddit 的上市已筹备了三年多时间，这将是 Pinterest 之后美国大型社媒公司的首次 IPO。",
-          "link": "https://www.solidot.org/story?sid=77413",
-          "publishedOn": "2024-02-22T05:15:42.000Z",
-          "wordCount": 186,
-          "title": "Reddit 计划向最活跃用户出售 IPO 股票",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77412",
-          "author": null,
-          "description": "OpenAI 的名字中有 Open，但它的大模型不开放也不开源，如今开源大模型主要来自于巨头如 Meta 和 Google。Google 宣布了它最新的开放大模型 Gemma。Gemma 由 Google DeepMind 等团队开发，是轻量级的大模型，有两个版本：Gemma 2B 和 Gemma 7B。Google 称这两个版本在各自的参数规模上展现了最佳的性能，甚至超过规模更大的模型。在基准测试中，Gemma 7B 的得分与目前最优秀的开源大模型 Mistral 7B 差不多或更好。",
-          "link": "https://www.solidot.org/story?sid=77412",
-          "publishedOn": "2024-02-21T14:17:51.000Z",
-          "wordCount": 186,
-          "title": "Google 宣布开放大模型 Gemma",
-          "imageUrl": null
         }
       ]
     },
@@ -1026,6 +966,36 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/online-tools-coupon-code-spring-2024",
+          "author": null,
+          "description": "Spring into action with Online Tools and my vast collection of utilities, perfect for all your image, text, and data editing needs!\nI'm excited to offer you an exclusive spring offer: use the coupon code BLOOMTOOLS24 at the checkout to get a special discount on my service.\nAs the flowers blossom, so should your projects. Stay ahead and stay efficient this season with my quick and effective tools.\nPS. Today is the last day this coupon is valid.",
+          "link": "https://catonmat.net/online-tools-coupon-code-spring-2024",
+          "publishedOn": "2024-03-02T20:01:00.000Z",
+          "wordCount": 353,
+          "title": "Online Tools Coupon Code (Spring 2024)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/browserling-coupon-code-spring-2024",
+          "author": null,
+          "description": "As the flowers start to bloom, it's time to refresh your browsing experience with Browserling!\nI'm excited to offer you an exclusive spring deal: use the coupon code BLOOMLING24 at the checkout to get a special discount on my service.\nWelcome the spring season with Browserling by your side – your web testing companion for the cyber blossom.\nPS. Today is the last day this coupon is valid.",
+          "link": "https://catonmat.net/browserling-coupon-code-spring-2024",
+          "publishedOn": "2024-03-02T20:00:00.000Z",
+          "wordCount": 349,
+          "title": "Browserling Coupon Code (Spring 2024)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/another-20-new-png-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 20 new png tools and today we just added another 20 new tools to our Online PNG Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new PNG tools:\nCreate a Multi-color Gradient PNG\nCreate an Empty PNG\nAdd a Glow Effect to a PNG\nAdd an Outline to a PNG\nRemove an Outline from a PNG\nAdd Stroke to PNG\nRemove Stroke From PNG\nConvert a PNG to RGB Values\nConvert RGB Values to a PNG\nConvert a PNG to HSL Colors\nConvert a PNG to CMYK Colors\nConvert a PNG to HSV Colors\nConvert a PNG to YCbCr Colors\nSplit a PNG Into RGB Components\nRemove the Alpha Channel from a PNG\nFill the Alpha Channel in a PNG\nExtract the Alpha Channel from a PNG\nCount Colors in a PNG\nCheck if a PNG is Grayscale\nImprove a Low Quality Signature\nNext week we'll add even more tools. See you then!",
+          "link": "https://catonmat.net/another-20-new-png-tools",
+          "publishedOn": "2024-03-02T12:13:00.000Z",
+          "wordCount": 457,
+          "title": "We've Added 20 More New PNG Tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/paid-plans-for-integer-tools",
           "author": null,
@@ -1104,16 +1074,6 @@
           "publishedOn": "2024-02-23T21:45:00.000Z",
           "wordCount": 1089,
           "title": "What is an Unrestricted Browser? (2024)",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/what-is-an-attachment-sandbox",
-          "author": null,
-          "description": "TLDR: You can connect to an attachment sandbox created by me and my team via browserling.com/browse. It lets you safely download, view, and edit email attachments and other suspicious files in a remote virtual machine, ensuring complete isolation from your network and providing robust protection against cybersecurity threats.\nAttachment Sandbox – What Is It?\nAn attachment sandbox is a secure, isolated environment used to open and analyze emails and their attachments without risking the main system or network. This cybersecurity solution allows to safely inspect potentially malicious attachments, such as malware and viruses and check suspicious email links by opening them on a remote server, thereby preventing the spread of threats across the local network.\nHow Does an Attachment Sandbox Wo…",
-          "link": "https://catonmat.net/what-is-an-attachment-sandbox",
-          "publishedOn": "2024-02-21T22:35:00.000Z",
-          "wordCount": 1175,
-          "title": "What is an Attachment Sandbox?",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
