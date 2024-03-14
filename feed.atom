@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-03-13T02:19:48.991Z</updated>
+    <updated>2024-03-14T02:17:05.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[报告建议美国政府禁止开源大模型]]></title>
+        <id>https://www.solidot.org/story?sid=77588</id>
+        <link href="https://www.solidot.org/story?sid=77588"/>
+        <updated>2024-03-13T15:27:08.000Z</updated>
+        <summary type="html"><![CDATA[美国政府花费了 25 万美元委托一家四人公司 Gladstone AI 撰写了一份研究报告《An Action Plan to Increase the Safety and Security of Advanced AI》。报告督促美国政府立即采取行动以避免 AI 带来的重大国家安全风险。报告认为在最糟糕的情况下 AI 构成了对人类的灭绝级威胁。报告的建议包括：国会应该对超过特定算力训练 AI 模型为非法，该算力阈值由新设立的 AI 机构设定。报告举例说，可以参考目前最先进的模型 OpenA GPT-4 和 Google Gemini 使用的算力。报告还建议政府应该禁止在开源许可证下公开大模型的权重，违反者将面临监禁。政府还应该进一步加强对 AI 芯片制造和出口管制。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊上涌现大量 AI 撰写作品]]></title>
+        <id>https://www.solidot.org/story?sid=77587</id>
+        <link href="https://www.solidot.org/story?sid=77587"/>
+        <updated>2024-03-13T14:16:03.000Z</updated>
+        <summary type="html"><![CDATA[当知名科技作家  Kara Swisher 推出新书《Burn Book》时，亚马逊上出现了看起来是 AI 生成的她的传记。Swisher 说她直接写邮件痛斥亚马逊 CEO Andy Jassy。但绝大部分作者不可能与亚马逊 CEO 保持邮件联系。美国作家协会的 CEO Mary Rasenberger 称亚马逊上的欺骗性图书一直是一大问题，而在生成式 AI 时代问题变得更严重了。每一本新书似乎都有一本相似的书在抢销量。Marie Arana 花了数年时间撰写的新书《LatinoLand: A Portrait of America's Largest and Least Understood Minority》于今年 2 月出版，第二天她在亚马逊上发现新书旁边的推荐是《Largest and Least Understood Minority. A Summary of Latinoland》。这本所谓的摘要是名叫 Clara Bailey 的作者发表的，Bailey 发表了大量类似的摘要在亚马逊上出售。在被调查之后亚马逊下架了 Bailey 的作品。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tor 项目推出模拟 HTTPS 流量的新网桥 WebTunnel]]></title>
+        <id>https://www.solidot.org/story?sid=77586</id>
+        <link href="https://www.solidot.org/story?sid=77586"/>
+        <updated>2024-03-13T13:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Tor 项目正式推出了模拟 HTTPS 流量的新网桥 WebTunnel。网桥是不公开的 Tor 中继。WebTunnel 通过模拟  HTTPS 流量增加屏蔽 Tor 连接的难度。审查者不可能完全屏蔽 HTTPS 连接，因为这会导致绝大部分服务无法访问。Tor 项目称，WebTunnel 的工作原理是将负载（Payload）连接包装成类 WebSocket HTTPS 连接，在网络观察者眼里就像普通的 HTTPS (WebSocket) 连接。使用 WebTunnel 网桥需要用户去获取相关网桥地址，手动添加到 Tor 浏览器中。WebTunnel 网桥数量还不多，目前无法在伊朗部分地区使用，在其它国家能正常工作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国铁路用 AI 大数据管理高铁网络]]></title>
+        <id>https://www.solidot.org/story?sid=77585</id>
+        <link href="https://www.solidot.org/story?sid=77585"/>
+        <updated>2024-03-13T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[铁科院研究人员在《中国铁路》特刊上发表论文《高速铁路基础设施检测监测大数据分析技术研究与实践》，称中国铁路正在运用 AI 大数据管理 4.5 万公里的高铁网络。系统能处理来自各地的实时数据，最快 40 分钟内向维护团队发出预警，准确率 95%。2023 年高铁大值报警同比减少 87%，预警分析效率提升 85%。论文第一作者是铁科院集团公司副总经理兼国铁集团检测中心主任牛道安，他的团队称高铁基础设施传感器产生的大量数据迫使中国新技术如大数据和 AI。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 IRIS 识别伪造的电子元件]]></title>
+        <id>https://www.solidot.org/story?sid=77584</id>
+        <link href="https://www.solidot.org/story?sid=77584"/>
+        <updated>2024-03-13T10:54:10.000Z</updated>
+        <summary type="html"><![CDATA[消费者购买电子产品通常是基于口碑，包括品牌的声誉和其他用户的使用评价。但我们都知道这一机制并不可靠，用户评价可以被收买，商家可能会出售假冒品牌产品。假冒品牌产品其实还是比较容易识别，更不容易识别的是假冒电子元件，也就是某个产品在在复杂的制造流程或销售流程中其内部微小的元件可能会被人动手脚（也就是我们熟知的供应链攻击）。普通消费者基本上不太可能靠自己识别电子元件被纂改或替换的问题。知名硬件黑客黄欣国（Andrew 'bunnie' Huang）的 IRIS (Infra-Red, in situ) 项目就试图解决这个问题，为识别伪造元件提供一种廉价的解决方案。他在个人博客上解释了其背后的工作原理：虽然硅在可见光下不透明，但在大于等于 1000 nm 的红外波长下是透明的。今天的商用光学元件和 CMOS 相机能在该波长下工作。作为一种低成本且有效的技术，IRIS 可用于确认块级的芯片构造，如识别芯片是否有正确数量的 RAM、CPU 核心数量、接合焊盘（bond pads）等等。这种级别的验证足以挫败大多数元件级别的伪造。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新冠疫情使全球平均寿命缩短 1.6 年]]></title>
+        <id>https://www.solidot.org/story?sid=77583</id>
+        <link href="https://www.solidot.org/story?sid=77583"/>
+        <updated>2024-03-13T08:24:40.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《柳叶刀》期刊上的一项研究，新冠疫情使全球平均寿命缩短 1.6 年。在 2020 年至 2021 年期间，在报告所分析的 204 个国家和地区中，高达 84% 的国家和地区的预期寿命下降。在此期间，15 岁以上男性死亡率上升了 22%，女性上升了 17%。墨西哥城、秘鲁和玻利维亚是预期寿命下降最严重的地方。研究人员估计，2020 年到 2021 年，新冠直接或间接造成了 1590 万人的超额死亡，这比世界卫生组织此前估计的死亡人数多出 100 万。巴巴多斯、新西兰与安提瓜和巴布达是超额死亡率最低的国家，这三个国家均是相对孤立的岛屿国家，因此在一定程度上幸免于新冠疫情的全面冲击。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Scraper – 不用编程，可视化爬虫，一键获取网页数据，可能是最简单的网络爬虫了[Chrome]]]></title>
+        <id>https://www.appinn.com/?p=47882</id>
+        <link href="https://www.appinn.com/easy-scraper/"/>
+        <updated>2024-03-13T08:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Easy Scraper 是一款非常简单易用的网络爬虫工具，适用于 Chrome 浏览器，完全可视化操作，只需提交 url 列表，并选取任意一个页面中的所需要的区域，就可以实现批量获取数据、文本了，可]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果在欧洲将允许直接从网站下载 iOS 应用]]></title>
+        <id>https://www.solidot.org/story?sid=77582</id>
+        <link href="https://www.solidot.org/story?sid=77582"/>
+        <updated>2024-03-13T07:33:23.000Z</updated>
+        <summary type="html"><![CDATA[苹果计划在欧盟国家允许应用开发商直接通过网站提供 iOS 应用下载。苹果将在今年春天晚些时候的软件更新中提供这项功能。只需要应用开发商遵守苹果的严格规定，他们不需要应用商店就可以在欧盟地区分发应用。正在向更多第三方应用程序开放 iOS应用。虽然苹果对更多第三方应用开放 iOS，但仍然有很多限制，开发商仍旧必须在严格的苹果应用开发生态系统中工作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类可能最早在 30 万年前开始穿衣服]]></title>
+        <id>https://www.solidot.org/story?sid=77581</id>
+        <link href="https://www.solidot.org/story?sid=77581"/>
+        <updated>2024-03-13T06:51:05.000Z</updated>
+        <summary type="html"><![CDATA[人类何时开始穿衣服？衣服不同于骨头无法长时间保存，因此只能通过其它证据推断，比如带有剥皮痕迹的骨头、缝纫针和锥子，以及虱子。通过观察只能生活于人类体毛中的头虱和生活于人类衣物上的衣虱在进化过程中分离的时间节点。研究团队推断，现代人类在大约 17 万年前，也就是倒数第二个冰河时期，开始定期穿着简单的衣物。但有证据表明，包括现代人类及其已经灭绝的“亲属”在内的人类祖先穿衣的时间要早得多。德国图宾根大学研究团队去年发表的论文指出，在德国舍宁根旧石器时代遗址上发现的熊骨头上的“蛛丝马迹”表明，约 30 万年前的人类（可能是海德堡人）已经开始穿着熊皮来保暖。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何平衡来自父母的 X 染色体]]></title>
+        <id>https://www.solidot.org/story?sid=77580</id>
+        <link href="https://www.solidot.org/story?sid=77580"/>
+        <updated>2024-03-13T06:35:44.000Z</updated>
+        <summary type="html"><![CDATA[女儿继承两条 X 染色体(一条来自母亲，一条来自父亲)，而儿子只继承一条来自母亲的 X 染色体。在发表在《Molecular Cell》期刊上的一项新研究中，麻省总医院的研究人员发现，父亲传给女儿的 X 染色体中有很大一部分是沉默的，甚至在受精前也是如此。这可能是一种机制，在早期胚胎发育过程中，以及在进化过程中，随着 Y 染色体(开始时与 X 相等)失去越来越多的遗传物质，在两性之间平衡 X 连锁基因的活性。第一作者 Chunyao Wei 博士表示:“这些预先沉默的基因需要在胚胎中得到精确控制，这种机制也避免了 X 基因在子代中过量使用。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[澳大利亚批准了能抵抗巴拿马病的转基因香蕉]]></title>
         <id>https://www.solidot.org/story?sid=77578</id>
@@ -850,96 +950,6 @@ See you next time!]]></summary>
         <summary type="html"><![CDATA[根据 Valve 公布的 Steam 2024 年 2 月调查，简体中文成为用户数最多的语言，原因可能与热门游戏如《幻兽帕鲁》有关。数据显示：在操作系统上，Windows 占 96.91%，Linux 1.76%，OSX 1.32%；在用户使用的语言上，简体中文占比达到了 32.84%，比前一个月增长 7.62%，超过了英语的 32.12%（减少 4.05%），占居了第一位，俄语占 9.27%，排名第三。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家首次计算出恒星周围的含水量]]></title>
-        <id>https://www.solidot.org/story?sid=77506</id>
-        <link href="https://www.solidot.org/story?sid=77506"/>
-        <updated>2024-03-04T12:29:02.000Z</updated>
-        <summary type="html"><![CDATA[意大利天文学家在一颗年轻恒星周围的圆盘中发现了水蒸气，恒星盘是行星正在形成的地方。据发表在《自然·天文学》杂志上的观测结果显示，在距离地球 450 光年的金牛座的年轻类日恒星 HL Tauri 的内盘中，含水量至少是地球所有海水的 3 倍。水是地球上生命的关键成分，也被认为在行星形成中起着重要作用。然而之前，天文学家还无法绘制出水在稳定的恒星盘中的分布。但此次，研究人员不仅可探测捕捉到详细的图像，还在距离地球 450 光年的距离上对水蒸气进行了分析。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印度要求发布模型需得到政府批准]]></title>
-        <id>https://www.solidot.org/story?sid=77505</id>
-        <link href="https://www.solidot.org/story?sid=77505"/>
-        <updated>2024-03-04T10:58:56.000Z</updated>
-        <summary type="html"><![CDATA[印度政府改变了它对 AI 模型不干涉的立场，发出意见书要求科技公司发布新模型前先获得政府批准。它还要求科技公司确保其服务或产品“不允许任何偏见或歧视，或危及选举过程的完整性”。印度电子信息技术部是在上周五向企业发布了这一意见书的，虽然目前它不具有法律约束力，但副部长 Rajeev Chandrasekhar 表示这代表着监管的未来。他在周一表示该意见针对的是在印度互联网上部署未经测试的 AI 平台，不针对创业公司。印度创业公司和风险投资公司则表示对政府发布的监管意见感到震惊，认为会阻碍印度公司的竞争力，而印度已经在全球竞争中落后了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[防火墙泄漏跨国流量]]></title>
-        <id>https://www.solidot.org/story?sid=77504</id>
-        <link href="https://www.solidot.org/story?sid=77504"/>
-        <updated>2024-03-04T09:28:35.000Z</updated>
-        <summary type="html"><![CDATA[匿名读者写道：FOCI 2024 会议于上月举行，论文 Bleeding Wall: A Hematologic Examination on the Great Firewall 揭示了防火长城于去年存在的越界读漏洞。攻击者发送构造的 DNS 查询，存在漏洞的 DNS 污染器会在抢答中包含缓冲区内容，多数时候是刚处理的上一个数据包。尽管泄漏量有限，每次只能泄漏 124 字节，但论文作者在三天之内收集了数百万条明文 HTTP 凭据等敏感信息，以及暗含 GFW 进程特征的栈帧。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国盗版动漫网站主犯被判三年缓刑三年六个月]]></title>
-        <id>https://www.solidot.org/story?sid=77503</id>
-        <link href="https://www.solidot.org/story?sid=77503"/>
-        <updated>2024-03-04T08:23:16.000Z</updated>
-        <summary type="html"><![CDATA[日本反盗版组织 CODA(文化产品海外流通促进机构) 去年初宣布关闭了一家在中国运营但面向日本的盗版动漫网站 B9Good。CODA 代表 Aniplex、东京电视台、东映动画、东宝、NHK 和万代南梦宫向中国提起刑事诉讼，调查期间得到了另外 21 家公司的支持，江苏公安部门逮捕了 4 人并扣押了一栋价值约 400 万人民币的房子。B9GOOD 从 2008 年开始运营，使用了 B9DM 的品牌，月访问量在 1500 万次左右，2021 年 3 月至 2023 年 2 月的 2 年间访问量超过 3 亿次，95% 的访客来自日本。CODA 周一宣布，江苏法院去年 12 月判处男性主犯有期徒刑 3 年，缓刑 3 年零 6 个月，并处罚金 180 万元人民币，从该男子获取报酬的 2 名女子也被判有罪。判决认定以不当方式获取了相当于约 3700 万日元（约合人民币 177 万元）的广告收入。CODA对此发表评论称，“期待这对遏制盗版网站的运营发挥巨大影响力。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@feeshy 的 10+ 款自用 Obsidian 第三方插件分享]]></title>
-        <id>https://www.appinn.com/?p=47828</id>
-        <link href="https://www.appinn.com/feeshy-obsidian-community-plugins/"/>
-        <updated>2024-03-04T07:42:05.000Z</updated>
-        <summary type="html"><![CDATA[@feeshy 同学在论坛分享了自己正在使用的 Obsidian 第三方插件，包括了第三方同步、不好归类、大纲笔记、任务管理、Zotero 整合、主题几大类，一起来看看。@Appinn 也欢迎前往分享]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《ACM 通讯》正式拥抱开放获取]]></title>
-        <id>https://www.solidot.org/story?sid=77502</id>
-        <link href="https://www.solidot.org/story?sid=77502"/>
-        <updated>2024-03-04T07:41:21.000Z</updated>
-        <summary type="html"><![CDATA[历史最悠久的计算机出版物之一《ACM 通讯（Communications of the ACM）》拆除了付费墙，正式拥抱开放获取：逾 60 年里出版的知名研究文章、开创性论文、技术报告、评论、现实实践和新闻报道向所有用户开放，不管他们是不是 ACM 会员还是订阅了 ACM Digital Library。ACM（美国计算机协会）是在 2020 年宣布用大约五年时间（到 2026 年 1 月）在财务可持续模式下转变为一家完全开放获取出版商。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 基金会的新项目得到了盖茨基金会的资助]]></title>
-        <id>https://www.solidot.org/story?sid=77501</id>
-        <link href="https://www.solidot.org/story?sid=77501"/>
-        <updated>2024-03-04T06:37:15.000Z</updated>
-        <summary type="html"><![CDATA[Linux 基金会发起了名为 Tazama 的实时反诈开源软件解决方案，该项目得到了比尔及梅琳达•盖茨基金会 (Bill & Melinda Gates Foundation)的支持。全球反诈骗联盟(Global Anti-Scam Alliance)报告称，2022 年因在线欺诈损失了近万亿美元。Tazama 提供了一种强大、可扩展且省钱的开源反欺诈替代解决方案。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla 的 Firefox 和谋智的火狐]]></title>
-        <id>https://www.solidot.org/story?sid=77500</id>
-        <link href="https://www.solidot.org/story?sid=77500"/>
-        <updated>2024-03-04T05:35:02.000Z</updated>
-        <summary type="html"><![CDATA[在中国的应用商店和搜索引擎输入 Firefox，有很大的几率会得到火狐，不是说火狐不是 Firefox，而是说两者之间有点小小的区别。在浏览器地址栏输入 firefox.com，会跳转到 Mozilla 官网；输入 firefox.com.cn 不会跳转，两者的界面无比相似，但略有差异：Mozilla 产品更多，而成立于 2007 年的北京谋智其主要产品就是火狐/Firefox。分别从两个网站下载 Firefox 和火狐，会发现北京谋智的工作有点草率，它下载的不是最新版本而是半年前旧版本——v116.0.3，最新版本号是 v123.0。对比两个版本，区别是：火狐的默认搜索引擎是百度，以及大量中国的本地推广合作伙伴，如淘宝、新浪、小红书、知乎等；Mozilla Firefox 默认搜索引擎是 Google，其推广合作伙伴也主要是美国科技公司。这是表面上的差异，表面之下的差异主要在于两者的数据是不通的，这可能是为了遵守中国的数据法律：Mozilla Firefox 同步账号使用的域名是 accounts.firefox.com，而火狐是 accounts.firefox.com.cn，不要登陆火狐后想同步 Firefox 的数据。除此之外，Firefox 的恶意网站特征库来自 Google，而火狐则使用中国浏览器共享的一个特征库，因此特定网站在火狐上可能会被标记为恶意网站阻止你访问，而 Firefox 可以正常访问。北京谋智是如何改变火狐的？它主要是通过扩展完成本地化工作，火狐预装了三个与本地化定制相关的扩展：火狐新标签页，火狐主页和网银支付助手，禁用这三个扩展，火狐差不多就变成了 Firefox。在火狐上设置同步账号时可以选择“切换至全球服务”，它会显示一个警告信息“全球服务可能会因为网络状况出现无法连接的问题”——没事的，我们早就习惯了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偏头痛记录 – 简单的记录与统计每一次的偏头痛与是否服药[iPhone/Android]]]></title>
-        <id>https://www.appinn.com/?p=47821</id>
-        <link href="https://www.appinn.com/migraine-log/"/>
-        <updated>2024-03-04T04:40:48.000Z</updated>
-        <summary type="html"><![CDATA[偏头痛记录是一款专门用来记录和统计个人偏头痛的应用，支持 iPhone 与 Android。它的设计非常简单，只需填写日期和发作强度，同时可以记录是否服药，以及简短的备注，就能在自带的日历中直观看到数]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
