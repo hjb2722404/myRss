@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-03-16T02:16:42.550Z</updated>
+    <updated>2024-03-17T02:19:10.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[攻击者在百度投放广告传播恶意版 Notepad++ 和 vnote]]></title>
+        <id>https://www.solidot.org/story?sid=77615</id>
+        <link href="https://www.solidot.org/story?sid=77615"/>
+        <updated>2024-03-16T15:18:31.000Z</updated>
+        <summary type="html"><![CDATA[卡巴斯基安全研究人员发现有攻击者在百度投放广告传播恶意版的文本编辑器 Notepad++ 和笔记应用 vnote。研究人员指出，如果用户点击广告进入传播恶意版 Notepad++ 的网站，会立即注意到不一致的地方：网址包含了 vnote 而不是 Notepad++，提供下载的应用是中国开发者改造过的 Notepad--（分支）。网站提供的 Windows、Linux、macOS 三个版本中只有 Linux 和 macOS 版本包含了恶意代码。vnote 的钓鱼网站则试图模仿官网。如果用户安装了恶意版的 Notepad--，它会试图安装一个后门程序，该后门程序应该是来自于开源程序 Geacon。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Location Service 即将关闭]]></title>
+        <id>https://www.solidot.org/story?sid=77614</id>
+        <link href="https://www.solidot.org/story?sid=77614"/>
+        <updated>2024-03-16T14:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 宣布其开放定位服务 Location Service 即将关闭。Mozilla Location Service（MLS）于 2013 年推出，通过开源的 MozStumbler Android 应用使用社区递交的 GPS 数据提供地理位置定位服务。但在 2019 年 Skyhook Holdings, Inc 联络 Mozilla 声称该服务侵犯了它的多项专利。 Mozilla 与 Skyhook 达成了避免诉讼的和解，但需要调整 MLS 政策，加大了投资和扩大该服务的难度。2021 年 Mozilla 终止了 MozStumbler 项目。此后随着 MLS 的定位精度不断下降，Mozilla 决定终止该服务，即日起停止发放新的 API 访问密钥，6 月 12 日移除第三方密钥， 7 月 31 日源代码库存档。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[汽车厂商与保险公司分享司机驾驶行为数据]]></title>
+        <id>https://www.solidot.org/story?sid=77613</id>
+        <link href="https://www.solidot.org/story?sid=77613"/>
+        <updated>2024-03-16T13:27:42.000Z</updated>
+        <summary type="html"><![CDATA[Kenn Dahl 自称是一位谨慎的司机，他驾驶一辆租来的雪佛兰 Bolt，从未发生需要承担责任的事故。但 2022 年他的车险费上涨了 21%。其它保险公司的报价也都很高。一位保险中介称，车险费上涨的一个重要原因是他的 LexisNexis 报告。LexisNexis 是一家数据经纪商，它有一项专门服务于车险行业的业务。应 Dahl 的要求，LexisNexis 提供了长达 258 页的“消费者披露报告”，其中的内容令 Dahl 先生大吃一惊：有逾 130 页的报告详细纪录了他和妻子在半年内的驾驶行为，举例来说，6 月的一个周四早晨，汽车在 18 分钟内行驶 7.33 英里，期间发生了两次急加速和两次紧急刹车事件。该数据由雪佛兰 Bolt 的制造商通用汽车提供。Dahl 先生认为这是一种背叛，汽车厂商收集并分享了他以为不会分享的数据，搞砸了他们的车险。现代的汽车都能联网，以获得访问导航、道路救援，以及用于定位和远程解锁的汽车应用。包括通用汽车、本田、起亚和现代在内的汽车厂商在其联网汽车应用中提供了评估驾驶情况的可选功能。部分司机可能没有意识到，如果他们启用这些功能，汽车厂商就会向 LexisNexis 等数据经纪商提供他们的驾驶行为信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Link Sandbox? (And How To Get One)]]></title>
+        <id>https://catonmat.net/what-is-a-link-sandbox</id>
+        <link href="https://catonmat.net/what-is-a-link-sandbox"/>
+        <updated>2024-03-16T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: You can launch a link sandbox created by me and my team via browserling.com/browse. It runs remotely, keeping your system safe from any online dangers. It's super helpful for opening links when you're not sure if they're safe.
+Link Sandbox – What Is It?
+A link sandbox is a secure, isolated environment used for testing and analyzing the behavior of web links or downloadable files without risking the main system or network. It's commonly used in cybersecurity to evaluate potentially malicious or suspicious links and downloads, ensuring they do not contain malware or lead to phishing websites, thereby protecting the user from security threats.
+How Does a Link Sandbox Work?
+A link sandbox sets up a temporary container on a remote cloud server for the purpose of inspecting suspicious webs…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit 出售用户生成数据训练 AI 引起 FTC 调查]]></title>
+        <id>https://www.solidot.org/story?sid=77612</id>
+        <link href="https://www.solidot.org/story?sid=77612"/>
+        <updated>2024-03-16T09:20:47.000Z</updated>
+        <summary type="html"><![CDATA[美国社媒平台 Reddit 准备下周 IPO，它已经与 Google 等公司签署合作协议出售用户生成内容训练 AI 模型，这些协议能在未来几年给该公司带来 2.03 亿美元的收入。但相关交易引起了美国监管机构 FTC 的调查。Reddit 在一份监管文件中披露，它于周四收到了 FTC 的信函，询问相关信息。Reddit 并不是唯一一家试图通过出售用户生成数据训练 AI 获利的公司，编程问答网站 Stack Overflow 与 Google 签署了协议，美联社与 OpenAI 签署了协议，Tumblr 母公司 Automattic 正在谈判出售用户生成内容。而 Reddit 也不是唯一一家收到 FTC 信函的公司。出售用户生成内容引发了一系列疑问：谁真正拥有内容的所有权？不给内容作者提成就授权内容是否公平？]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pornhub 屏蔽德州 IP 访问]]></title>
+        <id>https://www.solidot.org/story?sid=77611</id>
+        <link href="https://www.solidot.org/story?sid=77611"/>
+        <updated>2024-03-16T03:25:08.000Z</updated>
+        <summary type="html"><![CDATA[在美国第五巡回上诉法院上周以 2 比 1 维持了要求成人网站验证访客年龄的德州法律之后，成人网站 Pornhub 屏蔽了德州 IP。当德州 IP 访客访问 pornhub.com 时，他们会看到一则信息，称德州法律“无效、随意且危险”，Pornhub 表示验证访客年龄侵犯了成年人的言论自由权利，而且事实上也没有什么效果，它因此做了一个困难的决定，屏蔽德州居民访问其网站。Pornhub 母公司旗下的其它成人网站也发布了相同的信息，它还屏蔽了阿肯色州、密西西比州、蒙大拿州、北卡罗来纳州、犹他州和弗吉尼亚州居民访问其网站，抗议类似的法律。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CapsWriter-Offline，可能是最好用的 PC 端语音输入工具（离线识别）]]></title>
+        <id>https://www.appinn.com/?p=47915</id>
+        <link href="https://www.appinn.com/capswriter-offline/"/>
+        <updated>2024-03-16T03:20:15.000Z</updated>
+        <summary type="html"><![CDATA[这是 CapsWriter-Offline ，一个 PC 端的语音输入工具。｜同时也支持 macOS M芯片 CPU 机器。 运行后，只要按下键盘上的 大写锁定键，就会开始录音，当你松开 大写锁定键]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Sandboxed Opera? (And How To Get One)]]></title>
         <id>https://catonmat.net/what-is-a-sandboxed-opera</id>
@@ -16,6 +90,41 @@ Sandboxed Opera – What Is It?
 A sandboxed Opera browser is a modified version of the Opera browser that operates within a sandboxed environment, such as a virtual machine or a container. Isolating it from the rest of the system prevents malware spread and minimizes risks posed by untrusted sites or downloads. This approach enhances user privacy by ensuring each browsing session is contained and does not leak user's activities, making it ideal for cybersecurity practices such as safely t…]]></summary>
         <author>
             <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超微服务器主板 x11ssh-f 的 OpenBMC 移植 (WIP)]]></title>
+        <id>https://www.solidot.org/story?sid=77610</id>
+        <link href="https://www.solidot.org/story?sid=77610"/>
+        <updated>2024-03-15T14:10:46.000Z</updated>
+        <summary type="html"><![CDATA[Shawn the R0ck 写道：
+BMC 全称基板管理控制器（baseboard management controller），是一个嵌入某些计算机（通常是服务器）主板的特制微控制器，拥有自己的固件、内存和网络连接（通过自己的独立网卡或网络控制器旁路接口 NC-SI 共享宿主的网卡）。它是承载智能平台管理接口（Intelligent Platform Management Interface，IPMI）的硬件，通过一个扩展自 I²C 的基板管理控制总线/桥（Intelligent Platform Management Bus/Bridge，IPMB）与分布于各个不同系统模块中的卫星控制器相连，可以独立于操作系统监视这些系统模块的工作状态并进行管理，如开关机、感知组件温度并调整风扇转速，甚至可以作为远程控制台，获取屏幕显示并作为键盘鼠标与操作系统交互，甚至模拟外存储器以远程安装操作系统。
+
+BMC 之所以能做到如此深度的管理，是因为 BMC 深度连接到宿主系统的总线之中。BMC 经常是取代了一般 x86 计算机系统的 SuperIO 芯片，通过 LPC、SMBUS 总线连接到宿主，并对宿主提供相应功能（如串口、风扇管理等）。为了实现远程控制台和外存储器模拟，BMC 还与宿主的 PCI（E） 总线相连并表现为显卡，作为从设备与宿主的 USB 总线相连以表现为输入设备和外存储器。
+
+虽然大部分 BMC 的原厂固件使用了 Linux 内核，但一般用的是十分老旧的版本，且其用户态程序一般不是自由软件，因此私有的 BMC 固件正在被逐步视为安全隐患。为此，和 Linux 基金会合作的 OpenBMC 项目面世了，它是一个面向 BMC 的 GNU/Linux 发行版，提供了可以从源代码编译而出的自由 BMC 软件栈，它使用 Yocto 计划作为编译和发行版生成系统，可以生成能直接刷入 BMC 的 rom 芯片的固件镜像。在其内部，OpenBMC 使用 D-Bus 进行进程间通信，并提供一个 web 应用程序使用户能够与 BMC 软件栈交互。HardenedVault团队尝试把OpenBMC移植到超微x11ssh-f主板上，这是一款支持开放固件coreboot的服务器主板。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRO-A/B 月球任务发射失败]]></title>
+        <id>https://www.solidot.org/story?sid=77609</id>
+        <link href="https://www.solidot.org/story?sid=77609"/>
+        <updated>2024-03-15T12:51:30.000Z</updated>
+        <summary type="html"><![CDATA[新华社报道，3 月 13 日 20 时 51 分，我国在西昌卫星发射中心使用长征二号丙运载火箭/远征一号S上面级发射 DRO-A/B 卫星，运载火箭一二级飞行正常，上面级飞行异常，卫星未准确进入预定轨道，目前正在开展相关处置工作。DRO-A 和 B 卫星设计进入绕月的远逆行轨道（distant retrograde orbit 或 DRO），与近地轨道上的卫星 DRO-L 进行通信。DRO-L 于今年 2 月发射到近地轨道。这项任务被认为旨在探索建立月球导航和通信基础设施，但不是探月计划的主要部分。这次发射是长征火箭自 2020 年 4 月以来首次严重事故，但应该不会影响今年的发射计划。之前已经成功完成了逾百次长征火箭发射，长征二号丙运载火箭已被证明是可靠的，问题发生在上面级。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据隐私公司 CEO 创办了数十家人肉搜索公司]]></title>
+        <id>https://www.solidot.org/story?sid=77608</id>
+        <link href="https://www.solidot.org/story?sid=77608"/>
+        <updated>2024-03-15T12:15:16.000Z</updated>
+        <summary type="html"><![CDATA[帮助用户从近 200 个人肉搜索网站删除个人信息的数据隐私公司 Onerep.com 其创始人被发现创办了数十家人肉搜索公司。Onerep 的服务价格个人每月 8.33 美元，家庭每月 15 美元。该公司的创始人兼 CEO 是来自白俄罗斯明斯克的 Dimitri Shelest。调查显示，他实际上是一家白俄罗斯人肉搜索公司 Nuwber.com 的创始人，他的邮箱被用于注册了至少 179 个域名，其中至少几十家公司的业务针对的是阿根廷、巴西、加拿大、丹麦、法国、德国、香港、以色列、意大利、日本、拉脱维亚和墨西哥等国家和地区公民的人肉搜索。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -826,136 +935,6 @@ An untraceable browser is a web browsing that's customized to enhance user's ano
         <link href="https://www.solidot.org/story?sid=77538"/>
         <updated>2024-03-07T14:53:22.000Z</updated>
         <summary type="html"><![CDATA[OpenTTD 项目迎来二十岁生日。OpenTTD 逆向工程自 1995 年的游戏《Transport Tycoon Deluxe》。开发者  Ludvig Strigeus aka Ludde 是从 2002 年 6 月 30 日开始着手开发《Transport Tycoon》克隆版本。早期的《Transport Tycoon》只能在 DOS 和 Windows 95/98 上运行，虽然有补丁能实现在 Windows XP 上运行，但有很多限制，Ludde 用 C 语言开发了《Transport Tycoon Deluxe》完整版本，他在 2003 年向《Transport Tycoon》玩家社区成员展示了开发中的游戏，2024 年 3 月 6 日将其作为开源游戏发布：在当时流行的源代码托管平台 SourceForge 上注册了项目，发布了 OpenTTD 0.1 版本。该版本一直持续更新到今天，最新稳定版本的 13.4。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[考古学家在乌克兰发现早期人类迁移到欧洲的古老遗址]]></title>
-        <id>https://www.solidot.org/story?sid=77537</id>
-        <link href="https://www.solidot.org/story?sid=77537"/>
-        <updated>2024-03-07T12:29:55.000Z</updated>
-        <summary type="html"><![CDATA[分子年代测定显示，乌克兰的一个早期人类遗址，其年代可以追溯到 140 万年前，是欧洲最古老的原始人遗址之一，这也表明早期人类从乌克兰迁移到了欧洲其他地区。该遗址位于乌克兰西部的科罗列沃，自 1970 年代以来就一直被研究着。在该遗址适合制作工具的火山岩露头旁的沉积物层中，科学家发现了大量石器。研究团队使用一种名为宇宙核素年代测定法的技术，将包含工具的最古老的地层确定为 140 万年前。格鲁吉亚德马尼西的另一个早期人类遗址可以追溯到 170 万年前，而法国和西班牙的其他遗址大约有 120 万年的历史。研究人员称，这表明早期人类从非洲通过格鲁吉亚进入乌克兰，然后向西进入欧洲其他地区，尽管也有可能一些人越过了土耳其的博斯普鲁斯海峡。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟调查苹果终止 Epic 开发者账号的决定]]></title>
-        <id>https://www.solidot.org/story?sid=77536</id>
-        <link href="https://www.solidot.org/story?sid=77536"/>
-        <updated>2024-03-07T12:22:11.000Z</updated>
-        <summary type="html"><![CDATA[欧盟要求苹果对其终止 Epic Games 开发者账号做出“进一步的解释”。欧盟表示正根据 Digital Markets Act (DMA)进行调查，它还在评估苹果是否违反了其它欧盟法律。DMA 旨在遏制科技巨头们的权力，遵守该法的最后期限是 3 月 7 日。为遵守 DMA 苹果允许欧盟 iPhone 使用替代应用市场，而 Epic Games 准备使用其开发者账号将其应用商店提供给欧盟用户，但它还没开始做账号就被苹果封了。Epic Games 认为这严重违反了 DMA。苹果称它是以反复出现不值得信任的行为为由终止了 Epic Games Sweden 开发者账号。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国计划推出可重复使用火箭]]></title>
-        <id>https://www.solidot.org/story?sid=77535</id>
-        <link href="https://www.solidot.org/story?sid=77535"/>
-        <updated>2024-03-07T10:12:36.000Z</updated>
-        <summary type="html"><![CDATA[中国航天科技集团研究发展部部长王巍院士接受媒体采访时表示，中国航天科技集团正在加速研制 4 米级、5 米级可重复使用火箭，计划分别于 2025 年和 2026 年首飞。相比下，SpaceX 可重复使用火箭 Falcon 直径为 3.7 米，Starship 则有 9 米，而 NASA 重型火箭 Space Launch System 的直径为 8.4 米。重复使用火箭有助于大幅降低发射成本和提高发射频率，中国航天早些时候表示计划今年完成大约 100 次发射。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[切尔诺贝利线虫被发现其基因组不受辐射影响]]></title>
-        <id>https://www.solidot.org/story?sid=77534</id>
-        <link href="https://www.solidot.org/story?sid=77534"/>
-        <updated>2024-03-07T09:13:27.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在 PNAS 期刊上的一项研究，一种生活在切尔诺贝利的虫子其基因组未发现受到核辐射影响。研究人员在 2019 年访问了禁区，从不同辐射强度的地点收集了虫子样本。他们将分析重点集中在被称为 Oscheius tipulae 的线虫身上。这种线虫已被用于遗传和演化研究。他们测序了 15 只切尔诺贝利线虫的基因组，将它们与来自世界其他地区的 5 个同类基因组进行了比较。他们惊讶地发现，无法在切尔诺贝利线虫的基因组中检测到辐射损伤的特征。研究人员强调这并不表明切尔诺贝利是安全，而可能意味着线虫是真正有弹性的动物，可以承受极端条件。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShowDesktopOneMonitor – 多显示器用户：在当前显示器上单独显示桌面（Win + D）[Windows]]]></title>
-        <id>https://www.appinn.com/?p=47846</id>
-        <link href="https://www.appinn.com/showdesktoponemonitor/"/>
-        <updated>2024-03-07T08:19:37.000Z</updated>
-        <summary type="html"><![CDATA[ShowDesktopOneMonitor 是一款适合于多显示器用户的小工具，只需要使用快捷键 Win + Shift + D，即可最小化、恢复光标当前所在显示器上的所有窗口，实现显示桌面（Win +]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果终止了 Epic 的开发者账号]]></title>
-        <id>https://www.solidot.org/story?sid=77533</id>
-        <link href="https://www.solidot.org/story?sid=77533"/>
-        <updated>2024-03-07T08:03:10.000Z</updated>
-        <summary type="html"><![CDATA[苹果终止了 Epic Games 的开发者账号，声称它是 iOS 生态系统的一大威胁。Epic Games 称苹果最近批准了它的 Epic Games Scotland AB 开发者帐户，它准备使用该账号将 Epic Games Store 和《堡垒之夜（Fortnite）》引入到欧洲的 iOS 设备，结果发现苹果批准账号几周内就终止了它的开发者账号。Epic 认为这是对欧盟 Digital Markets Act(DMA)法案的严重违反，表明苹果无意在 iOS 上允许真正的竞争。Epic CEO Tim Sweeney 最近公开批评了苹果应对 DMA 的做法，苹果终止开发者账号被认为是对这番言论的报复。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 用户账号被盗引起美国多州检察长联署致函]]></title>
-        <id>https://www.solidot.org/story?sid=77532</id>
-        <link href="https://www.solidot.org/story?sid=77532"/>
-        <updated>2024-03-07T06:52:51.000Z</updated>
-        <summary type="html"><![CDATA[美国 41 个州的总检察长周三联合致函 Meta 首席法务官 Jennifer Newstead，称各地有关 Facebook 和 Instagram 用户帐户被盗的投诉激增，认为 Meta 有必要立即采取行动以缓解威胁。总检察长们称，账号被劫持的投诉持续激增消耗了大量政府资源，因为很多被盗账号与金融犯罪有关联。而 Meta 可能会从中受益，因为他们收到报告称盗取账号的人在 Meta 上购买了广告。检察长们表示他们不是 Meta 的客服，要求社交巨人投入资源减轻用户账号被盗的风险。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《对马岛之魂》将于 5 月 16 日发布 PC 版]]></title>
-        <id>https://www.solidot.org/story?sid=77531</id>
-        <link href="https://www.solidot.org/story?sid=77531"/>
-        <updated>2024-03-07T06:22:32.000Z</updated>
-        <summary type="html"><![CDATA[索尼宣布旗下第一方游戏《对马岛之魂》将于 5 月 16 日发布 PC 版，支持简体中文等逾 20 种语言。游戏的 Steam 页面已经上线，开放预购，国区售价 414 元（约 57.5 美元）。索尼官方博客称，PC 版《导演剪辑版》包含了完整游戏、《壹歧岛之章》扩展和在线多人合作传奇模式，该版本由 Nixxes 工作室负责移植，支持超宽屏 (21:9)、极宽屏 (32:9) 及三屏模式 (48:9)，支持 NVIDIA DLSS 3、AMD FSR 3 和 Intel XeS 上采样技术。PS4 版的《对马岛之魂》于 2020 年发售，获得了 TGA 的最佳美术奖，其视觉艺术备受人称赞。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拼多多 Temu 是 Meta 最大的广告商]]></title>
-        <id>https://www.solidot.org/story?sid=77530</id>
-        <link href="https://www.solidot.org/story?sid=77530"/>
-        <updated>2024-03-07T05:01:27.000Z</updated>
-        <summary type="html"><![CDATA[中美贸易摩擦没有减少试图开辟国际业务的中国创业公司的广告投放。拼多多旗下的低价电商 Temu 和快时尚电商 Shein 在 Google 和 Meta 上投放了大量广告，其中 Temu 是 2023 年 Meta 最大的广告客户。Meta 称中国广告商占到了其收入的十分之一，差不多是两年前的两倍。Temu 去年在 Google 服务投放了约 140 万条广告，在 Meta 上投放了至少 26,000 个不同版本的广告。在国内经济状况不佳的背景下，中国公司正致力于拓展海外市场，而走向全球是需要付出代价的，需要投入大量的广告。据估计，Temu 去年在广告营销上花费了 30 亿美元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 华裔工程师被控窃取公司 AI 机密]]></title>
-        <id>https://www.solidot.org/story?sid=77529</id>
-        <link href="https://www.solidot.org/story?sid=77529"/>
-        <updated>2024-03-07T03:51:10.000Z</updated>
-        <summary type="html"><![CDATA[美国司法部指控一名中国籍前 Google 工程师从公司窃取了逾 500 份文件，其中包含该公司 AI 机密信息。38 岁的工程师丁林葳（Linwei Ding）周三在加州 Newark 被捕，被控四项盗窃商业机密罪名，每项罪名最高 10 年徒刑和 25 万美元罚款。检方称丁林葳在 Google 工作期间秘密受雇于两家中国公司融数联智和至算科技。丁是在 2019 年受雇于 Google，开发与机器学习和 AI 应用相关的软件。2022 年 5 月，丁开始将机密信息从 Google 网络上传到个人 Google Cloud 帐户。他试图隐藏其行为，首先将被盗文件拷贝到笔电中的 Apple Notes 应用，将其转换为 PDF 文件，然后将其上传到个人 Google Cloud 帐户。不到一个月后他收到了融数联智 CEO 的邮件，邀请他担任 CTO。他还前往中国帮助该公司筹集资金，一年后创办了自己的公司至算。2023 年 12 月 Google 监测到丁在中国期间试图将更多文件从公司网络上传到个人帐户。丁告诉公司调查人员，上传这些文件是作为他为 Google 工作的证据。在接受调查人员询问一周后，丁预订了一张飞往北京的单程机票，向 Google 递交了辞职信。Google 在获悉其在至算科技中的角色后暂停了他对公司网络的访问。FBI 之后展开了调查。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软将其 CBL-Mariner 发行版改名为 Azure Linux]]></title>
-        <id>https://www.solidot.org/story?sid=77528</id>
-        <link href="https://www.solidot.org/story?sid=77528"/>
-        <updated>2024-03-06T15:33:46.000Z</updated>
-        <summary type="html"><![CDATA[微软内部使用的 Linux 发行版 CBL-Mariner 正在改名为 Azure Linux。最新发布的 CBL-Mariner 2.0.20240301 被重定向到 GitHub 的 Microsoft/AzureLinux 项目。CBL-Mariner 仓库被重命名为 AzureLinux，相关引用也正转换到 Azure Linux 品牌。新版本中部分源的更新也正从代表 CBL-Mariner 的 MARINER_VERSION 改变为代表 Azure Linux 的 AZL_VERSION。微软还有一个名字里有 Azure 的 Linux 发行版——用于物联网和微型控制器的 Microsoft Azure Sphere。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊以 6.5 亿美元购买了一个核能驱动的数据中心]]></title>
-        <id>https://www.solidot.org/story?sid=77527</id>
-        <link href="https://www.solidot.org/story?sid=77527"/>
-        <updated>2024-03-06T15:18:34.000Z</updated>
-        <summary type="html"><![CDATA[美国核能供应商 Talen Energy 以 6.5 亿美元将其数据中心园区 Cumulus Data Assets 出售给亚马逊 AWS。占地 1200 英亩的园区由毗邻的 2.5 GW 核电站 Susquehanna Steam Electric Station 直接供电，该核电站属于 Talen Energy。Susquehanna 是美国第六大核电站，1983 年开始并网发电，它的两座核反应堆可分别安全运行到  2042 年和 2044 年。它每天发电量 6300 万千瓦时。亚马逊的数据中心只使用该核电站的很小一部分电力，它将以固定价格使用核电。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大模型如何工作仍然是个谜团]]></title>
-        <id>https://www.solidot.org/story?sid=77526</id>
-        <link href="https://www.solidot.org/story?sid=77526"/>
-        <updated>2024-03-06T15:02:49.000Z</updated>
-        <summary type="html"><![CDATA[两年前 OpenAI 研究员 Yuri Burda 和 Harri Edwards 试图找到方法让大模型做基本算术。他们想知道需要多少两数相加的例子才能让大模型能完成任意两数相加的算术。一开始，他们进展不是很顺利。大模型能记住例子但无法解决新的加法。他们意外的让部分实验运行数天时间而不是预期的数小时。结果他们发现实验成功了，大模型能完成任意加法，只是所需的时间超出任何人的想象。他们和同事对这种现象展开了研究，发现在特定情况下大模型会突然从无法完成任务到能完成任务，他们称之为“领悟（grokking）”。领悟是让 AI 研究员摸不着头脑的多个现象之一。这突出了深度学习背后的一个引人注目的事实：没人知道它是如何工作，或为什么它能工作。现在最大的模型是如此复杂，以至于研究人员像研究奇特的自然现象那样研究它们，他们进行实验并试图解释结果。很多观察结果违背了经典统计学。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
