@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47979",
+          "author": "青小蛙",
+          "description": "豆瓣+图书馆查询助手是一款浏览器扩展，支持 Chrome、Edge、Firefox，它可以帮你在访问豆瓣图书的时候，顺带显示线下真图书馆的藏书情况，比如所在馆、编码、可借数量等信息，让你能通过嘴传统的",
+          "link": "https://www.appinn.com/douban-library-search-assistant/",
+          "publishedOn": "2024-03-23T03:35:00.000Z",
+          "wordCount": 2560,
+          "title": "豆瓣+图书馆查询助手：从豆瓣读书查询「真图书馆」馆藏信息[Chrome/Firefox]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-22T212451.111.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47969",
           "author": "青小蛙",
           "description": "請注意，所有內容創作者、影片愛好者以及所有需要處理圖片和影片的人員，VideoProc Converter AI為您奉上复活节提供了超值優惠！立即購買，永久保留，只需 29.95 美元，即可擁有價值",
@@ -130,26 +140,6 @@
           "wordCount": 2577,
           "title": "微软推出 AI 阅读教练 Reading Coach – 通过朗读识别英文发音准确性，免费的英文发音训练工具",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-15T122940.549.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47891",
-          "author": "青小蛙",
-          "description": "在众多文件管理软件中，EverCraft（中文名追光几何）是极少数专注于文件历史管理的软件。通过 EverCraft 跟踪文件夹的变化，不管是新增、修改、还是删除文件，都可以轻松回溯到你想要的历史状态",
-          "link": "https://www.appinn.com/evercraft/",
-          "publishedOn": "2024-03-14T09:12:32.000Z",
-          "wordCount": 2604,
-          "title": "EverCraft （文件历史管理工具）V1.0.40 追光几何Lite版",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-14T170950.028.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47888",
-          "author": "青小蛙",
-          "description": "oh-my-rime 输入法是一款基于 Rime 输入法引擎的跨平台输入法配置套件，也叫薄荷输入法，可以直接导入现有 Rime 输入法中，拥有拼音、双拼、五笔，支持浅色/深色皮肤，简繁输入、中英文混合",
-          "link": "https://www.appinn.com/oh-my-rime/",
-          "publishedOn": "2024-03-14T08:07:52.000Z",
-          "wordCount": 2626,
-          "title": "薄荷输入法（oh-my-rime）- 跨平台 Rime 输入法配置套件：无隐私追踪、完全开源、高自定义",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-14T150908.350.jpg"
         }
       ]
     },
@@ -220,6 +210,56 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=77679",
+          "author": null,
+          "description": "科罗拉多州立大学研究人员发现，美国商用卡车使用的 Electronic Logging Devices(ELDs)存在安全漏洞，可被用于控制卡车，甚至在卡车之间传播蠕虫。他们的论文发表在 2024 Network and Distributed System Security Symposium 研讨会上。研究人员没有披露受影响的 ELD 品牌或型号，表示只有几十种不同的 ELD 型号在商用卡车上使用。美国联邦政府要求重型卡车配备 ELD，跟踪驾驶时间，记录发动机运行、车辆运动和行驶距离等数据，但没有要求内置经过测试的安全控制装置。研究人员称，攻击者可通过蓝牙或 Wi-Fi 连接访问 ELD 去控制卡车，比如强迫卡车靠边停车。其中最令人担忧的情景是对卡车 ELD 的蠕虫攻击：蠕虫通过被感染设备的 Wi-Fi 功能搜索附近其它容易受攻击的 ELD。找到匹配的 ELD 后，蠕虫使用默认凭据建立连接，将恶意代码传播到新  ELD，覆盖现有固件，然后重复这一过程。美国目前有逾 1400 万辆中型和重型卡车。",
+          "link": "https://www.solidot.org/story?sid=77679",
+          "publishedOn": "2024-03-23T15:09:38.000Z",
+          "wordCount": 187,
+          "title": "美国上千万卡车容易受蠕虫攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77678",
+          "author": null,
+          "description": "荷兰鹿特丹地方法院应当地反盗版组织 BREIN 的要求，下令 ISP 屏蔽盗版电子书网站“安娜的档案（Anna's Archive）”和 Library Genesis，但没有将 Z-Library 列入封锁名单。法院发布的是动态封锁令，也就是如果目标网站切换到新的域名和 IP，版权所有者可以跟着更新封锁名单，无需再要求法庭颁发新的封锁令。BREIN 声称 Google 将在封锁上提供帮助，将在荷兰的搜索结果中移除被封锁的域名。",
+          "link": "https://www.solidot.org/story?sid=77678",
+          "publishedOn": "2024-03-23T13:59:47.000Z",
+          "wordCount": 181,
+          "title": "荷兰法庭下令 ISP 屏蔽安娜的档案和 LibGen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77677",
+          "author": null,
+          "description": "通用汽车周五宣布停止与两家数据经纪商共享司机驾驶行为数据。数据经纪商根据这些数据向保险业出售司机的风险评估报告。此前《纽约时报》披露，通用汽车与保险行业共享了司机驾驶里程、刹车、加速等数据，导致了部分司机车险费率上升。报道称，部分司机是在不知情下注册了收集数据的通用汽车联网应用 OnStar Smart Driver。通用汽车现在表示与两家数据经纪商 LexisNexis Risk Solutions 和 Verisk 停止合作，表示客户信任是其首要任务，正在评估其隐私流程和政策。",
+          "link": "https://www.solidot.org/story?sid=77677",
+          "publishedOn": "2024-03-23T13:28:14.000Z",
+          "wordCount": 167,
+          "title": "通用汽车宣布停止与数据经纪商共享司机驾驶行为数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77676",
+          "author": null,
+          "description": "10 年前，时任美国总统奥巴马（Barack Obama）呼吁美国人学习计算机科学。美国人确实听进去了，如今专家开始对太多的计算机科学毕业生表达了担忧。去年斯坦福大学计算机科学毕业生占毕业生总数的 18%，是 10 年前的两倍多。MIT 的计算机科学毕业生比例从 10 年前的 23% 增加到了 42%。北美众多高校都存在类似的现象：美国和加拿大大学中主修计算机科学的本科生人数在 2005 年后的 10 年内的增至 3 倍，并且还在不断增长。很多学生主修计算机科学是出于功利性的目的，希望能在科技领域获得财富、权力和影响力。游戏设计师、华盛顿大学电影及传媒研究教授 Ian Bogost 对计算机科学专业的学生缺乏人文修养表达了担忧。",
+          "link": "https://www.solidot.org/story?sid=77676",
+          "publishedOn": "2024-03-23T12:57:57.000Z",
+          "wordCount": 180,
+          "title": "美国大学计算机科学专业的毕业生太多了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77675",
+          "author": null,
+          "description": "2022 年，一群安全研究人员被邀请入侵拉斯维加斯的酒店客房。时隔一年半之后，研究人员公布了他们的工作成果：入侵者可以在数秒内打开全球 300 万间酒店客房中的任意一间。他们的酒店钥匙卡入侵技术被称为 Unsaflok，针对的是瑞士锁具制造商 Dormakaba 销售的基于 RFID 的 Saflok 钥匙卡锁。Saflok 系统被安装在全球 131 个国家的 300 万房门上。安全研究人员首先从目标酒店获取钥匙卡——如预订房间——然后用 300 美元的 RFID 读写设备读取卡上的特定代码，最后写入两张自己的钥匙卡。此后只需在锁上轻敲两张卡，第一张卡会重写锁的特定数据，第二张卡会打开它。Dormakaba 公司表示过去一年和世界各地的酒店合作修正或更换容易受攻击的门锁。目前只有 36% 的 Saflok 锁已经更新，完全修正或更换可能需要数年时间。",
+          "link": "https://www.solidot.org/story?sid=77675",
+          "publishedOn": "2024-03-22T15:48:41.000Z",
+          "wordCount": 188,
+          "title": "黑客找到方法在数秒内打开全球 300 万间酒店客房",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=77673",
           "author": null,
           "description": "国际电信联盟与联合国训练研究所发布的第四版《全球电子废弃物监测报告》显示，2022 年全球产生了创纪录的6200 万吨电子废弃物，比 2010 年增长了 82%。其中只有 22.3% 的废弃物得到了有文件记载的回收再利用。所谓电子废弃物，指的是任何带有插头或电池的废弃电子产品。其中小型设备（如玩具、微波炉、吸尘器、电子烟）占到 2022 年电子废弃物的 33%，重量达到 2040 万吨；小型信息技术和电信设备类别的电子废弃物（如笔记本电脑、移动电话、全球定位系统设备、路由器）则重达 460 万吨。这两类电子废弃物的回收再利用率分别仅有 12% 和 22%；2022 年丢弃的电子废弃物重量估计达到 1400 万吨，其中大部分被填埋。从地域上来看，欧洲对电子废弃物有正式文件记录的回收再利用率为 42.8%，而非洲国家正式回收的电子废弃物比例还不到 1%。亚洲国家产生的电子废弃物占到全球的一半左右，但只有相对较少的国家颁布了立法或制定了明确的电子废弃物回收目标。大量电子废弃物未得以回收，不仅增加了全球各地社区遭受污染的风险，还会给人类健康带来危害；因为这些产品中含有有毒添加剂或汞等有害物质，可能会损害人类的大脑和协调系统。",
@@ -237,6 +277,16 @@
           "publishedOn": "2024-03-22T11:00:36.000Z",
           "wordCount": 176,
           "title": "联合国首次通过 AI 决议",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77671",
+          "author": null,
+          "description": "联想旗下摩托罗拉品牌推出的 G 系列低端智能手机曾以系统干净著称，然而今年的 G 系列产品已经和其它品牌的低端型号没有差别了，里面充斥着广告软件和来自赞助商的应用。系统预装的天气应用有广告，想要免广告版需要支付 4 美元。系统会根据购物、娱乐和游戏中心等不同类别推荐各类应用。摩托罗拉不再特别。",
+          "link": "https://www.solidot.org/story?sid=77671",
+          "publishedOn": "2024-03-22T10:51:20.000Z",
+          "wordCount": 162,
+          "title": "摩托罗拉的低端手机充斥着广告软件",
           "imageUrl": null
         },
         {
@@ -968,106 +1018,6 @@
           "wordCount": 164,
           "title": "在哺乳动物物种中雄性并不比雌性大",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77597",
-          "author": null,
-          "description": "美国经济繁荣，但科技行业的裁员还在继续。科技行业一直在寻找下一个热点，寻找工作的资深程序员称他们数十年的工作经验是求职的一大劣势。年龄歧视是科技业长期存在的问题。美国平等就业机会委员会在 2020 年指责 IBM 年龄歧视。该公司否认存在系统性的年龄歧视。根据追踪行业裁员情况的 Layoffs.fyi 的数据，科技公司在过去两年解雇了逾 40 万名员工。过去几十年科技行业是经济增长的发动机，资深程序员们基本上一直在行业内工作，他们很少被解雇，更多情况下是跳槽，从一家公司跳到另一家公司，但如今情况发生了变化，雇主掌握了权力，求职者尤其是 35 岁以上的求职者则面临越来越多的困难。",
-          "link": "https://www.solidot.org/story?sid=77597",
-          "publishedOn": "2024-03-14T14:08:31.000Z",
-          "wordCount": 166,
-          "title": "年龄偏见困扰着求职的科技从业者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77596",
-          "author": null,
-          "description": "OpenAI CTO Mira Murati 接受《华尔街日报》采访时表示，该公司的文本视频模型 Sora 将在今年晚些时候向公众推出，可能还需要几个月。OpenAI 目前只向视觉艺术家、设计师和电影制作人提供该工具。Murati 表示该公司计划在 Sora 中整合音频，使得生成场景更真实；计划允许用户能编辑 Sora 生成的视频，因为它生成的内容并不总是准确的。Murati 没有详细谈论 Sora 模型使用了哪些数据进行训练。",
-          "link": "https://www.solidot.org/story?sid=77596",
-          "publishedOn": "2024-03-14T10:46:38.000Z",
-          "wordCount": 175,
-          "title": "Sora 将在今年晚些时候推出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77595",
-          "author": null,
-          "description": "以太坊完成了被称为 Dencun 的重大软件升级，大幅降低了二层网络的交易费用。通过 Dencun，以太坊引入了临时数据二进制大对象（也称为“protodanksharding”），以前二层网络上需要花费 1 美元的交易现在只需花费 1 美分即可执行。以前数据是永久存储在以太坊节点，因此存储成本占到了交易费用的九成左右，现在的临时存储只保留数据 18 天，因此费用更便宜。",
-          "link": "https://www.solidot.org/story?sid=77595",
-          "publishedOn": "2024-03-14T09:41:21.000Z",
-          "wordCount": 174,
-          "title": "以太坊完成 Dencun 升级",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77594",
-          "author": null,
-          "description": "人体微生物群就像指纹那样独一无二。在长达六年的时间内，研究人员采集了 86 名参与者（年龄在 29 岁至 75 岁）的皮肤、口腔、鼻腔和粪便样本，并对微生物群落进行分析。他们发现，微生物组的稳定性和个体性与身体部位有关，并在很大程度上受到宿主影响。粪便和口腔微生物组比皮肤和鼻腔微生物组更稳定，这可能是由于每个部位有着不同的环境暴露和相互作用。这项新研究证实了之前的研究发现，揭示了在健康人的微生物组中经常发现的少数细菌，以及在感染和其他疾病期间人体微生物组的显著变化。然而，比单个细菌类型更能说明问题的是微生物组的稳定性。在健康时期，一个人的微生物组很少发生剧烈变化。在感染或糖尿病的发展过程中，构成微生物组的细菌波动更大。",
-          "link": "https://www.solidot.org/story?sid=77594",
-          "publishedOn": "2024-03-14T08:45:59.000Z",
-          "wordCount": 162,
-          "title": "人体微生物群独一无二",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77593",
-          "author": null,
-          "description": "IBM 和 NASA 合作使用科学文献训练大模型促进科学知识的可及性。模型是基于 Transformer 架构，可用于分类到实体抽取（entity extraction）到问答和信息检索等不同应用。IBM-NASA 模型使用了天体物理学、行星科学、地球科学、太阳物理学以及生物和物理科学数据集的 600 亿个令牌进行训练，在评估生物医学任务表现的 BLURB 基准测试中的得分比开源模型 RoBERTa 高 5%。两个模型都开源发布在 Hugging Face 上。",
-          "link": "https://www.solidot.org/story?sid=77593",
-          "publishedOn": "2024-03-14T08:06:15.000Z",
-          "wordCount": 187,
-          "title": "IBM 和 NASA 训练大模型促进科学知识的可及性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77592",
-          "author": null,
-          "description": "欧洲议会以 523 名票赞成、46 票反对、49 票弃权正式通过了 AI 法案。该法案将在公报上公布 20 天后生效，在生效 24 个月后实施，部分条款会更早实施。该法案旨在保护基本权利、民主、法治和环境可持续性免受高风险 AI 的影响，促进创新让欧洲成为 AI 领域的领导者。法案禁止威胁公民权利的部分 AI 应用，包括基于敏感特征的生物识别分类系统，以及从互联网或监控录像中无针对性抓取面部图像以创建面部识别数据库。工作场所和学校的情绪识别、社会评分、预测性警务以及操纵人类行为或利用弱点的 AI 也将被禁止。执法部门原则上禁止使用生物特征识别系统，除非能尽可能缩小范围。",
-          "link": "https://www.solidot.org/story?sid=77592",
-          "publishedOn": "2024-03-14T07:04:39.000Z",
-          "wordCount": 182,
-          "title": "欧洲议会通过 AI 法案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77591",
-          "author": null,
-          "description": "在包括美国在内的一些国家，由于筛查的增加、吸烟率的下降和新的治疗选择，癌症死亡率正在下降。但在全球范围内，癌症发病率呈上升趋势。早发性癌症——通常被定义为发生在 50 岁以下成年人身上的癌症——仍然只占总病例的一小部分，其发病率一直在上升。来自世界各地的统计数据显示：在 50 岁以下的成年人中，十几种癌症的发病率正在上升。这种增长因国家和癌症而异，但基于全球数据的模型预测，2019 年至 2030 年间，早发性癌症病例的数量将增加 30% 左右。在美国，结直肠癌——通常发生在 60 多岁或以上的男性身上——已经成为 50 岁以下男性癌症死亡的主要原因。在年轻女性中，它已成为癌症死亡的第二大原因。为什么会出现这种情况？最可能的因素——比如肥胖率和早期癌症筛查率的上升——并不能完全解释癌症发病率的增长。它可能是是多种不同因素综合作用的结果。",
-          "link": "https://www.solidot.org/story?sid=77591",
-          "publishedOn": "2024-03-14T05:55:52.000Z",
-          "wordCount": 170,
-          "title": "为什么更多年轻人罹患癌症？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77590",
-          "author": null,
-          "description": "随着 openVertebrate (oVert)项目的完成，自然历史博物馆进入了科学发现和可访问性的新阶段。oVert 是 18 个机构耗时 6 年的合作项目，旨在创建馆藏脊椎动物标本的 3D 复原图像并在网上免费提供。图像提供了只有通过破坏性解剖和组织采样才能获得的见解。项目成员在 6 年中对两栖动物、爬行动物、鱼类、鸟类和哺乳动物的一半以上的纲或属进行 CT 扫描，渲染模型，让人们能从内到外近距离观察这些生物。",
-          "link": "https://www.solidot.org/story?sid=77590",
-          "publishedOn": "2024-03-14T03:33:57.000Z",
-          "wordCount": 186,
-          "title": "逾 1.3 万馆藏标本的 3D 图像免费发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77589",
-          "author": null,
-          "description": "1989 年 10 月 19 日 12:29 UT 太阳释放的 X13 级耀斑引发了一场强地磁风暴，第二天日本、美国、澳大利亚甚至德国的天空都出现极光。如果当时有人在月球轨道上飞行，宇航员将会吸收远超 6 西弗的辐射——这个剂量会在一个月左右的时间内杀死你。这就是为什么 NASA 执行载人任务的月球飞船 Orion 需要为宇航员提供一个严密防护的太阳风暴庇护所。但飞船的辐射保护是为 30 天任务设计的，不足以支持火星任务。要在太空中拥有人类在地面获得的防辐射保护，需要数百吨的材料，这在目前的是不现实的。一个主要的替代方案是主动屏蔽，像地磁场那样偏转辐射粒子。这个想法最早是在 1960 年代提出的，今天它逐渐走向了现实。宇航员在太空中接受的辐射剂量 95% 是由能量在 70 MeV-500 MeV 的粒子造成的。短程飞行太阳风暴是主要问题，但长程飞行来自银河的宇宙辐射将会日益成为一个更大的问题。",
-          "link": "https://www.solidot.org/story?sid=77589",
-          "publishedOn": "2024-03-13T16:21:48.000Z",
-          "wordCount": 183,
-          "title": "太空辐射的主动屏蔽正走向现实",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77588",
-          "author": null,
-          "description": "美国政府花费了 25 万美元委托一家四人公司 Gladstone AI 撰写了一份研究报告《An Action Plan to Increase the Safety and Security of Advanced AI》。报告督促美国政府立即采取行动以避免 AI 带来的重大国家安全风险。报告认为在最糟糕的情况下 AI 构成了对人类的灭绝级威胁。报告的建议包括：国会应该对超过特定算力训练 AI 模型为非法，该算力阈值由新设立的 AI 机构设定。报告举例说，可以参考目前最先进的模型 OpenA GPT-4 和 Google Gemini 使用的算力。报告还建议政府应该禁止在开源许可证下公开大模型的权重，违反者将面临监禁。政府还应该进一步加强对 AI 芯片制造和出口管制。",
-          "link": "https://www.solidot.org/story?sid=77588",
-          "publishedOn": "2024-03-13T15:27:08.000Z",
-          "wordCount": 188,
-          "title": "报告建议美国政府禁止开源大模型",
-          "imageUrl": null
         }
       ]
     },
@@ -1137,6 +1087,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/what-is-an-unlocked-browser",
+          "author": null,
+          "description": "TLDR:  You can instantly access an unlocked browser via browserling.com/browse. Created by me and my team, our service streams secure, unlocked browser sessions directly from our browser cloud to you, guaranteeing full unrestricted access to the web.\nUnlocked Browser – What Is It?\nAn unlocked browser is a remote web browser that's pre-installed on a cloud server and runs without any form of content locks, granting users access to the entire Internet, including sites and resources that might otherwise be locked by security or oversight mechanisms. Such a browser is free from locks typically imposed through parental controls, blocker extensions, or time-based or usage-based software. This browser allows a fully open web experience, ensuring that no websites are off-limits based on content fi…",
+          "link": "https://catonmat.net/what-is-an-unlocked-browser",
+          "publishedOn": "2024-03-23T19:50:00.000Z",
+          "wordCount": 1016,
+          "title": "What is an Unlocked Browser? (And How To Get One)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/what-is-a-sandboxed-edge",
           "author": null,
