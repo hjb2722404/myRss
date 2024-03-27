@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47995",
+          "author": "青小蛙",
+          "description": "小萌GIF 是一款免费、开源的 Android 应用，它可以将视频转换为 GIF，并且支持剪裁、变速、加文字，以及还能从 GIF 里抽帧保存为图片，将 GIF 转换为视频，将小米、三星的动态照片转换为",
+          "link": "https://www.appinn.com/cutegif-for-android/",
+          "publishedOn": "2024-03-26T09:02:20.000Z",
+          "wordCount": 2606,
+          "title": "小萌GIF – 免费、开源，将视频转换为 GIF[Android]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-26T162549.378.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=47991",
           "author": "青小蛙",
           "description": "PairDrop 是一款开源的跨设备文件传输工具，非常适合在陌生设备之间使用浏览器传输文件，无需安装任何应用，即开即用。用来替代不再更新的 SnapDrop。@Appinn 说起来，青小蛙使用 Sna",
@@ -130,16 +140,6 @@
           "wordCount": 2618,
           "title": "DS Cloud – 群晖融合怪：第三方群晖 NAS 客户端，视频播放、音乐播放、文件管理[iPhone、iPad]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-18T155656.705.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47920",
-          "author": "青小蛙",
-          "description": "BuhoNTFS 是一款在 Mac 上直接读写 Windows 磁盘格式 NTFS 文件的工具，目前正在例行月度限免，终身版。@Appinn 是的，青小蛙看了一下，BuhoNTFS 基本上每个月都要限",
-          "link": "https://www.appinn.com/buhontfs/",
-          "publishedOn": "2024-03-17T08:16:41.000Z",
-          "wordCount": 2590,
-          "title": "BuhoNTFS 终身版限免：在 Mac 上直接读写 Windows 磁盘格式 NTFS 文件",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-17T160617.824.jpg"
         }
       ]
     },
@@ -209,6 +209,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77701",
+          "author": null,
+          "description": "有些东西可能几十年都没变，比如 Windows 上的磁盘格式化 UI。前微软程序员 Dave Plummer 回顾了 Windows 的早年历史，称 Windows 11 仍然使用他在 1994 年为 Windows NT 编写的磁盘格式化对话框。当时他所在团队正忙于将 UI 从面向消费者的 Windows 95（1995 年中发布）移植到更稳定资源更密集的 Windows NT（NT 4.0、1996 年中发布）。Windows 95 主要使用 FAT16 文件系统，而 Windows NT 能处理 FAT 和 NTFS 等不同文件系统。Plummer 称，他在纸上写下了格式化磁盘时的所有选项和选择，如文件系统、标签、簇大小、压缩、加密等等，然后用 Visual C++ 2.0 和资源编辑器做了一个简单的垂直堆叠。结果是这个临时做的对话框现在还在用。Plummer 称 FAT 卷的 32GB 限制是他武断的一个决定，现代 Windows 仍然遵循这一限制。Plummer 于 2003 年离开微软。",
+          "link": "https://www.solidot.org/story?sid=77701",
+          "publishedOn": "2024-03-26T14:07:45.000Z",
+          "wordCount": 231,
+          "title": "Windows 11 使用的磁盘格式化 UI 仍然与 1994 年相同",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77700",
+          "author": null,
+          "description": "对 2021 年逾 1.8 万美国工人调查数据的研究显示，从事着更灵活更有安全感工作的员工有着更好的心理健康状况。研究报告发表在《JAMA Network Open》期刊上。工作灵活度是根据调整工作日程安排的难易度、日程安排变更提前通知和雇主是否频繁更改日程安排等因素进行评估的。研究显示，工作更灵活的工人有严重心理困扰的几率低 26%。工作灵活度提高与每日焦虑几率降低 13%、每周焦虑几率降低 11%、一年数次焦虑的几率降低 9% 相关。对现有工作职位更有安全感的员工有严重心理困扰的几率低 25%。工作安全感还与每日焦虑几率降低 27%、每周焦虑几率降低 21% 相关。研究人员的结论是：灵活且有安全保障的工作对短期长期的心理健康有实质性影响。",
+          "link": "https://www.solidot.org/story?sid=77700",
+          "publishedOn": "2024-03-26T13:06:14.000Z",
+          "wordCount": 174,
+          "title": "工作更灵活更安全的工人有着更好的心理健康",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77699",
+          "author": null,
+          "description": "日本政府周二发布了一份提醒国内 IT 相关企业注意的文件，指出疑似有朝鲜 IT 技术人员冒充日本人，在网上承接 IT 相关业务订单。联合国等表示，为了赚取外汇用于核与导弹开发，朝鲜正在利用技术人员。据称，若把业务发包给此类人员，可能违反《外汇法》等。美国和韩国去年 10 月发出了类似提醒，日本则是首次。警察厅干部透露称“在日本也发现了案例，威胁高涨”。朝鲜IT 工人大多在中国和俄罗斯工作并赚取报酬。其特点包括不参加视频会议、频繁变更收款账户、使用的日语不地道等。",
+          "link": "https://www.solidot.org/story?sid=77699",
+          "publishedOn": "2024-03-26T12:35:58.000Z",
+          "wordCount": 173,
+          "title": "日本政府对朝鲜 IT 外包工人发出警告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77698",
+          "author": null,
+          "description": "数年前备受瞩目的苏享茂被前妻涉嫌敲诈致死案即将进入判决阶段，其前妻翟欣欣已在去年被捕，她目前已认罪认罚，由于涉嫌敲诈的金额巨大，翟欣欣或将获刑 10 年以上。2017 年 9 月 7 日凌晨，手机应用 WePhone 的创始人苏享茂跳楼身亡，并留下遗书称自杀与前妻翟欣欣有关。据其遗书显示，2017 年 3 月 30 日，二人通过婚恋网站认识；同年 6 月 7 日领证，并与同年 7 月 18 日办理离婚手续。苏享茂曾在遗书中提到“资金链断裂，我很绝望”。因此“翟欣欣索要 1000 万作为离婚赔偿，导致苏享茂资金链断裂”被外界普遍认为是“逼死”苏享茂的原因之一。",
+          "link": "https://www.solidot.org/story?sid=77698",
+          "publishedOn": "2024-03-26T10:41:33.000Z",
+          "wordCount": 189,
+          "title": "苏享茂案当事人面临 10 年以上监禁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77697",
+          "author": null,
+          "description": "上个月尼日利亚在逃税的名义下逮捕了加密货币交易所币安的两名高管——非洲区域经理 Nadeem Anjarwalla 和 Tigran Gambaryan。其中 Anjarwalla 拥有英国和肯尼亚双重国籍，而 Gambaryan 则是美国公民。尼日利亚国家安全顾问办公室本周发表声明，Anjarwalla 使用假护照逃离了该国。目前不清楚他是如何逃离的。该国媒体报道称，警卫把他带到附近的一座清真寺进行祈祷后从宾馆逃离。国家安全顾问办公室发言人在一份声明中表示，相关负责人已被逮捕，调查正在进行之中。以交易量而言，尼日利亚是非洲最大的加密货币交易国，当地居民使用加密货币对冲通货膨胀和货币贬值的影响。",
+          "link": "https://www.solidot.org/story?sid=77697",
+          "publishedOn": "2024-03-26T10:34:10.000Z",
+          "wordCount": 166,
+          "title": "被拘留的币安高管在尼日利亚逃跑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77696",
+          "author": null,
+          "description": "国际宇航学会(International Academy of Astronautics)在意大利召开了首届保护月球背面的研讨会 Moon Farside Protection Symposium，在月球探索活动增加的背景下希望能保护其背面的无线电静默。月球背面远离人类无线电，是接收微弱信号的理想地点。NASA 提议在月球背面的一个陨石坑内建造一座超长波射电望远镜 Lunar Crater Radio Telescope，设计接收 30 兆赫兹以下频率的宇宙信号。但随着愈来愈多的国家推动月球探索任务，无线电静默的状况可能会被打破。中国正在尝试建立月球与地球的卫星通信网络，上周发射了鹊桥二号月球中继卫星；而 NASA 正在建造绕月的空间站 Lunar Gateway。",
+          "link": "https://www.solidot.org/story?sid=77696",
+          "publishedOn": "2024-03-26T08:58:27.000Z",
+          "wordCount": 174,
+          "title": "天文学家希望月球背面能无线电静默",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77695",
+          "author": null,
+          "description": "Ubuntu Linux 发行版开发商 Canonical 宣布将其长期支持版（LTS）的支持时间从 10 年延长到 12 年——不过只提供给付费客户。支持时间延长始于 Ubuntu 14.04 LTS。对于普通用户，LTS 版本的支持时间默认是五年，但对于付费订阅的 Ubuntu Pro 客户，支持时间此前是 10 年，如今延长到 12 年。延长两年支持给予使用 Ubuntu 的机构更长时间升级到新版本。",
+          "link": "https://www.solidot.org/story?sid=77695",
+          "publishedOn": "2024-03-26T07:28:39.000Z",
+          "wordCount": 197,
+          "title": "Ubuntu Linux LTS 支持时间延长到 12 年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77694",
+          "author": null,
+          "description": "最流行的键值对存储数据库 Redis 从开源的 3-clause BSD 许可证切换到商业使用需获得授权的双许可证 Redis Source Available License (RSALv2) 和 Server Side Public License (SSPLv1)。根据新许可证，托管 Redis 数据库的云服务提供商需要与 Redis 达成商业协议。此举与开发 Elasticsearch 的 Elastic 公司的做法如出一辙。和 Elastic 的情况类似，社区立即创建了一个开源分支 Redict。",
+          "link": "https://www.solidot.org/story?sid=77694",
+          "publishedOn": "2024-03-26T06:05:03.000Z",
+          "wordCount": 190,
+          "title": "Redis 切换到商业使用需获得授权的新许可证",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77693",
+          "author": null,
+          "description": "去年马斯克（Elon Musk）的 X/Twitter 起诉研究仇恨言论的非营利组织 Center for Countering Digital \nHate。该组织称 X 平台上仇恨言论泛滥。在诉讼中，X 指控该组织通过抓取和不正当获取由供应商运营的数据库的登录凭据，不正当地访问了 X 平台的数据。美国地区法院法官 Charles Breyer 周一在裁决中指出，马斯克的诉讼毫不掩饰、激烈的针对一件事，其意图显而易见，就是为了惩罚被告的言论。法官在上个月的审讯中指出，X 所谓抓取数据损害其平台安全性的指控无实质意义。法官指出，X 更关心的是该组织的言论，而不是该组织的数据收集方式。马斯克自称是言论自由的绝对主义者，但显然不容忍批评他的言论。",
+          "link": "https://www.solidot.org/story?sid=77693",
+          "publishedOn": "2024-03-26T05:30:26.000Z",
+          "wordCount": 183,
+          "title": "法官驳回了马斯克对研究 X 平台上仇恨言论的非营利组织的诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77692",
+          "author": null,
+          "description": "根据《福布斯》获得的多份法院命令，美国联邦调查人员命令 Google 提供特定 YouTube 视频的所有观看者的信息。隐私专家认为此举违宪，是将无辜的观看者视为犯罪嫌疑人。在其中一起案件中，卧底警探向网名 elonmuskwhm 的用户发送了通过无人机和增强现实软件测绘地图的 YouTube 教程链接，此人被怀疑通过加密货币洗钱。调查人员随后要求 Google 提供视频观看者的信息。这些视频的总观看次数逾 3 万次。法庭命令显示，Google 被要求提供 2023 年 1 月 1 日至 8 日期间访问该 YouTube 视频的所有 Google 帐户的姓名、地址、电话号码和用户活动。法院批准了该命令，Google 被要求保密，直至《福布斯》获得该请求为止。法庭记录没有显示 Google 是否提供了数据。",
+          "link": "https://www.solidot.org/story?sid=77692",
+          "publishedOn": "2024-03-25T15:10:54.000Z",
+          "wordCount": 192,
+          "title": "法官命令 YouTube 披露卧底发给洗钱嫌疑人的视频的每一位浏览者的信息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77691",
+          "author": null,
+          "description": "1999 年 3 月 24 上映的《黑客帝国》讲述了未来被机器统治的时代，人类被作为能量来源困在缸内，生活在被称为矩阵的虚拟世界里。25 年之后，随着智能手机和社交媒体的兴起，从某种程度上说，今天的人类也更多生活在虚拟世界里。人类的生活变得更好了，但孤独和抑郁席卷整个社会这一趋势表明，很多人都隔离在自己制造的“缸”中。对现代数字洞穴居民而言，重返光明并不需要服用药丸，也不需要被哲学家拯救，只需要偶尔远离电子设备。25 年前，《黑客帝国》提供了对“柏拉图的洞穴”的现代诠释。今天我们再次扪心自问，如何摆脱孤独黑暗的禁锢，看见真实世界里其他人类灵魂的光辉。",
+          "link": "https://www.solidot.org/story?sid=77691",
+          "publishedOn": "2024-03-25T14:47:36.000Z",
+          "wordCount": 171,
+          "title": "《黑客帝国》上映 25 周年，我们是否深陷矩阵？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77690",
+          "author": null,
+          "description": "欧盟周一宣布根据 3 月 7 日生效的新数字竞争法 Digital Markets Act（DMA）对苹果、Meta 和 Google 展开调查。根据新的规则，被欧盟称为“守门人”的世界最大的六家科技公司被要求提供证据，证明它们没有损害竞争。欧盟表示，如果它的调查得出结论它们没有完全遵守 DMA，守门人将可能面临巨额罚款。DMA 制定的最高罚款金额是其全球收入的 10%，如果反复违规罚款比例将会进一步提高到全球收入的 20%。苹果位于欧盟调查的中心，欧盟竞争专员 Margrethe Vestager 表示正式调查将集中在两个方面：苹果对尝试从 App Store 链接到官网的开发商施加的限制，以及苹果对第三方替代默认应用如 Photos 或 iCloud 所施加的难度。她说，守门人有义务实现应用的轻松卸载和默认设置的轻松更改。",
+          "link": "https://www.solidot.org/story?sid=77690",
+          "publishedOn": "2024-03-25T13:52:27.000Z",
+          "wordCount": 193,
+          "title": "欧盟根据新的数字竞争法律对苹果、Meta 和 Google 展开调查",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77689",
           "author": null,
@@ -938,36 +1058,6 @@
           "wordCount": 166,
           "title": "韩国大企业撤离中国",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77616",
-          "author": null,
-          "description": "Chips and Cheese 详细分析了龙芯公司最新的四核八线处理器 3A6000，测试显示它的性能与 AMD 的 Zen1 相当。3A6000 频率为 2.5 GHz，使用了新的 LA664 核心，相比上一代 3A5000 的 LA464 核心，LA664 是一大飞跃。LA664 拥有更大更深的管线和更多执行单元，加入了对同步多线程 (SMT)的支持。以 7-Zip 压缩为例，3A6000 相比 3A5000 性能提升约 38%，如果考虑 SMT 提升幅度还会更大。如果每个核心加载一个线程，在 7-Zip 压缩任务中四个 LA664 核心相当于四个 Zen1 核心。在 libx264 视频编码任务中，3A6000 与 Zen1 各有胜负。Zen1 至今仍然具有实用价值，因此 3A6000 可以轻松完成轻量级的日常工作任务。但软件生态系统则是另一回事，3A6000 是基于 MIPS 等指令集，意味着不可能运行 Windows，只能运行 Linux 发行版。3A6000 具有 Zen1 相当的单线程性能，但只有 4 个核心，对今天的 CPU 而言，四核已经越来越少见了。",
-          "link": "https://www.solidot.org/story?sid=77616",
-          "publishedOn": "2024-03-17T13:45:25.000Z",
-          "wordCount": 217,
-          "title": "详解龙芯 3A6000",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77615",
-          "author": null,
-          "description": "卡巴斯基安全研究人员发现有攻击者在百度投放广告传播恶意版的文本编辑器 Notepad++ 和笔记应用 vnote。研究人员指出，如果用户点击广告进入传播恶意版 Notepad++ 的网站，会立即注意到不一致的地方：网址包含了 vnote 而不是 Notepad++，提供下载的应用是中国开发者改造过的 Notepad--（分支）。网站提供的 Windows、Linux、macOS 三个版本中只有 Linux 和 macOS 版本包含了恶意代码。vnote 的钓鱼网站则试图模仿官网。如果用户安装了恶意版的 Notepad--，它会试图安装一个后门程序，该后门程序应该是来自于开源程序 Geacon。",
-          "link": "https://www.solidot.org/story?sid=77615",
-          "publishedOn": "2024-03-16T15:18:31.000Z",
-          "wordCount": 187,
-          "title": "攻击者在百度投放广告传播恶意版 Notepad++ 和 vnote",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77614",
-          "author": null,
-          "description": "Mozilla 宣布其开放定位服务 Location Service 即将关闭。Mozilla Location Service（MLS）于 2013 年推出，通过开源的 MozStumbler Android 应用使用社区递交的 GPS 数据提供地理位置定位服务。但在 2019 年 Skyhook Holdings, Inc 联络 Mozilla 声称该服务侵犯了它的多项专利。 Mozilla 与 Skyhook 达成了避免诉讼的和解，但需要调整 MLS 政策，加大了投资和扩大该服务的难度。2021 年 Mozilla 终止了 MozStumbler 项目。此后随着 MLS 的定位精度不断下降，Mozilla 决定终止该服务，即日起停止发放新的 API 访问密钥，6 月 12 日移除第三方密钥， 7 月 31 日源代码库存档。",
-          "link": "https://www.solidot.org/story?sid=77614",
-          "publishedOn": "2024-03-16T14:29:17.000Z",
-          "wordCount": 212,
-          "title": "Mozilla Location Service 即将关闭",
-          "imageUrl": null
         }
       ]
     },
@@ -1049,6 +1139,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/how-to-open-links-in-a-sandbox",
+          "author": null,
+          "description": "TLDR: Simply visit browserling.com/browse and you'll get an online link sandbox. My team and I run virtualized browsers in the cloud, providing you with a safe, isolated environment to test and interact with websites or examine potentially dangerous links without risking your own system's security.\nWhat Is a Link Sandbox?\nA link sandbox is a cybersecurity mechanism designed to safely inspect web links, documents, files, and other potentially unsafe content without risking the integrity of the primary system or network. It operates by creating an isolated environment, often referred to as a \"sandbox\" where the accessed links can be closely monitored and analyzed without allowing any malicious activities to affect the user's system or data. A link sandbox is particularly valuable for examini…",
+          "link": "https://catonmat.net/how-to-open-links-in-a-sandbox",
+          "publishedOn": "2024-03-26T18:55:00.000Z",
+          "wordCount": 686,
+          "title": "How to Open Links in a Sandbox",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/what-is-an-unlocked-browser",
           "author": null,
           "description": "TLDR:  You can instantly access an unlocked browser via browserling.com/browse. Created by me and my team, our service streams secure, unlocked browser sessions directly from our browser cloud to you, guaranteeing full unrestricted access to the web.\nUnlocked Browser – What Is It?\nAn unlocked browser is a remote web browser that's pre-installed on a cloud server and runs without any form of content locks, granting users access to the entire Internet, including sites and resources that might otherwise be locked by security or oversight mechanisms. Such a browser is free from locks typically imposed through parental controls, blocker extensions, or time-based or usage-based software. This browser allows a fully open web experience, ensuring that no websites are off-limits based on content fi…",
@@ -1066,16 +1166,6 @@
           "publishedOn": "2024-03-21T19:32:00.000Z",
           "wordCount": 1185,
           "title": "What is a Sandboxed Edge? (And How To Get One)",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/st-patricks-day-sale",
-          "author": null,
-          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated St. Patrick's Day sales campaign.\nNow each year on St. Patrick's Day, we show a 50% discount offer to all users who visit our site.\nRun automated sales too and see you next time!",
-          "link": "https://catonmat.net/st-patricks-day-sale",
-          "publishedOn": "2024-03-17T07:08:00.000Z",
-          "wordCount": 324,
-          "title": "St. Patrick's Day Sale",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
