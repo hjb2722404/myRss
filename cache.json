@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=48017",
+          "author": "青小蛙",
+          "description": "Free Control 是一款开源的 Windows 程序，它可以通过 Windows 来控制安卓手机，支持使用 adb 进行 Wi-Fi 连接控制。充电时支持唤醒，简单易用。@Appinn Scr",
+          "link": "https://www.appinn.com/free-control-for-android/",
+          "publishedOn": "2024-03-28T08:44:50.000Z",
+          "wordCount": 2695,
+          "title": "Free Control – 基于 Scrcpy，使用 Windows 控制安卓手机",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-28T163344.096.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48013",
           "author": "青小蛙",
           "description": "假装 Windows 升级界面是一个莫名其妙的网站，你可以在里面观看从 Windows 98、XP、Vista，到 Windows 10/11 的系统升级界面动画，如果全屏食用的话，还可以假装自己在升",
@@ -140,26 +150,6 @@
           "wordCount": 2610,
           "title": "Enhanced word highlight – 创建10年的油猴脚本又更新了：在搜索引擎和网页高亮关键词",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-20T154409.830.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47935",
-          "author": "青小蛙",
-          "description": "Alfred 是一款老牌的 macOS 效率、快速启动工具，通过快捷键呼出，输入指令来完成任务。今天更新了 Alfred 5.5，将 ChatGPT / DALL-E 以官方工作流 workflows",
-          "link": "https://www.appinn.com/alfred-5-5/",
-          "publishedOn": "2024-03-19T08:20:00.000Z",
-          "wordCount": 2648,
-          "title": "Alfred 5.5 更新，整合 ChatGPT / DALL-E，新增预览缩略图、PDF 预览、MD 预览等功能。",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-19T155738.436.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47931",
-          "author": "青小蛙",
-          "description": "Vmail.dev 是一个开源项目，它可以生成有效期 1 天的临时邮箱地址，隐私友好、无内置广告，界面漂亮，即开即用。另外可自己部署在 Cloudflare Worker。@Appinn 来自发现频道",
-          "link": "https://www.appinn.com/vmail-dev/",
-          "publishedOn": "2024-03-19T04:58:16.000Z",
-          "wordCount": 2542,
-          "title": "Vmail.dev – 开源的临时邮箱服务，可自己部署[CF Worker]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-19T123339.711.jpg"
         }
       ]
     },
@@ -219,6 +209,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77726",
+          "author": null,
+          "description": "美国地区法官 Lewis A. Kaplan 周四对 FTX 创始人 Sam Bankman-Fried（SBF）做出了判决，判处 25 年监禁。32 岁的 SBF 去年 11 月被判犯有欺诈和共谋罪，检方称他将 FTX 的资金挪用于偿还其姊妹对冲基金 Alameda Research 的债务、参与高风险投资、购买豪华房地产以及掩盖数亿美元的政治捐款。FTX 一度是最受欢迎的加密货币交易平台之一，2022 年崩溃申请破产，当年年底 SBF 在巴哈马被捕，随后被引渡到美国。在宣判前，SBF 称自己的有用生命可能已结束了。",
+          "link": "https://www.solidot.org/story?sid=77726",
+          "publishedOn": "2024-03-28T16:17:31.000Z",
+          "wordCount": 197,
+          "title": "Sam Bankman-Fried 被判入狱 25 年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77725",
+          "author": null,
+          "description": "英特尔和微软开始讨论在 PC 本地运行软件巨人的 AI 聊天机器人 Copilot。现阶段 Copilot 依赖于云端处理请求，本地运行不仅能更快响应，而且有助于保护用户隐私。目前配备神经网络处理器（NPU）的 Windows PC 还比较少，现有的 Windows 系统也很少用到 NPU。苹果和 Google 设备配备的 NPU 主要用于处理图像和音频功能，如面部识别和物体识别、OCR、实时转录和翻译等。英特尔表示，未来 AI PC 所配备的 NPU 处理速度需要达到 40 TOPS（万亿次运算）。英特尔 Meteor Lake 笔记本芯片使用的 NPU 速度为 10 TOPS，AMD Ryzen 7040 和 8040 笔电芯片的 NPU 速度分别达到 10 TOPS 和 16 TOPS。高通 Snapdragon X 芯片的 NPU 能达到 45 TOPS，可能是目前唯一满足 AI PC 规格的芯片。",
+          "link": "https://www.solidot.org/story?sid=77725",
+          "publishedOn": "2024-03-28T16:06:14.000Z",
+          "wordCount": 223,
+          "title": "英特尔微软讨论在 PC 本地运行 Copilot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77724",
+          "author": null,
+          "description": "上周发射的鹊桥二号卫星是中国一系列探月任务的开端：嫦娥六号将在 5 月使用长征五号火箭发射，它将降落在月球背面，收集样本，然后送回到地球；后续的嫦娥七号任务将对月球南极进行环境和资源调查，它包含轨道器、着陆器、漫游车和储料器，后两者将在 Shackleton 陨石坑执行科学任务，它预计于 2026 年用长征五号火箭发射；嫦娥八号定在 2028 年，将演示就地资源利用，以支持未来月球的可持续探索。中国还计划到 2030 年代在月球表面建造一个国际性的研究基地 International Lunar Research Station，为 2040 年代的火星或更遥远地点的探索做准备。",
+          "link": "https://www.solidot.org/story?sid=77724",
+          "publishedOn": "2024-03-28T15:33:38.000Z",
+          "wordCount": 172,
+          "title": "中国披露未来的月球探索计划细节",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77723",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一项研究，2029 年左右 UTC 时间可能需要减去一秒，因为地球的自转速度出现了短期加速。地球的自转速度是有变化的，从较长的数百万年的尺度上，地球的自转在放慢，意味着每隔一段时间需要引入闰秒才能让基于自转的世界时与原子时同步。地球自转降低是由月球对海洋的引力造成的。但在较短的时间尺度上，地球物理现象会使自转速率波动。地球自转的速度受到地球液核电流的影响，自 1970 年代以来，液核电流导致地球自转速度增加。这意味着增加闰秒的频率会降低，如果这种趋势持续下去，则需要删除闰秒。绘制地球引力图的卫星数据显示，自 1990 年代初以来，由于格陵兰岛和南极洲的冰融化，大量物质从两极向赤道移动，地球变得越来越扁平。就像旋转的滑冰运动员把手臂从身体向外伸展会减速、把手臂收回会加速一样，远离地球自转轴的水流会放慢地球的旋转速度。核心洋流和气候变化的最终结果仍然是地球的加速。研究发现，如果没有冰融化的影响，调整负闰秒的时间需要比现在预测的早 3 年。",
+          "link": "https://www.solidot.org/story?sid=77723",
+          "publishedOn": "2024-03-28T14:31:28.000Z",
+          "wordCount": 166,
+          "title": "更快的地球自转速度可能意味着负闰秒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77722",
+          "author": null,
+          "description": "世嘉出售了以即时战略游戏知名的 Relic Entertainment 工作室，并在 Creative Assembly、Sega Europe、Sega HARDLight 等子公司裁员 240 人。Relic Entertainment 以《英雄连》系列和《战锤40K 战争黎明》系列闻名，最近为微软开发了新《帝国时代》游戏。它将转型为独立工作室，不再隶属于世嘉集团。这是游戏行业过去几个月的最新一起裁员，由于增长乏力和成本上升，几乎所有主要游戏公司都在裁员。",
+          "link": "https://www.solidot.org/story?sid=77722",
+          "publishedOn": "2024-03-28T13:32:19.000Z",
+          "wordCount": 181,
+          "title": "世嘉出售 Relic Entertainment 工作室",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77721",
+          "author": null,
+          "description": "研究发现连续两晚睡眠断断续续会让人感觉老了几岁。瑞典心理学家发现，当参与者连续两晚只睡四个小时，他们会觉得老了四岁多，部分人甚至声称感觉老了几十岁。当被允许在床上睡九个小时，研究参与者声称年轻了三个月。研究人员表示，零碎的睡眠除了让人感觉变老外，还会鼓励不健康的饮食、减少体育锻炼、减少社交意愿。研究报告发表在《Proceedings of the Royal Society B》期刊上。",
+          "link": "https://www.solidot.org/story?sid=77721",
+          "publishedOn": "2024-03-28T12:31:49.000Z",
+          "wordCount": 162,
+          "title": "研究发现连续两晚睡眠断断续续会让人感觉老了几岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77720",
+          "author": null,
+          "description": "PostgreSQL 社区悼念因飞机失事去世的资深成员 Simon Riggs。Riggs 驾驶一架 General Aviation Cirrus SR22 于 3 月 26 日下午坠毁在英国帝国战争博物馆的机场。PostgreSQL 核心团队称，PostgreSQL 中的很多企业级功能是由 Simon 负责的，其中包括基于时间点的恢复（Point In Time Recovery，PITR），热备、同步复制。他是 2ndQuadrant 的创始人，该公司雇佣了很多 PostgreSQL 开发者，2ndQuadrant 后被 EDB 收购，Simon  也随之加入 EDB 担任  PostgreSQL 院士直至退休。他曾多次负责英国的 PostgreSQL 会议，最后一次活动是在布拉格举行的 PostgreSQL Conference Europe 2023 会议上发表演讲。",
+          "link": "https://www.solidot.org/story?sid=77720",
+          "publishedOn": "2024-03-28T10:48:11.000Z",
+          "wordCount": 209,
+          "title": "PostgreSQL 社区悼念因飞机失事去世的资深成员 Simon Riggs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77719",
+          "author": null,
+          "description": "Sun Microsystems 联合创始人、Google 早期投资者 Andreas“Andy”Bechtolsheim 被 SEC（美国证券交易委员会）指控从事内幕交易。他被控利用对思科 2019 年收购 Acacia Communications 的信息，用一位近亲和同事的账户购买了 Acacia 期权。Andy Bechtolsheim 当时担任他联合创办的数据中心网络公司 Arista Networks 的董事长，SEC 称他之所以知道这笔交易是因为一家跨国科技公司的经理就此交易咨询了他，而该公司也考虑收购 Arista。他获悉交易之后立即购买了 Acacia 期权合约，从收购宣布后的股价上涨中获利 415,726 美元。Bechtolsheim 同意支付 923,740 美元的民事罚款，同意五年内不担任上市公司的高管或董事。《福布斯》估计他的净资产在 160 亿美元以上。",
+          "link": "https://www.solidot.org/story?sid=77719",
+          "publishedOn": "2024-03-28T08:29:36.000Z",
+          "wordCount": 189,
+          "title": "Sun 联合创始人被控内幕交易",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77718",
+          "author": null,
+          "description": "发表在《BMJ open》上的一项为期 10 年的国际研究表明，长期坚持每周锻炼 2-3 次，可以降低当前失眠的风险，并能保证每晚睡眠时间达到建议的 6-9 小时。研究人员评估了来自 9 个欧洲国家 21 个中心的中年人每周体育活动的频率、持续时间和强度，以及失眠症状、夜间睡眠时间和白天嗜睡。参与者报告说他们每周至少锻炼两次或两次以上，每周锻炼 1 小时或更长时间，被归类为身体活跃。在 10 年的时间里，37%(1601)的参与者持续不运动；18%(775人)开始进行体育锻炼；20%(881)变得不活跃；25%(1082例)持续活跃。挪威的参与者最有可能坚持运动，而西班牙的参与者最有可能坚持不运动，其次是爱沙尼亚。坚持运动的参与者更有可能是男性，更年轻，体重也稍轻。他们目前吸烟的可能性更小，目前工作的可能性更大。在调整了年龄、性别、体重(BMI)、吸烟史和研究中心后，那些坚持运动的人入睡困难的可能性显著降低(42%)，出现任何失眠症状的可能性降低(22%)，出现 2 或 3 种失眠症状的可能性降低(37%)。",
+          "link": "https://www.solidot.org/story?sid=77718",
+          "publishedOn": "2024-03-28T07:27:50.000Z",
+          "wordCount": 188,
+          "title": "每周锻炼 2-3 次有助于降低失眠风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77717",
+          "author": null,
+          "description": "亚马逊向 AI 初创企业 Anthropic 追加了 27.5 亿美元投资，使其总投资达到了 40 亿美元。这笔交易是亚马逊有史以来最大的一笔风险投资。大型科技公司争夺蓬勃发展的 AI 领域主导地位的竞争正愈演愈烈。作为交易的一部分，Anthropic 同意使用亚马逊 AWS 数据中心和亚马逊自己的定制芯片。Anthropic 的投资者还包括了 Google，它此前也承诺使用 Google 的定制芯片。Google 和 AWS 都是 Anthropic 的云计算合作伙伴。Anthropic 由 OpenAI 前员工于 2021 年创办，已成为 OpenAI 在 AI 领域最强大竞争对手之一。Anthropic 的 AI 聊天机器人被称为 Claude，它在本月初宣布了 Claude 3，在基准测试中超过了 OpenAI 的 GPT 4 和 Google 的 Gemini Ultra。",
+          "link": "https://www.solidot.org/story?sid=77717",
+          "publishedOn": "2024-03-28T06:58:18.000Z",
+          "wordCount": 220,
+          "title": "亚马逊对 Anthropic 的投资达到 40 亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77716",
+          "author": null,
+          "description": "美国政府和国会正在采取对策，以阻止中国的纯电动汽车（EV）流入美国国内。国会的方案之一是征收超过 100% 的税率，包括中国厂商在墨西哥生产的电动汽车。美国财政部长耶伦表示，“过去在钢铁等领域，由于中国政府的支持，大幅度的过剩投资扩大，发生产能过剩。目前，纯电动汽车等新产业正在形成过剩产能。”耶伦呼吁称“这将扭曲全球价格和生产模式，对美国企业和工人、乃至世界各地的企业和工人造成打击”。美国政府和国会为了保护国内汽车产业，正在讨论贸易壁垒。美国目前对进口中国产汽车征收 25% 的惩罚性关税。",
+          "link": "https://www.solidot.org/story?sid=77716",
+          "publishedOn": "2024-03-28T06:25:19.000Z",
+          "wordCount": 168,
+          "title": "美国考虑对中国电动汽车征收逾 100% 的关税",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77715",
           "author": null,
@@ -988,96 +1088,6 @@
           "wordCount": 159,
           "title": "五年研究显示哈瓦那综合症患者没有发现脑损伤",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77638",
-          "author": null,
-          "description": "ChatGPT 等 AI 聊天机器人仅仅只有一年多的历史，但特有的 ChatGPT 回答模式被发现出现在很多科学论文之中，显示论文作者在递交论文前没有认真将其清理掉，而审稿人似乎也没有尽责任。在学术搜索引擎 Google Scholar 上搜索短语“As of my last knowledge update”，返回了 115 个结果。该短语被 ChatGPT 用于表示其训练数据的截至时间点。以发表在《Journal of Material Sciences & Manfacturing Research》期刊上的论文《Quantum Entanglement: Examining its Nature and Implications》为例，它包含了以下短语，“截至我在 2021 年 9 月的最后一次知识更新，量子纠缠和纵向标量波之间目前没有广泛接受的科学关联证明。”上周末一篇中国研究人员的论文因包含 ChatGPT 回答而在社交媒体上广泛传播。",
-          "link": "https://www.solidot.org/story?sid=77638",
-          "publishedOn": "2024-03-19T13:59:37.000Z",
-          "wordCount": 195,
-          "title": "AI 生成的科学论文",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77637",
-          "author": null,
-          "description": "Web 2.0 时代前的 2004 年，BitTorrent 流量曾占到整个互联网流量的 35%。当时 P2P 文件共享是主要的流量来源。20 年后的今天，视频串流服务如 YouTube、Netflix 和 TikTok 杀死了昔日的流量之王。即使是盗版视频网站，BitTorrent 也不再是主流，大部分盗版视频网站也是基于串流。BitTorrent 协议的一大功能是上传，过去十年它在互联网上行流量中仍然占据不小的份额，2013 年占到了所有上行流量的三分之一，但 2021 年降至了 10%。加拿大宽带管理公司 Sandvine 本周公布的报告显示，BitTorrent 在几乎所有类别中都不占优。视频和社交媒体是下行流量的主要驱动力，BitTorrent 在上行流量中占 4%，被云存储应用、FaceTime、Google 和 YouTube 超越。今天的 BitTorrent 流量是由少数做种共享文件的用户产生的。",
-          "link": "https://www.solidot.org/story?sid=77637",
-          "publishedOn": "2024-03-19T10:06:53.000Z",
-          "wordCount": 189,
-          "title": "BitTorrent 不再是上行流量之王",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77636",
-          "author": null,
-          "description": "日美两国政府在重返月球的“阿尔忒弥斯计划”上基本达成共识，让 2 名日本宇航员参与登月计划。“阿尔忒弥斯计划”力争继“阿波罗计划”之后，时隔约半个世纪再次实现载人探月。在“阿波罗计划”中登月的 12 名宇航员都是美国的白人男性，此次则会有女性和非白人宇航员入选。首先 2026 年 9 月让美国宇航员登上月球，日本宇航员有望在 2028 年以后登月。“阿尔忒弥斯计划”的目标是通过在月球长期逗留来积累经验，从而有助于未来的火星探索，日本除了月球车开发外，还负责向绕月基地 Gateway 运送物资等。作为这些贡献的回报，日方将获得前往月球的船票。",
-          "link": "https://www.solidot.org/story?sid=77636",
-          "publishedOn": "2024-03-19T07:43:40.000Z",
-          "wordCount": 168,
-          "title": "两名日本宇航员有望参与美国登月计划",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77635",
-          "author": null,
-          "description": "富士通证实其部分计算机系统感染了恶意程序，攻击者可能还窃取到了部分客户信息。富士通称在检测到恶意程序之后，它立即切断了与被感染计算机的网络连接，部署了更好的监视工具，加强安全措施。富士通表示它开始通知信息可能被盗的客户。该公司没有披露更多信息。",
-          "link": "https://www.solidot.org/story?sid=77635",
-          "publishedOn": "2024-03-19T07:38:38.000Z",
-          "wordCount": 164,
-          "title": "富士通 IT 系统遭到入侵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77634",
-          "author": null,
-          "description": "职业社交网络 LinkedIn 准备在其平台上引入益智类游戏，该公司表示此举旨在释放乐趣、加深关系、创造对话机会。LinkedIn 将引入类似 Wordle 的热门益智游戏，玩家的分数将根据他们的工作地点进行排序排名。LinkedIn 没有披露正式推出游戏的日期。游戏被认为是该平台留住用户的最新举措。去年 LinkedIn 集成了  OpenAI 的 GPT 语言模型，帮助求助者改进简历，帮助招聘者编写更好的职位描述。",
-          "link": "https://www.solidot.org/story?sid=77634",
-          "publishedOn": "2024-03-19T06:57:36.000Z",
-          "wordCount": 172,
-          "title": "LinkedIn 准备引入游戏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77633",
-          "author": null,
-          "description": "AI 创业公司 Stability AI 发布了 Stable Video 3D，输入一个对象的静态照片生成该对象的 3D 模型。Stable Video 3D 有两个版本：SV3D_u 和 SV3D_p，其中 SV3D_u 输入单幅图像生成轨道视频，无需相机调节；SV3D_p 组合了单幅图像和轨道视图，允许沿着指定相机路径创建 3D 视频。Stable Video 3D 的商业使用需要付费，非商业使用可在 Hugging Face 上下载模型权重（9.37GB）。",
-          "link": "https://www.solidot.org/story?sid=77633",
-          "publishedOn": "2024-03-19T06:13:06.000Z",
-          "wordCount": 202,
-          "title": "Stability AI 发布 Stable Video 3D",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77632",
-          "author": null,
-          "description": "根据发表在《The Astrophysical Journal》期刊上的一项研究，加拿大物理学家提出新理论，认为宇宙可能暗物质。宇宙学模型普遍认为，宇宙中约 27% 为暗物质，普通物质不足 5%，其余则为暗能量。其中暗物质指所有似乎与光或电磁场不相互作用的物质，或只能通过引力解释的物质。在最新研究中，加拿大渥太华大学物理学家结合共变耦合常数理论和疲光理论得出结论称，宇宙中可能没有暗物质。其中共变耦合常数理论描述了自然力如何随着时间的推移而减弱；疲光理论则阐释了光经过“长途旅行”会损失能量。作者表示，他提出的新理论已经接受了测试，并被证明与一些观测结果相匹配。",
-          "link": "https://www.solidot.org/story?sid=77632",
-          "publishedOn": "2024-03-19T05:11:42.000Z",
-          "wordCount": 170,
-          "title": "新理论认为宇宙没有暗物质年龄 267 亿年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77631",
-          "author": null,
-          "description": "Valve 宣布了 Steam 家庭共享功能，整合了原来的 Steam 家庭共享及 Steam 家庭监护，方便游戏库共享和管理儿童能访问的游戏。Steam 家庭功能可邀请最多 5 名家庭成员，每名家庭自动获得所有成员所拥有的可共享游戏的访问权，玩家庭库里的游戏时将会创建自己的存档，获得自己的成就，并可访问创意工坊。家长可以对孩子何时可以玩哪些 Steam 游戏以及游戏时间作出限制。Steam 家庭的成员有两种身份：成人或儿童。任何成人成员均可以管理邀请并设置帐户限制。儿童成员受限于家长控制，且不可管理家庭。儿童帐户可请求家庭中的一名成人为其购物车付款。该成人可通过移动设备或电子邮件批准购买并为其付款。批准后，购物车内的所有游戏都将添加到儿童的帐户中。成人成员可以随时离开，但需要在加入前一个家庭 1 年后才能创建或加入新的家庭。儿童成员则不能自行离开，必须由成人成员或 Steam 客服将其从家庭中移除。每个 Steam 家庭的席位均有一年的冷却期，期满才可以允许新成员占据。成人成员可以将任何成员踢出 Steam 家庭。如果一名家庭成员因玩你所拥有的游戏时作弊被封禁，你也会在该游戏中被封禁。",
-          "link": "https://www.solidot.org/story?sid=77631",
-          "publishedOn": "2024-03-19T03:30:28.000Z",
-          "wordCount": 189,
-          "title": "Valve 推出 Steam 家庭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77630",
-          "author": null,
-          "description": "PBS 的一项调查显示，石油和塑料行业推动塑料回收，其实是将其作为一种公关性质的策略以避免受到监管。埃克森美孚化工的一位高管在 1994 年对于塑料回收发表言论称，“我们只管做不管结果。”杜邦公司代表称塑料回收的目标是在明知道不太可行的情况下制定的。加州正在调查石油天然气公司以及石化行业在制造塑料垃圾危机中扮演的角色。塑料行业组织对此报道表示，对行业现状进行了错误描述，该行业致力于到 2040 年所有塑料包装都能重复使用和回收。分析师表示，塑料行业过去几十年做出了大量类似的承诺，认为需要政府对此进行监管。",
-          "link": "https://www.solidot.org/story?sid=77630",
-          "publishedOn": "2024-03-18T14:43:30.000Z",
-          "wordCount": 161,
-          "title": "塑料行业将回收视为一种公关工具",
-          "imageUrl": null
         }
       ]
     },
@@ -1158,6 +1168,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/what-is-an-osint-browser",
+          "author": null,
+          "description": "TLDR:  You can instantly access an OSINT browser via browserling.com/browse. Created by me and my team, we run virtualized browsers in the cloud and stream secure, isolated browser sessions to you.\nWhat Is OSINT?\nOSINT, short for Open Source Intelligence, refers to the practice of collecting and analyzing information from publicly available sources for intelligence purposes. This includes data gathered from public forums, Internet archive, social media, public government reports, domain registration history, and more, offering valuable insights for cybersecurity experts and researchers to identify threats and secure networks. It is also utilized in various fields such as security, law enforcement, and business intelligence to support decision-making and strategy formulation.\nWhat Is an OSI…",
+          "link": "https://catonmat.net/what-is-an-osint-browser",
+          "publishedOn": "2024-03-28T11:53:00.000Z",
+          "wordCount": 1144,
+          "title": "What is an OSINT Browser? (And How To Get One)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/what-is-a-vnc-browser",
           "author": null,
