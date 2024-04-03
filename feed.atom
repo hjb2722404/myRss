@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-04-02T02:21:55.818Z</updated>
+    <updated>2024-04-03T02:19:39.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[xz/liblzma 后门是开源核弹亦或 systemd 之锅？没那么糟糕！]]></title>
+        <id>https://www.solidot.org/story?sid=77766</id>
+        <link href="https://www.solidot.org/story?sid=77766"/>
+        <updated>2024-04-02T15:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Shawn the R0ck 写道：2024年3月29日，一份关于在自由软件社区备受争议的开源项目 xz 软件包被上游源代码中的后门所污染的报告在 oss-security 邮件列表中曝光。这个后门影响到了 liblzma 库，它是 xz 软件包的一部分，在第一份报告发布后有多了很多跟进的研究，内容主要如下，1） 这个后门完整地存在于发布的 xz 源码包中(5.6.0 和 5.6.1 版本)，但上游 git 仓库中存在伪装为测试数据，但并未插入 liblzma 中的载荷，而打包前单独加入源码包中的唤醒代码（它们不存在于 git 仓库中，因此从 git 仓库，或由 github 生成的源码包编译的 liblzma 中不会有后门）会将载荷注入到构建过程中。2） 注入的代码修改 Makefile 以包含恶意文件，这些文件在构建过程中被执行,导致进一步的有效载荷注入。3） 这个有效载荷针对的是使用 gcc 和 GNU 链接器的 x86-64 GNU/Linux 系统,并且是 Debian 或 RPM 软件包构建的一部分。4） 恶意代码针对 OpenSSH 服务器进行劫持以实现远程代码执行，但显著降低了登录速度。它通过劫持和修改 liblzma 库中的某些函数来实现这一点，其载荷是间接加载到 sshd 中的。sshd 实现了对 systemd-notify 的支持，liblzma 被加载是因为它是 libsystemd 的其他部分所依赖的，systemd 的复杂度再次成为了实际上的安全隐患。5） 建议立即升级任何可能受影响的系统，因为这些被污染的版本还未广泛被 GNU/Linux 发行版集成。6） 提供了一个脚本来检测系统是否可能受到影响。7）后门投毒者关闭了 LANDLOCK 沙箱，这个已经被主要维护者修复。开源社区诸多用户都对于 systemd 饱受争议的复杂性以及其生态渗透到 GNU/Linux 系统之深本有意见，借愚人节之机满足读者的阴谋论叙事的诉求：幕后黑手其实是 M$，意在摧毁 GNU/Linux 生态，首先，他们秘密收买了 Lennart Poettering，让他开发了 systemd。Lennart 在 M$ 的授意下,将 systemd 逐步渗透到 GNU/Linux 发行版中,为后续行动铺路，2022年3月，M$ 认为可以执行下一步计划了就排出了 Jia Tan 团队跟 xz-utils 社区进行交涉，Lennart Poettering 的任务也宣告结束，2022年6月，M$ 公开召回（雇佣）Lennart，此后 M$ 筹划了 2023 年开始支持 openssh 的 systemd 生态进而让 Jia TAN 去掌控整个 GNU/Linux 生态，只是没想到被一个执着于性能且追求计算美学的工程师破坏了原本完美的计划，M$立马命令Github关闭了相关的帐号以毁灭证据，幸运的是这个蔚蓝色的星球的赛博网络里有时空穿梭机，这让github的重要信息得以保留。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究确认一颗超级地球被潮汐锁定]]></title>
+        <id>https://www.solidot.org/story?sid=77765</id>
+        <link href="https://www.solidot.org/story?sid=77765"/>
+        <updated>2024-04-02T15:13:12.000Z</updated>
+        <summary type="html"><![CDATA[想象一下，如果西半球永远是夜晚，东半球永远是白天。根据发表在《The Astrophysical Journal》期刊上的论文，科学家提供了迄今为止最令人信服的证据证明，一颗行星具有这种被称为潮汐同步或 1:1 潮汐锁定的特征。当一颗行星的轨道离恒星很近时，它的近侧会受到比远侧更强的拉力。随着时间的推移，这种被称为潮汐力的不平衡被认为会减缓行星的旋转，直到它与轨道完全同步。这意味着行星绕轴旋转一周所需的时间与绕恒星运行一周所需的时间相同。月球被认为经历了这一过程，这就解释了为什么它有一个从未面向地球的“远侧”。许多系外行星被认为是 1:1 潮汐锁定的，因为它们离宿主恒星很近，但这种状态很难被证明。测量系外行星的轨道很简单，而固定它的自转要困难得多，尤其是当行星的大气层遮挡了它自转的表面。科学家将目标锁定了一颗离恒星很近的超级地球 LHS 3844b，最终证明了潮汐锁定假说。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[壳牌对荷兰气候裁决提起上诉]]></title>
+        <id>https://www.solidot.org/story?sid=77764</id>
+        <link href="https://www.solidot.org/story?sid=77764"/>
+        <updated>2024-04-02T14:57:49.000Z</updated>
+        <summary type="html"><![CDATA[壳牌本周将力争说服海牙的法官推翻一项具有里程碑意义的温室气体减排命令。这将是对污染企业能否阻止气候变化相关法律行动的一次受到密切关注的考验。英国高伟绅律师事务所(Clifford Chance)的律师将辩称，强迫这家油气公司在 2030 年前将其排放量较 2019 年水平削减 45% 的裁决没有法律依据，而且超出了该司法机构的职权范围。2021 年 5 月，地球之友荷兰分支 Milieudefensie 在海牙地方法院取得了历史性胜利，法庭下令壳牌必须在 2030 年前将其全球碳排放量从 2019 年的水平减少 45%。Milieudefensie 主任 Donald Pols 表示，自该判决以来，世界部分地区遭遇了洪水、热浪和农作物歉收，以及过去一年破纪录的全球气温，这些都有助于 Milieudefensie 再次证明其立场。壳牌目前的目标是到 2030 年将碳排放量减少 15-20%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam 调查显示简体中文用户比例继续超过英文用户]]></title>
+        <id>https://www.solidot.org/story?sid=77763</id>
+        <link href="https://www.solidot.org/story?sid=77763"/>
+        <updated>2024-04-02T14:20:37.000Z</updated>
+        <summary type="html"><![CDATA[根据 Valve 公布的 2024 年 3 月 Steam 硬件和软件调查报告，简体中文用户的比例仍然超过英文用户。数据显示：在操作系统上，Windows 占 96.67%，Linux 1.94%，OSX 1.38%；在用户使用的语言上，简体中文占比达到了 33.43%，比前一个月增长 0.59%，英语第二占 32.54%（同比增加 0.42%），俄语第三占 8.36%（同比减少 0.91%）。Linux 玩家主要是使用 Valve 的掌机 Steam Deck，掌机配备的 AMD CPU 在 Linux 玩家中使用比例也是最高——72.10% 的 Linux 玩家用 AMD CPU。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Rust 开发者的生产力两倍于 C++]]></title>
+        <id>https://www.solidot.org/story?sid=77762</id>
+        <link href="https://www.solidot.org/story?sid=77762"/>
+        <updated>2024-04-02T14:01:49.000Z</updated>
+        <summary type="html"><![CDATA[在伦敦举行的 Rust Nation UK Conference 会议上，Google 工程总监 Lars Bergstrom 讲述了项目从 Go 或 C++ 迁移到 Rust 语言的经验：开发者使用 Rust 时的生产效率两倍于 C++。Rust 是内存安全语言，被认为有助于减少内存安全相关的漏洞，包括美国国家网络总监办公室和 NSA 都曾发表报告呼吁企业使用内存安全语言。C++ 作者 Bjarne Stroustrup 等人对此提出过异议，认为如果搭配适当的工具，C++ 在内存安全上能匹配 Rust，而所需代价相对于切换到 Rust 微乎其微。Bergstrom 对比了从  Go 切换到 Rust 以及从  C++ 切换到 Rust。Go 编写的系统用 Rust 重写，所需团队规模和时间基本相同，也就是生产效率没有下降，但同时带来了其它方面的益处，包括服务使用的内存略有减少，缺陷率随着时间的推移也略有下降。从 C++ 切换到 Rust 产生的变化则更为显著——用 Rust 构建服务以及维护和更新所需的工作量减少到原来的二分之一以内。Bergstrom 还表示，开发者发现 Rust 代码更容易审查，对 Rust 代码的正确性也更有信心。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram 加强企业级功能，为公共频道启用广告收入共享]]></title>
+        <id>https://www.solidot.org/story?sid=77761</id>
+        <link href="https://www.solidot.org/story?sid=77761"/>
+        <updated>2024-04-02T10:18:05.000Z</updated>
+        <summary type="html"><![CDATA[消息应用 Telegram 推出了 Telegram Business，为企业级客户提供了方便使用的工具和功能，不需要他们掌握编程技能。举例来说，企业可选择在地图上显示营业时间和位置，使用自定义的起始页欢迎客户，类似 WhatsApp  的快速回复，为首次互动的客户设置自定义问候语，创建聊天链接，使用 Telegram 机器人或其它 AI 助手回复消息，等等。Telegram 同时还为至少千名订阅者的公共频道启用广告收入共享。创始人 Pavel Durov 此前接受《金融时报》采访时表示该平台有逾 9 亿用户，有望在 2025 年盈利，并考虑 IPO。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国 IT 工程师最多，中国 IT 工程师薪资超过日本]]></title>
+        <id>https://www.solidot.org/story?sid=77760</id>
+        <link href="https://www.solidot.org/story?sid=77760"/>
+        <updated>2024-04-02T08:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Human Resocia 公布的报告显示，美国以 445.1 万 IT 工程师高居第一，印度 343.1 万第二，中国 328.4 万第三，日本 144 万人第四，但与前三相差甚远。在薪水方面，瑞士的 IT 工程师薪水最高，其次是美国、以色列、丹麦、巴拿马和德国，中国超过日本排在第 24 位。2023 年中国 IT 工程师的平均年薪为 3.6574 万美元，日本为 3.6061 万美元。分析师称，日本 IT 工程师薪水低的原因是多层转包结构。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三月有望再次创下温度纪录]]></title>
+        <id>https://www.solidot.org/story?sid=77759</id>
+        <link href="https://www.solidot.org/story?sid=77759"/>
+        <updated>2024-04-02T08:15:59.000Z</updated>
+        <summary type="html"><![CDATA[地球仍然处于“发烧”状态，看不到缓解的迹象。地球已经连续 9 个月创下温度纪录，而刚刚过去的 3 月很可能是第 10 个。3 月的最后一个周末，很多地方出现了创纪录高温。欧洲、亚洲、中美洲和西非地区气温都异常高，仿佛已经进入了夏天而不是早春。欧洲八个国家——阿尔巴尼亚、白俄罗斯、克罗地亚、爱沙尼亚和波兰等创下该国的 3 月温度纪录。日本有 70 个地区刷新或平了当地的温度纪录。泰国普吉岛在 3 月 27 日纪录到了 39.2 摄氏度的创纪录高温。危地马拉 La Fragua 气温达到 44 摄氏度打破了中美洲温度纪录。哥斯达黎加气温达到了 41.5 摄氏度。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord 本周开始展示游戏广告]]></title>
+        <id>https://www.solidot.org/story?sid=77758</id>
+        <link href="https://www.solidot.org/story?sid=77758"/>
+        <updated>2024-04-02T07:20:39.000Z</updated>
+        <summary type="html"><![CDATA[被游戏玩家广泛使用的聊天应用 Discord 宣布将从本周开始展示游戏公司的广告，而此前 Discord 一直抗拒广告。Discord 表示用户将可以在其设置中关闭广告。知情人士表示 Discord 计划招聘十多名广告销售。此举将代表着 Discord 的转型。该公司 CEO Jason Citron 曾经多次表示不会像 Facebook 和 Instagram 等平台那样依赖广告商。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海盗湾上最长寿的种子有 20 年历史]]></title>
+        <id>https://www.solidot.org/story?sid=77757</id>
+        <link href="https://www.solidot.org/story?sid=77757"/>
+        <updated>2024-04-02T06:57:26.000Z</updated>
+        <summary type="html"><![CDATA[海盗湾诞生于 2003 年，它托管的大部分早期种子在 21 年后都失效了。BitTorrent 需要至少一个人共享完整的文件副本，而这很难维持二十多年。有几个早期种子经受了这一考验。其中之一是 2004 年 3 月 25 日上传的《High Chaparral》第二季第二集，至今仍然有人在做种，OpenTrackr.org 的跟踪显示有 4 个做种者拥有这一集的完整副本。它可能是海盗湾现存最古老的种子，因此获得了特殊地位，鼓励用户继续做种。互联网上最古老的活跃 BT 种子是《The Fanimatrix》，它上传于 2003 年 9 月，至今仍然有逾百名做种者。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贺建奎恢复正常工作]]></title>
+        <id>https://www.solidot.org/story?sid=77756</id>
+        <link href="https://www.solidot.org/story?sid=77756"/>
+        <updated>2024-04-02T06:12:56.000Z</updated>
+        <summary type="html"><![CDATA[因基因编辑婴儿事件入狱的科学家贺建奎接受日媒《每日新闻》采访时表示已恢复人类胚胎基因组编辑的研究。他表示将使用废弃的人类胚胎，遵守国内外的规则。他表示没有计划制造更多基因编辑婴儿。贺建奎是在 2018 年披露使用 Crispr-Cas9 基因编辑技术编辑特定胚胎基因后产下了一对名为露露和娜娜的婴儿。他的实验震惊了医学界和科学界。2019 年 12 月他被深圳南山区人民法院判处有期徒刑三年。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 将免登录访问]]></title>
+        <id>https://www.solidot.org/story?sid=77755</id>
+        <link href="https://www.solidot.org/story?sid=77755"/>
+        <updated>2024-04-02T05:35:03.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 宣布其 AI 聊天机器人 ChatGPT 将对所有用户开放，无需登录就可以使用。代价是匿名用户的所有聊天纪录将会进入 OpenAI 的训练数据库，注册用户则可以选择退出。该功能将逐步推送给所有地区的用户，因此可能会有部分地区的用户仍然需要登陆才能使用。免费用户只能使用 GPT-3.5 模型，使用 OpenAI 最新的 ChatGPT 4  模型仍然需要付费订阅。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软程序员向 Linux 内核递交 Rust 补丁]]></title>
         <id>https://www.solidot.org/story?sid=77754</id>
@@ -947,16 +1067,6 @@ Epic Games 和华纳兄弟等主要游戏发行商。去年 SAG-AFTRA 针对好�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[怀孕会增加孕妇的生理年龄，但这一趋势能逆转]]></title>
-        <id>https://www.solidot.org/story?sid=77682</id>
-        <link href="https://www.solidot.org/story?sid=77682"/>
-        <updated>2024-03-24T13:31:31.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《Cell Metabolism》期刊上的一项研究，怀孕的压力会让女性的生理年龄增加最多两岁，但这一趋势可能会在接下来几个月自行逆转。研究人员称，母乳喂养婴儿的女性可能会比怀孕早期在生物学上“更年轻”。流行病学家 Elizabeth Bertone-Johnson 称该发现代表了又一个“令人信服”的证据，表明怀孕期间和怀孕后会对健康产生深远的影响。耶鲁大学医学院 Kieran O'Donnell 称，生物衰老未必是线性过程的发现令人惊讶。研究人员分析了 68 名参与者的血液样本，发现怀孕时细胞的年龄衰老了 1-2 岁，但产后三个月细胞的年龄看起来年轻了 3 -8 岁——不同表观遗传时钟算法提供了不同的估值。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[多邻国上线 DIY 虚拟头像制作功能：捏脸]]></title>
         <id>https://www.appinn.com/?p=47985</id>
         <link href="https://www.appinn.com/duolingo-create-avatar/"/>
@@ -967,16 +1077,6 @@ Epic Games 和华纳兄弟等主要游戏发行商。去年 SAG-AFTRA 针对好�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix 的《三体》在中国社媒平台引发争论]]></title>
-        <id>https://www.solidot.org/story?sid=77681</id>
-        <link href="https://www.solidot.org/story?sid=77681"/>
-        <updated>2024-03-24T12:24:33.000Z</updated>
-        <summary type="html"><![CDATA[美国流媒体巨头 Netflix 本周正式上映了改编自刘慈欣同名小说的《三体》电视剧，这部剧集主要针对西方观众，因此对剧情进行了改编，主要场景发生在伦敦而不是中国。故事主要讲述了经历文革父亲被打死的天体物理学家叶文洁在收到外星人的信息之后邀请外星种族“三体人”改造或殖民地球。路透社报道，在电视剧上映当天，它进入了微博的热门话题，浏览量到今天达到了 1.5 亿。因为 Netflix 没有进入中国，因此中国观众要么是通过 VPN 要么是通过盗版网站观看《三体》。CNN 报道称，Netflix 的改编版本在中国社交媒体上引发了争论，微博的一个评论称 Netflix 不懂《三体》，也不懂叶文洁，“只懂政治正确”。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等]]></title>
         <id>https://www.appinn.com/?p=47982</id>
         <link href="https://www.appinn.com/how-to-log-daily-consumables-with-reminder/"/>
@@ -984,38 +1084,6 @@ Epic Games 和华纳兄弟等主要游戏发行商。去年 SAG-AFTRA 针对好�
         <summary type="html"><![CDATA[现在日常生活中需要定期更换的耗品越来越多：电动牙刷头、净水器滤芯、空气净化器滤芯等等，单靠人脑已经记不过来了，所以我想找一个大概是这样的工具（iOS或Android都行，最好是iOS）： 来自问题求助]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政府电脑限制采购英特尔 AMD 处理器]]></title>
-        <id>https://www.solidot.org/story?sid=77680</id>
-        <link href="https://www.solidot.org/story?sid=77680"/>
-        <updated>2024-03-24T11:51:45.000Z</updated>
-        <summary type="html"><![CDATA[财政部和工信部在 12 月 26 日发布了新的政府 PC、笔记本电脑和服务器采购指南，要求采购“安全可靠”的处理器和操作系统。而根据中国信息安全测评中心同一天公布的首批安全可靠处理器和操作系统清单——所有都来自中国公司，其中包括华为海思的鲲鹏、麒麟和盘古处理器，龙芯中科的龙芯系列处理器，无锡先进技术研究院的申威系列处理器，飞腾信息技术有限公司的飞腾系列处理器，上海兆芯的兆芯系列处理器，海光信息的海光系列处理器。中国去年是英特尔最大的市场，占英特尔 540 亿美元销售额的 27%，占 AMD 230 亿美元销售额的 15%。一位绍兴交通局下属单位负责采购的人士表示，正在替换使用外国 CPU 的电脑，采购之后基本上办公室的每个人都使用国产芯片和操作系统的电脑，保留了部分旧 Windows 电脑供特殊情况使用。他表示同事们只能去习惯国产操作系统。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is an Unlocked Browser? (And How To Get One)]]></title>
-        <id>https://catonmat.net/what-is-an-unlocked-browser</id>
-        <link href="https://catonmat.net/what-is-an-unlocked-browser"/>
-        <updated>2024-03-23T19:50:00.000Z</updated>
-        <summary type="html"><![CDATA[TLDR:  You can instantly access an unlocked browser via browserling.com/browse. Created by me and my team, our service streams secure, unlocked browser sessions directly from our browser cloud to you, guaranteeing full unrestricted access to the web.
-Unlocked Browser – What Is It?
-An unlocked browser is a remote web browser that's pre-installed on a cloud server and runs without any form of content locks, granting users access to the entire Internet, including sites and resources that might otherwise be locked by security or oversight mechanisms. Such a browser is free from locks typically imposed through parental controls, blocker extensions, or time-based or usage-based software. This browser allows a fully open web experience, ensuring that no websites are off-limits based on content fi…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国上千万卡车容易受蠕虫攻击]]></title>
-        <id>https://www.solidot.org/story?sid=77679</id>
-        <link href="https://www.solidot.org/story?sid=77679"/>
-        <updated>2024-03-23T15:09:38.000Z</updated>
-        <summary type="html"><![CDATA[科罗拉多州立大学研究人员发现，美国商用卡车使用的 Electronic Logging Devices(ELDs)存在安全漏洞，可被用于控制卡车，甚至在卡车之间传播蠕虫。他们的论文发表在 2024 Network and Distributed System Security Symposium 研讨会上。研究人员没有披露受影响的 ELD 品牌或型号，表示只有几十种不同的 ELD 型号在商用卡车上使用。美国联邦政府要求重型卡车配备 ELD，跟踪驾驶时间，记录发动机运行、车辆运动和行驶距离等数据，但没有要求内置经过测试的安全控制装置。研究人员称，攻击者可通过蓝牙或 Wi-Fi 连接访问 ELD 去控制卡车，比如强迫卡车靠边停车。其中最令人担忧的情景是对卡车 ELD 的蠕虫攻击：蠕虫通过被感染设备的 Wi-Fi 功能搜索附近其它容易受攻击的 ELD。找到匹配的 ELD 后，蠕虫使用默认凭据建立连接，将恶意代码传播到新  ELD，覆盖现有固件，然后重复这一过程。美国目前有逾 1400 万辆中型和重型卡车。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
