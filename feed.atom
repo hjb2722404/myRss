@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-04-03T02:19:39.371Z</updated>
+    <updated>2024-04-04T02:21:20.821Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[特斯拉和比亚迪一季度电动车销量下滑]]></title>
+        <id>https://www.solidot.org/story?sid=77776</id>
+        <link href="https://www.solidot.org/story?sid=77776"/>
+        <updated>2024-04-03T16:04:58.000Z</updated>
+        <summary type="html"><![CDATA[两大电动汽车制造商都报告了令人失望的销售数据，去年第四季度纯电动汽车销量首次超过特斯拉的比亚迪今年一季度销量大幅下滑，特斯拉再次夺回了世界最大纯电汽车制造商的桂冠。比亚迪报告，由于国内市场需求疲弱以及竞争加剧，加上春节等因素，导致该公司在第一季度售出 30.0114 万辆纯电动汽车，去年四季度是  52.6 万辆。特斯拉报告该公司一季度生产了 433,000 辆汽车，但只交付 387,000 辆。低于去年第四季度交付量 484,507 辆，也低于去年第一季度的 422,875 辆。特斯拉将销量下滑的原因归咎于红海袭击、德国工厂遭纵火而关闭一周，Fremont 工厂的新版本  Model 3 产量增加。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XZ 后门事件后开源项目开始改用其它压缩库]]></title>
+        <id>https://www.solidot.org/story?sid=77775</id>
+        <link href="https://www.solidot.org/story?sid=77775"/>
+        <updated>2024-04-03T15:53:01.000Z</updated>
+        <summary type="html"><![CDATA[XZ 后门事件后，开源项目出于谨慎考虑开始重新评估对 XZ 的依赖。最新采取行动的是 Fwupd Linux 固件项目，它用 Zstd 压缩取代了 XZ。Fwupd 此前使用 XZ 压缩 XML 负荷加速网络下载节省 CDN 资源。出于对 XZ 项目的担忧，它现在改用了 Zstd。结果显示，Zstd 不仅更值得信任，而且其产生的压缩元数据比 XZ 小 3%，解压缩数据还更快。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国网络中的中国产设备数量仍然在增长]]></title>
+        <id>https://www.solidot.org/story?sid=77774</id>
+        <link href="https://www.solidot.org/story?sid=77774"/>
+        <updated>2024-04-03T15:36:45.000Z</updated>
+        <summary type="html"><![CDATA[网络安全公司 Forescout 的分析显示，虽然实施了限制美国网络中的中国制造设备数量仍然在增长。过去一年美国网络中国产设备数量增长四成以上，从 2023 年 2 月的 18.5 万台增加到 2024 年 2 月的近 30 万台。这些设备来自 473 个不同的制造商。其中 88% 是 IT 产品，其次是物联网 (9%)、OT (2%) 和 IoMT (1%)。绝大部分设备是计算机，其次是移动设备和监控设备。最大的制造商是联想，其次是海康威视。Forescout 还发现，去年英国网络中中国产设备从 1 万台增加到 2 万台。澳大利亚增长 37%，新加坡增长 67%，加拿大下降了 14%，德国下降了 25%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度称从柬埔寨电诈团伙解救出 250 人]]></title>
+        <id>https://www.solidot.org/story?sid=77773</id>
+        <link href="https://www.solidot.org/story?sid=77773"/>
+        <updated>2024-04-03T10:34:31.000Z</updated>
+        <summary type="html"><![CDATA[印度称从柬埔寨电诈团伙拯救出 250 位公民，这些人被高薪骗到柬埔寨工作，结果被发现是从事网络诈骗活动。印度称，在多名被骗者向当地大使馆报告其悲惨遭遇之后，该国与柬埔寨合作解救了这些印度公民。印度媒体称，柬埔寨电诈团伙至少还关押了 5000 人，他们的网络诈骗活动在近半年内骗取了近 6 千万美元。一位被解救者称，他是以从事数据输入工作的名义骗到柬埔寨的，被迫生活在极其恶劣的条件下，与中国和马来西亚的同伙实施骗局。他们创建了假的社媒资料，还需要完成 KPI，如果没完成目标会受到暴力对待。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔芯片制造业务 2023 年营业亏损 70 亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=77772</id>
+        <link href="https://www.solidot.org/story?sid=77772"/>
+        <updated>2024-04-03T09:30:45.000Z</updated>
+        <summary type="html"><![CDATA[英特尔周二披露其芯片制造业务 2023 年营业亏损 70 亿美元，比 2022 年的 52 亿美元大幅扩大。该部门 2023 年收入 189 亿美元，比 2022 年的 274.9 亿美元下跌 31%。CEO 帕特·基辛格(Pat Gelsinger)表示，2024 年芯片制造业务的营业亏损将会更严重，预计要到 2027 年才能实现盈亏平衡。他解释说芯片制造业务受累于错误决策，包括反对使用 ASML 的极紫外 (EUV) 光刻机。ASML 的机器每台高达 1.5 亿美元，但物有所值。基辛格称，部分由于这些错误，该公司将三成左右的晶圆外包给台积电等公司。随着英特尔淘汰旧机器，转向 EUV 光刻机，该公司的芯片将会更多由自己制造。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 将制定月球时间标准]]></title>
+        <id>https://www.solidot.org/story?sid=77771</id>
+        <link href="https://www.solidot.org/story?sid=77771"/>
+        <updated>2024-04-03T08:09:00.000Z</updated>
+        <summary type="html"><![CDATA[美国白宫指示 NASA 等联邦机构在 2026 年底前制定月球时间标准。类似地球使用的协调世界时 (UTC)，月球时间标准被称为协调月球时（Coordinated Lunar Time 或 LTC）。白宫科学技术政策办公室 (OSTP)官员表示，月球时间标准是宇航员、绕月卫星和地球之间安全以及同步通信所必不可少的。根据阿耳忒弥斯（Artemis）登月计划，NASA 计划未来几年内将宇航员送上月球，并建立一个月球基地，为未来火星任务做准备。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[系统桌面清理好助手，仅 35 元酷呆桌面带给你出色体验]]></title>
+        <id>https://www.appinn.com/?p=48069</id>
+        <link href="https://www.appinn.com/coodesker/"/>
+        <updated>2024-04-03T07:32:20.000Z</updated>
+        <summary type="html"><![CDATA[电脑桌面总是一大堆文件、图标，查找起来费时又费神？ 你需要一个专业的桌面清理工具：酷呆桌面，它不仅能将文件、图标自动归类到对应的分区 (软件内称之为盒子)，并支持设定个性化规则。 最近我们的朋友数码荔]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stability AI 据报资金耗尽]]></title>
+        <id>https://www.solidot.org/story?sid=77770</id>
+        <link href="https://www.solidot.org/story?sid=77770"/>
+        <updated>2024-04-03T07:13:06.000Z</updated>
+        <summary type="html"><![CDATA[AI 创业公司、开源文本图像模型 Stable Diffusion 的开发商 Stability AI 据报道资金耗尽，无法支付训练大模型所需的 GPU 集群费用。截至去年 10 月该公司只剩下 400 万美元的储备金。Stability 从亚马逊 AWS、Google Cloud Platform 和以 GPU 为中心的云运营商 CoreWeave 租用了计算基础设施，每年费用约 9900 万美元。此外工资和运营费用还需要 5400 万美元。而它在 2023 年估计的收入只有 1100 万美元。它拖欠了 AWS、Google 和 CoreWeave 千万美元的账单。Stability AI 的筹款也不成功，英特尔承诺投资 5000 万美元，但已支付的金额只有 2000 万美元。公司 CEO Emad Mostaque 上月底在社交媒体上披露他已经辞职，首席运营官 Shan Shan Wong 和首席技术官 Christian Laforte 担任临时的联席 CEO。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastodon 用户现在可以关注 Threads 上的美国总统账号]]></title>
+        <id>https://www.solidot.org/story?sid=77769</id>
+        <link href="https://www.solidot.org/story?sid=77769"/>
+        <updated>2024-04-03T04:52:53.000Z</updated>
+        <summary type="html"><![CDATA[美国总统拜登（Joe Biden）在 Meta 旗下的微博客平台 Threads 开设有账号，目前积累了逾 276 万粉丝。Threads 正在向美国、加拿大和日本用户推送 ActivityPub 整合，允许联邦宇宙平台如 Mastodon 的用户关注这些地区的 Threads 账号，但只能关注还无法实现双向互动。Mastodon 用户现在可以在搜索框输入 @potus@threads.net 关注该账号。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求 iPhone 间隔拍照应用（非延时，每隔5秒拍一张照片）｜极影相机]]></title>
+        <id>https://www.appinn.com/?p=48065</id>
+        <link href="https://www.appinn.com/time-delayed-photography/"/>
+        <updated>2024-04-03T04:36:40.000Z</updated>
+        <summary type="html"><![CDATA[这类问题见过很多次了，这次是微博的同学提问：求推荐在IOS平台，能做间隔（非延时）拍摄的相机应用。 这个描述里的括号，点题了。之前问题频道也有个类似的问题：求一个 iphone 自动定时拍照 app]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来 30 年日本总人口的十分之一预计将是外国人]]></title>
+        <id>https://www.solidot.org/story?sid=77768</id>
+        <link href="https://www.solidot.org/story?sid=77768"/>
+        <updated>2024-04-03T04:09:24.000Z</updated>
+        <summary type="html"><![CDATA[日本出入国在留管理厅统计显示，截至 2023 年 9 月的 1 年内日本“净入境”人数为 24 万人，这一数字是早先政府预测值的 1.5 倍。目前在日本的外国人有 322 万人，占日本总人口的 2% 以上。如果净入境人数超过 25 万，到 2050 年前后外国人将超过 1000 万人，占日本总人口的 1 成。在日外国人中，中国最多 78.8 万，越南 52 万，印尼人 12.2 万，缅甸人 7 万人，尼泊尔人 15.6 万。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾花莲附近海域发生 7.2 级地震]]></title>
+        <id>https://www.solidot.org/story?sid=77767</id>
+        <link href="https://www.solidot.org/story?sid=77767"/>
+        <updated>2024-04-03T03:54:46.000Z</updated>
+        <summary type="html"><![CDATA[台湾花莲县附近海域 4 月 3 日上午 7:58 发生强地震，台湾中央气象署地震观测网称震级为 7.2 级，大陆地震网报告是 7.5 级，美国地质勘探局（USGS）报告是 7.4 级，日本报告为 7.7 级，已观察到 30 厘米高的海啸。这起地震是 1999 年 921 大地震后台湾遭遇的规模最大的地震，其震央距离花莲县 25 公里，震源深度 15.5 公里。之后又发生多起余震，其中震级最大的有 6.5 级。地震发生之后，Netblocks 监测到由于地震导致断电所引起的短暂网络中断，台积电在短暂疏散人员之后恢复工作，但建筑场地仍然停工，等待检查。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xz/liblzma 后门是开源核弹亦或 systemd 之锅？没那么糟糕！]]></title>
         <id>https://www.solidot.org/story?sid=77766</id>
@@ -124,6 +244,16 @@
         <summary type="html"><![CDATA[OpenAI 宣布其 AI 聊天机器人 ChatGPT 将对所有用户开放，无需登录就可以使用。代价是匿名用户的所有聊天纪录将会进入 OpenAI 的训练数据库，注册用户则可以选择退出。该功能将逐步推送给所有地区的用户，因此可能会有部分地区的用户仍然需要登陆才能使用。免费用户只能使用 GPT-3.5 模型，使用 OpenAI 最新的 ChatGPT 4  模型仍然需要付费订阅。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 不再需要注册，即开即用直接使用 GPT-3.5]]></title>
+        <id>https://www.appinn.com/?p=48061</id>
+        <link href="https://www.appinn.com/use-chatgpt-directly/"/>
+        <updated>2024-04-02T05:29:23.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT 最近更新之后，无需注册账号，即开即用直接使用 GPT-3.5。@Appinn 目前的网页版 ChatGPT：https://chat.openai.com 已经不再需要注册。 打开后直]]></summary>
+        <author>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
@@ -973,117 +1103,6 @@ Hate。该组织称 X 平台上仇恨言论泛滥。在诉讼中，X 指控该�
         <summary type="html"><![CDATA[1999 年 3 月 24 上映的《黑客帝国》讲述了未来被机器统治的时代，人类被作为能量来源困在缸内，生活在被称为矩阵的虚拟世界里。25 年之后，随着智能手机和社交媒体的兴起，从某种程度上说，今天的人类也更多生活在虚拟世界里。人类的生活变得更好了，但孤独和抑郁席卷整个社会这一趋势表明，很多人都隔离在自己制造的“缸”中。对现代数字洞穴居民而言，重返光明并不需要服用药丸，也不需要被哲学家拯救，只需要偶尔远离电子设备。25 年前，《黑客帝国》提供了对“柏拉图的洞穴”的现代诠释。今天我们再次扪心自问，如何摆脱孤独黑暗的禁锢，看见真实世界里其他人类灵魂的光辉。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟根据新的数字竞争法律对苹果、Meta 和 Google 展开调查]]></title>
-        <id>https://www.solidot.org/story?sid=77690</id>
-        <link href="https://www.solidot.org/story?sid=77690"/>
-        <updated>2024-03-25T13:52:27.000Z</updated>
-        <summary type="html"><![CDATA[欧盟周一宣布根据 3 月 7 日生效的新数字竞争法 Digital Markets Act（DMA）对苹果、Meta 和 Google 展开调查。根据新的规则，被欧盟称为“守门人”的世界最大的六家科技公司被要求提供证据，证明它们没有损害竞争。欧盟表示，如果它的调查得出结论它们没有完全遵守 DMA，守门人将可能面临巨额罚款。DMA 制定的最高罚款金额是其全球收入的 10%，如果反复违规罚款比例将会进一步提高到全球收入的 20%。苹果位于欧盟调查的中心，欧盟竞争专员 Margrethe Vestager 表示正式调查将集中在两个方面：苹果对尝试从 App Store 链接到官网的开发商施加的限制，以及苹果对第三方替代默认应用如 Photos 或 iCloud 所施加的难度。她说，守门人有义务实现应用的轻松卸载和默认设置的轻松更改。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度据报道将为国行 iPhone16 提供 AI 功能]]></title>
-        <id>https://www.solidot.org/story?sid=77689</id>
-        <link href="https://www.solidot.org/story?sid=77689"/>
-        <updated>2024-03-25T11:02:47.000Z</updated>
-        <summary type="html"><![CDATA[记者从知情人士处了解到，百度将为苹果今年发布的 iPhone16、Mac 系统和 iOS18 提供 AI 功能。百度不是唯一一家与苹果洽谈合作的企业。苹果曾与阿里以及另外一家清华系国产大模型公司进行过洽谈，最后确定由百度提供这项服务。苹果预计采取 API 接口的方式计费。苹果将国行iPhone 等设备采用国产大模型 AI 功能主要出于合规需求，该公司短期内还无法解决合规问题，但海外版 iPhone 等设备 AI 功能均来自苹果自己的大模型。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游戏配音演员因 AI 声音考虑罢工]]></title>
-        <id>https://www.solidot.org/story?sid=77688</id>
-        <link href="https://www.solidot.org/story?sid=77688"/>
-        <updated>2024-03-25T09:58:41.000Z</updated>
-        <summary type="html"><![CDATA[好莱坞正准备迎接另一场演员罢工，这次针对的是游戏业。代表逾十万演员的工会组织 SAG-AFTRA 表示正与主要游戏公司谈论，核心问题是 AI。部分游戏工作室已经为节省资金开始用 AI 生成声音。配音演员们都对此感到担忧。生成式 AI 可以在三秒内高效克隆声音。 配音演员们的罢工可能会影响微软旗下的动视暴雪、迪士尼、EA、
-Epic Games 和华纳兄弟等主要游戏发行商。去年 SAG-AFTRA 针对好莱坞电影公司进行了 118 天的罢工，达成新的合同。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PairDrop – 开源跨设备文件传输工具，替代 SnapDrop[在线工具]]]></title>
-        <id>https://www.appinn.com/?p=47991</id>
-        <link href="https://www.appinn.com/pairdrop/"/>
-        <updated>2024-03-25T09:20:27.000Z</updated>
-        <summary type="html"><![CDATA[PairDrop 是一款开源的跨设备文件传输工具，非常适合在陌生设备之间使用浏览器传输文件，无需安装任何应用，即开即用。用来替代不再更新的 SnapDrop。@Appinn 说起来，青小蛙使用 Sna]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国黑客组织会在入侵植入后门后给漏洞打补丁]]></title>
-        <id>https://www.solidot.org/story?sid=77687</id>
-        <link href="https://www.solidot.org/story?sid=77687"/>
-        <updated>2024-03-25T08:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Google 旗下的安全公司 Mandiant 发表报告认为，黑客组织 UNC5174 是 F5 BIG-IP Traffic Management User Interface 远程代码执行漏洞 CVE-2023-46747 和 ConnectWise ScreenConnect 路径遍历漏洞 CVE-2024-1709 的幕后黑手，这两个漏洞的危险评分分别高达 9.8/10 和 10/10。攻击者在获得受害者组织的初步网络访问权限之后，会选择高价值的目标出售。最奇怪的事情是，在被感染的系统中创建后门之后他们会给被利用的漏洞打上补丁。此举可能是防止其他黑客组织利用相同的漏洞入侵系统。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加州大学研究出基于植物的完全可降解塑料]]></title>
-        <id>https://www.solidot.org/story?sid=77686</id>
-        <link href="https://www.solidot.org/story?sid=77686"/>
-        <updated>2024-03-25T07:53:50.000Z</updated>
-        <summary type="html"><![CDATA[加州大学圣迭戈的研究人员与 Algenesis 公司合作研制出基于植物的完全可降解聚合物，能在不到 7 个月内完全生物降解。研究报告发表在《Scientific Reports》期刊上。塑料垃圾和微塑料是今天面临的一大难题，研究人员一直努力在寻找替代，确保替代材料在寿命结束时能生物降解，不会在环境中聚集。研究人员表示他们发明的材料是第一种在使用时完全不会产生微塑料的塑料。Algenesis 正在与多家公司合作，生产这种基于植物的聚合物产品。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狗理解单词所代表的物体]]></title>
-        <id>https://www.solidot.org/story?sid=77685</id>
-        <link href="https://www.solidot.org/story?sid=77685"/>
-        <updated>2024-03-25T06:34:51.000Z</updated>
-        <summary type="html"><![CDATA[狗是否理解单词所代表的物体？为了探索这个问题，匈牙利罗兰大学 Marianna Boros 团队测试了边境牧羊犬、玩具贵宾犬和拉布拉多犬等品种的 18 只狗。狗的主人为每只狗挑选了五种熟悉的物品。在测试中，主人说出一个物体的名称，然后向狗展示对应的物体或不同的物体。研究人员通过脑电图（EEG）监测每只狗的脑电波，看看当狗的主人说“球”，但显示出一根棍子时，与单词和物体相同时相比，狗的反应是否有差异。Boros 说：“这个想法是，如果狗理解单词的含义，它们的大脑反应会因匹配和不匹配物体的表现而不同。”研究人员发现，当物体与单词不匹配时，脑电图信号会有所不同，而且对个别狗熟悉的单词的影响更强烈。这与在人类身上看到的结果相似，表明狗明白某些单词代表某些物体。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub 推出代码自动修复工具]]></title>
-        <id>https://www.solidot.org/story?sid=77684</id>
-        <link href="https://www.solidot.org/story?sid=77684"/>
-        <updated>2024-03-25T05:47:55.000Z</updated>
-        <summary type="html"><![CDATA[GitHub 推出了代码自动修复工具 Code Scanning Autofix。该功能目前处于公测阶段，提供给 GitHub Advanced Security 客户，在其私有库上自动启用，能帮助处理 JavaScript、Typescript、Java 和 Python 中逾九成的警告类型。GitHub 称该功能在不怎么需要开发者编程的情况下修复逾三分之二发现的漏洞。GitHub 称，对于支持的语言中发现的漏洞，修复建议将包括建议修复的自然语言解释，以及开发者可接受、编辑或忽略的代码建议预览。软件公司 Functional Software 也推出了自己的 AI 代码自动修复工具。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃茨认为只封杀 TikTok 是虚伪]]></title>
-        <id>https://www.solidot.org/story?sid=77683</id>
-        <link href="https://www.solidot.org/story?sid=77683"/>
-        <updated>2024-03-25T04:27:05.000Z</updated>
-        <summary type="html"><![CDATA[苹果联合创始人沃茨（Steve Wozniak）接受 CNN 采访谈论了苹果的“围墙花园”策略和美国国会试图强迫字节跳动出售短视频应用 TikTok。沃茨称，苹果在保护用户隐私和安全方面强于其它公司，苹果系统没有受到太多的黑客攻击。他说，无论是 TikTok 还是 Facebook 和 Google，跟踪用户都是它们商业模式的一部分，苹果没有这么做，相比下苹果是“好人”。对于美国国会试图封锁 TikTok，沃茨表示不解，称作为一个尽量避开社交网络的人他从 TikTok 上获得了很多娱乐，中国人跟踪美国人还是从美国人身上学的。如果你的原则是一个人不应该在不知情下被跟踪，那么你应该将这一原则应用到所有公司和国家。只取缔 TikTok 非常虚伪。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多邻国上线 DIY 虚拟头像制作功能：捏脸]]></title>
-        <id>https://www.appinn.com/?p=47985</id>
-        <link href="https://www.appinn.com/duolingo-create-avatar/"/>
-        <updated>2024-03-24T13:04:39.000Z</updated>
-        <summary type="html"><![CDATA[这个宇宙最喜欢催用户学习的应用多邻国昨天上线了一个新功能：DIY 头像制作，再也不用对着彩底字母或文字画风的单调头像了。@Appinn 来自多邻国公众号的消息：多邻国「捏脸」功能上线！快来DIY专属头]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想找一个带提醒功能，记录日常生活消耗品的工具｜电动牙刷头、净水器滤芯、汽车机油等]]></title>
-        <id>https://www.appinn.com/?p=47982</id>
-        <link href="https://www.appinn.com/how-to-log-daily-consumables-with-reminder/"/>
-        <updated>2024-03-24T12:04:05.000Z</updated>
-        <summary type="html"><![CDATA[现在日常生活中需要定期更换的耗品越来越多：电动牙刷头、净水器滤芯、空气净化器滤芯等等，单靠人脑已经记不过来了，所以我想找一个大概是这样的工具（iOS或Android都行，最好是iOS）： 来自问题求助]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
