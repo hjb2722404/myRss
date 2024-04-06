@@ -130,36 +130,6 @@
           "wordCount": 2695,
           "title": "Free Control – 基于 Scrcpy，使用 Windows 控制安卓手机",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-28T163344.096.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48013",
-          "author": "青小蛙",
-          "description": "假装 Windows 升级界面是一个莫名其妙的网站，你可以在里面观看从 Windows 98、XP、Vista，到 Windows 10/11 的系统升级界面动画，如果全屏食用的话，还可以假装自己在升",
-          "link": "https://www.appinn.com/fakeupdate/",
-          "publishedOn": "2024-03-27T09:17:23.000Z",
-          "wordCount": 2732,
-          "title": "假装 Windows 升级界面｜还有 macOS、Android、iOS 升级界面…",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T171116.964.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47999",
-          "author": "青小蛙",
-          "description": "论文写作是一项既重要又具挑战性的任务。对于忙碌的大学生、研究生以及各学科领域的研究人员来说，面对繁杂的研究主题和严格的格式要求时，常常感到不知所措。 此时，笔灵AI论文写作作为一个能够简化论文写作流程",
-          "link": "https://www.appinn.com/ibiling-ai-paper/",
-          "publishedOn": "2024-03-27T07:59:32.000Z",
-          "wordCount": 2524,
-          "title": "AI三步生成万字论文，提供免费论文大纲！",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/ibiling.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=47998",
-          "author": "青小蛙",
-          "description": "在今天早上 Chrome 的产品博客中提到：他们针对搭载高通骁龙（Snapdragon）处理器的 Windows PC 电脑推出了一个优化版本的 Chrome ，这可以使浏览网页的操作更快、更流畅。将",
-          "link": "https://www.appinn.com/chrome-arm-version-for-snapdragon-x-elite/",
-          "publishedOn": "2024-03-27T07:57:39.000Z",
-          "wordCount": 2577,
-          "title": "Chrome 将在本周推出兼容 Arm 处理器的 Windows 版本",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-27T154423.012.jpg"
         }
       ]
     },
@@ -168,6 +138,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=377702",
+          "author": "Chris DeMars",
+          "description": "This is going to be the 2nd post in a small series we are doing on form accessibility. If you missed the first post, check out Accessible Forms with Pseudo Classes. In this post we are going to look …\nManaging User Focus with :focus-visible originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/managing-user-focus-with-focus-visible/",
+          "publishedOn": "2024-04-05T22:13:47.000Z",
+          "wordCount": 1998,
+          "title": "Managing User Focus with :focus-visible",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/377702"
+        },
         {
           "id": "https://css-tricks.com/?p=377635",
           "author": "Chris DeMars",
@@ -219,6 +199,16 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77780",
+          "author": null,
+          "description": "在 Redis 切换到商业使用需获得授权的新许可证之后，社区立即推出了多个分支，包括 Linux 基金会宣布的 Valkey，以及刚刚发布第一个稳定版本的 Redict。Redict 开发者表示他们的重心是稳定性和长期的可维护，这区别于 Valkey。Valkey 得到了商业公司的支持，因此能投入更多资源开发更激进的创新。而 Redict 对创新更为保守，追求长期稳定性而不是长期增长，这对现有用户更有价值。",
+          "link": "https://www.solidot.org/story?sid=77780",
+          "publishedOn": "2024-04-04T15:26:37.000Z",
+          "wordCount": 175,
+          "title": "Redict 7.3.0 释出",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77779",
           "author": null,
@@ -868,136 +858,6 @@
           "wordCount": 197,
           "title": "阿联酋航空 CEO 认为波音新 CEO 必须有工程背景",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77714",
-          "author": null,
-          "description": "根据发表在《JAMA Neurology》期刊上的一项研究，对逾 3000 名年龄在 55-65 岁之间的美国人大脑成像的分析发现，1970 年代出生的人的大脑总容量比 1930 年代出生的人大 6.6%。相比沉默的一代，X 一代大脑的白质容量增加近 8%，灰质表面积增加近 15%，海马体增加近 5.7%。即使考虑了身高、年龄和性别等因素，情况还是如此。研究人员表示，遗传学在决定大脑大小上发挥重要作用，但他们的研究结果表明，外部影响——健康、社会、文化和教育因素——也可能发挥作用。研究人员不只是对比了 1970 年代和 1930 年代，还对 1145 名出生于 1940 年代和 1950 年代的人重复了研究。结果再次表示大脑容量随着一代代在稳定增长。",
-          "link": "https://www.solidot.org/story?sid=77714",
-          "publishedOn": "2024-03-27T13:32:45.000Z",
-          "wordCount": 180,
-          "title": "年轻一代的大脑在变大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77713",
-          "author": null,
-          "description": "WikiLeaks 创始人阿桑奇（Julian Assange避免被引渡到美国面对间谍和黑客指控的努力获得喘息空间，英格兰高等法院要求美国就未来如何对待他提供保证。在周二的裁决中，法院给美国三周时间做出承诺：阿桑奇将在审判中得到与美国公民相同的对待，不会被判处死刑，并且能够依赖美国宪法第一修正案的言论自由保护。如果美国不提供所要求的保证，阿桑奇将允许继续上诉。下一次听证会将在 5 月 20 日举行，届时将对阿桑奇的上诉能力做出最终决定。美国政府表示，阿桑奇律师声称他可能在美国面临最高 175 年刑期，这严重夸大其词。",
-          "link": "https://www.solidot.org/story?sid=77713",
-          "publishedOn": "2024-03-27T12:56:07.000Z",
-          "wordCount": 165,
-          "title": "英国要求美国保证阿桑奇不会被判死刑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77712",
-          "author": null,
-          "description": "Google Play 官方应用商店有逾 15 款免费 VPN 应用被发现使用恶意 SDK 将 Android 设备变成住宅代理服务器，可被用于隐藏恶意活动。用户可选择自愿注册住宅代理获取收入等回报，但有部分 Android 设备是在不知情下被秘密安装了住宅代理。安全公司 HUMAN 的 Satori 团队发布报告，列出了 Google Play 上 28 个秘密将 Android 设备变成代理服务器的应用。28 个应用有 17 个冒充为免费 VPN，其中包括 Lite VPN、Byte Blade VPN、Fast Fly VPN、Fast Fox VPN、Fast Line VPN、Oko VPN、Swift Shield VPN、Turbo Track VPN、VPN Ultra 等等。",
-          "link": "https://www.solidot.org/story?sid=77712",
-          "publishedOn": "2024-03-27T10:37:41.000Z",
-          "wordCount": 224,
-          "title": "Google Play 上的免费 VPN 将 Android 手机变成代理服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77711",
-          "author": null,
-          "description": "手势在人类交流中无处不在，例如指出物体或传达信息，这种手势信号也会在大猩猩中发现。目前，已经有很多研究围绕大猩猩手势信号方面进行了探索，但很少有研究关注其他动物群体，尚不清楚非灵长类动物是否可以使用象征性的手势。日本东京大学动物语言学副教授 Toshitaka Suzuki通过研究首次证明鸟类可以利用翅膀做动作来传达特定的含义。研究报告发表于《当代生物学》。Suzuki 和同事用了几年时间在一片生长着日本山雀的森林里安装了数百个鸟巢箱。为了模仿山雀通常居住的树洞，每个鸟巢箱都有一个 7.5 厘米宽的洞，刚好够一只鸟通过。在繁殖季节，研究小组观察到了 8 对山雀的 321 次回巢情况，山雀经常带着食物来喂养它们的幼崽。如果一对山雀一起到达巢穴，每只山雀在进入之前都会栖息在附近的树枝上。大约 40% 的时间里，雌性山雀会拍打翅膀几秒钟，胸部面向雄性山雀。紧接着雄性山雀先进入鸟巢，雌性山雀随后再进去。当这两只鸟都不扇动翅膀时（占回巢次数的 44%），雌性山雀通常会先进入鸟巢。研究人员只观察到一只雄性山雀反复扇动翅膀，然后雌性山雀率先进入鸟巢的情况。当每只鸟分别到达时，研究人员完全没有观察到扇动翅膀的情况。",
-          "link": "https://www.solidot.org/story?sid=77711",
-          "publishedOn": "2024-03-27T10:00:13.000Z",
-          "wordCount": 170,
-          "title": "鸟类能利用翅膀做动作传达特定含义",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77710",
-          "author": null,
-          "description": "英国科学和技术设施委员会（Science and Technology Facilities Council）选择联想公司建造一台 44.7 Petaflops 液冷超算。该超算将安装在该机构位于 Daresbury 的 Hartree Center，距离利物浦半小时车程。新系统比该机构现有的 Scafell Pike 系统强大十倍，因采用联想的直接温水冷却系统，所需要的能源更少。联想称新超算基于 GPU，但没有披露更多细节。联想在 2022 年超算会议上展示的 1U Neptune 由双 AMD Genoa CPU 和四个 Nvidia H100 GPU 组成。",
-          "link": "https://www.solidot.org/story?sid=77710",
-          "publishedOn": "2024-03-27T09:50:15.000Z",
-          "wordCount": 196,
-          "title": "联想为英国造 44.7 Petaflops 超算",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77709",
-          "author": null,
-          "description": "去年八月，当斯威夫特 (Taylor Swift)在洛杉矶 SoFi 体育场举行演唱会时，地震站纪录到了一系列被称为“音乐会震动”的独特谐和振动。而之前在西雅图也发生了类似的“斯威夫特地震”。这促使加州理工和 UCLA 的研究人员对斯威夫特演唱会期间的地震数据展开分析。研究人员的结论是，振动主要是由人群运动产生的，斯威夫特的粉丝们会狂热的跟着这位歌星跳跃和跳舞。音乐会震动类似火山或火车产生的信号，其谐波频率峰值在 1-10 Hz 之间。音乐会前科学家在整个体育场放置了额外的运动传感器，使他们能分析音乐会期间产生的所有地震信号的特征。他们能根据每首歌的独特信号识别出斯威夫特演唱的 45 首歌曲中的 43 首，还能计算出每首歌产生了多少辐射能量。其中《Shake It Off》产生的辐射能量最大，相当于 0.851 级地震。",
-          "link": "https://www.solidot.org/story?sid=77709",
-          "publishedOn": "2024-03-27T09:32:57.000Z",
-          "wordCount": 174,
-          "title": "科学家研究斯威夫特地震",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77708",
-          "author": null,
-          "description": "安全公司 Lumen Labs 披露，约 4 万个家用和办公室路由器被纳入 TheMoon 僵尸网络，在用户不知情下被用于注册 Faceless 代理服务，该服务旨在匿名化网络罪犯的非法在线活动，因此主要在网络犯罪论坛上出售。TheMoon 的历史可追溯到 2014 年，早期只感染 Linksys E1000 系列路由器，最近扩大到华硕 WRT, Vivotek Network Cameras 和 D-Link。安全研究人员报告，TheMoon 本月初在 72 小时内增加了 6 千台华硕路由器，显示了它的活跃度和强大。",
-          "link": "https://www.solidot.org/story?sid=77708",
-          "publishedOn": "2024-03-27T08:19:37.000Z",
-          "wordCount": 183,
-          "title": "数以千计的路由器变成匿名在线活动的代理服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77707",
-          "author": null,
-          "description": "佛罗里达成为美国第一个禁止 14 岁以下儿童未经父母许可使用社交媒体的州。但在正式生效前它预计将会面临法律上的挑战。根据 HB 3 法案，Instagram、Snapchat 或 TikTok 等应用需要验证用户年龄，删除所有未经父母同意创建的 14 岁以下用户帐户。明知故犯的企业将面临向任何代表儿童用户提起诉讼的人支付最高 1 万美元罚款，它们还可能每次违规面临最高 5 万美元民事处罚。验证用户年龄意味着需要向在线服务交出个人身份，反对者认为这意味着互联网匿名的终结。",
-          "link": "https://www.solidot.org/story?sid=77707",
-          "publishedOn": "2024-03-27T07:20:29.000Z",
-          "wordCount": 178,
-          "title": "佛罗里达州禁止 14 岁以下儿童未经父母许可使用社媒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77706",
-          "author": null,
-          "description": "根据美国唱片业组织 RIAA 的数据，黑胶唱片销量连续第二年超过 CD。黑胶唱片的复兴已经持续了数年，主要推动因素其一是认为黑胶唱片的音质更好其二是年轻一代的怀旧。持续的需求将唱片制作很大程度上变成了手工业，买家想要各种新奇的黑胶唱片，五颜六色的、香味的、夜光的，诸如此类，这些都增加了黑胶唱片的魅力。2023 年大约售出了 4300 万张黑胶唱片，比 CD 销量高出 600 万张。因为价格更贵，黑胶唱片收入为 14 亿美元，而 CD 只有 5.37 亿美元。CD 的单价有所增加，收入略有增长，但购买数量比前一年减少了约 70 万张。去年还售出近 50 万盒磁带。",
-          "link": "https://www.solidot.org/story?sid=77706",
-          "publishedOn": "2024-03-27T06:43:12.000Z",
-          "wordCount": 182,
-          "title": "黑胶唱片连续第二年销量超过 CD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77705",
-          "author": null,
-          "description": "WeWork 创始人 Adam Neumann 报价 5 亿美元收购去年 11 月申请破产保护的灵活办公创业公司。WeWork 面临着过度扩张的后果，拥有大量无法盈利的办公地点。新冠疫情期间，市场对工位的需求下降，空置率上升，其业务随之急转直下，而 WeWork 仍需向房东支付数以十亿美元计的租金。截至去年 6 月，WeWork 的亏损总额约为 160 亿美元，该公司在过去 10 年里从主要投资方和贷款方那里筹集的资金已全部消耗殆尽。Adam Neumann  是在 2019 年因一系列丑闻而被迫离开他创办的 WeWork。他融资状况的不确定性、以及过去在该公司的纪录，可能会削弱 WeWork 对其报价的接受度。",
-          "link": "https://www.solidot.org/story?sid=77705",
-          "publishedOn": "2024-03-27T06:25:05.000Z",
-          "wordCount": 196,
-          "title": "WeWork 创始人报价 5 亿美元收购该公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77704",
-          "author": null,
-          "description": "英国国家电网 CEO John Pettigrew 周二表示，AI 的蓬勃发展需要更多算力，未来十年英国数据中心的电力需求将增长六倍。这将加大电网的压力。他表示，AI 个量子计算等基础技术未来的增长将意味着更大规模、能源密集型的计算基础设施。其他国家面临相同的情况。国际能源署预测，未来三年，数据中心、AI 和加密货币的全球电力需求可能会增加一倍以上。",
-          "link": "https://www.solidot.org/story?sid=77704",
-          "publishedOn": "2024-03-27T05:57:44.000Z",
-          "wordCount": 180,
-          "title": "英国国家电网 CEO 称 AI 热下数据中心的电力需求将增长六倍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77703",
-          "author": null,
-          "description": "Google 正式发布了 Chrome for Windows on Arm。相比基于 x86 的 Windows，Windows on Arm 是一个规模较小但逐渐发展的平台，采用高通 Snapdragon X Elite SoC 的 Windows 笔记本电脑将在年中发布，高通公司声称处理器的性能与苹果的 Apple Silicon 处于同一水平。作为最流行的浏览器，原生支持 Windows on Arm 的 Chrome 对高通有重要意义。高通也在同一时间对此发布了它的新闻稿。Windows 上的 x86 软件如果没有 Arm 原生版本，那么将需要通过一个翻译层才能运行，这预计会对性能有影响。",
-          "link": "https://www.solidot.org/story?sid=77703",
-          "publishedOn": "2024-03-27T05:31:44.000Z",
-          "wordCount": 214,
-          "title": "Google 发布 Chrome for Windows on Arm",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77702",
-          "author": null,
-          "description": "研究人员披露了针对 AMD Zen 2 和 Zen 3 平台的 RowHammer 比特翻转攻击 ZenHammer。RowHammer 攻击指的是应用反复访问 DDR 内存芯片的特定区域导致比特翻转。比特翻转（Bitflips）是指储存在电子设备上的个别比特发生翻转的事件，比如从 0 变为 1 或反之亦然。研究人员表示，尽管部署了缓解措施，他们仍然能针对 Zen 2 和 Zen 3 系统上的 DDR4 触发 Rowhammer 比特翻转。研究人员还使用 ZenHammer 攻击首次演示了对 DDR5 的  RowHammer 比特翻转。研究人员认为 Error Correction Codes(ECC)内存无法提供对 RowHammer 攻击的完整防御，只是增加了利用难度。研究人员在 2024 年 2 月 26 日通知了 AMD，应其要求到 2024 年 3 月 25 日才公开披露该漏洞。",
-          "link": "https://www.solidot.org/story?sid=77702",
-          "publishedOn": "2024-03-26T15:10:27.000Z",
-          "wordCount": 228,
-          "title": "对 AMD Zen 系列平台的 RowHammer 比特翻转攻击",
-          "imageUrl": null
         }
       ]
     },
@@ -1095,26 +955,6 @@
           "publishedOn": "2024-03-28T11:53:00.000Z",
           "wordCount": 1144,
           "title": "What is an OSINT Browser? (And How To Get One)",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/what-is-a-vnc-browser",
-          "author": null,
-          "description": "TLDR:  You can instantly access a VNC browser via browserling.com/browse. Developed by me and my team, we installed all versions of Chrome, Firefox, Safari, and other browsers in the cloud, together with VNC server software, and we stream just the browser windows to you, ensuring secure and private web browsing experience.\nVNC Browser – What Is It?\nA VNC browser is a web browser that is hosted on a remote server and is accessed over the Internet through the VNC protocol. This setup allows users to interact with the remote browser in real-time, offering a secure and isolated browsing experience that runs independently of the user's local environment.\nVNC Browser – How Does It Work?\nA VNC browser operates by starting a web browser on a cloud server, alongside with VNC server software to allo…",
-          "link": "https://catonmat.net/what-is-a-vnc-browser",
-          "publishedOn": "2024-03-27T11:45:00.000Z",
-          "wordCount": 1094,
-          "title": "What is a VNC Browser? (And How To Get One)",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/how-to-open-links-in-a-sandbox",
-          "author": null,
-          "description": "TLDR: Simply visit browserling.com/browse and you'll get an online link sandbox. My team and I run virtualized browsers in the cloud, providing you with a safe, isolated environment to test and interact with websites or examine potentially dangerous links without risking your own system's security.\nWhat Is a Link Sandbox?\nA link sandbox is a cybersecurity mechanism designed to safely inspect web links, documents, files, and other potentially unsafe content without risking the integrity of the primary system or network. It operates by creating an isolated environment, often referred to as a \"sandbox\" where the accessed links can be closely monitored and analyzed without allowing any malicious activities to affect the user's system or data. A link sandbox is particularly valuable for examini…",
-          "link": "https://catonmat.net/how-to-open-links-in-a-sandbox",
-          "publishedOn": "2024-03-26T18:55:00.000Z",
-          "wordCount": 686,
-          "title": "How to Open Links in a Sandbox",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
