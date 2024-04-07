@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=48086",
+          "author": "青小蛙",
+          "description": "PowerToys 在两日前进入了 v0.80.0 发布周期，将着重解决稳定性、改进和新功能。目前的速览已经支持预览 WebP/WebM 格式，以及对音频的预览支持。@Appinn Microsoft",
+          "link": "https://www.appinn.com/powertoys-v0-80-0/",
+          "publishedOn": "2024-04-06T07:31:38.000Z",
+          "wordCount": 2632,
+          "title": "PowerToys v0.80.0 发布，速览新增 WebP/WebM 格式支持，现在也可以预览音频文件了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-06T143436.554.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48081",
           "author": "青小蛙",
           "description": "VxKex 可以让你的 Windows 7 系统焕发第二春，它能让那些只能在 Windows 8、8.1 和 10 上运行的应用程序也能在 Windows 7 上运行。@Appinn 感谢 @shad",
@@ -120,16 +130,6 @@
           "wordCount": 2762,
           "title": "微软即将删除 E3 订阅？来数码荔枝优惠 Microsoft 365 拼车",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-29T113847.909.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48017",
-          "author": "青小蛙",
-          "description": "Free Control 是一款开源的 Windows 程序，它可以通过 Windows 来控制安卓手机，支持使用 adb 进行 Wi-Fi 连接控制。充电时支持唤醒，简单易用。@Appinn Scr",
-          "link": "https://www.appinn.com/free-control-for-android/",
-          "publishedOn": "2024-03-28T08:44:50.000Z",
-          "wordCount": 2695,
-          "title": "Free Control – 基于 Scrcpy，使用 Windows 控制安卓手机",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/03/Appinn-feature-images-2024-03-28T163344.096.jpg"
         }
       ]
     },
@@ -199,6 +199,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77789",
+          "author": null,
+          "description": "微软预计将在今年下半年推出的 Windows 11 24H2 被发现屏蔽了第三方自定义用户界面（UI）工具。调整任务栏和开始菜单的流行工具 StartAllBack 以及将 Windows 10 任务栏带到 Windows 11 的工具 ExplorerPatcher 都无法运行。微软以性能或安全的理由将这些工具标记为不兼容。但用户简单的更改下可执行文件的名字就可以绕过微软的屏蔽。",
+          "link": "https://www.solidot.org/story?sid=77789",
+          "publishedOn": "2024-04-06T15:32:42.000Z",
+          "wordCount": 195,
+          "title": "微软 Windows 11 24H2 屏蔽第三方 UI 自定义工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77788",
+          "author": null,
+          "description": "开源媒体中心项目 Kodi 释出了代号为 Omega 的 v21.0 版本。主要变化包括：支持 FFmpeg 6.0，支持 NFSv4，支持读写 M3U8 播放列表，支持 AVIF 图像，改进 Linux 平台的 AudioEngine，Linux 平台支持透传格式如 DTS-HD 和 TrueHD，等等。其它还有改进 VAAPI VP9 Profile 2 回放支持，改进 PipeWire 支持，改进 Android 平台的杜比全景声检测等等。更多信息可浏览 GitHub 上的发布公告。",
+          "link": "https://www.solidot.org/story?sid=77788",
+          "publishedOn": "2024-04-06T15:10:49.000Z",
+          "wordCount": 200,
+          "title": "Kodi 21.0 “Omega” 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77787",
+          "author": null,
+          "description": "4 月 8 日 UTC 18:17 左右北美洲地区居民将能观赏到日食，位于墨西哥、美国和加拿大地区的部分居民将能观赏到日全食，其中美国有大约 3000 万居民生活在能观赏日全食的地区。NASA 的公民科学项目 Eclipse Soundscapes 正在招募志愿者收集日全食期间动物行为数据，重复 1935 年 William M. Wheeler 团队在公众帮助下完成的日食如何影响动物和昆虫行为的研究。参与该公民科学项目的志愿者需要使用可纪录手段纪录下当天的经历，以特定格式输入信息以便与项目共享。",
+          "link": "https://www.solidot.org/story?sid=77787",
+          "publishedOn": "2024-04-06T14:59:59.000Z",
+          "wordCount": 196,
+          "title": "NASA 想要知道 4 月 8 日的日全食会如何影响动物",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77786",
+          "author": null,
+          "description": "开源多媒体框架 FFmpeg 释出了代号 Dijkstra 的 v7.0，距离上一个大版本号更新约 1 年 1 个月。主要新变化包括：实验性的原生 VVC 解码器，IAMF 支持，多线程 ffmpeg CLI 工具等。该版本不向后兼容，移除了 6.0 版本前标记为弃用的 API，构建代码将需要 C11 兼容的编译器。本周值得一提与 FFmpeg 项目相关的一件事情是，一位微软开发者报告了一个 bug，希望开发者将其作为高优先级尽快修复，并表示愿意提供一次性的数千美元作为赞助费。FFmpeg 开发者认为如果微软项目依赖于 FFmpeg，那么应该签订一个长期支持合同。其他微软开发者指出，在微软签订合同是相当繁琐的，而微软内部有一个选择开源项目一次性资助数千美元的投票，急于修复代码的微软工程师可能认为后者更方便。",
+          "link": "https://www.solidot.org/story?sid=77786",
+          "publishedOn": "2024-04-06T05:09:40.000Z",
+          "wordCount": 190,
+          "title": "FFmpeg 7.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77785",
+          "author": null,
+          "description": "最近取得重大突破的大模型主要专注于英语，为了弥补中文的差距，中科院深圳先进技术研究院、北大、中科大以及李开复的零一万物等学术机构和企业的研究人员推出了 COIG-CQIA 中文高质量指令微调数据集，旨在为中文自然语言处理社区提供高质量且符合人类交互行为的指令微调数据。COIG-CQIA 的中文语料来自于知乎高赞回答、豆瓣、小红书和以及百度贴吧如弱智吧高赞贴。研究人员使用该数据集对零一万物的 Yi-34B 模型进行微调，结果发现弱智吧的语料表现最出色。研究人员推测可能与弱智吧的内容风格有关，弱智吧的高赞贴通常具有双关、多义等语言特色，可能有助于改进模型的逻辑推理。",
+          "link": "https://www.solidot.org/story?sid=77785",
+          "publishedOn": "2024-04-05T16:46:45.000Z",
+          "wordCount": 162,
+          "title": "研究称百度弱智吧中文训练效果高于知乎豆瓣小红书",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77784",
+          "author": null,
+          "description": "微软正在为 Edge 浏览器开发一项新功能，允许用户限制其消耗的内存。Edge 浏览器测试版本被发现了一个新的设置，用户可通过一个滑块限制 Edge 能访问的内存量。该功能可能主要是针对游戏玩家，因为测试版本的设置允许用户在游戏时限制 Edge 能访问的内存量或在任何时候都限制其内存量。微软警告说，设置一个较低的内存量会影响浏览器速度。",
+          "link": "https://www.solidot.org/story?sid=77784",
+          "publishedOn": "2024-04-05T15:43:47.000Z",
+          "wordCount": 171,
+          "title": "Microsoft Edge 将允许用户控制其消耗的内存",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77783",
+          "author": null,
+          "description": "《矮人要塞（Dwarf Fortress）》的作者 Tarn 和 Zach Adams 兄弟透露，Steam 付费版本至今售出了逾 80 万份拷贝。《矮人要塞》Steam 版本于 2022 年 12 月 6 日发售，第一天售出了逾 16 万份拷贝，年底前售出了 50 万份拷贝，一年三个月后突破 80 万份。《矮人要塞》最初由 Tarn Adams 在 2002 年开发，他的兄弟 Zach Adams 帮助设计和创作了一些基于游戏的故事，此前一直是免费游戏，收入全部来自于捐赠。《矮人要塞》启发了很多游戏，其中最为知名的可能是《Rimworld》。Adams 兄弟表示付费版本的成功令他们感到安心，免除了后顾之忧。游戏将在 4 月 17 日推出备受期待的 RPG/roguelike 模式。",
+          "link": "https://www.solidot.org/story?sid=77783",
+          "publishedOn": "2024-04-05T15:27:02.000Z",
+          "wordCount": 201,
+          "title": "《矮人要塞》售出了逾 80 万份拷贝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77782",
+          "author": null,
+          "description": "在试点成功之后，德国北部州 Schleswig-Holstein（石勒苏益格-荷尔斯泰因）决定将政府机构使用的 3 万台 PC 从 Microsoft Windows 和 Microsoft Office 迁移到 Linux 和 LibreOffice。州政府总理表示该州成为德国第一个引入数字主权 IT 工作场所的州。数字主权是指相对于封闭的私有软件，公共管理部门对开源软件构成的 IT 解决方案有更多的控制权。政府部门可以有更多的选择，可以资助当地的程序员改进开源软件，可以根据需要进行修改以部署在自己的基础设施中。",
+          "link": "https://www.solidot.org/story?sid=77782",
+          "publishedOn": "2024-04-05T14:53:24.000Z",
+          "wordCount": 219,
+          "title": "德国 Schleswig-Holstein 州将 3 万台 PC 从 Windows 迁移到 Linux 和 LibreOffice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77781",
+          "author": null,
+          "description": "YouTube CEO Neal Mohan 表示，如果 OpenAI 用该平台视频训练了其文本视频生成模型 Sora，将是违反该平台的服务条款。对于 OpenAI 是否使用了 YouTube 视频，他表示并没有第一手资料。他接受彭博社采访时表示，内容创作者将视频上传到 YouTube 是有特定期望的，其中之一是遵守服务条款。关于 OpenAI 使用了什么材料训练其 AI 模型存在很多争论。随着 OpenAI、Google 等公司竞相开发更强大 AI，为获得质量更好的结果它们正寻找尽可能多的内容去训练模型。OpenAI CTO Mira Murati 此前表示不确定 Sora 是否使用来自 YouTube、Facebook 和 Instagram 等平台的用户生成视频进行训练。Mohan 称如果 Google 用 YouTube 视频训练其 AI 模型  Gemini，将会遵守 YouTube 与创作者之间的合同。",
+          "link": "https://www.solidot.org/story?sid=77781",
+          "publishedOn": "2024-04-05T14:10:21.000Z",
+          "wordCount": 216,
+          "title": "YouTube 称 OpenAI 用该平台视频训练 Sora 将是违反服务条款",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77780",
           "author": null,
@@ -778,86 +868,6 @@
           "wordCount": 166,
           "title": "更快的地球自转速度可能意味着负闰秒",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77722",
-          "author": null,
-          "description": "世嘉出售了以即时战略游戏知名的 Relic Entertainment 工作室，并在 Creative Assembly、Sega Europe、Sega HARDLight 等子公司裁员 240 人。Relic Entertainment 以《英雄连》系列和《战锤40K 战争黎明》系列闻名，最近为微软开发了新《帝国时代》游戏。它将转型为独立工作室，不再隶属于世嘉集团。这是游戏行业过去几个月的最新一起裁员，由于增长乏力和成本上升，几乎所有主要游戏公司都在裁员。",
-          "link": "https://www.solidot.org/story?sid=77722",
-          "publishedOn": "2024-03-28T13:32:19.000Z",
-          "wordCount": 181,
-          "title": "世嘉出售 Relic Entertainment 工作室",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77721",
-          "author": null,
-          "description": "研究发现连续两晚睡眠断断续续会让人感觉老了几岁。瑞典心理学家发现，当参与者连续两晚只睡四个小时，他们会觉得老了四岁多，部分人甚至声称感觉老了几十岁。当被允许在床上睡九个小时，研究参与者声称年轻了三个月。研究人员表示，零碎的睡眠除了让人感觉变老外，还会鼓励不健康的饮食、减少体育锻炼、减少社交意愿。研究报告发表在《Proceedings of the Royal Society B》期刊上。",
-          "link": "https://www.solidot.org/story?sid=77721",
-          "publishedOn": "2024-03-28T12:31:49.000Z",
-          "wordCount": 162,
-          "title": "研究发现连续两晚睡眠断断续续会让人感觉老了几岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77720",
-          "author": null,
-          "description": "PostgreSQL 社区悼念因飞机失事去世的资深成员 Simon Riggs。Riggs 驾驶一架 General Aviation Cirrus SR22 于 3 月 26 日下午坠毁在英国帝国战争博物馆的机场。PostgreSQL 核心团队称，PostgreSQL 中的很多企业级功能是由 Simon 负责的，其中包括基于时间点的恢复（Point In Time Recovery，PITR），热备、同步复制。他是 2ndQuadrant 的创始人，该公司雇佣了很多 PostgreSQL 开发者，2ndQuadrant 后被 EDB 收购，Simon  也随之加入 EDB 担任  PostgreSQL 院士直至退休。他曾多次负责英国的 PostgreSQL 会议，最后一次活动是在布拉格举行的 PostgreSQL Conference Europe 2023 会议上发表演讲。",
-          "link": "https://www.solidot.org/story?sid=77720",
-          "publishedOn": "2024-03-28T10:48:11.000Z",
-          "wordCount": 209,
-          "title": "PostgreSQL 社区悼念因飞机失事去世的资深成员 Simon Riggs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77719",
-          "author": null,
-          "description": "Sun Microsystems 联合创始人、Google 早期投资者 Andreas“Andy”Bechtolsheim 被 SEC（美国证券交易委员会）指控从事内幕交易。他被控利用对思科 2019 年收购 Acacia Communications 的信息，用一位近亲和同事的账户购买了 Acacia 期权。Andy Bechtolsheim 当时担任他联合创办的数据中心网络公司 Arista Networks 的董事长，SEC 称他之所以知道这笔交易是因为一家跨国科技公司的经理就此交易咨询了他，而该公司也考虑收购 Arista。他获悉交易之后立即购买了 Acacia 期权合约，从收购宣布后的股价上涨中获利 415,726 美元。Bechtolsheim 同意支付 923,740 美元的民事罚款，同意五年内不担任上市公司的高管或董事。《福布斯》估计他的净资产在 160 亿美元以上。",
-          "link": "https://www.solidot.org/story?sid=77719",
-          "publishedOn": "2024-03-28T08:29:36.000Z",
-          "wordCount": 189,
-          "title": "Sun 联合创始人被控内幕交易",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77718",
-          "author": null,
-          "description": "发表在《BMJ open》上的一项为期 10 年的国际研究表明，长期坚持每周锻炼 2-3 次，可以降低当前失眠的风险，并能保证每晚睡眠时间达到建议的 6-9 小时。研究人员评估了来自 9 个欧洲国家 21 个中心的中年人每周体育活动的频率、持续时间和强度，以及失眠症状、夜间睡眠时间和白天嗜睡。参与者报告说他们每周至少锻炼两次或两次以上，每周锻炼 1 小时或更长时间，被归类为身体活跃。在 10 年的时间里，37%(1601)的参与者持续不运动；18%(775人)开始进行体育锻炼；20%(881)变得不活跃；25%(1082例)持续活跃。挪威的参与者最有可能坚持运动，而西班牙的参与者最有可能坚持不运动，其次是爱沙尼亚。坚持运动的参与者更有可能是男性，更年轻，体重也稍轻。他们目前吸烟的可能性更小，目前工作的可能性更大。在调整了年龄、性别、体重(BMI)、吸烟史和研究中心后，那些坚持运动的人入睡困难的可能性显著降低(42%)，出现任何失眠症状的可能性降低(22%)，出现 2 或 3 种失眠症状的可能性降低(37%)。",
-          "link": "https://www.solidot.org/story?sid=77718",
-          "publishedOn": "2024-03-28T07:27:50.000Z",
-          "wordCount": 188,
-          "title": "每周锻炼 2-3 次有助于降低失眠风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77717",
-          "author": null,
-          "description": "亚马逊向 AI 初创企业 Anthropic 追加了 27.5 亿美元投资，使其总投资达到了 40 亿美元。这笔交易是亚马逊有史以来最大的一笔风险投资。大型科技公司争夺蓬勃发展的 AI 领域主导地位的竞争正愈演愈烈。作为交易的一部分，Anthropic 同意使用亚马逊 AWS 数据中心和亚马逊自己的定制芯片。Anthropic 的投资者还包括了 Google，它此前也承诺使用 Google 的定制芯片。Google 和 AWS 都是 Anthropic 的云计算合作伙伴。Anthropic 由 OpenAI 前员工于 2021 年创办，已成为 OpenAI 在 AI 领域最强大竞争对手之一。Anthropic 的 AI 聊天机器人被称为 Claude，它在本月初宣布了 Claude 3，在基准测试中超过了 OpenAI 的 GPT 4 和 Google 的 Gemini Ultra。",
-          "link": "https://www.solidot.org/story?sid=77717",
-          "publishedOn": "2024-03-28T06:58:18.000Z",
-          "wordCount": 220,
-          "title": "亚马逊对 Anthropic 的投资达到 40 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77716",
-          "author": null,
-          "description": "美国政府和国会正在采取对策，以阻止中国的纯电动汽车（EV）流入美国国内。国会的方案之一是征收超过 100% 的税率，包括中国厂商在墨西哥生产的电动汽车。美国财政部长耶伦表示，“过去在钢铁等领域，由于中国政府的支持，大幅度的过剩投资扩大，发生产能过剩。目前，纯电动汽车等新产业正在形成过剩产能。”耶伦呼吁称“这将扭曲全球价格和生产模式，对美国企业和工人、乃至世界各地的企业和工人造成打击”。美国政府和国会为了保护国内汽车产业，正在讨论贸易壁垒。美国目前对进口中国产汽车征收 25% 的惩罚性关税。",
-          "link": "https://www.solidot.org/story?sid=77716",
-          "publishedOn": "2024-03-28T06:25:19.000Z",
-          "wordCount": 168,
-          "title": "美国考虑对中国电动汽车征收逾 100% 的关税",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77715",
-          "author": null,
-          "description": "波音最大的客户之一，阿联酋航空公司(Emirates)的 CEO 蒂姆•克拉克爵士(Sir Tim Clark)表示，这家陷入危机的美国飞机制造商应确保其新任首席执行官拥有工程方面的经验，以恢复安全标准。他还表示支持美国最大的工会为赢得董事会席位所做的努力。今年一月阿拉斯加航空的一架波音 737 Max 9 客机起飞后发生了空中舱门脱落事故，波音的声誉遭遇了重大打击。本周一波音 CEO Dave Calhou 宣布将在年底离职，董事会主席 Larry Kellner 宣布将于今年 6 月离职，2019 年起担任商用飞机部门负责人的 Stan Deal 被首席运营官 Stephanie Pope 立即取代。",
-          "link": "https://www.solidot.org/story?sid=77715",
-          "publishedOn": "2024-03-27T14:20:30.000Z",
-          "wordCount": 197,
-          "title": "阿联酋航空 CEO 认为波音新 CEO 必须有工程背景",
-          "imageUrl": null
         }
       ]
     },
@@ -928,6 +938,26 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/what-is-a-sandboxed-tor",
+          "author": null,
+          "description": "TLDR: You can instantly access a sandboxed Tor browser via browserling.com/tor. My team and I have virtualized multiple Tor versions and we stream just the browser window to you. This Tor browser runs remotely in our virtual machines and it's isolated from your network.\nSandboxed Tor – What Is It?\nA sandboxed Tor browser is a modified version of the Tor browser that adds an additional layer of security by running in a virtual machine that's isolated from the user's main operating system and network. By leveraging the inherent multi-layer anonymity of the Tor network and additionally encapsulating it within a remote virtual machine (sandbox), it significantly minimizes the possibility of the user's identity being exposed. This combination offers the highest level of protection against threa…",
+          "link": "https://catonmat.net/what-is-a-sandboxed-tor",
+          "publishedOn": "2024-04-06T11:57:00.000Z",
+          "wordCount": 1217,
+          "title": "What is a Sandboxed Tor? (And How To Get One)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/another-20-new-png-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 20 new png tools and today we just added another 20 new tools to our Online PNG Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new PNG tools:\nCreate a Multi-color Gradient PNG\nCreate an Empty PNG\nAdd a Glow Effect to a PNG\nAdd an Outline to a PNG\nRemove an Outline from a PNG\nAdd Stroke to PNG\nRemove Stroke From PNG\nConvert a PNG to RGB Values\nConvert RGB Values to a PNG\nConvert a PNG to HSL Colors\nConvert a PNG to CMYK Colors\nConvert a PNG to HSV Colors\nConvert a PNG to YCbCr Colors\nSplit a PNG Into RGB Components\nRemove the Alpha Channel from a PNG\nFill the Alpha Channel in a PNG\nExtract the Alpha Channel from a PNG\nCount Colors in a PNG\nCheck if a PNG is Grayscale\nImprove a Low Quality Signature\nNext week we'll add even more tools. See you then!",
+          "link": "https://catonmat.net/another-20-new-png-tools",
+          "publishedOn": "2024-04-04T07:51:00.000Z",
+          "wordCount": 462,
+          "title": "We've Added 20 More New PNG Tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/paid-plans-for-csv-tools",
           "author": null,
           "description": "Team Browserling keeps shipping!\nLast month we launched paid plans for Integer Tools and today we're launching paid plans for our next most popular tool category – CSV Tools. CSV tools are used by 30,000 people every month and they let you convert CSV to JSON, XML, YAML, and TSV, change CSV delimiter, validate and sort CSV, extract, insert, and delete CSV columns, and much more.\nNext, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.\nFrom technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.\nYou can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.\nSee you next time!",
@@ -945,16 +975,6 @@
           "publishedOn": "2024-03-31T16:28:00.000Z",
           "wordCount": 1247,
           "title": "What is a Sandboxed IE? (And How To Get One)",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/what-is-an-osint-browser",
-          "author": null,
-          "description": "TLDR:  You can instantly access an OSINT browser via browserling.com/browse. Created by me and my team, we run virtualized browsers in the cloud and stream secure, isolated browser sessions to you.\nWhat Is OSINT?\nOSINT, short for Open Source Intelligence, refers to the practice of collecting and analyzing information from publicly available sources for intelligence purposes. This includes data gathered from public forums, Internet archive, social media, public government reports, domain registration history, and more, offering valuable insights for cybersecurity experts and researchers to identify threats and secure networks. It is also utilized in various fields such as security, law enforcement, and business intelligence to support decision-making and strategy formulation.\nWhat Is an OSI…",
-          "link": "https://catonmat.net/what-is-an-osint-browser",
-          "publishedOn": "2024-03-28T11:53:00.000Z",
-          "wordCount": 1144,
-          "title": "What is an OSINT Browser? (And How To Get One)",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
