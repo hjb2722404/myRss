@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=48175",
+          "author": "青小蛙",
+          "description": "HamHub 是一款 iPhone、iPad 上的视频播放器，可以用来播放保存在 阿里云盘、百度盘、WebDAV、Emby、Jellyfin 中的视频，支持收藏、自动刮削、剧集追踪、全能视频格式、云同",
+          "link": "https://www.appinn.com/hamhub/",
+          "publishedOn": "2024-04-14T07:59:41.000Z",
+          "wordCount": 2583,
+          "title": "HamHub – iPhone、iPad 上的视频播放器：阿里云盘、百度盘、WebDAV、Emby、Jellyfin",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-14T152424.620.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48170",
           "author": "青小蛙",
           "description": "著名的开源媒体播放中心软件 Kodi 于本月初发布了新版本：Kodi v21 (Omega)，它能够以最低的门槛，无需 NAS、无需服务器，使用现有 PC、Mac、手机、树莓派等设备（也支持 Dock",
@@ -183,6 +193,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11166",
+          "author": "张 鑫旭",
+          "description": "模糊和投影算是SVG滤镜中学习难度最低的元素了，所以放在一起介绍，从中可以看到CSS模糊和投影滤镜语法的影子。",
+          "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-fegaussianblur-fedropshadow/",
+          "publishedOn": "2024-04-14T15:39:56.000Z",
+          "wordCount": 1400,
+          "title": "今天学习SVG滤镜feGaussianBlur和feDropShadow",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=11158",
           "author": "张 鑫旭",
           "description": "要想成为前端图形表现领域的高手，要必要弄懂SVG中各种滤镜元素的语法与作用，先从简单的feblend元素开始。",
@@ -199,6 +219,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77880",
+          "author": null,
+          "description": "运输大亨《Transport Tycoon Deluxe》的开源版本 OpenTTD 释出了 v14.0，该项目最早的版本于 2004 年释出，至今已有 20 年历史，开发者表示项目活的好好的。主要新特性包括：允许日历时间运行更慢，但不会影响车辆移动，以及运输的货物量和城镇发展，开发者希望该功能能开启不同的玩法；改进船舶寻路功能；让车辆自动保持距离；改进与 Steam、Discord 和 GOG Galaxy 等游戏平台的集成；内置可选的调查工具，帮助开发者更好的了解玩家如何玩游戏；改进 GUI，内置可缩放字体；将 Cheats 改名为 Sandbox，因为 Cheats 这个词带有负面含义，但 OpenTTD 的 Cheats/Sandbox 是让玩家随心所欲的玩；等等。OpenTTD 14.0 共包含约 40 个新功能、修复了逾 500 个 bug、200 个变更以及代码改进。",
+          "link": "https://www.solidot.org/story?sid=77880",
+          "publishedOn": "2024-04-13T16:05:01.000Z",
+          "wordCount": 196,
+          "title": "OpenTTD 14.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77879",
+          "author": null,
+          "description": "微软开始在 Windows 11 “开始”菜单上测试广告。软件巨人将使用开始菜单的“推荐”部分推荐 Microsoft Store 中的应用。微软在其官方博客中表示，广告测试只限于美国 Windows Insiders 加入的 Beta Channel，不会在商业设备上展示广告。用户可以 Windows 11 的设置中关闭应用推广，微软预计将会默认启用。微软正在收集测试者的反馈，如果被认为不受欢迎，它可能会决定放弃在开始菜单展示广告。",
+          "link": "https://www.solidot.org/story?sid=77879",
+          "publishedOn": "2024-04-13T15:43:27.000Z",
+          "wordCount": 182,
+          "title": "微软测试在 Windows 11 开始菜单展示广告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77878",
+          "author": null,
+          "description": "Discord 关闭了任天堂 Switch 模拟器项目 Suyu 和 Sudachi 的服务器以及主要开发者账号。Suyu 和 Sudachi 都是开源模拟器项目 Yuzu 的分支。任天堂在 3 月 4 日对 Yuzu 提起诉讼，开发者之后与任天堂达成和解关闭该项目。Discord 在一份声明中表示，它此举旨在回应 DMCA 请求，此外法院还下达了删除材料的命令，它遵守法庭命令采取了行动。Suyu 和 Sudachi 的开发者并没有将其代码托管在 Discord 上，他们只是将 Discord 作为一种方便的通信工具。",
+          "link": "https://www.solidot.org/story?sid=77878",
+          "publishedOn": "2024-04-13T15:30:52.000Z",
+          "wordCount": 196,
+          "title": "Discord 关闭任天堂 Switch 模拟器服务器及开发者账号",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77877",
           "author": null,
@@ -938,56 +988,6 @@
           "wordCount": 162,
           "title": "研究称百度弱智吧中文训练效果高于知乎豆瓣小红书",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77784",
-          "author": null,
-          "description": "微软正在为 Edge 浏览器开发一项新功能，允许用户限制其消耗的内存。Edge 浏览器测试版本被发现了一个新的设置，用户可通过一个滑块限制 Edge 能访问的内存量。该功能可能主要是针对游戏玩家，因为测试版本的设置允许用户在游戏时限制 Edge 能访问的内存量或在任何时候都限制其内存量。微软警告说，设置一个较低的内存量会影响浏览器速度。",
-          "link": "https://www.solidot.org/story?sid=77784",
-          "publishedOn": "2024-04-05T15:43:47.000Z",
-          "wordCount": 171,
-          "title": "Microsoft Edge 将允许用户控制其消耗的内存",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77783",
-          "author": null,
-          "description": "《矮人要塞（Dwarf Fortress）》的作者 Tarn 和 Zach Adams 兄弟透露，Steam 付费版本至今售出了逾 80 万份拷贝。《矮人要塞》Steam 版本于 2022 年 12 月 6 日发售，第一天售出了逾 16 万份拷贝，年底前售出了 50 万份拷贝，一年三个月后突破 80 万份。《矮人要塞》最初由 Tarn Adams 在 2002 年开发，他的兄弟 Zach Adams 帮助设计和创作了一些基于游戏的故事，此前一直是免费游戏，收入全部来自于捐赠。《矮人要塞》启发了很多游戏，其中最为知名的可能是《Rimworld》。Adams 兄弟表示付费版本的成功令他们感到安心，免除了后顾之忧。游戏将在 4 月 17 日推出备受期待的 RPG/roguelike 模式。",
-          "link": "https://www.solidot.org/story?sid=77783",
-          "publishedOn": "2024-04-05T15:27:02.000Z",
-          "wordCount": 201,
-          "title": "《矮人要塞》售出了逾 80 万份拷贝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77782",
-          "author": null,
-          "description": "在试点成功之后，德国北部州 Schleswig-Holstein（石勒苏益格-荷尔斯泰因）决定将政府机构使用的 3 万台 PC 从 Microsoft Windows 和 Microsoft Office 迁移到 Linux 和 LibreOffice。州政府总理表示该州成为德国第一个引入数字主权 IT 工作场所的州。数字主权是指相对于封闭的私有软件，公共管理部门对开源软件构成的 IT 解决方案有更多的控制权。政府部门可以有更多的选择，可以资助当地的程序员改进开源软件，可以根据需要进行修改以部署在自己的基础设施中。",
-          "link": "https://www.solidot.org/story?sid=77782",
-          "publishedOn": "2024-04-05T14:53:24.000Z",
-          "wordCount": 219,
-          "title": "德国 Schleswig-Holstein 州将 3 万台 PC 从 Windows 迁移到 Linux 和 LibreOffice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77781",
-          "author": null,
-          "description": "YouTube CEO Neal Mohan 表示，如果 OpenAI 用该平台视频训练了其文本视频生成模型 Sora，将是违反该平台的服务条款。对于 OpenAI 是否使用了 YouTube 视频，他表示并没有第一手资料。他接受彭博社采访时表示，内容创作者将视频上传到 YouTube 是有特定期望的，其中之一是遵守服务条款。关于 OpenAI 使用了什么材料训练其 AI 模型存在很多争论。随着 OpenAI、Google 等公司竞相开发更强大 AI，为获得质量更好的结果它们正寻找尽可能多的内容去训练模型。OpenAI CTO Mira Murati 此前表示不确定 Sora 是否使用来自 YouTube、Facebook 和 Instagram 等平台的用户生成视频进行训练。Mohan 称如果 Google 用 YouTube 视频训练其 AI 模型  Gemini，将会遵守 YouTube 与创作者之间的合同。",
-          "link": "https://www.solidot.org/story?sid=77781",
-          "publishedOn": "2024-04-05T14:10:21.000Z",
-          "wordCount": 216,
-          "title": "YouTube 称 OpenAI 用该平台视频训练 Sora 将是违反服务条款",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77780",
-          "author": null,
-          "description": "在 Redis 切换到商业使用需获得授权的新许可证之后，社区立即推出了多个分支，包括 Linux 基金会宣布的 Valkey，以及刚刚发布第一个稳定版本的 Redict。Redict 开发者表示他们的重心是稳定性和长期的可维护，这区别于 Valkey。Valkey 得到了商业公司的支持，因此能投入更多资源开发更激进的创新。而 Redict 对创新更为保守，追求长期稳定性而不是长期增长，这对现有用户更有价值。",
-          "link": "https://www.solidot.org/story?sid=77780",
-          "publishedOn": "2024-04-04T15:26:37.000Z",
-          "wordCount": 175,
-          "title": "Redict 7.3.0 释出",
-          "imageUrl": null
         }
       ]
     },
@@ -1057,6 +1057,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/another-20-new-png-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 20 new png tools and today we just added another 20 new tools to our Online PNG Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new PNG tools:\nCreate a Multi-color Gradient PNG\nCreate an Empty PNG\nAdd a Glow Effect to a PNG\nAdd an Outline to a PNG\nRemove an Outline from a PNG\nAdd Stroke to PNG\nRemove Stroke From PNG\nConvert a PNG to RGB Values\nConvert RGB Values to a PNG\nConvert a PNG to HSL Colors\nConvert a PNG to CMYK Colors\nConvert a PNG to HSV Colors\nConvert a PNG to YCbCr Colors\nSplit a PNG Into RGB Components\nRemove the Alpha Channel from a PNG\nFill the Alpha Channel in a PNG\nExtract the Alpha Channel from a PNG\nCount Colors in a PNG\nCheck if a PNG is Grayscale\nImprove a Low Quality Signature\nNext week we'll add even more tools. See you then!",
+          "link": "https://catonmat.net/another-20-new-png-tools",
+          "publishedOn": "2024-04-08T20:35:00.000Z",
+          "wordCount": 452,
+          "title": "We've Added 20 More New PNG Tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/what-is-an-rdp-browser",
           "author": null,
