@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=48232",
+          "author": "青小蛙",
+          "description": "imfile 是一款 fork 自 Motrix 的新全平台下载工具，支持下载 HTTP、FTP、BT、磁力链等资源，支持 Windows、macOS、Android，最重要的是，有人维护了。@App",
+          "link": "https://www.appinn.com/imfile/",
+          "publishedOn": "2024-04-20T00:52:43.000Z",
+          "wordCount": 2606,
+          "title": "imfile –  源自 Motrix，跨平台下载工具，支持 HTTP、BT、磁力",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-20T083814.198.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48225",
           "author": "青小蛙",
           "description": "Pretty Snap 是一款在线的截图美化工具，能够为普通的截图添加渐变色背景、模糊阴影、圆角以及水印，简单易用，让你的截图骚气与专业并存。@Appinn 来自发现频道，开发者 @dev.AWai",
@@ -145,16 +155,6 @@
           "wordCount": 2659,
           "title": "WinBtrfs – 用 Windows 读取 Btrfs 磁盘格式（Linux）",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-12T115952.654.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48143",
-          "author": "青小蛙",
-          "description": "Breezy Weather 是一款安卓端的开源天气预报应用，拥有多个天气源，包括北京天气、彩云天气、中国环境监测总站三个国内数据源，界面美观动画漂亮，可查询实时天气状况、长达 15 天的每日和每小时",
-          "link": "https://www.appinn.com/breezy-weather/",
-          "publishedOn": "2024-04-11T07:22:08.000Z",
-          "wordCount": 2645,
-          "title": "Breezy Weather – 开源安卓天气预报应用，精确至1小时预报，最长15天",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-11T142759.329.jpg"
         }
       ]
     },
@@ -206,16 +206,6 @@
           "wordCount": 1400,
           "title": "今天学习SVG滤镜feGaussianBlur和feDropShadow",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11158",
-          "author": "张 鑫旭",
-          "description": "要想成为前端图形表现领域的高手，要必要弄懂SVG中各种滤镜元素的语法与作用，先从简单的feblend元素开始。",
-          "link": "https://www.zhangxinxu.com/wordpress/2024/04/svg-filter-feblend/",
-          "publishedOn": "2024-04-11T14:01:19.000Z",
-          "wordCount": 1375,
-          "title": "SVG滤镜系列之搞懂<feBlend>元素",
-          "imageUrl": null
         }
       ]
     },
@@ -224,6 +214,76 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=77963",
+          "author": null,
+          "description": "Linus Torvalds 与 Verizon Open Source Program Office 负责人 Dirk Hohndel 谈论了近期火热无比的 AI。Torvalds 讽刺的说，“看起来很搞笑！也许我会被 AI 模型取代！”Hohndel 认为今天的 AI 只是一种更强大的自动修正工具。Torvalds 认为需要再等十年才能知道 AI 会走向何处。Torvalds 已经注意到 AI 狂热对内核的影响——作为 AI 热的最大受益者英伟达公司，其开发者与内核开发者之间的沟通更频繁，该公司正在改进内核的内存管理，因为它需要 Linux 更高效的运行 AI 大模型。Torvalds 对 AI 产生的错误信息表达了谨慎，Hohndel 开玩笑的说这是美丽科学，“美丽科学进，美丽科学出。”",
+          "link": "https://www.solidot.org/story?sid=77963",
+          "publishedOn": "2024-04-20T14:56:31.000Z",
+          "wordCount": 206,
+          "title": "Linus Torvalds 谈 AI 炒作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77962",
+          "author": null,
+          "description": "印度三大 IT 外包巨头 TCS(Tata Consultancy Services)、Infosys 和 Wipro 20 年来首次出现员工总数减少。截至 2024 年 3 月 31 日 TCS 有逾 60 万名员工，Infosys 有逾 31 万员工，Wipro 有逾 23 万名员工，三大巨头共裁员 63,750 名员工，以应对全球经济放缓和 IT 服务需求下降。",
+          "link": "https://www.solidot.org/story?sid=77962",
+          "publishedOn": "2024-04-20T14:30:26.000Z",
+          "wordCount": 201,
+          "title": "印度 IT 外包巨头 20 年来首次大规模裁员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77961",
+          "author": null,
+          "description": "微软准备再次惹恼它的 Windows 10 用户，这次是让用户从本地账号转移到它的在线账号服务 Microsoft Accounts。Windows 10 的最新预览版更新被发现包含了新的通知信息，旨在让用户从本地账号切换到 Microsoft Accounts。微软官方博客在更新通知中称，“新功能！该更新在设置 > 主页中推出 Microsoft Accounts 账号相关通知。”它随后介绍了 Microsoft Accounts。",
+          "link": "https://www.solidot.org/story?sid=77961",
+          "publishedOn": "2024-04-20T14:22:42.000Z",
+          "wordCount": 194,
+          "title": "微软准备迫使 Windows 10 用户使用 Microsoft Accounts",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77960",
+          "author": null,
+          "description": "Mozilla 发布了 Linux on ARM64 版 Firefox Nightly。Mozilla 称在发布 Firefox Nightly 版的 .deb 包之后，它收到的反馈集中在呼吁提供 ARM64 版本上。作为回应，它现在发布了 Firefox Nightly for ARM64 的 .tar 和 .deb 包。为了打造稳定可靠的 ARM64 版本，Mozilla 呼吁用户进行测试并递交反馈报告。",
+          "link": "https://www.solidot.org/story?sid=77960",
+          "publishedOn": "2024-04-20T13:25:33.000Z",
+          "wordCount": 207,
+          "title": "Firefox Nightly 发布 Linux on ARM64 版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77959",
+          "author": null,
+          "description": "欧盟委员会表示，根据刚刚生效的《Digital Services Act(DSA)》，成人网站 Pornhub、Stripchat 和 XVideos 需要递交风险评估报告，采取措施解决其服务相关的系统性风险。成人网站面临的风险包括了霸凌、未成年人、人口贩卖，信息泄露等等。根据 DSA，三大成人网站被分类为“大型在线平台（very large online platforms）”，被要求采取更多措施删除其平台上非法和有害内容。Pornhub 和 Stripchat 必须在 4 月 21 日、而 XVideos 是 4 月 23 日递交风险评估报告，采取措施缓解系统性风险。",
+          "link": "https://www.solidot.org/story?sid=77959",
+          "publishedOn": "2024-04-20T12:40:53.000Z",
+          "wordCount": 179,
+          "title": "欧盟要求成人网站递交风险评估报告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77958",
+          "author": null,
+          "description": "美国塔夫斯大学哲学系教授、认知科学家 Daniel Dennett 于 4 月 19 日去世，享年 82 岁。他死于间质性肺病并发症。Dennett 教授撰写了大量与心灵哲学和认知科学尤其是意识相关的文章和著作，被认为对意向性(intentionality)概念和自由意志辩论做出巨大贡献。他的著作包括了《Content and Consciousness(1969)》、 《Brainstorms: Philosophical Essays on Mind and Psychology (1981)》、《The Intentional Stance (1987)》、《Consciousness Explained (1992)》、《Darwin’s Dangerous Idea(1995)》、《Breaking the Spell (2006)|、《From Bacteria to Bach and Back: The Evolution of Minds(2017)》等。 Dennett 是一位坚定的无神论者，被称为新无神论四骑士之一（其他三位是理查德·道金斯、山姆·哈里斯及克里斯托弗·希钦斯）。他认为距离超级 AI 还有很长的路，其重要性不如世界面临的其他问题。",
+          "link": "https://www.solidot.org/story?sid=77958",
+          "publishedOn": "2024-04-20T10:49:06.000Z",
+          "wordCount": 220,
+          "title": "哲学家 Daniel Dennett 去世，享年 82 岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=77957",
+          "author": null,
+          "description": "比特币第四次采矿回报减半于 2024 年 4 月 20 日 发生。比特币网络中运算难度是自动调节的，在最初的四年里会有 1050 0000 个 BTC 被制造出来，这个数值每四年减半，所以在第四到第八年中会有 525 0000 个BTC 被制造，在第 8 到第 12 年中会生产 262 5000 个BTC，以此类推。最终比特币的数额会趋近于 2100 0000 个BTC。2012 年 11 月 28 日采矿回报首次从每区块 50 降至 25 BTC。第二次减半发生在 2016 年 7 月 10 日。第三次发生在 2020 年 5 月 12 日，回报从 12.5 减少到 6.25 BTC。",
+          "link": "https://www.solidot.org/story?sid=77957",
+          "publishedOn": "2024-04-20T03:32:11.000Z",
+          "wordCount": 207,
+          "title": "比特币第四次采矿回报减半",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=77956",
           "author": null,
@@ -972,106 +1032,6 @@
           "publishedOn": "2024-04-11T14:52:46.000Z",
           "wordCount": 193,
           "title": "欧盟的 DMA 法律增加了小众浏览器的市场份额",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77846",
-          "author": null,
-          "description": "美国联合发射联盟（ULA）的 Delta IV 火箭本周二在佛罗里达州卡纳维拉尔角完成了它最后一次发射，执行美国国家侦察办公室的机密卫星发射任务 NROL-70。Delta IV 有多种配置，自 2002 年以来共发射了 45 次，失败一次，执行周二发射任务的是重型配置，共发射了 16 次。它的重型火箭发射费用高达 4 亿美元，除了美国政府之外也很难找到其它客户。这是 Delta 火箭家族的第 389 次发射，其第一次发射可追溯到 64 年前太空时代开端的 1960 年。ULA 另一种传统火箭 Atlas V 也即将退役，它正转向新一代的火箭 Vulcan。Vulcan 火箭使用了 Blue Origin 公司的可重复使用引擎 BE-4——但最初几年不会尝试回收。借助 Vulcan 火箭 ULA 公司准备大幅提高发射频率。",
-          "link": "https://www.solidot.org/story?sid=77846",
-          "publishedOn": "2024-04-11T14:12:22.000Z",
-          "wordCount": 204,
-          "title": "美国 Delta IV 火箭完成最后一次发射",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77845",
-          "author": null,
-          "description": "美国国会提出了一项新法案，将要求 AI 公司披露其训练生成式 AI 模型所使用的版权材料。被称为  Generative AI Copyright Disclosure Act 的法案由加州民主党议员 Adam Schiff 提出，要求 AI 公司在发布新的生成式 AI 系统前，将其训练数据集中的版权作品向版权登记机关登记。法案要求 AI 公司在发布至少 30 天前递交相关文件，否则将面临处罚。Schiff 在一份声明中表示，AI 具有改变经济、政治体系和日常生活的颠覆性潜力，“我们必须在 AI 的巨大潜力与道德准则的迫切需求和保护之间取得平衡。” 法案并不禁止使用版权材料训练，但要求公司承担相应责任。",
-          "link": "https://www.solidot.org/story?sid=77845",
-          "publishedOn": "2024-04-11T10:31:34.000Z",
-          "wordCount": 190,
-          "title": "新法案要求美国 AI 公司披露其使用的版权材料",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77844",
-          "author": null,
-          "description": "负责运营旧金山捷运的市交通局(SFMTA)表示计划在六年内淘汰 5.25 英寸软盘。软盘是作为 Muni Metro 轻轨自动列车控制系统（Automatic Train Control System，ATCS)的一部分于 1998 年安装的。ATCS 有多个组件，其中包括列车与推进和刹车系统关联的车载计算机，中央和本地服务器，通信基础设施。软盘被用于加载运行在中央服务器上的 DOS 软件。翻修 ATCS 的计划始于 2018 年，原计划 10 年内完成，但因为新冠疫情预计要推迟到 2029-2030 年才能完成。这项计划包括了淘汰软盘，建立单一的控制系统。SFMTA 表示列车控制系统的寿命为 20-25 年。这意味着到 2023 年它已经超过了预期寿命。虽然目前系统仍然运转良好，但随着时间的推移，软盘上的数据损失风险在逐渐增加，发生灾难性故障的可能性在增加，ATCS 的维护也日益昂贵且困难。交通总监 Jeffrey Tumlin 指出，需要精通 90 年代编程语言的程序员才能继续运行当前的系统。",
-          "link": "https://www.solidot.org/story?sid=77844",
-          "publishedOn": "2024-04-11T09:05:40.000Z",
-          "wordCount": 196,
-          "title": "旧金山捷运计划在六年内淘汰 5.25 英寸软盘",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77843",
-          "author": null,
-          "description": "沙特王储 Mohammed bin Salman 雄心勃勃的想要建成自己的金字塔，他计划建造一座沙漠超级城市 Neom，其核心是名叫 The Line 的线条城市，高 500 米，长 170 公里，能容纳 900 万居民，城市被封闭在两座距离约 200 米的平行高墙之内，表面覆盖镜子。The Line 有三层，地面一层供行人使用，地下两层一层为基础设施一层为地下交通。它还有一条高铁，时速能达到 512 公里，从线条城市的一头到另一头只需要 20 分钟。整个城市完全使用可更新能源提供电力。整个建筑成本估计为 1000 亿到 2000 亿美元，项目的第一阶段计划在 2030 年完成。但这项计划中的城市规模已经缩小，至少一家承包商开始裁员。",
-          "link": "https://www.solidot.org/story?sid=77843",
-          "publishedOn": "2024-04-11T07:21:21.000Z",
-          "wordCount": 184,
-          "title": "沙特缩减筹划中的超级城市规模",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77842",
-          "author": null,
-          "description": "流媒体时代确实方便了用户，然而问题是今天的流媒体服务太多了，而且每一家服务都有自己的独占内容，但用户不太可能仅仅为了某个独占内容就去订阅一项服务。结果就是盗版又开始流行起来。美国电影协会（MPA）宣布计划与国会合作通过法规屏蔽有盗版内容的网站。MPA CEO Charles Rivkin 声称，美国的盗版蔚然成风，威胁到了数十万个工作岗位，导致了逾 10 亿美元票房损失。数据分析公司 Muso 的报告显示，2023 年全球盗版视频网站访问量 1410 亿次，比 2019 年增长 12%，其中美国和印度的访问量最多。",
-          "link": "https://www.solidot.org/story?sid=77842",
-          "publishedOn": "2024-04-11T06:55:59.000Z",
-          "wordCount": 170,
-          "title": "美国电影协会计划再次加大力度打击盗版",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77841",
-          "author": null,
-          "description": "美国总统拜登（Joe Biden）表示正在考虑澳大利亚提出的撤销对 WikiLeaks 创始人 Julian Assange 起诉的要求。澳大利亚议会最近通过了一份议案，呼吁 Assange 回国。而美国希望以泄露军事机密的刑事罪名从英国引渡这位已经在狱中关押了五年的 WikiLeaks 创始人。Assange 否则了指控，称其从事的是新闻工作。Assange 正面临引渡的最后阶段，伦敦高等法院要求美国必须保证他不会面临死刑，法院将在 5 月底评估美国的回应。",
-          "link": "https://www.solidot.org/story?sid=77841",
-          "publishedOn": "2024-04-11T06:12:35.000Z",
-          "wordCount": 182,
-          "title": "拜登考虑撤销对 Julian Assange 指控的要求",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77840",
-          "author": null,
-          "description": "Kobo 宣布于 4 月 30 日推出其首款彩色电子书阅读器：Kobo Clara Colour (售价 149.99 美元) 和 Kobo Libra Colour (219.99 美元)。Kobo 的彩色电子书阅读器都采用了 E Ink 的 Kaleido 3 显示屏，支持 4096 色，改进了分辨率，其黑白分辨率为 300ppi，彩色分辨率为 150ppi。Kobo 的彩色电子书阅读器定价要显著低于竞争对手的产品，类似产品通常起价为 300 美元。Kobo Clara Colour 为 6 英寸，而 Libra Colour 为 7 英寸。目前最大电子书阅读器制造商亚马逊仍然只提供黑白色显示屏的阅读器。",
-          "link": "https://www.solidot.org/story?sid=77840",
-          "publishedOn": "2024-04-11T05:52:15.000Z",
-          "wordCount": 201,
-          "title": "Kobo 推出首款彩色电子书阅读器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77839",
-          "author": null,
-          "description": "2023 年图灵奖授予了以色列数学家、计算机科学家 Avi Wigderson，以表彰他在随机性等理论计算机科学上的贡献。Wigderson 目前担任普林斯顿高等研究院数学学院的 Herbert H. Maass 教授，他的研究包括复杂性理论、平行算法、图论、密码学、分布式计算和神经网络，他在 2021 年获得阿贝尔奖。图灵奖通常被称为计算机领域的诺贝尔奖，奖金 100 万美元，由 Google 赞助。",
-          "link": "https://www.solidot.org/story?sid=77839",
-          "publishedOn": "2024-04-10T15:17:03.000Z",
-          "wordCount": 183,
-          "title": "2023 年图灵奖授予了以色列数学家 Avi Wigderson",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77838",
-          "author": null,
-          "description": "我们所熟悉的 Twitter 早在去年年中就被其新主人改名为 X，而 X/Twitter 的主人不希望用户继续用 Twitter 这一名字，他现在让程序员自动将用户帖子里的 Twitter.com 改为 X.com，此举导致了很多问题。自动转换甚至涵盖了其他网站域名里包含的 Twitter 单词，这无疑会产生错误网址。有人注册了一个域名叫 seTwitter.com，在 X/Twitter 上，它被显示为 sex.com。该域名的注册者对 X 的自动转换可能导致用户访问恶意网站发出警告，建议用户不要随意点击可疑网址。目前 X/Twitter 的程序员已经释出更新，不再自动转换其他网站域名中的 Twitter。但这一变动尚未在它的 iOS应用上生效。",
-          "link": "https://www.solidot.org/story?sid=77838",
-          "publishedOn": "2024-04-10T14:58:23.000Z",
-          "wordCount": 194,
-          "title": "X 自动将用户帖子里的 Twitter.com 改为 X.com",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77837",
-          "author": null,
-          "description": "本周一北美日食期间很多人都放下手机离开电脑观看这一天文奇观，结果是互联网流量出现显著的下降。CDN 服务商 Cloudflare 的数据显示，日食最壮观的地方流量下降幅度最大。位于日全食路径上的美国佛蒙特州、阿肯色州、印第安纳州、缅因州、新罕布什尔州和俄亥俄州，网络流量在日食期间下降了四成到六成。日偏食路径上地区流量下降幅度要小得多。周一东部时间 3:25 p.m.，纽约的网络流量比前一周下降了 29%。日食持续的时间因地点而异，有些地方长达四分钟以上，另一些地方只有一到两分钟。",
-          "link": "https://www.solidot.org/story?sid=77837",
-          "publishedOn": "2024-04-10T14:37:23.000Z",
-          "wordCount": 162,
-          "title": "互联网流量在北美日食期间显著下降",
           "imageUrl": null
         }
       ]
