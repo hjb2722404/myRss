@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=48278",
+          "author": "青小蛙",
+          "description": "作为知名度非常高的 Linux 发行版本，Ubuntu 发布了最新一个长支持版本：Ubuntu 24.04 LTS（代号“Noble Numbat”），包括桌面版本与服务器版本，目前已经可以下载。@A",
+          "link": "https://www.appinn.com/ubuntu-24-04-lts-releases/",
+          "publishedOn": "2024-04-26T08:22:59.000Z",
+          "wordCount": 2657,
+          "title": "Ubuntu 24.04 LTS（代号“Noble Numbat”）已发布",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-26T161429.376.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=48272",
+          "author": "青小蛙",
+          "description": "Firefly III 是一款开源，完全自托管和隔离的个人记账系统，支持中文、多币种，拥有清晰的视图、跟踪支出和收入，功能丰富，支持自动化处理记账。无移动应用，但可在手机浏览器上使用。@Appinn",
+          "link": "https://www.appinn.com/firefly-iii/",
+          "publishedOn": "2024-04-26T03:57:16.000Z",
+          "wordCount": 2572,
+          "title": "Firefly III – 开源、完全自托管和隔离的个人记账系统",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-26T111810.405.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48264",
           "author": "青小蛙",
           "description": "TimeMachine Exclude 是一款辅助 macOS 原生备份系统时间机器（TimeMachine）的小工具，它能够帮开发者在备份时，排除开发过程中产生的依赖目录，以及海量的文件，比如 No",
@@ -115,16 +135,6 @@
           "wordCount": 2682,
           "title": "Delta – 新鲜上架：iPhone 游戏模拟器，支持 NES 红白机、Game Boy 系列、任天堂 DS/64 系列、世嘉MD",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-18T114456.304.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48206",
-          "author": "青小蛙",
-          "description": "DwarFS 是一个适用于 Linux、Windows 和 macOS 系统的快速、高压缩比只读文件系统，它可以打包任何文件与数据，最终得到一个可以跨平台读取的压缩镜像文件，并且访问速度很快，占用的",
-          "link": "https://www.appinn.com/dwarfs/",
-          "publishedOn": "2024-04-17T04:41:23.000Z",
-          "wordCount": 2934,
-          "title": "DwarFS – 跨平台、快速、高压缩比文件镜像系统：非常适合压缩打包海量小文件",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-17T111404.286.jpg"
         }
       ]
     },
@@ -184,6 +194,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78022",
+          "author": null,
+          "description": "2018 年夏天，一名美国女子出境游做 HIV 病毒快速检测时呈阳性。她没有注射毒品、没有输血，唯一伴侣 HIV 阴性。她报告在春天去了新墨西哥州 Albuquerque 市一家叫“ VIP Spa”的美容中心做了“吸血鬼美容”。所谓吸血鬼美容是富血小板血浆微针手术的俗称。手术会先抽取血液，分离出血浆，然后将富含血小板的血浆用微针注射到面部。该手术号称能恢复皮肤活力，改善皮肤外观。这种手术得到了名人如 Gwyneth Paltrow 和 Kim Kardashian 的支持推广。VIP Spa 很快被关闭，老板 Maria de Lourdes Ramos De Ruiz 被控无证行医，她在 2022 年认罪，目前正在服刑。调查人员跟踪和联络了该美容中心的近 200 名客户，其中至少三人已确认感染 HIV 病毒，另外两名 HIV 感染者也被认为与该美容中心密切相关。研究人员表示，美容中心的客户纪录不完整，给调查带来了挑战。",
+          "link": "https://www.solidot.org/story?sid=78022",
+          "publishedOn": "2024-04-26T15:54:01.000Z",
+          "wordCount": 192,
+          "title": "三名美国女子因做“吸血鬼美容”感染 HIV",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78021",
+          "author": null,
+          "description": "阿里巴巴发布了首个千亿参数的大模型 Qwen1.5-110B。此前它发布了 0.5B、1.8B、4B、7B、14B 和 72B 不同规模参数的版本。阿里巴巴称，Qwen1.5-110B 模型在基础能力评估中与 Meta-Llama3-70B 相媲美，在 Chat 评估中表现出色，包括 MT-Bench 和 AlpacaEval 2.0。Qwen1.5-110B 与其他 Qwen1.5 模型相似，采用了相同的Transformer 解码器架构。它包含了分组查询注意力（GQA），在模型推理时更加高效。该模型支持 32K tokens 的上下文长度，同时它仍然是多语言的，支持英、中、法、西、德、俄、日、韩、越、阿等多种语言。",
+          "link": "https://www.solidot.org/story?sid=78021",
+          "publishedOn": "2024-04-26T15:21:05.000Z",
+          "wordCount": 182,
+          "title": "阿里巴巴发布了首个千亿参数的大模型 Qwen1.5-110B",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78020",
+          "author": null,
+          "description": "根据欧洲心脏病预防协会年度大会（EAPC）上发表的一项研究，爬楼梯与更长寿命之间存在相关性。论文作者表示，如果在走楼梯还是坐电梯中选择，最好是选走楼梯，因为这对心脏有好处。研究表明，即使是短暂的身体活动也会对健康产生有益影响，短时间爬楼梯应该是一个可以融入日常生活的、容易实现的活动。心血管疾病在很大程度上可以通过体育锻炼等活动来预防。然而，全世界超过 1/4 的成年人没有达到推荐的体力活动水平。爬楼梯是一种实用且容易实现的体力活动形式，但往往被忽视。这项研究调查了爬楼梯作为一种体力活动形式，能否在降低心血管疾病和过早死亡风险方面发挥作用。研究发现，与不爬楼梯相比，爬楼梯可使因各种原因死亡的风险降低 24%，因心血管疾病死亡的可能性降低 39%。爬楼梯还可以降低心脏病、心力衰竭和中风等心血管疾病的风险。",
+          "link": "https://www.solidot.org/story?sid=78020",
+          "publishedOn": "2024-04-26T14:51:24.000Z",
+          "wordCount": 160,
+          "title": "爬楼梯或简单运动有益心脏健康",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78019",
+          "author": null,
+          "description": "根据发表在《Frontiers in Nutrition》期刊上的一项研究，蛋糕、软饮料和口香糖使用的人造甜味剂纽甜（Neotame）能损害人体肠道并导致疾病。纽甜会导致原本健康的肠道细菌患病并侵入肠壁——可能导致肠易激综合征和败血症等健康问题——还会导致构成肠壁一部分的上皮屏障破裂。最新的人工甜味剂比糖甜 1000 倍，减少了添加到食品和饮料中的量。尽管使用量较小，但纽甜对上皮-微生物群关系的影响有可能导致肠道健康状况不佳，进而可能导致代谢和炎症性疾病，如肠易激病或胰岛素抵抗。之前的研究发现，糖精、三氯蔗糖和阿斯巴甜这几种最广泛使用的人工甜味剂可能会对肠道造成类似的损害。新研究强调了对最近开发的一些人工甜味剂的毒性影响进行进一步研究的必要性。",
+          "link": "https://www.solidot.org/story?sid=78019",
+          "publishedOn": "2024-04-26T14:42:50.000Z",
+          "wordCount": 162,
+          "title": "人造甜味剂纽甜可能会损害肠壁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78018",
+          "author": null,
+          "description": "中科院联合英、德、韩等国科学家，首次厘定长白山 3 万年前大喷发事件并揭示其精确年代。长白山是一座休眠的活火山，历史上发生过多次喷发。中外科学家利用显微火山灰方法，首次在日本海沉积物中鉴定出长白山 3 万年前一次大型喷发事件的产物。根据海洋火山灰独特的化学成分，该研究判定其与长白山天池火山口边缘巨厚的火山浮岩是同期喷发活动的产物。该研究综合利用海洋沉积物放射性碳测年、火山灰年代学、贝叶斯年龄建模等方法，为黄色浮岩喷发提供了可靠的年龄制约，揭示了这一事件发生在距今 29,948-29,625 年以前（95.4% 置信度）。",
+          "link": "https://www.solidot.org/story?sid=78018",
+          "publishedOn": "2024-04-26T10:30:27.000Z",
+          "wordCount": 172,
+          "title": "科学家确定长白山 3 万年前大喷发时间",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78017",
+          "author": null,
+          "description": "Consumer Intelligence Research Partners（CIRP）的报告显示，美国市场 iPhone 手机激活量下降，今年一季度美国激活的智能手机中每 3 部就有 2 部是 Android 手机。数据显示，2023 年第一季度和第二季度 iPhone 新手机激活量占总激活量的 40%，2024 年第一季度降至了 33%，这是 2017 年以来的最低水平。CIRP 认为，原因包括了前几年手机质量上升因此更换率下降，新手机新功能不足以吸引用户购买。",
+          "link": "https://www.solidot.org/story?sid=78017",
+          "publishedOn": "2024-04-26T09:52:41.000Z",
+          "wordCount": 184,
+          "title": "美国市场 iPhone 手机激活量下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78016",
+          "author": null,
+          "description": "美国疾控中心国家卫生统计中心的最新数据显示，美国生育率降至了百年来的最低水平。2023 年约 360 万婴儿出生，15-44 岁女性每千人生育 54.4 名活产婴儿。2023 年生育数量比 2022 年下降了 3%，创下了新低。2022-2023 年间，大多数年龄段生育率都略有下降。青少年生育率创新低，15-19 岁女性每 1000 人生育 13.2 名孩子，比 1991 年以来的最高值低 79%。与此同时，高龄母亲的生育率最高，下降幅度较小，其中 30-34 岁女性每 1000 人生育 95 人。40 岁及以上女性是生育率唯一出现上升的年龄段，每 1000 名人生育不到 13 人。",
+          "link": "https://www.solidot.org/story?sid=78016",
+          "publishedOn": "2024-04-26T09:30:32.000Z",
+          "wordCount": 187,
+          "title": "美国生育率降至百年来的最低水平",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78015",
+          "author": null,
+          "description": "知名沙盒游戏《Garry's Mod》开始删除创意工坊中所有与任天堂 IP 相关的内容，游戏作者 Garry 证实收到了来自任天堂的合法 DMCA 删除通知。此举引发了争议，目前《Garry's Mod》中最热门的社区新模组是《Nintendo-Office》。《Garry's Mod》最初是《Half-life》系列的免费模组，随着它日益受欢迎开发者 Garry 将其独立，建立了工作室并一直更新至今。删除的社区内容有的有近 20 年历史，开发者表示他们必须尊重任天堂的决定。",
+          "link": "https://www.solidot.org/story?sid=78015",
+          "publishedOn": "2024-04-26T08:22:25.000Z",
+          "wordCount": 192,
+          "title": "任天堂迫使 Garry's Mod 删除创意工坊中与其 IP 相关的内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78014",
+          "author": null,
+          "description": "路透援引消息来源称，如果所有法律选择都失败字节跳动宁愿关闭而不是出售 TikTok。消息来源称，TikTok 的算法是字节跳动的核心，TikTok 和算法一同出售的可能性是非常小的。而 TikTok 在字节跳动总收入和日活用户中的份额很小，因此字节跳动宁愿在最糟糕的情况下在美国关闭 TikTok，而不是将其出售给美国买家。关闭对字节跳动的影响有限，且不必放弃核心算法。字节跳动周四晚上通过今日头条发表声明称它没有出售 TikTok 的计划。",
+          "link": "https://www.solidot.org/story?sid=78014",
+          "publishedOn": "2024-04-26T07:03:39.000Z",
+          "wordCount": 168,
+          "title": "字节跳动宁愿关闭而不是出售 TikTok",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78013",
+          "author": null,
+          "description": "云计算公司 Twilio 的联合创始人和前 CEO Jeff Lawson 收购了美国最好的新闻源洋葱新闻（The Onion）。洋葱新闻的所有者 G/O Media 周四宣布将其出售给了 Global Tetrahedron——洋葱新闻在 1999 年出版的书籍《Our Dumb Century》中提到的一家虚构的邪恶公司。真实版的 Global Tetrahedron 所有者是 Jeff Lawson，CEO 是 NBC News 资深记者 Ben Collins。Lawson 在接受采访时表示他早就想收购洋葱新闻了。他说，世界需要笑声，比以往任何时候更需要讽刺性的批评。收购价格未披露，Lawson 承诺保留所有员工。",
+          "link": "https://www.solidot.org/story?sid=78013",
+          "publishedOn": "2024-04-26T06:30:25.000Z",
+          "wordCount": 202,
+          "title": "Twilio 联合创始人 Jeff Lawson 收购洋葱新闻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78012",
+          "author": null,
+          "description": "Canonical 发布了代号为 Noble Numbat 的 Ubuntu 24.04，这是它的第 10 个长期支持版本，支持最长 12 年（需付费）。Ubuntu 24.04 LTS 主要变化包括：Linux 6.8 内核，GNOME 46 桌面环境，新的图形固件更新工具  Firmware Updater，网络管理工具 Netplan 1.0，更新 Ubuntu 字体，支持 deb822 软件源格式，改进 vm.max_map_count， Mozilla Thunderbird 默认使用 Snap 打包格式，更新了基于 Flutter 的图形桌面安装程序，新的默认安装选项，64 位架构默认启用帧指针等等。",
+          "link": "https://www.solidot.org/story?sid=78012",
+          "publishedOn": "2024-04-26T06:00:37.000Z",
+          "wordCount": 210,
+          "title": "Ubuntu 24.04 LTS Noble Numbat 发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78011",
+          "author": null,
+          "description": "10 年前微软公布了 MS-DOS 1.25 和 2.0 源代码，现在它与 IBM 合作在 MIT 许可证下发布了 MS-DOS 4.00 的源代码。前微软 CTO Ray Ozzie 在其收藏的软盘中发现了未发布的 DOS 4.0 Beta 二进制文件，与 Ray 有交流的英国研究员 Connor“Starfrost”Hyde 联络了微软开源项目办公室(OSPO)，探讨了发布 DOS 4 源代码的可能性。微软员工在 Microsoft Archives 中找到了 DOS 4.0 的源代码。此次发布的源代码包含了 Ray Ozzie 软盘中的 Beta 二进制文件以及相关文档。感兴趣的人可以在开源 PCem 和 86box 模拟器中运行 DOS 4.0。",
+          "link": "https://www.solidot.org/story?sid=78011",
+          "publishedOn": "2024-04-26T05:35:50.000Z",
+          "wordCount": 218,
+          "title": "微软 IBM 开源 MS-DOS 4.00",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78010",
           "author": null,
@@ -953,146 +1083,6 @@
           "wordCount": 173,
           "title": "YouTube 打击广告屏蔽扩大到第三方应用",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77933",
-          "author": null,
-          "description": "Mozilla 释出了 Firefox 125。主要新特性包括：Encrypted Media Extensions (EME)支持 AV1 编解码器；PDF 查看器支持文本高亮；Firefox View 在  Open tabs 栏显示固定标签页，Open tabs 还加入了标签指示器；主动阻止被认为来自不可信网址的下载；配置使用系统代理设置时可选启用 Web Proxy Auto-Discovery(WPAD)；默认启用 WebAssembly multi-memory 模式；在地址栏快速粘贴剪切板拷贝的网址，等等。",
-          "link": "https://www.solidot.org/story?sid=77933",
-          "publishedOn": "2024-04-17T14:17:50.000Z",
-          "wordCount": 187,
-          "title": "Firefox 125 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77932",
-          "author": null,
-          "description": "这每天都在发生。通过水、食物，甚至空气中，微小的塑料颗粒正在进入人体的许多部位。但微塑料一旦进入人体会发生什么呢？它们对消化系统有什么影响？新墨西哥大学的研究人员发现，微塑料对消化途径产生了重大影响，它们从肠道进入肾脏、肝脏和大脑的组织。科学家估计，人们平均每周摄入 5 克塑料微粒，相当于一张信用卡的重量。在四周的时间里，研究人员将小鼠暴露在饮用水中的微塑料中。研究小组发现，微塑料从肠道迁移到肝脏、肾脏甚至大脑的组织中。微塑料还改变了受影响组织的代谢途径。",
-          "link": "https://www.solidot.org/story?sid=77932",
-          "publishedOn": "2024-04-17T13:52:19.000Z",
-          "wordCount": 159,
-          "title": "微塑料会从肠道进入其他器官",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77931",
-          "author": null,
-          "description": "天文学家发现迄今为止银河系中最大的恒星黑洞，其质量是太阳的 33 倍，被命名为 Gaia BH3。Gaia BH3 距离地球约 1926 光年，是迄今为止发现的距离地球第二近的黑洞，它是由一颗生命末期的恒星形成的。没有光可以逃离黑洞，所以大多数黑洞都是通过观察围绕其运行并落入其中的热物质的辉光而发现的。然而 Gaia BH3 处于休眠状态，不吞噬任何物质。研究人员通过注意到一颗恒星的奇怪运动发现了它，这颗恒星似乎在绕着一片空旷的空间旋转。这颗恒星本身也很不寻常——几乎完全由氢和氦组成。大多数恒星至少含有一些较重的元素，这些元素形成于大质量恒星的中心，并通过超新星分布在整个太空中。但第一代恒星的重元素含量很低。BH3 伴星的组成表明，最终坍缩形成 BH3 的巨大恒星也是这些原始物体之一，其演化方式可能与今天的大质量恒星不同。这就解释了黑洞为何会变得如此巨大。如果它的演化过程更像普通恒星，那么它的大小就很难解释。",
-          "link": "https://www.solidot.org/story?sid=77931",
-          "publishedOn": "2024-04-17T13:36:12.000Z",
-          "wordCount": 171,
-          "title": "天文学家在银河系发现巨大的恒星黑洞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77930",
-          "author": null,
-          "description": "波士顿动力周二退役了它的双足人形机器人 Atlas。Atlas 于 2013 年 7 月首次亮相，是与美国国防部研究机构 DARPA 合作的项目。DARPA 指出 Atlas 首次亮相是当时最先进的人形机器人，但它就像人类婴儿一样蹒跚学步，经常摔倒。Atlas 过去十年取得了很大的进步，但它的部分系统如液压系统以今天的标准而言已经落伍了。波士顿动力今天隶属于韩国现代，它的重心已经转向了商业化其机器人技术，Atlas 到退役前仍然是一个原型，而波士顿动力的销售主力是仓库轮式机器人 Stretch 和用于执行巡逻等任务的四足机器人 Spot。",
-          "link": "https://www.solidot.org/story?sid=77930",
-          "publishedOn": "2024-04-17T12:45:27.000Z",
-          "wordCount": 176,
-          "title": "波士顿动力退役它的双足人形机器人 Atlas",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77929",
-          "author": null,
-          "description": "美国国家标准技术局（NIST）在 2022 年宣布了后量子加密和签名算法竞赛的首批获胜者，一共四种，其中三种是基于格的算法，还有一种是基于哈希的算法，其中基于格的算法包括了 Kyber 和 CRYSTALS-Dilithium。后量子加密流行基于格的算法是因为寻找格上的最短向量被认为是计算机领域最困难的问题之一，至今没有经典或量子算法能在多项式时间内解决该问题。清华大学助理教授、上海期智研究院的陈一镭于 4 月 10 日发表的一篇尚未通过同行评议的预印本《Quantum Algorithms for Lattice Problems》在加密学社区引发了热议，论文提出了一种多项式时间量子算法，能有效解决有特定参数的格的“最短独立向量问题”。如果成立，将降低量子计算机破解特殊格问题的难度。陈的算法并不立刻适用于 Kyber 和 Dilithium 等 NIST 标准化的格算法，其确切复杂性也不清楚，可能未必能在量子计算机上运行。但如果得以改进，那么后量子加密可能将要淘汰基于格的方案，需要重新研究新的算法去抵御量子计算机。",
-          "link": "https://www.solidot.org/story?sid=77929",
-          "publishedOn": "2024-04-17T11:15:19.000Z",
-          "wordCount": 177,
-          "title": "基于格的后量子算法可能无法抵御量子计算机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77928",
-          "author": null,
-          "description": "特斯拉宣布将在全球裁员 10%。截至 2023 年 12 月底，特斯拉共拥有约 14 万名员工。规模最大的中国上海工厂、美国国内的多家工厂以及德国工厂都有可能裁员。据调查公司 MarkLines 的数据，1～3 月特斯拉在中国的出货量为 22 万 876 辆，同比减少 3.7%。1～3 月的全球销量出现 4 年来的首次下滑。电动汽车（EV）销量领先的特斯拉下决心裁员，表明各国的 EV 市场出现异常。在中国低价 EV 的挤兑下，已经无力进行反抗。从 2023 年的汽车出口情况来看，中国超过日本位居世界第一，1～3 月的出口量同比增加两成。",
-          "link": "https://www.solidot.org/story?sid=77928",
-          "publishedOn": "2024-04-17T08:42:51.000Z",
-          "wordCount": 185,
-          "title": "特斯拉宣布裁员 10%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77927",
-          "author": null,
-          "description": "今年 2 月遭勒索软件攻击的美国医疗公司 Change Healthcare 的母公司 UnitedHealth 披露，此次攻击至今造成的损失为 8.72 亿美元。UnitedHealth 在截至 3 月 31 日的第一季度财报中表示，攻击对公司的影响为每股  0.74 美元，预计到年底会增加到每股 1.15-1.35 美元。与此次攻击相关的补救工作还在进行之中，因此随着时间推移，与业务中断和修复相关的总费用可能会超过 10 亿美元，其中包括可能向勒索软件组织 ALPHV/BlackCat 支付 2200 万美元的赎金。Change Healthcare 拒绝证实是否支付了赎金，而 ALPHV/BlackCat 在获得赎金之后宣布停止运作，它没有向其加盟成员支付佣金。但这些加盟成员仍然控制着窃取自 Change Healthcare 的数据，没有获得佣金的组织开始威胁泄露窃取的数据。",
-          "link": "https://www.solidot.org/story?sid=77927",
-          "publishedOn": "2024-04-17T08:16:55.000Z",
-          "wordCount": 207,
-          "title": "Change Healthcare 勒索软件攻击的损失可能高达 10 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77917",
-          "author": null,
-          "description": "OpenJS 基金会发出警告，称 XZ 后门事件可能不是一起孤立事件。在 XZ 事件中，攻击者 Jia Tan（化名）潜伏长达两年多时间，最终获得信任成为项目的共同维护者。OpenJS 基金会称，他们观察到了类似的行动，他们收到了一系列邮件，要求基金会采取行动更换其管理的流行 JavaScript 项目的维护者，以解决高危漏洞。邮件使用了 GitHub 关联邮箱。这和 XZ 项目维护者 Lasse Collin 收到的施压邮件十分相似。类似事件凸显了快速发展的开源生态系统所面临的安全风险，尤其是今天软件的依赖关系错综复杂。",
-          "link": "https://www.solidot.org/story?sid=77917",
-          "publishedOn": "2024-04-17T07:08:45.000Z",
-          "wordCount": 178,
-          "title": "XZ 后门事件可能不是一起孤立事件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77916",
-          "author": null,
-          "description": "英国司法部宣布，根据一项新法律制作深度伪造的性露骨图像将定为犯罪行为。根据新的刑事司法法案修正案，任何未经同意制作此类图像的人都将面临犯罪记录和无上限的罚款。如果图像被广泛分享，制作者还可能面临监禁。司法部表示，无论创作者是否打算分享，制作深度伪造色情图像都将构成犯罪。生成式 AI 的流行让制作深度伪造色情图像比以往任何时候都容易。英国受害者与保护大臣 Laura Farris 表示，制作深度伪造色情图像，无论是否分享都是不可接受的。",
-          "link": "https://www.solidot.org/story?sid=77916",
-          "publishedOn": "2024-04-17T06:19:45.000Z",
-          "wordCount": 161,
-          "title": "英国将制作深度伪造的色情图像定为非法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77915",
-          "author": null,
-          "description": "瑞典和美国科学家对北极地区三种主要温室气体评估发现，北极永久冻土区域向大气排放的碳比吸收的碳多，导致地球进一步变暖。在最新研究中，北欧区域研究所团队发现永久冻土区从碳汇转变到碳源。2000-2020 年间，该地区每年排放 1.44 亿吨碳。该地区同期还排放了甲烷，以及每年排放 300 万吨氮，其中部分以一氧化二氮的形式排放，这是一种更强大的温室气体。研究人员表示，永久冻土地区是大气温室气体的一个新来源，现有全球气候模型没有完全考虑到这一点。",
-          "link": "https://www.solidot.org/story?sid=77915",
-          "publishedOn": "2024-04-17T06:00:55.000Z",
-          "wordCount": 161,
-          "title": "北极永久冻土成为碳排放新来源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77905",
-          "author": null,
-          "description": "微软亚洲研究院的中国研究人员周二发布了一个新的 AI 模型 WizardLM-2-7B，权重发布在 Hugging Face 平台上。但几小时后微软就将其从平台上移除。研究人员解释说，原因是他们意外错过了微软发布新模型前要求进行的安全测试步骤。一位知情人士表示，微软的 AI 政策要求，在发布任何 AI 模型前，必须首先获得公司委员会 Deployment Safety Board 的批准，该委员会将测试模型是否能执行有害任务，如生成暴力或令人不安的内容。WizardLM-2-7B 模型能完成文本生成、代码建议、翻译不同语言，或解决数学问题等任务。",
-          "link": "https://www.solidot.org/story?sid=77905",
-          "publishedOn": "2024-04-17T05:54:05.000Z",
-          "wordCount": 180,
-          "title": "微软亚洲研究院开源然后移除了新 AI 模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77904",
-          "author": null,
-          "description": "开发者 Kevin Bentley 公开了科幻射击游戏《Descent 3》的源代码，采用 MIT 许可证托管在 GitHub 上。《Descent 3》由 Outrage Entertainment 开发 Interplay Entertainment 发行，1999 年发布，玩家扮演一位雇佣兵组织去阻止被外星病毒感染的机器人。游戏获得了好评，其 Metacritic 评分为 89/100。公开的源代码属于最新版本，包含了未发布的 1.5 版本，剥离了 Interplay 的部分私有音频和视频库，支持 Windows、Linux 和 Mac。",
-          "link": "https://www.solidot.org/story?sid=77904",
-          "publishedOn": "2024-04-16T15:36:30.000Z",
-          "wordCount": 195,
-          "title": "《Descent 3》源代码在 MIT 许可证下公布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77903",
-          "author": null,
-          "description": "加州伯克利的研究人员在湾区安装了数十个传感器监测碳排放，首次量化了电动汽车减少碳足迹的程度。根据发表在《Environmental Science & Technology》期刊上的研究，2018-2022 年间，湾区碳排放量每年下降 1.8%。研究人员称，这几乎完全归功于司机改为驾驶电动汽车。加州居民在此期间购买了 71.95 万辆零排放或混动汽车。但仅仅靠电动汽车仍然无法实现加州的减排计划，要实现减排目标加州每年需要减少 3.7% 的碳排放量。",
-          "link": "https://www.solidot.org/story?sid=77903",
-          "publishedOn": "2024-04-16T14:56:59.000Z",
-          "wordCount": 171,
-          "title": "电动汽车帮助加州湾区碳排放每年下降 1.8%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77902",
-          "author": null,
-          "description": "三星曾连续 12 年成为全球最大智能手机制造商，2023 年底它被苹果超过。但今年一季度三星重新夺回最大手机制造商的宝座。IDC 的数据显示，1-3 月全球智能手机出货量增长 8% 至 2.894 亿部。 三星市场份额 20.8%，超过了苹果 17.3% 的份额，苹果的市场份额因中国销量放缓而下降。苹果第一季度 iPhone 出货量为 5010 万部，低于去年同期的 5540 万部。这是 2022 年新冠疫情封锁导致全球供应链混乱以来 iPhone 销量最大幅度的下滑。iPhone 销量的下滑部分归因于它在中国面临的挑战。本土竞争对手施加了更多的压力，中国政府同时对政府机构使用 iPhone 实施了更多限制。",
-          "link": "https://www.solidot.org/story?sid=77902",
-          "publishedOn": "2024-04-16T14:30:29.000Z",
-          "wordCount": 183,
-          "title": "三星再次超过苹果成为最大智能手机制造商",
-          "imageUrl": null
         }
       ]
     },
@@ -1183,6 +1173,26 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/what-is-a-hidden-browser",
+          "author": null,
+          "description": "TLDR:  You can instantly access a hidden browser via browserling.com/browse. Created by me and my team, our service lets you access a cloud-based browser that lasts for a single session and leaves no history, cookies, or downloads behind.\nHidden Browser – What Is It?\nA hidden browser is a cloud-based browser that runs without storing any local data such as history, cookies, or downloads. It's designed to be known and accessed only by the user, ensuring privacy and anonymity in online activities. This type of browser provides a discreet way to access the Internet, leaving no trace of user activity on the local device.\nHidden Browser – How Does It Work?\nA hidden browser works by starting a new cloud server with a fresh, clean setup for each browsing session. It doesn't keep any history, cook…",
+          "link": "https://catonmat.net/what-is-a-hidden-browser",
+          "publishedOn": "2024-04-26T21:25:00.000Z",
+          "wordCount": 872,
+          "title": "What is a Hidden Browser? (And How To Get One)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/1000-paying-left-pad-users",
+          "author": null,
+          "description": "Success! 💸\nMy Left-pad a String tool now has 1000 paying users! 🎉\nI promise I won't put it on npm, won't unpublish it, and I definitely won't rewrite it in Rust. ✌️\nSee you next time! 👋\nPS. Use coupon code 0000LEFTPAD for 30% off. 💰",
+          "link": "https://catonmat.net/1000-paying-left-pad-users",
+          "publishedOn": "2024-04-26T09:25:00.000Z",
+          "wordCount": 337,
+          "title": "There are now 1000 paying left-pad users! 🤑",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/30pct-discount-on-selected-tools",
           "author": null,
