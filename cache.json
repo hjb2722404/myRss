@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=48247",
+          "author": "青小蛙",
+          "description": "BuhoCleaner 是一款兼容苹果最新 M 系列新品的 Mac 磁盘清理工具，界面简单，操作容易，拥有垃圾文件清理、应用卸载、大文件清理、重复文件清理、启动项管理、磁盘空间分析、碎纸机等功能。@A",
+          "link": "https://www.appinn.com/buhocleaner/",
+          "publishedOn": "2024-04-28T07:09:20.000Z",
+          "wordCount": 2699,
+          "title": "BuhoCleaner – 简洁优雅的 Mac 磁盘清理工具",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-23T120450.160.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=48295",
+          "author": "青小蛙",
+          "description": "BePresent 是一款由多邻国创始人 @Jack Winston 发布的新 iPhone 应用，利用 iOS 的屏幕使用时间功能，结合多邻国式奖励机制（连胜、排行榜等），来激励你减少手机使用，并且",
+          "link": "https://www.appinn.com/bepresent/",
+          "publishedOn": "2024-04-28T05:11:17.000Z",
+          "wordCount": 2627,
+          "title": "BePresent – 多邻国创始人新 iPhone 应用：通过连胜、排行榜激励用户减少手机使用",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-28T120305.617.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48291",
           "author": "青小蛙",
           "description": "Seal 是一款安卓在线视频下载应用，基于著名的开源下载工具 yt-dlp，支持从数千个视频平台下载视频，内置了 aria2 下载器。@Appinn 又是一款将原本需要在电脑进行处理的活，迁移到了安卓",
@@ -110,31 +130,6 @@
           "wordCount": 2606,
           "title": "imfile –  源自 Motrix，跨平台下载工具，支持 HTTP、BT、磁力",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-20T083814.198.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48225",
-          "author": "青小蛙",
-          "description": "Pretty Snap 是一款在线的截图美化工具，能够为普通的截图添加渐变色背景、模糊阴影、圆角以及水印，简单易用，让你的截图骚气与专业并存。@Appinn 来自发现频道，开发者 @dev.AWai",
-          "link": "https://www.appinn.com/pretty-snap/",
-          "publishedOn": "2024-04-19T07:47:59.000Z",
-          "wordCount": 2593,
-          "title": "Pretty Snap – 截图美化工具：让普通截图骚气与专业并存[Web]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-19T151554.459.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48216",
-          "author": "青小蛙",
-          "description": "我们的老朋友数码荔枝，最近开启了「正版四月惠」活动！会场精选了一批高效办公软件和系统增强工具，快来看看有没有你期待的那一款吧～ 优惠内容 具体产品 1. MarginNote 3：Mac 端 PDF/",
-          "link": "https://www.appinn.com/lizhi-april-24/",
-          "publishedOn": "2024-04-19T04:57:22.000Z",
-          "wordCount": 2861,
-          "title": "数码荔枝正版四月惠：MarginNote / BookxNote / 白描等 20+ 正版软件优惠啦",
-          "enclosure": {
-            "url": "https://www.appinn.com/wp-content/uploads/2024/04/lizhi-28.webm",
-            "length": "191663",
-            "type": "video/webm"
-          },
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-04-19T115104.614.jpg"
         }
       ]
     },
@@ -194,6 +189,156 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78037",
+          "author": null,
+          "description": "微软 Windows 24H2 将包含名为 AI Explorer 的新工具。walkingdog 写道：\nAI Explorer 的更多功能细节已经流出：AI Explorer 依赖 Windows 设备的 NPU 在后台进行运行，AI Explorer 会理解屏幕上所有应用和画面产生的行为并将它们记录为“记忆”，这些记忆可通过后续的搜索来进行调用，AI Explorer 的大多数计算工作都是在本地进行。AI Explorer 通过记忆提供多种交互方式：AI 搜索和基于上下文的应用操作。通过 AI Explorer 搜索框搜索设备上的记忆，搜索功能完全支持自然语言。比如：找回几天前在网页上看到的有关某些动物的内容，只需要在搜索框中输入“给我展示几天前我在网页上看到的关于某个动物的页面内容”即可。AI Explorer 可以让不同应用之间的内容进行交互协同，比如：在屏幕上打开两份文档，让 AI Explorer 进行对比分析并草拟邮件给出分析结果；在浏览图片时 AI Explorer 会提示一些图片编辑操作（移除背景）等。基于上下文的应用操作不需要开发者专门适配，完全由 AI Explorer 通过理解和学习屏幕内容而给出操作建议。",
+          "link": "https://www.solidot.org/story?sid=78037",
+          "publishedOn": "2024-04-28T16:10:06.000Z",
+          "wordCount": 207,
+          "title": "微软的 AI Explorer 将读取屏幕上的所有内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78036",
+          "author": null,
+          "description": "获得诺基亚品牌授权的芬兰公司 HMD 发布了首款自有品牌手机，首批产品主打低端市场。HMD 在欧洲市场推出三款 HMD Pulse 产品，分别是 140 欧元的 HMD Pulse、160 欧元的 Pulse+，以及 180 美元的 Pulse Pro，使用了紫光展锐的 12 纳米芯片 606 SoC，包含了 2 个 Cortex A75 Arm 核心，2 个 A55 核心，以及 ARM Mali-G57 MP1；显示屏为 90 Hz、6.65 英寸和 1612×720 分辨率 LCD，128GB 存储 和 5000 mAh 电池。三款产品的差异主要是摄像头、内存和充电器。HMD 将于下个月在美国市场推出 HMD Vibe，配备了高通的 6 纳米芯片 Snapdragon 680，包含了 4 个 Cortex A73 核心和 4 个 Cortex A53 核心，内存为 6GB，屏幕与 HMD Pulse 系列相同，电池 4000 mAh，售价 150 美元。",
+          "link": "https://www.solidot.org/story?sid=78036",
+          "publishedOn": "2024-04-28T15:34:19.000Z",
+          "wordCount": 228,
+          "title": "HMD 发布了首款自有品牌手机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78035",
+          "author": null,
+          "description": "黑客正在尝试利用最近披露的一个 WordPress 插件高危漏洞控制网站。该漏洞位于 WordPress Automatic 插件，该插件有逾 3.8 万付费用户，被用于整合其它网站的内容。安全公司 Patchstack 的研究人员上个月披露，WordPress Automatic v3.92.0 及以下版本存在一个 9.9/10 的高危漏洞 CVE-2024-27596，该漏洞属于 SQL 注入，可被用于执行各种敏感操作，包括获得管理权限，上传恶意文件完全控制网站。插件开发商 ValvePress 已经发布了补丁 v3.92.1 修复漏洞。网络安全公司 WPScan 本周报告，自漏洞披露以来，它纪录到了逾 550 万次漏洞利用尝试。它没有披露有多少次尝试成功了。",
+          "link": "https://www.solidot.org/story?sid=78035",
+          "publishedOn": "2024-04-28T15:16:51.000Z",
+          "wordCount": 189,
+          "title": "黑客正尝试利用最近披露的一个 WordPress 插件高危漏洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78034",
+          "author": null,
+          "description": "至少十亿年来第一次，两种生命形式合并为单一有机体。研究报告发表在《科学》和《细胞》期刊上。这一过程被称为第一次内共生（primary endosymbiosis），在地球历史上共发生两次，第一次是通过线粒体产生了我们所知的复杂生命，第二次是植物的出现。现在一个国际科学小组观察到了海洋常见的一种藻类与细菌之间的演化事件：藻类吞噬细菌，为其提供营养、能量和保护，换取它没有的功能——固氮。藻类然后将细菌整合为一种称为细胞器的内部器官。研究人员表示，这将为演化过程提供了新的见解，有可能从根本上改变农业。",
+          "link": "https://www.solidot.org/story?sid=78034",
+          "publishedOn": "2024-04-28T14:12:44.000Z",
+          "wordCount": 163,
+          "title": "10 亿年来两种生命形式首次合并成单一有机体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78033",
+          "author": null,
+          "description": "Pikesville High School 前体育指导员 Dazhon Darien 周四被捕，被控多项罪名，其中之一是伪造了校长 Eric Eiswert 的声音，在社交媒体上发布了种族主义言论，导致了校长被停职。警方称，Darien 制作 AI 语音是为了报复校长，因为校长已对学校资金可能被不正确处理发起调查。他制作的语音模拟校长的声音贬低了黑人学生和犹太社区，该语音在社交媒体上广泛传播。校长被停职，社交媒体传播着一波又一波仇恨信息，学校收到了大量电话。Darien 被捕时正准备飞往休斯顿，他随身携带了武器。",
+          "link": "https://www.solidot.org/story?sid=78033",
+          "publishedOn": "2024-04-28T12:46:53.000Z",
+          "wordCount": 178,
+          "title": "校长被 AI 生成的种族主义言论陷害",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78032",
+          "author": null,
+          "description": "思科 Talos 安全团队研究人员警告，有政府背景的黑客正利用思科防火墙的两个 0day 入侵世界各地的政府网络。研究人员称，从去年 11 月起，被称为 UAT435 aka STORM-1849 的黑客组织利用两个 0day 安装两种全新的恶意程序。攻击者使用的利用链组合利用了多个漏洞，其中至少两个是 0day；两种功能完整的后门之一只在内存中运行，以防止监测；攻击者会仔细清除掉后门留下的痕迹。研究人员根据攻击者的行为特征认为其有国家背景。攻击者利用的两个 Adaptive Security Appliances 防火墙 0day 漏洞其中之一是 CVE-2024-20359，另一个是 CVE-2024-20353，思科已经释出了补丁修复漏洞。",
+          "link": "https://www.solidot.org/story?sid=78032",
+          "publishedOn": "2024-04-28T11:47:08.000Z",
+          "wordCount": 186,
+          "title": "黑客利用思科防火墙 0day 入侵政府网络",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78031",
+          "author": null,
+          "description": "为什么福尔摩斯会用猎犬来寻找线索，而不是用哈巴狗？根据发表在 bioRxiv 上的预印本，这一切都归结为行为和训练，而不是狗本身具有的气味探测能力。该研究没有发现任何证据能表明某些家犬品种的嗅觉比其他品种更好。这项尚未经同行评审的研究，挑战了长期以来被吹捧的观点，即一些工作犬种，如德国牧羊犬、猎犬和拉布拉多寻回犬，与其他狗相比，具有特别发达的气味探测能力。研究人员认为，这些狗在气味探测方面的成功可能源于几代人对该品种的训练。研究人员没有发现遗传或骨骼证据表明某些家犬品种的鼻子比其他品种的好。他们认为，一些狗的行为特征，如取悦他人或高耐力，使它们看起来比其他狗的鼻子更有辨识力。",
+          "link": "https://www.solidot.org/story?sid=78031",
+          "publishedOn": "2024-04-28T08:47:06.000Z",
+          "wordCount": 160,
+          "title": "不同品种狗的嗅觉无显著差异",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78030",
+          "author": null,
+          "description": "一项新的研究表明，鸟蛋和筑巢的幼鸟暴露在中等水平的人为交通噪音中，会对它们的长期发育和健康产生巨大、直接和累加的不利影响。噪音污染已经成为一个全球性的问题，即使在地球上最偏远的地方也是如此。暴露于人为噪声污染对动物的不利影响已被充分记录，包括对声音通信和行为的影响。目前还不清楚噪音声波是否对发育中的孩子有害，或者只是干扰和/或改变父母的行为。为了更好地理解这些影响，研究人员调查了在中等噪音环境中发育中的野生斑胸草雀对健康的影响。根据研究结果，鸟蛋中暴露于中度人为交通噪音的鸟类经历了长期影响，包括筑巢生长受损，端粒长度缩短，成年后健康状况下降。",
+          "link": "https://www.solidot.org/story?sid=78030",
+          "publishedOn": "2024-04-28T08:32:32.000Z",
+          "wordCount": 157,
+          "title": "交通噪音会对幼鸟造成终身伤害",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78029",
+          "author": null,
+          "description": "2020 年 6 月中印发生了边界冲突，之后印度以国家安全相关的理由封禁了逾 500 款中国应用，其中包括了 TikTok。当时的 TikTok 在印度有 2 亿用户，有逾 2000 名员工，印度是 TikTok 最大的海外市场。印度封杀 TikTok 四年之后，它的用户以及内容创作者去了哪里？Google 和 Meta/Facebook 迅速推出了各自的短视频应用 YouTube Short 以及 Instagram Reels，填补了空白，占据了绝大部分 TikTok 留下的市场。大多数内容创作者和用户都转移到了其它平台。封杀 TikTok 带来的影响未必有人们以为的那么大。",
+          "link": "https://www.solidot.org/story?sid=78029",
+          "publishedOn": "2024-04-28T07:59:31.000Z",
+          "wordCount": 192,
+          "title": "印度封杀 TikTok 四年之后",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78028",
+          "author": null,
+          "description": "挪威石油基金 CEO Nicolai Tangen 表示，欧洲人没有美国人勤奋，那么野心勃勃，欧洲的监管更多，更规避风险。挪威石油基金是世界最大的主权财富基金之一，其资金规模高达 1.6 万亿美元。他表示美国公司创新和技术方面超越欧洲竞争对手，过去十年美国股市表现远优于欧洲。欧洲在接受错误和风险上存在心态问题。在美国你失败了可以得到另一个机会，而在欧洲失败则意味着死亡。美国和欧洲在野心上也存在差异，欧洲人的野心不大，工作和生活更平衡，而美国人更勤奋。挪威石油基金过去十年持有的美国公司股票在增加，欧洲公司股票则在下降。2013 年美国股票比例为 32%，如今接近半数。英国股票的比例从 10 年前的 15% 降至了 6%。",
+          "link": "https://www.solidot.org/story?sid=78028",
+          "publishedOn": "2024-04-28T07:05:40.000Z",
+          "wordCount": 177,
+          "title": "挪威石油基金 CEO 称欧洲人没有美国人勤奋",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78027",
+          "author": null,
+          "description": "支持 GNOME 桌面环境项目的非盈利基金会宣布将加大筹款力度。GNOME 基金会主席 Robert McQueen 表示，基金会在 3 年多时间内处于赤字状态，即年支出高于年筹款，主要依靠 4-5 年前筹集到的大额捐款储备金运营。基金会的一项政策要求保留最低金额的储备金。因此当收入出现重大中断，可以在寻找新资金来源的同时保留核心业务。目前资金已经接近红线，董事会无法再批准更多赤字预算，为了将支出保持再同一水平，需要增加收入。基金会去年 10 月聘请 Holly Million 担任执行董事，她正在制定筹款计划。",
+          "link": "https://www.solidot.org/story?sid=78027",
+          "publishedOn": "2024-04-28T06:04:26.000Z",
+          "wordCount": 176,
+          "title": "GNOME 基金会将加大筹款力度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78026",
+          "author": null,
+          "description": "去中心化微博服务 Mastodon 在美国成立 501(c)(3) 非盈利实体，美国居民的捐赠将可以抵税。Mastodon 目前有逾 1510 万用户。新实体的董事会成员包括了人权倡导者 Esra’a Al Shafei、前 Shuttleworth 基金董事 Karien Bezuidenhout、Amir Ghavi、Mastodon 首席财务官 Felix Hlatky，以及 Twitter（现改名为 X）的联合创始人 Biz Stone。",
+          "link": "https://www.solidot.org/story?sid=78026",
+          "publishedOn": "2024-04-28T04:26:24.000Z",
+          "wordCount": 182,
+          "title": "Mastodon 在美国成立非盈利实体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78025",
+          "author": null,
+          "description": "Windows 11 的一个预览版本 Insider Build 26200 被发现包含了一个 AI 硬件规格检测工具 AI Explorer。如果你的 PC 硬件未达到标准，它将显示水印形式的警告。目前的 AI Explorer 针对的是 Windows 11 的 ARM64 版本，要求系统配备 NPU 以及 16 GB 内存和 225 GB 系统存储空间。x86 版本目前所知的是 Windows 11 24H2 强制性要求 CPU 必须支持 SSE4.2 指令集，而今天几乎所有 x86 CPU 都支持该指令集。",
+          "link": "https://www.solidot.org/story?sid=78025",
+          "publishedOn": "2024-04-27T15:23:13.000Z",
+          "wordCount": 224,
+          "title": "如果 PC 未达到支持 AI 的硬件标准 Windows 11 将显示水印",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78024",
+          "author": null,
+          "description": "英特尔第 13 代和 14 代酷睿高端桌面处理器如 i9-13900K 和 i9-14900K 被发现存在与高功耗相关的不稳定性问题。芯片巨人表示将在五月就此问题发表公开声明。英特尔称，大部分报告稳定性问题的芯片使用的主板解锁了超频功能；600/700 系列芯片组主板的 BIOS 默认禁用了散热和供电保护措施，如禁用电流过载保护、不限制最大电流等。英特尔建议默认 BIOS 设置应确保在其推荐的设置内运行，建议主板制造商提醒用户不要超频。",
+          "link": "https://www.solidot.org/story?sid=78024",
+          "publishedOn": "2024-04-27T14:29:44.000Z",
+          "wordCount": 177,
+          "title": "英特尔将在五月就其高端桌面 CPU 的稳定性问题发表声明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78023",
+          "author": null,
+          "description": "深圳大疆主导着商用和消费级无人机市场，2022 年它被五角大楼列入了黑名单，意味着军方被禁止采购大疆的无人机。现在美国国会正在考虑立法将其列入联邦通信委员会的黑名单，禁止联邦通信设施使用大疆的无人机，此举将扼杀它在美国的大部分商用无人机业务。该法案得到了美国两党的支持，\n\n\n\n大疆发起了强有力的游说活动试图阻止该法案。",
+          "link": "https://www.solidot.org/story?sid=78023",
+          "publishedOn": "2024-04-27T13:46:22.000Z",
+          "wordCount": 162,
+          "title": "深圳大疆可能成为美国下一个封禁目标",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78022",
           "author": null,
@@ -882,86 +1027,6 @@
           "publishedOn": "2024-04-19T14:40:13.000Z",
           "wordCount": 169,
           "title": "黑客威胁披露与制裁和金融犯罪相关的黑名单数据库",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77953",
-          "author": null,
-          "description": "Phoronix 在同一台笔记本电脑上对比了 Ubuntu 23.10、Ubuntu 24.04 LTS 和 Windows 11 的性能，显示 Ubuntu 24.04 表现最佳。评测的笔记本是 Framework 16，配备了 AMD Ryzen 7 7840HS SoC，Radeon RX 7700S 显卡，512GB SN810 NVMe SSD，MediaTek MT7922 WiFi 和 2560 x 1600 显示屏。作者共完成了 101 项基准测试，67% 的测试中 Ubuntu 24.04 领先，22% 的测试中 Ubuntu 23.10 领先（与 24.04 相差甚微），Windows 11 仅在 10% 的测试中领先。如果取平均值，Ubuntu 23.10 比 Windows 11 快 16%，而 Ubuntu 24.04 比 Windows 11 快 20%。",
-          "link": "https://www.solidot.org/story?sid=77953",
-          "publishedOn": "2024-04-19T14:16:05.000Z",
-          "wordCount": 238,
-          "title": "基准测试显示在同一台笔记本上 Ubuntu 24.04 性能胜过 Windows 11",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77952",
-          "author": null,
-          "description": "为了更好的将 AI 整合到产品中，Google 合并了 Android 和硬件团队。CEO Sundar Pichai 周四宣布了内部重组，成立了名为 Platforms and Devices 的新团队，负责 Pixel、Android，Chrome，ChromeOS，Photos 等产品。新团队的主管是之前负责硬件业务的高级副总裁 Rick Osterloh，原负责 Android 和 Chrome 的 Hiroshi Lockheimer 将转移到其他项目。Osterloh 表示此举旨在更快的将 AI 整合到产品中。对于 AI 革命，Google 在很多方面都措手不及，它现在知道需要尽可能快的采取行动。",
-          "link": "https://www.solidot.org/story?sid=77952",
-          "publishedOn": "2024-04-19T12:55:15.000Z",
-          "wordCount": 205,
-          "title": "一切为了 AI Google 合并 Android 和硬件团队",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77951",
-          "author": null,
-          "description": "澳大利亚 Star Casino 赌场的票据式老虎机（TICO）因软件故障导致其在兑换时多吐出了 205 万美元。\n赌场经理 Nicholas Weeks 解释说，TICO 机器的一项功能允许插入两张票据进行兑换，但软件故障导致其会退回一张票据并将其条形码识别为未付款，这意味着其中一张票据可以重复兑换。这一消息传开之后，有 43 人跑去 TICO 机器重复兑换票据，其中至少一人是正在戒赌的上瘾者。滥用该功能的人已经受到指控，其中一人被指与犯罪团伙有关联。",
-          "link": "https://www.solidot.org/story?sid=77951",
-          "publishedOn": "2024-04-19T12:38:31.000Z",
-          "wordCount": 178,
-          "title": "软件故障导致老虎机多吐出逾 200 万美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77950",
-          "author": null,
-          "description": "美国空军试飞院和 DARPA 宣称在机器学习上取得突破，它演示了 AI 软件控制的 F-16 战斗机能与人类飞行员展开近距离缠斗。演示是基于 X-62A VISTA，该试验机是修改版的 F-16 战斗机，集成了飞行模拟器，能让 AI 或者称为机器学习代理（ML-Agents）控制飞机。AI 首次驾驶 X-62A 是在 2022 年 12 月，2023 年 9 月 AI 驾驶的 X-62A 与人类驾驶的 F-16 进行了模拟空战。DARPA 认为，X-62A 团队的成就将被视为类似 AlphaGo Zero 对国际象棋、将棋和围棋的影响，作为军事和商业应用的自主驾驶验证。",
-          "link": "https://www.solidot.org/story?sid=77950",
-          "publishedOn": "2024-04-19T09:04:57.000Z",
-          "wordCount": 197,
-          "title": "美国测试 AI 驾驶战斗机与人类飞行员缠斗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77949",
-          "author": null,
-          "description": "瑞士调查机构 Public Eye 委托比利时的一家实验室分析了雀巢在亚洲、非洲和拉美销售的婴儿奶粉和食品样品，发现这家瑞士跨国巨头向发展中国家销售的奶粉 Nido 和谷物 Cerelac 中添加了糖和蜂蜜，而在欧洲国家销售的类似产品没有添加糖。举例来说，在非洲销售的婴儿谷物每份含有 6 克添加糖，而在瑞士销售的相同产品不含糖。Public Eye 称，雀巢必须结束这一双标行为，停止在婴儿食品中添加糖。肥胖在中低等收入国家日益成为一个严重问题。根据 WHO 的数据，非洲地区自 2000 年以来五岁以下超重儿童的数量增加了近 23%。全球则有逾 10 亿人肥胖。WHO 的指南建议三岁以下儿童的任何食物都不应添加糖或甜味剂。",
-          "link": "https://www.solidot.org/story?sid=77949",
-          "publishedOn": "2024-04-19T06:57:37.000Z",
-          "wordCount": 175,
-          "title": "雀巢在低收入国家销售的婴儿奶粉中加入了糖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77948",
-          "author": null,
-          "description": "Meta 发布了 80 亿和 300 亿参数版本的 Llama 3 模型，有 4050 亿参数的版本还在训练之中，将在未来几个月发布，将支持多模和多种语言间的交流，以及更长的上下文窗口。Llama 3 是开放模型，源代码和权重托管在 GitHub 和 Hugging Face 上。Meta 还开放了它的 AI 聊天服务 Meta AI，类似 OpenAI 的 ChatGPT，访问 Meta.ai 也无需注册，但如果要保留聊天记录需要登陆。Meta AI 支持美国、澳大利亚、加拿大、加纳、牙买加、马拉维、新西兰、尼日利亚、巴基斯坦、新加坡、南非、乌干达、赞比亚和津巴布韦等国家和地区的用户访问，可能因为欧盟的法律限制该服务目前不对欧盟用户开放。",
-          "link": "https://www.solidot.org/story?sid=77948",
-          "publishedOn": "2024-04-19T06:06:01.000Z",
-          "wordCount": 215,
-          "title": "Meta 发布了 80 亿和 300 亿参数版本的 Llama 3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77947",
-          "author": null,
-          "description": "根据发表在《科学》期刊上的一项研究，在一百年内中国沿海城市十分之一的居民可能生活在海平面以下。主要城市 16% 的区域地表面整在下沉——每年下沉速度逾 10 毫米。约 45% 主要城市以中等速度下沉，意味着每年下降逾 3 毫米。受影响的城市包括北京以及福州、合肥和西安等。北京大学遥感技术研究员 Tao Shengli 领导的研究小组评估了我国 82 个人口逾 200 万的城市。他们利用卫星雷达脉冲测量卫星与地面之间的距离变化，研究其海拔在 2015 - 2022 年间的变化。他们发现，面临严重沉降的城市集中在五个地区，涵盖沿海和内陆城市。其中包括昆明、南宁和贵阳等西南内陆城市，香港大学地理学家 Zhou Yuyu 对此感到惊讶，这些城市不像其他地区人口稠密或高度工业化，但仍然经历严重下沉。论文认为下沉的因素有自然有人为，其中包括了城市基岩的深度、地下水枯竭、建筑物重量、交通系统的使用和地下采矿。",
-          "link": "https://www.solidot.org/story?sid=77947",
-          "publishedOn": "2024-04-19T05:27:02.000Z",
-          "wordCount": 179,
-          "title": "近半数中国主要城市地面在下沉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=77946",
-          "author": null,
-          "description": "确保八小时睡眠有了更多理由。神经元在睡眠期间仍然活跃，大脑利用这段时间将清醒时积累的垃圾清理掉。睡眠就像是计算机的软重启。根据发表在《自然》期刊上的一项研究，华盛顿大学医学院的研究人员发现，在人清醒时神经元消耗能量完成各种任务，但消耗掉的能量/营养物质会留下代谢废弃物，睡眠时神经元会驱动脑脊液穿过硬脑膜，带走代谢废弃物。研究人员指出，神经元充当了清理大脑的主要组织者。此前的研究发现，蛋白质碎片形式的代谢废弃物的积累可能会导致阿尔茨海默氏症等神经退行性疾病。",
-          "link": "https://www.solidot.org/story?sid=77946",
-          "publishedOn": "2024-04-18T15:14:04.000Z",
-          "wordCount": 157,
-          "title": "睡眠将垃圾清除出大脑",
           "imageUrl": null
         }
       ]
