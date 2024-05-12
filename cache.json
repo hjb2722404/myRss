@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=48416",
+          "author": "青小蛙",
+          "description": "有时候，一个问题换一个问法，就会豁然开朗。 之前介绍过这种防休眠工具： 每次的标题都是防止电脑进入休眠状态。于是就有无数人来问了：我有电源管理，我不用这个。打开设置就能改，这是有啥使用场景？总之我也找",
+          "link": "https://www.appinn.com/auto-click-mouse-stay-online/",
+          "publishedOn": "2024-05-11T08:52:55.000Z",
+          "wordCount": 2580,
+          "title": "有没有每5分钟自动点一次鼠标，让我保持 online 状态的软件？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/faq-11.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=48412",
+          "author": "青小蛙",
+          "description": "Elmo Chat 是一款 Chrome 侧边栏扩展，它可以针对当前网页进行快速总结（支持中文），也可以处理在线视频（YouTube）、PDF 文档，总结之后，还可以继续提问。目前可免费使用，无需注册",
+          "link": "https://www.appinn.com/elmo-chat/",
+          "publishedOn": "2024-05-11T04:40:10.000Z",
+          "wordCount": 2714,
+          "title": "Elmo Chat – 快速总结网站内容、在线视频，与 PDF 聊天、翻译等，免费 Chrome 扩展",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-11T122231.164.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48405",
           "author": "青小蛙",
           "description": "Teranoptia 是一款开源字体，它没有字母，没有文字，是一个个奇特的生物体，通过不同的组合实现有趣的效果。@Appinn 很有意思，但似乎可能没什么人用。 Teranoptia 字体 就是一个一",
@@ -100,16 +120,6 @@
           "wordCount": 2582,
           "title": "微信小程序：24 小时内通知开发者删除你的“个人信息”：位置、手机号、昵称、头像",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-03T175322.125.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48342",
-          "author": "青小蛙",
-          "description": "VidHub 是一款近两年才发布的优秀私人影视库应用，适用于 Mac、iPhone、iPad。它可以将不同设备（手机、电脑、NAS、网盘等）上的视频聚合在一起，自动刮削，并展示漂亮的海报墙，然后直接播",
-          "link": "https://www.appinn.com/vidhub-88-lifetime/",
-          "publishedOn": "2024-05-02T08:45:07.000Z",
-          "wordCount": 2691,
-          "title": "全能视频播放器 VidHub 早鸟价 88 元/终身，仅限之前已安装用户",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-01T112125.849.jpg"
         }
       ]
     },
@@ -147,6 +157,146 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78143",
+          "author": null,
+          "description": "美国地区法官 William Alsup 驳回了马斯克(Elon Musk)的 X Corp 对数据抓取公司 Bright Data 的诉讼，Bright Data 被控不当访问 X/Twitter 系统，在抓取和出售数据时违反 X 的条款和州的法律。法官认为 X 的理由暴露了它既想要控制用户数据，又想要享受 Communications Decency Act 第 230 条款所赋予的平台无需对第三方内容承担责任的安全港好处。法官认为 X 其实就是想要利用用户数据牟利，同时阻止第三方复制其用户公开的内容。法官认为 X 不能发明自己的版权法，X 的条款并不能限制公开数据的抓取。",
+          "link": "https://www.solidot.org/story?sid=78143",
+          "publishedOn": "2024-05-11T16:05:38.000Z",
+          "wordCount": 193,
+          "title": "法官驳回了 X 对数据抓取公司的诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78142",
+          "author": null,
+          "description": "英伟达计划将开源内核驱动作为 GeForce RTX 2000 \"Turing\" 等较新 GPU 的默认驱动。这一计划不涉及用户空间驱动以及英伟达的 CUDA 等闭源软件。英伟达是在 2022 年推出其 GPU 的开源内核驱动，最初针对的是 工作站/数据中心 GPU，随着开源内核驱动相对于私有内核驱动的改进，在消费级 GeForce GPU 上，开源驱动模块与闭源驱动的性能相差无几，英伟达计划 Turing 等较新的 GPU 默认使用开源内核驱动，未来的 GPU 可能只支持开源内核驱动。英伟达最近雇佣了 Nouveau 内核驱动的前维护者，其工程师也在为开源 NVK 驱动贡献代码，但没有迹象显示它计划开源用户空间驱动。",
+          "link": "https://www.solidot.org/story?sid=78142",
+          "publishedOn": "2024-05-11T15:31:17.000Z",
+          "wordCount": 200,
+          "title": "英伟达将开源内核驱动作为 Turing 等新 GPU 的默认驱动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78141",
+          "author": null,
+          "description": "根据 Mercury Research 的数据，今年第一季度英特尔占 x86 CPU 市场的 79.2%，低于一年前的 82.8%。AMD 则从一年前的 17.2% 上升到 20.8%。这一数据不包括物联网和嵌入式定制 SoC 如游戏机芯片。AMD 的服务器芯片市场份额从一年前的 18% 升至 23.6%，主要是第四代 Epyc 处理器推动了这一增长。客户端 CPU 市场 AMD 增加了 3.5 个百分点占 20.6%，英特尔占 79.4%。桌面 PC CPU 份额英特尔占 76.1%，AMD 占 23.9%。",
+          "link": "https://www.solidot.org/story?sid=78141",
+          "publishedOn": "2024-05-11T15:12:56.000Z",
+          "wordCount": 198,
+          "title": "英特尔仍是最大芯片巨头，但 AMD 正缩小差距",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78140",
+          "author": null,
+          "description": "备受瞩目的英国 6.1 万枚比特币洗钱案、天津蓝天格锐 430 亿元诈骗案主犯钱志敏已在英国归案。她的助理及共犯温俭(Jian Wen)已被捕受审。钱志敏在 2014 年成立了天津蓝天格锐，通过推出各类理财吸引投资，截至 2017 年共骗取到了 430 亿元人民币。2017 年钱志敏使用化名携款逃到英国，她雇佣了此前在中餐馆送外卖的华裔女子温俭做管家，让温俭帮助她将其拥有的比特币换成现金，购买豪宅，采购各种奢侈品，她们的巨额消费引起了英国反洗钱执法机构的注意。2018 年 10 月警方突击搜查了钱志敏的家，扣押了 6.1 万枚比特币，目前的价值超过 30 亿英镑，这是至今执法机构查获的比特币价值最高的行动之一。温俭在 2021 年被捕，今年 3 月洗钱罪名成立。钱志敏于 4 月 24 日以张亚迪（Yadi Zhang）的身份在英国威斯敏斯特地方法院首次出庭。",
+          "link": "https://www.solidot.org/story?sid=78140",
+          "publishedOn": "2024-05-11T12:09:37.000Z",
+          "wordCount": 184,
+          "title": "天津蓝天诈骗案主犯钱志敏已被捕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78139",
+          "author": null,
+          "description": "日本东京工业大学、理化学研究所、富士通等发布增强日语能力的大模型 Fugaku-LLM，移植了 Megatron-DeepSpeed 深度学习框架，源代码托管在 GitHub 上，公众可通过 Fujitsu Research Portal 网站试用。Fugaku-LLM  有 130 亿参数，日语 MT-Bench 平均分 5.5，其人文和社会科学得分高达 9.18 分。Fugaku-LLM使用了日本最强大的 ARM 超算富岳进行了训练。",
+          "link": "https://www.solidot.org/story?sid=78139",
+          "publishedOn": "2024-05-11T10:49:15.000Z",
+          "wordCount": 183,
+          "title": "富士通等发布增强日语能力的大模型 Fugaku-LLM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78138",
+          "author": null,
+          "description": "微软证实，Windows 11 24H2 的专业版和家用版在首次设置时将默认启用设备加密，在用户重置电脑时将执行自动设备加密设置。微软已在 Windows 11 24H2 RTM 最新预览版本中启用了该功能，意味着该功能会在今年晚些时候推送给所有用户。设备加密使用 BitLocker 加密所有系统驱动器的数据。用户须将 BitLocker 密钥备份到自己的 Microsoft 帐户或外置 U盘。如果没有密钥，用户将无法访问自己的数据。",
+          "link": "https://www.solidot.org/story?sid=78138",
+          "publishedOn": "2024-05-11T08:14:18.000Z",
+          "wordCount": 184,
+          "title": "Windows 11 24H2 将默认启用设备加密",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78137",
+          "author": null,
+          "description": "Google Cloud 的错误配置导致澳大利亚退休基金管理公司 UniSuper 的数据被完全删除，幸运的是 UniSuper 在另一家公司有备份。UniSuper 管理着 1250 亿澳元的资产。事故发生在上周，UniSuper 的服务因此下线了一周多时间，本周四开始恢复服务。UniSuper CEO Peter Chun 周三致函该基金的 62 万名会员，表示服务中断不是网络攻击造成的，没有任何用户个人数据泄露。Chun 以及 Google Cloud CEO Thomas Kurian 发表联合声明，就此事故向用户道歉。Google Cloud 错误的配置导致了 UniSuper 云订阅帐户被删除。用户保存在 Google Cloud 中的数据通常会在多个区域有备份，当一个区域出现问题或故障后，数据可以迅速恢复。然而此次事故中 UniSuper 的云订阅账号被删除，多个区域的数据全部被删除。Google Cloud CEO 表示这种情况以前从未发生过，本不应该发生。Google Cloud 已经采取措施确保相同的事故不会再次发生。",
+          "link": "https://www.solidot.org/story?sid=78137",
+          "publishedOn": "2024-05-11T07:41:01.000Z",
+          "wordCount": 214,
+          "title": "Google Cloud 不小心删除了澳大利亚公司 UniSuper 的数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78136",
+          "author": null,
+          "description": "从数学家变为量化投资人的亿万富翁 Jim Simons 于周五去世，享年 86 岁。在发表了对量子场论、弦论和凝聚态物理学的突破性数学研究后，Simons 创办了对冲基金文艺复兴科技公司，以在尽可能短时间内赚到尽可能多的钱。他毕业于 MIT，在加州伯克利获得博士学位，先后任教于 MIT、哈佛和纽约石溪，Chern–Simons 形式就以他和陈省身的名字命名。他创办的文艺复兴科技雇佣的是数学家和科学家，而不是 MBA 和金融分析师，使用计算机和数学模型处理数据。文艺复兴科技的四只基金中成立于 1988 年的大奖章（Medallion）基金规模最大也最成功，它创造了逾千亿美元的交易利润，平均年回报率 66%，远超巴菲特（Warren Buffett）和索罗斯（George Soros）等著名投资人。到 2020 年 Jim Simons 的量化投资方法占到了华尔街交易业务的三分之一。2010 年 Simons 从 CEO 一职退休时他的财富高达 100 亿美元，十年后又翻了一番。他将自己的财富投入到慈善事业，是基础科学研究的最大私人赞助人之一。他的基金在 2011 年向石溪大学捐赠了 1.5 亿美元，大部分资金用于医学科学研究。去年又再次捐赠了 5 亿美元。",
+          "link": "https://www.solidot.org/story?sid=78136",
+          "publishedOn": "2024-05-11T06:08:42.000Z",
+          "wordCount": 202,
+          "title": "从数学家变为量化投资人的 Jim Simons 去世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78135",
+          "author": null,
+          "description": "直径为 17 倍于地球的太阳黑子区域 AR3664 向地球方向喷射了 6 个日冕物质抛射 (CME)，首个 CME 于 5 月 10 日 1645 UT 抵达并影响地球，产生极端强度的电磁风暴。地磁风暴强度范围从 G1 到 G5，其中 G5 为最高等级。随着后续 CME 的到来，地磁风暴将持续到周日。这是自 2003 年 10 月以来首次观测到 G5 地磁风暴，太阳活动目前处于活跃期。G5 地磁风暴将会在北方产生壮观的极光，可能会影响近地轨道和地球表面的基础设施，扰乱通信、电网、导航、无线电和卫星运行。",
+          "link": "https://www.solidot.org/story?sid=78135",
+          "publishedOn": "2024-05-11T02:03:35.000Z",
+          "wordCount": 191,
+          "title": "G5 地磁风暴来袭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78134",
+          "author": null,
+          "description": "Mozilla 创新实验组 Ocho 的一个创新产品是 Llamafile，它旨在简化大模型的部署，让用户和开发者更容易访问大模型。Llamafile 支持跨平台，支持 CPU 和 GPU 执行，其最新版本 v0.8.2 合并了多个 AVX2 优化补丁。AVX2 或 Advanced Vector Extensions 2 指令集扩展已被英特尔和 AMD 的 CPU 的广泛支持，新的优化包括了更快的 AVX2 提示处理，Q5_K_M 等量化方法的速度改进达到了之前的 1.4~2.3 倍。",
+          "link": "https://www.solidot.org/story?sid=78134",
+          "publishedOn": "2024-05-10T16:18:42.000Z",
+          "wordCount": 204,
+          "title": "Mozilla Llamafile 新版优化 AVX2 性能显著改进速度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78133",
+          "author": null,
+          "description": "路透社援引两位知情人士的消息报道，OpenAI 预计将在 Google I/O 2024 前一天宣布其 AI 驱动的搜索引擎。Google I/O 2024 将在 5 月 14 日下周二举行，即下周一 OpenAI 将宣布它与搜索巨人竞争的产品。OpenAI 的搜索产品将是 ChatGPT 的扩展，能直接从 Web 拉取信息进行引用。ChatGPT 自 2022 年底诞生以来就被视为是搜索引擎的一个替代，虽然在提供精确和实时信息上还不如搜索引擎。",
+          "link": "https://www.solidot.org/story?sid=78133",
+          "publishedOn": "2024-05-10T15:30:46.000Z",
+          "wordCount": 192,
+          "title": "OpenAI 预计下周一发布 AI 驱动的搜索引擎",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78132",
+          "author": null,
+          "description": "研究人员报告，今年 3 月全球二氧化碳平均浓度比去年 3 月高出 4.7 ppm。12 个月内的二氧化碳浓度增幅创下了纪录。周期性的厄尔尼诺气候事件、化石燃料燃烧和森林砍伐推动了二氧化碳浓度的快速增长。2022 年 6 月 NOAA（美国国家海洋和大气管理局）宣布大气二氧化碳浓度达到 421ppm，比工业化前水平增加了 50%，为数百万年以来的最高水平。最新的数据是 426ppm。在人类开始燃烧化石燃料向大气中排放大量二氧化碳前，近 6000 年的人类文明中，二氧化碳浓度为 280ppm。科学家表示这一快速增幅会随着厄尔尼诺的结束而下降，但二氧化碳浓度仍然在持续增长。",
+          "link": "https://www.solidot.org/story?sid=78132",
+          "publishedOn": "2024-05-10T15:16:47.000Z",
+          "wordCount": 173,
+          "title": "大气二氧化碳浓度创下新纪录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78131",
+          "author": null,
+          "description": "杜克研究人员发表在《环境科学与技术》杂志上的一项研究称，汽车内的空气可能会受到已知或怀疑能致癌的阻燃剂的污染。制造商通常将这些化学物质添加到座椅泡沫和其他材料中，以满足阻燃标准。研究人员表示，考虑到驾驶员平均每天要在车内至少待 1 小时，这一问题具有重大的公共卫生意义。对于通勤时间较长的人以及儿童乘客来说，这一点尤其令人担忧。研究人员在来自美国各地的 101 辆汽车的车内检测到阻燃剂。其中 99% 的汽车含有磷酸三（1-氯异丙基）酯。这是一种阻燃剂，正在接受美国国家毒理学计划调查，为疑似致癌物。大多数汽车还有其他有机磷酸酯阻燃剂，包括三（1,3-二氯-2-丙基）磷酸盐和三（2-氯乙基）磷酸酯，这两种都是美国加州 65 号提案指出的致癌物质。这些阻燃剂也与神经和生殖系统损害有关。研究人员强调，通过打开车窗并将车停放在阴凉处，或许可以减少车内阻燃剂的暴露，但真正需要的是减少汽车中添加的阻燃剂数量。",
+          "link": "https://www.solidot.org/story?sid=78131",
+          "publishedOn": "2024-05-10T11:00:13.000Z",
+          "wordCount": 165,
+          "title": "暴露在汽车阻燃剂下面临更高的致癌风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78130",
+          "author": null,
+          "description": "根据发表在《科学》期刊上的一项研究，哈佛和 Google 的科学家绘制出人类大脑一小部分的高分辨率 3D 地图。图谱揭示了脑细胞神经元之间的新连接模式，以及围绕自身形成结的细胞，以及几乎互为镜像的成对神经元。3D 地图覆盖了大约一立方毫米的体积，是整个大脑的百万分之一，包含了大约 57,000 个细胞和 1.5 亿个突触。它包含了 1.4 pb 的庞大数据。这块大脑碎片取自一名 45 岁的女性，当时她正在接受治疗癫痫的手术。它来自大脑皮层，这是大脑中负责学习、解决问题和处理感官信号的部分。样品浸泡在防腐剂中，并用重金属染色，使细胞更容易被看到。研究人员将样本切成大约 5000 片——每片只有 34 纳米厚——可以用电子显微镜成像。他们建立了 AI 模型，能将显微镜图像拼接在一起，以 3D 方式重建整个样本。",
+          "link": "https://www.solidot.org/story?sid=78130",
+          "publishedOn": "2024-05-10T10:43:44.000Z",
+          "wordCount": 181,
+          "title": "科学家绘制人类大脑一小部分的高分辨率地图",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78129",
           "author": null,
@@ -795,46 +945,6 @@
           "publishedOn": "2024-05-02T15:07:09.000Z",
           "wordCount": 159,
           "title": "研究称年轻人和老年人之间的认知差异在缩小",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78064",
-          "author": null,
-          "description": "根据 Statcounter 的统计，Windows 10 即将于明年终止支持，但它的市场份额在 2024 年 4 月反而增加了，增加了 0.96 个百分点至 70.03%，而 Windows 11 则丢失了 0.97 百分点，从 26.68% 降至 25.65%。为什么 Windows 11 的市场份额会下降？可能是因为它最近负面新闻太多，比如说微软开始在“开始”菜单上展示广告。这样一个不断增加广告降低用户体验的操作系统可能难以赢得用户的青睐。",
-          "link": "https://www.solidot.org/story?sid=78064",
-          "publishedOn": "2024-05-02T14:22:39.000Z",
-          "wordCount": 190,
-          "title": "Windows 11 市场份额不升反降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78063",
-          "author": null,
-          "description": "美国政府正在拍卖曾经的顶级超算 Cheyenne，起拍价 2500 美元，2024 年 5 月 5 日下午 6:11 截至。Cheyenne 于 2016 下半年安装在 NCAR-Wyoming 超算中心，峰值性能 5.34 petaflops，当时在 Top500 榜单上排名世界第 20 名。它在服务 7 年之后于 2023 年底退役。退役的一个原因是冷却系统故障带来的维护问题，考虑维修费用和停机时间，它决定将其退役拍卖。Cheyenne 超算由 SGI 制造，惠普在系统安装前不久收购了 SGI，它包含了 4,032 个节点，每个节点有 2 个 18 核 2.3-GHz 英特尔至强 E5-2697v4 Broadwell 处理器，总共 145,152 个核心。其中 3,164 个节点配备了 64GB 内存，864 个节点配备了 128 GB 内存。美国政府表示，买家需要自己带上配备合适设备的专业搬运工搬运重型机架和组件。",
-          "link": "https://www.solidot.org/story?sid=78063",
-          "publishedOn": "2024-05-01T16:05:05.000Z",
-          "wordCount": 220,
-          "title": "美国政府拍卖 5.34 petaflops 退役超算",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78062",
-          "author": null,
-          "description": "美国最高法院周二拒绝推翻德州的成人网站禁令。德州法律的一项条款 H.B.1181 要求成人网站验证访问者的年龄，此举旨在阻止未成年人访问在线成人内容。成人行业协会 Free Speech Coalition 以及成人网站如 Pornhub 在法庭上挑战了这项法律，认为要求成年人递交私人信息以访问成人网站违反了宪法第一修正案。成人行业的挑战主要围绕着成年人访问成人网站。一位联邦法官认同了他们的论点，认为该法律条款影响范围过广。第五巡回上诉法庭则站在了德州政府这边。最高法院则驳回了成人行业的上诉请求。",
-          "link": "https://www.solidot.org/story?sid=78062",
-          "publishedOn": "2024-05-01T15:34:33.000Z",
-          "wordCount": 164,
-          "title": "美国最高法院拒绝推翻德州的成人网站禁令",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78061",
-          "author": null,
-          "description": "币安创始人赵长鹏在承认了通过其交易所洗钱的相关指控后判入狱 4 个月。币安被罚 43 亿美元，赵长鹏本人被罚 5000 万美元。赵的净资产被认为有 300 亿美元，因此罚款对他而言相当轻微。美国检方希望判处的刑期是 3 年，而辩方则希望判处 5 个月缓刑。赵长鹏是去年 11 月与美国达成了认罪协议，和解美国司法部的一项刑事调查，作为认罪协议的一部分，币安将支付 43 亿美元的罚款，赵长鹏则辞去首席执行官一职。",
-          "link": "https://www.solidot.org/story?sid=78061",
-          "publishedOn": "2024-05-01T15:06:58.000Z",
-          "wordCount": 181,
-          "title": "赵长鹏因洗钱指控被判入狱 4 个月",
           "imageUrl": null
         }
       ]
