@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-05-28T02:28:39.879Z</updated>
+    <updated>2024-05-29T02:29:13.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[美国九分之一的儿童被诊断 ADHD]]></title>
+        <id>https://www.solidot.org/story?sid=78289</id>
+        <link href="https://www.solidot.org/story?sid=78289"/>
+        <updated>2024-05-28T09:16:24.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Journal of Clinical Child & Adolescent Psychology》上的一项研究，美国疾控中心的研究人员报告，九分之一的 3-17 岁儿童被诊断 ADHD（Attention Deficit Hyperactivity Disorder 或注意缺陷多动障碍）。研究人员警告，ADHD 日益成为一大公共卫生问题。2022 年美国有 710 万儿童和青少年被诊断为 ADHD，比 2016 年多了 100 万。考虑到数据是在疫情期间收集的，ADHD 诊断数量激增并不令人感到意外。论文主要作者指出，儿童在疫情期间经历了更高的压力、抑郁和焦虑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你会在穿过的每一件衣服上留下微生物指纹]]></title>
+        <id>https://www.solidot.org/story?sid=78288</id>
+        <link href="https://www.solidot.org/story?sid=78288"/>
+        <updated>2024-05-28T09:03:43.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Genes》期刊上的一项研究，你会在穿过的每一件衣服上留下微生物指纹，该指纹能保存数个月，可用于识别唯一穿着者的身份。皮肤表面的细菌群是独一无二的，还能转移到其他人和环境中。在实验中，两名澳大利亚的志愿者穿着棉质 T 恤 24 小时，然后放置在受控环境中 6 个月。对照组是未穿过的 T 恤。研究人员收集了不同时间点的样本，送到意大利进行微生物 DNA 提取，然后在英国进行测序。结果显示，志愿者将独特且可识别的微生物转移到了衣服上，能稳定保存 180 天。犯罪现场的任何衣服都可为调查提供关键证据，可揭示穿着者的性别、职业、收入、社会地位、政治、宗教或文化背景，甚至婚姻状况等信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软为 Arm 设备提供 AI 超分辨率技术]]></title>
+        <id>https://www.solidot.org/story?sid=78287</id>
+        <link href="https://www.solidot.org/story?sid=78287"/>
+        <updated>2024-05-28T08:02:32.000Z</updated>
+        <summary type="html"><![CDATA[为改进 Windows 11 在 Arm 设备上的游戏性能，微软宣布了 AI 驱动的图像超分辨率技术 Auto SR。其工作方式类似现有的超分辨率技术如 DLSS 和 FSR。Auto SR 存在很多限制，目前只支持高通的 Snapdragon X SoC 和 Windows 11 v24H2 或更高版本，以及原生 ARM 游戏和特定的 DirectX11 和 DirectX12 游戏。10 位格式的 DX11 和 DX12 游戏以及 OpenGL、Vulkan 和 DirectX 9 或 8 游戏都不支持。Auto SR 和 HDR 不能同时启用，不支持 1080p 以下的显示分辨率，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 不小心将内部 API 发布到 GitHub 上]]></title>
+        <id>https://www.solidot.org/story?sid=78286</id>
+        <link href="https://www.solidot.org/story?sid=78286"/>
+        <updated>2024-05-28T07:25:07.000Z</updated>
+        <summary type="html"><![CDATA[Google 今年 3 月 27 日不小心将其部分内部 API 发布到 GitHub 上，这些文件直到 5 月 7 日才被删除。内部 API 文件披露了 Google 搜索引擎相关的敏感信息。Google 很早就发现，为了改善搜索质量它需要完整的点击流数据，也就是通过浏览器访问的 URL，这是它开发 Chrome 浏览器的一大动机。名叫 NavBoost 的系统最初从 Google 的 Toolbar PageRank 收集数据，它使用给定关键字的搜索次数识别趋势搜索需求、搜索结果点击次数以及长点击和短点击。Google 利用 cookie 历史记录、登录的 Chrome 数据和模式检测作为对抗手动和自动垃圾点击的有效手段。在 Covid-19 疫情期间 Google 会使用白名单让特定网站出现在 Covid 相关搜索的结果前列；在选举期间 Google 也会对网站使用白名单显示选举信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家安全部否认会检查入境手机]]></title>
+        <id>https://www.solidot.org/story?sid=78285</id>
+        <link href="https://www.solidot.org/story?sid=78285"/>
+        <updated>2024-05-28T06:53:27.000Z</updated>
+        <summary type="html"><![CDATA[国家安全部通过其微信账号发表声明否认会检查入境者的手机。《国家安全机关行政执法程序规定》和《国家安全机关办理刑事案件程序规定》将于 7 月 1 日正式生效，声明称:“一些境外反华敌对势力借机造谣抹黑、搬弄是非，大肆炮制所谓‘所有人入境中国都会被查手机’”...间谍行为是严重危害国家安全的活动，各国都通过立法予以严厉打击。为有效防范、制止、惩治间谍违法犯罪活动，新修订的《中华人民共和国反间谍法》依据宪法有关条款，对国家安全机关依法查验电子设备设施作出具体规范，两个部门规章从执法程序上对此均有一系列严格限定。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有用 iPhone、安卓看 CAD 的软件吗？｜CAD看图王]]></title>
+        <id>https://www.appinn.com/?p=48591</id>
+        <link href="https://www.appinn.com/gstar-cad-viewer/"/>
+        <updated>2024-05-28T06:33:25.000Z</updated>
+        <summary type="html"><![CDATA[昨天，有同学问：iPhone 能看 cad 软件有吗？ @却上眉梢 同学推荐了CAD看图王，而 @Lithium 同学也推荐了同款，并且说：还可以 WebDAV 连接网盘，直接看 NAS 上的数据。]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 v24H2 将移除 Cortana 和写字板]]></title>
+        <id>https://www.solidot.org/story?sid=78284</id>
+        <link href="https://www.solidot.org/story?sid=78284"/>
+        <updated>2024-05-28T05:54:46.000Z</updated>
+        <summary type="html"><![CDATA[微软上周释出了 Windows 11 v24H2 (Build 26100.712)预览版，移除了 Cortana、Tips 和 WordPad（写字板）应用。Cortana 已被微软新的 AI 助手 Copilot 所取代；写字板已有 28 年历史，在功能上介于记事本和  Microsoft Word 字处理软件之间。微软是在 2023 年 9 月宣布将淘汰上述应用，2024 年下半年发布的 v24H2 将正式移除这些应用。微软的做法也引发了疑问：客户通过购买操作系统为 WordPad 之类的应用付费了，但微软通过后续的更新移除了付费的写字板应用，此举在一般原则上是否合法？]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国成立注册资本 3440 亿元的大基金三期]]></title>
+        <id>https://www.solidot.org/story?sid=78283</id>
+        <link href="https://www.solidot.org/story?sid=78283"/>
+        <updated>2024-05-28T05:02:13.000Z</updated>
+        <summary type="html"><![CDATA[中国成立了国家集成电路产业投资基金三期股份有限公司（大基金三期），注册资本 3440 亿元。大基金三期的股东包括财政部、国开金融有限责任公司、上海国盛（集团）有限公司、工商银行、农业银行、建设银行、中国银行、交通银行、北京亦庄国际投资发展有限公司、深圳市鲲鹏股权投资有限公司等 19 家公司。国家集成电路产业投资基金成立于 2014 年，旨在通过财政资金撬动社会资本，基金由国开金融、中国烟草、亦庄国投、中国移动、上海国盛、中国电科、紫光通信、华芯投资等企业发起。基金重点投资集成电路芯片制造业，兼顾芯片设计、封装测试、设备和材料等产业，实施市场化运作、专业化管理。第一期国家大基金成立于 2014 年，规模约为 1300 亿元人民币。第二期国家大基金成立于 2019 年，规模约为 2000 亿元人民币。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图小小 – 开源、批量，图片压缩工具，支持 JPEG、PNG、WEBP、AVIF、SVG 和 GIF 图像]]></title>
+        <id>https://www.appinn.com/?p=48587</id>
+        <link href="https://www.appinn.com/pic-smaller/"/>
+        <updated>2024-05-28T03:56:25.000Z</updated>
+        <summary type="html"><![CDATA[图小小（Pic Smaller）是一款开源的图片压缩工具，可以批量处理文件与文件夹，支持 JPEG、PNG、WEBP、AVIF、SVG 和 GIF 图像格式，简单易用，可自托管。@Appin]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现中国居民吸入的微塑料最多印尼居民食入的微塑料最多]]></title>
+        <id>https://www.solidot.org/story?sid=78282</id>
+        <link href="https://www.solidot.org/story?sid=78282"/>
+        <updated>2024-05-27T15:43:41.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Environmental Science & Technology》期刊上的一项研究， 中国居民吸入的微塑料最多，而印尼居民食入的微塑料最多。康奈尔大学研究人员分析了 109 个国家的微塑料摄取量。研究发现，印尼人每月食用约 15 克微塑料，比其他任何国家都多，其中大部分塑料颗粒来自海鲜等水生来源。从 1990 年到 2018 年，每日微塑料消费量增加了59倍。美国人每月从饮食中摄入的微塑料约为 2.4 克，巴拉圭最低为 0.85 克。研究人员利用空气中微塑料浓度、年龄统计数据和人类呼吸速率数据来计算吸入的微塑料。中国和蒙古的居民位居榜首，每月吸入的颗粒物超过 280 万。美国居民每月吸入约 30 万个微粒。只有地中海及附近地区的居民吸入较少。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软公布杀死 VBScript 的时间表]]></title>
+        <id>https://www.solidot.org/story?sid=78281</id>
+        <link href="https://www.solidot.org/story?sid=78281"/>
+        <updated>2024-05-27T14:48:33.000Z</updated>
+        <summary type="html"><![CDATA[微软公布了 VBScript 的死亡时间表。VBScript 或 Visual Basic Scripting Edition 是一种轻量级的脚本语言，最早引入是在 1996 年，它被广泛用于在 Windows 操作系统中自动化任务和控制应用。更强大更通用脚本语言如 JavaScript 和 PowerShell 的存在让微软决定淘汰 VBScript。微软计划分至少三个阶段从 Windows 操作系统中移除 VBScript：今年下半部发布的 Windows 11 v24H2 中将作为按需功能默认安装和启用，2027 年左右默认禁用需要该功能的用户需手动启用，未来彻底移除(但时间未定)。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国轨道飞行器部署了一颗卫星]]></title>
         <id>https://www.solidot.org/story?sid=78280</id>
@@ -67,6 +177,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[弹幕播放器 danmuBox – Apple TV 上的 B 站客户端]]></title>
+        <id>https://www.appinn.com/?p=48581</id>
+        <link href="https://www.appinn.com/danmubox-bili-player-appletv/"/>
+        <updated>2024-05-27T07:41:18.000Z</updated>
+        <summary type="html"><![CDATA[弹幕播放器 danmuBox 是一可以在 Apple TV 上使用的 B 站客户端，支持显示弹幕，倍速播放、登录账号等功能。@Appinn 感谢 @Max 的推荐。 一个很简洁的 Apple TV 应]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google 公布删除 UniSuper 数据的调查报告]]></title>
         <id>https://www.solidot.org/story?sid=78274</id>
         <link href="https://www.solidot.org/story?sid=78274"/>
@@ -74,6 +194,16 @@
         <summary type="html"><![CDATA[本月初，Google Cloud 云服务不小心删除了其大客户澳大利亚退休基金管理公司 UniSuper 的全部数据，幸运的是 UniSuper 在另一家公司有备份，因此这起事故没有给它造成毁灭性打击。Google 上周披露了这起事故的更多细节。UniSuper 使用了 Google Cloud VMware Engine(GCVE)服务。2023 年初，Google 的操作人员使用一个内部工具为 UniSuper 部署了 GCVE 私有云以满足特定的容量要求。该工具已被弃用，到 2023 年第四季度将完全自动化，不再需要人工操作干预。但在配置 GCVE 私有云时它意外的将一个输入参数留空。对于留空的参数，系统会自动分配一个默认的 1 年期限值。当一年期限结束后系统会删除 UniSuper 的私有云。由于删除是参数留空触发的，而不是客户要求删除，因此客户没有收到删除通知。客户发起的删除会收到通知。Google 表示已采取多项措施确保此类事故不会再次发生，包括相关内部工具已被弃用，修改了删除客户私有云的系统行为。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[trace.moe – 一张动漫截图，找出动漫原始出处：包括剧集以及场景出现的确切时间，共索引了超过 34000 小时动漫视频]]></title>
+        <id>https://www.appinn.com/?p=48575</id>
+        <link href="https://www.appinn.com/trace-moe/"/>
+        <updated>2024-05-27T03:09:51.000Z</updated>
+        <summary type="html"><![CDATA[trace.moe 是一个非常好用的平台，你只需要把动漫截图发给它，它就能告诉你这张截图的原始出处，包括具体的动漫名称、出现在第几集，以及场景的确切时间，还能提供几秒钟的动画预览。共索引了超过 340]]></summary>
+        <author>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
@@ -881,36 +1011,6 @@ PS. Today is the last day this coupon is valid.]]></summary>
         <summary type="html"><![CDATA[美国海军陆战队特种作战司令部 (MARSOC) 正在评估 Ghost Robotics 研发的新一代机器狗，它可以配备 AI 辅助瞄准的武器。Ghost Robotics 的四轮无人车 Q-UGV 可用于侦察和监视，也可以装备武器用于远程交战。Onyx Industries 称 MARSOC 正在测试两辆装备了其 SENTRY 远程武器系统的 Q-UGV，它的 SENTRY 系统有支持 AI 的数字成像系统，能自动探测和跟踪人员、无人机或车辆，向位于世界任何地方的远程操作人员报告潜在目标。该系统不能决定自动开火，开火的决策仍然由人类控制。MARSOC 发表声明表示，测试装备武器的无人车并不意味着它对此类能力感兴趣。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cruise 与被无人出租车拖曳的行人达成逾 800 万美元的和解]]></title>
-        <id>https://www.solidot.org/story?sid=78208</id>
-        <link href="https://www.solidot.org/story?sid=78208"/>
-        <updated>2024-05-19T14:11:41.000Z</updated>
-        <summary type="html"><![CDATA[通用汽车旗下的无人驾驶出租车公司 Cruise 与去年被无人出租车拖曳的行人达成了 800 万-1200 万美元的和解。受伤的女子已经出院。去年 10 月，一辆汽车将一位行人撞倒在行驶中的 Cruise 汽车前面，汽车探测到了碰撞，它踩了刹车但仍然从行人身上碾了过去。出于安全考虑无人出租车决定靠边停车，它继续以时速 7 英里行驶了 20 英尺，期间行人仍然在车下面。这起事件导致 Cruise 被禁止在旧金山开展无人出租车业务，使得 Google 的 Waymo 成为当地唯一的无人出租车运营公司。Cruise 在全美暂停了无人驾驶出租车业务，其 CEO Kyle Vogt 也于 11 月辞职，美国司法部、证交会和国家公路交通安全管理局都在调查该公司。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe 威胁起诉游戏模拟器 Delta 图标太像，于是 Delta 换了新图标]]></title>
-        <id>https://www.appinn.com/?p=48479</id>
-        <link href="https://www.appinn.com/game-emulator-delta-change-loge/"/>
-        <updated>2024-05-19T04:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Delta 是一款由于 App Store 审核放宽而上架的游戏模拟器，最近著名的图像编辑软件 Photoshop 开发商 Adobe 说它认为 Delta 的图标与自己的图标相似，威胁采取法律措施。]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[混阅 – 中英混合阅读：就不能好好阅读吗：利用 LLM 将中文内容转换为中英混合，扩展词汇量]]></title>
-        <id>https://www.appinn.com/?p=48454</id>
-        <link href="https://www.appinn.com/mixread/"/>
-        <updated>2024-05-18T02:31:00.000Z</updated>
-        <summary type="html"><![CDATA[混阅是一个将中文内容转换为中英混合形式的 Reading Tool（阅读工具），它利用了 LLM（大型语言模型）把部分词语替换英文单词，从而自然地 absorb（吸收）新词汇，促进 Language（]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
