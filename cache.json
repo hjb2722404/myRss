@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=48601",
+          "author": "青小蛙",
+          "description": "Lima 是一款运行在 macOS 上的 Linux 虚拟机，支持文件共享和端口转发，支持 Docker，就像 Windows 系统里自带的虚拟机 WSL2 一样。@Appinn 以前在 Mac 上想",
+          "link": "https://www.appinn.com/lima-vm/",
+          "publishedOn": "2024-05-29T12:18:43.000Z",
+          "wordCount": 3118,
+          "title": "Lima – macOS 上的 Linux 虚拟机，像 WSL2 一样",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-29T200128.051.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=48596",
+          "author": "青小蛙",
+          "description": "元素周期表也能这样：它不会让孩子们承受大量详细数字的负担，例如原子量和价数。只是告诉你，人类可以用这个元素做什么。@Appinn 青小蛙最近发现了这个很有趣的项目，所有图片都基于 CC BY-SA 授",
+          "link": "https://www.appinn.com/the-periodic-table-cute/",
+          "publishedOn": "2024-05-29T03:23:14.000Z",
+          "wordCount": 2540,
+          "title": "如此超凡脱俗的《元素周期表》：注明了每个元素的主要用途，有中文，可打印",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-29T105655.192.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48591",
           "author": "青小蛙",
           "description": "昨天，有同学问：iPhone 能看 cad 软件有吗？ @却上眉梢 同学推荐了CAD看图王，而 @Lithium 同学也推荐了同款，并且说：还可以 WebDAV 连接网盘，直接看 NAS 上的数据。",
@@ -160,16 +180,6 @@
           "wordCount": 2611,
           "title": "iTerm2 集成 OpenAI，用自然语言输入命令行[macOS 终端]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-21T104825.737.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48485",
-          "author": "青小蛙",
-          "description": "前阵子，青小蛙推荐了这个：整活：为 macOS、Linux、iOS 添加激活水印，就像未激活 Windows 桌面右下角水印：激活 Windows。没想到评论中要求最高的居然是为 Windows 添加",
-          "link": "https://www.appinn.com/activate-linux/",
-          "publishedOn": "2024-05-20T07:19:46.000Z",
-          "wordCount": 2643,
-          "title": "整活啦：为 Windows 桌面右下角添加激活水印，就像未激活的 Windows 桌面那样显示「激活 Windows」",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-20T145415.662.jpg"
         }
       ]
     },
@@ -200,24 +210,173 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11187",
-          "author": "张 鑫旭",
-          "description": "本文介绍两种Web中实现图片马赛克的方法，一个是SVG滤镜的，一个基于某个CSS属性的，都比较简单，不复杂。",
-          "link": "https://www.zhangxinxu.com/wordpress/2024/05/js-web-svg-canvas-image-mosaic/",
-          "publishedOn": "2024-05-19T16:18:16.000Z",
-          "wordCount": 1327,
-          "title": "如何用简单的Web方法实现图片的马赛克效果",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78305",
+          "author": null,
+          "description": "前 OpenAI 董事 Helen Toner 接受采访时表示，公司董事也是通过 Twitter 才知道 ChatGPT 的。她表示董事会没有提前收到通知。这一信息突出了董事会与公司日常运营之间的脱节。去年 11 月 17 日公司董事会突然解雇 CEO Sam Altman 时给出的一条理由是他在不沟通时不坦诚。Toner 称 Sam Altman 没有告知董事会他拥有 OpenAI 创业基金，他多次声称作为独董与公司没有经济利益。他还向董事会提供了不准确的安全流程信息。两位高管向董事会报告受到了他的“心理虐待”，他的领导风格被指在公司内部催生了“有毒气氛”。对于 Sam Altman 在被解雇五天之后再次重新控制公司，Toner 说员工们认为没有他公司会崩溃，而如果不支持他可能会遭到报复。",
+          "link": "https://www.solidot.org/story?sid=78305",
+          "publishedOn": "2024-05-29T16:33:12.000Z",
+          "wordCount": 200,
+          "title": "OpenAI 董事是通过 Twitter 知道 ChatGPT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78304",
+          "author": null,
+          "description": "CCTV 展示了两只机器狗，其中一只装备了武器。机器狗的外形与波士顿动力的 Spot 相似。较大的一只重 50 公斤，装备了机关枪，由士兵远程控制开火，识别目标之后进行打击，接受采访的士兵称它是“城市攻防的新成员”。较小的一只重 15 公斤，主要用于执行侦察任务，它能利用 AI 在战场上自己寻找行动路线，将侦察画面实时传输给指挥部。和 Spot 类似，机器狗能跳跃，能向前进向后退。",
+          "link": "https://www.solidot.org/story?sid=78304",
+          "publishedOn": "2024-05-29T16:15:55.000Z",
+          "wordCount": 172,
+          "title": "CCTV 展示装备武器的机器狗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78303",
+          "author": null,
+          "description": "地球附近的超新星爆发可能比我们预计的更频繁发生。天文学家从深海海底古代沉积物中发现了两层高比例的铁 60 同位素，它们都代表着地球被附近超新星轰炸的记录。天文学家认为，发生爆炸的超新星来自于天蝎座和人马座星协（Scorpius-Centaurus Association），目前距离地球约 390-470 光年，该区域的恒星大多质量巨大，在生命末期会发生超新星爆发。铁 60 同位素最近的两次峰值被认为来自该区域的两颗超新星，它们分别在 230 万年前和 150 万年前爆炸，当时距离地球 300 光年。这意味着大约每隔数百万年，就有一颗附近的超新星向地球喷射放射性物质。最近的超新星爆发时，现代人类还没有诞生，但近亲如南方古猿阿法种已经存在，它们有可能在白天就看到明亮的超新星。",
+          "link": "https://www.solidot.org/story?sid=78303",
+          "publishedOn": "2024-05-29T15:56:39.000Z",
+          "wordCount": 169,
+          "title": "每隔数百万年地球附近会有超新星爆发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78302",
+          "author": null,
+          "description": "2022 年夏天，一家人聚在南达科他州吃了一顿特别的晚餐——烤熊肉串。黑熊是当年 5 月从加拿大捕获的。因为没有肉类温度计，他们主要靠肉的颜色判断有没有烤熟。部分熊肉被发现没烤熟而重新烤。吃完饭他们回到各自的家。几天后，家庭成员开始生病。一名 29 岁的男性在 17 天内四次就医两次住院，他的症状包括发烧、严重肌肉疼痛、眼周肿胀、高水平抗感染白细胞等。他第二次住院时透露了吃熊肉的信息，医生随后确认他感染了罕见旋毛虫病。旋毛虫病在人类身上非常罕见，2016-2022 年间美国共记录到 7 起涉及 35 个病例，大多与食用熊肉有关。一旦被食用，旋毛虫会逐渐侵入到全身，包括心脏和大脑。在八名吃过熊肉的家庭成员中，六人感染旋毛虫，3 人住院，3 人幸运的在无需治疗的情况下康复。美国疾控中心分析了剩下的冰冻熊肉，发现仍然有活着的旋毛虫。这种旋毛虫非常耐冻。卫生专家建议，如果真要吃野生动物，那么至少需要购买肉类温度计，确保肉煮熟，温度超过 74 摄氏度。",
+          "link": "https://www.solidot.org/story?sid=78302",
+          "publishedOn": "2024-05-29T14:55:25.000Z",
+          "wordCount": 172,
+          "title": "美国一家人因食用未熟熊肉感染罕见脑虫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78301",
+          "author": null,
+          "description": "欧盟据报道正在调查消息应用 Telegram 在当地的用户规模。Telegram 自称该应用在欧盟地区只有 4100 万用户，而根据欧盟的 Digital Services Act(DSA)监管法律，欧盟用户规模超过 4500 万的平台被视为是 VLOP（超大型在线平台），将面临更严格的监管。欧盟监管机构怀疑当地用户数远不止 4100 万。爱沙尼亚总理 Kaja Kallas 认为 Telegram 应被归类为 VLOP，与 Facebook 和 X 类似。如果 Telegram 被归类为 VLOP，那么它可能需要对其服务托管的内容承担责任。Telegram 被俄罗斯广泛用于传播虚假信息和其它宣传信息，已故瓦格纳集团领导人 Yevgeny Prigozhin 就是通过 Telegram 发表反俄声明。",
+          "link": "https://www.solidot.org/story?sid=78301",
+          "publishedOn": "2024-05-29T14:05:09.000Z",
+          "wordCount": 199,
+          "title": "欧盟调查 Telegram 用户规模",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78300",
+          "author": null,
+          "description": "上周五凌晨巴布亚新几内亚 Enga 省 Maip-Mulitaka 地区发生山体滑坡，可能有逾 2000 人死亡，受灾地区生活了 7 万人。总理 James Marape 将致命灾难归于异常降雨和天气模式变化。Marape 称，今年的强降雨导致了洪水，沿海地区海平面上升，以及部分地区山体滑坡。副总理 John Rosso 称异常的天气模式影响了整个国家，不只是限于 Enga 省。救援人士表示，有一整个村庄都被埋在山下面，整个村庄、商店、加油站、旅馆、教堂和学校都消失了。",
+          "link": "https://www.solidot.org/story?sid=78300",
+          "publishedOn": "2024-05-29T13:18:53.000Z",
+          "wordCount": 173,
+          "title": "巴布亚新几内亚将致命山体滑坡归于异常降雨",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78299",
+          "author": null,
+          "description": "小鼠研究发现，运动有助于消除创伤记忆。研究报告发表在《Molecular Psychiatry》期刊上，这项发现或有助于 PTSD 治疗。创伤后应激障碍（PTSD）是一种心理健康状况，可以通过经历或看到创伤性事件而触发，如自然灾害、严重事故或袭击。在全球范围内，约 3.9 %的普通人群患有创伤后应激障碍，其症状包括生动的闪回和回避行为，比如远离那些让他们想起创伤性事件的地方或推开人。在小鼠研究中，研究人员重点研究了海马体中神经发生(形成新神经元的过程)是如何影响恐惧记忆的能力的。海马体是大脑中一个对形成与特定地点和环境相关的记忆很重要的区域，它每天在一个叫做齿状回的区域产生新的神经元。研究人员在不同的环境中给小鼠两次强烈的电击让其产生类似 PTSD 行为，然后探索是否可通过运动缓解，研究表明运动可以促进神经发生。双电击小鼠被分成两组，其中一组配有跑步轮。四周后，这些小鼠的海马体中新形成的神经元数量增加，类似创伤后应激障碍的行为不那么严重。",
+          "link": "https://www.solidot.org/story?sid=78299",
+          "publishedOn": "2024-05-29T09:11:56.000Z",
+          "wordCount": 164,
+          "title": "运动有助于消除创伤记忆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78298",
+          "author": null,
+          "description": "日本京都大学和住友林业公司 28 日宣布，为了验证木材用于太空领域可能性而推进开发的全球首颗木制人造卫星已经完成，6 月将交给日本宇宙航空研究开发机构（JAXA），最快 9 月由 SpaceX 的火箭从肯尼迪航天中心发射，运往国际空间站。为了减少太空垃圾，人造卫星在使用后会重返大气层并燃烧。但由于主要是铝制，燃烧时产生的氧化铝对地球可能造成负面影响。另一方面，木制卫星会在大气层基本燃尽，产生的也是水蒸气等，因此有望降低环境负荷。木制人造卫星被命名为“LignoSat”，结合了木材和人造卫星的意思。外侧有一部分使用了铝框，是边长约 10 厘米、重约 1.1 公斤的立方体。主体使用的木材是厚朴木兰的木板，厚度 4～5.5 毫米。多个面装有太阳能电池板。",
+          "link": "https://www.solidot.org/story?sid=78298",
+          "publishedOn": "2024-05-29T08:58:14.000Z",
+          "wordCount": 177,
+          "title": "日本首颗木制卫星最快 9 月发射",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78297",
+          "author": null,
+          "description": "硬件黑客 Joe Grand 在 2022 年帮助破解了价值 200 万美元的硬件钱包，现在两年后他又成功破解了价值 300 万美元的比特币软件钱包。Grand 是一名电气工程师，10 岁就开始尝试破解计算机硬件，2008 年共同主持了探索频道的 Prototype This 秀，2022 年他利用了复杂的硬件技术破解了储存有 Theta 代币的 Trezor One 硬件钱包。之后有很多人联络他去破解钱包，但他都拒绝了。其中之一是不愿意透露姓名的 Michael，11 年前他将 43.6 BTC 储存在密码保护的数字钱包中，使用 RoboForm 密码管理器生成密码，但密码没有用密码管理器管理，而是储存在 TrueCrypt 加密的文件中，但该文件后来损坏了，他也就无法再访问今天价值 300 万美元的比特币。Grand 第一次接到邀请时拒绝了 Michael 的请求。去年 6 月 Michael 再次提出请求，这一次 Grand 同意了，他与德国朋友 Bruno 共同尝试破解钱包。他们对 Michael 在 2013 年使用的 RoboForm 程序进行逆向工程，发现用于生成密码的伪随机数生成器存在重大缺陷，使得生成的随机数不那么随机。RoboForm 程序将随机数与用户计算机上的日期和时间捆绑在一起，确定了日期和时间就能预测生成的密码。但问题是 Michael 不记得他什么时候生成的密码。根据其软件钱包日志，他是在 2013 年 4 月 14 日首次将比特币转入钱包，但密码是在这个日期之前还是之后生成他不记得。Grand 和 Bruno 让 RoboForm  在 2013 年 3 月 1 日-4 月 20 日间生成 20 个字符密码，但都不正确。他们最后还是找到了正确密码——密码是在 2013 年 5 月 15 日 GMT 时间 下午 4:10:40 生成的，没有使用特殊字符。",
+          "link": "https://www.solidot.org/story?sid=78297",
+          "publishedOn": "2024-05-29T08:46:23.000Z",
+          "wordCount": 250,
+          "title": "研究人员破解价值 300 万美元的比特币钱包",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78296",
+          "author": null,
+          "description": "一款游戏开发了 10 多年但发布仍然遥遥无期？它必定是《星际公民(Star Citizen)》了。《星际公民》由《银河飞将》创始人 Chris Roberts 领导开发，试图复兴太空模拟飞行游戏，允许玩家在广袤的宇宙空间内探险，交易和战斗。它于 2012 年在 Kickstarter 上成功众筹，原计划的交付时间是 2014 年。但在 Kickstarter 众筹结束后，开发团队继续在官方网站上进行募资，许多募资其实就是销售游戏内的虚拟物品如各种型号的飞船。2018 年它筹集到 2 亿美元，五年之后突破 6 亿美元，今年 5 月再次突破了 7 亿达到 702,476,179 美元。《星际公民》堪称史上开发预算最高的 3A 游戏了。",
+          "link": "https://www.solidot.org/story?sid=78296",
+          "publishedOn": "2024-05-29T07:10:29.000Z",
+          "wordCount": 190,
+          "title": "《星际公民(Star Citizen)》筹款突破七亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78295",
+          "author": null,
+          "description": "俄罗斯数字发展部部长 Maksut Shadaev 周二表示，政府考虑对使用外国软件的企业收费。此举旨在减少对外国技术的依赖，推动本国技术发展。因为对乌克兰的战争，西方对俄罗斯进行了制裁，限制其从国外获得技术和设备的能力，而俄罗斯早在 2022 年就允许国内公司使用盗版，但它仍然致力于在技术上能独立自主。俄罗斯总统普京在本月初签署了一项法令，到 2030 年关键经济领域的企业至少八成要过渡到使用本国开发的软件。对使用外国软件的公司收费将推动其转移到本土软件。",
+          "link": "https://www.solidot.org/story?sid=78295",
+          "publishedOn": "2024-05-29T06:40:51.000Z",
+          "wordCount": 166,
+          "title": "俄罗斯考虑对使用外国软件的企业收费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78294",
+          "author": null,
+          "description": "微软游戏订阅服务 Xbox Game Pass（XGP） 的增长陷入了停滞，现在软件巨人准备对它进行终极测试：《使命召唤》系列的每一部通常都是年度销售冠军，它的最新作品同步登陆 XGP 是否能推动订阅人数的大幅增长？微软 Xbox 官方博客宣布，《Call of Duty: Black Ops 6》将同步登陆 XGP，它将在下个月的游戏发布会上公布该作的更多信息。",
+          "link": "https://www.solidot.org/story?sid=78294",
+          "publishedOn": "2024-05-29T05:46:04.000Z",
+          "wordCount": 174,
+          "title": "《使命召唤》最新作品将同步登陆 XGP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78293",
+          "author": null,
+          "description": "爱因斯坦又一次预测正确。牛津大学科学家领导的国际团队证实爱因斯坦关于黑洞的一个关键预测。他们利用 X 射线数据首次证明黑洞周围存在一个“暴跌区域”，即物质停止围绕黑洞旋转，而直接落入的区域。此外，他们还发现，该区域产生了银河系观测到的最强引力。爱因斯坦理论指出，由于粒子离黑洞足够近，不可能遵循圆形轨道。相反，它们会以接近光速的速度朝黑洞俯冲。几十年来，天体物理学家一直在争论所谓的“暴跌区域”是否可探测。在最新研究中，研究人员利用 NASA 的天基核光谱望远镜阵列和中子星内部成分探测器收集的 X 射线数据，更好地了解了黑洞产生的力，首次确认探测到了这一“暴跌区域”。",
+          "link": "https://www.solidot.org/story?sid=78293",
+          "publishedOn": "2024-05-28T16:34:53.000Z",
+          "wordCount": 165,
+          "title": "天文学家报告黑洞暴跌区域的首个证据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78292",
+          "author": null,
+          "description": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 6.10 rc1，其发布代号变更为 Baby Opossum Posse，6.x 系列内核之前使用的代号是 Hurr durr I'ma ninja sloth。Linux 6.10 的新特性包括：改进 AMD 和 Intel CPU\n支持，改进“小型”Ryzen APU 的 AMDKFD 计算驱动支持，默认禁用 NFS v2 客户端，Steam Deck IMU 支持，改进高通 Snapdragon X Elite 支持，IO_uring零拷贝性能优化，停止支持旧的 DEC Alpha 硬件，改进打开未加密文件的性能，等等。",
+          "link": "https://www.solidot.org/story?sid=78292",
+          "publishedOn": "2024-05-28T16:00:21.000Z",
+          "wordCount": 207,
+          "title": "Linux 6.10 rc1 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78291",
+          "author": null,
+          "description": "新加坡警方首次以车载信息娱乐系统数据为证据指控一名女性司机超速驾驶，她被拘留五天，被取消驾驶资格两年。这起事件发生在 2022 年底，警方收到交警的请求，从司机的车载信息娱乐系统中提取数据，调查是否有超速行为。警方使用工具提取出呼叫日志、消息等数据。他们根据收集的数据对司机提取诉讼，该司机于 2023 年 1 月被定罪。警方没有透露更多细节，如汽车品牌和型号，表示正开发从车上诊断系统（OBD）端口提取数据的能力。",
+          "link": "https://www.solidot.org/story?sid=78291",
+          "publishedOn": "2024-05-28T15:25:31.000Z",
+          "wordCount": 162,
+          "title": "新加坡警方以车载信息系统数据为证据指控司机超速",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78290",
+          "author": null,
+          "description": "部分英格兰学校派警察去长期缺席的学生家中，或者警告学生如果不去上课将逮捕他们的母亲或父亲。此举是因应政府施压学校降低学生缺席率。2022-23 学年英格兰公立学校出现了创纪录的 15 万名学生被归类为长期缺席。从 9 月起，英格兰所有公立学校必须每天与教育部分享学生考勤记录。儿童心理学家和家长组织警告，强迫上课忽视了学生拒绝去学校背后的原因，如心理健康问题、特殊教育需求、丧亲或儿童成为照顾者。一位女儿没去学校的母亲说，14 岁女儿卷入了贩毒，遭毒贩性虐，已怀孕。",
+          "link": "https://www.solidot.org/story?sid=78290",
+          "publishedOn": "2024-05-28T14:56:40.000Z",
+          "wordCount": 162,
+          "title": "英格兰学校派警察去缺席学生家威胁逮捕父母",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78289",
           "author": null,
@@ -916,116 +1075,6 @@
           "publishedOn": "2024-05-20T14:38:23.000Z",
           "wordCount": 188,
           "title": "Arup 遭遇 2500 万美元深度伪造骗局",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78219",
-          "author": null,
-          "description": "根据发表在《Aging Cell》上的实验鼠研究，锻炼有助于延缓衰老过程中的认知能力下降。研究人员评估了小鼠脑细胞中的基因表达，发现衰老会显著改变大脑所有细胞类型的基因表达，对小胶质细胞影响最大，小胶质细胞是支持大脑功能的中枢神经系统免疫细胞。研究发现，让小鼠跑轮运动，可逆转衰老小胶质细胞的基因表达谱到年轻版本。研究人员表示小鼠研究有助于理解人类锻炼对认知能力的影响，支持了老年人锻炼的重要性。",
-          "link": "https://www.solidot.org/story?sid=78219",
-          "publishedOn": "2024-05-20T14:20:18.000Z",
-          "wordCount": 158,
-          "title": "锻炼有助于延缓衰老过程中的认知能力下降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78218",
-          "author": null,
-          "description": "安全公司  Rapid7 报告，勒索软件组织通过搜索引擎展示假的 Putty 和 WinSCP 下载网站试图感染 Windows 管理员的电脑。Putty 是流行的 SSH 客户端，而 WinSCP 是  SFTP 和 FTP 客户端，它们都是系统管理员们常用的工具，而管理员通常是高价值的攻击目标。Putty 和 WinSCP 的恶意广告冒充了 WinSCP (winscp.net)的合法网站，以及拼错域名如 puutty.org, puutty[.]org, wnscp[.]net 和 vvinscp[.]net，Putty 的官网是 https://www.chiark.greenend.org.uk/~sgtatham/putty/。",
-          "link": "https://www.solidot.org/story?sid=78218",
-          "publishedOn": "2024-05-20T14:02:40.000Z",
-          "wordCount": 209,
-          "title": "勒索软件组织通过 PuTTy 和 WinSCP 恶意广告试图感染 Windows 管理员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78217",
-          "author": null,
-          "description": "随着中美之间围绕 AI 等敏感技术的关系日趋紧张，微软向部分驻华员工提供调离中国的机会。微软发言人表示，这家软件巨头“与部分员工分享了一个可选的内部调动机会”，并补充道微软将“继续在（中国）和我们有业务的其他市场开展业务”。微软向 Azure 云团队中从事机器学习和 AI 相关领域工作的员工提供全球调动机会。软件巨人在中国有一支庞大的工程师研发团队，致力于将 AI 集成到 Bing 等产品中。微软中国有约 9,000 名员工，大多数工程师在北京、上海或苏州从事全球产品工作。",
-          "link": "https://www.solidot.org/story?sid=78217",
-          "publishedOn": "2024-05-20T10:28:34.000Z",
-          "wordCount": 168,
-          "title": "微软向部分驻华员工提供调离中国的机会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78216",
-          "author": null,
-          "description": "2023 年 5 月，OpenAI 创始人 Sam Altman 在美国参议院司法委员会大谈监管 AI，当时 OpenAI 的 AI 聊天机器人 ChatGPT 成为历史上增长最快的消费者产品，每周有 1 亿用户使用。Altman 等 AI 公司高管呼吁监管有几分类似 16 世纪英国对印刷行业的监管，英女王伊丽莎白一世将印刷的许可权授权给特定印刷行会成员，但她的监管尝试没有成功。一部分人支持监管是出于道德理由，另一部分则是出于利益。Altman 支持监管更可能是后者，是为了抵御竞争对手，推动裙带资本主义的形成，微软以及 Google 都响应了这一监管呼吁。生成式 AI 的繁荣将是会更多让科技巨头们受益，而不是惠及普通消费者。",
-          "link": "https://www.solidot.org/story?sid=78216",
-          "publishedOn": "2024-05-20T09:55:25.000Z",
-          "wordCount": 190,
-          "title": "裙带资本主义推动 AI 监管",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78215",
-          "author": null,
-          "description": "上周日贝佐斯（Jeff Bezos）旗下的太空公司 Blue Origin 完成了 2022 年以来的首次载入太空飞行。飞船搭乘了 6 名乘员，其中之一是 90 岁的退役美国空军上尉 Ed Dwight，他成为抵达近太空的最年长者。1961 年 Dwight 被选中成为候补宇航员，但最终没有入选 NASA 宇航员团队。他的座位费用由非盈利组织 Space for Humanity 支付，该组织旨在扩大太空访问。Dwight 超过 William Shatner 成为近太空最年长访客。其他五名成员包括 Mason Angel、Sylvain Chiron 、软件工程师 Kenneth Hess 、Carol Schaller 和 Gopi Thotakura。",
-          "link": "https://www.solidot.org/story?sid=78215",
-          "publishedOn": "2024-05-20T09:23:10.000Z",
-          "wordCount": 204,
-          "title": "第一位黑人候补宇航员搭乘 Blue Origin 飞船抵达近太空",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78214",
-          "author": null,
-          "description": "国际天文学家团队用韦伯望远镜望远镜，发现了宇宙诞生后仅 7.4 亿年，就有两个星系及其大质量黑洞正在合并的证据。这是科学家迄今观测到的最遥远黑洞合并事件，也是首次在早期宇宙中探测到这种现象。天文学家已在宇宙中的很多大质量星系（包括银河系）内，发现了超大质量黑洞。这些黑洞的质量是太阳质量的数百万到数十亿倍，很可能对其所在星系的演化产生重大影响。但对于这些黑洞是如何变得如此巨大，科学家仍然缺乏充分了解。最新发现表明，合并是黑洞快速生长的重要途径，即使在宇宙黎明时期也是如此，大质量黑洞从一开始就在塑造星系的进化。",
-          "link": "https://www.solidot.org/story?sid=78214",
-          "publishedOn": "2024-05-20T07:29:25.000Z",
-          "wordCount": 159,
-          "title": "韦伯望远镜观测到最遥远的黑洞合并事件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78213",
-          "author": null,
-          "description": "南华早报报道，中国海军测试了高超音速轨道炮。轨道炮将智能炮弹以 5 马赫速度发射到 15 公里高的平流层。这是美国 B-2 轰炸机的最大飞行高度。智能炮弹有一对滑翔翼，在飞行了 3 分钟之后落地。但这次测试被认为不成功。研究人员称智能炸弹的期望轨道、最大射程和高度没有达到设计值。分析发现抛射体上升过程中的旋转速度过快，导致了不希望的倾斜。研究报告发表在《电工技术学报》上。",
-          "link": "https://www.solidot.org/story?sid=78213",
-          "publishedOn": "2024-05-20T07:05:25.000Z",
-          "wordCount": 165,
-          "title": "中国测试高超音速轨道炮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78212",
-          "author": null,
-          "description": "Geoffrey Hinton 教授被誉为 AI 教父，他表示如果 AI 取代了更多人类的工作，为了消除其不公平的影响，政府应该推行全民基本收入（UBI 或 universal basic income）。他说，虽然 AI 能提高生产力和增加财富，但它带来的财富主要流向富人，而不是失去工作的人，这对社会会产生糟糕的影响。Hinton 教授是神经网络的先行者，而神经网络是 AI 的基础。他曾在 Google 工作，去年离职，表示可以更自由的谈论不受监管的 AI 所带来的危险。他建议禁止将 AI 用于军事，认为会对人类带来灭绝级威胁。",
-          "link": "https://www.solidot.org/story?sid=78212",
-          "publishedOn": "2024-05-20T05:41:23.000Z",
-          "wordCount": 187,
-          "title": "AI 教父呼吁推广 UBI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78211",
-          "author": null,
-          "description": "Ubuntu 是在 2017 年首次切换到 Wayland，将其作为默认显示服务器使用。但第二年又重新默认使用 Xorg/X11。2021 年再次切换到 Wayland，之后没有再变。但对于英伟达显卡用户，Ubuntu 仍然默认使用 Xorg/X11。原因是英伟达显卡的私有驱动没有充分支持 Wayland。情况在过去几年发生了改变。英伟达改进了对 Wayland 的支持，Wayland 已经事实上成为主流 Linux 发行版使用的标准显示服务器。虽然英伟达显卡对 Wayland 的支持尚不完美，Canonical 工程师表示对英伟达用户默认使用 Wayland 的体验有足够的信心。",
-          "link": "https://www.solidot.org/story?sid=78211",
-          "publishedOn": "2024-05-20T05:20:54.000Z",
-          "wordCount": 189,
-          "title": "Ubuntu 24.10 将对英伟达用户默认使用 Wayland",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78210",
-          "author": null,
-          "description": "苹果勉为其难的遵守了欧盟的法律，允许在其 iOS 设备上运行第三方浏览器引擎，但使用了地理围栏只允许位于欧盟地区的设备运行第三方引擎，这增加了位于欧盟之外的浏览器开发商测试难度。美国的浏览器开发商将只能在模拟器上测试，而无法在实际设备上测试。在 iOS 17.4 前，苹果要求 iOS 或 iPadOS 上的所有浏览器必须使用其 WebKit 渲染引擎，不允许使用 Gecko（Mozilla Firefox）或 Blink（基于 Chromium 的浏览器）。为了遵守欧盟的 Digital Markets Act(DM)，iOS 17.4 允许位于欧盟的设备运行第三方浏览器引擎。",
-          "link": "https://www.solidot.org/story?sid=78210",
-          "publishedOn": "2024-05-19T15:59:20.000Z",
-          "wordCount": 177,
-          "title": "苹果只允许在欧盟设备上运行第三方浏览器引擎",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78209",
-          "author": null,
-          "description": "美国海军陆战队特种作战司令部 (MARSOC) 正在评估 Ghost Robotics 研发的新一代机器狗，它可以配备 AI 辅助瞄准的武器。Ghost Robotics 的四轮无人车 Q-UGV 可用于侦察和监视，也可以装备武器用于远程交战。Onyx Industries 称 MARSOC 正在测试两辆装备了其 SENTRY 远程武器系统的 Q-UGV，它的 SENTRY 系统有支持 AI 的数字成像系统，能自动探测和跟踪人员、无人机或车辆，向位于世界任何地方的远程操作人员报告潜在目标。该系统不能决定自动开火，开火的决策仍然由人类控制。MARSOC 发表声明表示，测试装备武器的无人车并不意味着它对此类能力感兴趣。",
-          "link": "https://www.solidot.org/story?sid=78209",
-          "publishedOn": "2024-05-19T14:46:24.000Z",
-          "wordCount": 187,
-          "title": "美海军陆战队评估装备了 AI 瞄准武器的机器狗",
           "imageUrl": null
         }
       ]
