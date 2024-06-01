@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=48615",
+          "author": "青小蛙",
+          "description": "现在，一款专为职场人士和毕业学生党量身打造的AI生成PPT神器火热上线！它能一键轻松为你打造各类专业级工作刚需PPT和学术答辩PPT。 其中，工作总结、工作汇报PPT能清晰展示工作成果，让领导眼前一亮",
+          "link": "https://www.appinn.com/ibiling-ai-ppt/",
+          "publishedOn": "2024-05-31T06:32:24.000Z",
+          "wordCount": 2530,
+          "title": "AI PPT神器来袭！一键生成工作总结/汇报、转正/晋升述职、商业计划书PPT，附赠千字自述稿！",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/ibiling-ai-ppt.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=48612",
+          "author": "青小蛙",
+          "description": "push-note 是一款非常简单易用的工具，只需要打开它，输入文字内容，就能变成系统通知。@Appinn 虽然，在青小蛙的身边，很少能看到使用通知栏的用户，但相信能看到这篇内容的同学，自己的任务栏应",
+          "link": "https://www.appinn.com/push-note/",
+          "publishedOn": "2024-05-31T05:49:28.000Z",
+          "wordCount": 2539,
+          "title": "push-note – 快速给自己发通知，当便签用[Android]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-31T120559.024.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48604",
           "author": "青小蛙",
           "description": "cjk-romanizer 是一款命令行工具，它能够批量将以中日韩文命名的文件转换为英文字母，俗称罗马化。@Appinn 来自发现频道，@Nigh 同学的作品：https://meta.appinn.",
@@ -140,31 +160,6 @@
           "wordCount": 3027,
           "title": "PowerToys v0.81.0 新增带 AI 的高级粘贴（Advanced Paste）功能",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-23T110608.189.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48521",
-          "author": "青小蛙",
-          "description": "我们的老朋友数码荔枝，最近开启了「正版五月惠」活动！会场精选了一批系统美化和办公工具，这些软件 618 将不再打折 ，现在入手不亏！快来看看有没有你期待的那一款吧～ 活动时间即日起至 5 月 28 日",
-          "link": "https://www.appinn.com/lizhi-may24/",
-          "publishedOn": "2024-05-22T08:33:57.000Z",
-          "wordCount": 2923,
-          "title": "正版五月惠，Fences / Start11 / KeyCue 折扣来袭，正版软件 6 折起！",
-          "enclosure": {
-            "url": "https://www.appinn.com/wp-content/uploads/2024/05/6-ezgif.com-resize-video.mp4",
-            "length": "240373",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-22T143612.295.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48518",
-          "author": "青小蛙",
-          "description": "noTunes 是一个简单的 macOS 应用程序，它能阻止 iTunes 或 Apple Music 启动。并可以设置替代品，比如 Spotify、YouTube Music 等。@Appinn n",
-          "link": "https://www.appinn.com/notunes/",
-          "publishedOn": "2024-05-22T06:15:55.000Z",
-          "wordCount": 2932,
-          "title": "noTunes – 一个简单的 macOS 应用，阻止 Apple Music 启动，并设置替代播放器",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/05/Appinn-feature-images-2024-05-22T135759.667.jpg"
         }
       ]
     },
@@ -213,6 +208,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78324",
+          "author": null,
+          "description": "非线性视频编辑器项目 Kdenlive 宣布释出最新的 24.05.0。新版本的特性包括：为一组视频片段加入特效的 Group Effects，以多种画面比例渲染视频，使用 SeamlessM4T 自动翻译字幕；增强了稳定性，大幅改进了性能，等等。",
+          "link": "https://www.solidot.org/story?sid=78324",
+          "publishedOn": "2024-05-31T15:42:09.000Z",
+          "wordCount": 171,
+          "title": "Kdenlive 24.05.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78323",
+          "author": null,
+          "description": "大模型正变得越来越强大，但对计算和电力的需求也越来越大。大模型如果要变得廉价、快速而且环保，它们需要大幅缩小规模，以便于能在类似手机的设备上本地运行。研究人员正致力于寻找方法实现这一目标。类似所有神经网络，大模型是通过修改人工神经元之间的连接强度进行训练，连接强度以数学参数的形式储存。通过减少参数的精度研究人员能压缩网络，这一过程被称为量化，参数的位数能从 16 位减少到 8 或 4 位，研究人员正致力于将其推向极限——以 1 位精度储存参数。有两种压缩网络的通用方法，其一是训练后量化(PTQ)，其二是量化感知训练(QAT)，研究人员更青睐前者。哈工大的车万翔称，PTQ 相对于 QAT 的优点是不需要收集训练数据，不需要重新训练，训练过程更稳定。QAT 的优点则是模型可能更精确，因为量化从一开始就内置在模型中。去年微软亚洲研究院的研究团队创造了第一个 1 位 PTQ 大模型 BBitNet 1.58b，每个参数占大约 1.5 比特内存，有 30 亿参数的 BitNet 在各种语言任务中的表现和相同参数规模的全精度 LLaMA 模型一样出色，但速度是 2.71 倍，用的 GPU 内存少 72%，GPU 能耗低 94%。",
+          "link": "https://www.solidot.org/story?sid=78323",
+          "publishedOn": "2024-05-31T15:29:29.000Z",
+          "wordCount": 202,
+          "title": "1 位大模型或能解决 AI 的能源需求问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78322",
+          "author": null,
+          "description": "路透研究院和牛津大学的研究人员调查了阿根廷、丹麦、法国、日本、英国和美国六国的 12,000 人，发现普通大众并不常用 ChatGPT 等热门 AI 产品，18-24 岁的年轻人是例外。研究旨在衡量普通大众对过去两年火热无比的生成式 AI 的看法，结果显示：多数人预测生成式 AI 未来五年会对社会产生重大影响，新闻、媒体和科学领域受影响最大；多数人认为生成式 AI 将改善自己的生活；关于生成式 AI 对社会的影响多数人普遍悲观。虽然多数人都听说过生成式 AI，但有 20%-30% 的人对此一无所知；ChatGPT 是使用率最高的生成式 AI 产品，比 Google Gemini 和 Microsoft Copilot 高出 2-3 倍；18-24 岁人群中有 56% 至少用过 ChatGPT 一次，55 岁及以上人群中这一比例为 16%；大部分人将生成式 AI 用于获取信息、创建媒体如文本、图像、音频和视频，有 5% 的人将其用于获取最新信息。",
+          "link": "https://www.solidot.org/story?sid=78322",
+          "publishedOn": "2024-05-31T14:41:00.000Z",
+          "wordCount": 213,
+          "title": "调查显示大众并不常用 ChatGPT 等 AI 产品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78321",
+          "author": null,
+          "description": "Google Chrome 官方博客宣布开始淘汰 Manifest V2 扩展：从 2024 年 6 月 3 日起在 Chrome Dev、Canary 和 Beta 渠道，如果用户仍然安装有 Manifest V2 扩展，那么用户访问扩展管理页面 chrome://extensions 时会显示警告信息，通知他们 Manifest V2 扩展将很快不予支持。未来几个月 Manifest V2 扩展将逐步禁用，用户将会被导向扩展商店 Chrome Web Store 推荐 Manifest V3 替代扩展。短时间内禁用的 Manifest V2 扩展可以重新启用，但未来将会被彻底禁用。对于受争议的 Manifest V3 扩展系统，Google 声称 Chrome Web Store 中逾 85% 的活跃支持扩展已经迁移到 Manifest V3。 Manifest V3 受争议之处是它限制了 WebRequest API 的功能，用 declarativeNetRequest 替代了 WebRequest。广告屏蔽扩展如 uBlock Origin 会受到影响，因为它们使用 \nWebRequest 在广告下载前屏蔽其请求。禁用 Manifest V2 扩展意味着 uBlock Origin 会被禁用。开发者已经释出了使用 Manifest V3 的精简版本 uBO Lite，其功能弱于原版。原版未来只能在 Firefox 等浏览器上使用。",
+          "link": "https://www.solidot.org/story?sid=78321",
+          "publishedOn": "2024-05-31T09:24:57.000Z",
+          "wordCount": 252,
+          "title": "Google Chrome 开始淘汰 Manifest V2 扩展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78320",
+          "author": null,
+          "description": "根据发表在《中国科学: 地球科学》上的一项研究，在全球暖化背景下超过 35℃ 和 40℃ 的极端高温天数非线性增加，高温开始时间提前，结束时间推后，高温季节延长，影响范围扩大。随着全球温升水平的增加，高温影响范围扩大，高温中心位于中国东部和西北。在长江中下游，全球温升 1.5℃ 时，超过 40℃ 的高温日数平均将增加约 0.5 天，但到了 2℃ 水平下将增加 2~4 天，3℃ 水平下甚至高达 6~8 天，这意味着在过去少见的超过 40℃ 的极端高温在未来随着全球变暖可能会成为常见现象。在全球温升 5℃ 时，中国部分区域大部分时间都可能出现极端高温。",
+          "link": "https://www.solidot.org/story?sid=78320",
+          "publishedOn": "2024-05-31T08:57:20.000Z",
+          "wordCount": 180,
+          "title": "研究称中国极端高温天数在增加",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78319",
+          "author": null,
+          "description": "长久以来，癌症被视为现代生活中的疾病。最新的考古发现和医学研究揭示，古埃及医生在 4000 多年前就可能已经尝试通过手术来治疗癌症。这一发现不仅重写了我们对古代医学的认识，还为癌症治疗的历史增添了新的篇章。最新研究集中在一个保存在英国剑桥大学达克沃斯实验室的古老头骨上，这个头骨属于一位30至35岁的男性，其表面疤痕和肿瘤疤痕提供了线索。通过对这个头骨进行数字显微镜检查和微型计算机断层扫描（CT），研究人员发现了肿瘤周围的切割痕迹。这些痕迹表明，古埃及医生可能使用锋利的金属工具进行了切除肿瘤的手术。除了首个头骨外，科学家们在达克沃斯收藏的第二个头骨中也发现了癌症病变。这个头骨属于一位至少 50 岁的成年女性，其年代可以追溯到公元前 664 年至公元前 343 年。",
+          "link": "https://www.solidot.org/story?sid=78319",
+          "publishedOn": "2024-05-31T08:47:17.000Z",
+          "wordCount": 166,
+          "title": "古埃及人四千年前通过手术切除脑瘤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78318",
+          "author": null,
+          "description": "韦伯太空望远镜发现了一个红移值超过 14 的星系，它是已知最遥远的星系。被称为 JADES-GS-z14-0 的星系红移值高达 z=14.32，远超此前的记录保持者——红移值 z=13.2 的 JADES-GS-z13-0。其年龄距离创世大爆炸不到 3 亿年。该星系直径逾 1400 光年，其光主要来自于年轻恒星而不是超大质量黑洞。光谱分析显示其存在氢和氧，这意味着在观测到它之前该星系已经经历了多代大质量恒星。",
+          "link": "https://www.solidot.org/story?sid=78318",
+          "publishedOn": "2024-05-31T08:31:00.000Z",
+          "wordCount": 168,
+          "title": "韦伯望远镜发现了已知最遥远的星系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78317",
+          "author": null,
+          "description": "亚马逊通知其中国客户，Kindle 中国电子书店将于 6 月 30 日完全关闭，此后未下载的电子书将无法下载和阅读。亚马逊是提前两年在 2022 年宣布于 2023 年 6 月 30 日起在中国停止 Kindle 电子书店的运营，2024 年 6 月 30 日停止云端下载服务，之后 Kindle 中国用户购买的电子书将无法下载，而要阅读已购买下载的电子书，用户需要确保其帐户处于登录状态。亚马逊已经关闭了中国电商业务，它表示亚马逊海外购、亚马逊全球开店、亚马逊广告、亚马逊全球物流在内的跨境电商业务、亚马逊云科技和亚马逊智能硬件与服务等中国区业务会继续运营。",
+          "link": "https://www.solidot.org/story?sid=78317",
+          "publishedOn": "2024-05-31T07:10:13.000Z",
+          "wordCount": 186,
+          "title": "亚马逊通知客户 Kindle 中国电子书店将于一个月后彻底关闭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78316",
+          "author": null,
+          "description": "字节跳动曾被报道说宁愿关闭而不是出售 TikTok，但根据路透社的最新消息，它其实一直在做拆分抖音和 TikTok 的准备。报道称，从去年开始字节跳动维护了一个独立于抖音运作的 TikTok 推荐算法版本。知情人士表示，完全拆分两者的推荐算法可能需要一年多时间，此举旨在向美国议员表明其美国业务独立于中国。知情人士称，拆分源代码将切断 TikTok 与字节跳动的“大规模工程开发能力”。对于路透社的报道，TikTok 发表声明称有误导性，事实上不准确。",
+          "link": "https://www.solidot.org/story?sid=78316",
+          "publishedOn": "2024-05-31T06:51:57.000Z",
+          "wordCount": 172,
+          "title": "字节跳动分离抖音和 TikTok 的推荐算法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78315",
+          "author": null,
+          "description": "日本政府正在推动让所有公共资助的研究论文开放获取。日本科学部本月开始向大学拨款建造所需的基础设施，让研究论文在全国范围内免费阅读。从 2025 年 1 月起所有接受政府资助的研究人员都必须免费公开其论文。此举旨在加强研究信息的长期可追溯性，促进二次研究和推动合作。日本是首批在开放获取上取得显著进展的亚洲国家，也是世界上首批制定全国开放获取计划的国家。美国在 2022 年宣布了开放获取规定，所有人纳税人资助的研究到 2026 年必须开放获取。日本已经推出了自己的预印本服务 Jxiv，但至今论文预印本还很少，日本学者 Kazuki Ide 表示，原因是大部分研究人员尚未有发布预印本的习惯，以及很多人根本不知道 Jxiv 的存在。",
+          "link": "https://www.solidot.org/story?sid=78315",
+          "publishedOn": "2024-05-31T06:28:23.000Z",
+          "wordCount": 170,
+          "title": "日本推动所有公共资助研究开放获取",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78314",
           "author": null,
@@ -931,136 +1026,6 @@
           "publishedOn": "2024-05-22T14:35:21.000Z",
           "wordCount": 183,
           "title": "加州可更新能源发电量连续 45 天超过需求",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78242",
-          "author": null,
-          "description": "美国司法部上周逮捕了 42 岁的软件工程师 Steven Anderegg，他受到了四项指控，其中之一是向未成年人发送色情图像。这起诉讼是首例与 AI 生成色情图像相关的案件，但制作 AI 色情并非是本案的核心。Anderegg 被指使用了开源文本图像模型 Stable Diffusion 1.5 生成了 CSAM 材料（child sexual abuse material），他在网上与一名 15 岁男孩交流，试图引诱对方与其发生性关系。他向男孩介绍了如何用 AI 模型生成图像，直接通过 Instagram 向其发送了 CSAM 材料，其中包括未成年人展示性器官的 AI 图像。Instagram 向 NCMEC（National Center for Missing and Exploited Children）举报了这些图像，后者随后报告给了警方。如果四项罪名都成立，他将面临 5-70 年徒刑。",
-          "link": "https://www.solidot.org/story?sid=78242",
-          "publishedOn": "2024-05-22T14:05:47.000Z",
-          "wordCount": 203,
-          "title": "美国公布首例与 AI 生成色情图像相关的案件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78241",
-          "author": null,
-          "description": "在 Build 开发者大会上，微软称它正为文件资源管理器加入版本控制，集成 Git 等流行版本控制系统，让用户或开发者直接通过文件资源管理器应用浏览代码库的新变化和评论。软件巨人同时表示，文件资源管理器还将原生支持 7-zip  和 TAR 压缩文件，而目前它只支持 ZIP 压缩。",
-          "link": "https://www.solidot.org/story?sid=78241",
-          "publishedOn": "2024-05-22T13:16:51.000Z",
-          "wordCount": 174,
-          "title": "微软为文件资源管理器加入版本控制和 7z 压缩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78240",
-          "author": null,
-          "description": "英国统计数据显示，电动汽车和混动汽车更容易撞到行人。对英国交通事故的分析发现，电动和混动汽车撞到行人的可能性是燃油汽车的两倍，在城市地区会进一步上升到三倍。造成这一现象的原因尚不清楚，研究人员怀疑是多种因素的结果，其中包括司机更年轻，缺乏经验，电动和混动汽车更安静，更难被行人听到，尤其是在城市地区。伦敦大学学院交通安全教授 Nicola Christie 表示，人们依靠声音去判断汽车的存在、速度和位置。缺少这些线索时，对于忙碌的城市居民而言，这可能会成为问题；对于视力不佳的人或难以判断车辆速度和距离的儿童而言，问题会更严重。电动汽车其它问题还有加速更快，比燃油汽车更重。",
-          "link": "https://www.solidot.org/story?sid=78240",
-          "publishedOn": "2024-05-22T08:54:23.000Z",
-          "wordCount": 159,
-          "title": "电动汽车比油车更容易撞行人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78239",
-          "author": null,
-          "description": "The Regeneron International Science and Engineering Fair(ISEF)是世界规模最大最负盛名的科学博览会，ISEF 2024 于上周在洛杉矶会展中心举行。Krish Pai 赢得了环境工程类别的头奖，赢得了 Regeneron Young Scientist Award 和 5.5 万美元奖金。但 17 岁的 Pai 被发现存在大量造假行为。他使用的图像是从网上盗来的，但做成了镜像，可能是为了避免被人识别。他的其它行为还包括盗窃数据、夸大新颖性、剽窃、引用欺骗等等。",
-          "link": "https://www.solidot.org/story?sid=78239",
-          "publishedOn": "2024-05-22T08:08:48.000Z",
-          "wordCount": 185,
-          "title": "ISEF 2024 头奖得主被指造假",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78238",
-          "author": null,
-          "description": "中国上市公司员工人数的统计显示，电动汽车相关企业大幅增加了员工数量。根据截至 4 月 30 日的约 5400 家内地上市企业的 2023 年度报告，2023 年年底的员工总数达到 3057 万人，比 2019 年年底增加 352 万人。按行业来看，汽车、电子产品、半导体和新能源起拉动作用。其中在电动汽车领域与特斯拉争夺世界第一宝座的比亚迪(BYD)，2023 年年底的员工人数比 2019 年增加 47 万人，达到了 70 万人的规模。比亚迪除了扩充从宿舍到工厂的通勤巴士、改善员工食堂提供的餐饮之外，还与深圳中学合作，成立了附设幼儿园、小学和初中的“深圳亚迪学校”。最大车载电池企业宁德时代新能源科技也将员工人数增加了近 9 万人。",
-          "link": "https://www.solidot.org/story?sid=78238",
-          "publishedOn": "2024-05-22T07:29:49.000Z",
-          "wordCount": 180,
-          "title": "中国电动汽车相关企业大幅增加了员工数量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78237",
-          "author": null,
-          "description": "现代人类携带了尼安德特人的基因，这是现代人类和尼安德特人有过跨种族交配的证据。但这种跨种交配发生在什么时候什么地点，科学家一直对此有争议。根据发表在 bioRxiv 上的一篇预印本，对古代和现代基因组的分析显示，现代人类的尼安德特人 DNA 来自于约 4.7 万年前。尼安德特人和现代人类约在 50 万年前分开，尼安德特人主要生活在欧亚大陆，而现代人类则生活在非洲。现代人类祖先大约 7 万年前离开了非洲进入欧亚大陆，可能在今天的中东或欧洲遭遇了尼安德特人。加州伯克利的科学家分析了已测序的 59 名古代智人基因组，他们生活在距今 4.5 万到 2200 年前。研究人员随后在古代智人基因组和全球 275 个现代人基因组中识别出尼安德特人 DNA 区域，跟踪尼安德特人基因随时间在古代和现代人群中的演变。他们估计尼安德特人基因是在大约 4.7 万年前进入到现代人类祖先基因组中的。",
-          "link": "https://www.solidot.org/story?sid=78237",
-          "publishedOn": "2024-05-22T06:40:18.000Z",
-          "wordCount": 187,
-          "title": "尼安德特人和现代人类在 4.7 万年前跨种交配繁育后代",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78236",
-          "author": null,
-          "description": "记者调查发现，在多个电商、社交平台上，都有论文代写的身影。中介发帖宣传、拉客谈价，写手接单，俨然形成一条完整的灰色产业链，而中介宣称的“老师代写”，毕业生眼里的“专业写手”，不过是深谙降重之道的论文剽窃者，或使用 AI 写作的外行人。一位有经验的写手告诉记者，可以用 AI 写。论文中的数据统计，可以先让AI合理地编一些数据，再让 AI 根据编好的数据，一章节一章节地分析，“一下午就搞定了”，“写一篇论文才挣三五百元，你还真去帮他查数据、找资料，认认真真地写啊。”一位初中学历的写手介绍，他进入代写行业已经 7 年了。刚开始就是找已发表的论文拼凑，然后再使用一些软件或手动改语序、词语进行降重，AI 出现后，主要靠 AI 辅助完成论文。",
-          "link": "https://www.solidot.org/story?sid=78236",
-          "publishedOn": "2024-05-22T05:47:08.000Z",
-          "wordCount": 171,
-          "title": "论文工厂写手越来越多的使用 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78235",
-          "author": null,
-          "description": "25 年前，一位用户报告了一个 Netscape Navigator 的 bug，问题是在“始终显示滚动条”下，textarea 的行高显示不正确，指定为 ROWS=5 COLS=30 的 TEXTAREA 字段显示的行高会增加大约 1。这个 bug 的历史比 Firefox 还要古老，Netscape Navigator 是 Firefox 的前身，过去 25 年相同的 bug 用户重复报告了数百次。几天前它终于被修复了。",
-          "link": "https://www.solidot.org/story?sid=78235",
-          "publishedOn": "2024-05-22T05:20:46.000Z",
-          "wordCount": 197,
-          "title": "Firefox 修复了一个有 25 年历史的 bug",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78234",
-          "author": null,
-          "description": "计算机架构师 Gordon Bell 于 5 月 17 日在家中去世，享年 89 岁。他出生于 1934 年，在 MIT 获得电机工程学士和硕士学位，是 DEC 公司雇佣的第二名计算机工程师，开发了 PDP-1 系统的多个组件，发明了第一个通用异步收发报机（UART），是 PDP-4 和 PDP-6 的架构师，是 DEC 最成功的计算机 VAX 的负责人。他于 1983 年因心脏病从 DEC 退休，之后开始积极参与公共政策，帮助成立了 NSF 的计算机和信息科学与工程局，设立了 ACM Gordon Bell 奖，1995 年加入了微软研究院，研究“远程呈现”相关技术。",
-          "link": "https://www.solidot.org/story?sid=78234",
-          "publishedOn": "2024-05-22T04:34:33.000Z",
-          "wordCount": 213,
-          "title": "计算机架构师 Gordon Bell 去世，享年 89 岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78233",
-          "author": null,
-          "description": "AI 研究员 Chris Olah 过去十年沉迷于研究人工神经网络。他先后任职于 Google Brain 和 OpenAI，目前在他联合创办的 AI 创业公司 Anthropic 工作。他一直对 AI 内部如何工作十分感兴趣。随着生成式 AI 无处不在，AI 黑箱问题日益引人关注。大模型会随意捏造信息，如果我们能了解其内部如何工作，那么将有助于让它变得更安全。Olah 相信我们正实现这一目标。他的团队正通过对大模型逆向工程去了解它们为什么会产生特定输出。根据今天发表的论文，他们已经取得了显著进展。研究人员称，他们的做法是将人工神经元视为字母，字母本身没什么意义，只有按顺序组合起来才有意义。C 没有意义，但 Car 有。他们使用了被称为字典学习的技术去解释神经网络。",
-          "link": "https://www.solidot.org/story?sid=78233",
-          "publishedOn": "2024-05-21T16:25:37.000Z",
-          "wordCount": 189,
-          "title": "AI 是黑箱，而 Anthropic 正找到方法一窥黑箱内部",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78232",
-          "author": null,
-          "description": "皮克斯总裁 Jim Morris 周二向员工通报了裁员的消息。皮克斯将裁掉 14% 约 175 名员工。在裁员前它有 1300 名员工。此次裁员是迪士尼 CEO Bob Iger 重新恢复注重内容质量的任务的一部分。前任 CEO Bob Chapek 更注重数量，旨在为流媒体业务打造更多内容。但米老鼠的创意团队在流媒体内容大战中过于分散。皮克斯的裁员比例低于早先报道的五分之一。整个迪士尼公司都进行了裁员，但皮克斯的裁员因内容制作而推迟。Pete Docter 领导的皮克斯将不再专注于制作流媒体内容，而是专注于制作动画长片。",
-          "link": "https://www.solidot.org/story?sid=78232",
-          "publishedOn": "2024-05-21T15:51:04.000Z",
-          "wordCount": 183,
-          "title": "皮克斯将裁掉 14% 的员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78231",
-          "author": null,
-          "description": "微软在 Surface 活动上演示了 MS 画图应用的新 AI 文本生成图像功能。新的 AI 工具被称为 Cocreator，可以根据用户输入的文本或涂鸦生成图像。Cocreator 提供了一个“创意滑块”，允许用户控制与原作相比你希望 AI 能接管的程度。微软称，结合文本提示和画笔描边，将能实现更快的图像编辑。它比只使用 DALL-E 或其它文本到图像生成模型能实现更精确的渲染。",
-          "link": "https://www.solidot.org/story?sid=78231",
-          "publishedOn": "2024-05-21T15:33:26.000Z",
-          "wordCount": 178,
-          "title": "微软画图应用加入 AI 生成图像功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78230",
-          "author": null,
-          "description": "2008 年，自称中本聪的人发表了比特币白皮书，一个今天价值数万亿美元的行业由此诞生。但中本聪本人在短短数年间就消失了。他在早期挖了大约 110 万枚比特币，今天价值 750 亿美元，但至今从未移动过。开着兰博基尼的澳大利亚计算机科学家 Craig Steven Wright 博士则一直声称他就是中本聪，他对质疑者提出了诽谤诉讼，威胁要将他们告到家破人亡。他此举有经济上的动机。他正与一位赌博大亨推广一种替代加密货币 Bitcoin Satoshi Vision，宣称它是一种更纯粹未腐化的比特币。他的主张被认为对整个加密货币行业的创始神话构成了威胁，多家业内巨头组成了 Crypto Open Patent Alliance（COPA）对他起诉，让法庭做出裁决：我们也许永远不会知道谁是中本聪，但中本聪绝对不是 Craig Wright。COPA 聘请的法医专家分析了 Wright 递交的逾百份文件，发现很多都存在问题，比如声称 2007 年的文件所用笔记本在 2012 年才开始流通。法官裁决 Wright 不是中本聪。法官本周公布了 231 页的裁决书，指出 Wright 伪造了很多文件，他并不像他想象中的那么聪明。Wright 本人通过社交媒体发表声明表示会上诉。",
-          "link": "https://www.solidot.org/story?sid=78230",
-          "publishedOn": "2024-05-21T14:51:42.000Z",
-          "wordCount": 200,
-          "title": "Craig Steven Wright 不是中本聪，没有发明比特币",
           "imageUrl": null
         }
       ]
