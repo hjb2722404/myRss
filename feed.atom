@@ -2,10 +2,141 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-06-03T02:29:13.700Z</updated>
+    <updated>2024-06-04T02:28:39.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Length Units]]></title>
+        <id>https://css-tricks.com/?p=375815</id>
+        <link href="https://css-tricks.com/css-length-units/"/>
+        <updated>2024-06-03T19:22:02.000Z</updated>
+        <summary type="html"><![CDATA[A comprehensive guide covering nine types of lengths that CSS uses to size elements in terms of dimensions, space, time, and even sound.
+CSS Length Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[童年贫困对大脑语言处理造成持久影响]]></title>
+        <id>https://www.solidot.org/story?sid=78344</id>
+        <link href="https://www.solidot.org/story?sid=78344"/>
+        <updated>2024-06-03T16:00:25.000Z</updated>
+        <summary type="html"><![CDATA[一项研究发现，童年时期的贫困经历会对大脑处理语言的方式产生持久的变化。即使在语言任务中有出色表现的成年人，童年贫困的人相比中等收入家庭的同年龄，他们的神经活动模式存在差异。研究凸显了早期社会经济条件对大脑功能的长期影响，表明与贫困相关的慢性压力可能会改变语言处理相关的神经通路。密歇根大学招募了 54 名参与者，其中 24 人来自贫困组，27 人来自中等收入组，对他们进行脑成像。参与者接受了一系列语言处理任务，同时使用功能性磁共振成像 (fMRI) 监测其大脑活动。结果显示，中等收入家庭成年人的左额下回 (IFG) 和其它与语言处理相关的区域活跃性更高。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现良好睡眠与低孤独感相关]]></title>
+        <id>https://www.solidot.org/story?sid=78343</id>
+        <link href="https://www.solidot.org/story?sid=78343"/>
+        <updated>2024-06-03T15:39:12.000Z</updated>
+        <summary type="html"><![CDATA[一项研究发现，良好的睡眠与更低的孤独感相关。研究涉及 2,297 名成年人，平均年龄 44 岁，其中 51% 为男性。参与者完成了在线睡眠健康问卷和孤独量表。结果显示，睡眠健康水平越高，总体孤独感、情感孤独感和社交孤独感就越低。这种相关性在年轻人中间最为明显。美国睡眠医学学会认为，睡眠对健康至关重要，建议成年人每晚应睡足七个小时。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Mint 默认禁用未经验证的 Flatpak 软件包]]></title>
+        <id>https://www.solidot.org/story?sid=78342</id>
+        <link href="https://www.solidot.org/story?sid=78342"/>
+        <updated>2024-06-03T15:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Linux Mint 发行版项目表示，它的软件管理器将默认禁用未经验证的 Flatpak 软件包。软件管理器还会显示警告信息，让用户知道使用未经验证软件包的安全风险。Flatpak 是 Red Hat 主导开发的包格式，类似 Canonical 主导的包格式 Snap，它的 Ubuntu 发行版默认不再支持 Flatpak。Linux Mint 称，如果用户允许未经验证的 Flatpak 软件包，它的软件管理器会将这些软件包清晰标记出来。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Nightly 引入实验性的本地图像替代文本生成功能]]></title>
+        <id>https://www.solidot.org/story?sid=78341</id>
+        <link href="https://www.solidot.org/story?sid=78341"/>
+        <updated>2024-06-03T15:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Firefox 130（目前稳定版是 v126)将为使用屏幕阅读器的视觉障碍者提供一项辅助功能：利用运行在本地的机器学习模型为图像自动生成文本描述。该功能将首先作为 PDF 编辑器的一部分提供，之后将扩大范围，作为常规浏览的一部分提供给使用屏幕阅读器的用户。它使用的机器学习模型是基于 Transformer，通过 COCO（Common Object In Context）或 Flickr30k 等数据集训练去识别图像中的不同对象，使用前需要一次性下载不到 200MB 大小的文件，虽然性能比不上知名大模型如 GPT-4 Turbo with Vision 或 LLaVA，但对于描述图像足够正确，对硬件需求也很低。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Copilot Recall 将是隐私和安全噩梦]]></title>
+        <id>https://www.solidot.org/story?sid=78340</id>
+        <link href="https://www.solidot.org/story?sid=78340"/>
+        <updated>2024-06-03T14:13:18.000Z</updated>
+        <summary type="html"><![CDATA[微软上个月宣布的新 AI 功能 Copilot Recall 引发了广泛争议，以至于很多人表示认真考虑迁移到 Linux——虽然未必所有人会真的付诸实施。Copilot Recall 被视为将是隐私和安全的噩梦，微软官方博客在解释其功能也承认，它不会有选择性的收集信息，它会将用户的密码等敏感信息都记录下来。微软声称 Recall 的快照是在本地储存和处理，使用了加密，但如果有人掌握了用户的电脑开机密码，那么 Recall 的快照无疑会是巨大的信息宝藏，相比没有 Recall 的电脑它泄露的信息将会多得多。安全研究员 Kevin Beaumont 表示，黑客不需要物理访问机器也能通过其它方法窃取到 Recall 的快照。用户删除的敏感信息也会留在 Recall 的快照里。WhatsApp、Signal 之类端对端加密消息应用的阅后即焚功能对于 Recall 而言就是笑话。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krita 项目诞生 25 周年]]></title>
+        <id>https://www.solidot.org/story?sid=78339</id>
+        <link href="https://www.solidot.org/story?sid=78339"/>
+        <updated>2024-06-03T11:13:13.000Z</updated>
+        <summary type="html"><![CDATA[绘图应用 Krita 项目至今已有 25 年历史，项目维护者通过官方博客回顾了过去 25 年的历程：Krita 项目已经走过了 25 年，四分之一个世纪的时光。诚然，它当初并不叫 Krita，而是 KImageShop。由于遭到了某位德国讼棍的法律骚扰 (谢天谢地，他已经去了另一个世界) 而不得不改名为 Krayon，然后又因为类似的原因才最终改名为 Krita...2005 年，Krita 终于发布了第一个正式版，这时的它还只是 KOffice 1.4 的一个组件。虽然距离成熟还有很长的距离要走，但人们似乎感觉到了它的未来可期，而一些 Linux 杂志也为 Krita 给出了好评——2005 年时 Linux 题材居然能有纸媒，而且还不是一本，这在今天简直是不可想象的事情。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国科学家使用细胞疗法治愈一名患者的糖尿病]]></title>
+        <id>https://www.solidot.org/story?sid=78338</id>
+        <link href="https://www.solidot.org/story?sid=78338"/>
+        <updated>2024-06-03T10:29:54.000Z</updated>
+        <summary type="html"><![CDATA[《南华早报》报道，中国科学家利用细胞疗法成功治愈了一名患者的糖尿病。研究报告发表在《Cell Discovery》期刊，这项技术代表着再生医学治疗糖尿病领域的重大突破。患者是 59 岁男性，有 25 年 2 型糖尿病病史，并发展为终末期糖尿病肾病（尿毒症），2017 年 6 月出现终末期糖尿病肾病并接受肾移植。但由于其胰岛功能近乎衰竭，每天需要多次注射胰岛素，未来存在极大的糖尿病严重并发症风险。2021 年 7 月 19 日，由于对低血糖的担忧以及考虑血糖控制不佳对供体肾脏长期生存的不利影响，该患者在上海长征医院接受了自体再生胰岛移植治疗，术后第 11 周即开始完全脱离外源胰岛素，其口服降糖药术后逐步减量，并在第 48 周和 56 周实现彻底撤药，目前该患者已彻底脱离胰岛素长达 33 个月。这是首次使用自体衍生胰岛治疗胰岛功能受损的T2D患者的人体组织替代疗法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam 平台 Linux 玩家四分之三使用 AMD CPU]]></title>
+        <id>https://www.solidot.org/story?sid=78337</id>
+        <link href="https://www.solidot.org/story?sid=78337"/>
+        <updated>2024-06-03T08:52:16.000Z</updated>
+        <summary type="html"><![CDATA[根据 Valve 公布的 Steam 硬件和软件调查，Linux 份额在过去的五月增长了 0.42% 至 2.32%，macOS 增至 1.47%，而 Windows 则降至 96.21%。在所有 Steam 的 Linux 玩家中，四分之三使用 AMD CPU，这在很大程度上受益于掌机 Steam Deck 的流行，它使用了定制的 AMD APU。这也得益于 AMD 对开源的支持和 Ryzen 出色的性能，AMD CPU 玩家大多数也使用 AMD GPU。在 Steam 玩家使用的语言中，简体中文略微下降 0.82% 至 29.49%，英文玩家增加 4.87% 至 38.05%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging Face 称黑客窃取了 Spaces 平台的身份验证令牌]]></title>
+        <id>https://www.solidot.org/story?sid=78336</id>
+        <link href="https://www.solidot.org/story?sid=78336"/>
+        <updated>2024-06-03T07:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Hugging Face 官方博客披露黑客窃取了其 Spaces 平台的身份验证令牌。Spaces 是社区用户创建和递交 AI 应用的库，允许其他用户演示这些 AI 应用。Hugging Face 表示已撤销泄露的身份验证令牌，并发送邮件通知受影响的用户。它建议所有 Spaces 用户刷新其令牌，切换到细粒度访问令牌，该令牌允许更严格控​​制谁有权访问其 AI 模型。Hugging Face 表示正与外部专家合作调查此次入侵事件，正将这起事件报告给执法和数据保护机构。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ticketmaster 证实用户数据被盗]]></title>
+        <id>https://www.solidot.org/story?sid=78335</id>
+        <link href="https://www.solidot.org/story?sid=78335"/>
+        <updated>2024-06-03T06:20:25.000Z</updated>
+        <summary type="html"><![CDATA[Live Nation 证实其票务子公司 Ticketmaster 用户数据被盗。Live Nation 称它于 5 月 20 日在其子公司第三方云数据库环境中探测到了未经授权的活动，5 月 27 日犯罪分子在暗网出售 Ticketmaster 用户数据。它已经将此事报告给了执法部门，正配合执法部门的调查。此前自称 Shiny Hunters 的人在黑客论坛上以 50 万美元的价格出售 Ticketmaster 数据，声称包含了逾 5.6 亿 Ticketmaster 用户数据。被盗数据多达 1.3TB，包含 Ticketmaster 用户的完整信息，其中包括姓名、家庭和电邮地址以及电话号码，以及门票销售等信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 时代 AMD 再次搞乱其笔记本芯片命名方案]]></title>
+        <id>https://www.solidot.org/story?sid=78334</id>
+        <link href="https://www.solidot.org/story?sid=78334"/>
+        <updated>2024-06-03T05:49:36.000Z</updated>
+        <summary type="html"><![CDATA[在台北电脑展上，AMD 宣布了它的新一代 Ryzen AI 笔记本处理器，大幅修改了其笔记本芯片的命名方案。它第一代配备 NPU 处理器的移动芯片是 7040 系列，第二代是 8040 系列，现在推出的第三代配备 NPU 的移动芯片不再沿用旧的命名方案，而是另起灶炉了。新产品被称为 Ryzen AI 300 系列，目前共发布两款：Ryzen AI 9 HX 370 配备 12 核 CPU 和 16 核 GPU，其中 8 个 CPU 核心为 Zen 5c 核心（L3 缓存减半），类似英特尔 E 核心但架构与 Zen 5 完全相同；Ryzen AI 9 365 包含了 10 核 CPU（其中 6 个 Zen 5c 核心）和 12 GPU 核心。两款产品的 NPU 相同，都达到了 50 trillion operations per second (TOPS)，超过了微软 Copilot+ 兼容 PC 所需要的 40+ TOPS，相比下 7040 系列是 10 TOPS，8040 系列是 16 TOPS，而高通 Snapdragon X 是 45 TOPS，英特尔下一代 Lunar Lake 预计性能 40-45 TOPS。新的命名方案中，AMD 仍然用 3/5/7/9 表达一般性能水平，后面的字母如 U 代表超便捷，HX 代表高性能。最后的一串数字从原来的四位改为三位，AMD 称，3 代表第三代 NPU，7040 和 8040 系列不再追溯改名，而且它们的 NPU 性能也没有达到微软 Copilot+ 兼容 PC 的标准，因此也不会添加 Ryzen AI 的名字。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 宣布 Zen 5 桌面处理器 Ryzen 9000 系列]]></title>
+        <id>https://www.solidot.org/story?sid=78333</id>
+        <link href="https://www.solidot.org/story?sid=78333"/>
+        <updated>2024-06-03T03:34:11.000Z</updated>
+        <summary type="html"><![CDATA[AMD 在台北电脑展上正式宣布了基于 Zen 5 架构的桌面处理器 Ryzen 9000 系列，发售时间为 7 月份，但具体时间尚未公布，价格也没有宣布。AMD 称，Zen 5 的 IPC 相比 Zen 4 提升了大约 16%。AMD 共宣布了四款产品：Ryzen 9 9950X（16C/32T，4.3GHz/5.7GHz，170 W），Ryzen 9 9900X（12C/24T，4.4GHz/5.6GHz，120 W），Ryzen 7 9700X（8C/16T，3.8GHz/5.5GHz，65 W），Ryzen 5 9600X（6C/12T，3.9GHz/5.4GHz，65 W）。AMD 没有为桌面处理器发布 Zen 5c（L3 缓存减半），Zen 5c 是面向移动作为 Ryzen AI 300 系列笔记本芯片的一部分发布的。Ryzen 9000 系列也没有包含 NPU 神经处理单元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[澳大利亚新法律将对深度伪造色情判刑]]></title>
         <id>https://www.solidot.org/story?sid=78332</id>
@@ -815,104 +946,6 @@ WebRequest 在广告下载前屏蔽其请求。禁用 Manifest V2 扩展意味�
         <link href="https://www.solidot.org/story?sid=78269"/>
         <updated>2024-05-25T15:34:01.000Z</updated>
         <summary type="html"><![CDATA[天文学家在 40 光年外发现了一颗潜在宜居的类地行星。该行星被命名为 Gliese 12b，其表面温度可能适合液态水存在，潜在适宜生命生存。Gliese 12b 的大小与地球相似，或类似金星略小于地球。其表面温度约为 42C。它的母星是一颗位于双鱼座的冷红矮星 Gliese 12，为太阳的四分之一，表面温度约为太阳的 60%。以从母星接收到的光量而言，它相当于位于金星和地球之间。NASA 表示该天体是韦伯太空望远镜未来进一步观测的优秀候选目标。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硅谷精英支持特朗普]]></title>
-        <id>https://www.solidot.org/story?sid=78268</id>
-        <link href="https://www.solidot.org/story?sid=78268"/>
-        <updated>2024-05-25T14:27:23.000Z</updated>
-        <summary type="html"><![CDATA[硅谷一些最知名的风险投资家将于下个月为特朗普（Donald Trump）举办筹款活动，共和党正在在主要由民主党支持的科技捐赠者社区中取得突破。这一变化标志着硅谷文化的转变，它长期以来被认为是自由主义堡垒，但对言论自由、科技监管和税收等的担忧驱动了这一转变。马斯克（Elon Musk）圈子内的很多人都认为特朗普是受害者，认为拜登政府对马斯克过于敌视，担心自身利益受损。一位亲特朗普的风投称，如果他们能不公平的瞄准马斯克，那么他们也能不公平的瞄准我们。这是第三世界的运作方式，不应该是美国的运作方式。虽然没有明确表态，马斯克被广泛视为支持特朗普。他公开抨击了他所称的“觉醒政治”，拜登的移民政策及其对跨性别者的支持，他所持的很多立场都与保守派以及特朗普一致。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We've Added 10 New CSV Tools 🔥]]></title>
-        <id>https://catonmat.net/10-new-csv-tools</id>
-        <link href="https://catonmat.net/10-new-csv-tools"/>
-        <updated>2024-05-25T12:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Team Browserling keeps shipping!
-Last week we added 20 new png tools and today we just added 10 new tools to our CSV Tools collection.
-We've done our job and now it's Google's job to index them and rank them well.
-Here are the new CSV tools:
-Sort CSV Columns
-Validate CSV
-Change CSV Quote Character
-Add CSV Quotes
-Remove CSV Quotes
-Truncate CSV Columns
-Trim CSV Columns
-Find Incomplete CSV Records
-Fill Incomplete CSV Records
-Convert CSV to Base64
-Convert Base64 to CSV
-URL-encode CSV
-URL-decode CSV
-Next week we'll add even more tools. See you then!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[siftrss – 二次过滤处理 RSS，并生成新的 RSS 地址[在线工具]]]></title>
-        <id>https://www.appinn.com/?p=48558</id>
-        <link href="https://www.appinn.com/siftrss/"/>
-        <updated>2024-05-25T08:04:52.000Z</updated>
-        <summary type="html"><![CDATA[siftrss 是一款简单的在线服务，它可以对 RSS 进行二次处理，针对不同字段，进行过滤，然后生成新的 RSS 地址。@Appinn siftrss 在 siftrss 中输入 RSS 地址之后，]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICQ 将于 6 月 26 日关闭]]></title>
-        <id>https://www.solidot.org/story?sid=78267</id>
-        <link href="https://www.solidot.org/story?sid=78267"/>
-        <updated>2024-05-25T04:43:57.000Z</updated>
-        <summary type="html"><![CDATA[ICQ 官网发表声明，它将于 6 月 26 日关闭，它建议用户改用 VK Messenger。ICQ 诞生于 1996 年，是最早的流行即时通讯软件，它最初由以色列公司 Mirabilis 开发，1998 年被 AOL 收购，2010 年被俄罗斯的 Mail.Ru 收购——该公司现改名为 VK。在其鼎盛期，ICQ 有逾亿用户，但到了 2022 年它的月活用户只剩下了 1100 万。腾讯的 QQ 最初就是模仿 ICQ，原名叫 OICQ，后因为与 ICQ 的商标争议改名为 QQ。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网活化石 ICQ 将于 2024年6月26日起停止服务]]></title>
-        <id>https://www.appinn.com/?p=48552</id>
-        <link href="https://www.appinn.com/icq-ends-service-in-20240626/"/>
-        <updated>2024-05-25T03:28:31.000Z</updated>
-        <summary type="html"><![CDATA[ICQ 是一款诞生于 27 年前（1996年11月15日）的即时通信软件，模仿者众多。最初由以色列公司 Mirabilis 于 1996 年开发，于 1998 年被 AOL 收购，随后于 2010 年]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧几里得太空望远镜发现了数十颗流浪行星]]></title>
-        <id>https://www.solidot.org/story?sid=78266</id>
-        <link href="https://www.solidot.org/story?sid=78266"/>
-        <updated>2024-05-24T15:52:28.000Z</updated>
-        <summary type="html"><![CDATA[欧洲航天局（ESA）的欧几里得望远镜于去年 7 月 1 日发射，以古希腊数学家欧几里得的名字命名，它的轨道位置是日地之间的拉格朗日 L2 点，距离地球 160 万公里。它的任务是测绘宇宙中暗物质的大尺度分布结构，并确认暗能量的性质。望远镜的口径为 1.2 米，它主要通过近红外光波长观测宇宙。天文学家利用望远镜在猎户座星云发现了数十颗流浪行星，也就是它们没有母星。首批科学结果仅仅来自于 24 小时的观测。它在可见光下观测了 1100 万个天体，在红外线下观测了 500 万个天体。它发现的流浪行星年龄仅为 300 万年，在宇宙尺度上非常年轻，其大小至少为木星的 4 倍。望远镜是通过它们发射出的热量将其识别的，它们会一直流浪，除非被附近的恒星捕获。天文学家以前也发现过流浪行星，但规模没有这次这么大。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国生产了太多的太阳能电力导致电价变负]]></title>
-        <id>https://www.solidot.org/story?sid=78265</id>
-        <link href="https://www.solidot.org/story?sid=78265"/>
-        <updated>2024-05-24T15:40:19.000Z</updated>
-        <summary type="html"><![CDATA[在德国晴朗的天意味着太阳能盈利的下降，因为德国太阳能供过于求，在太阳能发电的高峰期间只能降价出售。过去 10 天，德国太阳能生产商不得不降价 87%。在发电的高峰期太阳能的价格甚至变成了负值。但消费者无法受益这一情况，因为太阳能发电的高峰期恰是居民用电的低谷。德国太阳能价格崩溃是因为它的装机容量超过了需求，2023 年底德国太阳能装机容量达到了 81.7 GW，而需求只有 52.2 GW。分析师表示，盈利能力受限可能会限制德国太阳能的扩张。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 安全研究员认为企业没必要用假的钓鱼邮件训练员工]]></title>
-        <id>https://www.solidot.org/story?sid=78264</id>
-        <link href="https://www.solidot.org/story?sid=78264"/>
-        <updated>2024-05-24T14:36:02.000Z</updated>
-        <summary type="html"><![CDATA[Google 安全经理 Matt Linton 通过官方安全博客发表博文，认为企业没必要用假的钓鱼邮件去训练员工，因为钓鱼邮件测试并不会增加员工抵抗钓鱼邮件的能力。为了满足美国政府的安全合规要求，企业会向员工发送模拟的钓鱼邮件，如果员工上当他们将需要参加安全方面的学习。以 Google 为例，如果员工点击了模拟钓鱼邮件，他们会被告知未通过测试，需要参加安全培训。Linton 指出，没有证据表明此类测试能减少钓鱼邮件的成功率。
-2021 年的一项为期 15 个月的研究结论认为，钓鱼测试不会让员工对钓鱼邮件更有抵抗力。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
