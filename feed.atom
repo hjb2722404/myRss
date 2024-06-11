@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-06-10T02:31:16.855Z</updated>
+    <updated>2024-06-11T02:30:21.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[大气二氧化碳水平比以往任何时候更快上升]]></title>
+        <id>https://www.solidot.org/story?sid=78397</id>
+        <link href="https://www.solidot.org/story?sid=78397"/>
+        <updated>2024-06-10T16:27:54.000Z</updated>
+        <summary type="html"><![CDATA[NOAA 表示，大气二氧化碳水平比以往任何时候更快上升，而过去一年是有记录以来最热的一年，海洋平均温度最高的一年，世界各地经历了一波又一波的热浪、干旱、洪灾、火灾和风暴。 NOAA 的 Mauna Loa Atmospheric Baseline Observatory 记录到 5 月的大气二氧化碳水平达到了 426.9 ppm，比 2023 年 5 月增加 2.9 ppm，而去年全年的二氧化碳平均水平是 419.3 ppm，比工业革命前高出 50%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Container Queries]]></title>
+        <id>https://css-tricks.com/?p=378111</id>
+        <link href="https://css-tricks.com/css-container-queries/"/>
+        <updated>2024-06-10T16:12:50.000Z</updated>
+        <summary type="html"><![CDATA[The main idea of CSS Container Queries is to register an element as a “container” and apply styles to other elements when the container element meets certain conditions. 
+CSS Container Queries originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型没有幻觉，它只是喜欢胡说八道]]></title>
+        <id>https://www.solidot.org/story?sid=78396</id>
+        <link href="https://www.solidot.org/story?sid=78396"/>
+        <updated>2024-06-10T16:00:44.000Z</updated>
+        <summary type="html"><![CDATA[大模型如 OpenAI 的 Chatgpt 彻底改变了 AI 与人类互动的方式，它能生成类似人类写作的流畅文本。尽管其能力令人影响深刻，但大模型也以其不准确性著称，它犯下的错误被称为 AI 幻觉。根据发表在《Ethics and Information Technology》上的一篇论文《ChatGPT is bullshit》，格拉斯哥大学 Michael Townsen Hicks 等人认为，这种不准确性应该被称为胡说八道。大模型是旨在生成类似人类文本的复杂程序，其实现方法是通过分析大量语料使用统计技术按顺序预测下一个特定单词的可能性。它们能对提示生成连贯且上下文恰当的响应。人类大脑有着丰富的目标和行为，大模型与之不同，它只有单一的目标，即生成与人类语言极为相似的文本。这也意味着它们的主要功能是复制人类语言和写作的模式和结构，不是理解或传递事实信息。AI 幻觉这一形容词暗示大模型有理解和传达真实的意图，但实际上它并没有。AI 不在乎正确性，只在乎内容是否能说服人或符合特定叙述。它们只是在胡说八道。如果生成的信息是正确的，那只是巧合罢了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聊聊Top Layer顶层特性的隐患与实践]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=11213</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/06/web-top-layer/"/>
+        <updated>2024-06-10T16:00:18.000Z</updated>
+        <summary type="html"><![CDATA[最近尝试在Dialog对话框组件中大肆使用顶层特性，以便减少z-index这类层级的判断，结果发现事情并没有预想的那样顺利，顶层特性也是有隐患的，好在有低成本的解决方法。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux nftables 漏洞正被活跃利用]]></title>
+        <id>https://www.solidot.org/story?sid=78395</id>
+        <link href="https://www.solidot.org/story?sid=78395"/>
+        <updated>2024-06-10T15:32:51.000Z</updated>
+        <summary type="html"><![CDATA[安全公司 CrowdStrike 报告，今年早些时候发现的 Linux nftables 漏洞正被活跃利用。该漏洞编号  CVE-2024-1086，是在 2024 年 1 月 31 日披露的，危险评分 7.8/10，属于本地提权漏洞，绝大部分 Linux 发行版已经修复。发现该漏洞的安全研究人员于 3 月 26 日在 GitHub 上公布了 POC，从 4 月中旬开始对该漏洞的利用在加速。利用 POC 需要非特权用户空间功能能访问 nf_tables，而 Debian 和 Ubuntu 等发行版默认启用了访问。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing WebP Tools 🔥]]></title>
+        <id>https://catonmat.net/announcing-webp-tools</id>
+        <link href="https://catonmat.net/announcing-webp-tools"/>
+        <updated>2024-06-10T13:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Team Browserling keeps shipping! 🚢
+We just added WebP Tools to our Online Tools collection. 🔥
+Here are the tools we added:
+Create a Transparent WebP
+Remove WebP Background
+Add WebP Background
+Add WebP Border
+Change WebP Color
+Remove Color from WebP
+Change WebP Quality
+Convert WebP to Grayscale
+Pixelate WebP
+Blur WebP
+Sharpen WebP
+Crop WebP
+Rotate WebP
+Resize WebP
+Duplicate WebP
+Next, we're adding paid plans to these tools. 🤑
+See you all then! 👋]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 年德国欧洲杯 订阅日历分享：支持苹果、安卓、Outlook 日历订阅]]></title>
+        <id>https://www.appinn.com/?p=48680</id>
+        <link href="https://www.appinn.com/uefa-euro-2024-germany-calendar/"/>
+        <updated>2024-06-10T08:59:20.000Z</updated>
+        <summary type="html"><![CDATA[2024 年德国欧洲杯在这个周末就要来了，顺手分享一个来自 fixtur.es 的订阅日历服务，可以非常方便的将赛事日程显示在手机日历中。@Appinn fixtur.es 是什么 fixtur.es]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cobalt – 开源在线视频下载工具，支持 B 站、Pinterest、Tiktok、VK、YouTube、Instagram、Reddit 等[Web]]]></title>
+        <id>https://www.appinn.com/?p=48675</id>
+        <link href="https://www.appinn.com/cobalt/"/>
+        <updated>2024-06-10T05:37:09.000Z</updated>
+        <summary type="html"><![CDATA[cobalt 是一款开源的现在视频下载工具，支持 B 站、Pinterest、Tiktok、VK、YouTube、Instagram、Reddit 等主流平台，并且可单独下载视频或音频，还支持 API]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荷兰警方考虑在毒品实验室突搜中使用机器狗]]></title>
         <id>https://www.solidot.org/story?sid=78394</id>
@@ -801,81 +901,6 @@ Next week we'll add even more tools. See you then!]]></summary>
         <link href="https://www.solidot.org/story?sid=78327"/>
         <updated>2024-06-01T15:23:07.000Z</updated>
         <summary type="html"><![CDATA[日本亿万富翁前泽友作取消了首次私人环月球之旅。2018 年 9 月，前泽友作和马斯克(Elon Musk)在 SpaceX 火箭工厂联合宣布了重型火箭 Starship 的首次商业绕月飞行任务 dearMoon。该项目被认为预计将在 2023 年底发射，但由于优先度大幅下降，dearMoon 的发射日期可能要延后到 2030 年代，前泽友作因此决定直接取消而不是继续等下去。Starship 开发滞后，它直到 2023 年 4 月才进行首次发射，而要执行 dearMoon 任务它要先完成一系列的安全测试。NASA 在 2021 年选择 Starship 作为 Artemis 登月项目的着陆器。SpaceX 目前对于  Starship 火箭有两大优先任务：投入运营发射 Starlink 卫星，以及 NASA 的 Artemis 相关的技术发展。与此同时，前泽友作个人资产也大幅缩水，他在马斯克的 X/Twitter 平台上还在今年被后者取消了关注。双方最终决定了分手。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客从日本加密货币交易所窃取了价值逾 3 亿美元的比特币]]></title>
-        <id>https://www.solidot.org/story?sid=78326</id>
-        <link href="https://www.solidot.org/story?sid=78326"/>
-        <updated>2024-06-01T14:24:44.000Z</updated>
-        <summary type="html"><![CDATA[日本加密货币交易所 DMM Bitcoin 周五证实黑客从其钱包窃取了 4,502.9 个比特币，价值 3.05 亿美元。按币值计算为历史上第八大加密货币盗窃案。DMM Bitcoin 称在监测到比特币从其钱包未经授权转移出去后它已经采取措施阻止了比特币进一步流失。为确保安全它限制了部分服务。DMM Bitcoin 称客户的比特币存款将会得到完全的保障，它会用公司资金购买等量比特币。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing Paid Plans for JSON Tools 🤑]]></title>
-        <id>https://catonmat.net/paid-plans-for-json-tools</id>
-        <link href="https://catonmat.net/paid-plans-for-json-tools"/>
-        <updated>2024-06-01T12:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Team Browserling keeps shipping! 🚢
-Last month we launched paid plans for Fractal Tools and today we're launching paid plans for our next most popular tool category – JSON Tools. JSON tools are used by 30,000 people every month and they let you prettify and minify JSON objects, flatten JSON arrays, stringify JSON values, analyze JSON data structures, convert JSON to XML, YAML, CSV, TSV, and properties files, and much more.
-Next, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.
-From technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.
-You can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.
-See you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费开源的视频格式转换软件 HandBrake 1.8.0 发布]]></title>
-        <id>https://www.appinn.com/?p=48622</id>
-        <link href="https://www.appinn.com/handbrake-1-8-0/"/>
-        <updated>2024-06-01T04:37:00.000Z</updated>
-        <summary type="html"><![CDATA[HandBrake 是一款免费、开源的视频格式转换软件，它可以将各种视频格式转换为常见的编码格式，如 MP4、MKV 等，以便在不同设备上播放。最近更新了 1.8.0 版本，新增允许在 MP4 容器中]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“智能”抗生素能选择性的杀死致命耐药病菌]]></title>
-        <id>https://www.solidot.org/story?sid=78325</id>
-        <link href="https://www.solidot.org/story?sid=78325"/>
-        <updated>2024-05-31T16:26:10.000Z</updated>
-        <summary type="html"><![CDATA[被称为革兰氏阴性菌的病原体能迅速对抗生素产生耐药性，现有的少数治疗药物虽然能杀死它但也会破坏有益的肠道细菌。根据发表在《自然》期刊上的一项研究，科学家开发出一种抗生素能选择性的杀死革兰氏阴性菌，同时不会破坏肠道微生物群。研究人员瞄准了已知能抑制 Lol system 的化合物，Lol system 是革兰氏阴性菌独有的一组蛋白质，此类化合物能抑制蛋白质但无法杀死细菌。研究人员调整化合物制造出被称为 lolamicin 的新化合物，根据细菌之间的 Lol 蛋白质差异选择性的杀死致病菌而不会伤害非致病菌。实验室小鼠研究验证了其有效性，结果还显示 lolamicin 不会显著改变肠道微生物群。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kdenlive 24.05.0 释出]]></title>
-        <id>https://www.solidot.org/story?sid=78324</id>
-        <link href="https://www.solidot.org/story?sid=78324"/>
-        <updated>2024-05-31T15:42:09.000Z</updated>
-        <summary type="html"><![CDATA[非线性视频编辑器项目 Kdenlive 宣布释出最新的 24.05.0。新版本的特性包括：为一组视频片段加入特效的 Group Effects，以多种画面比例渲染视频，使用 SeamlessM4T 自动翻译字幕；增强了稳定性，大幅改进了性能，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 位大模型或能解决 AI 的能源需求问题]]></title>
-        <id>https://www.solidot.org/story?sid=78323</id>
-        <link href="https://www.solidot.org/story?sid=78323"/>
-        <updated>2024-05-31T15:29:29.000Z</updated>
-        <summary type="html"><![CDATA[大模型正变得越来越强大，但对计算和电力的需求也越来越大。大模型如果要变得廉价、快速而且环保，它们需要大幅缩小规模，以便于能在类似手机的设备上本地运行。研究人员正致力于寻找方法实现这一目标。类似所有神经网络，大模型是通过修改人工神经元之间的连接强度进行训练，连接强度以数学参数的形式储存。通过减少参数的精度研究人员能压缩网络，这一过程被称为量化，参数的位数能从 16 位减少到 8 或 4 位，研究人员正致力于将其推向极限——以 1 位精度储存参数。有两种压缩网络的通用方法，其一是训练后量化(PTQ)，其二是量化感知训练(QAT)，研究人员更青睐前者。哈工大的车万翔称，PTQ 相对于 QAT 的优点是不需要收集训练数据，不需要重新训练，训练过程更稳定。QAT 的优点则是模型可能更精确，因为量化从一开始就内置在模型中。去年微软亚洲研究院的研究团队创造了第一个 1 位 PTQ 大模型 BBitNet 1.58b，每个参数占大约 1.5 比特内存，有 30 亿参数的 BitNet 在各种语言任务中的表现和相同参数规模的全精度 LLaMA 模型一样出色，但速度是 2.71 倍，用的 GPU 内存少 72%，GPU 能耗低 94%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查显示大众并不常用 ChatGPT 等 AI 产品]]></title>
-        <id>https://www.solidot.org/story?sid=78322</id>
-        <link href="https://www.solidot.org/story?sid=78322"/>
-        <updated>2024-05-31T14:41:00.000Z</updated>
-        <summary type="html"><![CDATA[路透研究院和牛津大学的研究人员调查了阿根廷、丹麦、法国、日本、英国和美国六国的 12,000 人，发现普通大众并不常用 ChatGPT 等热门 AI 产品，18-24 岁的年轻人是例外。研究旨在衡量普通大众对过去两年火热无比的生成式 AI 的看法，结果显示：多数人预测生成式 AI 未来五年会对社会产生重大影响，新闻、媒体和科学领域受影响最大；多数人认为生成式 AI 将改善自己的生活；关于生成式 AI 对社会的影响多数人普遍悲观。虽然多数人都听说过生成式 AI，但有 20%-30% 的人对此一无所知；ChatGPT 是使用率最高的生成式 AI 产品，比 Google Gemini 和 Microsoft Copilot 高出 2-3 倍；18-24 岁人群中有 56% 至少用过 ChatGPT 一次，55 岁及以上人群中这一比例为 16%；大部分人将生成式 AI 用于获取信息、创建媒体如文本、图像、音频和视频，有 5% 的人将其用于获取最新信息。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
