@@ -12,6 +12,31 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=47093",
+          "author": "青小蛙",
+          "description": "BetterDisplay 2 是一款专为 Mac 平台设计的专业级屏幕自定义调整工具，可通过 DDC 调整内建 / 外接显示器的各项基本参数，并提供虚拟屏、串流、画中画等丰富的高级功能，支持大多数现",
+          "link": "https://www.appinn.com/betterdisplay-2/",
+          "publishedOn": "2024-06-13T12:20:02.000Z",
+          "wordCount": 2612,
+          "title": "618 大促：BetterDisplay 2 限时 7 折，专业级屏幕自定义调整工具[macOS]",
+          "enclosure": {
+            "url": "https://www.appinn.com/wp-content/uploads/2023/12/ezgif.com-gif-to-mp4-21.mp4",
+            "length": "367435",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/12/Appinn-feature-images-2023-12-01T152213.940.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=48702",
+          "author": "青小蛙",
+          "description": "KineStop 是一款通过传感器识别车辆运动，进而在屏幕上提示用户，以达到防止晕车的功能。目前只需要 Android 7.0，即开机用。与前几天 iOS 18 新功能「车辆运动提示」几乎一模一样。@",
+          "link": "https://www.appinn.com/kinestop/",
+          "publishedOn": "2024-06-13T06:22:37.000Z",
+          "wordCount": 2694,
+          "title": "KineStop 晕车援助：iOS 18 新功能「车辆运动提示」早已在 Android 实现，今天就能用",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-13T132915.953.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48698",
           "author": "青小蛙",
           "description": "TextToSpeech 是一款简单易用的 Windows 工具，它可以帮你朗读任意选中的文本，并且可以快速保存为音频文件。@Appinn 来自发现频道，开发者 @Pancake 自荐：https:/",
@@ -157,16 +182,6 @@
           "wordCount": 3764,
           "title": "CSS Container Queries",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378111"
-        },
-        {
-          "id": "https://css-tricks.com/?p=375815",
-          "author": "Geoff Graham",
-          "description": "A comprehensive guide covering nine types of lengths that CSS uses to size elements in terms of dimensions, space, time, and even sound.\nCSS Length Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-length-units/",
-          "publishedOn": "2024-06-03T19:22:02.000Z",
-          "wordCount": 6866,
-          "title": "CSS Length Units",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/375815"
         }
       ]
     },
@@ -209,6 +224,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78426",
+          "author": null,
+          "description": "YouTube 正在测试直接将广告植入到视频流中，加大广告屏蔽工具拦截广告的难度。目前 YouTube 的广告植入是在客户端执行的，JavaScript 脚本和视频播放器在用户设备上的加载和显示广告。视频流和广告是分开的，播放器被编程暂停内容在指定点播放广告。绝大多数广告屏蔽工具是通过屏蔽在视频流中植入广告的 JavaScript 脚本去实现 YouTube 广告屏蔽。而服务器端广告植入是在内容传递给观看者之前将广告直接集成到视频流中，因此用户收到的视频流内置了广告。",
+          "link": "https://www.solidot.org/story?sid=78426",
+          "publishedOn": "2024-06-13T15:57:54.000Z",
+          "wordCount": 168,
+          "title": "YouTube 测试服务器端的广告植入",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78425",
+          "author": null,
+          "description": "荷兰和意大利科学家发现，父亲或许对婴儿肠道微生物组成也有重要贡献。胎儿胃肠道是无菌的，婴儿的身体在出生时和出生后不久就有了微生物定植。婴儿肠道菌株中大约有一半可以追溯到母亲的肠道。这让研究人员推测，其他与婴儿有密切接触的人可能会对其余部分作出贡献，提供与良好健康相关的微生物菌株的稳定来源。研究人员表示，由于剖腹产新生儿现在约占全球新生儿的 1/4，因此应该更加关注在这些婴儿体内创造健康的肠道微生物群。在最新的研究中，他们比较了 73 名婴儿的粪便微生物群，其中 21 名是剖腹产，52 名是顺产。他们纵向收集了一年多的样本，并将婴儿的微生物群与父母的微生物群进行了比较。研究人员发现，在 3 周、3 个月和 12 个月大的婴儿身上发现的许多菌株都来自父亲，而不是母亲。",
+          "link": "https://www.solidot.org/story?sid=78425",
+          "publishedOn": "2024-06-13T15:31:58.000Z",
+          "wordCount": 168,
+          "title": "父亲也能影响新生儿的微生物群",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78424",
+          "author": null,
+          "description": "曾就职于微软云安全团队的安全专家 Andrew Harris 声称，公司无视了他反复警告的安全漏洞，将商业利益置于客户安全之上。他报告的安全漏洞在 SolarWinds 攻击中被俄罗斯黑客利用，入侵了美国多个机构。而微软则坚称它优先考虑客户的安全。Andrew Harris 是在 2016 年报告了漏洞，漏洞存在于名为 Active Directory Federation Services 的微软产品中，黑客可利用该漏洞绕过安全防御访问敏感云数据。他被告知修复该漏洞会危及数十亿美元的政府合同和公司的竞争优势。",
+          "link": "https://www.solidot.org/story?sid=78424",
+          "publishedOn": "2024-06-13T14:57:53.000Z",
+          "wordCount": 170,
+          "title": "微软告密者称公司将商业利益置于安全之上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78423",
+          "author": null,
+          "description": "科学家发现，随着地球在最近一个冰河时代结束后的变暖，人类的持续狩猎阻止了长毛犀牛进入合适的栖息地。由澳大利亚阿德莱德大学和丹麦哥本哈根大学科学家领导的一个国际团队，使用计算机建模揭示了长毛犀牛灭绝之谜。研究报告发表在 PNAS 期刊上。研究表明，从 30000 年前开始，在温度变化与人类低水平但持续的狩猎共同作用下，导致长毛犀牛栖息地向南收缩。在最近的一个冰河时代结束时，长毛犀牛被困在孤立且环境迅速恶化的栖息地中。随着地球解冻和气温升高，长毛犀牛种群无法在欧亚大陆北部开辟的重要新栖息地定居。种群出现了不稳定和崩溃，最终灭绝。",
+          "link": "https://www.solidot.org/story?sid=78423",
+          "publishedOn": "2024-06-13T09:33:48.000Z",
+          "wordCount": 161,
+          "title": "气温变化和人类狩猎导致了长毛犀牛的灭绝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78422",
+          "author": null,
+          "description": "Adobe 宣布它更新了服务条款，澄清不会使用客户的作品训练 AI。此前它发送给 Creative Cloud Suite 用户的服务条款更新引发了广泛争议，该条款声称它可以使用机器学习用客户的内容训练去改进其产品和服务，以及用户体验。Adob​​e 数字媒体总裁 David Wadhwani 表示，新服务条款将于 6 月 18 日推出，澄清对此前条款的解读。他说，Adobe 从未用客户的内容训练生成式 AI，从未拥有客户作品的所有权，除了法律所允许的它不会访问客户的内容。",
+          "link": "https://www.solidot.org/story?sid=78422",
+          "publishedOn": "2024-06-13T09:20:38.000Z",
+          "wordCount": 181,
+          "title": "Adobe 澄清它不会使用客户的作品训练 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78421",
+          "author": null,
+          "description": "Google Chromium 官方博客宣布，为了更快的向用户推送新 AI 功能，ChromeOS 将使用 Android Linux 内核和 Android 框架作为其基础构成部分。ChromeOS 已经与 Android 深度整合，Android 应用能运行在 ChromeOS 上，而蓝牙协议栈从 ChromeOS 122 起就统一了。Google 声称此举有助于加速 AI 创新步伐。搜索巨人正将一切押注在 AI 上。",
+          "link": "https://www.solidot.org/story?sid=78421",
+          "publishedOn": "2024-06-13T08:52:11.000Z",
+          "wordCount": 192,
+          "title": "ChromeOS 将基于 Android 构建",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78420",
+          "author": null,
+          "description": "世界最大的无人驾驶汽车试验正在武汉繁忙的街道上进行。一个由 500 辆出租车组成的车队由电脑导航，在街头穿梭，通常没有安全驾驶员作为后备。运营这些出租车的百度上个月表示，将在武汉再增加 1000 辆所谓的机器人出租车。在中国，已经有至少 16 座城市允许公司在公共道路上测试无人驾驶汽车，至少有 19 家中国汽车制造商及其供应商正竞相在该领域建立全球领导地位。没有哪个国家在采取如此激进的行动。汽车咨询公司 JD Power 的调查发现，中国司机比美国人更愿意相信电脑能引导他们的汽车。6 月 4 日北京授权九家中国汽车制造商——包括蔚来、比亚迪和上汽——开始测试先进的辅助驾驶系统。至少在最初阶段，测试将在限制区域进行，而不是在公共道路上。中国汽车工程学会预测，到 2030 年，在中国销售的汽车中，20% 将是完全无人驾驶汽车，另外 70% 将采用先进的辅助驾驶技术。",
+          "link": "https://www.solidot.org/story?sid=78420",
+          "publishedOn": "2024-06-13T08:02:17.000Z",
+          "wordCount": 175,
+          "title": "中国展开规模庞大的无人驾驶试验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78419",
+          "author": null,
+          "description": "比尔盖茨支持的核电公司 TerraPower 周一在怀俄明州凯默勒破土动工建造其首座商业反应堆。它将是美国首座使用液态钠冷却而不是水冷却的商业核反应堆。凯默勒是燃煤 Naughton 发电厂的所在地，该发电厂将于 2026 年停止使用燃煤，十年后停止燃烧天然气。TerraPower 项目将用一个 345 兆瓦的反应堆取代它，TerraPower 反应堆将开创性地使用许多以前未在商业上部署过的技术。其中包括需要最少换料的反应堆设计、液态钠冷却以及熔盐蓄热系统，该系统将为发电厂提供更好地与可再生能源整合必需的灵活性。盖茨担任该公司董事会主席。",
+          "link": "https://www.solidot.org/story?sid=78419",
+          "publishedOn": "2024-06-13T07:13:51.000Z",
+          "wordCount": 166,
+          "title": "盖茨的核电公司开始动工建造首座反应堆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78418",
+          "author": null,
+          "description": "欧盟周三表示，将对从中国出口到欧盟国家的电动汽车征收最高 38% 的额外关税，欧盟领导人称这是为了保护该地区的制造商免受不公平竞争的影响。美国一个月前将中国电动汽车的关税提高到 100%。欧盟和美国的行动也反映了欧美传统汽车制造商所面临的挑战，这些挑战来自新兴的中国公司，后者专注于电动汽车，其成本基础比西方竞争对手低得多。但与美国汽车制造商不同的是，欧洲的几家汽车制造商与中国市场有着紧密联系，它们在中国生产的汽车也将被征收更高的关税。他们批评欧盟将关税从 10% 上调的举措，担心会引发中国的报复，以及整个市场的价格上涨和对电池动力汽车的需求下降。加征关税将于 7 月 4 日生效。",
+          "link": "https://www.solidot.org/story?sid=78418",
+          "publishedOn": "2024-06-13T05:02:05.000Z",
+          "wordCount": 173,
+          "title": "欧盟对中国电动汽车征收最高 38% 的关税",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78417",
+          "author": null,
+          "description": "根据发表在《Research Ethics》上的一篇基于采访的报道，一所中国顶尖大学的研究人员承认，“我别无选择只能犯下研究不端行为。”采访者是香港大学的社会学家 Zhang Xinqu 和犯罪学者 Wang Peng。他们的数十份匿名采访记录显示中国研究人员为保住自己的工作，感到被迫或被鼓励犯下科学不端行为。压力被认为最终来自于中国打造全球知名大学的计划。其他中国研究人员认为该发现对中国的计划描绘了一幅过于消极的画面。科技部下属的中国科学技术信息研究所负责学术诚信的 Zheng Wenwen 表示，样本量太小，无法得出可靠的结论。",
+          "link": "https://www.solidot.org/story?sid=78417",
+          "publishedOn": "2024-06-12T16:03:12.000Z",
+          "wordCount": 165,
+          "title": "中国研究员称他们别无选择只能从事科学不端",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78416",
           "author": null,
@@ -847,126 +962,6 @@
           "publishedOn": "2024-06-04T14:59:27.000Z",
           "wordCount": 164,
           "title": "男性避孕凝胶研究取得进展",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78352",
-          "author": null,
-          "description": "沃尔玛高管对流行减肥药如 Ozempic 和 Zepbound 可能减少食品销售发出警告。Ozempic 和 Zepbound 被称为  GLP-1 药物，是专为糖尿病研发的，但被发现有强大的减肥功效，因此被广泛用作减肥药服用。GLP-1 药物在 2023 年的销售额超过了 190 亿美元。摩根士丹利报告预测，此类抑制食欲的药物将导致美国到 2035 年卡路里消费量下降 1.5%-2.5%，烘焙、糖果和苏打水等甜食消费量下降 5%。它预测到 2035 年美国十分之一人口将服用 GLP-1 药物，到 2030 年全球减肥市场规模可能超过千亿美元。摩根士丹利称，逾六成服用减肥药的美国消费者表示减少了糖果、冰淇淋和烘焙食品等甜食摄入，很多人表示已大幅或完全停止食用此类产品。",
-          "link": "https://www.solidot.org/story?sid=78352",
-          "publishedOn": "2024-06-04T11:30:53.000Z",
-          "wordCount": 180,
-          "title": "减肥药有助于减少垃圾食品销售",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78351",
-          "author": null,
-          "description": "中国二氧化碳排放量在 2024 年 3 月下降了 3%，终结了自 2022 年 12 月新冠清零政策结束经济重新开放之后碳排放大幅增长的趋势。这也可能意味着中国二氧化碳排放在 2023 年达到了峰值。3 月的排放下降是因为太阳能和风能发电的增长以及建筑活动的下降。石油需求增长也停滞不前，意味着疫情结束后的反弹可能已经结束。如果可更新能源的增长维持在去年的高水平，那么中国二氧化碳排放量可能在 2023 年达到峰值。化石燃料在中国发电中的比例从的 2023 年 3 月的 67.4% 降至 2024 年 3 月的 63.6%；2024 年 3 月钢铁产量下降 8%，水泥产量下降 22%；电动汽车占汽车总数的十分之一，使得汽油需求增长减少约 3.5%。",
-          "link": "https://www.solidot.org/story?sid=78351",
-          "publishedOn": "2024-06-04T10:54:56.000Z",
-          "wordCount": 195,
-          "title": "中国二氧化碳排放可能在 2023 年达到峰值",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78350",
-          "author": null,
-          "description": "世嘉《如龙》系列动作冒险游戏成为最新的游改剧。真人版《如龙》将包含 6 集，前三集于 10 月 25 日上线  Amazon Prime video，后三集于 11 月 1 日上线。《如龙》电视剧《Like A Dragon: Yakuza》由 Take Masaharu 和 Takimoto Kengo 执导，参演《假面骑士》的 Takeuchi Ryoma 出演主角桐生一马。故事设定在 1995 年和 2005 年两个时期，讲述了桐生在《如龙》系列初代的故事。",
-          "link": "https://www.solidot.org/story?sid=78350",
-          "publishedOn": "2024-06-04T09:48:11.000Z",
-          "wordCount": 213,
-          "title": "真人版《如龙》电视剧将于 10 月 25 日上线 Amazon Prime video",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78349",
-          "author": null,
-          "description": "丰田、马自达、雅马哈发动机、本田、铃木 5 家企业的共计 38 款车型被发现在“型式指定”认证测试中存在违规行为。据日本国土交通省的消息，在 38 款车型中确认到了碰撞测试车辆的加工、安全·环境标准相关文件的篡改。其中丰田汽车违规涉及 170 万辆，将暂停丰田汽车东日本的宫城大衡工厂（宫城县大衡村）和岩手工厂（岩手县金崎町）的总计两条生产线。丰田违规分为 6 种。在 2015 年的雷克萨斯RX（已结束生产）发动机功率测试中，由于未能达到目标功率，为使结果符合标准而篡改了电脑控制的数值。会长丰田章男在 6 月 3 日召开的记者会上道歉：“向广大顾客、车迷以及所有的利益相关者表示诚挚的歉意”。",
-          "link": "https://www.solidot.org/story?sid=78349",
-          "publishedOn": "2024-06-04T08:52:14.000Z",
-          "wordCount": 182,
-          "title": "日本 5 家车企认证违规",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78348",
-          "author": null,
-          "description": "从在线数字上看，Valve 在 2007 年发布的游戏《团队要塞2》同时在线玩家仍然有 6-7 万，位居最热玩游戏榜第 8 位，对于一个基本停止支持的 17 年老游戏而言堪称奇迹。但正如 YouTube 主播 Zesty 所指出的，事实上真实玩家远没有这么多，绝大部分都是机器人账号。《团队要塞2》已经被机器人占领，这是人类玩家们集体对游戏进行差评轰炸的原因，他们希望此举能吸引 Valve 的注意，能促使它行动起来解决或缓解机器人问题。《团队要塞2》最近 30 天的评价已经降至了多半差评（好评率 30%）。《团队要塞2》有三类机器人账号，其中之一是作弊程序，数量大约有一千左右；交易程序，大约有两千左右；以及被称为 idling bots 的机器人程序，其数量多达数万。idling bots 的目的是收集游戏内掉落的虚拟物品，然后出售虚拟物品获利，而 Valve 能从每次虚拟物品交易中获取提成。",
-          "link": "https://www.solidot.org/story?sid=78348",
-          "publishedOn": "2024-06-04T07:48:54.000Z",
-          "wordCount": 187,
-          "title": "《团队要塞2》因机器人问题遭遇差评轰炸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78347",
-          "author": null,
-          "description": "纽约证券交易所周一表示，正在调查导致巴菲特(Warren Buffett)旗下伯克希尔哈撒韦(Berkshire Hathaway)等公司股价大幅波动的“技术故障”。有约 50 只股票受到影响，其中伯克希尔哈撒韦的 A 股股价从每股逾 62 万美元暴跌 99%，随后交易暂停。纽交所表示将取消错误交易。问题被认为与限制波动性的代码有关，可能导致了溢出。",
-          "link": "https://www.solidot.org/story?sid=78347",
-          "publishedOn": "2024-06-04T07:14:47.000Z",
-          "wordCount": 171,
-          "title": "纽交所调查伯克希尔哈撒韦公司股价突然暴跌 99%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78346",
-          "author": null,
-          "description": "企业据称正考虑用 AI 取代员工，但 CEO 之类的高管职位呢？高管们的核心任务主要是分析新市场和识别市场趋势，而这两项任务 AI 也很擅长。他们花费大量时间与员工沟通，而 AI 能将这一任务自动化。他们有时需要做出困难的决定，然而没有什么人能比 AI 更能保持冷静了。高管的薪水都很高，取代他们能省下一大笔钱。事实上有些公司已经在做了。网龙网络在 2022 年 ChatGPT 尚未流行时任命了一名虚拟 AI 助手唐钰担任公司轮值 CEO，半年后该公司的股价表现超过了恒生指数。CEO 们对于自己被取代的可能性似乎是听天由命。EdX 平台去年就此调查了数百名 CEO 和其他高管。47% 的高管认为大多数或所有 CEO 的职责应完全自动化或由 AI 取代。甚至高管都认为高管是多余的。",
-          "link": "https://www.solidot.org/story?sid=78346",
-          "publishedOn": "2024-06-04T06:10:03.000Z",
-          "wordCount": 191,
-          "title": "AI 能否替代公司 CEO？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78345",
-          "author": null,
-          "description": "利用 LaTeX 排版的文档处理软件 LyX 释出了六年来的首个重大更新版本 v2.4.0，上一个大版本 LyX 2.3.0 是在 2018 年发布的。LyX 支持导入和导出为 PDF、HTML、OpenDocument、Word 等格式。LyX 2.4.0 的新特性包括支持 EPUB 和 DocBook 5，改进表格样式，默认编码 Unicode (utf8)，等等。更多可浏览 LyX wiki。",
-          "link": "https://www.solidot.org/story?sid=78345",
-          "publishedOn": "2024-06-04T03:36:14.000Z",
-          "wordCount": 189,
-          "title": "LyX 2.4.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78344",
-          "author": null,
-          "description": "一项研究发现，童年时期的贫困经历会对大脑处理语言的方式产生持久的变化。即使在语言任务中有出色表现的成年人，童年贫困的人相比中等收入家庭的同年龄，他们的神经活动模式存在差异。研究凸显了早期社会经济条件对大脑功能的长期影响，表明与贫困相关的慢性压力可能会改变语言处理相关的神经通路。密歇根大学招募了 54 名参与者，其中 24 人来自贫困组，27 人来自中等收入组，对他们进行脑成像。参与者接受了一系列语言处理任务，同时使用功能性磁共振成像 (fMRI) 监测其大脑活动。结果显示，中等收入家庭成年人的左额下回 (IFG) 和其它与语言处理相关的区域活跃性更高。",
-          "link": "https://www.solidot.org/story?sid=78344",
-          "publishedOn": "2024-06-03T16:00:25.000Z",
-          "wordCount": 165,
-          "title": "童年贫困对大脑语言处理造成持久影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78343",
-          "author": null,
-          "description": "一项研究发现，良好的睡眠与更低的孤独感相关。研究涉及 2,297 名成年人，平均年龄 44 岁，其中 51% 为男性。参与者完成了在线睡眠健康问卷和孤独量表。结果显示，睡眠健康水平越高，总体孤独感、情感孤独感和社交孤独感就越低。这种相关性在年轻人中间最为明显。美国睡眠医学学会认为，睡眠对健康至关重要，建议成年人每晚应睡足七个小时。",
-          "link": "https://www.solidot.org/story?sid=78343",
-          "publishedOn": "2024-06-03T15:39:12.000Z",
-          "wordCount": 163,
-          "title": "研究发现良好睡眠与低孤独感相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78342",
-          "author": null,
-          "description": "Linux Mint 发行版项目表示，它的软件管理器将默认禁用未经验证的 Flatpak 软件包。软件管理器还会显示警告信息，让用户知道使用未经验证软件包的安全风险。Flatpak 是 Red Hat 主导开发的包格式，类似 Canonical 主导的包格式 Snap，它的 Ubuntu 发行版默认不再支持 Flatpak。Linux Mint 称，如果用户允许未经验证的 Flatpak 软件包，它的软件管理器会将这些软件包清晰标记出来。",
-          "link": "https://www.solidot.org/story?sid=78342",
-          "publishedOn": "2024-06-03T15:30:44.000Z",
-          "wordCount": 190,
-          "title": "Linux Mint 默认禁用未经验证的 Flatpak 软件包",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78341",
-          "author": null,
-          "description": "Firefox 130（目前稳定版是 v126)将为使用屏幕阅读器的视觉障碍者提供一项辅助功能：利用运行在本地的机器学习模型为图像自动生成文本描述。该功能将首先作为 PDF 编辑器的一部分提供，之后将扩大范围，作为常规浏览的一部分提供给使用屏幕阅读器的用户。它使用的机器学习模型是基于 Transformer，通过 COCO（Common Object In Context）或 Flickr30k 等数据集训练去识别图像中的不同对象，使用前需要一次性下载不到 200MB 大小的文件，虽然性能比不上知名大模型如 GPT-4 Turbo with Vision 或 LLaVA，但对于描述图像足够正确，对硬件需求也很低。",
-          "link": "https://www.solidot.org/story?sid=78341",
-          "publishedOn": "2024-06-03T15:02:33.000Z",
-          "wordCount": 183,
-          "title": "Firefox Nightly 引入实验性的本地图像替代文本生成功能",
           "imageUrl": null
         }
       ]
