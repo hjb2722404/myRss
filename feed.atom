@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-06-23T02:30:47.611Z</updated>
+    <updated>2024-06-24T02:31:05.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黑客披露窃取 Ticketmaster 数据细节]]></title>
+        <id>https://www.solidot.org/story?sid=78503</id>
+        <link href="https://www.solidot.org/story?sid=78503"/>
+        <updated>2024-06-23T16:20:58.000Z</updated>
+        <summary type="html"><![CDATA[提供数据存储和分析服务的云计算公司 Snowflake 的逾百客户账号被黑客入侵，其中包括了美国票务巨头 Ticketmaster 和银行 Santander。这次针对 Snowflake 的攻击可能影响了大约 165 个客户账户，目前还不清楚黑客是如何入侵的。一位自称来自名叫 ShinyHunters 的黑客团队成员声称，他们是先通过第三方承包商获得访问权限的，其中一家是 EPAM Systems。黑客利用 EPAM 员工系统找到的数据访问了部分 Snowflake 账户。EPAM 则随后否认它与此次攻击有关联。EPAM 的创始人是白俄罗斯移民，它的 5.5 万名员工中有三分之二来自乌克兰、白俄罗斯和俄罗斯，俄乌战争之后它关闭了俄罗斯业务，并将部分乌克兰员工转移到国外。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大部分仍然不认同 AI 制作的新闻]]></title>
+        <id>https://www.solidot.org/story?sid=78502</id>
+        <link href="https://www.solidot.org/story?sid=78502"/>
+        <updated>2024-06-23T15:42:47.000Z</updated>
+        <summary type="html"><![CDATA[牛津大学和路透新闻学研究机构发布了 2024 年数字新闻报告。调查发现：欧美之外国家网民通过 Facebook 获取新闻出现大幅下降；六大社交网络的新闻使用超过 10%，包括了 Facebook、YouTube、WhatsApp、TikTok（13%） 和 Twitter/X（10%），TikTok 的新闻使用比例首次超过了 X；年轻人越来越多的通过短视频获取新闻；TikTok 和 X 都存在假新闻的问题；对于完全用 AI 制作的新闻，只有 19% 的受访者认同，而 AI 帮助人类制作的新闻，认同比例提高到 36%；新闻订阅量几乎没有增长，20 个富裕国家只有 17% 的人表示去年为在线新闻付费；新闻播客是一大亮点，吸引了受过教育的年轻用户，但比例仍然较低。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM 前高管起诉年龄歧视]]></title>
+        <id>https://www.solidot.org/story?sid=78501</id>
+        <link href="https://www.solidot.org/story?sid=78501"/>
+        <updated>2024-06-23T14:54:54.000Z</updated>
+        <summary type="html"><![CDATA[IBM 再次被控年龄歧视，这一次原告方是前高管。五名前高管在 IBM 以及其分拆出来的 Kyndryl 公司共服务了逾 150 年，他们指控两家公司裁减年长员工的工作，同时为年轻员工创造类似的职位。五名员工包括了前 IBM 软件部门战略和规划总监 Michael Nolan；前 IBM 副总裁和 Events CEO Karla Bousquet；前业务自动化负责人 Jay Zeltzer；以及前客户体验副总裁 Teresa Cook。前 Services Account 经理 Randall Blanchard 起诉 Kyndryl，他此前曾在 IBM 工作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To QQMusic – 将歌单导入 QQ音乐[Windows]]]></title>
+        <id>https://www.appinn.com/?p=48792</id>
+        <link href="https://www.appinn.com/to-qqmusic/"/>
+        <updated>2024-06-23T08:18:08.000Z</updated>
+        <summary type="html"><![CDATA[To QQMusic 是一款 Windows 工具，主要用来将网易云音乐的歌单导入 QQ音乐。也支持通过 Tune My Music 导出的其他平台音乐歌单，导入 QQ音乐。@Appinn 来自发现频]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乌克兰用 AI 筛选地雷清理的优先地点]]></title>
+        <id>https://www.solidot.org/story?sid=78500</id>
+        <link href="https://www.solidot.org/story?sid=78500"/>
+        <updated>2024-06-22T16:26:12.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯入侵乌克兰之后在各地埋了大量地雷，清理这些地雷可能需要七百年的时间。乌克兰科学家正利用 AI 筛选出扫雷的优先地点，他们也承认部分地区可能会成为永久的“伤疤”。乌克兰使用的模型考虑了税收和财产所有权记录、农业地图、土壤肥力数据、军方和紧急服务部门记录的炸弹和炮弹落点、卫星图像中收集的信息以及对当地平民和军方的采访纪录，甚至还有气候变化模型和移动电话运营商的人口密度数据。AI 会权衡平民安全和潜在经济效益等因素，以确定特定地块的重要性和确保安全的紧迫性。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国可能在 2027 年建造世界最大粒子加速器]]></title>
+        <id>https://www.solidot.org/story?sid=78499</id>
+        <link href="https://www.solidot.org/story?sid=78499"/>
+        <updated>2024-06-22T14:33:18.000Z</updated>
+        <summary type="html"><![CDATA[中国希望三年内开始建造世界最大粒子加速器。100 公里长的 Circular Electron Positron Collider(CEPC)设计精确测量希格斯玻色子。CEPC 的提案将于明年递交给政府，可能会包含在下一个五年计划中。根据本月初公开的技术设计报告，如果赢得政府支持，加速器的建造将于 2027 年启动，预计花费十年时间，耗资 364 亿元人民币。而欧盟计划中的下一代加速器 Future Circular Collider(FCC)预计花费 170 亿欧元，其建造工作预计要到 2030 年代。CEPC 将以极高的能量对撞正反电子，产生数以百万计的希格斯玻色子，允许科学家比以往任何时候更仔细的研究这种赋予万物质量的粒子。由于地缘政治紧张局势，CEPC 面临的一大障碍是国际支持，今天中国很多大型物理设施中外国研究人员已经占到了三到五成。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[京东限制第三方比价工具]]></title>
+        <id>https://www.solidot.org/story?sid=78498</id>
+        <link href="https://www.solidot.org/story?sid=78498"/>
+        <updated>2024-06-22T10:45:12.000Z</updated>
+        <summary type="html"><![CDATA[京东向安装了第三方比价工具的用户发去短信，称“监测到用户账号可能被恶意使用”，如果用户安装第三方比价工具或插件，立即卸载程序并修改密码。在用户完成这些操作之前京东将限制用户访问。目前除了这条短信没有任何证据表明第三方比价工具在恶意操作用户账号，因此此举被认为旨在限制第三方比价工具，是增加其收入的一种措施。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄罗斯方块字体 – Tetris Font]]></title>
         <id>https://www.appinn.com/?p=48789</id>
@@ -14,6 +84,16 @@
         <summary type="html"><![CDATA[Tetris Font 是一款比较特殊的英文字体，它使用动态的俄罗斯方块模式，来组成字体。并且可导出 GIF 动画，或者 SVG 图片，但无法直接当做字体文件使用。@Appinn 叫字体又不是字体，就]]></summary>
         <author>
             <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok 证实它向美国政府提议提供一个关闭开关]]></title>
+        <id>https://www.solidot.org/story?sid=78497</id>
+        <link href="https://www.solidot.org/story?sid=78497"/>
+        <updated>2024-06-22T09:00:12.000Z</updated>
+        <summary type="html"><![CDATA[TikTok 证实它向美国政府提议提供一个关闭开关（kill switch），以解决议员对于数据保护和国家安全问题的担忧。TikTok 是在 2022 年向美国政府提出这一提议，当时美国正着手制定法律，要求 TikTok 母公司字节跳动将该短视频应用剥离出售否则将在美国禁止该应用。TikTok 称它将遵守一系列规则，如果违反规定，美国政府可以触发“关闭开关”。TikTok 律师称，它提出这些之后美国政府停止了任何实质性谈判，并无视了进一步谈判的请求。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -855,126 +935,6 @@ PS. Use coupon code WEBPLING for 30% off.]]></summary>
         <link href="https://www.solidot.org/story?sid=78434"/>
         <updated>2024-06-14T14:42:43.000Z</updated>
         <summary type="html"><![CDATA[6 月 13 日达摩院公布 2024 阿里巴巴全球数学竞赛决赛入围名单，17 岁的姜萍击败众多世界名校的选手，以全球第 12 名的成绩爆冷入围。这一消息迅速登上热搜。之所以引发人们广泛关注，是因为她来自江苏涟水中等专业学校服装设计专业的一名中专生，还是入围名单上前三十名里的唯一女生。排在姜萍前面的、第 1 名到第 11 名的选手，分别来自北京大学、英国剑桥大学、清华大学，以及美国的 4 所名校：麻省理工学院、加州理工学院、普林斯顿大学、卡耐基梅隆大学。阿里巴巴全球数学竞赛不设报名条件，向全球所有数学爱好者开放。预选赛为开卷考试，允许查阅、参考线上/线下资料，允许使用编程软件答题。但决赛为闭卷考试，不允许参考任何资料或者使用科学计算软件，考题范围涉及到更高等的数学如代数与数论、几何与拓扑、分析与方程、组合与概率、应用与计算数学，决赛时间是 6 月 22 日。这次进入决赛的选手除了姜萍中专外，还有多名初中生和高中生。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被解雇的 IT 员工删除了雇主的虚拟服务器]]></title>
-        <id>https://www.solidot.org/story?sid=78433</id>
-        <link href="https://www.solidot.org/story?sid=78433"/>
-        <updated>2024-06-14T14:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Kandula Nagaraju 于 2021 年 11 月到 2022 年 10 月之间在新加坡 NCS 集团工作，所在团队管理的 QA 系统用于发布前测试新软件和程序。他由于工作表现不佳而被 NCS 终止合同，最后工作日是 2022 年 11 月 16 日。他对此感到困惑和生气，认为自己工作表现良好。由于在新加坡没有其它工作，他返回了印度。2023 年 2 月他找到了新工作重新回到了新加坡。他与 NCS 的前同事合租，使用 Wi-Fi 网络未经授权访问了 NCS 的系统。3 月 18 日和 19 日他使用脚本删除了 QA 系统中的 180 个虚拟服务器，而且是每次只删除一个服务器。次日 NCS 团队发现系统无法访问。NCS 表示虚拟服务器没有存储任何敏感信息，但这起事故给它造成了逾 67 万美元。Kandula Nagaraju 本周被判处两年零八个月监禁，他还面临一项指控，刑期可能会增加。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clearview AI 收集美国人脸部照片，现在所有美国人都可以得到它的股份]]></title>
-        <id>https://www.solidot.org/story?sid=78432</id>
-        <link href="https://www.solidot.org/story?sid=78432"/>
-        <updated>2024-06-14T09:25:15.000Z</updated>
-        <summary type="html"><![CDATA[美国脸部识别创业公司 Clearview AI 在集体诉讼中被控侵犯隐私，它同意达成和解，但和解费不是现金而是公司股份，其面部照片数据库中的每一个人都可以分享到该公司 23% 的股份。Clearview AI 从 Web 以及 Facebook、LinkedIn 和 Instagram 等社媒网站抓取了数十亿张照片，基本上涵盖了每一个美国人，它开发了一个面部识别应用，供警局、美国国土安全部和 FBI 使用。在其行为曝光之后，它在美国各地都遭到了诉讼，这些诉讼后来合并为集体诉讼，任何照片被收集的人都可以成为诉讼的一员。该公司目前估值 2.25 亿美元，23% 的股份价值约 5200 万美元，律师费不超过总金额的 39%——即相当于 2000 万美元。和解协议仍然需要获得法官的批准。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现热浪影响政客的语言复杂性]]></title>
-        <id>https://www.solidot.org/story?sid=78431</id>
-        <link href="https://www.solidot.org/story?sid=78431"/>
-        <updated>2024-06-14T08:42:28.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《iScience》期刊上的一项研究，热浪降低了政客的语言复杂性。气候变化对人类的福祉及表现有显著影响，越来越多的证据表明令人不适的温度对工作表现有负面影响。德国马普研究所和丹麦奥胡斯大学的研究人员调查了政客语言复杂性和高温之间的关联，他们分析了八个国家逾 700 万个议会演讲的语言复杂性，结合精确的每日气象信息。他们发现，高温的天气下语言复杂性降低了，但寒热的天气不会。高温对认知能力产生勒负面影响，老年政客的影响最为显著。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缺觉的影响无法弥补]]></title>
-        <id>https://www.solidot.org/story?sid=78430</id>
-        <link href="https://www.solidot.org/story?sid=78430"/>
-        <updated>2024-06-14T07:08:56.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《自然》期刊上的一项小鼠研究，被剥夺睡眠时，一个与长期记忆相关的关键大脑信号会减弱——这可能有助于解释为什么睡眠不足会破坏记忆的形成。之后的正常睡眠也不足以修复大脑信号。大脑中的神经元很少单独行动：它们是高度相互关联的，经常以一种有节奏或重复的模式一起放电。其中一种模式是锐波波纹，在这种模式中，一大群神经元以极端同步的方式放电，然后另一大群神经元也以同样的方式放电，以此类推，一个接一个地以特定的速度放电。这些涟漪发生在大脑区域海马体，这是记忆形成的关键。这种模式被认为是为了促进与大脑新皮层的交流，而大脑新皮层是储存长期记忆的地方。研究人员发现，被反复唤醒剥夺睡眠的小鼠与正常睡眠的小鼠相比，有相似甚至更高的锐波涟漪活动水平。但是涟漪的发射更弱，更没有组织，显示出先前发射模式的重复明显减少。在被剥夺睡眠的动物经过两天的恢复后，先前神经模式的重现有所反弹，但从未达到正常睡眠动物的水平。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何去除 Word 试卷中的答案，并导入手机进行刷题？]]></title>
-        <id>https://www.appinn.com/?p=48710</id>
-        <link href="https://www.appinn.com/creating-exam-papers-from-word/"/>
-        <updated>2024-06-14T06:53:45.000Z</updated>
-        <summary type="html"><![CDATA[今天遇到了这样的一个问题：有位同学要参加公司里的安全竞赛，手里有一套试题，就在想办法如何导入手机中，可以随时随地的刷题。 试卷： 最终的效果 最终实现了在微信小程序中进行刷题，效果是这样的： 如何实现]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[湿疹可能与摄入太多盐相关]]></title>
-        <id>https://www.solidot.org/story?sid=78429</id>
-        <link href="https://www.solidot.org/story?sid=78429"/>
-        <updated>2024-06-14T05:58:32.000Z</updated>
-        <summary type="html"><![CDATA[全世界有 2 亿多人患有湿疹，湿疹会导致皮肤干燥、开裂和发痒。常见的诱因包括肥皂和洗涤剂中的刺激物，以及环境或食物中的过敏原。为了弄清楚盐是否会起作用，加州旧金山的研究人员检查了英国生物银行一项研究中的 215800 多名成年人的尿样数据，其中 10800 多名患有湿疹。研究人员使用每位参与者的尿样来估计他们 24 小时内的尿钠排泄量。饮食中大约 90% 的钠会通过尿液排出，这使得尿液成为衡量盐摄入量的一种相对可靠的方法。总体而言，参与者在 24 小时内平均从尿液中排出 3.01 克钠。成人建议的钠摄入量通常为每天 2.5 克左右，相当于 6 克或一茶匙盐。研究人员发现，参与者每多排出 1 克钠，被诊断为湿疹的几率就会上升 11%，患湿疹的风险同时也会增加 16%。这项相关性研究还需要更多数据支持。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅行者 1 号与地球的通信完全恢复]]></title>
-        <id>https://www.solidot.org/story?sid=78428</id>
-        <link href="https://www.solidot.org/story?sid=78428"/>
-        <updated>2024-06-14T05:47:23.000Z</updated>
-        <summary type="html"><![CDATA[NASA 宣布，去年 11 月发生故障的旅行者 1 号完全恢复了科学数据的发送。旅行者 1 号距离地球约 240 亿公里，自去年 11 月 14 日起一直向地球传输无法解读的信息。四月初工程师判断是内存损坏导致了问题。发生故障的存储器组位于飞船的飞行数据系统(Flight Data System 或 FDS)。4 月 18 日 NASA 团队将补丁发送到 FDS 内存中的新位置，4 月 20 日他们收到了回复，确认修复有效。5 月 17 日，NASA 团队发送指令让旅行者 1 号恢复发送科学数据，从发送到收到回复需要约 2 天时间。旅行者 1 号科学仪器中的电浆波系统(Plasma Wave System)和磁力计发回了科学数据，另外两台宇宙射线系统和低能带电粒子仪还需要额外的工作。现在四台仪器都恢复了正常通信。NASA 表示工程师还在做一些小的调整以消除问题的影响，包括重新同步三台机载计算机的计时系统，维护数字磁带记录器等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软再次推迟 Windows Recall 的发布]]></title>
-        <id>https://www.solidot.org/story?sid=78427</id>
-        <link href="https://www.solidot.org/story?sid=78427"/>
-        <updated>2024-06-14T05:18:04.000Z</updated>
-        <summary type="html"><![CDATA[因安全和隐私争议，微软再次推迟 Windows Recall 的发布。微软原计划是随 6 月 18 日 Copilot+ PC 的发布提供 Recall 的公开预览版，现在它改变了计划，而是首先在数周后向 Windows Insider 测试者提供 Recall 的预览版。Recall 会每 5 秒截取活动窗口的快照，然后用 AI 分析和提取快照信息加入到本地的 SQLite 数据库中。Recall 快照会将用户的一举一动，其中包括敏感信息如密码保存下来，被认为存在巨大的安全隐患。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[618 大促：7 折抢购 Mac 划词增强工具 PopClip]]></title>
-        <id>https://www.appinn.com/?p=46245</id>
-        <link href="https://www.appinn.com/popclip/"/>
-        <updated>2024-06-14T02:40:27.000Z</updated>
-        <summary type="html"><![CDATA[PopClip 是一款 Mac 划词操作增强工具，可选装翻译搜索、格式转换等丰富扩展，联动多种软件执行创建提醒事项、添加到笔记等快捷操作，有效提升工作效率。 618 大促进行中，点击小众软件专属优惠链]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube 测试服务器端的广告植入]]></title>
-        <id>https://www.solidot.org/story?sid=78426</id>
-        <link href="https://www.solidot.org/story?sid=78426"/>
-        <updated>2024-06-13T15:57:54.000Z</updated>
-        <summary type="html"><![CDATA[YouTube 正在测试直接将广告植入到视频流中，加大广告屏蔽工具拦截广告的难度。目前 YouTube 的广告植入是在客户端执行的，JavaScript 脚本和视频播放器在用户设备上的加载和显示广告。视频流和广告是分开的，播放器被编程暂停内容在指定点播放广告。绝大多数广告屏蔽工具是通过屏蔽在视频流中植入广告的 JavaScript 脚本去实现 YouTube 广告屏蔽。而服务器端广告植入是在内容传递给观看者之前将广告直接集成到视频流中，因此用户收到的视频流内置了广告。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[父亲也能影响新生儿的微生物群]]></title>
-        <id>https://www.solidot.org/story?sid=78425</id>
-        <link href="https://www.solidot.org/story?sid=78425"/>
-        <updated>2024-06-13T15:31:58.000Z</updated>
-        <summary type="html"><![CDATA[荷兰和意大利科学家发现，父亲或许对婴儿肠道微生物组成也有重要贡献。胎儿胃肠道是无菌的，婴儿的身体在出生时和出生后不久就有了微生物定植。婴儿肠道菌株中大约有一半可以追溯到母亲的肠道。这让研究人员推测，其他与婴儿有密切接触的人可能会对其余部分作出贡献，提供与良好健康相关的微生物菌株的稳定来源。研究人员表示，由于剖腹产新生儿现在约占全球新生儿的 1/4，因此应该更加关注在这些婴儿体内创造健康的肠道微生物群。在最新的研究中，他们比较了 73 名婴儿的粪便微生物群，其中 21 名是剖腹产，52 名是顺产。他们纵向收集了一年多的样本，并将婴儿的微生物群与父母的微生物群进行了比较。研究人员发现，在 3 周、3 个月和 12 个月大的婴儿身上发现的许多菌株都来自父亲，而不是母亲。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软告密者称公司将商业利益置于安全之上]]></title>
-        <id>https://www.solidot.org/story?sid=78424</id>
-        <link href="https://www.solidot.org/story?sid=78424"/>
-        <updated>2024-06-13T14:57:53.000Z</updated>
-        <summary type="html"><![CDATA[曾就职于微软云安全团队的安全专家 Andrew Harris 声称，公司无视了他反复警告的安全漏洞，将商业利益置于客户安全之上。他报告的安全漏洞在 SolarWinds 攻击中被俄罗斯黑客利用，入侵了美国多个机构。而微软则坚称它优先考虑客户的安全。Andrew Harris 是在 2016 年报告了漏洞，漏洞存在于名为 Active Directory Federation Services 的微软产品中，黑客可利用该漏洞绕过安全防御访问敏感云数据。他被告知修复该漏洞会危及数十亿美元的政府合同和公司的竞争优势。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
