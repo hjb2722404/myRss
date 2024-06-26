@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=48829",
+          "author": "青小蛙",
+          "description": "最近拿到了一款非常有意思的产品，来自国内消费电子品牌几硕的 FlipGo Pro，这是一款 16寸、双屏、折叠、便携显示器，展开后能够得到一块 23.5 寸的超大显示器。@Appinn FlipGo",
+          "link": "https://www.appinn.com/flipgo-pro-16/",
+          "publishedOn": "2024-06-25T08:59:27.000Z",
+          "wordCount": null,
+          "title": "酷产品：几硕 FlipGo Pro 16 寸双屏、折叠、便携显示器开箱&体验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.appinn.com/?p=48824",
+          "author": "青小蛙",
+          "description": "reveal-md 是一个基于 Reveal.js 的开源项目，它可以将 Markdown 文档转换为精美的幻灯片 PPT（基于网页），只需要在 .md 文档分页的地方添加 --- 即可。@Appin",
+          "link": "https://www.appinn.com/reveal-md/",
+          "publishedOn": "2024-06-25T03:26:42.000Z",
+          "wordCount": 2909,
+          "title": "reveal-md – 将 Markdown 文档转换为精美的演示文稿",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-25T110620.494.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=48813",
           "author": "青小蛙",
           "description": "《黑神话：悟空》、《艾尔登法环：黄金树幽影》、暴雪「全家桶」回归……下半年，我们将迎来一场豪华的游戏大餐！ 想要畅玩游戏，除了要准备好给力的硬件设备，系统优化当然也不能落下！ BoosterX 正是一",
@@ -130,16 +150,6 @@
           "wordCount": 2572,
           "title": "已运营 8 年的内网穿透服务商「网云穿」最后一波买一送一，限时活动，史上最低！",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/04/Appinn-feature-images-2024-03-31T152057.266.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=48739",
-          "author": "青小蛙",
-          "description": "WinSize 是一款窗口布局工具，就是快速把窗口放到你想要的位置，并调整为你想要的大小。@稻米鼠 作品（文章结尾有 4.0 的视频介绍）。@Appinn 这软件最早大概可以追溯到 2015 年，一晃",
-          "link": "https://www.appinn.com/winsize-5-0/",
-          "publishedOn": "2024-06-16T04:09:41.000Z",
-          "wordCount": 2646,
-          "title": "WinSize 5.0 – 让窗口更听话一点点｜Windows 窗口布局工具",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/06/winsize5.jpg"
         }
       ]
     },
@@ -258,6 +268,66 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78521",
+          "author": null,
+          "description": "在一次供应链攻击中，安装在多达 3.6 万个 WordPress 网站上的插件被植入了后门。受影响的扩展包括：Social Warfare（安装量三万），BLAZE Retail Widget（10）、Wrapper Link Elementor（一千）、Contact Form 7 Multi-Step Addon（七百）、Simply Show Hooks（四千），这些扩展都托管在官网 WordPress.org 上，过去一周未知攻击者在更新中加入了恶意功能，能自动创建管理权限账号，允许攻击者完全控制相关网站。安全公司  Wordfence 的研究人员称，恶意后门的植入最早发生在 6 月 21 日。任何安装了这些插件的人都应该立即卸载，并检查是否有最近创建的管理员账号。",
+          "link": "https://www.solidot.org/story?sid=78521",
+          "publishedOn": "2024-06-25T09:56:08.000Z",
+          "wordCount": 184,
+          "title": "WordPress 插件被植入后门",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78520",
+          "author": null,
+          "description": "微软悄悄从其支持网站删除了在 Windows 11 上切换到本地账号的说明。时间是在 2024 年 6 月 12 日至 6 月 17 日之间。软件巨人一直在推动 Windows 用户使用 Microsoft Account 账号登陆机器，引用的理由包括增强安全性和跨设备同步等等。使用本地账号登陆的选项仍然存在，但微软一直在引导用户远离本地账号。",
+          "link": "https://www.solidot.org/story?sid=78520",
+          "publishedOn": "2024-06-25T09:09:03.000Z",
+          "wordCount": 186,
+          "title": "微软删除在 Windows 11 上切换本地账号的指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78519",
+          "author": null,
+          "description": "在最近一次与办公室员工的视频会议上，京东创始人刘强东在鼓舞士气的讲话中加入了一句警告：业绩不好，又从来不拼博的人，这家公司永远不能容忍。刘强东对与会者说：“我们也有其他同事，我们也有员工，他其实更多在享受生活，生活第一，事业第二，工作第二，不想拼我能理解，每个人选择都是不一样的……但我只能说，你不是我们的兄弟，你是路人……我们不应该在一起共事。”中国工程师从未享受过类似硅谷同行的福利，马云曾说 996 是一种福报。随着中国科技大厂面临增长放缓、竞争加剧的新现实，它们的市值自 2021 年以来蒸发了大约 1.3 万美元，高管们开始重新回到节俭的创业时代。为了提高效率，包括阿里巴巴和腾讯在内的科技巨头自 2021 年以来裁员数万人。腾讯高管承认，在招聘时他们增加了“低成本的人才”，意味着更年轻的员工。年长的员工面临更严峻的形势。年龄 35 岁以上员工面临更高的裁员风险以及更艰难的就业市场。",
+          "link": "https://www.solidot.org/story?sid=78519",
+          "publishedOn": "2024-06-25T08:30:27.000Z",
+          "wordCount": 167,
+          "title": "科技大厂将员工推向极限",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78518",
+          "author": null,
+          "description": "印尼政府周一披露，其国家数据中心 Pusat Data Nasional (PDN)于 6 月 20 日遭到入侵，被安装了勒索软件，攻击者索要 800 万美元的赎金。PDN 被加密至少影响到了 210 家机构，导致移民数字服务关闭，影响签证、护照和居留许可的处理速度，机场为此排起长度。印尼政府表示情况已得到控制，自动的护照扫描仪已恢复上线。感染 PDN 的勒索软件被认为是 LockBit 3.0 的一个变种。印尼尚未表态是否决定支付赎金。",
+          "link": "https://www.solidot.org/story?sid=78518",
+          "publishedOn": "2024-06-25T07:06:42.000Z",
+          "wordCount": 174,
+          "title": "印尼国家数据中心遭勒索软件攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78517",
+          "author": null,
+          "description": "法国大学成为了 AI 创新的温床，吸引着寻求下一个技术突破的投资者。法国 AI 创业公司至今共吸引了 23 亿美元的投资，超过了英国和德国。而法国 AI 创业公司的创始人中有 57% 来自于法国巴黎综合理工学院。这所成立于 1794 年法国大革命期间的大学有 230 年历史，是 Mistral 创始人兼 CEO Arthur Mensch 的母校，也是 LVMH CEO Bernard Arnault 的母校。院长 Dominique Rossin 表示，该校的教学方法是将 STEM 教育与人文学科和军事训练相结合，培养出受过全面教育的创业家。学校致力于推动学生走出舒适区，鼓励他们尝试新科目，探索科学的新领域，",
+          "link": "https://www.solidot.org/story?sid=78517",
+          "publishedOn": "2024-06-25T06:06:04.000Z",
+          "wordCount": 194,
+          "title": "巴黎综合理工学院院长称人文是法国 AI 热的核心",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78516",
+          "author": null,
+          "description": "WikiLeaks 创始人 Julian Assange 同意与美国司法部达成认罪协议以换取自由。Assange 因与美国前陆军情报分析员 Chelsea Manning 合作泄露美国军事机密和外交密电而被控 18 项罪名，其刑期最高可以达到 175 年。根据认罪协议，美国司法部寻求判处 Assange 62 个月的刑期——即 Assange 在伦敦监狱服刑的时间，认罪协议记入了在伦敦的服刑时间，这将允许 Assange 返回他的祖国澳大利亚。认罪协议仍然需要得到美国法官的批准。",
+          "link": "https://www.solidot.org/story?sid=78516",
+          "publishedOn": "2024-06-25T05:21:46.000Z",
+          "wordCount": 183,
+          "title": "Julian Assange 与美国达成认罪协议换取自由",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78515",
           "author": null,
@@ -1007,26 +1077,6 @@
           "wordCount": 161,
           "title": "FAA 调查波音空客使用伪造文件出售的钛合金",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78440",
-          "author": null,
-          "description": "勒索软件攻击者正迅速利用最近公开的 PHP 9.8/10 高危漏洞。编号为 CVE-2024-4577 的漏洞是 6 月 6 日公开的，危险评分 9.8/10，非常容易利用。它源自 PHP 将 Unicode 字符转换为 ASCII 字符的方式存在错误，Windows 内置功能 Best Fit 允许攻击者使用参数注入将用户输入转换为字符，将恶意命令传递给主 PHP 应用。CVE-2024-4577 只影响运行在 CGI 模式的 PHP，但如果 php.exe 和 php-cgi.exe 等可执行文件位于 Web 服务器可访问目录，该漏洞仍然能利用。安全公司 Censys 报告，对互联网的扫描显示有 1,000 台服务器感染了名为  TellYouThePass 的勒索软件，这些服务器主要位于中国，其文件显示为 .locked 扩展名，表明它们已被勒索软件加密，勒索者要求支付大约 6,500 美元的赎金。",
-          "link": "https://www.solidot.org/story?sid=78440",
-          "publishedOn": "2024-06-15T15:35:12.000Z",
-          "wordCount": 211,
-          "title": "勒索软件攻击者迅速利用最近曝光的 PHP 9.8/10 漏洞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78439",
-          "author": null,
-          "description": "地震发生前会出现各种异常情况，此类异常被称为前兆，但不同地震和不同地理区域的前兆千变万化，难以识别其模式，以及能根据模式对即将到来的灾难发出预警。随着研究人员利用日益先进的卫星技术分析每一场大地震，前兆的模式正逐渐显现。德黑兰大学的 Mehdi Akhoondzadeh 教授分析了 2023 年 2 月 6 日发生在土耳其和叙利亚边境的两次地震前后的卫星数据。这些卫星包括中国地震电磁卫星 CSES-01 和欧洲航天局的三颗  Swarm 卫星。通过卫星数据，他在地震前 12-19 天观察到了地震区域的地表温度异常，在地震前 5-10 天观察到了大气参数异常。卫星数据包括了对水蒸气、甲烷、臭氧和一氧化碳的测量。他还在地震前 1-5 天发现了电离层异常。",
-          "link": "https://www.solidot.org/story?sid=78439",
-          "publishedOn": "2024-06-15T14:33:06.000Z",
-          "wordCount": 183,
-          "title": "卫星数据揭示了 2023 年土耳其大地震前的异常情况",
-          "imageUrl": null
         }
       ]
     },
@@ -1097,6 +1147,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/100k-clicks-from-google",
+          "author": null,
+          "description": "We've smashed through 100k SERP clicks at Online Tools! 💪\nSmash too and see you next time!",
+          "link": "https://catonmat.net/100k-clicks-from-google",
+          "publishedOn": "2024-06-25T17:25:00.000Z",
+          "wordCount": 291,
+          "title": "100k Clicks from Google 🤩",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/garmin-browserling-customer",
           "author": null,
           "description": "TLDR: Success!\nIt's another small step for a ling but one giant leap for ling kind. See you next time!",
@@ -1114,16 +1174,6 @@
           "publishedOn": "2024-06-18T10:13:00.000Z",
           "wordCount": 369,
           "title": "We've Added 20 New WebP Tools",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/announcing-webp-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nWe just added WebP Tools to our Online Tools collection.\nWebP Tools allow you to edit WebP images.\nFrom technical perspective, we used AOL, floppy, and disco dance to make them.\nHere are the tools we added:\nCreate Transparent WebP\nFill Transparent WebP\nAdd WebP Background\nRemove WebP Background\nChange WebP Colors\nRemove WebP Colors\nInvert WebP Colors\nCreate Opaque WebP\nChange WebP Opacity\nChange WebP Quality\nConvert WebP to Grayscale\nConvert Text to WebP\nAdd Text to WebP\nPixelate WebP\nBlur WebP\nSharpen WebP\nCrop WebP\nRotate WebP\nResize WebP\nDuplicate WebP\nNext, we're adding paid plans to these tools. See you all then!\nPS. Use coupon code WEBPLING for 30% off.",
-          "link": "https://catonmat.net/announcing-webp-tools",
-          "publishedOn": "2024-06-15T18:15:00.000Z",
-          "wordCount": 393,
-          "title": "Announcing WebP Tools",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
