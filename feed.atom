@@ -2,10 +2,177 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-06-26T02:29:29.485Z</updated>
+    <updated>2024-06-27T02:29:58.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[韩国 ISP 用恶意程序感染 Webhard 用户]]></title>
+        <id>https://www.solidot.org/story?sid=78537</id>
+        <link href="https://www.solidot.org/story?sid=78537"/>
+        <updated>2024-06-26T16:38:05.000Z</updated>
+        <summary type="html"><![CDATA[韩国 ISP KT（韩国电信）被发现用恶意程序感染用户遏制其网络中的 Torrent 流量。在韩国文件共享仍然很受欢迎，但流行的是专用的付费 Webhard（Web Hard Drive）服务。KT 是韩国最大的 ISP 之一，有逾 1600 万用户。它早在数年前就被发现干扰 Webhard 使用的 Grid System。警方对 KT 数据中心的突击搜查行动发现，有数十台设备专门被用于限制 Webhard。在最新调查中，KT 被发现主动在运行 Webhard 的计算机上安装恶意程序，干扰 Webhard 的文件传输。有大约 60 万 KT 用户受到影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poppin’ In]]></title>
+        <id>https://css-tricks.com/?p=378637</id>
+        <link href="https://css-tricks.com/poppin-in/"/>
+        <updated>2024-06-26T16:37:05.000Z</updated>
+        <summary type="html"><![CDATA[Oh, hey there! It’s been a hot minute, hasn’t it? Thought I’d pop in and say hello while we get to know the Popover API a bit.
+Poppin’ In originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火箭残骸被拍到坠落在村庄附近]]></title>
+        <id>https://www.solidot.org/story?sid=78536</id>
+        <link href="https://www.solidot.org/story?sid=78536"/>
+        <updated>2024-06-26T16:11:11.000Z</updated>
+        <summary type="html"><![CDATA[微博等平台传播的多则视频显示了一枚火箭的残骸坠落在村庄附近。残骸释放出了剧毒的黄色烟雾。目前没有人员伤亡或财产损失的报告。该火箭残骸被认为来自 6 月 22 日成功发射中法天文卫星的长征二号丙运载火箭。长征二号丙火箭第一级推进剂使用了剧毒的四氧化二氮。四氧化二氮自 1950 年代初被苏联和美国用作火箭推进剂的首选氧化剂，但由于剧毒它的使用量越来越少。使用四氧化二氮的火箭正逐渐退役。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram 称它只有 30 名工程师，安全专家对此表示担忧]]></title>
+        <id>https://www.solidot.org/story?sid=78535</id>
+        <link href="https://www.solidot.org/story?sid=78535"/>
+        <updated>2024-06-26T15:29:41.000Z</updated>
+        <summary type="html"><![CDATA[Telegram 创始人 Pavel Durov 接受保守派媒体人 Tucker Carlson 采访时表示，他是公司唯一的产品经理，而整个公司只雇佣了大约 30 名工程师。安全专家表示，虽然 Durov 是在吹嘘他总部位于阿联酋的公司“超级高效”，但这对用户而言则是一个危险信号。约翰霍普金斯大学加密专家 Matthew Green 称，没有端到端加密，无数易受攻击的目标，以及位于阿联酋的服务器，一切仿佛是安全噩梦。Telegram 默认没有采用端对端加密，用户的非私密聊天、群组和机器人的信息都是明文储存在该公司的服务器上。Telegram 使用了私有的加密算法，很多人都对其加密的质量表示了怀疑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 将用分页而不是滚动显示搜索结果]]></title>
+        <id>https://www.solidot.org/story?sid=78534</id>
+        <link href="https://www.solidot.org/story?sid=78534"/>
+        <updated>2024-06-26T15:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Google 搜索在展示搜索结果时将停止用持续滚动加载，重新回到旧的分页显示。Google 是在 2021 年对移动版和 2022 年对桌面版引入了持续滚动展示结果的方式。从今天开始，Google 搜索的桌面版本将关闭持续滚动。搜索巨人的发言人表示，此举旨在提高搜索结果的加载速度，表示无限的单页持续滚动没有显著提高用户满意度。移动版本将在未来几个月采用分页显示。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 对中国地区停止 API 服务]]></title>
+        <id>https://www.solidot.org/story?sid=78533</id>
+        <link href="https://www.solidot.org/story?sid=78533"/>
+        <updated>2024-06-26T10:29:03.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 通过官方推送邮件告知 API 用户，自 7 月 9 日起，将阻止来自未列入支持国家和地区名单的区域的 API 流量，如要继续使用 OpenAI 的服务，需要在受支持的区域进行访问。目前共有 188 个国家和地区支持访问 API 服务，如果在支持区域以外访问或提供访问 OpenAI API 服务，可能将导致账户被封禁。中国不在支持区域内，这意味着 OpenAI 将会停止中国的 API 服务。OpenAI 此举被认为是基于法律合规等多种因素综合考量的结果。国产大模型厂商随后纷纷表示将提供迁移服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO 称近三分之一成年人缺乏锻炼]]></title>
+        <id>https://www.solidot.org/story?sid=78532</id>
+        <link href="https://www.solidot.org/story?sid=78532"/>
+        <updated>2024-06-26T10:21:54.000Z</updated>
+        <summary type="html"><![CDATA[WHO 称，发表在《 The Lancet Global Health journal》期刊上的新数据显示，2022 年全球 31% 人口近 18 亿成年人未达到建议的身体活动水平。从 2010 年到  2022 年，成年人缺乏身体活动的比例增加了约 5 个百分点。如果这一趋势持续下去，预计到 2030 年缺乏身体活动的比例将进一步升至 35%。WHO 建议成年人每周进行 150 分钟中等强度或 75 分钟高强度身体活动。缺乏身体活动会增加成年人患心脏病和中风等心血管疾病、2 型糖尿病、痴呆症以及乳腺癌和结肠癌等的风险。缺乏身体活动比例最高的是高收入的亚太地区（48%）和南亚（45%）。女性身体活动不足的比例为 34%，而男性为 29%。WHO 呼吁各国加强政策实施，使每个人有更多机会动起来。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[富裕国家的生育率创下历史新低]]></title>
+        <id>https://www.solidot.org/story?sid=78531</id>
+        <link href="https://www.solidot.org/story?sid=78531"/>
+        <updated>2024-06-26T09:50:22.000Z</updated>
+        <summary type="html"><![CDATA[OECD 的一份报告督促各国为低生育率的未来做准备。它的研究显示，自 1960 年以来，世界富裕国家的生育率下降了一半以上，创下历史新低。38 个工业化程度最高的国家每名妇女平均生育的子女数从 1960 年的 3.3 人降至 2022 年的 1.5 人。除以色列外，OECD 所有成员国生育率都远低于每名妇女生育 2.1 个孩子的更替水平——在更替水平上一国人口无需移民就能维持稳定。OECD 警告生育率下降将改变社会、社区和家庭的面貌，潜在对经济增长和繁荣产生巨大影响。报告称欧盟劳动人口下降将面临劳动力短缺。学生短缺也导致欧洲、日本和韩国的学校关闭数量上升。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网游上的纠纷变成线下谋杀]]></title>
+        <id>https://www.solidot.org/story?sid=78530</id>
+        <link href="https://www.solidot.org/story?sid=78530"/>
+        <updated>2024-06-26T08:40:08.000Z</updated>
+        <summary type="html"><![CDATA[美国一名新泽西男子上周飞往佛罗里达，用锤子袭击另一名玩家，网络游戏纠纷酿成了现实世界的谋杀企图。法庭纪录显示，20 岁的 Edward Kang 被控二级谋杀未遂和戴面具持械入室。他的受害者年龄与其相仿，两人从未在现实生活里见过面，但他们都是韩国网游 ArcheAge 的玩家，ArcheAge 的开发商于 4 月宣布将于 6 月 27 日关闭欧洲和北美的服务器，原因是玩家人数减少。Kang 是上周四从新泽西州 Newark 飞往佛罗里达州 Jacksonville，他告诉母亲说去见游戏里认识的朋友。当局没有披露他是如何得知受害者的住址的。到达佛罗里达之后，他坐 Uber 去了一家酒店，然后去五金店买了把锤子。他于周日凌晨 2 点前往受害者的家。其家门没有锁，与 Kang 对峙时受害者正走出卧室，Kang 用锤打他的头部，他大声呼救，继父到场制服了 Kang。受害者头部多处受伤但不危及生命。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自动朗读剪贴板中的文字｜Windows]]></title>
+        <id>https://www.appinn.com/?p=48871</id>
+        <link href="https://www.appinn.com/automatically-reads-text-from-the-clipboard/"/>
+        <updated>2024-06-26T08:28:53.000Z</updated>
+        <summary type="html"><![CDATA[开发者没有起名字，这是一款能够自动朗读剪贴板文字的 Windows 工具，运行之后会一直检测剪贴板内容，发现文字就开始朗读。@Appinn 来自发现频道的 @fenglingyu 同学推荐了自己的小工]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stability AI 获得新一轮投资]]></title>
+        <id>https://www.solidot.org/story?sid=78529</id>
+        <link href="https://www.solidot.org/story?sid=78529"/>
+        <updated>2024-06-26T08:03:48.000Z</updated>
+        <summary type="html"><![CDATA[过去半年深陷困境的生成式 AI 公司 Stability AI 获得了新一轮投资，稳定了局面，将加速其文本图像生成产品的开发。Stability AI 新一轮的投资者包括风险投资公司 Greycroft 和 Coatue Management，以及前 Facebook 总裁 Sean Parker 和特效公司 WETA Digital 前 CEO Prem Akkaraju，以及前 Google CEO Eric Sc​​hmidt 和知名投资人 Robert Nelsen。Sean Parker 将担任 Stability AI 的执行主席，Akkaraju 将担任 CEO。自创始人 Emad Mostaque 于 3 月离职后，Stability AI 一直没有任命新 CEO，原因是投资者对其财务状况感到不满，它的财务状况非常糟糕，甚至难以支付云服务账单。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing Paid Plans for WebP Tools 🤑]]></title>
+        <id>https://catonmat.net/paid-plans-for-webp-tools</id>
+        <link href="https://catonmat.net/paid-plans-for-webp-tools"/>
+        <updated>2024-06-26T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Team Browserling keeps shipping! 🚢
+Last month we launched paid plans for JSON Tools and today we're launching paid plans for our next most popular tool category – WebP Tools. WebP tools are used by x people every month and they let you y.
+Next, we're adding paid plans to all other online tools categories that we built and joining them into a single ultimate get things done website called OnlineTools.com, making it the top 100 website on the Internet.
+From technical standpoint, we used HTML templates, Google SEO, and a $5 Linode instance to launch the paid plans. Checkmate, front-end developers and devops engineers.
+You can still use all tools for free for a limited time but if you really like them, then you can get a subscription to support my team's work. See the pricing page for more information.
+See you next time!
+PS. Use coupon code WEBPLING for a 30% discount on these tools.]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国批准减肥药 Wegovy]]></title>
+        <id>https://www.solidot.org/story?sid=78528</id>
+        <link href="https://www.solidot.org/story?sid=78528"/>
+        <updated>2024-06-26T06:55:52.000Z</updated>
+        <summary type="html"><![CDATA[诺和诺德(Novo Nordisk)重磅减肥药 Wegovy 已获准在中国销售，打开了进入中国这个巨大市场的大门。过去 20 年里中国成年人的肥胖率翻了一番多。这家丹麦制药公司周二表示，Wegovy“已在中国被批准用于（超重和肥胖人群的）长期体重管理”。该公司没有透露该产品将于何时推出，也拒绝透露有关该药物定价以及将向中国供应多少的详细信息。统计数据显示，中国一半以上的人口超重，减肥药的市场巨大。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 正式发布 macOS 客户端，仅针对 M1 以上芯片机型。Windows 版本将在年内发布]]></title>
+        <id>https://www.appinn.com/?p=48866</id>
+        <link href="https://www.appinn.com/chatgpt-on-your-mac/"/>
+        <updated>2024-06-26T06:44:17.000Z</updated>
+        <summary type="html"><![CDATA[ChatGPT 的 macOS 客户端在不久前就泄漏了出来，通过一些各种方式可以使用。现在终于向所有用户开放下载，Plus 用户也可以登录使用。注意目前需要 macOS 14+ 以上系统，以及 App]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不是所有声称开源的 AI 模型是真的开源]]></title>
+        <id>https://www.solidot.org/story?sid=78527</id>
+        <link href="https://www.solidot.org/story?sid=78527"/>
+        <updated>2024-06-26T06:15:53.000Z</updated>
+        <summary type="html"><![CDATA[AI 研究人员表示，Meta 和微软等科技巨头称其 AI 模型是开源模型，但它们并没有披露模型底层技术的重要信息。荷兰 Radboud 大学语言科学家 Mark Dingemanse 表示，大公司正从宣称开源模型上受益，但与此同时试图尽可能少的披露信息。这种做法被称为“open-washing”。Dingemanse 指出，相比下资源更少的小型 AI 企业则表现更令人称赞。他和同事创建了一个最开放和最不开放模型排行榜。他们评估了 40 个声称开源或开放的大模型，根据代码和训练数据的可用性、文档以及模型易访问性等 14 个参数制定了排行榜。研究人员发现， Meta 的 Llama 以及 Google DeepMind 的 Gemma 虽然自称开源或开放，但实际上只是开放权重，外部研究人员可以访问和使用预训练模型，但无法检查或定制模型，也不知道模型如何针对特定任务进行微调。根据他们的排行榜，BigScience 的 BloomZ 是最开源开放的模型，其次是 Allen Institute for AI 的 OLMo，Mistral AI 的 Mistral 7B-Instruct。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSDN 克隆了大部分 GitHub 公开代码库]]></title>
+        <id>https://www.solidot.org/story?sid=78526</id>
+        <link href="https://www.solidot.org/story?sid=78526"/>
+        <updated>2024-06-26T05:20:44.000Z</updated>
+        <summary type="html"><![CDATA[CSDN 的代码托管平台 GitCode 被发现克隆/镜像了大部分 GitHub 公开的代码库，它甚至还克隆了每个代码库的星标——GitHub 上的一种关注和收藏机制。大部分代码库使用的开源许可证允许自由克隆或镜像，因此 CSDN 此举称不上非法，但被认为缺乏道德。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100k Clicks from Google 🤩]]></title>
         <id>https://catonmat.net/100k-clicks-from-google</id>
@@ -15,6 +182,46 @@
 Smash too and see you next time!]]></summary>
         <author>
             <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嫦娥六号返回器返回地面]]></title>
+        <id>https://www.solidot.org/story?sid=78525</id>
+        <link href="https://www.solidot.org/story?sid=78525"/>
+        <updated>2024-06-25T15:41:36.000Z</updated>
+        <summary type="html"><![CDATA[6 月 25 日 14 时 07 分，嫦娥六号返回器着陆于内蒙古四子王旗预定区域，标志着探月工程嫦娥六号任务取得圆满成功，实现世界首次月球背面采样返回。嫦娥六号探测器于 5 月 3 日在中国文昌航天发射场发射升空并进入地月转移轨道。探测器经过轨道修正、近月制动，顺利进入环月轨道飞行。此后探测器经历着陆器和上升器组合体、轨道器和返回器组合体的分离，在鹊桥二号中继星支持下，着陆器和上升器组合体实施环月降轨及动力下降，于 6 月 2 日精准着陆在月球背面南极-艾特肯盆地预选区域并开展采样工作。6 月 4 日，上升器点火起飞、精准入轨，于 6 日完成与轨道器和返回器组合体之间的交会对接及样品转移，此后按计划与轨道器和返回器组合体分离并受控落月。此后轨道器和返回器组合体经历了 13 天环月等待，此后在完成 2 次月地转移入射、1 次轨道修正后，返回器于 6 月 25 日与轨道器分离并携带月背样品重返地球。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极端野火更常见更暴力]]></title>
+        <id>https://www.solidot.org/story?sid=78524</id>
+        <link href="https://www.solidot.org/story?sid=78524"/>
+        <updated>2024-06-25T14:09:43.000Z</updated>
+        <summary type="html"><![CDATA[一项发表于《自然-生态与进化》的研究根据卫星数据分析发现，过去 20 年中，世界各地发生极端野火的频率增加了一倍多。研究结果提供了第一个确凿的证据，支持了许多科学家的怀疑——野火在以某种方式增加，而气候变化几乎可以肯定是导致其增加的一个因素。研究人员分析了全球卫星数据记录的野火活动，利用红外记录衡量了近 20 年来每天近 3100 万起野火事件的能量强度，并重点关注了大约 2900 起最极端的野火事件，最终计算出，2003 年至 2023 年，全球极端野火事件发生频率增加了 2.2 倍，每年强度排名前 20 的野火的平均强度增加了 2.3 倍。该研究还发现，过去 20 年间，野火夜间的能量强度比白天增加得更快，这与夜间温度上升带来火灾风险的证据一致。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软产品捆绑 Teams 被控违反欧盟反垄断法]]></title>
+        <id>https://www.solidot.org/story?sid=78523</id>
+        <link href="https://www.solidot.org/story?sid=78523"/>
+        <updated>2024-06-25T14:02:49.000Z</updated>
+        <summary type="html"><![CDATA[欧盟监管机构指控微软 Office 365 产品和 Microsoft 365 服务捆绑 Teams 应用违反了欧盟的反垄断法。这是 15 年来微软首次在欧盟被控违反反垄断规定，此前两起反垄断案与捆绑 Windows Media Player 和 Internet Explorer 有关。微软去年已将 Teams 从欧洲版的 Office 剥离，试图缓解欧盟监管机构的担忧。欧洲竞争政策主管 Margrethe Vestager 表示，微软将 Teams 与受欢迎的企业生产力套件捆绑，将使其比竞争对手拥有不正当的优势。如果获得确认，微软的行为将是非法的。微软表示正在与欧盟合作寻找解决方案。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox Nightly 引入实验性生成式 AI 功能]]></title>
+        <id>https://www.solidot.org/story?sid=78522</id>
+        <link href="https://www.solidot.org/story?sid=78522"/>
+        <updated>2024-06-25T13:51:26.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 宣布，它最新释出的 Firefox Nightly 版本引入了实验性的生成式 AI 功能，加入了 MS Edge 等主要竞争对手拥抱 AI 的行列。Firefox 的 AI 功能是可选使用的，将显示在浏览器的侧边栏，可用于摘要信息、简化语言和测试知识等任务。目前支持的 AI 包括了 ChatGPT、Google Gemini、HuggingChat 和 Le Chat Mistral，未来会加入更多 AI 服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -967,126 +1174,6 @@ Adobe 法务负责人表示会在法庭上为其辩护。]]></summary>
         <link href="https://www.solidot.org/story?sid=78451"/>
         <updated>2024-06-17T14:46:59.000Z</updated>
         <summary type="html"><![CDATA[友讯(D-Link)披露了两个漏洞，其中之一是 LAN 端任意文件读取，利用一个未经身份验证的路径遍历漏洞，同网络的攻击者可以读取任意系统文件；其二是同一网络未经身份验证的攻击者通过访问特定 URL 强制设备启用 telnet 服务，利用硬编码凭证登陆。这不是第一次友讯路由器发现硬编码后门。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT 行业显示了强劲增长势头]]></title>
-        <id>https://www.solidot.org/story?sid=78450</id>
-        <link href="https://www.solidot.org/story?sid=78450"/>
-        <updated>2024-06-17T12:13:18.000Z</updated>
-        <summary type="html"><![CDATA[向全球 IT 巨头供应半导体和数字产品的台湾 19 家主要企业的 5 月销售总额同比增长 17.7%。这是继 4 月增长 19.4% 之后再次实现两位数增长。其中最大芯片代工企业台积电(TSMC)的销售额增长 30.1%，最大代工企业鸿海的销售额增长 22.1%。与此同时，日本半导体铠侠（原东芝存储器）时隔 1 年零 8 个月解除减产。由于智能手机半导体需求低迷影响，铠侠从 2022 年 10 月开始减产。减产规模一度超过 30%。行情的改善推动了铠侠决定解除减产。该公司 2024 年 1~3 月的最终损益为盈利 103 亿日元，时隔 6 个季度实现盈利。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蓝屏死机亮相 Linux]]></title>
-        <id>https://www.solidot.org/story?sid=78449</id>
-        <link href="https://www.solidot.org/story?sid=78449"/>
-        <updated>2024-06-17T11:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Linux 6.10 引入了一个新的 DRM Panic 处理程序基础设施，以便于在致命错误（Panic）发生时显示相关信息。Linux 6.10 还在开发之中，最新版本是 rc4，扩展 DRM Panic 支持的工作还在进行之中。未来在运行 Linux 6.10+ 的平台上，如果驱动支持 DRM Panic，那么就可以通过 echo c > /proc/sysrq-trigger 测试 Linux 版本的“蓝屏死机（BSOD）”。 Red Hat 工程师 Javier Martinez Canillas 在 Mastodon 分享了一幅图像，展示了  Linux 版本的蓝屏死机是什么模样。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 恶意程序利用 Discord 发送 Emoji 进行控制]]></title>
-        <id>https://www.solidot.org/story?sid=78448</id>
-        <link href="https://www.solidot.org/story?sid=78448"/>
-        <updated>2024-06-17T08:06:50.000Z</updated>
-        <summary type="html"><![CDATA[安全公司 Volexity 发现一种新 Linux 恶意程序 Disgomoji，使用了一种新颖的方法向被感染设备发送指令——它使用 Discord 和 Emoji 作为指令控制平台。该恶意程序被认为与巴基斯坦黑客组织 UTA0137 有关，针对的是印度政府机构使用的 Linux 桌面操作系统 Boss，通过钓鱼邮件引诱印度政府工作人员打开运行。当 Disgomoji 执行时，恶意软件会从计算机中收集系统信息，包括 IP 地址、用户名、主机名、操作系统和当前工作目录，然后发送给攻击者。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实验测量地球自转对量子纠缠的影响]]></title>
-        <id>https://www.solidot.org/story?sid=78447</id>
-        <link href="https://www.solidot.org/story?sid=78447"/>
-        <updated>2024-06-17T06:59:51.000Z</updated>
-        <summary type="html"><![CDATA[奥地利维也纳大学的研究人员进行了一项开创性实验，测量了地球自转对量子纠缠的影响。在实际实验中，两个纠缠光子在巨大线圈上缠绕的 2 公里长的光纤内传播，实现了一个有效面积超过700平方米的干涉仪。针对地球自转，研究人员还设计了一个巧妙的方案：将光纤分成两个等长的线圈，并通过一个光学开关将它们连接起来。通过打开和关闭开关，可有效地根据需要取消旋转信号，并延长大型设备的稳定性。这种方式就像“欺骗”光，让它认为处于一个非旋转的宇宙中。利用这项实验，研究人员观察到了地球自转对最大纠缠双光子态的影响。这证实了爱因斯坦狭义相对论和量子力学中描述的旋转参考系和量子纠缠之间的相互作用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国众议院通过禁售大疆无人机的法案]]></title>
-        <id>https://www.solidot.org/story?sid=78446</id>
-        <link href="https://www.solidot.org/story?sid=78446"/>
-        <updated>2024-06-17T06:42:45.000Z</updated>
-        <summary type="html"><![CDATA[美国众议院周五通过了禁售大疆无人机的法案。深圳大疆控制着七成以上的无人机市场份额，其 6% 的股份控制在中国国企手中。提起禁售法案的纽约共和党众议员 Elise Stefanik 称，大疆对美国国家安全构成了不可接受的危险。禁售法案不会禁止在美国境内使用已购买的大疆无人机，只会禁止未来在美国销售大疆的无人机产品。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现中国股市波动与急诊室就诊量之间存在关联]]></title>
-        <id>https://www.solidot.org/story?sid=78445</id>
-        <link href="https://www.solidot.org/story?sid=78445"/>
-        <updated>2024-06-17T06:18:36.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《Nature Mental Health》期刊上的一项研究，新加坡国立大学、暨南大学和中山大学的研究人员分析了 2009 年 1 月 1 日到 2012 年 12 月 31 日之间北京三家大型医院的每日急诊室就诊记录和股市波动之间的关联性，发现股市变化会显著影响急诊就诊量。研究发现创业板指数每日市场收益的下跌与心脏病和精神疾病增加有关，而股市上涨则与酗酒增多有关。老年人和男性受影响最为显著。计算显示，每日市场收益下降 10 个百分点，急诊室服务相关的国家医疗费用增加约 3500 万元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小鼠实验发现出生前接触 DEHP 化合物会影响雄性激素水平]]></title>
-        <id>https://www.solidot.org/story?sid=78444</id>
-        <link href="https://www.solidot.org/story?sid=78444"/>
-        <updated>2024-06-17T05:35:51.000Z</updated>
-        <summary type="html"><![CDATA[人类男性的精子数量和质量在下降，增塑剂邻苯二甲酸二辛酯（DEHP）等常用化学物质被认为是促成因子之一，这种化合物广泛用于食品储存容器、药品和建筑材料。DEHP 的毒性在于它能模拟人体激素，对人体健康造成长期影响。英国医生和流行病学家 David Barker 提出了一个假说，胎儿在子宫内的九个月是人一生中最关键的时期之一，能塑造未来的健康轨迹。研究人员基于该假说探索了母亲的饮食如何影响后代的健康状况。他们将怀孕母鼠分成四组，一组为对照组，另外三组分别暴露于 DEHP、高脂肪以及同时含有两者的饮食中。然后对每窝幼崽进行跟踪，每窝平均有 6 只雄性和 6 只雌性幼崽。结果显示，同时含有 DEHP 和高脂肪的饮食对后代的影响最为严重。雄性小鼠产生的精子少而且睾丸激素水平较低。研究人员进一步分析发现它们的生殖器官有异常细胞，它们导致了性腺功能障碍。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[biliLive-tools – 自动化 B 站直播录屏.后工作流：弹幕转换、视频压制、上传 B 站[Win/Linux]]]></title>
-        <id>https://www.appinn.com/?p=48752</id>
-        <link href="https://www.appinn.com/bililive-tools/"/>
-        <updated>2024-06-17T05:25:54.000Z</updated>
-        <summary type="html"><![CDATA[biliLive-tools 是一款开源工具，用来自动化 B 站直播录屏后的工作流：弹幕转换、视频压制、上传 B 站，并通过 Webhook 整合了前工作流的直播录屏工具录播姬 与 blrec。@Ap]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[已运营 8 年的内网穿透服务商「网云穿」最后一波买一送一，限时活动，史上最低！]]></title>
-        <id>https://www.appinn.com/?p=48046</id>
-        <link href="https://www.appinn.com/xiaomy-24/"/>
-        <updated>2024-06-17T02:56:51.000Z</updated>
-        <summary type="html"><![CDATA[网云穿是一个老牌的内网穿透服务商，它可以实现远程访问、跨网访问、远程办公、远程桌面、游戏联机等功能，简单易用，不折腾。限时活动：最后一波买一送一，史上最低。@Appinn 另外，网云穿依旧提供终身免费]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Change Healthcare 遭遇勒索软件攻击所带来的安全启示]]></title>
-        <id>https://www.solidot.org/story?sid=78443</id>
-        <link href="https://www.solidot.org/story?sid=78443"/>
-        <updated>2024-06-16T16:07:44.000Z</updated>
-        <summary type="html"><![CDATA[美国医疗保健公司 Change Healthcare 今年 2 月遭遇了勒索软件攻击，为解锁被加密的系统该公司支付了 2200 万美元的赎金。此举被认为鼓励了勒索软件黑帮进一步瞄准医疗保健行业。数据显示，医疗保健行业在 4 月份遭遇了 44 次勒索软件攻击，为四年来最高。3 月的攻击次数为 30 次。Change Healthcare 的事故也凸显了医疗保健行业的脆弱性。分析指出，Change Healthcare 的系统缺乏分割，使得攻击容易横向移动。该公司的并购可能在其中起到了一定作用。合并和收购创造了新的网络威胁，因为并购涉及到不同组织的系统、数据和流程的整合，而每个组织都有自己的安全协议和潜在漏洞。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI CEO 表示考虑转变为营利性公司]]></title>
-        <id>https://www.solidot.org/story?sid=78442</id>
-        <link href="https://www.solidot.org/story?sid=78442"/>
-        <updated>2024-06-16T15:25:34.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI 的年化收入过去半年翻了一番，去年夏天是 10 亿美元，如今达到了 34 亿美元。根据知情人士的消息，OpenAI CEO Sam Altman 最近告诉部分股东，该公司考虑改变治理结构，转变为非营利董事会不能控制的营利性公司。董事会考虑的一个方案是转变为营利性公益公司，类似竞争对手 Anthropic 和 xAI 使用的模式。此举将最终为 OpenAI 进行 IPO 打开大门。目前 OpenAI 的估值为 860 亿美元。对于这一报道，OpenAI 的公开声明是它的使命核心仍然是非营利性的，将会继续存在。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FAA 调查波音空客使用伪造文件出售的钛合金]]></title>
-        <id>https://www.solidot.org/story?sid=78441</id>
-        <link href="https://www.solidot.org/story?sid=78441"/>
-        <updated>2024-06-16T14:55:02.000Z</updated>
-        <summary type="html"><![CDATA[波音和空客被发现使用了通过伪造文件出售的钛合金材料，FAA 正在调查这是否对公众构成安全隐患。波音和空客都表示，至今为止对受影响材料的测试没有发现任何问题的迹象。波音表示，其飞机生产使用的绝大部分钛合金材料是直接购买的，没有受到伪造文件供应的钛合金影响。该问题主要影响少数供应商收到的钛合金材料。为确保合规，在交付飞机前它正在移除所有受影响的零部件。其分析表明，现有的飞机编队能继续安全飞行。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
