@@ -182,86 +182,6 @@
           "wordCount": 2308,
           "title": "Poppin’ In",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378637"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378960",
-          "author": "Geoff Graham",
-          "description": "CSS Meditation #8: .work + .life { border: 10px solid #000; }…\n originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/378960-2/",
-          "publishedOn": "2024-06-24T18:28:26.000Z",
-          "wordCount": 1061,
-          "title": "Untitled",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378960"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378958",
-          "author": "Geoff Graham",
-          "description": "CSS Meditation #7: Nobody is perf-ect.…\n originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/378958-2/",
-          "publishedOn": "2024-06-24T18:27:59.000Z",
-          "wordCount": 1189,
-          "title": "Untitled",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378958"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378956",
-          "author": "Geoff Graham",
-          "description": "CSS Meditation #6: The color space is always calc(rgb(0 255 0)+er) on the other side of the fence.…\n originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/378956-2/",
-          "publishedOn": "2024-06-24T18:27:28.000Z",
-          "wordCount": 1213,
-          "title": "Untitled",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378956"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378954",
-          "author": "Geoff Graham",
-          "description": "CSS Meditation #5: :where(:is(.my-mind))…\n originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/378954-2/",
-          "publishedOn": "2024-06-24T18:26:50.000Z",
-          "wordCount": 1185,
-          "title": "Untitled",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378954"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378952",
-          "author": "Geoff Graham",
-          "description": "CSS Meditation #4: Select, style, adjust. Select, style, adjust. Select, sty……\n originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/378952-2/",
-          "publishedOn": "2024-06-24T18:26:12.000Z",
-          "wordCount": 1199,
-          "title": "Untitled",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378952"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378950",
-          "author": "Geoff Graham",
-          "description": "CSS Meditation #3: A pseudo is as a pseudo does.…\n originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/378950-2/",
-          "publishedOn": "2024-06-24T18:25:41.000Z",
-          "wordCount": 1197,
-          "title": "Untitled",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378950"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378948",
-          "author": "Geoff Graham",
-          "description": "CSS Meditation #2: Who gives a flying frick what constitutes a “programming” language.…\n originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/378948-2/",
-          "publishedOn": "2024-06-24T18:25:14.000Z",
-          "wordCount": 1203,
-          "title": "Untitled",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378948"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378946",
-          "author": "Geoff Graham",
-          "description": "CSS Meditation #1: If the code works as expected and it fits your mental model, then it’s perfect.…\n originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/378946-2/",
-          "publishedOn": "2024-06-24T18:22:35.000Z",
-          "wordCount": 1213,
-          "title": "Untitled",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378946"
         }
       ]
     },
@@ -287,6 +207,16 @@
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11252",
+          "author": "张 鑫旭",
+          "description": "列举了我目前所知的N多种纯CSS判断是不是Safari和iOS Safari浏览器的方法，希望可以对你的工作有所帮助。",
+          "link": "https://www.zhangxinxu.com/wordpress/2024/07/css-safari-detect/",
+          "publishedOn": "2024-07-04T15:18:27.000Z",
+          "wordCount": 1356,
+          "title": "如何使用纯CSS鉴别是不是Safari浏览器",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zhangxinxu.com/wordpress/?p=11245",
           "author": "张 鑫旭",
@@ -314,6 +244,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78608",
+          "author": null,
+          "description": "西非小国塞拉利昂总统周二签署了一项法律，禁止 18 岁及以下儿童结婚，并对其成年配偶处以高额罚款。这一举措对致力于根除童婚这一陋习的活动人士而言是一场胜利。塞拉利昂的新法律比非洲其它国家的类似法律更进一步，除了惩罚丈夫外，还处罚促成结婚的人——父母、证婚人甚至出席婚礼的宾客。联合国儿童基金会 2020 年报告称，塞拉利昂约有 80 万名 18 岁以下女孩结婚，占该国女孩总数的三分之一。一半人在 15 岁时就结婚了。相比下只有约 4% 的男孩在 18 岁时结婚。根据新法律，曾经的童婚者可寻求经济补偿，她们还有一条摆脱婚姻的途径：申请废除婚姻。联合国统计数据显示，每年至少有 1200 万名 18 岁以下女孩结婚。全世界逾 6.5 亿名女孩和妇女是在儿童时期结婚。南亚童婚人数最多，约 2.9 亿人，占全球总数的 45%。撒哈拉以南非洲紧随其后，约 1.27 亿人，占 20%。非洲 20 个国家只有少数国家全面禁止童婚，而且禁令并没有严格执行。",
+          "link": "https://www.solidot.org/story?sid=78608",
+          "publishedOn": "2024-07-04T09:00:41.000Z",
+          "wordCount": 185,
+          "title": "如何阻止童婚？处罚新郎、父母和宾客",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78607",
+          "author": null,
+          "description": "癌症是由长期积累的 DNA 突变引起的。寿命的延长意味着有更多的机会积累突变，这些突变是产生不受控制的恶性癌细胞所必需的。曾经能控制肿瘤的免疫反应也可能随着年龄的增长而变得更温和。但是随着年龄的增长，组织的变化也会通过改变癌细胞生存的环境来阻止肿瘤的生长。年老的肺部往往比年轻的肺部有更多的疤痕组织。肺细胞的再生能力也会下降，对不受控制的生长压力的适应能力也会下降。为了进一步了解衰老是如何影响肿瘤生长，斯坦福大学的研究人员研究了具有致癌突变的小鼠，他们通过基因开关控制突变。研究小组打开了年轻小鼠和年老小鼠肺部的突变基因，发现年轻鼠的肿瘤比年老鼠的更大、更频繁。他们使用 CRISPR-Cas9 基因编辑技术评估 20 多个通常抑制肿瘤生长的基因中每一个失活的效果。平均而言，在所有年龄的小鼠中，关闭这些基因中的大多数会增加肿瘤的生长速度，但年轻的小鼠比年老的小鼠有更多的肿瘤，而且长得更大。这表明一个不同的过程可能在抑制老年小鼠的癌症中起作用。",
+          "link": "https://www.solidot.org/story?sid=78607",
+          "publishedOn": "2024-07-04T08:29:50.000Z",
+          "wordCount": 166,
+          "title": "为什么癌症的发病率在老年会下降？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78606",
+          "author": null,
+          "description": "铠侠控股将于 7 月中旬在四日市工厂开始量产最先进的存储器。每个芯片可存储 128GB 数据。此次开始量产的NAND 型闪存将存储数据的元件堆叠至 218 层，同时增加了可在一个元件上存储的数据量。与以往产品相比，存储容量提高约 50%，写入数据时所需的电力减少约 30 %。它开始提供 2 Tb NAND 芯片样品，这是目前容量最高的 NAND 芯片。",
+          "link": "https://www.solidot.org/story?sid=78606",
+          "publishedOn": "2024-07-04T08:22:20.000Z",
+          "wordCount": 189,
+          "title": "铠侠量产 218 层 NAND 闪存",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78605",
+          "author": null,
+          "description": "在上线一周年之际，Meta CEO Mark Zuckerberg 宣布 Threads 月活跃用户数突破了 1.75 亿。因 Twitter/X 在马斯克（Elon Musk）控制下面临的不确定性，Meta 的微博客服务 Threads 于 2023 年 7 月 5 日登陆 App Store，推出前五天吸引了 1 亿用户注册，但此后下载量不断下降，到了去年 12 月，Threads 的下载量恢复了增长，进入苹果和 Google 应用商店的下载量前十。这在很大程度上是因为 Meta 通过 Instagram 推广 Threads 上的热门帖子。Meta 没有披露 Threads 的日活跃用户数，而马斯克接手 Twitter/X 之后没有公布可对比的指标。",
+          "link": "https://www.solidot.org/story?sid=78605",
+          "publishedOn": "2024-07-04T07:21:16.000Z",
+          "wordCount": 212,
+          "title": "Threads 月活跃用户数突破 1.75 亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78604",
+          "author": null,
+          "description": "索尼计划停产消费级可烧录蓝光光盘，但仍将生产视频游戏和电视电影蓝光光盘。它将裁掉生产可烧录光盘部门的 250 名员工。裁员主要发生在索尼仙台技术中心，该中心生产 CD-R、DVD-R、BD-R 和存档光盘等可烧录光盘格式。索尼 DADC(Digital Audio Disc Corporation) 工厂仍然会生产、运输和销售标准蓝光、4K UHD 光盘以及 PlayStation 4、PlayStation 5 和 Xbox 蓝光光盘。数字媒体在快速增长，但实体媒体短期内不会消失。",
+          "link": "https://www.solidot.org/story?sid=78604",
+          "publishedOn": "2024-07-04T06:45:15.000Z",
+          "wordCount": 174,
+          "title": "索尼不会淘汰游戏和电影蓝光光盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78603",
+          "author": null,
+          "description": "日本政府终于在所有系统中移除了软盘的使用。日本数字大臣河野太郎宣布在 6 月 28 日赢得了对软盘的胜利。截至 6 月中旬日本数字部门废除了所有 1,034 项管理软盘使用的法规，只有一项与汽车回收相关的环境法规除外。日本数字部是在 2021 年新冠疫情期间成立的，当时日本在全国范围内推广新冠检测和疫苗接种，但政府被发现仍然依赖纸质文件和过时技术。",
+          "link": "https://www.solidot.org/story?sid=78603",
+          "publishedOn": "2024-07-04T06:05:49.000Z",
+          "wordCount": 167,
+          "title": "日本政府淘汰软盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78602",
+          "author": null,
+          "description": "匈牙利数学家 Tibor Radó 在大学期间主修的是土木工程，一次世界大战中断了他的学业，他被派往前线，被俄罗斯俘获送到了西伯利亚的劳改营，在狱友的指导下学习数学。四年后他成功逃狱，穿越北极数千英里返回了祖国，重新回到学校。他在 1920 年代发表了数十篇数学论文，1930 年接受了俄亥俄州立大学的教职，任职达 35 年。他在晚年对图灵停机问题进行了提炼，1962 年在一篇论文里将重新表述的图灵停机问题称之为忙碌海狸游戏。忙碌海狸数通常用 BB(n)表示，它是一个快速增长的大数。现在程序员和业余数学家合作，使用形式化证明工具 Coq 证明 BB(5)=47,176,870。BB(6)需要证明 Collatz 猜想（Collatz conjecture），短期内难以突破。",
+          "link": "https://www.solidot.org/story?sid=78602",
+          "publishedOn": "2024-07-04T05:43:33.000Z",
+          "wordCount": 178,
+          "title": "程序员和业余数学家证明忙碌海狸数 BB(5)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78601",
+          "author": null,
+          "description": "根据 Niko Partner 的《中国游戏玩家行为和市场报告》，近三分之二中国 PC 玩家去年在 PC 游戏上的支出超过其它平台。报告调查了 1,079 名玩家。报告称，19% 的 PC 玩家表示游戏开支比去年至少增加三成；Steam 是最大的 PC 游戏平台，近八成玩付费游戏的玩家使用 Steam；大部分玩家表示 Steam 国际版能正常访问；44% 的人看游戏和电竞直播，其中 69% 的人使用抖音；45% 的人通过短视频内容发现游戏；手游玩家玩小游戏的人数多达 6.5 亿，三分之二手游玩家每天或每周玩几次小游戏。",
+          "link": "https://www.solidot.org/story?sid=78601",
+          "publishedOn": "2024-07-03T16:00:17.000Z",
+          "wordCount": 196,
+          "title": "三分之二中国 PC 玩家去年在 PC 游戏上的支出超过其它平台",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78600",
+          "author": null,
+          "description": "去年圣诞节前一天，Falcon 9 火箭将两颗德国军方的间谍卫星发射到了近地轨道。这次任务看起来取得了成功，卫星制造商 OHB 表示卫星安全入轨。两颗 SARah 卫星将与 2022 年 6 月发射的 SARah 1 组成一个卫星群。它们名字中的 SAR 代表合成孔径雷达，SARah 1 搭载的是有源相控阵雷达天线，新发射的两颗搭载的是无源合成孔径雷达反射器。SARah 1 一直运转正常，但新发射的两颗卫星半年之后仍然未能投入使用。《明镜》报道称，原因是卫星天线无法展开。OHB 工程师使用了各种方法都未能解决问题。德国议会议员被告知，卫星可能无法按计划投入服役。卫星只有在投入使用后才会转交给军方，因此军方表示 OHB 将负责制造两颗替代卫星。报道援引消息来源称，OHB 未能在地面完整测试卫星天线的功能和部署。",
+          "link": "https://www.solidot.org/story?sid=78600",
+          "publishedOn": "2024-07-03T15:38:47.000Z",
+          "wordCount": 179,
+          "title": "德国两颗新一代间谍卫星在轨道上无法展开天线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78599",
+          "author": null,
+          "description": "工信部宣布将制定脑机接口标准，正在筹建脑机接口标准化技术委员会，成立之后该委员会将围绕脑电采集、信号获取及处理、信号输出/执行、反馈等环节开展脑信息读取与写入等输入输出接口标准，数据格式、传输、存储、表示和预处理标准，脑信息编解码算法标准研究。工信部此举表明在脑机接口领域中国将从以学术研究为主转向更具有针对性的研发。",
+          "link": "https://www.solidot.org/story?sid=78599",
+          "publishedOn": "2024-07-03T15:06:12.000Z",
+          "wordCount": 157,
+          "title": "工信部宣布将制定脑机接口标准",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78598",
+          "author": null,
+          "description": "中国科学院新疆生态与地理研究所的科学家发现了一种能在火星环境下生存的沙漠苔藓。极端环境生物是生命的奇迹，代表着生命对环境的极限适应能力。为了适应极端环境（干燥、寒冷、高温、辐射等），它们演化出了令人惊叹的特殊“本领”，是极其珍贵的战略生物资源。极端生物及其适应性的研究对于探索生命奥秘、揭示地球生命起源与演化、实现地外星球拓殖等均有重要意义。研究团队聚焦于一种沙漠苔藓—齿肋赤藓（Syntrichia caninervis），揭示齿肋赤藓的生存极限及适应策略，研究表明该藓能耐受自身 98% 以上的细胞脱水、-196°C 超低温速冻、5000 Gy 以上伽马辐照而不死，且在火星模拟条件（650±30 Pa，-60°C ~20°C，95%CO2，多种 UV 辐射）下仍能存活并再生出新的植株。这一研究刷新了极端生命体对环境的“耐受”新记录，为人类探索外太空、打造宜居星球提供灵感，并为开拓地外新家园提供理想“利器”。",
+          "link": "https://www.solidot.org/story?sid=78598",
+          "publishedOn": "2024-07-03T14:25:14.000Z",
+          "wordCount": 167,
+          "title": "科学家发现能在火星环境下生存的沙漠苔藓",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78597",
           "author": null,
@@ -1042,146 +1082,6 @@
           "publishedOn": "2024-06-25T15:41:36.000Z",
           "wordCount": 185,
           "title": "嫦娥六号返回器返回地面",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78524",
-          "author": null,
-          "description": "一项发表于《自然-生态与进化》的研究根据卫星数据分析发现，过去 20 年中，世界各地发生极端野火的频率增加了一倍多。研究结果提供了第一个确凿的证据，支持了许多科学家的怀疑——野火在以某种方式增加，而气候变化几乎可以肯定是导致其增加的一个因素。研究人员分析了全球卫星数据记录的野火活动，利用红外记录衡量了近 20 年来每天近 3100 万起野火事件的能量强度，并重点关注了大约 2900 起最极端的野火事件，最终计算出，2003 年至 2023 年，全球极端野火事件发生频率增加了 2.2 倍，每年强度排名前 20 的野火的平均强度增加了 2.3 倍。该研究还发现，过去 20 年间，野火夜间的能量强度比白天增加得更快，这与夜间温度上升带来火灾风险的证据一致。",
-          "link": "https://www.solidot.org/story?sid=78524",
-          "publishedOn": "2024-06-25T14:09:43.000Z",
-          "wordCount": 176,
-          "title": "极端野火更常见更暴力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78523",
-          "author": null,
-          "description": "欧盟监管机构指控微软 Office 365 产品和 Microsoft 365 服务捆绑 Teams 应用违反了欧盟的反垄断法。这是 15 年来微软首次在欧盟被控违反反垄断规定，此前两起反垄断案与捆绑 Windows Media Player 和 Internet Explorer 有关。微软去年已将 Teams 从欧洲版的 Office 剥离，试图缓解欧盟监管机构的担忧。欧洲竞争政策主管 Margrethe Vestager 表示，微软将 Teams 与受欢迎的企业生产力套件捆绑，将使其比竞争对手拥有不正当的优势。如果获得确认，微软的行为将是非法的。微软表示正在与欧盟合作寻找解决方案。",
-          "link": "https://www.solidot.org/story?sid=78523",
-          "publishedOn": "2024-06-25T14:02:49.000Z",
-          "wordCount": 190,
-          "title": "微软产品捆绑 Teams 被控违反欧盟反垄断法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78522",
-          "author": null,
-          "description": "Mozilla 宣布，它最新释出的 Firefox Nightly 版本引入了实验性的生成式 AI 功能，加入了 MS Edge 等主要竞争对手拥抱 AI 的行列。Firefox 的 AI 功能是可选使用的，将显示在浏览器的侧边栏，可用于摘要信息、简化语言和测试知识等任务。目前支持的 AI 包括了 ChatGPT、Google Gemini、HuggingChat 和 Le Chat Mistral，未来会加入更多 AI 服务。",
-          "link": "https://www.solidot.org/story?sid=78522",
-          "publishedOn": "2024-06-25T13:51:26.000Z",
-          "wordCount": 196,
-          "title": "Firefox Nightly 引入实验性生成式 AI 功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78521",
-          "author": null,
-          "description": "在一次供应链攻击中，安装在多达 3.6 万个 WordPress 网站上的插件被植入了后门。受影响的扩展包括：Social Warfare（安装量三万），BLAZE Retail Widget（10）、Wrapper Link Elementor（一千）、Contact Form 7 Multi-Step Addon（七百）、Simply Show Hooks（四千），这些扩展都托管在官网 WordPress.org 上，过去一周未知攻击者在更新中加入了恶意功能，能自动创建管理权限账号，允许攻击者完全控制相关网站。安全公司  Wordfence 的研究人员称，恶意后门的植入最早发生在 6 月 21 日。任何安装了这些插件的人都应该立即卸载，并检查是否有最近创建的管理员账号。",
-          "link": "https://www.solidot.org/story?sid=78521",
-          "publishedOn": "2024-06-25T09:56:08.000Z",
-          "wordCount": 184,
-          "title": "WordPress 插件被植入后门",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78520",
-          "author": null,
-          "description": "微软悄悄从其支持网站删除了在 Windows 11 上切换到本地账号的说明。时间是在 2024 年 6 月 12 日至 6 月 17 日之间。软件巨人一直在推动 Windows 用户使用 Microsoft Account 账号登陆机器，引用的理由包括增强安全性和跨设备同步等等。使用本地账号登陆的选项仍然存在，但微软一直在引导用户远离本地账号。",
-          "link": "https://www.solidot.org/story?sid=78520",
-          "publishedOn": "2024-06-25T09:09:03.000Z",
-          "wordCount": 186,
-          "title": "微软删除在 Windows 11 上切换本地账号的指南",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78519",
-          "author": null,
-          "description": "在最近一次与办公室员工的视频会议上，京东创始人刘强东在鼓舞士气的讲话中加入了一句警告：业绩不好，又从来不拼博的人，这家公司永远不能容忍。刘强东对与会者说：“我们也有其他同事，我们也有员工，他其实更多在享受生活，生活第一，事业第二，工作第二，不想拼我能理解，每个人选择都是不一样的……但我只能说，你不是我们的兄弟，你是路人……我们不应该在一起共事。”中国工程师从未享受过类似硅谷同行的福利，马云曾说 996 是一种福报。随着中国科技大厂面临增长放缓、竞争加剧的新现实，它们的市值自 2021 年以来蒸发了大约 1.3 万美元，高管们开始重新回到节俭的创业时代。为了提高效率，包括阿里巴巴和腾讯在内的科技巨头自 2021 年以来裁员数万人。腾讯高管承认，在招聘时他们增加了“低成本的人才”，意味着更年轻的员工。年长的员工面临更严峻的形势。年龄 35 岁以上员工面临更高的裁员风险以及更艰难的就业市场。",
-          "link": "https://www.solidot.org/story?sid=78519",
-          "publishedOn": "2024-06-25T08:30:27.000Z",
-          "wordCount": 167,
-          "title": "科技大厂将员工推向极限",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78518",
-          "author": null,
-          "description": "印尼政府周一披露，其国家数据中心 Pusat Data Nasional (PDN)于 6 月 20 日遭到入侵，被安装了勒索软件，攻击者索要 800 万美元的赎金。PDN 被加密至少影响到了 210 家机构，导致移民数字服务关闭，影响签证、护照和居留许可的处理速度，机场为此排起长度。印尼政府表示情况已得到控制，自动的护照扫描仪已恢复上线。感染 PDN 的勒索软件被认为是 LockBit 3.0 的一个变种。印尼尚未表态是否决定支付赎金。",
-          "link": "https://www.solidot.org/story?sid=78518",
-          "publishedOn": "2024-06-25T07:06:42.000Z",
-          "wordCount": 174,
-          "title": "印尼国家数据中心遭勒索软件攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78517",
-          "author": null,
-          "description": "法国大学成为了 AI 创新的温床，吸引着寻求下一个技术突破的投资者。法国 AI 创业公司至今共吸引了 23 亿美元的投资，超过了英国和德国。而法国 AI 创业公司的创始人中有 57% 来自于法国巴黎综合理工学院。这所成立于 1794 年法国大革命期间的大学有 230 年历史，是 Mistral 创始人兼 CEO Arthur Mensch 的母校，也是 LVMH CEO Bernard Arnault 的母校。院长 Dominique Rossin 表示，该校的教学方法是将 STEM 教育与人文学科和军事训练相结合，培养出受过全面教育的创业家。学校致力于推动学生走出舒适区，鼓励他们尝试新科目，探索科学的新领域，",
-          "link": "https://www.solidot.org/story?sid=78517",
-          "publishedOn": "2024-06-25T06:06:04.000Z",
-          "wordCount": 194,
-          "title": "巴黎综合理工学院院长称人文是法国 AI 热的核心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78516",
-          "author": null,
-          "description": "WikiLeaks 创始人 Julian Assange 同意与美国司法部达成认罪协议以换取自由。Assange 因与美国前陆军情报分析员 Chelsea Manning 合作泄露美国军事机密和外交密电而被控 18 项罪名，其刑期最高可以达到 175 年。根据认罪协议，美国司法部寻求判处 Assange 62 个月的刑期——即 Assange 在伦敦监狱服刑的时间，认罪协议记入了在伦敦的服刑时间，这将允许 Assange 返回他的祖国澳大利亚。认罪协议仍然需要得到美国法官的批准。",
-          "link": "https://www.solidot.org/story?sid=78516",
-          "publishedOn": "2024-06-25T05:21:46.000Z",
-          "wordCount": 183,
-          "title": "Julian Assange 与美国达成认罪协议换取自由",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78515",
-          "author": null,
-          "description": "天文学家在附近的一颗恒星周围发现了三颗候选行星。恒星 HD 48498 是一颗橙矮星，距离地球约 55 光年。天文学家在其周围发现了三颗候选行星，它们都属于超级地球，围绕母星一周分别为 7、38 和 151 个地球日，其最小质量范围在地球质量的 5 到 11 倍之间。三颗候选行星都位于恒星的宜居带，即其表面条件适合液态水存在，因此也可能允许生命存在。",
-          "link": "https://www.solidot.org/story?sid=78515",
-          "publishedOn": "2024-06-24T17:08:17.000Z",
-          "wordCount": 169,
-          "title": "天文学家在附近恒星发现三颗超级地球",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78514",
-          "author": null,
-          "description": "Flatpak 打包格式的 Linux 应用集中式储存库 Flathub 下载量突破了 20 亿次。Flatpak 和 Snaps 以及 AppImage 是目前 Linux 平台的三大沙盒应用格式。根据 Flathub 的统计，它共提供了 2635 个桌面应用，至今总下载量 20.05 亿次。Canonical 主导的 Snaps 库没有提供公开的统计数据。",
-          "link": "https://www.solidot.org/story?sid=78514",
-          "publishedOn": "2024-06-24T16:12:11.000Z",
-          "wordCount": 192,
-          "title": "Flathub 下载量突破 20 亿次",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78513",
-          "author": null,
-          "description": "中微子物理学家 João Coelho 透露，地中海在建的宇宙深渊天体粒子研究（ARCA）天文台可能发现了有史以来能量最高的中微子。ARCA是欧洲立方千米中微子望远镜（KM3NeT）项目的一部分。KM3NeT 的主要目标是发现并持续观察宇宙中的高能中微子的来源，测定中微子的质量等级。ARCA 被部署在意大利西西里岛东南3500米深的海底，由串联有光学模块的垂直绳弦阵列构成。每根绳弦长 800 米，串联有 18 个探测器单元——直径约为半米的有机玻璃球，内置光探测器，每个探测器只能探测到很少的光子。目前阵列内包含 28 串绳弦，ARCA 团队希望到 2028 年能将其扩展到 230 串。它并不能直接“看”到中微子。当中微子撞击空气、水或下层岩石分子时，产生一种高能带电粒子——μ子，当它穿过探测器时，会产生其他带电粒子簇射，从而被捕捉到。Coelho 表示，超过 1/3 的 ARCA 传感器记录到了与 μ子水平穿过探测器一致的闪光。这些μ子由来自低于水平线一度的中微子产生。该粒子的能量可能高达数十 PeV，这将使其成为有史以来探测到的能量最高的中微子。",
-          "link": "https://www.solidot.org/story?sid=78513",
-          "publishedOn": "2024-06-24T15:22:46.000Z",
-          "wordCount": 180,
-          "title": "科学家可能在海底探测到有记录以来最强中微子",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78512",
-          "author": null,
-          "description": "根据发表在《自然》期刊上的一项研究，苏黎世大学研究人员发现，大脑对自然人声和深度伪造人声的处理方式不同。研究人员首先录制了四位男性的声音，然后使用一种转换算法(Conversion algorithm)生成深度伪造声音。25 名参与者在聆听了一对声音后被要求判断它们是否相同。参与者在三分之二的情况下正确识别了深度伪造人声。研究人员指出深度伪造声音确实能欺骗人，但尚不完美。研究人员随后用成像技术检查大脑，观察哪些区域对深度伪造声音和自然声音的反应不同。他们确定了两个能识别伪造声音的区域：伏隔核和听觉皮层。伏隔核是大脑奖励系统的关键组成部分。当参与者被要求判断深度伪造人声和自然人声是否相同时，其活跃性较低。当被要求对比两个自然人声时它相当活跃。",
-          "link": "https://www.solidot.org/story?sid=78512",
-          "publishedOn": "2024-06-24T15:14:07.000Z",
-          "wordCount": 159,
-          "title": "研究人员称大脑对深度伪造声音的响应不同",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78511",
-          "author": null,
-          "description": "苹果成为第一家被控违反欧盟数字市场规定的科技巨头。欧盟周一表示苹果 App Store 阻止应用开发者和用户沟通和直接向用户推广产品，这一做法被称为“anti-steering”。欧盟将周一的指控称为初步调查结果，苹果能对此做出回应，如果未能达成协议，欧盟有权在 2025 年 3 月前对其开出占其全球年营业额 10% 的罚单。苹果发言人 Rob Saunders 周一表示相信公司遵守了法律。",
-          "link": "https://www.solidot.org/story?sid=78511",
-          "publishedOn": "2024-06-24T14:56:13.000Z",
-          "wordCount": 180,
-          "title": "欧盟指控苹果 App Store 违反了数字市场法",
           "imageUrl": null
         }
       ]
