@@ -2,10 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-07-22T02:34:47.793Z</updated>
+    <updated>2024-07-23T02:32:59.144Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project]]></title>
+        <id>https://css-tricks.com/?p=379278</id>
+        <link href="https://css-tricks.com/alvaro-montoro-css-one-liners-to-improve-almost-every-project/"/>
+        <updated>2024-07-22T14:38:52.000Z</updated>
+        <summary type="html"><![CDATA[These sorts of roundups always get me. My wife will flip through Zillow photos of the insides of homes for hours because she likes seeing how different people decorate, Feng Shui, or what have you. That’s her little dip into …
+Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度在新冠期间预期寿命显著下降]]></title>
+        <id>https://www.solidot.org/story?sid=78768</id>
+        <link href="https://www.solidot.org/story?sid=78768"/>
+        <updated>2024-07-22T14:05:10.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Science Advances》期刊上的一项研究，英国牛津和美国 Research Institute for Compassionate Economics 的研究人员报告，印度在新冠期间预期寿命显著下降。他们的分析显示，2020 年出生的人比 2019 年出生的人预期寿命减少 2.6 岁，死亡率高 17%，这意味着 2020 年印度有 119 万人超额死亡。相比之下，印度莫迪政府给出的数字是截至 2021 年年底有 48.1 万人死于新冠。研究人员称，预期寿命的下降在不同人群中是不平等的，女性的预期寿命下降幅度比男性多 1 年（男性为 2.1 年），边缘化群体下降幅度大于特权群体：高种姓群体只下降 1.3 年，低种姓的达利特或表列种姓下降 2.7 年，穆斯林下降 5.4 年。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[庞贝的部分遇难者不是死于火山而是地震]]></title>
+        <id>https://www.solidot.org/story?sid=78767</id>
+        <link href="https://www.solidot.org/story?sid=78767"/>
+        <updated>2024-07-22T12:47:33.000Z</updated>
+        <summary type="html"><![CDATA[公元 79 年，维苏威火山的爆发给罗马古城庞贝造成了严重破坏。当时有两名男子在一间大房子里寻求庇护，但他们并没有像大多数遇难者那样被火山喷出的热气和灰烬窒息或焚烧而亡。相反他们似乎是死于地震。意大利研究人员在《地球科学前沿》发表论文，指出庞贝不只毁于当时喷发的维苏威火山，同期发生的地震也可能夺走了很多人的生命。新证据来自古城遗址中部的两个房间，考古学家在挖掘这些被火山物质保存了 2000 年的房间时，发现了两具男性遗骸蜷缩在倒塌墙壁下的角落里。目前学界普遍认为庞贝古城的毁灭分为两个阶段。起初，浮石和火山灰如雨点般落下，导致许多人窒息而亡，屋顶坍塌。数小时后，火山碎屑流倾泻而下，掩埋古城，居民们无一幸免。火山碎屑流指火山喷出的气体和碎屑的混合物。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软为受 Crowdstrike 影响的机器发布恢复工具]]></title>
+        <id>https://www.solidot.org/story?sid=78766</id>
+        <link href="https://www.solidot.org/story?sid=78766"/>
+        <updated>2024-07-22T12:19:01.000Z</updated>
+        <summary type="html"><![CDATA[微软对无法自动接收 Crowdstrike 最新补丁的机器提供了一个创建可启动 U 盘的恢复工具。该恢复工具通过 USB 启动到 Windows PE 环境，访问磁盘，然后自动删除有问题的 CrowdStrike 文件，从而允许计算机正常启动。如果磁盘被 BitLocker 加密，用户需要输入 BitLocker 恢复密钥。上周五发生的 Crowdstrike 事件所产生的影响一直到周日也没有消失，根据 FlightAware.com 的数据，周日下午有逾 1200 多个进出美国的航班取消，逾 5000 个美国航班延；周六有 2136 个美国航班取消，逾 21,300 个航班延误。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁写了臭名昭著的蓝屏死机代码？]]></title>
+        <id>https://www.solidot.org/story?sid=78765</id>
+        <link href="https://www.solidot.org/story?sid=78765"/>
+        <updated>2024-07-22T11:58:55.000Z</updated>
+        <summary type="html"><![CDATA[谁写了臭名昭著的蓝屏死机代码？微软资深软件工程师、《The Old New Thing》作者 Raymond Chen 在 2014 年表示，前 CEO 鲍尔默（Steve Ballmer）为 Windows 3.1 的 Ctrl+Alt+Del 对话框撰写了文本。这一说法随后被传成了鲍尔默是蓝屏死机的发明者。Raymond Chen 后来澄清鲍尔默没有撰写蓝屏死机的文本，他表示自己对蓝屏死机负有部分责任，蓝屏死机相关代码一度被移除，而 Chen 在 Windows 95 中又重新添加了进去，他说自己是最后修改的人。那么谁是最早写蓝屏死机代码的？2021 年前微软开发者 Dave Plumme 称，蓝屏死机之父是微软开发者 John Vert，他在 Windows 3.1 中编写了相关代码，之所以选择蓝屏是因为他常用的编辑器 SlickEdit 就是以蓝色背景展示白色文本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 内核更新 XZ 补丁移除维护者 Jia Tan]]></title>
+        <id>https://www.solidot.org/story?sid=78764</id>
+        <link href="https://www.solidot.org/story?sid=78764"/>
+        <updated>2024-07-22T08:08:48.000Z</updated>
+        <summary type="html"><![CDATA[XZ 项目维护者 Lasse Collin 发布了一组补丁集，更新了内核的 XZ 代码，其中一项变化是将 Jia Tan 移除出维护者名单。Jia Tan aka JiaT75 是臭名昭著的 XZ 后门事件的幕后黑手，这个名字可能是一个伪装，未必是华裔，他或他们在该项目潜伏了三年之久，获取信任之后成为了维护者，然后悄悄植入了后门代码。他或他们的真实身份至今仍然是一个谜。补丁的其它变化包括了许可证从 Public Domain 迁移到 BSD Zero Clause License，更新了文档，新的 ARM64 和 RISC-V 过滤器等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数码荔枝正版七月惠，优效日历、AlDente、iCollections 折扣来袭，会场软件 6 折起！]]></title>
+        <id>https://www.appinn.com/?p=49084</id>
+        <link href="https://www.appinn.com/lizhi-july/"/>
+        <updated>2024-07-22T07:39:12.000Z</updated>
+        <summary type="html"><![CDATA[我们的老朋友数码荔枝，最近开启了「正版七月惠」活动！会场精选了一批系统增强工具和办公软件，快来看看有没有你期待的那一款吧～ 活动时间即日起至 7 月 31 日，会场商品低至 6 折： 还有大批实用办公]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日企外籍 CEO 日益稀少]]></title>
+        <id>https://www.solidot.org/story?sid=78763</id>
+        <link href="https://www.solidot.org/story?sid=78763"/>
+        <updated>2024-07-22T07:18:33.000Z</updated>
+        <summary type="html"><![CDATA[日本企业中的外籍 CEO 数量越来越少。在股票总市值排名前 100 的日本企业中，在海外出生的外籍 CEO 目前实际上只有 3 人（在韩国创业，把总部移到日本的 NEXON 除外）：即奥林巴斯的 Stefan Kaufmann（2023 年就任）、半导体测试设备巨头爱德万的 Douglas Lefever（集团 CEO，2024 年就任）、以及武田药品工业的Christophe Weber（2014 年就任）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国基本未受到 Crowdstrike 事件的影响]]></title>
+        <id>https://www.solidot.org/story?sid=78762</id>
+        <link href="https://www.solidot.org/story?sid=78762"/>
+        <updated>2024-07-22T07:06:50.000Z</updated>
+        <summary type="html"><![CDATA[上周五，全世界大部分地区都在应对至今 IT 史上最严重的安全事故，但有一个国家基本未受到影响：中国。原因十分简单，Crowdstrike 的安全软件在中国基本无人用。很少有中国机构会购买美国的安全软件，中国对微软的依赖程度也没有其它地区高，阿里巴巴、腾讯和华为是主要的云服务商。因此遭遇 Crowdstrike 蓝屏死机事件的主要是在华外企或组织，根据社交媒体上的信息，中国用户报告无法入住喜来登、万豪和凯悦等国际连锁酒店。网络安全专家 Josh Kennedy White 称，微软通过其本地合作伙伴世纪互联在中国开展业务，世纪互联的基础设施独立于微软在全球的基础设施。这种设置使得中国的基本服务如银行和航空免受全球干扰。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本新闻协会发称 AI 搜索可能侵犯著作权]]></title>
+        <id>https://www.solidot.org/story?sid=78761</id>
+        <link href="https://www.solidot.org/story?sid=78761"/>
+        <updated>2024-07-22T06:10:59.000Z</updated>
+        <summary type="html"><![CDATA[日本新闻协会发表声明称，美国 IT 巨头 Google、微软等公司提供的将网络搜索引擎与生成式 AI 相结合的“搜索联动型生成式 AI 服务”（即 AI 搜索引擎）很可能构成侵犯著作权。声明指出，此类服务经常擅自利用新闻报道作为信息源、生成类似新闻报道的回答。它要求美国 IT 巨头获得新闻媒体的使用许可。声明分析称，有一些案例显示，搜索联动型 AI 对新闻报道进行不恰当的转用和加工，生成了存在错误内容的回答。声明强调，应当在确保准确性和可靠性之后再开始提供服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[与肥胖相关的大脑变化导致了低精子数]]></title>
+        <id>https://www.solidot.org/story?sid=78760</id>
+        <link href="https://www.solidot.org/story?sid=78760"/>
+        <updated>2024-07-22T06:08:08.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Journal of Neuroscience》期刊上的一篇论文，小鼠研究显示与肥胖相关的大脑变化导致了低精子数。加州河滨领导的一个研究小组通过给小鼠喂食高脂肪食物模拟人类的肥胖，发现肥胖会导致大脑的慢性变化。研究小组发现，老鼠的大脑显示出神经元之间的连接减少，受体的数量减少，这些受体通常会告诉大脑有足够的能量可用，并停止食物摄入。领导这项研究的 Djurdjica Coss 教授说，这也许可以解释为什么我们不能停止过量的卡路里摄入，超重的小鼠血液中的睾丸激素也较低，精子数量也减少。她解释说，生殖功能是由下丘脑-垂体-性腺轴调节的，这是一个调节有性生殖和发育的反馈回路。下丘脑是大脑中一个复杂的区域，负责调节食物摄入、温度、口渴和繁殖。它包含调节脑下垂体激素合成和分泌的神经元，脑下垂体激素随后调节男性睾丸激素合成和精子产生(以及女性雌激素产生和排卵)。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为 Windows 10/11 打开微软官方 Windows 沙盒功能]]></title>
+        <id>https://www.appinn.com/?p=49078</id>
+        <link href="https://www.appinn.com/windows-sandbox/"/>
+        <updated>2024-07-22T03:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Windows 沙盒是微软为 Windows 10 专业版/企业版或者 Windows 11 中提供的功能，可以安全地在隔离状态下运行应用程序。不过默认并没有安装，需要使用 Windows 功能来安装]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家投票移除带有冒犯性的生物科学名称]]></title>
+        <id>https://www.solidot.org/story?sid=78759</id>
+        <link href="https://www.solidot.org/story?sid=78759"/>
+        <updated>2024-07-22T03:37:18.000Z</updated>
+        <summary type="html"><![CDATA[研究人员首次投票决定移除带有冒犯性的生物科学名称。植物学家决定应让超过 200 种植物、真菌和藻类物种不再包含一个带有种族歧视的词汇 caffra，该词汇是主要针对南部非洲的黑人和其他人种的歧视性称呼。这意味着像南非刺桐这样的植物，从 2026 年起就将被正式更名为 Erythrina affra，而不是原先的 Erythrina caffra。
+这项议案的支持票与反对票的比例为 351:205。参加植物学大会命名法分会的科学家们投票建立了一个特殊的委员会，以处理新描述植物、真菌和藻类命名的伦理问题。物种的名称——过去通常被首次在科学文献中描述它们的科学家决定——现在如果被认为包含对一类人群的贬义，可以被该委员会拒绝。但是这仅适用于 2026 年后命名的物种，并不可用于旧的植物名称上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在禁言 11 年之后玩家重续旧话题]]></title>
+        <id>https://www.solidot.org/story?sid=78758</id>
+        <link href="https://www.solidot.org/story?sid=78758"/>
+        <updated>2024-07-21T16:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Something Awful（SA）是一个神奇的论坛，你需要支付 10 美元才能成为注册用户。它是很多互联网文化的发源地，催生了知名或臭名昭著的 4chan 匿名讨论版，4chan 最初是由 SA 动漫子论坛的异见用户创建的。SA 给了论坛版主相当大的封禁裁量权，如果发帖者被认为违反了礼仪或其它情况，他们会被禁言一段时间，SA 建立了专门的网页展示相关的封禁信息，包括封禁长度和原因。一位叫 Etherwind 的用户在桌游子论坛发帖，开玩笑的说 
+World of Darkness TTRPG 的一位作者应该去死。他随后被禁言了 10 万个小时——对绝大部分的人而言这意味着永久性封禁。Etherwind 的禁言始于 2013 年 2 月 14 日 10:24 pm BST，终于 2024 年 7 月 13 日。在禁言  100,018 小时后的 7 月 14 日 9:04 BST，Etherwind 再次亮相论坛，继续 11.4 年前的讨论话题。有用户建议应该再禁言他 11 年。他分享了一篇 Google 文档，谈论了他过去几年的心路，承认出于喜剧效果而给自己设定了禁言结束的日期提醒。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孟加拉国断网三天]]></title>
+        <id>https://www.solidot.org/story?sid=78757</id>
+        <link href="https://www.solidot.org/story?sid=78757"/>
+        <updated>2024-07-21T15:25:18.000Z</updated>
+        <summary type="html"><![CDATA[根据 Netblocks 的监测，孟加拉国的互联网服务已被切断了整整三天。过去几天，该国发生了大规模抗议，媒体报道称至少有 130 人死亡。为平息抗议，孟加拉国政府已经命令安全部队看到抗议者就开枪。这次抗议的起因是在全国失业率高涨的情况下，政府仍然推行配额制，将多达三成的政府职位留给参加 1971 年孟加拉国独立战争的退伍军人亲属。抗议者希望推行基于绩效的制度。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[除了E人变I，断网半年后我的3个感悟和1个项目]]></title>
         <id>https://kaopubear.top/blog/2024-07-21-insightpaper-intro/</id>
@@ -61,6 +214,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[瀑布流本地图片浏览器：只有 40KB，把不同比例的图片自动排版到A4大小的瀑布流｜可打印为 PDF]]></title>
+        <id>https://www.appinn.com/?p=49072</id>
+        <link href="https://www.appinn.com/masonry-image-viewer/"/>
+        <updated>2024-07-20T03:31:18.000Z</updated>
+        <summary type="html"><![CDATA[瀑布流本地图片浏览器是一个只有 40KB 的单文件网页程序，可以载入本地图片，并以瀑布流的方式浏览图片，支持放大缩小、自定义调整瀑布流大小。非常适合看图片、漫画等。@Appinn 来自发现频道，开发者]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[女性繁育后代加速衰老和死亡]]></title>
         <id>https://www.solidot.org/story?sid=78752</id>
         <link href="https://www.solidot.org/story?sid=78752"/>
@@ -68,6 +231,16 @@
         <summary type="html"><![CDATA[演化论认为，分配给生育的资源和分配给自我维持的资源之间存在权衡，预测生育更多的后代意味着更短的寿命。芬兰赫尔辛基大学的研究人员在预印本平台 bioRxiv 上发表了一篇尚未通过同行评议的论文，通过分析女双胞胎的数据去调查生育对衰老和寿命的影响。他们的结果表明，早育、多次怀孕或未生育都会加速衰老加速和增加死亡风险。为什么未育女性与加速衰老和短寿有关？研究人员给出的解释是：健康状况不佳或高风险生活方式都会减少生育可能性，这些因素都会增加死亡风险和加速衰老；妊娠和哺乳能对激素癌症等特定疾病起到保护作用。早产也与不利的社会经济背景有关，与晚年肥胖风险和行动不便，以及低教育程度、职业发展受限和高离婚风险有关。推迟怀孕与更健康的生活方式、以及更缓慢的衰老相关，也与更有利的社会经济因素相关。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talos Linux – 专为 Kubernetes 设计的安全、最小化、只读的 Linux 操作系统]]></title>
+        <id>https://www.appinn.com/?p=49068</id>
+        <link href="https://www.appinn.com/talos-linux/"/>
+        <updated>2024-07-20T01:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Talos Linux 是一款专门为 Kubernetes 设计的安全、最小化、只读的开源 Linux 操作系统，支持云平台、裸机、虚拟化平台，所有系统管理都通过 API 完成，通过将根文件系统挂载为]]></summary>
+        <author>
+            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
@@ -627,6 +800,18 @@ Get 1% off at Browserling and Online Tools with the coupon code BIGBRAINS.]]></s
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5 Million Google Clicks 🤩]]></title>
+        <id>https://catonmat.net/5-million-google-clicks</id>
+        <link href="https://catonmat.net/5-million-google-clicks"/>
+        <updated>2024-07-15T21:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Last month Online PNG Tools smashed past 4M Google clicks and today it has smashed past 5M Google clicks! 🤑
+Smash too and see you next time! 💪
+PS. Use coupon code SMASHLING for a 30% discount on these tools. 💸]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS Selectors]]></title>
         <id>https://css-tricks.com/?p=378745</id>
         <link href="https://css-tricks.com/css-selectors/"/>
@@ -846,96 +1031,6 @@ CSS Selectors originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[SpaceX 七年来首次遭遇发射事故。本周四晚上，Falcon 9 火箭从加州范登堡太空军基地发射升空，在起飞一个小时后，火箭第二级未能重新点火，导致其携带的 20 颗 Starlink 卫星部署在一个非常低的轨道上，预计会很快重返大气层燃烧。你可以在 Satellitemap 上跟踪这些卫星重返大气层。美国联邦航空管理局 (FAA) 下令 SpaceX 停飞其火箭，查清事故原因，修复火箭，然后再次获得该机构的批准。这一过程预计需要几周或几个月的时间，具体将根据故障复杂度和 SpaceX 修复计划而定。在这次发射过程中，火箭被探测到推进剂液氧泄漏。这是 Falcon 9 火箭的第 354 次任务，是 SpaceX 自 2016 年以来首次发生事故，上一次事故中火箭直接在发射台爆炸。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊向美国用户开放其购物聊天机器人 Rufus]]></title>
-        <id>https://www.solidot.org/story?sid=78685</id>
-        <link href="https://www.solidot.org/story?sid=78685"/>
-        <updated>2024-07-13T14:25:44.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊向美国用户开放其购物聊天机器人 Rufus，用户可通过最新版本的 Amazon Shopping 应用尝试 Rufus。与其它 AI 聊天机器人不同的是，Rufus 训练数据集包括了其商品目录、客户评价、社区问答，以及抓取的来自 Web 的公开信息。亚马逊没有披露它抓取了哪些公开信息。用户可以让它推荐商品，或描述特定商品的功能，它还与用户的账号绑定，因此还能回答与所订购商品交付相关的信息。和其它 AI 聊天机器人类似，它给出的答案未必是正确的，需要用户交叉验证。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国海军寻求替换 8 英寸软盘]]></title>
-        <id>https://www.solidot.org/story?sid=78684</id>
-        <link href="https://www.solidot.org/story?sid=78684"/>
-        <updated>2024-07-13T11:15:14.000Z</updated>
-        <summary type="html"><![CDATA[德国海军正寻求用新的储存系统替换其勃兰登堡级 F123 护卫舰使用的 8 英寸软盘。8 英寸软盘诞生于 1970 年代，后被 5.25 英寸和 3.5 英寸软盘所取代。德国勃兰登堡级 F123 护卫舰于 1990 年代中期服役，此时流行的软盘是 3.5 英寸，8 英寸软盘已被淘汰了。软盘主要用作可移动存储介质，用于护卫舰的数据采集系统，对控制推进和发电等基本船舶功能至关重要。F123 正在进行现代化改造，总承包商是瑞典防务巨头萨博(Saab)，要无缝替换有三十年历史的计算机硬件，同时保留现有软盘的完整功能绝非易事。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mini Metro Web – 创建《迷你地铁》游戏风格的地铁线路图]]></title>
-        <id>https://www.appinn.com/?p=49008</id>
-        <link href="https://www.appinn.com/mini-metro-web/"/>
-        <updated>2024-07-13T06:53:22.000Z</updated>
-        <summary type="html"><![CDATA[Mini Metro Web 是一个网页工具，它能创建《迷你地铁》游戏风格的地铁线路图，无限大画布、无限数量站点和线路。@Appinn 来自发现频道，@jerrylus 同学的推荐：https://m]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AT&T 称几乎所有客户的电话记录被盗]]></title>
-        <id>https://www.solidot.org/story?sid=78683</id>
-        <link href="https://www.solidot.org/story?sid=78683"/>
-        <updated>2024-07-12T16:02:20.000Z</updated>
-        <summary type="html"><![CDATA[AT&T 周五证实几乎所有客户的电话记录被盗，表示将向其 1.1 亿客户发送数据泄露通知。AT&T 表示，被盗数据包含移动和固话客户的电话号码，以及在 2022 年 5 月 1 日到 2022 年 10 月 31 日六个月内的通话和短信记录——通话对象或短信联络对象。被盗数据还包括依赖 AT&T 网络的其它移动运营商的客户通话记录。被盗数据“不包含通话或短信内容”，被盗的信息主要是元数据如通话和短信总数以及通话时长。AT&T 表示，被盗数据不包括通话或短信的时间或日期。AT&T 已经上线了一个发布相关信息的网站。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thunderbird 128 释出]]></title>
-        <id>https://www.solidot.org/story?sid=78682</id>
-        <link href="https://www.solidot.org/story?sid=78682"/>
-        <updated>2024-07-12T15:48:09.000Z</updated>
-        <summary type="html"><![CDATA[开源邮件客户端项目 Thunderbird 释出了代号为 Nebula 的 v128，该版本是基于刚刚释出的 Firefox 128 ESR 版本。Thunderbird 128 改进了代码、稳定性和用户体验，主要变化包括：整合了 Rust 语言；重新设计了卡片视图；加强了文件夹窗格；改进了主题兼容性，能与桌面环境无缝融合；自定义账号颜色，为电邮加入了个性化色彩；简化菜单导航，原生 Windows 通知，改进上下文菜单，等等。开发者表示由于技术上的障碍， Thunderbird 128 对 Exchange 和 Mozilla Sync 的支持将延后。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现苏打税让儿童糖消费量减少了一半]]></title>
-        <id>https://www.solidot.org/story?sid=78681</id>
-        <link href="https://www.solidot.org/story?sid=78681"/>
-        <updated>2024-07-12T15:29:50.000Z</updated>
-        <summary type="html"><![CDATA[发表在《Journal of Epidemiology and Community Health》期刊上的一项英国研究发现，在 2016 年宣布征收糖税三年内，英国儿童从软饮料中摄入的糖量减少了一半。糖税在 2018 年 4 月生效，对改善饮食产生了立竿见影的效果，以至于专家认为将该税扩大的其它高糖食物和饮料是“不用动脑筋的事情”。这项研究分析了对 2008 年到 2019 年的 7,999 名成人和 7,656 名儿童的调查结果。结果显示，在征税一年内，儿童每日糖摄入量下降了约 4.8 克，成人下降 10.9 克。但成人和儿童的糖摄入量仍然高于推荐指南。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[随着出生率下降全球人口到本世纪末将比预期的减少 2 亿]]></title>
-        <id>https://www.solidot.org/story?sid=78680</id>
-        <link href="https://www.solidot.org/story?sid=78680"/>
-        <updated>2024-07-12T15:06:58.000Z</updated>
-        <summary type="html"><![CDATA[联合国每两年发布一次的《世界人口展望》(World Population Prospects)报告称，全球人口将从 2024 年的 82 亿增长到 2080 年的 103 亿左右，到本世纪末将降至 102 亿左右。而 2022 年的报告预测全球人口到 2080 年代将达到 104 亿并一直维持到 2100 年，最新预测比之前预期的少了 2 亿。世界人口数量达到最高峰的时间提前，但峰值却降低了。主管经济和社会事务的联合国副秘书长李军华表示，人口格局发生了巨变。部分国家当前的出生率甚至低于之前的预期，部分高生育率地区的出生率略快的下降。全球女性平均生育的孩子数量比 1990 年减少了一个。逾半数国家女性生育数低于 2.1 的人口替代率。包括中国和韩国在内的近五分之一地区每名女性的活产数不到 1.4，这是极低的水平。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sandboxie-Plus – 知名 Windows 沙盒软件，可用来测试、多开软件、隔离环境]]></title>
-        <id>https://www.appinn.com/?p=48998</id>
-        <link href="https://www.appinn.com/sandboxie-plus/"/>
-        <updated>2024-07-11T13:18:51.000Z</updated>
-        <summary type="html"><![CDATA[Sandboxie-Plus 是一款 Windows 的沙盒软件，可以在隔离的虚拟环境中运行程序，保护主系统免受恶意软件和意外更改的影响，可用于测试可疑软件、多开程序等。@Appinn 数码荔枝上新，]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源的网页版程序，为什么不能下载后直接打开？]]></title>
-        <id>https://www.appinn.com/?p=48993</id>
-        <link href="https://www.appinn.com/how-to-open-web-pages-on-your-computer/"/>
-        <updated>2024-07-11T03:45:51.000Z</updated>
-        <summary type="html"><![CDATA[有同学在论坛提出了这个问题：https://meta.appinn.net/t/topic/58476 突然发觉这些问题一直被我们忽略，以为大家都会，但真不是这样的。 注：此文也无任何冒犯的意思，只是]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
