@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49183",
+          "author": "青小蛙",
+          "description": "这是一个开发者描述为「使用 Android 原生开发的电视直播软件」。另外，网络环境必须支持IPV6（默认直播源），支持 Android 5.x。 目前已经实现的功能： 具体就是…怎么说呢",
+          "link": "https://www.appinn.com/my-tv-android/",
+          "publishedOn": "2024-07-28T02:58:00.000Z",
+          "wordCount": 2593,
+          "title": "使用 Android 原生开发的开源电视直播软件",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-28T020012.138.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49179",
           "author": "青小蛙",
           "description": "Button Stealer 是一个连开发者自己都说「有趣、无用，而且免费」的 Chrome 扩展，唯一的用途是不断收集你访问过的网站上的按钮。没粗，就是按钮，再没有其他什么功能了。@Appinn 来",
@@ -130,26 +140,6 @@
           "wordCount": 2652,
           "title": "Talos Linux – 专为 Kubernetes 设计的安全、最小化、只读的 Linux 操作系统",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-19T155604.353.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49056",
-          "author": "青小蛙",
-          "description": "新版 VideoProc Converter AI V7 隆重登場！隨著數字內容的爆炸式增長，高效、便捷的視頻轉換工具成為了必需品。VideoProc Converter AI 作為最新一代視頻轉換軟",
-          "link": "https://www.appinn.com/videoproc-converter-ai-v7/",
-          "publishedOn": "2024-07-19T04:47:39.000Z",
-          "wordCount": 2728,
-          "title": "AI影片/圖片增強與轉檔神器VideoProc限時免費獲取，優惠不容錯過",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-19T123540.602.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49057",
-          "author": "青小蛙",
-          "description": "OpenAI 昨天发布了最新的「最具成本效益的小型型号」GPT-4o mini，它在 MMLU 上得分 82%，目前优于 GPT-4，比 GPT-3.5 Turbo 便宜 60% 以上。@Appinn",
-          "link": "https://www.appinn.com/gpt-4o-mini/",
-          "publishedOn": "2024-07-19T04:02:59.000Z",
-          "wordCount": 2847,
-          "title": "GPT-4o mini 发布：OpenAI 最便宜的小型模型，比 GPT-3.5 便宜，比 GPT-4 优秀",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-19T113116.004.jpg"
         }
       ]
     },
@@ -213,6 +203,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11293",
+          "author": "张 鑫旭",
+          "description": "本文通过案例演示如何使用开源JS库实现音频淡入淡出、原生JS又该实现，以及如何从底层对音频进行淡入淡出转换，都是少见的技术分享。",
+          "link": "https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/",
+          "publishedOn": "2024-07-28T17:02:44.000Z",
+          "wordCount": 1612,
+          "title": "独家，MP3音频淡入淡出播放和转换的JS实现",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=11275",
           "author": "张 鑫旭",
           "description": "盼星星，盼月亮，我的第5本书《HTML并不简单》已经正式上架了，这里讲讲为什么会想到写一本关于HTML的书籍，介绍下本书的内容结构，签字版购买等信息，希望可以得到大家的正版支持。",
@@ -220,16 +220,6 @@
           "publishedOn": "2024-07-23T07:11:59.000Z",
           "wordCount": 1259,
           "title": "关于《HTML并不简单》这本书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11282",
-          "author": "张 鑫旭",
-          "description": "随着Firefox 131也支持了CSS Custom Highlight API，至此，所有现代浏览器下都可以实现无标签的文本内容高亮效果了。",
-          "link": "https://www.zhangxinxu.com/wordpress/2024/07/css-custom-highlight-api/",
-          "publishedOn": "2024-07-18T15:31:51.000Z",
-          "wordCount": 1365,
-          "title": "今日学习CSS文本自定义高亮API",
           "imageUrl": null
         }
       ]
@@ -239,6 +229,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78819",
+          "author": null,
+          "description": "干涸的湖泊正成为二氧化碳的重要排放源。根据发表在《One Earth》上的一项研究，犹他州研究人员计算出该州大盐湖（Great Salt Lake）干涸河床在 2020 年释放了 410 万吨二氧化碳和其它温室气体，使得犹他州的人为排放增加约 7%。世界各地的湖泊都会储碳。植物和动物残骸在数千年时间里以沉积物的形式沉在湖底，其中的氧气很少，降解十分缓慢。湖泊有水的情况下会帮助清除大气中的二氧化碳。但如果湖泊干涸，氧气会渗透进沉积物，唤醒吞食有机物的微生物，加速降解，释放出二氧化碳。",
+          "link": "https://www.solidot.org/story?sid=78819",
+          "publishedOn": "2024-07-28T15:58:26.000Z",
+          "wordCount": 166,
+          "title": "干涸的湖泊成为二氧化碳的新排放源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78818",
+          "author": null,
+          "description": "在因 CrowdStrike 问题更新导致全世界大约 850 万台 PC 蓝屏死机一周之后，该公司 CEO George Kurtz 表示 97% 运行该公司安全软件的系统恢复了上线。这意味着还有大约 25 万台 PC 受到影响。微软副总裁 John Cable 表示，有逾五千名支持工程师昼夜不停的工作帮助清理 CrowdStrike 更新导致的混乱，他表示微软考虑修改安全软件使用的内核访问权限，只要能不违反欧盟监管机构的规定。包括 CrowdStrike 在内的绝大多数安全软件都有内核访问权限，具有系统软硬件的完整访问能力，但这也意味着如果出错将会造成巨大破坏。macOS 限制了第三方内核扩展，因此 CrowdStrike 的问题没有影响到 macOS 系统。",
+          "link": "https://www.solidot.org/story?sid=78818",
+          "publishedOn": "2024-07-28T15:34:22.000Z",
+          "wordCount": 196,
+          "title": "97% 运行 CrowdStrike 的系统恢复上线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78817",
+          "author": null,
+          "description": "NASA 研究人员成功测试了与国际空间站的激光通信。研究人员利用在天空飞行的飞机向空间站通过激光传输了 4K 视频，这意味着未来的载人登月阿尔特弥斯任务期间 NASA 能提供来自月球的现场直播，激光通信的发展也能拉近未来火星或更遥远太空任务的距离。NASA 通常使用无线电波在地面和太空之间传输数据和进行通话，使用红外光的激光通信比无线电传输数据快 10-100 倍。",
+          "link": "https://www.solidot.org/story?sid=78817",
+          "publishedOn": "2024-07-28T14:42:37.000Z",
+          "wordCount": 172,
+          "title": "NASA 测试与国际空间站的激光通信",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78816",
           "author": null,
@@ -267,6 +287,36 @@
           "publishedOn": "2024-07-27T13:54:44.000Z",
           "wordCount": 190,
           "title": "波音 Starliner 宇航员因飞船故障已在轨多停留了六周",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78813",
+          "author": null,
+          "description": "OpenAI 演示了它的搜索工具原型 SearchGPT，但演示结果很快被发现存在错误。在其中一个演示中，OpenAI 模拟用户向 SearchGPT 询问八月份在北卡 Boone 举行的音乐节，SearchGPT 返回的结果中第一个是 An Appalachian Summer Festival，声称举办时间是 7 月 29 日到 8 月 16 日。如果真的有人去订音乐节的票，他们会发现该音乐节实际上始于 6 月 29 日，结束于 7 月 27 日。7 月 29 日到 8 月 16 日是音乐节票房关闭的日期。",
+          "link": "https://www.solidot.org/story?sid=78813",
+          "publishedOn": "2024-07-26T15:42:02.000Z",
+          "wordCount": 195,
+          "title": "SearchGPT 的演示被发现存在错误",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78812",
+          "author": null,
+          "description": "Let's Encrypt 宣布，出于隐私考虑它计划尽可能快的停止支持 Online Certificate Status Protocol(OCSP)。OCSP 设计作为 Certificate Revocation Lists (CRLs)的轻量级替代，不需要下载完整 CRL 列表就可以检查证书是否有效。但它存在隐私方面的问题，当用户通过 OCSP 检查证书有效性时，运营 OCSP 响应器的 CA 机构会知道用户通过哪个 IP 访问了哪个网站。Let's Encrypt 认为，CA 机构可能会因为法律要求强制收集此类信息，而 CRL 不存在该问题。所有现代浏览器都支持 CRL，因此停止支持 OCSP 不会对终端用户有任何影响。",
+          "link": "https://www.solidot.org/story?sid=78812",
+          "publishedOn": "2024-07-26T14:49:09.000Z",
+          "wordCount": 197,
+          "title": "Let's Encrypt 计划停止支持 OCSP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78811",
+          "author": null,
+          "description": "在巴黎奥运会开幕之际，法国高铁网络遭到恶意攻击，多达 80 万旅客受到影响。铁路运营商 SNCF 称，攻击影响了其大西洋、北部和东部线路，东南线路没有受影响，因为该条线路的攻击行为被挫败了。SNCF CEO Jean-Pierre Farandou 称，攻击者对装载多根光缆的导管点火，这些光缆传输着对司机安全行驶所需的信息或者控制分岔道的电机，他们必须靠人工一根根检修。法国官方表示正在调查此事是否与奥运会有关。SNCF 取消了大部分火车线路，它敦促乘客推迟旅行和远离火车站。Farandou 称有 80 万旅客受到影响。",
+          "link": "https://www.solidot.org/story?sid=78811",
+          "publishedOn": "2024-07-26T14:22:36.000Z",
+          "wordCount": 168,
+          "title": "法国高铁网络遭到恶意攻击",
           "imageUrl": null
         },
         {
@@ -878,146 +928,6 @@
           "wordCount": 160,
           "title": "地球水体溶解氧迅速减少",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78749",
-          "author": null,
-          "description": "FBI 本周早些时候宣布它成功破解了特朗普集会枪手 Thomas Matthew Crooks 的手机。彭博社最新报道披露了更多相关细节。枪手使用的三星的一款较新型的 Android 手机，FBI 首先尝试利用以色列数据情报公司 Cellebrite 的软件去绕过或识别手机密码，但未能成功。FBI 随后直接联络 Cellebrite 寻求帮助。Cellebrite 之后提供了该公司仍然在开发中的新软件。FBI 利用新的软件在 40 分钟内解锁了手机。根据媒体的最新报道，Crooks 的手机上还有拜登等人的照片，他选择特朗普作为目标可能是因为这次集会距离他最近。",
-          "link": "https://www.solidot.org/story?sid=78749",
-          "publishedOn": "2024-07-19T14:29:11.000Z",
-          "wordCount": 190,
-          "title": "特朗普集会枪手使用三星 Android 手机，被以色列公司的新软件在 40 分钟内破解",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78748",
-          "author": null,
-          "description": "Google 预计将在 8 月 13 日举行的活动上宣布其下一代旗舰手机 Pixel 9，搜索巨人通过其官方 X 账号发布了预告片，声称新手机是为 Gemini 时代打造的。Gemini 是 Google 的 AI 大模型，有多个不同规模的版本，Pro 是较小规模的版本，Ultra 是其最大规模的版本。Google 将于 8 月 13 日举行 Made by Google 发布会，预计会发布四款 Pixel 9，其中 Pixel 9 和 Pixel 9 Pro 都是 6.1 英寸，Pixel 9 Pro XL 有着更大的屏幕，Pixel 9 Pro Fold 则是折叠手机 Pixel Fold 的下一代版本。这些手机预计会集成不同规模的 Gemini 模型。",
-          "link": "https://www.solidot.org/story?sid=78748",
-          "publishedOn": "2024-07-19T14:12:13.000Z",
-          "wordCount": 229,
-          "title": "Google Pixel 9 将集成 Gemini AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78747",
-          "author": null,
-          "description": "派拉蒙旗下的流媒体服务 Paramount+ 砍掉了《光环》真人剧。这部改编自 Xbox 畅销游戏系列的真人剧只播出了两季，第一季 2022 年上映，第二季于 2024 年 2-3 月播出。Paramount+ 没有续订第三季，真人剧制作方 Xbox、Amblin TV 和 343 Industries 将尝试寻找其它平台接手。《光晕》是微软 Xbox 平台最著名的系列游戏作品之一，至今总收入超过了 60 亿美元。真人影视剧的改编历尽了 16 年的波折，但经历重重磨难后的结果并不美好。第一季口碑很差，第二季好于第一季，但已经无法扭转颓势。",
-          "link": "https://www.solidot.org/story?sid=78747",
-          "publishedOn": "2024-07-19T12:07:10.000Z",
-          "wordCount": 184,
-          "title": "Paramount+ 砍掉《光环》真人剧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78746",
-          "author": null,
-          "description": "CrowdStrike 存在问题的软件更新在全世界引发了深远影响，它的安全软件被很多大型组织使用。而这些大型组织一旦罢工，会有无数人受到牵连影响。澳大利亚和新西兰可能是第一批受影响的，澳大利亚的媒体、机场、超市和银行都因此暂停服务，澳大利亚政府为此举行了紧急会议。与此同时，美国联邦航空管理局 (FAA)已经下令主要航空公司停飞直至另行通知为止，欧洲和亚洲使用 CrowdStrike 的机构都受到影响。CrowdStrike 已经承认它是罪魁祸首，正在与其客户合作解决问题。它的股价盘前交易暴跌五分之一。解决该问题的权宜之计是进入安全模式，删除有问题驱动 C:\\Windows\\System32\\drivers\\CrowdStrike\\C-00000291*.sys，然后重启。",
-          "link": "https://www.solidot.org/story?sid=78746",
-          "publishedOn": "2024-07-19T11:22:20.000Z",
-          "wordCount": 167,
-          "title": "CrowdStrike 股价盘前交易暴跌五分之一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78745",
-          "author": null,
-          "description": "根据 Comscore 的《2024 State of Gaming Report》，美国玩免费游戏的玩家有 82% 会进行内购。报告发现，18 岁以上成年人有 62% 会玩游戏，其中千禧一代 49%，Z 时代 13%。接受调查的人中 77% 在多个平台玩游戏，逾三分之一常用游戏机、PC 和移动设备玩游戏。去年美国玩家在游戏网站和应用上花了 450 亿小时，电子竞技成为日益受欢迎的活动。86% 的 Z 世代和 80% 的千禧一代观看电竞，53% 的 Z 世代和 61% 的千禧一代参与电竞内容。",
-          "link": "https://www.solidot.org/story?sid=78745",
-          "publishedOn": "2024-07-19T10:56:37.000Z",
-          "wordCount": 185,
-          "title": "美国逾八成玩家玩免费游戏会内购",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78744",
-          "author": null,
-          "description": "OpenAI 发布了 GPT-4o 模型的小型版本 GPT-4o mini，它将取代 GPT-3.5 Turbo 提供给所有 ChatGPT 用户，包括免费和付费用户。GPT-4o mini 类似 GPT-4o，支持多模，能解释图像、文本和音频，能生成图像。GPT-4o mini 支持 128K 上下文令牌，其数据截至 2023 年 10 月，它的 API 费用比 GPT-3.5 Turbo 低 60%，每百万输入令牌 15 美分，每百万输出令牌 60 美分。GPT-4o mini 将使用名为 instruction hierarchy 的新技术，限制了越狱。",
-          "link": "https://www.solidot.org/story?sid=78744",
-          "publishedOn": "2024-07-19T09:59:36.000Z",
-          "wordCount": 212,
-          "title": "OpenAI 发布替代 GPT-3.5 的 GPT-4o mini",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78743",
-          "author": null,
-          "description": "ESA 披露其盖亚（Gaia）望远镜最近遭遇微流星和太阳风暴的双重打击，但在工程团队的努力下它恢复了正常工作。ESA 称盖亚在四月被微流星高速撞击，在保护罩上留下了一个裂缝，而散射的阳光偶尔会干扰其敏感的传感器。与此同时，盖亚相机使用的 106 个 CCD 之一发生了故障，导致了大量错误。在发生故障的同时，和地球一起，盖亚遭到了太阳风暴。两起事件导致了望远镜产生了大量错误信息。",
-          "link": "https://www.solidot.org/story?sid=78743",
-          "publishedOn": "2024-07-19T09:42:20.000Z",
-          "wordCount": 166,
-          "title": "ESA 盖亚望远镜遭遇微流星和太阳风暴双重打击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78742",
-          "author": null,
-          "description": "日经等机构的分析显示，中国正大量申请生成式 AI 相关专利。根据占世界专利申请数量 8 成的五大专利局（日本国专利厅、美国专利商标局、欧洲专利局、中国国家知识产权局、韩国知识产权局）的数据，中国的生成式 AI 相关专利申请数为 30124 项，远远超过了美国的 12530 项。中国最近几年的专利申请急剧增加。世界五大专利局的统计显示，从 2022 年的专利申请量来看，中国为 162 万项、美国为 59 万项、日本为 29 万项、韩国为 24 万项、欧洲为 19 万项。百度是中国申请生成式 AI 专利最多的公司，有 575 项，其次是腾讯的 561 项。",
-          "link": "https://www.solidot.org/story?sid=78742",
-          "publishedOn": "2024-07-19T07:55:12.000Z",
-          "wordCount": 192,
-          "title": "中国申请了逾三万生成式 AI 专利",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78741",
-          "author": null,
-          "description": "网友通过社交媒体报告了大规模 Windows 蓝屏死机（BSOD）事故，而所有受影响的机器都安装了 Crowdstrike Falcon。澳大利亚和新西兰可能是第一个遭遇该问题的地区，它导致了网站下线服务中断，受影响的机构包括澳大利亚国家广播公司 ABC、四大银行、Foxtel、Telstra 和 NBN 等等。Crowdstrike 是一家网络安全公司，为世界各地的客户提供端点安全、情报威胁和网络攻击的安全服务。它的 Falcon 平台帮助客户实时搜寻和收集数据。这次事故被认为是 Crowdstrike Falcon 最新更新导致的。如果遇到该问题，权宜之计是在安全模式下重命名文件夹 c:\\windows\\system32\\drivers\\crowstrike。",
-          "link": "https://www.solidot.org/story?sid=78741",
-          "publishedOn": "2024-07-19T07:00:45.000Z",
-          "wordCount": 189,
-          "title": "Crowdstrike Falcon 更新导致 Windows 主机蓝屏死机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78740",
-          "author": null,
-          "description": "根据发布的《中国阿尔茨海默病报告2024》，截至 2021年中国阿尔茨海默病及其他痴呆患病人数超过 1699 万例。数据显示，中国的患病率、死亡率等相关数据随着年龄增加不断上升，且女性的相关数据高于男性，其中女性的患病率（1558.9/10万）、死亡率(47.4/10万)高于男性的患病率（846.3/10万）、死亡率（22.5/10万）。\n报告指出，2021 年全球因痴呆导致的死亡人数达 195.5864 万例，其中中国死亡人数为 49.2774 万例，约占全球死亡人数的 25.2%。同时 1990 至 2021年，中国的粗发病率由 59.8/10 万增长到 204.8/10 万，增长 242.5%。发病率较高的省市主要集中在华东、西南和部分东北地区。",
-          "link": "https://www.solidot.org/story?sid=78740",
-          "publishedOn": "2024-07-19T05:26:04.000Z",
-          "wordCount": 182,
-          "title": "中国阿尔茨海默患者人数接近 1700 万",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78739",
-          "author": null,
-          "description": "Google URL Shortener 短链接服务（网址为 https://goo.gl/*）在 2018 年宣布将停止生成新的短链接，但会继续支持现有的短链。现在 Google 官方博客宣布将彻底关闭这项服务。任何使用 Google URL Shortener 构建链接的开发者都将受到影响，这些 URL 在 2025 年 8 月 25 日之后将不再返回响应。从 2024 年 8 月 23 日起，goo.gl 链接将开始为部分现有链接显示插播式页面，通知用户 2025 年 8 月 25 日之后将不再支持该链接，然后再定向到原始目标页面。随着时间显示插页的比例会逐渐提高直至关闭日期，之后所有短链都将返回 404 错误。",
-          "link": "https://www.solidot.org/story?sid=78739",
-          "publishedOn": "2024-07-19T03:50:26.000Z",
-          "wordCount": 203,
-          "title": "Google URL Shortener 即将关闭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78738",
-          "author": null,
-          "description": "安全公司 Red Threat 的研究员 Andrew Lemon 周四发表两篇博文，披露了交通灯控制器漏洞。他在 Q-Free 公司的 Intelight X-1 控制器中发现了一个漏洞，允许任何人完全控制交通灯，该漏洞是因为它暴露在互联网上的 Web 界面无身份验证。他发现可以改变灯和计时，制造出某种交通堵塞，但名叫 Malfunction Management Unit 的设备阻止他将所有交通灯改为同一种颜色。他的团队发现了 30 台暴露在网上的控制器。他联络了 Q-Free，结果是收到了律师函，指控他们的研究涉嫌违反反黑客法律《Computer Fraud and Abuse Act》。",
-          "link": "https://www.solidot.org/story?sid=78738",
-          "publishedOn": "2024-07-18T15:36:48.000Z",
-          "wordCount": 182,
-          "title": "交通灯控制器漏洞允许黑客制造交通堵塞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78737",
-          "author": null,
-          "description": "印度加密货币交易所 WazirX 证实周四有价值 2.3 亿美元的加密货币被可疑的转出该平台。它的一个多重签名钱包被入侵，它暂停了所有提款。根据第三方区块链跟踪服务 Lookchain 的报告，逾 200 种加密货币，其中包括 54.3 亿 SHIB 代币、逾 15,200 以太币代币、2050 万 Matic 代币、6400 亿 Pepe 代币、579 万 USDT 和 1.35 亿个 Gala 代币被从该平台盗走。WazirX 上个月报告它的加密货币资产价值约 5 亿美元。",
-          "link": "https://www.solidot.org/story?sid=78737",
-          "publishedOn": "2024-07-18T14:55:46.000Z",
-          "wordCount": 194,
-          "title": "印度交易所价值约 2.3 亿美元的加密货币被盗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78736",
-          "author": null,
-          "description": "路透的一项调查发现，逾四成日本公司没有使用 AI 的计划，只有不到四分之一的公司在业务中使用 AI。路透委托 Nikkei Research 在 7 月 3 日到 12 日间向 506 家公司提出了一系列问题，有约 250 家公司在匿名情况下做出回应。24% 的公司表示已在业务中使用 AI，35% 的公司计划使用 AI，而 41% 的公司没有此类计划。对于使用 AI 的目标，六成表示是应对人工短缺，53% 是降低劳工成本，36% 表示是加速研发。对于引入 AI 所面临的障碍，有企业表示员工可能会担心被裁员，其它包括缺乏专业人士、需要大量资本支出以及 AI 可靠性存疑。",
-          "link": "https://www.solidot.org/story?sid=78736",
-          "publishedOn": "2024-07-18T14:44:42.000Z",
-          "wordCount": 195,
-          "title": "逾四成日本公司没有使用 AI 的计划",
-          "imageUrl": null
         }
       ]
     },
@@ -1098,6 +1008,26 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/how-to-run-android-without-installing-it",
+          "author": null,
+          "description": "TLDR:  You can instantly connect to an online Android via browserling.com/android. I and my team have run all Android versions on our servers and stream just the Android's screen to your browser (as a video), making it easy to test and experience different versions without needing to install or configure anything on your own device.\nWhat is an Online Android?\nAn online Android is a virtual instance of the Android operating system that runs on remote servers, allowing users to run Android applications and perform tasks without needing a physical device. It's commonly used for app development and website testing, as well as providing direct access to raw adb (Android debug bridge) for advanced debugging and system-level interactions.\nHow to Access Various Android Versions?\nAt Browserling, we…",
+          "link": "https://catonmat.net/how-to-run-android-without-installing-it",
+          "publishedOn": "2024-07-28T22:45:00.000Z",
+          "wordCount": 677,
+          "title": "How to Run Android Without Installing It? (Online Android)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/how-to-access-all-android-versions",
+          "author": null,
+          "description": "TLDR:  You can instantly access all Android versions via browserling.com/android. Created by me and my team, we stream cloud-hosted Android emulators and devices to your browser, making it easy for you to test apps and websites.\nWhat is a Cloud Android?\nA cloud Android is a virtualized instance of the Android operating system hosted on cloud infrastructure, allowing users to run and interact with various Android versions remotely. This setup enables developers and testers to access multiple Android environments without the need for physical devices, allowing flexible testing and development.\nWhich Android Versions Can Be Accessed?\nAt Browserling, we've installed all Android versions on our servers, and we've created a special easy-to-use link scheme that allows you to access them quickly.\n…",
+          "link": "https://catonmat.net/how-to-access-all-android-versions",
+          "publishedOn": "2024-07-28T17:30:00.000Z",
+          "wordCount": 639,
+          "title": "How to Access All Android Versions (Cloud Android)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/browserling-has-all-androids",
           "author": null,
