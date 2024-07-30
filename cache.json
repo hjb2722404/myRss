@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49189",
+          "author": "青小蛙",
+          "description": "HeyForm 是一个开源的表单系统，可以用来收集调查、问卷、用户提交的数据等，比如在发现频道经常有开发者需要收集用户邮箱，使用回帖会对其他用户造成干扰，而使用表单就非常方便。@Appinn 这类工具",
+          "link": "https://www.appinn.com/heyform/",
+          "publishedOn": "2024-07-29T02:35:00.000Z",
+          "wordCount": 2549,
+          "title": "HeyForm – 开源表单系统，可自托管。用来收集用户提交的数据",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-28T231504.579.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49183",
           "author": "青小蛙",
           "description": "这是一个开发者描述为「使用 Android 原生开发的电视直播软件」。另外，网络环境必须支持IPV6（默认直播源），支持 Android 5.x。 目前已经实现的功能： 具体就是…怎么说呢",
@@ -120,26 +130,6 @@
           "wordCount": 3059,
           "title": "为 Windows 10/11 打开微软官方 Windows 沙盒功能",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-22T110442.787.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49072",
-          "author": "青小蛙",
-          "description": "瀑布流本地图片浏览器是一个只有 40KB 的单文件网页程序，可以载入本地图片，并以瀑布流的方式浏览图片，支持放大缩小、自定义调整瀑布流大小。非常适合看图片、漫画等。@Appinn 来自发现频道，开发者",
-          "link": "https://www.appinn.com/masonry-image-viewer/",
-          "publishedOn": "2024-07-20T03:31:18.000Z",
-          "wordCount": 2577,
-          "title": "瀑布流本地图片浏览器：只有 40KB，把不同比例的图片自动排版到A4大小的瀑布流｜可打印为 PDF",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-20T110223.274.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49068",
-          "author": "青小蛙",
-          "description": "Talos Linux 是一款专门为 Kubernetes 设计的安全、最小化、只读的开源 Linux 操作系统，支持云平台、裸机、虚拟化平台，所有系统管理都通过 API 完成，通过将根文件系统挂载为",
-          "link": "https://www.appinn.com/talos-linux/",
-          "publishedOn": "2024-07-20T01:58:45.000Z",
-          "wordCount": 2652,
-          "title": "Talos Linux – 专为 Kubernetes 设计的安全、最小化、只读的 Linux 操作系统",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-19T155604.353.jpg"
         }
       ]
     },
@@ -148,6 +138,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=379318",
+          "author": "Juan Diego Rodríguez",
+          "description": "This post came up following a conversation I had with Emilio Cobos — a senior developer at Mozilla and member of the CSSWG — about the last CSSWG group meeting. I wanted to know what he thought were the …\nLetter Spacing is Broken and There’s Nothing We Can Do About It… Maybe originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/letter-spacing-is-broken-and-theres-nothing-we-can-do-about-it-maybe/",
+          "publishedOn": "2024-07-29T16:41:34.000Z",
+          "wordCount": 2892,
+          "title": "Letter Spacing is Broken and There’s Nothing We Can Do About It… Maybe",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379318"
+        },
         {
           "id": "https://css-tricks.com/?p=379281",
           "author": "John Rhea",
@@ -167,16 +167,6 @@
           "wordCount": 1958,
           "title": "Alvaro Montoro: CSS One-Liners to Improve (Almost) Every Project",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379278"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379180",
-          "author": "Juan Diego Rodríguez",
-          "description": "From June 11–13, the CSS Working Group (CSSWG) held its second face-to-face meeting of the year in Coruña, Spain, with a long agenda of new features and improvements coming to language. If 2023 brought us incredible advances like …\nCSS Stuff I’m Excited After the Last CSSWG Meeting originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-stuff-im-excited-after-the-last-csswg-meeting/",
-          "publishedOn": "2024-07-19T17:16:57.000Z",
-          "wordCount": 4177,
-          "title": "CSS Stuff I’m Excited After the Last CSSWG Meeting",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379180"
         }
       ]
     },
@@ -229,6 +219,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78830",
+          "author": null,
+          "description": "Google Chrome 披露，由于一个没有正确功能保护的产品行为变化导致大量用户在长达 18 个小时内无法访问或找到密码管理器保存的密码。Google 表示它已经部署了修复程序缓解了该问题，它对其服务故障导致的不便表达了歉意。Google 称受影响的是 Windows 平台上的 M127 版 Chrome 浏览器。它向四分之一的用户推送了有问题的配置变更，有 2% 的用户遭遇密码访问问题。Google 表示受影响的用户只需要重启浏览器。鉴于 Chrome 庞大的用户基数，2% 可能多达上千万。",
+          "link": "https://www.solidot.org/story?sid=78830",
+          "publishedOn": "2024-07-29T15:27:21.000Z",
+          "wordCount": 179,
+          "title": "Chrome 服务故障导致部分用户无法访问保存的密码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78829",
+          "author": null,
+          "description": "左翼新闻监督组织 Media Matters for America(MMfA)去年 11 月发表报告称，IBM 等知名企业在 X 平台上投放的广告被展示在反犹纳粹帖子旁边，部分企业随后暂停了 X 上的广告投放，马斯克（Elon Musk）不久在德州对 MMfA 提起诉讼，指控该组织诽谤。这起诉讼引发了一个有趣的疑问：持有特斯拉股票的法官在审判时能否被视为带有偏见？MMFA 律师在递交到法庭的文件中称，本案的结果可能会影响特斯拉的财务，而本案的主审法官 Reed O'Connor 可能持有特斯拉股票，因此与马斯克有经济利益的法官是否能公正裁决此案？目前不清楚法官是否持有股票，但 MMfA 的律师团队发现有纪录显示他在去年拥有特斯拉股票。这意味由于利益相关，法官可能需要回避。",
+          "link": "https://www.solidot.org/story?sid=78829",
+          "publishedOn": "2024-07-29T14:50:33.000Z",
+          "wordCount": 193,
+          "title": "MMFA 主张持有特斯拉股票的法官不应审理马斯克 vs MMFA 的诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78828",
+          "author": null,
+          "description": "记忆的很多方面会受到衰老的影响，但根据发表在 PLoS ONE 期刊上的一项研究，音乐的记忆不会随着年龄而逐渐消失。研究人员测试了一组 90 名年龄在 18 岁到 86 岁之间的健康成年人，参与者是在一场音乐会上招募的，因此他们都熟悉音乐。研究人员测试了他们在音乐会现场识别熟悉和不熟悉音乐主题的能力。对照组的 31 人则是在实验室里听录音。参与者听了三首乐曲，其中一首被认为是大多数人都熟悉的莫扎特的《小夜曲（Eine kleine Nachtmusik）》，还有两首是专门委托创作的实验性歌曲，一首有调性一首无调性。结果显示，无论年龄所有人都熟悉《小夜曲》，年龄增长并没有降低识别率。对于两首实验性歌曲，大部分人的感受也基本相同。对照组的情况基本一致。研究人员猜测这可能与音乐能唤起情绪以及富有规则性有关。",
+          "link": "https://www.solidot.org/story?sid=78828",
+          "publishedOn": "2024-07-29T13:04:38.000Z",
+          "wordCount": 170,
+          "title": "音乐的记忆不会随着年龄而逐渐消失",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78827",
+          "author": null,
+          "description": "西部马脑炎病毒(Western equine encephalitis virus 或 WEEV)的菌株曾在马和人类之间引发严重脑炎，在人类身上的致命率曾达到 15%，但如今它不再对人类构成威胁，原因是它的刺突蛋白不再识别人类受体。研究人员发现，病毒的部分早期菌株可以将刺突蛋白粘附在几种不同类型的受体上，从而进入动物细胞。对于它不再感染人类，研究人员假设病毒已经进化，也许是因为马可以接种疫苗，并且在农业或交通运输行业不再普遍到足以作为病毒的有效放大器。研究人员指出，病毒可能是通过简单的抗原漂移进化而来的，这是一个随机突变导致病毒基因组发生一系列微小变化的过程，随着时间的推移，这些变化可能最终改变病毒与宿主相互作用的方式。研究人员说，不管是什么原因，病毒刺突蛋白形状的细微变化改变了病毒可能与之连接的细胞受体。",
+          "link": "https://www.solidot.org/story?sid=78827",
+          "publishedOn": "2024-07-29T12:43:35.000Z",
+          "wordCount": 163,
+          "title": "一种致命病毒如何演化出不感染人类",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78826",
+          "author": null,
+          "description": "欧洲数据保护监管机构正“寻求澄清”马斯克(Elon Musk)旗下 X 公司允许用户数据自动输入其人工智能初创企业 xAI 的决定，给这个社交媒体平台带来了新的监管审查。上周五 X 用户发现他们被“选择加入”了将他们在该网站上的帖子以及与其 Gro k聊天机器人的互动用于“训练和优化”xAI 系统的行为。此举未事先获得用户明确同意，且相关设置只能在桌面版本上修改，用户目前无法通过移动 APP 选择退出数据共享。爱尔兰数据保护委员会表示“寻求 X 对此进行澄清”。隐私专家认为 X 此举违反了欧盟的 GDPR（General Data Protection Regulation）规定，该规定要求收集或使用个人数据的公司首先征得个人同意并披露原因。如果爱尔兰监管机构启动 GDPR 调查，X 可能会面临处罚。",
+          "link": "https://www.solidot.org/story?sid=78826",
+          "publishedOn": "2024-07-29T10:12:07.000Z",
+          "wordCount": 191,
+          "title": "X 平台因 AI 数据使用问题面临监管机构质询",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78825",
+          "author": null,
+          "description": "洛杉矶威尔郡大道(Wilshire)警局发出警告，一部分盗贼正利用干扰设备干扰 Wi-Fi 安全摄像头，在闯入室内前使摄像头停止工作。警方称这些盗贼相当专业，分工明确，有专门放哨的人，他们会从二楼闯入，抢劫珠宝和名牌皮包等高价值但体积小巧的物品。警方建议居民继续使用苹果 Air Tags 去标记汽车或钱包等贵重物品，以及与 Wi-Fi 提供商讨论如何硬接线防盗警报系统。警方还建议居民在外出度假时不要通过社交媒体广而告之。",
+          "link": "https://www.solidot.org/story?sid=78825",
+          "publishedOn": "2024-07-29T09:31:23.000Z",
+          "wordCount": 171,
+          "title": "盗窃者利用干扰设备干扰 Wi-Fi 安全摄像头",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78824",
+          "author": null,
+          "description": "网信办和公安部发布了《国家网络身份认证公共服务管理办法（征求意见稿）》，意见截至反馈日期 2024 年 8 月 25 日。《意见稿》称：",
+          "link": "https://www.solidot.org/story?sid=78824",
+          "publishedOn": "2024-07-29T08:15:37.000Z",
+          "wordCount": 169,
+          "title": "网信办发布《国家网络身份认证公共服务管理办法（征求意见稿）》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78823",
+          "author": null,
+          "description": "2007 年，中国研究员 icelord 在 CSDN 发表了一篇博文，介绍了 BIOS Rootkit 的一种简单实现。2011 年，被称为 Mebromi 的 BIOS Rootkit 实现走到了现实生活里。2012 年行业联盟宣布采用 Secure Boot 去抵御 BIOS 恶意程序。Secure Boot 基于 BIOS 继任者 UEFI，它使用公钥加密阻止加载任何未使用预批准数字签名签名的代码。固件安全供应商 Binarily 上周发布的报告显示，戴尔、宏碁、富士通、技嘉、惠普、英特尔、联想和超微销售的数百款 PC 使用了 2022 年泄露的测试平台密钥(PK)保护其 UEFI Secure Boot 实现。加密密钥的泄露意味着 Secure Boot 所提供的安全保护被破坏了。泄露密钥由 AMI 创建，主要提供给客户测试用，但测试密钥却不知何故进入了产品中，而且在这些公司的 PC 产品中共享。Binarly 创始人兼 CEO Alex Matrosov 指出，想象一下，一栋公寓楼所有住客都有相同的前门锁和钥匙。如果有人丢失钥匙，整栋楼都会出问题。更糟的情况是，其它建筑物也使用了相同的锁和钥匙。总共有 215 款 PC 受到影响，你可以检查下自己使用的 PC 型号是否名单中。",
+          "link": "https://www.solidot.org/story?sid=78823",
+          "publishedOn": "2024-07-29T08:05:53.000Z",
+          "wordCount": 231,
+          "title": "数百款 PC 的 Secure Boot 使用了泄露的密钥",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78822",
+          "author": null,
+          "description": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 6.11-rc1。主要新变化包括：初步支持部分高通 Snapdragon X1 笔记本电脑，改进 Zen4 线程撕裂者的性能，AMD P-State 驱动支持 AMD Core Performance Boost 和 Fast CPPC，英特尔 CPU 性能事件改进，初步支持英特尔的 Xe2 Battlemage 和 AMD 的 RDNA4 (GFX12)显卡，UBIFS 加强了对断电的保护，定义了最低 Rust 工具链版本，vDSO 的 getrandom()，EXT4 性能优化，等等。",
+          "link": "https://www.solidot.org/story?sid=78822",
+          "publishedOn": "2024-07-29T06:30:21.000Z",
+          "wordCount": 198,
+          "title": "Linux 6.11-rc1 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78821",
+          "author": null,
+          "description": "微软在 2014 年完全终止了对 Windows XP 的支持，10 年后一台没有保护的 XP 系统联网的话会发生什么？它被恶意程序入侵的速度有多快？在几小时内 Malwarebytes 观察到了八种不同的病毒/木马，一个 DNS 改变器，一个新的用户账号，他甚至还打开了 Internet Explorer。Windows XP 相比今天的主流操作系统明显缺乏安全保障，但仍然有很多人使用它。根据 Statcounter 的统计，在中国 XP 占到了所有 Windows 版本的 1.48%，如果有一亿台 Windows 机器的话，那么运行 XP 的机器仍然数以百万计。",
+          "link": "https://www.solidot.org/story?sid=78821",
+          "publishedOn": "2024-07-29T06:08:56.000Z",
+          "wordCount": 204,
+          "title": "在 2024 年用 Windows XP 上网会发生什么",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78819",
           "author": null,
@@ -898,36 +988,6 @@
           "wordCount": 170,
           "title": "好奇号漫游车发现由纯硫构成的岩石",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78752",
-          "author": null,
-          "description": "演化论认为，分配给生育的资源和分配给自我维持的资源之间存在权衡，预测生育更多的后代意味着更短的寿命。芬兰赫尔辛基大学的研究人员在预印本平台 bioRxiv 上发表了一篇尚未通过同行评议的论文，通过分析女双胞胎的数据去调查生育对衰老和寿命的影响。他们的结果表明，早育、多次怀孕或未生育都会加速衰老加速和增加死亡风险。为什么未育女性与加速衰老和短寿有关？研究人员给出的解释是：健康状况不佳或高风险生活方式都会减少生育可能性，这些因素都会增加死亡风险和加速衰老；妊娠和哺乳能对激素癌症等特定疾病起到保护作用。早产也与不利的社会经济背景有关，与晚年肥胖风险和行动不便，以及低教育程度、职业发展受限和高离婚风险有关。推迟怀孕与更健康的生活方式、以及更缓慢的衰老相关，也与更有利的社会经济因素相关。",
-          "link": "https://www.solidot.org/story?sid=78752",
-          "publishedOn": "2024-07-20T02:58:21.000Z",
-          "wordCount": 159,
-          "title": "女性繁育后代加速衰老和死亡",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78751",
-          "author": null,
-          "description": "根据 Netblocks 的监测，孟加拉国的互联网和移动服务已被切断了一整天。过去几天，该国发生了大规模抗议，当地媒体表示本周至少有 28 人死亡。总理 Sheikh Hasina 在 1 月的选举中获得了第五个任期以及第四次连任，这次选举遭到了反对派的抵制，几周前开始出现了反政府抗议，本周一抗议急剧升级。周四学生试图对国家实施“全面封锁”，随后互联网就被切断了。周五上午，首都达卡的互联网服务和移动数据中断，Facebook 和 WhatsApp 等社交媒体平台无法访问。抗议者要求结束配额制，该制度将多达三成的政府职位留给参加 1971 年孟加拉国独立战争的退伍军人亲属。学生认为该制度具有歧视性，有利于总理的支持者，他们希望推行基于绩效的制度。",
-          "link": "https://www.solidot.org/story?sid=78751",
-          "publishedOn": "2024-07-19T16:36:20.000Z",
-          "wordCount": 171,
-          "title": "学生抗议孟加拉国切断了全国的互联网",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78750",
-          "author": null,
-          "description": "根据发表在《Nature Ecology & Evolution》期刊上的一项研究，地球水体的溶解氧正在迅速减少。大气中的氧气对人类等动物至关重要，而水体中的氧气对水生生态系统也至关重要。全世界有数十亿人依靠海洋和淡水生态系统获取食物和收入，然而令人担忧的是水生生态系统的氧气在快速下降。导致溶解氧浓度下降的原因可能包括：温室气体排放使空气和水温高于其长期的平均水平，地表水日益难以留住氧气；农业和生活肥料、污水和工业废物等有机物和营养物质涌入水域导致了藻花和细菌爆发式增加，迅速消耗掉了可用的溶解氧。在最糟糕的情况下，氧气耗尽，微生物窒息而死，较大型的物种也跟着死亡。不依赖氧气的微生物种群吞食死亡的有机物质，生长到一定密度后会导致光照减少、光合作用受限，整个水体陷入了富营养化的恶性循环。研究人员呼吁制定政策，监测和防止溶解氧继续减少。",
-          "link": "https://www.solidot.org/story?sid=78750",
-          "publishedOn": "2024-07-19T16:11:58.000Z",
-          "wordCount": 160,
-          "title": "地球水体溶解氧迅速减少",
-          "imageUrl": null
         }
       ]
     },
@@ -1009,6 +1069,36 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/what-is-an-online-android",
+          "author": null,
+          "description": "TLDR: You can instantly connect to an online Android via browserling.com/android. I and my team have virtualized Androids and we stream the Android's screen to you. This is ideal for app testing, web development, and mobile browsing.\nOnline Android – What Is It?\nAn online Android is a virtualized version of the Android operating system hosted in the cloud, which is accessible through a web browser without requiring local installation. This cloud-based Android environment allows users to interact with an Android phone or tablet as if they held a physical device. It offers convenient access for app testing, development, cross-browser testing, and remote usage, providing a flexible platform for developers and testers. Additionally, it can be used for running Android apps on non-Android device…",
+          "link": "https://catonmat.net/what-is-an-online-android",
+          "publishedOn": "2024-07-29T21:52:00.000Z",
+          "wordCount": 1192,
+          "title": "What is an Online Android? (And How To Get One)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/browserling-android-8",
+          "author": null,
+          "description": "Super exciting news!\nWe've just added Android 8 and 8.1 (codename Oreo) to Browserling!\nYou can now test your websites and applications on the newest Android version.\nYou can try both versions via these quick browsing links:\nbrowserling.com/android/8.1 (Opens Android 8.1)\nbrowserling.com/android/8 (Opens Android 8)\nClick these link and you'll instantly get an Android in your browser!\nWhat's New in Android 8?\nPicture-in-Picture Mode\nThis new feature allows users to multitask with ease by enabling a floating window for video playback while using other apps.\nNotification Channels\nAndroid 8 introduces a customizable system for managing notifications, allowing users to control different types of notifications from a single app individually.\nAutofill Framework\nThe autofill framework streamlines …",
+          "link": "https://catonmat.net/browserling-android-8",
+          "publishedOn": "2024-07-29T20:15:00.000Z",
+          "wordCount": 771,
+          "title": "Browserling now has Android 8 and 8.1!",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/olympic-sale",
+          "author": null,
+          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated Olympic Sale sales campaign.\nNow once every 4 years, during the Olympic Games, we show a 50% discount offer to all users who visit our site.\nRun automated sales too and see you next time!",
+          "link": "https://catonmat.net/olympic-sale",
+          "publishedOn": "2024-07-29T18:50:00.000Z",
+          "wordCount": 327,
+          "title": "Olympic Sale",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/how-to-run-android-without-installing-it",
           "author": null,
           "description": "TLDR:  You can instantly connect to an online Android via browserling.com/android. I and my team have run all Android versions on our servers and stream just the Android's screen to your browser (as a video), making it easy to test and experience different versions without needing to install or configure anything on your own device.\nWhat is an Online Android?\nAn online Android is a virtual instance of the Android operating system that runs on remote servers, allowing users to run Android applications and perform tasks without needing a physical device. It's commonly used for app development and website testing, as well as providing direct access to raw adb (Android debug bridge) for advanced debugging and system-level interactions.\nHow to Access Various Android Versions?\nAt Browserling, we…",
@@ -1026,6 +1116,16 @@
           "publishedOn": "2024-07-28T17:30:00.000Z",
           "wordCount": 639,
           "title": "How to Access All Android Versions (Cloud Android)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/browserling-android-9",
+          "author": null,
+          "description": "Super exciting news!\nWe've just added Android 9 (codename Pie) to Browserling!\nYou can now test your websites and applications on the newest Android version.\nYou can try the new Android version via this quick browsing URL:\nbrowserling.com/android/9\nClick this link and you'll instantly get an Android in your browser!\nWhat's New in Android 9?\nAdaptive Battery\nAndroid 9 uses machine learning to prioritize battery power for the apps and services you use most often, extending battery life.\nApp Actions\nThis feature predicts what you'll want to do next based on your context and displays that action right on your device, such as starting your commute or resuming a playlist.\nSlices\nSlices allow a UI template to display rich, dynamic content from your app from within the Google Search app and in Ass…",
+          "link": "https://catonmat.net/browserling-android-9",
+          "publishedOn": "2024-07-27T09:27:10.000Z",
+          "wordCount": 760,
+          "title": "Browserling now has Android 9!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         },
         {
@@ -1049,6 +1149,16 @@
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         },
         {
+          "id": "https://catonmat.net/browserling-android-10",
+          "author": null,
+          "description": "Super exciting news!\nWe've just added Android 10 to Browserling!\nYou can now test your websites and applications on the newest Android version.\nYou can try the new Android version via this quick browsing URL:\nbrowserling.com/android/10\nClick this link and you'll instantly get an Android in your browser!\nWhat's New in Android 10?\nSystem-wide Dark Theme\nAndroid 10 introduces a system-wide dark theme that reduces eye strain and improves battery life on OLED displays.\nGesture Navigation\nThe new gesture-based navigation system allows for smoother and more intuitive navigation with swipes and pulls replacing traditional buttons.\nPrivacy Controls\nEnhanced privacy features give users more control over app permissions, including location, microphone, and camera access.\nFocus Mode\nFocus Mode helps u…",
+          "link": "https://catonmat.net/browserling-android-10",
+          "publishedOn": "2024-07-25T15:16:35.000Z",
+          "wordCount": 690,
+          "title": "Browserling now has Android 10!",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/browserling-android-14",
           "author": null,
           "description": "Super exciting news!\nWe've just added Android 14 to Browserling!\nYou can now test your websites and applications on the newest Android version.\nYou can try it now via this quick link:\nbrowserling.com/android/14\nClick this link and you'll instantly get an Android in your browser!\nYou can also access earlier Android versions by changing the Android version in the quick link to the one you need:\nbrowserling.com/android/13 – Android 13\nbrowserling.com/android/12.1 – Android 12.1 (also known as 12L)\nbrowserling.com/android/12 – Android 12\nbrowserling.com/android/11 – Android 11\nbrowserling.com/android/10 – Android 10\nbrowserling.com/android/9 – Android 9 (Pie)\nbrowserling.com/android/8.1 – Android 8.1 (Oreo)\nbrowserling.com/android/8 – Android 8 (Oreo)\nbrowserling.com/android/7.1 – Android 7.1 (Nougat)\nbrowserling.com/android/7 – Android 7 (Nougat)\nbrowserling.com/android/6 – Android 6 (Marshmallow)\nbrowserling.com/android/5.1 – Android 5.1 (Lollipop)\nbrowserling.com/android/5 – Android 5 (Lollipop)\nbrowserling.com/android/4 – Android 4 (KitKat)\nWhat Is Browserling?\nBrowserling is a cloud-based platform that provides users with instant access to online Android devices directly within their web browser. It allows developers to test their websites and applications on various Android versions, including the latest Android 14.\nWho Uses Browserling?\nBrowserling has now become the mobile cloud computing platform of choice for web developers, application developers, and testers, and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, Fortune 100, Fortune 500 companies, and private multi-billion dollar companies.\nHappy testing!",
@@ -1056,6 +1166,16 @@
           "publishedOn": "2024-07-24T17:54:00.000Z",
           "wordCount": 507,
           "title": "Browserling now has Android 14!",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/browserling-android-11",
+          "author": null,
+          "description": "Super exciting news!\nWe've just added Android 11 to Browserling!\nYou can now test your websites and applications on the newest Android version.\nYou can try the new Android version via this quick browsing URL:\nbrowserling.com/android/11\nClick this link and you'll instantly get an Android in your browser!\nWhat's New in Android 11?\nConversation Notifications\nAndroid 11 introduces a dedicated section in the notification shade for ongoing conversations, making it easier to manage messages from different apps.\nBubbles\nBubbles allow for multitasking by enabling messaging apps to display conversations in floating windows, similar to Facebook Messenger's chat heads.\nBuilt-in Screen Recording\nNative screen recording with audio support from the mic, device, or both, without needing third-party apps.\n…",
+          "link": "https://catonmat.net/browserling-android-11",
+          "publishedOn": "2024-07-24T10:04:27.000Z",
+          "wordCount": 690,
+          "title": "Browserling now has Android 11!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         },
         {
@@ -1076,6 +1196,26 @@
           "publishedOn": "2024-07-21T21:54:00.000Z",
           "wordCount": 319,
           "title": "5 Million Google Clicks 🤩",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/browserling-android-12",
+          "author": null,
+          "description": "Super exciting news!\nWe've just added Android 12 and 12.1 to Browserling!\nYou can now test your websites and applications on the newest Android version.\nYou can try both versions via these quick browsing links:\nbrowserling.com/android/12.1 (Opens Android 12.1/12L)\nbrowserling.com/android/12 (Opens Android 12)\nClick these link and you'll instantly get an Android in your browser!\nWhat's New in Android 12?\nMaterial You Design\nAndroid 12 introduces the \"Material You\" design language, allowing for dynamic and personalized UI elements that adapt to user preferences and system colors.\nEnhanced Privacy Dashboard\nA comprehensive privacy dashboard offers a clear overview of app permissions and usage, allowing users to manage their data more effectively.\nQuick Settings Overhaul\nRedesigned Quick Setti…",
+          "link": "https://catonmat.net/browserling-android-12",
+          "publishedOn": "2024-07-21T19:09:00.000Z",
+          "wordCount": 790,
+          "title": "Browserling now has Android 12 and 12.1 (12L)!",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/browserling-android-13",
+          "author": null,
+          "description": "Super exciting news!\nWe've just added Android 13 to Browserling!\nYou can now test your websites and applications on the newest Android version.\nYou can try the new Android version via this quick browsing URL:\nbrowserling.com/android/13\nClick this link and you'll instantly get an Android in your browser!\nWhat's New in Android 13?\nEnhanced Privacy Controls\nAndroid 13 introduces a new photo picker that limits apps' access to photos and videos, offering users more granular control over shared media.\nImproved Notification Permissions\nApps now require explicit user permission to send notifications, enhancing user control over app interruptions.\nMulti-User Support\nAndroid 13 allows multiple user profiles, making device sharing more practical and secure.\nPer-App Language Preferences\nUsers can now …",
+          "link": "https://catonmat.net/browserling-android-13",
+          "publishedOn": "2024-07-20T17:57:28.000Z",
+          "wordCount": 682,
+          "title": "Browserling now has Android 13!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
