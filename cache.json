@@ -12,6 +12,31 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49206",
+          "author": "青小蛙",
+          "description": "侧边书签栏是一款将Chrome/Edge 浏览器书签显示在侧边栏的扩展，不过有一个特别的功能：加密书签，需要输入密码才能访问的书签。@Appinn 是的，总有一些网址，是需要加密起来的。 来自发现频道",
+          "link": "https://www.appinn.com/chrome-sidebar-bookmarks/",
+          "publishedOn": "2024-07-31T02:30:00.000Z",
+          "wordCount": 2557,
+          "title": "侧边书签栏 – 需要输入密码才能访问的侧边栏书签[Chrome/Edge]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-30T195934.452.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=48959",
+          "author": "青小蛙",
+          "description": "IShell 是一款新鲜的轻量级高性能 SSH 工具，支持 Windows、macOS 与 Linux，内置 AI，可批量同时向多台服务器发送指令、多标签页，支持自定义指令、可视化文件上传/下载，监控",
+          "link": "https://www.appinn.com/ishell/",
+          "publishedOn": "2024-07-30T05:57:41.000Z",
+          "wordCount": 2683,
+          "title": "IShell – 支持 AI，可批量管理服务器的跨平台 SSH 终端工具",
+          "enclosure": {
+            "url": "https://www.appinn.com/wp-content/uploads/2024/07/Screen-Appinn-2024-07-09-at-13.39.34.1.mp4",
+            "length": "0",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-09T113704.801.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49189",
           "author": "青小蛙",
           "description": "HeyForm 是一个开源的表单系统，可以用来收集调查、问卷、用户提交的数据等，比如在发现频道经常有开发者需要收集用户邮箱，使用回帖会对其他用户造成干扰，而使用表单就非常方便。@Appinn 这类工具",
@@ -110,26 +135,6 @@
           "wordCount": 2586,
           "title": "提醒英雄 – 把重要事项牢牢钉在你的锁屏界面，彻底解决你的遗忘问题! [iPhone]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-22T172004.762.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49084",
-          "author": "青小蛙",
-          "description": "我们的老朋友数码荔枝，最近开启了「正版七月惠」活动！会场精选了一批系统增强工具和办公软件，快来看看有没有你期待的那一款吧～ 活动时间即日起至 7 月 31 日，会场商品低至 6 折： 还有大批实用办公",
-          "link": "https://www.appinn.com/lizhi-july/",
-          "publishedOn": "2024-07-22T07:39:12.000Z",
-          "wordCount": 2801,
-          "title": "数码荔枝正版七月惠，优效日历、AlDente、iCollections 折扣来袭，会场软件 6 折起！",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-22T145957.594.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49078",
-          "author": "青小蛙",
-          "description": "Windows 沙盒是微软为 Windows 10 专业版/企业版或者 Windows 11 中提供的功能，可以安全地在隔离状态下运行应用程序。不过默认并没有安装，需要使用 Windows 功能来安装",
-          "link": "https://www.appinn.com/windows-sandbox/",
-          "publishedOn": "2024-07-22T03:45:55.000Z",
-          "wordCount": 3059,
-          "title": "为 Windows 10/11 打开微软官方 Windows 沙盒功能",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/07/Appinn-feature-images-2024-07-22T110442.787.jpg"
         }
       ]
     },
@@ -138,6 +143,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=378995",
+          "author": "Geoff Graham",
+          "description": "Most days, I’m writing vanilla CSS. Thanks to CSS variables and nesting, I have fewer reasons to reach for Sass or any other preprocessor. The times I reach for Sass tend to be when I need a @mixin to loop …\nCSS Functions and Mixins Module Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-functions-and-mixins-module-notes/",
+          "publishedOn": "2024-07-31T20:25:35.000Z",
+          "wordCount": 2939,
+          "title": "CSS Functions and Mixins Module Notes",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378995"
+        },
+        {
+          "id": "https://css-tricks.com/?p=379392",
+          "author": "Geoff Graham",
+          "description": "It’s been a few months out since A Book Apart closed shop. I’m sad about it, of course. You probably are, too, if you have one of their many brightly-colored paperbacks sitting on a bookshelf strategically placed as a backdrop …\nWhere You Can Still Get A Book Apart Titles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/where-you-can-still-get-a-book-apart-titles/",
+          "publishedOn": "2024-07-31T14:52:44.000Z",
+          "wordCount": 1917,
+          "title": "Where You Can Still Get A Book Apart Titles",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379392"
+        },
         {
           "id": "https://css-tricks.com/?p=379381",
           "author": "Geoff Graham",
@@ -229,6 +254,176 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=78852",
+          "author": null,
+          "description": "华盛顿州立大学的一项研究发现，在产品描述中使用术语 AI 会降低消费者的购买意愿。研究人员调查了逾千名美国成年人，发现在产品描述中提及 AI 会削弱情感信任，降低购买意愿。例如，参与者查看了与智能电视相关的描述，一组的描述中有 AI，另一组没有，结果看到产品描述含有 AI 的一组人表示他们不太可能购买这款电视机。对于高风险的产品和服务如医疗设备和金融服务，术语 AI 会激起更加强烈的负面反应。",
+          "link": "https://www.solidot.org/story?sid=78852",
+          "publishedOn": "2024-07-31T14:01:23.000Z",
+          "wordCount": 173,
+          "title": "在产品描述中使用术语 AI 会降低购买意愿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78851",
+          "author": null,
+          "description": "澳大利亚将率先在全世界开始为婴儿提供免费的花生过敏症治疗。花生引发的过敏症在最严重时可能会致命。澳大利亚被称为“世界过敏之都”，每 10 个婴儿中就有 1 个被诊断患有食物过敏症。花生过敏影响 3% 的 12 个月大的澳大利亚婴儿，这种过敏通常会伴随终身。澳大利亚政府提供的治疗针对的是不到 12 个月的婴儿，符合条件的婴儿将每天给予逐渐增加剂量的花生粉，持续至少两年，以降低花生敏感性。项目负责人表示，部分婴儿可能会出现过敏反应，但对大多数儿童而言，症状将是轻微的，不需要治疗。",
+          "link": "https://www.solidot.org/story?sid=78851",
+          "publishedOn": "2024-07-31T13:36:17.000Z",
+          "wordCount": 166,
+          "title": "澳大利亚率先开始为婴儿治疗花生过敏症",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78850",
+          "author": null,
+          "description": "United Launch Alliance 周二在佛罗里达州卡纳维拉尔角太空军基地发射了最后一枚 Atlas V 火箭，执行机密军事任务。这是 Atlas V 火箭自 2002 年首次亮相以来的第 101 次发射，为 2007 年以来第 58 次也是最后一次执行机密军事任务，它标志着五角大楼结束了使用俄罗斯引擎的历史。这枚 Atlas V 火箭使用了俄制 RD-180 引擎和 5 个捆绑式固体燃料助推器。Atlas V 的研发始于 1990 年代，当时美国的政策允许使用俄罗斯引擎以帮助该国的航天行业，以免航空工程师被伊朗或朝鲜等国雇佣。2022 年在全面入侵乌克兰之后俄罗斯停止了向美国出口 RD-180，最后一批 RD-180 是在 2021 年交付的，交付总数为 122 台，早期订单的单价约 1000 万美元。 Atlas V 还将执行 15 次发射任务，主要是为商业客户和 NASA 发射有效载荷。未来美国的火箭将全部由美国制造。",
+          "link": "https://www.solidot.org/story?sid=78850",
+          "publishedOn": "2024-07-31T12:00:07.000Z",
+          "wordCount": 201,
+          "title": "美国军方发射了最后一枚使用俄罗斯引擎的火箭",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78849",
+          "author": null,
+          "description": "苹果研究人员发表了一篇论文《Apple Intelligence Foundation Language Models》，详细谈论了用 Google 的  TPU v4 和 TPU v5 训练其 AI 模型。今天绝大多数 AI 模型都是用英伟达的 GPU 训练的，但苹果没有选择英伟达的硬件。如果你知道两家公司合作历史，应该知道苹果对英伟达是非常不信任的，在英伟达如日中天的 AI 时代苹果看起来也不打算和英伟达修复关系。苹果的服务器端 AI 模型 AFM-server 使用了 8,192 个 TPU v4 芯片训练，客户端的 AFM-on-device 使用了 2,048 个 TPU v5 芯片训练。AFM-on-device 有不到 30 亿个参数，苹果声称其模型击败了部分 Meta、OpenAI、Anthropic 和 Google 的模型。AFM-on-device 总体上赢了 Gemma 7B、Phi 3 Mini 和 Mistral 7B，但未能超越 LLaMa 3 8B。",
+          "link": "https://www.solidot.org/story?sid=78849",
+          "publishedOn": "2024-07-31T10:48:57.000Z",
+          "wordCount": 226,
+          "title": "苹果仍然嫌恶英伟达，使用 Google 硬件训练 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78848",
+          "author": null,
+          "description": "根据 Zscaler ThreatLabz 的一份报告，一家财富 50 强企业今年初向勒索软件组织 Dark Angels 支付了创纪录的 7500 万美元赎金。此前已知金额最高的赎金是保险公司 CNA 向 Evil Corp 组织支付的 4000 万美元赎金。报告没有披露是哪家公司，但根据财富 50 强和攻击时间可以推断是制药巨头 Cencora。Cencora 在今年 2 月遭到了网络攻击，但没有一个组织宣布对此负责，这可能意味着该公司已经支付了赎金，Cencora 在财富 50 强企业中排名第 10。Dark Angels 专门瞄准少数高价值的目标以获取高额赎金，而不是同时针对多家公司获取多笔金额较小的赎金。它通常一次只攻击一个大公司，运作模式与大多数勒索软件组织不相同。",
+          "link": "https://www.solidot.org/story?sid=78848",
+          "publishedOn": "2024-07-31T08:43:29.000Z",
+          "wordCount": 202,
+          "title": "Dark Angels 勒索软件组织收到了创纪录的 7500 万美元赎金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78847",
+          "author": null,
+          "description": "特斯拉发出了大规模召回计划，以修复汽车在驾驶过程中引擎盖闩锁能打开的故障。受影响汽车超过 180 万辆，其中包括 2021-2024 款 Model 3（2020 年 9 月 21 日至 2024 年 6 月 2 日间生产）、2021-2024 款 Model S（2021 年 1 月 26 日至 2024 年 7 月 15 日间生产）、2021-2024 款 Model X（2021 年 8 月 18 日至 2024 年 7 月 15 日间生产）和 2020-2024 款 Model Y（2020 年 1 月 9 日至 2024 年 7 月 15 日之间生产）。特斯拉是在今年 3 月首次发现该问题，原因是中国客户投诉引擎盖意外打开。特斯拉在 4 月确认问题在于引擎盖闩锁开关变形。",
+          "link": "https://www.solidot.org/story?sid=78847",
+          "publishedOn": "2024-07-31T08:20:38.000Z",
+          "wordCount": 228,
+          "title": "特斯拉召回 180 万辆引擎盖能在驾驶过程中打开的汽车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78846",
+          "author": null,
+          "description": "美国消费者产品安全委员会 (CPSC) 的测试发现，亚马逊平台销售的逾 40 多万件第三方产品存在严重安全风险，会导致死亡和触电，但亚马逊未能充分警告其客户。CPSC 投票一致决定让亚马逊对第三方卖家的缺陷产品承担法律责任，亚马逊被要求制定召回这些危险商品的计划，该计划将需要获得 CPSC 的批准，相关产品包括了高度易燃的儿童睡衣、有故障的一氧化碳探测器，可能导致触电的不安全吹风机，CPSC 担心这些问题商品在美国家庭中仍然被广泛使用。对这一裁决亚马逊已经表示将上诉。相关商品的销售发生在 2018-2021 年之间，亚马逊没有召回而是发出了警告，向受影响客户提供了礼品卡，让他们自行销毁商品。",
+          "link": "https://www.solidot.org/story?sid=78846",
+          "publishedOn": "2024-07-31T07:20:05.000Z",
+          "wordCount": 174,
+          "title": "亚马逊被要求召回其平台销售的 40 万件能导致死亡和触电的商品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78845",
+          "author": null,
+          "description": "研究人员发现，遵循富含维生素和矿物质的饮食，尤其是不添加太多糖的饮食，与细胞水平上更年轻的生物年龄之间相关。参与这项研究的女性每天摄入的添加糖从 2.7 克至 316 克不等，平均每天摄入量为 61.5 克。而FDA 建议成年人每天摄入的添加糖不超过 50 克。研究人员研究了三种不同的健康饮食安排如何影响“表观遗传时钟”。他们发现，人们吃得越健康，细胞看起来就越年轻。其中坚持地中海饮食与较低的表观遗传年龄相关性最强。研究还发现，即使饮食健康，人们摄入的每 1 克添加糖也与表观遗传年龄的增加相关。研究人员表示，表观遗传模式似乎是可逆的，如果坚持每天减少摄入 10 克添加糖，可能相当于将表观遗传时钟逆转 2.4 个月。",
+          "link": "https://www.solidot.org/story?sid=78845",
+          "publishedOn": "2024-07-31T06:18:48.000Z",
+          "wordCount": 172,
+          "title": "低糖饮食与更年轻生物年龄相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78844",
+          "author": null,
+          "description": "根据发表在 PNAS 期刊上的一项研究，脸和名字之间的相似性是一种自我实现的预言。研究发现，一个人的脸会随着名字的变化而进化。研究人员试图确定父母是根据婴儿的外表选择婴儿的名字，还是相反的过程——随着时间的推移，个体的面部外观会随着父母给他们起的名字而变化。在实验中，9 到 10 岁的儿童和成人被要求将面孔和名字相匹配。研究结果显示，儿童和成人都能正确地将成人的面孔和他们相应的名字匹配起来，显著高于概率水平。然而当涉及到孩子的面孔和名字时，参与者无法做出准确的联想。研究人员得出结论，一个人的脸和名字之间的相似性是一种自我实现的预言。在很长一段时间内，面部外观会发生变化，以符合与这个名字相关的社会刻板印象。",
+          "link": "https://www.solidot.org/story?sid=78844",
+          "publishedOn": "2024-07-31T06:01:17.000Z",
+          "wordCount": 162,
+          "title": "脸和名字之间的相似性是一种自我实现的预言",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78843",
+          "author": null,
+          "description": "俄罗斯议会周二通过了一项法案，允许企业在国际贸易中使用加密货币进行交易，此举是规避国际制裁的努力之一。该法案预计将于 9 月生效，央行行长 Elvira Nabiullina 表示首批交易将在年底前进行。根据新法，央行将为加密货币支付创建一个实验性基础设施，相关细节尚未披露。新法没有解除俄罗斯境内对加密货币交易的支付禁令。俄罗斯央行表示，付款延迟成为俄罗斯经济面临的一大挑战，导致 2024 年二季度进口下降了 8%。",
+          "link": "https://www.solidot.org/story?sid=78843",
+          "publishedOn": "2024-07-31T05:54:10.000Z",
+          "wordCount": 164,
+          "title": "俄罗斯允许在国际贸易中使用加密货币",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78842",
+          "author": null,
+          "description": "Google 上周宣布它不再考虑淘汰第三方 Cookie，广告行业对此表达了欢迎，而 World Wide Web Consortium (W3C) 则对 Google 此举公开表达了不满。W3C Technical Architecture Group(TAG)的 Hadley Beeman 认为第三方 Cookie 应该消失，而 Google 的声明破坏了 W3C 社区为让 Web 在没有第三方 Cookie 的情况下正常运作而共同完成的大量工作。W3C 社区成员多年来一直与 Chrome 的 Privacy Sandbox 团队合作，试图设计出一种方法能解决第三方 Cookie 的隐私问题，同时又能让广告商满意。他认为 第三方 Cookie 隐秘的个人数据收集会损害每一个人的隐私。",
+          "link": "https://www.solidot.org/story?sid=78842",
+          "publishedOn": "2024-07-31T05:08:55.000Z",
+          "wordCount": 218,
+          "title": "W3C 批评 Google 放弃淘汰第三方 Cookie 的计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78841",
+          "author": null,
+          "description": "国际稀土价格在下跌。用于高性能磁铁的钕等比 1 年前下跌两成。虽然预计纯电动汽车（EV）等用途的需求会增加，但与之相比，最大生产国中国的供应过剩担忧更为强烈。中国表明了对稀土进行国家管控的姿态，但价格并没有显示出上涨迹象。稀土市场价格的下跌态势仍然很明显。据英国调查公司阿格斯能源咨询（Argus Media）称，截止到  7月 11 日，钕价比 2023 年 7 月底下跌 23%，镝价下跌 24%。",
+          "link": "https://www.solidot.org/story?sid=78841",
+          "publishedOn": "2024-07-31T02:28:03.000Z",
+          "wordCount": 168,
+          "title": "稀土价格持续下跌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78840",
+          "author": null,
+          "description": "罗技 CEO Hanneke Faber 在 The Verge 的 Decoder 播客节目中讨论了能永久性使用的鼠标，她表示挑战在于寻找到一种商业模式。这种鼠标的硬件不需要改动，但能通过软件获得持续更新，她表示一种可选的商业模式是订阅制。Faber 称，罗技的创新中心向她展示了一款能永久使用的鼠标，其价格可能在 200 美元左右，比绝大多数鼠标都贵，因此可能主要面向专业人士或爱好者。鼠标能持续获得软件更新，提供很多可编程性和宏支持。订阅模式日益受到企业欢迎，因为相比一次性的硬件销售，它能提供一种更可靠更持久的收入来源。",
+          "link": "https://www.solidot.org/story?sid=78840",
+          "publishedOn": "2024-07-31T02:19:40.000Z",
+          "wordCount": 168,
+          "title": "罗技讨论订阅制鼠标",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78839",
+          "author": null,
+          "description": "秃鹫在印度一度无处不在，其数量数以千万。它是食腐动物，会在天空盘旋着寻找牛的尸体。但从 1990 年代中期开始，这种数量多达 5000 万的鸟类接近灭绝，原因是兽医使用廉价止痛药双氯芬酸（Diclofenac）给病牛治病，它对秃鹫具有致命性，会导致其因患上肾衰竭而死亡。印度自 2006 年起禁止兽医使用双氯芬酸，秃鹫数量减少速度略有放缓。但根据最新的鸟类报告，至少三种秃鹫损失了 91-98% 的族群。根据发表在《American Economic Association》期刊上的一项研究，食腐鸟类秃鹫的消亡导致了致命细菌和感染激增，五年内有 50 万人死亡。秃鹫帮助人类清除了携带有细菌和病原体的死亡动物，没有了秃鹫，病菌的扩散增加了人类的死亡率。",
+          "link": "https://www.solidot.org/story?sid=78839",
+          "publishedOn": "2024-07-30T15:15:44.000Z",
+          "wordCount": 179,
+          "title": "印度逐渐消亡的秃鹫如何导致 50 万人死亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78838",
+          "author": null,
+          "description": "艾伦是微软的一名年轻工程师，从事云计算相关工作，过着舒适的生活，收入是北京平均收入的六倍，可以经常外出就餐，随时打车。但现在微软要求艾伦考虑在太平洋彼岸开始新生活，数百名从事 AI 和云计算工作的微软中国员工被要求考虑搬迁到加拿大、澳大利亚或华盛顿雷德蒙德微软总部等地工作，艾伦的迁移地点是温哥华。他认为温哥华的生活肯定不会像北京那么舒服。接收匿名采访的员工表示，美国总部最受青睐，而加拿大则不受欢迎，因为当地薪水较低。一位拒绝迁往温哥华的北京员工表示，如果扣除掉税，除西雅图外，其它所有地方的工资都可能比北京低。生活质量会受到影响。微软告诉员工，它没有解雇拒绝调动的员工的计划。员工还表示，他们担心持工作签证的生活是不稳定的，尤其是如果特朗普再次当选总统，他可能会出台更多反移民政策。艾伦在再三考虑之后接受了去温哥华的调动。",
+          "link": "https://www.solidot.org/story?sid=78838",
+          "publishedOn": "2024-07-30T13:49:41.000Z",
+          "wordCount": 166,
+          "title": "微软中国 AI 研究员面临两难选择",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78837",
+          "author": null,
+          "description": "愈来愈多的研究表明，空气污染会破坏植物对昆虫的吸引力。75% 的野生开花植物和 35% 的粮食作物依靠动物授粉。但被污染空气包裹的植物，昆虫找到它们的可能性会降低，甚至授粉的成功率也会显著下降。2018 年和 2019 年夏天，生态学家 James Ryalls 和同事观察了被污染空气包围的地块和正常空气包围的地块，惊讶的发现污染空气地块植物的昆虫访问率减少了 70%，其花朵的昆虫访问率减少了 90%。澳大利亚昆虫学家 Robbie Girling 和同事在 2019 年的一项研究中首先训练蜜蜂识别气味的能力，然后让其暴露在柴油气味下，观察它们还保留了多少气味识别能力。结果发现，在接触柴油 72 小时后，正确识别气味的蜜蜂减少了 44%。",
+          "link": "https://www.solidot.org/story?sid=78837",
+          "publishedOn": "2024-07-30T13:18:10.000Z",
+          "wordCount": 175,
+          "title": "空气污染增加了蜜蜂找到授粉花的难度",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=78836",
+          "author": null,
+          "description": "SpaceX 从明年开始将 Dragon 载人和货运飞船在海洋溅落的地点转移到太平洋，以减少碎片砸在人身上的风险。此前飞船的溅落地点位于佛罗里达外海。而过去几年北美各地发现了来自飞船后备箱的碎片。SpaceX 和 NASA 最初估计后备箱会在大气层中完全焚烧掉，但实际情况并非如此。9 月份一块 90 磅重的碎片掉在了北卡罗来纳州的一个度假村，加拿大萨斯喀彻温省的一个农场 4 月发现了一块近 90 磅的碎片。为了让碎片尽可能的落在海洋里，SpaceX 计划从明年年中开始使用太平洋的回收区。",
+          "link": "https://www.solidot.org/story?sid=78836",
+          "publishedOn": "2024-07-30T10:34:28.000Z",
+          "wordCount": 182,
+          "title": "SpaceX 将 Dragon 飞船在海洋溅落的地点转移到太平洋以减少碎片风险",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=78835",
           "author": null,
@@ -888,126 +1083,6 @@
           "wordCount": 180,
           "title": "英特尔称 13/14 代酷睿处理器不稳定是因为电压过高",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78768",
-          "author": null,
-          "description": "根据发表在《Science Advances》期刊上的一项研究，英国牛津和美国 Research Institute for Compassionate Economics 的研究人员报告，印度在新冠期间预期寿命显著下降。他们的分析显示，2020 年出生的人比 2019 年出生的人预期寿命减少 2.6 岁，死亡率高 17%，这意味着 2020 年印度有 119 万人超额死亡。相比之下，印度莫迪政府给出的数字是截至 2021 年年底有 48.1 万人死于新冠。研究人员称，预期寿命的下降在不同人群中是不平等的，女性的预期寿命下降幅度比男性多 1 年（男性为 2.1 年），边缘化群体下降幅度大于特权群体：高种姓群体只下降 1.3 年，低种姓的达利特或表列种姓下降 2.7 年，穆斯林下降 5.4 年。",
-          "link": "https://www.solidot.org/story?sid=78768",
-          "publishedOn": "2024-07-22T14:05:10.000Z",
-          "wordCount": 188,
-          "title": "印度在新冠期间预期寿命显著下降",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78767",
-          "author": null,
-          "description": "公元 79 年，维苏威火山的爆发给罗马古城庞贝造成了严重破坏。当时有两名男子在一间大房子里寻求庇护，但他们并没有像大多数遇难者那样被火山喷出的热气和灰烬窒息或焚烧而亡。相反他们似乎是死于地震。意大利研究人员在《地球科学前沿》发表论文，指出庞贝不只毁于当时喷发的维苏威火山，同期发生的地震也可能夺走了很多人的生命。新证据来自古城遗址中部的两个房间，考古学家在挖掘这些被火山物质保存了 2000 年的房间时，发现了两具男性遗骸蜷缩在倒塌墙壁下的角落里。目前学界普遍认为庞贝古城的毁灭分为两个阶段。起初，浮石和火山灰如雨点般落下，导致许多人窒息而亡，屋顶坍塌。数小时后，火山碎屑流倾泻而下，掩埋古城，居民们无一幸免。火山碎屑流指火山喷出的气体和碎屑的混合物。",
-          "link": "https://www.solidot.org/story?sid=78767",
-          "publishedOn": "2024-07-22T12:47:33.000Z",
-          "wordCount": 161,
-          "title": "庞贝的部分遇难者不是死于火山而是地震",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78766",
-          "author": null,
-          "description": "微软对无法自动接收 Crowdstrike 最新补丁的机器提供了一个创建可启动 U 盘的恢复工具。该恢复工具通过 USB 启动到 Windows PE 环境，访问磁盘，然后自动删除有问题的 CrowdStrike 文件，从而允许计算机正常启动。如果磁盘被 BitLocker 加密，用户需要输入 BitLocker 恢复密钥。上周五发生的 Crowdstrike 事件所产生的影响一直到周日也没有消失，根据 FlightAware.com 的数据，周日下午有逾 1200 多个进出美国的航班取消，逾 5000 个美国航班延；周六有 2136 个美国航班取消，逾 21,300 个航班延误。",
-          "link": "https://www.solidot.org/story?sid=78766",
-          "publishedOn": "2024-07-22T12:19:01.000Z",
-          "wordCount": 194,
-          "title": "微软为受 Crowdstrike 影响的机器发布恢复工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78765",
-          "author": null,
-          "description": "谁写了臭名昭著的蓝屏死机代码？微软资深软件工程师、《The Old New Thing》作者 Raymond Chen 在 2014 年表示，前 CEO 鲍尔默（Steve Ballmer）为 Windows 3.1 的 Ctrl+Alt+Del 对话框撰写了文本。这一说法随后被传成了鲍尔默是蓝屏死机的发明者。Raymond Chen 后来澄清鲍尔默没有撰写蓝屏死机的文本，他表示自己对蓝屏死机负有部分责任，蓝屏死机相关代码一度被移除，而 Chen 在 Windows 95 中又重新添加了进去，他说自己是最后修改的人。那么谁是最早写蓝屏死机代码的？2021 年前微软开发者 Dave Plumme 称，蓝屏死机之父是微软开发者 John Vert，他在 Windows 3.1 中编写了相关代码，之所以选择蓝屏是因为他常用的编辑器 SlickEdit 就是以蓝色背景展示白色文本。",
-          "link": "https://www.solidot.org/story?sid=78765",
-          "publishedOn": "2024-07-22T11:58:55.000Z",
-          "wordCount": 190,
-          "title": "谁写了臭名昭著的蓝屏死机代码？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78764",
-          "author": null,
-          "description": "XZ 项目维护者 Lasse Collin 发布了一组补丁集，更新了内核的 XZ 代码，其中一项变化是将 Jia Tan 移除出维护者名单。Jia Tan aka JiaT75 是臭名昭著的 XZ 后门事件的幕后黑手，这个名字可能是一个伪装，未必是华裔，他或他们在该项目潜伏了三年之久，获取信任之后成为了维护者，然后悄悄植入了后门代码。他或他们的真实身份至今仍然是一个谜。补丁的其它变化包括了许可证从 Public Domain 迁移到 BSD Zero Clause License，更新了文档，新的 ARM64 和 RISC-V 过滤器等等。",
-          "link": "https://www.solidot.org/story?sid=78764",
-          "publishedOn": "2024-07-22T08:08:48.000Z",
-          "wordCount": 203,
-          "title": "Linux 内核更新 XZ 补丁移除维护者 Jia Tan",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78763",
-          "author": null,
-          "description": "日本企业中的外籍 CEO 数量越来越少。在股票总市值排名前 100 的日本企业中，在海外出生的外籍 CEO 目前实际上只有 3 人（在韩国创业，把总部移到日本的 NEXON 除外）：即奥林巴斯的 Stefan Kaufmann（2023 年就任）、半导体测试设备巨头爱德万的 Douglas Lefever（集团 CEO，2024 年就任）、以及武田药品工业的Christophe Weber（2014 年就任）。",
-          "link": "https://www.solidot.org/story?sid=78763",
-          "publishedOn": "2024-07-22T07:18:33.000Z",
-          "wordCount": 183,
-          "title": "日企外籍 CEO 日益稀少",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78762",
-          "author": null,
-          "description": "上周五，全世界大部分地区都在应对至今 IT 史上最严重的安全事故，但有一个国家基本未受到影响：中国。原因十分简单，Crowdstrike 的安全软件在中国基本无人用。很少有中国机构会购买美国的安全软件，中国对微软的依赖程度也没有其它地区高，阿里巴巴、腾讯和华为是主要的云服务商。因此遭遇 Crowdstrike 蓝屏死机事件的主要是在华外企或组织，根据社交媒体上的信息，中国用户报告无法入住喜来登、万豪和凯悦等国际连锁酒店。网络安全专家 Josh Kennedy White 称，微软通过其本地合作伙伴世纪互联在中国开展业务，世纪互联的基础设施独立于微软在全球的基础设施。这种设置使得中国的基本服务如银行和航空免受全球干扰。",
-          "link": "https://www.solidot.org/story?sid=78762",
-          "publishedOn": "2024-07-22T07:06:50.000Z",
-          "wordCount": 173,
-          "title": "中国基本未受到 Crowdstrike 事件的影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78761",
-          "author": null,
-          "description": "日本新闻协会发表声明称，美国 IT 巨头 Google、微软等公司提供的将网络搜索引擎与生成式 AI 相结合的“搜索联动型生成式 AI 服务”（即 AI 搜索引擎）很可能构成侵犯著作权。声明指出，此类服务经常擅自利用新闻报道作为信息源、生成类似新闻报道的回答。它要求美国 IT 巨头获得新闻媒体的使用许可。声明分析称，有一些案例显示，搜索联动型 AI 对新闻报道进行不恰当的转用和加工，生成了存在错误内容的回答。声明强调，应当在确保准确性和可靠性之后再开始提供服务。",
-          "link": "https://www.solidot.org/story?sid=78761",
-          "publishedOn": "2024-07-22T06:10:59.000Z",
-          "wordCount": 177,
-          "title": "日本新闻协会发称 AI 搜索可能侵犯著作权",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78760",
-          "author": null,
-          "description": "根据发表在《Journal of Neuroscience》期刊上的一篇论文，小鼠研究显示与肥胖相关的大脑变化导致了低精子数。加州河滨领导的一个研究小组通过给小鼠喂食高脂肪食物模拟人类的肥胖，发现肥胖会导致大脑的慢性变化。研究小组发现，老鼠的大脑显示出神经元之间的连接减少，受体的数量减少，这些受体通常会告诉大脑有足够的能量可用，并停止食物摄入。领导这项研究的 Djurdjica Coss 教授说，这也许可以解释为什么我们不能停止过量的卡路里摄入，超重的小鼠血液中的睾丸激素也较低，精子数量也减少。她解释说，生殖功能是由下丘脑-垂体-性腺轴调节的，这是一个调节有性生殖和发育的反馈回路。下丘脑是大脑中一个复杂的区域，负责调节食物摄入、温度、口渴和繁殖。它包含调节脑下垂体激素合成和分泌的神经元，脑下垂体激素随后调节男性睾丸激素合成和精子产生(以及女性雌激素产生和排卵)。",
-          "link": "https://www.solidot.org/story?sid=78760",
-          "publishedOn": "2024-07-22T06:08:08.000Z",
-          "wordCount": 162,
-          "title": "与肥胖相关的大脑变化导致了低精子数",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78759",
-          "author": null,
-          "description": "研究人员首次投票决定移除带有冒犯性的生物科学名称。植物学家决定应让超过 200 种植物、真菌和藻类物种不再包含一个带有种族歧视的词汇 caffra，该词汇是主要针对南部非洲的黑人和其他人种的歧视性称呼。这意味着像南非刺桐这样的植物，从 2026 年起就将被正式更名为 Erythrina affra，而不是原先的 Erythrina caffra。\n这项议案的支持票与反对票的比例为 351:205。参加植物学大会命名法分会的科学家们投票建立了一个特殊的委员会，以处理新描述植物、真菌和藻类命名的伦理问题。物种的名称——过去通常被首次在科学文献中描述它们的科学家决定——现在如果被认为包含对一类人群的贬义，可以被该委员会拒绝。但是这仅适用于 2026 年后命名的物种，并不可用于旧的植物名称上。",
-          "link": "https://www.solidot.org/story?sid=78759",
-          "publishedOn": "2024-07-22T03:37:18.000Z",
-          "wordCount": 169,
-          "title": "科学家投票移除带有冒犯性的生物科学名称",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78758",
-          "author": null,
-          "description": "Something Awful（SA）是一个神奇的论坛，你需要支付 10 美元才能成为注册用户。它是很多互联网文化的发源地，催生了知名或臭名昭著的 4chan 匿名讨论版，4chan 最初是由 SA 动漫子论坛的异见用户创建的。SA 给了论坛版主相当大的封禁裁量权，如果发帖者被认为违反了礼仪或其它情况，他们会被禁言一段时间，SA 建立了专门的网页展示相关的封禁信息，包括封禁长度和原因。一位叫 Etherwind 的用户在桌游子论坛发帖，开玩笑的说 \nWorld of Darkness TTRPG 的一位作者应该去死。他随后被禁言了 10 万个小时——对绝大部分的人而言这意味着永久性封禁。Etherwind 的禁言始于 2013 年 2 月 14 日 10:24 pm BST，终于 2024 年 7 月 13 日。在禁言  100,018 小时后的 7 月 14 日 9:04 BST，Etherwind 再次亮相论坛，继续 11.4 年前的讨论话题。有用户建议应该再禁言他 11 年。他分享了一篇 Google 文档，谈论了他过去几年的心路，承认出于喜剧效果而给自己设定了禁言结束的日期提醒。",
-          "link": "https://www.solidot.org/story?sid=78758",
-          "publishedOn": "2024-07-21T16:28:17.000Z",
-          "wordCount": 216,
-          "title": "在禁言 11 年之后玩家重续旧话题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78757",
-          "author": null,
-          "description": "根据 Netblocks 的监测，孟加拉国的互联网服务已被切断了整整三天。过去几天，该国发生了大规模抗议，媒体报道称至少有 130 人死亡。为平息抗议，孟加拉国政府已经命令安全部队看到抗议者就开枪。这次抗议的起因是在全国失业率高涨的情况下，政府仍然推行配额制，将多达三成的政府职位留给参加 1971 年孟加拉国独立战争的退伍军人亲属。抗议者希望推行基于绩效的制度。",
-          "link": "https://www.solidot.org/story?sid=78757",
-          "publishedOn": "2024-07-21T15:25:18.000Z",
-          "wordCount": 163,
-          "title": "孟加拉国断网三天",
-          "imageUrl": null
         }
       ]
     },
@@ -1205,26 +1280,6 @@
           "publishedOn": "2024-07-23T17:36:00.000Z",
           "wordCount": 413,
           "title": "Browserling now has Android 15!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/5-million-google-clicks",
-          "author": null,
-          "description": "Last month Online PNG Tools smashed past 4M Google clicks and today it has smashed past 5M Google clicks! 🤑\nSmash too and see you next time! 💪\nPS. Use coupon code SMASHLING for a 30% discount on these tools. 💸",
-          "link": "https://catonmat.net/5-million-google-clicks",
-          "publishedOn": "2024-07-21T21:54:00.000Z",
-          "wordCount": 319,
-          "title": "5 Million Google Clicks 🤩",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/browserling-android-12",
-          "author": null,
-          "description": "Super exciting news!\nWe've just added Android 12 and 12.1 to Browserling!\nYou can now test your websites and applications on the newest Android version.\nYou can try both versions via these quick browsing links:\nbrowserling.com/android/12.1 (Opens Android 12.1/12L)\nbrowserling.com/android/12 (Opens Android 12)\nClick these link and you'll instantly get an Android in your browser!\nWhat's New in Android 12?\nMaterial You Design\nAndroid 12 introduces the \"Material You\" design language, allowing for dynamic and personalized UI elements that adapt to user preferences and system colors.\nEnhanced Privacy Dashboard\nA comprehensive privacy dashboard offers a clear overview of app permissions and usage, allowing users to manage their data more effectively.\nQuick Settings Overhaul\nRedesigned Quick Setti…",
-          "link": "https://catonmat.net/browserling-android-12",
-          "publishedOn": "2024-07-21T19:09:00.000Z",
-          "wordCount": 790,
-          "title": "Browserling now has Android 12 and 12.1 (12L)!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
