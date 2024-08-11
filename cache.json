@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49262",
+          "author": "青小蛙",
+          "description": "diff-pdf 是一个开源工具，可以非常方便的比较两个 PDF 文档的区别。命令行式，可输入 1/0，也可输出有差异的新 PDF 文章，或者直接显示差异 PDF 内容。@Appinn diff-pd",
+          "link": "https://www.appinn.com/diff-pdf/",
+          "publishedOn": "2024-08-10T07:02:56.000Z",
+          "wordCount": 3053,
+          "title": "diff-pdf – 对比 PDF 文档，直观比较两个 PDF 区别[Win/macOS/Linux]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-10T144042.799.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49259",
           "author": "青小蛙",
           "description": "Kando 是一款新鲜的开源快速启动工具，使用了多级饼状结构，通过鼠标在不同的「饼」中拖拽，实现快速启动，包括启动应用程序、模拟键盘快捷键、打开文件等操作。支持 Windows、macOS、Linux",
@@ -100,16 +110,6 @@
           "wordCount": 2647,
           "title": "EcoPaste – 新鲜的开源剪切板管理工具[Win/macOS]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-02T001436.545.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49215",
-          "author": "青小蛙",
-          "description": "微信聊天记录导出助手是一款可以将微信中常见的「合并转发」聊天记录导出到本地 HTML 文件，支持文字与图片内容，不支持视频等其他内容。@Appinn 来自发现频道，开发者 @kakalong 自荐：h",
-          "link": "https://www.appinn.com/wechat-chatgroup-export/",
-          "publishedOn": "2024-08-01T02:45:00.000Z",
-          "wordCount": 2579,
-          "title": "微信聊天记录导出助手 – 将「合并转发」的微信聊天记录导出到本地 HTML，支持文字、图片[Windows]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-01T010132.777.jpg"
         }
       ]
     },
@@ -167,36 +167,6 @@
           "wordCount": 2190,
           "title": "(Hyper) Links About (Hyper) Links",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379420"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379335",
-          "author": "Kev Bonett",
-          "description": "I have to thank Jeremy Keith and his wonderfully insightful article from late last year that introduced me to the concept of HTML Web Components. This was the “a-ha!” moment for me:\nWhen you wrap some existing markup in a \n…\nHTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/html-web-components-make-progressive-enhancement-and-css-encapsulation-easier/",
-          "publishedOn": "2024-08-01T13:21:37.000Z",
-          "wordCount": 3658,
-          "title": "HTML Web Components Make Progressive Enhancement and CSS Encapsulation Easier!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379335"
-        },
-        {
-          "id": "https://css-tricks.com/?p=378995",
-          "author": "Geoff Graham",
-          "description": "Most days, I’m writing vanilla CSS. Thanks to CSS variables and nesting, I have fewer reasons to reach for Sass or any other preprocessor. The times I reach for Sass tend to be when I need a @mixin to loop …\nCSS Functions and Mixins Module Notes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-functions-and-mixins-module-notes/",
-          "publishedOn": "2024-07-31T20:25:35.000Z",
-          "wordCount": 2939,
-          "title": "CSS Functions and Mixins Module Notes",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/378995"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379392",
-          "author": "Geoff Graham",
-          "description": "It’s been a few months out since A Book Apart closed shop. I’m sad about it, of course. You probably are, too, if you have one of their many brightly-colored paperbacks sitting on a bookshelf strategically placed as a backdrop …\nWhere You Can Still Get A Book Apart Titles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/where-you-can-still-get-a-book-apart-titles/",
-          "publishedOn": "2024-07-31T14:52:44.000Z",
-          "wordCount": 1917,
-          "title": "Where You Can Still Get A Book Apart Titles",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379392"
         }
       ]
     },
@@ -221,7 +191,18 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11308",
+          "author": "张 鑫旭",
+          "description": "View Transitions API可以让页面元素在无需设置具体定位属性值的情况下实现各种各样的动画效果，是个很强很有用的新特性。",
+          "link": "https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/",
+          "publishedOn": "2024-08-10T13:45:31.000Z",
+          "wordCount": 1507,
+          "title": "页面级可视动画View Transitions API初体验",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
@@ -1017,86 +998,6 @@
           "wordCount": 180,
           "title": "为应对气候危机巴西提议对全球超级富豪征收 2% 的税",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78860",
-          "author": null,
-          "description": "人力资源社会保障部办公厅、市场监管总局办公厅、国家统计局办公室发布《关于发布生物工程技术人员等职业信息的通知》 。《通知》表示确定了生物工程技术人员等19个新职业、汽配销售经理人等28个新工种信息，调整变更了11个职业（工种）信息。19 个新职业包括了网络主播，其定义是基于互联网，以直播、实时交流互动、上传音视频节目等形式发声、出镜，提供网络表演、视听信息服务的人员。他们的主要工作任务包括：",
-          "link": "https://www.solidot.org/story?sid=78860",
-          "publishedOn": "2024-08-01T12:12:18.000Z",
-          "wordCount": 166,
-          "title": "网络主播成为国家认可的新职业",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78859",
-          "author": null,
-          "description": "“国家网络身份认证App（认证版）”已在多个应用商店上线。申领注册“网号”“网证”需要使用身份证，人脸识别是否为本人，关联手机号，设置网络身份口令，授权网络身份在用户手机使用。国家网络身份认证公共服务正处于试点阶段，已上线试点 APP 和场景共 67 个，包括部分政务 App 和互联网 App，如国家政务服务平台、中国铁路 12306、淘宝、微信、小红书、QQ 等。",
-          "link": "https://www.solidot.org/story?sid=78859",
-          "publishedOn": "2024-08-01T11:00:01.000Z",
-          "wordCount": 165,
-          "title": "国家网络身份认证已开始测试",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78858",
-          "author": null,
-          "description": "软件开发平台 Forgejo 释出了 v8.0。主要变化包括：由于许可证不兼容移除了两个前端，作为具有自由开源理念的软件项目移除了对私有的 Microsoft SQL Server 支持，改进了稳定性，新的 UI 团队大幅减少了随机的 UI 变化，等等。Forgejo v8.0 不是长期支持版本，关注稳定性的用户可选择上一个版本 Forgejo v7.0，它将一直支持到 2025 年 7 月 16 日，Forgejo v8.0 将支持到 2024 年 10 月 16 日 Forgejo v9.0 发布时。",
-          "link": "https://www.solidot.org/story?sid=78858",
-          "publishedOn": "2024-08-01T10:46:43.000Z",
-          "wordCount": 196,
-          "title": "Forgejo v8.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78857",
-          "author": null,
-          "description": "根据发表在《Journal of Studies on Alcohol and Drugs》上的一项研究，任何量的酒都有害健康。所谓每天喝一杯葡萄酒有益身体健康的观点都是基于有缺陷的研究。研究人员分析了 107 项已发表的研究，这些研究长期跟踪调查了人们的饮酒习惯和寿命之间的关系。当研究人员综合所有数据时，看起来轻度到中度饮酒者(即那些每周喝一杯到每天喝两杯的人)在研究期间的死亡风险比不饮酒者低 14%。但更深入分析时，适度饮酒与长寿并无关联。研究人员称，适度饮酒可能不会延长人的寿命，事实上，还会带来一些潜在的健康危害，包括增加患某些癌症的风险。这就是为什么没有一个主要的健康组织建立一个无风险的酒精消费水平。",
-          "link": "https://www.solidot.org/story?sid=78857",
-          "publishedOn": "2024-08-01T09:30:13.000Z",
-          "wordCount": 167,
-          "title": "任何量的酒都有害健康",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78856",
-          "author": null,
-          "description": "Gentoo Linux 发行版创始人兼首席架构师 Daniel Robbins（aka drobbins）在 2004 年离开项目之后于 2008 年创建了一个衍生发行版 Funtoo Linux，16 年后的今天他宣布终止该项目。drobbins 表示，Funtoo 的理念是创建一个有意思的贡献者社区，共同创造伟大的东西。但现在对他而言不再是了，他将转向其他事务。Funtoo 没有继任 BDFL，他也不打算寻找，或者考虑将项目转交给其他人。Funtoo Linux 项目预计将在 8 月终止，Funtoo 容器预计会一直支持到 8 月底，用户如果有需求需要寻找其它托管方案。",
-          "link": "https://www.solidot.org/story?sid=78856",
-          "publishedOn": "2024-08-01T08:20:18.000Z",
-          "wordCount": 187,
-          "title": "Funtoo Linux 项目终止",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78855",
-          "author": null,
-          "description": "AMD 尚未公布 Zen5 处理器的价格，但它在美国的主要零售合作伙伴百思买(Best Buy)已经提前将其泄露：最高端的 Ryzen 9 9950X（16C / 32T）599 美元，Ryzen 9 9900X（12C / 24T）449 美元，Ryzen 7 9700X（8C / 16T）359 美元，Ryzen 5 9600X（6C / 12T）279 美元。这一定价要低于 Zen3 和 Zen4 同类处理器的上市价，当然要比 Zen4 处理器目前的价格要贵：基于 Zen3 架构的 Ryzen 9 5950X 在 2020 年的上市价为 799 美元，而基于 Zen4 架构的 Ryzen 9 7950X 在 2022 年的上市价为 699 美元，Ryzen 9 9950X 的定价分别低了 200 和 100 美元，但低端型号降幅有限。",
-          "link": "https://www.solidot.org/story?sid=78855",
-          "publishedOn": "2024-08-01T07:10:29.000Z",
-          "wordCount": 223,
-          "title": "AMD Zen5 处理器价格披露",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78854",
-          "author": null,
-          "description": "微软在公司最新年度报告中将 OpenAI 列入竞争对手名单，这份名单多年来一直包括了亚马逊、苹果、Google 和 Meta 等巨头。微软是 OpenAI 最大投资者，据报道已向该公司投资了逾 130 亿美元。微软在报告中将 OpenAI 列入 AI 产品以及搜索和新闻广告领域的竞争对手。OpenAI 知名的产品是 AI 聊天机器人 ChatGPT，最近宣布了搜索原型 SearchGPT。OpenAI 发言人对此回应称，两家公司的关系没有发生变化，双方的合作关系是在相互竞争的前提下建立的。",
-          "link": "https://www.solidot.org/story?sid=78854",
-          "publishedOn": "2024-08-01T06:51:13.000Z",
-          "wordCount": 183,
-          "title": "微软将 OpenAI 列入竞争对手名单",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78853",
-          "author": null,
-          "description": "64 岁的 Raffy Tulfo 是菲律宾公共事务节目《Wanted sa Radyo (Wanted on Radio)》的主持人，他的 YouTube 频道《Raffy Tulfo in Action》有逾 2800 万订户，而整个菲律宾的 YouTube 用户数是大约 5800 万。他的庞大 YouTube 粉丝帮助他赢得了参议院席位，并在推动他成为下一届总统，虽然他本人声称没有兴趣参加 2028 年的总统竞选。Tulfo 是一位大学辍学生，以 DJ 身份开始进入广播业，成名于担任新闻记者，通过主持犯罪节目和公共事务节目而成为最受欢迎的公众人物之一，很多菲律宾人将自己遭遇的社会不公报告给他，依靠他而不是警察或法院解决问题。名人从政在菲律宾屡见不鲜，有至少 20 多名音乐人、演员和其他名人成为政客，担任省长到国会议员到参议员，甚至总统。前总统 Joseph Estrada 就是一名演员。菲律宾大学政治学教授 Aries Arugay 认为，Tulfo 的不同之处是名人与强人言论的结合，在一个治理和法治上存在缺陷的国家具有无与伦比的吸引力。Tulfo 的节目并非没有争议，比如有罪推定，直到被证明无罪。",
-          "link": "https://www.solidot.org/story?sid=78853",
-          "publishedOn": "2024-08-01T06:06:45.000Z",
-          "wordCount": 204,
-          "title": "菲律宾人希望他们最受欢迎的 YouTube 网红竞选总统",
-          "imageUrl": null
         }
       ]
     },
@@ -1178,13 +1079,13 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
-          "id": "https://catonmat.net/browserling-has-all-androids",
+          "id": "https://catonmat.net/announcing-logo-tools",
           "author": null,
-          "description": "Super exciting news!\nAt Browserling, we have updated our Android cloud and installed all Android versions.\nTry these links and they'll instantly open an online Android running in your browser:\nbrowserling.com/android/15 – Android 15\nbrowserling.com/android/14 – Android 14\nbrowserling.com/android/13 – Android 13\nbrowserling.com/android/12.1 – Android 12.1 (also known as 12L)\nbrowserling.com/android/12 – Android 12\nbrowserling.com/android/11 – Android 11\nbrowserling.com/android/10 – Android 10\nbrowserling.com/android/9 – Android 9 (Pie)\nbrowserling.com/android/8.1 – Android 8.1 (Oreo)\nbrowserling.com/android/8 – Android 8 (Oreo)\nbrowserling.com/android/7.1 – Android 7.1 (Nougat)\nbrowserling.com/android/7 – Android 7 (Nougat)\nbrowserling.com/android/6 – Android 6 (Marshmallow)\nbrowserling.com/android/5.1 – Android 5.1 (Lollipop)\nbrowserling.com/android/5 – Android 5 (Lollipop)\nbrowserling.com/android/4 – Android 4 (KitKat)\nWhat Is Browserling?\nBrowserling is a cloud-based platform that provides users with instant access to online Android emulators and devices directly within their web browser. It allows developers to test their websites and applications on various Android versions. This service enables thorough cross-browser and cross-version testing to ensure compatibility and functionality across multiple Android environments.\nWho Uses Browserling?\nBrowserling has now become the mobile cloud computing platform of choice for web developers, application developers, and testers, and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, Fortune 100, Fortune 500 companies, and private multi-billion dollar companies.\nHappy browsing!",
-          "link": "https://catonmat.net/browserling-has-all-androids",
-          "publishedOn": "2024-07-31T20:30:00.000Z",
-          "wordCount": 498,
-          "title": "Browserling now has all Androids!",
+          "description": "Team Browserling keeps shipping!\nWe just added Logo Tools to our Online PNG Tools collection.\nLogo Tools allow you to edit logos.\nFrom technical perspective, we used AOL, floppy, and disco dance to make them.\nHere are the tools we added:\nCreate Transparent Logo\nChange Logo Background\nRemove Logo Background\nAdd Logo Background\nChange Logo Colors\nRotate Logo\nResize Logo\nCrop Logo\nCleanup Logo Edges\nConvert Logo to Grayscale\nConvert Logo to Single Color\nAdd Text to Logo\nCreate Logo from Text\nPick Logo Color\nFind Logo Color Scheme\nSeparate Logo Colors\nAdd Space Around Logo\nRemove Space Around Logo\nAdd Outline to Logo\nConvert PNG Logo to JPG Logo\nConvert JPG Logo to PNG Logo\nConvert PNG Logo to WebP Logo\nConvert WebP Logo to PNG Logo\nNext, we're adding paid plans to these tools. See you all then!\nPS. Use coupon code LOGOLING for 30% off.",
+          "link": "https://catonmat.net/announcing-logo-tools",
+          "publishedOn": "2024-08-10T12:45:00.000Z",
+          "wordCount": 417,
+          "title": "Announcing Logo Tools",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
