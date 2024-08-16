@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-08-15T02:35:04.048Z</updated>
+    <updated>2024-08-16T02:34:09.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How are the `colspan` and `rowspan` attributes different?]]></title>
+        <id>https://css-tricks.com/?p=379603</id>
+        <link href="https://css-tricks.com/how-are-the-colspan-and-rowspan-attributes-different/"/>
+        <updated>2024-08-15T13:10:58.000Z</updated>
+        <summary type="html"><![CDATA[Yes, yes. Functionally, they are different. But heck if I didn’t know about the wacky thresholds until Jens Oliver Meiert tooted a pair of quick polls.
+According to the HTML Standard:
+If the current cell has a colspan attribute, then 
+…
+How are the `colspan` and `rowspan` attributes different? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家发现人类在 44 岁和 60 岁时突然加剧衰老]]></title>
+        <id>https://www.solidot.org/story?sid=78989</id>
+        <link href="https://www.solidot.org/story?sid=78989"/>
+        <updated>2024-08-15T12:28:50.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Nature Aging》上的一项研究，衰老不是渐进发生的，而是到了某个年龄之后会突然加速。研究人员跟踪了 108 名志愿者，他们的年龄在 25-75 岁之间，每隔几个月递交一次血液和粪便样本，以及皮肤、口腔和鼻拭子，持续时间从 1 年到 7 年不等。研究人员评估了 135,000 种分子（RNA、蛋白质和代谢物）和微生物（生活在志愿者肠道和皮肤上的细菌、病毒和真菌）。绝大多数分子和微生物的丰度不是渐进的、按时间顺序发生转变。研究人员发现，重大的转变通常发生在 44 岁和 60 岁左右。44 岁的衰老高峰出乎意料，研究人员最初以为是女性围绝经期（perimenopausal）变化导致的，但发现 40 多岁的男性也产生了类似的变化。第一波变化与心血管疾病相关的分子以及代谢咖啡因、酒精和脂质的能力有关。第二波变化与免疫调节、碳水化合物代谢和肾功能的分子有关。与皮肤和肌肉衰老有关的分子在两个时间点都发生了变化。44 岁的人突然加速衰老可能是因为这是人生中压力最大的时期。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 v24H2 将默认启用 BitLocker 设备加密]]></title>
+        <id>https://www.solidot.org/story?sid=78988</id>
+        <link href="https://www.solidot.org/story?sid=78988"/>
+        <updated>2024-08-15T11:08:43.000Z</updated>
+        <summary type="html"><![CDATA[微软未来几个月推出的下一次重大更新 Windows 11 v24H2 将默认启用 BitLocker 设备加密。如果用户全新安装 Windows 11 v24H2，首次用 Microsoft 帐户或工作/学校帐户登录或设置时，BitLocker 设备加密会默认启用，恢复密钥将备份到 Microsoft 帐户或 Entra ID。微软还降低了自动设备加密的硬件需求，并开放给 Windows 11 家庭版用户使用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韦伯望远镜进一步加深了哈勃张力的争议]]></title>
+        <id>https://www.solidot.org/story?sid=78987</id>
+        <link href="https://www.solidot.org/story?sid=78987"/>
+        <updated>2024-08-15T10:14:35.000Z</updated>
+        <summary type="html"><![CDATA[哈勃（Edwin Hubble）在近一个世纪前发现宇宙在膨胀，星系彼此之间在快速远离，远离的速度与彼此的距离成正比，远离速度与距离的比值被称为哈勃常数（H0）。但对该常数的测量不同团队之间存在差异，以至于物理学家使用哈勃张力去解释这种差异。约翰霍普金斯大学 Adam Riess 领导的团队测量的 H0 值比理论预测的高约 8%。韦伯太空望远镜（James Webb Space Telescope）更清晰的观察数据被认为有助于解决相关争议。但 Adam Riess 团队根据韦伯数据得到的最新测量值仍然与旧的估计值一致。芝加哥大学 Wendy Freedman 领导的另一支团队对 H0 的测量则更接近理论预测值，意味着哈勃张力可能并不存在。Freedman 团队根据最新的韦伯数据也得到了他们的结果，但这一结果反而进一步加深了哈勃张力的争议：对两类恒星测量得到的 H0 值与理论预测的一致，但对 Riess 团队使用的第三类恒星的测量得到了更高也更接近的 H0 值。这一结果表明哈勃张力可能是存在的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO 宣布猴痘疫情为全球卫生紧急事件]]></title>
+        <id>https://www.solidot.org/story?sid=78986</id>
+        <link href="https://www.solidot.org/story?sid=78986"/>
+        <updated>2024-08-15T07:36:16.000Z</updated>
+        <summary type="html"><![CDATA[WHO 总干事谭德塞宣布非洲的猴痘疫情为国际公共卫生紧急事件（PHEIC）。一种新的猴痘病毒株 1b 在刚果民主共和国东部快速扩散，它的几个邻国也都报告了感染病例。WHO 突发事件委员会认为猴痘病毒可能在非洲国家进一步蔓延，可能传播到非洲之外。总干事根据专家委员会的报告宣布了全球卫生紧急事件。今年迄今报告的猴痘病例数已超过去年总和，病例数超过 15,600 例，死亡人数 537 人。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水熊虫如何演化出超能力]]></title>
+        <id>https://www.solidot.org/story?sid=78985</id>
+        <link href="https://www.solidot.org/story?sid=78985"/>
+        <updated>2024-08-15T06:57:36.000Z</updated>
+        <summary type="html"><![CDATA[水熊虫以在极端环境下生存的能力著称，是第一种已知可以在太空中生存的动物，但它们是如何演化出这种超能力的？研究人员针对嵌在同一个扁豆大小的白垩纪琥珀中的两块水熊化石进行了重新分析，揭示了这种微小生物的家谱。研究表明，1.8 亿年前，水熊已经进化出了超能力——能够进入不受外界环境影响的假死状态。水熊之所以具有力，部分原因是它们可以长时间停止新陈代谢。这种被称为隐生的超能力可以使其忍受地狱般的环境。研究团队首次估计，水熊的超能力肯定是在 1.8 亿年前进化出来的，也可能早在 4.2 亿年前就已出现。这些能力可能帮助它们在几波生物大灭绝中幸存下来。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本今天将解除南海海槽地震预警]]></title>
+        <id>https://www.solidot.org/story?sid=78984</id>
+        <link href="https://www.solidot.org/story?sid=78984"/>
+        <updated>2024-08-15T06:16:04.000Z</updated>
+        <summary type="html"><![CDATA[从 8 月 8 日以日向滩为震源发生地震之后，日本气象厅每天发布“南海海槽地震相关解说信息”。主要提供自 8 月 8 日以来的地震发生次数以及地下岩层产生的“应变变化”的信息，并呼吁注意巨大地震。如无特别异常，将于 8 月 15 日下午 5 点停止发布提醒和提供信息。跟踪显示，在南海海槽地震的预想震源区域内，未观测到显示板块边界固着状况有特别变化的地震活动或地壳运动。之所以设定发布提醒时间为一周，是因为大规模地震的发生可能性随着时间的推移而降低，而且长期持续防灾是困难的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eric Schmidt 声称远程工作导致了 Google 在 AI 竞争中落后]]></title>
+        <id>https://www.solidot.org/story?sid=78983</id>
+        <link href="https://www.solidot.org/story?sid=78983"/>
+        <updated>2024-08-15T06:04:27.000Z</updated>
+        <summary type="html"><![CDATA[前 Google CEO 和执行董事长 Eric Schmidt 在斯坦福大学做演讲回答有关 Google 在与 OpenAI 的 AI 竞争中落后的提问时表示，罪魁祸首是远程工作。他的这番言论招致了广泛批评。Schmidt 说，Google 认为平衡工作和生活、更早回家和在家远程工作比赢更重要，创业公司之所以成功是因为员工工作拼命（work like hell）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现 94% 的商业表格包含重大错误]]></title>
+        <id>https://www.solidot.org/story?sid=78982</id>
+        <link href="https://www.solidot.org/story?sid=78982"/>
+        <updated>2024-08-15T05:33:25.000Z</updated>
+        <summary type="html"><![CDATA[发表在《Frontiers of Computer Science》期刊上的一项研究发现，94% 用于商业决策的电子表格包含重大错误，凸显了巨大的财务和运营错误风险。电子表格中的错误可能导致决策失误，造成财务损失、定价错误以及运营问题。论文主要作者 Pak-Lok Poon 解释说，随着愈来愈多未经正式培训的人创建自己的电子表格，错误的发生率在增加，他指出很多终端用户缺乏恰当的软件开发培训，导致了更多的错误。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活在城市的鸟会传播耐药超级细菌]]></title>
+        <id>https://www.solidot.org/story?sid=78981</id>
+        <link href="https://www.solidot.org/story?sid=78981"/>
+        <updated>2024-08-15T04:56:19.000Z</updated>
+        <summary type="html"><![CDATA[科学家发现，野生鸟类如果生活在人类附近，就更有可能成为抗生素耐药细菌的携带者，这是对“超级细菌”在全球蔓延的最新警告。研究人员称，生活在城市的鸟类，如鸭子、乌鸦、海鸥和鹅，与来自偏远地区的鸟类同类相比，其耐药性相关的基因标记数量高达三倍。研究报告发表在《Current Biology》期刊上。研究小组检查了 8 个国家 30 种野生鸟类肠道采集的 700 个细菌样本——5 个欧洲国家，以及日本、美国和加拿大。他们分析了空肠弯曲菌（Campylobacter jejuni）菌株的多样性，一种生活在鸟类肠道中的引起腹泻的人畜共患细菌。相比农村地区的鸟类，城市地区的鸟类有更多与抗菌素耐药性相关的遗传标记和更广泛的细菌菌株。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 宣布关闭所有俄罗斯 AdSense 账号]]></title>
+        <id>https://www.solidot.org/story?sid=78980</id>
+        <link href="https://www.solidot.org/story?sid=78980"/>
+        <updated>2024-08-15T03:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Google 宣布关闭所有俄罗斯 AdSense 账号，这意味着俄罗斯内容创作者将无法再通过 Google 的广告联盟获利。这一变动将影响通过 AdSense、AdMob 和 Ad Manager 获利的账号。Google 是在 2022 年 2 月俄罗斯入侵乌克兰之后开始限制俄罗斯的 AdSense 账号，之后逐步扩大限制范围，一开始限制利用、无视或纵容战争相关的内容；接着是暂停了俄罗斯境内的 Google 广告系统，暂停俄罗斯广告客户创建新 AdSense、AdMob 和 Google Ad Manager 帐号的权限，在全球范围内暂时禁止俄罗斯境内的广告客户在 Google 产品和服务以及广告网络中投放广告。俄罗斯也对 Google 进行了报复，查封了 Google 的银行账户，导致 Google 俄罗斯分部于 2022 年 5 月关闭。现在 Google 彻底关闭俄罗斯 AdSense 账号将严重打击通过 YouTube 获利的俄罗斯用户。俄罗斯的 YouTube 流量仅次于美国，俄罗斯的 YouTube 主播从中赚取了可观的收入，但这些收入将完全消失。俄罗斯内容创作者将在本月下旬收到最后一笔付款。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quick Hit #11]]></title>
         <id>https://css-tricks.com/?p=379862</id>
@@ -18,6 +132,16 @@ Quick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOc
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Waymo 自主驾驶汽车鸣笛干扰周围居民睡觉]]></title>
+        <id>https://www.solidot.org/story?sid=78979</id>
+        <link href="https://www.solidot.org/story?sid=78979"/>
+        <updated>2024-08-14T15:56:49.000Z</updated>
+        <summary type="html"><![CDATA[旧金山停车场的 Waymo 无人驾驶汽车被发现存在奇怪的 bug，它们彼此会反复的鸣笛，干扰了附近居民的睡眠和日常生活。鸣笛的现象是随机发生的，有多名居民为此投诉。当地居民 Randol White 表示在凌晨四点被汽车的鸣笛声惊醒，另一名居民 Russell Pofsky 表示，过去两周被惊醒的次数超过了过去二十年的总和。Waymo 发表声明承认汽车有故障，表示已经确定了原因正在进行修复。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quick Hit #10]]></title>
         <id>https://css-tricks.com/?p=379857</id>
         <link href="https://css-tricks.com/quick-hit-10/"/>
@@ -26,6 +150,26 @@ Quick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOc
 Quick Hit #10 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为朝鲜 IT 工人运行笔记本农场的纳什维尔男子被捕]]></title>
+        <id>https://www.solidot.org/story?sid=78978</id>
+        <link href="https://www.solidot.org/story?sid=78978"/>
+        <updated>2024-08-14T15:21:28.000Z</updated>
+        <summary type="html"><![CDATA[美国田纳西州纳什维尔 38 岁的男子 Matthew Isaac Knoot 因帮助朝鲜 IT 工人获得美国公司的远程工作而被捕。今年五月一名亚利桑那州女子也因为类似的原因被捕。美国政府禁止本国雇主雇佣朝鲜公民。但朝鲜 IT 工人会利用盗窃的美国公民身份申请美国公司的远程工作，在雇佣之后找 Knoot 等人收取雇主发放的笔记本电脑，安装远程桌面应用，允许 IT 工人能远程访问电脑，让雇主以为被雇佣者在美国工作。法庭文件称，名叫 Yang Di 的朝鲜人向 Knoot 支付了笔记本托管费用和一定比例的薪水。在 2022 年 7 月到 2023 年 8 月之间朝鲜 IT 工人使用  Knoot 的笔记本农场每个人赚到了逾 25 万美元，Knoot 面临最长 20 年徒刑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[迪士尼寻求以受害者为 Disney+ 订阅者为由驳回过敏致死诉讼]]></title>
+        <id>https://www.solidot.org/story?sid=78977</id>
+        <link href="https://www.solidot.org/story?sid=78977"/>
+        <updated>2024-08-14T14:26:04.000Z</updated>
+        <summary type="html"><![CDATA[迪士尼寻求以受害者为 Disney+ 订阅者为由驳回过敏致死诉讼。Kanokporn Tangsuan 是 NYU Langone 的医生，有严重的乳制品和坚果过敏症，她于 2023 年 10 月与家人去佛罗里达的迪士尼乐园，在迪士尼之泉的 Raglan Road Irish Pub 就餐，她将自己的过敏症告诉了服务员，服务员表示保证会满足她的要求。但就餐之后的当晚她就因为急性过敏反应送往医院，随后在医院去世。她的丈夫 Jeffrey Piccolo 提起了诉讼。迪士尼律师根据 Disney+ 的相关条款寻求驳回诉讼。Disney+ 中的条款声明用户与迪士尼公司通过仲裁解决所有纠纷。Piccolo 曾在 2019 年通过 PS 游戏机试用 Disney+ 时同意了这一条款，而他们在 2023 年 10 月通过 My Disney Experience 购买迪士尼乐园门票时也同意了类似的声明。Piccolo 的律师认为迪士尼的这一主张简直是超现实，不合理也不公平，冲击了司法良知，法院不应该执行此类协议。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -1164,16 +1308,6 @@ CSS Olympic Rings originally published on CSS-Tricks, which is part of the Digit
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI 联合创始人 John Schulman 加盟 Anthropic]]></title>
-        <id>https://www.solidot.org/story?sid=78898</id>
-        <link href="https://www.solidot.org/story?sid=78898"/>
-        <updated>2024-08-06T12:19:48.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI 联合创始人 John Schulman 宣布了离职，加盟竞争对手 Anthropic。Schulman 自 2016 年获得加州伯克利计算机科学博士之后一直在 OpenAI 工作。他在离职声明中表示希望继续深入研究 AI 对齐，而 OpenAI 在不到 3 个月前解散了其超级对齐（superalignment）团队。然而 Schulman 又强调离职不是因为 OpenAI 不支持 AI 对齐相关的工作，表示公司一直致力于相关研究的投资。超级对齐团队负责人 Jan Leike 和另一位联合创始人 Ilya Sutskever 也在早些时候离职，其中 Jan Leike 加盟了 Anthropic，而 Sutskever 联合创办了新公司 Safe Superintelligence Inc.。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FlowVision – 瀑布流式 macOS 看图软件]]></title>
         <id>https://www.appinn.com/?p=49237</id>
         <link href="https://www.appinn.com/flowvision/"/>
@@ -1181,78 +1315,6 @@ CSS Olympic Rings originally published on CSS-Tricks, which is part of the Digit
         <summary type="html"><![CDATA[FlowVision 是一款瀑布流式的 macOS 看图软件，可以在瀑布流模式下通过侧边栏切换路径，支持右键手势。@Appinn 来自发现频道：https://meta.appinn.net/t/to]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星电子工会调整罢工策略恢复工作]]></title>
-        <id>https://www.solidot.org/story?sid=78897</id>
-        <link href="https://www.solidot.org/story?sid=78897"/>
-        <updated>2024-08-06T09:09:28.000Z</updated>
-        <summary type="html"><![CDATA[三星电子工会从 7 月 8 日起宣布无限期罢工，7 月 29 日起与三星进行为期三天的谈判，就上调工资、完善奖励制度等事宜进行磋商，但双方未能达成协议，最终宣告谈判破裂。8 月 1 日工会在三星会长李在镕私宅前举行集会，要其出面解决问题。上周末，工会领导人要求罢工工人从本周一起恢复工作，表示将改变罢工策略，采用
-闪电式罢工和合规行动，此举预计将减轻罢工对参与者的财务影响。工会要求为其成员加薪 5.6%，三星只同意 5.1%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国航空公司耗尽四位数航班号]]></title>
-        <id>https://www.solidot.org/story?sid=78896</id>
-        <link href="https://www.solidot.org/story?sid=78896"/>
-        <updated>2024-08-06T08:11:29.000Z</updated>
-        <summary type="html"><![CDATA[因为历史原因，航空公司使用四位数航班号，这意味着最多有 9999 个数可用于分配给航班（没有零号航班），这对绝大多数航空公司是足够了。但美国三大航空公司——美航、达美和联合航空如今都面临四位数航班号耗尽的情况。以美航（American Airlines）为例，它每天运营逾 6700 个航班，理论上还有足够的四位数可用，但实际上并非如此。公司高管表示，每天运营的航班数实际上超过了 9999 个，因为公司有共享航班号的合作伙伴。四位数航班号系统始于 1960 年代，它由两个字母的航空公司代码和四位数的航班号构成，要添加一个数太困难了，航空公司的临时性解决方案是将同一个航班号分配给多个航班，但确保飞机不会同一时间在天上飞。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国法官裁决 Google 付费成为默认搜索引擎违反了反垄断法]]></title>
-        <id>https://www.solidot.org/story?sid=78895</id>
-        <link href="https://www.solidot.org/story?sid=78895"/>
-        <updated>2024-08-06T07:37:43.000Z</updated>
-        <summary type="html"><![CDATA[美国联邦法官周一裁决，Google 付费成为智能手机浏览器默认搜索引擎的行为违反了美国的反垄断法。法官 Amit Mehta 指出，Google 支付的 260 亿美元事实上阻止了任何其它竞争对手在搜索市场上取得成功。Google 被指在十几年里向苹果和三星等公司支付了数十亿美元，获得了智能手机和浏览器的黄金位置。这种默认搜索引擎的位置允许 Google 打造成为全球使用率第一的搜索引擎，获取每年逾 3000 亿美元的广告收入。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 市场份额突破三成]]></title>
-        <id>https://www.solidot.org/story?sid=78894</id>
-        <link href="https://www.solidot.org/story?sid=78894"/>
-        <updated>2024-08-06T06:28:10.000Z</updated>
-        <summary type="html"><![CDATA[随着 Windows 10 即将于 2025 年 10 月终止支持，越来越多的用户开始转向 Windows 11，其市场份额终于突破了三成。根据 Statcounter 的统计，2024 年 7 月的 Windows 桌面操作系统中，Windows 11 的比例达到了 30.82%，一个月内增长了 1.08%，比去年 7 月增长 7.17%。 Windows 10 的份额仍然高举第一占 65%，上个月下降 1.06%，比去年同期下降 11.15%。在其它停止支持的 Windows 版本中，Win7 3.04%，Win8.1 0.42%，WinXP
-0.38%，Win8 0.24%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克重启对 OpenAI 和 Sam Altman 的诉讼]]></title>
-        <id>https://www.solidot.org/story?sid=78893</id>
-        <link href="https://www.solidot.org/story?sid=78893"/>
-        <updated>2024-08-06T06:10:16.000Z</updated>
-        <summary type="html"><![CDATA[今年初，马斯克（Elon Musk）向旧金山高等法院起诉 OpenAI 及联合创始人 Sam Altman 等人，称其为了利润而非人类的利益开发人工智能，此举违反了合同。OpenAI 随后公开了马斯克的邮件，证明作为曾经的联合创始人，马斯克同意 OpenAI 建立一个盈利实体，还表示将提供资金，但之后暂停了资金支持，他的目的是获得多数股权和董事会控制权，双方最终因此终止了合作。七周前马斯克撤回了诉讼。现在马斯克向加州联邦法院重启诉讼，再次指控 OpenAI 联合创始人 Sam Altman 和 Greg Brockman 违反公司的创始原则，将商业利益置于公共利益之上。起诉书声称，这是莎士比亚式的...背信弃义和欺骗。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印尼以赌博色情理由封锁 DuckDuckGo]]></title>
-        <id>https://www.solidot.org/story?sid=78892</id>
-        <link href="https://www.solidot.org/story?sid=78892"/>
-        <updated>2024-08-06T05:48:41.000Z</updated>
-        <summary type="html"><![CDATA[印尼通讯部以在线赌博和色情理由封锁了 DuckDuckGo。印尼的穆斯林人口高居世界第一，它严格禁止在网络上分享淫秽色情内容。此前它已经屏蔽了社媒平台 Reddit 和视频平台 Vimeo。通讯部官员称，DuckDuckGo 被封锁是因为有很多人投诉上面能搜索到大量的赌博和色情内容。通讯部没有解释 DuckDuckGo 与 Google 和 Bing 等搜索引擎之间的差异。DuckDuckGo 的搜索引擎主要来自于 Bing。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双重作用抗生素让细菌几乎不可能产生耐药性]]></title>
-        <id>https://www.solidot.org/story?sid=78891</id>
-        <link href="https://www.solidot.org/story?sid=78891"/>
-        <updated>2024-08-05T15:57:33.000Z</updated>
-        <summary type="html"><![CDATA[科学家发现，一种双重作用抗生素将细菌产生耐药性的难度增加了 1 亿倍。被称为 Macrolones 的合成药能以两种不同的方式起效：其一是干扰蛋白质生产，其二是破坏 DNA 结构。由于细菌需要同时抵御两种攻击方式，它们几乎不太可能发展出耐药性。Macrolones 是一种合成抗生素，用不同的机制结合了两种广泛使用的抗生素的结构。大环内酯类（Macrolides）如红霉素可阻断核糖体——即细胞的蛋白质制造工厂；氟喹诺酮（Fluoroquinolones）如环丙沙星，靶向了被称为 DNA 促旋酶的细菌特定酶。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
