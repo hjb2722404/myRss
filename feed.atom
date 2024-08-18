@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-08-17T02:31:48.103Z</updated>
+    <updated>2024-08-18T02:35:31.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 年雨果奖公布结果]]></title>
+        <id>https://www.solidot.org/story?sid=79007</id>
+        <link href="https://www.solidot.org/story?sid=79007"/>
+        <updated>2024-08-17T23:59:09.000Z</updated>
+        <summary type="html"><![CDATA[2024 年世界科幻大会公布了今年的雨果奖结果。此前主办方披露发现了数百张欺骗性投票。2024 年雨果奖包括：]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型只是在模仿]]></title>
+        <id>https://www.solidot.org/story?sid=79006</id>
+        <link href="https://www.solidot.org/story?sid=79006"/>
+        <updated>2024-08-17T16:54:37.000Z</updated>
+        <summary type="html"><![CDATA[AI 学界将图灵测试视为智能的终结测试，然而图灵本人不是这么认为的，他将这一测试称为模仿游戏，将其作为与智能相关的一种简化的替代问题。然而当模仿游戏以图灵本人的名字命名之后，它被赋予了权威性，成为一代又一代 AI 研究人员追逐的目标。大模型就是这一目标的最新成果。大模型如 ChatGPT 所代表的 AI 在模仿人类上达到新的高度，以至于它的诞生在流行文化中被视为是一大转折点。但在技术层面上，大模型只是对数据的模仿，用 AI 研究员 Emily Bender 等人的话说就是“随机鹦鹉”。鹦鹉能流畅的重复类似人类的内容本身当然令人印象深刻。但它只是通过模仿伪装有智能，它依赖于训练数据，然后利用统计方法选择性的拟合数据，不可避免的会产生偏见和幻觉，这是它的特性而不是 bug。AI 的统计模型将我们的偏见编纂成法典，在计算客观性的伪装下重现它们。但为什么 AI 的模仿游戏备受科技巨头们的青睐？用马克思的话说，资本只关心商品的效用。简单来说，商品的包装比改进商品的使用价值对资本而言更为重要。但要实现真正的通用 AI，我们不能只着眼于模仿。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Ryzen 9 9950X 上对比 Windows 11 和 Ubuntu 24.04 性能]]></title>
+        <id>https://www.solidot.org/story?sid=79005</id>
+        <link href="https://www.solidot.org/story?sid=79005"/>
+        <updated>2024-08-17T14:26:28.000Z</updated>
+        <summary type="html"><![CDATA[AMD 最新一代的 Zen5 处理器已经上市，科技网站和视频博主也都公布了评测报告，Zen5 在生产力任务中的表现被认为达到了预期，但在游戏等任务中的表现则远未达到预期，以至于用户开玩笑的将 Zen5 称为 Zen5%——意思是与上一代 Zen4 相比变化只有 5%，而不是 AMD 宣称的 IPC 有 16% 的增幅。知名 Linux 网站 Phoronix 公布了它的评测报告，显示在 Linux 上 Zen5 的表现基本符合 AMD 的宣传。评测者应用户要求在相同的硬件上分别运行 Windows 11 和 Ubuntu 24.04，然后执行一系列基准测试。结果显示，在 Ubuntu 24.04 LTS 上 Ryzen 9 9950X 相比上一代的 7950X 平均改进了 14%，但在 Windows 11 下改进幅度只有 10%，9950X 在 Ubuntu 下的性能总体上高于 Windows 11。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tetrel Security 公布 OpenBMC 高危漏洞细节]]></title>
+        <id>https://www.solidot.org/story?sid=79004</id>
+        <link href="https://www.solidot.org/story?sid=79004"/>
+        <updated>2024-08-17T13:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Shawn the R0ck 写道：“
+Tetrel Security 公开了一个 SLPD-Lite 漏洞（CVE-2024-41660）的细节，slpd-lite 是 OpenBMC 的组件之一，此漏洞因为由 OpenBMC（部分OEM厂商实现）网络安全产生了严重的影响，因为它允许攻击者在易受攻击的系统上远程执行任意代码。
+
+OpenBMC 是一个为服务器开发标准基板管理控制器（BMC）的标准实现框架。BMC允许对服务器硬件进行远程管理，广泛部署在服务器硬件中，提供监控、日志记录功能以及带外恢复和维护工具。由于BMC通常具有高度特权，因此将BMC网络接口隔离到一个独立的管理网络是安全最佳实践。
+
+Tetrel在审查OpenBMC源代码时发现了slpd-lite子组件中的两个内存损坏漏洞。在典型部署中，成功利用这些漏洞将允许具有对BMC管理网络访问权限的攻击者完全攻陷BMC。
+
+第一个漏洞涉及堆中分配的数据的越界读取，可能泄露信息给攻击者。第二个漏洞允许攻击者在堆中分配的数据结构范围之外进行写入。结合这两个漏洞，可以直接实现远程漏洞利用。Tetrel公开了漏洞成因，和相关技术细节，包括代码片段和漏洞的潜在利用方式。同时，还提供了有关如何确认堆损坏可能性的重现步骤，以及在Ubuntu 22.04.04 LTS上测试漏洞的过程。
+
+如果你的数据中心使用了集成spld-lite的OEM厂商提供的BMC（无论是否基于OpenBMC)，务必尽快升级。HardenedVault的OpenBMC实现由于spld-lite并没有集成，所以不受影响。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Virtual Android Use Cases?]]></title>
+        <id>https://catonmat.net/what-are-virtual-android-use-cases</id>
+        <link href="https://catonmat.net/what-are-virtual-android-use-cases"/>
+        <updated>2024-08-17T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[A virtual Android is a platform for developers, testers, and tech enthusiasts to run Android apps and simulate various scenarios without needing physical Android devices. In this post, I'll explore the key use cases for virtual Androids, highlighting how they simplify app development, testing, and troubleshooting processes.
+Virtual Android Demo
+A demo speaks louder than a well written article. You can connect to a virtual Android via browserling.com/android. Built by me and my team, a virtual Android lets you test apps, browse the web, and access various Android environments directly in your browser, all without a physical device.
+What Are Virtual Browser Use Cases?
+App Development and Testing
+A virtual Android provides developers with a controlled environment to build, debug, and test app…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fusion – 比 miniflux 小，轻量级开源 RSS 聚合阅读器[Web]]]></title>
+        <id>https://www.appinn.com/?p=49332</id>
+        <link href="https://www.appinn.com/fusion-rss-reader/"/>
+        <updated>2024-08-17T02:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Fusion 是一款非常小巧、低资源占用的轻量级 RSS 聚合阅读器，可在本地通过二进制程序托管（比如直接运行 .exe），也支持 Docker 托管，简单易用。@Appinn 来自发现频道，开发者]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-08-14)]]></title>
         <id>https://css-tricks.com/?p=379881</id>
@@ -522,6 +596,37 @@ Swap PNG Colors
 Reverse PNG Colors
 Replace PNG Alpha Channel
 Make a PNG Signature Thinner
+Next week we'll add even more tools. See you then!
+PS. Use coupon code PNGLING for a 30% discount on these tools.]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We've Added 15 New PNG Tools]]></title>
+        <id>https://catonmat.net/15-new-png-tools</id>
+        <link href="https://catonmat.net/15-new-png-tools"/>
+        <updated>2024-08-13T17:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Team Browserling keeps shipping!
+Last week we added 10 new logo tools and today we just added 10 new tools to our PNG Tools collection.
+We've done our job and now it's Google's job to index them and rank them well.
+Here are the new PNG tools:
+Cut a PNG
+Center a PNG
+Reverse a PNG
+Multiply a PNG
+Clone a PNG
+Add a Shadow to a PNG
+Convert a PNG to a Silhouette
+Convert a PNG to a Stencil
+Separate PNG Colors
+Swap PNG Colors
+Reverse PNG Colors
+Replace PNG Alpha Channel
+Make a PNG Signature Thinner
+Convert SVG to PNG
+Add Space Around PNG
+Remove Space Around PNG
 Next week we'll add even more tools. See you then!
 PS. Use coupon code PNGLING for a 30% discount on these tools.]]></summary>
         <author>
@@ -1235,118 +1340,6 @@ Christian Heilmann: Let’s make a simpler, more accessible web originally publi
         <link href="https://www.solidot.org/story?sid=78921"/>
         <updated>2024-08-08T14:44:15.000Z</updated>
         <summary type="html"><![CDATA[盖洛普民意调查显示，美国共和党人对疫苗的认可度急剧下降。2019 年 52% 的美国共和党人认为父母让孩子接种疫苗“极其重要”，如今这一比例降为 26%。相比下，美国民主党人及其支持者有 63% 认为儿童接种疫苗极其重要，略低于 2019 年的 67%。总体上今天只有四成的美国人认为儿童接种疫苗极其重要，低于 2019 年的 58% 和 2001 年的 64%。93% 的民主党人认为接种疫苗极其重要或非常重要，而共和党人中的比例为 52%。此外，有多达 31% 的共和党人认为疫苗比其预防的疾病更危险。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联想 ThinkPad 的设计历经数十年未变]]></title>
-        <id>https://www.solidot.org/story?sid=78920</id>
-        <link href="https://www.solidot.org/story?sid=78920"/>
-        <updated>2024-08-08T10:46:20.000Z</updated>
-        <summary type="html"><![CDATA[联想 ThinkPad 笔电在 30 多年里基本没有发生变化。企业的技术主管表示熟悉和一致的体验是他们为什么喜欢它的原因。IBM 在 1992 年推出了首款 ThinkPad 品牌的 PC，2005 年联想收购 IBM PC 业务之后获得了ThinkPad 品牌，虽然此后 ThinkPad 变得更薄更轻，但它整体上方方正正的设计并没有变。联想给 Think 字母 i 加了个红点，除此之外 logo 都完全一样，键盘上的小红点也都没变，端口和摄像头位置也都保持一致。联想的做法对于一个崇尚变的行业而言是违反正觉的，但不变并没有导致它被淘汰，不同于黑莓、诺基亚和摩托罗拉，联想过去十几年的 PC 出货量始终保持领先位置。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗技公司澄清永久使用的订阅制鼠标只是一种设想不是实际产品]]></title>
-        <id>https://www.solidot.org/story?sid=78919</id>
-        <link href="https://www.solidot.org/story?sid=78919"/>
-        <updated>2024-08-08T09:07:07.000Z</updated>
-        <summary type="html"><![CDATA[罗技公司 CEO Hanneke Faber 最近关于采用订阅制的永久使用鼠标的言论引发了广泛争议，这家知名外设制造商随后撤回了相关言论。该公司澄清永久使用的订阅制鼠标只是一种内部讨论的设想，并不是计划中的产品。愈来愈多的产品和服务拥抱订阅制，对这种需要持续支付才能继续使用的做法也引发了反弹，订阅模式不能成为每个试图寻找新收入来源的 CEO 的默认反应。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[量子物理学家发现更安全的导航新法]]></title>
-        <id>https://www.solidot.org/story?sid=78918</id>
-        <link href="https://www.solidot.org/story?sid=78918"/>
-        <updated>2024-08-08T08:45:06.000Z</updated>
-        <summary type="html"><![CDATA[由于 GPS 精确且易于使用，美国海军学院停止教授传统导航方法如天文导航。但过去几年，GPS 被发现容易干扰，海军学院认为军官需要备用的导航方法，恢复了对天文导航的学习。北极星是不会改变位置的，毕竟黑客不能入侵天空。但如果天空上有云看不见星星呢？洛克希德马丁公司的工程师 Michael DiMario 有一个答案：量子传感器。DiMario 的团队过去五年一直在构建量子传感器原型。原型使用了人造钻石，用激光照射钻石，由于量子力学效应，钻石发射出多少光取决于当地的磁场。由于不需要与卫星通信，量子传感器不容易受到黑客攻击。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overleaf – 开源，在线实时多人协作 LaTeX 编辑器]]></title>
-        <id>https://www.appinn.com/?p=49255</id>
-        <link href="https://www.appinn.com/overleaf-latex-editor/"/>
-        <updated>2024-08-08T07:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Overleaf 是一款开源的在线实时协作 LaTeX 编辑器，可以让你个组的成员同时编辑一份文档。支持使用 Docker 在本地进行托管。@Appinn LaTeX 是什么 LaTeX 是一种排版系]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大堡礁面临生存威胁]]></title>
-        <id>https://www.solidot.org/story?sid=78917</id>
-        <link href="https://www.solidot.org/story?sid=78917"/>
-        <updated>2024-08-08T07:15:58.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《自然》期刊上的一项研究，过去十年 澳大利亚大堡礁内部和周围水温是过去 400 年最热的。这些变化增加了珊瑚大规模白化和死亡风险，而原因很可能是由人为导致的气候变化引起的。澳大利亚墨尔本大学团队利用珊瑚海内部和周围的珊瑚骨骼样本重建了1618—1995年的海表温度数据，并将这一数据集与 1900—2024 年的海表温度记录数据相结合。团队发现 1900 年前的温度相对稳定，但从 1960—2024 年，1 月至 3 月平均每 10 年升高 0.12℃。进一步模拟显示，1900 年后的变暖速度可归因于人为影响。
-
-团队指出，即使全球变暖按照《巴黎协定》控制在工业化前水平的 1.5℃ 以下，全球仍会损失 70% 到 90% 的珊瑚。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本年轻人起诉企业要求减少二氧化碳排放]]></title>
-        <id>https://www.solidot.org/story?sid=78916</id>
-        <link href="https://www.solidot.org/story?sid=78916"/>
-        <updated>2024-08-08T06:15:53.000Z</updated>
-        <summary type="html"><![CDATA[16 名居住在日本名古屋市等地的 10 至 20 多岁年轻人向名古屋地方法院提起诉讼，为抑制气候变化造成的负面影响，要求 10 家电厂削减火力发电产生的二氧化碳（CO2）排放。起诉书称，被告是国内最大规模的 CO2 排放企业，有义务遵循提出把全球平均气温升幅控制在比工业革命前高 1.5 度以内的《巴黎协定》目标进行减排。起诉书主张称，人为排放导致原告等面临气候变化引发的严重灾害危险，以及社团活动等时的中暑风险，且有预测显示今后会受到更严重影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA 考虑用 SpaceX 飞船搭救波音 Starliner 宇航员]]></title>
-        <id>https://www.solidot.org/story?sid=78915</id>
-        <link href="https://www.solidot.org/story?sid=78915"/>
-        <updated>2024-08-08T06:00:21.000Z</updated>
-        <summary type="html"><![CDATA[想象一下，你本来出差一周，结果到了目的地之后出差时间被迫延长了八个月，这有可能是波音 Starliner 宇航员的遭遇。Starliner 飞船于 6 月 5 日完成了首次载人飞行测试，将宇航员 Butch Wilmore 和 Suni Williams 送到了国际空间站，原计划在轨停留 8 天，6 月 14 日返回，但由于飞船发现了令人担忧的推进器故障，两名宇航员一直滞留在空间站。NASA 官员表示他们正考虑用 SpaceX 飞船将两名宇航员带回地面。SpaceX 计划在 9 月执行 Crew-9 载人飞行任务，但这次只搭乘两名宇航员而不是通常的四名，Crew Dragon 飞船明年将两名 Starliner 宇航员带回地球。NASA 官员表示他们仍然在与波音合作尝试用 Starliner 飞船运送两名宇航员返回。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 为 Android 系统推出“查找我的设备”众包网络，可通过他人设备查找自己的离线设备位置]]></title>
-        <id>https://www.appinn.com/?p=49249</id>
-        <link href="https://www.appinn.com/google-android-find-network/"/>
-        <updated>2024-08-08T05:43:51.000Z</updated>
-        <summary type="html"><![CDATA[Google 为 Android 系统推出了与 Apple 查找网络类似的服务：“查找我的设备”众包网络，可以通过别人的 Android 设备来查找自己的离线设备位置，也支持查找耳机、追踪器等设备。@]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve 也许在开发《半条命3》]]></title>
-        <id>https://www.solidot.org/story?sid=78914</id>
-        <link href="https://www.solidot.org/story?sid=78914"/>
-        <updated>2024-08-07T16:08:37.000Z</updated>
-        <summary type="html"><![CDATA[过去几天社交媒体上开始流传 Valve 可能在开发《半条命》系列新作的消息。原因是演员 Natasha Chandel 在个人履历里披露她参与了 Valve 代号为 White Sands 的游戏的配音。在引发关注之后，她删除了相关信息，甚至网站一度无法访问，但互联网档案馆保留了未删除的信息。White Sands 是新墨西哥州的一个国家公园，而新墨西哥州是黑山实验室（Black Mesa）所在地，而众所周知黑山实验室是半条命系列的故事中心。于是 White Sands 和《半条命》就建立起了联系。如果真的要开发新游戏，Valve 显然需要招募开发者，它截至 2021  年员工总数不到 400 人。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究称猫表现出对其它宠物死亡的悲痛之情]]></title>
-        <id>https://www.solidot.org/story?sid=78913</id>
-        <link href="https://www.solidot.org/story?sid=78913"/>
-        <updated>2024-08-07T15:53:37.000Z</updated>
-        <summary type="html"><![CDATA[猫通常被认为是独立、冷漠和善变的动物，但发表在《Applied Animal Behaviour Science》上的一项研究发现，猫并没有那么反社会，它们会对同一家庭的其它宠物死亡表现出悲痛之情——即使死去的是家犬。研究人员称，这意味着生离死别的经历具有普遍性。哀悼在动物王国里是一种广泛认可的现象，大象、海豚和黑猩猩会做出复杂的行为如守卫死去同伴的尸体，狗在家中另一只狗死亡后也会改变行为。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克将 X 变成个人的政治游乐场]]></title>
-        <id>https://www.solidot.org/story?sid=78912</id>
-        <link href="https://www.solidot.org/story?sid=78912"/>
-        <updated>2024-08-07T15:37:05.000Z</updated>
-        <summary type="html"><![CDATA[过去一个月，马斯克（Elon Musk）正式表态支持共和党总统候选人特朗普（Donald Trump）之后通过个人账号转发了多条与民主党相关的虚假信息。他还表示将成立一个支持特朗普的政治行动委员会，一度承诺每月向特朗普阵营捐赠 4500 万美元，但之后又反悔了。Twitter 前员工表示，马斯克正在做他曾经指责 Twitter 前领导层做的事情：玩弄政治。前员工称这是虚伪，马斯克知道社交媒体是一种媒体，是一种控制叙事方式。因担心报复而不愿意透露姓名的三名前员工表示，马斯克代表了一种新型的表演者——试图积极利用平台重塑美国及外国的政治，愿意为此承受监管罚款和广告收入下降。前员工称，他在巩固权力，系统性的摧毁公司所有的信誉标志，当他瞄准一位总统候选人时，意义就额外不同了。马斯克多年来一直在为此做准备。皮尤研究中心的研究发现，X 已表现出明显的党派倾向，它更受共和党选民的欢迎，而不再受民主党选民的欢迎，民主党人称他们的观点在 X 上受欢迎的可能性小于共和党人。X 的用户群也已经发生了变化，曾因违反社区规则而封杀的用户被解禁，大量公开宣称是白人至上主义者、阴谋论者和新纳粹分子都涌入了该平台。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
