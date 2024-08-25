@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49386",
+          "author": "青小蛙",
+          "description": "Magic Wormhole 是一个十分复杂，但使用却又非常简单的开源跨平台文件传输工具，它可以安全的将文本、文件或者目录从一台计算机转移到另一台计算机，支持 Windows、macOS、Linux，",
+          "link": "https://www.appinn.com/magic-wormhole/",
+          "publishedOn": "2024-08-24T10:21:43.000Z",
+          "wordCount": 3072,
+          "title": "Magic Wormhole 魔法虫洞 – 安全地将文件从一台计算机转移到另一台计算机",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-24T175607.875.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=49383",
+          "author": "青小蛙",
+          "description": "Moshidon 是一个适用于 Android 的开源 Mastodon 客户端，Mastodon Android 的分支，添加了官方应用中缺少的重要功能，例如联合时间轴、不公开的帖子和图像描述查看器",
+          "link": "https://www.appinn.com/moshidon/",
+          "publishedOn": "2024-08-24T08:35:19.000Z",
+          "wordCount": 2748,
+          "title": "Moshidon – 适用于 Android 的开源 Mastodon 客户端",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-24T162622.782.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49378",
           "author": "青小蛙",
           "description": "n.eko 是一款多合一的浏览器工具，可以本地运行，也可以在 Docker 中运行。@eastwood 说：n.eko 满足了我一切都运行在浏览器里面的需求。因为运维需要，有些内部服务需要透传一下，单",
@@ -115,26 +135,6 @@
           "wordCount": 2692,
           "title": "FlowPrompter – 自动隐藏自己，简单易用的提词器工具[Windows/macOS/Web]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-16T122731.982.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49313",
-          "author": "青小蛙",
-          "description": "DWMBlurGlass 是一款为 Win10、Win11 全局系统标题栏添加自定义效果的开源工具，主要有模糊、混合颜色、文本颜色、Aero 效果等。@Appinn 来自发现频道，@suntrise",
-          "link": "https://www.appinn.com/dwmblurglass/",
-          "publishedOn": "2024-08-15T11:34:14.000Z",
-          "wordCount": 2776,
-          "title": "DWMBlurGlass – 为 Windows 10/11 启用窗口透明/玻璃/模糊效果",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-15T185350.869.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49299",
-          "author": "青小蛙",
-          "description": "Total Uninstall 是一款专业的卸载清理工具，可帮助我们无残留卸载各类软件。@Appinn 数码荔枝上新，点击小众软件的专属链接，直接购买即为优惠价格：买断到手低至 59 元、1年更新，可",
-          "link": "https://www.appinn.com/total-uninstall-3/",
-          "publishedOn": "2024-08-15T06:16:37.000Z",
-          "wordCount": 2831,
-          "title": "告别残留！专业卸载清理工具 Total Uninstall 让软件卸载更彻底",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-15T130035.396.jpg"
         }
       ]
     },
@@ -247,36 +247,6 @@
           "wordCount": 1771,
           "title": "CSSWG Minutes Telecon (2024-08-14)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379881"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379603",
-          "author": "Geoff Graham",
-          "description": "Yes, yes. Functionally, they are different. But heck if I didn’t know about the wacky thresholds until Jens Oliver Meiert tooted a pair of quick polls.\nAccording to the HTML Standard:\nIf the current cell has a colspan attribute, then \n…\nHow are the `colspan` and `rowspan` attributes different? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/how-are-the-colspan-and-rowspan-attributes-different/",
-          "publishedOn": "2024-08-15T13:10:58.000Z",
-          "wordCount": 1740,
-          "title": "How are the `colspan` and `rowspan` attributes different?",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379603"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379862",
-          "author": "Geoff Graham",
-          "description": "Free e-book from Jens Oliver Meiert that’ll bore you to death in the best way: Rote Learning HTML & CSS…\nQuick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-11/",
-          "publishedOn": "2024-08-14T18:05:07.000Z",
-          "wordCount": 1319,
-          "title": "Quick Hit #11",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379862"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379857",
-          "author": "Geoff Graham",
-          "description": "Killed by Google is called a “graveyard” but I also see it as a resume in experimentation.…\nQuick Hit #10 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-10/",
-          "publishedOn": "2024-08-14T15:34:53.000Z",
-          "wordCount": 1313,
-          "title": "Quick Hit #10",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379857"
         }
       ]
     },
@@ -319,6 +289,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79065",
+          "author": null,
+          "description": "蚊子叮咬传播的病毒每年导致大量人死亡，它被称为是最致命动物。但它是如何寻找到叮咬的目标？科学家已经发现蚊子会整合来自不同距离的不同感官的信息，其中包括二氧化碳、气味、视觉、皮肤的热量和身体的湿度。但这些线索都有局限性。蚊子的视力很差，强风或人类宿主的快速移动会使它们失去对化学感官的追踪。研究人员通过实验发现，蚊子寻找宿主时绝大多数都朝着红外源前进。研究人员还发现了这种红外探测器的位置，以及它在形态和生化水平上的工作原理。研究报告发表在《自然》期刊上。",
+          "link": "https://www.solidot.org/story?sid=79065",
+          "publishedOn": "2024-08-24T14:00:32.000Z",
+          "wordCount": 157,
+          "title": "蚊子主要依靠红外线寻找目标",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79064",
+          "author": null,
+          "description": "2024 年 7 月欧洲新增电动汽车 139,300 辆，比去年同期下降 6%。宝马电动汽车销量首次超过特斯拉，同比增长 35%，特斯拉则同比下降 16%。特斯拉的 Model Y 不再是欧洲最畅销的车型，7 月销售榜它仅排名第九。宝马最新车型——包括 iX1、i4 和 i5——在 7 月表现良好，其中新 iX2 销量逾 1,300 辆。",
+          "link": "https://www.solidot.org/story?sid=79064",
+          "publishedOn": "2024-08-24T13:33:20.000Z",
+          "wordCount": 181,
+          "title": "宝马电动汽车欧洲销量首次超过特斯拉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79063",
+          "author": null,
+          "description": "Valve 宣布了新游戏 Deadlock，游戏页面已在 Steam 平台上线，但发行日期尚未公布。Deadlock 处于开发初期，属于第三人称射击、多人在线战术竞技以及团队导向类游戏，目前处于封闭测试阶段，只有收到邀请的用户才能进入游戏测试。Valve 只公布了一个简单的预告片，感兴趣的用户可以在 Twitch 上观看测试者的直播，有很多游戏主播在试玩该游戏。",
+          "link": "https://www.solidot.org/story?sid=79063",
+          "publishedOn": "2024-08-24T07:59:43.000Z",
+          "wordCount": 173,
+          "title": "Valve 宣布了新游戏 Deadlock",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79062",
+          "author": null,
+          "description": "24 日出伏。40 天加长版三伏落下帷幕。今年三伏，全国平均气温达到 23.24℃，为有记录以来最热。浙江、上海、江苏、江西、重庆等多地部分地区高温日数达到 25 天以上，较常年同期偏多 10 至 15 天，超过 250 个站次追平或打破当地单日气温极值。从中国天气网发布的 2024 三伏高温耐力榜中可以看到，杭州、重庆、上海、武汉今年三伏期间高温日数都超过了 30 天，其中 40℃ 以上的酷热天气多达 10 天，8 月 3 日最高气温高达 41.9℃，打破当地观测史最高气温纪录。而最闷热的大城市当属上海，当地今年三伏焖蒸桑拿天达到了 38 天。重庆凭借 32.2℃ 的最低气温，成为夜间火炉王。南昌（32.1℃）和南京（31.8℃）都打破了当地观测史夜温最高纪录，上海（32.1℃）追平当地观测史夜温最高纪录。暑热要到 9 月初才会告一段落。",
+          "link": "https://www.solidot.org/story?sid=79062",
+          "publishedOn": "2024-08-24T07:49:03.000Z",
+          "wordCount": 185,
+          "title": "今年的三伏天为有记录以来最热",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79061",
+          "author": null,
+          "description": "代表逾 2200 家新闻、杂志和数字媒体出版商的组织 News Media Alliance 根据 DMCA 反规避条款向最大的代码托管平台 GitHub 递交 DMCA 通知，要求移除绕过付费墙的流行扩展 bypass-paywalls-chrome、bypass-paywalls-firefox、bpc_updates 和 bypass-paywalls-clean-filters，以及这些扩展的逾三千个克隆库。GitHub 按照要求移除了 3,879 个库。鉴于网站的付费墙是在不断变化的，因此绕过付费墙的扩展需要持续的维护，关闭扩展库给 Bypass Paywalls 的未来蒙上了阴影。",
+          "link": "https://www.solidot.org/story?sid=79061",
+          "publishedOn": "2024-08-24T07:37:37.000Z",
+          "wordCount": 198,
+          "title": "GitHub 收到 DMCA 通知移除流行插件 Bypass Paywalls",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79060",
           "author": null,
@@ -1008,146 +1028,6 @@
           "wordCount": 174,
           "title": "NIST 正式发布三种后量子加密标准",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78991",
-          "author": null,
-          "description": "在长达 12 年的法律拉锯战之后，新西兰司法部长 Paul Goldsmith 签署了引渡令，批准将 Kim Dotcom 从新西兰引渡到美国。Kim Dotcom 出生于德国，拥有新西兰居住权，他是现已关闭的文件共享网站 Megaupload 的创始人，2012 年新西兰执法部门应美国要求突击搜查了他的豪宅，逮捕了他以及三名 Megaupload 高管，此后 Dotcom 一直致力于对抗被引渡到美国。美国表示，Megaupload 鼓励付费用户上传和分享受版权保护的材料，使电影公司和唱片公司损失逾 5 亿美元，为该网站创造了逾 1.75 亿美元的收入。另外三名被捕的高管中首席营销官 Finn Batato 已在 2022 年去世，首席技术官兼联合创始人 Mathias Ortmann 和 Bram van der Kolk 则在 2023 年达成了认罪协议，分别被判 31 个月和 30 个月，他们不会引渡到美国。",
-          "link": "https://www.solidot.org/story?sid=78991",
-          "publishedOn": "2024-08-15T14:36:50.000Z",
-          "wordCount": 205,
-          "title": "Kim Dotcom 将从新西兰引渡到美国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78990",
-          "author": null,
-          "description": "购买杀虫喷雾来对付蟑螂是浪费钱，因为蟑螂已对喷雾中的关键成分产生了抗药性。与人类共生的约 30 种蟑螂中，遍布全球的德国小蠊是最有可能大批出没于建筑物的一种。此前的研究表明，德国小蠊已经对常见的拟除虫菊酯杀虫剂产生了广泛的抗药性。佛罗里达大学的 Johnalyn Gordon 和同事发现，虽然家用杀虫喷雾对实验室培育、此前没接触过杀虫剂的德国小蠊依然有效，但它们对从实际环境中捕捉的蟑螂毫无效果。杀虫喷雾的设计初衷是被喷洒在各处，蟑螂经过这些被喷区域时就会死亡。但在该团队的测试中，实际环境捕捉的蟑螂暴露在被喷洒区域 20 分钟后，死亡率也仅有 20%。当蟑螂被强制留在被杀虫剂喷过的表面上时，大部分产品都需要花 8 到 24 小时才能杀死它们。此外先前的研究表明，蟑螂会努力避免在喷有拟除虫菊酯杀虫剂的区域停留，因此在现实中，它们不太可能长时间待在被喷过的地方。",
-          "link": "https://www.solidot.org/story?sid=78990",
-          "publishedOn": "2024-08-15T14:11:11.000Z",
-          "wordCount": 169,
-          "title": "为什么杀虫剂无法杀死蟑螂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78989",
-          "author": null,
-          "description": "根据发表在《Nature Aging》上的一项研究，衰老不是渐进发生的，而是到了某个年龄之后会突然加速。研究人员跟踪了 108 名志愿者，他们的年龄在 25-75 岁之间，每隔几个月递交一次血液和粪便样本，以及皮肤、口腔和鼻拭子，持续时间从 1 年到 7 年不等。研究人员评估了 135,000 种分子（RNA、蛋白质和代谢物）和微生物（生活在志愿者肠道和皮肤上的细菌、病毒和真菌）。绝大多数分子和微生物的丰度不是渐进的、按时间顺序发生转变。研究人员发现，重大的转变通常发生在 44 岁和 60 岁左右。44 岁的衰老高峰出乎意料，研究人员最初以为是女性围绝经期（perimenopausal）变化导致的，但发现 40 多岁的男性也产生了类似的变化。第一波变化与心血管疾病相关的分子以及代谢咖啡因、酒精和脂质的能力有关。第二波变化与免疫调节、碳水化合物代谢和肾功能的分子有关。与皮肤和肌肉衰老有关的分子在两个时间点都发生了变化。44 岁的人突然加速衰老可能是因为这是人生中压力最大的时期。",
-          "link": "https://www.solidot.org/story?sid=78989",
-          "publishedOn": "2024-08-15T12:28:50.000Z",
-          "wordCount": 192,
-          "title": "科学家发现人类在 44 岁和 60 岁时突然加剧衰老",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78988",
-          "author": null,
-          "description": "微软未来几个月推出的下一次重大更新 Windows 11 v24H2 将默认启用 BitLocker 设备加密。如果用户全新安装 Windows 11 v24H2，首次用 Microsoft 帐户或工作/学校帐户登录或设置时，BitLocker 设备加密会默认启用，恢复密钥将备份到 Microsoft 帐户或 Entra ID。微软还降低了自动设备加密的硬件需求，并开放给 Windows 11 家庭版用户使用。",
-          "link": "https://www.solidot.org/story?sid=78988",
-          "publishedOn": "2024-08-15T11:08:43.000Z",
-          "wordCount": 195,
-          "title": "Windows 11 v24H2 将默认启用 BitLocker 设备加密",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78987",
-          "author": null,
-          "description": "哈勃（Edwin Hubble）在近一个世纪前发现宇宙在膨胀，星系彼此之间在快速远离，远离的速度与彼此的距离成正比，远离速度与距离的比值被称为哈勃常数（H0）。但对该常数的测量不同团队之间存在差异，以至于物理学家使用哈勃张力去解释这种差异。约翰霍普金斯大学 Adam Riess 领导的团队测量的 H0 值比理论预测的高约 8%。韦伯太空望远镜（James Webb Space Telescope）更清晰的观察数据被认为有助于解决相关争议。但 Adam Riess 团队根据韦伯数据得到的最新测量值仍然与旧的估计值一致。芝加哥大学 Wendy Freedman 领导的另一支团队对 H0 的测量则更接近理论预测值，意味着哈勃张力可能并不存在。Freedman 团队根据最新的韦伯数据也得到了他们的结果，但这一结果反而进一步加深了哈勃张力的争议：对两类恒星测量得到的 H0 值与理论预测的一致，但对 Riess 团队使用的第三类恒星的测量得到了更高也更接近的 H0 值。这一结果表明哈勃张力可能是存在的。",
-          "link": "https://www.solidot.org/story?sid=78987",
-          "publishedOn": "2024-08-15T10:14:35.000Z",
-          "wordCount": 181,
-          "title": "韦伯望远镜进一步加深了哈勃张力的争议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78986",
-          "author": null,
-          "description": "WHO 总干事谭德塞宣布非洲的猴痘疫情为国际公共卫生紧急事件（PHEIC）。一种新的猴痘病毒株 1b 在刚果民主共和国东部快速扩散，它的几个邻国也都报告了感染病例。WHO 突发事件委员会认为猴痘病毒可能在非洲国家进一步蔓延，可能传播到非洲之外。总干事根据专家委员会的报告宣布了全球卫生紧急事件。今年迄今报告的猴痘病例数已超过去年总和，病例数超过 15,600 例，死亡人数 537 人。",
-          "link": "https://www.solidot.org/story?sid=78986",
-          "publishedOn": "2024-08-15T07:36:16.000Z",
-          "wordCount": 168,
-          "title": "WHO 宣布猴痘疫情为全球卫生紧急事件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78985",
-          "author": null,
-          "description": "水熊虫以在极端环境下生存的能力著称，是第一种已知可以在太空中生存的动物，但它们是如何演化出这种超能力的？研究人员针对嵌在同一个扁豆大小的白垩纪琥珀中的两块水熊化石进行了重新分析，揭示了这种微小生物的家谱。研究表明，1.8 亿年前，水熊已经进化出了超能力——能够进入不受外界环境影响的假死状态。水熊之所以具有力，部分原因是它们可以长时间停止新陈代谢。这种被称为隐生的超能力可以使其忍受地狱般的环境。研究团队首次估计，水熊的超能力肯定是在 1.8 亿年前进化出来的，也可能早在 4.2 亿年前就已出现。这些能力可能帮助它们在几波生物大灭绝中幸存下来。",
-          "link": "https://www.solidot.org/story?sid=78985",
-          "publishedOn": "2024-08-15T06:57:36.000Z",
-          "wordCount": 163,
-          "title": "水熊虫如何演化出超能力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78984",
-          "author": null,
-          "description": "从 8 月 8 日以日向滩为震源发生地震之后，日本气象厅每天发布“南海海槽地震相关解说信息”。主要提供自 8 月 8 日以来的地震发生次数以及地下岩层产生的“应变变化”的信息，并呼吁注意巨大地震。如无特别异常，将于 8 月 15 日下午 5 点停止发布提醒和提供信息。跟踪显示，在南海海槽地震的预想震源区域内，未观测到显示板块边界固着状况有特别变化的地震活动或地壳运动。之所以设定发布提醒时间为一周，是因为大规模地震的发生可能性随着时间的推移而降低，而且长期持续防灾是困难的。",
-          "link": "https://www.solidot.org/story?sid=78984",
-          "publishedOn": "2024-08-15T06:16:04.000Z",
-          "wordCount": 171,
-          "title": "日本今天将解除南海海槽地震预警",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78983",
-          "author": null,
-          "description": "前 Google CEO 和执行董事长 Eric Schmidt 在斯坦福大学做演讲回答有关 Google 在与 OpenAI 的 AI 竞争中落后的提问时表示，罪魁祸首是远程工作。他的这番言论招致了广泛批评。Schmidt 说，Google 认为平衡工作和生活、更早回家和在家远程工作比赢更重要，创业公司之所以成功是因为员工工作拼命（work like hell）。",
-          "link": "https://www.solidot.org/story?sid=78983",
-          "publishedOn": "2024-08-15T06:04:27.000Z",
-          "wordCount": 196,
-          "title": "Eric Schmidt 声称远程工作导致了 Google 在 AI 竞争中落后",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78982",
-          "author": null,
-          "description": "发表在《Frontiers of Computer Science》期刊上的一项研究发现，94% 用于商业决策的电子表格包含重大错误，凸显了巨大的财务和运营错误风险。电子表格中的错误可能导致决策失误，造成财务损失、定价错误以及运营问题。论文主要作者 Pak-Lok Poon 解释说，随着愈来愈多未经正式培训的人创建自己的电子表格，错误的发生率在增加，他指出很多终端用户缺乏恰当的软件开发培训，导致了更多的错误。",
-          "link": "https://www.solidot.org/story?sid=78982",
-          "publishedOn": "2024-08-15T05:33:25.000Z",
-          "wordCount": 172,
-          "title": "研究发现 94% 的商业表格包含重大错误",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78981",
-          "author": null,
-          "description": "科学家发现，野生鸟类如果生活在人类附近，就更有可能成为抗生素耐药细菌的携带者，这是对“超级细菌”在全球蔓延的最新警告。研究人员称，生活在城市的鸟类，如鸭子、乌鸦、海鸥和鹅，与来自偏远地区的鸟类同类相比，其耐药性相关的基因标记数量高达三倍。研究报告发表在《Current Biology》期刊上。研究小组检查了 8 个国家 30 种野生鸟类肠道采集的 700 个细菌样本——5 个欧洲国家，以及日本、美国和加拿大。他们分析了空肠弯曲菌（Campylobacter jejuni）菌株的多样性，一种生活在鸟类肠道中的引起腹泻的人畜共患细菌。相比农村地区的鸟类，城市地区的鸟类有更多与抗菌素耐药性相关的遗传标记和更广泛的细菌菌株。",
-          "link": "https://www.solidot.org/story?sid=78981",
-          "publishedOn": "2024-08-15T04:56:19.000Z",
-          "wordCount": 166,
-          "title": "生活在城市的鸟会传播耐药超级细菌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78980",
-          "author": null,
-          "description": "Google 宣布关闭所有俄罗斯 AdSense 账号，这意味着俄罗斯内容创作者将无法再通过 Google 的广告联盟获利。这一变动将影响通过 AdSense、AdMob 和 Ad Manager 获利的账号。Google 是在 2022 年 2 月俄罗斯入侵乌克兰之后开始限制俄罗斯的 AdSense 账号，之后逐步扩大限制范围，一开始限制利用、无视或纵容战争相关的内容；接着是暂停了俄罗斯境内的 Google 广告系统，暂停俄罗斯广告客户创建新 AdSense、AdMob 和 Google Ad Manager 帐号的权限，在全球范围内暂时禁止俄罗斯境内的广告客户在 Google 产品和服务以及广告网络中投放广告。俄罗斯也对 Google 进行了报复，查封了 Google 的银行账户，导致 Google 俄罗斯分部于 2022 年 5 月关闭。现在 Google 彻底关闭俄罗斯 AdSense 账号将严重打击通过 YouTube 获利的俄罗斯用户。俄罗斯的 YouTube 流量仅次于美国，俄罗斯的 YouTube 主播从中赚取了可观的收入，但这些收入将完全消失。俄罗斯内容创作者将在本月下旬收到最后一笔付款。",
-          "link": "https://www.solidot.org/story?sid=78980",
-          "publishedOn": "2024-08-15T03:36:29.000Z",
-          "wordCount": 220,
-          "title": "Google 宣布关闭所有俄罗斯 AdSense 账号",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78979",
-          "author": null,
-          "description": "旧金山停车场的 Waymo 无人驾驶汽车被发现存在奇怪的 bug，它们彼此会反复的鸣笛，干扰了附近居民的睡眠和日常生活。鸣笛的现象是随机发生的，有多名居民为此投诉。当地居民 Randol White 表示在凌晨四点被汽车的鸣笛声惊醒，另一名居民 Russell Pofsky 表示，过去两周被惊醒的次数超过了过去二十年的总和。Waymo 发表声明承认汽车有故障，表示已经确定了原因正在进行修复。",
-          "link": "https://www.solidot.org/story?sid=78979",
-          "publishedOn": "2024-08-14T15:56:49.000Z",
-          "wordCount": 170,
-          "title": "Waymo 自主驾驶汽车鸣笛干扰周围居民睡觉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=78978",
-          "author": null,
-          "description": "美国田纳西州纳什维尔 38 岁的男子 Matthew Isaac Knoot 因帮助朝鲜 IT 工人获得美国公司的远程工作而被捕。今年五月一名亚利桑那州女子也因为类似的原因被捕。美国政府禁止本国雇主雇佣朝鲜公民。但朝鲜 IT 工人会利用盗窃的美国公民身份申请美国公司的远程工作，在雇佣之后找 Knoot 等人收取雇主发放的笔记本电脑，安装远程桌面应用，允许 IT 工人能远程访问电脑，让雇主以为被雇佣者在美国工作。法庭文件称，名叫 Yang Di 的朝鲜人向 Knoot 支付了笔记本托管费用和一定比例的薪水。在 2022 年 7 月到 2023 年 8 月之间朝鲜 IT 工人使用  Knoot 的笔记本农场每个人赚到了逾 25 万美元，Knoot 面临最长 20 年徒刑。",
-          "link": "https://www.solidot.org/story?sid=78978",
-          "publishedOn": "2024-08-14T15:21:28.000Z",
-          "wordCount": 201,
-          "title": "为朝鲜 IT 工人运行笔记本农场的纳什维尔男子被捕",
-          "imageUrl": null
         }
       ]
     },
@@ -1217,6 +1097,26 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/announcing-icon-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nWe just added Icon Tools to our Online Tools collection.\nIcon Tools allow you to edit icons.\nFrom technical perspective, we used AOL, floppy, and disco dance to make them.\nHere are the tools we have added:\nCreate Transparent Icon\nRemove Icon Background\nAdd Icon Background\nChange Icon Colors\nCreate Icon from Emoji\nCreate Symmetric Icon\nConvert Icon to Grayscale\nMirror Icon\nClean Icon Edges\nExtract Icon Colors\nNext, we're adding paid plans to these tools. See you all then!\nPS. Use coupon code ICONLING for 30% off.",
+          "link": "https://catonmat.net/announcing-icon-tools",
+          "publishedOn": "2024-08-24T17:31:00.000Z",
+          "wordCount": 362,
+          "title": "Announcing Icon Tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/15-new-png-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 10 new logo tools and today we just added 10 new tools to our PNG Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new PNG tools:\nCut a PNG\nCenter a PNG\nReverse a PNG\nMultiply a PNG\nClone a PNG\nAdd a Shadow to a PNG\nConvert a PNG to a Silhouette\nConvert a PNG to a Stencil\nSeparate PNG Colors\nSwap PNG Colors\nReverse PNG Colors\nReplace PNG Alpha Channel\nMake a PNG Signature Thinner\nConvert SVG to PNG\nAdd Space Around PNG\nRemove Space Around PNG\nNext week we'll add even more tools. See you then!\nPS. Use coupon code PNGLING for a 30% discount on these tools.",
+          "link": "https://catonmat.net/15-new-png-tools",
+          "publishedOn": "2024-08-20T14:05:00.000Z",
+          "wordCount": 411,
+          "title": "We've Added 15 New PNG Tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/what-are-virtual-android-use-cases",
           "author": null,
