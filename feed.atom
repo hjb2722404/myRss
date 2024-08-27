@@ -2,10 +2,156 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-08-26T02:36:36.592Z</updated>
+    <updated>2024-08-27T02:35:46.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Understanding Gutenberg Blocks, Patterns, and Templates]]></title>
+        <id>https://css-tricks.com/?p=380047</id>
+        <link href="https://css-tricks.com/understanding-gutenberg-blocks-patterns-and-templates/"/>
+        <updated>2024-08-26T17:27:16.000Z</updated>
+        <summary type="html"><![CDATA[Developers suffer in the great multitudes whom their sacred block-based websites cannot reach.
+Johannes Gutenberg (probably)
+
+Long time WordPresser, first time Gutenberger here. I’m a fan even though I’m still anchored to a classic/block hybrid setup. I believe Johanes himself …
+Understanding Gutenberg Blocks, Patterns, and Templates originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马克龙表示对 Pavel Durov 的逮捕与政治动机无关]]></title>
+        <id>https://www.solidot.org/story?sid=79079</id>
+        <link href="https://www.solidot.org/story?sid=79079"/>
+        <updated>2024-08-26T16:05:42.000Z</updated>
+        <summary type="html"><![CDATA[法国总统马克龙（Emmanuel Macron）周一表示，周六晚上对 Telegram 创始人兼 CEO Pavel Durov 的逮捕不涉及政治动机。Durov 是在乘坐私人飞机抵达巴黎之后被拘留的。马克龙称，对 Telegram CEO 的逮捕是正在进行的调查的一部分，由法官决定，无关政治。整个行动是由司法部门和调查人员处理的。Pavel Durov 目前仍然处于警方拘留状态。Telegram 被控与贩毒、恐怖主义和网络霸凌等一系列事件相关。Telegram 则发表声明声称该公司遵守欧盟法律。马克龙表示，在一个法治国家，无论是在社交网络还是在现实生活中，自由都是在法律建立的框架内行使的，以保护公民并尊重其基本权利。司法系统是独立的执行法律。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国科技巨头的 AI 支出增加了一倍]]></title>
+        <id>https://www.solidot.org/story?sid=79078</id>
+        <link href="https://www.solidot.org/story?sid=79078"/>
+        <updated>2024-08-26T15:41:12.000Z</updated>
+        <summary type="html"><![CDATA[尽管美国的制裁旨在限制中国在 AI 上取得进展，但中国科技巨头今年在 AI 基础设施上大举投资，资本支出翻了一番。阿里巴巴、腾讯和百度今年上半年合计资本支出 500 亿元人民币，而去年同期为 230 亿元人民币。这几家集团表示，支出重点是购买处理器和基础设施，为 AI 的大型语言模型训练提供支持，包括它们自己的模型和其他公司的模型。TikTok 母公司字节跳动也增加了 AI 支出，它是非上市公司，不受投资者审查，拥有逾 500 亿美元现金储备。阿里巴巴上半年资本支出 230 亿元人民币，比去年同期增长 123%。尽管美国限制向中国出售最先进的 AI 芯片，但中国科技公司正大量采购允许出口的芯片如英伟达的 H20。英伟达未来几个月将向中国公司出口逾百万个价格在 1.2-1.3 万美元的 AI 芯片，它主要的客户是字节跳动。字节跳动除了购买 H20 用于中国的数据中心，还在马来西亚的 Johor 与合作伙伴建造数据中心。腾讯今年上半年资本支出 230 亿元人民币，同比增长 176%。百度的 AI 支出相当克制，它上半年支出 42 亿元人民币，同比增长 4%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Hit #13]]></title>
+        <id>https://css-tricks.com/?p=380087</id>
+        <link href="https://css-tricks.com/quick-hit-13/"/>
+        <updated>2024-08-26T15:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Happy birthday, Chris Coyier — and thank you for CSS-Tricks as well as everything you do at CodePen, ShopTalk, Boost, and even your personal blog!…
+Quick Hit #13 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[复旦微电子的 RFID 芯片被发现使用相同密钥]]></title>
+        <id>https://www.solidot.org/story?sid=79077</id>
+        <link href="https://www.solidot.org/story?sid=79077"/>
+        <updated>2024-08-26T11:13:32.000Z</updated>
+        <summary type="html"><![CDATA[法国安全服务公司 Quarkslab 的研究员 Philippe Teuwen 发现，复旦微电子集团制造的非接触式读卡器芯片使用了相同的密钥，允许在数分钟内克隆 RFID 智能卡，打开世界各地的房门。复旦微电子在 2020 年发布了用于门锁钥匙、小额支付、会员卡的 FM11RF08S，它使用了被称为“静态加密随机数（static encrypted nonce）”的方法，研究人员设计了一种攻击方法，如果 FM11RF08S 密钥在至少三张卡上重复使用，就能破解它。进一步研究发现，FM11RF08S 存在一个硬件后门——也就是所有卡使用的相同密钥。Teuwen 发现上一代的 FM11RF08 存在相似的后门但使用了不同的密钥，该密钥被发现被 FM11RF08、FM11RF32、FM1208-10，以及 NXP 和 Infineon 的部分卡使用。Quarkslab 督促世界各地的酒店检查其房卡使用的芯片，评估安全风险。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拯救被遗忘的音乐]]></title>
+        <id>https://www.solidot.org/story?sid=79076</id>
+        <link href="https://www.solidot.org/story?sid=79076"/>
+        <updated>2024-08-26T10:10:57.000Z</updated>
+        <summary type="html"><![CDATA[你可能以为能在网络上找到所有的音乐，但根据美国国会图书馆的调查，网络上的音乐只占到所有录制唱片的不到五分之一。很多唱片因为复杂的合同或者纯粹被遗忘而未能上线。在英国伦敦一家律所工作的 Rob Johnson 正试图拯救这些被遗忘的唱片。他通过联络唱片公司和音乐人重新发行被遗忘的歌曲，他至今负责发行了 725 张专辑。拯救歌曲需要做很多工作，必须检查合同，找到原始录音源，流媒体服务需要大量的元数据。Maria Nayler 以唱 Robert Miles 在 1996 年的热门单曲 One And One 知名，她与唱片公司 DeConstruction Records 签约发行其首张专辑《She》，虽然该公司花了 27 万英镑但专辑因怀孕被取消了。DeConstruction 被 BMG 收购，然后被索尼收购，最终关闭，没人确定谁有该专辑的母带。她给索尼的 75 个人发了封电子邮件。两分钟内，存档团队回复并同意追踪该专辑。《She》最终于 2023 年 1 月发行。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[后门通过 DNS 流量与 CC 服务器通信]]></title>
+        <id>https://www.solidot.org/story?sid=79075</id>
+        <link href="https://www.solidot.org/story?sid=79075"/>
+        <updated>2024-08-26T09:00:45.000Z</updated>
+        <summary type="html"><![CDATA[赛门铁克研究人员报告了一种使用罕见技术的后门 Backdoor.Msupedge。它通过 DNS 流量与 C&C（指令控制）服务器通信。它的 DNS 隧道工具是基于公开代码的 dnscat2 工具。Msupedge 还通过 C&C 服务器（ctl.msedeapi[.]net)）域名解析到 IP 地址作为指令。解析后的 IP 地址的第三个八位组是一个开关语句，后门的行为将根据该八位组减去 7 的值而进行改变。攻击者可能是通过最近修复的 PHP 高危漏洞 CVE-2024-4577 入侵系统的，漏洞的危险评分 9.8/10，影响 Windows 系统上安装的所有版本的 PHP，成功利用漏洞允许远程执行代码。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台湾执法部门突击搜查盗版 IPTV 运营者]]></title>
+        <id>https://www.solidot.org/story?sid=79074</id>
+        <link href="https://www.solidot.org/story?sid=79074"/>
+        <updated>2024-08-26T08:10:38.000Z</updated>
+        <summary type="html"><![CDATA[台湾刑事警察局搜查了台中一处将空房变成 24 小时盗录有线电视讯号的机房，查获了 72 个机顶盒，72 台编码器，服务器两台，PC 两台、Switch 六台，逮捕了两名嫌疑人。该机房属于晴天 TV 应用的下游分部，上游位于大陆。逮捕的两名嫌疑人其中一人负责承租场地架设机房，另一人则负责网络营销。晴天 TV 允许用户一年花费 950 新台币，即可不受限制的观看各个频道的流媒体节目。警方查获的纪录显示，过去两年至少有 3 千笔交易，获利逾 250 万，此次破获的机房可能只是盗版产业链的冰山一角。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deku SMS – 开源安卓短信工具，支持 Webhook、SMTP、FTP 转发短信｜集成 RabbitMQ]]></title>
+        <id>https://www.appinn.com/?p=49391</id>
+        <link href="https://www.appinn.com/deku-sms/"/>
+        <updated>2024-08-26T08:06:17.000Z</updated>
+        <summary type="html"><![CDATA[Deku SMS 是一款开源的安卓短信应用程序，可以当作日常默认短信应用来用，支持使用 Webhook、SMTP、FTP 三种协议进行短信转发，简单快捷。另外还集成 RabbitMQ，让你从个人服务器]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM 关闭中国研发部门]]></title>
+        <id>https://www.solidot.org/story?sid=79073</id>
+        <link href="https://www.solidot.org/story?sid=79073"/>
+        <updated>2024-08-26T06:40:07.000Z</updated>
+        <summary type="html"><![CDATA[IBM 将彻底关闭中国研发部门，涉及员工逾千人。IBM 中国在一份声明中称：“IBM 会根据需要调整运营，为客户提供最佳服务，这些变化不会影响我们为大中华区客户提供支持的能力。”声明还提到，中国企业，尤其是民营企业，越来越重视抓住混合云和人工智能技术带来的机遇，而 IBM 在中国的本地战略重点则是利用我们在技术和咨询方面的丰富经验，组建具备相应技能的团队，帮助中国客户共创符合他们需求的解决方案。
+IBM 强调未来将转向服务中国的民营企业以及部分在中国的跨国企业，但金融、能源等关键领域的大型国企才是 IBM 过去最重要的大客户。此次研发部门关闭涉及的业务线主要有两条，一个是 IBM 中国开发中心（CDL），另一个是 IBM 中国系统中心（CSL），主要负责研发和测试。IBM 将为相关员工提供 N+3 的赔偿。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小鼠研究显示通用流感候选疫苗引发强免疫反应]]></title>
+        <id>https://www.solidot.org/story?sid=79072</id>
+        <link href="https://www.solidot.org/story?sid=79072"/>
+        <updated>2024-08-26T06:34:24.000Z</updated>
+        <summary type="html"><![CDATA[美国克利夫兰诊所勒纳研究所科学家报告称，在小鼠身上开展的测试结果显示，他们开发的通用流感候选疫苗引发了强烈的免疫反应，且能在动物接触病毒后保护其免受严重感染。论文发表于最新一期《病毒学杂志》。研究人员表示，他们计划在 1-3 年内启动该候选疫苗的人体临床试验，最终研制出一款能跨越不同季节，并应对所有流感菌株的通用疫苗。流感病毒不断演变，现在每年可用的流感疫苗都是为抵御预计当年会流行的特定毒株而定制的。科学家希望开发出通用流感疫苗。研究人员使用“计算优化的广泛反应性抗原”（COBRA）方法，设计出了这款候选疫苗。他们首先从在线数据库下载了数千个跨越多个季节的致病性流感毒株的基因序列，然后对这些序列进行了数字分析，以确定哪些氨基酸（蛋白的组成部分）跨越不同季节，并出现在每种病毒中。这款候选疫苗的使用方式为鼻内给药。血液测试显示，4 周后小鼠已经产生了针对病毒的抗体，接触病原体后不会感染。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳大利亚工人下班后有权拒绝工作邮件和工作电话]]></title>
+        <id>https://www.solidot.org/story?sid=79071</id>
+        <link href="https://www.solidot.org/story?sid=79071"/>
+        <updated>2024-08-26T05:58:22.000Z</updated>
+        <summary type="html"><![CDATA[旨在遏制工作邮件和工作电话入侵个人生活的新法律于本周一生效，从现在开始，澳大利亚工人在下班后有权拒绝工作邮件和电话而不会受到惩罚。澳大利亚斯威本科技大学副教授 John Hopkins 表示，在数字技术发明前，工人们都是下班后回家到第二天上班前都不会有联系。但在今天，即使在休假，员工对于收到工作邮件、电话和短信都习以为常了。根据澳大利亚研究所去年的一项调查，2023 年澳大利亚人平均无偿加班 281 小时，调查估计此类无偿劳动的货币价值为 1300 亿澳元。法国最早在 2017 年引入了法律限制下班后的工作邮件和电话。澳大利亚的法律没有限制应对紧急情况和工作时间不规律的工作，此类工作允许雇主联系员工。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Threads 测试允许帖子在 24 小时后消失]]></title>
+        <id>https://www.solidot.org/story?sid=79070</id>
+        <link href="https://www.solidot.org/story?sid=79070"/>
+        <updated>2024-08-26T05:41:05.000Z</updated>
+        <summary type="html"><![CDATA[Meta 旗下的微博客应用 Threads 正在测试允许用户给帖子设置倒计时如 24 小时的功能，时间截至之后帖子就不再显示。Instagram 负责人 Adam Mosseri 几个月曾透露在测试被称为自动归档的可选功能，允许用户指定一个日期，让他们发布的帖子从信息流中隐藏。新的功能正在一小部分用户中进行测试。批评者认为这项功能容易被滥用去传播虚假信息，减少传播者的责任。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[凹语言支持 Wasm4 游戏平台]]></title>
+        <id>https://www.solidot.org/story?sid=79069</id>
+        <link href="https://www.solidot.org/story?sid=79069"/>
+        <updated>2024-08-25T15:52:03.000Z</updated>
+        <summary type="html"><![CDATA[chai2010 写道：Wasm4 是一个使用 WebAssembly 构建复古风格游戏的框架。它提供了一个 160 x 160 像素、64K 内存的游戏主机。通过使用 WebAssembly 技术使得开发的游戏能够在所有网页浏览器和一些低端设备上运行。随着凹语言支持Wasm4平台，现在开发者也能使用凹语言轻松开发Wasm4游戏。详细开发流程请参考：https://wa-lang.org/smalltalk/st0046.html]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LM Studio – 有电脑就能用，开源、傻瓜、一站式部署本地大语言模型｜然后，像 ChatGPT 那样提问]]></title>
         <id>https://www.appinn.com/?p=49393</id>
@@ -907,71 +1053,6 @@ All About JavaScript Loops originally published on CSS-Tricks, which is part of 
         <summary type="html"><![CDATA[AI 学界将图灵测试视为智能的终结测试，然而图灵本人不是这么认为的，他将这一测试称为模仿游戏，将其作为与智能相关的一种简化的替代问题。然而当模仿游戏以图灵本人的名字命名之后，它被赋予了权威性，成为一代又一代 AI 研究人员追逐的目标。大模型就是这一目标的最新成果。大模型如 ChatGPT 所代表的 AI 在模仿人类上达到新的高度，以至于它的诞生在流行文化中被视为是一大转折点。但在技术层面上，大模型只是对数据的模仿，用 AI 研究员 Emily Bender 等人的话说就是“随机鹦鹉”。鹦鹉能流畅的重复类似人类的内容本身当然令人印象深刻。但它只是通过模仿伪装有智能，它依赖于训练数据，然后利用统计方法选择性的拟合数据，不可避免的会产生偏见和幻觉，这是它的特性而不是 bug。AI 的统计模型将我们的偏见编纂成法典，在计算客观性的伪装下重现它们。但为什么 AI 的模仿游戏备受科技巨头们的青睐？用马克思的话说，资本只关心商品的效用。简单来说，商品的包装比改进商品的使用价值对资本而言更为重要。但要实现真正的通用 AI，我们不能只着眼于模仿。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Ryzen 9 9950X 上对比 Windows 11 和 Ubuntu 24.04 性能]]></title>
-        <id>https://www.solidot.org/story?sid=79005</id>
-        <link href="https://www.solidot.org/story?sid=79005"/>
-        <updated>2024-08-17T14:26:28.000Z</updated>
-        <summary type="html"><![CDATA[AMD 最新一代的 Zen5 处理器已经上市，科技网站和视频博主也都公布了评测报告，Zen5 在生产力任务中的表现被认为达到了预期，但在游戏等任务中的表现则远未达到预期，以至于用户开玩笑的将 Zen5 称为 Zen5%——意思是与上一代 Zen4 相比变化只有 5%，而不是 AMD 宣称的 IPC 有 16% 的增幅。知名 Linux 网站 Phoronix 公布了它的评测报告，显示在 Linux 上 Zen5 的表现基本符合 AMD 的宣传。评测者应用户要求在相同的硬件上分别运行 Windows 11 和 Ubuntu 24.04，然后执行一系列基准测试。结果显示，在 Ubuntu 24.04 LTS 上 Ryzen 9 9950X 相比上一代的 7950X 平均改进了 14%，但在 Windows 11 下改进幅度只有 10%，9950X 在 Ubuntu 下的性能总体上高于 Windows 11。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tetrel Security 公布 OpenBMC 高危漏洞细节]]></title>
-        <id>https://www.solidot.org/story?sid=79004</id>
-        <link href="https://www.solidot.org/story?sid=79004"/>
-        <updated>2024-08-17T13:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Shawn the R0ck 写道：“
-Tetrel Security 公开了一个 SLPD-Lite 漏洞（CVE-2024-41660）的细节，slpd-lite 是 OpenBMC 的组件之一，此漏洞因为由 OpenBMC（部分OEM厂商实现）网络安全产生了严重的影响，因为它允许攻击者在易受攻击的系统上远程执行任意代码。
-
-OpenBMC 是一个为服务器开发标准基板管理控制器（BMC）的标准实现框架。BMC允许对服务器硬件进行远程管理，广泛部署在服务器硬件中，提供监控、日志记录功能以及带外恢复和维护工具。由于BMC通常具有高度特权，因此将BMC网络接口隔离到一个独立的管理网络是安全最佳实践。
-
-Tetrel在审查OpenBMC源代码时发现了slpd-lite子组件中的两个内存损坏漏洞。在典型部署中，成功利用这些漏洞将允许具有对BMC管理网络访问权限的攻击者完全攻陷BMC。
-
-第一个漏洞涉及堆中分配的数据的越界读取，可能泄露信息给攻击者。第二个漏洞允许攻击者在堆中分配的数据结构范围之外进行写入。结合这两个漏洞，可以直接实现远程漏洞利用。Tetrel公开了漏洞成因，和相关技术细节，包括代码片段和漏洞的潜在利用方式。同时，还提供了有关如何确认堆损坏可能性的重现步骤，以及在Ubuntu 22.04.04 LTS上测试漏洞的过程。
-
-如果你的数据中心使用了集成spld-lite的OEM厂商提供的BMC（无论是否基于OpenBMC)，务必尽快升级。HardenedVault的OpenBMC实现由于spld-lite并没有集成，所以不受影响。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Virtual Android Use Cases?]]></title>
-        <id>https://catonmat.net/what-are-virtual-android-use-cases</id>
-        <link href="https://catonmat.net/what-are-virtual-android-use-cases"/>
-        <updated>2024-08-17T13:18:00.000Z</updated>
-        <summary type="html"><![CDATA[A virtual Android is a platform for developers, testers, and tech enthusiasts to run Android apps and simulate various scenarios without needing physical Android devices. In this post, I'll explore the key use cases for virtual Androids, highlighting how they simplify app development, testing, and troubleshooting processes.
-Virtual Android Demo
-A demo speaks louder than a well written article. You can connect to a virtual Android via browserling.com/android. Built by me and my team, a virtual Android lets you test apps, browse the web, and access various Android environments directly in your browser, all without a physical device.
-What Are Virtual Browser Use Cases?
-App Development and Testing
-A virtual Android provides developers with a controlled environment to build, debug, and test app…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fusion – 比 miniflux 小，轻量级开源 RSS 聚合阅读器[Web]]]></title>
-        <id>https://www.appinn.com/?p=49332</id>
-        <link href="https://www.appinn.com/fusion-rss-reader/"/>
-        <updated>2024-08-17T02:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Fusion 是一款非常小巧、低资源占用的轻量级 RSS 聚合阅读器，可在本地通过二进制程序托管（比如直接运行 .exe），也支持 Docker 托管，简单易用。@Appinn 来自发现频道，开发者]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-08-14)]]></title>
-        <id>https://css-tricks.com/?p=379881</id>
-        <link href="https://css-tricks.com/csswg-minutes-telecon-2024-08-14/"/>
-        <updated>2024-08-16T16:12:51.000Z</updated>
-        <summary type="html"><![CDATA[I was just going over the latest CSSWG minutes (you can subscribe to them at W3C.org) and came across a few interesting nuggets I wanted to jot down for another time. The group discussed the CSS Values, CSS Easing, and …
-CSSWG Minutes Telecon (2024-08-14) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
