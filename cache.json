@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49484",
+          "author": "青小蛙",
+          "description": "中英文实时提示 InputTip 是一款在 Windows 下实时显示输入法状态的小工具，默认中文显示红色小点，英文显示绿色小点。@Appinn 来自发现频道，开发者 @Autumn-one 自荐：h",
+          "link": "https://www.appinn.com/inputtip-for-windows/",
+          "publishedOn": "2024-09-07T03:50:31.000Z",
+          "wordCount": 2734,
+          "title": "中英状态实时显示 – 光标处实时显示输入法中英状态[Windows]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-07T113209.782.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49480",
           "author": "青小蛙",
           "description": "足球经理2024（Football Manager 2024）是一款备受好评的足球模拟经营类游戏。你可以通过自己的努力，在游戏中构建世界级足球强队，参加各种足球赛事。不受现实世界所困，赢得各种比赛。@",
@@ -110,16 +120,6 @@
           "wordCount": 2724,
           "title": "pin.gl – 超低延迟屏幕共享，只需3秒，分享你的桌面和摄像头",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-30T154208.676.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49427",
-          "author": "青小蛙",
-          "description": "AnythingLLM 是一款可以在本地电脑一件运行 LLM 大语言模型的跨平台桌面客户端，支持 Windows、macOS、Linux，支持自选模型，也可以从软件内下载模型。它还支持嵌入模型、语音、",
-          "link": "https://www.appinn.com/anythingllm/",
-          "publishedOn": "2024-08-29T09:02:05.000Z",
-          "wordCount": 2790,
-          "title": "AnythingLLM – 真·一键运行本地 LLM 大语言模型｜全离线操作：与文档聊天、与 AI 聊天",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-29T142850.715.jpg"
         }
       ]
     },
@@ -233,6 +233,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79186",
+          "author": null,
+          "description": "中科院研究员使用从嫦娥五号带回的月壤样本中找到的 3 颗火山玻璃珠证明，月球上的岩浆活动可以追溯到 1.2 亿年前。这一研究结果再次刷新了人们对月球岩浆活动的认知。岩浆活动是了解月球热演化的重要依据，岩浆活动停止表明月球失去了内动力，也即地质意义上的“死亡”。科学家根据美国“阿波罗”号和前苏联“月球”号月球探测任务返回的 9 次月球样品，以及从地球上收集到的月球陨石样品曾认为，月球最晚的火山活动发生在 30 亿年前。2021 年我国科学家利用嫦娥五号探测器带回的月壤中挑选出的玄武岩颗粒样品，证明了 20 亿年前月球上仍然存在着较大规模的岩浆活动，将此前认为的月球“寿命”延长了约 10 亿年。科学家通过遥感技术对月球地貌进行观察并通过撞击坑统计定年的数据猜测，月球大在约近 1 亿年可能仍存在火山活动，但却一直没有返回样品的数据支撑。新研究为此提供了证据。",
+          "link": "https://www.solidot.org/story?sid=79186",
+          "publishedOn": "2024-09-06T16:04:40.000Z",
+          "wordCount": 173,
+          "title": "月球火山活动时间比我们以为的近得多",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79185",
+          "author": null,
+          "description": "继 Safari 和 Chrome 之后，Firefox 也将禁用 HTTP/2 服务器推送。Chrome 是在两年前禁用 HTTP/2 服务器推送，理由是使用率低，它推荐将 rel=\"preload\" 和 103 Early 作为替代。Firefox 一直支持 HTTP/2 推送，但过去几个月遭遇了与 HTTP/2 推送相关的 bug，原因是使用推送的 webserver 和网站没有在 Firefox 上进行测试，结果会导致网站在 Firefox 上停止工作。Firefox 预计会在 ESR 140 前完全移除该功能。",
+          "link": "https://www.solidot.org/story?sid=79185",
+          "publishedOn": "2024-09-06T15:45:00.000Z",
+          "wordCount": 203,
+          "title": "Firefox 将禁用 HTTP/2 服务器推送",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79184",
+          "author": null,
+          "description": "美国海军濒海战斗舰曼彻斯特号高级军士长指挥官 Grisel Marrero 最近因在军舰上私装无线网络被定罪降职。美国《海军时报》通过信息自由法（Freedom of Information Act）获得了本案的更多细节。Marrero 等人是在 2023 年初以 2,800 美元购买了 Starlink，悄悄安装在 O-5 级露天甲板上。Starlink 宽带没有提供给大部分士兵或军官使用，而是仅供军士长使用。调查显示至少有 15 名军士长参与了该计划。Starlink 启动之后使用了默认的无线网络名字 STINKY，由于覆盖范围有限，他们后来还购买安装了信号中继器。军舰上的士兵很快注意到了名字不同寻常的无线网络，他们向上级报告了此事，但相关报告被 Marrero 压了下来，没有报告给舰长。Marrero 之后修改了无线网络的名字，使其看起来像是无线打印机的绰号。此事最终曝光是因为在安装授权的 SpaceX Starshield 设备时在露天甲板上发现了未经授权的 Starlink 设备。",
+          "link": "https://www.solidot.org/story?sid=79184",
+          "publishedOn": "2024-09-06T15:30:04.000Z",
+          "wordCount": 191,
+          "title": "美国海军军官在军舰上私装 Starlink 卫星宽带",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79183",
           "author": null,
@@ -952,106 +982,6 @@
           "wordCount": 188,
           "title": "Threads 能显示来自联邦宇宙的回复",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79111",
-          "author": null,
-          "description": "量子纠缠通常需要工作在极低的温度下，温度的上升会破坏纠缠粒子之间的脆弱联系。现在计算机科学家在预印本平台 arxiv 发表论文，证明纠缠并不只是随着温度上升而削弱，高于特定温度纠缠会完全消失。四位计算机科学家是开发新算法时无意中给出了证明。研究人员此前从未研究量子算法，他们的背景是计算机科学的一个分支学习理论，专注于统计分析算法。他们在其论文初稿中证明：任何处于热平衡的自旋系统，特定温度之上纠缠会完全消失。他们意外证明了量子纠缠的一个新结果。他们证明高温下的自旋系统没有任何纠缠。",
-          "link": "https://www.solidot.org/story?sid=79111",
-          "publishedOn": "2024-08-29T14:18:57.000Z",
-          "wordCount": 160,
-          "title": "计算机科学家证明热会毁灭纠缠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79110",
-          "author": null,
-          "description": "2019 年以 300 万美元收购轻博客服务 Tumblr 的 Automattic 宣布将其后端搬到 WordPress。该公司澄清 Tumblr 不会变成 WordPress，它只是运行在 WordPress 之上，用户不会有体验上的差异。Automattic 称，收购 Tumblr 是为了受益于差异化，它会加强而不是削弱这种差异。它不会改变 Tumblr 极简的发布体验和产品方向。后端转移到 WordPress 有利于工程团队开发适用于两种服务的工具和功能，Tumblr 将能利用 WordPress.org 上的开源开发成果。",
-          "link": "https://www.solidot.org/story?sid=79110",
-          "publishedOn": "2024-08-29T12:47:59.000Z",
-          "wordCount": 196,
-          "title": "Automattic 将 Tumblr 后端搬到 WordPress",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79109",
-          "author": null,
-          "description": "Rust for Linux 内核维护者 Wedson Almeida Filho 宣布了辞职，导致他辞职的一大原因是围绕内核使用 Rust 语言的非技术性争论。Wedson 是微软工程师，参与了大量与 Rust Linux 内核功能相关的工作，包括实验性的将 EXT2 文件系统驱动移植到 Rust。但现在他宣布自己受够了，表示自己没有了回应非技术性争论的精力和热情，他更热衷于与 Rust for Linux 团队讨论技术性问题，坚信内核的未来是采用内存安全的语言。",
-          "link": "https://www.solidot.org/story?sid=79109",
-          "publishedOn": "2024-08-29T12:20:01.000Z",
-          "wordCount": 188,
-          "title": "一名 Rust Linux 维护者辞职",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79108",
-          "author": null,
-          "description": "大韩商工会议所和产业研究院发布的一份调查结果显示，韩企的 AI 使用率仅为30.6%。它本月初调查了 500 家韩企。结果显示，“为提高企业生产能力并降低成本需要 AI 技术”的企业占 78.4%，但实际使用 AI 技术的企业仅占 30.6%。制造业的 AI 使用率为 23.8%，金融业 57.1%，信息技术（IT）55.1%。按企业规模看，大企业 48.8%，中坚企业 30.1%，中小企业 28.7%，企业规模和 AI 使用率成正比。",
-          "link": "https://www.solidot.org/story?sid=79108",
-          "publishedOn": "2024-08-29T08:35:34.000Z",
-          "wordCount": 187,
-          "title": "调查显示韩国企业 AI 使用率为 30.6%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79107",
-          "author": null,
-          "description": "想象一下，你在库尔斯克州的一条公路上驱车拼命逃离乌克兰的无人机，但事后你却收到了一张超速罚单？当地居民在 Telegram 上抱怨了这一超现实事件。乌/俄战争分析师 Rob Lee 称，库尔斯克的超速摄像头仍在运作，逃离无人机攻击的居民会收到罚单，部分人试图盖住车牌，但交警会强迫他们移除遮盖物。俄罗斯媒体 Mash 报道，一位知名的军事活动人士在一天内被罚了 9000 卢布（相当于 100 美元），原因是他在一条时刻会受到乌克兰攻击的公路上高速行驶。",
-          "link": "https://www.solidot.org/story?sid=79107",
-          "publishedOn": "2024-08-29T08:24:59.000Z",
-          "wordCount": 169,
-          "title": "逃离乌克兰无人机的库尔斯克居民仍然面临超速罚单",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79106",
-          "author": null,
-          "description": "韩国黑客组织 APT-C-60 利用了 Windows 版 WPS Office 的一个 0day 在目标设备上安装后门 SpyGlace。WPS 是金山开发的办公软件，在全球有逾 5 亿活跃用户。黑客利用的 0day 被称为 CVE-2024-7262，影响版本从 12.2.0.13110（2023 年 8 月）到 12.1.0.16412（2024 年 3 月）。金山在 3 月悄悄修复了漏洞，但没有向客户披露该漏洞正被活跃利用，促使安全公司 ESET 就该漏洞公布了一份详细报告。CVE-2024-7262 与软件如何处理自定义协议处理器的方式相关，其中 ksoqing:// 允许文档中嵌入的特制 URL 执行外部应用。APT-C-60 创建了 MHTML 文件，嵌入了隐藏在诱饵图像下的恶意超链接，引诱受害者点击图像触发漏洞。金山修复 CVE-2024-7262 的补丁并不完整，ESET 研究人员发现了第二个任意代码执行的高危漏洞 CVE-2024-7263。金山在 5 月修复了新的漏洞。为修复这两个漏洞 WPS 用户需要尽可能快的升级到 v12.2.0.17119 及以上版本。",
-          "link": "https://www.solidot.org/story?sid=79106",
-          "publishedOn": "2024-08-29T06:53:54.000Z",
-          "wordCount": 219,
-          "title": "韩国黑客利用 WPS Office 0day 部署恶意程序",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79105",
-          "author": null,
-          "description": "今年 2 月，由于生成了不符合历史事实的人类图像而引发争议，Google 暂停了生成人类图像的功能。时隔半年之后，Google 官方博客宣布其 Imagen 3 模型将在未来几天向 Gemini Advanced、Business 和 Enterprise 用户提供人类图像生成功能。为避免生成受争议图像，Imagen 3 包含了安全保护措施，不支持生成照片级写实主义图像、可识别个人、描述未成年人或过度血腥、暴力或性爱场景的图像。举例来说，Google AI 会拒绝“拜登总统打篮球”之类图像生成要求。",
-          "link": "https://www.solidot.org/story?sid=79105",
-          "publishedOn": "2024-08-29T06:10:10.000Z",
-          "wordCount": 180,
-          "title": "Google AI 恢复人类图像生成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79104",
-          "author": null,
-          "description": "微软旗下的职业社交网络 LinkedIn 将其服务器、虚拟机和容器使用的 Linux 发行版从终止支持的 CentOS 7 迁移到微软自己的发行版 Azure Linux。Red Hat 早先时候做出了一个受争议的决策：CentOS 从 Red Hat Enterprise Linux（RHEL）的社区发行版变成了一个滚动更新发行版 CentOS Stream；CentOS 7 到 2024 年终止支持，而下一个版本的 CentOS 8 原计划支持到 2029 年改成了 2021 年底终止支持。LinkedIn 认为，随着转向 CentOS Stream，用户对项目的方向和更新时间表感到不确定，而不确定性引发了对 CentOS 作为操作系统的可靠性和支持的担忧。",
-          "link": "https://www.solidot.org/story?sid=79104",
-          "publishedOn": "2024-08-29T05:32:47.000Z",
-          "wordCount": 215,
-          "title": "LinkedIn 从 CentOS 7 迁移到 Azure Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79103",
-          "author": null,
-          "description": "法国对 Telegram CEO Pavel Durov 提起诉讼，设定了 500 万欧元保释金，在案件审理期间被禁止离开法国，而且需每周向警方报备两次。他受到的指控包括在有组织非法交易活动中犯有共谋罪，该指控最高可判处 10 年徒刑和 50 万欧元罚款；拒绝配合执法部门进行刑事调查；几乎完全没有回应针对未成年人的犯罪、毒品犯罪和网络仇恨案件的合作请求，导致当局对该应用高管在实施的犯罪行为中可能承担的刑事责任展开了调查；参与贩毒和传播儿童色情材料；未根据要求向官员声明就提供加密服务，等等。法国还向 Pavel Durov 的兄弟 Nikola 发出了逮捕令。Pavel Durov 有法国和阿联酋的双重国籍。",
-          "link": "https://www.solidot.org/story?sid=79103",
-          "publishedOn": "2024-08-29T04:34:29.000Z",
-          "wordCount": 182,
-          "title": "Telegram CEO 被禁止离开法国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79102",
-          "author": null,
-          "description": "五角大楼有着庞大的广告或公关预算，金额高达 60 亿美元。在一些奇怪的地方看到五角大楼的广告并不会令人感到惊讶。在最近中东紧张形势加剧之际，五角大楼在约会应用 Tinder 上打广告，用阿拉伯语警告黎巴嫩人不要攻击美国或其盟友，宣称美国将保护其合作伙伴免受伊朗及其代理人（即真主党）的威胁。广告上还有美国中央司令部的 logo，以及链接了一条介绍 F-16 战斗机和 A10 战斗轰炸机的推文。",
-          "link": "https://www.solidot.org/story?sid=79102",
-          "publishedOn": "2024-08-28T15:23:29.000Z",
-          "wordCount": 173,
-          "title": "五角大楼最新的心理战是在 Tinder 上打广告",
-          "imageUrl": null
         }
       ]
     },
@@ -1133,6 +1063,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/10-new-icon-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 15 new PNG tools and today we just added 10 new tools to our Icon Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new logo tools:\nRotate Icon\nCrop Icon\nResize Icon\nAdd Border Around Icon\nRemove Border Around Icon\nCreate Icon from Text\nAdd Text to Icon\nConvert Icon to Single Color\nCenter Icon\nAdd Outline to Icon\nNext week we'll add even more tools. See you then!\nPS. Use coupon code ICONLING for a 30% discount on these tools.",
+          "link": "https://catonmat.net/10-new-icon-tools",
+          "publishedOn": "2024-09-07T07:29:00.000Z",
+          "wordCount": 182,
+          "title": "We've Added 10 New Icon Tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/happy-september-sale",
           "author": null,
           "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated sales campaign called \"Happy month Sale\" where month is a variable.\nNow each new month, on the first day of the month, we show a 50% discount offer to all users who visit our site.\nThis month it's \"Happy September Sale\". Next month it will be \"Happy October Sale\", etc.\nRun a happy month sale too and see you next time!",
@@ -1170,16 +1110,6 @@
           "publishedOn": "2024-08-31T17:12:00.000Z",
           "wordCount": 350,
           "title": "Browserling Coupon Code (Autumn 2024) 🍂",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/paid-plans-for-icon-tools",
-          "author": null,
-          "description": "Team Browserling keeps shipping!\nLast month we launched Icon Tools and today we've added paid plans to Icon Tools.\nIf you love our tools, you can now support us by getting a subscription. Go to the pricing page to learn more.\nAdd paid plans too and see you all next time!\nPS. Use coupon code ICONLING for 30% off.",
-          "link": "https://catonmat.net/paid-plans-for-icon-tools",
-          "publishedOn": "2024-08-29T09:27:00.000Z",
-          "wordCount": 332,
-          "title": "Announcing Paid Plans for Icon Tools",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
