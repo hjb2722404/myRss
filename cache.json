@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49488",
+          "author": "青小蛙",
+          "description": "文颜是一款使用 Markdown 格式的文章排版工具，可以一键复制文章到微信公众号、知乎、今日头条、掘金，并且支持代码高亮、公式、链接转脚注等功能。目前已开源。@Appinn 来自发现频道，开发者 @",
+          "link": "https://www.appinn.com/wenyan-markdown/",
+          "publishedOn": "2024-09-08T03:16:17.000Z",
+          "wordCount": 2735,
+          "title": "文颜 – 使用 Markdown 书写、排版，一键复制文章到微信公众号、知乎、今日头条、掘金[macOS]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-08T110045.479.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49484",
           "author": "青小蛙",
           "description": "中英文实时提示 InputTip 是一款在 Windows 下实时显示输入法状态的小工具，默认中文显示红色小点，英文显示绿色小点。@Appinn 来自发现频道，开发者 @Autumn-one 自荐：h",
@@ -110,16 +120,6 @@
           "wordCount": 2746,
           "title": "Unsplash Wanderer – 全新的 Unsplash 图片新标签页扩展[Chrome]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-31T142403.757.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49434",
-          "author": "青小蛙",
-          "description": "pin.gl 是一个非常简单易用的屏幕共享与摄像头共享工具，公共服务。只需要随意输入一个房间代码，开始共享后，任何人都可以加入该房间观看。基于 WebRTC，延迟很低，响应很快。@Appinn pin",
-          "link": "https://www.appinn.com/pin-gl/",
-          "publishedOn": "2024-08-30T07:53:53.000Z",
-          "wordCount": 2724,
-          "title": "pin.gl – 超低延迟屏幕共享，只需3秒，分享你的桌面和摄像头",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-30T154208.676.jpg"
         }
       ]
     },
@@ -182,26 +182,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380227"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380206",
-          "author": "Geoff Graham",
-          "description": "I sure do love little reminders about HTML semantics, particularly semantics that are tougher to commit to memory. Scott has a great one, beginning with this markup:\n<pI am a paragraph.</p<spanI am also a paragraph.</span<div\n…\nParagraphs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/paragraphs/",
-          "publishedOn": "2024-08-30T14:23:52.000Z",
-          "wordCount": 1525,
-          "title": "Paragraphs",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380206"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380195",
-          "author": "Geoff Graham",
-          "description": "Didya see that Tumblr is getting a WordPress makeover? And it’s not a trivial move:\nThis won’t be easy. Tumblr hosts over half a billion blogs. We’re talking about one of the largest technical migrations in internet history. Some \n…\nShipping Tumblr and WordPress originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/shipping-tumblr-and-wordpress/",
-          "publishedOn": "2024-08-29T15:05:58.000Z",
-          "wordCount": 1627,
-          "title": "Shipping Tumblr and WordPress",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380195"
         }
       ]
     },
@@ -226,13 +206,84 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11330",
+          "author": "张 鑫旭",
+          "description": "SVG光影相关的滤镜元素有5个，乍一看，还挺复杂，可细细一学，哦，原来也就是这么回事。",
+          "link": "https://www.zhangxinxu.com/wordpress/2024/09/svg-fedistantlight-fepointlight-fespotlight/",
+          "publishedOn": "2024-09-08T16:10:51.000Z",
+          "wordCount": 1392,
+          "title": "搞懂SVG中各种Light相关的光源滤镜",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79192",
+          "author": null,
+          "description": "过去四年担任 Linux Man pages 维护者的 Alejandro Colomar 宣布暂停工作。Man pages 是 manual page 的缩写。Alejandro 称自己是在空闲时间做维护工作，没有任何企业赞助 Linux 手册的维护。现在他无法在经济上继续支持该工作，将无限期暂停维护。如果有企业想要赞助，请联络他。",
+          "link": "https://www.solidot.org/story?sid=79192",
+          "publishedOn": "2024-09-08T12:03:00.000Z",
+          "wordCount": 183,
+          "title": "Linux Man pages 维护者因经济压力暂停工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79191",
+          "author": null,
+          "description": "在保护网民的名义下，马来西亚通信和多媒体委员会(MCMC) 周五命令 ISP 重定向第三方 DNS 服务器的 DNS 流量到本地 DNS 服务器。MCMC 表示此举旨在确保马来西亚人无法访问恶意网站。MCMC 至今已屏蔽了逾 2 万个网站，其中网络赌博(39%)、色情/淫秽内容 (31%)、侵犯版权 (14%)、销售未注册产品、煽动和诽谤等有害网站(12%)、卖淫 (2%) 和非法投资/诈骗 (2%)。MCMC 表示这一举措是为了确保易受伤害的群体免受有害网络内容的伤害。MCMC 的命令立即引发了争议。马来西亚通信部长 Fahmi Fadzil 下令暂停 DNS 重路由，要求 MCMC 收集意见和建议。部长强调为了儿童的安全政府不会在网络犯罪问题上退让。",
+          "link": "https://www.solidot.org/story?sid=79191",
+          "publishedOn": "2024-09-08T11:47:31.000Z",
+          "wordCount": 200,
+          "title": "马来西亚命令 ISP 重路由 DNS 流量，引发争议后暂停执行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79190",
+          "author": null,
+          "description": "SpaceX 本周部署了第 7,000 颗 Starlink 卫星，Starlink 星座的卫星总数量占到了全部活跃卫星的近三分之二。根据跟踪卫星的非盈利组织 CelesTrak 的数据，Starlink 在低地球轨道上有 6,370 颗活跃卫星，还有数百颗卫星非活跃或脱离轨道。它的数量在三年内增长了六倍多，占到了全部活跃卫星数量的 62%，是竞争对手  OneWeb 的 10 倍。SpaceX 计划发射多达 42,000 颗卫星，提供覆盖全球的卫星宽带服务，它目前有逾 300 万用户。",
+          "link": "https://www.solidot.org/story?sid=79190",
+          "publishedOn": "2024-09-07T15:09:54.000Z",
+          "wordCount": 181,
+          "title": "Starlink 卫星占到了全部活跃卫星的三分之二",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79189",
+          "author": null,
+          "description": "当 24 岁的 Lola Reinhardt 打开计算机开始工作时，她看到继母翻了白眼。她是一名自由摄影师以及兼职咖啡师，她在计算机上一个一个寻找字母，因为她没有学过盲打。她的继母是一名作家，打字速度超快。Reinhardt 是一名典型的 Z 世代年轻人，精通技术，可以在计算机上做任何事，除了不会盲打。过去 25 年美国教盲打的高中数量急剧下降。根据美教育部数据，2000 年高中毕业生中约 44% 参加了盲打课程，但到 2019 年该数字降至 2.5%。Z 世代更习惯通过触摸屏在虚拟键盘上打字。3-5 月间学生通过在线学习平台 Canvas 提交的作业有 39% 是从移动设备上传的。学校用 Canvas 向学生发布学业内容，也将其作为提交作业的地方。相比下教师在计算机上完成了九成以上的 Canvas 工作。",
+          "link": "https://www.solidot.org/story?sid=79189",
+          "publishedOn": "2024-09-07T14:32:02.000Z",
+          "wordCount": 187,
+          "title": "Z 世代精通计算机但不会盲打",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79188",
+          "author": null,
+          "description": "当绝大部分学生都是 A 时，成绩的激励价值就失去了意义。美国大学的分数膨胀已经失控。统计数据显示，1950 年哈佛大学平均 GPA 为 2.6/4分，2003 年提高到 3.4 分。大学越精英，评分标准就越宽大。耶鲁大学在 2023 年有五分之四的学生获得了 A 或 A-。普通大学的情况类似。今天美国所有四年制大学最常见的成绩是 A。A 如今已经不再是特别学术成就的标志了。Richard Arum 和 Josipa Roksa 在其 2011 年出版的作品《Academically Adrift》中指出，1960 年后的 50 年里，全日制大学生平均学习时间少了一半，降至每周十二个小时。大部分大学生在批判性思维、复杂推理和写作测试中没有取得显著进步，半数学生在接受高等教育的前两年没有取得任何进步。",
+          "link": "https://www.solidot.org/story?sid=79188",
+          "publishedOn": "2024-09-07T12:07:46.000Z",
+          "wordCount": 183,
+          "title": "美国大学学生成绩膨胀",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79187",
+          "author": null,
+          "description": "NASA 宣布波音 Starliner 飞船已返回地面，正运往佛罗里达的肯尼迪太空中心进行检查。Starliner 于 6 月 5 日从佛罗里达卡纳维拉尔角太空军基地发射升空，这是它的第三次轨道飞行，原计划在轨八天，然而飞船被发现氦气泄漏以及反应控制推进器存在问题，在数周的研究测试之后，NASA 决定让两名 Starliner 宇航员 Butch Wilmore 和 Suni Williams 留在空间站，飞船于美国时间 9 月 6 日 10:01 p.m. MDT 无人返回，成功着陆在\n新墨西哥州白沙太空港。两名宇航员将于 2025 年 2 月搭乘 SpaceX Crew-9 飞船返回。",
+          "link": "https://www.solidot.org/story?sid=79187",
+          "publishedOn": "2024-09-07T09:17:42.000Z",
+          "wordCount": 197,
+          "title": "波音 Starliner 飞船返回地面",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79186",
           "author": null,
@@ -862,126 +913,6 @@
           "wordCount": 179,
           "title": "日本报告近四千独居者在死后一个月才被发现",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79123",
-          "author": null,
-          "description": "知名科技新闻网站 AnandTech 宣布于 2024 年 8 月 30 日停止更新，现有网站内容可以继续正常访问，论坛也将正常运行。AnandTech 由时年 14 岁的 Anand Lal Shimpi 创办于 1997 年，他担任 CEO 兼主编一直到 2014 年 8 月 30 日，之后资深编辑 Ryan Smith 接替他担任主编。AnandTech 于 2014 年 12 月 17 日被 Purch 收购，Purch 于 2018 年被 Future 收购。过去 27 年，AnandTech 以深入的硬件评论和技术分析著称，主编以科技新闻市场已经改变作为停止更新的主要理由。他说，对高质量且深入的新闻的需求仍然存在，但社交媒体的崛起让哗众取宠的新闻报道变得更有利可图。",
-          "link": "https://www.solidot.org/story?sid=79123",
-          "publishedOn": "2024-08-30T14:05:16.000Z",
-          "wordCount": 205,
-          "title": "AnandTech 宣布停止更新",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79122",
-          "author": null,
-          "description": "押注 AI 市场急剧扩大的股价走高正在放缓。英伟达于 8 月 28 日公布的强劲财报并未成为重回涨势的起点，全球半导体关联股的合计总市值与最近的峰值水平相比减少 1 万亿美元。有观点认为，由于对半导体芯片和服务器的先行投资增加，实现盈利需要一定的时间，因此市场对 AI 革命的过高期待暂时减弱。英伟达公布的 5~7 月净利润增至上年同期的 2.7 倍。然而市场并未对强劲的财报内容作出正面反应，令人感觉投资者心理已经发生改变。全球 1300 多家半导体关联股截至 28 日的总市值合计为 9.24 万亿美元。与美国半导体指数创出新高的 7 月 10 日（10.36万亿美元）相比减少了约 1 万亿美元。",
-          "link": "https://www.solidot.org/story?sid=79122",
-          "publishedOn": "2024-08-30T10:32:43.000Z",
-          "wordCount": 182,
-          "title": "半导体企业市值缩水一万亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79121",
-          "author": null,
-          "description": "提供本地搜索和餐馆点评服务的 Yelp 对 Google 提起了反垄断诉讼，指控搜索巨人偏袒自家而不是竞争对手的服务去维持本地搜索的垄断地位。Yelp 希望法院命令 Google 停止反竞争行为，并要求赔偿其损失。此前美国司法部赢得了 Google 与手机和浏览器厂商默认搜索协议的反垄断诉讼，以及 Google 与 Epic Games 诉讼中其应用商店被指非法垄断，Yelp CEO Jeremy Stoppelman 表示反垄断风向发生了巨变。对于 Yelp 的指控，Google 发言人称是毫无根据的，它会坚决应诉。",
-          "link": "https://www.solidot.org/story?sid=79121",
-          "publishedOn": "2024-08-30T10:03:39.000Z",
-          "wordCount": 189,
-          "title": "Yelp 指控 Google 涉嫌垄断",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79120",
-          "author": null,
-          "description": "KDE 项目计划从 6.2 版开始在 Plasma 桌面中直接请求捐款。用户会在每年的12 月看到一次系统通知，请求向非盈利组织 KDE e.V.捐款。开发者表示，他们知道此举可能会引发争议，此举是经过深思熟虑的做出的，他们尽最大努力减少捐款系统通知的恼人程度，通知很小且不显眼，容易关闭。关闭之后一年之后才会再次出现。用户也很容易永久关闭该通知。",
-          "link": "https://www.solidot.org/story?sid=79120",
-          "publishedOn": "2024-08-30T09:33:41.000Z",
-          "wordCount": 168,
-          "title": "KDE 将每年通过桌面通知请求一次捐赠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79119",
-          "author": null,
-          "description": "马斯克(Elon Musk) 深度卷入了巴西国内事务。巴西最高法院下令冻结了马斯克旗下卫星宽带公司 Starlink 的的银行账号，马斯克随后宣布对现有巴西用户免费提供卫星接入。双方的矛盾可以追溯到前巴西总统。作为特朗普的拥趸，马斯克公开表达过对“巴西特朗普” 博索纳罗的支持。从商业角度来说，马斯克也试图通过与博索纳罗交好，将卫星互联网业务 Starlink 引入巴西。博索纳罗在 2019 年成为巴西总统。在 2022 年大选输给卢拉后，博索纳罗不仅拒绝承认败选，还不断在社交媒体上质疑选举结果。随后在 2023 年 1 月 8 日，博索纳罗的支持者对巴西总统府、最高法院和国会发动暴力冲击。2023 年 6 月，巴西最高选举法院裁定，博索纳罗因在 2022 年大选中滥用权力和不当使用公共媒体，禁止其从 2022 年 10 月起的 8 年内，竞选或担任任何公共行政职务。与此同时，巴西政府也加强了对社交媒体传播错误信息和仇恨言论的治理。今年 4 月，由于 X 平台拒绝执行巴西高院的命令，双方矛盾骤然升级。莫赖斯（Alexandre de Moraes）大法官也将马斯克列为“假新闻”调查对象，双方在网上对骂数月后，马斯克在 8 月中旬宣布关闭 X 平台在巴西的办公室。莫赖斯则通过惩罚 Starlink 回应马斯克。",
-          "link": "https://www.solidot.org/story?sid=79119",
-          "publishedOn": "2024-08-30T09:02:04.000Z",
-          "wordCount": 205,
-          "title": "在银行账号被查封后 Starlink 宣布对现有巴西用户免费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79118",
-          "author": null,
-          "description": "利用 NASA Endurance 号火箭任务数据，一个国际科学家团队首次成功测量了整个地球的电场，该电场被认为与地球重力和磁场一样重要。这种电场被称为双极电场。科学家在 60 多年前就提出假设，认为它驱动着地球大气层从地球南北极逃逸。Endurance 任务数据证实了双极电场的存在，并量化了其强度，揭示了它在驱动大气逃逸和更广泛地塑造地球电离层（上层大气层）方面的作用。了解地球大气层的复杂运动和演变不仅为科学家提供了地球历史线索，还能让他们洞察其他行星奥秘，并判断哪些行星可能适合生命存在。",
-          "link": "https://www.solidot.org/story?sid=79118",
-          "publishedOn": "2024-08-30T07:00:14.000Z",
-          "wordCount": 167,
-          "title": "NASA 找到了寻找已久的全球电场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79117",
-          "author": null,
-          "description": "犯罪片、动作片、喜剧片还是纪录片？一个人最喜欢的电影类型揭示了他们的大脑是如何工作的。发表在《Frontiers in Behavioral Neuroscience》上的一项新研究将电影偏好数据与大脑活动记录进行了比较。动作片和喜剧片的粉丝对负面情绪刺激的反应非常强烈，而喜欢纪录片或犯罪电影和惊悚片的参与者的反应要弱得多。研究人员通过分析 257 人的数据详细调查了这种相互作用。受访者提供了有关他们电影偏好的信息。研究人员还利用功能性磁共振成像(fMRI)分析了参与者的大脑活动。实验对象躺在核磁共振成像仪里时，被展示恐惧或愤怒的面孔和几何图形。研究人员专注于大脑的两个区域。首先是杏仁核，它负责处理重要的情绪。另一个被称为大脑奖励中心的伏隔核的神经元活动。研究结果表明，动作电影爱好者特别容易受到情绪刺激的影响，并且觉得这种刺激很有吸引力。喜欢喜剧的人的大脑也有类似的活动。犯罪电影、惊悚片和纪录片的粉丝的反应明显低于其他组的参与者。",
-          "link": "https://www.solidot.org/story?sid=79117",
-          "publishedOn": "2024-08-30T06:54:53.000Z",
-          "wordCount": 162,
-          "title": "电影偏好与大脑活动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79116",
-          "author": null,
-          "description": "根据《自然》期刊上发表的一篇论文，2023 年加拿大的野火释放出了 647 兆吨碳，超过了 2022 年 10 个化石燃料最大排放国中 7 个国家的年排放量，该研究结果也增加了人们对森林是否能作为长期碳汇的担忧。 2023 年加拿大燃烧的野火摧毁了逾 1500 万公顷的森林，约占加拿大森林总面积的 4%。烧毁的总面积是之前 40 年平均值的 7 倍。研究人员利用对烟羽流中一氧化碳的卫星观测结果，量化了加拿大的野火释放的碳含量。他们估计，这些火灾释放了 647 太克(teragram)的碳(1太克等于1万亿克)，超过了加拿大林火排放量的一般水平(过去 10 年的平均估算值为 29-121 太克)。论文作者认为，炎热干燥的天气是火灾活动的一个主要驱动因素，2023 年是 1980 年以来记录中最热最干的一年。但根据目前的气候变化趋势，到 2050 年类似的气候将会日益常见。",
-          "link": "https://www.solidot.org/story?sid=79116",
-          "publishedOn": "2024-08-30T06:27:17.000Z",
-          "wordCount": 202,
-          "title": "加拿大 2023 年野火释放出 647 兆吨碳",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79115",
-          "author": null,
-          "description": "OpenAI 透露 ChatGPT 周活跃用户突破了 2 亿，两倍于去年的数字。OpenAI 表示，92% 的财富 500 强企业在使用其产品，自 7 月发布 GPT-4o mini 以来，自动化的 API 使用量翻倍。CEO Sam Altman 在一份声明中表示，该公司的工具已成为日常生活的一部分，在医疗保健和教育等领域发挥着真正的作用。",
-          "link": "https://www.solidot.org/story?sid=79115",
-          "publishedOn": "2024-08-30T06:13:41.000Z",
-          "wordCount": 187,
-          "title": "ChatGPT 周活跃用户超过 2 亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79114",
-          "author": null,
-          "description": "当创业公司威马汽车（WM Motor）去年 10 月申请破产时，该公司的车载系统、车钥匙、以及相关 APP 和小程序都停止了工作。在引发广泛关注之后，威马汽车向车主们道歉，暂时恢复了系统的正常使用。但仍然有部分车主表示基本功能如车载娱乐系统无法使用。自申请破产之后，威马汽车的固件一直没有更新，APP 也没有在应用商店上架。车主们表示他们不知道自己的汽车还能正常工作多久。中国的电动汽车市场竞争激烈，有逾百家公司陷入了困境，2020 年以来有 20 多家公司退出市场，威马汽车是其中规模最大的，它在 2019-2022 年之间售出了约 10 万辆汽车。有大约 16 万名车主受到了电动汽车创业公司倒闭的影响。一名车主花了 57 万购买了 HiPhi X 电动车，该公司因财务困境于 2 月停产，车主表示如果汽车需要维修可能只能去二手车市场找零部件。中国汽车法规要求制造商在停产后提供至少 10 年的零部件更换和售后服务。但电动汽车对软件的依赖度更高，汽车售后支持的规定没有明确涵盖车载软件。中国消费者们如今开始更青睐知名品牌如比亚迪，逐渐远离电动汽车创业公司。今年上半年最畅销二十款电动汽车车型中，只有一款来自创业公司理想汽车。",
-          "link": "https://www.solidot.org/story?sid=79114",
-          "publishedOn": "2024-08-30T05:53:18.000Z",
-          "wordCount": 181,
-          "title": "当电动汽车创业公司倒闭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79113",
-          "author": null,
-          "description": "黑客正利用升泰科技一款已停产停止支持的网络安全探头的 0day 安装恶意程序 Mirai 组建僵尸网络。Akamai 称，攻击者利用的是 AVM1203 上一个有 5 年历史的漏洞 CVE-2024-7029，该漏洞很容易利用，能被用于执行恶意代码。AVM1203 已停售和停止支持，因此不会有补丁去修复该漏洞。攻击者正利用漏洞安装 Mirai 的一个变种。鉴于该探头已停止支持，因此修复该漏洞的最佳方法是更换探头。",
-          "link": "https://www.solidot.org/story?sid=79113",
-          "publishedOn": "2024-08-29T15:30:03.000Z",
-          "wordCount": 182,
-          "title": "升泰科技安全探头 0day 被用于安装 Mirai",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79112",
-          "author": null,
-          "description": "Meta 旗下的微博服务 Threads 深化了与联邦宇宙的互动，从允许在联邦宇宙平台显示 Threads 帖子和关注  Threads 账号扩大到 Threads 帖子能显示来自联邦宇宙的回复和点赞。Meta 旗下的产品只有 Threads 和大模型  Llama 选择了拥抱开放系统，原因可能是 Meta 或扎克伯格（Mark Zuckerberg）认识到这两大产品在各自的领域都不占绝对优势：Threads 的竞争对手 X/Twitter 在微博领域深耕长达二十年，而 OpenAI 的 GPT 系列在大模型领域也占据了先发优势。",
-          "link": "https://www.solidot.org/story?sid=79112",
-          "publishedOn": "2024-08-29T14:48:45.000Z",
-          "wordCount": 188,
-          "title": "Threads 能显示来自联邦宇宙的回复",
-          "imageUrl": null
         }
       ]
     },
@@ -1070,6 +1001,16 @@
           "publishedOn": "2024-09-07T07:29:00.000Z",
           "wordCount": 182,
           "title": "We've Added 10 New Icon Tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/paid-plans-for-icon-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast month we launched Icon Tools and today we've added paid plans to Icon Tools.\nIf you love our tools, you can now support us by getting a subscription. Go to the pricing page to learn more.\nAdd paid plans too and see you all next time!\nPS. Use coupon code ICONLING for 30% off.",
+          "link": "https://catonmat.net/paid-plans-for-icon-tools",
+          "publishedOn": "2024-09-02T12:00:00.000Z",
+          "wordCount": 142,
+          "title": "Announcing Paid Plans for Icon Tools",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         },
         {
