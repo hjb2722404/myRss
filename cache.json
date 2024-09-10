@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49495",
+          "author": "青小蛙",
+          "description": "IPTV 检测工具 是一款用来检测 m3u8 可用性的 Python 脚本，并支持测速后输出可播放的链接。@Appinn 来自 #3001 的 @小白 同学，推荐了自己手搓的 Python 脚本： I",
+          "link": "https://www.appinn.com/iptv-speed-test/",
+          "publishedOn": "2024-09-09T03:48:26.000Z",
+          "wordCount": 2777,
+          "title": "IPTV检测工具 – 检测 m3u8 可用性，测速后输出可播放的链接",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-09T105819.914.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49488",
           "author": "青小蛙",
           "description": "文颜是一款使用 Markdown 格式的文章排版工具，可以一键复制文章到微信公众号、知乎、今日头条、掘金，并且支持代码高亮、公式、链接转脚注等功能。目前已开源。@Appinn 来自发现频道，开发者 @",
@@ -110,16 +120,6 @@
           "wordCount": 2760,
           "title": "BilibiliSponsorBlock – B 站精准空降助手：自动跳过 B 站视频内的恰饭广告、三连提醒、自我推广、片头片尾[社区版，Chrome/Firefox]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-01T160551.971.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49437",
-          "author": "青小蛙",
-          "description": "Unsplash Wanderer 是一款符合最新 Manifest V3 要求的 Chrome 扩展，用来在浏览器的新标签页显示来自 Unsplash 的精美高清图片，简洁、美观，无广告。@Appi",
-          "link": "https://www.appinn.com/unsplash-wanderer/",
-          "publishedOn": "2024-08-31T06:48:28.000Z",
-          "wordCount": 2746,
-          "title": "Unsplash Wanderer – 全新的 Unsplash 图片新标签页扩展[Chrome]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-31T142403.757.jpg"
         }
       ]
     },
@@ -128,6 +128,36 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=380334",
+          "author": "Lee Meyer",
+          "description": "Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…\nTime Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/time-travelling-css-with-target/",
+          "publishedOn": "2024-09-09T15:16:51.000Z",
+          "wordCount": 2340,
+          "title": "Time Travelling CSS With :target",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380334"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380517",
+          "author": "Geoff Graham",
+          "description": "Quite a fun article I worked on with Philip Braunen. Do you know that little bit of elasticity you get when scrolling beyond the viewport when browsing the web on a mobile device? iPhone calls it a “rubber-banding” effect. …\nSticky Headers And Full-Height Elements: A Tricky Combination originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/sticky-headers-and-full-height-elements-a-tricky-combination/",
+          "publishedOn": "2024-09-09T14:09:12.000Z",
+          "wordCount": 1450,
+          "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380517"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380584",
+          "author": "Juan Diego Rodríguez",
+          "description": "“Wrapping the <labelaround the <inputis fine, and is sufficient for conformance on its own, however adding explicit association with for and id is still necessary in practice.” —James Edwards…\nQuick Hit #17 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-17/",
+          "publishedOn": "2024-09-09T13:53:42.000Z",
+          "wordCount": 1307,
+          "title": "Quick Hit #17",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380584"
+        },
         {
           "id": "https://css-tricks.com/?p=380340",
           "author": "Geoff Graham",
@@ -167,21 +197,6 @@
           "wordCount": 2784,
           "title": "Another Stab at Truncated Text",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380214"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380227",
-          "author": "Juan Diego Rodríguez",
-          "description": "View Transitions are one of the most awesome features CSS has shipped in recent times. Its title is self-explanatory: transitions between views are possible with just CSS, even across pages of the same origin! What’s more interesting is its …\nCSSWG Minutes Telecon (2024-08-21) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-08-21/",
-          "publishedOn": "2024-08-30T19:06:07.000Z",
-          "wordCount": 3026,
-          "title": "CSSWG Minutes Telecon (2024-08-21)",
-          "enclosure": {
-            "url": "https://developer.chrome.com/static/blog/view-transitions-update-io24/video/airbnb.mp4",
-            "length": "1989401",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380227"
         }
       ]
     },
@@ -224,6 +239,146 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79206",
+          "author": null,
+          "description": "达斯·维德配音演员 James Earl Jones 于周一去世，享年 93 岁。Jones 是少数获得艾美奖、格莱美奖、奥斯卡奖、托尼奖的艺人之一，虽然他的奥斯卡奖是荣誉奖。他被誉为是最伟大的舞台和银幕演员之一。他首次出演电影是在库布里克的 1964 年电影《奇爱博士或我如何学会停止恐惧并爱上炸弹》，先后在动画版和 CGI 版《狮子王》中为 Mufasa 配音，他最为人熟知的角色是在《星球大战》系列中为达斯·维德配音，他在 2022 年与卢卡斯影业签署协议，授权在未来的《星战》系列影视剧中利用其声音去合成达斯·维德的声音。",
+          "link": "https://www.solidot.org/story?sid=79206",
+          "publishedOn": "2024-09-10T02:23:59.000Z",
+          "wordCount": 195,
+          "title": "达斯·维德配音演员 James Earl Jones 去世，享年 93 岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79205",
+          "author": null,
+          "description": "苹果在周一的新闻发布会上宣布了 iOS 18、macOS 15、iPadOS 18、iPhone 16 和 iPhone 16 Plus 等新产品和新操作系统。iOS 加入了对 RCS 标准的支持，iPhone 和 Android 之间的短信互动将实现兼容。iPhone 16 系列使用了新的 A18 芯片，9 月 13 日（周五）起接受预购，9 月 20 日（周五）起正式发售。A18 使用 3 纳米工艺制造，包含了 6 核 CPU、5 核 GPU 以及 16 核 NPU。苹果称其 NPU 对大型生成式模型进行优化，运行机器学习模型的速度，相比 A16 提升最高可达 2 倍。iPhone 16 配备 6.1 英寸 OLED 全面屏，起售价 5999 元；iPhone 16 Plus 配备 6.7 英寸 OLED 全面屏，起售价 6999 元。",
+          "link": "https://www.solidot.org/story?sid=79205",
+          "publishedOn": "2024-09-10T01:43:20.000Z",
+          "wordCount": 241,
+          "title": "苹果发布 iPhone 16 和 iPhone 16 Plus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79204",
+          "author": null,
+          "description": "国药集团中国生物上海生物制品研究所自主研发的 MVA 株猴痘减毒活疫苗获得国家药品监督管理局签发的临床试验通知书，这是我国首款获批临床的猴痘疫苗。此次获批临床的猴痘减毒疫苗是基于复制缺陷型痘苗病毒 MVA 株开发，该疫苗株的安全性、有效性已得到充分的临床数据论证。疫苗采用成熟的细胞工厂生产工艺，临床前研究证明安全性良好，可在非人灵长类模型中产生针对猴痘病毒攻击的良好免疫保护。自 2022 年猴痘疫情暴发以来，已在全球 121 个国家和地区发现超 10 万例确诊病例和 226 例死亡病例。截至 2024 年 7 月底，我国（含港、澳、台地区）已先后报告确诊病例 2567 例。近期，非洲地区发现致病性更强和致死率更高的分支Ib新变异株，导致非洲地区出现新一轮的快速传播，目前已扩散至欧洲和东南亚地区。世界卫生组织于8月14日第二次紧急宣布猴痘疫情构成“国际关注的突发公共卫生事件”。",
+          "link": "https://www.solidot.org/story?sid=79204",
+          "publishedOn": "2024-09-09T15:43:13.000Z",
+          "wordCount": 174,
+          "title": "首款猴痘疫苗获批临床",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79203",
+          "author": null,
+          "description": "新证据显示，数十亿年前可能有一颗恒星非常接近太阳系，这次飞掠导致了数千个位于海王星外的小天体被偏转，进入高倾角的椭圆轨道环绕太阳运行，有些天体甚至可能被木星或土星捕获，成为其卫星，研究结果发表于《自然天文学》和《天文物理学快报》。有些人认为太阳系的边界就是海王星的轨道。实际上还有已知的数千个天体在海王星轨道外移动，这些被称为海王星外天体（Trans-Neptunian Object 或 TNO）。在这些 TNO 中，有许多的直径超过 100 公里，它们的轨道相当怪异，不仅轨道偏心，还与太阳系行星的共平面轨道呈倾斜状态。研究团队进行了超过 3,000 次的模拟来研究这些异常轨道的可能成因，其结果显示，一颗接近的恒星可能导致这些奇特的轨道特征。根据模拟，最符合当前太阳系外部状况的是一颗质量略轻于太阳的恒星，约为 0.8 倍太阳质量，这颗恒星以约 165 亿公里的距离飞掠过太阳系附近，比现在航海家一号的距离还近。",
+          "link": "https://www.solidot.org/story?sid=79203",
+          "publishedOn": "2024-09-09T15:23:15.000Z",
+          "wordCount": 171,
+          "title": "数十亿年前掠过太阳系的恒星改变了太阳系生态",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79202",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一项研究，抑郁症患者脑部被称为“frontostriatal salience network（额叶纹状体突显网络）”的区域比健康人平均大 73%，即使情绪症状缓解或消失，该区域也不会缩小。大脑可按各区域功能连接分为不同的子网络，其中“突显网络”由多个与认知和情感相关的区域组成，它负责监测外部世界，并谨慎决定其他大脑网络对于新信息与刺激的反应。研究人员对 135 名重度抑郁症患者的大脑进行了功能性磁共振成像，发现他们大脑的“突显网络”比对照组的健康人更大，该区域在大脑皮层中的占比最多达健康人的约两倍。\n研究小组还分析了一项追踪儿童脑部发育的大规模研究的数据，在 1.2 万名调查对象中，有 57 名儿童在青春期患上抑郁症。数据显示，尽管这些后来患上抑郁症的儿童在 13 岁之前尚未出现症状，但他们脑部的“突显网络”在 9 岁时就比同龄健康人更大。研究人员推测，较大的“突显网络”可能与遗传有关，而人在抑郁状态下持续关注负面刺激，可能导致“突显网络”过度使用，从而使该区域进一步扩大。",
+          "link": "https://www.solidot.org/story?sid=79202",
+          "publishedOn": "2024-09-09T15:03:26.000Z",
+          "wordCount": 172,
+          "title": "抑郁症患者脑部特定神经网络较大",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79201",
+          "author": null,
+          "description": "提供呼叫中心服务的 Alorica 推出了一款 AI 翻译工具，让公司员工能用 200 种不同语言与客户交谈。Alorica 不会裁员，它还在积极招聘。Alorica 等公司的经验表明，AI 不会成为人类的职业“杀手”，导致大规模失业。AI 可能会像蒸汽机、电力、互联网等技术突破一样，在消除部分工作的同时创造新的工作，使得人类的工作总体上效率更高，让工人、雇主和经济都从中受益。人们曾经以为，AI 聊天机器人将会取代客服，但这种情况目前并没有发生，可能永远也不会发生。白宫经济顾问委员会上月表示，他们发现几乎没有证据表明 AI 会对整体就业情况产生负面影响。目前科技行业的大规模裁员与 AI 几乎没有关联，科技巨头不是因为 AI 会节省资金或导致工作岗位不再需要而裁员的。",
+          "link": "https://www.solidot.org/story?sid=79201",
+          "publishedOn": "2024-09-09T14:39:44.000Z",
+          "wordCount": 177,
+          "title": "AI 不太可能取代人类的工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79200",
+          "author": null,
+          "description": "Google 最近用 Rust 语言为 Android 虚拟化框架重写了保护虚拟机的固件。工程师 Ivan Lozano 和 Dominik Maier 在官方博客上鼓励其他开发者用 Rust 开发固件，表示不难。固件通常是用 C 或 C++ 等内存不安全语言开发的，而 Rust 语言提供了一种内存安全替代，避免了常见的内存安全漏洞如缓冲区溢出和释放后使用，大部分大型代码库漏洞通常是内存安全漏洞。工程师指出，Rust 提供了与 C 或 C++ 相似的性能和大小，在没有开销的情况下支持与 C 的互操作性。Android Programming Languages 的工程总监 Lars Bergstrom 表示，为减少内存安全漏洞，Google 正在 Android 和 Chromium 等项目中增加 Rust 的使用。",
+          "link": "https://www.solidot.org/story?sid=79200",
+          "publishedOn": "2024-09-09T14:16:15.000Z",
+          "wordCount": 215,
+          "title": "Google 称用 Rust 开发 Android 固件不难",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79199",
+          "author": null,
+          "description": "马斯克（Elon Musk）通过其 X 平台宣布将在两年内向火星发射 Starships 无人飞船，最快 2028 年发射载人火星飞船。马斯克的乐观预测通常不太可能实现，他几年前曾说过特斯拉将很快能完全自动驾驶，但至今仍然遥遥无期。马斯克称，Starships 无人飞船将在下一次地球到火星的转移窗口打开时发射。这一时间预计是 2026 年 11-12 月之间。如果在火星表面着陆顺利，首次火星载人飞行将在四年内进行。他预测之后前往火星的太空之旅将呈指数级增长，20 年内有望建成自给自足的火星城市。",
+          "link": "https://www.solidot.org/story?sid=79199",
+          "publishedOn": "2024-09-09T10:47:14.000Z",
+          "wordCount": 185,
+          "title": "马斯克称将在 2026 年发射 Starships 火星飞船",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79198",
+          "author": null,
+          "description": "WSJ 和 NYT 对 Telegram 数以千计的频道和数以百万条消息的分析显示，这一社交平台已成为全球犯罪活动的游乐场。Telegram 有数以千计的出售被盗身份的频道，是绕过美国制裁走私武器零部件的首选平台，被哈马斯用于最早发布去年 10 月对以色列的袭击消息。Telegram 提供的功能让犯罪分子、恐怖分子和骗子能大规模组织起来并避开当局的审查。调查显示，白人至上主义者运营的 1,500 个频道协调了全球近百万人的活动。至少有 24 个频道出售武器，有 22 个用户逾 7 万的频道出售毒品。在创始人兼 CEO Pavel Durov 上个月于法国被捕之后，该公司正采取行动安抚对其日益不满的各国政府，它已经禁用了寻找附近的人功能。",
+          "link": "https://www.solidot.org/story?sid=79198",
+          "publishedOn": "2024-09-09T10:23:16.000Z",
+          "wordCount": 182,
+          "title": "Telegram 是犯罪活动的乐园",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79197",
+          "author": null,
+          "description": "常听播客的人可能注意到，播客每一集的时间长度正越来越长，三个小时可能都称不上引人侧目，与此同时听众的接受度还相当高。流行播客的闲聊能持续半个工作日甚至更长时间。播客 Acquired 的主持人 Ben Gilbert 介绍，他与搭档每个月会发布一集时长三到四小时的播客，详细介绍一家特定公司。以介绍洛克希德马丁公司的一集为例，它的时长为 3 小时 38 分钟，听众平均听了 70%。一集耐克节目的时长逾四小时，平均收听率  68%。他表示听众非常喜欢此类的长播客。主持人通常将此类长播客称为对话式有声读物。",
+          "link": "https://www.solidot.org/story?sid=79197",
+          "publishedOn": "2024-09-09T09:09:41.000Z",
+          "wordCount": 167,
+          "title": "长播客的兴起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79196",
+          "author": null,
+          "description": "在第二届深空探测（天都）国际会议上，中国国家航天局探月与航天工程中心天问三号任务总设计师刘继忠介绍，中国天问三号任务计划在 2028 年前后实施两次发射任务，实现火星样品返回地球。刘继忠介绍，天问三号作为我国第二次火星探测任务，确立生命痕迹探寻为第一科学目标，将突破火面采样、火面起飞上升、环火交会和行星保护等关键技术，实现火星样品返回地球。在行星保护方面，切实履行国际公约，开展前向和返向行星防护，确保不污染火星、不污染地球以及样品的原始性。这一时间表比原计划提前了两年。天问三号任务由两次发射组成，使用长征五号火箭分别发射搭载着陆器和上升器的有效载荷以及搭载轨道器和返回舱的有效载荷。任务的一大目标是将约 600 克的火星土壤样品送回地球。如果发射时间是在 2028 年，那么火星样品预计会在  2031 年 7 月左右送回地球。",
+          "link": "https://www.solidot.org/story?sid=79196",
+          "publishedOn": "2024-09-09T08:14:06.000Z",
+          "wordCount": 175,
+          "title": "中国计划在 2028 年实施天问三号火星任务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79195",
+          "author": null,
+          "description": "导致野火的因素有很多，其中一种是触电燃烧的鸟尸。根据 2022 年的一项研究，2014-2018 年间触电身亡的鸟在美国本土导致了 44 场野火。今年夏天科罗拉多州至少三场野火是触电身亡的鸟引起的，其中两场分别发生在 7 月 31 日和 8 月 27 日，事件中没有人受伤或死亡。领导这项研究的生物学家 Taylor Barnes 称，当鸟停在架空电线上时，因不同的原因，它们有时候会受到强电击，羽毛着火，会掉落下来，如果掉落的地方是灌木丛或其它易燃材料，那么就可能引发火灾。根据他的研究，加州海岸被称为地中海生态区的区域是鸟类引发野火密度最高的地方。他建议当地政府研究改造电线杆，以减少触电事件发生。",
+          "link": "https://www.solidot.org/story?sid=79195",
+          "publishedOn": "2024-09-09T07:39:09.000Z",
+          "wordCount": 176,
+          "title": "触电的鸟引发野火",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79194",
+          "author": null,
+          "description": "随着用户厌倦了社媒平台如 Twitter/X 所提供的“数字城市广场”，一部分人转向了 X 的同类替代如 Bluesky 和 Threads，还有一部人则转向了爱好类应用如读书应用 Goodreads 和跑步应用 Strava。根据 Sensor Tower 的数据，Strava 用户数一年内增长了五分之一，手工编织 Ravelry 有逾 900 万用户，Goodreads 有逾 1.5 亿用户，影评类应用 Letterboxd 从 2020 年 3 月的 150 万增长到了今年夏天的逾 1400 万——其月活跃用户数一年内增长了 55%。爱好类应用的松弛性以及其分享激情和消遣的方式，意味着它们是一个比 X 更温和的地方。当人们在爱好类应用上投入越来越多的时间，他们也开始在上面寻找志同道合的朋友，这些应用逐渐成为新的社交网络。",
+          "link": "https://www.solidot.org/story?sid=79194",
+          "publishedOn": "2024-09-09T06:49:15.000Z",
+          "wordCount": 194,
+          "title": "爱好类应用成为新的社交网络",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79193",
+          "author": null,
+          "description": "NGINX 项目宣布从 Mercurial 迁移到 Github。从现在开始，NGINX 项目将以 Pull Requests 形式接受贡献，通过 Github 问题页接受 bug 报告、功能请求和功能增强建议，将 GitHub 的讨论页面成为社区论坛。NGINX 项目表示将给予开发者们过渡时间，在 2024 年 12 月 31 日前继续通过邮件列表接受补丁和社区支持。",
+          "link": "https://www.solidot.org/story?sid=79193",
+          "publishedOn": "2024-09-08T13:00:27.000Z",
+          "wordCount": 185,
+          "title": "NGINX 迁移到 Github",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79192",
           "author": null,
@@ -882,36 +1037,6 @@
           "publishedOn": "2024-08-31T15:24:05.000Z",
           "wordCount": 162,
           "title": "英特尔考虑拆分其芯片制造业务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79126",
-          "author": null,
-          "description": "60 岁的富国银行员工 Denise Prudhomme 打卡上班四天后被发现死在办公桌上。因为她工作的隔间比较偏，而且很多员工是远程工作，因此没有人注意到她去世了。她最后一次打卡上班是在 8 月 16 日周五早上 7 点，8 月 20 日下午 4:55 被发现已经死亡。她的同事确实注意到了一些异常，闻到了异味，但以为是管道导致的。\n她所在隔间位于三楼，远离主要通道。她所在的亚利桑那州坦佩分行大部分员工都是远程工作，这些因素都减少她的尸体被发现的可能性。警方和验尸官没有发现任何谋杀的痕迹。富国银行表示，他们将研究内部流程，确保员工受到某种检查，确保他们没有死亡。",
-          "link": "https://www.solidot.org/story?sid=79126",
-          "publishedOn": "2024-08-31T11:08:20.000Z",
-          "wordCount": 172,
-          "title": "富国银行员工死在办公桌上四天后才被发现",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79125",
-          "author": null,
-          "description": "马斯克(Elon Musk)与巴西最高法院大法官莫赖斯（Alexandre de Moraes）之间的冲突在继续。莫赖斯正式下令暂停 X 在巴西的业务，直至 X 任命一名代表在巴西法庭上代表其出庭。马斯克自称是言论自由的捍卫者，但他过去的行为更多表现出他是一名伪善者，他并不反感审查，只要审查符合其意识形态，他更乐意代表保守派或右派审查其 X 平台上的内容，而不愿意屈服于巴西的左派。",
-          "link": "https://www.solidot.org/story?sid=79125",
-          "publishedOn": "2024-08-31T10:35:18.000Z",
-          "wordCount": 170,
-          "title": "巴西屏蔽 X",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79124",
-          "author": null,
-          "description": "日本国家警察厅发布了一份报告，旨在突出独居者在家中去世无人注意的社会问题。今年上半年对 102965 名死者的调查显示，约 30% 或 37227 人是独居被发现在家中去世，65 岁及以上占总数的逾七成，85 岁及以上最多有 7498 人，其次是 75-79 岁有 5920 人，70-74 岁有 5635 人。其中四成 14,775 人是死后一天被发现，有 3,936 人是死后一个多月才被发现，有 130 人死后一年才被发现。",
-          "link": "https://www.solidot.org/story?sid=79124",
-          "publishedOn": "2024-08-30T14:55:45.000Z",
-          "wordCount": 179,
-          "title": "日本报告近四千独居者在死后一个月才被发现",
           "imageUrl": null
         }
       ]
