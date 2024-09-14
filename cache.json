@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49538",
+          "author": "青小蛙",
+          "description": "曾经，将 PDF 转换为 Word 是非常非常多用户需要的功能。近两年的文字编辑软件，基本上都可以直接打开 PDF 进行编辑了，所以很久没有收到这样的需求了。@Appinn 今天看到有同学找 PDF",
+          "link": "https://www.appinn.com/adobe-acrobat-free-tools/",
+          "publishedOn": "2024-09-13T07:10:40.000Z",
+          "wordCount": 2775,
+          "title": "Adobe Acrobat 免费三件套：在线 PDF 转 Word、Excel、PPT，支持中文 OCR 文字识别",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-13T144726.009.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49527",
           "author": "青小蛙",
           "description": "UPDF 是一款设计极简且功能强大的AI PDF编辑器，它支持PDF文件的创建、编辑PDF、添加注释、填写表单以及签名等功能。此外，UPDF还提供了PDF转换、页面管理等工具，帮助用户轻松完成各种任务",
@@ -130,26 +140,6 @@
           "wordCount": 2747,
           "title": "Adobe CC 中国摄影计划 ，最后 11 个，售完即止，不再拥有",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-05T151414.010.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49469",
-          "author": "青小蛙",
-          "description": "PowerToys 新增了一个非常实用的功能：工作区 Workspaces，它可以捕捉当前已启动的程序，并记忆桌面窗口布局，将其保存为一个工作区。之后便可一键启动工作区，包括启动所有程序，并恢复窗口位",
-          "link": "https://www.appinn.com/powertoys-workspaces/",
-          "publishedOn": "2024-09-04T09:11:53.000Z",
-          "wordCount": 2747,
-          "title": "【新】PowerToys 工作区：一键启动一组程序，并恢复窗口位置",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-04T155408.528.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49454",
-          "author": "青小蛙",
-          "description": "Isaiah 是一款基于 lazydocker 的自托管工具，用来管理你的所有 Docker 容器，包括容器、镜像、磁盘、网络，可以通过网页的方式进行启动、停止、删除等操作。@Appinn Docke",
-          "link": "https://www.appinn.com/isaiah-docker/",
-          "publishedOn": "2024-09-04T04:14:40.000Z",
-          "wordCount": 2755,
-          "title": "Isaiah – 基于 lazydocker，用 Web 管理你的所有 Docker 容器",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-02T170120.325.jpg"
         }
       ]
     },
@@ -158,6 +148,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=380589",
+          "author": "Daniel Schwarz",
+          "description": "The text-box-trim and text-box-edge properties in CSS enable developers to trim specifiable amounts of the whitespace that appear above the first formatted line of text and below the last formatted line of text in a text box, making the text …\nTwo CSS Properties for Trimming Text Box Whitespace originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/two-css-properties-for-trimming-text-box-whitespace/",
+          "publishedOn": "2024-09-13T14:11:32.000Z",
+          "wordCount": 2780,
+          "title": "Two CSS Properties for Trimming Text Box Whitespace",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380589"
+        },
         {
           "id": "https://css-tricks.com/?p=380692",
           "author": "Geoff Graham",
@@ -257,26 +257,6 @@
           "wordCount": 1275,
           "title": "Quick Hit #15",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380298"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380296",
-          "author": "Geoff Graham",
-          "description": "Inclusive Design 24 is in 8 short days — and it’s FREE, no sign-up required!…\nQuick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-14/",
-          "publishedOn": "2024-09-03T19:08:42.000Z",
-          "wordCount": 1310,
-          "title": "Quick Hit #14",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380296"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380214",
-          "author": "Geoff Graham",
-          "description": "Seems like we’re always talking about clipping text around here. All it takes is a little browsing to spot a bunch of things we’ve already explored.\n    \n        Article\n\n    on\n    Sep 19, 2012  \n    \n\n      accessibility content truncation    \n    \n\n    \n…\nAnother Stab at Truncated Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/another-stab-at-truncated-text/",
-          "publishedOn": "2024-09-03T15:57:29.000Z",
-          "wordCount": 2784,
-          "title": "Another Stab at Truncated Text",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380214"
         }
       ]
     },
@@ -302,6 +282,16 @@
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11353",
+          "author": "张 鑫旭",
+          "description": "之前使用align-content控制元素的垂直对齐仅适用于Flex或Grid元素，而现在，Block元素也能使用啦！",
+          "link": "https://www.zhangxinxu.com/wordpress/2024/09/css-align-content/",
+          "publishedOn": "2024-09-13T15:36:32.000Z",
+          "wordCount": 1327,
+          "title": "好消息，align-content垂直居中也适用普通元素啦",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zhangxinxu.com/wordpress/?p=11347",
           "author": "张 鑫旭",
@@ -329,6 +319,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79254",
+          "author": null,
+          "description": "澳大利亚拟议中的法律将要求社交媒体公司对其平台上的内容承担责任，对不遵守规定打击虚假信息传播和网络诈骗的公司处以其全球收入最高 5% 的罚款。对这一计划中的法律，X/Twitter 平台的所有者马斯克（Elon Musk）抨击澳大利亚政府是法西斯分子。澳大利亚前工党领袖 Bill Shorten 回应称，马斯克只在符合其商业利益时才拥护言论自由，马斯克在言论自由上的姿势比印度爱经 (Kama Sutra)描绘的还多。",
+          "link": "https://www.solidot.org/story?sid=79254",
+          "publishedOn": "2024-09-13T15:35:41.000Z",
+          "wordCount": 165,
+          "title": "澳大利亚提议对打击虚假信息不力的社交媒体罚款，马斯克抨击这是法西斯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79253",
+          "author": null,
+          "description": "2024 年 Ig 诺贝尔奖在 MIT 公布了结果。2020-2023 年的颁奖典礼因新冠疫情以在线方式举行，今年是过去五年首次恢复线下颁奖。获奖者没有差旅费补贴，需要自掏腰包。获奖者包括了：B.F. Skinner 因实验用鸽子为导弹制导而获得和平奖，这一实验距今有逾 60 年历史，接受领奖是他的女儿；Jacob White 和 Felipe Yamashita 因发现真实植物模仿人造塑料植物形状的证据而获得植物学奖；Marjolaine Willems 等人因研究北半球居民的头发漩涡方向是否与南半球居民相同而获得解剖学奖；Lieven A. Schenk 等人因发现引起痛苦副作用的假药比不会引起痛苦的假药更有效而获得医学奖；日本东京医科齿科大学教授武部贵则团队因发现哺乳动物也能用肛门呼吸而获得生理学奖；František Barto 等人通过研究逾 30 万次抛硬币证明掉落时的面更可能与抛起时的面相同而获得概率奖；Saul Justin Newman 发现以长寿著称的人更可能生活在出生和死亡记录糟糕的地方而获得人口统计学奖。",
+          "link": "https://www.solidot.org/story?sid=79253",
+          "publishedOn": "2024-09-13T14:32:47.000Z",
+          "wordCount": 197,
+          "title": "2024 年 Ig 诺贝尔奖公布结果",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79252",
+          "author": null,
+          "description": "一项研究发现，与训练有素的 AI 聊天机器人进行对话有助于阴谋论信仰。研究调查了 GPT-4 Turbo 等大模型 (LLM) 是否能利用其巨大的信息获取能力以及使用直接针对相信者提出的对具体证据的定制反驳来有效地揭穿阴谋论。在一系列涵盖 2190 名相信阴谋论者的实验中，参与者与 LLM 进行了几次个性化互动，分享了他们的阴谋论信仰以及他们认为的支持这些信仰的证据。LLM 也会类似地通过定制的、事实的和基于证据的反驳直接驳斥这些说法。一位受雇评估 GPT-4 Turbo 所作声明准确性的专业事实核查员报告说，在这些声明中，99.2% 被评为“真实”，0.8% 被评为“误导”，0 被评为“虚假”；并且没有发现任何声明包含自由派或保守派偏见。研究人员发现，由 AI 驱动的对话能使参与者的被误导的信念平均减少 20%。这种效应持续了至少 2 个月，并且在各种不相关的阴谋论以及各个人口统计类别中均被观察到。这些发现挑战了这样一种观念，即某人一旦采信了阴谋论，证据和论据就无效了。他们还质疑了社会-心理学理论，该理论将心理需求和动机作为阴谋论信念的主要驱动因素。",
+          "link": "https://www.solidot.org/story?sid=79252",
+          "publishedOn": "2024-09-13T12:00:22.000Z",
+          "wordCount": 187,
+          "title": "与 AI 对话有助于减少阴谋论信仰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79251",
+          "author": null,
+          "description": "全国人大常委会周五表决通过了关于实施渐进式延迟法定退休年龄的决定。根据决定，从 2025 年 1 月 1 日起，我国将用 15 年时间，逐步将男职工的法定退休年龄从原 60 周岁延迟到 63 周岁，将女职工的法定退休年龄从原 50 周岁、55 周岁，分别延迟到 55 周岁、58 周岁。这是职工法定退休年龄自 1950 年代确定后，70多年来首次进行调整。除延迟法定退休年龄外，决定将调整职工按月领取基本养老金最低缴费年限，从 2030 年起由 15 年逐步提高至 20 年，每年提高 6 个月。在统一实施延迟退休基础上，决定允许职工达到最低缴费年限，可以自愿选择弹性提前退休，提前时间最长不超过 3 年，且退休年龄不得低于原法定退休年龄；也可以在单位与职工协商一致的前提下弹性延迟退休，延迟时间最长不超过 3 年。",
+          "link": "https://www.solidot.org/story?sid=79251",
+          "publishedOn": "2024-09-13T09:39:00.000Z",
+          "wordCount": 188,
+          "title": "全国人大常委会通过延迟退休决定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79250",
+          "author": null,
+          "description": "东京大学和山梨县富士山科学研究所等的团队发表研究结果称，三千到两千年前从中国大陆刮到日本的沙尘受偏西风轨道变化影响，比现在少一半。研究团队分析了富士五湖之一本栖湖（山梨县）湖底堆积物样本中，源自沙尘的矿物石英的量。研究团队从湖底堆积物中采集了共 109 个样本，通过石英量估算了沙尘量，并利用 X 射线等分析了八千年间量的变化。沙尘从八千年前到现在逐渐增加。但在三千到两千年前一度减少，与现在相比减少到 40～50% 左右。研究团队推测，北极圈气压较高造成冷空气流入日本等中纬度地区的“负北极震荡”，偏西风蜿蜒前进使得沙尘难以刮到本栖湖。",
+          "link": "https://www.solidot.org/story?sid=79250",
+          "publishedOn": "2024-09-13T09:24:27.000Z",
+          "wordCount": 162,
+          "title": "三千年前刮到日本的沙尘比现在少一半",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79249",
+          "author": null,
+          "description": "自 2023 年生成式 AI 热潮全面暴发以来，英伟达不到两年时间里共参与了 74 笔融资，累计投资额超过 109 亿美元。英伟达投资了日本初创企业 Sakana AI，法国 Mistral AI 及加拿大 Cohere 等各国的生成式 AI 开发领跑企业，它已向全球 42 家生成式 AI 独角兽中的 18 家出资。 通过向初创企业提供资金，英伟达有望促进自家 GPU 和生成式 AI 开发工具的购买和使用。尽管该公司在 AI 半导体市场所占的全球份额达到约8成，但如果各个国家和地区的头部企业采用该公司的产品，英伟达的主导地位将会进一步得到巩固。这一战略瞄准的是长期回报，而不是短期收益。",
+          "link": "https://www.solidot.org/story?sid=79249",
+          "publishedOn": "2024-09-13T09:19:19.000Z",
+          "wordCount": 194,
+          "title": "英伟达向 AI 初创公司投资逾百亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79248",
+          "author": null,
+          "description": "OpenAI 发布了新 AI 模型 o1。其中 o 代表 Orion，o1 是 OpenAI 下一代推理模型中的第一个，它比旧模型更擅长推理，价格也更贵，速度也更慢。ChatGPT Plus 和团队用户即日起便可以访问 o1 预览版和 o1-mini，而企业和教育用户将在下周初获得访问权限。OpenAI 表示，它计划让 ChatGPT 的所有免费用户都能访问 o1-mini，但尚未确定发布日期。对开发者来说，访问 o1 的成本比之前要高出很多：通过 API 使用 o1 预览版，输入每百万 token 要收费 15 美元，输出每百万收费 60 美元。相比之下，GPT-4o 的百万 token 输入收费只有 5 美元，输出为 15 美元。OpenAI 没有透露 o1 太多细节。",
+          "link": "https://www.solidot.org/story?sid=79248",
+          "publishedOn": "2024-09-13T09:03:22.000Z",
+          "wordCount": 214,
+          "title": "OpenAI 发布新 AI 模型 o1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79247",
+          "author": null,
+          "description": "十年前的现象级手游 Flappy Bird 即将重新上线。2014 年越南游戏开发者 Dong Nguyen 将每天进账数万美元的热门手游 Flappy Bird 从两大应用商店苹果 App Store 和 Google Play Store 下线，原因是游戏的爆红影响到了他的生活。他说 Flappy Bird 是一款成功的游戏，但它毁掉了他的简单生活，他痛恨它。十年后，Flappy Bird 的一个扩展版本计划于10 月底在包括浏览器在内的多个平台上推出，iOS 和 Android 版本计划于 2025 年上线。游戏不是来自 Nguyen，而是来自名叫 The Flappy Bird Foundation 的组织，该组织自我形容是一个致力于与世界分享游戏的热情粉丝新团队。",
+          "link": "https://www.solidot.org/story?sid=79247",
+          "publishedOn": "2024-09-13T07:36:11.000Z",
+          "wordCount": 202,
+          "title": "十年前的现象级手游 Flappy Bird 将重新上线",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79246",
+          "author": null,
+          "description": "Unity 取消了受争议的 Runtime Fee，恢复现有的基于席位的订阅模式。Unity 是在 2023 年 9 月宣布了受争议的 Runtime Fee，设计在达到一定额度之后根据新增安装量对开发商收费。这一决定引发了广泛争议，导致了 CEO John Riccitiello 下台，由前 IBM 总裁、Red Hat CEO Jim Whitehurst 接替他担任临时 CEO。新 CEO  Matthew Bromberg 正致力于纠正错误，重建与游戏开发商的信任关系。",
+          "link": "https://www.solidot.org/story?sid=79246",
+          "publishedOn": "2024-09-13T06:20:12.000Z",
+          "wordCount": 186,
+          "title": "Unity 取消受争议的根据安装量收费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79245",
+          "author": null,
+          "description": "金融时报援引 IT 桔子的数据报道，风投支持的新初创公司数量从 2018 年的 51,302 家暴跌至 2023 年的 1,202 家，跌幅高达 98%。这种幅度的暴跌在全国的科技园区和创新中心有着显著的体现，随处可见空荡荡的办公室和废弃的办公设备。业内人士将这场危机归咎于多种因素，经济放缓、中美紧张关系、科技行业政策等等。融资格局发生了巨大改变，国家支持的基金占据了市场主导地位，导致了更为保守的投资策略，更青睐风险较低的行业，公司创始人面临愈来愈苛刻的条件。",
+          "link": "https://www.solidot.org/story?sid=79245",
+          "publishedOn": "2024-09-13T05:52:06.000Z",
+          "wordCount": 175,
+          "title": "中国 VC 支持的初创公司数量大幅下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79244",
+          "author": null,
+          "description": "微软更新了核心加密库 SymCrypt，加入了设计抵御量子计算机攻击的加密算法。SymCrypt 是用于处理 Windows 和 Linux 加密功能的核心加密库，支持对称和非对称加密算法。微软加入了两种后量子加密算法，其中之一是 ML-KEM，旧称 CRYSTALS-Kyber，是 NIST 上月制定的三种后量子加密标准之一。另一种是 eXtended Merkle Signature Scheme aka XMSS。微软计划未来几个月再添加两种后量子加密算法，其中之一 ML-DSA aka Dilithium；SLH-DSA aka SPHINCS+，这两种算法都成为了 NIST 的后量子加密标准。",
+          "link": "https://www.solidot.org/story?sid=79244",
+          "publishedOn": "2024-09-13T05:21:13.000Z",
+          "wordCount": 181,
+          "title": "微软更新核心加密库加入后量子加密算法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79243",
+          "author": null,
+          "description": "AMD APU 中 GPU 使用的显存来自系统共享内存，显存容量是可变的，不需要去 BIOS 中专门为显存分配更大的容量。然而在游戏中查询 APU 的显存时，它通常显示的是预分配而不是动态的显存，这一情况会导致游戏在高分辨率下出现显存不足的问题。现在 AMD 宣布为其新一代的 AI 300 Strix Point 笔记本电脑引入 Variable Graphics Memory(VGM)，试图解决该问题。VGM 允许用户使用 AMD Adrenalin 软件将最多四分之三的系统共享内存转变为显存，改进需要更多显存的游戏性能。该功能在不同游戏下可能会有不同的表现，部分游戏可能会显著提升帧数，但另一部分游戏可能提升不明显。",
+          "link": "https://www.solidot.org/story?sid=79243",
+          "publishedOn": "2024-09-13T02:32:59.000Z",
+          "wordCount": 182,
+          "title": "AMD 宣布笔记本可变显存允许将更多内存分配给游戏",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79242",
           "author": null,
@@ -1098,116 +1208,6 @@
           "wordCount": 161,
           "title": "全球逾半数人口微量营养素摄入不足",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79163",
-          "author": null,
-          "description": "Google 向 Android Open Source Project(AOSP)释出了 Android 15 源代码。Android 15 将在未来几周内推送给 Pixel 手机，未来几个月推送给三星、摩托罗拉、一加和小米等厂商的兼容手机。Android 15 的新特性包括：简化 passkey 的登陆，防盗检测，改进大屏幕设备的多任务处理，应用访问限制，增强了屏幕阅读器 TalkBack，集成 Gemini AI 用于图像的音频描述，Circle to Search 支持歌曲识别，使用 Android 设备加速度计探测地震活动，等等。",
-          "link": "https://www.solidot.org/story?sid=79163",
-          "publishedOn": "2024-09-04T14:28:09.000Z",
-          "wordCount": 198,
-          "title": "Google 释出 Android 15 源代码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79162",
-          "author": null,
-          "description": "苹果已开始在印度生产新一代 iPhone，其中包括原本在中国制造的高端机型 iPhone Pro。印度以前生产低端和老款机型，但由于地缘政治风险加剧及印度供应链技术能力的提升，苹果推进分散高端机型的生产至印度。2023 年印度生产了约 3000 万部 iPhone，2024 年上半年生产了约 1800 万部。这些 iPhone不仅供应印度市场销售，也出口至美国等地区。相关人士透露，由于生产熟练度以及零部件供货商的基地搬迁进度慢，大部分新款 iPhone 仍然在中国组装。此外苹果将在 2025 年以后推出的所有 iPhone 上采用 OLED 面板。改变此前低价机型使用液晶面板的做法。",
-          "link": "https://www.solidot.org/story?sid=79162",
-          "publishedOn": "2024-09-04T09:51:30.000Z",
-          "wordCount": 184,
-          "title": "苹果开始在印度生产新款 iPhone 高端机型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79161",
-          "author": null,
-          "description": "美国油服巨头 Halliburton 周二证实上个月遭到了网络攻击，表示未经授权的第三方访问并删除了其系统中的数据。上个月的攻击影响了 Halliburton 休斯顿园区和部分全球网络的业务运营。总部位于休斯顿的 Halliburton 是全球最大的油服公司之一，为全球主要能源公司提供钻井服务和设备，有近 48,000 名员工。该公司表示正在评估被删除信息的性质和范围，但认为不太可能产生重大影响。它没有透露更多信息，包括是否被黑客联系商讨支付赎金之类。",
-          "link": "https://www.solidot.org/story?sid=79161",
-          "publishedOn": "2024-09-04T08:32:01.000Z",
-          "wordCount": 169,
-          "title": "Halliburton 称黑客从其系统中删除了数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79160",
-          "author": null,
-          "description": "由于用户寥寥无几，索尼宣布下架刚刚上线的英雄射击游戏《星鸣特攻（Concord）》。《星鸣特攻》于 8 月 23 日发售，作为一款 PVP 对战类游戏，同时在线玩家没有超过千人。索尼 PS 官方博客宣布，游戏于 9 月 3 日停售，9 月 6 日下线，玩家将获得全额退款。索尼和开发商 Firewalk Studio 将探索各种选项，包括更好的接触玩家的选项。《星鸣特攻》仅仅上线两周时间，有可能创下 live service 类游戏关闭的记录。",
-          "link": "https://www.solidot.org/story?sid=79160",
-          "publishedOn": "2024-09-04T08:08:03.000Z",
-          "wordCount": 178,
-          "title": "索尼下架刚刚上线的游戏《星鸣特攻》",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79159",
-          "author": null,
-          "description": "大约 40 亿年前，一颗小行星撞击了木星最大卫星 Ganymede。一位神户大学的研究人员发现，撞击导致了这颗太阳系最大卫星的轴心发生偏移，并证实这颗小行星的大小约为结束地球恐龙时代的小行星的 20 倍，造成了太阳系中留下痕迹的最大撞击事件之一。Ganymede 比水星还要大，与月球相似，它被母行星潮汐锁定，代表它总是以同一面朝向它所绕行的行星。在背对着行星表面的大片区域上被形成同心圆的沟槽所覆盖，这些同心圆围绕着一个点。研究人员于 1980 年代得出结论，这些沟槽是由一次重大撞击事件造成的。神户大学的平田直之(HIRATA Naoyuki)是第一个意识到撞击位置几乎精确地位于远离木星的子午线上的人。藉由与冥王星上曾经导致其自转轴偏移的撞击事件进行类比，这暗示着 Ganymede 也经历了类似的事件。研究人员通过模拟计算出小行星直径约为 300 公里，并创造了一个直径在 1,400-1,600 公里之间的暂时性陨石坑，还导致了自转轴的偏移。",
-          "link": "https://www.solidot.org/story?sid=79159",
-          "publishedOn": "2024-09-04T07:12:35.000Z",
-          "wordCount": 184,
-          "title": "40 亿年前木星卫星 Ganymede 遭撞击导致其轴心偏移",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79158",
-          "author": null,
-          "description": "芯片巨人的股价今年至今下跌了近 60%，是道琼斯工业平均指数中表现最差的股票，也是道琼斯价格加权指数中股价最低的股票。本周二英特尔股价再次下跌约 6%。分析师和投资者认为，英特尔可能会被剔除出道琼斯指数。移除出指数将会伤害芯片巨人本已受损的声誉。该公司错过了 AI 热潮，芯片代工业务也进展不顺利，亏损严重。为了扭亏为盈，英特尔上月初宣布了裁员 15%，暂时股息发放，削减开支。但部分分析师和一位前董事认为这些举措可能太晚了。",
-          "link": "https://www.solidot.org/story?sid=79158",
-          "publishedOn": "2024-09-04T06:45:31.000Z",
-          "wordCount": 163,
-          "title": "英特尔面临被剔除出道琼斯指数",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79157",
-          "author": null,
-          "description": "在巴西屏蔽 X 后，Bluesky 四天增加了逾 200 万新用户。由于大量新用户涌入，Bluesky 的服务短暂出现了错误。Bluesky 成为巴西地区下载量最多的应用，超过了 Meta 的 Threads。Appfigures 的数据显示，Bluesky 上周末的下载量相比前一个周末飙升了 10,584%，而在巴西更达到了惊人的 1,018,952%。这一光环效应也推动了 Bluesky 在其它地区的增长，巴西之外的下载量增长了 584%。Bluesky 工程师表示，过去四天该社交网络的点赞数从一周前的 1300 万增长到 1.046 亿，关注数从 140 万增长到 1.008 亿，转发数从 130 万增长到 1100 万。截至周一，Bluesky 表示过去四天新增用户数 211 万，而前一周仅为 2.6 万。日活跃用户数增幅也超过了 100%。Bluesky 周二表示新增用户数达到了 240 万。",
-          "link": "https://www.solidot.org/story?sid=79157",
-          "publishedOn": "2024-09-04T05:30:33.000Z",
-          "wordCount": 219,
-          "title": "在巴西屏蔽 X 之后 Bluesky 四天增加了 200 万新用户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79156",
-          "author": null,
-          "description": "Mozilla 释出了 Firefox 130，新版本变化不大，下一个版本将引入垂直标签。Firefox 130 的主要变化包括：整页翻译之后选择一段文本翻译到不同语言；设置中新的 Firefox Labs 页面可用于实验不同功能，AI Chatbot 可以添加到侧边栏快速访问，切换标签时可选择让画中画自动显示在活跃标签上；Linux 上的 Overscroll 动画；Firefox 翻译支持越南语等 11 种新语言，安全修正，等等。",
-          "link": "https://www.solidot.org/story?sid=79156",
-          "publishedOn": "2024-09-04T05:10:13.000Z",
-          "wordCount": 180,
-          "title": "Firefox 130 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79155",
-          "author": null,
-          "description": "研究人员使用非侵入性磁共振成像扫描，绘制了人类和黑猩猩大脑的数据驱动图。他们分析了 189 只 9 至 50 岁的黑猩猩和 480 名 2 0至 74 岁的人的扫描结果。结果发现，这两个物种的大脑两个半球通常是对称的，并且有许多相似的解剖结构簇，特别是前额叶皮层区域。研究人员随后测量了50岁以下的黑猩猩和58岁以下的人类大脑中，灰质随着时间的推移萎缩了多少——这是衰老的标志。在人类中，他们发现额叶皮层，包括前额叶皮层的减少幅度最大，而在黑猩猩中，一个涉及习惯形成和奖励行为的中心结构——纹状体的减少幅度最大。在这两个物种中，与视觉处理和运动技能有关的大脑区域不太容易衰老。最后研究人员评估了与黑猩猩大脑相比，人类大脑的哪些区域扩张得最多，并比较了相同年龄、性别的人类和黑猩猩大脑的扫描结果。结果表明，最快的进化扩张发生在前额叶皮层区域，这是最容易衰老的区域之一。",
-          "link": "https://www.solidot.org/story?sid=79155",
-          "publishedOn": "2024-09-03T16:10:49.000Z",
-          "wordCount": 170,
-          "title": "人脑前额叶皮层最容易发生衰老",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79154",
-          "author": null,
-          "description": "惠普在 2011 年以 110 亿美元收购了英国软件公司 Autonomy，第二年就减记 88 亿美元，惠普随后指控Autonomy 存在严重会计违规操作行为。公司创始人 Mike Lynch 以及财务副总裁 Steve Chamberlain 都受到欺诈指控。但上个月两位被告先后因意外事故死亡。惠普企业（HPE）现在确认将继续推进这起欺诈诉讼。它寻求索赔 40 亿美元，它于 2022 年在英国高等法院赢得了对 Lynch 的民事诉讼，但审理此案的法官表示最终赔偿金额将大幅低于索赔金额。",
-          "link": "https://www.solidot.org/story?sid=79154",
-          "publishedOn": "2024-09-03T15:23:13.000Z",
-          "wordCount": 193,
-          "title": "HPE 将继续向已故亿万富翁 Mike Lynch 追债",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79153",
-          "author": null,
-          "description": "《雨中冒险（Risk of Rain）》系列游戏原开发团队 Hopoo Games 宣布它的大部分成员加入了 Valve 公司。而 Hopoo Games 本身将不复存在。《雨中冒险》IP 控制在 Gearbox 手中，预计会由 Gearbox 继续开发和维护，而由 Gearbox 开发的《雨中冒险2》扩展《风暴探寻者》受到了差评如潮的玩家评价。Valve 手中有多个游戏项目正在开发，其中之一是正在测试的 Deadlock，以及可能的《半条命》系列新作。Hopoo Games 团队可能会加入这些项目的开发。",
-          "link": "https://www.solidot.org/story?sid=79153",
-          "publishedOn": "2024-09-03T15:06:22.000Z",
-          "wordCount": 182,
-          "title": "《雨中冒险》游戏开发者加入 Valve",
-          "imageUrl": null
         }
       ]
     },
@@ -1215,18 +1215,7 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com",
-      "articles": [
-        {
-          "id": "https://humanwhocodes.com/blog/2024/09/present-technical-information-storytelling-approach/",
-          "author": "Nicholas C. Zakas",
-          "description": "Streamline presentations to stakeholders using a storytelling approach.",
-          "link": "https://humanwhocodes.com/blog/2024/09/present-technical-information-storytelling-approach/",
-          "publishedOn": "2024-09-04T00:00:00.000Z",
-          "wordCount": 1196,
-          "title": "Present technical information using a storytelling framework",
-          "imageUrl": "https://humanwhocodes.com/favicon.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "宁南山 - 知乎动态",
