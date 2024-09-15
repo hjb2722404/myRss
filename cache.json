@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49547",
+          "author": "青小蛙",
+          "description": "光影魔术手4.6.1 是一款老牌的 Windows 图片处理软件，简单易用。主要用来调色、磨皮、批量处理、抠图等，还有证件照排版、拼图、标注等功能。目前依旧在更新，还活着。@Appinn 来自发现频道",
+          "link": "https://www.appinn.com/gymss-cn/",
+          "publishedOn": "2024-09-14T08:24:55.000Z",
+          "wordCount": 2687,
+          "title": "光影魔术手4.6.1 – 老牌图片处理软件｜是的，它还在",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-14T160808.876.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=49544",
+          "author": "青小蛙",
+          "description": "前几日，Internet Archive 发布了一篇文章：《New Feature Alert: Access Archived Webpages Directly Through Google Se",
+          "link": "https://www.appinn.com/google-search-result-wayback-machine/",
+          "publishedOn": "2024-09-14T07:36:43.000Z",
+          "wordCount": 2764,
+          "title": "快照下线 9个月之后，Google 搜索结果添加了 Wayback Machine 的链接",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-14T153103.474.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49538",
           "author": "青小蛙",
           "description": "曾经，将 PDF 转换为 Word 是非常非常多用户需要的功能。近两年的文字编辑软件，基本上都可以直接打开 PDF 进行编辑了，所以很久没有收到这样的需求了。@Appinn 今天看到有同学找 PDF",
@@ -120,26 +140,6 @@
           "wordCount": 2694,
           "title": "致球迷：足球经理2024 限免｜可以错过昨晚的比赛，但别错过这款游戏",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-06T153731.841.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49477",
-          "author": "青小蛙",
-          "description": "Open and Shut 是一款通过打开、关闭笔记本电脑来发送莫斯电码的开源工具。真的就是打开笔记本、合上笔记本来发送一次信号，组合起来成了莫斯电码，太过于抽象了。@Appinn 来自 @kero9",
-          "link": "https://www.appinn.com/open-and-shut/",
-          "publishedOn": "2024-09-05T08:44:36.000Z",
-          "wordCount": 2701,
-          "title": "Open and Shut – 这个项目过于抽象，以至于我觉得很符合大家的气质…",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-05T163653.694.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49474",
-          "author": "青小蛙",
-          "description": "Adobe Creative Cloud 中国摄影计划，包含 Photoshop 和 Lightroom Classic 两大桌面端创意工具，及适用于 iOS 端的 Photoshop Express",
-          "link": "https://www.appinn.com/adobe-cc-last-11/",
-          "publishedOn": "2024-09-05T07:24:16.000Z",
-          "wordCount": 2747,
-          "title": "Adobe CC 中国摄影计划 ，最后 11 个，售完即止，不再拥有",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/09/Appinn-feature-images-2024-09-05T151414.010.jpg"
         }
       ]
     },
@@ -319,6 +319,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79258",
+          "author": null,
+          "description": "安全公司 Doctor Web 报告，它监测到 197 个国家/地区用户的近 130 万 Android 机顶盒被植入后门 Android.Vo1d。木马作者使用了 vo1d 这一名字命名组件的原因可能是试图将其伪装成系统程序 /system/bin/vold，它也由此文件名称而得名。Android.Vo1d 感染的机顶盒型号分别为运行 Android 7.1.2 的 R4，运行 Android 12.1 的 TV BOX，以及 Android 10.1 的 KJ-SMART4KVIP。攻击者选择电视机顶盒作为目标的一个可能原因是此类设备通常操作系统是陈旧的版本，没有修复漏洞，并且厂家不再提供更新。研究人员不清楚机顶盒后门感染的源头。一种可能的媒介可能是中介恶意软件利用操作系统漏洞获取了 root 权限，另一种可能是使用了具有 root 访问权限的非官方固件版本。",
+          "link": "https://www.solidot.org/story?sid=79258",
+          "publishedOn": "2024-09-14T10:22:49.000Z",
+          "wordCount": 201,
+          "title": "130 万 Android 机顶盒被植入后门",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79257",
+          "author": null,
+          "description": "AMD 高级副总裁兼计算图形业务组总经理 Jack Huynh 在接受采访时谈论了该公司下一代上采样技术 FidelityFX Super Resolution 4.0（或 FSR4）将是完全由 AI 驱动，类似英伟达的 DLSS。Jack Huynh 以掌机华硕 ROG Ally 或联想 Legion Go 为例说，这些掌机的最大问题是电池续航时间过短，你想要玩 3 个小时的悟空，但电池只够你玩不到一个小时，帧生成和帧插值技术有助于延长电池续航时间。FSR 上采样技术此前的版本如 FSR2 和 FSR3 是基于分析和过滤器，下一代将是完全基于 AI，AMD 工程团队已在该项目上投入了近一年时间。AMD 的首要目标是最大程度的提高电池续航。",
+          "link": "https://www.solidot.org/story?sid=79257",
+          "publishedOn": "2024-09-14T08:13:47.000Z",
+          "wordCount": 198,
+          "title": "FSR4 将是基于 AI 的上采样技术",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79256",
+          "author": null,
+          "description": "干眼病(DED)是一种慢性疾病，估计影响全球约 3.6 亿人。常见症状包括眼睛不适、发红、发痒或发炎。有证据表明，笑疗法可以缓解抑郁、焦虑、压力和慢性疼痛，同时增强免疫功能，被认为是对各种慢性疾病(包括精神疾病、癌症和糖尿病)有益的补充和附加治疗。但是笑疗法是否对干眼症有益未知。为了进一步探索，来自中国和英国的研究人员开始评估笑锻炼对干眼症患者的有效性和安全性。他们的研究结果基于 283 名年龄在 18-45 岁之间的参与者，平均年龄 29 岁，使用眼表疾病指数(OSDI)评分评估是否患有干眼病，并随机分配接受笑锻炼或 0.1% 透明质酸钠滴眼液，每天四次，持续八周。笑练习组观看了一段教学视频，并被要求每五分钟重复 30 次“嘻嘻，哈哈，哈哈，哈哈，哈哈……”，使用面部识别移动应用程序来标准化练习并增强面部运动。研究结果表明，在改善干眼症症状和临床症状方面，笑锻炼并不逊于 0.1% 的透明质酸钠。",
+          "link": "https://www.solidot.org/story?sid=79256",
+          "publishedOn": "2024-09-14T07:16:44.000Z",
+          "wordCount": 171,
+          "title": "笑有助于改善干眼病",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79255",
+          "author": null,
+          "description": "拜登政府正在拟议新规定限制中国电商希音和 Temu 利用小额包裹免税政策。利用“低价”豁免，希音和 Temu 向美国客户运送低于 800 美元的廉价商品而无需缴纳关税。新规定旨在为美国企业、零售商和消费者提供公平的竞争环境。根据拟议中的规定，如果商品属于 301 、232 和 201 条款关税覆盖的范围，美国将阻止企业申请最低关税豁免。除此之外，这些商品还将受到美国海关和边境保护局更严格的检查。希音总部在新加坡，Temu 则是拼多多旗下国际电商，两家公司销售的商品基本上都是中国制造。",
+          "link": "https://www.solidot.org/story?sid=79255",
+          "publishedOn": "2024-09-14T06:45:47.000Z",
+          "wordCount": 176,
+          "title": "美国计划限制希音和 Temu 利用小额免税规定",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79254",
           "author": null,
@@ -1108,106 +1148,6 @@
           "wordCount": 174,
           "title": "《黑与白》开源引擎发布首个版本",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79173",
-          "author": null,
-          "description": "因美国限制出口先进的 AI 芯片，中国本土厂商推出了替代产品，其中之一是华为昇腾系列（Ascend）AI 处理器。然而《金融时报》援引业内人士的消息报道，客户抱怨昇腾芯片存在稳定性问题、片间连接太慢以及华为提供的异构计算架构 Cann 质量太差。英伟达的 Cuda 是其 AI 芯片的核心，而 Cann 相当于华为的 Cuda，但连华为自己的开发者也抱怨 Cann 问题太多，导致了昇腾难以使用和不稳定。华为开发者称，Cann 的文档不完善，随机错误发生后很难查清问题根源。使用过昇腾的百度工程师说，芯片经常崩溃，增加了 AI 开发工作的复杂度。为解决问题，华为派遣了工程师帮助客户将为 Cuda 编写的软件移植到 Cann 上。百度、科大讯飞和腾讯都有华为的工程师团队。华为相对于英伟达的优势在于其客户服务。",
-          "link": "https://www.solidot.org/story?sid=79173",
-          "publishedOn": "2024-09-05T14:37:30.000Z",
-          "wordCount": 193,
-          "title": "华为 AI 芯片受困于 Bug 和性能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79172",
-          "author": null,
-          "description": "南非铁路客运集团 (Prasa)前首席工程师 Daniel Mthimkhulu 因伪造工程学位和博士学位被判 15 年徒刑。Mthimkhulu 担任 Prasa 工程负责人长达五年之久，他的薪水高达 15.6 万美元，他在简历中声称自己拥有多个机械工程学位，其中包括来自南非著名的 Witwatersrand 大学学位，以及德国一所大学的博士学位。但法庭获悉他只读完高中。他在 2015 年 7 月被捕。15 年前他靠着伪造的学位迅速晋升为总工程师。他还伪造了来自德国的工作邀请函，说服公司提高其薪水以免他跳槽。他牵头购买了数十列西班牙火车，结果因为火车太高而无法使用。",
-          "link": "https://www.solidot.org/story?sid=79172",
-          "publishedOn": "2024-09-05T10:49:31.000Z",
-          "wordCount": 183,
-          "title": "伪造学历的南非铁路客运集团前首席工程师被判 15 年徒刑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79171",
-          "author": null,
-          "description": "美国第二巡回上诉法院维持了 Hachette v. Internet Archive 一案的原判决，裁定互联网档案馆的数字借阅项目侵犯了版权法，驳回了互联网档案馆所持的论点——即借阅行为受到了合理使用原则的保护。因新冠疫情导致了图书馆关闭，互联网档案馆于 2020 年 3 月启动了 National Emergency Library 项目，向困住家中的民众大批量提供电子书的数字借阅服务，不再限制一本电子书一次只借给一个人。该项目立即遭到了出版商和作家的反对。互联网档案馆后来恢复了借阅限制。2020 年 6 月，主要出版商 Hachette、HarperCollins、Penguin Random House 和 Wiley 提起了侵权诉讼。2023 年 3 月，地方法院裁定出版商胜诉。互联网档案馆提起上诉，现在上诉法院再次做出了不利于它的判决。",
-          "link": "https://www.solidot.org/story?sid=79171",
-          "publishedOn": "2024-09-05T08:39:03.000Z",
-          "wordCount": 182,
-          "title": "法庭裁决互联网档案馆的数字借阅不是合理使用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79170",
-          "author": null,
-          "description": "Snapchat 准备直接将广告放置在用户消息的上面。CEO Evan Spiegel 透露，来自品牌的 Sponsored Snaps 将会作为未读消息显示在主聊天页面上，其位置将是用户联络人消息的上方。这将是 Snap 首次在应用最常用的部分展示广告。Sponsored Snaps 无需推送通知就能显示。目前还不清楚在不打开 Sponsored Snap 的情况下删除它有多容易，或者是否可能。Spiegel 声称用户之间的聊天仍然是私密的，不会用于广告。",
-          "link": "https://www.solidot.org/story?sid=79170",
-          "publishedOn": "2024-09-05T06:47:42.000Z",
-          "wordCount": 176,
-          "title": "Snapchat 将在用户消息旁放置广告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79169",
-          "author": null,
-          "description": "澳大利亚辐射防护与核安全局领导的一项 WHO 委托进行的系统性评估显示，脑癌与手机使用之间没有关联。评估结果显示，脑癌与超过十年的手机长期使用无关，与手机的使用频次和时长无关。“证据并未显示，手机与脑癌或其他头部、颈部的癌症有关联。”公报说，无线技术设备对健康的影响是被研究得最多的健康课题之一。此次评估参考了 1994-2022 年间发表的 5000 多份研究成果，并采纳其中的 63 份。评估结果表明，尽管过去 20 年无线技术设备的使用大幅增加，但脑癌的发病率并没有上升。",
-          "link": "https://www.solidot.org/story?sid=79169",
-          "publishedOn": "2024-09-05T06:10:24.000Z",
-          "wordCount": 171,
-          "title": "WHO 委托的研究称脑癌与手机使用无关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79168",
-          "author": null,
-          "description": "在华硕 ROG Ally、联想 Legion Go、Valve Steam Deck 之后，宏碁推出了它的 AMD APU 掌机 Nitro Blaze 7。Nitro Blaze 7 配备了 7 英寸 1080p 可变刷新率 IPS 屏，最高 144Hz；APU 是 Ryzen 7 8840HS，Radeon 780M，内存 16GB 7500 MT/s，电池 50 Wh，SSD 高达 2TB。宏碁尚未披露上市日期以及价格。",
-          "link": "https://www.solidot.org/story?sid=79168",
-          "publishedOn": "2024-09-05T05:47:40.000Z",
-          "wordCount": 218,
-          "title": "宏碁推出了它的 AMD APU 掌机 Nitro Blaze 7",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79167",
-          "author": null,
-          "description": "韩国通信标准委员会称，被韩国男性用于传播女性的深度伪造色情视频的社交平台 Telegram 已与当局进行合作，删除了 25 段视频，并提供了电子邮件热线，方便递交删除请求。通信标准委员会表示，Telegram 还为其平台存在上述内容道歉。Telegram 处于韩国最近爆出的深度伪造淫秽视频丑闻的中心，韩国男性创建了大量分享淫秽影像的群聊频道，每个频道有数千人参与，多则有十万人以上。受害者包括大学生、教师、女兵等，甚至有中学生等未成年人。在社交网站流传的“受害学校”已超过百所。Telegram 在韩国有逾 347 万用户。",
-          "link": "https://www.solidot.org/story?sid=79167",
-          "publishedOn": "2024-09-05T05:19:56.000Z",
-          "wordCount": 170,
-          "title": "Telegram 与韩国合作删除部分深度伪造色情视频",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79166",
-          "author": null,
-          "description": "2023 年 Google Chrome 移除了对实验性的 JPEG-XL 图像格式的支持。JPEG-XL 是免专利的新兴图像格式。Google 此举引发了很多争议，因为 Chrome/Chromium 占据了九成市场份额，它是 Web 标准事实上的仲裁者。一年之后，事情有望发生戏剧性转变。Google Research 的 JPEG-XL 团队与 Mozilla 过去几个月展开了富有成效的对话，围绕的主题是用 Rust 语言为 Firefox 开发 JPEG-XL 解码器。Rust 是内存安全语言，而 JPEG-XL 的参考解码器包含了逾十万行多线程 C++ 代码，它可能会增加浏览器的攻击面。如果 Rust 版本的解码器在 Firefox 上的实验取得成功，也许 Google Chrome 会重新考虑对 JPEG-XL 的支持。如果 Rust 版本的解码器只供 Firefox 使用，将会是非常有讽刺意味的。",
-          "link": "https://www.solidot.org/story?sid=79166",
-          "publishedOn": "2024-09-04T16:32:02.000Z",
-          "wordCount": 230,
-          "title": "Google Research 考虑用 Rust 语言为 Firefox 开发 JPEG-XL 解码器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79165",
-          "author": null,
-          "description": "广泛使用的双因素验证硬件令牌 YubiKey 5 存在加密漏洞，攻击者短时间物理接触该设备后能对其进行克隆。该加密漏洞被称为侧信道，存在于其使用的一个微控制器中，而该微控制器被大量身份验证设备使用。研究人员确认 YubiKey 5 系列所有型号都能被克隆，不过没有测试其它使用该微控制器的设备。YubiKey 5 使用的微控制器是英飞凌（Infineon）制造的 SLE78，以及后续型号 Optiga Trust M 和 Optiga TPM。研究人员怀疑所有使用这三种微控制器的设备都存在相同的漏洞。5 月释出的 YubiKey 5 v5.7 新固件修复了该漏洞，它使用定制的加密库取代了英飞凌的加密库。但 YubiKey 5 本身是无法更新固件的，这意味着所有运行旧版本固件的 YubiKey 5 将会永久性存在该漏洞。",
-          "link": "https://www.solidot.org/story?sid=79165",
-          "publishedOn": "2024-09-04T15:48:17.000Z",
-          "wordCount": 190,
-          "title": "YubiKey 5 存在侧信道漏洞容易被克隆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79164",
-          "author": null,
-          "description": "根据哈佛大学陈曾熙公共卫生学院、加州圣巴巴拉（UCSB）和全球改善营养联盟（GAIN）研究人员的一项新研究，全球超过一半的人口摄入的多种对健康至关重要的微量营养素不足，包括钙、铁以及维生素C和E。微量营养素缺乏是全球最常见的营养不良形式之一，每一种营养素的缺乏都会导致特定的健康后果——从不良妊娠结局到失明，再到对传染病的易感性增加。研究人员使用了全球饮食数据库、世界银行和 31 个国家的饮食回忆调查数据，比较了 185 个国家的人口的营养需求和营养摄入量。他们将人口分为17个年龄组的男性和女性：从0岁到80岁，每5年一个组，以及一个80岁以上的组。他们评估了15种维生素和矿物质：钙、碘、铁、核黄素、叶酸、锌、镁、硒、硫胺素、烟酸以及维生素A、B6、B12、C和E。研究发现，几乎所有被评估的微量营养素的摄入量都严重不足——不包括作为额外营养来源的强化元素。碘（68%）、维生素E（67%）、钙（66%）和铁（65%）的摄入不足尤其普遍。超过一半的人摄入的核黄素、叶酸、维生素C和B6不足。烟酸的摄入量最接近充足（22%），其次是硫胺素（30%）和硒（37%）。",
-          "link": "https://www.solidot.org/story?sid=79164",
-          "publishedOn": "2024-09-04T14:53:02.000Z",
-          "wordCount": 161,
-          "title": "全球逾半数人口微量营养素摄入不足",
-          "imageUrl": null
         }
       ]
     },
@@ -1270,13 +1210,34 @@
       "title": "reuixiy",
       "feedUrl": "https://io-oi.me/rss.xml",
       "siteUrl": "https://io-oi.me/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://io-oi.me/life/becoming-a-writer/",
+          "author": "reuixiy@gmail.com (reuixiy)",
+          "description": "九月是開學季，今年九月的開始也標誌著我開始了步入大學後第 9 年的生活，2016 年以來的過去這 8 年間，我花費了 4 年在大學，3 年在工作，1 年在自我；這 8 年間，自己也作為親歷者成為了歷史的一部分，經歷見證了許多事件的發生、趨勢的變化、預言的破滅，以及自我的浮動。\n有許多的事情、許多的選擇，在當時看來是巨大的波動，現在回頭看卻也只不過是小小的波折罷，在時間軸的短短瞬間。同理，在更長久時間過後，這 8 年也只不過是白駒過隙罷。——我的人生才剛剛開始。既然如此，我想在我意識到這點時，是時候為今後的人生作出更成熟的選擇了。\n許久前，我就想過，當我是一箇白髮蒼蒼的老人時，我樂意成為一箇甚麼樣的角色呢？當我開始想這箇問題的時候，我當時的答案是哲學家；後來我逐漸開始溶入現實社會，我開始接觸到愛情，隨之而來各種各樣的問題堆積在眼前；我便去經歷去學習去理解，有嘗試探索也有許多疑惑。\n這段過程中，我之理解不斷變化，我所追求不斷變化，但不變的是我在不斷了解自身、認識自我。過去我常以閱歷不夠作為藉口，最近卻常有一箇想法不斷浮現——有太多的文字想要去輸入，有太多的想法渴望去發掘，有太多的言語需要去述說——是的，我迫不及待想要成為一名作家。\n「We went to the Moon to explore the Moon, and what we discovered was the Earth.」今天是地球 2024 年 9 月 14 日，我寫下這些並非否定一切，我寫下這些只為肯定一點：我決心成為作家。*",
+          "link": "https://io-oi.me/life/becoming-a-writer/",
+          "publishedOn": "2024-09-14T11:58:00.000Z",
+          "wordCount": 64,
+          "title": "成為作家",
+          "imageUrl": "https://io-oi.me/icons/apple-touch-icon.png"
+        }
+      ]
     },
     {
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/150k-clicks-from-google",
+          "author": null,
+          "description": "We've smashed through 150k SERP clicks at Online Tools! 💪\nSmash too and see you next time! 💦\nPS. Use coupon code SMASHLING for a 30% discount on all tools. 💸",
+          "link": "https://catonmat.net/150k-clicks-from-google",
+          "publishedOn": "2024-09-14T12:57:00.000Z",
+          "wordCount": 112,
+          "title": "150k Clicks from Google 🤩",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/15-new-icon-tools",
           "author": null,
@@ -1295,16 +1256,6 @@
           "publishedOn": "2024-09-07T07:29:00.000Z",
           "wordCount": 182,
           "title": "We've Added 10 New Icon Tools",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/happy-september-sale",
-          "author": null,
-          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated sales campaign called \"Happy month Sale\" where month is a variable.\nNow each new month, on the first day of the month, we show a 50% discount offer to all users who visit our site.\nThis month it's \"Happy September Sale\". Next month it will be \"Happy October Sale\", etc.\nRun a happy month sale too and see you next time!",
-          "link": "https://catonmat.net/happy-september-sale",
-          "publishedOn": "2024-09-05T09:39:00.000Z",
-          "wordCount": 158,
-          "title": "Happy September Sale",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
