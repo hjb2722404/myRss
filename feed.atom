@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-10-01T02:56:31.034Z</updated>
+    <updated>2024-10-02T02:46:29.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软开始推送 Windows 11 2024 更新]]></title>
+        <id>https://www.solidot.org/story?sid=79396</id>
+        <link href="https://www.solidot.org/story?sid=79396"/>
+        <updated>2024-10-01T15:59:53.000Z</updated>
+        <summary type="html"><![CDATA[微软宣布开始推送 Windows 11 2024 或 v24H2 更新。首先获得更新的将是运行 v22H2 或 23H2 版本的 Windows 11 PC。v24H2 的新功能包括：用节能功能替代旧的节电模式，支持 Wi-Fi 7 和 80Gbps USB4 Version 2.0 端口，受争议的 Recall 功能，改进 Windows Search，Photos 应用支持超分辨率，画图应用（Paint）加入生成填充和擦除功能，改进 Arm-to-x86 应用翻译层 Prism 的性能和兼容性，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 131.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=79395</id>
+        <link href="https://www.solidot.org/story?sid=79395"/>
+        <updated>2024-10-01T15:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 释出了 Firefox 131.0。主要变化包括：临时记住给网站的授权如地理位置，该授权将在一个小时后或标签页关闭之后撤销；鼠标悬浮在背景标签上时显示标签预览，方便用户寻找到需要的标签页；默认翻译语言建议将考虑之前翻译时选择的语言；重新引入在搜索栏为空时使用快捷键 Shift-Enter/Shift-Click 导航到搜索引擎主页的功能，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因审核分歧 Raymond Hill 宣布 Ublock Origin lite 停止支持 Firefox]]></title>
+        <id>https://www.solidot.org/story?sid=79394</id>
+        <link href="https://www.solidot.org/story?sid=79394"/>
+        <updated>2024-10-01T14:47:30.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 扩展商店 Firefox Add-ons Store 中的扩展需要接受人工审核。知名广告屏蔽扩展 Ublock Origin 系列的开发者 Raymond Hill 就 Ublock Origin lite（uBOL）与 Mozilla 审核团队之间发生了争执，他最终宣布 uBOL 停止支持 Firefox，Firefox 用户将需要从项目的 GitHub 页面直接下载该扩展。Ublock Origin 是基于 Manifest V2 的扩展，Google 正在淘汰 Manifest V2 强推限制更多的版本 Manifest V3，Raymond Hill 因此开发了基于 V3 的精简版本 uBOL。然而 Mozilla 的审核团队在审核 uBOL 时与开发者发生了冲突，认为该扩展存在混淆代码和收集私人数据。Raymond Hill 认为这种无意义的交流增加了他不想承担的负担，他宣布从扩展商店撤下扩展。原版的 Ublock Origin 仍然留在扩展商店。根据最后的邮件通信，Mozilla 审核团队为其错误道歉。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit 限制社区 Moderator 将 subreddit 设为私有]]></title>
+        <id>https://www.solidot.org/story?sid=79393</id>
+        <link href="https://www.solidot.org/story?sid=79393"/>
+        <updated>2024-10-01T13:59:43.000Z</updated>
+        <summary type="html"><![CDATA[去年 Reddit 大幅提高了 API 的价格，导致了众多第三方客户端被迫关闭。社区就 API 定价举行了大规模抗议，数以千计的 subreddit 从公开切换到私有或变成 NSFW。这一行动持续了数周，严重干扰了 Reddit 平台的可访问性。虽然这次抗议行动被认为效果甚微，但就像 Mastodon 成为不满 Twitter/X 政策的用户的去中心化替代，Lemmy 也逐渐成为日益受欢迎的 Reddit 替代。而现在 Reddit 管理层采取行动限制社区举行类似规模的抗议，它限制了社区 Moderator 修改 subreddit 可见性设置的能力，Moderator 将需要获得 Reddit 管理员批准才能将 subreddit 在公开、私有或 NSFW 状态之间切换。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这些值得一看的软件｜但不一定有用[24101]]]></title>
+        <id>https://www.appinn.com/?p=49659</id>
+        <link href="https://www.appinn.com/faxian-24101/"/>
+        <updated>2024-10-01T13:38:04.000Z</updated>
+        <summary type="html"><![CDATA[出门在外，就…不做详细的测试了。从发现频道列表挑了一些有用的软件，大家一起来看下，看看哪个值得一测。 开发者莫急，一下软件依旧会抽空详细测试一下的： 时光追踪器 – 随时提醒使]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯考虑屏蔽 Discord]]></title>
+        <id>https://www.solidot.org/story?sid=79392</id>
+        <link href="https://www.solidot.org/story?sid=79392"/>
+        <updated>2024-10-01T13:11:39.000Z</updated>
+        <summary type="html"><![CDATA[自 9 月 20 日以来，俄罗斯媒体监管机构 Roskomnadzor 发出了五项与 Discord 相关的裁决。俄罗斯日报《生意人报(Kommersant)》表示，对 Discord 的封锁禁令有可能在未来几天内下达。Discord 被游戏开发商和玩家广泛用于交流沟通，此前俄罗斯玩家已经报告最近一段时间 Discord 的访问频繁中断，问题影响 Web 版本和移动版本，玩家需要借助 VPN 才能正常访问 Discord。如果俄罗斯屏蔽 Discord，那么该国的游戏开发商和玩家将失去与世界其它地区用户的沟通渠道，Discord 在俄罗斯没有本地替代。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国关闭最后一座燃煤火电站]]></title>
+        <id>https://www.solidot.org/story?sid=79391</id>
+        <link href="https://www.solidot.org/story?sid=79391"/>
+        <updated>2024-09-30T16:21:56.000Z</updated>
+        <summary type="html"><![CDATA[英国周一关闭了最后一座燃煤火电站。这座燃煤火电站位于 Ratcliffe-on-Soar，其运营始于 1967 年，它于周一关闭。煤炭是燃烧时产生温室气体最多的化石燃料。英国是煤电的发源地，它现在成为第一个放弃煤电的主要经济体。到 2024 年上半年，英国可再生能源在总发电量中的比例已超过 50%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD 释出 BIOS 更新改进 Zen 5 CPU 性能和降低延迟]]></title>
+        <id>https://www.solidot.org/story?sid=79390</id>
+        <link href="https://www.solidot.org/story?sid=79390"/>
+        <updated>2024-09-30T15:51:55.000Z</updated>
+        <summary type="html"><![CDATA[AMD 正在释出新 BIOS 更新，以改进 Ryzen 9600X / 9700X CPU 的性能，同时改善延迟问题。Zen 5 CPU 释出之后被评测者广泛认为性能未达到预期。AMD 释出了 AGESA PI 1.2.0.2 固件，解决了部分极端用例——当信息在  Ryzen 9 9000 系列处理器的不同部分之间共享时，需要两个事务读取写入，新固件将需要的事务数量减少一半，减少了多 CCD 型号的内核到内核延迟。BIOS 更新还包括一个新的 105 瓦 cTDP 选项，将 Ryzen 9600X 和 9700X 的性能提升约 10%。AMD 表示这不会导致保修失效。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS Masonry & CSS Grid]]></title>
         <id>https://css-tricks.com/?p=381216</id>
@@ -1025,26 +1105,6 @@ The selectmenu Element is No More…Long Live select! originally published on CS
         <link href="https://www.solidot.org/story?sid=79309"/>
         <updated>2024-09-22T14:55:33.000Z</updated>
         <summary type="html"><![CDATA[过去几个世纪，蜿蜒曲折的河流一直被拉直。在英国，97% 的河流被堰等人工屏障分割，平均每 1.5 公里至少有一个人工屏障。但拉直河流扰乱了水的流动，破坏水生栖息地和水质，增加了洪水风险。野生动物保护信托和野生鸟类和湿地基金会（WWT）的专家 Tom Hayek 解释说，曲折的河流改变水速和水量，减少了向下游移动的水量。河流越曲折水速就越慢，但如果河流是直的那么水就会快速直流而下，增加洪涝风险。恢复河流的自然曲线有助于减少洪水的影响，但无法预防巨大的洪水。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有时候，过于纠结这个工具有什么用，是没有意义的]]></title>
-        <id>https://www.appinn.com/?p=49601</id>
-        <link href="https://www.appinn.com/qimiaosecai/"/>
-        <updated>2024-09-22T08:00:53.000Z</updated>
-        <summary type="html"><![CDATA[比如这个叫做奇妙色彩的工具，它能通过莫名其妙（随机）的点击 +，在屏幕上画出不同颜色不同形状的区域，然后就一直重复这样，最终帮你把「创作」下载回来，当壁纸。 开发者把软件发到了发现频道，我纠结了一下，]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 呼吁停止将 WHOIS 用于 TLS 域名验证]]></title>
-        <id>https://www.solidot.org/story?sid=79308</id>
-        <link href="https://www.solidot.org/story?sid=79308"/>
-        <updated>2024-09-21T16:26:06.000Z</updated>
-        <summary type="html"><![CDATA[CA 和浏览器开发商计划停止将 WHOIS 用于 TLS 域名验证。CA/Browser Forum 允许 CA 向 WHOIS 记录中列出的电子邮件发送邮件，当接收者点击链接后其申请的证书将会自动获得批准。安全公司 watchTowr 的研究人员演示了攻击者如何滥用该规则欺诈性的获取他们不拥有的域名证书。这一安全漏洞是因为缺乏统一规则判断声称提供官方 WHOIS 记录的网站的有效性。研究人员通过部署假的 WHOIS 服务器和假的 IP 记录实现了漏洞利用。Google 因此提议停止将 WHOIS 用于域名验证。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
