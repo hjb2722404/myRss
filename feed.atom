@@ -2,10 +2,112 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-10-10T02:47:18.313Z</updated>
+    <updated>2024-10-11T02:46:25.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nice! Safari也支持CSS @perporty规则了]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=11377</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/10/css-at-perporty-rule/"/>
+        <updated>2024-10-10T15:10:38.000Z</updated>
+        <summary type="html"><![CDATA[CSS @perporty规则最具代表性的作用是扩大了CSS动画和CSS过渡效果的应用范围，还是挺实用的一个Houdini特性。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WPGraphQL Becomes a Canonical Plugin: My Move to Automattic]]></title>
+        <id>https://css-tricks.com/?p=381752</id>
+        <link href="https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/"/>
+        <updated>2024-10-10T14:00:32.000Z</updated>
+        <summary type="html"><![CDATA[It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.
+I’m …
+WPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为微软电子教鞭 ZoomIt v8.0.1 添加快捷键小抄｜新功能 DemoType：自动输入演示文本]]></title>
+        <id>https://www.appinn.com/?p=49710</id>
+        <link href="https://www.appinn.com/zoomit-v8-demotype/"/>
+        <updated>2024-10-10T12:45:11.000Z</updated>
+        <summary type="html"><![CDATA[ZoomIt 是一款著名的电子教鞭工具，来自微软 Sysinternals 小工具集。其功能非常丰富以至于总记不住怎么用。@crozt 同学为 ZoomIt 开发了一个画图小抄辅助工具 ZoomIt+]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBSD 7.6 释出]]></title>
+        <id>https://www.solidot.org/story?sid=79450</id>
+        <link href="https://www.solidot.org/story?sid=79450"/>
+        <updated>2024-10-10T09:49:43.000Z</updated>
+        <summary type="html"><![CDATA[OpenBSD 项目释出了 7.6 版本。主要变化包括：初步支持高通 Snapdragon X1 Elite（X1E80100）SoC，ARM64 合并了 Spectre-V4 补丁，实现了对 AMD64 的 AVX-512 指令集的支持，英特尔 Register File Data Sampling (RFDS)漏洞补丁，开始支持 S0 睡眠状态，SMP 内核改进，支持英特尔 Meteor Lake Arc Graphics，驱动、以及软件包等相关的更新和改进。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds 建议内核开发者用主动语态写合并请求]]></title>
+        <id>https://www.solidot.org/story?sid=79449</id>
+        <link href="https://www.solidot.org/story?sid=79449"/>
+        <updated>2024-10-10T08:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Linux 作者 Linus Torvalds 罕见的谈论了内核开发者们的书写风格。他说自己在阅读维护者们递交的合并请求（Pull Request）时会随手处理下空格或缩进问题，但语态问题没办法随手处理，会需要额外的工作。部分内核开发者在合并请求中使用了被动语态，Linus Torvalds 建议他们使用主动语态，最好还是命令式的。他举例说，维护者应避免写类似的被动语态“In this pull request, the Xyzzy driver error handling was fixed to avoid a NULL pointer dereference.”他建议写成主动语态“This fixes a NULL pointer dereference in...”或者“Fix NULL pointer dereference in ...”他认为主动语态更简单明了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom 将让 AI 化身代替你出席虚拟会议]]></title>
+        <id>https://www.solidot.org/story?sid=79448</id>
+        <link href="https://www.solidot.org/story?sid=79448"/>
+        <updated>2024-10-10T07:38:27.000Z</updated>
+        <summary type="html"><![CDATA[视频会议服务提供商 Zoom 准备让你的 AI 化身代替你出席虚拟会议。作为扩大 AI 计划的一部分，Zoom 宣布将很快允许用户创建自己的 AI 化身，用虚拟化身向团队成员发送简短消息。为了创建数字化身，用户首先需要录制视频，AI 将利用视频制作一个从外表和声音都像用户的化身。用户可以写下想要让 AI 化身说的消息，让其代替用户完成所有对话。该功能仅适用于 Zoom 的 Clips 功能，允许用户为同事录制简短视频更新。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新晋诺奖得主称赞其学生解雇了 Sam Altman]]></title>
+        <id>https://www.solidot.org/story?sid=79447</id>
+        <link href="https://www.solidot.org/story?sid=79447"/>
+        <updated>2024-10-10T06:18:08.000Z</updated>
+        <summary type="html"><![CDATA[加拿大多伦多大学的 Geoffrey E. Hinton 教授因在 AI 神经网络上的基础性工作而获得了 2024 年度的诺贝尔物理学家，在 AI 上的工作也让他赢得了 AI 教父的美名。他在周二的演讲中特别称赞了一名学生——前 OpenAI 首席科学家 Ilya Sutskever——参与解雇了 CEO Sam Altman 的行动。Hinton 教授说，我特别幸运，有许多非常聪明的学生——比我更聪明——他们完成了真正的工作。他们之后都取得了杰出的成就。我尤其为其中一名学生解雇 Sam Altman 而自豪。Ilya Sutskever 所在的 OpenAI 董事会去年底做出了解雇这家炙手可热 AI 创业公司 CEO 的决定，但这次行动最终未取得成功，Sam Altman 恢复了 CEO 职位，包括 Sutskever 在内的主要参与者在一年之内都离开了 OpenAI。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类造成的物种灭绝影响超过预期]]></title>
+        <id>https://www.solidot.org/story?sid=79446</id>
+        <link href="https://www.solidot.org/story?sid=79446"/>
+        <updated>2024-10-10T03:58:02.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《科学》上的一项新研究，过去 13 万年里人类造成了数百种鸟类的灭绝，导致了鸟类功能多样性的大幅减少——鸟类在环境中承担的不同角色和功能范围的衡量标准——并导致了大约 30 亿年独特进化史的丧失。有证据表明，自晚更新世以来，至少有 600 种鸟类因人类而灭绝，当时现代人类开始在世界各地传播。研究发现，迄今为止，人类造成的鸟类灭绝规模已经导致大约 30 亿年独特的进化史丧失，以及全球鸟类功能多样性的 7%——这比基于灭绝数量的预期要大得多。鉴于鸟类发挥着广泛的重要生态作用，鸟类功能多样性的丧失可能会产生深远的影响。这些灭绝后的余震包括授粉减少、种子传播减少、对昆虫种群(包括许多害虫和病媒)自上而下控制的崩溃，以及由于减少对腐肉的消费而增加的疾病暴发。此外，研究中记录的全球鸟类的减少可能会影响许多植物物种追踪当前和未来气候变化的能力。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互联网档案馆用户数据泄露]]></title>
+        <id>https://www.solidot.org/story?sid=79445</id>
+        <link href="https://www.solidot.org/story?sid=79445"/>
+        <updated>2024-10-10T03:41:14.000Z</updated>
+        <summary type="html"><![CDATA[互联网档案馆 archive.org 遭遇了用户数据泄露。一名黑客入侵了网站，窃取了包含 3100 万条唯一记录的用户身份验证数据库。黑客还创建了一则 JavaScript 警告，在用户访问 archive.org 时警告网站遭到入侵用户数据泄露。Have I Been Pwned 数据泄露通知服务的作者 Troy Hunt 表示，黑客在 9 天前与他分享了互联网档案馆的用户身份验证数据库，名为 ia_users.sql 的 SQL 数据库大小为 6.4GB，包含了注册用户的电邮地址、网名、密码更改时间戳、Bcrypt 哈希密码等数据。数据库含有 3100 万个唯一电邮地址。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress.org 登陆页面加入 WP Engine 非隶属关系声明]]></title>
+        <id>https://www.solidot.org/story?sid=79444</id>
+        <link href="https://www.solidot.org/story?sid=79444"/>
+        <updated>2024-10-09T15:12:55.000Z</updated>
+        <summary type="html"><![CDATA[WordPress 开源项目联合创始人 Matt Mullenweg 在声称属于其个人的网站 WordPress.org 的登陆页面专门加入了一个选项“I am not affiliated with WP Engine in any way, financially or otherwise”，要求用户声明与 WP Engine 没有任何关系。Matt Mullenweg 旗下的 WordPress.com 与 WP Engine 存在竞争关系，最近几周他与 WP Engine 的关系因其搭便车或其它原因而愈发紧张，双方都向对方提起了诉讼。而在 WordPress 的 Slack 频道，那些频繁就此问题质疑他的人则被他封禁了。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国 13 个州和哥伦比亚特区起诉 TikTok]]></title>
         <id>https://www.solidot.org/story?sid=79443</id>
@@ -672,56 +774,6 @@ CSS Anchor Positioning Guide originally published on CSS-Tricks, which is part o
         <link href="https://www.solidot.org/story?sid=79394"/>
         <updated>2024-10-01T14:47:30.000Z</updated>
         <summary type="html"><![CDATA[Mozilla 扩展商店 Firefox Add-ons Store 中的扩展需要接受人工审核。知名广告屏蔽扩展 Ublock Origin 系列的开发者 Raymond Hill 就 Ublock Origin lite（uBOL）与 Mozilla 审核团队之间发生了争执，他最终宣布 uBOL 停止支持 Firefox，Firefox 用户将需要从项目的 GitHub 页面直接下载该扩展。Ublock Origin 是基于 Manifest V2 的扩展，Google 正在淘汰 Manifest V2 强推限制更多的版本 Manifest V3，Raymond Hill 因此开发了基于 V3 的精简版本 uBOL。然而 Mozilla 的审核团队在审核 uBOL 时与开发者发生了冲突，认为该扩展存在混淆代码和收集私人数据。Raymond Hill 认为这种无意义的交流增加了他不想承担的负担，他宣布从扩展商店撤下扩展。原版的 Ublock Origin 仍然留在扩展商店。根据最后的邮件通信，Mozilla 审核团队为其错误道歉。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit 限制社区 Moderator 将 subreddit 设为私有]]></title>
-        <id>https://www.solidot.org/story?sid=79393</id>
-        <link href="https://www.solidot.org/story?sid=79393"/>
-        <updated>2024-10-01T13:59:43.000Z</updated>
-        <summary type="html"><![CDATA[去年 Reddit 大幅提高了 API 的价格，导致了众多第三方客户端被迫关闭。社区就 API 定价举行了大规模抗议，数以千计的 subreddit 从公开切换到私有或变成 NSFW。这一行动持续了数周，严重干扰了 Reddit 平台的可访问性。虽然这次抗议行动被认为效果甚微，但就像 Mastodon 成为不满 Twitter/X 政策的用户的去中心化替代，Lemmy 也逐渐成为日益受欢迎的 Reddit 替代。而现在 Reddit 管理层采取行动限制社区举行类似规模的抗议，它限制了社区 Moderator 修改 subreddit 可见性设置的能力，Moderator 将需要获得 Reddit 管理员批准才能将 subreddit 在公开、私有或 NSFW 状态之间切换。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这些值得一看的软件｜但不一定有用[24101]]]></title>
-        <id>https://www.appinn.com/?p=49659</id>
-        <link href="https://www.appinn.com/faxian-24101/"/>
-        <updated>2024-10-01T13:38:04.000Z</updated>
-        <summary type="html"><![CDATA[出门在外，就…不做详细的测试了。从发现频道列表挑了一些有用的软件，大家一起来看下，看看哪个值得一测。 开发者莫急，一下软件依旧会抽空详细测试一下的： 时光追踪器 – 随时提醒使]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯考虑屏蔽 Discord]]></title>
-        <id>https://www.solidot.org/story?sid=79392</id>
-        <link href="https://www.solidot.org/story?sid=79392"/>
-        <updated>2024-10-01T13:11:39.000Z</updated>
-        <summary type="html"><![CDATA[自 9 月 20 日以来，俄罗斯媒体监管机构 Roskomnadzor 发出了五项与 Discord 相关的裁决。俄罗斯日报《生意人报(Kommersant)》表示，对 Discord 的封锁禁令有可能在未来几天内下达。Discord 被游戏开发商和玩家广泛用于交流沟通，此前俄罗斯玩家已经报告最近一段时间 Discord 的访问频繁中断，问题影响 Web 版本和移动版本，玩家需要借助 VPN 才能正常访问 Discord。如果俄罗斯屏蔽 Discord，那么该国的游戏开发商和玩家将失去与世界其它地区用户的沟通渠道，Discord 在俄罗斯没有本地替代。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国关闭最后一座燃煤火电站]]></title>
-        <id>https://www.solidot.org/story?sid=79391</id>
-        <link href="https://www.solidot.org/story?sid=79391"/>
-        <updated>2024-09-30T16:21:56.000Z</updated>
-        <summary type="html"><![CDATA[英国周一关闭了最后一座燃煤火电站。这座燃煤火电站位于 Ratcliffe-on-Soar，其运营始于 1967 年，它于周一关闭。煤炭是燃烧时产生温室气体最多的化石燃料。英国是煤电的发源地，它现在成为第一个放弃煤电的主要经济体。到 2024 年上半年，英国可再生能源在总发电量中的比例已超过 50%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 释出 BIOS 更新改进 Zen 5 CPU 性能和降低延迟]]></title>
-        <id>https://www.solidot.org/story?sid=79390</id>
-        <link href="https://www.solidot.org/story?sid=79390"/>
-        <updated>2024-09-30T15:51:55.000Z</updated>
-        <summary type="html"><![CDATA[AMD 正在释出新 BIOS 更新，以改进 Ryzen 9600X / 9700X CPU 的性能，同时改善延迟问题。Zen 5 CPU 释出之后被评测者广泛认为性能未达到预期。AMD 释出了 AGESA PI 1.2.0.2 固件，解决了部分极端用例——当信息在  Ryzen 9 9000 系列处理器的不同部分之间共享时，需要两个事务读取写入，新固件将需要的事务数量减少一半，减少了多 CCD 型号的内核到内核延迟。BIOS 更新还包括一个新的 105 瓦 cTDP 选项，将 Ryzen 9600X 和 9700X 的性能提升约 10%。AMD 表示这不会导致保修失效。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
