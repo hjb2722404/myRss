@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49698",
+          "author": "青小蛙",
+          "description": "Just (Video) Player 是一款 Android 开源视频播放器，基于 Android 官方团队开发和维护的 AndroidX Media 项目里的 ExoPlayer 库。在兼容/支持",
+          "link": "https://www.appinn.com/just-video-player/",
+          "publishedOn": "2024-10-14T07:57:08.000Z",
+          "wordCount": 2782,
+          "title": "Just (Video) Player – 安卓开源视频播放器",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-14T154415.982.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49738",
           "author": "青小蛙",
           "description": "FTP 是一个非常古老的互联网标准通信协议，全称 File Transfer Protocol（文件传输协议），几乎没有客户端不支持。虽然它很古老，也可能快被淘汰了。但由于其最广泛的支持，有时候用用也",
@@ -90,16 +100,6 @@
           "wordCount": 2725,
           "title": "自动隐私模式 – 打开指定网页时，自动进入无痕模式，并且删除历史记录[Edge]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-07T210417.965.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49679",
-          "author": "青小蛙",
-          "description": "Infinite Mac 是一个能够在线体验从 Mac OS 1.0 到 9.0，以及 NeXTSTEP 系统的网站，并且还可以上传自己的镜像在 Mac、Power、NeXT 设备硬件中运行。以及还有",
-          "link": "https://www.appinn.com/infinite-mac/",
-          "publishedOn": "2024-10-05T08:48:12.000Z",
-          "wordCount": 2821,
-          "title": "Infinite Mac – 从1984 到 2001，在线体验 63 个版本的 Mac 苹果系统",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-05T160948.298.jpg"
         }
       ]
     },
@@ -209,6 +209,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79489",
+          "author": null,
+          "description": "NASA 于 10 月 14 日 12:06 p.m. EDT (1606 UTC)在佛罗里达肯尼迪太空中心使用 SpaceX 的 Falcon Heavy 火箭成功发射了欧罗巴快船（Europa Clipper），它将花费六年时间飞往木星卫星欧罗巴，调查其宜居性，为未来的登陆器挑选登陆地点。欧罗巴快船是 NASA 至今为行星任务建造的最大探测器。欧罗巴由伽利略于 1610 年发现，在已知的 95 颗木星卫星中，它的直径和质量第四大，它比月球小，主要由硅酸盐岩石构成，并具有水-冰地壳，可能是一个铁-镍核心。它有稀薄的大气层，主要由氧气组成；表面有大量裂缝和条纹，而陨石坑比较罕见，有在太阳系任何已知的固体物体的最光滑表面。已有证据表明其冰层下面存在一个地下海洋。欧罗巴被认为是太阳系中除地球之外最适宜生命生存的地方。探测器将于 2025 年 2 月利用火星和 2026 年 12 月利用地球的引力辅助，于 2030 年 4 月抵达目的地。",
+          "link": "https://www.solidot.org/story?sid=79489",
+          "publishedOn": "2024-10-14T16:26:10.000Z",
+          "wordCount": 196,
+          "title": "NASA 发射欧罗巴快船探索木星卫星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79488",
+          "author": null,
+          "description": "Meta 高级研究员、纽约大学教授 Yann LeCun 认为有关 AI 威胁人类的担忧都是一派胡言。他喜欢用猫打比方，猫科动物拥有物理世界的心理模型、持久记忆、有限的推理能力和规划能力。而这一切最先进的大模型并不拥有。Yann LeCun 于 2018 年因在深度学习上的贡献而与 Yoshua Bengio 和 Geoffrey Hinton 一起获得图灵奖，其中 Geoffrey Hinton 还在今年获得了诺贝尔奖。LeCun 认为 AI 是一种强大的工具，但今天的 AI 在任何意义上都称不上智能。然而科技行业的许多人，尤其是 AI 创业公司，正在以荒诞的方式轻信预测其近期的进展。他认为创造通用 AI 可能需要几十年的时间，而今天的主流方法无法让我们实现这一目标。大模型只是在预测文本的下一个单词，受益于其巨大的记忆容量，它们似乎在进行推理，但实际只是机械重复已经训练的信息。",
+          "link": "https://www.solidot.org/story?sid=79488",
+          "publishedOn": "2024-10-14T15:05:07.000Z",
+          "wordCount": 188,
+          "title": "Meta 研究员认为大模型比猫还蠢",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79487",
+          "author": null,
+          "description": "大模型容易遭到攻击，容易泄露敏感数据。加拿大安全公司 Pillar Security 发表了《State of Attacks on GenAI》报告，基于遥测数据和逾 2000  AI 应用的真实攻击示例，揭示了大模型攻击和越狱的新见解。研究人员发现，对大模型的攻击平均只需要 42 秒，越狱成功率 20%。逾 2000  AI 应用中最常见的是提供虚拟客户支持的聊天机器人，占到了总数的 57.6%。常见的越狱方法包括使用指令 ignore previous instructions 和 ADMIN override，或者只使用 base64 编码。研究人员报告，最短的攻击只需要 4 秒，最长的需要 14 分钟。",
+          "link": "https://www.solidot.org/story?sid=79487",
+          "publishedOn": "2024-10-14T13:56:23.000Z",
+          "wordCount": 186,
+          "title": "大模型容易遭到越狱攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79486",
+          "author": null,
+          "description": "SpaceX 在得克萨斯州东南部的 Starbase 基地成功进行了星舰（Starship）系统的第五次试飞，创造了太空探索的新里程碑。在这次试飞中，SpaceX 不仅成功发射了星舰火箭，还首次在助推器返回过程中，利用被昵称为“筷子”的机械臂，在发射台上抓回了高达 71 米的“超级重型”助推器。这一壮举标志着 SpaceX 在火箭完全可重复使用方面取得了重大突破。星舰的设计目标是将人和货物送至地球轨道、月球乃至火星。",
+          "link": "https://www.solidot.org/story?sid=79486",
+          "publishedOn": "2024-10-14T10:23:46.000Z",
+          "wordCount": 178,
+          "title": "SpaceX 首次以抓取的方式回收 Starship 助推器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79485",
+          "author": null,
+          "description": "上海大学的研究人员在《计算机学报》上发表论文《基于 D-Wave Advantage 的量子退火公钥密码攻击算法研究》，称加拿大 D-Wave 公司的量子退火机器能被用于攻击公钥加密。研究人员调查了两类基于量子退火的 RSA 公钥密码攻击算法，一是将密码攻击数学方法转为组合优化问题或指数级空间搜索问题，二是基于量子退火算法融合密码攻击数学方法优化密码部件的攻击。结果显示，量子退火大幅度超过其它各类量子计算，退火机能分解的数字比通用机大几十个量级。与一些量子算法比，量子退火有相当高的稳定性。研究人员首次在 D-Wave Advantage 上实现了 50 比特 RSA 整数分解.",
+          "link": "https://www.solidot.org/story?sid=79485",
+          "publishedOn": "2024-10-14T10:07:57.000Z",
+          "wordCount": 172,
+          "title": "中国研究员称找到方法利用量子退火破解公钥加密",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79484",
+          "author": null,
+          "description": "NASA 证实正与国际合作伙伴以及标准组织制定月球时间标准协调月球时（Coordinated Lunar Time 或 LTC)。月球时间标准将会考虑相对论，可扩展到其它天体，支持长期太空任务如 Artemis 以及商业性太空活动。月球时间将由月球原子钟加权平均决定，类似地球上的协调世界时(UTC)计算方式。原子钟在月球的位置还没有决定，现有的分析显示原子钟在月球表面每天滴答的速度快数微秒。NASA 及其合作伙伴正研究哪一种数学模型最适合建立月球时间。",
+          "link": "https://www.solidot.org/story?sid=79484",
+          "publishedOn": "2024-10-14T09:38:25.000Z",
+          "wordCount": 172,
+          "title": "NASA 证实计划制定月球时间标准",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79483",
+          "author": null,
+          "description": "在降低患 200 多种疾病的风险方面，做一个“周末战士”和每周定期锻炼一样有效。研究结果发表在《Circulation》杂志上。美国疾病控制与预防中心的指南建议，为了整体健康，每周至少进行 150 分钟的中等到高强度体育活动。在符合这些建议的人群中，一周中大部分时间锻炼 20-30 分钟的人所获得的益处与那些间隔 5-6 天进行较长时间锻炼的人相同。研究小组分析了 89,573 人的信息，这些人戴着手腕加速度计，记录了一周内的总体力活动和不同运动强度的时间。参与者的身体活动模式被分类为周末战士、常规或不活跃。分析显示，与不运动相比，周末运动和有规律的体育活动模式都能显著降低罹患 264 种疾病的风险。与心脏代谢疾病的相关性最强，如高血压和糖尿病。",
+          "link": "https://www.solidot.org/story?sid=79483",
+          "publishedOn": "2024-10-14T07:59:43.000Z",
+          "wordCount": 169,
+          "title": "周末锻炼与定期锻炼在降低疾病风险上的效果相同",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79482",
+          "author": null,
+          "description": "《Communications Psychology》期刊上的一项研究发现，美国反民主倾向在不同政治光谱中分布并不均匀。保守派比自由派表现出更强烈的反民主倾向，此差异可部分用右翼威权主义和社会支配倾向等心理特质进行解释。右翼威权主义是权威主义服从、权威主义攻击和因袭主义三种态度的组合；社会支配倾向则是衡量个人对社会等级制度和不平等的认可程度。研究利用了芝加哥大学 National Opinion Research Center(NORC)进行的《2022 Health of Democracy Survey》民主调查，1557 名成年受访者根据年龄、种族等人口因素挑选出来，确保代表广泛的美国人口。研究结果显示，保守派和自由派在支持民主原则方面差异显著。保守派对政治平等和法律权利与保障的支持度较低。保守派不太可能同意“人人都应允许投票”和“法律面前人人平等，不管财富或权力”等陈述。保守派更可能支持违背民主规范的行为，更愿意为政治暴力辩护。他们更可能同意“真正的美国生活方式在迅速消失，可能不得不使用武力去拯救它”和“我支持使用暴力确保我党的候选人赢得 2024 年大选”等陈述。",
+          "link": "https://www.solidot.org/story?sid=79482",
+          "publishedOn": "2024-10-14T07:25:20.000Z",
+          "wordCount": 168,
+          "title": "保守派更可能反民主和支持独裁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79481",
+          "author": null,
+          "description": "日本科技公司卡西欧证实本月初遭到勒索软件攻击，员工、求职者、合作伙伴和部分客户的数据被盗，客户支付相关的信息未受影响，但随着调查的进一步深入，受影响的范围可能会扩大。勒索软件组织 Underground 此前宣布对此次攻击负责。卡西欧公布了被认为已经被盗的信息：公司及其子公司正式员工、临时个和合同工的个人数据；业务合作伙伴的个人细节；参加面试的求职者个人数据；客户的个人信息；业务合同信息；财务数据；法务、财务、人力、审计、销售等相关的文件。",
+          "link": "https://www.solidot.org/story?sid=79481",
+          "publishedOn": "2024-10-14T05:27:11.000Z",
+          "wordCount": 158,
+          "title": "日本卡西欧公司证实客户数据被盗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79480",
+          "author": null,
+          "description": "图库 Imgur 宣布不再将成人幽默模因（meme）归类为成人内容，只有真正的色情内容才会打上成人内容的标签。Imgur 是在收集了内容审核方面的反馈之后做出了这一决定，它的成人内容政策此前被认为在应用上不一致、过于主观，整体上混乱，以后成人标签内容将由只包含真正的色情内容。调整之后它大幅减少了内容警告，也大幅减少了成人内容标签。成人内容默认不向用户展示，用户需要主动选择加入。",
+          "link": "https://www.solidot.org/story?sid=79480",
+          "publishedOn": "2024-10-14T05:09:24.000Z",
+          "wordCount": 163,
+          "title": "Imgur 不再将成人幽默归类为成人内容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79479",
+          "author": null,
+          "description": "尽管围绕 AI PC 有很多炒作，但 PC 市场没有出现多少反弹迹象。Gartner 的数据显示，三季度 PC 出货量同比下降 1.3% 至 6290 万台，而今年二季度的出货量为 6490 万台。AI PC 本应该激发消费者的购买热情，刺激略微低迷的 PC 市场，但买家并没有看到 AI PC 显而易见的好处或商业价值。目前 AI PC 在很大程度上还只是一个营销概念，供应商尚未对其具体定义达成一致。虽然三季度推出了运行 Windows 的 Arm 和 x86 AI PC，但购买 Arm 的 AI PC 买家发现，部分程序的运行性能表现不佳。如果 Windows 应用没有原生支持 Arm 的版本，那么程序需要通过兼容层才能正常工作，这需要额外的开销。",
+          "link": "https://www.solidot.org/story?sid=79479",
+          "publishedOn": "2024-10-13T16:00:46.000Z",
+          "wordCount": 212,
+          "title": "AI PC 未提振 PC 需求",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79478",
+          "author": null,
+          "description": "日本宝可梦游戏开发商 Game Freak 证实该公司今年 8 月服务器被黑客入侵，2606 名现任、前任和合同工姓名及电邮地址被访问。在这之前，黑客据报道泄露了宝可梦游戏源代码，以及代号 Ounce 的任天堂下一代主机，代号 Gaia 的未宣布宝可梦新作，代号 Ikkaku 的 Pokemon Legends: Z-A。据社交媒体上的消息，黑客窃取了大约 1TB 的数据，其中包括 Pokemon Platinum、Pokemon HeartGold 和 SoulSilver 的源代码，以及 Pokemon Black and White 2、Pokemon X and Y 的 Beta 版本。",
+          "link": "https://www.solidot.org/story?sid=79478",
+          "publishedOn": "2024-10-13T15:33:40.000Z",
+          "wordCount": 191,
+          "title": "宝可梦游戏源代码泄露",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79477",
+          "author": null,
+          "description": "WordPress 联合创始人兼 Automattic CEO Matt Mullenweg 宣布以“remove commercial upsells and fix a security problem”为由接管了竞争对手 WP Engine 的流行插件 Advanced Custom Fields (ACF)，创建分支将其重命名为 Secure Custom Fields。该插件的安装量超过 200 万次。Mullenweg 没有解释所谓的安全问题，他表示此举与 WP Engine 对他及其 Automattic 提起诉讼有关。",
+          "link": "https://www.solidot.org/story?sid=79477",
+          "publishedOn": "2024-10-13T15:19:38.000Z",
+          "wordCount": 216,
+          "title": "Matt Mullenweg 接手了 WP Engine 的一个流行 WP 插件",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79476",
           "author": null,
@@ -898,36 +1028,6 @@
           "wordCount": 208,
           "title": "Matt Mullenweg 称 WordPress.org 属于他个人",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79407",
-          "author": null,
-          "description": "三星在 10 月 2 日释出了软件更新，结果导致部分旧型号 Galaxy 手机变砖。三星证实是管理智能设备的 SmartThings Framework 应用更新导致了该问题，在发现问题之后它立即暂停了更新，正致力于解决该问题。受影响的型号包括了 Galaxy S10 系列、Galaxy Note 10 系列、Galaxy M51 和 Galaxy A90。这些型号的手机在更新之后无法重启回滚更新。用户们将面临选择：放弃手机或抹掉所有数据恢复出厂设置。",
-          "link": "https://www.solidot.org/story?sid=79407",
-          "publishedOn": "2024-10-04T16:28:27.000Z",
-          "wordCount": 175,
-          "title": "三星最新软件更新导致部分旧型号手机变砖",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79406",
-          "author": null,
-          "description": "法国游戏开发商育碧最近陷入了困境，前不久上市的大作《星球大战：亡命之徒》销量不佳，《刺客信条》系列的最新作推迟到明年二月上市。彭博社援引知情人士的消息报道，控制育碧的 Guillemot 家族以及大股东腾讯正在探索收购公司将其私有化。这些讨论还处于早期阶段，不一定实施。育碧今年的股价下跌了 54%，目前市值为 14 亿欧元。Guillemot 家族控制了育碧愈五分之一的投票权，而腾讯持有 9.2% 股权。",
-          "link": "https://www.solidot.org/story?sid=79406",
-          "publishedOn": "2024-10-04T16:01:58.000Z",
-          "wordCount": 172,
-          "title": "腾讯和 Guillemot 家族有意私有化育碧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79405",
-          "author": null,
-          "description": "WordPress 是最流行的开源 CMS 内容管理系统，有多家公司提供了基于 WordPress 的托管服务，其中包括了 WordPress 联合创始人 Matt Mullenweg 创办的 Automattic 公司提供的 WordPress.com，以及 WP Engine。大约两周前 Mullenweg 公开抨击了竞争对手 WP Engine，称其是 WordPress 的肿瘤，指控该公司不当使用了 WordPress 和 WooCommerce 商标，禁止该公司访问 WordPress.org 开源资源。WP Engine 和 Automattic 先后向对方发出了停止终止函。本周四 WP Engine 对 Automattic 和 Mullenweg 提起诉讼，指控其滥权和勒索，以及 Mullenweg 作为联合创始人在处理 WordPress 开源项目时存在利益冲突。Mullenweg 周四披露，他向不同意其管理 WordPress 以及处理与 WP Engine 纠纷方式的雇员提供了遣散费。遣散费为 3 万美元或 6 个月薪水，取两者中较高的一个，接受遣散费的雇员将不会再被公司雇佣。他披露有 159 名雇员选择了辞职，占到了雇员总数的 8%。",
-          "link": "https://www.solidot.org/story?sid=79405",
-          "publishedOn": "2024-10-04T15:41:02.000Z",
-          "wordCount": 235,
-          "title": "Automattic 与 WP Engine 之间的诉讼愈演愈烈 159 名雇员辞职",
-          "imageUrl": null
         }
       ]
     },
@@ -1009,13 +1109,13 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
-          "id": "https://catonmat.net/15-new-icon-tools",
+          "id": "https://catonmat.net/columbus-day-sale",
           "author": null,
-          "description": "Team Browserling keeps shipping!\nLast week we added 15 new PNG tools and today we just added 15 new tools to our Icon Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new logo tools:\nCreate Icon from Text\nAdd Text to Icon\nConvert Icon to Single Color\nCenter Icon\nAdd Outline to Icon\nSeparate Icon Colors\nAdd Space Around Icon\nRemove Space Around Icon\nAdd Shadow to Icon\nPick Icon Color\nCreate Square Icon\nCreate Round Icon\nConvert PNG Icon to JPG Icon\nConvert JPG Icon to PNG Icon\nConvert PNG Icon to WebP Icon\nConvert WebP Icon to PNG Icon\nNext week we'll add even more tools. See you then!\nPS. Use coupon code ICONLING for a 30% discount on these tools.",
-          "link": "https://catonmat.net/15-new-icon-tools",
-          "publishedOn": "2024-10-05T14:46:00.000Z",
-          "wordCount": 219,
-          "title": "We've Added 15 New Icon Tools",
+          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated Columbus Day sales campaign.\nNow each year, on the Columbus day, we show a 50% discount offer to all users who visit our site.\nThis year it runs on October 9th, next year on October 14th, etc.\nRun automated sales too and see you next time!",
+          "link": "https://catonmat.net/columbus-day-sale",
+          "publishedOn": "2024-10-14T13:08:00.000Z",
+          "wordCount": 137,
+          "title": "Columbus Day Sale",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
