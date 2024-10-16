@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-10-15T02:49:32.976Z</updated>
+    <updated>2024-10-16T02:50:32.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[硅谷高管 Bob Lee 遇刺案本周开始审讯]]></title>
+        <id>https://www.solidot.org/story?sid=79500</id>
+        <link href="https://www.solidot.org/story?sid=79500"/>
+        <updated>2024-10-15T16:12:58.000Z</updated>
+        <summary type="html"><![CDATA[MobileCoin 首席产品官、Square 前 CTO、Cash App 创始人 Bob Lee 于 2023 年 4 月 4 日凌晨在旧金山遇刺身亡。在 Java 社区他有 Crazy Bob 之称，他的死亡在科技行业引发了广泛关注。本周一此案开始进行审理。凶手 Nima Momeni 是他认识的人，Bob 与其已婚妹妹 Khazar 是朋友，检方称遇刺当晚两人都在 Khazar 的公寓中，Momeni 与妹妹发生了争执，从妹妹公寓中拿了把刀，然后驾车将 Lee 带到僻静的地方捅了三刀后逃离。辩方律师则声称吸毒后神志恍惚的 Lee 拿刀袭击了 Momeni，Momeni 是自卫。Momeni 目前拒绝认罪，如果罪名成立，将面临 26 年到终身监禁。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将 Android 手机变成监听工具]]></title>
+        <id>https://www.solidot.org/story?sid=79499</id>
+        <link href="https://www.solidot.org/story?sid=79499"/>
+        <updated>2024-10-15T15:48:56.000Z</updated>
+        <summary type="html"><![CDATA[之前的实验表明，智能手机中的陀螺仪和加速计等惯性测量单元（IMU），可以通过检测声波振动监听对话。这意味着，即使是一个没有开启麦克风权限的应用程序也可以通过 IMU 获得对话内容。为了不让攻击者获得准确信息，Google 将 Android 应用从 IMU 采样数据的频率限制在每秒 200 次，使攻击者无法准确获得对话内容。根据发表在预印本平台 arXiv 上的预印本，研究人员发现了一个漏洞——通过欺骗陀螺仪和运动传感器在时间上稍微偏移地进行测量，将应用实际采样率从每秒 200 次提高到 400 次，可以突破上述保护措施。利用这种方法，攻击者能修复获得的音频量大大提升。与每秒仅采集 200 个样本相比，他们的方法在 AI 转录时单词错误率降低了 83%。这表明，目前的安全保护措施“不足以防止复杂的窃听攻击发生”，应该对其重新评估。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国考虑将 USB-C 作为通用充电端口]]></title>
+        <id>https://www.solidot.org/story?sid=79498</id>
+        <link href="https://www.solidot.org/story?sid=79498"/>
+        <updated>2024-10-15T15:25:30.000Z</updated>
+        <summary type="html"><![CDATA[在欧盟和印度等国和地区之后，英国考虑将 USB-C 作为消费设备的通用充电端口。英国商务贸易部下辖的产品安全和标准办公室（Office for Product Safety and Standards）发表声明，呼吁制造商、进口商、分销商和贸易协会就此事发表意见。欧盟此前要求到 2024 年底移动设备制造商必须采用 USB-C 通用充电端口，沙特宣布到 2025 年所有电子设备使用 USB-C 充电端口，印度要求在 2025 年 3 月前智能手机等移动设备必须有一个 USB-C 充电端口。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BBS 共同发明人 Ward Christensen 去世，享年 78 岁]]></title>
+        <id>https://www.solidot.org/story?sid=79497</id>
+        <link href="https://www.solidot.org/story?sid=79497"/>
+        <updated>2024-10-15T15:09:08.000Z</updated>
+        <summary type="html"><![CDATA[世界上第一个 BBS-CBBS 公告板共同发明人 Ward Christensen 于 10 月 11 日在美国伊利诺伊州 Rolling Meadows 去世，享年 78 岁。Christensen 与 Randy Suess 于 1978 年在芝加哥创建了第一个 BBS，引领了数字社区建设的重要文化时代，预示了今天的网络世界。Christensen 是一个低调的人，从不寻求关注，虽然创造了数字时代的基础性技术，但一生都保持低调，他在 IBM 工作一直到退休。他是在家中去世的，死因没有公布。在创造 BBS 前，他发明了文件传输技术 XMODEM，将二进制文件分解为数据包并确保每个数据包通过有时不太稳定的模拟电话线安全传输，它让 BBS 成为可能，启发了其它文件传输协议，推动了在线文件共享的发展。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10 将在一年后终止支持]]></title>
+        <id>https://www.solidot.org/story?sid=79496</id>
+        <link href="https://www.solidot.org/story?sid=79496"/>
+        <updated>2024-10-15T14:23:24.000Z</updated>
+        <summary type="html"><![CDATA[Windows 10 将于 2025 年 10 月 14 日终止支持，恰好是 365 天之后。大部分 Windows 10 用户将不会再获得安全更新，使用长期支持版本 Long Term Servicing Channel 的客户则还有更多时间，Windows 10 IoT Enterprise LTSC 扩展支持到 2032 年 1 月 13 日，Windows 10 Enterprise LTSC 将支持到 2029 年 1 月 9 日。根据 Statcounter 的统计，截至 2024 年 9 月，Windows 10 仍然是市场占有率最高的 Windows 版本，Windows 10 占 62.79%，之后 Win11 33.37%，Win7 2.85%，Win8.1 0.36%，WinXP 0.34%，Win8 0.22%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TimeLapseCam – 让抽屉里的闲置安卓手机变身为延时摄影神器]]></title>
+        <id>https://www.appinn.com/?p=49753</id>
+        <link href="https://www.appinn.com/timelapsecam-for-android/"/>
+        <updated>2024-10-15T11:42:37.000Z</updated>
+        <summary type="html"><![CDATA[TimeLapseCam 是一款 4MB 大小，只需要 Android 6.0 就可以运行的开源 Android 延时摄影应用，可以在屏幕关闭的情况下继续录制延时视频，还能自定义调整分辨率、定时录像、]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 禁止 WP Engine 赞助和参与 WordPress 用户活动]]></title>
+        <id>https://www.solidot.org/story?sid=79495</id>
+        <link href="https://www.solidot.org/story?sid=79495"/>
+        <updated>2024-10-15T10:19:14.000Z</updated>
+        <summary type="html"><![CDATA[WordPress 联合创始人 Matt Mullenweg 继续大力攻击竞争对手 WP Engine。WordCamp Sydney 是即将在悉尼举行的 WordPress 用户活动，周一它正式通知与会者，WP Engine 被禁止赞助该活动，其员工被禁止在活动上发言。Matt Mullenweg 最近的一系列行动已经在开源社区引发了很多争议，WordPress 接管 WP Engine 插件的做法引发了不同寻常的供应链攻击担忧。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赞比亚面临气候引起的能源危机]]></title>
+        <id>https://www.solidot.org/story?sid=79494</id>
+        <link href="https://www.solidot.org/story?sid=79494"/>
+        <updated>2024-10-15T10:08:24.000Z</updated>
+        <summary type="html"><![CDATA[赞比亚有着全世界最大的人工湖——Lake Kariba，它的面积是三峡水库的四倍，长逾 223 公里，宽 40 公里。该人工湖的水电是赞比亚八成的电力来源，但最近严重的干旱导致了高 128 米的大坝几乎完全暴露，水位是如此之低以至于六台涡轮机只有一台能运行，发电量不到正常水平的十分之一，导致赞比亚人遭遇了严重的电力短缺，最好的时候每天也只有几小时的供电，部分地区有时候断电长达数天。电力危机对赞比亚的打击高于 COVID-19 疫情期间的封锁。非洲地区对全球暖化的贡献最小，但却最容易受到极端气候事件和气候变化的影响。南部非洲今年遭遇了数十年来最严重的旱灾，赞比亚等国已宣布了国家灾难，正寻求援助。莫桑比克、马拉维、乌干达、埃塞俄比亚和刚果等国水电也是最主要的电力来源，极端气候让对水电的依赖不再具有可持续性。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家计算机病毒应急处理中心反驳伏特台风]]></title>
+        <id>https://www.solidot.org/story?sid=79493</id>
+        <link href="https://www.solidot.org/story?sid=79493"/>
+        <updated>2024-10-15T07:53:59.000Z</updated>
+        <summary type="html"><![CDATA[在美国指责中国黑客组织 Volt Typhoon（伏特台风）攻击美国基础设施之后，国家计算机病毒应急处理中心过去几个月连续发表了三篇文章反驳美国的指控，称这一切都是美国的虚假信息行动。三篇文章分部是在 4 月 15 日、7 月 8 日和 10 月 14 日发表的。国家计算机病毒应急处理中心称，这种假旗行动是美国情报机构影响力行动的组成部分。微软最早是在去年 5 月披露 Volt Typhoon 的行动。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 1.4 释出]]></title>
+        <id>https://www.solidot.org/story?sid=79492</id>
+        <link href="https://www.solidot.org/story?sid=79492"/>
+        <updated>2024-10-15T07:27:46.000Z</updated>
+        <summary type="html"><![CDATA[自由软件向量图形编辑器 Inkscape 项目在时隔逾一年后释出了 1.4 版本。主要新特性包括：新的改进的对话框，过滤器库，模块化网格和改进轴测法网格，统一字体浏览器预览，Affinity Designer 文件导入，支持在导出的 PDF 文件包含内部链接，Dash 主题新图标，更快的扩展，新的命令行选择，等等。Inkscape 项目诞生于 2003 年，历经 17 年发布正式版本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉 Optimus 机器人在活动上由人类远程控制]]></title>
+        <id>https://www.solidot.org/story?sid=79491</id>
+        <link href="https://www.solidot.org/story?sid=79491"/>
+        <updated>2024-10-15T07:10:32.000Z</updated>
+        <summary type="html"><![CDATA[在上周举行的特斯拉 We, Robot 活动上，该公司公布了无人出租车 Cybercab、电动客车 Robovan，以及类人机器人 Optimus。对于 Optimus 马斯克（Elon Musk）称可以当教师、照顾孩子、遛狗、修剪草坪、买食品，拿饮料等等。马斯克相当乐观的预测到明年底机器人会更容易获得。但外界对此颇为质疑，认为机器人技术的发展尚为达到如此易用度。彭博社援引匿名知情人士的消息报道，在这次活动上，特斯拉通过人类远程控制演示了 Optimus 的部分功能，此举旨在激发投资者对新产品的热情。知情人士称，在现场的特斯拉员工监督了机器人与参与者之间的互动。知情人士称，机器人原型能在无需外部控制的情况下行走。远程控制引发了机器人功能性和市场准备度的质疑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互联网档案馆以只读模式恢复上线]]></title>
+        <id>https://www.solidot.org/story?sid=79490</id>
+        <link href="https://www.solidot.org/story?sid=79490"/>
+        <updated>2024-10-15T05:26:11.000Z</updated>
+        <summary type="html"><![CDATA[互联网档案馆“ Wayback Machine”以只读模式恢复上线，其它服务仍然处于下线状态。互联网档案馆上周因多次遭到 DDoS 攻击而下线，而它在上个月还被入侵，3100 万用户数据被盗，上周黑客纂改了互联网档案馆网页，向访问者展示了一条警告信息。互联网档案馆成立于 1996 年，它通过爬取 Web 保存公开的网页，迄今为止已保存了 9160 亿个网页。它拥有 150 名员工，还免费提供了视频、音频和电子书。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群晖 DSM 7.2.2 更新，不再支持 Video Station 套件｜替代品如何选择？]]></title>
+        <id>https://www.appinn.com/?p=49748</id>
+        <link href="https://www.appinn.com/dsm-7-2-2-remove-video-station/"/>
+        <updated>2024-10-15T04:38:14.000Z</updated>
+        <summary type="html"><![CDATA[群晖在1个月前发布了 DSM 7.2.2-72806 的更新，并逐步开始推送。青小蛙最近才收到，更新前会提示不再支持 Video Station 套件，需要先卸载才能更新。原因是从这个版本起，视频的解]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA 发射欧罗巴快船探索木星卫星]]></title>
         <id>https://www.solidot.org/story?sid=79489</id>
@@ -948,76 +1078,6 @@ Searching for a New CSS Logo originally published on CSS-Tricks, which is part o
         <summary type="html"><![CDATA[自动隐私模式是一款 Edge 扩展，它可以在你访问指定的网页时，自动进入浏览器的无痕模式，以及删除历史记录。谁还没有一些需要无痕模式访问的网页呢。@Appinn 来自发现频道，开发者 @jsfaint]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器开发商称 Microsoft Edge 具有不公平的优势]]></title>
-        <id>https://www.solidot.org/story?sid=79414</id>
-        <link href="https://www.solidot.org/story?sid=79414"/>
-        <updated>2024-10-06T14:37:20.000Z</updated>
-        <summary type="html"><![CDATA[Vivaldi、Waterfox 和 Wavebox 等浏览器开发商致函欧盟委员会，认为微软给予了其 Edge 浏览器不公平的优势，应受到 Digital Markets Act(DMA)的约束。目前的 DMA 排除了 Microsoft Edge，浏览器开发商们呼吁欧盟委员会重新考虑其立场。Edge 默认预装在 Windows 机器上，用户需要通过 Edge 下载他们想要使用的浏览器。浏览器开发商指出，没有其它独立于平台的浏览器能匹敌 Edge 的这一发行优势。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多邻国如何成为数百万人日常使用的语言学习应用]]></title>
-        <id>https://www.solidot.org/story?sid=79413</id>
-        <link href="https://www.solidot.org/story?sid=79413"/>
-        <updated>2024-10-06T14:07:17.000Z</updated>
-        <summary type="html"><![CDATA[多邻国联合创始人兼 CEO Luis von Ahn 出生于危地马拉，当地超过 55% 的人口生活贫困，有钱的人可以接受良好的教育，没钱的人甚至可能不会读写。这在他心中留下了深刻印记。当他与另一位联合创始人兼 CTO Severin Hacker 在 2012 年创办公司时，他们深知语言尤其是英语可能会改变一个人的生活，因此他们致力于确保多邻国对用户免费，让每一个人都能接受教育。多邻国采用了一种混合的商业模式，免费用户看广告，付费订阅用户可获得免广告和其它好处。根据多邻国向投资者提供的信息，它在 2023 年的收入为 5.31 亿美元，2024 年预计将达到 7.31 亿美元，8% 的订阅用户贡献了公司收入的八成，九成的免费用户通过广告贡献了 8% 的收入。今天多邻国有 3400 万日活用户，在底特律、西雅图、柏林、北京、纽约及其位于匹兹堡的总部有 850 名员工，市值为 122.7 亿美元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国电信使用国产芯片训练有 1 万亿参数的大模型]]></title>
-        <id>https://www.solidot.org/story?sid=79412</id>
-        <link href="https://www.solidot.org/story?sid=79412"/>
-        <updated>2024-10-06T13:34:19.000Z</updated>
-        <summary type="html"><![CDATA[中国电信 AI 研究所称它使用国产芯片训练了两个大模型。其中之一是 TeleChat2t-115B 为开源模型，项目托管在 GitHub 上，有大约 1150 亿个参数；另一个大模型没有公开名字，据称其参数有 1 万亿个。AI 研究所称，这表明国内在大模型训练上实现了完全自给自足。根据 TeleChat2t-115B GitHub 页面的描述，中国电信可能使用了华为昇腾 Atlas 800T A2 训练服务器，运行基于 Arm 8.2 架构的鲲鹏 920 7265 或鲲鹏 920 5250 处理器，分别有 64 个 3.0GHz 内核和 48 个 2.6GHz 内核。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果要强迫为内容付费 Google 表示将停止链接新西兰新闻]]></title>
-        <id>https://www.solidot.org/story?sid=79411</id>
-        <link href="https://www.solidot.org/story?sid=79411"/>
-        <updated>2024-10-06T12:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Google 新西兰博客警告，如果新西兰政府通过法案《Fair Digital News Bargaining Bill》，强迫科技公司为其平台上展示的内容付费，它将停止链接新西兰新闻，逆转对当地新闻媒体的支持。Google 此举将切断新西兰新闻网站的流量，搜索巨人的做法与它在澳大利亚和加拿大制定类似法律后的反应类似。该法案是新西兰上届政府提出的，现政府由中右翼国家党组建，它在当时表示了反对，然而随着该国新闻媒体行业今年初失去了愈 200 个工作岗位，而全国新闻记者的人数大约在 1600 人左右，现政府重新开始推进该法案，要求科技平台与媒体分享收入。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秘密恶意程序感染了数千 Linux 系统]]></title>
-        <id>https://www.solidot.org/story?sid=79410</id>
-        <link href="https://www.solidot.org/story?sid=79410"/>
-        <updated>2024-10-05T16:20:01.000Z</updated>
-        <summary type="html"><![CDATA[研究人员报告一种秘密的挖矿恶意程序感染了数千台运行 Linux 的系统。该恶意程序至少从 2021 年开始传播，它利用愈 2 万个常见错误配置感染系统，还能利用去年修复的 Apache RocketMQ 高危漏洞 CVE-2023-33426，其危险等级 10/10。研究人员将该恶意程序命名为 Perfctl，恶意程序作者为其程序进程起了一个与常见 Linux 进程相似的名字，组合了 perf Linux 监控工具和命令行工具 ctl。该恶意程序利用了多种方法防止其被检测出来，并确保具有持续感染能力，在机器重启或核心组件被删除后仍然能留在被感染设备上。它的主要功能是利用 CPU 挖掘加密货币，以及作为代理工具为付费用户中继网络流量，此外还可以作为安装其它恶意程序的后门。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因中美紧张关系 Waymo 选择现代汽车的 Ioniq 5 作为其新一代的无人驾驶出租车]]></title>
-        <id>https://www.solidot.org/story?sid=79409</id>
-        <link href="https://www.solidot.org/story?sid=79409"/>
-        <updated>2024-10-05T15:29:40.000Z</updated>
-        <summary type="html"><![CDATA[Waymo 宣布与现代汽车公司达成多年战略合作伙伴关系，将把该公司的自主驾驶系统整合到美制的现代 Ioniq 5 汽车中。新汽车预计会在 2025 年晚些时候进行路试，之后加入到其无人驾驶出租车车队。Waymo 自 2021 年起的合作伙伴是吉列公司，使用了吉列的 Zeekr 电动汽车。然而由于中美紧张关系，双方的合作难以持续下去，拜登政府上周提出了新的规定，将事实上禁止中国制造的任何电动汽车在美国公路上行驶。Waymo 与现代计划未来数年生产大量自动驾驶电动汽车。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matt Mullenweg 称 WordPress.org 属于他个人]]></title>
-        <id>https://www.solidot.org/story?sid=79408</id>
-        <link href="https://www.solidot.org/story?sid=79408"/>
-        <updated>2024-10-05T14:55:49.000Z</updated>
-        <summary type="html"><![CDATA[开源 CMS 项目 WordPress 的联合创始人、提供托管服务的 Automattic 公司创始人 Matt Mullenweg 接受采访时表示 WordPress.org 只属于他个人。WordPress.org 是开源项目 WordPress 的主站，WordPress.com 则是 Automattic 公司提供的商业托管服务。Mullenweg 为切断竞争对手 WP Engine 对 WordPress.org 访问权的决定辩护，称商标问题和不充分的生态系统贡献是他采取行动的关键理由。他特别针对 WP Engine 而修改了 WordPress 基金会的商标政策，加入了该公司缺乏捐赠的措辞。他利用商标权向 WP Engine 施压以促使该公司作出更大的贡献。他最近的做法引发了很多争议，社区已经创建了 WordPress 的分支 ClassicPress。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
