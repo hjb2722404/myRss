@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49861",
+          "author": "青小蛙",
+          "description": "很久前介绍过一款服务：《Youglish – 从 YouTube 搜索母语发音者，练习口语，支持英文、中文、手语在内的 18 种语言》，最近又想起了它，并且从中得到了帮助，还录制了一段视频。@Appi",
+          "link": "https://www.appinn.com/youglish-video/",
+          "publishedOn": "2024-10-23T13:21:06.000Z",
+          "wordCount": 2725,
+          "title": "再也不会说错！让母语者也能听懂，（外语）英语发音独门技巧",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/07/youglish.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=49858",
+          "author": "青小蛙",
+          "description": "青小蛙发现，网页版文件浏览器 File Browser 开发者 @hacdias 的另外一个作品，用 Go 语言写的单文件 WebDAV 服务器，非常不错，推荐一下。@Appinn 这个开源项目就没有",
+          "link": "https://www.appinn.com/hacdias-webdav/",
+          "publishedOn": "2024-10-23T07:29:08.000Z",
+          "wordCount": 3065,
+          "title": "一个 Go 语言写的，单文件 WebDAV 服务器[跨平台]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-23T151516.700.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49614",
           "author": "青小蛙",
           "description": "Parallels Desktop 20 for Mac 是 macOS 平台著名的虚拟机产品，可以在你的 Mac 电脑上虚拟出另外一个系统，比如 Windows、Linux，甚至另外一个 macOS",
@@ -155,16 +175,6 @@
           "wordCount": 2821,
           "title": "群晖 DSM 7.2.2 更新，不再支持 Video Station 套件｜替代品如何选择？",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-15T120017.358.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49698",
-          "author": "青小蛙",
-          "description": "Just (Video) Player 是一款 Android 开源视频播放器，基于 Android 官方团队开发和维护的 AndroidX Media 项目里的 ExoPlayer 库。在兼容/支持",
-          "link": "https://www.appinn.com/just-video-player/",
-          "publishedOn": "2024-10-14T07:57:08.000Z",
-          "wordCount": 2782,
-          "title": "Just (Video) Player – 安卓开源视频播放器",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-14T154415.982.jpg"
         }
       ]
     },
@@ -173,6 +183,31 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=382008",
+          "author": "Zell Liew",
+          "description": "The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …\nClarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/",
+          "publishedOn": "2024-10-23T13:20:46.000Z",
+          "wordCount": 2456,
+          "title": "Clarifying the Relationship Between Popovers and Dialogs",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382008"
+        },
+        {
+          "id": "https://css-tricks.com/?p=381992",
+          "author": "Geoff Graham",
+          "description": "There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …\nClamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/clamp-it-vs-code-extension/",
+          "publishedOn": "2024-10-23T13:15:20.000Z",
+          "wordCount": 1459,
+          "title": "Clamp it! VS Code extension",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/10/clamp-it_fng4a5.mp4",
+            "length": "549889",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381992"
+        },
         {
           "id": "https://css-tricks.com/?p=381613",
           "author": "Geoff Graham",
@@ -253,6 +288,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79570",
+          "author": null,
+          "description": "维基百科遵守印度德里高等法庭的命令删除了条目《Asian News International vs. Wikimedia Foundation》。这可能是维基百科历史上首次有英文文章被基金会删除。该文章介绍的是印度亚洲国际新闻社（ANI）对维基媒体基金会提起的诽谤诉讼。ANI 提起诉讼是因为维基百科上有关 ANI 的条目称该新闻机构是政府的宣传喇叭，传播了亲政府的信息，散播了反对派的虚假信息，为执政的印度人民党进行党派竞选。德里高等法院大法官首席 Manmohan 和大法官 Tushar Rao Gedela 认为相关条目对诉讼的批评相当于干涉法庭程序，违反了审理中案件的原则。Manmohan 大法官称，对新闻机构而言，没有什么比被描述为情报机构的傀儡政府的走狗更糟糕的了，这将丧失其可信度。",
+          "link": "https://www.solidot.org/story?sid=79570",
+          "publishedOn": "2024-10-23T10:58:32.000Z",
+          "wordCount": 172,
+          "title": "维基百科遵守印度法庭命令删除了一个条目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79569",
+          "author": null,
+          "description": "日本宇宙航空研究开发机构（JAXA）宣布正式认定两名宇航员，他们是诹访理（男，47岁）和米田Ayu（女，29岁）。两人去年 2 月入选宇航员候选人并接受了训练，今后将以美国为基地继续训练，等待敲定飞赴太空的任务。他们还有望在美国主导的国际探月“阿尔忒弥斯计划”中参与登陆月球的任务。诹访出生于东京，在茨城县筑波市长大，曾是世界银行的高级防灾专员。米田出生于东京，在京都市长大，之前是日本红十字会医疗中心（东京）的外科医生。JAXA 现役宇航员增至 7 人。日美两国政府今年 4 月就使两名日籍宇航员在“阿尔忒弥斯计划”中登月达成了协议，预计将从包括诹访和米田在内的 7 人中选出两人。",
+          "link": "https://www.solidot.org/story?sid=79569",
+          "publishedOn": "2024-10-23T09:53:24.000Z",
+          "wordCount": 165,
+          "title": "日本公布了其候选登月宇航员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79568",
+          "author": null,
+          "description": "拉马努金（Srinivasa Ramanujan）是自学成才的天才，他家境贫困，几乎没有受过教育，甚至负担不起食物，他的大部分研究都是在基本与世隔绝的情况下完成的。1912 年 24 岁的他开始给世界知名的数学家写信。大部分信都被忽略了，只有英国数学家哈代（G.H. Hardy）与他展开了长达一年的通信，并说服他到英国进行研究。哈代及其同事发现拉马努金能以其他人做不到的方式感知数学真理。在 1920 年 32 岁时去世前，他获得了数千个优雅且令人惊讶的结果，大部分没有证明。他喜欢说这些方程式是众神赐予他的。100 多年后，数学家仍然在追赶拉马努金的神来之手。拉马努金最著名的结果可能是整数分拆恒等式（partition identities）。1980 年代数学家开始发现这些方程式与统计力学和相变研究、纽结理论和弦论、数论和表示论，以及对称性研究等数学领域之间存在深刻而令人惊讶的联系。最近数学家发现代数几何与分拆恒等式也存在关联。澳大利亚昆士兰大学的 Ole Warnaar 说，难以置信，这不仅仅是巧合，仿佛是数学之神在试图告诉我们什么。",
+          "link": "https://www.solidot.org/story?sid=79568",
+          "publishedOn": "2024-10-23T08:49:39.000Z",
+          "wordCount": 172,
+          "title": "数学家仍然在追赶拉马努金的神来之手",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79567",
+          "author": null,
+          "description": "彭博社报道，英国芯片设计公司 Arm 向其最大客户高通发出了取消芯片设计授权的 60 天通知。此举可能在智能手机和 PC 市场引发混乱，扰乱半导体行业两家最具影响力的公司的财务和运营。高通每年销售数亿个 Arm 处理器，大多数用于 Android 智能手机。如果取消授权生效，高通可能不得不停售占其约 390 亿美元收入大部分的产品，否则将面临巨额索赔。两家公司的冲突始于 2022 年，当时 Arm 提起诉讼，指控高通违反合同和商标侵权。通过取消授权通知，Arm 给高通八周时间去解决分歧。",
+          "link": "https://www.solidot.org/story?sid=79567",
+          "publishedOn": "2024-10-23T07:32:37.000Z",
+          "wordCount": 178,
+          "title": "Arm 向高通发出取消芯片设计授权的通知",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79566",
+          "author": null,
+          "description": "一颗 2014 年在南非发现的巨大陨石造成了史上最强大的海啸，让整个海洋为之沸腾。被称为 S2 的陨石比我们所熟知的导致恐龙灭绝的陨石要大得多。6600 万前撞击地球的陨石宽 10 公里，高度与珠穆朗玛峰差不多。相比下， S2 宽 40-60 公里，质量比它大 50-200 倍。S2 的撞击发生在 30 亿年前的地球早期，当时的地球是一个水世界，多块大陆伸出海面。科学家发现，S2 除了造成巨大的破坏外，还帮助了地球早期生命的茁壮成长。",
+          "link": "https://www.solidot.org/story?sid=79566",
+          "publishedOn": "2024-10-23T07:18:59.000Z",
+          "wordCount": 177,
+          "title": "30 亿年前撞击地球的陨石让海洋为之沸腾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79565",
+          "author": null,
+          "description": "亚马逊在给美国全国劳资关系委员会（NLRB）的文件中宣称，其反工会策略受到宪法第一修正案的保护。亚马逊的一群送货司机在 2023 年与卡车司机劳工组织 Teamsters 合作组建了工会，但亚马逊拒绝与工会谈判，理由是它不是司机的雇主，它是通过 Delivery Service Partner(DSP)系统与第三方快递公司签约雇佣了司机。NLRB 在 9 月份裁定亚马逊与 DSP 一起都是司机们的共同雇主，它对亚马逊提出了投诉。亚马逊在给 NLRB 的回复中否认它是共同雇主，并就亚马逊管理人员的反工会言论辩护称受到了宪法第一修正案对言论自由的保护。亚马逊采取了一系列反工会策略，其管理人员威胁解雇参加工会的司机，承诺如果他们不参加工会将能获得更好的福利。",
+          "link": "https://www.solidot.org/story?sid=79565",
+          "publishedOn": "2024-10-23T06:07:07.000Z",
+          "wordCount": 170,
+          "title": "亚马逊声称其反工会策略受到宪法第一修正案的保护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79564",
+          "author": null,
+          "description": "Meta 以人身伤害风险为由删除了 Threads 和 Instagram 上追踪名人私人飞机的多个账户。这些账户依靠公开信息（为避免发生空中碰撞 FAA 要求飞机必须通过 ADS-B 广播其位置）追踪飞机的位置和二氧化碳排放量等信息，在 Meta 更新其隐私政策后，这些账户于本周未经警告被封。账号追踪的名人包括卡戴珊姐妹 Kim Kardashian 和 Kylie Jenner，以及扎克伯格（Mark Zuckerberg）、贝佐斯 (Jeff Bezos) 和马斯克 (Elon Musk)。许多账户由佛罗里达州大学生 Jack Sweeney 运营，他表示在封禁之前没有收到 Meta 任何相关信息。他在联邦平台 Mastodon 上的账号没有受到任何影响。扎克伯格拥有一架尾号为 N68885 的湾流 G650 私人飞机。",
+          "link": "https://www.solidot.org/story?sid=79564",
+          "publishedOn": "2024-10-23T03:48:01.000Z",
+          "wordCount": 196,
+          "title": "Meta 封禁了跟踪扎克伯格和马斯克私人飞机的账号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79562",
+          "author": null,
+          "description": "Linux 6.12-rc4 内核合并了一个补丁，从 MAINTAINERS 文件中删除了部分条目。该补丁由稳定版内核维护者 Greg Kroah-Hartman 发送到 patches@lists.linux.dev 邮件列表，他解释是各种合规要求，被删除的维护者未来在提供了足够的文件之后可以回归。受影响的都是俄籍维护者，多数使用了 .ru 邮件域名，其中包括了 Acer Aspire 1 EC 驱动、Cirrus Logic CLPS711X ARM 架构、Baikal-T1 PVT 硬件监视器驱动、Libata PATA 驱动、libata SATA AHCI Synopsys DWC 控制器驱动、ASCOT2E 媒体驱动、MIPS Baikal-T1 平台驱动、NTB IDT 驱动、PPTP 驱动、Renesas R-Car SATA 驱动、Renesas Super-H 以太网驱动和 UFS 文件系统的维护者。Greg Kroah-Hartman 没有给出相关的合规政策。",
+          "link": "https://www.solidot.org/story?sid=79562",
+          "publishedOn": "2024-10-23T02:41:28.000Z",
+          "wordCount": 206,
+          "title": "Linux 项目以合规为由移除了多名俄籍维护者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79561",
+          "author": null,
+          "description": "波音在商业飞机以及英特尔在先进芯片领域所面临的危机被认为危及到了美国国家安全。波音和英特尔的问题是它们自身的失误造成的，但其影响波及到了美国的科技生态系统，而国家安全要求美国保留在飞机和半导体方面的专门知识。其它国家也都在这么做。欧盟补贴了空客，中国的大基金在半导体领域投资了千亿美元，截至 2020 年中国商飞的政府补贴就达到 720 亿美元。美国民主党和共和党都认识到制造业的重要性，但制造业的战略目标不只是创造就业，还应该创造一流的产品。",
+          "link": "https://www.solidot.org/story?sid=79561",
+          "publishedOn": "2024-10-22T16:05:23.000Z",
+          "wordCount": 161,
+          "title": "波音和英特尔的危机被认为危及美国国家安全",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79560",
+          "author": null,
+          "description": "苹果更新了其 iOS 操作系统的计算器应用，移除了 C 按键，用退格键功能取代了它。C 按键在传统计算器中被用于清除数字。C 按键源于早期计算器的设计，在 1960 年代其硬件构造十分简单，使用了十几个单独的电路板运行和显示它的四个基本数学函数，使用一个暂存寄存器去存储输入值进行计算和显示，C 按键有时被标记为 CE（Clear Entry）或“CI”(Clear Input)——都是清除暂存寄存器中输入值的意思，另一个按键 AC（All Clear）功能相同，但用于电路的其它部分。1971 年 Mostech 和德州仪器开发出集成电路计算器，将所有这些功能都集中在集成电路中，但同时保留了旧的 C 和 AC 按键及其功能。",
+          "link": "https://www.solidot.org/story?sid=79560",
+          "publishedOn": "2024-10-22T14:49:58.000Z",
+          "wordCount": 193,
+          "title": "苹果更新 iOS 计算器移除 C 按键",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79559",
           "author": null,
@@ -972,116 +1107,6 @@
           "wordCount": 188,
           "title": "Meta 研究员认为大模型比猫还蠢",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79487",
-          "author": null,
-          "description": "大模型容易遭到攻击，容易泄露敏感数据。加拿大安全公司 Pillar Security 发表了《State of Attacks on GenAI》报告，基于遥测数据和逾 2000  AI 应用的真实攻击示例，揭示了大模型攻击和越狱的新见解。研究人员发现，对大模型的攻击平均只需要 42 秒，越狱成功率 20%。逾 2000  AI 应用中最常见的是提供虚拟客户支持的聊天机器人，占到了总数的 57.6%。常见的越狱方法包括使用指令 ignore previous instructions 和 ADMIN override，或者只使用 base64 编码。研究人员报告，最短的攻击只需要 4 秒，最长的需要 14 分钟。",
-          "link": "https://www.solidot.org/story?sid=79487",
-          "publishedOn": "2024-10-14T13:56:23.000Z",
-          "wordCount": 186,
-          "title": "大模型容易遭到越狱攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79486",
-          "author": null,
-          "description": "SpaceX 在得克萨斯州东南部的 Starbase 基地成功进行了星舰（Starship）系统的第五次试飞，创造了太空探索的新里程碑。在这次试飞中，SpaceX 不仅成功发射了星舰火箭，还首次在助推器返回过程中，利用被昵称为“筷子”的机械臂，在发射台上抓回了高达 71 米的“超级重型”助推器。这一壮举标志着 SpaceX 在火箭完全可重复使用方面取得了重大突破。星舰的设计目标是将人和货物送至地球轨道、月球乃至火星。",
-          "link": "https://www.solidot.org/story?sid=79486",
-          "publishedOn": "2024-10-14T10:23:46.000Z",
-          "wordCount": 178,
-          "title": "SpaceX 首次以抓取的方式回收 Starship 助推器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79485",
-          "author": null,
-          "description": "上海大学的研究人员在《计算机学报》上发表论文《基于 D-Wave Advantage 的量子退火公钥密码攻击算法研究》，称加拿大 D-Wave 公司的量子退火机器能被用于攻击公钥加密。研究人员调查了两类基于量子退火的 RSA 公钥密码攻击算法，一是将密码攻击数学方法转为组合优化问题或指数级空间搜索问题，二是基于量子退火算法融合密码攻击数学方法优化密码部件的攻击。结果显示，量子退火大幅度超过其它各类量子计算，退火机能分解的数字比通用机大几十个量级。与一些量子算法比，量子退火有相当高的稳定性。研究人员首次在 D-Wave Advantage 上实现了 50 比特 RSA 整数分解.",
-          "link": "https://www.solidot.org/story?sid=79485",
-          "publishedOn": "2024-10-14T10:07:57.000Z",
-          "wordCount": 172,
-          "title": "中国研究员称找到方法利用量子退火破解公钥加密",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79484",
-          "author": null,
-          "description": "NASA 证实正与国际合作伙伴以及标准组织制定月球时间标准协调月球时（Coordinated Lunar Time 或 LTC)。月球时间标准将会考虑相对论，可扩展到其它天体，支持长期太空任务如 Artemis 以及商业性太空活动。月球时间将由月球原子钟加权平均决定，类似地球上的协调世界时(UTC)计算方式。原子钟在月球的位置还没有决定，现有的分析显示原子钟在月球表面每天滴答的速度快数微秒。NASA 及其合作伙伴正研究哪一种数学模型最适合建立月球时间。",
-          "link": "https://www.solidot.org/story?sid=79484",
-          "publishedOn": "2024-10-14T09:38:25.000Z",
-          "wordCount": 172,
-          "title": "NASA 证实计划制定月球时间标准",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79483",
-          "author": null,
-          "description": "在降低患 200 多种疾病的风险方面，做一个“周末战士”和每周定期锻炼一样有效。研究结果发表在《Circulation》杂志上。美国疾病控制与预防中心的指南建议，为了整体健康，每周至少进行 150 分钟的中等到高强度体育活动。在符合这些建议的人群中，一周中大部分时间锻炼 20-30 分钟的人所获得的益处与那些间隔 5-6 天进行较长时间锻炼的人相同。研究小组分析了 89,573 人的信息，这些人戴着手腕加速度计，记录了一周内的总体力活动和不同运动强度的时间。参与者的身体活动模式被分类为周末战士、常规或不活跃。分析显示，与不运动相比，周末运动和有规律的体育活动模式都能显著降低罹患 264 种疾病的风险。与心脏代谢疾病的相关性最强，如高血压和糖尿病。",
-          "link": "https://www.solidot.org/story?sid=79483",
-          "publishedOn": "2024-10-14T07:59:43.000Z",
-          "wordCount": 169,
-          "title": "周末锻炼与定期锻炼在降低疾病风险上的效果相同",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79482",
-          "author": null,
-          "description": "《Communications Psychology》期刊上的一项研究发现，美国反民主倾向在不同政治光谱中分布并不均匀。保守派比自由派表现出更强烈的反民主倾向，此差异可部分用右翼威权主义和社会支配倾向等心理特质进行解释。右翼威权主义是权威主义服从、权威主义攻击和因袭主义三种态度的组合；社会支配倾向则是衡量个人对社会等级制度和不平等的认可程度。研究利用了芝加哥大学 National Opinion Research Center(NORC)进行的《2022 Health of Democracy Survey》民主调查，1557 名成年受访者根据年龄、种族等人口因素挑选出来，确保代表广泛的美国人口。研究结果显示，保守派和自由派在支持民主原则方面差异显著。保守派对政治平等和法律权利与保障的支持度较低。保守派不太可能同意“人人都应允许投票”和“法律面前人人平等，不管财富或权力”等陈述。保守派更可能支持违背民主规范的行为，更愿意为政治暴力辩护。他们更可能同意“真正的美国生活方式在迅速消失，可能不得不使用武力去拯救它”和“我支持使用暴力确保我党的候选人赢得 2024 年大选”等陈述。",
-          "link": "https://www.solidot.org/story?sid=79482",
-          "publishedOn": "2024-10-14T07:25:20.000Z",
-          "wordCount": 168,
-          "title": "保守派更可能反民主和支持独裁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79481",
-          "author": null,
-          "description": "日本科技公司卡西欧证实本月初遭到勒索软件攻击，员工、求职者、合作伙伴和部分客户的数据被盗，客户支付相关的信息未受影响，但随着调查的进一步深入，受影响的范围可能会扩大。勒索软件组织 Underground 此前宣布对此次攻击负责。卡西欧公布了被认为已经被盗的信息：公司及其子公司正式员工、临时个和合同工的个人数据；业务合作伙伴的个人细节；参加面试的求职者个人数据；客户的个人信息；业务合同信息；财务数据；法务、财务、人力、审计、销售等相关的文件。",
-          "link": "https://www.solidot.org/story?sid=79481",
-          "publishedOn": "2024-10-14T05:27:11.000Z",
-          "wordCount": 158,
-          "title": "日本卡西欧公司证实客户数据被盗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79480",
-          "author": null,
-          "description": "图库 Imgur 宣布不再将成人幽默模因（meme）归类为成人内容，只有真正的色情内容才会打上成人内容的标签。Imgur 是在收集了内容审核方面的反馈之后做出了这一决定，它的成人内容政策此前被认为在应用上不一致、过于主观，整体上混乱，以后成人标签内容将由只包含真正的色情内容。调整之后它大幅减少了内容警告，也大幅减少了成人内容标签。成人内容默认不向用户展示，用户需要主动选择加入。",
-          "link": "https://www.solidot.org/story?sid=79480",
-          "publishedOn": "2024-10-14T05:09:24.000Z",
-          "wordCount": 163,
-          "title": "Imgur 不再将成人幽默归类为成人内容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79479",
-          "author": null,
-          "description": "尽管围绕 AI PC 有很多炒作，但 PC 市场没有出现多少反弹迹象。Gartner 的数据显示，三季度 PC 出货量同比下降 1.3% 至 6290 万台，而今年二季度的出货量为 6490 万台。AI PC 本应该激发消费者的购买热情，刺激略微低迷的 PC 市场，但买家并没有看到 AI PC 显而易见的好处或商业价值。目前 AI PC 在很大程度上还只是一个营销概念，供应商尚未对其具体定义达成一致。虽然三季度推出了运行 Windows 的 Arm 和 x86 AI PC，但购买 Arm 的 AI PC 买家发现，部分程序的运行性能表现不佳。如果 Windows 应用没有原生支持 Arm 的版本，那么程序需要通过兼容层才能正常工作，这需要额外的开销。",
-          "link": "https://www.solidot.org/story?sid=79479",
-          "publishedOn": "2024-10-13T16:00:46.000Z",
-          "wordCount": 212,
-          "title": "AI PC 未提振 PC 需求",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79478",
-          "author": null,
-          "description": "日本宝可梦游戏开发商 Game Freak 证实该公司今年 8 月服务器被黑客入侵，2606 名现任、前任和合同工姓名及电邮地址被访问。在这之前，黑客据报道泄露了宝可梦游戏源代码，以及代号 Ounce 的任天堂下一代主机，代号 Gaia 的未宣布宝可梦新作，代号 Ikkaku 的 Pokemon Legends: Z-A。据社交媒体上的消息，黑客窃取了大约 1TB 的数据，其中包括 Pokemon Platinum、Pokemon HeartGold 和 SoulSilver 的源代码，以及 Pokemon Black and White 2、Pokemon X and Y 的 Beta 版本。",
-          "link": "https://www.solidot.org/story?sid=79478",
-          "publishedOn": "2024-10-13T15:33:40.000Z",
-          "wordCount": 191,
-          "title": "宝可梦游戏源代码泄露",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79477",
-          "author": null,
-          "description": "WordPress 联合创始人兼 Automattic CEO Matt Mullenweg 宣布以“remove commercial upsells and fix a security problem”为由接管了竞争对手 WP Engine 的流行插件 Advanced Custom Fields (ACF)，创建分支将其重命名为 Secure Custom Fields。该插件的安装量超过 200 万次。Mullenweg 没有解释所谓的安全问题，他表示此举与 WP Engine 对他及其 Automattic 提起诉讼有关。",
-          "link": "https://www.solidot.org/story?sid=79477",
-          "publishedOn": "2024-10-13T15:19:38.000Z",
-          "wordCount": 216,
-          "title": "Matt Mullenweg 接手了 WP Engine 的一个流行 WP 插件",
-          "imageUrl": null
         }
       ]
     },
@@ -1152,6 +1177,26 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/what-is-canada-browser",
+          "author": null,
+          "description": "TLDR: Simply visit browserling.com/browse and you'll get a virtual browser running in the Canada.\nCanadian Browser – What Is It?\nA Canadian browser is a web browser that runs on servers located in Canadian data centers and uses Canadian IP addresses. This allows users to access the internet as if they are in Canada, making it ideal for visiting Canada-specific websites like government portals, Canadian streaming services, or regional news outlets. It helps users access websites and content that are only available in Canada.\nHow Does a Canadian Browser Work?\nA Canadian browser is a virtual browser that runs on servers located in Canada. Users access it through their web browser without needing to install anything. This type of browser routes all web activity via Canadian servers, ensuring p…",
+          "link": "https://catonmat.net/what-is-canada-browser",
+          "publishedOn": "2024-10-23T23:03:00.000Z",
+          "wordCount": 560,
+          "title": "What is a Canadian Browser? (And How To Get One)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/15-new-icon-tools",
+          "author": null,
+          "description": "Team Browserling keeps shipping!\nLast week we added 15 new PNG tools and today we just added 15 new tools to our Icon Tools collection.\nWe've done our job and now it's Google's job to index them and rank them well.\nHere are the new logo tools:\nCreate Icon from Text\nAdd Text to Icon\nConvert Icon to Single Color\nCenter Icon\nAdd Outline to Icon\nSeparate Icon Colors\nAdd Space Around Icon\nRemove Space Around Icon\nAdd Shadow to Icon\nPick Icon Color\nCreate Square Icon\nCreate Round Icon\nConvert PNG Icon to JPG Icon\nConvert JPG Icon to PNG Icon\nConvert PNG Icon to WebP Icon\nConvert WebP Icon to PNG Icon\nMake Icon Thicker\nMake Icon Thinner\nConvert Outlined Icon to Filled Icon\nNext week we'll add even more tools. See you then!\nPS. Use coupon code ICONLING for a 30% discount on these tools.",
+          "link": "https://catonmat.net/15-new-icon-tools",
+          "publishedOn": "2024-10-20T14:46:00.000Z",
+          "wordCount": 238,
+          "title": "We've Added 15 New Icon Tools",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/what-is-usa-browser",
           "author": null,
           "description": "TLDR: Simply visit browserling.com/browse and you'll get a remote browser running in the USA.\nUSA Browser – What Is It?\nA USA browser is a web browser that allows users to access the internet with a United States-based IP address. This can be useful for viewing websites or content that is restricted to the U.S. or for testing how websites appear to American visitors. It's essential for those needing to interact with the web as if they were located in the United States.\nHow Does a USA Browser Work?\nA USA browser works by running as a virtual browser on servers located in the United States. Users access this virtual browser through their own web browser, without needing to install any software. When they use it, all internet traffic is routed through the U.S.-based server, making it appear a…",
@@ -1179,16 +1224,6 @@
           "publishedOn": "2024-10-18T22:03:00.000Z",
           "wordCount": 493,
           "title": "How to Get a USA IP Address",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/columbus-day-sale",
-          "author": null,
-          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated Columbus Day sales campaign.\nNow each year, on the Columbus day, we show a 50% discount offer to all users who visit our site.\nThis year it runs on October 9th, next year on October 14th, etc.\nRun automated sales too and see you next time!",
-          "link": "https://catonmat.net/columbus-day-sale",
-          "publishedOn": "2024-10-14T13:08:00.000Z",
-          "wordCount": 137,
-          "title": "Columbus Day Sale",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
