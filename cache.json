@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49892",
+          "author": "青小蛙",
+          "description": "JetBrains 是一家著名的 IDE 软件开发商，旗下产品包括 IntelliJ IDEA（Java）、PyCharm（Python）、WebStorm（JavaScript）、Rider（.NE",
+          "link": "https://www.appinn.com/jetbrains-webstorm-rider/",
+          "publishedOn": "2024-10-25T08:58:19.000Z",
+          "wordCount": 2790,
+          "title": "JetBrains 宣布 WebStorm 和 Rider 针对非商业用途免费｜RustRover 和 Aqua 也免费",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-25T163703.040.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=49885",
+          "author": "青小蛙",
+          "description": "Eagle 是一款已经诞生8年的素材管理工具，支持 Windows 与 macOS，小众软件介绍过很多次。本月23号，Eagle 在公众号发布消息，将于2024年11月1日调价，由 ¥199 涨价至",
+          "link": "https://www.appinn.com/eagle-price-increase/",
+          "publishedOn": "2024-10-25T06:37:25.000Z",
+          "wordCount": 2838,
+          "title": "著名的海量素材管理工具 Eagle 将于 7 天后涨价｜终身授权 8 年不涨价，终于也撑不住了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-25T113232.349.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49881",
           "author": "青小蛙",
           "description": "Bundlehunt 每年都会有一个几十款 Mac 软件在一起的自选超市式捆绑包，均特价。今年的黑五 Mac 软件优惠捆绑包已经上线了，一共有 45 款 macOS 软件以及 3 款 Windows",
@@ -160,31 +180,6 @@
           "wordCount": 3081,
           "title": "File Browser – 不裹脚的文件分享工具：网页版文件浏览器",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-5.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49299",
-          "author": "青小蛙",
-          "description": "Total Uninstall 是一款专业的卸载清理工具，可帮助我们无残留卸载各类软件。@Appinn 即日起至 10 月 23 日，十月活动期间，Total Uninstall 限时 7 折，仅需",
-          "link": "https://www.appinn.com/total-uninstall-3/",
-          "publishedOn": "2024-10-16T12:55:05.000Z",
-          "wordCount": 2859,
-          "title": "十月特惠！专业卸载清理工具 Total Uninstall 限时 7 折，仅需 41.3 元起｜它还能备份软件、搬家",
-          "enclosure": {
-            "url": "https://static3.appinn.com/images/2024/08/9-ezgif.com-gif-to-mp4-converter.mp4",
-            "length": "120472",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-15T130035.396.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49764",
-          "author": "青小蛙",
-          "description": "copyparty 是一款功能非常丰富的多功能文件服务器，主要用来分享你电脑、服务器、设备里的文件，并通过浏览器、WebDAV、FTP 等方式访问，还支持播放音乐、上传文件、权限设置等功能，几乎可以在",
-          "link": "https://www.appinn.com/copyparty/",
-          "publishedOn": "2024-10-16T09:18:54.000Z",
-          "wordCount": 3074,
-          "title": "copyparty- 老太太裹脚布级别的文件分享工具：WebDAV、FTP、媒体播放等超多功能",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-3.jpg"
         }
       ]
     },
@@ -193,6 +188,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=382039",
+          "author": "Sara Joy",
+          "description": "You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors …\nCome to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/come-to-the-light-dark-side/",
+          "publishedOn": "2024-10-25T14:08:20.000Z",
+          "wordCount": 5418,
+          "title": "Come to the light-dark() Side",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382039"
+        },
+        {
+          "id": "http://css-tricks.com/?p=198099",
+          "author": "Geoff Graham",
+          "description": "A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice.\nImagine a scenario where you need to split a layout in half. Content …\nLeft Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/left-and-right/",
+          "publishedOn": "2024-10-25T11:51:02.000Z",
+          "wordCount": 3318,
+          "title": "Left Half and Right Half Layout – Many Different Ways",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
+        },
         {
           "id": "https://css-tricks.com/?p=382065",
           "author": "Geoff Graham",
@@ -267,16 +282,6 @@
           "wordCount": 1737,
           "title": "Solving Background Overflow With Inherited Border Radii",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381817",
-          "author": "Preethi",
-          "description": "What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …\nClose, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/",
-          "publishedOn": "2024-10-16T14:12:57.000Z",
-          "wordCount": 3431,
-          "title": "Close, Exit, Cancel: How to End User Interactions Well",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381817"
         }
       ]
     },
@@ -319,6 +324,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79595",
+          "author": null,
+          "description": "一颗超新星的爆炸足以清除太阳系中几乎所有的尘埃，而这种情况可能在 300 万年前就已经发生了。就像家具上的灰尘一样，这些细小的颗粒也会逐渐得到补充。太空尘埃是由小行星碰撞等事件产生的小颗粒组成的。这些颗粒的大小通常小于一毫米。太阳系大约 70% 的尘埃集中在柯伊伯带，这是海王星以外的冰质小行星和彗星区域，估计有 350 万亿吨的小颗粒。波士顿大学的研究人员模拟了太阳系附近的超新星爆发。根据地球上冰中放射性铁同位素铁-60 含量的增加，研究人员认为其中一个事件发生在大约 300 万年前。当爆炸同时带走太阳的日光层时，这些同位素就会被释放出来，日光层可以保护太阳系中的行星免受银河系的辐射。",
+          "link": "https://www.solidot.org/story?sid=79595",
+          "publishedOn": "2024-10-25T15:17:31.000Z",
+          "wordCount": 167,
+          "title": "超新星可能清理过太阳系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79594",
+          "author": null,
+          "description": "联合国最新估计预测全球人口将于 2084 年达到 103 亿的峰值。维也纳的 International Institute for Applied Systems Analysis 预测人口将于 2080 年达到 101 亿的峰值，西雅图的 Institute of Health Metrics and Evaluation 预测 2064 年达到 97 亿的峰值。然而现实中的人口出生率比悲观的估计还要差。举例来说，五年前联合国预测到 2023 年韩国新生儿数量 35 万，但实际只有 23 万。哥伦比亚 2023 年出生了 51 万名婴儿，五年内下降 22%，比联合国的预测低 30%。出生率快速下降的通常是富裕发达国家，然而如今很多发展中国家的出生率比发达国家还低。去年墨西哥出生率首次低于美国。研究人员因此估计，全球人口可能会在 2054 年达到 90 亿左右的峰值，比联合国的预测早 30 年。此外目前没有观察到出生率会反弹的迹象。",
+          "link": "https://www.solidot.org/story?sid=79594",
+          "publishedOn": "2024-10-25T14:42:46.000Z",
+          "wordCount": 201,
+          "title": "人口峰值可能会更快到来",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79593",
+          "author": null,
+          "description": "知名导演蒂姆波顿（Tim Burton）正在英国伦敦举办“World of Tim Burton”展，他接受采访表示互联网让他倍感忧郁。他称自己是技术恐惧者(technophobe)，上网会让他感觉陷入了深坑，害怕而且感觉糟糕。波顿以执导《蝙蝠侠》、《剪刀手爱德华》、《查理和巧克力工厂》和《爱丽丝梦游仙境》，以及《阴间大法师》系列闻名。他说忙碌起来做些简单的事情会让自己感觉良好，他举例说看看云，欣赏后院放置的十个巨型恐龙模型。波顿认为怪物比人类更具情感，而人类更让他感到害怕。",
+          "link": "https://www.solidot.org/story?sid=79593",
+          "publishedOn": "2024-10-25T14:23:15.000Z",
+          "wordCount": 160,
+          "title": "蒂姆波顿称互联网让他倍感抑郁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79592",
+          "author": null,
+          "description": "美国国会议员对大型超市如 Kroger 和沃尔玛普及数字价格标签技术表达担忧，认为日用食品如鸡蛋和牛奶的定价可能会被动态变化，而超市可能会将面部识别数据作为定价因素之一。Kroger 和沃尔玛都对此予以否认。Kroger 表示没有计划实施动态定价或使用面部识别软件；沃尔玛表示无动态定价计划，面部识别不会用于影响定价。沃尔玛在美国有 4,606 家门店，Kroger 在美国有近 2,800 家门店。两家公司表示数字价格标签的影响被夸大了。隐私专家仍然对新技术在超市的普及表达了担忧。",
+          "link": "https://www.solidot.org/story?sid=79592",
+          "publishedOn": "2024-10-25T11:33:01.000Z",
+          "wordCount": 169,
+          "title": "Kroger 和沃尔玛否认会使用数字价格标签动态定价",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79591",
+          "author": null,
+          "description": "Linux 项目以合规为由移除了多名俄罗斯维护者，但没有对合规的理由进行澄清。其中一位受影响维护者 Serge Semin 在内核邮件列表上发表了一份长长的告别邮件，资深内核开发者 James Bottomley 随后澄清 Linux 项目是根据美国财政部海外资产控制办公室（OFAC）的特别指定国民清单（SDN）制裁名单移除俄罗斯维护者。如果俄罗斯维护者所在的公司列入 OFAC 的 SDN 清单，受 OFAC 制裁计划的约束，或者由清单上的公司拥有/控制，那么 Linux 项目与维护者合作的能力将受到限制。Bottomley 说，律师们还在讨论细节，会在未来制作一份更长的政策文件。资深 EXT4 维护者 Ted Ts'o（曹子德）还因此讨论了是否应该将华为开发者移除出维护者名单，华为也被美国列入了制裁名单。",
+          "link": "https://www.solidot.org/story?sid=79591",
+          "publishedOn": "2024-10-25T10:12:03.000Z",
+          "wordCount": 192,
+          "title": "Linux 项目根据 OFAC 制裁名单移除俄罗斯维护者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79590",
+          "author": null,
+          "description": "高盛集团分析了光伏面板、锂离子电池、空调、电动汽车、建筑机械、钢铁、功率半导体的供需动向。其中除钢铁和功率半导体以外，其他  5 个行业都陷入了全球水平的产能过剩。产能过剩最为严重的是光伏面板。中国的供应能力达到 1036 吉瓦，这是 2023 年全球需求（533 吉瓦）的 1.9 倍。预计 2024 年以后中国的供应能力会继续高于全球需求。中国的电动汽车产能已达到全球EV需求的 1.2 倍。锂电池的供应能力是国内需求的 3.3 倍、全球需求的 1.5 倍。",
+          "link": "https://www.solidot.org/story?sid=79590",
+          "publishedOn": "2024-10-25T09:19:22.000Z",
+          "wordCount": 181,
+          "title": "报告称中国 5 个行业产能超过全球需求",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79589",
+          "author": null,
+          "description": "在结束新冠疫情封锁政策后，全世界的碳排放正以比疫情前更快的速度增长。2023 年排放量增长 1.3% 达到 57.1 千兆吨二氧化碳当量，这一数字远高于 2010-2019 年期间的增长率，疫情前十年碳排放平均每年增长 0.8%。目前的全球温室气体排放量仅略低于 2019 年创记录的 59.1 千兆吨峰值。联合国全球环境规划署本周四发表了《2024年排放差距报告》，除了土地使用所有温室气体排放源都在增加。随着经济继续从新冠疫情中复苏，2023 年公路运输排放量、石油和天然气基础设施如管道泄漏以及工业排放量都在快速增长，而航空排放量增长了 19.5%。",
+          "link": "https://www.solidot.org/story?sid=79589",
+          "publishedOn": "2024-10-25T09:11:25.000Z",
+          "wordCount": 171,
+          "title": "碳排放增长速度超过了疫情前",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79588",
+          "author": null,
+          "description": "2024 年 Salem 奖授予了 Miguel Walsh 和王艺霖。Salem 奖是为了纪念提出 Salem 数以及 Salem–Spencer 集合的希腊数学家 Raphael Salem，由其遗孀创立，普林斯顿高等研究院数学学院负责颁发，主要授予在分析领域做出杰出贡献的年轻数学家，很多菲尔茨奖得主都获得过该奖项。Miguel Walsh 是阿根廷数学家，他因为在遍历理论、解析数论和多项式方法等方面的贡献而获奖；王艺霖是中国数学家，出生于 1991 年，明年将任教于瑞士苏黎世联邦理工学院，她因为在复分析、概率和数学物理之间建立深层新颖的联系而获奖。",
+          "link": "https://www.solidot.org/story?sid=79588",
+          "publishedOn": "2024-10-25T08:51:04.000Z",
+          "wordCount": 198,
+          "title": "2024 年 Salem 奖授予了 Miguel Walsh 和王艺霖",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79587",
+          "author": null,
+          "description": "波音公司麻烦缠身，它制造的一颗通信卫星最近在太空爆炸。国际通信卫星公司的 Intelsat 33e 卫星于 2016 年发射，为欧洲、亚洲和非洲提供通信服务，上周末这颗卫星出现了异常。国际通信卫星公司尝试与波音公司合作修复卫星，但本周一美国太空军证实卫星已经解体。卫星解体导致了部分国际通信卫星公司的客户失去通信服务，该公司正与第三方服务提供商合作限制服务中断，并与客户保持沟通。美国太空军正在跟踪大约 20 块碎片，表示碎片不构成迫在眉睫的威胁，正对其进行例行安全评估。而俄罗斯航天局 Roscosmos 称它跟踪到了愈 80 块卫星碎片，称对碎片轨迹的分析显示卫星的破坏是“瞬间而且高能”。",
+          "link": "https://www.solidot.org/story?sid=79587",
+          "publishedOn": "2024-10-25T06:44:45.000Z",
+          "wordCount": 167,
+          "title": "波音制造的一颗卫星在太空爆炸",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79586",
+          "author": null,
+          "description": "Verisign 和 ICANN 更新了 DNS Root Zone 维护者服务协议，任期为八年。在 DNS 的层次结构中，Root Zone 位于最上方，对几乎所有互联网导航都至关重要，充当了 DNS 中所有顶级域名的动态、加密安全和全局的目录。Root Zone 维护者是一个独一无二的角色，确保每天至少对 Root Zone 进行一次加密签名和发布，没有它互联网上的导航将是不可能的。",
+          "link": "https://www.solidot.org/story?sid=79586",
+          "publishedOn": "2024-10-25T06:16:39.000Z",
+          "wordCount": 202,
+          "title": "Verisign 和 ICANN 更新了 DNS Root Zone 维护者服务协议",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79585",
           "author": null,
@@ -1077,126 +1182,6 @@
           "publishedOn": "2024-10-16T14:43:44.000Z",
           "wordCount": 164,
           "title": "突触变化将多次获胜的小鼠变成恶霸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79508",
-          "author": null,
-          "description": "IDC 的数据显示，三季度全球智能手机出货量同比增长 4% 至 3.161 亿部。尽管面临全球经济放缓的担忧，这是智能手机出货量连续五个季度增长。苹果出货量同比增长了 3.5%，加上 vivo、OPPO、小米、联想和华为等中国手机厂商的强劲增长，智能手机市场展现出了弹性。三星出货量为 5780 万部，同比下降 2.8%，但仍然保持着第一的市场份额，该公司在高端市场的份额继续扩大。苹果出货量 5600 万部同比增长 3.5%，市场份额 17.7%。排在之后的包括了小米、OPPO、vivo 等中国厂商。",
-          "link": "https://www.solidot.org/story?sid=79508",
-          "publishedOn": "2024-10-16T14:20:48.000Z",
-          "wordCount": 176,
-          "title": "三季度智能手机出货量增长 4%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79507",
-          "author": null,
-          "description": "新研究表明，青少年焦虑和抑郁程度的升高与社媒使用密切相关。牛津大学的初步研究发现，约六成的 16-18 岁青少年每天在社交媒体网站上花费 2-4 个小时。最极端的情况下，有青少年报告社媒使用时间长达 8 小时。研究发现，女孩报告的心理健康问题比男孩多，最常用的五大社交媒体平台是 Instagram、Snapchat、TikTok、WhatsApp 和 YouTube。报告称，仅仅增加睡眠和加强锻炼就能大大改善这一年龄段人群的心理健康。研究发现，\n“agency”——定义为对行动及其后果的控制感——与心理健康密切相关。“当 agency 较低时焦虑和抑郁会升高，而当 agency 较高时焦虑和抑郁会降低。",
-          "link": "https://www.solidot.org/story?sid=79507",
-          "publishedOn": "2024-10-16T10:04:14.000Z",
-          "wordCount": 170,
-          "title": "青少年社媒使用与焦虑和抑郁强相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79506",
-          "author": null,
-          "description": "日本总务省公布了 65 岁以上老年人的统计数据。2023 年日本 6 5岁以上老年人的就业人数比 2022 年增加 2 万人，达到 914 万人，创出历史新高。日本老年人的就业率为 25.2%，如果仅限于 65～69 岁年龄段则达到52%，2 人里就有 1 人在工作。在日本，延迟退休的企业增加，老年人的工作环境逐渐完善。老年劳动者将缓解人手短缺的局面。从各年龄段的就业率来看，60～64 岁为 74%，70～74 岁为 34%，75 岁以上的高龄老年人为 11.4%。大部分老年人在批发业、零售业工作。",
-          "link": "https://www.solidot.org/story?sid=79506",
-          "publishedOn": "2024-10-16T09:41:11.000Z",
-          "wordCount": 196,
-          "title": "日本继续工作的 65 岁以上老年人数量超 900 万",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79505",
-          "author": null,
-          "description": "即将于 11 月运行 50 年的日本高滨核电站 1 号机组获准继续运行 10 年，它成为日本国内首个批准运行超过 50 年的民用核反应堆。高滨 1 号机组是日本国内最老的核电机组。在获得运行 60 年批准后，如果想继续再运行 20 年则需要每隔 10 年重新获得批准。高滨核电站 1 号机组是从 1974 年 11 月 14 日开始运营。",
-          "link": "https://www.solidot.org/story?sid=79505",
-          "publishedOn": "2024-10-16T09:34:06.000Z",
-          "wordCount": 198,
-          "title": "日本高滨核电站 1 号机组获准运行超过 50 年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79504",
-          "author": null,
-          "description": "NASA、NOAA 和 Solar Cycle Prediction Panel 周二宣布，太阳活动进入极大期，预计会持续到明年。太阳周期是太阳在高低磁场活动之间转变的自然周期，一个周期平均约 11 年。在太阳磁场活动的高峰期，磁极会发生翻转，这相当于地球南北磁极互换。在太阳活动极小期，其表面几乎没有黑子；而在极大期，黑子会大量出现。2024 年 5 月，太阳耀斑持续爆发，日冕物质抛射 (CME) 向地球发射带电粒子云和磁场，形成了 20 年以来地球最强的地磁风暴，产生了可能也是过去 500 年有记录以来最强的极光。科学家预计，太阳活动高峰期将持续一年左右，之后太阳将进入活动的低谷。",
-          "link": "https://www.solidot.org/story?sid=79504",
-          "publishedOn": "2024-10-16T08:49:05.000Z",
-          "wordCount": 173,
-          "title": "太阳活动进入极大期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79503",
-          "author": null,
-          "description": "最大的网络广告商准备杀死最流行的广告屏蔽扩展。uBlock Origin 作者 Raymond Hill 在社媒上转发了一张截图，显示 Chrome 浏览器以不再支持的理由自动禁用了 uBlock Origin。uBlock Origin 是基于 Manifest V2 的扩展，Google 正在淘汰 Manifest V2 强推限制更多的 Manifest V3，Raymond Hill 已经开发了基于 V3 的精简版本 Ublock Origin lite（uBOL），因 V3 的限制 uBOL 在功能上弱于 uBlock Origin。Google 发言人在一份声明中对此表示，Chrome Web Store 中逾 93% 活跃维护的扩展已在使用 Manifest V3。",
-          "link": "https://www.solidot.org/story?sid=79503",
-          "publishedOn": "2024-10-16T07:36:07.000Z",
-          "wordCount": 214,
-          "title": "Google Chrome 开始自动禁用 uBlock Origin",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79502",
-          "author": null,
-          "description": "2024 年度诺贝尔经济学奖授予了 MIT 的 Daron Acemoglu 和 Simon Johnson，以及芝加哥大学的 James A. Robinson，以表彰他们对制度如何形成并影响繁荣的研究。三位经济学家证明了社会制度对国家繁荣的重要性。法治薄弱、制度剥削民众的社会不会带来增长或变得更好。当欧洲人殖民全球大部分地区时，这些地区的社会制度也发生巨变。但发生变化的方式并不相同。殖民者在部分地方的目的是剥削和榨取资源。在另外一些地方，殖民者则建立了包容性的政治和经济体系，以在长期让其移民受益。导致各国繁荣程度不同的原因之一就是殖民时期引入的社会制度。他们在贫穷的国家往往引入了包容性制度，随着时间的推移，人口普遍繁荣。这是为什么曾经富裕的殖民地变得贫穷，反之亦然的重要原因。引入包容性制度将为所有人带来长期利益，但榨取性制度只会为当权者带来短期利益。只要政治制度保证他们继续掌权，没人会相信他们未来会进行经济改革的承诺。这是社会不会变得更好的原因。",
-          "link": "https://www.solidot.org/story?sid=79502",
-          "publishedOn": "2024-10-16T06:35:14.000Z",
-          "wordCount": 167,
-          "title": "诺贝尔经济学奖授予了证明制度对国家繁荣重要性的三位经济学家",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79501",
-          "author": null,
-          "description": "AMD 和英特尔宣布组建一个 x86 生态系统顾问团队，推动两家公司在 x86 架构实现上有更高的一致性。x86 生态系统某种程度上由 AMD 和英特尔共同开发，但两家公司保持着距离，导致了部分指令集架构存在低效和偏差问题。高级矢量扩展指令集（Advanced Vector Extensions 或 AVX）就是一个典型例子，AVX-512 在多年里只能通过英特尔平台使用，AMD 是从 2022 年的 Zen 4 起加入了对 AVX-512 的初步支持，今年发布的 Zen 5 才完整支持 512 位数据路径。x86 生态系统顾问团队包括了博通、戴尔、Google、HPE、惠普、联想、Meta、微软、甲骨文、Red Hat 以及 Linux 的 Linus Torvalds 和 Epic 的 Tim Sweeney 等。AMD 和英特尔的合作至少一年内不会在双方的产品中表现出来。",
-          "link": "https://www.solidot.org/story?sid=79501",
-          "publishedOn": "2024-10-16T05:14:30.000Z",
-          "wordCount": 209,
-          "title": "AMD 和英特尔宣布在 x86 架构实现上展开合作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79500",
-          "author": null,
-          "description": "MobileCoin 首席产品官、Square 前 CTO、Cash App 创始人 Bob Lee 于 2023 年 4 月 4 日凌晨在旧金山遇刺身亡。在 Java 社区他有 Crazy Bob 之称，他的死亡在科技行业引发了广泛关注。本周一此案开始进行审理。凶手 Nima Momeni 是他认识的人，Bob 与其已婚妹妹 Khazar 是朋友，检方称遇刺当晚两人都在 Khazar 的公寓中，Momeni 与妹妹发生了争执，从妹妹公寓中拿了把刀，然后驾车将 Lee 带到僻静的地方捅了三刀后逃离。辩方律师则声称吸毒后神志恍惚的 Lee 拿刀袭击了 Momeni，Momeni 是自卫。Momeni 目前拒绝认罪，如果罪名成立，将面临 26 年到终身监禁。",
-          "link": "https://www.solidot.org/story?sid=79500",
-          "publishedOn": "2024-10-15T16:12:58.000Z",
-          "wordCount": 205,
-          "title": "硅谷高管 Bob Lee 遇刺案本周开始审讯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79499",
-          "author": null,
-          "description": "之前的实验表明，智能手机中的陀螺仪和加速计等惯性测量单元（IMU），可以通过检测声波振动监听对话。这意味着，即使是一个没有开启麦克风权限的应用程序也可以通过 IMU 获得对话内容。为了不让攻击者获得准确信息，Google 将 Android 应用从 IMU 采样数据的频率限制在每秒 200 次，使攻击者无法准确获得对话内容。根据发表在预印本平台 arXiv 上的预印本，研究人员发现了一个漏洞——通过欺骗陀螺仪和运动传感器在时间上稍微偏移地进行测量，将应用实际采样率从每秒 200 次提高到 400 次，可以突破上述保护措施。利用这种方法，攻击者能修复获得的音频量大大提升。与每秒仅采集 200 个样本相比，他们的方法在 AI 转录时单词错误率降低了 83%。这表明，目前的安全保护措施“不足以防止复杂的窃听攻击发生”，应该对其重新评估。",
-          "link": "https://www.solidot.org/story?sid=79499",
-          "publishedOn": "2024-10-15T15:48:56.000Z",
-          "wordCount": 185,
-          "title": "将 Android 手机变成监听工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79498",
-          "author": null,
-          "description": "在欧盟和印度等国和地区之后，英国考虑将 USB-C 作为消费设备的通用充电端口。英国商务贸易部下辖的产品安全和标准办公室（Office for Product Safety and Standards）发表声明，呼吁制造商、进口商、分销商和贸易协会就此事发表意见。欧盟此前要求到 2024 年底移动设备制造商必须采用 USB-C 通用充电端口，沙特宣布到 2025 年所有电子设备使用 USB-C 充电端口，印度要求在 2025 年 3 月前智能手机等移动设备必须有一个 USB-C 充电端口。",
-          "link": "https://www.solidot.org/story?sid=79498",
-          "publishedOn": "2024-10-15T15:25:30.000Z",
-          "wordCount": 185,
-          "title": "英国考虑将 USB-C 作为通用充电端口",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79497",
-          "author": null,
-          "description": "世界上第一个 BBS-CBBS 公告板共同发明人 Ward Christensen 于 10 月 11 日在美国伊利诺伊州 Rolling Meadows 去世，享年 78 岁。Christensen 与 Randy Suess 于 1978 年在芝加哥创建了第一个 BBS，引领了数字社区建设的重要文化时代，预示了今天的网络世界。Christensen 是一个低调的人，从不寻求关注，虽然创造了数字时代的基础性技术，但一生都保持低调，他在 IBM 工作一直到退休。他是在家中去世的，死因没有公布。在创造 BBS 前，他发明了文件传输技术 XMODEM，将二进制文件分解为数据包并确保每个数据包通过有时不太稳定的模拟电话线安全传输，它让 BBS 成为可能，启发了其它文件传输协议，推动了在线文件共享的发展。",
-          "link": "https://www.solidot.org/story?sid=79497",
-          "publishedOn": "2024-10-15T15:09:08.000Z",
-          "wordCount": 209,
-          "title": "BBS 共同发明人 Ward Christensen 去世，享年 78 岁",
           "imageUrl": null
         }
       ]
