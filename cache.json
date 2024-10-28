@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=49899",
+          "author": "青小蛙",
+          "description": "Arc 浏览器自从诞生之日起就争议不断，似乎陷入了一种奇怪的境地：忠实用户视其为浏览器里的新发明，越用越爱；普通用户视其为洪水猛兽，一点也不喜欢他们的「炒作方式」。现在其背后的开发商 The Brow",
+          "link": "https://www.appinn.com/is-arc-browser-over/",
+          "publishedOn": "2024-10-27T10:16:06.000Z",
+          "wordCount": 2723,
+          "title": "Arc 浏览器将停止开发？又要发布一款新浏览器？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-27T175147.231.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=49895",
           "author": "青小蛙",
           "description": "胡闹搬家（Moving Out）是一款需要多人配合的搬家游戏，玩家需要一起搬运沙发、冰箱，并且绕过障碍物，非常考验玩家默契度。目前在 Epic 游戏商店限免，注意是 1 代。@Appinn 胡闹搬家是",
@@ -160,26 +170,6 @@
           "wordCount": 3090,
           "title": "Send – 最大 2.5GB 的私密文件分享工具，源自  Firefox Send 项目的",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-18T215541.653.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49769",
-          "author": "青小蛙",
-          "description": "DearMob iPhone Manager 是一款适合于 Windows、macOS 使用的 iPhone/iPad 照片、视频传输，以及整机备份恢复、换机工具。目前正在限免，不要错过。@",
-          "link": "https://www.appinn.com/dearmob-iphone-manager-2/",
-          "publishedOn": "2024-10-18T08:00:42.000Z",
-          "wordCount": 2887,
-          "title": "限免：DearMob iPhone Manager – iPhone/iPad 照片、视频传输，应用安装、整机备份恢复、换机工具[Win/macOS]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-18T154720.909.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=49792",
-          "author": "青小蛙",
-          "description": "ChatGPT 昨天发布了针对 ChatGPT Plus、Enterprise、Team 和 Edu 用户的 Windows 客户端，属于早期测试版本，只需要快捷键 Alt + 空格 就能快速使用 C",
-          "link": "https://www.appinn.com/chatgpt-early-version-of-the-windows-app/",
-          "publishedOn": "2024-10-18T03:38:54.000Z",
-          "wordCount": 2749,
-          "title": "ChatGPT 为付费用户发布 Windows 桌面客户端｜早期测试版本",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-18T111821.434.jpg"
         }
       ]
     },
@@ -252,36 +242,6 @@
           "wordCount": 5808,
           "title": "Unleash the Power of Scroll-Driven Animations",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381613"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381832",
-          "author": "Ryan Trimble",
-          "description": "Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.\nIf you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …\nCombining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/combining-forces-gsap-webflow/",
-          "publishedOn": "2024-10-18T13:09:22.000Z",
-          "wordCount": 1596,
-          "title": "Combining forces, GSAP & Webflow!",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381832"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381882",
-          "author": "Geoff Graham",
-          "description": "I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …\nMastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/mastering-theme-json-you-might-not-need-css/",
-          "publishedOn": "2024-10-18T11:36:04.000Z",
-          "wordCount": 1632,
-          "title": "Mastering theme.json: You might not need CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381882"
-        },
-        {
-          "id": "https://css-tricks.com/?p=381763",
-          "author": "Zell Liew",
-          "description": "One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …\nSolving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/",
-          "publishedOn": "2024-10-17T15:24:02.000Z",
-          "wordCount": 1737,
-          "title": "Solving Background Overflow With Inherited Border Radii",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381763"
         }
       ]
     },
@@ -324,6 +284,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79604",
+          "author": null,
+          "description": "AI 有多火爆，最大 AI 芯片供应商英伟达的市值是最明显的体现。英伟达周五短暂取代苹果成为全球市值最高的企业。英伟达的市值一度达到 3.53 万亿美元，略高于苹果的 3.52 万亿美元。这不是英伟达第一次成为全球市值最高的企业。它在今年 6 月也一度称雄全球市值，但之后被微软和苹果超越，三家公司的市值过去几个月处于不相上下的胶着状态。周五收盘时英伟达的市值未能维持其峰值，跌至 3.47万亿美元，苹果仍然是第一的 3.52 万亿美元.",
+          "link": "https://www.solidot.org/story?sid=79604",
+          "publishedOn": "2024-10-27T16:17:35.000Z",
+          "wordCount": 168,
+          "title": "英伟达市值超过苹果",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79603",
+          "author": null,
+          "description": "埃及博主 Alaa Abd El Fattah 是一位活跃的民主人士，同时也是埃及开源运动的积极倡导者。2014 年，他因未经授权组织政治抗议活动被捕，之后获准保释，但重审后被判处五年监禁。他于 2019 年 3 月获释，但 9 月再次被国家安全局以传播虚假新闻的罪名逮捕，被判入狱五年。他本应该于今年 9 月 29 日重获自由，然而 28 天之后他仍然身陷囹圄。埃及政府拒绝在刑期结束之后释放他，这违反了该国的《刑事诉讼法》。《刑事诉讼法》要求将审前拘留时间计算在服刑时间内，但埃及当局拒绝这么做。人权观察、国际特赦组织和电子前哨基金会（EFF）都呼吁释放他。",
+          "link": "https://www.solidot.org/story?sid=79603",
+          "publishedOn": "2024-10-27T15:55:19.000Z",
+          "wordCount": 174,
+          "title": "埃及博主在释放日之后仍然被关押",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79602",
+          "author": null,
+          "description": "新加坡官员批准了全球最大的可再生能源和输电项目。该项目首先在澳大利亚北领地州（Northern Territory）建造大型太阳能发电场，向该州首府达尔文输送清洁能源，将部分电力通过海底电缆出口到 4300 公里外新加坡。被称为 Powell Creek 的澳大利亚亚洲电力连接项目设计峰值太阳能装机容量为 20 GW，电池储存容量 36-42 GWh，预计首批清洁电力将于 2030 年代初开始供应。",
+          "link": "https://www.solidot.org/story?sid=79602",
+          "publishedOn": "2024-10-27T14:55:05.000Z",
+          "wordCount": 168,
+          "title": "新加坡将通过海底电缆从澳大利亚进口太阳能",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79601",
           "author": null,
@@ -1012,106 +1002,6 @@
           "publishedOn": "2024-10-18T14:58:39.000Z",
           "wordCount": 213,
           "title": "OpenAI 和微软的紧密关系出现裂缝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79531",
-          "author": null,
-          "description": "1995 年加州理的研究人员发现了第一颗棕矮星 Gliese 229 B。当时就发现 Gliese 229 B 的大气中含有甲烷，这是木星等气体巨行星的典型现象，但却不是恒星的典型现象，这一发现标志着首次确认了一类被称为棕矮星的冷却类恒星天体，这些天体是行星和恒星之间的缺失环节。自发现至今已有数百篇关于它的论文发表，但它一直存在着一个谜团，即它的亮度与其质量不符。棕矮星介于恒星和巨行星之间，比恒星轻，但比像木星这样的气体巨行星重。天文学家测得 Gliese 229 B 的质量约是木星的 70 倍，但这样质量的天体应该比观测到的更亮才对。现在由加州理工领导的国际研究团队终于揭开了这个谜团，这颗棕矮星实际上是一对紧密相连的棕矮星，它们的质量分别是木星质量的 38 倍和 34 倍，并每隔 12 天绕彼此旋转一次。",
-          "link": "https://www.solidot.org/story?sid=79531",
-          "publishedOn": "2024-10-18T10:21:07.000Z",
-          "wordCount": 189,
-          "title": "Gliese 229 B 被发现是一对棕矮星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79530",
-          "author": null,
-          "description": "马萨诸塞州的一学区被学生父母起诉，原因是该生使用 AI 聊天机器人完成历史论文而受罚，然而父母认为学生手册没有包含使用 AI 的限制。Jennifer Harris 及其丈夫 Dale 在 Plymouth 县高等法院提起诉讼，案件随后转给了马萨诸塞州地区法院。被告包括了学区负责人、校长、一名教师、历史系主任和校委会。学生使用首字母缩写被称为 RNH，诉讼指控被告侵犯了学生的公民权利。而学校表示虽然学生手册没有提及 AI，但该校在 2023 年秋季向包括 RNH 在内的学生发布了一份包括有关学术不端和 AI 期望书面政策的文本，禁止学生在课堂考试和作业中使用 AI 工具，除非明确允许和指示。家长则抱怨使用 AI 产生想法不是作弊，由于使用 AI 工具 RNH 作业多个部分被评为零分，导致大学先修课程平均得分下降，影响到了 RNH 申请大学。",
-          "link": "https://www.solidot.org/story?sid=79530",
-          "publishedOn": "2024-10-18T10:00:45.000Z",
-          "wordCount": 192,
-          "title": "高中生因使用 AI 受罚，其父母随后起诉教师和校长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79529",
-          "author": null,
-          "description": "一种结合 ReCET (Re-Cellularization via Electroporation Therapy) 和塞马格鲁肽（semaglutide）的新疗法能消除 2 型糖尿病患者对胰岛素的需求，参与研究的 86% 的患者不再需要注射胰岛素。全世界有 4.22 亿人受到 2 型糖尿病影响。最新的人体临床试验共有 14 人参加，年龄 28- 75 岁之间，体重指数在 24-40 kg/m² 之间。参与者首先在深度镇静下接受 ReCET 手术，该疗法旨在提高人体对自身胰岛素的敏感性。术后参与者坚持两周的等热量流质饮食，之后逐渐将塞马格鲁肽过度到 1mg/周。6 个月和 12 个月的随访中，86% 的参与者（14 人中的 12 人）不再需要胰岛素治疗，并成功保持了 24 个月。",
-          "link": "https://www.solidot.org/story?sid=79529",
-          "publishedOn": "2024-10-18T09:20:25.000Z",
-          "wordCount": 198,
-          "title": "新疗法能消除 2 型糖尿病患者对胰岛素的需求",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79528",
-          "author": null,
-          "description": "马斯克(Elon Musk)可能面临巨额罚款，因为欧洲监管机构考虑将这位亿万富翁商业帝国的收入纳入对社交媒体平台 X 的潜在罚款计算内。根据欧盟《数字服务法》(DSA)的规定，未能遏制非法内容和虚假信息的公司将面临最高达其全球年营业额 6% 的罚款。这项立法旨在制定科技公司如何监管互联网的规则。知情人士表示，欧盟考虑将 SpaceX、Neuralink、xAI 和 Boring Company 以及 X 的收入包含在罚款计算中，特斯拉不包含在内，因为它是一家上市公司，不完全受马斯克控制。知情人士称，欧盟委员会实际上是在考虑是否将马斯克本人视为罚款对象。欧盟委员会是在 7 月初步裁定 X 违反了《数字服务法》。",
-          "link": "https://www.solidot.org/story?sid=79528",
-          "publishedOn": "2024-10-18T07:48:49.000Z",
-          "wordCount": 180,
-          "title": "欧盟考虑将马斯克其他公司的收入纳入 X 的潜在罚款计算内",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79527",
-          "author": null,
-          "description": "NASA 本周宣布了未来一年的商业载人飞行任务：2025 年 2 月之前 SpaceX 执行 Crew-10 任务，2025 年 7 月之前 SpaceX 执行 Crew-11 任务。NASA 原计划明年初波音 Starliner 飞船执行首次商业载人飞行任务，但今年 6 月的载人飞行测试被证明是一场灾难，波音距离完成飞行认证还很遥远。NASA 表示计划明年某个时间进行 Starliner 试飞，但暂时不清楚这一次测试是否载人或者是否会飞往国际空间站。NASA 在 2014 年授予了波音和 SpaceX 商业载人飞行合同，SpaceX 过去四年已经执行了九次载人飞行任务，而波音至今认证还没有完成。",
-          "link": "https://www.solidot.org/story?sid=79527",
-          "publishedOn": "2024-10-18T07:13:23.000Z",
-          "wordCount": 197,
-          "title": "NASA 冻结波音 Starliner 任务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79526",
-          "author": null,
-          "description": "香港警方宣布在暗语行动中捣破了位于红磡工厦单位的跨境诈骗中心，拘捕 27 人，主脑为 29 岁，据称有黑帮背景。诈骗基地运作约 1 年，受害人除了港人，亦有台湾、印度、新加坡及马来西亚等地人士受骗，总损失金额逾 3.6 亿港元。诈骗集团为令受害人深信不疑，会招募一些本地大学主修数码媒体的毕业生作为“科技专员”，亦伙同海外诈骗分子及信息科技专才搭建虚假加密货币投资平台，继而以网上情缘作为开始，与受害人在社交平台初步接触后，传送透过 AI 生成的相片，以塑造良好外形、性格、职业、学历等人物设定，又以深度伪造 AI 科技进行视频对话， 受害人一直误以为与条件优越的女士恋爱，其实是与男骗徒对话。",
-          "link": "https://www.solidot.org/story?sid=79526",
-          "publishedOn": "2024-10-18T06:43:56.000Z",
-          "wordCount": 178,
-          "title": "香港诈骗集团用 AI 深度伪造欺骗受害者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79525",
-          "author": null,
-          "description": "Meta 在洛杉矶解雇了 20 多名员工，原因是他们用每天 25 美元的餐费抵用券购买了祛痘贴、酒杯和洗衣粉等家居用品。Meta 和大多数大型科技公司一样，为在总部工作的员工提供免费食物。对于那些在小型办公室没有食堂地方工作的员工，Meta 提供了 Uber Eats 或 Grubhub 的餐费抵用券，早餐补贴为 20 美元，午餐和晚餐为 25 美元。一位知情人士表示，被解雇的员工被认为长期滥用餐补系统。部分人将餐补集中使用，部分人将餐券购买的食物送到家中而不是办公室，还有人用抵用券购买了牙膏和茶等物品。承认违反公司政策的前员工表示，他们的薪水在 40 万美元左右，经常需要晚上和周末办公。在被解雇前他们向调查这一做法的人力资源部门承认了错误，但因此被解雇让他们感到难以置信。",
-          "link": "https://www.solidot.org/story?sid=79525",
-          "publishedOn": "2024-10-18T06:28:37.000Z",
-          "wordCount": 186,
-          "title": "Meta 解雇了 20 多名用餐券购买家庭用品的员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79524",
-          "author": null,
-          "description": "有观点称，鱼类养殖是一种可持续的食物来源，能在保护野生鱼类种群的同时，帮助养活全球日益增长的人口，但事实并非如此。研究人员发现，为养殖鱼类而捕杀的野生鱼类数量比先前的估计高出 27% 至 307%。养殖食肉鱼类所需的野生鱼重量远远超过通过养殖获得的重量。例如生产 1 公斤养殖三文鱼可能需要消耗 4 到 5 公斤的野生鱼类。此外，增加食肉鱼类饲料中的植物性产品比例，或者养殖杂食性或草食性鱼类，也会引发一系列新问题。如果本应供人类食用的植物性食物被用于养鱼，那么生产鱼饲料将需要更多的土地和水资源，从而导致诸如森林砍伐等问题。",
-          "link": "https://www.solidot.org/story?sid=79524",
-          "publishedOn": "2024-10-17T15:58:51.000Z",
-          "wordCount": 167,
-          "title": "养殖鱼比野生捕捞更不可持续",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79523",
-          "author": null,
-          "description": "《连线》的调查发现，Telegram 上至少有 50 个机器人程序提供了创建深度伪造色情的功能，用户只需点击几下就能创建裸露的照片或视频，部分机器人程序声称能移除照片中的衣服。《连线》发现这 50 个机器人程序的月用户数超过 400 万，其中两个机器人的月活跃用户数都超过 40 万，14 个机器人月活跃用户都超过 10 万。它的调查只涉及英语机器人，可能只占到 Telegram 深度伪造机器人的一小部分。《连线》发现这些机器人程序得到了至少有 25 个相关 Telegram 频道的支持，这些频道共有逾 300 万名成员。在《连线》联系 Telegram 之后，该公司删除了 75 个机器人和频道，但没有对此发表评论。",
-          "link": "https://www.solidot.org/story?sid=79523",
-          "publishedOn": "2024-10-17T15:55:11.000Z",
-          "wordCount": 192,
-          "title": "Telegram 有数百万用户利用 AI 制作深度伪造色情",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79522",
-          "author": null,
-          "description": "美国起诉了两名 Anonymous Sudan 成员，他们被控对微软、OpenAI、Riot Games、PayPal、Steam、Hulu、Netflix、Reddit、GitHub 和 Cloudflare 等科技公司，以及美国司法部、国防部、国务院等政府机构和 Cedars-Sinai 医院发动持续的 DDoS 攻击。22 岁的 Ahmed Salah Yousif Omer 和 27 岁的 Alaa Salah Yusuuf Omer 是一对兄弟，他们被控合谋破坏计算机罪，两兄弟之一还受到导致他人死亡的指控。如果所有罪名成立，Ahmed Salah 面临最高终身监禁，Alaa Salah 面临最高五年徒刑。Anonymous Sudan 提供了 DDoS 服务，共发动了逾 3.5 万次攻击。美国检方没有披露两人身在何地，以及是否出庭。",
-          "link": "https://www.solidot.org/story?sid=79522",
-          "publishedOn": "2024-10-17T15:35:30.000Z",
-          "wordCount": 202,
-          "title": "美国起诉了两名 Anonymous Sudan 成员",
           "imageUrl": null
         }
       ]
