@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-10-30T02:49:41.292Z</updated>
+    <updated>2024-10-31T02:50:54.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[State of CSS 2024 Results]]></title>
+        <id>https://css-tricks.com/?p=382144</id>
+        <link href="https://css-tricks.com/state-of-css-2024-results/"/>
+        <updated>2024-10-30T16:43:55.000Z</updated>
+        <summary type="html"><![CDATA[The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.
+State of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果将 M4 Mac Mini 电源按钮移至底部]]></title>
+        <id>https://www.solidot.org/story?sid=79636</id>
+        <link href="https://www.solidot.org/story?sid=79636"/>
+        <updated>2024-10-30T15:28:56.000Z</updated>
+        <summary type="html"><![CDATA[苹果更新了多款新品，它终于悄悄承认 8GB 内存在 2024 年实在是太少了，因此今天其产品配备的内存最低都是 16GB。然而它的一些硬件设计引发了争论。配备 M4 处理器的新款 Mac mini 修改了电源按钮位置，用户需要略微抬高电脑才能按下电源开机，这略微增加了开关机的复杂度。苹果的新款 Magic Mouse 鼠标情况类似，沿用了底部充电端口设计，导致了鼠标在充电时无法使用，但当鼠标电量降至 10% 时，用户会在系统中看到非常明显的提示。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dropbox 裁员五分之一]]></title>
+        <id>https://www.solidot.org/story?sid=79635</id>
+        <link href="https://www.solidot.org/story?sid=79635"/>
+        <updated>2024-10-30T14:58:54.000Z</updated>
+        <summary type="html"><![CDATA[云储存服务公司 Dropbox 宣布裁员五分之一。CEO Drew Houston 在致函员工的信中表示，裁员将影响 528 人，主要涉及“过度投资”的领域，公司同时将设计一个更扁平更高效的团队结构。他表示作为 CEO 承担所有责任，并向所有受影响的人致歉。受影响的员工将会获得遣散费、股权和过渡费，以及医保和福利以及就业安置服务。根据提交给 SEC 的文件，Dropbox 估计裁员将花费 6300 万到 6800 万美元。过去几个月，Dropbox 增长极度缓慢，市场份额被 Box 和 Google Drive 等竞争对手夺走，上一个财季仅增加了 63,000 名新用户，而总用户数是 1800 万。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 与博通和台积电合作设计 AI 芯片]]></title>
+        <id>https://www.solidot.org/story?sid=79634</id>
+        <link href="https://www.solidot.org/story?sid=79634"/>
+        <updated>2024-10-30T14:30:19.000Z</updated>
+        <summary type="html"><![CDATA[为减少对英伟达 AI 芯片的依赖，OpenAI 正与博通和台积电合作设计自己的首款 AI 芯片，同时辅以 AMD 芯片作为补充。OpenAI 的首款芯片专注于推理，它组建了一支由大约 20 人的团队，由曾在 Google 开发 Tensor Processing Units(TPUs)的工程师领导，其中包括了 Thomas Norrie 和 Richard Ho。知情人士表示，OpenAI 的目标是在 2026 年制造芯片，但时间表可能会改变。英伟达的芯片占据了 AI 芯片市场的八成以上份额，但供不应求以及日益高涨的价格正迫使微软、Meta 和 OpenAI 等客户探索内部或外部替代方案。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X.Org Server 的一个本地提权漏洞存在了 18 年之久]]></title>
+        <id>https://www.solidot.org/story?sid=79633</id>
+        <link href="https://www.solidot.org/story?sid=79633"/>
+        <updated>2024-10-30T14:08:48.000Z</updated>
+        <summary type="html"><![CDATA[X.Org 项目披露了两个安全漏洞，其中之一的 CVE-2024-9632 是一个本地提权漏洞，在代码库中已存在 18 年之久。CVE-2024-9632 是于 2006 年在 X.Org Server 1.1.1 版本中引入的，影响 X.Org Server 和 XWayland。通过向 X.Org Server 提供一个修改的位图，可能会诱发堆缓冲溢出提权。问题存在于 _XkbSetCompatMap() 中，源于未能正确更新堆大小，如果 X.Org Server 以 root 运行或通过 SSH 用 X11 进行远程代码执行，可能导致本地提权。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LittleBigMouse – 让多屏幕操作丝滑如一，鼠标移动再无边界]]></title>
+        <id>https://www.appinn.com/?p=49924</id>
+        <link href="https://www.appinn.com/littlebigmouse/"/>
+        <updated>2024-10-30T13:36:38.000Z</updated>
+        <summary type="html"><![CDATA[Little Big Mouse 是一款适合于 Windows 10、11 的开源工具，它可以智能处理多显示器之间的 DPI 差异和物理尺寸差异，让鼠标在跨屏幕移动时保持精确对齐和流畅过度，提供更自然]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[索尼关闭《星鸣特攻》开发商 Firewalk Studio]]></title>
+        <id>https://www.solidot.org/story?sid=79632</id>
+        <link href="https://www.solidot.org/story?sid=79632"/>
+        <updated>2024-10-30T09:08:26.000Z</updated>
+        <summary type="html"><![CDATA[索尼宣布关闭英雄射击游戏《星鸣特攻（Concord）》开发商 Firewalk Studio。《星鸣特攻》于 8 月 23 日发售，作为一款 PVP 对战类游戏，同时在线玩家没有超过千人。不到两周后，索尼就宣布下架游戏，玩家获得全额退款。索尼在探索各种选项后宣布永久关闭《星鸣特攻》及其开发商 Firewalk Studio。索尼在声明中称，《星鸣特攻》在某些方面相当出色，但无法吸引玩家，一个原因是该游戏类别竞争过于激烈，索尼表示将会吸取教训。《星鸣特攻》的开发成本高达 2 亿美元，这还不包括营销等方面的费用，这可能是游戏史上至今金额最高的失败案例。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国三季度智能手机出货量增长 3.2%]]></title>
+        <id>https://www.solidot.org/story?sid=79631</id>
+        <link href="https://www.solidot.org/story?sid=79631"/>
+        <updated>2024-10-30T08:26:27.000Z</updated>
+        <summary type="html"><![CDATA[IDC 发布的数据显示，2024 年 7~9 月中国智能手机出货量同比增加 3.2% 约为 6880 万部。采取降价等促销措施的华为增长 42%，表现强劲。9 月推出 iPhone16 系列的苹果在华出货量下降了0.3%，增长乏力。华为出货量连续 4 个季度保持了 2 位数以上的增长。市场份额排在第三位，为 15.3%。苹果市场份额为 15.6%，下降了 0.5 个百分点。份额排名第 2 位，虽然与跌出前五的4~6月相比有所恢复，但仍持续苦战。出货量最多的是 vivo，增长21.5%。市场份额为18.6%，提升了 2.8 个百分点。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot 将支持 Claude 3.5 和 Gemini 模型]]></title>
+        <id>https://www.solidot.org/story?sid=79630</id>
+        <link href="https://www.solidot.org/story?sid=79630"/>
+        <updated>2024-10-30T08:09:05.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Copilot 此前只使用 OpenAI 的 GPT 模型，未来几周它将加入 Anthropic 的 Claude 3.5 Sonnet 和 Google 的 Gemini 1.5 Pro 模型。首先加入的是 Claude 3.5，之后是 Gemini。它原先使用的 OpenAI 的 GPT 模型也将引入推理性能更强大的 GPT o1-preview 和 o1-mini。不同模型在特定任务可能有更好的表现，GitHub  CEO Thomas Dohmke 表示没有一种大模型能统治所有使用情景。用户可以通过 Copilot Chat 的 Web 和 VS Code 界面选择使用不同的大模型。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Source Initiative 宣布 Open Source AI Definition 1.0]]></title>
+        <id>https://www.solidot.org/story?sid=79629</id>
+        <link href="https://www.solidot.org/story?sid=79629"/>
+        <updated>2024-10-30T07:34:49.000Z</updated>
+        <summary type="html"><![CDATA[开源促进会（Open Source Initiative）宣布 Open Source AI Definition 1.0（OSAID）。随着大模型的流行，部分厂商以开源的名义发布其大模型，但这些名义上的开源模型有很多限制，如只开放权重或限制商业使用，与传统意义上的开源软件相去甚远。开源促进会发布开源 AI 定义就是试图解决这一分歧。开源促进会的 OSAID 被指太宽松，自由软件基金会（FSF）正在起草它的更严格的开源 AI 定义。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改用一點明體字型]]></title>
+        <id>https://io-oi.me/tech/using-the-inherited-glyphs-font-iming/</id>
+        <link href="https://io-oi.me/tech/using-the-inherited-glyphs-font-iming/"/>
+        <updated>2024-10-30T07:20:31.000Z</updated>
+        <summary type="html"><![CDATA[[1]
+這有趣而有力的駁斥：「違反理性討論的底線」，「搞霸權、威權崇拜」，「以外行踐踏與欺凌內外、以無知打倒有知的反學術愚行。」摘自於《傳承字形標準化文件》，作者是一點字坊，同時也是一點明體——也即本文要改用的字型——的作者。
+今年有來訪或有訂閱「一休兒之學習動態」的朋友可能已經知道，一休兒今年早些時候已《改用傳統漢字與字形輸入》，理由與探索可參見這篇筆記。這兩天我又將兩网誌 Yixiuer.me 與 io-oi.me 正文字型皆改為傳承字形標準的「一點明體」，我的 Kindle 也已設定為該字型（額外「粗體」設定為 1）。
+為甚麼呢？以我自己的主觀體驗來說，使用該字型在閱讀時，確確實實能持續感受到傳承字形印刷體帶來的力量，這種感受，正如上方駁斥般「清晰、理性，結構穩重而明目，筆畫井然且有理」。正因如此，我覺得非常值得為此寫一篇技術文章，一是普及如何在 Web 使用該字型、以及中英混排時斜體的處理，更重要的是記錄下來長久保留不斷聲援傳承字形！
+在這裏一休兒也呼籲大家在 GitHub 多多 Star 多多支援《傳承字形標準化文件》與「一點明體」，協力「延續漢字傳統之美」！
+一點字坊已提供 I.MingWebfont 网頁字型，使用了與 Google Fonts 相同的子集化技術，並依託 jsDelivr 的 CDN 服務。不過，由於目前設定的 font-display 策略是 block 而非 swap[2]，所以在字型加載期間，网頁內容是一片空白而非設備回退字型顯示的內容。這帶來不好的交互體驗。
+我們可以 Self-host 字型文件來解決這箇問題，儘管這需要加載整箇字型文件（壓縮後約 10.7MB），不是那麼經濟。
+一、下載字型
+
+https://github.com/ichitenfont/I.Ming/releases
+
+二、壓縮字型
+
+比如：woff2_compre…]]></summary>
+        <author>
+            <name>reuixiy@gmail.com (reuixiy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 41 释出]]></title>
+        <id>https://www.solidot.org/story?sid=79628</id>
+        <link href="https://www.solidot.org/story?sid=79628"/>
+        <updated>2024-10-30T07:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Fedora 发行版项目释出了 v41。主要新特性包括：默认命令行包管理工具 DNF 更新到 v5，速度更快、体积更小，需要的支持包更少；桌面环境 GNOME 47，命令行默认终端 Ptyxis；桌面环境 KDE 6.2；基于 Mir 和 Wayland 的新桌面环境 Miracle；使用私有英伟达驱动的系统支持 Secure Boot；Firefox 支持 MIPI 和 Pipewire 摄像头；等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox v132.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=79627</id>
+        <link href="https://www.solidot.org/story?sid=79627"/>
+        <updated>2024-10-30T06:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 释出了 Firefox v132.0。主要新特性包括：在部分地区的 Windows 上支持 Microsoft PlayReady 加密媒体播放；Windows 和 macOS 支持高色域（Wide Color Gamut）WebGL；SVG 硬件加速；移除对 HTTP/2 Push 的支持；恢复支持通过 USB 进行远程调试，安全修正等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[南非发现最古老的岩石微生物]]></title>
         <id>https://www.solidot.org/story?sid=79626</id>
@@ -286,6 +430,20 @@ Tooltip Best Practices originally published on CSS-Tricks, which is part of the 
         <summary type="html"><![CDATA[新加坡官员批准了全球最大的可再生能源和输电项目。该项目首先在澳大利亚北领地州（Northern Territory）建造大型太阳能发电场，向该州首府达尔文输送清洁能源，将部分电力通过海底电缆出口到 4300 公里外新加坡。被称为 Powell Creek 的澳大利亚亚洲电力连接项目设计峰值太阳能装机容量为 20 GW，电池储存容量 36-42 GWh，预计首批清洁电力将于 2030 年代初开始供应。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多學多見]]></title>
+        <id>https://io-oi.me/life/to-learn-and-to-see/</id>
+        <link href="https://io-oi.me/life/to-learn-and-to-see/"/>
+        <updated>2024-10-27T12:39:00.000Z</updated>
+        <summary type="html"><![CDATA[筆者剛才回顧了 Yixiuer.me 大學時期的早期想法、詩作、筆記，發現自己當時糾結的問題更多是自己的無知所致，而不是現實普遍的問題。
+自己當時只是剛剛離開義務教育，剛開始發現眼前的世界，然後在自己學習的新定義、新思想之間試著搭建，儘管現在看來更多是捏合。
+當時自己更多是在與自己的無知糾結，儘管自己當時看來是在與整箇世界對話，但其實只是剛在洞穴裏睜開眼睛發現了一些晃動的影子。
+這些早期創作記錄下了自己的箇人成長歷程，雖然幼稚但好在真摯，也反射了自己當時的週遭，記錄了一箇時空的一箇群體的社會屬性。
+如果可以我想我會對當時的自己說：多讀書多讀經典，多看世界多交談，桎梏來自內心而非世界，多學多見保持謙卑，不斷認識你自己。*]]></summary>
+        <author>
+            <name>reuixiy@gmail.com (reuixiy)</name>
         </author>
     </entry>
     <entry>
@@ -1014,137 +1172,6 @@ Clamp it! VS Code extension originally published on CSS-Tricks, which is part of
         <link href="https://www.solidot.org/story?sid=79550"/>
         <updated>2024-10-21T15:24:26.000Z</updated>
         <summary type="html"><![CDATA[加拿大圭尔夫大学（University of Guelph）研究人员的一项发现引发了对大黄蜂健康、生存和繁殖的担忧。研究人员发现大黄蜂蜂后更可能选择在农药污染的土壤下冬眠。蜂后通常冬天在地下冬眠春天现身，建立新的蜂群。为什么农药污染的土壤会更吸引蜂后？一种解释是杀虫剂改变了土壤性质，比如杀菌剂可能杀死了土壤真菌和线虫，而蜂后会避开含有真菌有害于冬眠的土壤。另一种解释是蜂后接触过杀虫剂之后形成了后天养成的嗜好。这需要更多的研究。接触农药是导致全球昆虫数量下降的原因之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拓竹A1 – 全尺寸入门级 3D 打印机，政府补贴 15%，到手只需 1388 元]]></title>
-        <id>https://www.appinn.com/?p=49837</id>
-        <link href="https://www.appinn.com/bambulab-a1/"/>
-        <updated>2024-10-21T13:51:23.000Z</updated>
-        <summary type="html"><![CDATA[拓竹A1 是一款全尺寸入门级 3D 打印机，开箱即用，适合于初次入门 3D 打印的同学。目前京东拓竹官方旗舰店已支持政府补贴，到手价仅需 1388 元，全国可用。@Appinn 购买方法 需要在手机中]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unleash the Power of Scroll-Driven Animations]]></title>
-        <id>https://css-tricks.com/?p=381613</id>
-        <link href="https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/"/>
-        <updated>2024-10-21T13:50:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …
-Unleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X 的竞争对手 Bluesky 两天增加 120 万新用户]]></title>
-        <id>https://www.solidot.org/story?sid=79549</id>
-        <link href="https://www.solidot.org/story?sid=79549"/>
-        <updated>2024-10-21T12:14:52.000Z</updated>
-        <summary type="html"><![CDATA[X/Twitter 先后公布了两项受争议的政策，推动用户涌向其竞争对手 Bluesky，后者宣布两天增加了愈 120 万新用户。第一项政策是 X 用户在被屏蔽之后仍然能浏览对方的帖子，但不能与帖子互动，此举可能是因为马斯克（Elon Musk）被太多人屏蔽了。另一项政策是 X 将使用用户数据训练 AI 模型，但不会付费。这些争议政策再次推动 X 用户转向其它平台，而 Bluesky 显然是最大受益方，它在一天内增加了 50 万新用户，两天内增加了 120 万用户。在日本这个 X 的重要市场，Bluesky 的下载量排在了第一位。在美国，Bluesky 在一周内从社交网络类的第 181 位跃升至第二位。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.13 预计将移除 ReiserFS 文件系统]]></title>
-        <id>https://www.solidot.org/story?sid=79548</id>
-        <link href="https://www.solidot.org/story?sid=79548"/>
-        <updated>2024-10-21T10:38:09.000Z</updated>
-        <summary type="html"><![CDATA[ReiserFS 文件系统预计将在 Linux 6.13 中移除。ReiserFS 文件系统的首席开发者 Hans Reiser 因谋杀罪被判终身监禁，它早就停止开发，也没有发行版使用，Linux 是在发布 v5.18 时宣布将移除 ReiserFS，两年之后内核社区宣布预计会在明年正式移除 ReiserFS。内核将删除 32.8k 行与 ReiserFS 相关的代码，如果有开发者想要继续使用 ReiserFS，那么他们只能使用即将发布的 Linux 6.12 或之前的旧版本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU Boot 再次发现包含非自由代码]]></title>
-        <id>https://www.solidot.org/story?sid=79547</id>
-        <link href="https://www.solidot.org/story?sid=79547"/>
-        <updated>2024-10-21T09:57:49.000Z</updated>
-        <summary type="html"><![CDATA[Libreboot 是基于 coreboot 的自由软件固件项目，旨在取代私有的 BIOS 或 UEFI 固件。但从 2022 年起它开始包含非自由代码，为了维护真正的自由，GNU Boot 在 Libreboot 基础上诞生了。然而要在固件领域确保 100% 自由代码是非常困难的。GNU Boot 去年 12 月发现其项目包含了不符合自由软件标准的非自由文件，现在它再次发生包含非自由代码。问题归因于存档中的测试数据，包含了微码、BIOS 和英特尔 Management Engine 固件形式的非自由代码。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开始菜单美化工具 Start11 V2 限时 9 折｜让 Win11 还原 Win7 开始菜单]]></title>
-        <id>https://www.appinn.com/?p=49824</id>
-        <link href="https://www.appinn.com/start11-v2/"/>
-        <updated>2024-10-21T09:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Start11 V2 是一款 Windows 系统美化增强工具，可还原经典开始菜单样式（Win7 风格）。支持自定义视觉外观，调整图标、颜色、排列等细节，让你的开始菜单兼具实用与美观。@Appinn]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Files Gallery – 单文件 PHP 程序：将任何文件夹变成网页版文件库]]></title>
-        <id>https://www.appinn.com/?p=49820</id>
-        <link href="https://www.appinn.com/files-gallery/"/>
-        <updated>2024-10-21T07:51:14.000Z</updated>
-        <summary type="html"><![CDATA[Files Gallery 是一个单文件的 PHP 程序，只需要把这个文件放到任意文件夹中，通过浏览器访问，该文件夹就变成了网页版本的文件库，可以预览图片、视频、音频，以及文本文件。@Appinn 连]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字节跳动以恶意干扰 AI 模型训练为由解雇了一名实习生]]></title>
-        <id>https://www.solidot.org/story?sid=79546</id>
-        <link href="https://www.solidot.org/story?sid=79546"/>
-        <updated>2024-10-21T07:06:48.000Z</updated>
-        <summary type="html"><![CDATA[TikTok 母公司字节跳动证实以恶意干扰 AI 模型训练为由解雇了一名实习生，但否认该实习生破坏了数千张卡造成了数千万元的损失。字节跳动的豆包 AI 聊天机器人是中国最受欢迎的 AI 聊天机器人之一。字节跳动在声明中称，涉事实习生恶意干扰商业化技术团队研究项目的模型训练任务，但并不影响商业化的正式项目及线上业务，也不涉及字节跳动大模型等其他业务。涉事人一直在商业化技术团队实习，并没有 AI Lab 实习经历。该实习生已在 8 月被公司辞退。公司也将其行为同步给行业联盟和所在学校，交由校方处理。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更多证据表明长新冠是一种脑损伤]]></title>
-        <id>https://www.solidot.org/story?sid=79545</id>
-        <link href="https://www.solidot.org/story?sid=79545"/>
-        <updated>2024-10-21T06:42:46.000Z</updated>
-        <summary type="html"><![CDATA[有更多的证据表明长新冠是脑损伤导致的。剑桥和牛津的研究人员使用高分辨率扫描仪，发现了 COVID-19 康复者脑干的微观结构异常。首次感染 SARS-CoV-2 病毒的 18 个月内，脑部炎症的迹象一直存在。感染症状越严重，炎症反应越明显。相比相同年龄健康参与者，感染者脑干所有三个部分都有炎症迹象。脑干由延髓、脑桥和中脑组成，它们都是大脑自动控制中心的一部分，负责调节睡眠周期以及呼吸和心率。疲劳、呼吸困难和心率升高是长新冠最常见的症状。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软用蜜罐大规模欺骗钓鱼者]]></title>
-        <id>https://www.solidot.org/story?sid=79544</id>
-        <link href="https://www.solidot.org/story?sid=79544"/>
-        <updated>2024-10-21T06:04:22.000Z</updated>
-        <summary type="html"><![CDATA[微软资深安全工程师 Ross Bevington 在 BSides Exeter 信息安全会议上分享了该公司利用现已退役的 code.microsoft.com 创建蜜罐，大规模欺骗钓鱼者，消耗钓鱼者的时间，跟踪钓鱼者使用的策略。Bevington 的团队创建了信息足以以假乱真的数千蜜罐账号，根据 Defender 识别的钓鱼域名主动访问钓鱼网站，输入蜜罐账号，然后观察钓鱼者登录蜜罐账号，用日志记录其一举一动。他们收集的情报包括 IP 地址、浏览器、位置、行为模式、是否使用 VPN 或 VPS，以及依赖的网络钓鱼工具包等。这种欺骗技术会消耗攻击者 30 天的时间，然后对方才会意识到入侵了虚假环境。收集的情报可用于创建更好的防御策略。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在致命车祸后美国调查特斯拉的 Full Self-Driving 软件]]></title>
-        <id>https://www.solidot.org/story?sid=79543</id>
-        <link href="https://www.solidot.org/story?sid=79543"/>
-        <updated>2024-10-21T05:40:18.000Z</updated>
-        <summary type="html"><![CDATA[在四起车祸其中包括一次致命车祸之后，汽车安全监管机构美国国家公路交通安全管理局(NHTSA)开始调查特斯拉的 Full Self-Driving（FSD）软件。Full Self-Driving 并不是其名字意义上的全自动驾驶软件，它仍然是辅助驾驶软件，且其在功能上受限于使用的硬件（它主要依赖于摄像头而没有使用激光雷达等其它传感器）。NHTSA 表示，四起车祸中 FSD 都启用了，事故发生时天气处于太阳眩光、雾或灰尘等低能见度状况下。2023 年 11 月，亚利桑那州 Rimrock 市的一名行人在被一辆 2021 年型号的特斯拉 Model Y 撞倒后死亡。另一起正在调查的车祸据报发生了受伤状况。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 发布二十周年]]></title>
-        <id>https://www.solidot.org/story?sid=79542</id>
-        <link href="https://www.solidot.org/story?sid=79542"/>
-        <updated>2024-10-21T04:06:30.000Z</updated>
-        <summary type="html"><![CDATA[2004 年 10 月 20 日，Canonical 创始人 Mark Shuttleworth 在邮件列表上宣布发布 Ubuntu 发行版的第一个版本 Ubuntu 4.10 "The Warty Warthog Release"，他表示新发行版每半年发布一次，每个版本支持 18 个月，除了提供下载外，感兴趣的用户可以申请免费光盘。他称 Ubuntu 是基于 Debian，提供了更简单易用的安装程序。Ubuntu 推动了 Linux 的普及，虽然二十年后在桌面领域 Linux 的份额仍然很小，但它基本上统治了服务器市场，Ubuntu 也成为最流行的 Linux 发行版之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芯片设计师回顾了英特尔和 AMD 之间围绕 x86-64 的竞争]]></title>
-        <id>https://www.solidot.org/story?sid=79541</id>
-        <link href="https://www.solidot.org/story?sid=79541"/>
-        <updated>2024-10-20T15:28:04.000Z</updated>
-        <summary type="html"><![CDATA[英特尔和 AMD 在 1999 年先后宣布了不兼容 IA-32 的 IA-64 安腾架构处理器，兼容 IA-32 的 x86-64 架构处理器。以英特尔的财力和在芯片行业的支配地位，它完全有能力同时开发这两种架构，但为什么芯片巨人不这么做？Pentium Pro 架构师 Robert Colwell 回答，这是英特尔的营销决策，他们认为在 x86 中引入新的 64 位功能会被视为对抗自己的原生 64 位安腾，可能会严重损害安腾的成功机会。在英特尔内部谈论 x86 需要 64 位会受到警告，Colwell 回忆说他就被威胁会遭到解雇，但他决定采取折衷的策略，没有完全关闭大门。当安腾在竞争中处于劣势时英特尔可以重返 x86。虽然安腾失败了，英特尔确实赢得了持久战。在后期英特尔曾请求微软的帮助，但微软拒绝了。而在早期，AMD 也曾经请求微软的帮助而微软也拒绝了。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
