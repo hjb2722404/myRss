@@ -2,10 +2,183 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-11-03T02:53:17.477Z</updated>
+    <updated>2024-11-04T02:52:46.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Delete a MacOS User via Command Line]]></title>
+        <id>https://catonmat.net/how-to-delete-macos-user-via-command-line</id>
+        <link href="https://catonmat.net/how-to-delete-macos-user-via-command-line"/>
+        <updated>2024-11-03T21:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Today at Browserling I needed to delete a MacOS user via command line. As it's not documented, then for anyone else searching here is the solution:
+After this, also delete home directory:
+PS. I also wrote a tutorial on how to create a MacOS user via command line.
+What Is Browserling?
+Browserling is an online tool that helps users test websites on different browsers quickly, making it useful for web developers and cybersecurity professionals alike. Besides checking how a site appears on Chrome, Firefox, Safari, and more, Browserling can be used to safely explore and analyze potentially risky sites without exposing your computer to threats. This browser-testing tool lets cybersecurity teams investigate website security, check for vulnerabilities, and ensure compatibility across platforms – all without needing to install multiple browsers on their systems.
+Who Uses Browserling?
+Browserling has now become the cross-browser testing platform of choice for web developers, designers, and QA teams and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, Fortune 100, Fortune 500 companies, and private multi-billion dollar companies.
+Happy testing!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a MacOS User via Command Line]]></title>
+        <id>https://catonmat.net/how-to-create-macos-user-via-command-line</id>
+        <link href="https://catonmat.net/how-to-create-macos-user-via-command-line"/>
+        <updated>2024-11-03T21:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Today at Browserling I needed to create a MacOS user via command line. As it's not documented, then for anyone else searching here is the solution:
+sudo sysadminctl -addUser user -fullName "User" -password "password"
+PS. I also wrote a tutorial on how to delete a MacOS user via command line.
+What Is Browserling?
+Browserling is an online tool that lets people test websites in different browsers without having to install them. It's helpful for web developers or anyone who wants to see how their site looks and works on various browsers, like Chrome, Firefox, Safari, and more. With Browserling, you can quickly check compatibility and make sure your website works well for all users.
+Who Uses Browserling?
+Browserling has now become the cross-browser testing platform of choice for web developers, designers, and testers and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, Fortune 100, Fortune 500 companies, and private multi-billion dollar companies.
+Happy testing!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Internet Sandbox Use Cases?]]></title>
+        <id>https://catonmat.net/what-are-internet-sandbox-use-cases</id>
+        <link href="https://catonmat.net/what-are-internet-sandbox-use-cases"/>
+        <updated>2024-11-03T20:58:00.000Z</updated>
+        <summary type="html"><![CDATA[This is an excerpt from my popular blog post What is an Internet Sandbox? In this excerpt, I'll share the top ways people use internet sandboxes to stay safe online. Whether you're testing suspicious links, visiting unknown websites, or just looking to add an extra layer of protection, these use cases will show how an internet sandbox can keep your browsing secure. Read on to see how internet sandboxes make online browsing safer!
+Internet Sandbox Demo
+Nothing explains it better than a live demo. Head over to browserling.com/browse to try out our internet sandbox. My team and I made this, so you can get an instant sandbox to download files, test suspicious sites, and browse without worry.
+What Are Internet Sandbox Use Cases?
+Try New Software Safely
+Internet sandboxes let you install and tes…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a WWW Sandbox? (And How to Get One)]]></title>
+        <id>https://catonmat.net/what-is-www-sandbox</id>
+        <link href="https://catonmat.net/what-is-www-sandbox"/>
+        <updated>2024-11-03T20:22:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: You can access a WWW sandbox created by me and my team via browserling.com/browse. It lets you browse the internet safely without worrying about viruses or malware reaching your device. A WWW sandbox creates a secure, isolated environment where you can open websites without risking harm to your computer. It's perfect for exploring unfamiliar sites safely.
+WWW Sandbox – What Is It?
+A WWW sandbox is a secure space on the internet where you can visit websites without risking harm to your device. It acts like a protective layer, keeping any potential viruses or malware in the sandbox and away from your computer. This tool is useful for safely exploring unknown or suspicious sites.
+How Does a WWW Sandbox Work?
+A WWW sandbox works by creating a virtual environment on a remote server that s…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Reasons to Hide Your IP Address]]></title>
+        <id>https://catonmat.net/top-reasons-to-hide-your-ip-address</id>
+        <link href="https://catonmat.net/top-reasons-to-hide-your-ip-address"/>
+        <updated>2024-11-03T19:52:00.000Z</updated>
+        <summary type="html"><![CDATA[This is an excerpt from my popular blog post How to Hide Your IP Address. In this excerpt, I'll explore the top reasons why you might want to hide your IP address. Your IP address is like a digital fingerprint, giving away details about your location, device, and online activity. By masking it, you can protect your privacy, access blocked content, and stay safer online. Here's why hiding your IP is one of the best steps you can take for a more secure internet experience.
+Hidden IP Demo
+A demo shows louder than thousand words. You can instantly hide your IP via browserling.com/browse (created by me and my team). You'll get a random browser running in a random data center in a random location in the world, making it appear as if you're browsing from elsewhere instead of your own. Our tool in…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Hide Your IP Address (For Free)]]></title>
+        <id>https://catonmat.net/how-to-hide-your-ip-address</id>
+        <link href="https://catonmat.net/how-to-hide-your-ip-address"/>
+        <updated>2024-11-03T19:35:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: You can hide your IP via a free virtual online browser (created by me and my team). Simply visit browserling.com/browse and you'll get a free cloud browser that runs in an unknown location so that your IP can't be seen or tracked.
+Why Hide Your IP Address?
+Hiding your IP address helps protect your online privacy and security by making it harder for websites, hackers, and advertisers to track your location and online activities. Your IP address reveals information about where you are and can be used to trace your digital footprint. By hiding it, you can browse anonymously, avoid location-based restrictions, and reduce the risk of cyber threats like hacking and identity theft.
+What IP Addresses Do You Get?
+You can get IP addresses assigned to specific continents, countries, cities, and…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a VNC Android? (And How to Get One)]]></title>
+        <id>https://catonmat.net/what-is-vnc-android</id>
+        <link href="https://catonmat.net/what-is-vnc-android"/>
+        <updated>2024-11-03T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: You can instantly access a VNC Android via browserling.com/android. I and my team wrote a browser-based VNC client that lets you access an Android from your browser without installs or downloads. Try it out, it's next gen!
+VNC Android – What Is It?
+A VNC Android is a virtual Android device that you can control from your browser via VNC protocol. This setup lets you interact with the Android's screen, apps, and settings remotely without needing to install any software on your own device. It's useful for developers, testers, and anyone else needing quick, remote access to an Android system for app testing or troubleshooting. Just open a VNC link, and you can view and control the Android device right from your browser.
+How Does a VNC Android Work?
+A VNC Android works by running an Andro…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam 平台 Linux 份额突破 2%]]></title>
+        <id>https://www.solidot.org/story?sid=79667</id>
+        <link href="https://www.solidot.org/story?sid=79667"/>
+        <updated>2024-11-03T09:59:55.000Z</updated>
+        <summary type="html"><![CDATA[根据 Valve 公布的 2024 年 10 月 Steam 硬件和软件调查，连续两个月低于 2% 之后，Linux 份额再次突破 2%，Windows 份额仍然是绝大多数的 96.61%，其中 Windows 11 的份额增加了 4.28% 达到 51.97%，而 Windows 10 减少了 2.71%占 45.95%。此外简体中文用户数再次被英语超过，英语增加了 8% 达到 39.00%，而简体中文略微减少 1% 占 35.57%，俄语用户占 10.45%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[前三季度全国结婚登记人数减少逾 90 万对]]></title>
+        <id>https://www.solidot.org/story?sid=79666</id>
+        <link href="https://www.solidot.org/story?sid=79666"/>
+        <updated>2024-11-03T09:47:37.000Z</updated>
+        <summary type="html"><![CDATA[根据民政部公布的《2024年3季度民政统计数据》，今年前三季度，全国结婚登记 474.7 万对，离婚登记 196.7 万对。相比 2023 年前三季度的结婚登记 569.0 万对离婚登记 197.3 万对，结婚登记量同比减少 94.3 万对，离婚登记量同比减少 0.6 万对。在 2023 年疫情结束短暂回升前，全国结婚登记量已持续下跌多年。2013 年全国结婚登记量为 1346.9 万对，在 2014 年开始逐年下降，后于 2019 年跌破 1000 万对大关，2021 年跌破 800 万对大关，2022 年降至 683.5 万对，跌破 700 万对大关，而 2023 年则回升至 768 万对。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第四名 FTX 高管被判没收 110 亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=79665</id>
+        <link href="https://www.solidot.org/story?sid=79665"/>
+        <updated>2024-11-03T09:38:12.000Z</updated>
+        <summary type="html"><![CDATA[FTX 交易所前工程总监 Nishad Singh 被判三年监督释放，但不需要在监狱服刑。FTX 创始人Sam Bankman-Fried（SBF）今年初被判 25 年监禁，他的前女友 Caroline Ellison 被判两年监禁，另一名高管 Ryan Salame 据称也开始入狱服刑。曼哈顿地区法官 Lewis A. Kaplan 称，这位前工程总监在案件审理过程中充分合作，而且他直到 FTX 欺诈案曝光两个月前才得知公司从客户和投资者账号挪用了数十亿美元，他在 SBF 审讯中作证称获悉真相后他猝不及防和倍感震惊，对其在欺诈案中扮演的角色悔恨不已。SBF 的前女友也在其审讯中扮演了关键证人，但她仍然需要服刑是因为她从一开始就参与了欺诈。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbird 安卓版本正式发布：功能强大、注重隐私的电子邮件应用，源自 K-9 Mail]]></title>
+        <id>https://www.appinn.com/?p=49989</id>
+        <link href="https://www.appinn.com/android-thunderbird-8/"/>
+        <updated>2024-11-03T09:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Thunderbird: Free Your Inbox 即安卓版本的 Thunderbird 目前已经正式上架 Google Play，基于开源的 K-9 Mail 电子邮件客户端开发，主打开源，注]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LocalSend 1.16.0 更新，不再支持 Windows 7，非常好用的开源跨平台文件传输工具，附下载地址]]></title>
+        <id>https://www.appinn.com/?p=49987</id>
+        <link href="https://www.appinn.com/localsend-1-16-0/"/>
+        <updated>2024-11-03T06:35:59.000Z</updated>
+        <summary type="html"><![CDATA[跨平台文件传输工具 LocalSend 刚刚更新了最新的 LocalSend 1.16.0 版本。由于 Flutter 不再支持 Windows 7 ，所以从这个版本开始，LocalSend 也不再支]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软数学 iPhone、Android  客户端已下架，网页版正常]]></title>
+        <id>https://www.appinn.com/?p=49984</id>
+        <link href="https://www.appinn.com/microsoft-math-remove-from-app-store/"/>
+        <updated>2024-11-03T04:48:23.000Z</updated>
+        <summary type="html"><![CDATA[微软数学（Microsoft Math）是一款微软发布的，可以在 iPhone、Android 上直接手写输入数学题目、或拍照识别题目，并提供解题步骤及解题答案的应用。目前已经在 iPhone、And]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow 是什么？它不止是 RSS 阅读器，但万物皆可订阅｜2024年11月3日更新：第一轮空投开始]]></title>
+        <id>https://www.appinn.com/?p=49868</id>
+        <link href="https://www.appinn.com/what-is-follow/"/>
+        <updated>2024-11-03T03:59:53.000Z</updated>
+        <summary type="html"><![CDATA[2024年11月3日更新：Follow 第一轮空投开始，数量取决于活跃度，包括订阅数量、阅读数量、关注人数等。点击前往领取地址。 以及，需要在任意社交网络分享后，才能空投，你可以在这里参与讨论。 嗯，]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苹果收购图像编辑应用 Pixelmator]]></title>
         <id>https://www.solidot.org/story?sid=79664</id>
@@ -47,6 +220,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Notion 筆記 960 天心得]]></title>
+        <id>https://io-oi.me/tech/using-notion-after-960-days/</id>
+        <link href="https://io-oi.me/tech/using-notion-after-960-days/"/>
+        <updated>2024-11-01T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[「⋯⋯要重拾細膩思維，再創構建之樹——🍀。」這就是一休兒之學習筆記的起源——2021 年 10 月 12 日發佈的《△》；2022 年 3 月 15 日，我在《跑步、買菜、早餐》提出 Mission Control Center 設想；2022 年 3 月 18 日，我正式《嘗試筆記應用 Notion》；2022 年 3 月 20 日，我開始《遷移到 Notion Database》；2024 年 11 月 1 日，使用 Notion 筆記 960 天後，我想分享一下我的心得，希望我的探索經驗對你有所啟發、有所幫助。
+現在回首，「學習」確實已經實現了我早期的願景，這兩年多來，有序我的知識、豐富我的生活、清晰我的目標、啟發我的創作，確確實實對我有非常大的幫助和改變。
+這箇空間建造兩年多，現在我有時無目的在此漫步，思緒不經意間匯聚，靈感不經意間出現，我想這就是此空間的價值所在，它確實有序了我的知識、豐富了我的生活、清晰了我的目標、啟發了我的創作。
+——https://reuixiy.notion.site/126c9131ed4f80ffa9ffe951cc676c70
+有人說筆記工具是無用的或無益的，比如：說重要的是自己的大腦、說某某人物還在用紙質筆記本；對於第一點的批判：工具讓你不在自然中裸奔；對於第二點的批判：你只是在崇拜一箇過時權威。工具是否有用、有益，首先取決於你的使用方式（見《學習》），其次就是筆記工具是長期價值投資，想要看到成效需要付出、需要過程、需要時間，多數人只是數天或數週或數月就放棄了，錯失了後面的指數增長。
+以我自己的經歷，我上方批判的這兩點我都曾有反覆，我也想過愛因斯坦沒有 Notion，我也想過 Elon Musk 沒有 Notion，但這並不妨礙我有 Notion；而且我想如果在愛因斯坦和 Elon Musk 的青年時代已經有 Notion 了，那…]]></summary>
+        <author>
+            <name>reuixiy@gmail.com (reuixiy)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations]]></title>
         <id>https://css-tricks.com/?p=382156</id>
         <link href="https://css-tricks.com/web-slinger-css-like-wow-js-but-with-css-y-scroll-animations/"/>
@@ -75,6 +263,30 @@ Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally publish
         <summary type="html"><![CDATA[Linux 作者 Linus Torvalds 在维也纳举行的开源峰会上接受采访时表示，他抛弃了传统的内燃机汽车，用一辆沃尔沃的电动汽车取代了它。他称自己不喜欢内燃机，电动汽车驾驶起来更有趣，他对自动驾驶没什么兴趣。电动汽车配备的辅助驾驶系统能车道跟随，制造更简单。厂商不需要十年经验就能造出优秀的电动马达，传统汽车马达的零部件数量相比电动马达高出两个级别。他认为车载系统运行的是 Linux，但无疑去修改它。沃尔沃电动汽车运行的操作系统是 VolvoCars.OS，底层系统包括了 Android Automotive、OS、Autosar 和 Linux。Torvalds 表示他不是汽车迷，汽车对于他就是一个方便的工具。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where It All Begins]]></title>
+        <id>https://io-oi.me/life/where-it-all-begins/</id>
+        <link href="https://io-oi.me/life/where-it-all-begins/"/>
+        <updated>2024-11-01T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[繼多學多見、痛苦化作動力，我今天又回顧了 io-oi.me 更多大學時期的文章，發現其中也有許多閃耀之處，比如：
+人生第一次演講：尼采（2016）
+過去和未來（2017）
+Cassini’s Grand Finale（2017）
+Nike — Dream Crazy（2018）
+過年（2019）
+寧靜致遠（2020）
+Tags：COLDPLAY
+等等，那些幼稚、樂觀、興奮、痛苦、歡樂、幸福、憧憬。我現在發現早期文章——對我來說——每一篇都有其光芒。也讓我再一次發現，人的意識只存在極其有限的記憶窗口。我過去面對痛苦的能力要比現在強，很早我就懂得需要在痛苦中去創作的道理，但在過了數年舒適生活後，就遺忘了。越發讚同那句意志堅定的理解：「意志堅定指的不是貧苦時能忍受的人，而是可以享樂時仍然能夠忍受前者痛苦的人。」（可能啟發自《浮士德》）
+這也是寫网誌的價值所在，每次更長久時間回首就越發覺得這些早期記錄的珍貴，那一箇箇平凡的日子，都閃耀著光芒。很高興那些年月日我把我的生活發現、技術折騰記錄了下來，這對自我有著極其重要的意義。時空變幻消逝，這些文字卻保留了下來，曾經的作者變成了讀者，與之永恆對話。
+我知道凱撒與亞歷山大就在活動最繁忙的時候，仍然充分享受自然的、也就是必需的、正當的生活樂趣。我想指出，這不是要使精神鬆懈、而是使之增強，因為要讓激烈的活動、艱苦的思索服從於日常生活習慣，那是需要有極大的勇氣的。他們認為，享受生活樂趣是自己正常的活動，而戰事才是非常的活動。他們持這種看法是明智的。我們倒是有些大傻瓜。我們說：「他一輩子一事無成」；或者說：「我今天甚麼事也沒有做」⋯⋯怎麼！您不是生活過來了嗎？這不僅是最基本的活動，而且也是我們的諸活動中最有光彩的。「如果我能夠處理重大的事情，我本可以表現出我的才能。」您懂得考慮自己的生活，懂得去安排它嗎？那您就做了最重要的事情了。
+——《隨筆集》
+哲學是箇人的生活藝術，你如何生活，你的這些思考本身就是哲學。
+——《哲學無用》
+在讀《寫在硬盤暴廢之後》時，新發現了硬盤暴廢我崩潰時聽的曾經熟悉的歌曲：《Where It All Begins》，在我的 Ever 歌單裏找了一下，屬於歌單第一批歌曲了。現在多年之後，我對歌詞又有了更多的理解。*]]></summary>
+        <author>
+            <name>reuixiy@gmail.com (reuixiy)</name>
         </author>
     </entry>
     <entry>
@@ -935,230 +1147,6 @@ A global browser works by c…]]></summary>
         <summary type="html"><![CDATA[一颗超新星的爆炸足以清除太阳系中几乎所有的尘埃，而这种情况可能在 300 万年前就已经发生了。就像家具上的灰尘一样，这些细小的颗粒也会逐渐得到补充。太空尘埃是由小行星碰撞等事件产生的小颗粒组成的。这些颗粒的大小通常小于一毫米。太阳系大约 70% 的尘埃集中在柯伊伯带，这是海王星以外的冰质小行星和彗星区域，估计有 350 万亿吨的小颗粒。波士顿大学的研究人员模拟了太阳系附近的超新星爆发。根据地球上冰中放射性铁同位素铁-60 含量的增加，研究人员认为其中一个事件发生在大约 300 万年前。当爆炸同时带走太阳的日光层时，这些同位素就会被释放出来，日光层可以保护太阳系中的行星免受银河系的辐射。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人口峰值可能会更快到来]]></title>
-        <id>https://www.solidot.org/story?sid=79594</id>
-        <link href="https://www.solidot.org/story?sid=79594"/>
-        <updated>2024-10-25T14:42:46.000Z</updated>
-        <summary type="html"><![CDATA[联合国最新估计预测全球人口将于 2084 年达到 103 亿的峰值。维也纳的 International Institute for Applied Systems Analysis 预测人口将于 2080 年达到 101 亿的峰值，西雅图的 Institute of Health Metrics and Evaluation 预测 2064 年达到 97 亿的峰值。然而现实中的人口出生率比悲观的估计还要差。举例来说，五年前联合国预测到 2023 年韩国新生儿数量 35 万，但实际只有 23 万。哥伦比亚 2023 年出生了 51 万名婴儿，五年内下降 22%，比联合国的预测低 30%。出生率快速下降的通常是富裕发达国家，然而如今很多发展中国家的出生率比发达国家还低。去年墨西哥出生率首次低于美国。研究人员因此估计，全球人口可能会在 2054 年达到 90 亿左右的峰值，比联合国的预测早 30 年。此外目前没有观察到出生率会反弹的迹象。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We've Added 15 New PNG Tools]]></title>
-        <id>https://catonmat.net/15-new-png-tools</id>
-        <link href="https://catonmat.net/15-new-png-tools"/>
-        <updated>2024-10-25T14:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Team Browserling keeps shipping!
-Last week we added 10 new logo tools and today we just added 10 new tools to our PNG Tools collection.
-We've done our job and now it's Google's job to index them and rank them well.
-Here are the new PNG tools:
-Cut a PNG
-Center a PNG
-Reverse a PNG
-Multiply a PNG
-Clone a PNG
-Add a Shadow to a PNG
-Convert a PNG to a Silhouette
-Convert a PNG to a Stencil
-Separate PNG Colors
-Swap PNG Colors
-Reverse PNG Colors
-Replace PNG Alpha Channel
-Make a PNG Signature Thinner
-Convert SVG to PNG
-Add Space Around PNG
-Remove Space Around PNG
-Next week we'll add even more tools. See you then!
-PS. Use coupon code PNGLING for a 30% discount on these tools.]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒂姆波顿称互联网让他倍感抑郁]]></title>
-        <id>https://www.solidot.org/story?sid=79593</id>
-        <link href="https://www.solidot.org/story?sid=79593"/>
-        <updated>2024-10-25T14:23:15.000Z</updated>
-        <summary type="html"><![CDATA[知名导演蒂姆波顿（Tim Burton）正在英国伦敦举办“World of Tim Burton”展，他接受采访表示互联网让他倍感忧郁。他称自己是技术恐惧者(technophobe)，上网会让他感觉陷入了深坑，害怕而且感觉糟糕。波顿以执导《蝙蝠侠》、《剪刀手爱德华》、《查理和巧克力工厂》和《爱丽丝梦游仙境》，以及《阴间大法师》系列闻名。他说忙碌起来做些简单的事情会让自己感觉良好，他举例说看看云，欣赏后院放置的十个巨型恐龙模型。波顿认为怪物比人类更具情感，而人类更让他感到害怕。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come to the light-dark() Side]]></title>
-        <id>https://css-tricks.com/?p=382039</id>
-        <link href="https://css-tricks.com/come-to-the-light-dark-side/"/>
-        <updated>2024-10-25T14:08:20.000Z</updated>
-        <summary type="html"><![CDATA[You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors …
-Come to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sara Joy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Left Half and Right Half Layout – Many Different Ways]]></title>
-        <id>http://css-tricks.com/?p=198099</id>
-        <link href="https://css-tricks.com/left-and-right/"/>
-        <updated>2024-10-25T11:51:02.000Z</updated>
-        <summary type="html"><![CDATA[A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice.
-Imagine a scenario where you need to split a layout in half. Content …
-Left Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kroger 和沃尔玛否认会使用数字价格标签动态定价]]></title>
-        <id>https://www.solidot.org/story?sid=79592</id>
-        <link href="https://www.solidot.org/story?sid=79592"/>
-        <updated>2024-10-25T11:33:01.000Z</updated>
-        <summary type="html"><![CDATA[美国国会议员对大型超市如 Kroger 和沃尔玛普及数字价格标签技术表达担忧，认为日用食品如鸡蛋和牛奶的定价可能会被动态变化，而超市可能会将面部识别数据作为定价因素之一。Kroger 和沃尔玛都对此予以否认。Kroger 表示没有计划实施动态定价或使用面部识别软件；沃尔玛表示无动态定价计划，面部识别不会用于影响定价。沃尔玛在美国有 4,606 家门店，Kroger 在美国有近 2,800 家门店。两家公司表示数字价格标签的影响被夸大了。隐私专家仍然对新技术在超市的普及表达了担忧。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 项目根据 OFAC 制裁名单移除俄罗斯维护者]]></title>
-        <id>https://www.solidot.org/story?sid=79591</id>
-        <link href="https://www.solidot.org/story?sid=79591"/>
-        <updated>2024-10-25T10:12:03.000Z</updated>
-        <summary type="html"><![CDATA[Linux 项目以合规为由移除了多名俄罗斯维护者，但没有对合规的理由进行澄清。其中一位受影响维护者 Serge Semin 在内核邮件列表上发表了一份长长的告别邮件，资深内核开发者 James Bottomley 随后澄清 Linux 项目是根据美国财政部海外资产控制办公室（OFAC）的特别指定国民清单（SDN）制裁名单移除俄罗斯维护者。如果俄罗斯维护者所在的公司列入 OFAC 的 SDN 清单，受 OFAC 制裁计划的约束，或者由清单上的公司拥有/控制，那么 Linux 项目与维护者合作的能力将受到限制。Bottomley 说，律师们还在讨论细节，会在未来制作一份更长的政策文件。资深 EXT4 维护者 Ted Ts'o（曹子德）还因此讨论了是否应该将华为开发者移除出维护者名单，华为也被美国列入了制裁名单。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报告称中国 5 个行业产能超过全球需求]]></title>
-        <id>https://www.solidot.org/story?sid=79590</id>
-        <link href="https://www.solidot.org/story?sid=79590"/>
-        <updated>2024-10-25T09:19:22.000Z</updated>
-        <summary type="html"><![CDATA[高盛集团分析了光伏面板、锂离子电池、空调、电动汽车、建筑机械、钢铁、功率半导体的供需动向。其中除钢铁和功率半导体以外，其他  5 个行业都陷入了全球水平的产能过剩。产能过剩最为严重的是光伏面板。中国的供应能力达到 1036 吉瓦，这是 2023 年全球需求（533 吉瓦）的 1.9 倍。预计 2024 年以后中国的供应能力会继续高于全球需求。中国的电动汽车产能已达到全球EV需求的 1.2 倍。锂电池的供应能力是国内需求的 3.3 倍、全球需求的 1.5 倍。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[碳排放增长速度超过了疫情前]]></title>
-        <id>https://www.solidot.org/story?sid=79589</id>
-        <link href="https://www.solidot.org/story?sid=79589"/>
-        <updated>2024-10-25T09:11:25.000Z</updated>
-        <summary type="html"><![CDATA[在结束新冠疫情封锁政策后，全世界的碳排放正以比疫情前更快的速度增长。2023 年排放量增长 1.3% 达到 57.1 千兆吨二氧化碳当量，这一数字远高于 2010-2019 年期间的增长率，疫情前十年碳排放平均每年增长 0.8%。目前的全球温室气体排放量仅略低于 2019 年创记录的 59.1 千兆吨峰值。联合国全球环境规划署本周四发表了《2024年排放差距报告》，除了土地使用所有温室气体排放源都在增加。随着经济继续从新冠疫情中复苏，2023 年公路运输排放量、石油和天然气基础设施如管道泄漏以及工业排放量都在快速增长，而航空排放量增长了 19.5%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JetBrains 宣布 WebStorm 和 Rider 针对非商业用途免费｜RustRover 和 Aqua 也免费]]></title>
-        <id>https://www.appinn.com/?p=49892</id>
-        <link href="https://www.appinn.com/jetbrains-webstorm-rider/"/>
-        <updated>2024-10-25T08:58:19.000Z</updated>
-        <summary type="html"><![CDATA[JetBrains 是一家著名的 IDE 软件开发商，旗下产品包括 IntelliJ IDEA（Java）、PyCharm（Python）、WebStorm（JavaScript）、Rider（.NE]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年 Salem 奖授予了 Miguel Walsh 和王艺霖]]></title>
-        <id>https://www.solidot.org/story?sid=79588</id>
-        <link href="https://www.solidot.org/story?sid=79588"/>
-        <updated>2024-10-25T08:51:04.000Z</updated>
-        <summary type="html"><![CDATA[2024 年 Salem 奖授予了 Miguel Walsh 和王艺霖。Salem 奖是为了纪念提出 Salem 数以及 Salem–Spencer 集合的希腊数学家 Raphael Salem，由其遗孀创立，普林斯顿高等研究院数学学院负责颁发，主要授予在分析领域做出杰出贡献的年轻数学家，很多菲尔茨奖得主都获得过该奖项。Miguel Walsh 是阿根廷数学家，他因为在遍历理论、解析数论和多项式方法等方面的贡献而获奖；王艺霖是中国数学家，出生于 1991 年，明年将任教于瑞士苏黎世联邦理工学院，她因为在复分析、概率和数学物理之间建立深层新颖的联系而获奖。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波音制造的一颗卫星在太空爆炸]]></title>
-        <id>https://www.solidot.org/story?sid=79587</id>
-        <link href="https://www.solidot.org/story?sid=79587"/>
-        <updated>2024-10-25T06:44:45.000Z</updated>
-        <summary type="html"><![CDATA[波音公司麻烦缠身，它制造的一颗通信卫星最近在太空爆炸。国际通信卫星公司的 Intelsat 33e 卫星于 2016 年发射，为欧洲、亚洲和非洲提供通信服务，上周末这颗卫星出现了异常。国际通信卫星公司尝试与波音公司合作修复卫星，但本周一美国太空军证实卫星已经解体。卫星解体导致了部分国际通信卫星公司的客户失去通信服务，该公司正与第三方服务提供商合作限制服务中断，并与客户保持沟通。美国太空军正在跟踪大约 20 块碎片，表示碎片不构成迫在眉睫的威胁，正对其进行例行安全评估。而俄罗斯航天局 Roscosmos 称它跟踪到了愈 80 块卫星碎片，称对碎片轨迹的分析显示卫星的破坏是“瞬间而且高能”。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[著名的海量素材管理工具 Eagle 将于 7 天后涨价｜终身授权 8 年不涨价，终于也撑不住了]]></title>
-        <id>https://www.appinn.com/?p=49885</id>
-        <link href="https://www.appinn.com/eagle-price-increase/"/>
-        <updated>2024-10-25T06:37:25.000Z</updated>
-        <summary type="html"><![CDATA[Eagle 是一款已经诞生8年的素材管理工具，支持 Windows 与 macOS，小众软件介绍过很多次。本月23号，Eagle 在公众号发布消息，将于2024年11月1日调价，由 ¥199 涨价至]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Verisign 和 ICANN 更新了 DNS Root Zone 维护者服务协议]]></title>
-        <id>https://www.solidot.org/story?sid=79586</id>
-        <link href="https://www.solidot.org/story?sid=79586"/>
-        <updated>2024-10-25T06:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Verisign 和 ICANN 更新了 DNS Root Zone 维护者服务协议，任期为八年。在 DNS 的层次结构中，Root Zone 位于最上方，对几乎所有互联网导航都至关重要，充当了 DNS 中所有顶级域名的动态、加密安全和全局的目录。Root Zone 维护者是一个独一无二的角色，确保每天至少对 Root Zone 进行一次加密签名和发布，没有它互联网上的导航将是不可能的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 开源其 AI 水印系统 SynthID]]></title>
-        <id>https://www.solidot.org/story?sid=79585</id>
-        <link href="https://www.solidot.org/story?sid=79585"/>
-        <updated>2024-10-24T16:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Google 开源其 AI 水印系统 SynthID，源代码采用 Apache License 2.0 托管在 Github 上。Google 是在今年 5 月宣布了 SynthID，为 AI 生成内容嵌入人眼无法识别但能被算法识别的水印。Google 称，生成式人工智能 (GenAI) 可以以前所未有的规模生成更多种类的高度多样化内容。虽然大多数此类用途都是出于合法目的，但我们担心这可能会导致虚假信息和归因错误问题。水印旨在减轻这些潜在影响。SynthID 是 Google DeepMind 的一项技术，可直接将数字水印嵌入到 AI 生成的图片、音频、文本或视频中，从而为 AI 生成的内容添加水印并识别这些内容。SynthID 文本已开源，让开发者可以为文本生成添加水印。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JetBrains Rider 和 WebStorm 允许非商业用户免费使用]]></title>
-        <id>https://www.solidot.org/story?sid=79584</id>
-        <link href="https://www.solidot.org/story?sid=79584"/>
-        <updated>2024-10-24T15:40:00.000Z</updated>
-        <summary type="html"><![CDATA[捷克的软件开发商 JetBrains 宣布，用于.NET 开发、以及 Unity (C#) 和 Unreal Engine (C++)游戏开发的 IDE Rider 和 Web, JavaScript 和 TypeScript 的 IDE WebStorm 允许非商业用户免费使用。JetBrains 称，今年早些时候，IDE RustRover 和 Aqua 实施了一种新的许可模式，即面向非商业用途免费提供。现在这一模式扩展到 WebStorm 和 Rider。如果用户将这些 IDE 用于非商业用途，例如学习、开源项目开发、内容创建或业余爱好开发，那么现在可以免费使用这些 IDE。这项变动不涉及商业项目，它将继续实施现有的许可模式。其他 JetBrains IDE 也不受此更新的影响。它将根据效果判断是否可以推广带其它 IDE。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挪威将青少年使用社交网络的最低年龄提高到 15 岁]]></title>
-        <id>https://www.solidot.org/story?sid=79583</id>
-        <link href="https://www.solidot.org/story?sid=79583"/>
-        <updated>2024-10-24T15:20:22.000Z</updated>
-        <summary type="html"><![CDATA[挪威计划严格执行社交网络最低年龄 15 岁的政策，以保护青少年免受社交网络有害内容和算法的影响。目前使用社交网络的最低年龄是 13 岁。但现实中年龄低于 13 岁的儿童已经在大量使用社交媒体，根据 Norwegian Media Authority 的研究，超过半数的 9 岁儿童、58% 的 10 岁儿童和 72% 的 11 岁儿童已在使用社交媒体。政府承诺采取更多保护措施防止儿童绕过年龄限制，包括修改《Personal Data Act》，要求社交媒体用户必须年满 15 岁才能同意平台处理其个人数据，它正在为社交媒体开发年龄验证屏障。挪威首相周三表示，此举发出了一个强有力的信号，必须保护儿童免受社交媒体有害内容的侵害。这是大型科技巨头与幼儿大脑的较量。这将是一场艰苦的战斗，这也是需要政治的地方。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundlehunt 2024 年黑五 Mac 软件优惠捆绑包上线了]]></title>
-        <id>https://www.appinn.com/?p=49881</id>
-        <link href="https://www.appinn.com/bundlehunt-2024/"/>
-        <updated>2024-10-24T15:08:53.000Z</updated>
-        <summary type="html"><![CDATA[Bundlehunt 每年都会有一个几十款 Mac 软件在一起的自选超市式捆绑包，均特价。今年的黑五 Mac 软件优惠捆绑包已经上线了，一共有 45 款 macOS 软件以及 3 款 Windows]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinkedIn 被爱尔兰数据保护机构罚款 3.1 亿欧元]]></title>
-        <id>https://www.solidot.org/story?sid=79582</id>
-        <link href="https://www.solidot.org/story?sid=79582"/>
-        <updated>2024-10-24T15:08:40.000Z</updated>
-        <summary type="html"><![CDATA[微软旗下的职业社交网络 LinkedIn 被爱尔兰数据保护机构 Data Protection Commission(DPC)罚款 3.1 亿欧元。LinkedIn 的欧洲总部位于爱尔兰的都柏林，爱尔兰 DPC 是其业务在欧洲的主要监管机构。这是爱尔兰根据欧洲数据保护法 GDPR 开出的金额第五大的罚单。对 LinkedIn 的投诉始于 2018 年，LinkedIn 处理用户数据用于定向广告以及用于跟踪行为的方式被认为不符合 GDPR。微软去年已经为这笔罚款提前预留了 4.25 亿美元，最后的罚款金额略低于这一数字。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Object.is/===、数组at/直接索引、substring/slice的区别]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=11387</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/10/js-object-is-array-at-substring-slice/"/>
-        <updated>2024-10-24T14:57:18.000Z</updated>
-        <summary type="html"><![CDATA[介绍几个JS中非常雷同的方法或者语法，不知道诸位是否可知其中的差异？]]></summary>
-        <author>
-            <name>张 鑫旭</name>
         </author>
     </entry>
     <entry>
