@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-11-23T02:50:04.597Z</updated>
+    <updated>2024-11-24T02:59:49.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[成年黑猩猩会通过游戏促进社会关系]]></title>
+        <id>https://www.solidot.org/story?sid=79860</id>
+        <link href="https://www.solidot.org/story?sid=79860"/>
+        <updated>2024-11-23T15:25:40.000Z</updated>
+        <summary type="html"><![CDATA[部分黑猩猩和人类一样，会在一生中经常与同伴玩耍，尤其是在需要集体合作之前。对生活在科特迪瓦 Tai 森林里的 3 个黑猩猩群体的观察发现，成年雄性和雌性经常在一起玩耍。这些游戏通常包括身体动作，如摔跤、假装咬、拍打、拉扯和追逐。游戏中的黑猩猩也会出现类似人类游戏时的笑脸和笑声。进一步研究显示，成年黑猩猩在参与捕猎或防御等群体活动之前，更有可能进行社交游戏。那些一起玩耍的黑猩猩更有可能进行合作，这表明玩耍可以发出合作信号，增强集体合作力。当黑猩猩只与另一个个体玩耍时，对方常为亲密的社会伙伴，这说明了玩耍、熟悉和信任之间的紧密联系。在黑猩猩社交紧张时，例如争夺配偶或发生争执时，玩耍也更频繁地发生。研究人员认为，玩耍可能提供了一种缓解紧张和解决冲突的手段。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国再次指责中国黑客入侵其电信基础设施]]></title>
+        <id>https://www.solidot.org/story?sid=79859</id>
+        <link href="https://www.solidot.org/story?sid=79859"/>
+        <updated>2024-11-23T15:09:57.000Z</updated>
+        <summary type="html"><![CDATA[上个月《华尔街日报》报道称中国黑客入侵了美国的电信基础设施，本周《华盛顿邮报》和《纽约时报》公布了更多信息。黑客组织被称为 Salt Typhoon，他们能利用美国执法机构在电信基础设施中设置的后门去监听电话和阅读短信。黑客无法监听加密的内容，意味着支持端对端加密的应用如 Signal 和苹果的 iMessage 可能不受影响，但苹果设备和 Android 设备之间的短消息使用的端到端加密方式不同，可能容易被 Salt Typhoon 拦截。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[压缩算法为大模型“瘦身”]]></title>
         <id>https://www.solidot.org/story?sid=79858</id>
@@ -1060,137 +1080,6 @@ If a link looks like a mix of random letters, numbers, or symbols, it might be h
         <summary type="html"><![CDATA[2022 年 4 月，哈萨克斯坦政府暴力镇压全国抗议活动四个月后，网络安全研究人员发现当局在智能手机上部署间谍软件去窃听公民。间谍软件不是由哈萨克斯坦政府开发的，也不是来自以色列，而是来自于意大利公司 RCS Labs。根据 Wikileaks 在 2015 年公开的文件，RCS 与巴基斯坦、智利、蒙古、孟加拉国、缅甸、越南和土库曼斯坦的军方和情报机构打过交道。安全专家称，意大利有六家大型的间谍软件供应商，以及很多小型的相关企业。以色列间谍软件公司如 NSO Group 以开发先进的零点击间谍软件闻名，意大利公司则专注于廉价工具，因此不那么引人注目。因缺乏监管，意大利的间谍软件便宜且使用频率高。意大利记者 Riccardo Coluccini 称，当局最近几年执行了数千次间谍软件行动。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 只能完成高等数学新测试问题的不到 2%]]></title>
-        <id>https://www.solidot.org/story?sid=79776</id>
-        <link href="https://www.solidot.org/story?sid=79776"/>
-        <updated>2024-11-14T14:44:40.000Z</updated>
-        <summary type="html"><![CDATA[基于大模型的 AI 系统如 GPT-4 和 Gemini 1.5 Pro 能以九成以上的正确率完成传统数学测试问题。但如果设计出一种全新的、大模型不可能训练过的数学难题呢？包括菲尔兹奖得主陶哲轩和 Timothy Gowers 在内的 60 多名数学家合作编写了数百道原创研究级数学难题，推出了新的高等数学基准测试 FrontierMath。这些问题非常具有挑战性，陶哲轩称需要相关领域研究生级别的专业人士合作才能完成。问题被设计为防猜测，如果没有正确的数学推理能力，它们是不可能解出的。顶级的 AI 系统只能完成不到 2% 的 FrontierMath 问题，显示它们的推理能力有局限性。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这啥?CSS calc-size和interpolate-size,真学不动了]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=11424</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/11/css-calc-interpolate-size/"/>
-        <updated>2024-11-14T13:54:23.000Z</updated>
-        <summary type="html"><![CDATA[好消息，height:auto、width:fit-content这些以前无法触发transition过渡效果的CSS声明，现在也能动画啦，就是使用calc-size()函数或interpolate-size属性。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOG 宣布了经典游戏的保存计划]]></title>
-        <id>https://www.solidot.org/story?sid=79775</id>
-        <link href="https://www.solidot.org/story?sid=79775"/>
-        <updated>2024-11-14T12:33:17.000Z</updated>
-        <summary type="html"><![CDATA[提供 DRM-free 游戏服务的 GOG 宣布了经典游戏保存计划 GOG Preservation Program。它将投入资源确保获得 Good Old Game: Preserved by GOG 印章游戏的兼容性，并会持续提供技术支持。首批列入保存计划的游戏共 100 款，它特别列举了如何改进《魔法门之英雄无敌3：完整版》、《暗黑破坏神 + 地狱火》和《生化危机捆绑包》的兼容性，其它列入的经典游戏包括了《Jagged Alliance》、《System Shock 2》、《Warcraft I & II》、《Dungeon Keeper Gold》、《Theme Park》、《SimCity 3000 Unlimited》以及 Wing Commander 系列。GOG 称其商店出售的旧游戏不是所有它都有权修改，它和开发商签署的合同有的是禁止它修改的，如果发现存在 bug，只有开发商有权修改，而很多经典游戏的开发商早就不存在了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam 停止支持 Windows 7 和 Windows 8]]></title>
-        <id>https://www.solidot.org/story?sid=79774</id>
-        <link href="https://www.solidot.org/story?sid=79774"/>
-        <updated>2024-11-14T10:42:48.000Z</updated>
-        <summary type="html"><![CDATA[Steam 客户端最新更新停止了对 Windows 7 和 Windows 8 的支持。此举并不出人意料，微软早已停止支持这些旧版本 Windows，而 Valve 提前了两年向客户通知了它的计划。Steam 现在只支持 Windows 10、Windows 11、Linux 和 macOS。根据 10 月的 Steam 硬件调查，只有 0.28% 的 Windows 玩家运行 Windows 7，而运行 Windows 8 和 Windows 8.1 的玩家人数则更少。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软证实在开发掌机]]></title>
-        <id>https://www.solidot.org/story?sid=79773</id>
-        <link href="https://www.solidot.org/story?sid=79773"/>
-        <updated>2024-11-14T10:21:52.000Z</updated>
-        <summary type="html"><![CDATA[微软游戏业务负责人 Phil Spencer 周三表示该部门正在研发一款掌机原型，但在短时间内不会面世。公司目前的重心集中在改进现有便携式设备上 Xbox 应用的性能，以及建立硬件合作伙伴关系。Spencer 表示，游戏部门希望在推出自己的设备前了解和掌握当前的进展。暂时不清楚微软的掌机是类似任天堂 Switch 采用 ARM 芯片或者是当前 Windows 掌机流行使用的 AMD APU。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软宣布 .NET 9]]></title>
-        <id>https://www.solidot.org/story?sid=79772</id>
-        <link href="https://www.solidot.org/story?sid=79772"/>
-        <updated>2024-11-14T10:03:15.000Z</updated>
-        <summary type="html"><![CDATA[微软宣布了 .NET 9，称新版本显著改进了性能，逾千项变更与性能相关。另一个重要变化当然是围绕目前炙手可热的 AI。.NET 9 的主要变化包括：Server GC 改进，Dynamic Profile Guided Optimization(PGO)能优化更多代码模式，LINQ 优化， .NET Aspire 9，在 Microsoft.Extensions.AI 和 Microsoft.Extensions.VectorData 下引入一组抽象提供统一的 C# 抽象层用于与 AI 服务交互，增强了 GitHub Copilot 整合，ASP.NET Core 优化了静态文件处理，改进了 Blazor 等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 裁员 4%]]></title>
-        <id>https://www.solidot.org/story?sid=79771</id>
-        <link href="https://www.solidot.org/story?sid=79771"/>
-        <updated>2024-11-14T09:15:26.000Z</updated>
-        <summary type="html"><![CDATA[AMD 计划在其全球员工中裁员约 4%，即在其员工总数约 26000 人中裁员约 1000 人。AMD 表示，裁员并不意味着公司陷入财务困境，而是将资源重新集中到利润率更高的产品上，此举旨在加速其人工智能和数据中心战略，而不是更广泛的改革。AMD 发言人表示，“作为整合我们资源与最大成长机会的一部分，我们正在采取一系列有针对性的措施，不幸的是，这些措施将导致我们在全球裁员约4%。”AMD 没有披露具体要裁减哪些团队。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluesky 用户突破 1500 万]]></title>
-        <id>https://www.solidot.org/story?sid=79770</id>
-        <link href="https://www.solidot.org/story?sid=79770"/>
-        <updated>2024-11-14T07:19:42.000Z</updated>
-        <summary type="html"><![CDATA[Bluesky 用户突破 1500 万达到 1560 万，在美国总统大选结束一周内它增加了 100 万新用户，它现在是 iOS 上最受欢迎的社媒应用。Bluesky 基于去中心化的 AT 协议，首席运营官 Rose Wang 表示大部分新用户来自美国。其竞争对手、Meta 的微博客应用 Threads 报告有 2.75 亿月活跃用户，每天新增注册用户逾 100 万。Threads 和 Bluesky 目前都没有广告，Meta 已经表示 Threads 将在明年初引入广告。另一则相关消息是，因马斯克（Elon Musk）操纵 X/Twitter 的方式，英国《卫报》公开声明停止更新其 X 官方账号。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果高管为 M4 Mac mini 电源按钮位置辩护]]></title>
-        <id>https://www.solidot.org/story?sid=79769</id>
-        <link href="https://www.solidot.org/story?sid=79769"/>
-        <updated>2024-11-14T06:57:06.000Z</updated>
-        <summary type="html"><![CDATA[苹果最近推出的新款 M4 Mac mini 电脑将电源按钮位置移至了底部。这一设计引发了争议，因为它略微增加了开机的繁琐度，用户需要抬高设备才能按下电源开机。一部人认为现在的电脑一直开着不需要频繁开关机，但不是所有人都会这么做。在 B 站发布的一则视频采访中，苹果高管 Greg Joswiak 和 John Ternus 解释说，Mac mini 的尺寸大幅缩小是这一设计决策背后的主因。M4 Mac min 只有上一代的一半大小，需要为电源按钮寻找一个新位置。他们表示，虽然用户最初批评了这一设计，但电源位置仍然是很方便使用的。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Red Flags for Suspicious Files 🚩]]></title>
-        <id>https://catonmat.net/10-red-flags-for-suspicious-files</id>
-        <link href="https://catonmat.net/10-red-flags-for-suspicious-files"/>
-        <updated>2024-11-14T06:06:06.000Z</updated>
-        <summary type="html"><![CDATA[In this article, extracted from my How to Open Suspicious Files Safely guide, I'll walk you through ten warning signs a file could be risky. Many files might seem safe at first but carry hidden threats. By learning these red flags, you'll know when it's better to avoid opening a file altogether.
-File Sandbox Demo
-Nothing beats a live demo! When a file looks suspicious, open it in a sandboxed environment via browserling.com/browse. You'll get a sandboxed virtual machine that's separate from your computer, so you can explore suspicious files without worry.
-10 Warning Signs a File Could Be Unsafe
-🚩 Strange File Extension
-If a file ends in .exe, .bat, or another unfamiliar extension, it might be trying to run something on your computer. Be extra cautious, as these files can install unwanted s…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feed43 替代者 RssWebAll，抓取任意网页并生成 RSS 地址｜有一个具体的例子]]></title>
-        <id>https://www.appinn.com/?p=50134</id>
-        <link href="https://www.appinn.com/rssweball/"/>
-        <updated>2024-11-14T04:49:21.000Z</updated>
-        <summary type="html"><![CDATA[Feed43 曾经是一个非常实用的在线工具，它可以通过“简单”的过滤规则，为没有 RSS 的任意网页生成 RSS 地址，一旦页面更新，生成的那个 RSS 也会更新，但是 Feed43 已经关闭很久了。]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Red Flags for Suspicious PDFs 🚩]]></title>
-        <id>https://catonmat.net/10-red-flags-for-suspicious-pdfs</id>
-        <link href="https://catonmat.net/10-red-flags-for-suspicious-pdfs"/>
-        <updated>2024-11-13T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, extracted from my How to Open Suspicious PDFs Safely guide, I'll highlight ten warning signs that a PDF might be sketchy. PDFs are everywhere, but not all of them are trustworthy! Use these tips to spot suspicious documents and protect your computer from potential threats.
-PDF Sandbox Demo
-Nothing beats a live demo! When you're unsure if a PDF is safe, just open it in a sandboxed browser at browserling.com/browse. This remote browser (built by me and my team) lets you test PDFs without exposing your system to risk since it runs entirely outside your device. Try it out!
-10 Signs a PDF Might Be Dangerous
-🚩 Strange File Name
-If the PDF's name looks random or has odd characters, it could be hiding something. Hackers often use confusing names to trick people.
-🚩 Unexpected Sen…]]></summary>
-        <author>
-            <name>catonmat.net</name>
         </author>
     </entry>
     <entry>
