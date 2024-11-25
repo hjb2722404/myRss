@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-11-24T02:59:49.694Z</updated>
+    <updated>2024-11-25T02:57:22.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CSS Grid布局中的subgrid的适用场景]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=11437</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/11/css-grid-subgrid/"/>
+        <updated>2024-11-24T16:47:24.000Z</updated>
+        <summary type="html"><![CDATA[subgrid这个子网格特性当时Grid布局出来之后，呼声很高，现在终于支持了，非常适合那种比较规整的多层次嵌套的布局，赶快来了解一番吧。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软必应墙纸应用被指含有类似恶意程序的功能]]></title>
+        <id>https://www.solidot.org/story?sid=79865</id>
+        <link href="https://www.solidot.org/story?sid=79865"/>
+        <updated>2024-11-24T15:13:55.000Z</updated>
+        <summary type="html"><![CDATA[微软最近通过 Windows Store 发布了墙纸应用 Bing Wallpaper，用 Bing 的每日图片更换用户的桌面背景。研究了该墙纸应用的开发者报告它含有类似恶意程序的功能。它会自动安装 Bing Visual Search，解密保存在其它浏览器的 cookie 代码，地理位置 Web API，它还会尝试将 Edge 设置为默认系统浏览器。如果默认浏览器不是 Edge，它会在稍后打开默认浏览器，要求启用之前安装的 Microsoft Bing Search for Chrome 扩展。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网红抱怨 AI 网红抢走了她们的流量]]></title>
+        <id>https://www.solidot.org/story?sid=79864</id>
+        <link href="https://www.solidot.org/story?sid=79864"/>
+        <updated>2024-11-24T14:58:01.000Z</updated>
+        <summary type="html"><![CDATA[Meta 的 Instagram 出现了大量 AI 生成的网红，从真实模特和成人内容创作者窃取视频，替换为 AI 生成的脸，然后通过约会网站、Patreon、OnlyFans 等货币化。成人内容创作者抱怨她们现在需要和 AI 网红竞争。Elaina St James 称，自从 Instagram 上 AI 网红剧增之后，她的内容访问量大幅下降，从 100 万到 500 万次观看量下降到低于 100 万次，有时观看量不足 50 万次。她认为 Instagram 算法是部分原因，但 AI 网红也可能原因之一。她表示自己在与非自然事物进行竞争。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub 称 Copilot 改进了代码质量]]></title>
+        <id>https://www.solidot.org/story?sid=79863</id>
+        <link href="https://www.solidot.org/story?sid=79863"/>
+        <updated>2024-11-24T14:14:49.000Z</updated>
+        <summary type="html"><![CDATA[微软旗下的代码托管平台 GitHub 称其 Copilot 辅助编程工具改进了代码质量。但这一结论可能有自卖自夸的嫌疑。GitHub 官方博客称，Copilot 帮助开发者将编程速度提升了 55%，88% 的开发者感觉开发过程更流畅了，85% 的开发者对代码更有信心了。GitHub 称，它邀请了 202 名有至少五年经验的 Python 开发者，一半人被随机分配使用 GitHub Copilot 辅助编程，另一半对照组被要求不使用任何 AI 工具，最后使用单元测试和专家评审评估他们编写的代码质量。结果表明，Copilot 辅助编写的代码增强了功能性，提高了可读性，有更高的质量，获得了更高的批准率。Copilot 的辅助编程让通过所有 10 项单元测试的可能性提高了 56%，明显错误更少，代码行数增加了 13.6%，可读性提高 3.62%，可靠性提高 2.94%，可维护性提高 2.47%，简洁性提高 4.16%。GitHub 称这些数字都具有统计学上显著意义。非 GitHub 的第三方对辅助编程是否改进代码质量有着不同的结论。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时空也有记忆]]></title>
+        <id>https://www.solidot.org/story?sid=79862</id>
+        <link href="https://www.solidot.org/story?sid=79862"/>
+        <updated>2024-11-24T09:55:19.000Z</updated>
+        <summary type="html"><![CDATA[约半个世纪前，理论学家注意到引力波穿过时空后有可能会对时空造成永久形变！这种不可恢复的变化被称为引力记忆效应，换句话说，时空记得每次发生的改变。引力的记忆效应有两种：线性的记忆效应（由质量分布变化产生，例如超新星爆发）与非线性的记忆效应（由引力波辐射本身引起，即引力波可以产生引力波），其中非线性的记忆效应与广义相对论中的非线性特性具有密切关联，最让科学家们感兴趣的是非线性的记忆效应在不远的将来就有可能被探测到。非线性记忆效应的讯号主要集中在低频率（<10 Hz），现有的地面干涉仪的灵敏度在此频段较差，且地球的地质活动和环境噪音在低频率非常显著，掩盖了记忆效应的讯号。今年 6 月的一篇论文指出，未来启用的太空引力波天文台 LISA 专门用来寻找低频率引力波，能够提供高于地面干涉仪的信噪比，尤其是针对超大质量黑洞合并的记忆效应。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这些值得一看的软件｜但不一定有用[241123]]]></title>
+        <id>https://www.appinn.com/?p=50259</id>
+        <link href="https://www.appinn.com/faxian-241123/"/>
+        <updated>2024-11-24T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[从发现频道列表挑了一些有用的软件，大家一起来看下，看看哪个值得一测。 好评喵：使用AI轻松生成商品/服务评价（免费）  这是一个为商家索要好评时，快速获得好评语的工具。虽然但是，现在的评论真]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软开放预览其受争议的 Windows Recall]]></title>
+        <id>https://www.solidot.org/story?sid=79861</id>
+        <link href="https://www.solidot.org/story?sid=79861"/>
+        <updated>2024-11-23T16:04:20.000Z</updated>
+        <summary type="html"><![CDATA[微软向部分使用 Copilot+ PC 的用户开放预览其受争议的 Windows Recall 功能。Recall 通过每隔数秒进行一次屏幕截图，在本地创造可搜索数字记忆。该功能引发了隐私和安全方面的争议，Recall 显然会将用户的私密信息都截图保存下来，微软因为争议而推迟了 Recall 的发布。最新的开放预览仅提供给高通 Snapdragon X Elite 和 Plus Copilot+ PC 的用户，运行版本为 Windows Insider build 26120.2415。为减少隐私争议，Recall 将强制使用加密，可选择激活，需要 Windows Hello 身份验证。该功能还需要 Secure Boot、BitLocker 加密，会尝试自动模糊密码和信用卡号等敏感数据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[成年黑猩猩会通过游戏促进社会关系]]></title>
         <id>https://www.solidot.org/story?sid=79860</id>
@@ -938,146 +1008,6 @@ If a link looks like a mix of random letters, numbers, or symbols, it might be h
         <link href="https://www.solidot.org/story?sid=79788"/>
         <updated>2024-11-15T14:57:37.000Z</updated>
         <summary type="html"><![CDATA[网信办发布《移动互联网未成年人模式建设指南》，将未成年人模式范围由应用程序扩大到移动智能终端、应用程序、应用程序分发平台三方，“未成年人模式将在移动智能终端设置统一入口，用户可一键开启，所有应用程序实现同步切换，形成安全可控的独立空间。”《建设指南》要求：]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《半条命2》迎来二十周年，社区开发者制作 RTX 版本]]></title>
-        <id>https://www.solidot.org/story?sid=79787</id>
-        <link href="https://www.solidot.org/story?sid=79787"/>
-        <updated>2024-11-15T13:05:41.000Z</updated>
-        <summary type="html"><![CDATA[Valve 于 2004 年 11 月 16 日发布了备受瞩目的 FPS 游戏《半条命2》。很多玩家惊讶的发现，玩《半条命2》需要同时安装另一款叫 Steam 的软件。《半条命2》不是在 Steam 上发布的第一款 Valve 游戏，但它是第一款必须要安装 Steam 的著名游戏，即使实体零售版也是如此。此举让 Valve 获得数以百万计的新玩家，允许它绕过零售商，直接向玩家销售游戏。Valve 此举在玩家中间引发了很多批评，认为它只是另一种令人讨厌的 DRM，当时缺乏证明其存在的理由。20 年后，Steam 改变了 PC 游戏的生态，消除了零售这一中间环节，将游戏的控制权更多的交给开发商和发行商。为了庆祝《半条命2》发布二十周年，社区开发团队 Orbifold Studios 宣布了《Half-Life 2 RTX》版本，为游戏引入了完整的光线跟踪，目前 RTX 版还没有公布发布日期。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美团单车和哈啰单车在郑州市暂停运营]]></title>
-        <id>https://www.solidot.org/story?sid=79786</id>
-        <link href="https://www.solidot.org/story?sid=79786"/>
-        <updated>2024-11-15T10:26:02.000Z</updated>
-        <summary type="html"><![CDATA[美团单车和哈啰单车 1 5日在 app 上弹出公告称，将暂时停止郑州市的共享单车服务。哈啰单车表示，因系统全面升级，哈啰单车将于 2024 年 11 月 15 日起在郑州市暂停运营，恢复时间另行通知。用户如有需求，可进行骑行卡退款。美团单车声明称，因车辆回仓保养，美团单车将于 11 月 15 日 10 时在郑州市暂停运营，恢复时间另行通知。同时，美团单车提供暂停骑行套餐以及退款相关服务。滴滴青桔尚未发布相关停运声明。在这之前，郑州大学生夜骑开封，引发了广泛关注。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现错过截止日期会导致他人更苛刻的评价你的工作]]></title>
-        <id>https://www.solidot.org/story?sid=79785</id>
-        <link href="https://www.solidot.org/story?sid=79785"/>
-        <updated>2024-11-15T10:23:09.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《Organizational Behavior and Human Decision Processes》期刊上的一项研究，相比按时递交，错过截止日期递交的作品会受到更苛刻的评价，即使推迟时间很短或者提前沟通过。研究调查了英美两国的数千人，其中包括经理、高管、HR 和其他参与工作评估的职员。参与者被要求对广告传单、艺术图、商业提案、产品宣传、摄影和新闻等作品进行评分，他们首先会被告知作品是提前递交，截止日期前递交或推迟递交。结果显示，相同的作品，如果被告知是错过截止日期递交，那么相比按时或提前递交，其评价要低得多。评估者会认为该员工缺乏诚信，未来不太愿意继续合作或分配任务。提前递交作品并不会带来更好的评价。而如果推迟的原因是员工不可控制的，比如担任陪审员，那么应该让经理知道，这不会成为负面因素。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一站式 AI 多媒體增強與轉檔軟體 VideoProc 黑五大促，新模型帶來更強大的 AI 影片、圖片、音訊處理功能]]></title>
-        <id>https://www.appinn.com/?p=50166</id>
-        <link href="https://www.appinn.com/videoproc-2024-black-friday/"/>
-        <updated>2024-11-15T09:31:35.000Z</updated>
-        <summary type="html"><![CDATA[後期製作中的挑戰難以避免，無論是在弱光環境、捕捉快速移動物體，還是放大圖像時保持打印品質，這些問題都可能影響最終成果。幸運的是，VideoProc Converter AI 利用其強大的「超分辨率」技]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信 8.0.54 更新，WeChat 用户支持通行密钥登录[iOS]]]></title>
-        <id>https://www.appinn.com/?p=50133</id>
-        <link href="https://www.appinn.com/wechat-8-0-54-passkeys/"/>
-        <updated>2024-11-15T09:30:22.000Z</updated>
-        <summary type="html"><![CDATA[微信 iOS 8.0.54 版本今日更新，在 我 > 设备 > 账户与安全中，新增通行密钥功能，适用于 iOS 16 以上系统，以及仅限 WeChat 用户使用。@Appinn 通行密钥（Passke]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国黑客因窃取 Bitfinex 比特币被判五年]]></title>
-        <id>https://www.solidot.org/story?sid=79784</id>
-        <link href="https://www.solidot.org/story?sid=79784"/>
-        <updated>2024-11-15T07:46:47.000Z</updated>
-        <summary type="html"><![CDATA[美国黑客 Ilya Lichtenstein 因在 2016 年入侵交易所 Bitfinex 窃取 12 万枚比特币而被判 5 年徒刑。他在妻子 Heather Morgan 的帮助下洗钱，Morgan 将于 11 月 18 日宣布刑期。在盗窃发生时比特币价值 7000 万美元，等到他们于 2022 年被捕时总价值升至了 45 亿美元，如今随着币值单价接近 9 万美总价值再次翻倍。这是至今金额最高的比特币盗窃案之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国的机器人革命迫使劳动力作出改变]]></title>
-        <id>https://www.solidot.org/story?sid=79783</id>
-        <link href="https://www.solidot.org/story?sid=79783"/>
-        <updated>2024-11-15T07:27:05.000Z</updated>
-        <summary type="html"><![CDATA[中国已成为世界最大的工业机器人市场，去年中国安装了逾 276,000 台机器人，占全球的半数以上。过去大部分工业机器人都是进口的，主要是来自日本、德国和美国。如今中国企业越来越多地采用国产机器人，国产型号的价格通常是进口型号的一小部分，有助于降低成本，但问题是谁来操纵这些智能机器？中国制造业严重依赖于总数不足 3 亿的农民工，而他们的平均教育水平虽然在缓慢提高，但其中 52% 的农民工只接受过中学教育，14% 只接受过小学教育。研究人员发现，低教育水平的农民工最有可能被机器人取代。农民工也越来越多的转向薪酬更低的服务业。官方统计数据显示，2023 年 28% 的农民工从事制造业，54% 从事服务业。中国有大量接受良好教育的工程师和技术工人。他们仍然需要接受培训才能使用工业机器人。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国研究人员重新发明轮子]]></title>
-        <id>https://www.solidot.org/story?sid=79782</id>
-        <link href="https://www.solidot.org/story?sid=79782"/>
-        <updated>2024-11-15T06:59:08.000Z</updated>
-        <summary type="html"><![CDATA[想象一下轮子能滚过各种障碍物，甚至能爬楼梯。韩国机械与材料研究所（Korea Institute of Machinery and Materials）的研究人员研发出一种能变形的轮子，可以滚过 1.3 倍于其半径高度的障碍物。它的设计受到了水滴表面张力的启发，遇到障碍物时会从固态变成流体状态。变形轮由外圈链条和一系列通过轮毂的辐条组成。辐条的刚度会根据传感器对地形的反应自动调节。研究人员演示了配备变形轮的原型轮椅，能爬上 18 厘米高的台阶。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenMP 6.0 释出]]></title>
-        <id>https://www.solidot.org/story?sid=79781</id>
-        <link href="https://www.solidot.org/story?sid=79781"/>
-        <updated>2024-11-15T06:16:25.000Z</updated>
-        <summary type="html"><![CDATA[OpenMP Architecture Review Board 宣布释出 OpenMP 6.0。OpenMP（Open Multi-Processing）是一套支持跨平台共享内存方式的多线程并发的编程 API，支持 C、C++ 和 Fortran 语言，能在大多数的处理器体系和操作系统中运行。OpenMP 6.0 致力于在新应用中支持并行编程更简单，适应新用例更轻松，开发者控制更精细。通过支持自由线程（free-agent threads）任务执行，允许记录任务图以实现高效重放等改进，OpenMP 简化了任务编程。其它改进包括支持数组语法应用，改进控制内存分配和可访问性，简化编写异步数据传输，支持 C23 / Fortran 2023 / C++23 标准，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 因违反欧盟反垄断规定被罚 8.4 亿美元]]></title>
-        <id>https://www.solidot.org/story?sid=79780</id>
-        <link href="https://www.solidot.org/story?sid=79780"/>
-        <updated>2024-11-15T05:48:12.000Z</updated>
-        <summary type="html"><![CDATA[欧盟因 Meta 不公平的将其分类广告服务 Facebook Marketplace 与社交网络捆绑在一起而处以 8.4 亿美元罚款，这是社交巨人首次收到欧盟的反垄断罚款。欧盟委员会裁定，Meta 必须停止将 Marketplace 与 Facebook 社交平台捆绑在一起，停止对竞争的分类广告服务施加不公平条交易条件。欧盟监管机构发现，Meta 利用 Facebook 庞大的用户群损害竞争对手，利用竞争对手的广告数据加强 Marketplace。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脚本猫 – 开源用户脚本管理扩展，支持后台、定时脚本运行[Chrome/Firefox]]]></title>
-        <id>https://www.appinn.com/?p=50132</id>
-        <link href="https://www.appinn.com/scriptcat/"/>
-        <updated>2024-11-15T04:12:58.000Z</updated>
-        <summary type="html"><![CDATA[ScriptCat（脚本猫）是一个适用于 Chrome、Firefox、Edge 等兼容浏览器的开源用户脚本管理扩展（油猴脚本），参考了油猴的设计思路并且支持油猴脚本。额外实现了一个后台脚本运行的框架]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因使用盗版软件期刊撤下了两篇论文]]></title>
-        <id>https://www.solidot.org/story?sid=79779</id>
-        <link href="https://www.solidot.org/story?sid=79779"/>
-        <updated>2024-11-15T03:36:33.000Z</updated>
-        <summary type="html"><![CDATA[期刊出版商 Elsevier 旗下的《Ain Shams Engineering Journal》撤下了两篇讨论溃坝的论文，原因是论文使用的计算流体力学软件 FLOW-3D 被开发商 Flow Science 投诉是盗版。期刊主编称，他们在收到投诉之后展开了调查，论文作者承认 FLOW-3D 没有购买许可证。而论文发表的条件之一是不能侵犯任何个人或实体的知识产权，任何软件的使用都需要在软件所有者的授权或许可下进行。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[洋葱新闻拍下了 InfoWars]]></title>
-        <id>https://www.solidot.org/story?sid=79778</id>
-        <link href="https://www.solidot.org/story?sid=79778"/>
-        <updated>2024-11-14T15:45:31.000Z</updated>
-        <summary type="html"><![CDATA[美国最好的新闻来源洋葱新闻(The Onion)拍下了美国最知名的阴谋论网站 InfoWars。InfoWars 创始人 Alex Jones 因宣称发生在 2012 年的 Sandy Hook 小学枪击案是一场骗局而被受害者家属提起诉讼，2022 年他被勒令向受害者家属赔偿近 15 亿美元，而 Jones 在当年申请了破产，法官同意清算其资产以支付赔偿金。本周三 InfoWars 拍卖所得将支付给受害者家属。洋葱新闻没有披露它的出价，它声明将重建网站，停止出售维生素和补充剂。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[意大利出人意料的成为间谍软件的主要供应国]]></title>
-        <id>https://www.solidot.org/story?sid=79777</id>
-        <link href="https://www.solidot.org/story?sid=79777"/>
-        <updated>2024-11-14T15:19:34.000Z</updated>
-        <summary type="html"><![CDATA[2022 年 4 月，哈萨克斯坦政府暴力镇压全国抗议活动四个月后，网络安全研究人员发现当局在智能手机上部署间谍软件去窃听公民。间谍软件不是由哈萨克斯坦政府开发的，也不是来自以色列，而是来自于意大利公司 RCS Labs。根据 Wikileaks 在 2015 年公开的文件，RCS 与巴基斯坦、智利、蒙古、孟加拉国、缅甸、越南和土库曼斯坦的军方和情报机构打过交道。安全专家称，意大利有六家大型的间谍软件供应商，以及很多小型的相关企业。以色列间谍软件公司如 NSO Group 以开发先进的零点击间谍软件闻名，意大利公司则专注于廉价工具，因此不那么引人注目。因缺乏监管，意大利的间谍软件便宜且使用频率高。意大利记者 Riccardo Coluccini 称，当局最近几年执行了数千次间谍软件行动。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
