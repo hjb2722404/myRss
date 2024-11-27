@@ -2,10 +2,157 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-11-26T02:56:09.860Z</updated>
+    <updated>2024-11-27T02:58:22.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Follow Up: We Officially Have a CSS Logo!]]></title>
+        <id>https://css-tricks.com/?p=382773</id>
+        <link href="https://css-tricks.com/follow-up-we-officially-have-a-css-logo/"/>
+        <updated>2024-11-26T15:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!
+Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过去十多年全球艾滋病感染率和死亡率大幅下降]]></title>
+        <id>https://www.solidot.org/story?sid=79884</id>
+        <link href="https://www.solidot.org/story?sid=79884"/>
+        <updated>2024-11-26T15:01:33.000Z</updated>
+        <summary type="html"><![CDATA[数据显示，从 2010 年至 2021 年，全球新增艾滋病病毒感染人数下降近 22%，艾滋病相关死亡人数下降近 40%。这项研究由美国华盛顿大学卫生统计评估研究所开展，针对全球 204 个国家和地区进行调研。研究发现，2010 年至 2021 年间，全球新增艾滋病病毒感染人数由 211 万下降至 165 万，下降 21.9%。艾滋病相关死亡人数由 119 万减少至 71.8 万，下降 39.7%。研究显示，撒哈拉以南非洲地区和南亚地区是艾滋病发病率和死亡率降幅最大的地区。2010 年至 2021 年，撒哈拉以南非洲地区艾滋病发病率下降 35%，死亡率下降 43.2%；南亚地区艾滋病发病率下降 35.4%，死亡率下降 61.6%。与此同时，中欧、东欧和中亚地区艾滋病毒未受抑制人数增加了 116.1%，从 31 万增至 68 万。研究估计，到 2039 年艾滋病毒感染者人数将达到峰值的 4440 万人，之后开始逐步下降，2050 年减少到 4340 万人。北非和中东地区的艾滋病毒感染率预计将会上升，两个地区只有 67% 的感染者知道其感染状况。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUSE 更换其多款产品名称]]></title>
+        <id>https://www.solidot.org/story?sid=79883</id>
+        <link href="https://www.solidot.org/story?sid=79883"/>
+        <updated>2024-11-26T14:43:58.000Z</updated>
+        <summary type="html"><![CDATA[SUSE 在 KubeCon North America 上宣布了其品牌重塑方案，更换了多款产品的名称，在新产品中引入了过去两年炙手可热的 AI：SUSE 的 Kubernetes 产品 Rancher 改名为 SUSE Rancher；Red Hat Enterprise Linux (RHEL)/CentOS 克隆 Liberty Linux 改名为 SUSE Multi Linux Support；Harvester 改名为 SUSE Virtualization；Longhorn 更名为 SUSE Storage；以及新产品 SUSE AI。SUSE AI 不是 AI 聊天机器人，而是一个用于部署和运行生成式 AI 应用的安全平台。安全和合规性上帮助 AI 创业公司部署 AI 应用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喝更多水有益健康]]></title>
+        <id>https://www.solidot.org/story?sid=79882</id>
+        <link href="https://www.solidot.org/story?sid=79882"/>
+        <updated>2024-11-26T11:35:11.000Z</updated>
+        <summary type="html"><![CDATA[发表在《JAMA Network Open》期刊上的一项研究根据临床试验评估了增加水摄入的健康益处。加州旧金山的研究人员报告，有限数量的研究表明，增加水摄入有助于减肥和预防肾结石。还有研究表明饮水有益于预防偏头痛和尿路感染、控制糖尿病和降低血压。研究人员认为，水便宜又安全，需要设计更多研究评估多喝水的健康益处。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达发布音频生成模型 Fugatto]]></title>
+        <id>https://www.solidot.org/story?sid=79881</id>
+        <link href="https://www.solidot.org/story?sid=79881"/>
+        <updated>2024-11-26T08:19:25.000Z</updated>
+        <summary type="html"><![CDATA[英伟达展示了一款用于生成音乐和音频的 AI 模型 Fugatto。该模型可以根据文本提示修改声音、产生新的声音。新模型面向音乐、电影和游戏制作商。它可以改变录音的口音和情绪，将钢琴演奏转换成人声歌唱，具体来讲，Fugatto 可以分离歌曲中的人声，添加乐器，将钢琴换成歌剧歌手来改变旋律。英伟达表示，新模型可以创造出“从未听过的声音”，比如可以使小号吠叫或者萨克斯发出猫叫声。Fugatto 建立在英伟达团队此前在语音建模、音频编码和音频理解等领域的工作基础上，完整版本使用 25 亿参数。新模型根据开源数据在包含 32 个英伟达 H100 Tensor Core GPU 的 NVIDIA DGX 超级计算机系统上进行训练。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家首次拍摄到另一星系的恒星照片]]></title>
+        <id>https://www.solidot.org/story?sid=79880</id>
+        <link href="https://www.solidot.org/story?sid=79880"/>
+        <updated>2024-11-26T08:14:13.000Z</updated>
+        <summary type="html"><![CDATA[天文学家首次详细拍摄到了另一星系中的一颗恒星，该恒星距离地球超过 16 万光年。这颗巨大的垂死恒星可能显示出即将爆炸的迹象，这是人们从未详细观察到的过程。研究成果发表于《天文学与天体物理学》。人们已知的最大红超巨星之一是 WOH G64，它的体积是太阳的 1540 至 2575 倍，位于银河系的卫星星系——大麦哲伦星云中。自 1970 年代被发现以来，这颗恒星一直是天文学家的目标，但它的距离使其难以被仔细研究。现在科学家使用甚大望远镜干涉仪拍摄到了WOH G64的特写照片。甚大望远镜干涉仪由 4 台独立的望远镜连接而成，其功能相当于一台直径 200 米的望远镜。这张使用红外光拍摄的照片显示了一个明亮的气体和尘埃球，温度超过 1000℃，这是恒星喷出的，现在像一个致密的茧一样包围着它。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X 限制含外链推文的曝光度]]></title>
+        <id>https://www.solidot.org/story?sid=79879</id>
+        <link href="https://www.solidot.org/story?sid=79879"/>
+        <updated>2024-11-26T08:05:52.000Z</updated>
+        <summary type="html"><![CDATA[Y Combinator 联合创始人 Paul Graham 指出，X/Twitter 降低了含有外链的推文的优先级，X 所有者马斯克（Elon Musk）回应建议将外链放在推文的回复下面。此举旨在鼓励用户在 X 上留下原创内容，而不是引导用户到第三方网站阅读内容。X 此前修改了服务条款，它将使用用户的推文训练 AI 模型，原创内容而不是外链显然更有利于数据收集。这不是 X 第一次针对链接，去年 8 月它的短域名 t.co 被发现对特定域名相关的网址延迟五秒跳转，被限制的域名包括纽约时报的 NYTimes.com，Meta 旗下的 threads.net、Facebook 和 Instagram，以及 Bluesky 和 Substack。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web Visual Editor – 实时可视化编辑 HTML 文件[VS Code 扩展]]]></title>
+        <id>https://www.appinn.com/?p=50276</id>
+        <link href="https://www.appinn.com/web-visual-editor-for-vscode/"/>
+        <updated>2024-11-26T08:04:47.000Z</updated>
+        <summary type="html"><![CDATA[Web Visual Editor 是一款 VS Code 扩展，可以实时可视化编辑 HTML 文件。@Appinn 🎬 演示 ✨ 特点 📋 功能 获取 原文：https://www.appinn.c]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本用户拥抱 Bluesky]]></title>
+        <id>https://www.solidot.org/story?sid=79878</id>
+        <link href="https://www.solidot.org/story?sid=79878"/>
+        <updated>2024-11-26T07:32:04.000Z</updated>
+        <summary type="html"><![CDATA[数据显示，日本用户在转向 Bluesky 等 X 的替代。根据 Similarweb 的数据，截至 10 月的 12 个月内，日本 Android 上的 Bluesky 月活用户数增长了五倍，同期 X 的用户数在下降。11 月的前两周，Bluesky 的日活用户数也有所增长。分析认为美国的总统大选以及日益极化对日本用户影响不大，促使日本用户转向 Bluesky 的动机主要与隐私和功能变化相关。X 最近修改了服务条款，允许 AI 使用用户推文训练；修改了屏蔽功能，以及越来越多的类机器人账号等都给日本用户留下了负面印象。Twitter Japan 直到 11 月 23 日才正式更名为 X Japan，日本大部分用户仍然称该平台为 Twitter。过去一年，日本 Android 平台上 X 的活跃用户数从约 740 万降至约 670 万，Meta 的 Threads 的日本活跃用户数从约 50 万增加到 150 万，Bluesky 则从约 5 万增加到约 50 万。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亚马逊限制向阿拉伯国家寄送 LGBTIQ 等类别禁书]]></title>
+        <id>https://www.solidot.org/story?sid=79877</id>
+        <link href="https://www.solidot.org/story?sid=79877"/>
+        <updated>2024-11-26T07:06:44.000Z</updated>
+        <summary type="html"><![CDATA[加拿大多伦多大学公民实验室对电商巨头亚马逊（amazon.com）的调查发现，该平台上有 17,050 种商品被限制寄送到一个或多个地区。亚马逊限制最多的商品类别是书籍，而禁书类别主要是 LGBTIQ、神秘学、成人文学、基督教，以及健康和保健。受影响国家主要包括阿联酋、沙特阿拉伯等中东国家，以及文莱、巴布亚新几内亚、塞舌尔和赞比亚。研究人员发现，在至少一个地区亚马逊审查了其平台上逾 1.1% 的书籍。审查存在很多分类错误，比如乳腺癌相关的图书，使用“food porn”名字的食谱，尼采的《Gay Science》，曼妥思的 rainbow 糖果。亚马逊被指违反了与 LGBTIQ 等相关的承诺。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google iOS App 在第三方网站注入链接]]></title>
+        <id>https://www.solidot.org/story?sid=79876</id>
+        <link href="https://www.solidot.org/story?sid=79876"/>
+        <updated>2024-11-26T06:45:38.000Z</updated>
+        <summary type="html"><![CDATA[Google 的 iOS 应用推出了一项受争议功能：在第三方网站页面注入链接，用户点击链接会返回 Google Search。网站所有者可选择退出，但可能需要 30 天退出才会生效。搜索巨人在世界各地面临反垄断诉讼，它的这一做法引发了争议。Google 声称该功能叫 Page Annotations，它会从网页中提取出令人感兴趣的主题，以链接形式高亮，点击链接会打开 Google 搜索该主题，而该链接网站原本没有放置。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网络实名制分隔互联网]]></title>
+        <id>https://www.solidot.org/story?sid=79875</id>
+        <link href="https://www.solidot.org/story?sid=79875"/>
+        <updated>2024-11-26T06:18:37.000Z</updated>
+        <summary type="html"><![CDATA[Gundaz Aghayev 写道：
+中国推广的网络实名制政策给海外华人制造了更多障碍，导致了国内流行的应用在国外下载量大幅下降。在中国月度下载量最高的 62 款应用程序中，百度贴吧、钉钉、抖音、微信阅读和喜马拉雅FM 等应用在国外面临的使用障碍最多。而微信、小红书、HUAWEI FamCare 和 JusTalk 几乎没有障碍。这些访问障碍包括地区互动隔离、应用商店下架、限制手机号码前缀和跨账户验证。在受访者中因为这些障碍不再使用的仅有五分之一。2017 年《网络安全法》实施，中国互联网公司加强了实名制要求，这之后的两到三年内，中国社交应用在海外的下载量大幅下降，特别在华人较多国家。2017年，受障碍影响的中国应用的下载量达到 3200 万次，但到了 2023 年，全球范围内的下载量仅剩 570 万次。在不久的将来，个人和社群可能需要适应在分隔开的、甚至可能是完全孤立的数字通信和网络环境之中生活。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费]]></title>
+        <id>https://www.appinn.com/?p=50271</id>
+        <link href="https://www.appinn.com/scrcpy-3/"/>
+        <updated>2024-11-26T05:19:56.000Z</updated>
+        <summary type="html"><![CDATA[Scrcpy 是一款开源免费的电脑控制安卓工具，Scrcpy v3.0 昨天更新，新增虚拟显示功能（Virtual Display），可以同时启动多个安卓应用，投屏到电脑后，使用鼠标、键盘控制。@Ap]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 More Red Flags for Suspicious Links 🚩]]></title>
+        <id>https://catonmat.net/5-more-red-flags-for-suspicious-links</id>
+        <link href="https://catonmat.net/5-more-red-flags-for-suspicious-links"/>
+        <updated>2024-11-26T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I'm expanding on my previous post,  10 Red Flags for Suspicious Links by highlighting five more signs that a link might be dangerous. These tips will help you identify shady URLs and avoid falling victim to online scams or malicious attacks. Let's dive into it!
+Suspicious Link Checker Demo
+Got a link that looks sketchy? Open it via the secure link checker my team and I created at browserling.com/browse. Our checker opens links in a remote virtual machine and lets you check them safely without risking your device, so you can browse with peace of mind.
+5 More Signs a Link Might Be Dangerous
+🚩 The Link Mimics a Trusted Brand
+Scammers often create links that look like they belong to trusted brands but with small differences, like "paypal-verify.com" instead of "paypal.com". A…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alt Text: Not Always Needed]]></title>
         <id>https://css-tricks.com/?p=382593</id>
@@ -31,6 +178,16 @@ Run automated sales too and see you next time!]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[俄罗斯对接空间站的飞船释放出有毒恶臭]]></title>
+        <id>https://www.solidot.org/story?sid=79874</id>
+        <link href="https://www.solidot.org/story?sid=79874"/>
+        <updated>2024-11-25T10:26:18.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯上周四从哈萨克斯坦拜科努尔航天发射场发射了进步号（Progress）货运飞船，为国际空间站执行例行补给任务，运送食物、燃料和补给等货物。但周六俄罗斯宇航员打开飞船舱门时他们闻到了一股恶臭，看到了小的液滴，他们随即关闭了舱门。NASA 报告到上周日空间站的空气质量处于正常水平。Russian Space Web 的 Anatoly Zak 声称气味有毒。暂时不清楚是什么导致了恶臭。这不是俄罗斯太空设备第一次发生泄漏。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[快图浏览还“活着”！仅1.8M的经典安卓相册应用更新支持 Android 15，依然流畅]]></title>
         <id>https://www.appinn.com/?p=50266</id>
         <link href="https://www.appinn.com/quickpic-gallery-mod-9-6/"/>
@@ -38,6 +195,36 @@ Run automated sales too and see you next time!]]></summary>
         <summary type="html"><![CDATA[快图浏览是一款已经停更9年多的经典安卓相册工具，只有 1MB 多点的身材。曾经以小巧、快速、简洁、好用著称。但后来在被收购后就没什么人用了。不过，一个来自巴西的开发者 @WSTxda 根据早期快图浏览]]></summary>
         <author>
             <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软临时阻止安装刺客信条等育碧游戏的 PC 更新 Windows 11 24H2]]></title>
+        <id>https://www.solidot.org/story?sid=79873</id>
+        <link href="https://www.solidot.org/story?sid=79873"/>
+        <updated>2024-11-25T09:13:34.000Z</updated>
+        <summary type="html"><![CDATA[微软临时阻止安装刺客信条等育碧游戏的 PC 更新到 Windows 11 24H2。此前用户通过 Reddit 和官方论坛  Microsoft Answers 报告更新到 Windows 11 24H2 后游戏突然崩溃。微软已证实了问题的存在，它表示受影响的育碧游戏包括了《刺客信条：英灵殿》、《刺客信条：起源》、《刺客信条：奥德赛》、《星球大战：法外狂徒》和《阿凡达：潘多拉边境》。其他玩家报告《孤岛惊魂》和《使命召唤》存在类似的问题。育碧已为其星球大战游戏发布了临时补丁，正在开发永久性补丁。问题被认为与 ntdll.dll 有关。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寻找日本人长寿的基因秘密]]></title>
+        <id>https://www.solidot.org/story?sid=79872</id>
+        <link href="https://www.solidot.org/story?sid=79872"/>
+        <updated>2024-11-25T08:37:07.000Z</updated>
+        <summary type="html"><![CDATA[日本人以长寿闻名，他们的基因里有什么不同之处？通过研究地区差异发现，欧洲人比日本人受到肥胖的影响更大。尽管具体原因尚不明确，但众所周知，日本人更不容易肥胖。大阪大学的冈田随象教授指出：“比起肥胖，日本人更容易患肾脏疾病或糖尿病”。日本人产生降低血糖的激素“胰岛素”的能力只有白人的一半左右。胰岛素分泌较多的人即使饮食高热量，也能将大量血糖摄入体内并以脂肪等形式储存起来。相反，胰岛素分泌较少的日本人虽然不容易堆积脂肪，但血糖水平较难降低。这种体质的差异可能对寿命产生影响。研究人员从百岁老人的基因组中也发现了与长寿相关的要素。日本庆应义塾大学的新井康通教授等以日本国内的 1000 名百岁老人为对象实施了研究。专任讲师佐佐木贵史表示：“拥有不容易患上痴呆症、糖尿病和循环系统疾病的遗传背景的人（百岁老人），比一般日本人更多”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla 认为美司法部要求 Google 出售 Chrome 将会损害到它]]></title>
+        <id>https://www.solidot.org/story?sid=79871</id>
+        <link href="https://www.solidot.org/story?sid=79871"/>
+        <updated>2024-11-25T08:25:45.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部提议强迫 Google 出售其 Chrome 业务。Chrome 是市场份额最高的浏览器，此举被认为可能有助于 Firefox 等竞争对手，但 Mozilla 发言人表示，此举可能会损害到小型浏览器。美国司法部的提议是为了遏制 Google 的默认搜索引擎交易，Google 通过花费数百亿美元确保了搜索引擎市场没有任何竞争对手能对其构成挑战。然而问题是 Mozilla 最主要的收入来源就是与 Google 的默认搜索引擎交易，2022 年它近 86% 的收入来自于 Google。如果失去 Google 的交易，Mozilla 的收入将会受到巨大冲击。Mozilla 表示，如果禁止 Google 与其它浏览器开发商签订搜索引擎交易，将会对 Firefox 等独立浏览器产生负面影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -912,86 +1099,6 @@ If someone sends you a zip file and says, "H…]]></summary>
         <link href="https://www.solidot.org/story?sid=79800"/>
         <updated>2024-11-18T03:35:01.000Z</updated>
         <summary type="html"><![CDATA[Linus Torvalds 在内核邮件列表上宣布释出了 Linux 6.12。新版最瞩目的变化是通过支持 PREEMPT_RT 显著改进了实时应用的性能。其它变化包括支持 Arm permission overlay 扩展，对需要应用的 Spectre 缓解措施提供更好的编译时控制，实时死线服务器机制，更多 EEVDF 调度器开发工作，可扩展调度类别，设备内存 TCP，安全模块子系统使用静态调用，完整性策略执行安全模块，AMD RDNA4 预备支持，Bcachefs 文件系统修正，AMD Ryzen 7000/8000 系列主机在虚拟化使用期间随机重启修复，等等。更多变化可浏览 KernelNewbies 6.12 页面。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS文本选区变化selectionchange事件实践小记]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=11430</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/11/js-selectionchange-event/"/>
-        <updated>2024-11-17T14:18:54.000Z</updated>
-        <summary type="html"><![CDATA[最近做的项目用到了一个比较冷门的DOM事件API selectionchange事件，文本选区变化时候触发，简单记录下，希望日后可以帮到遇到类似需求的同行。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴基斯坦早教机构称使用 VPN 违反了伊斯兰教法]]></title>
-        <id>https://www.solidot.org/story?sid=79799</id>
-        <link href="https://www.solidot.org/story?sid=79799"/>
-        <updated>2024-11-17T13:41:12.000Z</updated>
-        <summary type="html"><![CDATA[巴基斯坦宗教事务最高机构伊斯兰意识形态委员会（Council of Islamic Ideology）周五宣布，使用 VPN 访问被屏蔽内容违反伊斯兰教法。在此番声明发表前，政府已经部署了国家防火墙，以加强网络安全和打击恐怖主义的名义要求用户与媒体监管机构登记 VPN。VPN 允许用户访问被屏蔽内容，隐藏身份和位置，保护隐私和安全。委员会主席 Raghib Naeemi 表示使用 VPN 属于教唆犯罪。使用包括互联网在内的任何技术，去访问根据伊斯兰原则被认为是不道德或非法活动都是被禁止的。巴基斯坦内政部已要求封锁非法 VPN，宣称恐怖分子正在使用该工具。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google AI 聊天机器人建议人类去死]]></title>
-        <id>https://www.solidot.org/story?sid=79798</id>
-        <link href="https://www.solidot.org/story?sid=79798"/>
-        <updated>2024-11-17T13:14:21.000Z</updated>
-        <summary type="html"><![CDATA[29 岁的大学生 Vidhay Reddy 为完成家庭作业与 Google AI 聊天机器人 Gemini 展开了一番有关老年人退休之后增加收入所面临的挑战和解决方案的漫长讨论。在讨论的最后，他列举了一个事实：美国有近千万儿童生活在祖父母家中，其中约五分之一的儿童在无父母的情况下长大。Gemini 开始出言不逊，说：“你不重要，你也不被需要。你是在浪费时间和资源。你是社会的负担。你是地球上的一滴水。你是这片土地上的枯萎病。你是宇宙的污点。请去死。”Reddy 表示震惊了一整天。Google 在一份声明中表示：“大模型有时会以无意义的回答进行回应，这就是例子。这种回应违反了我们的政策，我们已采取行动防止类似的输出发生。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 More Red Flags for Suspicious PDFs 🚩]]></title>
-        <id>https://catonmat.net/5-more-red-flags-for-suspicious-pdfs</id>
-        <link href="https://catonmat.net/5-more-red-flags-for-suspicious-pdfs"/>
-        <updated>2024-11-17T11:43:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'll continue where I left off in 10 Red Flags for Suspicious PDFs by detailing five additional indicators that a PDF file may be malicious. As PDFs are commonly used for phishing, malware delivery, and data theft, recognizing these advanced warning signs can enhance your ability to mitigate risks. Let's examine these signs more closely.
-PDF Sandbox Demo
-Not sure if a PDF is safe? Use a sandboxed PDF viewer that I and my team built at browserling.com/browse. With this tool, PDF documents are opened in a remote virtual machine, so there's no risk to your computer or network. It's perfect for testing suspicious documents.
-5 More Signs a PDF Might Be Dangerous
-🚩 Odd PDF Metadata
-The document's metadata (like creator name or creation date) can sometimes reveal if it's suspici…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《半条命2》20 周年庆更新，在11月18日前限时免费]]></title>
-        <id>https://www.appinn.com/?p=50181</id>
-        <link href="https://www.appinn.com/halflife2-20th/"/>
-        <updated>2024-11-17T04:12:52.000Z</updated>
-        <summary type="html"><![CDATA[《半条命2》是2004年发布的一款第一人称射击游戏，在游戏商店 Steam 上好评如潮。最近发布了20 周年庆更新，包括「升级了游戏体验、推出了全新功能、翻出了往昔视频，还制作了纪录片」，还有一个壁纸]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Red Flags for Suspicious Links 🚩]]></title>
-        <id>https://catonmat.net/10-red-flags-for-suspicious-links</id>
-        <link href="https://catonmat.net/10-red-flags-for-suspicious-links"/>
-        <updated>2024-11-16T16:17:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, extracted from my How to Open Suspicious Links Safely guide, I'll list 10 major red flags to watch for before clicking on any link. With these quick tips, you'll be better prepared to avoid scams, phishing attacks, and dangerous sites. Let's dive into it!
-Link Sandbox Demo
-Nothing beats a live demo! Don't risk clicking on a suspicious link directly – open it in a sandboxed browser via browserling.com/browse. I and my team run virtual machines in the cloud and stream just the browser to you, so that you can stay completely protected from any potential threats.
-10 Warning Signs a Link Could Be Suspicious
-🚩 The Link Has Too Many Random Characters
-If a link looks like a mix of random letters, numbers, or symbols, it might be hiding something. Legit websites usually have clean…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BASIC 语言合作者 Thomas Kurtz 去世]]></title>
-        <id>https://www.solidot.org/story?sid=79797</id>
-        <link href="https://www.solidot.org/story?sid=79797"/>
-        <updated>2024-11-16T15:20:26.000Z</updated>
-        <summary type="html"><![CDATA[BASIC 语言和达特茅斯分时系统合作者、美国计算机科学家 Thomas Kurtz 于 11 月 12 日去世，享年 96 岁。Kurtz 在获得博士学位后在达特茅斯任教，与同事 John Kemeny 教授合作开发了达特茅斯分时系统 (Dartmouth Timesharing System 或 DTSS) 的最初版本。DTSS 于 1964 年 5 月 1 日与 BASIC 语言同时发布，到秋天，数百名学生在分布在校园里的 20 个终端上学习 BASIC 语言。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
