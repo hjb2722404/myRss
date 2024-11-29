@@ -2,10 +2,224 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-11-28T02:57:57.166Z</updated>
+    <updated>2024-11-29T02:58:02.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Red Flags for Suspicious Attachments 🚩]]></title>
+        <id>https://catonmat.net/10-red-flags-for-suspicious-attachments</id>
+        <link href="https://catonmat.net/10-red-flags-for-suspicious-attachments"/>
+        <updated>2024-11-28T21:21:00.000Z</updated>
+        <summary type="html"><![CDATA[In this article, taken from my How to Open Suspicious Attachments Safely guide, I'm sharing 10 red flags everyone needs to know about shady email attachments. Whether it's a random attachment from a stranger or a weird one from someone you know, knowing these warning signs can save you a lot of trouble.
+Attachment Sandbox Demo
+Nothing beats a live demo! Suspicious attachments can compromise your organization in seconds. To mitigate risk, try browserling.com/browse that I and my team created. It provides a secure virtual environment to analyze potentially harmful attachments without exposing your device and network to threats.
+10 Signs an Attachment Might Be Risky
+🚩 Unknown Sender
+If the email is from someone you don't know, treat the attachment with caution. Cybercriminals often send fake…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS好用的color-mix颜色函数也可以使用啦]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=11449</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/"/>
+        <updated>2024-11-28T16:14:21.000Z</updated>
+        <summary type="html"><![CDATA[目前所有现代浏览器都已经支持color-mix()这个颜色函数了，这个函数可以实现关键字颜色值的半透明表示，是其他CSS、JS语法都无法取代的实用特性，本文还有色调插值方法的介绍。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安全公司发现首个无法杀死的 Linux UEFI Bootkit]]></title>
+        <id>https://www.solidot.org/story?sid=79908</id>
+        <link href="https://www.solidot.org/story?sid=79908"/>
+        <updated>2024-11-28T15:56:02.000Z</updated>
+        <summary type="html"><![CDATA[安全公司 ESET 的研究人员报告了第一个杀不死的 Linux UEFI Bootkit。该恶意程序被攻击者命名为 Bootkitty，相比 Windows 平台上的类似恶意程序，Bootkitty 相对简陋，关键底层功能不完善，主要感染 Ubuntu，感染其它 Linux 发行版的手段缺乏。安全研究人员猜测它可能是一个概念验证版本，尚未观察到实际感染证据。Bootkit 是一种感染固件的恶意程序，此类恶意程序无法通过格式化硬盘等常规方法杀死。最新发现意味着 UEFI Bootkit 不再只针对 Windows 操作系统。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elementary OS 8 释出]]></title>
+        <id>https://www.solidot.org/story?sid=79907</id>
+        <link href="https://www.solidot.org/story?sid=79907"/>
+        <updated>2024-11-28T15:10:32.000Z</updated>
+        <summary type="html"><![CDATA[基于 Ubuntu 的发行版 elementary OS 释出了 v8 版本。Elementary OS 8 重写了 Dock，引入了新的窗口管理功能，为视障用户改进了安装和初始设置程序，以及新的安全会话（Secure Session）模式。在安全会话模式中，应用将受到更多限制，需要用户同意才能访问系统功能。当应用想要在后台监听用户按键、截取屏幕截图、录制屏幕，甚至从单像素中提取颜色时，系统会先进行询问。安全会话支持混合 DPI（Mixed DPI）模式，改进了触摸屏和平板电脑多点触控的支持。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯将停止 Switch 软件销售和网络服务]]></title>
+        <id>https://www.solidot.org/story?sid=79906</id>
+        <link href="https://www.solidot.org/story?sid=79906"/>
+        <updated>2024-11-28T13:50:17.000Z</updated>
+        <summary type="html"><![CDATA[腾讯宣布将于 2026 年终止任天堂旗舰游戏机 Nintendo Switch 的网络相关服务。腾讯和任天堂于 2019 年联合推出 Switch。但中国的主流游戏是手游，Switch一直难以渗透。腾讯将于 2026 年 3月 底停止软件的在线销售，同年 5 月 15 日不再提供软件下载。联网对战和社交分享等网络服务也将于同一天停止。期间用户可免费下载《马里奥》和《精灵宝可梦》等约 10 款相关游戏中的4款。免费下载服务从 11 月 27 日上午开始，预计截 至 2026 年 5 月 15 日。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中等收入国家的抗生素使用在增长]]></title>
+        <id>https://www.solidot.org/story?sid=79905</id>
+        <link href="https://www.solidot.org/story?sid=79905"/>
+        <updated>2024-11-28T13:47:41.000Z</updated>
+        <summary type="html"><![CDATA[抗生素抵抗日益成为全球的一大健康风险。发表在 PNAS 期刊上的一项研究调查了 2016-2023 年间 67 个国家的抗生素消费趋势，发现期间总消费量增加了 16.3%，从 295 亿 DDDs 增加到 343 亿 DDDs（DDD 代表 defined daily doses 或限定日剂量）。平均抗生素消费率增加了 10.6%，从每天每千名居民 13.7 个 DDDs 增加到 15.2 个 DDDs。中等收入国家（包括中低收入国家和中低收入国家）的消费率增长了 18.6%，而高收入国家的消费率下降了 4.9%。2019 冠状病毒大流行影响显著，2020 年消费量大幅下降，特别是在高收入国家（- 17.8%），然后中等收入国家出现反弹。抗生素消费增幅最大的国家是中等收入国家，特别是越南等中低收入国家，增幅超过一倍，以及泰国和中美洲等中低收入国家。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thanksgiving Sale]]></title>
+        <id>https://catonmat.net/thanksgiving-sale</id>
+        <link href="https://catonmat.net/thanksgiving-sale"/>
+        <updated>2024-11-28T10:48:00.000Z</updated>
+        <summary type="html"><![CDATA[At Browserling and Online Tools, we love sales.
+We just created a new automated Thanksgiving sales campaign.
+Now each year on the Thanksgiving day we show a 50% discount offer to all users who visit our site.
+Run automated sales too and see you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国游戏工作室积极开辟海外市场]]></title>
+        <id>https://www.solidot.org/story?sid=79904</id>
+        <link href="https://www.solidot.org/story?sid=79904"/>
+        <updated>2024-11-28T10:36:44.000Z</updated>
+        <summary type="html"><![CDATA[因国内市场的不确定性，中国游戏公司正致力于积极开辟海外市场。根据伽马数据等中国调查公司的数据，2023年国内游戏销售额为 3029 亿元，同比增长 14%，表现强劲。但游戏市场竞争十分激烈，还面临政府进一步加强监管的风险。对于中型企业和新兴游戏公司来说，向应用商店等支付的手续费问题也很严峻。中国的游戏市场以手游为主，通过手机制造商的应用商店下载后使用。在这种情况下，在用户为购买游戏内物品而支付的费用中，应用商店最多收取 50% 作为手续费。相比下苹果 AppStore 和 Google Play 的手续费为 30%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流行减肥药也能保护肾脏]]></title>
+        <id>https://www.solidot.org/story?sid=79903</id>
+        <link href="https://www.solidot.org/story?sid=79903"/>
+        <updated>2024-11-28T10:30:57.000Z</updated>
+        <summary type="html"><![CDATA[发表在《The Lancet Diabetes & Endocrinology》期刊上的一项研究显示，流行的 GLP-1RA 减肥药对糖尿病患者和非糖尿病患者都有显著的益处，它被发现能保护肾脏。研究人员的分析发现，相比安慰剂，GLP-1RA 将肾衰竭风险降低了16%，肾功能恶化风险降低了 22%。肾衰竭、肾功能恶化和因肾病死亡的综合风险降低了19%。研究还证实了早先的结论，即 GLP-1RA 有助于保护心血管健康，相比安慰剂，心血管死亡、非致命性心脏病发作和非致命中风的风险降低了 14%。接受 GLP-1RA 治疗的患者的任何原因死亡率降低了 13%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克称 X 平台对用户账号有更高的所有权]]></title>
+        <id>https://www.solidot.org/story?sid=79902</id>
+        <link href="https://www.solidot.org/story?sid=79902"/>
+        <updated>2024-11-28T09:42:35.000Z</updated>
+        <summary type="html"><![CDATA[美国最好的新闻源洋葱新闻前不久拍下了 InfoWars 的资产，包括 InfoWars 的所有社交媒体账号。马斯克（Elon Musk）再次表明了他收购 X/Twitter 是有着政治意图的，他的律师就 InfoWars 在 X 平台上的账号转移提出了异议，声称 X 对其平台上的所有账号有更高的所有权，它要求法庭阻止将 InfoWars 及其 X/Twitter 账号转移给洋葱新闻。破产后社媒账号从一家公司转移到另一家公司是常有的事，此前 X、Google、Meta 等公司都没有反对账号所有权转移。但这一次 X 站出来捍卫 InfoWars。InfoWars 的创始人 Alex Jones 表示，马斯克此举是在帮助他，旨在阻止民主党人试图窃取其 X 身份。X 的主张是它的服务条款授予的是用户使用该平台的“许可”，X 拥有其平台上的所有账号，可以随意处置账号。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7-Zip 爆高危漏洞，可远程执行代码，尽快更新至 24.08 版本]]></title>
+        <id>https://www.appinn.com/?p=50313</id>
+        <link href="https://www.appinn.com/7-zip-cve-2024-11477/"/>
+        <updated>2024-11-28T09:17:25.000Z</updated>
+        <summary type="html"><![CDATA[著名的开源压缩/解压缩工具 7-ZIP 爆出一个高危漏洞 CVE-2024-11477，存在于 7-Zip 的 Zstandard 解压缩功能中，它允许攻击者在用户打开恶意压缩包时执行远程代码。该漏洞]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丹麦将种植 10 亿棵树，将十分之一农田变成森林]]></title>
+        <id>https://www.solidot.org/story?sid=79901</id>
+        <link href="https://www.solidot.org/story?sid=79901"/>
+        <updated>2024-11-28T08:22:57.000Z</updated>
+        <summary type="html"><![CDATA[丹麦议员周一达成协议，为减少化肥使用，将在未来 20 年内种植 10 亿棵树，十分之一农田将转变为森林和自然栖息地。政府称这将是百余年来丹麦自然景观最大的改变。政府将在未来 20 年内拨款 430 亿克朗从农民手中收购土地。丹麦森林面积将增加 250,000 公顷，另外 140,000 公顷的低洼农田将恢复自然。丹麦目前的森林覆盖率为 14.6%。今年六月，丹麦成为第一个要求牧民为其所饲养牛、羊和猪排放的温室气体纳税的国家，牧民从 2030 年起将需要为此缴税，此举旨在遏制甲烷的排放，甲烷是导致全球暖化的最强效温室气体之一。丹麦是农产品净出口国，生产的粮食远多于消耗的粮食，减少农田对其基本不会构成影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国上诉法院推翻了对混币器 Tornado Cash 的制裁]]></title>
+        <id>https://www.solidot.org/story?sid=79900</id>
+        <link href="https://www.solidot.org/story?sid=79900"/>
+        <updated>2024-11-28T07:27:55.000Z</updated>
+        <summary type="html"><![CDATA[美国财政部在 2022 年宣布制裁被控为朝鲜黑客组织 Lazarus Group 洗钱的加密货币混币器 Tornado Cash。混币器旨在提高加密货币的匿名性，因此有助于黑客组织洗白窃取或勒索的加密货币。美财政部称 Tornado Cash 自 2019 年以来帮助洗掉了超过 70 亿美元的加密货币。本周美国联邦上诉法院推翻了对 Tornado Cash 的制裁，称其不可变智能合约不构成美国法律下的“财产”，财政部越权了。加密货币行业对这一裁决表达了欢迎。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linkedin 逾半数长帖子是在 AI 帮助下生成的]]></title>
+        <id>https://www.solidot.org/story?sid=79899</id>
+        <link href="https://www.solidot.org/story?sid=79899"/>
+        <updated>2024-11-28T06:49:54.000Z</updated>
+        <summary type="html"><![CDATA[AI 检测公司 Originality AI 的调查发现，职业社交网络 Linkedin 上逾半数长英文帖子是在 AI 帮助下生成的。该公司使用 AI 检测器分析了 2018 年 1 月到 2024 年 10 月之间发表的 8,795 篇字数逾百的帖子，结果显示其中 54% 可能是在 AI 帮助下生成的。自 ChatGPT 于 2022 年底发布至今，Linkedin 上 AI 辅助生成的帖子数量增长了 189%，帖子字数增长了 107%。2023 年 2 月之后 AI 生成帖子的比例开始趋于稳定，显示这已经成为一种常态。Originality A 称，虽然在使用 AI 帮助创造内容，但用户通常不会承认。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[29 年后，正版 WinRAR 终于来了]]></title>
+        <id>https://www.appinn.com/?p=50300</id>
+        <link href="https://www.appinn.com/winrar/"/>
+        <updated>2024-11-28T06:40:49.000Z</updated>
+        <summary type="html"><![CDATA[WinRAR 是一款诞生自 1995 年的经典解压缩工具，在全球超过 5亿用户，几乎无人不晓。由俄罗斯程序员 Eugene Roshal 开发，他也是专有压缩算法 RAR 的发明人。目前其官网在售版本]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA 新开发者福利：600元AI课程免费学，还有机会获得NVIDIA培训证书]]></title>
+        <id>https://www.solidot.org/story?sid=79898</id>
+        <link href="https://www.solidot.org/story?sid=79898"/>
+        <updated>2024-11-28T06:25:32.000Z</updated>
+        <summary type="html"><![CDATA[加入 NVIDIA 开发者计划(免费)，新用户可以在注册过程中选择一门单课价值超 600元的 DLI 在线自主培训课程免费学习。涵盖生成式 AI与大语言模型(LLM)、图形与仿真、加速计算、数据科学和深度学习五大前沿领域，任选一门，满足您的学习需求。
+课程提供完全配置的云端实验环境，结合动手实践,您可以快速获取端到端应用开发经验和提升专业技能，还可以获得 NVIDIA 培训证书，为您的能力和职业发展提供有力证明。
+如下链接或者下图扫码，加入开发者计划，免费学习课程（建议电脑端学习）
+https://developer.nvidia.cn/login?ncid=ref-dev-557858&sfdcid=Zhiding]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[调查显示近九成智能设备制造商没有披露软件支持期限]]></title>
+        <id>https://www.solidot.org/story?sid=79897</id>
+        <link href="https://www.solidot.org/story?sid=79897"/>
+        <updated>2024-11-28T06:11:42.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦贸易委员会（FTC）的调查发现，89% 的智能设备制造商没有披露软件支持期限。调查主要针对 IoT 智能设备，没有包含笔记本电脑、PC、平板电脑和汽车。对 184 种联网设备——包括助听器、安全摄像头和门锁等——的调查发现，其中 161 种产品没有在网站上提供多长时间软件更新的信息。消费者保护局局长 Samuel Levine 表示：如果智能产品不再提供消费者想使用的功能，他们将面临巨大损失。FTC 警告制造商未能为售价超过 15 美元的保修产品提供软件更新信息可能违反了 Magnuson Moss Warranty Act。它还警告，如果企业虚假陈述其产品可用性期限，则可能违反 FTC Act。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Friday Sale (75% OFF)]]></title>
+        <id>https://catonmat.net/black-friday-sale</id>
+        <link href="https://catonmat.net/black-friday-sale"/>
+        <updated>2024-11-28T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[At Browserling and Online Tools, we love sales.
+We just created a new automated Black Friday sales campaign.
+Now every year on the Black Friday we show a 75% discount offer to all users who visit our site.
+Run automated sales too and see you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抽象新闻：《Google Chrome、Opera、Vivaldi、Waterfox 和 Wavebox成立浏览器选择联盟对抗Microsoft Edge》]]></title>
+        <id>https://www.appinn.com/?p=50296</id>
+        <link href="https://www.appinn.com/browserchoicealliance/"/>
+        <updated>2024-11-28T03:14:23.000Z</updated>
+        <summary type="html"><![CDATA[可以去围观：https://browserchoicealliance.org/ 主要是说 Windows 内置了 Edge 浏览器的问题。感谢@去年夏天的推荐。 我觉得啊，来看点评论吧： 反正挺抽象]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大部分求职者怀疑 AI 能否提高生产力]]></title>
+        <id>https://www.solidot.org/story?sid=79896</id>
+        <link href="https://www.solidot.org/story?sid=79896"/>
+        <updated>2024-11-27T16:55:13.000Z</updated>
+        <summary type="html"><![CDATA[根据 Resume Genius 的研究，虽然最近两年 AI 火热无比，但大部分求职者对其益处仍然深表怀疑。69% 的人怀疑它能改进工作绩效，62% 的人怀疑它能减少工作量。只有 34% 的人表示担心被 AI 取代，30% 的人认为 AI 会增加就业竞争或损害薪水。婴儿潮一代、X 世代、千禧一代和 Z 世代求职者给出的答案都基本一致。大部分人都对 AI 代表下一个热门潮流表达了怀疑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress Multi-Multisite: A Case Study]]></title>
         <id>https://css-tricks.com/?p=382697</id>
@@ -15,6 +229,36 @@
 WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Scott Fennell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高通收购英特尔的兴趣在降温]]></title>
+        <id>https://www.solidot.org/story?sid=79895</id>
+        <link href="https://www.solidot.org/story?sid=79895"/>
+        <updated>2024-11-27T15:55:09.000Z</updated>
+        <summary type="html"><![CDATA[高通今年 9 月就潜在收购与芯片巨人展开了初步谈判。但由于交易的复杂性、英特尔的巨大债务和面临的监管障碍，高通收购英特尔的兴趣在降温。高通可能仍会探索收购英特尔的部分业务，以拓展 PC 和网络市场。这项拟议中的收购交易面临重重障碍，包括英特尔的 500 亿美元债务、其 CPU 市场份额日益下降，以及陷入困境的半导体制造业务，而高通的芯片是外包给台积电等公司，它缺乏该领域的知识。如此规模的交易还会面临监管审查，特别是来自中国的审查，中国是两家公司的关键市场。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为 Mate 70 系列智能手机将运行不兼容 Android 的鸿蒙]]></title>
+        <id>https://www.solidot.org/story?sid=79894</id>
+        <link href="https://www.solidot.org/story?sid=79894"/>
+        <updated>2024-11-27T15:36:29.000Z</updated>
+        <summary type="html"><![CDATA[华为宣布其 Mate 70 系列新智能手机将搭载不兼容 Android 的 HarmonyOS Next 操作系统。HarmonyOS Next 可运行的应用数量仍然远远逊于 Android。华为表示 HarmonyOS Next 获得了逾 1.5 万应用的支持，未来几个月会扩大到 10 万应用。Mate 70 系列共四款——Mate 70、Mate 70 Pro、Mate 70 Pro Plus 和 Mate 70 RS，非常有意思的是华为在产品的规格页面没有公布处理器型号，它列出了屏幕、摄像头等传感器，电池容量，内存等数据，但就是没有 CPU 以及 GPU。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软否认使用用户的 Word 和 Excel 数据训练 AI 模型]]></title>
+        <id>https://www.solidot.org/story?sid=79893</id>
+        <link href="https://www.solidot.org/story?sid=79893"/>
+        <updated>2024-11-27T15:17:10.000Z</updated>
+        <summary type="html"><![CDATA[网络安全专家发现，微软办公软件 Microsoft Office 默认启用了用户数据收集功能。用户如果要关闭数据收集选项，需要打开多重菜单：File > Options > Trust Center > Trust Center Settings > Privacy Options > Privacy Settings > Optional Connected Experiences > 取消勾选框。专家认为微软会收集用户的 Word 文档和 Excel 电子表格数据训练 AI 模型。微软官员通过社交媒体 X/Twitter 否认使用用户数据训练 AI 模型。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -948,177 +1192,6 @@ Bluesky 新用户中很大一部分来自于逃离的 X/Twitter 用户。]]></su
         <link href="https://www.solidot.org/story?sid=79823"/>
         <updated>2024-11-19T15:35:01.000Z</updated>
         <summary type="html"><![CDATA[巴西圣保罗 Marília 的古生物学博物馆馆长 William Nava 于 2016 年发现了一块保存几乎完好的鸟类化石，其头骨几乎完好无损。剑桥大学和洛杉矶县自然历史博物馆的研究人员以数字方式重建了鸟脑，他们用发现者的名字将其命名为 Navaornis hestiae。Navaornis 生活在 8000 万年前的巴西。研究人员认为它填补了鸟脑演化的空白，其生存年代介于 1.5 亿年前的始祖鸟和现代鸟类之间。Navaornis 的大脑比始祖鸟大，表明其认知能力比始祖鸟更强。但其大脑大部分区域如小脑都不太发达，意味着它还没有演化出现代鸟类的复杂飞控机制。论文资深作者 Daniel Field 教授称，现代鸟类有着动物界最先进的认知能力，只有哺乳动物可与之媲美。科学家一直在努力理解鸟类独特大脑和非凡智力如何以及何时演化的。Navaornis 代表了鸟类认知演化过程中处于中间点的物种，是了解鸟类智力演化的第一步。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国启动世界最大超重力实验装置]]></title>
-        <id>https://www.solidot.org/story?sid=79822</id>
-        <link href="https://www.solidot.org/story?sid=79822"/>
-        <updated>2024-11-19T14:50:01.000Z</updated>
-        <summary type="html"><![CDATA[浙江大学启动了世界最大的超重力实验装置。地球表面的任何物体都会受到地球重力的作用。科学家把地球上的重力叫做常重力，用1g（重力单位）来表示，大于1个g的就叫超重力。比如航天员乘坐飞船返回地球时，会受到4个g的超重力，相当于承受了4个自己的重量。在超重力环境下，会发生一些神奇效应。因为这些神奇效应，科学家们可以完成很多在常重力环境中难以完成的实验。超重具有“缩尺”作用，如了解 100 层楼对地基的影响，只需要造 1 层楼模型将其放在 100 个g 的超重力作用下；超重力场中还存在“缩时”效应，可以在短时间内模拟长时间的影响。世界上离心机最大容量为1200g·t（重力加速度×吨），浙江大学的超重力离心模拟与实验装置（CHIEF）达到了 1900g·t。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家发现耐药菌的致命弱点]]></title>
-        <id>https://www.solidot.org/story?sid=79821</id>
-        <link href="https://www.solidot.org/story?sid=79821"/>
-        <updated>2024-11-19T14:27:05.000Z</updated>
-        <summary type="html"><![CDATA[抗生素耐药性正日益成为一个严重的健康问题。每年有逾百万人死于耐药性感染，预计到 2050 年死亡人数将会达到两百万。根据发表在《Science Advances》期刊上的一项研究，加州圣迭戈的研究人员找到了耐药菌的一个致命弱点，可能有助于抑制抗生素耐药性的形成。研究团队调查了名为枯草芽孢杆菌(Bacillus subtilis)的常见细菌，观察为何耐药菌株相对于非耐药菌株并不能占据优势。研究人员发现，耐药菌细胞必需成分核糖体对矿物质镁异常贪婪，而 ATP 分子也亟需镁，这导致了双方对有限的资源展开了激烈内部竞争，最终导致耐药细菌有着较低的生长和传播率。这一发现提出了一种不使用传统抗生素对抗耐药菌的新方法。科学家可通过操纵细菌环境中的镁含量，在不伤害有益菌的情况下阻断耐药菌。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete CSS Course]]></title>
-        <id>https://css-tricks.com/?p=382566</id>
-        <link href="https://css-tricks.com/complete-css-course/"/>
-        <updated>2024-11-19T14:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Do you subscribe to Piccalilli? You should. If you're reading that name for the first time, that would be none other than Andy Bell running the ship and he's reimagined the site from the ground-up after coming out of hibernation this year. You're likely familiar with Andy's great writing here on CSS-Tricks.
-Complete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哈珀柯林斯证实出售部分非虚构作品用于 AI 训练]]></title>
-        <id>https://www.solidot.org/story?sid=79820</id>
-        <link href="https://www.solidot.org/story?sid=79820"/>
-        <updated>2024-11-19T13:11:29.000Z</updated>
-        <summary type="html"><![CDATA[美国出版巨头哈珀柯林斯（HarperCollins）证实与一家 AI 公司合作，允许该公司有限使用部分非虚构类旧作品去训练 AI 模型。哈珀柯林斯给愿意参与该交易的作家的报价是 2500 美元，这一费用不能协商。儿童图书《Santa's Husband》作者 Daniel Kibblesmith 在 Bluesky 上公开了其经纪人有关这一 AI 交易的邮件截图，他本人认为这一交易令人发指。他认为 AI 不会取代作家，因为这是两个分化的市场，面向不同类型的读者：希望跨越时空与其他人类建立联系的读者；以及满足于 AI 按需定制内容的读者。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国人口未来十年预计将减少 5100 万]]></title>
-        <id>https://www.solidot.org/story?sid=79819</id>
-        <link href="https://www.solidot.org/story?sid=79819"/>
-        <updated>2024-11-19T12:40:16.000Z</updated>
-        <summary type="html"><![CDATA[根据彭博行业研究（Bloomberg Intelligence），由于无法逆转不断下降的出生率，中国人口在未来十年预计将减少 5100 万。高级行业分析师 Ada Li 估计，到 2035 年中国人口预计将从 2021 年 14.1 亿的峰值下降至 13.6 亿。由于 2024 年是龙年，出生率可能会出现暂时性的回升，Li 指出这种单一年份的出生率激增都是短暂的，2024 年不会是例外，何况中国目前的结婚率也处于历史最低水平。中国面临老年人口增加但劳动人口持续减少这一人口危机，联合国预测到 2100 年中国人口可能会收缩到目前的一半。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[减肥药诺和盈在中国上市]]></title>
-        <id>https://www.solidot.org/story?sid=79818</id>
-        <link href="https://www.solidot.org/story?sid=79818"/>
-        <updated>2024-11-19T10:09:06.000Z</updated>
-        <summary type="html"><![CDATA[诺和诺德(Novo Nordisk)宣布其 GLP-1RA 减肥药 Wegovy 以诺和盈的名字在中国上市。诺和诺德称，诺和盈（用于长期体重管理的司美格鲁肽注射液）能够实现平均约 17% 的体重降幅，并为患者带来超越减重的多重健康获益。诺和盈的安全性和耐受性得到了广泛验证。过去 20 年里中国成年人的肥胖率翻了一番多。统计数据显示，中国一半以上的人口超重，减肥药市场巨大。报道称，诺和盈首月费用为 1400 元，只是美国价格的 1 成多一点。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用互联网可能有助于提升 50 岁以上人群幸福感]]></title>
-        <id>https://www.solidot.org/story?sid=79817</id>
-        <link href="https://www.solidot.org/story?sid=79817"/>
-        <updated>2024-11-19T09:56:53.000Z</updated>
-        <summary type="html"><![CDATA[《自然-人类行为》发表的一项研究认为，在 23 个国家 50 岁以上人群中，使用互联网或与更高的生活满意度、自我报告健康状况更佳和较少抑郁症状相关。这项研究由香港大学张清鹏团队完成，研究结果对公共卫生政策和实践有潜在影响，特别是在老龄化和精神卫生服务有限的国家。2019 年全球 55 岁及以上的人群中约有 14% 遭遇了精神健康问题如抑郁。张清鹏团队分析了 23 个国家（包括美国、英国、中国、墨西哥和巴西）中 87559 名年龄≥50岁的成年人使用互联网与心理健康之间的关系，追踪时间中位数为 6 年。他们发现使用互联网（包括收发电子邮件、购物、预订旅行以及搜索信息）与较高的生活满意度、较少的抑郁症状以及较好的自我报告健康状况相关。在美国、英国和中国，使用互联网的参与者比不用的人抑郁症状更少。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软在东京设立日本首个研究基地]]></title>
-        <id>https://www.solidot.org/story?sid=79816</id>
-        <link href="https://www.solidot.org/story?sid=79816"/>
-        <updated>2024-11-19T09:27:52.000Z</updated>
-        <summary type="html"><![CDATA[微软东京设立了日本首个研究基地。微软在世界各地设立了多个研究基地。在亚洲，已有中国的北京和上海两个基地。东京成为第三个。该基地将把日本企业擅长的机器人和汽车领域的技术与人工智能（AI）相结合，以提高生产效率和创造新业务。微软正在调整以中国为中心的海外 AI 研究体系，并通过分散基地为中美对立激化做好准备。此前媒体曾经报道微软计划将部分中国研究人员转移到 2023 年在加拿大温哥华设立的研究所。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlmaLinux 9.5 释出]]></title>
-        <id>https://www.solidot.org/story?sid=79815</id>
-        <link href="https://www.solidot.org/story?sid=79815"/>
-        <updated>2024-11-19T09:25:16.000Z</updated>
-        <summary type="html"><![CDATA[AlmaLinux 企业级发行版释出了 v9.5。AlmaLinux 9.5 旨在改进性能、开发工具和安全。编译器和软件包更新包括：GCC 14，LLVM 18.1.8，Rust 1.79.0，Go 1.22，GCC 11.5，Annobin 12.70，.NET 9.0，BIND 9.18，Apache HTTP Server 2.4.62，Node.js 22 等等。AlmaLinux 旨在提供与 Red Hat Enterprise Linux（RHEL）二进制兼容的社区支持的企业发行版，它诞生的原因是 2020 年 12 月 Red Hat 宣布停止开发 CentOS，其第一个稳定版本于 2021 年 3 月 30 日发布。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 将杀死 Chrome OS]]></title>
-        <id>https://www.solidot.org/story?sid=79814</id>
-        <link href="https://www.solidot.org/story?sid=79814"/>
-        <updated>2024-11-19T07:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Android Authority 援引消息来源报道，Google 准备杀死 Chrome OS，或者说将 Chrome OS 变成 Android，以期望在平板市场与苹果的 iPad 展开竞争。Chrome OS 是为笔记本电脑设计的 Linux 操作系统，而 Android 除了用于智能手机外也广泛用于智能手表、电视、汽车以及平板电脑。但两大操作系统在平板电脑上都无法抗衡苹果，Chrome OS 本身不太适合平板电脑，而 Android 则缺乏生产力功能。Google 的决定不是融合两种操作系统，而是将 Chrome OS 完全迁移到 Android。暂时不清楚此举对 Chromebook 品牌的影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Capitan 登顶 Top500 超算榜单]]></title>
-        <id>https://www.solidot.org/story?sid=79813</id>
-        <link href="https://www.solidot.org/story?sid=79813"/>
-        <updated>2024-11-19T07:05:38.000Z</updated>
-        <summary type="html"><![CDATA[Top500 公布了最新的超算榜单，美国加州劳伦斯利弗莫尔国家实验室的新超算 El Capitan 首次亮相即登上榜首。El Capitan 使用了 AMD 第四代 EPYC 处理器，配备了 AMD Instinct MI300A 加速器，共有 11,039,616 个 CPU 和 GPU 核心，性能 1.742 EFlop/s。此前称霸榜单的田纳西州橡树岭国家实验室（ORNL）的 Frontier 超算排名第二，核心数从 8,699,904 个增加到 9,066,176 个，性能从 1.206 Eflop/s 提升到 1.353 Eflop/s，它使用的也是 AMD EPYC 处理器。阿贡国家实验室 Aurora 超算排名第三，使用英特尔的 Xeon CPU Max 9470 52C 2.4GHz 和英特尔 Data Center GPU，性能 1.012 EFlop/s。微软 Microsoft Azure 超算 Eagle 第四，使用英特尔 Xeon Platinum 8480C 48C 2GHz 和英伟达 H100 GPU，性能 561.2 PFlop/s。意大利 Ferrera Erbognone Eni S.p.A 中心的超算 HPC6 第五，它是欧洲最快的超算，架构与 Frontier 相同，性能 477.90 PFlop/s。日本的 ARM 超算富岳第六，性能 442 PFlop/s。瑞士超算 Alps 升级后性能提升到 434.9 PFlop/s。芬兰欧洲超算中心的 LUMI 性能 380 PFlop/s。意大利 Leonardo 性能 241.2 PFlop/s。劳伦斯利弗莫尔新超算 Tuolumne 第十，架构与 El Capitan 相同，性能 208.1 PFlop/s。排名前十的超算有五台使用了 AMD EPYC 处理器，一台使用了 ARM 处理器一台，三台使用了英特尔的至强处理器，还有一台使用英伟达 Grace 72C 处理器。在 Top 500 中，美国从上次的 168 台增加到 173 台，中国从 80 台减少到 63 台，中国没有向榜单报告新超算。欧洲共有 161  台超算。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源神器 PDFMathTranslate：轻松实现 PDF 全文翻译并保留排版样式]]></title>
-        <id>https://www.appinn.com/?p=50200</id>
-        <link href="https://www.appinn.com/pdf-math-translate/"/>
-        <updated>2024-11-19T06:42:22.000Z</updated>
-        <summary type="html"><![CDATA[PDFMathTranslate 是一个开源项目，它能够在保持原有格式与排版的基础上翻译 PDF 论文和电子书。它不仅完整保留 LaTeX 数学公式、PDF 索引目录和图表样式等文档内容，还能让译文]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve 开发者解释为什么取消开发《半条命 2：第三章》]]></title>
-        <id>https://www.solidot.org/story?sid=79812</id>
-        <link href="https://www.solidot.org/story?sid=79812"/>
-        <updated>2024-11-19T06:03:33.000Z</updated>
-        <summary type="html"><![CDATA[作为庆祝《半条命 2》发布二十周年纪录片的一部分，Valve 开发者解释了为什么取消开发《半条命 2：第三章》。开发者已经为《第三章》设计了新武器冰冻枪，能冰冻敌人，建造冰墙作为临时掩体，或制造冰梯从悬崖上下来，他们还设想了新的敌人。开发者花了半年时间为《第三章》做准备工作，但随后 Valve 决定将所有开发者投入到多人游戏《Left 4 Dead》的开发上。Valve 过去十五年的开发重心都是类似《Left 4 Dead》或 CS2 之类的多人游戏上，这些持久运营的游戏能带来更持久的收入。当在 2008 年完成《Left 4 Dead》开发之后，Valve 决定投入两年时间开发《第三章》，但此时开发者发现难以重新启动《第三章》的开发，或者是疲劳感，或者是认为需要新引擎。很多人在《半条命》系列上工作了八年多时间，他们想要专注于其它工作。《半条命2》的《第一章》和《第二章》反响一般，很多开发者也对《第三章》感到畏惧和压力。最终的结果就是《半条命 2》系列留下了一个巨大的悬念至今没有解决。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国司法部将推动 Google 出售 Chrome]]></title>
-        <id>https://www.solidot.org/story?sid=79811</id>
-        <link href="https://www.solidot.org/story?sid=79811"/>
-        <updated>2024-11-19T05:46:20.000Z</updated>
-        <summary type="html"><![CDATA[彭博援引知情人士的消息报道，美国司法部官员已经决定要求法官强制 Google 出售其 Chrome 浏览器业务，这将是对科技巨头的历史性打击。知情人士称，反垄断官员放弃了更严厉的选择，即强迫 Google 出售其 Android  业务。今年 8 月，美国联邦法官 Amit Mehta 裁决，Google 付费成为智能手机浏览器默认搜索引擎的行为违反了美国的反垄断法。法官指出，Google 支付的 260 亿美元事实上阻止了任何其它竞争对手在搜索市场上取得成功。Google 被指在十几年里为成为默认搜索引擎而向苹果和三星等公司支付了数十亿美元。这种默认搜索引擎的位置允许 Google 打造成为全球使用率第一的搜索引擎，获取每年逾 3000 亿美元的广告收入。法官计划在 2025 年 8 月前做出最终裁决。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒂姆·伯纳斯-李想要互联网回归自由民主]]></title>
-        <id>https://www.solidot.org/story?sid=79810</id>
-        <link href="https://www.solidot.org/story?sid=79810"/>
-        <updated>2024-11-18T16:04:36.000Z</updated>
-        <summary type="html"><![CDATA[WWW 作者蒂姆·伯纳斯-李爵士（Tim Berners-Lee）相信，我们应该控制在线数据，而不是任由大型科技平台和政府收集。个人云需要获得我们的许可才能被访问。他面临一大挑战是：今天的互联网已经不是他在 1989 年创造的那个自由开放的网络，而是由 Alphabet 的 Google 和 Meta 的 Facebook 等主导的围墙花园。在很多地方，Facebook 就是互联网，是居民唯一的网络体验。大部分应用在功能上则充当了我们数据的看门人。伯纳斯-李想要改变这一切，但他愈来愈感到沮丧，因为用户用个人数据换取便利，加入了各种围墙花园式的生态系统。我们的数据分散在科技巨头和无数其它公司的服务器上，不受我们的控制。在发明 WWW 时他坚信网络应该是面向所有人的自由开放平台，如今他正致力于让互联网回归这一理念。他的答案是一种数据钱包，储存了从医疗记录到社媒帖子、从购物历史到家庭照片等的所有内容，钱包允许我们控制谁能访问它。但要扩大这一模式，需要在政府、企业和公民之间展开前所未有的合作，而巨头们不会轻易放弃对我们数字生活的控制。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华盛顿州圣胡安县推行 32 小时工作制一周年]]></title>
-        <id>https://www.solidot.org/story?sid=79809</id>
-        <link href="https://www.solidot.org/story?sid=79809"/>
-        <updated>2024-11-18T15:34:59.000Z</updated>
-        <summary type="html"><![CDATA[美国华盛顿州圣胡安县（San Juan County）已经推行 32 小时工作制（或四天工作制）一年时间。该县发布了一份报告，称其效果显著。圣胡安县表示，这一工作制了吸引了大量人才，申请人数增加 85.5%，空缺填补加速 23.75%，更多员工留任，离职（辞职或退休）减少 48%。84% 的员工表示改善了工作与生活之间的平衡。相比满足工会的加薪要求，工作 32 小时反而能节省超过 97.5 万美元。一位公园经理表示，32 小时没有增加成本，因为有更优秀的应聘者。空缺的职位通常会几个月找不到合适的人，但去年该机构不仅有更多的应聘者，而且能找到更符合要求的求职者。他招募的两名员工就是因为只需要工作 32 小时才前来应聘。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国温室气体排放继续缓慢增长，美国下降]]></title>
-        <id>https://www.solidot.org/story?sid=79808</id>
-        <link href="https://www.solidot.org/story?sid=79808"/>
-        <updated>2024-11-18T15:02:50.000Z</updated>
-        <summary type="html"><![CDATA[跟踪全球温室气体排放的科学家组织 Global Carbon Project 估计，今年全球的温室气体排放预计将达到 412 亿吨（374 亿公吨），比 2023 年增加 0.8%，低于去年的 1.4% 增幅。排放增加主要由发展中国家和中国驱动，中国的排放占全世界的 32%，被认为已经达到峰值，但 Global Carbon Project 估计中国今年的排放量比 2023 年增加 0.2%，增长保持相对平稳。相比下占全球 8% 排放量的印度今年的增幅将达到 4.6%。由于减少了煤炭、石油和水泥的使用，美国的排放量减少了 0.6%。美国的排放占到了全世界的 13%。2014-2023 年排放量下降最多的国家包括了美国、日本、德国、英国和乌克兰。欧洲占到了全球排放的 7% ，由于煤炭排放大幅减少，今年的排放将比去年下降 3.8%。Global Carbon Project 预测，如果全世界继续以今天的水平燃烧化石燃料，再过六年全球平均气温将会比工业化前水平高 1.5 摄氏度。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
