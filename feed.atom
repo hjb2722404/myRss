@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-12-01T03:12:57.881Z</updated>
+    <updated>2024-12-02T03:02:19.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD 禁用了 Zen4 处理器的循环缓冲区]]></title>
+        <id>https://www.solidot.org/story?sid=79924</id>
+        <link href="https://www.solidot.org/story?sid=79924"/>
+        <updated>2024-12-01T14:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Chips and Cheese 报道，AMD 近期释出的固件被发现禁用了 Zen4 处理器的循环缓冲区（loop buffer），AMD 对此未给出任何解释。循环缓冲区位于 CPU 前端，用于保存部分已获取指令。小循环可完全包含在循环缓冲区内，可在关闭部分前端阶段的情况下执行。此举有助于省电，还能通过绕过前端阶段的部分限制以改进性能。根据 Zen4 的处理器编程参考，它包含了循环缓冲区，但近期释出的固件将其禁用了。测试显示，Zen4 禁用和启用循环缓冲区对性能基本没有什么影响。Chips and Cheese 作者猜测，Zen4 已进入寿命后期，AMD 这个时候去改变 CPU 前端可能是因为其内部发现了 bug，出于谨慎考虑而决定将其禁用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt One 路由器发布]]></title>
+        <id>https://www.solidot.org/story?sid=79923</id>
+        <link href="https://www.solidot.org/story?sid=79923"/>
+        <updated>2024-12-01T10:51:10.000Z</updated>
+        <summary type="html"><![CDATA[OpenWrt 项目发布了专门为其量身打造的路由器 OpenWrt One，售价 89 美元。OpenWrt One 旨在尊重用户的软件自由，永远不会锁定，也永远不会变砖，用户可以自由修改、改造或修复。路由器本身是与 Banana Pi 合作制造的，使用了联发科的 MT7981B SoC，Wi-Fi 为联发科 MT7976C，1GB DDR4 内存，128 MiB SPI NAND + 4 MiB SPI NOR flash，两个以太网端口（2.5 GbE 和 1 GbE）、一个 USB 主机端口、用于 NVMe SSD 或类似设备的 M.2 2042 以及 mikroBUS 扩展头。产品通过阿里巴巴的 AliExpress 购买。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软信任的巴西 CA 签发了 google.com 的证书]]></title>
+        <id>https://www.solidot.org/story?sid=79922</id>
+        <link href="https://www.solidot.org/story?sid=79922"/>
+        <updated>2024-12-01T10:24:20.000Z</updated>
+        <summary type="html"><![CDATA[巴西的一家政府 CA 机构 ICP-Brasil 被发现签发了 google.com 的证书。Google 和 Mozilla 早已拒绝信任该 CA，而软件巨人是唯一信任该 CA 的主流浏览器开发商，这意味着通过 Edge 或其它微软应用访问 google.com 的流量能被第三方拦截，但 Chrome 和 Firefox 不会。ICP-Brasil 的问题早在 2021 年就被报告并在 2022 年讨论之后被拒绝信任，但微软仍然决定信任它。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求：监控文件夹内容变化的软件？ 大佬：我给你现写一个]]></title>
+        <id>https://www.appinn.com/?p=50334</id>
+        <link href="https://www.appinn.com/qa-file-watch/"/>
+        <updated>2024-12-01T06:11:50.000Z</updated>
+        <summary type="html"><![CDATA[来自问题求助频道的问题：https://meta.appinn.net/t/topic/63577 L 同学想找一款能够监控文件夹里的文件，只要有变化，就发出提示音。 楼下的同学中，有多种解决方案：]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恶意程序能关闭摄像头 LED 灯悄悄录像]]></title>
         <id>https://www.solidot.org/story?sid=79921</id>
@@ -971,159 +1011,6 @@ Run automated sales too and see you next time!]]></summary>
         <summary type="html"><![CDATA[上个月《华尔街日报》报道称中国黑客入侵了美国的电信基础设施，本周《华盛顿邮报》和《纽约时报》公布了更多信息。黑客组织被称为 Salt Typhoon，他们能利用美国执法机构在电信基础设施中设置的后门去监听电话和阅读短信。黑客无法监听加密的内容，意味着支持端对端加密的应用如 Signal 和苹果的 iMessage 可能不受影响，但苹果设备和 Android 设备之间的短消息使用的端到端加密方式不同，可能容易被 Salt Typhoon 拦截。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[压缩算法为大模型“瘦身”]]></title>
-        <id>https://www.solidot.org/story?sid=79858</id>
-        <link href="https://www.solidot.org/story?sid=79858"/>
-        <updated>2024-11-22T14:26:42.000Z</updated>
-        <summary type="html"><![CDATA[普林斯顿大学和斯坦福大学团队开发出一种新压缩算法 CALDERA，能精简大模型（LLM）的海量数据，为 LLM“瘦身”。这项算法不仅有助保护数据隐私、节约能源、降低成本，还能推动 LLM 在手机和笔记本电脑上高效使用。
-团队举例称，当人们使用 ChatGP T时，请求会被发送到 OpenAI 公司的后端服务器进行处理。这一过程不仅成本高昂、能耗巨大，通常还很慢。如果用户想要使用消费级图形处理单元运行 LLM，就需要对这些 LLM 进行压缩。
-CALDERA 算法通过减少 LLM 冗余并降低信息层的精度来发挥作用。“瘦身”后的 LLM 更加精简，可在手机或笔记本电脑等设备上存储和访问，同时提供了与未压缩版本几乎一样准确而微妙的性能。虽然 CALDERA 并非首个压缩LLM的算法，但其独特之处在于兼具“低精度”和“低排序”两种特性。其中，“低精度”减少了比特数，加快了数据存储和处理速度。而“低排序”则降低了 LLM 数据中的冗余。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Copilot 客户发现它能让他们阅读 HR 文档 CEO 电邮]]></title>
-        <id>https://www.solidot.org/story?sid=79857</id>
-        <link href="https://www.solidot.org/story?sid=79857"/>
-        <updated>2024-11-22T14:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Copilot 工具被发现能让客户访问敏感文档，如 HR 文档和 CEO 电邮。微软正致力于解决该问题，部署新工具和指南去解决隐私担忧。微软的 Copilot 工具是通过浏览和索引所有公司内部文件进行工作的，而很多企业的 IT 部门在内部文件的访问权限管理上十分宽松，这通常不会构成安全问题，因为普通员工缺乏工具能识别和检索公司的敏感文件。但 Copilot 的出现改变了这一切。普通员工通过登陆 Copilot 就能访问公司 CEO 的收件箱阅读其邮件，或者查看 HR 部门的文档。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solved by CSS: Donuts Scopes]]></title>
-        <id>https://css-tricks.com/?p=382613</id>
-        <link href="https://css-tricks.com/solved-by-css-donuts-scopes/"/>
-        <updated>2024-11-22T13:50:55.000Z</updated>
-        <summary type="html"><![CDATA[Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.
-Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.13 合并移除 ReiserFS 的补丁]]></title>
-        <id>https://www.solidot.org/story?sid=79856</id>
-        <link href="https://www.solidot.org/story?sid=79856"/>
-        <updated>2024-11-22T10:36:09.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds 在 Linux 6.13 中合并了从内核删除 ReiserFS 文件系统的补丁，将移除 32.8k 行代码。删除 ReiserFS 早已预告了很长时间，这一变更并不出人意料。ReiserFS 在 2022 年标记为弃用，计划 2025 年删除，而 Linux 6.13 将是在 2025 年发布的第一个内核版本。ReiserFS 是在 23 年前合并到 Linux 2.4.1 中，现在它将随着 Linux 6.13 而消失。使用 ReiserFS 的用户可以继续用旧的内核版本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员发现针对 Linux 的新恶意程序 WolfsBane]]></title>
-        <id>https://www.solidot.org/story?sid=79855</id>
-        <link href="https://www.solidot.org/story?sid=79855"/>
-        <updated>2024-11-22T09:47:10.000Z</updated>
-        <summary type="html"><![CDATA[安全公司 ESET 的研究人员发现了针对 Linux 的新后门 WolfsBane，与 APT 组织 Gelsemium aka “狼毒草”有关联。WolfsBane 被认为是 Gelsemium 使用的 Windows 后门 Gelsevirine 的 Linux 变种，Gelsemium 组织此前主要对东亚和中东的实体发动攻击。研究人员还发现了另一个 Linux 后门 FireWood，Gelsemium 此前使用过一个与之有关联的后门 Project Wood。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首发限免 | Aiarty Image Matting：轻松实现抠图换背]]></title>
-        <id>https://www.appinn.com/?p=50244</id>
-        <link href="https://www.appinn.com/aiarty-image-matting/"/>
-        <updated>2024-11-22T09:28:26.000Z</updated>
-        <summary type="html"><![CDATA[Digiarty 公司旗下的 Aiarty 品牌再出新产品 — Aiarty Image Matting，一款 AI 加持的抠图和换背软件。其实市面上有不少的抠图软件，甚至不乏免费或者开源的，那么为什]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pidgin 3.0.0 Experimental 1 将在今年最后一天发布]]></title>
-        <id>https://www.solidot.org/story?sid=79854</id>
-        <link href="https://www.solidot.org/story?sid=79854"/>
-        <updated>2024-11-22T09:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Pidgin 2.0 发布 17 年后，开发者宣布 Pidgin 3.0 正距离我们越来越近。Pidgin 3.0.0 Experimental 1 将于 2024 年 12 月 31 日发布，它是 pre-alpha 版本，除非测试，否则不要依赖该版本。Experimental 1 将只提供源代码和 Flatpak 版本，只支持 IRCv3，未来将支持其它协议；用户界面完全没有打磨，不兼容 Pidgin 2，可以安装在一起；由于 API 都变了，因此插件也不再兼容，需要重新移植；Finch 被暂时弃用，也可能永久弃用。Experimental 1 的版本号是 2.90.0，因为 API 尚未冻结。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法庭裁决学校因学生使用 AI 而进行处罚并未犯错]]></title>
-        <id>https://www.solidot.org/story?sid=79853</id>
-        <link href="https://www.solidot.org/story?sid=79853"/>
-        <updated>2024-11-22T08:56:58.000Z</updated>
-        <summary type="html"><![CDATA[马萨诸塞州地区法院裁决，学校因学生使用 AI 而进行处罚并未犯下任何错误。首字母缩写为 RNH 的学生因使用 AI 工具 Grammarly 完成历史论文而受罚，他的父母认为学生手册没有包含使用 AI 的限制，因而提起诉讼，被告包括了学区负责人、校长、一名教师、历史系主任和校委会，诉讼指控被告侵犯了学生的公民权利。而学校表示虽然学生手册没有提及 AI，但该校在 2023 年秋季向包括 RNH 在内的学生发布了一份包括有关学术不端和 AI 期望书面政策的文本，禁止学生在课堂考试和作业中使用 AI 工具。法官 Paul Levenson 认为学校在事实和法律上理由更充分，他没有发现被告犯下了任何错误。法官最后引用了 1988 年最高法院的一项裁决，认为青少年教育“主要是父母、教师以及州和地方学校官员的责任，而不是联邦法官的责任。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五大塑料生产商生产的塑料千倍于清理的塑料]]></title>
-        <id>https://www.solidot.org/story?sid=79852</id>
-        <link href="https://www.solidot.org/story?sid=79852"/>
-        <updated>2024-11-22T08:01:27.000Z</updated>
-        <summary type="html"><![CDATA[石化巨头们在 2019 年成立了一个宣称要终结塑料污染的联盟 The Alliance to End Plastic Waste(AEPW)，承诺了五年内（截至 2023 年底）通过改善回收和创造循环经济从环境中移除 1500 万吨塑料垃圾。加入联盟的公司都是世界最大的塑料生产商，其中包括了埃克森美孚、陶氏、壳牌、道达尔能源和雪佛龙菲利普斯。但 2023 年初这一目标被移除了，理由是太过于雄心勃勃了。AEPW 的一大目标其实是改变话题，避免推行塑料禁令。绿色和平获得的数据显示，仅仅两类塑料这五大塑料生产商过去五年就生产了 1.32 亿吨，而同期它们只清理了 118,500 吨塑料垃圾，生产的重量千倍于清理的重量。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 取消 Pixel Tablet 2]]></title>
-        <id>https://www.solidot.org/story?sid=79851</id>
-        <link href="https://www.solidot.org/story?sid=79851"/>
-        <updated>2024-11-22T07:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Android Authority 援引内部消息来源报道，Google 取消推出第二代 Pixel Tablet 平板电脑，理由是担心亏损。在平板市场上，Android 平板一直无法对苹果 iPad 的地位构成挑战。计划中的 Pixel Tablet 2 代号为 kiyomi，将搭载用于 Google Pixel 9 系列的 Tensor G4 SoC 芯片，有 Wi-Fi 和 5G 两个版本，Google 还为它开发了带触控板的官方键盘外设以帮助提高生产力。Google 可能会跳过二代直接开发第三代，其推出时间可能是 2027 年而不是二代计划的 2025 年。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴基斯坦科技游说组织警告网速太慢将扼杀 IT 行业]]></title>
-        <id>https://www.solidot.org/story?sid=79850</id>
-        <link href="https://www.solidot.org/story?sid=79850"/>
-        <updated>2024-11-22T07:14:05.000Z</updated>
-        <summary type="html"><![CDATA[巴基斯坦最近部署了国家防火墙，导致的一个结果网速大幅减慢。巴基斯坦科技游说组织 IT Industry Association(P@SHA)警告，此举将会重创 IT 行业。为了增加科技服务出口，巴基斯坦鼓励自由职业者在海外平台打零工，为了支持网络零工，它还提出免税期、补贴宽带和医保等种种设想。但网速变慢严重影响了 IT 自由职业者和需要网络服务的 IT 企业。P@SHA 警告，政府的政策可能会导致企业倒闭和财务损失，损害 IT 出口。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软用全屏广告督促 Windows 10 用户购买新 PC]]></title>
-        <id>https://www.solidot.org/story?sid=79849</id>
-        <link href="https://www.solidot.org/story?sid=79849"/>
-        <updated>2024-11-22T06:23:29.000Z</updated>
-        <summary type="html"><![CDATA[由于微软修改了 Windows 11 的硬件需求，现有的 Windows 10 用户基本上无法直接升级到 Windows 11，而 Windows 10 即将于 2025 年 10 月终止支持，用户除非更换电脑，那么只剩下继续使用不再支持的操作系统（另一选择是安装 Linux 发行版），这将会增加他们的安全风险。微软对此的做法是用全屏广告不断轰炸用户，督促他们购买新 PC。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 恢复凭证功能将在新手机上自动登陆应用]]></title>
-        <id>https://www.solidot.org/story?sid=79848</id>
-        <link href="https://www.solidot.org/story?sid=79848"/>
-        <updated>2024-11-22T06:16:49.000Z</updated>
-        <summary type="html"><![CDATA[Android 的恢复凭证（Restore Credentials）功能简化了切换 Android 设备时应用凭证的传输，让用户在新手机上保持应用的登陆状态。Google 使用“恢复密钥（restore key）”去实现跨设备的自动登录。恢复密钥是一种公钥，利用现有的密钥（passkey）基础设施移动登陆凭证。恢复密钥可以备份到云端，应用开发商可以选择不参加。Google 表示，如果删除应用重新安装，恢复密钥不会转移。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国量子技术相关专利位居世界第一]]></title>
-        <id>https://www.solidot.org/story?sid=79847</id>
-        <link href="https://www.solidot.org/story?sid=79847"/>
-        <updated>2024-11-22T05:37:18.000Z</updated>
-        <summary type="html"><![CDATA[中国量子技术相关专利已超过美国位居世界第一。中国累计拥有 3217 项相关专利，超过了拥有 2740 项专利的美国。其中安徽本源量子计算科技 2021-2024 年新增了 363 项专利，超过了新增 212 项专利的美国 IBM，它在按团体统计的量子计算机公开专利排名中位居第一。在本源量子的公开专利中，数量最多的论文是控制量子计算机的软件“量子操作系统”。其次是与量子芯片相关的专利。本源的量子计算机要在超低温环境下运行，该公司表示已成功自主研发出实现这种运行环境所需要的主要设备——稀释制冷机。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 内容真假难辨？Mozilla 推出 Deep Fake Detector 扩展一键识别真伪]]></title>
-        <id>https://www.appinn.com/?p=50238</id>
-        <link href="https://www.appinn.com/deep-fake-detector/"/>
-        <updated>2024-11-22T02:31:51.000Z</updated>
-        <summary type="html"><![CDATA[Deep Fake Detector 是一个由 Mozilla 提供的服务，它本身也是一个经过训练的 AI 模型，可以帮助用户识别 AI 生成的文字内容。但注意目前仅支持英文内容识别，有 Chrome]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
