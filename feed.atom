@@ -2,10 +2,148 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2024-12-05T03:01:07.831Z</updated>
+    <updated>2024-12-06T03:00:20.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英文单词朗读基于音素预估时长的JS算法]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=11473</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/"/>
+        <updated>2024-12-05T16:32:44.000Z</updated>
+        <summary type="html"><![CDATA[基于英文单词的发音规则，精准预估TTS语音合成每段内容所占据的时长，以便实现更精准的字幕同步，冷门应用场景，但却是稀缺的算法资源，值得收藏备忘。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人人影视公开了其全部字幕存档]]></title>
+        <id>https://www.solidot.org/story?sid=79971</id>
+        <link href="https://www.solidot.org/story?sid=79971"/>
+        <updated>2024-12-05T16:11:18.000Z</updated>
+        <summary type="html"><![CDATA[因被控侵犯版权遭到关闭的人人影视字幕组通过其社交媒体账号公开了全部字幕存档。存档发布在百度网盘和夸克网盘，容量不到 20GB。人人影视称：人人影视成立之初就是想把自己翻译的字幕分享给更多爱好者，历时二十年人人影视翻译了几万集的影视字幕，本着字幕组分享的宗旨，我把全部字幕文件和对应数据库打包一起分享出来给大家。有需要的请下载保存，同时还有以前我们开发的字幕软件和源码也一起打包，还有我们没来得及开发的网站设计模板和HTML页面等等。评论区不知道让不让贴链接，我在几个主要自媒体平台的评论区都贴了链接，我们的用户名都叫：人人聊影视，大家自己找一下。 至于人人影视原来的程序其实技术太老太复杂，开源出来对普通人意义不大，这里就不提供了。现在开发APP和网站比以前更方便，有多端的统一框架，也有更好的语言环境，效率更高。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HowStuffWorks 创始人自杀身亡]]></title>
+        <id>https://www.solidot.org/story?sid=79970</id>
+        <link href="https://www.solidot.org/story?sid=79970"/>
+        <updated>2024-12-05T15:38:52.000Z</updated>
+        <summary type="html"><![CDATA[HowStuffWorks.com 创始人、北卡州立大学 Engineering Entrepreneurs Program 项目主任 Marshall Brain 于 11 于 20 日自杀身亡，年仅 63 岁。在去世前的凌晨 4:29，他给 30 多名同事发送了最后一封电子邮件，声称自己遭到了学校管理人员最不公正、最羞辱的对待。此前大学创新和创业项目执行董事 Stephen Markham 通知工作人员他将于 2024 年 12 月 31 日退休，而 Brain 称自己实际上是被解雇，退休是委婉说法。Marshall David Brain II 于 1998 年创办了 HowStuffWorks.com，这是一个百科全书类的网站，旨在以通俗易懂的方式介绍技术主题。网站取得了巨大成功，Discovery Communications 于 2007 年以 2.5 亿美元将其收购。他后来出版了图书《The Engineering Book》，主持了国家地理频道节目《Factory Floor with Marshall Brain》，参加过  《The Oprah Winfrey Show》和《Good Morning America》。他在 2003 年发表了《Robotic Nation》一文，预测到 2050 年，自动化和机器人技术的广泛使用将引发大规模劳动力危机，多达半数的美国工作岗位可能会消失，引发大规模失业和社会动荡。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客通过供应链攻击窃取了 15.5 万美元加密货币]]></title>
+        <id>https://www.solidot.org/story?sid=79969</id>
+        <link href="https://www.solidot.org/story?sid=79969"/>
+        <updated>2024-12-05T15:16:58.000Z</updated>
+        <summary type="html"><![CDATA[黑客疑似通过社交工程或钓鱼攻击窃取了 solana-web3.js 开源库维护者的账号，在代码中加入了后门，窃取了价值 15.5 万美元的加密货币。solana-web3.js 被应用用于与 Solana 区块链交互。当应用整合了 solana-web3.js v1.95.6 和 v1.95.7 之后，后门会收集私钥和钱包地址。这些后门版本是在周二 3:20 pm UTC 到 8:25 pm UTC 的五小时内提供下载的。对黑客钱包地址的跟踪显示，共有 674.8 SOL 被盗，SOL 是 Solana 的货币单位，这些加密货币价值约 15.5 万美元。原开发商督促 Solana 应用开发者尽快升级到 v1.95.8。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[短时间剧烈运动能显著降低女性的血管疾病风险]]></title>
+        <id>https://www.solidot.org/story?sid=79968</id>
+        <link href="https://www.solidot.org/story?sid=79968"/>
+        <updated>2024-12-05T10:30:06.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《British Journal of Sports Medicine》上的一项研究，对于不经常锻炼的女性而言，偶尔进行短时间的剧烈运动可将心脏病发作或心力衰竭等疾病的风险降低近一半。研究人员发现，每天只需 1.5-4 分钟的高强度日常活动，比如快速爬楼梯或搬运重物，可能有助于那些不愿或无法定期锻炼的人避免心血管疾病。研究人员从英国生物样本库（UK Biobank）中抽取了 81,052 名男性和女性（平均年龄 61.9 岁），这些人在 2013 年至 2015 年期间每天 24 小时佩戴活动追踪器一周。参与者分为两组，一组自称没有定期锻炼或每周只进行一次休闲散步（22,368人），另一组自称定期锻炼或每周散步超过一次（58,684人）。研究人员对参与者的心血管健康状况进行了追踪。在近 8 年的监测期间，331 名女性和 488 名男性出现心脏病发作或中风、心力衰竭或死于心血管疾病。在调整了生活方式、社会经济地位、心血管健康、其他疾病和种族等因素后，研究人员发现，女性的短时间剧烈运动越多，她们患心血管疾病的风险就越低。但这种关联在男性身上没那么明显。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[明年全球云计算投资将 1.5 倍于阿波罗计划]]></title>
+        <id>https://www.solidot.org/story?sid=79967</id>
+        <link href="https://www.solidot.org/story?sid=79967"/>
+        <updated>2024-12-05T10:22:07.000Z</updated>
+        <summary type="html"><![CDATA[在生成式 AI 热潮背景下，全球对云计算平台的支出正在扩大。Dell'Oro Group 预计全球数据中心的设备投资到 2025 年将增至约 4637 亿美元，达到美国阿波罗登月计划累计投资额的 1.5 倍。能否创造出与巨额前期投资相匹配的经济价值将成为焦点。1960～1973 年的阿波罗计划的总投资额换算到今天的币值约 3180 亿美元。在 4637 亿美元的数据中心投资中，约一半将来自包括亚马逊、微软、谷歌等云计算三强和包括 Meta 在内的四大科技巨头。集中受益的是美国半导体巨头英伟达。由于在数据中心用 AI 半导体领域掌握全球份额的 90%，云计算巨头投资的一定比例将流向英伟达。由于供不应求，AI 半导体的价格正在上涨，该公司保持着超过 70% 的毛利润率。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google DeepMind 称其天气预报模型 GenCast 比传统方法更准确]]></title>
+        <id>https://www.solidot.org/story?sid=79966</id>
+        <link href="https://www.solidot.org/story?sid=79966"/>
+        <updated>2024-12-05T10:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Google DeepMind 研究人员在《自然》期刊上发表论文，称其模型 GenCast 在一周以上的天气预报表现优于目前公认最先进的 European Centre for Medium-Range Weather Forecasts 模型。GenCast 组合使用了大气科学家使用的计算方法和生成式 AI 模型常用的 diffusion 模型。GenCast 模型的分辨率高于欧洲模型的分辨率，而且其所需的算力也比较低。基准测试显示，GenCast 在 97% 的测试中比欧洲模型更准确。DeepMind 还用 GenCast 预测热带气旋的轨迹，前四天 GenCast 的准确度显著高于欧洲模型，其优势保持了大约一周。DeepMind 使用的相关数据将发布在 GraphCast 项目 GitHub 页面上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 份额增长停滞]]></title>
+        <id>https://www.solidot.org/story?sid=79965</id>
+        <link href="https://www.solidot.org/story?sid=79965"/>
+        <updated>2024-12-05T09:22:55.000Z</updated>
+        <summary type="html"><![CDATA[根据 Statcounter 的统计数据，距离 Windows 10 终止支持不到一年时间，Windows 11 的份额并没有增长反而下降了。Windows 11 的全球桌面操作系统市场份额从 10 月的 35.6% 降至 11 月的 34.9%，Windows 10 的市场份额则增长不到一个百分点至 61.8%。在微软本土市场美国，Windows 11 的下降趋势更为明显。与此同时，微软官方博客强调它不会降低 Windows 11 的硬件需求，称 Trusted Platform Module (TPM) 2.0 对未来的安全至关重要。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国官员督促用户使用加密消息应用以阻止中国黑客组织监听]]></title>
+        <id>https://www.solidot.org/story?sid=79964</id>
+        <link href="https://www.solidot.org/story?sid=79964"/>
+        <updated>2024-12-05T08:02:28.000Z</updated>
+        <summary type="html"><![CDATA[中国黑客组织 Salt Typhoon 被指入侵了美国的电信基础设施，利用美国执法机构在电信基础设施中设置的后门去监听电话和阅读短信，但他们无法监听加密消息应用。由于目前无法将黑客从其网络中完全清除掉，美国官员建议使用加密消息应用。网络安全和基础设施安全局（Cybersecurity and Infrastructure Security Agency）官员 Jeff Greene 说，“我们的建议，也是我们内部告诉同事的，并不新鲜：加密是你的朋友，无论是短信还是加密语音通信。即使对手能拦截数据，如果数据经过加密，也会让监听变得不可能。”黑客通过电信基础设施主要针对三类信息：华盛顿特区周边的通话记录或元数据；对特定目标的实时电话监听；以及执法和情报机构使用 CALEA（Communications Assistance for Law Enforcement Act）系统（aka 后门）对通信的跟踪。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 内部将 GPT-4 用于辅助编程]]></title>
+        <id>https://www.solidot.org/story?sid=79963</id>
+        <link href="https://www.solidot.org/story?sid=79963"/>
+        <updated>2024-12-05T07:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Meta 内部使用的辅助编程工具 Metamate 同时使用了 OpenAI 的 GPT-4 以及自己开发的 Llama AI。Llama 和 GPT-4 是竞争对手关系，Meta CEO 扎克伯格（Mark Zuckerberg）曾公开宣称 Llama 是领先的 AI 模型。此外扎克伯格的慈善机构 Chan Zuckerberg Initiative 正使用 OpenAI 的技术开发一款教育 AI 工具，而 OpenAI CEO Sam Altman 加入了其 AI 顾问委员会。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英文维基百科 2024 年最受欢迎文章]]></title>
+        <id>https://www.solidot.org/story?sid=79962</id>
+        <link href="https://www.solidot.org/story?sid=79962"/>
+        <updated>2024-12-05T06:49:09.000Z</updated>
+        <summary type="html"><![CDATA[维基媒体基金会公布了英文维基百科 2024 年最受欢迎文章，大部分受欢迎文章与美国政治以及流行文化相关，但访问量最高的文章却是《2024 年逝世人物列表》，访问量超过了 4400 万。之后是贺锦丽（Kamala Harris）、2024 年美国总统选举，被控谋杀父母的 Lyle 和 Erik Menendez 兄弟（因 Netflix 纪录片上映而引发关注），特朗普，印度超级板球联赛，JD Vance，《死侍与金刚狼》，Project 2025，2024 年印度大选。ChatGPT 12，马斯克（Elon Musk）17，拜登（Joe Biden）19。维基媒体基金会称，用户在 2024 年花了 24 亿小时浏览英文维基百科，英文维基编辑完成了逾 3100 万次编辑加入了近 35 亿字节的信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google DeepMind 宣布 Genie 2]]></title>
+        <id>https://www.solidot.org/story?sid=79961</id>
+        <link href="https://www.solidot.org/story?sid=79961"/>
+        <updated>2024-12-05T06:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Google DeepMind 宣布了一个大规模基础世界模型 Genie 2，能生成无限多种可控制动作、可玩的 3D 环境，用于训练和评估具身代理（embodied agent）。只需要向模型输入单幅的图像，它就能生成一个基于该图像的 3D 环境，用户或 AI 代理可通过键盘和鼠标输入进行游戏。Google DeepMind 称，Genie 2 可以让未来的 AI 代理在一个充满了无限可能性和探索的空间中训练和评估，为原型交互体验的全新创意工作流铺平了道路。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PNG Tools Now Have Neat Icons]]></title>
+        <id>https://catonmat.net/png-tools-now-have-neat-icons</id>
+        <link href="https://catonmat.net/png-tools-now-have-neat-icons"/>
+        <updated>2024-12-05T04:44:44.000Z</updated>
+        <summary type="html"><![CDATA[We have added neat icons to Online PNG Tools to make it easier to find and use your favorite tools.
+
+What Are Online PNG Tools?
+Online PNG Tools are web-based applications that let you edit and manage PNG images without downloading any software. These tools can handle tasks like resizing, compressing, cropping, and converting PNGs to other formats. They're super handy for quick edits, especially if you don't want to use complex programs like Photoshop.
+Who Created Online PNG Tools?
+Online PNG Tools were created by me and my team at Browserling. We're known for making simple and easy-to-use browser-based solutions. We also specialize in cross-browser testing, helping developers make sure websites work on all browsers. Our mission is to create tools that make everyday tasks faster and easier for everyone.
+Who Uses Online PNG Tools?
+Online PNG Tools and Browserling are used by anyone who needs quick and easy image editing without downloading software. This includes students, bloggers, graphic designers, as well as Fortune 100 companies. It's a go-to choice for people looking to save time and keep things simple.
+See you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Law of Diminishing Returns]]></title>
         <id>https://css-tricks.com/?p=382846</id>
@@ -58,11 +196,41 @@ The Law of Diminishing Returns originally published on CSS-Tricks, which is part
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[不健康饮食助长消化系统疾病]]></title>
+        <id>https://www.solidot.org/story?sid=79957</id>
+        <link href="https://www.solidot.org/story?sid=79957"/>
+        <updated>2024-12-04T12:39:43.000Z</updated>
+        <summary type="html"><![CDATA[随着全球确诊的消化系统癌症不断增加，且越来越多的发生在 50 岁以下人群中，研究人员呼吁增加纤维摄入量并改善饮食习惯。胃肠道癌症包括食道癌、胃癌、胰腺癌、小肠癌、结肠癌、直肠癌和肛门癌，占全球癌症病例的四分之一，癌症死亡人数的三分之一。研究人员报告，富含水果、蔬菜、全谷物、鱼、豆类和乳制品的饮食可以降低胃肠道癌症风险。以大量食用红肉和加工肉类、快餐、精制谷物、酒精和含糖饮料为代表的不健康饮食，与胃肠道癌症风险增加之间存在关联。研究人员表示，水果和蔬菜等高纤维食物可以促进健康的肠道细菌，有助于减少炎症。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究揭示 COVID-19 如何引发致命炎症反应]]></title>
+        <id>https://www.solidot.org/story?sid=79956</id>
+        <link href="https://www.solidot.org/story?sid=79956"/>
+        <updated>2024-12-04T10:21:24.000Z</updated>
+        <summary type="html"><![CDATA[研究人员使用了从 40 名死于 COVID-19 的患者身上获得的尸检样本，对从多个部位采集的样本进行了基因组分析，包括肺、心脏、肝脏、肾脏、最初过滤病毒的胸部淋巴结，以及病毒进入人体的鼻腔。他们发现病毒进入鼻腔的免疫基因通过肾素-血管紧张素-醛固酮系统（RAAS）向下游发送信号，引发细胞因子风暴。RAAS 是一种激素系统，通常会开启和关闭，以帮助调节血压、体液和电解质，它是推动免疫反应过度运转的火花，损害了淋巴结的抗感染功能，并对肺、肾脏、心脏、肝脏和其他器官造成严重损害。在死于 COVID-19 的患者中，这种炎症反应的标志物可以在血液中检测到。研究结果可能有助于研究减轻长新冠影响的疗法，长新冠是 COVID-19 感染后的一种慢性疾病，其特征是各种症状，包括发烧、疲劳、咳嗽、胸痛、心悸、头痛、关节和肌肉疼痛、胃肠道问题等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kepler-51 发现第四颗行星]]></title>
         <id>https://www.solidot.org/story?sid=79955</id>
         <link href="https://www.solidot.org/story?sid=79955"/>
         <updated>2024-12-04T09:52:17.000Z</updated>
         <summary type="html"><![CDATA[Kepler-51 位于天鹅座，距地球约 2,615 光年，年龄约 5 亿年。此前它已知有 3 颗类似土星大小，但质量数倍于地球，密度如同棉花糖般超蓬松的系外行星，分别是 Kepler-51b、c 和 d，其公转周期分别为 45 天、85 天和 130 天，呈现 1:2:3 的比例，拥有氢/氦的大气层。天文学家利用了包括韦伯、Apache Point 天文台望远镜和宾州州立大学 Davey 实验室望远镜等不同设施，收集横跨 14 年间的大量数据集，发现了第 4 颗行星 Kepler-51e 的证据。目前尚不清楚它是否也是一颗超蓬松行星。Kepler-51e 的轨道稍大于金星，正好位于这颗恒星的宜居带内。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[玩家花在看游戏视频的时间超过了自己玩游戏的时间]]></title>
+        <id>https://www.solidot.org/story?sid=79954</id>
+        <link href="https://www.solidot.org/story?sid=79954"/>
+        <updated>2024-12-04T09:09:25.000Z</updated>
+        <summary type="html"><![CDATA[根据 Midia Research 的调查报告，玩家花在看游戏视频上的时间超过了自己玩游戏的时间。玩家每周平均花 7.4 小时玩游戏，花 8.5 小时看游戏视频。报告称，24% 的主机/PC 玩家和 48% 的内购玩家每月至少观看一次游戏相关内容，内购玩家通常被视为高消费玩家。报告认为游戏开发商应将游戏视频引入到其生态系统中，在注意力经济的另一条道路上展开竞争，从而开辟新收入来源，通过广告等获取增长。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
@@ -1177,56 +1345,6 @@ Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, wh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SUSE 更换其多款产品名称]]></title>
-        <id>https://www.solidot.org/story?sid=79883</id>
-        <link href="https://www.solidot.org/story?sid=79883"/>
-        <updated>2024-11-26T14:43:58.000Z</updated>
-        <summary type="html"><![CDATA[SUSE 在 KubeCon North America 上宣布了其品牌重塑方案，更换了多款产品的名称，在新产品中引入了过去两年炙手可热的 AI：SUSE 的 Kubernetes 产品 Rancher 改名为 SUSE Rancher；Red Hat Enterprise Linux (RHEL)/CentOS 克隆 Liberty Linux 改名为 SUSE Multi Linux Support；Harvester 改名为 SUSE Virtualization；Longhorn 更名为 SUSE Storage；以及新产品 SUSE AI。SUSE AI 不是 AI 聊天机器人，而是一个用于部署和运行生成式 AI 应用的安全平台。安全和合规性上帮助 AI 创业公司部署 AI 应用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[喝更多水有益健康]]></title>
-        <id>https://www.solidot.org/story?sid=79882</id>
-        <link href="https://www.solidot.org/story?sid=79882"/>
-        <updated>2024-11-26T11:35:11.000Z</updated>
-        <summary type="html"><![CDATA[发表在《JAMA Network Open》期刊上的一项研究根据临床试验评估了增加水摄入的健康益处。加州旧金山的研究人员报告，有限数量的研究表明，增加水摄入有助于减肥和预防肾结石。还有研究表明饮水有益于预防偏头痛和尿路感染、控制糖尿病和降低血压。研究人员认为，水便宜又安全，需要设计更多研究评估多喝水的健康益处。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达发布音频生成模型 Fugatto]]></title>
-        <id>https://www.solidot.org/story?sid=79881</id>
-        <link href="https://www.solidot.org/story?sid=79881"/>
-        <updated>2024-11-26T08:19:25.000Z</updated>
-        <summary type="html"><![CDATA[英伟达展示了一款用于生成音乐和音频的 AI 模型 Fugatto。该模型可以根据文本提示修改声音、产生新的声音。新模型面向音乐、电影和游戏制作商。它可以改变录音的口音和情绪，将钢琴演奏转换成人声歌唱，具体来讲，Fugatto 可以分离歌曲中的人声，添加乐器，将钢琴换成歌剧歌手来改变旋律。英伟达表示，新模型可以创造出“从未听过的声音”，比如可以使小号吠叫或者萨克斯发出猫叫声。Fugatto 建立在英伟达团队此前在语音建模、音频编码和音频理解等领域的工作基础上，完整版本使用 25 亿参数。新模型根据开源数据在包含 32 个英伟达 H100 Tensor Core GPU 的 NVIDIA DGX 超级计算机系统上进行训练。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家首次拍摄到另一星系的恒星照片]]></title>
-        <id>https://www.solidot.org/story?sid=79880</id>
-        <link href="https://www.solidot.org/story?sid=79880"/>
-        <updated>2024-11-26T08:14:13.000Z</updated>
-        <summary type="html"><![CDATA[天文学家首次详细拍摄到了另一星系中的一颗恒星，该恒星距离地球超过 16 万光年。这颗巨大的垂死恒星可能显示出即将爆炸的迹象，这是人们从未详细观察到的过程。研究成果发表于《天文学与天体物理学》。人们已知的最大红超巨星之一是 WOH G64，它的体积是太阳的 1540 至 2575 倍，位于银河系的卫星星系——大麦哲伦星云中。自 1970 年代被发现以来，这颗恒星一直是天文学家的目标，但它的距离使其难以被仔细研究。现在科学家使用甚大望远镜干涉仪拍摄到了WOH G64的特写照片。甚大望远镜干涉仪由 4 台独立的望远镜连接而成，其功能相当于一台直径 200 米的望远镜。这张使用红外光拍摄的照片显示了一个明亮的气体和尘埃球，温度超过 1000℃，这是恒星喷出的，现在像一个致密的茧一样包围着它。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X 限制含外链推文的曝光度]]></title>
-        <id>https://www.solidot.org/story?sid=79879</id>
-        <link href="https://www.solidot.org/story?sid=79879"/>
-        <updated>2024-11-26T08:05:52.000Z</updated>
-        <summary type="html"><![CDATA[Y Combinator 联合创始人 Paul Graham 指出，X/Twitter 降低了含有外链的推文的优先级，X 所有者马斯克（Elon Musk）回应建议将外链放在推文的回复下面。此举旨在鼓励用户在 X 上留下原创内容，而不是引导用户到第三方网站阅读内容。X 此前修改了服务条款，它将使用用户的推文训练 AI 模型，原创内容而不是外链显然更有利于数据收集。这不是 X 第一次针对链接，去年 8 月它的短域名 t.co 被发现对特定域名相关的网址延迟五秒跳转，被限制的域名包括纽约时报的 NYTimes.com，Meta 旗下的 threads.net、Facebook 和 Instagram，以及 Bluesky 和 Substack。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Web Visual Editor – 实时可视化编辑 HTML 文件[VS Code 扩展]]]></title>
         <id>https://www.appinn.com/?p=50276</id>
         <link href="https://www.appinn.com/web-visual-editor-for-vscode/"/>
@@ -1237,47 +1355,6 @@ Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, wh
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日本用户拥抱 Bluesky]]></title>
-        <id>https://www.solidot.org/story?sid=79878</id>
-        <link href="https://www.solidot.org/story?sid=79878"/>
-        <updated>2024-11-26T07:32:04.000Z</updated>
-        <summary type="html"><![CDATA[数据显示，日本用户在转向 Bluesky 等 X 的替代。根据 Similarweb 的数据，截至 10 月的 12 个月内，日本 Android 上的 Bluesky 月活用户数增长了五倍，同期 X 的用户数在下降。11 月的前两周，Bluesky 的日活用户数也有所增长。分析认为美国的总统大选以及日益极化对日本用户影响不大，促使日本用户转向 Bluesky 的动机主要与隐私和功能变化相关。X 最近修改了服务条款，允许 AI 使用用户推文训练；修改了屏蔽功能，以及越来越多的类机器人账号等都给日本用户留下了负面印象。Twitter Japan 直到 11 月 23 日才正式更名为 X Japan，日本大部分用户仍然称该平台为 Twitter。过去一年，日本 Android 平台上 X 的活跃用户数从约 740 万降至约 670 万，Meta 的 Threads 的日本活跃用户数从约 50 万增加到 150 万，Bluesky 则从约 5 万增加到约 50 万。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊限制向阿拉伯国家寄送 LGBTIQ 等类别禁书]]></title>
-        <id>https://www.solidot.org/story?sid=79877</id>
-        <link href="https://www.solidot.org/story?sid=79877"/>
-        <updated>2024-11-26T07:06:44.000Z</updated>
-        <summary type="html"><![CDATA[加拿大多伦多大学公民实验室对电商巨头亚马逊（amazon.com）的调查发现，该平台上有 17,050 种商品被限制寄送到一个或多个地区。亚马逊限制最多的商品类别是书籍，而禁书类别主要是 LGBTIQ、神秘学、成人文学、基督教，以及健康和保健。受影响国家主要包括阿联酋、沙特阿拉伯等中东国家，以及文莱、巴布亚新几内亚、塞舌尔和赞比亚。研究人员发现，在至少一个地区亚马逊审查了其平台上逾 1.1% 的书籍。审查存在很多分类错误，比如乳腺癌相关的图书，使用“food porn”名字的食谱，尼采的《Gay Science》，曼妥思的 rainbow 糖果。亚马逊被指违反了与 LGBTIQ 等相关的承诺。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google iOS App 在第三方网站注入链接]]></title>
-        <id>https://www.solidot.org/story?sid=79876</id>
-        <link href="https://www.solidot.org/story?sid=79876"/>
-        <updated>2024-11-26T06:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Google 的 iOS 应用推出了一项受争议功能：在第三方网站页面注入链接，用户点击链接会返回 Google Search。网站所有者可选择退出，但可能需要 30 天退出才会生效。搜索巨人在世界各地面临反垄断诉讼，它的这一做法引发了争议。Google 声称该功能叫 Page Annotations，它会从网页中提取出令人感兴趣的主题，以链接形式高亮，点击链接会打开 Google 搜索该主题，而该链接网站原本没有放置。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络实名制分隔互联网]]></title>
-        <id>https://www.solidot.org/story?sid=79875</id>
-        <link href="https://www.solidot.org/story?sid=79875"/>
-        <updated>2024-11-26T06:18:37.000Z</updated>
-        <summary type="html"><![CDATA[Gundaz Aghayev 写道：
-中国推广的网络实名制政策给海外华人制造了更多障碍，导致了国内流行的应用在国外下载量大幅下降。在中国月度下载量最高的 62 款应用程序中，百度贴吧、钉钉、抖音、微信阅读和喜马拉雅FM 等应用在国外面临的使用障碍最多。而微信、小红书、HUAWEI FamCare 和 JusTalk 几乎没有障碍。这些访问障碍包括地区互动隔离、应用商店下架、限制手机号码前缀和跨账户验证。在受访者中因为这些障碍不再使用的仅有五分之一。2017 年《网络安全法》实施，中国互联网公司加强了实名制要求，这之后的两到三年内，中国社交应用在海外的下载量大幅下降，特别在华人较多国家。2017年，受障碍影响的中国应用的下载量达到 3200 万次，但到了 2023 年，全球范围内的下载量仅剩 570 万次。在不久的将来，个人和社群可能需要适应在分隔开的、甚至可能是完全孤立的数字通信和网络环境之中生活。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费]]></title>
         <id>https://www.appinn.com/?p=50271</id>
         <link href="https://www.appinn.com/scrcpy-3/"/>
@@ -1285,32 +1362,6 @@ Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, wh
         <summary type="html"><![CDATA[Scrcpy 是一款开源免费的电脑控制安卓工具，Scrcpy v3.0 昨天更新，新增虚拟显示功能（Virtual Display），可以同时启动多个安卓应用，投屏到电脑后，使用鼠标、键盘控制。@Ap]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 More Red Flags for Suspicious Links 🚩]]></title>
-        <id>https://catonmat.net/5-more-red-flags-for-suspicious-links</id>
-        <link href="https://catonmat.net/5-more-red-flags-for-suspicious-links"/>
-        <updated>2024-11-26T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm expanding on my previous post,  10 Red Flags for Suspicious Links by highlighting five more signs that a link might be dangerous. These tips will help you identify shady URLs and avoid falling victim to online scams or malicious attacks. Let's dive into it!
-Suspicious Link Checker Demo
-Got a link that looks sketchy? Open it via the secure link checker my team and I created at browserling.com/browse. Our checker opens links in a remote virtual machine and lets you check them safely without risking your device, so you can browse with peace of mind.
-5 More Signs a Link Might Be Dangerous
-🚩 The Link Mimics a Trusted Brand
-Scammers often create links that look like they belong to trusted brands but with small differences, like "paypal-verify.com" instead of "paypal.com". A…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alt Text: Not Always Needed]]></title>
-        <id>https://css-tricks.com/?p=382593</id>
-        <link href="https://css-tricks.com/alt-text-not-always-needed/"/>
-        <updated>2024-11-25T15:23:39.000Z</updated>
-        <summary type="html"><![CDATA[Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.
-Alt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
