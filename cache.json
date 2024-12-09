@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=50421",
+          "author": "青小蛙",
+          "description": "有同学在发现频道推荐了自己写的小工具《哔哩哔哩账号备份》，用来一键备份 B 站账号，并支持还原，方便账号数据迁移/快速转生。可备份关注、追番、收藏夹、稍后再看等内容，还支持查询已注销账号信息。适用于",
+          "link": "https://www.appinn.com/bilibili-backup-tool/",
+          "publishedOn": "2024-12-08T10:59:45.000Z",
+          "wordCount": 2600,
+          "title": "哔哩哔哩账号备份工具，但为什么要备份 B 站账号？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/12/appinn-homework-28-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=50417",
           "author": "青小蛙",
           "description": "音频转换器是一款适用于 iPhone、iPad 的免费应用，它可以进行 MP3 格式转换、从视频中提取音频、直接对音频裁剪、倍速处理，另外还支持批量处理音频文件。开发者媳妇是 🌍 全球第一个用户。@A",
@@ -160,16 +170,6 @@
           "wordCount": 2574,
           "title": "求：监控文件夹内容变化的软件？ 大佬：我给你现写一个",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/12/faq-23.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50321",
-          "author": "青小蛙",
-          "description": "Everything 的长期测试版本 Everything 1.5a 发布新版本 1.5.0.1385a，推出全新的 Everything SDK3 平台，开发者可以将 Everything 的搜索功",
-          "link": "https://www.appinn.com/everything-1-5-1385a/",
-          "publishedOn": "2024-11-29T05:07:46.000Z",
-          "wordCount": 2600,
-          "title": "Everything 1.5a 新版发布：全新 SDK3 集成平台+搜索性能优化。支持拼音搜索（全拼、首字母）、全文搜索",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-29T143928.140-1.jpg"
         }
       ]
     },
@@ -266,16 +266,6 @@
           "wordCount": 1458,
           "title": "哇哦，font-palette支持动画和palette-mix()混合函数了",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11449",
-          "author": "张 鑫旭",
-          "description": "目前所有现代浏览器都已经支持color-mix()这个颜色函数了，这个函数可以实现关键字颜色值的半透明表示，是其他CSS、JS语法都无法取代的实用特性，本文还有色调插值方法的介绍。",
-          "link": "https://www.zhangxinxu.com/wordpress/2024/11/css-color-mix-function/",
-          "publishedOn": "2024-11-28T16:14:21.000Z",
-          "wordCount": 1547,
-          "title": "CSS好用的color-mix颜色函数也可以使用啦",
-          "imageUrl": null
         }
       ]
     },
@@ -284,6 +274,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=79989",
+          "author": null,
+          "description": "尽管本国芯片在部分领域取得了突破，但中国公司仍然不太愿意采用本国替代芯片。原因包括芯片工艺制程的落后，产量低、国外竞争对手的产品可用性和可靠性已经过了验证，以及缺乏政府的强制性要求。以 AI 和 HPC 为例，美国限制中国公司采购英伟达的 H100 或 H200 芯片，而本土 AI 芯片缺乏软件生态，在性能上甚至无法与英伟达的弱化版本 HGX H20 竞争。中国企业担心失去竞争力，宁愿选择弱化版本或通过走私等方法采购。在汽车芯片市场，国内公司规模小产量低，难以挑战国外的老牌产品。中国公司对外国芯片的依赖在可预见的未来仍将会持续下去。",
+          "link": "https://www.solidot.org/story?sid=79989",
+          "publishedOn": "2024-12-08T14:24:39.000Z",
+          "wordCount": 176,
+          "title": "中国公司仍然不太愿意采用本国替代芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79988",
+          "author": null,
+          "description": "由于云层覆盖的面积减少，德国科学家报告地球在 2023 年吸收了更多的阳光。低空云层的覆盖面积平均每十年减少约 1.3%，而 2023 年减少的幅度比往年略大。是什么导致云层消失？科学家提出了三种可能的解释：气候系统的正常变动，意味着 2023 年是异常的一年，未来几年情况会恢复；由于对污染的控制气溶胶减少了，气溶胶能播种云去反射阳光；气温上升对低空云层的影响——这一解释最令人担忧，意味着全球暖化会加剧，由于气温上升，云层变得稀疏，导致地球吸收了更多的热量，地球进一步暖化，这意味着高温的趋势会持续下去。",
+          "link": "https://www.solidot.org/story?sid=79988",
+          "publishedOn": "2024-12-08T13:34:51.000Z",
+          "wordCount": 175,
+          "title": "因云层减少地球在 2023 年吸收了更多的阳光",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79987",
+          "author": null,
+          "description": "Meta 的新数据中心将坐落在路易斯安那州的 Richland Parish，占地 400 万平方英尺，投资 100 亿美元，将是 Meta 至尽规模最大的数据中心。新数据中心没有使用核电，Meta 与 Entergy 合作建造三座燃烧天然气的火电站，总发电能力 2,262MW。火电站将使用联合循环燃气轮机，比传统的燃气火电站更清洁，能利用废热驱动辅助蒸汽轮机。但它们仍然会释放出温室气体，Meta 承诺将在 20 年代末解决该问题。Entergy 声称火电站未来可以升级到完全使用氢燃料发电，但没有披露升级时间表。",
+          "link": "https://www.solidot.org/story?sid=79987",
+          "publishedOn": "2024-12-08T10:28:52.000Z",
+          "wordCount": 188,
+          "title": "Meta 新 AI 数据中心使用天然气火电站供电",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79986",
+          "author": null,
+          "description": "《自然》网站报道，石正丽实验室在 2004-2021 年收集的病毒样本都与 SARS-CoV-2 无关。多年来一直有传言称 SARS-CoV-2 是从武汉病毒实验室泄露的。今年初从武汉病毒研究所调到广州国家传染病研究所的病毒学家石正丽本周在日本举行的一个会议上表示，其实验室冰库储存的病毒样本都与 SARS-CoV-2 无关。当武汉报告首例 COVID-19 病例时，石正丽在武汉病毒研究所领导冠状病毒研究。她一直表示其实验室从未见过或研究过 SARS-CoV-2。她最新公开的分析包括 56 种新 β 冠状病毒（SARS-CoV-2 所属大类）的全基因组数据以及部分序列。所有病毒样本都是在 2004-2021 年间收集的，没有发现与 SARS-CoV-1 和 SARS-CoV-2 密切相关的新序列。",
+          "link": "https://www.solidot.org/story?sid=79986",
+          "publishedOn": "2024-12-08T09:52:20.000Z",
+          "wordCount": 198,
+          "title": "石正丽实验室在 2004-2021 年收集的病毒样本都与 SARS-CoV-2 无关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=79985",
+          "author": null,
+          "description": "清华大学的研究人员在《科学》期刊上发表研究报告，揭开了乙肝病毒编码的关键分子 HBsAg 的三维结构。乙型肝炎（乙肝）病毒（Hepatitis B Virus，HBV）感染是严重的全球公共卫生问题，世界卫生组织估算全球每年有近 100 万人死于 HBV 感染相关疾病。而 HBV 感染是肝细胞癌（肝癌）发生的重要病原学及疾病进展因素，中国84% 的肝癌由 HB V感染导致，是世界上 HBV 感染负担最重的国家。据估计中国目前依然有超过 8000 万乙肝病毒携带者，其中约 3000 万例被确诊为慢性乙型肝炎患者。",
+          "link": "https://www.solidot.org/story?sid=79985",
+          "publishedOn": "2024-12-07T16:22:37.000Z",
+          "wordCount": 179,
+          "title": "中国科学家揭开乙肝病毒分子的结构",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=79984",
           "author": null,
@@ -973,86 +1013,6 @@
           "wordCount": 173,
           "title": "孙宇晨吃掉了花 624 万美元拍下的“香蕉”艺术品",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79915",
-          "author": null,
-          "description": "俄罗斯 Tor 用户报告该国的审查力度在加大，其中包括尝试屏蔽 Tor 网桥和 pluggable transports。俄罗斯通信监管机构 Roscomnadzor 还将打击目标瞄准托管服务商，而很多帮助躲避审查的工具就依赖于这些服务商的服务器，其中包括了 Tor 网桥。随着审查的加大，Tor 项目需要更多 WebTunnel 网桥。WebTunnel 是一种新型的网桥，通过模拟 HTTPS 流量增加屏蔽 Tor 连接的难度。审查者不可能完全屏蔽 HTTPS 连接，因为这会导致绝大部分服务无法访问。Tor 项目希望到年底增加 200 个新 WebTunnel 网桥，为俄罗斯用户提供安全访问。",
-          "link": "https://www.solidot.org/story?sid=79915",
-          "publishedOn": "2024-11-29T14:28:40.000Z",
-          "wordCount": 196,
-          "title": "Tor 项目需要更多 WebTunnel 网桥",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79914",
-          "author": null,
-          "description": "AI 聊天机器人如 ChatGPT、Gemini 和 Copilot 能模仿人类的语言与人进行沟通，它们是如此成功，甚至能表现出幽默和共情等人类情感。语言被认为是人类独有的能力，但生成式 AI 的进步迫使我们重新思考这一观点。人类语言的一个最鲜明的特征是主观性，体现在传达情感细微差别的语言或措辞中，以及个人观点的表达中。人类语言主观性的一个典型特征是人称代词的使用。第一人称——我或我们——允许表达个人的想法和经历。第二人称——你——用于与他者的互动中，在两位对话参与者之间构建关系。这又被称为主体间性(intersubjectivity)。AI 聊天机器人在与人类的交流中会隐式的使用第一人称，扮演助手的角色。即使它没有显式的使用第一人称，但仍然会让用户产生某种宾至如归的感觉。在对话中 AI 聊天机器人会直接针对用户使用“你”，这种个人化的语言表达会让人产生积极参与其中的感觉。聊天机器人通过使用第一人称模拟意识，试图创造出一种共情的幻觉。它通过站在帮助者立场使用第二人称去强化亲密感。这是构建人工情感的语言技巧，是它的算法，AI 并不能真正理解你。",
-          "link": "https://www.solidot.org/story?sid=79914",
-          "publishedOn": "2024-11-29T13:26:23.000Z",
-          "wordCount": 174,
-          "title": "AI 聊天机器人的人工情感是一种语言技巧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79913",
-          "author": null,
-          "description": "伦敦帝国理工学院研究人员发现，日本探测器隼鸟 2 号从小行星龙宫上采集并送回地球的样本会迅速被地球微生物占领，即使采取了严格的污染控制措施。小行星样本是储存在密封室中送回地球的，在 10,000 级洁净室的氮气环境下打开以防止污染。研究人员观察了样本表面丝状微生物丰度，微生物来自地球而不是小行星，其结构与已知的地球微生物相似。为防止微生物污染，研究人员建议未来的太空样本送回任务加强污染控制。地球是一个充满微生物生命的行星。",
-          "link": "https://www.solidot.org/story?sid=79913",
-          "publishedOn": "2024-11-29T09:58:24.000Z",
-          "wordCount": 164,
-          "title": "小行星龙宫的样本迅速被地球微生物占领",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79912",
-          "author": null,
-          "description": "Mozilla 宣布，Firefox 的 Linux 二进制版本打包格式从 .tar.bz2 切换到 .tar.xz。这一改变将减少下载的文件容量缩短解压缩时间。Firefox 的 .tar.xz 包平均比 .tar.bz2 包小 25%，意味着能更快完成下载，节省时间和带宽。此外 tar.xz 包解压所需时间只需要 .tar.bz2 的二分之一。Mozilla 解释说，选择.tar.xz 而不是 Zstandard (.zst)的原因是虽然 Zstandard 解压更快，但压缩率低于 .tar.xz，而且 Linux 发行版基本都支持 .tar.xz，兼容性更胜一筹。",
-          "link": "https://www.solidot.org/story?sid=79912",
-          "publishedOn": "2024-11-29T09:17:13.000Z",
-          "wordCount": 207,
-          "title": "Firefox 打包格式从 .tar.bz2 切换到 .tar.xz",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79910",
-          "author": null,
-          "description": "世界各国的央行对央行数字货币(Central Bank Digital Currencies 或缩写 CBDC)的支持度大幅下降。数字货币研究所 OMFIF Digital Monetary Institute 对央行官员的调查发现，只有 13% 的人支持将 CBDC 作为跨境支付方案，而 2023 年这一数字是 31%；只有 10% 的银行家表示在积极开发 CBDC，而去年这一数字是 21%。尽管有国际清算银行的 Project Agora 和中国的 Project mBridge 等重大项目，但对 CBDC 的支持率仍然在下降。国际清算银行最近退出了 Project mBridge，可能造成西方和新兴市场支付系统的潜在分裂。近半银行家支持改善现有的即时支付基础设施，而不是打造 CBDC。",
-          "link": "https://www.solidot.org/story?sid=79910",
-          "publishedOn": "2024-11-29T06:40:08.000Z",
-          "wordCount": 191,
-          "title": "央行对央行数字货币也失去信心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79909",
-          "author": null,
-          "description": "松下宣布开发出可再现已故创始人松下幸之助想法等的 AI。此举旨在传承理念，AI 接受了其生前语音、发言集等大量数据的训练。负责人表示，AI 对于提问能以松下幸之助的方式作出回答。松下透露，AI 学习了 200 多份资料，包括在公司内部会议和演讲中发言的48小时录音数据、书籍《松下幸之助发言集》等，开发耗时 7 个月。在演示中，负责人提问“随着 AI 的引进，是否不再需要人手”。约 10 秒后，一个 70 岁左右的声音回答：“将 AI 擅长的部分交给 AI，人类就能专注于更具创造性和高价值的工作。”松下幸之助的孙子松下正幸惊叹“相似得令人生畏”。",
-          "link": "https://www.solidot.org/story?sid=79909",
-          "publishedOn": "2024-11-29T05:35:35.000Z",
-          "wordCount": 180,
-          "title": "松下开发松下幸之助 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79908",
-          "author": null,
-          "description": "安全公司 ESET 的研究人员报告了第一个杀不死的 Linux UEFI Bootkit。该恶意程序被攻击者命名为 Bootkitty，相比 Windows 平台上的类似恶意程序，Bootkitty 相对简陋，关键底层功能不完善，主要感染 Ubuntu，感染其它 Linux 发行版的手段缺乏。安全研究人员猜测它可能是一个概念验证版本，尚未观察到实际感染证据。Bootkit 是一种感染固件的恶意程序，此类恶意程序无法通过格式化硬盘等常规方法杀死。最新发现意味着 UEFI Bootkit 不再只针对 Windows 操作系统。",
-          "link": "https://www.solidot.org/story?sid=79908",
-          "publishedOn": "2024-11-28T15:56:02.000Z",
-          "wordCount": 195,
-          "title": "安全公司发现首个无法杀死的 Linux UEFI Bootkit",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=79907",
-          "author": null,
-          "description": "基于 Ubuntu 的发行版 elementary OS 释出了 v8 版本。Elementary OS 8 重写了 Dock，引入了新的窗口管理功能，为视障用户改进了安装和初始设置程序，以及新的安全会话（Secure Session）模式。在安全会话模式中，应用将受到更多限制，需要用户同意才能访问系统功能。当应用想要在后台监听用户按键、截取屏幕截图、录制屏幕，甚至从单像素中提取颜色时，系统会先进行询问。安全会话支持混合 DPI（Mixed DPI）模式，改进了触摸屏和平板电脑多点触控的支持。",
-          "link": "https://www.solidot.org/story?sid=79907",
-          "publishedOn": "2024-11-28T15:10:32.000Z",
-          "wordCount": 185,
-          "title": "Elementary OS 8 释出",
-          "imageUrl": null
         }
       ]
     },
@@ -1115,13 +1075,34 @@
       "title": "reuixiy",
       "feedUrl": "https://io-oi.me/rss.xml",
       "siteUrl": "https://io-oi.me/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://reuixiy.notion.site/153c9131ed4f80a9b116ce6a28588039",
+          "author": "reuixiy@gmail.com (reuixiy)",
+          "description": "最近讀《貓魚》隨著陳沖的文字、隨著鄧麗君的歌曲夢回了上世紀七八十年代，於是想著按年份整理一下自己的中文歌曲歌單，然後就有了這「華語歌單編年」的回望。\n閱讀全文：https://reuixiy.notion.site/153c9131ed4f80a9b116ce6a28588039",
+          "link": "https://reuixiy.notion.site/153c9131ed4f80a9b116ce6a28588039",
+          "publishedOn": "2024-12-06T16:00:00.000Z",
+          "wordCount": 121,
+          "title": "華語歌單編年回望",
+          "imageUrl": "https://www.notion.so/images/meta/default.png"
+        }
+      ]
     },
     {
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/webp-tools-now-have-neat-icons",
+          "author": null,
+          "description": "Last week, we added neat icons to Online GIF Tools, and today we have also added neat icons to Online WebP Tools. The new icons make it easier to find and use your favorite tools.\n\nWhat Are Online WebP Tools?\nOnline WebP Tools are browser-based apps that let you edit WebP images without needing to download or install anything. They offer features like resizing, cropping, compressing, or converting WebP files to other formats. These tools are free, easy to use, and work right in your browser.\nWho Created Online WebP Tools?\nOnline WebP Tools were built by me and my team at Browserling. We focus on creating simple, user-friendly browser-based tools that anyone can use. Along with these tools, we specialize in cross-browser testing and helping developers ensure their websites run smoothly on all browsers. Our mission is to create tools that help everyone get their everyday tasks done faster and easier.\nWho Uses Online WebP Tools?\nOnline WebP tools are used by everyone from casual users to professionals and even Fortune 100 companies. They're great for quick tasks like resizing, converting, or compressing WebP images without installing software. Casual users often use them for creating transparent WebP stickers, while professionals rely on them to optimize images for faster website loading speed and higher SEO rankings.\nSee you next time!",
+          "link": "https://catonmat.net/webp-tools-now-have-neat-icons",
+          "publishedOn": "2024-12-08T06:16:26.000Z",
+          "wordCount": 303,
+          "title": "WebP Tools Now Have Neat Icons",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/browserling-coupon-code-winter-2024-official",
           "author": null,
@@ -1300,16 +1281,6 @@
           "publishedOn": "2024-11-29T15:47:00.000Z",
           "wordCount": 131,
           "title": "12 Hours Left in Black Friday Sale (75% OFF) INSANE OFFER",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/10-red-flags-for-suspicious-attachments",
-          "author": null,
-          "description": "In this article, taken from my How to Open Suspicious Attachments Safely guide, I'm sharing 10 red flags everyone needs to know about shady email attachments. Whether it's a random attachment from a stranger or a weird one from someone you know, knowing these warning signs can save you a lot of trouble.\nAttachment Sandbox Demo\nNothing beats a live demo! Suspicious attachments can compromise your organization in seconds. To mitigate risk, try browserling.com/browse that I and my team created. It provides a secure virtual environment to analyze potentially harmful attachments without exposing your device and network to threats.\n10 Signs an Attachment Might Be Risky\n🚩 Unknown Sender\nIf the email is from someone you don't know, treat the attachment with caution. Cybercriminals often send fake…",
-          "link": "https://catonmat.net/10-red-flags-for-suspicious-attachments",
-          "publishedOn": "2024-11-28T21:21:00.000Z",
-          "wordCount": 600,
-          "title": "10 Red Flags for Suspicious Attachments 🚩",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
