@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=50602",
+          "author": "青小蛙",
+          "description": "来自 @WM 以及 xiaomitime 的报道，红点设计概念大奖官网放出了 Xiaomi Home 3D（米家3D版）的设计图，将智能家居设备融入 3D 房型图之中，可以非常直观的控制你的智能设备。",
+          "link": "https://www.appinn.com/xiaomi-home-3d/",
+          "publishedOn": "2024-12-29T04:00:14.000Z",
+          "wordCount": 2581,
+          "title": "米家3D版：这可能是智能家居控制中心的终极形态",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/12/appinn-homework-55.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=50599",
           "author": "青小蛙",
           "description": "我的大鼠标是一个模仿 macOS 系统自带晃动鼠标指针以定位功能的 Windows 小工具，由青小蛙重新发布并维护，支持 Windows 10、11。简单易用，就是「晃动鼠标放大指针」。@Appinn",
@@ -90,16 +100,6 @@
           "wordCount": 2670,
           "title": "Obsidian：一场来自意大利的”求爱”风波",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/12/Solana-2-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50550",
-          "author": "青小蛙",
-          "description": "有同学在求：有没有什么免费可用的 png 转矢量图工具？离线的，不要网站那种 这倒是一个好问题，虽然从开发者角度来讲，要免费，要离线，还要功能好，的确…挺难的 😂 但，还真是有啊。 早在2",
-          "link": "https://www.appinn.com/qa-convert-png-to-svg-tool/",
-          "publishedOn": "2024-12-20T09:27:44.000Z",
-          "wordCount": 2899,
-          "title": "有没有免费的、离线的、好用 PNG 转矢量图工具？",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/12/Solana-1-1.jpg"
         }
       ]
     },
@@ -153,6 +153,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11503",
+          "author": "张 鑫旭",
+          "description": "所有现代浏览器又悄咪咪地更新了一个HTML新特性，就是select元素里面可以使用hr元素创建分隔线了，具体效果和个中细节可进文了解。",
+          "link": "https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/",
+          "publishedOn": "2024-12-29T14:25:59.000Z",
+          "wordCount": 1291,
+          "title": "HTML select下拉框支持hr元素啦",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=11498",
           "author": "张 鑫旭",
           "description": "有些前端开发可能还不知道，JavaScript是有能力获取操作系统的内存、CPU/GPU、电量、蓝牙、掉线等信息的。",
@@ -169,6 +179,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80180",
+          "author": null,
+          "description": "1993 年英特尔发布了奔腾高性能处理器。一年之后 Nicely 教授在研究孪生素数时发现他的奔腾计算机在执行浮点除时会产生错误结果。1/824633702441 在三台奔腾计算机上的结果都是错误的，但旧计算机却能给出正确的答案。Nicely 教授其实不是第一个发现浮点除 bug 的人，几个月前英特尔内部测试就发现了该 bug，它估计出错的概率非常低，大约为 1/90 亿，认为问题微不足道，虽然如此它仍然悄悄修改了电路以修复问题。Nicely 教授在发现问题之后致电了英特尔技术支持，但对方不予理睬。于是他向计算机杂志和业内知名人士发送了该 bug 的电邮，其中一位收件人是《Undocumented DOS》作者 Andrew Schulman，他转发给了一家 DOS 软件公司的联合创始人 Richard Smith，Smith 随后将其发布在了 Compuserve 论坛上。Electronic Engineering Times 杂志的一位记者看到帖子后在杂志上撰写了有关奔腾 bug 的报道。英特尔解释说，bug 存在于被称为 PLA(Programmable Logic Array)的组件上，它充当了除法运算的查找表。它已经修复了 bug 将会为客户替换有问题的处理器。问题本应该就此了结了，然而英特尔对想要更换处理器的客户施加了限制，要求客户说服工程师他们需要如此高的精度才能替换，此举激怒了客户，再次引发了广泛的负面报道。当年 12 月 12 日 IBM 宣布停售奔腾计算机，英特尔随后屈服，宣布召回所有有缺陷的芯片，这次召回花费了英特尔 4.75 亿美元。",
+          "link": "https://www.solidot.org/story?sid=80180",
+          "publishedOn": "2024-12-29T15:27:39.000Z",
+          "wordCount": 214,
+          "title": "英特尔 4.75 亿美元错误：奔腾浮点除 Bug",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80179",
+          "author": null,
+          "description": "本周举行的混沌计算机俱乐部 38C3 会议披露了大众汽车收集的 80 万电动汽车车主行踪信息暴露在互联网上数个月之久。这些信息保存在亚马逊 AWS 服务中，但安全性很差，信息暴露了车主汽车精确的 GPS 位置、电池状态和习惯（用报告者的话是汽车是否曾在妓院前停留都一目了然）。受影响的车主包括了德国政客、企业家、汉堡警方，甚至可能还有情报部门的间谍。软件 bug 是在 2024 年夏天引入的，一位匿名告密者发现了问题，报告给了混沌计算机俱乐部，混沌计算机俱乐部立即报告给了德国政府以及大众旗下的软件开发商 Cariad。Cariad 迅速修复了问题，堵上了对其客户数据未经授权的访问漏洞。",
+          "link": "https://www.solidot.org/story?sid=80179",
+          "publishedOn": "2024-12-29T14:10:30.000Z",
+          "wordCount": 182,
+          "title": "大众 80 万电动汽车车主的行踪短暂暴露在互联网上",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80178",
+          "author": null,
+          "description": "黑山批准将韩国加密货币企业家 Do Kwon 引渡到美国受审。加密货币公司 Terraform Labs 的创始人 Do Kwon 是在 2023 年 3 月在黑山被捕。Terraform 发行了被称为 Terra USD（UST）的算法稳定币，2022 年 5 月 UST 的币值崩溃关联代币 LUNA 几乎跌至一文不值，客户损失了 400 亿美元。Do Kwon 是韩国公民，他的公司总部位于新加坡，他受到了韩国和美国的指控，他同意自己被引渡到韩国和美国。",
+          "link": "https://www.solidot.org/story?sid=80178",
+          "publishedOn": "2024-12-28T15:22:32.000Z",
+          "wordCount": 194,
+          "title": "Do Kwon 被批准引渡到美国受审",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80177",
+          "author": null,
+          "description": "OpenAI 公布了转变为营利性公司的计划，以更容易筹集资金。根据拟议中的计划，OpenAI 的营利性公司总部位于特拉华州，将是一家公益公司（PBC）——即除了股东价值外还会考虑社会利益。OpenAI 的原非营利组织将会在新公司持有股份，OpenAI 声称它将会成为“史上资源最丰富的非营利组织之一”。公司法教授 Ann Lipton 表示成为公益公司并不能保证公司会将其使命置于利润之上，它在法律上只要求公司董事会平衡其使命和盈利，它实际上没有真正的执行权。",
+          "link": "https://www.solidot.org/story?sid=80177",
+          "publishedOn": "2024-12-28T15:11:05.000Z",
+          "wordCount": 170,
+          "title": "OpenAI 公布转变为营利性公司的计划",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80176",
           "author": null,
@@ -808,106 +858,6 @@
           "wordCount": 171,
           "title": "天文学家发现某种星际间“高速公路”",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80112",
-          "author": null,
-          "description": "欧盟本周根据旨在消除不公平竞争的 Digital Markets Act（DMA）法案向苹果递交了一份草案，建议苹果 iOS 操作系统加强与第三方设备如智能手表、耳塞和耳机等的互操作性，欧盟还建议苹果改进想要与 iOS 和 iPadOS 实现互操作性的第三方开发商的沟通方式，增加有关内部功能和拒绝的透明度。苹果显然对 DMA 互操作性要求不是很感冒，它声称 DMA 互操作性存在严重的安全和隐私方面的风险。它以 Meta 为例说，Meta 可能会收集其用户的数据。Meta 反击了苹果的说辞，认为这是苹果的反竞争行为，它其实不相信互操作性。",
-          "link": "https://www.solidot.org/story?sid=80112",
-          "publishedOn": "2024-12-20T14:38:47.000Z",
-          "wordCount": 177,
-          "title": "欧盟建议苹果加强互操作性苹果回应安全至上",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80111",
-          "author": null,
-          "description": "中国电视机制造商 TCL 在高端电视市场连续两个季度超过了韩国三星。根据市场研究公司 Omdia 周四公布的数据，在 80 英寸及以上的电视机市场，TCL 三季度份额为 23%，三星从去年同期的 26% 降至 19%，海信紧随其后，仅仅比三星低 1.65%，LG 去年排名第三，今年被海信超越。中国品牌电视机不再被视为廉价品，在 LCD 电视领域，中国和韩国产品的技术差距微乎其微，在部分领域还具有优势，比如推出 100 英寸电视机，为产品配备 AI 功能。上月的黑五促销期间，海信 100 英寸的电视机仅售价 1,599 美元，TCL 98 英寸的 mini-LED 电视售价为 2,900 美元，相比下三星 98 英寸 mini-LED 电视售价为 8,997 美元，巨大的价格差让消费者日益青睐中国品牌。业内人士认为，韩国在电视硬件上难以与中国品牌竞争，由于中国政府的补贴以及低制造成本，韩国公司无法像中国公司那样降低价格。",
-          "link": "https://www.solidot.org/story?sid=80111",
-          "publishedOn": "2024-12-20T11:24:34.000Z",
-          "wordCount": 198,
-          "title": "TCL 在电视机高端市场超过三星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80110",
-          "author": null,
-          "description": "瑞士再保险公司(Swiss Re)的研究发现，相比人类司机驾驶汽车，Waymo 自主驾驶汽车的财产损失和人身伤害索赔显著减少，部分指标甚至减少了 92%。瑞士再保险公司分析了 Waymo 自主驾驶汽车行驶 2530 万英里的碰撞责任索赔，与逾 50 万起索赔和逾 2000 亿英里的人类司机数据进行了比较。结果发现 Waymo 自主驾驶汽车表现出更好的安全性，财产损失索赔少 88%，人身伤害索赔少 92%。即使相比配备辅助驾驶技术的人类驾驶汽车，Waymo 的自主驾驶汽车仍然有着显著的优势。",
-          "link": "https://www.solidot.org/story?sid=80110",
-          "publishedOn": "2024-12-20T10:17:58.000Z",
-          "wordCount": 179,
-          "title": "Waymo 的无人驾驶汽车是保险公司梦想中的汽车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80109",
-          "author": null,
-          "description": "卫星观测和月表实测结果都显示，现今月球已经没有全球偶极磁场。对阿波罗返回样品的古磁场强度研究指示月球在 42 亿年前到 35 亿年前存在一个相对活跃的“发电机”所产生的磁场，强度可达几十微特（μT），接近现今地球磁场水平；该磁场在约 31 亿年前下降了一个数量级，之后维持在几微特的强度；磁场强度在 15 亿年前到 10 亿年前再次下降，并最终在距今 10 亿年以后的某个时刻，月球“发电机”完全停止工作。由于样品的局限性，已有数据均来自月球正面返回样品。中科院研究团队对嫦娥六号取回的月球背面样品中 4 颗毫米级玄武岩岩屑样品开展了磁学研究，结果显示样品记录的古磁场强度约为 5 微特到 21 微特（中值约 13 微特）。与此前研究认为的月球“发电机”强度在 31 亿年前急剧下降之后可能一直处于低能量状态不同，嫦娥六号玄武岩样品的古磁场强度结果揭示月球磁场可能在 28 亿年前发生反弹，指示月球“发电机”在早期急剧下降后可能重新激活。其原因可能是“发电机”主要能量来源发生变化或初始驱动机制再次增强。",
-          "link": "https://www.solidot.org/story?sid=80109",
-          "publishedOn": "2024-12-20T09:40:50.000Z",
-          "wordCount": 183,
-          "title": "嫦娥六号样品揭示月球背面古磁场信息",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80108",
-          "author": null,
-          "description": "旅居英国的澳大利亚计算机科学家 Craig Wright 因反复谎称自己是比特币作者中本聪而被判藐视法庭，被判 12 个月监禁缓期两年，如果他继续声称自己是中本聪，将面临牢狱之灾。Craig Wright 目前不在英国，地址未知，他是通过视频出席法庭听证会。这意味着如果英国政府想要拘捕他需要发出国际通缉令，而他可能在与英国没有引渡协议的国家。Wright 此前已被英国高等法庭裁决不是比特币的发明人。",
-          "link": "https://www.solidot.org/story?sid=80108",
-          "publishedOn": "2024-12-20T08:02:49.000Z",
-          "wordCount": 183,
-          "title": "Craig Wright 因反复宣称他是中本聪而被判 12 个月缓刑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80107",
-          "author": null,
-          "description": "根据发表在《科学》期刊上的一项研究，类太阳恒星可能频繁爆发超级耀斑（Superflare）事件。超级耀斑是一种非常强烈的爆发事件，能在短时间内释放出相当于数百万颗核弹的能量。研究团队使用 NASA 太空望远镜观察 56,450 颗类太阳相恒星，这些恒星的表面温度介于 5,000K 到 6,500K 之间，光度和特性接近太阳。为了保证结果的准确性，研究团队排除了旋转速度过快的年轻恒星和双星系统。根据累积 4 年的观测资料，团队发现 2,527颗 恒星共发生了 2,889 次超级耀斑。统计结果显示，类太阳恒星平均每百年可能发生一次这样的能量大爆发。历史上，太阳曾经发生过最强的一次耀斑事件是 1859 年的卡灵顿事件，当时造成北美地区的电报系统与电网失灵，在靠近赤道的低纬度地区也能看见极光。该耀斑事件释放的能量仅为超级耀斑的百分之一。",
-          "link": "https://www.solidot.org/story?sid=80107",
-          "publishedOn": "2024-12-20T07:41:35.000Z",
-          "wordCount": 176,
-          "title": "类太阳恒星可能频繁爆发超级耀斑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80106",
-          "author": null,
-          "description": "渗透测试发行版 Kali Linux 释出了最新的 2024.4，主要新特性包括 Python 3.12，停止提供 i386 内核和镜像，SSH 客户端淘汰 DSA 密钥，Raspberry Pi Imager 支持，GNOME 47，新的 Kali 论坛，等等。开发者称。i386 或 32 位 x86 CPU 架构早已被 x86-64 或 amd64 所取代，2024 年 10 月 Debian 发行版宣布停止构建 i386 内核和镜像，Kali Linux 是基于 Debian 的发行版，因此它也不再支持 i386 架构，但 i386 软件包仍然可能在 x86-64 系统上运行，i386 软件生态系统短时间内是不会消失的。",
-          "link": "https://www.solidot.org/story?sid=80106",
-          "publishedOn": "2024-12-20T07:04:41.000Z",
-          "wordCount": 216,
-          "title": "Kali Linux 2024.4 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80104",
-          "author": null,
-          "description": "由于在 iPhone 中集成百度大模型的进展不顺，苹果正与腾讯和字节跳动磋商在中国销售的 iPhone 引入这两大巨头的大模型。苹果已经开始在 iPhone 中推出 OpenAI 的 ChatGPT，但 ChatGPT 在中国不可用，而在中国推出生成式 AI 服务需要先获得政府的批准，这一监管要求迫使苹果为中国销售的 iPhone 寻找本地合作伙伴。苹果与腾讯和字节跳动之间的谈判还处于早期阶段。此前苹果一直与百度合作整合百度的大模型，但双方在很多方面都存在分歧，百度希望保留 iPhone 用户数据用于分析，而这与苹果的隐私政策相悖。",
-          "link": "https://www.solidot.org/story?sid=80104",
-          "publishedOn": "2024-12-19T15:52:27.000Z",
-          "wordCount": 185,
-          "title": "苹果与腾讯和字节跳动磋商在 iPhone 引入其大模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80103",
-          "author": null,
-          "description": "根据国际能源署 (IEA) 的最新报告，自俄罗斯入侵乌克兰导致全球天然气市场价格上涨以来，煤炭产量、贸易量以及发电量均创下历史新高。到今年年底，全球煤炭的使用量将达到 87.7 亿吨，这一数字未来几年将趋于平稳，将一直持续到 2027 年。中国的燃煤火电站占到了全球煤炭使用的三分之一，随着中国推进核电建设，加快太阳能光伏和风电发展，到 2027 年煤炭使用将受到限制。美国和欧盟等发达经济体的煤炭发电量已越过峰值，预计今年将分别下降 5% 和 12%。",
-          "link": "https://www.solidot.org/story?sid=80103",
-          "publishedOn": "2024-12-19T15:40:14.000Z",
-          "wordCount": 170,
-          "title": "全球煤炭使用创新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80102",
-          "author": null,
-          "description": "法律文件是出了名的晦涩难懂，即使对于律师而言也是如此。但为什么法律文件采用这种写作方式？MIT 的认知学家认为他们找到了答案：为了彰显权威感。研究团队多年来一直研究法律术语的独特特征。在 2022 年的一项研究中，他们分析了 350 万字的法律合同，并与电影剧本、报纸文章和学术论文等不同类型的写作进行对比。分析发现，法律文件经常在句子中间插入长定义——这一特征被称为中心嵌入（center-embedding）。语言学家此前发现这种结构会让文本更难以理解。在 2023 年的后续研究中，他们发现法律术语让律师也难以理解文件。律师更喜欢通俗易懂的版本。他们也不喜欢充斥着晦涩术语的法律文件。内行不喜欢，外行也不喜欢，但为什么仍然采用这种写作方式？研究人员称，这是为了传达一种权威感。",
-          "link": "https://www.solidot.org/story?sid=80102",
-          "publishedOn": "2024-12-19T15:18:42.000Z",
-          "wordCount": 166,
-          "title": "研究揭示法律文件为何晦涩难懂",
-          "imageUrl": null
         }
       ]
     },
@@ -1035,16 +985,6 @@
           "publishedOn": "2024-12-20T21:07:06.000Z",
           "wordCount": 237,
           "title": "Coop is now a Browserling customer!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/integer-tools-now-have-neat-icons",
-          "author": null,
-          "description": "Last month, we added neat icons to Online Number Tools, and today we have also added neat icons to Online Integer Tools. The new icons make it easier to find and use your favorite tools.\n\nWhat Are Online Integer Tools?\nOnline Integer Tools are simple, free, and easy-to-use browser-based utilities that help you work with integers. They let you perform various tasks like generating random integers, sorting numbers, or adding thousands comma-separators, all without needing to download or install anything.\nWho Created Online Integer Tools?\nOnline Integer Tools were created by me and my team at Browserling. We love building easy-to-use tools that work right in your browser. Besides these integer tools, we also focus on cross-browser testing and help developers create neat websites that work on all browsers. Our mission is to create tools that help everyone get their everyday tasks done faster and easier.\nWho Uses Online Integer Tools?\nOnline Integer Tools and Browserling are used by millions of people every month, from students and hobbyists to engineers, developers, and even Fortune 100 companies. They're made for quick calculations like sorting numbers, finding factors, or generating random integers, all without installing extra software. Casual users rely on them for simple tasks and professionals use them for data analysis and solving technical problems.\nSee you next time!",
-          "link": "https://catonmat.net/integer-tools-now-have-neat-icons",
-          "publishedOn": "2024-12-19T15:15:00.000Z",
-          "wordCount": 301,
-          "title": "Integer Tools Now Have Neat Icons",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
