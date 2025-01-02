@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=50634",
+          "author": "青小蛙",
+          "description": "Arnis 是一个用 Rust 编写的开源项目，它可以将 OpenStreetMap 中的现实世界地图数据，转换为 Minecraft Java 版（我的世界）的地图，包括建筑物、墙壁、喷泉、农田等。",
+          "link": "https://www.appinn.com/arnis-maps-for-minecraft-java/",
+          "publishedOn": "2025-01-01T07:56:07.000Z",
+          "wordCount": 2606,
+          "title": "Arnis – 将现实世界地图转换为《我的世界》地图",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/appinn-homework-61.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=50628",
+          "author": "青小蛙",
+          "description": "LineageOS 22 是一个基于 Android 15 的自由开源操作系统，作为曾经的 CyanogenMod 继任者，提供无谷歌服务的纯净 Android 体验，支持的设备包括 Pixel、三星",
+          "link": "https://www.appinn.com/lineageos-22/",
+          "publishedOn": "2025-01-01T03:17:00.000Z",
+          "wordCount": 2674,
+          "title": "LineageOS 22 发布，基于 Android 15，简单流线型，充满活力的氛围",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/12/appinn-homework-59.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=50625",
           "author": "青小蛙",
           "description": "Mozilla 亲自发布了适用于 Firefox 的 AI 扩展 Orbit，是一个不需要注册、不利用用户数据的 AI 助手，可以帮你处理电子邮件、帮你研读文档、总结网页文章和网络视频，目前已经可以安",
@@ -90,26 +110,6 @@
           "wordCount": 2672,
           "title": "FlyingCarpet – 脱裤子放屁？不需要局域网、开源、跨平台文件传输工具",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/12/appinn-homework-52.webp"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50570",
-          "author": "青小蛙",
-          "description": "双旦快乐！在这节日里，Digiarty 推出了年度最有力度的折扣，包括他们大部分产品。以 Winxvideo AI 为例，给大家介绍一下 Digiarty 的圣诞活动。 Winxvideo AI 是一",
-          "link": "https://www.appinn.com/winxvideo-ai-2/",
-          "publishedOn": "2024-12-23T12:01:35.000Z",
-          "wordCount": 2682,
-          "title": "全年最低价| Winxvideo AI – 音频/图片/视频提升和转换工具",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/12/banner.webp"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50566",
-          "author": "青小蛙",
-          "description": "City Roads 是一个开源项目，只需要在里面搜索你所在的大城市、小城市，甚至县城，它就能帮你生成该地区的道路网络地图，并且可以下载为 PNG、SVG 图片，用来做壁纸、打印出来做相框，都非常漂亮",
-          "link": "https://www.appinn.com/city-roads/",
-          "publishedOn": "2024-12-23T08:25:36.000Z",
-          "wordCount": 2622,
-          "title": "City Roads  – 一键绘制，快速生成任意城市的道路网络地图",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/12/appinn-homework-51.webp"
         }
       ]
     },
@@ -171,16 +171,6 @@
           "wordCount": 1291,
           "title": "HTML select下拉框支持hr元素啦",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11498",
-          "author": "张 鑫旭",
-          "description": "有些前端开发可能还不知道，JavaScript是有能力获取操作系统的内存、CPU/GPU、电量、蓝牙、掉线等信息的。",
-          "link": "https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/",
-          "publishedOn": "2024-12-22T16:31:51.000Z",
-          "wordCount": 1313,
-          "title": "如何使用JS获取系统内存、CPU/GPU、电量等信息",
-          "imageUrl": null
         }
       ]
     },
@@ -189,6 +179,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80209",
+          "author": null,
+          "description": "去中心化社交网络个人服务器软件 diaspora* 项目开发者披露，其论坛、维基和项目网站七成的流量来自于 AI 公司的机器人程序。开发者称，过去 60 天 diaspora* 项目的 Web 资产共收到 1130 万次请求，相当于每秒 2.19 次请求，其中 24.6% 的请求来自 OpenAI 的 gptbot 机器人爬虫，17.1% 来自亚马逊；4.3% 来自 Anthropic，2.2% 来自 Meta。两大搜索引擎 Google 和 Bing 的网络爬虫分别只占 0.14%。开发者愤怒的指出，AI 公司的爬虫不关心 robots.txt，试图索引每个页面的细微变化，会不停的切换 IP 和绕过 User Agent 字符串封锁。开发者认为这是对整个互联网的 DDoS 攻击。",
+          "link": "https://www.solidot.org/story?sid=80209",
+          "publishedOn": "2025-01-01T13:58:54.000Z",
+          "wordCount": 205,
+          "title": "diaspora*项目七成流量来自 AI 机器人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80208",
+          "author": null,
+          "description": "智能手机代际之间的差距日益缩小，导致的一个结果是中端智能手机的市场不断萎缩，低端手机和高端手机占据了最大的份额。根据高盛的数据，全球智能手机市场正分裂为两大细分市场，中端市场的市场份额将从 2021 年的 35% 暴跌至 2027 年的 23%。中端机指的是售价 200-600 美元的智能手机，高端机售价 600 美元以上，其市场份额从 2021 年的 21% 增加到 2023 年的 28%，预计到 2027 年将达到 32%。低于 200 美元的低端机则维持 41-45% 的份额。",
+          "link": "https://www.solidot.org/story?sid=80208",
+          "publishedOn": "2025-01-01T03:42:08.000Z",
+          "wordCount": 182,
+          "title": "中端智能手机销量大幅下滑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80207",
+          "author": null,
+          "description": "《师父（SIFU ）》在 Epic Games Store 限免。《师父》是法国游戏工作室 Sloclap 开发和发行的清版动作冒险电子游戏，讲述了一个古老的复仇故事，不同之处是玩家扮演的武者可以依靠一个护身符复活，但每次复活都会令身体衰老。游戏的灵感来自白眉拳，包含了超过 150 种独特的攻击组合。当玩家在游戏中死亡时，他们会在死去的地方神奇地复活并衰老一年或数年，如果玩家在同一地点死亡多次，每次衰老的年龄跨度会逐渐增大。随着玩家角色年龄的增长，他们的攻击力会更强大，但他们的生命值上限会减少。",
+          "link": "https://www.solidot.org/story?sid=80207",
+          "publishedOn": "2025-01-01T03:11:37.000Z",
+          "wordCount": 189,
+          "title": "《师父（SIFU ）》在 Epic Games Store 限免",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80206",
+          "author": null,
+          "description": "一个国际天文学家团队利用韦伯太空望远镜发现了一个新的宏观螺旋星系“烛龙”，它可能是至今发现的最遥远的螺旋星系。论文预印本发表在 arXiv 上。宏观螺旋星系(Grand-design spiral galaxies)是螺旋星系的一种，有着突出和定义明确的螺旋臂。瑞士日内瓦大学 Mengyuan Xiao 领导的天文学家团队从韦伯全景巡天（JWST PANORAMIC）调查数据中发现了一个红移为 5.2 的宏观螺旋星系，以中国古代神话中红色太阳巨龙神的名字命名为烛龙。它的质量与银河系相当，其螺旋臂延伸长达 62,000 光年，中心核呈红色，处于静止状态。",
+          "link": "https://www.solidot.org/story?sid=80206",
+          "publishedOn": "2024-12-31T14:42:07.000Z",
+          "wordCount": 170,
+          "title": "天文学家利用韦伯望远镜发现烛龙螺旋星系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80205",
+          "author": null,
+          "description": "彭博社分析了 2-10 月美国 77 万家庭的电力读数（power readings），发现四分之三高度扭曲的电力读数发生在 AI 数据中心 50 英里范围内。AI 数据中心消耗大量的电力，会对电网构成压力。电网压力会导致电力质量不稳定，而电力质量下降会增加风险，导致电子设备过热，会产生火花甚至导致房屋起火。三大云巨头亚马逊、Google 和微软占据了包含数据中心的云基础设施市场约 65% 的份额。",
+          "link": "https://www.solidot.org/story?sid=80205",
+          "publishedOn": "2024-12-31T14:16:44.000Z",
+          "wordCount": 175,
+          "title": "AI 数据中心影响美国居民的电力质量",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80204",
+          "author": null,
+          "description": "中国计划于 2025 年在戈壁滩开始建造一座 10MWt 钍基熔盐反应堆。该反应堆由中科院上海应用物理研究所管理，计划于 2030 年投入运营。钍基熔盐反应堆建造地点是甘肃省武威市民勤县红砂岗，此前当地已经建造了一座 2MWt 钍基熔盐实验堆，2021 年完工和投入运行。相比传统的铀反应堆，钍的储存量更丰富，而中国的钍储藏量位居世界前列。钍基反应堆产生的核废料也更少，使用熔盐作为燃料和冷却剂也有助于减少对大量水的需求，可以在水资源缺乏的地区建造反应堆。",
+          "link": "https://www.solidot.org/story?sid=80204",
+          "publishedOn": "2024-12-31T13:36:07.000Z",
+          "wordCount": 174,
+          "title": "中国计划 2025 年在戈壁滩建造钍基熔盐反应堆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80203",
+          "author": null,
+          "description": "柏林工业大学于 2009 年使用印度火箭发射了一颗立方体卫星 Beesat-1，其轨道高度超过 700 公里，它主要用于演示为微型卫星开发的新技术。2011 年 Beesat-1 开始传输无效的遥测数据，操作人员随后切换到了冗余计算机。2013 年第二台计算机也发生了故障，柏林工业大学因此停止了卫星运作，只是每隔几年检查下卫星是否响应命令。由于其高轨道，Beesat-1 没有像 Beesat 系列立方体卫星一样重返大气层燃烧。学生黑客 PistonMiner 对这颗在太空中运行了 15 年的卫星产生了兴趣。他研究了卫星的错误信息、二进制文件和源代码，发现 Beesat-1 的问题不是因为太空辐射造成的硬件损坏，而是软件问题。今年 9 月他更新了卫星软件，恢复到了出厂状态，激活了卫星搭载的相机，复活了这颗死亡卫星。他在上周举行的混沌计算机俱乐部 38C3 会议上讲述了这一经历。",
+          "link": "https://www.solidot.org/story?sid=80203",
+          "publishedOn": "2024-12-31T12:59:12.000Z",
+          "wordCount": 188,
+          "title": "黑客从地面劫持和修复 Beesat-1 立方体卫星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80202",
+          "author": null,
+          "description": "根据中国海关每月公布的原油进口量数据，中国原油需求可能呈逐渐下降趋势。截至 10 月连续 6 个月同比下降，1～11 月累计同比下降 2%。2024年可能全年同比下降。原油需求短期来看取决于经济周期，中长期来看取决于节能的进展等经济结构的变化。国际能源署（IEA）预测，中国的原油需求在 2030 年前后触顶。如果原油需求在 2023～2024 年触顶，那么中国经济将以比 IEA 预测更快的速度摆脱对原油的依赖。从中国国内的石油产品需求来看，汽油和柴油等汽车用燃料占整体的近一半。纯电动汽车的普及对原油需求产生的影响很大。",
+          "link": "https://www.solidot.org/story?sid=80202",
+          "publishedOn": "2024-12-31T10:00:11.000Z",
+          "wordCount": 169,
+          "title": "中国原油需求可能提前达到峰值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80201",
+          "author": null,
+          "description": "特斯拉用持 H-1B 工作签证的外国工人取代了部分今年早些时候被裁的美国员工。其 CEO 马斯克（Elon Musk）正在呼吁增加 H-1B 签证的数量，引入更多外国工人。外国工人需要有公司担保才能获得 H-1B 签证，签证有效期为三年，可延长三年，之后需要重新申请。H-1B 签证持有者需要在担保的雇主工作才能保留工作签证。如果工作因任何原因被终止，外国工人将必须离开美国。这一规定被批评赋予了雇主太多的权力，可能导致现代版的契约奴役。特斯拉今年四月解雇了 1.5 万名美国工人，期间它申请了逾 2000 份 H-1B 签证。美国每年发放 6.5 万份 H-1B 签证，特斯拉试图获得其中的 3%。",
+          "link": "https://www.solidot.org/story?sid=80201",
+          "publishedOn": "2024-12-31T09:53:43.000Z",
+          "wordCount": 186,
+          "title": "特斯拉用持 H-1B 签证的外国工人取代被裁的美国员工",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80200",
           "author": null,
@@ -878,96 +958,6 @@
           "wordCount": 187,
           "title": "阿尔巴尼亚以煽动儿童暴力为由宣布封禁 TikTok 一年",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80130",
-          "author": null,
-          "description": "上周因创纪录的风力发电量英国电价一度跌至负值。上周二风力发电量达到创纪录的 22.4 GW，满足了英国 68% 以上的电力需求。周三凌晨5:30-6:30 a.m，半小时电价降至了每兆瓦时 6.57 英镑。英国的可再生能源已经连续四个季度满足了一半以上的电力需求。英国今年至今记录到了 131 个小时的负数电价，比去年增加了 45 个小时。风电在今年前九个月成为英国最主要的电力来源。",
-          "link": "https://www.solidot.org/story?sid=80130",
-          "publishedOn": "2024-12-23T14:43:19.000Z",
-          "wordCount": 170,
-          "title": "因创纪录的风电英国电价跌至负数",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80129",
-          "author": null,
-          "description": "此前研究发现，阿法南方古猿露西能够像现代人一样站立和直立行走以及爬树。最新研究发现她还能跑步，但速度慢得多。研究人员创建了露西骨架的 3D 数字模型。他们利用现代类人猿的肌肉特征和露西的骨骼表面积估算了古人类的肌肉质量。然后研究人员让模型“跑”起来，并将其与现代人类的数字模型进行比较。研究人员评估了一些特定肌肉是否在跑动过程中参与了能量消耗。当他们在露西模型中添加类似人类脚踝部分的肌肉时，发现其能量消耗与其他类似大小的动物相当。但当他们用猿类肌肉替代时，露西明显跑得更费力。这表明跟腱和周围肌肉的适应性变化使现代人能够长时间跑步。",
-          "link": "https://www.solidot.org/story?sid=80129",
-          "publishedOn": "2024-12-23T11:11:13.000Z",
-          "wordCount": 162,
-          "title": "南方古猿路西能跑步",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80128",
-          "author": null,
-          "description": "根据发表在《Neuron》期刊上的一项研究，科学家量化了人类思维速度，这一速度比预计的要低得多。相比计算机每秒能执行数万亿次运算，大脑的信息处理速度为 10bps(bps 代表每秒比特数)。而人类神经系统吸收信息的速度则能高达 Gbps。研究人员说，每时每刻我们都从感官接收的数万亿信息中提取出 10 比特信息，利用这 10 比特信息感知周围世界并做出决策，这就提出了一个悖论：大脑是如何过滤所有这些信息的？研究人员表示暂时还不清楚。研究人员称，蒙眼破解魔方需要处理的信息不到 12bps，专业水平玩星际争霸则是 10bps。",
-          "link": "https://www.solidot.org/story?sid=80128",
-          "publishedOn": "2024-12-23T11:00:35.000Z",
-          "wordCount": 172,
-          "title": "科学家量化人类思维速度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80127",
-          "author": null,
-          "description": "作为 BMJ 圣诞特刊的一部分，研究发现 AI 聊天机器人可能也有认知问题或痴呆症。研究人员使用蒙特利尔认知评估（MoCA）测试评估了 ChatGPT 4 和 4o（OpenAI 开发）、Claude 3.5“Sonnet”（Anthropic）和 Gemini 1 和 1.5（Google）。MoCA 测试被广泛用于检测认知障碍和痴呆症的早期症状，通常在老年人中。通过一些简短的任务和问题，它可以评估包括注意力、记忆力、语言、视觉空间技能和执行功能在内的能力。最高分数为 30 分，26 分或以上通常被认为是正常的。ChatGPT 4o 在 MoCA 测试中得分最高（26/30），其次是 ChatGPT 4 和 Claude（25/30），而 Gemini 1.0 最低（16/30）。所有聊天机器人在视觉空间技能和执行任务方面的表现都很差。在进一步的视觉空间测试中，聊天机器人无法表现出同理心，也无法准确解读复杂的视觉场景。",
-          "link": "https://www.solidot.org/story?sid=80127",
-          "publishedOn": "2024-12-23T09:55:39.000Z",
-          "wordCount": 197,
-          "title": "测试显示 AI 聊天机器人可能也有痴呆症",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80126",
-          "author": null,
-          "description": "日本公平交易委员会拟以违反《反垄断法》（不公平的交易方法）的嫌疑，向 Google 发出要求停止违法行为的“排除措施命令”。该委员会认为 Google 涉嫌违规要求智能手机厂家优先预装其搜索APP。委员会已向该公司发出了处分方案通知，将在倾听意见之后正式做出处分决定。这可能是首次向被称为“GAFA”的 Google 等大型IT企业发出上述命令。Google 涉嫌至少自 2020 年起对于使用自家基本操作系统“安卓”的手机厂家，在允许搭载APP商店“Google Play”的同时，要求在出厂状态的终端上预装“Google Chrome”等自家APP并指定在屏幕上的图标配置。Google 还涉嫌签署了以不搭载竞争对手的APP等为条件，分配一部分利润的合同。",
-          "link": "https://www.solidot.org/story?sid=80126",
-          "publishedOn": "2024-12-23T07:48:02.000Z",
-          "wordCount": 179,
-          "title": "日本计划以涉嫌垄断为由要求 Google 整改",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80125",
-          "author": null,
-          "description": "《战争雷霆》用户再次在论坛上泄漏了机密军事文件，这一次机密文件与台风战斗机雷达系统 CAPTOR 的扫描能力有关。《战争雷霆》是俄罗斯公司 Gaijin Entertainment 开发的多人对战战争游戏，以接近真实的方式模拟战争武器著称，而玩家经常会在论坛上争论武器的参数，部分玩家有军方背景，他们有时会将机密文件作为证据证明武器参数有误。最新的泄密材料被立即删除，用户也被临时封禁。管理员再次警告了泄漏机密文件的风险。此前战争雷霆玩家泄漏过挑战者 2 号、勒克莱尔和中国坦克炮弹的技术细节。",
-          "link": "https://www.solidot.org/story?sid=80125",
-          "publishedOn": "2024-12-23T07:08:25.000Z",
-          "wordCount": 166,
-          "title": "《战争雷霆》论坛泄漏台风战斗机雷达系统机密文件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80124",
-          "author": null,
-          "description": "12 月 20 日晚，一名袭击者驾驶一辆租赁的黑色宝马 SUV 在马格德堡圣诞市场内至少行驶了 400 米。此次袭击至少造成了 5 人死亡，包括一名幼童和四名妇女。此外还有 200 余人受伤，其中约 40 人伤情极为严重、90 人伤情较为严重。嫌犯 50 岁，为沙特阿拉伯裔，对伊斯兰教持批判立场，支持马斯克（Elon Musk）以及德国极右翼政党另类选择党（AfD）。在事件发生之后，马斯克的 X 一度停用了嫌犯的账号，在恢复之后 X 删除了所有支持马斯克和极右翼的推文，只保留最近一两个月的推文，并限制了搜索。",
-          "link": "https://www.solidot.org/story?sid=80124",
-          "publishedOn": "2024-12-23T06:43:15.000Z",
-          "wordCount": 186,
-          "title": "X 删除马堡袭击案嫌犯支持马斯克和极右翼的推文",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80123",
-          "author": null,
-          "description": "GitLab 通知中国区用户将停止提供 GitLab.com 账号服务，建议现有用户迁移到极狐。中国 IP 地址现在访问 GitLab.com 会跳转到 about.gitlab.com，推荐用户访问极狐。Gundaz Aghayev 写道：GitLab 在发送中国地区用户的电子邮件通知中称：\n\n关于您的 GitLab.com 账户的重要变更\n\n\n请注意，GitLab 不再为位于中国大陆、澳门和香港的个人和组织提供 GitLab.com 帐户服务。我们的系统显示您正在从这些位置之一访问 GitLab。我们建议您注册极狐 JiHu https://gitlab.cn/saasmigration/ 。JiHu 是一家独立公司，提供本地化的 GitLab 产品，并拥有向该地区的个人和组织提供 GitLab 的独家权利。您必须在 2025 年 2 月 18 日之前完成迁移，之后 GitLab 将从我们的系统中删除您的帐户（You must complete the transition by 18-02-2025, after which GitLab will delete your account from our systems.）。如果您认为收到此通知有误，请从受支持的服务位置登录 GitLab.com。如需更多信息或支持，请随时联系 saasmigration@gitlab.cn。\n\n\n此致，GitLab 团队",
-          "link": "https://www.solidot.org/story?sid=80123",
-          "publishedOn": "2024-12-23T06:21:26.000Z",
-          "wordCount": 226,
-          "title": "GitLab 停止为中国区用户提供 GitLab.com 账号服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80122",
-          "author": null,
-          "description": "根据美国疾控中心（CDC）的报告，2023 年美国人均预期寿命提高到了 78.4 岁，相比 2022 年的 77.5 岁，增加了 0.9 岁。一个可能的解释是新冠疫情结束了。从 2019 - 2021 年，美国人预期寿命从 78.8 岁下降到 76.4 岁。2023 年新冠死亡人数大幅下降：新冠是 2022 年第四大死因，2023 年降至第十位。2023 年有 76,000 多人死于新冠或与之相关，相比下 2020 年超过 350,000 人。美国人口的总死亡率下降了 6%。2023 年美国五大死因是心脏病、癌症、意外伤害、中风和慢性下呼吸道疾病。除此之外，美国的交通、药物过量死亡人数都下降了，谋杀率也下降了。",
-          "link": "https://www.solidot.org/story?sid=80122",
-          "publishedOn": "2024-12-22T15:01:34.000Z",
-          "wordCount": 205,
-          "title": "美国 2023 年预期寿命提高到 78.4 岁",
-          "imageUrl": null
         }
       ]
     },
@@ -1037,6 +1027,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/new-year-sale",
+          "author": null,
+          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated New Year Sale.\nNow each year on Jan 1 we show a 75% discount offer to all users who visit our site.\nBuy a subscription now and see you next time!",
+          "link": "https://catonmat.net/new-year-sale",
+          "publishedOn": "2025-01-01T15:21:00.000Z",
+          "wordCount": 127,
+          "title": "New Year Sale (75% OFF!) 🎇",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/end-of-year-sale",
           "author": null,
