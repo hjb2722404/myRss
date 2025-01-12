@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=50732",
+          "author": "青小蛙",
+          "description": "VLC 是著名的跨平台开源视频播放器，最近其全球下载量已经超过了 60 亿次。在正在举行的 CES 2025 上，VLC 展示了具有 AI 字幕和翻译功能的新版本，无需联网，在本地电脑上离线、实时生成",
+          "link": "https://www.appinn.com/vlc-ai-subtitling-for-videos/",
+          "publishedOn": "2025-01-11T08:11:02.000Z",
+          "wordCount": 2674,
+          "title": "VLC 将使用本地 AI 为视频生成实时字幕，并翻译为 100 多种语言",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/appinn-homework-76.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=50688",
           "author": "青小蛙",
           "description": "FineVoice Video To SFX 是一款非常有创意的工具，它是首款能将文字和视频转换成音效的 AI 工具。只需要简单的描述（比如浪花、海鸥），就能为一段海边的视频片段生成海浪的声音与海鸥的",
@@ -130,16 +140,6 @@
           "wordCount": 2649,
           "title": "CameraFileCopy – 开发者一定是个天才，不用网络，用空气传输文件[Android]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/appinn-homework-66.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50640",
-          "author": "青小蛙",
-          "description": "简单粗暴的总结一下，2024年我最常用的几款小众软件。这是问题提出后，脑海中第一时间想起的东西，外加随手翻了一下应用列表。@Appinn 当然肯定不止这些，想起来再推荐吧。 1. 猫抓：在线视频下载",
-          "link": "https://www.appinn.com/2024-my-eight-apps/",
-          "publishedOn": "2025-01-02T06:11:38.000Z",
-          "wordCount": 2667,
-          "title": "2024 年，我最常用的 8 款小众软件",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/appinn-homework-63.jpg"
         }
       ]
     },
@@ -209,6 +209,76 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80307",
+          "author": null,
+          "description": "布朗大学物理学家在一项新研究中观察到一种名为“分数激子”的新型量子粒子，既不属于玻色子，也不属于费米子，而是介于两者之间的粒子类型。这一发现或将极大拓展科学家对量子领域的认知。研究人员表示，这种新粒子不携带整数电荷，却遵循独特的量子统计规律。其最令人振奋之处在于解锁了一系列物质的新量子相，为科学研究开辟了新前沿，深化了基础物理的理解，并为量子计算带来了新可能。通常，基本粒子分为玻色子和费米子两类。玻色子能共享相同量子态，而费米子则遵循泡利不相容原理，即两个费米子不能占据同一量子状态。然而，实验中观察到的分数激子并不能完全归入这两类中的任何一类。它们虽具有预期的分数电荷，但行为却同时表现出玻色子和费米子的特征，类似两者的杂合体，介于两者之间的粒子类型——任意子，但又具有独特属性。",
+          "link": "https://www.solidot.org/story?sid=80307",
+          "publishedOn": "2025-01-11T15:13:18.000Z",
+          "wordCount": 161,
+          "title": "物理学家发现新粒子分数激子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80306",
+          "author": null,
+          "description": "YouTube 等平台的内容创作者正将其未使用视频出售给 AI 公司用于训练 AI 模型。OpenAI、Google 和 Moonvalley 等 AI 公司共同向数百名内容创作者支付费用访问未发布视频。由于视频没有在任何地方发布，因此被认为对训练 AI 系统有高价值。AI 公司根据视频质量和格式为每分钟视频片段支付 1-4 美元，4K 视频价格更高，使用无人机拍摄的视频或 3D 动画视频的价格也更高。大多数视频的价格在 1-2 美元之间。",
+          "link": "https://www.solidot.org/story?sid=80306",
+          "publishedOn": "2025-01-11T14:56:35.000Z",
+          "wordCount": 197,
+          "title": "YouTube 主播向 AI 公司出售未发布视频去训练 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80305",
+          "author": null,
+          "description": "美国加州劳伦斯利弗莫尔国家实验室的世界最强大超算 El Capitan 正式启用。El Capitan 由 HPE 旗下的 Cray 制造，使用了 AMD 第四代 EPYC 处理器，配备了 AMD Instinct MI300A 加速器，峰值性能 2,79 EFlop/s。El Capitan 主要用于维护核武库等机密任务，它使用了 87 个机架，重 130 万磅，功耗为 30 兆瓦。AMD CEO 苏姿丰和 HPE CEO Antonio Neri 出席了超算落成仪式，两位 CEO 声称构建 El Capitan 所获知识将有利于 AI 方面的工作。",
+          "link": "https://www.solidot.org/story?sid=80305",
+          "publishedOn": "2025-01-11T14:36:19.000Z",
+          "wordCount": 213,
+          "title": "世界最强超算 El Capitan 正式启用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80304",
+          "author": null,
+          "description": "根据 StackExchange Data Explorer 的数据，随著 AI 编程助手的流行，曾经程序员首选的编程问答社区 \nStackOverflow 活跃度下降，新问题数量大幅减少。数据显示，2017 年是 StackOverflow 新问题数量的最高点，2020 年前问题数量维持稳定，但在 2022 年 11 月 ChatGPT 出现之后问题数量急剧减少，减少幅度达到四分之三，2024 年 12 月的问题数同比减少六成。开发者 Theodore Smith 曾是 StackOverflow 排名前 1% 的贡献者，他认为 StackOverflow 的生命只剩下不到一年时间。他认为 StackOverflow 活跃度下降的原因除了 AI 助手外，还有网站对用户的不友好文化。",
+          "link": "https://www.solidot.org/story?sid=80304",
+          "publishedOn": "2025-01-11T13:53:41.000Z",
+          "wordCount": 199,
+          "title": "StackOverflow 新问题数量大幅减少",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80303",
+          "author": null,
+          "description": "在马斯克与右翼政党德国选项党（AfD）总理候选人魏德尔（Alice Weidel）在 X 上举行了一场备受争议的对话之后，超过 60 所德国大学与学术机构集体宣布退出 X，声明强调 X 的运营方针不再符合这些机构所坚持的开放性、科学诚信、透明性和民主对话等基本价值观。声明举例称，X 平台的算法被用来推动“右翼民粹内容”，这一点使其不再适合作为一个学术交流和公共沟通的平台。奥地利的两所大学也加入了这一行动，强调撤出 X 是为了支持基于事实的沟通，并对抗反民主势力。除了学术机构，德国的司法机构、工会以及企业界也纷纷宣布离开 X 平台。德国联邦法院和多个劳工工会周四表示将停止在 X 上的所有活动。德国政府则在是否退出该平台的问题上进行评估。",
+          "link": "https://www.solidot.org/story?sid=80303",
+          "publishedOn": "2025-01-11T12:48:08.000Z",
+          "wordCount": 180,
+          "title": "德国众多大学机构集体宣布退出 X",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80302",
+          "author": null,
+          "description": "Automattic 大幅缩减了对 WordPress.org 的支持，从每周 3988 小时减少到 45 小时，理由与竞争对手 WP Engine 法律诉讼产生的法律成本。美国加州地方法庭上个月做出裁决，Automattic 必须停止阻止 WP Engine 访问 WordPress.org 上的资源，以及停止干扰该公司的 WP 插件。Automattic 表示对 WordPress.org 的支持将主要围绕安全和关键更新。",
+          "link": "https://www.solidot.org/story?sid=80302",
+          "publishedOn": "2025-01-11T12:42:48.000Z",
+          "wordCount": 193,
+          "title": "Automattic 大幅缩减对 WordPress.org 的支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80301",
+          "author": null,
+          "description": "巴西联邦总律师(Solicitor General)Jorge Messias 周五宣布该国政府给 Meta 72 小时时间解释其事实核查政策的变化。Meta CEO 扎克伯格（Mark Zuckerberg）周二宣布停止事实核查政策，首先在美国网站实施。Meta 还取消了对移民和性别认同等主题的讨论限制。Messias 称巴西政府对 Meta 此举表达了严重的担忧，巴西认为 Meta 的政策就像机场的风袋，一直在根据风向改变位置。但巴西社会不会受到此类政策的摆布。巴西尚未透露截止日期之后会采取什么应对之策。",
+          "link": "https://www.solidot.org/story?sid=80301",
+          "publishedOn": "2025-01-11T10:28:25.000Z",
+          "wordCount": 187,
+          "title": "巴西给 Meta 72 小时时间解释其事实核查政策的变化",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80300",
           "author": null,
@@ -1008,106 +1078,6 @@
           "wordCount": 157,
           "title": "无聊的城市建筑不利于你的健康",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80220",
-          "author": null,
-          "description": "浙江农林大学的研究人员在《TrAC Trends in Analytical Chemistry》期刊上发表论文，发现人体组织中的微塑料和纳米塑料浓度与特定疾病有相关性。此前的研究在皮肤、动脉、静脉、血栓、骨髓、睾丸、精液、子宫和胎盘等人体不同器官组织中都发现了微塑料和纳米塑料。颗粒丰度与特定疾病如炎症性肠病、血栓形成、宫颈癌和子宫肌瘤之间存在正相关性。毒理学测试显示，微塑料和纳米塑料能引发氧化应激、线粒体功能障碍、炎症反应和不同类型的细胞凋亡，以及穿越血脑屏障引发神经退行性疾病等问题。研究人员发现，微塑料和纳米塑料浓度在病变组织中通常高于无病变组织，表明其积累与局部病理潜在相关。目前尚无法得出因果联系，但值得进一步研究。",
-          "link": "https://www.solidot.org/story?sid=80220",
-          "publishedOn": "2025-01-02T14:49:41.000Z",
-          "wordCount": 162,
-          "title": "人体组织中的微塑料与特定疾病相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80219",
-          "author": null,
-          "description": "小米修改了其智能手机引导程序解锁政策，从允许用户每年解锁最多三台设备减少为每年最多一台。这一政策适用于在中国和全球销售的智能手机品牌，包括小米、红米和 POCO。此举将对想要更好的控制其设备的用户和开发者造成影响。通过解锁引导程序，用户可以刷第三方或定制 ROM，root 设备，或测试软件。小米设备以前的解锁政策相对宽松，因此在定制开发圈非常受欢迎。",
-          "link": "https://www.solidot.org/story?sid=80219",
-          "publishedOn": "2025-01-02T13:49:19.000Z",
-          "wordCount": 160,
-          "title": "小米修改了引导程序解锁政策",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80218",
-          "author": null,
-          "description": "两年前，美国路易斯安那州通过了 Act 440，该法案由共和党众议员 Laurie Schegel 提出，以保护儿童的名义，要求成人网站引入年龄验证系统验证访客年龄，违反者将要被追究责任。Act 440 引发了美国众多南方州的效仿，改变了当地居民访问成人内容的方式。如今几乎所有美国南方州都引入了内容都差不多的法律，结果是多达 17 个州都无法访问成人网站如 Pornhub，当地的成年人被限制访问互联网。",
-          "link": "https://www.solidot.org/story?sid=80218",
-          "publishedOn": "2025-01-02T13:30:43.000Z",
-          "wordCount": 173,
-          "title": "美国南方几乎都屏蔽了 Pornhub",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80217",
-          "author": null,
-          "description": "微软从 12 月初开始扩大其新版本操作系统 Windows 11 24H2 的推送范围。软件巨人通过其官方文档已经披露了众多与新版本不兼容的 bug，其中之一是育碧刺客信条系列的《起源》、《奥德赛》和《英灵殿》。在 Windows 11 24H2 中，这些游戏可能会停止响应或黑屏。已安装上述游戏的玩家被限制更新，但如果已经更新的玩家安装《起源》或《奥德赛》呢？他们遇到问题后会归罪于谁？根据 Steam 上的评论，他们归罪于育碧，对游戏进行了\n差评轰炸。数据显示，在 12 月中旬之后出现了大量差评，很多人抱怨频繁卡死，要求育碧修 bug。",
-          "link": "https://www.solidot.org/story?sid=80217",
-          "publishedOn": "2025-01-02T10:01:32.000Z",
-          "wordCount": 204,
-          "title": "因 Windows 11 24H2 Bug 刺客信条起源在 Steam 平台遭遇差评轰炸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80216",
-          "author": null,
-          "description": "根据 Valve 公布的 2024 年 12 月 Steam 硬件和软件调查，Linux 份额比上个月增加 0.29% 达到 2.29%，Windows 减少 0.51% 至 96.1%，其中 Windows 11 增加了 6.16% 达到 54.96%，Windows 10 减少了 5.07% 占 42.39%，苹果 macOS 上涨了 0.22% 至 1.61%。简体中文用户数继续下跌减少 3.53% 至 29.95%，英语用户增加了 9.46% 达到 42.14%，俄语用户增加 1.62% 至 10.18%。在整个 Steam 平台，英特尔处理器占 63.43% 比上个月减少 2.74%；AMD 处理器增加 4.96% 至 38.73%。因掌机 Steam Deck 的流行，在 Linux 用户中 AMD CPU 的比例高达 73.6%。",
-          "link": "https://www.solidot.org/story?sid=80216",
-          "publishedOn": "2025-01-02T09:41:24.000Z",
-          "wordCount": 236,
-          "title": "四分之三的 Steam Linux 用户使用 AMD CPU",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80215",
-          "author": null,
-          "description": "为吸引更多企业客户，阿里巴巴对其大模型通义千问（Tongyi Qianwen 或简写 Qwen）降价最高 85%。为了紧跟这一波 AI 热潮，中国主要科技互联网公司如阿里巴巴、腾讯、百度、京东、华为和字节跳动过去一年半都推出了自己的大模型。与其它公司不同之处是，阿里巴巴的大模型主要面向企业级客户，而不是像 OpenAI ChatGPT 那样推出面向普通用户的 AI 聊天服务。阿里巴巴去年披露其 Qwen 大模型已被逾 9 万企业客户部署。",
-          "link": "https://www.solidot.org/story?sid=80215",
-          "publishedOn": "2025-01-02T09:17:41.000Z",
-          "wordCount": 176,
-          "title": "阿里巴巴因竞争激烈对其大模型降价 85%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80214",
-          "author": null,
-          "description": "可能出乎很多人的意料，正面临被 Wayland 取代的 X.Org Server 项目，其开发活跃度达到了 10 年来的最高水平。X.Org Server 在 2024 年共收到 708 次 commits，过去十年这一数字仅次于 2014 年的 952 次。2024 年 X.Org Server 增加了 11,998 行新代码，删除了 14,680 行代码，远高于过去几年 5~6k 行的代码变更。X.Org Server 的开发主要围绕着 XWayland 项目，以及开发者 Enrico Weigelt 以一己之力对项目的维护工作，他一个人的 commits 就占到了总数的 63%。",
-          "link": "https://www.solidot.org/story?sid=80214",
-          "publishedOn": "2025-01-02T07:56:50.000Z",
-          "wordCount": 222,
-          "title": "2024 年 X.Org Server 的开发活跃度达到 10 年来的峰值",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80213",
-          "author": null,
-          "description": "根据发表在 PNAS 期刊上的一项研究，如果人类不会说话他们的集体认知可能不如蚂蚁。集体认知被认为是群居的一大优势，但哪些因素促进了群体智慧？研究人员对比了蚂蚁或人类个体和群体处理一个相同几何谜题的方式，发现蚂蚁集体协作时其表现显著提升，但如果人类之间的交流方式受到限制，他们集体协作时的表现甚至会下降。研究人员认为，在缺乏讨论和辩论能力的情况下，个人会试图迅速达成共识，而不是对问题进行全面评估。他们认为，这种“群体思维”会导致人们做出徒劳的“贪婪”努力。",
-          "link": "https://www.solidot.org/story?sid=80213",
-          "publishedOn": "2025-01-02T07:07:26.000Z",
-          "wordCount": 160,
-          "title": "如果人类不会说话他们的集体认知可能不如蚂蚁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80212",
-          "author": null,
-          "description": "比亚迪 1 月 1 日发布的数据显示，2024 年全球新车销量比 2023 年增长 41%，达到 427 万 2145 辆。2025 年销量有望突破 500 万辆大关。比亚迪仅销售纯电和插电混动汽车，乘用车占销量的 9 成，其中纯电 176 万 4992 辆，插电混动 248 万 5378 辆。比亚迪乘用车的海外销量达到 41 万 7204 辆。",
-          "link": "https://www.solidot.org/story?sid=80212",
-          "publishedOn": "2025-01-02T06:39:32.000Z",
-          "wordCount": 198,
-          "title": "2024 年比亚迪全球销量 427 万辆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80211",
-          "author": null,
-          "description": "1929 年出版的数千部版权作品于 2025 年 1 月 1 日进入公有领域。因迪士尼等公司的游说，美国的版权保护期长达 95 年。进入公有领域的知名动漫角色包括了《顶针剧院》(Thimble Theatre)中的大力水手、《丁丁历险记》中的丁丁，以及多部米老鼠动画其中包括戴着白手套首次开口说话的米老鼠。知名文学作品包括海明威（Ernest Hemingway）的《永别了，武器》、伍尔夫（Virginia Woolf）的《一间自己的屋子》、福克纳（William Faulkner）的《喧哗与骚动》、哈米特（Dashiell Hammett）的《马耳他之鹰》和《红色收获》、史坦贝克（John Steinbeck）的第一部小说《Cup of Gold》、休斯（Richard Hughes）的《牙买加飓风》等。知名电影包括希区柯克（Alfred Hitchcock）的第一部有声电影《勒索》，第一部获得奥斯卡最佳影片的有声片《百老汇歌舞》（The Broadway Melody）等。",
-          "link": "https://www.solidot.org/story?sid=80211",
-          "publishedOn": "2025-01-02T05:49:52.000Z",
-          "wordCount": 178,
-          "title": "大力水手、丁丁以及更多米老鼠动画进入公有领域",
-          "imageUrl": null
         }
       ]
     },
@@ -1177,6 +1147,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/gov-nz-browserling-customer",
+          "author": null,
+          "description": "Success! The Government of New Zealand is now a Browserling customer!\nIt's another small step for a ling but one giant leap for ling kind.\nWhat Is Browserling?\nBrowserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.\nWho Uses Browserling?\nBrowserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.\nSee you next time!",
+          "link": "https://catonmat.net/gov-nz-browserling-customer",
+          "publishedOn": "2025-01-11T11:11:11.000Z",
+          "wordCount": 245,
+          "title": "Government of New Zealand is now a Browserling customer!",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/gov-hungary-browserling-customer",
           "author": null,
@@ -1255,16 +1235,6 @@
           "publishedOn": "2025-01-03T13:02:00.000Z",
           "wordCount": 129,
           "title": "New Year Week Sale 💫",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/new-year-sale",
-          "author": null,
-          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated New Year Sale.\nNow each year on Jan 1 we show a 75% discount offer to all users who visit our site.\nBuy a subscription now and see you next time!",
-          "link": "https://catonmat.net/new-year-sale",
-          "publishedOn": "2025-01-01T15:21:00.000Z",
-          "wordCount": 127,
-          "title": "New Year Sale (75% OFF!) 🎇",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
