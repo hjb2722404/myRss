@@ -2,10 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-01-23T02:41:37.327Z</updated>
+    <updated>2025-01-24T02:42:08.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Post Holdings is now a Browserling customer!]]></title>
+        <id>https://catonmat.net/post-holdings-browserling-customer</id>
+        <link href="https://catonmat.net/post-holdings-browserling-customer"/>
+        <updated>2025-01-23T23:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Success! Post Holdings, a leader in the food industry, is now a Browserling customer!
+It's another small step for a ling but one giant leap for ling kind.
+What Is Browserling?
+Browserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.
+Who Uses Browserling?
+Browserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.
+See you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Things You Might Not Know About Custom Counter Styles]]></title>
+        <id>https://css-tricks.com/?p=383776</id>
+        <link href="https://css-tricks.com/some-things-you-might-not-know-about-custom-counter-styles/"/>
+        <updated>2025-01-23T17:21:15.000Z</updated>
+        <summary type="html"><![CDATA[I was reading through Juan’s recent Almanac entry for the @counter-style at-rule and I’ll be darned if he didn’t uncover and unpack some extremely interesting things that we can do to style lists, notably the list marker. You’re probably already …
+Some Things You Might Not Know About Custom Counter Styles originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TabBoo：利用厌恶性条件反射（惊吓图片和音效）来预防上瘾[Chrome]]]></title>
+        <id>https://www.appinn.com/?p=50839</id>
+        <link href="https://www.appinn.com/tabboo/"/>
+        <updated>2025-01-23T10:39:19.000Z</updated>
+        <summary type="html"><![CDATA[TabBoo 是一个 Chrome 扩展，它会在你浏览指定网页时，随机出现惊吓图片和音效，让你产生厌恶性条件反射，从而开始反感这些网页，预防上瘾。@Appinn 有点离谱的扩展。但，似乎又说的有点道理]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万事达卡 DNS 错误存在了五年之久]]></title>
+        <id>https://www.solidot.org/story?sid=80405</id>
+        <link href="https://www.solidot.org/story?sid=80405"/>
+        <updated>2025-01-23T10:17:01.000Z</updated>
+        <summary type="html"><![CDATA[安全研究人员发现信用卡巨头万事达卡的 DNS 服务器存在域名配置错误，可能会导致其流量被恶意攻击者拦截。该问题存在了五年之久。安全公司 Seralys 的创始人 Philippe Caturegli 发现，从 2020 年 6 月到 2025 年 1 月，万事达卡五个 DNS 服务器之一的域名存在拼写错误，错误地指向了 akam.ne 而不是 akam.net。他花了 300 美元通过尼日尔域名管理机构注册了该域名，以防止域名被利用。万事达卡表示拼写错误已修正，坚称其系统没有风险。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 10.0 发布，在 macOS、Linux、Android 上运行 Windows 程序、游戏]]></title>
+        <id>https://www.appinn.com/?p=50836</id>
+        <link href="https://www.appinn.com/wine-10-0/"/>
+        <updated>2025-01-23T09:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Wine （Wine Is Not an Emulator）是一个能够在多种操作系统上运行 Windows 应用的工具。昨日正式发布稳定版 Wine 10.0，包括这一年来 6,000 多项改进，以及]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 13.0 Trixie 预计今年夏天发布]]></title>
+        <id>https://www.solidot.org/story?sid=80404</id>
+        <link href="https://www.solidot.org/story?sid=80404"/>
+        <updated>2025-01-23T09:12:19.000Z</updated>
+        <summary type="html"><![CDATA[Debian 发行版项目在邮件列表上宣布了 v13.0 "Trixie" 的冻结日期，预计正式版本将在今年夏天发布。Debian 13.0 的过渡和工具链冻结日期为 3 月 15 日，软冻结 4 月 15 日，硬冻结 5 月 15，最终冻结日期尚未公布。Debian 上一个版本 v12 的过渡和工具链冻结日期为 2023 年 1 月 12 日，正式版的发布是在当年 6 月 10 日。相隔大约 5 个月，按照这一时间估计，Debian 13.0 的正式版本将会在 8 月释出。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram 屏蔽 RuTracker 频道]]></title>
+        <id>https://www.solidot.org/story?sid=80402</id>
+        <link href="https://www.solidot.org/story?sid=80402"/>
+        <updated>2025-01-23T07:09:06.000Z</updated>
+        <summary type="html"><![CDATA[在 Z-Library 和 Anna's Archive 之后，Telegram 又以侵犯版权为由屏蔽了 RuTracker 频道。RuTracker 是一家有 20 年历史的俄罗斯 BT 种子文件索引服务器。自去年 CEO Pavel Durov 在法国意外被捕之后，Telegram 改变了对内容投诉的态度。RuTracker 的 Telegram 频道有逾 2.7 万订户，用户如果访问该频道会显示“由于侵犯版权该频道不可用”的信息。RuTracker 的 Telegram 频道并不活跃。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub-Freshness – 高亮显示 GitHub 中 1 个月内更新的文件]]></title>
+        <id>https://www.appinn.com/?p=50830</id>
+        <link href="https://www.appinn.com/github-freshness/"/>
+        <updated>2025-01-23T06:22:29.000Z</updated>
+        <summary type="html"><![CDATA[GitHub-Freshness 是一款油猴脚本，用来高亮显示 GitHub 代码库中 1 个月内更新过的文件。支持自定义颜色，和文件更新时间。@Appinn 来自发现频道，开发者 @rational]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在出售给美国买家前苹果应用商店不会重新上架 TikTok]]></title>
+        <id>https://www.solidot.org/story?sid=80400</id>
+        <link href="https://www.solidot.org/story?sid=80400"/>
+        <updated>2025-01-23T05:13:42.000Z</updated>
+        <summary type="html"><![CDATA[苹果通过其支持页面发表声明，表示其应用商店 App Store 暂时不会重新上架 TikTok。苹果称它有义务遵守运营所在司法管辖区的法律。根据《保护美国人免受外国对手控制应用程序侵害法案》，自 2025 年 1 月 19 日起，美国用户无法再在 App Store 上下载或更新由 ByteDance Ltd. 及其子公司开发的 App，包括 TikTok、TikTok Studio、TikTok Shop Seller Center、CapCut、Lemon8、Hypic、Lark - Team Collaboration、Lark - Rooms Display、Lark Rooms Controller、Gauth: AI Study Companion 和 MARVEL SNAP。Google Play 商店目前也没有上架 TikTok。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NY Public Library is now a Browserling customer!]]></title>
         <id>https://catonmat.net/ny-public-library-browserling-customer</id>
@@ -1011,154 +1108,6 @@ A Few Ways That Cloudways Makes Running This Site a Little Easier originally pub
 Pixelfed 也是运行在联邦宇宙协议 Activity Pub 上。Pixelfed 最近几天的注册量显著增加，当 Meta 用户在其平台上分享最大 Pixelfed 服务器 Pixelfed.social 的链接时，Meta 会将其标记为 Spam 然后立即删除。Pixelfed 创始人 Daniel Supernaul 表示，Pixelfed 服务于普罗大众。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB 简化标签只留下速度]]></title>
-        <id>https://www.solidot.org/story?sid=80329</id>
-        <link href="https://www.solidot.org/story?sid=80329"/>
-        <updated>2025-01-14T14:24:31.000Z</updated>
-        <summary type="html"><![CDATA[USB 技术规格的命名备受诟病，举例来说 USB Type-C 支持的 USB 规格包括了 USB4 2.0、USB4 1.0、USB 3.2 Gen 2x2、USB 3.2 Gen 2、USB 3.2 Gen 1 或 USB 2.0 等等，这些名字令消费者倍感困惑。现在 USB 执行组织（USB Implementers Forum，USB-IF)简化了 USB 扩展坞和 USB 线的标签系统，移除了 USB4v2 等名字，只留下传输率速度如 USB 80Gbps 或 USB 40Gbps。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOAA is now a Browserling customer!]]></title>
-        <id>https://catonmat.net/noaa-browserling-customer</id>
-        <link href="https://catonmat.net/noaa-browserling-customer"/>
-        <updated>2025-01-14T14:14:14.000Z</updated>
-        <summary type="html"><![CDATA[Success! NOAA (National Oceanic and Atmospheric Administration) is now a Browserling customer!
-It's another small step for a ling but one giant leap for ling kind.
-What Is Browserling?
-Browserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.
-Who Uses Browserling?
-Browserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.
-See you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软工程师向 Linux 6.13 贡献的代码在发布前夕被禁用]]></title>
-        <id>https://www.solidot.org/story?sid=80328</id>
-        <link href="https://www.solidot.org/story?sid=80328"/>
-        <updated>2025-01-14T13:35:46.000Z</updated>
-        <summary type="html"><![CDATA[去年 11 月 Linux 6.13 合并窗口期间，微软工程师贡献的一组补丁允许 Linux x86_64 将只读执行（ROX)大页用于分配可执行内核。然而距离 Linux 6.13 发布还剩下一周时间（预计本周日也就是 1 月 19 日释出），这组代码被发现会破坏部分启用 Control Flow Integrity (CFI)的设置，以及导致部分英特尔笔记本电脑在休眠后无法恢复。英特尔工程师 Peter Zijlstra 准备递交一个补丁暂时禁用 EXECMEM_ROX 支持。而 EXECMEM_ROX 支持补丁被发现在合并到内核主线前没有获得 Linux x86/x86_64 维护者的签名。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国的 LGPL 诉讼获得成功]]></title>
-        <id>https://www.solidot.org/story?sid=80327</id>
-        <link href="https://www.solidot.org/story?sid=80327"/>
-        <updated>2025-01-14T12:54:15.000Z</updated>
-        <summary type="html"><![CDATA[Sebastian Steck 于 2021 年 5 月从德国最大的家庭路由器制造商 AVM 购买了一台路由器，他发现 AVM 提供的源代码无法编译和安装在路由器上。AVM 拒绝提供正确的源代码。在 Software Freedom Conservancy (SFC)的资助下，Steck 于 2023 年 7 月根据 LGPLv2.1 许可证条款在柏林法院起诉了 AVM。数个月后，AVM 向 Steck 提供了他所要求的所有剩余源代码和安装脚本。AVM 还需要支付 Steck 的律师费。上诉截止日期已过，AVM 没有就法庭的裁决提起上诉。本案证明，尽管 LGPLv2.1 是比 GPL 更宽松的许可证，它仍然保证用户有权在其设备上修复、修改和重新安装修改后的软件版本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国进一步限制 AI 芯片出口]]></title>
-        <id>https://www.solidot.org/story?sid=80326</id>
-        <link href="https://www.solidot.org/story?sid=80326"/>
-        <updated>2025-01-14T10:14:53.000Z</updated>
-        <summary type="html"><![CDATA[美国周一公布了新的管制措施，进一步限制了 AI 芯片出口。新管制措施将各个国家划分为 3 个梯队。第一梯队（Tier-1）为美国的同盟国日本、韩国、英法德等 18 个国家和地区。这些地区在先进半导体及 AI 基础模型的技术转让方面不受限制。设立新规则的是面向东南亚各国及中东各国等第二梯队（Tier-2）国家的先进半导体出口，共有大约 120 个国家。面向第二梯队国家的大多数出口都需要获得美国政府的批准。需要很长时间才能获批，有时还不批准。根据新的管制方案，这些国家有芯片出口数量限制，超过限制数量后需要申请。第三梯队（Tier-3）则包括中俄等 22 个国家，除了此前的出口限制，还禁止了 AI 技术转让。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC 出货量三年来首次增长]]></title>
-        <id>https://www.solidot.org/story?sid=80325</id>
-        <link href="https://www.solidot.org/story?sid=80325"/>
-        <updated>2025-01-14T09:42:01.000Z</updated>
-        <summary type="html"><![CDATA[IDC 发布的数据显示，2024 年全球 PC 出货量 2 亿 6270 万台，同比增长 1%。尽管增幅微小，但这是 3 年来首次实现正增长。PC 市场在新冠疫情期间因“居家需求”而一度扩大，但随后陷入低迷。2023 年的出货量比 2022 年下滑 14%。2024 年也仅略微恢复。按厂商来看，排在出货量首位的联想同比增长 5%，出货量为 6180 万台，排在第 2 的惠普微增至 5300 万台。第 3 位戴尔出货量同比下降 2%。第 4 位美国苹果同比增长 5%，达到 2290 万。AI PC 的前景面临宏观经济的负面影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国考虑将 TikTok 美国出售给马斯克]]></title>
-        <id>https://www.solidot.org/story?sid=80324</id>
-        <link href="https://www.solidot.org/story?sid=80324"/>
-        <updated>2025-01-14T07:50:45.000Z</updated>
-        <summary type="html"><![CDATA[彭博社报道，中国正考虑将 TikTok 美国业务出售给马斯克（Elon Musk）。报道称，根据该计划马斯克将同时管理 X 和 TikTok 美国业务。中国政府官员尚未决定是否推进该计划，该方案尚处于初步阶段。目前不清楚字节跳动是否知道该计划，以及 TikTok 和马斯克是否参与了讨论。TikTok 发言人回应称该报道纯属虚构，拒绝置评。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 TikTok 在美国面临被禁之际小红书登顶苹果 App Store]]></title>
-        <id>https://www.solidot.org/story?sid=80323</id>
-        <link href="https://www.solidot.org/story?sid=80323"/>
-        <updated>2025-01-14T07:12:33.000Z</updated>
-        <summary type="html"><![CDATA[在 TikTok 于 1 月 19 日美国在面临被从应用商店下架之际，另一个中国应用小红书登顶苹果 App Store 免费应用排行榜。大量 TikTok 美国用户以 TikTok 难民的名义投奔小红书。暂时不清楚为什么美国 TikTok 用户会青睐另一款中国应用而不是美国本土应用如 Facebook、Instagram 和 Threads。小红书于 2013 年上线，被普遍认为是中国版的 Instagram，它目前有 3 亿月活用户，其中 79% 是女性。它的投资者包括了腾讯、阿里巴巴、红杉资本等，去年的估值为 170 亿美元。它有可能在未来进行 IPO。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么日本儿童独自乘地铁？]]></title>
-        <id>https://www.solidot.org/story?sid=80322</id>
-        <link href="https://www.solidot.org/story?sid=80322"/>
-        <updated>2025-01-14T06:44:55.000Z</updated>
-        <summary type="html"><![CDATA[为什么棒球明星大谷翔平会在赛后收拾垃圾？为什么日本人有礼貌的排队等绿灯过马路？为什么日本如此有次序？答案被认为在日本的小学教育中。东京南池袋小学校长 Satou Hiroshi 说，我们的工作是为孩子做好进入社会的准备，教育他们合作、主动和平等对待每个人。他称之为“hito-zukuri”，即培养人的艺术。结果给人留下了深刻印象。日本儿童不仅在学业上表现出色，而且在很小的年纪就展现出非凡的独立性。六岁儿童可以独自步行或乘坐地铁去学校。当然一个重要背景是日本非常安全。这与西方表现出的歇斯底里的安全主义形成鲜明对比。去年 10 月美国佐治亚州的一位母亲 Brittany Patterson 被捕，原因是有人看到她的 10 岁大的孩子在离家不到一英里的地方独自一人平静的走向小镇。日本教育的口号是德智体的结合，教师赞扬的是学生的努力，而不是学习成绩。杜克大学的 Jennifer Lansford 指出，研究表明这是一个非常棒的观念，让孩子有更强的适应能力。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么孩子需要更多冒险游戏]]></title>
-        <id>https://www.solidot.org/story?sid=80321</id>
-        <link href="https://www.solidot.org/story?sid=80321"/>
-        <updated>2025-01-14T06:12:42.000Z</updated>
-        <summary type="html"><![CDATA[冒险游戏是指惊险刺激的游戏，涉及不确定性和风险——身体受伤或迷路（无论是真实的还是感知的）。需要指出的是，风险不等同于危险。危险是孩子无法察觉或应对的事情。风险会随着年龄的增长而变化，并且不总是包括对成年人来说冒险的事。对一个没有走过路的一岁孩童来说，迈出一步已经足够冒险了。冒险游戏的支持者表示，推广冒险游戏不是为了将谨慎的孩子变成寻求刺激的孩子，而只是让他们以自己选择的速度承担风险。
-心理学家 Ellen Sandseter 等人的研究表明，冒险游戏与更大的韧性、自信、解决问题的能力以及合作、谈判和同理心等社交技能有关。一项在比利时鲁汶进行的研究中，研究人员在三个月内每周让四岁和六岁的儿童进行两个小时的冒险游戏，与对照组儿童相比，进行冒险游戏的儿童的风险评估能力得到了提高 。户外冒险游戏可能有额外的好处，与低水平的压力和焦虑有关。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麦悠电台 – RSS 太多看不过来？自动创建为对话式播客节目，可直接发布[iOS/Android]]]></title>
-        <id>https://www.appinn.com/?p=50742</id>
-        <link href="https://www.appinn.com/maidio-byok/"/>
-        <updated>2025-01-14T02:12:00.000Z</updated>
-        <summary type="html"><![CDATA[麦悠电台是一款将多个 RSS 的文字内容，通过 AI 自动创建为对话式播客节目的工具，用来在通勤或者做家务时收听，并且可以为播客中的主持人自定义角色（古代的侠女、猫耳娘什么的随意）来满足个人喜好。还可]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastodon 将控制权转交给一家非盈利组织]]></title>
-        <id>https://www.solidot.org/story?sid=80320</id>
-        <link href="https://www.solidot.org/story?sid=80320"/>
-        <updated>2025-01-13T16:32:06.000Z</updated>
-        <summary type="html"><![CDATA[去中心化社交网络 Mastodon 宣布将其所有权和控制权转让给一个新非盈利实体。Mastodon 不再受 CEO Eugen Rochko 的控制，这与扎克伯格(Mark Zuckerberg)和马斯克(Elon Musk)等社媒 CEO 施展其权力形成鲜明对比。在短期内，用户不会有任何改变，Mastodon 将继续托管 mastodon.social 和 mastodon.online 两大实例，支持联邦网络。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软在六地测试 Microsoft 365 涨价]]></title>
-        <id>https://www.solidot.org/story?sid=80319</id>
-        <link href="https://www.solidot.org/story?sid=80319"/>
-        <updated>2025-01-13T16:00:04.000Z</updated>
-        <summary type="html"><![CDATA[根据微软发送给客户的电邮，澳大利亚、新西兰、马来西亚、新加坡、台湾和泰国的 Microsoft 365 家庭订阅服务涨价，最多上涨 45%。在澳大利亚，Microsoft 365 的个人订阅从 109.00 澳元上涨至 159 澳元，涨幅近 46%；家庭订阅从 139.00 澳元上涨至 179 澳元，涨幅不到 29%。涨价的一个理由当然是 Microsoft 365 引入的 AI 助手 Microsoft Copilot 以及 AI 辅助设计工具 Microsoft Designer。软件巨人没有透露是否会在其它地区提高订阅价格，它首先测试这六地的消费者对涨价的反应。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Wait for the sibling-count() and sibling-index() Functions]]></title>
-        <id>https://css-tricks.com/?p=383435</id>
-        <link href="https://css-tricks.com/how-to-wait-for-the-sibling-count-and-sibling-index-functions/"/>
-        <updated>2025-01-13T15:08:01.000Z</updated>
-        <summary type="html"><![CDATA[Today, I want to look into one of those cases of impatient and how the community has waited for that feature, to be specific, two upcoming functions: sibling-count() and sibling-index().
-How to Wait for the sibling-count() and sibling-index() Functions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
         </author>
     </entry>
     <entry>
