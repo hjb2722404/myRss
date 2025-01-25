@@ -2,10 +2,167 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-01-24T02:42:08.332Z</updated>
+    <updated>2025-01-25T02:37:09.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[秘密后门使用“魔法封包”感染企业 VPN]]></title>
+        <id>https://www.solidot.org/story?sid=80419</id>
+        <link href="https://www.solidot.org/story?sid=80419"/>
+        <updated>2025-01-24T16:49:14.000Z</updated>
+        <summary type="html"><![CDATA[当攻击者利用后门在目标网络获得访问权限之后，他们希望其努力成果不会被竞争对手利用或被安全软件监测出。他们可使用的一种应对之策是为后门配备一个被动代理，该代理将保持休眠状态，直到接收到“魔法封包”。安全公司 Lumin Technology 的研究人员报告了 J-Magic 后门使用“魔法封包”悄悄控制了数十个运行 Juniper Network Junos OS 的企业 VPN。J-Magic 是轻量级后门程序，只运行在内存之中，这增加了其被安全软件检测出的难度。研究人员是在 VirusTotal 上发现了 J-Magic，发现它在 36 个组织的网络内运行，他们不清楚后门是如何安装的。J-Magic 从 2023 年中期至少活跃到 2024 年中期，其目标覆盖半导体、能源、制造业和 IT 垂直企业。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[调查显示八成游戏开发商开发 PC 游戏]]></title>
+        <id>https://www.solidot.org/story?sid=80418</id>
+        <link href="https://www.solidot.org/story?sid=80418"/>
+        <updated>2025-01-24T15:42:08.000Z</updated>
+        <summary type="html"><![CDATA[Informa 的游戏行业调查《State of the Game Industry》显示，八成开发商有 PC 游戏项目，而一年前这一数字是 66%。PC 一直是游戏开发商的首选平台，但此前开发商选择 PC 开发游戏的比例一直维持在六成左右，过去一年选择 PC 的比例大幅提高，背后的确切原因不太清楚。Informa 猜测可能与 Valve 的掌机 Steam Deck 日益流行有关。Steam Deck 的销量估计有数百万台，过去几年其它厂商也推出了掌机，但总体数量似乎不足以对开发商的选择产生巨大影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《自然》调查显示七成回应者使用 Bluesky]]></title>
+        <id>https://www.solidot.org/story?sid=80417</id>
+        <link href="https://www.solidot.org/story?sid=80417"/>
+        <updated>2025-01-24T15:20:58.000Z</updated>
+        <summary type="html"><![CDATA[《自然》的调查显示七成回应者转投 Bluesky。在参加调查的 5,300 人中，53% 表示曾使用过 X 但现在已经离开。被调查者表示，Bluesky 上的有毒内容、虚假信息和干扰比 X 少得多。Bluesky 目前有逾 2700 万用户，比 X 低一个数量级。受访者主要将 Bluesky 用于与联络其他科学家、跟踪最新研究动态以及宣传自己的研究。他们认为 Bluesky 是一个比 X 更友好的讨论科学的论坛。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Positioning Text Around Elements With CSS Offset]]></title>
+        <id>https://css-tricks.com/?p=383506</id>
+        <link href="https://css-tricks.com/positioning-text-around-elements-with-css-offset/"/>
+        <updated>2025-01-24T14:59:25.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.
+Positioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乔治 R.R.马丁合作发表了一篇物理学论文]]></title>
+        <id>https://www.solidot.org/story?sid=80416</id>
+        <link href="https://www.solidot.org/story?sid=80416"/>
+        <updated>2025-01-24T14:50:56.000Z</updated>
+        <summary type="html"><![CDATA[《冰与火之歌》作者乔治 R.R.马丁（George R.R. Martin）与洛斯阿拉莫斯国家实验室物理学家 Ian Tregillis 合作在《American Journal of Physics》发表了一篇物理学论文《Ergodic Lagrangian dynamics in a superhero universe》，推导了虚构外星病原体 Wild Cards 病毒的数学模型。Wild Cards 病毒出自马丁主编的同名超级英雄科幻小说系列，故事设定在二战后的美国的架空历史，主要讲述感染了 Wild Cards 病毒的人类，这种来自外星的病毒可以重写 DNA 并使幸存者发生变异，但九成的感染者会死亡。幸存者有 9% 变异成 Jokers，1% 成为超能力者 Aces，部分超能力者的超能力毫无用处因此叫 deuces。马丁在打造 Wild Cards 宇宙时认为超英漫画中超级英雄超能力来源太多，他希望他创造的宇宙只有一个来源，他的合作者 Melinda M. Snodgrass 建议用病毒。《American Journal of Physics》期刊并不很有名，其影响分子只有 0.8。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 移动搜索移除网址面包屑导航]]></title>
+        <id>https://www.solidot.org/story?sid=80415</id>
+        <link href="https://www.solidot.org/story?sid=80415"/>
+        <updated>2025-01-24T14:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Google 搜索开发者博客以简化可见 URL 元素的名义宣布从移动搜索结果中移除面包屑导航（breadcrumbs）。所谓面包屑导航指的是类似 http://example.com>...>...的层级路径。这一更改会影响所有智能手机和平板电脑的搜索结果，桌面搜索结果不受影响。Google 表示，做出这一改变是因为移动设备的屏幕空间有限，面包屑导航在较小屏幕上经常会被切断。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[癌细胞利用有缺陷的线粒体毒害攻击免疫细胞]]></title>
+        <id>https://www.solidot.org/story?sid=80414</id>
+        <link href="https://www.solidot.org/story?sid=80414"/>
+        <updated>2025-01-24T08:50:37.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《自然》期刊上的一项研究，癌细胞会利用有缺陷的线粒体毒害攻击免疫细胞。科学家曾认为每个细胞的线粒体都是由细胞自身产生的，但他们越来越多地发现，线粒体可以从一个细胞转移到另一个细胞。在最新研究中，研究人员比较了来自每个人癌细胞的线粒体和来自同一个人的肿瘤浸润淋巴细胞（TILs）的线粒体，TILs是一种识别并侵入肿瘤的免疫细胞。结果发现，肿瘤细胞和 TILs 细胞都携带有相同突变的线粒体，这表明畸形线粒体可能从患病细胞跳到健康细胞。这种线粒体转移不仅导致 TILs 的代谢功能异常，还使 T 细胞进入终末分化和耗竭状态，从而削弱了抗肿瘤免疫反应。这一发现为癌症治疗提供了新的靶点。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本市场中国平板电视首次超过五成]]></title>
+        <id>https://www.solidot.org/story?sid=80413</id>
+        <link href="https://www.solidot.org/story?sid=80413"/>
+        <updated>2025-01-24T08:02:42.000Z</updated>
+        <summary type="html"><![CDATA[日本平板电视市场海信和 TC L等中国企业的份额在 2024 年超过了五成，这是 2004 年有统计以来的第一次。日本本土企业索尼和松下的市场份额均低于 10%。海信旗下、运营原东芝 REGZA 品牌的 TVS REGZA 公司以 25.4% 位居榜首。海信自有品牌位居第 3 占 15.7%，集团整体份额达到41.1%，首次超过 4 成。TCL 市场份额为 9.7%，超过索尼和松下，跃居第 4 位，夏普第二占 20.6%。中国公司相同型号的电视机售价不到日本本土公司的一半，如松下 55 英寸液晶电视售价在 20 万日元，而海信售价不到 10 万日元。分析师表示，“受物价上涨影响，人们的节约意识增强，正在转向中国品牌”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智人离开非洲后血型可能发生适应性遗传变化]]></title>
+        <id>https://www.solidot.org/story?sid=80412</id>
+        <link href="https://www.solidot.org/story?sid=80412"/>
+        <updated>2025-01-24T07:37:58.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Scientific Reports》期刊上的一项研究，智人(Homo sapiens)在离开非洲后血型可能发生了适应性遗传变化。从距今 10 万年前开始，智人在黎凡特(Levant)和扎格罗斯(Zagros)多次与尼安德特人相遇并繁衍，了解这些互动带来的血型变化，有助于确定人类的迁徙模式和潜在的优势遗传变化发生在何处。研究人员利用古人类遗骸的遗传数据，评估尼安德特人的血型多样性是否与 4 万至 1 万年前旧石器时代晚期的智人种群相同。他们发现，尼安德特人拥有与现代撒哈拉以南非洲人群相似的祖先等位基因，而早期欧亚大陆的智人产生了新的Rh等位基因，这是如今输血和孕期监测的关键血型。这些等位基因在尼安德特人中并不存在，表明它们可能是在智人离开非洲之后分化出来的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三菱不打算参与本田日产的合并]]></title>
+        <id>https://www.solidot.org/story?sid=80411</id>
+        <link href="https://www.solidot.org/story?sid=80411"/>
+        <updated>2025-01-24T07:08:39.000Z</updated>
+        <summary type="html"><![CDATA[因为规模较小担心合并后经营自主性下降，三菱汽车表示不打算参与本田日产的合并。本田和日产是在去年 12 月宣布全面启动经营合并磋商，计划 2026 年 8 月成立把两家车企纳入旗下的控股公司。与日产组成企业联盟的三菱汽车公司将在 2025 年 1 月底前后决定是否加入。若三家车企成功合并，那么合计销量将超过 800 万辆，位居全球第三。三菱汽车认为，在汽车行业主战场转移到纯电动汽车和软件领域的背景下，三家公司的合并效果并不明朗。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普政府暂停了 NIH 的会议和旅行]]></title>
+        <id>https://www.solidot.org/story?sid=80410</id>
+        <link href="https://www.solidot.org/story?sid=80410"/>
+        <updated>2025-01-24T06:15:49.000Z</updated>
+        <summary type="html"><![CDATA[特朗普政府突然暂停了 NIH 的研究资金拨款评审、旅行和培训。NIH 是世界最大的生物医学公共资助机构。研究人员表示，以前新政府上任时也会发生持续一天的交流暂停，此举旨在调整策略。但特朗普政府的暂停持续到至少 2 月 1 日，这是从未有过的。如果没有咨询委员会会议，NIH 将无法发放研究资金，此举将暂时冻结其 470 亿美元预算中的 80%。科学家担心不确定性会给科学界带来巨大破坏。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 15 代号 Duke]]></title>
+        <id>https://www.solidot.org/story?sid=80409</id>
+        <link href="https://www.solidot.org/story?sid=80409"/>
+        <updated>2025-01-24T05:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Debian 项目在宣布 13.0 Trixie 的冻结日期之后，下一代代号为 Forky 的 Debian 14 开始进入开发阶段。Debian 发行版大约每两年发布一个大版本，Debian 13.0 预计 2025 年 8 月发布，那么 Debian 14 大约是 2027 年，Debian 15 大约为 2029 年。Debian 项目宣布 Debian 15 的代号为 Duke。Debian 项目的代号都来自于皮克斯动画《玩具总动员》系列中的角色，Duke 的名字出自《玩具总动员4》中的 Duke Caboom，在电影中它由基努·里维斯配音，是一个能做特技表演的加拿大玩具。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoStar is now a Browserling customer!]]></title>
+        <id>https://catonmat.net/costar-browserling-customer</id>
+        <link href="https://catonmat.net/costar-browserling-customer"/>
+        <updated>2025-01-24T04:04:04.000Z</updated>
+        <summary type="html"><![CDATA[Success! CoStar, the world leader in real estate analytics, is now a Browserling customer!
+It's another small step for a ling but one giant leap for ling kind.
+What Is Browserling?
+Browserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.
+Who Uses Browserling?
+Browserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.
+See you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究揭示不同政治光谱对传递虚假信息的偏好]]></title>
+        <id>https://www.solidot.org/story?sid=80408</id>
+        <link href="https://www.solidot.org/story?sid=80408"/>
+        <updated>2025-01-24T03:56:30.000Z</updated>
+        <summary type="html"><![CDATA[虚假信息被广泛认为危及民主，破坏公众对机构的信任，加剧分裂。无论是疫情、选举或时事，现代虚假信息对所有人的影响超出了我们的想象。我们倾向于认为虚假信息是一个普遍问题，政治光谱的每一方面都犯过歪曲事实的错误。但一项新研究认为并非如此。荷兰研究人员发现，极右翼民粹主义者更可能传播虚假信息。研究发现，极右翼组织还会创造一个替代媒体生态系统，重新创造事实，打造了一个强化其世界观的回音室。相比之下，民粹主义、左翼民粹主义和右翼与传播虚假信息关联性不高，而极右翼民粹主义是倾向传播虚假信息的最决定性因素。不同于集中于经济不满和批评企业精英的左翼民粹主义者，极右翼民粹主义者更可能将移民、全球化或政治正确等文化恐惧武器化。这项研究分析了 26 个国家 8,200 名议员的 3200 多万条推文，时间是 2017-2022 年，当时 Twitter 还没有被马斯克化，成为极右翼者偏爱的平台。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猫抓 2.5.9 更新，新增屏蔽网址功能，可根据黑/白名单自动开启扩展]]></title>
+        <id>https://www.appinn.com/?p=50847</id>
+        <link href="https://www.appinn.com/cat-catch-2-5-9/"/>
+        <updated>2025-01-24T03:44:10.000Z</updated>
+        <summary type="html"><![CDATA[猫抓(cat catch)是一款非常实用的 Chrome、Firefox（支持 Android）扩展，用来下载在线视频，简单易用。2025年1月23日更新 2.5.9 版本，新增了一个屏蔽网址功能，可]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Post Holdings is now a Browserling customer!]]></title>
         <id>https://catonmat.net/post-holdings-browserling-customer</id>
@@ -934,180 +1091,6 @@ Buy a subscription now and see you next time!]]></summary>
 Web-Slinger.css: Across the Swiper-Verse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是时候重新定义肥胖]]></title>
-        <id>https://www.solidot.org/story?sid=80343</id>
-        <link href="https://www.solidot.org/story?sid=80343"/>
-        <updated>2025-01-15T13:28:25.000Z</updated>
-        <summary type="html"><![CDATA[专家称有太多的人被诊断为肥胖，但有的肥胖者一切正常，有的肥胖者则疾病缠身。研究人员在《柳叶刀-糖尿病与内分泌学》上发表报告，提出一种新的、更精细的诊断方法，即将体脂测量指标（如腰围或直接测量体脂量）与BMI（身体质量指数）结合使用以检测肥胖，从而降低误分类的风险。报告指出，当前医学上诊断肥胖的方法主要依赖于 BMI，而 BMI 并不是衡量个人健康或疾病的可靠指标。报告还提出了两种新的肥胖分类：“临床肥胖”和“亚临床肥胖”。“临床肥胖”被定义为因体脂过多直接导致器官功能减退的客观体征和/或症状，或进行标准日常活动（如洗澡、穿衣、进食和自主排便）的能力显著下降的一种肥胖状态。被诊断为临床肥胖的患者应被视为患有持续性慢性疾病，并接受适当的管理和治疗。“亚临床肥胖”指在器官功能正常情况下的肥胖状态。虽然亚临床肥胖的个体无持续性疾病，但他们未来发展为临床肥胖和其他几种非传染性疾病（NCDs）的风险可能会有所增加，包括2型糖尿病、心血管疾病、某些类型的癌症和精神疾病等。因此，应为他们降低潜在的疾病风险提供支持。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太长时间的自控会增加类睡眠大脑活动]]></title>
-        <id>https://www.solidot.org/story?sid=80342</id>
-        <link href="https://www.solidot.org/story?sid=80342"/>
-        <updated>2025-01-15T13:16:32.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在 PNAS 期刊上的一项，如果你花了太长时间去制定如何省钱如何锻炼如何...之类的自我控制，你的大脑会精疲力竭，产生类似睡眠的活动。研究表明，就像肌肉因过度劳累而变弱一样，额叶皮层的某些部分，即负责注意力、计划、解决问题、自我控制和情绪调节等执行功能的大脑区域，会因使用而变得疲劳。研究人员在新研究中发现，在从事需要自我控制的任务后，额叶皮层不仅变得不那么活跃，而且可能进入一种类似睡眠的状态。“这种现象被称为局部睡眠，当大脑的某些部分在完成某些任务后感到疲劳时，就会发生这种情况……它们开始表现出典型的睡眠状态的脑电波，但这种情况发生在我们还醒着的时候。”这项工作表明，对人类大脑来说，发挥自我控制是一项艰巨的任务；一天中使用的这种资源越多，一天结束时剩的就越少。研究人员建议为了避免认知疲劳需要多多休息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 AI 将电子书转变成有声书]]></title>
-        <id>https://www.solidot.org/story?sid=80341</id>
-        <link href="https://www.solidot.org/story?sid=80341"/>
-        <updated>2025-01-15T12:50:13.000Z</updated>
-        <summary type="html"><![CDATA[最近释出的文本语音模型 Kokoro v0.19 只使用 8200 万个参数，但其 TTS Spaces Arena 排名高居第一，高质量的 AI 语音朗读可能意味着未来真人朗读的有声书将愈来愈稀少。Kokoro 模型权重使用 Apache 许可发布，支持美式英语、英式英语、法语、韩语、日语和中文普通话。开发者 Claudio Santini 在 Kokoro v0.19 基础上开发了一个 Python 3 应用 Audiblez，可用于在本地将电子书转变成有声书。测试显示，在苹果笔电 M2 MacBook Pro 上，将有 10 万单词的道金斯（Richard Dawkins）《自私基因》转变成有声书共花费了 2 小时时间。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOG 加入欧洲游戏保存组织]]></title>
-        <id>https://www.solidot.org/story?sid=80340</id>
-        <link href="https://www.solidot.org/story?sid=80340"/>
-        <updated>2025-01-15T12:29:20.000Z</updated>
-        <summary type="html"><![CDATA[波兰数字游戏平台 GOG 宣布加入欧洲最大的游戏保存组织 European Federation of Game Archives, Museums, and Preservation Projects (EFGAMP)。该组织的成员包括了VIGAMUS — The Video Game Museum in Rome, MO5.COM in France、Computerspielemuseum in Berlin、The Netherlands Institute for Sound & Vision 和 Embracer Games Archive 等等，该组织致力于将游戏作为文化遗产加以保护。GOG 去年 12 月宣布了 GOG Preservation Program，确保经典游戏能在新一代操作系统上正常运行。GOG 董事总经理 Maciej Gołębiewski 表示该平台在成立之初就将游戏保存作为其核心使命之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OhMyWeChat 新增 2024 微信年度数据报告功能，可查看发送消息数量、新朋友等数据[第三方]]]></title>
-        <id>https://www.appinn.com/?p=50755</id>
-        <link href="https://www.appinn.com/ohmywechat/"/>
-        <updated>2025-01-15T12:28:15.000Z</updated>
-        <summary type="html"><![CDATA[OhMyWeChat 是一个开源项目，它通过读取 iPhone 手机备份数据来阅读你的微信聊天记录，「总体上还原了微信」。最近上线新功能，可以查看用户的 2024 微信年度数据报告，主要是一些数字统计]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok 计划周日关闭其美国服务]]></title>
-        <id>https://www.solidot.org/story?sid=80339</id>
-        <link href="https://www.solidot.org/story?sid=80339"/>
-        <updated>2025-01-15T11:30:22.000Z</updated>
-        <summary type="html"><![CDATA[The Information 报道，TikTok 计划于本周日( 1 月 19 日)关闭其美国服务，这一天正是美国联邦政府针对该社交媒体平台“不卖就禁”禁令可能生效的日期。除非美国最高法院紧急介入并阻止禁令实施，否则该措施将生效。报道称，如果 TikTok 选择全面关闭服务，此举与法律规定有所不同。目前的法律仅要求禁止苹果和 Google 应用商店中新用户下载 TikTok，但现有用户仍可暂时继续使用该应用。然而 TikTok 的计划是直接阻止所有美国用户访问平台。TikTok 还计划提供用户下载其个人数据的选项，以便用户保存个人信息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丰田连续五年新车销量第一]]></title>
-        <id>https://www.solidot.org/story?sid=80338</id>
-        <link href="https://www.solidot.org/story?sid=80338"/>
-        <updated>2025-01-15T09:57:38.000Z</updated>
-        <summary type="html"><![CDATA[德国大众周二公布的数据称，2024 年全球新车销量为 902.74 万辆，比 2023 年减少 2%，其中中国市场同比下滑 1 成。相比下，日本丰田去年前 11 个月的销量为 925 万辆，这意味着丰田连续五年新车销量第一。在中国汽车市场，新能源汽车销量增长，传统汽车销量低迷，大众的新车总销量同比减少了 10% 至 292.81 万辆。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沉迷长寿的科技富豪停服可能加速衰老的长寿药]]></title>
-        <id>https://www.solidot.org/story?sid=80337</id>
-        <link href="https://www.solidot.org/story?sid=80337"/>
-        <updated>2025-01-15T09:53:05.000Z</updated>
-        <summary type="html"><![CDATA[沉迷长寿的科技富豪 Bryan Johnson 每天早晨服用 54 种不同的补充剂以帮助延年益寿。但他最近停服了名叫 Rapamycin 的补充剂，因为有研究显示原本认为有助于长寿的药物被发现会加速衰老。根据一篇预印本，基于 16 个表观遗传衰老时钟 Rapamycin 会加速衰老。除此之外，Rapamycin 还有很多严重副作用如间歇性皮肤/软组织感染、脂质异常、血糖升高和增加静息心率。它的潜在好处不足以抵消其副作用，因此 Johnson 在服用五年之后决定停服。Johnson 还曾用自己年轻儿子的血测试输入年轻血液是否有助于焕发青春，结果发现没用；他还试图逆转生殖器的年龄。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软 1 月例行更新修复 161 个漏洞]]></title>
-        <id>https://www.solidot.org/story?sid=80336</id>
-        <link href="https://www.solidot.org/story?sid=80336"/>
-        <updated>2025-01-15T08:02:37.000Z</updated>
-        <summary type="html"><![CDATA[微软周二释出了 2025 年 1 月的例行安全更新，修复了多达 161 个安全漏洞，其中包括 3 个正被利用的 0day。三个 0day 的编号分别为 CVE-2025-21333、CVE-2025-21334 以及 CVE-2025-21335，是连续的三个漏洞，都位于 Windows Hyper-V 中，都属于提权漏洞。修复的漏洞中还有危险等级高达 9.8/10 的，其中之一是 CVE-2025-21298，攻击者通过诱惑目标打开恶意 .rtf 文件去执行任意代码，微软警告该漏洞很可能被利用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 根据绩效裁员 3600 人]]></title>
-        <id>https://www.solidot.org/story?sid=80335</id>
-        <link href="https://www.solidot.org/story?sid=80335"/>
-        <updated>2025-01-15T07:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Meta CEO 扎克伯格（Mark Zuckerberg）在内部备忘录中宣布将根据绩效裁减约 5% 的员工。Meta 有大约 7.2 万名员工，这意味着裁员人数将达到 3600 人。裁员导致的职位空缺将通过招聘新员工补充。扎克伯格在备忘录中表示决定提高绩效管理的标准，更快淘汰绩效不佳的员工。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国预测到 2033 年死亡人口将超过出生人口]]></title>
-        <id>https://www.solidot.org/story?sid=80334</id>
-        <link href="https://www.solidot.org/story?sid=80334"/>
-        <updated>2025-01-15T07:19:49.000Z</updated>
-        <summary type="html"><![CDATA[美国国会预算办公室预测到 2033 年美国死亡人口将超过出生人口，比去年预测的年份早了 7 年，去年它预测到 2040 年死亡人口将超过出生人口。国会预算办公室的最新估计是基于美国人口增长预计将会放缓，它估计 2025 年美国人口达到 3.5 亿，2054 年 3.72 亿，未来 30 年人口增长率 0.2%，而过去五十年美国的人口增长率是 0.9%。它将人口增长率放缓归于生育率下降、人口老龄化和移民减少等因素。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小红书紧急招聘英文审核员]]></title>
-        <id>https://www.solidot.org/story?sid=80333</id>
-        <link href="https://www.solidot.org/story?sid=80333"/>
-        <updated>2025-01-15T07:00:02.000Z</updated>
-        <summary type="html"><![CDATA[随着大量美国 Tiktok 难民涌入小红书，该平台的英文内容显著增加。虽然不清楚最终会有多少美国用户会留在该平台上，但小红书正在紧急招聘英文内容审核员，薪水在 7-9k 之间，要求英文六级，双休，八小时工作制。《华尔街日报》评论称，新的中美友谊正在一个迄今几乎没什么国际用户的应用上萌芽。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国政府称删除了中国黑客通过 USB 设备植入的恶意程序]]></title>
-        <id>https://www.solidot.org/story?sid=80332</id>
-        <link href="https://www.solidot.org/story?sid=80332"/>
-        <updated>2025-01-15T06:49:42.000Z</updated>
-        <summary type="html"><![CDATA[美国司法部周二宣布清除了中国黑客在数千台电脑中植入的恶意程序。被称为 PlugX 的恶意程序感染了全世界数千台电脑，主要用于窃取信息。黑客组织被称为 Mustang Panda 和 Twill Typhoon，恶意程序主要通过感染的 USB 设备传播。安全公司 Sekoia 在 2023 年 9 月识别了 PlugX 的 CC 设施，它随后与法国执法部门合作于 2024 年 7 月控制了该设施。FBI 与法国当局合作，识别了 PlugX 感染的美国设备，向每台设备发送自我删除指令。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国最高法院允许夏威夷因气候变化影响起诉石油公司]]></title>
-        <id>https://www.solidot.org/story?sid=80331</id>
-        <link href="https://www.solidot.org/story?sid=80331"/>
-        <updated>2025-01-14T15:30:39.000Z</updated>
-        <summary type="html"><![CDATA[美国最高法院周一拒绝考虑撤销夏威夷提起的诉讼，该诉讼寻求石化公司为气候变化效应造成的损失赔偿数十亿美元。最高法院此举为案件继续推进扫清了道路。15 家能源公司希望最高法院能撤销该诉讼，认为温室气体排放
-是逾一个世纪以来，政府、企业和个人就选择使用哪种燃料和如何使用所进行的数十亿次日常选择的结果。它们认为夏威夷是就全球温室气体排放导致全球气候变化的累积效应寻求赔偿。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何手搓SVG半圆弧，手把手教程]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=11545</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/"/>
-        <updated>2025-01-14T15:10:19.000Z</updated>
-        <summary type="html"><![CDATA[项目中遇到个特殊的圆环图形加动画需求，看我如何使用M...A...圆弧指令手写最终的SVG代码（内含坐标计算JS方法，文字环绕实现等）。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Few Ways That Cloudways Makes Running This Site a Little Easier]]></title>
-        <id>https://css-tricks.com/?p=382719</id>
-        <link href="https://css-tricks.com/a-few-ways-that-cloudways-makes-running-this-site-a-little-easier/"/>
-        <updated>2025-01-14T14:49:10.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-It’s probably no surprise to you that CSS-Tricks is (proudly) hosted on Cloudways, DigitalOcean’s managed hosting arm. Given both CSS-Tricks and Cloudways are part of DigitalOcean, it was just a matter of time …
-A Few Ways That Cloudways Makes Running This Site a Little Easier originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 删除 Instagram 去中心化替代 Pixelfed 的链接]]></title>
-        <id>https://www.solidot.org/story?sid=80330</id>
-        <link href="https://www.solidot.org/story?sid=80330"/>
-        <updated>2025-01-14T14:47:00.000Z</updated>
-        <summary type="html"><![CDATA[在宣布停止支持事实核查之后，部分 Meta 用户转向了 Instagram 的去中心化替代 Pixelfed。类似 Mastodon，
-Pixelfed 也是运行在联邦宇宙协议 Activity Pub 上。Pixelfed 最近几天的注册量显著增加，当 Meta 用户在其平台上分享最大 Pixelfed 服务器 Pixelfed.social 的链接时，Meta 会将其标记为 Spam 然后立即删除。Pixelfed 创始人 Daniel Supernaul 表示，Pixelfed 服务于普罗大众。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
