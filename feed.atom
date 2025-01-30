@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-01-29T02:40:22.460Z</updated>
+    <updated>2025-01-30T02:39:33.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta 短暂禁止用户发表任何涉及 Linux 的帖子]]></title>
+        <id>https://www.solidot.org/story?sid=80447</id>
+        <link href="https://www.solidot.org/story?sid=80447"/>
+        <updated>2025-01-29T14:28:13.000Z</updated>
+        <summary type="html"><![CDATA[过去几天，用户通过社交媒体报告社交巨人 Meta 旗下的 Facebook 会自动删除涉及 Linux 的帖子或链接，声称“可能会促进恶意软件的共享、创建或托管”。Facebook 就运行在 Linux 服务器上，社交巨人此举被认为不可思议。很多人怀疑是用于内容审查的自动化程序出现 bug 导致的。Meta 现在回应称问题已经解决。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What on Earth is the `types` Descriptor in View Transitions?]]></title>
+        <id>https://css-tricks.com/?p=383818</id>
+        <link href="https://css-tricks.com/what-on-earth-is-the-types-descriptor-in-view-transitions/"/>
+        <updated>2025-01-29T14:13:53.000Z</updated>
+        <summary type="html"><![CDATA[The @view-transition at-rule has two descriptions. One is the commonly used navigation descriptor. The second is types, the lesser-known of the two, and one that probably envies how much attention navigation gets. But read on to learn why we need types and how it opens up new possibilities for custom view transitions when navigating between pages.
+What on Earth is the `types` Descriptor in View Transitions? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯游戏《三角洲行动》被发现会修改用户 CPU 调度和性能释放策略]]></title>
+        <id>https://www.solidot.org/story?sid=80446</id>
+        <link href="https://www.solidot.org/story?sid=80446"/>
+        <updated>2025-01-29T12:58:50.000Z</updated>
+        <summary type="html"><![CDATA[英特尔 13-14 代酷睿处理器去年爆出因电压过高而导致的系统不稳定问题，芯片巨人为此释出了多轮微码以缓解该问题。游戏通常对 CPU 有高性能要求，为避免出现不稳定问题，今天很多游戏在运行前会检测下 CPU 类型以及其使用的微码版本，如果英特尔 CPU 的微码版本过低，游戏会弹出警告建议用户升级。腾讯去年 12 月上线了 FPS 多人对战游戏《三角洲行动》，根据社交媒体和论坛上的谈论，以及视频博主上传的视频，WeGame 版本的 《三角洲行动》（Steam 版本未知）会主动帮助用户“解决”潜在不稳定问题，方法是修改 CPU 调度与 CPU 性能释放策略，而且不检测 CPU 类型以及微码版本号，一刀切的应用于所有 CPU。AMD CPU 本来不存在该问题，但腾讯也修改了 AMD CPU 的性能释放策略，显著降低其性能。玩家在退出《三角洲行动》之后，这一修改仍然有效，意味着此后你的所有程序都会显著降低性能。对此问题，腾讯尚未公开予以回应。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心脏病是美国的第一死因]]></title>
+        <id>https://www.solidot.org/story?sid=80445</id>
+        <link href="https://www.solidot.org/story?sid=80445"/>
+        <updated>2025-01-29T12:18:47.000Z</updated>
+        <summary type="html"><![CDATA[美国每天约有 2,500 人死于心血管疾病，心脏病是美国排在第一位的死因，中风是第 5 大死因，癌症是第二大，意外死亡是第三大。心脏病和中风加起来所夺去的生命比所有癌症和意外死亡加起来还要多。根据美国心脏协会《2025 年心脏病和中风统计资料更新》，2022 年美国心血管疾病 (CVD) 相关的总死亡人数为 941,652 人，较 2021 年的 931,578 人增加超过 10,000 人。心血管疾病的风险因子包括高血压、肥胖和糖尿病，所有这些健康问题在美国和全球范围内均大幅增多。数据显示近 47% 的美国成年人患有高血压，超过 72% 的美国成年人体重不健康（BMI ≥25），其中近 42% 为肥胖（BMI≥30），57% 的美国成年人患有第二型糖尿病或糖尿病前期。如果目前的趋势持续下去，到 2050 年高血压和肥胖将分别影响逾1.8 亿美国成年人，而糖尿病的盛行率将攀升至逾 8,000 万人。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公共图书馆能给人们的生活带来积极影响]]></title>
+        <id>https://www.solidot.org/story?sid=80444</id>
+        <link href="https://www.solidot.org/story?sid=80444"/>
+        <updated>2025-01-29T12:03:00.000Z</updated>
+        <summary type="html"><![CDATA[纽约公共图书馆调查了 1,974 名读者，以了解图书馆给他们带来的影响。结果显示： 92% 受访者表示访问图书馆后情绪变得非常平静；74% 受访者表示图书馆对他们适应世界的能力产生了积极影响；90% 受访者表示图书馆对他们学习新事物产生了积极影响；88% 受访者表示图书馆促进了他们的个人成长；89% 受访者表示图书馆让他们更能欣赏以前不太了解的事物；77% 受访者表示图书馆让他们觉得一生所做的事情是有价值有意义的；82% 受访者表示图书馆让他们对未来更乐观；75% 受访者表示图书馆让他们更能共情他人...总而言之，图书馆的积极影响无处不在，但我们生活在一个人们越来越少看书的时代。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dish is now a Browserling customer!]]></title>
+        <id>https://catonmat.net/dish-browserling-customer</id>
+        <link href="https://catonmat.net/dish-browserling-customer"/>
+        <updated>2025-01-29T09:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Success! Dish Network, the top satellite TV provider, is now a Browserling customer!
+It's another small step for a ling but one giant leap for ling kind.
+What Is Browserling?
+Browserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.
+Who Uses Browserling?
+Browserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.
+See you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PowerToys v0.88.0 更新：集成老牌屏幕工具 ZoomIt]]></title>
+        <id>https://www.appinn.com/?p=50886</id>
+        <link href="https://www.appinn.com/powrtoys-v0-88-0/"/>
+        <updated>2025-01-29T08:16:05.000Z</updated>
+        <summary type="html"><![CDATA[PowerToys v0.88.0 在大年初一早上更新，集成了我们的老朋友，老牌屏幕缩放、标记工具 ZoomIt，属于强强联合了。@Appinn ZoomIt ZoomIt 是一个有着 19 年历史的]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[研究估计到 2100 年欧洲高温死亡人数增加五成]]></title>
         <id>https://www.solidot.org/story?sid=80443</id>
@@ -905,122 +982,6 @@ See you next time!]]></summary>
         <summary type="html"><![CDATA[欧盟考虑在消费品中禁止使用 PFAS，但基本工业用途不包括在内。PFAS（全氟烷基和多氟烷基物质）涵盖约 9000 种化合物，主要用于制造防水、防污或耐热型产品。这类化学品被广泛应用于数十个行业产出的几千种日常消费品，包括防污剂、地毯以及鞋子。PFAS 被称为“永久留存的化学品”，因为它们不会自然分解。它们会在包括人类在内的各种动物体内积累，与癌症、新生儿缺陷、肝病、甲状腺疾病、免疫力下降、激素紊乱及其他一系列严重健康问题相关。欧盟环境专员 Jessika Roswall 接受采访时表示寻求的是消费品禁令，这一禁令对人类和环境很重要，宣布禁令让工业界能做好准备淘汰 PFAS。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 搜索服务开始要求启用 JavaScript]]></title>
-        <id>https://www.solidot.org/story?sid=80380</id>
-        <link href="https://www.solidot.org/story?sid=80380"/>
-        <updated>2025-01-20T09:06:53.000Z</updated>
-        <summary type="html"><![CDATA[Google 搜索服务开始要求启用 JavaScript。公司发言人在一份声明中表示此举旨在更好的抵御恶意活动如机器人程序和 Spam，改善用户的整体搜索体验。这位发言人声称，如果不启用 JavaScript 很多搜索功能将无法正常工作，搜索质量会下降。Google 发言人称，不到 0.1% 的 Google 搜索是由禁用 JavaScript 的用户完成的。作为最大的搜索引擎，这并非是一个小数目。Google 每天处理大约 85 亿次搜索，这意味着有大约数百万人执行搜索时禁用了 JavaScript。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go Haystack – 让第三方蓝牙设备也使用苹果全球“查找”网络]]></title>
-        <id>https://www.appinn.com/?p=50785</id>
-        <link href="https://www.appinn.com/go-haystack/"/>
-        <updated>2025-01-20T08:48:35.000Z</updated>
-        <summary type="html"><![CDATA[Go Haystack 是一个开源项目，它可以让第三方的蓝牙设备加入 Apple 庞大的全球“查找”网络。@Appinn Go Haystack 使用了 OpenHaystack 和 Macless-]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Android 运行在 2024 年三分之二的新车上]]></title>
-        <id>https://www.solidot.org/story?sid=80379</id>
-        <link href="https://www.solidot.org/story?sid=80379"/>
-        <updated>2025-01-20T08:21:29.000Z</updated>
-        <summary type="html"><![CDATA[在 2024 年生产的 215 款新车中，有 144 款（占比 67%）采用了 Google Android 系统，第二名是 Linux。沃尔沃、福特、日产、本田等都在新款车上采用了 Android 系统。车企之所以采用 Android 系统，是因为能让消费者在汽车上延续已经习惯的智能手机的操作感。还能通过操作车载面板来使用“Google 地图”等 APP。Linux 系统的操作方法与智能手机不同，支持的 APP 较少。随着信息类操作系统垄断情况加剧，Google 能像智能手机 APP 那样，通过汽车用 APP 从汽车用户那里获取手续费，凭借这样的新一代汽车业务来提高收益能力。Google 可以收集大量移动数据，因此也能在自动驾驶相关开发领域占据优势。根据签约情况，Google 能收集位置、车速、发动机及电池状态、车载APP使用情况等海量数据。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice Writer 扩展为字处理软件加入可选的本地生成式 AI 功能]]></title>
-        <id>https://www.solidot.org/story?sid=80378</id>
-        <link href="https://www.solidot.org/story?sid=80378"/>
-        <updated>2025-01-20T08:11:10.000Z</updated>
-        <summary type="html"><![CDATA[开源办公软件 LibreOffice 没有集成生成式 AI 功能，社区开发者 John Balis 正在为 LibreOffice 开发一个可选的生成式 AI 扩展 Localwriter。Localwriter 目前只支持 LibreOffice 的字处理组件 Writer，对电子表格组件 Calc 的支持正在开发之中。Localwriter 使用运行在本地的大模型去执行推理任务，配合 Ollama 或 text-generation-webui，可以使用它们支持的任何大模型。Localwriter 可以使用大模型预测所选文本后的内容，或者为所选文本提供替代文本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊强推重返办公室但没有足够办公桌和停车位]]></title>
-        <id>https://www.solidot.org/story?sid=80377</id>
-        <link href="https://www.solidot.org/story?sid=80377"/>
-        <updated>2025-01-20T07:37:36.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊正在强推重返办公室政策，要求员工每周五天都去办公室上班，然而去上班的员工发现公司并没有配备足够办公桌和停车位。据亚马逊员工称，由于办公室容量问题，公司在去年 12 月中旬就推迟了数十个地点的复工时间，部分甚至推迟到了五月份。员工抱怨公司停车场爆满没有位置停车；在驾车前往公司途中遭遇交通堵塞，不得不在车中参加会议；即使成功抵达公司，去参加面对面会议，结果很多会议仍然是虚拟的；亚马逊提供的班车也不够，部分员工无法乘车因为座位满了。亚马逊员工仍然在质疑公司推行重返办公室政策背后的逻辑。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小鼠研究显示安眠药会干扰大脑清除废物]]></title>
-        <id>https://www.solidot.org/story?sid=80376</id>
-        <link href="https://www.solidot.org/story?sid=80376"/>
-        <updated>2025-01-20T07:04:00.000Z</updated>
-        <summary type="html"><![CDATA[安眠药可能会帮助你打瞌睡，但这种睡眠可能不会使你恢复元气。一项新研究发现，当小鼠服用唑吡坦——一种常见于安必恩等安眠药中的药物时，它会阻止小鼠大脑在睡眠期间有效地清除废物。睡眠对于清除大脑中的废物至关重要。名为脑脊液的透明液体在脑组织周围循环，通过一系列被称为淋巴系统的细管排出毒素，就像洗碗机一般。这一机制只在睡眠期间才会启动。研究人员在 7 只小鼠的大脑中植入了光纤。当照亮大脑中的化学物质时，这些纤维可以追踪睡眠时血液和脑脊液的流动。人类的睡眠结构与小鼠有很大不同，这一发现是否适用于人类未知。如果安眠药确实干扰了大脑在睡眠期间清除毒素的能力，那就意味着必须开发新的睡眠药物。否则就有可能加剧睡眠问题，并在此过程中潜在地恶化大脑健康。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摄像机首次捕捉到陨石掉落地面瞬间]]></title>
-        <id>https://www.solidot.org/story?sid=80375</id>
-        <link href="https://www.solidot.org/story?sid=80375"/>
-        <updated>2025-01-20T06:50:10.000Z</updated>
-        <summary type="html"><![CDATA[2024 年 7 月 25 日下午五点，加拿大爱德华王子岛居民 Joe Velaidum 与伴侣 Laura Kelly 外出遛狗，回家后却发现家门口遍布灰色的碎石与尘埃。Velaidum 起初以为这些碎片是从屋顶掉下来的，开始清理现场。然而 Kelly 的父母告诉他们曾听到巨大的爆炸声，Velaidum 随后查看了家中的监控录像，惊讶地发现摄像头捕捉到了陨石坠落的完整过程，甚至包括撞击地面的声音，经过碎片鉴定，确定该物为陨石。这是首次完整地录下陨石坠落地球的影像与声音同步纪录。这颗陨石属于普通球粒陨石，是地球上最常见的一种陨石，可能来自小行星带，]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.13 释出]]></title>
-        <id>https://www.solidot.org/story?sid=80374</id>
-        <link href="https://www.solidot.org/story?sid=80374"/>
-        <updated>2025-01-20T06:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds 在内核邮件列表上宣布释出 Linux 6.13，开启 6.14 合并窗口。Linux 6.13 的主要新特性包括：CPU 调度支持延迟抢占，Arm64 Guarded Control Stack 支持，PIDFD_GET_INFO() 操作，多粒度文件时间戳，ext4 和 XFS 文件系统初步支持原子写入，setxattrat()、getxattrat()、listxattrat()以及removexattrat()系统调用，BPF 程序的私有栈功能，向内存映射引入保护页（guard pages）的新机制，AMD 3D V-Cache 优化器驱动，初步支持英特尔 Xe3 显卡，NVMe 2.1 支持，移除了 ReiserFS 文件系统，等等，更多信息可浏览 KernelNewbies 6.13 页面。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok 恢复美国服务]]></title>
-        <id>https://www.solidot.org/story?sid=80373</id>
-        <link href="https://www.solidot.org/story?sid=80373"/>
-        <updated>2025-01-20T05:33:51.000Z</updated>
-        <summary type="html"><![CDATA[不到一天时间，TikTok 再次戏剧性的宣布恢复美国服务，声称得到了特朗普的承诺。但拜登政府此前已经宣布不会对 TikTok 禁令进行执法，由特朗普政府决定如何执行 TikTok 禁令，TikTok 此举被指有操纵美国公众舆论的嫌疑。TikTok CEO 周受资将在周一出席特朗普的就职典礼。特朗普周日在旗下社媒平台 Truth Social 发帖称，将在周一发布行政命令，延长 TikTok 禁令生效前的期限。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Issues 向所有人开放：子问题、问题类型和针对问题的高级搜索功能]]></title>
-        <id>https://www.appinn.com/?p=50786</id>
-        <link href="https://www.appinn.com/github-issues-sub-issues/"/>
-        <updated>2025-01-20T04:18:16.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Issues 是开发者在 GitHub 上用于跟踪项目中用户的想法、反馈、问题、任务的工具，比如用户遇到使用问题，可以直接在 GitHub Issues 上向开发者提交反馈。近日 Git]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kingdom of Saudi Arabia is now a Browserling customer!]]></title>
-        <id>https://catonmat.net/gov-sa-browserling-customer</id>
-        <link href="https://catonmat.net/gov-sa-browserling-customer"/>
-        <updated>2025-01-19T19:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Success! The Kingdom of Saudi Arabia is now a Browserling customer!
-It's another small step for a ling but one giant leap for ling kind.
-What Is Browserling?
-Browserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.
-Who Uses Browserling?
-Browserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.
-See you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
         </author>
     </entry>
     <entry>
