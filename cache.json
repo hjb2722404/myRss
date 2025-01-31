@@ -120,26 +120,6 @@
           "wordCount": 2647,
           "title": "WordPecker App – 开源、多邻国式，自定义学习工具",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/Copy-of-appinn-homework-11.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50811",
-          "author": "青小蛙",
-          "description": "Trae 是一款基于 VS Code 的 AI IDE（有中文界面），只需要用自然语言让 Trae 帮你编程、写代码。Trae 可以理解用户，并直接创建文件、编写代码。并且还能识别图片、分析整个代码库",
-          "link": "https://www.appinn.com/trae-ai/",
-          "publishedOn": "2025-01-21T12:40:17.000Z",
-          "wordCount": 2665,
-          "title": "Trae – 字节跳动发布类 Cursor 产品，可暂时免费使用 Claude 3.5 进行 AI 编程",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/Copy-of-appinn-homework-10.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50804",
-          "author": "青小蛙",
-          "description": "DeepSeek 在昨晚发布了最新的 DeepSeek-R1 模型，性能比肩行业标杆 OpenAI o1，并且采用宽松的 MIT 授权，可以商业使用，允许模型蒸馏。@Appinn 省流版 1️⃣ 采用",
-          "link": "https://www.appinn.com/deepseek-r1/",
-          "publishedOn": "2025-01-21T10:35:30.000Z",
-          "wordCount": 2652,
-          "title": "国产新模型 DeepSeek-R1 发布，MIT 授权，性能对标 OpenAI o1 正式版",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/Copy-of-appinn-homework-4.jpg"
         }
       ]
     },
@@ -148,6 +128,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=384089",
+          "author": "Juan Diego Rodríguez",
+          "description": "All of the things that the CSS Working Group would change if they had a time-traveling Delorean to go back and do things over.\nThe Mistakes of CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-mistakes-of-css/",
+          "publishedOn": "2025-01-30T14:31:08.000Z",
+          "wordCount": 1973,
+          "title": "The Mistakes of CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384089"
+        },
         {
           "id": "https://css-tricks.com/?p=383818",
           "author": "Juan Diego Rodríguez",
@@ -192,16 +182,6 @@
           "wordCount": 2458,
           "title": "Some Things You Might Not Know About Custom Counter Styles",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383776"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382660",
-          "author": "Geoff Graham",
-          "description": "Chris wrote about “Likes” pages a long while back. The idea is rather simple: “Like” an item in your RSS reader and display it in a feed of other liked items. The little example Chris made is still really good.…\nCreating a “Starred” Feed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/creating-a-starred-feed/",
-          "publishedOn": "2025-01-21T14:21:32.000Z",
-          "wordCount": 3116,
-          "title": "Creating a “Starred” Feed",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382660"
         }
       ]
     },
@@ -244,6 +224,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80451",
+          "author": null,
+          "description": "美国版权局裁定，AI 辅助作品如果包含可感知的人类创意如创意修改或安排可获得版权保护，而完全由 AI 生成的内容仍然没有获得版权保护的资格。美国版权局的报告是基于 2023 年启动的 AI 和版权相关的意见征询，它收到了逾万条评论。它的报告称，一个人通过提示词让 AI 聊天机器人生成内容或 A 图像生成器生成图像，并不能赋予该人对其作品进行版权保护的能力。",
+          "link": "https://www.solidot.org/story?sid=80451",
+          "publishedOn": "2025-01-30T15:50:18.000Z",
+          "wordCount": 186,
+          "title": "美国版权局称 AI 辅助作品如果包含足够的人类创意可获得版权保护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80450",
+          "author": null,
+          "description": "负责开源办公软件套件 LibreOffice 项目的基金会 The Document Foundation 宣布其下载量突破了 4 亿。LibreOffice 项目诞生于 2010 年，起因是甲骨文公司在当年收购了 Sun，获得了 OpenOffice.org 的所有权，OpenOffice 社区对甲骨文持怀疑态度，因此决定创建分支，原 OpenOffice 开发者成为了基金会 The Document Foundation 以开发 LibreOffice 计划，项目的首个稳定版本于 2011 年 1 月释出。从 2011 年到 2014 年，LibreOffice 的年下载量迅速达到了 3000 万次，之后保持平稳，2024 年超过 3500 万次，2011 年到 2024 年的总下载量突破 4 亿次，平均每年 2860 万次。",
+          "link": "https://www.solidot.org/story?sid=80450",
+          "publishedOn": "2025-01-30T14:48:37.000Z",
+          "wordCount": 222,
+          "title": "LibreOffice 下载量突破 4 亿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80449",
+          "author": null,
+          "description": "Debian Publishing Team 将停止在 X/Twitter 上发布内容。根据 Debian 开发者 Jean-Pierre Giraud 早先发布但最终没有采纳的公告：X 的行为违背了我们开发自由软件尤其是 Debian 时所坚持的道德原则。Debian 的独特之处在于它有一份社会契约和行为准则，并在 Diversity Statement 中予以重申，这是社区的基础。Debian 不想出现在一个无法保证用户受到尊重、滥用行为不会产生任何后果的地方。正式的公告声明 X 已演变成一个令人感到不安全的地方。",
+          "link": "https://www.solidot.org/story?sid=80449",
+          "publishedOn": "2025-01-30T14:28:54.000Z",
+          "wordCount": 202,
+          "title": "Debian 项目停止在 X 上发推",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80448",
+          "author": null,
+          "description": "哥伦布 写道：Douglas Engelbart于1925年1月30日出生于美国俄勒冈州。作为二战时期的雷达技师，他开始思考如何改善人机交互。1957年加入斯坦福研究院后，他提出了\"增强人类智力\"的革命性理念，认为计算机应该成为扩展人类认知能力的工具。1968年12月9日，他在旧金山进行了著名的\"所有演示之母\"，首次展示了鼠标、图形界面、视频会议等创新技术。这场演示影响深远，为人机交互铺平了道路，直接促成了施乐PARC、苹果和微软等公司后来的图形界面发展。1964年，他发明了计算机鼠标，尽管这项发明后来广泛使用，他本人仅获得90美元专利费。1997年，他获得图灵奖，以表彰他对交互计算的开创性贡献。2013年7月2日，这位改变了人类使用计算机方式的先驱在加州逝世，享年88岁。",
+          "link": "https://www.solidot.org/story?sid=80448",
+          "publishedOn": "2025-01-30T14:04:58.000Z",
+          "wordCount": 180,
+          "title": "Douglas Engelbart 诞辰 100 周年",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80447",
           "author": null,
@@ -773,86 +793,6 @@
           "wordCount": 193,
           "title": "X、Facebook、Instagram 和 YouTube 向欧盟承诺处理仇恨言论",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80388",
-          "author": null,
-          "description": "发表在《科学》期刊上的一项研究显示，干旱愈来愈严重愈来愈频繁范围也愈来愈广。与气候变化有关的气温上升增加了干旱风险，因为温暖的空气可以容纳更多水分，促进土地的蒸发。再加上降水模式的变化导致雨水减少，这可能会加剧和延长干旱期。正如最近在北美和南美部分地区发生的千年一遇的特大干旱所证明的那样。研究人员分析了 1980-2018 年间持续至少两年的 1.3 万多次干旱，以揭示长期趋势。他们发现，自 1980 年代以来，最严重的多年干旱变得更加干燥和炎热。干旱还影响了全球更大的区域。在任何一年中，受 500 起最严重干旱事件影响的区域每年扩大约 5 万平方公里。",
-          "link": "https://www.solidot.org/story?sid=80388",
-          "publishedOn": "2025-01-21T13:44:48.000Z",
-          "wordCount": 171,
-          "title": "干旱愈来愈严重愈来愈频繁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80387",
-          "author": null,
-          "description": "根据皮尤研究中心最近公布的调查，愈来愈多的美国青少年使用 ChatGPT 完成作业。调查结果显示，13-17 岁学生中有 26% 使用 AI 机器人帮助完成作业，两倍于 2023 年的 13%；54% 的学生认为使用 AI 工具研究新主题是可接受的用途，18% 的学生认为使用 AI 写作文是可接受的, 29% 学生认为用 AI 解数学题是可接受的；15%- 21% 的学生对上述任务表示不确定。11 年级和 12 年级的青少年（31%）比七年级和八年级学生（20%）更可能在家庭作业使用 ChatGPT，79% 的青少年听说过 ChatGPT，高于 2023 年的 67%。",
-          "link": "https://www.solidot.org/story?sid=80387",
-          "publishedOn": "2025-01-21T13:34:44.000Z",
-          "wordCount": 201,
-          "title": "愈来愈多的美国青少年使用 ChatGPT 完成作业",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80386",
-          "author": null,
-          "description": "哥伦布写道：\nPaul Gardner Allen于1953年1月21日出生在华盛顿州西雅图市。在湖滨中学（Lakeside School）他认识了他的学弟Bill Gates，两人共同的兴趣让他们走在一起，进而成为了计算机领域的传奇伙伴。1968年，学校购买了一台ASR-33电传打字终端和计算时间，这让他们有了接触计算机的机会，很快就迷上了编程。高中毕业后，Allen进入华盛顿州立大学就读，两年后辍学到波士顿担任Honeywell的程序员，同时他还和在哈佛就读的Gates保持联系。1974年12月的一天，他们看到了《大众电子》杂志上的Altair 8800广告，开始了他们的创业之旅。\n1980年，Allen促成了微软与IBM的合作，为IBM PC开发操作系统。正是他建议从西雅图计算机产品公司购买86-DOS（后来成为MS-DOS），这个决定为微软奠定了在个人计算机领域的主导地位。1982年，Allen被诊断出霍奇金淋巴瘤。他开始重新思考人生，并于1983年离开了微软的日常运营，但保留了公司董事会成员的职位。1990年霍奇金病痊愈后，他完全离开了微软，开始了新的人生篇章。1986年，他成立了Vulcan Inc.，这个平台让他得以在更广阔的领域探索未来。他的投资横跨人工智能、太空探索、脑科学等前沿领域，展现出对人类未来的深远思考。\nPaul Allen是一个永远充满好奇心的创新者，他的人生轨迹从个人计算机的开拓一直延伸到太空探索的远大愿景。2018年10月15日，Paul Allen在西雅图因非霍奇金淋巴瘤复发去世，享年65岁。在他去世后，Gates发表声明说：\"Personal computing would not have existed without him.\"",
-          "link": "https://www.solidot.org/story?sid=80386",
-          "publishedOn": "2025-01-21T08:55:08.000Z",
-          "wordCount": 197,
-          "title": "Paul Allen 诞辰 72 周年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80385",
-          "author": null,
-          "description": "对孕妇的脑成像研究发现，其脑灰质在孕期发生了变化。研究人员总共分析了 179 名女性的大脑，以怀孕前的扫描作为基线，研究怀孕中期和晚期以及产后前六个月的大脑结构变化。在第一次怀孕期间，大脑中的灰质体积减少了 4.9%，在产后期间部分恢复。这些变化在 94% 的大脑中被观察到，在与社会认知相关的区域尤为突出。该研究还首次证明，大脑中这些形态变化的进化与两种雌激素（雌三醇-3-硫酸酯和雌酮-硫酸酯）的波动有关，这两种激素在怀孕期间呈指数级增长，在分娩后回到基础水平。研究发现，产后灰质体积恢复百分比较高的女性在产后 6 个月时与婴儿的联系更紧密，母亲的幸福感是积极增强大脑变化与母子关系联系的关键因素。",
-          "link": "https://www.solidot.org/story?sid=80385",
-          "publishedOn": "2025-01-21T08:33:49.000Z",
-          "wordCount": 168,
-          "title": "孕妇的脑灰质在孕期发生变化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80384",
-          "author": null,
-          "description": "佳能推出了一款新的 iOS 直播应用 Live Switcher Mobile，支持最多三个摄像视角，用户可以轻触几下轻松在不同视角之间切换。该应用目前不支持佳能摄像机，通过 RTMP 协议自动切换摄像头，支持在 YouTube、Twitch 和 Facebook 等平台进行串流传输。Live Switcher Mobile 有免费和付费版本，免费版本支持 720p 分辨率，还有广告和水印；付费版本为每月 18 美元，支持 1080p 分辨率。佳能表示会在未来更新中支持其摄像机。",
-          "link": "https://www.solidot.org/story?sid=80384",
-          "publishedOn": "2025-01-21T07:42:07.000Z",
-          "wordCount": 182,
-          "title": "佳能的直播应用不支持佳能摄像机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80383",
-          "author": null,
-          "description": "IDC 的数据显示，2024 年第四季度，中国智能手机市场出货量约 7,643 万台，同比增长 3.9%。各价位段新品的集中上市以及部分省市开始的新机购买补贴政策推动整体市场延续了之前 4 个季度的增长趋势。vivo、华为和小米等厂商的强势表现帮助 Android 市场增幅超过 7%；但是 iPhone16 系列销售难有起色，使得 iOS 市场继续同比下降。2024 年全年中国智能手机市场出货量约 2.86 亿台，同比增长 5.6%，时隔两年触底反弹。其中华为出货量同比增长超过 50% 占 16.6% 排名第二，苹果则下降 5.4% 占 15.6% 排名第三，vivo 同比增长 10.3% 占 17.2% 排名第一。苹果在 800 美元以上市场份额依然占据 60%。",
-          "link": "https://www.solidot.org/story?sid=80383",
-          "publishedOn": "2025-01-21T07:03:42.000Z",
-          "wordCount": 206,
-          "title": "华为 2024 年手机出货量增长 50%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80382",
-          "author": null,
-          "description": "2024 年美国夏威夷莫纳克亚天文台一座气象站测量的大气二氧化碳水平增长了 3.58 ppm，这是自 1958 年有记录以来的最大增幅。创纪录的增长部分是由于化石燃料燃烧和其他人类行为产生的二氧化碳排放量在 2024 年创下历史新高。此外在长期变暖的基础上，厄尔尼诺天气模式推动了全球高温纪录，从而引发了大量野火。首次对大气二氧化碳水平的测量正是在莫纳克亚天文台进行的。而现在通过卫星观测可以直接测量大气二氧化碳的全球平均水平。根据哥白尼大气监测局的数据，这一数字在 2024 年增长了 2.9ppm。这虽然不是一个纪录，却是开展卫星观测以来最大的增幅之一。",
-          "link": "https://www.solidot.org/story?sid=80382",
-          "publishedOn": "2025-01-20T16:06:42.000Z",
-          "wordCount": 175,
-          "title": "2024 年大气二氧化碳增幅创纪录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80381",
-          "author": null,
-          "description": "欧盟考虑在消费品中禁止使用 PFAS，但基本工业用途不包括在内。PFAS（全氟烷基和多氟烷基物质）涵盖约 9000 种化合物，主要用于制造防水、防污或耐热型产品。这类化学品被广泛应用于数十个行业产出的几千种日常消费品，包括防污剂、地毯以及鞋子。PFAS 被称为“永久留存的化学品”，因为它们不会自然分解。它们会在包括人类在内的各种动物体内积累，与癌症、新生儿缺陷、肝病、甲状腺疾病、免疫力下降、激素紊乱及其他一系列严重健康问题相关。欧盟环境专员 Jessika Roswall 接受采访时表示寻求的是消费品禁令，这一禁令对人类和环境很重要，宣布禁令让工业界能做好准备淘汰 PFAS。",
-          "link": "https://www.solidot.org/story?sid=80381",
-          "publishedOn": "2025-01-20T15:56:57.000Z",
-          "wordCount": 172,
-          "title": "欧盟考虑在消费品中禁止使用 PFAS",
-          "imageUrl": null
         }
       ]
     },
@@ -933,6 +873,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/coop-browserling-customer",
+          "author": null,
+          "description": "Success! Coop, a leading Norwegian retailer, is now a Browserling customer!\nIt's another small step for a ling but one giant leap for ling kind.\nWhat Is Browserling?\nBrowserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.\nWho Uses Browserling?\nBrowserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.\nSee you next time!",
+          "link": "https://catonmat.net/coop-browserling-customer",
+          "publishedOn": "2025-01-30T03:03:03.000Z",
+          "wordCount": 237,
+          "title": "Coop is now a Browserling customer!",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/dish-browserling-customer",
           "author": null,
@@ -1021,16 +971,6 @@
           "publishedOn": "2025-01-21T21:21:21.000Z",
           "wordCount": 241,
           "title": "NY Power Authority is now a Browserling customer!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/mta-browserling-customer",
-          "author": null,
-          "description": "Success! MTA (Metropolitan Transportation Authority) is now a Browserling customer!\nIt's another small step for a ling but one giant leap for ling kind.\nWhat Is Browserling?\nBrowserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.\nWho Uses Browserling?\nBrowserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.\nSee you next time!",
-          "link": "https://catonmat.net/mta-browserling-customer",
-          "publishedOn": "2025-01-20T20:20:20.000Z",
-          "wordCount": 239,
-          "title": "MTA is now a Browserling customer!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
