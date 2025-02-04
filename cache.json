@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=50913",
+          "author": "青小蛙",
+          "description": "Cursor 是一款非常酷的用 AI 写代码的编辑器，DeepSeek-R1 更不用说了，早已火出圈。​ 目前阶段，除了需要付费使用的 Composer（它可以独立自主的完成创建文件、写代码、保存文件",
+          "link": "https://www.appinn.com/cursor-deepseek-ri/",
+          "publishedOn": "2025-02-03T12:36:43.000Z",
+          "wordCount": 2644,
+          "title": "此时此刻，用免费的 Cursor 使用免费的 DeepSeek-R1 模型",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-32.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=50907",
+          "author": "青小蛙",
+          "description": "Iris 是一款开源的轻量级视频播放器，支持本地文件和 WebDAV，拥有 Windows 与 Android 客户端，支持快捷键与手势操作，可切换字幕和音轨、支持播放列表。@Appinn 来自发现频",
+          "link": "https://www.appinn.com/iris-player/",
+          "publishedOn": "2025-02-03T10:20:36.000Z",
+          "wordCount": 2692,
+          "title": "Iris – 开源轻量级视频播放器，支持本地文件和 WebDAV[Win/Android]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-31.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=50903",
           "author": "青小蛙",
           "description": "在一个月前，青小蛙大言不惭的提出了这样一个话题：CameraFileCopy – 开发者一定是个天才，不用网络，用空气传输文件，引得无数网友来喷。在 B 站的视频中，都快吵起来了（不",
@@ -90,26 +110,6 @@
           "wordCount": 2676,
           "title": "时隔800天，万能任务栏工具 TrafficMonitor 居然更新了",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/Copy-of-appinn-homework-23.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50857",
-          "author": "青小蛙",
-          "description": "Kiwi 浏览器在 GitHub 托管的源代码于 2025年1月23日开始处于存档状态，其位于 Google Play 商店的链接也已经下架，GitHub 页面也新增了重要提示：Kiwi 浏览器现已存",
-          "link": "https://www.appinn.com/kiwi-browser-goodbye/",
-          "publishedOn": "2025-01-25T11:54:55.000Z",
-          "wordCount": 2595,
-          "title": "Kiwi 浏览器源代码已存档，Play 商店下架，2025年1月后将不再维护",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/IMG_4742.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50817",
-          "author": "青小蛙",
-          "description": "@VIctoryRoad 同学在这里推荐了好多款「免费、可商用」字体，还附上了对应的作者、授权协议、预览图，非常棒，一起看看吧。@Appinn 具体字体列表： 感兴趣的同学可以前往了解详情（包括字体下",
-          "link": "https://www.appinn.com/victoryroad-11-fonts/",
-          "publishedOn": "2025-01-25T03:22:56.000Z",
-          "wordCount": 2564,
-          "title": "推荐11 款 VIctoryRoad 比较喜欢的免费、可商用字体",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/Copy-of-appinn-homework-22.jpg"
         }
       ]
     },
@@ -118,6 +118,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=384050",
+          "author": "Ryan Trimble",
+          "description": "Are partials the only thing keeping you writing CSS in Sass? With a little configuration, it's possible to compile partial CSS files without a Sass dependency. Ryan Trimble has the details.\nCompiling CSS With Vite and Lightning CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/compiling-css-with-vite-and-lightning-css/",
+          "publishedOn": "2025-02-03T15:23:37.000Z",
+          "wordCount": 4188,
+          "title": "Compiling CSS With Vite and Lightning CSS",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384050"
+        },
         {
           "id": "https://css-tricks.com/?p=383910",
           "author": "Geoff Graham",
@@ -172,16 +182,6 @@
           "wordCount": 3634,
           "title": "Revisiting CSS Multi-Column Layout",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384002"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383506",
-          "author": "Preethi",
-          "description": "When it comes to positioning elements on a page, including text, there are many ways to go about it in CSS — the literal position property with corresponding inset-* properties, translate, margin, anchor() (limited browser support at the moment), and so forth. The offset property is another one that belongs in that list.\nPositioning Text Around Elements With CSS Offset originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/positioning-text-around-elements-with-css-offset/",
-          "publishedOn": "2025-01-24T14:59:25.000Z",
-          "wordCount": 2761,
-          "title": "Positioning Text Around Elements With CSS Offset",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383506"
         }
       ]
     },
@@ -213,6 +213,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80466",
+          "author": null,
+          "description": "天文学家利用南非 MeerKAT 射电望远镜发现了一个大小相当于银河系 32 倍多的巨型射电星系。该星系距离地球约 14.4 亿光年，其跨度约为 330 万光年，是银河系大小的 32 倍多。这一新发现将增进人类对这种宇宙中大型星系的起源和演变的了解。巨型射电星系是宇宙中罕见的庞然大物，其核心区域可以喷射出延伸数百万光年的热等离子体喷流。这些等离子体喷流来自位于星系中心的超大质量黑洞，在射电波段可以被观测到。研究人员为该星系起名为“Inkathazo”，在南非的科萨语和祖鲁语中意为“麻烦”。",
+          "link": "https://www.solidot.org/story?sid=80466",
+          "publishedOn": "2025-02-03T14:41:47.000Z",
+          "wordCount": 185,
+          "title": "天文学家发现一巨型射电星系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80465",
+          "author": null,
+          "description": "过去四十年海洋变暖的速度翻了两番多。1980 年代后期海洋温度以每十年约 0.06 摄氏度的速度上升，如今为每十年 0.27 摄氏度。海洋变暖加速是地球日益增长的能量不平衡推动的——地球吸收的太阳能量多于逃逸到太空的能量。自 2010 年以来能量不平衡翻了一番，部分是温室气体浓度增加，部分是地球反射到太空的太阳光比以前少。2023 年到 2024 年初，全球海洋温度连续 450 天创历史新高。部分变暖来自太平洋的厄尔尼诺现象。但与 2015-16 年的厄尔尼诺现象进行对比时，科学家发现创纪录变暖一部分可归因于过去 10 年海面变暖速度比几十年前更快。44% 的变暖归因于海洋以更快的速度吸收热量。研究结果表明未来 20 年海洋温度的上升速度很可能超过过去 40 年的水平。",
+          "link": "https://www.solidot.org/story?sid=80465",
+          "publishedOn": "2025-02-03T14:08:12.000Z",
+          "wordCount": 186,
+          "title": "过去四十年海洋表面变暖速度翻了两番",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80464",
+          "author": null,
+          "description": "Ubuntu 发行版开发团队同意将 Matrix 作为开发沟通的即时通讯平台。Matrix 是一个端对端加密、去中心化的即时通讯联邦系统，在开源社区被广泛使用，其中包括桌面环境项目 GNOME 和 KDE，发行版如 Linux Mint 以及Mozilla。从 3 月起 Matrix 将取代 IRC 成为 Ubuntu 开发对话、请求、会议等活动的主要工具，目前只有 #ubuntu-devel 和 #ubuntu-release Libera IRC 频道迁移到 Matrix，其它 Ubuntu 开发频道可选择迁移。IRC  在很多开发者中间仍然备受推崇，然而新一代的开发者青睐功能更丰富的即时通讯工具，Matrix 的加密、消息历史记录、多媒体支持等能满足他们的需求。",
+          "link": "https://www.solidot.org/story?sid=80464",
+          "publishedOn": "2025-02-03T13:12:18.000Z",
+          "wordCount": 210,
+          "title": "Ubuntu 的开发讨论平台将从 IRC 迁移到 Matrix",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80459",
           "author": null,
@@ -562,66 +592,6 @@
           "wordCount": 169,
           "title": "AI 犯的错误和人类不同",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80421",
-          "author": null,
-          "description": "370 名富豪向全球各国政府和国家领导人递交了一封公开信，呼吁向自己这样的超级富豪多征税。这封公开信写道：“经验告诉我们，超级富豪相比其他任何人拥有更多发言权。这令人不适，但确是现实。”信中指出，由此可见，极端财富对民主产生威胁。而解决方案简单快捷：“必须对我们这些超级富豪征税。”数据显示，富人越来愈富，穷人越来越穷。过去一年全球新增 204 位亿万富翁。此外，超级富豪的财富总值也在快速增加：从 13 万亿美元增长至 2024 年的 15 万亿美元。然而，与此同时，全球有 7.3 3亿人食不果腹，比 2019 年多出约 1.52 亿人。全球目前共有 2,769 位亿万富翁。2024 年这些亿万富翁的财富增长速度是 2023 年的三倍。最富有的 10 位亿万富翁的财富值平均每天增长 1 亿美元。",
-          "link": "https://www.solidot.org/story?sid=80421",
-          "publishedOn": "2025-01-25T14:29:15.000Z",
-          "wordCount": 184,
-          "title": "数百超级富豪呼吁对其征收更高的税",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80420",
-          "author": null,
-          "description": "微软去年宣布为 PC 键盘引入了一个专门的 Copilot 按键，类似 Windows 按键，Copilot 键按下之后会在 Windows 中打开 Copilot AI 助手。然而 PC 并不只运行 Windows，那么 Copilot 按键在 Linux 下会对应什么功能？Linux 6.14 合并了联想工程师 Mark Pearson 递交的补丁，加入了对 Copilot 按键的支持，但 Copilot 键在 Linux 下的具体功能由桌面环境决定。",
-          "link": "https://www.solidot.org/story?sid=80420",
-          "publishedOn": "2025-01-25T13:52:00.000Z",
-          "wordCount": 207,
-          "title": "Linux 6.14 加入对微软 Copilot 按键的支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80419",
-          "author": null,
-          "description": "当攻击者利用后门在目标网络获得访问权限之后，他们希望其努力成果不会被竞争对手利用或被安全软件监测出。他们可使用的一种应对之策是为后门配备一个被动代理，该代理将保持休眠状态，直到接收到“魔法封包”。安全公司 Lumin Technology 的研究人员报告了 J-Magic 后门使用“魔法封包”悄悄控制了数十个运行 Juniper Network Junos OS 的企业 VPN。J-Magic 是轻量级后门程序，只运行在内存之中，这增加了其被安全软件检测出的难度。研究人员是在 VirusTotal 上发现了 J-Magic，发现它在 36 个组织的网络内运行，他们不清楚后门是如何安装的。J-Magic 从 2023 年中期至少活跃到 2024 年中期，其目标覆盖半导体、能源、制造业和 IT 垂直企业。",
-          "link": "https://www.solidot.org/story?sid=80419",
-          "publishedOn": "2025-01-24T16:49:14.000Z",
-          "wordCount": 189,
-          "title": "秘密后门使用“魔法封包”感染企业 VPN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80418",
-          "author": null,
-          "description": "Informa 的游戏行业调查《State of the Game Industry》显示，八成开发商有 PC 游戏项目，而一年前这一数字是 66%。PC 一直是游戏开发商的首选平台，但此前开发商选择 PC 开发游戏的比例一直维持在六成左右，过去一年选择 PC 的比例大幅提高，背后的确切原因不太清楚。Informa 猜测可能与 Valve 的掌机 Steam Deck 日益流行有关。Steam Deck 的销量估计有数百万台，过去几年其它厂商也推出了掌机，但总体数量似乎不足以对开发商的选择产生巨大影响。",
-          "link": "https://www.solidot.org/story?sid=80418",
-          "publishedOn": "2025-01-24T15:42:08.000Z",
-          "wordCount": 189,
-          "title": "调查显示八成游戏开发商开发 PC 游戏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80417",
-          "author": null,
-          "description": "《自然》的调查显示七成回应者转投 Bluesky。在参加调查的 5,300 人中，53% 表示曾使用过 X 但现在已经离开。被调查者表示，Bluesky 上的有毒内容、虚假信息和干扰比 X 少得多。Bluesky 目前有逾 2700 万用户，比 X 低一个数量级。受访者主要将 Bluesky 用于与联络其他科学家、跟踪最新研究动态以及宣传自己的研究。他们认为 Bluesky 是一个比 X 更友好的讨论科学的论坛。",
-          "link": "https://www.solidot.org/story?sid=80417",
-          "publishedOn": "2025-01-24T15:20:58.000Z",
-          "wordCount": 184,
-          "title": "《自然》调查显示七成回应者使用 Bluesky",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80416",
-          "author": null,
-          "description": "《冰与火之歌》作者乔治 R.R.马丁（George R.R. Martin）与洛斯阿拉莫斯国家实验室物理学家 Ian Tregillis 合作在《American Journal of Physics》发表了一篇物理学论文《Ergodic Lagrangian dynamics in a superhero universe》，推导了虚构外星病原体 Wild Cards 病毒的数学模型。Wild Cards 病毒出自马丁主编的同名超级英雄科幻小说系列，故事设定在二战后的美国的架空历史，主要讲述感染了 Wild Cards 病毒的人类，这种来自外星的病毒可以重写 DNA 并使幸存者发生变异，但九成的感染者会死亡。幸存者有 9% 变异成 Jokers，1% 成为超能力者 Aces，部分超能力者的超能力毫无用处因此叫 deuces。马丁在打造 Wild Cards 宇宙时认为超英漫画中超级英雄超能力来源太多，他希望他创造的宇宙只有一个来源，他的合作者 Melinda M. Snodgrass 建议用病毒。《American Journal of Physics》期刊并不很有名，其影响分子只有 0.8。",
-          "link": "https://www.solidot.org/story?sid=80416",
-          "publishedOn": "2025-01-24T14:50:56.000Z",
-          "wordCount": 207,
-          "title": "乔治 R.R.马丁合作发表了一篇物理学论文",
-          "imageUrl": null
         }
       ]
     },
@@ -702,6 +672,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/601-million-google-clicks",
+          "author": null,
+          "description": "+0.01M Clicks. Every. Single. Day. 🚀\nYesterday Online PNG Tools smashed through 6M Google clicks and today it's smashed through 6.01M Google clicks!\nSmash too and see you tomorrow at 6.02M clicks! 💦\nPS. Use coupon code SMASHLING for a 30% discount on these tools. 💸",
+          "link": "https://catonmat.net/601-million-google-clicks",
+          "publishedOn": "2025-02-03T03:03:03.000Z",
+          "wordCount": 126,
+          "title": "6.01 Million Google Clicks 🤑",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/6-million-google-clicks",
           "author": null,
@@ -790,16 +770,6 @@
           "publishedOn": "2025-01-26T06:06:06.000Z",
           "wordCount": 239,
           "title": "Lululemon is now a Browserling customer!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/alliancebernstein-browserling-customer",
-          "author": null,
-          "description": "Success! AllianceBernstein, a global leader in investment management, is now a Browserling customer!\nIt's another small step for a ling but one giant leap for ling kind.\nWhat Is Browserling?\nBrowserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.\nWho Uses Browserling?\nBrowserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.\nSee you next time!",
-          "link": "https://catonmat.net/alliancebernstein-browserling-customer",
-          "publishedOn": "2025-01-25T05:05:05.000Z",
-          "wordCount": 239,
-          "title": "AllianceBernstein is now a Browserling customer!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
