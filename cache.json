@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=50919",
+          "author": "青小蛙",
+          "description": "DeepClaude 是一个有趣的项目，它将 DeepSeek-R1 的推理过程传递给 Claude 3.5 Sonnet 来使用，利用两种模型各自的优势，输出更高质量的内容。@Appinn 大致思路",
+          "link": "https://www.appinn.com/deepclaude/",
+          "publishedOn": "2025-02-04T09:08:49.000Z",
+          "wordCount": 2718,
+          "title": "DeepClaude – 双引擎开源 AI 项目：让 DeepSeek-R1 与 Claude 3.5 Sonnet 一起工作",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-34.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=50916",
+          "author": "青小蛙",
+          "description": "RPG Maker VX Ace(RMVA) 是一款面向初学者的游戏开发工具，无需编程知识就能制作出完整的角色扮演游戏。它提供了直观的点击式界面，包含地图编辑器、数据库系统和事件编辑器等核心功能。目前",
+          "link": "https://www.appinn.com/rpg-maker-vx-ace/",
+          "publishedOn": "2025-02-04T08:17:23.000Z",
+          "wordCount": 2686,
+          "title": "无代码游戏制作工具 RPG Maker VX Ace(RMVA) 在 Steam 限免",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-33.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=50913",
           "author": "青小蛙",
           "description": "Cursor 是一款非常酷的用 AI 写代码的编辑器，DeepSeek-R1 更不用说了，早已火出圈。​ 目前阶段，除了需要付费使用的 Composer（它可以独立自主的完成创建文件、写代码、保存文件",
@@ -100,16 +120,6 @@
           "wordCount": 2621,
           "title": "指南针mini – 带海拔高度的 iPhone 指南针应用[春节送19个码]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/Copy-of-appinn-homework-24.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50863",
-          "author": "青小蛙",
-          "description": "TrafficMonitor 时隔 800 天更新 V1.85 版本，修复兼容性问题，增加 Direct2D 渲染方式，可使用彩色emoji。@Appinn TrafficMonitor 是一款可以在",
-          "link": "https://www.appinn.com/trafficmonitor-v1-85/",
-          "publishedOn": "2025-01-26T06:20:00.000Z",
-          "wordCount": 2676,
-          "title": "时隔800天，万能任务栏工具 TrafficMonitor 居然更新了",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/Copy-of-appinn-homework-23.jpg"
         }
       ]
     },
@@ -214,6 +224,16 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=80467",
+          "author": null,
+          "description": "两大自由软件项目 Freedesktop 和 Alpine Linux 正在寻找新托管商，因为原托管商 Equinix Metal 宣布停止提供裸机服务器销售和服务。两大自由软件项目必须在四月底前迁移到新托管商。X.org/Freedesktop.org 拥有一个逾 400GB 的数据库存储和近 100TB 的数据存储。Alpine Linux 发行版被广泛容器和嵌入式设备，它每月使用约 800TB 的带宽。",
+          "link": "https://www.solidot.org/story?sid=80467",
+          "publishedOn": "2025-02-04T14:32:21.000Z",
+          "wordCount": 202,
+          "title": "Freedesktop 和 Alpine Linux 寻找新托管商",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=80466",
           "author": null,
           "description": "天文学家利用南非 MeerKAT 射电望远镜发现了一个大小相当于银河系 32 倍多的巨型射电星系。该星系距离地球约 14.4 亿光年，其跨度约为 330 万光年，是银河系大小的 32 倍多。这一新发现将增进人类对这种宇宙中大型星系的起源和演变的了解。巨型射电星系是宇宙中罕见的庞然大物，其核心区域可以喷射出延伸数百万光年的热等离子体喷流。这些等离子体喷流来自位于星系中心的超大质量黑洞，在射电波段可以被观测到。研究人员为该星系起名为“Inkathazo”，在南非的科萨语和祖鲁语中意为“麻烦”。",
@@ -241,6 +261,46 @@
           "publishedOn": "2025-02-03T13:12:18.000Z",
           "wordCount": 210,
           "title": "Ubuntu 的开发讨论平台将从 IRC 迁移到 Matrix",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80463",
+          "author": null,
+          "description": "去年 10 月 Linux 项目以合规为由宣布禁止 11 名俄罗斯内核开发者，Linux 作者 Linus Torvalds 称与针对俄罗斯的制裁相关。Linux 基金会发表了一篇博文称：开源是软件供应链和生产系统的基本组成部分。因此它已经达到了相当成熟的阶段，需要新方法来应对复杂的世界...然而，越来越高的网络安全风险和法规遵从性正在给开源社区带来必须应对的负担...制裁法规通常非常古老，从未考虑过对支撑现代日常生活、社会制度和商业的开放合作进行豁免。Linux基金会致力于开源和全球协作，并在遵守基金会和我们的社区成员运营所在地法律法规的前提下负责任地这样做...虽然全球各地都有制裁计划，但开发者需要注意类似美国外国资产管制办公室（OFAC）制裁的法律法规...OFAC 目前制裁的国家和地区包括俄罗斯、古巴、伊朗、朝鲜、叙利亚，乌克兰的克里米亚、顿涅茨克和卢甘斯克地区。Linux 基金会称：OFAC的制裁规则是“严格责任”，这意味着您是否知道这些规则并不重要。违反这些规则可能会导致严重的处罚，因此了解它们可能会如何影响您的开源工作是很重要的。",
+          "link": "https://www.solidot.org/story?sid=80463",
+          "publishedOn": "2025-02-02T15:08:10.000Z",
+          "wordCount": 192,
+          "title": "Linux 基金会谈论美国 OFAC 制裁和开源项目的应对",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80462",
+          "author": null,
+          "description": "历史悠久的开源自由软件新闻周刊 LWN（Linux Weekly News）主编 Jonathan Corbet 宣布向订阅者提供 EPUB 格式的电子书，方便用户在电子书阅读器上阅读每周特稿。任何每周特稿内容都可以通过在网址后添加 /epub 转变为 EPUB 格式的电子书。LWN 还偶尔会精心挑选内容创建特定的电子书作为演示供所有读者下载阅读，比如 Kangrejos 2024、2024 Linux Storage、Filesystem、Memory Management 和 BPF Summit。非订阅用户可以使用知名电子书软件 Calibre 抓取 RSS 源生成往期的每周特稿电子书。",
+          "link": "https://www.solidot.org/story?sid=80462",
+          "publishedOn": "2025-02-02T14:24:23.000Z",
+          "wordCount": 196,
+          "title": "LWN 提供 EPUB 格式的电子书",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80461",
+          "author": null,
+          "description": "苹果宣布开源 Swift Build，源代码托管在 GitHub 上，采用 Apache License 2.0 许可证。Swift 语言被用于为苹果旗下的各种操作系统开发软件，Swift Build 是一个强大且可扩展的构建引擎，提供了一套用于构建 Swift 项目的构建规则。Swift Build 是 Xcode 使用的引擎，开源库还包括对 Linux 和 Windows 的支持。",
+          "link": "https://www.solidot.org/story?sid=80461",
+          "publishedOn": "2025-02-02T14:04:08.000Z",
+          "wordCount": 196,
+          "title": "苹果开源 Swift Build",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80460",
+          "author": null,
+          "description": "根据 Valve 公布的 2025 年 1 月 Steam 硬件和软件调查，Linux 份额比上个月下降 0.23% 至 2.06%，Windows 增加 0.45% 至 96.55%，其中 Windows 11 份额下降 1.50% 而即将停止支持的 Windows 10 增加 0.48% 至  42.87%，苹果 macOS 减少 0.21% 至 1.40%。简体中文用户数减少 0.77% 至 29.18%%，英语用户减少 8.17% 至 33.97%，除此之外只有日语和韩语用户略有增加。在整个 Steam 平台，英特尔处理器占 63.75%；AMD 处理器减少 2.54% 至 36.19%。因掌机 Steam Deck 的流行，最流行的 Linux 发行版是 Arch Linux，而 Steam Deck 运行的 SteamOS 是基于 Arch。",
+          "link": "https://www.solidot.org/story?sid=80460",
+          "publishedOn": "2025-02-02T12:42:31.000Z",
+          "wordCount": 229,
+          "title": "Steam Linux 1 月份额略有下降",
           "imageUrl": null
         },
         {
@@ -522,76 +582,6 @@
           "wordCount": 162,
           "title": "研究人员发现中欧电网用非加密无线信号控制",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80428",
-          "author": null,
-          "description": "甲骨文以及包括微软在内的外部投资者正在谈判接手 TikTok 美国业务。根据正在协商的协议，TikTok 母公司字节跳动将会保留少数股权，但算法、数据收集和应用更新将由甲骨文负责，甲骨文已经为 TikTok 提供了网络基础设施。知情人士称，甲骨文和白宫官员周五就潜在交易举行了一次会议，另一次会议已安排在下周。知情人士称，甲骨文有兴趣收购价值数百亿美元的 TikTok 股份。根据针对 TikTok 的禁令，字节跳动必须剥离 TikTok 才能继续在美国运营，它不能秘密留下后门。",
-          "link": "https://www.solidot.org/story?sid=80428",
-          "publishedOn": "2025-01-26T11:56:18.000Z",
-          "wordCount": 178,
-          "title": "甲骨文等正在谈判接手 TikTok 美国业务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80427",
-          "author": null,
-          "description": "科学家首次实时追踪了微塑料在小鼠体内的移动。微塑料颗粒被免疫细胞吞噬，通过血液传播，最后滞留在大脑血管中。研究人员不清楚这是否会发生在人类身上。微塑料是长度不到 5 微米的塑料颗粒，它已经无处不在，已进入人类大脑、肝脏和肾脏，但研究微塑料对人类健康的影响才刚刚起步。北京大学的研究人员使用荧光成像技术观察了聚苯乙烯在小鼠大脑中的移动，追踪了塑料颗粒被免疫细胞吞噬在脑血管中积累的过程。微塑料会造成长达四周的阻塞，会减少血流量，其行为类似血栓，会降低小鼠的活动能力。",
-          "link": "https://www.solidot.org/story?sid=80427",
-          "publishedOn": "2025-01-26T04:22:31.000Z",
-          "wordCount": 162,
-          "title": "小鼠研究发现微塑料会堵塞大脑血液流动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80426",
-          "author": null,
-          "description": "根据发表在《The British Journal of Psychiatry》期刊上的一项研究，注意缺陷多动障碍（attention deficit hyperactivity disorder，ADHD）患者有着更短的预期寿命，更高的心理健康风险。研究对比了 30,029 名 ADHD 成年人与 300,400 名未患该病的成年人的初级卫生保健数据。结果显示 ADHD 男性寿命短 4.5-9 年，女性寿命短 6.5-11 年。研究发现 ADHD 与焦虑、抑郁、自残和自杀风险增加，以及吸烟率和饮酒增加率相关。",
-          "link": "https://www.solidot.org/story?sid=80426",
-          "publishedOn": "2025-01-26T03:46:19.000Z",
-          "wordCount": 185,
-          "title": "ADHD 患者有更短的预期寿命",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80425",
-          "author": null,
-          "description": "根据发表在《Nature Energy》期刊上的一项研究，电动汽车的寿命与燃油汽车基本相同。研究小组估计电动汽车的寿命为 18.4 年，相比下汽油车的寿命为 18.7 年，柴油车的寿命为 16.8 年。汽车工程师一直怀疑电动汽车会比汽油或柴油汽车更可靠，因为它们的活动部件要少得多。最早进入市场的电动汽车才进入寿命末期，因此寿命相关的数据还相当有限。英国伯明翰大学、伦敦经济学院、加州圣迭戈和瑞士伯尔尼大学的研究人员分析了 3 亿条 MOT 道路适用性测试记录估算了所有汽车的故障率。",
-          "link": "https://www.solidot.org/story?sid=80425",
-          "publishedOn": "2025-01-26T03:27:23.000Z",
-          "wordCount": 173,
-          "title": "研究称电动汽车的寿命与燃油汽车相差无几",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80424",
-          "author": null,
-          "description": "大英博物馆（British Museum）网络基础设施遭被解雇的 IT 雇员破坏而于周五部分关闭。博物馆本周末继续开放，但付费展如丝绸之路展只有少数持票者能参观，因为管理预订的 IT 系统无法使用。博物馆发言人称，上周被解雇的 IT 合同工周四晚上闯入博物馆关闭了多个系统，警察到场逮捕了他。",
-          "link": "https://www.solidot.org/story?sid=80424",
-          "publishedOn": "2025-01-25T16:01:35.000Z",
-          "wordCount": 175,
-          "title": "大英博物馆遭前 IT 雇员攻击而部分关闭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80423",
-          "author": null,
-          "description": "巴基斯坦议会下院周四通过了一项受争议法案，赋予政府对社交媒体的全面控制，包括逮捕传播虚假信息的网民。批评者称政府正试图进一步遏制言论自由。根据《Prevention of Electronic Crimes Act》，巴基斯坦政府将成为一个新机构，该机构有权下令立即屏蔽社交媒体上被认为“非法和冒犯性”的内容，如批评法官、军方、议会或省议会的内容。发布此类内容的个人和组织也可能被社媒屏蔽。",
-          "link": "https://www.solidot.org/story?sid=80423",
-          "publishedOn": "2025-01-25T15:39:27.000Z",
-          "wordCount": 165,
-          "title": "巴基斯坦议会通过法案全面控制社交媒体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80422",
-          "author": null,
-          "description": "在微积分上犯错的人类通常会对微积分相关的其它问题说“我不会”。但 AI 或者大模型犯的错误和人类不同。AI 的错误看起来是随机发生的，不是围绕特定主题，大模型在微积分上犯错的可能性与说出卷心菜吃山羊的可能性差不多。大模型和人类一样会非常自信的说完全错误的话，它这种随机的错误让人难以信任其在复杂多步骤问题中的推理。如果你想要将 AI 应用于解决业务问题，仅仅让它了解产品盈利的因素是不够的，它可能会忘记钱是什么东西。",
-          "link": "https://www.solidot.org/story?sid=80422",
-          "publishedOn": "2025-01-25T15:12:20.000Z",
-          "wordCount": 169,
-          "title": "AI 犯的错误和人类不同",
-          "imageUrl": null
         }
       ]
     },
@@ -672,6 +662,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/602-million-google-clicks",
+          "author": null,
+          "description": "+0.01M Clicks. Every. Single. Day. 🚀\nYesterday Online PNG Tools smashed through 6.01M Google clicks and today it's smashed through 6.02M Google clicks! 🤑\nSmash too and see you tomorrow at 6.03M clicks! 💦\nPS. Use coupon code SMASHLING for a 30% discount on these tools. 💸",
+          "link": "https://catonmat.net/602-million-google-clicks",
+          "publishedOn": "2025-02-04T04:04:04.000Z",
+          "wordCount": 127,
+          "title": "6.02 Million Google Clicks 🤩",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/601-million-google-clicks",
           "author": null,
@@ -760,16 +760,6 @@
           "publishedOn": "2025-01-27T07:07:07.000Z",
           "wordCount": 241,
           "title": "British Wool is now a Browserling customer!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/lululemon-browserling-customer",
-          "author": null,
-          "description": "Success! Lululemon, a global leader in athletic apparel, is now a Browserling customer!\nIt's another small step for a ling but one giant leap for ling kind.\nWhat Is Browserling?\nBrowserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.\nWho Uses Browserling?\nBrowserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.\nSee you next time!",
-          "link": "https://catonmat.net/lululemon-browserling-customer",
-          "publishedOn": "2025-01-26T06:06:06.000Z",
-          "wordCount": 239,
-          "title": "Lululemon is now a Browserling customer!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
