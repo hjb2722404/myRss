@@ -100,16 +100,6 @@
           "wordCount": 2681,
           "title": "泼凉水：我不配部署 DeepSeek R1",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/Copy-of-appinn-homework-26.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50886",
-          "author": "青小蛙",
-          "description": "PowerToys v0.88.0 在大年初一早上更新，集成了我们的老朋友，老牌屏幕缩放、标记工具 ZoomIt，属于强强联合了。@Appinn ZoomIt ZoomIt 是一个有着 19 年历史的",
-          "link": "https://www.appinn.com/powrtoys-v0-88-0/",
-          "publishedOn": "2025-01-29T08:16:05.000Z",
-          "wordCount": 2607,
-          "title": "PowerToys v0.88.0 更新：集成老牌屏幕工具 ZoomIt",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/01/Copy-of-appinn-homework-2-1.jpg"
         }
       ]
     },
@@ -182,21 +172,6 @@
           "wordCount": 1973,
           "title": "The Mistakes of CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384089"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383818",
-          "author": "Juan Diego Rodríguez",
-          "description": "The @view-transition at-rule has two descriptions. One is the commonly used navigation descriptor. The second is types, the lesser-known of the two, and one that probably envies how much attention navigation gets. But read on to learn why we need types and how it opens up new possibilities for custom view transitions when navigating between pages.\nWhat on Earth is the `types` Descriptor in View Transitions? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-on-earth-is-the-types-descriptor-in-view-transitions/",
-          "publishedOn": "2025-01-29T14:13:53.000Z",
-          "wordCount": 2838,
-          "title": "What on Earth is the `types` Descriptor in View Transitions?",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/01/custom-view-transition.mp4",
-            "length": "2633346",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383818"
         }
       ]
     },
@@ -239,6 +214,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80500",
+          "author": null,
+          "description": "图书作者指控社交巨头 Meta 下载了盗版电子书去训练其 AI 模型，最新证据显示 Meta 的盗版规模惊人。Meta 通过安娜的档案（Anna's Archive）下载了至少 81.7 TB 的数据，其中包括来自 Z-Library 和 LibGen 的至少 35.7 TB 的数据(安娜的档案包含了 Z-Lib、Sci-Hub 和 LibGen 的镜像站)。Meta 之前还从 LibGen 下载了 80.6 TB 的数据。图书作者称，Meta 非法的电子书库种子下载规模惊人，认为这只是冰山一角，这些盗版电子书库仅占 Meta 盗版版权作品数量的 0.008%。",
+          "link": "https://www.solidot.org/story?sid=80500",
+          "publishedOn": "2025-02-07T15:48:52.000Z",
+          "wordCount": 210,
+          "title": "Meta 从盗版电子书库下载了逾百 TB 的电子书",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80499",
+          "author": null,
+          "description": "Rust-for-Linux 进入内核的努力遭到了内核维护者 Christoph Hellwig 的强烈反对。他拒绝了 DMA Rust 抽象补丁，不希望 Rust 代码靠近 DMA 层。他说支持另一种语言（他明确表示指的是任何语言，而不是特指 Rust）将使整个 Linux 项目无法维护。鉴于这一状况，负责将 Linux 移植到苹果 Arm 平台的 Asahi Linux 项目开发者 Hector Martin 在内核邮件列表上宣布退出内核开发，表示对内核开发过程以及社区管理方法失去信心，Asahi Linux 项目开发工作将主要集中在下游。",
+          "link": "https://www.solidot.org/story?sid=80499",
+          "publishedOn": "2025-02-07T15:28:16.000Z",
+          "wordCount": 221,
+          "title": "由于维护者拒绝 DMA Rust 抽象 Hector Martin 宣布退出内核开发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80498",
+          "author": null,
+          "description": "2019 年，Google 在改进安全、隐私和性能的名义下宣布了 Manifest V3（MV3）新扩展系统。搜索巨人坚称它没有计划杀死广告屏蔽扩展。现在 Google Chrome 正在强推 Manifest V3 扩展，准备年内禁止旧的 Manifest V2 扩展，安装 Manifest V2 扩展的用户已经开始看到相关警告。Google 有没有信守诺言？广告屏蔽扩展的开发者最有发言权。AdGuard 开发商称 Manifest V3 下的远程代码执行策略迫使其移除 Quick Fixes 过滤器，暂时放弃自定义过滤器。这两种过滤器对屏蔽广告至关重要。AdGuard 称它的扩展被 Chrome Web Store 审核团队拒绝了五次，理由是违反旨在防止扩展允许远程执行恶意代码的远程代码策略。uBlock Origin(uBO) 作者 Raymond Hill 表示不会在 MV3 下开发相似功能的扩展，他发布了一个精简版本 uBlock Origin Lite (uBO Lite)，建议原版用户使用 Firefox。EFF 隐私扩展 Privacy Badge 开发者 Alexei Miagkov 称在 MV3 下开发扩展比在 MV2 困难得多，他对 Google 此举感到困惑。他指出 Google 还加大了用户将扩展固定在工具栏上的难度。",
+          "link": "https://www.solidot.org/story?sid=80498",
+          "publishedOn": "2025-02-07T14:32:20.000Z",
+          "wordCount": 245,
+          "title": "扩展开发者称 Google 没有信守在宣布 Manifest V3 时许下的承诺",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80497",
+          "author": null,
+          "description": "英国政府秘密向苹果下达命令，要求创建一个 iCloud 后门，允许其安全官员不受阻碍的访问全世界用户的加密数据。这一要求史无前例，从未有任何其他民主国家提出类似要求。英国内政大臣是以“technical capability notice（技术能力通知）”的形式发布这一命令的，要求苹果根据英国 2016 年的 UK Investigatory Powers Act(IPA)法案提供后门访问。苹果拒绝对此置评。英国内政部也拒绝置评，拒绝确认或否认有此类通知的存在。为了避免违反对用户的安全承诺，苹果可能选择停止在英国提供加密储存。",
+          "link": "https://www.solidot.org/story?sid=80497",
+          "publishedOn": "2025-02-07T13:42:51.000Z",
+          "wordCount": 184,
+          "title": "英国政府命令苹果创建 iCloud 加密后门",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80496",
+          "author": null,
+          "description": "Goolge 本月初释出了两组安全补丁 2025-02-01 和 2025-02-05，修复了 48 个漏洞，其中包括一个 Android 内核 0day 高危漏洞。该漏洞编号 CVE-2024-53104，影响 Linux 内核的 USB Video Class(UVC)驱动，属于越界写入 bug，存在于 uvc_driver.c 的 uvc_parse_format()函数中。该漏洞会导致内存损坏、程序崩溃甚至任意代码执行。攻击者可利用该 bug 提权，可用于安装恶意程序、更改或删除数据，或创建拥有完整管理权限的新帐户。该漏洞已被用于针对性的有限攻击。Android 用户最好立即更新到最新的安全补丁。",
+          "link": "https://www.solidot.org/story?sid=80496",
+          "publishedOn": "2025-02-07T13:26:06.000Z",
+          "wordCount": 208,
+          "title": "Goolge 修复正被利用的 Android 内核 0day 漏洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80495",
+          "author": null,
+          "description": "Joseph Firmage 在青少年时期创办了一家软件公司，之后以 2400 万美元卖给了 Novell。他在 1995 年创办了 Web 设计公司 USWeb，一度与亚马逊的贝佐斯（Jeff Bezos）和雅虎的杨致远齐名，1999 年 USWeb 的估值高达 25 亿美元。然而在 1998 年底 Firmage 声称外星人光临了他的卧室，之后辞去 CEO 一职开始致力于传播人类与外星人接触的信仰。他花了几十年时间从​​事 UFO 研究，试图发明反重力推进技术，从投资者手中筹集到数百万美元。他目前因为虐待老年人指控而入狱。与他同住的一位 80 岁老妇人说，他承诺每月支付 3,000 美元租金但从未支付。而他通过担任这名老妇的“看护人”控制了其财务，但没有支付账单，他切断了她与其家人的联系，将她留在盐湖城一个没有水也没有电的家中，社工报告该女子体重大幅下降。",
+          "link": "https://www.solidot.org/story?sid=80495",
+          "publishedOn": "2025-02-07T10:30:29.000Z",
+          "wordCount": 196,
+          "title": "相信外星人的上世纪硅谷高管面临监禁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80494",
+          "author": null,
+          "description": "传统煮鸡蛋的方法有两种：在 100 摄氏度的沸水中硬煮，但这会导致蛋黄完全凝固；通过真空低温烹调，在 60 到 70 摄氏度下慢慢炖煮一小时，但这会让蛋白不够熟。科学家现在报告了一种被称为“周期性烹饪”的新方法。它不仅让每一颗煮鸡蛋都能达到完美的均匀熟度，还能提升其营养成分。科学家利用计算流体动力学软件模拟出了这种全新的煮蛋过程：将鸡蛋在 100 摄氏度的沸水和 30 摄氏度的冷水中交替浸泡，每两分钟转移一次，总共持续 32 分钟。在这段时间里，蛋白逐渐变得细腻而富有弹性，蛋黄则保持了奶油般的柔软质感。经过处理后蛋黄中的多酚含量显著增加，这是一种被认为对健康非常有益的微量营养素。",
+          "link": "https://www.solidot.org/story?sid=80494",
+          "publishedOn": "2025-02-07T08:50:37.000Z",
+          "wordCount": 181,
+          "title": "科学家声称找到煮鸡蛋的完美方法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80493",
+          "author": null,
+          "description": "尽管 2024 年被众多安全公司认为是勒索软件攻击数量最高的一年，然而根据区块链分析公司 Chainalysis 公布的报告，2024 年勒索软件付款额比 2023 年下降了 35%。Chainalysis 跟踪到的 2024 年付款总额为 8.125亿美元，相比下 2023 年为 12.5 亿美元。Chainalysis 发现勒索软件攻击活动在 2024 年下半年显著减少。勒索软件付款减少的一个重要原因是知名勒索组织 Lockbit和 Alphv/BlackCat 被执法机构破坏。另一个重要原因是被攻击的组织加强了安全保护措施，很多组织拒绝支付赎金，采用了更可靠的安全实践和使用备份。",
+          "link": "https://www.solidot.org/story?sid=80493",
+          "publishedOn": "2025-02-07T08:20:49.000Z",
+          "wordCount": 201,
+          "title": "2024 年勒索软件付款额下降 35%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80492",
+          "author": null,
+          "description": "美国投行 Jefferie 的分析师认为 DeepSeek 的 AI App 有很高的可能性被禁。美国联邦政府，海军和德克萨斯州已经封禁了该应用，它可能会受到类似 Tiktok 禁令的法律限制。美国消费者可能会被限制访问 DeepSeek 的服务，但 DeepSeek 开源了其模型，因此本地运行或自托管 DeepSeek 的模型有助于消除其安全风险。分析师称，美国公司正致力于再现 DeepSeek 降低 AI 推理成本的技术。",
+          "link": "https://www.solidot.org/story?sid=80492",
+          "publishedOn": "2025-02-07T07:42:28.000Z",
+          "wordCount": 208,
+          "title": "美国分析师认为 DeepSeek 的 AI App 有很高的可能性被禁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80491",
+          "author": null,
+          "description": "发表在《Nature Communication》期刊上的一项研究发现，短缺暴露在空气污染下会影响一个人专注于日常任务的能力。研究人员分析了 26 名参与者暴露在来自蜡烛烟的高浓度颗粒物或干净空气一小时前后的认知测试数据。研究发现，即使短暂暴露在污染下也会影响参与者的选择性注意力和情绪识别。论文合作者、伯明翰大学的 Thomas Faherty 博士称，暴露于空气污染中的参与者不擅长避免分散注意力的信息，类似去超市购物会容易被冲动购物而分散注意力忘记自己的目标。研究还发现，暴露在污染下的参与者评估情绪识别的认知测试中表现更差，但工作记忆没有受到影响，表明部分大脑功能比其它功能更能适应短期污染暴露。",
+          "link": "https://www.solidot.org/story?sid=80491",
+          "publishedOn": "2025-02-07T07:21:46.000Z",
+          "wordCount": 190,
+          "title": "空气污染会影响日常工作的专注力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80490",
+          "author": null,
+          "description": "自然选择偏爱简洁而非冗长。例如喊“趴下！”比叫“小心，有飞行物来了，你需要避开！”要快且有效得多。两种关于缩略的语言学定律 — 即 Menzerath 定律和 Zipf 定律— 可用于计算发声的效率。前者描述了当较长的词或歌曲中包含较短的元素（如音节和音符）时，效率会如何提高。后者则指出，当使用频率较高的单个元素较短时，沟通效率会提高。研究人员将 Menzerath 定律和 Zipf 定律应用于鲸歌，分析了包括海豚、齿鲸和须鲸在内的总共 16 种鲸类动物的歌声序列。在这 16 个物种中，有 11 个的语音发声表现出与人类语言相当或更高程度的 Menzerath 定律。例外的是虎鲸、赫氏海豚（Hector’s dolphins）、康氏海豚（Commerson’s dolphins）、海氏海豚（Heaviside’s dolphins）和北太平洋露脊鲸（North Pacific right whales）。研究还发现，只有座头鲸和蓝鲸遵循 Zipf 定律，而座头鲸是仅有的一个在遵循程度上与人类语言相当的物种。",
+          "link": "https://www.solidot.org/story?sid=80490",
+          "publishedOn": "2025-02-07T05:56:00.000Z",
+          "wordCount": 185,
+          "title": "鲸歌的沟通效率与人类相似",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80489",
           "author": null,
@@ -648,56 +733,6 @@
           "wordCount": 180,
           "title": "Douglas Engelbart 诞辰 100 周年",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80447",
-          "author": null,
-          "description": "过去几天，用户通过社交媒体报告社交巨人 Meta 旗下的 Facebook 会自动删除涉及 Linux 的帖子或链接，声称“可能会促进恶意软件的共享、创建或托管”。Facebook 就运行在 Linux 服务器上，社交巨人此举被认为不可思议。很多人怀疑是用于内容审查的自动化程序出现 bug 导致的。Meta 现在回应称问题已经解决。",
-          "link": "https://www.solidot.org/story?sid=80447",
-          "publishedOn": "2025-01-29T14:28:13.000Z",
-          "wordCount": 191,
-          "title": "Meta 短暂禁止用户发表任何涉及 Linux 的帖子",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80446",
-          "author": null,
-          "description": "英特尔 13-14 代酷睿处理器去年爆出因电压过高而导致的系统不稳定问题，芯片巨人为此释出了多轮微码以缓解该问题。游戏通常对 CPU 有高性能要求，为避免出现不稳定问题，今天很多游戏在运行前会检测下 CPU 类型以及其使用的微码版本，如果英特尔 CPU 的微码版本过低，游戏会弹出警告建议用户升级。腾讯去年 12 月上线了 FPS 多人对战游戏《三角洲行动》，根据社交媒体和论坛上的谈论，以及视频博主上传的视频，WeGame 版本的 《三角洲行动》（Steam 版本未知）会主动帮助用户“解决”潜在不稳定问题，方法是修改 CPU 调度与 CPU 性能释放策略，而且不检测 CPU 类型以及微码版本号，一刀切的应用于所有 CPU。AMD CPU 本来不存在该问题，但腾讯也修改了 AMD CPU 的性能释放策略，显著降低其性能。玩家在退出《三角洲行动》之后，这一修改仍然有效，意味着此后你的所有程序都会显著降低性能。对此问题，腾讯尚未公开予以回应。",
-          "link": "https://www.solidot.org/story?sid=80446",
-          "publishedOn": "2025-01-29T12:58:50.000Z",
-          "wordCount": 194,
-          "title": "腾讯游戏《三角洲行动》被发现会修改用户 CPU 调度和性能释放策略",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80445",
-          "author": null,
-          "description": "美国每天约有 2,500 人死于心血管疾病，心脏病是美国排在第一位的死因，中风是第 5 大死因，癌症是第二大，意外死亡是第三大。心脏病和中风加起来所夺去的生命比所有癌症和意外死亡加起来还要多。根据美国心脏协会《2025 年心脏病和中风统计资料更新》，2022 年美国心血管疾病 (CVD) 相关的总死亡人数为 941,652 人，较 2021 年的 931,578 人增加超过 10,000 人。心血管疾病的风险因子包括高血压、肥胖和糖尿病，所有这些健康问题在美国和全球范围内均大幅增多。数据显示近 47% 的美国成年人患有高血压，超过 72% 的美国成年人体重不健康（BMI ≥25），其中近 42% 为肥胖（BMI≥30），57% 的美国成年人患有第二型糖尿病或糖尿病前期。如果目前的趋势持续下去，到 2050 年高血压和肥胖将分别影响逾1.8 亿美国成年人，而糖尿病的盛行率将攀升至逾 8,000 万人。",
-          "link": "https://www.solidot.org/story?sid=80445",
-          "publishedOn": "2025-01-29T12:18:47.000Z",
-          "wordCount": 193,
-          "title": "心脏病是美国的第一死因",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80444",
-          "author": null,
-          "description": "纽约公共图书馆调查了 1,974 名读者，以了解图书馆给他们带来的影响。结果显示： 92% 受访者表示访问图书馆后情绪变得非常平静；74% 受访者表示图书馆对他们适应世界的能力产生了积极影响；90% 受访者表示图书馆对他们学习新事物产生了积极影响；88% 受访者表示图书馆促进了他们的个人成长；89% 受访者表示图书馆让他们更能欣赏以前不太了解的事物；77% 受访者表示图书馆让他们觉得一生所做的事情是有价值有意义的；82% 受访者表示图书馆让他们对未来更乐观；75% 受访者表示图书馆让他们更能共情他人...总而言之，图书馆的积极影响无处不在，但我们生活在一个人们越来越少看书的时代。",
-          "link": "https://www.solidot.org/story?sid=80444",
-          "publishedOn": "2025-01-29T12:03:00.000Z",
-          "wordCount": 182,
-          "title": "公共图书馆能给人们的生活带来积极影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80443",
-          "author": null,
-          "description": "全球暖化导致极端高温更频繁更持久的出现，虽然气温上升会减少寒潮导致的死亡人数，但高温增加的死亡人数要多得多。对欧洲 854 个城市的气温相关死亡率以及未来趋势的研究发现，到 2100 年极端高温可能导致欧洲死亡人数增加 50%。在三种气候情景下，南欧尤其是地中海周围的净死亡人数增幅最多，其次是中欧，北欧的预计死亡人数则有望下降，但不足以抵消南欧增加的死亡人数。研究人员估计，在 2015-2099 年间，高温气候将导致欧洲死亡人数额外增加 230 万人。",
-          "link": "https://www.solidot.org/story?sid=80443",
-          "publishedOn": "2025-01-28T15:45:12.000Z",
-          "wordCount": 205,
-          "title": "研究估计到 2100 年欧洲高温死亡人数增加五成",
-          "imageUrl": null
         }
       ]
     },
@@ -767,6 +802,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/605-million-google-clicks",
+          "author": null,
+          "description": "+0.01M Clicks. Every. Single. Day. 🚀\nYesterday Online PNG Tools smashed through 6.04M Google clicks and today it's smashed through 6.05M Google clicks!\nSmash too and see you tomorrow at 6.06M clicks! 💦\nPS. Use coupon code SMASHLING for a 30% discount on these tools. 💸",
+          "link": "https://catonmat.net/605-million-google-clicks",
+          "publishedOn": "2025-02-07T07:07:07.000Z",
+          "wordCount": 126,
+          "title": "6.05 Million Google Clicks 🤑",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/604-million-google-clicks",
           "author": null,
@@ -875,16 +920,6 @@
           "publishedOn": "2025-01-30T03:03:03.000Z",
           "wordCount": 237,
           "title": "Coop is now a Browserling customer!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/dish-browserling-customer",
-          "author": null,
-          "description": "Success! Dish Network, the top satellite TV provider, is now a Browserling customer!\nIt's another small step for a ling but one giant leap for ling kind.\nWhat Is Browserling?\nBrowserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.\nWho Uses Browserling?\nBrowserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.\nSee you next time!",
-          "link": "https://catonmat.net/dish-browserling-customer",
-          "publishedOn": "2025-01-29T09:09:09.000Z",
-          "wordCount": 239,
-          "title": "Dish is now a Browserling customer!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
