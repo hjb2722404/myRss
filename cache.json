@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=50948",
+          "author": "青小蛙",
+          "description": "今天在群里有同学问青小蛙： 这倒是一个刚需问题呀，就像小众软件的奇怪标签：#早晚都要用，真的是早晚都要用呀。 于是，在小众软件的微博上抛出了这个问题，除了直接插入旧硬盘以外，似乎并没有什么好的解决方案",
+          "link": "https://www.appinn.com/new-pc-restore-data/",
+          "publishedOn": "2025-02-10T10:00:08.000Z",
+          "wordCount": 2568,
+          "title": "请教：买了新电脑（PC），如何把旧电脑里的数据转移到新电脑？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/qa5.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=50943",
           "author": "青小蛙",
           "description": "@BHznJNs 同学在论坛转载了自己博客的内容：《花了一天时间，调研了 40 个 kanban 类软件》，非常详细的分享了 40 款 kanban 类软件的看法和使用经验。@Appinn kanba",
@@ -100,16 +110,6 @@
           "wordCount": 2603,
           "title": "qrs – 用空气传输文件 · 续",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-30.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50901",
-          "author": "青小蛙",
-          "description": "过年没啥好玩的东西（太懒了没去看），从发现频道列表挑了一些有用的软件，大家一起来看下，看看哪个值得一测。 一键将本地音频文件夹转换为私人播客 RSS 订阅源 一键将本地音频文件夹转换为私人播客 RSS",
-          "link": "https://www.appinn.com/faxian-250201/",
-          "publishedOn": "2025-02-01T14:04:16.000Z",
-          "wordCount": 2619,
-          "title": "这些值得一看的软件｜但不一定有用[250201]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/10/Appinn-feature-images-2024-10-01T212540.705.jpg"
         }
       ]
     },
@@ -118,6 +118,26 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=384306",
+          "author": "Ryan Trimble",
+          "description": "I enjoy organizing code and find cascade layers a fantastic way to organize code explicitly as the cascade looks at it. The neat part is, that as much as it helps with \"top-level\" organization, cascade layers can be nested, which allows us to author more precise styles based on the cascade and inheritance.\nOrganizing Design System Component Patterns With CSS Cascade Layers originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/organizing-design-system-component-patterns-with-css-cascade-layers/",
+          "publishedOn": "2025-02-10T14:06:52.000Z",
+          "wordCount": 4019,
+          "title": "Organizing Design System Component Patterns With CSS Cascade Layers",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384306"
+        },
+        {
+          "id": "https://css-tricks.com/?p=384563",
+          "author": "Geoff Graham",
+          "description": "Stationery Pad is a handy way to nix a step in your workflow if you regularly use document templates on your Mac. The long-standing Finder feature essentially tells a file’s parent application to open a copy of it by default, ensuring that the original file remains unedited.\nMake Any File a Template Using This Hidden macOS Tool originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/make-any-file-a-template-using-this-hidden-macos-tool/",
+          "publishedOn": "2025-02-10T13:54:00.000Z",
+          "wordCount": 1894,
+          "title": "Make Any File a Template Using This Hidden macOS Tool",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384563"
+        },
         {
           "id": "https://css-tricks.com/?p=384468",
           "author": "Geoff Graham",
@@ -152,16 +172,6 @@
           "wordCount": 4188,
           "title": "Compiling CSS With Vite and Lightning CSS",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384050"
-        },
-        {
-          "id": "https://css-tricks.com/?p=383910",
-          "author": "Geoff Graham",
-          "description": "Did you see the release notes for Chrome 133? It's currently in beta, but the Chrome team has been publishing a slew of new articles with pretty incredible demos that are tough to ignore. I figured I'd round those up in one place.\nChrome 133 Goodies originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/chrome-133-goodies/",
-          "publishedOn": "2025-01-31T15:27:50.000Z",
-          "wordCount": 2572,
-          "title": "Chrome 133 Goodies",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383910"
         }
       ]
     },
@@ -188,6 +198,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11522",
+          "author": "张 鑫旭",
+          "description": "JS Set对象又新增了N多的API，可以实现对象或数组取交集、合集和差集，以及判断包含与否关系的功能，都是比较使用的API特性。",
+          "link": "https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/",
+          "publishedOn": "2025-02-10T13:46:12.000Z",
+          "wordCount": 1581,
+          "title": "JS Set新支持了intersection, union, difference等方法",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=11519",
           "author": "张 鑫旭",
           "description": "Web浏览器又新增多个Array数组API方法，这些方法在数组处理的同时均不会改变原数组内容，这在Vue、React等开发场景中颇为受用。",
@@ -204,6 +224,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80521",
+          "author": null,
+          "description": "化疗和放疗让大部分儿童癌症患者都能活下来，但他们付出了巨大代价。很多人会早逝于心脏病、中风或继发性癌症等慢性疾病，原因是他们的细胞更快衰老。科学家发现儿童癌症幸存者在 30 岁时其细胞衰老程度已经类似 70 多岁和 80 多岁的老年人。而且随着时间的推移，情况会愈来愈严重。过去十年，被称为 senolytics 的药物被证明能消除小鼠的衰老细胞。senolytics 药物包括了化疗药物 dasatinib，以及广泛存在于果蔬中的天然化合物 quercetin 和 fisetin。现在科学家招募 50-60 名已呈现衰老迹象的儿童癌症幸存者，他们的平均年龄 40 岁，参与者将接受口服剂量的 dasatinib、quercetin 或 fisetin，观察这些药物能否在六个月内改善身体机能。然后每五年进行一次跟踪，以评估是否有助于延长预期寿命。这是 senolytics 能否用于延长老年人健康寿命的第一步。",
+          "link": "https://www.solidot.org/story?sid=80521",
+          "publishedOn": "2025-02-10T16:07:45.000Z",
+          "wordCount": 190,
+          "title": "癌症疫苗让小鼠恢复活力但会对人类有效吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80520",
+          "author": null,
+          "description": "Aaron Swartz 的大理石雕像上周五在互联网档案馆的礼堂揭幕，有大约 300 人出席，半身像下方刻有文字“The Internet's Own Boy”。本周重 312 磅的雕像将先转移至大厅，直至获得许可放置在当地公园内。Aaron Swartz 出生于 1986 年，参与了 RSS 和 Markdown、web.py 等项目的开发，被视为是 Reddit 的联合创始人。2011 年 1 月他因为在 MIT 下载学术论文而遭到逮捕，面临最高 35 年的刑期，他拒绝了认罪协议，于 2013 年 1 月 11 日自杀身亡。他在当年被追授进入互联网名人堂。",
+          "link": "https://www.solidot.org/story?sid=80520",
+          "publishedOn": "2025-02-10T15:10:07.000Z",
+          "wordCount": 206,
+          "title": "Aaron Swartz 雕像在互联网档案馆揭幕",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80518",
+          "author": null,
+          "description": "欧几里得太空望远镜在一个 1884 年就被观察到的星系 NGC 6505 周围捕捉到了完美的爱因斯坦环。爱因斯坦环是广义相对论预言的一种现象，光在太空大质量物体周围弯曲，可以充当巨大的透镜放大遥远的天体。NGC 6505 星系距离地球约 590 米光年，它放大的背景星系距离地球 44.2 亿光年。欧洲航天局（ESA）的欧几里得望远镜于 2023 年 7 月 1 日发射，以古希腊数学家欧几里得的名字命名，它的轨道位置是日地之间的拉格朗日 L2 点，距离地球 160 万公里。它的任务是测绘宇宙中暗物质的大尺度分布结构，并确认暗能量的性质。",
+          "link": "https://www.solidot.org/story?sid=80518",
+          "publishedOn": "2025-02-10T11:32:56.000Z",
+          "wordCount": 185,
+          "title": "欧几里得望远镜捕捉到完美爱因斯坦环",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80517",
+          "author": null,
+          "description": "最新研究显示，月球南极附近的薛定谔撞击盆地（Schrödinger Basin）周围的两条巨大峡谷形成时间不到 10 分钟！这两条峡谷分别为薛定谔峡谷（Vallis Schrödinger）与普朗克峡谷（Vallis Planck），规模惊人：薛定谔峡谷长约 270 公里，宽 20 公里，最深达 2.7 公里；普朗克峡谷：长约 280 公里，宽 27 公里，最深可达 3.5 公里。作为比较，地球上的大峡谷全长 446 公里，最深 1.95 公里，而月球上的这两条峡谷不仅在宽度上相当，深度甚至更甚一筹。与大峡谷经历数百万年水流侵蚀而成的地质演化过程不同，月球上的这两条峡谷是在约 38 亿年前的一场强烈撞击事件中迅速形成。当时一颗小行星或彗星以斜向高速撞击月球南极附近，形成薛定谔撞击盆地，并抛射出大量岩石。这些高速喷射出的岩石再次撞击月表，在不到 10 分钟内雕刻出这些深峡谷。这些撞击释放的能量超过人类所有核试爆总能量的 700 倍。",
+          "link": "https://www.solidot.org/story?sid=80517",
+          "publishedOn": "2025-02-10T10:05:59.000Z",
+          "wordCount": 197,
+          "title": "月球南极附近的两条大峡谷是在不到 10 分钟内形成的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80516",
+          "author": null,
+          "description": "The Document Foundation 宣布释出 LibreOffice 25.2。主要新特性包括：能移除任何文档中的个人信息，包括作者名字和时间戳、编辑时间、打印机名称和配置、文档模板、评论的作者和日期以及跟踪更改；支持读写 ODF v1.4；改进与私有 OOXML 文档的互操作性；在定义一个默认证书后自动签名文档；LibreOffice 25.8 将移除对 Windows 7 和 8/8.1 的支持；依赖 Python 的扩展和功能在  Windows 7 将停止工作，等等。",
+          "link": "https://www.solidot.org/story?sid=80516",
+          "publishedOn": "2025-02-10T09:45:55.000Z",
+          "wordCount": 188,
+          "title": "LibreOffice 25.2 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80515",
+          "author": null,
+          "description": "夏威夷大学 Mānoa 分校的研究人员分析了不同活动与改善老年人认知能力的关系。研究发现，工作、志愿服务以及文字游戏、电脑使用和社交等活动有助于改善每个人的认知健康。对于没有携带阿尔茨海默病易感基因  apolipoprotein E (APOE)ε4 等位基因的人，兼职工作和高强度的志愿服务最有效。即使携带了 APOEε4 等位基因，认知刺激活动可以促进认知健康。研究报告发表在《Journal of Alzheimer’s Disease Reports》期刊上。",
+          "link": "https://www.solidot.org/story?sid=80515",
+          "publishedOn": "2025-02-10T09:36:09.000Z",
+          "wordCount": 198,
+          "title": "工作、自愿服务和文字游戏等有助于改善老年人的认知",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80514",
+          "author": null,
+          "description": "研究人员发现，人类大脑中的微塑料浓度远高于其他器官，而且这种积累似乎在随着时间的推移而增加，仅在过去8年中就增加了 50%。微塑料是空气、水和土壤中广泛存在的微小降解聚合物。它们在过去的 50 年间已经进入了人体的各个部位，包括肝脏、肾脏、胎盘等。然而，新研究发现，大脑中的微塑料浓度超过了这些器官。更令人担忧的是，大部分塑料颗粒比预想的要小得多，约为纳米级大小，是病毒的两到三倍大。此外，痴呆症患者大脑组织中的微塑料含量比其他人高出 10 倍，但目前尚无法确定这是否是导致痴呆的原因或仅仅是疾病过程中的一种结果。",
+          "link": "https://www.solidot.org/story?sid=80514",
+          "publishedOn": "2025-02-10T06:27:43.000Z",
+          "wordCount": 171,
+          "title": "大脑微塑料浓度高于其他器官",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80513",
+          "author": null,
+          "description": "Google 研究人员披露了 AMD Zen CPU 的微码签名验证漏洞，该漏洞允许有本地管理员权限的攻击者加载恶意 CPU 微码，能根据需要改变芯片的行为，突破芯片保护措施如最新版本的 AMD Secure Encrypted Virtualization、SEV-SNP 或 Dynamic Root of Trust Measurement。Google 研究人员在演示中利用修改后的微码让 AMD Zen CPU 总是生成 4 作为随机数。4 随机数出自 XKCD 漫画。研究人员演示的概念验证攻击针对的平台包括了基于 Milan 的 Epyc 服务器芯片和基于 Phoenix 的 Ryzen 9 桌面处理器。Google 于 2024 年 9 月 25 日向 AMD 报告了漏洞。AMD 于 2024 年 12 月 17 日向其客户提供了补丁。鉴于供应链的复杂性，Google 在 131 天后才公开漏洞。",
+          "link": "https://www.solidot.org/story?sid=80513",
+          "publishedOn": "2025-02-10T05:52:36.000Z",
+          "wordCount": 243,
+          "title": "如何让 AMD Zen CPU 总是生成 4 作为随机数",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80512",
+          "author": null,
+          "description": "区分机器人和人类的 reCAPTCHA 测试最初是卡内基梅隆大学的一个研究项目，Google 在收购该项目之后将其作为免费服务提供给客户，作为交换是使用网站的访问者免费训练它的视觉识别系统。因为 Google 的商业模式是广告，收集用户数据日益引发了隐私方面的担忧。今天的 reCAPTCHA 已经很容易被机器人破解，但 Google 仍然继续提供这项服务，因为 reCAPTCHA 已成为 Google 的一个强大跟踪工具。加州欧文的前计算机安全研究员 Andrew Searles 博士与其同事 2023 年在预印本平台 arXiv 发表论文《Dazed & Confused: A Large-Scale Real-World User Study of reCAPTCHAv2》，发现 Google 广泛使用的 CAPTCHA 系统主要是作为一种跟踪用户行为和收集数据的机制，几乎无法抵御机器人。研究表明，reCAPTCHA 监视了用户的 cookie、浏览历史和浏览器环境（包括画布渲染、屏幕分辨率、鼠标移动和用户代理数据）——所有这些都可用于广告和跟踪目的。对逾 3,600 名用户的分析发现，解决基于图像的挑战所需时间比解决复选框挑战长 557%，研究人员得出结论，reCAPTCHA 耗费了社会约 8.19 亿小时的人力时间和价值 61 亿美元的工资，同时通过其跟踪功能和数据收集创造了巨额利润，仅跟踪 cookie 的价值就估计为 8880 亿美元。",
+          "link": "https://www.solidot.org/story?sid=80512",
+          "publishedOn": "2025-02-10T03:44:01.000Z",
+          "wordCount": 230,
+          "title": "reCAPTCHA 变成了 Google 的间谍软件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80511",
+          "author": null,
+          "description": "螳螂虾是一种生活在热带和亚热带海域的甲壳类动物，以其强大的捕食能力而著称。这种生物进化出了一种独特的捕食方式：它们能以逾 60 公里时速击打猎物，瞬间产生的冲击力足以击碎贝类的坚硬外壳，甚至可以击碎玻璃。尽管它们的攻击如此猛烈，螳螂虾的拳击肢却几乎不会受到任何损伤。科学家发现，螳螂虾的拳击肢——被称为“指节棒”（dactyl club）——具有复杂的多层结构，这种结构使其能够在击打猎物时吸收产生的冲击波，从而保护自身免受损伤。指节棒的外骨骼由一种天然聚合物几丁质（chitin）和类似于人类骨骼和牙齿中的钙质矿物组成。这种结构分为三层，每一层都具有独特的功能和排列方式。这项研究为设计新型人工材料提供了重要的启示。",
+          "link": "https://www.solidot.org/story?sid=80511",
+          "publishedOn": "2025-02-09T15:52:03.000Z",
+          "wordCount": 168,
+          "title": "科学家揭示螳螂虾如何在不损伤自身的情况下拳击猎物",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80510",
           "author": null,
@@ -713,36 +833,6 @@
           "wordCount": 229,
           "title": "Steam Linux 1 月份额略有下降",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80459",
-          "author": null,
-          "description": "OpenAI 公司的 CEO Sam Altman、首席研究官 Mark Chen、首席产品官 Kevin Weil、工程副总裁 Srinivas Narayanan、AI 研究负责人 Michelle Pokrass 以及研究主管 Hongyu Ren 周五参加了 Reddit 的 AMA 活动。最近火热无比的中国 AI 创业公司 DeepSeek 给 OpenAI 带来了巨大压力。Altman 承认 DeepSeek 削弱了 OpenAI 在 AI 领域的领先地位，他还认为 OpenAI 在开源其技术上“站在了历史错误的一边”。OpenAI 曾开源过模型，但最近几年倾向于私有的闭源开发方法。Altman 称该公司需要找出一种不同的开源策略，他同时强调不是所有人都认同这一观点，开源也不是目前的最优先事项。Kevin Weil 在后续回复中表示，OpenAI 在考虑开源不再先进的旧模型。他没有透露更多信息。",
-          "link": "https://www.solidot.org/story?sid=80459",
-          "publishedOn": "2025-02-01T14:13:22.000Z",
-          "wordCount": 231,
-          "title": "OpenAI 考虑开源旧模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80458",
-          "author": null,
-          "description": "NASA OSIRIS-REx 探测器于 2020 年 10 月登陆距地球 3.2 亿公里的小行星 Bennu，收集了 120 克尘埃与岩石样本，2023 年 9 月样本舱降落在犹他州沙漠。对样本的分析发现了盐类矿物如岩盐（halite）与钾石盐（sylvite），以及有机化合物与构成生命的物质，包括 14 种与地球生物过程相关的胺基酸，以及某些未在已知生物体中发现的胺基酸。此外还检测到氨（ammonia）及全部 5 种 RNA 与 DN A中的核碱基。虽然目前未发现生命，但这些结果表明，小行星母天体曾拥有富含碳与盐水的环境，以及适合形成生命的基本条件。",
-          "link": "https://www.solidot.org/story?sid=80458",
-          "publishedOn": "2025-02-01T13:24:20.000Z",
-          "wordCount": 193,
-          "title": "Bennu 小行星样本发现构成生命的基本成分",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80457",
-          "author": null,
-          "description": "WhatsApp 警告近百名记者和公民社团成员成为以色列公司 Paragon Solutions 的间谍软件的攻击目标。目前不清楚幕后攻击者的身份，类似其它间谍软件开发商，Paragon 的产品主要供政府客户使用，WhatsApp 表示无法确定下令攻击的客户身份。Paragon 间谍软件使用了零点击漏洞，也就是目标不需要点击任何恶意链接就会被感染。WhatsApp 拒绝披露受害者的位置，它已经向 Paragon 发去了“中止令（cease and desist）”信函，考虑采取法律行动。Paragon 的间谍软件被称为 Graphite，其功能与 NSO Group 的 Pegasus 间谍软件相当，手机一旦感染就能被完全控制，能够访问 WhatsApp 和 Signal 等加密应用的信息。",
-          "link": "https://www.solidot.org/story?sid=80457",
-          "publishedOn": "2025-02-01T12:33:59.000Z",
-          "wordCount": 194,
-          "title": "WhatsApp 称记者等成为以色列间谍软件的目标",
-          "imageUrl": null
         }
       ]
     },
@@ -812,6 +902,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/607-million-google-clicks",
+          "author": null,
+          "description": "+0.01M Clicks. Every. Single. Day. 🚀\nYesterday Online PNG Tools smashed through 6.06M Google clicks and today it's smashed through 6.07M Google clicks!\nSmash too and see you tomorrow at 6.08M clicks! 💦\nPS. Use coupon code SMASHLING for a 30% discount on these tools. 💸 \nNo wait! Create a new programming language that's just Rust but with emojis as syntax. Call it Dust. Write a new ps command in it. Post it on Hacker News with the title \"Why Dust is the Future of Systems Programming\". Get 50k GitHub stars and a job offer from Mozilla. Yesss!",
+          "link": "https://catonmat.net/607-million-google-clicks",
+          "publishedOn": "2025-02-10T10:10:10.000Z",
+          "wordCount": 178,
+          "title": "6.07 Million Google Clicks! 🤑",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/606-million-google-clicks",
           "author": null,
@@ -890,16 +990,6 @@
           "publishedOn": "2025-02-02T02:02:02.000Z",
           "wordCount": 120,
           "title": "6 Million Google Clicks! 🤩",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/happy-february-sale",
-          "author": null,
-          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated sale called \"Happy February Sale\".\nNow each year, on the first day of February, we show a 50% discount offer to all users who visit our site.\nBuy a subscription now and see you next time! 🤑",
-          "link": "https://catonmat.net/happy-february-sale",
-          "publishedOn": "2025-02-01T01:01:01.000Z",
-          "wordCount": 134,
-          "title": "Happy February Sale! 🎁",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
