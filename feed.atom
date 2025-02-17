@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-02-16T02:50:40.260Z</updated>
+    <updated>2025-02-17T02:49:32.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[窃取机密的黑客兼职勒索软件攻击者]]></title>
+        <id>https://www.solidot.org/story?sid=80569</id>
+        <link href="https://www.solidot.org/story?sid=80569"/>
+        <updated>2025-02-16T14:15:56.000Z</updated>
+        <summary type="html"><![CDATA[赛门铁克的研究人员报告，去年 11 月有黑客利用 Palo Alto Networks 的一个身份验证绕过高危漏洞 (CVE-2024-0012)入侵了南亚的一家中型软件和服务公司，从其内网窃取了管理员凭证，访问了 Veeam 服务器，找到了 AWS S3 凭证。在从 S3 中窃取敏感信息之后攻击者用 RA World 加密了该公司的 Windows 电脑，索要 200 万美元赎金，表示如果能在三天内付款，赎金将降至 100 万美元。安全研究人员发现攻击者使用了 PlugX 后门的一个定制版本，该后门被 Fireant aka Mustang Panda 或 Earth Preta 使用，认为黑客可能是兼职任勒索软件攻击者。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界海冰面积再创新低]]></title>
+        <id>https://www.solidot.org/story?sid=80568</id>
+        <link href="https://www.solidot.org/story?sid=80568"/>
+        <updated>2025-02-16T13:15:27.000Z</updated>
+        <summary type="html"><![CDATA[根据 US National Snow and Ice Data Center(NSIDC)的数据，在截至 2 月 13 日的 5 天内，北极和南极海冰总面积为 1576 万平方公里，打破了 2023 年 1 月至 2 月创下的 5 天 1593 万平方公里的历史最低纪录。北极海冰因全球暖化而减少，其夏末面积从 1980 年代的平均 700 万平方公里降至 2010 年代的 450 万平方公里。相比下，南极海冰面积被认为富有弹性，但最近的数据显示它的面积也在收缩。南极目前处于夏季，而北极处于冬季，寒冷的冬季本有助于结冰，然而目前北极海冰面积比此前的记录少近 20 万平方公里。原因包括海洋暖化以及破坏冰层的风暴。2 月初北极  Svalbard 群岛等地区的温度一度达到冰融点的零度以上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赛博考古：14年后，微软《对 IE6 说再见》中文网站仍可访问]]></title>
+        <id>https://www.appinn.com/?p=50999</id>
+        <link href="https://www.appinn.com/theie6countdown/"/>
+        <updated>2025-02-16T07:15:27.000Z</updated>
+        <summary type="html"><![CDATA[来自小众软件论坛的 @suntrise 同学在灌水的时候，发现了一个有趣的东西：微软《对 IE6 说再见》中文网站仍可访问。@Appinn 互联网被遗忘的角落：微软“对 IE6 说再见”中文网站仍可访]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.12 Million Google Clicks! 🤩]]></title>
+        <id>https://catonmat.net/612-million-google-clicks</id>
+        <link href="https://catonmat.net/612-million-google-clicks"/>
+        <updated>2025-02-16T06:16:26.000Z</updated>
+        <summary type="html"><![CDATA[+0.01M Clicks. Every. Single. Day. 🚀
+Yesterday Online PNG Tools smashed through 6.11M Google clicks and today it's smashed through 6.12M Google clicks!
+Smash too and see you tomorrow at 6.13M clicks! 💦
+PS. Use coupon code SMASHLING for a 30% discount on these tools. 💸]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta 将建造世界最长的海底光缆]]></title>
         <id>https://www.solidot.org/story?sid=80567</id>
@@ -989,130 +1032,6 @@ See you next time!]]></summary>
         <summary type="html"><![CDATA[Rust-for-Linux 进入内核的努力遭到了内核维护者 Christoph Hellwig 的强烈反对。他拒绝了 DMA Rust 抽象补丁，不希望 Rust 代码靠近 DMA 层。他说支持另一种语言（他明确表示指的是任何语言，而不是特指 Rust）将使整个 Linux 项目无法维护。鉴于这一状况，负责将 Linux 移植到苹果 Arm 平台的 Asahi Linux 项目开发者 Hector Martin 在内核邮件列表上宣布退出内核开发，表示对内核开发过程以及社区管理方法失去信心，Asahi Linux 项目开发工作将主要集中在下游。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扩展开发者称 Google 没有信守在宣布 Manifest V3 时许下的承诺]]></title>
-        <id>https://www.solidot.org/story?sid=80498</id>
-        <link href="https://www.solidot.org/story?sid=80498"/>
-        <updated>2025-02-07T14:32:20.000Z</updated>
-        <summary type="html"><![CDATA[2019 年，Google 在改进安全、隐私和性能的名义下宣布了 Manifest V3（MV3）新扩展系统。搜索巨人坚称它没有计划杀死广告屏蔽扩展。现在 Google Chrome 正在强推 Manifest V3 扩展，准备年内禁止旧的 Manifest V2 扩展，安装 Manifest V2 扩展的用户已经开始看到相关警告。Google 有没有信守诺言？广告屏蔽扩展的开发者最有发言权。AdGuard 开发商称 Manifest V3 下的远程代码执行策略迫使其移除 Quick Fixes 过滤器，暂时放弃自定义过滤器。这两种过滤器对屏蔽广告至关重要。AdGuard 称它的扩展被 Chrome Web Store 审核团队拒绝了五次，理由是违反旨在防止扩展允许远程执行恶意代码的远程代码策略。uBlock Origin(uBO) 作者 Raymond Hill 表示不会在 MV3 下开发相似功能的扩展，他发布了一个精简版本 uBlock Origin Lite (uBO Lite)，建议原版用户使用 Firefox。EFF 隐私扩展 Privacy Badge 开发者 Alexei Miagkov 称在 MV3 下开发扩展比在 MV2 困难得多，他对 Google 此举感到困惑。他指出 Google 还加大了用户将扩展固定在工具栏上的难度。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国政府命令苹果创建 iCloud 加密后门]]></title>
-        <id>https://www.solidot.org/story?sid=80497</id>
-        <link href="https://www.solidot.org/story?sid=80497"/>
-        <updated>2025-02-07T13:42:51.000Z</updated>
-        <summary type="html"><![CDATA[英国政府秘密向苹果下达命令，要求创建一个 iCloud 后门，允许其安全官员不受阻碍的访问全世界用户的加密数据。这一要求史无前例，从未有任何其他民主国家提出类似要求。英国内政大臣是以“technical capability notice（技术能力通知）”的形式发布这一命令的，要求苹果根据英国 2016 年的 UK Investigatory Powers Act(IPA)法案提供后门访问。苹果拒绝对此置评。英国内政部也拒绝置评，拒绝确认或否认有此类通知的存在。为了避免违反对用户的安全承诺，苹果可能选择停止在英国提供加密储存。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goolge 修复正被利用的 Android 内核 0day 漏洞]]></title>
-        <id>https://www.solidot.org/story?sid=80496</id>
-        <link href="https://www.solidot.org/story?sid=80496"/>
-        <updated>2025-02-07T13:26:06.000Z</updated>
-        <summary type="html"><![CDATA[Goolge 本月初释出了两组安全补丁 2025-02-01 和 2025-02-05，修复了 48 个漏洞，其中包括一个 Android 内核 0day 高危漏洞。该漏洞编号 CVE-2024-53104，影响 Linux 内核的 USB Video Class(UVC)驱动，属于越界写入 bug，存在于 uvc_driver.c 的 uvc_parse_format()函数中。该漏洞会导致内存损坏、程序崩溃甚至任意代码执行。攻击者可利用该 bug 提权，可用于安装恶意程序、更改或删除数据，或创建拥有完整管理权限的新帐户。该漏洞已被用于针对性的有限攻击。Android 用户最好立即更新到最新的安全补丁。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相信外星人的上世纪硅谷高管面临监禁]]></title>
-        <id>https://www.solidot.org/story?sid=80495</id>
-        <link href="https://www.solidot.org/story?sid=80495"/>
-        <updated>2025-02-07T10:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Joseph Firmage 在青少年时期创办了一家软件公司，之后以 2400 万美元卖给了 Novell。他在 1995 年创办了 Web 设计公司 USWeb，一度与亚马逊的贝佐斯（Jeff Bezos）和雅虎的杨致远齐名，1999 年 USWeb 的估值高达 25 亿美元。然而在 1998 年底 Firmage 声称外星人光临了他的卧室，之后辞去 CEO 一职开始致力于传播人类与外星人接触的信仰。他花了几十年时间从​​事 UFO 研究，试图发明反重力推进技术，从投资者手中筹集到数百万美元。他目前因为虐待老年人指控而入狱。与他同住的一位 80 岁老妇人说，他承诺每月支付 3,000 美元租金但从未支付。而他通过担任这名老妇的“看护人”控制了其财务，但没有支付账单，他切断了她与其家人的联系，将她留在盐湖城一个没有水也没有电的家中，社工报告该女子体重大幅下降。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家声称找到煮鸡蛋的完美方法]]></title>
-        <id>https://www.solidot.org/story?sid=80494</id>
-        <link href="https://www.solidot.org/story?sid=80494"/>
-        <updated>2025-02-07T08:50:37.000Z</updated>
-        <summary type="html"><![CDATA[传统煮鸡蛋的方法有两种：在 100 摄氏度的沸水中硬煮，但这会导致蛋黄完全凝固；通过真空低温烹调，在 60 到 70 摄氏度下慢慢炖煮一小时，但这会让蛋白不够熟。科学家现在报告了一种被称为“周期性烹饪”的新方法。它不仅让每一颗煮鸡蛋都能达到完美的均匀熟度，还能提升其营养成分。科学家利用计算流体动力学软件模拟出了这种全新的煮蛋过程：将鸡蛋在 100 摄氏度的沸水和 30 摄氏度的冷水中交替浸泡，每两分钟转移一次，总共持续 32 分钟。在这段时间里，蛋白逐渐变得细腻而富有弹性，蛋黄则保持了奶油般的柔软质感。经过处理后蛋黄中的多酚含量显著增加，这是一种被认为对健康非常有益的微量营养素。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年勒索软件付款额下降 35%]]></title>
-        <id>https://www.solidot.org/story?sid=80493</id>
-        <link href="https://www.solidot.org/story?sid=80493"/>
-        <updated>2025-02-07T08:20:49.000Z</updated>
-        <summary type="html"><![CDATA[尽管 2024 年被众多安全公司认为是勒索软件攻击数量最高的一年，然而根据区块链分析公司 Chainalysis 公布的报告，2024 年勒索软件付款额比 2023 年下降了 35%。Chainalysis 跟踪到的 2024 年付款总额为 8.125亿美元，相比下 2023 年为 12.5 亿美元。Chainalysis 发现勒索软件攻击活动在 2024 年下半年显著减少。勒索软件付款减少的一个重要原因是知名勒索组织 Lockbit和 Alphv/BlackCat 被执法机构破坏。另一个重要原因是被攻击的组织加强了安全保护措施，很多组织拒绝支付赎金，采用了更可靠的安全实践和使用备份。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国分析师认为 DeepSeek 的 AI App 有很高的可能性被禁]]></title>
-        <id>https://www.solidot.org/story?sid=80492</id>
-        <link href="https://www.solidot.org/story?sid=80492"/>
-        <updated>2025-02-07T07:42:28.000Z</updated>
-        <summary type="html"><![CDATA[美国投行 Jefferie 的分析师认为 DeepSeek 的 AI App 有很高的可能性被禁。美国联邦政府，海军和德克萨斯州已经封禁了该应用，它可能会受到类似 Tiktok 禁令的法律限制。美国消费者可能会被限制访问 DeepSeek 的服务，但 DeepSeek 开源了其模型，因此本地运行或自托管 DeepSeek 的模型有助于消除其安全风险。分析师称，美国公司正致力于再现 DeepSeek 降低 AI 推理成本的技术。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空气污染会影响日常工作的专注力]]></title>
-        <id>https://www.solidot.org/story?sid=80491</id>
-        <link href="https://www.solidot.org/story?sid=80491"/>
-        <updated>2025-02-07T07:21:46.000Z</updated>
-        <summary type="html"><![CDATA[发表在《Nature Communication》期刊上的一项研究发现，短缺暴露在空气污染下会影响一个人专注于日常任务的能力。研究人员分析了 26 名参与者暴露在来自蜡烛烟的高浓度颗粒物或干净空气一小时前后的认知测试数据。研究发现，即使短暂暴露在污染下也会影响参与者的选择性注意力和情绪识别。论文合作者、伯明翰大学的 Thomas Faherty 博士称，暴露于空气污染中的参与者不擅长避免分散注意力的信息，类似去超市购物会容易被冲动购物而分散注意力忘记自己的目标。研究还发现，暴露在污染下的参与者评估情绪识别的认知测试中表现更差，但工作记忆没有受到影响，表明部分大脑功能比其它功能更能适应短期污染暴露。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6.05 Million Google Clicks 🤑]]></title>
-        <id>https://catonmat.net/605-million-google-clicks</id>
-        <link href="https://catonmat.net/605-million-google-clicks"/>
-        <updated>2025-02-07T07:07:07.000Z</updated>
-        <summary type="html"><![CDATA[+0.01M Clicks. Every. Single. Day. 🚀
-Yesterday Online PNG Tools smashed through 6.04M Google clicks and today it's smashed through 6.05M Google clicks!
-Smash too and see you tomorrow at 6.06M clicks! 💦
-PS. Use coupon code SMASHLING for a 30% discount on these tools. 💸]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鲸歌的沟通效率与人类相似]]></title>
-        <id>https://www.solidot.org/story?sid=80490</id>
-        <link href="https://www.solidot.org/story?sid=80490"/>
-        <updated>2025-02-07T05:56:00.000Z</updated>
-        <summary type="html"><![CDATA[自然选择偏爱简洁而非冗长。例如喊“趴下！”比叫“小心，有飞行物来了，你需要避开！”要快且有效得多。两种关于缩略的语言学定律 — 即 Menzerath 定律和 Zipf 定律— 可用于计算发声的效率。前者描述了当较长的词或歌曲中包含较短的元素（如音节和音符）时，效率会如何提高。后者则指出，当使用频率较高的单个元素较短时，沟通效率会提高。研究人员将 Menzerath 定律和 Zipf 定律应用于鲸歌，分析了包括海豚、齿鲸和须鲸在内的总共 16 种鲸类动物的歌声序列。在这 16 个物种中，有 11 个的语音发声表现出与人类语言相当或更高程度的 Menzerath 定律。例外的是虎鲸、赫氏海豚（Hector’s dolphins）、康氏海豚（Commerson’s dolphins）、海氏海豚（Heaviside’s dolphins）和北太平洋露脊鲸（North Pacific right whales）。研究还发现，只有座头鲸和蓝鲸遵循 Zipf 定律，而座头鲸是仅有的一个在遵循程度上与人类语言相当的物种。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员提出一种超低成本的 AI 训练方法]]></title>
-        <id>https://www.solidot.org/story?sid=80489</id>
-        <link href="https://www.solidot.org/story?sid=80489"/>
-        <updated>2025-02-06T15:53:11.000Z</updated>
-        <summary type="html"><![CDATA[AI 训练通常成本高昂，金额可能多达千万美元。上周五斯坦福大学、华盛顿大学、艾伦 AI 研究所以及 Contextual AI 的研究人员在预印本平台 arXiv 上发表了论文《s1: Simple test-time scaling》，提出了一种超低成本的 AI 训练方法，在 AI 社区引发了轰动。OpenAI 第一个提出了被称为 inference-time scaling laws（推理时间扩展定律）的方法，本质上指的是大模型在输出答案前如果“思考”更长时间那么就可能获得更高的性能。但无论是 OpenAI 还是 R1 都没有给出具体实现方法。在这篇论文中，研究人员给出了一种简单实现：在进行推理时用“等待”替换“停止思考”，迫使其继续思考进行第二次推理并核查第一次的答案。研究人员使用了一个小模型，将 56K 示例数据集筛选到 1K，这 1K 数据集足以在 32B 模型上实现 o1-preview 的性能，额外的数据不会提高性能。他们使用 16 个 NVIDIA H100 进行训练，每次运行 26 分钟，花了约 6 美元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Container query units: cqi and cqb]]></title>
-        <id>https://css-tricks.com/?p=384468</id>
-        <link href="https://css-tricks.com/container-query-units-cqi-and-cqb/"/>
-        <updated>2025-02-06T15:29:35.000Z</updated>
-        <summary type="html"><![CDATA[A little gem from Kevin Powell's "HTML & CSS Tip of the Week" website, reminding us that using container queries opens up container query units for sizing things based on the size of the queried container.
-Container query units: cqi and cqb originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
