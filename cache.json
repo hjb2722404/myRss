@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=51137",
+          "author": "青小蛙",
+          "description": "吵架包赢实际上叫鲸喷，是小众软件论坛 @DavidJoy 同学推荐的一个有趣的工具，拥有 Windows、macOS 客户端，主要功能就是利用 DeepSeek，实现在游戏内的对话，当然也包括翻译、吵",
+          "link": "https://www.appinn.com/deeprant-for-games/",
+          "publishedOn": "2025-02-23T09:49:27.000Z",
+          "wordCount": 2639,
+          "title": "吵架包赢：利用 DeepSeek 在游戏中吵架，包赢的。哦不，翻译和对话。",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-66.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=51131",
+          "author": "青小蛙",
+          "description": "BRT AMP 是一款 iPhone、iPad、CayPlay 上的离线音乐播放器。支持常见的无损格式（如 FLAC 和 ALAC），优化了高分辨率音频播放（96kHz/24-bit 及以上），还支持",
+          "link": "https://www.appinn.com/btr-amp-pro-limited-time-free/",
+          "publishedOn": "2025-02-23T09:14:12.000Z",
+          "wordCount": 2626,
+          "title": "BTR AMP：本地音乐播放器，Pro 内购终身限免[iOS]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-65.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=51127",
           "author": "青小蛙",
           "description": "VxKex 是一款让老 Windows 7 系统也能跑 Windows 10 / 11 独占软件的免费工具。 @Appinn 感谢小众软件群组里的 NekoHz 同学推荐。 兼容性 包括但不限于： 使",
@@ -170,26 +190,6 @@
           "wordCount": 2630,
           "title": "Opera 推出新浏览器 Opera Air，主打一个心静自然凉",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-48.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=45934",
-          "author": "青小蛙",
-          "description": "在此前《内网穿透到底是什么》时，小众软件写过： 很多人都想随时随地地远程控制在家或办公室的电脑，或者访问 NAS 里的文件、公司内部 OA 系统，甚至小主机、路由器等设备。但由于没有公网 IP，这些设",
-          "link": "https://www.appinn.com/neiwangchuantou-25/",
-          "publishedOn": "2025-02-14T09:52:15.000Z",
-          "wordCount": 2669,
-          "title": "内网穿透的 10 大应用场景，你都了解吗？",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-46.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=50978",
-          "author": "青小蛙",
-          "description": "由于 DeepSeek 官网已经处于不可充值阶段，也就是相当于对新用户不提供 API 服务了，如果你还是需要使用 API，那么可以尝试目前大厂提供的服务，持续更新。@Appinn 对于想使用 Deep",
-          "link": "https://www.appinn.com/deepseek-api-service/",
-          "publishedOn": "2025-02-14T04:20:08.000Z",
-          "wordCount": 2712,
-          "title": "目前可用的 DeepSeek R1 模型 API 服务商(2025年2月)",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-45.jpg"
         }
       ]
     },
@@ -232,16 +232,6 @@
           "wordCount": 3346,
           "title": "The What If Machine: Bringing the “Iffy” Future of CSS into the Present",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384446"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384495",
-          "author": "Ryan Trimble",
-          "description": "A while back on CSS-Tricks, we shared several ways to draw hearts, and the response was dreamy. Now, to show my love, I wanted to do something personal, something crafty, something with a mild amount of effort.\nHandwriting an SVG Heart, With Our Hearts originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/handwriting-an-svg-heart-with-our-hearts/",
-          "publishedOn": "2025-02-14T13:25:12.000Z",
-          "wordCount": 2371,
-          "title": "Handwriting an SVG Heart, With Our Hearts",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384495"
         }
       ]
     },
@@ -273,6 +263,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80622",
+          "author": null,
+          "description": "流行解压缩软件 WinRAR 释出了 v7.10 正式版，主要变化包括：启用更大的内存页以改进性能、新的设置界面、暗色模式，以及新的隐私控制功能。新隐私功能允许用户调整 Windows Mark-of-the-Web 安全标记，移除可能的敏感数据。Mark-of-the-Web 安全标记被用于标记从 Web 下载的文件，当尝试打开该文件时 Windows 会警告是否确定要运行该文件。WinRAR 7.10 的隐私设置“Zone value only ”（设置—安全）允许用户删除 Mark-of-the-Web 安全标记中可能泄露隐私的元数据如下载位置和 IP 地址。",
+          "link": "https://www.solidot.org/story?sid=80622",
+          "publishedOn": "2025-02-22T14:11:48.000Z",
+          "wordCount": 189,
+          "title": "WinRAR 7.10 允许用户移除可能泄露隐私的元数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80621",
+          "author": null,
+          "description": "因内部反对和客户投诉，惠普终止了仅仅实施数天的让通过电话获取支持的客户强制性等待 15分钟的政策，这一做法引发了争议，惠普此举旨在将客户引导通过网站获取支持，以减少人工电话客服的成本。惠普表示将“继续优先考虑及时提供实时电话支持”。",
+          "link": "https://www.solidot.org/story?sid=80621",
+          "publishedOn": "2025-02-22T13:09:59.000Z",
+          "wordCount": 177,
+          "title": "惠普终止了强制性的电话支持 15 分钟等候时间",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80620",
+          "author": null,
+          "description": "加密货币交易所 Bybit 被盗走价值 14.6 亿美元的加密货币。Bybit CEO Ben Zhou 证实了此事，称黑客控制了一个 ETH 冷钱包，将冷钱包中的所有 ETH 转移到了一个新地址。黑客随后利用去中心化交易所售出加密货币。Ben Zhou 声称该交易所的其它冷钱包都是安全的，客户提款也正常。14.6 亿美元意味着这是有记录以来金额最大的加密货币盗窃案。",
+          "link": "https://www.solidot.org/story?sid=80620",
+          "publishedOn": "2025-02-22T12:31:35.000Z",
+          "wordCount": 193,
+          "title": "Bybit 被盗走价值 15 亿美元的加密货币",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80619",
           "author": null,
@@ -842,116 +862,6 @@
           "wordCount": 176,
           "title": "摩根大通 CEO 对反对重返办公室的意见不屑一顾",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80562",
-          "author": null,
-          "description": "在一颗距离太阳系仅 20 光年的恒星 HD 2079 周围，天文学家确认了一个可能适居的行星 HD 20794 d。HD 20794 是一颗类太阳的黄矮星，但体积稍小且年龄较大，这意味着它正处于氢融合的稳定阶段，并且已经存在足够长的时间，让其周围的行星轨道趋于稳定。2022 年发现的 HD 20794 d 的最低质量约为地球的 5.82 倍，其半径约为地球的 1.7 至 2.1 倍，它的公转周期约为 648 个地球日，且刚好落在恒星的适居带内。这颗行星的适居性仍有许多变数。它的轨道是椭圆形的，这意味着它只有部分时间位于适居带内，在远日点时它可能会进入极寒区域，使水分完全冻结。天文学家尚未测定这颗行星的确切半径，因此无法计算其平均密度，而密度是决定行星组成的关键指标，如果它的半径较小，则可能是一颗岩质「超级地球」；如果半径较大，则可能是一颗拥有厚大气层的「迷你海王星」。",
-          "link": "https://www.solidot.org/story?sid=80562",
-          "publishedOn": "2025-02-14T14:33:31.000Z",
-          "wordCount": 195,
-          "title": "20 光年外的一颗恒星宜居带有行星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80561",
-          "author": null,
-          "description": "北京美摄网络科技有限公司周四称，历经三年七个月，该公司起诉字节跳动旗下抖音等 8 款产品代码抄袭系列案，终于迎来终审胜诉的消息，九案赔偿经济损失及合理支出共计约 8266.8 万元。美摄科技称，对比发现，自 2018 年 11 月 1 日“抖音”3.0 版本至今，其实现视音频编辑处理等功能的相关软件代码，大量抄袭自美摄科技享有著作权的相关美摄软件。对比字节跳动旗下的其余 6 款APP“剪映”、“巨量创意”、“多闪”、“Faceu激萌”、“图虫”、“轻颜相机”，我们发现全部存在代码抄袭痕迹，其中多处函数名一致，甚至将美摄科技拼写错误的函数都原封不动抄袭照搬。抖音副总裁李亮回应称，抄袭系一名曾在美摄工作过的工程师离职两年半后加入字节跳动。在字节工作期间，写代码时重复使用了部分在美摄工作时写过的代码。目前该员工也已离职。他表示，“公司层面也已针对技术人员组织多次合规培训，也对历史代码进行系统排查。”",
-          "link": "https://www.solidot.org/story?sid=80561",
-          "publishedOn": "2025-02-14T14:12:39.000Z",
-          "wordCount": 178,
-          "title": "美摄起诉字节跳动抄袭代码获赔 8266.8 万元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80560",
-          "author": null,
-          "description": "周四晚上一架俄罗斯无人机攻击了切尔诺贝利核电站已损毁的第四反应堆防护体。无人机携带了爆破弹，爆炸破坏了混凝土防护体，监测显示目前辐射水平没有增加。乌克兰总统泽连斯基表示，正在进行持续的监测，初步评估显示防护体受损严重。切尔诺贝利核电站第四反应堆是 1986 年发生爆炸的反应堆，它向周边地区释放出了放射性云，之后包裹在被称为石棺的钢筋混凝土结构中。乌克兰军方报告称，俄罗斯总共向乌克兰发射了 133 架无人机，其中 73 架被击落，58 架未抵达目标。",
-          "link": "https://www.solidot.org/story?sid=80560",
-          "publishedOn": "2025-02-14T13:20:04.000Z",
-          "wordCount": 175,
-          "title": "俄罗斯无人机攻击切尔诺贝利核电站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80559",
-          "author": null,
-          "description": "用 Rust 开发的文本编辑器项目 Zed 宣布引入编辑预测功能。该功能是基于开源大模型 Zeta，而 Zeta 是基于阿里巴巴的模型 Qwen2.5-Coder-7B。Zeta 是一个开源模型，包括开源数据集，开发者欢迎通过向数据集贡献数据帮助改进 Zeta。通过编辑预测，Zed 能预测使用者的下一次编辑，用户只需按 Tab 键即可应用。一旦接受预测，使用者可以通过反复按 Tab 键执行多个后续编辑，节省时间和按键次数。编辑预测目前可以免费测试，但开发者警告不会永远免费。",
-          "link": "https://www.solidot.org/story?sid=80559",
-          "publishedOn": "2025-02-14T10:13:48.000Z",
-          "wordCount": 195,
-          "title": "Zed 使用开源模型 Zeta 预测用户的编辑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80558",
-          "author": null,
-          "description": "英国芯片设计公司 Arm 将不再只是自己设计芯片，它将自己制造芯片，第一个大客户是社交巨头 Meta。该芯片是大型数据中心使用的服务器 CPU，能为不同客户进行定制，其生产外包给代工厂。Arm 的首款自制芯片最早将在今年夏天公布。此举将代表着该公司的战略性变化，此前其业务主要是授权芯片设计，自己制造芯片意味着它的现有客户将成为其竞争对手。",
-          "link": "https://www.solidot.org/story?sid=80558",
-          "publishedOn": "2025-02-14T09:46:27.000Z",
-          "wordCount": 178,
-          "title": "Arm 将自己制造芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80557",
-          "author": null,
-          "description": "作为换囚交易的一部分美国释放了 BTC-e 联合创始人 Alexander Vinnik，交换被俄罗斯关押的美国教师 Marc Fogel。Alexander Vinnik 和 Aleksandr Bilyuchenko 于 2011 年 7 月创办了俄罗斯加密货币交易所 BTC-e。Vinnik 于 2017 年在希腊应美国要求被捕，受到了洗钱等逾 20 项指控，他于 2020 年首先被引渡到法国，因洗钱指控被判 5 年，随后又送回了希腊。2022 年引渡到美国。美国检方指控 BTC-e 是全球网络罪犯主要的洗钱途径，而 Vinnik 经营该交易所的目的是促进非法活动。BTC-e 处理了逾 90 亿美元的交易。2024 年 5 月，Vinnik 承认通过 BTC-e 洗钱数十亿美元的指控。",
-          "link": "https://www.solidot.org/story?sid=80557",
-          "publishedOn": "2025-02-14T08:10:15.000Z",
-          "wordCount": 211,
-          "title": "作为换囚交易的一部分美国释放了 BTC-e 联合创始人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80556",
-          "author": null,
-          "description": "过去几年部分国家攻读博士学位的人数出现了下降，高生活成本、低薪水和毕业后工作选择有限等被认为是这一现象的主因。澳大利亚大学和 Australian Council of Graduate Research(ACGR)上月公布的数据显示，2018-2023 年澳大利亚国内攻读博士学位的人数减少了 8%，而同期内人口增长了逾 7%。在很多国家阻碍学生读博的最主要因素是生活成本高而薪水很少。在澳大利亚，博士生的平均津贴约 32,000 澳元，刚刚高于单身人士的贫困线，而澳博士生的平均年龄在 30 多岁，可能面临着家庭等责任。日本的情况类似，2003 年日本国内的博士生有 18,232 人，而 2021 年降至了 15,014 人。日本文部科学省去年宣布了为博士生提供额外资金的计划。巴西报告 2022 年博士生入学人数创十年新低，一个原因是新冠疫情，但这不是唯一原因。2023 年巴西将硕士和博士生助学金增长四成，促进了当年入学人数的小幅增长。",
-          "link": "https://www.solidot.org/story?sid=80556",
-          "publishedOn": "2025-02-14T07:12:39.000Z",
-          "wordCount": 190,
-          "title": "攻读博士学位的人数在减少",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80555",
-          "author": null,
-          "description": "根据 Edelman Trust Barometer 的调查报告，发展中国家居民对 AI 的信任普遍高于发达国家。印度对 AI 的信任度最高达到 77%，其次是尼日利亚的 76%，泰国的 73% 和中国的 72%。相比下美国只有 32%。在接受调查的国家中，只有六个国家对 AI 的信任度低于美国：加拿大(30%)、德国（29%）、荷兰（29%）、英国（28%）、澳大利亚（25%）和爱尔兰（24%）。在全球范围 52% 的男性表示他们信任 AI，女性的比例为 46%，年轻人对其的信任度显著高于老年人。在美国民主党人（38%）比共和党人（34%）或独立人士（23%）更信任 AI。高收入受访者（51%）也比中等收入（45%）或低收入（36%）受访者更信任 AI。",
-          "link": "https://www.solidot.org/story?sid=80555",
-          "publishedOn": "2025-02-14T06:14:19.000Z",
-          "wordCount": 197,
-          "title": "中国居民对 AI 的信任高于美国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80554",
-          "author": null,
-          "description": "BBC 研究发现，AI 新闻摘要工具会经常生成不准确或误导性的摘要。生成式 AI 生成内容并非是基于事实而是基于统计概率，最新研究只是再次确认了这一点。研究使用了 OpenAI 的 ChatGPT、微软的 Copilot、Google 的 Gemini，以及 Perplexity 公司的 AI 助手。结果显示，51% 的 AI 答案存在严重问题; 19% 的 AI 新闻引用存在事实错误；13% 的 AI 引文要么改变了原文要么根本不存在。Google Gemini 表现最差，34% 的回答存在严重问题，相比下 Copilot 是 27%，Perplexity 是 17%，ChatGPT 是 15%。BBC News and Current Affairs CEO Deborah Turness 对 AI 工具可能进一步扭曲事实表达了担忧，认为开发生成式 AI 工具的公司在玩火，“我们生活在一个问题丛生的年代。需要等多久 AI 扭曲的新闻头条会对现实世界造成重大伤害？”",
-          "link": "https://www.solidot.org/story?sid=80554",
-          "publishedOn": "2025-02-14T05:41:59.000Z",
-          "wordCount": 218,
-          "title": "研究发现 AI 的新闻摘要会经常性的扭曲事实",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80553",
-          "author": null,
-          "description": "Google 和苹果周四在美国应用商店恢复上架字节跳动旗下的短视频应用 TikTok。Google 给出的理由是特朗普总统承诺拯救该应用并签署了行政令推迟对 TikTok 的禁令。此前苹果曾公开表态下架 TikTok 将一直持续到 TikTok 美国业务出售为止，但如今苹果显然已经改变了其立场。",
-          "link": "https://www.solidot.org/story?sid=80553",
-          "publishedOn": "2025-02-14T04:03:34.000Z",
-          "wordCount": 182,
-          "title": "Google 和苹果恢复上架 TikTok",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80552",
-          "author": null,
-          "description": "Google 官方博客表示正在美国测试一种机器学习模型，用于帮助确定用户是否未年满 18 岁，以在其平台上为用户提供更适合年龄的体验。年龄估计模型将使用相关用户的现有数据，如访问的网站、在 YouTube 上观看的视频类型以及帐户持有时间等去判断年龄。如果检测到用户可能未满 18 岁时，Google 会通知用户已经更改了部分设置，如果用户认为有误可以提供年龄验证方法如自拍、信用卡或政府身份证。",
-          "link": "https://www.solidot.org/story?sid=80552",
-          "publishedOn": "2025-02-13T15:36:56.000Z",
-          "wordCount": 181,
-          "title": "Google 计划用机器学习估计用户的 年龄",
-          "imageUrl": null
         }
       ]
     },
@@ -1021,6 +931,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/maricopa-county-browserling-customer",
+          "author": null,
+          "description": "Success! Maricopa County in Arizona is now a Browserling customer!\nIt's another small step for a ling but one giant leap for ling kind.\nWhat Is Browserling?\nBrowserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.\nWho Uses Browserling?\nBrowserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.\nSee you next time!",
+          "link": "https://catonmat.net/maricopa-county-browserling-customer",
+          "publishedOn": "2025-02-23T03:33:03.000Z",
+          "wordCount": 242,
+          "title": "Maricopa County, AZ is now a Browserling customer!",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/king-county-browserling-customer",
           "author": null,
@@ -1099,16 +1019,6 @@
           "publishedOn": "2025-02-15T05:15:25.000Z",
           "wordCount": 125,
           "title": "6.11 Million Google Clicks! 🤑",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/valentines-day-sale-official",
-          "author": null,
-          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated Valentine's Day Sale.\nNow each year on Valentine's Day, we show a 50% discount offer to all users who visit our site.\nBuy a subscription now and see you next time!",
-          "link": "https://catonmat.net/valentines-day-sale-official",
-          "publishedOn": "2025-02-14T03:00:00.000Z",
-          "wordCount": 123,
-          "title": "Valentine's Day Sale! ❤",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
