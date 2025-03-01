@@ -12,6 +12,41 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=51230",
+          "author": "青小蛙",
+          "description": "著名的游戏开发商 EA（Electronic Arts）今天（2025年2月28日）在 GitHub 开放了《命令与征服》系列游戏的源代码，GPL V3 授权，用户可以自由地使用、修改和分发软件。@A",
+          "link": "https://www.appinn.com/ea-opens-source-code-for-classic-command-conquer/",
+          "publishedOn": "2025-02-28T08:41:33.000Z",
+          "wordCount": 2647,
+          "title": "EA 开源 30 年前《命令与征服》系列游戏，包括《红色警戒》在内的四款经典游戏及模组支持包｜不包括游戏资产",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-78.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=46991",
+          "author": "青小蛙",
+          "description": "PixPin 是一款新晋 Windows、macOS 截图工具，拥有截图、贴图、截长图、截动图、OCR 文字识别几个功能，口碑非常不错，同时也是在线 OCR 工具 PearOCR 同款开发者。目前正在",
+          "link": "https://www.appinn.com/pixpin/",
+          "publishedOn": "2025-02-28T08:02:42.000Z",
+          "wordCount": 2826,
+          "title": "PixPin – 截图工具：贴图、截长图、截动图、OCR 文字识别｜国货之光，限时 7 折",
+          "enclosure": {
+            "url": "https://do-cdn.appinn.com/static3/images/2024/10/lz-pixpin3.gif.mp4",
+            "length": "575846",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/11/Appinn-feature-images-2023-11-21T144225.949.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=51216",
+          "author": "青小蛙",
+          "description": "Apple TV 在上一次更新之后，新增了一款非常漂亮、有趣的史努比屏保，视频模式，史努比会在屏幕上动来动去。有同学将其移植到了 macOS 上，挺不错的。@Appinn 在 V2ex 的帖子中，@c",
+          "link": "https://www.appinn.com/apple-tv-snoopy-screensaver-for-macos/",
+          "publishedOn": "2025-02-28T06:16:57.000Z",
+          "wordCount": 2665,
+          "title": "即开即用…吗？Apple TV 史努比屏保 macOS 移植版",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-77.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=51198",
           "author": "青小蛙",
           "description": "DeepSeek 官方开放平台（API）目前已恢复充值，支持支付宝、微信，对公转账。并提供了波峰波谷价格，在优惠惠时段（北京时间 00:30-08:30）DeepSeek-R1 打折 2.5 折。@A",
@@ -180,26 +215,6 @@
           "wordCount": 2632,
           "title": "Make It Big – 在屏幕上显示很大的字[iOS]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-56.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=51088",
-          "author": "青小蛙",
-          "description": "前几天，DeepSeek 在其官网账号上推荐了部署 DeepSeek-R1 的最佳设置参数，并提到：官方的 DeepSeek 部署与开源版本相同的型号，满足了完整的 DeepSeek-R1 体验。@A",
-          "link": "https://www.appinn.com/deepseek-r1-deploying-recommended-settings/",
-          "publishedOn": "2025-02-19T06:58:50.000Z",
-          "wordCount": 3362,
-          "title": "DeepSeek 官方推荐的部署 DeepSeek-R1 最佳设置参数，和官网一样。",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-54.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=51081",
-          "author": "青小蛙",
-          "description": "来自小众软件论坛的 HumanBait 同学在年前分享了自己的又一次折腾，为 Mac mini 底部设计了三集防尘底座，包括：开关层、过滤层（可更换 HEPA 滤纸）、硬盘层。目前已经分享 3D 模型",
-          "link": "https://www.appinn.com/mac-mini-m4-filter-base/",
-          "publishedOn": "2025-02-19T05:56:35.000Z",
-          "wordCount": 2678,
-          "title": "Mac mini M4 专用防尘底座 3D 模型，可换滤纸，带硬盘仓",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-53.jpg"
         }
       ]
     },
@@ -208,6 +223,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=384906",
+          "author": "Temani Afif",
+          "description": "In this article, you'll learn how to make a full-on star rating component out of nothing but a single input element and vanilla CSS.\nA CSS-Only Star Rating Component and More! (Part 1) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-css-only-star-rating-component-and-more-part-1/",
+          "publishedOn": "2025-02-28T14:03:32.000Z",
+          "wordCount": 4079,
+          "title": "A CSS-Only Star Rating Component and More! (Part 1)",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/07/star-pattern.png"
+        },
         {
           "id": "https://css-tricks.com/?p=383813",
           "author": "Geoff Graham",
@@ -242,16 +267,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384665"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382234",
-          "author": "Geoff Graham",
-          "description": "I know, super niche, but it could be any loop, really. The challenge is having multiple tooltips on the same page that make use of the Popover API for toggling goodness and CSS Anchor Positioning for attaching a tooltip to its respective anchor element.\nWorking With Multiple CSS Anchors and Popovers Inside the WordPress Loop originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/working-with-multiple-css-anchors-and-popovers-inside-the-wordpress-loop/",
-          "publishedOn": "2025-02-19T13:55:31.000Z",
-          "wordCount": 3311,
-          "title": "Working With Multiple CSS Anchors and Popovers Inside the WordPress Loop",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382234"
         }
       ]
     },
@@ -294,6 +309,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80682",
+          "author": null,
+          "description": "英国 Essex 大学的一项研究发现，过去几十年父亲的社会角色发生了改变，这也影响到了父女之间的关系，而去公园散个步有助于在父女之间建立更紧密的关系。研究人员访谈了 14 名出生于 1950-1994 年之间的女性。出生于 1950 年代的女性谈论父亲时主要是谈他作为家庭经济支柱的角色，而作为父母父亲这一角色处于边缘地带。出生于 1980 年代和 1990 年代的女性则在成长过程中与父亲建立了更紧密的情感联系。她们谈论了参与散步、游泳和骑车等活动时与父亲亲密无间的故事。尽管父亲的角色发生了变化，但受访者表示父女关系仍然是父亲的偏好为中心。研究表明，女儿总是在寻找一种与父亲更亲近的方式，而父亲直到最近才重视这一点。",
+          "link": "https://www.solidot.org/story?sid=80682",
+          "publishedOn": "2025-02-28T12:41:47.000Z",
+          "wordCount": 180,
+          "title": "英国研究称散步有助于改善父女关系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80681",
+          "author": null,
+          "description": "1982 年，叙利亚政府军在老阿萨德的命令下在哈马市屠杀了数万本国居民。40 年后，反叛武装借助大屠杀的记忆推翻了阿萨德家族的统治。这次大屠杀的记忆也印刻在基因里，首次在人类身上提供了压力跨代遗传的证据。我们的基因本身不会因为生活经历而改变，但基因表达会。为了适应压力环境，细胞会在基因上添加化学标记以改变其行为。研究人员跟踪了叙利亚移民家族的三代人，部分家庭经历了哈马市暴力袭击事件，部分家庭没有。研究人员从 48 个家庭 138 人身上收集了遗传样本，分析了 DNA 的表观遗传修饰。在哈马幸存者的孙辈中，研究人员发现基因组中有 14 个区域因祖母所经历的暴力事件而发生改变，表明压力引起的表观遗传变化确实能在多代人中间遗传。暂时不清楚表观遗传变化对人生活的影响。此前有研究指出饥荒引发的表观遗传变化会增加后代在成年后肥胖的几率。",
+          "link": "https://www.solidot.org/story?sid=80681",
+          "publishedOn": "2025-02-28T10:21:40.000Z",
+          "wordCount": 173,
+          "title": "暴力引发的基因表观遗传能持续数代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80680",
+          "author": null,
+          "description": "公元 79 年 8 月，维苏威火山的突然喷发摧毁了意大利庞贝和赫库兰尼姆两座古城。考古学家于 2020 年在赫库兰尼姆一名遇难者头骨中发现了深蓝色玻璃状物质，这是人类大脑在极端条件下瞬间转化为玻璃的结果。这种现象极为罕见。因为要形成玻璃，物质必须被迅速加热到至少510摄氏度，然后急速冷却，以防止晶体结构的形成。对于含有水分的有机物来说，这种情况几乎不可能自然发生。这名死者当时躺在奥古斯都学院的床上，被突如其来的火山灰云瞬间吞噬。普通的火山碎屑流温度不会超过 465 摄氏度，并且冷却速度较慢，不足以导致如此剧烈的变化。科学家推测，是维苏威火山喷发时释放出的超高温火山灰云造成了这一切。这些火山灰云不仅温度极高，而且来去匆匆，它们迅速提升了人体温度，随后又快速消散，导致环境温度骤降。在这种极端条件下，遇难者脑组织瞬间经历了从液态到固态的直接转换，形成了独特的有机物玻璃，而他的头骨为这份珍贵的大脑标本撑起了保护伞，长久地留存了下来。",
+          "link": "https://www.solidot.org/story?sid=80680",
+          "publishedOn": "2025-02-28T09:06:49.000Z",
+          "wordCount": 181,
+          "title": "维苏威火山突然喷发致大脑组织玻璃化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80679",
+          "author": null,
+          "description": "一项新的研究表明，广泛使用旨在对抗玉米根虫危害的转基因 Bt 玉米已导致玉米的过度种植和害虫的抗药性，从而危及该作物的长期效益。基于美国“玉米带”十个州数据的这些发现估计，这种过度种植已给美国种植业者造成了 16 亿美元的经济损失，凸显了提高种子多样性、透明度和种植业者决策能力的必要性，因为只有这样才能维持转基因作物的效益。转基因作物——尤其是那些含有苏云金芽孢杆菌 (Bt) 杀虫蛋白的作物——已通过减少病虫危害并同时将环境影响降至最低而大大提高了全球粮食产量。然而随着 Bt 作物使用的增加，这些害虫不可避免地会产生抗药性，从而令该技术的有效性会随着时间的推移而减弱。针对玉米根虫的 Bt 玉米杂交种已被广泛使用，但玉米根虫从 2009 年开始出现抗药性，从而引发人们对 Bt 玉米长期使用可行性的担忧。这个问题可被比作“公地悲剧”，即基于自身利益的个人行为导致了对共享资源的过度开发。",
+          "link": "https://www.solidot.org/story?sid=80679",
+          "publishedOn": "2025-02-28T08:42:22.000Z",
+          "wordCount": 172,
+          "title": "过度种植抗根虫玉米会产生长期危害",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80678",
+          "author": null,
+          "description": "东京太空企业 Astroscale 计划 2027 年度起开展实证试验，用太空垃圾清理技术实证卫星来捕获在太空高速漂浮、重约 3 吨的火箭残骸，并使之脱离轨道。去年 2 月发射升空的初号机 ADRAS-J 靠近目标残骸到距其约 15 米并进行拍摄，最终完成任务。随着人造卫星和火箭频繁发射升空，太空垃圾也不断增加。采取对策是当务之急。配备机械臂的 2 号机 ADRAS-J2 计划在 2027 年度发射升空，力争捕获同一残骸，并降低高度将之清理。",
+          "link": "https://www.solidot.org/story?sid=80678",
+          "publishedOn": "2025-02-28T07:45:51.000Z",
+          "wordCount": 182,
+          "title": "日企计划 2027 年启动太空垃圾捕获试验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80677",
+          "author": null,
+          "description": "日本厚生劳动发布的人口动态统计显示，2024 年日本的出生人数刷新历史最低纪录，结婚对数也降至战后第二低。日本政府推行的“异次元少子化对策”未能在首年度扭转局面。除了处于生育适龄期的人口减少之外，未婚化和晚婚化因素也导致少子化速度比预想的更快。日本 2024 年的出生人数比 2023 年减少 5.0%。减幅比新冠疫情前的 2016 至 2019年（年均减少 3.7%）更高。2024 年出生人数仅为 72 万人；2024 年的结婚对数为 49 万 9999 对，同比增长 2.2%，2 年来首次高于上年，但仍处于历史最低水平。",
+          "link": "https://www.solidot.org/story?sid=80677",
+          "publishedOn": "2025-02-28T07:33:02.000Z",
+          "wordCount": 180,
+          "title": "2024 年日本出生人数创历史最低",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80676",
+          "author": null,
+          "description": "在 Google Chrome 之后，Microsoft Edge 准备淘汰 Manifest V2 扩展开始禁用 uBlock Origin。最新的 Edge Canary 版本禁用了 Manifest V2 扩展，并显示信息称该扩展不再被支持，Microsoft Edge 建议将其移除。对于被自动禁用的扩展如 uBlock Origin，用户目前暂时还可以在扩展管理中手动启用。",
+          "link": "https://www.solidot.org/story?sid=80676",
+          "publishedOn": "2025-02-28T06:53:17.000Z",
+          "wordCount": 214,
+          "title": "Microsoft Edge 准备淘汰 Manifest V2 扩展开始禁用 uBlock Origin",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80675",
+          "author": null,
+          "description": "OpenAI 周四开始向部分开发者和支付 200 美元月费的用户提供其新一代模型 GPT-4.5 的访问，下周开放给  ChatGPT Plus 订阅用户。GPT-4.5 原计划去年推出，但因为开发挑战而推迟。OpenAI CEO Sam Altman 称原因是 GPU 耗尽了。Altman 称在让更多用户访问 GPT-4.5 前需要增加数以万计的 GPU。因为其规模，GPT-4.5 价格非常昂贵，模型输入每百万个 token 收取 75 美元，模型生成每百万个 token 收取 150 美元，这一收费标准分别是 GPT-4o 模型的 30 倍和 15 倍。",
+          "link": "https://www.solidot.org/story?sid=80675",
+          "publishedOn": "2025-02-28T06:23:42.000Z",
+          "wordCount": 199,
+          "title": "OpenAI 推出 GPT-4.5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80674",
+          "author": null,
+          "description": "Meta 解雇了约 20 名向外界泄漏公司机密的员工。Meta 发言人 Dave Arnold 表示，员工入职时就被告知，并被定期提醒，无论是出于什么意图，泄漏内部信息是违反公司政策的。最近的一次调查中，有大约 20 名员工因向外界泄漏机密而被解雇，预计还会有更多员工因相似原因被解雇。Meta CEO Mark Zuckerberg 此前在一次公司全员会议上警告不要泄密，结果这则信息也被泄漏出去了。Meta 加大了寻找泄密者的力度。",
+          "link": "https://www.solidot.org/story?sid=80674",
+          "publishedOn": "2025-02-28T05:43:30.000Z",
+          "wordCount": 190,
+          "title": "Meta 解雇了约 20 名泄密的员工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80673",
+          "author": null,
+          "description": "EA 在一位 MOD 开发者 Luke \"CCHyper\" Feenan 帮助下在 GPLv3 许可证下公开了多款《命令与征服》系列游戏的源代码，其中包括：原版《命令与征服》（aka《泰伯利亚黎明》）、《命令与征服：红色警戒》、《命令与征服：叛逆者》、《命令与征服：将军》 及其扩展《零点行动》。EA 还为 Steam 上的《命令与征服》系列加入 Steam Workshop 支持，允许社区的地图创作者创作自定义地图并发布在 Steam 上。EA 还发布了 C&C Modding Support 包，提供了原游戏开发商 Westwood 使用的 SAGE 引擎的 Xml、Schema、Script、Shader 和 Map 文件。",
+          "link": "https://www.solidot.org/story?sid=80673",
+          "publishedOn": "2025-02-28T03:51:16.000Z",
+          "wordCount": 191,
+          "title": "EA 开源命令与征服系列游戏",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80672",
           "author": null,
@@ -1053,106 +1168,6 @@
           "wordCount": 220,
           "title": "27% 的 CFO 职位招聘描述提及 AI",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80595",
-          "author": null,
-          "description": "一项对 16 个主要城市的研究发现，全球变暖正在帮助老鼠在世界各大城市茁壮成长，平均气温上升最快的地区，老鼠的数量增长也最快。直接估算一个城市的老鼠数量极其困难，弗吉尼亚州里士满大学的研究人员通过查看城市记录在案的老鼠投诉数量，了解老鼠种群的变化情况。他们获得了13 个美国城市以及东京、阿姆斯特丹和多伦多的数据。分析表明，美国新奥尔良、路易斯维尔和日本东京的老鼠数量正在下降，达拉斯和圣路易斯的老鼠数量保持稳定，而其他 11 个城市的老鼠数量正在上升，其中华盛顿特区、旧金山、多伦多、纽约和阿姆斯特丹的老鼠数量增长最快。研究发现，老鼠数量增长与平均气温上升的关系最为密切，其次是根据卫星照片评估的城市化程度，然后是人口密度，城市的 GDP 与老鼠数量的趋势没有明显关联。",
-          "link": "https://www.solidot.org/story?sid=80595",
-          "publishedOn": "2025-02-19T14:17:45.000Z",
-          "wordCount": 178,
-          "title": "全球暖化可能导致城市鼠患",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80594",
-          "author": null,
-          "description": "Valve 上周从 Steam 平台移除了一款植入恶意程序的游戏 PirateFi。该游戏被发现会安装窃取敏感数据的恶意程序 Vidar，能窃取玩家的密码、cookie 和加密货币钱包。分析该恶意程序的安全研究人员 Marius Genheime 认为 PirateFi 就是为传播 Vidar 而开发的，它修改自游戏模板 Easy Survival RPG，其授权费用在 399-1,099 美元之间，这能解释黑客如何快速开发出一款能运行的游戏。Vidar 能窃取浏览器自动填写的网站密码、用于自动登录的会话 cookie、浏览历史记录、加密货币钱包、屏幕截图、特定令牌生成器的双因素代码，以及计算机上的其它文件。",
-          "link": "https://www.solidot.org/story?sid=80594",
-          "publishedOn": "2025-02-19T14:10:48.000Z",
-          "wordCount": 194,
-          "title": "黑客在 Steam 游戏中植入恶意程序窃取玩家敏感数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80593",
-          "author": null,
-          "description": "Linux 内核开发者在邮件列表上继续围绕是否合并 Rust 代码展开辩论。DMA 映射助手维护者 Christoph Hellwig 是坚定的反 Rust 派，他认为内核引入 Rust 代码会创造碎片化，增加维护者的负担。对于 Miguel Ojeda 创建的 rust 内核政策网页，Hellwig 认为没有什么用，他说 Linus Torvalds 曾私下表示会不顾维护者的反对意见合并 Rust 代码。所以到目前为止，作为一名 Linux 开发者或维护者，无论是否愿意，都必须与 Rust 打交道。现在的规则是 Linus 能强迫你做任何他想做的事（Linux 显然是他的项目），“我认为他需要非常清楚的说出来，包括对贡献者的期望。”",
-          "link": "https://www.solidot.org/story?sid=80593",
-          "publishedOn": "2025-02-19T13:49:11.000Z",
-          "wordCount": 212,
-          "title": "内核维护者称 Linus Torvalds 会不顾他们的反对意见合并 Rust 代码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80592",
-          "author": null,
-          "description": "Valve 更新了 Source SDK，加入了《团队要塞2》(Team Fortress 2 或 TF2)客户端和服务器端代码。Valve 称这次更新允许内容创作者在《团队要塞2》基础上构建全新的游戏。SDK 让 Mod 作者能修改、扩展或重写 TF2。SDK 以非商业方式授权给用户，意味着使用 SDK 创建的任何 Mod 都必须免费，且 Mod 中的任何内容都必须免费。TF2 Mod 可在 Steam 商店发布。Valve 没有开源《团队要塞2》使用的 Source 引擎，只是 SDK。",
-          "link": "https://www.solidot.org/story?sid=80592",
-          "publishedOn": "2025-02-19T09:38:00.000Z",
-          "wordCount": 193,
-          "title": "Valve 公开《团队要塞2》 SDK",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80591",
-          "author": null,
-          "description": "开发人气手游《精灵宝可梦GO》的美国 Niantic 公司正就将游戏业务出售给沙特政府系的美国手游开发商Scopley 展开谈判。出售价格据报道约为 35 亿美元。出售对象包括《精灵宝可梦GO》及其他手游。《精灵宝可梦GO》于 2016 年上线，在全球颇受青睐。Scopley 是沙特公共投资基金（PIF）设立的一家游戏集团的旗下公司。该游戏集团的业务是投资和运营游戏公司。Scopley 意在通过收购确保稳定的利润来源。",
-          "link": "https://www.solidot.org/story?sid=80591",
-          "publishedOn": "2025-02-19T07:31:38.000Z",
-          "wordCount": 169,
-          "title": "Niantic 考虑向沙特系企业出售《精灵宝可梦GO》",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80590",
-          "author": null,
-          "description": "美国报业巨头李氏企业公司（Lee Enterprises）成为最新一家遭到勒索软件攻击之后在公开声明中避免提及勒索软件的上市公司。李氏在递交到 SEC 的 Form 8-K 文件中称，“威胁行为者非法访问了公司网络，加密了关键应用，窃取了特定文件。”这显然是典型的双重勒索攻击。该公司称，截至 2 月 12 日尚无确凿证据表明敏感信息或个人身份信息在攻击期间泄露，尚未恢复正常服务的产品营收占总营收的 5%。李氏企业出版了 70 多家日报和近 350 家周刊和特定主题出版物。",
-          "link": "https://www.solidot.org/story?sid=80590",
-          "publishedOn": "2025-02-19T07:08:28.000Z",
-          "wordCount": 186,
-          "title": "美国报业巨头用修辞避免提及勒索软件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80589",
-          "author": null,
-          "description": "根据发表在《Lancet Public Health》期刊上的一项研究，欧洲预期寿命增长停滞，其中英格兰增速放缓幅度最大。专家将这一现象归因于糟糕饮食、缺乏活动和肥胖率大增。整个欧洲大陆的预期寿命年平均增长从 1990-2011 年的 0.23 岁降至 2011-2019 年的 0.15 岁。在研究的 20 个国家中，除挪威外的每个国家的预期寿命增速都出现了下降。英格兰的预期寿命年增速从 1990-2011 年的 0.25 岁降至 2011-2019 年的 0.07 岁，降幅达到 0.18 岁，其次是北爱尔兰（下降了 0.16 岁），以及威尔士和苏格兰（下降了 0.15 岁）。挪威、冰岛、瑞典、丹麦和比利时预期寿命增长最出色，即使新冠疫情期间也保持或提高了预期寿命。",
-          "link": "https://www.solidot.org/story?sid=80589",
-          "publishedOn": "2025-02-19T06:38:05.000Z",
-          "wordCount": 218,
-          "title": "欧洲预期寿命增长停滞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80588",
-          "author": null,
-          "description": "如果到 2100 年全球平均气温上升控制在比工业化前的水平高 1.5°C 以内，中国的陆地会发生什么变化？北京师范大学的研究人员尝试回答这一问题。模拟结果显示：在全球变暖 1.5°C 情景下，中国与山水林田湖草相关的生态系统质量有所改善；灌木、湿地和森林系统的面积预计分别增加 185%、79% 和 33%，其中低密度灌木、高密度湿地和高密度森林的增长最为显著。但耕地会大幅减少：35% 的现有耕地（截至 2020 年）将转变为其他类型，其中高密度耕地将减少近 50%。这一变化将对粮食安全构成严重挑战。耕地将主要转变为湿地和林地，尤其是在四川盆地、华北平原和东北平原等粮食生产地区。",
-          "link": "https://www.solidot.org/story?sid=80588",
-          "publishedOn": "2025-02-19T06:20:23.000Z",
-          "wordCount": 196,
-          "title": "中国陆地到 2100 年会发生什么变化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80587",
-          "author": null,
-          "description": "2023 年 6 月 Red Hat 宣布其企业发行版 RHEL（Red Hat Enterprise Linux）相关源码仅通过 CentOS Stream 公开。此举加大了面向企业的社区发行版如 Alma Linux 和 Rocky Linux 以及甲骨文的企业发行版 Oracle Linux 构建 1:1 二进制兼容版本的难度，引发了 Red Hat 走向闭源的批评。Red Hat 则坚称它遵守了 GPLv2 许可证的规定，恪守对开源的承诺。时隔近两年之后，自由软件基金会（FSF）做出了回应。FSF 称他们不赞同 Red Hat 的做法，此举是否构成对 GPL 的违反需要法律分析，而 FSF 不提供法律建议。Red Hat 的做法肯定违背了 GPL 的精神，他们本希望像 Red Hat 这样的组织能推动自由软件运动前进。GPL 只规定 Red Hat 有义务向其产品的购买者提供源代码，并没有声明源代码需要自由分发给每一个人。",
-          "link": "https://www.solidot.org/story?sid=80587",
-          "publishedOn": "2025-02-19T06:03:40.000Z",
-          "wordCount": 232,
-          "title": "FSF 回应 Red Hat 限制源代码获取",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80586",
-          "author": null,
-          "description": "在《Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World》一书出版近十年之后，知名加密技术和隐私专家 Bruce Schneier 表示一切照旧，没有发生改变。NSA 及其世界各地的同行仍然竭尽所能的大规模收集数据。云服务、物联网设备和智能手机的普及使得个人几乎不可能保护自己的隐私。我们越来越多的数据储存在云端，身边有越来越多的物联网设备，以及总是随身携带智能手机，走到哪里，隐私就跟着丢到哪里。虽然欧洲颁发了 GDPR(General Data Protection Regulation)等法律对个人数据收集进行限制，但仍然未能解决监控资本主义作为一种商业模式这一核心问题。而 AI 的兴起可能会破坏端对端加密。因为 AI 助手需要云端算力处理数据，个人可能不得不向公司交出更多数据。Schneier  对未来仍然保持乐观，相信大规模监控最终会被视为不道德的，就像今天的血汗工厂。但这一转变可能需要 50 年或更长时间。",
-          "link": "https://www.solidot.org/story?sid=80586",
-          "publishedOn": "2025-02-18T15:43:25.000Z",
-          "wordCount": 204,
-          "title": "Bruce Schneier 认为我们的隐私仍然被大规模收集",
-          "imageUrl": null
         }
       ]
     },
@@ -1222,6 +1237,36 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/happy-march-sale",
+          "author": null,
+          "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated sale called \"Happy March Sale\".\nNow each year, on the first day of March, we show a 50% discount offer to all users who visit our site.\nBuy a subscription now and see you next time! 🤑\nNo wait! Better rewrite ls in Rust. Then make it a Lambda function. Then Dockerize it. No, even better – put it all in Kubernetes, then spin up a distributed cluster on EC2. Then write a Hacker News post and get the upvotes! Yesssssss!",
+          "link": "https://catonmat.net/happy-march-sale",
+          "publishedOn": "2025-03-01T01:01:01.000Z",
+          "wordCount": 173,
+          "title": "Happy March Sale! 🎁",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/end-of-february-sale",
+          "author": null,
+          "description": "At Browserling and Online Tools, we love sales.\nWe just created new automated sale.\nOn the last day of February, we now run an End of Month Sale.\nBuy a subscription now and see you next time!\nNo wait! Write a new shell in Rust. Make it memory safe and async-first. Post it on Hacker News with the title \"Bash is Dead, Long Live RustShell\". Get 1,000 comments arguing about whether async is overkill for a shell. Then rewrite it in Python 3.11 because it's faster than Python 3.10. Use the := operator where possible, like a real pascalista. Yesss! That's it!",
+          "link": "https://catonmat.net/end-of-february-sale",
+          "publishedOn": "2025-02-28T08:08:08.000Z",
+          "wordCount": 190,
+          "title": "End of February Sale! 🎁",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
+          "id": "https://catonmat.net/tor-browser-online-no-download",
+          "author": null,
+          "description": "TLDR: Want to use Tor without downloading anything? Try it online at browserling.com/tor. I and my team set up a cloud-based version of the Tor browser that runs in a virtual machine so that you can test onion sites straight from your regular browser. No installs. Just click and go!\nWhat is the Tor browser?\nThe Tor browser is a special web browser that lets you browse the Internet anonymously. It works by sending your traffic through a network of encrypted servers, hiding your real location and IP address. People use it to access blocked websites, protect their privacy, and test their .onion sites on the deep web.\nCan I use an online Tor browser on my phone?\nYes! Our online Tor browser works on any device, including smartphones and tablets. Since it runs in the cloud, you don't need to dow…",
+          "link": "https://catonmat.net/tor-browser-online-no-download",
+          "publishedOn": "2025-02-28T04:24:44.000Z",
+          "wordCount": 1041,
+          "title": "How to Get a Tor Browser Online (No Download)",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/utf8-tools-now-have-neat-icons",
           "author": null,
@@ -1300,16 +1345,6 @@
           "publishedOn": "2025-02-20T02:02:02.000Z",
           "wordCount": 335,
           "title": "Online Text Tools Now Have Neat Icons",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/615-million-google-clicks",
-          "author": null,
-          "description": "+0.01M Clicks. Every. Single. Day. 🚀\nYesterday Online PNG Tools smashed through 6.14M Google clicks and today it's smashed through 6.15M Google clicks!\nSmash too and see you tomorrow at 6.16M clicks! 💦\nPS. Use coupon code SMASHLING for a 30% discount on these tools. 💸",
-          "link": "https://catonmat.net/615-million-google-clicks",
-          "publishedOn": "2025-02-19T09:19:29.000Z",
-          "wordCount": 133,
-          "title": "6.15 Million Google Clicks! 🤑",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
