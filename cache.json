@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=51238",
+          "author": "青小蛙",
+          "description": "来自小众软件问题求助频道，有同学问：https://meta.appinn.net/t/topic/66997 不同品牌的手机，怎么同步通讯录、短信等信息 有2个不同品牌的手机，手机都没有root，现",
+          "link": "https://www.appinn.com/how-to-sync-contacts-sms-across-different-phone-brands/",
+          "publishedOn": "2025-03-02T11:26:54.000Z",
+          "wordCount": 2589,
+          "title": "不同品牌的手机，怎么同步通讯录、短信等信息",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/03/qa5-3.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=51234",
+          "author": "青小蛙",
+          "description": "微软宣布著名的网络电话工具 Skype 将于 2025 年 5 月退役，替代品是 Microsoft Teams，用户可以使用 Skype 账号登录 Teams。@Appinn 微软已经在 Skype",
+          "link": "https://www.appinn.com/skype-goodbye/",
+          "publishedOn": "2025-03-02T08:23:36.000Z",
+          "wordCount": 2680,
+          "title": "微软将关闭有 22 年历史的网络电话工具 Skype",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/03/Copy-of-appinn-homework-79.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=51230",
           "author": "青小蛙",
           "description": "著名的游戏开发商 EA（Electronic Arts）今天（2025年2月28日）在 GitHub 开放了《命令与征服》系列游戏的源代码，GPL V3 授权，用户可以自由地使用、修改和分发软件。@A",
@@ -160,16 +180,6 @@
           "wordCount": 2761,
           "title": "你知道吗？VxKex 让 Windows 7 也能跑 Win10/11 独占软件",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-64.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=51123",
-          "author": "青小蛙",
-          "description": "Obsidian 刚刚宣布工作场合使用不再需要商业许可证，免费适用于所有人、所有用途。以及，你的笔记内容永远是你的。@Appinn 再重申下 Obsidian 的理念 File over app，即文",
-          "link": "https://www.appinn.com/obsidian-free-for-work/",
-          "publishedOn": "2025-02-21T02:10:56.000Z",
-          "wordCount": 2621,
-          "title": "Obsidian 宣布永久免费商用，依旧：你的笔记永远是你的",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-61.jpg"
         }
       ]
     },
@@ -207,21 +217,6 @@
           "wordCount": 4733,
           "title": "Applying the Web Dev Mindset to Dealing With Life Challenges",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/06/brain-gears.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=384665",
-          "author": "Geoff Graham",
-          "description": "The View Transitions API is more a set of features than it is about any one particular thing. And it gets complex fast. But in this post, we’ll cover a couple ways to dip your toes into the waters without having to dive in head-first.\nToe Dipping Into View Transitions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/toe-dipping-into-view-transitions/",
-          "publishedOn": "2025-02-21T14:34:58.000Z",
-          "wordCount": 2478,
-          "title": "Toe Dipping Into View Transitions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/02/Screen-Recording-2025-02-14-at-2.22.14 PM.mov",
-            "length": "2794632",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/384665"
         }
       ]
     },
@@ -264,6 +259,16 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80689",
+          "author": null,
+          "description": "Google 联合创始人 Sergey Brin 在一份内部备忘录中督促从事 Gemini AI 产品相关工作的员工至少每个工作日都去办公室工作，并建议每周工作 60 小时，称这是生产力的最佳时间点。Brin 警告，AI 的竞争在加速，而 AGI 的终赛即将到来。AGI 指 AI 将达到或超越人类智能。Brin 在备忘录中说，Google 拥有赢得这场竞赛的所有要素，但必须加大努力。这份备忘录没有改变 Google 要求员工每周至少去办公室工作三天的政策。Brin 还在备忘录中批评没有付出更多努力的员工，称他们挫伤了所有人的士气。",
+          "link": "https://www.solidot.org/story?sid=80689",
+          "publishedOn": "2025-03-01T13:26:01.000Z",
+          "wordCount": 212,
+          "title": "Sergey Brin 督促 Google 员工一周工作 60 小时",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80688",
           "author": null,
@@ -963,116 +968,6 @@
           "wordCount": 211,
           "title": "Linus Torvalds 回应内核合并 Rust 代码争议",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80617",
-          "author": null,
-          "description": "Nontra Yantaprasert 的丈夫姓是 Null，当她冠上 Null 姓氏后开始遭遇以前从未遇到的麻烦。Null 被计算机科学家用于表示无效值，姓 Null 的用户一生中会遇到无数声称账号不存在的错误。Nontra 改姓 Null 后计划于 2014 年乘飞机回印度参加朋友的婚礼，结果处理其签证的印度领事馆声称计算机无法处理她的姓氏。她现在的应对之策而是偶尔用原来的姓氏，或者姓名之间加上连字符。Joseph Tartaro 在十年前让自己的车牌填上 NULL 一词，认为试图开罚单的交警会因为在数据里输入 NULL 而导致系统无法处理。2018 年他收到了 35 美元罚单，之后邮箱里塞满了数百张与他无关的交通罚单，因为系统将 null 与他的个人信息关联起来。微软研究员 Daan Leijen 称，现代计算机软件已能正确处理 null，但很多公司和机构不愿意放弃旧的方便的系统。",
-          "link": "https://www.solidot.org/story?sid=80617",
-          "publishedOn": "2025-02-21T14:49:06.000Z",
-          "wordCount": 195,
-          "title": "当你的姓氏是 Null",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80616",
-          "author": null,
-          "description": "地球上的生命演化持续受到来自地表及宇宙射线辐射的影响。邻近地球的超新星爆发可能会使地表接收的辐射强度提高好几个数量级，对生命演化产生深远影响。超新星爆发会将放射性铁-60 传播到地球。研究人员发现，距今约 200 至 300 万年前，一颗邻近地球的恒星产生超新星爆发，释放出放射性铁-60。而根据一项针对非洲东非裂谷湖泊病毒多样性的研究显示，该区域的病毒在约 250 万年前经历了显著的多样性变化。虽然目前无法直接证实这两者之间的关联，但它们出现在相同的时间，研究团队认为值得关注。",
-          "link": "https://www.solidot.org/story?sid=80616",
-          "publishedOn": "2025-02-21T14:06:26.000Z",
-          "wordCount": 189,
-          "title": "250 万年前的超新星爆发可能影响了地球病毒的演化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80615",
-          "author": null,
-          "description": "社交巨人 Meta 从 Z-Library 和 LibGen 等盗版电子书平台下载了逾百 TB 的电子书，被图书作者起诉称是史上规模最大的数据盗版活动之一。现在 Meta 试图说服法庭 BT 下载本身并不违法，而是一种广泛使用的下载大容量文件的协议。它通过 BT 下载该数据集只是为了访问公开的数据集，而且它下载时没有做种，没有与其他人共享盗版电子书。Meta 高管 Michael Clark 此前作证说，该公司在下载数据集时修改了 torrenting 设置，以尽可能少的做种。",
-          "link": "https://www.solidot.org/story?sid=80615",
-          "publishedOn": "2025-02-21T13:51:32.000Z",
-          "wordCount": 190,
-          "title": "Meta 称它下载了盗版电子书库但没有做种不违法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80614",
-          "author": null,
-          "description": "根据内部通信记录，从 2 月 18 日起惠普有意为寻求电话支持的客户加入 15 分钟的等待时间，以迫使他们使用在线支持或其它沟通渠道。当客户通过电话寻求惠普的支持服务时，他们将首先听到一段录音，称正经历更长的等待时间，对给客户带来的不便深表歉意。下一位可用代表将在约 15 分钟后联系客户。如果客户不想等待，可以访问 support.hp.com 或 virtualagent.hpcloud.hp.com 获得支持。如果客户仍然想要电话支持，那么惠普会在 5 分钟和 10 分钟以及 13 分钟后继续播放一段忙碌的录音，继续建议客户使用替代支持方法。惠普此举被认为是为了省钱。",
-          "link": "https://www.solidot.org/story?sid=80614",
-          "publishedOn": "2025-02-21T10:54:10.000Z",
-          "wordCount": 192,
-          "title": "惠普有意为电话支持加入 15 分钟的等待时间",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80613",
-          "author": null,
-          "description": "OpenAI 首席运营官 Brad Lightcap 披露 ChatGPT 周活跃用户突破 4 亿。ChatGPT 于 2022 年 11 月上线，2023 年 1 月月活用户达到一亿，2024 年 8 月周活跃用户超过 2 亿。全世界大约有 80 亿人口，4 亿相当于总人口数的 5%。杭州深度求索 DeepSeek 上个月发布的开源大模型一度引发了 OpenAI 能保持其领先位置的质疑。OpenAI 的回应是将简化 ChatGPT，用户无需选择哪种推理模型响应输入，将更快的向客户提供新一代的 GPT-4.5 和 GPT-5 模型。",
-          "link": "https://www.solidot.org/story?sid=80613",
-          "publishedOn": "2025-02-21T10:13:24.000Z",
-          "wordCount": 210,
-          "title": "ChatGPT 周活跃用户突破 4 亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80612",
-          "author": null,
-          "description": "英国研究人员从 UK Biobank 数据库中筛选出 454,796 名参与者，详细询问了他们喝热饮（茶和咖啡）的情况，同时收集了年龄、性别、种族、教育程度、生活习惯（吸烟、喝酒、运动情况）、健康状况以及饮食摄入等个人数据。研究人员通过和国家癌症登记处的数据进行关联，确定了这些参与者中食管癌的发病情况，并将病例分为食管鳞状细胞癌（ESCC）和食管腺癌（EAC）两种类型。结果显示，喝热或很热的饮品是 ESCC 的一个风险因素，而且喝得越多，风险越高；不过并没有发现热饮温度和 EAC 的发病之间存在明显联系。",
-          "link": "https://www.solidot.org/story?sid=80612",
-          "publishedOn": "2025-02-21T08:18:12.000Z",
-          "wordCount": 185,
-          "title": "英国研究发现热饮与食管癌相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80611",
-          "author": null,
-          "description": "日本中央教育审议会工作小组达成了一致，为了扩大数字教科书的使用，将其认定为无偿提供的正式教科书。还将认可纸质与数字混合使用的“混合教科书”。预计各地方政府将从纸质、数字和混合三种形式中进行选择。数字教科书可以利用视频、音频等多种内容，有望促进学生对内容的理解。数字教科书通过配备给每位学生的学习终端使用。可以听英语单词的发音或为日本汉字标注读音等。还可以观看理科实验视频等，加深理解。",
-          "link": "https://www.solidot.org/story?sid=80611",
-          "publishedOn": "2025-02-21T07:51:05.000Z",
-          "wordCount": 156,
-          "title": "日本将引入数字教科书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80610",
-          "author": null,
-          "description": "2021 年 12 月底，山东济宁市第一人民医院发表了一份通报，称对 35 名涉嫌论文造假的研究人员进行了处罚。该医院的年轻医生从论文工厂购买了假论文以满足工作和获得更高职称的要求。《自然》新闻团队的调查发现，济宁市第一人民医院是全世界撤稿率最高的机构。从 2014 年到 2024 年，该医院发表的论文中超过 100 篇占\n其总数的 5% 被撤稿。这一撤稿率比全中国的平均撤稿率高出一个数量级，是全世界平均水平的 50 倍。撤稿率前十的机构有七家来自中国，其中包括第二的河北沧州中心医院、第三的河南大学淮河医院、第五的潍坊人民医院、第六的临沂人民医院、第八的新乡医学院第一附属医院、第九的齐齐哈尔医学院。其它三家机构来自印度、巴基斯坦和埃塞俄比亚。",
-          "link": "https://www.solidot.org/story?sid=80610",
-          "publishedOn": "2025-02-21T07:34:46.000Z",
-          "wordCount": 180,
-          "title": "研究发现山东济宁第一人民医院撤稿率全球最高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80609",
-          "author": null,
-          "description": "微软已经停止支持 Windows 7/8/8.1 操作系统，而操作系统上最流行的应用——即浏览器如 Google Chrome 和 Microsoft Edge 都停止了对上述旧操作系统的支持，Mozilla 于 2023 年 7 月释出的 Firefox 115 ESR 是 Firefox 支持 Windows 7/8/8.1 的最后一个版本。Mozilla 开发者去年初透露他们在考虑延长对 Windows 7/8/8.1 的支持时间，但尚未决定支持多长时间。现在根据最新的发布计划，Mozilla 宣布 Firefox 115 ESR 将会支持到 2025 年 9 月，在 8 月份进行一次重新评估，将宣布 Firefox 115 的终止支持时间。Mozilla 计划继续为 115 ESR 释出安全更新直至 8 月 19 日的 Firefox 115.27 ESR。",
-          "link": "https://www.solidot.org/story?sid=80609",
-          "publishedOn": "2025-02-21T06:48:49.000Z",
-          "wordCount": 250,
-          "title": "Firefox 115 ESR 将支持 Windows 7/8/8.1 到 2025 年 9 月",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80608",
-          "author": null,
-          "description": "通过智能手机上网已成为我们生活的一部分，很多人每天在手机上花几小时时间上网冲浪。而 PNAS Nexus 发表的一项研究发现，如果在手机上切断网络，仅仅持续两周就能改善一个人的心理健康，他们会更快乐，注意力也会更长。过去 15 年智能手机改变了我们的生活和行为，过度使用智能手机已经引发了很多人的担忧。为了调查智能手机的影响，研究人员展开了为期一个月的实验，通过 Prolific 从美国和加拿大招募了 467 名参与者。他们都使用 iPhone 手机，因为屏蔽网络的应用只支持 iPhone，参与者的平均年龄为 32 岁，其中 63% 为女性。结果显示，仅仅两周的干预就显著改善了他们的心理健康。",
-          "link": "https://www.solidot.org/story?sid=80608",
-          "publishedOn": "2025-02-20T15:41:56.000Z",
-          "wordCount": 186,
-          "title": "研究发现手机断网有助于改进心理健康",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80607",
-          "author": null,
-          "description": "亚马逊宣布将于 8 月 20 日关闭其 Android 应用商店 Android Appstore，结束了在 Android 移动生态系统中挑战 Google Play Store 的尝试。Android Appstore 于 2011 年上线，为 Android 用户提供了一种下载应用的替代应用商店。亚马逊称它的应用商店仍可在其它设备上运行，包括 Fire TV 和 Fire 平板电脑设备。但自 2025 年 8 月 20 日起，从其应用商店下载的任何应用不保证能够在 Android 设备上运行。亚马逊 coins 也将停用，用户需要在 8 月 20 日前花掉。",
-          "link": "https://www.solidot.org/story?sid=80607",
-          "publishedOn": "2025-02-20T15:00:31.000Z",
-          "wordCount": 221,
-          "title": "亚马逊将于 8 月 20 日关闭 Android Appstore",
-          "imageUrl": null
         }
       ]
     },
@@ -1142,6 +1037,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/online-tor-browser-faq",
+          "author": null,
+          "description": "This is an excerpt from my popular Tor Browser Guide. In this excerpt, I'll cover the basics of using an online Tor browser, how it protects your privacy, and some common questions about the onion network security.\nOnline Tor Browser Demo\nI and my team have created an online Tor browser version. Head over to browserling.com/tor use our cloud-based Tor browser. It works straight from your browser and there's nothing to  download or install. Just click and go!\nOnline Tor Browser FAQ\nWhat is an Online Tor Browser?\nAn Online Tor Browser is a cloud-based version of the Tor Browser that you can use without installing anything on your device. It lets you test your Onion websites by routing your traffic through the Tor network, just like the regular Tor Browser. This is useful if you can't install…",
+          "link": "https://catonmat.net/online-tor-browser-faq",
+          "publishedOn": "2025-03-02T21:20:00.000Z",
+          "wordCount": 788,
+          "title": "Online Tor Browser FAQ",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/616-million-google-clicks",
           "author": null,
@@ -1270,16 +1175,6 @@
           "publishedOn": "2025-02-22T02:22:02.000Z",
           "wordCount": 242,
           "title": "King County, WA is now a Browserling customer!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/orange-county-browserling-customer",
-          "author": null,
-          "description": "Success! Orange County in California is now a Browserling customer!\nIt's another small step for a ling but one giant leap for ling kind.\nWhat Is Browserling?\nBrowserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.\nWho Uses Browserling?\nBrowserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.\nSee you next time!",
-          "link": "https://catonmat.net/orange-county-browserling-customer",
-          "publishedOn": "2025-02-21T13:31:13.000Z",
-          "wordCount": 249,
-          "title": "Orange County, CA is now a Browserling customer!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
