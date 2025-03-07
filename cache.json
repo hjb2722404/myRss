@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=51270",
+          "author": "青小蛙",
+          "description": "来自小众软件论坛的 @Dark_Matter_Traveler 同学分享了一款开源安卓短信清理应用，名称就叫短信清理。@Appinn 来自发现频道：https://meta.appinn.net/t/",
+          "link": "https://www.appinn.com/sms-cleanup-android/",
+          "publishedOn": "2025-03-06T07:35:18.000Z",
+          "wordCount": 2610,
+          "title": "安卓开源短信清理应用：关键词删除、同号码短信删除，备份短信为 .csv",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/03/Copy-of-appinn-homework-88.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=51266",
           "author": "青小蛙",
           "description": "CameraTrapAI 是谷歌训练的人工智能模型项目，可以从相机陷阱拍摄的照片中识别野生动物，并且进行物种分类。@Appinn 相机陷阱 相机陷阱指使用动作传感器、红外探测器或其他光束作为触发机关的",
@@ -165,26 +175,6 @@
           "wordCount": 2677,
           "title": "Bandizip 7.37 免费版已经出现桌面弹窗广告，4 款开源压缩/解压缩软件替代品",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-72.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=51183",
-          "author": "青小蛙",
-          "description": "VDraw.ai 是一个基于 AI 的在线作图工具，只需要填写主题，就能创建信息图表、流程图、图书摘要图、PDF 摘要图、笔记图等，可选择模版，快速生成 png 图片。让作图也可以简单，快乐。@App",
-          "link": "https://www.appinn.com/vdraw-ai/",
-          "publishedOn": "2025-02-25T09:26:36.000Z",
-          "wordCount": 2621,
-          "title": "🚨打工人救星！VDraw.ai 图表工具：填空→模板→下载，1分钟交差",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-71.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=51177",
-          "author": "青小蛙",
-          "description": "最近两天，有不少用户发现在全新安装微软 Office 365 之后，登录时可选择「暂时跳过」，就可以触发免费 Office，包括 Word、Excel、PPT 三件套，有功能缺失、有广告，但免费。不过",
-          "link": "https://www.appinn.com/microsoft-365-free-with-ad/",
-          "publishedOn": "2025-02-25T06:17:27.000Z",
-          "wordCount": 2674,
-          "title": "微软测试免费 Office 365 三件套，带广告",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/02/Copy-of-appinn-homework-70.jpg"
         }
       ]
     },
@@ -193,6 +183,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=385117",
+          "author": "Geoff Graham",
+          "description": "This easily qualifies as a \"gotcha\" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.\nMaybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/",
+          "publishedOn": "2025-03-06T16:33:55.000Z",
+          "wordCount": 1833,
+          "title": "Maybe don’t use custom properties in shorthand properties",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/custom-properties-code.png"
+        },
         {
           "id": "https://css-tricks.com/?p=384971",
           "author": "Preethi",
@@ -274,6 +274,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80730",
+          "author": null,
+          "description": "Google 正督促特朗普政府的司法部不要拆分该公司，理由是国家安全。去年 11 月法官裁决 Alphabet/Google 涉嫌垄断，拜登政府的司法部要求 Google 出售浏览器 Chrome，停止向苹果等公司支付数十亿美元换取成为默认搜索引擎的交易，以及做出其它业务方面的改革。在特朗普政府下，此案仍将继续下去，法官将在下个月举行相关听证会。彭博的报道称，Google 的一名代表在上周举行的一个会议上督促政府采取不那么激进的立场。该公司给出的理由是目前的提议可能损害经济和国家安全。",
+          "link": "https://www.solidot.org/story?sid=80730",
+          "publishedOn": "2025-03-06T11:43:07.000Z",
+          "wordCount": 178,
+          "title": "Google 以国家安全理由希望不被肢解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80729",
+          "author": null,
+          "description": "意大利科学家将光转化为超固体。研究报告发表在《自然》期刊上。超固体同时具有零粘度和类似于盐晶体中原子排列的晶体状结构。这些奇特材料在量子领域之外没有对应的物质。正因为如此，它们以前只能在原子冷却到极低温度的实验中产生，否则可以忽略不计的量子效应会占主导地位。但在这个实验中，研究人员用半导体砷化铝镓和激光取代了超冷原子。他们将激光照射到一小块带有窄脊图案的半导体上。光与材料之间的复杂相互作用最终形成了一种称为极化子的混合粒子。窄脊图案限制了这些“准粒子”的移动方式及它们所能具有的能量，从而使得极化子形成了超固体。",
+          "link": "https://www.solidot.org/story?sid=80729",
+          "publishedOn": "2025-03-06T11:02:26.000Z",
+          "wordCount": 162,
+          "title": "光首次被转化为超固体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80728",
+          "author": null,
+          "description": "NASA JPL 任务工程师于 2 月 25 日关闭了航海家 1 号上的宇宙射线子系统实验装置，将于 3 月 24 日关闭航海家 2 号上的低能带电粒子仪，希望借此减缓两艘探测器电力消耗的速度。航海家 1 号和 2 号于 1977 年发射，近五十年来持续依靠其放射性同位素动力系统，也就是利用钸衰变的热量产生电力。项目经理表示：如果我们现在不关闭每艘航海家号上的部分仪器，那么它们的电力可能只能维持几个月。这也不是第一次关闭航海家号的部分机能，早在去年十月，科学家们便因为航海家二号上测量等离子体粒子数量及方向的等离子体科学仪器收集的数据有限，而关闭仪器以节省电力。",
+          "link": "https://www.solidot.org/story?sid=80728",
+          "publishedOn": "2025-03-06T10:22:44.000Z",
+          "wordCount": 191,
+          "title": "NASA 关闭航海家的科学设备以节省电力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80727",
+          "author": null,
+          "description": "一项对近 80,000 名丹麦男性进行的研究表明，精液质量与寿命相关。该研究对男性进行了长达 50 年的跟踪，发现那些总活动精子数超过 1.2 亿的男性，比总活动精子数在 0 到 500 万之间的男性预期寿命长两到三年。研究人员分析了 78,284 名男性的数据，这些男性在 1965 年至 2015 年间因报告的夫妻不孕问题在哥本哈根的公共精液分析实验室接受了精液质量检测。这意味着这些男性的精液质量从非常好到无精子不等。研究人员利用丹麦的国家登记数据，查看有多少人死于任何原因。在这段时间里，共有 8,600 人死亡，占该组男性的 11%。计算显示，总活动精子数超过 1.2 亿的男性比总活动精子数在 0 到 500 万之间的男性寿命长 2.7 年。精液质量越低，预期寿命越短。研究人员认为，较差的精液质量可能是其他影响生育能力和整体健康的潜在因素的指标。",
+          "link": "https://www.solidot.org/story?sid=80727",
+          "publishedOn": "2025-03-06T10:00:04.000Z",
+          "wordCount": 195,
+          "title": "研究发现精液质量与男性寿命相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80726",
+          "author": null,
+          "description": "美国私营太空公司 Firefly Aerospace 3 月 2 日宣布其月球着陆器 Blue Ghost 成功登陆月球表面，成为首个实现月球软着陆的商业公司。NASA 表示，这项公私合作项目成功演示了在月球上使用地基 GPS 导航信号的能力，标志着阿尔忒弥斯登月任务向前迈进了一大步。精确且可靠的导航对执行月球飞行任务的未来宇航员至关重要，但在距离地球 36 万公里的地方传统的导航工具基本没什么用。一种解决方法是将 Global Navigation Satellite System(GNSS) 的数据传输到月球表面以自动测量时间、速度和位置。Blue Ghost 搭载的项目之一就是 NASA 和意大利航天局合作的 Lunar GNSS Receiver Experiment(LuGRE)。LuGRE 依赖于两大 GNSS 星座——GPS 和 Galileo，基于数十颗提供实时跟踪数据的中地球轨道卫星进行三角定位。",
+          "link": "https://www.solidot.org/story?sid=80726",
+          "publishedOn": "2025-03-06T09:44:35.000Z",
+          "wordCount": 212,
+          "title": "NASA 首次在月球上使用 GPS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80725",
+          "author": null,
+          "description": "OpenAI 目前将其用户账户分成三个级别：免费、20 美元月费的 Plus 和 200 美元的 Pro。OpenAI 据报道准备为其不同能力水平的智能体（AI Agent）推出一种分级定价结构：月费 2000 美元的智能体，针对高收入知识工作者；月费 1 万美元的软件开发智能体；月费 2 万美元的博士水平研究智能体。OpenAI 目前的年收入大约为 40 亿美元，该公司向投资者表示其智能体产品未来可能占到收入的 20-25%。",
+          "link": "https://www.solidot.org/story?sid=80725",
+          "publishedOn": "2025-03-06T08:44:23.000Z",
+          "wordCount": 204,
+          "title": "OpenAI 计划对博士水平的 AI 智能体收取 2 万美元月费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80724",
+          "author": null,
+          "description": "根据 Carbon Majors 的《2023 Data Update》报告，36 家石化巨头产生的碳排放占到了全球的一半。报告认为，沙特阿美、印度煤炭、埃克森美孚、壳牌、中国国家能源集团和晋能集团等 36 家主要化石燃料公司生产的煤炭、石油和天然气在 2023 年产生了逾 200 亿吨的二氧化碳排放。如果沙特阿美是一个国家，它将是中国、美国和印度之后的第四大排放国，而埃克森美孚的排放量与世界第九大排放国德国相当。如果全世界希望将气温上升限制在 1.5C 以内，那么到 2030 年全球排放量必须下降 45%。然而全世界的排放量仍然在上升。Carbon Majors  数据库 169 家公司中的大部分在 2023 年增加了排放量，而 2023 年是当时有记录以来最热的一年（2024 年超过了 2023 年）。",
+          "link": "https://www.solidot.org/story?sid=80724",
+          "publishedOn": "2025-03-06T08:12:23.000Z",
+          "wordCount": 193,
+          "title": "36 家石化巨头产生的碳排放占到了全球的一半",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80723",
+          "author": null,
+          "description": "美国停止分享其分布在世界各地的大使馆和领事馆收集的空气质量数据。此举令科学家感到担忧，他们认为美国分享的数据对于监测全球空气质量和改善公共健康很重要。美国国务院回应称，其空气质量监测项目不再传输给美国环保署的 AirNow 应用，原因是资金限制导致该部门关闭了“底层网络”，大使馆和领事馆被要求继续运行其空气质量监测设备，一旦资金恢复，将会恢复数据共享。专家称，美国使馆收集的空气质量数据通常被认为很可靠，可以与当地政府收集和公布的数据进行交叉对比。此外在部分非洲国家美国使馆的数据是了解空气质量的唯一来源。",
+          "link": "https://www.solidot.org/story?sid=80723",
+          "publishedOn": "2025-03-06T07:36:51.000Z",
+          "wordCount": 171,
+          "title": "美国停止分享大使馆领事馆收集的空气质量数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80722",
+          "author": null,
+          "description": "根据发表在《Nature Food》上的一项新研究，如果全球升温超过 1.5°C 阈值，作物多样性的大幅下降可能会对全球粮食安全产生显著影响。尤其是低纬度地区，受到的影响远超中高纬度地区。风暴、洪水、野火、干旱……全球变暖已经在重塑人们的日常生活。而气温的持续上升，将威胁全球1/3的粮食产能。为此，芬兰阿尔托大学的研究人员对全球 30 种主要粮食作物进行研究，分析未来温度、降水和干旱变化对它们生长情况产生的影响。结果发现，低纬度地区作物受到的影响远大于中纬度或高纬度地区。在气候条件变得不适合生产的情况下，低纬度地区高达一半的作物产量面临威胁。与此同时，该地区的作物多样性也将大幅下降。研究人员发现，气候变暖将使全球可栽培的主要作物，如水稻、玉米、小麦、马铃薯和大豆的耕地面积大幅缩小。而这些作物提供了世界超2/3 的粮食能量摄入。此外，对低收入地区粮食安全至关重要的山药等热带块根作物以及谷物和豆类尤其容易受到伤害。",
+          "link": "https://www.solidot.org/story?sid=80722",
+          "publishedOn": "2025-03-06T07:08:30.000Z",
+          "wordCount": 171,
+          "title": "全球暖化威胁低纬度地区到粮食产量",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80721",
+          "author": null,
+          "description": "犹他州通过了《App Store Accountability Act》，成为美国第一个通过法律要求应用商店运营商验证用户年龄且未成年人下载应用需要征得父母同意的州。美国其它州也在推动类似的儿童网络安全保护法案，但面临法律挑战，许多法案都被法庭阻止推行。《App Store Accountability Act》将年龄验证的责任从网站转移到了移动应用商店，Meta、Snap 和 X 在一份联合声明中对此表达了支持，督促美国国会通过类似的立法。而 Chamber of Progress 等批评者则认为该法律威胁到了隐私和宪法权利。",
+          "link": "https://www.solidot.org/story?sid=80721",
+          "publishedOn": "2025-03-06T06:59:09.000Z",
+          "wordCount": 177,
+          "title": "犹他州要求美国应用商店验证用户年龄",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80720",
           "author": null,
@@ -983,146 +1083,6 @@
           "wordCount": 198,
           "title": "Christoph Hellwig 不再担任 DMA 维护者",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80649",
-          "author": null,
-          "description": "探地雷达在火星上发现了古代海滩的地下特征，显示红色星球的北部曾经有一片海洋。研究团队将其命名为 Deuteronilus。研究人员利用了中国航天局祝融号火星车收集的数据。火星车搭载了探地雷达，能绘制火星表面下 80 米深的地图。探地雷达数据显示了类似地球古代海岸线的地下特征，表明火星曾经有一个巨大的液体海洋，其水循环至少持续了数百万年。最新发现支持了火星过去存在适宜生命生存的条件。",
-          "link": "https://www.solidot.org/story?sid=80649",
-          "publishedOn": "2025-02-25T14:24:41.000Z",
-          "wordCount": 170,
-          "title": "火星上的古代海滩显示它曾经有海洋",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80648",
-          "author": null,
-          "description": "WHO 周一报告，未知疾病在刚果西北部杀死了逾 50 人。大部分人出现病状和死亡的间隔是 48 小时。这一波疫情始于 1 月 21 日，目前记录到 419 个病例，死亡 53 人。首批病例出现的地点是 Boloko 镇，三名儿童吃了一只蝙蝠后出现出血热症状后在 48 小时内死亡。在广泛食用野生动物的地区，一直存在疾病从动物传播给人类的担忧。WHO 在 2022 年称，非洲的此类疫情过去十年增加了六成以上。对于最新的疫情，WHO 称样本检测没有发现埃博拉病毒或马尔堡病毒，部分样本显示疟疾阳性。",
-          "link": "https://www.solidot.org/story?sid=80648",
-          "publishedOn": "2025-02-25T13:55:43.000Z",
-          "wordCount": 201,
-          "title": "未知疾病在刚果杀死了逾 50 人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80647",
-          "author": null,
-          "description": "一项研究发现，连续 5 天沉溺于摄入巧克力、薯片以及其他垃圾食品，会使大脑活动产生缓慢且持续的变化，最终导致的大脑模式与肥胖者的相似。研究还发现，在健康年轻男性中，垃圾食品虽然改变了大脑模式，但他们的体重和身体成分，如肌肉、骨骼、脂肪等的含量并未改变。在人类进食后，胰腺会释放胰岛素帮助代谢。其中部分胰岛素进入大脑，抑制食欲。部分肥胖者的大脑对胰岛素的反应会减弱，即出现了“大脑胰岛素抵抗”，从而影响食物摄入。研究人员招募了 29 名健康的男性志愿者，其中 18 人连续 5 天维持高热量饮食。研究人员利用血流成像监测参与者大脑活动情况，分别在 5 天实验开始前、结束时以及结束一周后进行成像。每次成像前，志愿者通过胰岛素鼻喷剂提高大脑中的激素水平。结果发现，5 天实验结束时，摄入垃圾食品组的志愿者与饮食变化和奖励反馈相关的 3 个脑区的活跃度高于对照组。这种大脑活动模式与肥胖或胰岛素抵抗患者的大脑活动模式相似，后者可能导致 2 型糖尿病。而实验结束 7 天后，摄入垃圾食品组的志愿者与记忆和食物视觉信号反应相关的两个脑区活跃度较低。",
-          "link": "https://www.solidot.org/story?sid=80647",
-          "publishedOn": "2025-02-25T13:20:40.000Z",
-          "wordCount": 187,
-          "title": "短期摄入大量高热量饮食会改变大脑模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80645",
-          "author": null,
-          "description": "特斯拉汽车 1 月份在欧洲的销量暴跌，表明这家美国汽车制造商在其亿万富翁老板马斯克(Elon Musk)高调介入该地区政治之后，市场对其汽车的需求正在减弱。欧洲汽车制造商协会的数据显示，特斯拉上个月在欧洲的销量仅为 9900 辆，比 2024 年同期下降了 45% 以上。同期其在新车注册量中的总体份额从 1.8% 降至 1%。分析师称销量下滑的一个原因是消费者在等待计划于今年上半年上市的升级版 Y 型车。欧洲消费者在 1 月购买了 16.6 万辆电动汽车，同比增长 37%。其中销量增长最大的是上汽集团，同比增长 37% 至 23,000 辆。",
-          "link": "https://www.solidot.org/story?sid=80645",
-          "publishedOn": "2025-02-25T12:39:43.000Z",
-          "wordCount": 200,
-          "title": "特斯拉汽车欧洲 1 月销量暴跌 45%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80644",
-          "author": null,
-          "description": "音乐播放器项目 Aqualung 释出 2.0 版本。Aqualung 支持播放各种音频格式，支持将 CD 翻录为 WAV、FLAC、Ogg Vorbis 或 MP3，支持通过 RSS 或 Atom 源订阅播客。Aqualung 2.0 从 GTK2 迁移到了 GTK3，将 CSS 用于极简界面主题，移除对自定义皮肤的支持。用户可通过单个选项从默认主题切换到暗色主题。",
-          "link": "https://www.solidot.org/story?sid=80644",
-          "publishedOn": "2025-02-25T10:28:14.000Z",
-          "wordCount": 186,
-          "title": "Aqualung 2.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80643",
-          "author": null,
-          "description": "微软更新了 Windows 11 24H2 的英特尔 CPU 兼容性列表，将第 11 代酷睿前的英特尔处理器移除出列表。OEM 厂商的新 Windows 11 PC 如采用英特尔处理器需要使用 11 代或更新的 CPU。英特尔 11 代酷睿是在 2020 年上市，2024 年停产。今天的新 PC 不太可能继续使用这些旧 CPU。根据 Statcounter 的统计，尽管 Windows 10 即将停止支持，但它仍然是市场份额最大的操作系统，而阻碍 Windows 10 PC 升级到 Windows 11 的最大原因就是微软人为设置的硬件限制。",
-          "link": "https://www.solidot.org/story?sid=80643",
-          "publishedOn": "2025-02-25T10:05:06.000Z",
-          "wordCount": 225,
-          "title": "微软将第 11 代前的英特尔处理器移出 Windows 11 24H2 兼容列表",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80642",
-          "author": null,
-          "description": "迪拜交易所 Bybit 被盗走了价值 15 亿美元的加密货币，是至今金额最高的加密货币盗窃案。被盗的加密货币储存在一个多重签名的冷钱包内，但不知什么原因冷钱包被转移到交易所的一个热钱包，随后被转移到攻击者控制的钱包。攻击者使用的洗钱技术被认为有朝鲜黑客的痕迹，此次攻击被认为是朝鲜所为。Bybit 的冷钱包由 Safe  公司托管，该公司展开的调查没有发现其基础设施被未经授权访问，没有其它钱包被入侵，其代码库也没有发现明显的漏洞。调查最终发现，Bybit 内部的多个系统被入侵，攻击者能操纵每一个冷钱包签名者设备上的 Safe 钱包 UI。冷钱包转移到热钱包需要相关 Bybit 员工的签名。暂时不清楚攻击者是如何黑进多名 Bybit 员工的 UI 的。这起事件表明加密货币公司需要分离内部网络，加大防御深度。",
-          "link": "https://www.solidot.org/story?sid=80642",
-          "publishedOn": "2025-02-25T08:53:13.000Z",
-          "wordCount": 194,
-          "title": "朝鲜黑客如何盗走 15 亿美元加密货币",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80641",
-          "author": null,
-          "description": "Gmail 发言人 Ross Richendrfer 表示，Gmail 的身份验证准备用 QR 码取代短信验证码。原因是基于短信的验证存在固有的安全漏洞，容易被钓鱼攻击，依赖于运营商的安全实践。新的 QR 码验证要求用户使用手机扫描 QR 码，不再使用来自短信的可共享六位数字，不再依赖于运营商。Google 表示该功能将在未来几个月推出。",
-          "link": "https://www.solidot.org/story?sid=80641",
-          "publishedOn": "2025-02-25T07:58:18.000Z",
-          "wordCount": 187,
-          "title": "Gmail 用 QR 码取代短信验证",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80640",
-          "author": null,
-          "description": "日本卫星的观测记录显示，2024 年大气二氧化碳浓度较上年的增幅达到 3.5ppm，创开始观测以来的最高纪录。大气二氧化碳浓度 2024 年平均为421.3ppm，是观测以来的最高值。2010 年二氧化碳浓度为 388ppm，之后持续上升。相较上年的增幅平均为每年 2.4ppm，此前最高纪录是 2016 年的 3.1ppm。欧盟（EU）气候检测机构的数据显示，2024 年平均气温比工业革命前的水平高出 1.6度，创最高纪录。从太空的持续观测也反映出全球气候变暖的倾向。",
-          "link": "https://www.solidot.org/story?sid=80640",
-          "publishedOn": "2025-02-25T06:44:29.000Z",
-          "wordCount": 172,
-          "title": "2024 年大气二氧化碳浓度增幅创新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80639",
-          "author": null,
-          "description": "Omdia 发布的数据显示，2024 年中国电视机品牌 TCL、海信、小米的合计出货量在全球市场所占份额为 31.3%，首次超过三星电子和 LG 电子（28.4%）。中国电视厂商的出货量份额 2020 年为 24.4%，之后逐年上升，去年首次突破 30%。韩国厂商 2020 年为 33.4%，之后逐年下降，直至去年的 28.4%。中国电视厂商的销售额份额也突飞猛进。以去年销售额为准，三星电子虽连续 19 年在全球电视市场排名第一，LG 电子连续 12 年在全球 OLED 电视市场排名第一，但与中国的差距在不断缩小。从2020年到2024年，韩国（三星、LG）与中国品牌（TCL、海信）的销售额份额差距从 48.4% 对 13.5% 缩小至 44.4% 对 22.9%。在售价 2500 美元以上的高端产品市场，三星电子以 49.6% 的市场份额排名第一，LG电子以 30.2% 排名第二。TCL 和海信分别为 1.6% 和 0.9%。",
-          "link": "https://www.solidot.org/story?sid=80639",
-          "publishedOn": "2025-02-25T06:16:18.000Z",
-          "wordCount": 194,
-          "title": "中国主要电视机品牌出货量首超韩国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80638",
-          "author": null,
-          "description": "微软悄悄推出了广告版 Microsoft Office，但功能非常有限，甚至不能编辑文档保存到本地。广告版 Microsoft Office 可免费使用，广告会永久性展示在屏幕上，只能编辑文档保存到微软的云端服务 OneDrive。广告版只提供最基本的功能，包括打开、查看和编辑文档，类似 Web 版 Office，它的右侧会显示一个永久性的广告横幅。软件的高级功能都锁定在订阅或付费版中。广告版目前还只在部分地区测试，尚未公开提供，微软也没有正式宣布。",
-          "link": "https://www.solidot.org/story?sid=80638",
-          "publishedOn": "2025-02-25T05:41:18.000Z",
-          "wordCount": 183,
-          "title": "微软推出广告版 Microsoft Office",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80637",
-          "author": null,
-          "description": "AI 创业公司 Anthropic 发布了首个混合推理模型 Claude 3.7 Sonnet，既能产生近实时的响应，也能产生逐步思考的过程。Claude 3.7 提供了一个展示推理过程的“便笺簿”，DeepSeek 也有类似功能，它可以帮助用户理解模型如何解决问题，以便于用户修改或改进提示词。Anthropic 同时发布了针对程序员的辅助编程工具 Claude Code。",
-          "link": "https://www.solidot.org/story?sid=80637",
-          "publishedOn": "2025-02-25T03:30:48.000Z",
-          "wordCount": 189,
-          "title": "Anthropic 发布混合推理模型 Claude 3.7 Sonnet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80636",
-          "author": null,
-          "description": "The Game Developers Choice Awards 宣布 2025 年终身成就奖授予 Remedy 工作室创意总监 Sam Lake，先锋奖授予独立游戏开发者 Lucas Pope。两位都是游戏行业资深人士，Sam Lake 在 Remedy 工作了 30 多年，参与了《Max Payne》、《Alan Wake》、《Quantum Break》和《Control》等游戏的开发。Lucas Pope 在游戏行业工作了 20 多年，是知名独立游戏《Paper's, Please》和《Return of the Obra Dinn》的作者，在 Naughty Dog 工作期间参与了《Uncharted: Drake's Fortune》和《Uncharted 2: Among Thieves》的开发。",
-          "link": "https://www.solidot.org/story?sid=80636",
-          "publishedOn": "2025-02-24T15:27:23.000Z",
-          "wordCount": 228,
-          "title": "GDC 终身成就奖授予 Sam Lake 先锋奖授予 Lucas Pope",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80635",
-          "author": null,
-          "description": "德国创业公司 Isar Aerospace 有望成为欧洲第一个尝试轨道发射的私人太空公司。该公司的 Spectrum 火箭第一级于 2 月 14 日在挪威 Andøya 太空港发射台进行了 30 秒的试点火。火箭第二级于去年进行了试点火。联合创始人兼 CEO Daniel Metzler 表示一切准备就绪，只差发射许可证了。在获得挪威民航局的批准之后，该公司将尽可能快的进行首次发射尝试。Spectrum 火箭高约 28 米，直径 2 米，没有回收重复使用能力，它能将 1 公吨有效负荷发射到近地轨道。火箭第一级使用了 9 台 Aquila 引擎，第二级有 1 台引擎。该公司至今筹集到逾 4 亿欧元资金。",
-          "link": "https://www.solidot.org/story?sid=80635",
-          "publishedOn": "2025-02-24T14:55:30.000Z",
-          "wordCount": 198,
-          "title": "德国创业公司准备尝试西欧首次轨道发射",
-          "imageUrl": null
         }
       ]
     },
@@ -1192,6 +1152,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/620-million-google-clicks",
+          "author": null,
+          "description": "I Am Become Top Rankings. 🚀\nYesterday Online PNG Tools smashed through 6.19M Google clicks and today it's smashed through 6.20M Google clicks!\nSmash too and see you tomorrow at 6.21M clicks! 💦\nPS. Use coupon code SMASHLING for a 30% discount on these tools. 💸",
+          "link": "https://catonmat.net/620-million-google-clicks",
+          "publishedOn": "2025-03-06T06:06:06.000Z",
+          "wordCount": 126,
+          "title": "6.20 Million Google Clicks! 🤩",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/what-is-an-online-onion-browser",
           "author": null,
@@ -1340,16 +1310,6 @@
           "publishedOn": "2025-02-26T06:06:06.000Z",
           "wordCount": 242,
           "title": "Riverside County, CA is now a Browserling customer!",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/york-county-browserling-customer",
-          "author": null,
-          "description": "Success! York County in South Carolina is now a Browserling customer!\nIt's another small step for a ling but one giant leap for ling kind.\nWhat Is Browserling?\nBrowserling is a cross-browser testing service that lets users test websites and web applications in different browsers to ensure they work correctly. It also works as a browser sandbox, allowing users to safely check suspicious links and web pages without affecting their own devices. Developers, testers, and regular users can use it to see how websites look and behave across different browsers. IT security professionals find it useful for safely analyzing links and identifying potential vulnerabilities in a secure environment.\nWho Uses Browserling?\nBrowserling has now become the cross-browser testing service of choice and it's used by hundreds of thousands of users around the world every month. Browserling's customers include governments, states, cities, banks, stock exchanges, universities, newspapers, and Fortune 100 companies.\nSee you next time!",
-          "link": "https://catonmat.net/york-county-browserling-customer",
-          "publishedOn": "2025-02-25T05:55:05.000Z",
-          "wordCount": 243,
-          "title": "York County, SC is now a Browserling customer!",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
