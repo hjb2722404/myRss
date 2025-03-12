@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-03-11T02:53:41.124Z</updated>
+    <updated>2025-03-12T02:52:47.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Powering Search With Astro Actions and Fuse.js]]></title>
+        <id>https://css-tricks.com/?p=384941</id>
+        <link href="https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/"/>
+        <updated>2025-03-11T15:26:10.000Z</updated>
+        <summary type="html"><![CDATA[With Astro, we can generate most of our site during our build, but have a small bit of server-side code that can handle search functionality using something like Fuse.js. In this demo, we’ll use Fuse to search through a set of personal “bookmarks” that are generated at build time, but return back proper results from a server call.
+Powering Search With Astro Actions and Fuse.js originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Bryan Robinson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flipo – 把手机扣在桌面上，开始番茄钟[iPhone 限免]]]></title>
+        <id>https://www.appinn.com/?p=51320</id>
+        <link href="https://www.appinn.com/flipo-pomodoro/"/>
+        <updated>2025-03-11T08:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Flipo 是一款非常简单易用的番茄钟应用，只需要打开应用，把手机扣在桌面上，就开始番茄钟。拿起手机就暂停，扣下手机就继续。非常简单，没有任何多余的功能。@Appinn 来自发现频道，开发者自荐：ht]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eric Sc​​hmidt 成为火箭公司 Relativity Space 的 CEO]]></title>
+        <id>https://www.solidot.org/story?sid=80756</id>
+        <link href="https://www.solidot.org/story?sid=80756"/>
+        <updated>2025-03-11T05:51:58.000Z</updated>
+        <summary type="html"><![CDATA[前 Google CEO Eric Sc​​hmidt 获得了总部位于加州长滩的火箭公司 Relativity Space 的控股权，于本周一正式宣布担任公司 CEO，原 CEO 兼联合创始人 Tim Ellis 离职。Relativity 是少数能开发中型运载火箭的美国公司之一，它去年底面临资金枯竭，一直是 Sc​​hmidt 在提供资金。Relativity 的 Terran 火箭以使用 3D 打印的零部件著称，但它正在开发的大型火箭 Terran R 不再使用 3D 打印。该公司计划今年完成第一枚用于测试的 Terran R 火箭的制造，明年某个时候试射，火箭第一级将软着陆在大西洋上。该公司计划完成开发之后每年发射 50 到 100 枚火箭。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软计划今年发布 Xbox 掌机，2027 年推出下一代 Xbox 主机]]></title>
+        <id>https://www.solidot.org/story?sid=80755</id>
+        <link href="https://www.solidot.org/story?sid=80755"/>
+        <updated>2025-03-11T05:28:48.000Z</updated>
+        <summary type="html"><![CDATA[在收购动视暴雪之后，玩家对微软的游戏机兴趣在增加，然而现有 Xbox 主机的销量在世界各地都在下滑。软件巨人对其 Xbox 业务有什么计划？据 WindowsCentral 报道，微软正与一家 PC 游戏 OEM 厂商（如华硕、联想、MSI、Razer 等）合作开发一款 Xbox 品牌掌机，如果一切顺利，预计会在今年晚些时候上市。该掌机的代号为 Keenan，预计肯定是运行 Windows，Microsoft Store 和 PC Game Pass 将会处于突出位置。此外，微软下一代主机预计会在 2027 年推出。下一代 Xbox 将会更接近 Windows，减少游戏开发商的移植工作量，将会向后兼容为旧型号 Xbox 开发的游戏，可能会支持第三方应用商店如 Epic Game Store、GOG、itch.io 甚至 Steam。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Pixel 4a 存在电池过热风险]]></title>
+        <id>https://www.solidot.org/story?sid=80754</id>
+        <link href="https://www.solidot.org/story?sid=80754"/>
+        <updated>2025-03-11T05:07:17.000Z</updated>
+        <summary type="html"><![CDATA[Google 今年初突然为已经停止支持的 Pixel 4a 智能手机释出了更新，Google 在声明中称：部分 Pixel 4a 手机需要更新软件以提高电池性能的稳定性。Pixel 4a 于 2020 年上市，2023 年释出最后一次安全更新。对于最新更新它没有给出更详细的解释。现在澳大利亚的消费者保护组织 Australian Competition and Consumer Commission(ACCC) 在 Pixel 4a 自愿召回通知中称，该型号的电池存在过热起火风险，更新固件和更换电池有助于降低风险。不是所有 Pixel 4a 电池都受到影响，存在过热风险的电池使用了 LSN 标签。Pixel 4a 使用了两种锂电池，其中之一是 LSN，另一个是 ATL。LSN 可能指的是电池制造商力神（Lishen）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome Store 不再提供 uBlock Origin]]></title>
+        <id>https://www.solidot.org/story?sid=80753</id>
+        <link href="https://www.solidot.org/story?sid=80753"/>
+        <updated>2025-03-11T04:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome 从去年六月开始逐步淘汰 Manifest V2 扩展，强推 Manifest V3 扩展，而基于 Manifest V2 的流行广告屏蔽扩展 uBlock Origin 正是 Google 淘汰的对象之一。Chrome 用户已经报告他们安装的 uBlock Origin 被浏览器自动禁用，不过目前还可以在扩展管理页面手动启用。随着 Chrome 移除对 Manifest V2 扩展的支持，那么对 Chrome 用户而言  uBlock Origin 届时将变得完全不可用。现在 Chrome 的扩展应用商店 Chrome Store 已经停止提供 uBlock Origin 的下载。根据商店页面的统计数据，uBlock Origin 有 3800 万用户。目前支持 uBlock Origin 的主流浏览器是 Firefox。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国统治了全球造船业]]></title>
         <id>https://www.solidot.org/story?sid=80752</id>
@@ -946,77 +1007,6 @@ ARM TrustZone 的设计初衷是将内存划分为两个世界：非安全世界
 * Linux 内核运行在非安全 EL1（NS.EL1）。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创业公司延长狗命的药物获得 FDA 的初步认可]]></title>
-        <id>https://www.solidot.org/story?sid=80693</id>
-        <link href="https://www.solidot.org/story?sid=80693"/>
-        <updated>2025-03-02T11:36:23.000Z</updated>
-        <summary type="html"><![CDATA[美国生物技术创业公司 Loyal 用于为狗延长健康寿命的药物获得了 FDA 的初步认可。FDA 认为该药物对于延长老年犬的健康寿命具有“有效性的合理预期”，但药物的安全性仍然需要获得证明。Loyal 创始人兼 CEO Celine Halioua 预计 FDA 的认证过程将于 2025 年底完成。Loyal 成立于 2019 年，至今筹集到了逾 1.5 亿美元风险投资。动物的长寿药相比人类更容易获得批准，Halioua 希望为狗延寿的工作也将有利于人类，狗会患上与人类相似的衰老疾病，而且它们与人类共享环境和习惯。她说狗的衰老过程更快，因此更有利于展开相关研究。Loyal
-的药物旨在减缓和逆转与衰老相关的代谢变化。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不同品牌的手机，怎么同步通讯录、短信等信息]]></title>
-        <id>https://www.appinn.com/?p=51238</id>
-        <link href="https://www.appinn.com/how-to-sync-contacts-sms-across-different-phone-brands/"/>
-        <updated>2025-03-02T11:26:54.000Z</updated>
-        <summary type="html"><![CDATA[来自小众软件问题求助频道，有同学问：https://meta.appinn.net/t/topic/66997 不同品牌的手机，怎么同步通讯录、短信等信息 有2个不同品牌的手机，手机都没有root，现]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Azure 彻底禁止域前置，影响 Tor Browser 内置网桥]]></title>
-        <id>https://www.solidot.org/story?sid=80692</id>
-        <link href="https://www.solidot.org/story?sid=80692"/>
-        <updated>2025-03-02T10:17:23.000Z</updated>
-        <summary type="html"><![CDATA[Gundaz Aghayev 写道:
-微软在 4 年前宣布他们对域前置的反对立场，声称“作为一家致力于为善提供技术的公司…支持支持自由和开放沟通的某些用例是一个重要的考虑因素。然而域前置也受到从事非法活动的不良行为者和威胁行为者的滥用…在某些情况下，不良行为者会配置他们的 Azure 服务来实现这一点…我们正在改变我们的政策，以确保在 Azure 中停止和阻止域前置。”
-
-在多次通知和警告之后，达摩克利斯之剑终于落下。微软去年底通知用户，旧的 Azure CDN 将于 2025 年 1 月 15 日终止，建议用户迁移到类似 Azure Front Door 服务。在新 的Azure Front Door 服务下，用户只能得到唯一的专有域名，如 snowflake-broker-hadmaqbnc4dmcffs.z03.azurefd.net，有效地阻止了利用域前置的可能性。
-
-本年 2 月 1 日，Azure CDN彻底停止工作。
-
-Tor Project 在 3 周前从源代码库删除内置的 meek-azure 网桥，它被另一个 CDN77 上的 meek 网桥替代。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[犹他州有望成为美国第一个在公共自来水中禁用氟的州]]></title>
-        <id>https://www.solidot.org/story?sid=80691</id>
-        <link href="https://www.solidot.org/story?sid=80691"/>
-        <updated>2025-03-02T10:08:37.000Z</updated>
-        <summary type="html"><![CDATA[犹他州有可能成为美国第一个在公共自来水系统中禁止添加氟的州。去年有一项研究报告饮用水氟含量超过推荐限制两倍与儿童较低的 IQ 值相关。在饮用水中加入低浓度氟被广泛视为上世纪公共卫生领域最大的成就之一。氟通过补充正常磨损中流失的矿物质去加固牙齿和减少龋齿。该研究汇总了加拿大、中国、印度、伊朗、巴基斯坦和墨西哥进行的研究，其结论是每升饮用水含氟量超过 1.5 毫克与儿童 IQ 值较低相关。研究人员并没有建议饮用水不要加氟。此外汇总的大部分研究质量较低，且主要在美国之外进行，如中国等国饮用水中的氟含量要高得多。去年澳大利亚发表的另一项研究没有发现儿童早期接触氟与认知发育问题有关联。主要公共卫生组织如美国儿科学会、美国牙科协会和疾控中心（CDC）都支持在饮用水中添加氟。美国牙科协会督促犹他州州长不要签署禁止添加氟的 HB0081 法案。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软将关闭有 22 年历史的网络电话工具 Skype]]></title>
-        <id>https://www.appinn.com/?p=51234</id>
-        <link href="https://www.appinn.com/skype-goodbye/"/>
-        <updated>2025-03-02T08:23:36.000Z</updated>
-        <summary type="html"><![CDATA[微软宣布著名的网络电话工具 Skype 将于 2025 年 5 月退役，替代品是 Microsoft Teams，用户可以使用 Skype 账号登录 Teams。@Appinn 微软已经在 Skype]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6.16 Million Google Clicks! 🤩]]></title>
-        <id>https://catonmat.net/616-million-google-clicks</id>
-        <link href="https://catonmat.net/616-million-google-clicks"/>
-        <updated>2025-03-02T02:02:02.000Z</updated>
-        <summary type="html"><![CDATA[I Am Become Traffic. 🚀
-Yesterday Online PNG Tools smashed through 6.15M Google clicks and today it's smashed through 6.16M Google clicks!
-Smash too and see you tomorrow at 6.17M clicks! 💦
-PS. Use coupon code SMASHLING for a 30% discount on these tools. 💸]]></summary>
-        <author>
-            <name>catonmat.net</name>
         </author>
     </entry>
     <entry>
