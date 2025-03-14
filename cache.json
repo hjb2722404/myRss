@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=51340",
+          "author": "青小蛙",
+          "description": "著名的播放工具 Pocket Casts 宣布其网页版面向所有人免费使用。@Appinn 感谢 RR 同学的提醒。 说来惭愧，我一直以为 Pocket Casts 只有移",
+          "link": "https://www.appinn.com/pocket-casts-web/",
+          "publishedOn": "2025-03-13T13:55:12.000Z",
+          "wordCount": 2613,
+          "title": "Pocket Casts 网页版宣布免费",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/03/Copy-of-appinn-homework-99.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/?p=51335",
+          "author": "青小蛙",
+          "description": "首先，「领导知道后，让其搞个安卓版」是网友开玩笑的。不过，安卓版真的来了。 另外，iOS 版本已新增制作铃声功能。 前情提要：《媳妇做课件太难，程序员熬夜写App：免费的音频转换器》 大意就是开发者听",
+          "link": "https://www.appinn.com/audio-converter-mp3-extractor-android/",
+          "publishedOn": "2025-03-13T08:15:12.000Z",
+          "wordCount": 2613,
+          "title": "程序员给媳妇写App 后续：领导知道后，让其搞个安卓版｜免费的从视频中提取音频工具，它来了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/03/Copy-of-appinn-homework-98.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=51330",
           "author": "青小蛙",
           "description": "Freenote 是一款开源的日记工具，支持 Markdown，界面简单，可通过 AI 来搜索和总结过去的日记。比如搜索：最近一个月都吃了什么？AI 会给你一个满意的答案。@Appinn 来自发现频道",
@@ -140,16 +160,6 @@
           "wordCount": 2610,
           "title": "微信存储空间优化：自动清理原图、原视频",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/03/Copy-of-appinn-homework-85.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=51250",
-          "author": "青小蛙",
-          "description": "MTranServer 是一款基于 Mozilla Firefox 翻译模型的自托管翻译项目，使用 Docker 部署。主要特点是速度快、超低资源占用，仅需 CPU + 1G 内存即可运行，无需显卡。",
-          "link": "https://www.appinn.com/mtranserver/",
-          "publishedOn": "2025-03-04T11:38:53.000Z",
-          "wordCount": 2732,
-          "title": "已打包，一键部署｜MTranServer：基于 Firefox 模型的私有翻译服务，质量堪比 Google 翻译",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/03/Copy-of-appinn-homework-84.jpg"
         }
       ]
     },
@@ -259,6 +269,86 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80783",
+          "author": null,
+          "description": "Google 发布了新的多模模型 Gemma 3，开放权重，允许负责任的商业用途，128K 个令牌上下文，支持超过 140 种语言，提供了 10 亿、40 亿、120 亿、270 亿参数规模的模型可供选项。Google 称，Gemma 3 的 Elo 得分相当于 DeepSeek AI R1 模型的 98%，分别为 1338 分和 1363 分。但 DeepSeek 需要 32 张英伟达 H100 GPU 才能达到这一分数，而 Gemma 3 只需要一张 H100 GPU。Google 宣称 Gemma 3 是能在单张 GPU 或 TPU 上运行的最强大模型。",
+          "link": "https://www.solidot.org/story?sid=80783",
+          "publishedOn": "2025-03-13T08:44:19.000Z",
+          "wordCount": 244,
+          "title": "Google 称 Gemma 3 使用一张 H100 GPU 就能获得与 DeepSeek R1 相当的性能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80782",
+          "author": null,
+          "description": "加拿大 D-Wave 公司的研究人员在《科学》上发表研究报告称，量子退火处理器在解决现实世界的量子自旋动力学科学模拟方面的表现要优于传统的超级计算机；其所取得的结果远超传统计算方法所能得到结果，因为要获取传统计算方法所需的匹配时间和能量是不可能的。这些结果挑战了传统计算方法，因为过去对方法改进的结果曾令量子优势的主张受到削弱。直到最近几年，量子计算机才开始兑现其宏伟的愿景；具有多种架构的量子处理单元（即 QPUs，如光子、中性原子和超导系统等）在解决复杂问题方面开始超越功能最强大的超级计算机。然而，尽管人们目前普遍认为，如今的 QPU 技术在执行某些任务（如随机数生成）时的表现优于传统计算，但硬件缺陷则会令量子处理器在实际科学应用中相对于传统计算的优势受到限制，因此很难展示量子计算机具有明显优势的案例。",
+          "link": "https://www.solidot.org/story?sid=80782",
+          "publishedOn": "2025-03-13T07:53:53.000Z",
+          "wordCount": 170,
+          "title": "D-Wave 称其量子退火处理器相比超算具有“量子优越性”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80781",
+          "author": null,
+          "description": "章鱼以同类相食著称，雌性会在交配之后吃掉体型较小的雄性。根据发表在《Current Biology》期刊上的一项研究，澳大利亚昆士兰大学的研究人员发现，蓝纹章鱼（Hapalochlaena fasciata）交配时雄性总能完成精子转移并安然无恙地离开——这要归功于河豚毒素。蓝环章鱼毒液中的河豚毒素是一种极其强大的麻痹剂，咬一口就能杀死一个人。但对于章鱼来说，这只是一种镇静剂——雄性会用它来制服体型大得多的伴侣。研究小组多次观察到雄性章鱼咬住雌性章鱼的主动脉，导致雌性章鱼变白，呼吸减缓。如果研究人员随后用光照雌性章鱼的眼睛，她的瞳孔不会收缩，这表明她被麻痹剂麻痹了。大约1小时后，毒素的效力减弱，雌性章鱼将雄性推开。目前尚不清楚为什么雄性章鱼如此不愿意成为晚餐，因为它们交配后的生活时间非常短暂。在其他性食同类现象普遍的物种中，雄性更愿意接受自己的命运。",
+          "link": "https://www.solidot.org/story?sid=80781",
+          "publishedOn": "2025-03-13T07:33:23.000Z",
+          "wordCount": 169,
+          "title": "雄章鱼给雌性注射镇静剂以防止被吃掉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80780",
+          "author": null,
+          "description": "韦伯太空望远镜近期在在距离地球约 1,400 光年的火焰星云（Flame Nebula）中成功观测到自由漂浮的低质量天体，即棕矮星（brown dwarf），也被称为「形成失败的恒星」。研究显示，其形成的最低质量极限约为 2 倍木星质量。若此结果成立，意味着银河系内不应该存在单独形成且质量低于 2 倍木星质量的天体，除非它们原为行星，后来被抛射出母恒星系统。这项研究对理解恒星与行星的形成机制具有重要意义。恒星与棕矮星皆起源于分子云。当分子云塌缩并碎裂为较小的碎块时，这些碎块可能进一步演化为个别星体。然而，最后只有核心收缩到足够致密且温度足够高的碎块，才能点燃氢融合反应，成为真正的恒星。无法达到这一门槛的碎块则持续塌缩，形成棕矮星，因此棕矮星被称为「形成失败的恒星」。由于棕矮星缺乏稳定的能量来源，会随时间逐渐冷却并变得极为昏暗，使得观测变得困难。然而，在形成初期，它们仍具有较高的温度与亮度，能透过红外线观测。韦伯望远镜凭借其在红外线卓越的灵敏度，突破过去探测极限，使天文学家得以首次深入统计火焰星云内的棕矮星分布，并侦测到极暗弱、质量最低的天体。",
+          "link": "https://www.solidot.org/story?sid=80780",
+          "publishedOn": "2025-03-13T07:17:45.000Z",
+          "wordCount": 172,
+          "title": "棕矮星的质量极限",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80779",
+          "author": null,
+          "description": "沙特阿拉伯公共投资基金 Public Investment Fund(PIF)通过其子公司 Savvy Games Group 以 35 亿美元收购了 Niantic 的游戏部门。Niantic 的游戏包括了热门手游 Pokemon Go、Monster Hunter Now 和 Pikmin Bloom。其中 Pokemon Go 虽然推出近十年，仍然是全球收入最高的手游之一，每月有 3000 万玩家。Niantic 的游戏部门将合并到 Scopely Inc，该公司于 2023 年被 Savvy Games 以 49 亿美元收购。Scopely Inc 最成功的游戏是 Monopoly Go，下载量 5000 万，收入逾 30 亿美元。PIF 过去几年向游戏行业投入了数十亿美元。",
+          "link": "https://www.solidot.org/story?sid=80779",
+          "publishedOn": "2025-03-13T06:53:51.000Z",
+          "wordCount": 223,
+          "title": "沙特投资基金以 36 亿美元收购 Pokemon Go",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80778",
+          "author": null,
+          "description": "英特尔发布新闻稿，宣布任命陈立武为新 CEO，该任命于 3 月 18 日生效。他此前曾担任董事，去年八月因为与其他董事之间的分歧而辞职，他将重新加入董事会。英特尔的临时联席 CEO David Zinsner 将继续担任执行副总裁兼首席财务官，另一位临时联席 CEO Michelle (MJ) Johnston Holthaus 将继续担任 Intel Products 的 CEO。陈立武于 1959 年出生于马来西亚柔佛州麻坡的一个华人家庭，在新加坡长大，毕业于南洋大学，在 MIT 获得核工程硕士学位，他原本在 MIT 读核工程的博士学位，因 1979 年美国三里岛核事故后就业机会减少而转到加州大学旧金山分校，获得了 MBA 学位。他于 2009-2021 年担任 Cadence Design Systems 的 CEO，期间公司收入增加了一倍以上，股价上涨超过 3,200%。维基百科称他毕业于南洋大学，新闻稿称他毕业于南洋理工大学，南洋大学某种程度上是南洋理工的前身，南洋理工创办于 1981 年，而南洋大学创办于 1956 年 1980 年停办。",
+          "link": "https://www.solidot.org/story?sid=80778",
+          "publishedOn": "2025-03-13T06:26:43.000Z",
+          "wordCount": 212,
+          "title": "英特尔任命陈立武为新 CEO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80777",
+          "author": null,
+          "description": "根据 Counterpoint 的数据，全球智能手表销量首次下滑：2024 年智能手表出货量下降了 7%，其中 Apple Watch 出货量下降了 19%。Counterpoint 认为原因是 Apple Watch 缺乏亮眼新功能，而传闻中的 Ultra 3 高端型号并没有上市。Apple Watch 去年四季度的市场份额为 22%，低于一年前的 25%。虽然智能手表市场的整体销量出现下滑，但中国品牌如小米、华为和 Imoo 的智能手表销量则出现大幅上涨，其中小米出货量增长了 135%。",
+          "link": "https://www.solidot.org/story?sid=80777",
+          "publishedOn": "2025-03-13T05:54:08.000Z",
+          "wordCount": 184,
+          "title": "全球智能手表销量首次下滑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80776",
+          "author": null,
+          "description": "扫地机器人 Roomba 制造商 iRobot 在公布季度财报时警告它可能在 12 个月内倒闭。iRobot 的主营业务因中国制造的扫地机器人的竞争而陷入困境，该公司曾试图出售给电商巨人亚马逊，但没有获得欧盟监管机构的批准，其联合创始人 Colin Angle 之后辞职，公司还裁掉了半数员工。iRobot 在公布 2024 年四季度财报和全年财报表示，美国地区的销售额在四季度暴跌 47%，如果无法获得融资或找到买家，它可能会在 12 个月内停止运营。",
+          "link": "https://www.solidot.org/story?sid=80776",
+          "publishedOn": "2025-03-13T05:27:21.000Z",
+          "wordCount": 191,
+          "title": "iRobot 警告它可能在 12 个月内倒闭",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80775",
           "author": null,
@@ -908,56 +998,6 @@
           "wordCount": 159,
           "title": "北京脐带血被发现锂浓度偏高源头未确认",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80710",
-          "author": null,
-          "description": "低热量甜品到零糖饮料，人工甜味剂一直是满足人们嗜甜欲望的选择。而瑞典卡罗琳斯卡医学院团队近期发表在《细胞代谢》杂志上的新研究揭示，最常用的糖替代品之一——阿斯巴甜可能对血管健康产生负面影响。其会导致动物体内胰岛素水平上升，从而引发动脉粥样硬化，增加炎症反应，并随时间推移提高心脏病和中风的风险。\n团队给小鼠连续12周喂食含有0.15%阿斯巴甜的食物，这相当于人类每天饮用约3罐无糖汽水的量。结果显示，相较于未摄入含甜味剂食物的小鼠，这些小鼠动脉中的脂肪斑块更大、更多，同时炎症程度也更高，这些都是心血管健康的负面标志。血液分析表明，阿斯巴甜进入小鼠体内后导致胰岛素水平激增。这是因为身体各处存在的感知甜味的受体在遇到阿斯巴甜时会引导释放更多的胰岛素，而阿斯巴甜比普通糖甜200倍，更能促使这种过度反应。",
-          "link": "https://www.solidot.org/story?sid=80710",
-          "publishedOn": "2025-03-04T13:39:03.000Z",
-          "wordCount": 157,
-          "title": "阿斯巴甜会导致动物体内胰岛素水平上升",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80709",
-          "author": null,
-          "description": "台积电计划向追加投资美国千亿美元。台积电此前一直在推进在美国西部亚利桑那州设立 3 座尖端工厂的计划。台积电表示，现有工厂的投资总额达到 650 亿美元。如果追加 1000 亿美元，对美国的总投资将增加到 1650 亿美元。台积电将再新建3座半导体工厂。还将设立两个承担“尖端封装”工序的设施和研发(R&D)基地。预计在未来 4 年内，在建筑相关领域创造 4 万个工作岗位，在研发等高级人才方面创造数万个工作岗位。",
-          "link": "https://www.solidot.org/story?sid=80709",
-          "publishedOn": "2025-03-04T12:46:30.000Z",
-          "wordCount": 168,
-          "title": "台积电计划向美国追加投资千亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80708",
-          "author": null,
-          "description": "根据乔治敦大学“新兴技术观察项目（ETO）”的《The state of global chip research》报告，2018 年至 2023 年间，在全球发表的芯片设计和制造相关论文中，中国研究人员的论文数量远超其他国家，中国在高被引论文方面同样表现出色。报告数据显示，2018年至2023年间，全球发布约47.5万篇与芯片设计和制造相关的论文。其中34%的论文有来自中国机构的作者参与，15%的论文有美国作者参与，18%的论文有欧洲作者参与。总体来看，中国作为芯片设计和制造方面最大的研究论文产出国，领先于美国等其他高产国家。在全球芯片研究论文产出的前十名机构中，9家为中国机构。在芯片研究高质量论文方面，中国同样高居榜首。在所有芯片设计和制造相关的高被引论文中，50%的论文有来自中国机构的作者参与，有美国作者参与的论文占比为22%，有欧洲作者参与的论文占比为17%。",
-          "link": "https://www.solidot.org/story?sid=80708",
-          "publishedOn": "2025-03-04T12:23:20.000Z",
-          "wordCount": 171,
-          "title": "报告称中国的芯片论文数及高引用论文数超越美国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80707",
-          "author": null,
-          "description": "最近的研究揭示，人脑中含有约一勺量的微塑料和纳米塑料（简称MNPs），而经确诊的痴呆症患者体内的含量要高出 3-5 倍。更令人担忧的是，与肝脏或肾脏等其他器官相比，脑组织中的 MNPs 浓度高出 7-30 倍。特别值得关注的是小于 200 纳米的颗粒，主要由聚乙烯组成，这些颗粒在脑血管壁和免疫细胞中呈现明显沉积。这种尺寸使它们可能穿过血脑屏障，引发了人们对其在神经系统疾病中作用的质疑。研究强调了减少接触的实用策略，指出仅从瓶装水转向过滤自来水就可以将每年摄入的微塑料从 90,000 颗减少到 4,000 颗。这是减少微塑料摄入最简单的方法之一。微塑料的其他重要来源包括塑料茶包，每次冲泡都可能释放出数百万个微米和纳米级颗粒。研究人员还建议避免使用塑料储存食物，改用玻璃或不锈钢替代品。",
-          "link": "https://www.solidot.org/story?sid=80707",
-          "publishedOn": "2025-03-04T11:29:40.000Z",
-          "wordCount": 170,
-          "title": "大脑微塑料水平与痴呆症相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80706",
-          "author": null,
-          "description": "去年底美国联邦破产法院法官 Christopher Lopez 以竞拍缺乏透明度、不公平竞争以及未能最大化价值为由拒绝将 Alex Jones 的 Infowars 公司出售给洋葱新闻（The Onion）。Jones 因宣称发生在 2012 年 12 月 14 日的 Sandy Hook 小学枪击案是一场骗局而被受害者家属提起诉讼，2022 年他被勒令向受害者家属赔偿逾 10 亿美元，而 Jones 在继续上诉的同时申请了破产，法官则同意清算其资产以支付赔偿金。竞拍 Infowars 资产的有代表 Jones 的 First United American Companies LLC(FUAC)，以及洋葱新闻。FUAC 出价 350 万美元现金，而洋葱出价较低但获得了受害者家属的支持，然而这一结果最后遭到了法官的拒绝。现在一家 AI 娱乐公司 WOW.AI LLC 对 Infowars 资产提出了竞标，报价是 350 万美元现金，以及模因币 $WARS meme 供应量的 51%，持有模因币的受害者家属将可以决定 Infowars 的未来。",
-          "link": "https://www.solidot.org/story?sid=80706",
-          "publishedOn": "2025-03-03T15:47:41.000Z",
-          "wordCount": 219,
-          "title": "AI 娱乐公司以模因币竞标 Infowars",
-          "imageUrl": null
         }
       ]
     },
@@ -1039,6 +1079,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/ascii-tools-now-have-neat-icons",
+          "author": null,
+          "description": "Last month, we added neat icons to Online Unicode Tools, and today we have also added neat icons to Online ASCII Tools. The new icons make it easier to find and use your favorite tools.\n\nWhat Are Online ASCII Tools?\nOnline ASCII Tools are web-based utilities that help you work with the ASCII character set. They let you convert text to ASCII art, transform ASCII values between formats like binary or hexadecimal, and generate ASCII tables. These tools are user-friendly and run directly in your browser, so there's no need to download or install anything.\nWho Created Online ASCII Tools?\nOnline ASCII Tools were created by me and my team at Browserling. We focus on creating simple, easy-to-use web tools for working with ASCII characters, like converters, generators, and formatters. Along with these tools, we also specialize in cross-browser testing, helping web developers create websites that work smoothly on all browsers and platforms. Our mission is to make everyday ASCII tasks faster and more accessible for everyone.\nWho Uses Online ASCII Tools?\nOnline ASCII Tools and Browserling are used by students, developers, IT professionals, and even Fortune 100 companies. They help with tasks like converting text encoding, generating ASCII art, and formatting data without installing any software. If you're a casual user, these tools help with fun ASCII character set experiments, but for professionals, they offer powerful features for working with ASCII data in production environments.\nSee you next time!\nPS. Use coupon code ASCIILING for a 30% discount at onlinetools.com/pricing.",
+          "link": "https://catonmat.net/ascii-tools-now-have-neat-icons",
+          "publishedOn": "2025-03-14T00:05:00.000Z",
+          "wordCount": 333,
+          "title": "Online ASCII Tools Now Have Neat Icons",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/spring-sale",
           "author": null,
           "description": "At Browserling and Online Tools, we love sales.\nWe just created a new automated Spring Sale.\nNow each year in Spring we show a 50% discount offer to all users who visit our site.\nBuy a subscription now and see you next time!",
@@ -1116,16 +1166,6 @@
           "publishedOn": "2025-03-04T19:03:00.000Z",
           "wordCount": 727,
           "title": "What is an Online Tor Browser? (And How to Get One)",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/618-million-google-clicks",
-          "author": null,
-          "description": "I Am Become SERP Results. 🤑\nYesterday Online PNG Tools smashed through 6.17M Google clicks and today it's smashed through 6.18M Google clicks!\nSmash too and see you tomorrow at 6.19M clicks! 💦\nPS. Use coupon code SMASHLING for a 30% discount on these tools. 💸",
-          "link": "https://catonmat.net/618-million-google-clicks",
-          "publishedOn": "2025-03-04T04:04:04.000Z",
-          "wordCount": 137,
-          "title": "6.18 Million Google Clicks! 🤩",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
