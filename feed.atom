@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-03-16T02:57:47.944Z</updated>
+    <updated>2025-03-17T02:56:49.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[一种更好的文字隐藏的方法-::first-line伪元素]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=11559</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/"/>
+        <updated>2025-03-16T17:04:41.000Z</updated>
+        <summary type="html"><![CDATA[东西学太多，居然忘记了::first-line伪元素可以在不改变元素color上下文的情况下变色，可谓铁树开花焕发第二春。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waymo 的无人出租车去年在旧金山收到了 589 张违反停车规定的罚单]]></title>
+        <id>https://www.solidot.org/story?sid=80802</id>
+        <link href="https://www.solidot.org/story?sid=80802"/>
+        <updated>2025-03-16T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Waymo 的无人出租车设计遵守交通规定，但经常违反停车规定。根据旧金山市交通局的记录，去年 Waymo 收到了 589 张违反停车规定的罚单。这些无人出租车因阻碍交通、违反街道清洁限制和在限制区域停车等行为被处以 65,065 美元的罚款。Waymo 一家公司的罚款占到了旧金山总罚款的 0.05%。违反停车规定如在付费停车位停留时间过长只可能造成不便，并不会造成破坏。但在行驶过程中阻碍交通则可能增加车祸的风险，因为这可能迫使其他司机突然刹车或变道。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国 Z 世代的储蓄不足以支付一个月的开支]]></title>
+        <id>https://www.solidot.org/story?sid=80801</id>
+        <link href="https://www.solidot.org/story?sid=80801"/>
+        <updated>2025-03-16T15:42:36.000Z</updated>
+        <summary type="html"><![CDATA[美国银行研究所（Bank of America Institute）根据内部账户和信用卡数据的分析显示，1995 年后出生的 Z 世代年轻人的储蓄不足以支付一个月的开支，一旦经济陷入低迷，他们将会非常容易受影响。Z 世代在 2 月的平均支出两倍于其储蓄，这一比例远高于其他世代的人。部分原因是 Z 世代将更大比例的收入花在房租和水电费等必需品上，而他们多数仍然担任初级职位，收入较低。Z 世代也更可能在旅行和娱乐等非必需品上花钱，他们在非必需品上的支出比一年前增长超过 25%。报告还指出，年轻一代美国人的劳动力市场在恶化，过去一年领取失业救济金的 Z 世代家庭数量增加了近三分之一，远超其他世代的人。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[移除对 32 位 PhysX 支持影响英伟达新显卡性能]]></title>
+        <id>https://www.solidot.org/story?sid=80800</id>
+        <link href="https://www.solidot.org/story?sid=80800"/>
+        <updated>2025-03-16T15:26:26.000Z</updated>
+        <summary type="html"><![CDATA[英伟达在推出 GeForce RTX 5000 系列显卡的同时，放弃了对 32 位 CUDA 的支持。这一改变的结果之一是新显卡也放弃了对 32 位 PhysX 的支持。PhysX 是一套用于处理复杂物理运算的物理处理器，广泛应用于游戏。随着 RTX 5000 停止支持 32 位 PhysX，那么新 GPU 在运行旧的 PhysX 游戏时，系统会默认使用 CPU 进行计算。而 CPU 的 PhysX 性能远不如 15 年的旧 GPU。YouTube 频道 Gamer's Nexus 测试了 RTX 5000 系列 GPU 运行旧游戏的性能，结果显示新一代显卡在部分游戏上的表现甚至不如 2010 年发布的 GTX 580，部分游戏不如 2014 年的 GTX 980。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源手绘和线框图工具 Excalidraw：现在能用AI生成图表，还支持中、日、韩手绘字体]]></title>
+        <id>https://www.appinn.com/?p=51369</id>
+        <link href="https://www.appinn.com/excalidraw-ai-and-cjk-font/"/>
+        <updated>2025-03-16T09:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Excalidraw 是一款十分著名的开源工具，它能制作手绘风格的线框图。最近的几个更新非常棒，去年11月份新增中文手绘字体小赖字体，最近又更新了 AI 功能，可以直接对 Excalidraw 说，就]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is an Online Link Checker? (And How to Access One)]]></title>
+        <id>https://catonmat.net/what-is-an-online-link-checker</id>
+        <link href="https://catonmat.net/what-is-an-online-link-checker"/>
+        <updated>2025-03-16T08:16:32.000Z</updated>
+        <summary type="html"><![CDATA[TLDR: Want to check if a link is working, safe, or hiding sneaky redirects? Visit browserling.com/browse. My team and I run real browsers on virtual machines, letting you test links instantly without risk.
+Online Link Checker – What Is It?
+An online link checker is a web tool that helps you check if a website link is working or broken in a virtual browser. It can also tell you if a link is safe to visit or if it leads to a harmful site. A link checker can even show where a link really goes, helping you avoid sneaky redirects or scams.
+How Does an Online Link Checker Work?
+An online link checker opens a website in a virtual browser to see if it's working, safe, or leading somewhere sketchy. It runs right in your browser (no downloads needed) and streams the virtual browser to you via websoc…]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is a Virtual Tor Browser? (And How to Get One)]]></title>
         <id>https://catonmat.net/what-is-a-virtual-tor-browser</id>
@@ -953,96 +1017,6 @@ A Tor link checker works connecting to a Tor website using the Tor browser to se
         <summary type="html"><![CDATA[NASA Chandra X-ray Observatory 和 ESA XMM-Newton 卫星的数据显示，螺旋星云 WD 2226-210 中心的一颗白矮星发出的神秘 X 射线信号来自被其引力撕裂的行星。白矮星是最黯淡的恒星之一，属于恒星核残骸。WD 2226-210 发出的 X 射线信号变化数据为靠近白矮星的行星残骸提供了证据。被摧毁的行星被认为是一颗类木星行星，它最初可能距离恒星较远，可能在引力相互作用下逐渐靠近恒星，一旦靠得足够近，恒星的引力就会将其撕裂。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周末前做手术有更高的死亡和并发症风险]]></title>
-        <id>https://www.solidot.org/story?sid=80732</id>
-        <link href="https://www.solidot.org/story?sid=80732"/>
-        <updated>2025-03-07T14:37:57.000Z</updated>
-        <summary type="html"><![CDATA[研究人员认为“周末效应（weekend effect）”也适用于周末前做的手术：周末前做手术有着更高的死亡和并发症风险。周末效应是指周末医院因为人手不足，患者受到的护理可能较差。在最新研究中，研究人员分析了 2007-2019 年期间加拿大安大略省接受手术的近 43 万名患者的数据。结果显示，与周末后进行的手术相比，周末前接受手术的患者在 30 天（增加 9%）、90 天（10%）和一年（12%）内的死亡风险更高，并发症也有类似的统计。研究人员解释说，相比周一，更多经验少的初级外科医生在周五做手术；而周末工作的医生也更少有机会咨询资深同事和专家。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员从拉布拉多身上发现人犬共享肥胖相关基因]]></title>
-        <id>https://www.solidot.org/story?sid=80731</id>
-        <link href="https://www.solidot.org/story?sid=80731"/>
-        <updated>2025-03-07T13:56:13.000Z</updated>
-        <summary type="html"><![CDATA[拉布拉多猎犬是一种特别容易罹患肥胖症的宠物犬品种。研究人员对 241 只拉布拉多猎犬进行了肥胖症的全基因组关联研究，确定了多个与犬类和人类肥胖症相关的基因。其中 DENND1B（它在细胞调节能量的关键过程中发挥着作用）被认为与犬类肥胖症具有最强的基因关联，该基因也可能与人类的肥胖症高度相关。研究人员在一名罹患重症肥胖病人中发现了一种罕见且有害的 DENND1B 突变，这种突变似乎会扰乱能量调节。他们还证明，在犬类中，罹患肥胖症的风险部分受到饮食行为的影响，凸显了基因-环境相互作用的后果。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A CSS-Only Star Rating Component and More! (Part 2)]]></title>
-        <id>https://css-tricks.com/?p=384919</id>
-        <link href="https://css-tricks.com/a-css-only-star-rating-component-and-more-part-2/"/>
-        <updated>2025-03-07T13:14:12.000Z</updated>
-        <summary type="html"><![CDATA[In this second article of a two-part series, Temani Afif demonstrates an alternative approach to creating the star rating component from the first article using experimental scroll-driven animations rather than using the border-image property.
-A CSS-Only Star Rating Component and More! (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[求不到邀请码？一个晚上，哦不，3个小时 OpenManus 就开源复刻了 Manus …吗？]]></title>
-        <id>https://www.appinn.com/?p=51287</id>
-        <link href="https://www.appinn.com/openmanus/"/>
-        <updated>2025-03-07T08:14:08.000Z</updated>
-        <summary type="html"><![CDATA[Manus 已经刷屏刷出了天际，我业看出了疲劳感，除了那段爆款视频，我还尝试联系了几位朋友，没有邀请码。于是在学习群里，@ZE_HHH 同学说：有 OpenManus 了，快去测评一下。@Appinn]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Unicode Tools Now Have Neat Icons]]></title>
-        <id>https://catonmat.net/unicode-tools-now-have-neat-icons</id>
-        <link href="https://catonmat.net/unicode-tools-now-have-neat-icons"/>
-        <updated>2025-03-07T07:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Last month, we added neat icons to Online UTF8 Tools, and today we have also added neat icons to Online Unicode Tools. The new icons make it easier to find and use your favorite tools.
-
-What Are Online Unicode Tools?
-Online Unicode Tools are handy web-based utilities that help you work with Unicode data. They let you do things like convert Unicode to different formats, generate random Unicode characters, and create images from Unicode symbols, such as emojis. These tools are simple to use and run right in your browser, so there's no need to install anything.
-Who Created Online Unicode Tools?
-Online Unicode Tools were created by me and my team at Browserling. We build simple, easy-to-use online tools for working with Unicode text and encoding. Along with these tools, we also specialize in cross-browser testing, helping web developers make sure their websites work smoothly on all browsers. Our mission is to create tools that help everyone get their everyday tasks done faster and easier.
-Who Uses Online Unicode Tools?
-Online Unicode Tools and Browserling are used by everyone, from casual users to professionals and even Fortune 100 companies. They help with tasks like converting text to different Unicode fonts, generating random Unicode characters, and creating images from Unicode symbols, all without the need for special software. Casual users use them for fun text transformations, while developers and businesses use these tools to fix text display issues, test Unicode compatibility, and make sure characters show up right everywhere.
-See you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广告拦截工具 AdGuard 买断版特价 38 折｜限时]]></title>
-        <id>https://www.appinn.com/?p=51279</id>
-        <link href="https://www.appinn.com/stacksocial-adguard/"/>
-        <updated>2025-03-07T05:42:03.000Z</updated>
-        <summary type="html"><![CDATA[AdGuard 是著名的跨平台广告过滤工具，目前正在 Stacksocial 特价，其中 9 设备家庭版，买断价仅需 117 元，3设备个人版，买断 73 元。远低于市场价，从速。@Appinn 这时]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豆瓣20周年，来份随机电影吧]]></title>
-        <id>https://www.appinn.com/?p=51275</id>
-        <link href="https://www.appinn.com/douban-20th-anniversary/"/>
-        <updated>2025-03-07T03:09:39.000Z</updated>
-        <summary type="html"><![CDATA[昨天是豆瓣创建20周年的日子（2005年3月6日～2025年3月6日），有同学恰巧在发现频道发布了一个有趣的东西，从你的想看中，随机找出三部电影。@Appinn 真的就是这么简单：从你在豆瓣标记为想看]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe don’t use custom properties in shorthand properties]]></title>
-        <id>https://css-tricks.com/?p=385117</id>
-        <link href="https://css-tricks.com/maybe-dont-use-custom-properties-in-shorthand-properties/"/>
-        <updated>2025-03-06T16:33:55.000Z</updated>
-        <summary type="html"><![CDATA[This easily qualifies as a "gotcha" in CSS and is a good reminder that the cascade doesn't know everything all at the same time. If a custom property is invalid, the cascade won't ignore it, and it gets evaluated, which invalidates the declaration.
-Maybe don’t use custom properties in shorthand properties originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
