@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-03-21T02:56:15.356Z</updated>
+    <updated>2025-03-22T02:52:21.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软开发新功能向用户解释硬件性能问题]]></title>
+        <id>https://www.solidot.org/story?sid=80852</id>
+        <link href="https://www.solidot.org/story?sid=80852"/>
+        <updated>2025-03-21T15:41:59.000Z</updated>
+        <summary type="html"><![CDATA[微软正在为 Windows 11 开发一项新功能，该功能向用户解释硬件限制如何影响 PC 性能。在最新的开发者预览版本 build 26120.3576 和 22635.5090 中，设置>系统>关于下包含了一个隐藏的 FAQ 列表，它向用户解释了 GPU 显存、系统内存和操作系统版本的影响。该功能需要手动激活。它为内存较少或显存少于 4GB 的 GPU 等硬件配置提供了具体建议，并标记了过时的 Windows 版本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学生太多课堂时间花在笔记本电脑上]]></title>
+        <id>https://www.solidot.org/story?sid=80851</id>
+        <link href="https://www.solidot.org/story?sid=80851"/>
+        <updated>2025-03-21T15:23:49.000Z</updated>
+        <summary type="html"><![CDATA[布隆伯格(Michael Bloomberg)认为，过去二十年美国学区花了数十亿美元为教室配备笔记本电脑，然而学生的基本技能却下降了。目前有约九成的美国学校为学生提供​​了笔电，但学生的考试成绩则徘徊在历史最低点——只有 28% 的八年级学生熟练掌握数学，30% 的八年级学生熟练掌握阅读。研究证实，传统方法——在纸上阅读和写作——仍然优于基于屏幕的方法。设备会分散学生的注意力，研究表明，非学习活动后需要长达 20 分钟的时间才能重新集中注意力。布隆伯格建议学校重新考虑课堂电脑政策，呼吁学校重新使用书本和笔，而不是笔记本电脑和平板电脑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达 GTC 峰会凸显中美 AI 加速分裂]]></title>
+        <id>https://www.solidot.org/story?sid=80850</id>
+        <link href="https://www.solidot.org/story?sid=80850"/>
+        <updated>2025-03-21T15:05:36.000Z</updated>
+        <summary type="html"><![CDATA[英伟达一年一度的开发者大会 GTC 于 3 月 21 日闭幕，这次会议凸显了中美 AI 加速分裂。在 GTC 会场上，阿里巴巴和腾讯展示了 AI 研究成果。在线上，包括百度在内的多家中国企业，以及英伟达的华人员工，还专门举行了一场全程仅用中文交流的讨论会。英伟达 CEO 黄仁勋被问及中美对立的影响时回答：“据我观察，全球 AI 研究人员中有一半来自中国。在所有美国的 AI 研究所中，优秀的中国研究人员数量众多，绝无例外”。对于英伟达来说，如果分裂进一步加剧，其收益对美国的“依赖”可能会增强。自美国政府加强管制以来，中国市场销售额的占比一直在降低。从英伟达的中国销售额在总销售额中的占比来看，2024 财年（截至2025年1月）为总体的 13%，比 2021 财年减少了一半。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浙江大学物理学家制造出最小的 LED 显示屏]]></title>
+        <id>https://www.solidot.org/story?sid=80849</id>
+        <link href="https://www.solidot.org/story?sid=80849"/>
+        <updated>2025-03-21T14:55:54.000Z</updated>
+        <summary type="html"><![CDATA[浙江大学赵保丹及其同事在《自然》期刊上发表论文，报告创造出最小的 LED 显示屏，其像素宽度不到 100 微米，大约相当于人类头发的宽度。研究人员还能制造出更小的 LED，其像素宽度为 90 纳米——差不多病毒的大小，连最强大的光学显微镜也难以分辨。研究人员使用了钙钛矿制造 LED 半导体，赵保丹称，她们的实验表明，钙钛矿 LED 在极小的尺寸下仍能保持合理的效率，比传统 LED 更具优势。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revisiting CSS border-image]]></title>
+        <id>https://css-tricks.com/?p=385158</id>
+        <link href="https://css-tricks.com/revisiting-css-border-image/"/>
+        <updated>2025-03-21T13:24:11.000Z</updated>
+        <summary type="html"><![CDATA[I’ve used border-image regularly. Yet, it remains one of the most underused CSS tools, and I can’t, for the life of me, figure out why. Is it possible that people steer clear of border-image because its syntax is awkward and unintuitive? Perhaps it’s because most explanations don’t solve the type of creative implementation problems that most people need to solve. Most likely, it’s both.
+Revisiting CSS border-image originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calibre 8.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=80848</id>
+        <link href="https://www.solidot.org/story?sid=80848"/>
+        <updated>2025-03-21T09:51:55.000Z</updated>
+        <summary type="html"><![CDATA[开源电子书管理软件 Calibre 释出了 8.0 版本。主要新特性包括：大幅改进了对 Kobo 电子书阅读器的支持，支持原生编辑、查看和转换 Kobo 使用的 KEPUB 格式文件，将电子书发送到 Kobo 设备时会自动将 EPUB 格式转换为 KEPUB 格式；Calibre 可连接文件夹并将其视为基于 USBMS 的设备，该功能非常适用于 Chromebook，原因是在 Chromebook 中 USB 设备显示为文件夹而不是实际设备；bug 修复，改进了 Linux Weekly News、Spectator 和 Economist 等新闻源，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gmail 引入 AI 驱动的搜索]]></title>
+        <id>https://www.solidot.org/story?sid=80847</id>
+        <link href="https://www.solidot.org/story?sid=80847"/>
+        <updated>2025-03-21T09:02:13.000Z</updated>
+        <summary type="html"><![CDATA[Google 官方博客宣布，它利用 AI 更新了 Gmail 的搜索功能，能基于最近和常用联系人以及最常点击电邮等优先展示最相关结果。该功能旨在帮助用户更有效的在收件箱中找到特定邮件。该更新将首先提供给全球的 Google  个人账户，商业账户将在以后推送，日期尚未确定。用户可选择在新的 AI 驱动的最相关搜索和传统的倒序最近视图之间切换。这项功能与 AI 可能关系不大，但如今 AI 仍然是热门词。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Folo – RSS 订阅工具 Follow 发布 iOS 版本，无内购，完全免费]]></title>
+        <id>https://www.appinn.com/?p=51457</id>
+        <link href="https://www.appinn.com/folo-ios-follow/"/>
+        <updated>2025-03-21T08:18:46.000Z</updated>
+        <summary type="html"><![CDATA[Folo 是著名的 RSS 订阅工具 Follow 正式发布的 iOS 版本，并没有延续原名，而是改叫 Folo，但同样的 Slogan（口号）：订阅一切（Follow everything）。@Ap]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达在 GTC 会议期间用流动餐车卖 2000 张显卡]]></title>
+        <id>https://www.solidot.org/story?sid=80846</id>
+        <link href="https://www.solidot.org/story?sid=80846"/>
+        <updated>2025-03-21T06:49:18.000Z</updated>
+        <summary type="html"><![CDATA[英伟达正在加州圣何塞举办 GPU Technology Conference(GTC)AI 会议，会议期间该公司使用流动餐车不定时向与会者出售你很难在其它地方买到的 RTX 5080 和 5090 高端显卡。GTC 的门票最低超过 1000 美元，但门票并不会让你获得折扣价。就连英伟达手中的 RTX 5000 系列高端显卡也非常有限：总共 2000 张，其中 RTX 5080 和 5090 各一千张。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[海豹能感知其血液中的氧含量而避免溺水]]></title>
+        <id>https://www.solidot.org/story?sid=80845</id>
+        <link href="https://www.solidot.org/story?sid=80845"/>
+        <updated>2025-03-21T06:31:55.000Z</updated>
+        <summary type="html"><![CDATA[海洋哺乳动物可能拥有直接感知其自身血循环中氧含量的能力，帮助它们挺过长时间的潜水，而大多数陆地哺乳动物是没有这种能力的；这种能力使得海洋哺乳动物能够在水下停留较长时间，并在缺氧导致其溺水前再次浮出水面。研究人员对捕获的野生灰海豹（Halichoerus grypus）进行了一项研究：检查变化受控的吸入氧和二氧化碳水平会如何影响它们的潜水行为。结果显示，潜水持续时间与血氧水平密切相关，但却不受 CO₂ 水平或血液 pH 值的影响。据研究结果披露，即使暴露于比环境空气高 200 倍的二氧化碳浓度时，这些海豹的潜水时间也会保持不变。然而改变氧气水平（无论是将环境中的氧气浓度加倍还是减半）都会显著影响海豹在水下停留的时间。研究人员认为，这项研究提供了令人信服的证据：灰海豹具有感受氧气浓度的认知能力，这使得它们能够相应地调节其潜泳时间。此外，鉴于海洋哺乳动物在潜泳相关适应性上广泛存在趋同演化，其他物种很可能也有类似的感知氧气的机制。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自由开源软件基础设施面临来自 AI 公司的攻击]]></title>
+        <id>https://www.solidot.org/story?sid=80844</id>
+        <link href="https://www.solidot.org/story?sid=80844"/>
+        <updated>2025-03-21T06:27:25.000Z</updated>
+        <summary type="html"><![CDATA[开源软件开发平台 SourceHut 创始人兼 CEO Drew DeVault 通过其个人博客抨击 AI 公司不尊重 robosts.txt 而大肆抓取数据导致 SourceHut 服务中断。KDE GitLab 基础设施因被阿里巴巴的 AI 爬虫淹没导致开发者在短时间内无法访问。为了阻止 AI 公司的爬虫抓取数据，GNOME 项目部署了工作量证明工具 Anubis，Anubis 向浏览器展示一个网页，要求浏览器花时间执行数学运算并将结果返回给服务器，如果答案正确，就可以访问该网站。GNOME 系统管理员 Bart Piotrowski 在 Mastodon 上公开了一些数据：两个半小时内收到了 81k 个请求，其中只有 3% 通过了 Anubi 的工作量证明，意味着 97% 的流量来自机器人爬虫，这是一个疯狂的数字。LWN 的主编 Jonathan Corbet 警告，由于 AI 爬虫的 DDoS 攻击，网站可能偶尔会出现访问缓慢的情况，他表示网站访问流量只有很小一部分来自人类读者，AI 爬虫有时会从数百个 IP 地址同时发动相当于 DDoS 攻击 的请求，AI 爬虫唯一不抓取的内容是 robosts.txt。Fedora 项目系统管理员 Kevin Fenzi 因难以区分 AI 爬虫而屏蔽了整个巴西的 IP 地址。Inkscape 项目也面临类似的攻击。AI 爬虫的访问频率非常高，它们每隔几小时就会再次尝试抓取数据。开源项目相比闭源项目受到更大的影响，因为整个项目的基础设施是公开的，它们的资源也更有限。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[婴儿能编码短暂的海马体记忆]]></title>
+        <id>https://www.solidot.org/story?sid=80843</id>
+        <link href="https://www.solidot.org/story?sid=80843"/>
+        <updated>2025-03-21T05:49:54.000Z</updated>
+        <summary type="html"><![CDATA[一项功能性磁共振成像（fMRI）研究挑战了有关婴儿记忆的假设；研究人员报告称，婴儿在 12 个月大的时候能够编码记忆。研究结果表明，婴儿期遗忘（即人们无法记住生命最初几年的情况）更可能是由记忆检索失败所致，而非因为一开始就无法形成记忆。尽管婴儿期为快速学习的阶段，但这一时期形成的记忆并不会持续到童年后期或成年期。人类通常无法回忆起生命最初三年的事件——这种现象被称为婴儿期遗忘。成年人为何对婴儿时期的情景记忆会有历时数年的空白仍然成谜。有一种学说认为，这是因为海马体（这是一个对情景记忆至关重要的脑区）在婴儿期尚未发育完全。然而，在啮齿动物中所做的研究挑战了这一观点；这些研究显示：记忆痕迹或印迹会在婴儿的海马体中形成，但这些印迹会随着时间的推移而变得无法获取。研究人员用 fMRI 对在完成记忆任务时的 4 至 25 个月的婴幼儿进行了脑部扫描。研究结果表明，婴儿的海马体从 1 岁左右开始就能对个人经历的记忆进行编码，从而为个体记忆形成于婴儿期提供了证据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023/24 年海洋表面温度大幅上升]]></title>
+        <id>https://www.solidot.org/story?sid=80842</id>
+        <link href="https://www.solidot.org/story?sid=80842"/>
+        <updated>2025-03-21T05:46:16.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《自然》期刊上的一项研究，2023/24 年海洋表面温度的大幅上升虽然是异常现象，但用气候模型预测时并不全然意外。这项研究表明，全球变暖可能并未像人们起初担忧的那样发生超预期的加速，但研究仍显示，温度飙升可能由人因气候变化所致。2023/24年，全球海洋表面温度达到创纪录高点，比此前纪录高出约0.25℃。这一突然升温令人担心全球变暖是否已经加速，以及现有的气候模型是否能够准确描绘气候系统。为回答这些疑问，瑞士伯尔尼大学研究团队使用基于观测的统计模型，以确定在当前对气候模式的理解下，预测出这一海洋表面温度高峰的可能性。这些模型表明，相对目前的变暖趋势，海洋表面温度在 2023/24 年的飙升是个512 年一遇的事件。这一结果意味着，此次事件并非完全超出预期。但研究团队提到，如果不考虑全球变暖的趋势，这类异常事件几乎不可能发生。他们补充说，预计到2025年9月之前，海洋表面温度会在这种跳跃飙升之后恢复到长期变暖趋势。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.24 Million Google Clicks! 🤩]]></title>
+        <id>https://catonmat.net/624-million-google-clicks</id>
+        <link href="https://catonmat.net/624-million-google-clicks"/>
+        <updated>2025-03-21T03:03:03.000Z</updated>
+        <summary type="html"><![CDATA[I Am Become Engagement. 🔥
+Yesterday Online PNG Tools smashed through 6.23M Google clicks and today it's smashed through 6.24M Google clicks!
+Smash too and see you tomorrow at 6.25M clicks! 💦
+PS. Use coupon code SMASHLING for a 30% discount on these tools. 💸]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNOME 48 释出]]></title>
         <id>https://www.solidot.org/story?sid=80841</id>
@@ -1034,139 +1178,6 @@ Buy a subscription now and see you next time!]]></summary>
         <summary type="html"><![CDATA[僧侣坐在书桌前抄写手稿是一种典型的中世纪画面，但修女抄写员呢？根据近期的估计，西方拉丁世界（Latin West）在公元 400-1500 年间抄写了逾千万份手稿，其中约 75 万份保存完好。挪威卑尔根大学的研究人员尝试量化了修女对手稿抄写的贡献。研究分析是基于手稿上的题跋，抄写员会在手稿上留下个人名字、委托人名字、地点和日期等信息，有时还会留下个人感悟。分析显示 1.1% 的手稿是修女抄写的。根据这一比例，西方拉丁世界的手稿有至少 11 万份是女性抄写的，而目前保留的手稿有大约 8000 份是女性抄写的。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotify 在 2024 年支付了 100 亿美元版税]]></title>
-        <id>https://www.solidot.org/story?sid=80772</id>
-        <link href="https://www.solidot.org/story?sid=80772"/>
-        <updated>2025-03-12T10:02:29.000Z</updated>
-        <summary type="html"><![CDATA[流媒体巨头 Spotify 在其《Loud & Clear》年度报告中称，2024 年它向唱片业支付了 100 亿美元版税——超过唱片业历史上任何一家公司。流媒体在 2024 年为唱片业贡献了逾 280 亿美元，比十年前翻了一番。 Spotify 称有近 1500 名音乐人获得了逾百万美元版税。这家流媒体巨头还表示越来越多的音乐人跨越国界取得成功。2024 年版税逾 10 万美元的音乐人的音乐使用了超过 50 种语言。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freenote – 一个开源的日记工具，可以让 AI 总结你的日记]]></title>
-        <id>https://www.appinn.com/?p=51330</id>
-        <link href="https://www.appinn.com/freenote-ai/"/>
-        <updated>2025-03-12T09:12:02.000Z</updated>
-        <summary type="html"><![CDATA[Freenote 是一款开源的日记工具，支持 Markdown，界面简单，可通过 AI 来搜索和总结过去的日记。比如搜索：最近一个月都吃了什么？AI 会给你一个满意的答案。@Appinn 来自发现频道]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 开始测试其自研 AI 训练芯片]]></title>
-        <id>https://www.solidot.org/story?sid=80771</id>
-        <link href="https://www.solidot.org/story?sid=80771"/>
-        <updated>2025-03-12T09:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Meta 开始测试第一款自研 AI 训练芯片，此举旨在减少对英伟达 AI 芯片的依赖。英伟达是最大的 AI 芯片供应商。Meta 在 2025 年的资本支出预计高达 650 亿美元，绝大部分是投向 AI 基础设施。Meta 的新训练芯片是一种专用加速器，只能处理特定于 AI 任务，但比 GPU 更节能。芯片由台积电代工。Meta 希望到 2026 年用自研 芯片训练 AI 系统。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[空气污染与生物衰老正相关，而绿地负相关]]></title>
-        <id>https://www.solidot.org/story?sid=80770</id>
-        <link href="https://www.solidot.org/story?sid=80770"/>
-        <updated>2025-03-12T08:47:22.000Z</updated>
-        <summary type="html"><![CDATA[西安交大的研究人员在 GeroScience 上发表论文，利用英国生物银行（UK Biobank）的数据，依据临床特征估算了 156,690 人的生物年龄。他们将生物年龄与实际年龄的差值定义为表型年龄加速（Phenotypic Age Acceleration，PhenoAgeAccel），以此衡量生物衰老的加速情况。结果显示，空气污染与生物衰老正相关，而绿地与生物衰老负相关。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由人轉向自然]]></title>
-        <id>https://io-oi.me/life/from-human-to-nature/</id>
-        <link href="https://io-oi.me/life/from-human-to-nature/"/>
-        <updated>2025-03-12T07:44:00.000Z</updated>
-        <summary type="html"><![CDATA[——過去數年，我關注的對象是人、女人、人與人，這讓我更好了解認識了自身、自身與社會，理解了一些這方面的疑惑。然而，與此同時，我也身處其中身陷囚困，這給我帶來迷茫、焦慮、痛苦，愈來愈重，變成俗人一箇，不再自在逍遙。
-幸運的是，我最早主動接觸的知識是科學與哲學，這讓我廣泛閱讀接觸了許多數千年歷史以來的偉大心靈、普遍思想，並在寫作時步入了其存在的喜悅宇宙。每當我與這些古典、經典再次開啟對話，我就又回到了那自在逍遙的內心世界。
-我思想著，技術的律法、俗世的律法、身體的律法、心靈的律法、人類的律法，每一箇體、每一觀點都有其自身存在的邏輯樹枝，它們時而積木時而線團，看似蘋果卻也浮塵。我思想著，由人轉向自然，我依舊想去窺探自然律法的神意。*]]></summary>
-        <author>
-            <name>reuixiy@gmail.com (reuixiy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台积电提议与 AMD 等接管英特尔芯片制造业务]]></title>
-        <id>https://www.solidot.org/story?sid=80769</id>
-        <link href="https://www.solidot.org/story?sid=80769"/>
-        <updated>2025-03-12T07:43:26.000Z</updated>
-        <summary type="html"><![CDATA[台积电向英伟达、AMD 和博通公司发出成立合资企业的提议，该合资企业将运营英特尔的芯片工厂，台积电负责芯片制造业务的运营，其持股比例不超过 50%。高通公司也是台积电积极推销该计划的对象之一。关于英特尔的任何交易都需要特朗普政府的批准，特朗普政府不希望由外资完全拥有英特尔或其芯片制造业务。英特尔、台积电、英伟达、AMD 和高通都拒绝置评这一报道。芯片巨头的市值过去一年下跌了一半以上，2024 年净亏损 188 亿美元。报道称，英特尔拒绝将其芯片设计和制造业务分开出售。而台积电希望合资企业的投资者也将成为公司的主要客户。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RBTray：老古董更新：右键最小化到系统托盘[Win10、Win11]]]></title>
-        <id>https://www.appinn.com/?p=51323</id>
-        <link href="https://www.appinn.com/rbtray-2025/"/>
-        <updated>2025-03-12T07:26:42.000Z</updated>
-        <summary type="html"><![CDATA[RBTray 是一款适合于 Windows 系统的小工具，唯一功能：右键最小化按钮后，缩小到到系统托盘。也可以按住 Shift 后，右键窗口标题栏最小化到系统托盘。@Appinn 这是一款大]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球只有 7 个国家的 PM2.5 水平达到 WHO 的标准]]></title>
-        <id>https://www.solidot.org/story?sid=80768</id>
-        <link href="https://www.solidot.org/story?sid=80768"/>
-        <updated>2025-03-12T07:07:42.000Z</updated>
-        <summary type="html"><![CDATA[根据瑞士空气质量技术公司 IQAir 的报告，几乎每个国家的空气都比医生建议的要脏。去年只有七个国家符合 WHO 关于 PM2.5 的指导方针。澳大利亚、新西兰、爱沙尼亚、冰岛和一些小型岛国是少数年均每平米 PM2.5 不超过 5 微克的国家。污染最严重的国家包括乍得、孟加拉国、巴基斯坦、刚果民主共和国和印度。报告发现，2024 年上述五国的 PM2.5 水平至少比指导方针的限制值高出 10 倍，乍得的 PM2.5 水平甚至比推荐水平高出 18 倍。医生表示，PM2.5 没有安全水平，这种颗粒小到可以进入血液并损害全身器官，他们估计只要遵循指导方针每年数百万人的生命能被挽救。污染空气是继高血压之后的第二大死亡危险因素。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TP-Link 高危漏洞被僵尸网络感染传播恶意程序]]></title>
-        <id>https://www.solidot.org/story?sid=80767</id>
-        <link href="https://www.solidot.org/story?sid=80767"/>
-        <updated>2025-03-12T06:20:45.000Z</updated>
-        <summary type="html"><![CDATA[Ballista 僵尸网络正在利用 TP-Link Archer AX-21 路由器的高危远程代码执行漏洞 CVE-2023-1389，在被感染的 6,000 多台设备中，大部分位于巴西、波兰、英国、保加利亚和土耳其。多年来僵尸网络如 Mirai 和 Mozi 证明路由器非常容易被利用：路由器很少更新固件，制造商对安全也不重视。即使有安全补丁能修复漏洞，大部分路由器也不会更新，因此漏洞在曝光之后会长时间存在。CVE-2023-1389 就是一个 2023 年发现的漏洞。Cato CTRL 在 2025 年 1 月 10 日首次检测到了僵尸网络 Ballista，最近一次的攻击尝试是 2 月 17 日。安全研究人员称，Ballista 针对的是美国、澳大利亚、中国和墨西哥的制造业、医疗/保健、服务和科技组织。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西班牙将对不标记 AI 生成内容的公司处以巨额罚款]]></title>
-        <id>https://www.solidot.org/story?sid=80766</id>
-        <link href="https://www.solidot.org/story?sid=80766"/>
-        <updated>2025-03-12T05:23:01.000Z</updated>
-        <summary type="html"><![CDATA[西班牙政府批准了一项法案，对未能明确标记 AI 生成内容的公司处以最高 3500 万欧元或其全球营业额 7% 的巨额罚款。西班牙数字化转型部长 Oscar Lopez 表示，法案采用了欧盟 AI Act 法的指导方针，对高风险 AI 系统施加严格的透明度义务。他说，AI 是一种强大的工具，能用于改善生活，但也能用于传播虚假信息和攻击民主。他指出每个人都容易受到“深度伪造”的攻击。法案还禁止利用难以察觉的声音和图像去操纵弱势群体，比如 AI 聊天机器人煽动成瘾者去赌博或者鼓励儿童做有危险性的挑战。法案还禁止使用 AI 通过生物特征数据对人进行分类评价以发放福利或评估犯罪风险。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 一根证书将于 2025 年 3 月 14 日过期]]></title>
-        <id>https://www.solidot.org/story?sid=80765</id>
-        <link href="https://www.solidot.org/story?sid=80765"/>
-        <updated>2025-03-12T03:28:11.000Z</updated>
-        <summary type="html"><![CDATA[运行旧版本 Firefox 的用户可能已经收到了警告信息：Firefox 的一个根证书将于 2025 年 3 月 14 日过期，如果用户不更新浏览器，那么届时扩展可能会被禁用，而需要 DRM 的流媒体服务也可能会停止工作。该问题不会影响运行最新或较新版本的 Firefox 用户。用户需要在 3 月 14 日前将浏览器升级到 Firefox 128+ 或 ESR 版本 Firefox 115.13+，才能在 Windows、macOS、Linux 和 Android 平台上正常工作。证书过期还会影响 Firefox 内置安全工具的更新，如屏蔽恶意扩展的黑名单，SSL 证书撤销列表等安全功能。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新西兰卫生部的财务管理系统是单张 Excel 表格]]></title>
-        <id>https://www.solidot.org/story?sid=80764</id>
-        <link href="https://www.solidot.org/story?sid=80764"/>
-        <updated>2025-03-11T15:53:05.000Z</updated>
-        <summary type="html"><![CDATA[新西兰卫生部成立于 2022 年，年预算是 280 亿新西兰元（约合 160 亿美元）。由于预算超支，它受到了财务审计。负责审计的会计师事务所德勤发表了一份严厉报告，批评该组织的财务管理失控。报告称，卫生部管理财务绩效的主要数据文件是一张 Excel 表格。使用电子表格的问题包括：财务信息是硬编码的，难以溯源和更新数据流；不正确发布的应计项目或重复发布等错误要到后续使用期才会发现；容易人为错误，如多输入数字或漏了零。依赖电子表格意味着卫生部行动缓慢，每月财务报告通常需要 12-15 天合并账目，5 天进行分析。报告指出 IT 领域存在更合适的系统去处理财务绩效数据。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powering Search With Astro Actions and Fuse.js]]></title>
-        <id>https://css-tricks.com/?p=384941</id>
-        <link href="https://css-tricks.com/powering-search-with-astro-actions-and-fuse-js/"/>
-        <updated>2025-03-11T15:26:10.000Z</updated>
-        <summary type="html"><![CDATA[With Astro, we can generate most of our site during our build, but have a small bit of server-side code that can handle search functionality using something like Fuse.js. In this demo, we’ll use Fuse to search through a set of personal “bookmarks” that are generated at build time, but return back proper results from a server call.
-Powering Search With Astro Actions and Fuse.js originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Bryan Robinson</name>
         </author>
     </entry>
     <entry>
