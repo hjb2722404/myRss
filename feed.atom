@@ -2,10 +2,173 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-03-28T02:58:30.711Z</updated>
+    <updated>2025-03-29T02:54:29.530Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI 数据中心太多了]]></title>
+        <id>https://www.solidot.org/story?sid=80915</id>
+        <link href="https://www.solidot.org/story?sid=80915"/>
+        <updated>2025-03-28T15:08:51.000Z</updated>
+        <summary type="html"><![CDATA[在 AI 热下，Xiao Li 在 2023 年从一名房地产承包商跨行转为数据中心项目经理。一年前，他从微信群里看到大量英伟达 GPU 的芯片交易。交易商吹嘘能通过走私搞到被限制出口的英伟达 GPU。当时一块英伟达 H100 能卖出 20 万元。如今他的微信群里开始讲述不同的故事。AI 芯片的交易更谨慎，价格也回落了。两个数据中心项目因难以从投资者手中获得更多资金而被迫抛售 GPU。根据实地采访，很多运营 AI 数据中心的企业正陷入困境。36 氪等媒体报道，新建计算资源中高达八成未被使用。向 AI 公司出租英伟达 GPU 去训练大模型本被视为是一笔包赚的生意。然而随着 DeepSeek 的崛起以及 AI 周边经济形势的突变，该行业处于衰退之中。因为缺乏经验以及过度炒作，数据中心变成了不良资产。市场研究公司 KZ Consulting 称，2023 年和 2024 年，从内蒙古到广东，各地宣布了 500 多个新数据中心项目。中国通信工业协会数据中心委员会称，到 2024 年底，至少有 150 个新建数据中心将建成并投入运营。国有企业、上市公司和国有基金纷纷投资建造 AI 数据中心。在 2024 年初有超过 144 家公司在网信办注册开发大模型，但到了年底只剩下 10% 的公司还在继续投资。DeepSeek 的 R1 和 OpenAI 的 ChatGPT o1 和 o3 等推理模型的兴起改变了企业对数据中心的需求。推理性能对延迟要高要求，意味着数据中心需要建造在相关 AI 企业附近，这意味着很多建造在中西部和农村地区的数据中心对 AI 公司没有什么吸引力。此外大多数数据中心是为训练大模型而不是推理优化的。推理使用的硬件也与训练使用的硬件有很多不同。在此背景下，GPU 租赁价格降至历史最低水平。一台配置了 8 个 GPU 的英伟达 H100 服务器的月租金从 18 万元的高位降至 7.5 万元。由于巨大的电费和维护费用，一些数据中心宁愿空置。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automated Visual Regression Testing With Playwright]]></title>
+        <id>https://css-tricks.com/?p=385297</id>
+        <link href="https://css-tricks.com/automated-visual-regression-testing-with-playwright/"/>
+        <updated>2025-03-28T15:04:24.000Z</updated>
+        <summary type="html"><![CDATA[With visual regression testing, we can update a page, take screenshots before and after the fact, and compare the results for unintended changes. In this article, learn how to set up visual regression testing using Playwright.
+Automated Visual Regression Testing With Playwright originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Frederik Dohr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哥伦比亚大学学生因 AI 面试编程作弊工具而被停学]]></title>
+        <id>https://www.solidot.org/story?sid=80914</id>
+        <link href="https://www.solidot.org/story?sid=80914"/>
+        <updated>2025-03-28T14:33:54.000Z</updated>
+        <summary type="html"><![CDATA[哥伦比亚大学对开发 AI 工具帮助面试者在编程问题中作弊的学生 Chungin“Roy”Lee 做出了停学的处罚。Lee  开发了 AI 工具 Interview Coder，帮助求职者在面试中完成编程相关的问题。该工具的月费为 60 美元。去年 12 月 Lee 发布了一则在亚马逊面试中使用 Interview Coder 的视频，之后被举报到学校，被纳入学校的纪律处分程序，出席了学校的听证会。在第一次听证会后，学校对他做出了留校察看的处罚。现在处罚加重。Lee 认为该工具能为他每年赚取约 200 万美元的收入。被停学后他准备直接去旧金山。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 25.04 (Plucky Puffin) Beta 释出]]></title>
+        <id>https://www.solidot.org/story?sid=80913</id>
+        <link href="https://www.solidot.org/story?sid=80913"/>
+        <updated>2025-03-28T13:57:12.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu 发布团队在邮件列表上宣布释出 Ubuntu 25.04 (Plucky Puffin) Beta，正式版预计 4 月 17 日释出。Ubuntu 25.04 不是 LTS 版本，将只提供 6 个月的更新。Ubuntu 25.04 使用了最新的 Linux 内核 6.14， GNOME 48 桌面环境，Mesa 25.0 开源图形驱动，Python 3.13 等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软用预加载加速 Microsoft Office 启动]]></title>
+        <id>https://www.solidot.org/story?sid=80912</id>
+        <link href="https://www.solidot.org/story?sid=80912"/>
+        <updated>2025-03-28T12:34:41.000Z</updated>
+        <summary type="html"><![CDATA[软件臃肿启动缓慢怎么办？微软的回应是预加载。微软计划在 5 月推出名叫 Startup Boost 的自启动任务，旨在帮助 Microsoft Office 应用更快加载。在启用该任务的系统上，用户会在 Windows 任务管理器中看到两个新任务 Office Startup Boost 和 Office Startup Boost Logon。​Startup Boost 将只在内存至少 8 GB 和 5 GB 可用磁盘空间的系统上运行，确保它不会影响整体系统性能。一旦启用节能模式，该任务将会自动禁用。用户也可以关闭该任务，方法是在 Office 应用设置中选择 Options > General，取消 Startup Boost 的勾选项。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能体 Manus AI 发布 iPhone、iPad 客户端，依旧需要邀请码]]></title>
+        <id>https://www.appinn.com/?p=51534</id>
+        <link href="https://www.appinn.com/manus-ai-for-ios/"/>
+        <updated>2025-03-28T08:58:33.000Z</updated>
+        <summary type="html"><![CDATA[前阵子一码难求的 AI 智能体产品 Manus 已经发布 iPhone、iPad 客户端，目前可在 App Store 安装，但依旧需要邀请码。@Appinn Manus 是什么 Manus 是一款于]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据揭示了佛罗里达州在超速驾驶执法中存在种族歧视]]></title>
+        <id>https://www.solidot.org/story?sid=80911</id>
+        <link href="https://www.solidot.org/story?sid=80911"/>
+        <updated>2025-03-28T08:47:37.000Z</updated>
+        <summary type="html"><![CDATA[通过分析 Lyft 网约车平台上逾 22 万人的数据，研究人员报告，有色人种司机比白人司机更可能因超速收到罚单，而且即使其超速行驶的严重程度相同，他们面临的罚款也会更高。执法中存在的种族定性是美国社会中的一个亟待解决的问题。利用拼车平台 Lyft 的高频 GPS 位置数据，研究人员估测了种族定性对超速罚单和罚款的影响。该分析涵盖了 2017 年至 2020 年在佛罗里达州运营的 22 万 2838 名 Lyft 司机。Lyft 司机使用智能手机应用以 10 秒为间隔将精确的位置和速度数据传输到 Lyft 系统，从而为研究人员提供详细的实时驾驶信息。研究人员将该数据集与佛罗里达州政府的超速违规记录进行了匹配；这些记录详细记录了交通拦截和涉事司机的驾照信息。作者发现，即使在行驶速度、地点、车辆特征及其他相关变量等因素受控的的情况下，少数族裔司机因超速而被开罚单的可能性也明显高于白人司机，而且罚款额也更高。研究结果表明，与白人司机相比，少数族裔司机在交通拦截期间被开罚单的可能性要高 24% 至 33%，罚款金额也要高 23% 至 34%。此外，分析显示，白人司机和少数族裔司机在事故率或再犯率上没有显著差异，表明这些差异是由执法偏见而非司机行为所致。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缅甸发生 7.9 级/M7.7 级地震]]></title>
+        <id>https://www.solidot.org/story?sid=80910</id>
+        <link href="https://www.solidot.org/story?sid=80910"/>
+        <updated>2025-03-28T08:17:03.000Z</updated>
+        <summary type="html"><![CDATA[3 月 28 日 14 时 20 分，缅甸发生今年至今最强烈的地震。据中国地震台网测定，震中为北纬 21.85 度，东经 95.95 度，震源深度 30 千米，震级为 7.9 级。美国 USGS 的数据称，震级 为 M 7.7 级。缅甸最大城市仰光，周边国家包括中国云南均震感强烈。根据社交媒体上的视频，曼谷正在建造的一栋建筑物倒塌。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.29 Million Google Clicks! 🤑]]></title>
+        <id>https://catonmat.net/629-million-google-clicks</id>
+        <link href="https://catonmat.net/629-million-google-clicks"/>
+        <updated>2025-03-28T08:08:08.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday Online PNG Tools smashed through 6.28M Google clicks and today it's smashed through 6.29M Google clicks!
+Smash too and see you tomorrow at 6.30M clicks! 💦
+PS. Use coupon code SMASHLING for a 30% discount on these tools. 💸]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本地全文搜索工具 AnyTXT 已跨平台支持 Windows、Linux、macOS]]></title>
+        <id>https://www.appinn.com/?p=51530</id>
+        <link href="https://www.appinn.com/anytxt-cross-platform-support/"/>
+        <updated>2025-03-28T08:04:01.000Z</updated>
+        <summary type="html"><![CDATA[AnyTXT Searcher 是一款免费的本地全文搜索工具，你可以用它直接搜索 PDF、Word、WPS、PPT、电子书等文件的具体内容。在最近的一次更新中添加了对 Linux 与 macOS 系统]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吉卜力风格 AI 图像引版权争议]]></title>
+        <id>https://www.solidot.org/story?sid=80909</id>
+        <link href="https://www.solidot.org/story?sid=80909"/>
+        <updated>2025-03-28T07:34:26.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI ChatGPT 的新功能催生出一场吉卜力工作室动画风格图像的生成热潮。OpenAI CEO 奥尔特曼也将 X 平台（原推特）头像换成了吉卜力风格的图像，上传至社交平台（SNS）的此类生成图像层出不穷，但也有人担心这会引发著作权问题。部分美国媒体指出，新功能使得“复制著作权受保护作品的风格变得更加容易”。报道同时指出，知识产权专家认为在法律上这属于“灰色地带”，可能会引发著作权纠纷。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马的非凡耐力来自其基因突变]]></title>
+        <id>https://www.solidot.org/story?sid=80908</id>
+        <link href="https://www.solidot.org/story?sid=80908"/>
+        <updated>2025-03-28T07:10:16.000Z</updated>
+        <summary type="html"><![CDATA[研究人员揭示了马具有非凡耐力的秘密：KEAP1 基因产生的一种突变增强了其能量生成，并同时能保护细胞免受氧化应激的损害。研究人员对 196 种哺乳动物中的 KEAP1 基因（它是氧化还原平衡和线粒体能量产生的关键调节因子）进行了演化分析。KEAP1 被认为是运动科学中的一个重要靶点；它也与多种人类疾病（如肺癌和慢性阻塞性肺病）有关。现代的马、驴和斑马都演化出了一种独特的基因适应机制，后者涉及 KEAP1 基因中的一个早现终止密码子（UGA）。通过系统基因组学、蛋白质组学和代谢组学分析以及活体组织研究，作者发现，这个终止密码子在马中被有效地重新编码为半胱氨酸（C15），从而增强了该基因的功能。这一单点突变减少了对 NRF2（一种减轻氧化应激的蛋白质）的抑制，从而增加了线粒体呼吸和 ATP 的产生能力。虽然过强的 NRF2 活性会对其他哺乳动物有害，但这种适应机制似乎为马提供了一种平衡的解决方案：既能增加线粒体的能量生成，又可控制氧化应激。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克施压 Reddit CEO 去压制对其及 DOGE 的批评]]></title>
+        <id>https://www.solidot.org/story?sid=80907</id>
+        <link href="https://www.solidot.org/story?sid=80907"/>
+        <updated>2025-03-28T07:04:27.000Z</updated>
+        <summary type="html"><![CDATA[马斯克（Elon Musk）诸多受争议行为在社交媒体平台 Reddit 引发了社群的集体抗议，逾百个 Subreddit 禁止了来自马斯克旗下平台 X/Twitter 的链接。根据 The Verge 的报道，马斯克通过私下施压 Reddit CEO Steve Huffman 去压制对其及其领导的政府效率部（DOGE）的批评。双方之间交流的信息细节没有披露。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signal 在美国和也门的下载量大幅飙升]]></title>
+        <id>https://www.solidot.org/story?sid=80906</id>
+        <link href="https://www.solidot.org/story?sid=80906"/>
+        <updated>2025-03-28T06:47:37.000Z</updated>
+        <summary type="html"><![CDATA[在 Signal 门事件之后，该加密应用在美国和也门的下载量大幅飙升。在 Signal 群聊中泄漏军事机密与该应用本身的功能无关。根据应用情报公司 Appfigures 的数据，当大西洋月刊周一公开 Signal 门事件后，iOS 和 Google Play 两大应用商店中 Signal 下载量比过去 30 天的日均下载量增长了 28%，其中美国地区周一下载量增长了 45%，也门地区的下载量增长了 42%。此前 Signal 在也门的社交媒体应用中排名第 50 位，周一攀升至第 9 位。Signal 是端对端加密消息应用，它的信息在传输过程中不会被人窃取，但如果你在群聊中加入了一名记者，那么任何加密方法都无法阻止泄密。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯向育碧子公司投资 11.6 亿欧元]]></title>
+        <id>https://www.solidot.org/story?sid=80905</id>
+        <link href="https://www.solidot.org/story?sid=80905"/>
+        <updated>2025-03-28T06:32:51.000Z</updated>
+        <summary type="html"><![CDATA[育碧将成立一家专注于开发《刺客信条》、《孤岛惊魂》和《彩虹六号》系列游戏的子公司，整合了蒙特利尔、魁北克、舍布鲁克、萨格奈、巴塞罗那和索非亚的工作室。而育碧的主要投资者腾讯将向该子公司投资 11.6 亿欧元，持有四分之一的股权。育碧自己则将专注于其它游戏系列，如《全境封锁》和《幽灵行动》系列。新子公司尚未命名，育碧新闻稿表示新公司将致力于提高单人叙事游戏的体验。育碧 CEO 兼联合创始人 Yves Guillemot 表示育碧翻开了新的历史篇章。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cakebrew – 图形化 Homebrew 包管理器[macOS]]]></title>
+        <id>https://www.appinn.com/?p=51524</id>
+        <link href="https://www.appinn.com/cakebrew/"/>
+        <updated>2025-03-28T04:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Cakebrew 是一个图形化 Homebrew 包管理器的工具，可以让用户摆脱命令行，所见即所得：安装、更新、卸载，不用再敲命令啦。@Appinn 来自问题求助频道 @ljh2023 同学的问题：h]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valve 证实简体中文玩家超过英语玩家]]></title>
         <id>https://www.solidot.org/story?sid=80904</id>
@@ -1042,129 +1205,6 @@ PS. Use coupon code SMASHLING for a 30% discount on these tools. 💸]]></summar
         <link href="https://www.solidot.org/story?sid=80830"/>
         <updated>2025-03-19T15:33:12.000Z</updated>
         <summary type="html"><![CDATA[Google 上周发布的 Gemini 2.0 Flash(Image Generation) Experimental 新模型过去几天吸引了越来越多的关注，该模型通过 Google AI Studio 提供给用户使用。它允许任何人通过输入提示词去修改和编辑图像，让任何人都能像专业人士那样处理图像或者叫 PS。Gemini 2.0 Flash 可以添加对象、删除对象、修改场景、更改灯光、更改图像角度、放大或缩小等操作。它支持对话式图像编辑，允许用户通过自然语言对话在多个连续提示中迭代优化图像。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC 玩家 92% 的时间是在老游戏上]]></title>
-        <id>https://www.solidot.org/story?sid=80829</id>
-        <link href="https://www.solidot.org/story?sid=80829"/>
-        <updated>2025-03-19T14:42:39.000Z</updated>
-        <summary type="html"><![CDATA[游戏市场情报公司 Newzoo 咨询总监 Ben Porter 本周在 GDC 上发表演讲，称 PC 已经成为最大的游戏市场，而 PC 玩家最爱老游戏。Newzoo 每年深入调查了 73,000 名玩家，以及分析了逾万款游戏数据。根据 Newzoo 的分析，2023 年 PC 玩家有 8.735 亿，2024 年增长至 9.075 亿。相比下主机玩家在 2024 年有 6.531 亿。PC 玩家偏爱老游戏：数据显示，从 2024 年 1 月到 12 月，67% 的玩家游戏时间是花在六年或更久的游戏上；25% 是花在 2-5 年前的游戏上，8% 的时间花在不到 2 年前的游戏上。对于这 67% 的玩家：7.1% 是花在 CSGO/ CS2 上，6.4% 花在《英雄联盟（League of Legends）》上，6.2% 花在 Roblox 上，5.8% 花在 Dota 2 上，5.4% 花在《堡垒之夜（Fortnite）》上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类语言至少在 13.5 万年就存在]]></title>
-        <id>https://www.solidot.org/story?sid=80828</id>
-        <link href="https://www.solidot.org/story?sid=80828"/>
-        <updated>2025-03-19T12:05:48.000Z</updated>
-        <summary type="html"><![CDATA[全球已知的人类语言有 7000 多种。一项新的基因组证据分析表明，人类独特的语言能力至少在 13.5 万年前就存在了。随后语言可能在 10 万年前进入社会使用。智人大约有 23 万年的历史。研究人员根据从化石到文物等不同形式的证据，对语言起源时间的估计差异很大。这项新研究的作者采取了不同方法。他们的理由是，既然所有人类语言可能有一个共同起源——正如研究人员强烈认为的那样，关键问题是人群分支何时开始在世界各地扩散。数据表明，大约在 13.5 万年前，人类出现了最早的区域分支。也就是说，在智人出现后，不同的人群在地理上分开，随着时间的推移，在不同地区的亚种人群中，一些遗传变异已经发展起来。研究显示的遗传变异数量使研究人员能够估计智人仍是一个地区未分开群体的时间点。那么如何确定人类语言是什么时候首次被使用的呢？研究指出，只有在智人的考古记录中才能发现与语言相容的行为和持续的象征性思维实践。证据显示，大约 10 万年前，从在物体上进行有意义的标记到使用火生产赭石，象征性活动广泛出现。就像人类复杂的、高度生成的语言一样，这些象征性活动是由人类参与的，而不是其他生物。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西班牙政治家对女性诉求的回应少于男性]]></title>
-        <id>https://www.solidot.org/story?sid=80827</id>
-        <link href="https://www.solidot.org/story?sid=80827"/>
-        <updated>2025-03-19T08:30:05.000Z</updated>
-        <summary type="html"><![CDATA[马德里卡洛斯三世大学与西班牙高等科学研究理事会合作开展了一项研究，以评估西班牙政客对女性和男性诉求的回应是否平等。研究结果表明，在对公民的要求做出政治回应方面存在性别不平等，这可能会对未来公共政策的设计和关于性别平等的辩论产生影响。“我们知道，不同社会阶层和收入水平的人对公民诉求的政治反应存在差异，但对性别因素的研究却较少，"研究作者之一的 Berta Caihuelas Navajas 解释说。“因此，我们的目标是确定政治家是否倾向于男性而非女性的偏好。结果表明，情况确实如此，尤其是在意见分歧较大的问题上，例如在与性别平等有关的问题上，男女之间的差异每增加一个有利于男性的百分点，公共政策获得通过的几率就会增加 1.5%。反之，我们每增加一个有利于妇女的性别差距百分点，公共政策获得批准的概率就会平均降低 1.1%。研究还显示，妇女的要求，尤其是那些社会经济地位更脆弱和社会阶层更低的妇女的要求，得到的政治精英的关注最少，这强化了基于性别和社会经济地位的双重歧视。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SystemRescue 12.00 释出]]></title>
-        <id>https://www.solidot.org/story?sid=80826</id>
-        <link href="https://www.solidot.org/story?sid=80826"/>
-        <updated>2025-03-19T08:13:51.000Z</updated>
-        <summary type="html"><![CDATA[SystemRescue live Linux 系统释出 12.00 版。SystemRescue 是一款基于 Arch Linux 的可启动工具包，用于在系统崩溃时修复系统。SystemRescue 12.00 的主要变化包括：内核更新到 Linux 6.12.19、支持 bcachefs、以及大量常用工具和磁盘工具的更新。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 以 320 亿美元收购安全公司 Wiz]]></title>
-        <id>https://www.solidot.org/story?sid=80825</id>
-        <link href="https://www.solidot.org/story?sid=80825"/>
-        <updated>2025-03-19T07:46:13.000Z</updated>
-        <summary type="html"><![CDATA[Google 宣布以 320 亿美元现金收购以色列云安全公司 Wiz。如果获得监管部门批准完成收购，它将成为 Google 云端业务部门的一部。这不是 Google 第一次尝试收购 Wiz。去年 Google 提议以 230 亿美元收购 Wiz 的谈判因对方担心监管问题而破裂，特朗普政府被认为比拜登政府在企业合并上更友好。Google 表示，Wiz 的产品将会继续提供给主要云平台，包括其竞争对手 Amazon Web Services、Microsoft Azure 和 Oracle Cloud。Google 也警告，这笔收购也可能会被特朗普政府阻止，如果收购失败，Google 将向 Wiz 支付 32 亿美元的分手费，这笔分手费占到总金额的十分之一。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eric Migicovsky 宣布推出两款运行 PebbleOS 的智能手表产品]]></title>
-        <id>https://www.solidot.org/story?sid=80824</id>
-        <link href="https://www.solidot.org/story?sid=80824"/>
-        <updated>2025-03-19T07:20:25.000Z</updated>
-        <summary type="html"><![CDATA[Pebble 创始人 Eric Migicovsky 宣布推出两款运行 PebbleOS 的智能手表产品。他创办的 Pebble 公司被出售给 Fitbit 后关闭，而 Google 收购 Fitbit 后获得了 Pebble 的所有权。今年 1 月Google 宣布在 Apache License 2.0 下开源 Pebble 智能手表操作系统，而 Migicovsky 同一时间宣布将推出运行开源 PebbleOS 的新产品。两款新产品分别是：Core 2 Duo，售价 149 美元，今年 7 月上市；Core Time 2，售价 225 美元，12 月上市。因为新产品运行的是 PebbleOS，兼容于原来为 PebbleOS 开发的应用，因此能在新产品上使用的应用以及表盘数量将超过 1 万。Core 2 Duo 配备了 1.26 英寸的电子纸显示屏，电池使用时间将长达 30 天；Core Time 2 配备了更大的 1.5 英寸 64 色电子纸显示屏，电池使用时间 30 天（预估）。两款产品目前开放预购。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密码复用攻击泛滥成灾]]></title>
-        <id>https://www.solidot.org/story?sid=80823</id>
-        <link href="https://www.solidot.org/story?sid=80823"/>
-        <updated>2025-03-19T07:08:39.000Z</updated>
-        <summary type="html"><![CDATA[CDN 和安全服务商 cloudflare 报告，密码重复使用攻击泛滥成灾。密码复用攻击指的是用户在一个网站使用的密码泄漏，攻击者利用窃取的密码尝试登陆该用户在其它网站上的账号。避免此类攻击的方法就是不要重复使用密码。cloudflare 的流量监测发现，2024 年 9 月至 11 月期间，在受 Cloudflare 保护的网站上，41% 的成功登录涉及到密码泄露。cloudflare 的数据显示，95% 涉及泄露密码的登录尝试来自机器人程序，表明它们是撞库攻击（或凭证填充攻击）行动的一部分。 WordPress、Joomla 和 Drupal 等流行 CMS 平台是主要攻击目标。其中 WordPress 份额最大，原因当然是它是最大的 CMS 平台。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波音 Starliner 宇航员返回地面]]></title>
-        <id>https://www.solidot.org/story?sid=80822</id>
-        <link href="https://www.solidot.org/story?sid=80822"/>
-        <updated>2025-03-19T04:16:11.000Z</updated>
-        <summary type="html"><![CDATA[两名 SpaceX Crew-9 宇航员 Nick Hague 和 Aleksandr Gorbunov 以及两名滞留空间站逾九个月的波音 Starliner 宇航员 Suni Williams 和 Butch Wilmore 于 3 月 18 日美国东部时间下午 5:57 搭乘 SpaceX Dragon 飞船在佛罗里达州附近海域安全溅落。Suni Williams 和 Butch Wilmore 于 2024 年 6 月 5 日搭乘波音公司的 Starliner 飞船前往空间站，执行 Starliner 首次载人飞行测试任务。两人于 6 月 6 日抵达空间站，原计划执行八天在轨任务，但由于飞船发现氦气泄漏问题和助推器故障，他们返回地面的时间一再推迟。因为安全风险，Starliner 飞船于去年 9 月以无人方式返回。两名宇航员改为搭乘去年 9 月发射的执行 Crew-9 任务的飞船。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SubTracky – 订阅制服务管理应用，内购终身限免[iPhone]]]></title>
-        <id>https://www.appinn.com/?p=51422</id>
-        <link href="https://www.appinn.com/subtracky-manage-subscriptions/"/>
-        <updated>2025-03-19T04:01:49.000Z</updated>
-        <summary type="html"><![CDATA[SubTracky（Manage Subscriptions）是一款 iPhone 上的订阅制管理应用，可以帮你管理各种订阅，比如流媒体视频、音乐、社交网络、游戏、应用/软件等。并可以在订阅续费前发通]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6.22 Million Google Clicks! 🤩]]></title>
-        <id>https://catonmat.net/622-million-google-clicks</id>
-        <link href="https://catonmat.net/622-million-google-clicks"/>
-        <updated>2025-03-19T03:03:03.000Z</updated>
-        <summary type="html"><![CDATA[I Am Become Organic Growth. 🌱
-Yesterday Online PNG Tools smashed through 6.21M Google clicks and today it's smashed through 6.22M Google clicks!
-Smash too and see you tomorrow at 6.23M clicks! 💦
-PS. Use coupon code SMASHLING for a 30% discount on these tools. 💸]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲科技公司呼吁欧盟推动购买欧洲科技产品]]></title>
-        <id>https://www.solidot.org/story?sid=80821</id>
-        <link href="https://www.solidot.org/story?sid=80821"/>
-        <updated>2025-03-18T15:52:44.000Z</updated>
-        <summary type="html"><![CDATA[欧洲科技行业组织在致函欧盟委员会主席 Ursula von der Leyen 的信中，督促欧盟领导人采用激进行动减少对外国数字基础设施的依赖。代表空客、Proton 和 OVHCloud 等欧洲公司的联盟警告，欧洲将失去数字创新，按目前速度，不到三年欧洲将完全依赖非欧洲计算。它们呼吁制定公共共采购要求，鼓励使用欧洲技术解决方案，设立主权基础设施基金。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类的脑力已经越过峰值？]]></title>
-        <id>https://www.solidot.org/story?sid=80820</id>
-        <link href="https://www.solidot.org/story?sid=80820"/>
-        <updated>2025-03-18T15:21:18.000Z</updated>
-        <summary type="html"><![CDATA[种种数据显示，人类的推理和问题解决能力可能在大约 2010 年初达到峰值，之后开始下降。这一时间段是智能手机和社交媒体开始席卷世界的时代。发达国家青少年和成年人的阅读、数学和科学测试成绩在下降，有多达四分之一的成年人在评估陈述时难以使用数学推理，而美国这一比例高达 35%。我们获取信息的方式发生了根本性转变，美国人的读书率降至了不到 50% ，自 2010 年代中期以来 18 岁年轻人难以思考和集中注意力。我们的数字习惯发生了变化：从有限制的网页转变为无限的信息流，从主动浏览转变为被动消费，从集中注意力转变为不断切换上下文。研究表明，有意识的使用数字技术能带来好处，但过去几年占主导的被动消费会损害语言处理、注意力、工作记忆和自我调节。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
