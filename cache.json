@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/?p=51575",
+          "author": "青小蛙",
+          "description": "微软赶在愚人节为巨型小工具 PowerToys 更新 v0.90.0 版本，增加了命令面板功能（CmdPal），就是喜闻乐见的快速启动器。使用 Win + Alt + 空格呼出，支持搜索文件、运行程序",
+          "link": "https://www.appinn.com/powertoys-v0-90-0/",
+          "publishedOn": "2025-04-01T08:43:33.000Z",
+          "wordCount": 2750,
+          "title": "PowerToys v0.90.0 新增命令面板功能，一个完全可扩展的快速启动器",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/04/Copy-of-appinn-homework-2025-04-01T162432.055.jpg"
+        },
+        {
           "id": "https://www.appinn.com/?p=51570",
           "author": "青小蛙",
           "description": "UniGetUI 是一款图形化的 Windows 包管理器，支持Winget、Scoop、Choco 等 10 款软件包管理器，可以让你不使用命令行，就能轻松下载、安装、更新和卸载软件包中已发布的软件",
@@ -150,16 +160,6 @@
           "wordCount": 2718,
           "title": "Replica – 一个 iOS 上的投屏工具内购限免，支持投屏到电视、安卓 TV、特斯拉车机、浏览器",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/03/Copy-of-appinn-homework-2025-03-24T135230.998.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/?p=51467",
-          "author": "青小蛙",
-          "description": "Catime 是一款简洁、易用的 Windows 倒计时工具，支持正计时、倒计时、番茄钟，支持置顶显示，包括在游戏中置顶。内置了 40 多款字体，方便自定义显示效果。在 GitHub 开源，仅1.3M",
-          "link": "https://www.appinn.com/catime-for-windows/",
-          "publishedOn": "2025-03-23T08:44:21.000Z",
-          "wordCount": null,
-          "title": "Catime – 仅 1.3MB，开源免费，能在游戏中置顶的倒计时工具[Windows]",
-          "imageUrl": null
         }
       ]
     },
@@ -168,6 +168,21 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=385086",
+          "author": "Bryan Robinson",
+          "description": "One thing we can do to help teams code consistently is provide type-checking so that all of the configurable options for a specific component are available while coding. Bryan demonstrates how he does this with TypeScript when working with Astro components.\nCrafting Strong DX With Astro Components and TypeScript originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/",
+          "publishedOn": "2025-04-01T13:50:58.000Z",
+          "wordCount": 4153,
+          "title": "Crafting Strong DX With Astro Components and TypeScript",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2025/03/typed-component-1.mp4",
+            "length": "54756377",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/03/type-checking-astro.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=385188",
           "author": "Lee Meyer",
@@ -259,6 +274,156 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=80944",
+          "author": null,
+          "description": "为了在竞争激烈的 AI 领域保持竞争优势，Google DeepMind 采取了推迟发表 AI 论文的策略。诺奖得主 Sir Demis Hassabis 领导的团队引入了更严格的审查程序和更多的官僚主义，增加了 AI 论文的发表难度。该团队最不愿意发表的是可能会被竞争对手利用的论文，或者凸显 Google Gemini AI 模型相比其它模型处于劣势的文章。Google 研究人员在 2017 年发表了 Transformers 论文，奠定了今天流行的大模型的基础，但它也将最初的领先优势让给了 OpenAI 等竞争对手。为了防止再次发生类似的事件，DeepMind 对具有战略意义的论文实施六个月的出版禁令。一位前研究员表示，如果不能发表论文，对研究员而言这是职业生涯的“杀手”。",
+          "link": "https://www.solidot.org/story?sid=80944",
+          "publishedOn": "2025-04-01T15:59:17.000Z",
+          "wordCount": 211,
+          "title": "为维持竞争优势 DeepMind 推迟发布 AI 研究论文",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80943",
+          "author": null,
+          "description": "两家科学期刊尝试给通常无偿工作的审稿人（peer reviewers）付费，结果显示他们加速了审稿工作，且质量并没有下降。《Critical Care Medicine》向 715 名受邀审稿人中的半数提供了 250 美元的审稿激励费用，53% 接受了，相比下对照组的接受率为 48%。付费审稿人平均提前一天完成审稿工作。《Biology Open》期刊的结果更为显著，它向审稿人支付每篇论文 284 美元，审稿在 4.6 个工作日内完成，而无偿审稿人需要 38 天。《Biology Open》主编 Alejandra Clark 表示，“对编辑来说这非常有帮助，因为部分研究领域很难找到审稿人。”",
+          "link": "https://www.solidot.org/story?sid=80943",
+          "publishedOn": "2025-04-01T15:02:39.000Z",
+          "wordCount": 185,
+          "title": "期刊尝试给审稿人付费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80942",
+          "author": null,
+          "description": "挪威公共卫生研究所的一项新研究表明，减少在床上使用屏幕的时间可以显著改善年轻人的睡眠质量。这项研究基于对45202名年龄在18至28岁之间的挪威年轻人的调查数据，发现睡前使用屏幕会使失眠的风险增加 59%，平均减少24分钟的睡眠时间。研究指出，尽管许多人担心社交媒体特别具有干扰性，但实际上所有类型的屏幕使用对睡眠影响是相似的。这意味着，屏幕使用的总时长，而非具体类型，才是影响睡眠的关键因素。屏幕使用可能通过4种方式影响睡眠：通知打扰、占用本应用于休息的时间、延长入睡所需时间以及屏幕发出的光抑制昼夜节律。\n研究人员建议那些因屏幕使用而遭受睡眠问题的人尝试减少夜间屏幕使用时间，尤其是在睡觉前30到60分钟内完全停止使用屏幕。如果必须使用屏幕，建议禁用通知以减少夜间被打扰的可能性。",
+          "link": "https://www.solidot.org/story?sid=80942",
+          "publishedOn": "2025-04-01T10:49:53.000Z",
+          "wordCount": 158,
+          "title": "睡前看屏幕增加失眠风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80941",
+          "author": null,
+          "description": "Pidgin 3.0.0 正距离我们越来越近。开发者宣布释出 Pidgin 3.0.0 Experimental 2，这是一个 pre alpha 版本，版本号 2.91.0，该版本主要用于测试。根据发布计划，Experimental 3 计划于 2025-06-30 发布，版本号为 2.92.0，Experimental 4 计划于 2025-09-30 发布，Alpha 1 计划于 2025-12-31 释出。Experimental 2 新特性包括：对话成员列表现已按徽章正确排序，在 IRC 中频道管理员位于顶部，之后是有语音功能的用户，后面是没有任何其他权限的用户；支持搜索用户名；整合了新消息通知；支持传入 IRC 格式，更多可浏览 ChangeLog。",
+          "link": "https://www.solidot.org/story?sid=80941",
+          "publishedOn": "2025-04-01T10:27:30.000Z",
+          "wordCount": 209,
+          "title": "Pidgin 3.0.0 Experimental 2 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80940",
+          "author": null,
+          "description": "Mozilla 在 4 月 1 日释出了 Firefox 137。主要新特性包括：Linux 版本支持 HEVC 播放；能识别 PDF 文件中的所有链接并将其转变为超链接；签名 PDF 文档；支持将地址栏作为计算器使用，用户只需要输入算术表达式就可以在下拉列表中查看结果，单击复制到剪切板，该功能将逐步推出；允许用户在水平和垂直标签布局之间切换；更新 Inspector Fonts 面板以显示字体元数据如版本、设计者、供应商、许可证等；更新 Network 面板以允许使用本地文件覆盖网络请求响应，支持 SVG 2 path API 和 hyphenate-limit-chars 属性，等等。",
+          "link": "https://www.solidot.org/story?sid=80940",
+          "publishedOn": "2025-04-01T10:00:34.000Z",
+          "wordCount": 193,
+          "title": "Mozilla 释出 Firefox 137",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80939",
+          "author": null,
+          "description": "Google 上周向付费用户提供了其最新最先进的模型 Gemini 2.5，本周它开始向免费用户（有地区限制）提供了 Gemini 2.5 Pro (Experimental)。当然免费用户的使用是受到限制的，可能输入几次提示词就达到了限额。Gemini 2.5 支持模拟推理，能避免大模型常见的错误，目前它在 LMSYS Chatbot 排行榜中位居第一，排名第二的是 OpenAI 的 ChatGPT-4o-latest (2025-03-26)，之后是 Grok-3-Preview-02-24、GPT-4.5-Preview、Gemini-2.0-Flash-Thinking-Exp-01-21、Gemini-2.0-Pro-Exp-02-05、DeepSeek-V3-0324 和 DeepSeek-R1。",
+          "link": "https://www.solidot.org/story?sid=80939",
+          "publishedOn": "2025-04-01T09:49:04.000Z",
+          "wordCount": 207,
+          "title": "Google 向免费用户提供 Gemini 2.5 Pro (Experimental)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80938",
+          "author": null,
+          "description": "就像《半条命》系列一直数不到 3，《星际争霸》系列也一直停留在 2，3 也是遥遥无期。一个重要原因是《星际争霸》系列的原开发者基本上都离开了暴雪，留在微软手中的就是一个 IP。《星际争霸》在韩国仍然极受欢迎，根据韩国媒体今日亚洲（Asia Today）的报道，该国四大游戏工作室 NCSoft、Nexon、Netmarble、Krafton 正在竞争开发基于星际争霸 IP 的新作。部分游戏工作室甚至前往暴雪在加州的总部演示其作品。NCSoft 以开发 MMORPG 知名，Netmarble 想要开发星际争霸手游，Krafton 则以开发《绝地求生》游戏闻名。",
+          "link": "https://www.solidot.org/story?sid=80938",
+          "publishedOn": "2025-04-01T08:25:28.000Z",
+          "wordCount": 176,
+          "title": "韩国游戏工作室竞争开发星际争霸新作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80936",
+          "author": null,
+          "description": "英特尔 CEO 陈立武表示周一在拉斯维加斯举行的 Intel Vision 会议上表示将剥离非核心部门，但并没有进一步阐述哪些部门不再属于核心。这是陈立武首次以英特尔 CEO 身份公开亮相，他表示英特尔需要填补失去的工程人才，改善资产负债表，调整制造流程满足潜在客户的需求。英特尔有很多艰苦的工作要做。芯片巨人曾主宰半导体行业数十年，如今它落在后面需要在该领域追赶竞争对手。陈立武面临的一大难题是保持公司完整还是拆分芯片制造业务，他在会议上对此没有表态，只是表示数据中心和 AI 相关芯片在创新方面落后，适应行业变化和满足客户需求的速度太慢。",
+          "link": "https://www.solidot.org/story?sid=80936",
+          "publishedOn": "2025-04-01T06:39:48.000Z",
+          "wordCount": 183,
+          "title": "英特尔 CEO 陈立武表示将剥离非核心部门",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80935",
+          "author": null,
+          "description": "流媒体巨头 Netflix 的联席 CEO Ted Sarandos 称，在新冠疫情之后大部分现场娱乐活动已经恢复正常甚至出现反弹，只有电影院是例外，他认为电影院正在死亡。他说，几乎所有现场活动都恢复了，百老汇音乐剧打破了记录，体育赛事、音乐会等等所有在疫情期间无法举办的活动都回归了，而且规模比以往更大。然而电影院票房比疫情前下降了 40% 到 50%，今年至今下降了 8%，不去看电影的趋势没有逆转。",
+          "link": "https://www.solidot.org/story?sid=80935",
+          "publishedOn": "2025-04-01T05:49:04.000Z",
+          "wordCount": 180,
+          "title": "Netflix CEO 称电影院正在死亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80934",
+          "author": null,
+          "description": "南华早报报道，微软今年早些时候关闭了位于上海张江高科技园区的物联网和 AI 实验室。实地调查显示办公室人去楼空，logo 和办公设备都已经清空。微软的物联网和 AI 实验室于 2019 年 5 月启用，被誉为是微软与上海浦东区创新中心张江之间的旗舰合作，它占地约 2,800 平方米。2021 年，该实验室成为浦东区域开放式创新计划首批入选项目之一。该计划由政府主导，旨在促进当地创新生态系统并吸引投资。截至 2024 年 6 月，实验室支持了 258 个项目，涉及近 100 家浦东企业。微软实验室支持的企业超过 50 家，吸引了逾 94 亿元人民币的外部投资。张江发布的报告显示，期间实验室取得了 139 项技术成果，培训了近 10,000 名专业人员。微软去年还向其亚洲研究院的员工提供了出国工作的选项。",
+          "link": "https://www.solidot.org/story?sid=80934",
+          "publishedOn": "2025-04-01T05:23:46.000Z",
+          "wordCount": 203,
+          "title": "微软关闭了位于上海的物联网和 AI 实验室",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80933",
+          "author": null,
+          "description": "过去几年美国白领工人的失业率高于其他群体，且同时其薪水增长也在放缓。这一趋势部分被归因于 AI。经济学家认为白领的工作方式发生了巨变。纽约联邦储备银行的数据显示，大学毕业生的失业率从 2% 升至 2.6%，而所有工人的失业率约为从 3.4% 升至 4%。失业率在拥有学士学位或上过大学但没有学位的人群中最高，学历最高或没有高中文凭的人群中失业率则维持平稳或下降。需要大学学历的职位招聘招聘率下降更快。AI 通过提高白领工作的自动化程度进一步减少了此类职位的需求。",
+          "link": "https://www.solidot.org/story?sid=80933",
+          "publishedOn": "2025-03-31T16:01:29.000Z",
+          "wordCount": 171,
+          "title": "白领工人的工作可能开始减少",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80932",
+          "author": null,
+          "description": "工作日没时间锻炼但周末有时间？根据发表在《BMC Psychiatry》上的一项研究，只在周六或周日锻炼就能显著降低一周内焦虑的风险。研究人员发现，平均而言，当人们在七天内达到每周推荐的体育活动指南，即 150 分钟中等强度有氧运动或 75 分钟剧烈心肺活动时，他们将锻炼分散到几天还是只集中到一两天并不重要。相比不活跃的人，周末锻炼的人的焦虑风险降低了 35%。研究人员还发现，相比没有达到推荐活动水平的人，收入较低和患糖尿病的人的焦虑风险降低幅度更大。",
+          "link": "https://www.solidot.org/story?sid=80932",
+          "publishedOn": "2025-03-31T15:27:16.000Z",
+          "wordCount": 169,
+          "title": "周末锻炼能降低一周内的焦虑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80931",
+          "author": null,
+          "description": "成立于 1975 年 4 月 4 日的微软即将迎来 50 岁生日，多名员工回忆了公司早期的经历。Scott Oki 以 121 号员工加入微软，当时公司规模还小，比尔盖茨都是亲力亲为，是位难以取悦的老板，最喜欢说的话是“这是我听过的最蠢的事”。盖茨没对 Oki 说过这句话，这让 Oki 感到高兴。Oki 第一份工作是创立国际销售部门。微软在早期痴迷于快速的增长收入，而盖茨拨款 100 万美元让他发展国际业务。他说，“我做过国际业务吗？没有。我会说英语之外的其它语言吗？不会。”他在最重要的国际市场日本、英国、德国和法国创办了子公司，还有钱剩余后又去澳大利亚创办了子公司。早期创办的所有子公司都在第一年盈利了。他于 1992 年 3 月 1 日离开微软，距离他入职过去了 10 年。一位新毕业生对于微软的第一印象是其父母的评价，这是 Mary 和 Bill Gates 儿子的公司，如果这孩子和父母一样，这会是一家好公司。33 年后她成为了微软慈善基金会的资深总监。微软高级副总裁 Brad Chase 回忆，盖茨总是说我们要把整个公司押在 Windows 上。这是一个巨大的赌注，坦率地说，早期的 Windows 是一款糟糕的产品。",
+          "link": "https://www.solidot.org/story?sid=80931",
+          "publishedOn": "2025-03-31T14:59:46.000Z",
+          "wordCount": 214,
+          "title": "微软迎来 50 岁，员工回忆公司早期经历",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80930",
+          "author": null,
+          "description": "WSJ 报道，中美创业公司正在竞相研发人形机器人。人形机器人需要三维数据去理解物理，而大部分数据都必须从零开始创建。中国的明显优势是有大量工厂，人形机器人可以在执行任务的同时吸收周围世界的数据。机器人初创公司云深处科技(Deep Robotics)的销售总监程宇行说，AI 驱动人形机器人快速进步的原因是我们将其与实际应用相结合，并在真实场景中快速迭代和改进，这是美国所无法比拟的。优必选（UBTech）是一家训练人形机器人对汽车零部件进行分类和搬运的创业公司，该公司与吉利等公司建立了合作关系。它的一位经理说，在实验室中一个问题能在一个月内解决，但在真实环境中可能只需要几天时间。优必选的机器人系统 Walker S 包括软件在内的费用为数十万美元，计划今年向包括富士康在内的客户交付 500 到 1,000 台 Walker S 机器人。该公司希望在 2027 年交付量将增加到 10,000 台以上。",
+          "link": "https://www.solidot.org/story?sid=80930",
+          "publishedOn": "2025-03-31T10:42:29.000Z",
+          "wordCount": 193,
+          "title": "中国创业公司开始在工厂测试 AI 驱动的人形机器人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=80929",
+          "author": null,
+          "description": "根据 AI 分析平台 aitools.xyz 的报告，DeepSeek 超过 OpenAI 的 ChatGPT 成为全球增长最快的 AI 工具。ChatGPT 总访问量仍然远胜于 DeepSeek。DeepSeek 在 2025 年 2 月新增访问量 5.247 亿次，超过 ChatGPT 的 5 亿次。DeepSeek 目前是访问量仅次于 ChatGPT 和 Canva 的第三大 AI 工具，总访问量达 7.926 亿次，拥有 1.365 亿独立用户。",
+          "link": "https://www.solidot.org/story?sid=80929",
+          "publishedOn": "2025-03-31T10:08:21.000Z",
+          "wordCount": 212,
+          "title": "DeepSeek 访问量增长速度超过 ChatGPT",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=80927",
           "author": null,
@@ -898,46 +1063,6 @@
           "wordCount": 173,
           "title": "前往美国最好带上一次性使用的手机",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80859",
-          "author": null,
-          "description": "匈牙利议员以 136 票对 27 票通过了集会法修订案，禁止 LGBTQ+社群组织的骄傲游行，并授权政府使用面部识别软件识别参与者，可能会对参与者进行罚款。这项修订案是总理奥尔班(Viktor Orbán) 及其右翼民粹主义政党针对 LGBTQ+ 权利的最新立法，是欧盟历史上第一项针对 LGBTQ+ 的禁令。国际特赦组织对此予以谴责。欧盟平等事务专员 Hadja Lahbib 表示匈牙利的新法律违反了欧盟 27 国的价值观，称和平集会的权利是整个欧盟都应倡导的基本权利。布达佩斯骄傲节的组织者谴责新法律是法西斯主义，表示将会继续计划组织游行。",
-          "link": "https://www.solidot.org/story?sid=80859",
-          "publishedOn": "2025-03-23T14:48:57.000Z",
-          "wordCount": 184,
-          "title": "匈牙利禁止骄傲游行将利用面部识别技术去识别参与者",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80858",
-          "author": null,
-          "description": "Gundaz Aghayev 写道:\n俄罗斯政府机构 Roskomnadzor 下属的“互联网监控和控制中心” (CMU SSOP) 去年 11 月指责 Cloudflare 部署 Encrypted Client Hello 侵害了各国网络主权，并有效地阻止了其 ECH 连接。在“主权互联网法案”授权之下，他们持续干扰西方科技公司在俄运作，Google 和 Wikipedia 已经“夹着尾巴逃跑了”，接下来是 Cloudflare。\n\n先演习一下，这次在部分地区完全切断 Cloudflare，起初是中部的、与哈萨克斯坦接壤的新西伯利亚州。后来，不同 ISP 和地区的封锁有差异，大体上集中在俄罗斯中部和东部地区，该国的欧洲部分不受影响。用户报告所有使用了 Cloudflare CDN 的网站，都无法被打开。包括邻国的 DeepSeek、测速站 Speedtest、w3.org，以及臭打游戏的们的 Discord、EA、Nexus mods、VRChat。Cloudflare Radar 显示部分 ISP，比如 ZSTTKAS（AS21127）的 HTTP 流量接近清零。\n\n“演习”结束，DeepSeek 率先被解封。这期间一名用户声称使用 chat.deepseek.com 作为 TLS hello，Discord 聊天就能“迅速打开”。本人推测这并不是已被 Cloudflare 禁止的域前置：封锁和解封与否是基于 IP 地址，而不是 HTTPS SNI。\n\n可能的关联是：Roskomnadzor 在本月 20 日说要“对俄罗斯服务和电信运营商使用外国服务器基础设施进行定期技术检查”、以及“研究在确保网络主权的框架内制定改善上述服务的稳定性和安全性的措施”。不过本人看不出来封锁 IP 地址、导致俄国人上不去使用 Cloudflare CDN 的网站是如何改善稳定和安全的。\n\nCloudflare Status 记录了此次短暂封锁，现在其已被标记为“解决”。",
-          "link": "https://www.solidot.org/story?sid=80858",
-          "publishedOn": "2025-03-23T11:49:04.000Z",
-          "wordCount": 291,
-          "title": "俄测试网络主权，完全切断 Cloudflare 连接",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80857",
-          "author": null,
-          "description": "随着全球人口老龄化加剧，越来越多的老年人住进养老院。对于他们来说，适应养老院的生活并非易事，不仅要面对身体机能的衰退，还要应对心理上的挑战，如孤独感、社交隔离、抑郁和躯体化等问题。这些心理问题不仅影响老年人的生活质量，还可能对他们的身体健康造成长期负面影响。土耳其研究人员开展了一项关于休闲游戏对老年人幸福感、生活满意度、孤独感和躯体化影响的研究，选取了 80 名来自两所养老院的 65 岁及以上老人，分为干预组和对照组。干预组的老人从 15 种游戏中选择 4 种（宾果游戏、单词挑战游戏、冷热游戏和配对游戏），每周玩两次，持续两个月；对照组照旧。研究人员在干预前、干预后 1 周和 1 个月分别测量了他们的心理状态。结果显示，干预组老年人的幸福感和生活满意度在干预后显著提升。研究表明休闲游戏对老年人的幸福感、生活满意度、孤独感和躯体化有积极影响。",
-          "link": "https://www.solidot.org/story?sid=80857",
-          "publishedOn": "2025-03-23T05:11:51.000Z",
-          "wordCount": 188,
-          "title": "休闲游戏增加老年人的幸福感",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=80856",
-          "author": null,
-          "description": "意大利法庭根据反盗版法律 Piracy Shield 命令 Google 的公共 DNS 服务器修改盗版网站的 DNS 解析，此类行为被称为 DNS 中毒攻击。Piracy Shield 中的 DNS 中毒要求被认为会造成严重的附带损害，它会屏蔽整个域名而不是盗版内容所在的网页，可能会导致流行平台因上面的盗版材料而遭到整体屏蔽。去年意大利 ISP 就因为这一原因短暂屏蔽了 Google Drive 域名。CDN 服务商 Cloudflare 也收到了类似的命令：今年 1 月意大利米兰法庭裁定 Cloudflare CDN、DNS 服务器和 WARP VPN 助长盗版。法院威胁 Cloudflare，如果该公司不开始屏蔽盗版网站，它将每天面临最高 1 万欧元的罚款。Google 可能面临类似的惩罚。",
-          "link": "https://www.solidot.org/story?sid=80856",
-          "publishedOn": "2025-03-22T15:12:45.000Z",
-          "wordCount": 221,
-          "title": "意大利要求 Google DNS 服务器修改盗版网站的 DNS 解析",
-          "imageUrl": null
         }
       ]
     },
@@ -1039,6 +1164,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/happy-april-sale-official",
+          "author": null,
+          "description": "At Browserling and Online Tools we love sales.\nWe just created a new automated sale called Happy April Sale.\nNow each new month on the first day we show a 50% discount offer to all users who visit our site.\nBuy a subscription now and see you next time!",
+          "link": "https://catonmat.net/happy-april-sale-official",
+          "publishedOn": "2025-04-01T15:14:00.000Z",
+          "wordCount": 127,
+          "title": "Happy April Sale! 🎁",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/end-of-march-sale",
           "author": null,
           "description": "At Browserling and Online Tools, we love sales.\nWe just created new automated sale.\nOn the last day of March, we now run an End of Month Sale.\nBuy a subscription now and see you next time!",
@@ -1116,16 +1251,6 @@
           "publishedOn": "2025-03-24T04:04:04.000Z",
           "wordCount": 357,
           "title": "Online JSON Tools Now Have Neat Icons",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/csv-tools-now-have-neat-icons",
-          "author": null,
-          "description": "Last month, we added neat icons to Online ASCII Tools, and today we have also added neat icons to Online CSV Tools. The new icons make it easier to find and use your favorite tools.\n\nWhat Are Online CSV Tools?\nOnline CSV Tools are web-based apps that help you view, edit, and convert CSV (comma-separated values) data right in your browser. They can clean up messy CSV files, change CSV file format to JSON, YAML, or Excel, and do things like sorting or filtering rows and columns without downloading any additional software. These tools are useful for anyone working with CSV files and spreadsheets.\nWho Created Online CSV Tools?\nOnline CSV Tools were created by me and my team at Browserling. We build simple, browser-based tools that help people work with CSV data quickly and easily. Our team also offers a cross-browser testing product, helping web developers make sure their websites look good and work right in all web browsers. Our goal is to be a Swiss Army Knife for working with CSV files online.\nWho Uses Online CSV Tools?\nOnline CSV Tools and Browserling are used by everyone, from everyday users to developers and even Fortune 100 companies. People use them to clean, format, and edit CSV files without needing extra software. They're great for quick tasks like fixing CSV data, converting CSV file formats and separators, or preparing spreadsheets for external apps and building reports.\nSee you next time!\nPS. Use coupon code CSVLING for a 30% discount at onlinetools.com/pricing.",
-          "link": "https://catonmat.net/csv-tools-now-have-neat-icons",
-          "publishedOn": "2025-03-23T03:03:03.000Z",
-          "wordCount": 336,
-          "title": "Online CSV Tools Now Have Neat Icons",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
