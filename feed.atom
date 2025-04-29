@@ -2,10 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-04-28T03:08:02.596Z</updated>
+    <updated>2025-04-29T03:04:16.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[人到中年腰部为什么会堆积脂肪？]]></title>
+        <id>https://www.solidot.org/story?sid=81173</id>
+        <link href="https://www.solidot.org/story?sid=81173"/>
+        <updated>2025-04-28T14:01:22.000Z</updated>
+        <summary type="html"><![CDATA[人到中年，腰围往往会变粗，会堆积脂肪。美国希望之城国家医疗中心和加州大学洛杉矶分校等机构的临床前研究发现了与年龄相关的腹部脂肪增加背后的细胞元凶，为人到中年为何腰腹变粗提供了新见解，为未来预防腹部松弛和延长健康寿命的疗法提供了新靶点。小鼠研究发现，在年轻小鼠中，脂肪细胞祖细胞（APC）几乎不活跃，但在中年小鼠中，APC 被“唤醒”并开始产生新的脂肪细胞。大多数成体干细胞的生长能力会随着年龄增长而减弱，但 APC 恰恰相反——衰老解锁了这些细胞的进化和扩散能力。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么硅谷亿万富翁想要实现不可能]]></title>
+        <id>https://www.solidot.org/story?sid=81172</id>
+        <link href="https://www.solidot.org/story?sid=81172"/>
+        <updated>2025-04-28T13:40:43.000Z</updated>
+        <summary type="html"><![CDATA[硅谷思想家和亿万富翁如 Eliezer Yudkowsky、Sam Altman、William MacAskill、Peter Singer、Marc Andreessen、Ray Kurzweil、Peter Thiel、Curtis Yarvin、Jeff Bezos 以及 Elon Musk 都有某种科技救赎思想。这些亿万富翁追逐着科幻小说中描绘的但事实上在可预见的未来不可能的事情：将人类意识上传到由仁慈超级 AI 统治的虚拟天堂去实现永生，或者离开垂死的地球去殖民火星。他们的愿景影响着我们对未来的思考。天体物理学家 Adam Becker 在其新书《More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity》中谈论了这些问题，他认为这些亿万富翁只是想要控制我们，他们对未来的愿景就是新闻，通过新闻对公众想象力和政治辩论施加限制。这种限制承载着当下的权力。要打破限制我们需要了解这些愿景的伦理和科学缺陷。他指出这些亿万富翁所谓的科学愿景其实是反科学，他们也藐视专业的科学知识，他们自认为是世界上最聪明的人，理由是他们有钱。如果他们对未来的预测是错误的，那么为什么他们这么有钱？Becker 引用了 Homer Simpson 的名言反驳：如果他们这么聪明，为什么会死呢？Becker 说把科幻小说作为灵感来源没有什么错，问题在于科幻小说不是路线图，你也不是哈里谢顿，我们也不是生活在《基地》所设定的世界中，《基地》是一个警示预言，讲述的太空时代的罗马衰亡史。正确的做法是批判性的阅读。人文学科的重要性被严重低估了。他说，科幻故事如《星际迷航》讲述的其实不是太空而是人类社会。死亡赋予了生命意义。人类的经历是由死亡带来的限制，以及时间有限所定义的。如果消除这种限制，人类的处境将会从根本上发生改变，而这种改变很可能令人不快。对死亡过度恐惧，以至于把它作为人生唯一的动力是不健康的，你不可能找到逃避死亡的方法，而如果你找到了，可能也不是一件好事情。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anchor Positioning Just Don’t Care About Source Order]]></title>
+        <id>https://css-tricks.com/?p=385394</id>
+        <link href="https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/"/>
+        <updated>2025-04-28T12:43:01.000Z</updated>
+        <summary type="html"><![CDATA[The fact that anchor positioning eschews HTML source order is so CSS-y because it's another separation of concerns between content and presentation. 
+Anchor Positioning Just Don’t Care About Source Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds 痛恨大小写不敏感的文件系统]]></title>
+        <id>https://www.solidot.org/story?sid=81171</id>
+        <link href="https://www.solidot.org/story?sid=81171"/>
+        <updated>2025-04-28T10:31:29.000Z</updated>
+        <summary type="html"><![CDATA[文件系统 Bcachefs 开发者 Kent Overstreet 关于大小写折叠问题的讨论引发了 Linux 作者对文件系统大小写不敏感的批评。Linus Torvalds 认为文件系统应该区分大小写，不区分是绝对错误的，一开始就不应该实现。他说文件系统的开发者永远不会吸取教训。区分大小写是个 bug，文件系统开发者可能太推崇旧的 FAT 文件系统，以至于试图以拙劣的方式重新创造它。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek 在韩国应用商店重新上架]]></title>
+        <id>https://www.solidot.org/story?sid=81170</id>
+        <link href="https://www.solidot.org/story?sid=81170"/>
+        <updated>2025-04-28T09:26:00.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek 更新了韩文版《个人信息处理方针》，在韩国应用商店重新上架。新的条款表示将在韩国《个人信息保护法》下处理个人信息，标明公司将用户个人信息转移至3家在华企业和 1 家在美企业，用户有权拒绝转移个人信息。上周韩国监管机构个人信息保护委员会发布了调查报告，称 DeepSeek未经同意将用户个人信息转移至境外，也未公开相关处理方针，并将用户在聊天框中输入的提示信息擅自传输至 TikTok 母公司字节跳动旗下云服务平台火山引擎。DeepSeek 是在 2 月中旬从韩国应用商店下架。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[相对高的学生学业也相对更好]]></title>
+        <id>https://www.solidot.org/story?sid=81169</id>
+        <link href="https://www.solidot.org/story?sid=81169"/>
+        <updated>2025-04-28T09:06:35.000Z</updated>
+        <summary type="html"><![CDATA[对纽约市公立学校学生成绩和身高的分析发现，身材相对高的学生学习也相对更好。这项研究旨在理解为什么成年后身材更高的人更可能获得高薪水。身材相对较高的人在学业上的优势可以部分解释他们成年后在职场上的成功。研究人员使用的数据集涉及了 2010-2017 年纽约市公立学校近 50 万名学生，包含了学生身高、数学和英语语言艺术的标准化考试成绩、人口统计特征以及肥胖和出勤率等信息。结果表明，身高与学业之间存在一致但微小的关联。男孩身高每增加一个标准差，数学成绩增加 0.03 个标准差，英语成绩增加 0.039 个标准差。女孩相应的增幅分别为 0.034 个和 0.04 个标准差。虽然数字看似很小，但随时间的推移，会累积的比较显著。同年级最高的 2.5% 男孩和女孩的英语成绩比最矮的 2.5% 高出约 0.18 到 0.19 个标准差。研究还发现，除了绝对身高，相对身高也有类似的影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光速了解HTML shadowrootmode等属性的作用]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=11624</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/"/>
+        <updated>2025-04-28T08:35:35.000Z</updated>
+        <summary type="html"><![CDATA[<template>元素新支持了shadowrootmode、shadowrootserializable等4个新的HTML属性，花1~2分钟音速了解下他们的作用吧。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[火星激光通信面临沙尘暴的阻碍]]></title>
+        <id>https://www.solidot.org/story?sid=81168</id>
+        <link href="https://www.solidot.org/story?sid=81168"/>
+        <updated>2025-04-28T08:21:54.000Z</updated>
+        <summary type="html"><![CDATA[深空探索如未来的火星任务面临高延迟和数据传输低带宽等挑战。NASA 探测富金属小行星灵神星（16 Phyche）的“灵神星（Phyche）”号探测器前不久成功演示了从数百万公里外使用激光通信传输大量数据的能力。荷兰研究人员利用火星气候数据库探索了在火星上使用激光通信的可行性。研究发现，火星的沙尘暴颗粒会影响激光通信的传输，在沙尘暴季节激光通信可能会完全中断。研究建议火星通信系统最好混合激光通信和无线电通信，确保能在不同气候条件下都能使用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[气温冷暖急剧交替未来可能更频繁更剧烈]]></title>
+        <id>https://www.solidot.org/story?sid=81167</id>
+        <link href="https://www.solidot.org/story?sid=81167"/>
+        <updated>2025-04-28T07:09:16.000Z</updated>
+        <summary type="html"><![CDATA[中山大学与中科院团队首次揭示了全球变暖背景下气温冷暖翻转的新现象，即气温在几天内由异常偏暖快速转变为异常偏冷，或由异常偏冷快速转变为异常偏暖的极端事件。研究发现这类事件广泛分布于全球中高纬度地区。自 20 世纪中期以来，冷暖翻转事件频次增加、强度加剧、转变加快，且未来在高排放情景下，这一趋势将进一步加剧。如果不采取有效的气候变化缓解措施，人类将在更暖的未来面对更频繁且更剧烈的“过山车”式极端翻转事件及其叠加影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最后一枚 H2 A火箭将于 6 月发射]]></title>
+        <id>https://www.solidot.org/story?sid=81166</id>
+        <link href="https://www.solidot.org/story?sid=81166"/>
+        <updated>2025-04-28T06:57:59.000Z</updated>
+        <summary type="html"><![CDATA[日本三菱重工业宣布将于 6 月 24 日在鹿儿岛县种子岛宇宙中心发射 H2A 的 50 号机。这是最后一枚该型号火箭。预定发射时间为凌晨1点33分至1点52分，备用窗口期为6月25日至7月31日。火箭将搭载日本“温室气体和水循环观测技术卫星”（GOSAT-GW）。H2A 火箭是由日本宇宙航空研究开发机构（JAXA）与三菱重工联合开发的两级液体燃料火箭，2001 年以来的49 次发射中有 48 次取得成功，成功率约 98%，具有很高的可靠性。5 0号机发射后，日本的主力火箭将由 2023年投入使用的“H3”接棒。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国科技行业从业者工作时间更长薪水可能更低]]></title>
+        <id>https://www.solidot.org/story?sid=81165</id>
+        <link href="https://www.solidot.org/story?sid=81165"/>
+        <updated>2025-04-28T06:55:20.000Z</updated>
+        <summary type="html"><![CDATA[不久之前，在美国科技行业工作还意味着薪水丰厚工作有保障。如今科技业的工作和其它行业没什么区别，员工还担心被裁员，他们的工作时间更长，薪水基本不变，但职责越来越多。员工发现自己在同时做被解雇同事的工作。一部分人被解雇后又被返聘，但返聘的职位没有加薪的资格也没有股票激励。如果要求加薪他们可能会被再次解雇。科技行业的资深员工表示，他们觉得自己已经不认识自己工作的公司了。管理层致力于实现华尔街预期的业绩。科技巨头的营收强劲，但正将大量资源投入到昂贵的 AI 基础设施建设中，给现金流带来了压力。Meta一位被返聘的员工被归类为“短期员工”。合同可续签，但没有绩效加薪、晋升或股票，她现在的工作量过去通常由几个人分摊。公司将这种额外的工作责任称之为“敏捷性”。根据 Layoffs.fyi 的统计数据，2025 年逾超 100 家公司的逾 5 万名员工被解雇。科技行业的从业者和其它行业的员工一样处于痛苦状况中。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卢卡斯解释为什么尤达大师总是说倒装句]]></title>
+        <id>https://www.solidot.org/story?sid=81164</id>
+        <link href="https://www.solidot.org/story?sid=81164"/>
+        <updated>2025-04-28T05:39:05.000Z</updated>
+        <summary type="html"><![CDATA[80 岁的乔治卢卡斯（George Lucas）在《星球大战之帝国反击战》上映 45 周年的纪念活动上解释了为什么尤达大师总是说倒装句：此举是为了确保尤达话中所蕴含的重要信息能传递给观众。尤达的说话方式是刻意的，如果他说的是常规的英文，观众可能不太会仔细聆听，但如果他有口音，或者说的话很难理解，那么观众就会认真听他说了什么。在星球大战电影里尤达基本上是一位哲学家，对白很长，所以必须想办法让观众仔细聆听，尤其是对 12 岁的儿童而言。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NoteGen – 轻巧的开源、跨平台笔记应用，就是有太点费 AI：将碎片信息自动整理为笔记]]></title>
+        <id>https://www.appinn.com/notegen/</id>
+        <link href="https://www.appinn.com/notegen/"/>
+        <updated>2025-04-28T04:29:19.000Z</updated>
+        <summary type="html"><![CDATA[NoteGen 是一款跨平台的 Markdown 笔记应用，支持 Windows、Mac、Linux。它最大的特点，是把“记录”和“写作”这两步分开，并通过 AI 助手帮你把零散的内容自动整理成结构化]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andreas Tille 再次当选为 DPL]]></title>
+        <id>https://www.solidot.org/story?sid=81163</id>
+        <link href="https://www.solidot.org/story?sid=81163"/>
+        <updated>2025-04-28T03:48:36.000Z</updated>
+        <summary type="html"><![CDATA[一年一度的 Debian 项目领导人（DPL）选举公布了选举结果：Andreas Tille 再次当选。这次选举有四人参选：去年的 DPL Andreas Tille，以及 Gianfranco Costamagna、Julian Andres Klode 和 Sruthi Chandran。Andreas Tille 参与项目长达 20 余年，已经是一位祖父/外祖父了，他此前担任过 Debian Med leader，他表示在担任 DPL 一年期间学到了很多教训，希望在新的任期内致力于对 Debian 未来至关重要的变革。DPL 选举采用的是孔多塞投票法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Catime v1.0.6 更新：尺寸减小 83%！从1.3MB降至228KB，开源免费，能在游戏中置顶的倒计时工具[Windows]]]></title>
         <id>https://www.appinn.com/catime-for-windows/</id>
@@ -951,82 +1092,6 @@ Buy a subscription now and see you next time!]]></summary>
         <link href="https://www.solidot.org/story?sid=81092"/>
         <updated>2025-04-19T15:08:37.000Z</updated>
         <summary type="html"><![CDATA[根据内外部测试，OpenAI 最新推理模型 o3 和 o4-mini 比该公司之前的模型出现幻觉的概率更高。在 OpenAI 的 PersonQA 测试中，o3 出现幻觉的概率高达 33%，两倍于旧模型 o1（16%）和 o3-mini（14.8%）。o4-mini 更糟糕出现幻觉的概率高达 48%。斯坦福大学兼职教授 Kian Katanforoosh 指出他的团队发现 o3 常生成无效网址。OpenAI 表示需要更多研究去理解为什么随着推理模型规模的扩大，幻觉现象会加剧。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器人在首届人机半程马拉松比赛中惨败给人类]]></title>
-        <id>https://www.solidot.org/story?sid=81091</id>
-        <link href="https://www.solidot.org/story?sid=81091"/>
-        <updated>2025-04-19T14:57:08.000Z</updated>
-        <summary type="html"><![CDATA[今日 7 时 30 分，北京亦庄半程马拉松暨人形机器人半程马拉松在南海子公园南门开跑。这是全球首个人形机器人半程马拉松，20 支人形机器人赛队与跑步爱好者一起冲出起跑线，在 21.0975 公里长的赛道上挑战极限。目前的机器人技术显然与人类相去甚远。最快的人类马拉松运动员在 1 小时 2 分钟内完成比赛，而最好的人类辅助控制机器人在多次摔倒和三次更换电池后以 2 小时 40 分 42 秒完成比赛。该机器人被称为“天工Ultra”。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[whoBIRD – 通过声音，实时识别全球 6000 多种鸟类[Android]]]></title>
-        <id>https://www.appinn.com/whobird/</id>
-        <link href="https://www.appinn.com/whobird/"/>
-        <updated>2025-04-19T13:30:36.000Z</updated>
-        <summary type="html"><![CDATA[whoBIRD 是一款通过声音，识别全球 6000 多种鸟类的开源 Android 应用，可以在识别后显示图片，支持中文鸟类名称，可离线使用。@Appinn 感谢 @Randir 同学的推荐。 在第一]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6.40 Million Google Clicks! 🤑]]></title>
-        <id>https://catonmat.net/640-million-google-clicks</id>
-        <link href="https://catonmat.net/640-million-google-clicks"/>
-        <updated>2025-04-19T10:20:30.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday Online PNG Tools smashed through 6.39M Google clicks and today it's smashed through 6.40M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!
-What Are Online PNG Tools?
-Online PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.
-Who Created Online PNG Tools?
-Online PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.
-Who Uses Online PNG Tools?
-Online PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.
-Smash too and see you tomorrow at 6.41M clicks! 📈
-PS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6.39 Million Google Clicks! 🤑]]></title>
-        <id>https://catonmat.net/639-million-google-clicks</id>
-        <link href="https://catonmat.net/639-million-google-clicks"/>
-        <updated>2025-04-19T09:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday Online PNG Tools smashed through 6.38M Google clicks and today it's smashed through 6.39M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!
-What Are Online PNG Tools?
-Online PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.
-Who Created Online PNG Tools?
-Online PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.
-Who Uses Online PNG Tools?
-Online PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.
-Smash too and see you tomorrow at 6.40M clicks! 📈
-PS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[气候变化会增加大米的砷含量]]></title>
-        <id>https://www.solidot.org/story?sid=81090</id>
-        <link href="https://www.solidot.org/story?sid=81090"/>
-        <updated>2025-04-18T15:53:07.000Z</updated>
-        <summary type="html"><![CDATA[中美研究人员在《柳叶刀》期刊上报告，随着气候暖化和大气二氧化碳浓度增加，全世界消费量最多的谷物大米中的砷含量会增加。大米是最重要的主食，发展中国家主要依靠大米满足大部分粮食需求。水稻的种植方式——浸泡在稻田中——以及其多孔结构——使其容易吸收异常高浓度的砷，砷是一种强效致癌毒素，对婴儿尤其危险。哥伦比亚大学植物生理学家 Lewis Ziska 领导中美研究团队六年来在受控稻田中种植水稻，让水稻受到不同程度的二氧化碳和温度的影响。结果显示当二氧化碳和温度同时增加，大米中的砷和无机砷含量也会增加。暴露在无机砷下与皮肤癌、膀胱癌、肺癌、心脏病以及婴儿神经问题相关。研究发现，在大米消费量较高的地区，无机砷会增加癌症风险。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究称成年人食用植物性蛋白质有助于长寿]]></title>
-        <id>https://www.solidot.org/story?sid=81089</id>
-        <link href="https://www.solidot.org/story?sid=81089"/>
-        <updated>2025-04-18T15:12:44.000Z</updated>
-        <summary type="html"><![CDATA[悉尼大学的一项研究发现，成年人食用植物性蛋白质（如鹰嘴豆、豆腐和豌豆）有助于长寿，但儿童需要食用动物性蛋白质。研究人员调查了 1961-2018 年期间 101 个国家的食品供应和人口统计数据，根据人口规模和财富状况对数据进行修正，以了解摄入蛋白质类型是否会影响寿命。对五岁以下儿童而言，动物性蛋白质和脂肪如肉类、蛋类和奶制品有助于降低死亡率。但对成年人而言，植物性蛋白质有助于延长总体预期寿命。摄入动物性蛋白尤其是加工肉类与一系列慢性疾病如心血管疾病、2型糖尿病和某些类型癌症相关。植物性蛋白与降低慢性病风险和总体死亡率相关。研究表明，最长寿社区如日本冲绳、希腊 Ikaria 岛和加州 Loma Linda 的居民受益于植物性蛋白质。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
