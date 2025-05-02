@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-05-01T03:14:24.707Z</updated>
+    <updated>2025-05-02T03:05:49.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Redis 8 再次切换到开源许可证 AGPLv3]]></title>
+        <id>https://www.solidot.org/story?sid=81200</id>
+        <link href="https://www.solidot.org/story?sid=81200"/>
+        <updated>2025-05-01T17:03:39.000Z</updated>
+        <summary type="html"><![CDATA[2024 年 3 月 Redis 宣布从 7.4 版本起其许可证从 3-clause BSD 切换到商业使用需获得授权的双许可证 Redis Source Available License (RSALv2) 和 Server Side Public License (SSPLv1)。此举意味着 Redis 不再属于 FOSS。开源社区的回应是创建分支。分支之一的 Valkey 得到了 Linux 基金会以及 Google、亚马逊 AWS 和甲骨文等云巨头的支持。在时隔一年多时间之后，Redis 公司宣布了 8.0 版本，决定再次拥抱开源，加入了 AGPLv3 作为新许可证选项。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试兆芯 KX-7000 系列 CPU]]></title>
+        <id>https://www.solidot.org/story?sid=81199</id>
+        <link href="https://www.solidot.org/story?sid=81199"/>
+        <updated>2025-05-01T16:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Chips and Cheese 评测了兆芯 KX-7000 系列 CPU。兆芯是台湾威盛（VIA）与上海市政府的合资企业，KX-7000 于 2023 年底推出，采用世纪大道微架构和 Chiplet 互连架构。兆芯的微架构都使用上海的知名地标命名，如上一代 KX-6000 微架构是陆家嘴。KX-7000 为 8 核 8 线，频率 3.2 GHz，最高 3.7 GHz，共享 32 MB L3 缓存。SPEC CPU2017 的测试显示，世纪大道的单线程整数性能比陆家嘴强 48.8%，浮点性能则 2 倍于陆家嘴。相比西方的 x86-64 处理器，AMD Bulldozer FX-8150 的整数性能比 KX-7000 强 13.6%，浮点性能则落后 10.4%。KX-7000 和 FX-8150 在不同测试项目中互有胜负。世纪大道整体性能接近于 AMD Bulldozer，而 Bulldozer 是 2011 年的设计。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软 CEO 声称该公司三成新代码是用 AI 写的]]></title>
+        <id>https://www.solidot.org/story?sid=81198</id>
+        <link href="https://www.solidot.org/story?sid=81198"/>
+        <updated>2025-05-01T15:54:47.000Z</updated>
+        <summary type="html"><![CDATA[微软 CEO Satya Nadella 出席了 Meta 的 LlamaCon 大会，与 Meta CEO Mark Zuckerberg 交谈时称该公司三成新代码是用 AI 写的。此前 Google CEO Sundar Pichai 也曾给出了类似的数据。在 LlamaCon 大会上，Zuckerberg 询问微软有多少代码是 AI 生成的，Nadella 给出了这一数字，他表示不同编程语言中 AI 生成代码的结果参差不齐，Python 中进步更快，而 C++ 进步较慢。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任天堂之后 Xbox 游戏也将提高至 80 美元]]></title>
+        <id>https://www.solidot.org/story?sid=81197</id>
+        <link href="https://www.solidot.org/story?sid=81197"/>
+        <updated>2025-05-01T15:04:29.000Z</updated>
+        <summary type="html"><![CDATA[微软宣布，有五年历史的 Xbox Series 系列游戏机以及手柄涨价最多 80-100 美元，而 Xbox 第一方游戏新作的价格也将在任天堂 Switch 2 游戏之后提高至 80 美元。硬件价格的上涨即时生效，游戏价格上涨则要到年底才会实施。微软表示，价格上涨的决定是在市场环境和不断上升的开发成本等因素下做出的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多邻国使用 AI 将课程数量翻了一番]]></title>
+        <id>https://www.solidot.org/story?sid=81196</id>
+        <link href="https://www.solidot.org/story?sid=81196"/>
+        <updated>2025-05-01T14:51:06.000Z</updated>
+        <summary type="html"><![CDATA[多邻国声称使用生成式 AI，共享内容系统和内部工具将课程数量翻了一番。多邻国新增了 148 门新语言课程，这标志着该平台七种最受欢迎​​的非英语语言——西班牙语、法语、德语、意大利语、日语、韩语和中文普通话——将提供给所有 28 种支持的用户界面 (UI) 语言，极大地扩展了全球逾 10 亿潜在学习者的学习选择。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ESA 发射 Biomass 卫星测量全球森林的碳储量]]></title>
+        <id>https://www.solidot.org/story?sid=81195</id>
+        <link href="https://www.solidot.org/story?sid=81195"/>
+        <updated>2025-05-01T14:16:40.000Z</updated>
+        <summary type="html"><![CDATA[ESA 从法属圭亚那库鲁发射了 Biomass 卫星，这颗卫星将用于对全球森林进行研究，精确测量碳储量，加深对全球碳循环的理解。ESA 称，森林每年吸收和储存约 80 亿吨的二氧化碳。森林系统调控着全球的温度，森林的砍伐和退化将意味着其储存的碳被释放回大气中，加剧气候变化。整个地球生长着约 1.5 万亿棵树，但树木储存了多少碳，以及人类活动如何影响其碳储量，目前还缺乏精确数据。Biomass 将使用 P 波段合成孔径雷达，穿透森林冠层，测量树干、树枝和茎——大部分碳储存在这些地方——等的木质生物量。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维基百科将使用 AI 帮助编辑处理事务]]></title>
+        <id>https://www.solidot.org/story?sid=81194</id>
+        <link href="https://www.solidot.org/story?sid=81194"/>
+        <updated>2025-05-01T12:54:30.000Z</updated>
+        <summary type="html"><![CDATA[众所周知，维基百科的志愿者管理团队大量使用机器人程序去处理各种事务。在生成式 AI 时代，维基媒体基金会表示，他们不会用 AI 取代人类志愿者去整理知识。他们的 AI 策略侧重于维基百科背后的人类志愿者，AI 将用于提升编辑和志愿者的工作效率，自动化繁琐的任务，节省编辑的时间。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of Devs: A Survey for Every Developer]]></title>
+        <id>https://css-tricks.com/?p=386334</id>
+        <link href="https://css-tricks.com/state-of-devs-a-survey-for-every-developer/"/>
+        <updated>2025-05-01T12:34:58.000Z</updated>
+        <summary type="html"><![CDATA[The State of Devs survey is now open to participation, and unlike previous surveys it covers everything except code: career, workplace, but also health, hobbies, and more. 
+State of Devs: A Survey for Every Developer originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Sacha Greif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dupeGuru – 推荐一个查找电脑重复文件的软件，跨平台]]></title>
+        <id>https://www.appinn.com/dupeguru/</id>
+        <link href="https://www.appinn.com/dupeguru/"/>
+        <updated>2025-05-01T09:50:45.000Z</updated>
+        <summary type="html"><![CDATA[今天在微博看到顾扯淡推荐的一个软件，就… dupeGuru 这款工具我有印象，是一个跨平台（Linux、OS X 和 Windows）的重复文件查找工具。 它可以扫描文件名或内容。文件名扫]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy May Sale! 🎁]]></title>
+        <id>https://catonmat.net/happy-may-sale</id>
+        <link href="https://catonmat.net/happy-may-sale"/>
+        <updated>2025-05-01T05:05:05.000Z</updated>
+        <summary type="html"><![CDATA[At Browserling and Online Tools we love sales.
+We just created a new automated sale called Happy May Sale.
+Now each new month on the first day we show a 50% discount offer to all users who visit our site.
+🔥 onlinetools.com/pricing
+🔥 browserling.com/#pricing
+Buy a subscription now and see you next time!]]></summary>
+        <author>
+            <name>catonmat.net</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[因经济动荡 LWN 考虑涨价]]></title>
         <id>https://www.solidot.org/story?sid=81193</id>
@@ -1070,126 +1176,6 @@ browserling.com/#pricing
         <link href="https://www.solidot.org/story?sid=81118"/>
         <updated>2025-04-22T15:18:10.000Z</updated>
         <summary type="html"><![CDATA[根据发表在《Current Biology》期刊上的一项研究，研究人员通过摄像机拍摄到了野生黑猩猩分享含酒精食物的活动。生活在几内亚比绍 Cantanhez 国家公园的野生黑猩猩其栖息地中生长着一种俗称为非洲面包果树的 Treculia africana，其果实在成熟后会掉落在地上。研究人员用摄像机记录下黑猩猩分享发酵面包果的行为。他们在 17 只黑猩猩中记录到了 10 次选择分享果实的画面，它们显然偏爱更成熟的果实。研究人员用便携式酒精测试仪测量了果实的酒精含量，发现几乎所有掉落的面包果（90%）都含有一定含量的酒精，其中最成熟的果实酒精含量最高，相当于 0.61% ABV（酒精度）。这项研究首次证实了野生非人类类人猿之间会分享含酒精食物。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单剂量致幻剂能在数周内提升大脑灵活性]]></title>
-        <id>https://www.solidot.org/story?sid=81117</id>
-        <link href="https://www.solidot.org/story?sid=81117"/>
-        <updated>2025-04-22T10:31:52.000Z</updated>
-        <summary type="html"><![CDATA[密歇根大学研究人员发现，小鼠实验显示，单剂量致幻化合物 25CN-NBOH（一种选择性5-羟色胺2A受体激动剂）可以增强认知灵活性（大脑适应变化环境的能力），这种效果在给药后持续数周，有望彻底革新抑郁症、PTSD和神经退行性疾病的治疗方法。与生理盐水对照组相比，接受致幻剂治疗的小鼠表现出优越的适应能力，在逆转阶段表现出增强的任务效率、更高的正确试验百分比和增加的奖励获取。研究发现雄性和雌性小鼠均显示认知灵活性的显著改善，这表明致幻剂疗法可能在生物性别间具有广泛的适用性。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球酒精消费已过峰值]]></title>
-        <id>https://www.solidot.org/story?sid=81116</id>
-        <link href="https://www.solidot.org/story?sid=81116"/>
-        <updated>2025-04-22T10:04:57.000Z</updated>
-        <summary type="html"><![CDATA[根据市场研究公司 IWSR 的数据，全球酒精消费进入到永久性下降期。2016 年全球酒精消费量达到峰值的 254 亿升，之后下降了约 13%。人均酒精消费量从 2013 年的每名成年人每年 5 升纯酒精降至 2023 年的 3.9 升。葡萄酒产量在 1979 年达到 3750 万吨的峰值，目前下降 27%。啤酒产量在 2016 年达到峰值的 1.9 亿吨，此后下降了 2.6%。专家将这一趋势归因于代际习惯变化，年轻一代的消费者更偏向事件驱动的饮酒，而不是习惯性饮酒。非酒精替代品普及、大麻供应的增加，以及新冠疫情加速提升的健康意识，进一步推动了适度饮酒趋势。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家证实流浪黑洞的存在]]></title>
-        <id>https://www.solidot.org/story?sid=81115</id>
-        <link href="https://www.solidot.org/story?sid=81115"/>
-        <updated>2025-04-22T09:39:22.000Z</updated>
-        <summary type="html"><![CDATA[天文学家利用哈勃望远镜在多年内对银河核球微透镜事件 OGLE-2011-BLG-0462 进行了多次观测，确认它是一颗流浪黑洞。天文学家是通过类似凌日现象观测到一个物体从一颗恒星前方经过，放大了恒星发射出的光，短暂改变了其在天空的位置。黑洞通常有伴星，但该黑洞没有发现伴星，它是一个孤独的黑洞，其质量约为太阳质量的六倍或七倍。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宁德时代称其电池充电五分钟可行驶 520 公里]]></title>
-        <id>https://www.solidot.org/story?sid=81112</id>
-        <link href="https://www.solidot.org/story?sid=81112"/>
-        <updated>2025-04-22T08:45:40.000Z</updated>
-        <summary type="html"><![CDATA[宁德时代发布了升级版电池芯，声称充电五分钟即可行驶 520 公里，超过了比亚迪上个月宣布的其新系统充电五分钟可行驶 470 公里。最新进展超过了美国和欧洲的竞争对手：特斯拉汽车充电 15 分钟可行驶321 公里，德国梅赛德斯-奔驰的全电 CLA 在快速充电站充电 10 分钟可最多行驶 325 公里。分析师表示，汽车电池充电速度过去一年提高了一倍多，过去 3-4 年里提高了 10 倍。宁德时代还推出了钠离子电池 Naxtra ，能为电动汽车提供 500 公里的续航里程。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.14 将支持模板字符串]]></title>
-        <id>https://www.solidot.org/story?sid=81111</id>
-        <link href="https://www.solidot.org/story?sid=81111"/>
-        <updated>2025-04-22T07:50:35.000Z</updated>
-        <summary type="html"><![CDATA[Python Steering Council 接受了 PEP 750 (Template Strings) ，预计 10 月释出的 Python 3.14 将加入对模板字符串的支持。模板字符串（(t-strings）是一种新型的字符串，能生成结构化数据而不是原始字符串，允许 Python 库作者构建自己的自定义模板处理逻辑。Python 自 2015 年起就有 f-strings，t-strings 为开发者提供了更多灵活性。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄金期货突破每盎司 3500 美元]]></title>
-        <id>https://www.solidot.org/story?sid=81110</id>
-        <link href="https://www.solidot.org/story?sid=81110"/>
-        <updated>2025-04-22T07:34:10.000Z</updated>
-        <summary type="html"><![CDATA[在上个月首次突破每盎司 3000 美元之后，黄金期货在时隔一个多月后突破了每盎司 3500 美元。这一波上涨的背景是美元的主导权地位正在动摇。在国际政治面临分裂的情况下，无处可去的资金正在集中于作为实物资产的黄金。引发最新涨势的是美国总统特朗普威胁解雇美联储主席 Jerome Hayden Powell，令外界担忧联储的独立性，市场情绪更加恐慌，带动国际金价不断飙升，达到每盎司 3,502.6 美元。自今年初以来，黄金价格已暴涨逾30%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[18 岁程序员停止开源应用 Whisky 开发，称担心伤害 CodeWeavers 的付费产品]]></title>
-        <id>https://www.solidot.org/story?sid=81109</id>
-        <link href="https://www.solidot.org/story?sid=81109"/>
-        <updated>2025-04-22T07:17:43.000Z</updated>
-        <summary type="html"><![CDATA[Whisky 是 macOS 平台上的 Wine Windows 兼容工具前端，其开发者是 18 岁的大学生 Isaac Marovitz。他在官网上宣布了停止更新的声明，他解释说，自己在东北大学上学，需要平衡学业和开发工作。他建议 Whisky 用户改为购买 CodeWeavers 的付费产品 CrossOver，称 CrossOver 经常打折。他表示，CodeWeavers 和 Valve 在 Proton 上的工作对 Wine 项目产生了重大影响，而 Whisky 总体上对 Wine 的贡献几乎为零。他在开发过程中与 CodeWeavers 有过接触，对方从未告诉他应该做什么或不应该做什么，但通过接触他认为自己的免费开源工具可能会危及 CrossOver 的生存。对于 Isaac Marovitz 的观点，CodeWeavers CEO James B. Ramey 发表声明表示并不认同，但对其立场表示理解和同情。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信 8.0.59 更新：申请添加好友时可发送自己的照片]]></title>
-        <id>https://www.appinn.com/wechat-8-0-59/</id>
-        <link href="https://www.appinn.com/wechat-8-0-59/"/>
-        <updated>2025-04-22T06:40:17.000Z</updated>
-        <summary type="html"><![CDATA[iOS 版本的微信 8.0.59 刚刚更新，灰度了一个新功能，可以在申请添加好友时，发送自己的照片： 注意：灰度、灰度、灰度，你不一定有，比如青小蛙就没有。 感谢 山药 同学提供的图片。 相关阅读We]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟表示不管企业位于何处都会执行数字市场法]]></title>
-        <id>https://www.solidot.org/story?sid=81108</id>
-        <link href="https://www.solidot.org/story?sid=81108"/>
-        <updated>2025-04-22T06:03:49.000Z</updated>
-        <summary type="html"><![CDATA[欧盟委员会主席 Ursula von der Leyen 表示，无论谁执掌 X、Meta、苹果和 TikTok 等公司，无论这些公司位于何处，欧盟都决心全面执行其数字市场法规。他说，这就是我们对 TikTok、X、苹果、Meta 等公司提起诉讼的原因。我们公平、合理、公正地应用规则。我们不关心公司来自哪里，也不关心谁在运营。我们关心的是保护人民。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球上的水可能来自自身而不是小行星]]></title>
-        <id>https://www.solidot.org/story?sid=81107</id>
-        <link href="https://www.solidot.org/story?sid=81107"/>
-        <updated>2025-04-22T05:13:09.000Z</updated>
-        <summary type="html"><![CDATA[水是生命起源的关键，然而地球最初的水来自何处？一种理论认为来自形成初期撞击地球的含水小行星。但根据发表的《Icarus》期刊上的一项研究，构成水的 H2 成分可能早在地球形成初期就有了。研究人员针对的是罕见的顽火辉石球粒陨石（enstatite chondrite)，这种陨石形成于 45 亿年前，与地球形成条件相似。研究人员在陨石中发现了氢元素。如果这种与早期地球成分相似的陨石含有氢，那么早期的地球也可能含有氢。当被小行星撞击时，它已经蕴藏了足够的氢。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSSence – 没有需求创造需求：让 RSS 全屏可视化显示，精美动画、现代设计]]></title>
-        <id>https://www.appinn.com/rssence/</id>
-        <link href="https://www.appinn.com/rssence/"/>
-        <updated>2025-04-22T05:01:03.000Z</updated>
-        <summary type="html"><![CDATA[RSSence 是一款让 RSS 内容以全屏、可视化的方式，显示出来的开源项目，非常适合在大电视、全屏状态下显示最新的 RSS 内容。@Appinn 青小蛙看到这个项目后，第一反应是：在门口摆一台电视]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[异性恋女性部分依靠气味挑选朋友]]></title>
-        <id>https://www.solidot.org/story?sid=81106</id>
-        <link href="https://www.solidot.org/story?sid=81106"/>
-        <updated>2025-04-21T15:50:46.000Z</updated>
-        <summary type="html"><![CDATA[在挑选朋友或伴侣时，外表是一大重要考虑因素。根据发表在《Scientific Reports》期刊上的一项研究，气味也起到了举足轻重的作用。Claus Wedekind 在 1995 年的一项实验中让男性参与者连续两天穿着同一件 T 恤，然后将 T 恤放置在相同的盒子里。女性参与者随后闻了每件 T 恤的味道，选出最性感的。结果显示，大多数女性偏爱 MHC（主要组织相容性基因复合体或 Major Histocompatibility Complex）与自己最不相似的男性的 T 恤气味。最新研究针对的不是伴侣关系而是调查气味线索在柏拉图式友谊中的作用。研究人员为 40 名女性组织了一场校园“快速交友”活动，活动分为四个阶段。首先参与者拍摄大头照。然后参与者查看彼此照片仅根据视觉线索评估友谊潜力。接着她们穿着一件 T 恤 12 小时后将 T 恤收集放入塑料袋。然后参与者仅通过闻每件 T 恤评估友谊潜力。之后她们进行一次现场互动，期间彼此互动四分钟评估友谊潜力。接着再次进行一轮闻 T 恤的活动，再次评估友谊潜力。结果显示，面对面互动进行评估与仅闻 T 恤气味的评估之间存在强相关性。参与研究的是大学年龄段的异性恋女性，结论可能不适用于其他年龄段的女性或男性。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
