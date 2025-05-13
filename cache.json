@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/27kb-simple-todo/",
+          "author": "青小蛙",
+          "description": "Simple Todo 是一款仅有 27KB 大小的 Windows Todo 工具，开源，功能简单、功能极简，仅用来展示 27KB 而已。@Appinn 功能非常简单，仅有添加、删除、标记完成，以及",
+          "link": "https://www.appinn.com/27kb-simple-todo/",
+          "publishedOn": "2025-05-12T08:48:26.000Z",
+          "wordCount": 2670,
+          "title": "Simple Todo – 仅 27 KB 的原生、开源 Windows Todo 工具，纯 C 语言和 Win32 API 构建",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-12T163220.442.jpg"
+        },
+        {
           "id": "https://www.appinn.com/windows-10-microsoft-365-3-years-security/",
           "author": "青小蛙",
           "description": "Windows 10 将于 2025年10月14日结束支持，这件事没有变化。 变化的是，原来会随着 Windows 10 一起结束支持的 Microsoft 365（在 Win10 上），将会继续得到",
@@ -160,16 +170,6 @@
           "wordCount": 2568,
           "title": "YumCheck – 手机拍照食品配料表，立即获得健康分析",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-04T161335.992.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/bilibili-unlimited-history/",
-          "author": "青小蛙",
-          "description": "Bilibili 无限历史记录是一款 Edge、Chrome 浏览器扩展，它能够帮你永久、无数量限制的保存 B 站播放记录，支持视频标题关键词搜索，可以导出 csv 格式。数据保存在浏览器本地，无隐私",
-          "link": "https://www.appinn.com/bilibili-unlimited-history/",
-          "publishedOn": "2025-05-03T08:32:30.000Z",
-          "wordCount": 2604,
-          "title": "Bilibili 无限历史记录 – 每1分钟自动同步一次，手机观看也能记录[Edge/Chrome]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-03T160925.343.jpg"
         }
       ]
     },
@@ -178,6 +178,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=386522",
+          "author": "Ryan Trimble",
+          "description": "I know, I know: there are a ton of content management system options available, and while I've tested several, none have really been the one, y'know? Weird pricing models, difficult customization, some even end up becoming a whole 'nother thing to manage.\nUsing Pages CMS for Static Site Content Management originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-pages-cms-for-static-site-content-management/",
+          "publishedOn": "2025-05-12T12:42:10.000Z",
+          "wordCount": 3771,
+          "title": "Using Pages CMS for Static Site Content Management",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-06-at-9.28.56%E2%80%AFPM-scaled.png"
+        },
         {
           "id": "https://css-tricks.com/?p=386270",
           "author": "John Rhea",
@@ -241,13 +251,134 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11689",
+          "author": "张 鑫旭",
+          "description": "早在两年前，现代浏览器就支持通过CSS animation-composition属性设置动画@keyframes里面的语句渲染是替换还是累加了，再也不用担心transform冲突了。",
+          "link": "https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/",
+          "publishedOn": "2025-05-12T15:58:01.000Z",
+          "wordCount": 1697,
+          "title": "CSS animation-composition可以让动画效果累加",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81270",
+          "author": null,
+          "description": "鲜为人知的加密货币代币 Zerebro 开发者 Jeffy Yu 在一则视频中疑似自杀，他的讣告随之公布，称赞他是一位富有远见的艺术家和技术专家，是一股文化力量。一款纪念他的模因币也随之发售。但没过几天，《旧金山标准报》就在他的父母家中找到了他。Yu 穿 T 恤、短裤、人字拖，戴金丝框眼镜，拒绝谈论他的虚假死亡或可能从中获利的方式。Bubblemaps 的分析显示，在他虚假死亡之后，与之相关的账户转移了 140 万美元的加密货币，社交媒体上有很多人指责他伪造死亡是一种“退出策略”，旨在套现其持有的加密货币。",
+          "link": "https://www.solidot.org/story?sid=81270",
+          "publishedOn": "2025-05-12T15:47:36.000Z",
+          "wordCount": 183,
+          "title": "加密货币公司创始人伪造了自己的死亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81269",
+          "author": null,
+          "description": "去年法官裁决 Google 非法维持搜索主导地位的行为违反了反垄断法。美国司法部提出的一项建议是强迫 Google 剥离 Chrome。Google 对此的回应是出售 Chrome 会对隐私和安全产生负面影响，坚称它是唯一能有效运营 Chrome 的公司，它的技术已经深度嵌入在浏览器中。Google 还声称 Chrome 的价格太昂贵没有人能负担得起。Google 显然低估了竞争对手的贪婪。上周审讯的补充阶段已经结束，有逾 20 名证人出席，几乎每一个人都表达了收购 Chrome 的愿望。雅虎的 Brian Provos 表示，该公司内部在开发能支持搜索业务的浏览器，仅仅开发出一个原型就需要花费 6-9 个月时间，收购 Chrome 将会快得多，其搜索份额会迅速从个人数增加到两位数。OpenAI ChatGPT 产品经理 Nick Turley 表示该公司也探索过开发浏览器，而收购 Chrome 将使其立即拥有 35 亿用户。Google 无疑是不想要失去 Chrome。",
+          "link": "https://www.solidot.org/story?sid=81269",
+          "publishedOn": "2025-05-12T14:59:14.000Z",
+          "wordCount": 205,
+          "title": "人人都想要 Chrome",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81268",
+          "author": null,
+          "description": "中美上周末在瑞士举行经贸高层会谈。北京时间 12 日下午三点左右，两国同步发表中美日内瓦经贸会谈联合声明，双方承诺将于 2025 年 5 月 14 日前，大幅降低过去一个多月来互相加征的关税，以继续推进谈判。双方对对方商品保留 10% 的加征关税，加征的 24% 关税暂停实施 90 天。其他新增关税全部取消。中国还会“暂停或取消”对美国的非关税反制措施，此举可能涉及中国对美国的稀土产品出口禁令。联合声明还称，采取上述举措后，中美将建立机制，进行经贸关系协商。",
+          "link": "https://www.solidot.org/story?sid=81268",
+          "publishedOn": "2025-05-12T10:03:49.000Z",
+          "wordCount": 171,
+          "title": "中美宣布大幅降低关税",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81267",
+          "author": null,
+          "description": "美国 28 个最大城市中有 25 个正在下沉，可能会影响数千座建筑物和数百万人。其中沃斯堡、休斯顿和达拉斯的下沉速度最快，平均每年超过 4 毫米。纽约、芝加哥、哥伦布、西雅图和丹佛，平均每年下沉超过 2 毫米。休斯顿 42% 的陆地每年下沉超过 5 毫米，12% 的陆地每年下沉超过 10 毫米。大部分下沉是由地下水开采引起的，然而在一些城市，如纽约、费城和华盛顿特区，下沉主要是由“冰川均衡调整”引起的。在上一个冰河时期，这些地区被巨大的冰盖覆盖。冰的绝对重量压迫地壳，就像坐在记忆海绵床垫上。当几千年前冰融化时，压力解除，地面开始缓慢反弹，但这种反弹并不均匀。部分地区如美国东海岸和中西部，陆地仍在下沉而不是上升，因为它们靠近前隆地带，这是一个被附近冰的重量推高的区域，现在正在塌陷。",
+          "link": "https://www.solidot.org/story?sid=81267",
+          "publishedOn": "2025-05-12T09:52:42.000Z",
+          "wordCount": 181,
+          "title": "美国 25 个大城市在下沉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81266",
+          "author": null,
+          "description": "大质量恒星在生命末期可能会塌陷发生超新星爆发，而靠近地球的超新星爆发则可能会毁灭地球上的生命。研究团队调查了地球方圆 3,260 光年内的大质量恒星，估算出距离地球 65 亿光年内，每 10 亿年大约发生 2.5 次会对地球产生巨大影响的超新星爆发。这一频率与地球上的大规模生命灭绝事件吻合：4.45 亿年前的奥陶纪灭绝事件以及 3.72 亿年前的泥盆纪灭绝事件。这两起灭绝事件都与臭氧层丧失有关，而超新星爆发释放的大量辐射是臭氧层遭到破坏的原因之一。对人类而言幸运的是，未来数百万年内只有两颗大质量恒星——参宿四和心宿二——可能会超新星爆发。而两颗恒星距离超过 500 光年，地球处于安全距离内，它们不会产生致命影响。",
+          "link": "https://www.solidot.org/story?sid=81266",
+          "publishedOn": "2025-05-12T09:45:11.000Z",
+          "wordCount": 187,
+          "title": "参宿四超新星爆发是否会毁灭地球？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81265",
+          "author": null,
+          "description": "德国拜罗伊特大学研究团队首次运用 CRISPR-Cas9 基因编辑技术改造蜘蛛基因，让蜘蛛吐出了散发红色荧光的丝线。这项研究为开发新型生物材料开辟了新途径。蜘蛛丝堪称自然界的“生物钢丝”，不仅具有惊人的抗撕裂性和弹性，还非常轻、可以降解。若能通过基因编辑精准调控蜘蛛产丝过程，有望研制出性能更优异的仿生丝材料，广泛应用于多个领域。在最新研究中，团队调配出含有基因编辑组份和红色荧光蛋白基因序列的注射溶液，将其注入雌蛛未受精的卵细胞后，再与雄蛛进行交配。令人振奋的是，基因编辑后的蜘蛛后代成功吐出了红色荧光丝，这标志着外源基因序列已稳定插入丝蛋白内。",
+          "link": "https://www.solidot.org/story?sid=81265",
+          "publishedOn": "2025-05-12T08:42:59.000Z",
+          "wordCount": 161,
+          "title": "基因编辑让蜘蛛吐彩丝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81264",
+          "author": null,
+          "description": "因违反打包政策 openSUSE 项目移除了 Deepin 桌面环境。Deepin 项目通过官方论坛发表声明表示将改进安全响应和修复安全问题。声明称，“过去几年，openSUSE安全团队指出的相关安全隐患，由于社区在安全响应机制上的不足，部分问题未能及时修复。对此，我们向 openSUSE 团队、下游打包者及所有受影响的用户郑重致歉，并承诺以此次事件为契机，全面推进系统性的优化改进。在收到openSUSE团队的声明后，我们已经在第一时间和openSUSE团队及openSUSE的deepin桌面环境的软件包维护贡献者进行了沟通，也将我们后续的改进措施同步到了openSUSE安全团队。”Deepin 项目表示将全面整改。",
+          "link": "https://www.solidot.org/story?sid=81264",
+          "publishedOn": "2025-05-12T08:05:57.000Z",
+          "wordCount": 170,
+          "title": "deepin 社区表示将改进安全响应和修复安全问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81263",
+          "author": null,
+          "description": "美国版权局上周五发表了一份有关使用版权材料训练 AI 模型是否是合理使用的报告，次日特朗普下令解雇了该局局长 Shira Perlmutter。科技巨头和 AI 公司是特朗普的支持者，其中马斯克（Elon Musk）旗下的 AI 公司是众多希望使用版权材料训练 AI 模型的公司之一。美国版权局的报告区分了研究用的 AI 模型和商业性 AI 模型，认为研究用的 AI 模型能带来变革，但商业性模型生成的是与训练使用的版权作品相似的输出，不太可能被视为带来变革性。商业用的 AI 训练类似人类学习。版权局更多是站在了版权所有者而不是 AI 公司这一边。",
+          "link": "https://www.solidot.org/story?sid=81263",
+          "publishedOn": "2025-05-12T07:16:04.000Z",
+          "wordCount": 202,
+          "title": "美国版权局不认为使用版权材料训练 AI 是合理使用，特朗普随即解雇了局长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81262",
+          "author": null,
+          "description": "美国梅奥诊所、​​堪萨斯大学医学中心和罗切斯特大学医学中心的研究人员发现，高尔夫球场使用的农药增加了附近居民的帕金森症风险，越靠近高尔夫球场风险越高。住在距离高尔夫球场一英里以内的居民患帕金森症的风险是六英里以外居民的两倍多，三英里以内的居民也有较高的患病风险，三英里以外相关性减弱。研究人员称，出现这一相关性是因为高尔夫球场大量使用农药如毒死蜱（chlorpyrifos）和代森锰(Maneb)，残留农药污染了空气和地下水，导致了受污染区域居民的帕金森症风险增加。",
+          "link": "https://www.solidot.org/story?sid=81262",
+          "publishedOn": "2025-05-12T06:12:48.000Z",
+          "wordCount": 163,
+          "title": "高尔夫球场使用的农药增加附近居民的帕金森症风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81261",
+          "author": null,
+          "description": "根据发表在《eClinicalMedicine》期刊上的一项研究，相比减肥手术，第一代 GLP-1RA 减肥药除了减肥作用外，在预防肥胖相关癌症方面的直接作用高出 41%。GLP-1RA 通过模拟人体内激素 GLP-1 去实现减肥，这种激素可降低血糖水平，使人更长时间感到饱腹。肥胖和糖尿病都会增加多种癌症的风险，这些癌症被称为肥胖相关癌症，包括绝经后乳腺癌、结直肠癌、子宫体癌、脑膜瘤、肾细胞肾癌、肝癌或胆管癌、胰腺癌、甲状腺癌、胃癌和卵巢癌，以及多发性骨髓瘤。",
+          "link": "https://www.solidot.org/story?sid=81261",
+          "publishedOn": "2025-05-12T05:34:36.000Z",
+          "wordCount": 174,
+          "title": "GLP-1RA 大幅减少肥胖相关癌症风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81260",
+          "author": null,
+          "description": "流行减肥药 liraglutide 或 semaglutide 被发现也有助于减少酒精摄入。酒精相关障碍(Alcohol-Related Disorders)是一种复发性疾病，每年 260 万人死亡与之相关，占全球年死亡人数的 4.7%。戒酒非常困难，七成戒酒者会在一年内重新饮酒。胰高血糖素样肽-1（GLP-1）被用于治疗肥胖，在动物实验中被发现也有助于减少酒精摄入，但人体研究才刚刚起步。最新研究涉及 262 名超重或肥胖者，平均年龄 46 岁，平均体重 98 公斤。他们被允许服用 GLP-1 减肥。根据参与者自我报告的酒精消费量，研究人员将他们分成不饮酒者、少量饮酒者和经常饮酒者。在服用 GLP-1 四个月后，他们的平均酒精摄入量减少了三分之二，其中经常饮酒者减少了 68%。参与者称戒酒变得轻而易举。",
+          "link": "https://www.solidot.org/story?sid=81260",
+          "publishedOn": "2025-05-12T05:09:05.000Z",
+          "wordCount": 186,
+          "title": "流行减肥药被发现也有助于减少酒精消费",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81259",
           "author": null,
@@ -767,36 +898,6 @@
           "wordCount": 205,
           "title": "Mozilla 高管称没有 Google 的默认搜索交易它会倒闭",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81207",
-          "author": null,
-          "description": "Canonical 开发者在 Ubuntu 邮件列表上宣布了将于 10 月发布的下一个版本 Ubuntu 25.10，代号 Questing Quokka。该版本与上个月发布的 Ubuntu 25.04 类似，都是短期支持版本。下一个长期支持版本将是 2026 年 4 月释出的 Ubuntu 26.04。Ubuntu 25.10 预计将使用新桌面环境 GNOME 49 以及新内核版本 Linux 6.17。其他变化包括 snap 版本的 CUPS 打印堆栈；迁移到基于 Rust 的 coreutils，现有版本重命名为 gnu-coreutils，用户如果需要可以切换回去；等等。",
-          "link": "https://www.solidot.org/story?sid=81207",
-          "publishedOn": "2025-05-03T15:03:05.000Z",
-          "wordCount": 205,
-          "title": "Ubuntu 25.10 代号 Questing Quokka",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81206",
-          "author": null,
-          "description": "Temu 宣布停止通过其平台直接向美国客户销售从中国进口的商品。美国客户将购买美国卖家的商品，订单将在美国境内履行。美国最近终止了低价包裹的免税政策。以前价值在 800 美元以内的包裹可以免税，希音和 Temu 等平台利用该漏洞向美国客户销售廉价商品。特朗普政府关闭了这一漏洞。Temu 表示它一直积极招募美国公司加盟其平台。现在美国境内的所有销售均由本地卖家处理，订单在美国境内完成。此举旨在帮助本地商家接触更多客户，扩大其业务。",
-          "link": "https://www.solidot.org/story?sid=81206",
-          "publishedOn": "2025-05-03T14:49:37.000Z",
-          "wordCount": 176,
-          "title": "Temu 停止向美国消费者直接销售来自中国的商品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81205",
-          "author": null,
-          "description": "NIH 将暂停海外研究机构和医院的数十亿美元拨款，此举将影响到了全球数千个卫生项目以及新传染病和癌症相关的临床试验。NIH 是全球最大的生物医学研究资助机构，它在 5 月 1 日宣布到 10 月为海外研究机构提供拨款的项目 foreign subawards 将不再续签或颁发。NIH 每年在这些项目上花费了 5 亿美元。NIH 员工表示该机构已被下令冻结提供给海外研究机构的资金。很多美国资助的海外研究涉及全球卫生领域，如癌症、妇幼保健，以及艾滋病、埃博拉和结核病等传染病。",
-          "link": "https://www.solidot.org/story?sid=81205",
-          "publishedOn": "2025-05-02T16:02:21.000Z",
-          "wordCount": 185,
-          "title": "NIH 将暂停资助海外研究项目",
-          "imageUrl": null
         }
       ]
     },
@@ -994,16 +1095,6 @@
           "publishedOn": "2025-05-05T06:40:20.000Z",
           "wordCount": 386,
           "title": "6.41 Million Google Clicks! 💸",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/weekend-sale-official",
-          "author": null,
-          "description": "At Browserling and Online Tools we love sales.\nWe just created a new automated Weekend Sale.\nNow each weekend, we show a 50% discount offer to all users who visit our site.\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing\nBuy a subscription now and see you next time!",
-          "link": "https://catonmat.net/weekend-sale-official",
-          "publishedOn": "2025-05-03T03:05:07.000Z",
-          "wordCount": 120,
-          "title": "Weekend Sale! 🎁",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
