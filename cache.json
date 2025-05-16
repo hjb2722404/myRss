@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/aneko-reborn-for-android/",
+          "author": "青小蛙",
+          "description": "ANeko Reborn 是一个安卓电子宠物应用，它能在屏幕上显示一只正在跑的猫，跑累了还会停下来等你点它，然后继续跑，还会在屏幕上睡觉。@Appinn 来自川陀大学图书馆档案室。 另外还有14款不同",
+          "link": "https://www.appinn.com/aneko-reborn-for-android/",
+          "publishedOn": "2025-05-15T06:53:50.000Z",
+          "wordCount": 2599,
+          "title": "ANeko Reborn – 安卓电子宠物：在屏幕上跑来跑去还会睡觉的猫",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-15T124138.427.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/tutorial-how-to-batch-install-android-apps-using-adb/",
+          "author": "青小蛙",
+          "description": "如果你想一次性安装多个不同的 APK，可以用 for 循环批量执行 adb install 命令。 先决条件 Windows 系统（命令提示符） 打开命令提示符，进入 apk 文件所在文件夹，执行：",
+          "link": "https://www.appinn.com/tutorial-how-to-batch-install-android-apps-using-adb/",
+          "publishedOn": "2025-05-15T06:47:52.000Z",
+          "wordCount": 2879,
+          "title": "教程：如何使用 adb 一次性批量安装多款安卓应用",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-15T143307.933.jpg"
+        },
+        {
           "id": "https://www.appinn.com/taobao-desktop-client/",
           "author": "青小蛙",
           "description": "淘宝发布桌面版客户端，支持 Windows、macOS（仅M芯片），提供完整的购物功能，以及一个AI聊天窗口。@Appinn 现如今已经没什么人用桌面端淘宝的情况下，淘宝发布了桌面客户端，支持 Win",
@@ -200,26 +220,6 @@
           "wordCount": 2591,
           "title": "阿里云国际：轻量应用服务器 2vCPUs 1GB 内存200M带宽，9.9美元/年",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-07T115410.981.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/old-pc-win11-upgrade-disable/",
-          "author": "青小蛙",
-          "description": "随着 Windows 10 服务终止时间的临近（2025-10-14），微软开始抓紧为用户升级 Windows 1。但是有很多电脑是无法升级 Windows 11 的，比如缺少了 TPM 2.0 模块",
-          "link": "https://www.appinn.com/old-pc-win11-upgrade-disable/",
-          "publishedOn": "2025-05-06T07:12:15.000Z",
-          "wordCount": 2956,
-          "title": "2 个方法永久关闭 Windows 11 升级：老电脑不支持 Win11，微软还偷偷推送、下载升级？",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-06T113022.079.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/1-years-free-gemini-advanced-student/",
-          "author": "青小蛙",
-          "description": "Gemini Advanced 是 Google 提供的高级、付费 AI 服务，目前疑似出现 BUG，任何人均可一键获得为期 1 年多Gemini Advanced 学生套餐，包括超长的上下文、Not",
-          "link": "https://www.appinn.com/1-years-free-gemini-advanced-student/",
-          "publishedOn": "2025-05-06T05:18:16.000Z",
-          "wordCount": 2635,
-          "title": "疑似 BUG，免费，一键获得 1 年的 Gemini Advanced 学生套餐",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-06T120203.516.jpg"
         }
       ]
     },
@@ -228,6 +228,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=386537",
+          "author": "Geoff Graham",
+          "description": "Hey, isn't there a fairly new CSS feature that works with scroll regions? Oh yes, that's Scroll-Driven Animations. Shouldn't that mean we can trigger an animation while scrolling through the items in a CSS carousel?\nScroll-Driven Animations Inside a CSS Carousel originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/scroll-driven-animations-inside-a-css-carousel/",
+          "publishedOn": "2025-05-15T12:30:59.000Z",
+          "wordCount": 1918,
+          "title": "Scroll-Driven Animations Inside a CSS Carousel",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/carousel-slides.png"
+        },
         {
           "id": "https://css-tricks.com/?p=386415",
           "author": "John Rhea",
@@ -272,16 +282,6 @@
           "wordCount": 2541,
           "title": "Why is Nobody Using the hwb() Color Function?",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/10/stripe-accessible-colors.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386482",
-          "author": "Ryan Trimble",
-          "description": "Along with the version 3.13 release, GSAP, and all its awesome plugins, are now freely available to everyone.\nGSAP is Now Completely Free, Even for Commercial Use! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/gsap-is-now-completely-free-even-for-commercial-use/",
-          "publishedOn": "2025-05-06T14:14:41.000Z",
-          "wordCount": 1849,
-          "title": "GSAP is Now Completely Free, Even for Commercial Use!",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-05-at-3.27.23%E2%80%AFPM-scaled.png"
         }
       ]
     },
@@ -324,6 +324,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81306",
+          "author": null,
+          "description": "宇宙的命运与其天体命运息息相关，而其中恒星的最终“寿命”一直是人类探索的重要命题。荷兰拉德堡德大学的三位天体物理学家基于霍金辐射，通过计算得出结论称，宇宙中最后一批恒星会在10^78年后彻底“衰亡”，较此前估算的 10^1100 年大幅缩短。这项研究的理论基础可追溯至 1970 年代霍金提出的革命性理论。当时这位物理学巨匠挑战传统认知，指出黑洞并非只进不出的“饕餮”，而是会像发热体般释放辐射——这就是著名的“霍金辐射”理论。2023 年该研究团队曾发表论文揭示：不仅黑洞，中子星等致密天体同样会通过类似霍金辐射的机制逐渐“蒸发”。那么宇宙天体的蒸发需要多长时间？最新计算发现，若仅考虑类霍金辐射效应，白矮星将在 10^78 年后消亡。此前预估因未计入这类辐射，认为白矮星还需 10^1100 年才能蒸发完毕。中子星与恒星级黑洞的蒸发时间同为10^67年。月球约需要 3×10^89年，超大质量黑洞要 10^96 年，本星际云要 10^127 年，而超星系团暗物质晕要10^135年。",
+          "link": "https://www.solidot.org/story?sid=81306",
+          "publishedOn": "2025-05-15T15:28:01.000Z",
+          "wordCount": 181,
+          "title": "物理学家计算出宇宙最后一批恒星将在 10^78 年后彻底死亡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81305",
+          "author": null,
+          "description": "欧盟委员会公布了始于去年 2 月的初步调查结果，指责 TikTok 广告不透明，违反了欧盟的《数字服务法案》（DSA），TikTok 可能因此面临巨额罚款。欧盟《数字服务法案》规定，社交媒体平台有义务公开一份广告档案库（advertisement repository），以帮助识别欺骗性广告、来自敌对国家的信息战以及虚假广告等。 负责科技安全的官员 Henna Virkkunen 表示：网络广告的透明度——谁支付费用、谁是目标受众——对于确保公共利益而言至关重要。无论是捍卫我们民主选举的正直性、保护公共健康还是保护消费者免受垃圾广告侵扰，公民们都有权知道他们所看到的信息背后是谁。如果初步调查结果最终得到证实，TikTok 可能面临最高全球年营业额 6% 的罚款。",
+          "link": "https://www.solidot.org/story?sid=81305",
+          "publishedOn": "2025-05-15T15:19:17.000Z",
+          "wordCount": 177,
+          "title": "欧盟指责 TikTok 广告不透明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81304",
+          "author": null,
+          "description": "虽然没有正式宣布，Red Hat 的旗舰企业级发行版 Red Hat Enterprise Linux 10 抵达了 GA（general availability） 状态，客户已经可以下载 ISO 镜像。Red Hat 将于下周一在波士顿举行峰会，RHEL 10.0 预计会是该活动的一个焦点。",
+          "link": "https://www.solidot.org/story?sid=81304",
+          "publishedOn": "2025-05-15T15:06:50.000Z",
+          "wordCount": 194,
+          "title": "Red Hat Enterprise Linux 10 GA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81303",
+          "author": null,
+          "description": "根据本周发表在《Nature Human Behaviour》期刊上的一项研究，宾夕法尼亚大学沃顿商学院的研究人员发现，AI 聊天机器人 ChatGPT 能在头脑风暴中增强个体的创造力，但同时会降低集体的创意多样性。研究人员在一系列实验中让参与者完成创意挑战，有的可以使用 ChatGPT 帮助有的不允许。举例来说，研究人员让参与者提出重新利用网球拍和花园水管的创意。ChatGPT 辅助提出的创意有 20 个包含有洒水器，Web 搜索辅助提出的创意只有 7 个，不使用任何辅助纯由人类提出的创意中包含 12 个。研究结果与此前发表在《Science Advances》期刊上的一项研究基本一致，即 AI 生成的内容趋于同质化。",
+          "link": "https://www.solidot.org/story?sid=81303",
+          "publishedOn": "2025-05-15T14:25:59.000Z",
+          "wordCount": 190,
+          "title": "研究发现 ChatGPT 降低了头脑风暴中的创意多样性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81302",
+          "author": null,
+          "description": "根据发表在《Occupational & Environmental Medicine》期刊上的一项初步研究结果，长时间工作可能会改变大脑结构，影响情绪调节和执行功能如工作记忆和问题解决相关的区域。长时间工作与心血管疾病、代谢紊乱和心理健康问题的风险增加相关。国际劳工组织估计，过劳每年导致逾 80 万人死亡。为了探索过劳背后的神经机制和解剖学变化，研究人员使用结构性脑容量分析比较了长时间工作对医护人员特定大脑区域的影响。长时间工作指的是每周工作 52 小时以上。在分析的 110 人中，32 人每周工作时间过长，78 人工作时长固定。结果显示，工作时间过长的人的中额回体积增加了 19%，该大脑区域与注意力、工作记忆和语言处理相关。研究人员承认研究规模较小难以得出因果结论。",
+          "link": "https://www.solidot.org/story?sid=81302",
+          "publishedOn": "2025-05-15T13:09:48.000Z",
+          "wordCount": 169,
+          "title": "长时间工作可能会改变大脑结构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81301",
+          "author": null,
+          "description": "2024 年 3 月 18 日，毅力号（Perseverance）火星探测车在杰泽罗陨石坑的夜空中，成功捕捉到可光见波段的绿色极光。此项发现不仅是技术上的突破，也为研究太阳与火星之间交的互作用开启了全新途径。极光是太阳风中的高能粒子与行星际磁场、行星高层大气交互作用产生的发光现象。尽管早已证实火星上会出现紫外光波段的极光，但可见光波段的极光从未直接被观测到。虽然火星仅拥有约地球 2% 的稀薄大气以及局部、残留的磁场，这些磁场来自古老地壳中的磁性矿物，无法像地球般形成全球性磁层。但是这些局部磁场仍可诱发极光活动，特别是在太阳剧烈活动的期间。2024 年 3 月 15 日，太阳发生一次日冕物质抛射（CME），大量带电粒子冲击火星。几日后，毅力号搭载的日间光学仪器成功记录下夜空中微弱的绿色极光。",
+          "link": "https://www.solidot.org/story?sid=81301",
+          "publishedOn": "2025-05-15T09:26:54.000Z",
+          "wordCount": 181,
+          "title": "火星首次观测到可光见波段的绿色极光",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81300",
+          "author": null,
+          "description": "在印巴冲突以来，印度要求 X/Twitter 在其境内屏蔽逾 8000 个账号。它给出的一个理由是这些账号传播了与冲突相关的虚假信息。印度的 X 用户将无法访问被屏蔽账号的内容，但其他地区的用户能正常浏览。被屏蔽的账号包括了知名的媒体，其中包括了新华社、环球时报等中国媒体。印巴双方已于 5 月 10 日达成停火协议，但相关账号仍然处于封禁状态。",
+          "link": "https://www.solidot.org/story?sid=81300",
+          "publishedOn": "2025-05-15T08:41:18.000Z",
+          "wordCount": 181,
+          "title": "印度在其境内屏蔽 X 的新华社账号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81299",
+          "author": null,
+          "description": "X/Twitter 用户经常会 @Grok，询问 xAI 的聊天机器人对各种话题的看法。然而从本周三开始，马斯克（Elon Musk）的 AI 似乎也嗨了，对任何话题都以南非“白人种族灭绝”进行回应。Grok 喋喋不休地的将任何话题都转向南非“白人种族灭绝”以及相关歌曲《Kill the Boer》，它拒绝讨论其他话题。Grok 对该话题的观点几乎与马斯克完全一致，其训练材料可能就来自 X。",
+          "link": "https://www.solidot.org/story?sid=81299",
+          "publishedOn": "2025-05-15T08:27:21.000Z",
+          "wordCount": 191,
+          "title": "xAI 的 Grok 突然不停的说南非“白人种族灭绝””",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81298",
+          "author": null,
+          "description": "安全公司趋势科技报告，朝鲜黑客组织正使用俄罗斯网络基础设施发动攻击。朝鲜黑客组织 Void Dokkaebi aka Famous Chollima 使用了俄罗斯 Khasan 和 Khabarovsk 两个小镇的两家公司的 IP 地址，Khasan 距离两国边界只有一英里，而 Khabarovsk 与朝鲜也有经济和文化上的渊源。安全研究人员猜测朝鲜可能在两地派遣了 IT 工作人员。Void Dokkaebi 的攻击目标主要是加密货币、Web3 和区块链技术有兴趣的软件工程师，目的是要窃取他们电脑上的加密货币。网络在朝鲜属于稀缺资源，整个国家网络只被分配到 1,024 个 IP 位址。",
+          "link": "https://www.solidot.org/story?sid=81298",
+          "publishedOn": "2025-05-15T07:17:39.000Z",
+          "wordCount": 180,
+          "title": "朝鲜黑客组织使用俄罗斯网络基础设施发动攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81297",
+          "author": null,
+          "description": "华纳兄弟探索(Warner Bros. Discovery)宣布旗下流媒体服务的名字将从 Max 恢复为 HBO Max，两年前该公司将名字中的 HBO 移除。HBO 是非常知名的娱乐品牌，Max 很难说会因为字数少而更容易记忆，因此会更受用户青睐。华纳兄弟探索在改名新闻稿中表示，HBO 品牌资产在流媒体领域仍然具有价值。",
+          "link": "https://www.solidot.org/story?sid=81297",
+          "publishedOn": "2025-05-15T06:55:37.000Z",
+          "wordCount": 188,
+          "title": "华纳兄弟探索的流媒体服务 Max 恢复原名 HBO Max",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81296",
+          "author": null,
+          "description": "安全研究员报告，网名 Machine1337 的黑客正在暗网论坛出售包含 8900 万条 Steam 用户记录的数据库。Valve  官网发表声明，称它检查了泄漏的样本，确认不是来自 Steam 系统。黑客出售的数据库主要是 Steam 用户二步验证短信的旧日志。Valve 称短信在传输过程中是不加密的，在发送到手机过程中会路由经过多个服务提供商，因此确定数据来源有点复杂。泄漏的数据没有将手机号码与 Steam 帐户、密码信息、支付信息或其他个人数据关联起来，因此无法用于入侵用户的账号。用户无需为此更改密码或手机号码。",
+          "link": "https://www.solidot.org/story?sid=81296",
+          "publishedOn": "2025-05-15T06:04:09.000Z",
+          "wordCount": 182,
+          "title": "Valve 否认 Steam 被黑客入侵",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81295",
+          "author": null,
+          "description": "被《连线》称为互联网至今涉嫌洗钱规模最大的暗网市场好旺担保（Haowang Guarantee，aka 汇旺担保或 Huione Guarantee）在 Telegram 屏蔽其大量账号之后宣布停止运营。好旺担保在官网发布公告称，Telegram  于 2025 年 5 月 13 日封锁了其所有的 NFT、频道和群组，好旺担保将从即日起停止运营。根据加密货币追踪公司 Elliptic 的研究，好旺担保涉嫌的洗钱规模高达 270 亿美元，远高于排名第二、涉嫌洗钱 84 亿美元的新币担保。好旺担保母公司柬埔寨汇旺集团本月早些时候被美国财政部列入了参与洗钱活动的黑名单。Elliptic 称好旺担保正将其业务转向另一个基于 Telegram 的市场土豆担保，Telegram 是否继续会打击还有待观察。",
+          "link": "https://www.solidot.org/story?sid=81295",
+          "publishedOn": "2025-05-15T04:47:49.000Z",
+          "wordCount": 195,
+          "title": "Huione 担保宣布停止运营",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81294",
           "author": null,
@@ -1053,56 +1173,6 @@
           "wordCount": 168,
           "title": "古代诗歌揭示江豚的历史分布",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81219",
-          "author": null,
-          "description": "阿联酋公立学校将开设 AI 课程，它正努力成为该地区的 AI 强国。AI 课程将于 2025-2026 学年面向幼儿园至 12 年级学生开设。课程内容包括道德意识、基础概念以及实际应用。阿联酋加入了越来越多将 AI 纳入学校教育的国家行列。中国上个月宣布了类似的举措，将向中小学生推出 AI 课程。阿联酋已向训练 AI 模型的数据中心进行大量投资，并设立了一支 AI 投资基金，基金规模据报道将在几年内增长到 1000 亿美元以上。",
-          "link": "https://www.solidot.org/story?sid=81219",
-          "publishedOn": "2025-05-06T09:59:04.000Z",
-          "wordCount": 195,
-          "title": "阿联酋将为中小学生开设 AI 课程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81218",
-          "author": null,
-          "description": "OpenAI 去年底公布了转变为营利性公司的计划，以方便筹集资金。根据拟议中的计划，OpenAI 的营利性公司总部位于特拉华州，将是一家公益公司（PBC）——即除了股东价值外还会考虑社会利益。OpenAI 的原非营利组织将会在新公司持有股份。现在 OpenAI 改变了计划，宣布原非营利组织将会持有营利性实体的控股权。OpenAI 表示它倾听了外界的意见，在与特拉华州和加州总检察长办公室进行建设性对话之后做出了这一决定。未来它将继续由非营利实体监督和控制。",
-          "link": "https://www.solidot.org/story?sid=81218",
-          "publishedOn": "2025-05-06T09:29:03.000Z",
-          "wordCount": 166,
-          "title": "OpenAI 宣布其非盈利实体将保留控股权",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81217",
-          "author": null,
-          "description": "有心理健康问题的青少年花在社交媒体上的时间比同龄人多——平均每天多 50 分钟。一项针对英国 3340 名青少年的调查显示，他们也更有可能对网络体验的某些方面感到不满，比如自己的在线朋友数量。这项研究探讨了有特殊心理健康状况的青少年如何使用社交媒体，结果发现患有焦虑和抑郁等疾病的参与者比患有注意力缺陷多动障碍等疾病的参与者更容易受到负面网络体验的影响。研究人员分析了2017年英国国家医疗服务体系对11至19岁青少年进行的一项调查的数据。参与者接受了深入的临床评估，并被问及使用社交媒体的情况和对这些平台的感受。16% 的参与者至少有一种心理健康问题。其中 8% 的人有内化性症状，如抑郁和焦虑，表现为对自己的负面情绪；3% 的人有外化性症状，如注意力缺陷多动障碍，表现为对他人的负面情绪。分析发现，总体而言，有心理健康问题的青少年在社交媒体上花的时间更多，而且与有外化性症状或没有心理健康问题的人相比，有内化性症状的人更有可能在网上与他人进行比较。那些有内化性症状的人也更容易受到评论或对自己帖子反馈的影响，而且对在社交媒体平台上花多少时间的控制能力更弱。",
-          "link": "https://www.solidot.org/story?sid=81217",
-          "publishedOn": "2025-05-06T08:30:55.000Z",
-          "wordCount": 165,
-          "title": "有心理健康问题的青少年更可能长时间沉迷社媒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81216",
-          "author": null,
-          "description": "微软于 5 月 5 日正式结束了 Skype 长达 22 年的历史。现有的 Skype 用户迁移到了 Teams，用户现在打开 Skype应用会重定向到 Teams。Skype 服务唯一保留的功能是拨打传统电话号码的 Skype Dial Pad。Skype 诞生于 2003 年 8 月，2011 年 5 月被微软以 85 亿美元收购。它曾是最流行的视频通话软件，然而在收购之后逐渐由盛而衰，新冠疫情期 Zoom 取代它成为了视频聊天和会议的代名词。微软于 2017 年开始逐步淘汰 Skype，一开始是 Skype for Business，如今则是完全关闭。",
-          "link": "https://www.solidot.org/story?sid=81216",
-          "publishedOn": "2025-05-06T08:01:51.000Z",
-          "wordCount": 198,
-          "title": "微软正式关闭 Skype",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81215",
-          "author": null,
-          "description": "现代汽车在其位于美国佐治亚州的 Metaplant America工厂部署了波士顿动力的 Atlas 人形机器人，此举旨在加速工厂自动化和本地生产，提高效率以应对汽车关税上涨。现代汽车已经在其美国工厂部署了 Spot 四足机器人用于工业检测，它没有披露部署了多少台 Atlas，以及 Atlas 的具体用途。现代汽车是在 2021 年从日本软银收购了波士顿动力，Atlas 为双足人形机器人，其最新型号为全电版而不是早期使用的液压版。波士顿动力在宣布电动版 Atlas 时透露第一个合作对象是其母公司现代汽车。",
-          "link": "https://www.solidot.org/story?sid=81215",
-          "publishedOn": "2025-05-06T07:24:52.000Z",
-          "wordCount": 184,
-          "title": "现代汽车在其美国工厂部署 Atlas 机器人",
-          "imageUrl": null
         }
       ]
     },
@@ -1172,6 +1242,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/641-million-google-clicks",
+          "author": null,
+          "description": "Yesterday Online PNG Tools smashed through 6.40M Google clicks and today it's smashed through 6.41M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!\nWhat Are Online PNG Tools?\nOnline PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.\nWho Created Online PNG Tools?\nOnline PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.\nWho Uses Online PNG Tools?\nOnline PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.\nSmash too and see you tomorrow at 6.42M clicks! 📈\nPS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸",
+          "link": "https://catonmat.net/641-million-google-clicks",
+          "publishedOn": "2025-05-12T06:40:20.000Z",
+          "wordCount": 386,
+          "title": "6.41 Million Google Clicks! 💸",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/sunday-sale-official-letsgo",
           "author": null,
@@ -1260,36 +1340,6 @@
           "publishedOn": "2025-05-07T07:07:07.000Z",
           "wordCount": 388,
           "title": "6.43 Million Google Clicks! 💸",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/tuesday-sale",
-          "author": null,
-          "description": "At Browserling and Online Tools we love sales.\nWe just created a new automated Tuesday Sale.\nNow on Tuesdays, we show a 50% discount offer to all users who visit our site.\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing\nBuy a subscription now and see you next time!",
-          "link": "https://catonmat.net/tuesday-sale",
-          "publishedOn": "2025-05-06T12:12:12.000Z",
-          "wordCount": 125,
-          "title": "Tuesday Sale! 50% OFF! 🎁",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/642-million-google-clicks",
-          "author": null,
-          "description": "Yesterday Online PNG Tools smashed through 6.41M Google clicks and today it's smashed through 6.42M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!\nWhat Are Online PNG Tools?\nOnline PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.\nWho Created Online PNG Tools?\nOnline PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.\nWho Uses Online PNG Tools?\nOnline PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.\nSmash too and see you tomorrow at 6.43M clicks! 📈\nPS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸",
-          "link": "https://catonmat.net/642-million-google-clicks",
-          "publishedOn": "2025-05-06T06:06:06.000Z",
-          "wordCount": 388,
-          "title": "6.42 Million Google Clicks! 💸",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/monday-sale",
-          "author": null,
-          "description": "At Browserling and Online Tools we love sales.\nWe just created a new automated Monday Sale.\nNow on Mondays, we show a 50% discount offer to all users who visit our site.\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing\nBuy a subscription now and see you next time!",
-          "link": "https://catonmat.net/monday-sale",
-          "publishedOn": "2025-05-05T22:16:00.000Z",
-          "wordCount": 125,
-          "title": "Monday Sale! 50% OFF! 🎁",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
