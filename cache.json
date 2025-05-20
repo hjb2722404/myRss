@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/ghost-downloader-3/",
+          "author": "青小蛙",
+          "description": "Ghost Downloader 3 是一款开源、跨平台的下载工具，支持 Windows、macOS、Linux，可接管 Chrome/Firefox 下载。采用了智能多线程算法，通过监测平均下载速度",
+          "link": "https://www.appinn.com/ghost-downloader-3/",
+          "publishedOn": "2025-05-19T08:52:34.000Z",
+          "wordCount": 2606,
+          "title": "Ghost Downloader 3 – 开源、跨平台、智能多线程下载工具，充分榨干宽带。开发者正在备战高考",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-19T163729.709.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/racknerd-cheap-vps-latest-deals/",
+          "author": "青小蛙",
+          "description": "RackNerd 是一家高性价比（廉价）VPS 提供商，前几日发来邮件说已经针对各机房进行补货，包括受欢迎的洛杉矶 DC-03 机房和都柏林机房，并提供了比黑五硬盘更大、价格更便宜的优惠套餐。@App",
+          "link": "https://www.appinn.com/racknerd-cheap-vps-latest-deals/",
+          "publishedOn": "2025-05-19T05:44:11.000Z",
+          "wordCount": 2589,
+          "title": "RackNerd 最新优惠 10.96刀/年，高性价比（廉价）VPS 提供商",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-19T113620.528.jpg"
+        },
+        {
           "id": "https://www.appinn.com/tips-export-android-import-windows-default-app-file-associations/",
           "author": "青小蛙",
           "description": "有同学在小众软件的公众号中提问，寻找可以在 Windows 10 中备份扩展名关联程序的工具。 具体需求：使用多款便携软件与相应扩展名文件映射，如系统故障、重装后映射（即打开方式）失效。需要软件进行备",
@@ -150,26 +170,6 @@
           "wordCount": 2606,
           "title": "Hyvector – 免费在线 SVG 图片编辑工具",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-11T164608.726.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/anduinos/",
-          "author": "青小蛙",
-          "description": "AnduinOS 是一个高仿 Windows 11 界面的 Linux 系统： 它已经霸榜 distrowatch 热门操作系统快一年了，最近更是登上榜首： 作为唯一的维护者，华人 Anduin 也感",
-          "link": "https://www.appinn.com/anduinos/",
-          "publishedOn": "2025-05-10T11:34:38.000Z",
-          "wordCount": 2733,
-          "title": "高仿 Windows 11 界面的 Linux 系统 AnduinOS 唯一维护者，居然是微软全职工程师",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-10T192705.717.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/xpshadows/",
-          "author": "青小蛙",
-          "description": "XPShadows 是一个没啥用的软件，它能让你的 Windows 10/11 系统模仿 WinXP 系统卡死状态，让桌面有100个窗口残影。@Appinn 就像下面这样： 来自发现频道，开发者 @L",
-          "link": "https://www.appinn.com/xpshadows/",
-          "publishedOn": "2025-05-10T08:55:58.000Z",
-          "wordCount": 2614,
-          "title": "XPShadows – 模仿 WinXP 系统卡死状态，让桌面有100个窗口残影",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-10T163639.818.jpg"
         }
       ]
     },
@@ -178,6 +178,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=386580",
+          "author": "Juan Diego Rodríguez",
+          "description": "Answering a reader's question about how to create a complex numbering system with CSS list counters.\nA Reader’s Question on Nested Lists originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/a-readers-question-on-nested-lists/",
+          "publishedOn": "2025-05-19T12:32:22.000Z",
+          "wordCount": 3109,
+          "title": "A Reader’s Question on Nested Lists",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/html-lists.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=386631",
           "author": "Geoff Graham",
@@ -264,6 +274,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81334",
+          "author": null,
+          "description": "在 Pwn2Own 年度挑战赛上，Palo Alto Networks 的两位研究人员演示了 Firefox 的一个越界写入漏洞，赢得了 5 万美元奖金。另一位参赛者演示了 Firefox 的整数溢出漏洞。但两次漏洞利用都未能成功实现沙盒逃逸。Mozilla 安全博客称它最近改进了 Firefox 沙盒的架构，有效阻止了此类攻击。虽然两次漏洞利用都未能逃逸沙盒，但出于谨慎考虑，Mozilla 在漏洞披露的同一时间释出了 Firefox 138.0.4、Firefox ESR 128.10.1、Firefox ESR 115.23.1 和 Firefox for Android，修复了相关漏洞。",
+          "link": "https://www.solidot.org/story?sid=81334",
+          "publishedOn": "2025-05-19T15:53:33.000Z",
+          "wordCount": 193,
+          "title": "Firefox 快速释出更新修复两个 Pwn2Own 上公开的漏洞利用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81333",
+          "author": null,
+          "description": "Tor 项目宣布了命令行工具 oniux，使用 Linux 命名空间为第三方应用提供 Tor 网络隔离，路由通过 Tor 网络去实现匿名网络连接。Oniux 能为每个应用程序创建一个完全隔离的网络环境，能防止数据泄漏，即使应用程序是恶意的或者错误配置。Linux 命名空间是一项内核功能，允许进程在隔离的环境中运行，oniux 的命名空间不提供系统级网络接口如 eth0 的访问，而是提供自定义网络接口 onion0。oniux 处于实验阶段，它依赖的软件如 Arti 和 onionmasq 仍在开发中。",
+          "link": "https://www.solidot.org/story?sid=81333",
+          "publishedOn": "2025-05-19T13:30:50.000Z",
+          "wordCount": 191,
+          "title": "oniux：为 Linux 应用提供 Tor 网络隔离",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81332",
+          "author": null,
+          "description": "根据发表在 PLOS Climate 期刊上的一项研究，民主国家更环保的一个重要因素是将污染外包给非民主国家。联合国的一份报告曾指出，日本和德国等国减少了国内温室气体排放，同时却大幅增加了向中国等国转移的排放量。除了直接将经济活动的环境成本外部化，很多国家还采取了更间接的方式，通过改变生产和消费模式，将国内消费的大部分环境影响转移到海外。国际贸易在此过程中发挥着关键作用：部分国家不再在国内生产高污染产品，而是从国外进口，从而有效地将环境负担转嫁给出口国。这些国家能减少国内污染，但将其后果外包给了其他国家。瑞士苏黎世联邦理工学院的研究人员分析了自 1990 年代以来 160 多个国家的温室气体排放、污染外包和民主数据，给出了环境污染外包推动民主国家更出色环境记录的证据。",
+          "link": "https://www.solidot.org/story?sid=81332",
+          "publishedOn": "2025-05-19T12:53:27.000Z",
+          "wordCount": 164,
+          "title": "民主国家更环保但将污染外包给非民主国家",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81331",
+          "author": null,
+          "description": "由新加坡南洋理工大学新加坡环境生命科学工程中心（SCELSE）和亚洲环境学院（ASE）领导的一项国际基因组学研究表明，早期亚洲人完成了最长的一次史前迁徙。这些史前人类在10多万年前漫游地球，可能步行超过2万公里，从北亚到达南美洲的最南端。这段旅程将需要几代人，花费数千年的时间。在过去，陆地也与现在不同，冰桥连接了某些区域，使这条路线成为可能。研究人员追踪了一段古老的迁徙之旅，这段旅程始于非洲，途经北亚，终点是现代阿根廷的火地岛，火地岛被认为是地球上人类迁徙的最后边界。通过比较共同祖先的模式和随时间积累的遗传变异，该团队能够追踪群体如何分裂、移动和适应新环境。这些模式使研究人员能够重建古代迁徙路线，并估计不同种群何时分化。研究结果表明，这一先锋群体克服了极端的环境挑战，完成了数千年的旅程。\n这些早期移民大约在1.4万年前抵达南美洲西北端，即现在的巴拿马与哥伦比亚的交界处。从这个关键的切入点出发，人口分成了4个主要群体：一个留在亚马孙流域，而其他的则向东移动到干旱查科地区、向南移动到巴塔哥尼亚冰原，以及穿行在亚洲以外最高的山脉——安第斯山脉的山谷中。",
+          "link": "https://www.solidot.org/story?sid=81331",
+          "publishedOn": "2025-05-19T10:51:49.000Z",
+          "wordCount": 158,
+          "title": "早期亚洲人完成了人类最长的史前迁徙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81330",
+          "author": null,
+          "description": "天文学家观察到一颗巨大的年轻恒星名为 HW2，正在以前所未见的速度快速成长，每年增加的质量相当于两颗木星的质量，这项发现不仅让人惊叹这颗恒星的食量，也为我们理解大质量恒星是如何形成的，提供了重要线索。HW2 距离地球约 2,300 光年，质量为太阳的 10～20 倍，位于造父座A（Cepheus A）的恒星形成区域中心，这里充满着浓密的气体与尘埃。研究显示 HW2 吸积盘中的气体正以极快的速度向内坍缩，以惊人的速度为恒星提供养分，相当于每年约两个木星的质量，这是有史以来最高的恒星增长率之一。更有趣的是，科学家还发现这个吸积盘呈现明显的不对称，其东侧的气体量比西侧高出两倍，湍流也更强烈。这种现象可能是由附近的丝状气体和尘埃流汇聚而成。越来越多的证据支持这种解释，表明这种气流可以将年轻恒星与其周围的包层连接起来，充当供应线，向吸积盘输送新鲜物质以维持恒星的生长。相关研究成果即将发表于《Astronomy & Astrophysics》期刊上。",
+          "link": "https://www.solidot.org/story?sid=81330",
+          "publishedOn": "2025-05-19T10:46:44.000Z",
+          "wordCount": 180,
+          "title": "恒星 HW2 以前所未有的速度快速增长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81329",
+          "author": null,
+          "description": "中国航天任务使用的徽章通常采用了相当刻板的设计，但过去几个月中国航天使用的任务徽章令人眼前一亮。过去几个月中国发射了四颗通信技术试验卫星十五号、十六号、十七号与十九号，使用的任务徽章来自于佛教的四大天王——广目天王、持国天王、多闻天王和增长天王。四颗卫星都已进入或正在前往赤道上空近 36,000 公里的地球同步轨道，其位置分别位于印度洋、东南亚、西太平洋以及东太平洋上空。美国官员称，通信技术试验卫星经常被用于导弹预警或间谍任务。美国太空军部队执行侦察任务的 USA-324 卫星分别于 4 月 26 日和 4 月 29 日移动到通信技术试验卫星十六号和十七号的 16 公里范围内进行侦察，显示了对四大天王卫星的兴趣。",
+          "link": "https://www.solidot.org/story?sid=81329",
+          "publishedOn": "2025-05-19T10:13:35.000Z",
+          "wordCount": 182,
+          "title": "中国将佛教四大天王用作试验卫星任务徽章",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81328",
+          "author": null,
+          "description": "微软今年迎来了成立五十周年。过去五十年，微软的 Windows 操作系统已成为数字基础设施的一部分，以至于世界很多地方仍然依赖于早就过时的 Windows 版本和旧电脑。弗吉尼亚理工大学研究旧技术维护的副教授 Lee Vinsel 表示，某种程度上 Windows 是终极基础设施，是比尔盖茨如此富有的原因，Windows 系统融入到生活的方方面面，证明了微软的成功和神奇之处。ATM 专家 Elvis Montiero 称，很多 ATM 机器仍然运行 Windows XP 甚至 Windows NT，升级系统的困难在于硬件兼容性、合规和重写私有软件相关的高昂成本。微软在 2014 年终止支持 XP，但旧系统的可靠性、稳定性以及与银行基础设施的集成，以至于今天的 ATM 机器仍然依赖它。2024 年德国铁路仍然在招聘精通 Windows 3.11 和 MS-DOS 的 IT 管理员。",
+          "link": "https://www.solidot.org/story?sid=81328",
+          "publishedOn": "2025-05-19T09:28:51.000Z",
+          "wordCount": 210,
+          "title": "仍旧在使用过时 Windows 电脑的人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81327",
+          "author": null,
+          "description": "小米宣布其自主研发设计的手机 SoC 芯片玄戒O1 将在 5 月下旬发布。根据已泄漏的信息，该芯片由台积电使用 4 纳米工艺制造，采用 1+3+4 布局，其性能略落后于高通骁龙 8 Elite和联发科天玑 9400，类似 Google 的自研芯片 Tensor。小米是最新一家自研芯片的手机制造商，华为是因为出口管控而自研芯片，三星有 Exynos 系列芯片。小米 15s 预计将搭载使用玄戒O1。",
+          "link": "https://www.solidot.org/story?sid=81327",
+          "publishedOn": "2025-05-19T07:50:54.000Z",
+          "wordCount": 175,
+          "title": "小米宣布自研手机芯片玄戒O1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81326",
+          "author": null,
+          "description": "杀毒软件会使用 Windows Security Center (WSC) API 通知 Windows 已安装并执行实时保护。为避免操作系统同时运行多个安全软件导致冲突，Windows 会禁用系统自带的安全软件 Microsoft Defender。研究员 es3n1n 开发了名为 Defendnot 的工具滥用了该 API，通过注册虚假的杀毒软件去禁用 Microsoft Defender。Defendnot 是基于一个已删除的项目 no-defender，no-defender 使用了第三方杀毒软件的代码去伪造 WSC 注册，在该杀毒软件开发商递交了 DMCA 删除申请后，开发者从 GitHub 下架了 no-defender。Defendnot 利用虚假的杀毒软件 DLL 规避了版权问题。WSC API 受到 Protected Process Light (PPL)、有效数字签名和其他功能的保护。Defendnot 通过将 DLL 注入到已由微软签名并信任的系统进程 Taskmgr.exe 中绕过了这些要求。",
+          "link": "https://www.solidot.org/story?sid=81326",
+          "publishedOn": "2025-05-19T07:06:34.000Z",
+          "wordCount": 227,
+          "title": "Defendnot 工具欺骗 Windows 禁用 Microsoft Defender",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81325",
+          "author": null,
+          "description": "xAI 的 AI 聊天机器人 Grok 上周短时间内会对任何话题都用南非“白人种族灭绝”进行回应。xAI 回应称这一行为是 Grok 系统提示被“未经授权修改”造成的，提示修改指示 Grok 对政治话题做出特定回应，“违反了 xAI 的内部政策和核心价值观”，规避了针对此类修改的代码审核流程。xAI 没有提供更多细节，但表示已经采取措施确保 xAI 员工在未经审查的情况下无法修改提示。但如果 CEO 想修改的话该公司的措施能否抵御修改？",
+          "link": "https://www.solidot.org/story?sid=81325",
+          "publishedOn": "2025-05-19T06:22:22.000Z",
+          "wordCount": 197,
+          "title": "xAI 称 Grok 的系统提示被未经授权修改导致它喋喋不休的谈论南非“白人种族灭绝”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81324",
+          "author": null,
+          "description": "以廉价织物印花机（fabric printing）知名的深圳公司 Procolored 被发现官方驱动含有恶意程序。YouTube 主播 Cameron Coward 在为一台售价 7,000 美元的 Procolored UV 打印机安装配套软件和驱动时，其杀毒软件对 Floxif USB 蠕虫病毒发出了警告。安全公司 G Data 的研究人员随后展开的调查发现，恶意程序在 Procolored 官方软件包中至少存在了 6 个月时间。而 Procolored 在收到警告后认为是杀毒软件误报。调查发现，Procolored 至少有六个型号的打印机（F8、F13​​、F13 Pro、V6、V11 Pro 和 VF13 Pro）及其托管在 Mega 文件共享平台上的配套软件含有恶意软件。分析发现 39 个文件感染了恶意程序 XRedRAT 以及窃取加密货币的 SnipVex，其中 SnipVex 使用的钱包地址有约 9,308 个 BTC，价值近 100 万美元。Procolored 承认它可能使用了感染 Floxif 的 U 盘将文件上传到 Mega.nz，相关软件已经下架，并启动了内部调查。",
+          "link": "https://www.solidot.org/story?sid=81324",
+          "publishedOn": "2025-05-19T05:50:53.000Z",
+          "wordCount": 210,
+          "title": "Procolored 官方打印机驱动被发现含有恶意程序",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81323",
+          "author": null,
+          "description": "许多哺乳动物都有橘色变种——如老虎、金毛犬、红毛猩猩和红发人类——但只有家猫的橘色特征与性别相关，且更多出现在雄性身上。从雄性橘猫占多数这一现象，科学家推测这种被称为\"性连锁橘色\"的突变位于X染色体上。任何携带该突变的雄性猫都会呈现全橘色，而雌性猫需要两条X染色体都携带该突变才会全橘——这种情况更为罕见。携带单拷贝突变的雌猫会呈现部分橘色——要么是玳瑁斑纹，要么是橘黑白相间的三花图案。这是由于雌性特有的X染色体随机失活现象，即每个细胞中有一条X染色体被关闭。这导致色素细胞形成镶嵌图案，部分表达性连锁橘色特征，部分则不表达。研究人员在 X 染色体上寻找雄性橘猫共有的变异，发现一个变异增加了 Arhgap36 基因在色素细胞中的异常表达。",
+          "link": "https://www.solidot.org/story?sid=81323",
+          "publishedOn": "2025-05-19T02:43:27.000Z",
+          "wordCount": 161,
+          "title": "科学家发现橘猫的基因突变",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81322",
           "author": null,
@@ -903,66 +1033,6 @@
           "wordCount": 205,
           "title": "用 AI 作过一次弊的学生可能会一直用 AI 作弊",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81256",
-          "author": null,
-          "description": "NASA 发布三则最新声音化作品，将哈勃太空望远镜（Hubble）、詹姆斯・韦伯太空望远镜（James Webb）、钱德拉 X 射线天文台（Chandra）、X 光偏振成像卫星（IXPE）等太空望远镜所搜集的观测资料，转译为音乐形式，带领听众用耳朵探索宇宙中最极端的天体：黑洞。这三段声音化作品分别呈现黑洞形成前的恒星状态、黑洞与伴星的动态交互作用，以及黑洞巨大能量喷流的壮观景象。",
-          "link": "https://www.solidot.org/story?sid=81256",
-          "publishedOn": "2025-05-10T13:54:09.000Z",
-          "wordCount": 167,
-          "title": "NASA 将天文观测数据音乐化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81255",
-          "author": null,
-          "description": "美国咖啡店正采取措施限制客户长时间占据座位，将咖啡店当作远程办公场所使用的行为。纽约 Devocion 连锁店将 WiFi 开放限制在工作日两小时时段，周末则完全关闭。底特律 Alba 咖啡店自 2023年 开业以来一直没有提供 WiFi。部分咖啡店甚至用胶带封住了电源插座。华盛顿 DC 咖啡馆 Elle 一开始没有提供 WiFi，因网上的差评而改为 WiFi 开放时间限制在周一至周四上午 8 点至下午 3 点，使用时间上限为 90 分钟。当然也有咖啡店认识到部分客户有远程办公的需求。它们特地为远程办公的客户提供了单独的房间，按小时收费，如果额外消费的话可获得积分。",
-          "link": "https://www.solidot.org/story?sid=81255",
-          "publishedOn": "2025-05-10T13:44:44.000Z",
-          "wordCount": 187,
-          "title": "美国咖啡店限制客户将其作为办公场所",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81254",
-          "author": null,
-          "description": "根据杜克大学研究人员在 PNAS 期刊上发表的一项研究，使用 AI 是一把双刃剑——生成式 AI 可能会提高部分人的生产力，但也可能会损害他们的职业声誉。研究发现，在工作中使用 ChatGPT、Claude 和 Gemini 等 AI 工具的员工会面临同事和上司对其能力和积极性的负面评价。研究团队对逾 4400 名参与者展开了四项实验，调查对使用 AI 工具的用户的预期和实际评价。研究揭示了人们对使用 AI 帮助完成工作的人存在一致的偏见。针对 AI 用户的社会污名并不局限于特定人群。",
-          "link": "https://www.solidot.org/story?sid=81254",
-          "publishedOn": "2025-05-10T13:21:15.000Z",
-          "wordCount": 184,
-          "title": "研究发现使用 AI 可能会损害职业声誉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81253",
-          "author": null,
-          "description": "墨西哥就 Google Maps 针对美国用户将“墨西哥湾（Gulf of Mexico）”改名为“美国湾（Gulf of America）”起诉 Google。美国众议院周四投票通过了改名法案，要求联邦机构将所有地图和文件中的“墨西哥湾”都改名为“美国湾”。墨西哥总统 Claudia Sheinbaum 表示，根据国际规则，墨西哥湾是一个多国共享的水域，其名称具有国际法律效力，而美国只有权将美国大陆架部分改名为美国湾，而不是给整片海域命名。现有美国领土有很大一部分两百年前是属于墨西哥，墨西哥湾就是这历史的一部分。",
-          "link": "https://www.solidot.org/story?sid=81253",
-          "publishedOn": "2025-05-10T11:34:15.000Z",
-          "wordCount": 182,
-          "title": "墨西哥就地图将墨西哥湾改名为美国湾起诉 Google",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81252",
-          "author": null,
-          "description": "松下宣布将在全球裁员1万人左右，占员工总数的近 5%。作为结构性改革费用，将计入 1300 亿日元损失，并募集提前离职者。裁员将于 2025 至 2026 年度实施。社长楠见雄规召开线上记者会，称“经营责任在我，我深感愧疚”。他还表示将返还自己总报酬的约 40%。裁员设想的是国内、海外各5000人左右。松下控股的合并员工总数截至 2025 年 3 月底为 20.7548 万人。",
-          "link": "https://www.solidot.org/story?sid=81252",
-          "publishedOn": "2025-05-10T11:00:58.000Z",
-          "wordCount": 170,
-          "title": "松下将裁员一万人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81251",
-          "author": null,
-          "description": "即将发布的 Linux 6.15 将停止支持有 36 年历史的 486 以及第一代奔腾处理器。微软早在 2001 年发布 Windows XP 后就停止了对 486 的支持。Linux 作者 Linus Torvalds 在内核邮件列表上表示是时候放弃支持  i486 了，不值得在 i486 上浪费开发精力。资深内核开发者 Ingo Molnar 解释说，为了支持已经很少有人使用的旧 x86-32 架构，内核开发者花费了很多力气去实现兼容性。这种兼容性粘合常常会带来需要大量精力解决的问题，这些时间本可以做其它事情。Linux 是在 2012 年停止支持 386。未来对 x86 CPU 的支持最低将是 P5 微架构的奔腾处理器。",
-          "link": "https://www.solidot.org/story?sid=81251",
-          "publishedOn": "2025-05-09T15:50:47.000Z",
-          "wordCount": 220,
-          "title": "Linux 停止支持 486 和第一代奔腾处理器",
-          "imageUrl": null
         }
       ]
     },
@@ -1053,6 +1123,16 @@
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         },
         {
+          "id": "https://catonmat.net/645-million-google-clicks",
+          "author": null,
+          "description": "Yesterday Online PNG Tools smashed through 6.44M Google clicks and today it's smashed through 6.45M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!\nWhat Are Online PNG Tools?\nOnline PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.\nWho Created Online PNG Tools?\nOnline PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.\nWho Uses Online PNG Tools?\nOnline PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.\nSmash too and see you tomorrow at 6.46M clicks! 📈\nPS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸",
+          "link": "https://catonmat.net/645-million-google-clicks",
+          "publishedOn": "2025-05-16T09:09:09.000Z",
+          "wordCount": 386,
+          "title": "6.45 Million Google Clicks! 💸",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/644-million-google-clicks",
           "author": null,
           "description": "Yesterday Online PNG Tools smashed through 6.43M Google clicks and today it's smashed through 6.44M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!\nWhat Are Online PNG Tools?\nOnline PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.\nWho Created Online PNG Tools?\nOnline PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.\nWho Uses Online PNG Tools?\nOnline PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.\nSmash too and see you tomorrow at 6.45M clicks! 📈\nPS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸",
@@ -1100,26 +1180,6 @@
           "publishedOn": "2025-05-11T12:11:11.000Z",
           "wordCount": 364,
           "title": "Sunday Sale! 50% OFF! ☀️",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/saturday-sale",
-          "author": null,
-          "description": "At Browserling and Online Tools we love sales.\nWe just created a new automated Saturday Sale.\nNow on Saturdays, we show a 50% discount offer to all users who visit our site.\nBuy Now!\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing\nWhat Is Browserling?\nBrowserling is an online service that lets you test how other websites look and work in different web browsers, like Chrome, Firefox, or Safari, without needing to install them. It runs real browsers on real machines and streams them to your screen, kind of like remote desktop but focused on browsers. This helps web developers and regular users check for bugs, suspicious links, and weird stuff that happens in certain browsers. You just go to Browserling, pick a browser and version, and then enter the site you want to test. It's quick, easy, and works from your browser with no downloads or installs.\nWhat Are Online Tools?\nOnline Tools is a website that offers free, browser-based productivity tools for everyday tasks like editing text, converting files, editing images, working with code, and way more. It's an all-in-one Digital Swiss Army Knife with 1500+ utilities, so you can find the exact tool you need without installing anything. Just open the site, use what you need, and get things done fast.\nWho Uses Browserling and Online Tools?\nBrowserling and Online Tools are used by millions of regular internet users, developers, designers, students, and even Fortune 100 companies. Browserling is handy for testing websites in different browsers without having to install them. Online Tools are used for simple tasks like resizing or converting images, or even fixing small file problems quickly without downloading any apps.\nBuy a subscription now and see you next time!",
-          "link": "https://catonmat.net/saturday-sale",
-          "publishedOn": "2025-05-10T12:10:10.000Z",
-          "wordCount": 362,
-          "title": "Saturday Sale! 50% OFF! 🎁",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/646-million-google-clicks",
-          "author": null,
-          "description": "Yesterday Online PNG Tools smashed through 6.45M Google clicks and today it's smashed through 6.46M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!\nWhat Are Online PNG Tools?\nOnline PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.\nWho Created Online PNG Tools?\nOnline PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.\nWho Uses Online PNG Tools?\nOnline PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.\nSmash too and see you tomorrow at 6.47M clicks! 📈\nPS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸",
-          "link": "https://catonmat.net/646-million-google-clicks",
-          "publishedOn": "2025-05-10T10:10:10.000Z",
-          "wordCount": 388,
-          "title": "6.46 Million Google Clicks! 💰",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
