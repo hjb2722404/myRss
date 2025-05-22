@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/microsoft-edit-open-source/",
+          "author": "青小蛙",
+          "description": "Edit，就叫这个名字。这是微软刚刚开源的一款 Windows、Linux 命令行编辑器，未来将会作为 Windows 11 的一部分发布。支持鼠标控制菜单、可同时打开多个文件、拥有查找与替换功能、支",
+          "link": "https://www.appinn.com/microsoft-edit-open-source/",
+          "publishedOn": "2025-05-21T09:08:49.000Z",
+          "wordCount": 2590,
+          "title": "Vim 替代者？微软发布开源命令行编辑器 Edit，大小不到 250kB",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-21T164114.083.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/xtool-for-ios/",
+          "author": "青小蛙",
+          "description": "xtool 是一款开发者工具，它是跨平台的 Xcode 替代品，使用 SwiftPM 在 Linux、Windows 和 macOS 上构建和部署 iOS 应用，没有 Mac 设备也能编写 iOS 应",
+          "link": "https://www.appinn.com/xtool-for-ios/",
+          "publishedOn": "2025-05-21T08:09:50.000Z",
+          "wordCount": 2966,
+          "title": "xtool – 跨平台 Xcode 替代品：用 Linux、Windows 构建和部署 iOS 应用",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-21T153830.098.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/aria2manager/",
+          "author": "青小蛙",
+          "description": "Aria2Manager 是一款 Windows 下的 Aria2 图形客户端，自带 Aria2 即开即用，也支持多 Aria2 服务器，还能自动更新 BT 专用 Trackers。无需配置 Aria",
+          "link": "https://www.appinn.com/aria2manager/",
+          "publishedOn": "2025-05-21T05:59:35.000Z",
+          "wordCount": 2626,
+          "title": "Aria2Manager – 即开即用，下载神器 Aria2 图形客户端，多 Aria2 服务器管理、自动更新 Trackers",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-21T132100.471.jpg"
+        },
+        {
           "id": "https://www.appinn.com/lizhi-25618/",
           "author": "青小蛙",
           "description": "风口浪尖的数码荔枝618活动开始了。挑几款价格合适的正版软件： — Windows — Directory Opus 限时 85 折，仅需 92.65 元起 Directory",
@@ -180,26 +210,6 @@
           "wordCount": 2582,
           "title": "又可以 GPU 炼丹了？全球首个通过分布式算力进行训练的 320 亿参数大模型 INTELLECT-2 发布",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-13T114450.337.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/27kb-simple-todo/",
-          "author": "青小蛙",
-          "description": "Simple Todo 是一款仅有 27KB 大小的 Windows Todo 工具，开源，功能简单、功能极简，仅用来展示 27KB 而已。@Appinn 功能非常简单，仅有添加、删除、标记完成，以及",
-          "link": "https://www.appinn.com/27kb-simple-todo/",
-          "publishedOn": "2025-05-12T08:48:26.000Z",
-          "wordCount": 2670,
-          "title": "Simple Todo – 仅 27 KB 的原生、开源 Windows Todo 工具，纯 C 语言和 Win32 API 构建",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-12T163220.442.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/windows-10-microsoft-365-3-years-security/",
-          "author": "青小蛙",
-          "description": "Windows 10 将于 2025年10月14日结束支持，这件事没有变化。 变化的是，原来会随着 Windows 10 一起结束支持的 Microsoft 365（在 Win10 上），将会继续得到",
-          "link": "https://www.appinn.com/windows-10-microsoft-365-3-years-security/",
-          "publishedOn": "2025-05-12T02:53:11.000Z",
-          "wordCount": 3001,
-          "title": "Windows 10 结束后，微软为 Microsoft 365 续命，将提供额外三年的安全更新",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-12T103756.696.jpg"
         }
       ]
     },
@@ -208,6 +218,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=386716",
+          "author": "Geoff Graham",
+          "description": "Shape master Temani Afif has what might be the largest collection of CSS shapes on the planet with all the tools to generate them on the fly. There’s a mix of clever techniques he’s typically used to make those shapes, …\nSVG to CSS Shape Converter originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/svg-to-css-shape-converter/",
+          "publishedOn": "2025-05-21T15:09:29.000Z",
+          "wordCount": 2052,
+          "title": "SVG to CSS Shape Converter",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/08/adaptive-icons.png"
+        },
         {
           "id": "https://css-tricks.com/?p=386580",
           "author": "Juan Diego Rodríguez",
@@ -252,16 +272,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-01-at-8.12.35%E2%80%AFAM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=386522",
-          "author": "Ryan Trimble",
-          "description": "I know, I know: there are a ton of content management system options available, and while I've tested several, none have really been the one, y'know? Weird pricing models, difficult customization, some even end up becoming a whole 'nother thing to manage.\nUsing Pages CMS for Static Site Content Management originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/using-pages-cms-for-static-site-content-management/",
-          "publishedOn": "2025-05-12T12:42:10.000Z",
-          "wordCount": 3771,
-          "title": "Using Pages CMS for Static Site Content Management",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/Screenshot-2025-05-06-at-9.28.56%E2%80%AFPM-scaled.png"
         }
       ]
     },
@@ -304,6 +314,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81358",
+          "author": null,
+          "description": "巴西研究人员使用公共 API 抓取了逾 20 亿条 Discord 消息，匿名化数据后将其公开。此举引发了 Discord 社区的恐慌，担心隐私曝光。Discord 服务器由用户生成，可设置为公开或私有，新用户可通过发现功能搜寻公开的服务器。研究人员利用该功能绘制了所有公开服务器的地图，截至 2024 年 11 月 17 日，共发现 31,673 个服务器。他们随机选择了其中 10% 的服务器进行数据抓取，汇集了 2015-2024 年期间发布的帖子，他们发布的数据集包含了 3,167 台服务器的 4,735,057 名独立用户的 2,052,206,308 条消息，压缩后的数据库容量为 118GB。研究人员表示创建该数据集是为了方便其他研究人员进行各种主题的研究。",
+          "link": "https://www.solidot.org/story?sid=81358",
+          "publishedOn": "2025-05-21T15:52:20.000Z",
+          "wordCount": 201,
+          "title": "巴西研究人员抓取 20 亿条 Discord 消息公开发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81357",
+          "author": null,
+          "description": "马普人类发展研究所研究人员分析了过去 20 年英语新闻机构的约 4000 万条新闻标题，发现新闻标题过去二十年越来越长越来越负面，越来越注重增加点击率而不管新闻质量。研究人员将互联网比作一个巨大的市场，记者利用标题争夺读者的注意力。在数字时代，注意力是一种稀缺而宝贵的商品，内容的制作成本比以往任何时候都低——导致了内容供应过剩，为吸引读者兴趣而展开激烈的竞争。标题在吸引读者上发挥着重要作用。标题需要能抓住读者的注意力并激发好奇心，而点击量可用于衡量一个标题是否成功。研究人员表示，标题的措辞是为了尽可能增加点击率，它事实上变成了一种点击诱饵。纸媒的标题需要清晰简洁，而网媒的标题则被策略性地设计用于增加点击。过去二十年，网媒的标题越来越长，以对话语气书写去激发读者的好奇心但同时不会透露太多信息。相关技巧包括使用主动动词，使用代词如“我”、“你”或“他们”，高频使用疑问词如“如何”、“什么”、“为什么”。这些元素通过创造信息鸿沟去激发读者的好奇心，而读者只有点击阅读文章才能填上这一鸿沟。研究还发现具有完整句子的标题更具有活力和情感，其具有的叙事结构更能唤起情感。情绪分析显示，无论是高质量的新闻媒体还是低质量的八卦媒体，标题平均变得更加负面。研究人员还发现，右翼媒体相比左翼媒体和中立媒体会更高频率的使用负面标题。研究人员对这一趋势增加读者区分严肃内容和操纵性内容的难度表达了担忧。",
+          "link": "https://www.solidot.org/story?sid=81357",
+          "publishedOn": "2025-05-21T13:41:53.000Z",
+          "wordCount": 160,
+          "title": "新闻标题过去二十年越来越长越来越负面",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81356",
+          "author": null,
+          "description": "Google 在 I/O 2025 大会上宣布了能同步音频的 AI 视频生成器 Veo 3，用于生成高质量图像的 Imagen 4，以及用于电影级视频创作的工具 Flow。类似 OpenAI，Google 也推出了一个更高的付费订阅级别——月费 249.99 美元的 Ultra，相比下 OpenAI 最高的付费等级是 200 美元月费的 ChatGPT Pro。Ultra 美国用户将可以访问最新的视频生成模型 Veo 3，Vertex AI 企业平台用户也将能访问 Veo 3。",
+          "link": "https://www.solidot.org/story?sid=81356",
+          "publishedOn": "2025-05-21T12:49:52.000Z",
+          "wordCount": 201,
+          "title": "Google 的视频生成模型 Veo 3 能同步音频",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81355",
+          "author": null,
+          "description": "中国天宫空间站拭子样本发现未知菌种，其特性可能有助于适应太空的极端环境。神舟太空生物科技集团和北京航天器系统工程研究所的研究人员将该细菌以天宫命名为天宫尼尔菌（Niallia tiangongensis）。相关拭子是神舟十五号宇航员于 2023 年 5 月从空间站内收集的，该研究旨在调查居住环境的微生物组。天宫尼尔菌被认为可能与杆状土壤细菌环状尼尔菌（Niallia circulans）有近亲关系。环状尼尔菌及其太空近亲能将生命活性物质封装在坚固孢子中以抵御极端压力。目前尚不清楚天宫尼尔菌是在空间站演化形成，还是以孢子形态抵达空间站时已具备部分特征。基因分析显示，该菌种具有分解明胶获取氮碳元素的独特能力，这种特性有助于其在恶劣环境下构建生物膜保护层。",
+          "link": "https://www.solidot.org/story?sid=81355",
+          "publishedOn": "2025-05-21T12:24:48.000Z",
+          "wordCount": 163,
+          "title": "天宫空间站拭子发现未知菌种",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81354",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一项研究，猴痘全球疫情爆发前已在尼日利亚传播了八年。研究人员共分析了 2018 年至 2023 年期间发生在尼日利亚和喀麦隆的 118 例人类猴痘病例的病毒基因组。所有序列都被鉴定为 II b分支，也就是在西非流行的猴痘毒株。通过比较基因组的序列，他们创建了系统发育树。研究人员发现，尼日利亚的大多数病毒样本（105/109）都是人际传播的结果，而其余四个是由人畜共患传播引起的。相比之下，喀麦隆的所有九个猴痘样本都来自孤立的人畜共患传播事件。利用系统发育树，研究团队估计，人际传播的猴痘病毒的祖先于 2013 年 11 月在动物中出现，并于 2014 年 8 月首次出现在尼日利亚南部的人群中。",
+          "link": "https://www.solidot.org/story?sid=81354",
+          "publishedOn": "2025-05-21T09:45:12.000Z",
+          "wordCount": 173,
+          "title": "猴痘全球疫情爆发前已在尼日利亚传播了八年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81353",
+          "author": null,
+          "description": "曾在俄罗斯联邦国家统计局（Rosstat）工作的人口统计学家 Alexey Raksha 称该国最近开始停止披露人口统计数据细节。联邦统计局在 5 月 16 日发布的月度报告中删除了出生和死亡数据，以及每月结婚和离婚数据。他指出，事实上自 2025 年 3 月以来，俄罗斯几乎没有公开人口统计数据。俄罗斯此举的背景是人口出生率降至了二百年来的最低水平。2025 年第一季度俄罗斯登记的新生儿数量在 29.3 万至 29.4 万之间，比去年第一季度下降了 2.4%。每名妇女平均生育子女数量从 1.432 略微降至 1.431。克里姆林宫发言人 Dmitry Peskov 此前表示，俄罗斯是世界最大的国家，但人口却在下降，解决该问题的唯一办法是提高生育率。",
+          "link": "https://www.solidot.org/story?sid=81353",
+          "publishedOn": "2025-05-21T09:35:02.000Z",
+          "wordCount": 179,
+          "title": "俄罗斯停止公开人口统计数据细节",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81352",
+          "author": null,
+          "description": "IEEE Transactions on Multimedia 期刊刊登的一篇论文《MPCT: Multiscale Point Cloud Transformer With a Residual Network》被发现包含中文脏话，在中文社交媒体上引发了关注。论文第 6 页包含一句骂第二作者 Jiaming Liu 的话，论文第一作者 Yue Wu 是西安电子科技大学协同智能系统教育部重点实验室副主任，是第二作者 Jiaming Liu 的硕士导师，Liu 本人已经在 2024 年毕业，正在另一所学校读博。IEEE Transactions on Multimedia 表示正对此展开调查。",
+          "link": "https://www.solidot.org/story?sid=81352",
+          "publishedOn": "2025-05-21T09:17:27.000Z",
+          "wordCount": 195,
+          "title": "IEEE 刊登的一篇论文被发现包含中文脏话",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81350",
+          "author": null,
+          "description": "法国当局拒绝了 Telegram 创始人 Pavel Durov 前往美国“与投资基金协商”的请求。巴黎检察院是于 5 月 12 日作出这一决定的，它的理由是此类出国旅行似乎既不必要也无正当理由。Pavel Durov 于 2024 年 8 月在法国机场被捕，9 月被控与其运营的 Telegram 平台上非法活动相关的六项罪名，他被禁止未经许可离开法国。他在今年 3 月 15 日至 4 月 7 日期间获得了前往迪拜的许可。他拥有阿联酋和法国等国的公民身份。",
+          "link": "https://www.solidot.org/story?sid=81350",
+          "publishedOn": "2025-05-21T07:38:04.000Z",
+          "wordCount": 202,
+          "title": "法国禁止 Telegram 创始人 Pavel Durov 前往美国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81349",
+          "author": null,
+          "description": "《芝加哥太阳报(Chicago Sun-Times)》周日刊登了夏季推荐书单（Summer reading list for 2025），被发现推荐的 15 本书有 10 本是 AI 虚构的，书根本不存在，但作者是真实存在的，比如 Isabel Allende 的《Tidewater Dreams》和 Andy Weir 的《Last Algorithm》。书单作者 Marco Buscaglia 证实他使用了 AI 去生成内容，他表示自己通常会对 AI 生成内容进行真实性核查，但这一次没有，他称这完全是自己的错，对此感到尴尬。《芝加哥太阳报》通过社交媒体发表声明称正对此展开调查，表示将会公布调查结果。",
+          "link": "https://www.solidot.org/story?sid=81349",
+          "publishedOn": "2025-05-21T07:08:22.000Z",
+          "wordCount": 199,
+          "title": "报纸刊登的推荐书单名被发现多数是 AI 捏造的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81348",
+          "author": null,
+          "description": "美国地区性州立大学入学人数大幅下降，这些大学所在的城市从繁荣走向了萧条。与此同时，顶尖大学的入学人数则在继续增长。位于伊利诺伊州 Macomb 的西伊利诺伊大学自 2010 年以来入学人数暴跌了 47%，导致 Macomb 人口下降 23% 至 14,765 人。空置的宿舍被重新利用或拆除，当地企业则艰难求生。对美国 748 所公立四年制大学的分析显示，2015-2023 年间知名州立大学的入学人数增长了 9%，地区性州立学校的入学人数下降了 2%。田纳西大学诺克斯维尔分校的入学人数增长了 30%，该州地区性学院的入学人数总体下降了 3%。美国高中毕业生人数预计从明年开始下降，大学城前景黯淡。",
+          "link": "https://www.solidot.org/story?sid=81348",
+          "publishedOn": "2025-05-21T06:46:33.000Z",
+          "wordCount": 174,
+          "title": "美国大学城走向萧条",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81347",
+          "author": null,
+          "description": "Google 在 I/O 2025 大会上宣布开始向美国搜索服务的用户推送 AI 模式（A.I. Mode）——以对话的方式向用户返回所查询问题的答案，工作方式类似 AI 聊天机器人。AI 模式此前通过 Labs 提供给用户试用，在 I/O 2025 上 Google 宣布了一系列新功能，包括新购物工具，比价，为金融和体育查询创建自定义图表和图形，等等。AI 模式使用的大模型是 Gemini 2.5 的一个定制版本。Google 计划未来为 AI 模式引入深度研究（Deep Research）模式的分支深度搜索（Deep Search）。",
+          "link": "https://www.solidot.org/story?sid=81347",
+          "publishedOn": "2025-05-21T05:27:35.000Z",
+          "wordCount": 194,
+          "title": "Google 搜索开始向美国用户提供 AI 模式",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81346",
           "author": null,
@@ -1053,136 +1173,6 @@
           "wordCount": 183,
           "title": "加密货币公司创始人伪造了自己的死亡",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81269",
-          "author": null,
-          "description": "去年法官裁决 Google 非法维持搜索主导地位的行为违反了反垄断法。美国司法部提出的一项建议是强迫 Google 剥离 Chrome。Google 对此的回应是出售 Chrome 会对隐私和安全产生负面影响，坚称它是唯一能有效运营 Chrome 的公司，它的技术已经深度嵌入在浏览器中。Google 还声称 Chrome 的价格太昂贵没有人能负担得起。Google 显然低估了竞争对手的贪婪。上周审讯的补充阶段已经结束，有逾 20 名证人出席，几乎每一个人都表达了收购 Chrome 的愿望。雅虎的 Brian Provos 表示，该公司内部在开发能支持搜索业务的浏览器，仅仅开发出一个原型就需要花费 6-9 个月时间，收购 Chrome 将会快得多，其搜索份额会迅速从个人数增加到两位数。OpenAI ChatGPT 产品经理 Nick Turley 表示该公司也探索过开发浏览器，而收购 Chrome 将使其立即拥有 35 亿用户。Google 无疑是不想要失去 Chrome。",
-          "link": "https://www.solidot.org/story?sid=81269",
-          "publishedOn": "2025-05-12T14:59:14.000Z",
-          "wordCount": 205,
-          "title": "人人都想要 Chrome",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81268",
-          "author": null,
-          "description": "中美上周末在瑞士举行经贸高层会谈。北京时间 12 日下午三点左右，两国同步发表中美日内瓦经贸会谈联合声明，双方承诺将于 2025 年 5 月 14 日前，大幅降低过去一个多月来互相加征的关税，以继续推进谈判。双方对对方商品保留 10% 的加征关税，加征的 24% 关税暂停实施 90 天。其他新增关税全部取消。中国还会“暂停或取消”对美国的非关税反制措施，此举可能涉及中国对美国的稀土产品出口禁令。联合声明还称，采取上述举措后，中美将建立机制，进行经贸关系协商。",
-          "link": "https://www.solidot.org/story?sid=81268",
-          "publishedOn": "2025-05-12T10:03:49.000Z",
-          "wordCount": 171,
-          "title": "中美宣布大幅降低关税",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81267",
-          "author": null,
-          "description": "美国 28 个最大城市中有 25 个正在下沉，可能会影响数千座建筑物和数百万人。其中沃斯堡、休斯顿和达拉斯的下沉速度最快，平均每年超过 4 毫米。纽约、芝加哥、哥伦布、西雅图和丹佛，平均每年下沉超过 2 毫米。休斯顿 42% 的陆地每年下沉超过 5 毫米，12% 的陆地每年下沉超过 10 毫米。大部分下沉是由地下水开采引起的，然而在一些城市，如纽约、费城和华盛顿特区，下沉主要是由“冰川均衡调整”引起的。在上一个冰河时期，这些地区被巨大的冰盖覆盖。冰的绝对重量压迫地壳，就像坐在记忆海绵床垫上。当几千年前冰融化时，压力解除，地面开始缓慢反弹，但这种反弹并不均匀。部分地区如美国东海岸和中西部，陆地仍在下沉而不是上升，因为它们靠近前隆地带，这是一个被附近冰的重量推高的区域，现在正在塌陷。",
-          "link": "https://www.solidot.org/story?sid=81267",
-          "publishedOn": "2025-05-12T09:52:42.000Z",
-          "wordCount": 181,
-          "title": "美国 25 个大城市在下沉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81266",
-          "author": null,
-          "description": "大质量恒星在生命末期可能会塌陷发生超新星爆发，而靠近地球的超新星爆发则可能会毁灭地球上的生命。研究团队调查了地球方圆 3,260 光年内的大质量恒星，估算出距离地球 65 亿光年内，每 10 亿年大约发生 2.5 次会对地球产生巨大影响的超新星爆发。这一频率与地球上的大规模生命灭绝事件吻合：4.45 亿年前的奥陶纪灭绝事件以及 3.72 亿年前的泥盆纪灭绝事件。这两起灭绝事件都与臭氧层丧失有关，而超新星爆发释放的大量辐射是臭氧层遭到破坏的原因之一。对人类而言幸运的是，未来数百万年内只有两颗大质量恒星——参宿四和心宿二——可能会超新星爆发。而两颗恒星距离超过 500 光年，地球处于安全距离内，它们不会产生致命影响。",
-          "link": "https://www.solidot.org/story?sid=81266",
-          "publishedOn": "2025-05-12T09:45:11.000Z",
-          "wordCount": 187,
-          "title": "参宿四超新星爆发是否会毁灭地球？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81265",
-          "author": null,
-          "description": "德国拜罗伊特大学研究团队首次运用 CRISPR-Cas9 基因编辑技术改造蜘蛛基因，让蜘蛛吐出了散发红色荧光的丝线。这项研究为开发新型生物材料开辟了新途径。蜘蛛丝堪称自然界的“生物钢丝”，不仅具有惊人的抗撕裂性和弹性，还非常轻、可以降解。若能通过基因编辑精准调控蜘蛛产丝过程，有望研制出性能更优异的仿生丝材料，广泛应用于多个领域。在最新研究中，团队调配出含有基因编辑组份和红色荧光蛋白基因序列的注射溶液，将其注入雌蛛未受精的卵细胞后，再与雄蛛进行交配。令人振奋的是，基因编辑后的蜘蛛后代成功吐出了红色荧光丝，这标志着外源基因序列已稳定插入丝蛋白内。",
-          "link": "https://www.solidot.org/story?sid=81265",
-          "publishedOn": "2025-05-12T08:42:59.000Z",
-          "wordCount": 161,
-          "title": "基因编辑让蜘蛛吐彩丝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81264",
-          "author": null,
-          "description": "因违反打包政策 openSUSE 项目移除了 Deepin 桌面环境。Deepin 项目通过官方论坛发表声明表示将改进安全响应和修复安全问题。声明称，“过去几年，openSUSE安全团队指出的相关安全隐患，由于社区在安全响应机制上的不足，部分问题未能及时修复。对此，我们向 openSUSE 团队、下游打包者及所有受影响的用户郑重致歉，并承诺以此次事件为契机，全面推进系统性的优化改进。在收到openSUSE团队的声明后，我们已经在第一时间和openSUSE团队及openSUSE的deepin桌面环境的软件包维护贡献者进行了沟通，也将我们后续的改进措施同步到了openSUSE安全团队。”Deepin 项目表示将全面整改。",
-          "link": "https://www.solidot.org/story?sid=81264",
-          "publishedOn": "2025-05-12T08:05:57.000Z",
-          "wordCount": 170,
-          "title": "deepin 社区表示将改进安全响应和修复安全问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81263",
-          "author": null,
-          "description": "美国版权局上周五发表了一份有关使用版权材料训练 AI 模型是否是合理使用的报告，次日特朗普下令解雇了该局局长 Shira Perlmutter。科技巨头和 AI 公司是特朗普的支持者，其中马斯克（Elon Musk）旗下的 AI 公司是众多希望使用版权材料训练 AI 模型的公司之一。美国版权局的报告区分了研究用的 AI 模型和商业性 AI 模型，认为研究用的 AI 模型能带来变革，但商业性模型生成的是与训练使用的版权作品相似的输出，不太可能被视为带来变革性。商业用的 AI 训练类似人类学习。版权局更多是站在了版权所有者而不是 AI 公司这一边。",
-          "link": "https://www.solidot.org/story?sid=81263",
-          "publishedOn": "2025-05-12T07:16:04.000Z",
-          "wordCount": 202,
-          "title": "美国版权局不认为使用版权材料训练 AI 是合理使用，特朗普随即解雇了局长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81262",
-          "author": null,
-          "description": "美国梅奥诊所、​​堪萨斯大学医学中心和罗切斯特大学医学中心的研究人员发现，高尔夫球场使用的农药增加了附近居民的帕金森症风险，越靠近高尔夫球场风险越高。住在距离高尔夫球场一英里以内的居民患帕金森症的风险是六英里以外居民的两倍多，三英里以内的居民也有较高的患病风险，三英里以外相关性减弱。研究人员称，出现这一相关性是因为高尔夫球场大量使用农药如毒死蜱（chlorpyrifos）和代森锰(Maneb)，残留农药污染了空气和地下水，导致了受污染区域居民的帕金森症风险增加。",
-          "link": "https://www.solidot.org/story?sid=81262",
-          "publishedOn": "2025-05-12T06:12:48.000Z",
-          "wordCount": 163,
-          "title": "高尔夫球场使用的农药增加附近居民的帕金森症风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81261",
-          "author": null,
-          "description": "根据发表在《eClinicalMedicine》期刊上的一项研究，相比减肥手术，第一代 GLP-1RA 减肥药除了减肥作用外，在预防肥胖相关癌症方面的直接作用高出 41%。GLP-1RA 通过模拟人体内激素 GLP-1 去实现减肥，这种激素可降低血糖水平，使人更长时间感到饱腹。肥胖和糖尿病都会增加多种癌症的风险，这些癌症被称为肥胖相关癌症，包括绝经后乳腺癌、结直肠癌、子宫体癌、脑膜瘤、肾细胞肾癌、肝癌或胆管癌、胰腺癌、甲状腺癌、胃癌和卵巢癌，以及多发性骨髓瘤。",
-          "link": "https://www.solidot.org/story?sid=81261",
-          "publishedOn": "2025-05-12T05:34:36.000Z",
-          "wordCount": 174,
-          "title": "GLP-1RA 大幅减少肥胖相关癌症风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81260",
-          "author": null,
-          "description": "流行减肥药 liraglutide 或 semaglutide 被发现也有助于减少酒精摄入。酒精相关障碍(Alcohol-Related Disorders)是一种复发性疾病，每年 260 万人死亡与之相关，占全球年死亡人数的 4.7%。戒酒非常困难，七成戒酒者会在一年内重新饮酒。胰高血糖素样肽-1（GLP-1）被用于治疗肥胖，在动物实验中被发现也有助于减少酒精摄入，但人体研究才刚刚起步。最新研究涉及 262 名超重或肥胖者，平均年龄 46 岁，平均体重 98 公斤。他们被允许服用 GLP-1 减肥。根据参与者自我报告的酒精消费量，研究人员将他们分成不饮酒者、少量饮酒者和经常饮酒者。在服用 GLP-1 四个月后，他们的平均酒精摄入量减少了三分之二，其中经常饮酒者减少了 68%。参与者称戒酒变得轻而易举。",
-          "link": "https://www.solidot.org/story?sid=81260",
-          "publishedOn": "2025-05-12T05:09:05.000Z",
-          "wordCount": 186,
-          "title": "流行减肥药被发现也有助于减少酒精消费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81259",
-          "author": null,
-          "description": "2024 年 5 月 10 日，近二十年来首次 G5 级强地磁风暴袭击地球，此时恰逢 NASA 与多个美国政府机构进行太空天气的防灾模拟演习期间，这场被命名为 Gannon 的强地磁风暴，让原本防灾演习转立刻转变为实战。Gannon 风暴对地面与太空环境皆造成显著冲击。美国中西部地区一些依赖 GPS 导引的大型农业机具运作时偏离原来行走的方向，造成的农损平均达 17,000 美元。飞行中的客机为躲避辐射暴增与通讯中断的风险临时调整航线。大气层中的热气层温度急升至约摄氏1150度，大气因而膨胀导致卫星绕地球运行的阻力增加。NASA 的 ICESat-2 卫星因阻力增加、高度下降而进入安全模式，CIRBE 卫星则提前约五个月进入大气层。ESA 的 Sentinel 任务也需耗费更多燃料来维持轨道的高度。火星也受到了这次太阳日冕物质抛射的影响，整个火星被观测到被极光笼罩。",
-          "link": "https://www.solidot.org/story?sid=81259",
-          "publishedOn": "2025-05-11T16:30:35.000Z",
-          "wordCount": 198,
-          "title": "过去 20 年最强地磁风暴带来的经验和启示",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81258",
-          "author": null,
-          "description": "研究人员曾付费给用户使用微软 Bing 搜索引擎两周，结果发现部分人还想继续用。《华盛顿邮报》的科技专栏作家受此启发也尝试使用了基于 Bing 的 DuckDuckGo，发现放弃 Google 搜索比预期的更简单。今天 Google 的搜索质量已经无法让它的竞争对手望尘莫及，就用户体验而言 DuckDuckGo 大多数情况下并不比 Google 差，而且它收集的数据要比 Google 少得多，它也不会保存搜索内容的历史。使用 Google 更多是一种习惯。",
-          "link": "https://www.solidot.org/story?sid=81258",
-          "publishedOn": "2025-05-11T16:04:48.000Z",
-          "wordCount": 193,
-          "title": "放弃 Google 搜索比预期的更简单",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81257",
-          "author": null,
-          "description": "Chungin Lee 曾在 ChatGPT 帮助下写作文，最终成功入学哥伦比亚大学，之后他几乎每一份作业都使用生成式 AI 作弊。他就读的是计算机科学专业，他说自己的入门编程作业是扔进 ChatGPT 然后直接将结果上交。他估算自己递交的每一篇作文有八成是 AI 写的。他会对作文进行润色，让它看起来是自己人工写的。那么他为什么要如此费劲考入常春藤盟校，然后将所有学习都交给机器人？他说常春藤盟校是找到合伙人和妻子的最佳场所。他找到了自己的合伙人，在开发了三款不怎么成功的 APP 之后，他们创造的远程编程面试作弊工具引发了广泛关注。他和合伙人从投资者手中筹集到了 530 万美元，用于开发另外一款 AI 应用。Lee 表示，他们将目标瞄准研究生入学标准化考试，以及所有校园作业、测验和考试，让学生可以在几乎所有地方都能作弊。哥伦比亚大学对他进行了纪律处分，不是因为他在作业中作弊，而是因为他开发了作弊用的 AI 工具。Lee 表示，他学校里认识的学生几乎没有一个不在用 AI 作弊。他并不认为这是一件坏事，认为我们距离一个没有人认为使用 AI 做作业是作弊的世界只剩下几年，或者可能是几个月时间。其他学生也认为没有人能抗拒一个能让所有作业都变得更容易，而且目前看起来没有任何后果的工具。",
-          "link": "https://www.solidot.org/story?sid=81257",
-          "publishedOn": "2025-05-11T15:47:49.000Z",
-          "wordCount": 205,
-          "title": "用 AI 作过一次弊的学生可能会一直用 AI 作弊",
-          "imageUrl": null
         }
       ]
     },
@@ -1264,6 +1254,16 @@
       "siteUrl": "https://catonmat.net",
       "articles": [
         {
+          "id": "https://catonmat.net/648-million-google-clicks",
+          "author": null,
+          "description": "Yesterday Online PNG Tools smashed through 6.47M Google clicks and today it's smashed through 6.48M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!\nWhat Are Online PNG Tools?\nOnline PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.\nWho Created Online PNG Tools?\nOnline PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.\nWho Uses Online PNG Tools?\nOnline PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.\nSmash too and see you tomorrow at 6.49M clicks! 📈\nPS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸",
+          "link": "https://catonmat.net/648-million-google-clicks",
+          "publishedOn": "2025-05-21T06:06:06.000Z",
+          "wordCount": 383,
+          "title": "6.48 Million Google Clicks! 💰",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
+        {
           "id": "https://catonmat.net/647-million-google-clicks",
           "author": null,
           "description": "Yesterday Online PNG Tools smashed through 6.46M Google clicks and today it's smashed through 6.47M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!\nWhat Are Online PNG Tools?\nOnline PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.\nWho Created Online PNG Tools?\nOnline PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.\nWho Uses Online PNG Tools?\nOnline PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.\nSmash too and see you tomorrow at 6.48M clicks! 📈\nPS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸",
@@ -1341,16 +1341,6 @@
           "publishedOn": "2025-05-13T06:06:06.000Z",
           "wordCount": 388,
           "title": "6.42 Million Google Clicks! 💸",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/641-million-google-clicks",
-          "author": null,
-          "description": "Yesterday Online PNG Tools smashed through 6.40M Google clicks and today it's smashed through 6.41M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!\nWhat Are Online PNG Tools?\nOnline PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.\nWho Created Online PNG Tools?\nOnline PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.\nWho Uses Online PNG Tools?\nOnline PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.\nSmash too and see you tomorrow at 6.42M clicks! 📈\nPS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸",
-          "link": "https://catonmat.net/641-million-google-clicks",
-          "publishedOn": "2025-05-12T06:40:20.000Z",
-          "wordCount": 386,
-          "title": "6.41 Million Google Clicks! 💸",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
