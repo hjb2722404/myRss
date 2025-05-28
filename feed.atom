@@ -2,10 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-05-27T03:08:52.198Z</updated>
+    <updated>2025-05-28T03:11:26.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[银河系的一根“骨骼”被脉冲星撞断]]></title>
+        <id>https://www.solidot.org/story?sid=81409</id>
+        <link href="https://www.solidot.org/story?sid=81409"/>
+        <updated>2025-05-27T15:58:38.000Z</updated>
+        <summary type="html"><![CDATA[银河系中心附近能观察到许多“丝状结构”，科学家称之为“银河骨骼”。其中一根骨骼最近被发现断裂了，天文学家认为可能是一颗与之相撞的脉冲星导致的。这根骨骼命名为 G359.13142-0.20005，长 230 光年。根据哈佛大学天文学家在《Monthly Notice of the Royal Astronomical Society》期刊上发表的研究，该骨骼断裂区域发现了一颗脉冲星。通过综合 NASA Chandra X-射线天文台、南非 MeerKAT 望远镜阵列以及美国新墨西哥州 Very Large Array 的观测数据，天文学家估计该脉冲星以 160.9-321.8 万公里的时速撞击了骨骼。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Browser Company 停止开发 Arc 转向 AI 驱动浏览器 Dia]]></title>
+        <id>https://www.solidot.org/story?sid=81408</id>
+        <link href="https://www.solidot.org/story?sid=81408"/>
+        <updated>2025-05-27T15:06:50.000Z</updated>
+        <summary type="html"><![CDATA[The Browser Company 证实它在一年前就停止开发浏览器 Arc，开发重心转向了 AI 驱动的浏览器 Dia，该浏览器目前处于 Alpha 阶段。CEO Josh Miller 解释说，用户发现它难以普及。Arc 功能的使用率较低，数据显示只有 5.52% 的日活跃用户定期使用多个 Spaces，只有 4.17% 的用户使用 Live Folders。The Browser Company 将会继续维护 Arc，但不会添加新功能，也不会开源，因为 Arc 依赖于名为 ADK (Arc Development Kit) 的私有架构，该架构仍然是公司价值的核心。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 模型出现崩溃迹象]]></title>
+        <id>https://www.solidot.org/story?sid=81407</id>
+        <link href="https://www.solidot.org/story?sid=81407"/>
+        <updated>2025-05-27T14:56:59.000Z</updated>
+        <summary type="html"><![CDATA[一位一直用 AI 进行搜索的使用者认为，AI 模型出现崩溃迹象。理由是过去几个月，所有主流 AI 搜索机器人的查询结果都变差了。作者认为是因为 Garbage In/Garbage Out(GIGO)导致的。在 AI 领域这被称为 AI 模型崩溃。基于自身输出进行训练的 AI 系统会逐渐丧失准确性、多样性和可靠性，错误在模型迭代中累积，导致数据分布扭曲和性能出现“不可逆的缺陷”。结果就是模型被自身对现实的投射而中毒。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BGP 系统的 Bug 处理方式导致部分网络故障]]></title>
+        <id>https://www.solidot.org/story?sid=81406</id>
+        <link href="https://www.solidot.org/story?sid=81406"/>
+        <updated>2025-05-27T14:40:06.000Z</updated>
+        <summary type="html"><![CDATA[2025 年 5 月 20 日 7AM (UTC) ，可能是和记黄埔(AS9304)或 Starcloud(AS135338)广播了一则有问题的 BGP 消息，该消息包含了损坏的 BGP Prefix-SID Attribute。BGP Prefix-SID Attribute 主要用于内部 BGP 会话，在单一网络内部路由流量，它泄漏到全局路由表可能是因为将外部 BGP 会话错误配置为内部会话。对于错误的 BGP 消息，配置了 RFC7606 (“BGP 容错”)的系统会将其过滤或丢弃掉。然而 JunOS 系统没有丢弃错误消息，而是转发给了对等网络，直到该消息被没有配置 BGP 容错的 Arista EOS 系统接收到，最终导致部分网络发生故障，可能导致客户网络连接短暂中断。运行 JunOS 系统的 Juniper 硬件被互联网中转运营商广泛使用，受到此次事故影响的网络包括了 SpaceX Starlink AS14593、字节跳动 AS396986、Disney Worldwide Services AS23344 等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What We Know (So Far) About CSS Reading Order]]></title>
+        <id>https://css-tricks.com/?p=386654</id>
+        <link href="https://css-tricks.com/what-we-know-so-far-about-css-reading-order/"/>
+        <updated>2025-05-27T13:02:32.000Z</updated>
+        <summary type="html"><![CDATA[The reading-flow and reading-order proposed CSS properties are designed to specify the source order of HTML elements in the DOM tree, or in simpler terms, how accessibility tools deduce the order of elements. You’d use them to make the focus order of focusable elements match the visual order, as outlined in the Web Content Accessibility Guidelines (WCAG 2.2).
+What We Know (So Far) About CSS Reading Order originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鹰利用交通灯捕猎]]></title>
+        <id>https://www.solidot.org/story?sid=81405</id>
+        <link href="https://www.solidot.org/story?sid=81405"/>
+        <updated>2025-05-27T11:15:20.000Z</updated>
+        <summary type="html"><![CDATA[随着交通网络遍及世界，动物的生存空间受到了极大影响，公路上时常能看到动物被汽车撞死而留下的残骸。但与此同时，一部分动物也学会了利用无处不在的交通网，比如乌鸦被观察到将核桃丢在公路上让汽车砸碎。研究人员现在报告他们观察到鹰利用交通信号去成功捕猎小鸟。人类经常会留下食物残渣吸引鸟儿来吃。而公路上的各种声音显然会影响鸟的警惕性。研究人员观察到，鹰会借着交通声音的掩护去袭击小鸟。它们适应了城市生活。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[腾讯将成为 K-Pop 经纪公司 SM娱乐的第二大股东]]></title>
+        <id>https://www.solidot.org/story?sid=81404</id>
+        <link href="https://www.solidot.org/story?sid=81404"/>
+        <updated>2025-05-27T10:34:53.000Z</updated>
+        <summary type="html"><![CDATA[韩国金融监督院电子公示系统消息，韩国娱乐巨头 HYBE 将于本月 30 日收盘后通过场外大宗交易方式，向腾讯音乐旗下香港法人出售其所持全部SM娱乐股份，交易金额约 2433 亿韩元（约合人民币 12.9 亿元）。HYBE曾在2023 年斥资 4228 亿韩元从SM创始人李秀满手中收购SM娱乐14.8%股份，成为SM娱乐最大股东。但HYBE此后在与Kakao围绕SM娱乐收购战中宣布退出，并逐步减持股份。本次交易完成后，HYBE将完全撤出对SM娱乐的投资，腾讯音乐将仅次于Kakao，跃升为SM娱乐的第二大股东。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[台积电下注基于 MicroLED 的光互联技术]]></title>
+        <id>https://www.solidot.org/story?sid=81403</id>
+        <link href="https://www.solidot.org/story?sid=81403"/>
+        <updated>2025-05-27T10:26:03.000Z</updated>
+        <summary type="html"><![CDATA[由于大模型等的计算需求，AI 集群在数据量、带宽、延迟和速度上面临前所未有的挑战。连接处理器和内存的铜线迟早会被光学元件所取代。目前流行的光连接芯片使用了激光器，而激光器的可靠性、制造和费用是基于激光的光互连技术面临的主要挑战。现在台积电宣布与创业公司 Avicena 合作生产基于 microLED 的互连产品。这项技术旨在用光连接取代电连接，以低成本高能效的方式满足 GPU 之间的通信需求。Avicena 使用了数百个通过成像型光纤连接的蓝色 microLED 去转移数据，避免了激光器以及相关的复杂性问题，]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[图片泄漏？不怕！第一款甩锅给AI的软件，它来了]]></title>
+        <id>https://www.appinn.com/ai-watermark-for-android/</id>
+        <link href="https://www.appinn.com/ai-watermark-for-android/"/>
+        <updated>2025-05-27T09:19:46.000Z</updated>
+        <summary type="html"><![CDATA[看下图，这是一张真实的图片，具体缘由可以看今天小众软件微信公众号的第二篇推送。 但是，图片右下角有“豆包AI”字样的水印，意味着，这是一张AI生成的图片？ 真真假假，假假真真，我不说，你能知道这张图到]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金星共轨小行星可能威胁到地球]]></title>
+        <id>https://www.solidot.org/story?sid=81402</id>
+        <link href="https://www.solidot.org/story?sid=81402"/>
+        <updated>2025-05-27T07:36:05.000Z</updated>
+        <summary type="html"><![CDATA[过去二十年，NASA 在搜寻绕行太阳、距离地球不超过 1.3 天文单位的近地小行星方面取得了进展，然而一项新发现指出一些与金星共轨的小行星可能对地球构成威胁，NASA 可能需要扩大搜寻范围。一篇于今年五月提交至《天文与天体物理学》期刊的论文详细描述了与金星共轨的小行星的性质与对地球潜在的威胁，论文指出，目前发现的 20 颗共轨小行星中，已有 6 颗小行星具备潜在危险小行星（PHA）的条件，其中 3 颗与地球的最小轨道交会距离甚至小于 0.0005 天文单位。模拟显示它们若撞击地球，可能形成直径达 2～3 公里的陨石坑，释放的能量达 10²百万吨 TNT。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Minecraft – 纯炫技！不用 JavaScript，纯 HTML + CSS，克隆我的世界]]></title>
+        <id>https://www.appinn.com/css-minecraft/</id>
+        <link href="https://www.appinn.com/css-minecraft/"/>
+        <updated>2025-05-27T07:15:45.000Z</updated>
+        <summary type="html"><![CDATA[CSS Minecraft 是一个使用纯 HTML 和 CSS 制作的我的世界克隆版，没有使用一行 JavaScript，青小蛙试了下，实在没什么用，纯炫技啊。@Appinn 简单粗暴，直接上视频：]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CIA 曾经秘密运营了一家星球大战粉丝网站]]></title>
+        <id>https://www.solidot.org/story?sid=81401</id>
+        <link href="https://www.solidot.org/story?sid=81401"/>
+        <updated>2025-05-27T07:02:04.000Z</updated>
+        <summary type="html"><![CDATA[业余安全研究员 Ciro Santilli 在深入调查和挖掘互联网档案馆存档，以及检查网站源代码之后声称，CIA 曾经在 2010 年代经营了一家星球大战粉丝网站 starwarsweb.net，它看起来是一家刊登“乐高星球大战（LEGO Star Wars）”等星战相关新闻的普通粉丝网站，但实际上被 CIA 用于与其它国家的线民进行通信。网站嵌入了秘密的通信系统，线民可以通过特定登陆页面与 CIA 通信。starwarsweb.net 目前被重定向到 CIA 官网。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴基斯坦分配 2000 MW 电力用于挖掘比特币和 AI 数据中心]]></title>
+        <id>https://www.solidot.org/story?sid=81400</id>
+        <link href="https://www.solidot.org/story?sid=81400"/>
+        <updated>2025-05-27T06:22:20.000Z</updated>
+        <summary type="html"><![CDATA[巴基斯坦能源部门面临高电价和电力过剩这两大挑战。为了将剩余电力货币化，以及创造高科技就业机会并吸引外国投资，巴基斯坦财政部宣布了一项计划，将分配 2000 MW 电力用于为比特币挖矿和 AI 数据中心供电。财政部表示这是更广泛的多阶段数字基础设施建设的第一阶段。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普京表态要封锁微软和 Zoom 的服务]]></title>
+        <id>https://www.solidot.org/story?sid=81399</id>
+        <link href="https://www.solidot.org/story?sid=81399"/>
+        <updated>2025-05-27T06:01:46.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯总统普京周一表示，外国服务提供商如微软和 Zoom 的行为违反了俄罗斯利益，应该受到限制。在俄罗斯入侵乌克兰之后，西方国家对俄罗斯进行了制裁，大部分西方企业都撤离了俄罗斯，如麦当劳就出售了其在俄业务。微软和 Zoom 是少数仍然向俄罗斯提供有限服务的美国公司。普京没有进一步说明是否会采取行动封锁微软和 Zoom 的服务，他强调要发展本国替代软件解决方案。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[四名大众前高管因柴油门排放丑闻被判刑]]></title>
         <id>https://www.solidot.org/story?sid=81398</id>
@@ -1136,90 +1277,6 @@ PS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtool
         <link href="https://www.solidot.org/story?sid=81321"/>
         <updated>2025-05-18T15:14:07.000Z</updated>
         <summary type="html"><![CDATA[根据罗切斯特大学科学家领导的一项研究，被称为 helper 2 (Th2)的免疫细胞亚群可能在过敏性疾病发展中起到重要作用，有助于解释农村和城市人群在过敏上的差异。Th2 细胞能识别特定食物的过敏原并对其进行攻击。研究对比了城市婴儿和农业社区婴儿的血样样本，发现城市婴儿有较高水平的侵袭性 Th2 细胞，而农业社区婴儿有更高水平的调节性 T 细胞——此类细胞有助于维持免疫系统平衡和降低过敏反应。研究人员猜测，城乡人群肠道微生物群发展的差异，以及农村儿童接触更多健康细菌可能是导致这一现象的原因。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[长新冠与炎症相关]]></title>
-        <id>https://www.solidot.org/story?sid=81320</id>
-        <link href="https://www.solidot.org/story?sid=81320"/>
-        <updated>2025-05-18T14:50:42.000Z</updated>
-        <summary type="html"><![CDATA[一项新研究发现，长新冠患者所遭遇的“脑雾（brain fog）”与大脑中的变化如炎症和大脑可塑性相关。长新冠是患者感染 COVID-19 后出现的一种慢性疾病，全世界有数以千万计的人受到影响，仅美国据报告就有 1200 万长新冠患者。但长新冠的症状存在很多疑问，医生难以识别确切症状，最新研究可能有助于解决该问题。研究人员分析了研究参与者的生物标志物，发现脑雾患者一种对调控人体免疫系统至关重要的抗炎蛋白水平较高，他们血清中有较低水平的神经生长因子——它对大脑可塑性至关重要。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Night Sale! 🌙]]></title>
-        <id>https://catonmat.net/night-sale</id>
-        <link href="https://catonmat.net/night-sale"/>
-        <updated>2025-05-18T02:02:02.000Z</updated>
-        <summary type="html"><![CDATA[At Browserling and Online Tools, we love sales.
-We just created a new automated Night Sale.
-Now at random Nights, we show a 50% discount offer to all users who visit our site.
-Buy Now!
-🔥 onlinetools.com/pricing
-🔥 browserling.com/#pricing
-What Is Browserling?
-Browserling is an online service that lets you test how other websites look and work in different web browsers, like Chrome, Firefox, or Safari, without needing to install them. It runs real browsers on real machines and streams them to your screen, kind of like remote desktop but focused on browsers. This helps web developers and regular users check for bugs, suspicious links, and weird stuff that happens in certain browsers. You just go to Browserling, pick a browser and version, and then enter the site you want to test. It's quick, easy, and works from your browser with no downloads or installs.
-What Are Online Tools?
-Online Tools is a website that offers free, browser-based productivity tools for everyday tasks like editing text, converting files, editing images, working with code, and way more. It's an all-in-one Digital Swiss Army Knife with 1500+ utilities, so you can find the exact tool you need without installing anything. Just open the site, use what you need, and get things done fast.
-Who Uses Browserling and Online Tools?
-Browserling and Online Tools are used by millions of regular internet users, developers, designers, students, and even Fortune 100 companies. Browserling is handy for testing websites in different browsers without having to install them. Online Tools are used for simple tasks like resizing or converting images, or even fixing small file problems quickly without downloading any apps.
-Buy a subscription now and see you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Morning Sale! ☀️]]></title>
-        <id>https://catonmat.net/morning-sale</id>
-        <link href="https://catonmat.net/morning-sale"/>
-        <updated>2025-05-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At Browserling and Online Tools, we love sales.
-We just created a new automated Morning Sale.
-Now on random Mornings, we show a 50% discount offer to all users who visit our site.
-Buy Now!
-🔥 onlinetools.com/pricing
-🔥 browserling.com/#pricing
-What Is Browserling?
-Browserling is an online service that lets you test how other websites look and work in different web browsers, like Chrome, Firefox, or Safari, without needing to install them. It runs real browsers on real machines and streams them to your screen, kind of like remote desktop but focused on browsers. This helps web developers and regular users check for bugs, suspicious links, and weird stuff that happens in certain browsers. You just go to Browserling, pick a browser and version, and then enter the site you want to test. It's quick, easy, and works from your browser with no downloads or installs.
-What Are Online Tools?
-Online Tools is a website that offers free, browser-based productivity tools for everyday tasks like editing text, converting files, editing images, working with code, and way more. It's an all-in-one Digital Swiss Army Knife with 1500+ utilities, so you can find the exact tool you need without installing anything. Just open the site, use what you need, and get things done fast.
-Who Uses Browserling and Online Tools?
-Browserling and Online Tools are used by millions of regular internet users, developers, designers, students, and even Fortune 100 companies. Browserling is handy for testing websites in different browsers without having to install them. Online Tools are used for simple tasks like resizing or converting images, or even fixing small file problems quickly without downloading any apps.
-Buy a subscription now and see you next time!]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港新加坡新冠病例激增]]></title>
-        <id>https://www.solidot.org/story?sid=81319</id>
-        <link href="https://www.solidot.org/story?sid=81319"/>
-        <updated>2025-05-17T15:50:31.000Z</updated>
-        <summary type="html"><![CDATA[香港和新加坡的卫生部门报告新冠病例最近一段时间激增。香港卫生署卫生防护中心发布新闻公报，新冠主要监测指标数据创一年新高，它呼吁社会各界提高警觉。污水监测新冠病毒含量、检测阳性率及化验所新增核酸检测阳性数目在过去四周持续上升。香港过去四周共录得 81 宗成人新冠重症病例，有 30 人死亡，另有 5 宗儿童重症病例。新加坡卫生部门称，截至 5 月 3 日当周，估计病例数较前七天激增 28% 达到 14,200 例，每日住院人数增加 30%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国年轻男性全面落后于女性]]></title>
-        <id>https://www.solidot.org/story?sid=81318</id>
-        <link href="https://www.solidot.org/story?sid=81318"/>
-        <updated>2025-05-17T15:26:22.000Z</updated>
-        <summary type="html"><![CDATA[数据显示美国年轻男性在教育、心理健康和成年转型等方面全面落后于女性。美国男孩的高中毕业率为 83%，女孩为 89%。男高中毕业生的大学入学率从 1960 年的 54% 上升到 57%，几乎没什么变化，相比下女性的大学入学率同期从 38% 大幅提高至 66%。3-17 岁男孩中有 28% 存在心理、情绪、行为或发育问题，相比下女孩是 23%。15-24 岁男性自杀率从 1968 年的每十万人 11 人增至 2023 年的每十万人 21 人，几乎翻了一番。25-54 岁男性的劳动力参与率从 1975 年的 94% 降至 89%，而女性的劳动力参与率则从 55% 升至 78%。25-34 岁男性中有 19% 与父母同住，而女性仅为 13%。斯坦福大学社会学教授 Robb Willer 表示，当代美国的经济并不奖励男性和阳刚之气相关的众多特质。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA 成功重启逾二十年未使用的旅行者1号备用推进器]]></title>
-        <id>https://www.solidot.org/story?sid=81317</id>
-        <link href="https://www.solidot.org/story?sid=81317"/>
-        <updated>2025-05-17T15:08:59.000Z</updated>
-        <summary type="html"><![CDATA[NASA 工程师成功重启了旅行者1号的备用推进器，这些备用推进器自 2004 年以来就没有使用，一度被认为已经失效。控制旅行者1号方向的主推进器由于堆积了大量残留物而性能下降，如果主推进器失效，飞船将无法将天线指向地球，将会切断与地球近 50 年的通信。与此同时负责发送指令的地面天线将于 5 月 4 日之后下线数个月进行升级，及时干预将变得不可能。因此 NASA 在三月份尝试切换到备用推进器对其至关重要。旅行者1号与地球之间的通信延迟长达 23 小时。JPL 任务推进负责人 Todd Barber 称这是一个奇迹，旅行者1号获救了。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
