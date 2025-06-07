@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/cobalt/",
+          "author": "青小蛙",
+          "description": "cobalt 是一款开源的现在视频下载工具，可以在手机浏览器上使用。支持 B 站、小红书、Tiktok、VK、YouTube 等 20+ 在线视频网站，并且可单独下载视频或音频，还支持 API。能够自",
+          "link": "https://www.appinn.com/cobalt/",
+          "publishedOn": "2025-06-06T08:59:21.000Z",
+          "wordCount": 2662,
+          "title": "cobalt – 开源、无广告，在线视频下载工具，支持 B 站、小红书、Tiktok、VK、YouTube 等 20+ 在线视频网站[Web]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/06/Copy-of-appinn-homework-13.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/kde-for-windows-10-exiles/",
+          "author": "青小蛙",
+          "description": "KDE 是一个主要开发 Linux 软件的开源社区，其最著名的产品是 Plasma 桌面环境，即让 Linux 用起来也能像 Windows 一样。 随着 Windows 10 结束支持的日期越来越近",
+          "link": "https://www.appinn.com/kde-for-windows-10-exiles/",
+          "publishedOn": "2025-06-06T03:31:10.000Z",
+          "wordCount": 2723,
+          "title": "KDE 开始拉拢 Windows 10 用户：升级您的软件，而不是您的计算机",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-11.jpg"
+        },
+        {
           "id": "https://www.appinn.com/macxvideo-ai/",
           "author": "青小蛙",
           "description": "在AI发展大势的当今，Digiarty 软件公司也推出了 Macxvideo AI 这款基于人工智能技术的视频和图片处理工具，为更多的用户提供便捷快速的视频以及图片的增强、放大和其他体验。Macxvi",
@@ -190,26 +210,6 @@
           "wordCount": 2579,
           "title": "xAI 将于2日后暂停 API 数据共享计划，不再赠送 150 美元，记得取消",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-29T111221.749.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/tianyi-fangsaorao-duanxin-fanghu/",
-          "author": "青小蛙",
-          "description": "中国电信在微信上的天翼防骚扰上周五上线了短信防护功能，可以针对多个行业的营销短信进行屏蔽，包括金融推销、电信宣传、房产中介等11个类别。还有短信黑名单、短信白名单功能，可单独屏蔽个别号码。@Appin",
-          "link": "https://www.appinn.com/tianyi-fangsaorao-duanxin-fanghu/",
-          "publishedOn": "2025-05-28T09:22:33.000Z",
-          "wordCount": 2549,
-          "title": "中国电信《天翼防骚扰》上线短信防护功能：快速屏蔽 11 个行业垃圾短信、短信黑名单/白名单功能",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-28T170103.376.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/618-ipad-air-m3-256/",
-          "author": "青小蛙",
-          "description": "2025年3月份发布的最新款 iPad Air 11寸，M3 芯片，256GB 产品，目前在京东特价，叠加国补后，只需 3526 元。@Appinn 没错，这台设备就是青小蛙在3月份入手的那款，当时价",
-          "link": "https://www.appinn.com/618-ipad-air-m3-256/",
-          "publishedOn": "2025-05-28T07:35:16.000Z",
-          "wordCount": 2913,
-          "title": "618 低价：上市仅 80天，iPad Air M3 芯片 256GB 国补后只需 3526 元",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2025-05-28T151924.186.jpg"
         }
       ]
     },
@@ -218,6 +218,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=386876",
+          "author": "Temani Afif",
+          "description": "This is the third article in a series about the CSS shape() function. We've covered drawing lines and arcs in previous articles and, this time, we look specifically at the curve command and how to use it for drawing complex shapes.\nBetter CSS Shapes Using shape() — Part 3: Curves originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/",
+          "publishedOn": "2025-06-06T13:52:42.000Z",
+          "wordCount": 3944,
+          "title": "Better CSS Shapes Using shape() — Part 3: Curves",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/05/css-shape-curve-diagram.webp"
+        },
         {
           "id": "https://css-tricks.com/?p=386829",
           "author": "Daniel Schwarz",
@@ -291,16 +301,6 @@
           "wordCount": 1364,
           "title": "JS PageSwap PageReveal事件干嘛用的？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11709",
-          "author": "张 鑫旭",
-          "description": "没想到有生之年可以看到足以颠覆现有开发模式和习惯，吊炸天的attr()函数被全CSS属性支持，属性选择器要雄起了。",
-          "link": "https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/",
-          "publishedOn": "2025-05-28T06:19:08.000Z",
-          "wordCount": 1536,
-          "title": "震惊，有生之年居然看到CSS attr()全属性支持",
-          "imageUrl": null
         }
       ]
     },
@@ -309,6 +309,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81485",
+          "author": null,
+          "description": "海南省国际数据综合服务中心（HIDCSC）推出了“跨境加速”业务，该业务主要聚焦跨境电商领域。HIDCSC 联合海南电信、海南联通，共同为企业提供网络通道及技术支持，通过“跨境加速”服务，企业得以向海外市场拓展贸易服务。申请人必须拥有三大运营商——移动、联通和电信——之一的 5G 套餐，递交雇主信息以供审批。工作人员表示审批流程最长需要五个月。一旦获得批准，用户无需额外付费即可访问全球互联网。虽然针对的是电商，但相关人士表示目前对企业规模或业务范围没有任何限制。海南正致力于成为全球自由贸易港，计划年底启动独立海关运营。",
+          "link": "https://www.solidot.org/story?sid=81485",
+          "publishedOn": "2025-06-06T07:16:59.000Z",
+          "wordCount": 172,
+          "title": "海南政府试点跨境加速服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81484",
+          "author": null,
+          "description": "在传出 OpenAI 准备收购 Windsurf 后，Anthropic 切断了这款 AI 编程助手对其大模型 Claude 3.5 Sonnet 和 Claude 3.7 Sonnet 的访问。Anthropic 联合创始人兼首席科学官 Jared Kaplan 表示，将 Claude 出售给 OpenAI 使用会显得很奇怪。此前有报道称，OpenAI 将以 30 亿美元收购 Windsurf。而 Windsurf 随后表示 Anthropic 切断了它对 Claude 大模型的访问，迫使该公司在短时间内寻找第三方计算提供商。OpenAI 和 Windsurf 对收购传闻拒绝置评。Kaplan 说，该公司希望将有限的计算能力保留给长久的合作伙伴。",
+          "link": "https://www.solidot.org/story?sid=81484",
+          "publishedOn": "2025-06-06T06:52:44.000Z",
+          "wordCount": 217,
+          "title": "在传出 OpenAI 准备收购 Windsurf 后 Anthropic 切断了该公司对其大模型的访问",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81483",
+          "author": null,
+          "description": "亚马逊正在为人形机器人开发软件，这些类人机器人可能最终将取代人类送货员快递包裹。亚马逊正在其旧金山办公室建造了一座咖啡店大小的室内测试设施，测试坐在亚马逊 Rivian 电动货车后部的送货机器人。在完成室内受控测试之后，亚马逊计划让机器人在真实的街道上测试配送包裹。亚马逊计划测试多种型号的类人机器人，其中包括宇树科技售价 1.6 万美元的机器人。",
+          "link": "https://www.solidot.org/story?sid=81483",
+          "publishedOn": "2025-06-06T06:28:12.000Z",
+          "wordCount": 160,
+          "title": "亚马逊测试用人形机器人送包裹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81482",
+          "author": null,
+          "description": "新考古勘查结果挑战了长期以来的假设：北美的集约化农业仅存于中央集权社会或宜人的气候环境。这些发现揭示，在密歇根的上半岛（Upper Peninsula）存在着前哥伦布时期的幅员辽阔的种植景观；表明尽管当时气候寒冷且种植条件恶劣，美洲原住民社群在公元 1000 年至 1600 年间是以集约化方式种植玉米的。在美国东部大部分地区，前哥伦布时期集约化农业生产的直接证据极为罕见，因为大多数原住民的农耕景观已被殖民时期欧美人的耕作、定居和工业活动不可逆转地改变了。然而密歇根上半岛的六十岛（Sixty Islands）考古遗址保存了罕有的前哥伦布时期复杂的抬高垄作农田和玉米种植证据。证据表明，原住民拥有先进的土壤管理方法，其中包括将堆肥化的家庭生活垃圾和富含养分的湿地土壤掺入田中以增强土壤肥力。研究还表明，这一复杂的农耕系统是由小规模的平等社区创建的。",
+          "link": "https://www.solidot.org/story?sid=81482",
+          "publishedOn": "2025-06-06T06:00:44.000Z",
+          "wordCount": 165,
+          "title": "美洲原住民在千年前就以集约化方式种植玉米",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81481",
           "author": null,
@@ -928,96 +968,6 @@
           "wordCount": 178,
           "title": "我们如何失去互联网？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81417",
-          "author": null,
-          "description": "过去 20 年里全球 1/5 以上的海洋——面积超过 7500 万平方公里，经历了海洋变暗现象。海洋变暗是指海洋光学特性发生变化导致其透光区深度减少。透光区是 90% 的海洋生物的家园，也是阳光和月光驱动生态互动的区域。研究人员将卫星数据和数值模拟相结合，分析了全球透光区深度的年度变化。他们发现，在 20030-2022 年间，全球 21% 的海洋——包括大片沿海地区和开阔海洋，变得更暗了。超过 9% 的海洋——面积超过 3200 万平方公里、与非洲大陆大小相似的透光区深度减少了 50 多米，而 2.6% 的海洋的透光区减少了 100 多米。大约 10% 的海洋——面积超过 3700 万平方公里，在过去的 20 年里变得更亮了。",
-          "link": "https://www.solidot.org/story?sid=81417",
-          "publishedOn": "2025-05-28T11:28:03.000Z",
-          "wordCount": 185,
-          "title": "海洋在变暗",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81416",
-          "author": null,
-          "description": "根据发表在《美国心脏协会期刊》上的最新研究，几乎所有成年美国人的钠（盐）摄取量都高于建议摄取量。摄取过多盐分可能会增加罹患高血压和心血管疾病的风险。 成年美国人平均每天摄取约 3,400 毫克的钠，这些钠通常来自预制食品，如披萨、墨西哥玉米饼、墨西哥卷饼、冷盘午餐肉、罐装汤及面包。 美国心脏协会推荐每天摄取不超过 2,300 毫克的钠，也就是约一茶匙的盐。最新研究发现：无论人种和民族如何，披萨、汤和鸡肉都是人们摄取钠的最大来源。 在成年的亚裔美国人中，四种独属于这一文化的食物来源占据了每日钠摄取量的 14% 以上：以大豆为主的调味品（酱油）、鱼、炒饭和捞面、拌面，以及炒菜/以大豆为主的酱汁混合物。 而对成年的墨西哥裔美国人来说，墨西哥混合料里，如安吉拉卷、塔马利、墨西哥卷饼、普普沙、厚玉米饼 (gorditas)、恰米强克卷、墨西哥起司馅饼、卷饼碗、墨西哥烤肉、填馅红辣椒以及汁拉贵司 (chilaquiles) 是独属于他们的最大钠来源。成年黑人摄入钠的最大来源则是鸡肉饼、炸鸡块和炸鸡柳。 亚裔美国人最倾向于在烹饪时用盐，但这一群体也最不倾向于在餐桌上给食物放盐。",
-          "link": "https://www.solidot.org/story?sid=81416",
-          "publishedOn": "2025-05-28T11:14:56.000Z",
-          "wordCount": 171,
-          "title": "几乎所有成年美国人盐摄入量都超过建议量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81415",
-          "author": null,
-          "description": "苹果历史上首次收购了一家游戏工作室。该工作室 RAC7 规模很小，只有两个人，它开发了 Apple Arcade 热门游戏《Sneaky Sasquatch》。RAC7 此前的作品包括了《Dark Echo》和《Splitter Critters》。Sneaky Sasquatch 于 2019 年推出，为 Apple Arcade 独占，发布之后一直稳定更新。收购之后 RAC7 将作为内部工作室与苹果继续合作。此次收购并不意味着苹果将亲自涉足游戏业务，苹果表示收购有助于 RAC7 在 Apple Arcade 上进一步发展游戏。",
-          "link": "https://www.solidot.org/story?sid=81415",
-          "publishedOn": "2025-05-28T10:38:57.000Z",
-          "wordCount": 185,
-          "title": "苹果收购了第一家游戏工作室 RAC7",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81414",
-          "author": null,
-          "description": "芝加哥大学的一项新研究表明，牙本质——即牙齿的内层，负责将感觉信息传递到牙髓内的神经——最初是作为古代鱼类装甲外骨骼中的感觉组织进化而来的。对于牙齿如何起源，有两种观点。一种是“由内而外”假说，认为牙齿先出现，后来才适应外骨骼。新研究支持第二种“由外而内”假说，该假说认为敏感结构首先在外骨骼上发育，并且在某个时期，动物也利用相同的基因工具产生了敏感的牙齿。",
-          "link": "https://www.solidot.org/story?sid=81414",
-          "publishedOn": "2025-05-28T10:31:22.000Z",
-          "wordCount": 157,
-          "title": "牙本质起源于古鱼外骨骼中的感觉组织",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81413",
-          "author": null,
-          "description": "重大科学突破可能正变得愈发难以实现。2023 年的一项数据分析显示，1945-2010 年间，虽然学术论文总量激增，但颠覆性论文的数量却并不多。换言之，科研投入的倍增并未带来相应水平的颠覆性成果。研究显示，1956-2020 年间，美国研发经费实际增长 11 倍，论文数量呈指数级攀升，但诺贝尔奖级别的突破却未见相应增长。是什么束缚了科学创新向前迈进的脚步？首先，科学家正沦为“表格填手”。荷兰一项研究发现，大学教授仅有不到 20% 的时间用于科研，其余精力都被行政事务、教学和经费申请占据。其次，学术生涯和资助结构僵化限制了研究者自由探索的空间。此外，“论文通胀”稀释科研质量。再次，知识壁垒日益高筑，创新难度与日俱增。最后，信息过载导致注意力涣散。在算法推荐和热点追逐中，科学家正陷入“信息茧房”，可能错过那些冷门却具有颠覆潜力的研究方向。",
-          "link": "https://www.solidot.org/story?sid=81413",
-          "publishedOn": "2025-05-28T08:34:32.000Z",
-          "wordCount": 165,
-          "title": "重大科学突破越来越难以实现",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81412",
-          "author": null,
-          "description": "众所周知，昼夜节律混乱会削弱免疫系统。一项利用透明斑马鱼的研究发现，对细菌感染的免疫反应强度在白天达到峰值。研究人员认为这是一种演化反应，因为人类和斑马鱼等昼行性动物在白天最活跃，也更容易受到细菌感染。研究人员针对的是中性粒细胞，属于白细胞的一种，专门消灭细菌，是感染的第一反应者，也是人体内最丰富的免疫细胞。但是中性粒细胞寿命极短，从人体血液中分离中性粒细胞非常困难，研究人员因此使用了透明斑马鱼，观察中性粒细胞在一天中不同时间杀灭细菌的效率。结果显示它们在白天的效率比夜晚更高。进一步研究发现，中性粒细胞有一个内部受光调节的生物钟，提醒它们在白天增强杀灭细菌的能力。",
-          "link": "https://www.solidot.org/story?sid=81412",
-          "publishedOn": "2025-05-28T07:38:44.000Z",
-          "wordCount": 156,
-          "title": "免疫反应在白天更强",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81411",
-          "author": null,
-          "description": "特朗普政府正在考虑要求所有申请到美国留学的国际学生接受社交媒体审查，为准备实施这一审查要求，政府已指示全球各地美国使领馆暂停为学生和交流访问学者签证申请者安排新的面谈。此前已经预约好的签证面谈仍然可以进行。如果美国政府实施这一审查计划，可能会严重减缓学生签证的处理速度，也可能对许多依赖国际学生来增加财政收入的美国大学造成不利影响。",
-          "link": "https://www.solidot.org/story?sid=81411",
-          "publishedOn": "2025-05-28T05:52:08.000Z",
-          "wordCount": 157,
-          "title": "特朗普政府考虑对留学生进行社交媒体审查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81410",
-          "author": null,
-          "description": "根据 FAIR Health 的数据，逾 2% 美国人在服用流行减肥药 GLP-1。FAIR Health 拥有逾 510 亿条商业医保索赔记录，其数据显示，减肥药 GLP-1 药物使用量激增，半数用户在使用。在各种 GLP-1 药物中，诺和诺德的 Ozempic 最流行，其次是礼来的 Mounjaro。服用 GLP-1 药物但未接受减肥手术的成年人比例从 2019 年的 2.5% 升至 2024 年的 11.2%，接受减肥手术的成年患者比例同期下降了 41.8%。GLP-1 药物使用过去六年增加了近 600%。",
-          "link": "https://www.solidot.org/story?sid=81410",
-          "publishedOn": "2025-05-28T05:39:16.000Z",
-          "wordCount": 215,
-          "title": "逾 2% 美国人服用 GLP-1 减肥药",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81409",
-          "author": null,
-          "description": "银河系中心附近能观察到许多“丝状结构”，科学家称之为“银河骨骼”。其中一根骨骼最近被发现断裂了，天文学家认为可能是一颗与之相撞的脉冲星导致的。这根骨骼命名为 G359.13142-0.20005，长 230 光年。根据哈佛大学天文学家在《Monthly Notice of the Royal Astronomical Society》期刊上发表的研究，该骨骼断裂区域发现了一颗脉冲星。通过综合 NASA Chandra X-射线天文台、南非 MeerKAT 望远镜阵列以及美国新墨西哥州 Very Large Array 的观测数据，天文学家估计该脉冲星以 160.9-321.8 万公里的时速撞击了骨骼。",
-          "link": "https://www.solidot.org/story?sid=81409",
-          "publishedOn": "2025-05-27T15:58:38.000Z",
-          "wordCount": 183,
-          "title": "银河系的一根“骨骼”被脉冲星撞断",
-          "imageUrl": null
         }
       ]
     },
@@ -1087,6 +1037,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/flash-sale-official",
+          "author": null,
+          "description": "⚡ NEW FLASH SALE JUST DROPPED! ⚡\nAt Browserling and Online Tools we love sales.\nWe just created a new automated FLASH SALE!\nNow on random days, we show a 50% discount offer to all users who visit our site.\nBuy a Sub Now!\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing\nWhat Is Browserling?\nBrowserling is an online service that lets you test how other websites look and work in different web browsers, like Chrome, Firefox, or Safari, without needing to install them. It runs real browsers on real machines and streams them to your screen, kind of like remote desktop but focused on browsers. This helps web developers and regular users check for bugs, suspicious links, and weird stuff that happens in certain browsers. You just go to Browserling, pick a browser and version, and then enter the site you want to test. It's quick, easy, and works from your browser with no downloads or installs.\nWhat Are Online Tools?\nOnline Tools is an online service that offers free, browser-based productivity tools for everyday tasks like editing text, converting files, editing images, working with code, and way more. It's an all-in-one Digital Swiss Army Knife with 1500+ utilities, so you can find the exact tool you need without installing anything. Just open the site, use what you need, and get things done fast.\nWho Uses Browserling and Online Tools?\nBrowserling and Online Tools are used by millions of regular internet users, developers, designers, students, and even Fortune 100 companies. Browserling is handy for testing websites in different browsers without having to install them. Online Tools are used for simple tasks like resizing or converting images, or even fixing small file problems quickly without downloading any apps.\nBuy a subscription now and see you next time!\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing",
+          "link": "https://catonmat.net/flash-sale-official",
+          "publishedOn": "2025-06-06T06:06:06.000Z",
+          "wordCount": 377,
+          "title": "FLASH SALE! 50% OFF! ⚡",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/655-million-google-clicks",
           "author": null,
