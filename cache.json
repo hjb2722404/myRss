@@ -12,6 +12,41 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/pixpin/",
+          "author": "青小蛙",
+          "description": "PixPin 是一款新晋 Windows、macOS 截图工具，拥有截图、贴图、截长图、截动图、OCR 文字识别几个功能，口碑非常不错，同时也是在线 OCR 工具 PearOCR 同款开发者。目前正在",
+          "link": "https://www.appinn.com/pixpin/",
+          "publishedOn": "2025-06-09T12:37:25.000Z",
+          "wordCount": 2800,
+          "title": "PixPin – 截图工具：贴图、截长图、截动图、OCR 文字识别｜618 限时 7 折促销",
+          "enclosure": {
+            "url": "https://do-cdn.appinn.com/static3/images/2024/10/lz-pixpin3.gif.mp4",
+            "length": "575846",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2023/11/Appinn-feature-images-2023-11-21T144225.949.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/windows-11-home-game-mode/",
+          "author": "青小蛙",
+          "description": "在宣布推出两款掌机 ROG Xbox Ally 和 ROG Xbox Ally X 的同时，微软也同时放出了专为掌机优化的 Windows 11 界面，更简洁、更快速。这是一个看起来很不错的 Wind",
+          "link": "https://www.appinn.com/windows-11-home-game-mode/",
+          "publishedOn": "2025-06-09T04:13:54.000Z",
+          "wordCount": 2634,
+          "title": "Windows 11 游戏模式？微软为新游戏掌机优化了更简洁、更快的 Windows 11 界面",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-16.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/ai-search-now-available-in-microsoft-photos/",
+          "author": "青小蛙",
+          "description": "微软照片是 Windows 11 自带的相册应用，在最近的 Insider 频道更新中，新版本 2025.11060.5006.0 带来自然语言搜索功能，对于 Copilot+ 电脑，只需要使用自然语",
+          "link": "https://www.appinn.com/ai-search-now-available-in-microsoft-photos/",
+          "publishedOn": "2025-06-09T03:06:08.000Z",
+          "wordCount": 2875,
+          "title": "微软照片将支持自然语言搜索，需要 Copilot+ 电脑",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-15.jpg"
+        },
+        {
           "id": "https://www.appinn.com/faxian-25-23/",
           "author": "青小蛙",
           "description": "下图是挺早之前创建的自动更新发现频道项目的网页（ https://x.appinn.com ），由于没怎么宣传，以及连统计系统都没上，我也不知道是不是这个地球上只有我一个用户： 发现指数是反映该项目发",
@@ -135,26 +170,6 @@
           "wordCount": 2759,
           "title": "618 限时直降：近 200 款正版软件，年中大促 5 折起！",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-3.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/cat-catch/",
-          "author": "青小蛙",
-          "description": "猫抓 Cat Catch 2.6.2 版本发布（2025年5月31日），新增侧边栏功能，只需要在扩展栏中点击侧边栏按钮即可： 打开方式： 非常适合批量获取视频时使用。 获取 .crx 搬运： 注：Ch",
-          "link": "https://www.appinn.com/cat-catch/",
-          "publishedOn": "2025-05-31T13:47:41.000Z",
-          "wordCount": 2767,
-          "title": "猫抓 Cat Catch 2.6.2 发布：支持侧边栏。抓取网页视频，M3U8 解析下载合并工具[Chrome/Firefox]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2022/09/Appinn-2022-09-30T181304.364.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/windows-11-notepad-update-markdown-support/",
-          "author": "青小蛙",
-          "description": "来自论坛 @小熊猫 以及 Windows 官方博客的消息，Windows 11 预览体验计划中的 Canary 渠道和开发人员频道将收到记事本（版本 11.2504.50.0）更新，新增 Markdo",
-          "link": "https://www.appinn.com/windows-11-notepad-update-markdown-support/",
-          "publishedOn": "2025-05-31T09:06:26.000Z",
-          "wordCount": 2620,
-          "title": "Windows 11 记事本迎来史诗级更新：支持 Markdown 格式",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/Copy-of-appinn-homework-2.jpg"
         }
       ]
     },
@@ -163,6 +178,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=386694",
+          "author": "Preethi",
+          "description": "The HTML popover attribute transforms elements into top-layer elements that can be opened and closed with a button or JavaScript.  Popovers can be dismissed a number of ways, but there is no option to auto-close them. Preethi has a technique you can use.\nCreating an Auto-Closing Notification With an HTML Popover originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/",
+          "publishedOn": "2025-06-09T12:58:37.000Z",
+          "wordCount": 2580,
+          "title": "Creating an Auto-Closing Notification With an HTML Popover",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=386876",
           "author": "Temani Afif",
@@ -244,6 +269,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81509",
+          "author": null,
+          "description": "在逮捕梅泰族（Meithei）领导人引发民众暴力抗议之后，印度 Manipur 邦实行宵禁并切断互联网访问。Netblocks 的网络监测确认了网络接入的中断。警方周日逮捕了梅泰族激进武装组织 Arambai Tenggol 的五名领导人，包括首领 Asem Kanan Singh。自 2023 年以来，Manipur 邦人口占多数的梅泰族和人口占少数的库基族（Kuki）为争夺土地和影响力而发生种族冲突。Arambai Tenggol 有相当大的影响力，获得了梅泰社群的支持。Singh 等人被捕引发了民众抗议，抗议者冲进了一个警察哨所，放火焚烧了一辆公共汽车，并封锁了部分路段。在暴力事件之后，Manipur 邦宣布切断互联网以及移动数据服务五天。",
+          "link": "https://www.solidot.org/story?sid=81509",
+          "publishedOn": "2025-06-09T16:01:26.000Z",
+          "wordCount": 180,
+          "title": "印度 Manipur 邦实行宵禁并切断互联网访问",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81508",
+          "author": null,
+          "description": "Linux 基金会上周宣布了 FAIR 包管理器项目，此举旨在让去年引发混乱的 WordPress 社区稳定下来。WordPress 联合创始人 Matthew Mullenweg 去年对竞争对手 WP Engine 发动了攻击，引发了一场至今尚未解决的诉讼。期间他还通过其控制的 WordPress.org 开源项目劫持了 WP Engine 的插件。用于分发 WordPress 插件的 FAIR 包管理器项目试图解决这一问题，它将确保 WordPress 插件不受任何一方的控制。它是中心化 WordPress.org 插件和主题生态系统的去中心化替代，旨在将控制权交还给 WordPress 托管者和开发商。它采用了联邦式开源架构。",
+          "link": "https://www.solidot.org/story?sid=81508",
+          "publishedOn": "2025-06-09T15:44:22.000Z",
+          "wordCount": 195,
+          "title": "Linux 基金会试图和解围绕 WordPress 的纠纷",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81506",
+          "author": null,
+          "description": "企业采用 AI 的比例只有 10%。Chatterbox Labs CEO Danny Coleman 和 CTO Stuart Battersby 认为一个重要原因是安全性。Colema 说，麦肯锡称 AI 是一个价值 4  万亿美元的市场，但如果你不断推出不仅安全性未知，而且企业或社会影响都未知的产品，你如何推动市场发展？AI 的兴趣和投资在增长，但普及却相对缓慢。Battersby 说，不要轻信大模型供应商的花言巧语，因为他们总是会说模型是无比安全的。传统的网络安全和 AI 安全在相互碰撞，而大多数信息安全团队尚未跟上发展。",
+          "link": "https://www.solidot.org/story?sid=81506",
+          "publishedOn": "2025-06-09T09:49:41.000Z",
+          "wordCount": 185,
+          "title": "安全阻碍了企业拥抱 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81505",
+          "author": null,
+          "description": "谷歌CEO桑达尔·皮查伊接受《Lex Fridman Podcast》深度访谈，分享了从个人成长到AI战略的深刻见解。一年前谷歌在AI竞赛中被批评落后，但随着Gemini系列模型发布，已重回领先地位。皮查伊的核心决策原则是\"信号降噪\"——将外界批评视为噪音，专注第一性原理和长期技术趋势。他在压力下果断合并DeepMind与Google Brain两大AI团队，推动公司全面转向\"AI优先\"。皮查伊认为AI是比火与电更深远的技术革命，因其递归自我改进能力将极大加速创造本身。关于AGI时间表，他预测略晚于2030年，但对P(Doom)保持乐观，相信人类会在面临真正威胁时团结应对。在产品层面，谷歌正通过AI Overviews和AI Mode重塑搜索体验，同时布局XR和机器人等未来计算平台。皮查伊的童年经历——从缺水缺电到拥有热水和电话的技术跃迁——塑造了他对科技改变生活力量的坚定信念。他倡导\"登月思维\"，认为雄心勃勃的目标能吸引顶尖人才，即使只实现60%也是巨大成功。查看全文",
+          "link": "https://www.solidot.org/story?sid=81505",
+          "publishedOn": "2025-06-09T09:19:03.000Z",
+          "wordCount": 159,
+          "title": "谷歌CEO皮查伊：为什么说AI意义将超越火与电？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81504",
+          "author": null,
+          "description": "Google 创办于 World Wide Web 诞生之后，但它成功的按照自己的方式塑造了 Web。今天任何想要被发现的网站都要遵守 Google 的规定。但在反垄断诉讼中败诉可能导致 Google 本身以及整个 Web 再次被重塑。法庭将于 8 月公布裁决结果。Google 可能要被迫出售浏览器 Chrome，或者可能要面临与其它公司分享搜索索引和算法。Google 构建了一个规模无与伦比的 Web 索引，其抓取的 Web 内容比任何竞争对手都要多。这既是优势也是劣势，由于其索引的内容是如此纷杂和重复，它的搜索体验日益混乱。美国司法部认为，Google 的海量搜索索引是构建搜索引擎的“基本原料”，迫使 Google 授权第三方公司使用索引将是打破其对搜索市场垄断的关键。Kagi 创始人兼 CEO Vladimir Prelovac 认为，分享 Google 搜索索引将会立即催生更多搜索选择，让自定义搜索工具成为可能，城市可以利用它构建深度的超本地化搜索，爱猫者可以用它构建专门的猫咪搜索。他认为从长远看 AI 将是我们获取信息的默认方式，但 Kagi 并不强迫用户使用 AI 去搜索信息。他并不认为目前基于大模型的 AI 是答案。",
+          "link": "https://www.solidot.org/story?sid=81504",
+          "publishedOn": "2025-06-09T08:59:00.000Z",
+          "wordCount": 216,
+          "title": "Google 塑造的 Web 也许将被重塑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81503",
+          "author": null,
+          "description": "在任天堂之后，微软的第一方游戏作品也正式进入了 80 美元时代。在周日举行的 XBOX 游戏活动上，微软宣布了旗下工作室的一系列新作品，其中包括了 Obsidian Entertainment 的《The Outer Worlds 2》和《\nCall of Duty：Black Ops 7》等。其中 10 月底发售的《The Outer Worlds 2》的价格已经公布，标准版售价 80 美元(国区 398 元)，高级版（Premium Edition）售价 100 美元（国区 498 元）。微软此举可能和任天堂略有差异，如此高定价的意图之一可能是鼓励玩家购买它的订阅服务 Game Pass。这一策略是否成功可能要等待游戏发售之后的销售数量公布之后才能判断。",
+          "link": "https://www.solidot.org/story?sid=81503",
+          "publishedOn": "2025-06-09T07:12:48.000Z",
+          "wordCount": 196,
+          "title": "微软第一方游戏进入 80 美元时代",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81502",
+          "author": null,
+          "description": "Linus Torvalds 在内核邮件列表上宣布释出了 Linux 6.16-rc1，关闭了合并窗口，正式版预计将在 7 月底左右释出。Linux 6.16-rc1 的主变化包括：改进性能，支持 AMD 和英特尔的新硬件，Nouveau 驱动支持英伟达  Blackwell 和 Hopper GPU，英特尔 APX 初步支持，USB 音频分流（Offloading），sysfs 报告硬/软锁死次数的，OpenVPN DCO 驱动等等。",
+          "link": "https://www.solidot.org/story?sid=81502",
+          "publishedOn": "2025-06-09T06:28:58.000Z",
+          "wordCount": 186,
+          "title": "Linux 6.16-rc1 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81501",
+          "author": null,
+          "description": "微软正式宣布和华硕合作推出 Xbox 掌机 ROG Xbox Ally。类似 Steam Deck 的 SteamOS，ROG Xbox Ally 运行的是 Windows 11 操作系统，但为掌机体验进行了优化，微软称之为“Xbox Experience for Handheld”，操作系统最少化后台活动，限制了非必要任务。微软还计划学习 Valve 的掌机认证标签，推出为 Windows 掌机优化的认证程序。ROG Xbox Ally 基础版配备了 AMD Ryzen Z2 A 处理器、16 GB 内存、512 GB 存储空间和 60 Wh 电池；高级版 Xbox Ally X 配备了 AMD Ryzen AI Z2 Extreme 处理器、24 GB 内存、1 TB 存储空间和 80 Wh 电池，还配备了与 Xbox 手柄相同的脉冲扳机。两款掌机配置均采用 7 英寸、1080p@120 Hz IPS 显示屏，支持可变刷新率。Xbox Ally 的重量为 670 克，Xbox Ally X 比它重 45 克。价格等相关信息将在未来几个月公布。",
+          "link": "https://www.solidot.org/story?sid=81501",
+          "publishedOn": "2025-06-09T06:07:16.000Z",
+          "wordCount": 246,
+          "title": "微软和华硕合作推出 Xbox 掌机 ROG Xbox Ally",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81500",
+          "author": null,
+          "description": "付费无广告搜索引擎 Kagi 的用户数突破了五万。每天完成大约 76 万次查询，平均每位用户每天查询 15 次。Kagi 成立于 2018 年，其名字在日文中的意思是“鍵”，该公司在一年前宣布已经盈利，它的产品除了搜索引擎，还有浏览器 Orion Browser、翻译工具 Kagi Translate 等等。",
+          "link": "https://www.solidot.org/story?sid=81500",
+          "publishedOn": "2025-06-09T05:54:06.000Z",
+          "wordCount": 174,
+          "title": "Kagi 用户数突破五万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81499",
+          "author": null,
+          "description": "从 2025 年 6 月 20 日起，欧盟的新规定将强制要求制造商为智能手机和平板提供五年操作系统更新。此举旨在减少电子垃圾。欧盟的规定包括：防意外跌落或刮擦，防尘防水；电池承受至少 800 次充放电，维持八成初始电容量；设备停止在欧盟销售七年之内继续提供关键零部件；设备停产五年内提供操作系统更新；专业维修人员能不受歧视的访问更换所需的软件或固件。",
+          "link": "https://www.solidot.org/story?sid=81499",
+          "publishedOn": "2025-06-09T04:03:51.000Z",
+          "wordCount": 164,
+          "title": "欧盟新规定强制要求为智能手机和平板提供五年操作系统更新",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81498",
           "author": null,
@@ -803,26 +928,6 @@
           "wordCount": 161,
           "title": "世界面临新形式的气候否认——经济不可行",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81439",
-          "author": null,
-          "description": "中国游戏公司以免费网游闻名，如《原神》和《鸣潮》在全世界都有数百万玩家。但随着《黑神话：悟空》的成功，越来越多的中国游戏工作室开始转向开发单机游戏。以前中国游戏公司不愿意开发单机游戏，因为免费网游的商业模式更成熟，更容易收回开发成本。即将发布的单机游戏《明末：渊虚之羽》总监夏思源说，单机游戏的风险更大，其命运在上市当天就注定了，而网游如果上线第一天出现问题还是有可能补救的。前腾讯游戏 CTO 现  Epic Games 中国 CTO 沈黎（Li Shen）说，中国游戏公司一直对单机游戏感兴趣，但直到《黑神话：悟空》在全世界售出数百万份拷贝之后，游戏发行商才愿意投资单机游戏。新单机游戏如 S-Game 的《影之刃零》和《明末：渊虚之羽》都希望借助《黑神话：悟空》成功的东风。游戏行业的专业人士表示，因网游的经验中国游戏公司在商业设计和运营方面全球领先，但游戏设计和整体质量尤其是叙事和剧本创作存在不足。类似其它中国公司，中国游戏工作室的加班文化也颇受争议，很多游戏公司都使用 996 工作制，夏思源称他的公司不鼓励加班，认为加班效率低下。他说中国有句俗话叫众人拾柴火焰高，希望其团队的努力能鼓励更多公司开发单机游戏。",
-          "link": "https://www.solidot.org/story?sid=81439",
-          "publishedOn": "2025-05-31T14:29:07.000Z",
-          "wordCount": 168,
-          "title": "越来越多的中国游戏公司开发单机游戏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81438",
-          "author": null,
-          "description": "天文学家发现了一个以 44 分钟周期发射无线电波和 X 射线的神秘天体 ASKAP J1832-0911。这一行为与已知天体都截然不同，能周期性发射高能辐射的天体如脉冲星，其周期已知最长为百秒。44 分钟长周期是首次观察到。此类天体被称为 LPT（long-period transient），天文学家对其信号如何产生尚不清楚。研究团队认为 ASKAP J1832-0911 是一颗死亡恒星，但死亡恒星的形态未知，可能是磁星（拥有强磁场的中子星）；可能是白矮星；也可能属于双星系统，其中之一有强磁场的白矮星。研究人员表示现有理论无法解释他们观测到的现象。",
-          "link": "https://www.solidot.org/story?sid=81438",
-          "publishedOn": "2025-05-30T16:33:55.000Z",
-          "wordCount": 185,
-          "title": "天文学家发现以 44 分钟周期发射无线电波和 X 射线的神秘天体",
-          "imageUrl": null
         }
       ]
     },
@@ -980,16 +1085,6 @@
           "publishedOn": "2025-06-01T06:06:06.000Z",
           "wordCount": 379,
           "title": "Happy June Sale! 🎁",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/end-of-may-sale-official",
-          "author": null,
-          "description": "At Browserling and Online Tools we love sales.\nWe just created a new automated End of May Sale.\nNow each month, on the last day of May, we show a 50% discount offer to all users who visit our site.\nBuy Now!\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing\nWhat Is Browserling?\nBrowserling is an online service that lets you test how other websites look and work in different web browsers, like Chrome, Firefox, or Safari, without needing to install them. It runs real browsers on real machines and streams them to your screen, kind of like remote desktop but focused on browsers. This helps web developers and regular users check for bugs, suspicious links, and weird stuff that happens in certain browsers. You just go to Browserling, pick a browser and version, and then enter the site you want to test. It's quick, easy, and works from your browser with no downloads or installs.\nWhat Are Online Tools?\nOnline Tools is an online service that offers free, browser-based productivity tools for everyday tasks like editing text, converting files, editing images, working with code, and way more. It's an all-in-one Digital Swiss Army Knife with 1500+ utilities, so you can find the exact tool you need without installing anything. Just open the site, use what you need, and get things done fast.\nWho Uses Browserling and Online Tools?\nBrowserling and Online Tools are used by millions of regular internet users, developers, designers, students, and even Fortune 100 companies. Browserling is handy for testing websites in different browsers without having to install them. Online Tools are used for simple tasks like resizing or converting images, or even fixing small file problems quickly without downloading any apps.\nBuy a subscription now and see you next time!\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing",
-          "link": "https://catonmat.net/end-of-may-sale-official",
-          "publishedOn": "2025-05-31T06:06:06.000Z",
-          "wordCount": 375,
-          "title": "End of May Sale! 🎁",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
