@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/openlist/",
+          "author": "青小蛙",
+          "description": "OpenList 是一个开源的网盘聚合工具，从 AList 分叉而来，支持在一个网页界面中操作多个网盘文件，可以进行文件管理、视频播放等。使用 AGPL-3.0 授权。目前已经有了新 Logo、新的",
+          "link": "https://www.appinn.com/openlist/",
+          "publishedOn": "2025-06-13T07:46:54.000Z",
+          "wordCount": 2627,
+          "title": "OpenList – 开源网盘聚合工具，支持文件管理、视频播放，从 AList 分叉而来",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-31.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/scrcpy-3/",
+          "author": "青小蛙",
+          "description": "Scrcpy 是一款开源免费的电脑控制安卓工具，Scrcpy v3.3 在昨日（2025年6月12日）更新，支持在 Android >= 15 上，鼠标可以在新的虚拟显示器上使用（需要使用 --",
+          "link": "https://www.appinn.com/scrcpy-3/",
+          "publishedOn": "2025-06-13T06:34:33.000Z",
+          "wordCount": 3108,
+          "title": "电脑控制安卓开源工具 Scrcpy v3.3 升级：支持在虚拟显示器上使用鼠标",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2024/11/Copy-of-appinn-homework-30.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/two-point-hospital/",
+          "author": "青小蛙",
+          "description": "医院的负责人是一个骗子！ 请病人不要死在走廊上！ 请不要在走廊上呕吐！ 感谢 @kimpvp 同学的提醒。 双点医院目前在 Epic 商店限时免费，可以直接在网页领取（👈点击前往）。 双点医院是著名的",
+          "link": "https://www.appinn.com/two-point-hospital/",
+          "publishedOn": "2025-06-13T03:34:46.000Z",
+          "wordCount": 2556,
+          "title": "《主题医院》精神续作《双点医院》本周在 Epic 商店限时免费",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-29.jpg"
+        },
+        {
           "id": "https://www.appinn.com/western-aesthetic/",
           "author": "青小蛙",
           "description": "西洋美术风象-艺术名画瀑布流 这个很长的名字，是一款 iPhone、iPad 应用，拥有上万幅世界名画，每幅画都可以直接下载，无水印。专们美术生、艺术生、美术老师、旅游爱好者设计，内有文艺复兴、巴洛克",
@@ -155,46 +185,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-10.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/substage/",
-          "author": "青小蛙",
-          "description": "Substage 是一款吸附在访达（Finder）下的 AI 命令栏工具，可以直接输入自然语言进行操作，它会帮你调用终端运行指令。@Appinn 感谢偶尔出没的 @yfzhe 推荐。 Substage",
-          "link": "https://www.appinn.com/substage/",
-          "publishedOn": "2025-06-04T09:33:08.000Z",
-          "wordCount": null,
-          "title": "Substage – 停靠在访达（Finder）下的 AI 命令栏工具[macOS]",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.appinn.com/voidimageviewer/",
-          "author": "青小蛙",
-          "description": "Everything 是 Windows 下大名鼎鼎的免费文件搜索工具，它可以让你很方面的搜索磁盘中的文件（名），速度非常快。@Appinn 来自发现频道，u0a815 同学推荐：https://me",
-          "link": "https://www.appinn.com/voidimageviewer/",
-          "publishedOn": "2025-06-04T06:57:13.000Z",
-          "wordCount": null,
-          "title": "voidImageViewer – 仅181KB，Everything 开发者 9 年前开源的看图小工具更新，几乎没人知道",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.appinn.com/photoshop-android-beta-free/",
-          "author": "青小蛙",
-          "description": "在今年2月份推出 iOS 版本客户端之后，Photoshop 终于发布了 Android 应用，并且测试期间全免费。@Appinn Photoshop 大概是知名度最高的软件了，你和谁说 PS、P 一",
-          "link": "https://www.appinn.com/photoshop-android-beta-free/",
-          "publishedOn": "2025-06-04T06:18:59.000Z",
-          "wordCount": null,
-          "title": "Photoshop 发布 Android 应用，测试期间所有功能全免费",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.appinn.com/syncthing2/",
-          "author": "青小蛙",
-          "description": "Syncthing 是一款跨平台的开源文件同步工具，可以在两台或多台计算机之间同步文件。昨日在发布 v1.29.7 的同时，发布了 v2.0.0-rc.19。 Syncthing 2 即将推出。 Sy",
-          "link": "https://www.appinn.com/syncthing2/",
-          "publishedOn": "2025-06-04T03:31:06.000Z",
-          "wordCount": null,
-          "title": "著名开源文件同步工具 Syncthing 2 即将推出",
-          "imageUrl": null
         }
       ]
     },
@@ -278,13 +268,13 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11717",
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11727",
           "author": "张 鑫旭",
-          "description": "这次介绍的新特性是JS PageSwap PageReveal事件，和View Transitions API一同设计与支持的，有兴趣的了解下。",
-          "link": "https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/",
-          "publishedOn": "2025-06-04T09:51:19.000Z",
-          "wordCount": 1364,
-          "title": "JS PageSwap PageReveal事件干嘛用的？",
+          "description": "CSS越来越强了，Scroll Snap交互又新增了按钮和切换按钮的生成与自定义，类似Carousel ，Slider这类经典交互纯CSS就能完全驾驭了。",
+          "link": "https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/",
+          "publishedOn": "2025-06-13T08:24:36.000Z",
+          "wordCount": 1520,
+          "title": "CSS ::scroll-button ::scroll-marker伪元素又是干嘛用的？",
           "imageUrl": null
         }
       ]
@@ -294,6 +284,86 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81552",
+          "author": null,
+          "description": "丹麦数字事务部准备从下个月开始，淘汰 Windows 和 Microsoft 365，切换到 Linux 和 LibreOffice。该计划将逐步推进，首先半数员工改用 Linux 和 LibreOffice，如果一切顺利，所有员工将从秋季开始使用开源解决方案。部长 Caroline Stage 表示，此举旨在节省成本以及减少对美国软件的依赖，称数字主权是该部门的优先事项。此举也有助于应对 Windows 10 操作系统即将于今年 10 月终止支持所带来的安全问题。Stage 表示如果进展不顺利的话，还是会继续使用微软软件。",
+          "link": "https://www.solidot.org/story?sid=81552",
+          "publishedOn": "2025-06-13T10:03:52.000Z",
+          "wordCount": 191,
+          "title": "丹麦一政府部门准备淘汰 Windows 和 Microsoft 365",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81551",
+          "author": null,
+          "description": "日本北海道大学研究团队在《自然》上发表研究成果，指出体重不到约 500 公斤的中间型的暴龙在以几百万年为单位在亚洲和北美大陆之间迁徙的过程中，朝着体重达到约 1 吨以上的大型化方向进化。此前的观点是认为体型增大仅发生在北美。研究团队报告在蒙古约 9300 万至 8300 万年前地层中发现了中间型暴龙化石，将其新命名为“Khankhuuluu mongoliensis”。他们推测完成大型化的暴龙的祖先起源于亚洲，最晚在约 8600 万年前迁徙至北美，然后最晚在约 7800 万年前迁徙至亚洲，在约 7300 万年至约 6700 万年前再次迁徙至北美。迁徙的理由尚不清楚，团队表示将进一步研究。",
+          "link": "https://www.solidot.org/story?sid=81551",
+          "publishedOn": "2025-06-13T09:49:14.000Z",
+          "wordCount": 174,
+          "title": "研究认为霸王龙的大型化始于亚洲",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81550",
+          "author": null,
+          "description": "2025 年 4 月 29 日苹果通知部分 iOS 用户，称他们成为先进间谍软件的攻击目标。加拿大多伦多大学公民实验室对两位欧洲记者 iPhone 手机进行的分析证实，他们遭到了以色列公司 Paragon 的间谍软件 Graphite 的攻击。苹果表示它已经释出了 iOS 18.3.1 缓解了部署间谍软件利用的零点击攻击，该漏洞被分配了编号 CVE-2025-43200。被攻击的两名欧洲记者一人要求匿名，另一人是意大利记者 Ciro Pellegrino。攻击发生在 2025 年 1 月到 2 月初之间，当时 iPhone 运行的是 iOS 18.2.1系统。Pellegrino 的同事、Fanpage.it 网站编辑 Francesco Cancellato 于 2025 年 1 月收到 WhatsApp 通知称遭到 Graphite 间谍软件的攻击。这起攻击可能与意大利政府有关。",
+          "link": "https://www.solidot.org/story?sid=81550",
+          "publishedOn": "2025-06-13T09:44:03.000Z",
+          "wordCount": 202,
+          "title": "两名欧洲记者的手机感染了以色列间谍软件 Paragon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81549",
+          "author": null,
+          "description": "Meta正式宣布投资近150亿美元收购Scale AI 49%股份，同时聘请其创始人亚历山大·王领导全新的\"超级智能\"实验室。25岁的亚历山大·王是华裔天才创业者，19岁从MIT辍学创立Scale AI，专注为AI模型提供高质量数据标注服务，八年内将公司发展为估值138亿美元的AI独角兽，被誉为\"AI模型的数据工厂\"，为OpenAI、Meta、Google等主要AI公司提供数据服务。在最新访谈中，亚历山大·王分享了创业方法论：强调认知套利能力比技术更重要，专注度是创业公司对抗科技巨头的核心优势，企业销售中感知比现实更重要。他指出当前AI发展面临数据墙困境，合成数据无法完全解决问题，未来需要人类生成数据与计算资源同步指数级增长，这为Scale AI等数据基础设施公司带来巨大机遇。",
+          "link": "https://www.solidot.org/story?sid=81549",
+          "publishedOn": "2025-06-13T09:33:23.000Z",
+          "wordCount": 168,
+          "title": "Scale AI 亚历山大·王的创业法则：人类计算资源可像计算机一样编排，吴恩达一观点毁掉红杉投资，YC创始人一句话带来商业灵感",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81545",
+          "author": null,
+          "description": "安克（Anker）宣布召回逾百万台有起火风险的移动电源 PowerCore 10000（型号 A1263）。美国消费者产品安全委员会 (USCPSC) 称它收到了 19 起火灾和爆炸报告，这些事故造成了轻微烧伤和总计逾 60,700 美元的财产损失。召回的产品总数约 1,158,000 台，于 2016 年 6 月到 2022 年 12 月期间通过亚马逊、新蛋和 eBay 在线出售。如果美国客户的产品在受影响范围内，他们可以选择获得 30 美元礼品卡或者免费更换型号为 A1388 的移动电源，具体信息可访问安克官网。",
+          "link": "https://www.solidot.org/story?sid=81545",
+          "publishedOn": "2025-06-13T07:46:34.000Z",
+          "wordCount": 186,
+          "title": "Anker 召回逾百万台有起火风险的移动电源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81544",
+          "author": null,
+          "description": "对于停止在 X 平台上投放广告的企业，马斯克（Elon Musk）采取了起诉或威胁起诉的策略。根据 WSJ 的报告，\n这一策略取得了部分成效。2022 年起不再投放广告的 Verizon 公司在去年底被通知，如果再不投广告就要被起诉。Verizon 随后承诺今年将至少投入 1000 万美元（这一数额仍然远远低于 2020 年的 8000 万美元）。时尚公司拉夫·劳伦 (Ralph Lauren)在收到起诉威胁之后也同意恢复投放广告。至少有六家企业因为面临起诉威胁或施压策略而与 X 达成了广告交易。X 是亚马逊云服务 AWS 的客户，但它拖欠了应付款项，并以此为筹码要求\n亚马逊投放广告。在 CEO Andy Jassy 的参与下，亚马逊最后同意扩大对 X 的广告支出。X 今年 2 月将乐高公司以及和 Pinterest 加入到起诉名单中，但两家公司拒绝屈服。",
+          "link": "https://www.solidot.org/story?sid=81544",
+          "publishedOn": "2025-06-13T07:26:12.000Z",
+          "wordCount": 191,
+          "title": "马斯克威胁起诉广告商取得部分成效",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81543",
+          "author": null,
+          "description": "西班牙研究人员报告，如果企业切实落实四天工作制，不仅能提高生产力，还能改善员工工作生活平衡、增强人才留任意愿。项目首席研究人员称，研究表明，四天工作制配合弹性工作安排——包括远程办公、弹性工时和假期置换制度——成效显著，关键在于企业或机构的切实推行。研究深入分析了西班牙、芬兰、法国等六国公私部门的工作生活平衡政策。分析案例表明，四天工作制同样适用于科技业外的其他领域，如建筑业、金属加工业和餐饮服务业。但研究发现，不同国家对弹性工作制的响应程度存在差异：在法国、西班牙等通过国家立法保障集体谈判权、且集体协议具有强制约束力的国家，创新工作制度更为多样；而在匈牙利和爱尔兰等劳资协商机制较弱的国家，则更多依赖企业自主改革。",
+          "link": "https://www.solidot.org/story?sid=81543",
+          "publishedOn": "2025-06-13T06:09:53.000Z",
+          "wordCount": 156,
+          "title": "四天工作制能提高生产力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81542",
+          "author": null,
+          "description": "在《Lex Fridman Podcast》最新一期超过两小时的访谈中，谷歌CEO桑达尔·皮查伊深度分享了从个人成长到AI战略的核心思考。一年前面临\"落后批评\"时，皮查伊坚持\"信号降噪\"原则，将外界噪音与核心技术数据分离，果断合并DeepMind与Google Brain两大研究团队，推动谷歌重回AI领先地位。他认为AI是比火与电更深远的技术革命，因其具备递归自我改进的独特能力，将极大降低创意实现门槛，实现创造力的民主化。针对AGI时间表，皮查伊预测略晚于2030年实现，但到2030年必将取得巨大进步。对于AI末日概率P(Doom)，他持谨慎乐观态度，相信当威胁足够大时会激发全人类集体智慧应对。皮查伊还透露了谷歌搜索AI化策略，通过\"主干-分支\"模式平衡稳定与创新，并展望了Android XR眼镜等未来产品。访谈展现了这位\"非典型CEO\"如何以克制而坚定的领导风格，引领谷歌在AI时代的转型。",
+          "link": "https://www.solidot.org/story?sid=81542",
+          "publishedOn": "2025-06-13T05:33:51.000Z",
+          "wordCount": 160,
+          "title": "谷歌CEO皮查伊两小时访谈：AI是人类所见过最深远的技术，意义将超越火与电，因为它可以自我迭代",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81541",
           "author": null,
@@ -943,106 +1013,6 @@
           "wordCount": 194,
           "title": "Meta Android 应用停止使用移动端口跟踪技术",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81470",
-          "author": null,
-          "description": "微软官方博客宣布，为遵守欧盟的《Digital Markets Act》，它对 Windows 操作系统上的应用做出了一系列调整，给予欧洲经济区用户对 Windows 更多的控制权。其中包括允许卸载 MS Edge 和 Microsoft Store，用户选择的默认浏览器关联的链接类型和文件类型将从 http、https、.htm 和 .html 扩大到 ftp、http、https、read 以及 htm、.html、.mht、.mhtml、.shtml、.svg、.xht、.xhtml .xml 等。Windows Search 可以选择使用 Bing 之外的多种搜索引擎。除非实际运行，Microsoft Edge 不会再提醒用户将其设置为默认浏览器。卸载 Microsoft Edge 后，Windows 应用不会再提醒用户重新安装它。当然这一系列更改仅适用于欧盟经济区，其他地区还是照旧。",
-          "link": "https://www.solidot.org/story?sid=81470",
-          "publishedOn": "2025-06-04T14:42:39.000Z",
-          "wordCount": 194,
-          "title": "为遵守欧盟法律微软给予欧洲用户对 Windows 更多的控制权",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81469",
-          "author": null,
-          "description": "大部分用户只想要一个简洁高效的轻量级纯文本笔记应用，然而软件巨人仍然在不停的给记事本添加新功能，在多项 AI 功能之后它又在测试新功能，这一次是 Markdown 文本格式。该功能已经提供给 Dev 和 Canary 频道的 Windows Insider 测试者。该功能推送给所有用户只是时间问题，虽然微软有时候会改变主意，但希望不大。微软称，用户可以在设置中完全禁用 Markdown 格式支持。想要原始版记事本使用体验的用户可能需要多点击几次按钮了。微软没有回答是否可以永久禁用 Markdown 或者有多少人想要在记事本里使用 Markdown 的问题。",
-          "link": "https://www.solidot.org/story?sid=81469",
-          "publishedOn": "2025-06-04T14:11:40.000Z",
-          "wordCount": 177,
-          "title": "微软测试给记事本添加 Markdown",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81468",
-          "author": null,
-          "description": "科学家首次提供了直接观测证据，证实了2023年9月至10月期间出现的异常全球性地震震动，确实是由于格陵兰发生的两次超级海啸所引发的被困驻波。\n2023 年 9 月，一种奇特的全球性地震信号被首次观察到，它每隔 90 秒重复一次，持续了整整九天，并在一个月后再次重现。一年后，有两项科学研究提出，这些地震异常现象的根源是发生在格陵兰东部一个偏远峡湾中的两场由大规模山体滑坡引发的超级海啸，而山体滑坡则是由于一座无名冰川升温所导致的。这些波浪被认为被困在了峡湾系统中，形成了来回摆动的驻波，从而引发了神秘的地震信号。在新研究中，研究人员采用了全新的数据分析方法来解读卫星测高数据。这种技术通过测量雷达脉冲从卫星发射到地表再返回所需的时间，来测定地球表面（包括海洋）的高度。研究人员利用 SWOT 卫星的 Ka波段雷达干涉仪（KaRIn），在两次海啸发生后的不同时间点绘制了格陵兰峡湾的水位变化图。这些图清晰地显示出了跨越峡湾通道的水位倾斜现象，最大高度差达到两米。关键在于，这些倾斜方向在不同时刻相反，表明水体在峡湾中来回流动。",
-          "link": "https://www.solidot.org/story?sid=81468",
-          "publishedOn": "2025-06-04T13:46:31.000Z",
-          "wordCount": 174,
-          "title": "科学家确认 2023 年发生的神秘震动源自格陵兰岛海啸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81467",
-          "author": null,
-          "description": "特朗普政府的 2026 年预算提案将为私营部门领导的商业火星探索拨款逾 10 亿美元，与此同时 NASA 的预算则被削减了四分之一。NASA 的科研项目预计将面临重创，此外特朗普政府收回了任命亿万富翁 Jared Isaacman 为 NASA 局长的提议，一个原因可能与马斯克（Elon Musk）退出特朗普的核心圈子有关，Jared Isaacman 是马斯克青睐的人选，曾搭乘 SpaceX 的飞船多次飞到地球轨道。另一个原因据 NYT 报道称，Isaacman 曾向民主党捐款，招致特朗普的不满。",
-          "link": "https://www.solidot.org/story?sid=81467",
-          "publishedOn": "2025-06-04T13:33:24.000Z",
-          "wordCount": 192,
-          "title": "特朗普政府的 2026 年预算将为商业火星探索拨款逾 10 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81466",
-          "author": null,
-          "description": "日本厚生劳动省公布的人口动态统计显示，2024 年新生儿数为 686,061 人，是开始统计的 1899 年以来首次跌破 70 万。相比 2023 年，减少了 41,227 人，减幅为 5.7%。每名女性一生所生孩子的推定人数“总和生育率”为 1.15，低于 2023 年的 1.20，创历史新低。东京都的生育率最低为 0.96。日本出生人数和出生率连续 9 年双双下滑。少子化速度比政府估算快了 15 年，未出现逆转的迹象。2024 年死亡数为迄今最多的 1,605,298人，死亡人数超过出生人数的人口“自然减少”为 919,237 人，创历史新高。连续 18 年呈现自然减少，人口减少也在加速。",
-          "link": "https://www.solidot.org/story?sid=81466",
-          "publishedOn": "2025-06-04T09:53:16.000Z",
-          "wordCount": 199,
-          "title": "日本 2024 年新生儿数首次跌破 70 万",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81465",
-          "author": null,
-          "description": "微软支持的 AI 创业公司 Builder.ai 最近申请破产，它的 AI 聊天机器人 Natasha 被发现其实是数百名印度员工伪装的。Builder.ai 从微软和 Qatar Investment Authority 等筹集到逾 4.45 亿美元资金，估值一度达到 15 亿美元，它的产品 Natasha 号称能用 AI 为客户生成软件，但实际上软件是由约 700 名印度员工根据客户要求在幕后手动编写的。Builder.ai 被发现虚报了 2024 年的收入，审计显示它的实际收入只有 5000 万美元，但它告诉投资者收入达到了 2.2 亿美元。",
-          "link": "https://www.solidot.org/story?sid=81465",
-          "publishedOn": "2025-06-04T09:37:42.000Z",
-          "wordCount": 198,
-          "title": "AI 创业公司被发现其聊天机器人是 700 名印度员工",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81464",
-          "author": null,
-          "description": "2023 年 11 月 OpenAI 董事会出其不意的宣布解雇 CEO Sam Altman，但五天之后 Altman 又重返公司，原董事会成员大部分在一年之内都陆续离开。OpenAI 董事会是认为 Altman 有滥权和操纵行为后而决定将其解雇，他们认为此举是履行其义务。在一年半之后，亚马逊米高梅影业正准备将这次事件搬上大银幕。影星 Andrew Garfield 将出演 Altman(他参演过《社交网络》)，Monica Barbaro 出演 CTO Mira Murat，Yura Borisov 出演领导罢免行动的联合创始人 Ilya Sutskever。Heyday Films 的 David Heyman 和 Jeffrey Clifford 将担任制片人，Simon Rich 担任编剧。亚马逊计划今年夏天开拍。",
-          "link": "https://www.solidot.org/story?sid=81464",
-          "publishedOn": "2025-06-04T09:00:57.000Z",
-          "wordCount": 212,
-          "title": "OpenAI 董事会短暂解雇 CEO Sam Altman 的故事被搬上银幕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81461",
-          "author": null,
-          "description": "上周日，在一次战争中最大胆的协同攻击中，乌克兰使用了一百多架无人机对俄罗斯后方机场的远程轰炸机发动大规模无人机攻击。无人机、炸药以及相关平台通过走私进入俄罗斯，在组装之后雇佣俄罗斯卡车司机将它们运送到目标机场附近，然后打开卡车车顶，连接俄罗斯本国的移动网络，对五个机场上停放的 41 架远程轰炸机发动攻击。目前卫星图像确认有 13 架轰炸机严重受损，还有一架 A-50 预警机严重受损。这次攻击被称为蛛网行动，无人机的自主驾驶系统使用了开源软件 ArduPilot。ArduPilot 项目始于 2007 年，采用 GPLv3 许可证，它最初是为基于 Arduino 的微控制器设计的，之后发展成为被业界、研究机构、军方和业余爱好者广泛使用的功能完整的无人机自主驾驶系统。",
-          "link": "https://www.solidot.org/story?sid=81461",
-          "publishedOn": "2025-06-04T08:00:59.000Z",
-          "wordCount": 171,
-          "title": "乌克兰使用开源软件对俄罗斯后方机场轰炸机发动无人机攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81460",
-          "author": null,
-          "description": "印度便利店应用 KiranaPro 的 CEO Deepak Ravindran 声称，一位攻击者蓄意删除了该公司在 GitHub 的代码库以及亚马逊 AWS 上的资源。日志信息显示是攻击者是内部人士。删库事件发生在上周，此后该应用一直无法运行。KiranaPro 允许消费者通过印度各地的便利店 Kirana 购买商品，用户下单之后，KiranaPro 将单子发送给用户附近的便利店竞标，获胜者将负责发货，从下单到发货的时间通常不超过 20 分钟。该应用每天处理逾 2000 份订单。",
-          "link": "https://www.solidot.org/story?sid=81460",
-          "publishedOn": "2025-06-04T06:01:23.000Z",
-          "wordCount": 182,
-          "title": "印度便利店应用 KiranaPro 被删库",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81459",
-          "author": null,
-          "description": "中国科学院金属研究所研究员张志东确定了“背包问题”的计算复杂度下限。研究报告发表在《AIMS数学》（AIMS Mathematics）。“背包问题”是计算机科学中经典的NP完全问题（非确定性图灵机多项式复杂度求解的决定问题）。“背包问题”的目标是，在限制所有物体权重之和小于或等于最大权重的前提下，最大化所有物体的价值之和。“背包问题”可用来进行组合数学、密码学、商业等领域的计算，还可以应用在不同领域的决策，如寻找减少原材料使用、投资组合的选择、密钥产生等最优化搜寻路径。“背包问题”与自旋玻璃模型的联系是，“背包问题”的二元决定性变量对应于自旋向上和自旋向下两种状态。“背包问题”的权重对应于自旋之间的相互作用。“背包问题”的哈密顿量可以映射成具有偏置场的自旋玻璃模型的哈密顿。因此，通过求解自旋玻璃模型可以求解“背包问题”。研究得出结论，背包问题计算复杂度的下限为（1+无限小）的N次方——即O((1+ε)^N)。",
-          "link": "https://www.solidot.org/story?sid=81459",
-          "publishedOn": "2025-06-03T15:25:13.000Z",
-          "wordCount": 161,
-          "title": "研究确定背包问题计算复杂性下限",
-          "imageUrl": null
         }
       ]
     },
@@ -1127,13 +1097,34 @@
       "title": "reuixiy",
       "feedUrl": "https://io-oi.me/rss.xml",
       "siteUrl": "https://io-oi.me/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://io-oi.me/tech/business-for-love/",
+          "author": "reuixiy@gmail.com (reuixiy)",
+          "description": "AI 時代人們總是擔心自己會被機械取代，但這與以往任何科技革新時代前夕的擔憂一樣，是過慮的，因為商業機械本身服務的是齒輪。\n\n閱讀全文：https://io-oi.me/tech/business-for-love/\n透過 Substack 訂閱支援我的創作！",
+          "link": "https://io-oi.me/tech/business-for-love/",
+          "publishedOn": "2025-06-13T21:43:00.000Z",
+          "wordCount": 24,
+          "title": "商業的本質是利他",
+          "imageUrl": "https://io-oi.me/images/steve-jobs.jpg"
+        }
+      ]
     },
     {
       "title": "catonmat.net",
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/friday-the-13th-sale-official-letsgo",
+          "author": null,
+          "description": "At Browserling and Online Tools we love sales.\nWe just created a new automated Friday the 13th Sale.\nNow on all Fridays the 13th, we show a 75% discount offer to all users who visit our site.\nThis year it runs on Jun 13th, next year on Feb 13th, etc.\nHow did we find the dates of all Fridays the 13th?\nWe used our Friday the 13th Finder tool!\nBuy a Sub Now!\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing\nWhat Is Browserling?\nBrowserling is an online service that lets you test how other websites look and work in different web browsers, like Chrome, Firefox, or Safari, without needing to install them. It runs real browsers on real machines and streams them to your screen, kind of like remote desktop but focused on browsers. This helps web developers and regular users check for bugs, suspicious links, and weird stuff that happens in certain browsers. You just go to Browserling, pick a browser and version, and then enter the site you want to test. It's quick, easy, and works from your browser with no downloads or installs.\nWhat Are Online Tools?\nOnline Tools is an online service that offers free, browser-based productivity tools for everyday tasks like editing text, converting files, editing images, working with code, and way more. It's an all-in-one Digital Swiss Army Knife with 1500+ utilities, so you can find the exact tool you need without installing anything. Just open the site, use what you need, and get things done fast.\nWho Uses Browserling and Online Tools?\nBrowserling and Online Tools are used by millions of regular internet users, developers, designers, students, and even Fortune 100 companies. Browserling is handy for testing websites in different browsers without having to install them. Online Tools are used for simple tasks like resizing or converting images, or even fixing small file problems quickly without downloading any apps.\nBuy a subscription now and see you next time!\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing",
+          "link": "https://catonmat.net/friday-the-13th-sale-official-letsgo",
+          "publishedOn": "2025-06-13T06:06:06.000Z",
+          "wordCount": 410,
+          "title": "Friday the 13th Sale (75% OFF!) 👻",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/flash-sale-official",
           "author": null,
@@ -1152,16 +1143,6 @@
           "publishedOn": "2025-06-05T04:04:04.000Z",
           "wordCount": 388,
           "title": "6.55 Million Google Clicks! 💵",
-          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
-        },
-        {
-          "id": "https://catonmat.net/654-million-google-clicks",
-          "author": null,
-          "description": "Yesterday Online PNG Tools smashed through 6.53M Google clicks and today it's smashed through 6.54M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!\nWhat Are Online PNG Tools?\nOnline PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.\nWho Created Online PNG Tools?\nOnline PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.\nWho Uses Online PNG Tools?\nOnline PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.\nSmash too and see you tomorrow at 6.55M clicks! 📈\nPS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸",
-          "link": "https://catonmat.net/654-million-google-clicks",
-          "publishedOn": "2025-06-04T08:18:18.000Z",
-          "wordCount": 388,
-          "title": "6.54 Million Google Clicks! 💵",
           "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
         }
       ]
