@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/typora-markdown/",
+          "author": "青小蛙",
+          "description": "这大概是最知名的 Markdown 编辑器了 Typora 是一款适配 Win / Mac 平台的 Markdown 编辑器，支持实时预览，所见即所得。支持 LaTeX 公式、版本控制、流程图等功能，",
+          "link": "https://www.appinn.com/typora-markdown/",
+          "publishedOn": "2025-06-17T07:28:01.000Z",
+          "wordCount": 2731,
+          "title": "618 大促！ 跨平台 Markdown 编辑器 Typora，买断仅需 80.1 元",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-35.jpg"
+        },
+        {
           "id": "https://www.appinn.com/wechat-chat-backup-to-usb/",
           "author": "青小蛙",
           "description": "来自论坛分享频道的 @amen 同学昨天夜里发帖称：https://meta.appinn.net/t/topic/72356 据说微信要支持自动备份聊天记录了 并且附了一张图： 另外一位用户 @m1",
@@ -160,16 +170,6 @@
           "wordCount": 2875,
           "title": "微软照片将支持自然语言搜索，需要 Copilot+ 电脑",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-15.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/faxian-25-23/",
-          "author": "青小蛙",
-          "description": "下图是挺早之前创建的自动更新发现频道项目的网页（ https://x.appinn.com ），由于没怎么宣传，以及连统计系统都没上，我也不知道是不是这个地球上只有我一个用户： 发现指数是反映该项目发",
-          "link": "https://www.appinn.com/faxian-25-23/",
-          "publishedOn": "2025-06-08T12:44:14.000Z",
-          "wordCount": 2652,
-          "title": "本周发现频道 10 个有趣的新项目[25.23]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-14.jpg"
         }
       ]
     },
@@ -178,6 +178,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=387159",
+          "author": "Sacha Greif",
+          "description": "How do you stay informed of new CSS features when the language evolves quickly and information is spread all around the web? Sacha Greif has some tips from his work running an annual survey focused on new CSS features.\nHow to Keep Up With New CSS Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-keep-up-with-new-css-features/",
+          "publishedOn": "2025-06-17T13:13:15.000Z",
+          "wordCount": 3010,
+          "title": "How to Keep Up With New CSS Features",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/11/education-brackets.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=386338",
           "author": "Zell Liew",
@@ -249,6 +259,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81582",
+          "author": null,
+          "description": "人类与蚊子之间的战争持续了数千年，期间蚊子杀死的人类远超过其它任何动物。传统方法的失败促使科学家寻求新方法发起反击。马里兰大学的生物学家通过生物工程技术创造出一种致命真菌，通过性传播去杀死雌蚊。被称为绿僵菌(Metarhizium)的真菌能产生针对蚊子的神经毒素，但其天然版本致死率太低，改造过的版本更致命。通过向雄蚊喷洒改造后的真菌孢子，近九成的雌蚊在与雄蚊交配两周后死亡。天然版本死亡率仅仅为 4%。基因改造后的绿僵菌对人类无害。",
+          "link": "https://www.solidot.org/story?sid=81582",
+          "publishedOn": "2025-06-17T14:57:40.000Z",
+          "wordCount": 159,
+          "title": "科学家创造出一种致命真菌去对抗蚊子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81581",
+          "author": null,
+          "description": "从网银加密到公平的彩票抽奖，随机数至关重要，但现有的基于计算机的随机数生成器有很大局限性，如果有人知道初始条件，那么就可能推断出所有未来的输出。测量电子噪声等物理过程的硬件随机数生成器则无法证明其随机性不是可预测的或篡改过的。现在研究人员创造出第一种完全可验证的随机数生成器。新系统利用了量子纠缠确保不可预测性。系统会创造出共享量子属性的光子对，发射到 110 米外的测量站。测量光子的属性时，量子系统确保结果是随机的。研究团队创造了名为 Twine 的系统，将随机数生成过程分成多个独立步骤，每一步记录在防篡改的分布式账簿哈希链中，确保没有任何一方能控制它，任何人都可以独立验证。在 40 天的测试中，系统在 7,454 次尝试中成功生成了 7,434 个随机数，成功率 99.7%。每次成功运行都会产生 512 随机比特，错误率 2^-64。",
+          "link": "https://www.solidot.org/story?sid=81581",
+          "publishedOn": "2025-06-17T14:40:45.000Z",
+          "wordCount": 172,
+          "title": "研究人员创造出第一种完全可验证的真随机数生成器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81580",
+          "author": null,
+          "description": "KDE 桌面环境项目释出了 Plasma 6.4。主要新变化包括：允许为每一个虚拟桌面选择不同的磁贴布局；支持用数字键盘键移动指针，触控板手势放大或缩小；增加前景和背景元素之间的对比度；改进了 Info Center 和 KMenuEdit 的外观；文件传输通知会显示直观的进度图；可直接通过可用更新通知安装更新；应用全屏模式下将进入“请勿打扰”模式，将只会显示紧急通知；当应用尝试访问麦克风发现麦克风静音时会弹出通知；等等。",
+          "link": "https://www.solidot.org/story?sid=81580",
+          "publishedOn": "2025-06-17T13:49:20.000Z",
+          "wordCount": 177,
+          "title": "KDE Plasma 6.4 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81579",
+          "author": null,
+          "description": "特朗普集团周一公布了一款售价 499 美元的智能手机以及月费 47.45 美元的手机套餐。被称为 T1 的智能手机将于 9 月上市，由第三方设计和制造，特朗普集团未披露手机制造厂商。展示的手机图像显示 T1 搭配了金色外壳，印有美国国旗，显示 MAGA 标语。其硬件配置为 6.8 英寸 AMOLED 显示屏、Android 15 操作系统，12GB 内存与 256GB 内部储存空间（无其它选择），主摄像头为 5,000 万像素，前摄像头为 1,600 万像素。",
+          "link": "https://www.solidot.org/story?sid=81579",
+          "publishedOn": "2025-06-17T13:37:11.000Z",
+          "wordCount": 192,
+          "title": "特朗普集团宣布 499 美元智能手机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81578",
+          "author": null,
+          "description": "根据路透研究所的一项研究，当代美国人最主要的新闻来源是社交媒体。数据显示，54% 的人通过 Facebook、X和 YouTube 等获取新闻，超过了电视（50%）、新闻网站和应用（48%）。世界其它地方也有类似的趋势，但美国发生的更快影响也更为深远。播客 Joe Rogan 最受欢迎，22% 的受访者表示上周看到过他的新闻或评论。一部分政客在挑选采访者时也倾向于选择网络主播而不是主流媒体。民粹主义政客因此能绕过传统新闻媒体。虽然网红人气更高，但并不被认为是可靠的新闻来源，47% 的人认为他们是虚假信息的主要来源。而马斯克的 X 平台越来越受到右翼人士的青睐。报告称，TikTok 是增长最快的社交和视频网络，17% 的人使用它获取新闻，比去年增长了 4 个百分点；越来越多的人使用 AI 聊天机器人获取新闻，这一趋势在 25 岁以下人群中最显著；大多数人认为 AI 会降低新闻的透明度、准确性和可信度；知名媒体仍然被视为更可靠。",
+          "link": "https://www.solidot.org/story?sid=81578",
+          "publishedOn": "2025-06-17T10:27:29.000Z",
+          "wordCount": 188,
+          "title": "美国最主要的新闻来源如今是社交媒体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81577",
+          "author": null,
+          "description": "根据英特尔制造业务副总裁 Naga Chandrasekaran 上周六发给员工的备忘录，该公司将从七月起裁减 15%-20% 的工厂员工，裁员规模可能逾万人。截至 2024 年底，英特尔共有 10.9 万名员工，但制造业务的员工总数没有披露。英特尔其它业务部门也在大裁员，员工表示公司没有具体说明每个业务部门将裁减多少个岗位。",
+          "link": "https://www.solidot.org/story?sid=81577",
+          "publishedOn": "2025-06-17T09:33:13.000Z",
+          "wordCount": 174,
+          "title": "英特尔将裁减 15%-20% 的芯片工厂员工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81576",
+          "author": null,
+          "description": "OpenAI 和微软之间的紧张关系接近临界点。OpenAI 希望削弱微软对其 AI 产品和计算资源的掌控，并确保它批准其转型为营利性公司。微软是 OpenAI 最大的投资者，它的对 OpenAI 转型的批准是其筹集更多资金并上市的关键。OpenAI 高管最近几周谈论了所谓的核选项：指控微软在双方合作期间有反竞争行为。这可能意味着寻求美国联邦监管机构对双方的合同条款进行审查，寻找可能违反反垄断的行为。此举可能威胁到双方六年的合作关系。根据双方的协议，微软可使用 OpenAI 的所有 IP。但双方的产品如今存在竞争关系，微软推出了 AI 编程助手 GitHub Copilot 而 OpenAI 正在收购提供 AI 编程助手的 Windsurf 公司，它不希望微软能访问 Windsurf 的知识产权。",
+          "link": "https://www.solidot.org/story?sid=81576",
+          "publishedOn": "2025-06-17T08:42:58.000Z",
+          "wordCount": 189,
+          "title": "OpenAI 和微软之间的紧张关系加剧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81575",
+          "author": null,
+          "description": "著名游戏 Mod 分享托管网站 Nexus Mods 创始人 Robin Scott aka Dark0ne 宣布卸任，理由是在运营网站长达 24 年之后筋疲力尽，出现了焦虑等精神健康问题，他认为自己是时候及时退出将网站转交给其他人管理。Dark0ne 与其朋友在 2001 年创办了《上古卷轴 III 晨风》粉丝网站 Morrowind Chronicles，托管游戏相关的 Mod，随着它支持越来越多的游戏 Mod，网站逐渐更名为 TESSource、TESNexus、Nexus，最终变成了我们今天所熟知的 Nexus Mods。Nexus Mods 有逾 6000 万注册用户，是最大的 PC 游戏 Mod 社区之一。Dark0ne 将网站的所有权转交给了 Foledinho (Victor) 和 Rapsak (Marinus)领导的团队。",
+          "link": "https://www.solidot.org/story?sid=81575",
+          "publishedOn": "2025-06-17T07:35:08.000Z",
+          "wordCount": 204,
+          "title": "Nexus Mods 创始人卸任",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81574",
+          "author": null,
+          "description": "天文学家运用观测快速射电暴（Fast Radio Bursts, FRBs）首度证实，超过四分之三的宇宙重子物质（baryonic matter）潜藏于星系间稀薄的气体中，对理解宇宙中物质的分布与交互作用迈出关键一步。科学界已知宇宙中至少有一半的重子物质尚未被直接观测确认。快速射电暴为来自遥远星系的短促而强烈的电波讯号，近年被证实可用以测量宇宙中的重子含量，但直到近期仍无法用来定位这些物质的具体位置。研究团队分析了60个快速射电暴事件，从距离地球仅1,174万光年的M81星系中的快速电波爆 20200120E，一直到距离达91亿光年的快速电波爆 20230521B。透过量测这些讯号在穿越宇宙空间过程中所遭遇的延迟（色散测量），研究团队成功追踪其沿途所通过的气体密度，进而将遗失的重子物质定位于星系间介质（intergalactic medium, IGM）中。研究结果显示，约76%的重子物质存在于星系间介质之中，另有约15%分布于星系晕（halo）中，其余则以恒星或冷星系气体的形式存在。此一分布结果与先前先进的宇宙模拟预测高度一致，为首次以观测方式直接加以验证。",
+          "link": "https://www.solidot.org/story?sid=81574",
+          "publishedOn": "2025-06-17T07:02:21.000Z",
+          "wordCount": 166,
+          "title": "大部分重子物质藏身于星际之间",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81573",
+          "author": null,
+          "description": "根据发行说明，预计将于今年 8 月释出的开源办公软件 LibreOffice 25.8 将停止支持 Windows 7 以及 8/8.1，也将停止支持 Windows 的 32 位版本。微软早已停止支持上述旧操作系统，而 Mozilla 的 Firefox 115 ESR 将会支持 Windows 7/8/8.1 到 2025 年 9 月。",
+          "link": "https://www.solidot.org/story?sid=81573",
+          "publishedOn": "2025-06-17T06:43:32.000Z",
+          "wordCount": 207,
+          "title": "LibreOffice 25.8 将停止支持 Windows 7 和 8/8.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81572",
+          "author": null,
+          "description": "今天流行的无人机使用旋翼设计，优点是稳定但缺陷是续航力有限。为什么无人机不能像美国 V-22 鱼鹰式倾转旋翼机那样兼具直升飞机垂直起降和固定翼飞机的功能？是否是因为这种设计过于复杂？一位 17 岁的美国学生 Cooper Taylor 解决了该问题，获得了五角大楼和海军的奖学金，正在参与 MIT 的一个无人机项目。他已经制造了六架原型机，使用 3D 打压了所有零部件，他声称制造无人机的成本仅为同类无人机的五分之一。他设计新发动机的起因源于妹妹的旋翼无人机飞行半小时就没电了，研究后发现类似 V-22 的垂直起降倾转旋翼机续航时间更长。他设计的发动机能像直升机那样起飞然后倾斜变成飞机发动机。",
+          "link": "https://www.solidot.org/story?sid=81572",
+          "publishedOn": "2025-06-17T06:20:02.000Z",
+          "wordCount": 175,
+          "title": "17 岁学生让无人机能像鱼鹰一样飞行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81571",
+          "author": null,
+          "description": "AI教父辛顿在2023年离开谷歌后，从AI乐观派转变为风险派，在最新播客访谈中深度阐述了对AI威胁的担忧。他认为AI发展已无法叫停，估计超级智能出现的概率在10%-20%之间，可能在10-20年内实现。辛顿详细分析了AI带来的两大类风险：人类滥用AI（网络攻击激增1200%、生物武器门槛降低、选举操纵、回音室效应加剧）和AI自主威胁（自主杀伤武器、大规模失业危机）。他指出数字智能在信息共享、学习效率和不朽性方面具有根本优势，当前AI系统可能已具备主观体验和情感。辛顿强调最大挑战是确保AI永远不想伤害人类，而非阻止其获得相关能力。他呼吁政府强制企业投入更多资源进行AI安全研究，并对自己毕生工作可能带来的潜在灾难性后果表达了深刻反思，认为监管总是滞后于技术发展，人类需要重新定义在AI时代的存在价值。",
+          "link": "https://www.solidot.org/story?sid=81571",
+          "publishedOn": "2025-06-17T03:49:09.000Z",
+          "wordCount": 157,
+          "title": "AI教父辛顿最新访谈：在个性化算法时代，人类的共同体验消失了，数字智能必然超越生物智能，但20%的灭绝概率正被忽视",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81569",
           "author": null,
@@ -858,36 +988,6 @@
           "wordCount": 164,
           "title": "欧盟新规定强制要求为智能手机和平板提供五年操作系统更新",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81498",
-          "author": null,
-          "description": "注重隐私的开源移动操作系统 /e/OS 释出了 3.0 版本。/e/OS 是移除了 Google 应用的 LineageOS 分支，由法国非营利组织 e Foundation 开发。/e/OS 3.0 支持的设备有限，其中最著名的除了 Google Pixel 系列智能手机外就是荷兰的模块化手机 Fairphone 5。/e/OS 3.0 的变化包括：改进了隐私工具，用户每周日可以查看设备上的跟踪活动汇总；Find my Device，通过短信发送密码获得自己设备的地理位置；应用库包含 F-Droid 的最新应用；Android 安全补丁更新到 2025 年 5 月，等等。",
-          "link": "https://www.solidot.org/story?sid=81498",
-          "publishedOn": "2025-06-08T12:09:03.000Z",
-          "wordCount": 195,
-          "title": "/e/OS 3.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81497",
-          "author": null,
-          "description": "Google Play Store 中的应用数减少了 47%，一大原因可能就是不兼容导致大量应用下架。而不兼容的问题与 Google 本身紧密关联。Android 应用开发者抱怨维护 Android 应用所面临越来越大的挑战。举例来说，用 Java 开发的项目如果依赖了用 Kotlin 开发的库会遇到兼容性问题，除非项目用 Kotlin 重写；开源媒体播放器库 ExoPlayer 的 V1 与 V2 不兼容，ExoPlayer 正被不兼容的 media3 所取代；Google Ads library v24 停止支持 Android API 21，而 API 21 仍然有 400 万用户；Material 3 取代了 Material 2，但 Google 没有提供清晰的  \n迁移指南；Android API 版本号与 Android 版本不一致，开发者文档也经常会将两者混淆在一起；重要的第三方开源库被弃用或不再维护；Google 经常会做出破坏兼容性的决策。",
-          "link": "https://www.solidot.org/story?sid=81497",
-          "publishedOn": "2025-06-08T11:31:05.000Z",
-          "wordCount": 209,
-          "title": "Android 应用面临越来越多的不兼容问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81496",
-          "author": null,
-          "description": "为应对生育率下降，越南政府废除了自 1988 年起实施的二孩政策——也就是禁止每对夫妇生育两个以上的孩子。现在每对夫妇想生多少就生多少，但越南人表示养育成本太高了，生不起。越南卫生部表示，2024 年越南总生育率降至每名妇女生育 1.91 个孩子，低于 2.1 的更替水平。生育率过去四年连续下降：从 2021 年的每名妇女生育 2.11 个孩子降至 2022 年的 2.01 个孩子和 2023 年的 1.96 个孩子。22 岁的办公室职员 Tran Minh Huong 表示没有生育孩子的计划，“虽然我是亚洲人，社会传统认为女性需要结婚生子，但养育孩子的成本太高了。”",
-          "link": "https://www.solidot.org/story?sid=81496",
-          "publishedOn": "2025-06-08T10:00:33.000Z",
-          "wordCount": 181,
-          "title": "越南废除二孩政策",
-          "imageUrl": null
         }
       ]
     },
@@ -990,6 +1090,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/657-million-google-clicks",
+          "author": null,
+          "description": "Yesterday Online PNG Tools smashed through 6.56M Google clicks and today it's smashed through 6.57M Google clicks! That's 10,000 new clicks in a single day – the smash train keeps on rollin'!\nWhat Are Online PNG Tools?\nOnline PNG Tools offers a collection of easy-to-use web apps that help you work with PNG images right in your browser. It's like a Swiss Army Knife for anything PNG-related. On this site, you can create transparent PNGs, edit icons, clean up logos, crop stamps, change colors of signatures, and customize stickers – there's a tool for it all. The best part is that you don't need to install anything or be a graphic designer. All tools are made for regular people who just want to get stuff done with their images. No sign-ups, no downloads – just quick and easy PNG editing tools.\nWho Created Online PNG Tools?\nOnline PNG Tools were created by me and my team at Browserling. We've build simple, browser-based tools that anyone can use without needing to download or install anything. Along with PNG tools, we also work on cross-browser testing to help developers make sure their websites work great on all web browsers. Our mission is to make online tools that are fast, easy to use, and that are helpful for everyday tasks like editing icons, logos, and signatures.\nWho Uses Online PNG Tools?\nOnline PNG Tools and Browserling are used by everyone – from casual users to professionals and even Fortune 100 companies. Casual users often use them to make memes, edit profile pictures, or remove backgrounds. Professionals use them to clean up logos, design icons, or prepare images for websites and apps.\nSmash too and see you tomorrow at 6.58M clicks! 📈\nPS. Use coupon code SMASHLING for a 30% discount on these tools at onlinePNGtools.com/pricing. 💸",
+          "link": "https://catonmat.net/657-million-google-clicks",
+          "publishedOn": "2025-06-17T04:04:04.000Z",
+          "wordCount": 383,
+          "title": "6.57 Million Google Clicks! 🏧",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/656-million-google-clicks",
           "author": null,
