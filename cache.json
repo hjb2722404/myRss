@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/github-painter/",
+          "author": "青小蛙",
+          "description": "GitHub 贡献图是 GitHub 的一个小功能，它以年为背景，用不同颜色显示了开发者的繁忙程度，也能从侧边证明开发者的大佬程度。一般情况下，小绿点越多、颜色越深、开发者越忙，越能显得很大佬。@Ap",
+          "link": "https://www.appinn.com/github-painter/",
+          "publishedOn": "2025-06-30T08:13:01.000Z",
+          "wordCount": 2591,
+          "title": "4 款 GitHub 大佬生成器，带真实提交的自定义贡献图",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-2025-06-30T154456.262.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/hover-zoom-plus/",
+          "author": "青小蛙",
+          "description": "Hover Zoom+ 是一款开源的 Chrome/Firefox 浏览器扩展，用来「鼠标经过时放大图片」，还能保存、旋转、复制等操作。目前支持 383 个网站，除了 Facebook、Amazon、",
+          "link": "https://www.appinn.com/hover-zoom-plus/",
+          "publishedOn": "2025-06-30T06:45:38.000Z",
+          "wordCount": 2569,
+          "title": "Hover Zoom+ 开源浏览器扩展：鼠标经过时放大图片、视频，支持 383 个网站",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/06/Copy-of-appinn-homework-2025-06-30T133813.098.jpg"
+        },
+        {
           "id": "https://www.appinn.com/claude-shopkeeper-failure/",
           "author": "青小蛙",
           "description": "这是 Claude 母公司 Anthropic 在研究中发布的一篇文章，讲述了用自家大模型「让AI当无人售卖机的店长，自主经营一家零食店」的真实实验，非常有意思，全当故事来听吧。@Appinn 这个",
@@ -134,6 +154,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=386907",
+          "author": "Zell Liew",
+          "description": "Being the bad boy I am, I don't take Tailwind's default approach to cascade layers as the \"best\" one. Over a year experimenting with Tailwind and vanilla CSS, I've come across what I believe is a better solution.\nUsing CSS Cascade Layers With Tailwind Utilities originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/using-css-cascade-layers-with-tailwind-utilities/",
+          "publishedOn": "2025-06-30T13:16:43.000Z",
+          "wordCount": 2498,
+          "title": "Using CSS Cascade Layers With Tailwind Utilities",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/08/tailwind-layers.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=387089",
           "author": "Juan Diego Rodríguez",
           "description": "Blob, Blob, Blob. What's the most effective way to create blob shapes in CSS? Turns out, as always, there are many. Let's compare them together!\nCSS Blob Recipes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -206,13 +236,54 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11736",
+          "author": "张 鑫旭",
+          "description": "牛逼了，Chrome和Safari都支持clip-path shape()函数了，这个函数可谓是图形剪裁终极方案，没有path函数的缺点，以后一定会被广泛使用。",
+          "link": "https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/",
+          "publishedOn": "2025-06-30T08:35:52.000Z",
+          "wordCount": 1476,
+          "title": "CSS小图标剪裁终极解决方案clip-path shape()函数",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81679",
+          "author": null,
+          "description": "小行星 2024 YR4 基本不可能撞击地球，但 2032 年 12 月撞击月球的概率提高到了 1/25。若撞击真的发生，预估将在月球表面形成一个约 1 公里直径的新撞击坑。虽然月球本身无需防御，撞击也不会对月球轨道运行有任何影响。但撞击所造成的抛射物有可能进入地球同步轨道范围，对部分卫星系统造成干扰风险。这也提醒我们，太空防御的范畴不应限于地球，整个地月系统的安全亦不可忽视。",
+          "link": "https://www.solidot.org/story?sid=81679",
+          "publishedOn": "2025-06-30T06:49:02.000Z",
+          "wordCount": 188,
+          "title": "小行星 2024 YR4 撞击月球概率上升至 1/25",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81678",
+          "author": null,
+          "description": "中科院海洋所研究团队与德法研究人员合作在 PNAS 期刊发表论文，基于海洋沉积物中的黑碳记录，重建了过去 30万 年以来东亚北部的古火演化历史，结合欧洲、东亚、东南亚及澳大利亚区域的记录以及考古遗址大数据，发现现代人类大规模用火始于约 5 万年前。考古学研究发现，人类最早的用火记录可追溯至约 170 万年前。但关于人类究竟何时开始大规模用火，目前仍难以给出确切的答案。黑碳是生物质及化石燃料燃烧过程中所生成的一系列含碳化合物的统称。鉴于其芳香族结构具备高度稳定性，黑碳能够在沉积环境中得以长期留存。以大河作为主要沉积物源区的边缘海，其沉积物中的黑碳很大程度上能够反映大陆尺度的火活动状况。研究认为，5 万年前的冰期，现代人类开启了第二次走出非洲的迁徙历程。冰期海平面下降，印太暖池区大面积的陆架出露为陆地，雨林屏障作用减弱，使得人类在不到一万年的时间里就迅速扩散至东亚、东南亚乃至澳大利亚。人口的急剧扩张极大地促进了用火频率的上升。此外，冰期气候寒冷，食物资源相对匮乏，人类对用火的需求也随之大幅增加。这些因素最终共同促成了 5 万年前成为人类开始大规模用火的关键时间节点。这也进一步表明，人类可能在末次冰期就已经通过用火在全球碳循环演变中留下了深刻印记。",
+          "link": "https://www.solidot.org/story?sid=81678",
+          "publishedOn": "2025-06-30T06:32:42.000Z",
+          "wordCount": 169,
+          "title": "碳记录显示人类五万年前开始大规模用火",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81677",
+          "author": null,
+          "description": "两项研究发现消费者对 AI 产品信任度低，购买意愿也低。AI 对产品推广产生了负面影响，这种影响在高风险产品中尤其显著，低风险产品则不太明显。在其中一项研究中，研究人员将参与者分成两组，每组大约 100 人。一组阅读突出 AI 或 AI-powered 等特性的虚构产品和服务的广告，另一组阅读的广告使用了新技术或配备了尖端技术等术语。相比另一组，阅读带有 AI 等关键词广告的参与者报告尝试或购买相关产品和服务的可能性较低。另一项研究由市场研究公司 Parks Associates 完成，调查规模更大。在接受调查的约 4000 名美国人中，18% 的人表示 AI 可能会增加购买意愿，24% 的人表示不太可能，而 58% 的人表示 AI 对他们没有影响。",
+          "link": "https://www.solidot.org/story?sid=81677",
+          "publishedOn": "2025-06-30T06:09:11.000Z",
+          "wordCount": 189,
+          "title": "研究发现消费者对 AI 产品信任度低",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81676",
           "author": null,
@@ -822,46 +893,6 @@
           "wordCount": 172,
           "title": "天文学家发现失落普通物质的线索",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81615",
-          "author": null,
-          "description": "地球正在快速变暖，但你知道吗？早在 3 亿多年前，类似的气候剧变就曾引发海洋生命的巨大波动。南京大学研究团队在《Science Advances》发表研究报告：在晚古生代（约3.4亿至2.5亿年前），地球缓慢变冷时，海洋生物加速演化、种类剧增；而一旦气候急剧变暖，尤其是火山喷发带来的升温，便引发大规模物种灭绝。研究主角是一群叫做䗴类有孔虫（fusuline）的远古单细胞海洋生物，它们个体虽小，但数量惊人（图1），曾主宰海底世界，被誉为“碳酸盐岩工厂”。团队发现，9180 多万年间，这些生物经历了两次“多样化爆发”和四次“灭绝危机”。尤其在 2.6亿 年前峨眉山大规模火山喷发前后，体型较大的䗴类几乎绝迹；而 2.52 亿年前的二叠纪末期超级火山事件，更彻底终结了这个庞大家族的演化历程。值得警惕的是，人类活动引发的现代全球变暖，其速度已远超古代峨眉山玄武岩和二叠纪末火山事件带来的变暖速率。当前的海洋生态系统或正经历类似䗴类曾遭遇的命运考验。",
-          "link": "https://www.solidot.org/story?sid=81615",
-          "publishedOn": "2025-06-21T03:55:23.000Z",
-          "wordCount": 169,
-          "title": "3 亿年前的全球暖化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81614",
-          "author": null,
-          "description": "在人类的演化过程中，寄生虫如头虱、跳蚤和绦虫一直伴随左右。但现代最强大的寄生物并非是吸血的无脊椎动物，而是智能手机。智能手机寄生于我们的时间、注意力和个人信息，为科技公司及其广告商谋利。从演化和寄生的角度看，智能手机对社会构成了独一无二的风险。寄生虫的生存依赖于宿主，离开宿主会很快死亡，以头虱为例，它给人类带来的代价主要是痒。智能手机改变了我们的生活，以至于很多人都离不开它。它带来的代价是一部分人沦为其奴隶，导致睡眠不足、线下关系薄弱以及情绪紊乱。人类与智能手机的关系一开始是互利共生（mutualism），但逐渐的演变为寄生关系。它提供的流行应用不是为了用户的利益，而是通过操纵我们的行为和情绪为其开发商和广告商谋利。用户是宿主，而智能手机就是寄生物。我们需要对其进行限制，至少能恢复部分互利共生的关系，但科技寡头们的实力非普通人能抵挡。",
-          "link": "https://www.solidot.org/story?sid=81614",
-          "publishedOn": "2025-06-21T03:50:51.000Z",
-          "wordCount": 158,
-          "title": "智能手机是人类的寄生物",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81613",
-          "author": null,
-          "description": "中科院的研究人员报告成功培育出一只来自双父亲的小鼠，并且健康成年。生物铭印（Biological imprinting）是一种基因表达的遗传模式，涉及到特定基因的激活或关闭，取决于它们来自父亲还是母亲。研究人员发现，如果调整铭印基因的选择，能为独特的生殖能力开启大门，如完全来自父系的胚胎。当小鼠胚胎以正常方式形成时，父系和母系 DNA 结合在一起。此种结合产生了铭印基因的精确平衡。仅有父系的胚胎中，与生长相关的特定基因可能会被过度刺激，研究团队选择性地修改这些基因，使得纯父系胚胎能成熟。研究负责人表示，该研究提供了强有力的证据，表明铭印基因异常是哺乳动物单性生殖的主要障碍。",
-          "link": "https://www.solidot.org/story?sid=81613",
-          "publishedOn": "2025-06-20T16:33:56.000Z",
-          "wordCount": 161,
-          "title": "中国科学家培育出有两个父亲的健康小鼠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81612",
-          "author": null,
-          "description": "数十个公民社会组织呼吁欧盟立即采取行动打破科技寡头对数字世界的控制，认为通过控制数字世界，科技寡头不只是支配着市场，还支配着民主。欧洲的数字经济应该服务于欧洲公民的需求，而不是科技寡头亿万富翁 CEO 的需求。欧盟委员会需要强有力的执行欧盟的数字法规和竞争法律对抗科技寡头。少数科技寡头集中控制着我们的核心数字基础设施——包括搜索引擎、社交媒体、应用商店和云计算服务。寡头们对其数字帝国拥有不受约束的权力，使其能对公民滥用权利、剥削企业并压制竞争对手。当少数亿万富翁和科技寡头控制互联网时，他们会利用其权力——以及巨额利润——去影响政治话语，干涉民主法律。打破科技寡头的垄断首先从拆分 Google 开始。",
-          "link": "https://www.solidot.org/story?sid=81612",
-          "publishedOn": "2025-06-20T15:39:54.000Z",
-          "wordCount": 161,
-          "title": "公民社会组织呼吁打破科技寡头对数字世界的控制",
-          "imageUrl": null
         }
       ]
     },
@@ -931,6 +962,16 @@
       "feedUrl": "https://catonmat.net/feed",
       "siteUrl": "https://catonmat.net",
       "articles": [
+        {
+          "id": "https://catonmat.net/end-of-june-sale",
+          "author": null,
+          "description": "At Browserling and Online Tools we love sales.\nWe just created a new automated End of June Sale.\nNow each month, on the last day of June, we show a 50% discount offer to all users who visit our site.\nBuy a Subscription Now!\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing\nWhat Is Browserling?\nBrowserling is an online service that lets you test how other websites look and work in different web browsers, like Chrome, Firefox, or Safari, without needing to install them. It runs real browsers on real machines and streams them to your screen, kind of like remote desktop but focused on browsers. This helps web developers and regular users check for bugs, suspicious links, and weird stuff that happens in certain browsers. You just go to Browserling, pick a browser and version, and then enter the site you want to test. It's quick, easy, and works from your browser with no downloads or installs.\nWhat Are Online Tools?\nOnline Tools is an online service that offers free, browser-based productivity tools for everyday tasks like editing text, converting files, editing images, working with code, and way more. It's an all-in-one Digital Swiss Army Knife with 1500+ utilities, so you can find the exact tool you need without installing anything. Just open the site, use what you need, and get things done fast.\nWho Uses Browserling and Online Tools?\nBrowserling and Online Tools are used by millions of regular internet users, developers, designers, students, and even Fortune 100 companies. Browserling is handy for testing websites in different browsers without having to install them. Online Tools are used for simple tasks like resizing or converting images, or even fixing small file problems quickly without downloading any apps.\nBuy a subscription now and see you next time!\n🔥 onlinetools.com/pricing\n🔥 browserling.com/#pricing",
+          "link": "https://catonmat.net/end-of-june-sale",
+          "publishedOn": "2025-06-30T06:06:06.000Z",
+          "wordCount": 378,
+          "title": "End of June Sale! 🎁",
+          "imageUrl": "https://catonmat.net/images/catonmat-preview-image.png"
+        },
         {
           "id": "https://catonmat.net/yamaha-browserling-customer",
           "author": null,
