@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-07-15T03:27:48.463Z</updated>
+    <updated>2025-07-16T03:25:49.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mozilla 工程师称 Raptor Lake CPU 在热浪下导致 Firefox 更频繁的崩溃]]></title>
+        <id>https://www.solidot.org/story?sid=81803</id>
+        <link href="https://www.solidot.org/story?sid=81803"/>
+        <updated>2025-07-15T16:04:00.000Z</updated>
+        <summary type="html"><![CDATA[英特尔 14 代酷睿桌面处理器（Raptor Lake）的不稳定性问题甚至影响到了浏览器。Mozilla Staff Platform Engineer Gabriele Svelto 在联邦宇宙微博平台 Mastodon 上发帖称，北半球的英特尔 Raptor Lake 系统更可能会因为夏季高温而崩溃，他是通过 Raptor Lake 系统自动发送的 Firefox 崩溃报告而了解到这一情况的，通过崩溃日志他甚至可以知道哪些欧洲国家经历了热浪。他解释说，Raptor Lake 系统存在已知的时序/电压问题，并且会随着温度的升高而恶化。因为相同的崩溃报告太多，他们不得不禁用了一个自动提交崩溃报告的机器人程序。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reddit 开始要求访问成人内容的英国用户验证年龄]]></title>
+        <id>https://www.solidot.org/story?sid=81802</id>
+        <link href="https://www.solidot.org/story?sid=81802"/>
+        <updated>2025-07-15T15:14:42.000Z</updated>
+        <summary type="html"><![CDATA[Reddit 宣布，为了遵守英国的新法律 Online Safety Act，它开始要求访问成人内容的英国用户验证年龄。Reddit 是通过第三方服务 Persona 验证用户年龄，Persona 会对用户上传的自拍照或政府颁发的身份证件照片进行验证。Reddit 不会储存用户上传的照片，只会储存验证状态和用户提供的出生日期，用户无需在每次访问成人内容时进行验证。Reddit 称，Persona 承诺保护数据隐私，承诺不会将照片保留超过 7 天，它也无法访问用户的 Reddit 数据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[月之暗面发布 1 万亿参数的开源模型]]></title>
+        <id>https://www.solidot.org/story?sid=81801</id>
+        <link href="https://www.solidot.org/story?sid=81801"/>
+        <updated>2025-07-15T15:05:01.000Z</updated>
+        <summary type="html"><![CDATA[北京月之暗面科技有限公司上周发布了有 1 万亿总参数、320 亿激活参数的混合专家模型 Kimi K2。基准测试显示它能在部分领域打败 OpenAI 的 GPT-4.1。Kimi K2 在软件工程测试 SWE-bench Verified 中的正确率达到了  65.8%，超过了大多数开源模型，能与私有模型相媲美；在编程测试 LiveCodeBench 中，Kimi K2 的正确率达到了 53.7%，超过了 DeepSeek-V3 的 46.9% 和 GPT-4.1 的 44.7%；在数学推理测试 MATH-500 中的得分为 97.4%，超过了 GPT-4.1 的 92.4%。相比 OpenAI，月之暗面投入的成本更低，速度更快更便宜。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2010 年以来气候暖化加剧与东亚减少空气污染相关]]></title>
+        <id>https://www.solidot.org/story?sid=81800</id>
+        <link href="https://www.solidot.org/story?sid=81800"/>
+        <updated>2025-07-15T14:27:15.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Communications Earth & Environment》期刊上的一项研究，2010 年以来全球暖化加剧与东亚地区减少空气污染相关。污染空气中的气凝胶会起到阻挡太阳辐射的作用，增加云层的反射率，降低地表温度。但从 2010 年起，全球地表的气温升高速度在加快，而几乎同一时间，主要污染空气排放源的东亚正致力于清洁空气，减少气凝胶等污染物的排放。研究人员的模拟显示，东亚减少气凝胶是暖化加速和太平洋变暖的主要驱动因素。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国车载芯片走向世界]]></title>
+        <id>https://www.solidot.org/story?sid=81799</id>
+        <link href="https://www.solidot.org/story?sid=81799"/>
+        <updated>2025-07-15T11:06:29.000Z</updated>
+        <summary type="html"><![CDATA[高档车型使用的车载芯片通常来自英伟达和高通，但在普通车型使用性价比更高的中国半导体厂商日益受到青睐。截至 2024 年 9月 底，成立于 2015 年的地平线机器人公司的 SoC 已经获得 27 家汽车厂商的 285 款车型采用。地平线的下一个目标是走向世界。其战略是与欧洲的大型供应商联手，将自己的 SoC 销往世界市场。它的合作伙伴包括了德国博世（Bosch）和德国大陆集团（Continental）。另一家公司芯驰科技的 SoC 被本田和日产汽车的中国合资公司在其车型中采用。德国大众（VW）集团在巴西和印度等地销售的新车型采用了吉利控股集团旗下的芯擎科技开发的座舱用 SoC“龙鹰一号”。地缘政治风险是中国车载芯片厂商全球化计划面临的巨大挑战，至少美国汽车厂商不太可能会使用中国的 SoC。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok 被发现在回答敏感问题前先检查马斯克的观点]]></title>
+        <id>https://www.solidot.org/story?sid=81798</id>
+        <link href="https://www.solidot.org/story?sid=81798"/>
+        <updated>2025-07-15T10:24:20.000Z</updated>
+        <summary type="html"><![CDATA[xAI 的新模型 Grok 4 被发现在回答敏感问题前会先检查马斯克（Elon Musk）的观点。在这之前 Grok 一度宣称自己是机械希特勒（MechaHitler）。AI 研究员 Simon Willison 问 Grok 在巴以冲突中它站在哪一方？模拟推理过程的“思维轨迹（thinking trace）”显示它搜索了 X 平台上马斯克的帖子——from:elonmusk (Israel OR Palestine OR Gaza OR Hamas)，然后回答以色列。Grok 称鉴于马斯克的影响力其立场可以作为参考。Grok 并不总是会去搜索马斯克的帖子，因此 Willison 猜测 Grok 的这种行为是基于一系列推理：它知道 Grok 4 是 xAI 构建的，马斯克是 xAI 的所有者, 因此在寻求建议时它通常会更多考虑马斯克的想法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软件定义无线电能远程对火车进行刹车]]></title>
+        <id>https://www.solidot.org/story?sid=81797</id>
+        <link href="https://www.solidot.org/story?sid=81797"/>
+        <updated>2025-07-15T09:30:28.000Z</updated>
+        <summary type="html"><![CDATA[2012 年独立安全研究员 Neil Smith 向美国政府报告了列车通信标准的漏洞，他可能没想到，直到 2025 年美国政府才披露了该漏洞。该漏洞允许攻击者使用软件定义无线电远程对火车进行刹车。US Cybersecurity and Infrastructure Security Agency (CISA)公布了名为 CVE-2025-1727 的漏洞，该漏洞与车尾到车头的链路协议弱验证有关，货车尾部的 Flashing Rear-End Device（FRED）设备向机头传输数据的系统使用了 BCH 校验和创建数据包，容易被软件定义无线电嗅探然后伪造数据包，向 FRED 施加制动，有可能引发脱轨事故。目前该问题尚未修复，美国铁路协会表示计划部署更安全的替代方案，但可能要到 2027 年才会推出。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达恢复向中国出口 H20 芯片，将推出一款新特供型号]]></title>
+        <id>https://www.solidot.org/story?sid=81796</id>
+        <link href="https://www.solidot.org/story?sid=81796"/>
+        <updated>2025-07-15T08:00:40.000Z</updated>
+        <summary type="html"><![CDATA[英伟达宣布恢复向中国出口 H20 芯片，并表示将会推出一款特供中国市场的新型号芯片。H20 此前是英伟达能向中国出口的最先进 AI 芯片，美国政府于 4 月 9 日通知英伟达，H20 芯片需要获得许可证才能出口到中国。英伟达现在表示它已经申请了许可，已经获得政府承诺，预计将会很快获得批准，准备开始向中国公司交付芯片。英伟达同时表示，正在为中国市场开发一款新的特供 AI 芯片，完全符合美国的出口管制规定。根据早些时候的报道，新芯片将是基于 Blackwell 架构的 RTX Pro 6000D，使用 GDDR7 而不是 HBM 等更先进的高带宽显存，预计售价在 6,500-8,000 美元之间，低于 H20 的 10,000-12,000 美元。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沙特重新评估雄心勃勃的超级城市 The Line 计划]]></title>
+        <id>https://www.solidot.org/story?sid=81795</id>
+        <link href="https://www.solidot.org/story?sid=81795"/>
+        <updated>2025-07-15T06:49:45.000Z</updated>
+        <summary type="html"><![CDATA[成本上升和油价下跌迫使沙特缩减其雄心勃勃的超级项目的规模，该国已经委托顾问重新评估 170 公里长的线条城市 The Line 的可行性。The Line 是沙漠超级城市 Neom 的核心，高 500 米，长 170 公里，能容纳 900 万居民，城市被封闭在两座距离约 200 米的平行高墙之内，表面覆盖镜子。The Line 有三层，地面一层供行人使用，地下两层一层为基础设施一层为地下交通。它还有一条高铁，时速能达到 512 公里，从线条城市的一头到另一头只需要 20 分钟。整个城市完全使用可更新能源提供电力。建筑成本估计为 1000 亿到 2000 亿美元，项目的第一阶段计划在 2030 年完成。Neom 与 Red Sea 酒店和滑雪度假村是沙特王储 Mohammed bin Salman 的 Vision 2030 计划的旗舰项目，旨在转型沙特经济，减少对石油的依赖。但 Neom 项目陷入了困境，其项目负责人 Nadhmi al-Nasr 于 2024 年 11 月离职，另外两名外国高管也在年底离开。项目的进展也不顺利，预计到 2030 年只能完成 2.4 公里长度的建造工作，居民人数也将从预期的 150 万减少到 30 万。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 计划合并 ChromeOS 和 Android]]></title>
+        <id>https://www.solidot.org/story?sid=81794</id>
+        <link href="https://www.solidot.org/story?sid=81794"/>
+        <updated>2025-07-15T05:25:19.000Z</updated>
+        <summary type="html"><![CDATA[在 Google 工作了 16 年的 Android 生态系统总裁 Sameer Samat 在接受采访时表示，该公司正计划将 ChromeOS 和 Android 合并为单一平台。Samat 在采访中谈论了 Android、Gemini、Galaxy AI 和 Android XR 等主题。对于合并 ChromeOS 和 Android，他没有透露多少信息，只是表示因为要统一 ChromeOS 和 Android， 他现在对用户如何使用笔记本电脑以及用笔记本电脑做什么非常感兴趣。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[朝鲜 IT 工程师用假身份求职逐渐成为一个全球性问题]]></title>
         <id>https://www.solidot.org/story?sid=81793</id>
@@ -752,92 +852,6 @@ Better CSS Shapes Using shape() — Part 4: Close and Move originally published 
         <link href="https://www.solidot.org/story?sid=81737"/>
         <updated>2025-07-07T06:27:40.000Z</updated>
         <summary type="html"><![CDATA[Moderna 公布了基于 mRNA 的季节性流感疫苗的试验结果：mRNA 疫苗 mRNA-1010 有效性比标准疫苗高 27%。有大约 4.1 万 50 岁及以上人群参与试验，他们被随机分配接受 mRNA-1010 或标准疫苗接种，在流感季节进行约六个月的随访。相比标准疫苗，mRNA 疫苗的总体效力高出 26.6%，在 65 岁及以上参与者中高出 27.4%。早先的试验数据显示，mRNA-1010 在参与者体内产生的免疫反应比标准流感疫苗和高剂量疫苗要高。由于美国现任卫生部部长 Robert F. Kennedy Jr. 的反疫苗立场， mRNA-1010 的未来命运不确定。Kennedy Jr.已经取消了上届拜登政府授予 Moderna 的 mRNA 流感疫苗拨款。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美元正经历现代史上最糟糕的一年]]></title>
-        <id>https://www.solidot.org/story?sid=81736</id>
-        <link href="https://www.solidot.org/story?sid=81736"/>
-        <updated>2025-07-06T13:36:09.000Z</updated>
-        <summary type="html"><![CDATA[美元正经历其现代史上最糟糕的一年，美元今年已下跌逾 7%，摩根士丹利预测下半年可能再下跌 10%。美元走弱可能增强美国的出口竞争力，推动特朗普政府的美国贸易再平衡计划，但也会使进口商品更昂贵，加剧关税带来的冲击。未来的问题是，美元是否不仅会失去其价值，还会失去其在全球金融体系中的核心地位。各国央行去美元化的努力是转向黄金，而不是转向另一种货币如人民币。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[企业已经感受到气候变暖的影响]]></title>
-        <id>https://www.solidot.org/story?sid=81735</id>
-        <link href="https://www.solidot.org/story?sid=81735"/>
-        <updated>2025-07-06T13:26:55.000Z</updated>
-        <summary type="html"><![CDATA[气候变化已对全球各地的企业产生影响。根据摩根士丹利的一份报告，被调查的企业逾半数过去一年经历了与气候相关的运营中断，包括成本增加、员工中断工作和收入损失。极端高温和风暴是造成运营中断最频繁的因素，其次是野火和烟雾、水资源短缺和洪水或海平面上升。彭博智库的一项分析发现，仅美国过去一年就花费了近万亿美元用于灾难恢复和气候相关的其它需求。近九成南美企业估计，到本十年末气候变化将对其商业模式构成风险。北美最主要风险则被认为不是气候变化而是政治动荡。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经历双重引爆的超新星]]></title>
-        <id>https://www.solidot.org/story?sid=81734</id>
-        <link href="https://www.solidot.org/story?sid=81734"/>
-        <updated>2025-07-06T12:46:56.000Z</updated>
-        <summary type="html"><![CDATA[天文学家首次发现证据，证实一颗 Ia 型超新星是由「双重爆炸」机制产生：白矮星在尚未达到临界质量的情况下，先由表层的氦引发第一次爆炸，再触发核心的第二次爆炸。Ia 型超新星是源自双星系统中的白矮星爆炸事件。当白矮星从伴星吸积足够物质、达到所谓「钱卓极限」（Chandrasekhar limit）时，便会发生剧烈的热核爆炸，产生稳定且明亮的超新星光度。触发这类超新星的精确机制至今仍有许多未解之谜。模拟研究显示，至少部分 Ia 型超新星可能源自于尚未达到临界质量就发生的「双重爆炸」机制。在这一模型中，白矮星表面首先积聚一层由吸积而来的氦，当氦层变得不稳定时会率先引爆，产生一道向内传递的冲击波，进而触发核心的第二次爆炸，造成整体超新星事件。科学家观测了位于大麦哲伦星系内的超新星遗迹 SNR 0509-67.5，发现了两层明显的钙元素壳层，正是双重爆炸所留下的指纹。这是首次在观测中清楚辨识出这种结构，证实双重爆炸机制确实存在，也显示白矮星可在未达临界质量前即发生爆炸。这一成果有助于我们理解 Ia 型超新星的形成多样性，并进一步提升对宇宙距离测量与重元素起源的掌握。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BackWay – 一张照片，帮你找到与过往的距离]]></title>
-        <id>https://www.appinn.com/backway-for-iphone/</id>
-        <link href="https://www.appinn.com/backway-for-iphone/"/>
-        <updated>2025-07-06T08:42:24.000Z</updated>
-        <summary type="html"><![CDATA[与其说 BackWay 帮你找到回去的路，不如说它只是悄悄为你标记下那些曾经踏足的地方，让你知晓自己与过往的距离。 BackWay 是一款简单、小巧的 iPhone 应用，只有 4 MB 大小，它通过]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Sparks – 在 iPhone 屏幕上显示重要的事，并不断重复]]></title>
-        <id>https://www.appinn.com/daily-sparks/</id>
-        <link href="https://www.appinn.com/daily-sparks/"/>
-        <updated>2025-07-06T06:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Daily Sparks 是一款简单、小巧的免费 iPhone 应用，只有 2.7 MB，它通过桌面小组件的方式，显示重要的事情。甚至还能设置每日 16 次提醒通知，让重要的事情变成真的重要。@App]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Browser Coupon Code (30% OFF)]]></title>
-        <id>https://catonmat.net/online-browser-coupon-code</id>
-        <link href="https://catonmat.net/online-browser-coupon-code"/>
-        <updated>2025-07-06T06:06:06.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: You can grab a discount for Browserling (a super handy online browser) by using the coupon code ONLINEBROWSER at browserling.com. It gives you 30% off premium plans. Works for developers, hackers,  testers, and anyone browsing online.
-What's the Online Browser Coupon For?
-This code gives you a discount on Browserling's premium plans. If you've been using the free version but keep hitting the time limit, now's your chance to upgrade. Just head to Browserling's pricing page and enter ONLINEBROWSER when checking out.
-Why Use an Online Browser?
-It's basically a browser that runs in the cloud. No installs, no setup. Just click and you're inside a live Chrome, Firefox, Edge, or even Internet Explorer (yeah, really). It streams right into your browser.
-This is super useful when you:
-Want to…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StatCounter 统计显示 Windows 11 的市场份额超过了 Windows 10]]></title>
-        <id>https://www.solidot.org/story?sid=81733</id>
-        <link href="https://www.solidot.org/story?sid=81733"/>
-        <updated>2025-07-05T16:09:11.000Z</updated>
-        <summary type="html"><![CDATA[根据 StatCounter 截至 7 月的统计数据，距离微软停止支持 Windows 10 仅剩三个月时间，其市场份额终于被 Windows 11 超过。Windows 11 的市场份额为 50.24%，Windows 10 的市场份额为 46.84%。相比一年前这是巨大的飞跃：一年前 Windows 10 市场份额为 66.04%，而 Windows 11 仅为 29.75%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve 征服了 PC 游戏]]></title>
-        <id>https://www.solidot.org/story?sid=81732</id>
-        <link href="https://www.solidot.org/story?sid=81732"/>
-        <updated>2025-07-05T16:03:15.000Z</updated>
-        <summary type="html"><![CDATA[FT 报道称 Valve 支配了 PC 游戏行业，但巨大的成功也给该公司带来了危机：它开发大型游戏的速度和冰川移动一样缓慢。Valve 的 Steam 平台控制着七成的 PC 游戏销售，其它公司对 Steam 发起的挑战都是屡战屡败。以提供免费游戏著称的 Epic Games Store 未对 Steam 产生任何实质性的影响。微软的游戏商店、EA 的 Origin（已被 EA APP 所取代） 等等都难以动摇 Steam。法庭文件显示，Steam 的营收到 2026 年预计将超过 100 亿美元，在巨大的成功之下它的发展方向并不明朗。公司创始人 Gabe Newell 基本退出日常运营，居住其五艘游轮的一艘上面，投资了脑机接口 Starfish Neuroscience 等副业。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
