@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/remote-xiaomi-help/",
+          "author": "青小蛙",
+          "description": "前几天，有同学问：父母用小米手机，自己用 iPhone 和 vivo，远程协助由什么推荐方案吗？ 青小蛙也想知道有没有解决方案，毕竟现在差不多远程控制 = 诈骗，就…很难。于是把问题抛到了",
+          "link": "https://www.appinn.com/remote-xiaomi-help/",
+          "publishedOn": "2025-07-19T12:16:08.000Z",
+          "wordCount": 2606,
+          "title": "手机系统不一样，如何远程帮父母的小米手机解决问题？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/07/Copy-of-appinn-homework-2025-07-19T200222.278.jpg"
+        },
+        {
           "id": "https://www.appinn.com/pilipala-bilibili-legal-stop/",
           "author": "青小蛙",
           "description": "Pilipala 是一款第三方的 B站客户端，支持 Android 与 iOS，前两日开发者在其频道中发布了这样一条消息： 具体内容是这样的： 青小蛙赶紧查了一下，没介绍过 Pilipala（GitH",
@@ -90,16 +100,6 @@
           "wordCount": 2677,
           "title": "Save Desktop – 保存你的 Linux 桌面环境配置，支持云同步",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/07/Copy-of-appinn-homework-2025-07-13T120611.298-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/synology-hdd-db/",
-          "author": "青小蛙",
-          "description": "Synology HDD db 能让第三方硬盘在 2025 最新款的群晖设备中使用的开源项目，只需要执行一个脚本，即可不再受硬盘的兼容性列表影响，让任意硬盘都可以创建存储池。@Appinn 是的，现在",
-          "link": "https://www.appinn.com/synology-hdd-db/",
-          "publishedOn": "2025-07-10T13:38:18.000Z",
-          "wordCount": 3132,
-          "title": "Synology HDD db – 群晖第三方硬盘不再受限！一个脚本解锁所有第三方 HDD 兼容",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/07/Copy-of-appinn-homework-2025-07-10T200306.535.jpg"
         }
       ]
     },
@@ -201,16 +201,6 @@
           "wordCount": 1478,
           "title": "JS正则新特性：安全过滤RegExp.escape方法",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11729",
-          "author": "张 鑫旭",
-          "description": "介绍3个与HTML相关的新变化与新特性，分别是新支持的search元素，h1规则变化与声明式Shadow DOM，希望可以帮到大家的学习。",
-          "link": "https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/",
-          "publishedOn": "2025-07-10T10:11:02.000Z",
-          "wordCount": 1391,
-          "title": "HTML新search元素,h1规则要变,声明式Shadow DOM",
-          "imageUrl": null
         }
       ]
     },
@@ -219,6 +209,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81835",
+          "author": null,
+          "description": "最近大规模裁员和重组的芯片巨头突然宣布终止对 Clear Linux 发行版的支持，从即日起不再为 Clear Linux OS 提供安全补丁、更新或维护，项目托管在 GitHub 上的代码库将转为只读模式，它建议使用 Clear Linux 的用户尽快迁移到其它活跃维护的发行版。英特尔在声明中同时强调会继续投资 Linux 生态系统，积极支持和贡献开源项目和 Linux 发行版，支持和优化英特尔硬件。英特尔是在 2015 年为解决容器安全问题而宣布了 Clear Linux 发行版项目，至今有十年历史。",
+          "link": "https://www.solidot.org/story?sid=81835",
+          "publishedOn": "2025-07-19T04:59:34.000Z",
+          "wordCount": 190,
+          "title": "英特尔终止了对 Clear Linux 的支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81834",
+          "author": null,
+          "description": "YouTube 主播 Jon Prosser 自今年 1 月起发布了多则视频，展示了苹果要到 6 月份的 WWDC 开发者大会上才公开的 iOS 26 设计细节。此事引起了苹果的注意，它正式对 Prosser 和 Michael Ramacciotti 提起诉讼，指控他们盗窃商业机密。事件的核心是 Ramacciotti 的朋友、苹果员工（已解雇）Ethan Lipnik。Lipnik 持有一部开发中的 iPhone 手机，Prosser 和 Ramacciotti 被控密谋获取这部手机，他们首先窃取密码，然后使用位置追踪技术判断他何时长时间离家。Prosser 向 Ramacciotti 提供经济补偿，Ramacciotti 在 Lipnik 离家后进入其公寓取到了这部开发版 iPhone，通过 FaceTime 向 Prosser 介绍了开发中的 iOS 26。Lipnik 因为未能遵守公司保护开发中和未发布设备和软件的政策而被解雇。苹果不清楚 Prosser 和 Ramacciotti 掌握了多少商业机密，它提起诉讼是为了防止更多机密泄漏。",
+          "link": "https://www.solidot.org/story?sid=81834",
+          "publishedOn": "2025-07-18T15:16:31.000Z",
+          "wordCount": 223,
+          "title": "苹果起诉通过进入前员工公寓窃取 iOS 26 机密的 YouTube 主播",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81833",
+          "author": null,
+          "description": "美国研究人员招募了数百名狗主人收集狗与电视互动的方式。研究考察了狗看电视习惯的趋势，包括主人是否尝试教狗看电视，主人电视每周打开的平均小时数，以及狗关注电视的平均秒数。对狗的评估内容包括它们对动物刺激物、非动物刺激物的反应，以及追随屏幕上的物体的程度。研究发现狗更容易对屏幕上看见的动物而不是其他刺激物作出反应，约 45% 的狗总是能对狗叫和狗吠这类狗噪声作出反应。主人报告为易兴奋的狗被发现会更频繁地追随屏幕上的物体，就好像这些物体存在于现实世界中一样。易害怕或焦虑的狗更容易对汽车喇叭或门铃这类非动物刺激物有反应。调查的狗看电视的平均时长为 14 分 8 秒。",
+          "link": "https://www.solidot.org/story?sid=81833",
+          "publishedOn": "2025-07-18T14:07:27.000Z",
+          "wordCount": 165,
+          "title": "狗看电视的模式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81832",
+          "author": null,
+          "description": "上个月美国联邦法官裁决 Anthropic 使用书籍训练 AI 是合理使用，但使用盗版书籍训练并不是。法庭文件显示，Anthropic 从盗版网站下载了逾 700 万本书籍。它还购买了数百万本纸质书，拆开装订扫描了每一页，将其以数字形式存储。现在对于使用盗版书籍训练大模型，加州地区法官 William Alsup 允许起诉 Anthropic 侵权的作家代表全美作家提起集体诉讼。Anthropic 从盗版电子书库 LibGen 和 PiLiMi 下载了多达 700 万电子书，在 2021 年和 2022 年创建了一个巨大的存储库。如果作家们胜诉，Anthropic 可能需要赔偿数十亿美元损失。",
+          "link": "https://www.solidot.org/story?sid=81832",
+          "publishedOn": "2025-07-18T13:37:17.000Z",
+          "wordCount": 189,
+          "title": "美国法官允许作家对 Anthropic 盗版数百万电子书提起集体诉讼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81831",
+          "author": null,
+          "description": "Google 起诉了 25 名僵尸网络 BadBox 2.0 的中国籍运营者。Google 在起诉书中称，截至 2025 年 4 月，BadBox 2.0 感染了全世界逾 1000 万台基于 Android AOSP 系统的设备，包括电视盒、平板、投影仪和车载休闲娱乐系统。BadBox 2.0 是迄今为止发现的规模最大的联网电视僵尸网络。Google 称 BadBox 2.0 的活动干扰了 Google 与客户的关系，损害其声誉，破坏其产品和服务的价值。由于所有被告都在中国，而中美之间很少引渡嫌疑人，因此诉讼不太可能追究到任何被告的责任。",
+          "link": "https://www.solidot.org/story?sid=81831",
+          "publishedOn": "2025-07-18T11:19:26.000Z",
+          "wordCount": 207,
+          "title": "Google 起诉 25 名中国籍 BadBox 2.0 运营者",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81830",
+          "author": null,
+          "description": "俄罗斯进一步收紧了对网络活动的控制。该国新通过的法律将对搜索被禁止内容以及使用 VPN 访问被禁止内容的人处以罚款。俄罗斯对被禁止内容的定义是一个由政府维护的列表，大约有 5500 个条目，其内容涵盖了从 LGBT运动 到基地等极端主义组织制作的内容，以及宣传纳粹意识形态或或煽动极端主义行为的材料。对搜索被禁止内容的罚款大约为 65 美元，对推广 VPN 等规避审查工具的罚款——个人为 2500 美元，企业最高 1.28 万美元。",
+          "link": "https://www.solidot.org/story?sid=81830",
+          "publishedOn": "2025-07-18T11:07:15.000Z",
+          "wordCount": 171,
+          "title": "俄罗斯新法律将搜索“争议内容”定为犯罪行为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81829",
+          "author": null,
+          "description": "新闻出版商行业协会 The News/Media Alliance 宣布成功关闭了帮助用户绕过付费墙的服务 12ft.io。12ft.io 的托管商在该组织的施压下于 7 月 14 日下线了网站。12ft.io 全称 12 Foot Ladder，通过将用户的浏览器伪装成 Web 爬虫从而不受限制的访问网站内容，避开广告、跟踪程序以及弹出式窗口。12ft.io 是由软件工程师 Thomas Millar 在新冠疫情期间创建的，他当时发现 Google 搜索结果前 10 中有 8 个设置了付费墙。12ft.io 下线了，但类似的自托管工具 13 Feet Ladder 允许用户创建无数的 12ft.io。",
+          "link": "https://www.solidot.org/story?sid=81829",
+          "publishedOn": "2025-07-18T09:45:13.000Z",
+          "wordCount": 194,
+          "title": "新闻出版业下线绕过付费墙的服务 12ft.io",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81828",
+          "author": null,
+          "description": "Mozilla 开发者宣布，预计 7 月 22 日释出的 Firefox 141 将支持 WebGPU。目前对 WebGPU 的支持仅限于 Windows 版本的 Firefox，未来几个月将支持 Linux 和 Mac 版本。WebGPU 为 Web 提供了下一代高性能图形 API，允许在 GPU 上执行渲染和计算操作，Google Chrome 最早于 2023 年引入了对该 API 的支持，而苹果的 Safari 预计将在秋天释出的 v26 中支持 WebGPU。Firefox 的 WebGPU 实现是基于用 Rust 开发的 WGPU，为底层平台的底层图形 API如 Direct3D 12、Metal 和 Vulkan 提供了统一可移植的接口。WGPU 托管在 GitHub 上，是作为一个独立开源项目开发的，Mozilla 是其主要贡献者。",
+          "link": "https://www.solidot.org/story?sid=81828",
+          "publishedOn": "2025-07-18T07:52:00.000Z",
+          "wordCount": 220,
+          "title": "Firefox 141 将支持  WebGPU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81827",
+          "author": null,
+          "description": "经济学人报道，癌症预防工作取得了成效，自 1990 年代以来发达国家癌症死亡率普遍下降。美国的癌症死亡率自 1990 年代以来下降了约三分之一。发达国家吸烟率下降，仅美国自 1975 年以来就减少了逾 300 万例癌症死亡。英国于 2008 年启动了针对年轻女孩的 HPV 疫苗接种计划，在 15 年内让 20 多岁女性的宫颈癌发病率降低了 90%。治疗方法的进步也改变了部分癌症的治疗结果。曾经致命的儿童白血病，如今五年生存率已超过九成。然而癌症研究的未来面临重重障碍，其中之一是美国特朗普政府计划削减癌症研究经费，中国预计在 2025 年超过美国成为癌症研究的主要资助国。",
+          "link": "https://www.solidot.org/story?sid=81827",
+          "publishedOn": "2025-07-18T07:23:22.000Z",
+          "wordCount": 176,
+          "title": "预防工作推动发达国家癌症死亡率下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81826",
+          "author": null,
+          "description": "一项新研究披露，一种基于全球安卓智能手机的地震检测和预警系统能够实时检测地震活动并发出可拯救生命的预警，其效用堪比传统的地震监测网络。许多地震多发国家缺乏地震预警基础设施。智能手机在全球的广泛使用为感测和发送地震警报创建了强大的平台。虽然智能手机中的传感器不如传统地震监测台站的传感器精确，但它们仍然能在强震期间感测地面的震动。安卓地震预警（AEA）功能以默认方式内置于安卓手机，该手机约占全球智能手机用户中的 7 成。在运行的头 3 年（2021-2024 年）中，该 AEA 系统在 98 个国家中平均每月可检测到 312 次地震，震级范围在 1.9 级到最高的 7.8 级之间。对于震级在 4.5 级或以上的地震，该系统向用户发出的警报每月约为 60 次，总计 1800 万次。AES 用户的反馈显示，85% 的警报接收者感受到了地震，其中 36% 是在地面震动开始前收到警报的，28% 是在震动期间收到警报的，23% 则是在震动之后收到警报的。研究人员认为其效用可与已建立的地震监测系统媲美。",
+          "link": "https://www.solidot.org/story?sid=81826",
+          "publishedOn": "2025-07-18T05:55:04.000Z",
+          "wordCount": 185,
+          "title": "智能手机地震预警不比传统地震监测差",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=81825",
+          "author": null,
+          "description": "Netflix 正式开始着手制作《刺客信条》真人剧集，双方是在约五年前商谈合作。真人剧集的主创和执行制作人为 Roberto Patino 和 David Wiener。Roberto Patino 此前制作了 HBO Max 迷你剧《DMZ》，担任过 Robert De Niro 主演剧集《Zero Day》的编剧和联合执行制作人，参与了《Westworld》和《Sons of Anarchy》等剧集。David Wiener 担任过《Halo》第二季以及《Brave New World》的制作人，为《Fear the Walking Dead》和《Homecoming》写过剧本。Ubisoft Film & Television 的 Gerard Guillemot、Margaret Boykin 和 Austin Dill 也将担任联合制作人。《刺客信条》系列是最畅销的游戏系列之一，2007 年至今共售出逾 2.3 亿份拷贝，主线作品已推出 14 部，最新一部是今年初发布的以日本为背景的《刺客信条：影》。真人剧集的剧情将围绕两个神秘派系的秘密战争展开，一派试图通过控制和操纵决定人类的未来，另一派则致力于维护自由意志。",
+          "link": "https://www.solidot.org/story?sid=81825",
+          "publishedOn": "2025-07-18T05:36:04.000Z",
+          "wordCount": 202,
+          "title": "Netflix 制作《刺客信条》真人剧集",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81824",
           "author": null,
@@ -777,106 +877,6 @@
           "publishedOn": "2025-07-10T15:52:35.000Z",
           "wordCount": 202,
           "title": "GlobalFoundries 收购 MIPS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81768",
-          "author": null,
-          "description": "《星露谷物语（Stardew Valley）》超越《传送门 2（Portal 2）》成为 Steam 平台最受好评的游戏。《星露谷物语》是 ConcernedApe 开发的农场模拟类角色扮演游戏。在游戏中，玩家所扮演的主角远离办公室工作的烦扰，在一个名叫星露谷的地方重新开始打理祖父留下的荒废牧场。游戏于 2016 年 2 月发布，至今有近 10 年历史，ConcernedApe 在发布之后继续进行更新，包括引入新的 NPC 和多人模式，游戏售出了逾三千万份拷贝。数据显示，《星露谷物语》以 8.87 的得分和 899,309 票超过了《传送门2》的 8.85 分和 436,510 票。排名前十五的游戏还包括：泰拉瑞亚、People Playground、求生之路 2、Vampire Survivors、Hades 、欧卡2、Schedule I、传送门 1、Garry's Mod、RimWorld、Black Myth: Wukong、Baldur's Gate 3 和 Lethal Company。",
-          "link": "https://www.solidot.org/story?sid=81768",
-          "publishedOn": "2025-07-10T15:41:18.000Z",
-          "wordCount": 204,
-          "title": "《星露谷物语》成为 Steam 平台最受好评的游戏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81767",
-          "author": null,
-          "description": "龟罹患癌症的可能性远低于哺乳动物或鸟类。根据发表在《BioScience》期刊上的一项研究，仅有 1% 的龟罹患癌症。研究人员分析了数百只生活在动物园的龟的医疗记录和尸检报告。结果显示，龟患癌症的数量非常少，即使出现肿瘤，也几乎不会扩散。研究人员将这一现象归因于龟强大的防御能力，包括抵御细胞损伤、减轻细胞压力的缓慢新陈代谢以及独特的抗癌基因。",
-          "link": "https://www.solidot.org/story?sid=81767",
-          "publishedOn": "2025-07-10T15:21:43.000Z",
-          "wordCount": 168,
-          "title": "只有 1% 的龟罹患癌症",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81766",
-          "author": null,
-          "description": "音乐播放器项目 Amarok 释出了 v3.3 版，这是首个基于 KDE Frameworks 6 和 Qt 6 的版本。Amarok 3.3 大改了音频引擎，使用 GStreamer 而不是 Phonon 播放音频。主要变化包括：停止支持 Qt5/KF5，更新了数据库字符集允许完整的 utf-8 值；解决了 2038 年问题，等等。",
-          "link": "https://www.solidot.org/story?sid=81766",
-          "publishedOn": "2025-07-10T10:07:22.000Z",
-          "wordCount": 187,
-          "title": "Amarok 3.3 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81765",
-          "author": null,
-          "description": "发表在《自然》期刊上的一项基因组研究确认了人畜共患病原体从动物传播到人类的最早时间点：6500 年前人类从狩猎采集转向畜牧业开始与动物生活在一起。澳大利亚病毒学家 Edward Holmes 称，这不是新观念，但研究人员用数据给出了证明。研究人员从欧亚大陆发现的 1,313 具古人类骨骼和牙齿中残留的血液提取 DNA 序列，寻找微生物基因组的痕迹。这些古代 DNA 所处时期跨越了 3.7 万年。研究识别出 5486 个来自细菌、病毒和寄生虫的 DNA 序列。人畜共患病原体仅在距今 6500 年或更短时间的遗骸中发现，约 5000 年前达到峰值。鼠疫杆菌\n首次出现在该数据集中的时间是在 5700-5300 年前。",
-          "link": "https://www.solidot.org/story?sid=81765",
-          "publishedOn": "2025-07-10T09:51:57.000Z",
-          "wordCount": 180,
-          "title": "基因组研究确认人类圈养动物后动物病毒开始传播给人类",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81764",
-          "author": null,
-          "description": "欧盟哥白尼气候变化服务机构(CCCS)周三表示，西欧经历了有记录以来最热的六月，且连续三年六月都破高温记录。在全球范围内，六月是有记录以来第三热的六月，由于人类排放温室气体导致地球变暖，持续的高温天气仍在延续。哥白尼气候变化服务机构表示，6 月西欧平均气温为 20.49°C，比 1991-2020 年平均气温高出2.81°C。西欧经历了两波热浪，其中第二波延续到七月初，多国地表气温超过 40°C，西班牙和葡萄牙的气温高达 46°C。",
-          "link": "https://www.solidot.org/story?sid=81764",
-          "publishedOn": "2025-07-10T09:03:05.000Z",
-          "wordCount": 163,
-          "title": "西欧经历有记录以来最热的六月",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81763",
-          "author": null,
-          "description": "阿尔法雄性（alpha male）不是普世真理。德国马普和法国研究人员分析了 121 个灵长类物种 253 个种群的雌雄攻击行为的详细观察，结果显示两性之间并不存在泾渭分明的权力关系。雄性和雌性之间的竞争异常普遍。平均而言，社群中近半数侵略性互动都涉及雄性和雌性。学界长期以来一直假定灵长类动物的权力结构偏向雄性，然而最新研究给出了不同的答案，事实上偏向雄性的权力结构更多是一种例外。在分析的 151 个种群中，只有 25 个种群观察到雄性占优，16 个种群雌性占优，七成种群的权力结构是中性即无性别倾向。在陆生种群中，当雄性比雌性拥有更大体型和武器时，雄性占主导的情况更为普遍。研究人员称，灵长类雄性通过武力和强制获得权力，而雌性则通过其它策略如生殖策略获得权力。",
-          "link": "https://www.solidot.org/story?sid=81763",
-          "publishedOn": "2025-07-10T08:12:46.000Z",
-          "wordCount": 168,
-          "title": "两性权力关系泾渭并不分明",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81762",
-          "author": null,
-          "description": "OpenAI 准备发布一款 AI 驱动的 Web 浏览器，挑战支配着浏览器市场的 Google Chrome。浏览器预计将在数周内发布，它旨在利用 AI 从根本上改变消费者浏览 Web 的方式。它将让 OpenAI 直接获取 Google 成功的基石：用户数据。Chrome 是 Alphabet 广告业务的支柱，Chrome 提供用户信息以帮助 Alphabet 更有效定向广告使其更有利可图，它还为 Google 提供了一种默认将搜索流量路由到自家引擎的方法。Google Chrome 用户数多达 30 亿，而 OpenAI ChatGPT 的周活跃用户为 5 亿，它的浏览器是基于 Google 开源的 Chromium。",
-          "link": "https://www.solidot.org/story?sid=81762",
-          "publishedOn": "2025-07-10T07:01:12.000Z",
-          "wordCount": 218,
-          "title": "OpenAI 将发布 AI Web 浏览器挑战 Chrome",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81761",
-          "author": null,
-          "description": "今天想要应聘麦当劳工作的人可能首先需要在 McHire.com 平台上与 AI 聊天机器人 Olivia 聊一聊。Olivia 会询问应聘者个人信息和简历，进行性格测试。该聊天机器人由 Paradox.ai 公司提供。安全研究员 Ian Carroll 和 Sam Curry 在听闻麦当劳使用 AI 聊天机器人筛选应聘者后好奇之下对 McHire.com 进行了一番研究，结果意外发现该平台的管理员用户名和密码都是 123456。登陆管理员面板之后，他们可以访问 Paradox.ai 账户，查询该公司保存的所有 McHire 用户与 Olivia 聊天记录的数据库。数据库包含了多达 6400 万条记录，包括了应聘者的姓名、电子邮件地址和电话号码。麦当劳表示 Paradox.ai 需要对该漏洞负责。Paradox.ai 确认并在一天内修复了漏洞。",
-          "link": "https://www.solidot.org/story?sid=81761",
-          "publishedOn": "2025-07-10T06:24:52.000Z",
-          "wordCount": 200,
-          "title": "麦当劳的 AI 招聘平台管理员密码是 123456",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81760",
-          "author": null,
-          "description": "作为生成式 AI 最主要的硬件供应商，英伟达股价周三上涨逾 2%，市值突破 4 万亿美元，成为历史上第一家 4 万亿美元市值的企业。英伟达如今是全球市场第一的企业，超过了微软和苹果，两家公司在英伟达之前市值突破 3 万亿美元，但尚未达到 4 万亿美元。英伟达总部位于加州，成立于 1993 年，在 ChatGPT 掀起的生成式 AI 热中，它的股价一路高涨，2024 年 2 月其市值首次突破 2 万亿美元，6 月突破 3 万亿美元。",
-          "link": "https://www.solidot.org/story?sid=81760",
-          "publishedOn": "2025-07-09T16:29:31.000Z",
-          "wordCount": 190,
-          "title": "英伟达市值突破 4 万亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81759",
-          "author": null,
-          "description": "今年早些时候，海牙国际刑事法院以战争罪对以色列总理内塔尼亚胡及其前国防部长加兰特（Yoav Gallant）发出逮捕令，美国总统特朗普随后对国际刑事法院进行了制裁，微软则立即封了首席检察官 Karim Khan 的电邮账号。但很多时候，美国科技巨头对制裁名单的响应并不像微软动作那么快。5 月 29 日，美国财政部对 Funnull Technology Inc.及其经营者、40 岁的上海人刘理志 aka Liu“Steve”Lizhi、XXL4 和 Nice Lizhi 等进行经济制裁，云服务商 Funnull 被控帮助了金融诈骗导致美国人损失逾 2 亿美元。根据美国法律，美国公司被禁止与被制裁的个人继续做生意。调查发现，在一个多月后，美国科技巨头 Facebook、Github、PayPal 和 Twitter/X 仍然没有关闭刘理志的账号。LinkedIn 的账号是在被要求置评后几小时内删除的。",
-          "link": "https://www.solidot.org/story?sid=81759",
-          "publishedOn": "2025-07-09T16:02:05.000Z",
-          "wordCount": 183,
-          "title": "美国科技巨头对财政部的制裁名单响应并不迅速",
           "imageUrl": null
         }
       ]
