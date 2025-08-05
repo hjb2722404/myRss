@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/nesthive/",
+          "author": "青小蛙",
+          "description": "NestHive 是一款 iOS 上的物品收纳管理应用，通过极其复杂的四级空间管理，来精准定位你的物品。所谓四级空间管理，即场所→房间→家具→位置，虽然精准，但绝对只有强迫症患者才能用。@Appinn",
+          "link": "https://www.appinn.com/nesthive/",
+          "publishedOn": "2025-08-04T09:49:07.000Z",
+          "wordCount": 2655,
+          "title": "NestHive – 一个 3.3MB 的物品收纳应用，连沙发都要收纳，强迫症都不敢玩！",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-04T173231.151.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/taskmanager-for-android/",
+          "author": "青小蛙",
+          "description": "TaskManager 是一个开源的 Android 任务管理应用，受 GNOME 系统监视器启发，可帮助用户实时监控和管理设备资源。可以查看 CPU、内存、进程，需要 Shizuku。@Appinn",
+          "link": "https://www.appinn.com/taskmanager-for-android/",
+          "publishedOn": "2025-08-04T08:18:58.000Z",
+          "wordCount": 2674,
+          "title": "TaskManager – 开源安卓任务管理器，可监测各 APP 的 CPU、内存占用",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-04T155106.071.jpg"
+        },
+        {
           "id": "https://www.appinn.com/moodist/",
           "author": "青小蛙",
           "description": "这是青小蛙用 Moodist 的几个乱搭成果： Moodist 是一个开源环境音效与专注工具，可以理解为一款乱搭白噪音工具。专门为希望提升专注力、放松身心、激发创意的用户设计。和常见的白噪音或效率类",
@@ -180,16 +200,6 @@
           "wordCount": 2588,
           "title": "Windows 有能疯狂弹窗提醒关机的软件吗？",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/07/Copy-of-appinn-homework-2025-07-27T173355.752.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/win11debloat/",
-          "author": "青小蛙",
-          "description": "Win11Debloat 是一个开源脚本，它可以一键帮你安全的删除多达 90+ 款 Windows 11 自带应用（支持 Windows 10），包括 50 多个微软自带应用和超过 40 个第三方预装",
-          "link": "https://www.appinn.com/win11debloat/",
-          "publishedOn": "2025-07-26T10:04:48.000Z",
-          "wordCount": 2862,
-          "title": "Win11Debloat – 微软欠我的性能该还了：一键卸载 90+ 款 Windows 11 预装软件",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/07/Copy-of-appinn-homework-2025-07-26T174604.099.jpg"
         }
       ]
     },
@@ -198,6 +208,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=387880",
+          "author": "Zell Liew",
+          "description": "Today, I want to discuss a couple of patterns for naming color palettes that the community is using, and how I propose we can improve, so we achieve both flexibility and beauty.\nThinking Deeply About Theming and Color Naming originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/",
+          "publishedOn": "2025-08-04T13:14:45.000Z",
+          "wordCount": 4672,
+          "title": "Thinking Deeply About Theming and Color Naming",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/abstract-color.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=387974",
           "author": "Mészáros Róbert",
@@ -837,56 +857,6 @@
           "publishedOn": "2025-07-26T16:07:03.000Z",
           "wordCount": 187,
           "title": "受争议的砷基生命论文在发表 15 年后撤下",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81898",
-          "author": null,
-          "description": "Pebble 创始人 Eric Migicovsky 宣布他拿回了原始商标，因此他的公司准备推出的智能手表产品将使用 Pebble 商标：Core 2 Duo 改为 Pebble 2 Duo，Core Time 2 改名 Pebble Time 2。Pebble 诞生于 2012 年，Eric Migicovsky 通过 Kickstarter 筹集到了创纪录的 1030 万美元，而其第二代智能手表通过 Kickstarter 再次筹集到破纪录的 2030 万美元。但在 2016 年 12 月 Pebble 出售给 Fitbit 后关闭，创始人也离开了公司。Google 通过收购 Fitbit 获得了 Pebble 的所有权。今年初 Google 宣布在 Apache License 2.0 下开源 Pebble 智能手表操作系统，源代码托管在 GitHub 上。而 Migicovsky 同一时间宣布推出能运行 Pebble OS 的新智能手表产品。",
-          "link": "https://www.solidot.org/story?sid=81898",
-          "publishedOn": "2025-07-26T15:29:40.000Z",
-          "wordCount": 220,
-          "title": "Pebble 创始人拿回了原商标",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81897",
-          "author": null,
-          "description": "一项初步研究显示，全球的民用机场与军事设施所操作的雷达系统，可能正无意间将地球的存在广播给科技先进的外星文明，这些讯号可被视为智慧生命的间接证据。研究调查了雷达系统泄漏出的电波讯号若由距离地球 200 光年的观测者侦测到，会呈现出怎样的样貌，前提是他们拥有与地球上同等级的电波望远镜。研究结果同时也意味着，理论上我们也能在相同范围内侦测到类似等级的外星文明。研究人员的目标是评估六个邻近的恒星系统，尤其是巴纳德星（Barnard’s Star，5.98光年） 与显微镜座AU（AU Microscopii，32.3光年）来看，这些讯号的可侦测程度。分析显示，机场用来监控飞机的雷达系统，合计产生约 2×10¹⁵瓦特的功率，这样的能量输出足以让如绿堤望远镜（Green Bank Telescope）等级的电波望远镜在 200 光年外仍能侦测到讯号。军事雷达系统具有更高的指向性，形成如同灯塔光束扫过天空般的独特模式。",
-          "link": "https://www.solidot.org/story?sid=81897",
-          "publishedOn": "2025-07-26T15:12:30.000Z",
-          "wordCount": 168,
-          "title": "地球在向外星人广播其位置",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81896",
-          "author": null,
-          "description": "域名系统（DNS）的原始设计不包含任何安全细节，域名系统安全扩展（DNSSEC）尝试在其中添加安全性，同时仍保持向后兼容性。DNSSEC 能阻止 DNS 缓存污染等攻击，它的 RFC 是在 28 年前发布的，根据 Internet Society 的数据，DNSSEC 普及率仅为 34%，相比下 HTTPS 的开发时间线与 DNSSEC 基本相同——在 Top 1000 网站中，HTTPS 的普及率为 96%，HTTP/3 仅发布四年时间普及率就达到了 25%。大约三成的国家域名尚未实现 DNSSEC。",
-          "link": "https://www.solidot.org/story?sid=81896",
-          "publishedOn": "2025-07-26T15:06:00.000Z",
-          "wordCount": 189,
-          "title": "DNSSEC 普及率仅为 34%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81895",
-          "author": null,
-          "description": "2017 年 Google 的一辆街景车在阿根廷拍摄到了一名警察在自家院子里裸体的画面，将这名警察的光屁股以及门牌号和街道名都公布在地图上，此事经过阿根廷媒体报道之后被广泛传播。这位警察对搜索巨人提起了诉讼，指控其侵犯了他的尊严，他表示自家院子的围墙高 6.5 英尺，称自己在邻居和同事中间沦为笑柄。Google 对此的回应是围墙不够高。阿根廷法庭去年驳回了诉讼，认为责任在于他本人的行为不恰当。本周上诉法庭推翻了原判，判决这名男子的尊严受到了公然的侵犯，Google 需要为此赔偿 1.25 万美元。",
-          "link": "https://www.solidot.org/story?sid=81895",
-          "publishedOn": "2025-07-26T14:23:11.000Z",
-          "wordCount": 178,
-          "title": "Google 街景车拍摄到阿根廷男子的裸体被判赔偿 1.25 万美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81894",
-          "author": null,
-          "description": "Wayback 项目释出了 v0.1 版本。Wayland 是目前主流的显示服务器，它正在取代 X.org X11 server，后者目前处于维护模式，不再继续开发。虽然 Wayland 取得了长足进步，但仍然有很多基于 X11 的窗口管理器和桌面环境不支持 Wayland。Wayback 项目就是旨在解决这一问题，允许用户在 Wayland 上运行旧的 X11 桌面环境，它有望成为 X.org 的一个更简单更直接的替代，减轻 Linux 发行版的维护负担。v0.1 的版本号意味着它处于  alpha 状态，功能远不完整，有很多功能尚未实现或正在开发中，如多显示器支持。",
-          "link": "https://www.solidot.org/story?sid=81894",
-          "publishedOn": "2025-07-25T15:54:59.000Z",
-          "wordCount": 189,
-          "title": "Wayback 0.1 释出",
           "imageUrl": null
         }
       ]
