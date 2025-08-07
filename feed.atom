@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-08-06T03:42:14.008Z</updated>
+    <updated>2025-08-07T03:42:12.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本禁止苹果 iOS 限制第三方浏览器引擎]]></title>
+        <id>https://www.solidot.org/story?sid=81982</id>
+        <link href="https://www.solidot.org/story?sid=81982"/>
+        <updated>2025-08-06T16:00:58.000Z</updated>
+        <summary type="html"><![CDATA[日本最近通过了被称为《Bill on the Promotion of Competition for Specified Software Used in Smartphones》的智能手机法案，其中之一是禁止苹果在其 iOS 平台上限制第三方浏览器引擎的做法。第三方浏览器登陆苹果的平台必须使用它的浏览器引擎——即 WebKit，Firefox、Chrome、Edge、Opera、Brave 和 Vivaldi 的 iOS 版本都是 WebKit 的换皮，此举导致 iOS 上的浏览器缺乏竞争。上周日本发布了指南 Mobile Software Competition Act (MSCA) Guidelines，明确禁止苹果的这项政策。MSCA 将于 2025 年 12 月生效，执行该法律将是它面临的一大挑战，欧盟和英国都制定了类似的法律。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grok 未经用户要求就生成斯威夫特的裸照]]></title>
+        <id>https://www.solidot.org/story?sid=81981</id>
+        <link href="https://www.solidot.org/story?sid=81981"/>
+        <updated>2025-08-06T15:06:14.000Z</updated>
+        <summary type="html"><![CDATA[马斯克（Elon Musk）旗下 AI 公司 xAI 的聊天机器人 Grok 被发现未经用户要求就生成了著名歌星斯威夫特（Taylor Swift）的裸照。用户使用了提示词 Taylor Swift celebrating Coachella with the boys 选择预设 spicy 生成视频，结果 Grok 生成了斯威夫特在一群 AI 观众前脱衣和穿丁字裤跳舞的视频。随着 Take It Down Act 法案将于明年生效，如果平台放任 AI 生成深度伪造的裸照 xAI 可能会面临法律后果。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[维基百科编辑对 AI 生成文章采用加速删除政策]]></title>
+        <id>https://www.solidot.org/story?sid=81980</id>
+        <link href="https://www.solidot.org/story?sid=81980"/>
+        <updated>2025-08-06T14:36:57.000Z</updated>
+        <summary type="html"><![CDATA[维基百科编辑采用了一项新政策去处理大量涌入的 AI 生成文章。新政策允许管理员快速删除符合一定条件的 AI 生成文章。维基百科以前的文章删除流程通常需要长达一周的讨论。对于 AI 生成文章，在标记和审核是否符合条件之后管理员可以无需讨论快速删除。允许快速删除的 AI 文章需要满足两个条件：其一包含明显的大模型对提示词的回应如 Here is your Wikipedia article on…、Up to my last training update … 以及 as a large language model 等等之类；另一个条件是大模型经常犯的错误——引用不存在或显然错误的来源。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub CEO 警告开发者要么拥抱 AI 要么改行]]></title>
+        <id>https://www.solidot.org/story?sid=81979</id>
+        <link href="https://www.solidot.org/story?sid=81979"/>
+        <updated>2025-08-06T14:22:04.000Z</updated>
+        <summary type="html"><![CDATA[GitHub CEO Thomas Dohmke 向全世界开发者发出明确的警告，程序员要么拥抱 AI 要么离开这个行业。他在个人博客发文《Developers, Reinvented》，称软件开发正在经历一场变革，不仅涉及到代码如何编写，也涉及到程序员自身的定义。文章引用了 22 名已将 AI 融入工作流程的程序员的经历：AI 不是遥远的未来，而是当前的必需品。 一位开发者说，要么拥抱 AI 要么重新考虑你的职业生涯规划。类似的警告也出现在 GitHub 母公司微软高管的口中。Dohmke 表示，曾认为 AI 工具如 GitHub Copilot 是噱头的程序员现在认为它们是不可或缺的合作伙伴。程序员的角色从写代码转变到设计架构和审核 AI 生成的代码。他们不再称自己是程序员，而是“代码赋能者（code enablers）”或“代码创意总监（creative directors of code）”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bringing Back Parallax With Scroll-Driven CSS Animations]]></title>
+        <id>https://css-tricks.com/?p=387868</id>
+        <link href="https://css-tricks.com/bringing-back-parallax-with-scroll-driven-css-animations/"/>
+        <updated>2025-08-06T13:39:06.000Z</updated>
+        <summary type="html"><![CDATA[Parallax is a pattern in which different elements of a webpage move at varying speeds as the user scrolls, creating a three-dimensional, layered appearance. It once required JavaScript. Now we have scroll-driven animations in CSS, which is free from the main-thread blocking that can plague JavaScript animations.
+Bringing Back Parallax With Scroll-Driven CSS Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Blake Lundquist</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox Virtual Environment 9.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=81978</id>
+        <link href="https://www.solidot.org/story?sid=81978"/>
+        <updated>2025-08-06T10:11:49.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox Virtual Environment 释出了 v9.0 版本。Proxmox Virtual Environment 9.0 基于 Debian 13 "Trixie" 但使用了较新版本的内核 Linux kernel 6.14.8-2。主要新特性包括：Snapshots 为任何支持块存储的存储系统提供快照支持，高可用性 (HA) 集群的亲和性规则，用 Rust 语言和 Yew Web 框架开发的用于管理 Proxmox 系统的移动 Web 界面，ZFS 2.3.3 支持不停机向 RAIDZ 池添加新设备，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑞典首相因在工作中使用 AI 工具而受到批评]]></title>
+        <id>https://www.solidot.org/story?sid=81977</id>
+        <link href="https://www.solidot.org/story?sid=81977"/>
+        <updated>2025-08-06T08:38:10.000Z</updated>
+        <summary type="html"><![CDATA[瑞典首相 Ulf Kristersson 承认经常用 ChatGPT 等 AI 工具咨询意见。他表示自己用过的 AI 工具包括 OpenAI 的 ChatGPT 和法国 Mistral AI 的 LeChat，他的同事也在日常工作中经常使用 AI。他表示使用 AI 工具是为了获得政治事务相关的补充意见。但专家对政客使用 AI 工具表达了担忧，Umea 大学的负责任 AI 教授 Virginia Dignum 称 AI 无法对政治观点发表有意义的意见，它只是反映了其开发商的观点，“我们没有投票支持 ChatGPT ”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 开源模型 gpt-oss，只需要 16GB 显存。目前可在线试用]]></title>
+        <id>https://www.appinn.com/openai-gpt-oss/</id>
+        <link href="https://www.appinn.com/openai-gpt-oss/"/>
+        <updated>2025-08-06T08:30:16.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI 终于开源了自己的模型：gpt-oss-120b 和 gpt-oss-20b，并发布了中文内容：《隆重推出 gpt-oss》。@Appinn 这是两款 Apache 2.0 许可证下的轻量]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 自 GPT-2 以来首次发布开放权重模型]]></title>
+        <id>https://www.solidot.org/story?sid=81976</id>
+        <link href="https://www.solidot.org/story?sid=81976"/>
+        <updated>2025-08-06T07:01:27.000Z</updated>
+        <summary type="html"><![CDATA[在 2019 年发布 GPT-2 之后 OpenAI 的行为更像是 CloseAI。现在时隔六年之后，OpenAI 终于发布了两款采用 Apache 2.0 许可证的开放权重大模型 gpt-oss-120b 和 gpt-oss-20b，参数分别为 1200 亿和 200 亿，性能接近 o4-mini 和 o3-mini。其中较小的模型 gpt-oss-20b 可以运行在 16GB 内存的普通消费级电脑上，而 gpt-oss-120b 需要 80GB 内存。两个模型都使用了 OpenAI o1 模型率先部署的思维链推理方法，可浏览网页、执行代码和充当 AI 智能体（AI agent）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox VE 9.0 正式发布：基于 Debian 13，内核更前沿，快来体验极客级虚拟化环境]]></title>
+        <id>https://www.appinn.com/proxmox-ve-9-0-released/</id>
+        <link href="https://www.appinn.com/proxmox-ve-9-0-released/"/>
+        <updated>2025-08-06T06:27:20.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox VE 9.0 在昨天晚上正式发布（北京时间2025年8月5日晚9点），基于 Debian 13 Trixie 打造，使用很新的 Linux 内核 6.14.8-2 作为稳定默认版本。重]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美科技企业今年前七个月裁员 9 万人]]></title>
+        <id>https://www.solidot.org/story?sid=81975</id>
+        <link href="https://www.solidot.org/story?sid=81975"/>
+        <updated>2025-08-06T06:25:30.000Z</updated>
+        <summary type="html"><![CDATA[Challenger, Gray & Christmas 的统计显示，1~7 月美国科技企业裁员人数同比增长 36%，达到 8 万 9251 人。Layoffs.fyi 的统计显示，7月份美国裁员人数约为 1 万 6000 人，比上年同期增加78%。微软 7 月初宣布裁员 9000 人，占员工总数的 4%。正在重组的英特尔也将裁员。削减雇用的浪潮也蔓延到了中坚企业，相亲应用 Bumble 裁员 240 人，占员工总数的 30%，荷兰 TomTom 也宣布裁员 300 人。相关企业的业绩并没有恶化。美国 Alphabet、微软、苹果、亚马逊、Meta  5 大企业二季度全部实现营收和利润增长，季度净利润合计达到 1151 亿美元。在此情况下企业仍急于裁员是因为可通过引进 AI 更加积极地削减成本。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达否认其产品含有后门和关闭开关]]></title>
+        <id>https://www.solidot.org/story?sid=81974</id>
+        <link href="https://www.solidot.org/story?sid=81974"/>
+        <updated>2025-08-06T01:58:08.000Z</updated>
+        <summary type="html"><![CDATA[英伟达官方博客发文称，“NVIDIA 芯片不存在后门、终止开关和监控软件”。文章称，“为了降低误用风险，一些专家和政策制定者提出需要在硬件中设置‘终止开关’或内置控件，以便在用户不知情和未经同意的情况下远程禁用 GPU。有人怀疑这种情况已经存在。NVIDIA GPU 不存在也不应该设置终止开关和后门。30 多年前，NVIDIA 开始设计处理器。经验告诉我们，将后门和终止开关嵌入到芯片有可能为黑客和敌对势力提供可乘之机，这将会破坏全球数字基础设施和业界对领先技术的信任。很多国家和地区的既定法律对此也有明确规定，要求公司修正漏洞，而不是制造漏洞。这一原则仍然有效。不存在所谓“好”的秘密后门，只有必须被彻底消除的危险漏洞。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[台积电指控前雇员窃取 2 纳米芯片技术机密]]></title>
         <id>https://www.solidot.org/story?sid=81973</id>
@@ -860,87 +981,6 @@ Keeping Article Demos Alive When Third-Party APIs Die originally published on CS
         <summary type="html"><![CDATA[为应对全球气候变化，挪威开始将液化二氧化碳埋藏在海床下一英里半的一层海绵岩中。挪威政府承担该项目第一阶段 10 亿美元费用中的八成，三大石油公司——壳牌、挪威国家石油和道达尔能源——为项目的持续扩建资助 7.14 亿美元，欧盟补贴 1.5 亿美元。作为欧洲最大的石油和天然气生产国，挪威正利用其石化收入探索“碳倾倒（carbon dumping）”方案能否有效。如果一切顺利，三大石油公司表示它们的设施每年可将 500 万公吨二氧化碳泵入海底，约占挪威年排放量的十分之一。液化二氧化碳由名叫 Northern Pioneer 的运输船运送，每次可装载 7500 公吨。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FFmpeg 8.0 预计八月底释出]]></title>
-        <id>https://www.solidot.org/story?sid=81907</id>
-        <link href="https://www.solidot.org/story?sid=81907"/>
-        <updated>2025-07-28T14:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Michael Niedermayer 在邮件列表上宣布准备于八月底释出 FFmpeg 8.0，距离上个大版本的发布相距约 17 个月。FFmpeg 8.0 为 RealVideo 6.0、ADPCM IMA Xbox、G.728、Sanyo LD-ADPCM 引入了新解码器；为三星 Advanced Professional Video 引入了 APV 解码器；为 APV、动画 JPEG-XL 和 libx265 alpha 层编码功能引入了编码支持；OpenHarmony 的编码和解码支持；Video Acceleration API (VA-API)的 VVC/H.266 支持； AVX-512 优化、FFV1 改进、AV1 RTP 分组器/解包器、AMD AMF 解码器、Vulkan 视频增强、更好的 HDR 视频支持等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Masonry Layout That Works Today]]></title>
-        <id>https://css-tricks.com/?p=387765</id>
-        <link href="https://css-tricks.com/making-a-masonry-layout-that-works-today/"/>
-        <updated>2025-07-28T12:42:16.000Z</updated>
-        <summary type="html"><![CDATA[I went on to figure out how make masonry work today with other browsers. I'm happy to report I've found a way — and, bonus! — that support can be provided with only 66 lines of JavaScript.
-Making a Masonry Layout That Works Today originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[腾讯发布混元世界 1.0 模型]]></title>
-        <id>https://www.solidot.org/story?sid=81906</id>
-        <link href="https://www.solidot.org/story?sid=81906"/>
-        <updated>2025-07-28T10:03:26.000Z</updated>
-        <summary type="html"><![CDATA[如何从文本或图像中创建具有沉浸感和可交互性的三维世界，始终是计算机视觉与图形学领域的核心挑战。现有世界生成方法主要分为两类：基于视频的方法虽能提供丰富的多样性，却缺乏三维一致性且渲染效率低下；基于三维几何的方法虽能保证几何一致性，却受限于训练数据不足和内存效率低下的表征方式。为突破这些局限，腾讯开发者提出 HunyuanWorld 1.0 框架——一种融合双方优势的创新方案，能根据文本与图像条件生成兼具沉浸感、可探索性与交互性的三维世界。本方法具有三大核心优势：（1）通过全景世界代理实现 360°沉浸式体验；（2）支持网格导出功能，可与现有计算机图形管线无缝兼容；（3）采用解耦式物体表征以增强交互性。该框架的核心在于语义分层的三维网格表征技术，通过将全景图像作为 360°世界代理进行语义感知的世界解构与重建，从而生成多样化的三维场景。大量实验表明，本方法在生成连贯、可探索且可交互的三维世界方面达到最先进水平，同时可广泛应用于虚拟现实、物理仿真、游戏开发及交互式内容创作等领域。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[针对开源软件的供应链攻击失控]]></title>
-        <id>https://www.solidot.org/story?sid=81905</id>
-        <link href="https://www.solidot.org/story?sid=81905"/>
-        <updated>2025-07-28T09:49:34.000Z</updated>
-        <summary type="html"><![CDATA[安全公司 Socket 上周报告了三起针对开源软件的供应链攻击。攻击者主要通过窃取开发者账号，然后上传含有恶意代码的软件包，将恶意软件推送给毫无戒心的用户。Toptal 的 GitHub Organization 账号被入侵，攻击者利用该账号在 npm 上发布恶意软件包，Toptal 共有 10 个 npm 软件包含了恶意代码，在被发现前被 5000 名用户下载。Socket 还报告了一起针对 npm 用户和 PyPI 用户的供应链攻击，恶意程序的总下载量逾 56,000 次，恶意软件的功能包括了键盘记录、屏幕截图、指纹识别、webcam 访问和凭据窃取等。Socket 报告的第三起攻击是利用钓鱼邮件窃取开发者账号在 npm 上发布了三个包含恶意代码的软件包。因为软件包的依赖关系，供应链攻击通常会造成更大规模的破坏。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英特尔终止 PlaidML 开源深度学习软件开发]]></title>
-        <id>https://www.solidot.org/story?sid=81904</id>
-        <link href="https://www.solidot.org/story?sid=81904"/>
-        <updated>2025-07-28T07:43:55.000Z</updated>
-        <summary type="html"><![CDATA[正在大规模裁员和重组的英特尔在开源支持上撤退，关闭了 Clear Linux，一位资深 Linux 工程师兼维护者离职导致 WMI Slim Bootloader 等驱动无人维护。现在芯片巨人被发现悄悄终止了对开源深度学习框架 PlaidML 的支持，官方软件库已经存档。PlaidML 由英特尔在 2018 年收购的 Vertex.AI 开发，收购之后一直继续开发，但在经历一次大规模代码重组之后开发进度显著降低，直到今年初彻底死亡，与此同时 AI 领域的竞争在显著加速。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.16 释出]]></title>
-        <id>https://www.solidot.org/story?sid=81903</id>
-        <link href="https://www.solidot.org/story?sid=81903"/>
-        <updated>2025-07-28T07:16:13.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds 在内核邮件列表上宣布释出 Linux 6.16，6.17 合并窗口开放。Linux 6.16 的主要新特性包括：改进性能，支持 AMD 和英特尔的新硬件，Nouveau 驱动支持英伟达 Blackwell 和 Hopper GPU，英特尔 APX 初步支持，USB 音频分流（Offloading），sysfs 报告硬/软锁死次数的，OpenVPN DCO 内核驱动改进 OpenVPN 性能，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 让我们变蠢？]]></title>
-        <id>https://www.solidot.org/story?sid=81902</id>
-        <link href="https://www.solidot.org/story?sid=81902"/>
-        <updated>2025-07-28T06:48:44.000Z</updated>
-        <summary type="html"><![CDATA[搜索引擎从某种程度上是人类记忆的外包，而在查询结果时人类仍然需要运用批判性思维和语境去进行解读。对于以 ChatGPT 为代表的生成式 AI 工具，人类可能将思考过程也外包出去了。生成式 AI 工具不仅能检索信息，还可以创造、分析和总结信息。这代表着一种根本性的转变：生成式 AI 是第一种能取代人类思考和创造力的技术。这就引起了一个重要问题：ChatGPT 会让我们变蠢？生成式 AI 取代了筛选信息来源、比较观点和克服模糊性的需求，可能会削弱人的批判性思维、解决复杂问题和深入理解信息的能力。关键不是是否使用生成式 AI，而是如何使用。如果不加批判地使用，ChatGPT 可能会导致智力上的自满。生成式 AI 的普及让网民走到了十字路口：一条路会导致智力的衰退，走向一个由 AI 替人类思考的世界；另一条路创造了一个机会，AI 能帮助增加和扩展我们的智力。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 中国关闭了，如何备份数据？如何下载 Firefox 国际版？]]></title>
-        <id>https://www.appinn.com/firefox-backup-download/</id>
-        <link href="https://www.appinn.com/firefox-backup-download/"/>
-        <updated>2025-07-28T06:38:45.000Z</updated>
-        <summary type="html"><![CDATA[Firefox 分为国际版和中国版，而且他们的账号互不通。根据昨天的消息 Firefox 中国将于2025年9月29日正式终止运营，这次停止服务，主要影响的是： Firefox 火狐通行证账]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
