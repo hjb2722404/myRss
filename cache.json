@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/drive-listen/",
+          "author": "青小蛙",
+          "description": "Drive & Listen 是一款给电脑前的同学们纯欣赏使用的在线小服务，它提供了247个国家，873个城市的瞎转悠视频，包括开车、步行、自行车、无人机、太空、海底，还有窗户、火车这类慢直播",
+          "link": "https://www.appinn.com/drive-listen/",
+          "publishedOn": "2025-08-07T08:14:00.000Z",
+          "wordCount": 2825,
+          "title": "Drive & Listen – 247 个国家，873个城市，一边听音乐，一边在城市里瞎转悠",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2020/06/drive-listen.jpgo_.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/run-firefox-sync-server/",
+          "author": "青小蛙",
+          "description": "今天早上 @huaingabc 同学在 Firefox 中国关闭，如何备份数据一文中说： 昨天亲测，把国内账号改为国际账号就行了；退出登录，（退出前最好备份一下数据，且退出的时候不",
+          "link": "https://www.appinn.com/run-firefox-sync-server/",
+          "publishedOn": "2025-08-07T07:10:02.000Z",
+          "wordCount": 2760,
+          "title": "运行你自己的 Firefox 同步服务器，替代 Firefox 中国",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-07T150150.097.jpg"
+        },
+        {
           "id": "https://www.appinn.com/openai-gpt-oss/",
           "author": "青小蛙",
           "description": "OpenAI 终于开源了自己的模型：gpt-oss-120b 和 gpt-oss-20b，并发布了中文内容：《隆重推出 gpt-oss》。@Appinn 这是两款 Apache 2.0 许可证下的轻量",
@@ -170,26 +190,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/07/Copy-of-appinn-homework-2025-07-30T151406.464.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/bitchat-mesh/",
-          "author": "青小蛙",
-          "description": "BitChat 是一款不需要网络就能使用的聊天应用，它基于蓝牙小范围连接，不需要服务器、账户或用户信息，适合在没有网络的情况下使用。@Appinn 但是有个问题：蓝牙的连接范围，是否可以通过人类最伟大",
-          "link": "https://www.appinn.com/bitchat-mesh/",
-          "publishedOn": "2025-07-29T09:06:35.000Z",
-          "wordCount": 2666,
-          "title": "BitChat Mesh – 离线蓝牙聊天应用，由 Twitter 联合创始人发布",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/07/Copy-of-appinn-homework-2025-07-29T170103.658.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/ali-xiaohao-stop-2025/",
-          "author": "青小蛙",
-          "description": "来自阿里通信官网的消息：阿里小号将于2025年8月31日起陆续停止服务。@Appinn 具体公告如下： 业务调整公告 尊敬的用户您好: 根据运营商要求,阿里通信将不再使用手机号面向个人用户提供号码保护",
-          "link": "https://www.appinn.com/ali-xiaohao-stop-2025/",
-          "publishedOn": "2025-07-29T08:28:57.000Z",
-          "wordCount": 2622,
-          "title": "阿里通信官网确认：阿里小号将于2025年8月31日起陆续停止服务",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/07/Copy-of-appinn-homework-2025-07-29T152047.462.jpg"
         }
       ]
     },
@@ -253,6 +253,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11804",
+          "author": "张 鑫旭",
+          "description": "CSS现在支持了专门的CSS函数，可以知道子元素当前的索引值大小，以及知道子元素的数量了，都是动态匹配的，很有规律的CSS样式效果有了更好的解决方法了。",
+          "link": "https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/",
+          "publishedOn": "2025-08-07T12:23:26.000Z",
+          "wordCount": 1521,
+          "title": "CSS索引和数量匹配函数sibling-index sibling-count简介",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=11801",
           "author": "张 鑫旭",
           "description": "HTML popover属性新特性之hint值，填补了轻量级提示与模态弹窗间的需求空白，适合需非打断性辅助信息的场景。",
@@ -269,6 +279,16 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=81983",
+          "author": null,
+          "description": "美国总统特朗普周三表示将对进口半导体和芯片征收 100% 关税，他没有透露具体细节。如果半导体厂商想要豁免关税，它们要么需要在美国建厂，要么需要承诺将在美国建厂。特朗普说，“我们将对芯片和半导体征收高额关税，但对像苹果这样的公司来说，好消息是如果你在美国生产，或者已承诺在美国生产，就不会征收任何费用。”苹果公司在这之前承诺未来四年在美国投资 1000 亿美元以促进美国制造业的发展。",
+          "link": "https://www.solidot.org/story?sid=81983",
+          "publishedOn": "2025-08-07T05:03:22.000Z",
+          "wordCount": 169,
+          "title": "特朗普威胁对芯片征收 100% 关税，除非在美建厂或承诺建厂",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=81982",
           "author": null,
@@ -887,136 +907,6 @@
           "publishedOn": "2025-07-30T05:17:57.000Z",
           "wordCount": 180,
           "title": "俄罗斯堪察加半岛发生 M8.8 级地震",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81920",
-          "author": null,
-          "description": "Meta 被图书作者指控从影子书库下载了至少 81.7 TB 电子书训练其 AI 模型，但 Meta 坚称它没有做种没有上传和共享电子书。现在成人网站 Strike 3 Holdings 指控 Meta 不仅下载了成人视频还做种了。Strike 3 Holdings 称对其私有 BitTorrent 跟踪工具的分析发现，Meta 至少从 2018 年起 BT 下载和做种受版权保护的成人视频，至少有意侵权了 2,396 部电影。Strike 3 Holdings 称 Meta 此举是通过做种热门成人内容尽可能快的下载数 TB 的电子书，Meta 做种的时间数天、数周甚至数月。部分成人电影可能还被秘密用于训练 AI 模型。Strike 3 Holdings 称 Meta 利用的是 BitTorrent 协议中名叫 tit-for-tat 的激励机制。Strike 3 Holdings 寻求巨额赔偿，申请禁令永久阻止 Meta 盗版其视频。",
-          "link": "https://www.solidot.org/story?sid=81920",
-          "publishedOn": "2025-07-29T14:54:55.000Z",
-          "wordCount": 215,
-          "title": "成人网站指控 Meta 下载和做种成人视频",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81919",
-          "author": null,
-          "description": "挪威经济学家 Martin Bech Holte 在新书《The Country That Became Too Rich》中将矛头对准自己的国家，认为挪威太富裕而致使其经济健康受损。挪威的主权财富基金高达 2 万亿美元，相当于人均 34 万美元，过去二十年挪威的生产力增长在富裕国家中最低，而挪威人每年请的病假天数多达 27.5 天，在经合组织中最多。挪威人均教育经费为 2 万美元，经合组织的平均水平为 1.4 万美元，但自 2015 年以来挪威学生的考试成绩持续下降，目前低于经合组织平均水平。挪威从主权基金中提取的资金占到了国家年度预算的五分之一以上，而二十年前不到十分之一。",
-          "link": "https://www.solidot.org/story?sid=81919",
-          "publishedOn": "2025-07-29T14:14:23.000Z",
-          "wordCount": 178,
-          "title": "经济学家称挪威人太富裕且太舒坦了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81918",
-          "author": null,
-          "description": "两年前，中国的大学警告学生不要在作业中使用 AI。今天的大学逆转了立场，鼓励学生使用 AI，只要他们遵守最佳实践（best practices）。根据麦可思研究院(MyCOS Institute)的调查，生成式 AI 已基本普及，只有 1% 的师生表示从未在学习或工作中使用 AI，近六成被调查者表示每天或每周数次使用 AI。随着 DeepSeek 的流行，人们日益将生成式 AI 视为国家骄傲的来源。高校的讨论重心逐渐从担忧 AI 对学术诚信的影响转向鼓励学生提高素养、提高生产力和保持领先。斯坦福大学 Institute for Human-Centered Artificial Intelligence (HAI)的调查发现，中国对 AI 热情领先于世界其它国家，八成的人对 AI 感到兴奋，相比下美国和英国仅为 35% 和 38%。MIT Technology Review 对 46 所中国顶尖大学 AI 战略的调查发现，几乎所有学校过去一年引入了跨学科的 AI 通识教育课和 AI 相关学位。清华大学、人民大学、南京大学和复旦大学等推出了 AI 素养课程和学位，面向所有学生而不只是计算机科学专业的学生。教育部于 2025 年 4 月发布了国家“AI +教育”指南，呼吁进行全面改革。",
-          "link": "https://www.solidot.org/story?sid=81918",
-          "publishedOn": "2025-07-29T13:31:04.000Z",
-          "wordCount": 209,
-          "title": "中国大学鼓励学生使用 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81917",
-          "author": null,
-          "description": "秦始皇帝陵博物院兵马俑研究考古人员通过超景深显微镜捕捉到了 2000 多年前清晰的指纹印记，提取了指纹100多枚。研究显示兵马俑的塑造者中有未成年人。秦始皇帝陵博物院馆员李晓溪介绍，工作人员在已经修复的 40 多件陶俑身上，提取了指纹100多枚。通过对指纹进行分析比对， 获取了陶工的年龄构成， 和性别比例等信息。初步分析显示，绝大多数指纹属于成年男性，与传统认知相符，同时也发现存在少量未成年人指纹。至于在整个制作过程中 ，他们都参与了什么样的环节，存在怎样的分工差异还需要进一步分析研究。",
-          "link": "https://www.solidot.org/story?sid=81917",
-          "publishedOn": "2025-07-29T09:57:12.000Z",
-          "wordCount": 164,
-          "title": "未成年人参与了秦兵马俑的制作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81916",
-          "author": null,
-          "description": "北京谋智火狐信息技术有限公司（北京火狐）宣布，2025 年 5 月 8 日，Mozilla 与北京火狐达成一致，北京火狐将不再运营 Firefox 浏览器及任何与 Firefox 有关的中国大陆业务。自 2025 年 9 月 29 日晚 24:00 起，Firefox 火狐中文官方网站（firefox.com.cn）、Firefox 火狐社区网站（mozilla.com.cn）、Firefox 火狐通行证账户服务（accounts.firefox.com.cn）及 Firefox 火狐主页（home.firefoxchina.cn）将正式停止运营，所有相关功能将终止。自即日起，Firefox 火狐中文官方网站 www.firefox.com.cn 将不再提供 Firefox 浏览器相关产品的下载。中国火狐用户需要在 2025 年 9 月 29 日前将北京火狐服务器上的数据同步到本地，在这之后所有数据都将删除。Mozilla Firefox 用户不受任何影响。",
-          "link": "https://www.solidot.org/story?sid=81916",
-          "publishedOn": "2025-07-29T09:44:36.000Z",
-          "wordCount": 218,
-          "title": "北京火狐从 9 月 29 日起不再运营 Firefox 在华业务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81915",
-          "author": null,
-          "description": "仙女座大星系近旁发现被称为 SDSO1 的星云。根据一篇预印本，SDSO1 可能并非来自仙女座，而是位于银河系内的一个古老行星状星云，被命名为「幽灵行星状星云」（Ghost Planetary Nebula, GPN）。这项研究由多位业余天文摄影师联合完成。研究团队透过影像显示的弓形震波与尾迹结构，并比对银河系内，距离地球约 600 光年的共生双星 EG Andromedae（仙女座EG）的位置与特性，推论这片云气正是由该双星系统在数十万年前抛出的壳层所形成，进而成为行星状星云。分析显示，仙女座EG 以每秒约 107 公里的速度穿越星际介质，因而产生壮观的弓形结构与长达 45 光年的尾迹。这类行星状星云在演化后期已极度稀薄而黯淡，但因与周围介质的高速交互作用才显现，SDSO1 也因此成为已知首个被提出的幽灵行星状星云案例。研究团队还辨识出银河系内另有 7 个具有类似特征的幽灵行星状星云候选天体，显示这类古老天体可能比我们以往认为的更为普遍。",
-          "link": "https://www.solidot.org/story?sid=81915",
-          "publishedOn": "2025-07-29T08:55:20.000Z",
-          "wordCount": 176,
-          "title": "银河系发现首个幽灵行星状星云",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81914",
-          "author": null,
-          "description": "根据发表在《Nature Medicine》期刊上的一项研究，教育并不能延缓认知衰退。对 170,795 名 50 岁以上参与者的 407,356 份情景记忆评分和 6,472 人的 15,157 次脑部磁共振成像(MRI)扫描数据分析发现，教育程度与更好的记忆功能、更大的颅内体积相关，但并不能阻挡岁月对大脑的侵蚀。无论学历高低，大脑都会以相似的节奏慢慢萎缩，认知能力也会同步下滑。教育给了你一个更好的起跑线，但并不能改变衰老这场马拉松的节奏。虽然读书不能让你永葆青春，但至少能让你在变老的路上保持更清晰的头脑。",
-          "link": "https://www.solidot.org/story?sid=81914",
-          "publishedOn": "2025-07-29T07:34:40.000Z",
-          "wordCount": 169,
-          "title": "教育能否延缓认知衰退？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81913",
-          "author": null,
-          "description": "深圳大疆的无人机产品在美国海关面临非正式的禁令。为规避禁令，大疆被发现通过更换品牌名称出售旗下产品。亚马逊上一款售价 750 美元的 SkyRover X1 无人机被发现就是大疆的 Mini 4 Pro。SkyRover X1 与 Mini 4 Pro 有着完全相同的规格和功能，能直接连接大疆的网络基础设施如 DJIGlobal、DJISupport 和 DJIEnterprise。黑客 Kevin Finisterre 使用大疆的凭证成功登陆了 SkyRover 的系统。安全研究员 Jon Sawyer 发现 SkyRover 的应用使用与大疆软件相同的加密密钥。",
-          "link": "https://www.solidot.org/story?sid=81913",
-          "publishedOn": "2025-07-29T07:03:55.000Z",
-          "wordCount": 196,
-          "title": "安全研究员发现 SkyRover X1 是更换品牌的大疆产品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81912",
-          "author": null,
-          "description": "中科院研究团队对人体组织蛋白质的分析发现，早期衰老发生在 30 岁左右，45-55 岁之间衰老加速。蛋白质稳态的失衡是衰老进程中标志性的分子特征之一。深度分析发现，30 岁左右为衰老轨迹的初始分水岭——肾上腺组织率先呈现衰老特征，提示内分泌稳态失衡或为早期驱动力；同期主动脉亦出现稳态偏移，进一步印证了它作为“衰老哨兵”的先锋定位。45 岁至 55 岁被确认为衰老进程的里程碑式转折点，大多数器官蛋白质组在此阶段经历“分子级联风暴”，差异表达蛋白呈爆发性激增，标志其成为多器官系统性衰老的关键生物学转变窗口。主动脉蛋白质组在此过程中的重塑最为剧烈，其分泌组与循环血浆蛋白质组动态谱呈现强共演变特征，提示衰老相关分泌因子可能是介导衰老信号系统性传播的枢纽机制。",
-          "link": "https://www.solidot.org/story?sid=81912",
-          "publishedOn": "2025-07-29T06:37:44.000Z",
-          "wordCount": 173,
-          "title": "人类组织蛋白质在 50 岁左右加速衰老",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81911",
-          "author": null,
-          "description": "三星 One UI 8 的 Beta 版本被发现移除了 Bootloader Unlock 选项，意味着用户将无法解锁 bootloader 安装第三方 ROM。虽然大部分用户不会注意到或者在意 Bootloader 是否能解锁，但对开发者社区而言这是对 Mod 自由的重大打击。",
-          "link": "https://www.solidot.org/story?sid=81911",
-          "publishedOn": "2025-07-29T06:05:41.000Z",
-          "wordCount": 193,
-          "title": "三星 One UI 8 禁止解锁 bootloader",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81910",
-          "author": null,
-          "description": "索尼互动于 7 月 25 日向加州法庭起诉腾讯抄袭其《地平线》系列游戏，指控腾讯版权和商标侵犯。腾讯旗下工作室 Polaris Quest 最近发布了《Light of Motiram》的预告片，该游戏背景与索尼旗下工作室 Guerrilla Games 开发的《地平线（Horizon）》 系列游戏《地平线 零之曙光》和《地平线 西之绝境》几乎如出一辙，都发生在机械占领的末世后文明世界，女主角身穿类似猎人的服装与机械生物进行决战。索尼指控腾讯的抄袭行为是疯狂而无耻。索尼称，腾讯曾试图获得《地平线》系列的 IP 授权但遭到了它的拒绝。",
-          "link": "https://www.solidot.org/story?sid=81910",
-          "publishedOn": "2025-07-29T05:22:44.000Z",
-          "wordCount": 174,
-          "title": "索尼指控腾讯抄袭其《地平线》系列游戏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81909",
-          "author": null,
-          "description": "作为 Online Safety Act 法律的一部分，英国用户访问成人内容需要验证年龄，这一要求导致英国的 VPN 搜索量和注册量激增。ProtonVPN 称，年龄验证要求生效后英国注册量增长了 1400% 以上。这种激增不是短时间内的现象。VPN 服务也排在英国苹果应用排行榜前列。不遵守验证年龄可能导致企业面临最高 1800 万英镑或全球年收入 10% 的罚款。",
-          "link": "https://www.solidot.org/story?sid=81909",
-          "publishedOn": "2025-07-28T16:40:57.000Z",
-          "wordCount": 195,
-          "title": "在 Online Safety Act 生效后英国 VPN 使用量激增",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81908",
-          "author": null,
-          "description": "为应对全球气候变化，挪威开始将液化二氧化碳埋藏在海床下一英里半的一层海绵岩中。挪威政府承担该项目第一阶段 10 亿美元费用中的八成，三大石油公司——壳牌、挪威国家石油和道达尔能源——为项目的持续扩建资助 7.14 亿美元，欧盟补贴 1.5 亿美元。作为欧洲最大的石油和天然气生产国，挪威正利用其石化收入探索“碳倾倒（carbon dumping）”方案能否有效。如果一切顺利，三大石油公司表示它们的设施每年可将 500 万公吨二氧化碳泵入海底，约占挪威年排放量的十分之一。液化二氧化碳由名叫 Northern Pioneer 的运输船运送，每次可装载 7500 公吨。",
-          "link": "https://www.solidot.org/story?sid=81908",
-          "publishedOn": "2025-07-28T16:29:51.000Z",
-          "wordCount": 171,
-          "title": "挪威开始在海底储存液化二氧化碳",
           "imageUrl": null
         }
       ]
