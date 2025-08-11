@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-08-10T03:41:46.703Z</updated>
+    <updated>2025-08-11T03:41:14.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[安全加固的 Android 社区发行版 Graphene OS]]></title>
+        <id>https://www.solidot.org/story?sid=82004</id>
+        <link href="https://www.solidot.org/story?sid=82004"/>
+        <updated>2025-08-10T16:35:26.000Z</updated>
+        <summary type="html"><![CDATA[手机已经成为日常生活的一部分，储存了大量敏感信息，但我们如何确保手机安全可靠？Google 的 Android 系统提供了开源版本 AOSP，而 Android 本身并未以安全为重心设计的，但基于开源系统，社区发行版如 GrapheneOS 对 Android 进行了加固。GrapheneOS 始于 CopperheadOS 项目，它的两位创始人因分歧而分道扬镳，其中之一的 Daniel Micay 创建了独立的项目 GrapheneOS。它旨在加强安全，并没有优先考虑支持更多设备，它支持的设备类型非常有限，仅限于 Google Pixel 6 到 Pixel 9，新的 Pixel 设备使用了新的 ARMv9 CPU 核心，支持如硬件内存标记（memory tagging）等安全功能。GrapheneOS 默认使用硬件内存标记保护操作系统和用户安装的兼容应用免遭攻击。它没有预装原版 Android 提供的大量开箱即用的应用，没有 Google Play store，而是提供了自己的浏览器、相机应用、PDF 阅读器以及总共只有 13 款应用的应用商店。浏览器是 Chromium 分支 Vanadium，启用了严格的网站隔离，它并不推荐 Firefox，认为它容易受到攻击，用户可选择安装的一个浏览器是 IronFox——Firefox 加固版。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tailwind CSS 创始人正式道歉：为什么地球上每个 AI 生成的 UI 也都是靛蓝色的]]></title>
+        <id>https://www.appinn.com/tailwind-indigo-ai-ui-color-issue/</id>
+        <link href="https://www.appinn.com/tailwind-indigo-ai-ui-color-issue/"/>
+        <updated>2025-08-10T07:18:18.000Z</updated>
+        <summary type="html"><![CDATA[这是一个有趣的事情。 前天，Tailwind CSS 创始人 Adam Wathan 在 X 上回复别人「所以，GPT-5 还没有解决“紫色问题”」时，正式道歉： 我想正式向大家道歉，因为五年前我将]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rise and Fall of the Photography Industry]]></title>
+        <id>https://io-oi.me/tech/arete/</id>
+        <link href="https://io-oi.me/tech/arete/"/>
+        <updated>2025-08-10T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[「叡知・勇気・創造・希望」「叡知に基づく真理の探究、勇気ある挑戦による新たな価値の創造、そして切り拓かれる未来への希望」（翻譯：以睿智探求真理、透過勇敢的挑戰創造新的價值、並懷抱對開拓未來的希望）
+
+閱讀全文：https://io-oi.me/tech/arete/
+透過 Substack 訂閱支援我的創作！]]></summary>
+        <author>
+            <name>reuixiy@gmail.com (reuixiy)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软关闭 12 年历史的文档扫描应用 Microsoft Lens，将被 Copilot AI 取代]]></title>
+        <id>https://www.appinn.com/microsoft-lens-shutdown/</id>
+        <link href="https://www.appinn.com/microsoft-lens-shutdown/"/>
+        <updated>2025-08-10T04:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Lens 是一款有着12年历史的文档扫描应用，最早在2013年以 OneNote 配套功能 Camera Scan 发布，随后以 Office Lens 正式独立发布。2021年更]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 13 trixie 释出]]></title>
+        <id>https://www.solidot.org/story?sid=82003</id>
+        <link href="https://www.solidot.org/story?sid=82003"/>
+        <updated>2025-08-10T04:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Debian 项目宣布释出最新的稳定版本 Debian 13 trixie，该版本将支持到 2030 年，主要变化包括 GNOME 48、KDE Plasma 6.3、Xfce 4.20、Linux 6.12、GCC 14.2、Python 3.13 和 systemd 257。Debian 13 新增 14,100 个软件包，移除了 8,840 个过时的软件包，软件包总数达到 69,830 个，有 44,326 个软件包更新。riscv64 成为 Debian 官方支持的架构，停止支持i386 架构。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 淘汰初级编程开发者]]></title>
+        <id>https://www.solidot.org/story?sid=82002</id>
+        <link href="https://www.solidot.org/story?sid=82002"/>
+        <updated>2025-08-09T16:49:02.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan Kim 在 2023 年花了近 2 万美元参加了一个编程训练营（coding bootcamp），希望这能帮助他找到一份程序员的工作。他在毕业之后申请了 600 多个程序员职位，没有一家公司向他伸出橄榄枝。他目前在叔叔的冰激凌店工作，还在继续寻找工作。过去十多年，编程训练营是非编程相关专业求职者获得硅谷高薪程序员工作的踏脚石。但今天编程训练营已经过时，AI 为其棺材敲上最后的钉子。数据显示，在 Kim 参加的 2023 年 Codesmith 训练营中，只有 37% 学生在毕业后六个月内找到了全职技术工作，远低于 2021 下半年的 83%。AI 非常擅长编程，结果是入门级的编程职位显著减少。Signalfire 今年五月发表一份报告称，应届毕业生招聘数量比 2019 年疫情前的水平下跌了一半。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[签署捐赠誓言的 256 名亿万富翁只有 9 人信守诺言]]></title>
+        <id>https://www.solidot.org/story?sid=82001</id>
+        <link href="https://www.solidot.org/story?sid=82001"/>
+        <updated>2025-08-09T16:01:40.000Z</updated>
+        <summary type="html"><![CDATA[2010 年，盖茨夫妇和沃伦巴菲特发起了捐赠誓言（The Giving Pledge）运动，旨在鼓励亿万富翁们将至少一半的净资产用于慈善机构，无论是在他们有生之年还是在他们去世时。捐赠誓言是一种公开的捐赠意向承诺，并非是具有法律约束力的合同。在捐赠誓言发起 15 年后，在 256 名署名的亿万富翁（其中之一是马斯克）中，大部分人未兑现承诺。大部分署名者的资产远超签署时，大部分慈善捐款都流向了私人基金和捐赠者指定基金，而不是直接支持实际运营的慈善机构。在世的署名者中，只有 Laura 和 John Arnold 夫妇捐了半数资产。在 22 位已故署名者中，只有 8 位生前兑现了承诺，其中 Chuck Feeney 在世时捐出了全部财富。在 194 名美国署名者中，110 人仍然是亿万富翁，总资产 1.7 万亿美元，而不再属于亿万富翁的署名者，他们的财富缩水并不是因为捐赠。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家研发能针对多种病毒的通用疫苗]]></title>
+        <id>https://www.solidot.org/story?sid=82000</id>
+        <link href="https://www.solidot.org/story?sid=82000"/>
+        <updated>2025-08-09T14:43:11.000Z</updated>
+        <summary type="html"><![CDATA[大多数疫苗的设计是针对一种病原体提供免疫力。例如水痘疫苗是针对水痘-带状疱疹病毒。但在 COVID-19 疫情爆发后，世界各地的免疫系统研究人员正在努力超越传统的单一病原体疫苗。根据《细胞》上一项研究，研究人员已经开发出一套研究流程，以推动“通用疫苗”的研发。这些疫苗将针对广泛的病毒家族和变异的病毒变体。如果成功，这种方法有望研制出能够中和新出现的 SARS-CoV-2 变体以及许多其他可能引发大流行的病毒的疫苗。研究针对的是病毒在演化过程中始终保持不变的蛋白质序列。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 发现了一种新骗局，随后自己成为了该骗局的受害者]]></title>
+        <id>https://www.solidot.org/story?sid=81999</id>
+        <link href="https://www.solidot.org/story?sid=81999"/>
+        <updated>2025-08-09T14:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Google 在今年 6 月披露了一种针对 Salesforce 账号的新骗局，两个月后搜索巨人报告它也成为了该骗局的受害者。该骗局是一种社会工程攻击，攻击者滥用了 Salesforce 的一项功能，该功能允许客户关联账户与第三方应用，将数据与用于博客、地图工具和类似资源的内部系统集成。攻击者伪装成 IT 部门直接联络目标要求访问权限，攻击者指示公司员工将外部应用连接到 Salesforce 实例，之后攻击者会要求员工输入 Salesforce 界面的八位数安全码。攻击者随后使用安全码访问该实例及其中存储的所有数据，窃取数据之后高价出售给买家。遭到此类骗局的知名公司包括了阿迪达斯、澳洲航空、安联人寿、思科，LVMH 旗下奢侈品牌路易威登、迪奥和蒂芙尼，现在还有 Google。Google 本周表示它的 Salesforce 实例遭到类似骗局的攻击，数据被窃取。攻击发生在六月份，Google 现在才披露，可能是因为最近才发现，它表示攻击者窃取的大部分数据都是公开的非机密信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一颗大质量白矮星被发现是由双星合并而成]]></title>
+        <id>https://www.solidot.org/story?sid=81998</id>
+        <link href="https://www.solidot.org/story?sid=81998"/>
+        <updated>2025-08-09T13:02:55.000Z</updated>
+        <summary type="html"><![CDATA[白矮星通常是类太阳恒星在燃料耗尽之后塌缩留下的致密核心，质量通常为太阳的一半，最高不超过 1.44 倍太阳质量，超过这一上限会爆炸或塌缩成中子星。大质量白矮星 WD 0525+526 质量是太阳的 1.2 倍，研究发现它并非是恒星塌缩而是双星合并的结果。WD 0525+526 与其它白矮星不同之处包括大气中有微弱的碳信号，低碳含量以及超高温（表面温度约太阳的四倍）表明这颗白矮星处于合并后演化较早的阶段。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于沉浸式翻译的两个疑问：泄漏隐私 && 限制第三方 API]]></title>
         <id>https://www.appinn.com/immersive-translate-2-questions/</id>
@@ -17,6 +120,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[中国工程师解决磁悬浮列车的隧道微压波噪音]]></title>
+        <id>https://www.solidot.org/story?sid=81997</id>
+        <link href="https://www.solidot.org/story?sid=81997"/>
+        <updated>2025-08-08T16:48:50.000Z</updated>
+        <summary type="html"><![CDATA[最新型号的磁悬浮列车的时速能达到 600 公里。高速行驶的列车长期以来一直面临类似超音速飞机音爆的“隧道微压波噪音（tunnel boom）”问题：高速列车进入隧道撞击空气产生高压波，往隧道下游传递形成活塞效应，压力波抵达下游隧道口冲出隧道口外产生微压波，伴随令人不悦的噪音。微压波噪音对列车运营安全构成了严峻挑战，因为冲击波会干扰附近的人和动物，还会造成结构损坏。中国工程师报告，在隧道口内安装新型的隔音缓冲器能将微压波减少最多 96%。100 米长缓冲器采用多孔结构，结合隧道本体的多孔涂层，能使被困在封闭空间的空气在火车到达隧道口前逃逸，有效抑制噪音，类似在枪管上安装消音器。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Prepare for CSS-Specific Interview Questions]]></title>
         <id>https://css-tricks.com/?p=388380</id>
         <link href="https://css-tricks.com/how-to-prepare-for-css-specific-interview-questions/"/>
@@ -25,6 +138,26 @@
 How to Prepare for CSS-Specific Interview Questions originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Shivam Bhalla</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文学家发现至今最重的黑洞]]></title>
+        <id>https://www.solidot.org/story?sid=81996</id>
+        <link href="https://www.solidot.org/story?sid=81996"/>
+        <updated>2025-08-08T10:30:08.000Z</updated>
+        <summary type="html"><![CDATA[天文学家在距离地球 50 亿光年外的狮子座双星系引力透镜系统 Cosmic Horseshoe 中发现了至今最重的黑洞。其质量是银河系超大质量黑洞的 1 万多倍，太阳质量的 360 亿倍。Cosmic Horseshoe 是已知最大的星系透镜，其核心被认为有一个超大质量黑洞，但科学家对其质量难以给出具体数字。英国朴茨茅斯大学的研究人员测量了恒星围绕黑洞旋转的速度，以及黑洞引力对光线的弯曲程度，结果发现它可能是宇宙质量最大的黑洞。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PCIe 8.0 传输率达到 256.0 GT/s]]></title>
+        <id>https://www.solidot.org/story?sid=81995</id>
+        <link href="https://www.solidot.org/story?sid=81995"/>
+        <updated>2025-08-08T09:44:26.000Z</updated>
+        <summary type="html"><![CDATA[负责制定 PCIe 规范的行业组织 PCI-SIG 已经完成了 PCIe 7.0 的制定，PCIe 7.0 设备在 x16 通道配置下能实现双向 128.0 GT/s 和最高 512 GB/s 的传输率。对于下一代 PCIe 8.0，PCI-SIG 证实支持的传输率将达到 256.0 GT/s，x16 通道配置双向最高 1 TB/s 的传输率。PCIe 8.0 规范预计将在 2028 年发布，而 PCIe 8.0 设备上市可能要到 2030 年。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -627,129 +760,6 @@ Thinking Deeply About Theming and Color Naming originally published on CSS-Trick
         <summary type="html"><![CDATA[《JAMA Otolaryngology–Head & Neck Surgery》期刊报道了一起不同寻常的病例：一名 20 岁的中国籍男子脖子上的十字架纹身在五个月后神秘消失，之后皮肤出现严重的坏死性溃疡和炎症。这起病例是如此奇特以至于医生认为它扩大了纹身相关病理学的范围。医生报告，他们没有发现任何感染的迹象，纹身用的红色颜料已从皮肤上消失，只在溃疡未覆盖的地方留下疤痕。当人体排斥纹身时，异常的免疫反应通常留在皮肤组织的上层，几乎不会导致组织坏死。但该男子的病变很深，明显是侵袭性、结痂、出血性坏死性溃疡。医生还发现颈部病变两侧肿胀，MRI 显示形成了较大的肿块。CT 扫描显示颈部两侧的颈内静脉形成了血栓。医生通过手术切除了溃疡和肿块，封闭了凝结的静脉。医生提出了几种可能的原因：纹身产生了异常的免疫反应；源自纹身的慢性炎症导致静脉壁侵蚀，也导致细胞死亡。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[调查显示 AI 编程工具使用率上升的同时对其信任度在下降]]></title>
-        <id>https://www.solidot.org/story?sid=81948</id>
-        <link href="https://www.solidot.org/story?sid=81948"/>
-        <updated>2025-08-01T14:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Stack Overflow 对 4.9 万名程序员的调查发现，2025 年八成开发者在工作流程中使用 AI 辅助编程工具，但开发者对其准确性的信任度从前几年的 40% 降至今年的 29%。45% 的受访者认为，AI 辅助编程工具最让他们不满的地方是“解决方案几乎正确但并不完全正确”，相比输出明显错误的答案，几乎正确但不完全正确的答案可能会在程序中引入隐藏的 bug 或者其它难以识别需要时间解决的问题。逾三分之一的开发者表示他们如今访问 Stack Overflow 部分是为了寻找 AI 相关的问题。大模型的问题不可能完全解决，因为这是其工作原理决定的。开发者仍然使用大模型的原因包括经理要求他们使用，以及 AI 工具仍然有用但不能被误用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WMO 确认了有记录以来最长的闪电]]></title>
-        <id>https://www.solidot.org/story?sid=81947</id>
-        <link href="https://www.solidot.org/story?sid=81947"/>
-        <updated>2025-08-01T10:13:45.000Z</updated>
-        <summary type="html"><![CDATA[世界气象组织（WMO）确认了最长闪电新世界纪录 — 闪电距离长达 829 公里。这个特大闪电发生在 2017 年 10 月，它从美国德克萨斯州东部延伸到堪萨斯城附近 — 相当于欧洲巴黎和威尼斯之间的距离。开车大约需要 8 到 9 个小时，商用飞机至少需要飞行 90 分钟才能覆盖这段距离。新记录误差幅度为±8 公里。它比之前的记录（2020 年 4 月 29 日横跨美国南部部分地区的 768±8 公里（477.2±5英里）长了 61 公里。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳大利亚第一枚民用火箭升空 14 秒后坠毁]]></title>
-        <id>https://www.solidot.org/story?sid=81946</id>
-        <link href="https://www.solidot.org/story?sid=81946"/>
-        <updated>2025-08-01T09:54:50.000Z</updated>
-        <summary type="html"><![CDATA[澳大利亚第一枚国产民用火箭 Eris 升空 14 秒后坠毁，但制造商 Gilmour Space Technologies 表示发射任务取得成功，所有引擎都点火而火箭也脱离了发射台。CEO Adam Gilmou 表示对结果满意，他此前表示第一次发射就能入轨是几乎闻所未闻的。Eris 火箭是面向小型卫星发射市场，它高 23 米，周三在昆士兰小镇 Bowen 附近的一个发射场发射升空，火箭的起飞高度超过了发射塔，在空中悬停之后坠落起火爆炸，飞行时间 14 秒。澳大利亚政府向该项目资助了 500 万澳元。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PP剪贴板 – 专业好用的 Windows 剪切板，吊打系统自带！]]></title>
-        <id>https://www.appinn.com/ppaste/</id>
-        <link href="https://www.appinn.com/ppaste/"/>
-        <updated>2025-08-01T08:51:55.000Z</updated>
-        <summary type="html"><![CDATA[PP剪贴板是一款全新上线的专业 Windows 剪贴板工具，专为提升复制粘贴效率而设计。它支持剪贴板历史记录管理、可保存多种格式内容（文本、图片、文件等）、可预览图片，还可以收藏常用项目、快速搜索和分]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 将利用 AI 估算美国用户年龄]]></title>
-        <id>https://www.solidot.org/story?sid=81945</id>
-        <link href="https://www.solidot.org/story?sid=81945"/>
-        <updated>2025-08-01T08:48:38.000Z</updated>
-        <summary type="html"><![CDATA[Google 宣布将利用 AI 技术估算美国用户年龄是否年满 18 岁。年龄估算将在未来几周内推出，一开始将只会影响少数用户，之后它计划进一步扩大范围。Google 称，它将使用用户搜索过的信息或观看过的 YouTube 视频类型去判断用户的年龄。如果 Google 认为用户年龄未满 18 岁，它将对其采取对未成年人用户实施的相同限制。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果二季度在华销售收入 153.7 亿美元]]></title>
-        <id>https://www.solidot.org/story?sid=81944</id>
-        <link href="https://www.solidot.org/story?sid=81944"/>
-        <updated>2025-08-01T07:46:26.000Z</updated>
-        <summary type="html"><![CDATA[苹果公布了2021 年以来最强劲的季度营收增长，iPhone 销量增长 13%，总营收增长 10%。CEO 库克(Tim Cook)表示，约 1% 的营收增长可归因于消费者为应对潜在关税而购买更多产品。苹果最重要的产品仍然是 iPhone，销售额同比增长 13% 至 445.8 亿美元。苹果在中国市场的销售额同比增长 4% 达到 153.7 亿美元。库克表示一大原因是中国的国补政策，对该公司产品非常有帮助。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《战地6》的社区关卡编辑器使用开源引擎 Godot]]></title>
-        <id>https://www.solidot.org/story?sid=81943</id>
-        <link href="https://www.solidot.org/story?sid=81943"/>
-        <updated>2025-08-01T06:44:52.000Z</updated>
-        <summary type="html"><![CDATA[EA 雄心勃勃的希望《战地6》能吸引千万玩家，能长线运营，游戏将提供免费大逃杀模式，以及被称为 Battlefield Portal 的门户关卡编辑器，允许玩家创建自定义地图和玩法，该编辑器使用了开源游戏引擎 Godot。用户使用 Godot 创建的数据会通过翻译层翻译到《战地6》使用的私有引擎 Frostbite 4。此前 Blender 基金会曾使用 Godot 引擎和 Blender 3D 软件开发了一款小游戏，暂时不清楚 EA 或 DICE 是否会向 Godot 项目捐款。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为遏制登革热疫情巴西释放实验室培育的蚊子]]></title>
-        <id>https://www.solidot.org/story?sid=81942</id>
-        <link href="https://www.solidot.org/story?sid=81942"/>
-        <updated>2025-08-01T06:13:40.000Z</updated>
-        <summary type="html"><![CDATA[为阻止蚊子传播登革热病毒，巴西将释放数百万只实验室培育的蚊子，这些蚊子携带了沃尔巴克氏体细菌（Wolbachia bacteria），通过传播沃尔巴克氏体细菌阻止蚊子携带登革热病毒。该项目旨在未来十年内保护 40 个城市的 1.4 亿居民。巴西此前已在尼特罗伊（Niteroi）市测试了释放携带沃尔巴克氏体细菌的蚊子，效果显著，登革热病例下降了约 90%。现在该市几乎所有蚊子都携带沃尔巴克氏体细菌，Chikungunya(基孔肯雅热)病例和寨卡（Zika）病例也分别下降超过 96% 和 99%。沃尔巴克氏细菌天然存在于约半数的昆虫物种中，它让登革热病毒无法在蚊子体内复制，从而有效遏制登革热病毒传播。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拯救渣画质视频！Aiarty Video Enhancer实测推荐，附注册码]]></title>
-        <id>https://www.appinn.com/aiarty-video-enhancer/</id>
-        <link href="https://www.appinn.com/aiarty-video-enhancer/"/>
-        <updated>2025-08-01T05:01:48.000Z</updated>
-        <summary type="html"><![CDATA[如今4K视频已成主流，但你是否还在为手机里低画质的老录像、硬盘中模糊的老电影而烦恼？别急！最近找到一款新的视频增强软件——Aiarty Video Enhancer。它能帮你把那些渣画质视频瞬间变成电]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[45.55.142.122 – 解锁 Nintendo Switch2 中隐藏的浏览器]]></title>
-        <id>https://www.appinn.com/45-55-142-122/</id>
-        <link href="https://www.appinn.com/45-55-142-122/"/>
-        <updated>2025-08-01T01:40:00.000Z</updated>
-        <summary type="html"><![CDATA[45.55.142.122 是一个公共 DNS 服务器，只需要将其设置为 Nintendo Switch 2 主 DNS，就能解锁其隐藏的浏览器，访问互联网。@Appinn Nintendo Swit]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达宣布了结束旧架构 GPU 驱动支持的时间表]]></title>
-        <id>https://www.solidot.org/story?sid=81941</id>
-        <link href="https://www.solidot.org/story?sid=81941"/>
-        <updated>2025-07-31T16:07:52.000Z</updated>
-        <summary type="html"><![CDATA[英伟达宣布，自 2025 年 10 月起新 Game Ready 驱动更新将不再支持 Maxwell、Pascal 或 Volta GPU 架构。这意味着 GeForce GTX 1060 之类的旧显卡将不再获得针对新游戏进行优化的驱动版本。英伟达还表示将于 2026 年 10 月停止所有 Windows 10 驱动支持，比微软官方的 Windows 10 终止支持时间晚一年。此后如果 Windows 10 用户希望继续获得较新型号显卡的新驱动，他们需要升级到 Windows 11。英伟达表示会在 2028 年 10 月之前为 Maxwell、Pascal 和 Volta 系列显卡发布季度安全更新。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[談創新：物競天擇]]></title>
-        <id>https://io-oi.me/tech/innovation-dilemma/</id>
-        <link href="https://io-oi.me/tech/innovation-dilemma/"/>
-        <updated>2025-07-31T15:49:00.000Z</updated>
-        <summary type="html"><![CDATA[只需一箇想法，即可改變世界。如果你還沒有改變世界，要麼你的「獨特」想法其實是很普遍很無知，要麼你選擇屈服追隨多數、放棄慢偏執。
-
-閱讀全文：https://io-oi.me/tech/innovation-dilemma/
-透過 Substack 訂閱支援我的創作！]]></summary>
-        <author>
-            <name>reuixiy@gmail.com (reuixiy)</name>
         </author>
     </entry>
     <entry>
