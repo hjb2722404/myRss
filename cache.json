@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/frp/",
+          "author": "青小蛙",
+          "description": "frp 是一款跨平台的内网穿透工具，支持 Windows、macOS 与 Linux，它需要你有一台拥有固定公网 IP 的电脑，VPS 最好，然后就能愉快的进行内网穿透了。还支持 https，甚至可以",
+          "link": "https://www.appinn.com/frp/",
+          "publishedOn": "2025-08-14T12:47:28.000Z",
+          "wordCount": 3527,
+          "title": "frp v0.64.0 更新：开源内网穿透工具，最简洁教程",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2019/08/frp1.jpgo_.jpg"
+        },
+        {
           "id": "https://www.appinn.com/perplexity-345b-acquire-google-chrome/",
           "author": "青小蛙",
           "description": "来自 theverge 的消息，据 《华尔街日报》 和彭博社报道，人工智能搜索公司 Perplexity 已于周二上午向 Alphabet Inc. 旗下谷歌发出了收购要约，用 345 亿美元收购 G",
@@ -190,16 +200,6 @@
           "wordCount": 2799,
           "title": "Proxmox VE 9.0 正式发布：基于 Debian 13，内核更前沿，快来体验极客级虚拟化环境",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-06T140449.700.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/sun-day-tracker/",
-          "author": "青小蛙",
-          "description": "Sun Day 是推特创始人 Jack Dorsey 前几天开源的新 iPhone 应用，用来记录人类晒太阳的时间，并能根据地点、太阳换算成生成的维生素D，写入 Apple 健康应用。@Appinn",
-          "link": "https://www.appinn.com/sun-day-tracker/",
-          "publishedOn": "2025-08-05T08:37:54.000Z",
-          "wordCount": 2738,
-          "title": "Sun Day – 让手机晒太阳？推特创始人 1.3M 新应用竟能帮你补维D维生素",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-05T161516.653.jpg"
         }
       ]
     },
@@ -208,6 +208,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=388760",
+          "author": "Geoff Graham",
+          "description": "My brain can’t help but try to make connections between seemingly disparate ideas. And that’s what happened yesterday when I read:\nHidde’s “Can components conform to WCAG?”\nJoas’s “Automating Design Systems”\nZell’s “We Might Need Something Between Root and Relative \n…\nOn Accessibility Conformance, Design Systems, and CSS “Base” Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/on-accessibility-conformance-design-systems-and-css-base-units/",
+          "publishedOn": "2025-08-14T13:10:11.000Z",
+          "wordCount": 1835,
+          "title": "On Accessibility Conformance, Design Systems, and CSS “Base” Units",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/cog-pattern.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=388448",
           "author": "Zell Liew",
@@ -309,6 +319,206 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=82053",
+          "author": null,
+          "description": "去年发布的 Linux 6.13 正式移除了 ReiserFS 文件系统，但它的痕迹并没有完全清除掉。SUSE 开发者 David Sterba 在内核文档和部分工具中发现 ReiserFS 的残留后，发出补丁清除 ReiserFS 在内核的最后残余。ReiserFS 已经移除，因此内核文档中提到 ReiserFS 的部分也需要删除。唯一的例外是 ReiserFS R5 哈希函数，它仍然被部分内核代码使用。Reiser4 文件系统代码目前无人维护，Hans Reiser 在内核文件系统的时代彻底结束。",
+          "link": "https://www.solidot.org/story?sid=82053",
+          "publishedOn": "2025-08-14T16:02:18.000Z",
+          "wordCount": 183,
+          "title": "ReiserFS 在内核的最后残余被清除",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82052",
+          "author": null,
+          "description": "俄罗斯周三宣布了加强互联网管控的最新举措：限制即时通讯应用 Telegram 和 WhatsApp 的语音呼叫功能。媒体和互联网监管机构 Roskomnadzor 声称此举是为了打击网络犯罪，称 Telegram 和 WhatsApp 的语音服务被用于诈骗和勒索钱财，以及用于破坏和恐怖活动。俄罗斯今年夏天还限制了手机互联网接入，坚称是为了阻止乌克兰的无人机攻击，官员表示克里米亚的移动网络关闭将会无限期持续下去。在正式宣布限制 Telegram 和 WhatsApp 的语音呼叫功能前，这些应用的用户已经开始报告语音服务出现中断。WhatsApp 是俄罗斯最受欢迎的即时消息平台，月活跃用户超过 9600 万。Telegram 月活跃用户超过 8900 万。",
+          "link": "https://www.solidot.org/story?sid=82052",
+          "publishedOn": "2025-08-14T15:45:30.000Z",
+          "wordCount": 194,
+          "title": "俄罗斯限制 Telegram 和 WhatsApp 的语音呼叫功能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82051",
+          "author": null,
+          "description": "美国白宫发言人 Karoline Leavitt 表示，政府仍然在制定英伟达和 AMD 上缴对华 AI 芯片销售收入 15% 的细节，并且政府还在考虑将这一上缴模式推广到其它公司。此举可能导致依赖对华出口的企业承担巨额负担，或者这些企业被迫脱钩。律师和专家警告，监管政府如何对出口许可证收取费用的现行法律可能导致这一交易复杂化。",
+          "link": "https://www.solidot.org/story?sid=82051",
+          "publishedOn": "2025-08-14T15:28:17.000Z",
+          "wordCount": 166,
+          "title": "白宫考虑将对华销售收入上缴模式扩大到其它公司",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82050",
+          "author": null,
+          "description": "金融时报报道，杭州深度探索公司 DeepSeek 在使用华为芯片训练新模型 R2 失败后，已推迟该模型的发布。DeepSeek 在今年 1 月释出了引发广泛关注的 R1 模型，之后它开始了 R2 模型的训练，在有关部门的鼓励下它使用了华为昇腾(Ascend)处理器而不是更成熟也更先进的英伟达 AI 芯片。但在使用昇腾芯片训练 R2 模型的过程中 DeepSeek 持续遭遇技术问题，因此转而使用英伟达芯片训练，使用华为芯片推理。",
+          "link": "https://www.solidot.org/story?sid=82050",
+          "publishedOn": "2025-08-14T13:02:11.000Z",
+          "wordCount": 186,
+          "title": "DeepSeek 的 R2 模型因华为芯片问题推迟发布",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82049",
+          "author": null,
+          "description": "根据 Economist/YouGov 的调查，美国年轻一代的观众更喜欢加速播放视频和音频。18-29 岁的美国人有 31% 使用 1x 以上的播放速度，而 45 岁及以上人群中该比例仅为 8%。流媒体平台如 Apple、Spotify、Netflix 和 YouTube 都增加了播放速度的选择范围，其中 YouTube 为其付费用户提供了 4x 播放速度。根据滑铁卢大学研究人员的一项元分析（meta-analysis），1.5x 播放速度对测试得分基本没有影响，而 2x 或以上播放速度会导致得分下降。",
+          "link": "https://www.solidot.org/story?sid=82049",
+          "publishedOn": "2025-08-14T11:03:00.000Z",
+          "wordCount": 178,
+          "title": "美国年轻一代更喜欢加速播放视频和音频",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82048",
+          "author": null,
+          "description": "全世界最先进的 AI 模型都来自美国公司，都是私有模型，而中国在开源模型或开放权重模型领域处于领先地位，这令硅谷和华盛顿感到担忧，担心中国的模型可能会成为 AI 行业标准。行业标准并不一定是技术最先进的，易获得性和灵活性也非常重要，比如移动领域的 Android。对很多企业而言，使用开源模型可以对其进行更自由的调控，确保敏感信息不外泄。新加坡华侨银行使用开源模型开发了数十种内部工具，它使用的开源模型包括了 Google 的 Gemma，阿里巴巴的 Qwen 以及杭州深度求索的 DeepSeek。OpenAI 最新发布的开源模型 gpt-oss 在多项测试中不如阿里巴巴的 Qwen3，但 Qwen3 的参数规模几乎是 gpt-oss 的两倍，意味着 Qwen 可能需要消耗更多的算力完成相同的任务。OpenAI表示，gpt-oss 在推理任务上的表现优于同等参数规模的竞争对手，以低成本实现了强大的性能。亚马逊 AWS 表示，gpt-oss 比在其基础设施上运行的 DeepSeek R1 性价比更高。",
+          "link": "https://www.solidot.org/story?sid=82048",
+          "publishedOn": "2025-08-14T09:20:49.000Z",
+          "wordCount": 185,
+          "title": "中国推动开源模型令硅谷和华盛顿担忧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82047",
+          "author": null,
+          "description": "社交媒体没有成为人们曾经期盼的健康的交流思想的乌托邦式的公共广场，而是创造出一种回音室，放大少数用户的声音，放大愤怒和冲突，进一步加剧极化。对社媒平台进行干预是否能缓解或修正部分它产生的问题？根据发表在 arXiv 上的一篇预印本，研究人员测试了六种干预策略，发现基本无效，除非从根本上改变社媒的架构，否则其问题无法得到修正。研究人员测试了对信息流按时间排序或随机排序；逆转促进互动的算法以降低情绪化内容的曝光度；促进观点的多元性；使用“桥接算法”促进相互理解而非煽动情绪的内容；隐藏转发和关注者账户等社交统计数据以减少社交影响力线索；删除个人简介以限制基于身份的信号曝光度。结果显示，部分干预措施只表现出略微改善的效果，部分措施可能进一步恶化了问题。比如对信息流按时间排序减少了注意力不平等，但进一步放大了极端内容。促进观点的多元性没有表现出任何显著的效果。",
+          "link": "https://www.solidot.org/story?sid=82047",
+          "publishedOn": "2025-08-14T07:47:52.000Z",
+          "wordCount": 160,
+          "title": "研究认为社交媒体的问题无法得到修正",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82046",
+          "author": null,
+          "description": "挪威反情报机构负责人 Beate Gangaas 周三表示，俄罗斯黑客今年四月七日短暂控制了一座位于 Bremanger 的水坝，打开了泄洪闸，四个小时后攻击被发现而停止。挪威大部分电力来自水电，情报部门此前曾警告其能源基础设施可能遭受攻击。Gangaas 说，此类攻击的目的是影响民众，在民众中制造恐惧和混乱，我们的俄罗斯邻居变得更危险了。俄罗斯驻奥斯陆大使馆表示，她的声明毫无根据并带有政治动机。",
+          "link": "https://www.solidot.org/story?sid=82046",
+          "publishedOn": "2025-08-14T06:54:30.000Z",
+          "wordCount": 163,
+          "title": "挪威指责俄黑客破坏其水坝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82045",
+          "author": null,
+          "description": "韩国的星巴克顾客正将连锁咖啡店作为远程办公场所，为了限制这种行为，星巴克发布了新政策，要求顾客不要将打印机和台式机等大件物品带到店里。韩国星巴克发言人称，他们仍然欢迎携带笔记本电脑和小型个人设备的顾客，但请顾客不要带台式电脑、打印机或其它可能限制座位并影响共享空间的大件物品。星巴克于 1999 年在韩国首尔开设了第一家门店，尽管韩国人口不到日本的一半，但韩国星巴克门店总数已超过日本达到了 2050 家，而日本只有 2040 家。韩国社会文化学副教授 Jo Elfving-Hwang 说，在星巴克远程办公相当便宜，但有些人走得太极端了。",
+          "link": "https://www.solidot.org/story?sid=82045",
+          "publishedOn": "2025-08-14T06:16:30.000Z",
+          "wordCount": 166,
+          "title": "韩国星巴克要求顾客不要将打印机和台式机带到店里",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82044",
+          "author": null,
+          "description": "根据发表在《European Journal of Neuroscience》期刊上的一项研究，猫痴呆症与人类阿尔茨海默病之间有着惊人的相似性。爱丁堡大学的研究人员对 25 只死前出现痴呆症症状的猫进行了大脑检查，发现猫的脑部积聚了 β淀粉样蛋白，该蛋白也是人类阿尔茨海默病的典型特征之一。研究人员认为，猫可以作为研究痴呆症/阿尔茨海默病的完美模型，探索新的疗法，也有助于理解和管理猫的痴呆症。",
+          "link": "https://www.solidot.org/story?sid=82044",
+          "publishedOn": "2025-08-14T06:04:57.000Z",
+          "wordCount": 163,
+          "title": "猫的痴呆症与人类相似",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82043",
+          "author": null,
+          "description": "2008 年 5 月 12 日发生的汶川大地震造成逾 6.9 万人遇难，根据发表在《自然》期刊上的一项研究，这场大地震的后续影响持续了至少十几年。汶川地震将大量岩石和土壤冲入当地溪流与河流。河流带走的地震沉积物流量分为两类：悬浮在水中的细颗粒沉积物，称为悬移质；沿河床滚动或跳跃前行的粗颗粒物质（砾石至巨石），称为推移质（bedload）。科学家早已发现，地震后悬移质流量会增加。但这只是部分事实。研究团队发现，汶川地震后岷江的总沉积物流量增长了 6 倍，而推移质流量更是增加了 20 倍。这意味着，地震后河流中约 65% 的沉积物是推移质，而在同等规模的山地河流中，这一比例通常只有 20% 左右。这一高流量状态至少持续了十年——研究人员发表论文前最后一次实地观测时依然如此。大地震后续影响持续的时间超出了预期。这意味着灾难之后在原地按原有方式重建是不明智的，因为风险不仅没有降低，反而因地形改变而增加。被淤积的河道已无法承受原来其或许可以承受的十年一遇洪水。",
+          "link": "https://www.solidot.org/story?sid=82043",
+          "publishedOn": "2025-08-14T05:51:44.000Z",
+          "wordCount": 173,
+          "title": "地震的长尾效应",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82042",
+          "author": null,
+          "description": "路透社报道，美国在 AI 芯片货物中装定位追踪器，以跟踪货物是否被转运至受美国出口管制的国家和地区。追踪器被用在戴尔、超微等厂商的服务器货物中，这些服务器搭载了英伟达和 AMD 的 AI 芯片。追踪设备通常被隐藏在服务器包装中。美国于 2022 年出台了针对英伟达、AMD 等厂商高性能 AI 芯片的出口限制,执法部门使用追踪设备也并非首次，这一做法可追溯至数十年前。",
+          "link": "https://www.solidot.org/story?sid=82042",
+          "publishedOn": "2025-08-14T03:47:13.000Z",
+          "wordCount": 180,
+          "title": "美国 在 AI 芯片货物中装定位追踪器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82041",
+          "author": null,
+          "description": "人民日报报道，中国疾控中心性病艾滋病预防控制中心研究员刘中夫介绍，目前疾控系统通过应用多病共检专病提报系统，从流入地和流出地加大艾滋、乙肝、丙肝和梅毒的筛查的工作力度，身份证信息中已关联覆盖上述四种疾病的确诊提示，各地均可查询。",
+          "link": "https://www.solidot.org/story?sid=82041",
+          "publishedOn": "2025-08-14T03:35:37.000Z",
+          "wordCount": 157,
+          "title": "身份证关联疾病信息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82040",
+          "author": null,
+          "description": "对 1609 个美国城市里 5424 名在 3 年观察期中至少搬迁了一次的个体的手机数据的分析显示，从一个不太适宜步行的区域搬到一个更适宜步行的地方，会让身体活动增加，反之亦然。178 人从评分 48/100 的城市搬到纽约市（评分 89/100）后，他们的身体活动水平从平均每天 5600 步增加到了 7000 步，增幅达 1400 步。这一效应对于反向迁移的参与者也同样成立。这些观察结果在不同性别、年龄和身体质量指数（BMI）的人群中均保持一致。研究人员预测，步行友好城市有助于提升当地居民的有氧活动水平。",
+          "link": "https://www.solidot.org/story?sid=82040",
+          "publishedOn": "2025-08-13T16:02:56.000Z",
+          "wordCount": 175,
+          "title": "步行友好的城市增加居民的步行次数",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82039",
+          "author": null,
+          "description": "马斯克(Elon Musk)威胁对苹果采取法律行动，指控苹果操纵 App Store 排名，偏袒 ChatGPT 而非 Grok。马斯克声称苹果的行为使得除 OpenAI 之外没有其它 AI 公司能登顶 App Store 排行榜。这一指控并不正确，\n今年曾有两款 AI 应用短时间内超越 ChatGPT：中国的 Deepseek 以及 Perplexity。苹果没有回应马斯克的指控，但 OpenAI 回应了，OpenAI CEO Sam Altman 援引 Platformer 的报道称，埃隆马斯克构建了一个特殊系统确保他的帖子在 X 上被用户优先看到，他操纵 X 为自己和公司谋利，损害竞争对手和他不喜欢的人的利益。",
+          "link": "https://www.solidot.org/story?sid=82039",
+          "publishedOn": "2025-08-13T15:48:32.000Z",
+          "wordCount": 206,
+          "title": "马斯克威胁苹果，想要提高其 AI 应用 Grok 的排名",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82038",
+          "author": null,
+          "description": "Google 向美国和印度用户推出名为“Preferred Sources”的新功能，允许用户从搜索结果中选择自己喜欢的新闻网站和博客，之后用户会在搜索结果中看到更多来自自己喜欢内容源的内容。但 Google 此举被认为和社交平台算法类似，限制用户的选择，将用户困住回音室里，而高质量的搜索结果需要的是更多元化的内容源，而不是更少的内容源。用户搜索需要的不是偏爱的内容源，而是减少低质量的内容源，用黑名单限制低质量内容源。",
+          "link": "https://www.solidot.org/story?sid=82038",
+          "publishedOn": "2025-08-13T15:15:36.000Z",
+          "wordCount": 165,
+          "title": "Google 允许美国印度用户选择他们喜欢的内容来源",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82037",
+          "author": null,
+          "description": "自 6 月上线至今，《K-POP：猎魔女团（K-Pop: Demon Hunters）》已成为 Netflix 历史上观看次数最多的动漫电影。这部动漫的一首歌《Golden》也荣登 Billboard 百强单曲榜首。它的故事简单又纯粹：远古时代恶魔游荡，恶魔以人类灵魂为食，直到三名女子——天赋异禀的歌手兼猎魔人——用歌声筑起一道神奇的屏障，将恶魔困于其后，这道屏障被称为“魂门”。此后魂门由一代又一代的猎魔人用歌声加固，直到有一天魂门变成金色，彻底封印恶魔，但当代的猎魔人歌手 Rumi、Mira 和 Zoey 面临来自大恶魔鬼马的最后反击——五名恶魔组成的 K-pop 男团。",
+          "link": "https://www.solidot.org/story?sid=82037",
+          "publishedOn": "2025-08-13T14:28:46.000Z",
+          "wordCount": 179,
+          "title": "《K-POP：猎魔女团》成为 Netflix 史上观看次数最多的动漫电影",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82036",
+          "author": null,
+          "description": "6500 万年前的小行星撞击地球导致了恐龙灭绝，我们人类有生之年死于小行星撞击的风险有多高？根据发表在 arXiv 上的一篇预印本，研究人员模拟了 500 万个直径大于 140 米的近地天体（NEO），模拟了近地天体的轨道，并统计 150 年来近地天体撞击地球的次数，以判断 NEO 撞击地球的可能性。随后研究人员将这些结果与个人在 71 年的人生中发生其他不幸事件的机率进行比较，包括雷击、被大象攻击和一氧化碳中毒等事件，计算一个人死于这些事件的机率有多大。结果发现，大小超过 140 米的近地天体的撞击频率估计约为每 1.1 万年一次。直径 140-200 米的近地天体坠落海洋可能不会造成人员伤亡，而直径 180-200 米的近地天体如果撞击人口稠密的地区，则有可能影响一百万人，更大的近地天体撞击可能影响整个世界。因此即使近地天体撞击地球，但若其直径较小，大多数人仍然有很大的幸存几率。研究人员发现，当一氧化碳中毒和大象攻击等事件发生时，造成人员死亡的可能性就大得多。而一颗直径超过 140 米的小行星撞击地球的机率比一个人一生中被闪电击中的机率，以及被土狼袭击的机率都要高。另一方面，一个人一生中感染流感或遭遇车祸的机率远高于经历小行星撞击地球的机率，这也许不是什么令人惊讶的事。研究团队强调，这并不是要忽视行星防御的重要性，而是让大众能在理解真实风险的同时，理性看待小行星威胁。",
+          "link": "https://www.solidot.org/story?sid=82036",
+          "publishedOn": "2025-08-13T14:02:58.000Z",
+          "wordCount": 181,
+          "title": "你一生中被小行星砸到的概率",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82035",
+          "author": null,
+          "description": "部分鸟类的雌雄之间有着显著的外形区别，比如公鸡母鸡，雄孔雀和天堂鸟。但还有很多鸟类雌雄之间几乎没有区别，以至于科学家可能需要测试 DNA 才能区分雄性和雌性。但测试 DNA 也不可靠，根据发表在《Biology Letters》期刊上的一项研究，原因是性逆转在鸟类中间很常见，因此性腺和染色体并不一致。在人类中，女性通常携带 XX 染色体，男性为 XY 染色体。但决定性别的不是性染色体本身而是上面的基因。Y 染色体上的 SRY 基因决定了哺乳动物发育成雄性，如果缺乏该基因，那么携带 XY 染色体的人也会发育成女性。对五种澳大利亚常见鸟类澳洲喜鹊、笑翠鸟、凤头鸽、彩虹吸蜜鹦鹉和鳞胸吸蜜鹦鹉的研究发现，其性转比例在 3% 到 6% 之间，性逆转的鸟类大部分在遗传学上都是雌性但拥有雄性的生殖器官，小部分在遗传学上是雄性但拥有卵巢。但什么导致了鸟类的性逆转，研究人员表示还需要展开更多研究。",
+          "link": "https://www.solidot.org/story?sid=82035",
+          "publishedOn": "2025-08-13T10:22:59.000Z",
+          "wordCount": 176,
+          "title": "性逆转在鸟类中间很常见",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82034",
+          "author": null,
+          "description": "政客的逻辑思维能力可能在下降：为了应对持续的干旱，英国环境部水务署署长 Helen Wakeham 在一篇新闻稿里建议公众从改变日常习惯做起，比如关掉水龙头或删除旧邮件，称有助于节省用水，保护河流和野生动物。删除邮件如何能节省用水？写新闻稿的人可能以为英国数据中心消耗了大量的水，而邮件通常储存在云端的数据中心，因此删除邮件有助于节省水，问题是信息储存在硬盘里，无论删除不删除，硬盘一直在运行，反而删除这一操作会产生更多热，因为需要额外进行处理。此外，英国的数据中心使用风冷，几乎不消耗水。",
+          "link": "https://www.solidot.org/story?sid=82034",
+          "publishedOn": "2025-08-13T09:17:23.000Z",
+          "wordCount": 160,
+          "title": "英国政府建议居民删除邮件以节省用水",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=82032",
           "author": null,
@@ -907,86 +1117,6 @@
           "publishedOn": "2025-08-05T15:22:04.000Z",
           "wordCount": 162,
           "title": "科学家研发出一种效力与吗啡相当但无严重副作用的止痛药",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81971",
-          "author": null,
-          "description": "科学家理解大脑运作主要使用两种工具，它们都有各自的优点和缺点：脑电图 (EEG)廉价且轻便，但无法读取大脑外皮层之外的信息；功能性核磁共振成像 (fMRI) 昂贵且体积庞大但可以深入大脑。现在格拉斯哥(Glasgow)大学研究团队找到了一种能集两者于一身的技术：像 EEG 那样廉价且轻便，像 fMRI 那样能读取大脑深层的信息。他们使用激光器从大脑一侧发射数以百万的光子，然后测量到达另一侧的时间。由于只有极少数光子能完全穿过大脑，因此研究的一大难点是降低背景噪音。这项技术离真正实用还有一段距离，研究人员还需要克服更多障碍。",
-          "link": "https://www.solidot.org/story?sid=81971",
-          "publishedOn": "2025-08-05T15:02:13.000Z",
-          "wordCount": 164,
-          "title": "用激光穿透人类大脑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81970",
-          "author": null,
-          "description": "英国科学家发现，超加工饮食对减重和降低心血管代谢疾病风险的效果可能不如最少加工的饮食，即使这两种饮食都遵循相同的国家饮食指南。研究结果基于一项对英国 55 名成年人开展的社群水平的临床试验，揭示了在整体营养构成之外，食品加工程度对特定健康结局的可能影响。全球超加工食物消耗量在近几十年里快速增加，而肥胖症以及2型糖尿病和心血管疾病这类慢性病的发病率也在同期上升。研究人员开展了一项随机交叉试验，比较了以超加工食品为主和以最少加工食品为主的饮食，两种饮食结构都遵循了英国《健康饮食指南》——一组促进健康均衡营养的国家饮食建议。试验中的 55 名成人或接受预制的超加工食品，如早餐谷物或即食千层意面；或接受预制的最少加工食品，如隔夜燕麦或自制肉酱意面，这些食品在 8 周内分别配送到家。休息 4 周后，受试者换成另一种饮食再继续 8 周，从而能在受试者本人身上比较超加工食品和最少加工食品在 6 个月期间的影响。50 名受试者至少完成了一种饮食。研究者发现，遵循英国《健康饮食指南》的两种饮食都能在 8 周内显著减重。不过，最少加工饮食的平均减重量为 2%，而超加工饮食只有 1%。除了减重，最少加工饮食能更有效地改善与心血管代谢健康指标相关的身体成分，如降低脂肪总量、内脏脂肪和甘油三酯水平，但超加工饮食后的低密度脂蛋白胆固醇更低。",
-          "link": "https://www.solidot.org/story?sid=81970",
-          "publishedOn": "2025-08-05T09:26:34.000Z",
-          "wordCount": 175,
-          "title": "超加工饮食减肥的效果不大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81969",
-          "author": null,
-          "description": "陪审团上周裁决特斯拉对一起牵涉到 Autopilot 的车祸过失死亡事件负有部分责任。庭审记录显示，特斯拉试图将所有责任都归罪于司机，主动隐瞒 Autopilot 在事故前后表现的关键证据。在车祸发生三分钟内，特斯拉汽车将碰撞快照（collision snapshot）——视频、CAN‑bus streams、EDR 数据等——上传到特斯拉公司的服务器上，然后删除了本地拷贝，使得特斯拉公司成为唯一一个能访问关键证据的实体。警方在多年之后才让特斯拉承认碰撞快照的存在。专家通过从车载电脑上取证恢复数据确认特斯拉一直拥有该“碰撞快照”。而特斯拉一直宣称快照数据并不存在。",
-          "link": "https://www.solidot.org/story?sid=81969",
-          "publishedOn": "2025-08-05T08:52:37.000Z",
-          "wordCount": 164,
-          "title": "特斯拉被指在涉及自动驾驶的车祸案件中隐瞒数据、撒谎和误导警方",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81968",
-          "author": null,
-          "description": "就算没有母星相伴，部分质量与木星差不多的漂流行星，也可能孕育出属于自己的微型行星系统。这些流浪天体可能跟恒星一样，是从巨大气体分子云塌缩形成的；也有可能原本属于某个行星系统的成员，后来被其他大型行星的重力扰动踢出来，变成在星际空间中漂流的行星。研究团队运用韦伯望远镜上两套高灵敏度的红外线相机，从 2024年 8 月到 10 月间，对这些天体进行详细的光谱测量，并分析其结构与组成。结果显示它们的质量确实与木星相当，在其中 6 颗行星周围还发射出较为多量的红外线，显示它们身边环绕着温暖的气体尘埃圆盘，这正是行星系统形成时常见的特征。观测结果还发现这些尘埃盘中含有矽酸盐颗粒，不但有逐渐成长的迹象，还出现结晶化现象，这正是行星系统中形成岩石质行星形成的第一个步骤。过去只有在恒星或棕矮星周围的气体尘埃圆盘中发现这种现象，如今却首度在质量小得多，与木星质量相近的漂流行星中被侦测出来。",
-          "link": "https://www.solidot.org/story?sid=81968",
-          "publishedOn": "2025-08-05T07:32:38.000Z",
-          "wordCount": 165,
-          "title": "大型流浪行星可能会形成自己的微型行星系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81967",
-          "author": null,
-          "description": "CDN 服务商 Cloudflare 指责 AI 搜索引擎公司 Perplexity 使用隐蔽策略绕过网站禁止抓取的指令。Cloudflare 称它收到了客户的投诉，客户通过 robots.txt 以及 Web 应用防火墙屏蔽了 Perplexity 的搜索爬虫，然而尽管采取了这些措施 Perplexity 的爬虫仍然继续访问网站内容。Cloudflare 随后展开了调查，发现当 Perplexity 注意到 robots.txt 或防火墙规则屏蔽其爬虫后，它会使用一个隐蔽的机器人爬虫，使用一系列策略掩盖其活动。此举意味着 Perplexity 违反了实施了 30 多年的互联网规范。",
-          "link": "https://www.solidot.org/story?sid=81967",
-          "publishedOn": "2025-08-05T06:54:05.000Z",
-          "wordCount": 186,
-          "title": "Perplexity 使用隐蔽策略绕过网站禁止抓取的指令",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81966",
-          "author": null,
-          "description": "乌克兰的无人机完成了一项非同寻常的任务：快递电动自行车救出士兵。被称为 Rubizh 的乌克兰国民警卫队第四快速反应旅分享了一则长 16 分钟的相关视频，显示无人机吊起了一辆电动自行车，然后士兵骑着电动车返回安全地带。乌克兰方面称，这名士兵坚守的前线阵地遭到了袭击，多名战友阵亡，他发现自己与安全区隔离，不得不独自坚守阵地数日。为了营救这名士兵，参谋制定了用大型无人机运送电动自行车的计划，第一架无人机被击落，第二架因为过重而失败，第三架成功了。",
-          "link": "https://www.solidot.org/story?sid=81966",
-          "publishedOn": "2025-08-04T16:23:18.000Z",
-          "wordCount": 163,
-          "title": "乌克兰通过无人机快递电动自行车救出士兵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81965",
-          "author": null,
-          "description": "Mozilla 警告针对 Firefox 扩展开发者的钓鱼攻击，督促开发者对冒充 Mozilla 或 AMO (addons.mozilla.org) 发件人的邮件提高警惕。攻击者可能是利用钓鱼邮件劫持开发者的账号，然后向 Firefox 用户推送包含恶意代码的扩展更新，发动供应链攻击。安全研究人员称，目前针对 Firefox 的恶意插件旨在窃取加密货币钱包的凭证。",
-          "link": "https://www.solidot.org/story?sid=81965",
-          "publishedOn": "2025-08-04T15:42:34.000Z",
-          "wordCount": 181,
-          "title": "Mozilla 警告针对 Firefox 扩展开发者的钓鱼攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=81964",
-          "author": null,
-          "description": "根据发表在柳叶刀期刊上的一则评论，专家警告全球塑料危机，认为塑料每年造成的健康相关损失达到至少 1.5 万亿美元。自 1950 年以来，塑料产量增长了 200 多倍，到 2060 年塑料产量将达到每年 10 亿吨以上。结果是整个地球从从珠穆朗玛峰顶到最深的海沟都被塑料污染，全世界目前的塑料垃圾重达 80 亿吨。而不到 10% 的塑料被回收。塑料会导致空气污染和接触有毒化学物质，而微塑料则能渗透进人体。塑料污染甚至会增加携带疾病的蚊子，因为散落各地的塑料捕获的水为蚊子提供了良好的繁殖场所。石油公司和塑料行业认为，对抗塑料污染的重点应放在回收塑料而不是削减产量上。",
-          "link": "https://www.solidot.org/story?sid=81964",
-          "publishedOn": "2025-08-04T15:27:00.000Z",
-          "wordCount": 172,
-          "title": "塑料危机影响所有人",
           "imageUrl": null
         }
       ]
