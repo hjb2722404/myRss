@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-08-19T03:08:23.243Z</updated>
+    <updated>2025-08-20T03:06:21.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[为什么好莱坞停止制作喜剧片]]></title>
+        <id>https://www.solidot.org/story?sid=82091</id>
+        <link href="https://www.solidot.org/story?sid=82091"/>
+        <updated>2025-08-19T16:17:09.000Z</updated>
+        <summary type="html"><![CDATA[根据 Letterboxd 和消费者调查，在观众想要看到更多的电影类型中喜剧片排名第二，但好莱坞喜剧片产量自 1990 年以来却下降了 27%。喜剧片制作预算平均为 2650 万美元，投资回报率达到 102%，然而只有 9.3% 的喜剧片有续集，而动作片则高达 27.6%。为什么好莱坞停止制作喜剧片？相比动作片、恐怖片或传记片，喜剧片公式化程度不那么高，而且更难翻译到其它语言和文化，喜剧片的票房主要来自本土市场而非国际市场，如 《妙探出更(Beverly Hills Cop)》和《捉鬼敢死队（Ghostbusters）》大部分票房都来自北美市场。今天的好莱坞更倾向于制作具有国际市场潜力的电影。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部分 Docker 镜像仍然包含 XZ Utils 后门]]></title>
+        <id>https://www.solidot.org/story?sid=82090</id>
+        <link href="https://www.solidot.org/story?sid=82090"/>
+        <updated>2025-08-19T15:35:01.000Z</updated>
+        <summary type="html"><![CDATA[去年初震惊整个开源和网络安全社区的 XZ 后门事件并没有离我们而去。在 XZ 事件中，攻击者 Jia Tan（化名，未必是华人）潜伏 XZ Utils 项目长达两年多时间，最终获得信任成为项目的共同维护者，之后他或他们利用其权限悄悄在 xz-utils 包中植入了一个复杂的后门。在恶意版本大规模传播前，后门就被发现了，因此没有造成大问题。但 Binarly REsearch 的调查发现，在攻击期间构建的部分 Docker 镜像仍然包含有 XZ Utils 后门。安全研究人员从 DockerHub 上发现了超过 35 个含有后门的镜像。虽然数字不多，但研究人员只扫描了一小部分镜像，而且只针对 Debian 发行版，其它发行版如 Fedora 和 OpenSUSE 情况未知。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软银向英特尔投资 20 亿美元]]></title>
+        <id>https://www.solidot.org/story?sid=82089</id>
+        <link href="https://www.solidot.org/story?sid=82089"/>
+        <updated>2025-08-19T14:13:19.000Z</updated>
+        <summary type="html"><![CDATA[英国芯片设计公司 Arm 的大股东日本软银集团向陷入困境的英特尔公司投资 20 亿美元，入股芯片巨人。与此同时，美国政府也在与英特尔公司谈判入股 10%。软银将以每股 23 美元的价格收购英特尔的普通股，将持有约 2% 的英特尔股份。软银今年二季度是四年来首次盈利，英特尔现任 CEO 陈立武曾是软银董事。英特尔曾是最强大的半导体公司，如今已经落后英伟达和 AMD 等公司。它目前正在重组裁员。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT 报告称 95% 的企业生成式 AI 试验失败了]]></title>
+        <id>https://www.solidot.org/story?sid=82088</id>
+        <link href="https://www.solidot.org/story?sid=82088"/>
+        <updated>2025-08-19T14:02:36.000Z</updated>
+        <summary type="html"><![CDATA[MIT 发表报告《The GenAI Divide: State of AI in Business 2025》称，95% 的企业生成式 AI 试验失败了。虽然企业纷纷整合大模型，但只有 5% 的 AI 试点项目实现了收入的快速增长，大多数项目停滞，对损益表几乎没有产生可衡量的影响。研究基于对 150 名高管的访谈，350 名员工的调查以及对 300 个公开的 AI 部署项目的分析。报告主要作者 Aditya Challapally 解释说，95% 的企业部署生成式 AI 表现不佳不是因为大模型的质量，而是因为 ChatGPT 之类的通用工具因其灵活性对个人用户非常有用，但它们无法从工作流程中学习或适应工作流程，因此企业部署停滞不前。逾半数的生成式 AI 预算是投入在销售和营销工具上面，但研究显示后台业务自动化投资回报率最高——在后台部署 AI 有助于消除业务流程外包、削减外部营力成本和简化运营。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国有望在美国之前登陆月球]]></title>
+        <id>https://www.solidot.org/story?sid=82087</id>
+        <link href="https://www.solidot.org/story?sid=82087"/>
+        <updated>2025-08-19T10:34:22.000Z</updated>
+        <summary type="html"><![CDATA[在美国登月计划受挫之际，中国的登月计划过去几个月则取得了显著进展，中国有可能在美国之前登陆月球。中国载人航天工程办公室于 8 月 6 日成功测试了 26 吨的揽月着陆器高保真模型。揽月月面着陆器是登月舱和推进舱组成，主要用于环月轨道和月球表面间的航天员运输，可搭载 2 名航天员往返，中国国家航天局在声明中再次确认计划在 2030 年前登月。中国还在上周完成了新一代载人运载火箭长征十号的首次系留点火试验，6 月份完成了梦舟载人飞船零高度逃逸试验。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国官员想要阻止儿童使用 VPN 浏览成人内容]]></title>
+        <id>https://www.solidot.org/story?sid=82086</id>
+        <link href="https://www.solidot.org/story?sid=82086"/>
+        <updated>2025-08-19T09:50:01.000Z</updated>
+        <summary type="html"><![CDATA[英格兰儿童事务专员 Rachel de Souza 表示，政府需要阻止儿童使用 VPN 绕过色情网站的年龄验证。她表示该漏洞需要堵上，呼吁 VPN 服务也要验证年龄。在 PornHub、Reddit 和 X 等网站开始对访问成人内容的英国用户验证年龄后，VPN 成为英国苹果 App Store 下载量最多的应用。对于限制 VPN 的评论，英国科学、创新和科技部发言人回应称，VPN 是成人使用的合法工具，目前没有禁止的计划。但如果平台故意向儿童推销 VPN 作为绕过年龄验证方法，将面临严厉执法和巨额罚款。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ditto 删库疑云：GitHub 代码库清空，但 Chocolatey 今日仍在更新]]></title>
+        <id>https://www.appinn.com/ditto-delete-github-code/</id>
+        <link href="https://www.appinn.com/ditto-delete-github-code/"/>
+        <updated>2025-08-19T08:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Ditto 是著名的 Windows 开源剪贴板工具，被很多人推荐。两个小时以前（2025年8月19日），来自小众软件的 1113 同学发帖：Ditto删库了？并提问：刚上 github 发现 notification 有一个未读，是 ditto 的，然后发现居然库没了？啥情况？ Ditto 是什么]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[证据显示地球之水起源于彗星]]></title>
+        <id>https://www.solidot.org/story?sid=82085</id>
+        <link href="https://www.solidot.org/story?sid=82085"/>
+        <updated>2025-08-19T08:12:35.000Z</updated>
+        <summary type="html"><![CDATA[天文学家利用 ALMA 观测 12P/Pons-Brooks 彗星，发现其中的水具有与地球海洋几乎相同的同位素组成比例。这一发现进一步支持了「彗星可能在年轻地球上带来水与部分生命所需分子原料」的假说。一般认为，地球上的水在数十亿年前由彗星、小行星及陨石撞击带来。然而，过去观测多数彗星的水同位素比例与地球差异明显。本次结果则提供了迄今最有力的证据，显示至少部分彗星携带的水与地球水有相同的化学「指纹」。在这项研究中，科学家首次绘制出 12P 彗星的彗发（包围彗核的气体）中普通水（H₂O）与重水（HDO，即水分子里的一个氢被带有额外中子的氘取代）的空间分布。观测时间点为 12P 彗星接近太阳之际，结合毫米／次毫米波与红外线数据，精确测定了氘氢比（D/H）。透过绘制 H₂O 与 HDO 的分布，研究团队判断这些气体确实来自彗核内的冰冻物质，而非在彗发中由化学作用或其他过程生成。测得的 D/H 比值为 (1.71 ± 0.44) × 10⁻⁴，这个数值在所有已观测的彗星中偏低，并与地球海洋完全一致。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[医生救回几乎“身首离断”患者]]></title>
+        <id>https://www.solidot.org/story?sid=82084</id>
+        <link href="https://www.solidot.org/story?sid=82084"/>
+        <updated>2025-08-19T08:01:26.000Z</updated>
+        <summary type="html"><![CDATA[上海长征医院骨科医生历经 3 小时成功为一例遭遇罕见严重颈椎骨折脱位、跨度之大几乎可以被称为“身首离断”的患者实施了复位固定手术。这名患者因此前颈部遭受机械臂重击，当场高位截瘫、心跳骤停，经紧急心肺复苏才勉强恢复微弱生命体征。影像学检查结果几乎为患者宣判了“死刑”——其颈椎发生了极其罕见的大跨度离断式脱位，脊髓严重挫伤、关键神经血管结构撕裂。患者于 6 月 18 日进行的手术，目前生命体征稳定，已脱离呼吸机大概半个月。患者双下肢功能永久损伤无法挽回，上肢功能在逐渐锻炼康复中。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基因改变果蝇的求爱方式]]></title>
+        <id>https://www.solidot.org/story?sid=82083</id>
+        <link href="https://www.solidot.org/story?sid=82083"/>
+        <updated>2025-08-19T07:42:34.000Z</updated>
+        <summary type="html"><![CDATA[在自然界中，多数雄性果蝇通过快速振动翅膀来创造声音模式或“求爱之歌”来求爱。然而 Drosophila subobscura 演化出了一种非常不同的策略：雄性提供食物，并在求偶期间将其作为礼物送给雌性。这种行为在近亲物种中并不存在，比如 D. melanogaster（黑腹果蝇）。两种果蝇大约在 3000 万到 3500 万年前分化。它们都有一个叫做“fruitless”或简称“fru”的基因，控制雄性的求偶行为，但它们使用不同的策略——一个物种唱歌，另一个物种送礼物。研究人员发现了这种差异的原因：在送礼物的果蝇（D. subbobscura）中，产生胰岛素的神经元与大脑中的求爱控制中心相连，而在唱歌的果蝇（D. melanogaster）中，这些细胞保持不连接。通过打开产生胰岛素的神经元中的一个基因，研究小组成功地让黑腹果蝇完成了它以前从未做过的送礼物求偶。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卫星捕捉到 8.8 级地震所引发海啸的细节]]></title>
+        <id>https://www.solidot.org/story?sid=82082</id>
+        <link href="https://www.solidot.org/story?sid=82082"/>
+        <updated>2025-08-19T07:36:40.000Z</updated>
+        <summary type="html"><![CDATA[由 NASA 与法国国家空间研究中心（CNES）联合研制的地表水和海洋地形卫星（SWOT）所提供的数据，正助力改进海啸预报模型，为沿海社区带来福祉。当地震或水下滑坡等扰动的强度足以让从海底到海面的水体发生位移时，就会引发海啸。当地时间 7 月 30 日 11 时 25 分，俄罗斯堪察加半岛近海发生 8.8 级地震并引发海啸，SWOT 在地震发生约 70 分钟后记录下了此次海啸。SWOT 数据从多个维度呈现了堪察加地震引发的海啸前沿情况。测量数据包括超过 45 厘米的波高——在高亮轨迹中以红色显示，以及海啸前沿的形状和传播方向。在视觉图像中从西南向东北延伸的高亮区域所示的 SWOT 数据，与美国国家海洋和大气管理局（NOAA）海啸研究中心制作的海啸预报模型形成对比。将二者进行比对，有助于预报人员验证模型，确保准确性。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[83% 的 Python 开发者仍然使用旧版本]]></title>
+        <id>https://www.solidot.org/story?sid=82081</id>
+        <link href="https://www.solidot.org/story?sid=82081"/>
+        <updated>2025-08-19T06:54:16.000Z</updated>
+        <summary type="html"><![CDATA[JetBrains 发布了第八次年度 Python 开发者调查报告。调查由 JetBrains 和 Python 软件基金会合作完成。结果显示，86% 的受访者表示 Python 是他们的主要语言，用于写程序、构建应用和创建 API 等；50% 受访者只有不到两年的专业编程经验，39% 的受访者只有不到两年的 Python 经验；83% 的 Python 开发者使用旧版本（v 3.12 或以下版本），主要理由是当前使用版本已能满足所有需求，报告指出从 Python 3.11 升级到 Python 3.13 能将代码速度提高 11% 内存占用减少 10-15%；51% 的受访者将 Python 用于数据探索和处理，最常用的工具是 Pandas 和 NumPy。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[87% 的游戏开发者在工作中使用 AI]]></title>
         <id>https://www.solidot.org/story?sid=82080</id>
@@ -987,69 +1107,6 @@ Stuff & Nonsense Practical Layout Workshop originally published on CSS-Tricks, w
         <link href="https://www.solidot.org/story?sid=82004"/>
         <updated>2025-08-10T16:35:26.000Z</updated>
         <summary type="html"><![CDATA[手机已经成为日常生活的一部分，储存了大量敏感信息，但我们如何确保手机安全可靠？Google 的 Android 系统提供了开源版本 AOSP，而 Android 本身并未以安全为重心设计的，但基于开源系统，社区发行版如 GrapheneOS 对 Android 进行了加固。GrapheneOS 始于 CopperheadOS 项目，它的两位创始人因分歧而分道扬镳，其中之一的 Daniel Micay 创建了独立的项目 GrapheneOS。它旨在加强安全，并没有优先考虑支持更多设备，它支持的设备类型非常有限，仅限于 Google Pixel 6 到 Pixel 9，新的 Pixel 设备使用了新的 ARMv9 CPU 核心，支持如硬件内存标记（memory tagging）等安全功能。GrapheneOS 默认使用硬件内存标记保护操作系统和用户安装的兼容应用免遭攻击。它没有预装原版 Android 提供的大量开箱即用的应用，没有 Google Play store，而是提供了自己的浏览器、相机应用、PDF 阅读器以及总共只有 13 款应用的应用商店。浏览器是 Chromium 分支 Vanadium，启用了严格的网站隔离，它并不推荐 Firefox，认为它容易受到攻击，用户可选择安装的一个浏览器是 IronFox——Firefox 加固版。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailwind CSS 创始人正式道歉：为什么地球上每个 AI 生成的 UI 也都是靛蓝色的]]></title>
-        <id>https://www.appinn.com/tailwind-indigo-ai-ui-color-issue/</id>
-        <link href="https://www.appinn.com/tailwind-indigo-ai-ui-color-issue/"/>
-        <updated>2025-08-10T07:18:18.000Z</updated>
-        <summary type="html"><![CDATA[这是一个有趣的事情。 前天，Tailwind CSS 创始人 Adam Wathan 在 X 上回复别人「所以，GPT-5 还没有解决“紫色问题”」时，正式道歉： 我想正式向大家道歉，因为五年前我将]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rise and Fall of the Photography Industry]]></title>
-        <id>https://io-oi.me/tech/arete/</id>
-        <link href="https://io-oi.me/tech/arete/"/>
-        <updated>2025-08-10T07:11:00.000Z</updated>
-        <summary type="html"><![CDATA[「叡知・勇気・創造・希望」「叡知に基づく真理の探究、勇気ある挑戦による新たな価値の創造、そして切り拓かれる未来への希望」（翻譯：以睿智探求真理、透過勇敢的挑戰創造新的價值、並懷抱對開拓未來的希望）
-
-閱讀全文：https://io-oi.me/tech/arete/
-透過 Substack 訂閱支援我的創作！]]></summary>
-        <author>
-            <name>reuixiy@gmail.com (reuixiy)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软关闭 12 年历史的文档扫描应用 Microsoft Lens，将被 Copilot AI 取代]]></title>
-        <id>https://www.appinn.com/microsoft-lens-shutdown/</id>
-        <link href="https://www.appinn.com/microsoft-lens-shutdown/"/>
-        <updated>2025-08-10T04:25:53.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft Lens 是一款有着12年历史的文档扫描应用，最早在2013年以 OneNote 配套功能 Camera Scan 发布，随后以 Office Lens 正式独立发布。2021年更]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian 13 trixie 释出]]></title>
-        <id>https://www.solidot.org/story?sid=82003</id>
-        <link href="https://www.solidot.org/story?sid=82003"/>
-        <updated>2025-08-10T04:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Debian 项目宣布释出最新的稳定版本 Debian 13 trixie，该版本将支持到 2030 年，主要变化包括 GNOME 48、KDE Plasma 6.3、Xfce 4.20、Linux 6.12、GCC 14.2、Python 3.13 和 systemd 257。Debian 13 新增 14,100 个软件包，移除了 8,840 个过时的软件包，软件包总数达到 69,830 个，有 44,326 个软件包更新。riscv64 成为 Debian 官方支持的架构，停止支持i386 架构。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 淘汰初级编程开发者]]></title>
-        <id>https://www.solidot.org/story?sid=82002</id>
-        <link href="https://www.solidot.org/story?sid=82002"/>
-        <updated>2025-08-09T16:49:02.000Z</updated>
-        <summary type="html"><![CDATA[Jonathan Kim 在 2023 年花了近 2 万美元参加了一个编程训练营（coding bootcamp），希望这能帮助他找到一份程序员的工作。他在毕业之后申请了 600 多个程序员职位，没有一家公司向他伸出橄榄枝。他目前在叔叔的冰激凌店工作，还在继续寻找工作。过去十多年，编程训练营是非编程相关专业求职者获得硅谷高薪程序员工作的踏脚石。但今天编程训练营已经过时，AI 为其棺材敲上最后的钉子。数据显示，在 Kim 参加的 2023 年 Codesmith 训练营中，只有 37% 学生在毕业后六个月内找到了全职技术工作，远低于 2021 下半年的 83%。AI 非常擅长编程，结果是入门级的编程职位显著减少。Signalfire 今年五月发表一份报告称，应届毕业生招聘数量比 2019 年疫情前的水平下跌了一半。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[签署捐赠誓言的 256 名亿万富翁只有 9 人信守诺言]]></title>
-        <id>https://www.solidot.org/story?sid=82001</id>
-        <link href="https://www.solidot.org/story?sid=82001"/>
-        <updated>2025-08-09T16:01:40.000Z</updated>
-        <summary type="html"><![CDATA[2010 年，盖茨夫妇和沃伦巴菲特发起了捐赠誓言（The Giving Pledge）运动，旨在鼓励亿万富翁们将至少一半的净资产用于慈善机构，无论是在他们有生之年还是在他们去世时。捐赠誓言是一种公开的捐赠意向承诺，并非是具有法律约束力的合同。在捐赠誓言发起 15 年后，在 256 名署名的亿万富翁（其中之一是马斯克）中，大部分人未兑现承诺。大部分署名者的资产远超签署时，大部分慈善捐款都流向了私人基金和捐赠者指定基金，而不是直接支持实际运营的慈善机构。在世的署名者中，只有 Laura 和 John Arnold 夫妇捐了半数资产。在 22 位已故署名者中，只有 8 位生前兑现了承诺，其中 Chuck Feeney 在世时捐出了全部财富。在 194 名美国署名者中，110 人仍然是亿万富翁，总资产 1.7 万亿美元，而不再属于亿万富翁的署名者，他们的财富缩水并不是因为捐赠。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
