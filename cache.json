@@ -135,16 +135,6 @@
           "wordCount": 3013,
           "title": "CanaryToken – 29 种蜜罐陷阱！同事偷看我文件后，他的IP就自动’投案’到我邮箱了",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-15T170900.787.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/frp/",
-          "author": "青小蛙",
-          "description": "frp 是一款跨平台的内网穿透工具，支持 Windows、macOS 与 Linux，它需要你有一台拥有固定公网 IP 的电脑，VPS 最好，然后就能愉快的进行内网穿透了。还支持 https，甚至可以",
-          "link": "https://www.appinn.com/frp/",
-          "publishedOn": "2025-08-14T12:47:28.000Z",
-          "wordCount": 3527,
-          "title": "frp v0.64.0 更新：开源内网穿透工具，最简洁教程",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2019/08/frp1.jpgo_.jpg"
         }
       ]
     },
@@ -207,16 +197,6 @@
           "wordCount": 1796,
           "title": "A Few Things About the Anchor Element’s href You Might Not Have Known",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/link-pattern.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388760",
-          "author": "Geoff Graham",
-          "description": "My brain can’t help but try to make connections between seemingly disparate ideas. And that’s what happened yesterday when I read:\nHidde’s “Can components conform to WCAG?”\nJoas’s “Automating Design Systems”\nZell’s “We Might Need Something Between Root and Relative \n…\nOn Accessibility Conformance, Design Systems, and CSS “Base” Units originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/on-accessibility-conformance-design-systems-and-css-base-units/",
-          "publishedOn": "2025-08-14T13:10:11.000Z",
-          "wordCount": 1835,
-          "title": "On Accessibility Conformance, Design Systems, and CSS “Base” Units",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/cog-pattern.jpg"
         }
       ]
     },
@@ -260,6 +240,86 @@
       "siteUrl": "https://www.solidot.org",
       "articles": [
         {
+          "id": "https://www.solidot.org/story?sid=82129",
+          "author": null,
+          "description": "Google 准备让 Android TV 和其它 Android 生态系统保持一致。官方博客宣布从 2026 年 8 月 1 日起，Google TV 和 Android TV 应用都需要原生支持 64 位，为即将到来的 64 位电视设备做好准备。未满足要求的应用将无法在电视设备使用的 Google Play 应用商店上架。Google 表示，这一转变将有助于提供更好的性能、更短的启动时间，为未来的硬件带来全新的体验。",
+          "link": "https://www.solidot.org/story?sid=82129",
+          "publishedOn": "2025-08-23T14:13:11.000Z",
+          "wordCount": 226,
+          "title": "Google TV 和 Android TV 应用到 2026 年 8 月都必须支持 64 位",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82128",
+          "author": null,
+          "description": "美国总统特朗普宣布与英特尔达成协议，美国政府将持有芯片巨人 10% 的股份。英特尔是唯一一家能在美国本土制造先进芯片的美国公司，该公司在新闻稿中表示，美国政府向英特尔普通股投资 89 亿美元，以每股 20.47 美元购买了 4.33 3亿股，持有该公司 10% 的股份。英特尔指出，政府支付的价格低于当前的市场价格。89 亿美元中的 57 亿美元来自 CHIPS Act 下已授予但未支付的政府拨款，32 亿美元来自一项制造安全芯片的政府拨款。英特尔表示，美国政府将不会拥有董事席位或其它治理权力。",
+          "link": "https://www.solidot.org/story?sid=82128",
+          "publishedOn": "2025-08-23T09:50:14.000Z",
+          "wordCount": 187,
+          "title": "英特尔同意美国政府控制 10% 股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82127",
+          "author": null,
+          "description": "开源多媒体编解码器项目 FFmpeg 正式释出了代号为 Huffman 的 v8.0 版本。新版本距离上个大版本的发布相距约 17 个月。主要新变化包括：为 RealVideo 6.0、ADPCM IMA Xbox、G.728、Sanyo LD-ADPCM 引入了新的原生解码器；为三星 Advanced Professional Video 引入了 APV 解码器；为 APV、动画 JPEG-XL 和 libx265 alpha 层编码功能引入了编码支持；OpenHarmony 的编码和解码支持；Video Acceleration API (VA-API)的 VVC/H.266 支持； AVX-512 优化、FFV1 改进、AV1 RTP 分组器/解包器、AMD AMF 解码器、Vulkan 视频增强、更好的 HDR 视频支持；新的过滤器如 colordetect、pad_cuda、scale_d3d11、Whisper 等等等。",
+          "link": "https://www.solidot.org/story?sid=82127",
+          "publishedOn": "2025-08-23T03:33:05.000Z",
+          "wordCount": 209,
+          "title": "FFmpeg 8.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82126",
+          "author": null,
+          "description": "Arch Linux 项目披露其基础设施遭遇了 DDoS 攻击，提供了一旦网站发生宕机的一些权益方法，如使用镜像。Arch Linux 称，持续的 DDoS 攻击主要影响主网页、Arch User Repository (AUR)和论坛，它正在与托管服务提供商合作缓解攻击，同时在评估 DDoS 防护方案。",
+          "link": "https://www.solidot.org/story?sid=82126",
+          "publishedOn": "2025-08-22T16:32:20.000Z",
+          "wordCount": 186,
+          "title": "Arch Linux 遭遇 DDoS 攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82125",
+          "author": null,
+          "description": "密歇根州的研究人员调查了亚马逊、Google、微软、Meta、Digital Realty 和 Equinix 六大公司数据中心用水量。亚马逊每年会发布可持续发展报告，但报告没有披露数据中心的用水量，微软的情况类似，Google 和 Meta 的报告更详细。根据 Google 和 Meta 的报告，2023 年 Meta 全球用水量为 8.13 亿加仑，其中 95% 即 7.76 亿加仑用于数据中心；2023 年 Google 全球运营用水量为 64 亿加仑，其中 95% 即 61 亿加仑用于数据中心，2024 年 Google 位于爱荷华州 Council Bluffs 的数据中心用水量达到了 10 亿加仑，是其所有数据中心中用水量最高的，用水量最少的是 Google 位于德州 Pflugerville 的数据中心，用水量 1 万加仑，相当于德州一个家庭两个月的用水量，该数据中心采用风冷而非水冷。",
+          "link": "https://www.solidot.org/story?sid=82125",
+          "publishedOn": "2025-08-22T16:14:46.000Z",
+          "wordCount": 204,
+          "title": "Google 数据中心的用水量",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82124",
+          "author": null,
+          "description": "根据对四家开放获取期刊出版物发表的 18,400 篇论文的分析，如果审稿人自己的论文在手稿后续修改版本中被引用，那么相比那些没有引用的手稿，它们更可能获得批准。研究作者 Adrian Barnett 在澳大利昆士兰科技大学从事同行评审和元研究(meta-research)研究，他表示研究灵感来自轶事传闻，据说作者因为审稿人的要求而在论文中添加新的引用。他认为少量引用是可以接受的，但如果要求引用的数量过多，或者引用理由不充分，那么审稿流程就变成交易型（transactional），引用会增加一名研究人员的 h-index。研究针对的四个开放获取平台——F1000Research、Wellcome Open Research、Gates Open Research 和 Open Research Europ——它们公开了论文的所有版本以及审稿人意见。每篇论文的手稿至少需要有两位审稿人发表评论意见。近 5000 篇论文引用了一位审稿人的论文，有 2300 篇审稿人意见要求引用审稿人的论文。",
+          "link": "https://www.solidot.org/story?sid=82124",
+          "publishedOn": "2025-08-22T15:32:41.000Z",
+          "wordCount": 176,
+          "title": "审稿人如果审的论文引用了其工作会更可能批准",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82123",
+          "author": null,
+          "description": "天文学家首次直接追踪一颗垂死恒星超过一个世纪的缓慢转变，这一发现不仅刷新了在行星状星云中观测恒星演化的时间纪录，甚至可能是迄今在所有恒星中所观测到的最长演化过程，其变化幅度亦十分显著。螺线图星云（Spirograph Planetary Nebula）IC 418 是最早被发现的行星状星云之一，同时也是最明亮、最美丽且易于研究的星云之一。早在 1893 年，天文学家便已开始观测其光谱。自被发现以来，IC 418便 持续受到观测，即使观测光谱的技术多次革新，从肉眼测量进展到底片、数字相机，直至今日常用的 CCD，对这一星云的观测从未间断。 IC 418自开始观测以来，其特征性的绿光已经比维多利亚时代天文学家研究时强了约 2.5 倍。这样的变化是由中央恒星温度升高所致。自 1893 年以来，它的温度已经上升约 3,000°C，大约每 40 年增加 1,000°C。作为对照，太阳在形成过程中也曾升高相同程度的温度，但花了整整1,000万年。行星状星云是恒星生命的最后阶段之一。当恒星核心变得不稳定时，会将外层物质抛向太空，留下的核心则会迅速升温，使周围的气体与尘埃被激发形成壮丽的结构。对 IC 418 而言，这些结构错综复杂、宛如漩涡图案，因此获得螺线图星云的昵称。",
+          "link": "https://www.solidot.org/story?sid=82123",
+          "publishedOn": "2025-08-22T13:01:47.000Z",
+          "wordCount": 187,
+          "title": "天文学家跟踪一颗垂死恒星长达 130 年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82122",
+          "author": null,
+          "description": "影评聚合网站烂番茄(Rotten Tomatoes)成立于 1998 年，它很快成为可靠的电影电视剧评分网站，三分之一的美国人在观影前会查烂番茄。一部影视剧的综合评分只要超过 60%（3/5），就能贴上新鲜（fresh）的标签。然而过去十年，贴上新鲜标签的影视剧变多了，是因为好莱坞不会再拍烂片了吗？或者是它的统计方法发生了变化导致评分膨胀了？10 年前发生了什么？2016 年美国最大的电影票房平台 Fandango 收购了烂番茄，Fandango 的股东包括了娱乐巨头 NBCUniversal 和 Warner Bros. Discovery，它收购烂番茄被认为会造成利益冲突。收购之后，烂番茄统计的影评人数量增加了 40-70 人，他们主要来自规模较小的媒体。小媒体可能更容易被娱乐巨头的公关部门收买，因此操纵评分比过去更容易了，这可能导致了烂番茄评分的膨胀。",
+          "link": "https://www.solidot.org/story?sid=82122",
+          "publishedOn": "2025-08-22T11:03:05.000Z",
+          "wordCount": 181,
+          "title": "烂番茄被 Fandango 收购后评分出现膨胀",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.solidot.org/story?sid=82121",
           "author": null,
           "description": "百度无人驾驶出租车业务将拓展海外市场。预计 2025 年下半年进驻亚洲和中东，2026 年将涉足欧洲。将通过与网约车大企业合作，方便消费者利用。在美国 Alphabet 旗下的 Waymo寻 求进军日本等海外市场的情况下，百度将利用在中国积累的经验，开拓单价较高的海外市场。百度早在 2013 年就启动了自动驾驶技术的研发，以 2019 年的湖南省长沙市为开端，推出了无人自动驾驶出租车业务“萝卜快跑(Apollo Go)”。目前在湖北武汉和北京等 10 多个城市开展业务。4～6 月的运营次数增加到 220 万次，是 2024 年同期的 2.5 倍。从服务开始到 8 月，累计 1400 万次，行驶里程超过 1 亿公里。",
@@ -267,6 +327,26 @@
           "publishedOn": "2025-08-22T09:13:30.000Z",
           "wordCount": 185,
           "title": "百度自动驾驶出租车准备开辟海外市场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82120",
+          "author": null,
+          "description": "日本理化学研究所宣布，英伟达将参与联合研发下一代富岳超算，其开发代号为富岳NEXT。富岳是世界第一台登顶 TOP500 排行榜的 ARM 超算，性能 415.5 petaflops，2021 年启用，处理器是富士通的 48/52 核 A64FX ARM v8.2-A。富士通公司将负责新超算的基本设计，并将继续为富岳NEXT 研发新处理器，而英伟达将为超算提供 GPU。新超算的计算能力预计将达到 1 Zetta（10 的 21 次方），2030 年前后投入运行。目前 TOP500 排行榜第一的是美国的 El Capitan 超算，使用了 AMD EPYC 处理器，性能 1.742 EFlop/s。",
+          "link": "https://www.solidot.org/story?sid=82120",
+          "publishedOn": "2025-08-22T09:01:18.000Z",
+          "wordCount": 193,
+          "title": "英伟达和富士通联合开发下一代富岳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82119",
+          "author": null,
+          "description": "在数字化时代，寄信过时了，国有丹麦邮政（PostNord）宣布将于年底终止信件递送服务，结束长达四个世纪的送信服务。丹麦邮政将裁掉三分之一员工，专注于盈利的包裹递送业务。公司 CEO Kim Pedersen 说，丹麦人几乎都收不到了信了，这一情况已经持续了多年，他们平均一个月收到一封信，与此同时他们更热衷于网购，丹麦邮政也要跟上电子商务时代。丹麦邮政在 15 年前还运营着几家大的信件分拣中心，如今只剩下哥本哈根西郊的一家。自 2000 年以来，该公司处理的信件数量下降逾九成，从约 14 亿封降至 2024 年的 1.1 亿封，这一趋势还在快速下降。随着丹麦邮政退出送信服务，私有的 DAO 将接手全国的信件投递业务。丹麦是全球数字化最高的国家之一，其程度仅次于韩国。",
+          "link": "https://www.solidot.org/story?sid=82119",
+          "publishedOn": "2025-08-22T08:41:52.000Z",
+          "wordCount": 173,
+          "title": "丹麦邮政终止送信服务",
           "imageUrl": null
         },
         {
@@ -917,136 +997,6 @@
           "publishedOn": "2025-08-14T15:28:17.000Z",
           "wordCount": 166,
           "title": "白宫考虑将对华销售收入上缴模式扩大到其它公司",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82050",
-          "author": null,
-          "description": "金融时报报道，杭州深度探索公司 DeepSeek 在使用华为芯片训练新模型 R2 失败后，已推迟该模型的发布。DeepSeek 在今年 1 月释出了引发广泛关注的 R1 模型，之后它开始了 R2 模型的训练，在有关部门的鼓励下它使用了华为昇腾(Ascend)处理器而不是更成熟也更先进的英伟达 AI 芯片。但在使用昇腾芯片训练 R2 模型的过程中 DeepSeek 持续遭遇技术问题，因此转而使用英伟达芯片训练，使用华为芯片推理。",
-          "link": "https://www.solidot.org/story?sid=82050",
-          "publishedOn": "2025-08-14T13:02:11.000Z",
-          "wordCount": 186,
-          "title": "DeepSeek 的 R2 模型因华为芯片问题推迟发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82049",
-          "author": null,
-          "description": "根据 Economist/YouGov 的调查，美国年轻一代的观众更喜欢加速播放视频和音频。18-29 岁的美国人有 31% 使用 1x 以上的播放速度，而 45 岁及以上人群中该比例仅为 8%。流媒体平台如 Apple、Spotify、Netflix 和 YouTube 都增加了播放速度的选择范围，其中 YouTube 为其付费用户提供了 4x 播放速度。根据滑铁卢大学研究人员的一项元分析（meta-analysis），1.5x 播放速度对测试得分基本没有影响，而 2x 或以上播放速度会导致得分下降。",
-          "link": "https://www.solidot.org/story?sid=82049",
-          "publishedOn": "2025-08-14T11:03:00.000Z",
-          "wordCount": 178,
-          "title": "美国年轻一代更喜欢加速播放视频和音频",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82048",
-          "author": null,
-          "description": "全世界最先进的 AI 模型都来自美国公司，都是私有模型，而中国在开源模型或开放权重模型领域处于领先地位，这令硅谷和华盛顿感到担忧，担心中国的模型可能会成为 AI 行业标准。行业标准并不一定是技术最先进的，易获得性和灵活性也非常重要，比如移动领域的 Android。对很多企业而言，使用开源模型可以对其进行更自由的调控，确保敏感信息不外泄。新加坡华侨银行使用开源模型开发了数十种内部工具，它使用的开源模型包括了 Google 的 Gemma，阿里巴巴的 Qwen 以及杭州深度求索的 DeepSeek。OpenAI 最新发布的开源模型 gpt-oss 在多项测试中不如阿里巴巴的 Qwen3，但 Qwen3 的参数规模几乎是 gpt-oss 的两倍，意味着 Qwen 可能需要消耗更多的算力完成相同的任务。OpenAI表示，gpt-oss 在推理任务上的表现优于同等参数规模的竞争对手，以低成本实现了强大的性能。亚马逊 AWS 表示，gpt-oss 比在其基础设施上运行的 DeepSeek R1 性价比更高。",
-          "link": "https://www.solidot.org/story?sid=82048",
-          "publishedOn": "2025-08-14T09:20:49.000Z",
-          "wordCount": 185,
-          "title": "中国推动开源模型令硅谷和华盛顿担忧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82047",
-          "author": null,
-          "description": "社交媒体没有成为人们曾经期盼的健康的交流思想的乌托邦式的公共广场，而是创造出一种回音室，放大少数用户的声音，放大愤怒和冲突，进一步加剧极化。对社媒平台进行干预是否能缓解或修正部分它产生的问题？根据发表在 arXiv 上的一篇预印本，研究人员测试了六种干预策略，发现基本无效，除非从根本上改变社媒的架构，否则其问题无法得到修正。研究人员测试了对信息流按时间排序或随机排序；逆转促进互动的算法以降低情绪化内容的曝光度；促进观点的多元性；使用“桥接算法”促进相互理解而非煽动情绪的内容；隐藏转发和关注者账户等社交统计数据以减少社交影响力线索；删除个人简介以限制基于身份的信号曝光度。结果显示，部分干预措施只表现出略微改善的效果，部分措施可能进一步恶化了问题。比如对信息流按时间排序减少了注意力不平等，但进一步放大了极端内容。促进观点的多元性没有表现出任何显著的效果。",
-          "link": "https://www.solidot.org/story?sid=82047",
-          "publishedOn": "2025-08-14T07:47:52.000Z",
-          "wordCount": 160,
-          "title": "研究认为社交媒体的问题无法得到修正",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82046",
-          "author": null,
-          "description": "挪威反情报机构负责人 Beate Gangaas 周三表示，俄罗斯黑客今年四月七日短暂控制了一座位于 Bremanger 的水坝，打开了泄洪闸，四个小时后攻击被发现而停止。挪威大部分电力来自水电，情报部门此前曾警告其能源基础设施可能遭受攻击。Gangaas 说，此类攻击的目的是影响民众，在民众中制造恐惧和混乱，我们的俄罗斯邻居变得更危险了。俄罗斯驻奥斯陆大使馆表示，她的声明毫无根据并带有政治动机。",
-          "link": "https://www.solidot.org/story?sid=82046",
-          "publishedOn": "2025-08-14T06:54:30.000Z",
-          "wordCount": 163,
-          "title": "挪威指责俄黑客破坏其水坝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82045",
-          "author": null,
-          "description": "韩国的星巴克顾客正将连锁咖啡店作为远程办公场所，为了限制这种行为，星巴克发布了新政策，要求顾客不要将打印机和台式机等大件物品带到店里。韩国星巴克发言人称，他们仍然欢迎携带笔记本电脑和小型个人设备的顾客，但请顾客不要带台式电脑、打印机或其它可能限制座位并影响共享空间的大件物品。星巴克于 1999 年在韩国首尔开设了第一家门店，尽管韩国人口不到日本的一半，但韩国星巴克门店总数已超过日本达到了 2050 家，而日本只有 2040 家。韩国社会文化学副教授 Jo Elfving-Hwang 说，在星巴克远程办公相当便宜，但有些人走得太极端了。",
-          "link": "https://www.solidot.org/story?sid=82045",
-          "publishedOn": "2025-08-14T06:16:30.000Z",
-          "wordCount": 166,
-          "title": "韩国星巴克要求顾客不要将打印机和台式机带到店里",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82044",
-          "author": null,
-          "description": "根据发表在《European Journal of Neuroscience》期刊上的一项研究，猫痴呆症与人类阿尔茨海默病之间有着惊人的相似性。爱丁堡大学的研究人员对 25 只死前出现痴呆症症状的猫进行了大脑检查，发现猫的脑部积聚了 β淀粉样蛋白，该蛋白也是人类阿尔茨海默病的典型特征之一。研究人员认为，猫可以作为研究痴呆症/阿尔茨海默病的完美模型，探索新的疗法，也有助于理解和管理猫的痴呆症。",
-          "link": "https://www.solidot.org/story?sid=82044",
-          "publishedOn": "2025-08-14T06:04:57.000Z",
-          "wordCount": 163,
-          "title": "猫的痴呆症与人类相似",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82043",
-          "author": null,
-          "description": "2008 年 5 月 12 日发生的汶川大地震造成逾 6.9 万人遇难，根据发表在《自然》期刊上的一项研究，这场大地震的后续影响持续了至少十几年。汶川地震将大量岩石和土壤冲入当地溪流与河流。河流带走的地震沉积物流量分为两类：悬浮在水中的细颗粒沉积物，称为悬移质；沿河床滚动或跳跃前行的粗颗粒物质（砾石至巨石），称为推移质（bedload）。科学家早已发现，地震后悬移质流量会增加。但这只是部分事实。研究团队发现，汶川地震后岷江的总沉积物流量增长了 6 倍，而推移质流量更是增加了 20 倍。这意味着，地震后河流中约 65% 的沉积物是推移质，而在同等规模的山地河流中，这一比例通常只有 20% 左右。这一高流量状态至少持续了十年——研究人员发表论文前最后一次实地观测时依然如此。大地震后续影响持续的时间超出了预期。这意味着灾难之后在原地按原有方式重建是不明智的，因为风险不仅没有降低，反而因地形改变而增加。被淤积的河道已无法承受原来其或许可以承受的十年一遇洪水。",
-          "link": "https://www.solidot.org/story?sid=82043",
-          "publishedOn": "2025-08-14T05:51:44.000Z",
-          "wordCount": 173,
-          "title": "地震的长尾效应",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82042",
-          "author": null,
-          "description": "路透社报道，美国在 AI 芯片货物中装定位追踪器，以跟踪货物是否被转运至受美国出口管制的国家和地区。追踪器被用在戴尔、超微等厂商的服务器货物中，这些服务器搭载了英伟达和 AMD 的 AI 芯片。追踪设备通常被隐藏在服务器包装中。美国于 2022 年出台了针对英伟达、AMD 等厂商高性能 AI 芯片的出口限制,执法部门使用追踪设备也并非首次，这一做法可追溯至数十年前。",
-          "link": "https://www.solidot.org/story?sid=82042",
-          "publishedOn": "2025-08-14T03:47:13.000Z",
-          "wordCount": 180,
-          "title": "美国 在 AI 芯片货物中装定位追踪器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82041",
-          "author": null,
-          "description": "人民日报报道，中国疾控中心性病艾滋病预防控制中心研究员刘中夫介绍，目前疾控系统通过应用多病共检专病提报系统，从流入地和流出地加大艾滋、乙肝、丙肝和梅毒的筛查的工作力度，身份证信息中已关联覆盖上述四种疾病的确诊提示，各地均可查询。",
-          "link": "https://www.solidot.org/story?sid=82041",
-          "publishedOn": "2025-08-14T03:35:37.000Z",
-          "wordCount": 157,
-          "title": "身份证关联疾病信息",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82040",
-          "author": null,
-          "description": "对 1609 个美国城市里 5424 名在 3 年观察期中至少搬迁了一次的个体的手机数据的分析显示，从一个不太适宜步行的区域搬到一个更适宜步行的地方，会让身体活动增加，反之亦然。178 人从评分 48/100 的城市搬到纽约市（评分 89/100）后，他们的身体活动水平从平均每天 5600 步增加到了 7000 步，增幅达 1400 步。这一效应对于反向迁移的参与者也同样成立。这些观察结果在不同性别、年龄和身体质量指数（BMI）的人群中均保持一致。研究人员预测，步行友好城市有助于提升当地居民的有氧活动水平。",
-          "link": "https://www.solidot.org/story?sid=82040",
-          "publishedOn": "2025-08-13T16:02:56.000Z",
-          "wordCount": 175,
-          "title": "步行友好的城市增加居民的步行次数",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82039",
-          "author": null,
-          "description": "马斯克(Elon Musk)威胁对苹果采取法律行动，指控苹果操纵 App Store 排名，偏袒 ChatGPT 而非 Grok。马斯克声称苹果的行为使得除 OpenAI 之外没有其它 AI 公司能登顶 App Store 排行榜。这一指控并不正确，\n今年曾有两款 AI 应用短时间内超越 ChatGPT：中国的 Deepseek 以及 Perplexity。苹果没有回应马斯克的指控，但 OpenAI 回应了，OpenAI CEO Sam Altman 援引 Platformer 的报道称，埃隆马斯克构建了一个特殊系统确保他的帖子在 X 上被用户优先看到，他操纵 X 为自己和公司谋利，损害竞争对手和他不喜欢的人的利益。",
-          "link": "https://www.solidot.org/story?sid=82039",
-          "publishedOn": "2025-08-13T15:48:32.000Z",
-          "wordCount": 206,
-          "title": "马斯克威胁苹果，想要提高其 AI 应用 Grok 的排名",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82038",
-          "author": null,
-          "description": "Google 向美国和印度用户推出名为“Preferred Sources”的新功能，允许用户从搜索结果中选择自己喜欢的新闻网站和博客，之后用户会在搜索结果中看到更多来自自己喜欢内容源的内容。但 Google 此举被认为和社交平台算法类似，限制用户的选择，将用户困住回音室里，而高质量的搜索结果需要的是更多元化的内容源，而不是更少的内容源。用户搜索需要的不是偏爱的内容源，而是减少低质量的内容源，用黑名单限制低质量内容源。",
-          "link": "https://www.solidot.org/story?sid=82038",
-          "publishedOn": "2025-08-13T15:15:36.000Z",
-          "wordCount": 165,
-          "title": "Google 允许美国印度用户选择他们喜欢的内容来源",
           "imageUrl": null
         }
       ]
