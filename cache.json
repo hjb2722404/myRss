@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/uwp-onenote-for-windows-10-close/",
+          "author": "青小蛙",
+          "description": "OneNote for Windows 10 是一款 UWP（通用 Windows 平台）软件，比较适合于触摸屏设备。微软已经确认：从 10 月 14 日起，OneNote for Windows 10 将终止支持。@Appinn 10 月 14 日之后，Windows 10 版 OneNote 将",
+          "link": "https://www.appinn.com/uwp-onenote-for-windows-10-close/",
+          "publishedOn": "2025-08-24T07:00:45.000Z",
+          "wordCount": 2764,
+          "title": "UWP 版 OneNote for Windows 10 应用将于 2025 年 10 月 14 日退役，请及时同步数据，并更换新版本",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-24T145232.985.jpg"
+        },
+        {
           "id": "https://www.appinn.com/mijia-ios-control-center/",
           "author": "青小蛙",
           "description": "米家 App 在四天前（2025年8月18日）进行了版本更新（10.9.200），新增在 iOS 控制中心添加“米家”设备功能。从此无需打开应用本身，直接下拉屏幕打开控制中心，即可操作米家智能设备。@Appinn 你需要先将 iOS 版本的米家更新至最新的 10.9.200 版本，然后就可以使用这个",
@@ -125,16 +135,6 @@
           "wordCount": 2624,
           "title": "约时间助理 – 时间管理大师！为多人集体活动找到共同空闲时间[微信小程序]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-16T155309.845.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/canarytoken/",
-          "author": "青小蛙",
-          "description": "CanaryToken 是一个非常有趣的服务，它提供了 29 种常见的蜜罐陷阱，包括 Windows 文件夹、运行指定程序、打开 PDF 文档、Word/Excel 文件、图片、二维码，以及网络蜜罐：",
-          "link": "https://www.appinn.com/canarytoken/",
-          "publishedOn": "2025-08-15T09:35:00.000Z",
-          "wordCount": 3013,
-          "title": "CanaryToken – 29 种蜜罐陷阱！同事偷看我文件后，他的IP就自动’投案’到我邮箱了",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-15T170900.787.jpg"
         }
       ]
     },
@@ -177,26 +177,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/07/bulging-text.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388219",
-          "author": "Geoff Graham",
-          "description": "Short story: Slapping hidden=until-found on an element in HTML enables any hidden content within the element to be findable in the browser with in-page search.\nCovering hidden=until-found originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/covering-hiddenuntil-found/",
-          "publishedOn": "2025-08-15T12:55:36.000Z",
-          "wordCount": 2466,
-          "title": "Covering hidden=until-found",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/10/in-page-search.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=388774",
-          "author": "Geoff Graham",
-          "description": "It's easy to take URL superpowers for granted, even if you already have these patterns under your belt.\nA Few Things About the Anchor Element’s href You Might Not Have Known originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/a-few-things-about-the-anchor-elements-href-you-might-not-have-known/",
-          "publishedOn": "2025-08-15T12:26:00.000Z",
-          "wordCount": 1796,
-          "title": "A Few Things About the Anchor Element’s href You Might Not Have Known",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/07/link-pattern.png"
         }
       ]
     },
@@ -221,24 +201,53 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11807",
-          "author": "张 鑫旭",
-          "description": "纯CSS现在可以检测是否滚动到容器边缘，Scroll Snap边缘，以及sticky元素是否触及定位的边缘了，这个特性还挺实用的。",
-          "link": "https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/",
-          "publishedOn": "2025-08-15T10:15:51.000Z",
-          "wordCount": 1461,
-          "title": "这个有点屌CSS @container scroll-state容器滚动查询",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=82133",
+          "author": null,
+          "description": "新西兰空管系统上周末因软件故障罢工一小时，干扰了机场的正常运作，有五架飞机在空中盘旋，四架飞机无法起飞。新西兰唯一的空管服务商 Airways 表示问题是因为软件故障导致飞行数据无法在系统之间传输。Airways CEO James Young 表示，在发现问题之后，空中交通管制员立即采取了措施，飞机要么在地面等待，要么在空中等待。Airways 的空管系统有备份系统，但 Young 表示无法即时切换到备份系统，验证飞行信息数据需要时间。故障持续了大约一个小时，期间在空中盘旋的飞机有两架继续飞行，三架重返了起飞地。",
+          "link": "https://www.solidot.org/story?sid=82133",
+          "publishedOn": "2025-08-24T14:10:15.000Z",
+          "wordCount": 167,
+          "title": "新西兰空管系统因软件故障罢工一小时",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82132",
+          "author": null,
+          "description": "数学家张益唐称他是因为政治气候从美国回到中国。张益唐是在今年六月离开加州圣巴巴拉，受聘于中山大学香港高等研究院，在大湾区定居和工作。张证明了存在无穷多对间隙小于 7000 万的相邻素数对，在数学史上第一次实质性推进解决著名数论难题“孪生素数猜想”，并在与黎曼猜想有关的朗道-西格尔零点猜想上取得重要进展。他表示有很多华裔学者和教授回到了中国。他说自己所处的数学领域没有受到多少政治气候的影响，但计算机、芯片或任何与军工相关的研究人员需要小心。他称，数学，尤其是理论数学，一大优势是展开研究不必局限于特定地点。",
+          "link": "https://www.solidot.org/story?sid=82132",
+          "publishedOn": "2025-08-24T13:43:59.000Z",
+          "wordCount": 160,
+          "title": "张益唐称他因为政治气候从美国回到中国",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82131",
+          "author": null,
+          "description": "被裁前在前雇主 IT 系统植入恶意程序和设立关闭开关的开发者 Davis Lu 被判四年监禁以及三年的监督释放。美国司法部称，2018 年 Davis Lu 任职的 Eaton Corporation 进行了重组，他遭到了降级。他随后在公司 Windows 生产环境中植入恶意代码进行报复。该恶意程序包含了一个无限的 Java 线程循环，旨在拖垮服务器，导致生产系统崩溃。Lu 还创建了一个过于明显的关闭开关：IsDLEnabledinAD (\"Is Davis Lu enabled in Active Directory\") ，当 Active Directory 中他的账户被禁用，关闭开关将会激活禁用所有用户的账户。2019 年 9 月 9 日，Lu 的雇佣关系终止，账户被禁用后关闭开关激活，数千名用户被锁定在系统外。此事导致雇主损失了数十万美元。在 Lu 被要求上缴公司发的笔记本电脑前，他删除了其中的加密数据。调查人员后来从设备上发现了他的搜索查询记录，包括搜寻如何提权，隐藏进程以及快速删除文件。",
+          "link": "https://www.solidot.org/story?sid=82131",
+          "publishedOn": "2025-08-23T15:29:47.000Z",
+          "wordCount": 201,
+          "title": "为前雇主 IT 系统设立关闭开关的开发者被判四年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82130",
+          "author": null,
+          "description": "OpenAI 正致力于取代 Google，而它依赖的搜索数据却来自搜索巨人。Theinformation 报道，OpenAI 通过使用从 Web 抓取的 Google 搜索数据去增强聊天机器人 ChatGPT 的响应能力。当用户通过 ChatGPT 查询时事如新闻、体育和股市时，Google 搜索数据能提供巨大的帮助。OpenAI 使用的数据来自 Web 抓取公司 SerpApi。去年 SerpApi 还在网站上列出 OpenAI 是其客户，但后来将其删除了。",
+          "link": "https://www.solidot.org/story?sid=82130",
+          "publishedOn": "2025-08-23T15:03:27.000Z",
+          "wordCount": 195,
+          "title": "OpenAI 用 Google 搜索数据挑战 Google",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=82129",
           "author": null,
@@ -877,126 +886,6 @@
           "publishedOn": "2025-08-15T15:52:27.000Z",
           "wordCount": 213,
           "title": "维基百科历史上最大规模的自我推销行动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82062",
-          "author": null,
-          "description": "Google 今年初发布了首批 Gemma 3 开源（或开放权重）模型，其参数规模从 10 亿到 270 亿个参数不等。现在 Google 发布了一个更紧凑的 Gemma 3 版本，其参数规模仅为 2.7 亿，Gemma 3 270M 能在智能手机甚至能在浏览器上运行。在 Pixel 9 Pro 智能手机上进行的测试显示，Gemma 3 270M 在 Tensor G4 上执行 25 次对话，仅消耗 0.75% 的电力，它是至今最高效的 Gemma 3 版本。Gemma 3 270M 在 IFEval 测试中的得分 51.2%，高于其它参数规模更多的轻量级模型，略逊于参数规模超过 10 亿的 Llama 3.2 版本。",
-          "link": "https://www.solidot.org/story?sid=82062",
-          "publishedOn": "2025-08-15T14:42:42.000Z",
-          "wordCount": 219,
-          "title": "Google 发布紧凑型开源模型 Gemma 3 270M",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82061",
-          "author": null,
-          "description": "经济合作与发展组织（OECD）的一份报告发现，在其 38 个成员国中，65-69 岁的人群在 2023 年仍有 28.9% 在工作，而 2000 年这一比例只有 15.9%。这种现象对人们幸福感的影响尚不明确。为了研究这一课题，以色列海法大学的研究人员查看了以色列中央统计局收集的社会调查数据。随后他们比较了 3300 多名女性和 2000 多名男性的经历，这些人都已经达到了以色列的退休年龄（女性62岁，男性67岁）。他们发现，如果家庭收入较低，男性和女性都更有可能从事全职工作。但是从事全职工作的男性对自己在经济、家庭、情绪和整体生活上的满意度和不工作的男性一样高，甚至更高。无论男性从事的是哪种全职工作，结果都是如此。与此同时，女性只有在从事专业、技术或管理类工作时，家庭和经济满意度才会有所提升。在评估从事兼职工作的研究对象的幸福感时，研究结果更加复杂，幸福感会随着工作类型和衡量方式以及研究对象是男是女而有所不同。初始幸福感较强的人可能更倾向于晚年从事全职工作，这可能会影响研究结果。",
-          "link": "https://www.solidot.org/story?sid=82061",
-          "publishedOn": "2025-08-15T14:08:16.000Z",
-          "wordCount": 172,
-          "title": "退休后继续工作与更高的幸福度相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82060",
-          "author": null,
-          "description": "距离地球最近的恒星系统半人马座 α星（Alpha Centauri 或南门二）可能存在一颗气态巨行星。若确认属实，这将是距离地球最近、环绕类太阳恒星且位于适居带的行星，尽管它不适合生命发展，但其存在将挑战我们对行星在混乱环境中形成、存活与演化的理解。半人马座 α星是三星系统，长久以来常见于科幻作品，例如《阿凡达》的潘多拉星球与《三体》的剧情设定。它也被视为人类未来跨星际旅行的目标，甚至被描绘成孕育生命的行星家园，但现实或许与想像有所差距。半人马座 α 包括半人马座α星A、半人马座α星B 和半人马座α星C（aka 比邻星）。比邻星被确认拥有三颗行星，其它两颗未知，现在韦伯望远镜发现半人马座α星A 可能存在一颗土星大小的气态巨行星。若确认属实，该行星将成为距离地球最近的环绕类太阳恒星且位于适居带的行星，但由于它是气态巨行星，科学家认为不可能支持我们所知的生命型态。",
-          "link": "https://www.solidot.org/story?sid=82060",
-          "publishedOn": "2025-08-15T14:01:52.000Z",
-          "wordCount": 175,
-          "title": "半人马座 α 星可能存在一颗气态巨行星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82059",
-          "author": null,
-          "description": "彭博社报道，特朗普政府考虑入股英特尔以支持美国制造。英特尔股价周四上涨 7%。英特尔是唯一一家能在美国本土生产先进芯片的美国公司，虽然它的竞争对手台积电和三星都在美国有工厂。美国总统特朗普呼吁在美国生产更多芯片和高科技产品，政府入股将有助于资助英特尔正在俄亥俄州建造的工厂。",
-          "link": "https://www.solidot.org/story?sid=82059",
-          "publishedOn": "2025-08-15T13:38:51.000Z",
-          "wordCount": 159,
-          "title": "特朗普政府考虑入股英特尔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82058",
-          "author": null,
-          "description": "印度取代中国成为世界电子制造工厂的蓝图有一个显著的特征：整座印度大厦需要中国公司提供技术架构、制造技术和运营模板。以 Dixon Technologies 为例，该公司与越来越多的中国合作伙伴合作打造印度的电子产品制造能力：龙旗科技提供设计智能，昆山丘钛科技提供摄像头模组专业知识，重庆宇海提供精密模塑部件，惠科电子（HKC）提供显示技术。这种依赖模式已成为印度电子制造业发展的组织原则。现阶段的结构中，中国公司保留了对关键知识的控制权，印度合作伙伴则提供劳动力套利和监管流程。印度与其说在构建中国制造业的替代，不如说是在建造中国制造业的最复杂子公司，由印度纳税人承担，以国家复兴为宣传口号。分析人士将这一战略称为“中国加一”。",
-          "link": "https://www.solidot.org/story?sid=82058",
-          "publishedOn": "2025-08-15T10:52:32.000Z",
-          "wordCount": 160,
-          "title": "现阶段的印度越南制造还只是中国加一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82057",
-          "author": null,
-          "description": "微软 Windows 部门主管 Pavan Davuluri 在一则公司视频中表示，随着 AI 彻底改变用户与计算机的交互方式，下一代 Windows 将变得“更具环境感、更普适、更多模态（more ambient, pervasive, and multi-modal）”。Davuluri 表示，语音将与键盘和鼠标一起成为 Windows 主要的输入方式，操作系统将具有情境感知功能，通过自然语言理解屏幕内容和用户意图。他表示，随着平台日益智能化，Windows 界面将在五年内发生根本性的变化。这种转变将依赖于本地处理能力和云计算能力去提供无缝的体验，用户可以在打字或墨迹式画图的同时与计算机对话。",
-          "link": "https://www.solidot.org/story?sid=82057",
-          "publishedOn": "2025-08-15T09:11:36.000Z",
-          "wordCount": 182,
-          "title": "微软高管称语音将成为下一代 Windows 的主要输入方式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82056",
-          "author": null,
-          "description": "根据发表在 PNAS 期刊上的一项研究，马里兰大学医学院研究人员利用来自 Paraburkholderia xenovorans 细菌的天然蛋白 RcoM，该蛋白能感知环境中的微量一氧化碳，研究人员在 RcoM 基础上设计出名为 RcoM-HBD-CCC 的分子海绵，能选择性的与有毒一氧化碳分子结合，忽略氧气 (O2)和调控血压的一氧化氮 (NO)。对小鼠研究显示，RcoM-HBD-CCC 能在几分钟内清除血液中的一氧化碳，通过尿液安全排出体外。这种解毒剂就像海绵一样寻找并吸收附在红细胞上的一氧化碳。在小鼠体内，血液中半数的一氧化碳在不到一分钟内就清除掉了，释放出细胞上的血红蛋白，使其能再次携带氧气。其它现有的基于蛋白质的解毒剂无法选择性靶向一氧化碳分子，也会结合一氧化氮，会引起血压变化。",
-          "link": "https://www.solidot.org/story?sid=82056",
-          "publishedOn": "2025-08-15T07:45:47.000Z",
-          "wordCount": 171,
-          "title": "一氧化碳新解毒剂能在数分钟内清理血液",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82055",
-          "author": null,
-          "description": "随着美国科技巨头如亚马逊、Google 和微软建造数据中心向能源领域进一步渗透，美国居民和小型企业的电费可能会大幅上涨。数据显示，由于数据中心的电力需求，自 6 月起俄亥俄州家庭每月电费至少上涨了 15 美元。卡内基梅隆大学和北卡罗来纳州立大学的分析预测，由于数据中心的电费需求，到 2030 年美国平均电费将上涨 8%。而弗吉尼亚州电费涨幅可能达到 25%，到 2030 年该州居民每年可能要额外支付 276 美元。自 2020 年以来，美国居民电费已上涨逾 30%。美国科技公司的 AI 数据中心电力消耗在 2023 年占到了美国总电力消耗的逾 4%，分析师预测该比例将在三年内达到 12%。",
-          "link": "https://www.solidot.org/story?sid=82055",
-          "publishedOn": "2025-08-15T07:17:55.000Z",
-          "wordCount": 183,
-          "title": "AI 数据中心推动美国居民电费全面上涨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82054",
-          "author": null,
-          "description": "根据发表在《Journal of Biological Physics and Chemistry》上的一项研究，80 年前广岛和长崎核爆辐射的初期幸存者中，不到 1% 的人已经死于或将死于癌症。据估计到 1945 年底，广岛约有 14 万人、长崎约有 7.4 万人死于爆炸冲击波、高温和急性放射性中毒。高剂量辐射暴露会增加罹患癌症的风险。布里斯托尔(Bristol)大学的风险管理学教授 Philip Thomas 估计 32.4 万名幸存者中只有约 3100 人已经或将会死于辐射诱发的白血病或实体瘤。根据日本厚生劳动省的数据，目前仍有 99130 名原爆幸存者，其中 4738 人被认为有资格获得因辐射引起的疾病的特殊医疗补助。伦敦癌症研究所癌症流行病学教授 Amy Berrington 对这一研究表示，电离辐射风险是复杂的问题，有些人会夸大，还有人则试图轻描淡写，Thomas 的研究与此前的研究总体上是一致的。她表示需要谨慎推广这一结论，而好消息是辐射没有跨代健康影响。",
-          "link": "https://www.solidot.org/story?sid=82054",
-          "publishedOn": "2025-08-15T05:23:30.000Z",
-          "wordCount": 187,
-          "title": "广岛和长崎核爆幸存者死于辐射致癌的比例比预期的低",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82053",
-          "author": null,
-          "description": "去年发布的 Linux 6.13 正式移除了 ReiserFS 文件系统，但它的痕迹并没有完全清除掉。SUSE 开发者 David Sterba 在内核文档和部分工具中发现 ReiserFS 的残留后，发出补丁清除 ReiserFS 在内核的最后残余。ReiserFS 已经移除，因此内核文档中提到 ReiserFS 的部分也需要删除。唯一的例外是 ReiserFS R5 哈希函数，它仍然被部分内核代码使用。Reiser4 文件系统代码目前无人维护，Hans Reiser 在内核文件系统的时代彻底结束。",
-          "link": "https://www.solidot.org/story?sid=82053",
-          "publishedOn": "2025-08-14T16:02:18.000Z",
-          "wordCount": 183,
-          "title": "ReiserFS 在内核的最后残余被清除",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82052",
-          "author": null,
-          "description": "俄罗斯周三宣布了加强互联网管控的最新举措：限制即时通讯应用 Telegram 和 WhatsApp 的语音呼叫功能。媒体和互联网监管机构 Roskomnadzor 声称此举是为了打击网络犯罪，称 Telegram 和 WhatsApp 的语音服务被用于诈骗和勒索钱财，以及用于破坏和恐怖活动。俄罗斯今年夏天还限制了手机互联网接入，坚称是为了阻止乌克兰的无人机攻击，官员表示克里米亚的移动网络关闭将会无限期持续下去。在正式宣布限制 Telegram 和 WhatsApp 的语音呼叫功能前，这些应用的用户已经开始报告语音服务出现中断。WhatsApp 是俄罗斯最受欢迎的即时消息平台，月活跃用户超过 9600 万。Telegram 月活跃用户超过 8900 万。",
-          "link": "https://www.solidot.org/story?sid=82052",
-          "publishedOn": "2025-08-14T15:45:30.000Z",
-          "wordCount": 194,
-          "title": "俄罗斯限制 Telegram 和 WhatsApp 的语音呼叫功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82051",
-          "author": null,
-          "description": "美国白宫发言人 Karoline Leavitt 表示，政府仍然在制定英伟达和 AMD 上缴对华 AI 芯片销售收入 15% 的细节，并且政府还在考虑将这一上缴模式推广到其它公司。此举可能导致依赖对华出口的企业承担巨额负担，或者这些企业被迫脱钩。律师和专家警告，监管政府如何对出口许可证收取费用的现行法律可能导致这一交易复杂化。",
-          "link": "https://www.solidot.org/story?sid=82051",
-          "publishedOn": "2025-08-14T15:28:17.000Z",
-          "wordCount": 166,
-          "title": "白宫考虑将对华销售收入上缴模式扩大到其它公司",
           "imageUrl": null
         }
       ]
