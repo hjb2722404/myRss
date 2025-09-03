@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/i-dont-have-spotify/",
+          "author": "青小蛙",
+          "description": "这真的是一个有趣的网站：I Don’t Have Spotify（我没有 Spotify） 它提供了一个输入框，将你不知道从哪里得到的 Spotify 分享链接填进去，然后就能获得其他平台的链接。 比如：输入老歌吻别的链接： 它返回了 Apple Music、YouTube Music",
+          "link": "https://www.appinn.com/i-dont-have-spotify/",
+          "publishedOn": "2025-09-02T09:06:01.000Z",
+          "wordCount": 2672,
+          "title": "这是一个有趣的网站：我没有 Spotify",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/09/Copy-of-appinn-homework-2025-09-02T170040.483.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/rovo-dev-cli/",
+          "author": "青小蛙",
+          "description": "Rovo Dev CLI 是一款与 Claude Code 功能类似的命令行 AI 开发者助手，可以在终端中帮你编程、修改代码。目前提供 Claude Sonnet 4、GPT-5 两种模型，每天免费 2000 万 Token。@Appinn Rovo Dev CLI 是 Atlassian 推出工",
+          "link": "https://www.appinn.com/rovo-dev-cli/",
+          "publishedOn": "2025-09-02T07:16:04.000Z",
+          "wordCount": 3313,
+          "title": "Rovo Dev CLI – 可使用 Claude Sonnet 4、GPT-5 的免费 Claude Code，每天 2000 万 Token",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/09/Copy-of-appinn-homework-2025-09-02T135819.098.jpg"
+        },
+        {
           "id": "https://www.appinn.com/windows-taskbar-seconds-power/",
           "author": "青小蛙",
           "description": "摘要：最近看到一个测试，对比测试 Windows 系统托盘中是否显示秒数，观察电量消耗程度。万万没想到，显示秒数，真的会让你的电脑续航下降！原文链接：https://www.appinn.com/windows-taskbar-seconds-power/ 测试来自 lttlabs。 在 Windo",
@@ -80,16 +100,6 @@
           "wordCount": 2655,
           "title": "KCC – 将图片、漫画转换为电子书，支持自动优化排版，适配 Kindle、Kobo 等设备",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-25T173714.576.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/uwp-onenote-for-windows-10-close/",
-          "author": "青小蛙",
-          "description": "OneNote for Windows 10 是一款 UWP（通用 Windows 平台）软件，比较适合于触摸屏设备。微软已经确认：从 10 月 14 日起，OneNote for Windows 10 将终止支持。@Appinn 10 月 14 日之后，Windows 10 版 OneNote 将",
-          "link": "https://www.appinn.com/uwp-onenote-for-windows-10-close/",
-          "publishedOn": "2025-08-24T07:00:45.000Z",
-          "wordCount": 2764,
-          "title": "UWP 版 OneNote for Windows 10 应用将于 2025 年 10 月 14 日退役，请及时同步数据，并更换新版本",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/08/Copy-of-appinn-homework-2025-08-24T145232.985.jpg"
         }
       ]
     },
@@ -98,6 +108,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=388888",
+          "author": "Sunkanmi Fafowora",
+          "description": "The light-dark() function is currently designed to support just two color schemes. Should it support others? Sunkanmi Fafowora says yes and no.\nShould the CSS light-dark() Function Support More Than Light and Dark Values? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/should-the-css-light-dark-function-support-more-than-light-and-dark-values/",
+          "publishedOn": "2025-09-02T14:44:26.000Z",
+          "wordCount": 2903,
+          "title": "Should the CSS light-dark() Function Support More Than Light and Dark Values?",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/08/light-dark.webp"
+        },
         {
           "id": "https://css-tricks.com/?p=388637",
           "author": "Christian Sabourin",
@@ -184,6 +204,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=82201",
+          "author": null,
+          "description": "对于席卷硅谷的 AI 人才争夺战，亚马逊基本上是袖手旁观。根据电商巨头 HR 团队去年底撰写的一份内部文件，总结了在 AI 人才招聘上的不利因素，包括地理位置、薪酬以及在 AI 领域明显落后等。相比下竞争对手则通常会提供更全面、更激进的薪酬待遇。亚马逊以节俭著称。它的一个起源故事是从家得宝（Home Depot）购买廉价门然后将其改装成办公桌。据说 Jeff Bezos 至今仍在使用这种改装过的办公桌。",
+          "link": "https://www.solidot.org/story?sid=82201",
+          "publishedOn": "2025-09-02T07:30:12.000Z",
+          "wordCount": 177,
+          "title": "亚马逊基本上未参与 AI 人才争夺战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82200",
+          "author": null,
+          "description": "根据 Institute for Family Studies 的研究报告《The Sex Recession》，美国人性生活频率处于历史最低水平，甚至低于新冠疫情期间。研究人员分析了芝加哥大学全国民意研究中心 (NORC)最新调查报告 General Social Survey 中有关性和亲密关系的数据。调查数据于 2024 年收集，今年五月公布。结果显示，只有 37% 的 18-64 岁人群每周至少有一次性生活，低于 1990 年的 55%。年轻人中间的下降幅度更为惊人：近四分之一或 24% 的 18-29 岁人群表示过去一年没有性生活；这一数字是 2010 年的两倍。研究表明，性生活下降的趋势适用于 64 岁以下所有性取向的人群，无论已婚还是单身。研究人员表示，大于 64 岁的人群性生活次数没有显著变化，主要是因为该群体报告的性生活频率本来就较低。",
+          "link": "https://www.solidot.org/story?sid=82200",
+          "publishedOn": "2025-09-02T06:55:26.000Z",
+          "wordCount": 189,
+          "title": "美国人性生活频率处于历史最低水平",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82199",
+          "author": null,
+          "description": "无数企业都在尝试生成式 AI，但试用过的人都知道 AI 很难产生能直接使用的令人满意的最终产品，于是出现了雇佣人类调试和修改 AI 生成内容的新职业。自由职业者表示此类工作的报酬比不上其专业领域的传统零工，但一部分人表示这至少能帮助他们支付账单。自由职业平台 Upwork、Freelancer 和 Fiverr 的最新数据表明，此类创意工作的需求在激增。客户也日益希望找到能与 AI 技术协同工作，不完全依赖或拒绝 AI 的人。AI 辅助编程（vibe coding）日益流行，但企业发现此类工具无法达到他们预想的效果，企业仍然需要人类程序员，以避免辅助编程带来的麻烦。印度程序员 Harsh Kumar 说，客户使用 AI 辅助编程产生的网站或应用常常不稳定或无法使用。",
+          "link": "https://www.solidot.org/story?sid=82199",
+          "publishedOn": "2025-09-02T06:03:56.000Z",
+          "wordCount": 185,
+          "title": "企业雇佣人类让 AI 垃圾不那么糟糕",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=82198",
           "author": null,
@@ -782,36 +832,6 @@
           "publishedOn": "2025-08-25T05:29:00.000Z",
           "wordCount": 185,
           "title": "小肯尼迪要求撤回一篇疫苗研究论文，期刊拒绝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82133",
-          "author": null,
-          "description": "新西兰空管系统上周末因软件故障罢工一小时，干扰了机场的正常运作，有五架飞机在空中盘旋，四架飞机无法起飞。新西兰唯一的空管服务商 Airways 表示问题是因为软件故障导致飞行数据无法在系统之间传输。Airways CEO James Young 表示，在发现问题之后，空中交通管制员立即采取了措施，飞机要么在地面等待，要么在空中等待。Airways 的空管系统有备份系统，但 Young 表示无法即时切换到备份系统，验证飞行信息数据需要时间。故障持续了大约一个小时，期间在空中盘旋的飞机有两架继续飞行，三架重返了起飞地。",
-          "link": "https://www.solidot.org/story?sid=82133",
-          "publishedOn": "2025-08-24T14:10:15.000Z",
-          "wordCount": 167,
-          "title": "新西兰空管系统因软件故障罢工一小时",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82132",
-          "author": null,
-          "description": "数学家张益唐称他是因为政治气候从美国回到中国。张益唐是在今年六月离开加州圣巴巴拉，受聘于中山大学香港高等研究院，在大湾区定居和工作。张证明了存在无穷多对间隙小于 7000 万的相邻素数对，在数学史上第一次实质性推进解决著名数论难题“孪生素数猜想”，并在与黎曼猜想有关的朗道-西格尔零点猜想上取得重要进展。他表示有很多华裔学者和教授回到了中国。他说自己所处的数学领域没有受到多少政治气候的影响，但计算机、芯片或任何与军工相关的研究人员需要小心。他称，数学，尤其是理论数学，一大优势是展开研究不必局限于特定地点。",
-          "link": "https://www.solidot.org/story?sid=82132",
-          "publishedOn": "2025-08-24T13:43:59.000Z",
-          "wordCount": 160,
-          "title": "张益唐称他因为政治气候从美国回到中国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82131",
-          "author": null,
-          "description": "被裁前在前雇主 IT 系统植入恶意程序和设立关闭开关的开发者 Davis Lu 被判四年监禁以及三年的监督释放。美国司法部称，2018 年 Davis Lu 任职的 Eaton Corporation 进行了重组，他遭到了降级。他随后在公司 Windows 生产环境中植入恶意代码进行报复。该恶意程序包含了一个无限的 Java 线程循环，旨在拖垮服务器，导致生产系统崩溃。Lu 还创建了一个过于明显的关闭开关：IsDLEnabledinAD (\"Is Davis Lu enabled in Active Directory\") ，当 Active Directory 中他的账户被禁用，关闭开关将会激活禁用所有用户的账户。2019 年 9 月 9 日，Lu 的雇佣关系终止，账户被禁用后关闭开关激活，数千名用户被锁定在系统外。此事导致雇主损失了数十万美元。在 Lu 被要求上缴公司发的笔记本电脑前，他删除了其中的加密数据。调查人员后来从设备上发现了他的搜索查询记录，包括搜寻如何提权，隐藏进程以及快速删除文件。",
-          "link": "https://www.solidot.org/story?sid=82131",
-          "publishedOn": "2025-08-23T15:29:47.000Z",
-          "wordCount": 201,
-          "title": "为前雇主 IT 系统设立关闭开关的开发者被判四年",
           "imageUrl": null
         }
       ]
