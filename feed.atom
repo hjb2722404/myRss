@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-09-22T03:04:51.460Z</updated>
+    <updated>2025-09-23T02:55:19.087Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multi-Kernel 架构支持代码公开]]></title>
+        <id>https://www.solidot.org/story?sid=82386</id>
+        <link href="https://www.solidot.org/story?sid=82386"/>
+        <updated>2025-09-22T16:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Multikernel Technologies 公司的 Cong Wang 公布了代码递交了 RFC。代码为 Linux 内核加入多内核架构支持，让多个独立内核实例能在一台物理机器上共存并通信，每个内核实例能在专用 CPU 核心上运行，共享底层硬件资源。Multikernel Technologies 公司承诺将采用社区优先的开发方法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tails 7.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=82385</id>
+        <link href="https://www.solidot.org/story?sid=82385"/>
+        <updated>2025-09-22T16:20:02.000Z</updated>
+        <summary type="html"><![CDATA[能通过 U 盘运行的便捷式匿名发行版 Tails 释出了 7.0 版本。Tails 7.0 是基于 Linux 6.12.43、Debian 13 ("trixie") 和 GNOME 48 的首个版本，使用 z std 而不是 xz 压缩 USB 和 ISO 镜像，实现了更快的启动速度。开发者将 Tails 7.0 献给 Tails、Tor 和 Debian 项目的资深开发者 Jérémy Bobbio aka Lunar——他于 2024 年 11 月 8 日去世。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BlockBlasters 游戏补丁被发现含有恶意程序]]></title>
+        <id>https://www.solidot.org/story?sid=82384</id>
+        <link href="https://www.solidot.org/story?sid=82384"/>
+        <updated>2025-09-22T14:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Valve 从 Steam 商店下架了 2D 平台游戏《BlockBlasters》，原因是该游戏最近释出的一个补丁被发现含有恶意程序。《BlockBlasters》于 7 月 31 日发布，8 月 30 日释出了补丁 Build 19799326，其中的文件 game2.bat 表现出了恶意行为，它会收集用户的 IP 和位置信息，检测安装的杀毒软件；收集用户的登录信息，上传收集的信息，执行 VBS 启动器脚本。它最终会安装一个后门和一个窃取程序，从 Google Chrome、Brave Browser 和 Microsoft Edge 窃取信息，它主要窃取加密货币。可能有数百名玩家受到这次攻击的影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1000 元送上！同学，非常感谢你对老乡鸡菜品开源的贡献（这居然是真的！]]></title>
+        <id>https://www.appinn.com/laoxiangji/</id>
+        <link href="https://www.appinn.com/laoxiangji/"/>
+        <updated>2025-09-22T14:02:17.000Z</updated>
+        <summary type="html"><![CDATA[这是一件真事（图里的文字不用读，后面有详细的）： 上面这张价值 1000 人民币的老乡鸡充值卡，也是真的。但被谁领了，就不得而知了  😂 事情，是这样的： 今天下午，vlad 同学发来消息： 青小蛙就去围观了这个开源项目的 issues，相当于问题反馈讨论区。 就看到了开头那张卡所在。开始我都没看懂]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国海军成功测试舰载机电磁弹射]]></title>
+        <id>https://www.solidot.org/story?sid=82383</id>
+        <link href="https://www.solidot.org/story?sid=82383"/>
+        <updated>2025-09-22T11:27:57.000Z</updated>
+        <summary type="html"><![CDATA[新华社报道，中国海军宣布，歼-15T、歼-35和空警-600三型舰载机，已于此前成功完成在福建舰上的首次弹射起飞和着舰训练。这是我国首次在弹射型航母上，实现多型号先进舰载机的电磁弹射和阻拦着舰。美国在 2010 年完成了最早的陆基电磁弹射，福特号航母在 2013 年安装了第一套电磁弹射器，但因为种种问题至今没有进行舰载机电磁弹射测试。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国银行仍然运行 1960 年代写的代码]]></title>
+        <id>https://www.solidot.org/story?sid=82382</id>
+        <link href="https://www.solidot.org/story?sid=82382"/>
+        <updated>2025-09-22T10:59:46.000Z</updated>
+        <summary type="html"><![CDATA[英国银行仍然运行 1960 年代写的代码，而了解这些代码的人寥寥无几。根据一项对 200 家英国银行的调查，16% 的银行依赖 1960 年代的软件，近 40% 的银行仍在维护 1970 年代的代码。50% 的银行承认，他们依赖的软件只有一两位已到或接近退休年龄的员工了解。31.5% 的银行表示，他们依赖一两位未到退休年龄的员工掌握旧系统。38 家银行称，他们仍在使用设计用于在穿孔卡等物理系统上运行的代码，15% 的银行运行的是为房间大小的大型机编写的代码。银行机构庞大，不太可能在每一次科技创新时都重构基础设施。一位受访者表示，其银行核心系统建于 1970 年代，至今仍在使用 Cobol 语言。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西雅图艰难应对科技工作减少]]></title>
+        <id>https://www.solidot.org/story?sid=82381</id>
+        <link href="https://www.solidot.org/story?sid=82381"/>
+        <updated>2025-09-22T09:26:13.000Z</updated>
+        <summary type="html"><![CDATA[微软雷德蒙德总部附近的 Five Stones 咖啡店几个月前招聘咖啡师，收到的应聘者简历列出了在微软等科技公司任职的经历，应聘者通常有硕士学位，有平面设计或市场营销经验，甚至拥有高级职位，而他们应聘的职位薪水是当地的最低薪水：时薪 16.66 美元。Five Stones 咖啡店没有录取这些高学历应聘者，而是优先考虑传统的入门级咖啡师，如学历为高中的人。根据跟踪裁员的 Layoffs.fyi 网站的数据，西雅图最大的两家科技公司微软和亚马逊自 2023 年以来裁员逾 4.6 万人，占到了当地科技公司裁员总数的 85%。科技行业大规模裁员冲击了西雅图的其它领域。亚马逊和微软园区周边商业和购物区的餐饮和零售支出减少，热门地区交易额下降 7%。西雅图在 2025 年上半年有 450 家餐厅关门，相当于当地餐厅总数的 16%。Uber 司机 Juan Prado 在 2021 年的收入达到六位数，经常接送乘客去面试，但今年此类的需求要少得多。当地的商业地产空置率也创历史新高。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TimeSignal – 好久没见过这么讨厌的闹钟了[iOS]]]></title>
+        <id>https://www.appinn.com/timesignal/</id>
+        <link href="https://www.appinn.com/timesignal/"/>
+        <updated>2025-09-22T09:08:02.000Z</updated>
+        <summary type="html"><![CDATA[TimeSignal 是一款又难用又没用的闹钟应用，它通过奇怪的声音来提醒你闹钟时间到了，可以持续响铃30分钟。并且需要找到三个完全相同的 Emoji 表情，才能跳过闹钟，否则烦死你。最多设置8组闹钟。@Appinn 白天用都觉得很烦啊。 视频介绍 先来看视频： TimeSignal 特色 青小蛙觉]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文学家在地球附近发现一颗准卫星]]></title>
+        <id>https://www.solidot.org/story?sid=82380</id>
+        <link href="https://www.solidot.org/story?sid=82380"/>
+        <updated>2025-09-22T08:35:40.000Z</updated>
+        <summary type="html"><![CDATA[天文学家在地球附近发现一颗准卫星（quasi-moon）。被称为 2025 PN7 的天体是一颗近地小行星，围绕太阳飞行一周大约一年时间，可能在地球附近徘徊了约 60 年，直到今年夏天近距离掠过地球时才被望远镜观测到。此类准卫星因体积小且暗淡无光而难以被发现，夏威夷的 Pan-STARRS 天文台是在 8 月 29 日观测到 2025 PN7，历史档案数据显示它在类地球轨道上运行了数十年。天文学家仍致力于确定 2025 PN7 的大小，有估计认为其直径为 19 米或 30 米，它可能是已知绕地球运行的最小准卫星。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软的 Entra ID 漏洞可能造成灾难性的后果]]></title>
+        <id>https://www.solidot.org/story?sid=82379</id>
+        <link href="https://www.solidot.org/story?sid=82379"/>
+        <updated>2025-09-22T06:24:27.000Z</updated>
+        <summary type="html"><![CDATA[世界各地的企业过去十年将其数字基础设施从自托管服务器迁移至云端，它们受益于云服务提供商如微软提供的安全功能。但如果云服务商本身出现问题，后果可能将是灾难性的。安全研究员 Dirk-jan Mollema 在微软云服务 Azure 的身份和访问管理平台 Entra ID 发现了两个漏洞，可用于获得管理员权限，允许他访问 Entra ID 中储存的所有用户账号，从而造成灾难性影响。Mollema 于 7 月 14 日向微软披露了漏洞，微软于 7 月 17 日发布了补丁。微软之后向 Mollema 确认，问题已于 7 月 23 日修复，8 月实施了额外补救措施。微软于 9 月 4 日公开了漏洞的 CVE。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软向用户推送 Gaming Copilot，中国地区除外]]></title>
+        <id>https://www.solidot.org/story?sid=82378</id>
+        <link href="https://www.solidot.org/story?sid=82378"/>
+        <updated>2025-09-22T05:49:03.000Z</updated>
+        <summary type="html"><![CDATA[微软开始向 Windows 11 用户推送游戏助手 Gaming Copilot 的 Beta 版本，中国地区除外。Gaming Copilot 还将在下个月提供给 Xbox 移动应用用户。要使用 Gaming Copilot，用户需要安装 Xbox PC app，使用快捷键 Windows + G 打开 Game Bar，寻找到 Gaming Copilot，登陆 Xbox 帐户。玩家可使用 Gaming Copilot 的语音模式（Voice Mode）获取游戏任务相关的帮助，推荐新游戏，查看成就或游戏历史记录等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[退休有助于改善心理健康，但并非人人如此]]></title>
+        <id>https://www.solidot.org/story?sid=82377</id>
+        <link href="https://www.solidot.org/story?sid=82377"/>
+        <updated>2025-09-22T04:02:12.000Z</updated>
+        <summary type="html"><![CDATA[退休有助于改善心理健康，但并非对人人有效。根据发表在《SSM - Mental Health》起上的一项新研究，在结束朝九晚五的工作后，退休对心理健康的影响取决于收入水平、所从事工作的性质以及离开职场的年龄。爱丁堡大学团队评估了荷兰 1583 名受访者的数据集，受访者已退休且未从事任何有偿工作，平均退休年龄 66-67 岁。结果显示：低收入群体——收入低于最低工资标准——退休期间心理健康水平最低，他们表现出了初期的改善，但约两年半后出现下降，呈现出倒 U 形特征，即所谓的“蜜月消退效应”；中等收入群体退休前的心理健康状况显著改善，之后略有提升；高收入群体在退休前后心理健康状况没有变化，但在退休后出现显著改善，其中较晚退休者改善较慢。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教宗拒绝授权创建一个 AI 教宗]]></title>
+        <id>https://www.solidot.org/story?sid=82376</id>
+        <link href="https://www.solidot.org/story?sid=82376"/>
+        <updated>2025-09-22T03:03:16.000Z</updated>
+        <summary type="html"><![CDATA[教宗良十四世（Pope Leo XIV）拒绝创建一个 AI 教宗（AI Pope），他在接受传记作家 Eloise Allen 采访时表示：“如果要说谁不应该被虚拟化身所代表，我认为教宗绝对位居前列。” 教宗说：“最近有人请求授权打造一个我 的 AI 版本，任何人都可以登录网站与教宗进行私人对话。AI 教宗会回答他们的问题，而我说‘我不会授权’。”良十四世此前曾表示，他选择“良”名号部分是为了致敬 19 世纪的教宗良十三世（Pope Leo XIII）。良十三世以其论述工业革命期间工人阶级受剥削问题的《新事通谕》（Rerum novarum）闻名。良十四世对枢机主教们的首次讲话便称 AI 是“另一场工业革命”。教宗说：“如果整个世界自动化，只有少数人有能力不仅生存下去还能过上富足有意义的生活，那么未来将会出现一个大问题，一个严重的问题。”他担心投资 AI 的超级富豪完全忽视了人类和人性的价值，如果教会不为此发声，或者无人为此发声，那么危险就在于数字世界将自行其是，人类沦为棋子，被置之一旁。教宗表示不反对进步或新技术，但他不喜欢目前事情的发展方向。他此前曾表示，尽管 AI 能够“模拟人类推理的某些方面”，并以惊人的效率完成任务，但它仍然无法替代真正的道德分辨和建立“真正的人际关系”。这些科技的发展，必须与人类和社会的价值观，能做出合乎良知判断的能力以及日益增长的人类责任感并行。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地中海饮食与更低的牙龈疾病风险相关]]></title>
         <id>https://www.solidot.org/story?sid=82375</id>
@@ -925,77 +1055,6 @@ The “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tr
         <link href="https://www.solidot.org/story?sid=82304"/>
         <updated>2025-09-13T15:37:34.000Z</updated>
         <summary type="html"><![CDATA[在社交媒体的算法优先级中，真正由人类创造的内容正在边缘化。人类内容的互动率比为点击优率化的合成内容和 AI 垃圾要低得多。社交媒体是建立在真实性的浪漫化上，早期的社交媒体都许诺自己是真实连接的媒介。即使是网红文化也承诺光环之后有真实的人。但注意力经济，尤其是 AI 驱动的后注意力经济，打破了这一幻觉。信息流不再以人为主，而是各种内容，平台用户如今是内容的消费者。人类创造的内容和合成内容之间越来越难以区分，而平台也不感兴趣进行监管。我们正淹没在虚无之中。在内容激增的同时，互动率则在下降：Facebook 和 X 帖子的平均互动率仅为 0.15%，Instagram 互动率同比下降 24%，连 TikTok 也进入了停滞期。人类不再像以前那样在社媒上联系或交流，他们只是在消费为点击率优化的内容。社交媒体的死亡不是惊天撼响而只是耸耸肩。今天社交媒体已经不再能爆炸式增长，全球人口的 65% 约 53 亿人已经在使用各种社交媒体。越来越多的人开始转向更私密的小型空间，如群聊、Discord 服务器，或者联邦宇宙微博客平台。用户渴望真实，平台也不得不做出回应，因为无处不在的合成内容正逼近人的容忍极限，用户开始疲惫了：Instagram 开始推 DM，X 推面向订阅用户的圈子，TikTok 则在尝试私人社区。社交媒体到了最后时刻，不是因为缺乏内容，而是注意力经济已经到了极限。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网档案馆保存的网页数即将突破 1 万亿]]></title>
-        <id>https://www.solidot.org/story?sid=82303</id>
-        <link href="https://www.solidot.org/story?sid=82303"/>
-        <updated>2025-09-13T13:04:09.000Z</updated>
-        <summary type="html"><![CDATA[互联网档案馆即将在下个月迎来一个里程碑：已保存以及能通过时光机器（Wayback Machine）访问的网页数突破 1 万亿。互联网档案馆表示举办一系列活动庆祝这一时刻。互联网档案馆创办于 1996 年，其使命是“普及所有知识”（universal access to all knowledge）。它提供的数字资料有如网站、网页、图形材料音乐、视频、音频、软件、动态图像和数百万书籍等的永久性免费储存及获取的副本。但在 2001 年时光机器推出前早期保存的网页等数据并不能提供访问。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼泊尔 Z 世代抗议中的技术力量]]></title>
-        <id>https://www.solidot.org/story?sid=82302</id>
-        <link href="https://www.solidot.org/story?sid=82302"/>
-        <updated>2025-09-13T11:02:08.000Z</updated>
-        <summary type="html"><![CDATA[因政府封禁大部分社交媒体，以及对精英阶层的炫富行为感到愤怒，本周一 尼泊尔 Z 世代举行了大规模抗议。周一的抗议以悲剧收场，至少 19 人死亡。但在政府同意解除对社交媒体的封禁之后，更多尼泊尔人加入了抗议群体，议会大厦被烧毁，总理宣布辞职，军队暂时接手维持次序。下一步怎么办？年轻一代的活动人士转向了广泛使用的游戏聊天应用 Discord，他们热烈的讨论谁可以成为临时政府领导人。通过非正式投票，前最高法院首席大法官 Sushila Karki 脱颖而出。本周五，Sushila Karki 正式担任临时政府总理，她成为尼泊尔历史上首位女总理。根据世界银行的数据，尼泊尔 3000 万人口中逾半数上网。在抗议活动爆发前几天，很多人就转向了 VPN 等工具绕过封锁。因担心互联网被关闭，Jack Dorsey 创建的蓝牙消息应用 Bitchat 的下载量激增。在这次 
-Z 世代抗议运动中，科技扮演了重要角色。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proton Mail 应网络安全机构要求关闭了记者账户]]></title>
-        <id>https://www.solidot.org/story?sid=82301</id>
-        <link href="https://www.solidot.org/story?sid=82301"/>
-        <updated>2025-09-13T10:25:18.000Z</updated>
-        <summary type="html"><![CDATA[瑞士加密邮箱服务 ProtonMail 再次引发了争议，它自称是用户个人数据的中立的安全避风港，致力于捍卫用户的自由，但在没有给出任何解释的情况下关闭了两位记者的账户，直到引发长达数周的争论和抗议之后它才恢复账户。它没有给出关闭账户的详细解释。在账户被关闭时两名记者正以 Saber 和 cyb0rg 笔名为黑客杂志《Phrack》的 8 月份撰写一篇朝鲜政府支持的黑客组织入侵韩国多个政府机构计算机网络的文章。文章称入侵活动是朝鲜 APT 组织 Kimsuky 发动的，包括韩国外交部和国防反间谍司令部在内的政府机构网络都被渗透。但上个月 ProtonMail 在收到未指明的网络安全机构的投诉后关闭了记者的账户，影响了记者与受影响机构的沟通。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eden Emulator – 第一款在 Google Play 上架的 Nintendo Switch 模拟器 ，支持《空洞骑士：丝之歌》]]></title>
-        <id>https://www.appinn.com/eden-emulator-for-android/</id>
-        <link href="https://www.appinn.com/eden-emulator-for-android/"/>
-        <updated>2025-09-13T09:23:16.000Z</updated>
-        <summary type="html"><![CDATA[Eden Emulator 是一款开源的 Nintendo Switch 模拟器，也是任天堂强制关闭的知名模拟器 Yuzu 的新分支。目前已正式在 Google Play 上架，成为首个上架官方应用市场的 Switch 模拟器，并已支持《空洞骑士：丝之歌》等新作。@Appinn 获取 一个搬运：百度]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只要 12GB 内存，Edge 就能实时翻译视频中的音频了。对，就是你想的那样。]]></title>
-        <id>https://www.appinn.com/edge-real-time-video-translation/</id>
-        <link href="https://www.appinn.com/edge-real-time-video-translation/"/>
-        <updated>2025-09-13T08:23:16.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 上的 Microsoft Edge 141.0.3537.13（测试版）加入了一个基于本地 AI 的语音翻译功能，只需要 4 核心 CPU 以及 12GB 内存，即可将播放中的视频的音频，翻译成你喜欢的语言。对，就是你想的那样。@Appinn 来自 windowslatest]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国电动汽车技术如何重塑全球汽车设计]]></title>
-        <id>https://www.solidot.org/story?sid=82300</id>
-        <link href="https://www.solidot.org/story?sid=82300"/>
-        <updated>2025-09-12T16:42:51.000Z</updated>
-        <summary type="html"><![CDATA[2021 年奥迪高管首次看到极氪001 时倍感震惊，意识到如果想与中国竞争，需要借助中国的技术。奥迪仅用 18 个月就基于中国合作伙伴上汽提供的技术（包括电池、电动动力系统、车载信息娱乐软件和高级驾驶辅助系统）打造了奥迪 E5 Sportback。这款售价 3.3 万美元的电动汽车将于本月开始交付给中国消费者。奥迪的全球竞争对手也效仿这一做法，利用中国的知识产权快速推出新车型。丰田和大众分别与中国合作伙伴广汽和小鹏汽车合作开发专供中国市场的车型；雷诺和福特则计划更进一步，基于中国电动车平台开发全球车型。这一战略类似 1990 年代英特尔处理器的“Intel Inside”，中国汽车公司推销“China Inside”战略，通过授权现成的电动汽车技术，为传统车企节省数十亿美元和数年研发时间，赶超竞争对手。受特斯拉启发，中国电动车企开发出模块化平台，降低成本、加速研发、降低准入门槛。对全球汽车公司而言，风险是它们可能会变成某种零售商。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache 软件基金会使用新 Logo 和名字 ASF]]></title>
-        <id>https://www.solidot.org/story?sid=82299</id>
-        <link href="https://www.solidot.org/story?sid=82299"/>
-        <updated>2025-09-12T15:33:11.000Z</updated>
-        <summary type="html"><![CDATA[Apache 软件基金会宣布了新 Logo 和名字 ASF。旧 Logo 突出的 Apache 这个名字，新 Logo 则突出的 Apache Software Foundation 的首字母缩写 ASF。此外旧 Logo 使用的羽毛被橡树叶取代。Apache 软件基金会称，橡树是一种历久弥坚的树，能代表 ASF 持久稳定的精神。ASF 将作为基金会的视觉形象识别使用。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
