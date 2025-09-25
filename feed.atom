@@ -2,10 +2,151 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-09-24T02:57:03.077Z</updated>
+    <updated>2025-09-25T02:59:37.700Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本丰明议会通过了每天限制智能手机使用时间在两小时内的法令]]></title>
+        <id>https://www.solidot.org/story?sid=82410</id>
+        <link href="https://www.solidot.org/story?sid=82410"/>
+        <updated>2025-09-24T15:55:06.000Z</updated>
+        <summary type="html"><![CDATA[日本爱知县(Aichi)丰明（Toyoake）市议会通过了《促进正确使用智能手机》法令，象征性的将智能手机的娱乐性使用时间限制为每天两小时，此举旨在让市民尤其是学生获得充足的睡眠。违反两小时限制的人并不会受到惩罚。法令称，过度使用手机的人及其家人在日常和社交生活中会面临困难，限制每天两小时可能会有所帮助。丰明市有 6.9 万居民，该法案只是建议性的，并不具有约束力。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSF 警告开源基础设施不能运行在祈祷之上]]></title>
+        <id>https://www.solidot.org/story?sid=82409</id>
+        <link href="https://www.solidot.org/story?sid=82409"/>
+        <updated>2025-09-24T15:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Open Source Security Foundation(OpenSSF)警告开源基础设施不能运行在祈祷之上，称开源基础设施并非免费，而现代软件开发背后的重要机制正面临崩溃。Eclipse 基金会、Rust 基金会、Sonatype 和 Python 软件基金会等八个组织在一封公开信中声明，包管理器如 Maven Central、PyPI、crates.io、npm 和 Packagist 每月处理数十亿次下载，但运营的组织经常只能依靠捐赠、拨款和少数赞助商的善意勉强维持。开源基础设施使用的带宽、存储、人员和合规性成本正加速增长。如果没有商业规模的支持，商业规模的使用不可持续。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 生成大量劣质重复性研究]]></title>
+        <id>https://www.solidot.org/story?sid=82408</id>
+        <link href="https://www.solidot.org/story?sid=82408"/>
+        <updated>2025-09-24T13:20:39.000Z</updated>
+        <summary type="html"><![CDATA[一项公布在预印本平台 medRxiv 的研究对文献数据库分析后发现，包括 ChatGPT 和 Gemini 在内的文本生成 AI 工具被用来改写科学论文并生成抄袭版本，充作新的研究成果。该研究指出，在过去 4.5 年间，有 400 多篇此类论文发表于 112 种期刊，而且 AI 生成的生物医学研究论文能够避开出版商的查重。研究警告称，一些个人和论文工厂可能正基于公开可用的健康数据集，利用大型语言模型（LLM）批量生产缺乏科学价值的劣质论文。这就像打开了潘多拉魔盒，有价值的文献会被大量合成论文淹没。研究人员将搜索重点放在重复研究上，即这些研究的变量与健康结果与已有研究相同，但分析的是略有不同的数据子集，比如不同调查年份的结果或者不同年龄、性别的参与者。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家观察到鲨鱼三人行交配]]></title>
+        <id>https://www.solidot.org/story?sid=82407</id>
+        <link href="https://www.solidot.org/story?sid=82407"/>
+        <updated>2025-09-24T13:00:58.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Journal of Ethology》期刊上的一项研究，科学家通过镜头捕捉到类似人类三人行的罕见鲨鱼交配情景。作为研究项目的一部分，澳大利亚阳光海岸大学博士后 Hugo Lassauce 观察了鲨鱼一年时间，在一次观察中他发现海底沙滩上两只雄性豹纹鲨抓住了一只雌性的胸鳍，这是典型的交配前求偶行为。Lassauce 在水中待了一个小时，几乎冻僵，终于记录到了两雄一雌的交配过程：一只持续了 63 秒，另一只持续了 47 秒。然后两只雄性筋疲力尽的躺在水底不动，而雌性则精神抖擞的离开了。Lassauce 使用了两台 GoPro Hero 5 相机，他记录到交配前三只鲨鱼几乎一动不动的持续了近一小时，之后才开始交配。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Typed Arithmetic]]></title>
+        <id>https://css-tricks.com/?p=389371</id>
+        <link href="https://css-tricks.com/css-typed-arithmetic/"/>
+        <updated>2025-09-24T12:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Starting in Chrome 140, we'll be able to calculate numeric values with mixed data types. Sounds small, but Amit demonstrates how big a deal this is, calling it Computational CSS.
+CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 生成的工作垃圾破坏生产力]]></title>
+        <id>https://www.solidot.org/story?sid=82406</id>
+        <link href="https://www.solidot.org/story?sid=82406"/>
+        <updated>2025-09-24T12:11:38.000Z</updated>
+        <summary type="html"><![CDATA[BetterUp Labs 和 Stanford Social Media Lab 调查了 1,150 名全职员工，发现过去一个月四成员工收到了工作相关的 AI 垃圾（workslop）——即 AI 生成的看似精雕细琢但缺乏实质性内容的文本。收到之后员工们平均每条需要花 1 小时 56 分钟处理，给企业造成约 186 美元的损失。对一家有 10,000 名员工的公司而言，每年造成的生产力损失逾 900 万美元。员工报告，收到的内容有 15.4% 属于工作垃圾。其中同事之间传递的工作垃圾占到了 40%，有 18% 的内容从直接下属传递给经理，还有 16% 的内容则是自上而下传递。除了财务成本之外，工作垃圾还会损害职场关系——半数接收者认为发送者缺乏创造力、能力和可靠性，42% 的人则不太信任他们。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冰比液态水更能有效溶解铁矿物]]></title>
+        <id>https://www.solidot.org/story?sid=82405</id>
+        <link href="https://www.solidot.org/story?sid=82405"/>
+        <updated>2025-09-24T10:06:48.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在 PNAS 期刊上的一项研究，冰比液态水更能有效溶解铁矿物。这一发现可能有助于解释为何在气候变暖导致永久冻土融化的情况下，许多北极河流正在变成铁锈色。研究指出，相比于 4℃ 的水，-10℃ 的冰从常见矿物中溶解出的铁更多。这挑战了长期以来“极寒环境会减缓化学反应”的观念。“这听起来可能不合直觉，但冰并不是被动的。”论文通讯作者、瑞典于默奥大学的 Jean-François Boily 表示，“结冰时，冰晶之间会产生微小的液态水囊。这些水囊就像化学反应器，化合物在其中浓缩且酸性极强。这意味着即使在 -30℃ 的低温下，它们也能与铁矿物发生反应。”研究结果表明，冰并非一种被动的储存介质，而是一个活跃的参与者。随着极地和山区的冻结与融化事件增加，冰对生态系统和元素自然循环的影响可能非常重大。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文学家发现至今最遥远的超大质量黑洞]]></title>
+        <id>https://www.solidot.org/story?sid=82404</id>
+        <link href="https://www.solidot.org/story?sid=82404"/>
+        <updated>2025-09-24T10:02:15.000Z</updated>
+        <summary type="html"><![CDATA[天文学家利用韦伯太空望远镜，在星系 CAPERS-LRD-z9 的中心发现了一个超大质量黑洞，存在时间为大爆炸后约  5亿年，创下所知最遥远黑洞纪录。研究团队认为，在搜寻黑洞的研究中，这次发现已接近观测技术所能达到的极限。虽然有更遥远的超大质量黑洞候选天体，但始终未发现黑洞特有的光谱特征，而本次研究的观测数据终于提供了解答。更令人瞩目的是，星系 CAPERS-LRD-z9 中心黑洞的质量十分庞大。估计约达太阳质量的 3 亿倍，几乎相当于星系内所有恒星质量的一半。即便在超大质量黑洞族群分布中，也是属于异常的庞大。发现在大爆炸后仅数亿年就出现质量如此巨大的黑洞，为研究超大质量黑洞的成长机制提供关键线索。理论上后期宇宙中的黑洞有充裕的时间透过吸积与合并逐步增长，但若要在宇宙演化早期就达到此质量，意味着黑洞的增长速度远快于既有模型的预测，或者是种子黑洞一开始形成的质量就非常庞大。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[月球在生锈]]></title>
+        <id>https://www.solidot.org/story?sid=82403</id>
+        <link href="https://www.solidot.org/story?sid=82403"/>
+        <updated>2025-09-24T09:50:20.000Z</updated>
+        <summary type="html"><![CDATA[月球在生锈，而这一切都是地球的错。科学家发现，从地球吹向月球的氧粒子会将月球矿物质转变成赤铁矿，也就是铁锈。澳门科技大学的行星科学家金子梁 (JIN Ziliang)表示，这一发现加深了研究人员对地月之间深层作用的理解，揭示了月球如何保存这些相互作用的地质记录。地球和月球大多数时间都沐浴在太阳的带电粒子流中，但每个月有五天地球会进入到太阳和月球之间，阻挡了大部分太阳粒子流，期间月球主要暴露于曾是地球大气一部分、后被吹入太空的粒子——这一现象被称为“地球风”。地球风包含了各种元素的离子，如氢、氧和氮。当这些带电粒子撞击月球表面时，它们可能会进入月球土壤的上层，触发化学反应。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 年 IEEE Spectrum 顶级编程语言排行榜：Python 第一毫无悬念]]></title>
+        <id>https://www.appinn.com/ieee-spectrum-top-programming-languages-2025/</id>
+        <link href="https://www.appinn.com/ieee-spectrum-top-programming-languages-2025/"/>
+        <updated>2025-09-24T09:42:48.000Z</updated>
+        <summary type="html"><![CDATA[2025年 IEEE Spectrum 的「顶级编程语言榜单发布了，Python 以几乎 50% 的优势，无论综合指数、流行趋势，以及工作需求，都毫无悬念的排名第一。@Appinn 2025 年 IEEE Spectrum 顶级编程语言排行榜 IEEE Spectrum 是一个全球知名的科技杂志，隶]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 史诗级更新，带回18年前经典功能：原生支持视频动态桌面（视频壁纸）]]></title>
+        <id>https://www.appinn.com/windows-11-video-wallpaper/</id>
+        <link href="https://www.appinn.com/windows-11-video-wallpaper/"/>
+        <updated>2025-09-24T07:31:47.000Z</updated>
+        <summary type="html"><![CDATA[没错，你没看错！这一次，Windows 11 终于又可以用视频当作桌面壁纸啦。@Appinn 来自论坛的小熊猫又发来“战地消息”了：https://meta.appinn.net/t/topic/75088 19 年前的 Windows DreamScene 2007年，微软给 Windows Vi]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube 放弃事实核查政策]]></title>
+        <id>https://www.solidot.org/story?sid=82400</id>
+        <link href="https://www.solidot.org/story?sid=82400"/>
+        <updated>2025-09-24T06:39:00.000Z</updated>
+        <summary type="html"><![CDATA[YouTube 成为最新一个放弃事实核查政策，拥抱保守派的社交媒体平台。YouTube 母公司 Alphabet 宣布，将恢复在疫情期间因散播 COVID-19 虚假信息以及传播美国大选虚假信息而封禁的用户账号，谴责了疫情期间拜登政府向该公司持续施压限制和删除虚假 COVID-19 信息的做法，称拜登政府的决定是不可接受的、是错误的。Alphabet 同时表示将采用类似 X/Twitter 等平台的政策，让其用户去验证信息，允许用户在内容中添加上下文注释。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[越南因生物识别规则关闭数百万银行账号]]></title>
+        <id>https://www.solidot.org/story?sid=82399</id>
+        <link href="https://www.solidot.org/story?sid=82399"/>
+        <updated>2025-09-24T06:16:13.000Z</updated>
+        <summary type="html"><![CDATA[自 2025 年 9 月 1 日起，越南银行将关闭被认为不活跃或不符合新生物识别规则的账户。政府估计，如果用户未能更新身份识别信息，2 亿个账户中逾 8600 万账户面临风险。越南国家银行还同时实施了更严格的交易门槛：超过 1000 万越南盾（约 379 美元）的在线转账必须进行面部认证；每日累计超过 2000 万越南盾（约 758 美元）的转账也需要生物识别认证。最新政策旨在打击欺诈、身份盗窃和深度伪造诈骗。受新政策影响最大的可能是外国居民和外籍的越南银行客户。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊朗开发者：被删除的互联网人生]]></title>
+        <id>https://www.appinn.com/delete-from-users-where-location-iran/</id>
+        <link href="https://www.appinn.com/delete-from-users-where-location-iran/"/>
+        <updated>2025-09-24T04:09:50.000Z</updated>
+        <summary type="html"><![CDATA[小众软件曾经介绍过一款伊朗开发者 @avestura 的软件：Eyes Guard – 开源定时提醒休息、护眼工具，昨天 @avestura 在 GitHub 的 Gist 页面，发布了一篇标题为 DELETE FROM users WHERE location = 'IRAN';]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加州律师因 ChatGPT 伪造案例被罚款 1 万美元]]></title>
         <id>https://www.solidot.org/story?sid=82398</id>
@@ -948,162 +1089,6 @@ Is it Time to Un-Sass? originally published on CSS-Tricks, which is part of the 
         <link href="https://www.solidot.org/story?sid=82319"/>
         <updated>2025-09-15T16:00:20.000Z</updated>
         <summary type="html"><![CDATA[印度 IT 服务行业产值 2500 亿美元，贡献了 GDP 的 8%，雇佣了 540 万人。外包巨头如 Tata Consultancy Services（TCS）和 Infosys 以最低 5000 美元的薪水源源不断的雇佣应届生，在培训之后胜任发达国家十倍薪水的工作，以这种劳动力套利为欧美的客户提供 IT 服务。然而生成式 AI 时代影响最大的就是初级 IT 工作，而印度的 IT 外包行业也因此深受打击。2023 财年印度四大 IT 外包巨头招聘了 22.5 万名应届生，但到了 2024 财年，招聘的应届生数量暴跌 70% 降至 6 万。TCS 和 Infosys 在 2022 财年增加了 157,000 名员工，而在 2025 财年数量降至 12,771 人。IT 外包巨头的员工总数也在几十年来首次下降，TCS 在 2024 财年的员工总数减少了逾 13,000 人，而 Infosys 则裁员 25,000 人。Accenture 等公司的研究表明，生成式 AI 能自动化 30% 至 40% 的初级程序员和测试人员的工作。应届生招聘人数的减少也改变了该行业的人口结构。Infosys 30 岁以上员工占总员工的比例从 2010 年的 81% 降至 2025 财年预计的 53%。IT 毕业生失业率超过 13%，几乎是全国平均水平的三倍。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The “Most Hated” CSS Feature: cos() and sin()]]></title>
-        <id>https://css-tricks.com/?p=389130</id>
-        <link href="https://css-tricks.com/the-most-hated-css-feature-cos-and-sin/"/>
-        <updated>2025-09-15T14:31:06.000Z</updated>
-        <summary type="html"><![CDATA[I want to look at practical uses for CSS trigonometric functions. And we'll start with what may be the most popular functions of the "worst" feature: sin() and cos().
-The “Most Hated” CSS Feature: cos() and sin() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达被指违反中国反垄断法]]></title>
-        <id>https://www.solidot.org/story?sid=82318</id>
-        <link href="https://www.solidot.org/story?sid=82318"/>
-        <updated>2025-09-15T14:20:42.000Z</updated>
-        <summary type="html"><![CDATA[监管机构国家市场监督管理总局在一份简短声明中宣布：“近日，经初步调查，英伟达公司违反《中华人民共和国反垄断法》和《市场监管总局关于附加限制性条件批准英伟达公司收购迈络思科技有限公司股权案反垄断审查决定的公告》，市场监管总局依法决定对其实施进一步调查。”英伟达是在 2020 年以 69 亿美元收购迈络思（Mellanox），此次收购有助于英伟达进军数据中心和高性能计算市场，而在今天的生成式 AI 时代，这笔收购帮助英伟达成为市场领导者。如果确认违反反垄断法，英伟达可能面临上年度销售额 1-10% 的罚款。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[步行量而不是强度与更低的慢性背痛风险相关]]></title>
-        <id>https://www.solidot.org/story?sid=82317</id>
-        <link href="https://www.solidot.org/story?sid=82317"/>
-        <updated>2025-09-15T13:02:12.000Z</updated>
-        <summary type="html"><![CDATA[一项研究调查了步行与患慢性腰背部疾病风险之间的关系。如果人们遵循研究提供的简单建议，可以为医疗保健系统节省大量资金，同时还可以减轻许多疼痛。结果显示，经常走路的人比不怎么走路的人背痛更少——而且最重要的是步行量，而不是强度。与其走得快，不如走得多。研究人员称，“每天步行超过 100 分钟的人患腰背部疾病的风险比每天步行 78 分钟或更少的人低 23%。”有 11194 人参加了这项研究，每天步行的量和强度是用两个传感器测量的，参与者在大腿和背部佩戴了两个传感器，持续一周。这项研究证实了身体活动，尤其是每天散步，可以帮助预防长期的腰背部问题。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIGO 成为黑洞狩猎机器]]></title>
-        <id>https://www.solidot.org/story?sid=82316</id>
-        <link href="https://www.solidot.org/story?sid=82316"/>
-        <updated>2025-09-15T12:57:54.000Z</updated>
-        <summary type="html"><![CDATA[2015 年 9 月 14 日，美国激光干涉引力波天文台(LIGO)探测到了首个黑洞合并产生的引力波信号。如今 LIGO 每 3 天观测到一次黑洞合并事件。今天的 LIGO 与意大利的引力波探测器 Virgo 以及日本的 KAGRA 协作运行。被称为 LVK（LIGO、Virgo、KAGRA）的引力波搜寻网络已捕获约 300 个候选黑洞并合事件，部分事件已确认为黑洞合并，其余需要等待进一步分析。约 220 个候选黑洞并合事件是在第四次科学观测期发现的，其数量是前三次总和的两倍。LVK 探测数量的快速增长得益于技术改进，包括引入尖端的量子工程技术。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用CSS linear()函数实现更逼真的物理动画效果]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=11841</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/"/>
-        <updated>2025-09-15T12:12:36.000Z</updated>
-        <summary type="html"><![CDATA[CSS新支持的linear()函数可以让我们实现任意速率动画，所以，无论是更加逼真的物理动画，还是特殊的阶梯式动画都不在话下，让CSS动画的能力进一步增强。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国扫地机器人试图通过差异化与中国公司竞争]]></title>
-        <id>https://www.solidot.org/story?sid=82315</id>
-        <link href="https://www.solidot.org/story?sid=82315"/>
-        <updated>2025-09-15T10:46:33.000Z</updated>
-        <summary type="html"><![CDATA[IDC 的数据显示，在 2025 年 1～6 月扫地机器人全球市场份额居前 5 的企业中，中国企业占 4 家：北京石头世纪科技、科沃斯、追觅科技市场份额均超过 10%，小米 7.4%。2010 年代曾占据三成以上份额的 iRobot 仅占 5.8% 跌至第 5 位。韩国的两大巨头三星电子和 LG 电子也都有扫地机器人产品，但相比中国产品零售价在  965~1448 元，韩国产的扫地机器人普遍在 4826~9653 元之间，且性能无法让消费者认为值得付出更高的代价。由于无法在价格上与中国产品竞争，韩国厂商通过强调安全性、高档感和易用性，力求在价格以外实现差异化，这种战略与日本厂商也有相似之处。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球人口正以更快的速度收缩]]></title>
-        <id>https://www.solidot.org/story?sid=82314</id>
-        <link href="https://www.solidot.org/story?sid=82314"/>
-        <updated>2025-09-15T09:21:07.000Z</updated>
-        <summary type="html"><![CDATA[伊斯坦布尔妇产科医生 Furkan Kayabasoglu 过去经常会为同一个家庭多次接生，如今绝大部分家庭只生一胎。去年土耳其的总和生育率低至 1.48，已经远低于 2.1 的人口更替率。而联合国人口司此前预测土耳其要到 2100 年总和生育率才会到达如此低的水平。土耳其并非例外。世界各地，从发展中国家到中等收入国家到发达国家，生育率的下降幅度都远超预期。哥伦比亚首都波哥大的总和生育率只有 0.91，甚至低于日本东京。印度的总和生育率已低于人口更替率，中国的人口已经开始萎缩。墨西哥的总和生育率为1.6，与美国相当。2024 年法国出生人口数低于 1806 年，而当时人口不到今天的一半。意大利出生人数创下了 1861 年统一以来的最低水平。非洲出生率仍然远高于全球平均水平，但人口下降速度也远超预期。这一切意味着世界人口可能比专家预测的更早达到峰值，且峰值水平要低得多。世界人口可能到 2050 年代就会停止增长，而不是原来预测的 2084 年，且总数不会超过 90 亿。生育率下降的可能因素包括了女性受教育程度提高、城市化、避孕普及、养育成本急剧上升以及社会观念的转变等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M5 MacBook Pro 临近发布，以下是近期一些传言]]></title>
-        <id>https://www.appinn.com/m5-macbook-pro-release-delay/</id>
-        <link href="https://www.appinn.com/m5-macbook-pro-release-delay/"/>
-        <updated>2025-09-15T08:55:56.000Z</updated>
-        <summary type="html"><![CDATA[苹果正在开发一款全新的 MacBook Pro，预计使用 M5 芯片，可能在2026年1月份发布。而首款采用 M5 芯片的产品，将是马上就要更新的 iPad Pro。@Appinn 就发布时间来说，目前的最新款 iPad Pro 已经发布近 500 天（2024年5月），根据往常的更新时间，有极大概]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WinBoat – 极限套娃：在 Linux 上完整运行 Windows]]></title>
-        <id>https://www.appinn.com/winboat/</id>
-        <link href="https://www.appinn.com/winboat/"/>
-        <updated>2025-09-15T08:29:23.000Z</updated>
-        <summary type="html"><![CDATA[WinBoat 是一个可以让用户在 Linux 上运行 Windows 虚拟机的开源项目，它通过 Docker 容器和 KVM 虚拟化技术保证只要能在 Windows 上运行的应用，都能在 WinBoat 内跑起来，哪怕 Wine、Proton 甚至 CrossOver 都无法运行的应用，比如 Of]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本老年人口比例占到 29.4%]]></title>
-        <id>https://www.solidot.org/story?sid=82313</id>
-        <link href="https://www.solidot.org/story?sid=82313"/>
-        <updated>2025-09-15T07:55:51.000Z</updated>
-        <summary type="html"><![CDATA[日本总务省周日公布了人口估算数据，65 岁以上老年人为 3619 万人，占总人口的比例为 29.4%，创下新高，该比例也是人口 4000 万以上国家中最高。老年人就业人数为 930万 ，连续 21 年增加，也创下新高，除了有更多老年人健康良好外，少子化导致人手短缺也是原因之一。人口估算显示，65 岁以上男性为 1568 万人，女性 2051 万人，总数较上年减少 5 万人。这是有可比数据的 1950 年以来继 2023 年后第二次减少。主要原因是新达到 65 岁的人数较少。国立社会保障和人口问题研究所估算，由于第二次婴儿潮（1971-1974 年）出生的一代逐渐进入老年，估计 2040 年老年人口将达到 3928 万人，占总人口的 34.8%。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRISPR 基因编辑的马引发争议]]></title>
-        <id>https://www.solidot.org/story?sid=82312</id>
-        <link href="https://www.solidot.org/story?sid=82312"/>
-        <updated>2025-09-15T07:29:16.000Z</updated>
-        <summary type="html"><![CDATA[基因编辑的猪和绵羊等动物正逐渐在农业领域获得认可。这些技术可提升动物的性状表现，为人类提供更安全、优质的肉类产品。但经 CRISPR 技术改造的马，却被马球比赛拒之门外。专家强调，必须严格追踪并确保基因编辑动物的安全性，审慎推进相关应用。CRISPR 基因编辑技术能够精准切割基因组特定位置，改变基因表达，从而赋予生物新的性状。Kheiron 公司以阿根廷一匹冠军马为原型，利用克隆技术培育出五匹遗传背景完全一致的克隆马。在此基础上，研究人员进一步应用 CRISPR 技术，靶向抑制了肌生成抑制素基因的表达。该基因天然存在于动物体内，作用是限制肌肉过度发育。通过精准下调其活性，团队增加了马匹体内负责爆发性运动的肌纤维数量，从而将它们培育成更出色的“短跑健将”。阿根廷马球协会明确禁止基因编辑马参赛。协会主席表示，这项技术“会剥夺育种的魅力与魔法”。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本百岁人口数量接近 10 万]]></title>
-        <id>https://www.solidot.org/story?sid=82311</id>
-        <link href="https://www.solidot.org/story?sid=82311"/>
-        <updated>2025-09-15T06:13:40.000Z</updated>
-        <summary type="html"><![CDATA[日本百岁老人数量接近 10 万，创历史新高，其中最年长老人年龄 114 岁。根据日本厚生劳动省上周五公布的数据，截至 9 月，日本百岁老人数量 99,763 人，连续 55 年创新高。其中女性 87,784 名占 88%，男性 11,979 名。预期寿命提高主要归因于心脏病和常见癌症如乳腺癌和前列腺癌死亡人数减少。由于日本饮食中红肉摄入量较少、鱼类和蔬菜摄入量较高，肥胖率较低，而肥胖是导致上述两类疾病的主要因素。女性的肥胖率尤其低，这或许可以解释为什么日本女性预期寿命远高于男性。此外日本人在晚年仍然保持活跃，比美国和欧洲老年人更多地步行和使用公共交通工具。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NewsGuard 的调查显示 AI 生成虚假信息的比例一年内翻了一倍]]></title>
-        <id>https://www.solidot.org/story?sid=82310</id>
-        <link href="https://www.solidot.org/story?sid=82310"/>
-        <updated>2025-09-15T05:33:52.000Z</updated>
-        <summary type="html"><![CDATA[新闻评级公司 NewsGuard 调查了 10 款领先的生成式 AI 工具，分析了它们在回复中生成虚假新闻信息的比例。结果显示，2025 年 8 月，10 款 AI 工具在新闻主题上重复虚假信息的比例超过三分之一（35%），高于 2024 年 8 月的 18%。AI 公司并未兑现让 AI 更安全更可靠的承诺。生成虚假信息比例翻一倍的一大原因是今天的 AI 工具都支持联网查询，不再拒绝回答提问，它们不回复比例从 2024 年 8 月的 31% 下降到 2025 年 8 月的 0%，结果就是更多虚假信息。NewsGuard 认为攻击者正利用 AI 这一特点用各种方法洗白虚假信息，让 AI 模型无法区分内容农场和可信新闻渠道。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD 的 RDNA4 GPU 架构]]></title>
-        <id>https://www.solidot.org/story?sid=82309</id>
-        <link href="https://www.solidot.org/story?sid=82309"/>
-        <updated>2025-09-15T04:42:47.000Z</updated>
-        <summary type="html"><![CDATA[在 Hot Chips 2025 上，AMD 工程师介绍了该公司最新一代显卡 RX 9000 系列使用的 RDNA4 GPU 架构。RDNA4 GPU 大幅改进了光线追踪和机器学习效率，让中端显卡 RX 9070 以更小的面积、更低的功耗、更少的带宽实现了与上一代旗舰显卡 RX 7900XT 相似的光栅性能，以及更高的光线追踪性能。AMD GPU 的硬件视频编解码通常落后于竞争对手，RDNA4 的媒体引擎（Media Engine）提供了更快的解码速度，改进了 H.265、H.265 和 AV1 的视频编码质量，尤其是在低延迟编码方面，串流能从中受益。显示引擎（Display Engine）引入了 Radeon Image Sharpening 过滤器，让专门的硬件锐化最终图像有助于改进功耗；显示引擎也改进了多显示器的待机功耗。标量单元(Scalar Unit)加入了一些浮点指令。RDNA4 的一大变化是 L2 缓存从 RDNA2 的 4MB 和 RDNA3 的 6MB 增加到了 8MB，AMD 称光线追踪等工作负荷能受益于更大的 L2 缓存。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 年度拉斯克医学奖揭晓]]></title>
-        <id>https://www.solidot.org/story?sid=82308</id>
-        <link href="https://www.solidot.org/story?sid=82308"/>
-        <updated>2025-09-14T15:22:55.000Z</updated>
-        <summary type="html"><![CDATA[2025 年度的拉斯克医学奖公布了获奖名单。
-基础医学研究奖授予了德国马普研究所的 Dirk Görlich 博士以及美国得克萨斯大学西南医学中心的 Steven L.McKnight 博士，以表彰他们在揭示细胞内蛋白质运输与细胞组织构成新机制方面的开创性贡献。他们的研究聚焦于蛋白质序列中的低复杂度结构域（LCDs），这类结构域由少数种类氨基酸构成，曾被认为难以承担重要生物学功能。然而，真核生物中约 15%-20% 的蛋白质含有此类序列。两人的研究揭示，这些“无序”结构域能在细胞内形成高度有序的组装体，参与调控物质运输与细胞功能组织，为理解细胞内部复杂运作提供了全新视角。
-
-临床医学研究奖授予了美国爱荷华大学的 Michael J.Welsh 博士、曾任职于福泰制药的 Jesús (Tito)González 博士，以及现任福泰制药科学家 Paul A.Negulescu 博士，以表彰他们在囊性纤维化创新疗法开发中的关键作用。三人共同推动的三联药物疗法 Trikafta 彻底改变了一种致命遗传病的治疗格局，使大多数患者的生活质量显著提升，预期寿命接近正常人水平。
-
-拉斯克医学科学特殊成就奖则授予斯坦福大学医学院的 Lucy Shapiro 博士，以表彰她在生物医学领域长达55年的卓越贡献。她的研究揭示了细菌如何在时空维度协调基因表达以实现细胞分化，她还创立了斯坦福大学发育生物学系，并长期为美国政府提供应对新型传染病的政策建议。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
