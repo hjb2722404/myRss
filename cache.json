@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/yt-dlp-returned-from-youtube-crackdown/",
+          "author": "青小蛙",
+          "description": "摘要：yt-dlp 开发者最近宣布，未来用户必须安装 Deno 或其他 JavaScript 运行时，才能正常下载 YouTube 视频。随着 YouTube 再次升级加密机制，这款开源下载工具不得不依靠第三方工具对抗技术封锁，自由下载的门槛被前所未有地提高。原文：https://www.appin",
+          "link": "https://www.appinn.com/yt-dlp-returned-from-youtube-crackdown/",
+          "publishedOn": "2025-09-27T11:44:41.000Z",
+          "wordCount": 3003,
+          "title": "被 YouTube 斩尽杀绝！yt-dlp 几乎被判死刑…但它像个斗士一样，又杀回来了！",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/09/Copy-of-appinn-homework-2025-09-27T193403.965.jpg"
+        },
+        {
           "id": "https://www.appinn.com/dayflow-for-macos/",
           "author": "青小蛙",
           "description": "Dayflow 是一款可以用 1 FPS 速度录制你的屏幕，然后每 15 分钟使用 AI 进行一次分析的 macOS 应用，帮你自动生成一天活动时间线。它体积轻巧（应用大小 25MB），占用约 100MB 内存和 <1% 的 CPU。@Appinn Windows 11 的新 Recall 功",
@@ -165,16 +175,6 @@
           "wordCount": 3089,
           "title": "Bundlehunt 2025 夏季超值 Mac 软件包上线：44 款高质量应用自选，授权全部来自开发者",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/09/Copy-of-appinn-homework-2025-09-19T110128.124.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/iphone-6s-used-price-2025/",
-          "author": "青小蛙",
-          "description": "昨天有个新闻：苹果为 10 年前的 iPhone 6s 发布安全更新。虽然处不大，但保更新10年！ 好多评论 之后，收到了很多评论，我也是没想到，居然有不少人依旧在用 6s，这款 10 年前发布的手机： 以及： 甚至，还有最离谱的： 这个价格，拿来当备用机可以算王炸了吧。。。 iPhone 6s 的",
-          "link": "https://www.appinn.com/iphone-6s-used-price-2025/",
-          "publishedOn": "2025-09-18T07:21:39.000Z",
-          "wordCount": 2995,
-          "title": "iPhone 6s 非常适合作为备用机，闲鱼上一台二手的价格大约 100 元",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/09/Copy-of-appinn-homework-2025-09-18T144832.560.jpg"
         }
       ]
     },
@@ -259,6 +259,66 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=82434",
+          "author": null,
+          "description": "在推出键盘外形的一体机 Raspberry Pi 500 九个月之后，树莓派宣布了升级版 Raspberry Pi 500+，价格也提高了一倍达到 200 美元。Raspberry Pi 500+ 基本配置与 Raspberry Pi 500 相同，CPU 仍然是四核 2.4GHz Arm Cortex-A76，但内存从 8GB 升级到 16GB，提供了一个 NVMe 插槽，配备了 256GB M.2 2280 SSD，用户可升级为更高容量的 SSD。除此之外，Raspberry Pi 500+ 还改进了一体机的键盘，配备机械开关、可更换键帽和可单独编程的 RGB LED 灯。用户可选配 220 美元的版本，包括鼠标、27W USB-C 电源、2 米长的 micro HDMI 转 HDMI 线和初学者指南。",
+          "link": "https://www.solidot.org/story?sid=82434",
+          "publishedOn": "2025-09-27T12:20:55.000Z",
+          "wordCount": 216,
+          "title": "树莓派推出 Raspberry Pi 500+",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82433",
+          "author": null,
+          "description": "亚马逊 kindle 电子书阅读器的围墙花园如今比巴比伦塔还要高。亚马逊一周前向 11 代和 12 代 Kindle，Kindle Scribe 1 和 Scribe 2 以及 Kindle Colorsoft 推送了新版本固件（v5.18.5），更新了 DRM 系统。新的 DRM 使用了一个储存在 Kindle 无法访问区域的文件(account secret)作为解密加密电子书的密钥的一部分，这意味着除非设备在更新新固件前已经越狱，否则下载到设备上的新电子书将无法解密。亚马逊是否会对第 9 代和 10 代 Kindle 推送新 DRM 还有待观察。阻止下载新固件的一个权宜之计是让 Kindle 设备的可用空间降至 300MB 以内，因为下载新固件需要 300MB 的空间。",
+          "link": "https://www.solidot.org/story?sid=82433",
+          "publishedOn": "2025-09-27T11:26:10.000Z",
+          "wordCount": 203,
+          "title": "亚马逊 kindle 竭尽所能打击电子书盗版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82432",
+          "author": null,
+          "description": "广泛使用的 YouTube 视频下载工具 yt-dlp 项目宣布，为了工具正常工作未来将需要安装 Deno 或其它支持的  JavaScript 运行时，原因是 YouTube 设置了越来越多的障碍，项目目前使用的 JavaScript 解释器越来越力不从心，必须使用真正的 JavaScript 运行时。推荐使用 Deno 是因为它是完全独立的单一可执行文件，默认沙盒化，不允许文件系统或网络访问。开发者同时指出，YouTube 未来将对所有客户端强制执行 proof-of-origin (PO) token，超出了 yt-dlp 现有的 JavaScript 功能能力范围。",
+          "link": "https://www.solidot.org/story?sid=82432",
+          "publishedOn": "2025-09-26T16:32:10.000Z",
+          "wordCount": 199,
+          "title": "yt-dlp 将需要安装 JS 运行时 Deno",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82431",
+          "author": null,
+          "description": "根据发表在《科学》期刊上的一项研究，白蚁会主动清理危害其培育的鸡枞菌的有害菌。肥大齿白蚁（Odontotermes obesus）等会培植真菌的白蚁与一种名为“鸡枞菌”（Termitomyces）的真菌保持着至关重要的共生关系；这些白蚁会在一种名为菌圃（comb）的特殊营养基质中培育这种真菌；菌圃既能给予白蚁可靠的食源，也可为鸡枞菌提供理想的生长环境。这些富含营养的菌圃也会吸引真菌型杂草的入侵，尤其是生长迅速的伪炭角菌（Pseudoxylaria）：如果任其发展，伪炭角菌很快会反客为主。研究人员发现，在面对小规模感染时，白蚁会主动从受污染的菌圃中移除伪炭角菌，并将其埋在土壤团块（boluses）之下；这可有效地将该有害真菌隔离在缺氧的土壤环境中，从而抑制其进一步生长。在严重感染的情况下，白蚁会将感染菌圃与健康菌圃完全隔离，并在必要时将整个感染部分埋入土块之中以遏制该威胁。",
+          "link": "https://www.solidot.org/story?sid=82431",
+          "publishedOn": "2025-09-26T15:35:47.000Z",
+          "wordCount": 159,
+          "title": "白蚁会主动清理危害其培育鸡枞菌的有害菌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82430",
+          "author": null,
+          "description": "Fedora 发行版项目公布了一项提案，讨论使用 AI 辅助工具的社区政策。在两周的反馈期结束后，Fedora 理事会将投票批准该提案。提案建议：开发者需要对自己的贡献承担责任，AI 生成的内容必须被视为建议，不能作为最终代码或最终文本；开发者有责任审核、测试和理解所有提交的内容，提交未经验证或质量低劣的机器生成内容（常被称为“AI 垃圾”）会给社区带来不公平的审核负担，不属于可接受的贡献。开发者需要透明的使用 AI，如果贡献的内容得到了 AI 的帮助，在递交时应尽可能明示。限制将 AI 工具用于审核代码或文档。提供给 Fedora 用户的 AI 功能必须是可选的，不得默认启用将数据发送到云端的选项。",
+          "link": "https://www.solidot.org/story?sid=82430",
+          "publishedOn": "2025-09-26T15:23:28.000Z",
+          "wordCount": 184,
+          "title": "Fedora 讨论使用 AI 工具的政策",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82429",
+          "author": null,
+          "description": "PostgreSQL 数据库项目释出了 v18 版本。主要新特性包括：异步 I/O (AIO) 子系统改进顺序扫描、位图堆扫描、vacuums 清理等操作的性能，基准测试显示在部分情况下性能提升最高 3 倍；pg_upgrade 保留优化器统计信息；支持对多列 B-tree 索引的“跳过扫描”查找；虚拟生成列，改进文本处理，OAuth 身份验证，等等。更多浏览发布公告。",
+          "link": "https://www.solidot.org/story?sid=82429",
+          "publishedOn": "2025-09-26T14:43:59.000Z",
+          "wordCount": 179,
+          "title": "PostgreSQL 18 释出",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=82428",
           "author": null,
@@ -937,126 +997,6 @@
           "publishedOn": "2025-09-18T16:01:15.000Z",
           "wordCount": 167,
           "title": "研究发现珊瑚无法在一个更温暖的世界里生存下来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82354",
-          "author": null,
-          "description": "DeepSeek 的研究人员在《自然》期刊上发表了 R1 模型论文《DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning》。研究人员披露 R1 的训练成本仅 29.4 万美元，但其基础模型花了约 600 万美元；R1 主要使用英伟达的 H800 AI 芯片训练，该芯片自 2023 年起被禁止出口到中国。DeepSeek 的主要创新是使用名叫纯强化学习（pure reinforcement learning）的方法自动化试错，对模型得出正确答案进行奖励，而不是教它遵循人类选择的推理示例。模型还使用名叫 group relative policy optimization 的方法给自己打分。对于今年早些使用 OpenAI 指责 DeepSeek 使用其模型的输出进行训练，研究人员予以否认。DeepSeek-R1  是 Hugging Face 上最受欢迎的模型之一，下载量达到 1090 万次，2025 年使用强化学习的大模型几乎都受到了 R1 的启发。",
-          "link": "https://www.solidot.org/story?sid=82354",
-          "publishedOn": "2025-09-18T14:54:05.000Z",
-          "wordCount": 221,
-          "title": "DeepSeek 发表 R1 模型论文，称训练成本仅 29.4 万美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82353",
-          "author": null,
-          "description": "美国气候研究机构气候中心（Climate Central）公布分析结果称，受全球变暖影响，今年 6-8 月日本观测到的“危险性高温日”达到 62 天，比未发生气候变暖的情况增加 22 天。该机构指出“若不及时减少温室气体排放，各地的生态系统和经济将遭受更多损害。”研究团队将各地在 1991-2020 年观测到的气温中，排名前 10% 的高温或超过该数值的日子定义为“危险性高温日”。这类高温超出人们日常适应范围，是中暑和死亡风险上升的参考指标。分析结果显示，在全球范围内约 9.5 亿人因气候变暖多经历了 30 天以上的“危险性高温日”。在日本以外的国家和地区中，增加天数最多是 59 天的牙买加（共 74 天）和开曼群岛（共 66 天），56 天的海地（共 66 天）等紧随其后。",
-          "link": "https://www.solidot.org/story?sid=82353",
-          "publishedOn": "2025-09-18T09:59:26.000Z",
-          "wordCount": 192,
-          "title": "全球变暖致日本危险性高温日增加 22 天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82352",
-          "author": null,
-          "description": "根据 NASA Exoplanet Archive 的数据，NASA 确认的系外行星数量达到了 6007 颗。最早的系外行星是在 1990 年代初确认的，2019 年确认的系外行星数量突破了 4000 颗，2022 年突破 5000 颗，3 年后的 2025 年 9 月突破了 6000 颗，而 NASA 的数据库里还有 TESS (Transiting Exoplanet Survey Satellite)太空望远镜探测到的 7668 颗候选行星等待确认。最新确认的一颗系外行星是 KMT-2023-BLG-1896L b，属于类海王星行星，质量约 16.35 倍于地球。",
-          "link": "https://www.solidot.org/story?sid=82352",
-          "publishedOn": "2025-09-18T09:49:13.000Z",
-          "wordCount": 197,
-          "title": "NASA 确认了逾六千颗系外行星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82351",
-          "author": null,
-          "description": "天空亮度有一个分类法叫 Bortle scale，以纽约业余天文学家 John E. Bortle 的名字命名，这套分类法共分 9 级，无人造光的最黑暗地区为 1 级，市中心为 9 级。大部分人一生中生活在亮度为 5 级以上的环境中，而今天越来越多的人生活在 7 级、8 级和 9 级亮度的地区。更明亮的 LED 灯的普及也让光污染愈发严重。近期的一项研究估计，从 2011-2022 年，全球光污染每年增长 10%，约每八年翻一番。尽管如此，Bortle 1 级的黑暗区仍然存在，比如澳大利亚内陆和智利北部的 Atacama 沙漠。但智利也面临在天文台附近建造采矿项目的压力。此外互联网卫星也给天文观测带来了额外的挑战：地球轨道上运行的卫星数量已从几百颗增加到 1.2 万颗，天文学家预测十年内卫星数量将达到 10 万颗以上。",
-          "link": "https://www.solidot.org/story?sid=82351",
-          "publishedOn": "2025-09-18T09:29:56.000Z",
-          "wordCount": 189,
-          "title": "最黑暗的夜晚愈来愈亮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82350",
-          "author": null,
-          "description": "FX 的研究部门自 2009 年以来一直跟踪英语剧本类电视剧的制作数量。根据其统计，剧本类电视剧制作数量在 2022 年达到峰值的 599 部，此后呈下降趋势。大受好评的新剧数量急剧下降，而流媒体平台则转向优先制作引起轰动的剧集的续集。这些获得续订的剧集也扩大了规模，大幅增加了制作预算。《Severance》第二季的制作费用达到了 2 亿美元，而《怪奇物语》第四季则高达 2.7 亿美元。Netflix 从 2018 年起大量制作非剧本类内容如纪录片和真人秀。与此同时，主要靠广告支持的免费视频平台 YouTube 则成为了一个巨头，不断扩大市场份额。YouTube 在流媒体观众数量方面领先于 Netflix、Paramount+ 和 Hulu。",
-          "link": "https://www.solidot.org/story?sid=82350",
-          "publishedOn": "2025-09-18T08:26:18.000Z",
-          "wordCount": 177,
-          "title": "电视的黄金时代可能已经结束",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82349",
-          "author": null,
-          "description": "根据世卫组织和世界气象组织的报告，全球有超过 24 亿工人暴露在极端高温下，每年造成超过 2285 万起职业伤害，有 1.9 万人死于与高温相关的工伤，世界各国政府正在实施保护工人免受日益加剧的热应激影响的法律。日本对未能在湿球温度达到 28 摄氏度时提供降温措施的雇主处以 3400 美元的罚款。新加坡要求大型户外场所安装时间分辨率为小时的温度传感器，要求在湿球温度达到 33 摄氏度时每小时休息 15分 钟。今年夏天希腊、意大利和西班牙的气温达到了 47 摄氏度，这些南欧国家下令下午停工。",
-          "link": "https://www.solidot.org/story?sid=82349",
-          "publishedOn": "2025-09-18T07:22:35.000Z",
-          "wordCount": 175,
-          "title": "极端高温催生新法律保护工人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82348",
-          "author": null,
-          "description": "美国国会众议院监督和政府改革委员（House Oversight and Government Reform Committee）致函 Valve 总裁 Gabe Newell、Discord CEO Humam Sakhnini、Twitch CEO Dan Clancy 以及 Reddit CEO Steve Huffman，要求他们于 10 月 8 日前来国会就其平台上的用户激进化问题作证。该委员会的主席、肯塔基州共和党人 James Comer 在一份声明中表示：“国会有责任监督激进分子推进政治暴力的网络平台。为防止未来出现激进化和暴力事件，Discord、Steam、Twitch 和 Reddit 的 CEO 必须到监督委员会面前，解释将采取哪些措施以确保其平台不被用于邪恶目的。”保守派们可能要打击游戏了：Valve 拥有最大的 PC 游戏平台 Steam、Discord 是最大的玩家讨论游戏的聊天应用，Twitch 是游戏直播平台，而 Reddit 上有大量的游戏讨论 subreddit。",
-          "link": "https://www.solidot.org/story?sid=82348",
-          "publishedOn": "2025-09-18T06:51:14.000Z",
-          "wordCount": 218,
-          "title": "美国国会要求 Valve、Discord 和 Twitch CEO 就用户激进化作证",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82347",
-          "author": null,
-          "description": "9 月 16 日下午，在长春航空展上两架小鹏汇天 eVTOL（电动垂直起降器）在飞行过程中发生碰撞，导致其中一架坠毁。小鹏汇天官方称，当事发时广东汇天通航已完成航展预演，正在进行双机编队训练，两架飞行器因间距控制不当发生接触。其中一架顺利降落，另一架则在着陆过程中因机身损伤引发起火。小鹏汇天强调，现场人员均安全，相关部门已迅速完成应急处置，事件具体原因仍在进一步调查中。但 CNN 报道称有一人受伤。小鹏汇天旗下“陆地航母”飞行汽车前不久宣布获得 5000 台订单及 15 亿元预收款。",
-          "link": "https://www.solidot.org/story?sid=82347",
-          "publishedOn": "2025-09-18T06:20:34.000Z",
-          "wordCount": 169,
-          "title": "小鹏汇天两辆飞行汽车在长春航展上相撞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82346",
-          "author": null,
-          "description": "GNOME 桌面环境项目释出了代号为 Brescia 的 GNOME 49。主要新特性包括：快速设置新增“请勿打扰”开关、登录屏幕专门的可访问性（Accessibility）菜单、快速设置菜单支持处理未知电源配置文件、支持 YUV422 和 YUV444 (HDR) 色彩空间、支持被动投屏（screen casts）和支持异步键盘映射设置。其它变化包括媒体控件、支持锁屏重启和关机操作，GNOME Display Manager(GDM)支持动态用户欢迎会话，以及多显示器设置中快速设置支持每个显示器亮度滑块。",
-          "link": "https://www.solidot.org/story?sid=82346",
-          "publishedOn": "2025-09-18T06:06:33.000Z",
-          "wordCount": 178,
-          "title": "GNOME 49 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82345",
-          "author": null,
-          "description": "根据发表在《Science Advances》期刊上的一项研究，野生黑猩猩每天通过食用成熟水果摄入的酒精量相当于一瓶啤酒。科学家认为这是人类对酒精的嗜好可能源自灵长类祖先的证据。与其它动物一样，黑猩猩也被发现会食用掉落在森林地面上的成熟水果。最新研究首次测量了它们通过食用成熟水果摄入的酒精量。研究人员测量了科特迪瓦和乌干达野生黑猩猩所大量食用的无花果和李子等水果中乙醇的含量，然后根据黑猩猩每天食用的水量量计算出它们大约摄入了 14 克的乙醇，相当于一瓶 330 毫升啤酒的酒精量。黑猩猩最常用食用的水果是酒精含量最高的水果。",
-          "link": "https://www.solidot.org/story?sid=82345",
-          "publishedOn": "2025-09-18T05:51:43.000Z",
-          "wordCount": 163,
-          "title": "黑猩猩每天食用熟果摄入的酒精量相当于一瓶啤酒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82344",
-          "author": null,
-          "description": "在发生多起与 ChatGPT 相关的青少年自杀案件之后，OpenAI 正引入更严格的安全措施。ChatGPT 将估计用户的年龄，如果认为用户未满 18 岁它可能会要求用户出示身份证件确认是否成年。本月初 OpenAI 已经为 ChatGPT  引入了家长控制功能。除了尝试估计或验证用户年龄，ChatGPT 还将接受训练，对青少年用户应用不同的规则，比如不会进行自杀或自残相关的讨论。如果未成年用户有自杀念头，OpenAI 将会尝试联系其父母或相关部门。",
-          "link": "https://www.solidot.org/story?sid=82344",
-          "publishedOn": "2025-09-17T15:35:15.000Z",
-          "wordCount": 173,
-          "title": "ChatGPT 将估计用户年龄，可能要求验证年龄",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82343",
-          "author": null,
-          "description": "Disney（包括漫威、卢卡斯影业和 20 世纪福克斯）、Warner Bros. Discovery（包括 DC 漫画） 和 NBCUniversal （包括梦工厂）起诉中国 AI 公司上海稀宇科技有限公司（MiniMax）蓄意且肆无忌惮的侵犯版权。在递交到加州中区联邦地区法院的诉状中，好莱坞巨头指控 MiniMax 无视美国版权法，将它们的版权角色作为自己的角色使用。MiniMax 运营着名为海螺（Hailuo）的图像和视频生成服务，大规模盗版和掠夺原告们的版权作品。MiniMax 宣传海螺服务是口袋里的好莱坞工作室，但其业务是建立在窃取好莱坞工作室知识产权的基础之上。起诉书列举了侵权案例——使用迪士尼的版权角色达斯维达生成图像和视频。好莱坞工作室寻求赔偿以及禁止 MiniMax 继续侵犯其版权作品。",
-          "link": "https://www.solidot.org/story?sid=82343",
-          "publishedOn": "2025-09-17T14:56:47.000Z",
-          "wordCount": 183,
-          "title": "迪士尼华纳等起诉中国 AI 公司侵犯版权",
           "imageUrl": null
         }
       ]
