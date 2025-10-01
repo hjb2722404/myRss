@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-09-30T02:55:50.992Z</updated>
+    <updated>2025-10-01T03:09:03.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[阿富汗断网超过一天]]></title>
+        <id>https://www.solidot.org/story?sid=82461</id>
+        <link href="https://www.solidot.org/story?sid=82461"/>
+        <updated>2025-09-30T14:25:56.000Z</updated>
+        <summary type="html"><![CDATA[根据 Netblocks 的监测数据，阿富汗断网已超过 24 小时。互联网和移动电话服务全部中断，全国居民生活在通讯几乎完全中断的状况下。阿富汗的全面断网始于周一晚上，进入周二后互联网和电话服务继续中断。首都喀布尔一名 42 岁的店主 Najibullah 说，"没有电话和互联网我们都是盲人，所有业务都依赖于手机。送货是用手机。这一情况就像是假期：每个人都在家里。市场完全冻结。"这是塔利班政府首次切断全国的通信，官方没有对此做出解释。法新社在断网前曾收到一名政府官员的警告，称有八到九千个通信支柱（telecommunications pillars）将被关闭，通信中断将持续到另行通知为止。目前阿富汗有限的通信只能依靠无线电和少数卫星链路。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds 从 Linux 6.18 中完全移除了 Bcachefs]]></title>
+        <id>https://www.solidot.org/story?sid=82460</id>
+        <link href="https://www.solidot.org/story?sid=82460"/>
+        <updated>2025-09-30T11:09:12.000Z</updated>
+        <summary type="html"><![CDATA[在 Linux 6.17 将 Bcachefs 文件系统列为由外部维护并且没有合并任何 Bcachefs 维护者 Kent Overstreet 递交的拉取请求之后，Linus Torvalds 在 Linux 6.18 中完全移除了 Bcachefs，总共删除了 11.7 万行代码。Torvalds 评论说，Bcachefs 现在是一个 DKMS 模块，内核代码过时了，删除内核中的代码以避免版本混淆。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界最高大桥花江峡谷大桥通车]]></title>
+        <id>https://www.solidot.org/story?sid=82459</id>
+        <link href="https://www.solidot.org/story?sid=82459"/>
+        <updated>2025-09-30T09:39:15.000Z</updated>
+        <summary type="html"><![CDATA[贵州花江峡谷大桥正式通车。大桥桥面距水面625米，高度超过北盘江第一桥近 60 米，成为新的世界第一高桥；大桥主桥跨径 1420 米，居山区桥梁跨径世界第一。大桥全长 2890 米，可将两岸通行时间从两个多小时缩短到两分钟左右。从 2022 年开工到正式通车，这座“超级工程”的建造只花了三年多。花江峡谷大桥钢桁梁吊装有 93 个节段，总重达 2.1 万吨，需在 600 多米高空实现毫米级精准对接。建设团队借助研发的“智慧缆索吊装系统”，全部吊装仅用了 73 天就全面完成；3.8 万平方米的桥面，建设团队在 1 个多月里完成了 5 层铺装。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CS 教授警告毕业生难找到工作]]></title>
+        <id>https://www.solidot.org/story?sid=82458</id>
+        <link href="https://www.solidot.org/story?sid=82458"/>
+        <updated>2025-09-30T09:12:00.000Z</updated>
+        <summary type="html"><![CDATA[以研究数字取证和深度伪造而知名的加州伯克利计算机科学教授 Hany Farid 表示，计算机科学在极短时间内从经得住时间考验的职业变成了剧变中的行业。他说，计算机科学专业的学生通常会在前四年获得五份实习机会，毕业时会收到多份高薪的工作机会。但如今这种情况不会发生了，如果能收到一份工作邀约他们就很高兴了。Farid 教授认为 AI 只是因素之一。计算机科学行业正在发生某种变化。他现在给学生的建议是掌握多种技能，因为不知道未来会发生什么。他说，AI 不会让律师失业，但会用 AI 的律师会让不会用 AI 的律师失业。他认为每个职业都如此。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rathole – 一个轻量级开源内网穿透工具，高吞吐、低占用，类 frp 工具]]></title>
+        <id>https://www.appinn.com/rathole/</id>
+        <link href="https://www.appinn.com/rathole/"/>
+        <updated>2025-09-30T08:07:11.000Z</updated>
+        <summary type="html"><![CDATA[rathole 是一款开源的轻量级内网穿透工具，基准测试显示延迟与 frp 相近，在高并发情况下表现更好，能提供更大的带宽，内存占用更少。并且两者使用方式也及其类似，单可执行文件配合服务器端与客户端配置文件，即可实现内网穿透。@Appinn 注意：支持 Windows、macOS、Linux，服务器]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因 AI 需求大涨 DRAM 价格翻倍]]></title>
+        <id>https://www.solidot.org/story?sid=82457</id>
+        <link href="https://www.solidot.org/story?sid=82457"/>
+        <updated>2025-09-30T08:02:26.000Z</updated>
+        <summary type="html"><![CDATA[美国调查公司 Omdia 的数据显示，10～12 月服务器用 DRAM 的预测价格为 4.3 美元/GB，比 2023 年 10～12 月高出 2.4 美元。PC 用产品的预测价格为 2.8 美元，比 2023 年 10～12 月上涨 1.2 美元。这一趋势背后的原因是 AI 服务器的需求猛增。AI 服务器主要使用 HBM 内存。主要 DRAM 内存芯片制造商三星电子、SK 海力士及美光缩小产量或停产了上一代的 DDR4，转为生产和销售 HBM。AI 服务器的内存需求正在推动整个半导体市场。美国半导体行业协会（SIA）公布的全球半导体销售额7月达到了 620.7 亿美元，同比增长 20.6%，首次突破 600 亿美元。已连续 21 个月超过去年同期。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微塑料可能削弱骨骼]]></title>
+        <id>https://www.solidot.org/story?sid=82456</id>
+        <link href="https://www.solidot.org/story?sid=82456"/>
+        <updated>2025-09-30T07:47:41.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Osteoporosis International》上的一篇综述，研究人员分析了 62 项研究，发现微塑料会破坏骨髓干细胞，刺激破骨细胞——一种削弱骨组织的细胞，从而削弱骨骼。实验室实验发现，微塑料颗粒会降低细胞活性，诱导细胞过早衰老，改变基因表达，引发炎症反应。动物研究发现，微塑料的积累会降低白细胞数量，破坏骨骼微结构，导致细胞结构不规则，增加骨折风险。巴西 Campinas 州立大学的 Rodrigo Bueno de Oliveira 表示，这些影响会阻碍实验动物的骨骼生长。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChronoFrame – 自托管个人画廊，支持 LivePhoto、EXIF 解析、照片地图、在线管理照片]]></title>
+        <id>https://www.appinn.com/chronoframe/</id>
+        <link href="https://www.appinn.com/chronoframe/"/>
+        <updated>2025-09-30T04:23:01.000Z</updated>
+        <summary type="html"><![CDATA[ChronoFrame 是一款开源的个人画廊工具，需要自托管。可以用来丝滑的展示照片，支持 LivePhoto、EXIF 解析、照片地图。青小蛙问道有什么用时，开发者 @HoshinoSuzumi 说：不管是想向他人分享自己的摄影、图像作品时，还是想在一个地方欣赏自己的旅行足迹（照片地图），都可以使]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Intl.Segmenter返回更准确的字符长度]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=11883</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/"/>
+        <updated>2025-09-30T02:57:06.000Z</updated>
+        <summary type="html"><![CDATA[Intl.Segmenter不仅能精准返回Emoji字符的长度，还能实现中文语言的自动分词，分句效果，这个特性比预想的实用的多了。]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿富汗断网]]></title>
         <id>https://www.solidot.org/story?sid=82454</id>
@@ -926,90 +1016,6 @@ CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the Di
         <link href="https://www.solidot.org/story?sid=82375"/>
         <updated>2025-09-21T15:43:20.000Z</updated>
         <summary type="html"><![CDATA[英国研究发现，饮食习惯接近地中海饮食的人群，牙龈健康状况往往更佳，患牙龈疾病的可能性更低，体内炎症水平也可能更低。不遵循地中海饮食模式的人，更易患上严重的牙龈疾病，尤其是频繁食用红肉的人群。研究团队对英国伦敦国王学院口腔、牙科与颅面生物样本库中的 200 名住院患者展开评估，具体方式包括为患者进行牙科检查、采集血样，以及通过问卷调查了解饮食习惯。地中海饮食以注重水果、蔬菜、全谷物和健康脂肪而闻名。已有研究表明，这种饮食模式与重大疾病较低的患病风险相关，包括心血管疾病、神经退行性疾病和某些癌症。最新研究结果表明，均衡的地中海饮食可能有助于减少牙龈疾病的发生，并降低全身性炎症水平。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 研究人员称 AI 幻觉在数学上是不可避免的]]></title>
-        <id>https://www.solidot.org/story?sid=82374</id>
-        <link href="https://www.solidot.org/story?sid=82374"/>
-        <updated>2025-09-21T14:41:19.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI 研究人员在预印本平台 arxiv 上发表了一篇论文，指出由于大模型使用的统计学特性以及计算限制，即使有完美的数据，AI 仍然会产生貌似可信但实际上错误的输出。研究人员承认，AI 幻觉在数学上是不可避免的，无法通过更先进的工程技术解决。研究人员在论文中称，类似面对考试难题的学生，大模型会在不确定的情况下猜测，产生貌似可信但实际错误的表述，而不是承认不确定性。即使是最先进的 AI 系统，幻觉仍然存在，会破坏信任。研究人员证明，幻觉源于训练大模型使用的统计学特性，而非实现缺陷。研究人员测试了竞争对手 DeepSeek-V3 模型、Meta AI 和 Claude 3.7 Sonnet，以及 OpenAI 自己的 GPT 系列模型。研究人员称，ChatGPT 也会产生幻觉，GPT-5 有更少的幻觉，但幻觉仍然会发生，且更先进的推理模型比简单的系统更容易产生幻觉：o1 推理模型 16% 的时间会产生幻觉，而较新的 o3 和 o4-mini 分别有 33% 和 48% 的时间会产生幻觉。OpenAI 的研究识别了三个导致幻觉不可避免的数学因素：当训练数据集中信息过少时的认知不确定性，模型局限性和计算难解性。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS 开源终端 iTerm2 的进化：终于可以自己上网查资料了，新增浏览器与 AI 聊天功能]]></title>
-        <id>https://www.appinn.com/iterm2-browser-plugin/</id>
-        <link href="https://www.appinn.com/iterm2-browser-plugin/"/>
-        <updated>2025-09-21T07:19:41.000Z</updated>
-        <summary type="html"><![CDATA[著名的开源 macOS 终端工具 iTerm2 在 3.6.1 版本中新增了两个功能：浏览器插件、AI 聊天。可以让用户在 iTerm2 的新标签页中浏览网页，而 AI 聊天则可以理解终端内容，并直接操作终端，执行命令。@Appinn 另外，iTerm2 也启用了新 Logo，更像 AI 了。 iT]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搜狗输入法云控下发模块悄悄纂改 Edge 和 Chrome 配置]]></title>
-        <id>https://www.solidot.org/story?sid=82373</id>
-        <link href="https://www.solidot.org/story?sid=82373"/>
-        <updated>2025-09-21T00:49:39.000Z</updated>
-        <summary type="html"><![CDATA[安全公司火绒报告，搜狗输入法云控下发模块会悄悄纂改 Edge 和 Chrome 浏览器的主页和默认搜索引擎设置。相关搜狗输入法版本为 15.7.0.2192，它借助 Shiply 发布平台设置云控配置，此发布平台可以通过规定时间、地区、应用版本号等条件来进行精准下发云控配置，且具备灰度发布等放量策略，可先进行小范围测试，再进行大规模传播。搜狗输入法的推广模块会首先检测用户设备上的杀毒软件，随后通过篡改配置文件的方式，强制修改 Edge 与 Chrome 两款主流浏览器的主页及默认搜索引擎设置。以 Chrome 为例，打开浏览器会跳转至 page.wenxin9.com，随后再跳转至导航页。在导航页内点击百度链接，链接均带有来源标识参数。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Try an Online Android Emulator! (For Free!)]]></title>
-        <id>https://catonmat.net/try-an-online-android-emulator-for-free</id>
-        <link href="https://catonmat.net/try-an-online-android-emulator-for-free"/>
-        <updated>2025-09-21T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: Need to see how your site or app works on Android without buying a phone? Fire up a free online Android emulator at browserling.com/android. The emulator runs right in your browser – no downloads, no installs, no setup.
-What's an Online Android Emulator?
-An Android emulator is like a "phone inside your computer". It runs on a server in the cloud, and you control it through your browser. You can tap, swipe, and test apps or websites exactly like you would on a real phone.
-Is It Safe to Use?
-Yep! The emulator runs remotely, so anything you test stays contained. You don't risk messing up your computer or your personal phone. Even if an app has bugs or hidden malware, it can't escape the emulator.
-Can I Test My Mobile Website?
-Absolutely. Just load your site inside the emulator and see h…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Try RBI – Remote Browser Isolation! (For Free!)]]></title>
-        <id>https://catonmat.net/try-rbi-remote-browser-isolation-for-free</id>
-        <link href="https://catonmat.net/try-rbi-remote-browser-isolation-for-free"/>
-        <updated>2025-09-20T23:35:00.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: Want your team to browse the web safely without risking company devices or networks? Try free Remote Browser Isolation at browserling.com/browse. It runs right in your browser. No installs, no downloads.
-What's Remote Browser Isolation (RBI)?
-Think of RBI as a "browser in the cloud". Instead of running websites directly on your laptop or office PC, RBI loads them on a secure server somewhere else. You just see a clean, safe video stream of the website. Any risky code or malware stays far away from your company systems.
-Why Should Managers Care?
-One bad click from an employee can cost thousands in lost time, ransomware, or data leaks. RBI reduces that risk to almost zero. With RBI, your staff can open links, check supplier sites, or even handle suspicious web apps without bringing dan…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Try a Browser Emulator! (For Free!)]]></title>
-        <id>https://catonmat.net/try-a-browser-emulator-for-free</id>
-        <link href="https://catonmat.net/try-a-browser-emulator-for-free"/>
-        <updated>2025-09-20T22:15:00.000Z</updated>
-        <summary type="html"><![CDATA[TLDR: Want to see how your site looks in different browsers without installing them all? Try a free online browser emulator at browserling.com/browse. It runs in your browser. No installs, no downloads.
-What's a Browser Emulator?
-A browser emulator is a special browser that works like the real thing but runs on another computer in a virtual machine. You control it from your screen and can test sites in different browsers (Chrome, Firefox, Saferi, Edge, etc) without installing them. This makes it easy to spot issues and see how websites look for different users.
-Why Do Developers Use It?
-Web developers need their sites to look good everywhere: in Chrome, Firefox, Edge, Safari, even Internet Explorer (yep, some people still use it). A browser emulator lets you check your site across all thes…]]></summary>
-        <author>
-            <name>catonmat.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梵蒂冈的 Flathub 软件包人均安装量最高]]></title>
-        <id>https://www.solidot.org/story?sid=82372</id>
-        <link href="https://www.solidot.org/story?sid=82372"/>
-        <updated>2025-09-20T15:10:21.000Z</updated>
-        <summary type="html"><![CDATA[天主教教宗驻地最爱 Linux 软件了。Reddit 用户统计了 Linux 应用商店 Flathub 在不同国家/地区的下载量，然后根据其人口总数计算了人均下载量。结果出人意料：罗马的城中之国梵蒂冈的人均下载量全球最高，一大原因是梵蒂冈只有 496 人（维基百科给出的 2024 年数据是 882 人），总下载量 6878，人均下载量接近 14，远超第二名德国的人均 4 次。统计显示，Flathub 在欧洲、美国、加拿大、澳大利亚和新西兰相当受欢迎，但在亚洲和非洲没多少用户。Flathub 提供了 Flatpak 打包的 Linux 软件，绝大部分 Linux 发行版都支持运行 Flatpak 软件。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
