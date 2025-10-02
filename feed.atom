@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-10-01T03:09:03.185Z</updated>
+    <updated>2025-10-02T02:55:03.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kindle Scribe 加入 AI 驱动的笔记本功能]]></title>
+        <id>https://www.solidot.org/story?sid=82465</id>
+        <link href="https://www.solidot.org/story?sid=82465"/>
+        <updated>2025-10-01T15:42:57.000Z</updated>
+        <summary type="html"><![CDATA[亚马逊推出了三款 Kindle Scribe 新版本。Kindle Scribe 是专为笔记和阅读而设计的电子书阅读器，新版本配备了 11 英寸防眩光 E Ink 显示屏，而旧版本使用的是 10.2 英寸。Kindle Scribe 新版本包括了标准版，起售价 499.99 美元；无前置灯的版本售价 429.99 美元；彩色版售价 629.99 美元。新型号还改进了书写和翻译速度，比上一代提升 40%；支持 AI 驱动的笔记搜索和摘要，支持访问 Google Drive 和Microsoft OneDrive 中的文档，支持将可编辑的笔记文本导出到 OneNote。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Imgur 屏蔽英国用户访问]]></title>
+        <id>https://www.solidot.org/story?sid=82464</id>
+        <link href="https://www.solidot.org/story?sid=82464"/>
+        <updated>2025-10-01T15:16:38.000Z</updated>
+        <summary type="html"><![CDATA[流行图库 Imgur 有逾 1.3 亿用户，它因为母公司面临英国监管机构罚款而宣布屏蔽用户访问其服务。英国信息专员办公室(Information Commissioner's Office 简写 ICO)于今年三月启动了对 TikTok 和 Reddit 等公司的调查，调查重点是平台如何处理儿童数据和验证其年龄，上个月 ICO 对 Imgur 母公司 MediaLab 发出了罚款的意向通知书。ICO 临时执行董事 Tim Capel 对 Imgur 此举表示，即使屏蔽了英国用户访问，该机构仍然可能对 MediaLab 处以罚款，退出英国并不能逃避以前违反数据保护规定的责任。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软宣布 Windows 11 v25H2 GA]]></title>
+        <id>https://www.solidot.org/story?sid=82463</id>
+        <link href="https://www.solidot.org/story?sid=82463"/>
+        <updated>2025-10-01T14:29:50.000Z</updated>
+        <summary type="html"><![CDATA[微软正式宣布 Windows 11 25H2 GA。该版本的版本号为 26200.6584。Windows 11 24H2 用户将通过 enablement packages(eKB)安装最新更新，但 Windows 11 23H2 用户没有 eKB，最佳方法是 Windows Update。用户可选择现在下载 Installation Assistant 安装 Windows 11 25H2，或者等到 10 月 14 日通过 Windows Server Update Services (WSUS)安装更新。Windows 11 25H2 主要变化包括：移除 PowerShell 2.0 和 Windows Management Instrumentation 命令行工具；启用 AI 辅助安全编码——微软没有对此进行解释；Wi-Fi 7；通过组策略选择卸载预安装的 Microsoft Store 应用；等等。Windows 11 25H2 将一直支持到 2027 年 10 月。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare 赞助 Ladybird 浏览器引擎项目]]></title>
+        <id>https://www.solidot.org/story?sid=82462</id>
+        <link href="https://www.solidot.org/story?sid=82462"/>
+        <updated>2025-10-01T13:43:22.000Z</updated>
+        <summary type="html"><![CDATA[今天的大部分浏览器使用 Google 的 Blink/Chromium、苹果的 WebKit 或 Mozilla 的 Gecko 渲染引擎，此外源自 Mozilla、使用 Rust 语言的 Servo 引擎还在开发之中。现在 Cloudflare 出人意料的宣布赞助 Ladybird 浏览器开源引擎项目。Ladybird 由 GitHub 联合创始人、前 CEO Chris Wanstrath 和 SerenityOS 项目创始人 Andreas Kling 发起，使用 C++ 语言开发，设计成为快速、标准兼容和无外部依赖的全新浏览器引擎。Chris Wanstrath 向该项目资助了 100 万美元。Cloudflare 的赞助意味着项目将有更多资源加速开发。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Same Idea, Different Paint Brush]]></title>
+        <id>https://css-tricks.com/?p=389238</id>
+        <link href="https://css-tricks.com/same-idea-different-paint-brush/"/>
+        <updated>2025-10-01T13:02:47.000Z</updated>
+        <summary type="html"><![CDATA[Naturally, everything looks like code when I'm staring at a blank canvas. That's whether the canvas is paper, a screen, some Figma artboard, or what have you.
+Same Idea, Different Paint Brush originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新 sora 邀请码接力]]></title>
+        <id>https://www.appinn.com/sora-invite-relay/</id>
+        <link href="https://www.appinn.com/sora-invite-relay/"/>
+        <updated>2025-10-01T13:00:14.000Z</updated>
+        <summary type="html"><![CDATA[好友发来了最新的 sora 邀请码，就…可以一起在评论区接力。另外还有南国叶同学也发来了邀请码，还提到，有个 OpenAI 员工发的可重复多次的邀请码。 当你注册了以后，也会获得邀请码，愿意的话可以从评论区分享出来。 在网页也可以输入邀请码： https://sora.chatgpt.c]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞牛TV 上架 Apple TV，附 TestFlight 链接]]></title>
+        <id>https://www.appinn.com/fnos-tvos-testflight/</id>
+        <link href="https://www.appinn.com/fnos-tvos-testflight/"/>
+        <updated>2025-10-01T04:34:48.000Z</updated>
+        <summary type="html"><![CDATA[飞牛TV 上架 Apple TV，是飞牛影视的 Apple TV 版本，目前已经上架 tvOS，可以通过 TestFlight 来安装测试版本。@Appinn TestFlight 链接 俗话说，TestFlight 先到先得，后到满员： 使用 iPhone 打开上面的链接，根据提示安装 TestF]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿富汗断网超过一天]]></title>
         <id>https://www.solidot.org/story?sid=82461</id>
@@ -896,126 +967,6 @@ CSS Typed Arithmetic originally published on CSS-Tricks, which is part of the Di
         <link href="https://www.solidot.org/story?sid=82385"/>
         <updated>2025-09-22T16:20:02.000Z</updated>
         <summary type="html"><![CDATA[能通过 U 盘运行的便捷式匿名发行版 Tails 释出了 7.0 版本。Tails 7.0 是基于 Linux 6.12.43、Debian 13 ("trixie") 和 GNOME 48 的首个版本，使用 z std 而不是 xz 压缩 USB 和 ISO 镜像，实现了更快的启动速度。开发者将 Tails 7.0 献给 Tails、Tor 和 Debian 项目的资深开发者 Jérémy Bobbio aka Lunar——他于 2024 年 11 月 8 日去世。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockBlasters 游戏补丁被发现含有恶意程序]]></title>
-        <id>https://www.solidot.org/story?sid=82384</id>
-        <link href="https://www.solidot.org/story?sid=82384"/>
-        <updated>2025-09-22T14:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Valve 从 Steam 商店下架了 2D 平台游戏《BlockBlasters》，原因是该游戏最近释出的一个补丁被发现含有恶意程序。《BlockBlasters》于 7 月 31 日发布，8 月 30 日释出了补丁 Build 19799326，其中的文件 game2.bat 表现出了恶意行为，它会收集用户的 IP 和位置信息，检测安装的杀毒软件；收集用户的登录信息，上传收集的信息，执行 VBS 启动器脚本。它最终会安装一个后门和一个窃取程序，从 Google Chrome、Brave Browser 和 Microsoft Edge 窃取信息，它主要窃取加密货币。可能有数百名玩家受到这次攻击的影响。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1000 元送上！同学，非常感谢你对老乡鸡菜品开源的贡献（这居然是真的！]]></title>
-        <id>https://www.appinn.com/laoxiangji/</id>
-        <link href="https://www.appinn.com/laoxiangji/"/>
-        <updated>2025-09-22T14:02:17.000Z</updated>
-        <summary type="html"><![CDATA[这是一件真事（图里的文字不用读，后面有详细的）： 上面这张价值 1000 人民币的老乡鸡充值卡，也是真的。但被谁领了，就不得而知了  😂 事情，是这样的： 今天下午，vlad 同学发来消息： 青小蛙就去围观了这个开源项目的 issues，相当于问题反馈讨论区。 就看到了开头那张卡所在。开始我都没看懂]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国海军成功测试舰载机电磁弹射]]></title>
-        <id>https://www.solidot.org/story?sid=82383</id>
-        <link href="https://www.solidot.org/story?sid=82383"/>
-        <updated>2025-09-22T11:27:57.000Z</updated>
-        <summary type="html"><![CDATA[新华社报道，中国海军宣布，歼-15T、歼-35和空警-600三型舰载机，已于此前成功完成在福建舰上的首次弹射起飞和着舰训练。这是我国首次在弹射型航母上，实现多型号先进舰载机的电磁弹射和阻拦着舰。美国在 2010 年完成了最早的陆基电磁弹射，福特号航母在 2013 年安装了第一套电磁弹射器，但因为种种问题至今没有进行舰载机电磁弹射测试。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国银行仍然运行 1960 年代写的代码]]></title>
-        <id>https://www.solidot.org/story?sid=82382</id>
-        <link href="https://www.solidot.org/story?sid=82382"/>
-        <updated>2025-09-22T10:59:46.000Z</updated>
-        <summary type="html"><![CDATA[英国银行仍然运行 1960 年代写的代码，而了解这些代码的人寥寥无几。根据一项对 200 家英国银行的调查，16% 的银行依赖 1960 年代的软件，近 40% 的银行仍在维护 1970 年代的代码。50% 的银行承认，他们依赖的软件只有一两位已到或接近退休年龄的员工了解。31.5% 的银行表示，他们依赖一两位未到退休年龄的员工掌握旧系统。38 家银行称，他们仍在使用设计用于在穿孔卡等物理系统上运行的代码，15% 的银行运行的是为房间大小的大型机编写的代码。银行机构庞大，不太可能在每一次科技创新时都重构基础设施。一位受访者表示，其银行核心系统建于 1970 年代，至今仍在使用 Cobol 语言。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西雅图艰难应对科技工作减少]]></title>
-        <id>https://www.solidot.org/story?sid=82381</id>
-        <link href="https://www.solidot.org/story?sid=82381"/>
-        <updated>2025-09-22T09:26:13.000Z</updated>
-        <summary type="html"><![CDATA[微软雷德蒙德总部附近的 Five Stones 咖啡店几个月前招聘咖啡师，收到的应聘者简历列出了在微软等科技公司任职的经历，应聘者通常有硕士学位，有平面设计或市场营销经验，甚至拥有高级职位，而他们应聘的职位薪水是当地的最低薪水：时薪 16.66 美元。Five Stones 咖啡店没有录取这些高学历应聘者，而是优先考虑传统的入门级咖啡师，如学历为高中的人。根据跟踪裁员的 Layoffs.fyi 网站的数据，西雅图最大的两家科技公司微软和亚马逊自 2023 年以来裁员逾 4.6 万人，占到了当地科技公司裁员总数的 85%。科技行业大规模裁员冲击了西雅图的其它领域。亚马逊和微软园区周边商业和购物区的餐饮和零售支出减少，热门地区交易额下降 7%。西雅图在 2025 年上半年有 450 家餐厅关门，相当于当地餐厅总数的 16%。Uber 司机 Juan Prado 在 2021 年的收入达到六位数，经常接送乘客去面试，但今年此类的需求要少得多。当地的商业地产空置率也创历史新高。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TimeSignal – 好久没见过这么讨厌的闹钟了[iOS]]]></title>
-        <id>https://www.appinn.com/timesignal/</id>
-        <link href="https://www.appinn.com/timesignal/"/>
-        <updated>2025-09-22T09:08:02.000Z</updated>
-        <summary type="html"><![CDATA[TimeSignal 是一款又难用又没用的闹钟应用，它通过奇怪的声音来提醒你闹钟时间到了，可以持续响铃30分钟。并且需要找到三个完全相同的 Emoji 表情，才能跳过闹钟，否则烦死你。最多设置8组闹钟。@Appinn 白天用都觉得很烦啊。 视频介绍 先来看视频： TimeSignal 特色 青小蛙觉]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天文学家在地球附近发现一颗准卫星]]></title>
-        <id>https://www.solidot.org/story?sid=82380</id>
-        <link href="https://www.solidot.org/story?sid=82380"/>
-        <updated>2025-09-22T08:35:40.000Z</updated>
-        <summary type="html"><![CDATA[天文学家在地球附近发现一颗准卫星（quasi-moon）。被称为 2025 PN7 的天体是一颗近地小行星，围绕太阳飞行一周大约一年时间，可能在地球附近徘徊了约 60 年，直到今年夏天近距离掠过地球时才被望远镜观测到。此类准卫星因体积小且暗淡无光而难以被发现，夏威夷的 Pan-STARRS 天文台是在 8 月 29 日观测到 2025 PN7，历史档案数据显示它在类地球轨道上运行了数十年。天文学家仍致力于确定 2025 PN7 的大小，有估计认为其直径为 19 米或 30 米，它可能是已知绕地球运行的最小准卫星。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软的 Entra ID 漏洞可能造成灾难性的后果]]></title>
-        <id>https://www.solidot.org/story?sid=82379</id>
-        <link href="https://www.solidot.org/story?sid=82379"/>
-        <updated>2025-09-22T06:24:27.000Z</updated>
-        <summary type="html"><![CDATA[世界各地的企业过去十年将其数字基础设施从自托管服务器迁移至云端，它们受益于云服务提供商如微软提供的安全功能。但如果云服务商本身出现问题，后果可能将是灾难性的。安全研究员 Dirk-jan Mollema 在微软云服务 Azure 的身份和访问管理平台 Entra ID 发现了两个漏洞，可用于获得管理员权限，允许他访问 Entra ID 中储存的所有用户账号，从而造成灾难性影响。Mollema 于 7 月 14 日向微软披露了漏洞，微软于 7 月 17 日发布了补丁。微软之后向 Mollema 确认，问题已于 7 月 23 日修复，8 月实施了额外补救措施。微软于 9 月 4 日公开了漏洞的 CVE。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软向用户推送 Gaming Copilot，中国地区除外]]></title>
-        <id>https://www.solidot.org/story?sid=82378</id>
-        <link href="https://www.solidot.org/story?sid=82378"/>
-        <updated>2025-09-22T05:49:03.000Z</updated>
-        <summary type="html"><![CDATA[微软开始向 Windows 11 用户推送游戏助手 Gaming Copilot 的 Beta 版本，中国地区除外。Gaming Copilot 还将在下个月提供给 Xbox 移动应用用户。要使用 Gaming Copilot，用户需要安装 Xbox PC app，使用快捷键 Windows + G 打开 Game Bar，寻找到 Gaming Copilot，登陆 Xbox 帐户。玩家可使用 Gaming Copilot 的语音模式（Voice Mode）获取游戏任务相关的帮助，推荐新游戏，查看成就或游戏历史记录等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[退休有助于改善心理健康，但并非人人如此]]></title>
-        <id>https://www.solidot.org/story?sid=82377</id>
-        <link href="https://www.solidot.org/story?sid=82377"/>
-        <updated>2025-09-22T04:02:12.000Z</updated>
-        <summary type="html"><![CDATA[退休有助于改善心理健康，但并非对人人有效。根据发表在《SSM - Mental Health》起上的一项新研究，在结束朝九晚五的工作后，退休对心理健康的影响取决于收入水平、所从事工作的性质以及离开职场的年龄。爱丁堡大学团队评估了荷兰 1583 名受访者的数据集，受访者已退休且未从事任何有偿工作，平均退休年龄 66-67 岁。结果显示：低收入群体——收入低于最低工资标准——退休期间心理健康水平最低，他们表现出了初期的改善，但约两年半后出现下降，呈现出倒 U 形特征，即所谓的“蜜月消退效应”；中等收入群体退休前的心理健康状况显著改善，之后略有提升；高收入群体在退休前后心理健康状况没有变化，但在退休后出现显著改善，其中较晚退休者改善较慢。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教宗拒绝授权创建一个 AI 教宗]]></title>
-        <id>https://www.solidot.org/story?sid=82376</id>
-        <link href="https://www.solidot.org/story?sid=82376"/>
-        <updated>2025-09-22T03:03:16.000Z</updated>
-        <summary type="html"><![CDATA[教宗良十四世（Pope Leo XIV）拒绝创建一个 AI 教宗（AI Pope），他在接受传记作家 Eloise Allen 采访时表示：“如果要说谁不应该被虚拟化身所代表，我认为教宗绝对位居前列。” 教宗说：“最近有人请求授权打造一个我 的 AI 版本，任何人都可以登录网站与教宗进行私人对话。AI 教宗会回答他们的问题，而我说‘我不会授权’。”良十四世此前曾表示，他选择“良”名号部分是为了致敬 19 世纪的教宗良十三世（Pope Leo XIII）。良十三世以其论述工业革命期间工人阶级受剥削问题的《新事通谕》（Rerum novarum）闻名。良十四世对枢机主教们的首次讲话便称 AI 是“另一场工业革命”。教宗说：“如果整个世界自动化，只有少数人有能力不仅生存下去还能过上富足有意义的生活，那么未来将会出现一个大问题，一个严重的问题。”他担心投资 AI 的超级富豪完全忽视了人类和人性的价值，如果教会不为此发声，或者无人为此发声，那么危险就在于数字世界将自行其是，人类沦为棋子，被置之一旁。教宗表示不反对进步或新技术，但他不喜欢目前事情的发展方向。他此前曾表示，尽管 AI 能够“模拟人类推理的某些方面”，并以惊人的效率完成任务，但它仍然无法替代真正的道德分辨和建立“真正的人际关系”。这些科技的发展，必须与人类和社会的价值观，能做出合乎良知判断的能力以及日益增长的人类责任感并行。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地中海饮食与更低的牙龈疾病风险相关]]></title>
-        <id>https://www.solidot.org/story?sid=82375</id>
-        <link href="https://www.solidot.org/story?sid=82375"/>
-        <updated>2025-09-21T15:43:20.000Z</updated>
-        <summary type="html"><![CDATA[英国研究发现，饮食习惯接近地中海饮食的人群，牙龈健康状况往往更佳，患牙龈疾病的可能性更低，体内炎症水平也可能更低。不遵循地中海饮食模式的人，更易患上严重的牙龈疾病，尤其是频繁食用红肉的人群。研究团队对英国伦敦国王学院口腔、牙科与颅面生物样本库中的 200 名住院患者展开评估，具体方式包括为患者进行牙科检查、采集血样，以及通过问卷调查了解饮食习惯。地中海饮食以注重水果、蔬菜、全谷物和健康脂肪而闻名。已有研究表明，这种饮食模式与重大疾病较低的患病风险相关，包括心血管疾病、神经退行性疾病和某些癌症。最新研究结果表明，均衡的地中海饮食可能有助于减少牙龈疾病的发生，并降低全身性炎症水平。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
