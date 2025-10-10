@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/jarkviewer/",
+          "author": "青小蛙",
+          "description": "jarkViewer看图 是一款简单的 Windows 开源看图工具，支持苹果的 LivePhoto 和安卓的 MotionPhoto 实况照片，从此可以在电脑上看到带声音、视频的照片了（这听起来像是视频 😂），然后还支持读取 AI 生成照片的提示此 prompt 信息，支持 avif、heif、j",
+          "link": "https://www.appinn.com/jarkviewer/",
+          "publishedOn": "2025-10-09T08:04:05.000Z",
+          "wordCount": 2676,
+          "title": "jarkViewer看图 – 现代化开源看图工具，支持新格式、实况照片，支持读取AI图片提示词[Windows]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/10/Copy-of-appinn-homework-2025-10-09T154721.671.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/amazon-cn-wd-18tb-2025/",
+          "author": "青小蛙",
+          "description": "真的是好久没推荐亚马逊的硬盘了。自从亚马逊中国只剩下小程序之后，青小蛙就关注的太少了。@Appinn 目前亚马逊在小程序在售一款 18TB 的西部数据 Elements Desttop 外置硬盘，售价 ¥1783.2 人民币，进口税 ¥187.33，合计到手价 ¥1968.18 使用微信扫码下方二维",
+          "link": "https://www.appinn.com/amazon-cn-wd-18tb-2025/",
+          "publishedOn": "2025-10-09T03:50:45.000Z",
+          "wordCount": 2519,
+          "title": "亚马逊西部数据外置硬盘特价，14T、22T 已缺货，仅剩几块18TB",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/10/Copy-of-appinn-homework-2025-10-09T113342.547.jpg"
+        },
+        {
           "id": "https://www.appinn.com/synology-dsm73-hdd-limit-removed/",
           "author": "青小蛙",
           "description": "多家媒体确认，在经历了小半年的广泛批评以及销量不振之后，群晖 Synology 终于要在最新的 DSM 7.3 系统中，取消专用硬盘限制，未来的 NAS 产品将恢复之前的状况，可以使用任何硬盘。@Appinn 但注意，目前确认取消的是 HDD 机械硬盘限制，SSD 存储池依旧需要专用 SSD 硬盘才",
@@ -90,26 +110,6 @@
           "wordCount": null,
           "title": "飞牛TV 上架 Apple TV，附 TestFlight 链接",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.appinn.com/rathole/",
-          "author": "青小蛙",
-          "description": "rathole 是一款开源的轻量级内网穿透工具，基准测试显示延迟与 frp 相近，在高并发情况下表现更好，能提供更大的带宽，内存占用更少。并且两者使用方式也及其类似，单可执行文件配合服务器端与客户端配置文件，即可实现内网穿透。@Appinn 注意：支持 Windows、macOS、Linux，服务器",
-          "link": "https://www.appinn.com/rathole/",
-          "publishedOn": "2025-09-30T08:07:11.000Z",
-          "wordCount": 2809,
-          "title": "rathole – 一个轻量级开源内网穿透工具，高吞吐、低占用，类 frp 工具",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/09/Copy-of-appinn-homework-2025-09-30T153006.914.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/chronoframe/",
-          "author": "青小蛙",
-          "description": "ChronoFrame 是一款开源的个人画廊工具，需要自托管。可以用来丝滑的展示照片，支持 LivePhoto、EXIF 解析、照片地图。青小蛙问道有什么用时，开发者 @HoshinoSuzumi 说：不管是想向他人分享自己的摄影、图像作品时，还是想在一个地方欣赏自己的旅行足迹（照片地图），都可以使",
-          "link": "https://www.appinn.com/chronoframe/",
-          "publishedOn": "2025-09-30T04:23:01.000Z",
-          "wordCount": 2554,
-          "title": "ChronoFrame – 自托管个人画廊，支持 LivePhoto、EXIF 解析、照片地图、在线管理照片",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/09/Copy-of-appinn-homework-2025-09-30T111438.318.jpg"
         }
       ]
     },
@@ -118,6 +118,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=389698",
+          "author": "Geoff Graham",
+          "description": "One of our favorites, Andy Clarke, on the one thing keeping the CSS contrast-color() function from true glory:\nFor my website design, I chose a dark blue background colour (#212E45) and light text (#d3d5da). This \n…\nThe thing about contrast-color originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-thing-about-contrast-color/",
+          "publishedOn": "2025-10-08T14:52:58.000Z",
+          "wordCount": 1858,
+          "title": "The thing about contrast-color",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/03/contrast-colors.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=389550",
           "author": "Andy Clarke",
@@ -137,16 +147,6 @@
           "wordCount": 3394,
           "title": "Same Idea, Different Paint Brush",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/mom-painting-thumb.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389331",
-          "author": "Juan Diego Rodríguez",
-          "description": "Safari 26 adds:75 new features, 3 deprecations, and 171 other improvements. Here's all the CSS goodness you'll want to know about.\nTouring New CSS Features in Safari 26 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/touring-new-css-features-in-safari-26/",
-          "publishedOn": "2025-09-29T14:31:16.000Z",
-          "wordCount": 3871,
-          "title": "Touring New CSS Features in Safari 26",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/09/thumbnail.png"
         }
       ]
     },
@@ -171,24 +171,93 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11883",
-          "author": "张 鑫旭",
-          "description": "Intl.Segmenter不仅能精准返回Emoji字符的长度，还能实现中文语言的自动分词，分句效果，这个特性比预想的实用的多了。",
-          "link": "https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/",
-          "publishedOn": "2025-09-30T02:57:06.000Z",
-          "wordCount": 1608,
-          "title": "使用Intl.Segmenter返回更准确的字符长度",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=82503",
+          "author": null,
+          "description": "Canonical 释出了代号为 Questing Quokka 的 Ubuntu 25.10。这是一个短期支持版本，仅支持 9 个月，明年 4 月发布的下一个版本 Ubuntu 26.04 是长期支持版本。Ubuntu 25.10 的新特性包括：Linux kernel 6.17、Mesa 25.2.3、GNOME 49、Firefox 143、LibreOffice 25.8、Audacity 3.7.1、GIMP 3.0.4、BlueZ 5.83、Pipewire 1.4.7、OpenSSL 3.5.3、GCC 15.2、binutils 2.45 以及 glibc 2.42 等等。其它重要变化包括：Ubuntu 会话仅支持 Wayland，英伟达私有驱动启用暂停/恢复支持，新的图像查看器和终端默认应用，TPM 支持全盘加密的恢复密钥管理，等等。",
+          "link": "https://www.solidot.org/story?sid=82503",
+          "publishedOn": "2025-10-09T12:19:06.000Z",
+          "wordCount": 208,
+          "title": "Ubuntu 25.10 'Questing Quokka' 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82502",
+          "author": null,
+          "description": "在半年前突破 3000 美元之后，黄金的国际价格在历史上首次突破了 4000 美元/盎司的大关。这是二战后，继 1970 年代前半期、2000 年代后半期之后第三次暴涨浪潮。其背景是美元的主导权地位正在动摇。在国际政治面临分裂的情况下，无处可去的资金正在集中于作为实物资产的黄金。今年金价已飙升逾50%，周二触及 4001 美元，在不到两年内实现翻倍。对冲基金亿万富翁雷•达里奥(Ray Dalio)周二表示，黄金是比美元更安全的替代选择，并称其是投资组合的“极佳分散化工具”。",
+          "link": "https://www.solidot.org/story?sid=82502",
+          "publishedOn": "2025-10-09T10:31:55.000Z",
+          "wordCount": 175,
+          "title": "黄金价格首次突破每盎司 4000 美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82501",
+          "author": null,
+          "description": "Fedora 发行版在 2016 年将 /boot 分区容量从 500 MB 增加到 1GB。随着各种固件的容量越来越大，即将在今年晚些时候释出的 Fedora 43 将 /boot 分区容量从 1GB 增加到了 2GB，希望能在未来五年内满足新硬件的要求。在众多固件中，GPU 固件文件最大，英伟达的固件文件有 100MB 大小，而英伟达 GPU 系统处理器（GSP）的固件压缩后的容量就接近了 49MB。高通骁龙 X Elite 笔记本电脑等 ARM64 系统上的固件容量也在不断增长。",
+          "link": "https://www.solidot.org/story?sid=82501",
+          "publishedOn": "2025-10-09T09:35:58.000Z",
+          "wordCount": 214,
+          "title": "Fedora 43 将 /boot 分区容量从 1GB 增加到 2GB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82500",
+          "author": null,
+          "description": "SpaceX 的宽带卫星星座 Starlink 每天有 1-2 颗重返大气层。哈佛天体物理学家 Jonathan McDowell 表示 Starlink 卫星成为太空垃圾的风险不高，首先其轨道高度不到 600 公里，其次是其脱轨方法是使用卫星上的推进器将其推到较低的高度，在不受控但有辅助的条件下重返大气层并在这一过程中燃烧殆尽。他认为最危险的轨道高度是 600-1000 公里。中国的部分卫星星座项目就运行在这一高度附近，因此最令人担忧，如果这些卫星出现问题，可能导致该轨道区域本已严重的太空垃圾问题雪上加霜，而更高的轨道意味着重返大气层的时间越长，会在更长时间里增加发生太空碰撞的问题。",
+          "link": "https://www.solidot.org/story?sid=82500",
+          "publishedOn": "2025-10-09T08:22:07.000Z",
+          "wordCount": 183,
+          "title": "Starlink 每天有 1-2 颗重返大气层",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82499",
+          "author": null,
+          "description": "Google 在今年 6 月披露了一种针对 Salesforce 账号的新骗局，该骗局是一种社会工程攻击，攻击者滥用了 Salesforce 的一项功能，该功能允许客户关联账户与第三方应用，将数据与用于博客、地图工具和类似资源的内部系统集成。攻击者伪装成 IT 部门直接联络目标要求访问权限，指示公司员工将外部应用连接到 Salesforce 实例，之后攻击者会要求员工输入 Salesforce 界面的八位数安全码，随后使用安全码访问该实例及其中存储的所有数据。遭到该骗局的知名公司包括了阿迪达斯、澳洲航空、安联人寿、思科，LVMH 旗下奢侈品牌路易威登、迪奥和蒂芙尼，以及 Google 自己。现在犯罪组织创建了一个网站，称恢复了 9.8945 亿条记录，要求 Salesforce 就赎金金额展开谈判，否则将泄漏该公司客户的数据，截止日期为周五。Salesforce 公开声明拒绝支付赎金。",
+          "link": "https://www.solidot.org/story?sid=82499",
+          "publishedOn": "2025-10-09T07:11:12.000Z",
+          "wordCount": 182,
+          "title": "Salesforce 拒绝为被盗的客户数据支付赎金",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82498",
+          "author": null,
+          "description": "BMI 指数数十年来一直被视为衡量人体健康状况的黄金标准。但滑铁卢大学的一项研究显示，BMI 只能反映一个人健康状况的一小部分，而且弊大于利。研究主要作者 Aly Bailey 教授称，BMI 无法区分肌肉和脂肪，没有考虑到脂肪在体内的分布，忽略了年龄、性别和种族等重要因素。两个人的 BMI 指数相同，但健康状况可能完全不同。BMI 是从 19 世纪发展起来的，是基于身高和体重的测量指标，没有考虑健康。研究报告发表在《Body Image》期刊上。",
+          "link": "https://www.solidot.org/story?sid=82498",
+          "publishedOn": "2025-10-09T06:53:42.000Z",
+          "wordCount": 178,
+          "title": "研究认为 BMI 指数不能反映一个人是否健康",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82497",
+          "author": null,
+          "description": "8 月份的美国入境记录显示，赴美国际学生人数比去年同期减少 19%。专家表示，数据并不能表明留学生人数的下降，因为没有包括暑假期间未离开美国的在校国际学生，也没有统计因开学较晚或其它原因而于 9 月入境的国际学生。尽管如此，最新数据仍然是迄今关于美国签证延误如何影响国际学生入学的权威数据之一。绝大多数国际学生在 8 月抵达美国。自秋季学期开始起，部分美国大学报告注册的国际学生人数出现下降。美国国家学生协会 (NAFSA) 等机构预测国际学生入学人数将下降 15%。分析显示，国际学生下降最显著的地区是非洲（比去年同期减少 32%）、亚洲（减少 24%）和中东（减少 17%），欧洲和大洋洲人数保持平稳。",
+          "link": "https://www.solidot.org/story?sid=82497",
+          "publishedOn": "2025-10-09T06:24:36.000Z",
+          "wordCount": 178,
+          "title": "8 月赴美留学生同比下降 19%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82496",
+          "author": null,
+          "description": "OpenAI 最近先后与英伟达、甲骨文和 CoreWeave 以及 AMD 达成了金额巨大的交易，今年内签署的 AI 计算交易已高达 1 万亿美元，但它的收入与承诺的支出相去甚远，它如何筹集资金令人倍感质疑。这些交易将让 OpenAI 在未来十年获得逾 20GW 的计算能力，相当于 20 座核反应堆的发电量。根据 OpenAI 高管的估计，以当前的价格计算，每 1GW AI 计算能力的部署成本约 500 亿美元，总成本约 1 万亿美元。这些交易将世界知名科技公司与 OpenAI 的盈利能力绑定起来，OpenAI 需要成为一家能履行其日益沉重的财务义务的盈利企业。",
+          "link": "https://www.solidot.org/story?sid=82496",
+          "publishedOn": "2025-10-09T03:54:06.000Z",
+          "wordCount": 204,
+          "title": "OpenAI 今年内签署的 AI 计算交易已高达 1 万亿美元",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=82495",
           "author": null,
@@ -497,76 +566,6 @@
           "publishedOn": "2025-10-01T13:43:22.000Z",
           "wordCount": 207,
           "title": "Cloudflare 赞助 Ladybird 浏览器引擎项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82461",
-          "author": null,
-          "description": "根据 Netblocks 的监测数据，阿富汗断网已超过 24 小时。互联网和移动电话服务全部中断，全国居民生活在通讯几乎完全中断的状况下。阿富汗的全面断网始于周一晚上，进入周二后互联网和电话服务继续中断。首都喀布尔一名 42 岁的店主 Najibullah 说，\"没有电话和互联网我们都是盲人，所有业务都依赖于手机。送货是用手机。这一情况就像是假期：每个人都在家里。市场完全冻结。\"这是塔利班政府首次切断全国的通信，官方没有对此做出解释。法新社在断网前曾收到一名政府官员的警告，称有八到九千个通信支柱（telecommunications pillars）将被关闭，通信中断将持续到另行通知为止。目前阿富汗有限的通信只能依靠无线电和少数卫星链路。",
-          "link": "https://www.solidot.org/story?sid=82461",
-          "publishedOn": "2025-09-30T14:25:56.000Z",
-          "wordCount": 167,
-          "title": "阿富汗断网超过一天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82460",
-          "author": null,
-          "description": "在 Linux 6.17 将 Bcachefs 文件系统列为由外部维护并且没有合并任何 Bcachefs 维护者 Kent Overstreet 递交的拉取请求之后，Linus Torvalds 在 Linux 6.18 中完全移除了 Bcachefs，总共删除了 11.7 万行代码。Torvalds 评论说，Bcachefs 现在是一个 DKMS 模块，内核代码过时了，删除内核中的代码以避免版本混淆。",
-          "link": "https://www.solidot.org/story?sid=82460",
-          "publishedOn": "2025-09-30T11:09:12.000Z",
-          "wordCount": 206,
-          "title": "Linus Torvalds 从 Linux 6.18 中完全移除了 Bcachefs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82459",
-          "author": null,
-          "description": "贵州花江峡谷大桥正式通车。大桥桥面距水面625米，高度超过北盘江第一桥近 60 米，成为新的世界第一高桥；大桥主桥跨径 1420 米，居山区桥梁跨径世界第一。大桥全长 2890 米，可将两岸通行时间从两个多小时缩短到两分钟左右。从 2022 年开工到正式通车，这座“超级工程”的建造只花了三年多。花江峡谷大桥钢桁梁吊装有 93 个节段，总重达 2.1 万吨，需在 600 多米高空实现毫米级精准对接。建设团队借助研发的“智慧缆索吊装系统”，全部吊装仅用了 73 天就全面完成；3.8 万平方米的桥面，建设团队在 1 个多月里完成了 5 层铺装。",
-          "link": "https://www.solidot.org/story?sid=82459",
-          "publishedOn": "2025-09-30T09:39:15.000Z",
-          "wordCount": 179,
-          "title": "世界最高大桥花江峡谷大桥通车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82458",
-          "author": null,
-          "description": "以研究数字取证和深度伪造而知名的加州伯克利计算机科学教授 Hany Farid 表示，计算机科学在极短时间内从经得住时间考验的职业变成了剧变中的行业。他说，计算机科学专业的学生通常会在前四年获得五份实习机会，毕业时会收到多份高薪的工作机会。但如今这种情况不会发生了，如果能收到一份工作邀约他们就很高兴了。Farid 教授认为 AI 只是因素之一。计算机科学行业正在发生某种变化。他现在给学生的建议是掌握多种技能，因为不知道未来会发生什么。他说，AI 不会让律师失业，但会用 AI 的律师会让不会用 AI 的律师失业。他认为每个职业都如此。",
-          "link": "https://www.solidot.org/story?sid=82458",
-          "publishedOn": "2025-09-30T09:12:00.000Z",
-          "wordCount": 172,
-          "title": "CS 教授警告毕业生难找到工作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82457",
-          "author": null,
-          "description": "美国调查公司 Omdia 的数据显示，10～12 月服务器用 DRAM 的预测价格为 4.3 美元/GB，比 2023 年 10～12 月高出 2.4 美元。PC 用产品的预测价格为 2.8 美元，比 2023 年 10～12 月上涨 1.2 美元。这一趋势背后的原因是 AI 服务器的需求猛增。AI 服务器主要使用 HBM 内存。主要 DRAM 内存芯片制造商三星电子、SK 海力士及美光缩小产量或停产了上一代的 DDR4，转为生产和销售 HBM。AI 服务器的内存需求正在推动整个半导体市场。美国半导体行业协会（SIA）公布的全球半导体销售额7月达到了 620.7 亿美元，同比增长 20.6%，首次突破 600 亿美元。已连续 21 个月超过去年同期。",
-          "link": "https://www.solidot.org/story?sid=82457",
-          "publishedOn": "2025-09-30T08:02:26.000Z",
-          "wordCount": 213,
-          "title": "因 AI 需求大涨 DRAM 价格翻倍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82456",
-          "author": null,
-          "description": "根据发表在《Osteoporosis International》上的一篇综述，研究人员分析了 62 项研究，发现微塑料会破坏骨髓干细胞，刺激破骨细胞——一种削弱骨组织的细胞，从而削弱骨骼。实验室实验发现，微塑料颗粒会降低细胞活性，诱导细胞过早衰老，改变基因表达，引发炎症反应。动物研究发现，微塑料的积累会降低白细胞数量，破坏骨骼微结构，导致细胞结构不规则，增加骨折风险。巴西 Campinas 州立大学的 Rodrigo Bueno de Oliveira 表示，这些影响会阻碍实验动物的骨骼生长。",
-          "link": "https://www.solidot.org/story?sid=82456",
-          "publishedOn": "2025-09-30T07:47:41.000Z",
-          "wordCount": 167,
-          "title": "微塑料可能削弱骨骼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82454",
-          "author": null,
-          "description": "几周前，阿富汗切断了多省的光纤连接，本周一则发生了全国性断网。网络监测组织 Netblocks 报告阿富汗的网络连接率仅为正常水平的 14%。法新社报告在 6:15 pm (1315 GMT)与该新闻社位于喀布尔的分社失去联系。阿富汗此前表示它切断光纤接入是为了防止不良行为。",
-          "link": "https://www.solidot.org/story?sid=82454",
-          "publishedOn": "2025-09-29T15:41:32.000Z",
-          "wordCount": 164,
-          "title": "阿富汗断网",
           "imageUrl": null
         }
       ]
