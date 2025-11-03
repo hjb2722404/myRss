@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/f-droid-google-android-sideloading/",
+          "author": "青小蛙",
+          "description": "摘要：在电脑上装软件，我们只会说安装软件。但在手机上，这个普通的操作被赋予了一个听起来危险的名字：侧加载。未来，我们是否还能根据自己的意愿来安装手机应用？谁知道呢。原文链接：https://www.appinn.com/f-droid-google-android-sideloading/ 前几日，",
+          "link": "https://www.appinn.com/f-droid-google-android-sideloading/",
+          "publishedOn": "2025-11-02T13:29:24.000Z",
+          "wordCount": 2563,
+          "title": "谁拥有你的手机？F-Droid 与 Google 的“侧加载”之战",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-2025-11-02T212447.689.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/git-auto-commit/",
+          "author": "青小蛙",
+          "description": "写代码顺手，但写提交信息总让人头疼。有时只是改了几行代码，却要绞尽脑汁想一句“像样”的 commit 信息，最后往往草草一句 “update” 了事。@Appinn GAC，全称 Git Auto Commit，就是为了解决这个小痛点。它能让 AI 理解你修改的上下文，生成一段语义清晰、结构规范、甚",
+          "link": "https://www.appinn.com/git-auto-commit/",
+          "publishedOn": "2025-11-02T09:38:56.000Z",
+          "wordCount": 2935,
+          "title": "GAC：让 AI 理解代码上下文，自动生成 Git 提交信息，高质量、好格式",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-2025-11-02T171512.067.jpg"
+        },
+        {
           "id": "https://www.appinn.com/feelflow-for-iphone/",
           "author": "青小蛙",
           "description": "这是一位正在读高二的徐同学，在小众软件论坛分享了自己的新作——FeelFlow，一款免费的 AI 情感树洞与日记应用，能帮人用“赛博华佗”的方式照顾心情，目前支持 iPhone 平台。@Appinn 在 FeelFlow 里，你只需要写下当天的心情与思绪，AI 就会读懂文字背后的情绪，生成分析与温柔",
@@ -170,16 +190,6 @@
           "wordCount": 2660,
           "title": "wBlock – 75 万+ Safari 过滤规则，免费开源 iPhone 广告过滤应用",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/10/Copy-of-appinn-homework-2025-10-25T164342.110.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/perplexity-comet-invite-ga/",
-          "author": "青小蛙",
-          "description": "Comet 是 Perplexity 推出的 AI 浏览器，最大特色是你对他说：「控制浏览器，打开网页，查询页面内容」，它就可以根据你的指示，自己进行网页浏览，获取数据，返回结果，非常的AI，非常的酷。@Appinn 目前有活动：邀请好友注册 Comet，好友将获得一个免费的 Perplexity",
-          "link": "https://www.appinn.com/perplexity-comet-invite-ga/",
-          "publishedOn": "2025-10-24T09:46:01.000Z",
-          "wordCount": 2600,
-          "title": "浏览器，你自己能动！注册 Comet 就送1个月 Pro 会员",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/10/Copy-of-appinn-homework-2025-10-24T105505.887.jpg"
         }
       ]
     },
@@ -212,21 +222,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/10/details-tabs-subgrid.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389794",
-          "author": "Preethi",
-          "description": "When we change an element’s intrinsic sizing, its children are affected, too. This is something we can use to our advantage.\nCSS Animations That Leverage the Parent-Child Relationship originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-animations-that-leverage-the-parent-child-relationship/",
-          "publishedOn": "2025-10-24T14:18:03.000Z",
-          "wordCount": 2436,
-          "title": "CSS Animations That Leverage the Parent-Child Relationship",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2025/10/overlapping-circle-animation.mov",
-            "length": "782608",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/10/motion-blur.png"
         }
       ]
     },
@@ -269,6 +264,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=82698",
+          "author": null,
+          "description": "Debian 开发者 Julian Andres Klode 在万圣节宣布，他计划最早从 2026 年 5 月起 APT 打包工具要求使用 Rust 编译器。理由是 APT 代码库的部分会受益于内存安全编程语言 Rust，有必要在 Debian 中强制要求使用 Rust，因此最早从明年 5 月起将在 APT 中引入 Rust 硬依赖和 Rust 代码。首批是 Rust 编译器和标准库，以及 Sequoia 生态系统。缺乏 Rust 支持的 m68k、Hewlett Packard Precision Architecture (HPPA)、SuperH/SH4 和 Alpha 的 Debian 版本面临被弃用。",
+          "link": "https://www.solidot.org/story?sid=82698",
+          "publishedOn": "2025-11-02T16:17:40.000Z",
+          "wordCount": 213,
+          "title": "APT 打包工具将要求 Rust 编译器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82697",
+          "author": null,
+          "description": "可能是想要在特朗普任期内实现载人登月，NASA 要求参与 Artemis III 载入登月计划的承包商递交加快进度的计划，如果不满意 NASA 可能会寻求替代方案。Artemis 月球着陆器承包商 SpaceX 和 Blue Origin 都回应了 NASA 的要求。NASA 预计将在美国政府停摆结束向各大公司发出替代提案邀请。在主要航空航天公司中，能提出替代方案的公司可能是洛马（Lockheed Martin）。洛马制造了 Artemis 任务使用的 Orion 飞船。它有可能利用 Orion 飞船的备用零部件组装出一艘两级月球着陆器。",
+          "link": "https://www.solidot.org/story?sid=82697",
+          "publishedOn": "2025-11-02T15:19:35.000Z",
+          "wordCount": 183,
+          "title": "NASA 寻找载入登月的替代方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82696",
+          "author": null,
+          "description": "Valve 公布的 2025 年 10 月 Steam 硬件和软件调查显示，玩家运行的操作系统中 Linux 比例突破 3% 达到 3.05%（增加 0.41%），Windows 多年来首次跌至 95% 以内占 94.84%，OSX 占 2.11%。上一次 Linux 用户比例接近 3% 还是十年前，Linux 使用增长的趋势主要受到掌机 Steam Deck 的推动。在所有 Linux 操作系统中，Steam Deck 运行的 SteamOS 占 27%，AMD CPU 占 67.1%，英特尔占 32.89%。而在 Windows 平台，英特尔占 57.8%，AMD 占 42%。对于用户使用的语言，简体中文占 24.01%，英文占 37.96%。",
+          "link": "https://www.solidot.org/story?sid=82696",
+          "publishedOn": "2025-11-02T12:54:35.000Z",
+          "wordCount": 218,
+          "title": "Steam 用户中 Linux 比例超过 3%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82695",
+          "author": null,
+          "description": "arXiv 平台宣布修改计算机科学类的论文预印本接受政策，原因是由于大模型加快了论文撰写速度，导致计算机科学类的论文投稿数量大幅增长，其中很多价值不高，因此为确保论文质量，它现在要求计算机科学类的综述论文和立场论文需要先被期刊或会议接受，通过同行评审，它才会考虑接受。在递交计算机科学综述论文和立场论文时，作者需要提供通过同行评审的证明，不提供证明可能会被拒收。arXiv 称它以前只收到少量综述论文和立场论文，但如今每月都会收到数百篇综述，其中很多只是带注释的参考文献，没有对开放性研究问题进行实质性讨论。",
+          "link": "https://www.solidot.org/story?sid=82695",
+          "publishedOn": "2025-11-01T15:37:17.000Z",
+          "wordCount": 167,
+          "title": "因大模型 arXiv 限制接受计算机科学类的综述论文和立场论文",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82694",
+          "author": null,
+          "description": "奥地利经济部朝数字主权迈出了决定性一步：将该部的 1200 名员工从私有的外国云平台迁移到基于 Nextcloud 的云协作平台，该开源平台托管在奥地利境内的基础设施上。越来越多的欧洲政府组织正致力于摆脱对美国科技供应商的控制，掌控自己的敏感数据。欧洲企业也在推动这一趋势，它们组建了非盈利基金会 EuroStack Initiative，呼吁欧洲政府购买本土产品和资助本土项目。其它欧洲政府也在采取类似的行动：德国 Schleswig-Holstein 州抛弃了微软的 Exchange 和 Outlook，改用开源替代；奥地利军方、丹麦政府机构和法国里昂市也都抛弃了微软的软件。",
+          "link": "https://www.solidot.org/story?sid=82694",
+          "publishedOn": "2025-11-01T15:14:49.000Z",
+          "wordCount": 172,
+          "title": "奥地利经济部迁移到 Nextcloud",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82693",
+          "author": null,
+          "description": "新冠疫情爆发后，各国采取了封锁、社交距离和旅行限制等公共卫生措施，旨在通过避免密切接触减少病毒传播。根据发表在《科学》期刊上的一项研究，人类并非是唯一一种改变空间环境以降低疫情风险的动物。黑花园蚁（Lasius niger）会改变巢穴结构减缓疫情爆发——相当于昆虫版的社交隔离。研究人员首先观察了两组蚂蚁挖掘巢穴，然后让其中一组暴露在绿僵菌（Metarhizium brunneum）孢子中，利用 micro-CT 扫描巢穴在之后数天内的结构变化。研究团队发现，暴露在绿僵菌孢子的蚂蚁巢穴入口平均距离增加了约 6 毫米，在偏僻地方建造了更长更曲折的巢室，蚂蚁甚至挖掘了多条隧道，可能是为了避免接触而设置的替代运输路线。",
+          "link": "https://www.solidot.org/story?sid=82693",
+          "publishedOn": "2025-11-01T13:19:38.000Z",
+          "wordCount": 168,
+          "title": "蚂蚁在遭遇疫情时使用社交距离减少接触",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82692",
+          "author": null,
+          "description": "黑猩猩是自然科学家。人类能面对矛盾证据时更新自身信念，这是所有科学研究的基础。黑猩猩也有类似的能力，能根据新证据的数量和质量更新自身信念。研究人员通过五项实验测试了生活在乌干达 Ngamba 岛黑猩猩自然保护区的 15-23 只黑猩猩，调查了它们根据不同证据修正决策的能力。研究发现，黑猩猩能综合考虑所有证据的相对强度进行决策。研究还发现，黑猩猩不仅对证据的类型敏感，而且对支持其选择的证据数量也很敏感。实验中黑猩猩在所有情况下做出理性选择的频率是做出非理性选择的两到三倍。这些发现表明，人类并非是唯一一种理性动物。",
+          "link": "https://www.solidot.org/story?sid=82692",
+          "publishedOn": "2025-11-01T12:50:11.000Z",
+          "wordCount": 161,
+          "title": "黑猩猩能理性的修正信念",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82691",
+          "author": null,
+          "description": "根据发表在《The Review of Economics and Statistics》上的一项研究，挪威卑而根大学和美国斯坦福大学商学院的研究人员调查了父母对创业者选择哪个行业创业以及创业成功的影响。接近 75% 的男性企业家选择在与父亲相同或相近的行业创业。 这些创业者的企业平均表现更佳，且更易成为行业佼佼者。这种优势并非源于父母的直接帮助或遗传能力，而是通过成长过程中的家庭互动（如“餐桌人力资本”）获得的行业知识。",
+          "link": "https://www.solidot.org/story?sid=82691",
+          "publishedOn": "2025-10-31T15:29:50.000Z",
+          "wordCount": 165,
+          "title": "谁能成为成功的企业家？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82690",
+          "author": null,
+          "description": "根据发表在《自然》期刊上的一项研究，弓头鲸异乎寻常的长寿可能是源于其更强的 DNA 修复能力。弓头鲸是已知最大、最长寿的哺乳动物之一，最大寿命可超过 200 年，体重经常超过 80000 公斤。它们惊人的体型和长寿本应增加其患癌倾向，因为 DNA 变异可能性本应随之增加。但现有数据不支持这一观点，使科学家开始探索这一矛盾现象背后的机制。科学家研究了弓头鲸细胞在致癌刺激（如紫外线）下变异为癌细胞的可能性。这些细胞的恶性转化，比人类的成纤维细胞（结缔组织细胞）所需变异更少。但是弓头鲸细胞比人类细胞显示的变异更少，表明尽管其 DN A容易受损，但能自我修复。在分析弓头鲸细胞 DNA 修复过程后发现，其双链断裂修复的速度和质量都有所加强。研究者在鲸细胞中发现了一种与 DNA 修复相关的蛋白，发现这一蛋白过表达会加强人类细胞的 DNA 修复，并延长果蝇寿命。",
+          "link": "https://www.solidot.org/story?sid=82690",
+          "publishedOn": "2025-10-31T14:29:06.000Z",
+          "wordCount": 183,
+          "title": "弓头鲸长寿之谜可能在于其 DNA 修复机制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82689",
+          "author": null,
+          "description": "最大成人视频网站 Pornhub 表示，自 7 月英国 Online Safety Act 生效要求成人网站验证访客年龄后，英国访客数量锐减 77%。Pornhub 声称无视新法律的成人网站从中受益。Pornhub 是全球访问量排名第 19 的网站。英国通信管理局（Ofcom）称 7 月 25 日之后的三个月内，英国用户访问色情网站的数量总体下降近三分之一，Ofcom 表示法律实现了其主要目的，即阻止儿童“无需搜索即可轻易接触成人内容”。Ofcom 称，7 月 VPN 用户达到了 150 万，但此后降至了 100 万。Cyber​​news 的数据显示，英国用户通过 Google Play Store 和 Apple App Store 下载 VPN 应用的数量今年内将超过 1070 万次。Cyber​​news 认为 Pornhub 英国访客数量并没有锐减，访客使用 VPN 导致其被归类为非英国用户，当然确实可能有部分用户转向了不需要年龄验证的网站。",
+          "link": "https://www.solidot.org/story?sid=82689",
+          "publishedOn": "2025-10-31T09:30:15.000Z",
+          "wordCount": 210,
+          "title": "Pornhub 称年龄验证后英国访客数量锐减 77%",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=82688",
           "author": null,
@@ -797,136 +892,6 @@
           "publishedOn": "2025-10-24T15:55:27.000Z",
           "wordCount": 174,
           "title": "研究人员显示用垃圾数据训练会导致大模型认知衰退",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82635",
-          "author": null,
-          "description": "根据发表在《科学》期刊上的研究，2023 年创纪录的海洋热浪导致佛罗里达州近乎所有极度濒危的鹿角珊瑚属（Acropora）珊瑚群体死亡，标志着该物种在佛罗里达珊瑚礁中已功能性灭绝。这些发现对快速暖化海洋中的珊瑚生态系统的未来敲响了灾难性的警钟。海洋热浪等极端气候事件的频率和强度不断增加，它们正在严重破坏全球生态系统的健康、结构和复原能力。珊瑚礁是海洋环境中对热最为敏感的生态系统之一，它们数十年来一直因海洋温度的上升而导致大规模白化和死亡。研究显示，在这场史无前例的事件中，佛罗里达的珊瑚礁经历了该地区有记录以来的最高海洋温度，其峰值为 2023 年 7 月时的 32.3 摄氏度。随着这波热浪的持续，到 2024 年 3 月，佛罗里达群岛和干龟群岛的 97.8% 至 100% 的掌状鹿角珊瑚和鹿角状鹿角珊瑚群落死于长期极度的热应激。北部区域的珊瑚死亡率较低（37.9%），这可能是由于佛罗里达东南部海域的水温较低。",
-          "link": "https://www.solidot.org/story?sid=82635",
-          "publishedOn": "2025-10-24T12:19:02.000Z",
-          "wordCount": 177,
-          "title": "2023 年海洋热浪导致佛罗里达造礁珊瑚功能性灭绝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82634",
-          "author": null,
-          "description": "2025 年的诺贝尔生理学或医学奖授予 3 位科学家，以表彰调节性T细胞（Tregs）的发现。这种细胞能阻止身体自身器官受到意外的免疫攻击。如果科学家能制造出大量Tregs，并在体内长期存在且持续发挥作用，那么它们可能会成为治疗自身免疫性疾病的有效疗法。新晋诺奖得主之一、日本大阪大学的免疫学家坂口志文用一种新方法制造出了大量持久存在的Tregs。在 10 月 22 日发表于《科学-转化医学》的两篇论文的第一篇中，他和同事描述了实验室生成的细胞如何有效抑制小鼠的免疫反应。在第二篇论文中，他和其他研究人员制造Tregs来治疗小鼠的一种自身免疫性皮肤病，并用类似方法从疼痛性病症患者的血液中制造出人类Tregs。坂口从传统的T细胞，包括那些导致自身免疫性疾病的T细胞中产生Tregs。在血液中，这些细胞比Tregs更常见，也更容易在培养皿中生长。",
-          "link": "https://www.solidot.org/story?sid=82634",
-          "publishedOn": "2025-10-24T11:59:33.000Z",
-          "wordCount": 166,
-          "title": "新晋诺奖得主开发出持久性调节性T细胞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82633",
-          "author": null,
-          "description": "《反恐精英2（CS2）》有着庞大的饰品交易市场，但 Valve 本周三释出的“小更新”将这个市场搅动的天翻地覆，曾经高贵的稀有饰品不再稀有，导致其价值暴跌，持有这些稀有饰品的玩家损失惨重。Valve 的最新更新允许玩家通过以旧换新合同（Trade Up）用五种红色饰品合成稀有饰品。这一变动导致一天前售价逾 1.4 万美元的稀有刀具一天后暴跌逾 50%，而以前售价 10 美元的普通饰品一下子暴涨到了 100 美元以上。所有 CS2 饰品价格的总市值从超过 60 亿美元下跌 49%，蒸发逾 30 亿美元。一位中国玩家展示的截图显示他的饰品总价值一天内缩水 640 万人民币，一位 Reddit 玩家收藏的逾 600 件以前价值不高的红色饰品如今价值超过 330 万英镑。",
-          "link": "https://www.solidot.org/story?sid=82633",
-          "publishedOn": "2025-10-24T09:59:46.000Z",
-          "wordCount": 196,
-          "title": "CS2 饰品暴跌市值蒸发逾 30 亿美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82632",
-          "author": null,
-          "description": "为大学和企业提供 AI 检测工具的 Originality.ai 在 1-9 月之间扫描了亚马逊上 558 本草药类别的图书，发现其中 82% 很可能是 AI 撰写的。AI 垃圾完全攻陷了亚马逊上的草药医术学作品。草药医生 Sue Sprung 表示这些书会误导读者。其中一本疑似 AI 撰写的书是《Natural Healing Handbook》，位于护肤、香薰疗法和草药类书籍畅销书榜榜首，作者声称自己是澳大利亚的草药师 Luna Filby，My Harmony Herb 品牌的创始人...然而除了亚马逊上的介绍页面，互联网上没有关于她以及其品牌的任何信息，Originality.ai 以 100% 可信度认为该书是 AI 生成的。英国出版商协会 CEO Dan Conway 表示正督促亚马逊标注 AI 作品。",
-          "link": "https://www.solidot.org/story?sid=82632",
-          "publishedOn": "2025-10-24T09:26:44.000Z",
-          "wordCount": 210,
-          "title": "亚马逊上草药类书籍可能多达 82% 是 AI 写的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82631",
-          "author": null,
-          "description": "微软与华硕合作推出的 Xbox 掌机 ROG Xbox Ally 运行了一个专为掌机优化的 Windows 版本，但测试显示微软的掌机优化还有很多改进余地。测试者在 Xbox 掌机上安装了 Bazzite，其外观与 Valve 的 Steam OS 基本相同，但底层有些区别：Steam OS 是基于 Arch，而 Bazzite 是基于 Fedora 发行版。在 Bazzite 和 Windows 分别运行游戏《Kingdom Come: Deliverance 2》和《Hogwarts Legacy》的测试显示，Linux 下的游戏 FPS 比 Windows 下平均高 13.47%，而且帧率更平稳，FPS 最高多了 32%（17W 功率模式下的《KCD2》）。",
-          "link": "https://www.solidot.org/story?sid=82631",
-          "publishedOn": "2025-10-24T08:38:19.000Z",
-          "wordCount": 221,
-          "title": "ROG Xbox Ally 的 Linux 性能超过 Windows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82630",
-          "author": null,
-          "description": "开源 Web 应用框架 Django 项目释出了 v6.0 的首个 Beta 版本。beta 1 代表着开发的冻结，此后的任务主要是修 Bug 和修复性能问题，预计 RC 版本将在一个月后发表，正式版本预计于 12 月 3 日发布。Django 6.0 支持 Python 3.12、3.13 和 3.14，开发者建议第三方库的开发者停止支持 Django 5.2 之前的版本。Django 6.0 的主要变化包括：支持内容安全政策（Content Security Policy 或CSP）；模板语言支持模板局部（Template Partials）；使用 Python 的 email API 处理邮件；等等。",
-          "link": "https://www.solidot.org/story?sid=82630",
-          "publishedOn": "2025-10-24T07:59:33.000Z",
-          "wordCount": 211,
-          "title": "Django 6.0 beta 1 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82629",
-          "author": null,
-          "description": "网友在社交媒体发布视频称，自己养的马被热成像无人机投箭射杀。一时引发了广泛关注。记者调查发现，一套无人机投箭设备约需 3 万多元，需要加装空投器通过光感控制空投箭矢。目前已有地区在禁猎公告中明确提出，“无人机等飞行器辅助投射标枪或箭支装具”为禁猎工具。在电商平台搜索关键字“无人机空投箭头”，有很多商家在网上售卖挂载在无人机空投器上的圆锥形箭头，命名为“空投牙签”，店铺还标明，仅允许有专业资质的人使用，非专业人员需在专业人员陪同下使用。",
-          "link": "https://www.solidot.org/story?sid=82629",
-          "publishedOn": "2025-10-24T07:36:39.000Z",
-          "wordCount": 160,
-          "title": "无人机被用于投箭射杀动物",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82628",
-          "author": null,
-          "description": "在光驱日益罕见的世界，日本公司富士通推出了一款内置蓝光光驱的新笔电。自 2015 年起，绝大部分笔记本电脑制造商不再提供光驱，但日本公司拒绝跟随这一趋势。富士通的新笔电型号是 FMV Note A A77-K3，其光驱支持读取和刻录蓝光光盘，配备了 AMD Ryzen 7 7000 系列 APU（7735U）。富士康还推出了另外两款配备 13 代英特尔处理器的 FMV Note A 笔电，但没有内置蓝光光驱而是 DVD 光驱。",
-          "link": "https://www.solidot.org/story?sid=82628",
-          "publishedOn": "2025-10-24T07:01:10.000Z",
-          "wordCount": 178,
-          "title": "富士通推出了内置蓝光光驱的新笔电",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82627",
-          "author": null,
-          "description": "根据 WHO 的最新报告《Global antibiotic resistance surveillance report 2025》，快速发展的耐药菌正构成日益严重的全球公共卫生威胁。报告称，2018-2023 年抗生素耐药性在监视的病原体‑药物组合中平均增长逾 40%，每年增幅 5–15%。2023 年六分之一经实验室确诊的细菌感染被证实对抗生素治疗有耐药性。耐药革兰氏阴性菌构成了最大的威胁，尤其是大肠杆菌和肺炎克雷伯菌。报告警告，逾 40% 的大肠杆菌和逾 55% 的肺炎克雷伯菌菌株对第三代头孢菌素产生了耐药性，而第三代头孢菌素是治疗此类感染的首选药物。",
-          "link": "https://www.solidot.org/story?sid=82627",
-          "publishedOn": "2025-10-24T06:42:22.000Z",
-          "wordCount": 172,
-          "title": "耐药菌发展速度快于抗生素",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82626",
-          "author": null,
-          "description": "美国总统特朗普赦免了币安创始人赵长鹏。币安是全球最大的加密货币交易所，与特朗普家族的加密货币业务 World Liberty Financial 有深度合作。美国 SEC 于 2023 年 6 月对币安和赵长鹏提出 13 项指控，当年 11 月赵长鹏承认违反了美国洗钱法。2024 年 4 月在支付巨幅罚款后他被判 4 个月徒刑，9 月出狱。他同时被永久禁止涉足加密货币银行业务，他请求特朗普赦免的就是取消这一限制。",
-          "link": "https://www.solidot.org/story?sid=82626",
-          "publishedOn": "2025-10-24T04:23:01.000Z",
-          "wordCount": 177,
-          "title": "特朗普赦免赵长鹏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82625",
-          "author": null,
-          "description": "根据最新数据，中国在运核电机组达 59 台，总装机容量为 6248 万千瓦；核准在建机组 53 台，装机容量达 6293 万千瓦，总装机规模已突破 1.25 亿千瓦，连续保持世界第一。第三代压水堆核电站华龙一号在建与在运机组总数已达 41 台。2024 年全球核电发电量创近 10 年新高，在全球能源结构向清洁低碳转型的进程中，核能的重要性日益凸显。预计到 2050 年，全球核电装机规模将突破 9 亿千瓦。",
-          "link": "https://www.solidot.org/story?sid=82625",
-          "publishedOn": "2025-10-23T16:23:46.000Z",
-          "wordCount": 184,
-          "title": "中国核电总装机超 1.25 亿千瓦",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82624",
-          "author": null,
-          "description": "天文学家在距离地球不到 20 光年的地方发现了一颗位于宜居带的超级地球。这颗被称为 GJ 251 c 的系外行星质量是大约地球的四倍，可能是一颗岩石行星。天文学家是使用 Habitable-Zone Planet Finder(HPF)收集的数据发现这颗行星的，它围绕恒星一周需要 54 天，其母星是一颗红矮星，位于双子星座。目前还无法确认 GJ 251 c上是否存在大气或生命，但它可成为未来探索的一个有希望的目标。研究报告发布在《The Astronomical Journal》期刊上。",
-          "link": "https://www.solidot.org/story?sid=82624",
-          "publishedOn": "2025-10-23T15:59:32.000Z",
-          "wordCount": 174,
-          "title": "天文学家在恒星宜居带发现一颗超级地球",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82623",
-          "author": null,
-          "description": "OpenBSD 项目释出了 v7.8。主要变化包括：启用 AMD Secure Encrypted Virtualization(AMD SEV)支持，支持 Raspberry Pi 5，高通、瑞芯（Rockchip）和苹果 ARM 新驱动，改进 FUSE 文件系统支持与 Linux 实现的兼容性，挂起/休眠改进、SMP 改进、更新到 Linux 6.12.50 DRM 图形驱动，uvideo 驱动的 H.264 视频支持以及多项网络驱动改进，等等。",
-          "link": "https://www.solidot.org/story?sid=82623",
-          "publishedOn": "2025-10-23T15:27:25.000Z",
-          "wordCount": 189,
-          "title": "OpenBSD 7.8 释出",
           "imageUrl": null
         }
       ]
