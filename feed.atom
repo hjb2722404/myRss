@@ -2,10 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-11-06T03:12:01.138Z</updated>
+    <updated>2025-11-07T03:08:52.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mastodon 4.5 释出]]></title>
+        <id>https://www.solidot.org/story?sid=82744</id>
+        <link href="https://www.solidot.org/story?sid=82744"/>
+        <updated>2025-11-06T16:26:37.000Z</updated>
+        <summary type="html"><![CDATA[Mastodon 去中心化微博平台释出了 v4.5 版本。主要新功能包括：支持引用帖子；原生表情符号（emoji）支持；增强服务器管理员的信息流管理和屏蔽功能，管理员可以将本服务器的信息流设为访客主页，屏蔽特定用户名，审核界面可以显示上下文，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卢浮宫视频监控服务器的密码曾是“卢浮宫”]]></title>
+        <id>https://www.solidot.org/story?sid=82743</id>
+        <link href="https://www.solidot.org/story?sid=82743"/>
+        <updated>2025-11-06T15:58:37.000Z</updated>
+        <summary type="html"><![CDATA[2025 年 10 月 19 日，位于巴黎市中心的卢浮宫发生珠宝盗窃案。当地时间早上约 9 点 30 分，阿波罗画廊存放的多件法国王冠珠宝被盗走，整个过程仅持续约 4-7 分钟。被盗珠宝价值约 8800 万欧元。盗匪伪装成建筑工人实施盗窃，期间还触发了警报，与保安对峙，但最后仍然扬长而去。事发后，卢浮宫松弛的安保措施引发了广泛关注。比如卢浮宫的视频监控服务器多年来一直使用“卢浮宫（Louvre）”为密码。法国国家网络安全局 （French National Cybersecurity Agency)在 2014 年应卢浮宫要求进行了一次渗透测试，安全专家轻松进入安全网络篡改了视频监控并修改了门禁卡权限。安全专家在报告中称卢浮宫的网络安全措施太薄弱，输入 Louvre 就能访问管理视频监控的服务器，输入 THALES 就能访问 Thales 公司开发的一个程序。文件还显示，2025 年卢浮宫仍在使用 2003 年购买的安全软件，该软件的开发商已不再提供支持，而该软件运行在 Windows Server 2003 上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explaining the Accessible Benefits of Using Semantic HTML Elements]]></title>
+        <id>https://css-tricks.com/?p=385769</id>
+        <link href="https://css-tricks.com/explaining-the-accessible-benefits-of-using-semantic-html-elements/"/>
+        <updated>2025-11-06T15:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Why should you use a semantic <button> instead of a generic <div>? Accessibility, right? By how exactly does it help accessibility?
+Explaining the Accessible Benefits of Using Semantic HTML Elements originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疑遭空间碎片撞击神舟二十号推迟返回]]></title>
+        <id>https://www.solidot.org/story?sid=82742</id>
+        <link href="https://www.solidot.org/story?sid=82742"/>
+        <updated>2025-11-06T13:37:22.000Z</updated>
+        <summary type="html"><![CDATA[中国载人航天工程办公室发布消息，神舟二十号载人飞船疑似遭空间微小碎片撞击，正在进行影响分析和风险评估。为确保航天员生命健康安全和任务圆满成功，经研究决定，原计划 11 月 5 日实施的神舟二十号返回任务将推迟进行。官网没有提供更多信息，如疑似撞击点和损坏程度，也没有给出新返回日期的时间表。神舟二十号于 2025 年  4月 24 日发射升空，三名宇航员陈冬、陈中瑞和王杰已完成天宫空间站在轨 6 个月任务，11 月 4 日将空间站的控制权移交给新抵达的神舟二十一号乘组，原计划 11 月 5 日返回。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 将于 2026 年 11 月移除对 XSLT 的支持]]></title>
+        <id>https://www.solidot.org/story?sid=82741</id>
+        <link href="https://www.solidot.org/story?sid=82741"/>
+        <updated>2025-11-06T10:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Chrome 官方博客宣布将于 2026 年 11 月 17 日发布 v155 时移除对 Extensible Stylesheet Language Transformations(XSLT) 的支持。Google 的解释是有助于改进安全，称 Firefox 和 WebKit 项目也都有类似的计划。XML 文档适合计算机读取但不适合人类阅读，XSLT 的目的就是将 XML 文档转换成其它更适合人类阅读的格式如 HTML。Chrome、Firefox、Safari 等主流浏览器都支持客户端 XSLT 渲染，但仅限于 1999 年 的 1.0 版本，而不是 2017 年最新的 3.0 版本。Google 早在 2013 年就表达了移除 XSLT 的想法，但没有付诸实施。今年的  WHATWG 会议正式将移除 XSLT 的提议加入了讨论议程。Google 开发者认为浏览器使用的 XSLT 的代码库已经老化，易受内存安全漏洞的影响，而且 XSLT 使用率非常低，每 7891 次页面加载只有一次涉及客户端 XSLT。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tangled – 分布式 GitHub 替代品，让开发者完全掌控自己的代码]]></title>
+        <id>https://www.appinn.com/what-is-tangled/</id>
+        <link href="https://www.appinn.com/what-is-tangled/"/>
+        <updated>2025-11-06T09:53:22.000Z</updated>
+        <summary type="html"><![CDATA[前不久，发生的一件事：《OpenArk 被 GitHub 封号》，具体原因这里就不讲了。但是，这是经常发生的事情。@Appinn 上传代码到 GitHub，可以证明“这是你写的代码”；但如何确保你的代码就是你的代码，就不太好说了。 于是，去中心化、分布式的 GitHub/GitLab 替代品出现了—]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文学家发现有史以来最亮的黑洞光爆发]]></title>
+        <id>https://www.solidot.org/story?sid=82740</id>
+        <link href="https://www.solidot.org/story?sid=82740"/>
+        <updated>2025-11-06T09:15:22.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Nature Astronomy》期间上的一项研究，当黑洞吞噬一颗质量至少为太阳 30 倍的恒星时，天文学家探测到了有史以来黑洞中最明亮的光爆发——其峰值亮度比太阳光高 10 万亿倍以上。当 2018年 天文学家第一次观测到这个天体时，他们并未意识到这是一个超级耀斑。在注意到天体亮度增强后，研究人员立即用帕罗玛山天文台的 200 英寸海耳望远镜瞄准了它。2023 年研究团队注意到，即使在 5 年后，这个耀斑仍然异常明亮。因此他们利用夏威夷凯克天文台进行了更深入的观测，结果显示，该天体距离地球约 300万千秒差距，即 100 亿光年。能在如此遥远的距离上看起来如此明亮，其发出的光必定是极其耀眼的。天文学家现在表示，这个耀斑的亮度是此前探测到的任何一次黑洞光爆发的 30 倍。研究人员认为合理的解释是，一颗大质量恒星在离黑洞过近时遭遇了厄运。当黑洞的引力将撕碎恒星时，它发出的光比之前要亮数十倍。他们还认为，由于耀斑还没有完全消失，这颗恒星可能还没有被黑洞完全吞噬。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[43% 的 Z 世代偏爱 YouTube 和 TikTok 而非传统电视和流媒体]]></title>
+        <id>https://www.solidot.org/story?sid=82739</id>
+        <link href="https://www.solidot.org/story?sid=82739"/>
+        <updated>2025-11-06T09:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Activate Consulting 的调查显示，43% 的 Z 世代偏爱 YouTube 和 TikTok 而不是传统电视或付费流媒体。全球媒体收入大幅增长，而传统电视收视率则在暴跌，每个人在各个平台上消费内容的时间平均超过 13 个小时，而多任务处理让人人过着“一天 32 小时”的生活。调查还显示，时长 1-2 分钟的微短剧正在快速流行，2800 万美国成年人（52% 年龄在 18-34 岁之间）在消费这种新娱乐形式。调查预计到 2029 年全球互联网和媒体收入将增加 3880 亿美元，人们每天看流媒体视频的时长将增至 4 小时 8 分钟，观看传统电视的时长将降至 1 小时 17 分钟。流媒体收入（包括广告和订阅）将每年增长 18-19%，而传统电视收入将每年下降 4-6%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国要求国家资助数据中心使用国产 AI 芯片]]></title>
+        <id>https://www.solidot.org/story?sid=82738</id>
+        <link href="https://www.solidot.org/story?sid=82738"/>
+        <updated>2025-11-06T07:32:30.000Z</updated>
+        <summary type="html"><![CDATA[中国发布指导方针，要求国家资助的新建数据中心使用国产 AI 芯片，完工进度低于 30% 的数据中心必须拆除所有已安装的外国芯片或取消采购计划；进度高于 30% 的数据中心则视个案而定。这可能是至今最强力的在关键基础中去除外国技术的举措。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国将封禁希音网站]]></title>
+        <id>https://www.solidot.org/story?sid=82737</id>
+        <link href="https://www.solidot.org/story?sid=82737"/>
+        <updated>2025-11-06T06:59:52.000Z</updated>
+        <summary type="html"><![CDATA[法国政府表示，将禁止希音(Shein)在该国运营，此前在这家快时尚零售商的线上平台上发现了儿童外形的性爱玩偶和大量武器在售。内政部长 Laurent Nuñez 周三提交法律申请，要求屏蔽希音网站，“以最终制止希音的缺点对公共秩序所造成的严重危害”。财政部表示，此举是在希音的市集平台上发现有“大量”第三方卖家上架A类武器之后作出的。它确认，这些武器包括砍刀、斧头和指节铜套。巴黎检方此前刚刚以希音销售“充气娃娃”涉嫌构成儿童色情为由展开调查。在法国，传播和持有儿童色情均属违法。近期甚至有日本足球协会（JFA）高层因在飞机上观看儿童色情而被判罪，相关执法正在严格化。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界经济论坛主席警告三大泡沫]]></title>
+        <id>https://www.solidot.org/story?sid=82736</id>
+        <link href="https://www.solidot.org/story?sid=82736"/>
+        <updated>2025-11-06T06:28:30.000Z</updated>
+        <summary type="html"><![CDATA[世界经济论坛主席 Borge Brende 周三表示，金融市场可能存在三大泡沫，世界应对此报以警惕。他表示，三大泡沫分别是：加密货币泡沫、AI 泡沫，以及债务泡沫。他说，政府的债务负担从未像现在这样沉重，这是自 1945 年以来从未有过的。Brende 表示 AI 虽然有可能大幅提高生产力，但也可能威胁到很多白领工作。最糟糕的情况下，有大量白领工资的大城市出现“铁锈地带”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因 Mozilla 引入 AI 翻译日语本地化社区宣布关闭]]></title>
+        <id>https://www.solidot.org/story?sid=82735</id>
+        <link href="https://www.solidot.org/story?sid=82735"/>
+        <updated>2025-11-06T05:57:23.000Z</updated>
+        <summary type="html"><![CDATA[因 Mozilla 引入 AI 翻译，日语本地化社区 SUMO 宣布终止运作。机器人翻译 sumobot 是在 10 月 22 日被引入去帮助撰写日语知识库文章，SUMO 社区发现它不遵守翻译指南；不尊重现有日语用户的本地化；对所有已存档知识库文章立即批准其直接翻译的英文机器翻译；在更新后需要 72 小时才能获批，培训新贡献者的工作无法展开；它的工作不经过社区的批准、控制和沟通；逾 300 篇知识库文章被 sumobot 覆写。SUMO 社区认为这是对他们工作的大规模破坏，负责人宣布不再为 support.mozilla.org 贡献内容，要求禁止将其翻译用于训练机器人和 AI，要求从 AI 的学习数据中移除所有翻译。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新 HDR10+ Advanced 将改进运动平滑]]></title>
         <id>https://www.solidot.org/story?sid=82734</id>
@@ -957,106 +1078,6 @@ Getting Creative With Small Screens originally published on CSS-Tricks, which is
         <link href="https://www.solidot.org/story?sid=82661"/>
         <updated>2025-10-28T15:46:40.000Z</updated>
         <summary type="html"><![CDATA[根据发表在 PNAS 期刊上的一项研究，2008-2010 年之间社会极化加剧，与此同时社交圈亲密朋友的人数从两人增加到了四或五人。两者之间的关联或能从根本上解释世界各地的社会日益分裂成意识形态泡泡。数十年以来的社会学研究表明，人们平均拥有大约两位密友，而密友能影响他们对重要问题的看法。但从 2008 年起，密友的人数突然增加到了四到五名。更多的密友，以及由此带来的更紧密的社交网络，导致了网络的分裂，以及最后导致社会极化。研究人员利用基于真实数据的模型发现，当网络密度增加，内部的极化是不可避免的。研究人员说，彼此联系更紧密时，人们会更频繁的遭遇不同意见。不可避免的会导致更多冲突，从而加剧社会极化。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类迁移的生物量超过所有陆地动物总和 40 倍]]></title>
-        <id>https://www.solidot.org/story?sid=82660</id>
-        <link href="https://www.solidot.org/story?sid=82660"/>
-        <updated>2025-10-28T15:00:40.000Z</updated>
-        <summary type="html"><![CDATA[一项研究发现，人类的生物量迁移可能达到所有野生陆地哺乳类、鸟类和陆生节肢动物总和的 40 倍以上。而另一项研究发现，野生哺乳动物的生物量自 1850 年以来已减少逾半，海洋哺乳类生物量下降尤其多——约 70%，主要源于较大物种的衰退，如蓝鲸、座头鲸、长须鲸和抹香鲸等。这些发现为全球迁移和动物生物量经时变化的构成带来了新见解。迁移性是动物的一个本质特征，通过觅食、迁徙和营养物质运输塑造生态系统。人类同样会广泛迁移，无论是步行还是借助飞机、火车和汽车等交通手段。比较生物量的迁移——定义为体重与迁移距离的乘积——能直接地衡量人类和动物活动的规模。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勒索软件的赎金支付比例创新低]]></title>
-        <id>https://www.solidot.org/story?sid=82659</id>
-        <link href="https://www.solidot.org/story?sid=82659"/>
-        <updated>2025-10-28T14:44:47.000Z</updated>
-        <summary type="html"><![CDATA[统计数据显示，向勒索软件组织支付赎金的受害者数量创下了新低，23% 的受害公司屈服支付了赎金，而在 2024 年第一季度这一比例是 28%，此后比例略有上升，但到了 2025 年第三季度创新低。对这一现象的一种解释是企业加大了防御力度，以及政府也施加了压力要求拒绝支付赎金，因为只要支付赎金勒索软件组织就有足够的动机继续发动攻击。勒索软件组织通常在加密受害者系统的同时窃取数据，进行双重勒索。数据显示，2025 年第三季度逾 76% 的攻击涉及数据泄露。2025 年第三季度支持的赎金平均金额和中位数分别降至 37.7 万美元和 14 万美元。Akira 和 Qilin 等勒索软件组织占到了所有有记录攻击的 44%，它们的攻击目标已经转向更有可能支付赎金的中型企业。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GLP-1 减肥药降低了美国的肥胖率]]></title>
-        <id>https://www.solidot.org/story?sid=82658</id>
-        <link href="https://www.solidot.org/story?sid=82658"/>
-        <updated>2025-10-28T09:54:41.000Z</updated>
-        <summary type="html"><![CDATA[根据盖洛普的最新调查，GLP-1 减肥药的流行降低了美国的肥胖率。美国成年人的肥胖率从三年前的 39.9% 下降至今年的 37%。过去一年半服用 GLP-1 agonists 减肥药如司美格鲁肽或替尔泊肽的美国人数量增加了一倍多。12.4% 的受访者服用此类减肥药，而 2024 年 2 月的调查中这一比例为 5.8%。GLP-1 减肥药是在 2021 年批准在美国上市。50-64 岁人群中服用减肥药的比例最高，肥胖率下降 5.0% 至 42.8%。调查还发现，服用减肥药的女性更多，体重减轻幅度也高于男性。但随着美国医保公司停止承保 GLP-1 减肥药，患者每个月将需要自己花费 500 美元购买减肥药，很多人可能无法负担。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿尔巴尼亚的 AI 部长怀孕了]]></title>
-        <id>https://www.solidot.org/story?sid=82657</id>
-        <link href="https://www.solidot.org/story?sid=82657"/>
-        <updated>2025-10-28T09:06:57.000Z</updated>
-        <summary type="html"><![CDATA[阿尔巴尼亚总理 Edi Rama 在柏林举行的 Global Dialogue (BGD) 上宣称，该国的 AI 部长 Diella 怀孕了，而且怀了 83 个 AI 孩子。Rama 是在上个月宣布了旨在打击腐败、负责公共采购的新部长 Diella。Diella 在阿尔巴尼亚语中意思是“太阳”，它是在今年 1 月首次作为虚拟助手在 e-Albania 平台上线，其形象是一位身穿传统服饰的女性。Rama 称 Diella 的 83 个孩子将担任执政党社民党的 83 名议员的虚拟助手。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 和 Anthropic 拥抱不同的商业模式]]></title>
-        <id>https://www.solidot.org/story?sid=82656</id>
-        <link href="https://www.solidot.org/story?sid=82656"/>
-        <updated>2025-10-28T08:41:49.000Z</updated>
-        <summary type="html"><![CDATA[微软支持的 OpenAI 与亚马逊和 Google 支持的 Anthropic 采用了不同商业模式。OpenAI 主要面向大众市场，130 亿美元年收入中企业收入仅占 30%。相比下，Anthropic 八成的收入来自企业客户。Anthropic 上个月表示它有 30 万家企业客户。在辅助编程市场，Anthropic 的 Claude 模型占了 42%，OpenAI 占 21%。在企业 AI 市场，Anthropic 占 32%，而 OpenAI 占 25%。Anthropic 目前的年收入为 70 亿美元，预计年底将达到 90 亿美元，在每用户收入上远超其更知名的竞争对手。相比 OpenAI，Anthropic 的增长途径更容易被企业客户理解。OpenAI 在大众市场的吸引力有可能让企业客户却步，因为它们希望 AI 更枯燥实用，而不是更有趣前卫。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11款正版软件特价：数码荔枝10月优惠，这些软件将不再参加双11优惠。]]></title>
-        <id>https://www.appinn.com/lizhi-202510/</id>
-        <link href="https://www.appinn.com/lizhi-202510/"/>
-        <updated>2025-10-28T07:29:11.000Z</updated>
-        <summary type="html"><![CDATA[数码荔枝的2025年10月优惠还剩最后两天，不要问青小蛙为什么才发，因为…来得及、来得及 😂 数码荔枝的同学透漏，这些软件将不再参与双11优惠，错过可能又要等很久了。 小众软件特别优惠码 APPINN 记得，以下产品都可以在结算页面输入“APPINN”优惠码，额外再享 95 折优惠，以及]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小行星撞击地球时恐龙正处于繁盛期]]></title>
-        <id>https://www.solidot.org/story?sid=82655</id>
-        <link href="https://www.solidot.org/story?sid=82655"/>
-        <updated>2025-10-28T06:52:56.000Z</updated>
-        <summary type="html"><![CDATA[科学界普遍认为恐龙在 6600 万年前小行星终结其统治之前早已走向衰亡。然而发表在《科学》期刊的新研究对这一长期观点提出了挑战。研究结果显示，恐龙当时非但没有衰退，反而处于繁盛状态。美国新墨西哥州岩层中的化石距今 6640 万至 6600 万年，正好处于白垩纪与古近纪分界线的全球灭绝事件时期。化石证据呈现了与传统认知截然不同的景象。北美各地的恐龙非但没有减少，反而在独特的区域群落中蓬勃发展。通过分析生态与地理模式，研究人员发现北美西部的恐龙种群主要受区域温差影响（而非山脉或河流），形成了独立的“生物集群”。小行星撞击使恐龙时代骤然终结，但它们留下的生态系统成为新进化篇章的基础。仅 30 万年内，哺乳动物就开始快速分化，发展出新的食性、体型和生态角色。曾经定义恐龙生态系统的温度相关模式延续至古新世，指引着灾难后生命的复苏路径。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳大利亚就微软对 Microsoft 365 订阅费用涨价提起诉讼]]></title>
-        <id>https://www.solidot.org/story?sid=82654</id>
-        <link href="https://www.solidot.org/story?sid=82654"/>
-        <updated>2025-10-28T06:24:18.000Z</updated>
-        <summary type="html"><![CDATA[微软去年为其 Microsoft 365 办公软件集成了 AI 服务 Copilot，然后以此为由提高了软件的订阅价格。以澳大利亚为例，自 2024 年 10 月起，集成 Copilot 的 Microsoft 365 个人版订阅价格上涨 45% 至 159 澳元，家庭版价格上涨 29% 至 179 澳元。微软并没有明确告知用户 Microsoft 365 还有一个不包含 AI 的经典版本。澳大利亚竞争监管机构认为微软误导了该国 270 万订阅用户，为此提起了诉讼。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我，搜狗忠实用户，换到了万象拼音]]></title>
-        <id>https://www.appinn.com/rime-wanxiang/</id>
-        <link href="https://www.appinn.com/rime-wanxiang/"/>
-        <updated>2025-10-28T05:47:37.000Z</updated>
-        <summary type="html"><![CDATA[本文来自小众软件论坛，仅代表个人观点。原作者 @kat，原链接：https://meta.appinn.net/t/topic/76426 我追求极致的效率。 开源、保护隐私等和打字无关的因素一直都不是我选择输入法的重要参考权重。 在我看来，打字就是算力分配。这算力，要么耗在电脑上，要么耗在人脑里。]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[芬兰生育率自 2010 年以来下降了三分之一]]></title>
-        <id>https://www.solidot.org/story?sid=82653</id>
-        <link href="https://www.solidot.org/story?sid=82653"/>
-        <updated>2025-10-28T05:47:28.000Z</updated>
-        <summary type="html"><![CDATA[芬兰生育率降至每名妇女生育不到 1.3 个孩子，在所有北欧国家中最低，远低于维持人口稳定更替所需的每名妇女生育 2.1 个孩子。自 2010 年以来，芬兰生育率下降了三分之一。芬兰社会保险机构 Kela 开始在 8 月而不是春季发放 2025 年的“婴儿礼盒”（装满衣物等婴儿用品），因为 2024 年的礼盒有很多无人认领。芬兰生育率的快速下降令研究人员感到困惑，因为该国为父母双方提供带薪育儿假、儿童保育补贴和国民医保。Kela 研究经理 Anneli Miettinen 表示优秀的家庭政策已不足以解释北欧国家生育率的下降。移民抵消了部分人口流失，但官员担心劳动力人口萎缩和养老金体系的压力。研究显示，年轻人很多都渴望建立家庭和生育三个孩子，但年轻一代难以建立恋爱关系，难以专注于教育和事业，推迟了生育计划。部分研究人员将难以建立恋爱关系归咎于科技减少了身体接触。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
