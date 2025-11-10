@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-11-09T03:11:20.050Z</updated>
+    <updated>2025-11-10T03:17:13.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[X 的算法放大极右翼账户]]></title>
+        <id>https://www.solidot.org/story?sid=82760</id>
+        <link href="https://www.solidot.org/story?sid=82760"/>
+        <updated>2025-11-09T13:38:34.000Z</updated>
+        <summary type="html"><![CDATA[Sky News 与数字咨询公司 411 合作训练了一个大模型将内容分类为政治类和非政治类，以及哪些内容偏左哪些偏右哪些中性，随后创建了 9 个新账号，三个左翼账号、三个右翼账号和三个政治中立账号，然后跟踪这些账户在一个月内展示的“For You”内容。“For You”是 X 的推荐算法向用户推荐的内容。结果显示，所有账户的“For You”展示的右翼内容要比左翼或中立内容都多，而右翼账号看到了更多右翼内容，中立账户看到的右翼内容是左翼的两倍。这一结果并不出人意料，X 在马斯克的统治下已经是一个著名的右翼平台了，左翼用户很多都转向了 Bluesky 或 Mastodon。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现 AI 回复过于友好而很容易分辨]]></title>
+        <id>https://www.solidot.org/story?sid=82759</id>
+        <link href="https://www.solidot.org/story?sid=82759"/>
+        <updated>2025-11-09T12:54:41.000Z</updated>
+        <summary type="html"><![CDATA[下次你在社交媒体上遇到非常有礼貌的回复，不妨仔细检查下。它可能是一次 AI 模型试图融入人类但失败的尝试。苏黎世大学、阿姆斯特丹大学、杜克大学和纽约大学的研究人员在预印本平台 arXiv 上发表了一篇论文，指出在社交媒体的对话中 AI 模型和人类仍然很容易区分，原因是 AI 有一个非常明显特征：语气过于友好。研究人员在 Twitter/X、Bluesky 和 Reddit 上测试了九个开放权重的大模型：Llama 3.1 8B、Llama 3.1 8B Instruct、Llama 3.1 70B、Mistral 7B v0.1、Mistral 7B Instruct v0.2、Qwen 2.5 7B Instruct、Gemma 3 4B Instruct、DeepSeek-R1-Distill-Llama-8B 和 Apertus-8B-2509，发现他们开发的分类器能以 70%-80% 的准确率识别出 AI 生成的回复。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Common Crawl 被批为 AI 公司提供高质量付费墙文章]]></title>
+        <id>https://www.solidot.org/story?sid=82758</id>
+        <link href="https://www.solidot.org/story?sid=82758"/>
+        <updated>2025-11-09T12:16:24.000Z</updated>
+        <summary type="html"><![CDATA[成立于 2007 年的非盈利组织 Common Crawl 致力于存档互联网，它至今抓取了数以十亿计的网页。但最近几年它引发了争议，其巨大的存档库被 AI 公司如 OpenAI、Google、Anthropic、Nvidia、Meta 和 Amazon 用于训练大模型。Common Crawl 为 AI 公司打开了一扇后门，允许它们使用高质量付费墙文章训练模型，并在抓取付费墙文章上撒谎。Common Crawl 声称它不会绕过付费墙，会应新闻出版商要求删除其内容，但实际上并非如此。Common Crawl 执行董事 Rich Skrenta 对此回应称，新闻出版商如果不想它们的内容被抓取，就不应该将内容发布到网上。他说，Common Crawl 的爬虫不会登陆其抓取的网站，但一部分付费墙机制不会影响它的爬虫。比如很多网站在执行付费墙代码前会短暂允许浏览器访问全文，然后代码检查访客是不是付费用户，如果不是就隐藏内容。Common Crawl 的爬虫不会执行付费墙代码，因此能直接阅读全文。过去一年 Common Crawl 的 CCBot 如今已成为流行网站屏蔽最广泛的抓取程序。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你无法想象：OpenAI 中文训练数据有多脏]]></title>
+        <id>https://www.appinn.com/openai-zh-training-data-quality/</id>
+        <link href="https://www.appinn.com/openai-zh-training-data-quality/"/>
+        <updated>2025-11-09T11:47:43.000Z</updated>
+        <summary type="html"><![CDATA[前些日子，OpenAI 为了开源，而开源了 GPT-oss 模型的全部参数。很快就有开发者对 GPT-oss 模型做了一番深入分析，通过特殊算法、参数检测以及与模型的交互，非常直白的向我们展示了… OpenAI 的中文训练数据，真的很脏啊 这是今年9月份 fi-le 的文章《GPT-os]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙膨胀或许在减速而非加速]]></title>
+        <id>https://www.solidot.org/story?sid=82757</id>
+        <link href="https://www.solidot.org/story?sid=82757"/>
+        <updated>2025-11-09T09:53:07.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《皇家天文学会月刊》上的一项研究，宇宙的膨胀速度或许已开始放缓，并非如以前所认为的持续加速。这项新发现对暗能量正推动遥远星系加速远离的理论提出了挑战。若这项结果获得确认，将可能开启关于暗能量本质、解决哈勃张力（Hubble tension）、以及理解宇宙过去与未来的全新篇章。过去 30 年天文学界普遍认为宇宙的膨胀速度正以不断增加，这种膨胀是由暗能量驱动。然而南韩延世大学团队提出了新的证据，表明 Ia 型超新星实际上受到其前身恒星年龄的影响。团队发现，即使经过亮度标准化处理，来自较年轻恒星族群的超新星看起来仍然系统性地较暗，而来自较老恒星族群的超新星则更亮。研究团队以 300 个星系的大样本为基础，以 99.999% 的置信度验证了超新星的年龄偏差效应（age bias effect），显示遥远超新星的变暗并非仅由宇宙学效应造成，还受到恒星演化物理的显著影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefox 发布新吉祥物 Kit，那只狐狸，长大了]]></title>
         <id>https://www.appinn.com/firefox-new-logo-kit/</id>
@@ -846,136 +896,6 @@ The “Most Hated” CSS Feature: tan() originally published on CSS-Tricks, whic
         <link href="https://www.solidot.org/story?sid=82691"/>
         <updated>2025-10-31T15:29:50.000Z</updated>
         <summary type="html"><![CDATA[根据发表在《The Review of Economics and Statistics》上的一项研究，挪威卑而根大学和美国斯坦福大学商学院的研究人员调查了父母对创业者选择哪个行业创业以及创业成功的影响。接近 75% 的男性企业家选择在与父亲相同或相近的行业创业。 这些创业者的企业平均表现更佳，且更易成为行业佼佼者。这种优势并非源于父母的直接帮助或遗传能力，而是通过成长过程中的家庭互动（如“餐桌人力资本”）获得的行业知识。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[弓头鲸长寿之谜可能在于其 DNA 修复机制]]></title>
-        <id>https://www.solidot.org/story?sid=82690</id>
-        <link href="https://www.solidot.org/story?sid=82690"/>
-        <updated>2025-10-31T14:29:06.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《自然》期刊上的一项研究，弓头鲸异乎寻常的长寿可能是源于其更强的 DNA 修复能力。弓头鲸是已知最大、最长寿的哺乳动物之一，最大寿命可超过 200 年，体重经常超过 80000 公斤。它们惊人的体型和长寿本应增加其患癌倾向，因为 DNA 变异可能性本应随之增加。但现有数据不支持这一观点，使科学家开始探索这一矛盾现象背后的机制。科学家研究了弓头鲸细胞在致癌刺激（如紫外线）下变异为癌细胞的可能性。这些细胞的恶性转化，比人类的成纤维细胞（结缔组织细胞）所需变异更少。但是弓头鲸细胞比人类细胞显示的变异更少，表明尽管其 DN A容易受损，但能自我修复。在分析弓头鲸细胞 DNA 修复过程后发现，其双链断裂修复的速度和质量都有所加强。研究者在鲸细胞中发现了一种与 DNA 修复相关的蛋白，发现这一蛋白过表达会加强人类细胞的 DNA 修复，并延长果蝇寿命。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pornhub 称年龄验证后英国访客数量锐减 77%]]></title>
-        <id>https://www.solidot.org/story?sid=82689</id>
-        <link href="https://www.solidot.org/story?sid=82689"/>
-        <updated>2025-10-31T09:30:15.000Z</updated>
-        <summary type="html"><![CDATA[最大成人视频网站 Pornhub 表示，自 7 月英国 Online Safety Act 生效要求成人网站验证访客年龄后，英国访客数量锐减 77%。Pornhub 声称无视新法律的成人网站从中受益。Pornhub 是全球访问量排名第 19 的网站。英国通信管理局（Ofcom）称 7 月 25 日之后的三个月内，英国用户访问色情网站的数量总体下降近三分之一，Ofcom 表示法律实现了其主要目的，即阻止儿童“无需搜索即可轻易接触成人内容”。Ofcom 称，7 月 VPN 用户达到了 150 万，但此后降至了 100 万。Cyber​​news 的数据显示，英国用户通过 Google Play Store 和 Apple App Store 下载 VPN 应用的数量今年内将超过 1070 万次。Cyber​​news 认为 Pornhub 英国访客数量并没有锐减，访客使用 VPN 导致其被归类为非英国用户，当然确实可能有部分用户转向了不需要年龄验证的网站。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[憋了两年，三星桌面浏览器正式发布｜三星设备用户必备]]></title>
-        <id>https://www.appinn.com/samsung-pc-browser/</id>
-        <link href="https://www.appinn.com/samsung-pc-browser/"/>
-        <updated>2025-10-31T08:31:34.000Z</updated>
-        <summary type="html"><![CDATA[三星推出了基于 Chromium 的桌面浏览器，主要特色功能是实现了与 Samsung 生态系统的联动，包括书签、历史记录的同步，内置 Samsung Pass 密码管理器，跨设备浏览网页等功能。但如果你不是三星设备用户，那么它就是一台普通的浏览器。@Appinn 来自发现频道，阿韬的推荐：http]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特朗普命令美国重启核武器试验]]></title>
-        <id>https://www.solidot.org/story?sid=82688</id>
-        <link href="https://www.solidot.org/story?sid=82688"/>
-        <updated>2025-10-31T08:08:38.000Z</updated>
-        <summary type="html"><![CDATA[美国总统特朗普指示战争部重启核武器试验。此举可能是维持美国核武器的优势局面。美国上一次核试验是 1992  年 9 月 23 日在内华达州进行的地下核试验。美国共进行了 1054 次核试验，其次是苏联的 715 次，法国的 210 次，英国和 中国的 45 次，中国最后一次核试验是 1996 年 7 月。1996 年 9 月全面禁止核试验条约在联合国大会通过后，仅印度、巴基斯坦和朝鲜三国进行过核试验。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bazzite 秋季更新释出]]></title>
-        <id>https://www.solidot.org/story?sid=82687</id>
-        <link href="https://www.solidot.org/story?sid=82687"/>
-        <updated>2025-10-31T07:45:37.000Z</updated>
-        <summary type="html"><![CDATA[针对游戏的发行版项目 Universal Blue 宣布释出 Bazzite 秋季更新。Bazzite 基于 Fedora 发行版，最新更新升级到了 Fedora 43，使用的桌面环境包括 GNOME 49 和 KDE Plasma 6.4.5。其它变化包括：完整支持微软华硕 Xbox 掌机 Xbox Ally 和 Xbox Ally X ，改进对联想掌机 Legion Go 2 的支持；支持使用英特尔芯片的 OneXPlayer X1 Air，但目前还不支持颗粒度 TDP 控制；支持 SuiPlay0X1，等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以色列要求 Google 和亚马逊使用秘密的眨眼信号警告外国政府的数据披露要求]]></title>
-        <id>https://www.solidot.org/story?sid=82686</id>
-        <link href="https://www.solidot.org/story?sid=82686"/>
-        <updated>2025-10-31T07:29:52.000Z</updated>
-        <summary type="html"><![CDATA[Google 和亚马逊在 2021 年签署 12 亿美元的云计算交易时，它们的客户——以色列政府提出一项不同寻常的要求，事实上是要求 Google 和亚马逊规避世界各国的法律义务。以色列要求使用被称为“眨眼”的机制警告来自世界各国的数据披露命令。为遵守各国的法律，Google 和亚马逊等科技巨头通常会根据执法部门的命令提供客户数据以协助调查。执法部门通常也会要求相关企业对调查保密，禁止披露客户数据已被移交。以色列不希望失去数据的控制权，因此要求 Google 和亚马逊使用眨眼机制——以特殊补偿的形式支付小额款项——向其发出预警。根据泄露的以色列财政部文件，眨眼款项需要在信息披露 24 小时内支付，支付金额与国家的电话区号对应，介于 1,000 至 9,999 谢克尔之间。如果 Google 或亚马逊被要求向美国政府（电话区号+1）提供以色列用户数据，且被禁止披露，那么 Google 或亚马逊需要向以色列政府支付 1,000 谢克尔；如果是意大利政府（区号为 +39）则支付 3,900 谢克尔；如果相关国家的保密协议禁止披露国家名称，则支付 10 万谢克尔。Google 和亚马逊的云计算部门都否认它们规避了法律义务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群晖新套件 Synology Tiering：可根据访问频率自动管理冷、热数据]]></title>
-        <id>https://www.appinn.com/synology-tiering/</id>
-        <link href="https://www.appinn.com/synology-tiering/"/>
-        <updated>2025-10-31T07:28:36.000Z</updated>
-        <summary type="html"><![CDATA[随着群晖 DSM7.3 的正式发布，群晖也带来了一款新的、针对企业应用的高级套件：Synology Tiering、Synology Tiering Vault，测试版。它可以根据文件数据访问或修改频率，自动将不常用的数据从本地热存储区移动到远程冷存储区，实现智能分层保存，让常用数据响应更快，不常用]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国面临禁止汞合金填充物的压力]]></title>
-        <id>https://www.solidot.org/story?sid=82685</id>
-        <link href="https://www.solidot.org/story?sid=82685"/>
-        <updated>2025-10-31T06:44:33.000Z</updated>
-        <summary type="html"><![CDATA[英国是少数几个尚未禁止汞合金牙齿填充物的国家，它正面临越来越大的压力，原因是最新数据显示鱼类和贝类中的汞污染水平令人担忧。汞是一种强效神经毒素，即使是低浓度的汞暴露也会损害神经系统、消化系统和免疫系统，以及肺、肾、皮肤和眼睛。有机形式的甲基汞对胎儿尤其危险，且汞可通过食物链在昆虫、鱼类和鸟类体内积累。根据英国环境署的数据，火葬场是发电厂之后第二大汞排放源，每年排放 593 公斤的汞。根据 Rivers Trust 以及 Wildlife and Countryside Link 的分析，英国河流和沿海水域中检测的鱼类和贻贝中，逾 98% 鱼类和贻贝汞含量超过了欧盟提出的安全限值，逾半数的鱼类和贻贝汞含量超过建议安全水平的五倍。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Affinity Studio 成为免费软件]]></title>
-        <id>https://www.solidot.org/story?sid=82684</id>
-        <link href="https://www.solidot.org/story?sid=82684"/>
-        <updated>2025-10-31T05:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Serif 开发的设计软件套件在改名为 Affinity Studio 后作为免费软件提供给用户，但条件是用户需要 Canva 账号，此举旨在吸引用户订阅 Canva AI 功能。Serif 开发的 Affinity 套件包括：矢量图形设计工具  Affinity Designer、数字图像编辑工具 Affinity Photo（类似 Photoshop），以及印刷和排版设计工具 Affinity Publisher。Affinity 套件此前采用的是一次性付费模式。2024 年 Canva 公司以 3.8 亿美元收购了 Serif，它现在以 Affinity Studio 的名字将 Serif 的设计软件三套件以免费软件的形式提供给用户使用。用户需要注册 Canva 帐户才能下载和启动 Affinity Studio，它包含了四个功能：Vector，即原来的 Affinity Designer；Pixel，原 Affinity Photo；Layout，原 Affinity Publisher；以及 Canva AI，需要付费的 AI 功能，免费用户无法使用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数学证明否定宇宙是模拟的]]></title>
-        <id>https://www.solidot.org/story?sid=82683</id>
-        <link href="https://www.solidot.org/story?sid=82683"/>
-        <updated>2025-10-31T05:24:23.000Z</updated>
-        <summary type="html"><![CDATA[物理学家通过数学论证指出，宇宙的本质建构于一种超越任何算法所能掌握的理解之上，否定了曾经流行的宇宙模拟假说。现代物理早已超越牛顿所描述的「实体世界」。爱因斯坦的相对论取代了古典力学，而量子力学又再次革新了我们对现实的认知。当前的尖端理论：量子引力学更指出，连「空间」与「时间」都非根本实体，而是由更深层的「纯粹信息」所涌现。这种信息存在于物理学家所称的「柏拉图领域」（Platonic realm），是一个比我们经验中的宇宙更为根本的数学实在。研究团队进一步利用哥德尔不完备定理（Gödel’s incompleteness theorem）等数学定理，证明任何试图以算法完全描述现实的企图都将失败。计算虽可循逻辑步骤推演，但仍有某些真理属于「非算法理解」，即无法由任何有限步骤推出的真理。例如「此句为真，但不可证明」这一命题：若能被证明，则为假；若不能被证明，则为真，导致任何尝试证明的系统不是不一致，就是不完备。这意味着纯粹计算无法涵盖现实全部层面。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信正在灰度 2 个“能要命”的功能：微信批量撤回、群始终接收4位领导的消息]]></title>
-        <id>https://www.appinn.com/wechat-bulk-recall/</id>
-        <link href="https://www.appinn.com/wechat-bulk-recall/"/>
-        <updated>2025-10-31T02:17:32.000Z</updated>
-        <summary type="html"><![CDATA[摘要：现在，微信可以一次性撤回本次发送的全部消息，包括多选转发、批量发送的图片视频和文件。现在，群免打扰后，仍能指定接收4位领导的消息。现在，这些功能都在灰度。原文链接：https://www.appinn.com/wechat-bulk-recall/ 来自微信派的消息，微信目前正在灰度批量撤回功]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNS 运行在 FOSS 之上]]></title>
-        <id>https://www.solidot.org/story?sid=82682</id>
-        <link href="https://www.solidot.org/story?sid=82682"/>
-        <updated>2025-10-30T16:30:23.000Z</updated>
-        <summary type="html"><![CDATA[ICANN 发表报告《The Domain Name System Runs on Free and Open Source Software (FOSS)》，该报告主要面向决策者，其背景是世界各国政府正探索制定新的网络安全监管法规，DNS 运营中 FOSS 软件的无处不在意味着今天制定的政策将直接影响未来互联网的安全性和韧性。报告指出，DNS 生态系统依赖于由维护者和贡献者构成的全球网络，他们通常是无偿的志愿者。虽然很多参与者是无偿的，但 DNS 生态的独特之处在于，它还依赖于多个长期存在的维护组织，创造了一种基于社区协作而非传统软件供应链商业合同的运营模式，这一模式的独特风险在于维护组织的财务可持续性以及志愿者因倦怠而退出。FOSS 软件运营的独特性意味着为私有软件设计的监管框架可能并不适用于 FOSS，因此可能会对关键互联网基础设施的稳定性构成严重的意想不到的后果。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社会最终会接受自动驾驶出租车导致的致命车祸]]></title>
-        <id>https://www.solidot.org/story?sid=82681</id>
-        <link href="https://www.solidot.org/story?sid=82681"/>
-        <updated>2025-10-30T15:30:35.000Z</updated>
-        <summary type="html"><![CDATA[在 TechCrunch Disrupt 2025 大会上，Waymo 联席 CEO Tekedra Mawakana 表示，社会最终会接受自动驾驶出租车导致的致命车祸，以此作为提升公路整体安全性的必要代价。在大会上 Mawakana 被问到如果 Waymo 等自动驾驶汽车公司减少了美国的交通死亡人数，但最终导致了一起致命车祸，社会会接受吗？Mawakana 认为社会会接受，挑战在于社会需要设定严格的安全标准，以确保企业承担起相应的安全责任。企业必须透明，公开车祸相关的数据。她说，自动驾驶汽车将大幅减少事故，但无法完全消除。车祸不是不会发生，而是何时发生，企业需要为此做好准备。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
