@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/canghuoche-train-tickets/",
+          "author": "青小蛙",
+          "description": "你有没有一抽屉舍不得扔的火车票？我有。 于是我决定用另一种方式，把这些火车票，全部留下来。 前两天，我在发现频道看到一个微信小程序《藏火车》。 来自发现频道，开发者 @link1 自荐：https://meta.appinn.net/t/topic/77195 藏火车：专注于火车票收藏的微信小程序",
+          "link": "https://www.appinn.com/canghuoche-train-tickets/",
+          "publishedOn": "2025-11-18T06:56:58.000Z",
+          "wordCount": 2495,
+          "title": "藏火车：纸质火车票快消失了，我决定用另一种方式把它们留下来",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-4.jpg"
+        },
+        {
           "id": "https://www.appinn.com/inxunoffice-word-tools/",
           "author": "青小蛙",
           "description": "Word 批量处理的场景在我们工作中非常常见，例如批量修改 Word 中的内容、批量添加或删除 Word 文档中的水印、批量设置 Word 页眉页脚等。每一个需求背后可能都是抓耳饶腮的你深夜默默加班。为何不去试试这款 Word 批量处理工具，绝对让你解放双手，告别加班，工作效率一路飙升！ 我想没有谁",
@@ -110,16 +120,6 @@
           "wordCount": 2533,
           "title": "图片编辑工具 Affinity 桌面端彻底免费，支持 Win、macOS，附网盘下载地址",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-2025-11-10T153251.192.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/openai-zh-training-data-quality/",
-          "author": "青小蛙",
-          "description": "前些日子，OpenAI 为了开源，而开源了 GPT-oss 模型的全部参数。很快就有开发者对 GPT-oss 模型做了一番深入分析，通过特殊算法、参数检测以及与模型的交互，非常直白的向我们展示了… OpenAI 的中文训练数据，真的很脏啊 这是今年9月份 fi-le 的文章《GPT-os",
-          "link": "https://www.appinn.com/openai-zh-training-data-quality/",
-          "publishedOn": "2025-11-09T11:47:43.000Z",
-          "wordCount": 2612,
-          "title": "你无法想象：OpenAI 中文训练数据有多脏",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-2025-11-09T164145.956.jpg"
         }
       ]
     },
@@ -224,6 +224,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=82835",
+          "author": null,
+          "description": "根据递交到 SEC 的文件，哈佛大学持有价值逾 4.42 亿美元的加密货币，持有形式是贝莱德（BlackRock）发行的 iShares Bitcoin Trust(IBIT) ETF。布朗大学也披露持有约 1400 万美元的加密货币 ETF。哈佛大学在比特币 ETF 上的投资超过了其持有的任何股票，包括其持有的英伟达、微软和亚马逊等主流公司的股份。4.42 亿美元仅占哈佛大学近 570 亿美元捐赠基金的不到 1%。尽管比特币币值近期下跌，但 IBIT 的总市值超过了 700 亿美元。哈佛的投资再次表明加密货币正日益被机构接受。",
+          "link": "https://www.solidot.org/story?sid=82835",
+          "publishedOn": "2025-11-18T14:30:51.000Z",
+          "wordCount": 186,
+          "title": "哈佛持有 4.42 亿美元的加密货币",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82834",
+          "author": null,
+          "description": "自 2022 年以来 Debian Live Images 都包含了非自由固件，Debian Libre Live Images 项目旨在让用户在不安装任何非自由软件的情况下运行和安装 Debian 操作系统。项目目前提供了 64 位 x86 CPU (amd64) 的 Live ISO 镜像。开发者表示，作为首个公开版本，镜像可能存在问题，建议用户在使用前查阅已知问题列表。",
+          "link": "https://www.solidot.org/story?sid=82834",
+          "publishedOn": "2025-11-18T13:52:27.000Z",
+          "wordCount": 199,
+          "title": "Debian Libre Live Images 项目发布首个版本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82833",
+          "author": null,
+          "description": "在亚马逊 AWS 和微软 Azure 之后，互联网再次体验到单点故障对整个互联网基础设施的影响：Cloudflare 宕机事故影响了整个互联网。Cloudflare 提供了多种服务，包括 DDoS 保护、网页应用防火墙、公共 DNS 解析器、反向代理和 CDN 等，它的服务和 AWS 以及 Azure 一样被广泛使用，它的故障也波及了整个互联网。Cloudflare 的状态页面显示它已经知道问题，并且处于“我们正在继续调查问题”之中。专家表示此类宕机事件凸显了现代互联网的脆弱性，突出了支持互联网的少数几家公司出现问题可能会造成严重破坏。",
+          "link": "https://www.solidot.org/story?sid=82833",
+          "publishedOn": "2025-11-18T12:54:58.000Z",
+          "wordCount": 180,
+          "title": "Cloudflare 宕机影响整个互联网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82832",
+          "author": null,
+          "description": "根据发表在《Frontiers in Zoology》期刊上的一项研究，生活在城市的浣熊显示出驯化的早期迹象。城里的残羹剩饭为动物提供了取之不尽的美食，但对动物而言城市和它们生活的野外环境有很大区别，为适应城市生活它们面临巨大的选择适应压力。驯化并非只是人类捕捉野生动物然后选择性繁殖，野生动物适应人类环境也是一种驯化。驯化的动物相比野生动物有些显著差异的生物特征，如脸短、头小、耳朵下垂以及白色皮毛斑块，这些特征被称为驯化综合征。生物学家 Raffaela Lesch 和同事分析了 iNaturalist 上的近两万张浣熊照片，发现城市浣熊的吻部比农村同类短 3.5%。研究人员计划接下来捕捉城市浣熊，观察它们是否比农村浣熊更友善。",
+          "link": "https://www.solidot.org/story?sid=82832",
+          "publishedOn": "2025-11-18T12:42:10.000Z",
+          "wordCount": 168,
+          "title": "浣熊显示驯化的早期迹象",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82831",
+          "author": null,
+          "description": "你可能从儿时起一直被告诫要“坚持下去”，仿佛命悬一线时松手就会死亡。根据发表在《Nature Human Behaviour》期刊上的元分析研究，很多时候放弃其实是最明智的选择。研究人员分析了 235 项研究，涉及在遇到成功障碍后人们如何调整目标。研究作者 Hugh Riddell 称，坚持不可能实现的目标会造成严重影响，增加压力、幸福感下降，甚至引发健康问题。放弃旧目标重新转向新目标能恢复目标感和幸福感。研究还发现，放弃目标与压力、焦虑和抑郁的显著降低相关。",
+          "link": "https://www.solidot.org/story?sid=82831",
+          "publishedOn": "2025-11-18T10:12:09.000Z",
+          "wordCount": 165,
+          "title": "很多时候放弃是最明智的选择",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82830",
+          "author": null,
+          "description": "Alphabet CEO Sundar Pichai 在接受采访时称如果 AI 泡沫破裂没有公司能免受影响。他承认目前的 AI 热存在非理性因素。当被问及 Google 能否免受 AI 泡沫破裂的影响，Pichai 表示能承受但不可能免受影响。Alphabet 的股价在七个月内翻了一番达到 3.5 万亿美元。Pichai 表示 Google 独特的“全栈”技术模式——从芯片到YouTube 数据到模型和前沿科学——意味着它更有能力应对 AI 市场的任何动荡。他称 AI 是人类迄今创造的“最深刻的技术”，“我们将不得不应对社会变革，”也将“创造新的机遇”。",
+          "link": "https://www.solidot.org/story?sid=82830",
+          "publishedOn": "2025-11-18T08:44:12.000Z",
+          "wordCount": 197,
+          "title": "Sundar Pichai 称如果 AI 泡沫破裂没有公司能免受影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82829",
+          "author": null,
+          "description": "微软正进一步在 Windows 11 中整合 AI 功能。Windows 11 Build 26220.7262 的设置 > 系统 > AI 组件下新增了“实验性智能体”功能选项。该功能会启用智能体工作空间（Agent Workspace），但目前还无法使用。微软正在将 Windows 打造成一个 AI 原生操作系统。新功能允许 AI 智能体访问用户目录最常用的文件夹如桌面、音乐、图片和视频。如果启用该功能，AI 智能体还将拥有自己的运行时环境、桌面、用户帐户，并始终在后台运行。",
+          "link": "https://www.solidot.org/story?sid=82829",
+          "publishedOn": "2025-11-18T08:17:05.000Z",
+          "wordCount": 199,
+          "title": "微软在 Windows 11 中加入 AI 智能体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82828",
+          "author": null,
+          "description": "Take-Two Interactive CEO Strauss Zelnick 在接受采访时表示，游戏行业正转向 PC 从封闭转向开放，但游戏机作为一种体验并不会消失。Zelnick 表示，游戏机和手游的市场份额产不多，但手游增长速度比游戏机更快。索尼 PS 和任天堂 Switch 的游戏机业务取得了成功，而竞争对手拥有 Xbox 的微软则暗示下一代硬件将更面向 PC 游戏。Valve 最近宣布的 Steam Machin 就是游戏机和 PC 的混合设备。",
+          "link": "https://www.solidot.org/story?sid=82828",
+          "publishedOn": "2025-11-18T06:44:37.000Z",
+          "wordCount": 196,
+          "title": "Take-Two Interactive CEO 认为游戏行业正转向 PC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82827",
+          "author": null,
+          "description": "发表在《Proceedings of the Royal Society B: Biological Sciences》期刊上的一项研究揭示了对人脸过目不忘的秘密。研究人员招募了 37 名超级人脸识别者（super-recognizer）和 68 名识别能力一般的人，记录他们注视电脑屏幕上显示的人脸图片的位置和时长。团队此前进行的研究已经发现，超级人脸识别者会以类似拼图游戏的方式处理人脸：他们会将新面孔分成多部分，大脑再合成出完整图像。最新研究发现，超级人脸识别者会更专注于包含更多“线索”的特征。研究可能有助于改进人脸识别系统，研究人员表示，目前人类在人脸识别方面仍然优于人工智能，因为人类会在社交场合利用其他线索。",
+          "link": "https://www.solidot.org/story?sid=82827",
+          "publishedOn": "2025-11-18T06:00:30.000Z",
+          "wordCount": 169,
+          "title": "为何一部分人对人脸过目不忘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82826",
+          "author": null,
+          "description": "根据 Freedom House 的年度报告，全球互联网自由度连续 15 年下降。生活在被归类为“自由”国家的网民比例创历史新低。在评估的 72 个国家中，有 27 个国家的互联网自由度下降，其中肯尼亚恶化情况最严重——该国在镇压反腐败抗议期间网络中断长达 7 小时。美国的自由度排名也出现了下降，冰岛仍然是自由度最高的国家，而孟加拉国的进步最显著。",
+          "link": "https://www.solidot.org/story?sid=82826",
+          "publishedOn": "2025-11-18T04:41:35.000Z",
+          "wordCount": 177,
+          "title": "全球互联网自由度连续 15 年下降",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82825",
+          "author": null,
+          "description": "华盛顿邮报通知上万员工和合同工他们的个人和财务信息泄露。7 月 10 日至 8 月 22 日期间，攻击者入侵了华邮网络，利用甲骨文 E-Business Suite 的 0day 漏洞窃取了敏感数据。攻击者试图利用窃取的数据对华邮进行勒索。华邮随后在专家的帮助下进行详细调查，甲骨文则在期间披露其企业 ERP 平台 E-Business Suite 存在漏洞，允许未经授权客户应用。攻击者除了攻击华邮还有哈佛大学、美国航空 Envoy Air 以及日立的 GlobalLogic。",
+          "link": "https://www.solidot.org/story?sid=82825",
+          "publishedOn": "2025-11-18T04:18:20.000Z",
+          "wordCount": 178,
+          "title": "华盛顿邮报上万员工和合同工信息泄露",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82824",
+          "author": null,
+          "description": "Google 将对高耗电量 Android 应用采取行动。如果一款应用后台活动频率超过阈值，Google Play 应用商店可能会将其标记为对电池性能产生负面影响，影响其曝光度。开发者需要在 2026 年 3 月 1 日之前更新其应用，以遵守名为“过度部分唤醒锁（excessive partial wake locks）”的指标。Google Play 的 Android Vitals 系统将跟踪应用阻止设备进入睡眠模式的后台活动时间，如果在 24 小时内累计非豁免唤醒锁时长逾两小时该应用将被认为过度。",
+          "link": "https://www.solidot.org/story?sid=82824",
+          "publishedOn": "2025-11-17T16:18:37.000Z",
+          "wordCount": 190,
+          "title": "Google 将标记耗电量高的 Android 应用",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=82823",
           "author": null,
@@ -852,46 +972,6 @@
           "publishedOn": "2025-11-10T05:42:44.000Z",
           "wordCount": 171,
           "title": "苹果下架 Blued 和翻咔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82760",
-          "author": null,
-          "description": "Sky News 与数字咨询公司 411 合作训练了一个大模型将内容分类为政治类和非政治类，以及哪些内容偏左哪些偏右哪些中性，随后创建了 9 个新账号，三个左翼账号、三个右翼账号和三个政治中立账号，然后跟踪这些账户在一个月内展示的“For You”内容。“For You”是 X 的推荐算法向用户推荐的内容。结果显示，所有账户的“For You”展示的右翼内容要比左翼或中立内容都多，而右翼账号看到了更多右翼内容，中立账户看到的右翼内容是左翼的两倍。这一结果并不出人意料，X 在马斯克的统治下已经是一个著名的右翼平台了，左翼用户很多都转向了 Bluesky 或 Mastodon。",
-          "link": "https://www.solidot.org/story?sid=82760",
-          "publishedOn": "2025-11-09T13:38:34.000Z",
-          "wordCount": 177,
-          "title": "X 的算法放大极右翼账户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82759",
-          "author": null,
-          "description": "下次你在社交媒体上遇到非常有礼貌的回复，不妨仔细检查下。它可能是一次 AI 模型试图融入人类但失败的尝试。苏黎世大学、阿姆斯特丹大学、杜克大学和纽约大学的研究人员在预印本平台 arXiv 上发表了一篇论文，指出在社交媒体的对话中 AI 模型和人类仍然很容易区分，原因是 AI 有一个非常明显特征：语气过于友好。研究人员在 Twitter/X、Bluesky 和 Reddit 上测试了九个开放权重的大模型：Llama 3.1 8B、Llama 3.1 8B Instruct、Llama 3.1 70B、Mistral 7B v0.1、Mistral 7B Instruct v0.2、Qwen 2.5 7B Instruct、Gemma 3 4B Instruct、DeepSeek-R1-Distill-Llama-8B 和 Apertus-8B-2509，发现他们开发的分类器能以 70%-80% 的准确率识别出 AI 生成的回复。",
-          "link": "https://www.solidot.org/story?sid=82759",
-          "publishedOn": "2025-11-09T12:54:41.000Z",
-          "wordCount": 203,
-          "title": "研究发现 AI 回复过于友好而很容易分辨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82758",
-          "author": null,
-          "description": "成立于 2007 年的非盈利组织 Common Crawl 致力于存档互联网，它至今抓取了数以十亿计的网页。但最近几年它引发了争议，其巨大的存档库被 AI 公司如 OpenAI、Google、Anthropic、Nvidia、Meta 和 Amazon 用于训练大模型。Common Crawl 为 AI 公司打开了一扇后门，允许它们使用高质量付费墙文章训练模型，并在抓取付费墙文章上撒谎。Common Crawl 声称它不会绕过付费墙，会应新闻出版商要求删除其内容，但实际上并非如此。Common Crawl 执行董事 Rich Skrenta 对此回应称，新闻出版商如果不想它们的内容被抓取，就不应该将内容发布到网上。他说，Common Crawl 的爬虫不会登陆其抓取的网站，但一部分付费墙机制不会影响它的爬虫。比如很多网站在执行付费墙代码前会短暂允许浏览器访问全文，然后代码检查访客是不是付费用户，如果不是就隐藏内容。Common Crawl 的爬虫不会执行付费墙代码，因此能直接阅读全文。过去一年 Common Crawl 的 CCBot 如今已成为流行网站屏蔽最广泛的抓取程序。",
-          "link": "https://www.solidot.org/story?sid=82758",
-          "publishedOn": "2025-11-09T12:16:24.000Z",
-          "wordCount": 205,
-          "title": "Common Crawl 被批为 AI 公司提供高质量付费墙文章",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82757",
-          "author": null,
-          "description": "根据发表在《皇家天文学会月刊》上的一项研究，宇宙的膨胀速度或许已开始放缓，并非如以前所认为的持续加速。这项新发现对暗能量正推动遥远星系加速远离的理论提出了挑战。若这项结果获得确认，将可能开启关于暗能量本质、解决哈勃张力（Hubble tension）、以及理解宇宙过去与未来的全新篇章。过去 30 年天文学界普遍认为宇宙的膨胀速度正以不断增加，这种膨胀是由暗能量驱动。然而南韩延世大学团队提出了新的证据，表明 Ia 型超新星实际上受到其前身恒星年龄的影响。团队发现，即使经过亮度标准化处理，来自较年轻恒星族群的超新星看起来仍然系统性地较暗，而来自较老恒星族群的超新星则更亮。研究团队以 300 个星系的大样本为基础，以 99.999% 的置信度验证了超新星的年龄偏差效应（age bias effect），显示遥远超新星的变暗并非仅由宇宙学效应造成，还受到恒星演化物理的显著影响。",
-          "link": "https://www.solidot.org/story?sid=82757",
-          "publishedOn": "2025-11-09T09:53:07.000Z",
-          "wordCount": 170,
-          "title": "宇宙膨胀或许在减速而非加速",
           "imageUrl": null
         }
       ]
