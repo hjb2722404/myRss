@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/ubuntu-legacy-add-on-15-years/",
+          "author": "青小蛙",
+          "description": "著名的 Linux 发行版 Ubuntu 所在公司 Canonical 前几日宣布，通过 Legacy 附加组件将 Ubuntu LTS 版本的支持延长到 15 年。@Appinn 至此，就算是 2014 年发布的 Ubuntu 14.04 LTS 也将继续获得支持，还能再战 4 年。 核心内容 每",
+          "link": "https://www.appinn.com/ubuntu-legacy-add-on-15-years/",
+          "publishedOn": "2025-11-24T09:06:38.000Z",
+          "wordCount": 2605,
+          "title": "15 年不用重装系统！Ubuntu 给老用户送大礼：Ubuntu 14.04 LTS 能一直用到2029年",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-8-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/send-bitiful/",
+          "author": "青小蛙",
+          "description": "缤纷快传，这是一个免费临时文件传输服务，支持最大1GB，时效30分钟，最多下载2次，下载限速 5MB 的服务。最重要的是即开即用，无需注册。@Appinn 但是，但是 他们的页面很扯淡，看下图： 这是一个看起来可以在手机上用但实际不能在手机上用的网页，因为…看下图： 左边那个部分，拉不出",
+          "link": "https://www.appinn.com/send-bitiful/",
+          "publishedOn": "2025-11-24T06:27:48.000Z",
+          "wordCount": 2506,
+          "title": "缤纷快传 – 凑合能用！免费1GB临时文件分享，奶牛快传替代品",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-7-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/wuxiantaowa/",
           "author": "青小蛙",
           "description": "前情提要： 全世界都在说，这个菩萨 Cloudflare 到底是什么？ Cloudflare 不是挂了么，然后有一个有趣的网站：downdetector 也挂了： 这是一个检测其他网站是否挂了的网站，它的工作原理是用户来提交某个网站挂了，然后它统计下来，当达到一定的用户量时，那么就代表该网站真的挂了",
@@ -130,16 +150,6 @@
           "wordCount": 2695,
           "title": "MegaLLM – 175 刀免费额度，可以使用 Claude Code 和 Codex 等，支持主流模型，包括千问、DeepSeek、K2 等",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-1-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/xiaomi-miloco/",
-          "author": "青小蛙",
-          "description": "还记得钢铁侠托尼·史塔克的智能助手贾维斯吗？它能听懂托尼的每一句话，能思考、会观察，可以自主操控整座斯塔克大厦。不知道这是多少人曾经的梦想，青小蛙就一直想拥有一只贾维斯机器人。 这一切，可能有头绪了！ Xiaomi Miloco 是什么？ Xiaomi Miloco 是米家的智能家居未来探索方案 X",
-          "link": "https://www.appinn.com/xiaomi-miloco/",
-          "publishedOn": "2025-11-15T13:26:52.000Z",
-          "wordCount": 2905,
-          "title": "Xiaomi Miloco：小米发布「贾维斯」式大模型，用摄像头识别你看书还是健身，自动调节灯光音乐",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-1.jpg"
         }
       ]
     },
@@ -148,6 +158,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=389944",
+          "author": "Daniel Schwarz",
+          "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
+          "publishedOn": "2025-11-24T14:22:30.000Z",
+          "wordCount": 3339,
+          "title": "On Inheriting and Sharing Property Values",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/dashy-circles.png"
+        },
         {
           "id": "https://css-tricks.com/?p=390539",
           "author": "Geoff Graham",
@@ -177,16 +197,6 @@
           "wordCount": 4131,
           "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/css-trig-unit-circle-diagram.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390408",
-          "author": "Ryan Trimble",
-          "description": "The extremely new framework that caught lots of attention will continue as a personal project.\nQuiet UI Came and Went, Quiet as a Mouse originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quiet-ui-came-and-went-quiet-as-a-mouse/",
-          "publishedOn": "2025-11-14T15:32:50.000Z",
-          "wordCount": 1860,
-          "title": "Quiet UI Came and Went, Quiet as a Mouse",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/quiet-ui.png"
         }
       ]
     },
@@ -213,6 +223,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11900",
+          "author": "张 鑫旭",
+          "description": "details元素又新支持了一个CSS选择::details-content伪元素，可以匹配内容阴影DOM，我们可以利用这个伪元素进行区域背景设置，或者实现实用的展开收起的动画效果。",
+          "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/",
+          "publishedOn": "2025-11-24T07:51:04.000Z",
+          "wordCount": 1412,
+          "title": "巧用CSS ::details-content伪元素实现任意展开动画",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=11897",
           "author": "张 鑫旭",
           "description": "Web Components组件开发又新增特性，可以暴露组件内部的状态，通过CSS :state()伪类函数匹配，增强组件的样式定制能力，以实现更好的内部封装。",
@@ -229,6 +249,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=82880",
+          "author": null,
+          "description": "研究公司 Alinea Analytics 估计，Valve 在 2025 年的年收入在 160-170 亿美元之间。而 Valve 大约有 350 名员工，意味着每名员工产生约 5000 万美元的收入。Valve 是一家私营公司，它无需公开披露收入等数据。它的员工数据还是因为诉讼而泄露的。Valve 为员工提供了丰厚的薪酬，根据泄露的数据，它在员工工资上花了近 4.5 亿美元，平均每位员工逾 130 万美元。",
+          "link": "https://www.solidot.org/story?sid=82880",
+          "publishedOn": "2025-11-24T09:14:55.000Z",
+          "wordCount": 197,
+          "title": "Valve 年收入预计超过 160 亿美元，每名员工产生 5000 万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82879",
+          "author": null,
+          "description": "根据发表在《Mental Health Research》期刊上的一项研究，打扮成蝙蝠侠可能会在公共场合促进亲社会行为。意大利研究人员在米兰地铁展开了研究，观察了 138 次乘车。对照组由一名装扮成孕妇的女性与一位观察员组成，她们一起登上列车。实验组成员打扮成蝙蝠侠登上列车。结果显示，当蝙蝠侠出现时，乘客让座的概率显著高于对照组。值得注意的是，实验组中 44% 的让座者表示并没有看到蝙蝠侠。这表明意外事件能促进亲社会行为，这项发现对于在公共场合鼓励善意行为有重要意义。",
+          "link": "https://www.solidot.org/story?sid=82879",
+          "publishedOn": "2025-11-24T08:46:00.000Z",
+          "wordCount": 163,
+          "title": "蝙蝠侠会促进人的友善行为",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82878",
+          "author": null,
+          "description": "从 Git 3.0 起，默认分支名将是 main 而不是 master。关于 main 和 master 名字的争论可以追溯到 2020 年，而 GitHub 早在 2020 年 10 月 1 日将新建代码库的默认分支名改为 main。Git 3.0 预计会在 2026 年底左右发布，主要变化包括：默认哈希函数从 SHA-1 改为 SHA-256 以提高安全性；改变默认存储格式以更好支持 macOS 和 Windows 并提升性能；更正式的将 Rust 集成到 Git 自身构建流程中。",
+          "link": "https://www.solidot.org/story?sid=82878",
+          "publishedOn": "2025-11-24T07:36:03.000Z",
+          "wordCount": 218,
+          "title": "Git 3.0 将用 main 而不是 master 为默认分支名",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82877",
+          "author": null,
+          "description": "看不见的微塑料通过空气扩散到全球。早稻田大学环境化学教授 Hiroshi Okochi 称，最近的研究表明空气传播的塑料污染正以惊人速度扩散。空气传播的微塑料直径小于 2.5 微米。Okochi 团队在 2023 年发表的一项研究发现，富士山顶云层中的水每升含有 6.7 个微塑料颗粒。德国和瑞士的团队报告，他们在北极每升雪中发现了逾万个微塑料颗粒。这些微塑料可能是通过空气传播随雪沉积。尽管在人体各部位都发现微塑料，但目前尚不清楚空气中的塑料颗粒对健康的影响。1 微米或更小的通过空气传播的塑料颗粒被认为能到达肺泡。英国一项研究表明，在 13 名接受肺部手术的患者的肺组织样本中，有 11 份检测到了微塑料。其中肺下部的微塑料含量最高。人每天呼吸超过 2 万次，一生累计呼吸 6-7 亿次。Okochi 表示人类不可避免的会吸入空气中的微塑料，但因为看不见所以也丝毫不知。",
+          "link": "https://www.solidot.org/story?sid=82877",
+          "publishedOn": "2025-11-24T06:58:20.000Z",
+          "wordCount": 177,
+          "title": "看不见的微塑料通过空气扩散到全球",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82876",
+          "author": null,
+          "description": "马斯克（Elon Musk）旗下的社交媒体 X/Twitter 开始展示账号注册的地理位置，如果该账号使用了 VPN 隐藏 IP 它还会提示可能使用了 VPN。该功能在上线之后一度下线，之后又恢复上线。地理位置信息显示很多政治网红的账号其实都是在美国之外运营的。MAGA NATION 有逾 39.2 万粉丝，其运营地点位于东欧；Dark Maga 有逾 1.5 万粉丝，其运营地点位于泰国；MAGA Scope 有逾 5.1 万粉丝，其运营地点位于尼日利亚；America First 有逾 6.7 万粉丝，其运营地点位于孟加拉国。反 MAGA 账号 Ron Smith 有逾 5.2 万名粉丝，其运营地点位于肯尼亚；Republicans Against Trump 有逾 97 万粉丝，其运营地点位于奥地利，目前使用美国 IP 的 VPN 隐藏原 IP。",
+          "link": "https://www.solidot.org/story?sid=82876",
+          "publishedOn": "2025-11-24T06:26:48.000Z",
+          "wordCount": 211,
+          "title": "X 展示账号地理位置暴露众多 MAGA 账号在外国运营",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=82875",
           "author": null,
@@ -267,6 +337,16 @@
           "publishedOn": "2025-11-22T16:06:39.000Z",
           "wordCount": 190,
           "title": "密码学会因密钥丢失被迫重新选举",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82871",
+          "author": null,
+          "description": "三星内存芯片价格自 9 月以来飙升 60%。DRAM 价格上涨凸显了 AI 数据中心激增的需求给全球供应链带来的巨大压力。作为全球最大的内存芯片制造商，三星大幅提高了高密度服务器 DRAM 模块的合同价格。内存芯片价格上涨的影响预计会持续到 2026 年。三星 32 GB DDR5 内存条的合同价格从 9 月的约 149 美元上涨至 11 月的约 239 美元，两个月内涨幅超过 60%。其它容量内存条如 16GB 和 128GB 内存条，价格上涨了 40% 到 50%，而 64GB 和 96GB 内存条的涨幅超过 30%。此次价格飙升的主要催化剂是 AI 基础设施的爆炸式增长。三星及其竞争对手 SK 海力士和美光科技已将大部分产能转向为 AI 服务器供应内存芯片，减少了传统内存芯片的产能。由于库存不足且产能接近饱和，2026 年底前，内存芯片价格不太可能出现回调。",
+          "link": "https://www.solidot.org/story?sid=82871",
+          "publishedOn": "2025-11-22T14:54:53.000Z",
+          "wordCount": 203,
+          "title": "三星内存芯片价格飙升 60%",
           "imageUrl": null
         },
         {
@@ -827,66 +907,6 @@
           "publishedOn": "2025-11-15T16:37:01.000Z",
           "wordCount": 177,
           "title": "本世纪末全球气温可能上升 2.6C",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82814",
-          "author": null,
-          "description": "围绕体重或体形的自我贬低式对话，被称为“肥胖谈话”。这类对话通常被视为拉近距离的社交调和剂，在社交场合中较为常见。然而研究显示，这类对话或增加个体进食障碍风险。青春期是体重体形快速变化、自我意识快速发展的阶段，也是进食障碍高发期。为探讨家庭中“肥胖谈话”与青少年进食障碍之间的关联，中国科学院心理研究所研究团队在 1049 个初中生家庭中开展了调查研究。研究发现，有 67.1% 的家庭存在“肥胖谈话”现象，这类谈话与青少年进食障碍风险存在中高度相关，且与他们的身体不满意度及负性情绪呈中高度相关。同时，研究显示，家庭“肥胖谈话”直接与青少年进食障碍症状之间存在关联，还可能通过体像不满和负性情绪，间接地与进食障碍症状关联在一起。尤其在女生中，家庭“肥胖谈话”经由体像不满和进食障碍症状之间的关联更需关注。",
-          "link": "https://www.solidot.org/story?sid=82814",
-          "publishedOn": "2025-11-15T13:10:13.000Z",
-          "wordCount": 162,
-          "title": "研究发现中国家庭肥胖谈话与青少年进食障碍症状存在关联",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82813",
-          "author": null,
-          "description": "德国柏林的一家法院裁定，Google 滥用其市场支配地位，需要向德国比价平台 Idealo 赔偿 4.65 亿欧元。\n除 Idealo 外，另一家德国比价网站 Producto 也将获得 1.07 亿欧元的赔偿。裁决公布后，Idealo 表示会继续对 Google 采取法律行动，而 Google 则表示强烈反对将提起上诉。Google 称，该公司于 2017 年进行了调整，确保竞争对手的比价购物服务与自家的 Google Shopping 一样在搜索结果页面上有同等机会展示广告。",
-          "link": "https://www.solidot.org/story?sid=82813",
-          "publishedOn": "2025-11-15T13:02:44.000Z",
-          "wordCount": 204,
-          "title": "德国法院裁决 Google 需要向德国比价平台 Idealo 赔偿 4.65 亿欧元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82812",
-          "author": null,
-          "description": "2016 年 6 月 23 日英国举行脱离欧盟的全民公投，投票结果为脱离欧盟。之后英国开始启动脱欧程序，于 2020 年 1 月 31 日正式退出欧盟。这一事件被称为 Brexit。美国国家经济研究局(NBER)发表了一篇工作论文，讨论了英国脱欧的经济影响。研究人员利用脱欧近十年的数据估算，到 2025 年脱欧使得英国 GDP下降 6%-8%，且影响会随着时间的推移而逐渐累积。英国的投资减少了 12%-18%，就业减少了 3%-4%，生产率下降 3%-4%。这些负面影响是多种因素综合作用的结果，包括不确定性加剧、需求下降、管理时间被分散，以及漫长脱欧程序导致资源错配加剧。",
-          "link": "https://www.solidot.org/story?sid=82812",
-          "publishedOn": "2025-11-15T12:43:45.000Z",
-          "wordCount": 177,
-          "title": "英国脱欧的经济影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82811",
-          "author": null,
-          "description": "亚马逊宣布其卫星宽带项目的名字从 Project Kuiper 改名为 Amazon Leo，其中 Leo 代表 low Earth orbit（低地球轨道）。亚马逊已经向低地球轨道发射了逾 150 颗宽带卫星，最终将建立一个拥有逾 3200 颗卫星的宽带星座。亚马逊称，宽带卫星项目最初只有几位工程师和几张设计图，项目的灵感来自于位于外太阳系的柯伊伯带（Kuiper Belt）。亚马逊表示一旦 Amazon Leo 网络覆盖范围足够大容量足够高后将会推出卫星宽带服务。",
-          "link": "https://www.solidot.org/story?sid=82811",
-          "publishedOn": "2025-11-15T10:20:43.000Z",
-          "wordCount": 195,
-          "title": "亚马逊的卫星宽带项目从 Project Kuiper 改名为 Amazon Leo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82810",
-          "author": null,
-          "description": "根据 Madison and Wall 的数据，2025 年第三季度美国家庭付费电视普及率降至 50.2%，预计到 12 月将进一步降至 50% 甚至更低。而十五年前近九成美国家庭都订阅了付费有线电视服务。这一趋势促使各大媒体公司剥离有线电视资产。Comcast、Warner Bros.、Discovery 和  A&E 正寻求出售或剥离其有线电视业务。派拉蒙表示不会出售其有线电视频道，但也承认“每个季度都在加速下滑”。",
-          "link": "https://www.solidot.org/story?sid=82810",
-          "publishedOn": "2025-11-15T09:57:19.000Z",
-          "wordCount": 171,
-          "title": "订阅付费电视的美国家庭比例降至五成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82809",
-          "author": null,
-          "description": "根据发表在《Science Translational Medicine》期刊上的一项研究，常见病毒 Epstein-Barr 可能是狼疮的病因。狼疮是人体免疫系统错误攻击身体健康组织而导致的一种慢性自体免疫疾病。其症状轻重因人而异，有疗法但无治愈之法，其单一病因一直没有找到。Epstein-Barr 病毒一种非常常见的病毒，95% 的人在其一生中的某个时间会被感染，它主要通过唾液传播，比如接吻或共用饮料、食物、餐具或牙刷。感染后病毒会永久潜伏在体内，通常处于非活跃状态，一般不会有症状。论文共同作者、斯坦福大学的 William Robinson 博士表示绝大多数感染该病毒的人不会发展成狼疮，只有特定毒株的病毒才会引发自身免疫反应。研究主要针对 B 细胞——一种帮助抵抗感染的白细胞。研究人员发现，狼疮患者体内携带 Epstein-Barr 病毒的 B 细胞数量是正常人的 25 倍。研究人员发现，病毒会感染并重编程 B 细胞，使其产生攻击自身组织的抗核抗体（antinuclear antibodies），从而导致狼疮。",
-          "link": "https://www.solidot.org/story?sid=82809",
-          "publishedOn": "2025-11-15T09:42:18.000Z",
-          "wordCount": 182,
-          "title": "Epstein-Barr 病毒可能是狼疮的病因",
           "imageUrl": null
         }
       ]
