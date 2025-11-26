@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-11-25T03:12:40.743Z</updated>
+    <updated>2025-11-26T03:13:01.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软被带跑偏？Windows 11 记事本开始支持 Markdown 表格]]></title>
+        <id>https://www.appinn.com/windows11-notepad-markdown-tables/</id>
+        <link href="https://www.appinn.com/windows11-notepad-markdown-tables/"/>
+        <updated>2025-11-25T08:13:32.000Z</updated>
+        <summary type="html"><![CDATA[微软是不是被带跑偏了？此前Windows 11 记事本正式支持 Markdown，现在正式支持在记事本中使用 Markdown 表格了。 但是，我们需要在记事本中启用表格么？ Windows 11 记事本 11.2510.6.0 来自小熊猫的推荐： 在最新的 Windows 11 记事本 11.25]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSD 长期断电后会缓慢丢失数据]]></title>
+        <id>https://www.solidot.org/story?sid=82885</id>
+        <link href="https://www.solidot.org/story?sid=82885"/>
+        <updated>2025-11-25T07:08:44.000Z</updated>
+        <summary type="html"><![CDATA[固态硬盘（SSD）基本上取代了机械硬盘成为最流行的存储设备，SSD 速度更快，功耗更低。但如果你计划将 SSD 作为冷存储设备使用，将数据储存在 SSD 里面然后离线保存几年，那么你可能需要三思而行，因为 SSD 在长时间断电后会缓慢损失或丢失数据。最便宜的 QLC NAND SSD 能在完全断电的情况下安全保存数据约一年时间，而价格更贵的 TLC NAND SSD 能保存数据三年，MLC 和 SLC NAND SSD 在断电的情况下分别能保存数据 5 年和 10 年。绝大多数消费级 SSD 使用的是 TLC 或 QLC NAND，因此断电超过一年就可能面临数据丢失的风险。相比下，机械硬盘比 SSD 更适合长时间断电保存数据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软警告 Windows AI 功能可能会产生幻觉]]></title>
+        <id>https://www.solidot.org/story?sid=82884</id>
+        <link href="https://www.solidot.org/story?sid=82884"/>
+        <updated>2025-11-25T06:15:50.000Z</updated>
+        <summary type="html"><![CDATA[微软正在 Windows 11 中集成越来越多的 AI 功能，最新的测试版本 v26220.7262 加入了 Copilot Actions，但默认没有启用，需要管理员权限才能激活。对于这些基于大模型的 AI 功能，微软试图推卸掉自己的责任，它通过其支持文档警告，称 Copilot Actions 之类的 AI 功能会引入新的安全风险，如跨提示注入(cross-prompt injection 或 XPIA)——文档或 UI 元素中的恶意内容能覆盖 AI 指令，导致数据泄露或安装恶意程序等意外操作。它建议用户在了解安全风险的情况下启用 AI 功能。Copilot Actions 具有高访问权限，能对用户的 Documents、Downloads、Desktop、Pictures、Videos 和 Music 等文件夹进行读写操作。微软还表示 AI 也可能会产生幻觉，“产生意外之外的输出”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BuhoLaunchpad – 让 macOS 26 重新拥有启动台 Launchpad（剩余4小时，黑五永久限免）]]></title>
+        <id>https://www.appinn.com/buholaunchpad/</id>
+        <link href="https://www.appinn.com/buholaunchpad/"/>
+        <updated>2025-11-25T04:34:52.000Z</updated>
+        <summary type="html"><![CDATA[BuhoLaunchpad 目前正在黑五限免，但时间有点短，看运气吧 😂限免地址 👈 可以点的，没有 Mac 也能领（只需要邮箱） 发现有点晚，但还能领。 macOS Tahoe 26 取消了启动台 为何取消就不要问了，我也不知道。 macOS 的启动台，可以理解为一个快捷方式桌面，打开之后满屏幕都]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[On Inheriting and Sharing Property Values]]></title>
         <id>https://css-tricks.com/?p=389944</id>
@@ -15,6 +55,36 @@
 On Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[皮尤调查显示美国最流行的社媒仍然是 YouTube]]></title>
+        <id>https://www.solidot.org/story?sid=82883</id>
+        <link href="https://www.solidot.org/story?sid=82883"/>
+        <updated>2025-11-24T13:04:35.000Z</updated>
+        <summary type="html"><![CDATA[皮尤研究中心于 2 月 5 日至 6 月 18 日之间调查了 5022 名美国人的社媒使用情况。结果显示：YouTube 84%，Facebook 71%，Instagram 50%，TikTok 37%，WhatsApp 32%，Reddit 26%，Snapchat 25%，X.com（Twitter）21%，Threads 8%，Bluesky 4% 和 Truth Social 3%。YouTube 和 Facebook 仍然是美国占据主导地位的社交媒体，但其使用比例长期保持稳定，而年轻人更可能使用 YouTube，30-49 岁人群则更可能使用 Facebook（80%）。逾半数女性使用 Instagram (55%)，男性则只有 44%；男性更可能使用 X 和 Reddit，民主党人和倾向民主党的独立人士更可能使用 WhatsApp、Reddit、TikTok、Bluesky 和 ​​Threads。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[接吻行为可以追溯到 2100 万年前]]></title>
+        <id>https://www.solidot.org/story?sid=82882</id>
+        <link href="https://www.solidot.org/story?sid=82882"/>
+        <updated>2025-11-24T10:27:44.000Z</updated>
+        <summary type="html"><![CDATA[人、猴甚至北极熊都会接吻。研究人员将嘴对嘴的接吻行为追溯到 2100 万年前。接吻行为可能传播疾病，且似乎并不能直接提高生存或繁殖能力。虽然接吻对许多人类群体具有强烈的情感和文化意义，但其演化背景却很少被深入研究。在这项研究中，研究人员首次尝试跨物种追踪接吻的起源——利用灵长类动物间的演化关系进行分析。结果表明，接吻在大型类人猿中有很深的渊源，在 2150 万至 1690 万年前的祖先中就已出现。这种行为似乎在演化过程中持续存在，并且在该类群的大多数物种中仍可观察到。研究小组还得出结论，已经灭绝的人类近亲——尼安德特人可能也会接吻。这一结论得到了早期研究的支持，人类与尼安德特人曾交换口腔微生物（通过唾液转移）并进行杂交，这意味着接吻是他们互动的一部分。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达证实 Windows 十月更新导致游戏性能问题]]></title>
+        <id>https://www.solidot.org/story?sid=82881</id>
+        <link href="https://www.solidot.org/story?sid=82881"/>
+        <updated>2025-11-24T09:43:09.000Z</updated>
+        <summary type="html"><![CDATA[英伟达上周释出了 GeForce Hotfix Display Driver v581.94，称微软在十月份释出的 Windows 11 24H2 和 Windows 11 25H 更新导致游戏性能出现问题。存在问题的补丁是 KB5066835，安装之后部分游戏的性能可能会下降。除此之外，微软的十月份例行更新还被发现会破坏 localhost HTTP 连接，智能卡身份验证问题，以及 Windows Recovery Environment(WinRE)无法使用 USB 鼠标和键盘。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -838,36 +908,6 @@ The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2() originally 
         <link href="https://www.solidot.org/story?sid=82817"/>
         <updated>2025-11-17T03:44:59.000Z</updated>
         <summary type="html"><![CDATA[中国载人航天工程办公室通报，由于神舟二十号返回舱舷窗疑因空间碎片撞击出现微小裂缝，神舟二十号乘组选择搭乘神舟二十一号返回舱返回地面，而神舟二十二号飞船将择机发射。神舟二十号乘组原计划 11 月 5 日返回，推迟了 9 天于 11 月 14 日返回地面，神舟二十号的返回舱被留在轨道上。三名航天员陈冬、陈中瑞、王杰在轨驻留 204 天，刷新了中国航天员单个乘组在轨驻留时间最长纪录，期间完成了 4 次出舱活动和多次货物进出舱任务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA 宇航员的离异妻子承认撒谎]]></title>
-        <id>https://www.solidot.org/story?sid=82816</id>
-        <link href="https://www.solidot.org/story?sid=82816"/>
-        <updated>2025-11-16T12:41:40.000Z</updated>
-        <summary type="html"><![CDATA[2019 年 NASA 宇航员 Anne McClain 被控盗窃身份访问了离异妻子 Summer Worden 的银行账号，但在 2020 年 Worden 被控对联邦调查机构做出虚假陈述。现年 50 岁的 Worden 女士本周认罪，她目前保释中，将于 2 月 12 日接受判决，可能面临最高五年监禁。Worden 是前美国空军情报官，于 2014 年与 McClain 女士结婚，2018 年申请离婚，2019 年她投诉当时还在国际空间站的 McClain 盗取其身份从太空访问了银行账号。McClain 承认有此事但否认了任何犯罪行为。她通过律师称，访问银行账号只是为了确保家庭的财务状况良好，有足够的钱支付账单和照顾好 Worden 女士的儿子——为体外受精代孕，两人正争夺其抚养权。McClain 称，银行账号是两人公用的，一直使用相同的密码，她从未被告知停止使用该账号。McClain 于 2018 年 12 月至 2019 年 6 月期间在国际空间站执行任务，今年 3 月担任 SpaceX Crew-10 载人任务指挥官驻扎国际空间站至 8 月。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MegaLLM – 175 刀免费额度，可以使用 Claude Code 和 Codex 等，支持主流模型，包括千问、DeepSeek、K2 等]]></title>
-        <id>https://www.appinn.com/megallm/</id>
-        <link href="https://www.appinn.com/megallm/"/>
-        <updated>2025-11-16T10:51:37.000Z</updated>
-        <summary type="html"><![CDATA[MegaLLM 是一个 API 中转服务，支持主流模型 OpenAI、Anthropic、Google、Meta 等，以及包括国产千问、DeepSeek、GLM、K2 等。可以在 Claude Code、 Codex、OpenCode、Kilocode、RooCode,、Cline 上使用。@App]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本世纪末全球气温可能上升 2.6C]]></title>
-        <id>https://www.solidot.org/story?sid=82815</id>
-        <link href="https://www.solidot.org/story?sid=82815"/>
-        <updated>2025-11-15T16:37:01.000Z</updated>
-        <summary type="html"><![CDATA[根据 Climate Action Tracker 的最新报告，到本世纪末全球气温预计将比工业化前水平上升 2.6C。世界各国在减排上仍然做得不够多，而与此同时化石燃料排放量今年将增长约 1% 创历史新高，虽然其增长速度过去几年已下降逾 50%。过去十年煤炭、石油和天然气的排放量每年增长 0.8%，而前十年则为每年 2.0%。可再生能源的加速部署已接近满足全球能源需求的年增长，但尚未超过。新的分析还显示，地球的天然碳汇正在减弱。科学家表示，全球暖化和树木砍伐的双重影响使东南亚和南美洲大部分地区的热带森林从二氧化碳的吸收源转变为排放源。报告预测 2025 年大气中的二氧化碳浓度将达到 425ppm，而工业化前为 280ppm。如果碳汇没有减弱，二氧化碳浓度应能降低 8ppm。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
