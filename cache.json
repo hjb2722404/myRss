@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/shadypanda-8-year-campaign/",
+          "author": "青小蛙",
+          "description": "过去很长时间以来，我们都习惯了把注意力放在手机 App 权限、AI 隐私、大公司数据泄露等安全事件上，却常常忘了：每天打开浏览器时，那些静静躺在角落里的扩展，也可能是最危险的入口。 就在2025年12月1日，全球知名的网络安全媒体 BleepingComputer 发布了一篇文章《ShadyPand",
+          "link": "https://www.appinn.com/shadypanda-8-year-campaign/",
+          "publishedOn": "2025-12-03T11:54:41.000Z",
+          "wordCount": 3006,
+          "title": "潜伏 8 年，430万次安装！一批浏览器恶意扩展，终于被曝光",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-67.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/lets-encrypt-90-to-45/",
+          "author": "青小蛙",
+          "description": "作为全球最知名的免费证书服务商，Let’s Encrypt 昨天正式宣布：证书有效期缩短至 45 天。 从2026年开始，可选生成 45 天证书，2027年默认 64 天，2028年默认 45 天。@Appinn Let’s Encrypt 在2025年12月3日发布了一篇名为《Decreasing",
+          "link": "https://www.appinn.com/lets-encrypt-90-to-45/",
+          "publishedOn": "2025-12-03T08:18:49.000Z",
+          "wordCount": 2672,
+          "title": "该来的还真来了：Let’s Encrypt 宣布证书有效期缩短至 45 天",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-66.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/monument-valley-3/",
+          "author": "青小蛙",
+          "description": "《纪念碑谷3》是一款以设计巧妙、精美著称的续作解谜游戏，去年12月份的时候，由 Netflix 免费发布（需要用户订阅 Netflix）。现在，你可以直接在 App Store、Google Play 下载到这款游戏了，无需 Netflix。@Appinn 但注意，你可免费畅玩《纪念碑谷3》前两章，",
+          "link": "https://www.appinn.com/monument-valley-3/",
+          "publishedOn": "2025-12-03T06:11:48.000Z",
+          "wordCount": 2510,
+          "title": "《纪念碑谷3》摆脱 Netflix，正式独立发布。同时上线扩展篇章：生命花园",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-65.jpg"
+        },
+        {
           "id": "https://www.appinn.com/what-the-hell-have-you-built/",
           "author": "青小蛙",
           "description": "你有没有过这种迷之自信：“我要写一个 APP/网站 了！来，先选架构！再挑服务器！微服务？容器？集群？一条龙走起！” 然后转头一看：全站总用户12个，其中6个还是你本人。 你到底建了些什么玩意儿？ 有人建了这个网站（What the hell have you built），纯嘲笑这件事，它把现实摊",
@@ -160,26 +190,6 @@
           "wordCount": 2570,
           "title": "BuhoLaunchpad – 让 macOS 26 重新拥有启动台 Launchpad（剩余4小时，黑五永久限免）",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-51.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/ubuntu-legacy-add-on-15-years/",
-          "author": "青小蛙",
-          "description": "著名的 Linux 发行版 Ubuntu 所在公司 Canonical 前几日宣布，通过 Legacy 附加组件将 Ubuntu LTS 版本的支持延长到 15 年。@Appinn 至此，就算是 2014 年发布的 Ubuntu 14.04 LTS 也将继续获得支持，还能再战 4 年。 核心内容 每",
-          "link": "https://www.appinn.com/ubuntu-legacy-add-on-15-years/",
-          "publishedOn": "2025-11-24T09:06:38.000Z",
-          "wordCount": 2605,
-          "title": "15 年不用重装系统！Ubuntu 给老用户送大礼：Ubuntu 14.04 LTS 能一直用到2029年",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-8-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/send-bitiful/",
-          "author": "青小蛙",
-          "description": "缤纷快传，这是一个免费临时文件传输服务，支持最大1GB，时效30分钟，最多下载2次，下载限速 5MB 的服务。最重要的是即开即用，无需注册。@Appinn 但是，但是 他们的页面很扯淡，看下图： 这是一个看起来可以在手机上用但实际不能在手机上用的网页，因为…看下图： 左边那个部分，拉不出",
-          "link": "https://www.appinn.com/send-bitiful/",
-          "publishedOn": "2025-11-24T06:27:48.000Z",
-          "wordCount": 2506,
-          "title": "缤纷快传 – 凑合能用！免费1GB临时文件分享，奶牛快传替代品",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/11/Copy-of-appinn-homework-7-1.jpg"
         }
       ]
     },
@@ -207,16 +217,6 @@
           "wordCount": 1828,
           "title": "Prevent a page from scrolling while a dialog is open",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/10/dialog-pop.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=389944",
-          "author": "Daniel Schwarz",
-          "description": "There are many ways to share properties, but what would it look like to inherit and use any parent property value on a child?\nOn Inheriting and Sharing Property Values originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/on-inheriting-and-sharing-property-values/",
-          "publishedOn": "2025-11-24T14:22:30.000Z",
-          "wordCount": 3339,
-          "title": "On Inheriting and Sharing Property Values",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/dashy-circles.png"
         }
       ]
     },
@@ -251,16 +251,6 @@
           "wordCount": 1587,
           "title": "醒醒，该使用CookieStore新建和管理cookie了",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11900",
-          "author": "张 鑫旭",
-          "description": "details元素又新支持了一个CSS选择::details-content伪元素，可以匹配内容阴影DOM，我们可以利用这个伪元素进行区域背景设置，或者实现实用的展开收起的动画效果。",
-          "link": "https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/",
-          "publishedOn": "2025-11-24T07:51:04.000Z",
-          "wordCount": 1412,
-          "title": "巧用CSS ::details-content伪元素实现任意展开动画",
-          "imageUrl": null
         }
       ]
     },
@@ -269,6 +259,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=82960",
+          "author": null,
+          "description": "科学家发现了一种微小的单细胞变形虫，它可在 63°C 下生长，创下真核生物的耐热纪录。“复杂生命”通常指细胞内含有细胞核和内部结构的生物。该变形虫能在足以杀死所有其他已知复杂生命体的高温下茁壮成长，这挑战了以往的观点，即包括所有动植物在内的“真核生物”无法适应细菌等无核生物所能耐受的极端环境。研究人员在美国加州北部喀斯喀特山脉拉森火山国家公园发现该生物，将其命名为 Incendiamoeba cascadensis，意为“来自喀斯喀特的火变形虫”。I.cascadensis 在 63°C 时仍能分裂繁殖，在 64°C 下依然能够活动。即使在高达 70°C 的环境中，这些细胞也能形成休眠的“包囊”，并在温度降低后重新被激活。相比之下，一些最耐热的细菌和古菌能承受高得多的温度：古菌 Methanopyrus kandleri 保持着目前已知生命形式的最高耐热纪录——122°C。而此前真核生物的耐热纪录由几种真菌和红藻保持；人类及其他哺乳动物细胞的耐热上限则大约只有 43°C。",
+          "link": "https://www.solidot.org/story?sid=82960",
+          "publishedOn": "2025-12-03T15:57:54.000Z",
+          "wordCount": 182,
+          "title": "单细胞变形虫能在 63°C 下生长",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82959",
+          "author": null,
+          "description": "Zig 软件基金会总裁兼首席开发者 Andrew Kelly 宣布项目将从 GitHub 迁移到 Codeberg，理由是微软对 AI 的迷恋正在毁掉 GitHub。他给出的一个例子是 GitHub Actions 的一个严重 bug 在 2022 年 2 月引入直到 2025 年 8 月才解决，该 bug 会导致死循环，导致进程一直运行其它任务无法执行。Andrew Kelly 认为  GitHub 不再致力于提供卓越的服务，用前 CEO 在离职前的“名言”——要么拥抱 AI 要么走——他们选择沉迷于 AI。Zig 不是唯一一个选择离开的项目，Dillo 浏览器项目也决定离开。与此同时，Codeberg 的支持会员数从 1 月的 600 人增加到了 1200 多人。",
+          "link": "https://www.solidot.org/story?sid=82959",
+          "publishedOn": "2025-12-03T14:50:23.000Z",
+          "wordCount": 216,
+          "title": "Zig 从 GitHub 迁移到 Codeberg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82958",
+          "author": null,
+          "description": "在引发公众强烈抗议后，印度政府撤回了要求智能手机制造商在新手机上预装网络安全应用 Sanchar Saathi 的命令。这一命令于上个月底传达给智能手机制造商，本周一公开。该命令遭到了厂商的抵制和安全专家的强烈反对。印度电信部长 Jyotiraditya Scindia 否认该应用是为了加强监控。印度电信部称，迄今已有 1400 万用户下载了该应用，每天报告 2000 起诈骗案件。仅周二一天就有 60 万新用户注册——十倍增长。",
+          "link": "https://www.solidot.org/story?sid=82958",
+          "publishedOn": "2025-12-03T12:55:24.000Z",
+          "wordCount": 169,
+          "title": "印度政府撤回了在手机预装政府网络安全应用的命令",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82957",
+          "author": null,
+          "description": "在英特尔之后，特朗普政府再次以注资方式获得企业股份，这次是英特尔前 CEO Pat Gelsinger 创办的 xLight。xLight 致力于改进极紫外光刻（EUV）工艺使用的激光器，希望在荷兰 ASML 的光刻机中集成它的改良激光器。去年因为英特尔业绩不佳而被董事会解雇的 Pat Gelsinger 担任 xLight 的执行董事长。特朗普政府将向 xLight 注资 1.5 亿美元，预计将成为 xLight 的最大股东。这笔资金来自于拜登政府在 2022 年通过的芯片法案《Chips and Science Act》。英特尔获得的政府资金原本也是来自于芯片法案。",
+          "link": "https://www.solidot.org/story?sid=82957",
+          "publishedOn": "2025-12-03T12:27:30.000Z",
+          "wordCount": 181,
+          "title": "特朗普政府再次以投资方式获得企业股份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82956",
+          "author": null,
+          "description": "《绝地潜兵 2（HELLDIVERS 2）》开发商 Arrowhead Game Studios 释出最新更新，将 PC 版本的游戏容量从 154GB 减少到 23GB，瘦身高达 85%。Arrowhead 此前曾在官方博客上解释了为什么 PC 版本的容量如此之大，原因是 PC 版本包含了大量重复数据，旨在加快机械硬盘上游戏的加载速度，而游戏机使用的是固态硬盘，因此主机版本的容量没有这么大。今天绝大部分 PC 使用的硬盘已从机械硬盘过渡到固态硬盘，Arrowhead 估计只有 12% 的《绝地潜兵 2》玩家仍然使用机械硬盘。",
+          "link": "https://www.solidot.org/story?sid=82956",
+          "publishedOn": "2025-12-03T10:24:47.000Z",
+          "wordCount": 197,
+          "title": "《绝地潜兵 2》将游戏容量从 154GB 减少到 23GB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82955",
+          "author": null,
+          "description": "安全公司 Koi Security 披露了被称为 ShadyPanda 的攻击者利用浏览器扩展感染了 430 万 Chrome 和 Edge 用户。攻击者采取了长线方案，首先通过合法应用吸引积累用户群，然后通过后续更新植入恶意代码。攻击者的活动分为多个阶段，第一阶段是在扩展中嵌入联盟营销追踪代码，拦截电商平台购物链接嵌入自己的联盟营销代码获取佣金；第二阶段是劫持搜索和窃取 cookie；第三阶段植入远程访问后门变成间谍软件窃取敏感浏览器数据。\n受影响的扩展包括了 Clean Master、以及 Infinity 和 WeTab 等。WeTab 开发商随后发表声明，称 Clean Master 扩展已被该公司出售，与 WeTab 和 Infinity 已经没有关联，而 WeTab 和 Infinity 并没有恶意代码，",
+          "link": "https://www.solidot.org/story?sid=82955",
+          "publishedOn": "2025-12-03T09:50:12.000Z",
+          "wordCount": 201,
+          "title": "ShadyPanda 利用浏览器扩展感染逾 400 万用户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82954",
+          "author": null,
+          "description": "Google DeepMind 在 2020 年 11 月宣布了它的 AI 工具 AlphaFold2，2021 年发布了 AlphaFold2 代码和数据库。问世五年来，AlphaFold2 不仅改变了结构生物学的研究方式，也推动了计算生物学的进步。不过将其生物学洞见转化为药物开发等实际应用仍需时间。AlphaFold 数据库目前已收录超过 2.4 亿个结构预测，覆盖绝大多数已知蛋白质，为全球 100 多个国家的 330 万名研究者提供支持。如今科学家已利用 AlphaFold2 设计应对抗生素耐药性的方案、寻找疟疾等疾病的新疗法，并深入理解疾病机制、加速靶向药物开发。",
+          "link": "https://www.solidot.org/story?sid=82954",
+          "publishedOn": "2025-12-03T08:37:23.000Z",
+          "wordCount": 185,
+          "title": "AlphaFold 如何改变世界",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82953",
+          "author": null,
+          "description": "日本游戏公司面临切换商业字体的难题，因为原来提供低价商业字体服务的 Fontworks LETS 在被美资  Monotype 收购之后价格上涨逾 50 倍。Fontworks 以前的年费为 6 万日元（约 380 美元），现在 Monotype 的方案是年费为 2.05 万美元，而且还限制安装量最高为 2.5 万。对大部分商业游戏而言这是完全不切实际的限制。英语游戏可使用系统自带的 UI 字体、廉价的商业字体或开源字体，但日语字符数量庞大，制作高质量字体极其困难且成本高昂，变更日语字体的工作量将会非常大。已有游戏开始改用 DynaFont 的商业字体。",
+          "link": "https://www.solidot.org/story?sid=82953",
+          "publishedOn": "2025-12-03T07:20:40.000Z",
+          "wordCount": 187,
+          "title": "日本商业字体公司被收购之后价格上涨逾 50 倍",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82952",
+          "author": null,
+          "description": "一辆 Waymo 无人驾驶出租车在旧金山碾过了一只未拴绳的狗，而几周前该公司的另一辆无人驾驶出租车撞死了一只备受邻居喜爱的猫。目前不清楚狗的状况。事故发生在 Scott 和 Eddy 街的交叉路口附近。一名自称是乘客的 Reddit 用户发帖称其孩子目睹了整个过程，表示当时他们一家参加完一场圣诞树点灯仪式后回家。美国国家公路交通安全管理局的记录显示，自 2021 年以来 Waymo 无人驾驶出租车至少卷入了 14 起动物碰撞事故。Waymo 发言人对此事表达了遗憾，表示会吸取教训，同时强调该公司的事故伤亡率远低于人类司机。人类司机每年都会在驾车过程中撞到数百万只动物。",
+          "link": "https://www.solidot.org/story?sid=82952",
+          "publishedOn": "2025-12-03T06:59:50.000Z",
+          "wordCount": 176,
+          "title": "Waymo 无人驾驶出租车在杀猫之后又撞狗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82951",
+          "author": null,
+          "description": "美国威斯康星州议员以保护儿童的名义起草了 AB 105/SB 130 法案，要求提供性相关内容的网站验证访客年龄同时屏蔽 VPN 访问。法案寻求大幅扩大对未成年人有害材料的定义，试图将人体解剖、性行为和生殖等方面的描述和讨论囊括在内。保守派们显著扩大了内容审查的范围。该法案已经在州众议院获得通过，目前正在参议院进行讨论。如果该法案成为法律，威斯康星州将成为美国第一个禁止 VPN 访问特定内容的州。",
+          "link": "https://www.solidot.org/story?sid=82951",
+          "publishedOn": "2025-12-03T06:42:46.000Z",
+          "wordCount": 169,
+          "title": "美国威斯康星州要求包含性内容的网站验证访客年龄和屏蔽 VPN",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=82950",
+          "author": null,
+          "description": "蓝箭航天本周三执行了朱雀三号遥一运载火箭的首飞任务，火箭成功入轨，但第一级回收失败，根据视频推测是某台发动机爆炸了，蓝箭尚未就此发表新闻稿。朱雀三号一二级箭体直径 4.5 米，整流罩直径 5.2 米，全箭长 66.1 米，起飞质量约 570 吨，起飞推力超过 750 吨，采用不锈钢作为箭体主结构材料，一子级配备九台天鹊-12A液氧甲烷发动机，设计可在执行轨道发射任务后自主高精度返回，在回收场实现软着陆并重复使用。火箭如果是一次性使用其有效载荷为 11,800 公斤，如果尝试回收第一级则有效载荷为 8,000 公斤。相比下 SpaceX 的 Falcon 9 能将 22,800 公斤负荷发射到低地球轨道。",
+          "link": "https://www.solidot.org/story?sid=82950",
+          "publishedOn": "2025-12-03T06:08:54.000Z",
+          "wordCount": 178,
+          "title": "朱雀三号可重复使用火箭回收失败",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=82949",
           "author": null,
@@ -907,86 +1007,6 @@
           "publishedOn": "2025-11-25T06:15:50.000Z",
           "wordCount": 203,
           "title": "微软警告 Windows AI 功能可能会产生幻觉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82883",
-          "author": null,
-          "description": "皮尤研究中心于 2 月 5 日至 6 月 18 日之间调查了 5022 名美国人的社媒使用情况。结果显示：YouTube 84%，Facebook 71%，Instagram 50%，TikTok 37%，WhatsApp 32%，Reddit 26%，Snapchat 25%，X.com（Twitter）21%，Threads 8%，Bluesky 4% 和 Truth Social 3%。YouTube 和 Facebook 仍然是美国占据主导地位的社交媒体，但其使用比例长期保持稳定，而年轻人更可能使用 YouTube，30-49 岁人群则更可能使用 Facebook（80%）。逾半数女性使用 Instagram (55%)，男性则只有 44%；男性更可能使用 X 和 Reddit，民主党人和倾向民主党的独立人士更可能使用 WhatsApp、Reddit、TikTok、Bluesky 和 ​​Threads。",
-          "link": "https://www.solidot.org/story?sid=82883",
-          "publishedOn": "2025-11-24T13:04:35.000Z",
-          "wordCount": 199,
-          "title": "皮尤调查显示美国最流行的社媒仍然是 YouTube",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82882",
-          "author": null,
-          "description": "人、猴甚至北极熊都会接吻。研究人员将嘴对嘴的接吻行为追溯到 2100 万年前。接吻行为可能传播疾病，且似乎并不能直接提高生存或繁殖能力。虽然接吻对许多人类群体具有强烈的情感和文化意义，但其演化背景却很少被深入研究。在这项研究中，研究人员首次尝试跨物种追踪接吻的起源——利用灵长类动物间的演化关系进行分析。结果表明，接吻在大型类人猿中有很深的渊源，在 2150 万至 1690 万年前的祖先中就已出现。这种行为似乎在演化过程中持续存在，并且在该类群的大多数物种中仍可观察到。研究小组还得出结论，已经灭绝的人类近亲——尼安德特人可能也会接吻。这一结论得到了早期研究的支持，人类与尼安德特人曾交换口腔微生物（通过唾液转移）并进行杂交，这意味着接吻是他们互动的一部分。",
-          "link": "https://www.solidot.org/story?sid=82882",
-          "publishedOn": "2025-11-24T10:27:44.000Z",
-          "wordCount": 173,
-          "title": "接吻行为可以追溯到 2100 万年前",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82881",
-          "author": null,
-          "description": "英伟达上周释出了 GeForce Hotfix Display Driver v581.94，称微软在十月份释出的 Windows 11 24H2 和 Windows 11 25H 更新导致游戏性能出现问题。存在问题的补丁是 KB5066835，安装之后部分游戏的性能可能会下降。除此之外，微软的十月份例行更新还被发现会破坏 localhost HTTP 连接，智能卡身份验证问题，以及 Windows Recovery Environment(WinRE)无法使用 USB 鼠标和键盘。",
-          "link": "https://www.solidot.org/story?sid=82881",
-          "publishedOn": "2025-11-24T09:43:09.000Z",
-          "wordCount": 188,
-          "title": "英伟达证实 Windows 十月更新导致游戏性能问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82880",
-          "author": null,
-          "description": "研究公司 Alinea Analytics 估计，Valve 在 2025 年的年收入在 160-170 亿美元之间。而 Valve 大约有 350 名员工，意味着每名员工产生约 5000 万美元的收入。Valve 是一家私营公司，它无需公开披露收入等数据。它的员工数据还是因为诉讼而泄露的。Valve 为员工提供了丰厚的薪酬，根据泄露的数据，它在员工工资上花了近 4.5 亿美元，平均每位员工逾 130 万美元。",
-          "link": "https://www.solidot.org/story?sid=82880",
-          "publishedOn": "2025-11-24T09:14:55.000Z",
-          "wordCount": 197,
-          "title": "Valve 年收入预计超过 160 亿美元，每名员工产生 5000 万美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82879",
-          "author": null,
-          "description": "根据发表在《Mental Health Research》期刊上的一项研究，打扮成蝙蝠侠可能会在公共场合促进亲社会行为。意大利研究人员在米兰地铁展开了研究，观察了 138 次乘车。对照组由一名装扮成孕妇的女性与一位观察员组成，她们一起登上列车。实验组成员打扮成蝙蝠侠登上列车。结果显示，当蝙蝠侠出现时，乘客让座的概率显著高于对照组。值得注意的是，实验组中 44% 的让座者表示并没有看到蝙蝠侠。这表明意外事件能促进亲社会行为，这项发现对于在公共场合鼓励善意行为有重要意义。",
-          "link": "https://www.solidot.org/story?sid=82879",
-          "publishedOn": "2025-11-24T08:46:00.000Z",
-          "wordCount": 163,
-          "title": "蝙蝠侠会促进人的友善行为",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82878",
-          "author": null,
-          "description": "从 Git 3.0 起，默认分支名将是 main 而不是 master。关于 main 和 master 名字的争论可以追溯到 2020 年，而 GitHub 早在 2020 年 10 月 1 日将新建代码库的默认分支名改为 main。Git 3.0 预计会在 2026 年底左右发布，主要变化包括：默认哈希函数从 SHA-1 改为 SHA-256 以提高安全性；改变默认存储格式以更好支持 macOS 和 Windows 并提升性能；更正式的将 Rust 集成到 Git 自身构建流程中。",
-          "link": "https://www.solidot.org/story?sid=82878",
-          "publishedOn": "2025-11-24T07:36:03.000Z",
-          "wordCount": 218,
-          "title": "Git 3.0 将用 main 而不是 master 为默认分支名",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82877",
-          "author": null,
-          "description": "看不见的微塑料通过空气扩散到全球。早稻田大学环境化学教授 Hiroshi Okochi 称，最近的研究表明空气传播的塑料污染正以惊人速度扩散。空气传播的微塑料直径小于 2.5 微米。Okochi 团队在 2023 年发表的一项研究发现，富士山顶云层中的水每升含有 6.7 个微塑料颗粒。德国和瑞士的团队报告，他们在北极每升雪中发现了逾万个微塑料颗粒。这些微塑料可能是通过空气传播随雪沉积。尽管在人体各部位都发现微塑料，但目前尚不清楚空气中的塑料颗粒对健康的影响。1 微米或更小的通过空气传播的塑料颗粒被认为能到达肺泡。英国一项研究表明，在 13 名接受肺部手术的患者的肺组织样本中，有 11 份检测到了微塑料。其中肺下部的微塑料含量最高。人每天呼吸超过 2 万次，一生累计呼吸 6-7 亿次。Okochi 表示人类不可避免的会吸入空气中的微塑料，但因为看不见所以也丝毫不知。",
-          "link": "https://www.solidot.org/story?sid=82877",
-          "publishedOn": "2025-11-24T06:58:20.000Z",
-          "wordCount": 177,
-          "title": "看不见的微塑料通过空气扩散到全球",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82876",
-          "author": null,
-          "description": "马斯克（Elon Musk）旗下的社交媒体 X/Twitter 开始展示账号注册的地理位置，如果该账号使用了 VPN 隐藏 IP 它还会提示可能使用了 VPN。该功能在上线之后一度下线，之后又恢复上线。地理位置信息显示很多政治网红的账号其实都是在美国之外运营的。MAGA NATION 有逾 39.2 万粉丝，其运营地点位于东欧；Dark Maga 有逾 1.5 万粉丝，其运营地点位于泰国；MAGA Scope 有逾 5.1 万粉丝，其运营地点位于尼日利亚；America First 有逾 6.7 万粉丝，其运营地点位于孟加拉国。反 MAGA 账号 Ron Smith 有逾 5.2 万名粉丝，其运营地点位于肯尼亚；Republicans Against Trump 有逾 97 万粉丝，其运营地点位于奥地利，目前使用美国 IP 的 VPN 隐藏原 IP。",
-          "link": "https://www.solidot.org/story?sid=82876",
-          "publishedOn": "2025-11-24T06:26:48.000Z",
-          "wordCount": 211,
-          "title": "X 展示账号地理位置暴露众多 MAGA 账号在外国运营",
           "imageUrl": null
         }
       ]
