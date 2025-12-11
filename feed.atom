@@ -2,10 +2,161 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-12-10T03:20:53.821Z</updated>
+    <updated>2025-12-11T03:22:34.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Notepad++ 遭流量劫持，更新程序被植入恶意程序]]></title>
+        <id>https://www.solidot.org/story?sid=83021</id>
+        <link href="https://www.solidot.org/story?sid=83021"/>
+        <updated>2025-12-10T16:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Notepad++ 发布安全警告，它遭遇了流量劫持，部分地区的更新程序被植入恶意程序。调查发现，Notepad++ 更新程序 WinGUp 的流量被劫持到恶意服务器，下载恶意可执行文件。更新程序使用版本检查功能查询 URL“https://notepad-plus-plus.org/update/getDownloadUrl.php”并评估返回的 XML 文件。更新程序使用 XML 文件中列出的 Download-URL，将文件保存到 %TEMP% 文件夹并执行。任何能拦截和篡改此流量的攻击者都可以更改 Download-URL。Notepad++ v8.8.7 前它使用了自签名证书，允许攻击者创建篡改后的更新并将其推送给受害者。从 v8.8.7 开始 Notepad++ 使用了来自 GlobalSign 签发的合法证书进行签名。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoFundMe 报告称有更多的人在 2025 年众筹生活必需品]]></title>
+        <id>https://www.solidot.org/story?sid=83020</id>
+        <link href="https://www.solidot.org/story?sid=83020"/>
+        <updated>2025-12-10T15:59:45.000Z</updated>
+        <summary type="html"><![CDATA[众筹平台 GoFundMe 发表年度报告《Year in Help》，称有更多的人在 2025 年众筹房租和食品等生活必需品。报告称房租、水电费和食品杂货等基本开支的筹款活动数量增长了 20%，“每月账单（Monthly bills）”是增长速度第二快的众筹类别，仅次于对非营利组织的捐助。生活必需品众筹增长的英语国家包括了美国、加拿大、英国和澳大利亚。GoFundMe CEO Tim Cadogan 称，在美国政府停摆期间，随着每月福利 SNAP 的中断，食品相关的众筹活动增加了近六倍。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技巨头是新苏维埃]]></title>
+        <id>https://www.solidot.org/story?sid=83019</id>
+        <link href="https://www.solidot.org/story?sid=83019"/>
+        <updated>2025-12-10T15:42:53.000Z</updated>
+        <summary type="html"><![CDATA[希腊前财长、经济学家 Yanis Varoufakis 认为今天的科技巨头是新时代的苏维埃，推行基于算法的计划经济。Palantir 联合创始人 Peter Thiel 宣称失败者才要竞争。他的意思是赢家不仅仅是通过消灭竞争对手去垄断市，它们还会不断扩张直至摧毁市场本身，复活苏联的国家计划经济。苏联的国家计划经济之所以失败，是因为它缺乏科技巨头最强大的武器：云资本——以算法、数据中心和光纤构成的集成网络。一位年长的托洛茨基主义者认为苏联以社会主义的名义创造了一种工业封建主义，而今天的科技巨头以资本主义和自由市场的名义创造了一种科技封建主义。随着科技巨头的云资本不断积累并集中到越来越少的人手中，各国政府愈来愈依赖科技巨头。通过在租用的云基础设施上构建核心功能，各国政府实际上是从亚马逊 AWS、微软和 Google 等公司回租其运作能力。这种依赖催生了一种科技封建权力维度。云资本用源自苏联时代的计划工具取代了市场，在此过程中它杀死了资本主义。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Scroll-Based Animations in Full view()]]></title>
+        <id>https://css-tricks.com/?p=390516</id>
+        <link href="https://css-tricks.com/creating-scroll-based-animations-in-full-view/"/>
+        <updated>2025-12-10T15:04:08.000Z</updated>
+        <summary type="html"><![CDATA[It’s not that hard to do! Preethi shows you how it's really the same old animation you’re used to writing in CSS, only applied on a view timeline instead of a normal timeline.
+Creating Scroll-Based Animations in Full view() originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Preethi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国国务院恢复 Times New Roman 字体]]></title>
+        <id>https://www.solidot.org/story?sid=83018</id>
+        <link href="https://www.solidot.org/story?sid=83018"/>
+        <updated>2025-12-10T13:35:03.000Z</updated>
+        <summary type="html"><![CDATA[2023 年，拜登的国务卿布林肯（Antony Blinken）通知所有大使馆淘汰 Times New Roman 字体改用 Calibri 字体。Times New Roman 是诞生于 1930 年代的衬线字体，而 Calibri 是诞生于 2004 年的无衬线字体。改变字体不是出于美学而是出于可访问性的考虑，因为无衬线字体更容易阅读，尤其是在屏幕上。它对于使用光学字符识别和文本语音工具的人也更方便。在现任总统特朗普治下，美国很多政策在后退，最新的倒退就是恢复 Times New Roman 字体。特朗普的国务卿卢比奥（Marco Rubio）通知大使馆弃用 Calibri 字体，声称此举是浪费资源的 DEIA（代表多元化、公平和包容性），而恢复使用 Times New Roman 字体有助于恢复国务院书面工作的得体性和专业性。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韦伯发现至今最遥远的超新星]]></title>
+        <id>https://www.solidot.org/story?sid=83017</id>
+        <link href="https://www.solidot.org/story?sid=83017"/>
+        <updated>2025-12-10T13:14:30.000Z</updated>
+        <summary type="html"><![CDATA[天文学家利用韦伯望远镜追踪今年 3 月由多项望远镜侦测到的伽玛射线暴 GRB 250314A，确认它就是一颗在宇宙诞生后约 7.3 亿年爆炸的超新星所发出的伽玛射线暴，这是目前天文学家成功观测到、爆炸时间最早的超新星事件，将超新星观测年代推前至宇宙 7.3 亿年时，超越先前约 18 亿年的纪录。韦伯的近红外影像让研究团队不但辨认出这颗大质量恒星崩塌后爆炸的余辉，还首次观测到那个极为遥远、在影像中仅呈现微弱红色斑点的宿主星系。这项成果显示，我们已能藉由伽玛射线暴与超新星的余辉，一颗一颗找出宇宙仅有现今约百分之五年龄时就已形成的恒星与星系，为探索早期宇宙开启崭新视野。相比现代超新星，这颗遥远超新星的光学与红外特性都十分相似，令天文学家颇为意外。一般预期宇宙前十亿年的恒星金属量更低、质量更大、寿命更短，且处在宇宙仍相当不透明的再游离时期，因此爆炸型态或光谱应可能有所不同；然而至少在这个案例中，早期宇宙的超新星与今日恒星系统中观测到的十分接近。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[罕见病有了治疗方法]]></title>
+        <id>https://www.solidot.org/story?sid=83016</id>
+        <link href="https://www.solidot.org/story?sid=83016"/>
+        <updated>2025-12-10T13:07:34.000Z</updated>
+        <summary type="html"><![CDATA[十年前发现的 CRISPR 基因编辑技术开始逐渐应用于治疗疾病。2023 年科学家将 CRISPR 用于治疗镰状细胞贫血症。全球大约有 800 万镰状细胞贫血症患者，他们大多携带相同的基因突变。但罕见病的治疗与镰状细胞贫血症不同，它们需要面对不同的基因突变，没有企业会为只有 50 个人携带相同的突变而去研究疗法。但 CRISPR 正逐渐改变这一状况。如果一类或几类罕见病可以使用一个 CRISPR 平台，然后微调模块为每位患者定制疗法，那么罕见病将能更快更经济的治疗。一位名叫 KJ Muldoon 的婴儿患有罕见的遗传病尿素循环障碍，患者通常只有五成几率活过婴儿期。今年二月，六个月大的 Muldoon 接受了 CRISPR 定制疗法治疗去修复特定的基因突变，如今他已是健康的一岁男孩。他的治疗证明定制基因编辑疗法是有效的，可以相对快速安全地投入使用。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Encrypt 的十年]]></title>
+        <id>https://www.solidot.org/story?sid=83015</id>
+        <link href="https://www.solidot.org/story?sid=83015"/>
+        <updated>2025-12-10T11:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Let's Encrypt 项目回顾了过去的十年。该项目旨在让每一个网站都启用 HTTPS 加密，它颁发的免费证书用于加密设备与互联网之间的连接，确保无人能拦截及窃取传输数据。目前全球有数以百万计的网站依赖 Let’s Encrypt 作为安全保障。Let’s Encrypt 如今已是全球最大的证书签发 CA 机构。它于 2014 年 11 月宣布成立，2015 年 9 月 14 日签发了首张证书；2016 年 3 月签发了第一百万张证书；2017 年 6 月签发了第一亿张证书；2020 年 2 月签发了第十亿张证书。2018 年 9 月实现单日签发一百万张证书，2025 年 9 月实现单日签发一千万张证书。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 语言在 Linux 内核不再是实验性的]]></title>
+        <id>https://www.solidot.org/story?sid=83014</id>
+        <link href="https://www.solidot.org/story?sid=83014"/>
+        <updated>2025-12-10T09:02:14.000Z</updated>
+        <summary type="html"><![CDATA[Linux 内核年度维护者峰会讨论了 Rust 语言实验性相关的主题，与会者一致认为，Rust 不再是实验性的，它现在是内核的核心组成部分，将会长期存在。因此 Rust 的实验性标签将会被移除。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果在 AI 上进展缓慢在市场变动下成为优势]]></title>
+        <id>https://www.solidot.org/story?sid=83013</id>
+        <link href="https://www.solidot.org/story?sid=83013"/>
+        <updated>2025-12-10T08:41:04.000Z</updated>
+        <summary type="html"><![CDATA[与微软、Google、亚马逊和 Meta 等科技巨头不同，苹果在 AI 热下非常保守，没有将 AI 视为天要塌下来需要立即采取行动的事情。今年初，由于 AI 战略匮乏，苹果饱受批评，反映在市值上就是股价大跌。2025 年上半年，苹果在七大科技巨头中表现倒数第二，股价下跌了 18%。但随着对 AI 巨额投资的质疑，情况发生了逆转，苹果股价飙升 35%，此前的宠儿 Meta 和微软则股价暴跌，英伟达的表现也不如苹果。标普 500 指数同期上涨 10%，科技股为主的纳斯达克 100 指数上涨了 13%。目前苹果的市值达到 4.1 万亿美元，超过了微软，正逼近英伟达。财富管理公司认为苹果的股票从某种程度上是反 AI 的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳大利亚禁止青少年使用社媒禁令正式生效]]></title>
+        <id>https://www.solidot.org/story?sid=83012</id>
+        <link href="https://www.solidot.org/story?sid=83012"/>
+        <updated>2025-12-10T08:03:56.000Z</updated>
+        <summary type="html"><![CDATA[澳大利亚禁止 16 岁以下青少年使用社媒的禁令正式生效。12 岁悉尼女孩 Paloma 在接受采访时对禁令表达了悲伤之情，称她通过 Snapchat 和 TikTok 等应用结识了来自不同国家的朋友，表示自己认识的每个人都对禁令感到生气，称通过禁止使用社交媒体政府剥夺了他们的一部分权利。15 岁少年 Noah Jones 和 Macy Neyland 在一家权利团体的支持下向澳大利亚最高法院提起诉讼，认为禁令剥夺了他们自由交流的权利。澳大利亚电信部长 Anika Wells 表示不会屈服，不会被法律战吓到，“我们将代表澳大利亚的父母坚定立场。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【数码荔枝】双 12 年末感恩庆典：正版软件优惠 6 折起]]></title>
+        <id>https://www.appinn.com/lizhi-251212/</id>
+        <link href="https://www.appinn.com/lizhi-251212/"/>
+        <updated>2025-12-10T07:59:58.000Z</updated>
+        <summary type="html"><![CDATA[2025 又到最后一月，正版软件双 12 感恩庆典限时开启！ 老朋友「数码荔枝」，在双 11 没有折扣的那些正版软件，这次优惠将补位来袭！6 折起优惠，直到 12 月 19 日结束。 点击小众软件的专属链接，直接购买即为优惠价格，年末入手正版软件，现在购购购！ 别忘记，在下单时输入优惠码 Windo]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 年将是有记录以来第二或第三热的年份]]></title>
+        <id>https://www.solidot.org/story?sid=83011</id>
+        <link href="https://www.solidot.org/story?sid=83011"/>
+        <updated>2025-12-10T07:40:10.000Z</updated>
+        <summary type="html"><![CDATA[欧盟哥白尼气候变化服务中心（C3S）周二发表报告，今年预计将是有记录以来第二或第三热的年份，可能仅次于 2024 年，与 2023 年并列第二。报告称，2025 年 11 月是有记录以来第三温暖的 11 月，比最暖的 11 月（2023 年）低 0.20°C，比第二暖的 11 月（2024 年）低 0.08°C。11 月全球气温比工业化前水平高 1.54°C，2023-2025 年三年平均气温有望首次超过 1.5°C。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[qqqa – 终端中的大语言模型：快问快答、运行命令]]></title>
+        <id>https://www.appinn.com/iagooar-qqqa/</id>
+        <link href="https://www.appinn.com/iagooar-qqqa/"/>
+        <updated>2025-12-10T07:25:23.000Z</updated>
+        <summary type="html"><![CDATA[当你在终端操作的时候，如果需要去询问 AI，就必须切换窗口，去提问，略显麻烦。qqqa 提供了一个解决方案：不用离开终端，直接提问，并获得答案，甚至可以自动粘贴并执行生成的命令。 qqqa 是两个命令行工具 qq 和 qa，支持 macOS, Linux 和 Windows。其中 qq 为只读，不访]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当视频编解码器赢得艾美奖]]></title>
+        <id>https://www.solidot.org/story?sid=83010</id>
+        <link href="https://www.solidot.org/story?sid=83010"/>
+        <updated>2025-12-10T07:05:29.000Z</updated>
+        <summary type="html"><![CDATA[2025 年的技术工程艾美奖授予了 AV1 编解码器，以表彰其对全球视频内容传输的影响。在 2010 年代中期，视频编解码器是 Web 的隐形税，建立在封闭的授权系统基础之上，费用昂贵且难以预测。当时的大部分网络视频使用 H.264 编解码器，开源浏览器如 Firefox 依赖于思科的 OpenH.264 模块免于支付授权费。随着网络视频需求的增长，亟需新一代编解码器去实现更快更可靠的高质量串流。为避免生态系统的分裂，Mozilla 等在 2015  年联合成立了 Alliance for Open Media(AOM)合作开发下一代视频编解码器 AV1，AV1 融合了 Google 的 VP9、Mozilla 的 Daala 和思科的 Thor 技术。AV1 于 2018 年发布，下一代 AV2 也即将发布。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Excel 诞生 40 年]]></title>
         <id>https://www.solidot.org/story?sid=83009</id>
@@ -926,139 +1077,6 @@ Chrome 144 features a small change to overscroll-behavior: it now also works on
 Prevent a page from scrolling while a dialog is open originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[汽车轮胎是海洋微塑料的最大单一来源]]></title>
-        <id>https://www.solidot.org/story?sid=82937</id>
-        <link href="https://www.solidot.org/story?sid=82937"/>
-        <updated>2025-12-01T14:57:50.000Z</updated>
-        <summary type="html"><![CDATA[新西兰奥克兰海洋研究人员发现微塑料最大单一来源是汽车轮胎。研究人员称，汽车轮胎磨损之后产生的碎片会散落在路面上，其中半数留在那里，还有半数进入到环境，最终随着雨水进入到海洋。微塑料最小的仅纳米大小，肉眼无法看到，较大的有一到两毫米。现有的雨水处理设备基本上不会捕捉到微塑料。研究人员在毗邻公路的区域采集样本，在路边和沿海沉积物的每一个角落都发现了轮胎颗粒。研究人员称微塑料是一种全球性问题。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[证明草甘膦能安全使用的论文被撤回]]></title>
-        <id>https://www.solidot.org/story?sid=82936</id>
-        <link href="https://www.solidot.org/story?sid=82936"/>
-        <updated>2025-12-01T14:38:42.000Z</updated>
-        <summary type="html"><![CDATA[草甘膦是孟山都公司研究人员在 1970 年发现的，被广泛用于除草。2000 年包括 Gary M. Williams 在内的三名科学家在《Regulatory Toxicology and Pharmacology》期刊上发表了论文《Safety Evaluation and Risk Assessment of the Herbicide Roundup and Its Active Ingredient, Glyphosate, for Humans》，宣称使用草甘膦是安全的。这篇论文被引用了数百次，被广泛用于证明草甘膦的安全性，包括维基百科相关条目在内的文章都援引了这篇论文。然而 2017 年的诉讼披露孟山都公司的员工参与了论文的撰写， 三名科学家很可能只是该公司雇佣的枪手。论文存在利益冲突、结果有效性等问题。期刊终于在长期受到质疑之后采取行动联系了唯一在世的科学家 Williams 要求予以澄清，但没有收到任何回应。期刊宣布撤回这篇论文。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[树莓派因为内存价格飙升而涨价]]></title>
-        <id>https://www.solidot.org/story?sid=82935</id>
-        <link href="https://www.solidot.org/story?sid=82935"/>
-        <updated>2025-12-01T12:45:07.000Z</updated>
-        <summary type="html"><![CDATA[树莓派宣布因为近期内存价格飙升而对部分型号的 Raspberry Pi 4 和 5 产品涨价，同时宣布推出一款 1GB 版本的 Raspberry Pi 5，售价 45 美元。Raspberry Pi 4 和 5 价格上涨最高 25 美元，最低 5 美元。4GB 版本的 Raspberry Pi 4 从 55 美元涨到 60 美元，16GB 版本的 Raspberry Pi 5 从 120 美元涨到 145 美元。树莓派表示近期的内存价格飙升是 AI 热推动的，一旦情况缓解它将会调低价格。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吸血章鱼揭示章鱼的起源]]></title>
-        <id>https://www.solidot.org/story?sid=82934</id>
-        <link href="https://www.solidot.org/story?sid=82934"/>
-        <updated>2025-12-01T12:34:31.000Z</updated>
-        <summary type="html"><![CDATA[吸血章鱼是一种居住在深海的头足类，是八腕总目的一种，其祖先在侏罗纪时期为了躲避蛇颈龙目的猎食而移居深海，亿年来其形态不曾改变，被称为是活化石。日本研究团队在骏河湾意外捕捉到一只吸血章鱼，对其进行测序后发现其碱基对超过 110 亿，是已知章鱼类动物最大基因组的两倍多。吸血章鱼虽然名字中有章鱼，但它既不是章鱼也不是鱿鱼，更不是吸血鬼，它是一种古老谱系中最后也是唯一的幸存者，该谱系中其它成员都消失了。它的历史可追溯到 1.83 亿年前，保留了祖先的诸多特征，同时演化出适应深海黑暗环境、以腐肉为生的生存方式。其基因组规模比鱿鱼和章鱼都大得多，其中 62% 由重复序列组成。吸血章鱼属于八腕总目，但保留了十腕总目的部分染色体结构。研究人员表示吸血章鱼让我们能直接观察头足类动物演化的最早阶段。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国电商巨头逾 3000 万用户账户泄漏]]></title>
-        <id>https://www.solidot.org/story?sid=82933</id>
-        <link href="https://www.solidot.org/story?sid=82933"/>
-        <updated>2025-12-01T11:29:49.000Z</updated>
-        <summary type="html"><![CDATA[韩国电商巨头酷澎发生了 3000 余万个用户账号信息遭泄事件。遭泄的个人信息包含用户姓名、电子邮箱、电话号码、地址，甚至包含部分订购记录。根据韩国 《个人信息保护法》，若企业违反相关法律，可以被处以最多相当于销售额 3% 的罚款。酷澎今年前三季度累计销售额为 36.3 万亿韩元。若从中减去与个人信息泄露案关联度不高的业务部门业绩等，销售额为 31 万亿韩元。若再将其折算为年销售额，罚款或达 1.2 万亿韩元。根据酷澎递交给警方的报告，用户信息泄露非因遭黑客攻击，而由公司中国籍员工外泄所致。该员工早已离职并离境。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmartTube 官方 APK 文件被植入恶意程序]]></title>
-        <id>https://www.solidot.org/story?sid=82931</id>
-        <link href="https://www.solidot.org/story?sid=82931"/>
-        <updated>2025-12-01T08:40:30.000Z</updated>
-        <summary type="html"><![CDATA[SmartTube 开发者上周宣布数字签名泄漏，他发布了使用新签名的新版本应用，督促用户切换到新版本。SmartTube 是 Android TV 和 Fire TV 设备上 YouTube 应用的流行替代。开发者透露，他用于构建官方 APK 文件的计算机遭到入侵，导致部分 APK 版本植入了恶意程序。暂时不清楚哪个版本的 APK 最早包含了恶意程序。APKMirror 上的 SmartTube v30.43 和 30.47 都被标记为感染恶意程序。开发者表示，所有旧版本 SmartTube  都已经从项目的 GitHub 库中移除，感染恶意程序的计算机也进行了处理，旧数字签名被弃用。SmartTube v30.56 是使用新签名在干净计算机上构建的首个版本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全网最全！Nano Banana 2 使用指南（2025年12月更新）]]></title>
-        <id>https://www.appinn.com/deepsider-nano-banana-2/</id>
-        <link href="https://www.appinn.com/deepsider-nano-banana-2/"/>
-        <updated>2025-12-01T08:14:54.000Z</updated>
-        <summary type="html"><![CDATA[国内可用的 Nano Banana 2 使用方法：
-
-1. 打开浏览器扩展商店，搜索 deepsider。
-2. 打开 deepsider 侧边栏，切换到 Nano Banana 2 模型。]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本多家新闻社要求 Perplexity 停止使用其新闻稿]]></title>
-        <id>https://www.solidot.org/story?sid=82930</id>
-        <link href="https://www.solidot.org/story?sid=82930"/>
-        <updated>2025-12-01T08:00:48.000Z</updated>
-        <summary type="html"><![CDATA[日本共同社、每日新闻社与产经新闻社周一向 AI 搜索公司 Perplexity 发送抗议书，以该公司擅自使用新闻机构发布的新闻稿、侵犯著作权为由，要求立即停止使用。在这之前，读卖新闻、朝日新闻社和日本经济新闻社也都提出了类似的要求和诉讼。共同社在抗议书中指出，确认到自 2024 年 8 月起的约 1 年里，Perplexity 合计数十万次访问刊登共同社与加盟报社稿件的新闻网站“47NEWS”。抗议书强调，Perplexity 未获许可即收集和复制新闻内容，并用于生成回答，侵犯了著作权。抗议书还指出，Perplexity 回答所显示的参考来源是共同社新闻稿，但给出的回答却是与稿件内容不同的虚假信息，损害了共同社新闻产品的信誉和品牌价值。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因发射事故俄罗斯失去了唯一一个载人飞船发射场]]></title>
-        <id>https://www.solidot.org/story?sid=82929</id>
-        <link href="https://www.solidot.org/story?sid=82929"/>
-        <updated>2025-12-01T07:45:12.000Z</updated>
-        <summary type="html"><![CDATA[11 月 27 日俄罗斯在拜科努尔航天发射场成功发射了联盟号 MS-28 载人飞船。但 31/6 发射台下的移动维护舱却因为火箭尾焰从高空倒扣坠落而严重受损，在修复前发射台将无法使用，至于修复时间专家估计从几个月到三年。拜科努尔航天发射场是目前俄罗斯唯一能向国际空间站发射联盟号载人飞船和进步号无人货船的发射场地，而无人货船 MS-33 原计划于 12 月 21 日发射。俄罗斯还有其它发射场，但它们或者位于不适合的维度如 Plesetsk 发射场，或者没有获得载人飞行认证如东方发射场，或者已经退役移交给博物馆如拜科努尔的加加林发射台。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NixOS 25.11 释出]]></title>
-        <id>https://www.solidot.org/story?sid=82928</id>
-        <link href="https://www.solidot.org/story?sid=82928"/>
-        <updated>2025-12-01T06:44:23.000Z</updated>
-        <summary type="html"><![CDATA[基于 Nix 包管理器的发行版 NixOS 释出了代号为 Xantusia 的 NixOS 25.11。主要新特性包括：不依赖 bash 基于 Rust 的初始化系统 nixos-init；COSMIC 桌面环境的 beta 版本；FirewallD 支持；GNOME 49，移除 X11 会话支持，用户仍然可以通过 XWayland 运行 X11 应用；Papers 文档查看器取代 Evince；Showtime 播放器现取代 Totem；nixos-rebuild-ng 默认启用；Syncthing 2.0.0；LLVM 21 等等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Myna – 专为编程设计的开源等宽字体，让符号更自然]]></title>
-        <id>https://www.appinn.com/myna-font/</id>
-        <link href="https://www.appinn.com/myna-font/"/>
-        <updated>2025-12-01T06:04:15.000Z</updated>
-        <summary type="html"><![CDATA[你是否对 -> 看起来一点也不像箭头，以及 $ 、 @ 、 % 符号总是显得不协调而感到沮丧？ 想体验连字的优美之处，又不想失去 ASCII 的简洁性？ Myna （ Gracula relig]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Kernel 6.18 释出]]></title>
-        <id>https://www.solidot.org/story?sid=82927</id>
-        <link href="https://www.solidot.org/story?sid=82927"/>
-        <updated>2025-12-01T05:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds 在内核邮件列表上宣布释出 Linux Kernel 6.18。主要新特性包括：移除 Bcachefs 文件系统，Rust Binder 驱动，支持用文件句柄管理命名空间，支持 AccECN 拥塞控制协议，初步支持 BPF 程序签名，用 sheaves 改进内存管理，更好的控制透明大页等等。更多可浏览 KernelNewbies 6.18。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit 评论后端从 Python 迁移到 Go Microservice]]></title>
-        <id>https://www.solidot.org/story?sid=82926</id>
-        <link href="https://www.solidot.org/story?sid=82926"/>
-        <updated>2025-11-30T16:02:59.000Z</updated>
-        <summary type="html"><![CDATA[Reddit 完成了将评论后端从 Python 迁移到 Go Microservice 的工作。此举旨在改进性能和可靠性。Reddit 是全世界访问量第七大的网站，是集社交新闻和论坛性质于一身的社交媒体。Reddit 团队称，新架构简化了评论系统的依赖链，同时维持了下游系统的完整事件交付保证。迁移到域特定微服务架构也为平台进一步分解其它核心服务奠定了基础。Reddit 高级软件工程师 Katie Shannon 称，相比旧的 Python 系统，关键写操作、创建、更新和递增端点的延迟降低了一半，之前的系统延迟曾最高达 15 秒。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
