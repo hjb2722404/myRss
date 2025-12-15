@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/tianyi-yundiannao-60days/",
+          "author": "青小蛙",
+          "description": "前两天倒计时小工具 Catime 的开发者 vlad 发来消息，说可以免费领一台 Windows 10 的云电脑，并且发来了一张在小程序里远程运行的 Window 截图，非常离谱啊： P.S. Windows 10 在这种小屏幕上的操作，意料之外的流畅。是的，很流畅。 天翼云电脑是中国电信的云服务，",
+          "link": "https://www.appinn.com/tianyi-yundiannao-60days/",
+          "publishedOn": "2025-12-14T08:11:16.000Z",
+          "wordCount": 2919,
+          "title": "天翼云电脑 – 免费领60天 Windows 10 云电脑。无公网IP，能用来干什么？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-81.jpg"
+        },
+        {
           "id": "https://www.appinn.com/itab-new-tab-edge-editors-pick/",
           "author": "青小蛙",
           "description": "新标签页扩展 iTab 入选 Edge 浏览器官方扩展首页的编辑精选推荐。 2022年，青小蛙写过：iTab 新标签页：2022 值得一试的浏览器新标签页扩展 2025年， iTab 新标签页正式入选 Edge 浏览器首页精选推荐！ 入口在：Edge 扩展商店 > 编辑精选",
@@ -100,16 +110,6 @@
           "wordCount": 2702,
           "title": "Catime – 纯 C，800KB 开源计时器，竟能让 Windows 托盘图标播放 GIF 动画",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-72.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/react-rsc-cve-2025-55182/",
-          "author": "青小蛙",
-          "description": "关于 CVE-2025-55182 的讨论已经持续两天了。青小蛙在社区中看到 @Fiend_FEARing 同学的预警帖：《重大漏洞预警：CVE-2025-55182（CVSS 10.0）影响 React Server Components》。 当时青小蛙就震惊了，满分 CVSS 10.0 的漏洞评",
-          "link": "https://www.appinn.com/react-rsc-cve-2025-55182/",
-          "publishedOn": "2025-12-05T08:28:51.000Z",
-          "wordCount": 2623,
-          "title": "React 爆出满分 10.0 漏洞（CVE-2025-55182）上一次同等级漏洞还是 Log4Shell",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-71.jpg"
         }
       ]
     },
@@ -229,6 +229,46 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83055",
+          "author": null,
+          "description": "天文学家成功直接拍摄到一颗如《星球大战》中塔图因星球般绕行双星运转的系外行星。能拍到太阳系外的行星本就极为罕见，而能拍到一颗同时绕行两颗恒星的行星，更是少之又少。令人惊讶的是，这颗名为 HD 143811 AB b的系外行星距离其双母恒星约 64AU，是目前已知以直接成像方式发现、且绕行双星系统的行星中，距离母恒星最近的一颗，其轨道半径比过去同类型行星小了约六倍。这颗新行星 HD 143811 AB b 其实隐藏在多年以前的观测资料中。其质量约为木星的 6 倍，年龄约为 1,300 万年，温度高于太阳系内任何行星。 HD 143811 这个系统的结构同样引人注目：两颗恒星彼此紧密环绕（0.18 AU），每 18 天完成一次公转；而行星则以轨道半长轴约 64AU、330 年的周期，绕着这对恒星运行，与冥王星绕行太阳的时间尺度相近。",
+          "link": "https://www.solidot.org/story?sid=83055",
+          "publishedOn": "2025-12-14T14:00:11.000Z",
+          "wordCount": 181,
+          "title": "天文学家拍摄到类星战塔图因的系外行星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83054",
+          "author": null,
+          "description": "Benchmark Mineral Intelligence 报告，2025 年 11 月全球电动汽车销量 200 万辆，今年迄今全球电动汽车销量 1850 万辆，比 2024 年同期增长 21%。欧洲 11 月的电动汽车销量增幅最高，同比增长 36%，其中纯电增长 35%，插电混动 39%，今年至今电动汽车总销量 380 万辆，比 2024 年同期增长 33%。北美因电动汽车减税政策于 9 月 30 日结束而销量下滑，今年至今电动汽车销量比 2024 年同期下降 1%。中国电动汽车销量仍然远超世界其它地区，今年至今销量增长 19% 达 1160 万辆，比亚迪 11 月电动汽车出口量创 131,935 辆的纪录，今年在欧洲销量达到 20 万辆，东南亚销量翻一番，南美销量增长逾 50%。除中国、欧洲和北美外，其它地区今年的电动汽车销量比 2024 年同期增长 48% 达到 150 万辆。",
+          "link": "https://www.solidot.org/story?sid=83054",
+          "publishedOn": "2025-12-14T13:47:28.000Z",
+          "wordCount": 208,
+          "title": "全球电动汽车销量今年至今增长 21%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83053",
+          "author": null,
+          "description": "Linus Torvalds 通常在周日释出新版内核的 RC 版本，而美国时间的周日是北京时间的周一。Torvalds 生活在北美，因此他通常是在北京时间的周一发布新内核 RC 版本。然而本周 Torvalds 在日本参加 Linux Plumbers 大会和 Linux 内核维护者峰会，而日本的周日相当于美国的周六，他在当地时间的周日释出 Linux 6.19-rc1。Torvalds 表示这可能会让那些习惯于最后一刻递交 pull request 的人措手不及。Linux 6.19 包含了驱动、子系统和架构更新，其中一个更新是龙芯加入了 32 位架构 LoongArch32 支持。大部分 CPU 架构都从 32 位过渡到 64 位，而龙芯则反其道而行之，从 64 位过渡到 32 位。",
+          "link": "https://www.solidot.org/story?sid=83053",
+          "publishedOn": "2025-12-14T13:00:24.000Z",
+          "wordCount": 219,
+          "title": "Linux 6.19-rc1 释出，龙芯为内核加入 32 位架构 LoongArch32 支持",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83052",
+          "author": null,
+          "description": "《BMJ Case Reports》期刊本周报告了一起不同寻常的病例：一名男子因长期饮用能量饮料而中风。这名 50 多岁的男子因突发左侧身体完全麻木和共济失调（Ataxia）而送医，他的血压高达 254/150 mm Hg——正常人血压为 120/80。他不吸烟、不喝酒、也不滥用任何药物，身体健康，所有常规检查结果都正常。但脑部扫描显示了动脉痉挛的证据，这与高血压强相关。MRI 扫描显示丘脑有组织坏死。他接受了中风康复治疗，三天后出院时血压降至 170/80 mm Hg，虽然很高但不再危急。该男子在接下来三个月定期复诊，发现血压再次上升，一度因高血压再次住院。医生开始询问他的生活信息，他披露平均每天要喝八罐高效能量饮料。一罐能量饮料标明含有 160 毫克咖啡因，咖啡因是能升高血压的兴奋剂。一杯普通咖啡约含有 90 毫克咖啡因，八罐能量饮料共有 1280 毫克咖啡因，意味着相当于喝 14 杯咖啡。医生指出能量饮料的其它成分也可能具有兴奋剂作用。此前的研究发现连续饮用能量饮料会对血压上升产生累积效应。医生在了解之后建议他停止饮用能量饮料。他照做了，一周后血压就恢复到正常水平，八年之后血压仍然正常。",
+          "link": "https://www.solidot.org/story?sid=83052",
+          "publishedOn": "2025-12-13T13:57:36.000Z",
+          "wordCount": 179,
+          "title": "长期饮用能量饮料导致一名男子中风",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83051",
           "author": null,
@@ -857,136 +897,6 @@
           "publishedOn": "2025-12-06T13:59:31.000Z",
           "wordCount": 186,
           "title": "三成英国医生在会诊时使用 AI 工具",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82983",
-          "author": null,
-          "description": "哈佛大学、香港大学和芝加哥大学的研究人员发表了一篇论文，对中国超过 50 万篇研究生学位论文进行原创性检测，发现抄袭行为普遍存在，约 14% 的论文超过 15% 的官方相似度阈值。数据分析显示，有抄袭行为的毕业生进入公共部门的比例显著高于其未抄袭的同窗，尤其在税务、海关等实权部门。这表明，在职业入口处存在着基于不诚实特质的“负面选择”。一旦进入体制，这种负面效应在职业晋升中进一步放大。追踪公务员的职业轨迹发现，在相同资历背景下，有抄袭记录的官员晋升速度平均快 10-15%。即使在司法系统这一专业性极强的领域，控制了法官办案数量、上诉率等绩效指标后，抄袭记录仍能独立预测其晋升概率。通过分析超过 1.4 亿份法院判决并利用案件准随机分配机制，研究发现：由有抄袭记录的法官审理的案件，其裁决更倾向于偏袒政府、国有企业或大型企业，上诉率更高，判决书说理更简略，且更频繁使用自由裁量条款。",
-          "link": "https://www.solidot.org/story?sid=82983",
-          "publishedOn": "2025-12-05T13:48:22.000Z",
-          "wordCount": 168,
-          "title": "论文抄袭率更高的人更可能进入政府部门且晋升更快",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82982",
-          "author": null,
-          "description": "Netflix 发布新闻稿，正式宣布将以 827 亿美元收购华纳兄弟（Warner Bros）——即 Warner Bros Discovery 的电影和流媒体业务，换句话说流媒体服务 HBO Max 将成为 Netflix 的一部分。此次收购预计将重塑美国媒体行业格局，可能会面临反垄断审查。Netflix 的收购价为每股 27.75 美元，股权价值为 720 亿美元，包括公司债务和股票价值在内的总企业价值约 827 亿美元。两家公司的董事会一致批准了交易。",
-          "link": "https://www.solidot.org/story?sid=82982",
-          "publishedOn": "2025-12-05T13:38:48.000Z",
-          "wordCount": 189,
-          "title": "Netflix 以 827 亿美元收购华纳兄弟",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82981",
-          "author": null,
-          "description": "根据发表在《科学》期刊上的一项研究，AI 聊天机器人擅长改变人的政治观点，在使用不准确信息时其说服力更惊人。研究人员通过众包平台招募了近 7.7 万名参与者，付费让他们与 OpenAI、Meta 和 xAI 等公司的 AI 聊天机器人进行对话。研究人员首先询问了参与者在不同政治议题的立场，然后 AI 聊天机器人会尝试改变他们的想法接受相反的立场。研究显示 AI 聊天机器人非常擅长担任政治说客。研究人员发现，AI 提供的大量信息中包含了很多不准确的断言，而“最具说服力的模型和提示策略产生的信息准确率最低”。研究中 AI 聊天机器人给出的声明中有 19% 被认为“基本不准确”。研究人员担心，极具说服力的 AI 聊天机器人可能会被无道德原则的人利用，用于宣传激进的政治或宗教意识形态，或在地缘政治对手之间煽动政治动乱。",
-          "link": "https://www.solidot.org/story?sid=82981",
-          "publishedOn": "2025-12-05T13:16:44.000Z",
-          "wordCount": 182,
-          "title": "AI 聊天机器人擅长利用不准确信息改变人的政治观点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82980",
-          "author": null,
-          "description": "美国国家老龄化研究所在 1980 年代开展了一项研究，参与者分成两组，一组食用均衡的常规饮食，一组减少三成热量摄入。研究最初的目的是调查减少热量摄入是否能延长寿命。参与者都活到了自然死亡。研究人员在他们死后分析了大脑，比较了正常饮食者和限制热量摄入者脑细胞的差异，观察减少热量摄入如何影响与脑细胞衰老相关的基因表达和通路活性。他们发现，限制卡路里摄入的脑细胞在代谢上更健康、功能更强，髓鞘相关基因表达增加，以及与髓鞘生成和维护密切相关的关键代谢通路活性增强。这些发现支持长期饮食干预能从细胞层面影响大脑衰老的轨迹。",
-          "link": "https://www.solidot.org/story?sid=82980",
-          "publishedOn": "2025-12-05T12:43:09.000Z",
-          "wordCount": 160,
-          "title": "长期限制热量摄入能减缓大脑衰老",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82979",
-          "author": null,
-          "description": "《自然》发表了两项研究，再次对长期困扰物理学界的惰性中微子假说进行了检验。结果显示，相关实验并未发现任何额外类型中微子的证据，测量结果与标准模型预测基本一致，从而削弱了存在第四种类型的中微子——惰性中微子的可能性。中微子是宇宙中数量仅次于光子的基本粒子，已知分为电子、缪子和τ三种类型，其能够在这三种类型之间来回“变身”，即发生振荡。过去几十年的洛斯阿拉莫斯实验、MiniBooNE 实验以及多项“镓异常”实验都曾给出难以解释的结果：有的观测到电子中微子数量“过多”，有的观测到“偏少”。这些异常曾被解读为存在一种或多种惰性中微子的可能证据。美国费米国家加速器实验室最新的 MicroBooNE 实验显示，观测到的电子中微子数量与标准模型预期基本一致，没有出现 MiniBooNE 所报告的异常多出的现象。这一结果以 95% 的置信度排除了包含单一惰性中微子的理论模型。另一项研究来自德国卡尔斯鲁厄氚中微子质量实验。该实验以测量氚衰变末端电子能谱为核心，间接推算出中微子质量，同时检验是否存在惰性中微子。理论上，惰性中微子会在能谱中留下可测量的异常信号。然而，该实验最新数据并未发现任何与惰性中微子相关的特征。",
-          "link": "https://www.solidot.org/story?sid=82979",
-          "publishedOn": "2025-12-05T10:23:50.000Z",
-          "wordCount": 167,
-          "title": "最新实验不支持第四种中微子假说",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82978",
-          "author": null,
-          "description": "调查公司香港 Counterpoint 的数据显示，长江存储在全球 NAND 出货量中所占的份额在 2025 年 1～3 月首次达到 10%。2025 年 7～9 月同比增长 4 个百分点达到 13%，份额直逼世界第 4 位的美国美光。全年市场份额有望超过 1 成。长江存储的目标是在 2026 年底之前获得 15 %的销量份额。将在中国武汉市周边推进工厂投资。目前正在实施的投资完成后，长江存储将占全球供应量的约 2 成。这一规模超过了日本铠侠，直逼韩国 SK 海力士。长鑫存储在 DRAM 领域居世界第 4 位。但份额远低于三星、SK 海力士和美光。",
-          "link": "https://www.solidot.org/story?sid=82978",
-          "publishedOn": "2025-12-05T10:06:24.000Z",
-          "wordCount": 201,
-          "title": "长江存储 NAND 市场份额突破 10%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82977",
-          "author": null,
-          "description": "黑死病是人类历史上最致命的瘟疫之一，杀死了欧洲近半数人口。根据发表在《Communications Earth & Environment》期刊上的一项研究，这场瘟疫可能是火山喷发引起的。研究人员综合分析了欧洲各地的树轮、南极洲和格陵兰岛的冰芯以及历史文献，认为在 1345 年左右，也就是黑死病爆发前两年，发生了一次火山爆发，地点可能是在热带，火山灰在随后的多年里遮蔽了地中海地区的部分阳光，导致气温下降，农作物歉收。粮食短缺迫使威尼斯和热那亚等意大利城邦紧急从黑海地区进口粮食。不幸的是，运粮船携带了一种致命的细菌——鼠疫杆菌——引发了席卷欧洲的鼠疫。1347 年至 1351 年间，黑死病至少夺去了 2500 万人的生命。研究指出，火山爆发是这场瘟疫的第一个导火索。",
-          "link": "https://www.solidot.org/story?sid=82977",
-          "publishedOn": "2025-12-05T09:54:16.000Z",
-          "wordCount": 168,
-          "title": "研究称火山喷发引发了黑死病的传播",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82976",
-          "author": null,
-          "description": "牛津大学领导的国际团队确认了迄今观测到的最大宇宙旋转结构——一个距离地球约 1.4 亿光年、“如刀刃般”嵌入巨大旋转宇宙丝状体中的星系链。它被称为“宇宙流动的化石记录”，为研究早期宇宙星系形成提供了全新视角。宇宙丝状体是宇宙中已知最大的结构类型，是由星系和暗物质组成的细长网络，充当了物质和动量流向星系的“高速公路”。团队利用南非 MeerKAT 射电望远镜的数据，结合暗能量光谱仪和斯隆数字巡天的光学观测结果，发现了这个由 14 个富含氢气的星系排列成的“长链”，其长约 550 万光年、宽约 117000 光年，嵌入在一个超过 280 个星系的丝状体内。最新发现的特殊之处在于，该丝状体不仅自身在旋转，星系的自转方向还与纤维结构自身旋转高度相关。这一发现远超随机分布的预期，挑战了现有星系形成模型。动力学模型显示，其旋转速度达 110 公里/秒。",
-          "link": "https://www.solidot.org/story?sid=82976",
-          "publishedOn": "2025-12-05T09:17:53.000Z",
-          "wordCount": 173,
-          "title": "天文学家观测到至今最大的宇宙旋转结构",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82975",
-          "author": null,
-          "description": "Cozy Mk IV 是一款实验性的可以购买零部件在家自组装的轻型飞机。3 月 18 日一架 Cozy Mk IV 飞机在英国 Staverton 的 Gloucestershire 机场发生了坠机事故，机上只有一名飞行员，他只受到了轻伤。英国航空事故调查局（AAIB）的调查发现，事故原因是 3D 打印的进气弯管使用了不合适的材料制造，在引擎产生的高温下受热后软化，导致结构变形。飞行员当时发现发动机完全失去动力。AAIB 表示未来将会加强对 3D 打印零部件的检查。",
-          "link": "https://www.solidot.org/story?sid=82975",
-          "publishedOn": "2025-12-05T07:55:03.000Z",
-          "wordCount": 184,
-          "title": "自组装轻型飞机因 3D 打印零部件受热软化而坠机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82974",
-          "author": null,
-          "description": "斯巴鲁车主抱怨驾车过程中车载信息娱乐系统弹出了 SiriusXM 的全屏广告，有时甚至覆盖了 Apple CarPla。斯巴鲁表示广告每年只弹出两次，但车主认为弹出广告会导致分心和影响行车安全，担心汽车行业在这方面的做法会愈发恶劣。一位 2024 年款 Crosstrek 车主称，弹出式广告出现时候他们正在用 Apple CarPlay，广告占据了整个屏幕。为投放车载广告而强制关闭使用中应用的做法尤其恶劣。斯巴鲁发言人表示他们将开会讨论该问题，他们非常重视客户的反馈。斯巴鲁表示广告通常在每年的阵亡将士纪念日和感恩节前后发送两次。",
-          "link": "https://www.solidot.org/story?sid=82974",
-          "publishedOn": "2025-12-05T07:38:02.000Z",
-          "wordCount": 168,
-          "title": "斯巴鲁车主抱怨驾车过程中弹出全屏广告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82973",
-          "author": null,
-          "description": "俄罗斯屏蔽了苹果 FaceTime 和游戏平台 Roblox。俄罗斯声称 FaceTime 被用于犯罪活动，而 Roblox 则被指控传播极端主义材料和 LGBT 宣传。在这之前，俄罗斯限制了 Google 的 YouTube、Meta 的 WhatsApp 以及 Telegram。批评人士认为此举相当于审查，旨在加强国家对私人通信的控制。俄罗斯则声称这些是合法的执法手段。俄罗斯通信监管机构 Roskomnadzor 援引执法机构的声明称，FaceTime 正被用于在俄罗斯境内组织和实施恐怖袭击、招募犯罪分子以及对俄罗斯公民实施欺诈和其它犯罪活动。但它并没有提供任何证据。",
-          "link": "https://www.solidot.org/story?sid=82973",
-          "publishedOn": "2025-12-05T06:24:08.000Z",
-          "wordCount": 188,
-          "title": "俄罗斯屏蔽苹果 FaceTime 和游戏平台 Roblox",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82972",
-          "author": null,
-          "description": "Netflix 目前在竞价收购 Warner Bros. Discovery 工作室和流媒体业务上处于领跑位置。Netflix 对华纳的工作室、HBO Max 等相关业务的估值为每股 28 美元。派拉蒙对华纳的报价是接近每股 27 美元。派拉蒙旨在收购华纳的全部资产，而 Netflix 和另一个竞价者 Comcast 只对其工作室和流媒体资产感兴趣。华纳旗下还有 CNN 等有线电视。彭博社称，华纳和 Netflix 已进入独家谈判阶段。派拉蒙的所有者埃里森家族（Larry Ellison）与美国总统特朗普关系密切，它宣称只有它的收购能通过政府的反垄断审查，其它公司的收购将会无法通过。",
-          "link": "https://www.solidot.org/story?sid=82972",
-          "publishedOn": "2025-12-05T06:13:53.000Z",
-          "wordCount": 186,
-          "title": "Netflix 接近收购 HBO",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=82971",
-          "author": null,
-          "description": "民主政策的制定离不开公众支持，政策只有在足够多人的支持下才能推行实施。民意的倾向对民主社会的精英执政至关重要。在传统上，精英主要通过学校教育和大众媒体等有限手段引导舆论塑造有利于自身的民意。这些手段粗糙、耗费的时间漫长，调整方向非常困难，因此塑造民意说服公众的代价十分昂贵。现代 AI 的普及正在改变这一状况，它大幅降低了说服公众的成本，大幅提高了塑造民意的精准度，能快速进行调整，甚至能为每位公众进行定制，让民意变成一种可操纵的对象。芝加哥大学 Knowledge Lab 的研究员在预印本平台 arxiv 上发表论文，探讨了 AI 时代精英如何操控民意。研究发现，极化整个社会对精英的统治最为有利。高度极化的社会有利于降低未来调整预期成本所需的成本，而 AI 降低说服成本则有助于加速极化。单一精英阶层执政的政权会加速极化，如果有两个互相竞争的精英阶层，结果则可能有所不同。",
-          "link": "https://www.solidot.org/story?sid=82971",
-          "publishedOn": "2025-12-04T16:05:18.000Z",
-          "wordCount": 172,
-          "title": "AI 时代精英更容易操控民意",
           "imageUrl": null
         }
       ]
