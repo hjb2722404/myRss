@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/cfan-goodbye/",
+          "author": "青小蛙",
+          "description": "昨天接连两次看到消息，都没在意，直到今天早上又在讨论组里看到了： 突然发现，这是注销，就是彻底没了 😂 目前《电脑爱好者》的公众号、官网、社交媒体账号一个不剩，走的彻彻底底，干干净净。 像极了当年我在报刊亭上的选择：《电脑爱好者》，然后和同学去交换阅读《大众软件》😂 但我还是比较喜欢《电脑爱好者》的",
+          "link": "https://www.appinn.com/cfan-goodbye/",
+          "publishedOn": "2025-12-22T02:06:57.000Z",
+          "wordCount": 2502,
+          "title": "有点突然？《电脑爱好者》彻底没了，直接注销",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-93.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/annas-archive-backing-up-spotify/",
+          "author": "青小蛙",
+          "description": "安娜的档案昨天发布了一篇博客《Backing up Spotify》，很离谱：备份了音乐流媒体平台 Spotify 约 300TB 的数据，包括 8000 万个音乐文件（占 Spotify 播放总量的 99.6%）。@Appinn 其他的内容还包括 2.56 亿首曲目和 1.86 亿个独特的 ISR",
+          "link": "https://www.appinn.com/annas-archive-backing-up-spotify/",
+          "publishedOn": "2025-12-21T08:35:31.000Z",
+          "wordCount": 2815,
+          "title": "离谱！安娜的档案抓取了 8600 万个音乐文件，300TB 的 Spotify 数据！",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-92-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/letsencrypt-issue-ip-ssl-certificates/",
           "author": "青小蛙",
           "description": "Let’s Encrypt 在本周（2025年12月19日）开始正式提供 IP 地址证书的签发，依旧免费。先不讨论 IP 证书有什么用，先实现签发 IP 证书这件事吧 😊 简单粗暴，直接开始。 以下教程以 Linux 为例，Windows 下请使用 wsl 注意 需要公网 IP 地址，需",
@@ -110,26 +130,6 @@
           "wordCount": 2919,
           "title": "天翼云电脑 – 免费领60天 Windows 10 云电脑。无公网IP，能用来干什么？",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-81.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/itab-new-tab-edge-editors-pick/",
-          "author": "青小蛙",
-          "description": "新标签页扩展 iTab 入选 Edge 浏览器官方扩展首页的编辑精选推荐。 2022年，青小蛙写过：iTab 新标签页：2022 值得一试的浏览器新标签页扩展 2025年， iTab 新标签页正式入选 Edge 浏览器首页精选推荐！ 入口在：Edge 扩展商店 > 编辑精选",
-          "link": "https://www.appinn.com/itab-new-tab-edge-editors-pick/",
-          "publishedOn": "2025-12-12T08:25:31.000Z",
-          "wordCount": 2596,
-          "title": "被 Edge 官方扩展编辑精选推荐，iTab 新标签页到底是什么？",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-80.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/hogwarts-legacy-epic/",
-          "author": "青小蛙",
-          "description": "《霍格沃茨之遗》是一款沉浸式开放世界动作角色扮演游戏。这回，你将在魔法世界中扮演“你自己”，亲手书写属于自己的传奇。@Appinn 这是一款 2023年上架的游戏，在 Steam 简体中文评测中，拥有 23,215 份特别好评，目前在 Epic 商店限免，原价 384 元人民币。 但注意由于热度过高",
-          "link": "https://www.appinn.com/hogwarts-legacy-epic/",
-          "publishedOn": "2025-12-12T03:54:08.000Z",
-          "wordCount": 2481,
-          "title": "《霍格沃茨之遗》在 EPIC 限免，但人太多不好领",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/12/Copy-of-appinn-homework-79.jpg"
         }
       ]
     },
@@ -202,16 +202,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-9.32.20-AM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390654",
-          "author": "Daniel Schwarz",
-          "description": "How far can we really go with container queries? There are dozens of media queries now, so what if there were dozens of container queries as well? What could we use them for?\nWhat Else Could Container Queries… Query? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/what-else-could-container-queries-query/",
-          "publishedOn": "2025-12-12T14:38:18.000Z",
-          "wordCount": 1938,
-          "title": "What Else Could Container Queries… Query?",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/10/container-style-queries.png"
         }
       ]
     },
@@ -238,13 +228,13 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=11969",
+          "id": "https://www.zhangxinxu.com/wordpress/?p=11972",
           "author": "张 鑫旭",
-          "description": "CSS又出了个表示进度值的progress()函数，这个函数还是挺实用的，任何与进度值相关的场景都是他的使用场景，不妨进来快速了解一下吧。",
-          "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/",
-          "publishedOn": "2025-12-12T11:15:50.000Z",
-          "wordCount": 1456,
-          "title": "CSS progress()函数简介",
+          "description": "CSS锚定定位虽然强大，实用，但是还是有个不足，就是如果元素在边缘处触发候补定位，浏览器是无法感知的，导致很多交互效果并不能纯CSS实现，功亏一篑，现在，Chrome最新版本已经补全了这个不足，CSS锚点定位已经趋于完美，赶快学习起来吧。",
+          "link": "https://www.zhangxinxu.com/wordpress/2025/12/css-anchor-container-query/",
+          "publishedOn": "2025-12-22T01:00:48.000Z",
+          "wordCount": 1427,
+          "title": "补全不足，CSS锚点定位支持锚定容器回退检测了",
           "imageUrl": null
         }
       ]
@@ -254,6 +244,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83113",
+          "author": null,
+          "description": "AI 公司不断警告 AGI（通用 AI 智能或超级智能）的到来是不可避免的，但大语言模型的缺陷已是众所周知，在大模型基础之上是否能发展出 AGI 在科学上并不存在共识。围绕 AGI 的喧嚣是在试图掩盖真正的问题。Cork 大学学院的 James O'Sullivan 认为这是一种政治叙事，是将关于企业问责、失业、算法偏见和民主治理等问题转化为关于意识和控制的抽象哲学问题。AGI 不可避免的话语是试图营造“科技救世主神话”，警告 AI 风险的人，也是同时在构建 AI、并试图获得权力和财富的人。大模型的每一次改进都被解读为迈向 AGI 的一步，成为  AI 公司争取巨额投资与宽松监管的策略。我们的未来是政治性的，而非技术性的。问题不在于 AGI 是否会到来，而在于谁决定什么样的 AI，不应该由少数科技精英去决定我们的未来。",
+          "link": "https://www.solidot.org/story?sid=83113",
+          "publishedOn": "2025-12-21T16:26:57.000Z",
+          "wordCount": 193,
+          "title": "AI 公司对 AGI 的警告是为了掩盖对权力的争夺",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83112",
+          "author": null,
+          "description": "自工业革命以来，人类长期依赖煤炭、石油和天然气等化石燃料作为能源。源自这些有限资源所导致的碳排放极大地加剧了气候变暖的速度。然而 2025 年标志着这一模式发生了重大转变，因为太阳能和风能等可再生能源已在多个领域开始超越传统的化石燃料能源生产。今年全球可再生能源增长量足以满足上半年全球新增电力需求，全球发电量已超过煤炭。这一转型由中国引领：其在太阳能电池板、风力涡轮发电机和锂电池储能领域的规模化发展已使其稳居全球可再生能源生产与技术的领先地位。在其他地方，得益于由中国制造业主导而实现价格亲民且得以普及的小型屋顶太阳能系统正在迅速推广，特别是在欧洲、南亚和全球南方地区，并为数百万人提供了可靠且成本低廉的能源保障。现有的可再生能源已显著减缓了中国温室气体排放的增长速度，预示着全球应对气候变暖的转折点即将到来。",
+          "link": "https://www.solidot.org/story?sid=83112",
+          "publishedOn": "2025-12-20T09:55:08.000Z",
+          "wordCount": 161,
+          "title": "可再生能源开始超越化石燃料",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83111",
+          "author": null,
+          "description": "Google 起诉 SerpApi 抓取和出售其搜索数据。Google 称 SerpApi 绕过其安全措施和爬虫控制；无视关于内容访问权限的指令；使用伪装、轮换机器人身份和机器人网络大规模抓取内容；从搜索功能中窃取授权内容，包括图片和实时数据，转售牟利。Google 称这种抓取行为是“明目张胆”且“非法”，过去一年其活动急剧增加。",
+          "link": "https://www.solidot.org/story?sid=83111",
+          "publishedOn": "2025-12-20T09:27:11.000Z",
+          "wordCount": 176,
+          "title": "Google 起诉 SerpApi 抓取和出售其搜索数据",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83110",
           "author": null,
@@ -852,136 +872,6 @@
           "publishedOn": "2025-12-13T08:03:36.000Z",
           "wordCount": 212,
           "title": "好莱坞导演骗取 Netflix 1100 万美元投资加密货币和购买豪车",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83046",
-          "author": null,
-          "description": "科学家绘制了全球 97% 建筑物的 3D 地图。地图 GlobalBuildingAtlas 发布在 GitHub 上，采用 MIT 许可证带公地条款限制（禁止商业出售）。数据集涵盖了 27.5 亿栋建筑物，以 3 米× 3 米的空间分辨率绘制了每栋建筑物的轮廓和高度，该地图可用于灾害风险评估、气候建模和城市规划。研究人员利用深度学习工具，基于 2019 年拍摄的约 80 万张卫星影像，创建了 3D 地图。研究发现，亚洲建筑物数量几乎占全球所有已测绘建筑物的一半，约 12.2 亿栋。亚洲建筑物总体积也位居全球之首，达到 1.27 万亿立方米，这一结果反映了中国、印度和东南亚地区快速城市化和密集的都市区。非洲建筑物数量位居第二，达 5.4 亿栋，但其总体积仅为 1170 亿立方米，以小型低层建筑为主。芬兰人均建筑物体积是希腊的六倍，尼日尔的人均建筑物体积为世界平均水平的 1/27。",
-          "link": "https://www.solidot.org/story?sid=83046",
-          "publishedOn": "2025-12-12T15:19:19.000Z",
-          "wordCount": 205,
-          "title": "科学家绘制全球 97% 建筑物的 3D 地图",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83045",
-          "author": null,
-          "description": "Reddit 周五就澳大利亚禁止 16 岁以下青少年使用社交媒体的法律提起诉讼。澳大利亚的这项法律堪称全球首例，已于周三生效，总部位于美国的 Reddit 也在被禁的名单上。Reddit 向澳大利亚高等法院提出对该案复审要求，认为自己作为讨论论坛，不应写入被禁止的社交媒体名单上。在提交给法院的诉讼文件中，Reddit 质疑该法律的合法性，称其“侵犯了政治表达的自由”。Reddit 表示，它同意应该保护16岁以下的青少年儿童。但该法律强势介入，加上可能不安全的验证程序，会使年龄较大的青少年和年轻成年人，失去参与同龄人活动的能力，包括政治讨论。这份声明中还称，“与其他受该法律约束的平台不同，Reddit 绝大多数用户都是成年人，我们不会针对 18 岁以下的儿童进行营销或投放广告。”“简而言之，16 岁以下的用户并非 Reddit 的主要市场群体，我们也无意让他们成为主要市场群体。”",
-          "link": "https://www.solidot.org/story?sid=83045",
-          "publishedOn": "2025-12-12T14:39:47.000Z",
-          "wordCount": 176,
-          "title": "Reddit 指控澳大利亚禁止儿童使用社媒法侵犯自由",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83044",
-          "author": null,
-          "description": "剑桥大学领导的研究团队根据委内瑞拉发现的距今 1240 万年的化石重建了古代水蟒（anacondas），发现这种热带蛇类体长达 5.2 米。1240 万年到 530 万年前的中新世中晚期，由于更温暖的全球气温，广阔的湿地和丰富的食物，很多动物体型远大于其现代近亲。中新世巨型动物如 12 米长的凯门鳄（Purussaurus），3.2 米长的巨型淡水龟（Stupendemys）都已经灭绝，但水蟒作为一种巨型动物仍然存活了下来。研究团队测量了 183 块水蟒脊椎骨化石，它们来自至少 32 条蟒蛇。结果显示古代水蟒体长约为 4-5 米，与现代的水蟒差不多。研究人员认为这展现了蟒蛇超强的适应能力。",
-          "link": "https://www.solidot.org/story?sid=83044",
-          "publishedOn": "2025-12-12T14:25:01.000Z",
-          "wordCount": 173,
-          "title": "蟒蛇在一千万年前就体型巨大",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83043",
-          "author": null,
-          "description": "极右翼政党支持率的不断攀升施压欧洲各国政府加强移民管控。瑞士即将就一项提案进行投票，该提案把移民管控推向了新的高度——设定人口上限。如果瑞士居民人数从目前的约 900 万增至 1000 万以上，那么根据该提案瑞士可能全面禁止新移民入境，不管难民、技术工人还是年薪六位数的高级经理都一视同仁。根据瑞士的全民公投政策，公民预计会在明年就该提案进行投票表决。而民调显示该提案很可能会获得批准。限制人口流动从来不会有利于经济发展，全面限制新移民被认为可能会导致瑞士关键技能人才缺乏，损害国家竞争力。投票结果将展示公民为了维护国家的吸引力而愿意做出怎样的选择。右翼的瑞士人民党（Swiss People's Party）在上次选举中赢得了 28% 的选票，其竞选纲领将瑞士公民身份刻画成一种特权而非权利。该党在 2023 年提出了限制人口数量的设想，将其包装成一种保护瑞士生活方式和防止环境受到过度人类活动破坏的方法。",
-          "link": "https://www.solidot.org/story?sid=83043",
-          "publishedOn": "2025-12-12T14:08:03.000Z",
-          "wordCount": 176,
-          "title": "瑞士考虑将人口上限设置在 1000 万",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83042",
-          "author": null,
-          "description": "自由软件基金会（FSF）在 2025 年底宣布了 2024 年度的自由软件奖得主。社会公益项目奖授予了众包事实核查政府地址、电话号码、网站和社交媒体账号的服务 Govdirectory，此前获得该奖的项目包括了 OpenStreetMap、Public Lab 和 Let's Encryp。杰出新自由软件贡献者奖授予了 GIMP 的贡献者 Alx Sa。自由软件进步奖授予了资深开发者 Andy Wingo，他是 GNU Guile 项目的维护者之一。",
-          "link": "https://www.solidot.org/story?sid=83042",
-          "publishedOn": "2025-12-12T12:45:56.000Z",
-          "wordCount": 182,
-          "title": "2024 年自由软件奖宣布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83041",
-          "author": null,
-          "description": "迪士尼改变了其对于 AI 公司使用其版权角色的立场，宣布与 Open AI 达成合作，向 Open AI 投资 10 亿美元，获得额外认股权证的权利。作为协议的一部分，迪士尼允许 Open AI 使用其逾 200 个版权角色制作短视频和图像，这些角色来自迪士尼、漫威、星球大战和皮克斯。新功能预计将于 2026 年通过 OpenAI 的视频生成平台 Sora 和 ChatGPT 推出。部分用户创作的短视频也将会在 Disney+ 上推出。协议不包含任何角色肖像或声音的使用权。迪士尼的员工也将可以使用 OpenAI 工具构建新产品。",
-          "link": "https://www.solidot.org/story?sid=83041",
-          "publishedOn": "2025-12-12T12:16:37.000Z",
-          "wordCount": 196,
-          "title": "迪士尼与 Open AI 展开合作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83040",
-          "author": null,
-          "description": "日本汉字能力检定协会宣布，“熊”字当选最能反映今年世态民情的年度汉字。理由是各地接连有熊出没并造成了损失。在京都市的清水寺，住持森清范在长约 1.5 米、宽约 1.3 米的和纸上挥毫写下“熊”字。评选年度汉字始于 1995 年，今年是第 31 次。协会通过官网和明信片接受来自全国的应征，然后选出得票最多的汉字。",
-          "link": "https://www.solidot.org/story?sid=83040",
-          "publishedOn": "2025-12-12T09:16:13.000Z",
-          "wordCount": 166,
-          "title": "日本年度汉字“熊”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83039",
-          "author": null,
-          "description": "加州伯克利的一位教授感觉不对劲，学校因计算机损坏损失了 46,855 美元，而几乎所有损坏都与一名博士生相关。是这位博士生运气太差还是另有隐情？在征得大楼管理员的同意后，教授在一台笔记本电脑上秘密安装了一个摄像头，摄像头对准了这位博士生的计算机。摄像头拍下了另一名博士生、26 岁的 Jiarui Zou 使用工具破坏该生笔记本电脑的镜头。Jiarui Zou 因在 11 月 9 日至 10 日期间破坏三台电脑而被控三项故意破坏财物罪。他每次造成的损失都超过 400 美元。Zou 还被怀疑与多年来持续发生的其它破坏事件有关。Zou 于 11 月 12 日在宿舍楼被捕，目前已获释，将于 12 月 15 日首次出庭。",
-          "link": "https://www.solidot.org/story?sid=83039",
-          "publishedOn": "2025-12-12T09:02:18.000Z",
-          "wordCount": 183,
-          "title": "教授用秘密摄像头发现博士生破坏另一位博士生的电脑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83038",
-          "author": null,
-          "description": "网络巨头思科股价周三达到了 80.25 美元，终于超过了 25 年前互联网泡沫（dotcom-era）期间创下的 80.06 美元峰值记录。互联网泡沫期思科的市值曾在短时间内超过微软成为全世界市值最高的公司。思科股价的复苏之路花了  25 年 8 个月零 13 天。思科的基本面在此期间有显著改善：自 1999 年以来，营收增长近五倍，利润增长四倍，每股收益增长八倍，利润率保持在健康水平。但在峰值期间买入思科股票的投资者在长达 25 年里还是因通货膨胀而蒙受损失。思科的轨迹与英伟达有相似之处，作为最大的 AI 芯片供应商英伟达因 AI 热而一跃成为全世界市值最高的企业，其市盈率超过 45 倍，企业价值接近 24 倍销售额。思科在 2000 年市盈率超过 200 倍，企业价值 31 倍销售额。",
-          "link": "https://www.solidot.org/story?sid=83038",
-          "publishedOn": "2025-12-12T08:04:21.000Z",
-          "wordCount": 187,
-          "title": "思科股价超过互联网泡沫期间创下的峰值记录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83037",
-          "author": null,
-          "description": "Linux PC 制造商 System76 开发的发行版 Pop!_OS 在延期了一年半之后终于释出了 Pop!_OS 24.04 LTS，它同时发布了用 Rust 语言重写的桌面环境 COSMIC。Pop!_OS 是基于 Ubuntu LTS 版，原计划与 Ubuntu LTS 发布步伐保持一致，但因为 COSMIC 开发进度滞后而延期。Pop!_OS 24.04 LTS 的主要变化包括：支持 ARM 架构的计算机；新的混合显卡支持，用户可以右键应用选择运行在独显还是集显上，需要独显运行的应用会自动运行在独显上；更好的硬件支持；等等。",
-          "link": "https://www.solidot.org/story?sid=83037",
-          "publishedOn": "2025-12-12T07:47:54.000Z",
-          "wordCount": 195,
-          "title": "Pop!_OS 24.04 LTS 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83035",
-          "author": null,
-          "description": "Terraform Labs 创始人 Do Kwon 因欺诈罪和合谋罪被美国纽约联邦法院判处 15 年徒刑。他还面临韩国的指控，根据认罪协议，在美国服完一半刑期之后可以引渡到韩国受审。Terraform 发行了被称为 Terra USD（UST）的算法稳定币，2022 年 5 月 UST 币值崩溃导致关联代币 LUNA 几乎跌至一文不值，客户损失了 400 亿美元。Do Kwon 是韩国公民，他的公司总部位于新加坡，他于 2023 年 3 月在黑山被捕，2024 年底被引渡到美国受审。今年 8 月他承认在声称其代币能在加密货币市场波动期间保持价格稳定上误导投资者。",
-          "link": "https://www.solidot.org/story?sid=83035",
-          "publishedOn": "2025-12-12T06:57:44.000Z",
-          "wordCount": 201,
-          "title": "Do Kwon 被判 15 年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83034",
-          "author": null,
-          "description": "根据美国官员披露的一份新提议，英国等国的入境游客可能需要提供五年的社交媒体历史记录。新规定将影响以前只要填写电子旅行授权系统（ESTA）表格即可免签入境美国停留 90 天的数十个国家的游客。自今年 1 月重返白宫以来，特朗普一直以国家安全的名义加强美国边境管控。分析人士认为这项新计划可能会阻碍潜在游客入境，或损害他们的数字权利。当被问及此举是否会导致旅游业大幅下滑时，特朗普表示并不担心，表示要确保不让不该来的人进入美国。",
-          "link": "https://www.solidot.org/story?sid=83034",
-          "publishedOn": "2025-12-11T16:16:39.000Z",
-          "wordCount": 161,
-          "title": "美国可能要求入境游客提供五年社交媒体记录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83033",
-          "author": null,
-          "description": "因 HDMI 标准授权组织 HDMI Forum 在 2021 年关闭了 HDMI 2.1 规格的公开访问，开源驱动的发布需要征得 HDMI Forum 的批准，2024 年它拒绝了 AMD 发布开源驱动的尝试，阻止了 AMD 的 FreeSync 在 Linux 平台通过 HDMI 连接支持 120 Hz@4K 或 240 Hz@5K 显示。如今 Steam Machine 的开发商 Valve 证实 HDMI Forum 在继续阻挠 Linux 上的 HDMI 2.1 实现。Steam Machine 在理论上支持 HDMI 2.1，但被软件限制为 HDMI 2.0，基本上难以实现超过 60 Hz@4K 的显示。Valve 表示已在 Windows 下验证了 HDMI 2.1 硬件。",
-          "link": "https://www.solidot.org/story?sid=83033",
-          "publishedOn": "2025-12-11T15:48:09.000Z",
-          "wordCount": 243,
-          "title": "HDMI Forum 继续阻挠 Linux 上的 HDMI 2.1 实现",
           "imageUrl": null
         }
       ]
