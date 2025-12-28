@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2025-12-27T03:21:11.041Z</updated>
+    <updated>2025-12-28T03:45:28.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Calibre 引入 AI “讨论”功能]]></title>
+        <id>https://www.solidot.org/story?sid=83161</id>
+        <link href="https://www.solidot.org/story?sid=83161"/>
+        <updated>2025-12-27T15:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Calibre 本月初释出了受争议的更新，引入 AI“讨论”功能。该功能由 Amir Tehrani 于今年 8 月提出，Calibre 作者兼维护者 Kovid Goyal 欣然接受，首个包含 AI 功能的版本于 12 月初释出。他承诺 Calibre 绝对不会未经用户明确同意选择加入的情况下使用第三方 AI 服务。对于用户的反对，他强调不会移除。在更新之后用户会在“视图”菜单下看到 AI 功能“Discuss selected books with AI”。如果没有配置 GitHub AI 的访问令牌或 Google AI 的 API 密钥，或者通过 LM Studio 或 Ollama 本地运行模型，该功能实际上没什么用。对大多数用户而言，它就是几个没什么用的菜单项。对于用户对 AI 的强烈反对，Goyal 也提供了选择，他放出了 Calibre 的所有版本提供下载，用户可以从 0.6.x-8.x 选择任意一个版本使用。目前开源社区还不存在功能上能替代 Calibre 的电子书管理软件。Calibre 加入 AI 凸显出无论用户是否想要，AI 都在缓慢的渗透到我们的生活之中。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在两年等待之后 FFmpeg 向瑞芯发出 DMCA 下架通知]]></title>
+        <id>https://www.solidot.org/story?sid=83160</id>
+        <link href="https://www.solidot.org/story?sid=83160"/>
+        <updated>2025-12-27T14:46:44.000Z</updated>
+        <summary type="html"><![CDATA[在 FFmpeg 开发者发出 DMCA 通知后，GitHub 下架了瑞芯（Rockchip）的开源媒体处理库 Media Process Platform。FFmpeg 是在 2024 年 2 月首次指控瑞芯违反了该开源项目使用的 LGPL 许可证。瑞芯拷贝了 FFmpeg 的源代码库，删除了原始作者声明，宣称自己拥有这些代码库的所有权，然后使用了不兼容于 LGPL 的 Apache
+许可证重新发布代码。FFmpeg 项目等待了差不多两年时间，但瑞芯的最后回应显示它无意解决问题。DMCA 通知要求删除侵权文件，或恢复正确的署名以及使用与 LGPL 兼容的许可证。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT 科学家首次合成有抗癌潜力的天然分子]]></title>
+        <id>https://www.solidot.org/story?sid=83158</id>
+        <link href="https://www.solidot.org/story?sid=83158"/>
+        <updated>2025-12-26T14:12:26.000Z</updated>
+        <summary type="html"><![CDATA[MIT 与丹娜法伯癌症研究院的科学家合作，首次在实验室成功合成了天然真菌分子“轮枝孢菌素A（verticillin A）”。该分子 50 多年前被首次发现，因其显著的抗癌潜力备受关注，但复杂的结构令其人工合成一直未能实现。研究成果发表于《美国化学会志》，有望开辟一类全新的抗癌药物研发路径。在最新研究中，研究团队不仅实现了轮枝孢菌素A的全合成，还以此为基础设计出多种新型衍生物。初步测试显示，部分衍生物对一种罕见的儿童脑癌——弥漫性中线神经胶质瘤表现出强大的抗肿瘤活性。研究团队从氨基酸衍生物β-羟色氨酸出发，逐步引入醇、酮、酰胺等化学官能团，并精准控制每一步的立体构型。历经16步精密反应，他们最终构建出轮枝孢菌素A分子。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国防科大磁悬浮试验车时速达到 700 公里]]></title>
+        <id>https://www.solidot.org/story?sid=83157</id>
+        <link href="https://www.solidot.org/story?sid=83157"/>
+        <updated>2025-12-26T14:05:38.000Z</updated>
+        <summary type="html"><![CDATA[国防科技大学透露，该校磁悬浮团队成功在两秒内，将吨级重的试验车加速至 700 公里/小时，测试速度打破了同类型平台全球记录，成为全球最快的超导电动磁悬浮试验速度。磁悬浮列车速度更快、加速减速更出色，维护成本更低，但建造成本更高，而且不兼容现有铁路设施。至今只有七列磁悬浮列车在运行——中国四列，韩国两列，日本一列。有两条城际磁悬浮线路正在建造，其中一条连接日本东京和名古屋，另一条连接湖南长沙和浏阳。日本实验性磁悬浮列车 L0 Series 曾在 2015 年创造了 603 km/h 的速度记录。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ozempic 悄悄重塑我们的购物习惯]]></title>
+        <id>https://www.solidot.org/story?sid=83156</id>
+        <link href="https://www.solidot.org/story?sid=83156"/>
+        <updated>2025-12-26T10:39:32.000Z</updated>
+        <summary type="html"><![CDATA[流行 GLP-1 减肥药如 Ozempic 不仅能帮助我们减轻体重，还会悄悄重塑我们的购物习惯，减少购买食品。根据发表在《Journal of Marketing Research》期刊上的研究，研究人员发现，服用 GLP-1 的家庭在六个月内食品杂货支出减少 5.3%。高收入家庭降幅更大为 8.2%。其中咸味零食的支出降幅最大。服用 GLP-1 的家庭在食品上的支出平均减少 10.1%。值得一提的是 GLP-1 服用者在酸奶和新鲜水果等健康食品上增加了支出。然而如果停止服用 GLP-1，研究人员观察到他们很快又恢复了过去的购买习惯，他们会在几个月内恢复大部分减掉的体重。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币矿场转型 AI 数据中心]]></title>
+        <id>https://www.solidot.org/story?sid=83155</id>
+        <link href="https://www.solidot.org/story?sid=83155"/>
+        <updated>2025-12-26T09:17:10.000Z</updated>
+        <summary type="html"><![CDATA[比特币挖矿难度在 2024 年翻倍，它的币值从今年 10 月创下的 12 万美元峰值跌至不到 9 万美元。尽管如此，比特币矿场的 ETF 今年飙升了约 90%，原因不是比特币，而是因为矿场纷纷转型 AI 数据中心。AI 竞争所亟需的资产恰好比特币矿场都有：数据中心、冷却系统、土地以及电力合同。当然 AI 数据中心需要更先进的冷却和网络系统，需要用英伟达的 GPU 替换专用矿机，但通过与矿场合作，AI 公司利用现有设施比从零开始建造新数据中心更快更便宜。以 Core Scientific 矿场为例，该公司认为转型为 AI 数据中心是难以想象的极佳机遇，它计划 2028 年完全退出比特币挖矿业务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hills Lite – 一个简单的 Emby 客户端[Windows]]]></title>
         <id>https://www.appinn.com/hills-lite/</id>
@@ -14,6 +75,36 @@
         <summary type="html"><![CDATA[如果你有 Emby 服务器，又想再在 Windows 下观看，那么可以试试这款 Emby 客户端，简单易用。@Appinn Hills Lite 一款支持emby的播放器 来着 JOTARO 同学的推荐。 不得已，青小蛙又翻出了许久不用的 Emby 服务器，启动： 还怪好用的嘞。 Hills Lit]]></summary>
         <author>
             <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙可能是不对称的]]></title>
+        <id>https://www.solidot.org/story?sid=83154</id>
+        <link href="https://www.solidot.org/story?sid=83154"/>
+        <updated>2025-12-26T07:48:51.000Z</updated>
+        <summary type="html"><![CDATA[现代宇宙学的基础建立在宇宙学原理的假设之上，认为宇宙在大尺度是均匀对称的，在任何地方、任何方向上看起来都一样。然而一项强而有力的最新证据显示，这个基本假设可能是错误的。一个被称为宇宙偶极异常（Cosmic Dipole Anomaly）的谜团正挑战对宇宙的理解。过去科学家早已观测到宇宙微波背景辐射（CMB）存在明确的偶极现象，天空的一侧温度略高，而另一侧则略低，差异约为千分之一。这个现象被普遍认为是运动学效应导致，也就是太阳系、银河系乃至整个本星系群，正以每秒数百公里的速度在宇宙中穿梭。1984 年天文学家 George Ellis 和 John Baldwin 提出了一项检验方法。他们指出，若我们的运动是造成 CMB 偶极的唯一原因，那么这种运动也应该在遥远天体的空间分布上留下一个相对应的偶极，这项检验方法被称为 Ellis & Baldwin test。由于相对论效应，科学家预期在物质分布上观测到的偶极讯号其幅度不仅是与 CMB 偶极相同，还会根据天体数量、光谱特性相关的因素放大。然而异常之处就在此：尽管观测到物质分布的偶极方向与 CMB 偶极的方向一致，但其幅度却异常地大于已经被放大过的理论预测值。这意味着宇宙中的物质分布比单纯由我们的运动所能解释的更加不对称，宇宙可能天生就是歪斜的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vizio GPL 合规诉讼法官裁决 Vizio 无需提供安装修改软件所需的签名密钥]]></title>
+        <id>https://www.solidot.org/story?sid=83153</id>
+        <link href="https://www.solidot.org/story?sid=83153"/>
+        <updated>2025-12-26T07:41:50.000Z</updated>
+        <summary type="html"><![CDATA[2021 年致力于推广开源软件和捍卫自由软件 GPL 许可证的非盈利组织 Software Freedom Conservancy(SFC) 对 Vizio 提起诉讼，指控其多次未能履行 GPL 许可证的基本要求。Vizio 是一家产品主要为高清电视机的消费电子品牌，创始人是王蔚。SFC 称 Vizio 电视机产品使用的 SmartCast 系统包含了 GPL 授权的软件，按照 GPL 许可证要求，购买 Vizio 产品的消费者有权访问源代码，允许对源代码进行修改、研究和在适当条件下重新发行。SFC 寻求 Vizio 履行其合规义务。现在法官做出一项裁决：GPLv2 许可证并不要求提供在设备上安装软件修改版本所需的签名密钥。Linus Torvalds 认为 GPLv2 许可证所要求的是提供源代码，针对的是软件，而不是扩大到硬件，要求获得硬件的访问权限。GPLv2 并没有强迫厂商开放硬件。Torvalds 批评（或者说抨击）了 SFC 的做法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elementary OS 8.1 释出]]></title>
+        <id>https://www.solidot.org/story?sid=83152</id>
+        <link href="https://www.solidot.org/story?sid=83152"/>
+        <updated>2025-12-26T07:04:49.000Z</updated>
+        <summary type="html"><![CDATA[以易于使用著称、基于 Ubuntu 的发行版 elementary OS 释出了 v8.1 版本。主要变化包括：默认使用 Wayland  会话；改进窗口管理和多任务处理等。Elementary OS 8.1 支持 Arm64 设备，意味着用户可以在 Apple M 系列设备或其它支持加载 UEFI 固件的设备上运行 elementary OS。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -657,149 +748,6 @@ Masonry Layout is Now grid-lanes originally published on CSS-Tricks, which is pa
         <summary type="html"><![CDATA[伊朗的水危机严重到总统宣布要迁都，但远水解不了近渴，迁都预计将需要花费数十年时间花费上千亿美元，无法缓解当前的危机。水文学家表示这场危机的直接原因是降雨量不足，但根源可以追溯到过去半个世纪鲁莽的水利工程。伊朗在 20世纪后半期是世界三大水坝建设国之一，数十座水坝建在原本水量不足以维持其正常运转的河流上，水库没有解决缺水，反而因为水面蒸发加剧流失，同时降低下游河流的水流量，导致湿地和地下水资源枯竭。今天水坝后的许多水库都干涸了。上游的阿富汗也在修建水坝，导致进入伊朗境内的河流水量减少。地表水资源匮乏，地下水情况则更糟糕。过去 40 年伊朗打了逾百万口井，配备了大功率水泵，目的是灌溉干旱的农田，实现粮食自给自足。但结果是曾经储量丰富的含水层遭到过度抽取。过去二十年伊朗地下水储量损失逾 210 立方公里。一项国际研究发现，全球过度抽取地下水的 50 个含水层有 32 个位于伊朗。水文专家表示伊朗正处于水资源破产的边缘。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Search CSS-Tricks Raycast Extension]]></title>
-        <id>https://css-tricks.com/?p=391171</id>
-        <link href="https://css-tricks.com/search-css-tricks-raycast-extension/"/>
-        <updated>2025-12-18T15:34:23.000Z</updated>
-        <summary type="html"><![CDATA[Jelte Lagendijk built a Raycast extension for searching CSS-Tricks articles where you simply type and a get a solid set of real-time results.
-Search CSS-Tricks Raycast Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥斯卡奖直播从 2029 年起从 ABC 转到 YouTube]]></title>
-        <id>https://www.solidot.org/story?sid=83097</id>
-        <link href="https://www.solidot.org/story?sid=83097"/>
-        <updated>2025-12-18T14:38:27.000Z</updated>
-        <summary type="html"><![CDATA[奥斯卡颁奖典礼自 1976 年起一直由迪士尼的 ABC 转播，但从 2029 年起它将由全球最大的视频平台、Google 的 YouTube 免费转播。ABC 转播权到 2028 年第 100 届颁奖典礼截至。YouTube 的转播除了颁奖典礼外，还将提供大量花絮，包括红地毯前秀、幕后花絮、访谈、电影教育节目，播客等等。Google 还将为美国电影艺术与科学学院博物馆藏品数字化提供协助。YouTube 的目标是打造成为全世界最强大的平台，获得全球最有知名度的颁奖典礼无疑是其一大成就。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF Craft – 基于 DeepSeek OCR，实现扫描版 PDF 的高保真电子书转换]]></title>
-        <id>https://www.appinn.com/pdf-craft/</id>
-        <link href="https://www.appinn.com/pdf-craft/"/>
-        <updated>2025-12-18T12:21:18.000Z</updated>
-        <summary type="html"><![CDATA[先看图1： 再看图2： 这两个效果，均是使用基于 DeepSeek OCR 的 PDF Craft 实现，非常的赞。 还有图3 群里的小伙伴推荐： PDF Craft 是什么？ PDF Craft 是工作流 IDE 软件 OOMOL Studio 使用 MIT 授权开源的项目，只做一件事： 将 PD]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[德国法庭裁决亚马逊不能强迫客户观看 Prime Video 广告]]></title>
-        <id>https://www.solidot.org/story?sid=83096</id>
-        <link href="https://www.solidot.org/story?sid=83096"/>
-        <updated>2025-12-18T10:37:31.000Z</updated>
-        <summary type="html"><![CDATA[根据慕尼黑地方法院的判决，亚马逊不得在德国单方面更改其流媒体服务 Prime Video 的合同条款。该判决尚未生效，亚马逊保留上诉权。亚马逊发言人表示将评估判决以决定下一步行动。德国消费者权益组织 Bundesverband der Verbraucherzentralen 针对亚马逊的诉讼获胜。法院表示。亚马逊需向客户发送一份“更正信函”。根据判决，亚马逊在 2024 年初通过邮件通知 Prime Video 用户，自 2 月起将在有限范围内插播广告；不愿观看广告的用户需每月额外支付 2.99 欧元。法院第 33 民事庭认为，这一做法违反了公平竞争原则。法官认为，亚马逊的邮件内容具有误导性。判决指出，亚马逊向客户暗示其有权单方面更改合同条款，但法院认为，亚马逊的用户条款以及相关法律均不允许单方面变更条款。客户在签订合同时是基于无广告的服务承诺，亚马逊已将无广告内容作为“合同标的”，因此必须遵守这一承诺。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丹麦政府测试迁移到 Linux 操作系统]]></title>
-        <id>https://www.solidot.org/story?sid=83095</id>
-        <link href="https://www.solidot.org/story?sid=83095"/>
-        <updated>2025-12-18T10:05:20.000Z</updated>
-        <summary type="html"><![CDATA[丹麦 IT 部长向交通部移交了首台没有安装任何微软软件的 Linux 笔记本电脑。交通部是名为 SIA Open 的试点项目的首个客户，最终目标是让 1.5 万用户使用开源替代，避免过度依赖微软等私有软件供应商，掌控系统和数据的主权。交通部门的负责人 Stefan Søsted 表示要确保自己知道重要的信息储存在什么地方。相比私有软件，开源替代并不逊色且价格更低。微软丹麦分公司回应称，微软的解决方案定价合理且具有竞争力，兼具高安全性、创新性和高效协作性，微软欢迎竞争，开源与微软产品之间并不存在矛盾。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synology Drive 4.0 更新共享标签、文件请求、文件锁定功能]]></title>
-        <id>https://www.appinn.com/synology-drive-4-0/</id>
-        <link href="https://www.appinn.com/synology-drive-4-0/"/>
-        <updated>2025-12-18T09:27:10.000Z</updated>
-        <summary type="html"><![CDATA[昨天群晖发布了Synology Drive 4.0 功能更新，新增适合多用户使用共享标签、文件请求、文件锁定功能。 Synology Drive 4.0 有什么新功能 Synology Drive 就是群晖的网盘，让你可以在不同的设备上访问保存在群晖中的文件。 这次 4.0 更新了 windows、]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iRobot 会继续在美国保存用户数据]]></title>
-        <id>https://www.solidot.org/story?sid=83094</id>
-        <link href="https://www.solidot.org/story?sid=83094"/>
-        <updated>2025-12-18T08:52:21.000Z</updated>
-        <summary type="html"><![CDATA[扫地机器人 Roomba 的制造商 iRobot 最近申请破产重组。根据重组协议，iRobot 的控制权将转交给其代工厂及最大债权人深圳杉川机器人公司。公司 CEO Gary Cohen 接受日经采访时表示，破产原因是产品技术创新方面落后中国竞争企业四年。关于进入杉川集团旗下后的业务运营，他表示：“将保持 Roomba 的品牌和各地区的销售体制，并引入中国的产品开发速度”。他主张称，计划将总部功能和营销部门留在美国，以此“与（其他）中国企业划清界限”。关于 Roomba 收集的数据的管理，他明确表示：“现在和今后都不会（保存在中国的服务器上）”。他同时强调，云服务的利用和应用程序开发将继续保持以美国为中心的体制。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[索尼和腾讯就抄袭《地平线》达成和解，游戏下架]]></title>
-        <id>https://www.solidot.org/story?sid=83093</id>
-        <link href="https://www.solidot.org/story?sid=83093"/>
-        <updated>2025-12-18T08:26:56.000Z</updated>
-        <summary type="html"><![CDATA[索尼互动于今年 7 月向加州法庭起诉腾讯抄袭其《地平线》系列游戏，指控腾讯版权和商标侵犯。腾讯旗下工作室 Polaris Quest 最近发布了《Light of Motiram》的预告片，该游戏背景与索尼旗下工作室 Guerrilla Games 
-开发的《地平线（Horizon）》 系列游戏《地平线零之曙光》和《地平线 西之绝境》几乎如出一辙，都发生在机械占领的末世后文明世界，女主角身穿类似猎人的服装与机械生物进行战斗。索尼称，腾讯曾试图获得《地平线》系列的 IP 授权但遭到了它的拒绝。本周双方达成了不公开的和解，《Light of Motiram》已经在 Steam 和  Epic Games Store 下架。索尼和腾讯都拒绝对此发表进一步的评论。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[厨房里的塑料材料]]></title>
-        <id>https://www.solidot.org/story?sid=83092</id>
-        <link href="https://www.solidot.org/story?sid=83092"/>
-        <updated>2025-12-18T08:08:56.000Z</updated>
-        <summary type="html"><![CDATA[塑料开启了全新的便利时代，从此廉价的一次性用品充斥着千家万户。但普通人也因此暴露在成千上万种化学物质中，这些物质会从塑料制品渗入尘埃、食物和水，最终进入人体。瑞士和挪威科学家建立了一个数据库，记录了与塑料相关的 1.6 万种化学物质。这 1.6 万种化学物质中，有逾 5400 种被认为对人类健康有害，仅 161 种被认定为无害，其余逾万种物质尚缺乏足够数据评估其安全性。这些化学物质通过多种途径进入食物：黑色塑料餐具和托盘通常含有溴化阻燃剂，溴化阻燃剂已被证实与儿童智商下降和神经发育问题有关，研究发现孕妇体内溴化阻燃剂水平每增加 10 倍，其子女的智商平均会下降 3.7 点；不粘锅、可降解餐盘和餐具通常含有全氟烷基和多氟烷基物质（PFAS）。这些化学物质在环境中或人体内需要数年才能分解，它们与肾癌、睾丸癌以及儿童自闭症和多动症等发育问题相关。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 年 Steam 用户 14% 的游戏时间是花在新游戏上]]></title>
-        <id>https://www.solidot.org/story?sid=83091</id>
-        <link href="https://www.solidot.org/story?sid=83091"/>
-        <updated>2025-12-18T07:15:14.000Z</updated>
-        <summary type="html"><![CDATA[根据 Steam Replay 2025 年度总结，2025 年 Steam 用户 14% 的游戏时间是花在新游戏上，44% 的游戏时间花在 1 至 7 年历史的游戏上，40% 的游戏时长花在超过八年的游戏上——长久不衰的游戏如 DOTA 2 和《绝地求生（PUBG: Battlegrounds）》都属于这一类别。Steam 用户平均玩的游戏数量只有 4 款，PC 玩家和主机玩家类似，都越来越倾向于少数几款游戏。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在向 MAGA 捐赠了逾 200 万美元后美参议院确认 Jared Isaacman 的 NASA 局长任命]]></title>
-        <id>https://www.solidot.org/story?sid=83090</id>
-        <link href="https://www.solidot.org/story?sid=83090"/>
-        <updated>2025-12-18T06:50:08.000Z</updated>
-        <summary type="html"><![CDATA[亿万富翁 Jared Isaacman 的 NASA 局长任命堪称一波三折：特朗普最初提名 Isaacman 为 NASA 局长，但五月撤回了提名，当时特朗普与马克斯（Elon Musk）关系破裂，而 Isaacman 是马斯克青睐的人选。Isaacman 此后加强了对特朗普阵营的个人攻势，包括向特朗普的政治行动委员会 MAGA Inc.两次捐赠了 100 万美元，以及向共和党全国委员会捐赠 17.5 万美元，从而改善了与特朗普的关系，重新获得了特朗普的任命。本周美国参议院以 67 票赞成 30 票反对确认了对 Isaacman 的 NASA 局长任命。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coursera 以 9.3 亿美元收购 Udemy]]></title>
-        <id>https://www.solidot.org/story?sid=83088</id>
-        <link href="https://www.solidot.org/story?sid=83088"/>
-        <updated>2025-12-18T06:14:01.000Z</updated>
-        <summary type="html"><![CDATA[美国在线学习平台 Coursera 宣布达成全股票交易收购竞争对手 Udemy，合并后的公司估值 25 亿美元。新冠疫情期间在线教育的需求一度激增，但疫情后需求下降，在线教育行业陷入困境。根据收购协议，Udemy 股东每持有 1 股 Udemy 股票将获得 0.8 股 Coursera 股票，对 Udemy 的估值约为 9.3 亿美元。交易预计将于明年下半年完成，仍需获得监管机构和股东的批准。Coursera 业务模式是与大学和机构合作提供学位课程和专业证书；而 Udemy 则运营着一个让独立讲师直接向消费​​者和企业销售课程的市场。两家公司的股价今年都出现了下跌，合并后的公司将致力于吸引企业客户，为公司员工提供 AI、数据科学和软件开发方面的再培训。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊海外购：西部数据 14TB 外置硬盘补货]]></title>
-        <id>https://www.appinn.com/amazon-cn-wd-18tb-2025/?Updated.2025-12-18</id>
-        <link href="https://www.appinn.com/amazon-cn-wd-18tb-2025/"/>
-        <updated>2025-12-18T01:33:59.000Z</updated>
-        <summary type="html"><![CDATA[昨天的西部数据 20TB 外置硬盘（机械硬盘）已无货，今天还有14TB，售价 ¥1365.03，进口税 ¥144.06，到手价 ¥1509.09，平均每TB 大约 ¥108，非常划算了。 推荐给有额外硬盘需求的各位，以及这款硬盘可以拆机后放入 NAS（视频教程）： 以下内容为12月17日更新：👇 现]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Responsive List of Avatars Using Modern CSS (Part 2)]]></title>
-        <id>https://css-tricks.com/?p=390660</id>
-        <link href="https://css-tricks.com/responsive-list-of-avatars-using-modern-css-part-2/"/>
-        <updated>2025-12-17T15:21:34.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we follow up the work we did to create responsive rows of circular images in a previous article by arranging the images around a circle with a clean hover effect.
-Responsive List of Avatars Using Modern CSS (Part 2) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
         </author>
     </entry>
     <entry>
