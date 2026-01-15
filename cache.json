@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/logi-options-plus-mini/",
+          "author": "青小蛙",
+          "description": "tjsky 觉得罗技官方的 Logi Options+ 臃肿（登录、AI、广告、冗余快捷启动等），并发布了自己 Fork 并优化的精简安装脚本 tjsky/logi-options-plus-mini，只安装纯净的驱动，剔除 AI、分析、广告等垃圾组件。阅读原文：https://meta.appin",
+          "link": "https://www.appinn.com/logi-options-plus-mini/",
+          "publishedOn": "2026-01-14T08:50:47.000Z",
+          "wordCount": 2759,
+          "title": "罗技驱动 Logitech Options+ 精简瘦身小工具",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-21.jpg"
+        },
+        {
           "id": "https://www.appinn.com/apple-creator-studio/",
           "author": "青小蛙",
           "description": "苹果昨天夜里悄悄发布了 Apple Creator Studio，将原本大几千的软件打包成订阅制，普通用户 38 元/月，学生 18 元/月，包括 Final Cut Pro、Logic Pro、Pixelmator Pro、Motion、Compressor 与 MainStage，以及带 AI",
@@ -159,6 +169,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=391494",
+          "author": "Geoff Graham",
+          "description": "Super cool new CodePen feature alert! You've probably seen a bunch of \"interactive\" demos that let you changed values on the fly from a UI panel embedded directly in the demo.\nPlaying With CodePen slideVars originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/playing-with-codepen-slidevars/",
+          "publishedOn": "2026-01-14T14:59:07.000Z",
+          "wordCount": 1326,
+          "title": "Playing With CodePen slideVars",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/codepen-slidevars.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391345",
           "author": "Lee Meyer",
           "description": "Lee Meyer recently spoke at Web Directions Summit 2025. This is his experience, not only speaking at the event, but experiencing the event through the lens of anxiety and imposter syndrome.\nPostcard From Web Directions Dev Summit, 2025 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -206,24 +226,183 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=12014",
-          "author": "张 鑫旭",
-          "description": "还在使用style元素和innerHTML在页面中插入CSS代码吗？试试使用CSSStyleSheet构造函数吧，更灵活更方便。",
-          "link": "https://www.zhangxinxu.com/wordpress/2026/01/dom-cssstylesheet/",
-          "publishedOn": "2026-01-05T08:32:39.000Z",
-          "wordCount": 1578,
-          "title": "学会使用CSSStyleSheet构造CSS样式",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83308",
+          "author": null,
+          "description": "将近十年时间里，伊朗尝试构建了一个被称为 National Information Network 的互联网平行版本，它又被称为清真互联网（halal internet）。但清真互联网失败了，被证明存在太多漏洞。因此伊朗采取了完全切断互联网的信息控制方法，这就是它上周四采取的措施。这次网络封锁是如此彻底，以前被列入白名单的政府自己内部使用的 SIM 卡也无法访问互联网。突破封锁主要靠走私入境的 Starlink，但 Starlink 也受到严重干扰。伊朗用户还利用现有的简陋互联网基础设施将政府批准的电邮网络变成与外界沟通的消息服务，一种纯文本浏览器服务也有助于绕过封锁。",
+          "link": "https://www.solidot.org/story?sid=83308",
+          "publishedOn": "2026-01-14T16:48:07.000Z",
+          "wordCount": 168,
+          "title": "伊朗如何关闭互联网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83307",
+          "author": null,
+          "description": "安全公司 Checkpoint 的研究人发现了设计针对云端主机的 Linux 恶意程序 VoidLink。VoidLink 包含逾 30 个模块，攻击者能根据受感染机器的具体需求定制功能。VoidLink 能检测被感染机器是否托管在 AWS、GCP、Azure、阿里巴巴和腾讯等主流云服务。开发者还计划未来版本添加对华为、DigitalOcean 和 Vultr 等云服务的支持。研究人员猜测，随着越来越多的企业将工作负载迁移到 Linux 系统、云基础设施和应用程序部署环境，攻击者也随着将攻击目标扩大到此类环境。VoidLink 的界面为中文操作者进行了本地化，表明它可能源自中文开发环境。源代码中的符号和注释表明，VoidLink 仍在开发之中。Checkpoint 未发现任何实际感染，意味着其开发尚未完成。",
+          "link": "https://www.solidot.org/story?sid=83307",
+          "publishedOn": "2026-01-14T15:51:08.000Z",
+          "wordCount": 183,
+          "title": "安全研究员发现针对云服务器的 Linux 恶意程序",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83306",
+          "author": null,
+          "description": "漫画《呆伯特（Dilbert ）》作者 Scott Adams 因前列腺癌去世，享年 68 岁。《呆伯特》是讽刺格子间职场文化的作品，在其鼎盛时期曾同时在 2000 家日报上连载。在漫画中，呆伯特是一位缺乏社交技能的工程师，他的上司“老板”则是糟糕上司的典型代表，总是让工程师的工作变得艰难。Scott Adams 在生命的最后二十年从漫画转向政界，日益直言不讳的表达其保守观点和对特朗普的支持。他因为种族主义言论而导致《呆伯特》漫画被大部分主流媒体停止刊登。在去世前几天他还上直播讽刺抗议 ICE 的自由派女性。",
+          "link": "https://www.solidot.org/story?sid=83306",
+          "publishedOn": "2026-01-14T12:45:56.000Z",
+          "wordCount": 182,
+          "title": "《呆伯特》作者 Scott Adams 因癌症去世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83305",
+          "author": null,
+          "description": "内存价格暴涨，而这一涨势预计会持续到 2027 年，主要 PC 厂商已经考虑降低中低端 PC 产品的内存容量，比如 32GB DDR5 降至 16GB 甚至 8GB。内存和硬盘成本的上升最终也将会转嫁到消费者身上。内存短缺也冲击了 AI PC 这一概念。如果内存规格降低，那么本地 AI 功能也将受到影响，所以如今也没多少人谈论 AI PC。IDC 的经理 Jitesh Ubran 认为内存价格可能到 2027 年才能稳定下来，到供应充足还需要一段时间。",
+          "link": "https://www.solidot.org/story?sid=83305",
+          "publishedOn": "2026-01-14T10:28:35.000Z",
+          "wordCount": 192,
+          "title": "内存短缺冲击 AI PC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83304",
+          "author": null,
+          "description": "根据 Netblocks 以及 Cloudflare Rader 的监测，伊朗全国断网六天。自 2025 年 12 月起，伊朗发生了一系列抗议活动，起因是民众对通货膨胀飙升、食品价格上涨以及伊朗里亚尔大幅贬值感到不满。示威活动最初由店主和市场商贩发起，进入新年后，抗议规模日益扩大。维基百科数据显示，目前有逾万人死亡，逾 1.6 万人被捕。",
+          "link": "https://www.solidot.org/story?sid=83304",
+          "publishedOn": "2026-01-14T09:07:45.000Z",
+          "wordCount": 170,
+          "title": "伊朗断网六天",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83303",
+          "author": null,
+          "description": "NASA 研究人员报告，北极野火数量在上升。相比过去几十年，野火规模更大、温度更高、持续时间更长。这一趋势与该地区气候变化密切相关。北极升温速度几乎是全球平均水平的四倍，降雨和降雪的减少，土壤湿度的下降，都让地表更容易燃烧。闪电是北极野火的主要点火源，而北极闪电的频率也在增加。北美北极地区的火灾面积平均约为 20 世纪中期的两倍。低强度火灾通常不会造成太大影响，但高强度火灾则可能造成严重影响。",
+          "link": "https://www.solidot.org/story?sid=83303",
+          "publishedOn": "2026-01-14T09:03:17.000Z",
+          "wordCount": 160,
+          "title": "北极野火数量在上升",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83302",
+          "author": null,
+          "description": "美国商务部周二提出了关于 AI 半导体出口管理的新规则方案，将以获得许可为前提，允许部分 AI 半导体对华出口。设想主要面向在中国开展业务的西方企业，对总部设在中国大陆和澳门的中国企业的出口仍为“原则上禁止”。商务部要求英伟达等出口企业对中国的出口数量不得超过其在美国国内总出货量的 50%。新规还要求出口企业优先考虑美国国内 AI 半导体需求者的订单，将美国国内剩余的部分用于对华出口。目的是，即使向中国出口 AI 半导体，也要确保中国的 AI 开发能力不会超过美国。对于在中国方面接收产品的客户，还增加了严格进行身份验证的条件。为了证明出口产品的性能在 H200 以下，还必须接受美国国内的第三方机构的样品性能测试。",
+          "link": "https://www.solidot.org/story?sid=83302",
+          "publishedOn": "2026-01-14T07:46:18.000Z",
+          "wordCount": 178,
+          "title": "美国附条件解禁对华 AI 半导体出口",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83301",
+          "author": null,
+          "description": "哈瓦那综合症首次引起公众注意是在 2016 年，美国驻古巴哈瓦那大使馆的几十名外交官抱怨身体不适。症状包括偏头痛、恶心、记忆力减退和头晕。此后维也纳、巴黎、日内瓦等地的美国驻外外交人员、官员和家庭成员也报告了类似的症状。根据美国五角大楼的调查，它在拜登政府期间斥资数百万美元购买了一种设备，测试后认为它可能与哈瓦那综合症相关。这种设备包含了俄罗斯制造的零部件，但不是完全来自俄罗斯。这种设备可以装进一个背包里。有关该设备的更多细节没有披露。",
+          "link": "https://www.solidot.org/story?sid=83301",
+          "publishedOn": "2026-01-14T07:26:42.000Z",
+          "wordCount": 159,
+          "title": "美国五角大楼发现有设备与哈瓦那综合症相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83300",
+          "author": null,
+          "description": "2023 年 Google Chrome 移除了对实验性的 JPEG-XL 图像格式的支持。JPEG-XL 是免专利新的图像格式。Google 此举引发了很多争议，因为 Chrome/Chromium 占据了九成市场份额，它是 Web 标准事实上的仲裁者。到了 2025 年事情有了戏剧性转变。Google 改变了主意，开始恢复对 JPEG-XL 图像的支持，去年 12 月 Chrome/Chromium 代码库合并了 Rust 语言开发的 JPEG-XL 图像解码器 jxl-rs，本周基于 jxl-rs 的 JPEG-XL 图像解码功能默认启用。",
+          "link": "https://www.solidot.org/story?sid=83300",
+          "publishedOn": "2026-01-14T06:52:11.000Z",
+          "wordCount": 200,
+          "title": "Chrome/Chromium 恢复支持 JPEG-XL 图像",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83299",
+          "author": null,
+          "description": "Wine 11.0 正式释出。主要变化包括：全新的 WoW64 模式，支持 32 位甚至 16 位应用在 64 位前缀下以更简洁的方式运行；支持 Linux 6.14 的 NTSYNC 内核模块，显著改进游戏和多线程应用性能；统一的 Wine 二进制文件；支持 Vulkan API 1.4.335；通过 Direct3D 实现硬件加速的 H.264 解码；改进 Wine Wayland 驱动，支持剪贴板操作、IME 和创建非矩形窗口；等等。",
+          "link": "https://www.solidot.org/story?sid=83299",
+          "publishedOn": "2026-01-14T06:38:00.000Z",
+          "wordCount": 193,
+          "title": "Wine 11.0 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83298",
+          "author": null,
+          "description": "台媒报道，一加科技创始人兼 CEO、OPPO 高级副总裁兼首席产品官刘作虎，涉嫌未经主管机关许可，便绕道香港在台设立分公司，实则为深圳母公司从事手机软件研发与人才招揽，利用港商名义规避法律审查，6 年间砸下 7293 万美元，大规模挖角台湾 70 多位顶尖研发工程师。检方依违反两岸人民关系条例将台籍郑姓、林姓 2 名干部提起公诉；刘作虎则另行通缉。起诉书指出，深圳万普拉斯（OnePlus）公司董事长刘作虎为组建台湾研发团队，与郑女、林男达成协议。自 2014 年起，先在香港成立「一加公司」，隔年再以港商身分来台设立分公司（后更名为声赫公司）。林男在侦讯时供称，他受刘作虎指示担任研发部门负责人，陆续面试并聘雇了 70 多位台湾研发工程师。尽管这群工程师领的是台湾分公司的薪水，但其开发出的软件全数应用在 OnePlus 手机上，且行政、财务等营运细节，皆须向深圳母公司的主管汇报，年终奖金发放甚至要经过刘作虎点头才能决定。",
+          "link": "https://www.solidot.org/story?sid=83298",
+          "publishedOn": "2026-01-14T06:01:38.000Z",
+          "wordCount": 180,
+          "title": "一加 CEO 刘作虎被台湾通缉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83297",
+          "author": null,
+          "description": "Mozilla 释出了 Firefox 147。主要变化包括：Apple Silicon 设备上启用 WebGPU；通过为硬件解码视频启用零拷贝播放改进 AMD GPU 系统上的视频播放性能，使之与 Intel 和 NVIDIA GPU 系统相当；支持 Safe Browsing V5 协议，Enhanced Tracking Protection(ETP)设为严格的用户将默认启用本地网络访问限制，网站要访问本地网络资源需要得到用户的明确同意；支持 Freedesktop.org XDG Base Directory Specification；改进了 GNOME 桌面环境下分数比例显示渲染；修复多个沙箱逃逸漏洞，等等。",
+          "link": "https://www.solidot.org/story?sid=83297",
+          "publishedOn": "2026-01-13T16:41:03.000Z",
+          "wordCount": 192,
+          "title": "Firefox 147 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83296",
+          "author": null,
+          "description": "美国死于车祸的人多还是意外跌倒的人多？多数人可能会猜测是车祸，根据 2023 年的数据，当年有 47,026 人死于跌倒，44,762 人死于车祸。相比下 2000 年死于车祸的人数是跌倒的三倍，此后车祸死亡率下降了 13%，但跌倒死亡率上升了 2 倍。跌倒死亡率上升的一部分原因是人口老龄化。年龄是跌倒死亡风险的重要预测因素。从 40 岁开始，年龄每增加一岁跌倒死亡率就增加 9%-10%。65 岁以上人口占美国人口的比例从 2000 年的 12.4% 增加到 2023 年的 17.6%。85 岁及以上人群意外跌倒死亡率比 45-54 岁人群高出逾百倍。其它因素包括：抗抑郁药和精神治疗药物会增加跌倒风险，酒精消费也会增加跌倒风险，肥胖率上升也会增加跌倒风险。",
+          "link": "https://www.solidot.org/story?sid=83296",
+          "publishedOn": "2026-01-13T15:42:43.000Z",
+          "wordCount": 181,
+          "title": "为什么意外跌倒的死亡率在上升",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83295",
+          "author": null,
+          "description": "22 年前 John Gruber 发布了一种简化的纯文本格式系统 Markdown，意在让写作者们免于记忆晦涩的 HTML 标签。然而此后 Markdown 渗透到了现代计算系统的几乎每个角落。Google Docs、微软的 Windows 记事本、Slack、WhatsApp、Discord和 Apple Notes 全都加入了对 Markdown 的支持。今天炙手可热的大模型的输入输出都是由 Markdown 控制的。",
+          "link": "https://www.solidot.org/story?sid=83295",
+          "publishedOn": "2026-01-13T15:25:55.000Z",
+          "wordCount": 181,
+          "title": "Markdown 如何占领世界",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83294",
+          "author": null,
+          "description": "人类在宇宙中是孤独的吗？如果外星人真的存在，他们长什么样子？更重要的是，如果有一天我们真的收到了外星讯号，在没有共同语言的情况下要如何对话？星际旅行的距离远超想像。即使是离我们最近的恒星系统（半人马座α星）也超过 4 光年远。这意味着即使通讯极其乐观，一场来回对话可能也要耗时将近 10 年。在这种极端的距离下，传统的声音或文字通讯几乎不可能。科学家认为，我们需要一种不分文化、不分物种都能理解的宇宙共通语——而数学，或许就是呼声最高的候选者。 如果我们要测试数学是否为宇宙通用语，不一定要去外太空。科学家在地球上找到了一个理想的外星模型：蜜蜂。虽然蜜蜂与人类的祖先在 6 亿年前就分道扬镳了，且大脑结构完全不同，但蜜蜂却展现出了惊人的沟通与社会性。如果两个演化路径完全不同、大脑尺寸天差地远的物种（人类与蜜蜂），都能独立发展出数学能力，那么数学极可能不是人类的发明，而是智力发展的必然结果。",
+          "link": "https://www.solidot.org/story?sid=83294",
+          "publishedOn": "2026-01-13T14:00:20.000Z",
+          "wordCount": 165,
+          "title": "蜜蜂能教我们如何与外星人沟通",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83293",
+          "author": null,
+          "description": "根据发表在《Clinical Nutrition》期刊上的一项研究，摄入大量超加工食品与健康状况较差相关。研究人员招募了 43 名（36 人完成研究）年龄在 65 岁及以上的美国人，很多人都存在超重、胰岛素抵抗或高胆固醇等问题。他们接受了两种饮食干预方案，一种以廋肉等荤食为主，另一种则是搭配鸡蛋牛奶的素食为主。两种饮食都是低超加工食品，与他们平常食用的超加工食品显著不同。结果显示，减少超加工食品摄入期间，参与者热量摄入自然减少，体重减轻，全身脂肪和腹部脂肪都减少。除了体重减轻，他们的胰岛素敏感性、胆固醇水平、炎症迹象以及有助于调节食欲和新陈代谢的激素水平均有显著改善。荤食和素食的结果都类似。对老年人而言，减少超加工食品摄入量能带来显著的健康益处。",
+          "link": "https://www.solidot.org/story?sid=83293",
+          "publishedOn": "2026-01-13T13:12:52.000Z",
+          "wordCount": 163,
+          "title": "超加工食品高摄入量与健康较差相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83292",
+          "author": null,
+          "description": "中科院沙坡头沙漠研究试验站正通过向腾格里沙漠播撒蓝藻将沙地转化为可耕作土壤。这种蓝藻能耐高温与干旱，一旦降雨蓝藻会迅速繁殖扩散形成生物结皮层。结皮层既能固定沙丘，又能为农作物生长营造适宜环境。天然的结皮固沙技术需要十五年时间，混合蓝藻溶液、有机质和细颗粒物的方法将这一过程缩短至一两年，成活率 60% 以上。这是人类历史上首次大规模利用微生物改造自然景观。",
+          "link": "https://www.solidot.org/story?sid=83292",
+          "publishedOn": "2026-01-13T10:26:12.000Z",
+          "wordCount": 160,
+          "title": "中国用蓝藻改造沙漠",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83291",
           "author": null,
@@ -852,106 +1031,6 @@
           "publishedOn": "2026-01-06T06:50:30.000Z",
           "wordCount": 193,
           "title": "委内瑞拉事件前 BGP 路由发生异常",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83228",
-          "author": null,
-          "description": "影子图书馆安娜的档案（Anna's Archive）主域名 annas-archive.org 被封禁。运营者在其 subreddit 上表示这与该网站最近发布 300TB 的 Spotify 存档有关。.org 的运营者 Public Interest Registry(PIR)通常很少停用域名，它对 annas-archive.org 采取行动应该是收到了法庭命令。运营者建议用户访问它的其它域名如 annas-archive.in 或 annas-archive.pm。",
-          "link": "https://www.solidot.org/story?sid=83228",
-          "publishedOn": "2026-01-05T12:03:17.000Z",
-          "wordCount": 184,
-          "title": "安娜的档案 .org 域名被封禁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83227",
-          "author": null,
-          "description": "去年 12 月 27 日，《彩虹六号：围攻X》服务器遭到入侵，黑客向所有玩家赠送了逾 20 亿虚拟点数和稀有皮肤。12 月 29 日育碧对此次攻击采取了回滚操作。本周玩家再次报道黑客入侵了游戏服务器，这一次黑客没有送礼物，而是送出了封禁，封禁日期是 67 天——67 是著名的网络模因。根据育碧官方服务器状态页，《彩虹六号：围攻X》的 PC、PS4/5、Xbox Series X/S 和 Xbox One 服务器都报告遭遇计划外问题（unplanned issues）。有数以千计的玩家报告账号被封禁，其中包括游戏主播 VarsityGaming——其 YouTube 账号有 143 万粉丝。",
-          "link": "https://www.solidot.org/story?sid=83227",
-          "publishedOn": "2026-01-05T11:30:30.000Z",
-          "wordCount": 184,
-          "title": "《彩虹六号：围攻X》服务器再次遭到入侵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83226",
-          "author": null,
-          "description": "日本在留资格约有 30 种，其中永住者资格持有者最多，截至 2025 年 6 月底，有约 93 万人持有该资格，占在留外国人总数的 2 成。日本政府本月将召开会议，收紧永住资格的认可条件。讨论中的新规定包括将日语能力纳入申请要求；可能只有持 5 年期限资格的人能申请转换永住；第二大在留资格“技术·人文知识·国际业务”将限制资格外就业行为；“留学生”在留资格取消打工许可；居住 10 年以上才能申请加入日本国籍，对特殊人才有例外。",
-          "link": "https://www.solidot.org/story?sid=83226",
-          "publishedOn": "2026-01-05T10:24:52.000Z",
-          "wordCount": 172,
-          "title": "日本收紧外国人在留资格取得条件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83225",
-          "author": null,
-          "description": "Palo Alto Networks 首席安全情报官 Wendi Whitmore 认为，AI 智能体将成为企业在 2026 年最大的内部威胁。企业安全团队面临需要尽快部署新技术的巨大压力，他们承受着巨大的压力和工作量，需要快速完成采购流程、安全检查，了解新 AI 应用是否足够安全，能满足企业实际应用场景。根据 Gartner 的估计，到 2026 年底，40% 的企业应用将集成特定任务的 AI 智能体，而 2025 年该比例不到 5%。Whitmore 指出这种激增是一把双刃剑。根据其配置和权限，AI 智能体可能拥有敏感数据和系统的访问权限，这使得 AI 智能体成为极具吸引力的攻击目标。",
-          "link": "https://www.solidot.org/story?sid=83225",
-          "publishedOn": "2026-01-05T10:08:54.000Z",
-          "wordCount": 195,
-          "title": "AI 智能体将成为企业在 2026 年最大的内部威胁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83224",
-          "author": null,
-          "description": "捷克研究人员在《Communications Medicine》期刊上发表研究，分析了 95 个捷克家庭——其中 47 个纯素、23 个素食和 25 个杂食，共涉及 187 名成年人和 142 名儿童，而纯素和素食组的儿童会服用维生素 B12 和维生素 D 补充剂。研究人员比较了不同饮食组和不同年龄段儿童的生长发育、心血管健康、骨转换、碘摄入量和总体微量营养素水平，结果显示素食和非素食儿童生长发育无显著差异。他们的生长发育和骨骼健康都相似，而纯素组的胆固醇和心血管健康指标最出色，但碘含量较低——研究人员认为这值得关注。",
-          "link": "https://www.solidot.org/story?sid=83224",
-          "publishedOn": "2026-01-05T09:49:21.000Z",
-          "wordCount": 176,
-          "title": "研究未发现素食和非素食儿童生长发育有显著差异",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83223",
-          "author": null,
-          "description": "索尼 PS2 游戏机的模拟器项目 PCSX2 释出了 v2.6.0 版本。开发者表示这是至今规模最大的版本发布。主要变化包括：Big Picture 模式和 Qt 界面功能维持一致性；完成韩语游戏名翻译；Windows 和 Linux 支持创建游戏快捷方式；Big Picture 模式支持表情符号；改进混合和硬件渲染器，显著提升 Direct3D12 渲染器速度，部分游戏的性能提升逾 5 倍（主要是使用 AMD GPU 的系统）；等等。",
-          "link": "https://www.solidot.org/story?sid=83223",
-          "publishedOn": "2026-01-05T09:12:59.000Z",
-          "wordCount": 188,
-          "title": "PCSX2 2.6.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83222",
-          "author": null,
-          "description": "中科院等离子体物理研究所的全超导托卡马克核聚变实验装置（EAST）通过实验证实了托卡马克密度自由区的存在。托卡马克装置是一种利用磁约束来实现受控核聚变的环形装置，犹如一个螺旋形“磁跑道”，锁住高温等离子体，达到核聚变目的。等离子体密度是托卡马克性能的关键参数之一，直接影响聚变反应速率。过去，科研人员发现，等离子体密度存在一个极限，一旦达到极限，等离子体就会破裂并逃脱磁场约束，巨大能量释放到装置内壁，影响安全运行。国际聚变界通过长期研究发现，触发密度极限的物理过程发生于等离子体和装置内壁的边界区域，但对其中的物理机制并不十分清楚。最新研究中研究团队首次证实了托卡马克密度自由区的存在。",
-          "link": "https://www.solidot.org/story?sid=83222",
-          "publishedOn": "2026-01-05T07:57:42.000Z",
-          "wordCount": 162,
-          "title": "EAST 托卡马克装置证实密度自由区的存在",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83221",
-          "author": null,
-          "description": "行星通常与一颗或多颗恒星相互绑定，越来越多的证据表明，一部分行星正孤独地漫游于银河系中。被称为自由漂浮行星或流浪行星的天体不与任何已知恒星构成伴星系统。由于此类天体本身发光极其微弱，它们仅能通过其微弱的引力效应才能被人类探测到。微引力透镜探测法的局限之一是无法确定距离，因而难以独立测算其质量。研究人员通过一次转瞬即逝的微引力透镜事件发现了一颗新的流浪行星。与之前的探测不同，他们利用多个地面巡天观测和 Gaia 太空望远镜从地球和太空同步观测了这次微引力透镜事件。由于光线到达这些相距遥远观测点的时间存在细微差异，因此可以测量微引力透镜视差；结合有限源点透镜模型分析，作者得以确定该行星的质量和位置。其质量约为木星的 22%，距离银河系中心约 3000 秒差距。由于该行星的质量与土星相当，研究人员认为它诞生于恒星周围，通过引力激变而被逐出其原有轨道。",
-          "link": "https://www.solidot.org/story?sid=83221",
-          "publishedOn": "2026-01-05T07:42:26.000Z",
-          "wordCount": 167,
-          "title": "科学家测量流浪行星质量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83220",
-          "author": null,
-          "description": "Reddit 在英国超过 TikTok 成为访问量第四大的社媒平台。英国用户是仅次于美国用户的第二大访问人群，过去两年英国用户人数增长了 88%，Ofcom 的数据显示三分之二的英国网民会访问 Reddit，而 2023 年是三分之一。Reddit 在英国年轻人群中非常受欢迎，18-24 岁英国用户中 Reddit 是访问量第六大的网站，而一年前这一数字是第十。Reddit 的崛起背后的因素包括了 Google 调整了算法突出了论坛类内容，而 Reddit 就是论坛形式的社媒。在 AI 时代，用户也越来越多的转向人工撰写的内容，Reddit 也受益于这一趋势。在 Reddit 的英国用户中女性占了半数以上。",
-          "link": "https://www.solidot.org/story?sid=83220",
-          "publishedOn": "2026-01-05T07:23:40.000Z",
-          "wordCount": 192,
-          "title": "Reddit 在英国超过 TikTok 成为访问量第四大的社媒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83218",
-          "author": null,
-          "description": "Windows 11 是目前微软唯一支持的 Windows 版本，但它因为更高的硬件需求、更臃肿的系统以及 AI 而在用户中间口碑不佳。在六部旧笔电 ThinkPad X220——配置英特尔 Core i5-2520M CPU、8GB 内存和 256GB 硬盘——上测试最新版本的 Windows XP、Windows Vista、Windows 7、Windows 8.1、Windows 10 和 Windows 11，结果显示：Windows 11 启动速度最慢；安装容量为 37.3GB，略低于 Windows Vista 的 37.8GB 和 Windows 7 的 44.6GB；内存占用 3.3GB 最多 3.7GB；在旧硬件上更容易出现卡顿。",
-          "link": "https://www.solidot.org/story?sid=83218",
-          "publishedOn": "2026-01-05T05:51:44.000Z",
-          "wordCount": 215,
-          "title": "测试显示 Windows 11 的速度在六个 Windows 版本中垫底",
           "imageUrl": null
         }
       ]
