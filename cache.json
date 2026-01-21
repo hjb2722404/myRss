@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/discourse-self-hosting-2026/",
+          "author": "青小蛙",
+          "description": "英伟达、OpenAI 同款的社区程序 Discourse 终于在 2026 年迎来了一个史诗级更新：降低安装难度，只需要 1 行命令，就可以完成安装。域名？不用！邮箱服务？通通不用！ 今天，著名的开源社区程序 Discourse 发布重大更新，将安装难度从 100 分降低至 5.3 分，邮箱、域名通",
+          "link": "https://www.appinn.com/discourse-self-hosting-2026/",
+          "publishedOn": "2026-01-21T02:14:45.000Z",
+          "wordCount": 2375,
+          "title": "英伟达、OpenAI 同款，Discourse 重大更新，安装难度骤降94.7%",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-32.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/nvidia-anna-archive-500tb/",
+          "author": "青小蛙",
+          "description": "就在前脚安娜的档案失去 .org、.se 两个域名，还面临永久禁令之后，torrentfreak 继续爆料：在一项集体诉讼中，几位书籍作者引用了英伟达内部文件，声称这家市值万亿美元的公司直接联系了安娜档案馆，寻求高速访问安娜的档案数据，数据规模达 500TB 级别。 有趣的是，安娜的档案曾明确警告英",
+          "link": "https://www.appinn.com/nvidia-anna-archive-500tb/",
+          "publishedOn": "2026-01-20T08:29:09.000Z",
+          "wordCount": 2757,
+          "title": "英伟达被指为训练 AI 大模型，曾寻求安娜的档案高速访问，数据规模达 500TB 级",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-31.jpg"
+        },
+        {
           "id": "https://www.appinn.com/faxian-top10-2602/",
           "author": "青小蛙",
           "description": "2016年的第二个10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来，看看大家有没有兴趣，记得给感兴趣的内容点赞： 序号 主题 1️⃣ 罗技驱动 Logitech Options+ 精简瘦身小工具 2️⃣ Kas – 让安卓手机购买 🍎 应用的 app 3️⃣ 如",
@@ -145,16 +165,6 @@
           "wordCount": 3182,
           "title": "冷知识：bin、sbin 与 usr/bin、usr/sbin 目录的由来",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-10.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/keep-alive-lite/",
-          "author": "青小蛙",
-          "description": "昨天横空出世的 8 块钱 iPhone 应用「死了么」，可谓赚足了眼球，已经破圈。虽然证明自己活着这件事真的没什么用，但的确符合小众软件的气质。 感谢来自微信的 三一之人 同学就给小众软件推荐了一款安卓版「死了么」 Keep Alive Lite 如果您在指定时间内未使用设备，Keep Alive",
-          "link": "https://www.appinn.com/keep-alive-lite/",
-          "publishedOn": "2026-01-11T04:34:36.000Z",
-          "wordCount": 2712,
-          "title": "Keep Alive Lite – 免费，安卓版「死了么」，继续证明自己活着",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-18.jpg"
         }
       ]
     },
@@ -269,6 +279,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83356",
+          "author": null,
+          "description": "IPv4 的 40 亿地址空间早就枯竭，但有 2^128 地址空间的 IPv6 普及速度并没有预想的快。一大原因是互联网从点对点架构转向了客户端/服务器架构，而 Network Address Translators (NATs)与此完全嵌合。客户端/服务器架构中，客户端共享一个较小的公共地址池，只在与远程服务器建立活动会话后才使用地址。在 NAT 帮助下逾 300 亿联网设备只使用 30 亿个已通告的 IPv4 地址池。但联网设备的持续增长意味着 NAT 无法完全解决问题，增长压力推动 IPv6 的加快部署。2017 年 IPv6 部署激增是受益于印度部署的移动 IPv6 服务，而中国的 IPv6 服务最近几年也在快速普及，IPv6 用户占比从 2024 年初的 32% 增长到 2025 年底的 54%，意味着两年内中国 IPv6 用户数量增加约 9400 万。但非洲、东欧和南欧以及西亚没有出现 IPv6 的大规模部署。",
+          "link": "https://www.solidot.org/story?sid=83356",
+          "publishedOn": "2026-01-20T16:04:53.000Z",
+          "wordCount": 213,
+          "title": "IPv4 和 IPv6 地址现状",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83355",
+          "author": null,
+          "description": "华硕董事长施崇棠证实该公司将逐步退出智能手机业务，将重心集中到 AI 产品如机器人和智能眼镜上。施崇棠表示，未来不会推出新智能手机机型。但他没有把话完全说死，只是表示公司将采取“无限期观望”态度。华硕的智能手机包括 Zenfone 和 ROG Phone 品牌，前者主打小巧廉价，后者则是主打游戏以高价著称，其价格甚至高于三星的旗舰手机。目前还没有哪家 Android  厂商在停止发布新机型后能重新恢复生产，LG 就是其中的典型代表，该公司在停止推出新机型后最终完全退出手机市场。",
+          "link": "https://www.solidot.org/story?sid=83355",
+          "publishedOn": "2026-01-20T14:52:35.000Z",
+          "wordCount": 179,
+          "title": "华硕为 AI 逐步退出智能手机业务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83354",
+          "author": null,
+          "description": "世界持续时间最长的实验即将跨过一百年。沥青滴漏实验始于 1927 年，澳大利亚昆士兰大学物理学家 Thomas Parnell 将已知最粘稠的液体沥青注入到一个封闭的漏斗。1930 年 Parnell 剪开了漏斗封口，标志着沥青滴漏实验正式开始。沥青开始缓慢流动，每一滴高黏度沥青需经近十年时间，方能滴进漏斗下方的烧杯之中，第一滴沥青于 1938 年 12 月滴出。时至今日，已滴出九滴沥青。根据实验结果，沥青的黏度大约是水之千亿倍。上一次沥青滴落是在 2014 年，下一次预计会在 2020 年代的某个时候。尽管有无数双眼睛看着，但至今无人真正目睹沥青滴下。实验一直在直播，但过去的各种故障导致错过了每一个关键时刻。",
+          "link": "https://www.solidot.org/story?sid=83354",
+          "publishedOn": "2026-01-20T13:51:12.000Z",
+          "wordCount": 176,
+          "title": "沥青滴漏实验即将百年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83353",
+          "author": null,
+          "description": "索尼宣布了剥离电视业务的计划，它的电视业务将合并到一家新的合资企业，中国最大的电视制造商 TCL 在其中持 51% 股份，索尼持 49%。两家公司计划 3 月底达成协议，2027 年 4 月新公司投入运营。这项计划还需要得到监管部门的批准。新公司将保留“索尼”和“Bravia”电视品牌，计划结合索尼的图像和音频技术、品牌价值、供应链管理，以及 TCL 的显示技术、垂直整合的供应链优势、全球市场布局以及端到端的成本效益。这项交易如果达成，将标志着索尼电视时代的结束。",
+          "link": "https://www.solidot.org/story?sid=83353",
+          "publishedOn": "2026-01-20T12:29:24.000Z",
+          "wordCount": 173,
+          "title": "TCL 接手索尼电视业务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83352",
+          "author": null,
+          "description": "1 月 18 日暴发的 X1.9 级太阳耀斑朝地球方向释放了一个日冕物质抛射，1 月 19 日日冕物质抛射抵达地球，产生了 G4 级地磁风暴，欧洲各地的夜空，从德国、英国到法国都观察到了明亮的极光。1 月 20 日的地磁风暴等级略低，在 G1 到 G3 之间。地球目前正处于 S4 级太阳辐射风暴中，这是 2003 年以来首次突破 S4 级，也是自测量以来第三强的辐射风暴，预计会对卫星运营商和高频无线电产生影响。",
+          "link": "https://www.solidot.org/story?sid=83352",
+          "publishedOn": "2026-01-20T12:17:48.000Z",
+          "wordCount": 198,
+          "title": "地球逾 20 年再次遭遇 S4 级太阳辐射风暴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83351",
+          "author": null,
+          "description": "OzLabs 是一个澳大利亚自由软件开发者组织，该组织成员负责了很多知名的开源项目如 Samba、rsync、Linux PPP、Linux netfilter、Linux Advanced Power Management (APM) 和 OpenBMC。该组织成立于 1999 年，由  Linuxcare 聘请 Andrew Tridgell 负责组建。Linuxcare 在 2001 年的动荡导致大部分成员都离开了，他们加入了 IBM Linux Technology Center 从事 PowerPC Linux 及相关项目。但截至 2026 年 1 月，所有成员都离开了 IBM，结束了 OzLabs 与 IBM 长达 25 年的合作关系。",
+          "link": "https://www.solidot.org/story?sid=83351",
+          "publishedOn": "2026-01-20T08:47:49.000Z",
+          "wordCount": 208,
+          "title": "OzLabs 成员全部脱离 IBM",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83350",
+          "author": null,
+          "description": "在流媒体和社交媒体的推荐算法时代，人们的注意力很少会被少数几部作品所捕获，曾经引领时代吸引无数人关注的好莱坞作品越来越少见了。1939 年的《乱世佳人》售出了 2 亿张电影票，而当时的美国人口仅为 1.3 亿。《陆军野战医院(M*A*S*H）》在 1983 年播出最后一集时吸引了逾一亿人观看。2025 年只有三部美国电影的票房收入超过 10 亿美元，而 2019 年这一数字为九部。YouTube 之所以能成为电视上最受欢迎的视频平台，不是因为它拥有最热门的节目，而是因为它能满足所有人需求。互联网打破了好莱坞对发行渠道的垄断。",
+          "link": "https://www.solidot.org/story?sid=83350",
+          "publishedOn": "2026-01-20T08:09:48.000Z",
+          "wordCount": 170,
+          "title": "好莱坞单一文化的兴衰",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83349",
+          "author": null,
+          "description": "Similarweb 最新数据显示，Threads 移动端日活用户数超越了 X。而 X 在 Web 端仍然远超 Threads，日访问量约 1.5 亿，而 Threads 的日访问量为 850 万。Similarweb 的数据显示，截至 2026 年 1 月 7 日 Threads 在 iOS 和 Android 平台上的日活用户数达到 1.415 亿，而 X 在移动设备上的日活用户数为 1.25 亿。Threads 日活增长受益于在 Meta 旗下社交平台如 Facebook 和 Instagram 上的推广，以及对内容创作者的重视和新功能的快速推出。Threads 过去一年新增了兴趣社区、完善筛选功能、私信、长文本、阅后即焚等功能，最近还在测试游戏功能。",
+          "link": "https://www.solidot.org/story?sid=83349",
+          "publishedOn": "2026-01-20T06:15:09.000Z",
+          "wordCount": 206,
+          "title": "Threads 移动端日活人数超过 X",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83348",
+          "author": null,
+          "description": "英伟达除了供应 AI 芯片外，还开发了自己的大模型，如 NeMo、Retro-48B、InstructRetro 和 Megatron。那么这些大模型的训练数据来自何处？图书作者指控英伟达使用盗版书库训练模型。上周五原告修改了诉状，指控英伟达使用了影子图书馆“安娜的档案（Anna’s Archive）”收集的盗版电子书库。诉状援引英伟达内部邮件和文件称，英伟达员工主动联系“安娜的档案”，询问该影子图书馆提供的付费“高速访问”是什么意思。安娜的档案要求英伟达管理层内部批准之后它才会提供该服务。英伟达据报道在一周内批准了这一要求，安娜的档案随后提供了 500 TB 电子书的高速访问。英伟达还被控从 LibGen、Sci-Hub 和 Z-Library 下载书籍。",
+          "link": "https://www.solidot.org/story?sid=83348",
+          "publishedOn": "2026-01-19T14:03:56.000Z",
+          "wordCount": 170,
+          "title": "英伟达被控主动联络安娜的档案以高速下载盗版书库",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83347",
+          "author": null,
+          "description": "乐施会(Oxfam)发表年度报告《Resisting the Rule of the Rich》，称全球财富不平等在加速。2025 年亿万富翁的财富激增 2.5 万亿美元，几乎相当于全球半数人口（约 41 亿人）的财富总和。全球亿万富翁人数首次突破 3000 人，世界首富马斯克（Elon Musk）的财富也首次突破 5000 亿美元。报告警告，超级富豪正形成新的寡头政治，他们利用巨额财富收买政治、媒体和司法以维护自身财富，瓦解和摧毁进步政策，剥夺我们的基本公民权利和政治权利。报告举例说，贝佐斯收购《华盛顿邮报》，马斯克收购 Twitter/X，黄馨祥（Patrick Soon-Shion）控制《洛杉矶时报》，法国极右翼亿万富翁 Vincent Bollore 拥有 CNews。乐施会呼吁全世界人民联合起来捍卫自身权利，争取一个取代不平等和寡头政治的替代方案。",
+          "link": "https://www.solidot.org/story?sid=83347",
+          "publishedOn": "2026-01-19T13:37:09.000Z",
+          "wordCount": 182,
+          "title": "Oxfam 报告称全球财富不平等创新高",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83346",
+          "author": null,
+          "description": "澳大利亚纽卡斯尔大学的研究人员发现，仅 10 分钟的高强度运动就能提高血液中几种小分子的水平。这些分子能够启动 DNA 修复机制，并关闭癌症生长信号。其中许多分子具有减轻炎症、维护血管健康和促进新陈代谢的作用。这些快速的变化似乎能够抑制肠道癌细胞的生长，同时还能加快受损DNA的修复速度。当科学家在实验室中将含有这些运动驱动分子的血液暴露于肠癌细胞时，他们观察到了广泛的基因变化——超过 1300 个基因的活动发生了改变，包括那些参与DNA修复、能量生产和癌细胞生长的基因。研究表明，运动通过血液发送分子信号，影响控制肿瘤生长和遗传稳定性的基因。这些结果进一步证明，保持身体活动是癌症预防的重要组成部分。研究团队发现，运动增加了支持线粒体能量代谢的基因活性，这有助于细胞更有效地利用氧气。与此同时，与快速细胞分裂相关的基因活性出现下调，可能使癌细胞侵袭性降低。运动后采集的血液还增强了DNA修复能力，激活了一个名为 PNKP 的关键修复基因。",
+          "link": "https://www.solidot.org/story?sid=83346",
+          "publishedOn": "2026-01-19T12:37:53.000Z",
+          "wordCount": 171,
+          "title": "10 分钟高强度运动有助于降低癌症风险",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83345",
           "author": null,
@@ -958,26 +1078,6 @@
           "wordCount": 190,
           "title": "马来西亚印尼屏蔽 Grok",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83275",
-          "author": null,
-          "description": "根据 Netblocks 以及 Cloudflare Rader 的监测，伊朗断网三天。自 2025 年 12 月起，伊朗发生了一系列抗议活动，起因是民众对通货膨胀飙升、食品价格上涨以及伊朗里亚尔大幅贬值感到不满。示威活动最初由店主和市场商贩发起，进入新年后，抗议规模日益扩大。维基百科显示，目前有至少 2000 人死亡，但该数字难以核实。",
-          "link": "https://www.solidot.org/story?sid=83275",
-          "publishedOn": "2026-01-11T12:22:30.000Z",
-          "wordCount": 170,
-          "title": "伊朗断网三天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83274",
-          "author": null,
-          "description": "微生物学在 19 世纪末进入黄金时代，研究人员发现了结核病、霍乱、伤寒等十几种疾病的细菌病原体。抗生素在 20 世纪中期进入黄金时代。如今疫苗的研发看起来也进入到了它的黄金时代，问题是美国的现任卫生部长是反疫苗者。在 2020 年代的前五年，研究人员研发出了新冠、疟疾、呼吸道合胞病毒(RSV)和基孔肯雅（Chikungunya）四种不同疾病的有效疫苗。疫苗的加速研发受益于过去两个世纪打造的基础。Edward Jenner 在 1796 年研发出天花疫苗是一次意外，他本人并不理解原理。Louis Pasteur 在 90 年后弄清楚了疫苗的原理——减毒和灭活——然后将其应用于治疗其它疾病。一代又一代的科学家构建起了配套的基础设施：用于细菌培养的培养皿、体外维持动物细胞存活的技术、用于工业生产的生物反应器、灭菌设备和冷链物流。如今相关工具更加强大。冷冻电镜能逐个原子揭示病毒蛋白的结构，这项技术直接促成了 RSV 疫苗的研发。基因组测序的成本从 2001 年约 1 亿美元降至 2014 年的低于 1000 美元。Katalin Kariko、Drew Weissman 等人改进的 mRNA 平台让疫苗的重新设计能在几周而不是数年内完成。未来可能出现更多的疫苗突破。然而突破能否实现取决于持续的投入。",
-          "link": "https://www.solidot.org/story?sid=83274",
-          "publishedOn": "2026-01-10T16:12:30.000Z",
-          "wordCount": 187,
-          "title": "疫苗研发的黄金时代",
-          "imageUrl": null
         }
       ]
     },
@@ -985,7 +1085,18 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://humanwhocodes.com/blog/2026/01/coder-orchestrator-future-software-engineering/",
+          "author": "Nicholas C. Zakas",
+          "description": "The software engineering job of the future won't involve writing code; it will involve orchestrating AI agents to write code for you.",
+          "link": "https://humanwhocodes.com/blog/2026/01/coder-orchestrator-future-software-engineering/",
+          "publishedOn": "2026-01-20T00:00:00.000Z",
+          "wordCount": 3688,
+          "title": "From Coder to Orchestrator: The future of software engineering with AI",
+          "imageUrl": "https://humanwhocodes.com/images/posts/2026/coder-to-orchestrator.png"
+        }
+      ]
     },
     {
       "title": "宁南山 - 知乎动态",
