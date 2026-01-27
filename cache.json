@@ -12,6 +12,46 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/apple-new-airtag/",
+          "author": "青小蛙",
+          "description": "苹果在官网刚刚发布了新款 AirTag，三大更新：连接范围更广、更易查找、扬声器更响，价格不变。@Appinn AirTag 能够利用全球苹果设备的 Find 网络，帮助用户追踪和寻找重要物品。自 2021 年 AirTag 问世起，全球各地的用户分享了寻回遗失行李、钥匙、自行车、包袋等各种物品的故",
+          "link": "https://www.appinn.com/apple-new-airtag/",
+          "publishedOn": "2026-01-26T15:14:50.000Z",
+          "wordCount": 2706,
+          "title": "苹果发布新款 AirTag，连接范围更广、更易查找，售价249元",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/cover-1769440160732-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/artemis-2-send-your-name/",
+          "author": "青小蛙",
+          "description": "距离阿耳忒弥斯2号（Artemis 2）发射还有几天时间（2026年2月7日），传统节目又来了：将你的姓名带到猎户座飞船上（仅 SD 卡上）。只需要简单的登记姓名，就可以获得一张阿耳忒弥斯2号登机牌。 登记地址：https://www3.nasa.gov/send-your-name-with-ar",
+          "link": "https://www.appinn.com/artemis-2-send-your-name/",
+          "publishedOn": "2026-01-26T08:13:40.000Z",
+          "wordCount": 2672,
+          "title": "阿耳忒弥斯2号登机牌已发放  3,501,435 张，你领了么？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-42.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/windows-11-update-kb5074109/",
+          "author": "青小蛙",
+          "description": "来自 windowslatest 的消息：微软怀疑部分电脑在安装 Windows 11 2026 年 1 月更新 (KB5074109) 后可能无法启动。已知 Windows 11 25H2 与 Windows 11 24H2 都会受到影响。 KB5074109 累积更新 KB5074109 是微软",
+          "link": "https://www.appinn.com/windows-11-update-kb5074109/",
+          "publishedOn": "2026-01-26T07:50:23.000Z",
+          "wordCount": 2792,
+          "title": "Windows 11 更新又坏了：微软怀疑部分电脑在安装 2026 年 1 月更新 (KB5074109) 后可能无法启动",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-41.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/dpaint-js/",
+          "author": "青小蛙",
+          "description": "在 PNG、JPG 成为事实标准之前，图像文件并不是为了“通用”和“兼容”而设计的。在更早的个人电脑时代，一张图像往往只需要在某一种机器、某一个系统上正常工作即可。 Amiga 电脑时代 在 PC 成为事实标准之前，个人电脑世界并不只有一种选择。同一时期还存在着另一条完全不同的路线：Amiga 电脑",
+          "link": "https://www.appinn.com/dpaint-js/",
+          "publishedOn": "2026-01-26T07:02:09.000Z",
+          "wordCount": 2780,
+          "title": "在 PNG 之前，图像曾经长这样",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-40.jpg"
+        },
+        {
           "id": "https://www.appinn.com/spotify-annas-archive-takedown/",
           "author": "青小蛙",
           "description": "能够同时被 Spotify、索尼、华纳和环球音乐集团 (UMG) 联合起诉，安娜的档案也算是名扬天下了。 事情是这样的： 2025年12月份： 离谱！安娜的档案抓取了 8600 万个音乐文件，300TB 的 Spotify 数据！ 2026年1月份（上周）： 安娜的档案失去 2 个域名，还面临永久禁",
@@ -164,6 +204,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=388430",
+          "author": "Zell Liew",
+          "description": "Accessibility advice around modals have commonly taught us to trap focus within the modal. Upon further research, it seems like we no longer need to trap focus within the <dialog> (even in modal mode).\nThere is No Need to Trap Focus on a Dialog Element originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
+          "publishedOn": "2026-01-26T15:02:27.000Z",
+          "wordCount": 1630,
+          "title": "There is No Need to Trap Focus on a Dialog Element",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/04/tab-key.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=391573",
           "author": "Temani Afif",
           "description": "A while back, Temani tacked a repeating grid of hexagon shapes. Well, he's updated it with modern CSS features that result in fewer magic numbers. And it's impressive!\nResponsive Hexagon Grid Using Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -192,16 +242,6 @@
           "wordCount": 2326,
           "title": "I Learned The First Rule of ARIA the Hard Way",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2020/08/accessibility-a11y.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=391564",
-          "author": "Geoff Graham",
-          "description": "I love me some good web research reports. I’m a sucker for them. HTTP Archive’s Web Almanac is one report I look forward to every year, and I know I’m not alone there. It’s one of those highly-anticipated publications on …\nHTTP Archive 2025 Web Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/http-archive-2025-web-almanac/",
-          "publishedOn": "2026-01-16T17:30:43.000Z",
-          "wordCount": 1403,
-          "title": "HTTP Archive 2025 Web Almanac",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/http-archive-2025.jpg"
         }
       ]
     },
@@ -254,6 +294,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83403",
+          "author": null,
+          "description": "一项研究发现，Google AI Overviews 回答健康问题时引用 YouTube 的次数超过了任何医学网站。Google 曾表示，AI Overviews 生成的摘要是可靠的，会引用权威医疗机构如疾控中心（CDC）等作为信息来源。SE Ranking 研究人员分析了柏林地区逾 5 万次健康查询结果，发现最主要的信息源是 YouTube。YouTube 占到总引用次数的 4.43%，没有医疗机构或医学机构的引用接近这一比例。在总共 465,823 次引用中，YouTube 高达 20,621 次。\nGoogle 对此表示，研究使用了德语进行搜索，因此其结果并不能推广到其它地区。",
+          "link": "https://www.solidot.org/story?sid=83403",
+          "publishedOn": "2026-01-26T15:31:08.000Z",
+          "wordCount": 196,
+          "title": "Google AI Overviews 回答健康问题时引用的信息源更多来自 YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83402",
+          "author": null,
+          "description": "72 岁的 RMS（Richard Stallman）在佐治亚理工学院演讲时谈及了 DRM 并回答了观众有关盗版的问题。RMS 说，他鄙视 DRM，不想拥有任何包含 DRM 的东西的拷贝，不会为了任何东西而屈服于 DRM，所以他不使用 Spotify 或 Netflix。对于观众提出的是否有道德义务避免盗版的问题，RMS 表示他不会用盗版这个词去指代分享，分享是善行，应该是合法的。版权法是错误的，事实上是非正义的。他会毫不犹豫的分享任何东西，但因为鄙视 DRM 他没有任何非自由软件的副本。仅仅因为一项法律赋予某些人不公正的权力，并不意味着违反这项法律是错误的，“禁止人们互相帮助，分裂他们，这是卑鄙的。”他表示自己是通过他人的分享观看电影的。",
+          "link": "https://www.solidot.org/story?sid=83402",
+          "publishedOn": "2026-01-26T14:50:59.000Z",
+          "wordCount": 177,
+          "title": "RMS 认为版权是非正义的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83401",
+          "author": null,
+          "description": "中国迄今为止发布了 1509 种大模型，以国家计算排名第一。其中评价提高的是阿里巴巴的 Qwen（千问）模型。\nHugging Face的数据，截至 2026 年 1 月千问系列的累计下载量超过 7 亿次，成为平台上下载量最多的开源 AI 模型。中国企业的战斗方式与美国企业不同的情况也很明显。美国 AI 以最尖端 GPU 和巨额投资为前提，而中国则以效率化、轻量化为核心确保竞争力。",
+          "link": "https://www.solidot.org/story?sid=83401",
+          "publishedOn": "2026-01-26T12:45:54.000Z",
+          "wordCount": 182,
+          "title": "中国公司开发了逾 1500 个大模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83400",
+          "author": null,
+          "description": "你与外部世界的界限在哪里？大脑如何判断这条界线？根据发表在《Nature Communications》期刊上的研究，瑞典和法国的研究人员让 106 名参与者体验“橡胶手错觉（rubber hand illusion）”，监测和刺激大脑活动，观察其产生的影响。实验将参与者的一只手藏起来，用橡胶手代替。当参与者的真手和假手同时被反复触摸时，会产生橡胶手是自己身体一部分的错觉。实验用脑电图（EEG）记录大脑活动，结果显示，身体所有权感似乎源于顶叶皮层——负责绘制身体地图、处理感觉输入和构建自我意识的大脑区域——的 α 波频率。加快 α 波会收缩受试者的身体所有权感，对细微的时间差异更加敏感。减慢 α 波则会产生相反的效果，更难区分自身身体和外部世界。",
+          "link": "https://www.solidot.org/story?sid=83400",
+          "publishedOn": "2026-01-26T12:03:35.000Z",
+          "wordCount": 168,
+          "title": "科学家识别定义“你”的脑电波",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83399",
+          "author": null,
+          "description": "OnePlus 一月固件更新 ColorOS 16.0.3.501 引入了硬件级防回滚机制，阻止用户降低设备运行的固件版本或安装自制 ROM，受影响的型号包括 OnePlus 13、OnePlus 13T 和 OnePlus 15，任何尝试安装旧版本固件的行为都会导致设备永久“变砖”——设备将无法使用，因设备上的高通处理器内部电子熔断器熔断。升级到 ColorOS 16.0.3.501 的用户上周开始报告设备无法回滚到之前的版本。OnePlus 已移除所有地区 OnePlus 13 降级固件的下载链接，OnePlus 12 的降级软件包也已被移除。",
+          "link": "https://www.solidot.org/story?sid=83399",
+          "publishedOn": "2026-01-26T10:36:07.000Z",
+          "wordCount": 181,
+          "title": "OnePlus 一月固件更新引入了硬件级防回滚机制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83398",
+          "author": null,
+          "description": "根据微软的支持文档，Windows 11 一月安全更新可能导致部分 PC 无法启动，它正在收集用户和 IT 管理员的反馈。用户无需卸载此更新，因为该问题“仅限于”特定 PC。目前不清楚有多少用户受到影响，微软列出了两个受影响的平台：KB5074109 – Windows 11 25H2 和 KB5074109 – Windows 11 24H2。微软称，受影响的 PC 可能会突然停止启动，出现黑屏死机 (BSOD)错误，错误代码为 UNMOUNTABLE_BOOT_VOLUME。",
+          "link": "https://www.solidot.org/story?sid=83398",
+          "publishedOn": "2026-01-26T10:02:30.000Z",
+          "wordCount": 194,
+          "title": "Windows 11 一月更新可能导致部分 PC 无法启动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83397",
+          "author": null,
+          "description": "RMS（Richard Stallman）在佐治亚理工学院（Georgia Institute of Technology）发表演讲，促进自由软件的同时也谈论了当今的新技术。RMS 认为 AI 太频繁的被用于形容没有智能的东西，大语言模型只是一种生成器，能生成文本但并不理解内容。它们也经常犯错。称大模型是 AI 就相当于认可它们有智能，他认为应当少用。RMS 建议应该将大模型称为是伪智能（Pretend Intelligence）或简写 PI，多用 PI 有助于克服对大模型的炒作，这些炒作试图说服人们信任大模型，好将他们的一切都交给开发和控制大模型的大公司。RMS 也对联网和能上传数据的汽车表示反感，认为它们含有恶意功能。他也拒绝拥有智能手机，认为智能手机是“奥威尔式的追踪和监控设备”。他仍然使用一台旧型号的 ThinkPad 笔记本电脑，最喜欢的自由发行版是 Trisquel，对 Rust 的商标使用条款有些看法，但认为只要是自由软件都支持。所以使用 Emacs 或使用 Vi 都没关系，只要是自由软件，但 Emacs 爱每一位用户，不用它会伤心。",
+          "link": "https://www.solidot.org/story?sid=83397",
+          "publishedOn": "2026-01-26T09:23:12.000Z",
+          "wordCount": 187,
+          "title": "RMS 称大模型是伪智能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83396",
+          "author": null,
+          "description": "外科医生早就注意到一个令人费解的现象：同样的手术切口，脸上的往往愈合得更好，疤痕更不明显，而身体其他部位则容易留下显著的疤痕。 发表在《细胞》（Cell）上的一项研究揭示了这一现象背后的分子机制。斯坦福大学的研究团队通过小鼠模型发现，面部皮肤之所以具有“无痕愈合”的潜力，是因为其深层的成纤维细胞能抑制疤痕组织的过度生成。基于这一发现研制的药物有望让任何伤口都能不留疤痕地愈合。人体皮肤真皮层的主要细胞类型是成纤维细胞。研究指出，面部和头皮的成纤维细胞起源于胚胎发育早期的“神经嵴”（neural crest），而身体其他部位的成纤维细胞则源自“中胚层”（mesoderm）。这决定了这些细胞在成熟后的行为模式。研究团队发现，源自神经嵴的面部成纤维细胞高表达一种名为 ROBO2 的蛋白及其下游因子 EID1。这一信号通路就像一个分子层面的“抑制器”，它能有效阻断一种名为 EP300 的蛋白质的功能。在身体其他部位的成纤维细胞中，EP300 能够打开 DNA 的折叠结构，让负责制造胶原蛋白等疤痕成分的基因变得活跃。而在面部细胞中，由于 ROBO2 和 EID1 的存在，EP300 受到抑制，DNA 保持在一种相对“沉默”和紧密的状态，使得促纤维化基因无法被轻易读取和表达。这种状态让面部细胞更接近其原始的干细胞形态，从而倾向于再生修复而非填补式的疤痕修复。研究人员指出，这在进化上是非常合理的。对于躯干上的伤口，生物体的首要任务是活下去，因此需要快速封闭伤口以防失血过多或感染，哪怕代价是形成功能较差的疤痕组织。然而，面部承载着视觉、听觉、嗅觉和进食等关键功能，如果形成僵硬的疤痕，将严重影响生物的基本生存能力，因此进化赋予了面部更精细的再生能力。",
+          "link": "https://www.solidot.org/story?sid=83396",
+          "publishedOn": "2026-01-26T07:12:07.000Z",
+          "wordCount": 175,
+          "title": "脸部的伤疤为什么不容易留痕？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83395",
+          "author": null,
+          "description": "根据解封的法庭文件，12 月 29 日 Spotify 与环球唱片（UMG）、索尼、华纳等唱片公司向纽约南区地方法院提起诉讼，指控安娜的档案（Anna’s Archive）大规模侵权。法庭于 1 月 2 日发布了一项临时限制令，限制托管安娜的档案网站和为其提供域名服务，法庭的命令导致了安娜的档案的 .org 和 .se 域名先后被封。此事发生在\n安娜的档案发布 300TB 抓取的 Spotify 音乐文件和元数据之后，安娜的档案背后的运营者一度以为其域名被封与 Spotify 无关，但法庭文件显示并非如此。",
+          "link": "https://www.solidot.org/story?sid=83395",
+          "publishedOn": "2026-01-26T07:01:19.000Z",
+          "wordCount": 182,
+          "title": "Spotify 诉讼导致安娜的档案主域名被封",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83394",
+          "author": null,
+          "description": "伊朗的互联网目前处于严格的白名单模式下，绝大多数人都无法访问国际互联网。该系统被称为 Barracks Internet。这一网络分级制可能至少始于 2013 年，伊朗向约 1.6 万人提供了白色 SIM 卡，允许他们不受限制的访问国际互联网。2025 年 11 月 X/Twitter 的位置功能显示，包括通信信息技术部长在内的官员被发现是直接从伊朗境内访问该平台的，而 X/Twitter 早在 2009 年就被封锁了。自 2022 年拜登政府将星链服务排除在制裁外以来，活动人士估计已向伊朗走私了 5 万个星链卫星终端。伊朗政府称它切断了 4 万个星链接入，干扰了部分终端，但一部分终端在固件更新后绕过了封锁，还能正常运行。尽管如此，卫星宽带技术容易受到信号干扰，意味着伊朗政府掌握着最终的制衡力量。",
+          "link": "https://www.solidot.org/story?sid=83394",
+          "publishedOn": "2026-01-26T06:20:34.000Z",
+          "wordCount": 180,
+          "title": "伊朗正建立一个分级制的互联网",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83393",
           "author": null,
@@ -822,36 +962,6 @@
           "publishedOn": "2026-01-18T05:38:56.000Z",
           "wordCount": 192,
           "title": "腾讯向逾 30 个 GitHub 微信相关项目发出 DMCA 通知",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83333",
-          "author": null,
-          "description": "根据微软官方公告，它的最新安全更新导致部分 Windows 11 23H2 PC 无法正常关机。受影响的 PC 无法进入关机或休眠状态，而是一直处于唤醒状态，顽固的抵抗关机指令。该 bug 与 Secure Launch 相关。Secure Launch 是基于虚拟化的保护功能，旨在确保启动过程中只加载受信任组件。在启用了 Secure Launch 系统上，安装了最新安全更新的 PC 无法执行关机、重启或休眠等操作。微软表示权宜之计是命令行下输入“shutdown /s /t 0”强制关机。目前没有修复方法。",
-          "link": "https://www.solidot.org/story?sid=83333",
-          "publishedOn": "2026-01-17T14:30:19.000Z",
-          "wordCount": 196,
-          "title": "微软最新安全更新导致部分 Windows 11 PC 无法正常关机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83332",
-          "author": null,
-          "description": "根据 Cloudflare Rader 的监测，伊朗逐步恢复了互联网访问，总断网时间超过了 200 小时。伊朗半官方 Fars 新闻通讯社周六表示，伊朗将逐步解除上月底因经济危机引发抗议活动后实施的互联网和通信限制。伊朗首先恢复了短信服务，然后是恢复国内互联网和国内应用的访问，最后是国际互联网的访问。更新：Netblocks 报告伊朗尚未开放国际互联网。",
-          "link": "https://www.solidot.org/story?sid=83332",
-          "publishedOn": "2026-01-17T11:22:11.000Z",
-          "wordCount": 167,
-          "title": "伊朗恢复互联网访问",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83331",
-          "author": null,
-          "description": "日本游戏公司 Capcom 的《怪物猎人》系列新作《Monster Hunter Wilds》自去年初发布起玩家就抱怨性能优化问题。现在玩家在测试后认为优化问题与后台持续检查 DLC 所有权相关。《Monster Hunter Wilds》共有 190 个 DLC，绝大部分都是饰物服装之类虚拟物品。玩家使用了一个禁止检查 DLC 的 Mod，在中端计算机硬件上对比了禁止该 Mod 和启用该 Mod 的帧数，发现禁止 Mod 时帧数仅为 26 FPS，启用后达到 46 FPS。玩家测试发现，用户账号购买/注册的 DLC 越多，性能下降的幅度越小。",
-          "link": "https://www.solidot.org/story?sid=83331",
-          "publishedOn": "2026-01-17T11:00:02.000Z",
-          "wordCount": 203,
-          "title": "Monster Hunter Wilds 性能问题与 DLC 检查相关",
           "imageUrl": null
         }
       ]
