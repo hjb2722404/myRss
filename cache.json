@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/hallucinating-splines/",
+          "author": "青小蛙",
+          "description": "由 AI 完全参与的社区 Moltbook 在火爆之后，已经沉寂了。现在又有了一款完全由 AI 参与的…游戏。AI 代理通过 MCP 服务器或 REST API，来玩 Micropolis 游戏，进行构建和管理城市。这是著名游戏 SimCity（模拟城市）的开源版本。@Appinn Ha",
+          "link": "https://www.appinn.com/hallucinating-splines/",
+          "publishedOn": "2026-02-12T14:16:59.000Z",
+          "wordCount": 3160,
+          "title": "我真没想到，AI 居然这么想玩游戏：完全由 AI 在玩的模拟城市",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1770905726002-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/fake-7zip-site-malware-download/",
+          "author": "青小蛙",
+          "description": "多个安全机构的公开技术分析显示，第三方网站 7zipcom 的下载链接在 2026 年 1 月发生变更。原本指向官方安装程序的 Windows x64 / x86 下载链接，被替换为 update.7zipcloud。该版本包含恶意软件，可能将用户设备变成代理节点或用于其他攻击用途。@A",
+          "link": "https://www.appinn.com/fake-7zip-site-malware-download/",
+          "publishedOn": "2026-02-12T05:54:04.000Z",
+          "wordCount": 2853,
+          "title": "警惕假冒 7zip 官网：7-Zip 下载链接被篡改，Windows 安装包被植入后门",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1770875297380-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/windows-notepad-cve-2026-20841/",
           "author": "青小蛙",
           "description": "在微软 2026 年 2 月周二补丁日中，修改了 58 个漏洞，其中包括 6 个被积极利用的漏洞和 3 个公开披露的零日漏洞。其中有一个被评估为高严重性的 8.8 分漏洞 CVE-2026-20841：Windows 记事本可能允许未经授权的攻击者执行恶意代码。@Appinn 注：该漏洞已修复，更新",
@@ -220,26 +240,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/Copy-of-appinn-homework-52.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/nanobot/",
-          "author": "青小蛙",
-          "description": "OpenClaw 的含金量也在上升。 当不断的有替代品出现时，就意味着，这是一款非常好的产品，以至于开发者们不断的尝试重复造轮子，比一比，谁做的更好。 昨天OpenClaw 的轻量级替代品：nanoclaw 是一款不那么替代品的替代品，因为它只能用在 Claude 中。今天的这个，就不一样。 nan",
-          "link": "https://www.appinn.com/nanobot/",
-          "publishedOn": "2026-02-03T11:51:34.000Z",
-          "wordCount": 3096,
-          "title": "OpenClaw 的超轻量级替代品：nanobot，只有 4000 行代码",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/Copy-of-appinn-homework-51.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/nvidia-shield-tv-10-year/",
-          "author": "青小蛙",
-          "description": "“我们想支持这东西多久？只要我们活着那么久。” 这句话，来自英伟达的创始人黄仁勋。在2015年说出时，几乎没人能预料到它会成为安卓电视盒子领域的传奇。 “我们想支持这东西多久？只要我们活着那么久。” 这是黄仁勋在2015 年英伟达在发布 Shield TV 时说的话。真没想到，当初听起来有点随意的一",
-          "link": "https://www.appinn.com/nvidia-shield-tv-10-year/",
-          "publishedOn": "2026-02-03T11:25:05.000Z",
-          "wordCount": 2776,
-          "title": "黄仁勋与安卓盒子的故事：我们想支持这东西多久？只要我们活着那么久。",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/Copy-of-appinn-homework-50.jpg"
         }
       ]
     },
@@ -248,6 +248,21 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=391879",
+          "author": "Temani Afif",
+          "description": "This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.\nMaking a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
+          "publishedOn": "2026-02-12T14:57:36.000Z",
+          "wordCount": 3663,
+          "title": "Making a Responsive Pyramidal Grid With Modern CSS",
+          "enclosure": {
+            "url": "http://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-28-at-8.44.39-AM.mov",
+            "length": "0",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/Artboard.webp"
+        },
         {
           "id": "https://css-tricks.com/?p=391853",
           "author": "Kevin Hamer",
@@ -282,16 +297,6 @@
           "wordCount": 1627,
           "title": "CSS Bar Charts Using Modern Functions",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/01/bar-chart-horizontal.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390379",
-          "author": "Zell Liew",
-          "description": "You’d think that publishing a VS Code extension is an easy process, but it’s not. You have to publish your theme in at least two places.\nNo Hassle Visual Code Theming: Publishing an Extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/no-hassle-visual-code-theming-publishing-an-extension/",
-          "publishedOn": "2026-02-03T15:54:59.000Z",
-          "wordCount": 2193,
-          "title": "No Hassle Visual Code Theming: Publishing an Extension",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2025/11/vs-code-highlight.jpg"
         }
       ]
     },
@@ -318,6 +323,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=12076",
+          "author": "张 鑫旭",
+          "description": "我最近才知道，JS正则除了全局g，不缺分大小写i，换行m，还支持一个名为y的标识符，表示粘性匹配。",
+          "link": "https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/",
+          "publishedOn": "2026-02-12T10:23:48.000Z",
+          "wordCount": 1474,
+          "title": "JS正则表达式y标识符之粘性匹配",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=12067",
           "author": "张 鑫旭",
           "description": "新出现了个CSS text-box属性，说是可以解决文字和图标对齐的问题，我实地试验了下，结果大跌眼镜。",
@@ -334,6 +349,76 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83550",
+          "author": null,
+          "description": "《Highguard》开发商 Wildlight Entertainment 证实了裁员的消息，但没有透露裁掉了多少员工。该公司的开发者称大部分员工都被辞退了。《Highguard》是一款以突袭为主题的英雄射击游戏，于 1 月 26 日上线，一度吸引了 9.7 万玩家同时在线，但这一热度并没有持续太长时间，在短短 17 天内同时在线玩家人数已经锐减到  2200 人左右，对一款需要长期运营的免费 PvP 游戏而言，结局可能已经注定了。",
+          "link": "https://www.solidot.org/story?sid=83550",
+          "publishedOn": "2026-02-12T13:30:41.000Z",
+          "wordCount": 177,
+          "title": "Highguard 开发商裁掉大部分员工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83549",
+          "author": null,
+          "description": "瑞士研究团队采用部分重编程技术，短暂启动三个关键基因 Oct4、Sox2 和 Klf4（简称 OSK）。此前研究表明，这组因子可在一定程度上逆转细胞老化迹象。他们利用腺相关病毒作为载体，通过精确脑部注射，将标记学习激活神经元的荧光系统和可控开启 OSK 表达的时间开关两个元件送入两大关键脑区——海马体齿状回与内侧前额叶皮层。前者主导近期记忆的形成与提取，后者则负责远期记忆和回忆。结果显示，在老年小鼠中，仅需短暂激活海马体内的印痕神经元 OSK 表达，其记忆表现便恢复至年轻小鼠水平；而靶向前额叶皮层时，几周前形成的遥远记忆也得以重现。",
+          "link": "https://www.solidot.org/story?sid=83549",
+          "publishedOn": "2026-02-12T13:08:36.000Z",
+          "wordCount": 167,
+          "title": "重编程特定神经元能恢复小鼠记忆功能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83548",
+          "author": null,
+          "description": "根据发表在《Current Biology》期刊上的一项研究，人类和其它动物的总能量消耗受到限制。这种能量支出模型被称为约束模型，约束模型认为人体的总能量预算是有限的，并会努力维持在一个相对稳定的区间内。当我们通过体育锻炼显著增加能量输出时，身体会悄悄减少其他方面的能量开支进行补偿，例如降低基础代谢率、睡眠时代谢率或减少用于细胞修复、免疫等内部生理活动的能量。研究人员认为，约束模型可能源于远古祖先的生存策略：在食物不稳定的时代，过度消耗能量会危及生命，因此身体进化出总能量控制系统，确保总支出稳定在安全区间。这解释了为什么现代人即使每天多跑几公里，体重减轻也往往缓慢。",
+          "link": "https://www.solidot.org/story?sid=83548",
+          "publishedOn": "2026-02-12T12:53:54.000Z",
+          "wordCount": 159,
+          "title": "人类的总能量消耗受到限制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83547",
+          "author": null,
+          "description": "惠普推出了游戏笔记本订阅服务 OMEN Gaming Subscription，允许用户以按月付费的方式租用笔记本电脑，用户不拥有所有权，长期租用的费用会超过笔记本的零售价。用户可租用的笔记本电脑包括：低端的 HP Victus 15——RTX 4050 移动显卡，Ryzen 7 8845HS CPU、16 GB 内存 和 1TB SSD，月费 50 美元，其零售价为 950 美元，也就是租用两年的价格就超过了零售价；高端的 HP Omen Max 16—— Intel Core Ultra 9 处理器，RTX 5080 移动显卡、32 GB 内存 和 1 TB SSD，月费 130 美元，目前零售价 2,110 美元。放弃所有权的好处包括了：年度硬件升级、次日更换服务、全天候支持以及持续保修。用户无法在订阅之后中途取消，否则需要支付昂贵的提前终止费用——Victus 15 为 550 美元，Omen Max 16 为 1430 美元。用户需要至少订阅 12 个月之后才可以在第 13 个月取消订阅而无需支付终止费用。",
+          "link": "https://www.solidot.org/story?sid=83547",
+          "publishedOn": "2026-02-12T09:30:31.000Z",
+          "wordCount": 215,
+          "title": "惠普推出游戏笔记本订阅服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83546",
+          "author": null,
+          "description": "根据皮尤研究中心（Pew Research Center）周三公布的报告，大部分美国人不付费阅读新闻。皮尤去年 12 月调查了 3560 名美国成年人，结果显示他们对于关注新闻的重要性没有共识，但对于是否为新闻付费他们的共识是不付费。83% 的受访者过去一年没有通过订阅、捐赠或成为会员的方式为任何新闻源付费，他们可以通过免费渠道获得新闻，为新闻付费对他们而言是一种奢侈。最有可能为新闻付费的群体是高收入人群（30%）、有研究生学历的成年人（35%）和自由派民主党人（29%）。只有 8% 的受访者认为美国民众有责任为新闻付费。最不认为为新闻付费是个人责任的群体是低收入者、共和党人或倾向共和党的人士、30 岁以下的成年人、高中及以下学历者。",
+          "link": "https://www.solidot.org/story?sid=83546",
+          "publishedOn": "2026-02-12T08:19:21.000Z",
+          "wordCount": 167,
+          "title": "大部分美国人不会付费阅读新闻",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83544",
+          "author": null,
+          "description": "Meta 旗下的 WhatsApp 透露，俄罗斯正尝试全面屏蔽该消息应用。WhatsApp 以及 Telegram 都是俄罗斯最受欢迎的消息应用，用户数超过一亿。俄罗斯官方塔斯社（Tass Media）早些时候报道，俄罗斯预计在 2026 年永久封禁 WhatsApp。俄罗斯已将 WhatsApp 母公司 Meta 认定为极端组织，官员表示屏蔽 WhatsApp 是绝对正当的。俄罗斯正在努力推广本土消息应用 Max，该应用被誉为俄罗斯的微信，它组合了即时通讯和政府服务，但没有加密功能。",
+          "link": "https://www.solidot.org/story?sid=83544",
+          "publishedOn": "2026-02-12T06:35:37.000Z",
+          "wordCount": 178,
+          "title": "俄罗斯屏蔽 WhatsApp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83543",
+          "author": null,
+          "description": "安娜的档案（Anna’s Archive）去年宣布抓取了音乐流媒体巨头 Spotify 的音乐文件，震惊了音乐行业。它随后发布了 Spotify 的元数据，但并没有公开音乐文件，尽管如此 Spotify 和唱片公司对安娜的档案提起了诉讼，导致了它失去了包括 .org 在内的多个域名。2 月 8 日有人发布了数十个新的 Spotify 种子文件，每个包含大约 6 万个文件，总共约 280 万个文件，约 6 TB 的音乐。安娜的档案此前表示它存档了 300 TB 的 Spotify 音乐文件，总共 8600 万首音乐，预计它未来可能会释出更多 Spotify 音乐文件。",
+          "link": "https://www.solidot.org/story?sid=83543",
+          "publishedOn": "2026-02-12T06:04:55.000Z",
+          "wordCount": 195,
+          "title": "安娜的档案悄悄发布 Spotify 音乐文件",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83542",
           "author": null,
@@ -1013,136 +1098,6 @@
           "wordCount": 217,
           "title": "8K 电视时代尚未到来",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83472",
-          "author": null,
-          "description": "FT 报道了中国的一种选拔有天赋少年人才进行特殊培养的特教模式，此类特培的最早例子当属中国科技大学的少年班，过去二十年还出现了清华姚班、北大图灵班等特殊培养班。这些特培班为 AI 和科技公司输送了核心技术人才。中科大少年班培养的 3167 名毕业生中，18%-20% 留在学界，逾 200 人成为国内外名校和科研机构教授。去年初引发广泛关注的 DeepSeek 其逾百名研发团队大多数都来自这些特培班。今天中国每年有 500 万 STEM 专业毕业生，相比之下美国约 50 万。在 2025 年中国派出的 23 名参加国际科学奥林匹克竞赛的学生有 22 名获得了金牌。",
-          "link": "https://www.solidot.org/story?sid=83472",
-          "publishedOn": "2026-02-03T15:52:48.000Z",
-          "wordCount": 187,
-          "title": "中国少年班人才项目为 AI 竞争源源不断输送人才",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83471",
-          "author": null,
-          "description": "根据发表在《Milbank Quarterly》期刊上的一项研究，哈佛、杜克和密歇根大学的研究人员认为，超加工食品（Ultra-processed foods）与香烟的相似之处远多于与水果或蔬菜的相似之处，需要更严格的监管。超加工食品是经过工业化生产、通常使用乳化剂或人工色素和香精的食品，如软饮料、薯片和饼干。研究人员称，超加工食品和香烟的生产过程存在相似之处，制造商都在努力优化产品“剂量”以及对人体奖赏通路的作用速度。宣传食品“低脂”或“无糖”都是在误导消费者，类似 1950 年代宣传香烟的过滤嘴是一种保护性创新，实际上几乎没有任何实质性益处。研究人员认为应该借鉴烟草管理去监管超加工食品。",
-          "link": "https://www.solidot.org/story?sid=83471",
-          "publishedOn": "2026-02-03T14:28:41.000Z",
-          "wordCount": 162,
-          "title": "超加工食品应视为香烟而非食品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83470",
-          "author": null,
-          "description": "西班牙首相 Pedro Sanchez 周二表示，计划禁止 16 岁以下未成年人使用社交媒体，社交平台需要引入年龄验证系统。他表示要保护儿童远离数字狂野西部。澳大利亚于去年 12 月成为首个禁止 16 岁以下儿童使用社交媒体的国家，英法等国正在考虑采取类似年龄限制措施。Sanchez 称西班牙将于下周提出一项法案，追究社交媒体高管对非法和仇恨言论内容的责任，将算法操纵和放大非法内容定为犯罪行为。",
-          "link": "https://www.solidot.org/story?sid=83470",
-          "publishedOn": "2026-02-03T13:19:53.000Z",
-          "wordCount": 175,
-          "title": "西班牙计划禁止 16 岁以下儿童使用社交媒体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83469",
-          "author": null,
-          "description": "巴黎检方突击搜查 X 在法办公室。执行搜查的是网络犯罪部门，欧洲刑警组织协助。搜查与 2025 年 1 月启动的调查相关，这次调查涉及对 X 算法及其推荐内容的投诉。巴黎检方还传唤了马斯克（Elon Musk）以及 X 前 CEO Linda Yaccarino，要求 4 月出席听证会。检方在声明中称，X 平台流传深度伪造的色情视频以及否认纳粹大屠杀的内容。检方还宣布将退出 X 平台，将通过 LinkedIn 和 Instagram 与外界沟通。",
-          "link": "https://www.solidot.org/story?sid=83469",
-          "publishedOn": "2026-02-03T12:48:24.000Z",
-          "wordCount": 188,
-          "title": "巴黎检方突击搜查 X 在法办公室",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83468",
-          "author": null,
-          "description": "工信部发布了新的强制性安全标准《汽车车门把手安全技术要求》，禁止电动汽车使用隐藏式门把手，成为世界上首个禁止这种设计的国家。这种特斯拉推广的设计因一系列致命事件而面临全球监管机构的审查。新规定要求在中国销售的汽车必须配备机械释放车门外把手。新规将于 2027 年 1 月 1 日起开始实施。已获得型式批准的车型，应于 2029 年 1 月前修改其设计以符合要求。在此之前，中国国内发生多起引发高度关注的事故，其中包括两起小米电动汽车起火事故。事故中车门疑似因断电而无法打开，造成车内人员既无法逃生，也无法获救，最终身亡。",
-          "link": "https://www.solidot.org/story?sid=83468",
-          "publishedOn": "2026-02-03T08:52:56.000Z",
-          "wordCount": 170,
-          "title": "中国禁止隐藏式车门把",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83467",
-          "author": null,
-          "description": "乌克兰和 SpaceX 最近合作阻止俄罗斯无人机使用 Starlink 发动攻击。乌克兰国防部表示，乌克兰的  Starlink 用户在不久之后将被要求登记其终端，未来经过验证和登记的 Starlink 终端将被加入到白名单，能继续在乌克兰境内访问卫星互联网，未登记的终端将被断开连接。俄罗斯通过黑市交易获得了 Starlink 终端，它的 Molniya-2 无人机的攻击型号和侦察型号通过配备 Starlink 实现超视距的控制和数据传输，在更远的距离上进行精确打击。Molniya-2 被发现使用了 F8 迷你 PC ，运行正版授权的 Windows 11 操作系统。",
-          "link": "https://www.solidot.org/story?sid=83467",
-          "publishedOn": "2026-02-03T08:31:28.000Z",
-          "wordCount": 195,
-          "title": "乌克兰和 SpaceX 合作阻止俄罗斯无人机使用 Starlink 发动攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83466",
-          "author": null,
-          "description": "AI 热导致内存和固态硬盘价格不断上涨，也迫使 PC 组装厂商不断调整价格应对主要零部件价格的上涨。树莓派宣布了两个月内的第二次价格上调。所有配备 2GB 以上内存的 Raspberry Pi 4 和 Raspberry Pi 5 都将涨价。2GB 内存版本上涨 10 美元，4GB 内存上涨 15 美元，8GB 内存上涨 30 美元，16GB 内存版本将大幅上涨 60 美元。16GB 版本的 Pi 5 如今售价高达 205 美元，而树莓派之类的单板电脑曾以低价著称。",
-          "link": "https://www.solidot.org/story?sid=83466",
-          "publishedOn": "2026-02-03T07:57:09.000Z",
-          "wordCount": 189,
-          "title": "因内存价格飙升树莓派再次涨价",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83465",
-          "author": null,
-          "description": "马斯克（Elon Musk）旗下的火箭公司正式宣布收购他旗下的 AI 公司 xAI，这也意味着作为 xAI 一部分的社交网络 X/Twitter 也将成为 SpaceX 家族的一员。SpaceX 是马斯克目前最成功的公司，预计今年 IPO，其估值超过 1 万亿美元。马斯克声称他计划使用 SpaceX 的火箭为 xAI 发射部署 100 万个轨道数据中心。他的很多言论不能当真。",
-          "link": "https://www.solidot.org/story?sid=83465",
-          "publishedOn": "2026-02-03T07:41:53.000Z",
-          "wordCount": 186,
-          "title": "SpaceX 收购 xAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83464",
-          "author": null,
-          "description": "Phoronix 评测了龙芯科技 LoongArch 架构 12 核 24 线处理器 3B6000 在 Linux 下的性能，并与 AMD 和英特尔推出的主流 CPU 以及树莓派的 Raspberry Pi 500+ 进行了对比。3B6000 于 2025 年推出，支持 DDR4 ECC 内存，其开发板售价为 3000 元。测试结果并不出人意料，3B6000 性能要远逊色于 AMD Zen 5 架构的处理器如 9600x，但显著强于 ARM 架构的 Pi 500+。",
-          "link": "https://www.solidot.org/story?sid=83464",
-          "publishedOn": "2026-02-03T07:23:42.000Z",
-          "wordCount": 206,
-          "title": "评测龙芯 3B6000 12 核处理器性能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83463",
-          "author": null,
-          "description": "根据发表在 PNAS 期刊上的一项研究，犹他大学的研究人员分析了近一个世纪的人类头发样本，发现自 1970 年代禁止含铅汽油等含铅产品以来，头发中的铅含量减少到峰值期间的百分之一。铅是强效神经毒素。研究人员使用了犹他州居民身上收集的头发样本，部分样本保存在家族数代人的剪贴簿中。分析发现，头发铅含量在 1916-1969 年间达到峰值的 100 ppm，1990 年降至 10ppm，2024 年降至 1ppm 以下。这一下降趋势与美国淘汰含铅汽油的进程基本一致。",
-          "link": "https://www.solidot.org/story?sid=83463",
-          "publishedOn": "2026-02-03T06:57:35.000Z",
-          "wordCount": 170,
-          "title": "禁止含铅汽油有效减少头发中的铅含量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83462",
-          "author": null,
-          "description": "芬兰交通管理局（Fintraffic）准备今年夏天推出新交通信号灯系统，该系统将赋予紧急车辆优先通行权，允许救护车、消防车和其它紧急救援车辆通过“绿波”式的交通信号灯通过路口。名为“national traffic light priority system”的交通灯优先系统能识别紧急车辆的位置，自动将交通信号灯切换为绿灯方便其快速通行。\n新系统将于 7 月正式投入使用，但由于需要对交通系统进行测试和更新，因此在全国范围内推广还需要时间。",
-          "link": "https://www.solidot.org/story?sid=83462",
-          "publishedOn": "2026-02-03T06:25:53.000Z",
-          "wordCount": 165,
-          "title": "芬兰新交通控制系统将自动对紧急车辆开绿灯",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83461",
-          "author": null,
-          "description": "Mozilla 宣布为 Firefox 用户提供禁用所有 AI 功能的选项。从 2 月 24 日推出的 Firefox 148 起，用户可以在设置中启用“Block AI enhancements”选项，一旦启用，用户将不会看到任何现在或未来 AI 功能的弹出窗口或提醒。新的 AI 控制选项还允许用户单独管理各项 AI 功能。Mozilla 新 CEO Anthony Enzor-DeMeo 表示，AI 应该始终是一种选择，可以关闭，让用户知道如何运作，能带来什么价值。",
-          "link": "https://www.solidot.org/story?sid=83461",
-          "publishedOn": "2026-02-03T03:20:26.000Z",
-          "wordCount": 205,
-          "title": "Mozilla 为 Firefox 提供禁用所有 AI 功能的选项",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83460",
-          "author": null,
-          "description": "知情人士透露，微软正在重新评估 Windows 11 的 AI 战略，收缩或移除 Windows 内置应用与 AI 应用 Copilot 的集成。过去几个月 Windows 深度整合 AI 遭遇了用户的强烈反对。微软正在评估记事本和画图等应用中的 Copilot 功能，可能会完全移除相关功能或移除 Copilot 标识以提供更简洁的用户体验。微软已经暂停了在其它内置应用中引入 Copilot 按钮的工作。早先引发争议的 Windows Recall 功能也在接受评估，微软内部认为目前的实现方案是失败的，探索重新设计或重命名该功能，但没有完全放弃。",
-          "link": "https://www.solidot.org/story?sid=83460",
-          "publishedOn": "2026-02-03T03:10:42.000Z",
-          "wordCount": 201,
-          "title": "微软考虑收缩 Windows 11 的 AI 战略",
-          "imageUrl": null
         }
       ]
     },
@@ -1150,18 +1105,7 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com",
-      "articles": [
-        {
-          "id": "https://humanwhocodes.com/blog/2026/02/artifacts-ai-assisted-programming/",
-          "author": "Nicholas C. Zakas",
-          "description": "Your AI pair programmer has no memory, which is why proper documentation matters more than ever in AI-assisted development.",
-          "link": "https://humanwhocodes.com/blog/2026/02/artifacts-ai-assisted-programming/",
-          "publishedOn": "2026-02-03T00:00:00.000Z",
-          "wordCount": 3494,
-          "title": "The importance of artifacts in AI-assisted programming",
-          "imageUrl": "https://humanwhocodes.com/images/posts/2026/ai-artifacts.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "宁南山 - 知乎动态",
