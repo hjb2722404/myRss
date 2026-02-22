@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-02-21T04:04:54.520Z</updated>
+    <updated>2026-02-22T04:14:55.743Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[国家队也做云盘了？中科院免费送 20GB 空间，支持 S3 / WebDAV / 微信上传]]></title>
+        <id>https://www.appinn.com/data-cstcloud-cn/</id>
+        <link href="https://www.appinn.com/data-cstcloud-cn/"/>
+        <updated>2026-02-21T11:50:37.000Z</updated>
+        <summary type="html"><![CDATA[中科院旗下的中国科技云推出了一款名叫数据胶囊的服务，针对实名认证用户免费提供 20GB 空间，可以在网页直接使用，还能通过 S3、WebDAV 连接使用，绑定微信之后可从微信对话中上传文件。@Appinn 最后，还支持 AI 工具使用 MCP 方式查询文件，以及检索文件内容。 先看视频： 如何注册]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Potentially Coming to a Browser :near() You]]></title>
         <id>https://css-tricks.com/?p=392208</id>
@@ -520,127 +530,6 @@ What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds
         <summary type="html"><![CDATA[本周二晚上 FAA（美国联邦航空管理局）突然宣布德州 El Paso 周围空域关闭 10 天，但在周三上午 FAA 又突然宣布解除关闭。特朗普政府官员声称此举是为了应对墨西哥贩毒集团无人机的突然入侵。但知情人士称真正原因是 ICE 在未给予航空官员足够时间评估对商用飞机风险的情况下，部署了借自国防部的反无人机激光器。ICE 使用激光器击中了一个目标，他们以为是贩毒集团无人机，结果是气球。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making a Responsive Pyramidal Grid With Modern CSS]]></title>
-        <id>https://css-tricks.com/?p=391879</id>
-        <link href="https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/"/>
-        <updated>2026-02-12T14:57:36.000Z</updated>
-        <summary type="html"><![CDATA[This is the second part of a small two-part series. In this article, we will explore another type of grid: a pyramidal one. We are still working with hexagon shapes, but a different organization of the elements., while exploring other different shapes.
-Making a Responsive Pyramidal Grid With Modern CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我真没想到，AI 居然这么想玩游戏：完全由 AI 在玩的模拟城市]]></title>
-        <id>https://www.appinn.com/hallucinating-splines/</id>
-        <link href="https://www.appinn.com/hallucinating-splines/"/>
-        <updated>2026-02-12T14:16:59.000Z</updated>
-        <summary type="html"><![CDATA[由 AI 完全参与的社区 Moltbook 在火爆之后，已经沉寂了。现在又有了一款完全由 AI 参与的…游戏。AI 代理通过 MCP 服务器或 REST API，来玩 Micropolis 游戏，进行构建和管理城市。这是著名游戏 SimCity（模拟城市）的开源版本。@Appinn Ha]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Highguard 开发商裁掉大部分员工]]></title>
-        <id>https://www.solidot.org/story?sid=83550</id>
-        <link href="https://www.solidot.org/story?sid=83550"/>
-        <updated>2026-02-12T13:30:41.000Z</updated>
-        <summary type="html"><![CDATA[《Highguard》开发商 Wildlight Entertainment 证实了裁员的消息，但没有透露裁掉了多少员工。该公司的开发者称大部分员工都被辞退了。《Highguard》是一款以突袭为主题的英雄射击游戏，于 1 月 26 日上线，一度吸引了 9.7 万玩家同时在线，但这一热度并没有持续太长时间，在短短 17 天内同时在线玩家人数已经锐减到  2200 人左右，对一款需要长期运营的免费 PvP 游戏而言，结局可能已经注定了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重编程特定神经元能恢复小鼠记忆功能]]></title>
-        <id>https://www.solidot.org/story?sid=83549</id>
-        <link href="https://www.solidot.org/story?sid=83549"/>
-        <updated>2026-02-12T13:08:36.000Z</updated>
-        <summary type="html"><![CDATA[瑞士研究团队采用部分重编程技术，短暂启动三个关键基因 Oct4、Sox2 和 Klf4（简称 OSK）。此前研究表明，这组因子可在一定程度上逆转细胞老化迹象。他们利用腺相关病毒作为载体，通过精确脑部注射，将标记学习激活神经元的荧光系统和可控开启 OSK 表达的时间开关两个元件送入两大关键脑区——海马体齿状回与内侧前额叶皮层。前者主导近期记忆的形成与提取，后者则负责远期记忆和回忆。结果显示，在老年小鼠中，仅需短暂激活海马体内的印痕神经元 OSK 表达，其记忆表现便恢复至年轻小鼠水平；而靶向前额叶皮层时，几周前形成的遥远记忆也得以重现。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类的总能量消耗受到限制]]></title>
-        <id>https://www.solidot.org/story?sid=83548</id>
-        <link href="https://www.solidot.org/story?sid=83548"/>
-        <updated>2026-02-12T12:53:54.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《Current Biology》期刊上的一项研究，人类和其它动物的总能量消耗受到限制。这种能量支出模型被称为约束模型，约束模型认为人体的总能量预算是有限的，并会努力维持在一个相对稳定的区间内。当我们通过体育锻炼显著增加能量输出时，身体会悄悄减少其他方面的能量开支进行补偿，例如降低基础代谢率、睡眠时代谢率或减少用于细胞修复、免疫等内部生理活动的能量。研究人员认为，约束模型可能源于远古祖先的生存策略：在食物不稳定的时代，过度消耗能量会危及生命，因此身体进化出总能量控制系统，确保总支出稳定在安全区间。这解释了为什么现代人即使每天多跑几公里，体重减轻也往往缓慢。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JS正则表达式y标识符之粘性匹配]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/?p=12076</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/"/>
-        <updated>2026-02-12T10:23:48.000Z</updated>
-        <summary type="html"><![CDATA[我最近才知道，JS正则除了全局g，不缺分大小写i，换行m，还支持一个名为y的标识符，表示粘性匹配。]]></summary>
-        <author>
-            <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惠普推出游戏笔记本订阅服务]]></title>
-        <id>https://www.solidot.org/story?sid=83547</id>
-        <link href="https://www.solidot.org/story?sid=83547"/>
-        <updated>2026-02-12T09:30:31.000Z</updated>
-        <summary type="html"><![CDATA[惠普推出了游戏笔记本订阅服务 OMEN Gaming Subscription，允许用户以按月付费的方式租用笔记本电脑，用户不拥有所有权，长期租用的费用会超过笔记本的零售价。用户可租用的笔记本电脑包括：低端的 HP Victus 15——RTX 4050 移动显卡，Ryzen 7 8845HS CPU、16 GB 内存 和 1TB SSD，月费 50 美元，其零售价为 950 美元，也就是租用两年的价格就超过了零售价；高端的 HP Omen Max 16—— Intel Core Ultra 9 处理器，RTX 5080 移动显卡、32 GB 内存 和 1 TB SSD，月费 130 美元，目前零售价 2,110 美元。放弃所有权的好处包括了：年度硬件升级、次日更换服务、全天候支持以及持续保修。用户无法在订阅之后中途取消，否则需要支付昂贵的提前终止费用——Victus 15 为 550 美元，Omen Max 16 为 1430 美元。用户需要至少订阅 12 个月之后才可以在第 13 个月取消订阅而无需支付终止费用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大部分美国人不会付费阅读新闻]]></title>
-        <id>https://www.solidot.org/story?sid=83546</id>
-        <link href="https://www.solidot.org/story?sid=83546"/>
-        <updated>2026-02-12T08:19:21.000Z</updated>
-        <summary type="html"><![CDATA[根据皮尤研究中心（Pew Research Center）周三公布的报告，大部分美国人不付费阅读新闻。皮尤去年 12 月调查了 3560 名美国成年人，结果显示他们对于关注新闻的重要性没有共识，但对于是否为新闻付费他们的共识是不付费。83% 的受访者过去一年没有通过订阅、捐赠或成为会员的方式为任何新闻源付费，他们可以通过免费渠道获得新闻，为新闻付费对他们而言是一种奢侈。最有可能为新闻付费的群体是高收入人群（30%）、有研究生学历的成年人（35%）和自由派民主党人（29%）。只有 8% 的受访者认为美国民众有责任为新闻付费。最不认为为新闻付费是个人责任的群体是低收入者、共和党人或倾向共和党的人士、30 岁以下的成年人、高中及以下学历者。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯屏蔽 WhatsApp]]></title>
-        <id>https://www.solidot.org/story?sid=83544</id>
-        <link href="https://www.solidot.org/story?sid=83544"/>
-        <updated>2026-02-12T06:35:37.000Z</updated>
-        <summary type="html"><![CDATA[Meta 旗下的 WhatsApp 透露，俄罗斯正尝试全面屏蔽该消息应用。WhatsApp 以及 Telegram 都是俄罗斯最受欢迎的消息应用，用户数超过一亿。俄罗斯官方塔斯社（Tass Media）早些时候报道，俄罗斯预计在 2026 年永久封禁 WhatsApp。俄罗斯已将 WhatsApp 母公司 Meta 认定为极端组织，官员表示屏蔽 WhatsApp 是绝对正当的。俄罗斯正在努力推广本土消息应用 Max，该应用被誉为俄罗斯的微信，它组合了即时通讯和政府服务，但没有加密功能。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安娜的档案悄悄发布 Spotify 音乐文件]]></title>
-        <id>https://www.solidot.org/story?sid=83543</id>
-        <link href="https://www.solidot.org/story?sid=83543"/>
-        <updated>2026-02-12T06:04:55.000Z</updated>
-        <summary type="html"><![CDATA[安娜的档案（Anna’s Archive）去年宣布抓取了音乐流媒体巨头 Spotify 的音乐文件，震惊了音乐行业。它随后发布了 Spotify 的元数据，但并没有公开音乐文件，尽管如此 Spotify 和唱片公司对安娜的档案提起了诉讼，导致了它失去了包括 .org 在内的多个域名。2 月 8 日有人发布了数十个新的 Spotify 种子文件，每个包含大约 6 万个文件，总共约 280 万个文件，约 6 TB 的音乐。安娜的档案此前表示它存档了 300 TB 的 Spotify 音乐文件，总共 8600 万首音乐，预计它未来可能会释出更多 Spotify 音乐文件。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[警惕假冒 7zip 官网：7-Zip 下载链接被篡改，Windows 安装包被植入后门]]></title>
-        <id>https://www.appinn.com/fake-7zip-site-malware-download/</id>
-        <link href="https://www.appinn.com/fake-7zip-site-malware-download/"/>
-        <updated>2026-02-12T05:54:04.000Z</updated>
-        <summary type="html"><![CDATA[多个安全机构的公开技术分析显示，第三方网站 7zipcom 的下载链接在 2026 年 1 月发生变更。原本指向官方安装程序的 Windows x64 / x86 下载链接，被替换为 update.7zipcloud。该版本包含恶意软件，可能将用户设备变成代理节点或用于其他攻击用途。@A]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 记事本爆出 8.8 分漏洞，专门针对 markdown 格式｜CVE-2026-20841]]></title>
-        <id>https://www.appinn.com/windows-notepad-cve-2026-20841/</id>
-        <link href="https://www.appinn.com/windows-notepad-cve-2026-20841/"/>
-        <updated>2026-02-12T02:01:00.000Z</updated>
-        <summary type="html"><![CDATA[在微软 2026 年 2 月周二补丁日中，修改了 58 个漏洞，其中包括 6 个被积极利用的漏洞和 3 个公开披露的零日漏洞。其中有一个被评估为高严重性的 8.8 分漏洞 CVE-2026-20841：Windows 记事本可能允许未经授权的攻击者执行恶意代码。@Appinn 注：该漏洞已修复，更新]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
