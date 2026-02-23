@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/nodewarden/",
+          "author": "青小蛙",
+          "description": "Bitwarden 是少数客户端与服务器端都开源的密码管理系统，支持完整自托管部署。@Appinn但有人更进一步：直接把服务器端运行在 Cloudflare Workers 上——也就是说，你连 VPS 都可以省了。 部署 NodeWarden 之后的效果，就是在无服务器的情况下，也能在手机、电脑上",
+          "link": "https://www.appinn.com/nodewarden/",
+          "publishedOn": "2026-02-22T13:52:13.000Z",
+          "wordCount": 2889,
+          "title": "NodeWarden – 把 Bitwarden 搬上 Cloudflare Workers，彻底告别服务器",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1771765613977-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/data-cstcloud-cn/",
           "author": "青小蛙",
           "description": "中科院旗下的中国科技云推出了一款名叫数据胶囊的服务，针对实名认证用户免费提供 20GB 空间，可以在网页直接使用，还能通过 S3、WebDAV 连接使用，绑定微信之后可从微信对话中上传文件。@Appinn 最后，还支持 AI 工具使用 MCP 方式查询文件，以及检索文件内容。 先看视频： 如何注册",
@@ -105,36 +115,6 @@
           "wordCount": 2828,
           "title": "零动手初体验 OpenClaw！已预装 + 自带大模型，在 Windows 里养虾",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1771071200712-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/minio-no-longer-maintained/",
-          "author": "青小蛙",
-          "description": "15个小时以前，MiniO 官方仓库修改了 Readme.md 文件，从此前的维护模式，修改为不在维护，并留下了两个替代品（同属于 MiniO）： 青小蛙觉得，MiniO 属于经典的自己把自己玩死了。 事件回顾 2025/06/03 日，发生了诡异的事情： 当时，其社区版本有一次更新：《Implem",
-          "link": "https://www.appinn.com/minio-no-longer-maintained/",
-          "publishedOn": "2026-02-13T11:34:12.000Z",
-          "wordCount": 2802,
-          "title": "MiniO 官方仓库不再维护，寻替代品",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1770981578139-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/anna-spotify-music-files/",
-          "author": "青小蛙",
-          "description": "安娜的档案 与 Spotify 事件回顾： 如今安娜的档案依旧面临法律阻力。 新的种子文件 不过，来自 torrentfreak 的消息，在安娜的档案完整的 torrent.json 文件中，发现了数十个新的 Spotify 下载链接（注：目前在 torrent.json 中已经看不到了） 而音乐文",
-          "link": "https://www.appinn.com/anna-spotify-music-files/",
-          "publishedOn": "2026-02-13T10:12:27.000Z",
-          "wordCount": 2159,
-          "title": "尽管面临法律阻力，安娜的档案仍“发布”了数百万首 Spotify 音乐文件",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1770977409315-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/7-zip-26-00-11-tools/",
-          "author": "青小蛙",
-          "description": "7-Zip 26.00 发布 饱受假冒网站困扰的 7-Zip 昨天发布了最新 26.00 版本，主要变化如下： 7-Zip 唯一官网 请尽可能的从 7-zip 官网下载：https://www.7-zip.org/ 另外，在其 GitHub 仓库中，还可以下载到命令行的 macOS、Linux 版本",
-          "link": "https://www.appinn.com/7-zip-26-00-11-tools/",
-          "publishedOn": "2026-02-13T09:56:54.000Z",
-          "wordCount": 2999,
-          "title": "7-Zip 26.00 发布；新网页标准 WebMCP；赛博领鸡蛋等 12 个软件消息",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1770976425276-1.jpg"
         }
       ]
     },
@@ -192,21 +172,6 @@
           "wordCount": 2898,
           "title": "Interop 2026",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/interop-2026.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392302",
-          "author": "Daniel Schwarz",
-          "description": "This issue of What’s !important is dedicated to our friends in the UK, who are currently experiencing a very miserable 43-day rain streak. Presenting: the five most interesting things to read about CSS from the last couple of weeks. Plus, the latest features from Chrome 145, and anything else you might’ve missed. TL;DR: lots of content, but also lots of rain.\nWhat’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/whats-important-5/",
-          "publishedOn": "2026-02-13T15:19:57.000Z",
-          "wordCount": 1584,
-          "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/time-layout.mp4",
-            "length": "7627313",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/wi5.jpg"
         }
       ]
     },
@@ -238,6 +203,66 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83591",
+          "author": null,
+          "description": "Nala Ginrut 写道：\n当 AI 成为生产力基础设施时，我们是否仍然保有迁移能力与选择权？如果今天是窗口期，那么在窗口期内做出怎样的准备，才能避免在锁定期和收缩期中被动应对？\n\n这里涉及一个概念，我称之为“技术格局”。它并不意味着对抗或拒绝平台，也不是强调自给自足，而是指在关键生产工具上，个体能够保留基本的迁移能力与选择空间。",
+          "link": "https://www.solidot.org/story?sid=83591",
+          "publishedOn": "2026-02-22T14:48:08.000Z",
+          "wordCount": 163,
+          "title": "当AI成为生产资料，谈谈技术格局",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83590",
+          "author": null,
+          "description": "DNA 技术和家谱基因数据库再次帮助警方破解了一起陈年悬案。加州 Cloverdale 的 13 岁女孩 Sarah Geer 于 1982 年 5 月 23 日晚上离开朋友家后失踪，第二天早上一名消防员发现了她的尸体。她的死被定为谋杀，但因为技术限制，未能确定谋杀嫌疑人。这起案件被搁置了逾 40 年。FBI 根据 Sarah 身上收集的 DNA 以及家谱基因数据库判断凶手是四兄弟之一，调查人员对他们进行了监视，收集了丢弃的香烟，确定现年 64 岁的 James Unick 是凶手。在莎拉 Sarah 遇害近 44 年后，陪审团于 2 月 13 日裁定其谋杀罪名成立。当地检方在一份声明中表示，虽然 44 年的等待实在太久，但正义终得伸张。",
+          "link": "https://www.solidot.org/story?sid=83590",
+          "publishedOn": "2026-02-22T14:39:08.000Z",
+          "wordCount": 206,
+          "title": "DNA 技术和家谱数据库破解 1982 年的谋杀案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83589",
+          "author": null,
+          "description": "微软 Xbox 和游戏业务 CEO Phil Spencer 在公司工作 38 年之后离职，被广泛视为其接任者的 Xbox 总裁 Sarah Bond 也已辞职，游戏业务的新 CEO 将是负责 CoreAI 产品的 Asha Sharma。Spencer 是在 2014 年 3 月被任命为 Xbox 负责人，他任内推出了游戏订阅服务 Xbox Game Pass，最为人所知的事情可能是以 690 亿美元收购动视暴雪。他还收购了一系列游戏工作室，其中包括 2020 年以 75 亿美元收购 Bethesda 母公司 ZeniMax，完全控制了著名的游戏 IP 如 《辐射》和《上古卷轴》（Bethesda）、《毁灭战士》和《雷神之锤》（id Software）。",
+          "link": "https://www.solidot.org/story?sid=83589",
+          "publishedOn": "2026-02-21T13:23:37.000Z",
+          "wordCount": 207,
+          "title": "微软游戏业务高管离职，接替者来自 AI 部门",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83588",
+          "author": null,
+          "description": "NASA 计划于 3 月 6 日执行 Artemis II 载人绕月任务。执行该任务的登月火箭 Space Launch System (SLS）已经竖立在佛罗里达肯尼迪太空中心的发射台上。NASA 官员将在下周对其进行为期数天的飞行准备评估，确保火箭各个方面都准备就绪。本月早些时候 SLS 在首次测试火箭燃料加注时遭遇了液氢泄漏问题，官员称在更换部分密封件之后该问题看起来已经解决了。",
+          "link": "https://www.solidot.org/story?sid=83588",
+          "publishedOn": "2026-02-21T12:44:18.000Z",
+          "wordCount": 206,
+          "title": "NASA 计划 3 月 6 日执行 Artemis II 载人绕月任务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83587",
+          "author": null,
+          "description": "存档网站 Archive.today 在其 CAPTCHA 验证页面嵌入脚本对博主 Jani Patokallio 的个人博客 Gyrovague 发动 DDoS 攻击之后，维基百科正式决定将 Archive.today 以及相关域名 archive.is、archive.ph、archive.fo、archive.li、archive.md 和 archive.vn 加入到黑名单，开始着手在维基百科条目中移除 Archive.today 的链接。Archive.today 被广泛用于绕过付费墙，维基百科有 40 万条目包含了逾 69.5 万 Archive.today 链接，这些链接将被替换为 Internet Archive、Ghostarchive 或 Megalodon 的存档链接，或者原始文章链接。Patokallio 在澳大利亚工作，他是芬兰人，Archive.today 的运营者针对芬兰 IP 的 CAPTCHA 验证页面嵌入脚本对其博客发动攻击，至今该脚本仍然存在，对 Patokallio 的 DDoS 攻击仍然在进行之中。",
+          "link": "https://www.solidot.org/story?sid=83587",
+          "publishedOn": "2026-02-21T12:22:30.000Z",
+          "wordCount": 203,
+          "title": "维基百科屏蔽 Archive.today",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83586",
+          "author": null,
+          "description": "Google 去年 8 月宣布将从 2026 年 9 月起强制执行应用开发者身份验证政策，禁止在 Android 设备上安装未验证身份的开发者的应用。此举引发了社区的强烈反对，Google 随后软化了立场，宣布将继续允许安装未验证身份的开发者应用，表示正在构建一个复杂流程允许有丰富经验的用户自行承担安装未经验证开发者身份的软件的风险，这个流程将包含清晰的警告，确保用户充分了解相关风险，但最终选择权仍然掌握在用户手中。但过去几个月，没有看到 Google 在构建所谓的流程，而开发者身份验证政策则在继续推进，Android FOSS 应用商店 F-Droid 对此发出警告，认为 Google 口惠而实不至，之前的软化立场只是一种公关策略。",
+          "link": "https://www.solidot.org/story?sid=83586",
+          "publishedOn": "2026-02-21T10:50:00.000Z",
+          "wordCount": 192,
+          "title": "在是否保持 Android 开放上 Google 口惠而实不至",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83585",
           "author": null,
@@ -506,86 +531,6 @@
           "publishedOn": "2026-02-14T10:07:44.000Z",
           "wordCount": 192,
           "title": "NCAR 的天气预报超算被转交给第三方",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83558",
-          "author": null,
-          "description": "中国载人航天办公室宣布于 2 月 11 日成功完成了长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验，其中火箭第一级在分离之后重新点燃助推器，减速缓慢降落在停留的回收驳船附近，第一级于 2 月 13 日成功回收，这是中国首次在海上实施运载火箭搜索回收任务，朝着火箭可重复使用迈出了重要一步。长征十号运载火箭主要用于载人月球探测任务，此次测试的是其缩小版，梦舟飞船则将取代目前使用的神舟飞船。长征十号第一级以及梦舟都设计可重复使用多次。",
-          "link": "https://www.solidot.org/story?sid=83558",
-          "publishedOn": "2026-02-13T14:55:19.000Z",
-          "wordCount": 167,
-          "title": "中国成功测试可重复使用的新型火箭",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83557",
-          "author": null,
-          "description": "科学家警告地球正接近气候变化的临界点，越过临界点可能会导致全球暖化失控，无法遏制，世界将陷入地狱般的温室地球气候，将与过去 1.1 万年人类文明经历的温和气候截然不同。最近几年地球气温只上升了 1.3 摄氏度，但极端天气已经在全球范围内夺走大量生命和摧毁无数人的生计。如果气温上升的幅度达到 3-4 摄氏度，那么经济和社会将无法像我们所熟知的那样运转。科学家表示，何时触发临界点难以预测，但最重要是采取预防措施，大幅削减化石燃料的消耗。",
-          "link": "https://www.solidot.org/story?sid=83557",
-          "publishedOn": "2026-02-13T14:38:41.000Z",
-          "wordCount": 163,
-          "title": "科学家警告地球接近气候临界点",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83556",
-          "author": null,
-          "description": "Nala Ginrut  写道：在今天的技术语境中，如果你长时间阅读来自硅谷的讨论，你会很快发现一种近乎单一的价值排序：规模更大、算力更强、模型更通用、迭代更迅猛。\n但当你把视线从发布会的灯光下移开，落到真实社会的地面，你会发现另一个问题正在变得越来越重要：如果智能真的迅速跨越临界点，我们的社会结构是否准备好了？",
-          "link": "https://www.solidot.org/story?sid=83556",
-          "publishedOn": "2026-02-13T13:33:55.000Z",
-          "wordCount": 160,
-          "title": "当超级智能成为信仰，我们需要谈谈节奏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83555",
-          "author": null,
-          "description": "在许多国家，麻疹已变得极为罕见，甚至一些医生从未接诊过一个病例，但这种情况正在改变。美国去年报告了逾 2000 例麻疹病例，创 30 年来纪录，且 2026 年病例数可能超过 2025 年。今年 1 月，英国、西班牙、奥地利等 6 国均失去了官方“无麻疹”认证。加拿大在去年 11 月失去“无麻疹”国家的地位，美国预计于今年 4 月步其后尘。麻疹病毒具有极强的传染性，可引起发热、咳嗽和皮疹，甚至导致死亡。数据显示，若周围人群均易感，那么每位麻疹患者平均会传染 12-18 人；若接触感染者，高达 90% 的未免疫人群会患上麻疹。好在麻疹疫苗的效果非常显著。接种一剂后，93% 的人将获得免疫力而免于感染；接种两剂后，保护率可提升至 97%。对于多数人而言，这种保护作用终身有效。当 92%~94% 的人群通过接种疫苗或既往感染获得免疫力时，麻疹病毒便无法继续传播，这种现象被称为群体免疫。然而在美国，幼儿园儿童的疫苗接种率从 2019—2020 学年的 95.2% 降至 2024—2025 学年的 92.5%，为疫情暴发打开了大门。",
-          "link": "https://www.solidot.org/story?sid=83555",
-          "publishedOn": "2026-02-13T08:06:33.000Z",
-          "wordCount": 190,
-          "title": "麻疹卷土重来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83554",
-          "author": null,
-          "description": "天文学家首次完整观测到一颗大质量恒星在生命终点并未经历超新星爆发，而是直接坍缩形成黑洞。这颗名为 M31-2014-DS1 的恒星位于距地球约 250 万光年的仙女座星系。加州理工研究团队分析了 2005-2023 年间来自 NASA NEOWISE 项目及其他多台地面与空间望远镜的观测数据，发现该恒星的红外辐射自 2014 年起异常增亮，随后在 2016 年亮度急剧下降，整个变暗过程持续不到一年。在 2022-2023 年，该恒星在可见光与近红外波段已基本不可见，亮度仅为原先的万分之一，仅在热辐射更强的中红外波段留存微弱信号，亮度亦降至之前的十分之一。研究团队认为亮度骤降并最终消失的现象强烈表明，该恒星核心发生了引力坍缩并形成了黑洞。通常大质量恒星在耗尽核燃料后，核心会先坍缩为中子星，并借由中微子爆发产生向外激波，触发超新星爆炸。但理论预测，若激波未能抛射外层物质，物质将回落到中子星上，使其进一步坍缩成黑洞。此次观测首次为这一过程提供了直接证据。",
-          "link": "https://www.solidot.org/story?sid=83554",
-          "publishedOn": "2026-02-13T07:50:06.000Z",
-          "wordCount": 175,
-          "title": "首次观测到恒星直接坍缩成黑洞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83553",
-          "author": null,
-          "description": "根据发表在《科学》期刊上的一项研究，研究人员报告在实施为期十年的全方位商业禁渔令后，生态系统恶化已达数十年的长江正显现复苏端倪。自 1950 年代以来，中国经济的快速发展导致其境内最大、最长的河流——长江的淡水生物多样性严重衰退。这种衰退主要是由长达数十年的过度捕捞和栖息地退化造成的。尽管政府在生态保护和水质改善方面投入了巨资，但生物多样性却在持续下降，这引发了人们对传统恢复措施有效性的质疑。为此中国于 2021 年在整个长江流域实施了前所未有的十年禁渔令，并辅之以严格执法和环境统筹管理。通过分析 2018 年至 2023 年的数据，研究人员估了长江水域在禁渔令实施前后的鱼类群落状况。研究结果表明，实施禁渔令后，长江流域已显现出生态恢复的早期迹象，鱼类生物量增加了一倍多，物种丰富度亦有适度提升。体型较大、营养层级较高的物种恢复尤为显著，其数量与健康状况均优于禁渔之前。若干濒危物种与洄游物种——以及极度濒危的长江江豚——的种群数量也呈回升态势。",
-          "link": "https://www.solidot.org/story?sid=83553",
-          "publishedOn": "2026-02-13T07:00:41.000Z",
-          "wordCount": 166,
-          "title": "长江禁渔令缓解了生态系统恶化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83552",
-          "author": null,
-          "description": "基于 Ubuntu 的发行版 Linux Mint 考虑放慢发布周期。Ubuntu 是每半年发布一个新版本，Linux Mint 发布周期类似。项目联合创始人 Clem Lefebvre 指出，每六个月发布一个新版本，此外还包括 LMDE，他们花在测试、修 bug 和发布上的时间远多于开发时间。Linux Mint 考虑改变现状，采用更长的开发周期，未来会公布更多信息。",
-          "link": "https://www.solidot.org/story?sid=83552",
-          "publishedOn": "2026-02-13T06:47:27.000Z",
-          "wordCount": 181,
-          "title": "Linux Mint 考虑采用更长的开发周期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83551",
-          "author": null,
-          "description": "本周二晚上 FAA（美国联邦航空管理局）突然宣布德州 El Paso 周围空域关闭 10 天，但在周三上午 FAA 又突然宣布解除关闭。特朗普政府官员声称此举是为了应对墨西哥贩毒集团无人机的突然入侵。但知情人士称真正原因是 ICE 在未给予航空官员足够时间评估对商用飞机风险的情况下，部署了借自国防部的反无人机激光器。ICE 使用激光器击中了一个目标，他们以为是贩毒集团无人机，结果是气球。",
-          "link": "https://www.solidot.org/story?sid=83551",
-          "publishedOn": "2026-02-13T06:06:49.000Z",
-          "wordCount": 177,
-          "title": "ICE 部署反无人机激光器，FAA 紧急关闭空域",
           "imageUrl": null
         }
       ]
