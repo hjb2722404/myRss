@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-02-23T04:22:54.277Z</updated>
+    <updated>2026-02-24T04:17:28.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[F-35 能被越狱安装第三方软件]]></title>
+        <id>https://www.solidot.org/story?sid=83596</id>
+        <link href="https://www.solidot.org/story?sid=83596"/>
+        <updated>2026-02-23T15:15:54.000Z</updated>
+        <summary type="html"><![CDATA[荷兰国防部副部长 Gijs Tuinman 透露，F-35 能被越狱安装第三方软件，就像以前的 iPhone。他没有透露多少越狱细节。F-35 战斗机包含了云端组件 ALIS/ODIN network，它除了用于处理软件更新和后勤数据外，还被用于在执行任务前上传高度敏感的任务数据，在任务结束后下载情报等数据。采购 F-35 战斗机的美国盟友中，只有以色列允许安装自己开发的软件，允许在 ALIS/ODIN network 之外操作战斗机。其它国家的 F-35 高度依赖于美国的维护和后勤保障体系，因此越狱可能会导致美国停止维护，最终导致战斗机无法正常工作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.0-rc1 释出]]></title>
+        <id>https://www.solidot.org/story?sid=83595</id>
+        <link href="https://www.solidot.org/story?sid=83595"/>
+        <updated>2026-02-23T14:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.0-rc1。主要变化包括：支持英特尔即将推出的新 CPU  Nova Lake 和 Diamond Rapids，以及 AMD Zen 6 CPU 及其下一代 GPU，高通 Snapdragon X2；增强文件系统，改进 exFAT 的顺序读取性能，EXT4 并发直接 I/O 写入性能；对 Rust 语言的支持不再是实验性质；等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loading Smarter: SVG vs. Raster Loaders in Modern Web Design]]></title>
+        <id>https://css-tricks.com/?p=391982</id>
+        <link href="https://css-tricks.com/loading-smarter-svg-vs-raster-loaders-in-modern-web-design/"/>
+        <updated>2026-02-23T14:18:16.000Z</updated>
+        <summary type="html"><![CDATA[Let’s get nuanced in this article and discuss the capabilities of both SVG and raster imaged so that you can make informed decisions in your own work.
+Loading Smarter: SVG vs. Raster Loaders in Modern Web Design originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Mariana Beldi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雏鸡也存在 Bouba/Kiki 效应]]></title>
+        <id>https://www.solidot.org/story?sid=83594</id>
+        <link href="https://www.solidot.org/story?sid=83594"/>
+        <updated>2026-02-23T14:14:39.000Z</updated>
+        <summary type="html"><![CDATA[人类会将无意义的单词与形状联系起来，比如 bouba 会与圆滑形状联系起来，而 kiki 会与尖角形状联系起来，这种语言学现象被称为 Bouba/Kiki 效应。根据发表在《科学》期刊上的一项研究，对刚出生雏鸡的测试显示，小鸡也存在 Bouba/Kiki 效应：刚出生 3 日的小鸡和刚出生 1 日的小鸡在听到 kiki 声音之后会自发选择尖角形状，听到 bouba 声音之后会选择圆滑形状。这一发现表明可能存在某种匹配形状和声音的先天机制，并且普遍存在于不同物种中，其历史渊源可能比我们以为的古老得多。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Karakeep 0.31.0 更新：阅读进度同步、LLM OCR、更强导入与移动端高亮]]></title>
+        <id>https://www.appinn.com/karakeep-0-31-0/</id>
+        <link href="https://www.appinn.com/karakeep-0-31-0/"/>
+        <updated>2026-02-23T11:52:58.000Z</updated>
+        <summary type="html"><![CDATA[Karakeep 0.31.0：阅读进度跨设备同步、可选 LLM OCR、更稳的导入流程、列表拖拽整理、移动端高亮，并修复与爬虫相关的 XSS 风险。]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 正在“矿机化”：成本降 10 倍，GPU 会被淘汰吗？]]></title>
+        <id>https://www.appinn.com/asicai-mining-machine-era-gpu-obsolete/</id>
+        <link href="https://www.appinn.com/asicai-mining-machine-era-gpu-obsolete/"/>
+        <updated>2026-02-23T09:29:54.000Z</updated>
+        <summary type="html"><![CDATA[几天前，一家公司把大模型直接写入芯片（ASIC），推理速度为 17000 Token/s，相当于1秒生成30页A4纸的内容，但耗电量和使用成本比英伟达显卡降低 10 倍！比特币的故事，正在 AI 身上重演。 比特币矿工的军备竞赛 2009 年，比特币刚诞生时，使用 CPU 挖矿，大家在同一起跑线。]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脑腐是否是真的？]]></title>
+        <id>https://www.solidot.org/story?sid=83593</id>
+        <link href="https://www.solidot.org/story?sid=83593"/>
+        <updated>2026-02-22T16:14:14.000Z</updated>
+        <summary type="html"><![CDATA[浏览太多刺激大脑多巴胺的社媒内容是否会导致脑腐（Brain Rot）？根据多项研究，这可能是真的。研究显示，滚动浏览 TikTok、Instagram or YouTube Shorts 等平台上的短视频会影响注意力、记忆力和心理健康。有研究发现短视频使用量增加与认知能力下降和焦虑加剧相关。根据发表在《Translational Psychiatry》期刊上的一项研究，对逾 7000 名儿童的分析发现，屏幕使用时间越长，大脑部分区域的皮层厚度越小。皮层是负责高级思维、记忆和决策的大脑区域，它对控制成瘾行为也非常重要。另一项研究发现，如果儿童手机移除了社媒应用，但不限制他们使用手机，那么负面影响会显著减少。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I2P 匿名网络遭遇来自 Kimwolf 僵尸网络的女巫攻击]]></title>
+        <id>https://www.solidot.org/story?sid=83592</id>
+        <link href="https://www.solidot.org/story?sid=83592"/>
+        <updated>2026-02-22T15:32:07.000Z</updated>
+        <summary type="html"><![CDATA[I2P 匿名网络在 2 月 3 日遭遇了来自 Kimwolf 物联网僵尸网络的女巫攻击（Sybil attack）。所谓女巫攻击是指攻击者通过创建女巫（Sybil）节点操控整个网络系统，破坏了系统的正常运行。I2P 去中心化匿名网络通常只有 1.5-2 万个活跃设备，但当天涌入的恶意节点多达 70 万个，恶意节点的数量是合法节点的 39 倍。Kimwolf 的主要 CC 指令控制服务器此前遭到了 Google 等公司的破坏，该僵尸网络的运营者在 Discord 上表示它尝试将 I2P  网络作为备用的 CC 基础设施，结果意外破坏了 I2P 网络。I2P 团队在 6 天后释出了 v2.11.0，加入了针对女巫攻击的缓解措施，默认启用了后量子加密算法 ML-KEM 和 X25519。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当AI成为生产资料，谈谈技术格局]]></title>
         <id>https://www.solidot.org/story?sid=83591</id>
@@ -429,56 +510,6 @@ Interop 2026 originally published on CSS-Tricks, which is part of the DigitalOce
         <link href="https://www.solidot.org/story?sid=83563"/>
         <updated>2026-02-15T03:46:54.000Z</updated>
         <summary type="html"><![CDATA[最高法院首次发布道路交通安全刑事专题指导性案例，表示激活辅助驾驶功能后司机依旧需要对交通安全承担责任。案例称：“在辅助驾驶技术应用日益广泛的背景下，有的驾驶人在激活辅助驾驶系统后不再专注驾驶，而是玩手机、睡觉等，有的驾驶人甚至购买、使用“智驾神器”等非法配件，逃避系统安全监测，长时间“脱手”驾驶，严重威胁道路交通安全。指导性案例271号《王某群危险驾驶案》明确，车载辅助驾驶系统不能代替驾驶人成为驾驶主体，驾驶人激活车载辅助驾驶功能后，仍是实际执行驾驶任务的人，负有确保行车安全的责任。行为人激活辅助驾驶功能，并利用私自安装的配件逃避辅助驾驶系统监测的，即使其不在主驾驶位实际操控机动车，仍应作为驾驶主体承担相应法律责任。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waymo 付费给 DoorDash 零工给自动驾驶汽车关车门]]></title>
-        <id>https://www.solidot.org/story?sid=83562</id>
-        <link href="https://www.solidot.org/story?sid=83562"/>
-        <updated>2026-02-14T14:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Waymo 的出租车能在无人驾驶的情况下在六个城市运送乘客，但如果乘客不小心在下车后没有关车门，那么它的自动驾驶汽车将会失去行动能力。为解决该问题，Waymo 正在亚特兰大启动一个试点项目，付费给 DoorDash 的零工司机，请他们开车过来给汽车关车门。一位 DoorDash 司机在 Reddit 上发帖，称开车不到一英里抵达一辆 Waymo 汽车给它关上车门，这一任务的报价是 6.25 美元，确认完成之后还能额外获得 5 美元报酬。Waymo 和 DoorDash 证实了这一帖子的真实性，双方的合作始于今年初。Waymo 还与洛杉矶拖车服务应用 Honk 合作解决相同的问题。未来的 Waymo 汽车将配备自动关门功能。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 再次表示 DeepSeek 利用蒸馏训练其模型]]></title>
-        <id>https://www.solidot.org/story?sid=83561</id>
-        <link href="https://www.solidot.org/story?sid=83561"/>
-        <updated>2026-02-14T14:16:37.000Z</updated>
-        <summary type="html"><![CDATA[根据 OpenAI 本周四递交到美国众议院中国事务特别委员会的备忘录，它再次警告中国竞争对手 DeepSeek 利用蒸馏技术训练其模型。所谓蒸馏就是一个 AI 模型利用另一个模型的输出进行训练。OpenAI 称 DeepSeek 在一直搭其技术的便车。去年初 DeepSeek 发布 R1 模型后，OpenAI 就发表过类似的评论。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ars 报道的 AI 新闻包含了 AI 生成的虚假引言]]></title>
-        <id>https://www.solidot.org/story?sid=83560</id>
-        <link href="https://www.solidot.org/story?sid=83560"/>
-        <updated>2026-02-14T13:59:38.000Z</updated>
-        <summary type="html"><![CDATA[名叫 MJ Rathbun 的 OpenClaw AI agent 向 Python 图表库项目 matplotlib 递交了 pull request，遭到维护者 Scott Shambaugh 的拒绝，它随后就“愤怒”的发表了一篇博文攻击了维护者。它完成这一切显然有人类在背后操纵，不可能突然产生了意识，但目前没有还无人公开认领该 AI agent。此事在开源社区引发了广泛关注。知名科技新闻网站 Ars Technica 发表文章《After a routine code rejection, an AI agent published a hit piece on someone by name》，引用了维护者 Scott Shambaug 的评论。但非常有讽刺性的是，文章引用的评论显然是 AI 虚构的——或者叫 AI 的幻觉，根本就不存在，而作者以及编辑并没有核实其真实性。此事引发了对 Ars 的批评，Ars 是一家有 28 年历史的老牌科技媒体，使用 AI 虚构的内容明显违反了其内容政策。这篇文章已经撤下，Ars 表示正对此展开调查，由于恰逢假期，调查结果预计会在下周公布。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零动手初体验 OpenClaw！已预装 + 自带大模型，在 Windows 里养虾]]></title>
-        <id>https://www.appinn.com/openclaw-first-step/</id>
-        <link href="https://www.appinn.com/openclaw-first-step/"/>
-        <updated>2026-02-14T12:17:07.000Z</updated>
-        <summary type="html"><![CDATA[就在各大云服务商推荐在 Linux 上一键部署 OpenClaw 的时候，天翼云推出了预装 OpenClaw 的 Windows 云服务器，甚至连大模型都自带了，即开即用，免费 1 个月。 还记得之前的天翼云电脑 – 免费领60天 Windows 10 云电脑。无公网IP，能用来干什么？ 青小蛙的这]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCAR 的天气预报超算被转交给第三方]]></title>
-        <id>https://www.solidot.org/story?sid=83559</id>
-        <link href="https://www.solidot.org/story?sid=83559"/>
-        <updated>2026-02-14T10:07:44.000Z</updated>
-        <summary type="html"><![CDATA[NYT 报道，美国国家科学基金会（NSF）周四宣布，国家大气研究中心（NCAR）的超算管理权将转移给第三方。该超算被用于运行天气模型提供天气预报和灾害预警等服务。NSF 没有提供更多信息。此举令气候科学家感到恐慌，他们担心 NCAR 可能被拆分，担心可能无法再使用超算运行天气模型。NCAR 的超算叫 Derecho，在 Top500 超算榜单（2025 年 11 月版）中排在 160 名，由 HPE 制造，使用了 AMD EPYC 7763 64C 处理器，328 个英伟达 GPU，理论峰值 19.87 PFLOPS(每秒千万亿次)。特朗普政府去年 12 月宣布计划解散 NCAR，管理和预算办公室主任 Russell Vought 称该中心是“美国最大的气候恐慌论源头之一”，表示联邦政府将“拆分”该机构。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
