@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/cucloud-openclaw/",
+          "author": "青小蛙",
+          "description": "实在没想到，OpenClaw 的出圈导致传统云服务厂商，开始以这样的方式推广自己的服务器。前不久天翼云赠送了1个月的 OpenClaw 服务器（自带 AI 额度），现在联通云也来送了。 具体来说，还是 1 个月的使用时常，配置为4核8G无公网IP，或者2核4G 3M公网带宽。均为 Windows 系",
+          "link": "https://www.appinn.com/cucloud-openclaw/",
+          "publishedOn": "2026-02-28T11:20:34.000Z",
+          "wordCount": 3173,
+          "title": "限量5000台，联通云免费送1个月4核8G服务器，预装 OpenClaw",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1772277495786-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/eggs-227/",
           "author": "青小蛙",
           "description": "本周传统赛博领鸡蛋来自 Epic，两款游戏。其中第一款还可以领取手机版本。 Boxes: Lost Fragments 一款偏“密室逃脱/机关盒解谜”的冒险游戏，作为一名传奇小偷，你的下一个任务引诱你进入一所宏伟奢华的豪宅。在这所豪宅中，你会发现一系列目的不明的谜题盒。本应快速进出的任务，突然变成了",
@@ -140,31 +150,6 @@
           "wordCount": 2349,
           "title": "OpenClaw 一周更新：普通用户值得关注什么？iPhone、Android 成为能力节点",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1771571508940-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/tailscale-peer-relays/",
-          "author": "青小蛙",
-          "description": "Tailscale 正式发布了对等中继（Peer Relays）功能，无需任何额外部署，只需要一行命令，就能使用已经在 Tailscale 网络中的设备充当中继服务，从而提高10倍网络性能。@Appinn Tailscale 有一个公共的中继网络，叫 DERP 服务器。但这是所有 Tailscale",
-          "link": "https://www.appinn.com/tailscale-peer-relays/",
-          "publishedOn": "2026-02-19T08:11:48.000Z",
-          "wordCount": 3127,
-          "title": "Tailscale 对等中继正式发布：不用部署服务器，用自己的设备当中继｜提升10倍网络性能",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/Copy-of-appinn-homework-65.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/10-tools-to-try-during-chinese-new-year/",
-          "author": "青小蛙",
-          "description": "如果春节里觉得无聊了，就试试下面的工具..吧。第一条第四条不算工具，算…通知吧。 好了，直接开始： 除了西部数据，希捷也宣布 2026 年硬盘卖完了。 昨天西部数据表示，2026年硬盘已经全年售罄，今天又获息：希捷也卖完了 😂 目前，全球能生产 HDD 硬盘的三家厂商中（是的，青小蛙确认",
-          "link": "https://www.appinn.com/10-tools-to-try-during-chinese-new-year/",
-          "publishedOn": "2026-02-19T04:17:50.000Z",
-          "wordCount": 2944,
-          "title": "10款值得在春节折腾的工具｜最后一个压轴",
-          "enclosure": {
-            "url": "https://static3cdn.appinn.com/images/2026/02/font_rendering_4-ezgif.com-gif-to-mp4-converter.mp4",
-            "length": "14912",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1771406280864-1.jpg"
         }
       ]
     },
@@ -242,16 +227,6 @@
             "type": "video/quicktime"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/pointer-click.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=390460",
-          "author": "Zell Liew",
-          "description": "The distinction between \"components\" and \"utilities\" seems clear at first glance, but gets a little blurred when working with them in Tailwind.\nDistinguishing “Components” and “Utilities” in Tailwind originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/distinguishing-components-and-utilities-in-tailwind/",
-          "publishedOn": "2026-02-18T16:21:41.000Z",
-          "wordCount": 1612,
-          "title": "Distinguishing “Components” and “Utilities” in Tailwind",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/02/tailwind-paint.jpg"
         }
       ]
     },
@@ -294,6 +269,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83646",
+          "author": null,
+          "description": "根据发表在《Animal Behaviour》期刊上的一项研究，匈牙利研究人员对比了人在需要帮助时 18-24 个月的幼儿、以及宠物狗和猫的反应。结果显示，狗的自发性亲社会行为与幼儿类似，而猫则是冷眼旁观。在实验中，熟人如父母或主人假装在寻找一个藏起来的东西，四分之三的情况下狗和幼儿会提供帮助。猫只有在符合自身利益时才会参与进来提供帮助。",
+          "link": "https://www.solidot.org/story?sid=83646",
+          "publishedOn": "2026-02-28T15:21:49.000Z",
+          "wordCount": 168,
+          "title": "当你需要帮助时狗的反应类似 2 岁小孩但猫只会旁观",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83645",
+          "author": null,
+          "description": "发生在 1991 年—1995 年之间的克罗地亚战争广泛使用地雷，战后留下了超过 1000 平方公里的布雷区。在战争结束 31 年之后，克罗地亚内政部长 Davor Božinović 宣布所有已知的雷区均已清除完毕。清除地雷期间有 208 人死亡，包括 41 名排雷人员，总耗资约 12 亿欧元。他表示共清除了近 10.7 万枚地雷和 40.7 万枚未爆弹药。",
+          "link": "https://www.solidot.org/story?sid=83645",
+          "publishedOn": "2026-02-28T14:59:56.000Z",
+          "wordCount": 186,
+          "title": "克罗地亚宣布在战争结束 31 年后完成地雷清除工作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83644",
+          "author": null,
+          "description": "Metacritic 是一家聚合电影、电视、音乐专辑、游戏评测及其评分的网站，它会基于相关评分给出一个加权平均值。Metacritic 成立于 2001 年，至今有 25 年历史，它的综合评分获得了广泛认可。网站联合创始人 Marc Doyle 在一份声明中表示 Metacritic 不会收录 AI 生成的评测。在这之前，一家叫 Videogamer.com 的英国老牌游戏网站（曾经很受欢迎）在被博彩公司收购之后解雇了大部分员工，然后用 AI 生成了新游戏的评测和评分。该网站评测作者的肖像是用 ChatGPT 生成的。Metacritic 在获悉之后删除了该网站的评测。",
+          "link": "https://www.solidot.org/story?sid=83644",
+          "publishedOn": "2026-02-28T14:06:23.000Z",
+          "wordCount": 194,
+          "title": "Metacritic 不收录 AI 生成的评测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83643",
+          "author": null,
+          "description": "NASA 宣布调整阿耳忒弥斯(Artemis)系列载人登月计划：原计划今年 3 月 6 日发射的 Artemis II 载人绕月飞行任务推迟到最早 4 月 1 日进行；Artemis III 载人登月任务不再计划登月，而仍然是绕月飞行。NASA 局长 Jared Isaacman 表示，更为循序渐进的新计划让 NASA 团队能测试飞行和改进技术。",
+          "link": "https://www.solidot.org/story?sid=83643",
+          "publishedOn": "2026-02-28T12:58:17.000Z",
+          "wordCount": 195,
+          "title": "NASA 宣布 Artemis III 任务仍然是绕月而非登月",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83642",
+          "author": null,
+          "description": "在特朗普宣布禁用 Anthropic AI 技术数小时后，其竞争对手 OpenAI 的 CEO Sam Altman 宣布与五角大楼达成协议，在其机密网路中部署旗下 AI 模型。Anthropic 是出于安全原则上的问题而与五角大楼发生分歧，OpenAI 明显在安全原则上更愿意妥协，该公司此举立即在用户中间引发争议和批评，在社交网络 Reddit 和 Hacker News 上，用户纷纷呼吁取消 ChatGPT 订阅，删除该应用，改用 Anthropic 的 Claude。",
+          "link": "https://www.solidot.org/story?sid=83642",
+          "publishedOn": "2026-02-28T09:43:39.000Z",
+          "wordCount": 193,
+          "title": "OpenAI 与五角大楼达成合作，用户纷纷取消 ChatGPT 订阅",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83641",
+          "author": null,
+          "description": "根据 Netblocks 的监测，伊朗再次接近全面断网。此举可能是伊朗政府对正在进行的战争采取的信息管制措施，而非战争破坏通信基础设施导致的结果。以色列和美国刚刚对伊朗发动了“先发制人”的空袭，首都德黑兰、Isfahan、Qom、Karaj 和 Kermanshah 五大城市遭到袭击。",
+          "link": "https://www.solidot.org/story?sid=83641",
+          "publishedOn": "2026-02-28T08:35:57.000Z",
+          "wordCount": 163,
+          "title": "伊朗再次全面断网",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83640",
+          "author": null,
+          "description": "关于月球早期磁场是强是弱，科学界一直有争论。牛津大学科学家通过分析阿波罗任务带回的样本，发现月球曾拥有极强磁场，强度甚至一度超过地球磁场。只不过，这些“强磁场时刻”极其短暂，更像昙花一现的例外，而非常态。大多数时间里，月球磁场其实很弱。新研究认为：在月球深处，富含钛的物质曾因高温而熔化，在极短时间内催生出强烈的磁场。研究发现，月球样本中钛含量与磁场强度密切相关。富钛岩石往往伴随强磁场记录，而钛含量低于 6% 的样本，则磁场微弱。",
+          "link": "https://www.solidot.org/story?sid=83640",
+          "publishedOn": "2026-02-28T08:24:54.000Z",
+          "wordCount": 160,
+          "title": "月球短暂拥有过强于地球的磁场",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83639",
+          "author": null,
+          "description": "著名科幻、奇幻和恐怖小说家丹·西蒙斯于 2 月 21 日因中风去世，享年 77 岁。西蒙斯出生于美国伊利诺伊州，先后获得英语学士学位和教育硕士学位，最初在小学工作，1985 年出版了他的第一本书《Song of Kali》，他从事小学教育工作至 1989 年，当年他出版了被誉为最伟大科幻小说之一的《海伯利安》。海伯利安讲述了七 名前往光阴冢(Time tombs)的朝圣者的故事。七名朝圣者包括了领事、神父、军人、诗人、圣徒、学者和侦探。这本书为他赢得了雨果奖和轨迹奖。西蒙斯之后还发表了三本续集《海伯利安的陨落》、《安迪密恩》和《安迪密恩的崛起》，四本书组成了《海伯利安诗篇》系列。他的其它作品包括以英国探险家约翰·富兰克林为主角的历史小说《极地恶灵》等。",
+          "link": "https://www.solidot.org/story?sid=83639",
+          "publishedOn": "2026-02-28T07:09:30.000Z",
+          "wordCount": 179,
+          "title": "丹·西蒙斯因中风去世，享年 77 岁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83638",
+          "author": null,
+          "description": "韩国逆转了长达 20 年的限制高精度地图数据出口的政策，为 Google 地图能在韩国正常工作铺平了道路。韩国目前仍与朝鲜处于技术上的战争状态，禁止出口高精度地图数据的政策与此相关，它此前于 2007 年和 2016 年两次拒绝了 Google 出口地图数据的请求，理由是担心敏感的军事和安全设施信息可能泄露。韩国要求 Google 今后提供涉韩卫星影像和航拍图片时须使用经特殊处理的图像，对之前已经发布的时间序列影像和街景中出现的军事、安全设施进行遮挡处理。Google 须利用韩国合作伙伴企业的境内服务器对原始数据进行加工，并经政府审核将相关数据向境外传输，而且相关数据仅限于导航、地图服务。",
+          "link": "https://www.solidot.org/story?sid=83638",
+          "publishedOn": "2026-02-28T06:24:31.000Z",
+          "wordCount": 179,
+          "title": "韩国允许 Google 使用高精度地图数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83637",
+          "author": null,
+          "description": "特朗普命令所有联邦机构立即停用 Anthropic 的 AI 技术。在这之前 Anthropic 与美国国防部在军事用途的安全限制上发生分歧。Anthropic 去年 7 月与五角大楼签署了价值 2 亿美元的合同，该公司在合同中加入了限制条款，禁止将其 Claude 模型用于对美国公民进行大规模监视，禁止在缺乏人类监管的情况下将模型用于决定军事任务的目标锁定。Anthropic 认为 AI 的幻觉问题无法避免，可能存在误判，可能会导致局势非预期升级。但五角大楼要求不受限的使用 Claude，国防部长 Pete Hegseth 设定了周五下午五点为废除安全限制的最后期限。特朗普称，美国绝不会允许一家激进左派、觉醒的公司决定我们伟大军队如何作战与赢得战争（THE UNITED STATES OF AMERICA WILL NEVER ALLOW A RADICAL LEFT, WOKE COMPANY TO DICTATE HOW OUR GREAT MILITARY FIGHTS AND WINS WARS! ）。在特朗普发布命令之后，Pete Hegseth 将 Anthropic 列为国家安全的供应链风险。",
+          "link": "https://www.solidot.org/story?sid=83637",
+          "publishedOn": "2026-02-28T06:06:27.000Z",
+          "wordCount": 221,
+          "title": "特朗普命令联邦机构立即停用 Anthropic 的 AI 技术",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83636",
           "author": null,
@@ -832,46 +907,6 @@
           "publishedOn": "2026-02-20T10:24:36.000Z",
           "wordCount": 165,
           "title": "家猫的癌症基因组",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83581",
-          "author": null,
-          "description": "Fedora Infrastructure Team 团队上周解除了对叙利亚 IP 地址范围块的封禁，允许叙利亚网民下载 Fedora Linux 发行版的镜像，恢复了他们对 Fedora Linux RPM 库、Fedora Account System 和 Fedora 构建系统的访问。叙利亚用户访问 Fedora 项目不再受到限制。特朗普政府去年解除了对叙利亚的制裁，美国商务部随后也放宽了对叙利亚的出口管制政策，Fedora 项目此举就是对出口管制政策变化的回应。",
-          "link": "https://www.solidot.org/story?sid=83581",
-          "publishedOn": "2026-02-19T13:39:25.000Z",
-          "wordCount": 189,
-          "title": "Fedora 项目对叙利亚解除 IP 封禁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83580",
-          "author": null,
-          "description": "过去十年美国向“互联网自由（Internet Freedom）”项目资助了逾 10 亿美元，但特朗普上台之后，相关项目几乎立即停止了拨款。作为政府大规模裁员的一部分，项目的资深员工在 2025 年辞职或被解雇，许多子项目永久取消。负责管理半数项目资金的非盈利组织 Open Technology Fund(OTF)去年 12 月赢得了对政府的诉讼，但特朗普政府正对裁决提起上诉。特朗普政府也在今年 1 月退出了捍卫数字权利的联盟 Freedom Online Coalition。通过互联网自由项目获得拨款的流行工具包括了加密通讯服务 Signal 和 Tor 浏览器，以及其它规避审查的工具和技术。",
-          "link": "https://www.solidot.org/story?sid=83580",
-          "publishedOn": "2026-02-19T13:04:36.000Z",
-          "wordCount": 176,
-          "title": "美国停止资助互联网自由项目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83579",
-          "author": null,
-          "description": "根据发表在《JAMA Internal Medicine》期刊上的一项研究，MRI 成像显示 99% 的 40 岁以上成年人存在一处肩袖异常，研究人员认为如此高比例的人存在相似情况，那么这种情况不应该视为异常而应该视为无需治疗的正常情况。肩袖是稳定肩膀且允许肩关节广泛活动的一群肌肉及其肌腱。有 602 名年龄在 41-76 岁的参与者完成了研究，82% 的人报告没有肩部症状，18% 报告有症状。MRI 成像显示 595 人（99%）至少存在一处肩袖异常，最常见的异常是部分撕裂（62%），其次是肌腱病（25%）和全厚度撕裂（11%），男女比例类似，其中全厚度撕裂 45 岁以下参与者没有发现，70-76 岁人群比例最高。",
-          "link": "https://www.solidot.org/story?sid=83579",
-          "publishedOn": "2026-02-19T12:46:56.000Z",
-          "wordCount": 192,
-          "title": "99% 的 40 岁以上成年人存在一处肩袖异常",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83578",
-          "author": null,
-          "description": "Google 推出了新中端手机 Pixel 10a，其配置和 500 美元价格与去年推出的 Pixel 9a 基本相同，最显著的变化是摄像头不再凸起了，手机可以在桌子上滑来滑去了。Pixel 10a 显示屏分辨率和 Pixel 9a 相同，保护玻璃和最高亮度略有提升，处理器仍然是 Tensor G4 而不是其它 Pixel 10 系列采用的新一代 Tensor G5 SoC，摄像头硬件、内存、存储都和 Pixel 9a 一样，电池续航略有提升，Pixelsnap Qi2 无线充电和 Gemini AI 高级功能都没有提供。",
-          "link": "https://www.solidot.org/story?sid=83578",
-          "publishedOn": "2026-02-19T11:59:54.000Z",
-          "wordCount": 214,
-          "title": "Google 的新手机 Pixel 10a 基本上就是去年的 Pixel 9a",
           "imageUrl": null
         }
       ]
