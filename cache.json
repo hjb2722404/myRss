@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/openclaw-synology-chat/",
+          "author": "青小蛙",
+          "description": "通过群晖 Chat 使用 OpenClaw，这大概是群晖 Chat 套件最有用的一集。 OpenClaw 新版本新增了 Synology Chat 渠道，对于各大群晖用户，这是一个好消息。因为可以捡起来曾经装过的群晖 Chat 套件，虽然从来没用过，但在 Telegram 配置不了，飞书超额度的情况",
+          "link": "https://www.appinn.com/openclaw-synology-chat/",
+          "publishedOn": "2026-03-02T01:44:54.000Z",
+          "wordCount": 3110,
+          "title": "OpenClaw 支持群晖 Chat 渠道进行对话：@openclaw/synology-chat 简易教程",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1772415235914-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/12306-cjh0613/",
+          "author": "青小蛙",
+          "description": "我也是通过这个帖子才知道的，12306 居然有积分，而且这个积分还可以买票！当然存在一个问题：积分不用掉就会过期，怎么办？ 12306 铁路会员积分 在 12306 手机应用的铁路会员界面顶部，可以看到会员登记，以及积分： 比如青小蛙还有5000多积分，以及今年4月份将过期95积分。100积分等于1",
+          "link": "https://www.appinn.com/12306-cjh0613/",
+          "publishedOn": "2026-03-01T10:23:48.000Z",
+          "wordCount": 2746,
+          "title": "12306 居然有积分？12306 居然可以用积分买票？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1772359866099-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/everything-1-5-a/",
+          "author": "青小蛙",
+          "description": "距离 Everything 上次（1.5.0.1393a）更新已经过去7个月了，这期间 Everything 1.5 版本一直在更新，2026年2月26日更新了 1405 版本，包括稳定性清理安全加固、搜索引擎强化，拼音加强等功能，让 Everything 1.5 Alpha 进入了全面稳定期，适合",
+          "link": "https://www.appinn.com/everything-1-5-a/",
+          "publishedOn": "2026-03-01T07:28:43.000Z",
+          "wordCount": 3130,
+          "title": "Everything 1.5 Alpha 进入全面稳定期",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/05/cover-1772348818645-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/cucloud-openclaw/",
           "author": "青小蛙",
           "description": "实在没想到，OpenClaw 的出圈导致传统云服务厂商，开始以这样的方式推广自己的服务器。前不久天翼云赠送了1个月的 OpenClaw 服务器（自带 AI 额度），现在联通云也来送了。 具体来说，还是 1 个月的使用时常，配置为4核8G无公网IP，或者2核4G 3M公网带宽。均为 Windows 系",
@@ -130,26 +160,6 @@
           "wordCount": 2796,
           "title": "国家队也做云盘了？中科院免费送 20GB 空间，支持 S3 / WebDAV / 微信上传",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1771669856587.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/joy-emulator-3ds-psx-psp-gba/",
-          "author": "青小蛙",
-          "description": "新上架的 iPhone 模拟器 JOY：覆盖 3DS/PSP/GBA/PS1/街机等平台，支持手柄与投屏，目前限免中。",
-          "link": "https://www.appinn.com/joy-emulator-3ds-psx-psp-gba/",
-          "publishedOn": "2026-02-20T09:20:58.000Z",
-          "wordCount": 2780,
-          "title": "JOY – 游戏模拟器 iOS 限免：3DS、PSP、GBA、街机等多平台",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/Copy-of-appinn-homework-66.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/openclaw-weekly-update-2026-02-20/",
-          "author": "青小蛙",
-          "description": "OpenClaw 2026.2.13 到 2026.2.19：消息更稳、Telegram Topic 投递更准、Slack 流式输出、iOS 分享与后台唤醒增强。",
-          "link": "https://www.appinn.com/openclaw-weekly-update-2026-02-20/",
-          "publishedOn": "2026-02-20T07:17:00.000Z",
-          "wordCount": 2349,
-          "title": "OpenClaw 一周更新：普通用户值得关注什么？iPhone、Android 成为能力节点",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/02/cover-1771571508940-1.jpg"
         }
       ]
     },
@@ -212,21 +222,6 @@
           "wordCount": 2599,
           "title": "Loading Smarter: SVG vs. Raster Loaders in Modern Web Design",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/raster-vs-vector.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392208",
-          "author": "Daniel Schwarz",
-          "description": "Danny has several ideas for how we could use :near(), a proposed pseudo-class that detects when the pointer is near an element. \nPotentially Coming to a Browser :near() You originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/potentially-coming-to-a-browser-near-you/",
-          "publishedOn": "2026-02-20T15:36:55.000Z",
-          "wordCount": 2708,
-          "title": "Potentially Coming to a Browser :near() You",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-06-at-8.58.26-AM.mov",
-            "length": "21913074",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/09/pointer-click.png"
         }
       ]
     },
@@ -269,6 +264,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83648",
+          "author": null,
+          "description": "美国多个州都要求成人网站验证访客年龄，但验证年龄的常用方法如扫描脸部或提供身份证件都存在泄露隐私的问题。加州以及科罗拉多州计划要求在操作系统层级验证年龄，然后通过 API 与应用共享。加州去年通过了 AB 1043 法案，要求操作系统开发商创建一种让设备所有者注册其年龄段的方法，该法律将于 2027 年 1 月 1 日生效。科罗拉多州的议员提出了类似的法案 SB26-051，该法案的共同提出者参议员 Matt Ball 表示，他们的目的通过一个以注重隐私的年龄验证框架为儿童的网络安全提供周全的保障。",
+          "link": "https://www.solidot.org/story?sid=83648",
+          "publishedOn": "2026-03-01T10:52:34.000Z",
+          "wordCount": 173,
+          "title": "美国加州和科罗拉多州计划要求在操作系统层级验证用户年龄",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83647",
+          "author": null,
+          "description": "本周五，美国总统特朗普下令联邦机构立刻停用 Anthropic 的 Claude 助手，原因是 Anthropic 在安全原则上坚守其立场。相比之下，其竞争对手 OpenAI 看起来完全没有任何立场，此举在美国用户中间引发了卸载 OpenAI 的 ChatGPT 安装 Claude 的热潮，这一趋势推动 Claude 周六跃居苹果 App Store 美国区免费应用榜榜首，超过了 ChatGPT，ChatGPT 屈居第二，Google 的 Gemini 排名第四。根据分析公司 Sensor Tower 的数据，一个月前的 1 月 30 日 Claude 还排在排行榜的第 131 名，2 月的大部分时间徘徊在前 20 名左右，而 ChatGPT 通常是第一名。Anthropic 还发布了记忆导入功能，方便 ChatGPT 用户改用 Claude。",
+          "link": "https://www.solidot.org/story?sid=83647",
+          "publishedOn": "2026-03-01T10:27:05.000Z",
+          "wordCount": 214,
+          "title": "Anthropic 的 Claude 在苹果美国区免费应用榜跃居第一",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83646",
           "author": null,
@@ -867,46 +882,6 @@
           "publishedOn": "2026-02-21T10:50:00.000Z",
           "wordCount": 192,
           "title": "在是否保持 Android 开放上 Google 口惠而实不至",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83585",
-          "author": null,
-          "description": "美国总统特朗普（Donald Trump）表示他将命令包括国防部在内的机构公开外星人和 UFO 相关文件。此举被广泛视为是转移公众对爱泼斯坦文件（Epstein files）的注意力。特朗普表示他不知道外星人是否真实存在。上周美国前总统奥巴马（Barack Obama）接受 Brian Tyler Cohen 采访时表示他相信外星人真实存在，但他没有见过外星人，外星人也没有关在 51 区，51 区也不存在秘密的地下设施，除非真的存在某种巨大阴谋，阴谋者甚至向美国总统隐瞒了外星人的存在。",
-          "link": "https://www.solidot.org/story?sid=83585",
-          "publishedOn": "2026-02-20T12:32:11.000Z",
-          "wordCount": 178,
-          "title": "特朗普将下令公开外星人和 UFO 相关文件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83584",
-          "author": null,
-          "description": "在暗网毒品市场 Incognito 管理员 Lin Rui-Siang 的量刑听证会上，他的辩护律师首次披露，Incognito 的另一名管理员是 FBI 的线人，而这位管理员负责了 Incognito 大部分的毒品交易，Lin 坚称他主要负责代码和网站的技术基础设施。Lin 在狱中接受采访时表示，未披露名字的 FBI 线人是 Incognito 的正式合伙人，负责了网站大部分的管理工作，包括解决纠纷，允许哪些卖家出售毒品哪些卖家将被剔除。Lin 称是 FBI 在运营这个毒品交易网站。检方则否认该线人是 Lin 的同级，称线人是其下属不具有平等关系，否认政府运营该网站。",
-          "link": "https://www.solidot.org/story?sid=83584",
-          "publishedOn": "2026-02-20T11:48:21.000Z",
-          "wordCount": 186,
-          "title": "FBI 线人协助运营了暗网毒品市场 Incognito",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83583",
-          "author": null,
-          "description": "Mozilla 称，2023 年 7 月释出的 Firefox 115 ESR 是 Firefox 支持 Windows 7/8/8.1 的最后一个版本，它将在 2026 年 2 月底为 Firefox 115 ESR 释出最后一个安全更新，之后将停止对它的支持。它建议 Windows 7/8/8.1 用户升级到 Windows 10 或更新版本，如果他们的 PC 由于微软设定的限制无法升级到 Windows 10 或 11，Mozilla 建议用户切换到 Linux 发行版。",
-          "link": "https://www.solidot.org/story?sid=83583",
-          "publishedOn": "2026-02-20T10:37:24.000Z",
-          "wordCount": 213,
-          "title": "Mozilla 建议 Windows 7/8/8.1 用户切换到 Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83582",
-          "author": null,
-          "description": "癌症是家猫常见死因，但家猫的癌症基因组却知之甚少。根据本周《科学》期刊上的一项研究，科学家对 13 种不同类型猫科癌症的 493 份样本以及相匹配的健康对照组织进行了癌症基因测序。家猫与人类不仅有着相同的生活环境，且常与人类主人罹患相同的非癌合并症（如糖尿病），这使得家猫成为肿瘤研究中重要但未尽其用的资源。研究人员在将近 1000 个人类癌症基因与其对应的猫科动物基因进行比对后发现，这两个物种中存在一些流行程度相似的致癌基因如 TP53。研究人员还在猫的致癌基因组中发现了癌症驱动基因、肿瘤易感基因以及存在某些病毒序列的证据。",
-          "link": "https://www.solidot.org/story?sid=83582",
-          "publishedOn": "2026-02-20T10:24:36.000Z",
-          "wordCount": 165,
-          "title": "家猫的癌症基因组",
           "imageUrl": null
         }
       ]
