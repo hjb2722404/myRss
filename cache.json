@@ -12,6 +12,46 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/1tb-free-s3-hi168/",
+          "author": "青小蛙",
+          "description": "最近在寻找存储空间，3天前找到了 100GB 的免费 WebDAV 空间，今天又看到了 1TB 的免费 S3 存储空间，试用了一下，还行。@Appinn Simple Storage Service S3 是由亚马逊提供的对象存储服务，全称 Amazon S3 (Simple Storage Ser",
+          "link": "https://www.appinn.com/1tb-free-s3-hi168/",
+          "publishedOn": "2026-03-12T07:45:36.000Z",
+          "wordCount": 2799,
+          "title": "1TB 免费 S3 存储空间：来自 Hi168",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1773301327754-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/ffmpeg-over-ip/",
+          "author": "青小蛙",
+          "description": "ffmpeg-over-ip 是一款支持 Win/mac/Linux 的开源项目，它的作用是：把 ffmpeg 变成远程工具。即：你在任何地方使用 ffmpeg 处理视频，实际上工作的是远程高性能电脑上的 ffmpeg。 这个工具的用途…不太明朗。 青小蛙能想到的，就是局域网中有一台高性",
+          "link": "https://www.appinn.com/ffmpeg-over-ip/",
+          "publishedOn": "2026-03-12T07:04:35.000Z",
+          "wordCount": 2753,
+          "title": "ffmpeg-over-ip – 远程 FFmpeg，异地处理视频。但是有用吗？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1773298958620-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/openclaw-security-risk-alert-cnnic/",
+          "author": "青小蛙",
+          "description": "国家互联网应急中心在两日前（2026年3月10日）发布《关于OpenClaw安全应用的风险提示》，主要有以下几个问题： 另外，根据彭博社的消息： 据知情人士透露，政府机构和国有企业，包括最大的银行，最近几天收到通知，警告他们出于安全原因不要在办公设备上安装 OpenClaw 软件。一些要求匿名讨论私",
+          "link": "https://www.appinn.com/openclaw-security-risk-alert-cnnic/",
+          "publishedOn": "2026-03-12T06:13:51.000Z",
+          "wordCount": 2728,
+          "title": "国家互联网应急中心：OpenClaw 风险提示",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1773295505445-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/deploy-openclaw-parallels-macbook/",
+          "author": "青小蛙",
+          "description": "针对 Mac 用户，最好的 OpenClaw 安装方式，还是 Mac mini。但如果没有 Mac mini，也不用着急购买，可以直接在 Mac 中虚拟一个新的 macOS 系统，就能安装了。 推荐的 OpenClaw 安装方式 单独的硬件 现有的硬件 小主机推荐贴：https://meta.app",
+          "link": "https://www.appinn.com/deploy-openclaw-parallels-macbook/",
+          "publishedOn": "2026-03-12T04:24:27.000Z",
+          "wordCount": 2953,
+          "title": "不用新买 Mac mini，在 MacBook Pro 中用 PD 虚拟机部署 OpenClaw",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1773288947513-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/unzip-fast-ios-free/",
           "author": "青小蛙",
           "description": "限免的 iOS 解压缩工具 Unzip Fast，支持 RAR/7z。",
@@ -165,26 +205,6 @@
           "wordCount": 2969,
           "title": "10 款最新发现的小工具[260304]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1772530347899-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/qiewenpaper/",
-          "author": "青小蛙",
-          "description": "对于科研人员来说，文献工作往往伴随着两个极端的痛苦：一是搜索时的大海捞针，为了几篇核心文献，不得不花费数小时翻阅成百上千条琐碎的摘要；二是阅读时的翻译折磨，在专业术语和复杂的 LaTeX 公式间反复推敲，甚至还要忍受机翻导致的排版错乱。 切问学术 是由复旦大学NLP实验室打造的 WisPaper 国",
-          "link": "https://www.appinn.com/qiewenpaper/",
-          "publishedOn": "2026-03-03T07:55:09.000Z",
-          "wordCount": 2714,
-          "title": "复旦团队研发“切问学术AI”上线（文末赠送100个5 折兑换码名额）",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/微信图片_20260303093132_47_3566.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/wsl-dashboard/",
-          "author": "青小蛙",
-          "description": "WSL2 是 Windows 10/11 自带的一项功能，它可以让你的 Windows 在几秒钟之内启动一个 Linux 系统，并且能与 Windows 共享文件、直接访问 GPU。并且，微软自己说：Microsoft 喜欢 Linux。但是有一个历史难题：WSL2 只有命令行工具 Microsof",
-          "link": "https://www.appinn.com/wsl-dashboard/",
-          "publishedOn": "2026-03-03T03:44:36.000Z",
-          "wordCount": 2769,
-          "title": "告别命令行！WSL Dashboard 一站式可视化管理 WSL2 工具",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1772508827242-1.jpg"
         }
       ]
     },
@@ -279,6 +299,86 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83751",
+          "author": null,
+          "description": "名为 Handala (a.k.a. Handala Hack Team) 的黑客组织对总部位于密歇根州的医疗设备制造商 Stryker 发动了大规模数据清除攻击。Handala 声称清除了逾 20 万个系统、服务器和移动设备中的数据，导致 Stryker 在 79 个国家的办事处被迫关闭。Stryker 在全球 61 个国家有 56,000 名员工，去年全球销售额 250 亿美元。Stryker 在爱尔兰的分公司证实遭到攻击，已经命令逾 5000 名员工在家办公，通过 WhatsApp 进行沟通。一位匿名员工称，在个人手机安装 Microsoft Outlook 的用户其设备上的数据都被清除了。数据清除攻击旨在恶意删除或破坏存储在计算机、服务器或其它设备上的数据。",
+          "link": "https://www.solidot.org/story?sid=83751",
+          "publishedOn": "2026-03-12T15:54:46.000Z",
+          "wordCount": 195,
+          "title": "黑客组织对 Stryker 发动数据清除攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83750",
+          "author": null,
+          "description": "上个月纽约州总检察长 Letitia James 指控 Valve 的战利品箱系统助长非法赌博，导致儿童成瘾。Valve 开发了热门网络游戏《反恐精英》、《军团要塞》和《Dota 2》，这些都是免费游戏，通过微交易和战利品箱获利。诉状指控 Valve 的战利品箱系统本质上是赌博，违反了纽约的州宪法和州刑法。Valve 通过其官网声明回应了诉讼，表示不认同指控，对诉讼感到失望。Valve 称它在游戏中使用的盒子类型被广泛用于从游戏到现实世界的棒球卡包、盲盒和盲袋。Valve 称其游戏中的盒子与宝可梦、万智牌和 Labubu 没有区别，而大多数玩家根本不会打开任何盒子，因为盒子里的虚拟物品都是装饰性的，玩家不花钱并不会有任何劣势。Valve 还表示它多年来一直致力于打击参与赌博的 Steam 账号，称纽约州总检察长办公室还提议收集更多用户信息以识别 VPN 用户，要求收集更多用户个人数据进行额外的年龄验证。",
+          "link": "https://www.solidot.org/story?sid=83750",
+          "publishedOn": "2026-03-12T14:45:09.000Z",
+          "wordCount": 184,
+          "title": "Valve 称其战利品箱工作方式类似万智牌和 Labubu",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83749",
+          "author": null,
+          "description": "天文学家利用智利阿塔卡玛大型毫米及次毫米波阵列（ALMA）进行观测，发现星际彗星 3I/ATLAS 中存在氰化氢（彗星中常见的含氮有机分子），以及含量异常高的甲醇（与前生物化学反应相关的重要有机分子）。此结果显示该天体的化学组成与太阳系彗星显著不同，为研究其他恒星、行星系统形成环境提供重要线索。研究团队表示，观测 3I/ATLAS 就像是在取得来自另一恒星系统的化学指纹。这些细节揭示了它的物质组成，其中甲醇含量之高，是我们在太阳系彗星中极少见到的情况。测量结果显示，3I/ATLAS 所含的冰质物质可能在与太阳系彗星截然不同的物理与化学环境下形成，或曾经历不同的演化过程。",
+          "link": "https://www.solidot.org/story?sid=83749",
+          "publishedOn": "2026-03-12T09:17:05.000Z",
+          "wordCount": 171,
+          "title": "星际彗星 3I/ATLAS 富含甲醇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83748",
+          "author": null,
+          "description": "在 GDC 大会上，微软透露了代号为 Project Helix 的下一代 Xbox 的更多信息。微软表示将于下个月向所有 Windows 11 PC 全屏 Xbox 模式，该模式已于去年 11 月提供给了 Windows Insider 用户。下一代 Xbox 将能同时玩 Xbox 和 PC 游戏，采用 AMD 的 SoC—— CPU 预计是 Zen6 GPU 则是 RDNA5/UDNA；下一代 DirectX；下一代光线追踪。AMD 下一个版本的 FSR Next 将基于下一代机器学习超采样，新的机器学习多帧生成，支持光线追踪和路径追踪光线再生等等。微软将从 2027 年开始向游戏开发商提供硬件的 Alpha 版本。",
+          "link": "https://www.solidot.org/story?sid=83748",
+          "publishedOn": "2026-03-12T09:08:19.000Z",
+          "wordCount": 207,
+          "title": "微软透露下一代 Xbox 的更多信息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83747",
+          "author": null,
+          "description": "自 2025 年 11 月起，索尼在 PlayStation Store 开展价格 A/B 测试。四个月内，实验规模从 30 个地区的 50 款游戏扩大到 70+ 个地区的 190 多款游戏——包括最大市场美国。部分 PlayStation Store 用户看到的是显著低于标准零售价的试验性价格，用户被分入不同组别，对相同游戏看到不同价格。美国有 189 款游戏参与测试——在所有地区中样本量最大，美国地区的折扣最高达到 27.8%（HELLDIVERS 2）、24.4%（The Last of Us Part I）。动态定价在很多国家是非法的，被认为构成了价格歧视。",
+          "link": "https://www.solidot.org/story?sid=83747",
+          "publishedOn": "2026-03-12T07:54:47.000Z",
+          "wordCount": 203,
+          "title": "索尼在世界各地的 PlayStation Store 测试动态定价",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83746",
+          "author": null,
+          "description": "Google 完成了以 320 亿美元现金收购以色列云安全公司 Wiz 的交易。Google 早在 2024 年就尝试收购 Wiz，但因为担心监管问题而最终放弃，2025 年初上台的特朗普政府被认为比之前的拜登政府在企业合并上更友好，因此 Google 去年 3 月宣布了这笔收购交易。Google 此前承诺，收购之后 Wiz 的产品将会继续提供给主要云平台，包括其竞争对手 Amazon Web Services、Microsoft Azure 和 Oracle Cloud。Wiz 的创始人将从这笔交易中获得 24 亿美元现金，美元汇率目前处于历史低位，以色列税务机构担心巨额美元现金可能会导致美元兑谢克尔汇率暴跌，因此决定让 Wiz 直接以美元支付税款。这是以色列历史上首次以非官方货币缴纳税款。",
+          "link": "https://www.solidot.org/story?sid=83746",
+          "publishedOn": "2026-03-12T07:09:08.000Z",
+          "wordCount": 199,
+          "title": "Google 完成对以色列安全公司 Wiz 的收购",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83745",
+          "author": null,
+          "description": "瑞士巴塞尔城市州（Basel-Stadt）的一项电子投票试点因 2048 张选票无法解密而暂停，原因是解密用的 U 盘出现故障无法解密。该州发言人 Marco Greiner 表示，他们换了三个 U 盘，每个密码都正确，但就是不能用。\n州政府对此次事件“深表遗憾”，已与有关部门展开调查。巴塞尔城市州的电子投票试点面向 10300 名居住在海外的当地居民和 30 名残疾人，电子投票系统共收集到 2048 张选票，但尽管有 IT 专家，州政府官员无法解密这些选票。这些未解密选票仅总投票数的不到 4%，不会改变任何选举结果，但该州已将投票结果的确认推迟至 3 月 21 日，将电子投票试点暂停至 12 月底。瑞士其它三个州——图尔高州（Thurgau）、格劳宾登州（Graubunden）和圣加仑州（St Gallen ）——的电子投票以及全国使用的瑞士邮政电子投票系统都工作正常。",
+          "link": "https://www.solidot.org/story?sid=83745",
+          "publishedOn": "2026-03-12T06:40:27.000Z",
+          "wordCount": 192,
+          "title": "瑞士电子投票试点因无法解密 2048 张选票而暂停",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83744",
+          "author": null,
+          "description": "在国家互联网应急中心（CNCERT）发布关于 OpenClaw 安全应用的风险提示的同时，银行和国企等收到通知要求不得在办公设备上安装 OpenClaw。CNCERT 的安全通知称，为实现“自主执行任务”的能力，OpenClaw 被授予了较高的系统权限，包括访问本地文件系统、读取环境变量、调用外部服务 API 以及安装扩展功能等。然而由于其默认的安全配置极为脆弱，攻击者一旦发现突破口，便能轻易获取系统的完全控制权。OpenClaw 的安全风险包括：提示词注入、错误删除重要数据、功能插件（skills）投毒以及安全漏洞等。",
+          "link": "https://www.solidot.org/story?sid=83744",
+          "publishedOn": "2026-03-12T05:27:44.000Z",
+          "wordCount": 171,
+          "title": "国家互联网应急中心通知：限制银行和国企安装 OpenClaw",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83743",
           "author": null,
@@ -918,106 +1018,6 @@
           "wordCount": 180,
           "title": "摩托罗拉的 GrapheneOS 设备将支持解锁引导程序",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83671",
-          "author": null,
-          "description": "美国最高法院拒绝受理计算机科学家 Stephen Thaler 提起的 AI 生成作品是否拥有版权的案件。此前美国地方法院、上诉法院以及美国版权局都声明 AI 生成的艺术作品不受版权保护。美国专利局也表示，AI 系统不能被列为专利发明人，但人仍然可使用 AI 工具去开发专利。英国最高法院在 2023 年裁决 AI 不能成为专利的发明人——这起案件也是 Stephen Thaler 提起的。",
-          "link": "https://www.solidot.org/story?sid=83671",
-          "publishedOn": "2026-03-03T15:05:58.000Z",
-          "wordCount": 178,
-          "title": "AI 生成的作品不受版权保护",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83670",
-          "author": null,
-          "description": "根据 Sensor Tower 的数据，在 OpenAI 与五角大楼达成交易之后，用户对此做出了反应，2 月 28 日当天 OpenAI AI 聊天机器人 ChatGPT 应用的卸载量在美国比前一天飙升 295%，而过去 30 天它的平均日卸载率是 9%。与此同时，拒绝五角大楼要求的 OpenAI 竞争对手 Anthropic 的 Claude 应用的下载量在 2 月 27 日和 2 月 28 日分别增长了 37% 和 51%。ChatGPT 的下载量也受到了交易的影响，在宣布与五角大楼合作前的 2 月 27 日 ChatGPT 下载量环比增长 14%，但宣布交易后的 28 日其下载量环比下降 13%，3 月 1 日下载量继续环比下降 5%。Claude 在美国免费应用排行榜也已经连续三天登上榜首，这一波热潮也导致 Claude 多次发生短暂的宕机。",
-          "link": "https://www.solidot.org/story?sid=83670",
-          "publishedOn": "2026-03-03T14:46:21.000Z",
-          "wordCount": 217,
-          "title": "ChatGPT 卸载率在五角大楼交易之后飙升 295%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83669",
-          "author": null,
-          "description": "英国公司 Arm 设计的芯片长期以来是为低功耗和小面积优化的，但它也一直推出针对高性能应用场景的核心。2012 年 Arm 发布 64 位核心 Cortex A57 时，能媲美 AMD 和英特尔最新处理器还是遥不可及的梦想。它在 2024 年推出的高性能核心 Cortex X925 已将梦想变成了现实。英伟达超级芯片 GB10 Superchip 使用的 Arm 核心就是基于 Cortex X925。它在桌面性能上赶上了 AMD Zen 5 和英特尔的 Lion Cove。GB10 使用了 10 个 X925 核心，分成两个集群，其中之一的 X925 核心最高频率 4 GHz，另一个是 3.9 GHz。测试显示它的重排序性能优于 AMD Zen 5，L2 缓存容量赶上了英特尔处理器的 P-Cores(即性能核心)。",
-          "link": "https://www.solidot.org/story?sid=83669",
-          "publishedOn": "2026-03-03T14:25:12.000Z",
-          "wordCount": 223,
-          "title": "ARM Cortex X925 桌面性能赶上了 AMD 和英特尔",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83668",
-          "author": null,
-          "description": "加州尔湾的冰川学家绘制了过去 30 年的南极洲环极底部冰线迁移图，显示它损失了逾 1.2 万平方公里的底部冰（grounded ice）。底部冰是直接与海床或基岩接触的冰，区别于漂浮在水面上的冰架或冰山，它们通常更稳定。研究人员综合分析了多颗卫星的数据，发现 77% 的海岸线未发生冰川接地线迁移，但西南极洲、南极半岛和东南极洲部分地区损失了 12,820 平方公里的底部冰。冰盖正以平均每年 442 平方公里的速度从接地线后退。变化最显著的是西南极洲的 Amundsen Sea 和 Getz 海域，冰川后退了 10-40 公里左右。Pine Island 冰川后退了 33 公里，Thwaites 冰川后退了 26 公里，Smith 冰川的后退距离达到了 42 公里。",
-          "link": "https://www.solidot.org/story?sid=83668",
-          "publishedOn": "2026-03-03T09:35:50.000Z",
-          "wordCount": 195,
-          "title": "南极过去三十年损失了 1.2 万平方公里的底部冰",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83667",
-          "author": null,
-          "description": "小米和莱卡宣布了面向高端智能手机市场的莱卡智能手机 Leitzphone，以莱卡创始人 Ernst Leitz 的名字命名。Leitzphone 配备了两个 5000 万像素镜头和一个 2 亿像素镜头，提供了类似相机的调整焦距、快门速度和曝光的旋钮，硬件配置与 Xiaomi 17 Ultra 基本相同，起售价 1999 欧元——约 1.6 万人民币。",
-          "link": "https://www.solidot.org/story?sid=83667",
-          "publishedOn": "2026-03-03T08:53:08.000Z",
-          "wordCount": 182,
-          "title": "小米莱卡手机起售价 1.6 万元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83666",
-          "author": null,
-          "description": "随着大气二氧化碳（CO2）浓度持续升高，人体血液中的 CO2 水平也在悄然攀升。如果这一趋势不加遏制，几十年内，一项关键血液指标可能逼近健康警戒线。相关论文发表于《Air Quality, Atmosphere & Health》杂志。\n为探究大气变化对人体内部的影响，研究团队系统梳理了美国 20 余年间的大规模人口数据。结果发现，血液化学成分的悄然演变，与大气 CO2 的上升轨迹惊人同步。数据显示，血清碳酸氢盐这一与体内 CO2 水平密切挂钩的标志物的平均浓度，在 20 余年间上升了约 7%。与此同时，钙和磷的平均水平则出现了下降。这一变化恰与大气 CO2 浓度从 2000 年的 369ppm 攀升至如今超过 420ppm 的背景重合。团队表示，这暗示着人体可能正在“默默代偿”，以应对环境变化带来的内在压力。碳酸氢盐是维持人体血液酸碱平衡的“缓冲剂”。当血液中 CO2 浓度升高，身体便会自动保留更多碳酸氢盐，以中和酸性，稳定内环境。然而这种代偿并非长久之计。持续的微调，终将打破人体精密的生理平衡。模型推演显示，若当前趋势不改，50 年后人体血清碳酸氢盐平均水平或将触及当今健康范围的上限，而钙、磷浓度也可能在本世纪晚些时候跌破下限。",
-          "link": "https://www.solidot.org/story?sid=83666",
-          "publishedOn": "2026-03-03T06:36:29.000Z",
-          "wordCount": 193,
-          "title": "人体血液中 CO2 水平也在上升",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83665",
-          "author": null,
-          "description": "知名科技媒体 Ars Technica 上个月在报道 AI 新闻时被发现将 AI 生成的内容作为消息来源使用，Ars 联合创始人兼主编 Ken Fisher 为此发表声明公开道歉。这篇报道的合作者 Benj Edwards 是 Ars 的资深 AI 记者，他表示自己承担全部责任，另一位合作者与这起错误没有关联。他辩解说自己尝试使用基于 Claude Code 的实验性 AI 工具从原始材料中提取出可添加到大纲的结构化引用内容，但该 AI 拒绝处理，他猜测可能是文章描述的是一起骚扰事件（AI 骚扰人类），他于是将文本拷贝到 ChatGPT，没有注意到 ChatGPT 生成了文章作者的意译版本而不是原话，在引用时没有核实引用是否与原文一致。现在 Benj Edwards 在 Ars 的简历已经变成了过去时态，意味着他已经离职，但是否被解雇 Ars 没有说明， Edwards 本人拒绝置评。",
-          "link": "https://www.solidot.org/story?sid=83665",
-          "publishedOn": "2026-03-03T06:14:44.000Z",
-          "wordCount": 212,
-          "title": "Ars Technica 的 AI 记者离职",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83664",
-          "author": null,
-          "description": "加拿大不列颠哥伦比亚省（British Columbia）省长 David Eby 宣布，BC 省将永久采用夏令时，本周日 3 月 8 日将是当地居民最后一次调整时钟。Eby 表示居民已经等待太长时间了，这次之后将不再需要去调整时钟。研究已经发现，一年两次调整时间并不利于公众健康和安全。BC 省居民将有八个月的时间为 2026 年 11 月 1 日做准备，届时时钟原本应拨慢一小时，但将保持不变。BC 省的新时区将被称为“太平洋时间”。",
-          "link": "https://www.solidot.org/story?sid=83664",
-          "publishedOn": "2026-03-03T06:06:29.000Z",
-          "wordCount": 183,
-          "title": "加拿大 BC 省永久采用夏令时",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83663",
-          "author": null,
-          "description": "在去年发生多起与移动电源相关的飞机起火事故后，日本计划从 4 月中旬起禁止乘客在飞机上使用移动电源/充电宝。日本国土交通省发布了《民用航空条例》修订版征求意见稿。在日本，移动电源被分类为备用电池，被禁止托运。随身行李中的移动电池则禁止超过 160 瓦时，超过 100 瓦时只能携带两块，低于 100 瓦时的不受限制。新修订的规定限制乘客最多能携带包括充电宝在内的两块电池，禁止在机上充电，建议乘客不要使用充电宝。日本航空公司则可能一步到位，直接禁止乘客使用充电宝。",
-          "link": "https://www.solidot.org/story?sid=83663",
-          "publishedOn": "2026-03-03T05:53:35.000Z",
-          "wordCount": 165,
-          "title": "日本计划禁止飞机乘客使用充电宝",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83662",
-          "author": null,
-          "description": "人类中的大多数是右撇子，但还有 10.6% 的人是左撇子。演化心理学认为，右撇子和左撇子都有各自的演化上的优势。右撇子在部分合作行为上具有优势，如通过模仿进行学习，由于教师多数是右撇子，因此右撇子学习者可能更容易掌握新技能。左撇子被认为在竞争情景如搏击上有优势，由于左撇子比右撇子罕见得多，因此左撇子在攻击中能表现出更出其不意的效果。发表在《Scientific Reports》期刊上的一项研究测试了左撇子和竞争意识之间的关系。对 50 名左撇子志愿者和 483 名右撇子志愿者的分析发现：惯用右手程度越高，焦虑驱动的竞争回避倾向越强；惯用左手程度越高，自我发展型竞争倾向越强。",
-          "link": "https://www.solidot.org/story?sid=83662",
-          "publishedOn": "2026-03-03T05:17:38.000Z",
-          "wordCount": 165,
-          "title": "左撇子的演化优势",
-          "imageUrl": null
         }
       ]
     },
@@ -1025,18 +1025,7 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com",
-      "articles": [
-        {
-          "id": "https://humanwhocodes.com/blog/2026/03/proxying-fetch-requests-server-side-javascript/",
-          "author": "Nicholas C. Zakas",
-          "description": "Learn how to proxy fetch() requests in Node.js, Deno, Bun, and Cloudflare Workers to better monitor and control your server-side traffic.",
-          "link": "https://humanwhocodes.com/blog/2026/03/proxying-fetch-requests-server-side-javascript/",
-          "publishedOn": "2026-03-03T00:00:00.000Z",
-          "wordCount": 985,
-          "title": "Proxying fetch requests in server-side JavaScript",
-          "imageUrl": "https://humanwhocodes.com/images/posts/2026/proxy-request.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "宁南山 - 知乎动态",
