@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/annas-archive-13-publishers/",
+          "author": "青小蛙",
+          "description": "安娜的档案今年已经面临了相当多的法律麻烦和域名问题。来自 torrentfreak 的报道，安娜的档案被企鹅兰登书屋、爱思唯尔和哈珀柯林斯在内的 13 家主要出版商联合起诉，他们寻求新的禁令，对域名注册商和注册管理机构进一步施压。 前情提要 安娜的档案在失去了 .org、.se、.li 域名之后，又",
+          "link": "https://www.appinn.com/annas-archive-13-publishers/",
+          "publishedOn": "2026-03-17T13:48:13.000Z",
+          "wordCount": 2791,
+          "title": "安娜的档案被 13 家大型出版商联合起诉，面临新的禁令",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1773755115493-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/windows-11-setdefaultuserfolder/",
+          "author": "青小蛙",
+          "description": "Windows 11 开发者预览版 Dev 与 Beta 频道出现了新功能：自定义用户文件夹名称，终于可以选择自己的用户文件夹名称了。就是这个：C:\\Users\\XXXX，再也不会因为邮箱前几位而别扭用户很多年了。但别急，你不一定能赶得上… 此前在 Windows 11 安装过程中，系统",
+          "link": "https://www.appinn.com/windows-11-setdefaultuserfolder/",
+          "publishedOn": "2026-03-17T08:13:33.000Z",
+          "wordCount": 2754,
+          "title": "微软终于改了：Windows 11 用户文件夹名可自定义，但你现在还用不了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1773735123798-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/canirun-ai/",
           "author": "青小蛙",
           "description": "AI Token 很贵，而且没完没了，这是所有 AI 重度用户迟早会面对的问题。于是越来越多人开始尝试本地大模型——只要电脑能跑，就相当于拥有“无限 Token”。 但关键问题是：你的电脑到底能跑哪些 AI 模型？ 前几天分享了一款软件：llmfit – 1秒测出：你的电脑能跑哪些 AI 大模型，它",
@@ -205,16 +225,6 @@
           "wordCount": 2813,
           "title": "OpenClaw 的世界，有点癫狂",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1773110407071-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/llmfit/",
-          "author": "青小蛙",
-          "description": "终于有这样的工具了，帮你从 500 多款大模型中，1秒测出：你的电脑能跑哪些 AI 大模型。 llmfit 是什么? llmfit 是一款 Windows、macOS、Linux 小工具，也是一款 TUI 程序（终端图形界面），它可以自动检测你的电脑 CPU、GPU、内存，从 500+ 款大模型中，",
-          "link": "https://www.appinn.com/llmfit/",
-          "publishedOn": "2026-03-08T10:50:47.000Z",
-          "wordCount": 2807,
-          "title": "llmfit – 1秒测出：你的电脑能跑哪些 AI 大模型",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/03/cover-1772966546371-1.jpg"
         }
       ]
     },
@@ -293,6 +303,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=12112",
+          "author": "张 鑫旭",
+          "description": "WebSocket还没用明白，现在又出了个WebTransport API，也是用来实现实时通信的，更强大，更完美，所有现代浏览器都已支持，无论是高并发、低延时还是可以丢数据的场景都支持。",
+          "link": "https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/",
+          "publishedOn": "2026-03-17T08:25:58.000Z",
+          "wordCount": 1772,
+          "title": "浅学WebTransport API：下一代Web双向通信技术",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=12102",
           "author": "张 鑫旭",
           "description": "不知道了吧，dialog元素，没错，就是那个模态框弹层元素，现在也支持点击黑色蒙层关闭弹框了，就是这个closedBy属性。",
@@ -309,6 +329,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=83794",
+          "author": null,
+          "description": "哪些孩子在学校更努力？他们的努力程度与其社会出身有何关系？根据发表在《American Sociological Review》上的一项研究，来自优渥家庭的学龄儿童比来自贫困环境的孩子表现出更高的认知努力，尤其是在没有奖励且仅靠内在动力的情况下。尽管如此，两组之间的差距并不大，且可以通过激励措施得到补偿：当提供小奖品（如玩具或社会认可）时，资源匮乏家庭的孩子所表现出的投入程度与家庭环境较好的同龄人非常接近。研究人员指出，与努力相关的行为受社会环境制约，因为家庭可利用资源以及儿童在日常生活中感受到的安全感起着至关重要的作用。在匮乏的环境中成长（缺乏经济手段或缺乏父母的关注时间）会使个体难以长时间集中精力完成某项任务。",
+          "link": "https://www.solidot.org/story?sid=83794",
+          "publishedOn": "2026-03-17T16:40:19.000Z",
+          "wordCount": 160,
+          "title": "社会出身与儿童的努力程度密切相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83793",
+          "author": null,
+          "description": "日本研究团队在《Nature Astronomy》期刊上报告，探测器隼鸟 2 号从小行星龙宫采集的沙粒样本中含有地球生命所需的五种核碱基，再次为小行星陨石将生命所需成分带到地球的假说提供了佐证。隼鸟 2 号探测器于 2018 年造访了小行星龙宫，向其表面发射了两枚金属弹丸——一枚较小，一枚较大——收集了撞击产生的碎片。隼鸟 2 号于 2020 年携带样本返回地球，此后研究人员一直在对其进行分析。日本北海道大学的 Yasuhiro Oba 和同事分析了两个样本，一个来自小行星表面，另一个由弹丸撞击出的地下物质组成。在两个样本中，研究团队都发现了全部五种主要核碱基，核碱基与糖和磷酸结合构成了核酸 DNA 和 RNA。",
+          "link": "https://www.solidot.org/story?sid=83793",
+          "publishedOn": "2026-03-17T15:43:20.000Z",
+          "wordCount": 175,
+          "title": "小行星龙宫含有所有五种核碱基",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83792",
+          "author": null,
+          "description": "英伟达演示了计划于今年晚些时候推出的深度学习超级采样技术 DLSS 的新版本，结果在玩家中间引发了广泛争议和批评，因为 DLSS 5 在重构图像过程中戏剧性的改变了游戏画面，为游戏画面加入了一层 AI 滤镜，让游戏中的人物变得面目全非。DLSS 5 在社交媒体上引发了玩家制作大量梗图进行嘲讽，在 reddit 上大量相关讨论被删除（可能是英伟达在公关），就像微软被称为 Microslop，玩家现在开始称英伟达为 Slopvidia。",
+          "link": "https://www.solidot.org/story?sid=83792",
+          "publishedOn": "2026-03-17T14:45:01.000Z",
+          "wordCount": 187,
+          "title": "英伟达的 DLSS 5 引发争议和批评",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83791",
+          "author": null,
+          "description": "最新证据显示，约在 40-60 亿年前，太阳可能曾参与一次大规模的恒星迁移事件。一群与太阳性质非常相似的太阳类恒星（solar twins）一同离开银河系核心区域并向外迁移。天文学家利用 ESA Gaia 卫星的观测数据进行分析，建立了一份前所未有精确的恒星目录。研究显示，太阳目前位于银河系的位置并非偶然，而可能是这次大规模恒星迁移事件的一部分。太阳约在 46 亿年前诞生，而当时太阳的位置比今天更接近银河中心超过一万光年。恒星化学成分的研究支持这一推论，但这个结果长期让科学家感到困惑。观测显示银河中心存在一个巨大的棒状结构，它会形成所谓的共转屏障，使恒星​​难以从银河中心区域迁移到如此遥远的位置。为了解答这个问题，来自日本的研究团队对银河系中类似太阳的恒星展开了大规模研究。这些恒星在温度、表面重力与化学组成上都与太阳极为相似。研究团队从 Gaia 的资料中挑选出 6594 颗太阳类恒星建立目录。透过这份庞大的资料，研究人员得以重建目前最精确的恒星年龄分布。分析结果显示，在 40-60 亿年前出现一个明显且宽广的年龄峰值，显示一群年龄相近的恒星分布在距离银河中心相似的位置。这代表太阳并非单独迁移，而是属于一次大规模恒星外移事件的一部分。",
+          "link": "https://www.solidot.org/story?sid=83791",
+          "publishedOn": "2026-03-17T14:28:25.000Z",
+          "wordCount": 172,
+          "title": "太阳可能在几十亿年前从银河中心迁移到外围",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83790",
+          "author": null,
+          "description": "众所周知，Windows 在安装过程中并不允许用户重命名主文件夹名称，而是根据用户账号或邮箱地址自动生成名称。去年微软开始测试允许用户重命名主文件夹名称，但非常繁琐。现在微软终于将重命名主文件夹名称作为安装流程的一部分提供给用户。微软释出了预览版本 Windows 11 Insider Preview Build 26220.8062，在安装流程的“设备名称”页面包含了一个重命名主文件夹名称选项，如果用户跳过这一步骤，那么主文件夹仍然会使用默认名称。命名文件夹名称需要遵循微软的命名规定。",
+          "link": "https://www.solidot.org/story?sid=83790",
+          "publishedOn": "2026-03-17T14:21:59.000Z",
+          "wordCount": 178,
+          "title": "微软允许 Windows 11 用户在安装过程中重命名主文件夹名称",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83789",
+          "author": null,
+          "description": "德国的一家法庭裁决 TCL 误导消费者，它的多款宣称“量子点电视（QLED）”的产品并不是真的 QLED，没有提供 QLED 电视应有的色彩还原。法院命令 TCL 停止在德国宣传或销售相关型号的电视机。相关诉讼由韩国公司韩松化学提起，它是 TCL 竞争对手三星的合作伙伴。韩松化学委托进行的测试显示，三款以量子点名义出售的 TV 都未检测出铟和镉，它们是不可或缺的量子点材料。TCL 对测试结果提出异议，称量子点含量因供应商而异，它公布了自己的测试结果。TCL 的测试结果与韩松化学的测试结果相矛盾，但双方采用了不同的测试方法：TCL 的测试侧重于其使用的量子点薄膜，而韩松化学测试的是 TCL 电视机。韩松化学在包括美国在内的多国提起了针对 TCL 的诉讼，另一家中国电视制造商海信也面临类似的诉讼。",
+          "link": "https://www.solidot.org/story?sid=83789",
+          "publishedOn": "2026-03-17T09:50:13.000Z",
+          "wordCount": 196,
+          "title": "德国法庭裁决 TCL 的 QLED 不是真的 QLED",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83788",
+          "author": null,
+          "description": "基于 Markdown 的笔记管理应用 Marknote 释出了 v1.5。主要新特性包括：新的 Source Mode 模式，不使用富文本 WYSIWYG 界面直接编辑 Markdown 内容；支持维基风格的笔记文档链接，支持跨笔记查找；简化笔记和笔记本管理，每个笔记本会显示包含的笔记数量，如需要在笔记本之间移动笔记可通过拖放完成；Duplicate Note 操作可创建模板复制现有笔记；KRunner 插件；等等。",
+          "link": "https://www.solidot.org/story?sid=83788",
+          "publishedOn": "2026-03-17T08:19:51.000Z",
+          "wordCount": 180,
+          "title": "Marknote 1.5 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83787",
+          "author": null,
+          "description": "职业社交网络 LinkedIn 的用户已经形成了一套独特的语言风格，这种风格被称为 LinkedIn Speak，其特点是能将任何琐事自我包装成积极向上的宏大叙事。举例来说：你失业了，但用 LinkedIn Speak 写出来变成了“开启了人生的新篇章”，去五百强企业做清洁工变成了荣幸加盟；等等。在中国，阿里巴巴的职场语言套话如“赋能、闭环、沉淀、生态”可能与 LinkedIn Speak 最为相似。现在，kagi 翻译工具加入了对 LinkedIn Speak 输出的支持，让任何人可以通过自然语言输出职场套话。",
+          "link": "https://www.solidot.org/story?sid=83787",
+          "publishedOn": "2026-03-17T07:57:00.000Z",
+          "wordCount": 183,
+          "title": "kagi 翻译支持翻译到 LinkedIn Speak",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83786",
+          "author": null,
+          "description": "一年一度的 Debian 项目领导人（DPL）竞选启动，今年只有一位候选人 Sruthi Chandran——她是一位来自印度的图书管理员，2025 年的 DPL Andreas Tille 没有再次参选。竞选期持续到 4 月 3 日，投票期从 4 月 4 日持续到 4 月 17 日。Debian 项目的选民们将要在同意 Sruthi Chandran 担任 DPL 或不同意（以上皆非）两个选项中进行投票。DPL 选举采用的是孔多塞投票法。",
+          "link": "https://www.solidot.org/story?sid=83786",
+          "publishedOn": "2026-03-17T07:20:58.000Z",
+          "wordCount": 198,
+          "title": "2026 年 Debian 项目领导人竞选开始，只有一名候选人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=83785",
+          "author": null,
+          "description": "图形编辑器项目 GIMP 释出了 v3.2。此举是该项目自 GIMP 3.0 发布之后加快版本发布计划的一部分。从 GIMP 2.0 到 3.0，项目经历了逾 20 年的时间，开发者不希望让用户等待六七年才等到一个小版本更新，等二十年才有一个大版本。GIMP 3.2 新特性包括：MyPaint Brush 画笔工具新增 20 种新画笔；overwrite 绘画模式；新的和升级的文件格式；UI 改进；新的非破坏性图层，使用 Link Layers 整合外部图像，缩放、旋转和变换图像而不会损失质量或清晰度，源文件修改后 Link Layers 会同步更新，Path 工具能创建 Vector Layers；等等。",
+          "link": "https://www.solidot.org/story?sid=83785",
+          "publishedOn": "2026-03-17T07:02:52.000Z",
+          "wordCount": 195,
+          "title": "GIMP 3.2 释出",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=83784",
           "author": null,
@@ -987,26 +1107,6 @@
           "publishedOn": "2026-03-09T05:28:04.000Z",
           "wordCount": 168,
           "title": "新法律要求成人网站验证澳大利亚人年龄",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83713",
-          "author": null,
-          "description": "继澳大利亚之后，印度科技重镇卡纳塔克邦（Karnataka）与印度尼西亚相继宣布将禁止 16 岁以下青少年使用社交媒体及高风险数字平台。印尼通信与数码部长梅蒂雅（Meutya Hafid）星期五发声明说，政府将从 3 月 28 日起，分阶段注销 16 岁以下青少年在“高风险平台”上的账户。首批受影响的平台包括 YouTube、TikTok、Facebook、Instagram、Threads、X、Bigo Live 以及游戏平台 Roblox。梅蒂雅说，颁布禁令是因为青少年面临网络色情、网络欺凌、网络诈骗和网络成瘾的威胁。印度卡纳塔克邦立法议员星期五在邦预算会议上提出禁止16岁以下青少年使用社媒应用的法案。卡纳塔克邦将成为全印度首个实行这项禁令的邦。议员里兹万说：“青少年在未了解后果的情况下，就开始使用社交媒体。我们将与社会人士探讨，如何在社媒落实年龄限制。”",
-          "link": "https://www.solidot.org/story?sid=83713",
-          "publishedOn": "2026-03-08T09:31:45.000Z",
-          "wordCount": 178,
-          "title": "印尼和印度卡纳塔克邦将禁止 16 岁以下儿童使用社媒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83712",
-          "author": null,
-          "description": "NASA 执行双小行星重定向测试(DART)任务的探测器于 2022 年 9 月撞击了小行星 Dimorphos，这是世界首次行星防御技术演示。撞击不仅改变了 Dimorphos 绕较大伴星 Didymos 的运动，也同时使这对双小行星绕太阳的轨道出现可测量的改变。观测结果显示，原本约 770 天的公转周期缩短了 0.15 秒，这是人类制造的物体首次被量测到改变天体绕太阳运行的轨道。先前研究已发现，Dimorphos 绕直径约 805 米的 Didymos 公转周期（约 12 小时）因撞击缩短了 33 分钟。新的研究指出，撞击喷出的碎屑使整个系统的轨道速度改变约每秒 11.7 微米，导致其绕太阳的公转周期改变 0.15 秒。虽然这对轨道来说只是极其微小的变化，但随着时间累积，仍可能造成显著偏移，甚至影响一颗潜在危险小行星是否会撞上地球。",
-          "link": "https://www.solidot.org/story?sid=83712",
-          "publishedOn": "2026-03-08T08:52:36.000Z",
-          "wordCount": 193,
-          "title": "NASA DART 探测器确认改变了小行星的轨道",
           "imageUrl": null
         }
       ]
