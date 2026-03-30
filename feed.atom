@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-03-29T04:35:23.303Z</updated>
+    <updated>2026-03-30T04:43:21.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[发现频道：最近10日的热门排行榜[2026年第13期]]]></title>
+        <id>https://www.appinn.com/faxian-top10-2613/</id>
+        <link href="https://www.appinn.com/faxian-top10-2613/"/>
+        <updated>2026-03-30T01:00:37.000Z</updated>
+        <summary type="html"><![CDATA[最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【开源自荐】ccg-gateway – 支持 ClaudeCode + Codex + Gemini 的智能网关 + 效率工具 2️⃣ 【开发者自荐】 PaperBanana：AI科研绘]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高效烹饪番茄和胡萝卜]]></title>
+        <id>https://www.solidot.org/story?sid=83908</id>
+        <link href="https://www.solidot.org/story?sid=83908"/>
+        <updated>2026-03-29T15:18:38.000Z</updated>
+        <summary type="html"><![CDATA[番茄和胡萝卜是食物中类胡萝卜素的主要来源。类胡萝卜素有助于降低多种慢性疾病的风险，包括心血管疾病和癌症。类胡萝卜素的健康影响不仅取决于其在食物中的浓度，还取决于其生物可利用率（Bioaccessibility）——即这些物质在经过人体消化后到底有多少能真正被肠胃吸收。生物可利用率会根据烹饪方式不同而产生显著差异。热处理通过破坏细胞结构和促进微胶粒形成提高类胡萝卜素的生物可利用率，但过高的温度或过长的时间可能导致其降解和异构化。根据发表在《Food Chemistry》期刊上的一项研究，研究人员对比了空气炸锅、烤箱和微波炉烹饪番茄和胡萝卜的生物可利用率。结果显示：胡萝卜经烤箱烹饪后，其总类胡萝卜素的生物可利用率最高可达原来的 9 倍；对于西红柿，无论采用空气炸锅（190 ℃ 10 分钟）还是传统烤箱（180 ℃ 20 分钟）烹饪，均可获得最高的生物利用率；对胡萝卜来说，微波加热是效率最高的烹饪方式，可将电力消耗降低 96%；对于西红柿来说，使用空气炸锅不仅能获得最高的生物可利用率，还能减少 80% 的耗能。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google TurboQuant AI 压缩算法大幅减少大模型内存使用]]></title>
+        <id>https://www.solidot.org/story?sid=83907</id>
+        <link href="https://www.solidot.org/story?sid=83907"/>
+        <updated>2026-03-29T11:05:52.000Z</updated>
+        <summary type="html"><![CDATA[Google 研究院发布了压缩算法 TurboQuant，能在大幅减少大模型内存占用的同时提高速度和维持精度。TurboQuant 旨在减小键值缓存的大小，被称为是储存重要信息减少再计算的“数字查找表（digital cheat sheet）”。大模型并不理解任何东西，它通过映射词元文本语义的向量去模拟对事物的理解。大模型的向量通常使用 XYZ 坐标进行编码，而实现 TurboQuant 压缩的系统将向量转换为笛卡尔坐标系的极坐标，向量被简化为两类信息：半径（核心数据强度）和方向（数据含义）。如果使用 XYZ 坐标编码向量，那么特定位置可以编码为“向东走 3 个街区，向北走 4 个街区”，采用笛卡尔坐标编码向量，那么同样的信息编码为“沿 37 度方向走 5 个街区” ，简化了空间节省了计算。Google 的早期测试显示，TurboQuant 在部分测试中实现了 8 倍的性能提升，内存占用减少到原来的六分之一，同时质量没有损失。实现 TurboQuant 算法将有助于降低 AI 模型的运行成本和内存占用，但也可能推动更复杂模型的出现，因此对降低内存价格可能没有什么效果。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[98.5% 的人都不知道：SSH 居然还有个“隐藏菜单”]]></title>
+        <id>https://www.appinn.com/ssh-hidden-menu-most-people-dont-know/</id>
+        <link href="https://www.appinn.com/ssh-hidden-menu-most-people-dont-know/"/>
+        <updated>2026-03-29T08:31:36.000Z</updated>
+        <summary type="html"><![CDATA[你有没有遇到过这种情况：SSH 卡住了，Ctrl+C 没反应，只能关窗口重来？其实不用这么麻烦。SSH 自带一个“逃生命令”，按两下键就能强制退出。但知道的不多，堪称 SSH 隐藏菜单 与平时用鼠标操作电脑不同，SSH 专为键盘而生，它通过命令行来控制电脑，无论是 Windows、macOS 还是]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奥地利计划禁止 14 岁以下儿童使用社媒]]></title>
         <id>https://www.solidot.org/story?sid=83906</id>
@@ -1003,138 +1043,6 @@ Experimenting With Scroll-Driven corner-shape Animations originally published on
         <summary type="html"><![CDATA[New API 是知名的 API 中转开源项目，它可以把多处的 API 聚合在一起，统一管理、使用。OpenClaw 大家都熟了。 当你通过 OpenClaw 调用 NewAPI 里的模型时，会出现无响应的问题。 此前青小蛙让 OpenClaw 自己解决了这个问题，就…没管它了。 无模型]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENIAC 诞生八十周年]]></title>
-        <id>https://www.solidot.org/story?sid=83823</id>
-        <link href="https://www.solidot.org/story?sid=83823"/>
-        <updated>2026-03-20T15:34:55.000Z</updated>
-        <summary type="html"><![CDATA[世界第一台通用计算机 ENIAC（代表 Electronic Numerical Integrator And Computer 或电子数值积分计算机） 诞生八十周年。1946 年 2 月 15 日宾夕法尼亚大学 Moore 电气工程学院研发的 ENIAC 首次公开亮相。以今天的标准，ENIAC 相当原始，但其纯电子设计和可编程性在当时是计算机领域的突破性进展。ENIAC 使高速通用计算成为可能，为现代计算机奠定了基础。过去八十年，计算机领域已发展成为一个庞然大物、成为现代经济增长的引擎。ENIAC 最初是为美国陆军加速计算火炮的火力表而研发的，包含了 17468 个电子管，由 80 台鼓风机进行冷却，重达 27 吨（30 美吨），耗电量相当于一个小镇，它于 1955 年 10 月 2 日运行九年后退役。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[arXiv 的独立之路]]></title>
-        <id>https://www.solidot.org/story?sid=83821</id>
-        <link href="https://www.solidot.org/story?sid=83821"/>
-        <updated>2026-03-20T14:56:28.000Z</updated>
-        <summary type="html"><![CDATA[预印本平台 arXiv.org 将于 7 月 1 日脱离康奈尔大学成立独立的非营利性公司，它正在招募 CEO。过去两年因为 AI 以及 AI 相关领域的火热 arXiv 收到的投稿数量激增，员工人数也增长到 27 人，导致出现了运营赤字，康奈尔大学帮助支付了超支。但 arXiv 在资金需求上与康奈尔内部项目存在竞争，而它在寻求赞助时对方会担心通过康奈尔捐赠的资金无法直接用于 arXiv 项目，成立独立机构就是为了解决该问题。此举有助于 arXiv 从更多的捐赠者手中直接筹集到用于该平台的资金，也有助于它解决投稿中的 AI slop 问题。分拆和独立运营是 arXiv 创始人、物理学家 Paul Ginsparg 最早提出的，Ginsparg 一直想退出和退休，独立运营也有助于他彻底放手。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北美何时开始使用弓箭]]></title>
-        <id>https://www.solidot.org/story?sid=83820</id>
-        <link href="https://www.solidot.org/story?sid=83820"/>
-        <updated>2026-03-20T09:56:23.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《PNAS Nexus》上的一项考古学研究，北美居民大约是在 1400 年前开始用弓箭取代飞镖和投矛器。在南部区域弓箭几乎是立即被接受，北部区域的接受度比较慢，一开始是将弓箭作为现有工具的补充，花了千年时间才淘汰飞镖和投矛器。弓箭在精度、射程、速度、射击频率等方面都强于飞镖和投矛器，但制造和维护成本更高，且需要双手操作，无法同时持盾，但其优点大于缺点而获得广泛使用。弓箭由有机材料制成，没有石器、骨器或金属工具那样容易保存，因此确定其出现时间和流行时间比较困难。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国产软件正当红，126 款国货之光限时大促：Eagle、Xmind、白描 PDF 等]]></title>
-        <id>https://www.appinn.com/lizhi-guohuo-2603/</id>
-        <link href="https://www.appinn.com/lizhi-guohuo-2603/"/>
-        <updated>2026-03-20T09:29:24.000Z</updated>
-        <summary type="html"><![CDATA[近几年国产「硬」实力的出圈，大家早已共睹；而国产「软」实力的觉醒，你是否有所察觉？ 不止是 AI 大模型等软件，还有很多国产软件在各个领域都大放光彩！ 你值得这些优秀的国产工具，目前数码荔枝「国货之光」活动正在 6 折甩卖。 截止日期：3 月 25 日晚 一共 126 件商品打折，戳主会场： 带你体]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《二重螺旋》两次通过更新向玩家传播恶意程序]]></title>
-        <id>https://www.solidot.org/story?sid=83819</id>
-        <link href="https://www.solidot.org/story?sid=83819"/>
-        <updated>2026-03-20T09:20:41.000Z</updated>
-        <summary type="html"><![CDATA[免费抽卡游戏《二重螺旋（Duet Night Abyss）》开发商英雄游戏为 3 月 18 日发生的“网络安全事故”道歉，攻击者利用游戏启动器的更新向用户传播了窃取信息的恶意程序 Trojan:MSIL/UmbralStealer.DG!MTB，该恶意程序主要被用于窃取密码和加密货币。包含恶意程序的更新是在 3 月 18 日 7:39 am UTC 在 Steam 上释出的。
-这不是《二重螺旋》最近几个月第一次遭遇安全事故，二月底它发生过类似的事故，攻击者主要引导用户去玩《原神》，恶意程度略低，可能主要是发出警告。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 新规：安装陌生 APK，可能要等 24 小时]]></title>
-        <id>https://www.appinn.com/google-android-developer-verification/</id>
-        <link href="https://www.appinn.com/google-android-developer-verification/"/>
-        <updated>2026-03-20T08:57:30.000Z</updated>
-        <summary type="html"><![CDATA[如果你平时有从 GitHub、论坛下载 .apk 手动安装安卓应用的习惯，这个变化可能会直接影响你。 Google 在 Android 开发者博客上发布了名为《Android开发者验证：平衡开放性、选择与安全性》的文章，明确了未来高级用户安装未验证 .apk 应用的具体规则，最长需要 24 小时才能]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周赛博领鸡蛋[3.20~3.26]]]></title>
-        <id>https://www.appinn.com/eggs-320/</id>
-        <link href="https://www.appinn.com/eggs-320/"/>
-        <updated>2026-03-20T07:24:06.000Z</updated>
-        <summary type="html"><![CDATA[本周赛博领鸡蛋，Epic 带来一款桌面游戏电工模拟器《Electrician Simulator》，一款《战舰世界》礼包，以及一款像素风生活模拟 RPG 手机游戏：《Potion Permit》。@Appinn 本周 Epic 限免已经上线，可以直接通过网页领取，无需安装客户端。 《Electric]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卫星照片显示澳大利亚的红色沙漠在大雨之后变成绿色]]></title>
-        <id>https://www.solidot.org/story?sid=83818</id>
-        <link href="https://www.solidot.org/story?sid=83818"/>
-        <updated>2026-03-20T05:32:12.000Z</updated>
-        <summary type="html"><![CDATA[位于澳洲地理中心的小镇爱丽丝泉（Alice Springs），因其锈红色的沙漠景观而常被称为红土中心（Red Centre）。然而在 2026 年 2 月至 3 月连续数周的大雨过后，沙漠披上了一层绿装。NASA Terra 卫星显示，原本因富含铁质的岩石氧化而呈现红褐色的地貌，已完全被新生的植被覆盖。根据澳洲气象局的数据，北领地在 2026 年 2 月的平均降雨量高达 239 毫米，创下自 1900 年有纪录以来排名第三的湿润二月。这场地貌转变的背后也伴随着严重的地面洪涝灾害，洪水不仅连根拔起了树木，更造成许多民众受困。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta 撤回了 VR 版 Horizo​​n Worlds 的死亡判决]]></title>
-        <id>https://www.solidot.org/story?sid=83817</id>
-        <link href="https://www.solidot.org/story?sid=83817"/>
-        <updated>2026-03-20T05:22:04.000Z</updated>
-        <summary type="html"><![CDATA[Meta 撤回了 VR 版 Horizo​​n Worlds 的死亡判决。元宇宙或许已死，但 Meta 还不打算完全放弃。Meta CTO Andrew Bosworth 通过其 Instagram 账号宣布了这一消息，他表示该公司在收到用户反馈之后决定继续为现有游戏提供 Horizo​​n Worlds 的 VR 支持，但该公司的开发团队将专注于 Horizo​​n Worlds 的移动版本而不是 VR 版本。Meta 此前裁掉了负责 VR 的 Reality Labs 部门千名员工，但它仍然还有数千名员工，将继续开发新的 VR 头显，以及 AR 眼镜及相关技术。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群晖两连更：几乎没人用功能，Telnetd 爆出两个 9.8 分 CVE 漏洞]]></title>
-        <id>https://www.appinn.com/synology-dsm-telnetd-cve-2026-24061-cve-2026-32746/</id>
-        <link href="https://www.appinn.com/synology-dsm-telnetd-cve-2026-24061-cve-2026-32746/"/>
-        <updated>2026-03-20T04:14:33.000Z</updated>
-        <summary type="html"><![CDATA[省流：不开 Telnet 服务无任何影响。去检查下吧 最近几日，群晖的 DSM 系统接连更新，修复了 CVE-2026-24061 / CVE-2026-32746 两个涉及 Telnetd 的高危漏洞。 在 CVE-2026-24061 刚刚爆出之后，群晖就修复了这个错误（7.3.2-86009]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类与动物在声音偏好上存在共性]]></title>
-        <id>https://www.solidot.org/story?sid=83816</id>
-        <link href="https://www.solidot.org/story?sid=83816"/>
-        <updated>2026-03-20T04:08:45.000Z</updated>
-        <summary type="html"><![CDATA[人类与其他动物是否共享对声音之美的感知？发表在《科学》期刊上的一项新研究表明，答案或许是肯定的。在整个动物界中，动物会通过发声来交流及吸引配偶。尽管物种内部的求偶叫声和鸣唱各不相同，但倾听者往往会偏好其中某些特定的变体。这些偏好可能源于固有的感觉偏好、演化压力，或两者的结合。由于感官系统的基本架构在各物种间具有广泛的共性，因此那些旨在吸引同类的声音——例如悦耳的鸟鸣——也可能对其他物种（包括人类）产生吸引力；达尔文将这一理论称为“对美的欣赏力”。然而关于人类是否与其他动物在声音审美偏好上存在相似性的这一观念并未得到严格测试。研究人员开展了一项全球性的公民科学实验，共有 4196 名参与者评估了录自 16 个物种的 110 对动物的声音。在每一对动物的声音中，此前的研究已经确定了某动物本身偏爱哪一种声音。参与者需从每对声音中选出自己更喜欢的那个声音，从而使研究人员能比较人类与动物的声音偏好。结果显示，人类与广泛的动物类群——包括昆虫、蛙类、鸟类以及其他哺乳动物——在声音偏好上存在某些共性。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃尔玛获得利用机器学习预测需求并自动定价的专利]]></title>
-        <id>https://www.solidot.org/story?sid=83815</id>
-        <link href="https://www.solidot.org/story?sid=83815"/>
-        <updated>2026-03-20T04:03:04.000Z</updated>
-        <summary type="html"><![CDATA[零售巨头沃尔玛在今年 1 月获得了一项关于“动态自动更新商品价格的系统和方法”的专利，上周它又获得了一项利用机器学习预测需求并推荐商品价格的专利，再次引发了它可能会引入动态定价的争议。沃尔玛业务遍及世界，该公司否认这些专利与动态定价相关，称一月份的专利针对的是降价促销，而上周的专利则是旨在帮助销售团队做出决策。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 分享如何安装未验证身份开发者应用的流程]]></title>
-        <id>https://www.solidot.org/story?sid=83814</id>
-        <link href="https://www.solidot.org/story?sid=83814"/>
-        <updated>2026-03-20T03:48:52.000Z</updated>
-        <summary type="html"><![CDATA[Google 从今年 9 月开始将强制性要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用将无法在用户 Android 设备上侧载（sideload）。此举在 Android 社区引发了强烈抗议，迫使 Google 软化立场，表示会引入一个流程让用户能在设备上安装未验证身份的开发者应用。现在它分享了整个流程细节：
-在“关于本机”页面连续点击软件版本号七次开启开发者选项；]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
