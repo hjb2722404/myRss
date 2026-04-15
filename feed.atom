@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-04-14T04:43:41.124Z</updated>
+    <updated>2026-04-15T04:43:56.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google 将惩罚“后退按钮劫持”行为]]></title>
+        <id>https://www.solidot.org/story?sid=84046</id>
+        <link href="https://www.solidot.org/story?sid=84046"/>
+        <updated>2026-04-14T16:56:20.000Z</updated>
+        <summary type="html"><![CDATA[今天的很多网站不让用户“后退”，但到了 6 月 15 日，如果网站还这么做，Google 将会进行惩罚，大幅降低网站的搜索排名。Google 将把这种被称为“后退按钮劫持”的做法定性为恶意行为。“后退按钮劫持”旨在强行将用户留在网站以增加流量，当访客试图通过后退按钮返回上一页，网站会篡改页面浏览历史记录，在用户点击后退按钮时插入其他内容。Google 表示，后退按钮应该始终执行用户预期的功能——返回上一页，任何其他行为都属于一种欺骗性的用户体验。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德国主权科技基金向 Mastodon 资助 61.4 万欧元]]></title>
+        <id>https://www.solidot.org/story?sid=84045</id>
+        <link href="https://www.solidot.org/story?sid=84045"/>
+        <updated>2026-04-14T16:02:30.000Z</updated>
+        <summary type="html"><![CDATA[德国主权科技基金（Sovereign Tech Fund)向联邦宇宙微博客项目 Mastodon 资助 61.4 万欧元，用于支持 Mastodon 及其软件生态系统的改进和更新。这笔资金将投入到改进：黑名单同步；新的 Fediverse Auxiliary Service Provider(FASP)允许服务器之间共享存储和媒体处理资源；自动化内容检测；私信端到端加密；改进文档。相关改进预计在 2026 年底到 2027 年完成。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL 4.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=84044</id>
+        <link href="https://www.solidot.org/story?sid=84044"/>
+        <updated>2026-04-14T15:27:38.000Z</updated>
+        <summary type="html"><![CDATA[OpenSSL 项目释出了 v4.0 版本。主要新特性包括：支持 Encrypted Client Hello (ECH)，通过加密初始 TLS 握手以及隐藏服务器名称指示(SNI)提供更好的隐私保护；移除 SSLv3 等旧协议/引擎支持；通过支持 RFC 8998 改进后量子加密支持；移除 SSLv2 Client Hello，停止支持 Darwin i386 和 PowerPC/PPC64 等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Servo 发布首个 crates.io 版本]]></title>
+        <id>https://www.solidot.org/story?sid=84043</id>
+        <link href="https://www.solidot.org/story?sid=84043"/>
+        <updated>2026-04-14T15:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Rust 语言开发的浏览器渲染引擎项目 Servo 释出了 servo crate v0.1.0，这是它发布的首个 crates.io 版本，允许 Servo 作为一个库供其他项目使用。Servo 源自 Mozilla，2020 年 8 月 Mozilla 在裁员时砍掉了 Servo 引擎团队的大部分成员。Servo 项目之后脱离 Mozilla 成为一个独立项目，由 Linux 基金会托管，旨在为其它项目提供一个嵌入的高性能的、安全的渲染引擎。Servo 项目于 2025 年 10 月释出了 v0.0.1 版本，之后以每月发布一个新版本的频率发布。开发者表示他们计划以每半年更新一次的频率提供长期支持版本(LTS)，因为嵌入开发者可能无法及时更新到最新 Servo 版本，他们更适合使用 LTS 版本。LTS 版本预计将提供九个月的安全更新。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斯坦福的 AI 报告认为中美差距微乎其微]]></title>
+        <id>https://www.solidot.org/story?sid=84042</id>
+        <link href="https://www.solidot.org/story?sid=84042"/>
+        <updated>2026-04-14T14:37:21.000Z</updated>
+        <summary type="html"><![CDATA[斯坦福大学研究院 Institute for Human-Centered Artificial Intelligence(HAI)发布了年度报告 AI Index，报告认为中国顶级 AI 与美国 AI 相差无几。2024 年 1 月美国顶级 AI 的得分比中国顶级 AI 高 10% 左右，到  2026 年 3 月美国 Anthropic 和字节跳动的 AI 得分差距仅为 2.7%。在衡量语言、数学和编程领域难题正确率的基准测试中，差距也在缩小，中美之间的性能差距已基本消除。在开发和运营数据中心数量方面，美国有 5427 个遥遥领先于其他国家，2025 年民间投资额美国也以 2859 亿美元遥遥领先其他国家。中国的民间投资仅为 124 亿美元，但政府投资较大，实际投资额尚不明确。在被引用最多的前 100 篇论文中，中国的论文在 2024 年达到 41 篇，比上年增加 7 篇，缩小了与排名第一的美国（46 篇）的差距。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类止痛药对龙虾有效]]></title>
+        <id>https://www.solidot.org/story?sid=84041</id>
+        <link href="https://www.solidot.org/story?sid=84041"/>
+        <updated>2026-04-14T09:55:08.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Scientific Reports》期刊上的一项研究，龙虾能感受到疼痛，而人类止痛药也能帮助它止痛。这项研究再次表明需要为甲壳类动物开发出更人道的宰杀方法。新研究发现，当挪威龙虾在水中遭受电击时它们会快速摆动尾巴试图逃脱。但如果用止痛药阿司匹林和利多卡因预先为龙虾镇痛，尾巴摆动会减少甚至消失。论文合作者 Lynne Sneddon 称人类止痛药对挪威龙虾也有效，这表明人类生理功能与龙虾十分相似。人类应像对待鸡和牛一样重视对甲壳类动物的饲养和宰杀方式。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[含氟自来水对 IQ 和大脑功能没有影响]]></title>
+        <id>https://www.solidot.org/story?sid=84040</id>
+        <link href="https://www.solidot.org/story?sid=84040"/>
+        <updated>2026-04-14T08:53:50.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在 PNAS 期刊上的一项长期研究，儿童时期饮用含氟自来水对直至 80 岁的智商和大脑功能没有影响。美国反疫苗的卫生部长 Robert F. Kennedy Jr.此前宣称饮用水中的氟化物与 IQ 下降相关。美国多个红州——其中包括犹他州和佛罗里达州——已经颁布了禁令禁止在饮用水中添加氟化物，理由是担心氟化物导致 IQ 下降。肯塔基州、路易斯安那州、密苏里州和俄克拉荷马州等也在审议类似的立法。反对饮用水中添加氟化物的人士引用的研究多来自中国等国，这些国家饮用水中的氟化物浓度远高于美国，相关研究认为氟化物可能与儿童 IQ 有关。根据美国 CDC 的数据，预防龋齿的饮用水最优氟化物浓度为每升 0.7 毫克，相当于在 55 加仑的水桶中滴入 3 滴。美国饮用水法定氟化物浓度上限为每升 4.0 毫克。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[31 个 WordPress 插件被收购后植入了后门]]></title>
+        <id>https://www.solidot.org/story?sid=84039</id>
+        <link href="https://www.solidot.org/story?sid=84039"/>
+        <updated>2026-04-14T07:59:37.000Z</updated>
+        <summary type="html"><![CDATA[一个印度开发团队以 Essential Plugin 的名义开发了 31 款 WordPress 插件，插件有免费版本也有付费版本。2024 年底由于收入下降了 35-45% 开发者将所有插件出售给了一个有 SEO、加密货币和赌博背景的买家，金额是六位数。2025 年 8 月 8 日买家释出了更新，其中包含了后门，但后门一直处于休眠状态。2026 年 4 月 5-6 日后门激活开始向所有运行相关插件的网站传播恶意载荷。恶意代码从指令控制服务器获取垃圾链接、重定向和虚假页面。这些垃圾信息只会显示给 Google 的机器人 Googlebot，对网站所有者不可见。WordPress.org 插件团队次日关闭了所有插件，但 SEO 垃圾信息注入攻击仍在进行中。这不是 WordPress.org 第一次遭遇模式相似的供应链攻击——收购信任插件然后注入恶意代码，它没有机制标记或审查插件所有权转移，也没有向用户发出插件所有权变更的通知，新所有者也不会触发额外的代码审查。最新攻击有数十万安装这些插件的网站受到影响。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI 搜查朝 Sam Altman 住宅扔燃烧瓶的男子家]]></title>
+        <id>https://www.solidot.org/story?sid=84038</id>
+        <link href="https://www.solidot.org/story?sid=84038"/>
+        <updated>2026-04-14T07:12:41.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI CEO Sam Altman 过去几天遭遇了两次袭击。第一次是一名男子朝他在旧金山的住宅扔燃烧瓶，并在 OpenAI 总部大楼前发口头威胁；第二次是有人在汽车内朝 Altman 的家开枪。三位嫌疑人都遭到了逮捕。扔燃烧瓶的嫌疑人是 20 岁的 Daniel Moreno-Gama，FBI 搜查了他在德州的家。Moreno-Gama 还被发现在 Substack 上撰写博客表达对 AI 的担忧以及反对 AI 高管。他还是 Discord 服务器 PauseAI 的成员，该组织是一个致力于禁止开发最强大的 AI 模型以保护公众的激进组织。Moreno-Gama 被捕时携带了一份文件，表达对 AI 以及 AI 公司高管的反对立场，他本人此前并没有犯罪记录。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国区 Affinity 上线，全免费，无 AI 功能]]></title>
+        <id>https://www.appinn.com/canva-cn-affinity/</id>
+        <link href="https://www.appinn.com/canva-cn-affinity/"/>
+        <updated>2026-04-14T06:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Affinity 是一套用于图像处理、矢量设计和排版出版的专业设计软件。在被 Canva 收购后，目前 Affinity 已完全免费开放下载、使用，并且在近日上线了中国区官网。 Affinity 整合了 Affinity Photo、Affinity Designer、Affinity Publis]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客入侵 a16z 投资的手机农场，试图让手机农场账号发帖称 a16z 是反基督]]></title>
+        <id>https://www.solidot.org/story?sid=84037</id>
+        <link href="https://www.solidot.org/story?sid=84037"/>
+        <updated>2026-04-14T06:45:50.000Z</updated>
+        <summary type="html"><![CDATA[一名黑客入侵了硅谷风投 a16z 投资的手机农场 Doublespeed，该公司使用 AI 生成的 TikTok 账号创建虚假网红、生成视频以及发评论。黑客试图控制 Doublespeed 的社交账号发梗图声称 a16z 是“反基督”，图像包含了 a16z 联合创始人、特朗普支持者 Marc Andreessen。Doublespeed 联合创始人 Zuhair Lakhani 称他们已经迅速采取行动阻止了这次未经授权的访问，该公司的社交账号没有发布未经授权的帖子。Doublespeed 从 a16z 获得了 100 万美元的投资。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[frp v0.68：开源内网穿透工具简洁教程，新增 AI 能力：持久化存储、API 支持，可由 AI 添加、删除代理]]></title>
+        <id>https://www.appinn.com/frp/</id>
+        <link href="https://www.appinn.com/frp/"/>
+        <updated>2026-04-14T06:18:26.000Z</updated>
+        <summary type="html"><![CDATA[著名的开源内网穿透工具 frp v0.68 更新，添加了内置存储功能，以及通过 API 操作代理功能。今后可通过 AI 来操作 frp 客户端，无需重启。 frp v0.68 frp 的这个新功能，青小蛙觉得，就是为 AI 准备的。 持久化存储功能 在 frpc 客户端配置中，添加即可]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[boringBar – 只需 40 刀，让你的 Mac 拥有 Windows 的开始菜单和任务栏]]></title>
         <id>https://www.appinn.com/boringbar/</id>
@@ -1004,36 +1124,6 @@ Looking at New CSS Multi-Column Layout Wrapping Features originally published on
         <summary type="html"><![CDATA[AI 工具的用户通常可分为两类：其一将 AI 视为功能强大但会犯错的服务，需要人类仔细监督和审查以发现其中的推理或事实错误；其二将 AI 视为无所不知——此类用户被称为是“认知投降派”。宾夕法尼亚大学沃顿商学院的研究人员对 1372 名参与者和逾 9500 次测试后发现，高达 73.2% 的情况下参与者愿意接受 AI 错误的推理，只有 19.7% 的情况下会推翻推理。研究人员表示这一结果“表明人很容易将 AI 生成的输出融入到决策过程中，且通常几乎没有任何抵触或怀疑”,“流畅、自信的输出会被视为有认知权威性，从而降低审查门槛，减弱了通常会促使人们进行深思熟虑的元认知信号”。他们发现，倾向于将 AI 视为权威的人更容易被 AI 提供的错误答案误导。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS 工程师报告 Linux 7.0 下 PostgreSQL 性能暴降一半]]></title>
-        <id>https://www.solidot.org/story?sid=83966</id>
-        <link href="https://www.solidot.org/story?sid=83966"/>
-        <updated>2026-04-05T16:33:40.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊 AWS 工程师 Salvatore Dipietro 报告 Linux 7.0 下 PostgreSQL 的吞吐量和延迟性能出现了显著的下降。Linux 7.0 目前还在开发中，预计会在一两周内发布。测试显示，在基于 arm64 架构的 Graviton4 服务器上 PostgreSQL 的吞吐量仅为上个内核版本的 0.51 倍，原因是用户空间自旋锁导致花费的时间大幅增加。根本原因被认为是 Linux 7.0 新引入的对内核可用抢占模式的限制上。PostgreSQL 开发者要求在不同条件下重复进行更多测试。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 26.04 LTS 的最低内存需求提高到 6GB]]></title>
-        <id>https://www.solidot.org/story?sid=83965</id>
-        <link href="https://www.solidot.org/story?sid=83965"/>
-        <updated>2026-04-05T15:48:59.000Z</updated>
-        <summary type="html"><![CDATA[Canonical 即将于本月晚些时候正式释出的 Ubuntu 26.04 LTS 把最低内存需求提高到了 6GB。Ubuntu 14.04 LTS (Trusty Tahr)将最低内存需求设为 1GB，Ubuntu 18.04 LTS (Bionic Beaver)提高到 4GB，现在又一次提高了内存需求。相比下，微软将 Windows 11 的最低内存需求设为 4GB，当然这不过是微软的又一个谎言，没人真的会在只有 4GB 内存的计算机运行微软的最新操作系统，Windows 11 至少需要 8GB 内存。Canonical 并没有将 6GB 内存作为硬条件，用户仍然能在不到 6GB 内存的计算机上安装 Ubuntu 26.04。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flare – 在一个应用中，聚合 RSS、X、微博、Mastodon、Bluesky、Misskey 和 Nostr：所有账户，一条时间线]]></title>
-        <id>https://www.appinn.com/flareapp-moe/</id>
-        <link href="https://www.appinn.com/flareapp-moe/"/>
-        <updated>2026-04-05T08:07:07.000Z</updated>
-        <summary type="html"><![CDATA[想在一个 APP 中聚合浏览多个不同社交平台的内容吗？或许还可以同时向多个平台发布内容？甚至，还能有一个 RSS 阅读器… Flare 聚合你的所有社交信息流 Flare 是一款开源的跨平台应用，支持 Android、iOS，拥有 macOS、Windows 和 Linux 客户端，支持]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
