@@ -12,6 +12,56 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/qiewenpaper-openclaw-auto-paper-reproduction/",
+          "author": "青小蛙",
+          "description": "复现一篇论文，你通常要花多久？配环境、装依赖、改 Bug，一通折腾下来，一周起步。现在，这件事，已经可以交给 AI 自动完成了。而且，是一只“龙虾”。 最近 AI 圈最火的莫过于那只无所不能的龙虾 OpenClaw，已经被复旦 NLP 团队悄悄塞进了一个科研工具里： 不少人还在苦恼如何配置复杂的环境",
+          "link": "https://www.appinn.com/qiewenpaper-openclaw-auto-paper-reproduction/",
+          "publishedOn": "2026-04-16T03:33:13.000Z",
+          "wordCount": 2872,
+          "title": "免安装 OpenClaw！复旦 NLP 团队把🦞搬进科研神器，复现论文竟然能全自动了！",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/fd.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/cloudflare-mesh/",
+          "author": "青小蛙",
+          "description": "Cloudflare Mesh 是 Cloudflare 刚刚发布的私有网络功能，与 Tailscale、Zerotier 类似，可以将不同设备接入私有网络，并且通过专用 IP 互相通信。流量全部经由 Cloudflare 网络。 与 Tailscale、Zerotier 有什么不同？ Cloudf",
+          "link": "https://www.appinn.com/cloudflare-mesh/",
+          "publishedOn": "2026-04-16T03:30:59.000Z",
+          "wordCount": 2834,
+          "title": "Cloudflare Mesh 发布：私有组网工具，与 Tailscale、Zerotier 功能类似",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/cover-1776309864366-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/youtube-allows-users-to-disable-shorts/",
+          "author": "青小蛙",
+          "description": "嫌弃短视频浪费时间的用户终于有救了！YouTube 已经上线新功能，允许用户在设置 > 时间管理中，将 Shorts 的每日上限设置为 0 分钟，即：允许用户彻底关闭 Shorts。@Appinn 如何关闭 Shorts 需要在手机端的 Youtube 上，才可以设置。 具体为： 设置 > 时间管理",
+          "link": "https://www.appinn.com/youtube-allows-users-to-disable-shorts/",
+          "publishedOn": "2026-04-16T02:35:42.000Z",
+          "wordCount": 2755,
+          "title": "YouTube 允许用户彻底关闭 Shorts",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-99-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/modal-glm-5-1-free/",
+          "author": "青小蛙",
+          "description": "Modal 是一个提供云AI算力的平台，目前提供免费的 GLM-5.1 模型到月底，但限制并发请求 1。 模型入口 直接在该页面左侧点击 Sign in 注册即可： 然后可以看到并发请求限制为 1，也就是同一时间段只能有一个连接。 以及模型来自 Z.ai，2026年4月发布，746B 参数。 免费到",
+          "link": "https://www.appinn.com/modal-glm-5-1-free/",
+          "publishedOn": "2026-04-15T08:19:16.000Z",
+          "wordCount": 2195,
+          "title": "Modal 提供免费的 GLM-5.1 模型到月底，但限速 1",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/cover-1776240153220-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/google-ai-edge-gallery/",
+          "author": "青小蛙",
+          "description": "现在，通过 Google 的开源应用 Google AI Edge Gallery，已经可以直接在 iPhone 和安卓手机上运行 Gemma 4 E2B、E4B 两个模型了，不消耗任何 Token，能离线使用。而且不只是对话，还支持图片、语音，甚至加入了 Skills。 不用等啦，现在就能用。 G",
+          "link": "https://www.appinn.com/google-ai-edge-gallery/",
+          "publishedOn": "2026-04-15T07:42:59.000Z",
+          "wordCount": 2829,
+          "title": "iPhone、安卓现在就能跑 Gemma 4 了：Google 开源 AI Edge Gallery 应用",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/cover-1776237162745-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/canva-cn-affinity/",
           "author": "青小蛙",
           "description": "Affinity 是一套用于图像处理、矢量设计和排版出版的专业设计软件。在被 Canva 收购后，目前 Affinity 已完全免费开放下载、使用，并且在近日上线了中国区官网。 Affinity 整合了 Affinity Photo、Affinity Designer、Affinity Publis",
@@ -185,36 +235,6 @@
           "wordCount": 2726,
           "title": "Desktoptop 3.1多屏版，中文名：这他妈才叫桌面多屏版！",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-90.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/clipbox-phone/",
-          "author": "青小蛙",
-          "description": "ClipBox 是一款 iPhone、iPad 上的剪贴板历史应用，它可以保存多条剪贴板历史，并通过键盘使用。 但注意由于 iOS 的限制，你依旧需要手动分享剪贴板给 ClipBox 之后，或者打开一次 ClipBox 应用本身，它才能保存下剪贴板内容。@Appinn ClipBox 目前内购限免，",
-          "link": "https://www.appinn.com/clipbox-phone/",
-          "publishedOn": "2026-04-06T13:44:38.000Z",
-          "wordCount": 2176,
-          "title": "ClipBox – iPhone 剪贴板历史应用[内购限免]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/cover-1775482158440-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/how-many-microsoft-copilot/",
-          "author": "青小蛙",
-          "description": "Microsoft Copilot 到底是什么？ 以目前的情况，没有任何一个人可以解释的清楚，Microsoft Copilot 到底是什么。 因为当前微软使用 Copilot 这个名字的产品，至少有 75 个！ 从应用程序、功能、平台、键盘按键、整个笔记本电脑类别，甚至构建更多 Copilot 的",
-          "link": "https://www.appinn.com/how-many-microsoft-copilot/",
-          "publishedOn": "2026-04-06T06:45:19.000Z",
-          "wordCount": 3108,
-          "title": "微软到底有多少个 Copilot？",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/cover-1775457668262-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/faxian-top10-2614/",
-          "author": "青小蛙",
-          "description": "最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ Neokikoeru – 面向 DLsite 音声作品的自托管流媒体服务器 2️⃣ 自己写的龙胤立志传-二十二项合一内置修改器 3️⃣ 【开发者自荐】ioutbox-将普通照片转换为裸眼",
-          "link": "https://www.appinn.com/faxian-top10-2614/",
-          "publishedOn": "2026-04-06T01:00:54.000Z",
-          "wordCount": 2750,
-          "title": "发现频道：最近10日的热门排行榜[2026年第14期]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-16.jpg"
         }
       ]
     },
@@ -223,6 +243,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=393344",
+          "author": "Amit Sheen",
+          "description": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-radio-state-machine/",
+          "publishedOn": "2026-04-14T13:55:38.000Z",
+          "wordCount": 5015,
+          "title": "The Radio State Machine",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-state-machine.webp"
+        },
         {
           "id": "https://css-tricks.com/?p=392002",
           "author": "Sunkanmi Fafowora",
@@ -257,21 +287,6 @@
           "wordCount": 3769,
           "title": "Alternatives to the !important Keyword",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/important-style.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392361",
-          "author": "Abhishek Pratap Singh",
-          "description": "Chrome 145 introduces the column-height and column-wrap properties, enabling us to wrap the additional content into a new row below, creating a vertical scroll instead of a horizontal scroll.\nLooking at New CSS Multi-Column Layout Wrapping Features originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/css-multi-column-layout-wrapping-features/",
-          "publishedOn": "2026-04-06T13:55:49.000Z",
-          "wordCount": 3252,
-          "title": "Looking at New CSS Multi-Column Layout Wrapping Features",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/Screen-Recording-2026-02-17-at-9.41.27-AM.mov",
-            "length": "3273030",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/chrome-layout.webp"
         }
       ]
     },
@@ -324,6 +339,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84058",
+          "author": null,
+          "description": "领取规则：未注册过开发者的用户可以通过如下链接免费选择一门 DLI 在线自主培训的付费课程，配套云端实验环境和可获得 NVIDIA 培训证书。每位用户（每个邮箱账号）仅可选择一门。\n\n\n\n\n\n\n\n\n⚠️目前可选课程包括 7 门英文课，5 门中文课，目前课程列表如下，随时下架，免费名额有限，先到先得：\n\n\n\n\n✨领取指南：\n总共分四步，即可领取课程并学习测试获得证书\n一、新注册开发者用户\n填写未注册过的邮箱——设置密码——完善资料\n\n\n\n\n\n二、免费领取一节免费课程\n下滑到NVIDIA 培训和认证模块，点击立即领取，并补充个人信息\n注意：年龄仅限18岁以上，Location选择China\n\n\n\n三、领取一节您感兴趣的中文或者英文课程\n右上角可选择语言挑选中/英文课程\n\n四、开始学习并通过测试获得NVIDIA培训证书\n学习前，请阅读下图四步进行环境确认\n自测链接：http://websocketstest.courses.nvidia.com",
+          "link": "https://www.solidot.org/story?sid=84058",
+          "publishedOn": "2026-04-16T04:02:11.000Z",
+          "wordCount": 184,
+          "title": "免费领取价值30/90美金的NVIDIA DLI自学课程并测试获得证书",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84057",
+          "author": null,
+          "description": "全球九成以上的大米产自亚洲，亚洲有逾十亿人口以大米为主食。历史数据显示，亚洲大米过去九千年很少能在年平均气温逾 28°C 或暖季最高气温逾 33°C 的地区茁壮成长，而全球暖化的速度比水稻能适应的速度快 5000 倍。根据发表在《Communications Earth & Environment》期刊上的一项研究，预计到 2070 年印度和东南亚等传统水稻种植区的温度将超过 40 摄氏度，在这种温度下现有的亚洲水稻无法正常生长，逾十亿人的粮食安全面临威胁。研究人员指出，现有的水稻未适应气温升高，而是其种植从较暖的地区扩大到了较凉的地区，种植面积增加了，但承受气候变化的能力并没有增长。以中国为例，水稻种植从华中扩大到华北，同时加大了炎热地区的灌溉力度，因此大米的产量才略有增长。",
+          "link": "https://www.solidot.org/story?sid=84057",
+          "publishedOn": "2026-04-15T16:34:40.000Z",
+          "wordCount": 170,
+          "title": "全球暖化危及水稻产量",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84056",
+          "author": null,
+          "description": "美国民主党议员 Josh Gottheimer 和共和党议员 Elise M. Stefanik 联合提出了一项新法案，要求操作系统开发商验证用户的年龄。法案已于 4 月 13 日递交到众议院能源和商业委员，其详细内容还没有公开，目前只知道法案的标题是“To require operating system providers to verify the age of any user of an operating system, and for other purposes”。该法案可能是 Gottheimer 本月初提出的 Parents Decide Act 的一部分，其中包括：要求苹果和 Google 等操作系统开发商在设置新设备时验证用户年龄，不依赖于用户自行报告的年龄；允许家长从一开始就设置适合孩子年龄的内容控制，包括限制访问社交媒体、应用和 AI 平台；确保年龄和家长控制设置安全传输到应用和 AI 平台，它们因此能为儿童量身定制内容；通过在各个平台建立一致且可信的标准，防止儿童访问有害或露骨的内容，包括不合适的 AI 聊天机器人互动。",
+          "link": "https://www.solidot.org/story?sid=84056",
+          "publishedOn": "2026-04-15T14:41:16.000Z",
+          "wordCount": 201,
+          "title": "美国国会新法案要求操作系统验证用户年龄",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84055",
+          "author": null,
+          "description": "斯坦福大学 HAI 研究院本周一发表了年度报告 AI Index。报告凸显了 AI 业内人士和公众之间日益扩大的分歧。报告援引皮尤研究中心上月发布的一份报告：只有 10% 的美国人对 AI 在日常生活中的日益普及感到兴奋而非担忧，但 56% 的 AI 专家认为 AI 将在未来 20 年对美国产生积极影响。AI 专家的意见和公众情绪存在显著分歧：84% 的专家认为 AI 未来 20 年将对医疗保健产生积极影响，只有 44% 的公众持相同观点；73% 的专家积极看待 AI 对工作方式的影响，而持相同观点的公众仅占 23%；69% 的专家认为 AI 将对经济产生积极影响，只有 21% 的公众持相同观点；AI 专家对 AI 对就业市场的影响持较为乐观态度，而 64% 的公众认为 AI 将在未来 20 年导致就业岗位减少。",
+          "link": "https://www.solidot.org/story?sid=84055",
+          "publishedOn": "2026-04-15T14:23:49.000Z",
+          "wordCount": 209,
+          "title": "斯坦福报告凸显了 AI 业内人士和公众之间的分歧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84054",
+          "author": null,
+          "description": "RKS Global 的专家发现，30 款俄罗斯最流行 Android 应用​有 22 款能检测 VPN，其中 19 款会将 VPN 状态发送至服务器。这些应用包括：Yandex Browser、Yandex Maps、VKontakte、My MTS、Sberbank Online、T-Bank、VK Video、Wildberries、 Kinopoisk、Ozon、Samokat、RuStore、VTB Online、Yandex Music、Avito、Alfa-Bank、2GIS、MegaMarket、Odnoklassniki、MAX、Rutube 和 VK Music。俄罗斯数字发展部已经要求大型企业从 4 月 15 日起限制那些在设备上启用了 VPN 的用户的访问。调查发现，Avito 应用会检测设备上是否安装了逾 200 种外国应用，其中包括银行、加密货币钱包和 IM 等。",
+          "link": "https://www.solidot.org/story?sid=84054",
+          "publishedOn": "2026-04-15T13:43:09.000Z",
+          "wordCount": 195,
+          "title": "俄罗斯流行应用被发现会检测是否安装 VPN",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84053",
+          "author": null,
+          "description": "纽约南区法官 Jed Rakoff 作出缺席判决，勒令影子图书馆安娜的档案（Anna's Archive）向 Spotify 以及唱片公司环球音乐、索尼音乐和华纳唱片赔偿 3.22 亿美元，其中 Spotify 获得 3 亿美元赔偿。安娜的档案的运营者没有现身法庭为其辩护，也不太可能支付赔偿金。这起诉讼源自去年安娜的档案宣布抓取了 Spotify 的音乐文件，它随后发布了 Spotify 的元数据，但并没有公开音乐文件，尽管如此 Spotify 和唱片公司对安娜的档案提起了诉讼，导致这家影子图书馆主域名被扣押。Spotify 等原告的主要目的也不是赔偿金，而是要在全球封杀安娜的档案。法官 Rakoff 也宣布了永久禁令，涉及 10 个域名 annas-archive.org、.li、.se、.in、.pm、.gl、.ch、.pk、.gd 和.vg。",
+          "link": "https://www.solidot.org/story?sid=84053",
+          "publishedOn": "2026-04-15T10:30:17.000Z",
+          "wordCount": 198,
+          "title": "安娜的档案被勒令向 Spotify 等赔偿 3.22 亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84052",
+          "author": null,
+          "description": "芝加哥音乐粉丝 Aadam Jacobs 自 1980 年代起录制他参加的演唱会，至今积累了逾万盘磁带。现年 59 岁的 Jacobs 知道磁带会随着时间推移而损坏，因此他同意互联网档案馆的志愿者将这些磁带数字化。互联网档案馆已经上传了 2477 盘音乐会磁带，其中包括相当罕见的 1989 年涅盘乐队（Nirvana）音乐会磁带，乐队被主流观众所熟悉是在 1991 年发行的单曲 Smells Like Teen Spirit 之后。",
+          "link": "https://www.solidot.org/story?sid=84052",
+          "publishedOn": "2026-04-15T08:53:11.000Z",
+          "wordCount": 178,
+          "title": "互联网档案馆存档数千音乐会录音带",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84051",
+          "author": null,
+          "description": "在 2000 年上映的电影《特工佳丽（Miss Congeniality）》中，桑德拉·布洛克扮演的女主角被问到完美的约会日期时回答，“April 25th, because it's not too hot, not too cold. All you need is a light jacket”。但 4 月 25 日真的是完美的天气？WeatherBug 对美国自 2018 年以来的天气的分析显示，10 月 8 日才是全美温度最舒适和降雨量最低的日期，当天的平均气温约为 19 摄氏度，降雨量约 0.25 毫米。而 4 月 25 日在全年排名中排在第 80 位，平均气温 16 摄氏度，降雨量约 0.32 毫米。数据显示，7 月是美国全年最热的月份，而 1 月则是最冷的月份，1 月 20 日的全国平均气温约 0.5 摄氏度。",
+          "link": "https://www.solidot.org/story?sid=84051",
+          "publishedOn": "2026-04-15T07:53:47.000Z",
+          "wordCount": 224,
+          "title": "美国最完美的约会日期是 10 月 8 日",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84050",
+          "author": null,
+          "description": "在澳大利亚等国之后，英国也在考虑限制儿童使用社交媒体，它正在测试禁令、宵禁和应用使用时间限制等措施观察这些措施对儿童睡眠、家庭生活和学业的影响。英国首相 Keir Starmer 表示社媒平台应移除针对年轻用户的让人上瘾的无限滚动功能。他接受 BBC 采访时称社媒公司设计的算法旨在让用户上瘾，家长正要求政府介入。",
+          "link": "https://www.solidot.org/story?sid=84050",
+          "publishedOn": "2026-04-15T07:30:02.000Z",
+          "wordCount": 162,
+          "title": "英国首相表示社媒平台应停止无限滚动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84049",
+          "author": null,
+          "description": "由于 AI 热导致内存和固态硬盘等产品供不应求，相关零部件过去几个月价格翻了几倍，导致电脑和手机等产品也跟着涨价，现在微软也大幅提高了其 Surface 系列产品的价格。12 英寸的 Surface Pro 从 799 美元涨到了 1049 美元（起售价），13 英寸的 Surface Pro 从 999 美元涨到 1499 美元，13 英寸的 Surface Laptop 从 899 美元涨到了 1149 美元，13.8 英寸 Surface Laptop 从 999 美元涨到 1499 美元，15 英寸型号起售价现在为 1599 美元。15 英寸 Surface Laptop 的顶配如今价格超过了同等规格的苹果 16 英寸 MacBook Pro。难以想象苹果的电脑产品有一天会成为比 Windows 电脑更廉价同时性能还更好的产品。",
+          "link": "https://www.solidot.org/story?sid=84049",
+          "publishedOn": "2026-04-15T07:07:22.000Z",
+          "wordCount": 215,
+          "title": "微软 Surface 系列产品大幅涨价",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84048",
+          "author": null,
+          "description": "亚马逊和 Globalstar 发表新闻稿，宣布达成了收购协议，扩大亚马逊的 Leo 宽带卫星网络。苹果持有 Globalstar 五分之一的股份，作为收购协议的一部分，苹果与亚马逊达成协议，Amazon Leo 将为 iPhone 和 Apple Watch 提供卫星服务，包括通过卫星提供紧急 SOS 求救服务。",
+          "link": "https://www.solidot.org/story?sid=84048",
+          "publishedOn": "2026-04-15T06:23:50.000Z",
+          "wordCount": 176,
+          "title": "亚马逊收购 Globalstar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84047",
+          "author": null,
+          "description": "2024 年 9 月 Amandla Thomas-Johnson 持学生签证在美国攻读博士学位期间在康奈尔大学参加了一次支持巴勒斯坦的抗议活动。2025 年 4 月美国 ICE 向 Google 发出行政传票要求提供 Thomas-Johnson 的数据。Google 承诺，在根据法律程序——包括行政传票——交出用户数据之前会通知用户，此举旨在让用户有机会对数据披露要求提出质疑。但本案中 Google 没有提前通知就交出了数据。电子前哨基金会（EFF）代表 Thomas-Johnson 向加州和纽约州投诉 Google，指控其违反承诺从事了商业诈欺行为。Thomas-Johnson 已经离开了美国，他在 EFF 上称即使他离开美国也并没有摆脱它的控制，他说，“任何人都有可能成为执法部门的目标，而科技公司凭借其庞大的数据存储，可以助长这些任意调查。”",
+          "link": "https://www.solidot.org/story?sid=84047",
+          "publishedOn": "2026-04-15T06:15:46.000Z",
+          "wordCount": 189,
+          "title": "Google 违反承诺未提前通知就将用户数据交给 ICE",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84046",
           "author": null,
@@ -1083,46 +1218,6 @@
           "wordCount": 199,
           "title": "欧盟在一次供应链攻击中被盗走 92 GB 压缩数据",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83970",
-          "author": null,
-          "description": "德国公开了曾在早期运营俄罗斯勒索软件组织 GandCrab 和 REvil 的头目 UNKN 的身份。31 岁的 Daniil Maksimovich Shchukin 于 2019-2021 年间在德国实施了至少 130 起计算机破坏和勒索行动。德国称，Shchukin 以及另一名俄罗斯人——43 岁 Anatoly Sergeevitsch Kravchuk——一起勒索了近 200 万欧元，造成经济损失逾 3500 万欧元。德国联邦刑事警察局（BKA）称他领导的 GandCrab 和 REvil 首创了双重勒索——先向受害者收取赎金提供解锁的密钥，然后再收取一笔费用换取不公开被盗数据的承诺。GandCrab 在 2019 年成功勒索逾 20 亿美元后宣布解散，但随后就以 REvil 的名字再次亮相。",
-          "link": "https://www.solidot.org/story?sid=83970",
-          "publishedOn": "2026-04-06T15:30:33.000Z",
-          "wordCount": 200,
-          "title": "德国公开俄罗斯勒索软件组织 REvil 头目的身份",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83969",
-          "author": null,
-          "description": "Chrome 和 Firefox 等浏览器都支持延迟加载。延迟加载又名懒加载，顾名思义，为了加快页面加载速度而推迟加载特定对象，这些对象直到要使用时才会开始加载，如 Chrome 从 2019 年起就延迟加载图像和 iframe。现在它正在 Chrome 148 上测试延迟加载视频和音频以改进浏览器性能。今天很多网站尤其是新闻网站都会在页面中嵌入视频和音频，影响了页面加载速度。",
-          "link": "https://www.solidot.org/story?sid=83969",
-          "publishedOn": "2026-04-06T14:22:34.000Z",
-          "wordCount": 176,
-          "title": "Chrome 148 将延迟加载视频和音频以改进性能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83968",
-          "author": null,
-          "description": "今天的司机有很多方法躲避超速相机的监测，比如手机应用程序能提前通知司机前方有测速相机，司机随后放慢车速，通过之后再加速行驶。为了遏制此类行为，越来越多的地方开始推出测量均速的相机系统：跟踪同一辆汽车在多个监控点之间的均速，如果均速超过限速 10 英里/时或以上，则对相关车辆开出罚单。美国科罗拉多州于 2023 年通过法律允许使用自动车辆识别系统计算汽车在不同摄像头之间的均速，去年底交警开始正式对超速行驶的汽车开罚单。罚款为 75 美元，不扣分，罚单将开给车主，不管驾驶汽车的司机是谁。地图软件如 TomTom 也对此采取了应对措施，为司机提供测均速区域的均速信息。",
-          "link": "https://www.solidot.org/story?sid=83968",
-          "publishedOn": "2026-04-06T10:53:51.000Z",
-          "wordCount": 165,
-          "title": "美国科罗拉多州推出测均速相机系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83967",
-          "author": null,
-          "description": "AI 工具的用户通常可分为两类：其一将 AI 视为功能强大但会犯错的服务，需要人类仔细监督和审查以发现其中的推理或事实错误；其二将 AI 视为无所不知——此类用户被称为是“认知投降派”。宾夕法尼亚大学沃顿商学院的研究人员对 1372 名参与者和逾 9500 次测试后发现，高达 73.2% 的情况下参与者愿意接受 AI 错误的推理，只有 19.7% 的情况下会推翻推理。研究人员表示这一结果“表明人很容易将 AI 生成的输出融入到决策过程中，且通常几乎没有任何抵触或怀疑”,“流畅、自信的输出会被视为有认知权威性，从而降低审查门槛，减弱了通常会促使人们进行深思熟虑的元认知信号”。他们发现，倾向于将 AI 视为权威的人更容易被 AI 提供的错误答案误导。",
-          "link": "https://www.solidot.org/story?sid=83967",
-          "publishedOn": "2026-04-05T17:15:06.000Z",
-          "wordCount": 187,
-          "title": "认知投降导致 AI 用户放弃逻辑思维能力",
-          "imageUrl": null
         }
       ]
     },
@@ -1130,18 +1225,7 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com",
-      "articles": [
-        {
-          "id": "https://humanwhocodes.com/blog/2026/04/improving-developer-velocity-github-merge-queue/",
-          "author": "Nicholas C. Zakas",
-          "description": "GitHub merge queue reduces the manual churn of keeping pull requests current by automatically retesting them in order before merge.",
-          "link": "https://humanwhocodes.com/blog/2026/04/improving-developer-velocity-github-merge-queue/",
-          "publishedOn": "2026-04-06T00:00:00.000Z",
-          "wordCount": 2349,
-          "title": "Improving developer velocity with GitHub merge queue",
-          "imageUrl": "https://humanwhocodes.com/images/posts/2026/github-merge-queue.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "宁南山 - 知乎动态",
