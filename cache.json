@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/annas-archive-default-judgment-322m-domain-block/",
+          "author": "青小蛙",
+          "description": "这可能是互联网最奇怪的一场官司之一。一个月前《安娜的档案被 13 家大型出版商联合起诉》，如今判决已经出来了：没有出庭、没有抗辩，安娜的档案直接败诉。 法院判决其赔偿3.22亿美元，并下达永久禁令，要求域名注册商及相关服务提供方停止为该网站提供支持，包括暂停其域名的解析与使用。 目前安娜的档案仅剩",
+          "link": "https://www.appinn.com/annas-archive-default-judgment-322m-domain-block/",
+          "publishedOn": "2026-04-16T06:46:09.000Z",
+          "wordCount": 2740,
+          "title": "安娜的档案缺席败诉，赔偿3.22亿美元，恐失去所有域名",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/cover-1776320696631-1.jpg"
+        },
+        {
           "id": "https://www.appinn.com/qiewenpaper-openclaw-auto-paper-reproduction/",
           "author": "青小蛙",
           "description": "复现一篇论文，你通常要花多久？配环境、装依赖、改 Bug，一通折腾下来，一周起步。现在，这件事，已经可以交给 AI 自动完成了。而且，是一只“龙虾”。 最近 AI 圈最火的莫过于那只无所不能的龙虾 OpenClaw，已经被复旦 NLP 团队悄悄塞进了一个科研工具里： 不少人还在苦恼如何配置复杂的环境",
@@ -225,16 +235,6 @@
           "wordCount": 2989,
           "title": "微软向“预览体验成员”发送中文邮件：我们对 Windows 质量的承诺",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-92.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/desktoptop-3-1/",
-          "author": "青小蛙",
-          "description": "豪放的软件无需解释，只看中文名就行了。 起名天才开发者 @dog 的一系列软件，都如此豪放，比如： 等等。这两年起名好多了，温柔了、平淡了。 这次《这他妈才叫桌面多屏版！》是因为新版本更新，不然青小蛙觉得一定不会这么叫了 😂 Desktoptop 3.1多屏版｜这他妈才叫桌面多屏版！ 「deskto",
-          "link": "https://www.appinn.com/desktoptop-3-1/",
-          "publishedOn": "2026-04-07T03:57:49.000Z",
-          "wordCount": 2726,
-          "title": "Desktoptop 3.1多屏版，中文名：这他妈才叫桌面多屏版！",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-90.jpg"
         }
       ]
     },
@@ -243,6 +243,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=392882",
+          "author": "Amejimaobari Victor",
+          "description": "Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.\nA Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-javascript-module-system-architecture/",
+          "publishedOn": "2026-04-16T13:53:58.000Z",
+          "wordCount": 4856,
+          "title": "A Well-Designed JavaScript Module System is Your First Architecture Decision",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png"
+        },
         {
           "id": "https://css-tricks.com/?p=393344",
           "author": "Amit Sheen",
@@ -277,16 +287,6 @@
           "wordCount": 2912,
           "title": "Selecting a Date Range in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_7B1698CD93D2E480B2867F02F52F6807BC326B3FB6B9C5A5A10103D5813DD8E0_1774013392464_Screenshot2026-03-20at7.29.24AM.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392696",
-          "author": "Saleh Mubashar",
-          "description": "Cascade layers, specificity tricks, smarter ordering, and even some clever selector hacks can often replace !important with something cleaner, more predictable, and far less embarrassing to explain to your future self.\nAlternatives to the !important Keyword originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/alternatives-to-the-important-keyword/",
-          "publishedOn": "2026-04-07T13:54:43.000Z",
-          "wordCount": 3769,
-          "title": "Alternatives to the !important Keyword",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/important-style.webp"
         }
       ]
     },
@@ -321,16 +321,6 @@
           "wordCount": 1803,
           "title": "务必谨慎使用JS WeakRef弱引用",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=12118",
-          "author": "张 鑫旭",
-          "description": "如题，介绍六边形头像的CSS实现技巧，以及如何基于这个六边形实现高大上的蜂巢布局效果，又是展现CSS潜力的一天。",
-          "link": "https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/",
-          "publishedOn": "2026-04-07T08:41:49.000Z",
-          "wordCount": 1747,
-          "title": "CSS六边形头像的实现与蜂巢布局",
-          "imageUrl": null
         }
       ]
     },
@@ -339,6 +329,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84069",
+          "author": null,
+          "description": "研究人员在预印本平台 ArXiv 上发表论文《AI assistance reduces persistence and hurts independent performance》，再次证实 AI 有害大脑。研究人员招募了 350 名美国人，任务是解决一些分数方程。半数参与者被随机分配到 AI 组，他们可从一个基于 OpenAI GPT-5 构建的专用聊天机器人获取帮助，另一半必须独立完成。考试进行到一半时，AI 组的访问权限被切断。此举导致 AI 组的正确答案数量急剧下降，很多人干脆放弃考试。这一结果——成绩和毅力双双下降——在一项包含 670 名参与者的更大规模实验中得到了重复验证。研究人员指出，AI 辅助能提高即时表现，但会带来巨大的认知代价。仅仅使用 AI 十分钟就会让人对这项技术产生依赖，一旦停止使用，会导致表现下降和倦怠。",
+          "link": "https://www.solidot.org/story?sid=84069",
+          "publishedOn": "2026-04-16T15:18:58.000Z",
+          "wordCount": 192,
+          "title": "新研究再次证实 AI 有害大脑",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84068",
+          "author": null,
+          "description": "Mozilla 与德国 AI 基础设施公司 deepset 合作宣布开源可自托管 AI 客户端 Thunderbolt。MZLA Technologies Corporation CEO Ryan Sipes 表示，AI 太重要而不能外包，Thunderbolt 为机构组织提供了一种自主的 AI 客户端，根据自身的基础设施、数据和需求，决定 AI 如何融入自身的工作流程。Thunderbolt 主要面向企业用户，而不是普通的 Firefox 用户。",
+          "link": "https://www.solidot.org/story?sid=84068",
+          "publishedOn": "2026-04-16T14:52:32.000Z",
+          "wordCount": 197,
+          "title": "Mozilla 宣布开源可自托管 AI 客户端 Thunderbolt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84067",
+          "author": null,
+          "description": "基于 Ubuntu 的发行版 Linux Mint 正式宣布放慢发布周期。Ubuntu 是每半年发布一个新版本，Linux Mint 此前采用的发布周期类似。项目联合创始人 Clem Lefebvre 指出，每六个月发布一个新版本，此外还包括 LMDE，他们花在测试、修 bug 和发布上的时间远多于开发时间。Linux Mint 决定改变现状，采用更长的开发周期：下一个版本计划于 2026 年圣诞节发布，它将基于预计四月晚些时候释出的 Ubuntu 26.04 LTS，使用 Linux kernel 7.0（刚刚发布）。",
+          "link": "https://www.solidot.org/story?sid=84067",
+          "publishedOn": "2026-04-16T14:32:43.000Z",
+          "wordCount": 189,
+          "title": "Linux Mint 宣布采用更长的开发周期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84066",
+          "author": null,
+          "description": "人类一直在制造噪音，而动物并不喜欢。动物需要时刻注意周围的声音，警惕捕食者接近或者发现求偶者。无处不在的人造噪音增加了动物彼此之间的沟通难度。旧金山公园 Presidio 的历史录音显示，在 1960 年代麻雀有三种不同的“方言”，但到了 2010 年代，由于交通噪音麻雀主要使用其中音调更高的“方言”，另外两种较柔和的“方言”要么已经消失要么正在消失。为了在噪音下被同类听到，鸟儿只能竭尽全力的鸣叫。城市噪音甚至改变了鸟类的体型，它们变得更瘦，压力更大。求偶鸣叫也不再有效。因为雌鸟不太喜欢高音调高音量的叫声。噪音还加剧了鸟类之间的冲突，因为听不到警告叫声鸟儿容易误入敌对鸟的领地。新冠疫情初期为遏制病毒的扩散全世界都采取了社交封锁的政策，世界变得更安静了。公园的噪音降低了 7 分贝，麻雀的叫声也发生了变化，鸣叫声更轻柔频率范围也更丰富，传送的距离也比以前多了一倍，求偶鸣叫也更撩人了。研究人员发现，当声音超过  55 分贝，胆小的动物就会进入应激反应；超过 65 分贝，几乎所有动物都会逃跑。噪音对动物有害，对人类也是如此：研究发现交通噪音与睡眠质量差、血压升高、心脏病发病率增加以及压力增大相关。那么我们能安静下来吗？",
+          "link": "https://www.solidot.org/story?sid=84066",
+          "publishedOn": "2026-04-16T14:24:54.000Z",
+          "wordCount": 169,
+          "title": "人类的噪音在伤害动物，我们会学会安静吗？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84065",
+          "author": null,
+          "description": "世界自然保护联盟（IUCN）发布公报，南极洲两个最具代表性的物种——帝企鹅和南极毛皮海狮因数量快速、急剧减少，已被列入濒危物种红色名录濒危等级。IUCN 将物种生存状况划分为 9 个等级：灭绝、野外灭绝、极危、濒危、易危、近危、无危、数据缺乏、未予评估。IUCN 公报指出，根据卫星图像，2009 年至 2018 年间，帝企鹅种群数量减少了约 10%，相当于 2 万多只成年帝企鹅消失了。南极气候变化导致海冰发生变化，预测到 2180 年代，帝企鹅的数量将减半。南极毛皮海狮因食物短缺导致数量自 2000 年以来减少了 50%。气候变化致使海洋温度上升和海冰面积缩减，磷虾向更深、更冷的水域迁移，导致南极毛皮海狮的食物来源减少。",
+          "link": "https://www.solidot.org/story?sid=84065",
+          "publishedOn": "2026-04-16T11:25:28.000Z",
+          "wordCount": 173,
+          "title": "帝企鹅因气候变化导致数量减少被列为濒危",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84064",
+          "author": null,
+          "description": "人类与抹香鲸可能没有共同之处，但根据发表在《Proceedings B》上的一项研究，抹香鲸的发声沟通方式与人类语言有着惊人的相似性。抹香鲸不仅有着某种形式的“字母表”，在发声中形成元音，且元音的结构与人类语言采用了相同的方法。抹香鲸通过一系列“咔嗒”声进行交流，对咔嗒声的分析发现，抹香鲸能通过长短不同的咔哒声或通过升降调去区分元音，其模式与汉语、拉丁语和斯洛文尼亚语等语言相似。这项发现是致力于翻译鲸鱼语言的 Project Ceti(代表 Cetacean Translation Initiative)的最新研究结果。Project Ceti 创始人 David Gruber 说，鲸鱼可能将信息一代又一代传递了逾两千万年。",
+          "link": "https://www.solidot.org/story?sid=84064",
+          "publishedOn": "2026-04-16T11:05:34.000Z",
+          "wordCount": 168,
+          "title": "抹香鲸的发声沟通方式与人类相似",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84063",
+          "author": null,
+          "description": "AppMagic 的数据显示，2026 年 2 月全世界收入最高的 15 款手游中有 7 款来自中国，这些游戏的内购在一个月内产生了 6.68 亿美元的收入。Playrix、King、Roblox Corporation 和 Supercell 等西方公司仍然能跻身全球收入最高的 10 大手游发行商榜单，但它们的成功源于老游戏。2025 年收入排名前 15 的新游戏中没有一款来自西方游戏工作室。2025 年中国游戏在海外市场的收入达到 205 亿美元，连续第十年实现增长，连续第二年保持两位数增长。这种现象并非偶然，也并非仅仅因为中国市场庞大，中国手游的全球支配地位是循序渐进建立起来的。这一切源自本世纪初，当时中国的 PC 游戏盗版猖獗，买断制游戏模式难以维系，因此中国游戏公司转向了免费内购模式，在手游逐渐流行时，中国游戏公司对玩家付费心理的理解领先世界十年，并至今影响着他们的运营模式。2025 年中国手游活跃玩家 7.72 亿，手游收入占到了游戏市场总收入 501 亿美元的 73.29%，巨大的竞争压力促使中国游戏公司转向海外市场，首先是 4X 策略游戏，然后是中核（Mid-core）游戏，曾经的西方强项益智、合并和消除类游戏也逐渐被中国公司吞食。中国公司拥有西方公司所不具备的结构性优势：庞大且地域集中的人才库；对轮班制工作的文化接受度；员工纪律性强且易于替代；规模化生产后单位劳动力成本更低；以及对庞大团队和快速重组的容忍度。西方公司无法长期安排多个轮班以满足全天候实时运营的需求，无法将团队规模扩大到数千人，无法以工业化速度招聘和重组，没办法在这方面与中国公司展开竞争。中国公司对市场的反应无人能及，前一天 TikTok 上流行的梗（meme）可能第二天就出现在游戏关卡里。中国公司凭借组织规模取胜，西方公司只能依靠组织和创意的精准性取胜。",
+          "link": "https://www.solidot.org/story?sid=84063",
+          "publishedOn": "2026-04-16T10:02:59.000Z",
+          "wordCount": 191,
+          "title": "中国手游如何征服世界",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84062",
+          "author": null,
+          "description": "根据 Google 的统计，全球的 IPv6 普及度最近一段时间突破了 50%。按国别统计，中国只有 4.66%，美国 54.61%，加拿大 40.91%，俄罗斯 47.67%，印度 74.87%。然而 Cloudflare 的数据与 Google 有显著差异，Cloudflare 统计的是 HTTP 请求中 IPv4 和 IPv6 的比例，中国的 IPv6 比例达到了 32.6%，印度是 69.6%，美国是 49.1%。Akamai 的数据是中国 IPv6 普及度 26.1%，印度 73.4%，美国 48.1%。",
+          "link": "https://www.solidot.org/story?sid=84062",
+          "publishedOn": "2026-04-16T08:29:16.000Z",
+          "wordCount": 199,
+          "title": "IPv6 普及度突破 50%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84061",
+          "author": null,
+          "description": "一名 63 岁的挪威男子接受其兄弟的干细胞移植后治愈了艾滋病，该男子已停止抗逆转录病毒治疗两年，定期检测未发现病毒。全世界大约有 10 例通过干细胞移植治愈艾滋病的病例，而这是首例涉及家庭成员捐赠干细胞的病例。这名挪威男子于 2006 年确诊艾滋病，2018 年确诊骨髓增生异常综合征，这是一种会削弱骨髓造血功能的癌症。癌症在治疗两年后复发，医生决定移植干细胞，希望能找到适配骨髓同时还携带能抵抗 HIV 的基因突变的捐赠者。名为 CCR5-delta 32 的突变能让免疫细胞抵抗最常见的艾滋病病毒 HIV-1，但只有 1% 的人口携带两个该突变基因拷贝。在未找到之后，医生转向了该男子的兄弟，他的兄弟适配骨髓，出乎意料的是，医生在检测时发现他还携带了 CCR5-delta 32 突变。",
+          "link": "https://www.solidot.org/story?sid=84061",
+          "publishedOn": "2026-04-16T07:58:48.000Z",
+          "wordCount": 179,
+          "title": "挪威男子在移植其兄弟的干细胞后治愈 HIV",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84060",
+          "author": null,
+          "description": "波士顿动力将 Google DeepMind 的高级具身推理模型 Gemini Robotics-ER 1.6 集成到其机器狗 Spot 中，使 Spot 在工业检测如发现泄漏和读取仪表数据上拥有更强的自主推理能力，机器狗还能认识到何时调用其他 AI 工具。波士顿动力与 Google DeepMind 合作的重点集中在工业检测相关领域，即机器狗在工业设施内巡逻过程中是否能识别潜在爆炸风险。在集成 Gemini Robotics 之后，Spot 能自主寻找危险碎片或泄漏物，读取复杂仪表和视镜，在需要帮助理解周围环境时调用视觉-语言-动作模型等工具。波士顿动力在 YouTube 上发布了一则视频演示了 Spot 的新能力。",
+          "link": "https://www.solidot.org/story?sid=84060",
+          "publishedOn": "2026-04-16T07:34:04.000Z",
+          "wordCount": 199,
+          "title": "波士顿动力的机器狗集成了 Google 的 Gemini 模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84059",
+          "author": null,
+          "description": "日程安排平台 Cal.com 宣布从开源转为闭源，理由是 AI 工具更容易从开源代码中发现漏洞，而安全性依赖于模糊，因此闭源有助于提高安全。Cal 联合创始人 Peer Richelsen 称 AI 攻击者正在利用开源项目的透明特性，CEO Bailey Pumfleet 说，开源就好比银行公开其金库的图纸，在 AI 工具的帮助下研究图纸的黑客数量增加了百倍。Cal.com 表示会继续支持开源，将为爱好者提供一个独立的开源版本 Cal.diy。该公司核心产品则将从开源许可证 GNU Affero General Public License(AGPL)切换到闭源许可证。Pumfleet 表示，他们不希望因为漏洞而暴露客户敏感的订购数据，他们旨在成为一家日程安排公司，而不是一家网络安全公司。",
+          "link": "https://www.solidot.org/story?sid=84059",
+          "publishedOn": "2026-04-16T06:21:22.000Z",
+          "wordCount": 194,
+          "title": "Cal.com 因 AI 从开源转为闭源",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84058",
           "author": null,
@@ -1107,116 +1207,6 @@
           "publishedOn": "2026-04-08T05:26:19.000Z",
           "wordCount": 176,
           "title": "Chrome 支持垂直标签",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83981",
-          "author": null,
-          "description": "日本科学家 Yasuto Narukiyo 在 ISSCC 上演示了能承受核反应堆六个月强辐射的 Wi-Fi 接收器。Wi-Fi 接收器能承受 500 kilograys，是太空电子设备通常三年承受 100-300 grays 辐射剂量的千倍以上。Narukiyo 称，2011 年福岛核事故后工程师使用机器人勘察和清理核电站。这些机器人多需要 LAN 线缆，而线缆很容易缠绕在一起。他的团队的目标是开发一种用于在这种恶劣环境下控制机器人的无线系统。即使不是如此极端的环境，核电站寿命到期也需要清理，而很多关闭的核电站至今未完成清理工作，未来二十年还有 200 座反应堆退役。Narukiyo 的团队使用了硅 MOSFET 晶体管，减少晶体管数量同时改变其形状，并加宽了栅极。",
-          "link": "https://www.solidot.org/story?sid=83981",
-          "publishedOn": "2026-04-07T16:23:56.000Z",
-          "wordCount": 187,
-          "title": "日本科学家演示能承受核反应堆六个月强辐射的 Wi-Fi 接收器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83980",
-          "author": null,
-          "description": "由于风能和太阳能发电量创新高，英国在 2026 年 3 月免于进口价值 10 亿英镑的天然气。3 月的风能和太阳能发电总量达到 11TWh，合计增长 28%，英国因此避免了进口 21 TWh 的天然气，按照目前的价格相当于 10 亿英镑。相比 2022 年俄罗斯入侵乌克兰导致 3 月油气价格高涨，中东战事后的天然气价格对英国电价的影响降低了约 25%。",
-          "link": "https://www.solidot.org/story?sid=83980",
-          "publishedOn": "2026-04-07T15:51:33.000Z",
-          "wordCount": 184,
-          "title": "创纪录风能和太阳能发电量让英国避免了 10 亿英镑天然气进口",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83979",
-          "author": null,
-          "description": "多位流行 NPM 软件包维护者成为 AI 深度伪造攻击目标，他们遭遇了相似的社会工程攻击。axios 维护者 Jason Saayman 称，疑似 APT 组织 UNC1069 的黑客冒充一家公司的创始人联系他，他们不仅克隆了创始人的外表，还克隆了公司本身。他们邀请他加入一个真实的 Slack 工作区（workspace），还创建了频道分享 LinkedIn 帖子，非常逼真。然后黑客邀请参加一个 Microsoft Teams 虚拟会议，会议提示其系统存在问题。他以为这与 Teams 有关，于是安装了缺失组件，结果却植入了远程访问木马。他维护的 axios 周下载量 1 亿，被云服务和编码环境广泛使用，黑客窃取了维护者的凭证释出了 axios 的恶意版本。这不是一起孤立事件，多位周下载量上亿的 NPM 软件包维护者遭遇了类似的 AI 深度伪造攻击。",
-          "link": "https://www.solidot.org/story?sid=83979",
-          "publishedOn": "2026-04-07T15:31:32.000Z",
-          "wordCount": 204,
-          "title": "流行 NPM 软件包维护者成为 AI 深度伪造攻击目标",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83978",
-          "author": null,
-          "description": "The Document Foundation（TDF）再次通过官方博客回应了它与主要商业合作伙伴 Collabora 之间的分歧。TDF 称过去几年它犯下了多项违反非营利组织法的错误：仅允许生态系统内的公司免费使用 LibreOffice 品牌；将 LibreOffice 的开发合同——新功能开发、修 bug 等——授予在基金会董事会中拥有代表，积极参与采购的企业。基金会法律顾问指出这些违反法律的错误之后，从中受益的企业试图维持现状而不是解决问题。为避免失去非营利组织地位以及由此带来的不可预见的后果，TDF 基金会采取了措施，取消 Collabora 员工的会员资格、冻结招标以及引入开发采购政策，并制定了规则降低未来再次出现类似问题的风险。",
-          "link": "https://www.solidot.org/story?sid=83978",
-          "publishedOn": "2026-04-07T11:20:32.000Z",
-          "wordCount": 184,
-          "title": "TDF 基金会称它取消 Collabora 员工的会员资格是为了遵守非营利组织法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83977",
-          "author": null,
-          "description": "Linux 准备移除对 i486 CPU 的支持，名为“x86/cpu: Remove M486/M486SX/ELAN support”的补丁预计将合并到 Linux 7.1 中。英特尔是在 1989 年 4 月推出了 25MHz i486 CPU，33MHz i486 在 1990 年 5 月发布，50MHz 在 1991 年 6 月推出。英特尔对 i486 的生产一直持续到 2007 年。i486 的继任者是 1993 年推出的奔腾 CPU。i486 也是 AMD 的最后一款英特尔处理器克隆产品。Linux kernel 过去几年已经多次考虑移除对 i486 的支持。Linux 作者 Linus Torvalds 最近再次表示不应该再浪费精力在 i486 的支持上。",
-          "link": "https://www.solidot.org/story?sid=83977",
-          "publishedOn": "2026-04-07T09:48:15.000Z",
-          "wordCount": 225,
-          "title": "Linux 准备移除对 i486 CPU 的支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83976",
-          "author": null,
-          "description": "《纽约客》发表了一篇长文，从 OpenAI 董事会在 2023 年秋季发起的未遂“政变”谈起，使用了未完整公开的内部备忘录，详述了 OpenAI 受争议 CEO Sam Altman 过去十几年的经历，提出了一个问题：如果今天的大模型能通向 AGI（通用人工智能），那么 OpenAI 及其 CEO 有可能控制人类的未来，但 Sam 能被人信任吗？文章援引了他在 Y Combinator 第一批创业营的同学、2013 年自杀的 Aaron Swartz 的评价，“Sam 永远不可被信任，他是个反社会人格者。什么都做得出来。”微软在 2023 年的未遂“政变”中支持了 Sam，如今双方关系紧张， 微软高管认为他可能会作为一个骗子留在人们的记忆里。",
-          "link": "https://www.solidot.org/story?sid=83976",
-          "publishedOn": "2026-04-07T09:15:34.000Z",
-          "wordCount": 194,
-          "title": "Sam Altman 能被信任吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83975",
-          "author": null,
-          "description": "日本越来越多的家庭没有电视。29 岁以下的单身男性拥有电视的比例仅为 58.0%，该数字在 2005 年为 96.8%，2015 年降至 76.2%。两人以上家庭拥有电视的比例从 2000～2013 年的 99% 以上降至 94.4%。2025 年的日本人每日平均媒体接触时间为 440 分钟。其中电视仅占四分之一左右。而在 2006 年电视占比超过半数。",
-          "link": "https://www.solidot.org/story?sid=83975",
-          "publishedOn": "2026-04-07T07:45:53.000Z",
-          "wordCount": 174,
-          "title": "日本越来越多的家庭没有电视",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83974",
-          "author": null,
-          "description": "被俄罗斯列入黑名单的网站高达 470 万，其中包括主要社交平台 Facebook、Instagram、YouTube 和 X，VPN 已成为数百万俄罗斯人的日常必需品。尽管政府加大了打击力度，VPN 的用户数量仍然在持续增长。一位莫斯科居民表示只有在使用与 VPN 不兼容的官方应用时他才关闭该软件。一位 29 岁的社媒营销人员表示她的工作需要她使用 VPN 访问 Instagram 和 YouTube 等受限平台。据估计俄罗斯的 VPN 使用率位居全球第二，约有 37.6% 的网民依赖 VPN。Institute of Social Marketing 在 2025 年的一项调查发现，46% 的受访者至少使用过一次 VPN。由于无法完全禁止 VPN，移动运营商正考虑对跨境流量收取高昂费用，让访问国际互联网成为少数人的特权。",
-          "link": "https://www.solidot.org/story?sid=83974",
-          "publishedOn": "2026-04-07T07:34:22.000Z",
-          "wordCount": 202,
-          "title": "调查显示俄罗斯 46% 的用户曾用过 VPN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83973",
-          "author": null,
-          "description": "彭博报道，OpenAI、Anthropic 以及 Google 开始合作，试图遏制中国竞争对手从美国先进 AI 模型中提取结果，以在全球AI竞赛中获取优势。这一罕见合作凸显出美国 AI 企业对相关问题的重视程度。这些公司担忧一些用户，尤其是中国的用户，正开发其产品的仿制版本，可能通过更低价格争夺客户，同时带来国家安全风险。美国官员预计未经授权的蒸馏行为每年给硅谷实验室造成数十亿美元利润损失。",
-          "link": "https://www.solidot.org/story?sid=83973",
-          "publishedOn": "2026-04-07T06:54:36.000Z",
-          "wordCount": 173,
-          "title": "美国 AI 公司联手遏制中国公司的蒸馏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83972",
-          "author": null,
-          "description": "NASA Artemis II 于 4 月 6 日 12:56 p.m. CDT 创下了人类太空飞行最遥远纪录。Artemis II 正在执行载人绕月任务，共持续十天，于 4 月 1 日发射，目前整个任务还剩下四天。Artemis II 的 Orion 飞船飞行了 248,655 英里，超过了 1970 年阿波罗 13 号任务创下的人类太空飞行最远距离纪录。Orion 飞船最远将达到 252,756 英里，之后返回地球，预计 4 月 10 日 8:07 p.m. EDT 溅落在圣地亚哥海岸附近。",
-          "link": "https://www.solidot.org/story?sid=83972",
-          "publishedOn": "2026-04-07T06:29:31.000Z",
-          "wordCount": 204,
-          "title": "Artemis II 创下了人类太空飞行最遥远纪录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=83971",
-          "author": null,
-          "description": "黑客组织 TeamPCP 利用 Trivy 的 GitHub 库在二月底被入侵之后凭证轮换不完整的漏洞推送了恶意代码。Trivy 是广泛使用的开源漏洞扫描器。欧盟委员会的自动化安全流程下载了含有恶意代码的 Trivy 更新，恶意代码窃取了 AWS API 密钥，攻击者随后访问了欧盟委员会在 AWS 的云账号，窃取了 92 GB 的压缩数据。这次攻击始于 3 月 19 日，安全团队直到 3 月 24 日才检测到异常活动。另一个黑客团队 ShinyHunters 公开了部分窃取的数据。一个网络犯罪团队负责攻击，另一个团队负责泄露，凸显了网络犯罪活动的专业分工程度在提高。公开的数据集在解压后大小为 340GB，包含了数万电邮和个人信息。",
-          "link": "https://www.solidot.org/story?sid=83971",
-          "publishedOn": "2026-04-07T06:06:05.000Z",
-          "wordCount": 199,
-          "title": "欧盟在一次供应链攻击中被盗走 92 GB 压缩数据",
           "imageUrl": null
         }
       ]
