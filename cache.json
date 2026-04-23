@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/windows-11-skip-update-install/",
+          "author": "青小蛙",
+          "description": "以往在安装 Windows 11 时，会自动且强制进行系统更新，少则几十分钟，多则苦等一个小时，让用户失去对新设备的兴奋与耐心。 现在 Windows 11 的最新版本 ISO 中，已经添加了跳过系统更新功能： 只需要在此时点击 Update later（稍后更新）就可以跳过了，直接进入桌面了。 另",
+          "link": "https://www.appinn.com/windows-11-skip-update-install/",
+          "publishedOn": "2026-04-23T03:41:11.000Z",
+          "wordCount": 2715,
+          "title": "安装 Windows 11 时，终于可以跳过系统更新了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/ChatGPT-Image-2026年4月23日-10_39_05.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/jiaotui-gpt-image-2/",
+          "author": "青小蛙",
+          "description": "相信大家这两天都被最新的「Image-2」图像模型刷屏了吧？ 就在昨天，椒图AI已经在第一时间上线该模型，欢迎大家前往椒图AI切换模型体验！ 根据官方排行榜给出的最新消息，Image-2的能力甚至超越了大香蕉，实测也是相当惊艳！ 使用地址：www.jiaotuai.cn 像下图这种真实的直播间截图↓",
+          "link": "https://www.appinn.com/jiaotui-gpt-image-2/",
+          "publishedOn": "2026-04-22T09:02:49.000Z",
+          "wordCount": 2755,
+          "title": "无需科学上网，国内丝滑使用最新GPT-Image-2！",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-2026-04-22T165512.538.jpg"
+        },
+        {
           "id": "https://www.appinn.com/chatgpt-images-2-0/",
           "author": "青小蛙",
           "description": "前几天在这个帖子里分享了几张图片，就是灰度到的 ChatGPT Images 2.0，足以以假乱真的截图（AI生成）： 今天 ChatGPT Images 2.0 正式发布了，效果…非常赞啊。 只需要极短的 Prompt，就可以生成非常高质量的图片，而且很多图片，越来越感受不到是 AI 生成了，足以",
@@ -230,26 +250,6 @@
           "wordCount": 2754,
           "title": "boringBar – 只需 40 刀，让你的 Mac 拥有 Windows 的开始菜单和任务栏",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-97.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/laliga-block-cloudflare-docker-broken/",
-          "author": "青小蛙",
-          "description": "有西班牙当地用户在 hackernews 吐槽：每当进行足球比赛时，网络就会出现故障，包括 Docker 拉取镜像、GitHub 代码库无法访问，甚至防盗警报器、自动门也会停止工作。 当用户直接访问相关IP地址时，会弹出横幅： 根据巴塞罗那第 6 商业法院于 2024 年 12 月 18 日发布的裁",
-          "link": "https://www.appinn.com/laliga-block-cloudflare-docker-broken/",
-          "publishedOn": "2026-04-13T09:11:06.000Z",
-          "wordCount": 2797,
-          "title": "离谱！西甲一开赛，Cloudflare 就被封，Docker 也跟着崩了",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-96.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/faxian-top10-2615/",
-          "author": "青小蛙",
-          "description": "最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 推荐一款好用的全功能轻量级桌面MD编辑器，支持mac、Windows、linux三平台 2️⃣ 【开发者自荐】ReadAny：一款与AI 深度结合的开源跨端电子书阅读器 3️⃣ 【开源自荐】松鼠日历",
-          "link": "https://www.appinn.com/faxian-top10-2615/",
-          "publishedOn": "2026-04-13T01:00:54.000Z",
-          "wordCount": 2735,
-          "title": "发现频道：最近10日的热门排行榜[2026年第15期]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-16.jpg"
         }
       ]
     },
@@ -258,6 +258,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=392286",
+          "author": "Zell Liew",
+          "description": "I use a Markdown Component for two main reasons: (1) It reduces the amount of markup I need to write, and (2) it converts typographic symbols. Here's how it works.\nEnhancing Astro With a Markdown Component originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/astro-markdown-component/",
+          "publishedOn": "2026-04-22T13:49:57.000Z",
+          "wordCount": 3538,
+          "title": "Enhancing Astro With a Markdown Component",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/02/markdown-astro.webp"
+        },
         {
           "id": "https://css-tricks.com/?p=392278",
           "author": "Zell Liew",
@@ -302,21 +312,6 @@
           "wordCount": 5015,
           "title": "The Radio State Machine",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-state-machine.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392002",
-          "author": "Sunkanmi Fafowora",
-          "description": "Craving for a view transition? Sunkanmi has lots of common transitions you can drop into your website right now!\n7 View Transitions Recipes to Try originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/7-view-transitions-recipes-to-try/",
-          "publishedOn": "2026-04-13T14:14:43.000Z",
-          "wordCount": 3713,
-          "title": "7 View Transitions Recipes to Try",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/View-transition-Pixelate-dissolve.mp4",
-            "length": "658932",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/default-social-css-tricks.png"
         }
       ]
     },
@@ -351,16 +346,6 @@
           "wordCount": 1518,
           "title": "借助mediabunny纯JS实现视频水印、剪裁、合成等功能",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=12155",
-          "author": "张 鑫旭",
-          "description": "先前有WeakMap和WeakSet，现在又出了JS WeakRef弱引用，可以优化内存开销，看案例很有价值，不过无论是官方还是我个人都建议大家谨慎使用，这又是为何呢？",
-          "link": "https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/",
-          "publishedOn": "2026-04-13T08:01:51.000Z",
-          "wordCount": 1803,
-          "title": "务必谨慎使用JS WeakRef弱引用",
-          "imageUrl": null
         }
       ]
     },
@@ -369,6 +354,156 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84124",
+          "author": null,
+          "description": "在最近的一起涉及 ICE 的案件中，FBI 利用 iPhone 手机上储存的通知数据库数据恢复了已卸载的 Signal 应用消息。Signal 采用端对端加密，除了接收双方，其他人本来无法查看消息，但 iPhone 的通知功能提供了消息的预览，相关信息还会储存在通知数据库中。苹果现在释出了更新  iOS 26.4.2 和 iPadOS 26.4.2，修复了标记为删除的信息仍然保留在设备通知数据库里的 Bug。",
+          "link": "https://www.solidot.org/story?sid=84124",
+          "publishedOn": "2026-04-23T03:31:30.000Z",
+          "wordCount": 178,
+          "title": "苹果修复了在原始信息删除之后预览仍然保留在通知数据库里的 Bug",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84123",
+          "author": null,
+          "description": "美国 UFO 社群将过去几年发生的一系列航空航天和核物理领域无关联的专家死亡或失踪案关联起来，认为其中存在巨大的阴谋，怀疑是黑衣人组织 MIB 在执行清理工作。这一阴谋论最终渗透到美国政府，美国总统特朗普称此事非常严重，白宫表示在与联邦机构合作对此展开调查，共和党领导的众议院监督委员会也表示展开调查，FBI 表示正牵头展开调查，正与能源部、战争部以及州和地方执法部门合作去寻找答案。",
+          "link": "https://www.solidot.org/story?sid=84123",
+          "publishedOn": "2026-04-22T16:18:03.000Z",
+          "wordCount": 170,
+          "title": "阴谋论引发美国总统关注促使 FBI 调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84122",
+          "author": null,
+          "description": "Google 宣布了第八代自研 AI 芯片 TPU 8t 和 TPU 8i，前者专为大模型训练设计，后者专为大模型推理设计。TPU 8t 拥有更大的计算吞吐量和更多的可扩展带宽去满足计算密集训练工作负载，而 TPU 8i 则拥有更多的内存带宽去满足对延迟最敏感的推理工作负载。Google 称，TPU 8t 设计将前沿模型的开发周期从数月缩短至数周，单个 TPU 8t superpod 可扩展至 9,600 个芯片和 2 PB 共享高带宽内存，芯片间带宽是上一代的两倍，该架构可提供 121 ExaFlops 算力，允许最复杂模型利用单一海量内存池。TPU 8i 芯片则配备了 288 GB 高带宽内存和 384 MB 片上 SRAM，模型活动工作集能完全留在芯片上。",
+          "link": "https://www.solidot.org/story?sid=84122",
+          "publishedOn": "2026-04-22T15:04:56.000Z",
+          "wordCount": 227,
+          "title": "Google 发布第八代自研 AI 芯片  TPU 8t 和 TPU 8i",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84121",
+          "author": null,
+          "description": "中国载人航天工程首批外籍航天员选拔工作于 2026 年 4 月上旬结束，2 名巴基斯坦籍候选对象 Muhammad Zeeshan Ali（穆罕默德·齐尚·阿里）和 Khurram Daud（胡拉姆·达乌德）最终入选。他们将作为预备航天员来华参加训练，在完成各项训练并通过考核后，其中 1 人将以载荷专家身份参加飞行任务，成为首位进入中国空间站的外籍航天员。2025 年 2 月，中巴在伊斯兰堡签署《关于选拔、训练巴基斯坦航天员并参与中国空间站飞行任务的合作协议》，随即正式启动巴基斯坦航天员选拔工作。经过初选、复选、定选三个阶段的严格筛选和评定，最终选拔出 2 名巴基斯坦预备航天员。",
+          "link": "https://www.solidot.org/story?sid=84121",
+          "publishedOn": "2026-04-22T14:21:58.000Z",
+          "wordCount": 178,
+          "title": "中国选拔出两名巴基斯坦预备宇航员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84120",
+          "author": null,
+          "description": "英国议会通过了法案 Tobacco and Vapes Bill，17 岁及以下儿童将面临终身禁止购买香烟的禁令。该法案旨在禁止商店向 2009 年 1 月 1 日之后出生的儿童出售烟草，阻止他们吸烟，最终目标是打造无烟一代。吸烟是可预防死因之一，该法案被视为是几十年来英国最大的公共卫生干预措施。",
+          "link": "https://www.solidot.org/story?sid=84120",
+          "publishedOn": "2026-04-22T14:14:12.000Z",
+          "wordCount": 177,
+          "title": "英国 17 岁以下儿童终身禁止购烟",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84119",
+          "author": null,
+          "description": "22 岁的 Sam 在印度医学院学习，经济拮据，父母资助的钱大部分花在执业资格考试上，他还在为毕业后移民美国存钱。他尝试了很多赚钱法，制作 YouTube 短视频，向其他医学院学生出售学习笔记等等，效果不一，他在浏览 Instagram 时突然产生了一个想法，为什么不用 Google Gemini 的 Nano Banana Pro 生成一个女孩，然后出售她的比基尼照片？然而他的 AI 女孩基本无人问津，他转而询问 Gemini 背后的原因。AI 指出他创造的是没有特色的性感女孩，需要与网络上数以百万计的类似女孩展开竞争。Gemini 帮助他挑选了一个非常有潜力的细分市场：MAGA/保守派。Gemini 指出美国保守派尤其是老年男性，通常拥有更高的可支配收入，而且更忠诚。Sam 于去年 1 月创建了 Emily Hart（@emily_hart.nurse），一名注册护士，长相类似 Jennifer Lawrence，他在发布照片时配上了很多反对自由派和支持保守派的口号，如“基督是王，堕胎是谋杀，非法移民必须被遣返”之类。Sam 从未去过美国，但却成为 MAGA 思想的忠实拥护者，他说自己每天都会写支持基督教、支持第二修正案、拥护生命权、反堕胎、反觉醒主义和反移民的文章。虽然他觉得自己的骗局过于明显，但他的账号却爆红了。他发布的每则 Reels 视频都能获得 300 万、500 万、1000 万的观看量，算法在推荐此类内容。由于 OnlyFans 限制 AI 模特，因此他在不限制 AI 的平台 Fanvue 发布了 AI 生成的软色情，依靠 Fanvue 订阅收入和 MAGA 主题 T 恤销售，他每月赚到了数千美元。Emily Hart 是众多 AI 生成的 MAGA 女网红之一，此类网红都是基于特定模板生成的：白人金发，从事应急救援工作如警察、消防员或急救员，言论都是常见的右翼观点。MAGA 女网红比较罕见，因为 18-29 岁的女性绝大多数倾向于自由派，年轻 MAGA 女性更能吸引保守派男性眼球。自由派对 AI 的识别度更高，Sam 尝试过生成自由派女网红，根本没有互动。他曾收到一则视频，一名男子对着 Emily 的照片自慰，对方给了 50 美元小费，他的感觉就是“随你便”。@emily_hart.nurse 账号在今年 2 月被 Instagram 以存在欺诈行为为由封禁。Sam 说即使没封他也打算收手了，他需要将重心转移到学业上。",
+          "link": "https://www.solidot.org/story?sid=84119",
+          "publishedOn": "2026-04-22T13:39:42.000Z",
+          "wordCount": 250,
+          "title": "印度男子用 AI 生成的 MAGA 女孩骗美国保守派男性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84118",
+          "author": null,
+          "description": "名叫 Bruce 的啄羊鹦鹉缺少了上半个喙，无法像同类那样用尖利的喙叮咬对手，但 Bruce 学会了用其它方法攻击对手，观察显示它在打斗中从未输过。啄羊鹦鹉专家 Raoul Schwing 于 2013 年发现了幼鸟 Bruce，当时它的上喙已经失去了，它被送到了 Willowbank 野生动物保护区。它在圈养环境下生活的不错，缺少了上喙影响到了它自我清洁的能力。保护区的科学家发现它会使用小石头清洁羽毛上的螨虫和污垢，这是啄羊鹦鹉使用工具自我清洁的第一个案例。除了缺少上喙，它的体型在同伴里也属于最小之列。然而科学家观察到它在与同类的冲突中始终占据了上风，研究期间科学家记录到了它与其它鸟类的 36 次冲突，每次都是它赢。相比对手张开喙咬脖子，Bruce 的打斗技巧是用下喙向前猛扑，动作风格类似于马上挥枪或击剑，攻击对手的背部、头部、翅膀和腿部。科学家以前也记录过残疾动物获得优势地位的少数案例，如著名的珍妮·古道尔（Jane Goodall）写过一只阿尔法雄猩猩因脊髓灰质炎(Poliomyelitis)失去了一只手臂但仍然获得了较高的地位。",
+          "link": "https://www.solidot.org/story?sid=84118",
+          "publishedOn": "2026-04-22T12:24:58.000Z",
+          "wordCount": 181,
+          "title": "残疾鹦鹉 Bruce 在保护区里百战百胜",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84117",
+          "author": null,
+          "description": "根据发表在《Nature Communications》期刊上的一项研究，科学家从好奇号在火星盖尔陨石坑采集的岩石样本中发现了 20 多种有机分子，其中一种含氮分子的结构与形成 DNA 的化合物相似，此前从未在火星上探测到。最新研究成果支持了火星可能曾经拥有适宜生命存在环境的观点，但还无法证明火星曾有过生命。有机分子被认为是生命的关键成分，但它们也可通过非生物过程形成，或通过陨石到达星球。其中一种识别的有机分子苯并噻吩(benzothiophene）通常就与太空陨石相关。科学家是利用好奇号搭载的 Sample Analysis at Mars 仪器，使用化合物 TMAH 分解大有机分子进行研究。",
+          "link": "https://www.solidot.org/story?sid=84117",
+          "publishedOn": "2026-04-22T10:38:42.000Z",
+          "wordCount": 170,
+          "title": "好奇号在火星上发现新有机分子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84116",
+          "author": null,
+          "description": "日程安排平台 Cal.com 在以安全理由从开源转为闭源后，发布了面向个人自托管的开源社区版本 Cal.diy，并且在发布声明中反复强调不要将其用于生产用途。Cal.diy 采用 MIT 许可证，是 Cal.com 的开源分支，移除所有私有的企业版功能如 Teams、Organizations、Insights、Workflows 和 SSO/SAML，不需要 Cal.com 账号或授权。Cal.com 声明，它不推荐将 Cal.diy 用于生产。",
+          "link": "https://www.solidot.org/story?sid=84116",
+          "publishedOn": "2026-04-22T08:55:04.000Z",
+          "wordCount": 182,
+          "title": "Cal.com 发布开源社区版 Cal.diy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84115",
+          "author": null,
+          "description": "国际能源署最新报告证实，2025 年是太阳能占据优势的第一年。过去两年多数能源的发电量变化不大，但太阳能是一个显著的例外。2025 年太阳能总发电量 2700 太瓦时（terawatt-hours），是三年前的两倍多。太阳能发电量占到了全球总发电量的逾 8%。30 个国家新增太阳能发电装机容量至少 1 GW。太阳能发电离不开电池蓄能，2024 年到 2025 年间新增电池蓄能容量增长了 40%，去年新增容量达到 110 GW。尽管中国在 2025 年投产了大量燃煤电厂，但由于在可再生能源的大规模投资，去年中国的燃煤发电量反而略有下降。中国还在建造大量核电站，如果全部投入运营，核电装机容量将超过美国。去年开工建设的新核电厂装机容量为 12 GW，10 座核电厂有 9 座位于中国。",
+          "link": "https://www.solidot.org/story?sid=84115",
+          "publishedOn": "2026-04-22T08:45:23.000Z",
+          "wordCount": 186,
+          "title": "新报告称 2025 年是太阳能占据优势的第一年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84114",
+          "author": null,
+          "description": "24 岁的英国公民、勒索组织 Scattered Spider 资深成员 Tyler Robert Buchanan aka Tylerb 认罪。他目前关押在美国，面临逾 20 年监禁。Scattered Spider 以利用社交工程方法入侵公司窃取数据勒索赎金闻名，该组织成员通常采取的方法是冒充员工或合同工欺骗 IT 授予企业的访问权限。作为认罪协议的一部分，Tylerb 承认与其他人合谋，在 2022 年发起数万起基于短信的钓鱼攻击，导致包括 Twilio、LastPass、DoorDash 和 Mailchimp 在内的科技公司系统遭到入侵。攻击者利用窃取的数据对加密货币投资者发起 SIM-swapping 攻击，仅在美国就从受害者手中窃取了至少 800 万美元的虚拟货币。Tylerb 被发现是因为他使用相同的用户名和电子邮件注册了钓鱼域名，域名注册商 NameCheap 提供的注册时使用的 IP 地址暴露了其身份。",
+          "link": "https://www.solidot.org/story?sid=84114",
+          "publishedOn": "2026-04-22T07:03:59.000Z",
+          "wordCount": 205,
+          "title": "Scattered Spider 资深成员 Tylerb 认罪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84113",
+          "author": null,
+          "description": "在新上任 Xbox CEO Asha Sharma 上周表示 Game Pass 订阅费对玩家而言太贵之后，微软下调了价格，不过代价是《使命召唤》系列新作不会同步加入到 Game Pass 服务，而是会延后一年加入。此前有报道称 Game Pass 订阅服务让《使命召唤》损失了 3 亿美元的收入。根据最新调价：Xbox Game Pass Ultimate 将从每月 29.99 美元降至 22.99 美元，PC Game Pass 将从每月 16.49 美元降至 13.99 美元。",
+          "link": "https://www.solidot.org/story?sid=84113",
+          "publishedOn": "2026-04-22T06:36:47.000Z",
+          "wordCount": 204,
+          "title": "微软降低 Game Pass 订阅费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84112",
+          "author": null,
+          "description": "公司内部备忘录显示，Meta 正在美国员工电脑上安装追踪软件，捕捉员工鼠标移动、点击和按键数据以用于训练 AI 模型，此举是该公司构建能自动执行工作任务的 AI 智能体的大计划的一部分。被称为 Model Capability Initiative(MCI)的工具将在工作相关应用和网站上运行，会不定时截取屏幕内容的快照。备忘录表示此举旨在改进公司 AI 模型，使其在难以模拟人机交互领域如下拉菜单选择和使用快捷键上表现更出色。耶鲁法学教授Ifeoma Ajunwa 表达了员工被实时监控的担忧，称美国在这方面缺乏监管。加拿大法学教授 Valerio De Stefano 称欧洲法律会禁止此类监控。",
+          "link": "https://www.solidot.org/story?sid=84112",
+          "publishedOn": "2026-04-22T06:09:43.000Z",
+          "wordCount": 185,
+          "title": "Meta 开始记录员工鼠标移动和按键用于 AI 训练",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84111",
+          "author": null,
+          "description": "Mozilla 释出了 Firefox 150，主要新特性包括：对所有用户启用“本地网络访问限制”；通过内置 PDF 编辑器支持对文件进行页面重排序、复制、删除、粘贴和导出；改进分屏浏览；通过 about:translations 体验尊重隐私的即时翻译（或在地址栏直接输入 translate）；等等。",
+          "link": "https://www.solidot.org/story?sid=84111",
+          "publishedOn": "2026-04-22T05:42:39.000Z",
+          "wordCount": 174,
+          "title": "Firefox 150 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84110",
+          "author": null,
+          "description": "SpaceX 还在继续为其史上最高估值增加燃料。它宣布获得了一个选择权，可选择在晚些时候以 600 亿美元收购 Cursor，或者支付 100 亿美元建立新的合作伙伴关系。Cursor 提供了 AI 驱动的集成开发环境（IDE），支持代码生成、智能重写和代码库查询等功能。收购或与 Cursor 合作将有助于增强 SpaceX 旗下的 xAI 在 AI 代码生成方面的实力。相比 OpenAI 和 Anthropic，xAI 在 AI 代码生成方面缺乏竞争力。",
+          "link": "https://www.solidot.org/story?sid=84110",
+          "publishedOn": "2026-04-22T05:28:42.000Z",
+          "wordCount": 196,
+          "title": "SpaceX 达成协议可选以 600 亿美元收购 Cursor",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84109",
           "author": null,
@@ -1097,116 +1232,6 @@
           "publishedOn": "2026-04-14T06:45:50.000Z",
           "wordCount": 199,
           "title": "黑客入侵 a16z 投资的手机农场，试图让手机农场账号发帖称 a16z 是反基督",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84036",
-          "author": null,
-          "description": "FT 报道，Meta 正在构建一个 AI 版本的扎克伯格（Mark Zuckerberg），代替真人与员工互动。报道援引知情人士的消息称，这是该公司目前的优先事项，扎克伯格本人亲自参与了 AI 的训练和测试。AI 的训练内容包括他的举止、语气和公开发表的声明，以及近期对公司战略的思考，以便员工能通过与其互动感受到与创始人更紧密的联系。知情人士称，这项工作的重点之一是制作逼真的虚拟 AI 角色，因为需要大量的算力才能实现逼真的效果以及避免在与用户交互时出现延迟，因此扩大规模存在困难之处。如果实验成功的话，未来网红和内容创作者也可以采用这项技术。",
-          "link": "https://www.solidot.org/story?sid=84036",
-          "publishedOn": "2026-04-13T16:13:14.000Z",
-          "wordCount": 176,
-          "title": "扎克伯格可能很快会有他的 AI 克隆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84035",
-          "author": null,
-          "description": "2025 年秋季美国四年制大学计算机科学专业的学生入学人数下降了 8.1%。计算机科学专业的本科排名在一年内从第四位跌至第六位，前三则一直是商科、公共卫生和人文科学。从 2008 年到 2024 年，计算机科学一直是美国增长最快的专业，如今它的黄金期可能已经结束。美国主修计算机科学的人数比上一学年少了 54000 人。那么他们选择了什么新专业？数据分析和数据科学招生总人数逾 3.5 万人，而 2020 年它们刚拆分出来时只招了几百人。数据显示，部分有意计算机科学专业的学生转向了相关领域如机器人学。工程专业学生入学人数 2025 年秋季增长了 7.3%，其中增长最快的两个专业是机械工程和电气工程专业，分别增长了 11% 和 14%。大学教授认为由于计算机科学毕业人数供过于求，学生们可能认为机械工程专业更通用，能在 AI 驱动的世界里提供更好的就业机会，如机器人、无人机、航空航天和电动汽车等行业。",
-          "link": "https://www.solidot.org/story?sid=84035",
-          "publishedOn": "2026-04-13T15:54:32.000Z",
-          "wordCount": 177,
-          "title": "计算机科学的黄金期可能已结束",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84034",
-          "author": null,
-          "description": "《传送门2（Portal 2）》自 2011 年 4 月发布至今已有 15 年，期间模组开发者推出了多个衍生版本，包括《Portal Stories: Mel》、《Aperture Tag: The Paint Gun Testing Initiative》以及《Portal Reloaded》等，现在由 P2:CE Team 开发的最新社区版本《传送门2社区版（Portal 2: Community Edition）》将于 4 月 18 日公测。《社区版》升级了引擎，使用了官方授权、基于 CS:GO 的 Source 引擎重度修改版本 Strata Source，原生支持 64 位改进了性能，新增原生 DirectX 11 支持，移除了旧引擎的很多限制，更新或改进了游戏玩法，提供了允许玩家轻松扩展游戏机制的脚本框架 AngelScript，采用了 Source 2 引擎的 Panorama UI 框架等等。《社区版》将免费提供给现有的《传送门2》玩家。",
-          "link": "https://www.solidot.org/story?sid=84034",
-          "publishedOn": "2026-04-13T14:12:59.000Z",
-          "wordCount": 217,
-          "title": "《传送门2社区版》将于 4 月 18 日公测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84033",
-          "author": null,
-          "description": "2023 年全球农药使用量达 373 万吨，约为 1990 年的两倍。农药相关健康风险研究长期集中在急性中毒、神经毒性和癌症方面。新型基因技术如今已能用于追踪农药对肠道菌群的影响。印度团队对印度南部近 3000 人开展研究后发现，城市地区 23% 的人患有糖尿病，多与肥胖、高胆固醇等典型危险因素相关；但农村地区糖尿病患病率仍高达 16%，且与这些危险因素无关。研究人员怀疑环境化学物质可能发挥了作用研究团队在小鼠身上研究了一种广泛使用的农业杀虫剂——氯氰菊酯的影响。根据印度日常饮食中的农药残留量，研究团队采用了“现实剂量”，持续给药 120 天。研究显示，氯氰菊酯重塑了小鼠肠道菌群，其中乳酸杆菌等有益菌数量下降，幽门螺杆菌等潜在有害菌增多。即便体重没有增加，接触氯氰菊酯的小鼠仍出现了高血糖和糖尿病症状。农药似乎不仅会改变菌群种类，还会影响其代谢活性。在另一项大型研究中，研究人员将 17 种人体肠道代表性细菌暴露于 18 种不同农药，检测到微生物产生的数百种小分子物质发生变化，其中包括短链脂肪酸、胆汁酸和色氨酸相关分子。这些物质能维持肠道黏膜健康、调节炎症反应、调控免疫功能。他们还发现，部分细菌会在细胞内蓄积农药，这可能延长其在人体内的停留时间，增加长期健康风险。",
-          "link": "https://www.solidot.org/story?sid=84033",
-          "publishedOn": "2026-04-13T13:24:21.000Z",
-          "wordCount": 175,
-          "title": "长期接触农药可能诱发糖尿病",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84032",
-          "author": null,
-          "description": "Google Play 下架了《心跳文学部（Doki Doki Literature Club）》，理由是游戏内容违反了与敏感主题相关的服务条款。作者 Dan Salvato 在一份声明中表示在致力于让游戏在 Google Play 重新上架。《心跳文学部》描述了一位男高中生加入学校的文学部与四位女性成员交流的故事，看起来是一个简单的恋爱视觉小说，但在完成一个结局之后故事会变得非常古怪，游戏会通过删除文件和存档的方式打破第四面墙。《心跳文学部》的免费版本积累了逾千万下载量，是 Steam 平台排名第一的心理恐怖游戏。关于敏感主题《心跳文学部》会在启动之后发出多次警告。《心跳文学部》有 iOS、Nintendo Switch、PlayStation 等各种版本。",
-          "link": "https://www.solidot.org/story?sid=84032",
-          "publishedOn": "2026-04-13T11:35:09.000Z",
-          "wordCount": 181,
-          "title": "Google Play 下架《心跳文学部》",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84031",
-          "author": null,
-          "description": "随着游戏日益图像密集，显存占用愈来愈成为一大问题。提升视觉保真度需要将越来越多的游戏素材储存在显卡的显存内。但显存的容量有限，不是人人桌面上都有 128 GB 大显存的数据中心级 GPU。Valve 工程师 Natalie Vock 开发了新的内核补丁和两个专门的工具去解决容量在 8GB 以内的显卡显存占用问题。她的补丁主要针对 AMD GPU，英特尔的 Xe 显卡也支持，但使用私有驱动的英伟达显卡不支持——原因是英伟达私有内核模块不支持  dmem cgroups。她的方法主要是确保前台运行的游戏对显存有优先使用权，如果显存开始占满，后台任务占用的显存将优先转移到系统内存。在有 8GB 显存的显卡上运行《赛博朋克 2077》，有 1.37GB 的显存溢出到 GTT（Graphics Translation Table），游戏实际上只用了 6GB 显存，应用补丁之后游戏占用的显存提高到 7.4GB，GTT 减少到 650MB。",
-          "link": "https://www.solidot.org/story?sid=84031",
-          "publishedOn": "2026-04-13T10:57:17.000Z",
-          "wordCount": 199,
-          "title": "Valve 工程师改进 Linux 游戏的显存占用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84030",
-          "author": null,
-          "description": "统计数据显示男女免疫系统存在显著差异：男性更易感染疾病和罹患癌症；女性免疫反应更强烈对疫苗反应更好，然而免疫系统反应越强烈，自身免疫性疾病的发生率也越高，八成的自身免疫性疾病发生在女性身上。巴塞罗那超算中心在《Nature Aging》期刊发表的一项研究首次证实，男女的免疫衰老遵循不同的动态过程。研究结果表明，女性随着年龄增长免疫系统的变化更显著，炎症性免疫细胞数量增加。这或许可以解释为何自身免疫性疾病主要发生于女性，尤其是在老年时期，以及部分炎症性疾病在绝经后加重的原因。男性免疫系统衰老相关的变化总体上不如女性显著，但部分具有白血病前期改变的血细胞数量增加，这或许可解释为何部分血液癌症在老年男性身上更为常见。",
-          "link": "https://www.solidot.org/story?sid=84030",
-          "publishedOn": "2026-04-13T09:44:38.000Z",
-          "wordCount": 160,
-          "title": "女性免疫系统衰老变化比男性更显著",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84029",
-          "author": null,
-          "description": "根据发表在《Environmental Research Letters》期刊上的一项研究，1990-2023 年间热带和极地之间的中纬度地区的夏季平均每十年延长约 6 天。城市的变化更为惊人，澳大利亚悉尼的夏季如今持续 130 天，而在 1990 年只有 80 天，相当于每十年增加 15 天。加拿大多伦多的夏季每十年延长 8 天。研究还发现季节的转换变得更突然，春季不是慢慢升温转换到夏季，而是春季突然就暴热切换到夏季。这种骤然变化可能会扰乱依赖季节变化的系统，比如花朵可能在授粉昆虫活跃前就盛开了，农作物可能需要更早播种，春季气温的快速升高可能促使积雪更快融化洪涝风险加大。",
-          "link": "https://www.solidot.org/story?sid=84029",
-          "publishedOn": "2026-04-13T08:38:12.000Z",
-          "wordCount": 189,
-          "title": "中纬度地区的夏季比 1960 年代延长了 30 天",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84028",
-          "author": null,
-          "description": "皮尤研究中心去年十月进行的调查显示，美国人仍然偏爱阅读纸质书。调查显示，约三分之二的成年人表示过去 12 个月内阅读过纸质书，纸质书阅读比例从 2011 年的 72% 降至 2025 年 10 月的 64%；31% 的成年人过去一年阅读过电子书，高于 2011 年的 17%；有声读物的收听比例也在同期翻了一番以上。调查还凸显了教育水平和种族等方面的差异。大学毕业生比非大学毕业生更可能过去一年读过书；拥有学士学位成年人中 88% 表示过去 12 个月读过书；有大学学习经历的人群中这一比例降至 78%，高中及以下学历的人则为 60%。50 岁以下美国人比年长者更倾向于阅读电子书和有声读物。年长群体只有三分之一或更少的人表示读过电子书。美国白人最倾向于阅读纸质书，亚裔则在电子书的使用方面表现突出。三分之二的白人成年人表示过去一年读过纸质书，黑人、西班牙裔和亚裔的比例较低。42% 的亚裔表示过去一年读过电子书，而白人、西班牙裔和黑人成年人中这一比例约为 30%。",
-          "link": "https://www.solidot.org/story?sid=84028",
-          "publishedOn": "2026-04-13T07:15:09.000Z",
-          "wordCount": 182,
-          "title": "美国人仍然偏爱阅读纸质书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84027",
-          "author": null,
-          "description": "币安创始人赵长鹏自费出版了自己的中英文自传《Freedom of Money: A Memoir of Protecting Users, Resilience, and the Founding of Binance》。赵长鹏在书中讲述了币安与美国监管机构的长期对抗，币安因助长洗钱活动而支付创纪录的 43 亿美元和解金，他在加州服刑四个月期间开始撰写本书，以及去年底获得特朗普总统的赦免——他此前被永久禁止涉足加密货币银行业务，赦免意味着他可以继续从事这项业务。他创办的币安是全球最大的加密货币交易所，与特朗普家族的加密货币业务 World Liberty Financial 有深度合作。本书最有意思的可能是他的监狱生活。赵长鹏写道，他一度担心在狱中会被人勒索，因为媒体报道他是美国监狱关押的最富有的人，结果是根本没人认识他，因为监狱关押的人没人会去看华尔街日报或彭博社。他与一名因杀害两人而被判 30 年监禁的男性关住一间牢房，他发现狱友最致命的不是他杀过人而是他雷鸣般的鼾声。他还在书中提到了 FTX 创始人 Sam Bankman-Fried，币安曾持有 FTX 五分之一的股份，以及 5.8 亿美元的 FTT 代币。2022 年 FTX 濒临破产之际 Bankman-Fried 曾打电话给他索取数十亿美元，他的语气漫不经心，仿佛是要一份三明治。",
-          "link": "https://www.solidot.org/story?sid=84027",
-          "publishedOn": "2026-04-13T06:33:46.000Z",
-          "wordCount": 195,
-          "title": "赵长鹏自费出版了自己的自传",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84026",
-          "author": null,
-          "description": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.0，它将会是支持 i486 CPU 的最后一个版本。Linux 7.0 的主要新特性包括：Rust 代码不再是实验性；io_uring 操作的新过滤机制，CPU 调度器默认启用延迟抢占，支持时间片扩展，nullfs 文件系统，XFS 文件系统支持自我修复，新的文件 I/O 错误报告 API，支持 Clang 静态分析，默认启用 AccECN 支持以更好处理 TCP 拥塞，Btrfs 实验性支持重映射树(remap tree)，新驱动，等等。更多可浏览 KernelNewbies 7.0。",
-          "link": "https://www.solidot.org/story?sid=84026",
-          "publishedOn": "2026-04-13T05:54:16.000Z",
-          "wordCount": 194,
-          "title": "Linux 7.0 释出",
           "imageUrl": null
         }
       ]
