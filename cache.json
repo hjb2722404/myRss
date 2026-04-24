@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/cloudflare-email-ai-worker/",
+          "author": "青小蛙",
+          "description": "Cloudflare 电子邮件服务已经可以同时支持收邮件和发邮件了。不同的是，这一次，无论收还是发，邮件都可以直接进入 AI 处理流程。 注意：使用 Cloudflare 发邮件需要订阅 Workers 套餐，最低 5 美元/月，收免费。 旧功能：收邮件（Email Routing） Cloudfl",
+          "link": "https://www.appinn.com/cloudflare-email-ai-worker/",
+          "publishedOn": "2026-04-23T08:57:45.000Z",
+          "wordCount": 2778,
+          "title": "Cloudflare 把邮箱改了：一封邮件，就是一次 AI 调用",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-2026-04-23T165205.959.jpg"
+        },
+        {
           "id": "https://www.appinn.com/windows-11-skip-update-install/",
           "author": "青小蛙",
           "description": "以往在安装 Windows 11 时，会自动且强制进行系统更新，少则几十分钟，多则苦等一个小时，让用户失去对新设备的兴奋与耐心。 现在 Windows 11 的最新版本 ISO 中，已经添加了跳过系统更新功能： 只需要在此时点击 Update later（稍后更新）就可以跳过了，直接进入桌面了。 另",
@@ -220,36 +230,6 @@
           "wordCount": 2829,
           "title": "iPhone、安卓现在就能跑 Gemma 4 了：Google 开源 AI Edge Gallery 应用",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/cover-1776237162745-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/canva-cn-affinity/",
-          "author": "青小蛙",
-          "description": "Affinity 是一套用于图像处理、矢量设计和排版出版的专业设计软件。在被 Canva 收购后，目前 Affinity 已完全免费开放下载、使用，并且在近日上线了中国区官网。 Affinity 整合了 Affinity Photo、Affinity Designer、Affinity Publis",
-          "link": "https://www.appinn.com/canva-cn-affinity/",
-          "publishedOn": "2026-04-14T06:52:56.000Z",
-          "wordCount": 2773,
-          "title": "中国区 Affinity 上线，全免费，无 AI 功能",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/cover-1776149429592-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/frp/",
-          "author": "青小蛙",
-          "description": "著名的开源内网穿透工具 frp v0.68 更新，添加了内置存储功能，以及通过 API 操作代理功能。今后可通过 AI 来操作 frp 客户端，无需重启。 frp v0.68 frp 的这个新功能，青小蛙觉得，就是为 AI 准备的。 持久化存储功能 在 frpc 客户端配置中，添加即可",
-          "link": "https://www.appinn.com/frp/",
-          "publishedOn": "2026-04-14T06:18:26.000Z",
-          "wordCount": 3727,
-          "title": "frp v0.68：开源内网穿透工具简洁教程，新增 AI 能力：持久化存储、API 支持，可由 AI 添加、删除代理",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2019/08/frp1.jpgo_.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/boringbar/",
-          "author": "青小蛙",
-          "description": "是时候给 Mac 用户一点点震撼了！现在只需要40刀，就可以让 macOS 拥有 Windows 的开始菜单和任务栏。 boringBar 无聊吧 怎么说呢，模仿的惟妙惟肖。 开始菜单： 窗口预览： 多桌面切换： 通知： 这点比 Windows 强点，直接在图标上显示通知。 其他功能还有挺多的： 可",
-          "link": "https://www.appinn.com/boringbar/",
-          "publishedOn": "2026-04-14T03:38:02.000Z",
-          "wordCount": 2754,
-          "title": "boringBar – 只需 40 刀，让你的 Mac 拥有 Windows 的开始菜单和任务栏",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-97.jpg"
         }
       ]
     },
@@ -258,6 +238,21 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=392970",
+          "author": "John Rhea",
+          "description": "Putting CSS’s more recent scrolling animation capabilities to the test to recreate a complex animation of the Apple Vision Pro headset from Apple's website.\nRecreating Apple’s Vision Pro Animation in CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/recreating-apples-vision-pro-animation-in-css/",
+          "publishedOn": "2026-04-23T13:22:57.000Z",
+          "wordCount": 4802,
+          "title": "Recreating Apple’s Vision Pro Animation in CSS",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/03/AppleSite.mov",
+            "length": "40640388",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/apple-vision-pro.webp"
+        },
         {
           "id": "https://css-tricks.com/?p=392286",
           "author": "Zell Liew",
@@ -302,16 +297,6 @@
           "wordCount": 4856,
           "title": "A Well-Designed JavaScript Module System is Your First Architecture Decision",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393344",
-          "author": "Amit Sheen",
-          "description": "One of the best-known examples of CSS state management is the checkbox hack. What if we want a component to be in one of three, four, or seven modes? That is where the Radio State Machine comes in.\nThe Radio State Machine originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-radio-state-machine/",
-          "publishedOn": "2026-04-14T13:55:38.000Z",
-          "wordCount": 5015,
-          "title": "The Radio State Machine",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-state-machine.webp"
         }
       ]
     },
@@ -354,6 +339,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84134",
+          "author": null,
+          "description": "剑桥大学的一项研究发现，欧洲唯一野猴群、生活在直布罗陀的猕猴群会定期吃土。对猴群的监测显示，与游客接触频繁的猕猴摄入的泥土量更多，而在旅游旺季食土率也更高。科学家认为游客提供或从游客偷取的高热量食物如巧克力、薯片和冰淇淋正在扰乱它们的肠道微生物组成，导致了其习惯的改变。吃土可能有助于猕猴恢复肠胃平衡，土壤可以提供垃圾食品缺乏的细菌和矿物质，可能有助于保护肠道内壁，缓解或预防因摄入过多糖分和脂肪引起的刺激。猕猴群平均每周有 12 次吃土行为。30% 的吃土行为发生在群体中，89% 发生在其它猕猴在场的情况下，其它猕猴通常会在旁观察，表明这种行为是“社会习得的”。大多数猕猴偏爱食用红土（terra rossa），占到了所有事件的 83%。",
+          "link": "https://www.solidot.org/story?sid=84134",
+          "publishedOn": "2026-04-23T15:31:51.000Z",
+          "wordCount": 163,
+          "title": "猕猴吃土帮助消化游客的高热量垃圾食品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84133",
+          "author": null,
+          "description": "2025 年 1 月总统就职典礼前特朗普推出了官方模因币，成为首位发行个人加密货币的总统。分析认为特朗普家族从中获利逾 2.8 亿美元，但投资该模因币的散户则损失了逾 43 亿美元。大部分特朗普模因币掌握在内部人士手中，通过关键时刻抛售和收集手续费，他们没有损失，反而获利逾 6 亿美元。特朗普代币最初定价 28.73 美元，如今的价格不到 3 美元，币值跌了 93%。第一夫人 Melania Trump 的官方模因币则更惨，币值相比峰值跌了 99%。特朗普家族的加密货币公司 World Liberty Financial 则为其带来了约 50 亿美元的财富。",
+          "link": "https://www.solidot.org/story?sid=84133",
+          "publishedOn": "2026-04-23T14:58:52.000Z",
+          "wordCount": 182,
+          "title": "特朗普模因币导致投资者损失数十亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84132",
+          "author": null,
+          "description": "53 国（不包括主要排放国中国、美国、印度和俄罗斯）将于下周齐聚哥伦比亚商讨如何逐步淘汰化石燃料。霍尔木兹海峡的关闭让亚太国家面临能源危机，迫使这些国家采取紧急措施如推行远程办公和关闭学校。与会国并非传统盟友，而是在短时间内组建的松散联盟，这也反映了形势的紧迫性。最新的能源危机可能成为可再生清洁能源的一个转折点。化石燃料行业多年来一直宣称石油、天然气和煤炭是可靠的能源，但危机显示它们并不可靠，可再生能源则廉价、可靠且安全。相比 1970 年代的中东石油危机，今天可作为化石燃料提到的清洁能源已经成熟。自 1970 年代以来，太阳能电池板的价格下降了 99.9%，自 1984 年以来风能成本下降了 91%，自 1991 年以来电池价格下降了 99%。此前韩国七成原油经过霍尔木兹海峡，现在韩国计划四年内将可再生能源装机容量翻一番。过去 30 年的全球气候谈判几乎从未提及化石燃料，部分原因是化石燃料主要出口国和游说团体的阻挠。现在一个松散的国家联盟正绕过全球气候谈判，讨论如何真正逐步淘汰化石燃料。",
+          "link": "https://www.solidot.org/story?sid=84132",
+          "publishedOn": "2026-04-23T14:21:21.000Z",
+          "wordCount": 176,
+          "title": "53 国齐聚哥伦比亚商讨淘汰化石燃料",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84131",
+          "author": null,
+          "description": "由于伊朗关闭了霍尔木兹海峡，目前有约 2000 艘船只和 2 万名海员滞留在附近。伊朗几周前表示通过海峡的油轮需要以加密货币形式支付过境费，但美国随后也宣布关闭海峡搜查过往船只。形势相当混乱，而在混乱之中骗子开始浑水摸鱼。据报道，加密货币骗子正冒充伊朗当局，向航运公司发送信息，要求以比特币或泰达币支付过境费。未经证实的消息称，有船只认为已经支付了过境费而试图通过海峡，在遭到伊朗炮击后不得不返回。目前已发生了两次类似事件，一次是 4 月 18 日，一次是 4 月 22 日。",
+          "link": "https://www.solidot.org/story?sid=84131",
+          "publishedOn": "2026-04-23T12:49:03.000Z",
+          "wordCount": 169,
+          "title": "加密货币骗子瞄准滞留在霍尔木兹海峡附近的船只",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84130",
+          "author": null,
+          "description": "南美洲是人类最后定居的一块大陆。科学家以前认为迁徙到南美很简单：大约 1.5 万前来自大约同一群体的古代人类祖先进入这块大陆，逐渐适应从丛林到高原等不同环境。但发表在《自然》期刊上的古代和现代基因组分析研究显示：古代人类至少分三次迁徙到南美洲。第一波迁徙大约发生在 1.27 万年前，第二波是 9000 年前，第三波则是约 1300 年前。第三波迁徙者与中美洲人有关联。",
+          "link": "https://www.solidot.org/story?sid=84130",
+          "publishedOn": "2026-04-23T12:11:07.000Z",
+          "wordCount": 165,
+          "title": "古代人类曾三次迁徙到南美洲",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84129",
+          "author": null,
+          "description": "由于基金会主席比尔盖茨与已故性侵犯爱泼斯坦（Jeffrey ​Epstein）之间的关系，盖茨基金会最近深陷争议。它在周二宣布已委托外部机构对该基金会与爱泼斯坦之间关联进行审查，预计夏天会收到相关评估报告。美国司法部今年一月公布的文件显示爱泼斯坦曾与基金会的员工有过通信，文件还包括盖茨与爱泼斯坦以及被涂黑女性之间合影。盖茨之后声明与爱泼斯坦的关系仅限于慈善事业，称与他见面是一个错误，否认与爱泼斯坦性侵犯案受害者有过接触。盖茨基金会据报道还计划在 2030 年前裁掉约五分之一或 200 名员工。",
+          "link": "https://www.solidot.org/story?sid=84129",
+          "publishedOn": "2026-04-23T11:32:14.000Z",
+          "wordCount": 162,
+          "title": "盖茨基金会准备裁员，正在审查与爱泼斯坦的关联",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84128",
+          "author": null,
+          "description": "FT 的调查显示，高收入人群的 AI 普及率与低收入人群存在显著的差异。对美英两国 4000 名员工的调查显示，AI 采用明显向高收入员工倾斜：超过 60% 的高薪员工每天使用 AI，而低收入员工中这一比例仅为 16%。调查还显示出性别差距：在从科技到教育与零售等各行业中，男性使用 AI 工具的可能性显著高于女性。诺贝尔经济学奖得主 Daron Acemoglu 说，AI 工具被认为会走向大众化，但现实是你需要一定的教育水平、抽象思维和定量分析能力，以及对计算机和编程的熟悉程度才能使用这些模型。几乎肯定 AI 将会加剧劳动力和资本之间的不平等。薪酬、教育水平和 AI 使用之间存在紧密联系，表明这项技术可能会通过提高高收入人群而非低收入人群的生产力加剧收入不平等。另一位诺奖得主 Chris Pissarides 说，发明的技术越智能，你的智力越重要。PC 革命早期也有类似的鸿沟，但随着 PC 的普及鸿沟逐渐缩小。现在的问题是多长时间？如果需要十到二十年那么情况可能会令人担忧。",
+          "link": "https://www.solidot.org/story?sid=84128",
+          "publishedOn": "2026-04-23T09:11:14.000Z",
+          "wordCount": 191,
+          "title": "高收入人群的 AI 普及率远高于低收入人群",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84127",
+          "author": null,
+          "description": "特朗普家族加密货币公司 World Liberty（WLFI）的早期支持者、波场（TRON）创始人孙宇晨提起诉讼，指控 World Liberty 非法扣押他持有的 WLFI 代币，冻结其参与公司治理的投票权。孙宇晨还指控包括联合创始人 Chase Herro 在内的其他 World Liberty 运营者将该公司作为利用特朗普品牌通过欺诈牟利的绝佳机会。在周二提交到旧金山联邦法院的诉状中，孙宇晨称，World Liberty 最初承诺未来将允许代币持有者交易该货币，这一承诺是虚假的且具有误导性。虽然大部分代币可以交易，但 World Liberty 阻止他出售任何一个代币，还威胁要销毁他持有的所有代币。WLFI 在 X 上回应称，孙宇晨最喜欢在扮演受害者的同时捏造毫无根据的指控掩盖其不当行为，“WLFI 不是第一个，我们有合同。我们有证据。我们有真相”，它表示法庭上见。",
+          "link": "https://www.solidot.org/story?sid=84127",
+          "publishedOn": "2026-04-23T07:44:12.000Z",
+          "wordCount": 187,
+          "title": "孙宇晨起诉特朗普家族的加密货币公司 World Liberty",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84126",
+          "author": null,
+          "description": "沥青是石油副产品，被用作沥青混凝土的粘结剂。根据发表在《Journal of Hazardous Materials》和《Science of the Total Environment》期刊上的两项研究，沥青会释放出挥发性有机物（Volatile organic compounds，VOC），高温晴朗的天气会更显著。这些有毒且通常无味的挥发性有机物小到足以进入动脉和器官，它们会对人类造成严重的神经损伤，对女性和老年人影响更大。研究人员称，高温会加剧沥青释放有毒有机物。研究人员报告可以通过在沥青中添加藻类的方式大幅降低其释放出的毒性最强的有机物，测试显示毒性可以减少到原来的百分之一，而且能减缓路面老化。",
+          "link": "https://www.solidot.org/story?sid=84126",
+          "publishedOn": "2026-04-23T06:48:56.000Z",
+          "wordCount": 166,
+          "title": "沥青会释放有毒的挥发性有机物",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84125",
+          "author": null,
+          "description": "索尼 AI 部门研发的乒乓球机器人 Ace 击败了人类顶尖选手创造了历史，成为首个在竞技体育项目达到专家级水平的自主机器人。项目负责人表示，竞技体育需要快速决策和精准执行，Ace 的成就受益于其高速感知、基于 AI 的控制以及先进的机器人系统。Sony AI Zurich 主任兼 Ace 项目负责人 Peter Dürr 表示，AI 系统在计算机游戏中已经超越人类专家，但乒乓球之类的物理实时体育运动仍然是一个巨大的开放性挑战，因为它们需要在接近障碍物和人类反应极限的情况下进行快速、精准且对抗性的互动。该项目的目标不仅是在乒乓球比赛中展开竞争，更重要的是深入了解机器人如何在动态环境中以类似人类的速度和精度感知、规划和行动。索尼研究人员在《自然》期刊上发表论文介绍了 Ace。Ace 在 2025 年 4 月与精英选手之间的五场比赛赢了三场，但与职业选手的两场比赛都输了，Ace 之后分别在 2025 年 12 月和上个月进行的比赛中击败了职业选手。输给机器人的职业选手 Mayuka Taira 称，机器人没有情绪因此难以预测。曾赢过机器人的精英选手 Rui Takenaka 说机器人会用旋转复杂的球应对她发出的复杂球，用简单球回应简单球，她因此能乘机获胜。",
+          "link": "https://www.solidot.org/story?sid=84125",
+          "publishedOn": "2026-04-23T05:33:45.000Z",
+          "wordCount": 191,
+          "title": "乒乓球机器人击败了人类顶尖选手",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84124",
           "author": null,
@@ -1142,96 +1227,6 @@
           "publishedOn": "2026-04-14T16:56:20.000Z",
           "wordCount": 168,
           "title": "Google 将惩罚“后退按钮劫持”行为",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84045",
-          "author": null,
-          "description": "德国主权科技基金（Sovereign Tech Fund)向联邦宇宙微博客项目 Mastodon 资助 61.4 万欧元，用于支持 Mastodon 及其软件生态系统的改进和更新。这笔资金将投入到改进：黑名单同步；新的 Fediverse Auxiliary Service Provider(FASP)允许服务器之间共享存储和媒体处理资源；自动化内容检测；私信端到端加密；改进文档。相关改进预计在 2026 年底到 2027 年完成。",
-          "link": "https://www.solidot.org/story?sid=84045",
-          "publishedOn": "2026-04-14T16:02:30.000Z",
-          "wordCount": 189,
-          "title": "德国主权科技基金向 Mastodon 资助 61.4 万欧元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84044",
-          "author": null,
-          "description": "OpenSSL 项目释出了 v4.0 版本。主要新特性包括：支持 Encrypted Client Hello (ECH)，通过加密初始 TLS 握手以及隐藏服务器名称指示(SNI)提供更好的隐私保护；移除 SSLv3 等旧协议/引擎支持；通过支持 RFC 8998 改进后量子加密支持；移除 SSLv2 Client Hello，停止支持 Darwin i386 和 PowerPC/PPC64 等。",
-          "link": "https://www.solidot.org/story?sid=84044",
-          "publishedOn": "2026-04-14T15:27:38.000Z",
-          "wordCount": 188,
-          "title": "OpenSSL 4.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84043",
-          "author": null,
-          "description": "Rust 语言开发的浏览器渲染引擎项目 Servo 释出了 servo crate v0.1.0，这是它发布的首个 crates.io 版本，允许 Servo 作为一个库供其他项目使用。Servo 源自 Mozilla，2020 年 8 月 Mozilla 在裁员时砍掉了 Servo 引擎团队的大部分成员。Servo 项目之后脱离 Mozilla 成为一个独立项目，由 Linux 基金会托管，旨在为其它项目提供一个嵌入的高性能的、安全的渲染引擎。Servo 项目于 2025 年 10 月释出了 v0.0.1 版本，之后以每月发布一个新版本的频率发布。开发者表示他们计划以每半年更新一次的频率提供长期支持版本(LTS)，因为嵌入开发者可能无法及时更新到最新 Servo 版本，他们更适合使用 LTS 版本。LTS 版本预计将提供九个月的安全更新。",
-          "link": "https://www.solidot.org/story?sid=84043",
-          "publishedOn": "2026-04-14T15:02:42.000Z",
-          "wordCount": 206,
-          "title": "Servo 发布首个 crates.io 版本",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84042",
-          "author": null,
-          "description": "斯坦福大学研究院 Institute for Human-Centered Artificial Intelligence(HAI)发布了年度报告 AI Index，报告认为中国顶级 AI 与美国 AI 相差无几。2024 年 1 月美国顶级 AI 的得分比中国顶级 AI 高 10% 左右，到  2026 年 3 月美国 Anthropic 和字节跳动的 AI 得分差距仅为 2.7%。在衡量语言、数学和编程领域难题正确率的基准测试中，差距也在缩小，中美之间的性能差距已基本消除。在开发和运营数据中心数量方面，美国有 5427 个遥遥领先于其他国家，2025 年民间投资额美国也以 2859 亿美元遥遥领先其他国家。中国的民间投资仅为 124 亿美元，但政府投资较大，实际投资额尚不明确。在被引用最多的前 100 篇论文中，中国的论文在 2024 年达到 41 篇，比上年增加 7 篇，缩小了与排名第一的美国（46 篇）的差距。",
-          "link": "https://www.solidot.org/story?sid=84042",
-          "publishedOn": "2026-04-14T14:37:21.000Z",
-          "wordCount": 211,
-          "title": "斯坦福的 AI 报告认为中美差距微乎其微",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84041",
-          "author": null,
-          "description": "根据发表在《Scientific Reports》期刊上的一项研究，龙虾能感受到疼痛，而人类止痛药也能帮助它止痛。这项研究再次表明需要为甲壳类动物开发出更人道的宰杀方法。新研究发现，当挪威龙虾在水中遭受电击时它们会快速摆动尾巴试图逃脱。但如果用止痛药阿司匹林和利多卡因预先为龙虾镇痛，尾巴摆动会减少甚至消失。论文合作者 Lynne Sneddon 称人类止痛药对挪威龙虾也有效，这表明人类生理功能与龙虾十分相似。人类应像对待鸡和牛一样重视对甲壳类动物的饲养和宰杀方式。",
-          "link": "https://www.solidot.org/story?sid=84041",
-          "publishedOn": "2026-04-14T09:55:08.000Z",
-          "wordCount": 163,
-          "title": "人类止痛药对龙虾有效",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84040",
-          "author": null,
-          "description": "根据发表在 PNAS 期刊上的一项长期研究，儿童时期饮用含氟自来水对直至 80 岁的智商和大脑功能没有影响。美国反疫苗的卫生部长 Robert F. Kennedy Jr.此前宣称饮用水中的氟化物与 IQ 下降相关。美国多个红州——其中包括犹他州和佛罗里达州——已经颁布了禁令禁止在饮用水中添加氟化物，理由是担心氟化物导致 IQ 下降。肯塔基州、路易斯安那州、密苏里州和俄克拉荷马州等也在审议类似的立法。反对饮用水中添加氟化物的人士引用的研究多来自中国等国，这些国家饮用水中的氟化物浓度远高于美国，相关研究认为氟化物可能与儿童 IQ 有关。根据美国 CDC 的数据，预防龋齿的饮用水最优氟化物浓度为每升 0.7 毫克，相当于在 55 加仑的水桶中滴入 3 滴。美国饮用水法定氟化物浓度上限为每升 4.0 毫克。",
-          "link": "https://www.solidot.org/story?sid=84040",
-          "publishedOn": "2026-04-14T08:53:50.000Z",
-          "wordCount": 189,
-          "title": "含氟自来水对 IQ 和大脑功能没有影响",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84039",
-          "author": null,
-          "description": "一个印度开发团队以 Essential Plugin 的名义开发了 31 款 WordPress 插件，插件有免费版本也有付费版本。2024 年底由于收入下降了 35-45% 开发者将所有插件出售给了一个有 SEO、加密货币和赌博背景的买家，金额是六位数。2025 年 8 月 8 日买家释出了更新，其中包含了后门，但后门一直处于休眠状态。2026 年 4 月 5-6 日后门激活开始向所有运行相关插件的网站传播恶意载荷。恶意代码从指令控制服务器获取垃圾链接、重定向和虚假页面。这些垃圾信息只会显示给 Google 的机器人 Googlebot，对网站所有者不可见。WordPress.org 插件团队次日关闭了所有插件，但 SEO 垃圾信息注入攻击仍在进行中。这不是 WordPress.org 第一次遭遇模式相似的供应链攻击——收购信任插件然后注入恶意代码，它没有机制标记或审查插件所有权转移，也没有向用户发出插件所有权变更的通知，新所有者也不会触发额外的代码审查。最新攻击有数十万安装这些插件的网站受到影响。",
-          "link": "https://www.solidot.org/story?sid=84039",
-          "publishedOn": "2026-04-14T07:59:37.000Z",
-          "wordCount": 198,
-          "title": "31 个 WordPress 插件被收购后植入了后门",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84038",
-          "author": null,
-          "description": "OpenAI CEO Sam Altman 过去几天遭遇了两次袭击。第一次是一名男子朝他在旧金山的住宅扔燃烧瓶，并在 OpenAI 总部大楼前发口头威胁；第二次是有人在汽车内朝 Altman 的家开枪。三位嫌疑人都遭到了逮捕。扔燃烧瓶的嫌疑人是 20 岁的 Daniel Moreno-Gama，FBI 搜查了他在德州的家。Moreno-Gama 还被发现在 Substack 上撰写博客表达对 AI 的担忧以及反对 AI 高管。他还是 Discord 服务器 PauseAI 的成员，该组织是一个致力于禁止开发最强大的 AI 模型以保护公众的激进组织。Moreno-Gama 被捕时携带了一份文件，表达对 AI 以及 AI 公司高管的反对立场，他本人此前并没有犯罪记录。",
-          "link": "https://www.solidot.org/story?sid=84038",
-          "publishedOn": "2026-04-14T07:12:41.000Z",
-          "wordCount": 204,
-          "title": "FBI 搜查朝 Sam Altman 住宅扔燃烧瓶的男子家",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84037",
-          "author": null,
-          "description": "一名黑客入侵了硅谷风投 a16z 投资的手机农场 Doublespeed，该公司使用 AI 生成的 TikTok 账号创建虚假网红、生成视频以及发评论。黑客试图控制 Doublespeed 的社交账号发梗图声称 a16z 是“反基督”，图像包含了 a16z 联合创始人、特朗普支持者 Marc Andreessen。Doublespeed 联合创始人 Zuhair Lakhani 称他们已经迅速采取行动阻止了这次未经授权的访问，该公司的社交账号没有发布未经授权的帖子。Doublespeed 从 a16z 获得了 100 万美元的投资。",
-          "link": "https://www.solidot.org/story?sid=84037",
-          "publishedOn": "2026-04-14T06:45:50.000Z",
-          "wordCount": 199,
-          "title": "黑客入侵 a16z 投资的手机农场，试图让手机农场账号发帖称 a16z 是反基督",
           "imageUrl": null
         }
       ]
