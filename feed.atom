@@ -2,10 +2,150 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-04-24T04:52:41.169Z</updated>
+    <updated>2026-04-25T04:34:16.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Firefox 悄悄集成 Brave 的 Adblock 引擎]]></title>
+        <id>https://www.solidot.org/story?sid=84144</id>
+        <link href="https://www.solidot.org/story?sid=84144"/>
+        <updated>2026-04-24T15:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla 上个月释出的 Firefox 149 悄悄集成了 Brave 的开源 Adblock 引擎 adblock-rust。adblock-rust 在默认情况下没有启用，也没有 UI 或内容过滤列表。dblock-rust 是 Brave 内置广告屏蔽器使用的引擎，使用 Rust 开发，采用 MPL-2.0 许可授权，能处理网络请求拦截、过滤特定元素样式(cosmetic filtering)，兼容 uBlock Origin 的过滤列表语法。Firefox 分支 Waterfox 也采用了 adblock-rust。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[减少接触塑料会在短期内大幅减少体内的塑料物质含量]]></title>
+        <id>https://www.solidot.org/story?sid=84143</id>
+        <link href="https://www.solidot.org/story?sid=84143"/>
+        <updated>2026-04-24T14:50:31.000Z</updated>
+        <summary type="html"><![CDATA[根据一项研究，减少接触塑料会在短期内减少体内的塑料物质含量最多五成。研究主要针对两种来自塑料制品的化学物质——邻苯二甲酸酯（phthalates）和双酚（bisphenols）。211 名试验参与者的尿检结果显示他们体内都有较高含量的塑料化学物质。其中 60 名参与者参与了一项随机对照试验。研究人员与农民和生产商合作，提供在生产和包装过程中完全不用塑料的食品。一周后相比对照组，减少接触塑料的参与者体内邻苯二甲酸酯减少了 44%，双酚减少了逾 50%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国生物银行 50 万参与者健康数据泄漏]]></title>
+        <id>https://www.solidot.org/story?sid=84142</id>
+        <link href="https://www.solidot.org/story?sid=84142"/>
+        <updated>2026-04-24T14:12:37.000Z</updated>
+        <summary type="html"><![CDATA[英国生物银行（UK Biobank）有 50 万参与者的健康数据泄漏，泄漏数据集在阿里巴巴上出售。英国科技大臣 Ian Murray 称英国生物银行运营机构已向政府通报了这起事件，泄露的信息不包含姓名、地址、联系方式或电话号码，但可能包括性别、年龄、出生年月、社会经济地位、生活习惯以及生物样本的测量数据。英国生物银行收集志愿者提供的健康数据，被用于帮助改进痴呆症、癌症和帕金森病的检测和治疗。有逾 1.8 万篇论文使用了英国生物银行的数据。阿里巴巴已经删除了数据，但相关数据又被上传到了 GitHub 上，英国生物银行向 GitHub 递交了大量 DMCA 删除通知。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文学家发现银河系的边缘]]></title>
+        <id>https://www.solidot.org/story?sid=84141</id>
+        <link href="https://www.solidot.org/story?sid=84141"/>
+        <updated>2026-04-24T09:53:08.000Z</updated>
+        <summary type="html"><![CDATA[银河系是圆盘状恒星，也就是恒星的形成是由里向外，这意味着越远的恒星越年轻。天文学家分析了银河系逾 10 万颗巨型恒星，发现恒星年龄分布由内向外模式在距离银河系中心 3.5-4 万光年间发生逆转，超过该距离恒星年龄变大了。这种突变形成了 U 型年龄分布，曲线最低点对应的恒星形成率急剧下降，代表着银河系恒星形成盘的边界。天文学家认为他们识别了银河系圆盘的边缘。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA Roman 太空望远镜最早九月发射]]></title>
+        <id>https://www.solidot.org/story?sid=84140</id>
+        <link href="https://www.solidot.org/story?sid=84140"/>
+        <updated>2026-04-24T08:38:14.000Z</updated>
+        <summary type="html"><![CDATA[NASA 宣布 Nancy Grace Roman 太空望远镜最早今年九月发射最晚 2027 年 5 月发射。望远镜以 NASA 首任天文学部门女主任的名字命名，它属于红外望远镜，核心任务包括探测暗能量、发现系外行星及验证广义相对论宇宙时空曲率。望远镜使用美国国家侦察局捐赠的 2.4 米口径主镜（当年 NRO 捐赠了两台主镜），配备了两台科学仪器：3 亿像素多波段红外相机大视场仪表（WFI），能直接观测邻近恒星周围的类木行星的日冕仪（CGI）。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 26.04 LTS 发布，支持到 2041 年，附升级方法]]></title>
+        <id>https://www.appinn.com/ubuntu-26-04-lts-release/</id>
+        <link href="https://www.appinn.com/ubuntu-26-04-lts-release/"/>
+        <updated>2026-04-24T08:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu 26.04 LTS 已经发布，代号 Resolute Raccoon（坚毅浣熊），支持期为 5 年，并提供额外 5 年的安全支持，以及再额外 5 年的继续安全更新。@Appinn Ubuntu 26.04 LTS 还对新的 CPU / GPU / NPU 做了优化，并且引入了 TPM]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度求索发布 DeepSeek-V4 预览版]]></title>
+        <id>https://www.solidot.org/story?sid=84139</id>
+        <link href="https://www.solidot.org/story?sid=84139"/>
+        <updated>2026-04-24T07:59:56.000Z</updated>
+        <summary type="html"><![CDATA[深度求索发布了 DeepSeek-V4 预览版。DeepSeek-V4 有两个版本，其中 Pro 版本有 1.6 万亿参数其中 490 亿活跃参数；Flash 版本有 2840 亿参数其中活跃参数 130 亿。两个版本都支持百万上下文。DeepSeek V4 除了支持英伟达 GPU 还支持华为昇腾 NPU。深度求索称，在 Agentic Coding 评测中，V4-Pro 已达到当前开源模型最佳水平，并在其他 Agent 相关评测中同样表现优异；Pro 在世界知识测评中，大幅领先其他开源模型，仅稍逊于顶尖闭源模型 Gemini-Pro-3.1；在数学、STEM、竞赛型代码的测评中，V4-Pro 超越当前所有已公开评测的开源模型。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tim Cook 称 2012 年发布 Apple Maps 是其任内第一个重大失误]]></title>
+        <id>https://www.solidot.org/story?sid=84138</id>
+        <link href="https://www.solidot.org/story?sid=84138"/>
+        <updated>2026-04-24T07:16:03.000Z</updated>
+        <summary type="html"><![CDATA[在最近举行的员工大会上，即将卸任的苹果 CEO 库克（Tim Cook）称 2012 年上线 Apple Maps 是其任内第一个真正的重大失误。当时的 Apple Maps 还比较原始，尚未准备好。它的失败迫使库克向用户道歉，并建议用户使用竞争对手的地图应用。库克表示这次重大失败还是富有价值的，“这体现了我们始终将用户放置在决策中心。现在我们拥有全世界最好的地图应用。我们学会了坚持，犯了错误但做了正确的事。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本周赛博领鸡蛋：4.24~4.30]]></title>
+        <id>https://www.appinn.com/eggs-26424/</id>
+        <link href="https://www.appinn.com/eggs-26424/"/>
+        <updated>2026-04-24T06:24:43.000Z</updated>
+        <summary type="html"><![CDATA[本周 Epic Games 送出 1 款电脑游戏《DOOMBLADE》，以及 1 款手机游戏《911 Operator》。好评率颇高。 《DOOMBLADE》 《DOOMBLADE》是一款 2D 类银河战士恶魔城动作游戏。 在地下深处，幽影少女发现了厄运之刃。这件有自我意识的武器遭到多年封印，迫切渴]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[心脏跳动能抑制心脏癌生长]]></title>
+        <id>https://www.solidot.org/story?sid=84137</id>
+        <link href="https://www.solidot.org/story?sid=84137"/>
+        <updated>2026-04-24T06:10:39.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《科学》期刊上的一项研究，心脏持续不断的跳动可能会主动抑制心脏组织中的肿瘤生长。这些组织中的细胞通路会改变癌细胞的基因调控方式，从而阻止其增殖。这些发现揭示了机械力在保护心脏免受癌症侵害方面的作用，并可能为基于机械刺激的新型癌症疗法做好铺垫。在哺乳动物中，心脏癌极为罕见。更重要的是，成年人的心脏自我更新能力有限，心肌细胞的再生率每年约为 1%。人们对这些特征所提出的一种解释是：心脏组织承受着巨大的机械负荷，它必须克服很大的阻力而持续泵血。这种持续的压力似乎会抑制心脏细胞的增殖能力。通过利用基因工程小鼠模型，研究人员发现，即使引入了强力致癌突变，心脏对其也具有显著的抗性。研究发现，组织内的机械力会重塑癌细胞基因组的调节格局，从而影响癌细胞是否能够增殖。Nesprin-2 是这一过程的核心，这是一种将细胞表面的机械信号传递至细胞核的蛋白。作为 LINC 复合物的一个组成部分，Nesprin-2 可感知心脏的机械微环境，并可在功能上改变染色质结构和组蛋白甲基化，从而降低与肿瘤细胞增殖相关的基因活性。当癌细胞中的 Nesprin-2 被沉默后，这些细胞在机械活动的心脏中会重新获得生长能力并形成肿瘤。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 26.04 LTS 释出]]></title>
+        <id>https://www.solidot.org/story?sid=84136</id>
+        <link href="https://www.solidot.org/story?sid=84136"/>
+        <updated>2026-04-24T05:56:42.000Z</updated>
+        <summary type="html"><![CDATA[Canonical 释出了代号为 Resolute Raccoon 的 Ubuntu 26.04 LTS。同时释出的还有衍生版本 Edubuntu、Kubuntu、Lubuntu、Ubuntu Budgie、Ubuntu Cinnamon、Ubuntu Kylin、Ubuntu Studio、Ubuntu Unity 和 Xubuntu。Ubuntu Desktop、Ubuntu Server、Ubuntu Cloud、Ubuntu WSL 和 Ubuntu Core 将获得五年的支持，其余版本获得三年的支持，付费扩展支持 ESM (Expanded Security Maintenance)为十年 。Ubuntu 26.04 采用最新的 Linux 7.0 kernel，GNOME 50 桌面环境，引入了基于 TPM 的全盘加密，GStreamer 1.28，沙盒图形加载，Chrony 4.8，等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 漏洞报告大增促使内核移除缺乏维护的代码]]></title>
+        <id>https://www.solidot.org/story?sid=84135</id>
+        <link href="https://www.solidot.org/story?sid=84135"/>
+        <updated>2026-04-24T05:24:40.000Z</updated>
+        <summary type="html"><![CDATA[内核开发者宣布，为了保持自己的理智不被大量涌入的 AI 生成漏洞报告搞疯，他们正在 Linux 内核移除缺乏维护的代码。计划移除的代码包括 ISA 和 PCMCIA Ethernet 驱动、一对 PCI 驱动、ax25 和业余无线电子系统、ATM 协议和驱动，以及 ISDN 子系统。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又是 npm 包投毒，密码管理器 Bitwarden CLI 中招（放心：本体安全）]]></title>
+        <id>https://www.appinn.com/bitwarden-cli-npm-supply-chain-attack-2026/</id>
+        <link href="https://www.appinn.com/bitwarden-cli-npm-supply-chain-attack-2026/"/>
+        <updated>2026-04-24T04:52:20.000Z</updated>
+        <summary type="html"><![CDATA[密码管理器 Bitwarden 本体没有问题，命令行工具 @bitwarden/cli@2026.4.0 版本中招。如果你和你的 AI 不曾使用 CLI，就可以不管它。@Appinn 发生了什么？ 来自 socket.dev 的消息：攻击者入侵了 Bitwarden 的发布流程（CI/CD），把一个]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最强开源模型 DeepSeek V4 发布，1M上下文，运行成本大降]]></title>
+        <id>https://www.appinn.com/deepseek-v4/</id>
+        <link href="https://www.appinn.com/deepseek-v4/"/>
+        <updated>2026-04-24T04:05:20.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek V4 终于发布了，带来了 1M 上下文，代码能力明显提升，推理进入第一梯队，但知识类能力仍落后于头部闭源模型。 最重要的是：「DeepSeek-V4 开创了一种全新的注意力机制，在 token 维度进行压缩，结合 DSA 稀疏注意力（DeepSeek Sparse Attentio]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猕猴吃土帮助消化游客的高热量垃圾食品]]></title>
         <id>https://www.solidot.org/story?sid=84134</id>
@@ -1081,136 +1221,6 @@ A Well-Designed JavaScript Module System is Your First Architecture Decision ori
         <link href="https://www.solidot.org/story?sid=84057"/>
         <updated>2026-04-15T16:34:40.000Z</updated>
         <summary type="html"><![CDATA[全球九成以上的大米产自亚洲，亚洲有逾十亿人口以大米为主食。历史数据显示，亚洲大米过去九千年很少能在年平均气温逾 28°C 或暖季最高气温逾 33°C 的地区茁壮成长，而全球暖化的速度比水稻能适应的速度快 5000 倍。根据发表在《Communications Earth & Environment》期刊上的一项研究，预计到 2070 年印度和东南亚等传统水稻种植区的温度将超过 40 摄氏度，在这种温度下现有的亚洲水稻无法正常生长，逾十亿人的粮食安全面临威胁。研究人员指出，现有的水稻未适应气温升高，而是其种植从较暖的地区扩大到了较凉的地区，种植面积增加了，但承受气候变化的能力并没有增长。以中国为例，水稻种植从华中扩大到华北，同时加大了炎热地区的灌溉力度，因此大米的产量才略有增长。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国国会新法案要求操作系统验证用户年龄]]></title>
-        <id>https://www.solidot.org/story?sid=84056</id>
-        <link href="https://www.solidot.org/story?sid=84056"/>
-        <updated>2026-04-15T14:41:16.000Z</updated>
-        <summary type="html"><![CDATA[美国民主党议员 Josh Gottheimer 和共和党议员 Elise M. Stefanik 联合提出了一项新法案，要求操作系统开发商验证用户的年龄。法案已于 4 月 13 日递交到众议院能源和商业委员，其详细内容还没有公开，目前只知道法案的标题是“To require operating system providers to verify the age of any user of an operating system, and for other purposes”。该法案可能是 Gottheimer 本月初提出的 Parents Decide Act 的一部分，其中包括：要求苹果和 Google 等操作系统开发商在设置新设备时验证用户年龄，不依赖于用户自行报告的年龄；允许家长从一开始就设置适合孩子年龄的内容控制，包括限制访问社交媒体、应用和 AI 平台；确保年龄和家长控制设置安全传输到应用和 AI 平台，它们因此能为儿童量身定制内容；通过在各个平台建立一致且可信的标准，防止儿童访问有害或露骨的内容，包括不合适的 AI 聊天机器人互动。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[斯坦福报告凸显了 AI 业内人士和公众之间的分歧]]></title>
-        <id>https://www.solidot.org/story?sid=84055</id>
-        <link href="https://www.solidot.org/story?sid=84055"/>
-        <updated>2026-04-15T14:23:49.000Z</updated>
-        <summary type="html"><![CDATA[斯坦福大学 HAI 研究院本周一发表了年度报告 AI Index。报告凸显了 AI 业内人士和公众之间日益扩大的分歧。报告援引皮尤研究中心上月发布的一份报告：只有 10% 的美国人对 AI 在日常生活中的日益普及感到兴奋而非担忧，但 56% 的 AI 专家认为 AI 将在未来 20 年对美国产生积极影响。AI 专家的意见和公众情绪存在显著分歧：84% 的专家认为 AI 未来 20 年将对医疗保健产生积极影响，只有 44% 的公众持相同观点；73% 的专家积极看待 AI 对工作方式的影响，而持相同观点的公众仅占 23%；69% 的专家认为 AI 将对经济产生积极影响，只有 21% 的公众持相同观点；AI 专家对 AI 对就业市场的影响持较为乐观态度，而 64% 的公众认为 AI 将在未来 20 年导致就业岗位减少。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯流行应用被发现会检测是否安装 VPN]]></title>
-        <id>https://www.solidot.org/story?sid=84054</id>
-        <link href="https://www.solidot.org/story?sid=84054"/>
-        <updated>2026-04-15T13:43:09.000Z</updated>
-        <summary type="html"><![CDATA[RKS Global 的专家发现，30 款俄罗斯最流行 Android 应用​有 22 款能检测 VPN，其中 19 款会将 VPN 状态发送至服务器。这些应用包括：Yandex Browser、Yandex Maps、VKontakte、My MTS、Sberbank Online、T-Bank、VK Video、Wildberries、 Kinopoisk、Ozon、Samokat、RuStore、VTB Online、Yandex Music、Avito、Alfa-Bank、2GIS、MegaMarket、Odnoklassniki、MAX、Rutube 和 VK Music。俄罗斯数字发展部已经要求大型企业从 4 月 15 日起限制那些在设备上启用了 VPN 的用户的访问。调查发现，Avito 应用会检测设备上是否安装了逾 200 种外国应用，其中包括银行、加密货币钱包和 IM 等。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安娜的档案被勒令向 Spotify 等赔偿 3.22 亿美元]]></title>
-        <id>https://www.solidot.org/story?sid=84053</id>
-        <link href="https://www.solidot.org/story?sid=84053"/>
-        <updated>2026-04-15T10:30:17.000Z</updated>
-        <summary type="html"><![CDATA[纽约南区法官 Jed Rakoff 作出缺席判决，勒令影子图书馆安娜的档案（Anna's Archive）向 Spotify 以及唱片公司环球音乐、索尼音乐和华纳唱片赔偿 3.22 亿美元，其中 Spotify 获得 3 亿美元赔偿。安娜的档案的运营者没有现身法庭为其辩护，也不太可能支付赔偿金。这起诉讼源自去年安娜的档案宣布抓取了 Spotify 的音乐文件，它随后发布了 Spotify 的元数据，但并没有公开音乐文件，尽管如此 Spotify 和唱片公司对安娜的档案提起了诉讼，导致这家影子图书馆主域名被扣押。Spotify 等原告的主要目的也不是赔偿金，而是要在全球封杀安娜的档案。法官 Rakoff 也宣布了永久禁令，涉及 10 个域名 annas-archive.org、.li、.se、.in、.pm、.gl、.ch、.pk、.gd 和.vg。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网档案馆存档数千音乐会录音带]]></title>
-        <id>https://www.solidot.org/story?sid=84052</id>
-        <link href="https://www.solidot.org/story?sid=84052"/>
-        <updated>2026-04-15T08:53:11.000Z</updated>
-        <summary type="html"><![CDATA[芝加哥音乐粉丝 Aadam Jacobs 自 1980 年代起录制他参加的演唱会，至今积累了逾万盘磁带。现年 59 岁的 Jacobs 知道磁带会随着时间推移而损坏，因此他同意互联网档案馆的志愿者将这些磁带数字化。互联网档案馆已经上传了 2477 盘音乐会磁带，其中包括相当罕见的 1989 年涅盘乐队（Nirvana）音乐会磁带，乐队被主流观众所熟悉是在 1991 年发行的单曲 Smells Like Teen Spirit 之后。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modal 提供免费的 GLM-5.1 模型到月底，但限速 1]]></title>
-        <id>https://www.appinn.com/modal-glm-5-1-free/</id>
-        <link href="https://www.appinn.com/modal-glm-5-1-free/"/>
-        <updated>2026-04-15T08:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Modal 是一个提供云AI算力的平台，目前提供免费的 GLM-5.1 模型到月底，但限制并发请求 1。 模型入口 直接在该页面左侧点击 Sign in 注册即可： 然后可以看到并发请求限制为 1，也就是同一时间段只能有一个连接。 以及模型来自 Z.ai，2026年4月发布，746B 参数。 免费到]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国最完美的约会日期是 10 月 8 日]]></title>
-        <id>https://www.solidot.org/story?sid=84051</id>
-        <link href="https://www.solidot.org/story?sid=84051"/>
-        <updated>2026-04-15T07:53:47.000Z</updated>
-        <summary type="html"><![CDATA[在 2000 年上映的电影《特工佳丽（Miss Congeniality）》中，桑德拉·布洛克扮演的女主角被问到完美的约会日期时回答，“April 25th, because it's not too hot, not too cold. All you need is a light jacket”。但 4 月 25 日真的是完美的天气？WeatherBug 对美国自 2018 年以来的天气的分析显示，10 月 8 日才是全美温度最舒适和降雨量最低的日期，当天的平均气温约为 19 摄氏度，降雨量约 0.25 毫米。而 4 月 25 日在全年排名中排在第 80 位，平均气温 16 摄氏度，降雨量约 0.32 毫米。数据显示，7 月是美国全年最热的月份，而 1 月则是最冷的月份，1 月 20 日的全国平均气温约 0.5 摄氏度。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone、安卓现在就能跑 Gemma 4 了：Google 开源 AI Edge Gallery 应用]]></title>
-        <id>https://www.appinn.com/google-ai-edge-gallery/</id>
-        <link href="https://www.appinn.com/google-ai-edge-gallery/"/>
-        <updated>2026-04-15T07:42:59.000Z</updated>
-        <summary type="html"><![CDATA[现在，通过 Google 的开源应用 Google AI Edge Gallery，已经可以直接在 iPhone 和安卓手机上运行 Gemma 4 E2B、E4B 两个模型了，不消耗任何 Token，能离线使用。而且不只是对话，还支持图片、语音，甚至加入了 Skills。 不用等啦，现在就能用。 G]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国首相表示社媒平台应停止无限滚动]]></title>
-        <id>https://www.solidot.org/story?sid=84050</id>
-        <link href="https://www.solidot.org/story?sid=84050"/>
-        <updated>2026-04-15T07:30:02.000Z</updated>
-        <summary type="html"><![CDATA[在澳大利亚等国之后，英国也在考虑限制儿童使用社交媒体，它正在测试禁令、宵禁和应用使用时间限制等措施观察这些措施对儿童睡眠、家庭生活和学业的影响。英国首相 Keir Starmer 表示社媒平台应移除针对年轻用户的让人上瘾的无限滚动功能。他接受 BBC 采访时称社媒公司设计的算法旨在让用户上瘾，家长正要求政府介入。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软 Surface 系列产品大幅涨价]]></title>
-        <id>https://www.solidot.org/story?sid=84049</id>
-        <link href="https://www.solidot.org/story?sid=84049"/>
-        <updated>2026-04-15T07:07:22.000Z</updated>
-        <summary type="html"><![CDATA[由于 AI 热导致内存和固态硬盘等产品供不应求，相关零部件过去几个月价格翻了几倍，导致电脑和手机等产品也跟着涨价，现在微软也大幅提高了其 Surface 系列产品的价格。12 英寸的 Surface Pro 从 799 美元涨到了 1049 美元（起售价），13 英寸的 Surface Pro 从 999 美元涨到 1499 美元，13 英寸的 Surface Laptop 从 899 美元涨到了 1149 美元，13.8 英寸 Surface Laptop 从 999 美元涨到 1499 美元，15 英寸型号起售价现在为 1599 美元。15 英寸 Surface Laptop 的顶配如今价格超过了同等规格的苹果 16 英寸 MacBook Pro。难以想象苹果的电脑产品有一天会成为比 Windows 电脑更廉价同时性能还更好的产品。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊收购 Globalstar]]></title>
-        <id>https://www.solidot.org/story?sid=84048</id>
-        <link href="https://www.solidot.org/story?sid=84048"/>
-        <updated>2026-04-15T06:23:50.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊和 Globalstar 发表新闻稿，宣布达成了收购协议，扩大亚马逊的 Leo 宽带卫星网络。苹果持有 Globalstar 五分之一的股份，作为收购协议的一部分，苹果与亚马逊达成协议，Amazon Leo 将为 iPhone 和 Apple Watch 提供卫星服务，包括通过卫星提供紧急 SOS 求救服务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 违反承诺未提前通知就将用户数据交给 ICE]]></title>
-        <id>https://www.solidot.org/story?sid=84047</id>
-        <link href="https://www.solidot.org/story?sid=84047"/>
-        <updated>2026-04-15T06:15:46.000Z</updated>
-        <summary type="html"><![CDATA[2024 年 9 月 Amandla Thomas-Johnson 持学生签证在美国攻读博士学位期间在康奈尔大学参加了一次支持巴勒斯坦的抗议活动。2025 年 4 月美国 ICE 向 Google 发出行政传票要求提供 Thomas-Johnson 的数据。Google 承诺，在根据法律程序——包括行政传票——交出用户数据之前会通知用户，此举旨在让用户有机会对数据披露要求提出质疑。但本案中 Google 没有提前通知就交出了数据。电子前哨基金会（EFF）代表 Thomas-Johnson 向加州和纽约州投诉 Google，指控其违反承诺从事了商业诈欺行为。Thomas-Johnson 已经离开了美国，他在 EFF 上称即使他离开美国也并没有摆脱它的控制，他说，“任何人都有可能成为执法部门的目标，而科技公司凭借其庞大的数据存储，可以助长这些任意调查。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 将惩罚“后退按钮劫持”行为]]></title>
-        <id>https://www.solidot.org/story?sid=84046</id>
-        <link href="https://www.solidot.org/story?sid=84046"/>
-        <updated>2026-04-14T16:56:20.000Z</updated>
-        <summary type="html"><![CDATA[今天的很多网站不让用户“后退”，但到了 6 月 15 日，如果网站还这么做，Google 将会进行惩罚，大幅降低网站的搜索排名。Google 将把这种被称为“后退按钮劫持”的做法定性为恶意行为。“后退按钮劫持”旨在强行将用户留在网站以增加流量，当访客试图通过后退按钮返回上一页，网站会篡改页面浏览历史记录，在用户点击后退按钮时插入其他内容。Google 表示，后退按钮应该始终执行用户预期的功能——返回上一页，任何其他行为都属于一种欺骗性的用户体验。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
         </author>
