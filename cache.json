@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/watermelon-backup-ios/",
+          "author": "青小蛙",
+          "description": "如果你不太想把照片放在 iCloud 中，那其实还有一种更“本地化”的方式，就是放在外置硬盘、NAS、支持 WebDAV 的网盘，甚至通过 SMB 备份直接到电脑中。@Appinn 西瓜备份就是专门干这件事的，目前正在限免，截止 2026年4月30日。 来自发现频道，开发者自荐：https://me",
+          "link": "https://www.appinn.com/watermelon-backup-ios/",
+          "publishedOn": "2026-04-25T11:59:45.000Z",
+          "wordCount": 2707,
+          "title": "🍉西瓜备份 – iPhone 相册自动备份工具：可备份至 NAS、外置硬盘、WebDAV、SMB[限免至4.30]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-2026-04-25T195604.726.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/windows11-update-experience-just-got-updated/",
+          "author": "青小蛙",
+          "description": "Windows 11 更新终于没那么烦人了，现在你可以自己决定什么时候更新，甚至一直不更新。 青小蛙此前遇到过好几次这种情况：某一个更新，无论点多少次“立即更新”，它都不会动，就卡在那里，完全没办法处理。 微软发博客说《您的 Windows 更新体验刚刚升级》，至少解决了 4 件事：更新能跳过、能永",
+          "link": "https://www.appinn.com/windows11-update-experience-just-got-updated/",
+          "publishedOn": "2026-04-25T04:26:00.000Z",
+          "wordCount": 2682,
+          "title": "Windows 11 更新终于改了：可永久暂停更新",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-2026-04-25T122457.972.jpg"
+        },
+        {
           "id": "https://www.appinn.com/ubuntu-26-04-lts-release/",
           "author": "青小蛙",
           "description": "Ubuntu 26.04 LTS 已经发布，代号 Resolute Raccoon（坚毅浣熊），支持期为 5 年，并提供额外 5 年的安全支持，以及再额外 5 年的继续安全更新。@Appinn Ubuntu 26.04 LTS 还对新的 CPU / GPU / NPU 做了优化，并且引入了 TPM",
@@ -210,46 +230,6 @@
           "wordCount": 2698,
           "title": "本周赛博领鸡蛋[4.17~4.23]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/赛博领鸡蛋-4-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/annas-archive-default-judgment-322m-domain-block/",
-          "author": "青小蛙",
-          "description": "这可能是互联网最奇怪的一场官司之一。一个月前《安娜的档案被 13 家大型出版商联合起诉》，如今判决已经出来了：没有出庭、没有抗辩，安娜的档案直接败诉。 法院判决其赔偿3.22亿美元，并下达永久禁令，要求域名注册商及相关服务提供方停止为该网站提供支持，包括暂停其域名的解析与使用。 目前安娜的档案仅剩",
-          "link": "https://www.appinn.com/annas-archive-default-judgment-322m-domain-block/",
-          "publishedOn": "2026-04-16T06:46:09.000Z",
-          "wordCount": 2740,
-          "title": "安娜的档案缺席败诉，赔偿3.22亿美元，恐失去所有域名",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/cover-1776320696631-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/qiewenpaper-openclaw-auto-paper-reproduction/",
-          "author": "青小蛙",
-          "description": "复现一篇论文，你通常要花多久？配环境、装依赖、改 Bug，一通折腾下来，一周起步。现在，这件事，已经可以交给 AI 自动完成了。而且，是一只“龙虾”。 最近 AI 圈最火的莫过于那只无所不能的龙虾 OpenClaw，已经被复旦 NLP 团队悄悄塞进了一个科研工具里： 不少人还在苦恼如何配置复杂的环境",
-          "link": "https://www.appinn.com/qiewenpaper-openclaw-auto-paper-reproduction/",
-          "publishedOn": "2026-04-16T03:33:13.000Z",
-          "wordCount": 2872,
-          "title": "免安装 OpenClaw！复旦 NLP 团队把🦞搬进科研神器，复现论文竟然能全自动了！",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/fd.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/cloudflare-mesh/",
-          "author": "青小蛙",
-          "description": "Cloudflare Mesh 是 Cloudflare 刚刚发布的私有网络功能，与 Tailscale、Zerotier 类似，可以将不同设备接入私有网络，并且通过专用 IP 互相通信。流量全部经由 Cloudflare 网络。 与 Tailscale、Zerotier 有什么不同？ Cloudf",
-          "link": "https://www.appinn.com/cloudflare-mesh/",
-          "publishedOn": "2026-04-16T03:30:59.000Z",
-          "wordCount": 2834,
-          "title": "Cloudflare Mesh 发布：私有组网工具，与 Tailscale、Zerotier 功能类似",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/cover-1776309864366-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/youtube-allows-users-to-disable-shorts/",
-          "author": "青小蛙",
-          "description": "嫌弃短视频浪费时间的用户终于有救了！YouTube 已经上线新功能，允许用户在设置 > 时间管理中，将 Shorts 的每日上限设置为 0 分钟，即：允许用户彻底关闭 Shorts。@Appinn 如何关闭 Shorts 需要在手机端的 Youtube 上，才可以设置。 具体为： 设置 > 时间管理",
-          "link": "https://www.appinn.com/youtube-allows-users-to-disable-shorts/",
-          "publishedOn": "2026-04-16T02:35:42.000Z",
-          "wordCount": 2755,
-          "title": "YouTube 允许用户彻底关闭 Shorts",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-99-1.jpg"
         }
       ]
     },
@@ -307,16 +287,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/wh9.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=392882",
-          "author": "Amejimaobari Victor",
-          "description": "Behind every technology, there should be a guide for its use. While JavaScript modules make it easier to write “big” programs, if there are no principles or systems for using them, things could easily become difficult to maintain.\nA Well-Designed JavaScript Module System is Your First Architecture Decision originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/the-javascript-module-system-architecture/",
-          "publishedOn": "2026-04-16T13:53:58.000Z",
-          "wordCount": 4856,
-          "title": "A Well-Designed JavaScript Module System is Your First Architecture Decision",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/03/s_438F18945EAD505ECD4EDF4C4D7332DB9EE1178AECF38D5E1E1966514E384E9B_1772462582173_Untitled-scaled.png"
         }
       ]
     },
@@ -359,6 +329,66 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84150",
+          "author": null,
+          "description": "20 世纪的大规模工业捕鲸几乎导致座头鲸灭绝，海洋中剩下的鲸鱼不足工业捕鲸前数量的 5%。40 年前一项全球捕鲸禁令生效，座头鲸种群开始恢复。尽管部分座头鲸种群仍然濒临灭绝，但总体数量正在上升。越来越多地方报告目击到座头鲸的“超群（super-groups）”——指的是 20 头或以上的鲸鱼紧密聚集在一起。座头鲸生活在世界各大洋中，每年都会进行地球哺乳动物中最壮观的迁徙，行程可达 8000 公里，从温暖的繁殖地迁徙到寒冷的觅食地。在此过程中它们将大量的营养物质输送到世界各地，对海洋生态系统的健康至关重要。从2015 年到 2020 年，南非西海岸座头鲸超群目击次数从每年 10 次飙升至 65 次。2025 年 12 月 29 日，两位摄影师在南非西海岸一天内拍摄到了 208 头座头鲸，第二天更是达到了 304 头，这是历史上单日观测到的大型鲸鱼数量最多的一次。",
+          "link": "https://www.solidot.org/story?sid=84150",
+          "publishedOn": "2026-04-25T12:23:44.000Z",
+          "wordCount": 180,
+          "title": "座头鲸数量恢复，形成大规模超群",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84149",
+          "author": null,
+          "description": "由于内存成本上涨、竞争加剧以及折叠屏手机和智能手表等产品面临的压力，三星移动部门可能在 2026 年出现首次年度亏损。移动业务一直是三星的重要支柱，该业务可能亏损对公司的整体业绩构成了严重威胁。如果预测成真，这将是三星移动业务成立至今首次出现年度亏损。",
+          "link": "https://www.solidot.org/story?sid=84149",
+          "publishedOn": "2026-04-25T12:07:21.000Z",
+          "wordCount": 159,
+          "title": "三星移动业务可能首次出现亏损",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84148",
+          "author": null,
+          "description": "挪威计划禁止 16 岁以下儿童使用社交媒体，加入了澳大利亚、法国、奥地利、印度尼西亚和丹麦等国家的行列。挪威政府周五表示，社媒禁令是在公众强烈要求下提出的，政府计划年底前将法案提交议会。政府称，限制使用社媒的禁令将持续到儿童年满 16 岁当年的 1 月 1 日，由科技公司负责年龄验证。首相 Jonas Gahr Store  表示：“我们希望孩子拥有一个真正属于自己的童年。游戏、友谊和日常生活不应被算法和屏幕所占据。”挪威数字部长 Karianne Tung 在声明中表示：“不能让孩子承担远离他们被禁止使用的平台的责任。责任应该由提供服务的公司承担。”",
+          "link": "https://www.solidot.org/story?sid=84148",
+          "publishedOn": "2026-04-25T10:44:41.000Z",
+          "wordCount": 180,
+          "title": "挪威计划禁止 16 岁以下儿童使用社交媒体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84147",
+          "author": null,
+          "description": "韩国大田市 O-World 动物园一只 2 岁公狼于 4 月 8 日从围栏跳出，当地警方和消防部门随后连夜搜寻。直至 4 月 17 日这只叫 Neukgu 的公狼被安全捕获并送回园内。韩国警方本周逮捕了一名 40 岁的男子，他被控发布了一张逃跑公狼在路口出没的 AI 照片误导了搜索人员干扰了搜索工作。这张 AI 照片促使大田市政府向居民发出紧急短信，警告他们路口有狼出没。该男子在接受警方讯问时称，他“只是为了好玩”。当局正以欺骗手段扰乱政府工作罪对其展开调查，该罪最高可判处五年监禁或最高罚款 1000 万韩元。",
+          "link": "https://www.solidot.org/story?sid=84147",
+          "publishedOn": "2026-04-25T10:30:28.000Z",
+          "wordCount": 188,
+          "title": "韩国逮捕一名发布逃跑公狼 AI 照片的男子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84146",
+          "author": null,
+          "description": "2025 年 9 月和 10 月 Peter Thiel 在旧金山的 Commonwealth 俱乐部发表了四场敌基督主题的演讲。他说，17-18 世纪的敌基督形象会是类似“奇爱博士（Dr. Strangelove）”的疯狂科学家，21 世纪的敌基督则是卢德分子，类似 Greta Thunberg（瑞典气候活动人士）。阶级斗争都没有这么精神错乱。美国的富豪统治集团很少将经济自利包装成宗教使命，但今天的科技精英却将科技行业的未来繁荣描绘成一场对抗撒旦爪牙的战争。哥伦比亚大学法学教授吴修铭(Tim Wu)指出，对科技精英而言 AGI 相当于基督再临。为了奇点降临科技精英愿意不惜一切代价阻止反对者。不管谈论的是字面意义还是比喻意义上的上帝，最核心的问题仍然是金钱。科技巨头强烈反对政府干预，它们在 AI 上的投资规模堪称史无前例，仅 2026 年就将达到 6700 亿美元，占到了美国 GDP 的 2.1%。 利益关系推动硅谷投向共和党的怀抱。2020 年科技行业 98% 的捐款都流向了民主党。但到 2025 年底，近四分之三的科技行业政治支出流向了共和党，其中马斯克为共和党的选举捐赠了 3.51 亿美元。科技公司的游说支出在十年前不到制药巨头一半，如今迅速提升到了四分之三。科技行业在一代人前还承诺把权力和信息下放给平民，如今它们迷恋于监控、虚假信息、垄断和毁灭。科技最初赋能人类，后来却演变成科技赋能于各种掠夺者——最终科技平台本身也沦为企业掠夺者。科技公司何时变得反社会？这种转变是渐进的，是在它们的 CEO 们积累了越来越多的权力和金钱之后。Peter Thiel 从来不是一位自由主义者，他在 2009 年就宣称他不再相信自由和民主能兼容，他在 2014 年写道垄断是所有成功企业的必要条件。吴修铭视 2010 年代是一个转折点，在这之前亚马逊和 Google 等企业就像是慈善机构一样运营，亚马逊成立后的第一个十年基本没有盈利，而 Google 的座右铭是“不作恶”。到了 2010 年代它们开始将股东利益放在第一位，Google 抛弃了不作恶。科技公司认识到了它们所拥有的权力：亚马逊决定了购物方式，Google 决定了获取知识的方式，Facebook 决定了沟通的方式。科技巨头在贪婪上与镀金时代的强盗大亨不相上下，人类将面临一场漫长而艰苦的战斗，因为它们都富可敌国。",
+          "link": "https://www.solidot.org/story?sid=84146",
+          "publishedOn": "2026-04-25T09:48:49.000Z",
+          "wordCount": 211,
+          "title": "科技公司如何走向邪恶",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84145",
+          "author": null,
+          "description": "根据发表在《科学》期刊上的一项研究，研究人员从白垩纪晚期（1 亿——7200 万年前）的沉积物中发现了 12 个有鳍章鱼的颌骨。研究人员确定了两个主要物种——Nanaimoteuthis jeletzkyi 和 N. haggarti。这些有鳍章鱼，特别是 N. haggarti，其体型异常庞大：长度在 7 米到 19 米之间，足以与同时代的巨型海洋爬行动物媲美，可能代表了目前已知的最大型无脊椎动物。在体型最大的个体中，其颌骨呈大面积磨损。这些磨损模式表明，它们是活跃的食肉动物，它们经常会强力咬碎猎物坚硬的外壳和骨骼，它们还会利用其修长灵动的腕足捕捉体型可观的猎物，同时用其强健的喙部将猎物撕解，这种行为被认为与高等智力关联。这些巨型章鱼是海洋生态系统中的积极参与者，扮演着此前只属于大型脊椎动物才有的角色。",
+          "link": "https://www.solidot.org/story?sid=84145",
+          "publishedOn": "2026-04-24T16:01:06.000Z",
+          "wordCount": 174,
+          "title": "最早的巨型章鱼是海洋顶级掠食者",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84144",
           "author": null,
@@ -1107,136 +1137,6 @@
           "publishedOn": "2026-04-17T06:24:42.000Z",
           "wordCount": 179,
           "title": "美国主流媒体封禁互联网档案馆的存档机器人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84069",
-          "author": null,
-          "description": "研究人员在预印本平台 ArXiv 上发表论文《AI assistance reduces persistence and hurts independent performance》，再次证实 AI 有害大脑。研究人员招募了 350 名美国人，任务是解决一些分数方程。半数参与者被随机分配到 AI 组，他们可从一个基于 OpenAI GPT-5 构建的专用聊天机器人获取帮助，另一半必须独立完成。考试进行到一半时，AI 组的访问权限被切断。此举导致 AI 组的正确答案数量急剧下降，很多人干脆放弃考试。这一结果——成绩和毅力双双下降——在一项包含 670 名参与者的更大规模实验中得到了重复验证。研究人员指出，AI 辅助能提高即时表现，但会带来巨大的认知代价。仅仅使用 AI 十分钟就会让人对这项技术产生依赖，一旦停止使用，会导致表现下降和倦怠。",
-          "link": "https://www.solidot.org/story?sid=84069",
-          "publishedOn": "2026-04-16T15:18:58.000Z",
-          "wordCount": 192,
-          "title": "新研究再次证实 AI 有害大脑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84068",
-          "author": null,
-          "description": "Mozilla 与德国 AI 基础设施公司 deepset 合作宣布开源可自托管 AI 客户端 Thunderbolt。MZLA Technologies Corporation CEO Ryan Sipes 表示，AI 太重要而不能外包，Thunderbolt 为机构组织提供了一种自主的 AI 客户端，根据自身的基础设施、数据和需求，决定 AI 如何融入自身的工作流程。Thunderbolt 主要面向企业用户，而不是普通的 Firefox 用户。",
-          "link": "https://www.solidot.org/story?sid=84068",
-          "publishedOn": "2026-04-16T14:52:32.000Z",
-          "wordCount": 197,
-          "title": "Mozilla 宣布开源可自托管 AI 客户端 Thunderbolt",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84067",
-          "author": null,
-          "description": "基于 Ubuntu 的发行版 Linux Mint 正式宣布放慢发布周期。Ubuntu 是每半年发布一个新版本，Linux Mint 此前采用的发布周期类似。项目联合创始人 Clem Lefebvre 指出，每六个月发布一个新版本，此外还包括 LMDE，他们花在测试、修 bug 和发布上的时间远多于开发时间。Linux Mint 决定改变现状，采用更长的开发周期：下一个版本计划于 2026 年圣诞节发布，它将基于预计四月晚些时候释出的 Ubuntu 26.04 LTS，使用 Linux kernel 7.0（刚刚发布）。",
-          "link": "https://www.solidot.org/story?sid=84067",
-          "publishedOn": "2026-04-16T14:32:43.000Z",
-          "wordCount": 189,
-          "title": "Linux Mint 宣布采用更长的开发周期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84066",
-          "author": null,
-          "description": "人类一直在制造噪音，而动物并不喜欢。动物需要时刻注意周围的声音，警惕捕食者接近或者发现求偶者。无处不在的人造噪音增加了动物彼此之间的沟通难度。旧金山公园 Presidio 的历史录音显示，在 1960 年代麻雀有三种不同的“方言”，但到了 2010 年代，由于交通噪音麻雀主要使用其中音调更高的“方言”，另外两种较柔和的“方言”要么已经消失要么正在消失。为了在噪音下被同类听到，鸟儿只能竭尽全力的鸣叫。城市噪音甚至改变了鸟类的体型，它们变得更瘦，压力更大。求偶鸣叫也不再有效。因为雌鸟不太喜欢高音调高音量的叫声。噪音还加剧了鸟类之间的冲突，因为听不到警告叫声鸟儿容易误入敌对鸟的领地。新冠疫情初期为遏制病毒的扩散全世界都采取了社交封锁的政策，世界变得更安静了。公园的噪音降低了 7 分贝，麻雀的叫声也发生了变化，鸣叫声更轻柔频率范围也更丰富，传送的距离也比以前多了一倍，求偶鸣叫也更撩人了。研究人员发现，当声音超过  55 分贝，胆小的动物就会进入应激反应；超过 65 分贝，几乎所有动物都会逃跑。噪音对动物有害，对人类也是如此：研究发现交通噪音与睡眠质量差、血压升高、心脏病发病率增加以及压力增大相关。那么我们能安静下来吗？",
-          "link": "https://www.solidot.org/story?sid=84066",
-          "publishedOn": "2026-04-16T14:24:54.000Z",
-          "wordCount": 169,
-          "title": "人类的噪音在伤害动物，我们会学会安静吗？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84065",
-          "author": null,
-          "description": "世界自然保护联盟（IUCN）发布公报，南极洲两个最具代表性的物种——帝企鹅和南极毛皮海狮因数量快速、急剧减少，已被列入濒危物种红色名录濒危等级。IUCN 将物种生存状况划分为 9 个等级：灭绝、野外灭绝、极危、濒危、易危、近危、无危、数据缺乏、未予评估。IUCN 公报指出，根据卫星图像，2009 年至 2018 年间，帝企鹅种群数量减少了约 10%，相当于 2 万多只成年帝企鹅消失了。南极气候变化导致海冰发生变化，预测到 2180 年代，帝企鹅的数量将减半。南极毛皮海狮因食物短缺导致数量自 2000 年以来减少了 50%。气候变化致使海洋温度上升和海冰面积缩减，磷虾向更深、更冷的水域迁移，导致南极毛皮海狮的食物来源减少。",
-          "link": "https://www.solidot.org/story?sid=84065",
-          "publishedOn": "2026-04-16T11:25:28.000Z",
-          "wordCount": 173,
-          "title": "帝企鹅因气候变化导致数量减少被列为濒危",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84064",
-          "author": null,
-          "description": "人类与抹香鲸可能没有共同之处，但根据发表在《Proceedings B》上的一项研究，抹香鲸的发声沟通方式与人类语言有着惊人的相似性。抹香鲸不仅有着某种形式的“字母表”，在发声中形成元音，且元音的结构与人类语言采用了相同的方法。抹香鲸通过一系列“咔嗒”声进行交流，对咔嗒声的分析发现，抹香鲸能通过长短不同的咔哒声或通过升降调去区分元音，其模式与汉语、拉丁语和斯洛文尼亚语等语言相似。这项发现是致力于翻译鲸鱼语言的 Project Ceti(代表 Cetacean Translation Initiative)的最新研究结果。Project Ceti 创始人 David Gruber 说，鲸鱼可能将信息一代又一代传递了逾两千万年。",
-          "link": "https://www.solidot.org/story?sid=84064",
-          "publishedOn": "2026-04-16T11:05:34.000Z",
-          "wordCount": 168,
-          "title": "抹香鲸的发声沟通方式与人类相似",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84063",
-          "author": null,
-          "description": "AppMagic 的数据显示，2026 年 2 月全世界收入最高的 15 款手游中有 7 款来自中国，这些游戏的内购在一个月内产生了 6.68 亿美元的收入。Playrix、King、Roblox Corporation 和 Supercell 等西方公司仍然能跻身全球收入最高的 10 大手游发行商榜单，但它们的成功源于老游戏。2025 年收入排名前 15 的新游戏中没有一款来自西方游戏工作室。2025 年中国游戏在海外市场的收入达到 205 亿美元，连续第十年实现增长，连续第二年保持两位数增长。这种现象并非偶然，也并非仅仅因为中国市场庞大，中国手游的全球支配地位是循序渐进建立起来的。这一切源自本世纪初，当时中国的 PC 游戏盗版猖獗，买断制游戏模式难以维系，因此中国游戏公司转向了免费内购模式，在手游逐渐流行时，中国游戏公司对玩家付费心理的理解领先世界十年，并至今影响着他们的运营模式。2025 年中国手游活跃玩家 7.72 亿，手游收入占到了游戏市场总收入 501 亿美元的 73.29%，巨大的竞争压力促使中国游戏公司转向海外市场，首先是 4X 策略游戏，然后是中核（Mid-core）游戏，曾经的西方强项益智、合并和消除类游戏也逐渐被中国公司吞食。中国公司拥有西方公司所不具备的结构性优势：庞大且地域集中的人才库；对轮班制工作的文化接受度；员工纪律性强且易于替代；规模化生产后单位劳动力成本更低；以及对庞大团队和快速重组的容忍度。西方公司无法长期安排多个轮班以满足全天候实时运营的需求，无法将团队规模扩大到数千人，无法以工业化速度招聘和重组，没办法在这方面与中国公司展开竞争。中国公司对市场的反应无人能及，前一天 TikTok 上流行的梗（meme）可能第二天就出现在游戏关卡里。中国公司凭借组织规模取胜，西方公司只能依靠组织和创意的精准性取胜。",
-          "link": "https://www.solidot.org/story?sid=84063",
-          "publishedOn": "2026-04-16T10:02:59.000Z",
-          "wordCount": 191,
-          "title": "中国手游如何征服世界",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84062",
-          "author": null,
-          "description": "根据 Google 的统计，全球的 IPv6 普及度最近一段时间突破了 50%。按国别统计，中国只有 4.66%，美国 54.61%，加拿大 40.91%，俄罗斯 47.67%，印度 74.87%。然而 Cloudflare 的数据与 Google 有显著差异，Cloudflare 统计的是 HTTP 请求中 IPv4 和 IPv6 的比例，中国的 IPv6 比例达到了 32.6%，印度是 69.6%，美国是 49.1%。Akamai 的数据是中国 IPv6 普及度 26.1%，印度 73.4%，美国 48.1%。",
-          "link": "https://www.solidot.org/story?sid=84062",
-          "publishedOn": "2026-04-16T08:29:16.000Z",
-          "wordCount": 199,
-          "title": "IPv6 普及度突破 50%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84061",
-          "author": null,
-          "description": "一名 63 岁的挪威男子接受其兄弟的干细胞移植后治愈了艾滋病，该男子已停止抗逆转录病毒治疗两年，定期检测未发现病毒。全世界大约有 10 例通过干细胞移植治愈艾滋病的病例，而这是首例涉及家庭成员捐赠干细胞的病例。这名挪威男子于 2006 年确诊艾滋病，2018 年确诊骨髓增生异常综合征，这是一种会削弱骨髓造血功能的癌症。癌症在治疗两年后复发，医生决定移植干细胞，希望能找到适配骨髓同时还携带能抵抗 HIV 的基因突变的捐赠者。名为 CCR5-delta 32 的突变能让免疫细胞抵抗最常见的艾滋病病毒 HIV-1，但只有 1% 的人口携带两个该突变基因拷贝。在未找到之后，医生转向了该男子的兄弟，他的兄弟适配骨髓，出乎意料的是，医生在检测时发现他还携带了 CCR5-delta 32 突变。",
-          "link": "https://www.solidot.org/story?sid=84061",
-          "publishedOn": "2026-04-16T07:58:48.000Z",
-          "wordCount": 179,
-          "title": "挪威男子在移植其兄弟的干细胞后治愈 HIV",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84060",
-          "author": null,
-          "description": "波士顿动力将 Google DeepMind 的高级具身推理模型 Gemini Robotics-ER 1.6 集成到其机器狗 Spot 中，使 Spot 在工业检测如发现泄漏和读取仪表数据上拥有更强的自主推理能力，机器狗还能认识到何时调用其他 AI 工具。波士顿动力与 Google DeepMind 合作的重点集中在工业检测相关领域，即机器狗在工业设施内巡逻过程中是否能识别潜在爆炸风险。在集成 Gemini Robotics 之后，Spot 能自主寻找危险碎片或泄漏物，读取复杂仪表和视镜，在需要帮助理解周围环境时调用视觉-语言-动作模型等工具。波士顿动力在 YouTube 上发布了一则视频演示了 Spot 的新能力。",
-          "link": "https://www.solidot.org/story?sid=84060",
-          "publishedOn": "2026-04-16T07:34:04.000Z",
-          "wordCount": 199,
-          "title": "波士顿动力的机器狗集成了 Google 的 Gemini 模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84059",
-          "author": null,
-          "description": "日程安排平台 Cal.com 宣布从开源转为闭源，理由是 AI 工具更容易从开源代码中发现漏洞，而安全性依赖于模糊，因此闭源有助于提高安全。Cal 联合创始人 Peer Richelsen 称 AI 攻击者正在利用开源项目的透明特性，CEO Bailey Pumfleet 说，开源就好比银行公开其金库的图纸，在 AI 工具的帮助下研究图纸的黑客数量增加了百倍。Cal.com 表示会继续支持开源，将为爱好者提供一个独立的开源版本 Cal.diy。该公司核心产品则将从开源许可证 GNU Affero General Public License(AGPL)切换到闭源许可证。Pumfleet 表示，他们不希望因为漏洞而暴露客户敏感的订购数据，他们旨在成为一家日程安排公司，而不是一家网络安全公司。",
-          "link": "https://www.solidot.org/story?sid=84059",
-          "publishedOn": "2026-04-16T06:21:22.000Z",
-          "wordCount": 194,
-          "title": "Cal.com 因 AI 从开源转为闭源",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84058",
-          "author": null,
-          "description": "领取规则：未注册过开发者的用户可以通过如下链接免费选择一门 DLI 在线自主培训的付费课程，配套云端实验环境和可获得 NVIDIA 培训证书。每位用户（每个邮箱账号）仅可选择一门。\n\n\n\n\n\n\n\n\n⚠️目前可选课程包括 7 门英文课，5 门中文课，目前课程列表如下，随时下架，免费名额有限，先到先得：\n\n\n\n\n✨领取指南：\n总共分四步，即可领取课程并学习测试获得证书\n一、新注册开发者用户\n填写未注册过的邮箱——设置密码——完善资料\n\n\n\n\n\n二、免费领取一节免费课程\n下滑到NVIDIA 培训和认证模块，点击立即领取，并补充个人信息\n注意：年龄仅限18岁以上，Location选择China\n\n\n\n三、领取一节您感兴趣的中文或者英文课程\n右上角可选择语言挑选中/英文课程\n\n四、开始学习并通过测试获得NVIDIA培训证书\n学习前，请阅读下图四步进行环境确认\n自测链接：http://websocketstest.courses.nvidia.com",
-          "link": "https://www.solidot.org/story?sid=84058",
-          "publishedOn": "2026-04-16T04:02:11.000Z",
-          "wordCount": 184,
-          "title": "免费领取价值30/90美金的NVIDIA DLI自学课程并测试获得证书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84057",
-          "author": null,
-          "description": "全球九成以上的大米产自亚洲，亚洲有逾十亿人口以大米为主食。历史数据显示，亚洲大米过去九千年很少能在年平均气温逾 28°C 或暖季最高气温逾 33°C 的地区茁壮成长，而全球暖化的速度比水稻能适应的速度快 5000 倍。根据发表在《Communications Earth & Environment》期刊上的一项研究，预计到 2070 年印度和东南亚等传统水稻种植区的温度将超过 40 摄氏度，在这种温度下现有的亚洲水稻无法正常生长，逾十亿人的粮食安全面临威胁。研究人员指出，现有的水稻未适应气温升高，而是其种植从较暖的地区扩大到了较凉的地区，种植面积增加了，但承受气候变化的能力并没有增长。以中国为例，水稻种植从华中扩大到华北，同时加大了炎热地区的灌溉力度，因此大米的产量才略有增长。",
-          "link": "https://www.solidot.org/story?sid=84057",
-          "publishedOn": "2026-04-15T16:34:40.000Z",
-          "wordCount": 170,
-          "title": "全球暖化危及水稻产量",
           "imageUrl": null
         }
       ]
