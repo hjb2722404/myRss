@@ -2,10 +2,172 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-04-29T05:24:27.453Z</updated>
+    <updated>2026-04-30T05:28:19.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Copy Fail：2017年至今的漏洞，一个脚本获得 Linux root 管理员权限｜CVE-2026-31431]]></title>
+        <id>https://www.appinn.com/copy-fail-cve-2026-31431/</id>
+        <link href="https://www.appinn.com/copy-fail-cve-2026-31431/"/>
+        <updated>2026-04-30T03:32:57.000Z</updated>
+        <summary type="html"><![CDATA[只需要10行代码，就能获得自2017年至今大多数 Linux 发行版本的 root 权限。史称 Copy Fail，漏洞编号 CVE-2026-31431 先看提权演示视频 演示代码 代码来自这里，请仅在自己的机器上测试该漏洞： Linux 里有一种比较底层的接口，叫 AF_ALG，用来给]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zed 编辑器发布 1.0 版本]]></title>
+        <id>https://www.solidot.org/story?sid=84187</id>
+        <link href="https://www.solidot.org/story?sid=84187"/>
+        <updated>2026-04-29T15:36:21.000Z</updated>
+        <summary type="html"><![CDATA[用 Rust 开发的文本编辑器项目 Zed 宣布发布 1.0 版本。开发者表示 1.0 版本并不意味着“完成”或“完美”，而是意味着到达了一个关键点。开发者还宣称 Zed 编辑器是一个 AI 原生编辑器，能并行运行多个 AI 智能体，包括 Claude Agent、Codex、OpenCode，以及 Cursor。AI 构建在编辑器的基础架构之中，而不是附加组件。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[contrast()]]></title>
+        <id>https://css-tricks.com/?page_id=392899</id>
+        <link href="https://css-tricks.com/almanac/functions/c/contrast/"/>
+        <updated>2026-04-29T14:58:19.000Z</updated>
+        <summary type="html"><![CDATA[The contrast() filter function increases or decreases the contrast of an element.
+contrast() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[contrast-color()]]></title>
+        <id>https://css-tricks.com/?page_id=392903</id>
+        <link href="https://css-tricks.com/almanac/functions/c/contrast-color/"/>
+        <updated>2026-04-29T14:57:48.000Z</updated>
+        <summary type="html"><![CDATA[The contrast-color() function takes a <color> and returns either black or white, whichever is the most contrasting color for that value.
+contrast-color() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Gabriel Shoyombo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[城里的鸟更怕女性，原因未知]]></title>
+        <id>https://www.solidot.org/story?sid=84186</id>
+        <link href="https://www.solidot.org/story?sid=84186"/>
+        <updated>2026-04-29T14:23:47.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《People and Nature》期刊上的一项研究，欧洲大山雀和其它 36 种鸟更惧怕女性，原因未知。研究显示，在鸟儿飞走前男性能比女性多靠近大约一米距离。无论男女衣着，是否长发，身高如何，以何种方式接近鸟，这种现象始终存在。鸟类或许能辨别人类的性别，但具体机制并不清楚。研究人员观察了生活在五个欧洲国家城市中心的鸟类，其中包括已知一见到人类就会飞走的鸟类如喜鹊，以及倾向于稍迟才飞走的鸟类如鸽子。对女性表现出过度恐惧的反应在不同鸟类中间是一致的。研究人员猜测鸟可能通过气味或步态辨别性别。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.icu 域名被短暂劫持]]></title>
+        <id>https://www.solidot.org/story?sid=84185</id>
+        <link href="https://www.solidot.org/story?sid=84185"/>
+        <updated>2026-04-29T13:50:18.000Z</updated>
+        <summary type="html"><![CDATA[中国网民报告 .icu 顶级域名的权威服务器在短时间内解析到了错误的 IP。.icu 最知名的域名可能是 996.ICU。不同于个别域名被错误解析，域名服务器被错误解析可能会导致影响扩大化。4 月 28 日 6:22 a.m. UTC 进行的测试显示，.icu 权威服务器之一的 b.nic.icu 在 58.13% 的情况下解析到正确 IP，其余解析到污染 IP。到 16:00 UTC 问题基本解决，99.38% 解析到正确 IP，仅 0.63% 返回污染 IP。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[荷兰政府上线开源代码托管平台]]></title>
+        <id>https://www.solidot.org/story?sid=84184</id>
+        <link href="https://www.solidot.org/story?sid=84184"/>
+        <updated>2026-04-29T13:16:29.000Z</updated>
+        <summary type="html"><![CDATA[荷兰政府上线了它自己的开源代码托管平台 code.overheid.nl。该平台是基于 Forgejo——Forgejo 是 Gitea 的分支，是一个类似 GitHub 的 Git 软件开发和版本控制平台，支持 bug 跟踪、Wiki 和代码审查等功能。该平台托管于荷兰政府基础设施之上，所有政府机构都可以免费使用。荷兰政府表示此举是加强数字主权行动的一部分。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[报告称逾三分之二婴儿使用屏幕，最多花 8 小时在屏幕上]]></title>
+        <id>https://www.solidot.org/story?sid=84183</id>
+        <link href="https://www.solidot.org/story?sid=84183"/>
+        <updated>2026-04-29T10:26:16.000Z</updated>
+        <summary type="html"><![CDATA[一份报告发现，逾三分之二两岁以下婴儿使用屏幕，少数婴儿每天最多花 8 小时在屏幕上。近三分之一新生儿每天看屏幕的时间超过三小时，4-11 个月大的婴儿近 20% 每天使用屏幕逾一小时。已有证据表明，屏幕时间与儿童肥胖、近视、睡眠和行为问题风险，以及长大后社交问题等负面影响相关联。新生儿父母允许婴儿使用屏幕的一大理由是分散他们注意力，让自己有时间做其它家务活或工作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克称他创办非盈利的 OpenAI 是为了对抗 Google]]></title>
+        <id>https://www.solidot.org/story?sid=84182</id>
+        <link href="https://www.solidot.org/story?sid=84182"/>
+        <updated>2026-04-29T09:55:43.000Z</updated>
+        <summary type="html"><![CDATA[2024 年马斯克（Elon Musk）向旧金山高等法院起诉 OpenAI 及其联合创始人 Sam Altman 和 Greg Brockman 违反公司的创始原则，将商业利益置于公共利益之上。OpenAI 则公开了马斯克的邮件，证明作为曾经的联合创始人，马斯克同意 OpenAI 建立一个盈利实体，还表示将提供资金，但之后暂停了资金支持，他的目的是获得多数股权和董事会控制权，双方最终因此终止了合作。本周这起诉讼正式进入审讯阶段，马斯克在法庭上作证，称创办 OpenAI 是将其作为一家非盈利公司去对抗 Google，如果 OpenAI 的目标是盈利他不会支持它。马斯克称他在与 Google 联合创始人 Larry Page 就 AI 安全问题上发生争执后萌生了创办非盈利 AI 公司的想法。他担心 Page 没有认真对待 AI 安全问题，因此希望通过一个非盈利的开源替代方案去对抗 Google。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vim 替代者？微软开源命令行编辑器 Edit 2.0.0 发布，新增语法高亮功能，大小不到 300kB]]></title>
+        <id>https://www.appinn.com/microsoft-edit-v2/</id>
+        <link href="https://www.appinn.com/microsoft-edit-v2/"/>
+        <updated>2026-04-29T09:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Edit 是微软去年开源的命令行编辑器，它支持鼠标控制菜单、可同时打开多个文件、拥有查找与替换功能、支持自动换行。2.0.0 版本新增语法高亮功能，增加了40KB，使体积达到了 294KB（Linux 下）。@Appinn Edit 支持 Windows、Linux 与 macOS，不过 Windo]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打呵欠有助于大脑清理脑液]]></title>
+        <id>https://www.solidot.org/story?sid=84181</id>
+        <link href="https://www.solidot.org/story?sid=84181"/>
+        <updated>2026-04-29T08:57:25.000Z</updated>
+        <summary type="html"><![CDATA[打哈欠是一种常见的人类行为，可能是感觉疲劳或无聊，或者是看到同伴打哈欠的反射行为。但科学家至今并不清楚人类为什么要打呵欠。根据发表在《Respiratory Physiology & Neurobiology》期刊上的一项研究，澳大利亚研究人员利用实时 MRI 扫描技术，观察了打哈欠时头部和颈部内部的变化，与正常呼吸和深呼吸进行对比。结果显示，打哈欠会触发一种特定的脑脊液和静脉血同时流出颅骨，而深呼吸时脑脊液则会流入颅骨。脑脊液充当了缓冲，能保护大脑和脊髓免受损伤，还能帮助输送营养物质和排出垃圾。研究表明打哈欠有助于清除脑脊液，其作用很可能是发生在临睡前。这项研究为理解打哈欠的生理功提供了一条新途径。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iStat Menus 7 – macOS 必备，优雅的系统监控工具]]></title>
+        <id>https://www.appinn.com/istat-menus-7/</id>
+        <link href="https://www.appinn.com/istat-menus-7/"/>
+        <updated>2026-04-29T08:28:43.000Z</updated>
+        <summary type="html"><![CDATA[iStat Menus 7 是老牌 macOS 系统监控工具，以监控信息全面与设计优美著称。它可以在菜单栏显示 CPU、内存、硬盘、网络、温度、风扇、电池等信息，可高度自定义。@Appinn iStat Menus 7 大概是 Mac 老牌工具中极少没有同品质替代品的工具了。青小蛙也是用了很多年，以]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食肉细菌在三天内就破坏了男子的手臂和腿]]></title>
+        <id>https://www.solidot.org/story?sid=84180</id>
+        <link href="https://www.solidot.org/story?sid=84180"/>
+        <updated>2026-04-29T07:35:21.000Z</updated>
+        <summary type="html"><![CDATA[食肉细菌短短三天内就破坏了一位 74 岁佛罗里达男子的手臂和腿。三天前他还身体健康，还在海边活动，但在跳入水中时他的右腿被划伤了，伤口很快疼痛难忍，而且右臂的颜色也变了。他被送往医院急救，其右腿进行了膝上截肢手术。医生对其血液和组织样本的检测发现他感染了创伤弧菌（Vibrio vulnificus），一种生活在温暖咸淡水的食肉细菌。创伤弧菌通过两种途径感染人类：其一是通过伤口接触受污染的水，其二是食用受污染的海鲜。创伤弧菌会释放出各种毒素杀死感染者，感染者的总死亡率高达 35%，如果存在免疫功能问题或肝脏疾病，死亡率会进一步提高到 50%-60%。如果抗生素治疗或坏死组织切除手术延误，死亡率将是 100%。在本病例中，该男子最终幸存。该病例凸显了创伤弧菌在气候变化下日益加剧的威胁。美国 CDC 建议只食用完全煮熟的海鲜，以及在身上有创口的情况下避免进入咸淡水。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghostty 项目将退出 GitHub 平台]]></title>
+        <id>https://www.solidot.org/story?sid=84179</id>
+        <link href="https://www.solidot.org/story?sid=84179"/>
+        <updated>2026-04-29T06:52:02.000Z</updated>
+        <summary type="html"><![CDATA[终端模拟器项目 Ghostty 宣布将退出 GitHub 平台，原因是在微软治理下 GitHub 越来越不稳定，严重扰乱开发者的工作。开发者称，过去一个月 GitHub 几乎天天宕机。GitHub 是工作的平台，如果每天都要宕机数小时那么它不再是一个可以工作的地方。Ghostty 项目将在未来几个月公布迁移细节，GitHub 上的项目将成为一个只读镜像。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora Linux 44 释出]]></title>
+        <id>https://www.solidot.org/story?sid=84177</id>
+        <link href="https://www.solidot.org/story?sid=84177"/>
+        <updated>2026-04-29T05:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Fedora 项目释出了 Fedora Linux 44。新版本搭载了最新桌面环境 GNOME 50 和 Plasma 6.6，针对桌面用户的变化包括：Wine 和 Steam (RPM Fusion) 默认启用能显著提升游戏性能的 NTSYNC 内核模块，Budgie 10.10，Atomic Desktops 移除了 FUSE 2，IBus 1.5.34，ibus-speech-to-text 支持 WhisperCpp 语音识别引擎。针对开发者的变化包括：LLVM 22，GNU C Compiler (gcc) 16.1，GNU Binary Utilities (binutils) 2.46，GNU C Library (glibc) 2.43，GNU Debugger (gdb) 16.3，Boost 1.90，Golang 1.26，Django 6.0，Helm 4，PHP 8.5，Ruby 4.0 等等。更多可浏览发布公告。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[著名终端 Warp 开源，由 OpenAI 赞助]]></title>
+        <id>https://www.appinn.com/warp-open-source-now/</id>
+        <link href="https://www.appinn.com/warp-open-source-now/"/>
+        <updated>2026-04-29T05:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Warp 在官方博客上宣布开源：Warp is now open-source，采用 AGPL 许可。OpenAI 是新的开源 Warp 创始赞助商。目前其 GitHub 仓库已经获得了34.7K 星星。@Appinn Warp 是一款非常著名的跨平台终端工具，它结合了 AI、编辑器，用最不像终端的]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notepad++ for Mac 发布，全新项目，与原版、原作者无关]]></title>
         <id>https://www.appinn.com/notepad-plus-plus-for-mac/</id>
@@ -1006,167 +1168,6 @@ Enhancing Astro With a Markdown Component originally handwritten and published w
         <link href="https://www.appinn.com/community-letter-from-tim/"/>
         <updated>2026-04-20T23:45:18.000Z</updated>
         <summary type="html"><![CDATA[苹果 CEO 向社区发布一封公开信，将卸任苹果CEO，由 John Ternus 接任。 原文链接：https://www.apple.com/community-letter-from-tim/ 致 Apple 社区： 在过去十五年里，我几乎每天都是从阅读你们的来信开始新的一天。你们来自世界各地，]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 2027 年起欧盟销售的智能手机和平板必须能更换电池]]></title>
-        <id>https://www.solidot.org/story?sid=84099</id>
-        <link href="https://www.solidot.org/story?sid=84099"/>
-        <updated>2026-04-20T14:35:22.000Z</updated>
-        <summary type="html"><![CDATA[根据欧盟的新规定，从 2027 年起欧洲销售的智能手机和平板电脑必须配备可更换电池。此举旨在减少电子垃圾。欧盟地区每年售出约 1.5 亿部智能手机和 2400 万台平板电脑，相当于每年产生约 500 万吨电子垃圾，只有不到四成的电子垃圾被妥善回收。强制电池可更换的规定于 2027 年 2 月 18 日生效，它还规定任何便捷式电子产品的替换电池必须在产品最后一台投放市场后至少五年内继续供应。电池必须能由消费者自行替换，如果需要专用工具则必须在出售时免费提供。欧盟的新规定还要求操作系统的更新必须持续至少五年。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诺奖得主对人类再生存 50 年感到悲观]]></title>
-        <id>https://www.solidot.org/story?sid=84098</id>
-        <link href="https://www.solidot.org/story?sid=84098"/>
-        <updated>2026-04-20T14:21:56.000Z</updated>
-        <summary type="html"><![CDATA[美国理论物理学家 David Gross 因与学生 Frank Anthony Wilczek 发现了量子色动力学中的渐近自由而在 2004 年共同获得诺贝尔物理学奖，2026 年 4 月 18 日他因为其一生对理论物理学的开创性贡献而获得了基础物理学突破奖的特别奖，获得了 300 万美元奖金。他在接受采访时被问到理论物理学是否可能在 50 年内实现大一统时表示，人类能再生存 50 年的概率非常小。他说，人类每年爆发核战争的概率大约为 2%，过去十年大国之间没有签署任何条约，人类正陷入一场惊人的军备竞赛。最近的一系列事件都增加了核战争的风险，2% 的概率已是保守估计了。当今世界有 9 个拥有核武器的国家，其中三个是核超级大国，情况比两个核大国复杂得多，国家之间的协议和规范都在瓦解。他认为人类能再生存一百年的概率微乎其微，再生存两百年的概率更是趋向于无限小了。所以费米提出的“银河系所有文明所有智慧生命都去哪里？为什么不与人类交流？”的悖论的答案是它们已经自我毁灭了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markdown + Astro = ❤️]]></title>
-        <id>https://css-tricks.com/?p=392278</id>
-        <link href="https://css-tricks.com/markdown-astro/"/>
-        <updated>2026-04-20T13:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Although Astro has built-in support for Markdown via .md files, I'd argue that your Markdown experience can be enhanced with MDX.
-Markdown + Astro = ❤️ originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub 上项目的伪造星数]]></title>
-        <id>https://www.solidot.org/story?sid=84097</id>
-        <link href="https://www.solidot.org/story?sid=84097"/>
-        <updated>2026-04-20T13:18:52.000Z</updated>
-        <summary type="html"><![CDATA[在最大的源代码托管平台 GitHub，一个项目的星数曾经是衡量其受欢迎程度的重要指标。因为重要，因此伪造星数或者付费刷星数也日益商业化。卡内基梅隆、北卡州立大学和 Socket 的研究人员在 ICSE 2026 上发表了一项研究，使用工具 StarScout 分析了 20TB GitHub 元数据，涵盖 2019 年到 2024 年 67 亿个事件和 3.26 亿星数，识别了 600 万被怀疑刷的虚假星数，涉及 30.1 万个账户创建的 18,617 个库。付费刷星数在 2024 年急剧恶化，到 7 月 16.66% 有 50 或以上星数的项目涉嫌刷星数。到了 2025 年 1 月，涉嫌刷星数的项目有 90.42% 被官方移除，涉嫌的账号有 57.07% 被关闭。AI 和 LLM（大模型）的项目超过区块链/加密货币，成为刷星数最多的非恶意项目类别。调查发现有几十家网站、以及 Fiverr 卖家和 Telegram 频道提供付费刷星数的服务，价格最低 0.03 美元/星，最高 0.8-0.9 美元/星。清华大学的一项研究发现 QQ 和微信推广群也提供了刷星数的付费服务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WireGuard For Windows v1.0 释出]]></title>
-        <id>https://www.solidot.org/story?sid=84096</id>
-        <link href="https://www.solidot.org/story?sid=84096"/>
-        <updated>2026-04-20T10:49:08.000Z</updated>
-        <summary type="html"><![CDATA[WireGuard 作者 Jason Donenfeld 在邮件列表上宣布 WireGuard For Windows 以及 Windows 下内核模式实现 WireGuardNT 释出 v1.0。WireGuard 是开源 VPN 协议和自由开源软件，旨在获得比 IPsec 和 OpenVPN 更好的性能。项目在 2015 年发布了最早的版本，2020 年其 Linux 版本达到稳定生产阶段，正式合并到内核主线。Windows 版本从测试阶段到成熟又经历了五年时间。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brave 推出付费版 Brave Origin，Linux 版免费]]></title>
-        <id>https://www.solidot.org/story?sid=84095</id>
-        <link href="https://www.solidot.org/story?sid=84095"/>
-        <updated>2026-04-20T09:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Brave 推出了付费版浏览器 Brave Origin，该版本移除了原版内置的变现功能如 Rewards。Origin 可单独下载，或作为现有版本的升级，一次购买即可解锁，可以在多个设备上激活。Origin 的 Linux 版本是免费的，这可能会让 Windows 付费版用户困惑：为什么他们要为别人免费获得的东西付费？]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第三方罗技鼠标驱动：Mouser，轻量，开源，离线[跨平台]]]></title>
-        <id>https://www.appinn.com/mouser-alternative-to-logitech-options/</id>
-        <link href="https://www.appinn.com/mouser-alternative-to-logitech-options/"/>
-        <updated>2026-04-20T09:12:52.000Z</updated>
-        <summary type="html"><![CDATA[1月份时候发了一篇《罗技驱动 Logitech Options+ 精简瘦身小工具》  提供了一个可以按需开启功能的安装脚本「tjsky/logi-options-plus-mini」 。没想到大家苦罗技久矣，这项目发布后不仅大家很是捧场，还被某知名科技自媒体翻牌子引用，成了我 GitHub 上 St]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sruthi Chandran 当选为 DPL]]></title>
-        <id>https://www.solidot.org/story?sid=84094</id>
-        <link href="https://www.solidot.org/story?sid=84094"/>
-        <updated>2026-04-20T08:20:13.000Z</updated>
-        <summary type="html"><![CDATA[2026 年 Debian 项目领导人（DPL）选举结束，唯一的候选人、来自印度的图书管理员 Sruthi Chandran 当选，她将于 4 月 21 日上任。Sruthi Chandran 从图书管理员转为自由软件爱好者和 Debian 开发者，自 2016 年以来一直参与 Debian 的 Ruby、JavaScript、Go 和字体软件包的开发，但近期开发不再活跃，她还是 Community Team 代表，Outreach 团队成员，DebConf Committee 成员。她希望能帮助提升 Debian 社区的多元性，推动多元性议题的讨论。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 开始菜单，差点变成另外 5 种样子]]></title>
-        <id>https://www.appinn.com/windows-start-menu-5-style/</id>
-        <link href="https://www.appinn.com/windows-start-menu-5-style/"/>
-        <updated>2026-04-20T07:48:43.000Z</updated>
-        <summary type="html"><![CDATA[下面这些图片是微软发布的 Windows 11 开始菜单设计稿，从未使用过。 回忆 回想一下你第一次按下 “开始 “键的情景。 也许你九岁时借用妈妈的笔记本电脑玩扫雷游戏。 也许你当时 23 岁，正在赶最后期限，寻找 PowerPoint。 青小蛙当时连启动程序都不会，插入光]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊 Fire 电视棒不再支持侧载]]></title>
-        <id>https://www.solidot.org/story?sid=84093</id>
-        <link href="https://www.solidot.org/story?sid=84093"/>
-        <updated>2026-04-20T07:36:33.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊正式声明，新款 Fire 电视棒不再支持从其官方应用商店之外的任何来源侧载 Android 应用。从去年发布的 Fire TV Stick 4K Select 开始，未来的 Fire 电视棒都将运行基于 Linux 的操作系统 Vega，不支持侧载非亚马逊官方应用商店之外的应用。上周亚马逊发布 Fire TV Stick HD 时在其产品页面加入了声明：为增强安全性，本设备禁止侧载或安装来自未知来源的应用。仅可下载来自亚马逊应用商店的应用。亚马逊自有品牌设备如今都运行 Vega。旧型号 Fire 电视棒仍然运行基于 Android 的操作系统，不会升级到 Vega，也不会限制侧载，此前 Fire 电视棒一直被批评助长了盗版，因为用户可以侧载能播放盗版内容的应用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[偏头痛发作增加与空气污染相关]]></title>
-        <id>https://www.solidot.org/story?sid=84092</id>
-        <link href="https://www.solidot.org/story?sid=84092"/>
-        <updated>2026-04-20T06:51:08.000Z</updated>
-        <summary type="html"><![CDATA[研究团队对 7032 名生活在以色列南部内盖夫沙漠地区的偏头痛患者进行了平均 10 年的随访，分析其每日暴露于交通、工业及沙尘暴带来的空气污染情况以及气象条件，并与患者因急性偏头痛就医时间进行对比，同时追溯发作前 7 天内的环境变化。研究还通过药房记录统计了曲坦类药物（专门用于缓解偏头痛发作的药物）的使用情况。结果显示，约 32% 的参与者至少因急性偏头痛就医一次，47% 的人曾购买曲坦类药物。在偏头痛就诊人数最多的日子，PM10、PM2.5 及二氧化氮（NO2）浓度均显著高于平均水平；而就诊人数最少时，污染水平也相对较低。短期暴露于高水平 NO2 的人群，因偏头痛就医的概率增加 41%；暴露于较强紫外线辐射的人群，就医概率增加 23%。从长期来看，持续暴露于高 NO2 和 PM2.5 水平的人群，偏头痛药物使用率分别增加 10% 和 9%。进一步分析表明，高温、低湿环境会增强 NO2 对偏头痛的影响，而寒冷潮湿条件则会加剧 PM2.5 的作用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不用再右键“以管理员身份运行”了：为 Windows 11开启原生 sudo 功能（微软官方）]]></title>
-        <id>https://www.appinn.com/sudo-for-windows/</id>
-        <link href="https://www.appinn.com/sudo-for-windows/"/>
-        <updated>2026-04-20T06:31:59.000Z</updated>
-        <summary type="html"><![CDATA[在 Windows 中，会经常遇到权限不足的情况，这时需要使用右键选择「以管理员身份运行」程序。而在 Linux 中，只需要在命令前添加 sudo 就能实现提权。 其实 Windows 11 有一个自带的 Sudo 功能，微软在 2024 年就推出了这个与 Linux 同名同功能的工具。 Sudo]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue Origin 第二次回收 New Glenn 火箭但上面级未能成功入轨]]></title>
-        <id>https://www.solidot.org/story?sid=84091</id>
-        <link href="https://www.solidot.org/story?sid=84091"/>
-        <updated>2026-04-20T06:15:42.000Z</updated>
-        <summary type="html"><![CDATA[贝佐斯（Jeff Bezos）旗下的 Blue Origin 公司于上周日执行了 New Glenn 重型火箭的第三次飞行，火箭第一级顺利回收，但上面级未能成功将 AST SpaceMobile 的蜂窝宽带通信卫星送入正确的轨道，这次发射被认为失败了。New Glenn 是直径 7 米的两级构型火箭。其第一级火箭由 7个 BE-4 发动机提供动力，它被设计为可重复使用。第二级/上面级则为一次性使用。New Glenn 于 2025 年 1 月 16 日执行了首次发射。去年 11 月的第二次飞行成功回收了第一级。此次发射使用的第一级就是去年底回收的，它被命名为 Never Tell Me The Odds。AST SpaceMobile 的 6 吨重通信卫星原计划发射到高度 460 公里倾角为 49 度的轨道，但被送入了一个低得多的轨道，无法靠自带的推进器维持运行。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟推动远程办公以缓解能源危机]]></title>
-        <id>https://www.solidot.org/story?sid=84090</id>
-        <link href="https://www.solidot.org/story?sid=84090"/>
-        <updated>2026-04-20T05:47:50.000Z</updated>
-        <summary type="html"><![CDATA[欧盟委员会将鼓励远程办公，并为公共交通提供补贴，以减少化石燃料使用；目前，各国正艰难应对中东战事引发的能源价格冲击。欧委会将于本周向成员国提出一系列措施，以降低能源需求、提高能效，并推动向清洁电力转型。这些举措旨在为高企的能源价格提供“即时缓解”。这些建议基于俄罗斯入侵乌克兰后引发的上一轮能源危机期间实施的各项措施。它们旨在减少对化石燃料的依赖，并鼓励使用绿色能源。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚂蚁也有清洁工]]></title>
-        <id>https://www.solidot.org/story?sid=84089</id>
-        <link href="https://www.solidot.org/story?sid=84089"/>
-        <updated>2026-04-20T05:44:56.000Z</updated>
-        <summary type="html"><![CDATA[鱼类中有“清洁鱼”——即帮助清洁大鱼身上寄生虫的小鱼，蚂蚁中也有给大蚂蚁清洁身体的小蚂蚁。根据发表在《Ecology and Evolution》期刊上的一项研究，昆虫学家观察到体型巨大的收获蚁涌到体型很小的锥蚁（cone ants）巢穴入口，双腿伸开，大颚张开，静静等待小蚂蚁爬上它们身上，舔舐啃啃。一只收获蚁身上有时会有五只小锥蚁。收获蚁会彼此清理身上的垃圾和寄生虫，但可能这种清洁并不彻底，因此需要小蚂蚁进行更深入的清理工作。但其他科学家提出了不同的意见，有昆虫学家认为它们是在交换信息素彼此安抚，或者交换有益的微生物为两种蚂蚁创造更健康的微生物群落。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发现频道：最近10日的热门排行榜[2026年第16期]]]></title>
-        <id>https://www.appinn.com/faxian-top10-2616/</id>
-        <link href="https://www.appinn.com/faxian-top10-2616/"/>
-        <updated>2026-04-20T01:47:10.000Z</updated>
-        <summary type="html"><![CDATA[最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 第三方罗技鼠标驱动：Mouser，轻量，开源，离线 2️⃣ 随身 FM – 一款干净简洁无广告在线听广播电台的 APP 3️⃣ OmniGet — 开源桌面下载器，原生支持 Bilibi]]></summary>
         <author>
             <name>青小蛙</name>
         </author>
