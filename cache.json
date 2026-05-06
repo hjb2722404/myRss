@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/daemon-tools-supply-chain-attack/",
+          "author": "青小蛙",
+          "description": "DAEMON Tools 是一款有20多年历史的著名虚拟光盘工具，它可以把镜像文件虚拟成一张真实的光盘，广泛应用在上世纪的 Windows 电脑中。是的，它还活着。 感谢肯尼同学的提醒。 卡巴斯基近日披露：我们的专家发现了通过 DAEMON Tools 进行的大规模供应链攻击。攻击者设法将恶意代码注",
+          "link": "https://www.appinn.com/daemon-tools-supply-chain-attack/",
+          "publishedOn": "2026-05-06T03:51:59.000Z",
+          "wordCount": 2793,
+          "title": "卡巴斯基披露，上古软件 DAEMON Tools 爆大规模供应链攻击",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-06T114953.747.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/uni-utities/",
+          "author": "青小蛙",
+          "description": "你知道你所在的省，有多少所大学吗？你所在的城市，都有哪些学校？985、211、双一流，都分布在哪些地方？哪些城市高校更集中？ 来自发现频道的 @花野猫 同学，推荐了自己的新项目：https://meta.appinn.net/t/topic/84538 他能干什么？ 高校数据可视化工具 这是我开发的",
+          "link": "https://www.appinn.com/uni-utities/",
+          "publishedOn": "2026-05-05T12:55:55.000Z",
+          "wordCount": 2740,
+          "title": "中国高校分布地图：全国近 3000 所高校数据可视化工具",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-05T205341.190.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/synology-photos-1-9-0-10924/",
+          "author": "青小蛙",
+          "description": "Synology Photos 的服务器端在上个月底为 DSM 7.2  更新了 1.9.0-10924 版本，而移动客户端的最近一次更新是2026年3月份。这对群晖的存量用户来说，意味着还可以放心的将照片保存在 Synology Photos 中，暂时不用迁移，不用折腾。 Synology Pho",
+          "link": "https://www.appinn.com/synology-photos-1-9-0-10924/",
+          "publishedOn": "2026-05-05T07:01:28.000Z",
+          "wordCount": 2721,
+          "title": "Synology Photos 服务器端更新，新增收藏夹功能",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-05T145355.613.jpg"
+        },
+        {
           "id": "https://www.appinn.com/faxian-top10-2618/",
           "author": "青小蛙",
           "description": "最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【开源免费自荐】无羁 音乐播放器：一款现代化的 Windows 在线和本地音乐播放器 2️⃣ 推荐一款在Win下替代剪贴板工具(Win+V)的工具 3️⃣ 分享我写的高校数据可视化工具 4️⃣ 5套",
@@ -140,16 +170,6 @@
           "wordCount": 2651,
           "title": "发现频道：最近10日的热门排行榜[2026年第17期]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-16.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/urboquant-wasm-draw-gemma-4/",
-          "author": "青小蛙",
-          "description": "手机上能跑 Gemma 4 大模型已经不新鲜了（iPhone、安卓现在就能跑 Gemma 4 了），现在浏览器也可以了。@Appinn 有开发者利用 Google 新提出的 TurboQuant 算法，把 Gemma 4 放进浏览器里运行。 直接打开网页，就能在 Excalidraw 里用 AI 画",
-          "link": "https://www.appinn.com/urboquant-wasm-draw-gemma-4/",
-          "publishedOn": "2026-04-26T05:54:46.000Z",
-          "wordCount": 2730,
-          "title": "浏览器里跑 Gemma 4：不用 API、不花钱，无限量生成 Excalidraw 流程图",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/04/Copy-of-appinn-homework-2026-04-26T135226.840-1.jpg"
         }
       ]
     },
@@ -259,6 +279,26 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84213",
+          "author": null,
+          "description": "MS Edge 浏览器被发现启动时会在内存中明文加载其保存的所有密码。相比下 Chrome 只在需要时解密凭证，没有将所有密码保存在内存中。Edge 和 Chrome 都是基于开源的 Chromium。微软的做法让从内存中抓取重要数据变得更容易，也增加了共享环境下密码泄露的风险。安全研究人员将这一问题报告给了微软，收到的回应是该行为就是这么设计的。研究人员在 GitHub 上发布了概念演示工具  EdgeSavedPasswordsDumper。",
+          "link": "https://www.solidot.org/story?sid=84213",
+          "publishedOn": "2026-05-05T14:12:37.000Z",
+          "wordCount": 177,
+          "title": "MS Edge 被发现会在内存中明文加载所有密码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84212",
+          "author": null,
+          "description": "有 39 年历史的 Roguelike 游戏 NetHack 释出 5.0 版本。NetHack 在 1987 年发布了最早的版本，名字中的 Net 指的是通过网络合作开发，Hack 则指的是角色扮演中的 hack 和 slash。玩家可以在游戏中扮演骑士、野蛮人、巫师、游侠、女武神、僧侣和武士等不同职业，目标是在地下城的最底层获取 Yendor 的项链并将其供奉给自己的神灵。NetHack 5.0 除了支持 Windows，还支持 MS-DOS 和 Amiga，此外它是完全开源的，可以编译在  Linux 等类 Unix 系统运行。NetHack 5.0 现在可以通过支持 C99 标准的编译器进行编译，使用 Lua 生成地下城，在游戏初期阶段新增了一个可选教程，等等。",
+          "link": "https://www.solidot.org/story?sid=84212",
+          "publishedOn": "2026-05-04T15:55:34.000Z",
+          "wordCount": 204,
+          "title": "NetHack 释出 5.0 版本",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84211",
           "author": null,
@@ -797,36 +837,6 @@
           "publishedOn": "2026-04-27T03:31:27.000Z",
           "wordCount": 186,
           "title": "调查称半数澳大利亚青少年仍然能访问社交媒体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84153",
-          "author": null,
-          "description": "最近热衷于研究敌基督的 Palantir 联合创始人 Peter Thiel 移居阿根廷。他在布宜诺斯艾利斯富人区购置了一座价值 1200 万美元的新豪宅，据报道计划长期定居，他与其丈夫 Matt Danzeisen 本周在玫瑰宫(Casa Rosada)会见了阿根廷总统 Javier Milei，当时在场的还有阿外交部长 Pablo Quirno。Thiel 等科技亿万富翁被认为是在寻找避险之地，因为他们相信随着科技进步造成广泛的经济和政治混乱，美国等国将经历一场崩溃，而新西兰以及阿根廷都被视为是极佳的候选避险之地，这些地方比较偏远，但有着较高的公共卫生水平，以及低成本的食品产地。他已经在新西兰获得了公民身份，拥有欧洲地区的马耳他护照。",
-          "link": "https://www.solidot.org/story?sid=84153",
-          "publishedOn": "2026-04-26T16:03:46.000Z",
-          "wordCount": 181,
-          "title": "Peter Thiel 移居阿根廷",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84152",
-          "author": null,
-          "description": "特朗普解雇了美国国家科学委员会所有 24 名成员。美国国家科学委员会成立于 1950 年，其成员由总统任命，他们通常是杰出学者和行业领袖，任期六年，每两年改选八名成员。他们的工作包括就国家科学政策向政府和国会提供建议，监督美国国家科学基金会（NSF）的运作。他们本身不负责拨款，而是就国家科研优先事项提供建议。他们被解雇被认为是在 2025 年 5 月发表联署公开信，反对削减国家科学基金会的预算，从而激怒了特朗普政府。",
-          "link": "https://www.solidot.org/story?sid=84152",
-          "publishedOn": "2026-04-26T15:13:07.000Z",
-          "wordCount": 173,
-          "title": "特朗普解雇了美国国家科学委员会所有 24 名成员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84151",
-          "author": null,
-          "description": "Ali Alkhatib 认为 AI 是一个政治项目，其意图是将权力和能动性从个人和组织转移至中心化的权力结构。这些权力结构目前主要集中在少数科技巨头以及它们投入巨资的 AI 实验室手中。现代 AI 系统脱胎于暴力也是基于暴力：其第一种暴力形式是数据获取的暴力，AI 公司的爬虫无视任何规则抓取数据；第二种暴力形式发生在数据标注和清洗过程中；第三种暴力形式则是其数据集带有殖民主义的西方视角；第四种是利用 AI 工具对边缘群体施加暴力，比如 grok 的比基尼改图。AI 被认为能提高生产力，但实际过程中它却是被用于压榨员工。企业通过指出 AI 可取代员工迫使员工更努力工作，而不是要求加薪或改善工作条件，这种威胁削弱了员工的个人力量，让员工认为自己没有价值。自 ChatGPT 流行以来，制作虚假信息和操纵叙事比以往任何时候都认为，破坏了人类建立起来的可靠生产、验证和传播可信信息的基础设施，如果没有对 AI 输出的验证，使用者将是用信仰取代可信度。",
-          "link": "https://www.solidot.org/story?sid=84151",
-          "publishedOn": "2026-04-26T14:05:57.000Z",
-          "wordCount": 181,
-          "title": "AI 是一种压迫性技术",
           "imageUrl": null
         }
       ]
