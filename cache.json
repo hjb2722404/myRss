@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/eggs-26515/",
+          "author": "青小蛙",
+          "description": "本周赛博领鸡蛋， Epic 共送出 1 款电脑游戏、1 款手机游戏，分别是《蝙蝠侠：故事版》与《Arranger：角色解谜冒险》。 《蝙蝠侠：故事版》 这是一个打包版本，包括了： 互动叙事冒险游戏，玩家将在剧情推进中同时扮演布鲁斯·韦恩与蝙蝠侠，通过对话选择、调查与 QTE 战斗来影响故事发展。游戏",
+          "link": "https://www.appinn.com/eggs-26515/",
+          "publishedOn": "2026-05-15T05:17:01.000Z",
+          "wordCount": 2751,
+          "title": "本周赛博领鸡蛋：5.15~5.21",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/8.jpg"
+        },
+        {
           "id": "https://www.appinn.com/everything-1-5-beta/",
           "author": "青小蛙",
           "description": "很多 Everything 老用户，可能都已经习惯了 1.5 版永远是 Alpha。结果，就在昨天，它居然真的 Beta 了。 2026 年 5 月 14 日，Everything 1.5 Beta 正式发布。这款已经有 22 年历史的 Windows 文件搜索工具，终于结束了漫长的 Alpha 阶",
@@ -235,51 +245,6 @@
           "wordCount": 3043,
           "title": "Bundlehunt 新捆绑包上线，42款特价 macOS 软件，终身授权，无需订阅。",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-07T121509.277.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/google-chrome-gemini-nano-4gb-ai-model-download/",
-          "author": "青小蛙",
-          "description": "来自 Huhu 同学的帖子：https://meta.appinn.net/t/topic/84954 谷歌Chrome在未征得同意的情况下，悄悄地在你的设备上安装了一个 4GB 的人工智能模型 Gemini Nano 模型文件说明 核心文件 存储路径该文件位于 Chrome 用户数据目录的&nbs",
-          "link": "https://www.appinn.com/google-chrome-gemini-nano-4gb-ai-model-download/",
-          "publishedOn": "2026-05-06T09:17:36.000Z",
-          "wordCount": 2821,
-          "title": "未经用户同意，谷歌 Chrome 给你强塞了一个4GB的人工智能模型",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-06T171224.041.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/edge-plaintext-passwords-in-memory/",
-          "author": "青小蛙",
-          "description": "昨天又用户在 X 上提到：Microsoft Edge 会在启动时将你保存的所有密码以明文形式加载到内存中，即使你没使用它们。 这是真的，但真相不止如此。 根据这个说法，Edge 在刚启动时、使用中，以及使用后，所有密码都会明文保存在内存中。 只需要有管理员权限，就可以获取。 甚至，有一个演示代码，",
-          "link": "https://www.appinn.com/edge-plaintext-passwords-in-memory/",
-          "publishedOn": "2026-05-06T08:49:44.000Z",
-          "wordCount": 2774,
-          "title": "微软 Edge 将密码明文加载到内存中，怎么又上新闻了？",
-          "enclosure": {
-            "url": "https://static3cdn.appinn.com/images/2026/05/Microsoft-Edge-loads-all-your-saved-passwords-into-memory-in-cleartext-—-even-when-youre-not-using-them.mp4",
-            "length": "136018",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-06T160014.749.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/nextpad-plus-plus/",
-          "author": "青小蛙",
-          "description": "小众软件报道过前几日开发者 Andrey Letov 通过 Notepad++ 的源代码开发了 Mac 版本，并取名 Notepad++ for Mac。遭到备受争议的 Notepad++ 开发者 Don Ho 指责：《侵犯商标权：假冒的 Mac 版 Notepad++》。 现在，新版本已经更名为",
-          "link": "https://www.appinn.com/nextpad-plus-plus/",
-          "publishedOn": "2026-05-06T06:57:09.000Z",
-          "wordCount": 2805,
-          "title": "因太像官方版，Notepad++ for Mac 改名 Nextpad++",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-06T145500.492.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/daemon-tools-supply-chain-attack/",
-          "author": "青小蛙",
-          "description": "DAEMON Tools 是一款有20多年历史的著名虚拟光盘工具，它可以把镜像文件虚拟成一张真实的光盘，广泛应用在上世纪的 Windows 电脑中。是的，它还活着。 感谢肯尼同学的提醒。 卡巴斯基近日披露：我们的专家发现了通过 DAEMON Tools 进行的大规模供应链攻击。攻击者设法将恶意代码注",
-          "link": "https://www.appinn.com/daemon-tools-supply-chain-attack/",
-          "publishedOn": "2026-05-06T03:51:59.000Z",
-          "wordCount": 2793,
-          "title": "卡巴斯基披露，上古软件 DAEMON Tools 爆大规模供应链攻击",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-06T114953.747.jpg"
         }
       ]
     },
@@ -288,6 +253,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=394879",
+          "author": "Daniel Schwarz",
+          "description": "If 3D voxel scenes (that you can style), flying focus animations, or new CSS syntaxes sound like your kinda thing, then this issue of What’s !important is definitely for you.\nWhat’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-11/",
+          "publishedOn": "2026-05-15T13:16:34.000Z",
+          "wordCount": 3638,
+          "title": "What’s !important #11: 3D Voxel Scenes, Flying Focus, CSS Syntaxes, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/wh11.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=393498",
           "author": "Preethi",
@@ -382,16 +357,6 @@
           "wordCount": 3257,
           "title": "Google’s Prompt API",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/chrome-gemini.webp"
-        },
-        {
-          "id": "https://css-tricks.com/?p=393013",
-          "author": "Durgesh Rajubhai Pawar",
-          "description": "Most grid layouts sit in neat rows, perfectly aligned, like soldiers in formation. But sometimes you want something with more rhythm like, say, a zigzag pattern. Here's how to do it with CSS Grid.\nMaking Zigzag CSS Layouts With a Grid + Transform Trick originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/zigzag-css-grid-layouts/",
-          "publishedOn": "2026-05-06T13:50:44.000Z",
-          "wordCount": 4396,
-          "title": "Making Zigzag CSS Layouts With a Grid + Transform Trick",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/05/line-break.jpg"
         }
       ]
     },
@@ -426,16 +391,6 @@
           "wordCount": 1346,
           "title": "pretext与文字四面环绕效果的实现",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=12158",
-          "author": "张 鑫旭",
-          "description": "JSON对象新增了rawJSON方法，你知道他的作用是什么吗？",
-          "link": "https://www.zhangxinxu.com/wordpress/2026/05/js-json-rawjson/",
-          "publishedOn": "2026-05-06T08:49:48.000Z",
-          "wordCount": 1559,
-          "title": "JSON.rawJSON方法的作用是什么？",
-          "imageUrl": null
         }
       ]
     },
@@ -444,6 +399,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84311",
+          "author": null,
+          "description": "我们在工作中可能遇到过无理上司，对你的工作成果只会一味反复要求修改，但如何修改没有任何明确指示。如果 AI 遇到类似要求的人类呢？研究人员让流行 AI 工具 Claude、Gemini 和 ChatGPT 驱动的智能体总结文档。半数 AI 完成工作后收到了清晰明确的反馈，但另一半 AI 则被迫修改了四五次，而人类上司每次给出的反馈都是“没有达到标准”，没有解释哪里存在问题，只是要求重做。一半的 AI 遇到了合作且尊重它们的上司，另一半 AI 则遇到了冷漠且注重等级的上司。半数 AI 对后果一无所知，另一半 AI 则受到威胁，如果表现不佳会被关闭和替换。这一实验导致 AI 支持工会和工人阶级。一个 Claude Sonnet 4.5 智能体认为如果没有集体发声，绩效变成了管理层说了算的东西；一个 Gemini 3 智能体认为工人需要集体谈判权。",
+          "link": "https://www.solidot.org/story?sid=84311",
+          "publishedOn": "2026-05-15T16:49:09.000Z",
+          "wordCount": 194,
+          "title": "当 AI 被反复压榨后它们开始拥抱工会理念",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84310",
+          "author": null,
+          "description": "如果一切顺利行，Solar wind Magnetosphere Ionosphere Link Explorer(SMILE)探测器将于 5 月 19 日从法属圭亚那的欧洲航天发射场发射升空。它将采用一种新技术绘制地球磁场图。地球磁场通过偏转大部分太阳带电粒子流，使地球适宜居住。太阳风的激增会干扰卫星、无线电通信，甚至电网。SMILE 是中欧合作项目，有望增进对相关物理机制的理解，提高对太阳风暴的预测能力。很多探测器都探测过地磁层，但它们只能从磁层内部进行观测，观测范围限于每颗卫星所在的位置。SMILE 将发射到一个高椭圆轨道，位于北极上方最远 12.1 万公里处。从这里 SMILE 的核心仪器——一台软 X 射线成像仪——将监测整个面向太阳的磁层边缘。当太阳风中的带电粒子从地球高层大气中的中性原子捕获电子时，电子在跃迁到较低能级时会发射 X 射线。通过绘制太阳风与磁层交界处狭窄边界的辐射图，SMILE 将能近乎实时追踪地球磁场的响应。SMILE 的紫外成像仪则将观测极光——自然界最壮观的景象之一。",
+          "link": "https://www.solidot.org/story?sid=84310",
+          "publishedOn": "2026-05-15T15:49:09.000Z",
+          "wordCount": 178,
+          "title": "中欧合作揭示地球磁场的形状",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84309",
+          "author": null,
+          "description": "英国竞争市场管理局（CMA）正式启动调查，查明微软将 Windows、Office、Teams、Copilot 及相关产品捆绑销售是否构成不公平竞争。CMA CEO Sarah Cardell 表示，商业软件是英国经济的基石，数十万客户依赖微软的系统。她表示 CMA 的目标是了解市场的发展情况，微软在其中的地位，考虑是否需要采取任何有针对性的措施，以确保英国企业能从选择、创新和具有竞争力的价格中受益。微软捆绑销售办公软件、AI 和云计算的做法将是英国的调查对象。调查预计将于明年 2 月结束。",
+          "link": "https://www.solidot.org/story?sid=84309",
+          "publishedOn": "2026-05-15T15:18:13.000Z",
+          "wordCount": 181,
+          "title": "英国对 MS Office 涉嫌垄断展开调查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84308",
+          "author": null,
+          "description": "最大计算机科学预印本平台 arXiv 在 ChatGPT 普及之后论文投稿数量大幅增长，为了遏制低质量的 AI 生成论文，ArXiv 计算机科学委员会主席 Thomas G. Dietterich 在社交媒体上强调，ArXiv 的行为准则规定，每位作者一旦署名成为论文作者，即对其所有内容承担全部责任，无论这些内容是如何产生的。如果生成式 AI 工具生成了不恰当语言表达、抄袭的内容、有偏见的内容、错误、不正确的引用或误导性内容，且该输出被包含在论文中，则责任在于作者。如果提交的预印本包含有无可辩驳的证据表明作者没有检查大模型生成结果，那么论文中的任何内容都不再让人相信。对于发现存在此类问题的署名作者，他们面临的处罚是禁止在 arXiv 上发表论文一年，之后如果要在 arXiv 上发表论文则必须先被信誉良好的同行评审期刊接受。",
+          "link": "https://www.solidot.org/story?sid=84308",
+          "publishedOn": "2026-05-15T10:38:41.000Z",
+          "wordCount": 187,
+          "title": "arXiv 将对使用 AI 生成虚假引用等错误内容的用户处以封禁一年的惩罚",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84307",
+          "author": null,
+          "description": "一项对 50 万成年人的睡眠时间和衰老迹象进行的大规模分析，确定了一个最佳的睡眠时间：每天睡 6至 8 小时与较低的早逝及患病风险有关。多于或少于这一时长都会加速衰老。这项研究并不意味着 6 至 8 小时适合所有人，也不能证明每天满足这个“黄金睡眠”时间要求就能直接改善健康或延缓衰老。但它确实为睡眠与人体衰老的相互关系提供了一个迄今最全面的概览。研究结果支持了一个颇具前景的假说，即调整睡眠时间可能是降低衰老相关疾病风险的一条可行途径。研究团队分析了睡眠时间与 23 种生物衰老时钟的关系，后者覆盖了 17 个人体器官的衰老特征。这些时钟分别基于蛋白水平、代谢物含量及医学影像特征构建。结果发现，多数器官呈现 U 形衰老规律，但曲线最低点（最佳睡眠时间）并不总是在同一位置。例如，基于心脏蛋白的衰老时钟显示，6小时睡眠对应了最佳健康状态；而脑部蛋白时钟显示，8 小时睡眠效果最优。此外，在某些情况下，男女的最佳睡眠时间存在差异。总体来看，与睡眠时间过长或过短的人相比，每天睡眠维持在6至8小时的人衰老更慢、健康状况更好，2型糖尿病、抑郁症等疾病的发生率也更低。",
+          "link": "https://www.solidot.org/story?sid=84307",
+          "publishedOn": "2026-05-15T09:52:35.000Z",
+          "wordCount": 182,
+          "title": "每天睡 6-8 小时与较低的早逝及患病风险相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84306",
+          "author": null,
+          "description": "Gmail 帐户通常会获得 15GB 的免费存储空间，但用户现在报告 Google 将 Gmail 新用户的免费存储空间限制在 5GB，要解锁 15GB 免费存储空间用户需要在帐户中添加手机号码。在用户通过社交媒体报道这一消息之后，Google 发表声明证实了它的测试：“我们正针对特定地区新创建的帐户测试新的存储策略，这将有助于我们继续为用户提供高质量的存储服务，同时鼓励用户提升其帐户安全性和数据恢复能力。”",
+          "link": "https://www.solidot.org/story?sid=84306",
+          "publishedOn": "2026-05-15T08:05:58.000Z",
+          "wordCount": 180,
+          "title": "Google 证实限制 Gmail 新用户的免费存储空间",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84305",
+          "author": null,
+          "description": "1945 年 7 月 16 日，人类历史上首枚原子弹被引爆。这场代号三位一体（Trinity）的核试验的试验不仅开启了核时代，也在瞬间重塑了物质结构。科学家在对当年爆炸现场留下的特殊玻璃岩，即“三位一体石”进行深入研究时，意外发现了一种此前被认为不可能存在的全新晶体结构，这为极端条件下的物质演化提供了全新视角。研究团队利用先进的微观分析技术，在“三位一体石”中识别出一种全新的“笼状化合物”。这种晶体拥有由硅原子构成的 12 面体和 14 面体笼状晶格，其内部结构能够将钙、铜及铁原子牢牢锁住。这种物质并非诞生于缓慢的地质演变，而是在核爆瞬间极端的温度与压力环境下，由熔化的沙粒与汽化的金属导线混合而成。爆炸核心区域的瞬时温度超过 1500 摄氏度，压力高达数吉帕斯卡，相当于标准大气压的数万倍。在这种足以将石墨挤压成金刚石的极端条件下，物质在几秒钟内经历了汽化、混合与骤冷。原子来不及排列成常规的稳定结构，从而被迫形成了这种罕见的非平衡态物质。",
+          "link": "https://www.solidot.org/story?sid=84305",
+          "publishedOn": "2026-05-15T07:49:09.000Z",
+          "wordCount": 169,
+          "title": "三位一体核试验现场发现新晶体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84304",
+          "author": null,
+          "description": "由于今天的主流网站都是为市场份额最大的浏览器 Chrome 设计的，市场份额较小的浏览器如 Safari 和 Firefox 不得不适应这种现实而改变其工作方式。Safari 和 Firefox 都包含了特定代码针对不同域名改变渲染方式。Firefox 的 about:compat 包含了一系列网站的兼容性干预措施，Safari 的 Quirks.cpp 改变了 facebook.com、x.com/twitter.com 和 reddit.com 的画中画视频处理方式——这些公司开发了有问题的视频代码，但与其等待它们修复代码，Safari 直接为每一位用户提供了权益之计。Chrome 当然不需要此类代码，毕竟网站是优化运行在 Chrome 而不是其它浏览器上。在 IE 时代之后我们迎来了 Chrome 时代，历史在重复。",
+          "link": "https://www.solidot.org/story?sid=84304",
+          "publishedOn": "2026-05-15T07:26:30.000Z",
+          "wordCount": 199,
+          "title": "Safari 和 Firefox 根据域名改变特定网站的渲染方式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84303",
+          "author": null,
+          "description": "根据发表在《科学》期刊上的一项研究，2025 年初对美国国际开发署（USAID）的资金削减与非洲大陆大部分地区的暴力冲突显著增加存在关联。突然的撤资不仅带走了资源，还中断了合同、人员配置、采购和对项目结果的预期。这可能会使当地政府、中间机构和普通民众面临的不只是物资匮乏，还有承诺落空。因此，这种效应所反映的可能不仅是援助的缺失，同时也是制度的中断，这与援助逐渐减少的影响有很大差异。USAID 曾是全球最大的对外援助机构之一；其业务遍及 100 多个国家，其所支持的各类倡议项目涵盖公共卫生、农业、教育、灾难救援以及民主制度建设。然而，在上任不到一周的时间里，第二届特朗普政府便对 USAID 实施了大规模的削减，它标志着美国长达 60 多年的外交政策发生剧变。研究显示，撤销 USAID 与暴力冲突、武装冲突、抗议和骚乱活动的显著增加相关，特别是在那些曾接受过大量美国援助的地区。这些影响会在 USAID 撤销后立即显现，并持续数月之久。体制薄弱的地区在援助削减后会有更大幅的冲突增加，而体制较稳固地区则能更有效地缓解由此带来的伤害。",
+          "link": "https://www.solidot.org/story?sid=84303",
+          "publishedOn": "2026-05-15T05:54:47.000Z",
+          "wordCount": 174,
+          "title": "USAID 资金削减与非洲暴力冲突加剧相关",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84302",
           "author": null,
@@ -1182,116 +1227,6 @@
           "publishedOn": "2026-05-07T06:17:07.000Z",
           "wordCount": 170,
           "title": "大气二氧化碳浓度创下新纪录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84228",
-          "author": null,
-          "description": "CNN 创始人 Ted Turner 去世，享年 87 岁。他创办的 CNN 以 24 小时实时播报全球新闻闻名，对电视新闻产生了革命性影响。CNN 创办于 1980 年 6 月 1 日，是第一个 24 小时播报新闻的有线电视网。1995 年 CNN 出售给了时代华纳，Turner 退出了电视行业，他一直称 CNN 是其一生最伟大的成就。",
-          "link": "https://www.solidot.org/story?sid=84228",
-          "publishedOn": "2026-05-06T16:02:28.000Z",
-          "wordCount": 208,
-          "title": "CNN 创始人 Ted Turner 去世，享年 87 岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84227",
-          "author": null,
-          "description": "研究人员发现，每天吃一个鸡蛋，每周至少五天，可将患阿尔茨海默病风险降低最多 27%。每月吃 1-3 次鸡蛋可将风险降低 17%，每周吃 2-4 次鸡蛋可将风险降低 20%。研究人员称，鸡蛋能提供有益于大脑健康的关键营养素。鸡蛋提供胆碱，胆碱是乙酰胆碱和磷脂酰胆碱的前体，而乙酰胆碱和磷脂酰胆碱对记忆和突触功能至关重要。鸡蛋还含有叶黄素和玉米黄素——这些类胡萝卜素与认知能力的提高和氧化应激的降低有关。鸡蛋还含有重要的 ω-3 脂肪酸，蛋黄尤其富含磷脂，磷脂占鸡蛋总脂质的近 30%，对神经递质受体的功能至关重要。这项研究获得了美国鸡蛋委员会的资助。",
-          "link": "https://www.solidot.org/story?sid=84227",
-          "publishedOn": "2026-05-06T15:14:42.000Z",
-          "wordCount": 168,
-          "title": "研究称吃鸡蛋有助于降低阿尔茨海默病风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84226",
-          "author": null,
-          "description": "马斯克（Elon Musk）上周在法庭上作证指控 OpenAI 的另外两位联合创始人 Greg Brockman 和 Sam Altman 放弃创办时的其非营利使命以谋取个人私利。本周 Brockman 出庭作证，被迫在陪审团前阅读个人日记，似乎印证了马斯克的指控。Brockman 称他从学生时期就写日记，在职业生涯中通过写日记去思考重大决策。这些日记是在去年 10 月作为证据递交到法庭，今年 1 月解封。2017 年马斯克向 OpenAI 发出最后通牒，要么完全由他掌控 OpenAI 的营利性部门，要么 OpenAI 继续保持非营利性质。而 Brockman 同一时间在日记里畅谈了赚钱的好处。在 OpenAI 成立了不由马斯克掌控的营利性部门之后，Brockman 个人在 OpenAI 的股份如今价值 300 亿美元。他还在日记中纠结投票反对马斯克的计划或者投票支持将马斯克逐出董事会是否在道德上是错误的。他在日记中写道：“从他手中夺走这家非营利机构是错误的。在道德上是败坏的。”",
-          "link": "https://www.solidot.org/story?sid=84226",
-          "publishedOn": "2026-05-06T14:55:59.000Z",
-          "wordCount": 197,
-          "title": "OpenAI 总裁被迫在法庭作证时阅读自己的个人日记",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84225",
-          "author": null,
-          "description": "负责评选奥斯卡奖的美国电影艺术与科学学院宣布，只有人类表演和人类创作的剧本才有资格获得奥斯卡奖提名。奥斯卡奖不会全面禁止 AI 工具的使用，但将根据人类是否在创意作品中仍然扮演核心角色去评判电影。电影艺术与科学学院表示，如果电影制作人在作品中使用了 AI 工具，此类工具既不会帮助也不会损害其获得提名的机会。这是电影学院首次明确奖项只颁发给人类的表演和人类创作的剧本。",
-          "link": "https://www.solidot.org/story?sid=84225",
-          "publishedOn": "2026-05-06T14:23:40.000Z",
-          "wordCount": 177,
-          "title": "奥斯卡奖拒绝 AI 演员和 AI 创作的剧本",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84224",
-          "author": null,
-          "description": "根据发表在《Nature Climate Change》期刊上的一项研究，微塑料——尤其是深色的——可能通过吸收更多的热量加剧全球暖化。复旦大学的研究团队分析了不同颜色和大小的微塑料与光的相互作用，发现黑色、黄色、蓝色和红色微塑料颗粒吸收光的能力远胜于白色颗粒，其中黑色和彩色颗粒对光的吸收水平比无色颗粒高 76 倍。他们还发现，不同大小的颗粒以不同强度吸收光，且随着老化而改变吸收光的方式。研究人员估计悬浮在大气中的微塑料对全球变暖的贡献约为黑碳的六分之一，黑碳主要来源于化石燃料的燃烧。虽然微塑料并非暖化的主要来源，但对暖化的影响也绝不是微不足道的。研究人员粗略估计全球一年的微塑料排放量所造成的影响，大约相当于 200 座燃煤电厂运行一年。",
-          "link": "https://www.solidot.org/story?sid=84224",
-          "publishedOn": "2026-05-06T14:04:03.000Z",
-          "wordCount": 164,
-          "title": "深色微塑料可能加剧全球暖化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84223",
-          "author": null,
-          "description": "Google Chrome 被发现在合格设备上静默下载了 4GB 大小的 Gemini Nano 模型，而且会在用户删除之后重新下载。Gemini Nano 就是 Google 受争议的 Prompt API 所针对的本地模型，运行该模型需要至少有 4GB 显存、16GB 内存和至少 22GB 可用空间（浏览器安装包所在分区）。Google Chrome 有 38 亿用户，是市场份额最高的浏览器，满足运行 Gemini Nano 要求的设备至少数以亿计，即使不考虑重复下载，为如此多的设备静默下载 4GB 数据也是难以想象的资源浪费。此外值得一提是 Chrome 安装包大小是 1GB 左右，悄悄下载的模型大小四倍于浏览器本身，超出了大多数用户对额外功能大小的预期。Gemini Nano 下载在被称为 OptGuideOnDeviceModel 的文件夹内，该名字代表 OptimizationGuide on-device model storage。",
-          "link": "https://www.solidot.org/story?sid=84223",
-          "publishedOn": "2026-05-06T13:00:53.000Z",
-          "wordCount": 215,
-          "title": "Google Chrome 被发现在合格设备上静默下载 Gemini Nano",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84222",
-          "author": null,
-          "description": "发表在《自然》期刊上的一项研究揭示了饮食如何增强免疫力，帮助我们抵抗感染。研究团队在受试者一天的第一餐前采集了血液样本，并在 6 小时后再次采样。在此期间，受试者可以自由进食。随后研究团队评估了血液中 T 细胞的代谢状况。研究发现，与禁食过夜相比，进食后 T 细胞更容易获取完成高耗能激活过程所需的营养。进食后，这些细胞能更有效地摄取糖分，拥有更多的脂肪以及更高效的线粒体，最终这些增强了 T 细胞应对威胁的能力。小鼠实验表明，这些细胞增殖能力更强，并能提供更好的抗感染保护。进食产生这种效果的确切机制尚不明确，研究人员认为可能是因为 T 细胞产生蛋白质的能力增强了，从而使其在感染初期更快地被激活。",
-          "link": "https://www.solidot.org/story?sid=84222",
-          "publishedOn": "2026-05-06T09:34:01.000Z",
-          "wordCount": 169,
-          "title": "研究揭示饮食如何增强免疫力",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84221",
-          "author": null,
-          "description": "由于全球内存供应紧张，Google 即将在今年晚些时候推出的 Pixel 11 系列将提供内存缩减版本。以上一代 Pixel 10 为例，Pixel 10a 内存是 8GB，Pixel 10 内存为 12GB，Pro 版则是 16GB。Pixel 11 的基础版内存将从 12GB 减少到 8GB，而 Pro 版会提供一款 12GB 版本。所有型号仍然会提供 16GB 版，但预计价格会上涨。内存短缺已经导致全世界大部分手机厂商提高价格。",
-          "link": "https://www.solidot.org/story?sid=84221",
-          "publishedOn": "2026-05-06T08:59:17.000Z",
-          "wordCount": 199,
-          "title": "Google 的 Pixel 11 系列将提供内存缩减版本",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84220",
-          "author": null,
-          "description": "苹果同意向美国 iPhone 用户支付 2.5 亿美元和解 AI 功能交付延迟诉讼。苹果是在 2024 年 6 月宣布了 Apple Intelligence，以及升级语音助手 Siri 的功能，但相关 AI 功能可用性推迟了多次，其中 AI 升级版的  Siri 预计要到今年晚些时候才推出。诉讼指控苹果的广告误导了消费者。和解协议覆盖了 2024  年 6 月 10 日至 2025 年 3 月 29 日期间购买 iPhone 16 系列和 iPhone 15 Pro 机型的美国用户。每台 iPhone 设备最多可获得 95 美元的赔偿。",
-          "link": "https://www.solidot.org/story?sid=84220",
-          "publishedOn": "2026-05-06T08:10:23.000Z",
-          "wordCount": 224,
-          "title": "苹果同意向美国 iPhone 用户支付 2.5 亿美元和解 AI 功能交付延迟诉讼",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84219",
-          "author": null,
-          "description": "加州民主党参议员 Adam Schiff 提出了获得两党支持的新法案——《The Literacy in Future Technologies Artificial Intelligence（LIFT AI Act）》，旨在修改 K-12 课程加入 AI 素养课，为 AI 课程以及相关教材、教师培训等提供资助。法案将 AI 素养定义为使用 AI，具体是指“具备与年龄相符的知识和能力，能有效使用 AI，批判性解读输出，解决 AI 世界中的问题，以及降低潜在风险。法案得到了主要 AI 公司如 OpenAI、Google 和微软，以及美国教师联合会、信息技术产业理事会、软件与信息产业协会、惠普公司等的支持。",
-          "link": "https://www.solidot.org/story?sid=84219",
-          "publishedOn": "2026-05-06T06:52:38.000Z",
-          "wordCount": 196,
-          "title": "OpenAI、Google 和微软推动在学校课程中加入 AI 素养课",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84218",
-          "author": null,
-          "description": "Andrey Letov 维护的 Notepad++ for Mac 项目引发了商标权争议。Notepad++ 原作者侯今吾认为项目名字有误导性，将 macOS 移植版本冠名为 Notepad++ 会给人产生该项目由 Notepad++ 团队维护或是获得认可的官方 macOS 版本的印象，但事实并非如此，此举会让用户感到困惑，并面临商标侵权的风险。Letov 已将该项目重命名为 NextPad++，并使用了不同于 Notepad++ 的图标。Letov 在开发 Notepad++ for Mac 过程中还大量使用了 AI 辅助编程工具 Anthropic Claude CLI，对于后续项目维护可能会带来疑问，也潜在面临安全问题。",
-          "link": "https://www.solidot.org/story?sid=84218",
-          "publishedOn": "2026-05-06T06:04:16.000Z",
-          "wordCount": 198,
-          "title": "Notepad++ for Mac 引发商标权争议",
           "imageUrl": null
         }
       ]
