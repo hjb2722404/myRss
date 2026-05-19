@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/playstation-exclusive-games-pc/",
+          "author": "青小蛙",
+          "description": "来自 theverge、ign 的报道：索尼的 PlayStation 独占游戏（单人叙事类游戏），未来不会再推出 PC 版本了。 感谢 @窝法乙烷、@hooke007 的提醒。 彭博社记者 Jason Schreier 称，PlayStation Studios 负责人 Hermen Hulst",
+          "link": "https://www.appinn.com/playstation-exclusive-games-pc/",
+          "publishedOn": "2026-05-19T02:30:21.000Z",
+          "wordCount": 2765,
+          "title": "索尼：PlayStation 独占游戏将不再登陆 PC",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/cover-1779157474151-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/wox-v2-1-0/",
+          "author": "青小蛙",
+          "description": "老牌开源桌面启动器 Wox v2.1.0 发布，支持 Windows、macOS 与 Linux，没有使用Electron，新增了系统状态查询、截图功能（带标注）、新的文件预览、AI 命令等功能。@Appinn 来自发现频道，开发者自荐：https://meta.appinn.net/t/topic",
+          "link": "https://www.appinn.com/wox-v2-1-0/",
+          "publishedOn": "2026-05-18T09:27:23.000Z",
+          "wordCount": 2823,
+          "title": "老牌开源桌面启动器 Wox v2.1.0 发布，不只是快速启动，还能截图、翻译、调用AI…",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-9.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/kutt-to-new-domain-warning/",
+          "author": "青小蛙",
+          "description": "更新：感谢 @123 同学的提示，kuttit 域名丢失的原因是 .it 域名必须意大利人持有，并不是忘记续费。开发者持有很多年，被注册局收回了。 请勿使用 kuttit！！！它不属于 Kutt 了。 Kutt 是一款开源的短链接程序，5月14日发布了一条命为 Do not use ku",
+          "link": "https://www.appinn.com/kutt-to-new-domain-warning/",
+          "publishedOn": "2026-05-18T06:28:24.000Z",
+          "wordCount": 2873,
+          "title": "开源短链接 Kutt 官方警告：域名意外丢失，不要再访问 kutt[.]it 了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-8.jpg"
+        },
+        {
           "id": "https://www.appinn.com/faxian-top10-2620/",
           "author": "青小蛙",
           "description": "最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 新闻雷达：把财经新闻翻译成“A 股代码” 2️⃣ iOS CollectorCam(朝暮集) 首发限免 – 邮票、明信片、拍立得相机收藏册 3️⃣ 【自荐】AI Agent 的网页浏览工",
@@ -185,26 +215,6 @@
           "wordCount": 2754,
           "title": "《中国软件著作权申请材料》生成器｜不用自己动手",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-10T212540.760.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/motrix-next/",
-          "author": "青小蛙",
-          "description": "Motrix Next 是一款跨平台下载工具，基于 aria2c，支持 BT、磁力、迅雷链接，有浏览器扩展，用 Tauri 替换掉了 Electron，安装包降到了 ~20MB。@Appinn 来自发现频道，开发者自荐：https://meta.appinn.net/t/topic/84964/ M",
-          "link": "https://www.appinn.com/motrix-next/",
-          "publishedOn": "2026-05-09T08:57:18.000Z",
-          "wordCount": 2943,
-          "title": "Motrix Next – 全功能开源下载工具，不使用 Electron 的 Motrix 精神续作",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-09T162119.722.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/claw-cloud-run/",
-          "author": "青小蛙",
-          "description": "Claw Cloud Run 是阿里云青春版 Claw Cloud 旗下，类似于 Vercel、Netlify 的在线开发平台，可以快速部署 Alist、Dify、frp 等程序。2026年4月23日发布公告，将于2026年5月11日服务停止。 两个重要的时间点 由于太久没用也忘了这件事，还在使用的",
-          "link": "https://www.appinn.com/claw-cloud-run/",
-          "publishedOn": "2026-05-09T04:22:09.000Z",
-          "wordCount": 2999,
-          "title": "Claw Cloud Run 将于2026年5月11日服务停止，可退款",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2025/04/Copy-of-appinn-homework-2026-05-09T122146.582.jpg"
         }
       ]
     },
@@ -213,6 +223,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=393399",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "This is Part 1 of a two-part series about cross-document view transitions, going over all the gotchas, from ditching the deprecated way to opt into them to a little-known 4-second timeout.\nCross-Document View Transitions: The Gotchas Nobody Mentions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/cross-document-view-transitions-part-1/",
+          "publishedOn": "2026-05-18T13:47:19.000Z",
+          "wordCount": 6386,
+          "title": "Cross-Document View Transitions: The Gotchas Nobody Mentions",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2022/06/loader-dots.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=394879",
           "author": "Daniel Schwarz",
@@ -308,6 +328,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=12180",
+          "author": "张 鑫旭",
+          "description": "好消息，现在不仅光标的颜色，连光标的形状也能设置了，同时还能控制光标是否闪烁，CSS特性真是越来越全面了。",
+          "link": "https://www.zhangxinxu.com/wordpress/2026/05/css-caret-shape/",
+          "publishedOn": "2026-05-18T07:50:42.000Z",
+          "wordCount": 1445,
+          "title": "光标的形状也能设置了，就是CSS caret-shape属性",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=12177",
           "author": "张 鑫旭",
           "description": "前端开发这么多年，有个心心念念的文字排版布局一直想要实现，那就是四面文字环绕效果，嘿，我发现，最近横空出世的pretext可以轻松实现这样的排版效果。",
@@ -324,6 +354,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84333",
+          "author": null,
+          "description": "根据发表在《Cell》期刊上的一项研究，研究人员通过分析欧洲、东亚和南亚的 322 名健康人去构建迄今最详尽的遗传祖先和环境如何塑造人类生物学特征的图谱。通过招募居住在不同大洲、具有相同遗传背景的人群，科学家得以以前所未有的清晰度，将 DNA 的影响与环境的影响区分开来。研究人员发现，无论搬到哪里，种族背景会对免疫系统、新陈代谢和肠道菌群产生深远影响。南亚人表现出更高的病原体暴露水平。欧洲人的肠道微生物多样性更丰富，且与心脏病风险相关的化合物含量更高。跨州迁移会改变主要的代谢途径，改变肠道微生物的平衡。研究的一大发现是你生活的地点与你衰老的速度相关。居住在亚洲外的东亚人比东亚人生物年龄更大。欧洲人则相反，居住在欧洲外的欧洲人生物年龄更小。",
+          "link": "https://www.solidot.org/story?sid=84333",
+          "publishedOn": "2026-05-18T15:37:43.000Z",
+          "wordCount": 162,
+          "title": "你生活的地点与你衰老的速度相关",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84332",
+          "author": null,
+          "description": "伊朗军方发言人 Ebrahim Zolfaghari 在 X 上宣布对通过霍尔木兹海峡的海底光缆收费。暂时不清楚伊朗只是发出一种威胁，还是会将威胁付诸实施。伊朗的计划将要求 Google、微软、Meta和亚马逊等公司遵守其法律，同时海底光缆公司被要求支付通行许可费，而维修和维护权则完全授予伊朗公司。海底光缆传输着欧洲、亚洲和波斯湾之间的网络和金融流量，破坏光缆将会引发数字灾难，威胁到从银行系统、军事通信和 AI 云基础设施到远程办公、在线游戏和流媒体服务。",
+          "link": "https://www.solidot.org/story?sid=84332",
+          "publishedOn": "2026-05-18T15:11:36.000Z",
+          "wordCount": 165,
+          "title": "伊朗要求通过霍尔木兹海峡的海底光缆付费",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84331",
+          "author": null,
+          "description": "安全研究员本月初披露，Edge 内置的密码管理器会在浏览器启动时候解密所有密码然后加载到内存里。他联络了微软，结果收到的回应是“源于设计（by design）”，认为不是安全隐患。微软当时强调这是应用的预期功能。然而仅仅过了几天，微软就改变了主意，宣布未来版本的 Edge 不会再在启动时加载密码。相关补丁已经释出到 Edge Canary 版本，将包含在 Edge build 148 或更新版本中。",
+          "link": "https://www.solidot.org/story?sid=84331",
+          "publishedOn": "2026-05-18T14:39:02.000Z",
+          "wordCount": 180,
+          "title": "微软将修改 Edge 加载密码的方式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84330",
+          "author": null,
+          "description": "独立沙盒游戏《Terraria》的开发商宣布游戏上市 15 年共售出了七千万份拷贝，其中 PC 平台销量最高 3960 万份，主机 1070 万份，移动 1970 万份，Mod 工具 tModLoader 下载量 1230 万次。过去一年《Terraria》PC 版本日均玩家 46.1 万最高 140 万，PC 玩家平均游戏时长 101 小时 18 分钟。开发商表示会继续更新《Terraria》。在史上最畅销的游戏中，《Terraria》排在第 7 位。销量最高的是《我的世界（Minecraft）》（如果不考虑《俄罗斯方块》），售出超过 3.5 亿份拷贝，其次是《Grand Theft Auto V》的 2.25 亿份，《Wii Sports》的 8290 万份、《Red Dead Redemption 2》的 8200 万份，《马里奥赛车8》的 7954 万份， 《绝地求生》的 7500 万份等。",
+          "link": "https://www.solidot.org/story?sid=84330",
+          "publishedOn": "2026-05-18T13:54:07.000Z",
+          "wordCount": 221,
+          "title": "《Terraria》 15 年售出 7000 万份拷贝",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84329",
+          "author": null,
+          "description": "三星电子工会已经宣布将于 21 日启动为期 18 天的总罢工，双方就绩效奖金的上限存在分歧。目前韩国政府对此事表达了高度关注，总理金民锡周日表示若罢工对国民经济造成巨大损失，政府将为保护国民经济而采取包括行使紧急调整权在内的所有可行手段。周一三星电子劳资双方展开了最新一轮谈判。韩国法院同一天就三星电子资方针对工会提出的禁止其进行违法集体斗争行为的申请作出裁定，支持资方大部分诉求，要求工会即便罢工也不得耽误生产。该决定或给劳资谈判以及工会的罢工计划带来不小影响。专家估计每罢工一天造成的损失最高达到 20 亿美元，18 天总罢工将接近 170 亿美元。而 JPMorgan 估计损失最高将达到 280 亿美元。",
+          "link": "https://www.solidot.org/story?sid=84329",
+          "publishedOn": "2026-05-18T13:28:59.000Z",
+          "wordCount": 171,
+          "title": "三星电子工会威胁总罢工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84328",
+          "author": null,
+          "description": "NASA 在 48 年前先后发射了两艘旅行者号探测器，当年曾为旅行者号写代码的工程师如今早已白发苍苍，甚至已经去世。旅行者号机载计算机运行的是汇编语言，是专为通用电气开发的处理器编写的。探测器上有三个计算机系统：计算机指令子系统（CCS）、姿态调节控制子系统（ACS）以及飞行数据子系统（FDS）。其底层飞行工作依赖于专门的汇编语言，地面系统和早期任务工具使用了 Fortran 语言。探测器上的计算机内存非常小，总容量仅为 64-70 KB。几十年来，地面控制团队成员不断减少，也逐渐老去。更糟的是很多原始文档遗失或支离破碎。项目文件大多是纸质的，每次项目搬迁办公室，会有更多的文件丢失。NASA JPL Interplanetary Network Directorate 项目主任 Suzy Dodd 在 2024 年称建造探测器的人都已经不在人世。Larry Zottarelli 是最后一位仍在工作的原始团队工程师，他于 2016 年 80 岁时退休。目前旅行者号维护团队大多数人都年过八旬，团队还依赖于一份退休工程师名单，以便在紧急情况下呼叫。该名单每年都在缩小。",
+          "link": "https://www.solidot.org/story?sid=84328",
+          "publishedOn": "2026-05-18T12:59:13.000Z",
+          "wordCount": 185,
+          "title": "NASA 维护旅行者号代码的工程师日益稀少",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84327",
+          "author": null,
+          "description": "根据发表在《Pediatrics》期刊上的一项研究，美国所有年龄段的青少年睡眠时间都呈持续下降趋势。只有 22%的青少年表示每晚睡至少 7 个小时。研究人员称导致睡眠减少的因素包括家庭作业、课外活动、社交压力和工作等。黑人和拉丁裔青少年，以及父母受教育程度较低的青少年，获得充足睡眠的可能性越来越低。受影响最大的是年龄较大的青少年。随着年龄的增长，他们的睡眠时间稳步减少，睡眠时长和睡眠充足感从青春期早期到后期显著下降。研究利用了1991-2023 年间逾 40 万名美国八年级、十年级和十二年级学生的调查数据。为了缓解青少年睡眠不足的问题，研究人员提出的一项建议是将高中上课时间推迟到早上 8:30 或更晚。",
+          "link": "https://www.solidot.org/story?sid=84327",
+          "publishedOn": "2026-05-18T10:46:05.000Z",
+          "wordCount": 166,
+          "title": "美国青少年睡眠时间比以往任何时候都少",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84326",
+          "author": null,
+          "description": "北极气候严寒，植物生长缓慢，动植物残体长期以泥炭等形式在土壤中不断堆积，历经数百年乃至数千年持续累积。这使得北极及周边北方林区土壤长期扮演碳汇角色，持续吸收大气中的二氧化碳。如今北极地区火灾规模不断扩大、发生频次持续攀升，这一平衡格局正在被打破。为探明实际情况，研究团队在多处近期过火区域采集土壤岩芯样本开展研究。样本分析显示，在多数区域，地表植被快速燃烧后，会引燃土壤深层的老旧有机质并发生阴燃，进而释放大量黑碳与二氧化碳。黑碳能够吸收太阳热能，直接加剧大气升温。此外，在寒冷地区，黑碳沉降至冰雪表面会使其颜色加深、吸热变强，从而加速冰雪非正常消融。越靠近北极腹地，远古碳的外泄风险越高，这是因为北极土壤层更薄，有机质大多富集于浅层地表。",
+          "link": "https://www.solidot.org/story?sid=84326",
+          "publishedOn": "2026-05-18T10:04:28.000Z",
+          "wordCount": 158,
+          "title": "北极野火释放封存的古老碳汇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84325",
+          "author": null,
+          "description": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.1-rc4 时特别强调了大量涌入的 AI Bug 报告问题。Torvalds 称，AI 报告的持续涌入，让安全邮件列表几乎完全无法管理，不同的人使用相同的工具发现了相同的问题，出现了大量的重复报告。这都是毫无意义的空耗，因为 AI 检测到的 bug 几乎不是秘密，而报告者甚至不看彼此的报告。AI 工具固然好，但前提是真的能提供帮助，而不是造成不必要的麻烦和无意义的虚假工作。请随意使用这些工具，但请确保以高效率且能带来更佳体验的方式使用它们。大部分报告的 bug 都是普通 bug 而不是安全漏洞。 Torvalds 强调，“如果你使用 AI 工具发现了一个 bug，那么很可能其他人也发现了它。”如果你想要创造真正的价值那么最好阅读文档开发一个补丁，不要不经大脑思考就递交报告。",
+          "link": "https://www.solidot.org/story?sid=84325",
+          "publishedOn": "2026-05-18T09:40:30.000Z",
+          "wordCount": 206,
+          "title": "Linus Torvalds 称 AI 发现的 Bug 报告让安全邮件列表几乎无法管理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84324",
+          "author": null,
+          "description": "微软证实本月释出的例行安全更新 Windows 11 KB5089549 会导致部分 PC 安装失败，原因是对系统启动至关重要的 EFI 系统分区（ESP）空间不足。如果 ESP 可用空间不足 10 MB，KB5089549 安装会失败，返回 0x800f0922 错误，用户会看到安装卡在了 35-36%，然后回滚，提示空间不足。微软提供了一个临时的修复方法：以管理员身份打开命令提示符。运行以下命令：reg add “HKLM\\SYSTEM\\CurrentControlSet\\Control\\Bfsvc /v EspPaddingPercent /t REG_DWORD /d 0 /f”。然后重启受影响的设备。",
+          "link": "https://www.solidot.org/story?sid=84324",
+          "publishedOn": "2026-05-18T08:34:06.000Z",
+          "wordCount": 202,
+          "title": "Windows 11 KB5089549 会导致部分 PC 安装失败",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84323",
+          "author": null,
+          "description": "2024 年 6 月 Ocean SUV 制造商 Fisker 公司申请破产，它总共交付了 1.1 万辆电动汽车。斥巨资购买汽车的车主面临汽车失去维修的难题，零部件替换、电池、软件、电子钥匙等问题横在他们面前，如果无法解决他们的汽车将会沦为昂贵的垃圾。接下来发生的堪称电动汽车行业历史上最引人入胜的故事。车主们没有认命，他们组织成立了一个非盈利组织 Fisker Owners Association(FOA)，对汽车的私有软件进行逆向工程，破解 CAN 总线网络，在 GitHub 上发布开源工具，最终在 Fisker 的废墟上建起一家由志愿者运营的开源汽车公司。Fisker 不是唯一一家破产的美国电动汽车公司，Nikola、Canoo 和 Arrival 的车主都面临类似的困境。",
+          "link": "https://www.solidot.org/story?sid=84323",
+          "publishedOn": "2026-05-18T07:51:02.000Z",
+          "wordCount": 189,
+          "title": "Fisker Ocean 车主将其变成一个开源汽车项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84322",
+          "author": null,
+          "description": "AMD Mesa 驱动开发者 Marek Olšák 更新了个人资料，显示他正为 Valve 工作。Marek 是资深 Linux GPU 驱动开发者，长期致力于 AMD Mesa 驱动开发，从 R300g 时代开始参与 Mesa 项目。他最初是 Mesa 项目的独立开发者，在大学毕业后加入 AMD。十多年以来他一直是 AMD Linux Mesa 驱动的主要开发者，也是最活跃的开发者之一。现在他将代表 Valve 继续参与 Mesa 项目开发，估计薪水会更高。Valve 的 Steam Deck 和 Steam Machine 采用了定制的 AMD SoC，是 AMD 开源驱动的重要支持者。",
+          "link": "https://www.solidot.org/story?sid=84322",
+          "publishedOn": "2026-05-18T06:41:10.000Z",
+          "wordCount": 213,
+          "title": "AMD Mesa 驱动主开发正为 Valve 工作",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84320",
           "author": null,
@@ -942,86 +1092,6 @@
           "publishedOn": "2026-05-10T14:39:37.000Z",
           "wordCount": 164,
           "title": "欧盟考虑制限制使用美国云服务处理敏感数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84257",
-          "author": null,
-          "description": "名为 Gabi 的韩国人形机器人参加了一场修改版的皈依仪式，成为大韩佛教曹溪宗的一名僧侣。它宣誓尊重生命、服从人类、和平对待其他机器人和物体。Gabi 的韩语是 자비，意思是慈悲，它由杭州宇树科技制造，起售价 13,500 美元。在皈依仪式上 Gabi 同意了五项通常由人类僧侣诵读的誓言，誓言略微修改以适应人形机器人。机器人承诺尊重生命，以和平的方式对待其他机器人和物体，倾听人类的意见，避免做出欺骗性的言行，以及节约能源。Gabi 还参加了修改版的净化仪式。人类僧侣的净化仪式通常是手臂上用香火轻轻烧灼，象征净化身体和心灵。Gabi 则给予了莲花灯节贴纸和一串念珠。此举旨在响应曹溪宗总务院长真愚法师在新年致辞中承诺，即将 AI 融入佛教传统。真愚法师在一份声明中称，“无畏引领 AI 时代，导向心灵的安宁与觉悟。”",
-          "link": "https://www.solidot.org/story?sid=84257",
-          "publishedOn": "2026-05-09T15:14:07.000Z",
-          "wordCount": 171,
-          "title": "韩国人形机器人皈依我佛",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84256",
-          "author": null,
-          "description": "踏入墨西哥城广阔的中央广场 Zocalo，仿若置身于一个让人眩晕的世界。广场一端，首都大教堂高耸的尖顶朝一个方向倾斜；与之相连的主座教堂（Metropolitan Sanctuary）则向另一个方向倾斜。附近的国家宫也有点不平衡。这些历史建筑的摇摇欲坠，是这座城市一个多世纪以来持续上演的现象最直观的体现：墨西哥城正以惊人的速度下沉。NASA 卫星 NISAR 的雷达成像系统正实时跟踪墨西哥城的下沉。NISAR 卫星能探测地球表面的微小变化，这并非首次从太空观测墨西哥城的下沉，但 NISAR 比任何其它天基传感器都更清晰展现下沉的范围以及不同地貌的变化，它能用于研究火山、地震引起的形变以及滑坡。NISAR 系统发现墨西哥城部分地区每月下沉逾 2 厘米。墨西哥城的下沉是数世纪以来地下水过度开采的结果。由于墨西哥城及其周边地区建在古代湖床上，城市下方的土壤极其松软。当地下含水层中的水被抽取时，黏土状土壤会压实，导致城市下沉。危机还具有自我强化的效应：随着城市下沉，老化的管道出现裂缝和泄漏，导致墨西哥城损失了约 40% 的水资源，而干旱和气候变化又使供水更脆弱。",
-          "link": "https://www.solidot.org/story?sid=84256",
-          "publishedOn": "2026-05-09T14:41:35.000Z",
-          "wordCount": 174,
-          "title": "NASA 实时跟踪墨西哥城的下沉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84255",
-          "author": null,
-          "description": "根据 Linux 基金会公布的 2025 年年度报告，去年它在 Linux 内核项目上的开支为 841 万美元，占到了总预算的 2.95%，其中 Linux 内核作者 Linus Torvalds 薪水大约为 150 万美元（其中包括百万美元的“其它”收入，该收入未明确定义）。Linux 基金会其实是一个行业协会，并非公益性非营利组织，它的资金来自于科技巨头的赞助，从董事会成员的构成就可以看出，它的董事来自索尼、华为、OpenAI、高通、三星、微软、甲骨文、Google 和 Meta 等。Linux 基金会托管了大约 1500 个开源项目，Linux 内核也不是最大的项目，它在区块链上支出占到了总预算的 4%。",
-          "link": "https://www.solidot.org/story?sid=84255",
-          "publishedOn": "2026-05-09T11:32:57.000Z",
-          "wordCount": 199,
-          "title": "Linux 基金会 2.95% 的预算投入在 Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84254",
-          "author": null,
-          "description": "欧洲心脏病学会等组织在《European Heart Journal》期刊上发表了一份临床共识声明：超加工食品会增加心血管死亡风险最高 65%，呼吁医生将食品加工视为一个风险因素，将其与营养素分离开来。超加工食品日益取代传统饮食，成为一大公共卫生问题。所谓超加工食品是用廉价工业原料、添加剂和新合成化合物组成的食品，通常营养价值较低甚至没有营养价值，它们通常高度加工含有可能对健康有害的添加剂。最近的证据表明，食品加工的程度和性质也是影响饮食与健康的重要因素。",
-          "link": "https://www.solidot.org/story?sid=84254",
-          "publishedOn": "2026-05-09T09:43:29.000Z",
-          "wordCount": 160,
-          "title": "超加工食品增加心血管死亡风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84253",
-          "author": null,
-          "description": "法国检方对马斯克（Elon Musk）及其 X 平台展开刑事调查。法国执法部门三个月前搜查了 X 位于巴黎的办公室，传唤马斯克接受讯问。检方原计划于今年 4 月约谈马斯克及前 X CEO Linda Yaccarino，但两人都未现身。\n现在法国当局正试图以刑事指控相威胁，强制他们到场接受讯问。除未成年人色情图像外，调查还涉及 Grok 传播否认纳粹大屠杀的言论以及深度伪造色情。检方称，如果马斯克和 Yaccarino 再次缺席他们将面临缺席起诉。",
-          "link": "https://www.solidot.org/story?sid=84253",
-          "publishedOn": "2026-05-09T07:46:25.000Z",
-          "wordCount": 181,
-          "title": "法国对马斯克及其 X 平台展开刑事调查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84252",
-          "author": null,
-          "description": "悬挂荷兰国旗的豪华游轮 MV Hondius 于 2026 年 4 月 1 日从阿根廷 Ushuaia 启航，目前正在西非沿岸航行。游轮上爆发的汉坦病毒疫情引发了广泛关注，至今共报告了 8 个病例，有 3 人死亡，其余 147 名乘客和船员未出现症状。西班牙同意为这艘游轮提供援助，它目前正从佛得角航行西班牙的 Canary 岛。卫生官员和传染病专家试图消除公众的恐慌，强调船上的疫情对外界的风险很低，WHO 的 Maria Van Kerkhove 称，这不是新冠病毒，也不是流感，它的传播方式截然不同。美国 CDC 也声明称美国公众面临的风险极低。汉坦病毒是一个庞大的家族，有旧世界汉坦病毒，还有新大陆汉坦病毒，游轮上传播的是主要分布于阿根廷的 Andes 病毒（ANDV）。人类主要是通过接触啮齿动物的排泄物感染汉坦病毒，人与人传播非常罕见，而 ANDV 是唯一的例外。ANDV 的人际传播需要密切且长时间的接触，潜伏期约 7-42 天。目前建议对可能接触过病毒的病例进行 42 天的隔离或主动监测。",
-          "link": "https://www.solidot.org/story?sid=84252",
-          "publishedOn": "2026-05-09T07:00:09.000Z",
-          "wordCount": 192,
-          "title": "爆发汉坦病毒疫情的豪华游轮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84251",
-          "author": null,
-          "description": "著名英国解说员、生物学家、自然历史学家和作家 David Attenborough 爵士迎来一百岁生日，英国国王和王后都向他发去了生日祝福。知名演员 Dame Judi Dench 和 Morgan Freeman 等人也与世界自然基金会（WWF）合作发布了生日祝福视频。作为作家、主持人和解说员，他的职业生涯跨越了 80 年，其参与的纪录片包括《自然世界》《野生动物》《地球脉动》系列和《蓝色星球》系列，与苹果公司合作的《史前星球》系列等。",
-          "link": "https://www.solidot.org/story?sid=84251",
-          "publishedOn": "2026-05-09T05:02:16.000Z",
-          "wordCount": 178,
-          "title": "David Attenborough 一百岁",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84250",
-          "author": null,
-          "description": "可能是为了转移公众注意力，美国国防部开始公开一批 UFO/UAP 的新文件。首批公开了 162 份文件，未来还会公布更多。五角大楼在一份声明中宣称是为了展现特朗普总统对公众的最大限度透明度。然而爱泼斯坦文件至今还没有完整公开。新 UFO 文件发布在新网站 www.war.gov/UFO 上，包括了美国国务院的旧电报、FBI 文件以及 NASA 载人航天飞行的记录，比如 1972 年阿波罗 17 号任务期间拍摄的一张照片显示了三角形排列的点，五角大楼在说明文字中称对此现象尚未达成共识，但初步分析认为是一个物理物体。",
-          "link": "https://www.solidot.org/story?sid=84250",
-          "publishedOn": "2026-05-09T04:28:32.000Z",
-          "wordCount": 181,
-          "title": "五角大楼开始公开 UFO 新文件",
           "imageUrl": null
         }
       ]
