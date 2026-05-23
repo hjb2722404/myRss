@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/todesk-8k/",
+          "author": "青小蛙",
+          "description": "近年来远程办公、跨区域协同、跨设备互控愈发普遍，不知屏幕前的各位是否遇到过这类场景——如远程操作公司或同事/客户的电脑来进一步调整所设计的急用海报，却发现细节糊成一片，色彩也有所偏差；帮处于外地的父母子女操作电脑，移动端小屏上根本看不清一些位置的信息；再或者想控制能带得动专业应用的高配置电脑来剪辑视",
+          "link": "https://www.appinn.com/todesk-8k/",
+          "publishedOn": "2026-05-22T08:57:57.000Z",
+          "wordCount": 2539,
+          "title": "ToDesk 达成 2 亿装机量里程碑：8K 旗舰级画质加持，远程控制软件开始进入“视网膜”级竞争",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-21.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/eggs-26522/",
+          "author": "青小蛙",
+          "description": "Epic 本周送出 2 款电脑游戏、1 款手机游戏，分别是《逃出百慕大》《古墓丽影1～3》以及口碑很好的手机游戏《纪念碑谷 3》，以及好几款 Steam 限免游戏。 《逃出百慕大》 这是一款带有轻度解谜元素的冒险游戏，玩家需要探索多个漂浮岛屿，通过寻找隐藏道具、破解机关以及收集能量核心来推进剧情。整",
+          "link": "https://www.appinn.com/eggs-26522/",
+          "publishedOn": "2026-05-22T07:25:17.000Z",
+          "wordCount": 2655,
+          "title": "赛博领鸡蛋：古墓丽影、纪念碑谷3 等6款游戏[5.22~5.28]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/9.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/tabulabili-plus/",
+          "author": "青小蛙",
+          "description": "这是一个让 B 站首页重新回到“新用户热门推荐”模式的浏览器扩展。安装之后，首页不再根据你的观看习惯、兴趣偏好来推荐内容，而是直接显示当前热门视频，用来摆脱个性化推荐算法。@Appinn 来自发现频道，tjsky 同学的自荐：https://meta.appinn.net/t/topic/85526",
+          "link": "https://www.appinn.com/tabulabili-plus/",
+          "publishedOn": "2026-05-22T06:16:33.000Z",
+          "wordCount": 2647,
+          "title": "TabulaBili-Plus – 让 B 站暂时忘记你是谁[Chrome]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-18.jpg"
+        },
+        {
           "id": "https://www.appinn.com/linux-nginx-security-chaos/",
           "author": "青小蛙",
           "description": "这是今天（2026年5月21日）早上： 这是今天晚上： 也不知道说什么了，直接看吧。 Linux 第4漏洞：CVE-2026-46333（7.1分） 这是继 Copy Fail（4 月 29 日）、Dirty Frag（5 月 7 日）和 Fragnesia（5 月 13 日）之后，在短短三周内爆出",
@@ -240,51 +270,6 @@
           "wordCount": 2768,
           "title": "Everything 1.5a 官方中文语言包终于来了",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/scrcpy-4/",
-          "author": "青小蛙",
-          "description": "Scrcpy 是一款开源免费的电脑控制安卓工具，支持 Windows、macOS、Linux，Scrcpy v4.0 今日更新，新增弹性显示功能（Flex Display），让 Android 应用的界面会跟着窗口大小自动调整。@Appinn 大概就是，当你在电脑上拉宽 Scrc",
-          "link": "https://www.appinn.com/scrcpy-4/",
-          "publishedOn": "2026-05-13T09:33:19.000Z",
-          "wordCount": 3193,
-          "title": "Scrcpy 4.0 发布：远程控制安卓手机，让 Android 应用开始有“桌面化”体验",
-          "enclosure": {
-            "url": "https://static3cdn.appinn.com/images/2026/05/587962062-0822bcf7-58c1-4106-87f6-c8089c08a777.mp4",
-            "length": "947740",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-13T172904.198.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/tanstack-npm-compromise/",
-          "author": "青小蛙",
-          "description": "npm 出现了新攻击方式：TanStack Router 官方 npm 包被植入恶意代码。攻击者入侵了项目发布流程，上传了带后门的官方版本。这些包会窃取开发者电脑里的各种密钥，并尝试继续感染开发者拥有权限的其他 GitHub 仓库，再借 npm 进一步传播。 令人绝望的是：它绕过了现代 npm 生态",
-          "link": "https://www.appinn.com/tanstack-npm-compromise/",
-          "publishedOn": "2026-05-13T09:11:03.000Z",
-          "wordCount": 2852,
-          "title": "npm 历史上首个蠕虫式供应链攻击：会自我传播",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-13T170049.096.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/baolu-browser/",
-          "author": "青小蛙",
-          "description": "只需要访问一个网页，什么都不做，也不需要授权，就可以知道你的很多信息。这是真的！ 现在，你只需要点击访问下面的网站： 就可以看到，你的一些信息。 而这些信息，在网页加载完成之前，就发送完了。包括 IP地址、时间、语言、设备、电池、显卡、字体、屏幕等信息。 单独看，这些信息似乎没什么。 但组合在一起之",
-          "link": "https://www.appinn.com/baolu-browser/",
-          "publishedOn": "2026-05-13T08:06:18.000Z",
-          "wordCount": 2759,
-          "title": "坦白了：一个普通网页，到底能知道你多少信息？",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-13T155914.984.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/doubao-shurufa-macos/",
-          "author": "青小蛙",
-          "description": "下载地址：https://shurufa.doubao.com/pc 安装包 159MB，这是一个包括了AI语音输入，拼音、小鹤双拼和自然码的输入法。 默认按住 fn 快捷键说话，就能自动录入了。识别效率很高，速度很快，有语音输入需求的同学可以去试试。 目前还没有Windows版本。 此前，在202",
-          "link": "https://www.appinn.com/doubao-shurufa-macos/",
-          "publishedOn": "2026-05-13T06:56:20.000Z",
-          "wordCount": 2743,
-          "title": "豆包输入法 Mac 版正式上线｜语音输入法、拼音、双拼",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/05/Copy-of-appinn-homework-2026-05-13T145052.780.jpg"
         }
       ]
     },
@@ -293,6 +278,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=394429",
+          "author": "Temani Afif",
+          "description": "Despite the countless number of online resources, it’s easy to get confused when trying to center an element. There are documented solutions, but do you really understand why the code you picked works? Let's look at the current state of centering options today in 2026. \nThe State of CSS Centering in 2026 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+          "publishedOn": "2026-05-22T13:44:40.000Z",
+          "wordCount": 5427,
+          "title": "The State of CSS Centering in 2026",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/centered-text.webp"
+        },
         {
           "id": "https://css-tricks.com/?p=393076",
           "author": "Sunkanmi Fafowora",
@@ -332,46 +327,6 @@
           "wordCount": 3831,
           "title": "Computing and Displaying Discounted Prices in CSS",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/04/css-computed-price.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393625",
-          "author": "Gabriel Shoyombo",
-          "description": "The rotateX() function rotates an element around the x-axis in a three-dimensional space\nrotateX() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/r/rotatex/",
-          "publishedOn": "2026-05-13T14:36:54.000Z",
-          "wordCount": 4618,
-          "title": "rotateX()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393615",
-          "author": "Gabriel Shoyombo",
-          "description": "The rotateY() function rotates an element around its vertical y-axis.\nrotateY() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/r/rotatey/",
-          "publishedOn": "2026-05-13T14:33:58.000Z",
-          "wordCount": 4719,
-          "title": "rotateY()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393630",
-          "author": "Gabriel Shoyombo",
-          "description": "The rotateZ() function rotates an element around its z-axis, so clockwise or counterclockwise. \nrotateZ() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/r/rotatez/",
-          "publishedOn": "2026-05-13T14:33:03.000Z",
-          "wordCount": 4001,
-          "title": "rotateZ()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?page_id=393611",
-          "author": "Gabriel Shoyombo",
-          "description": "The rotate() function spins an element either clockwise or counterclockwise in a 2D plane.\nrotate() originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/almanac/functions/r/rotate/",
-          "publishedOn": "2026-05-13T14:32:47.000Z",
-          "wordCount": 4200,
-          "title": "rotate()",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
         }
       ]
     },
@@ -414,6 +369,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84376",
+          "author": null,
+          "description": "Linux 作者 Linus Torvalds 在北美开源峰会上谈论了 AI，他认为 AI 工具正在重塑内核开发，但他坚称 AI 只是一种不错的工具，不会完全替代程序员。Torvalds 称内核最近两个版本的 commits 数增加了 20%，他一开始以为是内核版本号从 6.x 跳到 7.x 而让开发者兴奋不已，结果发现是因为 AI 辅助编程工具过去半年有了显著进步。他承认 AI 工具降低贡献者的门槛，但它真正的影响是社会而不是技术层面，一个例子就是安全邮件列表涌入了大量重复性的 bug 报告。为应对这一情况，内核制定了新规则。Torvalds 同时督促安全研究人员不要提前披露漏洞利用，内核最近发现了四个提权漏洞，但维护者还没收到通知研究员就提前公开，他说这些人喜欢引人瞩目。他不认为闭源能解决安全问题，闭源实际上更糟，因为 AI 无法帮助你修复 bug。Torvalds 说维护工作依赖于人而不是代码，作为最高级别的维护者，他的工作不是写代码而是与人合作，他不会用 AI 来与人合作，并建议其他人也不要这么做。他始终认为 AI 只是不错的工具，不会完全取代程序员。他的工作经历就凸显了工具的进步给程序员带来的生产力提升：他最开始是手动输入机器代码，然后用汇编器，接着是编译器，最后是今天的 AI 辅助编程。他认为 AI 在改变编程，但并没有改变编程的本质。开发者仍然需要理解工具生成了什么。对于任何长期运行的系统，“你不仅要理解指令，还要理解最终结果，因为这是你能长期维护它的唯一途径。”AI 并不能取代人类判断、社区规范以及对所构建系统的深刻理解，“软件非常复杂，管理复杂基础设施复杂性的唯一真正有效方法是开源”，而 AI 只是程序员工具箱中的又一个工具。",
+          "link": "https://www.solidot.org/story?sid=84376",
+          "publishedOn": "2026-05-22T14:16:48.000Z",
+          "wordCount": 208,
+          "title": "Linus Torvalds 谈 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84375",
+          "author": null,
+          "description": "在被微软收购八年之后，最大的代码托管平台 GitHub 正面临生存之战，它的宕机和安全问题频发，而竞争对手的压力也越来越大。过去几周，GitHub 发生了多起严重的宕机事故，因员工的 VS Code 安装了一个恶意库扩展导致 3800 个内部代码库被窃取。GitHub 现员工和前员工在接受采访时描述了公司在领导层缺乏和竞争对手压力下挣扎的困境。2025 年夏天 CEO Thomas Dohmke 离职之后，微软没有再任命新 CEO，而是让领导团队成员向  CoreAI 汇报工作，CoreAI 由前 Meta 工程主管 Jay Parikh 负责，他由 CEO Satya Nadella 亲自招揽，负责帮助公司向 AI 转型。他在公司内部并不受欢迎，正是他决定不再任命 GitHub 新 CEO。有很多 GitHub 员工跟着离职去了 Dohmke 的新创公司 Entire。GitHub 高管过去几个月也不断流失，高级副总裁 Jared Palmer、前首席营收管 Elizabeth Pemmerl 都已经离职。GitHub 现员工称公司已经名存实亡，如今的一切都归微软。",
+          "link": "https://www.solidot.org/story?sid=84375",
+          "publishedOn": "2026-05-22T13:13:31.000Z",
+          "wordCount": 205,
+          "title": "GitHub 面临生存之战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84374",
+          "author": null,
+          "description": "已从硅谷搬家到内华达州的 Google 联合创始人 Sergey Brin 向旧金山的一个政治行动委员会捐赠 50 万美元，用于反对一项被称为“薪酬过高 CEO 税”的提案，旧金山选民将于 6 月 2 日对该提案进行投票。他此前已经捐赠数千万美元反对加州对亿万富翁征税的提案，该提案预计将于今年 11 月由加州选民进行投票。“薪酬过高 CEO 税”将根据公司全球员工的薪酬情况计算高管与普通员工的薪酬比率。支持该提案的 Chinese Progressive Association 称有必要“确保最富有的企业缴纳其应缴的税款”。",
+          "link": "https://www.solidot.org/story?sid=84374",
+          "publishedOn": "2026-05-22T12:41:47.000Z",
+          "wordCount": 202,
+          "title": "Sergey Brin 捐 50 万美元反对对薪酬过高的 CEO 征税",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84373",
+          "author": null,
+          "description": "从 2026 年 4 月 30 日起，Meta 应沙特政府要求在沙特境内屏蔽了 NGO 组织 ALQST for Human Rights 和 Democratic Diwan，以及沙特研究员 Abdullah Alaoudh 和人权活动人士 Yahya Assiri 的 Facebook 账户。Meta 也应阿联酋要求地理封锁了一名学者的账号。自 2026 年 3 月以来，已有逾 100 个 Facebook 页面和 Instagram 账户受到了限制。沙特还要求 X 平台地理封锁知名沙特活动人士的账号，目前 X 尚未遵守该要求。",
+          "link": "https://www.solidot.org/story?sid=84373",
+          "publishedOn": "2026-05-22T10:25:10.000Z",
+          "wordCount": 200,
+          "title": "Meta 应沙特要求审查反对者的账号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84372",
+          "author": null,
+          "description": "一天前这颗大脑还在一个活人身上。如今在其主人去世数小时后，它静静地躺在一辆小推车上。车上布满了管道，向这个器官内泵入数升的血液替代品和其它液体，为其输送氧气并排出代谢废物。它的大部分核心功能都完好无损，但其电活动已被麻醉剂压制，使这颗大脑处于一种介于生死之间的游离状态。随着它代谢着实验性药物，传感器实时记录着其反应，捕捉关于细胞、蛋白质和生理机能的数百个数据点。24 小时后，它将被切成数百个碎片，以进行更深入的研究。它是生物创业公司 Bexorg 使用脑维持设备 BrainEx 培养和研究的逾七百颗大脑之一，被用于深入理解潜在疗法在患有帕金森、阿尔茨海默或肌萎缩侧索硬化症等神经退行性疾病大脑中的作用机制。Bexorg 能对大脑进行活检，了解药物在细胞中停留的时间、是否靶向其分子靶点以及是否存在任何副作用。Bexorg 认为它的系统能提供比实验室动物或培养皿细胞更接近真实情况的药物测试条件。Bexorg 此前一直保持低调，但最近在扩大规模，邀请了记者参观其实验室，试图向公众保证，脱离人体的大脑不会触犯伦理底线，也不会有恢复意识的风险。",
+          "link": "https://www.solidot.org/story?sid=84372",
+          "publishedOn": "2026-05-22T09:43:48.000Z",
+          "wordCount": 165,
+          "title": "脱离人体的大脑被用于药物测试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84371",
+          "author": null,
+          "description": "由于无人驾驶汽车暂时还无法应付洪水淹没道路问题，Waymo 暂停了在亚特兰大的无人出租车服务。Waymo 的一辆无人驾驶出租车周三驶入了一条被洪水淹没的道路，被困大约一小时。这辆车已被拖走。Waymo 表示它在寻找解决方案的同时暂停在了亚特兰大的服务。Waymo 早些时候因为恶劣天气暂停了德州圣安东尼奥、达拉斯和休斯顿的服务。Waymo 称亚特兰大的暴雨降雨量巨大，以至于在国家气象局发布山洪暴发预警、警报或建议前洪水就已经发生了。",
+          "link": "https://www.solidot.org/story?sid=84371",
+          "publishedOn": "2026-05-22T08:21:39.000Z",
+          "wordCount": 170,
+          "title": "因无人驾驶汽车驶入洪水 Waymo 暂停亚特兰大服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84370",
+          "author": null,
+          "description": "现代人几乎与手机形影不离，手部、面部皮肤与手机及手机壳长期高频接触。你有没有留意过，用了大半年的手机壳，不知从哪天开始就悄悄发黄、发黏，怎么擦都回不到当初光亮透明的样子。根据发表在《危险材料杂志》上的研究，科学家证实不良卫生习惯及频繁化妆行为会加速热塑性聚氨酯（TPU）手机壳老化，使其逐渐成为全氟烷基物质（PFAS）与条件致病菌共同富集的“温床”。用户行为研究机构 Dscout 的真实环境追踪报告显示，智能手机用户日均触摸手机 2617 次，重度用户可达 5400 余次。研究团队招募了 30 名在校大学生志愿者，开展了一项持续 285 天的真实环境受控队列研究。团队观察了两类典型受试群体：一类是卫生习惯良好、较少使用化妆品的志愿者；另一类则恰巧相反，频繁使用化妆品且手部卫生习惯较差。结果显示，与卫生习惯较好、较少使用化妆品的志愿者相比，频繁使用化妆品且手部卫生习惯较差的受试者，其手机壳表面的 PFA S富集水平显著升高。在部分污染累积较严重的手机壳样本中，全氟辛酸（PFOA）表面富集量最高达到每平方厘米 9.39 微克，全氟辛烷磺酸（PFOS）最高达到每平方厘米 0.164 微克，提示日常接触行为可能正在悄然增加人体暴露于新污染物和潜在致病微生物的风险。",
+          "link": "https://www.solidot.org/story?sid=84370",
+          "publishedOn": "2026-05-22T07:31:11.000Z",
+          "wordCount": 180,
+          "title": "手机壳可能会富集耐药菌和 PFAS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84369",
+          "author": null,
+          "description": "新石器时代晚期（约公元前 4500 至公元前 2800 年），巨石遗迹（即大型石质建筑结构）在欧洲各地出现。这些建筑作品既反映了当地的传统，同时也暗示了相隔遥远的人群之间存在着影响深远的社会、文化或祖源联系。根据发表在《科学》期刊上的一项研究，研究人员分析了中欧多个相距遥远的巨石文化遗址个体的基因组数据，发现他们之间存在着深厚且持续的生物学关联，表明当时存在着偶尔的跨越大范围地理区域的人口流动、通婚或文化交流。但中欧巨石文化与位于今天的英国以及北欧的巨石文化人群缺乏密切的基因学纽带关系。这表明巨石传统很可能是通过文化（而非通过生物学网络）传播的。",
+          "link": "https://www.solidot.org/story?sid=84369",
+          "publishedOn": "2026-05-22T07:17:05.000Z",
+          "wordCount": 162,
+          "title": "欧洲巨石文化社会存在遗传亲缘关系",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84368",
+          "author": null,
+          "description": "刚果再次爆发了埃博拉疫情，确诊或接触病毒的人中包括了美国医生，但上周特朗普政府拒绝让他们回国接受治疗。39 岁的外科医生 Peter Stafford 于周日确诊，本周三美国 CDC 的埃博拉疫情事件响应经理 Satish Pillai 表示，Stafford 已送往德国，目前情况稳定。他的妻子 Rebekah Stafford 也是医生，也是病毒接触者，但目前还没有出现症状，他们以及四个孩子都送往了德国。另一名医生 Patrick LaRochelle 与 Stafford 夫妇同属于 Serge 传教团，他是病毒接触者，目前无症状，他已送往布拉格接受监测和治疗。他的妻子和孩子曾与他一同在刚果，但 CDC 认为他们没有接触过病毒，因此已经返回了美国。根据 WHO 周三公布的最新数据，目前埃博拉疑似病例为 528 例，死亡 132 例。",
+          "link": "https://www.solidot.org/story?sid=84368",
+          "publishedOn": "2026-05-22T06:09:35.000Z",
+          "wordCount": 185,
+          "title": "特朗普政府不想要埃博拉病毒的美国感染者回国治疗",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84367",
           "author": null,
@@ -1132,106 +1177,6 @@
           "publishedOn": "2026-05-14T06:47:15.000Z",
           "wordCount": 181,
           "title": "Windows Update 将自动回滚问题驱动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84291",
-          "author": null,
-          "description": "企业员工在被解雇前其凭证会提前失效，因为被解雇的员工是安全隐患。一对被同一家公司解雇的双胞胎兄弟 Muneeb 和 Sohaib Akhter 在几分钟内删掉了 96 个美国政府数据库。两兄弟有犯罪前科，曾因为犯罪行为被判刑，但 2023 年和 2024 年两人先后被同一家公司雇佣。雇主在 2025 年 2 月知道了他们过去的行为，立即解雇了他们。然而 Sohaib 的账号被关闭了，但其兄弟 Muneeb 的账号却被忽略了，Muneeb 立即采取行动对公司进行破坏，他删除了公司维护的美国政府数据库，并且还询问 AI 工具删库后如何清除服务器上的系统日志。两人最终于 12 月 3 日被捕，2026 年 4 月 15 日 Muneeb 认罪，Sohaib 则接受了陪审团的裁决，他被判有共谋罪。",
-          "link": "https://www.solidot.org/story?sid=84291",
-          "publishedOn": "2026-05-13T17:07:24.000Z",
-          "wordCount": 203,
-          "title": "被解雇兄弟删了 96 个数据库",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84290",
-          "author": null,
-          "description": "众筹平台 Kickstarter 过去几天修改了规则，扩大了禁止的成人内容范围。此前它只禁止“色情内容”，如今显著扩大了成人内容范围，包括但不限于：暗示性行为，MILF/DILF 内容，暗示性裸露，任何包含女性乳头/乳晕、生殖器和肛门的内容。它甚至还禁止了屁股。暂时不清楚 Kickstarter 为什么要这么做。媒体猜测可能是来自支付公司 Stripe 的压力。Kickstarter 曾在 3 月向众筹项目的发起人发邮件，警告 Stripe 将对任何包含“成人/NSFW 内容”的项目进行审核，可能会关闭项目的筹款账号。",
-          "link": "https://www.solidot.org/story?sid=84290",
-          "publishedOn": "2026-05-13T16:19:34.000Z",
-          "wordCount": 174,
-          "title": "Kickstarter 禁止成人内容",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84289",
-          "author": null,
-          "description": "右派的 Steve Bannon 和左派的 Bernie Sanders 在很多问题上的观点相去甚远，但他们都认为 AI 对工人阶级是一场灾难。Sanders 说 AI 寡头想要的不仅仅是取代特定工作岗位，他们想要取代工人。Bannon 说硅谷不在乎普通人。民调显示，美国是世界最关注 AI 的国家之一，既是全球 AI 的主要研发者也是 AI 的主要反对者。美国反 AI 的情绪在持续高涨。缅因州通过了美国首个全州范围内的数据中心建设禁令，虽然禁令被州长否决。OpenAI CEO Sam Altman 的家被人投掷了燃烧弹。四分之一的美国人接受将暴力作为一种反对手段。硅谷喜欢将 AI 比作工业革命，喜欢强调工业革命所释放的巨大财富。工业革命的确促进了经济增长，但亲身经历工业革命却是另一回事。企业家积累了巨额财富，工人的工资却停滞不前，工作条件也日益恶化。大多数美国人已感受到经济体制被操纵有利于富人。民意调查发现，对 AI 在日常生活中的作用最乐观的美国人群体是年收入超过 20 万美元的人。财富和权力日益集中在少数人手中。",
-          "link": "https://www.solidot.org/story?sid=84289",
-          "publishedOn": "2026-05-13T15:54:13.000Z",
-          "wordCount": 195,
-          "title": "美国左右派都对 AI 表示担忧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84288",
-          "author": null,
-          "description": "根据发表在《Innovation in Aging》期刊上的一项研究，唱歌、绘画、参观美术馆或博物馆有助于延缓衰老，这项研究将积极参与艺术文化活动与健康改善联系起来。延缓衰老速度并不一定意味着寿命更长。研究使用“表观遗传时钟”评估生物衰老，可预测未来的发病率和死亡率。根据研究使用的一种评估方法，每周至少进行一次艺术活动的人，其衰老速度减缓了 4%；而每月进行一次则减缓了 3%。另一项测试表明，每周至少进行一次艺术活动的人，其生理年龄平均比很少参与此类活动的人年轻一岁。而每周锻炼一次的人，按此标准仅年轻六个月。研究人员表示，艺术对延缓衰老速度是如此显著，堪比吸烟者和戒烟者之间的差异。",
-          "link": "https://www.solidot.org/story?sid=84288",
-          "publishedOn": "2026-05-13T15:25:05.000Z",
-          "wordCount": 162,
-          "title": "艺术和文化活动与延缓衰老相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84287",
-          "author": null,
-          "description": "在勒索组织 Nitrogen 宣布它窃取了 8TB 数据逾 1100 万文件后，富士康证实它在北美地区的部分工厂遭遇了网络攻击，称“网络安全团队立即启动响应机制，采取多项运营措施，确保生产和交付的连续性。受影响的工厂目前正在恢复正常生产”。Nitrogen 声称它窃取的文件包括了英特尔、苹果、Google、戴尔和英伟达等公司项目相关的技术图纸。这不是富士康第一次遭遇勒索组织的网络攻击，此前 LockBit 先后在 2022 年和 2024 年攻击了富士康旗下子公司。",
-          "link": "https://www.solidot.org/story?sid=84287",
-          "publishedOn": "2026-05-13T09:42:51.000Z",
-          "wordCount": 170,
-          "title": "富士康证实遭遇网络攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84286",
-          "author": null,
-          "description": "亚马逊员工正利用一款内部 AI 工具，把一些并无必要的工作自动化，以向管理层显示自己更频繁地使用了这项技术。亚马逊最近几周开始大规模部署其自研产品“MeshClaw”，它允许员工创建可接入办公软件、并代替用户执行任务的 AI 智能体。一些员工表示，有同事正利用这套软件，把额外、其实并无必要的 AI 操作也自动化，只为提高自己的 token 消耗量。亚马逊设定了目标，要求逾八成开发者每周使用 AI，还在今年早些时候开始在内部排行榜上追踪 AI token 的使用情况，给员工带来了采用该技术的压力。于是部分员工利用 MeshClaw 最大化 token 消耗量。亚马逊告诉员工，AI token 统计数据不会用于绩效评估。但员工认为管理层正在监控这些数据。",
-          "link": "https://www.solidot.org/story?sid=84286",
-          "publishedOn": "2026-05-13T09:11:52.000Z",
-          "wordCount": 183,
-          "title": "亚马逊员工用 AI 工具刷分",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84285",
-          "author": null,
-          "description": "欧盟的 Digital Markets Act(DMA)强制要求苹果和 Google 向消费者提供浏览器选择屏，允许消费者选择非默认浏览器如 Safari 或 Chrome。Mozilla 估计，浏览器选择屏为它带来了大约 600 万用户，其中 iOS 平台上的用户数增长了 113%，而 Android 只增加 12%。这一差异可能与苹果和 Google 实现浏览器选择屏的方式有关：苹果用户在首次打开 Safari 时看到浏览器选择屏，而 Android 设备则是在首次启动或恢复出厂设置后。Mozilla 称，用户留存率比 DMA 实施前提高了五倍。浏览器开发商 Aloha、Brave、Opera 和 Vivaldi 此前也披露 DMA 强制实施后的最初几天和几周内，用户数量都出现了显著增长。Mozilla 希望 DMA 也应适用于桌面操作系统，指责微软使用欺骗性的设计策略推广其 Edge 浏览器。",
-          "link": "https://www.solidot.org/story?sid=84285",
-          "publishedOn": "2026-05-13T08:05:15.000Z",
-          "wordCount": 202,
-          "title": "欧盟的浏览器选择屏为 Firefox 增加了数百万用户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84284",
-          "author": null,
-          "description": "今年 3 月 FCC 将所有外国制造的消费级路由器加入到监管清单，在美国禁售此类产品。FCC 给出的理由是国家安全，称“恶意行为者利用外国制造路由器的安全漏洞攻击美国家庭、破坏网络、进行间谍活动和窃取知识产权”。美国居民仍然可以使用现有的外国制造路由器，外国制造商允许在 2027 年 3 月之前向美国客户提供有限的维护和安全补丁。现在 FCC 将这一期限延长到 2029 年 1 月，除了提供安全补丁外，外国路由器制造商还允许提供大型的软件和固件更新。此举旨在为美国居民使用的外国路由器提供持久的安全，为更换设备留出更多的时间。",
-          "link": "https://www.solidot.org/story?sid=84284",
-          "publishedOn": "2026-05-13T06:54:30.000Z",
-          "wordCount": 185,
-          "title": "FCC 允许外国路由器在 2029 年前继续获得更新",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84283",
-          "author": null,
-          "description": "韩国总统府政策室长金容范(Kim Yong-beom)在 Facebook 上发帖，提议将韩国芯片制造商一部分激增的利润进行再分配，将 AI 繁荣所产生的利润与全体公民共享。金容范认为 AI 带来的经济收益至少部分是建立在韩国过去五十年建设的工业基础设施之上，他指出 AI 时代的超额利润是集中化的，少数芯片公司和少数人获得巨额收益。上个月数万民众聚集在三星主要芯片工厂外，要求员工获得更高的 AI 利润分成。三星工会要求将 15% 的营业利润分配给芯片部门员工。工会威胁将于 5 月 21 日开始为期 18 天的罢工。",
-          "link": "https://www.solidot.org/story?sid=84283",
-          "publishedOn": "2026-05-13T06:39:36.000Z",
-          "wordCount": 184,
-          "title": "韩国总统幕僚提议向全民发放“ AI 红利”",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84282",
-          "author": null,
-          "description": "Google 宣布了运行桌面模式 Android 操作系统的新笔电 Googlebook，但除了一遍遍强调 AI、AI 以及 AI 外没有透露更多信息，比如实现 AI 操作所需的运算是否要借助于云端，是否会将用户在笔记本上的所有操作上传到云端，搜索巨人除了突出 AI 外没有解释是否存在类似微软 Recall 的隐私问题。Googlebook 和运行 Chrome OS 的 Chromebook 一样，由第三方公司宏碁、华硕、戴尔、惠普和联想制造和出售。Google 称 Googlebook 深度集成了 Gemini Intelligence，仅仅移动光标就能激活被称为“Magic Pointer”的 AI 功能，AI 会分析屏幕上的内容，根据上下文提供建议，能从多个应用中提取数据。比如将光标指向电邮中的日期即可创建日历预约。Googlebook 也能与用户的 Android 手机深度交互，能将手机上的应用串流到笔记本上，能将手机上的文件传输到电脑上。",
-          "link": "https://www.solidot.org/story?sid=84282",
-          "publishedOn": "2026-05-13T06:13:37.000Z",
-          "wordCount": 206,
-          "title": "Google 宣布以 AI 为核心的新笔电 Googlebook",
           "imageUrl": null
         }
       ]
