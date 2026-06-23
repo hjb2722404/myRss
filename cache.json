@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/webdav-lite-for-macos/",
+          "author": "青小蛙",
+          "description": "WebDAV Lite 是一款可以将 macOS 任意文件夹变成 WebDAV 服务器的小工具，常驻菜单栏，目前正在限免（大概还有3天）@Appinn 来自发现频道，开发者 dlan 自荐：https://meta.appinn.net/t/topic/87130 【开发者自荐】做了个 macOS",
+          "link": "https://www.appinn.com/webdav-lite-for-macos/",
+          "publishedOn": "2026-06-23T02:07:00.000Z",
+          "wordCount": 2597,
+          "title": "WebDAV Lite – macOS 上的 WebDAV 服务器",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/06/Copy-of-appinn-homework-2026-06-22T230258.462.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/aye-ai-web-browser/",
+          "author": "青小蛙",
+          "description": "这是使用 Aye 浏览器挂网课的例子： 完整提示词：监控当前页面，当出现验证码时，识别验证码并正确输入，确认。 我们需要一款 AI 浏览器 我们需要一款能够代替我们自己访问互联网的 AI 浏览器。 比如： Aye 能帮你上网课的 AI 浏览器 上面的视频看了么？ 青小蛙先在 Aye 中打开网页，开始",
+          "link": "https://www.appinn.com/aye-ai-web-browser/",
+          "publishedOn": "2026-06-22T09:03:17.000Z",
+          "wordCount": 2882,
+          "title": "AI 浏览器，真的好用吗？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/06/Copy-of-appinn-homework-2026-06-22T170144.350.jpg"
+        },
+        {
           "id": "https://www.appinn.com/faxian-top10-2625/",
           "author": "青小蛙",
           "description": "最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【开源自荐】Show Me The Story —— 用 AI 写长篇小说的本地工具 2️⃣ 【开发者自荐】sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 3️⃣ S",
@@ -200,16 +220,6 @@
           "wordCount": 2600,
           "title": "Gravity – 以物理为基础的太阳系模拟器｜如果家里有喜欢问“为什么”的孩子，推荐收藏",
           "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2026/06/Copy-of-appinn-homework-2026-06-14T162924.412.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/chrome-151-manifest-v2-end-ublock-origin/",
-          "author": "青小蛙",
-          "description": "最新的 Chrome Canary 151.0.7884.0 版已经彻底结束 Manifest V2 插件的支持 ，这意味着曾经广受欢迎的 uBlock Origin 等插件，将无法再在 Chrome 中运行。@Appinn 来自 风舞淼痕 同学的消息：https://meta.appinn.net",
-          "link": "https://www.appinn.com/chrome-151-manifest-v2-end-ublock-origin/",
-          "publishedOn": "2026-06-13T11:21:09.000Z",
-          "wordCount": 2933,
-          "title": "Chrome 151 彻底终结旧版扩展：uBlock Origin 时代落幕",
-          "imageUrl": "https://static1.appinn.com/stwww/wp-content/uploads/2026/06/Copy-of-appinn-homework-2026-06-13T191729.452.jpg"
         }
       ]
     },
@@ -218,6 +228,21 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=394890",
+          "author": "Silvestar Bistrović",
+          "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
+          "publishedOn": "2026-06-22T12:39:13.000Z",
+          "wordCount": 4577,
+          "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
+            "length": "38364603",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
+        },
         {
           "id": "https://css-tricks.com/?p=394364",
           "author": "Daniel Schwarz",
@@ -275,13 +300,124 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=12237",
+          "author": "张 鑫旭",
+          "description": "介绍两个我觉得相当实用的HTML和DOM新特性，自此，无JS交互的场景再次丰富了一层，有兴趣的可以进来了解一番。",
+          "link": "https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/",
+          "publishedOn": "2026-06-22T13:39:35.000Z",
+          "wordCount": null,
+          "title": "全是好东西！HTML command属性和JS toggle事件",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84648",
+          "author": null,
+          "description": "Valve 正式公布了其游戏机 Steam Machine 的售价，在 AI 热导致内存和 SSD 短缺的情况下，Steam Machine 的价格也涨到了对大多数人缺乏吸引力的程度：Steam Machine 512GB 1,049 美元，Steam Machine 512GB + Steam Controller 套装 1,128 美元，Steam Machine 2TB 1,349 美元，Steam Machine 2TB + Steam Controller 套装 1,428 美元。Valve 解释说，硬件的价格直接取决于组件的成本，在 2023 年开始为 Steam Machine 采购组件时，按照以前的趋势组件的价格会随时间而降低。然而过去大概一年的时间里，情况发生了快速而显著的变化，最明显的就是内存及存储组件的变化，这最终导致了当初为 Steam Machine 制定的目标定价不再可行。因此今天公布的价格反映了全球制造业的现状，或者更准确地说，反映了过去 6 个月里确保能获得的组件的价格。为避免有限库存被机器人程序抢先订购，Valve 宣布将对预订进行随机排序，它将于 6 月 29 日发布第一批产品，并会在有货时继续按顺序处理队列中的预订。",
+          "link": "https://www.solidot.org/story?sid=84648",
+          "publishedOn": "2026-06-23T02:32:25.000Z",
+          "wordCount": 227,
+          "title": "Steam Machine 起售价 1049 美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84647",
+          "author": null,
+          "description": "由用户递交的软件仓库 Arch User Repository(AUR)最近遭遇了大规模恶意攻击，攻击者创建了一系列新账号，然后通过这些账号接管无人维护的软件包（被称为 orphaned packages），植入恶意代码，推送恶意更新。Arch 项目的维护者现已关闭了新用户注册，正在讨论如何处理这些被恶意滥用的无人维护软件包。AUR 中的软件包由用户递交，其他用户可通过搜索下载 PKGBUILD 文件、解依、编译、安装和更新软件。它不提供软件的二进制版本。目前 AUR 中有逾 107,000 个软件包，其中近 14,000 个无人维护可供认领。任何注册用户都可以认领和修改无人维护的软件包。它提供的软件包未经审核，风险由用户自己承担。其它 Linux 发行版也都有类似的软件仓库，如 Fedora 的 Copr，openSUSE 的 Open Build Service (OBS)，Ubuntu 的 Personal Package Archives (PPA)。但这些服务与 AUR 有显著区别：它们提供了类似官方软件包的构建环境，而且不允许预编译二进制文件或私有软件。AUR 的规定过于宽松而在这次攻击中遭到了滥用。",
+          "link": "https://www.solidot.org/story?sid=84647",
+          "publishedOn": "2026-06-22T14:47:40.000Z",
+          "wordCount": 203,
+          "title": "回顾对 AUR 的攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84646",
+          "author": null,
+          "description": "根据 WHO 的数据，宫颈癌是女性第四大常见癌症，其 99% 的病例是由高危型人乳头瘤病毒（HPV）引起的。虽然 HPV 疫苗能预防约 90% 的宫颈癌，但疫苗对生存率的影响尚不清楚。根据发表在《柳叶刀》期刊上的新研究，伦敦玛丽皇后学院的研究人员发现，自 2008 年 HPV 疫苗引入以来，疫苗接种者宫颈癌死亡率显著下降。HPV 疫苗对降低死亡率的影响如此之大，以至于研究人员估计，12 或 13 岁接种疫苗的女孩在 30 岁之前死于宫颈癌的可能性几乎为零。对于 30-34 岁的接种过疫苗的女性，死于宫颈癌的相对风险降低了 63%。2020-2024 年间英格兰有记录历史上首次没有 20-24 岁的女性死于宫颈癌。HPV 疫苗除了预防宫颈癌，还能预防肛门癌、阴茎癌、阴道癌、外阴癌、口腔癌和咽喉癌，以及生殖器疣，8 年级的男孩和女孩都会接种该疫苗，部分地区为 9 年级和 10 年级学生提供补种服务。新冠疫情前疫苗接种率接近了 WHO 的目标，但疫情之后接种率大幅下降。",
+          "link": "https://www.solidot.org/story?sid=84646",
+          "publishedOn": "2026-06-22T12:30:39.000Z",
+          "wordCount": 201,
+          "title": "HPV 疫苗将 30 岁前死于宫颈癌的风险降至几乎为零",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84645",
+          "author": null,
+          "description": "Anthropic 更新了其隐私政策，从 2026 年 7 月 8 日起，部分功能将需要身份验证，该验证将由 Persona 公司负责。Persona 是一家第三方身份验证公司，由 Peter Thiel 投资。此前 Discord 因用户强烈反对以及 2026 年 2 月发生的一起数据泄露事件而终止了在年龄验证上与 Persona 的合作。",
+          "link": "https://www.solidot.org/story?sid=84645",
+          "publishedOn": "2026-06-22T11:02:33.000Z",
+          "wordCount": 182,
+          "title": "Anthropic 对特定功能访问要求身份验证",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84644",
+          "author": null,
+          "description": "在 6 年 362 个补丁之后，Linux 7.2 内核终于完全移除了 strncpy() 函数。strncpy() 是一个 C 语言字符串复制函数，内核文档将其标记为“极度危险（actively dangerous）”。strncpy()是一类内存错误的主要来源：包含敏感数据的内核缓冲区可能会在未终止字符串边界外泄漏字节，导致内存信息泄露。strncpy()被 5 个不同函数取代：strscpy() 用于 NUL 结尾的目的地址，strscpy_pad() 用于 NUL 结尾零填充的目标地址， strtomem_pad() 用于非 NUL 结尾固定宽度字段，memcpy_and_pad() 用于显式填充的有边界复制，memcpy()用于已知长度的内存复制。",
+          "link": "https://www.solidot.org/story?sid=84644",
+          "publishedOn": "2026-06-22T10:55:05.000Z",
+          "wordCount": 200,
+          "title": "Linux 7.2 内核完全移除 strncpy 函数",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84643",
+          "author": null,
+          "description": "科学家多年来一直认为霸王龙在 25 岁左右达到成年体型，但一项新研究显示，霸王龙要到 40 岁才会完全成年。最新研究是基于对 17 具霸王龙化石的分析，这些霸王龙的年龄从幼年到成年不等。新研究采用了更先进的技术估计恐龙的年龄，并利用复杂统计模型整合多个标本的信息，更完整了解霸王龙整个生命周期的生长情况。结果表明，霸王龙的生长期比之前认为的要长约 15 年。",
+          "link": "https://www.solidot.org/story?sid=84643",
+          "publishedOn": "2026-06-22T10:13:26.000Z",
+          "wordCount": 173,
+          "title": "霸王龙到 40 岁才完全成年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84642",
+          "author": null,
+          "description": "日本理化学研究所 19 日宣布，为利用 AI 进行科学研究而建设的新超级计算机命名为“理究”。该名称寓意利用 AI 探“究”自然现象背后的“理”。该超算将设在神户市中央区的理研神户地区，力争 7 月投入使用。理化所还在同一天宣布了另一台量子计算-高性能计算混合平台超算 ROQUO，两台超算都使用了英伟达的 GB200 NVL4 系统。其中 ROQUO 配备了 135 个计算节点，540 (NVIDIA Blackwell)  GPU 以及 270 (NVIDIA Grace) CPU，FP64 峰值逾 21 PFLOPS，FP8 峰值 5 EFLOPS 等。",
+          "link": "https://www.solidot.org/story?sid=84642",
+          "publishedOn": "2026-06-22T09:18:41.000Z",
+          "wordCount": 190,
+          "title": "日本宣布新超算理究",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84641",
+          "author": null,
+          "description": "美国国会正在审议芯片安全法案（Chip Security Act），该法案将为先进 AI 芯片加入更严格的安全验证功能，将要求芯片出口商通过定制的位置验证硬件或软件追踪先进芯片的流向，确保先进芯片不会进入中国等国家。美国众议院外交事务委员会于 3 月下旬以 42 比 0 的投票结果一致通过了芯片安全法案，将其提交到众议院全体会议审议。参议院的配套立法则尚处于审议的第一个阶段。美国芯片行业组织反对这项法案，认为会阻碍芯片出口。最大的 AI 芯片制造商英伟达去年 12 月宣布它已开发出能满足该法案部分要求的技术。",
+          "link": "https://www.solidot.org/story?sid=84641",
+          "publishedOn": "2026-06-22T07:53:11.000Z",
+          "wordCount": 179,
+          "title": "美国芯片安全法案将强制性要求位置跟踪 AI 芯片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84640",
+          "author": null,
+          "description": "荷兰和英国科学家研究发现，按 2017 年价值计算，全球消费支出排名前 10% 的人每年造成 1.7万亿-5.7 万亿美元的环境损害。过去的研究表明，消费最高的个人（大致对应最富有的个人）对环境破坏所应承担的责任份额不成比例的巨大。但这些责任尚未得到货币形式的量化。研究人员评估了全球和各大洲最富裕国家中消费前10%的人群行为造成的环境成本。他们参考了《环境价格手册》（EnvironmentalPrices Handbook）中的数据，以 2017 年美元（最新可用数据）为不同环境损害赋予货币价值。研究者发现，全球范围内，高消费群体造成的年度环境成本约为每人2300-7500 美元——全球总计相当于 1.7万亿-5.7 万亿美元。在美国，前 10% 消费者的成本明显更高，约为每人 19000-63000 美元，相当于这一群体平均收入的 6%-20%。该研究仅评估了个人消费，而此前研究表明，最富有的 10% 人群通过投资也会产生大量排放。",
+          "link": "https://www.solidot.org/story?sid=84640",
+          "publishedOn": "2026-06-22T06:55:54.000Z",
+          "wordCount": 181,
+          "title": "10% 消费最高人群每年造成数万亿美元环境损害",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84639",
+          "author": null,
+          "description": "最大预测市场 Polymarket 付费给数十名内容创作者制作了假的押注获胜视频。它搭建了与其网站几乎一模一样的假网站，指示内容创作者在假网站上进行虚假交易，隐瞒受雇于 Polymarket 的事实。在虚假获胜视频发布之后，Polymarket 再雇佣水军传播和扩散这些视频，营造很多人通过押注赚钱的假象。内容创作者称，他们一个月的收入最高为 2000-3000 美元。对假视频的分析显示，大部分押注都是在 Polymarket 工程师的测试环境中进行的。创作者称他们会将拍完的视频发送给 Polymarket 审核。如果视频不够吸引人，或者有明显造假痕迹，Polymarket 会要求重拍。",
+          "link": "https://www.solidot.org/story?sid=84639",
+          "publishedOn": "2026-06-22T06:36:08.000Z",
+          "wordCount": 173,
+          "title": "Polymarket 付费给内容创作者制作假的押注获胜视频",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84638",
           "author": null,
@@ -950,46 +1086,6 @@
           "publishedOn": "2026-06-14T13:51:18.000Z",
           "wordCount": 169,
           "title": "英国警官被控使用 AI 伪造证据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84571",
-          "author": null,
-          "description": "黄仁勋在英伟达 GTC 大会上宣布，“太空计算，最后的疆界，已经到来。”轨道数据中心正从科幻走向现实：SpaceX、Google 以及初创公司 Starcloud 都宣布要建轨道数据中心星座，这些星座由数以千计的卫星构成，卫星搭载了 AI GPU，使用光链路互联，通过微波链路与地面通信。支持者宣传的太空计算优势包括：丰富的太阳能、免费的冷却系统，以及免受地震、洪水和抗议等地面干扰。但如果你仔细审视背后的物理原理，会发现轨道数据中心比硅谷认为的困难得多。免费冷却可能是最大的误解，太空虽然极其寒冷，但它没有大气，散热机制如传导和对流无法发挥作用。太空唯一的散热机制是通过辐射将热发射出去，而为防止芯片过热需要面积庞大且昂贵的表面积去辐射热量。太阳能虽然丰富，但卫星要始终对准太阳需要复杂的姿态控制系统。宇宙射线等也会降低太阳能电池板、辐射冷却器以及芯片本身的性能。由于太空维护非常困难，因此卫星还需要冗余系统。对地球数据中心和太空数据中心的粗略成本比较显示，向太空发射并运行 AI GPU一年的成本比地面数据中心至少高出一个数量级。太空数据中心在特定领域可能有用，但经济上并不可行。",
-          "link": "https://www.solidot.org/story?sid=84571",
-          "publishedOn": "2026-06-13T15:22:20.000Z",
-          "wordCount": 166,
-          "title": "为什么轨道数据中心比硅谷认为的更困难？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84570",
-          "author": null,
-          "description": "马普人类发展研究所和哥伦比亚大学的研究发现，贫困和种族歧视等社会不平等与表观遗传时钟测量的生物衰老加速相关。研究揭示，处于社会劣势的人群表现出更快的生物衰老速度。社会不平等从生命早期就开始影响生物衰老：在社会经济地位较低的家庭中长大的儿童已表现出更快的生物衰老迹象。而在弱势家庭中长大的成年人，即使是在数十年后，其生物衰老速度也往往更快。对美国的研究发现，黑人的生物衰老速度快于白人。拉丁裔和白人之间也存在差异，但幅度比较小。",
-          "link": "https://www.solidot.org/story?sid=84570",
-          "publishedOn": "2026-06-13T14:34:58.000Z",
-          "wordCount": 157,
-          "title": "社会不平等与生物衰老加速相关",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84569",
-          "author": null,
-          "description": "Google 起诉了了一家提供“诈骗即服务”的中国组织 Outsider Enterprise。该组织在 Telegram 上运营，向想要搞诈骗活动的人提供一整套模板，如使用 Google Gemini 创建模仿 Google、YouTube，以及纽约 E-ZPass 等政府机构网站的教程。Android 用户收到的逾 250 万条诈骗短信与 Outsider Enterprise 相关，其中约 5.5 万条短信发送在上月的两周内。Google 追踪到 9000 个虚假网站和 100 万网址与该诈骗网络相关。目前没人知道  Outsider Enterprise 幕后运营者的身份，Google 此举旨在扰乱 Outsider Enterprise 的运营。",
-          "link": "https://www.solidot.org/story?sid=84569",
-          "publishedOn": "2026-06-13T13:38:36.000Z",
-          "wordCount": 201,
-          "title": "Google 起诉涉嫌 AI 诈骗的中国组织",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84568",
-          "author": null,
-          "description": "Anthropic 周五发表声明，它收到美国政府的命令，政府以国家安全理由下令禁止外国公民访问其最先进的 AI 模型。该指令适用于所有外国公民，无论他们是身处美国境内还是境外，Anthropic 的外籍员工也包含在内。为确保合格，它只能对所有用户暂停访问 Fable 5 和 Mythos 5 模型。Anthropic 其它模型的访问不受影响。亚马逊云服务 AWS 周五晚间表示，Anthropic 已要求其禁止“所有地区所有用户”对相关模型的访问。Anthropic 公司的多位核心成员，包括联合创始人 Chris Olah、研究员 Andrej Karpathy 和哲学家 Amanda Askell 均出生于美国境外。",
-          "link": "https://www.solidot.org/story?sid=84568",
-          "publishedOn": "2026-06-13T12:57:46.000Z",
-          "wordCount": 213,
-          "title": "因美政府命令 Anthropic 下线 Fable 5 和 Mythos 5 模型",
           "imageUrl": null
         }
       ]
