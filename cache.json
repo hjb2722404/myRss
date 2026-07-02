@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/google-increases-free-gemini-api-quota-1m-tokens/",
+          "author": "青小蛙",
+          "description": "最近网络上流传一张标注“Gemini 2.5 Flash 免费提供每分钟 100 万 Token”的图片，并且不需要绑卡，不限总量： 青小蛙就去研究了一下： 结论：这是真的，但不是全部 其他限制 但是，还有其他限制，针对免费层级的 Gemini 用户，还限制（每个账号可能还不一样）： 如果画一张表格",
+          "link": "https://www.appinn.com/google-increases-free-gemini-api-quota-1m-tokens/",
+          "publishedOn": "2026-07-01T12:43:05.000Z",
+          "wordCount": 2629,
+          "title": "谷歌开始提高免费 Gemini API 配额，部分模型已达每分钟 100 万 Token，但不是全部",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/07/Copy-of-appinn-homework-2026-07-01T204155.462.jpg"
+        },
+        {
           "id": "https://www.appinn.com/unicode-18-0-coming/",
           "author": "青小蛙",
           "description": "无论是手机、电脑，想要正确显示世界各地的文字，都离不开 Unicode（统一码）这一全球通用的文字编码标准。2026年 9 月即将发布的 Unicode 18.0，新增女真文、小篆两种中国古文字，共新增约 1.3 万个字符。@Appinn Unicode 是什么？ Unicode（统一码）是一套全球",
@@ -190,26 +200,6 @@
           "wordCount": 2597,
           "title": "WebDAV Lite – macOS 上的 WebDAV 服务器",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/06/Copy-of-appinn-homework-2026-06-22T230258.462.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/aye-ai-web-browser/",
-          "author": "青小蛙",
-          "description": "这是使用 Aye 浏览器挂网课的例子： 完整提示词：监控当前页面，当出现验证码时，识别验证码并正确输入，确认。 我们需要一款 AI 浏览器 我们需要一款能够代替我们自己访问互联网的 AI 浏览器。 比如： Aye 能帮你上网课的 AI 浏览器 上面的视频看了么？ 青小蛙先在 Aye 中打开网页，开始",
-          "link": "https://www.appinn.com/aye-ai-web-browser/",
-          "publishedOn": "2026-06-22T09:03:17.000Z",
-          "wordCount": 2882,
-          "title": "AI 浏览器，真的好用吗？",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/06/Copy-of-appinn-homework-2026-06-22T170144.350.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/faxian-top10-2625/",
-          "author": "青小蛙",
-          "description": "最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【开源自荐】Show Me The Story —— 用 AI 写长篇小说的本地工具 2️⃣ 【开发者自荐】sky-tv 跨平台视频播放器，类似于tvbox的播放器，支持导入自己的视频源 3️⃣ S",
-          "link": "https://www.appinn.com/faxian-top10-2625/",
-          "publishedOn": "2026-06-22T01:00:55.000Z",
-          "wordCount": 2534,
-          "title": "发现频道：最近10日的热门排行榜[2026年第25期]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-16.jpg"
         }
       ]
     },
@@ -282,21 +272,6 @@
           "wordCount": 4231,
           "title": "translate()",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=394890",
-          "author": "Silvestar Bistrović",
-          "description": "Sometimes designers have silly ideas that eventually grow on you. That happened to me with this concept where I had to build columns of items moving in opposite directions when a user scrolls the page.\nCodePen Embed Fallback\nNote: This …\nUsing Scroll-Driven Animations for Opposing Scroll Directions originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/scroll-driven-animations-opposing-scroll-directions/",
-          "publishedOn": "2026-06-22T12:39:13.000Z",
-          "wordCount": 4577,
-          "title": "Using Scroll-Driven Animations for Opposing Scroll Directions",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/05/opposing-scrolling-logos.mov",
-            "length": "38364603",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/05/opposing-scroll-columns.webp"
         }
       ]
     },
@@ -351,16 +326,6 @@
           "wordCount": 1517,
           "title": "CSS color-scheme属性与light-dark()颜色函数",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=12237",
-          "author": "张 鑫旭",
-          "description": "介绍两个我觉得相当实用的HTML和DOM新特性，自此，无JS交互的场景再次丰富了一层，有兴趣的可以进来了解一番。",
-          "link": "https://www.zhangxinxu.com/wordpress/2026/06/html-common-toggle-beforetoggle-event/",
-          "publishedOn": "2026-06-22T13:39:35.000Z",
-          "wordCount": null,
-          "title": "全是好东西！HTML command属性和JS toggle事件",
-          "imageUrl": null
         }
       ]
     },
@@ -369,6 +334,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84734",
+          "author": null,
+          "description": "瑞典法院以 Google 在搜索结果中偏袒自家购物服务为由判决它向比价网站 PriceRunner 赔偿约 15 亿美元（143 亿瑞典克朗）。这是瑞典法院在反垄断诉讼中判处的最高金额罚款，但远低于 PriceRunner 寻求的 780 亿瑞典克朗赔偿。PriceRunner 于 2022 年起诉 Google，指控 Google 操纵搜索结果。2008 年 Google 开始在搜索结果中突出展示其比价购物服务，导致竞争对手的比价网站流量急剧下降。2017 年时任欧盟竞争事务专员 Margrethe Vestager 以 Google 利用其比价购物服务获取不公平优势对其处以罚款。Google 于 2021 年对该裁决提出上诉但被驳回。之后欧洲的多家比价网站提起了赔偿诉讼。",
+          "link": "https://www.solidot.org/story?sid=84734",
+          "publishedOn": "2026-07-01T15:35:16.000Z",
+          "wordCount": 202,
+          "title": "瑞典法院判决 Google 向比价网站赔偿 15 亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84733",
+          "author": null,
+          "description": "数字游戏是未来，索尼正式宣布其 PS 游戏机从 2028 年 1 月起不再发售新游戏的实体光盘版本。这也意味着未来的的 PS 游戏机不会再发售包含蓝光光驱的型号。索尼称 2028 年 1 月之前已发售或即将发售的游戏实体光盘版不受影响。消费者普遍偏爱数字媒介而不是实体光盘，索尼表示它只是顺应这一趋势罢了。",
+          "link": "https://www.solidot.org/story?sid=84733",
+          "publishedOn": "2026-07-01T14:18:17.000Z",
+          "wordCount": 193,
+          "title": "索尼 PS 从 2028 年 1 月起不再发售新游戏的光盘版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84732",
+          "author": null,
+          "description": "开源项目都面临 AI 代码越来越多的问题，现在负责开发开源游戏引擎 Godot 的基金会宣布修订贡献者政策，禁止递交 AI 署名的代码和 AI 智能体提交的 pull request，以及在人与人之间的沟通中禁止 AI 生成文本——机器翻译除外。新政策旨在限制 AI Slop，鼓励维护者审查代码，将新贡献者培养成未来的维护者，最重要的是要求所有贡献都必须来自对代码负责的人类，修复出现问题的代码。基金会称，“AI 不能承担责任，我们也不能指望 AI 的重度用户能充分理解他们的代码并能进行修正。”",
+          "link": "https://www.solidot.org/story?sid=84732",
+          "publishedOn": "2026-07-01T13:14:04.000Z",
+          "wordCount": 187,
+          "title": "Godot 拒绝接受 AI 生成的代码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84731",
+          "author": null,
+          "description": "CERN 宣布了 LHC 的第三次长时间停机维护（Long Shutdown 3）。这次维护和升级将为下一阶段的 High-Luminosity LHC(HiLumi LHC)的运行做准备。LHC 于 1998-2008 年建造，2009 年投入运行，2010 年首次实现 3.5TeV 粒子对撞，2012 年宣布发现了希格斯玻色子。2013-2015 年 LHC 进行了第一次维护升级，使得粒子对撞的总能量提高到了 13.0TeV；2018 年底到 2022 年 4 月 LHC 进行第二次维护升级。第三次停机维护将是至今最大规模的升级改造，HiLumi LHC 计划于 2030 年投入运行，其亮度提高最多十倍，将使研究人员能收集规模更大的数据集，对希格斯玻色子进行更精确的研究，增强发现标准模型之外现象的潜力。",
+          "link": "https://www.solidot.org/story?sid=84731",
+          "publishedOn": "2026-07-01T11:08:20.000Z",
+          "wordCount": 192,
+          "title": "LHC 第三次停机维护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84730",
+          "author": null,
+          "description": "美国生物科技创业公司 Conception 宣布成功诱导干细胞转化为人类初级卵母细胞，称这是一项重大的科学进步。科学家已在小鼠身上实现了利用干细胞制造卵子。研究人员首先将小鼠皮肤细胞转化为“诱导多能干细胞”（iPSC），然后转化为可用的卵子。这些卵子产生了健康的幼崽，寿命正常，能自然繁殖，有自己的健康后代。该过程被称为“体外配子发生”（in vitro gametogenesis），在小鼠身上比在大型动物身上更容易实现。\nIVG 有潜力重新定义生殖。简单通过抽血就可以制造出一个家庭需要的尽可能多的健康卵子。这种能力将可摆脱生物和遗传的限制，极大扩大家庭生育健康孩子的选择，使女性能在更大的年龄生育后代。",
+          "link": "https://www.solidot.org/story?sid=84730",
+          "publishedOn": "2026-07-01T10:00:49.000Z",
+          "wordCount": 164,
+          "title": "研究人员将干细胞转化为人类初级卵母细胞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84729",
+          "author": null,
+          "description": "AlixPartners 预测，中国的汽车出口量 2026 年将比上一年增加 4 成，达到 1000 万辆。中国汽车工业协会的统计显示，2026 年 1～5 月出口量同比增长 63%，达 405 万辆。占出口大部分的是纯电动汽车（EV）等新能源汽车，达到 183 万辆，增至 2.1 倍，远远超过汽油汽车的增长率（36%）。如果目前的出口速度持续，2026 年出口量将比 2025 年增加 41%，达到 1000 万辆。如果实现，将成为世界上第一个出口 1000 万辆汽车的国家。相当于日本出口量的约 2.5 倍。中国汽车出口量剧增，主要原因是国内销量的减少。2026 年中国新车销量预计为 2460 万辆，比 2025 年减少 10%。",
+          "link": "https://www.solidot.org/story?sid=84729",
+          "publishedOn": "2026-07-01T07:39:23.000Z",
+          "wordCount": 198,
+          "title": "中国 2026 年汽车出口量有望达到千万",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84728",
+          "author": null,
+          "description": "预印本平台 arXiv.org 于 7 月 1 日脱离康奈尔大学成立独立的非营利性组织。arXiv 诞生于 1991 年，创始人 Paul Ginsparg 在 2001 年加入了康奈尔大学，arXiv 网站随后由康奈尔大学图书馆接手。25 年后 arXiv 决定翻开新的篇章。arXiv 组织正致力于确保这一过渡平稳进行，让作者、读者和社区几乎不会感受到有任何变化。官方博客表示：“arXiv 由科学家创建，为科学家服务，虽然我们的“家”可能会变，但我们的使命、愿景和价值观永远不变。arXiv 将继续致力于免费阅读和投稿，致力于为全球科学家提供公平获取新想法和新发现的机会。在从康奈尔大学独立出来的过程中，arXiv 的工作人员、志愿者以及我们的支持者正在努力确保 arXiv 提供的重要服务不会中断。”",
+          "link": "https://www.solidot.org/story?sid=84728",
+          "publishedOn": "2026-07-01T07:01:59.000Z",
+          "wordCount": 189,
+          "title": "arXiv 从康奈尔大学独立",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84727",
+          "author": null,
+          "description": "美国弗吉尼亚州 Henrico 县因毗邻华盛顿特区，拥有大片的土地，而几乎一夜之间成为数据中心枢纽。该县有 37 座数据中心，计划再建 17 座数据中心。数据中心带来的一个副作用是电价在上涨。县长 John Vithoulkas 于 6 月 26 日向数千名政府员工发送了一封电子邮件，请求他们协助政府节约用电，“从  7月 1 日起，Henrico 县所有政府和学校设施的电价将上涨 25%，预计下一财年将增加 500 万美元的开支。我们预计未来几年电价还会继续上涨。”“为缓解电费上涨带来的影响，我请求大家共同做出些调整，在各自的工作区域节约用电。离开工作区域时，包括下班离开时，请关灯。每天工作结束后，请关闭电脑/笔记本电脑。如果您的工作区域有窗户，请调整百叶窗以控制阳光照射带来的热量。不使用电器、充电器或其它电器时，请拔掉电源插头。请限制使用（或完全避免使用）电暖器。仅单个普通电暖器每年就可能给县政府造成 150-300 美元的电费支出。”",
+          "link": "https://www.solidot.org/story?sid=84727",
+          "publishedOn": "2026-07-01T06:26:31.000Z",
+          "wordCount": 187,
+          "title": "美国 Henrico 县请求政府和学校为数据中心节约用电",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84726",
+          "author": null,
+          "description": "微软发布了 Windows Subsystem for Linux (WSL)容器的公开预览版本。容器已成为现代开发的基础部分——从云原生应用、AI工作负载到测试和部署流水线。WSL 容器通过提供一个内置的、企业级的方式，在 Windows 上创建、运行和管理 Linux 容器，简化了这一体验，不再需要额外的第三方工具。",
+          "link": "https://www.solidot.org/story?sid=84726",
+          "publishedOn": "2026-07-01T05:59:39.000Z",
+          "wordCount": 176,
+          "title": "微软发布 WSL 容器的预览版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84725",
+          "author": null,
+          "description": "为什么动物需要睡眠？发表在《Brain Medicine》期刊上的一篇综述认为，关于睡眠的诸多困惑，源自将三个概念混为一谈，作者认为睡眠最恰当的理解，既非休息，亦非打扫，而是一种系统层面的韧性机制，使这具约由 860 亿个神经元构成的网络，不致漂入无法脱身的状态。“我们想要超越那种把睡眠仅仅视作一夜充电的看法，”中国科学院长春应用化学研究所的 Xiaohui Wang 教授说，他是通讯作者之一。“当你把大脑看作一个复杂的动态网络，睡眠便开始像是一位审慎的工程师有意设计之物，是留给系统自我修复与重组的一段预定窗口。”综述把睡眠的两大阶段看作一种分工。在非快速眼动睡眠中，尤其是慢波阶段，大脑陷入高振幅、低频率、低于一赫兹的节律。模块性上升。熵下降。被一整日学习所抬高的突触强度，被悄然重整，使网络不致饱和。快速眼动睡眠所为，几乎相反。电信号去同步化，θ节律与γ节律攀升，大脑转向全局整合与探索，松动那些已变得过于僵硬的回路。“一个只知优化的网络，可能把自己逼入死角，”第一作者 Longwei Yang 说。“而睡眠所守护的，似乎正是重新走出来的能力。”",
+          "link": "https://www.solidot.org/story?sid=84725",
+          "publishedOn": "2026-07-01T04:54:59.000Z",
+          "wordCount": 167,
+          "title": "为什么我们需要睡眠",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84724",
           "author": null,
@@ -1127,116 +1192,6 @@
           "publishedOn": "2026-06-23T02:32:25.000Z",
           "wordCount": 227,
           "title": "Steam Machine 起售价 1049 美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84647",
-          "author": null,
-          "description": "由用户递交的软件仓库 Arch User Repository(AUR)最近遭遇了大规模恶意攻击，攻击者创建了一系列新账号，然后通过这些账号接管无人维护的软件包（被称为 orphaned packages），植入恶意代码，推送恶意更新。Arch 项目的维护者现已关闭了新用户注册，正在讨论如何处理这些被恶意滥用的无人维护软件包。AUR 中的软件包由用户递交，其他用户可通过搜索下载 PKGBUILD 文件、解依、编译、安装和更新软件。它不提供软件的二进制版本。目前 AUR 中有逾 107,000 个软件包，其中近 14,000 个无人维护可供认领。任何注册用户都可以认领和修改无人维护的软件包。它提供的软件包未经审核，风险由用户自己承担。其它 Linux 发行版也都有类似的软件仓库，如 Fedora 的 Copr，openSUSE 的 Open Build Service (OBS)，Ubuntu 的 Personal Package Archives (PPA)。但这些服务与 AUR 有显著区别：它们提供了类似官方软件包的构建环境，而且不允许预编译二进制文件或私有软件。AUR 的规定过于宽松而在这次攻击中遭到了滥用。",
-          "link": "https://www.solidot.org/story?sid=84647",
-          "publishedOn": "2026-06-22T14:47:40.000Z",
-          "wordCount": 203,
-          "title": "回顾对 AUR 的攻击",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84646",
-          "author": null,
-          "description": "根据 WHO 的数据，宫颈癌是女性第四大常见癌症，其 99% 的病例是由高危型人乳头瘤病毒（HPV）引起的。虽然 HPV 疫苗能预防约 90% 的宫颈癌，但疫苗对生存率的影响尚不清楚。根据发表在《柳叶刀》期刊上的新研究，伦敦玛丽皇后学院的研究人员发现，自 2008 年 HPV 疫苗引入以来，疫苗接种者宫颈癌死亡率显著下降。HPV 疫苗对降低死亡率的影响如此之大，以至于研究人员估计，12 或 13 岁接种疫苗的女孩在 30 岁之前死于宫颈癌的可能性几乎为零。对于 30-34 岁的接种过疫苗的女性，死于宫颈癌的相对风险降低了 63%。2020-2024 年间英格兰有记录历史上首次没有 20-24 岁的女性死于宫颈癌。HPV 疫苗除了预防宫颈癌，还能预防肛门癌、阴茎癌、阴道癌、外阴癌、口腔癌和咽喉癌，以及生殖器疣，8 年级的男孩和女孩都会接种该疫苗，部分地区为 9 年级和 10 年级学生提供补种服务。新冠疫情前疫苗接种率接近了 WHO 的目标，但疫情之后接种率大幅下降。",
-          "link": "https://www.solidot.org/story?sid=84646",
-          "publishedOn": "2026-06-22T12:30:39.000Z",
-          "wordCount": 201,
-          "title": "HPV 疫苗将 30 岁前死于宫颈癌的风险降至几乎为零",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84645",
-          "author": null,
-          "description": "Anthropic 更新了其隐私政策，从 2026 年 7 月 8 日起，部分功能将需要身份验证，该验证将由 Persona 公司负责。Persona 是一家第三方身份验证公司，由 Peter Thiel 投资。此前 Discord 因用户强烈反对以及 2026 年 2 月发生的一起数据泄露事件而终止了在年龄验证上与 Persona 的合作。",
-          "link": "https://www.solidot.org/story?sid=84645",
-          "publishedOn": "2026-06-22T11:02:33.000Z",
-          "wordCount": 182,
-          "title": "Anthropic 对特定功能访问要求身份验证",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84644",
-          "author": null,
-          "description": "在 6 年 362 个补丁之后，Linux 7.2 内核终于完全移除了 strncpy() 函数。strncpy() 是一个 C 语言字符串复制函数，内核文档将其标记为“极度危险（actively dangerous）”。strncpy()是一类内存错误的主要来源：包含敏感数据的内核缓冲区可能会在未终止字符串边界外泄漏字节，导致内存信息泄露。strncpy()被 5 个不同函数取代：strscpy() 用于 NUL 结尾的目的地址，strscpy_pad() 用于 NUL 结尾零填充的目标地址， strtomem_pad() 用于非 NUL 结尾固定宽度字段，memcpy_and_pad() 用于显式填充的有边界复制，memcpy()用于已知长度的内存复制。",
-          "link": "https://www.solidot.org/story?sid=84644",
-          "publishedOn": "2026-06-22T10:55:05.000Z",
-          "wordCount": 200,
-          "title": "Linux 7.2 内核完全移除 strncpy 函数",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84643",
-          "author": null,
-          "description": "科学家多年来一直认为霸王龙在 25 岁左右达到成年体型，但一项新研究显示，霸王龙要到 40 岁才会完全成年。最新研究是基于对 17 具霸王龙化石的分析，这些霸王龙的年龄从幼年到成年不等。新研究采用了更先进的技术估计恐龙的年龄，并利用复杂统计模型整合多个标本的信息，更完整了解霸王龙整个生命周期的生长情况。结果表明，霸王龙的生长期比之前认为的要长约 15 年。",
-          "link": "https://www.solidot.org/story?sid=84643",
-          "publishedOn": "2026-06-22T10:13:26.000Z",
-          "wordCount": 173,
-          "title": "霸王龙到 40 岁才完全成年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84642",
-          "author": null,
-          "description": "日本理化学研究所 19 日宣布，为利用 AI 进行科学研究而建设的新超级计算机命名为“理究”。该名称寓意利用 AI 探“究”自然现象背后的“理”。该超算将设在神户市中央区的理研神户地区，力争 7 月投入使用。理化所还在同一天宣布了另一台量子计算-高性能计算混合平台超算 ROQUO，两台超算都使用了英伟达的 GB200 NVL4 系统。其中 ROQUO 配备了 135 个计算节点，540 (NVIDIA Blackwell)  GPU 以及 270 (NVIDIA Grace) CPU，FP64 峰值逾 21 PFLOPS，FP8 峰值 5 EFLOPS 等。",
-          "link": "https://www.solidot.org/story?sid=84642",
-          "publishedOn": "2026-06-22T09:18:41.000Z",
-          "wordCount": 190,
-          "title": "日本宣布新超算理究",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84641",
-          "author": null,
-          "description": "美国国会正在审议芯片安全法案（Chip Security Act），该法案将为先进 AI 芯片加入更严格的安全验证功能，将要求芯片出口商通过定制的位置验证硬件或软件追踪先进芯片的流向，确保先进芯片不会进入中国等国家。美国众议院外交事务委员会于 3 月下旬以 42 比 0 的投票结果一致通过了芯片安全法案，将其提交到众议院全体会议审议。参议院的配套立法则尚处于审议的第一个阶段。美国芯片行业组织反对这项法案，认为会阻碍芯片出口。最大的 AI 芯片制造商英伟达去年 12 月宣布它已开发出能满足该法案部分要求的技术。",
-          "link": "https://www.solidot.org/story?sid=84641",
-          "publishedOn": "2026-06-22T07:53:11.000Z",
-          "wordCount": 179,
-          "title": "美国芯片安全法案将强制性要求位置跟踪 AI 芯片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84640",
-          "author": null,
-          "description": "荷兰和英国科学家研究发现，按 2017 年价值计算，全球消费支出排名前 10% 的人每年造成 1.7万亿-5.7 万亿美元的环境损害。过去的研究表明，消费最高的个人（大致对应最富有的个人）对环境破坏所应承担的责任份额不成比例的巨大。但这些责任尚未得到货币形式的量化。研究人员评估了全球和各大洲最富裕国家中消费前10%的人群行为造成的环境成本。他们参考了《环境价格手册》（EnvironmentalPrices Handbook）中的数据，以 2017 年美元（最新可用数据）为不同环境损害赋予货币价值。研究者发现，全球范围内，高消费群体造成的年度环境成本约为每人2300-7500 美元——全球总计相当于 1.7万亿-5.7 万亿美元。在美国，前 10% 消费者的成本明显更高，约为每人 19000-63000 美元，相当于这一群体平均收入的 6%-20%。该研究仅评估了个人消费，而此前研究表明，最富有的 10% 人群通过投资也会产生大量排放。",
-          "link": "https://www.solidot.org/story?sid=84640",
-          "publishedOn": "2026-06-22T06:55:54.000Z",
-          "wordCount": 181,
-          "title": "10% 消费最高人群每年造成数万亿美元环境损害",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84639",
-          "author": null,
-          "description": "最大预测市场 Polymarket 付费给数十名内容创作者制作了假的押注获胜视频。它搭建了与其网站几乎一模一样的假网站，指示内容创作者在假网站上进行虚假交易，隐瞒受雇于 Polymarket 的事实。在虚假获胜视频发布之后，Polymarket 再雇佣水军传播和扩散这些视频，营造很多人通过押注赚钱的假象。内容创作者称，他们一个月的收入最高为 2000-3000 美元。对假视频的分析显示，大部分押注都是在 Polymarket 工程师的测试环境中进行的。创作者称他们会将拍完的视频发送给 Polymarket 审核。如果视频不够吸引人，或者有明显造假痕迹，Polymarket 会要求重拍。",
-          "link": "https://www.solidot.org/story?sid=84639",
-          "publishedOn": "2026-06-22T06:36:08.000Z",
-          "wordCount": 173,
-          "title": "Polymarket 付费给内容创作者制作假的押注获胜视频",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84638",
-          "author": null,
-          "description": "Canonical 宣布将为 Ubuntu 桌面加入语音文本转录 AI 功能，它正在征询用户对该功能的反馈。预计于今年 10 月发布的 Ubuntu 26.10 将包含被称为 Myna 的 AI 功能的早期版本。在 Myna 中，语音识别在名为 Canonical Inference Snap 的沙盒组件中进行，Speech Orchestrator 负责管理会话，Audio Adapter 处理麦克风拾取的音频，在音频到达模型前对其进行降噪和分块处理。语音识别将在本地进行，一旦安装相应模型后就不再需要连接互联网。音频数据也不会被长期保存，将在会话结束后立即被丢弃。Myna 暂时不会支持语音输入密码、持续监听、翻译等功能。",
-          "link": "https://www.solidot.org/story?sid=84638",
-          "publishedOn": "2026-06-22T06:02:52.000Z",
-          "wordCount": 202,
-          "title": "Canonical 将为 Ubuntu 桌面加入语音文本转录 AI 功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84637",
-          "author": null,
-          "description": "根据视频创作工具公司 Kapwing 的一份报告，Tiktok 向新账号推荐的视频高达 59% 是 AI slop，而 YouTube 向新账号推荐的视频 AI slop 占 21%，Tiktok 几乎是 YouTube 的三倍。Kapwing 人工审核了 Tiktok 20 个类别逾万则视频，对新账号进行了一项单独的测试，统计了前 500 个 For You videos 中 AI 生成内容的比例。TikTok 的前 500 个推荐视频有 294 个是 AI slop，而 YouTube 短视频 Shorts 中前 500 个推荐视频有 104 个是 AI slop。在 Kapwing 审核的 TikTok 儿童类别 2000 则视频中，57% 是 AI slop，在所有类别中比例最高，其中 #cartoonkids 标签下 100 个精选视频有 97 个是 AI 生成，#cartoons 和 #babysong 等标签下 AI 生成视频比例都是 83%，#forkids 为 79%。科学与教育类别 AI 生成视频比例占 35%、健康（33%）和历史（33%）。截至去年 11 月 TikTok 将 13 亿个视频标记为 AI 生成。",
-          "link": "https://www.solidot.org/story?sid=84637",
-          "publishedOn": "2026-06-22T05:06:02.000Z",
-          "wordCount": 250,
-          "title": "TikTok 向新账号推荐的视频近六成是 AI slop",
           "imageUrl": null
         }
       ]
