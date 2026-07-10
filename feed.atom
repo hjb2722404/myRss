@@ -2,10 +2,144 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-07-09T06:02:06.666Z</updated>
+    <updated>2026-07-10T06:00:57.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软确认 Windows 10 可以使用 WSL 容器（WSL Containers），支持GPU直通]]></title>
+        <id>https://www.appinn.com/wsl-containers-windows-10/</id>
+        <link href="https://www.appinn.com/wsl-containers-windows-10/"/>
+        <updated>2026-07-10T03:13:10.000Z</updated>
+        <summary type="html"><![CDATA[这次，WSL Containers 可以安装在 Windows 10 中。 前几天，微软发布 Windows 原生 Linux 容器（WSL Containers）可以让 Windows 11 在不安装 Docker Desktop 的情况下，使用并运行 Docker 镜像。 而 Windows 1]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html"/>
+        <updated>2026-07-10T00:05:31.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。
+本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。
+封面图
+
+贵州修文县的"穹岛·天坑咖啡"，咖啡店建在巨大的溶洞之中。（via）
+为什么 Dropbox 不成功
+Dropbox，大家都知道吧？
+它成立于2007年，创始人是麻省理工学院的学生，经常丢失 U 盘，于是想到可以把文件上传到服务器。
+
+他就创业了，做出了世界第一个"云盘"，当时是革命性产品。
+
+这就是 Dropbox 的来历，它成立后快速走红，成为最早的头部 SaaS 服务"云公司"。
+但是，出道即巅峰，这家公司后来的发展并不顺利，最近几年完全停滞不前，知道它的人也越来越少。
+
+上面是它的历史股价走势图，2018上市那一年就是历史最高价39块，后来再也没有到。将近十年了，现在还是20多块。
+也就是说，过去十年的互联网大发展，Dropbox 不仅没有发展，反而萎缩了。
+它目前的市值（公司的价值）略高于60亿美元，相比之下，同期成立、当年声势还不如它的 Airbnb，现在的市值是850亿美元，更不要提晚于它成立的 Uber 了（市值1500亿美元）。
+到底为什么，Dropbox 没有发展起来？
+前些日子，我看到一篇分析文章，提出了一个很有意思的观点。
+作者说，Dropbox 的根本错误在于，把自己定位为消费者工具，而不是企业的生产力工具。
+Dropbox 最有名的一件事是，公司创立之初开展了一次病毒式营销。那时，用户注册还不是公开的，必须有邀请码，如果有人使用你的邀请码注册，他和你都能获得额外的免费存储空间 16GB（下图）。
+
+这个营销大获成功，邀请码一时洛阳纸贵，获取到了大量用户。这件事后来写进了教科书，被无数互联网公司效仿。
+也许受到这件事的影响，Dropbox 就一直定位自己是 C 端工具。…]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[父母的手机上瘾影响与子女的关系]]></title>
+        <id>https://www.solidot.org/story?sid=84795</id>
+        <link href="https://www.solidot.org/story?sid=84795"/>
+        <updated>2026-07-09T16:43:18.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Frontiers in Psychology》期刊上的一项研究，父母对屏幕和智能手机的上瘾可能会对孩子的发育和心理造成长期的负面影响。研究显示，对设备管理不当的看护者可能会加剧“不安全依恋”，使得人际关系变得更加焦虑和回避。这项研究基于美国 600 名 12-17 岁的未成年人的调查，儿童表示他们感到被盯着屏幕的父母边缘化或忽视。研究人员表示，缺乏安全依恋的孩子可能会缺乏自信或表现出较低的自我意识；在人际关系和亲密关系方面表现出困难；并不愿意承担取得成功所必需的风险。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[继父用 11 岁继女的照片生成数千张 CSAM 图像]]></title>
+        <id>https://www.solidot.org/story?sid=84794</id>
+        <link href="https://www.solidot.org/story?sid=84794"/>
+        <updated>2026-07-09T15:50:56.000Z</updated>
+        <summary type="html"><![CDATA[拟议中的集体诉讼披露了一起使用 xAI 的 Grok 生成数千张 CSAM（child sex abuse materials）图像的案件。
+一名女孩的继父利用一张继女在 11 岁时拍摄的照片使用 Grok 生成了 7000 张 CSAM 图像。诉讼称 Grok 在整个过程中没有标记任何有害行为。Grok 的儿童安全系统只在这名男子输入“gang rape”后才介入，向 NCMEC 发送了举报，NCMEC 随后向执法部门报告了这起案件。法律规定 CSAM 被标记后需要共享 IP 等用户信息。但 xAI 被指控拒绝合作。最终警方通过搜查令扣押了继父的设备随后将其逮捕。继父还被指控网上出售这些 CSAM 材料，换取其他儿童性犯罪者的 CSAM 材料。该男子获准保释两天后便开枪自杀，而他的继女则饱受焦虑和抑郁的折磨，诉讼称她的生活在一夜之间被摧毁了，生活变成了一场噩梦。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国使用无人机救助被洪灾困住的灾民]]></title>
+        <id>https://www.solidot.org/story?sid=84793</id>
+        <link href="https://www.solidot.org/story?sid=84793"/>
+        <updated>2026-07-09T15:02:52.000Z</updated>
+        <summary type="html"><![CDATA[广西南宁横州市爆发了严重洪灾，网上视频显示，救援人员借助无人机，转移被困群众。视频中的无人机是深圳大疆的农业无人机 FlyCart 100，其载重量为 85 公斤，能悬挂起正常体重的民众。这其实并非第一次用无人机救灾民。去年中国就有农业无人机从洪水中救出被困男子的案例。无人机已经在深圳等城市广泛用于外卖和快递。去年 3 月，中国民用航空局批准亿航智能和合肥合翼航空两家公司开展商用载人无人机服务。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国部分地区居民多达三成对红肉过敏]]></title>
+        <id>https://www.solidot.org/story?sid=84792</id>
+        <link href="https://www.solidot.org/story?sid=84792"/>
+        <updated>2026-07-09T14:36:58.000Z</updated>
+        <summary type="html"><![CDATA[根据发表在《Morbidity and Mortality Weekly Report》期刊上的一项研究，美国部分地区居民多达三成携带导致红肉过敏的抗体。这一比例远超此前的预计，意味着红肉过敏的美国人比以前认为的多得多。该过敏反应被称为α-半乳糖综合征（alpha-gal syndrome），其特点是发作缓慢，通常在餐后 2-6 小时之间出现，使得很难将过敏反应与食物联系起来。症状包括荨麻疹、恶心、呕吐、腹部绞痛、腹泻，或严重过敏反应如呼吸困难、喉咙紧缩、舌头或嘴唇肿胀、头晕、脉搏微弱和血压下降等迹象。研究人员分析了美国 10 个州 3000 份献血样本，结果显示田纳西州、阿肯色州等五个州的抗体比例最高达到 31.2%，平均 24%。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自言卡 – 每天在 Windows 桌面显示一条你自己写的话]]></title>
+        <id>https://www.appinn.com/myquotecard/</id>
+        <link href="https://www.appinn.com/myquotecard/"/>
+        <updated>2026-07-09T10:30:44.000Z</updated>
+        <summary type="html"><![CDATA[自言卡可以在 Windows 桌面显示一条你自己写的话，支持更换背景、置顶、每天随机一条，完全自定义文字内容，想写多少就多少。不联网、单 exe 文件。@Appinn 来自发现频道，开发者自荐：https://meta.appinn.net/t/topic/87785 这是我第一次公开发布自己做的软]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Euclid 望远镜发现已知最遥远的类星体]]></title>
+        <id>https://www.solidot.org/story?sid=84791</id>
+        <link href="https://www.solidot.org/story?sid=84791"/>
+        <updated>2026-07-09T10:11:30.000Z</updated>
+        <summary type="html"><![CDATA[ESA 欧几里得太空望远镜（Euclid）发射升空后，除了肩负绘制宇宙三维结构、探究暗物质与暗能量本质的主要任务外，也展现搜寻早期宇宙天体的强大能力。最新研究利用欧几里得首批巡天资料，成功发现 34 个红移大于 6.5 的星体，其中 27 个位于红移 7 以上，并确认 EUCL J172902.75+641018.1 的红移高达 7.77，成为目前已知距离最遥远的类星体。类星体是由星系中心超大质量黑洞吸积大量气体所产生的极高亮度天体，其亮度甚至可超越整个宿主星系，因此能作为探测早期宇宙的重要灯塔。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 年二季度 PC 出货量下滑 5%]]></title>
+        <id>https://www.solidot.org/story?sid=84790</id>
+        <link href="https://www.solidot.org/story?sid=84790"/>
+        <updated>2026-07-09T07:37:44.000Z</updated>
+        <summary type="html"><![CDATA[由于内存危机，2026 年二季度 PC 出货量 6820 万台同比下滑 5%。IDC 警告如果这一情况继续下去小型供应商可能会倒闭。联想等大型供应商因为能提前与内存制造商协商供货，因此状况还比较好。联想最近公布的财报显示，其 PC 和智能设备业务收入增长了 26%。IDC 警告称，随着苹果、戴尔、惠普和联想等行业巨头利用其规模优势确保内存供应并挤压小型竞争对手，厂商整合的风险在增加。行业巨头已做好从小型竞争对手手中夺取市场份额的准备，可能会迫使实力较弱的企业进行合并或退出市场。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenMandriva 项目发生破坏事件]]></title>
+        <id>https://www.solidot.org/story?sid=84789</id>
+        <link href="https://www.solidot.org/story?sid=84789"/>
+        <updated>2026-07-09T07:01:35.000Z</updated>
+        <summary type="html"><![CDATA[OpenMandriva 项目发生一起破坏事件，开发者出于透明原则公布了事件经过：有多个新人加入了项目团队，其中之一是 Mumble 项目的 Davide Beatrici，他比较知名因此获得了团队的信任，获得了管理员权限。同时加入的还有 Beatrici 的朋友。但他的朋友在发行版的 Matrix 聊天室对其他人进行了攻击和辱骂，导致其他人退出。此人最终被踢出。在朋友被踢出之后 Beatrici 也离开了项目。鉴于此开发者切断了他维护的镜像连接。但此举却激怒了 Beatrici，他滥用其管理权限删除了 GitHub 上的部分库，在 cooker 库中发布了一个空包，导致所有 gnome 和 cosmic 软件包失效，破坏使用 gnome 或 cosmic 的用户的系统。OpenMandriva 项目目前正致力于恢复已删除的库，恢复失效包的功能。项目披露这一情况旨在提醒开源社区注意 Davide Beatrici。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cinnamon 下个版本将支持 Wayland]]></title>
+        <id>https://www.solidot.org/story?sid=84788</id>
+        <link href="https://www.solidot.org/story?sid=84788"/>
+        <updated>2026-07-09T05:59:39.000Z</updated>
+        <summary type="html"><![CDATA[Linux Mint 发行版项目开发的 Cinnamon 是少数仍然不支持 Wayland 只兼容 X11 的桌面环境。但这种情况即将发生改变。Linux Mint 项目宣布，他们在支持 Wayland 上投入了大量精力，如今 Wayland 支持已经相当稳定，足以媲美 X11，因此 Wayland 支持不再被视为实验性，下个版本的 Cinnamon 将同时支持 Wayland 和 X11。Cinnamon 的下一个版本 v6.8 将包含在计划于圣诞节发布的 Linux Mint 新版本中。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terraink – 创建地图海报：把去过的地方，变成一张可以挂在墙上的地图]]></title>
         <id>https://www.appinn.com/terraink/</id>
@@ -904,37 +1038,6 @@ IVG 有潜力重新定义生殖。简单通过抽血就可以制造出一个家�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude Code 会悄悄检查用户的系统时区是否是中国]]></title>
-        <id>https://www.solidot.org/story?sid=84723</id>
-        <link href="https://www.solidot.org/story?sid=84723"/>
-        <updated>2026-06-30T16:51:14.000Z</updated>
-        <summary type="html"><![CDATA[Claude Code 被发现会悄悄检查用户的系统时区和是否来自中国 AI 公司。对 Claude Code（2.1.196）的本地二进制文件的分析发现，它会检查系统时区是否为 Asia/Shanghai 或 Asia/Urumqi，以及是否匹配中国科技公司的域名，其中包括 baidu.com、alibaba-inc.com、alipay.com、antgroup-inc.cn、bytedance.net、kuaishou.com
-、xiaohongshu.com、jd.com 和 bilibili.co 等等。此举可能是防止中国 AI 公司蒸馏其模型。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小鼠实验显示单次注射 DNA 指令的减肥时效十倍于 GLP-1 药物]]></title>
-        <id>https://www.solidot.org/story?sid=84722</id>
-        <link href="https://www.solidot.org/story?sid=84722"/>
-        <updated>2026-06-30T15:52:32.000Z</updated>
-        <summary type="html"><![CDATA[GLP-1 减肥药如 Ozempic 和 Wegovy 需要长期服用，停药后容易反弹。现在研究人员报告小鼠实验显示单次注射 DNA 指令即可实现减轻体重和控制血糖的效果，其持续时间十倍于 GLP-1 药物。新方法有助于消除重复给药的需求。人体能充当工厂合成长效抗体。新方法是基于 Weiner 实验室的肌肉 DNA 电穿孔平台（intramuscular DNA electroporation platform），患者注射一针质粒 DNA（遗传指令），然后施加电脉冲，将这些指令导入人体细胞的细胞核被读取，使细胞能持续合成抗体。Weiner 实验室使用该方法将新冠抗体指令输入到患者体内，在 1 期临床试验中患者体内抗体持续表达逾 72 周。新研究中，研究人员设计出长效肠促胰岛素激素 GLP-1 和 GIP 的 DNA 指令，其中包含了一个防止蛋白质在体内快速分解的抗体片段。在小鼠实验中，单次注射在 70 天内产生了可检测水平的肠促胰岛素，能长时间维持代谢改善效果。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据中心碳排放比预想的严重]]></title>
-        <id>https://www.solidot.org/story?sid=84721</id>
-        <link href="https://www.solidot.org/story?sid=84721"/>
-        <updated>2026-06-30T14:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Allianz Trade 公布的一份报告显示，数据中心对气候构成的危害比此前预想的更为严重。报告指出，此前人们低估了数字基础设施对气候的影响。除非采取适当措施，否则随着人工智能应用的激增，由算力需求引发的碳排放量将急剧上升。该研究估算，2025 年全球数据中心的二氧化碳排放总量达到 2.86 亿吨。这一数字比国际能源署此前研究得出的数据高出 57%。Allianz Trade 将此归因于其模型纳入了整个价值链中的间接排放（例如制造和施工环节产生的排放）以及电力传输过程中的损耗。数据显示，超过 70% 的排放源于设施的电力消耗，而约四分之一的排放则来自硬件和基础设施。数据中心对气候的危害在很大程度上取决于其地理位置。中国和美国的数据中心二氧化碳排放量合计约占全球总量的 70%。这两个国家的电力结构中，碳强度相对较高，分别为每度 384 克（美国）和 526 克（中国）。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What’s !important #14: Gap Decorations, random(), <select> field sizing, and More]]></title>
         <id>https://css-tricks.com/?p=395894</id>
         <link href="https://css-tricks.com/whats-important-14/"/>
@@ -943,117 +1046,6 @@ IVG 有潜力重新定义生殖。简单通过抽血就可以制造出一个家�
 What’s !important #14: Gap Decorations, random(), <select> field sizing, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
         <author>
             <name>Daniel Schwarz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[试验显示鱼油未能改善大脑健康]]></title>
-        <id>https://www.solidot.org/story?sid=84720</id>
-        <link href="https://www.solidot.org/story?sid=84720"/>
-        <updated>2026-06-30T13:49:20.000Z</updated>
-        <summary type="html"><![CDATA[一项为期两年、采用安慰剂对照、双盲设计的临床试验显示，高剂量 Omega-3 补充剂未能改善受试者记忆力、认知能力，也无法延缓阿尔茨海默病相关脑区的脑细胞损耗。研究共纳入 365 名 55-80 岁的受试者，他们日常很少吃鱼，而鱼类是膳食 Omega-3 的主要来源。研究人员认为受试者全部属于阿尔茨海默病患病高风险人群。近半数受试者（47%）携带 APOE4 基因，后者是目前已知的晚发性阿尔茨海默病最强遗传风险基因。受试者被随机分为两组，一组每日服用鱼油补充剂，另一组服用安慰剂。每份补充剂含有 2000 毫克二十二碳六烯酸（DHA），这是一种对大脑功能起关键作用的 Omega-3 脂肪酸。研究首要目标之一就是确认补充剂中的DHA能否真正进入大脑。研究人员通过检测包裹大脑与脊髓的脑脊液中的 DHA 含量验证了这一问题。服用 6 个月后，受试者脑脊液DHA平均提升 17%，证实该营养物质顺利抵达脑部。即便 DHA 成功进入大脑，也没有带来可量化的认知提升。研究人员分别在试验启动时与两年后对受试者的记忆、思维能力进行测评。服用 DHA 补充剂的人群，其认知测试表现与安慰剂组相比并无优势。脑部影像检测结果也印证了这一结论：鱼油补充剂无法减缓海马体萎缩。海马体是掌控记忆的核心脑区，也是评判大脑老化程度、阿尔茨海默病发病风险的标志性区域。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国大学停招众多语言专业]]></title>
-        <id>https://www.solidot.org/story?sid=84719</id>
-        <link href="https://www.solidot.org/story?sid=84719"/>
-        <updated>2026-06-30T11:29:10.000Z</updated>
-        <summary type="html"><![CDATA[麦可思研究上个月发表的一项调查发现，根据 70 所本科高校最新公布的停招专业名单，日语专业共有 8 所高校停招，德语专业 5 所，翻译研究专业 5 所。麦可思称，过去多年，外语类专业曾是高校扩招的重要方向，但随着国际交流环境变化以及人工智能翻译工具快速发展，传统语言类专业的人才培养模式也开始转型。大学如何应对 AI 带来的影响？中国大学需要政府批准才能新增专业。据报道，教育部批准下学年新增 38 个专业，其中大部分侧重于科技或数字化领域。新专业包括具身智能、商业 AI、数据智能等，以及低空经济与管理、半导体设备工程、稀土科学与工程等领域。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女真文、小篆两种中国古文字，共约 1.3 万字符，正式加入全球文字编码标准 Unicode 18.0]]></title>
-        <id>https://www.appinn.com/unicode-18-0-coming/</id>
-        <link href="https://www.appinn.com/unicode-18-0-coming/"/>
-        <updated>2026-06-30T09:34:37.000Z</updated>
-        <summary type="html"><![CDATA[无论是手机、电脑，想要正确显示世界各地的文字，都离不开 Unicode（统一码）这一全球通用的文字编码标准。2026年 9 月即将发布的 Unicode 18.0，新增女真文、小篆两种中国古文字，共新增约 1.3 万个字符。@Appinn Unicode 是什么？ Unicode（统一码）是一套全球]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际清算银行警告 AI 泡沫破裂将增加全球经济衰退风险]]></title>
-        <id>https://www.solidot.org/story?sid=84718</id>
-        <link href="https://www.solidot.org/story?sid=84718"/>
-        <updated>2026-06-30T09:05:19.000Z</updated>
-        <summary type="html"><![CDATA[国际清算银行（BIS）发表年度经济报告，警告 AI 泡沫破裂将增加全球经济衰退风险。报告指出，AI 投资虽能助推生产力提升，但过度投资一旦退潮反转，可能将引发金融系统混乱。根据早先的报道，亚马逊预计 2026 年资本支出 2000 亿美元，微软预计为 1900 亿美元，Google 约为 1800 亿美元，Meta 1400 亿美元。甲骨文也将投入巨资。五大数据中心运营商 2026 年的 AI 相关资本支出将超过 1 万亿美元。报告指出，“投资承诺的增长速度超过了这些公司的利润和自由现金流，导致部分公司不得不发行债券筹集额外资金。这场投资竞赛的部分原因可能是认为只有少数拥有卓越技术的企业最终能主导市场。”报告指出，“回报不尽如人意可能会引发融资突然收缩，使资本支出繁荣演变为旷日持久的投资萧条，可能对金融状况产生连锁反应。”报告还提到，电力供应、芯片短缺和电网连接瓶颈等问题引发了对“供应侧障碍”的担忧。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被遗弃的金鱼会破坏生态环境]]></title>
-        <id>https://www.solidot.org/story?sid=84717</id>
-        <link href="https://www.solidot.org/story?sid=84717"/>
-        <updated>2026-06-30T08:15:05.000Z</updated>
-        <summary type="html"><![CDATA[一项新研究发现，当宠物金鱼被放生或逃逸至野外时，会对淡水生态系统产生重大影响。该研究利用大型户外淡水模拟生态系统，旨在模拟真实湖泊环境。研究人员将金鱼引入实验生态系统，并长期观察它们对不同类型湖泊的影响。研究团队考察了两种常见的淡水环境：营养贫乏（寡营养）水域和营养丰富（富营养）水域。在这两种环境中，金鱼都造成了实质性的生态破坏。最重要的发现之一是水质迅速恶化。在营养丰富的系统中，金鱼导致水体透明度急剧下降，同时悬浮颗粒物显著增加，表明生态系统状况发生了重大改变。其次是本地水生物种减少。蜗牛、片脚类动物和浮游动物的种群数量显著下降。这些小型生物在健康的淡水食物网中发挥着关键作用，同时受到了捕食和栖息地干扰的双重影响。本地鱼类也受到负面冲击。金鱼与本地鱼类争夺食物和其他资源，导致本地鱼类整体体质下降。科学家将其视为长期种群健康的重要指标。研究人员表示，应将金鱼列为高优先级入侵物种。他们建议自然资源机构在野生种群建立之前，重点开展预防、早期发现和控制工作。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家发现液态水存在两种结构的分子水平证据]]></title>
-        <id>https://www.solidot.org/story?sid=84716</id>
-        <link href="https://www.solidot.org/story?sid=84716"/>
-        <updated>2026-06-30T07:49:29.000Z</updated>
-        <summary type="html"><![CDATA[根据发表在《Nature Physics》上的研究，科学家发现了液态水存在两种微观结构的分子水平证据。水可能以两种不同的结构状态存在并非新观点。几十年来科学家一直推测液态水由两种可相互转化的局部结构组成——一种密度更高更无序，另一种密度更低更有序。双状态模型被用于解释水的许多反常性质，如为什么水在冷却时更容易被压缩，以及为什么水的最大密度出现在 4°C 而不是冰点。但由于难以获得直接分子水平证该模型仍然受到争议。双状态模型的核心是被称为液液相变（liquid-liquid phase transition）的假设现象。其基本思想是，在深度过冷状态下，水会分裂成两种宏观上不同的液相：高密度液体和低密度液体。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一项关于癌症治疗时机的论文被撤稿]]></title>
-        <id>https://www.solidot.org/story?sid=84715</id>
-        <link href="https://www.solidot.org/story?sid=84715"/>
-        <updated>2026-06-30T06:59:42.000Z</updated>
-        <summary type="html"><![CDATA[今年初一篇发表在医学期刊上的文章因其惊人的结论引起了全球癌症患者和医生的关注。仅仅改变免疫疗法的给药时间，似乎就能为肺癌患者带来意想不到的巨大益处。根据在中国进行的一项临床试验结果，上午接受静脉输注的患者癌症得到控制的时间是下午接受输注患者的两倍。研究还指出，这些患者的存活时间也延长了近两倍。
-几位肿瘤科医生表示，近几个月来，他们和各自所在医院接到了大量患者的电话，咨询是否可以改在上午进行输注。上周《自然-医学》撤回了该研究，理由是其试验设计和结果存在一系列矛盾和不规范之处。期刊在其撤稿声明中列举的问题包括：原本应该在研究开始前锁定的记录在进行到一半时被修改了；该研究计划的中文版本与翻译版本之间存在差异；所有患者在研究的第一年都接受了治疗和随访，没有人因副作用而退出——这在肿瘤学研究中极为罕见；此外随访扫描的时间安排也发现了异常模式。其他研究也发现患者接受癌症免疫疗法的时间与他们的预后之间存在某种关联。但原因仍不清楚。医生们表示，这有可能是精力更充沛、更健康的患者会选择上午的时间段。而住在远离输注中心、且往往预后较差的贫困或农村患者可能会要求选择下午的时间段，因为他们需要花整个上午的时间在赶往预约的路上。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星、SK 海力士和美光再次被控串通操纵内存价格]]></title>
-        <id>https://www.solidot.org/story?sid=84714</id>
-        <link href="https://www.solidot.org/story?sid=84714"/>
-        <updated>2026-06-30T06:43:24.000Z</updated>
-        <summary type="html"><![CDATA[14 名消费者和 3 家小企业于 25 日在加州联邦法院提起诉讼，指控全球最大的三家内存供应商三星、SK 海力士和美光自 2022 年起串通操纵内存价格和供应，导致过去四年内存价格上涨约 700%。原告称，三家公司以向 HBM 过渡为借口，减少了 DDR 内存的供应，“DDR 内存寡头垄断企业系统性协调了向 HBM 的过渡以及 DDR3 和 DDR4 的停产，”苹果公司近期大幅提高产品价格是引发这场诉讼的导火索。虽然这起诉讼规模较小，但如果法院接受原告的诉求并正式批准其为集体诉讼，诉讼规模可能会扩大。代表原告的反垄断律所 Bathaee Dunne 的目标是发起一项集体诉讼，代表所有购买过含 DRAM 产品的普通消费者和企业。三星电子和 SK 海力士此前在美国被判串谋罪名成立，导致巨额罚款以及高管入狱。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美最高法院裁决手机地理位置数据受宪法第四修正案的保护]]></title>
-        <id>https://www.solidot.org/story?sid=84713</id>
-        <link href="https://www.solidot.org/story?sid=84713"/>
-        <updated>2026-06-30T05:53:58.000Z</updated>
-        <summary type="html"><![CDATA[美国最高法院裁决智能手机的地理位置数据受宪法第四修正案的保护。在 Chatrie v US 一案中，最高法院以 6 比 3 判决政府败诉。大法官 Elena Kagan 执笔多数判决书，指出地理围栏搜查令获取的敏感数据属于第四修正案规定的搜查范围，即使个人身处公共场所也享有“合理的隐私期望”，“个人对其手机位置记录享有合理的隐私期望，警方索取这些信息——即使只是在有限的时间范围内，且是从第三方科技公司获取——也侵犯了这种受宪法保护的权利。”Okello Chatrie 在 2019 年 5 月 20 日持枪抢劫了一家银行，抢走 19.5 万美元后逃走。当地警方利用地理围栏搜查令让 Google 提供了抢劫前后 30 分钟内距离银行 150 米范围内的所有设备关联的账号信息。其中一个账号就是 Chatrie。他曾选择启用 Google 的“位置历史记录”功能，该功能每隔几分钟就会记录他的位置。在认罪后他被判处 12 年监禁。他的律师认为，地理围栏搜查令搜查范围过广，侵犯了他受宪法第四修正案保护的权利。美国政府则认为执法部门只获取少量手机位置信息，不属于第四修正案所指的搜查，因而不应享有同样的隐私保护。大法官们站在了政府的对立面。乔治城大学法学教授 Paul Ohm 表示，最高法院重申，警方需要搜查令才能将 Google 位置追踪等私人服务转变为国家监控工具。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Lab 收购铱星]]></title>
-        <id>https://www.solidot.org/story?sid=84712</id>
-        <link href="https://www.solidot.org/story?sid=84712"/>
-        <updated>2026-06-30T04:28:34.000Z</updated>
-        <summary type="html"><![CDATA[火箭发射公司 Rocket Lab 宣布收购卫星运营商铱星公司。双方达成最终协议，Rocket Lab 以每股 54 美元，现金加股票的方式收购铱星所有已发行普通股。这笔收购对铱星的估值约为 80 亿美元。这笔交易还需要获得铱星股东以及监管机构的批准，交易预计将于 2027年 中期完成。铱星公司目前运营的铱星卫星星座共有 80 颗卫星，其中 66 颗为活跃卫星，14 颗为备用卫星。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dario Amodei：AI 开源是伪命题]]></title>
-        <id>http://www.ruanyifeng.com/blog/2026/06/anthropic.html</id>
-        <link href="http://www.ruanyifeng.com/blog/2026/06/anthropic.html"/>
-        <updated>2026-06-30T03:04:08.000Z</updated>
-        <summary type="html"><![CDATA[下面是 Anthropic 公司创始人 Dario Amodei 的言论。...]]></summary>
-        <author>
-            <name>阮一峰的网络日志</name>
         </author>
     </entry>
     <entry>
