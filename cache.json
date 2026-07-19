@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/cat-catch-2-7-1/",
+          "author": "青小蛙",
+          "description": "猫抓（cat-catch）是一款浏览器扩展，用来下载在线视频，包含绝大多数可以在浏览器中直接播放的视频，用起来非常简单。@Appinn 最近猫抓 2.7.1 更新，继续增强了 m3u8 下载能力，提升浏览器兼容性（尤其 Firefox、Edge、Brave），以及修复稳定性，推荐更新。 上次关注到猫",
+          "link": "https://www.appinn.com/cat-catch-2-7-1/",
+          "publishedOn": "2026-07-18T08:31:33.000Z",
+          "wordCount": 2619,
+          "title": "猫抓 2.7.1 更新，持续增强 m3u8 下载能力｜猫抓是什么？",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/07/Copy-of-appinn-homework-2026-07-18T162940.028.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/windows-7-2026-patch-tuesday/",
+          "author": "青小蛙",
+          "description": "本周二，微软为很多产品发布了补丁，包括 Windows 11、Windows 10、Windows Server、Microsoft Office、Hyper-V、Visual Studio 等产品，一共修复了 570 个安全漏洞。此次还新增了无限期暂停更新、时间点还原等功能，但面对如此多的系统漏洞",
+          "link": "https://www.appinn.com/windows-7-2026-patch-tuesday/",
+          "publishedOn": "2026-07-18T05:31:14.000Z",
+          "wordCount": 2691,
+          "title": "微软史上规模最大的“周二补丁日”：570 个漏洞、3 个 0-day、新功能时间点还原",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/07/Copy-of-appinn-homework-2026-07-18T132845.038.jpg"
+        },
+        {
           "id": "https://www.appinn.com/eggs-26717/",
           "author": "青小蛙",
           "description": "本周赛博领鸡蛋，Epic Games 共送出 2 款电脑游戏、1 款手机游戏。电脑游戏为《Luto》《Echo Generation: Midnight Edition》，手机游戏为《The Ouroboros King》。 电脑游戏 《Luto》适合 18 岁以上玩家 “地狱中没有火焰，只有空洞和",
@@ -190,26 +210,6 @@
           "wordCount": 2708,
           "title": "微软确认 Windows 10 可以使用 WSL 容器（WSL Containers），支持GPU直通",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/07/Copy-of-appinn-homework-2026-07-10T110956.676.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/myquotecard/",
-          "author": "青小蛙",
-          "description": "自言卡可以在 Windows 桌面显示一条你自己写的话，支持更换背景、置顶、每天随机一条，完全自定义文字内容，想写多少就多少。不联网、单 exe 文件。@Appinn 来自发现频道，开发者自荐：https://meta.appinn.net/t/topic/87785 这是我第一次公开发布自己做的软",
-          "link": "https://www.appinn.com/myquotecard/",
-          "publishedOn": "2026-07-09T10:30:44.000Z",
-          "wordCount": 2541,
-          "title": "自言卡 – 每天在 Windows 桌面显示一条你自己写的话",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/07/Copy-of-appinn-homework-2026-07-09T132451.377.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/terraink/",
-          "author": "青小蛙",
-          "description": "先看例子 感谢 @AAA精密钢管乌盟土狼 和 @Andrue 的推荐。 Terraink 这是个开源项目，托管在 GitHub。 源代码可以让你自己托管一个创建地图海报的网站，不过有部署好的网页，可以直接用。 效果是这样的： 直接搜索地名，就好了。青小蛙经常在上面这张地图中爬山。 然后，你可以修改范",
-          "link": "https://www.appinn.com/terraink/",
-          "publishedOn": "2026-07-09T03:19:06.000Z",
-          "wordCount": 2511,
-          "title": "Terraink – 创建地图海报：把去过的地方，变成一张可以挂在墙上的地图",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/07/Copy-of-appinn-homework-2026-07-09T111653.665.jpg"
         }
       ]
     },
@@ -286,16 +286,6 @@
           "wordCount": 1484,
           "title": "CSS新单位dvh、lvmin、vi、cqb等初解",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=12246",
-          "author": "张 鑫旭",
-          "description": "之前有setHTMLUnsafe()，现在新增了setHTML()方法，前有document.startViewTransition()，现在增强为元素也支持startViewTransition方法，都来看看他们的作用吧！",
-          "link": "https://www.zhangxinxu.com/wordpress/2026/07/sethtml-element-startviewtransition/",
-          "publishedOn": "2026-07-09T02:54:11.000Z",
-          "wordCount": 1461,
-          "title": "前端快讯：setHTML()和Element.startViewTransition已支持",
-          "imageUrl": null
         }
       ]
     },
@@ -304,6 +294,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84863",
+          "author": null,
+          "description": "2025 年美国新车仅有 0.6% 是手动挡，汽车已是自动挡的天下，电动汽车和自动驾驶汽车的兴起也加速了手动挡汽车的消失。相比下欧洲的情况略好，行业分析公司 JATO Dynamics 的数据显示，欧洲最大汽车市场手动挡汽车的注册比例从 2001 年的 91% 下降到 2024 年的 29%。曾以手动挡汽车知名的斯巴鲁（Subaru）已停止提供手动挡车型，大众汽车将于今年停产在美国销售的最后一款手动挡车型捷达 GLI。丰田、本田和宝马都减少了面向美国市场的手动挡车型。",
+          "link": "https://www.solidot.org/story?sid=84863",
+          "publishedOn": "2026-07-18T16:08:06.000Z",
+          "wordCount": 171,
+          "title": "手动挡汽车越来越少见",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84862",
+          "author": null,
+          "description": "天文学家确认一颗名为 GJ3378b 的系外行星，位于距离地球仅 25 光年的红矮星宜居带内，可能具备孕育生命的条件。这颗行星位于鹿豹座方向，围绕一颗暗淡的红矮星运行，被视为目前已知距离地球最近的潜在宜居世界之一。GJ3378b 最初于 2024 年被法国天文学家发现。当时测定的质量为地球的 5.26 倍，被认为是一颗类似微型海王星的气态行星。天文学家利用基特峰国家天文台的 WIYN 3.5米望远镜等设备进行二次观测后，修正了这一结论。新数据显示，GJ3378b 的真实质量仅为地球的 2.3 倍，属于岩石质地的“超级地球”。轨道参数同样得到修正。最初认为该行星的公转周期为 25 天，实际仅为 21 天。这意味着它比此前判断的更靠近母星，但也恰好处于宜居带内——这一区域允许行星表面温度维持液态水的存在。这颗行星从母星接收的辐射量约为地球从太阳获取的 90%，位置非常理想。",
+          "link": "https://www.solidot.org/story?sid=84862",
+          "publishedOn": "2026-07-18T15:14:47.000Z",
+          "wordCount": 185,
+          "title": "天文学家确认了 25 光年外的一颗位于宜居带的岩石行星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84861",
+          "author": null,
+          "description": "“电视会腐蚀你的大脑”这句话也许在字面意义上是正确的。根据发表在《Alzheimer’s and Dementia: Journal of the Alzheimer’s Association》上的一项研究，常看电视的人大脑中与记忆相关的区域体积缩小，额叶和枕叶变小，大脑白质出现了与衰老、中风风险、认知能力下降和痴呆症相关的损伤区域。研究人员分析了约 1700 名成年人的数据，他们的平均年龄 53 岁，在 1987-1989 年间参与了心血管研究 Atherosclerosis Risk in Communities(ARIC) 。参与者被询问了休闲时看电视的频率。20 多年后参与者接受了脑部核磁共振成像检查。结果显示，重度电视人群的大脑结构出现了缩小，其中男性的影响更显著。",
+          "link": "https://www.solidot.org/story?sid=84861",
+          "publishedOn": "2026-07-18T14:49:30.000Z",
+          "wordCount": 176,
+          "title": "重度电视观众有更小的大脑结构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84860",
+          "author": null,
+          "description": "Mozilla 工程总监 Sylvestre Ledru 通过 dev-platform@mozilla.org 邮件列表宣布，从 2026 年 9 月起 Firefox 桌面版和 Android 版本的发布周期从 4 周减少到 2 周。他表示这是一次实验，并不意味着工作进度加倍，并不会仓促交付新功能。当前的目标是在 9 月 1 日释出 Firefox 155 而不是原计划的 9 月 15 日，“我们将密切关注这一变化在实际中的效果，根据需要进行调整。”Firefox 接下来的两个版本 Firefox 153（ESR） 和 154 仍然是每隔 4 周释出，Firefox 155 开始提前两周释出。",
+          "link": "https://www.solidot.org/story?sid=84860",
+          "publishedOn": "2026-07-18T14:36:22.000Z",
+          "wordCount": 217,
+          "title": "Firefox 将从 9 月 1 日起每两周发布一个新版本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84859",
+          "author": null,
+          "description": "世界各地的亚马逊 AWS 客户周五可能都心跳加速，他们看到了远远超过他们想象的账单数字，很多每月只花几美元的客户看到了数亿乃至数十亿美元的账单，很多企业甚至看到了数以万亿美元的账单。亚马逊证实其计费系统出现问题，账单预估数字不正确，在问题解决期间它暂停了账单更新。亚马逊称它已经识别问题是单位导致的，所有受影响客户预计到 7 月 19 日 12:00 AM PDT 将会完全恢复正常。亚马逊没有详细解释单位问题，猜测是原来按 GB 收费的系统漏掉了 GB，而系统默认按 Byte 计费，1 GB = 1,073,741,824 Bytes，这意味着一小时内账单费用就会膨胀十亿倍。",
+          "link": "https://www.solidot.org/story?sid=84859",
+          "publishedOn": "2026-07-18T04:28:20.000Z",
+          "wordCount": 185,
+          "title": "亚马逊 AWS 计费系统单位错误导致客户看到了数亿乃至数万亿美元的账单",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84858",
           "author": null,
@@ -922,86 +962,6 @@
           "publishedOn": "2026-07-10T07:33:05.000Z",
           "wordCount": 200,
           "title": "美国国会调查美国公司使用中国 AI 模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84795",
-          "author": null,
-          "description": "根据发表在《Frontiers in Psychology》期刊上的一项研究，父母对屏幕和智能手机的上瘾可能会对孩子的发育和心理造成长期的负面影响。研究显示，对设备管理不当的看护者可能会加剧“不安全依恋”，使得人际关系变得更加焦虑和回避。这项研究基于美国 600 名 12-17 岁的未成年人的调查，儿童表示他们感到被盯着屏幕的父母边缘化或忽视。研究人员表示，缺乏安全依恋的孩子可能会缺乏自信或表现出较低的自我意识；在人际关系和亲密关系方面表现出困难；并不愿意承担取得成功所必需的风险。",
-          "link": "https://www.solidot.org/story?sid=84795",
-          "publishedOn": "2026-07-09T16:43:18.000Z",
-          "wordCount": 164,
-          "title": "父母的手机上瘾影响与子女的关系",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84794",
-          "author": null,
-          "description": "拟议中的集体诉讼披露了一起使用 xAI 的 Grok 生成数千张 CSAM（child sex abuse materials）图像的案件。\n一名女孩的继父利用一张继女在 11 岁时拍摄的照片使用 Grok 生成了 7000 张 CSAM 图像。诉讼称 Grok 在整个过程中没有标记任何有害行为。Grok 的儿童安全系统只在这名男子输入“gang rape”后才介入，向 NCMEC 发送了举报，NCMEC 随后向执法部门报告了这起案件。法律规定 CSAM 被标记后需要共享 IP 等用户信息。但 xAI 被指控拒绝合作。最终警方通过搜查令扣押了继父的设备随后将其逮捕。继父还被指控网上出售这些 CSAM 材料，换取其他儿童性犯罪者的 CSAM 材料。该男子获准保释两天后便开枪自杀，而他的继女则饱受焦虑和抑郁的折磨，诉讼称她的生活在一夜之间被摧毁了，生活变成了一场噩梦。",
-          "link": "https://www.solidot.org/story?sid=84794",
-          "publishedOn": "2026-07-09T15:50:56.000Z",
-          "wordCount": 210,
-          "title": "继父用 11 岁继女的照片生成数千张 CSAM 图像",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84793",
-          "author": null,
-          "description": "广西南宁横州市爆发了严重洪灾，网上视频显示，救援人员借助无人机，转移被困群众。视频中的无人机是深圳大疆的农业无人机 FlyCart 100，其载重量为 85 公斤，能悬挂起正常体重的民众。这其实并非第一次用无人机救灾民。去年中国就有农业无人机从洪水中救出被困男子的案例。无人机已经在深圳等城市广泛用于外卖和快递。去年 3 月，中国民用航空局批准亿航智能和合肥合翼航空两家公司开展商用载人无人机服务。",
-          "link": "https://www.solidot.org/story?sid=84793",
-          "publishedOn": "2026-07-09T15:02:52.000Z",
-          "wordCount": 164,
-          "title": "中国使用无人机救助被洪灾困住的灾民",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84792",
-          "author": null,
-          "description": "根据发表在《Morbidity and Mortality Weekly Report》期刊上的一项研究，美国部分地区居民多达三成携带导致红肉过敏的抗体。这一比例远超此前的预计，意味着红肉过敏的美国人比以前认为的多得多。该过敏反应被称为α-半乳糖综合征（alpha-gal syndrome），其特点是发作缓慢，通常在餐后 2-6 小时之间出现，使得很难将过敏反应与食物联系起来。症状包括荨麻疹、恶心、呕吐、腹部绞痛、腹泻，或严重过敏反应如呼吸困难、喉咙紧缩、舌头或嘴唇肿胀、头晕、脉搏微弱和血压下降等迹象。研究人员分析了美国 10 个州 3000 份献血样本，结果显示田纳西州、阿肯色州等五个州的抗体比例最高达到 31.2%，平均 24%。",
-          "link": "https://www.solidot.org/story?sid=84792",
-          "publishedOn": "2026-07-09T14:36:58.000Z",
-          "wordCount": 170,
-          "title": "美国部分地区居民多达三成对红肉过敏",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84791",
-          "author": null,
-          "description": "ESA 欧几里得太空望远镜（Euclid）发射升空后，除了肩负绘制宇宙三维结构、探究暗物质与暗能量本质的主要任务外，也展现搜寻早期宇宙天体的强大能力。最新研究利用欧几里得首批巡天资料，成功发现 34 个红移大于 6.5 的星体，其中 27 个位于红移 7 以上，并确认 EUCL J172902.75+641018.1 的红移高达 7.77，成为目前已知距离最遥远的类星体。类星体是由星系中心超大质量黑洞吸积大量气体所产生的极高亮度天体，其亮度甚至可超越整个宿主星系，因此能作为探测早期宇宙的重要灯塔。",
-          "link": "https://www.solidot.org/story?sid=84791",
-          "publishedOn": "2026-07-09T10:11:30.000Z",
-          "wordCount": 175,
-          "title": "Euclid 望远镜发现已知最遥远的类星体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84790",
-          "author": null,
-          "description": "由于内存危机，2026 年二季度 PC 出货量 6820 万台同比下滑 5%。IDC 警告如果这一情况继续下去小型供应商可能会倒闭。联想等大型供应商因为能提前与内存制造商协商供货，因此状况还比较好。联想最近公布的财报显示，其 PC 和智能设备业务收入增长了 26%。IDC 警告称，随着苹果、戴尔、惠普和联想等行业巨头利用其规模优势确保内存供应并挤压小型竞争对手，厂商整合的风险在增加。行业巨头已做好从小型竞争对手手中夺取市场份额的准备，可能会迫使实力较弱的企业进行合并或退出市场。",
-          "link": "https://www.solidot.org/story?sid=84790",
-          "publishedOn": "2026-07-09T07:37:44.000Z",
-          "wordCount": 184,
-          "title": "2026 年二季度 PC 出货量下滑 5%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84789",
-          "author": null,
-          "description": "OpenMandriva 项目发生一起破坏事件，开发者出于透明原则公布了事件经过：有多个新人加入了项目团队，其中之一是 Mumble 项目的 Davide Beatrici，他比较知名因此获得了团队的信任，获得了管理员权限。同时加入的还有 Beatrici 的朋友。但他的朋友在发行版的 Matrix 聊天室对其他人进行了攻击和辱骂，导致其他人退出。此人最终被踢出。在朋友被踢出之后 Beatrici 也离开了项目。鉴于此开发者切断了他维护的镜像连接。但此举却激怒了 Beatrici，他滥用其管理权限删除了 GitHub 上的部分库，在 cooker 库中发布了一个空包，导致所有 gnome 和 cosmic 软件包失效，破坏使用 gnome 或 cosmic 的用户的系统。OpenMandriva 项目目前正致力于恢复已删除的库，恢复失效包的功能。项目披露这一情况旨在提醒开源社区注意 Davide Beatrici。",
-          "link": "https://www.solidot.org/story?sid=84789",
-          "publishedOn": "2026-07-09T07:01:35.000Z",
-          "wordCount": 188,
-          "title": "OpenMandriva 项目发生破坏事件",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84788",
-          "author": null,
-          "description": "Linux Mint 发行版项目开发的 Cinnamon 是少数仍然不支持 Wayland 只兼容 X11 的桌面环境。但这种情况即将发生改变。Linux Mint 项目宣布，他们在支持 Wayland 上投入了大量精力，如今 Wayland 支持已经相当稳定，足以媲美 X11，因此 Wayland 支持不再被视为实验性，下个版本的 Cinnamon 将同时支持 Wayland 和 X11。Cinnamon 的下一个版本 v6.8 将包含在计划于圣诞节发布的 Linux Mint 新版本中。",
-          "link": "https://www.solidot.org/story?sid=84788",
-          "publishedOn": "2026-07-09T05:59:39.000Z",
-          "wordCount": 196,
-          "title": "Cinnamon 下个版本将支持 Wayland",
           "imageUrl": null
         }
       ]
