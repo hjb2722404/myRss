@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-07-25T05:12:20.874Z</updated>
+    <updated>2026-07-26T05:30:02.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Debian 讨论是否允许使用 LLM]]></title>
+        <id>https://www.solidot.org/story?sid=84922</id>
+        <link href="https://www.solidot.org/story?sid=84922"/>
+        <updated>2026-07-25T15:53:13.000Z</updated>
+        <summary type="html"><![CDATA[Debian 项目正在讨论如何使用 LLM 以及是否允许使用 LLM。其中一个提议是明确禁止使用 LLM，但只限于 Debian 本身，上游项目以及上游安全补丁不包含在内。另一个提议是允许 AI 辅助贡献，但需要确保 AI 生成代码符合 Debian 的各项规定，贡献者需要承担责任和履行披露义务。开发者指出，LLM 存在版权和许可方面的问题，也不能确保质量和准确性，会增加社区审核者的负担，AI 公司在训练大模型时无视版权和许可抓取数据，伤害了整个自由软件社区，对无数用户依赖的网站发起了一波波拒绝服务攻击，它的训练也消耗大量资源。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国司法部起诉一位公民提供了会导致手机数据自动删除的密码]]></title>
+        <id>https://www.solidot.org/story?sid=84921</id>
+        <link href="https://www.solidot.org/story?sid=84921"/>
+        <updated>2026-07-25T13:27:28.000Z</updated>
+        <summary type="html"><![CDATA[美国司法部起诉了一位公民在入境搜查时提供了所谓的“胁迫密码”，输入该密码导致手机上的数据自动删除。这起案件被认为是美国首例“胁迫密码”案例。本案的被告是亚特兰大居民 Samuel Tunick，他的手机运行了安全加固的 Android 操作系统 GrapheneOS，它内置了一项安全功能，允许用户设置“胁迫密码”，如果输入的不是解锁密码而是“胁迫密码”，那么手机上的数据将会自动清除。本案引发了在入境时美国公民可以援引哪些宪法权利的疑问。美国政府长期坚称，在允许入境前边境处不属于美国领土。数字安全专家 Runa Sandvik 建议，为了避免被当局认为是故意销毁数据，公民可以在入境前先清空数据，入境后再重新下载。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达、微软、OpenAI 等公司反对限制开放权重模型]]></title>
+        <id>https://www.solidot.org/story?sid=84920</id>
+        <link href="https://www.solidot.org/story?sid=84920"/>
+        <updated>2026-07-25T10:57:43.000Z</updated>
+        <summary type="html"><![CDATA[在一群初创公司之后，科技巨头如微软、英伟达、思科、戴尔、IBM、甚至 OpenAI 等数十家公司和组织联署发表公开信，呼吁美国政府不要过早限制开放权重模型，认为此举会扼杀竞争或导致本土创新放缓。公开信称，开放权重模型能促进竞争，确保 AI 技术的好处能广泛共享，避免其掌握在少数人手中，而闭源模型并不意味着绝对安全。没有署名的知名 AI 公司包括了 Google、Anthropic 以及 xAI/SpaceX，其中 SpaceX CEO 马斯克通过社交媒体口头表达了对公开信的支持，而 Anthropic 明显是站在支持限制开放权重模型的一边，该公司正投入 4000 万美元游说特朗普政府加强监管 AI 模型。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IKEA Complexity Index：为 2 万件宜家家具计算“安装难度分”]]></title>
+        <id>https://www.appinn.com/ikea-complexity-index/</id>
+        <link href="https://www.appinn.com/ikea-complexity-index/"/>
+        <updated>2026-07-25T07:37:44.000Z</updated>
+        <summary type="html"><![CDATA[买宜家家具的时候，我们通常会关注价格、尺寸和外观。但还有一个很少有人提前考虑的问题：它到底有多难装？ 有些家具打开包装后，半小时就能完成；有些柜子则需要面对几十块板材、上百颗螺丝，以及一张让人反复确认也无法看懂的说明书。 IKEA Complexity Index（宜家复杂性指数） 有一位开发者做了]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IRGC 声称摧毁了亚马逊巴林数据中心]]></title>
         <id>https://www.solidot.org/story?sid=84919</id>
@@ -914,86 +954,6 @@ writing-mode originally handwritten and published with love on CSS-Tricks. You s
         <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
         <author>
             <name>阮一峰的网络日志</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grok Build 开源，在这之前它被发现会上传用户的完整库]]></title>
-        <id>https://www.solidot.org/story?sid=84848</id>
-        <link href="https://www.solidot.org/story?sid=84848"/>
-        <updated>2026-07-16T10:44:12.000Z</updated>
-        <summary type="html"><![CDATA[xAI 在 GitHub 上公开了其辅助编程智能体 Grok Build 的源代码，此举可能是某种重新赢得用户信任的补救措施。因为在这之前它被发现存在严重的隐私安全问题，会上传用户的完整代码库。Grok Build 被发现在读取或处理文件时，该文件的内容未经任何编辑就被传输到 xAI 使用的 Google Cloud Storage 中。Grok Build 的数据保留远超 Claude Code、Gemini 和 Codex 等类似工具。有 Grok Build 用户报告，包含 SSH 密钥、密码管理器数据库等的完整用户目录都被上传了。Elon Musk 表示该公司将彻底删除此前上传到服务器上的用户数据。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马不靠声音或气味就能识别屏幕上的捕食者]]></title>
-        <id>https://www.solidot.org/story?sid=84847</id>
-        <link href="https://www.solidot.org/story?sid=84847"/>
-        <updated>2026-07-16T09:23:32.000Z</updated>
-        <summary type="html"><![CDATA[发表在 PLOS One 上的一项新研究发现，马不依赖声音、气味或过往经验就能识别屏幕上的捕食者。传感器显示，马看到屏幕上的狼后心跳会加速，但面无表情十分镇定。研究显示，马没有摇头，没有摇尾巴，其目光也没有锁定屏幕以表明大脑在处理威胁信息。论文第一作者 Zeynep Benderlioglu 称，马在评估潜在威胁时展现出惊人的认知克制而不是惊吓。在实验中，马看到屏幕上的袋熊时心率平稳，但看到屏幕上的狼——无论狼是在攻击还是梳理——时其心率会显著加快，其中雄性马的反应更强烈。Benderlioglu 说，马的认知处理能力出乎意料的高。它们高度警惕，但威胁并没有出现，所以它们没有表现出任何异常行为，它们正在进行认知评估。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图书出版商指控 Google 在训练 Gemini 过程中大规模侵犯版权]]></title>
-        <id>https://www.solidot.org/story?sid=84846</id>
-        <link href="https://www.solidot.org/story?sid=84846"/>
-        <updated>2026-07-16T07:57:15.000Z</updated>
-        <summary type="html"><![CDATA[大型图书出版商 Hachette、Cengage 和 Elsevier 以及作家 Scott Turow 指控 Google 在训练 Gemini 模型过程中未经许可使用了数百万受版权保护图书，声称这是历史上最严重的版权侵犯事件之一。出版商称，Google 挪用了用于 Google Books、Google Play Books 和 Google Scholar 等服务的图书，这些服务允许 Google 以特定方式使用相关图书——如显示可搜索的片段或销售电子书，但无权将这些图书用于训练商业 AI 产品。诉讼书称：“为了维持其在互联网领域的统治地位，Google 放弃了其早期‘不作恶’的座右铭，犯下了历史上最严重的版权侵权事件之一。”诉讼书称，Google 内部早已认识到该问题，它可能会面临“100-1000 亿美元的潜在罚款”，但仍然未经许可将这些图书用于训练 Gemini。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple WLOC – iOS 虚拟定位]]></title>
-        <id>https://www.appinn.com/apple-wloc/</id>
-        <link href="https://www.appinn.com/apple-wloc/"/>
-        <updated>2026-07-16T07:42:55.000Z</updated>
-        <summary type="html"><![CDATA[Apple WLOC 是一款用于修改 Apple 网络定位服务（Wi-Fi/基站），实现 iOS 虚拟定位的开源项目。@Appinn 注意：这是 Wi-Fi / 基站的虚拟定位，不改变 GPS。 三个步骤： 第一步：使用下面 app 中的模块订阅功能，并启用 MITM： 第二步：安装快捷指令 第三步]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepSeek 计划年内申请 IPO]]></title>
-        <id>https://www.solidot.org/story?sid=84845</id>
-        <link href="https://www.solidot.org/story?sid=84845"/>
-        <updated>2026-07-16T07:01:00.000Z</updated>
-        <summary type="html"><![CDATA[深度求索（DeepSeek）计划启动新一轮融资，目标融资高达 500 亿元人民币，估值高达 4800 亿人民币。该公司也已开始就可能在上交所科创板上市进行初步探讨。该公司的内部目标是计划在今年提交 IPO 申请。今年 6 月，DeepSeek 完成了成立以来的首轮外部融资，募资总额逾 500 亿元人民币，融资后估值约为 3380 亿人民币。首轮融资中，梁文锋个人出资 200 亿元人民币，腾讯控股和电池巨头宁德时代分别出资 100 亿元人民币和 50 亿元人民币，成为最大的外部股东。京东、网易及 IDG 资本各出资 30 亿元，国家人工智能产业投资基金出资 10 亿元。DeepSeek 如此迅速的融资节奏，源于其对资本支出的预期增加。该公司计划建设自有数据中心并采购更多 AI 芯片。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因意外关机和过热微软暂停向部分戴尔电脑推送七月安全更新]]></title>
-        <id>https://www.solidot.org/story?sid=84844</id>
-        <link href="https://www.solidot.org/story?sid=84844"/>
-        <updated>2026-07-16T06:44:22.000Z</updated>
-        <summary type="html"><![CDATA[对部分戴尔电脑用户而言，Windows 的周二例行安全更新之后紧跟着的是周三的电脑出问题了。微软确认，由于意外关机、性能下降、发热增加和电池耗电过快，它停止向部分配备英特尔处理器的戴尔电脑推送更新。但微软和戴尔尚未披露受影响设备的型号。微软只是表示正与戴尔合作，防止受影响型号出现问题，计划在未来几天内发布针对受影响设备的解决方案。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 公司高管加强个人安保]]></title>
-        <id>https://www.solidot.org/story?sid=84843</id>
-        <link href="https://www.solidot.org/story?sid=84843"/>
-        <updated>2026-07-16T06:24:20.000Z</updated>
-        <summary type="html"><![CDATA[在 Sam Altman 住所遭遇纵火未遂事件五天后，一名男子尝试尾随 Anthropic 员工进入公司大楼，保安及时阻止了他，该男子对保安说要去警告一名 Anthropic 高管，有人要杀他。随着对 AI 的反对声浪日益高涨，科技公司高管开始加强个人安保。提供安全服务的 Liferaft 公司称，针对 AI 公司高管和数据中心的网络威胁数量增长了七倍，6 月的威胁数量略有下降。Equilar 对公开文件的分析显示，2025 年标普 500 指数成分股公司中有 38.1% 的公司披露了高管安保支出，而 2021 年这一比例为 26.8%。其中 Palantir Technologies 高管安保支出在一年内增长了 150%；甲骨文安保支出增长了 85.5%——主要是保护 Larry Ellison 的住所；Salesforce 安保支出增至 400 万美元，比 2024 年多约 100 万美元。硅谷安保公司 JPT Security 的客户关系副总裁 Dakota Dominguez 称由于面临强烈反对，科技公司越来越多的要求配备武装保镖，不同于明星和政客喜欢身材魁梧的保镖，科技公司高管通常要求的是低调的安保措施。AI 公司也日益不鼓励员工身穿带有公司标识的服装。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群晖 DSM 7.4：原生数据去重/压缩功能，可节省硬盘空间。是 DS216+、DS918+ 的最后一个版本]]></title>
-        <id>https://www.appinn.com/synology-dsm-7-4/</id>
-        <link href="https://www.appinn.com/synology-dsm-7-4/"/>
-        <updated>2026-07-16T06:12:35.000Z</updated>
-        <summary type="html"><![CDATA[群晖 DSM 7.4 正式发布，带来了数据缩减功能，可在后台自动删除重复的数据块，并压缩文件大小。在硬盘价格疯涨的今天，为用户提供更多的可用存储空间。另外还有 AI 助手、AI 私有知识库、GPU 信息显示等功能。@Appinn 另外，这个版本将是早期群晖设备的最后一个版本，包括 DS216+、DS]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
