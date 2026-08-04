@@ -210,16 +210,6 @@
           "wordCount": 2620,
           "title": "CCleaner 复刻版：3.57MB，开源清理工具 FluentCleaner Classic 发布",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/07/Copy-of-appinn-homework-2026-07-26T143902.035.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/ikea-complexity-index/",
-          "author": "青小蛙",
-          "description": "买宜家家具的时候，我们通常会关注价格、尺寸和外观。但还有一个很少有人提前考虑的问题：它到底有多难装？ 有些家具打开包装后，半小时就能完成；有些柜子则需要面对几十块板材、上百颗螺丝，以及一张让人反复确认也无法看懂的说明书。 IKEA Complexity Index（宜家复杂性指数） 有一位开发者做了",
-          "link": "https://www.appinn.com/ikea-complexity-index/",
-          "publishedOn": "2026-07-25T07:37:44.000Z",
-          "wordCount": 2560,
-          "title": "IKEA Complexity Index：为 2 万件宜家家具计算“安装难度分”",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/07/Copy-of-appinn-homework-2026-07-25T153229.407.jpg"
         }
       ]
     },
@@ -228,6 +218,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=396204",
+          "author": "Sam Davis Omekarajr",
+          "description": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\nGap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/css-gap-decorations-now-available/",
+          "publishedOn": "2026-08-03T15:53:20.000Z",
+          "wordCount": 3525,
+          "title": "Gap Decorations Are Now Available, Here’s What’s New",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/gap-decorations-thumb.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=395508",
           "author": "Temani Afif",
@@ -278,6 +278,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=12316",
+          "author": "张 鑫旭",
+          "description": "间隙装饰线其实由来已久，不过仅支持垂直分隔线，且只在Columns布局中有效，经过这么多年的等待，终于，Flex和Grid布局中也能自定义分割线效果啦，且进行了增强，支持多属性值、交点中断设置、间距边缘距离控制、repeat()函数语法等，很棒的新特性。",
+          "link": "https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/",
+          "publishedOn": "2026-08-03T13:20:14.000Z",
+          "wordCount": null,
+          "title": "来了来了，Flex/Grid布局的间隙装饰线它来了",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=12253",
           "author": "张 鑫旭",
           "description": "在过去，我们无法判断用户是否存在多个显示器，也无法让新窗口在主屏或者辅屏精确位置显示，现在，有了Window Management API，一切问题迎刃而解。",
@@ -294,6 +304,96 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=84996",
+          "author": null,
+          "description": "微软 Windows 和设备执行副总裁 Pavan Davuluri 通过官方博客谈论了该公司在 Windows 11 上持续展开的改进工作，虽然大部分工作尚未推送给用户。他透露接下来的一项工作是优化 Windows 11 在 8GB 内存以上配置下的运行效率。由于目前的内存供应危机，PC 厂商又开始提供 8GB 内存配置的电脑，然而 Windows 11 在 8GB 内存下只能勉强运行，运行其它程序面临很大的局限性。Davuluri 表示该公司将减少 Windows 的内存占用，在用户日常使用的 PC 上提供快速响应的 Windows 体验。",
+          "link": "https://www.solidot.org/story?sid=84996",
+          "publishedOn": "2026-08-03T16:03:05.000Z",
+          "wordCount": 207,
+          "title": "微软表示正致力于优化 Windows 11 在 8GB 内存下的运行效率",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84995",
+          "author": null,
+          "description": "塑料颗粒显然已经遍及地球的各个角落。根据发表在《Water Research》期刊上的一项研究，韩国研究人员检查了生活在水下 2000 米处深海热泉附近的蜗牛和贻贝，12 只受检动物 92%（11 只）体内都发现了微小的塑料碎片。海洋生物学家 Se-Joo Kim 说，深海热泉曾被认为是地球上最与世隔绝的环境之一。每只深海热泉动物体内平均发现了 3.42 个塑料碎片，最常见的是聚苯乙烯。研究人员还发现，摄食行为会影响微塑料在动物体内的积累位置。海床进食的蜗牛，塑料聚集在消化器官中；滤食性贻贝的塑料分布则更为均匀。",
+          "link": "https://www.solidot.org/story?sid=84995",
+          "publishedOn": "2026-08-03T14:43:54.000Z",
+          "wordCount": 168,
+          "title": "科学家在深海热泉动物体内发现塑料颗粒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84994",
+          "author": null,
+          "description": "澳大利亚联邦银行、微软、 Uber 和凯悦酒店等公司正用自动化聊天和电话系统去处理以前需要人工完成的工作。AI 系统开始大幅削减客服人数。呼叫中心行业在美国、印度和菲律宾等地雇佣了数百万从业者。随着 AI 技术的进步以及高管面临拥抱新技术的压力，企业日益用生成式 AI 工具取代客服。美国的客服务人数正在下降，未来这一趋势会继续下去。分析师估计到 2030 年近半客服岗位将受到影响。西方公司此前将客服外包到熟悉英语的菲律宾、印度等国，随着 AI 的普及，这些国家的客服人数预计会大量减少。澳大利亚最大银行——联邦银行（Commonwealth Bank of Australia）裁减了数百名客服，每年预计节省数千万美元。微软将其客服团队（其中包括合同工和全职员工）从约 5 万人缩减至 4 万人。微软销售和服务运营负责人 Judson Althoff 在 4 月曾表示，AI 每年为公司节省约 7.5 亿美元的客服成本。他表示，更复杂的问题仍需要人工支持，但公司正不断扩展自动化修复的范围。凯悦酒店去年裁掉了美洲地区三成的内部客服。Uber 裁减了 10% 的客服岗位以“拥抱 AI”。",
+          "link": "https://www.solidot.org/story?sid=84994",
+          "publishedOn": "2026-08-03T14:22:06.000Z",
+          "wordCount": 194,
+          "title": "AI 开始大幅减少客服岗位",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84993",
+          "author": null,
+          "description": "澳大利亚政府为 16 岁以下儿童的社交媒体禁令辩护，称禁令重塑了全国的舆论，极大改变了与家长之间的对话，关闭了数百万​​个儿童账户。政府从未指望禁令能得到 100% 的遵守，就像最低饮酒年龄法无法做到 100% 遵守一样，但法律的存在仍然是恰当的。此前的研究发现，禁令生效三个月后，逾八成澳大利亚青少年仍在继续使用社交媒体，10-15 岁儿童在 3 月使用社交媒体的频率与 12 月 10 日禁令生效前一样高。",
+          "link": "https://www.solidot.org/story?sid=84993",
+          "publishedOn": "2026-08-03T13:41:05.000Z",
+          "wordCount": 171,
+          "title": "澳大利亚社媒禁令效果有限",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84992",
+          "author": null,
+          "description": "在 Linux 游戏社区多年请求之后，GOG Galaxy 游戏启动器将原生支持 Linux。GOG 有游戏的 Linux 版本可以下载，但只能通过网站下载，GOG Galaxy 客户端只支持 Windows 和 macOS 操作系统。GOG 没有公布支持 Linux 的时间，只是表示正在开发中。GOG Galaxy 类似 Steam 客户端，支持自动游戏安装和更新、云端存档同步、成就追踪、游戏时长统计、游戏库管理、商店浏览、 好友列表和社交功能等等。在 Valve 的 Proton 推动下，Linux 对游戏的支持日益改进，越来越多的游戏公司也认识到了 Linux 的重要性。",
+          "link": "https://www.solidot.org/story?sid=84992",
+          "publishedOn": "2026-08-03T10:49:52.000Z",
+          "wordCount": 198,
+          "title": "GOG Galaxy 将原生支持 Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84991",
+          "author": null,
+          "description": "加州居民从 8 月 1 日起可要求数据经纪商删除个人数据。Delete Request and Opt-Out Platform (DROP) 允许加州居民通过一次性选择加入的方式，从数百个数据处理中心删除个人信息。此前用户要删除个人信息需要联系每个数据处理商。数据处理商需要在 90 天内删除用户的数据，之后每 45 天删除一次。加州是美国第一个创建易于使用的数据删除系统的州，",
+          "link": "https://www.solidot.org/story?sid=84991",
+          "publishedOn": "2026-08-03T09:35:53.000Z",
+          "wordCount": 188,
+          "title": "加州居民从 8 月 1 日起可要求数据经纪商删除个人数据",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84990",
+          "author": null,
+          "description": "硬件钱包本应是保存比特币最安全的地方：不联网、密钥不离设备，攻击者需物理接触才能盗取加密货币。Coinkite 制造的比特币硬件钱包 Coldcard 使用硬件随机数生成器产生 128 位熵值，这个数字是如此之大现有的计算能力无法破解。然而 2021 年 3 月的一次更新引入了严重 bug，默认的硬件随机数生成器被切换为软件随机数生成器，在 Mk3 设备上，有效搜索空间缩小到 40 位。128 位和 40 位之间的差异是无法被打开的锁和可以被打开的锁之间的区别。攻击者可以租用云计算资源进行暴力破解，在无需接触硬件的情况下获得钱包的密钥。过去几天，攻击者从 4585 个地址窃取了 1367 个比特币，价值近 8900 万美元。Coinkite 已释出新固件，受影响用户需在更新后的硬件上生成全新钱包，将比特币迁移至新钱包。",
+          "link": "https://www.solidot.org/story?sid=84990",
+          "publishedOn": "2026-08-03T08:34:11.000Z",
+          "wordCount": 193,
+          "title": "冷钱包攻击导致比特币被盗近 8900 万美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84989",
+          "author": null,
+          "description": "马来西亚柔佛州警方上个月打击了加密货币矿工的偷电行为，逮捕了三名嫌疑人，缴获了电脑、路由器、汽车以及比特币矿机。该团伙绕过电表偷电，导致电力公司一个月内损失约 14,500 欧元，而比特币矿机每月可产生17,200-21,500 欧元的收入。这起案件价值相对较小，但 2020-2025 年马来西亚能源公司识别了近 14,000 处场所涉及偷电挖加密货币，累计损失 11 亿欧元。加密货币挖矿偷电事件从 2018 年的 610 起增至 2024 年的 2,397 起。加密货币挖矿本身并非犯罪行为，但政府发现非法加密货币挖矿与网络赌博、洗钱以及东南亚大规模电诈之间存在关联。",
+          "link": "https://www.solidot.org/story?sid=84989",
+          "publishedOn": "2026-08-03T07:45:07.000Z",
+          "wordCount": 174,
+          "title": "马来西亚打击加密货币矿工的偷电",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=84988",
+          "author": null,
+          "description": "AI 真的会推理吗？它展示的推理链/思维链真的是导出结论前的逻辑步骤？或者它给出的推理过程只是在糊弄我们？一种拟人化的虚构？Quantamagazine 上的一篇文章讨论了这一问题，作者认为 LRM（large reasoning models）在解复杂问题时常常能给出正确答案，但整个机制仍然是不透明的，是一种黑盒子，而思维链更像是某种自言自语而不是严谨的推理。AI 专家 Melanie Mitchell 指出，LRM 有效，执行推理任务的准确率比 LLM 高；思维链不一定忠实反映模型内部的运作过程；模型合成的思维链文本基本无用完全可以删除。2025 年美国东北大学和加州伯克利的研究人员分析了开源前沿 LRM 模型，发现 30%-60% 的思考步骤对模型在数学题上给出的答案“几乎没有因果影响”。",
+          "link": "https://www.solidot.org/story?sid=84988",
+          "publishedOn": "2026-08-03T06:54:38.000Z",
+          "wordCount": 178,
+          "title": "AI 通过错误的推理得到正确的结果？",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=84987",
           "author": null,
@@ -942,36 +1042,6 @@
           "publishedOn": "2026-07-26T09:26:31.000Z",
           "wordCount": 188,
           "title": "苹果改编的《神经漫游者》将于明年 1 月上映",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84922",
-          "author": null,
-          "description": "Debian 项目正在讨论如何使用 LLM 以及是否允许使用 LLM。其中一个提议是明确禁止使用 LLM，但只限于 Debian 本身，上游项目以及上游安全补丁不包含在内。另一个提议是允许 AI 辅助贡献，但需要确保 AI 生成代码符合 Debian 的各项规定，贡献者需要承担责任和履行披露义务。开发者指出，LLM 存在版权和许可方面的问题，也不能确保质量和准确性，会增加社区审核者的负担，AI 公司在训练大模型时无视版权和许可抓取数据，伤害了整个自由软件社区，对无数用户依赖的网站发起了一波波拒绝服务攻击，它的训练也消耗大量资源。",
-          "link": "https://www.solidot.org/story?sid=84922",
-          "publishedOn": "2026-07-25T15:53:13.000Z",
-          "wordCount": 180,
-          "title": "Debian 讨论是否允许使用 LLM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84921",
-          "author": null,
-          "description": "美国司法部起诉了一位公民在入境搜查时提供了所谓的“胁迫密码”，输入该密码导致手机上的数据自动删除。这起案件被认为是美国首例“胁迫密码”案例。本案的被告是亚特兰大居民 Samuel Tunick，他的手机运行了安全加固的 Android 操作系统 GrapheneOS，它内置了一项安全功能，允许用户设置“胁迫密码”，如果输入的不是解锁密码而是“胁迫密码”，那么手机上的数据将会自动清除。本案引发了在入境时美国公民可以援引哪些宪法权利的疑问。美国政府长期坚称，在允许入境前边境处不属于美国领土。数字安全专家 Runa Sandvik 建议，为了避免被当局认为是故意销毁数据，公民可以在入境前先清空数据，入境后再重新下载。",
-          "link": "https://www.solidot.org/story?sid=84921",
-          "publishedOn": "2026-07-25T13:27:28.000Z",
-          "wordCount": 165,
-          "title": "美国司法部起诉一位公民提供了会导致手机数据自动删除的密码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84920",
-          "author": null,
-          "description": "在一群初创公司之后，科技巨头如微软、英伟达、思科、戴尔、IBM、甚至 OpenAI 等数十家公司和组织联署发表公开信，呼吁美国政府不要过早限制开放权重模型，认为此举会扼杀竞争或导致本土创新放缓。公开信称，开放权重模型能促进竞争，确保 AI 技术的好处能广泛共享，避免其掌握在少数人手中，而闭源模型并不意味着绝对安全。没有署名的知名 AI 公司包括了 Google、Anthropic 以及 xAI/SpaceX，其中 SpaceX CEO 马斯克通过社交媒体口头表达了对公开信的支持，而 Anthropic 明显是站在支持限制开放权重模型的一边，该公司正投入 4000 万美元游说特朗普政府加强监管 AI 模型。",
-          "link": "https://www.solidot.org/story?sid=84920",
-          "publishedOn": "2026-07-25T10:57:43.000Z",
-          "wordCount": 181,
-          "title": "英伟达、微软、OpenAI 等公司反对限制开放权重模型",
           "imageUrl": null
         }
       ]
