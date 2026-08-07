@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-08-06T05:14:12.914Z</updated>
+    <updated>2026-08-07T04:23:35.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 407 期）：国家为什么需要开源软件？]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/08/weekly-issue-407.html"/>
+        <updated>2026-08-07T00:08:27.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界正在耗尽河沙]]></title>
+        <id>https://www.solidot.org/story?sid=85028</id>
+        <link href="https://www.solidot.org/story?sid=85028"/>
+        <updated>2026-08-06T16:30:22.000Z</updated>
+        <summary type="html"><![CDATA[世界各地的工业采砂活动正以远超地球自然补充的速度开采河床沉积物。世界正在耗尽河沙。研究显示全世界对河沙和砾石的需求是不可持续的。越南目前的采砂速度约为自然沉积物补充速度的 11.8 倍。越南在 2015-2022 年间开采了约 3.66 亿立方米的沙子，导致河床平均下沉 0.48 米。如此大的变化会对水流方式、河流系统的健康以及河流两岸的结构产生重大影响。越南湄公河段在 2018-2020 年间，逾 1800 栋房屋因河岸侵蚀而倒塌。如果越南湄公河目前的采砂速度持续下去，到 2035 年河沙将枯竭。河沙因其颗粒能提供合适的摩擦力，且一般不含盐分，因此在建筑领域广泛使用，它占到了混凝土体积的七成以上。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 State of CSS, Devs Surveys]]></title>
+        <id>https://css-tricks.com/?p=396471</id>
+        <link href="https://css-tricks.com/2026-state-of-css-devs-surveys/"/>
+        <updated>2026-08-06T15:54:52.000Z</updated>
+        <summary type="html"><![CDATA[A few notes and takeaways from the 2026 State of CSS survey results, including a nice CSS-Tricks cameo!
+2026 State of CSS, Devs Surveys originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来的火星宇航员如何应对有毒的火星沙尘？]]></title>
+        <id>https://www.solidot.org/story?sid=85027</id>
+        <link href="https://www.solidot.org/story?sid=85027"/>
+        <updated>2026-08-06T15:45:05.000Z</updated>
+        <summary type="html"><![CDATA[NASA 未来有意将宇航员送往火星，但火星宇航员如何应对有毒的火星沙尘？NASA 今年早些时候成立了 Martian Dust Limit Working Group，评估已知和未知的火星沙尘对人类宇航员的毒理学危害，最终为人类在火星上设定一个允许的暴露极限值。几十年前的阿波罗宇航员就发现处理月尘很麻烦。月尘会粘附在任何接触到的物体上，会侵蚀宇航服，导致设备和仪器过热，破坏宇航服的密封性，甚至刺激宇航员的眼睛和肺部。火星沙尘不像月尘那样尖锐会割伤人，但火星沙尘有月尘没有的化学成分和矿物质，如对人类有害的高氯酸盐。火星是完全不同的世界，火星沙尘比月尘对健康的危害要大得多。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redidt 准备进一步限制 Old Reddit]]></title>
+        <id>https://www.solidot.org/story?sid=85026</id>
+        <link href="https://www.solidot.org/story?sid=85026"/>
+        <updated>2026-08-06T15:20:10.000Z</updated>
+        <summary type="html"><![CDATA[Reddit 的新版本因为推荐算法和广告等原因而导致用户体验不佳，老用户仍然偏爱旧版本的 Old Reddit(old.reddit.com)。但根据最新的官方博客，Old Reddit 的未来岌岌可危。Reddit 官方声称内容抓取者利用了 Old Reddit 无需登陆的便利而恶意抓取其内容，它将逐步改变 Old Reddit。短期内用户仍然能继续访问 Old Reddit，但将需要登陆。对于所谓的“改变”，Reddit 官方没有给出更具体的说明，只是表示在“探索不同的方案”。Old Reddit 最终可能会消失。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[background-clip升级，支持边框或文字应用背景]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/?p=12341</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/08/background-clip-border-area-text/"/>
+        <updated>2026-08-06T12:24:54.000Z</updated>
+        <summary type="html"><![CDATA[厉害了，我的CSS，border边框也支持background背景了，原生支持哦，不是之前的那种模拟效果哦，而且Safari和Chrome都支持了哟，就是其貌不扬的background-clip属性]]></summary>
+        <author>
+            <name>张 鑫旭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家确认灯架虎耳草是食肉植物]]></title>
+        <id>https://www.solidot.org/story?sid=85025</id>
+        <link href="https://www.solidot.org/story?sid=85025"/>
+        <updated>2026-08-06T11:01:10.000Z</updated>
+        <summary type="html"><![CDATA[科学家在青藏高原发现的开花植物灯架虎耳草被确认为一个新的食虫植物谱系，以确凿证据实证存在食肉植物类型，也证实进化论奠基人达尔文 150 多年前提出的植物物种可能具有食肉性的预测。研究结果表明，灯架虎耳草能够吸引、捕获并消化昆虫，并从中吸收氮元素。1875 年达尔文曾推测，作为一类通常生长在高山环境中的被子植物，虎耳草属的某些物种可能具有食肉性，因为它们拥有能够捕获昆虫的粘性腺毛。此前一直缺乏确凿证据来支持这一假说。在本项研究中，研究团队对生长在中国青藏高原-横断山脉高山地区的灯架虎耳草进行全面深入研究，实地观察和现有植物样本的调查显示，在 45 个被调查的标本中，有 43 个的腺毛上附着有昆虫猎物，成熟植株平均共捕获 71 只昆虫(主要附着在这些腺毛上)。随后研究团队通过荧光标记法检测到了磷酸酶活性(一种常见于食虫植物的消化酶)，这表明该植物可能具有消化猎物的能力。接下来，研究团队将标记有稳定氮同位素的果蝇喂给灯架虎耳草，以分析该植物能否从猎物中吸收营养。他们观察到，灯架虎耳草及另一种食虫植物的对照植株中，标记氮的水平显著上升，这与非食虫对照组形成鲜明对比，从而支持了灯架虎耳草物种具有食虫行为的假说。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观鸟活动或有助于延缓大脑衰老]]></title>
+        <id>https://www.solidot.org/story?sid=85024</id>
+        <link href="https://www.solidot.org/story?sid=85024"/>
+        <updated>2026-08-06T10:48:28.000Z</updated>
+        <summary type="html"><![CDATA[发表在《Journal of Neuroscience》期刊上的一项研究发现，资深观鸟者的大脑结构与普通人之间存在一些差异，或许正是这些差异让他们能更好地识别陌生鸟类。这或许表明，观鸟活动能重塑人的大脑，其作用机制与学习一门语言或一种乐器类似。这类活动或许能增强参与者的认知储备，即提升大脑抵御衰老、适应损伤的能力。
+在学习或练习某项技能时，大脑会强化并优化相关神经通路，这种能力被称为“神经可塑性”，是人类发展专业技能的基础。为探究观鸟活动是否同样能重塑大脑，加拿大约克大学的研究人员对 48 名业余观鸟者进行了大脑结构与功能分析。受试者年龄在 22-79 岁之间，两组在性别、年龄和受教育程度上均相当，其中有一半经筛查测试被判定为资深观鸟者，而另一半为新手。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[北极气温多次超过 32 摄氏度]]></title>
+        <id>https://www.solidot.org/story?sid=85023</id>
+        <link href="https://www.solidot.org/story?sid=85023"/>
+        <updated>2026-08-06T09:20:04.000Z</updated>
+        <summary type="html"><![CDATA[北极多地气温本周多次超过 32 摄氏度。北极圈附近的 Selagoncy 气象站记录到 33.9 摄氏度的高温；另一个气象站 Olenek 的气温也达到了 32.7 摄氏度。气象学家 Alan Gerard 表示，最近几年的研究表明，由于海冰减少的反馈作用，北极升温速度远超地球其它地区，“这是一个危险的反馈循环：随着海冰融化，北极反射的阳光减少，海洋吸收的热量增加。反过来又导致海冰进一步减少。该地区升温速度比世界其它地区快四倍。”今年预计将出现强厄尔尼诺现象，气温上升的趋势短期内不太可能放缓。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软：人工智能初学者课程，一共12周、24节课]]></title>
+        <id>https://www.appinn.com/ms-ai-for-beginners/</id>
+        <link href="https://www.appinn.com/ms-ai-for-beginners/"/>
+        <updated>2026-08-06T08:38:00.000Z</updated>
+        <summary type="html"><![CDATA[这是微软开源的人工智能初学者课程，目前已经获得了 6万多颗 Star，拥有好几十种语言，包括简体中文、繁体中文，非常受欢迎。@Appinn 课程一共12周、24节课，适合初学者，涵盖了 TensorFlow 和 PyTorch 等工具，以及 AI 伦理。 课程内容 课程链接 PyTorch/Kera]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIGHTRUN – 无需操作系统，用 U 盘启动的的本地大模型客户端]]></title>
+        <id>https://www.appinn.com/nightrun/</id>
+        <link href="https://www.appinn.com/nightrun/"/>
+        <updated>2026-08-06T08:32:04.000Z</updated>
+        <summary type="html"><![CDATA[NIGHTRUN 是一个能直接 UEFI 启动的 LLM 终端。无需操作系统、在电脑中插入启动 U 盘，立即进入本地大模型对话界面。@Appinn 感谢 @Andrue 同学的推荐： 就是完全不用操作系统，直接打开电脑的电源，就是本地大模型终端： UEFI 固件 → NIGHTRUN → 本地模型]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 语言宣布 LLM 政策]]></title>
+        <id>https://www.solidot.org/story?sid=85022</id>
+        <link href="https://www.solidot.org/story?sid=85022"/>
+        <updated>2026-08-06T07:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Rust 语言团队宣布了新的 LLM 政策。
+
+除了作者没有人被要求必须阅读 LLM 输出，除非其自愿选择：LLM 输出不允许出现在公开文档、PR 描述或 GitHub 评论中，除非明确标注；审核者如果不愿意，无需查看 LLM 生成的 PR。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家拍到迄今最清晰的太阳表面图像]]></title>
+        <id>https://www.solidot.org/story?sid=85021</id>
+        <link href="https://www.solidot.org/story?sid=85021"/>
+        <updated>2026-08-06T07:35:29.000Z</updated>
+        <summary type="html"><![CDATA[科学家拍摄到迄今为止​最清晰的太阳表面图像，展现出比以往所见复杂得多的太阳表层景象，为该层的磁活动区提供了新的见解。研究报告发表于《自然》期刊。太阳的可见表面又称光球，是其大气的一个薄层。等离子体在这里变得透明，使光能够逃逸。已知这一区域动态且复杂，磁场和对流等众多因素塑造了太阳的大气结构。美国国家太阳天文台（NSO）的研究人员利用位于夏威夷的井上太阳望远镜，获取了具有迄今最高空间分辨率的太阳可见表面观测结果。该研究观测了一处靠近太阳黑子的磁活跃区域。在新的高分辨率图像中，太阳表面主要呈现带状和涡旋状结构。研究人员认为，这些特征与开尔文-亥姆霍兹不稳定性有关，后者是一种经典流体动力学现象，当两种流体以不同速度互相掠过时就会形成波浪状结构。这是首次获得证据，表明太阳表面存在这一现象。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2027 年全年内存产能已全部预定和售罄]]></title>
+        <id>https://www.solidot.org/story?sid=85020</id>
+        <link href="https://www.solidot.org/story?sid=85020"/>
+        <updated>2026-08-06T07:14:14.000Z</updated>
+        <summary type="html"><![CDATA[DigiTimes 报道，受 AI 需求和长期协议的推动，三大内存制造商三星、SK 海力士和美光 2027 年的 DRAM 和 HBM 内存产能已全部售罄。PC、笔记本电脑和智能手机使用的 DRAM 内存供应在 2027 年将更紧张，NAND 闪存的产能也可能在 2026 年 8 月底前被全部预订。这三大内存制造商占据了逾九成的市场份额，它们没有新增供应的计划。AI 对内存的需求远超过供应，内存制造商正与企业签订长期协议以确保长达 5 年的内存供应，情况相当严峻。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google DeepMind CEO Demis Hassabis 卸任]]></title>
         <id>https://www.solidot.org/story?sid=85019</id>
@@ -928,136 +1072,6 @@ Aquiry文明所占区域不到大亚马孙地区的 3%。]]></summary>
         <summary type="html"><![CDATA[在过去，我们无法判断用户是否存在多个显示器，也无法让新窗口在主屏或者辅屏精确位置显示，现在，有了Window Management API，一切问题迎刃而解。]]></summary>
         <author>
             <name>张 鑫旭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parallels Desktop 26 最新优惠码[截止26年8月25日]]]></title>
-        <id>https://www.appinn.com/parallels-desktop-26/</id>
-        <link href="https://www.appinn.com/parallels-desktop-26/"/>
-        <updated>2026-07-28T15:58:06.000Z</updated>
-        <summary type="html"><![CDATA[Parallels Desktop 26 官网 55 折优惠码 商业版使用 BIZ35 优惠码可获得 65折优惠。 另外 Parallels Desktop 26 已经进入常年打55折的情况了。 突破苹果限制，可虚拟2台以上 macOS 如果你需要3台虚拟机，会受到 macOS，无法创建。 不过有一]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国开始量产 DUV 光刻机]]></title>
-        <id>https://www.solidot.org/story?sid=84947</id>
-        <link href="https://www.solidot.org/story?sid=84947"/>
-        <updated>2026-07-28T15:22:24.000Z</updated>
-        <summary type="html"><![CDATA[The Information 本周一报道，一家总部位于上海的企业已启动浸没式深紫外（DUV）光刻机的小规模批量生产，预计今年内向中芯国际、华虹半导体及长鑫存储等主要芯片制造商交付首批约5台设备，2027 年产量计划提升至约20台。这款中国产光刻机主打28纳米芯片生产，还可满足 7 纳米级别芯片的制造需求。路透周二报道，该公司名为上海爱晟纳电子科技集团，是一家国营企业，2023 年 8 月在上海成立，注册资本就高达 70 亿元人民币，主要股东为上海电气控股集团及上海国际信托旗下子公司等国有资本。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大议员在议会演讲期间阅读了 AI 的回应]]></title>
-        <id>https://www.solidot.org/story?sid=84946</id>
-        <link href="https://www.solidot.org/story?sid=84946"/>
-        <updated>2026-07-28T15:13:45.000Z</updated>
-        <summary type="html"><![CDATA[AI 聊天机器人在回答用户问题时经常会拟人化的给出替代答案，比如“有一个更自然更流畅的版本”之类。上个月，加拿大 New Brunswick 省进步保守党(Progressive Conservative Party)议员 Bill Oliver 在议会演讲中大声朗读，“here’s a more natural, flowing version of that section that reads like a legislative speech rather than a series of short points”，这是大模型的典型回复。这段奇怪的朗读当时未引起多少注意，但上周相关视频开始在社交媒体上广泛传播，引起了加拿大广播公司等主流媒体的注意。Oliver 绝非第一个盲目朗读他人代笔演讲稿的政客，当然也不是第一个依赖 LLM 辅助撰写演讲稿的政客。但在公开场合大声朗读明显是 AI 生成的文字且没有意识到，无疑是创造了新的历史。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CloudCone 九周年庆典 VPS 促销活动｜高性价比 SSD VPS 提供商，最低 124 元/年]]></title>
-        <id>https://www.appinn.com/cloudcone-turns-9/</id>
-        <link href="https://www.appinn.com/cloudcone-turns-9/"/>
-        <updated>2026-07-28T14:27:46.000Z</updated>
-        <summary type="html"><![CDATA[CloudCone 九周年庆典 VPS 促销活动已经开启，最低配 18.28 美元/年，折合人民币 124 元，美国洛杉矶，终身续订优惠。@Appinn 是的，涨价了。相较于此前的价格（84元/年），的确涨价了，幅度不小。 九周年庆典 这次 CloudCone 发来邮件的内容是九周年庆典，语言也很直]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[维基基金会决定不自愿认可员工工会]]></title>
-        <id>https://www.solidot.org/story?sid=84945</id>
-        <link href="https://www.solidot.org/story?sid=84945"/>
-        <updated>2026-07-28T13:45:27.000Z</updated>
-        <summary type="html"><![CDATA[管理维基百科的维基基金会选择了美国科技公司常用的应对员工组建工会的策略：不自愿认可。对于员工组建工会，雇主通常有两种选择：其一是员工递交有超过半数人签名的工会组建请求，雇主选择自愿认可该工会在其工作场所的唯一代表权，然后展开相关谈判；其二是不自愿认可工会请求，而是要求进行选举，期间会要求员工参加强制性的听证会，听取关于工会的不同意见，包括反工会的宣传，可能还有其它恐吓工会积极分子的手段。维基媒体基金会通过官方网站宣布它选择第二种方案，声称它的 342 名美国员工对加入工会持有不同的看法，它将要求员工进行选举，如果通过将会认可工会。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类能在十周内学会回声定位]]></title>
-        <id>https://www.solidot.org/story?sid=84944</id>
-        <link href="https://www.solidot.org/story?sid=84944"/>
-        <updated>2026-07-28T10:33:03.000Z</updated>
-        <summary type="html"><![CDATA[回声定位是蝙蝠鲸鱼等动物导航寻路的一种方式。2021 年研究人员在《PLOS One》上发表论文称，盲人和视力正常的人都可以通过发出滴答声（clicks）学会回声定位。上个月研究人员在《Cerebral Cortex》期刊上发表了一项后续研究，称人类能在十周内学会回声定位。26 名参与者接受了 10 周的回声定位训练，研究人员调查了训练对其大脑结构的影响。研究团队分析了 V1（初级视觉皮层，负责处理视觉信息）和 A1（初级听觉皮层，负责处理声音信息）的脑部扫描图像。结果显示，盲人和视力正常的人的 V1 区域对声音回声的敏感性都得到了提升。这进一步证明，大脑的适应能力都很强。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梦并不随机，大脑在改写现实]]></title>
-        <id>https://www.solidot.org/story?sid=84943</id>
-        <link href="https://www.solidot.org/story?sid=84943"/>
-        <updated>2026-07-28T08:53:10.000Z</updated>
-        <summary type="html"><![CDATA[为什么有些梦栩栩如生，另一些梦则支离破碎难以理解？根据发表在《Communications Psychology》上的一项研究，答案可能取决于个性、睡眠质量、思维习惯以及外部世界发生的重大事件的综合影响。研究发现，梦境并非仅仅是图像和想法的随机集合。它们可能受到个体差异和共同经历的影响，包括新冠疫情之类的重大社会动荡。研究分析了 287 位年龄在 18-70 岁之间的参与者提供的 3700 多份梦境和清醒时的经历描述。在为期两周内，参与者记录了其梦境和日常经历。研究人员还收集了每个人的睡眠习惯、个性、认知能力和心理特征等信息。结果表明，梦境内容既非完全随机，也非本质混乱。清醒时更容易走神的人，会报告梦境变化迅速且感觉更加碎片化。梦境常常在不同场景、想法或视角之间快速切换。相比下更重视梦境并相信梦境具有个人意义的参与者，会描述更丰富、更沉浸式的梦境体验。他们的梦境报告包含更丰富的感知细节，使梦境场景感觉更加生动逼真。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国政府豁免了 Starlink 的越南造路由器]]></title>
-        <id>https://www.solidot.org/story?sid=84942</id>
-        <link href="https://www.solidot.org/story?sid=84942"/>
-        <updated>2026-07-28T07:37:16.000Z</updated>
-        <summary type="html"><![CDATA[特朗普政府宣布，SpaceX 的 Starlink 路由器不受 FCC 针对外国造路由器的禁令约束。SpaceX 的豁免有效期截至 2028 年 2 月 1 日。FCC 此前将大部分外国制造的消费级路由器以国家安全理由加入到限制清单中。SpaceX 在德克萨斯州设有一家工厂，其部分路由器上印有“美国制造”，但该公司还有部分路由器是在越南制造的。禁令不影响已获 FCC 批准销售的路由器，但企业需要获得豁免才能销售未来推出的路由器型号。Netgear 是首家获得豁免的大型供应商，亚马逊的 Eero 路由器以及用于 Leo 宽带卫星服务的路由器也获得了豁免。TP-Link 是一家在中国成立但已将其总部迁至美国的路由器制造商，目前尚未获得豁免。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla 允许 Haiku 使用 Firefox 命名移植版]]></title>
-        <id>https://www.solidot.org/story?sid=84941</id>
-        <link href="https://www.solidot.org/story?sid=84941"/>
-        <updated>2026-07-28T07:15:20.000Z</updated>
-        <summary type="html"><![CDATA[开源 BeOS 操作系统 Haiku 发布了一个 Firefox 移植版本，由于 Mozilla 的商标政策，该移植版被称为 Iceweasel。在协商之后， Mozilla 授权 Haiku 正式使用 Firefox 名字命名移植版本。 开发者表示 Iceweasel 不会消失，他计划同时维护两个版本，将 Iceweasel 作为注重隐私、不收集遥测数据的版本，而 Firefox 则作为完全官方、符合 Mozilla 规范的版本，会启用遥测功能。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[车载存储器成本大幅上涨]]></title>
-        <id>https://www.solidot.org/story?sid=84940</id>
-        <link href="https://www.solidot.org/story?sid=84940"/>
-        <updated>2026-07-28T06:25:45.000Z</updated>
-        <summary type="html"><![CDATA[AI 投资热潮带动存储器价格暴涨，影响已开始波及汽车产业。通用汽车表示，由于半导体等原材料价格上涨，2026 年成本最多将增加 20 亿美元。汽车企业之所以开始提及存储器带来的成本增加，是因为在 AI 需求增加的情况下，在高级驾驶辅助系统（ADAS）等方面使用 DRAM 的汽车也会受到影响。中国汽车公司受到存储器价格暴涨的影响更大。华源证券透露，截至 2025 年 11 月，中国产汽车搭载的存储器成本为每辆超过 70 美元，为世界最高。中国汽车正加快普及智能座舱、AI 智能语音和高级驾驶辅助等功能。与其他国家相比，中国汽车搭载的存储器性能更高、用量也更大。由于车载产品对安全性的要求较高，即便采用新的国产存储器，也需要经过 2-3 年的测试验证，无法立即投入使用。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新一轮厄尔尼诺气候持续增强]]></title>
-        <id>https://www.solidot.org/story?sid=84939</id>
-        <link href="https://www.solidot.org/story?sid=84939"/>
-        <updated>2026-07-28T06:09:17.000Z</updated>
-        <summary type="html"><![CDATA[科学家表示，太平洋上持续增强的厄尔尼诺气候现象，有望成为 150 年来最强的一次。如果他们预测的可怕情况成真，厄尔尼诺将从海洋释放大量热量，加上人为引起的气候变化带来的升温效应，很可能使 2027 年成为有记录以来最热的一年，并在全球多地引发极端天气。非营利研究机构“伯克利地球”预测，此次厄尔尼诺事件与气候变化相结合，导致 2027 年全球平均气温较工业化前水平升高 1.7 摄氏度“并非完全没有可能”。厄尔尼诺-南方涛动（ENSO）是热带太平洋海面温度与风的自然波动。历史上该现象每 2-7 年会在高温厄尔尼诺与低温拉尼娜之间交替出现。上一轮厄尔尼诺发生在 2023-2024年。此前气象专家就警告新一轮强厄尔尼诺即将到来，而今年的厄尔尼诺已于 6 月出现。此次厄尔尼诺距离上一轮仅两年，可能意味着人为造成的气候变化正在驱动 ENSO  周期发生系统性转变。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国 AI 公司在华盛顿的游说支出创下记录]]></title>
-        <id>https://www.solidot.org/story?sid=84938</id>
-        <link href="https://www.solidot.org/story?sid=84938"/>
-        <updated>2026-07-28T05:42:44.000Z</updated>
-        <summary type="html"><![CDATA[美国 AI 公司在华盛顿投入创纪录金额进行游说，希望限制不利监管，并影响美国围绕数据中心建设以及先进模型审查制定的规则。根据联邦披露文件，2026 年上半年 OpenAI 的联邦游说支出较去年同期接近翻番，达到创纪录的 222 万美元。Anthropic 的游说支出则接近增长至原来的三倍达到 353 万美元。Google 和微软的支出达到 2020 年以来的季度最高水平。尽管 AI 公司在很多问题上有共同利益，但他们的立场并非总是一致，Anthropic 公开声明要对开放权重 AI 模型加强监管，微软等公司则反对限制开放权重模型。过去几个月增加游说支出的公司包括 Scale AI（Meta 持有 49% 股份）以及腾讯。Google 表示在倡导联邦立法，以促进美国在 AI 领域的领导地位，确保 AI 以负责任的方式发展并造福所有人。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PowerToys、Wintoys 等 70 多款 Windows 软件遭遇冒牌官网攻击]]></title>
-        <id>https://www.appinn.com/windows-apps-fake-websites-malware/</id>
-        <link href="https://www.appinn.com/windows-apps-fake-websites-malware/"/>
-        <updated>2026-07-28T05:12:59.000Z</updated>
-        <summary type="html"><![CDATA[Wintoys 开发者 @Bogdan_X 在 Reddit 爆料：“我发现了一场大规模的恶意软件攻击行动，攻击者冒充超过 70 款热门 Windows 软件，建立了假冒官网诱导用户下载，最终向用户传播恶意软件。” 他最初发现，有人注册了与 Wintoys 相关的冒牌域名，并使用自己的应用名称和旧版]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
