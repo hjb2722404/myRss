@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/google-play-aptoide-games-third-party-app-store/",
+          "author": "青小蛙",
+          "description": "因 Google 与 Epic Games 诉讼案的法院裁决，Google 正式在官方应用商店 Google Play 中，上架了第一款第三方应用商店：Aptoide Games 目前 Aptoide Games 仅在美区上架。 为此 Google 还专门上线了一个专门的网页，就叫做第三方应用商店。",
+          "link": "https://www.appinn.com/google-play-aptoide-games-third-party-app-store/",
+          "publishedOn": "2026-08-12T06:47:20.000Z",
+          "wordCount": 2602,
+          "title": "Google Play 应用商店正式上架第一款「第三方应用商店 Aptoide Games」",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-11T231213.759.jpg"
+        },
+        {
           "id": "https://www.appinn.com/thu-tuna-removed-openwrt-flutter-anaconda-gitlab-ee/",
           "author": "青小蛙",
           "description": "清华大学开源软件镜像站发布通知，由于存储资源严重受限，为保证服务正常运行，TUNA 镜像站已经移除了如下镜像：Anaconda、OpenWrt、GitLab EE、Flutter（flutter-sdk.git 依旧保留）。@Appinn 这些镜像的 rsync 服务已经停止提供。为避免影响用户，对",
@@ -160,16 +170,6 @@
           "wordCount": 2552,
           "title": "Windows 10 默认壁纸，原来和 XP 壁纸一样都来自真实世界",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-04T171730.843.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/faxian-top10-2631/",
-          "author": "青小蛙",
-          "description": "最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 41 款免费在线益智小游戏 2️⃣ Parking Practice：在浏览器里练习倒车入库和侧方停车 快来试下趴 3️⃣ 网页里的电脑博物馆 4️⃣ 【自荐】闲置 Windows/Mac 变身机顶",
-          "link": "https://www.appinn.com/faxian-top10-2631/",
-          "publishedOn": "2026-08-03T01:00:40.000Z",
-          "wordCount": 2526,
-          "title": "发现频道：10款大家发现的好评软件[2026年第31期]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-16.jpg"
         }
       ]
     },
@@ -178,6 +178,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=396255",
+          "author": "Durgesh Rajubhai Pawar",
+          "description": "The warning is correct. And the recommended fixes you've probably seen are wrong. Here's what you can do instead to properly fix the issue.\nBlocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/blocked-aria-hidden-fix/",
+          "publishedOn": "2026-08-12T13:43:56.000Z",
+          "wordCount": 11022,
+          "title": "Blocked aria-hidden: The Warning is Right, and Every Fix You’ve Found is Wrong",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/devtools-aria-hidden-console-warning.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=394978",
           "author": "Preethi",
@@ -217,16 +227,6 @@
           "wordCount": 3259,
           "title": "2026 State of CSS, Devs Surveys",
           "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/state-of-css-2026-banner.png"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396204",
-          "author": "Sam Davis Omekarajr",
-          "description": "Today, with CSS gap decorations fully supported in Chrome and Edge, starting with version 149, you can now very easily style gaps, and with a lot of control.\nGap Decorations Are Now Available, Here’s What’s New originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/css-gap-decorations-now-available/",
-          "publishedOn": "2026-08-03T15:53:20.000Z",
-          "wordCount": 3525,
-          "title": "Gap Decorations Are Now Available, Here’s What’s New",
-          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/07/gap-decorations-thumb.jpg"
         }
       ]
     },
@@ -261,16 +261,6 @@
           "wordCount": null,
           "title": "background-clip升级，支持边框或文字应用背景",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=12316",
-          "author": "张 鑫旭",
-          "description": "间隙装饰线其实由来已久，不过仅支持垂直分隔线，且只在Columns布局中有效，经过这么多年的等待，终于，Flex和Grid布局中也能自定义分割线效果啦，且进行了增强，支持多属性值、交点中断设置、间距边缘距离控制、repeat()函数语法等，很棒的新特性。",
-          "link": "https://www.zhangxinxu.com/wordpress/2026/08/css-flex-grid-column-row-rule/",
-          "publishedOn": "2026-08-03T13:20:14.000Z",
-          "wordCount": null,
-          "title": "来了来了，Flex/Grid布局的间隙装饰线它来了",
-          "imageUrl": null
         }
       ]
     },
@@ -279,6 +269,136 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85078",
+          "author": null,
+          "description": "Google 宣布了 Pixel 11 系列智能手机，一大变化是所有型号的起售价上涨 100 美元。现已开放预购， 8 月 20 日发售。Pixel 11 系列沿用了 Pixel 9 的设计风格，主要变化包括：通知 LED 的回归，但仅限于 Pro 型号，基础款没有；屏幕亮度提升，基础款仍然是 3000 尼特，但 Pro 型号提高到 3600 尼特；电池容量略有下降，但 Google 声称由于新 SoC Tensor G6 效能提升了 20%，电池续航时间与上一代差不多；Tensor G6 细节未公开，泄露信息称它是一款 7 核 Arm 芯片，比 Tensor G5 少一个 CPU 核心；摄像头像素与上一代一致，但变焦倍数提升至 30 倍，Pro 版提升至 120 倍；其它是 AI 功能的增强，等等。Pixel 11 起售价 899 美元，Pixel 11 Pro Fold 最高售价 1899 美元。",
+          "link": "https://www.solidot.org/story?sid=85078",
+          "publishedOn": "2026-08-12T14:48:27.000Z",
+          "wordCount": 242,
+          "title": "Google 宣布 Pixel 11 系列，价格上涨 100 美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85077",
+          "author": null,
+          "description": "安徽滁州一名 67 岁农民疑因过度相信 AI 提供的建议，误用除草剂导致大批芝麻苗死亡，150 亩农田一夜之间几乎全毁，损失惨重。吴姓农民约 1 年前开始接触 AI 软件，从农时安排、施肥到农药使用，几乎大小事都会询问 AI。起初他对相关建议半信半疑，但长期使用后逐渐建立信任，甚至将 AI 提供的方案直接付诸实行。吴大伯 7 月 10 日向 AI 询问芝麻如何除草、除虫，AI 随即生成一套“百亩芝麻飞防除草＋除虫全套方案”，其中推荐使用“高效氟吡甲禾灵”及“氟磺胺草醚”除草，另搭配“噻虫嗪”及“甲维盐”等药剂。吴大伯未进一步向农技人员确认，便依照方案喷药。没想到隔天田里便出现严重异常，芝麻苗与杂草大面积枯死。事后他再次询问 AI，AI 才指出配方中的“氟磺胺草醚”可能是造成芝麻死亡的主要原因。当地农技人员表示，氟磺胺草醚主要用于大豆田防除阔叶杂草，并不适用于芝麻田；即使部分其他作物可使用，也必须采取定向喷洒，不能全田施用，否则可能造成药害。吴大伯认为，AI 提供方案时未明确提醒风险，若当时多一句警告，他可能不会照做。不过，AI 对话页面上方其实标示“AI 生成可能有误，注意核实”的提醒，只是他此前从未留意。涉事 AI 软件客服表示，系统没有独立知识库，回答主要是根据网络公开信息整合生成，目前将进一步核查信息来源。至于农户损失，客服表示已完成登记并会向内部反映。",
+          "link": "https://www.solidot.org/story?sid=85077",
+          "publishedOn": "2026-08-12T11:03:17.000Z",
+          "wordCount": 199,
+          "title": "农民因听从 AI 建议而导致 150 亩芝麻几乎全毁",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85076",
+          "author": null,
+          "description": "城市由于黑色沥青和混凝土吸收太阳辐射而变得比周边地区更热。这种被称为“城市热岛效应”的现象，是研究城市升温的基础。气象和卫星数据普遍显示，过去几十年来这一效应已不断加强。一项新研究发现，城市未来很快将不再比周围地区升温得更快。到 2050 年，尽管城市平均气温仍高于周边乡村，“但城市的农村周边地区升温速度更快”，除寒冷地区外，城市热岛效应正在减弱。此前的研究表明，随着气温升高导致乡村地区更加干燥，蒸发降温空气的能力下降，因此乡村的升温速度将加快，从而缩小与城市的温差。这一结果并不意味着气候变化对城市的升温影响会消失，只是说明城市与乡村之间的温差可能减小。",
+          "link": "https://www.solidot.org/story?sid=85076",
+          "publishedOn": "2026-08-12T10:54:50.000Z",
+          "wordCount": 160,
+          "title": "研究预测农村和城市之间的温差在缩小",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85075",
+          "author": null,
+          "description": "移民涌入会导致犯罪率上升吗？加州尔湾的研究人员分析了 2010-2018 年间美国 11500 个社区 4600 万居民的犯罪趋势，结果显示犯罪率与无证移民无关联。与很多人的说法相反，非法移民比例上升的社区，财产犯罪率下降幅度更大，暴力犯罪率没有显著变化。研究发现，非法移民人口不断增长的社区抢劫案略微上升，但不是移民抢劫本地居民，而是这些移民成为抢劫对象。研究人员指出，非法移民更容易成为抢劫的目标，是因为他们更多地参与现金交易。很多非法移民无法获得银行账户和正规金融服务，他们更有可能携带现金，这使他们成为抢劫的目标。对被驱逐出境的恐惧也使他们不愿向警方报案，从而更容易受到伤害。移民被称为“行走的 ATM 机器”。",
+          "link": "https://www.solidot.org/story?sid=85075",
+          "publishedOn": "2026-08-12T10:00:41.000Z",
+          "wordCount": 165,
+          "title": "研究显示犯罪率与无证移民无关联",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85074",
+          "author": null,
+          "description": "美国国家海洋和大气管理局（NOAA）称，7 月是美国有记录以来最热的月份。美国本土 48 州 7 月的平均气温为 24.94 摄氏度，比 20 世纪平均气温高出 0.6 摄氏度，略高于 1936 年 7 月气温。2021 年和 1936 年的夏季是美国历史上最热的夏季。NOAA 表示，此次破纪录高温的最大因素是夜间最低气温更高。夜间气温升高被广泛认为是人为气候变化的典型迹象。NOAA 的计算基于 24小 时平均气温，而不仅仅是最高气温或最低气温。",
+          "link": "https://www.solidot.org/story?sid=85074",
+          "publishedOn": "2026-08-12T09:36:17.000Z",
+          "wordCount": 191,
+          "title": "NOAA 称 7 月是美国有记录以来最热的月份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85073",
+          "author": null,
+          "description": "欧洲多座核电站受到热浪影响相继停运。由于河流水位下降等原因，核电站无法确保冷却所需的水源。罗马尼亚国营核电企业 Nuclearelectrica 于 8 月 11 日表示，该国东南部切尔纳沃德核电站的两座反应堆中，目前正在运行的一座可能于 13 日停运。另一座反应堆已于 7 月下旬停运。由于 5 月以来热浪多次袭击，欧洲已有多座核电站陆续出现间歇性停运。法国和瑞士的部分核电站受到热浪导致河水水温升高的影响，于 6～7 月停运。匈牙利唯一的核电站也被迫停运。",
+          "link": "https://www.solidot.org/story?sid=85073",
+          "publishedOn": "2026-08-12T08:45:06.000Z",
+          "wordCount": 171,
+          "title": "欧洲多座核电站因高温停运",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85072",
+          "author": null,
+          "description": "Manus 宣布将恢复以独立公司的形式运营，今年四月发改委要求 Meta 撤销对 Manus 的收购。Manus 在官网的声明中表示，恢复运营期间部分用户的账户会受到影响。Manus 指出，作为恢复独立运营的一部分，同时为遵守特定司法辖区的监管要求，部分用户在2025年12月29日当天或之后产生的数据，将于2026年8月23日08:00起至8月24日期间（SGT）被删除。受影响的用户可以从现在起至2026年8月23日07:59（SGT）备份数据，并可从2026年8月25日08:00（SGT）起恢复数据。在此期间，未受影响的用户可以照常使用 Manus，无需采取任何行动。",
+          "link": "https://www.solidot.org/story?sid=85072",
+          "publishedOn": "2026-08-12T08:25:26.000Z",
+          "wordCount": 170,
+          "title": "Manus 将以独立公司恢复运营",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85071",
+          "author": null,
+          "description": "微软本周二释出了八月例行安全更新，共修复 421 个 bug，比上个月少约 200 个，在 AI 辅助漏洞披露和修复时代，bug 修复数动辄数百已成为新常态。其中一个 bug CVE-2026-68820 正被朝鲜黑客组织 Lazarus Group 利用。它是 Windows Ancillary Function Driver for WinSock 的一个释放后使用 bug，攻击者能利用该 bug 以 SYSTEM 权限执行代码且无需用户交互。发现该 bug 的安全公司 Check Point 称，Lazarus Group 正通过钓鱼攻击利用该 bug，当受害者打开特制 PDF 文件后攻击者会安装名为 Troy 的后门。",
+          "link": "https://www.solidot.org/story?sid=85071",
+          "publishedOn": "2026-08-12T08:12:16.000Z",
+          "wordCount": 211,
+          "title": "微软八月例行更新修复 421 个 bug，包括正被朝鲜黑客利用的 0day",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85070",
+          "author": null,
+          "description": "诞生于 1999 年的 Freenet 是世界第一个可扩展、去中心化的 P2P 网络。它在某种程度上就像是一个共享硬盘。20 多年后的今天，互联网日益的中心化对个人的自由构成了一种根本性的威胁，少数公司控制着绝大部分的互联网服务和基础设施。这些公司拥有巨大的权力，但基本上不需要承担任何责任。它们能审查内容、利用我们的数据、将用户驱逐出他们所依赖的服务之外。Freenet 在 2023 年宣布了它的新计划，创建 Web 的完整去中心化替代，从共享硬盘转变成共享计算机，开发者可以开发中心化服务的去中心化替代，包括消息、社交媒体、电子邮件和电子商务。今年 3 月全新设计的 Freenet 上线。Freenet 设计者 Ian Clarke 在 7 月的 FUTO 上发表演讲谈论了 Freenet 的最新进展：用户现在可使用四个应用，River 用于群聊，新增了私密聊天室功能；Delta 用于发布；Atlas 用于发现和搜索，目前已发布首个工作版本；freenet-git 支持通过 Freenet 进行克隆、获取和推送操作。",
+          "link": "https://www.solidot.org/story?sid=85070",
+          "publishedOn": "2026-08-12T07:48:09.000Z",
+          "wordCount": 194,
+          "title": "Freenet 的最新进展",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85069",
+          "author": null,
+          "description": "英格兰有望成为全球首个消除丙肝的国家。英格兰已实现治疗八成已知病例的目标，过去十年丙肝死亡人数下降了 36%，距离 2030 年降低 65% 的目标仅一步之遥。丙肝早期症状轻微甚至没有症状，患者通常在感染后很久才会出现症状。如果不进行治疗，丙肝会导致严重的、甚至危及生命的肝损伤。它的传播大多借由共用针头、消毒不完全的医疗设备、在进行健康照护时的针扎伤害还有输血造成。逾 95% 病例可通过服用抗病毒药物 8-12 周治愈。NHS England 表示，自 2015 年以来，有逾 10 万人确诊并接受了丙肝治疗。2024 年的数据显示有约 50200 名成年人患有丙肝。据估计 84.6% 的丙肝患者已得到确诊。",
+          "link": "https://www.solidot.org/story?sid=85069",
+          "publishedOn": "2026-08-12T07:26:58.000Z",
+          "wordCount": 178,
+          "title": "英格兰有望成为全球首个消除丙肝的国家",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85068",
+          "author": null,
+          "description": "Cloudflare 数据显示 7 月 6 日星期一北美 Linux 桌面使用率飙升至 22%。Cloudflare 数据显示北美的 Linux 桌面使用率已从一年前的 4.1% 升至 6.4%。这一数据不涉及机器人，而只包含人类用户。如果将机器人和人类都包含在内，那么北美的 Linux 桌面使用率为 9.7%。分析师认为，Linux 桌面使用率增长的趋势是由 AI 开发者和 AI 智能体用户推动的。Windows 当然能本地运行 AI 工作负载，但 Linux 在管理多种 AI 工具和多个有不同依赖项的项目上更具有优势。Linux 被视为是 AI 智能体的首选操作系统。",
+          "link": "https://www.solidot.org/story?sid=85068",
+          "publishedOn": "2026-08-12T06:35:44.000Z",
+          "wordCount": 208,
+          "title": "Cloudflare 数据显示北美一工作日 Linux 桌面使用率飙升至 22%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85067",
+          "author": null,
+          "description": "Gemini 成为 Google 月活数最快突破 10 亿的产品。Gemini 已深度集成在 Google 几乎所有的产品和服务中，\n为 Gmail 的邮件整理、云盘 Drive 的文档摘要等功能提供支持。Gemini 也是 Google 搜索体验的核心，AI Mode 和 AI Overviews 的背后都是 Gemini，但 10 亿用户数指标并不涉及这些集成 AI 功能的使用。Gemini 的月活数指的是用户过去一个月访问过 Gemini 应用、Gemini Web 端或 Gemini Live。",
+          "link": "https://www.solidot.org/story?sid=85067",
+          "publishedOn": "2026-08-12T06:13:13.000Z",
+          "wordCount": 211,
+          "title": "Gemini 成为 Google 月活数最快突破 10 亿的产品",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85066",
+          "author": null,
+          "description": "Mozilla 披露，它的 Firefox 和 Thunderbird 签名密钥的未加密版本不小心被人递交到了一个不公开的 GitHub 代码库里，该代码库只有少数员工才能访问，而相关员工早已通过其它方式获得密钥的访问授权。尽管如此，将未加密签名私钥保留在源代码控制系统中不是好的做法，因此 Mozilla 撤销了密钥。相关密钥被用于给 Firefox 和 Thunderbird 的 Linux tarball、RPM 包以及校验和文件进行签名。Mozilla 表示，它的调查未发现密钥被未经授权第三方访问的证据。对于密钥更换，大多数 Firefox 和 Thunderbird 用户无需任何操作，但手动验证 Mozilla GPG 签名的用户需要导入新的签名密钥以及旧密钥的撤销信息。",
+          "link": "https://www.solidot.org/story?sid=85066",
+          "publishedOn": "2026-08-12T05:41:56.000Z",
+          "wordCount": 200,
+          "title": "在未加密密钥不小心泄露后 Mozilla 撤销了 Firefox 签名密钥",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85065",
           "author": null,
@@ -957,96 +1077,6 @@
           "publishedOn": "2026-08-04T06:04:22.000Z",
           "wordCount": 213,
           "title": "美国学校正用 MacBook Neo 取代 Chromebook",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84996",
-          "author": null,
-          "description": "微软 Windows 和设备执行副总裁 Pavan Davuluri 通过官方博客谈论了该公司在 Windows 11 上持续展开的改进工作，虽然大部分工作尚未推送给用户。他透露接下来的一项工作是优化 Windows 11 在 8GB 内存以上配置下的运行效率。由于目前的内存供应危机，PC 厂商又开始提供 8GB 内存配置的电脑，然而 Windows 11 在 8GB 内存下只能勉强运行，运行其它程序面临很大的局限性。Davuluri 表示该公司将减少 Windows 的内存占用，在用户日常使用的 PC 上提供快速响应的 Windows 体验。",
-          "link": "https://www.solidot.org/story?sid=84996",
-          "publishedOn": "2026-08-03T16:03:05.000Z",
-          "wordCount": 207,
-          "title": "微软表示正致力于优化 Windows 11 在 8GB 内存下的运行效率",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84995",
-          "author": null,
-          "description": "塑料颗粒显然已经遍及地球的各个角落。根据发表在《Water Research》期刊上的一项研究，韩国研究人员检查了生活在水下 2000 米处深海热泉附近的蜗牛和贻贝，12 只受检动物 92%（11 只）体内都发现了微小的塑料碎片。海洋生物学家 Se-Joo Kim 说，深海热泉曾被认为是地球上最与世隔绝的环境之一。每只深海热泉动物体内平均发现了 3.42 个塑料碎片，最常见的是聚苯乙烯。研究人员还发现，摄食行为会影响微塑料在动物体内的积累位置。海床进食的蜗牛，塑料聚集在消化器官中；滤食性贻贝的塑料分布则更为均匀。",
-          "link": "https://www.solidot.org/story?sid=84995",
-          "publishedOn": "2026-08-03T14:43:54.000Z",
-          "wordCount": 168,
-          "title": "科学家在深海热泉动物体内发现塑料颗粒",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84994",
-          "author": null,
-          "description": "澳大利亚联邦银行、微软、 Uber 和凯悦酒店等公司正用自动化聊天和电话系统去处理以前需要人工完成的工作。AI 系统开始大幅削减客服人数。呼叫中心行业在美国、印度和菲律宾等地雇佣了数百万从业者。随着 AI 技术的进步以及高管面临拥抱新技术的压力，企业日益用生成式 AI 工具取代客服。美国的客服务人数正在下降，未来这一趋势会继续下去。分析师估计到 2030 年近半客服岗位将受到影响。西方公司此前将客服外包到熟悉英语的菲律宾、印度等国，随着 AI 的普及，这些国家的客服人数预计会大量减少。澳大利亚最大银行——联邦银行（Commonwealth Bank of Australia）裁减了数百名客服，每年预计节省数千万美元。微软将其客服团队（其中包括合同工和全职员工）从约 5 万人缩减至 4 万人。微软销售和服务运营负责人 Judson Althoff 在 4 月曾表示，AI 每年为公司节省约 7.5 亿美元的客服成本。他表示，更复杂的问题仍需要人工支持，但公司正不断扩展自动化修复的范围。凯悦酒店去年裁掉了美洲地区三成的内部客服。Uber 裁减了 10% 的客服岗位以“拥抱 AI”。",
-          "link": "https://www.solidot.org/story?sid=84994",
-          "publishedOn": "2026-08-03T14:22:06.000Z",
-          "wordCount": 194,
-          "title": "AI 开始大幅减少客服岗位",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84993",
-          "author": null,
-          "description": "澳大利亚政府为 16 岁以下儿童的社交媒体禁令辩护，称禁令重塑了全国的舆论，极大改变了与家长之间的对话，关闭了数百万​​个儿童账户。政府从未指望禁令能得到 100% 的遵守，就像最低饮酒年龄法无法做到 100% 遵守一样，但法律的存在仍然是恰当的。此前的研究发现，禁令生效三个月后，逾八成澳大利亚青少年仍在继续使用社交媒体，10-15 岁儿童在 3 月使用社交媒体的频率与 12 月 10 日禁令生效前一样高。",
-          "link": "https://www.solidot.org/story?sid=84993",
-          "publishedOn": "2026-08-03T13:41:05.000Z",
-          "wordCount": 171,
-          "title": "澳大利亚社媒禁令效果有限",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84992",
-          "author": null,
-          "description": "在 Linux 游戏社区多年请求之后，GOG Galaxy 游戏启动器将原生支持 Linux。GOG 有游戏的 Linux 版本可以下载，但只能通过网站下载，GOG Galaxy 客户端只支持 Windows 和 macOS 操作系统。GOG 没有公布支持 Linux 的时间，只是表示正在开发中。GOG Galaxy 类似 Steam 客户端，支持自动游戏安装和更新、云端存档同步、成就追踪、游戏时长统计、游戏库管理、商店浏览、 好友列表和社交功能等等。在 Valve 的 Proton 推动下，Linux 对游戏的支持日益改进，越来越多的游戏公司也认识到了 Linux 的重要性。",
-          "link": "https://www.solidot.org/story?sid=84992",
-          "publishedOn": "2026-08-03T10:49:52.000Z",
-          "wordCount": 198,
-          "title": "GOG Galaxy 将原生支持 Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84991",
-          "author": null,
-          "description": "加州居民从 8 月 1 日起可要求数据经纪商删除个人数据。Delete Request and Opt-Out Platform (DROP) 允许加州居民通过一次性选择加入的方式，从数百个数据处理中心删除个人信息。此前用户要删除个人信息需要联系每个数据处理商。数据处理商需要在 90 天内删除用户的数据，之后每 45 天删除一次。加州是美国第一个创建易于使用的数据删除系统的州，",
-          "link": "https://www.solidot.org/story?sid=84991",
-          "publishedOn": "2026-08-03T09:35:53.000Z",
-          "wordCount": 188,
-          "title": "加州居民从 8 月 1 日起可要求数据经纪商删除个人数据",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84990",
-          "author": null,
-          "description": "硬件钱包本应是保存比特币最安全的地方：不联网、密钥不离设备，攻击者需物理接触才能盗取加密货币。Coinkite 制造的比特币硬件钱包 Coldcard 使用硬件随机数生成器产生 128 位熵值，这个数字是如此之大现有的计算能力无法破解。然而 2021 年 3 月的一次更新引入了严重 bug，默认的硬件随机数生成器被切换为软件随机数生成器，在 Mk3 设备上，有效搜索空间缩小到 40 位。128 位和 40 位之间的差异是无法被打开的锁和可以被打开的锁之间的区别。攻击者可以租用云计算资源进行暴力破解，在无需接触硬件的情况下获得钱包的密钥。过去几天，攻击者从 4585 个地址窃取了 1367 个比特币，价值近 8900 万美元。Coinkite 已释出新固件，受影响用户需在更新后的硬件上生成全新钱包，将比特币迁移至新钱包。",
-          "link": "https://www.solidot.org/story?sid=84990",
-          "publishedOn": "2026-08-03T08:34:11.000Z",
-          "wordCount": 193,
-          "title": "冷钱包攻击导致比特币被盗近 8900 万美元",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84989",
-          "author": null,
-          "description": "马来西亚柔佛州警方上个月打击了加密货币矿工的偷电行为，逮捕了三名嫌疑人，缴获了电脑、路由器、汽车以及比特币矿机。该团伙绕过电表偷电，导致电力公司一个月内损失约 14,500 欧元，而比特币矿机每月可产生17,200-21,500 欧元的收入。这起案件价值相对较小，但 2020-2025 年马来西亚能源公司识别了近 14,000 处场所涉及偷电挖加密货币，累计损失 11 亿欧元。加密货币挖矿偷电事件从 2018 年的 610 起增至 2024 年的 2,397 起。加密货币挖矿本身并非犯罪行为，但政府发现非法加密货币挖矿与网络赌博、洗钱以及东南亚大规模电诈之间存在关联。",
-          "link": "https://www.solidot.org/story?sid=84989",
-          "publishedOn": "2026-08-03T07:45:07.000Z",
-          "wordCount": 174,
-          "title": "马来西亚打击加密货币矿工的偷电",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=84988",
-          "author": null,
-          "description": "AI 真的会推理吗？它展示的推理链/思维链真的是导出结论前的逻辑步骤？或者它给出的推理过程只是在糊弄我们？一种拟人化的虚构？Quantamagazine 上的一篇文章讨论了这一问题，作者认为 LRM（large reasoning models）在解复杂问题时常常能给出正确答案，但整个机制仍然是不透明的，是一种黑盒子，而思维链更像是某种自言自语而不是严谨的推理。AI 专家 Melanie Mitchell 指出，LRM 有效，执行推理任务的准确率比 LLM 高；思维链不一定忠实反映模型内部的运作过程；模型合成的思维链文本基本无用完全可以删除。2025 年美国东北大学和加州伯克利的研究人员分析了开源前沿 LRM 模型，发现 30%-60% 的思考步骤对模型在数学题上给出的答案“几乎没有因果影响”。",
-          "link": "https://www.solidot.org/story?sid=84988",
-          "publishedOn": "2026-08-03T06:54:38.000Z",
-          "wordCount": 178,
-          "title": "AI 通过错误的推理得到正确的结果？",
           "imageUrl": null
         }
       ]
