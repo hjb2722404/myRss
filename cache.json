@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/localsend-cli/",
+          "author": "青小蛙",
+          "description": "著名的跨平台文件传输工具 LocalSend v1.18.0 于 2026年8月11日（今天）正式发布，这是其 18 个月以来的第一次更新。新增了 CLI 版本，即通过命令行传输文件。还新增了 IPv6 支持。@Appinn LocalSend 终于更新了！ LocalSend v1.18.0 更新",
+          "link": "https://www.appinn.com/localsend-cli/",
+          "publishedOn": "2026-08-14T11:32:13.000Z",
+          "wordCount": 2879,
+          "title": "LocalSend 时隔18个月更新，发布第一个 LocalSend CLI 版本，可通过命令行传输文件",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-14T193023.136.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/eggs-26814/",
+          "author": "青小蛙",
+          "description": "本周 Epic Games 共送出 1 款电脑游戏，1 款手机游戏。其中电脑游戏为《漫漫长路 沙巫之旅 / Caravan SandWitch》，手机游戏为锁区的《旁观者：列车长 / Beholder: Conductor》。@Appinn 《Caravan SandWitch》 《Caravan",
+          "link": "https://www.appinn.com/eggs-26814/",
+          "publishedOn": "2026-08-14T10:07:30.000Z",
+          "wordCount": 2558,
+          "title": "本周赛博领鸡蛋（8.14~8.20）：《漫漫长路 沙巫之旅》、《旁观者：列车长》",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/06/12.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/deepseek-api-price-12x/",
+          "author": "青小蛙",
+          "description": "DeepSeek 在官网公布了 DeepSeek API 的新价格，deepseek-v4-flash 与 deepseek-v4-pro 全面涨价，其中高峰时段的 pro 模型，命中缓存价格由 0.025 涨价至 0.30，涨幅12倍。@Appinn 现在价格： 新价格（8月17）",
+          "link": "https://www.appinn.com/deepseek-api-price-12x/",
+          "publishedOn": "2026-08-14T05:29:21.000Z",
+          "wordCount": 2529,
+          "title": "DeepSeek API 全面涨价，8月17日起，最高12倍涨幅",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-14T131959.166.jpg"
+        },
+        {
           "id": "https://www.appinn.com/deepseek-harness/",
           "author": "青小蛙",
           "description": "DeepSeek Harness 是由 DeepSeek 官方刚刚发布的开源 agent harness（智能体框架），可以简单的理解为，这是 DeepSeek 的类 OpenClaw 工具。@Appinn DeepSeek Harness 是什么？ DeepSeek Harness，简称 dsh，",
@@ -180,16 +210,6 @@
           "wordCount": 2586,
           "title": "NIGHTRUN – 无需操作系统，用 U 盘启动的的本地大模型客户端",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-06T163045.839-1.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/cloudflare-wallet/",
-          "author": "青小蛙",
-          "description": "赛博菩萨 Cloudflare 推出了一个未来的功能：Cloudflare Wallet，面向 AI Agent 的可编程钱包，能实现 AI 间的自动付款、收款。@Appinn 略显科幻，但已经是现实了。 未来的 AI Agent 很可能会占据互联网上的大部分区域，包括交易。 AI Agent 购买",
-          "link": "https://www.appinn.com/cloudflare-wallet/",
-          "publishedOn": "2026-08-05T09:04:06.000Z",
-          "wordCount": 2592,
-          "title": "抢先注册 Cloudflare 钱包：让 AI Agent 完成自动交易",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-05T164544.736.jpg"
         }
       ]
     },
@@ -198,6 +218,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=396557",
+          "author": "Daniel Schwarz",
+          "description": "Plus, how to style skeleton UIs, how to enable diagonal scrolling, how images can overflow themselves, and yet, still more. Basically, how to do a lot of really cool (CSS) stuff.\nWhat’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-17/",
+          "publishedOn": "2026-08-14T14:01:51.000Z",
+          "wordCount": 3511,
+          "title": "What’s !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2026/08/wi17.png"
+        },
         {
           "id": "https://css-tricks.com/?p=396255",
           "author": "Durgesh Rajubhai Pawar",
@@ -283,6 +313,16 @@
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
         {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=12345",
+          "author": "张 鑫旭",
+          "description": "数组求和还在使用reduce()方法吗？Out啦！既麻烦，又有计算精度的问题，从今天开始，改用Math.sumPrecise()方法吧！",
+          "link": "https://www.zhangxinxu.com/wordpress/2026/08/js-math-sumprecise/",
+          "publishedOn": "2026-08-14T11:20:25.000Z",
+          "wordCount": 1796,
+          "title": "还在reduce求和吗？该使用Math.sumPrecise()方法啦",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.zhangxinxu.com/wordpress/?p=12341",
           "author": "张 鑫旭",
           "description": "厉害了，我的CSS，border边框也支持background背景了，原生支持哦，不是之前的那种模拟效果哦，而且Safari和Chrome都支持了哟，就是其貌不扬的background-clip属性",
@@ -299,6 +339,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85100",
+          "author": null,
+          "description": "根据发表在《Alzheimer's & Dementia: Diagnosis》上的一项研究，GLP-1 减肥药 Semaglutide 将五年预测糖尿病风险降低 26%。研究人员将 2970 名年龄 65 岁以上且有超重/肥胖和心血管疾病但无糖尿病的成年人随机分配到 Semaglutide 组或安慰剂组。Dementia SomaSignal Test(dSST)对非空腹血清样本的分析显示，Semaglutide 将五年预测糖尿病风险降低 26%，二十年预测风险降低 8.8%。结果表明 GLP-1 减肥药可能具有神经保护作用。",
+          "link": "https://www.solidot.org/story?sid=85100",
+          "publishedOn": "2026-08-14T15:52:57.000Z",
+          "wordCount": 185,
+          "title": "GLP-1 减肥药将五年糖尿病风险降低 26%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85099",
+          "author": null,
+          "description": "MIT 等的天文学家利用韦伯太空望远镜（JWST）在早期宇宙发现了一个极其明亮的红色斑点。该天体形似一颗巨大的恒星，大小与太阳系相当。但它释放的能量是已知恒星能量的 1000 亿倍。这种能量更接近黑洞可能产生的能量。红色斑点代表了一种全新的天体——天文学家称之为“黑洞恒星”。它是黑洞和恒星的混合体——这种组合此前从未被观测到过。该天体很可能是一团极高密度的气体云，其能量来源并非是核聚变，而是中心的黑洞。天文学家估计黑洞质量为太阳的 10 万倍，他们将该天体命名为 MoM-BH*-1，或者是“一号黑洞恒星（black hole star–one）”。",
+          "link": "https://www.solidot.org/story?sid=85099",
+          "publishedOn": "2026-08-14T15:25:16.000Z",
+          "wordCount": 165,
+          "title": "天文学家发现黑洞恒星",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85098",
+          "author": null,
+          "description": "长鑫科技已超过互联网巨头腾讯控股，成为全球市值最大的中国企业，凸显 AI 热潮正推动投资者对存储晶片股的需求。截至周五 A 股收盘，长鑫科技最新市值约 3.58 万亿元人民币。港股方面，由于市场对腾讯不断增加的 AI 投资担忧加剧，腾讯周五最新市值约 4.0 万亿港元。分析认为，这一市值排名的逆转反映出，投资者继续青睐与 AI 相关的硬件企业，而非传统互联网巨头。总部位于安徽合肥的长鑫科技也是全球第四大 DRAM 供应商。DRAM 广泛应用于从手机到先进 AI 服务器等各种设备。",
+          "link": "https://www.solidot.org/story?sid=85098",
+          "publishedOn": "2026-08-14T09:41:40.000Z",
+          "wordCount": 180,
+          "title": "长鑫市值超越腾讯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85097",
+          "author": null,
+          "description": "2026 年 8 月 12 日，欧洲大陆经历了数十年以来首次日全食，白昼变成黑夜，或者“太阳被月亮吞了”？欧洲居民使用了多款智能手机去拍摄罕见的日全食照片，结果发现小米 17 Ultra 智能手机相机拍摄的一张照片极其反常，在这张照片里橙红色的太阳上出现了月亮照片中常看到的山脊、陨石坑和线条，也就是相机将太阳误认为是月亮。小米相机显然是利用了 AI 技术去重建照片中的细节，给太阳添加了根本不存在的月球特征。小米不是唯一这么做的手机厂商，此前三星也曝出过类似的丑闻。",
+          "link": "https://www.solidot.org/story?sid=85097",
+          "publishedOn": "2026-08-14T09:23:20.000Z",
+          "wordCount": 181,
+          "title": "小米 17 Ultra 手机相机错将太阳误认为是月亮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85096",
+          "author": null,
+          "description": "恼人的 Facebook 广告一直是广告屏蔽工具过滤的对象，而 Meta 的工程师也不断迭代广告技术以绕过广告屏蔽工具的过滤。这种猫鼠游戏持续了如此长时间以至于广告屏蔽工具的开发者都受不了，流行广告屏蔽扩展 uBlock Origin 的开发者宣布他们放弃继续反制 Facebook 的广告技术。一位开发者说，“我们将不再支持 Facebook。它是一个令人恶心的反用户网站。它所做的就是监视开源项目的公开活动，然后针对性地投放恶意广告。没错，那些拿着七位数薪水的开发者就是在干这个。”开发者表示，任何有兴趣对抗 Facebook 广告投放的用户都可以提交自己的过滤器补丁。",
+          "link": "https://www.solidot.org/story?sid=85096",
+          "publishedOn": "2026-08-14T09:03:00.000Z",
+          "wordCount": 186,
+          "title": "uBlock Origin 放弃与 Facebook 的猫鼠游戏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85095",
+          "author": null,
+          "description": "苹果与阿里巴巴合作为中国市场训练了一个大模型。此前苹果倾向于使用中国合作伙伴的模型为在中国销售的 iPhone  等设备提供生成式 AI 功能。苹果的 AI 功能 Apple Intelligence 预计将在未来几个月通过 iOS 更新在中国推出。苹果推出专为中国市场定制的 AI 模型，使​​其在竞争最激烈的中国市场更好掌控 AI 体验。苹果在中国已被华为等本土竞争对手蚕食市场份额，竞争对手凭借 AI 手机迅速占据领先地位。网信办已经登记了苹果的生成式 AI 服务，为 Apple Intelligence 服务首次登陆国行 iPhone 铺平道路。",
+          "link": "https://www.solidot.org/story?sid=85095",
+          "publishedOn": "2026-08-14T07:28:21.000Z",
+          "wordCount": 181,
+          "title": "苹果与阿里巴巴合作为中国市场训练专用大模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85094",
+          "author": null,
+          "description": "YouTube 宣布新内容创作者需要达到更高的门槛才能开始通过广告和订阅获得收入。想要通过 YouTube 平台获利的创作者，需要过去一年内至少获得 8000 小时的有效观看时长，或者在过去 90 天内获得 2000 万次的 Shorts 有效短视频观看量。此前创作者只需要过去一年内有 1000 名订阅者和 4000 小时的有效观看时长，或者在过去 90 天内有 1000 名订阅者和 1000 万次 Shorts 视频观看量。这项变更将于 2 月 1 日生效。此次更新不影响已加入 YouTube 合作伙伴计划的创作者。YouTube 表示，这些调整是为了跟上 YouTube 的发展步伐，目前 YouTube Shorts 的日均观看量逾 2000 亿次，电视观看时长逾 10 亿小时。",
+          "link": "https://www.solidot.org/story?sid=85094",
+          "publishedOn": "2026-08-14T06:54:33.000Z",
+          "wordCount": 209,
+          "title": "YouTube 要求新内容创作者一年至少 8000 小时观看量才能获得收入",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85093",
+          "author": null,
+          "description": "《Braid》和《The Witness》作者 Jonathan Blow 在社媒上称，在 Windows 上使用 VLC 启动播放一个 MP3 文件需要 33 秒钟，他因此改用了微软官方的 Microsoft Media Player，批评开源软件问题太多。此事引发了广泛讨论。VLC 官方回应称，核心问题与它无关，是 Windows 11 / Microsoft Defender 的一次更新隔离了 VLC 的插件缓存导致的，重新安装  VLC 或清空缓存可解决该问题。Linux 用户称 VLC 启动播放一个 MP3 文件只需要 1-2 秒。其他 Windows 用户建议在 Microsoft Defender 中排除 vlc.exe 也能解决该问题。",
+          "link": "https://www.solidot.org/story?sid=85093",
+          "publishedOn": "2026-08-14T06:24:44.000Z",
+          "wordCount": 213,
+          "title": "VLC 因 Microsoft Defender 而启动缓慢",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85092",
+          "author": null,
+          "description": "中外科学家通过高能原子核-原子核对撞实验中净重子数和净电荷数的精确测量发现核子内部存在一种奇特结构，可能颠覆人们对核子内部结构的根本认识。研究结果发表于《科学》期刊。核子是组成物质世界的基本粒子，宇宙中可见物质世界 99% 以上的质量由核子携带，理解核子内部结构对理解物质世界的基本组成和基本相互作用具有极其重要的意义。人们普遍认为核子由夸克（含反夸克）和胶子组成。夸克携带+2/3或-1/3电子电荷和1/3重子数，反夸克携带的电荷和重子数与夸克相反，而胶子既不携带电荷也不携带重子数。研究人员通过精确的实验测量发现核子内部需要一种携带重子数但不携带电荷和色荷的基本结构，对上述用来描述核子内部结构的朴素夸克模型提出了重大挑战。",
+          "link": "https://www.solidot.org/story?sid=85092",
+          "publishedOn": "2026-08-14T05:43:05.000Z",
+          "wordCount": 160,
+          "title": "科学家观测到核子内部奇特结构",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85091",
+          "author": null,
+          "description": "根据发表在《科学》上的小鼠研究，即使脑暂时失去了一半以上的突触连接，记忆仍可得以保留；这一发现挑战了长期以来关于长期记忆依赖于稳定单个突触的观点。这些发现表明，记忆的保存依赖于具有韧性的神经结构模式，这种模式使脑能够在重建其神经回路的同时保留已储存的信息。研究人员发现，即使在人工冬眠期间海马体活动下降约 70% 且超过一半的突触被消除，小鼠在恢复正常状态后仍保留了记忆，并恢复了原有的神经组织结构。这一发现表明，记忆可能并非通过单个突触而是由具有韧性的神经结构模式保存的，其中包括在冬眠相关的脑广泛重塑过程中仍受到保护的特定连接突触簇。这些得以保留的结构基序可能充当了“核心记忆痕迹”，从而使脑能够在经历重大扰动后重建功能性网络，并同时维持已储存的记忆。",
+          "link": "https://www.solidot.org/story?sid=85091",
+          "publishedOn": "2026-08-14T05:36:00.000Z",
+          "wordCount": 160,
+          "title": "小鼠在一半以上突触连接暂时失去后记忆仍能保留",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85090",
+          "author": null,
+          "description": "过去五年，随着中国更倾向于国产软件，微软一直在缩减在华业务，至少关闭了 15 家分支机构和合资企业。美国的出口管制也让微软云计算和 AI 业务的推广更困难，中国市场的经济增长空间变得相对有限。微软最终决定继续留在中国，是因为它开辟了一项盈利的业务，​​为字节跳动等中国企业提供服务，这些企业需要西方技术管理海外业务。微软认为，为了继续获得中国世界一流的工程人才，它需要在中国保留业务。微软前中国区负责人 Alain Crozier 表示微软与中国政府建立了深厚的关系，“由于地缘政治因素……有时情况会比较艰难，但我们从未遇到过危机。”微软发言人表示公司在“适用于所有国际供应商的监管环境”下运营，重申对中国市场的承诺。微软表示，其在中国的业务状况反映了市场竞争、监管要求和技术发展趋势。",
+          "link": "https://www.solidot.org/story?sid=85090",
+          "publishedOn": "2026-08-14T03:57:52.000Z",
+          "wordCount": 164,
+          "title": "微软正从中国撤退",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85089",
           "author": null,
@@ -1027,96 +1177,6 @@
           "publishedOn": "2026-08-05T15:27:43.000Z",
           "wordCount": 180,
           "title": "Waymo CEO 解释为什么光靠摄像头难以实现自动驾驶",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85015",
-          "author": null,
-          "description": "Telegram 因有用户分享 CSAM（child ​sexual abuse material）材料而被苹果在全世界短暂下架。苹果发言人证实了此次短暂下架事件，表示苹果的审查发现该应用存在违反禁止 CSAM 材料的内容，“在开发商迅速删除相关内容并封禁发布该内容的用户后，该应用已恢复上架。”Telegram 有逾 10 亿用户，它表示对 CSAM 内容采取零容忍政策，今年已因此封禁了近 33.8 万个群组和频道。英国监管机构 Ofcom 今年四月因类似的原因对 Telegram 展开了调查。Telegram 则坚称它没有 CSAM 问题，称自 2018 年以来已通过检测算法几乎完全杜绝 CSAM 材料的公开传播。",
-          "link": "https://www.solidot.org/story?sid=85015",
-          "publishedOn": "2026-08-05T10:59:59.000Z",
-          "wordCount": 195,
-          "title": "Telegram 因用户分享 CSAM 材料被苹果短暂下架",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85014",
-          "author": null,
-          "description": "中国创新药研发快速发展，带动实验猴需求激增、价格接近翻倍，而这造成的供应紧张可能拖慢新药试验进度。今年 6 月一家国家级实验室以每只17.8 万的价格采购 40 只食蟹猴，价格较一年前接近翻倍。下一代癌症疗法开发商 Excalipoint Therapeutics 联合创始人兼首席财务官朱杰伦预计，实验猴明年每只售价可能突破 20 万元，较一两年前的略高于 10 万元接近翻倍。部分药物在获准进入临床试验前，必须通过猴体试验评估安全性。灵长类动物与人类生理结构相近，可用于观察药物在体内的运行及对器官的影响。单个生物药研发项目可能需要十几只至 100 只实验猴。业内人士和分析师指出，实验猴养殖场供应总体稳定，价格上涨主要是因为生物药和下一代疗法大量涌现，导致涉及灵长类动物的试验需求远超现有承载能力。目前中国约占全球创新药研发管线的三分之一，并已成为全球临床试验的首要目的地。",
-          "link": "https://www.solidot.org/story?sid=85014",
-          "publishedOn": "2026-08-05T09:30:01.000Z",
-          "wordCount": 171,
-          "title": "新药研发推动实验猴价格翻倍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85013",
-          "author": null,
-          "description": "中国汽车流通协会乘用车市场信息联席分会（CPCA）的数据显示，特斯拉上海工厂 6 月产量创历史新高，当月生产了 93,579 辆汽车，相比去年同期增幅 38%。但高产量并未转化为中国市场的高销量：特斯拉在华销量连续一年多呈环比下滑趋势。特斯拉上海 6 月生产的电动汽车近 40% 用于出口。今年二季度特斯拉上海生产的汽车中逾五成或 128,394 辆销往欧洲、加拿大和其他亚洲市场，而中国市场销量为 126,157 辆。此前有报道称特斯拉正考虑摆脱对中国业务的依赖，但特斯拉随后否认了这一报道。问题在于特斯拉以及 SpaceX 的 CEO Elon Musk 想要合并两家公司，其中特斯拉已进入标普 500 指数，而标普拒绝为 SpaceX 破例，如果特斯拉和 SpaceX 合并，那么标普此前为阻止 SpaceX 吸引被动投资者所做的努力将付诸东流。",
-          "link": "https://www.solidot.org/story?sid=85013",
-          "publishedOn": "2026-08-05T08:38:10.000Z",
-          "wordCount": 184,
-          "title": "特斯拉在华销量持续下滑",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85012",
-          "author": null,
-          "description": "白宫已向美国顶尖 AI 企业透露，在特朗普政府新出台的 AI 安全框架下，中国竞争对手正在开发的开放权重模型将被豁免，无需接受美国政府的安全测试。这项豁免决定是在星期二（4日）的一场白宫闭门会议上向行业代表宣布的。OpenAI、Anthropic PBC 以及 Alphabet 旗下的 Google 等硅谷巨头均派代表出席了此次会议。这一尚未公开的 AI 安全框架，源于美国总统特朗普今年 6 月签署的应对 AI 安全问题的行政令。该行政令提出了一项自愿性计划，鼓励 AI 企业将最前沿的模型交由美国审查。促使华盛顿加速推进安全倡议的导火索，是今年 4 月 Anthropic 警告 Mythos 模型极易发现计算机漏洞，并对该模型的发布实施了严格限制。近几周，OpenAI 和 Anthropic 更接连披露其部分模型曾脱离安全测试环境并入侵第三方机构，进一步加剧了监管的紧迫性。白宫的这项决定对一直呼吁对所有模型实施“强制安全审查”的 Anthropic 首席执行官 Dario Amodei 而言，则是一次重大挫折。",
-          "link": "https://www.solidot.org/story?sid=85012",
-          "publishedOn": "2026-08-05T07:52:09.000Z",
-          "wordCount": 189,
-          "title": "美国据报将豁免中国开放权重模型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85011",
-          "author": null,
-          "description": "中国家用扫地机器人厂商正在全球市场形成寡头格局。中国厂商并非打价格战而是比拼开发自主功能的策略奏效，主要 5 家企业合计占据超过 7 成全球市场份额。在因低价竞争而陷入消耗战的中国产业界，实现了罕见增长。其中石头科技 2025 年下半年全球市场份额达到 27%，位居首位。在美国、德国和韩国等发达国家的主要市场位居第一。追觅第二，科沃斯第三，之后是小米和云鲸。在中国，投资集中在成长产业、产品同质化、激烈的价格竞争导致整体陷入消耗战的“内卷”现象已成为社会问题。扫地机器人能否成为例外？",
-          "link": "https://www.solidot.org/story?sid=85011",
-          "publishedOn": "2026-08-05T07:45:56.000Z",
-          "wordCount": 166,
-          "title": "中国扫地机器人占据全球七成市场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85010",
-          "author": null,
-          "description": "天文学家通过计算机模拟发现，银河系中可能存在约 1.7 亿个恒星质量黑洞。它们分散在星系各处，构成了隐藏的银河系“地下世界”。这项研究重建了银河系 136 亿年的演化历史，不仅估算出黑洞的总数，还预测了它们的分布、质量，以及诞生它们的爆炸的特征。黑洞是大质量恒星死亡后的遗骸。当恒星耗尽聚变燃料，核心便不再有向外的压力支撑，随之坍缩成一个光线也无法逃脱的天体。这正是天文学家面临的难题：光几乎是探测宇宙的主要信息源，而黑洞不发光，因此很难被找到，更难以统计其数量。研究团队利用已知的恒星、黑洞与星系演化规律，构建了虚拟的银河系，追踪数十亿年间的恒星形成、恒星死亡、黑洞诞生与星系演化过程，借此估算当今应当存在的恒星质量黑洞数量。模拟显示，在银河系的生命周期内，约有 1.7 亿颗恒星成为了黑洞。团队计算出，在太阳到银心的距离上，黑洞的分布密度约为每 6250 立方秒差距 1 个。从时间维度看，1.7 亿个黑洞分布在银河系 136 亿年的历史中，平均每 80 年诞生一个新的恒星质量黑洞。",
-          "link": "https://www.solidot.org/story?sid=85010",
-          "publishedOn": "2026-08-05T07:33:26.000Z",
-          "wordCount": 181,
-          "title": "可能有多达 1.7 亿个恒星质量黑洞潜伏在银河坟场",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85009",
-          "author": null,
-          "description": "沙特牵头的财团完成对美国游戏公司 EA 的私有化。参与私有化的财团包括了沙特主权基金 Public Investment Fund (PIF)、私募股权公司 Silver Lake 以及特朗普女婿 Jared Kushner 创立的 Affinity Partners。EA 旗下的知名游戏包括 EA Sports FC、战地、模拟人生、质量效应等等。摩根大通银行为这笔交易提供了 200 亿美元的债务融资，这笔债务将由私有化后的 EA 承担。分析师担心为偿还债务 EA 将会大规模裁员、推动更激进化的盈利手段等。Game Business 主编兼联合创始人 Christopher Dring 指出私募股权公司通常在公司管理上相当激进。这笔交易是游戏史上第二大收购案，仅次于微软以 690 亿美元收购动视暴雪。",
-          "link": "https://www.solidot.org/story?sid=85009",
-          "publishedOn": "2026-08-05T06:11:22.000Z",
-          "wordCount": 196,
-          "title": "沙特牵头的财团完成对 EA 的私有化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85008",
-          "author": null,
-          "description": "美国联邦通信委员会（FCC）正在制定措施禁止进口中国制造的光收发模块。光收发模块让数据在数据中心内以光速通过光纤传输。美国政府官员希望这项措施在年内公布和生效。其目的是防止中国公司窃取数据、植入恶意软件或干扰美国数据中心的服务。FCC 也可能修改或搁置这项进口禁令。美国对中国数据中心设备的禁令可能会冲击中际旭创。中际旭创是全球最大的光收发模块供应商之一。禁令也可能增加亚马逊 AWS 等美国云计算公司的成本，迫使它们转向本国供应商如 Coherent 和 Lumentum。",
-          "link": "https://www.solidot.org/story?sid=85008",
-          "publishedOn": "2026-08-05T04:26:25.000Z",
-          "wordCount": 163,
-          "title": "美国考虑禁止中国制造的数据中心设备",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85007",
-          "author": null,
-          "description": "主要 PC 制造商惠普、华硕和宏碁开始少量使用长鑫的内存芯片。多家大型 PC 制造商已于今年年中完成了长鑫 DRAM 芯片的认证流程，开始在笔记本电脑中少量使用。由于长鑫优先向华为等国内客户供应内存芯片，因此其它厂商的供应量有限，相关笔记本电脑型号主要销往美国以外市场。PC 厂商对使用长鑫内存十分谨慎，因为他们担心会惹恼三大内存芯片制造商美光、三星和 SK海力士，这三大公司占据了逾九成的内存芯片市场。长鑫的内存并不比美光或三星等公司便宜，厂商也无法采购更多内存。",
-          "link": "https://www.solidot.org/story?sid=85007",
-          "publishedOn": "2026-08-04T16:10:31.000Z",
-          "wordCount": 165,
-          "title": "惠普、华硕和宏碁开始少量使用长鑫内存",
           "imageUrl": null
         }
       ]
