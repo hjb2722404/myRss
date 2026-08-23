@@ -12,6 +12,16 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/windows-11-point-in-time-restore-default/",
+          "author": "青小蛙",
+          "description": "你有没有遇到过这种情况：桌面上保存了一个重要文件，清理电脑时顺手删除。几个小时后才发现，删掉的是正在使用的资料，回收站里也没有了… Windows 11 新加入的时间点还原（Point-in-Time Restore）功能，可能就是那颗“后悔药”，能帮你找回这个文件。 上个月，小众软件介",
+          "link": "https://www.appinn.com/windows-11-point-in-time-restore-default/",
+          "publishedOn": "2026-08-22T07:28:21.000Z",
+          "wordCount": 2899,
+          "title": "Windows 11 时间点还原默认开启，真后悔药：可恢复系统与用户文件数据",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-22T152503.057.jpg"
+        },
+        {
           "id": "https://www.appinn.com/26-27-premier-league-calendar/",
           "author": "青小蛙",
           "description": "Hi 各位，这是一份由青小蛙维护的2026～2027赛季英格兰足球超级联赛赛程、比分、进球日历，可订阅到手机/电脑日历应用中，会自动更新比分。@Appinn 终于赶在英超开赛前做好啦。 比较简单，订阅后可以在手机、电脑日历应用中看到每周的英超对阵，比赛结束后会更新比分，就和前不久青小蛙维护的2026",
@@ -185,46 +195,6 @@
           "wordCount": 2529,
           "title": "DeepSeek API 全面涨价，8月17日起，最高12倍涨幅",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-14T131959.166.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/deepseek-harness/",
-          "author": "青小蛙",
-          "description": "DeepSeek Harness 是由 DeepSeek 官方刚刚发布的开源 agent harness（智能体框架），可以简单的理解为，这是 DeepSeek 的类 OpenClaw 工具。@Appinn DeepSeek Harness 是什么？ DeepSeek Harness，简称 dsh，",
-          "link": "https://www.appinn.com/deepseek-harness/",
-          "publishedOn": "2026-08-13T14:33:29.000Z",
-          "wordCount": 2930,
-          "title": "DeepSeek 官方发布类 OpenClaw 工具：开源 Agent 框架 DeepSeek Harness",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-13T222830.708.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/xunlei-shuqiansou/",
-          "author": "青小蛙",
-          "description": "拥有一个属于自己的影视资源库，可以选择最折腾的 NAS 路线： 1. 买NAS → 2. 买硬盘 → 3. 配置下载环境 → 4. 搜索资源 → 5. 开始下载 → 6. 整理本地资源 →&",
-          "link": "https://www.appinn.com/xunlei-shuqiansou/",
-          "publishedOn": "2026-08-13T10:21:58.000Z",
-          "wordCount": 2547,
-          "title": "不用 NAS、不买硬盘，0成本拥有影视、小说、资源库",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-13T175558.900.png"
-        },
-        {
-          "id": "https://www.appinn.com/nie-grassroots-logic/",
-          "author": "青小蛙",
-          "description": "这个项目，把 @聂辉华 老师写的《基层中国的运行逻辑》这本书总结成了一个 skill，它把县乡村治理框架（条块、含权量、双均衡、三座大山…）提炼成可被 Cursor / Claude Code / Codex / Grok 反复调用的方法论工具箱，用来解释地方新闻与权力结构，也用来做选择：求学、考公",
-          "link": "https://www.appinn.com/nie-grassroots-logic/",
-          "publishedOn": "2026-08-13T08:46:22.000Z",
-          "wordCount": 2616,
-          "title": "蒸馏《基层中国的运行逻辑》后，让 AI 帮你分析求学、考公、投资与创业",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-13T164304.926.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/mole-for-macos/",
-          "author": "青小蛙",
-          "description": "今年一款 Mac 工具在开发者圈子里悄然走红，目前在 GitHub 上已收获 6 万多星标收藏，连 Paul Graham (保罗·格雷厄姆，世界知名程序员、投资人) 都曾专门发文讨论它。 它就是 Mole！ 一款 Swift 原生开发的 App，整合了缓存清理、应用管理、磁盘分析、硬件监控、系统优",
-          "link": "https://www.appinn.com/mole-for-macos/",
-          "publishedOn": "2026-08-13T05:51:58.000Z",
-          "wordCount": 2630,
-          "title": "Mac 磁盘爆满不用慌，Mole 帮你一键深度释放空间！",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/Copy-of-appinn-homework-2026-08-13T134857.813.jpg"
         }
       ]
     },
@@ -344,6 +314,56 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85165",
+          "author": null,
+          "description": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切除并迅速进入血液循环。33 种与降低心血管和代谢疾病风险相关的蛋白质有 32 种会因短暂的冲刺跑发生改变，只有 3 种会受到中等强度运动的影响。逾四分之一蛋白质还与延缓生物衰老相关。研究结果表明，运动强度可能会强烈影响释放到血液中的蛋白质和代谢物，进而影响全身组织的反应方式。",
+          "link": "https://www.solidot.org/story?sid=85165",
+          "publishedOn": "2026-08-22T15:59:22.000Z",
+          "wordCount": 185,
+          "title": "3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85164",
+          "author": null,
+          "description": "2022 年 9 月一名黑客泄漏了当时尚未宣布的 GTA6 的图片和视频，此事促使开发商 Rockstar Games 加强了安全措施。然而到了 2026 年 8 月游戏还有 3 个月即将发售时，自称 Cyber​​Leek 的个人或组织发布了 GTA6 的一系列新视频，视频显示泄密者手中可能有一个可运行的版本，也就是游戏本体被盗了。彭博社援引知情人士的消息称，Rockstar 尚未确定泄密者身份，也不知道游戏本体是如何泄漏出去的。该公司目前正全力查明泄露源头并追踪泄密者。为了识别泄密者，Rockstar 母公司 Take-Two 的律师正向法院申请传票，要求微软和 Discord 提供信息帮助识别泄密者身份。Take-Two 要求微软在  9 月 4 日前提供信息，要求 Discord 在相同的截止日期前提供 CYBERLEEK、CINEMATICROCKSTAR 和 Surfer24k™  等账号的信息。",
+          "link": "https://www.solidot.org/story?sid=85164",
+          "publishedOn": "2026-08-22T15:30:51.000Z",
+          "wordCount": 214,
+          "title": "Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85163",
+          "author": null,
+          "description": "特斯拉和另外 8 家汽车制造商 21 日宣布，将在中国召回总计约 430 万辆汽车，创下中国汽车召回规模纪录。此次召回的整改措施包括软件更新、加贴警示标签，以及改进门把手周围的标识等。大多数车企还将通过 OTA 远程升级软件。根据国家市场监督管理总局发布的公告，特斯拉将从 9 月 25 日起召回 298 万辆进口及中国制造的 Model 3、Model Y、Model S 和 Model X 汽车。特斯拉的召回规模最大，这也反映出该公司采用此类门把手设计的车型销量巨大。除特斯拉外，此次召回行动涉及车企包括中国一汽、北汽蓝谷、东风汽车、奇瑞、吉利、小鹏、零跑和小米。小米将召回约 39 万辆汽车，零跑约 37.1 万辆，小鹏约 26.4 万辆。零跑、小鹏和吉利此次召回的规模也均创下各自公司的历史纪录。监管机构表示，在发生严重碰撞并导致车辆电气系统失效后，机械式紧急车门解锁装置可能难以识别。车内人员可能难以打开车门逃生，救援人员也可能难以进入车内。",
+          "link": "https://www.solidot.org/story?sid=85163",
+          "publishedOn": "2026-08-22T13:32:18.000Z",
+          "wordCount": 195,
+          "title": "因门把手安全隐患特斯拉在华召回近 300 万辆车",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85162",
+          "author": null,
+          "description": "2025 年 1 月，Samuel Tunick 从多米尼加共和国度假返回美国时，在亚特兰大 Hartsfield-Jackson 国际机场被拦下，美国海关和边境保护局官员要求搜查他的手机。他最终交出了手机以及一个密码，该密码删除了手机上的数据。他的 Pixel 智能手机运行的是安全加固的 Android 操作系统 GrapheneOS，它内置了被称为胁迫密码的安全功能，输入该密码后会删除手机上的数据。美国检方以妨碍联邦执法的重罪起诉了他，他因此面临最高五年的监禁。这是已知首个因输入特定密码删除设备数据而遭到起诉的案例。佐治亚州北区联邦检察官 Theodore Hertzberg 在一份声明中表示：“妨碍联邦执法是性质严重、有严重后果的罪行。任何销毁或试图销毁财产（包括数据）以阻止合法搜查和扣押的人，都应预料到会因其行为受到起诉和惩罚。”Tunick 在接受《纽约时报》采访时表示：“政府不拥有我们的数据。政府不拥有我们的通信、我们的人际关系，无论他们多么努力尝试。我们必须捍卫对隐私的基本权利；否则我们无法真正说自己生活在一个民主社会中。”",
+          "link": "https://www.solidot.org/story?sid=85162",
+          "publishedOn": "2026-08-22T13:22:17.000Z",
+          "wordCount": 175,
+          "title": "使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85161",
+          "author": null,
+          "description": "彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。微软回应彭博社的询问时表示它没有发现影响该 Windows 系统的安全事件。Windows 10 中国政府版由微软和中国电子科技集团的合资企业神州网信开发。神州网信原计划到 2027 年 2 月停止支持该版本，但其生命结束时间被提前到今年下半年。中国政府机构采用的国产 Linux 发行版可能包括了麒麟操作系统（Kylin OS)和统信 UOS。统信 UOS 桌面版源自 Deepin 和 Debian Linux。",
+          "link": "https://www.solidot.org/story?sid=85161",
+          "publishedOn": "2026-08-22T11:00:50.000Z",
+          "wordCount": 196,
+          "title": "中国要求政府部门提前停用 Windows 10 政府版改用 Linux",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85160",
           "author": null,
@@ -1062,86 +1082,6 @@
           "publishedOn": "2026-08-13T15:46:10.000Z",
           "wordCount": 165,
           "title": "科技巨头想要收集你的思想",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85087",
-          "author": null,
-          "description": "根据发表在《American Journal of Cardiovascular Drugs》期刊上的一项研究，爬楼梯能显著降低死于心血管疾病的风险。研究期间，相比与不常爬楼梯的人，常爬楼梯的人死于心脏相关疾病的风险降低 39%，全因死亡率降低 24%。常爬楼梯的人患心脏病、中风和心力衰竭等严重心血管疾病的风险也较低。研究人员称，心血管疾病是全球首要死因，1990-2019 年间相关病例数几乎翻了一番。研究人员分析了来自 9 项高质量研究的逾 48 万名参与者的数据，中位随访时间为 14 年。研究人群包括健康参与者和有心脏病史的参与者。年龄范围为 35-84 岁，其中 53% 为女性。“与去健身房或进行锻炼不同，爬楼梯很容易融入日常生活，无论是在家、在工作场所还​​是外出。对于没有太多时间或不方便锻炼的人而言，这是一个不错的选择。”“所以，如果可以选择走楼梯或乘电梯，那就选择楼梯，因为它对你的心脏有益。”",
-          "link": "https://www.solidot.org/story?sid=85087",
-          "publishedOn": "2026-08-13T14:32:43.000Z",
-          "wordCount": 178,
-          "title": "爬楼梯有助于延寿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85086",
-          "author": null,
-          "description": "2025 年 NASA 毅力号火星车利用激光对 Jezero 陨石坑周围浅色岩石进行分析时，意外发现了此前在火星上从未发现过的物质：刚玉。部分刚玉颗粒还含有铬——在地球上掺有铬的刚玉被称为红宝石。火星岩石中发现刚玉令人惊讶，因为火星条件很难解释它们是如何形成的。毅力号是在三块富含斜长石的岩石块中发现刚玉颗粒，这三块岩石分别被称为 Hampden River、Coffee Cove 和 Smiths Harbour，它们都是浮岩——即不再附着在形成它们的基岩上的岩石，它们可能来自其他地方。对于刚玉如何形成，研究人员猜测可能是几十亿年前火星表面遭到撞击后产生的，地球以及月球的撞击蚀变岩石中都发现了刚玉。",
-          "link": "https://www.solidot.org/story?sid=85086",
-          "publishedOn": "2026-08-13T14:23:08.000Z",
-          "wordCount": 170,
-          "title": "火星岩石中发现刚玉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85085",
-          "author": null,
-          "description": "Django Python Web 框架项目宣布采用每年发布一个版本的发布模式，放弃以前使用的短期支持、长期支持版本交叉发布方案。Django 不再有长期支持版本（LTS），每个功能版本都有相同的支持承诺。每个功能版本都有三年支持时间，第一年为主流支持，之后两年为安全更新和数据丢失 bug 修正。Django 项目将在任何时候支持三个版本，用户可以按照自身需求在支持期间升级。从 2028 年 1 月发布的 Django 2028 起开始采用这一发布模式。",
-          "link": "https://www.solidot.org/story?sid=85085",
-          "publishedOn": "2026-08-13T10:53:08.000Z",
-          "wordCount": 175,
-          "title": "Django 项目宣布采用每年发布一个版本的发布模式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85084",
-          "author": null,
-          "description": "扫描且不破坏珍本图书是一件费时费劲的工作。根据互联网档案馆 2021 年发表的一篇文章，该机构尝试过自动化图书扫描，但对于易碎珍本图书而言不可行，干净干燥的人手仍然是最佳的翻页方式。自 2010 年起就在互联网档案馆工作的图书扫描员 Eliza Zhang 表示这项工作需要高度集中注意力。她当时已扫描了逾 300 万页、14000 张折页和 18000 件物品。AI 公司如果要扫描图书显然不太可能使用这种方式。最近发表的多篇报道引发了对 AI 公司收购然后销毁珍本图书的担忧。《每日电讯报》称硅谷销毁了数百万册珍稀图书并“撕碎了原件”，404 Media 报道称名为 ISBNdb 的图书数据库公司宣传其可以帮助 AI 公司大量获取图书。2025 年的图书侵权诉讼披露 Anthropic 内部启动了扫描数百万册图书的 Project Panama 项目。但没有证据表明 Anthropic 曾销毁过珍本图书，该公司也公开声明否认。包括马斯克旗下 xAI 在内的 AI 公司也公开表示，他们不会为了训练 AI 而销毁珍本图书。与此同时，珍本图书零售商则在标记可疑订单，因为他们知道，大多数真心想购买珍本图书的人通常只会购买单本，而不是一次性订购大量不同种类的图书。爱尔兰书店 Kennys 报告了一笔令人匪夷所思的订单，该订单订购了 5000 本冷门图书。买家甚至没有试图还价。",
-          "link": "https://www.solidot.org/story?sid=85084",
-          "publishedOn": "2026-08-13T10:38:09.000Z",
-          "wordCount": 204,
-          "title": "图书零售商怀疑 AI 公司购买然后销毁珍本图书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85082",
-          "author": null,
-          "description": "Google 本月初重组了其 AI 部门 DeepMind 的领导层，知情人士表示此举旨在赶上竞争对手。Google 的 Gemini 模型去年 11 月一度短暂超越竞争对手，但 Anthropic 和 OpenAI 的新模型使其再次陷入追赶状态。Google 推迟了 Gemin 新模型的发布，原因是内部测试显示它在编程等领域仍然落后于竞争对手。Google 联合创始人  Sergey Brin 在今年 4 月的一次员工大会上督促加快 AI 研发。通过削弱 DeepMind 的自主权，Google 正集中更多精力在 Gemini 模型的开发上。",
-          "link": "https://www.solidot.org/story?sid=85082",
-          "publishedOn": "2026-08-13T08:05:45.000Z",
-          "wordCount": 199,
-          "title": "Google 重组 AI 部门旨在赶上竞争对手",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85081",
-          "author": null,
-          "description": "位于银河系中心的超大质量黑洞 Sgr A* 周围，存在极端强烈的辐射与复杂的星际环境，长久以来被认为不利于尘埃与分子长时间存在。最新研究利用韦伯太空望远镜（JWST）的中红外线仪器（MIRI），观测距离 Sgr A* 投影约 0.17 秒差距的恒星 IRS 3。研究团队在 2025 年的观测中取得 4.9 至 27.9 微米的中红外线光谱，首次获得 IRS 3 完整且经前景消光修正的连续光谱，借此分析其周围尘埃包层的化学组成与物理环境。更令人瞩目的是，研究团队首次在 IRS 3 的包层中确认明确的水吸收特征，模型显示水可能位于距离恒星约 900 天文单位的内侧包层。这项发现显示，即使在 Sgr A* 周围由强烈辐射主导的极端环境中，基本分子仍可能存活。超大质量黑洞附近并非完全无法形成或保存尘埃与分子。",
-          "link": "https://www.solidot.org/story?sid=85081",
-          "publishedOn": "2026-08-13T07:07:17.000Z",
-          "wordCount": 185,
-          "title": "韦伯望远镜在银河系中心黑洞附近发现水和尘埃",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85080",
-          "author": null,
-          "description": "自 2026 年 7 月下旬起，约有 75,000 名移民从摩洛哥越过边境，进入西班牙位于北非的自治市休达。休达政府为此宣布进入“绝对的人道与社会紧急状态”，请求西班牙中央政府宣布国家紧急状态，派军队支援。这一切是如何发生的？在数万移民涌入休达两天前，当地的一家报纸《El Faro de Ceuta》在 TikTok 和 Instagram 上发布了一则视频，展示了两名身穿潜水衣的年轻女性在城市中行走，头发仍然湿漉漉的。虽然未明说，但意思非常明显：两名女性是刚从摩洛哥游泳穿越边境过来的。报纸宣称：“休达再也承受不了了。”在边境的另一侧，这则视频引发了截然不同的反响。被裁剪后用阿拉伯语转发的视频看起来像是一封邀请函。视频中的女性面带微笑，比着和平手势和大拇指，最重要的一点是，她们在自由行走。这段视频似乎验证了社媒上流传数周的传言——西班牙最高法院最近的一项裁决意味着非法抵达的移民可以留在该国。正如 Facebook 上一个账号错误声称：“休达正变成一扇敞开的大门”，但实际上移民在司法审查后仍可能被驱逐。此事成为了社媒直接导致现实悲剧的最典型案例之一。",
-          "link": "https://www.solidot.org/story?sid=85080",
-          "publishedOn": "2026-08-13T06:53:55.000Z",
-          "wordCount": 173,
-          "title": "社媒如何导致西班牙难民危机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85079",
-          "author": null,
-          "description": "安全研究员 Cory Solovewicz 分别在 2020 年和 2024 年购买了两个域名 noreply.us 和 noreply.net，他原本计划用于过滤该域名地址收到的邮件，结果发现有很多企业的邮件系统也会向该域名发送邮件，而且数量非常庞大。他无意中打造了一个蜜罐。他在本月举行的 Defcon 安全大会公布了结果：noreply.net 自 2024 年 12 月以来收到了 401,796 封邮件，平均每天 699.99 封；noreply.us 数量没有这么多，自 2020 年以来发送了 37255 封邮件。他指出，邮件是企业邮件系统自动发送的，并非人工撰写，这些都是内部系统配置错误导致的。另一名安全研究员 Mike Sheward 在购买了 deleteduser.com 域名之后也有类似的发现，企业没有真的彻底删除用户账号，而只是改了电邮地址。Sheward 透露，一家 AI 公司向该域名发送了大量邮件，该公司利用目标识别技术检测中东工业场所中可能违反安全规程的工人，他从这家公司收到了数千张 CCTV 监控录像截图。",
-          "link": "https://www.solidot.org/story?sid=85079",
-          "publishedOn": "2026-08-13T06:06:32.000Z",
-          "wordCount": 201,
-          "title": "企业错配系统向 @noreply.net 之类的域名发送邮件",
           "imageUrl": null
         }
       ]
