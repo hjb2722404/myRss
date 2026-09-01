@@ -2,10 +2,142 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-08-31T08:05:09.998Z</updated>
+    <updated>2026-09-01T07:14:09.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenShot 4.0 释出]]></title>
+        <id>https://www.solidot.org/story?sid=85246</id>
+        <link href="https://www.solidot.org/story?sid=85246"/>
+        <updated>2026-08-31T16:54:12.000Z</updated>
+        <summary type="html"><![CDATA[自由软件视频编辑器项目 OpenShot 释出了 v4.0 版本。主要新特性包括：新色彩视图；新录制视图：将麦克风、屏幕、Web 摄像头和系统音频直接添加到项目中，每个音源保持独立且可编辑；10 种新特效；使用本地大模型选择和跟踪对象；更简洁的原生时间线；更快的特效和编辑速度；智能的创意工作流程；扩展 Qt 6 支持，改进了与较新 Linux 发行版的兼容性，为 Android 和其它平台奠定了基础。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加州议会通过年龄验证法案，Linux BSD 豁免]]></title>
+        <id>https://www.solidot.org/story?sid=85245</id>
+        <link href="https://www.solidot.org/story?sid=85245"/>
+        <updated>2026-08-31T15:47:25.000Z</updated>
+        <summary type="html"><![CDATA[加州参议院和众议院批准了年龄验证法案 Assembly Bill 1856。在递交给州长批准之后法案预计于 2027 年 1 月 1 日生效。法案豁免了 Linux 和 BSD 等开源操作系统。法案要求，如果操作系统有账户设置功能，那么系统提供商须提供一个界面，在账户设置期间要求输入设备主用户的出生日期、年龄或两者兼有。操作系统通过相对一致的实时 API 向受监管的应用商店和应用开发商提供数字年龄信号。该信号不显示精确的出生日期，而是四个年龄段之一：13 岁以下、13-15 岁、16-17 岁或 18 岁及以上。对 2027 年 1 月 1 日之前的设备，操作系统提供商必须在 2027 年 7 月 1 日之前提供界面让账户持有人提供所需的年龄信息。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let’s Use the Emergent CSS random() Function in all the Browsers]]></title>
+        <id>https://css-tricks.com/?p=396630</id>
+        <link href="https://css-tricks.com/css-random-function-polyfill/"/>
+        <updated>2026-08-31T15:12:19.000Z</updated>
+        <summary type="html"><![CDATA[The journey to create a polyfill for the upcoming CSS random() function that works in all browsers.
+Let’s Use the Emergent CSS random() Function in all the Browsers originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Lee Meyer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3-rc1 释出]]></title>
+        <id>https://www.solidot.org/story?sid=85244</id>
+        <link href="https://www.solidot.org/story?sid=85244"/>
+        <updated>2026-08-31T15:07:53.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds 宣布释出 Linux 7.3-rc1，关闭了 7.3 的合并窗口，正式版预计将在十月底释出。Linux 7.3 的主要特性包括：Ryzen AI Halo LED/RGB 驱动、继续即将推出的 AMD Zen 6 的支持工作、KSMBD 兼容 Apple Time Machine 备份、内核驱动初步支持 2026 年款 Steam Controller、合并 FailFS、Intel Xe3P Nova Lake 集显支持稳定、改进了显存容量有限的系统的游戏性能、改进 SMP 降低延迟提升实时性能、等等。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam 平台 2003-2013 年的几乎所有游戏泄露]]></title>
+        <id>https://www.solidot.org/story?sid=85243</id>
+        <link href="https://www.solidot.org/story?sid=85243"/>
+        <updated>2026-08-31T14:19:30.000Z</updated>
+        <summary type="html"><![CDATA[上周末 Steam 平台逾 12TB 数据泄露，涵盖了该平台 2003-2013 年之间几乎所有的游戏。这些数据是通过一个公开访问的 API 获取的，但不清楚是近期访问还是早就下载但直到上周才公开。相关数据来自被称为 Steam2 的内容分发系统，2013 年 Steam2 被 SteamPipe 系统所取代，因此数据仅限于 2013 年前。泄露的数据包括了Valve 和第三方发行商发布的热门游戏的早期版本、原型版本和试玩版本，其中包括《传送门2》的被删减内容，被取消的《半条命2：第三章》的部分文件。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More]]></title>
+        <id>https://css-tricks.com/?p=396738</id>
+        <link href="https://css-tricks.com/whats-important-18/"/>
+        <updated>2026-08-31T14:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Well, that’s a wrap. No, not a flex-wrap, but rather today marks a new day, week, month, season, aaaand new edition of What’s important (#18), bringing you the best content that developers have produced over the last couple of weeks or so.
+What’s !important #18: <geolocation>, Syntax ::highlight()ing, named-feature(), and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 改变了其搜索结果的展示方式]]></title>
+        <id>https://www.solidot.org/story?sid=85242</id>
+        <link href="https://www.solidot.org/story?sid=85242"/>
+        <updated>2026-08-31T11:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Google 过去一年对其搜索结果的展示方式进行了两次重大改变。其一是搜索结果链接，以前你将鼠标悬停在搜索结果上会在浏览器底部看到网站链接，现在显示的是 google.com/goto + 一串看起来随机的字符串。搜索结果中的 AI Overview 引用的链接也是采用此类展示方式。其二是用户以前可以在搜索词末尾添加 &num=100，可以在一个页面上显示前 100 个搜索结果，如今这一快捷方式被取消了，Google 强制只展示最多 10 个搜索结果，意味着你想要看前 100 个结果需要点击 10 次。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw 2.0 正式发布：史上规模最大的一次更新：933 位贡献者，16000 个拉取请求]]></title>
+        <id>https://www.appinn.com/openclaw-2-0/</id>
+        <link href="https://www.appinn.com/openclaw-2-0/"/>
+        <updated>2026-08-31T09:54:28.000Z</updated>
+        <summary type="html"><![CDATA[在停更7周以后，OpenClaw 2.0 终于发布，这次更新被开发者称为「迄今为止 OpenClaw 历史上规模最大的一次更新。此次更新由 933 位贡献者共同完成，其中包括 569 位首次贡献者，并包含了超过 16,000 个 pull request。」 OpenClaw 2.0 就是 Open]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[植物如何应对高温]]></title>
+        <id>https://www.solidot.org/story?sid=85241</id>
+        <link href="https://www.solidot.org/story?sid=85241"/>
+        <updated>2026-08-31T09:08:40.000Z</updated>
+        <summary type="html"><![CDATA[科学家早就知道，植物叶片表面分布着许多微小的气孔。当温度升高时，这些微小的孔隙会“张嘴”，让水分蒸发，从而带走热量，就像人出汗能降温一样，但气孔这一植物“散热器”背后的分子调控机制，一直是个未解之谜。该通路的核心是一种名为“泛素特异性蛋白酶24”（UBP24）的蛋白质。他们发现，当高温来袭，植物体内的激酶会“唤醒”UBP24，导致其分子电荷发生变化，使其变得更加稳定。在更稳定的状态下，UBP24 有助于“保护”并激活其他参与维持气孔开口的蛋白质，使植物的蒸发冷却系统在热应激时保持活跃。通俗来说，UBP24 就像“空调”上灵敏的温控开关。类似的故事并非只在植物身上上演。科学家还发现，啤酒酵母中的一种相关蛋白质也依靠相似原理应对热应激。酵母与植物分属不同物种，生活方式大相径庭，且两者之间存在数亿年的进化差距，却在细胞层面使用了相似的“散热逻辑”。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人类何时开始不爱吃昆虫？]]></title>
+        <id>https://www.solidot.org/story?sid=85240</id>
+        <link href="https://www.solidot.org/story?sid=85240"/>
+        <updated>2026-08-31T08:13:37.000Z</updated>
+        <summary type="html"><![CDATA[研究人员借助基因组证据，还原了数千年来人类食用昆虫的模式。研究表明，在欧洲、中亚与东亚地区，吃昆虫可能只是偶然行为；而在热带地区以及尼安德特人中，食虫则更为普遍。研究人员检测了 745 份来自现代人的牙结石样本，其年代最早可追溯至 3.3 万年前。牙结石能保存食物的 DNA，为研究人员提供了远古饮食的记录。研究结果显示，生活在欧亚大陆北部的现代人并不会经常食用昆虫。研究团队还检测了与分解几丁质相关的基因，几丁质是昆虫外骨骼的主要成分。在欧亚大陆北部人群中，几丁质酶基因发生了突变，导致人体消化昆虫外骨骼的能力下降。这种基因模式已延续了约 9000 年，可追溯至农业兴起之时。尼安德特人的情况则截然不同，他们的牙结石中所含的昆虫 DNA 要多得多。尼安德特人牙结石中最常见的基因痕迹来自双翅目昆虫，包含苍蝇和蚊子，其中蚊子的 DNA 含量尤其丰富。该结果佐证了近期的一个假说——尼安德特人可能经常食用带有蝇蛆的动物尸体。而蚊子遗骸的大量存在也支持了另一种观点——猎物的尸体有时可能被存放在池塘或沼泽环境中，而蚊子会在这些地方产卵。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文学家可能发现首个没有恒星的星系]]></title>
+        <id>https://www.solidot.org/story?sid=85239</id>
+        <link href="https://www.solidot.org/story?sid=85239"/>
+        <updated>2026-08-31T07:53:29.000Z</updated>
+        <summary type="html"><![CDATA[被称为 Cloud 9 的星系可能是人类发现的第一个没有恒星的“失败”星系。此类星系虽然有大量气体和尘埃，却几乎没有恒星存在。Cloud 9 距离地球 1400 万光年，靠近旋涡星系 M94，它包含一团巨大的氢气云，估计质量是太阳的 100 万倍，以及质量约为太阳 500 万倍的暗物质。它几乎不发出任何星光。无恒星星系形成的主流解释与紫外背景辐射相关，在宇宙早期的再电离时代后，紫外辐射场将低质量暗物质晕中的气体加热到足够高的温度，使得气体无法有效冷却并坍缩形成恒星。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国准备向所有民众提供免费 AI 服务]]></title>
+        <id>https://www.solidot.org/story?sid=85238</id>
+        <link href="https://www.solidot.org/story?sid=85238"/>
+        <updated>2026-08-31T07:08:15.000Z</updated>
+        <summary type="html"><![CDATA[韩国准备向所有民众提供免费 AI 服务 AI for All。该服务计划从下月起进行 beta 测试，计划今年晚些时候推出。服务由韩国两家最大的电信公司以及 Kakao 牵头的三个联盟提供，政府提供部分算力，包括提供最多 512 块英伟达 B200 芯片和支付部分运营费用。AI 服务预计将与政府系统连接，而不只是作为独立的聊天机器人运行。居民将能使用这些服务预约医生、搜索公寓和获取税务指导。小型企业将能计算税款和查询是否符合政府补贴资格。家长将收到教育内容的推荐。每个联盟都计划推出自己的 AI 应用，在现有产品中加入生成式 AI 功能。在政府支持的计划下，用户可以无限次访问，没有 token 限制。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[柏林市遭到黑客攻击和勒索]]></title>
+        <id>https://www.solidot.org/story?sid=85237</id>
+        <link href="https://www.solidot.org/story?sid=85237"/>
+        <updated>2026-08-31T06:41:19.000Z</updated>
+        <summary type="html"><![CDATA[柏林市长 Kai Wegner 表示，本月初黑客入侵了柏林市政府系统，窃取了数据，并提出了勒索要求。他表示政府不会屈服于勒索要求。他没有透露赎金金额。据媒体报道，黑客索要 30 个比特币，价值约 200 万欧元。攻击导致部分在线系统被迫关闭。在俄罗斯和东欧活动的 Rhysida 组织宣布对此负责。该组织宣布计划一周后拍卖从柏林市窃取的 5.79TB 数据。柏林市政府官员表示，数据泄露发生在 8 月 7-12 日之间。8 月 14 日，两个政府部门的网络被关闭，导致住房补贴申请和付款在数日内无法进行。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam 12TB 游戏数据泄漏：横跨 10 年，大量未公开内容曝光]]></title>
         <id>https://www.appinn.com/steam-12tb-game-data-leak/</id>
@@ -17,6 +149,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google Maps 在美国将安大略湖更名为美国湖]]></title>
+        <id>https://www.solidot.org/story?sid=85236</id>
+        <link href="https://www.solidot.org/story?sid=85236"/>
+        <updated>2026-08-31T06:11:49.000Z</updated>
+        <summary type="html"><![CDATA[在墨西哥湾之后，Google 宣布其地图服务 Google Maps 将安大略湖（Lake Ontario）更名为美国湖（Lake America）——这一更改主要针对美国用户，加拿大用户仍然看到的是安大略湖，而世界其他地方的用户则会看到两个名字。另一家美国地图服务 MapQuest 表示不会改名，但会提供一款工具，允许用户根据自己的意愿随便改名字。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[内网穿透，本可以不用那么麻烦]]></title>
         <id>https://www.appinn.com/wangyunchuan-2-2/</id>
         <link href="https://www.appinn.com/wangyunchuan-2-2/"/>
@@ -24,6 +166,16 @@
         <summary type="html"><![CDATA[很多人都想随时随地地远程控制在家或办公室的电脑，或者出门在外也能访问 NAS 里的文件、公司内部的 OA 系统，甚至小主机、路由器、打印机等设备。但由于没有公网 IP，这些设备都处于内网，无法直接访问。 内网穿透就可以解决这个问题，它能让你不受局域网的限制，在任何地点，用手机或电脑，也能访问家里或公]]></summary>
         <author>
             <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 成功发射罗曼太空望远镜]]></title>
+        <id>https://www.solidot.org/story?sid=85235</id>
+        <link href="https://www.solidot.org/story?sid=85235"/>
+        <updated>2026-08-31T05:36:28.000Z</updated>
+        <summary type="html"><![CDATA[NASA 的 Nancy Grace Roman 太空望远镜于 8 月 30 日 7:26 使用 SpaceX 重型火箭 Falcon Heavy 从佛罗里达肯尼迪太空中心 39A 发射台发射升空。太空望远镜以 NASA 首任天文学部门女主任的名字命名，使用了美国国家侦察局捐赠的 2.4 米口径主镜，配备了两台科学仪器——3 亿像素多波段红外相机大视场仪表（WFI）以及能直接观测邻近恒星周围的类木行星的日冕仪（CGI）。其核心任务包括探测暗能量、发现系外行星及验证广义相对论宇宙时空曲率。火箭在飞行 31 分钟后与望远镜分离，助推器安全返回发射场。Roman 望远镜将飞往日地之间的 L2 拉格朗日点，它将首先进行为期三个月的调试，NASA 计划 2027 年初发布望远镜拍摄的首批图像。望远镜每天将传回 1.4TB 的数据。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
@@ -909,66 +1061,6 @@ WordPress PHP-Only Block Registration originally handwritten and published with 
         <link href="https://www.appinn.com/ntfsmac/"/>
         <updated>2026-08-23T07:43:14.000Z</updated>
         <summary type="html"><![CDATA[新买 Mac 电脑后，当你插入普通的 NTFS 移动硬盘，就会遇到第一个困难：只能读，不能写。想要折腾一下，你会发现得动操作系统，不是安装内核扩展，就是重启电脑关闭 SIP，而 SIP 本身叫做系统完整性保护，听起来就不敢动。 那有没有更简单点的解决方案？ ntfsmac：无需内核扩展或SIP修改]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同]]></title>
-        <id>https://www.solidot.org/story?sid=85165</id>
-        <link href="https://www.solidot.org/story?sid=85165"/>
-        <updated>2026-08-22T15:59:22.000Z</updated>
-        <summary type="html"><![CDATA[3 分钟冲刺跑产生的分子反应与 90 分钟中等强度运动截然不同。洛克菲勒大学的研究人员比较了人体对不同强度运动的反应。他们发现，六次 30 秒全力冲刺跑后，血液中近四分之一的蛋白质发生了变化。相比之下，90 分钟持续中等强度骑行仅改变了不到 0.25% 的蛋白质。中等强度的跑步机运动对蛋白质的影响比骑行更大，但仍然远小于短暂的冲刺跑。冲刺跑还改变了逾 200 种代谢物，迅速提升了参与血管生长、组织重塑和激素信号传导的蛋白质水平。部分蛋白质是通过一种名为胞外域脱落（ectodomain shedding）的快速细胞信号传导过程进入血液的——蛋白质并非新产生并释放，而是细胞表面已有的蛋白质片段被切除并迅速进入血液循环。33 种与降低心血管和代谢疾病风险相关的蛋白质有 32 种会因短暂的冲刺跑发生改变，只有 3 种会受到中等强度运动的影响。逾四分之一蛋白质还与延缓生物衰老相关。研究结果表明，运动强度可能会强烈影响释放到血液中的蛋白质和代谢物，进而影响全身组织的反应方式。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockstar 向微软和 Discord 发去法庭传票以识别 GTA6 泄密者身份]]></title>
-        <id>https://www.solidot.org/story?sid=85164</id>
-        <link href="https://www.solidot.org/story?sid=85164"/>
-        <updated>2026-08-22T15:30:51.000Z</updated>
-        <summary type="html"><![CDATA[2022 年 9 月一名黑客泄漏了当时尚未宣布的 GTA6 的图片和视频，此事促使开发商 Rockstar Games 加强了安全措施。然而到了 2026 年 8 月游戏还有 3 个月即将发售时，自称 Cyber​​Leek 的个人或组织发布了 GTA6 的一系列新视频，视频显示泄密者手中可能有一个可运行的版本，也就是游戏本体被盗了。彭博社援引知情人士的消息称，Rockstar 尚未确定泄密者身份，也不知道游戏本体是如何泄漏出去的。该公司目前正全力查明泄露源头并追踪泄密者。为了识别泄密者，Rockstar 母公司 Take-Two 的律师正向法院申请传票，要求微软和 Discord 提供信息帮助识别泄密者身份。Take-Two 要求微软在  9 月 4 日前提供信息，要求 Discord 在相同的截止日期前提供 CYBERLEEK、CINEMATICROCKSTAR 和 Surfer24k™  等账号的信息。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因门把手安全隐患特斯拉在华召回近 300 万辆车]]></title>
-        <id>https://www.solidot.org/story?sid=85163</id>
-        <link href="https://www.solidot.org/story?sid=85163"/>
-        <updated>2026-08-22T13:32:18.000Z</updated>
-        <summary type="html"><![CDATA[特斯拉和另外 8 家汽车制造商 21 日宣布，将在中国召回总计约 430 万辆汽车，创下中国汽车召回规模纪录。此次召回的整改措施包括软件更新、加贴警示标签，以及改进门把手周围的标识等。大多数车企还将通过 OTA 远程升级软件。根据国家市场监督管理总局发布的公告，特斯拉将从 9 月 25 日起召回 298 万辆进口及中国制造的 Model 3、Model Y、Model S 和 Model X 汽车。特斯拉的召回规模最大，这也反映出该公司采用此类门把手设计的车型销量巨大。除特斯拉外，此次召回行动涉及车企包括中国一汽、北汽蓝谷、东风汽车、奇瑞、吉利、小鹏、零跑和小米。小米将召回约 39 万辆汽车，零跑约 37.1 万辆，小鹏约 26.4 万辆。零跑、小鹏和吉利此次召回的规模也均创下各自公司的历史纪录。监管机构表示，在发生严重碰撞并导致车辆电气系统失效后，机械式紧急车门解锁装置可能难以识别。车内人员可能难以打开车门逃生，救援人员也可能难以进入车内。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用胁迫密码删除手机数据的美国公民被控妨碍联邦执法的重罪]]></title>
-        <id>https://www.solidot.org/story?sid=85162</id>
-        <link href="https://www.solidot.org/story?sid=85162"/>
-        <updated>2026-08-22T13:22:17.000Z</updated>
-        <summary type="html"><![CDATA[2025 年 1 月，Samuel Tunick 从多米尼加共和国度假返回美国时，在亚特兰大 Hartsfield-Jackson 国际机场被拦下，美国海关和边境保护局官员要求搜查他的手机。他最终交出了手机以及一个密码，该密码删除了手机上的数据。他的 Pixel 智能手机运行的是安全加固的 Android 操作系统 GrapheneOS，它内置了被称为胁迫密码的安全功能，输入该密码后会删除手机上的数据。美国检方以妨碍联邦执法的重罪起诉了他，他因此面临最高五年的监禁。这是已知首个因输入特定密码删除设备数据而遭到起诉的案例。佐治亚州北区联邦检察官 Theodore Hertzberg 在一份声明中表示：“妨碍联邦执法是性质严重、有严重后果的罪行。任何销毁或试图销毁财产（包括数据）以阻止合法搜查和扣押的人，都应预料到会因其行为受到起诉和惩罚。”Tunick 在接受《纽约时报》采访时表示：“政府不拥有我们的数据。政府不拥有我们的通信、我们的人际关系，无论他们多么努力尝试。我们必须捍卫对隐私的基本权利；否则我们无法真正说自己生活在一个民主社会中。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国要求政府部门提前停用 Windows 10 政府版改用 Linux]]></title>
-        <id>https://www.solidot.org/story?sid=85161</id>
-        <link href="https://www.solidot.org/story?sid=85161"/>
-        <updated>2026-08-22T11:00:50.000Z</updated>
-        <summary type="html"><![CDATA[彭博社报道，中国政府下令部分机构提前停止使用 Windows 10 中国政府版，改用国产 Linux 发行版。为维护数字主权，中国已不再信任美国公司的软件。微软回应彭博社的询问时表示它没有发现影响该 Windows 系统的安全事件。Windows 10 中国政府版由微软和中国电子科技集团的合资企业神州网信开发。神州网信原计划到 2027 年 2 月停止支持该版本，但其生命结束时间被提前到今年下半年。中国政府机构采用的国产 Linux 发行版可能包括了麒麟操作系统（Kylin OS)和统信 UOS。统信 UOS 桌面版源自 Deepin 和 Debian Linux。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 时间点还原默认开启，真后悔药：可恢复系统与用户文件数据]]></title>
-        <id>https://www.appinn.com/windows-11-point-in-time-restore-default/</id>
-        <link href="https://www.appinn.com/windows-11-point-in-time-restore-default/"/>
-        <updated>2026-08-22T07:28:21.000Z</updated>
-        <summary type="html"><![CDATA[你有没有遇到过这种情况：桌面上保存了一个重要文件，清理电脑时顺手删除。几个小时后才发现，删掉的是正在使用的资料，回收站里也没有了… Windows 11 新加入的时间点还原（Point-in-Time Restore）功能，可能就是那颗“后悔药”，能帮你找回这个文件。 上个月，小众软件介]]></summary>
         <author>
             <name>青小蛙</name>
         </author>
