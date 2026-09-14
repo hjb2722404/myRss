@@ -12,6 +12,36 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/minio-remove-docker-images/",
+          "author": "青小蛙",
+          "description": "以前自建 S3，MinIO 几乎就是那个不用多想的答案。 但从 2025 年开始，这个几乎等同于“自建 S3 首选”的开源项目，就开始一刀接一刀地往自己身上砍： 现在，MinIO 砍下了最后一刀：官方 Docker 镜像，也没了。 曾经那个累计超过 10 亿次拉取的：minio/minio，如今打开",
+          "link": "https://www.appinn.com/minio-remove-docker-images/",
+          "publishedOn": "2026-09-14T06:26:49.000Z",
+          "wordCount": 2696,
+          "title": "MinIO 又砍一刀：开源社区版没了，Docker 镜像也删干净了。",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-14T142519.814.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/driver-booster-13-pro/",
+          "author": "青小蛙",
+          "description": "新设备无法正常使用？系统更新后声音没了、网络异常，甚至蓝屏死机？想玩游戏却因驱动过旧导致卡顿闪退？ 驱动问题看似小，却直接影响电脑性能和稳定性。而手动找驱动的方式，不仅费时费力，还可能误下危险程序。 Driver Booster 13 Pro 是一款专为 Windows 用户设计的驱动更新工具。 即",
+          "link": "https://www.appinn.com/driver-booster-13-pro/",
+          "publishedOn": "2026-09-14T06:18:17.000Z",
+          "wordCount": 2660,
+          "title": "电脑驱动更新工具 Driver Booster 13 Pro，限时 7 折特惠快入手！",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-14T141629.137.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/faxian-top10-2637/",
+          "author": "青小蛙",
+          "description": "最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了 2️⃣ 【开发者自荐】一个免费的 X / Twitter 在线工具箱，提供视频下载、推文导出、T",
+          "link": "https://www.appinn.com/faxian-top10-2637/",
+          "publishedOn": "2026-09-14T01:00:34.000Z",
+          "wordCount": 2547,
+          "title": "发现频道：10款大家发现的好评软件[2026年第37期]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-16.jpg"
+        },
+        {
           "id": "https://www.appinn.com/windows-11-september-2026-update-10-new-issues/",
           "author": "青小蛙",
           "description": "微软的 2026 年 9 月“周二补丁日”创纪录的修复了 974 个漏洞，其中 Windows 修复了 723 个漏洞。不过在仅仅4天之后，社区就爆出了10来个问题，青小蛙也遇到了远程桌面 RDP 无法连接的故障。而微软还在催大家更新… 前情回顾： 微软 2026 年 9 月“周二补丁日",
@@ -185,16 +215,6 @@
           "wordCount": 3180,
           "title": "uBlock Origin 回来了！第三方开发者将其完整功能移植到 Manifest V3",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-05T165423.784.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/eggs-2694/",
-          "author": "青小蛙",
-          "description": "本周赛博领鸡蛋 Epic Games 商城共有 1 款电脑游戏、1 款手机游戏限时免费领取，分别是电脑端的《与你独处》，以及手机端的《寻找埃文》。其中《寻找埃文》同时提供 Android 和 iOS 版本。截止 9 月 10 日 09:00。 《与你独处》/ Alone With You 《与你独处",
-          "link": "https://www.appinn.com/eggs-2694/",
-          "publishedOn": "2026-09-04T07:03:04.000Z",
-          "wordCount": 2567,
-          "title": "本周赛博领鸡蛋（9.4~9.10）：《与你独处》《寻找埃文》",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/08/12.jpg"
         }
       ]
     },
@@ -217,16 +237,6 @@
           "publishedOn": "2026-09-11T00:11:50.000Z",
           "wordCount": null,
           "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
-          "imageUrl": null
-        },
-        {
-          "id": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
-          "author": null,
-          "description": "这里记录每周值得分享的科技内容，周五发布。...",
-          "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-411.html",
-          "publishedOn": "2026-09-03T23:59:05.000Z",
-          "wordCount": null,
-          "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
           "imageUrl": null
         }
       ]
@@ -253,6 +263,86 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85366",
+          "author": null,
+          "description": "宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验室里有四台宇树的四足机器人，每台售价约 1.5 万美元，以及一台波士顿动力的四足机器人 Spot，起售价 7.5 万美元。波士顿动力原本是这一领域的领导者，它在 2016 年 6 月发布了电动版的四足机器人 Spot，但直到 2020 年才上市销售。而宇树创始人王兴兴在 2016 年创办公司之后第二年就推出了第一款四足机器人产品莱卡狗（Laikago）。宇树在 2021 年推出了 Go1 系列四足机器人，其中 Air 型起售价 2700 美元。2023 年宇树发布了 Go2，价格更亲民——Air 版售价 1600 美元，性能更强的 Pro 版售价 2800 美元。Go2 Air 的价格仅为 Spot 的 3%。宇树的机器人为何如此便宜？Simplexity 公司拆解了一台 Go2，发现它使用了 12 个相同的电机，四条腿各由 3 个电机驱动。一个位于肩部的电机控制腿部角度，另外两个电机分别驱动腿部的两段结构。四个肩部的结构布局完全相同。复用组件和电机既降低成本，又减少了零部件数量。MAB Robotics 的电机与足式机器人专家 Jakub Bartoszek 指出，宇树电机磨损更快。而宇树在设计时也考虑了修复磨损机器人的便捷性。机器人专家称更换机器狗的一条腿可能只需要一分钟。 宇树还在名为减速器（reducer）的组件上降低成本。减速器是降低电机转速增大扭矩的传动装置，通常比电机还贵。Spot 腿部的两个电机配备了减速比为 51:1 的减速器，即电机转 51 圈腿部关节才完整转 1 圈，其优点是动作更精确，缺点是更昂贵。相比下宇树使用了减速比 6.33:1 的减速器。宇树可能在模仿大疆，即快速迭代未成熟有缺陷但更低成本的产品去占领市场，通过销量增长将更多组件纳入自主生产，进一步降低成本，继续带动销量增长。相比大疆，宇树当前面临的竞争对手可能更多。",
+          "link": "https://www.solidot.org/story?sid=85366",
+          "publishedOn": "2026-09-13T15:23:42.000Z",
+          "wordCount": 227,
+          "title": "宇树如何将机器狗的价格降至 2000 美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85365",
+          "author": null,
+          "description": "被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenweg 通过公司 Slack 频道指责首席财务官 Mark Davies 与董事会串通，董事会投票决定由 Davies 担任临时 CEO。两天后，Mullenweg 称董事会已重新达成一致，他本人恢复了对 Automattic 控制。而 Davies 的 Slack 账户则被停用了，Automattic Slack 频道中的所有管理员也都被移除了。",
+          "link": "https://www.solidot.org/story?sid=85365",
+          "publishedOn": "2026-09-13T14:20:20.000Z",
+          "wordCount": 206,
+          "title": "Matt Mullenweg 据报道恢复了对 Automattic 的控制",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85364",
+          "author": null,
+          "description": "北京市政府公布了新修订的《北京市无人驾驶航空器管理规定》，全面限制无人机。《规定》将自 2026 年 11 月 15 日起实施。《规定》明确，本市行政区域全域为无人驾驶航空器管制空域，禁止在本市行政区域内实施无人驾驶航空器飞行活动，禁止在本市行政区域内持有、存放无人驾驶航空器及其核心部件，禁止运输、携带无人驾驶航空器及其核心部件进入本市行政区域。《规定》还要求特殊保障单位应当建立安全管理制度，明确管理责任，防止发生安全事件，特殊保障情形的飞行活动严格按照国家有关规定执行。",
+          "link": "https://www.solidot.org/story?sid=85364",
+          "publishedOn": "2026-09-13T13:01:57.000Z",
+          "wordCount": 163,
+          "title": "北京全面限制无人机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85362",
+          "author": null,
+          "description": "暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的第三部《虚空之遗》，时隔 11 年之后宣布的正统续作不再属于 RTS。FPS 版《星际争霸》游戏设定在 Koprulu 星区（Koprulu Sector），时间位于《虚空之遗》剧情结束后的 70 年。",
+          "link": "https://www.solidot.org/story?sid=85362",
+          "publishedOn": "2026-09-13T03:10:07.000Z",
+          "wordCount": 184,
+          "title": "暴雪宣布 FPS 版《星际争霸》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85361",
+          "author": null,
+          "description": "墨西哥贩毒集团涉足了加密货币挖矿业务。墨西哥警方在 Puebla 州的 Sierra Norte 地区发现了一个用电量远超周边村庄的矿场，查获了 300 个 GPU、80 个中压终端设备以及 8 个卫星天线。虽然就国际商业规模而言，该矿场的规模相当有限，但这已是自去年年初以来该地区发现的第四个加密货币矿场。根据区块链分析公司 Chainalysis 对流向非法钱包地址的交易量进行的分析，全球范围内非法加密货币交易在 2025 年增长一倍以上，与犯罪活动相关的地址接收的资金总额达到 1540 亿美元，而前一年仅为 590 亿美元。拉美的贩毒集团也愈来愈频繁利用加密货币转账和挖矿洗钱。电力是加密货币挖矿的最主要成本，挖一枚比特币的成本接近 4.5 万美元。按当前约 7.8 万美元的市场价出售，矿场仍能有可观的利润。如果矿场还能偷电，那么利润会更高。",
+          "link": "https://www.solidot.org/story?sid=85361",
+          "publishedOn": "2026-09-12T16:49:02.000Z",
+          "wordCount": 180,
+          "title": "墨西哥毒贩涉足加密货币挖矿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85360",
+          "author": null,
+          "description": "Waymo 举报了两名携带幽灵枪的年轻乘客。事件发生在 9 月 3 日凌晨 4 点前，地点是旧金山的 Richmond 区。Waymo 发言人称，它在检测到乘客携带枪支之后，停下了无人出租车，通知了执法部门。旧金山警方拘留了两名未成年青少年，一名男孩和一名女孩，搜查汽车后发现了一支已上膛的 AR 风格突击步枪。两名乘客已被送往少年拘留中心。这不是 Waymo 第一次举报乘客，它在今年 7 月曾举报了玩玩具枪的两名青少年乘客。",
+          "link": "https://www.solidot.org/story?sid=85360",
+          "publishedOn": "2026-09-12T15:53:36.000Z",
+          "wordCount": 177,
+          "title": "Waymo 举报了两名携带幽灵枪的青少年乘客",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85359",
+          "author": null,
+          "description": "OpenAI 本周早些时候宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。Navier-Stokes 问题是克雷数学研究所列出的七大千禧年数学问题之一，它为每道题的解决提供了一百万美元奖金。目前七大问题只有庞加莱猜想确认解决，但解决该问题的俄罗斯数学家格里戈里·佩雷尔曼拒绝接受该奖。克雷数学研究所就此公开声明，表示将根据其评奖流程确认成果。根据克雷数学研究所的规则，OpenAI 首先需要在同行评审的期刊上发表解题结果，需要至少发表两年并且获得数学界的普遍认可。OpenAI 至今没有给出 Navier-Stokes 问题的证明，因此确认该问题被解决至少需要到 2029 年。",
+          "link": "https://www.solidot.org/story?sid=85359",
+          "publishedOn": "2026-09-12T15:31:13.000Z",
+          "wordCount": 186,
+          "title": "克雷数学研究所就 Navier-Stokes 问题发表公开声明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85358",
+          "author": null,
+          "description": "包括陶哲轩、新晋得主邓煜在内的 25 名菲尔茨奖得主发表公开信《A Severe Misalignment of AI in Mathematics》，批评 AI 公司最近的所作所为。公开信称，“过去几个月 LLM 的数学能力有飞跃式提升，甚至达到了能解决数学领域重大悬而未决问题的地步。但各大 AI 公司仅仅将解决数学问题作为基准测试（Benchmark）推动的技术竞赛，却对数学这门科学以及整个数学界构成了伤害。AI 公司的目标与数学界的本质目标之间存在着严重错位（Misalignment）。”这是 AI 影响科学与创意行业乃至整个社会的对齐（alignment）危机的一个缩影。“最近几个月 AI 在解决重大数学难题上取得的突破甚至冲出数学界，登上了大众媒体的头条。然而解决问题仅仅是达成概念理解与深刻洞察这一核心目标的工具和替代指标。在 AI 浪潮中忽略这一点，无异于异化了工具，使其走向核心目标的对立面。事实上，以越来越快的节奏批量生产‘真/假’断言，非但无法为新思想注入生命力，反而可能毁掉孕育创新的沃土。AI 的解答往往发布得过于仓促，甚至没有留出足够时间去编写一份严谨且规范的论文，无法去提炼其中蕴含的新方法与新思想，也无法合理引用前人的相关工作。正如在所有创意行业中发生的一样，这引发了严重的归属权认定与学术剽窃问题。此外，如果没有心怀热忱的数学家去负责对其进行后续开发并融入数学规范体系，AI 所孕育的思想就永远无法真正获得生命，数学家之间至关重要的人际传递纽带也将断裂。”",
+          "link": "https://www.solidot.org/story?sid=85358",
+          "publishedOn": "2026-09-12T12:17:51.000Z",
+          "wordCount": 192,
+          "title": "25 名菲尔茨奖得主发表公开信批评 AI 公司",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85357",
           "author": null,
@@ -901,96 +991,6 @@
           "publishedOn": "2026-09-05T12:14:26.000Z",
           "wordCount": 166,
           "title": "联合国大会批准新地图",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85292",
-          "author": null,
-          "description": "硅谷亿万富翁、Palantir 联合创始人 Peter Thiel 前不久携家人移居了阿根廷，并斥资 1200 万美元购买了一栋豪宅。许多人猜测他可能是为了躲避可能的三次世界大战，阿根廷地处南半球深处，农业资源丰富，是末日避难的理想之地。然而 Peter Thiel 在阿根廷深入参与了当地的政治活动。他与阿根廷总统 Javier Milei 及其亲密顾问进行了多次闭门会谈，之后 Milei 的政府提出了一系列符合 Peter Thiel 利益的提案，其中一项提案要求政府民事部门与国家情报机构共享阿根廷公民个人数据。很多人怀疑 Thiel 的 Palantir 公司可能与阿政府签订了未公开的合同。阿根廷众议院为此邀请 Thiel 和 Milei 前来回答一系列相关问题，但无人出席会议。随后阿根廷人在 Thiel 的豪宅前举行了抗议活动。",
-          "link": "https://www.solidot.org/story?sid=85292",
-          "publishedOn": "2026-09-04T16:54:05.000Z",
-          "wordCount": 195,
-          "title": "阿根廷人抗议 Peter Thiel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85291",
-          "author": null,
-          "description": "巴西科学家分析了 53 条当地捕获的金枪鱼，发现几乎所有鱼都携带了寄生虫。研究团队共统计到 1600 多条寄生虫；肾脏和心脏是唯一没有寄生虫的器官；除此之外寄生虫遍布全身；53 条鱼有 96% 携带了寄生虫；肠道是感染最严重的器官，其次是肌肉组织（即食用部分），然后是胃。巴西研究人员分析的是学名为 Katsuwonus pelamis 的金枪鱼品种鲣鱼，它是巴西最丰富的金枪鱼品种，也是 2022 年全球捕捞量第三大的海洋鱼类——当年全球共捕捞并销售了 310 万吨鲣鱼。",
-          "link": "https://www.solidot.org/story?sid=85291",
-          "publishedOn": "2026-09-04T15:30:55.000Z",
-          "wordCount": 174,
-          "title": "科学家发现几乎所有近期捕获的金枪鱼都有寄生虫",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85290",
-          "author": null,
-          "description": "犹他州成为美国第一个要求 VPN 软件验证用户年龄的州。犹他州的年龄验证法律《Online Age Verification Amendments》明确将 VPN 软件纳入监管范围。这项法律规定，任何商业网站，如果逾三分之一内容被认为对未成年人有害，必须实施合理的年龄验证方法才能允许犹他州用户访问。只要用户的实际位置在犹他州内，不管是否使用 VPN 之类的方法隐藏地理位置，都需要验证年龄。违规网站将面临每次违规最高 2,500 美元的罚款。网站也被禁止发布如何使用 VPN 规避年龄验证要求的说明。EFF 认为这项法律可能迫使网站屏蔽所有已知的 VPN 地址流量，还可能违反了美国宪法第一修正案。",
-          "link": "https://www.solidot.org/story?sid=85290",
-          "publishedOn": "2026-09-04T10:16:20.000Z",
-          "wordCount": 184,
-          "title": "美国犹他州要求 VPN 验证用户年龄",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85289",
-          "author": null,
-          "description": "今年五月被捕的 Google 安全工程师 Michele Spagnuolo 被控利用内部信息在预测市场 Polymarket 押注歌手 d4vd 成为 2025 年 Google 搜索量最高的人物而获利 120 万美元。他被控犯有商品欺诈、电信欺诈和洗钱罪。\n他的律师团队本周递交了一份动议，寻求撤销对他的指控。Spagnuolo 没有直接否认利用内部信息获利，而是宣称他只是在赌博，而赌博行为不是受美国《商品交易法》监管的金融工具，且赌博发生在美国境外，不受美国司法管辖。Spagnuolo 已被 Google 停职。Polymarket 虽然是一家美国公司，但其预测市场在美国被禁，其平台也是由名为 Adventure One QSS 的巴拿马公司运营。Spagnuolo 在 Polymarket 上押注时也不是在美国，而是住在瑞士苏黎世。Spagnuolo 律师团队声称他利用的内部信息对 Google 没有任何价值。",
-          "link": "https://www.solidot.org/story?sid=85289",
-          "publishedOn": "2026-09-04T09:43:34.000Z",
-          "wordCount": 199,
-          "title": "被控内幕交易的 Google 工程师称他只是在赌博",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85288",
-          "author": null,
-          "description": "日本研究团队发布研究结果称，在往返于北海道和东亚的候鸟粪便中发现了耐药菌。这些细菌已被报告对多种抗菌药具有耐药性，可能正在跨国境扩散。团队 2024 年 9 月在北海道厚岸町的灰背鸥繁殖地采集了粪便进行分析。这种鸟夏季在北日本地区繁殖，一天平均在栖息地周边飞 25 公里；冬季则移动至 4000 多公里以外的东亚地区。分析结果显示，检测出了“嗜麦芽窄食单胞菌”。该菌会在免疫力低下者中引发肺炎和血流感染症，也被认为是导致新冠病毒感染重症化的原因之一。检测出的部分细菌对两种用于治疗该菌感染患者的药物表现出耐药性，通过蛋白质等的膜抵抗药物攻击的守护能力以及活动能力较高。分析遗传信息后发现，其中包含日本国内尚无报告案例的类型，有可能是从海外带入的。灰背鸥是杂食性鸟类。或许是它们在各处吃食的过程中，也把细菌摄入了体内。",
-          "link": "https://www.solidot.org/story?sid=85288",
-          "publishedOn": "2026-09-04T08:53:10.000Z",
-          "wordCount": 168,
-          "title": "日本在候鸟粪便中发现耐药菌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85287",
-          "author": null,
-          "description": "虽然维基基金会拒绝自愿认可员工工会，但根据美国劳资关系委员会于 9 月 3 日公布的不记名投票结果：维基媒体基金会美国员工以 158 票赞成、14 票反对压倒性多数通过了组建工会的决议，有效票数占 91.9%，投票率 81%。维基媒体基金会发表声明，表示尊重结果，接下来将与工会展开集体谈判。",
-          "link": "https://www.solidot.org/story?sid=85287",
-          "publishedOn": "2026-09-04T08:27:36.000Z",
-          "wordCount": 171,
-          "title": "维基媒体基金会员工压倒性多数投票支持成立工会",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85285",
-          "author": null,
-          "description": "联合国大会周五投票决定是否淘汰传统的墨卡托投影法地图，改用一种能更准确展现非洲面积的地图。墨卡托投影法地图由比利时佛兰德地理学家杰拉杜斯·墨卡托在 1569 年绘制，一直是全球标准地图，其缺点是高纬度地区面积变形失真，纬度越高变形越严重，接近南北极的高纬度地区如格陵兰面积被失真放大数倍之多。地图显示非洲的面积与格陵兰岛相仿，但实际上非洲大陆的面积是其 14 倍。历史学家和地理学家多年来一直指出墨卡托投影法源于西方刻板印象，部分活动人士甚至创造了“制图殖民主义”一词。改变地图的决议由多哥提出，得到了非盟的支持。联合国决议不具有强制执行力，如果投票通过，可能会促使课程和日常技术更新地图。",
-          "link": "https://www.solidot.org/story?sid=85285",
-          "publishedOn": "2026-09-04T07:52:13.000Z",
-          "wordCount": 165,
-          "title": "联合国投票决定是否淘汰传统的墨卡托投影法地图",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85284",
-          "author": null,
-          "description": "英伟达发布开源工具 Personal AI Router(PAIR)，同步家庭网络中的兼容计算机，汇集闲置算力用于本地 AI 推理和智能体工作负载。PAIR 兼容设备包括了英伟达 GeForce RTX 20 及更新的显卡，以及 RTX Pro GPU 和 DGX Spark，此外还有苹果 M4 以上的芯片。PAIR 会根据用户家用电脑是否处于闲置状态去决定利用其算力，如果用户在电脑上玩游戏，那么该设备将会退出 PAIR 的网络。汇集多台设备的算力可避免单台设备的 GPU 出现算力瓶颈影响推理性能。PAIR 通过一个六位数代码配对所有设备，使用 mTLS(Mutual Transport Layer Security）保护通信通道，在计算机之间建立双向可信的加密通信线路。PAIR 支持 Windows、Linux 和 macOS 系统。",
-          "link": "https://www.solidot.org/story?sid=85284",
-          "publishedOn": "2026-09-04T06:25:34.000Z",
-          "wordCount": 195,
-          "title": "英伟达发布开源工具将闲置算力连成个人数据中心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85283",
-          "author": null,
-          "description": "周四早晨 ChatGPT、Claude、Grok 和 Gemini 四大 AI 服务几乎在同一时间段内遭遇了严重故障。OpenAI 和 Anthropic 报告了高错误率；Downdetector.com 的监测显示 Gemini 可能也发生了故障，虽然  Google 并未公开承认。包括亚马逊 AWS、微软 Azure 和 Cloudflare 在内的主要互联网服务提供商都未报告任何重大故障，DownDetector 上的报告则显示这三家云服务商的故障数量都出现激增。虽然前沿模型时不时会发生故障，但四款 AI 服务同时在短时间内出现中断则相当罕见。",
-          "link": "https://www.solidot.org/story?sid=85283",
-          "publishedOn": "2026-09-04T05:57:07.000Z",
-          "wordCount": 190,
-          "title": "四大 AI 模型同时下线",
           "imageUrl": null
         }
       ]
