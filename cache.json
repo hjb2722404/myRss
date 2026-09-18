@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/pgsty-silo-minio-alternative/",
+          "author": "青小蛙",
+          "description": "MinIO 彻底死掉之后，如何让使用 MinIO 的项目在不改变任何代码的情况下继续下去，就是一个必须面对的问题了。尤其现如今发现安全漏洞的速度如此之快，急需一个 MinIO fork。 这不，它来了。 PGSTY Silo：从 MinIO fork 而来的开源 S3 对象存储替代品 青小蛙在此之前",
+          "link": "https://www.appinn.com/pgsty-silo-minio-alternative/",
+          "publishedOn": "2026-09-18T04:17:47.000Z",
+          "wordCount": 2572,
+          "title": "PGSTY Silo：源自 MinIO Fork，只改一行，无缝替代 MinIO",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-18T121517.072.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
+          "author": "青小蛙",
+          "description": "9.18 更新：Union Alpha 已确认是 The Unbiased Company 的 Pareto 26.9 模型。 官方把 Pareto 定义成一个「系统」：多个模型同时参与任务，其中既有开源模型，也有前沿模型，再通过一套 harness 检查结果，必要时调用更强的模型完成任务。 大概就",
+          "link": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
+          "publishedOn": "2026-09-17T08:01:20.000Z",
+          "wordCount": 3057,
+          "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-17T155835.729.jpg"
+        },
+        {
           "id": "https://www.appinn.com/hidns/",
           "author": "青小蛙",
           "description": "如果你有在多个平台注册过域名，想要修改 DNS 解析的时候，却一时想不起这个域名到底是在阿里云、腾讯云，还是 Cloudflare。找到之后，还得登录对应的平台，再进入 DNS 管理页面操作。 而如果有很多个域名，有亿点点麻烦。 来自发现频道的 @HINS 同学，推荐了：https://meta.a",
@@ -210,16 +230,6 @@
           "wordCount": 2589,
           "title": "StartPad – Windows 上的 macOS 风格全屏启动器",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-09T112833.578.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/binthere/",
-          "author": "青小蛙",
-          "description": "临时把密码或 API 密钥发给别人，你一般怎么发？直接贴进微信、邮件，事情办完了，但密码却还留在聊天记录里。 另一种办法是使用 Pastebin 类文本分享服务：粘贴内容，生成链接，再把链接发出去。 但如果是密码、API 密钥、恢复代码，就会有几个问题： 尤其在 API 密钥本身就是现金的情况下&#",
-          "link": "https://www.appinn.com/binthere/",
-          "publishedOn": "2026-09-08T02:36:00.000Z",
-          "wordCount": 2907,
-          "title": "给别人发密码、API 密钥，不想留在聊天记录里？试试 binthere",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-07T223311.352.jpg"
         }
       ]
     },
@@ -234,6 +244,16 @@
       "feedUrl": "http://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。（[通知] 下周五开始的中秋和十一假期，周刊休息。）...",
+          "link": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-413.html",
+          "publishedOn": "2026-09-18T00:03:02.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 413 期）：再见了，React Native",
+          "imageUrl": null
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2026/09/weekly-issue-412.html",
           "author": null,
@@ -251,6 +271,16 @@
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
       "articles": [
+        {
+          "id": "https://www.zhangxinxu.com/wordpress/?p=12429",
+          "author": "张 鑫旭",
+          "description": "除了rem这个根元素单位外，最近几年，各大浏览器又相继支持了rcap、rex、rch、ric、rlh等根字体单位，不知道你认识几个？",
+          "link": "https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/",
+          "publishedOn": "2026-09-17T11:42:29.000Z",
+          "wordCount": 1410,
+          "title": "CSS rex、rlh、ric等根家族单位简介",
+          "imageUrl": null
+        },
         {
           "id": "https://www.zhangxinxu.com/wordpress/?p=12403",
           "author": "张 鑫旭",
@@ -278,6 +308,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85412",
+          "author": null,
+          "description": "欧洲的一项研究发现，微塑料会像特洛伊木马一样在土壤中传播污染物、农药和细菌。研究人员在 11 个国家测试了 227 块农田，都发现了微塑料。研究人员还发现，微塑料可能会与农药兽药发生相互作用。瑞士的一项研究发现，轮胎磨损颗粒含量最高的农田，其有毒化学物质和金属的含量也最高。微塑料的表面能为微生物创造新的栖息地，该表面被称为塑料圈（plastisphere）。相比对照组，塑料圈内的抗生素抗性基因有所增加，农药则进一步放大了这一效应。研究人员表示，微塑料颗粒越小，越容易吸附污染物、微生物和 DNA，从而产生一种“特洛伊木马效应”，可能导致病原体和抗生素抗性基因的扩散加剧。可生物降解塑料不一定更安全，它们仍可能降解为微塑料。",
+          "link": "https://www.solidot.org/story?sid=85412",
+          "publishedOn": "2026-09-17T16:02:00.000Z",
+          "wordCount": 163,
+          "title": "微塑料像特洛伊木马一样传播有毒物质",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85411",
+          "author": null,
+          "description": "德国一家法院周四裁定，Meta 必须对其 Instagram 和 Facebook 平台上第三方发布的虚假广告承担责任，责令 Meta 删除此类内容和支付赔偿。诉讼由一家德国金融门户网站的运营商及其创始人提起，虚假广告在推荐可疑投资项目时未经许可使用了它的 logo 和图像。该运营商在 2024 年 8 月向 Meta 举报了近 260 起违规，而 Meta 花了 62 天时间才删除部分内容。Meta 发言人表示对裁决持异议，正在考虑后续行动。法院表示，该裁决还不具有最终的法律效力，Meta 可通过提起上诉提出异议。",
+          "link": "https://www.solidot.org/story?sid=85411",
+          "publishedOn": "2026-09-17T15:07:19.000Z",
+          "wordCount": 188,
+          "title": "德国法庭裁决 Meta 要为其平台上第三方发布的虚假广告承担责任",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85410",
+          "author": null,
+          "description": "刚果民主共和国的埃博拉疫情死亡人数超过 3500 人，确诊病例超过 7400 例，逾 1700 人康复。WHO 称，疫情最严重的 Ituri 省的病毒传播速度在下降，上周报告了约 300 例新增病例和 160 例死亡病例，占全国的一半；South Kivu 省自 5 月以来未报告新增病例；North Kivu 省的传播速度在加快，过去两周的新增病例从 100 多增加到 200 多；邻国乌干达境内的传播已经遏制。WHO 宣布，埃博拉疫苗试验将在未来几周内启动，如果疫苗证明有效将会扩大其使用范围。",
+          "link": "https://www.solidot.org/story?sid=85410",
+          "publishedOn": "2026-09-17T14:53:06.000Z",
+          "wordCount": 190,
+          "title": "刚果埃博拉疫情死亡人数超过 3500 人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85409",
+          "author": null,
+          "description": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA 表示受益于精确的发射、巧妙规划的飞行轨道，地面操作团队的出色执行，望远镜有足够的燃料能执行 22 年的任务。NASA 称，Roman 望远镜控制推进器在发射后的第一次长点火燃烧仅用了 18 公斤的联氨燃料，远低于预留的 200 公斤。望远镜的实际重量为 8,056 公斤，比最大允许重量轻了两吨，因此地面人员给其燃料箱多加了 290 加仑的联氨燃料。加满燃料的望远镜在发射时的总重为 9,173.5 公斤，仍然比最大允许重量少了半吨，更低的质量意味着望远镜在执行航向修正机动时推进器的点火时间无需过长。",
+          "link": "https://www.solidot.org/story?sid=85409",
+          "publishedOn": "2026-09-17T14:40:23.000Z",
+          "wordCount": 205,
+          "title": "Roman 太空望远镜有足够的燃料可服役 22 年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85408",
+          "author": null,
+          "description": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI 生成的电影。现年 38 岁陈奕龙说道，“如果你无法战胜它，那就加入它。”雇佣陈奕龙的是总部位于深圳的 Feixiang Universe 工作室，创始人 Sun Wei 表示，之所以为一部唐朝背景的 AI 电影项目获取真人肖像授权主要是担心无意中窃取他人肖像。她指出，受 AI 训练数据偏差的影响，AI 生成的演员通常面部特征相似，长相千篇一律。这促使她和其他中国 AI 电影制作人去搜寻和购买新面孔，将演员的真实表情数字化。根据广电总局的数据，今年首八个月，中国上线微短剧共 43 万部，是去年全年的 13 倍，其中 AI 剧占比超过九成。Sun Wei 的团队则计划以 50 万美元的预算制作一部 90 分钟的 AI 长片。",
+          "link": "https://www.solidot.org/story?sid=85408",
+          "publishedOn": "2026-09-17T10:31:46.000Z",
+          "wordCount": 205,
+          "title": "今年上线的微短剧逾九成是 AI 剧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85407",
+          "author": null,
+          "description": "地球并非是完美的球形，自转以及围绕太阳公转使其赤道部分隆起，两极部分扁平。根据一项新研究，可能是由于极地地区的冰雪融化，地球两极在隆起，与此同时赤道地区则在加速下沉，地球的整体形状变得不那么扁平。研究人员利用了 GNSS 导航网络地面站在 1997-2015 年间的测量数据，绘制了地球固体部分的升降变化。结果显示，1997-2000 年间地球两极以每年约 0.5 毫米的速度隆起。到 2015 年，隆起速度已增至每年 1 毫米。",
+          "link": "https://www.solidot.org/story?sid=85407",
+          "publishedOn": "2026-09-17T09:52:29.000Z",
+          "wordCount": 169,
+          "title": "地球正变得不那么扁平",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85406",
+          "author": null,
+          "description": "GNOME 桌面环境项目释出了代号为 A Coruña 的 GNOME 51，该代号旨在感谢 GUADEC 2026 的主办城市。GNOME 51 主要变化包括：Mutter 重新设计了调度和屏幕帧交付系统，即使系统处于高负荷下，动画仍然流畅；全面提升了屏幕录制性能；记住显示器的亮度设置；移除了基于 EGLStreams 的旧 NVIDIA 驱动接口支持；支持新 Wayland 协议如 ext-background-effect-v1；支持自定义指针加速配置文件；GNOME Maps 支持离线地图；GNOME Software 启动更快，GNOME File Previewer UI 重构，等等。",
+          "link": "https://www.solidot.org/story?sid=85406",
+          "publishedOn": "2026-09-17T09:03:51.000Z",
+          "wordCount": 192,
+          "title": "GNOME 51 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85405",
+          "author": null,
+          "description": "发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织的发育。研究结果显示，移植的类器官生长良好。它们占据了大部分空间，分化为多种人类脑细胞，组织形成了神经回路，并产生了类似大脑皮层组织的复杂结构。此外，整合形成的皮层组织可能造成了某些行为表现。研究人员将移植类器官和未移植类器官的皮层缺失小鼠进行了比较，发现它们在运动和记忆任务中的表现存在差异。",
+          "link": "https://www.solidot.org/story?sid=85405",
+          "publishedOn": "2026-09-17T07:59:13.000Z",
+          "wordCount": 159,
+          "title": "人脑类器官在小鼠体内形成神经网络",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85403",
+          "author": null,
+          "description": "被现代商船逐渐淘汰的风帆正以新的形式再次回归。散货船、油轮到集装箱船等各类商船正在安装高耸的转子帆、刚性翼帆以及吸风式推进系统。此举并非是要将现代船舶重新变成帆船，而是让基于风帆的系统与现代推进系统协同合作，在条件允许时利用风力降低油耗。International Windship Association 协会的数据显示，已有逾百艘大型商船配备了现代风力推进系统，总载重吨位逾 500 万吨。Maersk 公司计划在一艘有 8700 个标准箱的集装箱货船上安装一座 35 米高的转子帆，预计于 2027 年在大西洋常规航线上启动测试。它有望成为第一艘安装转子帆的集装箱货船。Vale 旗下一艘载重吨位达 40 万吨的巨型矿砂船 Sohar Max 已经安装了五座 35 米高的转子帆，风帆系统将油耗降低多达 6%。韩国船舶制造公司最近宣布研究在液化天然气货船（LNG）上安装风帆系统。如果研究取得成功，那么将进一步证明风帆技术重新迈向主流。",
+          "link": "https://www.solidot.org/story?sid=85403",
+          "publishedOn": "2026-09-17T07:31:37.000Z",
+          "wordCount": 178,
+          "title": "商船再次安装基于风帆的推进系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85402",
+          "author": null,
+          "description": "广州市人大常委会公布了《广州市噪声污染防治规定（草案修改稿·征求意见稿）》，向社会各界征求意见和建议，截止日期为 10 月 15 日。\n\n《征求意见稿》明确，在巴士、地铁等公共交通运输工具内使用手机、平板电脑等电子设备时不得外放声音。使用电子设备外放声音的，公共交通运输工具司乘人员应当劝阻，劝阻无效的，可以向公安机关报告。\n\n违反规定，在公共交通运输工具内使用电子设备外放声音，经公共交通运输工具司乘人员劝阻仍不改正的，由公安机关说服教育，给予警告，可以处 200 元以上 1000 元以下的罚款。",
+          "link": "https://www.solidot.org/story?sid=85402",
+          "publishedOn": "2026-09-17T06:04:26.000Z",
+          "wordCount": 167,
+          "title": "广州提议禁止公共交通内外放声音",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85401",
+          "author": null,
+          "description": "根据发表在《Scientific Data》期刊上的一项研究，地球暖化正加速两大冰盖的融化。卫星数据显示，自 1979 年以来格陵兰岛和南极洲损失了 12.5 万亿吨冰量。这些冰融化为 11.3 千万亿升的水，导致 1979 年以来全球海平面上升了 3.1 厘米。而海平面每上升 1 厘米，就会导致额外 200-300 万人每年面临至少一次洪水威胁。研究发现，六分之五的冰体流失并非源于气温升高，而是因为较温海水从底部和侧面侵蚀冰盖，导致冰川滑向海洋。格陵兰岛的 Jakobshavn 冰川目前每天退缩的距离达到 50 米。数据显示，1970 年代、1980 年代和 1990 年代的冰盖状况相对稳定；但随后融化现象开始出现，2010 年代显著加剧。",
+          "link": "https://www.solidot.org/story?sid=85401",
+          "publishedOn": "2026-09-17T05:57:44.000Z",
+          "wordCount": 197,
+          "title": "卫星数据显示过去 47 年格陵兰岛和南极洲损失 12.5 万亿吨冰",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85400",
           "author": null,
@@ -1027,116 +1167,6 @@
           "wordCount": 164,
           "title": "孕期记忆力下降背后的生物学机制",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85324",
-          "author": null,
-          "description": "基于 Chromium 的浏览器 Brave 公布了一份测试结果，称其桌面版比竞争对手 Chrome、Microsoft Edge 和 Firefox 占用更少的系统资源，页面加载速度更快。测试使用的 Firefox 不是最新版本 v155，而是旧版本 v146.0.1。结果显示，Brave 的平均 CPU 占用率为 33%，Chrome 为 47%，Edge 为 53%，Firefox 为 78%；Brave 使用了约 1.2 GB 内存，而 Chrome 为 1.75 GB，Edge 为 1.62 GB，Firefox 为 1.65 GB；Brave 完成网页加载约需要 4.4 秒，Chrome 需要 5.1 秒，Firefox 需要 5.3 秒，Edge 需要 6 秒。Brave 内置了广告屏蔽功能，其网页加载速度受益了这一功能。",
-          "link": "https://www.solidot.org/story?sid=85324",
-          "publishedOn": "2026-09-08T15:39:28.000Z",
-          "wordCount": 215,
-          "title": "Brave 声称其比竞争对手使用的系统资源更少页面加载速度更快",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85323",
-          "author": null,
-          "description": "Flinders 大学的研究人员发现，冲马桶会向周围空气释放气溶胶和生物气溶胶，气溶胶颗粒甚至会进入到成年人的呼吸区，而冲水后气溶胶会在空气中悬浮至少 20 秒。这些发现是基于对 22 项马桶气溶胶研究的分析。结果表明，保持良好的厕所卫生，包括定期清洁马桶及其周围表面，以及使用后洗手，有助于最大限度减少微生物污染和潜在的微生物疾病风险。使用马桶的低冲水模式也有助于最大限度减少气溶胶的产生。充足的通风有助于扩散和清除悬浮的空气颗粒，关闭马桶盖会改变气溶胶的扩散方向，气溶胶会从马桶盖和马桶座之间的缝隙逸出，而不是向上扩散。研究人员建议保持卫生间通风良好，在冲水前盖上马桶盖。",
-          "link": "https://www.solidot.org/story?sid=85323",
-          "publishedOn": "2026-09-08T15:16:05.000Z",
-          "wordCount": 165,
-          "title": "科学家建议冲马桶合盖以减少气凝胶",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85322",
-          "author": null,
-          "description": "焦虑是人类最常见的精神疾病，全球约有 3.59 亿人受到影响。控制呼吸被认为有助于控制焦虑，根据发表在 PNAS 期刊上的一项研究，科学家基于小鼠研究揭示了这一现象背后的鼻脑回路（nose-to-brain circuit）机制。鼻脑回路始于嗅觉感觉神经元（OSN），OSN 感知鼻腔吸气并将信号传递给嗅球的僧帽细胞，信息随后从嗅球传输到海马旁皮层中的长投射中间神经元，最终到达杏仁体基底外侧核的谷氨酸能神经元。研究发现，鼻腔气流通过这条通路以频率依赖的方式调节类焦虑行为，这种效应可能取决于通过鼻腔吸气的频率。这种效应是双向的，意味着加快呼吸可能会加剧焦虑，而减慢呼吸则能缓解焦虑。",
-          "link": "https://www.solidot.org/story?sid=85322",
-          "publishedOn": "2026-09-08T14:54:55.000Z",
-          "wordCount": 166,
-          "title": "控制呼吸为何能控制焦虑？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85321",
-          "author": null,
-          "description": "开源媒体服务器 Jellyfin 项目释出了 v12.0。Jellyfin 采用了新版本号，在旧版本下 Jellyfin 12.0 其实就是 10.12.0，10.11.x 将是最后一个使用旧方案的分支。Jellyfin 12.0 主要变化包括：重写了媒体库数据库，显著改进了性能，但数据库重构尚未完全完成；电视剧集支持多版本，可同时包含电视版和加长版，或者 1080p 和 4K 等不同分辨率版本；支持图书和漫画；等等。",
-          "link": "https://www.solidot.org/story?sid=85321",
-          "publishedOn": "2026-09-08T14:17:01.000Z",
-          "wordCount": 183,
-          "title": "Jellyfin 12.0 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85320",
-          "author": null,
-          "description": "在禁止儿童使用社媒平台之后，澳大利亚工党政府提出了一项新的法律草案，要求社媒平台允许用户退出算法驱动的信息流。用户可选择算法推荐的个性化内容作为默认信息流，或者拒绝接收算法推荐的内容，只浏览用户关注的朋友和创作者的内容。被称为 My Feed, My Way 的法案旨在给予用户选择权，违反者将面临最高 1.092 亿澳元的罚款。澳大利亚总理 Anthony Albanese 表示，“它赋予用户选择权，如果大型科技公司不遵守我们的法律，我们将追究它们的责任。”",
-          "link": "https://www.solidot.org/story?sid=85320",
-          "publishedOn": "2026-09-08T11:15:04.000Z",
-          "wordCount": 172,
-          "title": "澳大利亚想要社媒平台允许用户退出算法驱动的信息流",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85319",
-          "author": null,
-          "description": "旨在将 Linux 移植到运行 Apple Silicon 芯片的 Mac 电脑的发行版 Asahi Linux 宣布支持 M3 系列 Mac。开发者表示，Linux 对 M3 系列 SoC 及其相关设备支持已达到几乎与 M1 和 M2 系列设备相当的水平，绝大多数功能都能正常工作。其中包括：网络摄像头、内置麦克风、USB（最高支持 USB 3.0 的 10 Gb/s）、硬件加速视频解码（包括 AV1 解码）、WiFi 和蓝牙等，完整的 DCP 支持和 GPU 功能尚未完成，用户暂时不要期待高性能或高能效的 3D 加速。",
-          "link": "https://www.solidot.org/story?sid=85319",
-          "publishedOn": "2026-09-08T10:06:17.000Z",
-          "wordCount": 216,
-          "title": "Asahi Linux 宣布支持 M3 系列 Mac",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85318",
-          "author": null,
-          "description": "美国军方正在禁用设备上的广告追踪功能，防止敌人借助于购买的公开追踪数据去锁定美国士兵的位置。此前有报道称，商业追踪数据被用于锁定驻扎在中东的美军。美国陆军在一份声明中表示，Windows PC 上的广告 ID 功能早在 2021 年之前就被禁用，但 Android 和苹果移动设备上的广告 ID 则“至少从 2026 年 2 月起”才默认禁用。美国军方还在考虑对手机使用实施更严格的限制。",
-          "link": "https://www.solidot.org/story?sid=85318",
-          "publishedOn": "2026-09-08T09:47:28.000Z",
-          "wordCount": 174,
-          "title": "美国军方正禁用设备上的广告追踪功能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85317",
-          "author": null,
-          "description": "市场期待已久的首部苹果折叠 iPhone 由于苹果极为严格的质量管控标准，初期生产量每天仅有“数百部”。苹果计划今年内生产 800万~1000 万部折叠屏 iPhone，希望凭借这款全新外型设计的机型激发市场需求，进而推升营收。除非苹果能更快提高产量，否则可能无法达成生产目标，也可能需要比预期更长的时间才能满足消费者需求。苹果与其供货商正昼夜赶工，努力提升日产能。但是产能爬坡仍需要时间，而前期的测试、验证工序已经推迟了原定的时程。如果现状得不到大幅改善，待折叠屏 iPhone 开售时，可能面临库存有限的问题。",
-          "link": "https://www.solidot.org/story?sid=85317",
-          "publishedOn": "2026-09-08T08:49:12.000Z",
-          "wordCount": 171,
-          "title": "iPhone 折叠版早期产能严重受限",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85316",
-          "author": null,
-          "description": "英国犯罪率在下降，但公众并没有感到更安全。极右翼英国改革党领导人 Nigel Farage 上个月声称人人都知道英国的治安状况比五年前或十年前更糟。逾八成英国民众认为犯罪率过去几年有所上升。八成英国民众认为自 2010 年以来手机盗窃案有所增加，六成民众认为汽车盗窃和入室盗窃案有所增加。事实上所有这些案件的发生率在同一时期都下降了 50% 甚至更多。警方犯罪统计数据所衡量的谋杀率自 2010 年以来下降了 20%，而三分之二民众认为谋杀案数量有所增加或保持不变。我们对现实的认知更多地受到情绪反应和身份认同的影响，而非基于统计数据的研究。在解释认知偏差时，关键原因可归结为两个相互关联的方面：思维方式和被告知的信息。前者涵盖了可能误导偏见和思维捷径。人类天生就更容易关注负面信息，因为负面信息预示着威胁。媒体、政客和社交媒体平台深知人们更倾向于关注负面信息，因此会推送更多此类信息。人们的思维方式和他们被告知的信息之间的相互作用，强化了对现实的过度负面看法。真正的风险不在于犯错，而在于固执坚信自己所认知的现实才是正确的，而对方则是在故意欺骗自己和我们。",
-          "link": "https://www.solidot.org/story?sid=85316",
-          "publishedOn": "2026-09-08T08:45:29.000Z",
-          "wordCount": 170,
-          "title": "英国犯罪率下降，但公众并没有感到更安全",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85315",
-          "author": null,
-          "description": "根据 RIAA 公布的数据，美国今年上半年 CD 和黑胶唱片等实体唱片销量大幅增长。消费者对订阅服务价格上涨的不满推动了实体音乐的复苏。上半年录制音乐收入比去年同期增长 6.9%，实体唱片收入增长了 25.9%，其中黑胶唱片增长 17.7%，CD 收入飙升了 58.6%。流媒体仍然是录制音乐收入的最大来源，收入增长 4.7% 达到 49 亿美元，付费订阅收入增长 6.4% 达到 34 亿美元，广告支持的免费订阅收入增长 3.7% 达到 9 亿美元。",
-          "link": "https://www.solidot.org/story?sid=85315",
-          "publishedOn": "2026-09-08T06:51:37.000Z",
-          "wordCount": 189,
-          "title": "美国今年上半年 CD 和黑胶唱片销量大幅增长",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85314",
-          "author": null,
-          "description": "GLP-1 减肥药或有助于延缓衰老。加州伯克利等机构研究人员通过小鼠试验发现，老年雌性小鼠服用 GLP-1 类药物司美格鲁肽后，寿命比未服药小鼠延长12%，同时多项与衰老相关的生物学变化得到减缓。研究人员选取 20 个月大的健康雌性小鼠开展试验，这一年龄大致相当于人类 60 岁。结果显示，持续接受司美格鲁肽治疗的小鼠中位寿命为 834 天，而对照组为 742 天，前者延长约 12%。此外，服用司美格鲁肽的小鼠在运动协调、肌肉功能和血糖调节等测试中的表现更好。研究人员进一步分析发现，司美格鲁肽能够减缓小鼠体内一些变化，包括炎症、干细胞减少、细胞衰老、基因组不稳定、线粒体功能障碍和蛋白质稳态失衡等。服用司美格鲁肽的小鼠热量摄入减少了 24%。其延长寿命作用是否只是因为让小鼠吃得更少？为排除这一因素的影响，他们又设置了一组小鼠，通过限制饮食使其摄入与司美格鲁肽组相当的热量。结果显示，单纯限制热量摄入的小鼠与服用司美格鲁肽的小鼠寿命相近。但在部分测试中，司美格鲁肽组表现更好。例如在空间记忆测试中，服药小鼠记忆迷宫出口位置的能力优于饮食限制组。这提示司美格鲁肽可能还具有一些无法用减少热量摄入解释的作用，但这些作用的具体原因目前尚不清楚。",
-          "link": "https://www.solidot.org/story?sid=85314",
-          "publishedOn": "2026-09-08T06:33:57.000Z",
-          "wordCount": 182,
-          "title": "小鼠实验显示 GLP-1 减肥药或有助于延缓衰老",
-          "imageUrl": null
         }
       ]
     },
@@ -1144,18 +1174,7 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com",
-      "articles": [
-        {
-          "id": "https://humanwhocodes.com/blog/2026/09/five-roles-working-ai/",
-          "author": "Nicholas C. Zakas",
-          "description": "Software engineers can work with AI in different ways, from observing every change to managing an entire software factory.",
-          "link": "https://humanwhocodes.com/blog/2026/09/five-roles-working-ai/",
-          "publishedOn": "2026-09-08T00:00:00.000Z",
-          "wordCount": 1793,
-          "title": "Five software engineering roles for working with AI",
-          "imageUrl": "https://humanwhocodes.com/_astro/ai-roles.D0no7vu__Z22pkcG.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "宁南山 - 知乎动态",
