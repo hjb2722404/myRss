@@ -12,6 +12,31 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/10-useful-github-tools-26919/",
+          "author": "青小蛙",
+          "description": "这次带来 10 个 GitHub 项目，有听歌的、清理 C 盘的，也有让 3D 打印机拿起笔和刀的。还有一个看起来像电影里情报系统的东西。@Appinn Atuin：那条命令怎么写来着？搜索、同步你的 shell 命令行历史 费劲九牛二虎通过命令行完成了安装、配置、运行，过了一段时间再次重来一遍，全",
+          "link": "https://www.appinn.com/10-useful-github-tools-26919/",
+          "publishedOn": "2026-09-19T09:55:47.000Z",
+          "wordCount": 2773,
+          "title": "10 款在 GitHub 发现的免费小工具[260919]",
+          "enclosure": {
+            "url": "https://static3cdn.appinn.com/images/2026/09/screenshot-2026-09-19-at-4.35.25-PM.mp4",
+            "length": "155998",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-19T175319.786.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/https-capture-for-apple/",
+          "author": "青小蛙",
+          "description": "HTTPS Capture 是一款支持 iPhone、iPad 和 Mac 的抓包与 API 调试工具，目前在 App Store 终身限免，但未上架国区。@Appinn 支持 HTTPS 解密、局域网抓包、API 调试、URL 重写、JS 脚本、Mock、Hosts、断点调试、WebSocket、",
+          "link": "https://www.appinn.com/https-capture-for-apple/",
+          "publishedOn": "2026-09-19T06:06:40.000Z",
+          "wordCount": 2644,
+          "title": "终身限免：HTTPS Capture，iPhone / iPad / Mac 抓包、HTTPS 解密与 API 调试工具",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-19T124943.425.jpg"
+        },
+        {
           "id": "https://www.appinn.com/apple-reference-image-photo-authenticity/",
           "author": "青小蛙",
           "description": "AI 图片，正在变得越来越难以分辨。如何证明一张照片是真的？ 还记得这些模型吗? DALL·E 3、Midjourney、GPT-4o、Nano Banana、Seedream、GPT-Image-2.5…… 从 2023 年到 2026 年，从手指画不对、文字会乱码、光影露破绽，到今天已经真假难辨",
@@ -185,26 +210,6 @@
           "wordCount": 2682,
           "title": "PDF 编辑器也有 Agent 了：一句话，让 AI 直接改文档",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-11T095300.501.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/konode/",
-          "author": "青小蛙",
-          "description": "我觉得，理想中的，大概就是浏览器自带同步工具，包括打开的标签页、扩展、浏览历史、书签，以及密码、Cookie 等其他数据，结束。 并没有。 打个比方，Chrome 的浏览器同步工具本身就不能用 😭 虽然我们可以换个角度，使用 Edge 的微软账号来同步，但还是不能在 Edge 与 Chrome 之间",
-          "link": "https://www.appinn.com/konode/",
-          "publishedOn": "2026-09-10T07:41:16.000Z",
-          "wordCount": 2919,
-          "title": "Konode – 这才是我理想中的浏览器同步工具",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-10T153819.781.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/maple-ssh/",
-          "author": "青小蛙",
-          "description": "这是面向开发者与运维的轻量桌面 SSH 终端：多会话、SFTP、实用快捷键，体验接近 Xshell；配置完全本地、开箱即用，需要时再接入 NAS 或云端资料库，一处修改、多机同步。@Appinn 来自发现频道，开发者自荐：https://meta.appinn.net/t/topic/88125 M",
-          "link": "https://www.appinn.com/maple-ssh/",
-          "publishedOn": "2026-09-10T06:13:22.000Z",
-          "wordCount": 2673,
-          "title": "MSSH：只有 5 MB，单文件 SSH 客户端[Windows / macOS]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-10T141112.310.jpg"
         }
       ]
     },
@@ -265,16 +270,6 @@
           "wordCount": null,
           "title": "新时代下的tooltip提示效果的最佳实现",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=12396",
-          "author": "张 鑫旭",
-          "description": "书到用时方恨少，没想到，多个浏览器页面同时操作同一个资源的时候，原来有原生的API可以进行“排它锁”一样的管控，关键时刻可真是救命了。",
-          "link": "https://www.zhangxinxu.com/wordpress/2026/09/web-locks-api/",
-          "publishedOn": "2026-09-10T10:37:44.000Z",
-          "wordCount": null,
-          "title": "关键时刻可以救命的Web Locks API",
-          "imageUrl": null
         }
       ]
     },
@@ -283,6 +278,36 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85426",
+          "author": null,
+          "description": "科学家几百年来一直将大脑视为单一的器官。但斯坦福大学医学院领导的一项新研究发现，大脑实际上由两个不同的器官构成，它们在数亿年里独立演化。这一发现推翻了大脑发育的主流模型。研究人员过去一直认为，在发育早期存在一个单一的祖细胞（progenitor cell），由此诞生了整个大脑。它暗示大脑的所有部分都有共同的发育起源。新的研究发现，人脑由两个古老的神经系统巧妙地结合而成——其中较原始的部分负责调节心跳、呼吸及其他生理功能；另一部分则赋予了人类特有的能力，使得人类能进行诗歌创作、数学运算以及思科自身的起源。研究人员通过观察发育中的小鼠胚胎识别出了两种不同的脑祖细胞：一种表达 Otx2 基因，发育成前脑和中脑；另一种表达 Gbx2 基因，发育成后脑。研究表明，两类细胞群从不重叠，在发育的最早阶段彼此就是互斥的。",
+          "link": "https://www.solidot.org/story?sid=85426",
+          "publishedOn": "2026-09-19T16:40:02.000Z",
+          "wordCount": 162,
+          "title": "大脑由两个不同的器官构成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85425",
+          "author": null,
+          "description": "Android 安全加固项目 GrapheneOS 披露，Google 向其旗舰手机 Pixel 推送了 Android 17 QPR1 更新，引入了新 API。而这些 API 没有提供给 Android 开源项目(AOSP)，这是自 Android Honeycomb (3.x) 以来从未有过的情况。新 API 为 Pixel 限时独占，其它 Android OEM 厂商无法获得。Google 现在只向 AOSP 项目提供年度版本和第二个季度更新版本 QPR2，第一个和第三个季度更新版本 QPR1 和 QPR3 都是 Pixel 独占。新 API 将通过 2026 年 12 月释出的 QPR2 提供给 AOSP 和 OEM 厂商。GrapheneOS 称，Pixel 通过固件移除了对安全特性 MTE 的支持，但硬件上仍然保留了 MTE。GrapheneOS 再次抱怨它对 Pixel 的支持变得日益困难，称与摩托罗拉的合作会更顺利。",
+          "link": "https://www.solidot.org/story?sid=85425",
+          "publishedOn": "2026-09-19T15:53:08.000Z",
+          "wordCount": 237,
+          "title": "Android 17 QPR1 引入了 Pixel 暂时独占的新 API",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85424",
+          "author": null,
+          "description": "由于海豚的脸部看起来总是在微笑，出于拟人化心理，人类会假设海豚是大海里的好孩子。但行为类似恶棍的海豚并非不存在。根据发表在《Ecology and Evolution》期刊上的一篇论文，研究人员报告了一只生活在澳大利亚\n大堡礁南部 Lady Elliott 岛附近的雄性宽吻海豚 Bubbles。Bubbles 有着被称为盗食寄生（kleptoparasitism）的行为，它会专门追逐刚刚饱餐一顿的大眼鲹（bigeye trevally），强迫它们吐出刚吞下的食物，然后自己去吞下这些食物。盗食寄生最著名的动物可能是海鸥。研究人员在 2021 年 6 月-2025 年 10 月间记录了 20 次 Bubbles 的觅食行为，其中 11 次涉及盗食。Bubbles 首先会通过回声定位锁定一只目标鱼，然后紧跟这条鱼，对鱼群中的其它鱼视而不见，当目标鱼受惊而吐出食物时，它会停止追逐，吞食其吐出的食物。Bubbles 在半小时内可重复此过程多达 10 次，它主要针对大眼鲹，但不会去吃掉鱼。研究人员猜测这种觅食行为比海豚传统的猎物追逐，消耗的能量更少。Bubbles 可能是通过定位的回声差异区分哪些鱼刚刚饱餐一顿。",
+          "link": "https://www.solidot.org/story?sid=85424",
+          "publishedOn": "2026-09-19T13:51:32.000Z",
+          "wordCount": 193,
+          "title": "海豚 Bubbles 被发现会强迫饱腹鱼吐出食物然后自己将其吞下",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85423",
           "author": null,
@@ -1081,86 +1106,6 @@
           "publishedOn": "2026-09-11T06:07:01.000Z",
           "wordCount": 166,
           "title": "强降雨加剧微塑料向河流的输送",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85341",
-          "author": null,
-          "description": "本周早期时候，YouTube 主播 Gamers Nexus 与独立安全研究人员合作，发现 LG 的智能电视机即便在离线或待机模式下也会持续记录并上传用户数据。LG 电视还会扫描 Wi-Fi 网络、记录音频日志，采样音视频输入内容以识别用户正在观看的节目。LG 在一则声明中称视频内容不实，“LG 电视仅在用户按住遥控器上的语音按钮，或在激活 Far-Field 功能后识别出‘Hi LG’等唤醒词时，才会处理语音数据。”LG 表示除此之外其智能电视不会收集或记录环境中的对话。如果未识别出唤醒词，电视不会向服务器传输任何语音数据，针对唤醒词的音频处理是在设备本地完成的。LG 声称 Automatic content recognition (ACR)是可选启用的功能，旨在提供个性化的内容推荐、服务及广告。在默认情况下，未经用户同意，ACR 数据不会被用于广告目的。",
-          "link": "https://www.solidot.org/story?sid=85341",
-          "publishedOn": "2026-09-10T16:33:09.000Z",
-          "wordCount": 185,
-          "title": "LG 强烈否认其监视电视用户",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85340",
-          "author": null,
-          "description": "在 Steam 上购买和运行育碧的游戏需要安装其客户端 Ubisoft Connect，启动游戏时需要同时启动育碧和 Steam 两个启动程序，这种做法长期受到 Steam 玩家的诟病。现在育碧宣布将逐步取消这一要求，“从《Prince of Persia: The Lost Crown》起，我们将测试一项名为‘Ubisoft Connect Services’的全新 Steam 工具。该工具能保留跨平台进度、跨平台联机、玩家安全保障、挑战与奖励等育碧游戏功能，而无需安装或启动 Ubisoft Connect PC 客户端。”Ubisoft Connect Services 未来将逐步推广给 Steam 平台上更多的育碧游戏。",
-          "link": "https://www.solidot.org/story?sid=85340",
-          "publishedOn": "2026-09-10T16:08:56.000Z",
-          "wordCount": 206,
-          "title": "育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85339",
-          "author": null,
-          "description": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-Stokes 方程列为六大千禧年数学问题之一。OpenAI 本周宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。如果得到确认，将标志着 AI 首次解决了一个重大的数学难题。但此事在数学界引发了巨大争议。过去一个月，纽约大学数学家 Tristan Buckmaster 和 Anthropic 研究员 Levent Alpöge 利用来自 OpenAI 和 Anthropic 的 AI 工具在解决 Navier-Stokes 问题上取得了重大进展。然而就在他们准备公布研究成果之前，OpenAI 投入了数百万美元算力，开展了大规模攻坚行动。OpenAI 声称它未利用 Buckmaster 和 Alpöge 的最新研究成果，但 Buckmaster 公开发表声明，对此提出质疑。纽约大学团队指控 OpenAI 抓取了他们的数据训练其模型。",
-          "link": "https://www.solidot.org/story?sid=85339",
-          "publishedOn": "2026-09-10T15:51:55.000Z",
-          "wordCount": 221,
-          "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85338",
-          "author": null,
-          "description": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113 个 bug 被列为高危，438 个提权 bug，19 个安全功能绕过 bug，258 个远程代码执行 bug，173 个信息泄露 bug，56 个拒绝服务 bug，16 个欺骗 bug。比较严重的 bug 包括存在于 Windows Server 2012 以上版本 和 Windows 10 的 DNS 漏洞 CVE-2026-69730，未经身份验证的攻击者只需向受影响系统发送特制数据包即可利用该漏洞；另一个是 Windows Shell 程代码执行 bug CVE-2026-69829，威胁评分 9.8.10，极其容易利用。",
-          "link": "https://www.solidot.org/story?sid=85338",
-          "publishedOn": "2026-09-10T11:42:20.000Z",
-          "wordCount": 215,
-          "title": "微软九月例行更新修复近千个 Bug",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85337",
-          "author": null,
-          "description": "根据发表在《Nature Cities》期刊上的一项研究，Google 研究人员利用 Google Maps 有意向部分司机推荐更长的行驶路线，此举有助于将车流分散到更多条道路上，从而缓解交通拥堵。研究人员在西雅图、盐湖城、芝加哥和亚特兰大等 10 座城市进行了实验，结果显示拥堵路段的平均车速提高了 2%，通行时间缩短了 0.7%。这种方法对大城市如洛杉矶的高速公路路段的引导效果最为显著，相关路段的车速提高了 4.6%。大部分城市的效果不那么显著，高峰时段的整体车速仅提高了 0.5%。UCLA 城市规划教授 Michael Manville 指出，Google 的研究发现证实了研究人员长期以来的猜测：如果一条交通干道面临长时间拥堵，那么将少量汽车分流出去能产生虽不巨大但显而易见的效果。研究指出，更顺畅的车流以及更短的通行时间有助于减少了二氧化碳排放，每年总计减排约 1000 公吨，相当于约 200 辆汽车的排放量，虽然对大城市而言是如九牛一毛，但长期能带来累积效应。",
-          "link": "https://www.solidot.org/story?sid=85337",
-          "publishedOn": "2026-09-10T11:05:40.000Z",
-          "wordCount": 185,
-          "title": "Google 向司机推荐更长的行驶路线以缓解拥堵",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85336",
-          "author": null,
-          "description": "拉斯克奖公布了 2026 年的获奖名单。基础医学奖授予了发现掌管睡眠的大脑神经传递物质“食欲素”（Orexin）的日本筑波大学教授柳泽正史（66岁）和美国斯坦福医学院的 Emmanuel Mignot。临床医学奖项授予了开发血友病治疗药的中外制药公司前顾问服部有宏（66岁）、顾问北泽刚久（57岁）以及研究总部长井川智之（49岁）。这是日本人自 2014 年名城大学教授森和俊获奖以来，时隔近 12 年再次获奖。该奖被称为诺贝尔奖的风向标。公共服务奖授予了为帕金森病治疗作出贡献的美国演员迈克尔·J·福克斯。他本人罹患帕金森病，以其姓名冠名的基金会出资逾 30 亿美元加快了开发治疗方法的研究。",
-          "link": "https://www.solidot.org/story?sid=85336",
-          "publishedOn": "2026-09-10T09:38:08.000Z",
-          "wordCount": 177,
-          "title": "2026 年拉斯克奖宣布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85335",
-          "author": null,
-          "description": "苹果宣布了一系列新产品，包括 iPhone 18 Pro 与 iPhone 18 Pro Max、AirPods 5 以及其首款折叠屏手机 iPhone Duo。其中最引人瞩目的是其折叠屏手机。三星、Google 和华为等苹果竞争对手早就推出了折叠屏手机，在内存和存储器短缺导致价格飙升时代，苹果推出起售价 15,999 元的折叠屏手机，消费者是否接受还有待市场检验。iPhone Duo 配备了 7.6 英寸超视网膜 XDR 可折叠屏，5.4 英寸超视网膜 XDR 外屏，A20 Pro 芯片，10 月 16 日（星期五）起接受预购，10 月 23 日（星期五）起正式发售。",
-          "link": "https://www.solidot.org/story?sid=85335",
-          "publishedOn": "2026-09-10T09:06:31.000Z",
-          "wordCount": 202,
-          "title": "苹果推出折叠屏手机 iPhone Duo",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85334",
-          "author": null,
-          "description": "知名日本游戏制作人小岛秀夫证实在索尼取消对其正在开发中的谍战动作游戏项目 PHYSINT 的资助之后，他找到了新的合作伙伴——索尼 PS 的竞争对手微软 XBOX。此前索尼游戏资助小岛开发了《死亡搁浅》系统。小岛称在索尼于 5 月发出取消 PHYSINT 项目的通知之后，过去三个月他们一直在寻找新合作伙伴，称 PHYSINT 对他们非常重要。微软 XBOX CEO Asha Sharma 表示，“创作者可选择在哪里以及如何将他们的想法变为现实。我们感到荣幸，小岛先生选择与 XBOX 合作打造《PHYSINT》。他挑战传统的雄心壮志，正是 XBOX 想要支持的那种创造力。”",
-          "link": "https://www.solidot.org/story?sid=85334",
-          "publishedOn": "2026-09-10T08:46:42.000Z",
-          "wordCount": 181,
-          "title": "小岛秀夫与索尼终止合作，改为与微软合作",
           "imageUrl": null
         }
       ]
