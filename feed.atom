@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-09-22T07:16:52.776Z</updated>
+    <updated>2026-09-23T07:19:40.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[黑客声称入侵了 FBI 窃取雇员信息]]></title>
+        <id>https://www.solidot.org/story?sid=85457</id>
+        <link href="https://www.solidot.org/story?sid=85457"/>
+        <updated>2026-09-23T03:45:09.000Z</updated>
+        <summary type="html"><![CDATA[勒索组织 ShinyHunters 声称入侵了 FBI 窃取了逾 2TB 雇员数据。该组织的一名发言人称，这次行动不是出于经济动机，而是要求 FBI 更正或撤回此前发表的声明，其中包含大量不实的指控。ShinyHunters 称它利用了 FBI 招聘网页的一个 Oracle PeopleSoft 的 0day 漏洞，该漏洞允许在服务器上远程执行代码。该组织随后篡改了页面，替换为已被其控制的横幅和图片(This site has been seized by ShinyHunters)。ShinyHunters 从 FBI 管理的 AWS GovCloud 服务器上下载了约 2TB 至 3TB 的数据，这些数据涉及 FBI 的现有和前雇员，以及求职者。 FBI 在今年五月就 ShinyHunters 发出安全警告，称该组织采用“骚扰策略，向受害者及其家属发送威胁性短信和拨打骚扰电话，在某些情况下还包括恶意报假警（swatting）”。ShinyHunters 声称这些指控不实。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 爆出 9.2 分严重安全漏洞｜CVE-2026-87902]]></title>
+        <id>https://www.appinn.com/wordpress-cve-2026-87902-critical-vulnerability/</id>
+        <link href="https://www.appinn.com/wordpress-cve-2026-87902-critical-vulnerability/"/>
+        <updated>2026-09-23T03:38:31.000Z</updated>
+        <summary type="html"><![CDATA[2026年9月23日，WordPress 爆出 9.2 分的严重安全漏洞，攻击者无需登录即可在服务器上运行代码。漏洞编号 CVE-2026-87902，请务必升级至最新版本 7.1.2。@Appinn 根据 W3Techs 2026 年 9 月 22 日的最新统计，全球约 40.2% 的网站都在使用]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新 Halo 游戏将由动视开发]]></title>
+        <id>https://www.solidot.org/story?sid=85456</id>
+        <link href="https://www.solidot.org/story?sid=85456"/>
+        <updated>2026-09-22T16:52:31.000Z</updated>
+        <summary type="html"><![CDATA[微软 Xbox 游戏业务宣布旗下第一方工作室 Halo Studios 等裁员 268 人，动视将负责下一代 Halo 游戏的开发，而原来负责开发 Halo 的 Halo Studios 则转变成辅助工作室角色。Obsidian 工作室将成为 Bethesda 的一部分，将继续开发 Grounded 以及新 Fallout 游戏。King 工作室将合并微软的休闲游戏部门 Microsoft Casual Games。开发 Forza 系列的 Playground 和开发新 Fable  游戏的 Turn 10 将合并为一家工作室。 Ninja Theory  工作室预计将会关闭。Arkane 工作室仍然在磋商中。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国酒精消费自疫情以来首次下降]]></title>
+        <id>https://www.solidot.org/story?sid=85455</id>
+        <link href="https://www.solidot.org/story?sid=85455"/>
+        <updated>2026-09-22T16:36:41.000Z</updated>
+        <summary type="html"><![CDATA[盖洛普 8 月民调显示，仅有 54% 的美国人饮酒，而 2010 年这一数字是 67%。千禧一代和 Z 世代推动了减少饮酒的趋势，而 50-64 岁的中老年人的酒精消费则在上升。发表在《Annals of Internal Medicine》期刊上的一项研究分析了逾 11.4 万名美国成年人的调查数据，受访者在 2018-2024 年间参加了 CDC 的年度健康调查 National Health Interview Survey，其中包括了饮酒的情况。结果显示，2022-2024 年期间，美国人的总体饮酒率下降了 2%，重度饮酒率下降了 8%。Z 世代的总体饮酒率降幅最为显著下降了近 6%，千禧一代降幅约 2%。与此同时，2018-2024 年间 50-64 岁中老年人总体饮酒量率加了 4%，重度饮酒率激增了 36%。相比中老年人，年轻人更了解酒精的负面影响。老年人也可能更富裕能承担更多酒精消费。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[单网页开源，纯离线：汉语拼音注音小工具，包含33.7 万词典]]></title>
+        <id>https://www.appinn.com/chinese-pinyin-annotation-tool/</id>
+        <link href="https://www.appinn.com/chinese-pinyin-annotation-tool/"/>
+        <updated>2026-09-22T14:28:46.000Z</updated>
+        <summary type="html"><![CDATA[简单粗暴，把普通的文字： 修改为带有汉语拼音的样子： 可以直接阅读，或者导出、打印，适合于幼儿园到低龄小学生的…家长。 来自发现频道，@tjsky 的自荐：https://meta.appinn.net/t/topic/91955 【开发者自荐】汉语拼音注音小工具，单网页，纯离线 它可以]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文学家发现已知最年轻行星]]></title>
+        <id>https://www.solidot.org/story?sid=85454</id>
+        <link href="https://www.solidot.org/story?sid=85454"/>
+        <updated>2026-09-22T11:19:58.000Z</updated>
+        <summary type="html"><![CDATA[天文学家发现了已知最年轻的行星——Elias 2-24 b。这颗不到 100 万年的木星大小行星仍被其形成时的气体和尘埃包围。其令人惊讶的形成速度挑战了关于巨行星如何形成的主流理论。现有的行星形成理论认为，一颗大质量行星不可能形成地如此迅速，尤其是在距离恒星如此遥远的地方。当前模型表明，在太阳系中木星的位置形成一颗木星大小的行星大约需要 500 万年，那么距恒星更远的巨行星形成时间应该更长。然而 Elias 2-24 系统中这个微弱天体到恒星的距离约为地球到太阳距离的 55 倍，而且已经显示出行星形成的迹象。Elias 2-24 b的质量与木星相当，围绕一颗距离地球约 450 光年的恒星运行。由于该系统还很年轻，天文学家通过研究它可以一瞥数十亿年前太阳系的样子。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为躲避亿万富翁税 Larry Page 等人迁出加州]]></title>
+        <id>https://www.solidot.org/story?sid=85453</id>
+        <link href="https://www.solidot.org/story?sid=85453"/>
+        <updated>2026-09-22T10:08:01.000Z</updated>
+        <summary type="html"><![CDATA[对加州亿万富翁征收一次性 5% 税的提案 Initiative Number 25-0024 将在 11 月 3 日进行公投。胡佛研究所的研究显示，面临征税的亿万富翁们已有近三成迁出加州。Larry Page 在迈阿密 Coconut Grove 购买了两栋临水豪宅，总价 1.73 亿美元，同时将家族办公室 Koop 从加州转到注册地特拉华州、办公地址佛罗里达的公司。Sergey Brin 在迈阿密 Allison Island 购买了一栋价值 5100 万美元的临水豪宅，将内华达州登记为正式居住地，他资助了反对征税的政治行动委员会 Building a Better California。Peter Thiel 在 2025 年 12 月将其家族投资公司从加州迁至迈阿密。英伟达 CEO 黄仁宇则是少数公开表示会纳税的亿万富翁，他预计将缴纳  80 亿美元的税。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA 火星样本采集送回任务终止]]></title>
+        <id>https://www.solidot.org/story?sid=85452</id>
+        <link href="https://www.solidot.org/story?sid=85452"/>
+        <updated>2026-09-22T08:59:51.000Z</updated>
+        <summary type="html"><![CDATA[美国国会的预算法案取消了对 NASA 火星样本采集送回任务 Mars Sample Return(MSR)的资助，虽然该法案还需要通过国会两院的批准以及总统的签署才会生效，但实际上代表着 MSR 计划的终止。MSR 计划因为不断膨胀的成本而备受争议，2024 年其成本膨胀至 110 亿美元，如果推行将占用大部分 NASA 科学预算。2025 年 NASA 设法将项目成本降至 70 亿美元，但费用仍然过高，而 NASA 同时正面临特朗普政府削减科学预算的挑战。MSR 项目的终止意味着火星漫游车毅力号收集的样本无法送回样地球实验室进行分析。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 岁女孩打破女子三阶魔方还原世界纪录]]></title>
+        <id>https://www.solidot.org/story?sid=85451</id>
+        <link href="https://www.solidot.org/story?sid=85451"/>
+        <updated>2026-09-22T07:20:38.000Z</updated>
+        <summary type="html"><![CDATA[成都六岁女童连允之在世界魔方协会（World Cube Association）在两场赛事中，三天内两次打破了女子三阶魔方世界纪录，成为全球唯一一位平均还原时间低于 4.5 秒的女子魔方选手。她分别在武汉和广州举行的比赛中以 4.52 秒和 4.27 秒的平均成绩两次刷新了纪录。她过去一年进行了高强度训练，每天投入两到三个小时练习魔方，目前已掌握逾 1300 种魔方还原算法。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里巴巴下一代模型参数将扩大到 5-10 万亿规模]]></title>
+        <id>https://www.solidot.org/story?sid=85450</id>
+        <link href="https://www.solidot.org/story?sid=85450"/>
+        <updated>2026-09-22T07:03:16.000Z</updated>
+        <summary type="html"><![CDATA[阿里巴巴 CEO 吴泳铭在阿里云年度云栖大会上透露，该公司的千问（Qwen）团队正持续研究模型架构与数据优化，目标是完成更复杂、长周期任务，向人工智能超级智能（artificial superintelligence）前进。阿里巴巴的旗舰模型 Qwen 3.8 Max 有 2.4 万亿参数，正在训练中的 Qwen 4 将会继续扩大参数规模，未来的 Qwen 4.5 和 Qwen 5 系列将扩大至 5-10 万亿参数规模。吴泳铭表示，阿里巴巴自研的 M890 AI 超级节点能处理参数规模逾 2 万亿模型的推理任务，新一代的真武 V900 性能三倍于上一代的 M890，预计于 2027 年第一季度量产。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD 加入万亿美元市值俱乐部]]></title>
         <id>https://www.solidot.org/story?sid=85448</id>
@@ -1037,46 +1137,6 @@ https://www.nvidia.cn/developer-day/?ncid=partn-270555]]></summary>
         <summary type="html"><![CDATA[最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【PI-Desktop】两个月，300 亿 Token，终于把自己想要的 Agent 桌面端搓出来了 2️⃣ 【开发者自荐】一个免费的 X / Twitter 在线工具箱，提供视频下载、推文导出、T]]></summary>
         <author>
             <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇树如何将机器狗的价格降至 2000 美元]]></title>
-        <id>https://www.solidot.org/story?sid=85366</id>
-        <link href="https://www.solidot.org/story?sid=85366"/>
-        <updated>2026-09-13T15:23:42.000Z</updated>
-        <summary type="html"><![CDATA[宇树的机器狗除了做些花哨动作外可能用处不大，但它拥有一个巨大的优势：价格极其平民。George Mason 大学的机器人专家 Xuesu Xiao 教授称，十年前只有少数团队从事四足机器人的运动控制研究，因为只有这些团队能制造四足机器人，宇树进入市场之后推动了四足机器人运动控制研究的普及化。他的实验室里有四台宇树的四足机器人，每台售价约 1.5 万美元，以及一台波士顿动力的四足机器人 Spot，起售价 7.5 万美元。波士顿动力原本是这一领域的领导者，它在 2016 年 6 月发布了电动版的四足机器人 Spot，但直到 2020 年才上市销售。而宇树创始人王兴兴在 2016 年创办公司之后第二年就推出了第一款四足机器人产品莱卡狗（Laikago）。宇树在 2021 年推出了 Go1 系列四足机器人，其中 Air 型起售价 2700 美元。2023 年宇树发布了 Go2，价格更亲民——Air 版售价 1600 美元，性能更强的 Pro 版售价 2800 美元。Go2 Air 的价格仅为 Spot 的 3%。宇树的机器人为何如此便宜？Simplexity 公司拆解了一台 Go2，发现它使用了 12 个相同的电机，四条腿各由 3 个电机驱动。一个位于肩部的电机控制腿部角度，另外两个电机分别驱动腿部的两段结构。四个肩部的结构布局完全相同。复用组件和电机既降低成本，又减少了零部件数量。MAB Robotics 的电机与足式机器人专家 Jakub Bartoszek 指出，宇树电机磨损更快。而宇树在设计时也考虑了修复磨损机器人的便捷性。机器人专家称更换机器狗的一条腿可能只需要一分钟。 宇树还在名为减速器（reducer）的组件上降低成本。减速器是降低电机转速增大扭矩的传动装置，通常比电机还贵。Spot 腿部的两个电机配备了减速比为 51:1 的减速器，即电机转 51 圈腿部关节才完整转 1 圈，其优点是动作更精确，缺点是更昂贵。相比下宇树使用了减速比 6.33:1 的减速器。宇树可能在模仿大疆，即快速迭代未成熟有缺陷但更低成本的产品去占领市场，通过销量增长将更多组件纳入自主生产，进一步降低成本，继续带动销量增长。相比大疆，宇树当前面临的竞争对手可能更多。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matt Mullenweg 据报道恢复了对 Automattic 的控制]]></title>
-        <id>https://www.solidot.org/story?sid=85365</id>
-        <link href="https://www.solidot.org/story?sid=85365"/>
-        <updated>2026-09-13T14:20:20.000Z</updated>
-        <summary type="html"><![CDATA[被董事会强制休假的 Matt Mullenweg 称恢复了 Automattic CEO 的职务。Automattic 可能发生了类似 OpenAI 的小型“未遂政变”。Automattic 旗下包括 Wordpress.com、Tumblr 和 Beeper 等业务。本周早些时候 Mullenweg 通过公司 Slack 频道指责首席财务官 Mark Davies 与董事会串通，董事会投票决定由 Davies 担任临时 CEO。两天后，Mullenweg 称董事会已重新达成一致，他本人恢复了对 Automattic 控制。而 Davies 的 Slack 账户则被停用了，Automattic Slack 频道中的所有管理员也都被移除了。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京全面限制无人机]]></title>
-        <id>https://www.solidot.org/story?sid=85364</id>
-        <link href="https://www.solidot.org/story?sid=85364"/>
-        <updated>2026-09-13T13:01:57.000Z</updated>
-        <summary type="html"><![CDATA[北京市政府公布了新修订的《北京市无人驾驶航空器管理规定》，全面限制无人机。《规定》将自 2026 年 11 月 15 日起实施。《规定》明确，本市行政区域全域为无人驾驶航空器管制空域，禁止在本市行政区域内实施无人驾驶航空器飞行活动，禁止在本市行政区域内持有、存放无人驾驶航空器及其核心部件，禁止运输、携带无人驾驶航空器及其核心部件进入本市行政区域。《规定》还要求特殊保障单位应当建立安全管理制度，明确管理责任，防止发生安全事件，特殊保障情形的飞行活动严格按照国家有关规定执行。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暴雪宣布 FPS 版《星际争霸》]]></title>
-        <id>https://www.solidot.org/story?sid=85362</id>
-        <link href="https://www.solidot.org/story?sid=85362"/>
-        <updated>2026-09-13T03:10:07.000Z</updated>
-        <summary type="html"><![CDATA[暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的第三部《虚空之遗》，时隔 11 年之后宣布的正统续作不再属于 RTS。FPS 版《星际争霸》游戏设定在 Koprulu 星区（Koprulu Sector），时间位于《虚空之遗》剧情结束后的 70 年。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
         </author>
     </entry>
     <entry>
