@@ -12,6 +12,51 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/hermes-7-free-models/",
+          "author": "青小蛙",
+          "description": "Hermes 是与 OpenClaw 类似的 AI Agent 软件，目前提供了七款免费模型，只需要在 hemers models 直接登录 Nous Portal 即可使用，但需要绑定信用卡。@Appinn 目前提供的模型（2026年9月25日）： 注意免费模型会实时变化，此前还限免过 tence",
+          "link": "https://www.appinn.com/hermes-7-free-models/",
+          "publishedOn": "2026-09-26T02:27:00.000Z",
+          "wordCount": 2469,
+          "title": "Hermes 提供 7 款免费模型，从安装到选择模型",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-25T232624.690.png"
+        },
+        {
+          "id": "https://www.appinn.com/f-droid-2-0/",
+          "author": "青小蛙",
+          "description": "F-Droid 是 Android 上非常老牌的开源应用商店，专门收录自由、开源应用。@Appinn 2026年9月24日，经过一年多开发和 14 个测试版本之后，F-Droid 2.0 正式发布（官网介绍）。官方称这是 F-Droid 十年来最大的一次更新。 这次最大的感觉，就是 F-Droid",
+          "link": "https://www.appinn.com/f-droid-2-0/",
+          "publishedOn": "2026-09-25T10:10:09.000Z",
+          "wordCount": 2567,
+          "title": "F-Droid 2.0 发布：十年来最大更新，中文搜索、自动更新都来了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-25T180706.324.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/xphoneuse/",
+          "author": "青小蛙",
+          "description": "有人做了个 XPhoneUse，专门给 Codex、Claude 这些 Agent 提供操作手机的“眼睛和手”。 给 AI 一部真实手机去操作，已经这么简单了么？ 然后，就可以直接说了：我现在要测试一下能力：进入手机多邻国，完成一项日语学习任务 它完成了！ 感谢 @jkindle 同学推荐的工具，相",
+          "link": "https://www.appinn.com/xphoneuse/",
+          "publishedOn": "2026-09-25T09:27:30.000Z",
+          "wordCount": 2673,
+          "title": "真的给 AI 一部手机，它会自己用吗？",
+          "enclosure": {
+            "url": "https://static3cdn.appinn.com/images/2026/09/out2.mp4",
+            "length": "126439",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-25T111113.648.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/eggs-26925/",
+          "author": "青小蛙",
+          "description": "本周赛博领鸡蛋，Epic 免费游戏一共有 2 款电脑游戏 + 1 款手机游戏。电脑端是《阿斯特赖亚》《钢铁指挥官》，手机端则是《卡牌末日》，Android 与 iOS 都可以领取，其中《阿斯特赖亚》此前曾经送过一次。@Appinn 《阿斯特赖亚》/ Astrea: Six-Sided Oracles",
+          "link": "https://www.appinn.com/eggs-26925/",
+          "publishedOn": "2026-09-25T09:26:22.000Z",
+          "wordCount": 2573,
+          "title": "本周赛博领鸡蛋：9.25~10.1《阿斯特赖亚》《钢铁指挥官》《卡牌末日》",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-25T172423.344.jpg"
+        },
+        {
           "id": "https://www.appinn.com/ai-fill-your-box/",
           "author": "青小蛙",
           "description": "这个太有趣了！把一个空盒子发给你常用的 AI，然后对 AI 说：在盒子里装满能代表我的东西， 并用我最喜欢的颜色来设计它。 你就会得到一个装满你心爱之物的盒子，还有漂亮的颜色。 ​​​​ 这就是那个铁盒子： 来看看 @Akemi Homua 同学的盒子： 还有@陈少举同学的盒子： 要分享你的盒子么？",
@@ -165,26 +210,6 @@
           "wordCount": 3057,
           "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-17T155835.729.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/hidns/",
-          "author": "青小蛙",
-          "description": "如果你有在多个平台注册过域名，想要修改 DNS 解析的时候，却一时想不起这个域名到底是在阿里云、腾讯云，还是 Cloudflare。找到之后，还得登录对应的平台，再进入 DNS 管理页面操作。 而如果有很多个域名，有亿点点麻烦。 来自发现频道的 @HINS 同学，推荐了：https://meta.a",
-          "link": "https://www.appinn.com/hidns/",
-          "publishedOn": "2026-09-16T08:23:26.000Z",
-          "wordCount": 2931,
-          "title": "HiDNS – 统一管理阿里云、DNSPod、Cloudflare 等 22+ 平台的域名 DNS 解析",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-16T162132.565.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/ios-27-child-safety-parental-controls/",
-          "author": "青小蛙",
-          "description": "孩子拿起手机、平板之后，经常会玩太久。而家长除了担心视力，还有学习、休息，以及孩子都接触了什么内容，在和什么人联系。@Appinn 在最新的 iOS 27、iPadOS 27 与 macOS 27 中，带来了全新的儿童安全功能，新加入“请求浏览”“时间额度”“时间安排”等新功能，可以让家长可以更细致",
-          "link": "https://www.appinn.com/ios-27-child-safety-parental-controls/",
-          "publishedOn": "2026-09-16T02:41:00.000Z",
-          "wordCount": 2632,
-          "title": "孩子手机玩太久怎么办？iOS 27 带来更强的儿童安全与家长控制",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-15T223901.031.jpg"
         }
       ]
     },
@@ -233,6 +258,66 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85479",
+          "author": null,
+          "description": "Nala Ginrut 写道：\nHardenedLinux 最近发布了可用于推理CosyVoice的Velum，它用modern C++开发，编译成一个单一的可执行文件，方便部署。",
+          "link": "https://www.solidot.org/story?sid=85479",
+          "publishedOn": "2026-09-26T06:06:56.000Z",
+          "wordCount": 168,
+          "title": "Velum：方便部署的CosyVoice推理程序",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85478",
+          "author": null,
+          "description": "在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其它毒品，意大利黑手党看起来选择了拒绝芬太尼。这或许可以解释意大利芬太尼过量致死率异常低。2024 年比吗啡强效百倍的合成阿片类药物在意大利仅检测出两例致死事件。相比之下，德国 95 例，美国近 4.8 万例。意大利整体上的毒品消费水平无法解释这一现象。根据欧洲的数据，每年约有 2.1% 的意大利青年使用可卡因，德国的这一比例为 2.2%。芬太尼在意大利尚未造成太大影响，警方也没有查获多少芬太尼，反黑手党检察官 Nicola Gratteri 认为黑手党远离了芬太尼。芬太尼相比海洛因和可卡因致死率更高，客户容易死亡对黑手党而言不是一门好生意，通常意味着更低的利润，因此黑手党选择了拒绝芬太尼。",
+          "link": "https://www.solidot.org/story?sid=85478",
+          "publishedOn": "2026-09-26T03:42:34.000Z",
+          "wordCount": 170,
+          "title": "黑手党可能阻止了芬太尼流入意大利",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85477",
+          "author": null,
+          "description": "非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究人员得出结论，大象会使用 35 种不同的植物，其中 25 种在当地已知具有药用价值。一位野生动物巡护员看到母象使用名为 Angurweet 的植物给幼象治病。Angurweet 可用于治疗包括胃痛在内的多种疾病。巡护员看到母象将植物嚼烂，与乳汁混合，喂给幼象，幼象咀嚼后吐出固体部分。公元三世纪的罗马作家 Claudius Aelian 在其作品《De Natura Animalium (On the Nature of Animals)》中最早描述了大象用植物治疗自己的记录。",
+          "link": "https://www.solidot.org/story?sid=85477",
+          "publishedOn": "2026-09-25T14:28:43.000Z",
+          "wordCount": 180,
+          "title": "大象使用药用植物治疗自己",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85476",
+          "author": null,
+          "description": "全球平均气温正走在比工业化前水平高出 1.5°C 的轨道上。很多人可能会觉得升温幅度不大，可以接受或忍受。但地球绝大部分表面是海洋，海洋的升温幅度要缓慢得多，而陆地则显著得多，居民体会到的升温幅度要高得多。德国研究人员在《Environmental Research Letters》期刊上发表研究报告，指出全球平均气温每上升 1°C 德国夏天气温上升 2.62°C，范围在1.62-3.62°C 之间。当地热浪频率的增加速度会远远超过全球平均水平。",
+          "link": "https://www.solidot.org/story?sid=85476",
+          "publishedOn": "2026-09-25T13:36:46.000Z",
+          "wordCount": 179,
+          "title": "全球平均气温每上升 1C 德国夏天气温上升 2.62C",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85475",
+          "author": null,
+          "description": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作的主要原因。CCTV 报道 2026 年上半年，AI 短剧的制作成本从每分钟 5,000 元降至几百元。可能和太阳能等领域一样，AI 视频行业也正面临产能过剩。DataEye 的数据显示，今年上半年，抖音上推出了 221,900 部新 AI 视频，其中只有 1,055 部播放量逾 1 亿次。国家电影局已向 90 分钟科幻史诗片《三星堆未来启示录》颁发公映许可证，这是中国大型制片厂制作的首部获批在院线上映的 AI 电影，出品方博纳影业集团表示影片计划于今年上映。",
+          "link": "https://www.solidot.org/story?sid=85475",
+          "publishedOn": "2026-09-25T11:11:10.000Z",
+          "wordCount": 197,
+          "title": "中国各地推动 AI 视频产业化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85474",
+          "author": null,
+          "description": "Android 自由软件应用商店 F-Droid 宣布发布 2.0 版本。F-Droid 2.0 对 UI 进行了重新设计，旨在更容易的发现，安装和管理应用。主要界面简化为了三个核心区域：发现，搜索和“我的应用”。类别现在整合进了发现，使其更容易浏览和探索，而“我的应用”提供了一个一站式管理已安装应用、更新和潜在问题的地方。设置和附近交换在顶栏的一级菜单里，但不再占据主界面的空间。F-Droid 2.0 不再将所有游戏放在一起，而是分成了 17 个不同的游戏类型，让用户更容易找到真正想玩的游戏。F-Droid 2.0 还改进了搜索，除了应用名称，现在也能搜索应用描述、类别和翻译内容，新版本改进了中日韩语言搜索，对 CJK 文字系统提供了更好的支持，帮助用户用他们自己的语言找到相关应用。F-Droid 2.0 将在未来几周内推送给用户。",
+          "link": "https://www.solidot.org/story?sid=85474",
+          "publishedOn": "2026-09-25T06:13:00.000Z",
+          "wordCount": 184,
+          "title": "F-Droid 2.0 发布",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85473",
           "author": null,
@@ -931,126 +1016,6 @@
           "publishedOn": "2026-09-17T05:57:44.000Z",
           "wordCount": 197,
           "title": "卫星数据显示过去 47 年格陵兰岛和南极洲损失 12.5 万亿吨冰",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85400",
-          "author": null,
-          "description": "全世界有无数人的睡眠不足，睡眠不足与肥胖、糖尿病、高血压、心脏病、中风及过早死亡相关。如果有人付费让你睡更长时间？科学家为此做了一项社会实验。研究人员向匹兹堡大学的 1100 多名本科生提供了 Fitbit 以及一款能发送就寝提醒和晨间反馈的应用。在为期四周内研究人员随机选择了 468 名学生，只要他们某晚睡眠时间达到至少七小时，就向其支付 5 美元报酬。研究人员通过他们佩戴的设备核实实际睡眠时长。参与研究的学生平均年龄约为 19 岁，其中半数为大一新生。72% 为女性。55% 为白人，28% 为亚裔，9% 为黑人，4% 为西班牙裔。研究结果表明，提供即时经济奖励有助于学生实现每晚七小时的睡眠目标，且这种效果在停止发放奖励后仍能持续一个月。参与研究的学生此前平均每晚睡眠时间为 6.6 小时。半数学生在凌晨 1 点之后才睡觉，四分之一学生甚至在凌晨 2 点之后才入睡。在实验中，获得现金激励的学生在每个上课日夜晚平均多睡了 19 分钟，该学期的 GPA 得分上升了约 0.08 分——相当于成绩高于平均水平和低于平均水平的学生之间差距的四分之一。",
-          "link": "https://www.solidot.org/story?sid=85400",
-          "publishedOn": "2026-09-16T16:09:54.000Z",
-          "wordCount": 184,
-          "title": "付费给大学生睡足七小时提高了他们的学习成绩",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85399",
-          "author": null,
-          "description": "1999 年初代 PS2 Fat 游戏机使用的安全芯片 CXP102064 MechaCon 在时隔 26 年被爱好者破解。加拿大复古软硬件爱好者 DiscoStarslayer 通过社交媒体称其花了四年时间破解了其秘密。DiscoStarslayer 采用的逆向工程方法包括：利用化学方法对 CXP102064 芯片进行开盖，利用显微镜和光学数据提取技术分析芯片电路。期间发现了一个漏洞利用方法，可通过软件提取芯片数据。MechaCon 芯片也被用于当时推出的几款街机，包括 Namco System 246 和 System 256 以及 Konami Python 1 等。",
-          "link": "https://www.solidot.org/story?sid=85399",
-          "publishedOn": "2026-09-16T15:54:21.000Z",
-          "wordCount": 200,
-          "title": "PS2 Fat 使用的安全芯片在时隔 26 年被破解",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85398",
-          "author": null,
-          "description": "Denuvo 在美国加州北区联邦法院起诉了名叫 voices38 的匿名游戏破解黑客，指控其违反了 DMCA 的反规避条款。被告被控绕过了逾二十款游戏使用的 Denuvo DRM，相关游戏包括了《霍格沃茨之遗（Hogwarts Legacy）》和《黑神话：悟空》。随着诉讼的推进，Denuvo 可能会向 Reddit、Discord 和 Valve 发出传票，以获取黑客的身份信息。voices38 发布了一系列使用 Denuvo DRM 的游戏破解补丁，曾在一天之内发布了创纪录的五款 Denuvo DRM 游戏破解补丁，以至于引起了 Denuvo 公司的注意。Denuvo 称被告是一名专注于对 Denuvo DRM 游戏进行逆向工程的计算机黑客。",
-          "link": "https://www.solidot.org/story?sid=85398",
-          "publishedOn": "2026-09-16T15:27:44.000Z",
-          "wordCount": 195,
-          "title": "Denuvo 起诉黑客违反 DMCA 反规避条款",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85397",
-          "author": null,
-          "description": "亚马逊云服务 AWS 称，由于其数据中心因战争受损它无法恢复中东部分可用区资源和数据的访问。AWS 通过其 AWS Health Dashboard 页面发表声明称，全面评估后它确认无法恢复巴林可用区 me-south-1 的资源和数据的访问。如果客户的数据只存放在该可用区，那么数据可能永远丢失了。亚马逊此前已建议其客户将其工作负荷迁移到其它可用区，它表示在该可用区完全无法使用前大部分客户已完成了迁移。位于阿联酋的可用区 mec1-az2 情况类似，阿联酋有三个可用区，另外两个 mec1-az1 和 mec1-az3 也受到战争影响，AWS 目前还在继续恢复这两个可用区的资源的访问。",
-          "link": "https://www.solidot.org/story?sid=85397",
-          "publishedOn": "2026-09-16T15:11:44.000Z",
-          "wordCount": 178,
-          "title": "AWS 称无法恢复中东部分可用区资源和数据的访问",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85396",
-          "author": null,
-          "description": "天文学家利用中国天眼（500 米口径球面射电望远镜，FAST）开展大规模银道面脉冲星系统性搜寻，迄今已成功发现约 900 颗新脉冲星。通过持续后续精准观测，研究讨团队识别了一颗处于紧致轨道的双中子星系统  PSRJ1856-0039。该双中子星系统轨道周期仅 2.36 小时，在人类已知双中子星系统中位列第二短。极短的轨道周期意味着两颗中子星间距极小、双星相互绕转轨道的致密程度极高，是目前已知相对论效应表现最显著的双中子星系统之一。同时该系统刷新了人类已知双中子星质量下限，整体总质量仅为 2.488 倍太阳质量，为迄今发现的总质量最轻的双中子星组合。其中可见脉冲星质量约 1.30 倍太阳质量，伴星中子星的质量约 1.19 倍太阳质量。该系统将在约 8200 万年后发生并合，最终大概率形成一颗更大质量的中子星。",
-          "link": "https://www.solidot.org/story?sid=85396",
-          "publishedOn": "2026-09-16T11:09:25.000Z",
-          "wordCount": 176,
-          "title": "FAST 发现极短周期、最轻双中子星系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85395",
-          "author": null,
-          "description": "法国 AI 公司 Mistral 与 Mozilla 合作推出注重隐私保护的 AI 浏览助手 Firefox Smart Window(beta)。Smart Window 使用了 Mistral 的开放权重模型，能帮助用户梳理复杂搜索，记住浏览过的重要信息，根据当前标签页查找关键信息，目前主要为法国和北美用户提供服务，今年晚些时候会扩大到英国和德国用户。Smart Window 的对话内容默认不会存储在 Mozilla 的服务器上，Mistral 等合作伙伴也承诺不保留任何数据。",
-          "link": "https://www.solidot.org/story?sid=85395",
-          "publishedOn": "2026-09-16T10:53:58.000Z",
-          "wordCount": 202,
-          "title": "Mistral 与 Mozilla 合作推出 Firefox Smart Window",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85394",
-          "author": null,
-          "description": "Mozilla 发表《State of Open Source AI》报告，称美国科技公司的前沿 AI 模型性能仅领先中国公司最优秀的开放权重模型 4.4 个月。由于前沿模型价格更昂贵，很多公司都将开放权重模型用于处理日常工作，将前沿模型用于处理特定工作负荷。美国闭源前沿模型优势主要在于专家级专业工作、高强度检索以及长上下文。\n配送公司 DoorDash 将月之暗面的 Kimi 模型用于处理日常工作，将 Anthropic 的闭源模型 Fable 用于更复杂的任务。前沿模型完成一项任务的成本经常达到了最先进开放权重模型的五倍。",
-          "link": "https://www.solidot.org/story?sid=85394",
-          "publishedOn": "2026-09-16T10:30:50.000Z",
-          "wordCount": 187,
-          "title": "Mozilla 报告称中国开放权重模型与美国前沿模型仅相差 4.4 个月",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85393",
-          "author": null,
-          "description": "广泛用于游戏和应用、提供跨平台软硬件抽象层的 SDL3 库已移植到华为的 HarmonyOS / OpenHarmony 操作系统。游戏工作室 Outfit7 资助了 Ryan \"Icculus\" Gordon 的移植工作。HarmonyOS 是华为开发的私有操作系统，适用于智能手机、平板电脑、 PC、智能设备等多种终端，其架构采用了微内核设计。OpenHarmony 则是 HarmonyOS 的开源版本。Icculus 透露，支持 HarmonyOS/OpenHarmony 的 SDL3 移植版本已用于部分商业游戏。",
-          "link": "https://www.solidot.org/story?sid=85393",
-          "publishedOn": "2026-09-16T08:57:02.000Z",
-          "wordCount": 195,
-          "title": "SDL3 移植到 HarmonyOS / OpenHarmony",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85392",
-          "author": null,
-          "description": "互联网档案馆披露，它的时光机器（Wayback Machine）服务遭遇了大规模机器流量的持续攻击，因此不得不采取防护措施，导致正常用户在访问该服务时可能会遇到“429 错误”——代表请求过多的 HTTP 状态码。如果用户被误伤，它对此表示歉意，称正努力区分机器流量和正常用户流量。时光机器备份了互联网内容的历史存档，很多内容除了时光机器可能在其它地方都找不到了。时光机器是重要的知识库，因此也是 AI 公司和互联网公司网络爬虫重要的抓取目标。",
-          "link": "https://www.solidot.org/story?sid=85392",
-          "publishedOn": "2026-09-16T08:32:47.000Z",
-          "wordCount": 163,
-          "title": "时光机器遭遇大规模机器流量",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85391",
-          "author": null,
-          "description": "Fedora 项目宣布释出 Fedora 45 Beta，正式版预计于 10 月 20 日释出。Fedora 45 的主要变化包括：用 kmscon 取代了内核控制台（in-kernel console），提供了更流畅的渲染，更出色的 Unicode 与字体支持，增强了系统稳定性；默认要求在安装前验证软件包签名的有效性，防止意外安装未签名的软件包；通过 oo7 标准化桌面密钥管理，取代了  GNOME Keyring 和 KWallet 等后端实现；软件方面的更新包括 GNOME 51，Go 1.27、Python 3.15、GCC 16.2、Glibc 2.44、LLVM 23、RPM 6.1 等等。",
-          "link": "https://www.solidot.org/story?sid=85391",
-          "publishedOn": "2026-09-16T07:26:30.000Z",
-          "wordCount": 201,
-          "title": "Fedora 45 Beta 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85390",
-          "author": null,
-          "description": "Mozilla 释出了 Firefox 156 正式版，以及 Firefox 157 Beta 版本。Firefox 156 主要变化包括：改进了内置 PDF 浏览器的性能，启动速度提高最多 45%；改进了根据网页自适应尺寸的大型 JPEG 图像的内存和 CPU 占用；修正了 Bilibili 上 MP4 高采样率 FLAC 音频无法播放问题，Firefox 在 macOS 上能设置自动打开，等等。Firefox 157 正式版将于 9 月 29 日释出。",
-          "link": "https://www.solidot.org/story?sid=85390",
-          "publishedOn": "2026-09-16T06:25:49.000Z",
-          "wordCount": 202,
-          "title": "Firefox 156 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85389",
-          "author": null,
-          "description": "根据日本厚生劳动省公布的数据，日本全国百岁以上老人达到 107,677 人，较去年增加 7914 人。百岁以上老人连续 56 年增加，首次超过 10 万人。其中女性为 94,298 人，占 87.6%，男性为 13,379 人。与去年相比，男性增加 1400 人，女性增加 6514 人。女性最年长者是京都市的岸本Fuyo，她出生于 1911 年（明治 44 年）12 月 20 日，现年 114 岁。男性最年长者是熊本市的加藤光，他出生于 1914 年（大正 3 年）5 月 2 日，现年 112 岁。2025 年日本人的平均寿命为女性 87.33 岁，男性 81.35 岁。",
-          "link": "https://www.solidot.org/story?sid=85389",
-          "publishedOn": "2026-09-16T05:35:44.000Z",
-          "wordCount": 205,
-          "title": "日本百岁老人人数首次超过 10 万人",
           "imageUrl": null
         }
       ]
