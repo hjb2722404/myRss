@@ -12,6 +12,31 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/priprinter/",
+          "author": "青小蛙",
+          "description": "很多人都有过这样的经历：打印网页时，最后几行广告单独占了一页；打印 PDF 或 PPT 讲义，打完才发现其实两页、四页合一就足够清晰；合同和资料里，还总会多出一些没必要的页眉页脚信息…… 这些问题往往不是文件本身造成的，而是打印之前缺少了最后一次检查和调整的步骤。 而 priPrinter 正是为解",
+          "link": "https://www.appinn.com/priprinter/",
+          "publishedOn": "2026-09-26T10:11:27.000Z",
+          "wordCount": 2549,
+          "title": "priPrinter：一个「打印前编辑器」，裁剪、标注、多页合一，确认好了再打印",
+          "enclosure": {
+            "url": "https://static3cdn.appinn.com/images/2026/09/3-ezgif.com-resize-video-1.mp4",
+            "length": "308819",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-26T181015.575.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/aria2-next/",
+          "author": "青小蛙",
+          "description": "十多年来，aria2 一直是功能最强大的开源下载引擎之一，但它已经 3 年多没有更新了。@Appinn 有开发者基于 aria2 分支创建了新项目：Aria2 Next，宣称是重新定义下一代 aria2，修复了大量遗留问题、更新了底层架构，还加入了原生 .m3u8、DASH 和 ED2K（电驴）下载",
+          "link": "https://www.appinn.com/aria2-next/",
+          "publishedOn": "2026-09-26T08:55:06.000Z",
+          "wordCount": 2985,
+          "title": "aria2 下一代？Aria2 Next 原生支持 .m3u8、电驴下载",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-26T163847.209.jpg"
+        },
+        {
           "id": "https://www.appinn.com/hermes-7-free-models/",
           "author": "青小蛙",
           "description": "Hermes 是与 OpenClaw 类似的 AI Agent 软件，目前提供了七款免费模型，只需要在 hemers models 直接登录 Nous Portal 即可使用，但需要绑定信用卡。@Appinn 目前提供的模型（2026年9月25日）： 注意免费模型会实时变化，此前还限免过 tence",
@@ -200,16 +225,6 @@
           "wordCount": 2572,
           "title": "PGSTY Silo：源自 MinIO Fork，只改一行，无缝替代 MinIO",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-18T121517.072.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
-          "author": "青小蛙",
-          "description": "9.18 更新：Union Alpha 已确认是 The Unbiased Company 的 Pareto 26.9 模型。 官方把 Pareto 定义成一个「系统」：多个模型同时参与任务，其中既有开源模型，也有前沿模型，再通过一套 harness 检查结果，必要时调用更强的模型完成任务。 大概就",
-          "link": "https://www.appinn.com/cloudflare-ai-gateway-union-alpha/",
-          "publishedOn": "2026-09-17T08:01:20.000Z",
-          "wordCount": 3057,
-          "title": "如何通过 Cloudflare 免费使用神秘模型 Union Alpha",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-17T155835.729.jpg"
         }
       ]
     },
@@ -240,24 +255,43 @@
       "title": "张鑫旭-鑫空间-鑫生活",
       "feedUrl": "http://www.zhangxinxu.com/wordpress/feed/",
       "siteUrl": "https://www.zhangxinxu.com/wordpress",
-      "articles": [
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=12429",
-          "author": "张 鑫旭",
-          "description": "除了rem这个根元素单位外，最近几年，各大浏览器又相继支持了rcap、rex、rch、ric、rlh等根字体单位，不知道你认识几个？",
-          "link": "https://www.zhangxinxu.com/wordpress/2026/09/css-root-units/",
-          "publishedOn": "2026-09-17T11:42:29.000Z",
-          "wordCount": 1410,
-          "title": "CSS rex、rlh、ric等根家族单位简介",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "奇客Solidot–传递最新科技情报",
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85482",
+          "author": null,
+          "description": "微软宣布其电子表格软件 Excel 的单元格将支持输入多个值，而不是以前的只能一个值。Excel 将通过“列表”（Lists）、“单元格内数组”（arrays in cells）和“嵌套数组”（nested arrays）三个功能实现在单元格内输入多个值。微软称，某个项目可能会将“Carlos，Henrietta，Jacob”列为三位负责人，或者 Forms 调查问卷可能会将“2:00 PM；2:30 PM；3:00 PM”作为单个回复返回。借助“列表”功能，用户既可以将这些值保留在同一个单元格中，又能彼此区分开来进行筛选、计算等操作。",
+          "link": "https://www.solidot.org/story?sid=85482",
+          "publishedOn": "2026-09-26T15:06:41.000Z",
+          "wordCount": 172,
+          "title": "Excel 的单元格将支持输入多个值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85481",
+          "author": null,
+          "description": "2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中荷兰政府正在本土 Linux 发行版 NixOS 基础上上构建数字工作环境 Digitaal Autonome Werkomgeving Overheid (DAWO) 。DAWO 包含了操作系统、办公套件、协作应用、云服务及管理工具。试点项目正在荷兰政府内部展开。欧洲各地的政府以前尝试过取代微软的软件，但成功者寥寥。现在过于依赖微软软件可能导致服务被彻底切断，对欧洲政府而言风险更大，因此转向替代解决方案比以往更重要。DAWO 先后尝试了 openSUSE 和 Fedora 发行版，最终选择了自主开发的发行版 NixOS。原因是 openSUSE 的母公司 SUSE 频繁出售，而 Fedora 是 Red Hat 主导开发的发行版，而 Red Hat 的母公司 IBM 是美国公司。NixOS 是基于荷兰开发的软件包管理器 Nix，不隶属于任何商业实体，开发者计划明年发布 1.0 版本。",
+          "link": "https://www.solidot.org/story?sid=85481",
+          "publishedOn": "2026-09-26T14:44:52.000Z",
+          "wordCount": 199,
+          "title": "荷兰政府测试本土发行版 NixOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85480",
+          "author": null,
+          "description": "负责发行 Alex Gibney 拍摄的马斯克（Elon Musk）纪录片《Musk》的公司 Bleecker Street 发现，主流社交平台 YouTube、TikTok 和旗下包括 Instagram 和 Facebook 的 Meta 公司，以及马斯克旗下的 X 平台都拒绝投放该纪录片的商业广告。这是一部批评马斯克的纪录片，X 平台拒绝能理解，但 YouTube、TikTok 以及 Meta 都拒绝令发行商感到意外，引发了少数几家公司掌控社交平台压制言论自由的担忧。YouTube、TikTok 和 Meta 都以政治内容相关的理由拒绝投放广告。Bleecker Street 对三家公司提起了上诉，Meta 已经驳回上诉，而 TikTok 和 YouTube 仍在审议中，X 平台则直接拒绝沟通。《Musk》将于 10 月 9 日上映。",
+          "link": "https://www.solidot.org/story?sid=85480",
+          "publishedOn": "2026-09-26T10:59:47.000Z",
+          "wordCount": 206,
+          "title": "YouTube、TikTok 和 Meta 都拒绝投放马斯克纪录片的商业广告",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85479",
           "author": null,
@@ -906,116 +940,6 @@
           "publishedOn": "2026-09-18T05:17:40.000Z",
           "wordCount": 186,
           "title": "朝鲜地下核试验诱发了持续多年的地震活动",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85412",
-          "author": null,
-          "description": "欧洲的一项研究发现，微塑料会像特洛伊木马一样在土壤中传播污染物、农药和细菌。研究人员在 11 个国家测试了 227 块农田，都发现了微塑料。研究人员还发现，微塑料可能会与农药兽药发生相互作用。瑞士的一项研究发现，轮胎磨损颗粒含量最高的农田，其有毒化学物质和金属的含量也最高。微塑料的表面能为微生物创造新的栖息地，该表面被称为塑料圈（plastisphere）。相比对照组，塑料圈内的抗生素抗性基因有所增加，农药则进一步放大了这一效应。研究人员表示，微塑料颗粒越小，越容易吸附污染物、微生物和 DNA，从而产生一种“特洛伊木马效应”，可能导致病原体和抗生素抗性基因的扩散加剧。可生物降解塑料不一定更安全，它们仍可能降解为微塑料。",
-          "link": "https://www.solidot.org/story?sid=85412",
-          "publishedOn": "2026-09-17T16:02:00.000Z",
-          "wordCount": 163,
-          "title": "微塑料像特洛伊木马一样传播有毒物质",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85411",
-          "author": null,
-          "description": "德国一家法院周四裁定，Meta 必须对其 Instagram 和 Facebook 平台上第三方发布的虚假广告承担责任，责令 Meta 删除此类内容和支付赔偿。诉讼由一家德国金融门户网站的运营商及其创始人提起，虚假广告在推荐可疑投资项目时未经许可使用了它的 logo 和图像。该运营商在 2024 年 8 月向 Meta 举报了近 260 起违规，而 Meta 花了 62 天时间才删除部分内容。Meta 发言人表示对裁决持异议，正在考虑后续行动。法院表示，该裁决还不具有最终的法律效力，Meta 可通过提起上诉提出异议。",
-          "link": "https://www.solidot.org/story?sid=85411",
-          "publishedOn": "2026-09-17T15:07:19.000Z",
-          "wordCount": 188,
-          "title": "德国法庭裁决 Meta 要为其平台上第三方发布的虚假广告承担责任",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85410",
-          "author": null,
-          "description": "刚果民主共和国的埃博拉疫情死亡人数超过 3500 人，确诊病例超过 7400 例，逾 1700 人康复。WHO 称，疫情最严重的 Ituri 省的病毒传播速度在下降，上周报告了约 300 例新增病例和 160 例死亡病例，占全国的一半；South Kivu 省自 5 月以来未报告新增病例；North Kivu 省的传播速度在加快，过去两周的新增病例从 100 多增加到 200 多；邻国乌干达境内的传播已经遏制。WHO 宣布，埃博拉疫苗试验将在未来几周内启动，如果疫苗证明有效将会扩大其使用范围。",
-          "link": "https://www.solidot.org/story?sid=85410",
-          "publishedOn": "2026-09-17T14:53:06.000Z",
-          "wordCount": 190,
-          "title": "刚果埃博拉疫情死亡人数超过 3500 人",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85409",
-          "author": null,
-          "description": "NASA 于 8 月 30 日使用 SpaceX 重型火箭 Falcon Heavy 成功发射了 Nancy Grace Roman 太空望远镜，目前正飞往日地之间的 L2 拉格朗日点，它需要三个月时间才能抵达目的地。Roman 望远镜耗资 43 亿美元，原计划执行 5+5 为期十年的任务，NASA 表示受益于精确的发射、巧妙规划的飞行轨道，地面操作团队的出色执行，望远镜有足够的燃料能执行 22 年的任务。NASA 称，Roman 望远镜控制推进器在发射后的第一次长点火燃烧仅用了 18 公斤的联氨燃料，远低于预留的 200 公斤。望远镜的实际重量为 8,056 公斤，比最大允许重量轻了两吨，因此地面人员给其燃料箱多加了 290 加仑的联氨燃料。加满燃料的望远镜在发射时的总重为 9,173.5 公斤，仍然比最大允许重量少了半吨，更低的质量意味着望远镜在执行航向修正机动时推进器的点火时间无需过长。",
-          "link": "https://www.solidot.org/story?sid=85409",
-          "publishedOn": "2026-09-17T14:40:23.000Z",
-          "wordCount": 205,
-          "title": "Roman 太空望远镜有足够的燃料可服役 22 年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85408",
-          "author": null,
-          "description": "陈奕龙有 20 年出演影视剧的经验，由于工作机会日益稀少，他在 8 月与一家 AI 工作室签约，授权对方使用其面部肖像。陈奕龙的工作就是坐在摄像机前，根据导演的指令做出不同面部表情——如无表情凝视、怒视或惊讶。这家工作室将利用 AI 技术，以陈奕龙的面部图像为基础生成虚拟数字人，让其主演一部由 AI 生成的电影。现年 38 岁陈奕龙说道，“如果你无法战胜它，那就加入它。”雇佣陈奕龙的是总部位于深圳的 Feixiang Universe 工作室，创始人 Sun Wei 表示，之所以为一部唐朝背景的 AI 电影项目获取真人肖像授权主要是担心无意中窃取他人肖像。她指出，受 AI 训练数据偏差的影响，AI 生成的演员通常面部特征相似，长相千篇一律。这促使她和其他中国 AI 电影制作人去搜寻和购买新面孔，将演员的真实表情数字化。根据广电总局的数据，今年首八个月，中国上线微短剧共 43 万部，是去年全年的 13 倍，其中 AI 剧占比超过九成。Sun Wei 的团队则计划以 50 万美元的预算制作一部 90 分钟的 AI 长片。",
-          "link": "https://www.solidot.org/story?sid=85408",
-          "publishedOn": "2026-09-17T10:31:46.000Z",
-          "wordCount": 205,
-          "title": "今年上线的微短剧逾九成是 AI 剧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85407",
-          "author": null,
-          "description": "地球并非是完美的球形，自转以及围绕太阳公转使其赤道部分隆起，两极部分扁平。根据一项新研究，可能是由于极地地区的冰雪融化，地球两极在隆起，与此同时赤道地区则在加速下沉，地球的整体形状变得不那么扁平。研究人员利用了 GNSS 导航网络地面站在 1997-2015 年间的测量数据，绘制了地球固体部分的升降变化。结果显示，1997-2000 年间地球两极以每年约 0.5 毫米的速度隆起。到 2015 年，隆起速度已增至每年 1 毫米。",
-          "link": "https://www.solidot.org/story?sid=85407",
-          "publishedOn": "2026-09-17T09:52:29.000Z",
-          "wordCount": 169,
-          "title": "地球正变得不那么扁平",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85406",
-          "author": null,
-          "description": "GNOME 桌面环境项目释出了代号为 A Coruña 的 GNOME 51，该代号旨在感谢 GUADEC 2026 的主办城市。GNOME 51 主要变化包括：Mutter 重新设计了调度和屏幕帧交付系统，即使系统处于高负荷下，动画仍然流畅；全面提升了屏幕录制性能；记住显示器的亮度设置；移除了基于 EGLStreams 的旧 NVIDIA 驱动接口支持；支持新 Wayland 协议如 ext-background-effect-v1；支持自定义指针加速配置文件；GNOME Maps 支持离线地图；GNOME Software 启动更快，GNOME File Previewer UI 重构，等等。",
-          "link": "https://www.solidot.org/story?sid=85406",
-          "publishedOn": "2026-09-17T09:03:51.000Z",
-          "wordCount": 192,
-          "title": "GNOME 51 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85405",
-          "author": null,
-          "description": "发表在《自然》期刊上的一项研究表明，移植到小鼠体内的人脑类器官能够重现大脑发育的某些特征，包括形成功能性神经网络，从而支持脑活动。这一成果得益于一种培育脑容量缩小的小鼠的方法。这种方法使得这些由人类细胞培养形成的三维类脑组织，即人脑类器官能够与小鼠大脑整合。该模型有望以比此前更深入的方式研究人脑组织的发育。研究结果显示，移植的类器官生长良好。它们占据了大部分空间，分化为多种人类脑细胞，组织形成了神经回路，并产生了类似大脑皮层组织的复杂结构。此外，整合形成的皮层组织可能造成了某些行为表现。研究人员将移植类器官和未移植类器官的皮层缺失小鼠进行了比较，发现它们在运动和记忆任务中的表现存在差异。",
-          "link": "https://www.solidot.org/story?sid=85405",
-          "publishedOn": "2026-09-17T07:59:13.000Z",
-          "wordCount": 159,
-          "title": "人脑类器官在小鼠体内形成神经网络",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85403",
-          "author": null,
-          "description": "被现代商船逐渐淘汰的风帆正以新的形式再次回归。散货船、油轮到集装箱船等各类商船正在安装高耸的转子帆、刚性翼帆以及吸风式推进系统。此举并非是要将现代船舶重新变成帆船，而是让基于风帆的系统与现代推进系统协同合作，在条件允许时利用风力降低油耗。International Windship Association 协会的数据显示，已有逾百艘大型商船配备了现代风力推进系统，总载重吨位逾 500 万吨。Maersk 公司计划在一艘有 8700 个标准箱的集装箱货船上安装一座 35 米高的转子帆，预计于 2027 年在大西洋常规航线上启动测试。它有望成为第一艘安装转子帆的集装箱货船。Vale 旗下一艘载重吨位达 40 万吨的巨型矿砂船 Sohar Max 已经安装了五座 35 米高的转子帆，风帆系统将油耗降低多达 6%。韩国船舶制造公司最近宣布研究在液化天然气货船（LNG）上安装风帆系统。如果研究取得成功，那么将进一步证明风帆技术重新迈向主流。",
-          "link": "https://www.solidot.org/story?sid=85403",
-          "publishedOn": "2026-09-17T07:31:37.000Z",
-          "wordCount": 178,
-          "title": "商船再次安装基于风帆的推进系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85402",
-          "author": null,
-          "description": "广州市人大常委会公布了《广州市噪声污染防治规定（草案修改稿·征求意见稿）》，向社会各界征求意见和建议，截止日期为 10 月 15 日。\n\n《征求意见稿》明确，在巴士、地铁等公共交通运输工具内使用手机、平板电脑等电子设备时不得外放声音。使用电子设备外放声音的，公共交通运输工具司乘人员应当劝阻，劝阻无效的，可以向公安机关报告。\n\n违反规定，在公共交通运输工具内使用电子设备外放声音，经公共交通运输工具司乘人员劝阻仍不改正的，由公安机关说服教育，给予警告，可以处 200 元以上 1000 元以下的罚款。",
-          "link": "https://www.solidot.org/story?sid=85402",
-          "publishedOn": "2026-09-17T06:04:26.000Z",
-          "wordCount": 167,
-          "title": "广州提议禁止公共交通内外放声音",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85401",
-          "author": null,
-          "description": "根据发表在《Scientific Data》期刊上的一项研究，地球暖化正加速两大冰盖的融化。卫星数据显示，自 1979 年以来格陵兰岛和南极洲损失了 12.5 万亿吨冰量。这些冰融化为 11.3 千万亿升的水，导致 1979 年以来全球海平面上升了 3.1 厘米。而海平面每上升 1 厘米，就会导致额外 200-300 万人每年面临至少一次洪水威胁。研究发现，六分之五的冰体流失并非源于气温升高，而是因为较温海水从底部和侧面侵蚀冰盖，导致冰川滑向海洋。格陵兰岛的 Jakobshavn 冰川目前每天退缩的距离达到 50 米。数据显示，1970 年代、1980 年代和 1990 年代的冰盖状况相对稳定；但随后融化现象开始出现，2010 年代显著加剧。",
-          "link": "https://www.solidot.org/story?sid=85401",
-          "publishedOn": "2026-09-17T05:57:44.000Z",
-          "wordCount": 197,
-          "title": "卫星数据显示过去 47 年格陵兰岛和南极洲损失 12.5 万亿吨冰",
           "imageUrl": null
         }
       ]
