@@ -12,6 +12,46 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/windows%e8%87%aa%e7%94%a8%e8%bd%af%e4%bb%b6%e8%ae%b0%e5%bd%95%e5%88%86%e4%ba%ab-by-yingngao/",
+          "author": "青小蛙",
+          "description": "系统 Autoruns：启动项管理。这个的启动项最全，属于微软Sysinternals系列工具。 CrystalDiskInfo：硬盘信息。有温度，健康度，写入读取等一系列硬盘状态可以看到。 DM Disk Editor and Data Recovery Software：数据恢复，简称DMDE。",
+          "link": "https://meta.appinn.net/t/topic/92572",
+          "publishedOn": "2026-09-30T03:31:17.000Z",
+          "wordCount": 390,
+          "title": "Windows自用软件记录分享 by @yingngao",
+          "imageUrl": "https://meta-edge.appinn.com/uploads/default/original/2X/c/cbd4ea4a240cf3eb8809fb647da09ba01691f6b4.png"
+        },
+        {
+          "id": "https://www.appinn.com/cloudflare-cf-agentic-cli/",
+          "author": "青小蛙",
+          "description": "赛博菩萨 Cloudflare 刚刚发布了一款新的命令行工具 cf，专门为 AI Agent 设计，可以通过命令行直接操作 Cloudflare 的 3000+ 个 API。@Appinn 相比主要面向开发者、只覆盖部分产品能力的 Wrangler，cf 几乎覆盖了整个 Cloudflare API",
+          "link": "https://www.appinn.com/cloudflare-cf-agentic-cli/",
+          "publishedOn": "2026-09-29T08:58:38.000Z",
+          "wordCount": 2956,
+          "title": "Cloudflare 发布新命令行工具 cf：可让 AI Agent 操作 3000+ 个 Cloudflare API",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-29T164322.618.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/cent-browser-5-3-1184-2/",
+          "author": "青小蛙",
+          "description": "昨天夜里（2026 年 9 月 28 日），百分浏览器在官方论坛发布了最新测试版 5.3.1184.2，浏览器内核升级至 Chromium 150.0.7871.250，并继续支持 Windows 7、Manifest V2（MV2）扩展以及 GDI 渲染。@Appinn 除此之外，这次更新还加入了",
+          "link": "https://www.appinn.com/cent-browser-5-3-1184-2/",
+          "publishedOn": "2026-09-29T08:24:26.000Z",
+          "wordCount": 2608,
+          "title": "《百分浏览器》年度更新：Chromium 150 内核，继续支持 Win7、MV2、GDI｜测试版 5.3.1184.2",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-29T162022.337.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/ylih-headphones-records-android/",
+          "author": "青小蛙",
+          "description": "以上三个问题，如果你有一条感兴趣，那么不要错过今天的开源应用，感谢 @Rime 的推荐 ylih — 你的耳机人生（蓝牙、有线耳机） ylih 是一款开源安卓应用，它可以在你的手机里，永久保存耳机连接记录。 你可以把它想象成耳机的里程表，从第一次连接开始，它就自动记录每一次的使用、累计聆听时间和电量",
+          "link": "https://www.appinn.com/ylih-headphones-records-android/",
+          "publishedOn": "2026-09-29T07:34:27.000Z",
+          "wordCount": 2556,
+          "title": "ylih 耳机里程表：用了多久、续航掉多少，记录蓝牙耳机的一生[安卓开源]",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-29T152948.386.jpg"
+        },
+        {
           "id": "https://www.appinn.com/ivycraft/",
           "author": "青小蛙",
           "description": "IvyCraft 想解决的就是这个过程。 它是一款围绕已有资料进行创作的 AI 内容生成平台。用户可以导入 PDF、论文、Word、网页、视频等内容，让 AI 先理解资料，再根据实际需求生成 PPT、信息图、播客、视频等不同形式的内容。 相比每次从空白 Prompt 开始，它的思路更像是：资料已经有",
@@ -200,16 +240,6 @@
           "wordCount": 2548,
           "title": "发现频道：10款大家发现的好评软件[2026年第38期]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-16.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/jev-getting-started/",
-          "author": "青小蛙",
-          "description": "ChatGPT 研究员 Diogo Almeida 几天前带来了他的新模型：Jev。它不聊天，只负责选判断，比传统大模型快 20～200 倍，成本降低 40～400 倍。 他还说：据我所知，这是通往基于 AI 的经济革命的最短路径。 青小蛙被 Jev 刷屏之后，终于得到了访问权限： 这个等待很快，几",
-          "link": "https://www.appinn.com/jev-getting-started/",
-          "publishedOn": "2026-09-20T11:56:41.000Z",
-          "wordCount": 3290,
-          "title": "Jev 入门：ChatGPT 研究员做了个“不会聊天、不写代码”的 AI 模型，但速度快200倍、成本低400倍",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-20T195436.029.jpg"
         }
       ]
     },
@@ -247,6 +277,116 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85510",
+          "author": null,
+          "description": "据清华大学经济管理学院官方微信公号称，今年清华经管学院顾问委员会新增委员三人，新增接任委员五人。三位新增委员分别是黄仁勋、苏姿丰，以及瑞士百达集团高级管理合伙人百达铭（Marc Pictet）。五位新增接任委员分别是宝马集团董事长聂科维（Milan Nedeljković）、沃尔玛公司总裁兼首席执行官方威翰（John Furner）、可口可乐公司首席执行官柏瑞凯（Henrique Braun）、泛大西洋资本集团联席总裁、全球成长型股权投资负责人马丁·埃斯科瓦里（Martín Escobari），以及bp集团首席执行官梅格·奥尼尔（Meg O’Neill）。清华经管学院称，这五位接任委员所在公司的前任都曾是学院顾问委员会委员，因工作变动不再担任。清华经管学院现任顾问委员会主席为苹果董事会主席库克。马斯克（Elon Musk）、扎克伯格（Mark Zuckerberg）以及微软 CEO 纳德拉(Satya Nadella)都是委员。",
+          "link": "https://www.solidot.org/story?sid=85510",
+          "publishedOn": "2026-09-30T06:08:21.000Z",
+          "wordCount": 180,
+          "title": "AMD CEO 苏姿丰成为清华经管学院顾问委员会委员",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85509",
+          "author": null,
+          "description": "加州州长 Gavin Newsom 签署了 AB 2409 法案，禁止加州公职人员发行模因币（memecoin），也禁止企业使用公职人员的肖像或形象发行模因币。这项新法规的背景是美国总统特朗普及第一夫人在正式上任前夕发行了自己的模因币，据报道百万购买特朗普模因币的投资者损失了 38 亿美元——模因币的币值与热度密切相关，因此币值波动巨大，最知名的模因币是狗币（Dogecoin）。Newsom 表示：“任何公职人员都不应利用其职位牟利——我们正在实施更强有力的保护措施，以确保此类事件不会在本州发生。”",
+          "link": "https://www.solidot.org/story?sid=85509",
+          "publishedOn": "2026-09-30T06:03:50.000Z",
+          "wordCount": 167,
+          "title": "加州禁止公职人员发行模因币",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85507",
+          "author": null,
+          "description": "根据本周发表在《The Lancet Oncology》期刊上的一项研究，全世界八分之一癌症病例由感染引起。研究发现，2024 年感染性病原体相关的新癌症病例有 230 万例，占到了总新癌症病例的 12%。其中幽门螺杆菌会增加胃癌风险，这种病菌导致了 76 万例新癌症病例，数量最多，主要集中在东亚地区。其次是人乳头瘤病毒（HPV）导致了近 75 万例新癌症病例，撒哈拉以南非洲地区最多，这种病毒与宫颈癌、与肛门癌、外阴癌、阴道癌、阴茎癌等相关。乙肝和丙肝病毒则与肝癌病例相关。Epstein-Barr 病毒导致了 26 万例癌症病例，该病毒会导致鼻咽癌、胃癌以及霍奇金淋巴瘤。",
+          "link": "https://www.solidot.org/story?sid=85507",
+          "publishedOn": "2026-09-29T15:25:25.000Z",
+          "wordCount": 171,
+          "title": "八分之一癌症病例由感染引起",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85506",
+          "author": null,
+          "description": "意大利最大银行 Intesa Sanpaolo 旗下私人银行业务部门 Fideuram 的总裁 Paolo Molesini 今年 2 月成为一起组合利用 WhatsApp 假信息和 Deepfake 语音的诈骗行动目标，导致逾 1 亿美元被骗走，他本人则在 3 月份辞职。Molesini 首先是收到了看起来是母公司 CEO Carlo Messina 发来的 WhatsApp 信息，要求他帮助处理一笔巨额海外交易，接着他收到了一家大型律师事务所高级合伙人的电话。但打电话的不是真人，而是骗子利用 AI 模型模仿该律师的声音（即 Deepfake）。这通电话让 Molesini 相信之前的信息确实是其上司 Messina 发送的。Fideuram 随后向中国大陆以及香港的账号转了 9500 万欧元（约 1.08 亿美元）。在意大利、葡萄牙和中国有关部门及银行机构的协助下，Fideuram 追回了 5300 万欧元，其余款项则被通过海外复杂账号网络兑换成了加密货币。",
+          "link": "https://www.solidot.org/story?sid=85506",
+          "publishedOn": "2026-09-29T14:57:57.000Z",
+          "wordCount": 213,
+          "title": "银行高管被 Deepfake 语音骗走 1 亿美元",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85505",
+          "author": null,
+          "description": "继三星、海力士之后，全球第三大 DRAM 厂美光（Micron）在台湾的两个工厂，罢工行动也蠢蠢欲动。9 月 24 日，工会人数 2100 人，占全厂七成的美光桃园工会决定依据劳资争议处理法，10 月 1 日起进行为期一周的罢工投票。一旦支持罢工者超过工会会员数一半，就取得罢工权。有 1 万 2 千人的美光台中厂，台中工会也将于10 月 22 日和资方再次协商，若破局，也可能举行罢工投票。一位台中厂员工透露，原本工会成员维持在 400 人左右。但自三星和海力士宣布和员工达成协议，决定扩大对员工发放红利后，工会成员数目迅猛成长，现在台中厂工会成员已经超过一万人！等于超过 8 成员工参加工会，比例比桃园还高。触发美光员工举行罢工投票的关键在于分润制度。2025 年美光的净利已成长至 815 亿美元，但员工平均得到的分红只有 2.3 个月的月薪。比较其他半导体公司的分润后，工会认为美光的红利分配方式并不公平。美光工会认为， 目前三星半导体部门的营业利益 12% 分给员工，海力士是 10%。美光只有 4.4%。",
+          "link": "https://www.solidot.org/story?sid=85505",
+          "publishedOn": "2026-09-29T13:08:34.000Z",
+          "wordCount": 188,
+          "title": "美光台工厂工会准备罢工",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85504",
+          "author": null,
+          "description": "Mozilla 释出了 Firefox 157。主要变化包括：新的 Nova UI，现代化浏览器界面边框、侧边栏及菜单外观；在兼容设备上支持 WebRTC 视频通话 AV1 硬件解码，此前它一直依赖于软件解码；修复 HDR 视频问题；改进了更改视频播放速度时的音画同步；移除内置搜索引擎 Amazon；等等。",
+          "link": "https://www.solidot.org/story?sid=85504",
+          "publishedOn": "2026-09-29T12:10:42.000Z",
+          "wordCount": 177,
+          "title": "Firefox 157 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85503",
+          "author": null,
+          "description": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年 5 月它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。今年早些时候没有转为付费的账号内相关数据都被删除了。根据一封发送给受影响客户的邮件，微软承认“由于错误”它在数据保留和导出期限结束前就删除了剩余数据，且尝试恢复数据的努力均告失败，“我们已经研究了恢复方案，遗憾的是，数据无法恢复。”微软甚至无法确定具体丢失了哪些数据。软件巨人对此向受影响客户表示歉意。微软没有披露受影响客户的数量，根据此前的报道，有 17.1 万非营利组织受到影响。",
+          "link": "https://www.solidot.org/story?sid=85503",
+          "publishedOn": "2026-09-29T10:10:51.000Z",
+          "wordCount": 174,
+          "title": "微软告诉非营利组织他们被删除的数据无法恢复",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85502",
+          "author": null,
+          "description": "切开的香蕉片会在短时间内变成棕褐色。一种利用基因编辑技术修改过的新香蕉品种将能大幅延长香蕉保持新鲜的时间。英国农业生物技术公司 Tropi CEO Gilad Gershon 表示，新香蕉能延缓一到两天变黑，如果冷藏保存则保鲜期还会更长。Tropic 利用 CRISPR-Cas9 基因编辑技术，对香蕉的一个特定基因的所有三个拷贝进行了修改，减少了导致其变黑的多酚氧化酶（polyphenol oxidase）的产生。Tropic 表示，这种不易变黑的香蕉有望使整个供应链中的食物浪费及二氧化碳当量排放量减少 25% 以上。该公司称：“仅在香蕉出口市场，这一举措每年就能减少超过 900 万吨的二氧化碳排放。”新香蕉品种已在日本、巴西和菲律宾等 10 个国家获得监管批准，已在拉丁美洲投入种植。",
+          "link": "https://www.solidot.org/story?sid=85502",
+          "publishedOn": "2026-09-29T09:44:27.000Z",
+          "wordCount": 173,
+          "title": "不易变黑的香蕉准备上市",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85501",
+          "author": null,
+          "description": "AMD 宣布收购李飞飞联合创办的 AI 初创公司 World Labs，交易总额约 82 亿美元，采用全股票形式支付。 World Labs 成立于 2024 年，由李飞飞与 Justin Johnson、Christoph Lassner 和 Ben Mildenhall 等人联合创办，专注于开发世界模型，但目前还没有产品问世，它先后获得了超过 12 亿美元的融资，投资者包括了 AMD 公司。交易完成后，李飞飞将加入 AMD，担任执行副总裁兼首席科学家，直接向 AMD 董事长兼 CEO 苏姿丰汇报。",
+          "link": "https://www.solidot.org/story?sid=85501",
+          "publishedOn": "2026-09-29T08:19:15.000Z",
+          "wordCount": 205,
+          "title": "AMD 以 82 亿美元收购李飞飞的 World Labs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85500",
+          "author": null,
+          "description": "运行 Android 操作系统的 Googlebooks 新笔电即将上市，那么运行 ChromeOS 的旧设备将何去何从？根据 Google 支持页面“What the Googlebook announcement means for your ChromeOS devices”，搜索巨人声明：它将向 ChromeOS 设备提供定期更新和安全补丁至 2034 年年中；对于近期购买的合格设备，如果 10 年支持生命周期一直持续到 2034 年之后，那么 Google 承诺协助用户过渡到 Googlebook OS。相关措辞意味着 Google 计划到 2034 年停止支持 ChromeOS。Googlebooks 和 ChromeOS 设备一样提供十年的软件支持。",
+          "link": "https://www.solidot.org/story?sid=85500",
+          "publishedOn": "2026-09-29T07:50:12.000Z",
+          "wordCount": 210,
+          "title": "Google 计划到 2034 年停止支持 ChromeOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85499",
+          "author": null,
+          "description": "微软每次释出 Windows 11 例行安全更新，都会给 Windows 11 用户带来一系列新问题。9 月份的安全更新带来了远程桌面、USB 音频、Linux/WSL 应用、企业域、文件历史、Explorer.exe 以及 AMD 显卡相关的新故障。微软仍然在支持上一代的操作系统 Windows 10。Windows 10 的安全更新是否也会带来新问题？对比的结果并不出人意料：Windows 10 更新 bug 远少于 Windows 11。下一次重新安装操作系统 Windows 用户也许应该考虑更稳定的 Windows 10。",
+          "link": "https://www.solidot.org/story?sid=85499",
+          "publishedOn": "2026-09-29T07:17:54.000Z",
+          "wordCount": 207,
+          "title": "Windows 10 更新 bug 远少于 Windows 11",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85498",
           "author": null,
@@ -845,106 +985,6 @@
           "publishedOn": "2026-09-21T06:24:05.000Z",
           "wordCount": 185,
           "title": "新加坡付费鼓励公众读书",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85436",
-          "author": null,
-          "description": "英伟达在 2024 年称当年它的 GPU 产品共使用了逾 10 亿 RISC-V 核心。这些 RISC-V 核心没有被用于图形渲染，而是充当了微控制器，执行各类辅助任务，根据型号不同，每个 GPU 包含了 10-40 个 RISC-V 核心。英伟达在 RISC-V 之前使用的是私有微控制器 FAst Logic CONtroller（Falcon）。Falcon 最早于 2005 年随 G98 引入，到了 2016 年单个 GPU 芯片集成了超过 15 个不同的 Falcon 引擎，十年间使用的 Falcon 核心总数约 30  亿个，这些核心被用于视频编解码、电源管理、安全引擎等不同任务。Falcon 为 32 位核心，没有数据缓存，不再满足英伟达的需求，它开始寻找替代，在评估了 Arm、MIPS 等架构之后，它最终选择了开源指令集架构的 RISC-V。",
-          "link": "https://www.solidot.org/story?sid=85436",
-          "publishedOn": "2026-09-20T16:41:20.000Z",
-          "wordCount": 229,
-          "title": "每个 英伟达 GPU 包含了 10-40 个 RISC-V 核心",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85435",
-          "author": null,
-          "description": "根据美国俄勒冈州的一份报告，该州有 111 个运营中的数据中心，建筑面积 2210 万平方英尺，2025 年用电量占到该州总用电量的 23%。该州还有 32 个数据中心处于建设中或规划中，将新增 690 万平方英尺的建筑面积。报告预测，到 2030 年该州数据中心的能耗将上升至近 25TWh，约占该州总电力需求的 31%-32%，相当于 250 万户家庭的用电量。报告称，这些数据中心直接提供了 2630 个就业岗位，占到了该州总人口的 0.06%。",
-          "link": "https://www.solidot.org/story?sid=85435",
-          "publishedOn": "2026-09-20T15:56:30.000Z",
-          "wordCount": 176,
-          "title": "美国俄勒冈州数据中心用电量接近总用电量的四分之一",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85434",
-          "author": null,
-          "description": "尼泊尔正面临从致命泥石流灾难后的艰巨重建任务。它寻求从气候赔偿基金 Fund for Responding to Loss and Damage 获得 2000 万美元的赔偿——即要求主要排放国承担责任，尼泊尔认为这场灾难是由气候变化引发的。尼泊尔外交部长 Shisir Khanal 表示，这不仅仅是寻求援助或慈善，更是一项关于正义以及“法律与道义责任”的诉求。他表示，该国的温室气体排放量几乎可忽略不计，但却要为一场并非由其引发的全球危机付出惨痛代价。相比数十亿美元的损失，2000 万美元的赔偿金虽然少，但却是检验气候赔偿基金公信力的一次重要考验。该基金设立于 2022 年的联合国气候大会期间，旨在应对气候变化对发展中国家的影响。迄今为止主要温室气体排放国承诺捐赠的资金中只有极少部分到位，而至少已有 119 个国家提出了应对气候问题的资金申请，它还没有发放任何资金。这些国家申请的总金额达到了 28 亿美元，而该基金实际到位资金仅 2.5 亿-3 亿美元，其中美国已于 2025 年撤出。根据最新数据，这次尼泊尔西藏泥石流灾害，尼泊尔至少 1410 人死亡，6145 人失踪；西藏有 43 人死亡，519 人失踪。",
-          "link": "https://www.solidot.org/story?sid=85434",
-          "publishedOn": "2026-09-20T15:41:59.000Z",
-          "wordCount": 198,
-          "title": "尼泊尔寻求从气候赔偿基金获得 2000 万美元的赔偿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85433",
-          "author": null,
-          "description": "微软利用使用 GPT-5.6 Sol 和 Claude Opus 4.8 的 AI 智能体、历时  14.5 周，花费 12 万美元 token 将 Copilot 运行时从 TypeScript 语言移植到 Rust 语言。该项目采用逐个更新运行时模块的方式执行，共进行了 135 次发布，平均每天提交约 1.3 个 Pull Request，最终将 43 万行 TypeScript 代码转换为 80 万行可用于生产的 Rust 代码。测试显示，原 TypeScript 代码每秒能完成 7.55 个生命周期（one-turn session lifecycles），而 Rust 代码每秒 120 个——意味着在特定工作负载下速度提升了 15.9 倍。包含 10 个客户端的智能体在 TypeScript 语言下消耗了 1383 MB 内存，而 Rust 语言版本仅消耗了 126 MB。Rust 版本将任务保持在进程内执行，无需像 TypeScript 版本那样启动外部后台进程完成任务。",
-          "link": "https://www.solidot.org/story?sid=85433",
-          "publishedOn": "2026-09-20T15:09:59.000Z",
-          "wordCount": 250,
-          "title": "微软花费 12 万美元 token 将 Copilot 运行时移植到 Rust 语言",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85432",
-          "author": null,
-          "description": "西班牙政府下令屏蔽 Archive.today 及相关镜像域名 Archive.is、Archive.ph 和 Archive.li。Archive.today 等网站被广泛用于绕过付费墙，此前由于植入了 DDoS 脚本（至今还在）而被维基百科屏蔽。但西班牙的屏蔽与此无关，而是由于有人投诉该存档网站上有违规内容。此举属于行政决定，而非法院裁决。",
-          "link": "https://www.solidot.org/story?sid=85432",
-          "publishedOn": "2026-09-20T10:54:48.000Z",
-          "wordCount": 174,
-          "title": "西班牙下令屏蔽 Archive.today 及相关存档网站",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85431",
-          "author": null,
-          "description": "即将于下个月推出的 Ubuntu 26.10 将采用 Linux 7.3 Kernel，而不是原计划的 Linux 7.2。Linux 7.3 目前还是 RC3，预计最快于 10 月 18 日释出正式版，可能会延期一周到 10 月 25 日。而 Ubuntu 26.10 将于 10 月 1 日冻结内核，10 月 15 日释出正式版本，这意味着届时它使用的 7.3 Kernel 仍然会是 RC 状态。Ubuntu 项目此前已宣布它将会紧跟最新内核版本，而 26.10 是一个短期版本，因此 Ubuntu 团队将紧跟上游内核版本。",
-          "link": "https://www.solidot.org/story?sid=85431",
-          "publishedOn": "2026-09-20T10:33:39.000Z",
-          "wordCount": 216,
-          "title": "Ubuntu 26.10 改用 Linux 7.3 Kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85430",
-          "author": null,
-          "description": "面向中低收入国家的人道主义与发展援助资金 Official development assistance(ODA)过去两年被大幅削减，但如果对亿万富翁征税，将可以填补资金缺口，有望拯救数百万人的生命。全世界资产逾 10 亿美元的亿万富翁超过 3000 人，他们的总资产达到创纪录的 20.1 万亿美元，比上一年增加了 4 万亿美元。如果对这些财富征收 3% 的税，有望到 2030 年将死亡人数减少 2950 万；征收 1% 的财富税则可减少 1510 万死亡人数。研究人员表示，在贫富差距日益悬殊且财富高度集中的当今世界，研究结果显示，旨在支持全球发展的替代性财富再分配政策，有潜力缓解 ODA 资金削减带来的负面影响。他们同时强调，结果是基于模型估算。少数国家已实施了财富税。西班牙于 202 2年开征团结财富税（solidarity wealth tax），对净资产逾 300 万欧元的个人征收 1.7%-3.5% 的税款。法国也曾讨论过征收 2% 的财富税，但相关提案遭到了参议院的否决。",
-          "link": "https://www.solidot.org/story?sid=85430",
-          "publishedOn": "2026-09-20T09:52:56.000Z",
-          "wordCount": 198,
-          "title": "对所有亿万富翁征收 3% 的税能拯救数百万人的生命",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85429",
-          "author": null,
-          "description": "一项罕见的观察显示，座头鲸母亲在幼鲸死亡后可能会悲痛欲绝。2025 年科学家在 Gold Coast 南部观察到一头雌性座头鲸在产下一头推测已死亡的幼鲸后，与另一头伴游鲸鱼在一起。她陪伴幼鲸长达数小时，甚至可能持续了数天。齿鲸曾被观察母亲会将死去的幼鲸托举到水面，而这只座头鲸母亲则在水下凝视着幼鲸，表现出长时间的哀悼行为。研究人员表示，“了解非人类动物如何应对死亡，能让我们深入洞察它们的情感世界、社会纽带以及认知能力。”",
-          "link": "https://www.solidot.org/story?sid=85429",
-          "publishedOn": "2026-09-20T08:44:28.000Z",
-          "wordCount": 161,
-          "title": "科学家记录到产下死婴后伤心欲绝的雌鲸",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85428",
-          "author": null,
-          "description": "学习另一门语言是一项高度复杂的脑力活动。它要求人们记忆单词、分辨陌生的声音、识别语言规律、推敲语法规则，在恰当的时刻提取出正确的表达。而这一切，都在人们进行倾听、理解并准备回应的同时发生。这些脑力活动也能帮助保持衰老大脑的健康吗？研究表明，答案是肯定的。愈来愈多的研究表明，语言学习和双语能力能带来认知上的益处——对老年人而言同样如此。学习另一门语言还能为沟通和社会交往创造机会。神经可塑性让大脑在一生中都具备保持改变的能力。学习陌生的语音、词汇和语法结构需要大脑形成并巩固神经连接。语言学习能同时调动多种心理过程，要求人们吸收并提取信息、察觉问题并及时调整。这种持续的脑力付出，使语言学习成为一种极其丰富的认知锻炼形式。研究表明，双语者的灰质密度更高，白质完整性更强。这表明，语言经验不仅会体现在大脑的活动中，也会反映在大脑的结构上。还有研究发现，患上痴呆症的双语者更晚出现症状。这表明，双语能力可能对大脑衰老的影响有一定的保护作用，但它不一定能预防痴呆症或相关的大脑变化。",
-          "link": "https://www.solidot.org/story?sid=85428",
-          "publishedOn": "2026-09-20T07:32:09.000Z",
-          "wordCount": 157,
-          "title": "学习新语言可能是老年人保持大脑健康的最佳方法",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85427",
-          "author": null,
-          "description": "通过美国科罗拉多州 Douglas 县和 El Paso 县的 I-25 高速公路多年来一直阻碍着动物的季节性迁徙，这条公路是许多动物的死亡之路。如今北美最大的野生动物专用通道将动物碰撞事故减少 91%。这条通道由跨越 I-25 的天桥，五条野生动物地下通道以及引导动物前往通道的围栏构成。天桥本身长 209 英尺、宽 200 英尺，于去年 12 月完工，整个工程耗资 1500 万美元。科罗拉多州交通部环境经理 Chuck Attardo 指出，减少野生动物碰撞事故不仅能挽救人类和动物的生命，还能避免财产损失、节省公共服务开支并减少交通延误。",
-          "link": "https://www.solidot.org/story?sid=85427",
-          "publishedOn": "2026-09-20T06:43:32.000Z",
-          "wordCount": 182,
-          "title": "北美最大动物通道将动物车祸事故减少 91%",
           "imageUrl": null
         }
       ]
