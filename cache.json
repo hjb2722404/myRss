@@ -12,6 +12,46 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/eggs-26102/",
+          "author": "青小蛙",
+          "description": "本周赛博领鸡蛋 Epic 送出 3 款游戏：《深埋之星 / BURIED STARS》和《网络奇兵2：25周年重制版 / System Shock 2: 25th Anniversary Remaster》，手机端《桥梁建造师工作室 / Bridge Constructor Studio》，提供 A",
+          "link": "https://www.appinn.com/eggs-26102/",
+          "publishedOn": "2026-10-03T13:26:48.000Z",
+          "wordCount": 2636,
+          "title": "本周赛博领鸡蛋（10.2~10.8）：《深埋之星》《网络奇兵2：25周年重制版》《桥梁建造师工作室》",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-03T212423.619.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/officecommun-serach-browser/",
+          "author": "青小蛙",
+          "description": "Search 是一款刚刚发布的 Mac 浏览器，整个应用只有 6MB 左右。它直接调用 macOS 自带的 WebKit 内核，却支持 Chrome 扩展。 同时还提供标签页组、广告拦截、阅读模式、垂直标签页等功能，开源、极简。需要 Apple silicon 芯片，macOS 14 以上。 感谢",
+          "link": "https://www.appinn.com/officecommun-serach-browser/",
+          "publishedOn": "2026-10-03T09:23:25.000Z",
+          "wordCount": 2985,
+          "title": "Search – 仅 6MB，开源、极简 Mac 浏览器，支持 Chrome 扩展",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/ChatGPT-2026-10-3-17_16_40.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/clip%ef%bc%9a%e6%a1%86%e4%bd%8f%e5%b0%b1%e8%83%bd%e7%b2%98%e8%b4%b4%ef%bc%8c%e6%94%af%e6%8c%81%e6%89%8b%e5%8a%a8%e6%bb%9a%e5%8a%a8%e6%88%aa%e5%9b%be%e7%9a%84-macos-%e5%bc%80%e6%ba%90%e5%b7%a5%e5%85%b7/",
+          "author": null,
+          "description": "大家好，我做了 Clip，一款免费开源、剪贴板优先的 macOS 截图工具。 一句话介绍 普通截图只要框选并松开，图片就直接进入剪贴板；需要滚动截图时，由你自己正常滚动，Clip 负责记录并拼接。 普通截图 快捷键启动后框选区域，松开鼠标即可复制。打开微信、飞书、邮件或文档，直接按 ⌘V 粘贴。需要",
+          "link": "https://meta.appinn.net/t/topic/90571",
+          "publishedOn": "2026-10-03T08:06:10.000Z",
+          "wordCount": 213,
+          "title": "Clip：框住就能粘贴，支持手动滚动截图的 macOS 开源工具",
+          "imageUrl": "https://h2cdn.appinn.me/optimized/3X/b/9/b90c387a0985ea766586e35ef02a76465239af8a_2_1024x575.webp"
+        },
+        {
+          "id": "https://www.appinn.com/gemini-free-flash-lite/",
+          "author": "青小蛙",
+          "description": "Google 降低了免费 Gemini 网页版和 App 模型的使用权限，地主家也没有余粮了。 从 2026 年 10 月 9 日开始，免费的 Gemini 用户将只能使用 Flash-Lite。此前免费用户还能使用的 Flash 和 Pro，届时都会被移出免费档。 调整后的模型权限是： 套餐 Fl",
+          "link": "https://www.appinn.com/gemini-free-flash-lite/",
+          "publishedOn": "2026-10-03T07:59:54.000Z",
+          "wordCount": 2663,
+          "title": "Gemini 免费版大缩水，10月9号起只剩 Flash-Lite",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-03T155647.320.jpg"
+        },
+        {
           "id": "https://www.appinn.com/tailscale-tailcat/",
           "author": "青小蛙",
           "description": "人类使用内网穿透工具需要稳定，AI Agent 使用内网穿透时，则需要快速、临时，即用即抛。 著名的组网工具 Tailscale 前阵子开源了一款类似 netcat 的工具：Tailcat。它不需要用户注册 Tailscale，也不用加入 Tailnet，只需一条命令，就能在两台设备之间建立一条临时",
@@ -210,16 +250,6 @@
           "wordCount": 2573,
           "title": "本周赛博领鸡蛋：9.25~10.1《阿斯特赖亚》《钢铁指挥官》《卡牌末日》",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-25T172423.344.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/ai-fill-your-box/",
-          "author": "青小蛙",
-          "description": "这个太有趣了！把一个空盒子发给你常用的 AI，然后对 AI 说：在盒子里装满能代表我的东西， 并用我最喜欢的颜色来设计它。 你就会得到一个装满你心爱之物的盒子，还有漂亮的颜色。 ​​​​ 这就是那个铁盒子： 来看看 @Akemi Homua 同学的盒子： 还有@陈少举同学的盒子： 要分享你的盒子么？",
-          "link": "https://www.appinn.com/ai-fill-your-box/",
-          "publishedOn": "2026-09-24T13:48:36.000Z",
-          "wordCount": 2517,
-          "title": "把一个空盒子发给 AI，它会用代表你的东西装满它",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-24T214449.232.jpg"
         }
       ]
     },
@@ -775,66 +805,6 @@
           "publishedOn": "2026-09-25T06:13:00.000Z",
           "wordCount": 184,
           "title": "F-Droid 2.0 发布",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85473",
-          "author": null,
-          "description": "发表在《自然》期刊上的一项研究结合基因组和化石证据，重建了蝙蝠长达 6500 万年的演化历史。最新研究推翻了此前蝙蝠起源于亚洲、非洲或北美的假说，蝙蝠最早起源于欧洲，之后进入非洲，然后向亚洲、美洲和澳大利亚扩散。澳大利亚昆士兰州东南部 Murgon 发现的蝙蝠化石 Australonycteris 距今已有 5500 万年，仅比欧洲的化石稍晚。蝙蝠是唯一能真正进行动力飞行的哺乳动物。大多数蝙蝠仅靠声音就能在漆黑的环境中辨别方向和捕食。全世界分布着逾 1500 个蝙蝠种类，占现存哺乳动物总数的五分之一，它们通过为植物授粉、传播种子以及捕食害虫，在维持生态系统健康上发挥着重要作用。研究还发现回声定位和飞行都是蝙蝠在早期演化出来的。",
-          "link": "https://www.solidot.org/story?sid=85473",
-          "publishedOn": "2026-09-24T15:49:33.000Z",
-          "wordCount": 167,
-          "title": "蝙蝠起源于欧洲",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85472",
-          "author": null,
-          "description": "本周二，部分三星智能冰箱在升级固件之后停止工作。受影响的是三星 Bespoke AI 系列冰箱，大部分是 2024 年或之后生产的四门冰箱。受影响的冰箱在尝试通过三星智能家居平台 SmartThings 进行固件更新后，突然断电并立即停止工作。随后 SmartThings 应用显示这些冰箱处于离线状态。用户抱怨他们不得不扔掉冰箱里的所有食物。韩国正处于中秋假期，三星客服告诉客户可能要到下个月维修人员才能上门维修。三星在一份声明中表示他们正致力于解决该问题，确保客户能过好中秋假期。",
-          "link": "https://www.solidot.org/story?sid=85472",
-          "publishedOn": "2026-09-24T12:51:49.000Z",
-          "wordCount": 166,
-          "title": "部分三星智能冰箱在升级固件之后停止工作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85471",
-          "author": null,
-          "description": "微软 CEO 纳德拉（Satya Nadella）关于 AI 的著名评论促使网民为微软起了 Microslop 的绰号，绰号的流行和随处可见促使微软今年早些时候在官方 Copilot Discord 服务器将其封禁，用户输入 Microslop 后会收到警告称根据服务器规定其输入包含了不合适的短语。但用户很快找到了应对之策，创造了无数 Microslop 的变体，比如用数字“0”代替字母“o”的“Microsl0p”。在猫与老鼠的文字游戏中，微软显然是失败的一方。半年之后，微软 Copilot Discord 频道被发现已经解除了对 Microslop 的封禁，搜索显示过去几周用户发布了数百则与 Microslop 相关的评论。",
-          "link": "https://www.solidot.org/story?sid=85471",
-          "publishedOn": "2026-09-24T10:47:28.000Z",
-          "wordCount": 184,
-          "title": "微软放弃封禁 Microslop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85470",
-          "author": null,
-          "description": "2025 年阿根廷的总和生育率为 1.05，2024 年为 1.23，而 2014 年的这一数字是 2.3，这意味着十年内阿根廷生育率下降五成。如此显著的生育率下降难以用一种原因去解释，这也不是特定国家的现象，全世界可能除了以色列外生育率都明显下降。地球的人口峰值预计会提前在 2050 年到来。",
-          "link": "https://www.solidot.org/story?sid=85470",
-          "publishedOn": "2026-09-24T10:09:11.000Z",
-          "wordCount": 167,
-          "title": "阿根廷生育率十年内下降五成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85469",
-          "author": null,
-          "description": "预印本平台 arXiv.org 于 7 月 1 日脱离康奈尔大学成立独立的非营利性组织。arXiv 诞生于 1991 年，创始人 Paul Ginsparg 在 2001 年加入了康奈尔大学，arXiv 网站随后由康奈尔大学图书馆接手。25 年后 arXiv 决定翻开新的篇章。arXiv 项目本周表示，Simons Foundation International、XTX Markets 和 Siegel Family Endowment 三家慈善机构承诺在 3-5 年内捐赠 1720 万美元。这笔慈善捐款将被用于 arXiv 的日常运营、持续改进、持续的技术开发、AI 生成内容的管理、非营利组织的建设等等。",
-          "link": "https://www.solidot.org/story?sid=85469",
-          "publishedOn": "2026-09-24T07:20:38.000Z",
-          "wordCount": 203,
-          "title": "arXiv 项目获得 1720 万美元的捐赠承诺",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85468",
-          "author": null,
-          "description": "台积电最新永续报告书显示，2025 年台厂区及采钰公司员工共迎来 2,331 名新生儿，占全台新生儿 2.2%。台积电员工的生育率约为全台的 2 倍。台积电的高生育率被认为与该公司薪资更高相关。台积电员工薪资中位数为 300 万台币，平均数为 400 万台币，四倍多余全台的薪资。研究显示收入与生育率呈现 U 型曲线，从贫穷进入小康阶段时，生育意愿下降，但从小康变得富有后，生育意愿又开始提高。这是因为生育成本会随着经济发展增加，薪资与房价让多数年轻人不敢生，但更富有的人能够负担生育成本，因此比较愿意生育。",
-          "link": "https://www.solidot.org/story?sid=85468",
-          "publishedOn": "2026-09-24T05:34:06.000Z",
-          "wordCount": 189,
-          "title": "2025 年全台每 46 名新生儿就有 1 个是台积电宝宝",
           "imageUrl": null
         }
       ]
