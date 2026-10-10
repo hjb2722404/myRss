@@ -12,6 +12,51 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/fsearch-for-macos/",
+          "author": "青小蛙",
+          "description": "云服务部署平台 Railway CES @Noah 发布了一款适用于 Mac 的全盘文件搜索工具 FSearch，宣称比 Finder 快 17000 倍。@Appinn 青小蛙刚看到的时候，差点闹了乌龙，Noah 是 Railway 的 CES（客户成功工程师 Customer Success E",
+          "link": "https://www.appinn.com/fsearch-for-macos/",
+          "publishedOn": "2026-10-10T07:00:26.000Z",
+          "wordCount": 3009,
+          "title": "比 Finder 快 17000 倍？开源 macOS 全盘文件搜索工具：FSearch",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-10T145201.079.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/iterm2-buddy-self-hosted-relay-server/",
+          "author": "青小蛙",
+          "description": "iTerm2 Buddy 是著名的开源 macOS 终端工具 iTerm2 发布的 iPhone 应用，它能在异地通过 iOS 连接回 macOS 上已经打开的 iTerm2 标签页，实时同步两端操作，效果大概是这个样子： 公共中继服务器 默认情况下，iTerm2 Buddy 使用 iTerm2 的",
+          "link": "https://www.appinn.com/iterm2-buddy-self-hosted-relay-server/",
+          "publishedOn": "2026-10-10T03:43:47.000Z",
+          "wordCount": 3751,
+          "title": "为 iTerm2 Buddy 自托管中继服务器，加速手机连接 Mac 终端速度",
+          "enclosure": {
+            "url": "https://static3cdn.appinn.com/images/2026/09/09092-ezgif.com-resize-video.webm",
+            "length": "680659",
+            "type": "video/webm"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-10T114111.832.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/eggs-26109/",
+          "author": "青小蛙",
+          "description": "本周赛博领鸡蛋 Epic 送出 3 款游戏：电脑端可领取《熊视眈眈 / Out of Sight》和《愿景之城 / TerraScape》，手机端可领取《大骗局 / The Big Con》，提供 Android 和 iOS 版本。 这周可以借泰迪熊的眼睛逃出阴森豪宅，在浮空岛上慢慢造城，也可以回到",
+          "link": "https://www.appinn.com/eggs-26109/",
+          "publishedOn": "2026-10-09T09:19:15.000Z",
+          "wordCount": 2612,
+          "title": "本周赛博领鸡蛋（10.9~10.15）：《熊视眈眈》《愿景之城》《大骗局》",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-09T170347.857.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/machinarium-2/",
+          "author": "青小蛙",
+          "description": "机器人 Josef 和 Berta 终于重聚了。 他们踏上了寻找新家的旅程，却意外发现一座隐藏的山谷。这里生活着两个机器人部落，但维持他们生存的能源正在逐渐耗尽。 这一次，Josef 和 Berta 需要一起冒险，利用各自的能力解开谜题，帮助山谷里的机器人。 时隔 17 年，那个熟悉的《机械迷城》终",
+          "link": "https://www.appinn.com/machinarium-2/",
+          "publishedOn": "2026-10-09T08:10:51.000Z",
+          "wordCount": 2583,
+          "title": "时隔17年，机械迷城2 终于来了！原班人马回归，Steam 页面已上线",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-09T160704.366.jpg"
+        },
+        {
           "id": "https://www.appinn.com/microsoft-365-family-onedrive-storage-cut-6tb-to-2tb/",
           "author": "青小蛙",
           "description": "省流：微软修改了 Microsoft 365 的 OneDrive 网盘存储规则。家庭版、高级版从原来的最多 6 人各享 1TB，改为全家共享 2TB；专业版改为共享 5TB。新用户从 2026 年 10 月 7 日起执行，老用户将在 2027 年陆续切换，其中家庭版、高级版在续订时生效。 微软在对",
@@ -210,36 +255,6 @@
           "wordCount": 3069,
           "title": "Windows 11 原生 Linux 容器正式发布，不再需要 Docker Desktop",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-01T175107.033.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/86box/",
-          "author": "青小蛙",
-          "description": "如何重新组一台 20 年前的老电脑？ 淘二手奔腾、赛扬、Voodoo？再去找老主板、老显卡和旧硬盘，这个难度可能超大。 不过，我们可以直接用 86Box 模拟就行。 86Box：硬件级 x86 模拟器 86Box 是一款硬件级 x86 模拟器，可以模拟从 1981 年 IBM PC 到后来采用 PC",
-          "link": "https://www.appinn.com/86box/",
-          "publishedOn": "2026-09-30T08:42:40.000Z",
-          "wordCount": 2627,
-          "title": "还记得奔腾、赛扬、Voodoo 吗？用 86Box 重新组一台老电脑｜硬件级 x86 模拟器",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-30T163623.717.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/windows-11-26h2-released-2-minute-upgrade/",
-          "author": "青小蛙",
-          "description": "微软正式推送了 Windows 11 26H2，和上一代 25H2 类似，这次“大版本号”升级依旧非常小、非常快。 对于已经运行 Windows 11 24H2 或 25H2，并且保持系统更新的电脑，升级 26H2 只需要安装一个很小的 Enablement Package（启用包）。这个启用包只有",
-          "link": "https://www.appinn.com/windows-11-26h2-released-2-minute-upgrade/",
-          "publishedOn": "2026-09-30T07:13:39.000Z",
-          "wordCount": 2707,
-          "title": "Windows 11 26H2 正式发布，174KB，2分钟完成升级",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/09/Copy-of-appinn-homework-2026-09-30T150450.033.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/windows%e8%87%aa%e7%94%a8%e8%bd%af%e4%bb%b6%e8%ae%b0%e5%bd%95%e5%88%86%e4%ba%ab-by-yingngao/",
-          "author": "青小蛙",
-          "description": "系统 Autoruns：启动项管理。这个的启动项最全，属于微软Sysinternals系列工具。 CrystalDiskInfo：硬盘信息。有温度，健康度，写入读取等一系列硬盘状态可以看到。 DM Disk Editor and Data Recovery Software：数据恢复，简称DMDE。",
-          "link": "https://meta.appinn.net/t/topic/92572",
-          "publishedOn": "2026-09-30T03:31:17.000Z",
-          "wordCount": 390,
-          "title": "Windows自用软件记录分享 by @yingngao",
-          "imageUrl": "https://meta-edge.appinn.com/uploads/default/original/2X/c/cbd4ea4a240cf3eb8809fb647da09ba01691f6b4.png"
         }
       ]
     },
@@ -269,16 +284,6 @@
           "wordCount": 1469,
           "title": "Document Picture-in-Picture API与任意元素画中画实现",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.zhangxinxu.com/wordpress/?p=12445",
-          "author": "张 鑫旭",
-          "description": "分享一个与滚动交互相关的渐进增强CSS新特性，可以用在地图、画布、大图查看器这类场景中。",
-          "link": "https://www.zhangxinxu.com/wordpress/2026/09/scroll-axis-lock-none/",
-          "publishedOn": "2026-09-30T09:05:03.000Z",
-          "wordCount": null,
-          "title": "一个视频彻底看懂CSS scroll-axis-lock none的作用",
-          "imageUrl": null
         }
       ]
     },
@@ -287,6 +292,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85570",
+          "author": null,
+          "description": "Cloudflare 收购了开源 JS 运行时项目 Deno，Deno 宣布该项目将停止开发，但会继续维护一年时间，期间会释出 bug 修复和安全更新，但不会有新功能，一年之后终止支持。它欢迎其他人接手该项目。使用 Deno 的一个知名项目是 YouTube 视频下载工具 yt-dlp，它是在 2025 年宣布选择 Deno 作为其 JavaScript 运行时，但随着 Deno 终止支持它可能需要再次选择新的运行时。",
+          "link": "https://www.solidot.org/story?sid=85570",
+          "publishedOn": "2026-10-10T06:01:12.000Z",
+          "wordCount": 316,
+          "title": "Cloudflare 收购 Deno，Deno 停止开发",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85568",
+          "author": null,
+          "description": "Let’s Encrypt 去年宣布到 2028 年将证书有效期从现在的 90 天缩短至 45 天。此举是为了遵守 Certification Authority Browser Forum (CA/Browser Forum)通过的缩短证书有效期决议。Let’s Encrypt 将分多个阶段逐步缩短至 45 天有限期，它宣布从 2027 年 2 月 10 日起签发的证书有效期缩短为 64 天，意味着自该日期起签发或续期的任何证书，其有效期都将为 64 天，最后一批 90 天有效期的证书预计将于 2027 年 5 月 11 日到期。在此期间 Let’s Encrypt 表示不会吊销有效证书。",
+          "link": "https://www.solidot.org/story?sid=85568",
+          "publishedOn": "2026-10-09T15:12:31.000Z",
+          "wordCount": 348,
+          "title": "Let's Encrypt 从 2027 年起切换到有效期为 64 天的证书",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85567",
+          "author": null,
+          "description": "国家气候中心表示，一次东部型超强厄尔尼诺事件已于今年 9 月正式形成。预计未来 3 个月，赤道中东太平洋海表温度将继续升高，在秋末冬初达到峰值，此次厄尔尼诺事件将成为有系统性监测以来最强厄尔尼诺事件。今年5月以来，赤道中东太平洋进入厄尔尼诺状态，关键监测区海温持续快速升高。这一区域海温指数的三个月滑动平均值已连续五个月超过 0.5℃，其中 7-9 月的平均值达 2.54℃，超过 2.5℃，达到超强事件标准。根据海温最强增暖中心位置，厄尔尼诺可分为两种形态——暖中心位于赤道东太平洋为东部型厄尔尼诺（传统型）；暖中心位于赤道中太平洋为中部型厄尔尼诺。厄尔尼诺通常会推高全球气温，并扰乱大范围地区的降雨格局，导致部分地区干旱，另一些地区则出现强降雨。",
+          "link": "https://www.solidot.org/story?sid=85567",
+          "publishedOn": "2026-10-09T14:59:11.000Z",
+          "wordCount": 293,
+          "title": "超强厄尔尼诺已经形成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85566",
+          "author": null,
+          "description": "如果你认为性别薪酬差距不存在，或者职场中没有性别偏见，那么最好重新思考下：根据爱尔兰 Limerick 大学研究人员展开的一项研究，在一个 VR 办公室里，基于相同的底层技术但形象不同的 AI 智能体，人类参与者愿意向男性形象的智能体支付的报酬比女性形象更高。参与研究的人类共有 189 人，他们与名叫 Johan 的男性形象智能体以及名叫 Johanna 的女性形象智能体共同工作。尽管底层技术相同，对于完成相同的工作，Johanna 得到的报酬比 Johan 低 10%。Johan 还被认为比 Johanna 更像人类。不过这项研究的实验数据被认为存在严重不足，可能不足以得出上述结论。",
+          "link": "https://www.solidot.org/story?sid=85566",
+          "publishedOn": "2026-10-09T14:52:34.000Z",
+          "wordCount": 312,
+          "title": "人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85565",
+          "author": null,
+          "description": "2026 年诺贝尔和平奖授予了南非女法官 Navi Pillay，以表彰她为促进和平和维护国际法所做出的努力，她在确保战争罪、危害人类罪和种族灭绝罪受到起诉上发挥了关键作用。Pillay 出生于南非德班，有印度泰米尔人血统，是首位获得哈佛大学法学博士学位的南非人，也是南非高等法院首位非白人法官，曾任国际刑事法院法官和卢旺达问题国际刑事法庭庭长。她于 2008 年—2014 年担任联合国人权事务高级专员，2021年—2025 年担任联合国巴勒斯坦被占领土问题独立国际调查委员会主席。",
+          "link": "https://www.solidot.org/story?sid=85565",
+          "publishedOn": "2026-10-09T10:58:53.000Z",
+          "wordCount": 301,
+          "title": "诺贝尔和平奖授予了南非女法官 Navi Pillay",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85563",
+          "author": null,
+          "description": "为什么大型犬往往比体型较小的犬寿命更短？根据一项针对 894 只狗所做的新研究，答案可能就写在它们的表观基因组中。这些发现表明，体型较大的狗和雄性狗会经历分子衰老过程加速，其表现为 X 染色体和转座元件（TEs）上会出现显著的 DNA 甲基化（DNAm）。研究人员从“犬类衰老项目”（Dog Aging Project）中的由 894 只狗组成的队列中生成了 1640 个甲基化组。他们将这些分子数据与详细的遗传和人口统计学数据进行了整合。研究人员发现，在狗生命的早期，分子衰老的速度最快。此外，体型较大的狗和雄性狗——这两类狗的寿命分别短于体型较小的狗和雌性狗——在分子层面上的衰老速度更快。研究结果表明，与性别相关的变化集中在 X 染色体上，而与体型相关的变化则在转座元件（TEs）中尤为突出，这些 DNA 片段可影响基因组的稳定性和基因调控。",
+          "link": "https://www.solidot.org/story?sid=85563",
+          "publishedOn": "2026-10-09T09:44:16.000Z",
+          "wordCount": 301,
+          "title": "为何大型犬衰老速度更快",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85562",
+          "author": null,
+          "description": "一名男子发现父母新购买的 Keurig 智能咖啡机在 10 天内产生 1TB 数据流量。这些流量并非是传输到外部的网络上行链路流量，而是内部局域网嗅探元数据的扫描流量。也就说智能咖啡机是在收集家庭内部的数据，以便于咖啡机制造商 Keurig 能将其出售给广告商。这名男子在发现咖啡机产生的网络流量超出预期之后切断了其联网，准备为父母更换一台咖啡机。",
+          "link": "https://www.solidot.org/story?sid=85562",
+          "publishedOn": "2026-10-09T09:35:48.000Z",
+          "wordCount": 308,
+          "title": "智能咖啡机 10 天内产生 1TB 数据流量",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85561",
+          "author": null,
+          "description": "在被黑客利用攻击韩国银行之后，ARTEX 开发者 Autumn-27 宣布该工具闭源，但整个软件库随后下架。Autumn-27 在一份公开声明中表示：“近期，注意到 ARTEX 工具被部分恶意行为者滥用，用于发起网络攻击。作为 ARTEX 的作者，我在此郑重声明：\n\n一、本次恶意攻击事件与工具作者无关。ARTEX 的设计初衷是出于学习与研究目的，旨在帮助企业、组织在获得授权的资产范围内进行安全风险测试，提升安全防护能力。\n\n二、该工具被恶意利用，完全违背了作者的初衷。对于任何未经授权、违反法律法规的使用行为，作者不承担任何责任，并予以强烈谴责。\n\n三、鉴于工具被滥用的现实情况，ARTEX 项目将不再更新，并转为闭源。后续不再对外发布任何版本或维护支持。\n\n感谢大家一直以来的关注与支持。也提醒每一位使用者：技术应当用于正途，请务必遵守法律法规，切勿以身试法。”",
+          "link": "https://www.solidot.org/story?sid=85561",
+          "publishedOn": "2026-10-09T08:23:00.000Z",
+          "wordCount": 311,
+          "title": "ARTEX 从 GitHub 下架",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85560",
+          "author": null,
+          "description": "SpaceX 负责 Starlink 业务的副总裁、同时兼任 xAI 业务总裁的高管 Michael Nicolls 本周在土耳其举行的国际宇航大会上呼吁卫星运营商加强数据共享。Starlink 在轨卫星星座超过 1.1 万颗，占到了所有在轨人造卫星总数的三分之二。该公司计划发射多达百万颗卫星，构建名为 Starmind 的新星座，打造太空数据中心。亚马逊也在构建自己的宽带卫星星座，中国的两大巨型卫星星座也在部署之中。地球轨道将会日益拥挤，卫星碰撞的风险在上升，而一旦发生碰撞，它们释放的大量碎片将会增加其它卫星碰撞的风险，从而造成恶性循环。Nicolls 声称，Starlink 卫星发生了多次与其它卫星近距离交会的事件，他呼吁其它卫星运营商公开星历（ephemeris）数据，加强彼此的协调。他指出，Starlink 卫星每天执行约 1,000 次防碰撞机动以避开其它卫星或太空碎片。过去几个月 Starlink 卫星已避开了来自其他运营商的约 650 颗卫星。在这 650 颗卫星中，只有半数来自与 SpaceX 共享轨道数据的运营商。",
+          "link": "https://www.solidot.org/story?sid=85560",
+          "publishedOn": "2026-10-09T08:14:08.000Z",
+          "wordCount": 314,
+          "title": "SpaceX 呼吁在轨卫星加强协调",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85559",
+          "author": null,
+          "description": "美光桃园工会宣布，经过 6 天投票及 10 月 6 日晚间开票，工会已取得罢工及设置罢工纠察线的权利。工会表示，领票名册共 2258 人，投票 2012 人，其中 1994 票同意、14 票不同意、4 张废票，投票率 89.1%；同意票占全体会员 88.3%，占实际投票人数约 99.1%。工会要求建立营业利益 15% 员工分润制度，并呼吁美光董事会正面回应四大诉求。工会指出，这次抗争的核心不只是奖金多寡，而是要求企业建立公平、透明的获利分享制度。工会主张，美光应设立以营业利益 15% 为基础的员工分润机制，让分配金额随公司获利调整。美光在台湾有两座工厂，除桃园工厂工会外，另一个台中工厂工会也在准备罢工，台中工会将于 10 月 22 日和资方再次协商，如果失败预计也将举行罢工投票。",
+          "link": "https://www.solidot.org/story?sid=85559",
+          "publishedOn": "2026-10-09T07:13:32.000Z",
+          "wordCount": 313,
+          "title": "美光台工厂工会获得罢工权，支持率 99%",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85558",
           "author": null,
@@ -586,126 +691,6 @@
           "wordCount": 169,
           "title": "猫与幸福感正相关",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85520",
-          "author": null,
-          "description": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱。Relapse 利用了 PS5 浏览器的一个已知的 WebKit 漏洞，提权获取内核的写入访问权限，安装 ELF 加载器去简化任意代码的运行。越狱后的 PS5 除了能备份游戏外还能运行模拟器以及 PS4 游戏的非官方 60 帧 MOD。",
-          "link": "https://www.solidot.org/story?sid=85520",
-          "publishedOn": "2026-09-30T17:01:06.000Z",
-          "wordCount": 192,
-          "title": "PS5 越狱取得突破",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85519",
-          "author": null,
-          "description": "中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及率超 50%。76.0%的 用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比分别为 47.8%、37.6% 和 32.5%。数据显示，38.7%的网民近半年在网上购买过智能硬件设备。其中可穿戴设备和3C数码产品是我国网民接触智能硬件设备的首要入口。购买过智能可穿戴设备的网民比例为 20.2%；购买智能手机、平板电脑等3C数码产品的网民比例为18.2%。报告称，深度求索、月之暗面等本土企业先后发布多个万亿级参数开源大模型，全球主流大模型调用榜单上排名前六的模型全部来自中国团队。",
-          "link": "https://www.solidot.org/story?sid=85519",
-          "publishedOn": "2026-09-30T15:18:19.000Z",
-          "wordCount": 190,
-          "title": "CNNIC 称中国生成式 AI 用户超 7 亿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85518",
-          "author": null,
-          "description": "新奥集团发表新闻稿，称其“玄龙-50U”装置实现氢硼聚变反应。新闻稿称：氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α粒子），但相对于氘氚聚变，反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子份额，实现了大于 10^8/秒的氢硼聚变反应率，表明新奥氢硼聚变迈入燃烧等离子体相关实验阶段，是中国多路径聚变能发展的重大突破。来自全球多个国家科研院所与知名高校的十余位聚变权威专家就本次实验成果召开专题论证会，一致认为：本次实验实现了球形环装置中质子能谱及氢硼聚变反应产物α粒子的有效、可重复测量，探测方法可靠，可支撑氢硼聚变反应验证，是球形环氢硼聚变创新探索实践的里程碑突破，对全球磁约束氢硼反应的科学研究具有重要价值贡献。",
-          "link": "https://www.solidot.org/story?sid=85518",
-          "publishedOn": "2026-09-30T15:01:13.000Z",
-          "wordCount": 159,
-          "title": "新奥声称实现氢硼聚变反应突破",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85517",
-          "author": null,
-          "description": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租两块电池，租期十年，每月费用为 55 美元。该州有超过 5,500 人参与了该家庭电池网络，半数家庭还安装了太阳能电池板。该项目目前提供约 110 MW 的电力，相当于一座中小型天然气发电厂的装机容量。美国其他州也有类似的电池储能网络。",
-          "link": "https://www.solidot.org/story?sid=85517",
-          "publishedOn": "2026-09-30T14:44:08.000Z",
-          "wordCount": 173,
-          "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85516",
-          "author": null,
-          "description": "文学家团队借助韦伯望远镜在距地球 500 光年的巨行星 HATS-6 b 大气中探测到水、甲烷、氨，同时发现这颗行星温度可能比标准推算温度低得多。这是透射光谱技术第二次在系外行星大气中检出水汽之外的氨信号。由于氨这类含氮分子在较冷的巨行星中本应比在炽热类木星行星中更为丰富，这一发现支持了一个判断：围绕 M 型矮星运行的行星可能在化学上构成独特群体。HATS-6 b 体积大致相当于木星，每 3 天绕一颗体积小的低温红矮星公转一周。按现有认识，小恒星周围的气体尘埃盘既缺乏足够物质，也缺乏足够时间积聚出木星、土星级别的行星。目前人类已在太阳系外发现 6000 多颗行星，多数与太阳系内行星毫无相似之处。团队表示，弄清它们由什么构成、怎样形成，是判断其他星系是否与太阳系有共同起源的前提。",
-          "link": "https://www.solidot.org/story?sid=85516",
-          "publishedOn": "2026-09-30T10:37:45.000Z",
-          "wordCount": 176,
-          "title": "500 光年外的一颗巨行星探测到水、甲烷和氨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85515",
-          "author": null,
-          "description": "微软宣布 WSL Containers GA，该工具为 Windows 11 开发者提供了一种通过 Windows Subsystem for Linux 构建、运行和部署 Linux 容器的内置方案。微软同时提供了容器管理工具 wslc.exe，GPU 支持、网络改进、健康检查、存储挂载、与 Microsoft Defender for Endpoint 和 Intune 的集成。微软还声称，当 Linux 环境访问存储在 Windows 中的文件时，性能最多可提升一倍。",
-          "link": "https://www.solidot.org/story?sid=85515",
-          "publishedOn": "2026-09-30T10:23:45.000Z",
-          "wordCount": 199,
-          "title": "Windows 11 原生支持 Linux 容器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85514",
-          "author": null,
-          "description": "日本人的身高在 1896～1996 年的 100 年间，男性增长约 14.6 厘米，女性增长了约 16 厘米。但 1990 年代之后升高增长日益乏力，相比下中韩平均身高则在快速增长。2019 年日本 19 岁男性平均身高约 172.1 厘米，女性约 158.5 厘米。韩国男性为 175.5 厘米，女性为 163.2 厘米，中国男性为 175.7 厘米，女性为 163.5 厘米。日本人口身高增长停滞有三种解释：其一是能量摄入减少，日本人均每日能量摄入量在 1995 年至 2023 年间缓慢下降并趋于停滞，中国和韩国的能量摄入则比日本高出约 760-800 千卡。其二是能量摄入问题可能对正在怀孕的女性产生影响，日本每 10 名新生儿中就有 1 人出生体重不足 2500 克，高于中韩。其三可能与婴幼儿时期的睡眠时长相关，日本婴儿（11.62 小时）显著低于中国（12.49小时）和韩国（11.9小时）。",
-          "link": "https://www.solidot.org/story?sid=85514",
-          "publishedOn": "2026-09-30T07:56:25.000Z",
-          "wordCount": 195,
-          "title": "日本人身高增长停滞",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85513",
-          "author": null,
-          "description": "日本总务省公布的 2025 年人口普查确定值显示，截至 2025 年 10 月 1 日，包含外国人在内的日本总人口为 122,972,528 人，较 2020 年的上次调查减少 3,173,571 人，降幅为 2.5%。自 2015 年的调查起连续3次负增长。65 岁以上人口在总人口中的占比（老龄化率）为 29.4%，创历史新高。较上次调查上升 0.9 个百分点。总人口中的日本人减少 3.5% 至 119,131,935 人，自 2010 年的调查起连续 4 次减少。居住在日本国内的外国人增加 39.8% 至 3,840,039 人，创历史新高。从国籍来看，越南和尼泊尔增幅显著。日本整体的家庭数量比上一次 2020 年调查增加了 149 万 4465 户，达到 5732 万 4619 户，创出有可比数据以来的新高。每户平均人数降至 2.10 人，降至最低水平。一人家庭达到 2368 万 9024 户，增加了 253 万 7982 户。其中增长最多的是 65 岁以上的老年人，占一人家庭总数的 34.4%。一人家庭中，男性有 24.6% 为 65 岁以上，女性有 44.7% 为 65 岁以上。一人家庭的比例达到 41.4%，首次超过4成。",
-          "link": "https://www.solidot.org/story?sid=85513",
-          "publishedOn": "2026-09-30T07:43:29.000Z",
-          "wordCount": 241,
-          "title": "日本老龄化达到 29.4%， 一人家庭比例首次超过 4 成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85512",
-          "author": null,
-          "description": "世界正日益城市化，夜空的亮度每年都在增加10%。全球八成的人口生活在受光污染影响的夜空之下，真正的黑暗日益稀缺，对大部分人而言正变得遥不可及。享受黑暗的意义不止于观星。黑夜本身就是一个独特的生态环境。人造光会干扰依靠月光导航的动物：无论是误将停车场当成大海而迷途的幼龟，还是绕着灯泡团团转的飞蛾，都深受其害。萤火虫和青​​蛙需要黑暗环境完成求偶仪式；候鸟常因大城市的强光照射而偏离迁徙路线。研究表明，光污染正在破坏植物与授粉昆虫之间的关系，改变树木的开花时节，扰乱包括人类在内的所有生物的昼夜节律。无论是室内的灯光，还是夜间透过窗户射入的光线，研究都证实我们需要黑暗环境休息、恢复体力和保持健康。大多数光污染源自彻夜长明的路灯、建筑物、停车场和运动场，但来自天空本身的光污染威胁也日益增加。地球轨道上的卫星越来越多。",
-          "link": "https://www.solidot.org/story?sid=85512",
-          "publishedOn": "2026-09-30T07:27:07.000Z",
-          "wordCount": 161,
-          "title": "夜空每年增亮 10%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85511",
-          "author": null,
-          "description": "FBI 与荷兰合作逮捕了疑似 ShinyHunters 组织领导成员、24 岁的 Pepijn van der Stap。他是在  9 月 16 日左右被捕的，发生在 ShinyHunters 入侵 FBI 招聘网站 apply.fbijobs.gov 纂改网页窃取逾 2TB 雇员数据之前——有一种解释是 ShinyHunters 组织的领导者换人了，该组织在新领导人的管理下变得更激进，并试图将入侵 FBI 的行动嫁祸给被捕的 van der Stap。van der Stap 曾使用化名 Umbreon，其头像就是宝可梦 Umbreon。入侵 FBI 的 ShinyHunters 黑客在纂改网页时植入了宝可梦 Umbreon 的  ASCII 艺术图。接管 ShinyHunters 的据称是约旦的少年黑客 Rey。",
-          "link": "https://www.solidot.org/story?sid=85511",
-          "publishedOn": "2026-09-30T06:52:45.000Z",
-          "wordCount": 213,
-          "title": "FBI 与荷兰合作逮捕 ShinyHunters 组织领导成员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85510",
-          "author": null,
-          "description": "据清华大学经济管理学院官方微信公号称，今年清华经管学院顾问委员会新增委员三人，新增接任委员五人。三位新增委员分别是黄仁勋、苏姿丰，以及瑞士百达集团高级管理合伙人百达铭（Marc Pictet）。五位新增接任委员分别是宝马集团董事长聂科维（Milan Nedeljković）、沃尔玛公司总裁兼首席执行官方威翰（John Furner）、可口可乐公司首席执行官柏瑞凯（Henrique Braun）、泛大西洋资本集团联席总裁、全球成长型股权投资负责人马丁·埃斯科瓦里（Martín Escobari），以及bp集团首席执行官梅格·奥尼尔（Meg O’Neill）。清华经管学院称，这五位接任委员所在公司的前任都曾是学院顾问委员会委员，因工作变动不再担任。清华经管学院现任顾问委员会主席为苹果董事会主席库克。马斯克（Elon Musk）、扎克伯格（Mark Zuckerberg）以及微软 CEO 纳德拉(Satya Nadella)都是委员。",
-          "link": "https://www.solidot.org/story?sid=85510",
-          "publishedOn": "2026-09-30T06:08:21.000Z",
-          "wordCount": 180,
-          "title": "AMD CEO 苏姿丰成为清华经管学院顾问委员会委员",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85509",
-          "author": null,
-          "description": "加州州长 Gavin Newsom 签署了 AB 2409 法案，禁止加州公职人员发行模因币（memecoin），也禁止企业使用公职人员的肖像或形象发行模因币。这项新法规的背景是美国总统特朗普及第一夫人在正式上任前夕发行了自己的模因币，据报道百万购买特朗普模因币的投资者损失了 38 亿美元——模因币的币值与热度密切相关，因此币值波动巨大，最知名的模因币是狗币（Dogecoin）。Newsom 表示：“任何公职人员都不应利用其职位牟利——我们正在实施更强有力的保护措施，以确保此类事件不会在本州发生。”",
-          "link": "https://www.solidot.org/story?sid=85509",
-          "publishedOn": "2026-09-30T06:03:50.000Z",
-          "wordCount": 167,
-          "title": "加州禁止公职人员发行模因币",
-          "imageUrl": null
         }
       ]
     },
@@ -713,18 +698,7 @@
       "title": "Human Who Codes",
       "feedUrl": "https://humanwhocodes.com/feeds/blog.xml",
       "siteUrl": "https://humanwhocodes.com",
-      "articles": [
-        {
-          "id": "https://humanwhocodes.com/blog/2026/09/introducing-pr-comment-inbox/",
-          "author": "Nicholas C. Zakas",
-          "description": "PR Comment Inbox helps authors track and respond to every conversation in a busy GitHub pull request.",
-          "link": "https://humanwhocodes.com/blog/2026/09/introducing-pr-comment-inbox/",
-          "publishedOn": "2026-09-30T00:00:00.000Z",
-          "wordCount": 1096,
-          "title": "Introducing PR Comment Inbox",
-          "imageUrl": "https://humanwhocodes.com/_astro/pr-comment-inbox.D9Hz8Tpw_ZuNAw1.jpeg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "宁南山 - 知乎动态",
