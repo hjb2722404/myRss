@@ -12,6 +12,46 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/strata-macos-35b-model/",
+          "author": "青小蛙",
+          "description": "之前，小众软件介绍过 Strata，一款可以让家用普通显卡运行本地 AI 大模型的本地推理工具，此前主要是 125B 大小的 Qwen3.8-Flash-Next，激活参数 6B。@Appinn 最近 Strata 连续更新，不仅开始支持 Apple Silicon Mac，还新增了体积更小的 Qw",
+          "link": "https://www.appinn.com/strata-macos-35b-model/",
+          "publishedOn": "2026-10-16T03:31:28.000Z",
+          "wordCount": 3099,
+          "title": "Strata 现已支持 macOS，还能运行更轻量的 Qwen3.6-35B-A3B 大模型了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Strata-AI-.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/iterm2-simplified-chinese/",
+          "author": "青小蛙",
+          "description": "著名的 macOS 开源终端应用 iTerm2 迎来了一次重要更新：在 2026 年 10 月 14 日发布的 3.7.5 正式版中，首次加入多语言界面支持，包括简体中文、日语、德语、俄语和巴西葡萄牙语。@Appinn 在上线 24 年之后，iTerm2 终于再次支持简体中文界面了。 对于一款拥有",
+          "link": "https://www.appinn.com/iterm2-simplified-chinese/",
+          "publishedOn": "2026-10-15T10:22:01.000Z",
+          "wordCount": 2975,
+          "title": "24 年历史的著名 Mac 终端 iTerm2，终于迎来了简体中文界面",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-15T172648.853.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/opencode-free-deepseek-v4-1-flash/",
+          "author": "青小蛙",
+          "description": "OpenCode 在 X 上宣布，现在开始免费提供 DeepSeek V4.1 Flash 模型： 更新你的 OpenCode 程序，然后输入 /model 切换模型，就可以找到 DeepSeek V4.1 Flash 了： 不过只有 200KB 上下文： 但，比没有强啊。 OpenCode 安装方",
+          "link": "https://www.appinn.com/opencode-free-deepseek-v4-1-flash/",
+          "publishedOn": "2026-10-15T09:48:58.000Z",
+          "wordCount": 2839,
+          "title": "OpenCode 免费提供 DeepSeek V4.1 Flash 模型",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/DeepSeek-.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/silo-s3-2026-10-15/",
+          "author": "青小蛙",
+          "description": "此前青小蛙介绍过 PGSTY Silo：源自 MinIO Fork，只改一行，无缝替代 MinIO。Silo 是由 Pigsty 团队维护的 MinIO 开源分支，保留了 S3 API、原有数据格式和完整的 Web 管理界面。 今天（2026 年 10 月 15 日），Silo 发布新的正式版本 R",
+          "link": "https://www.appinn.com/silo-s3-2026-10-15/",
+          "publishedOn": "2026-10-15T08:24:25.000Z",
+          "wordCount": 2696,
+          "title": "MinIO 替代者 Silo 发布第一个正式的 S3 服务器版本，以及2026年10月重要安全更新",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-15T161341.901.jpg"
+        },
+        {
           "id": "https://www.appinn.com/listary-v7-1/",
           "author": "青小蛙",
           "description": "以下内容来自小众软件论坛发现频道：https://meta.appinn.net/t/topic/93563 所有老的 Pro 付费用户，都可以终身升级。另外，有免费版本，也够用。 如果有 Pro 需要，可以通过青小蛙的链接前往购买： 大家好，我是 Listary 开发团队的 xinyi，最近我们用",
@@ -205,16 +245,6 @@
           "wordCount": 2459,
           "title": "example.com 改版了，中文排第一，全世界都在说中国话",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-07T145731.435.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/windows-11-tilde-user-folder/",
-          "author": "青小蛙",
-          "description": "如果你用过 Linux 或 macOS，肯定见过 ~，只需要在终端中输入 ~/Downloads 就代表着当前用户的下载目录。 好处是方便，非常方便。 不需要去输入完整的路径，也不需要去考虑当前用户名是什么。 比如用户名为 Appinn，那么 ~ 分别代表： 所以无论用户名是什么，都可以直接用： 进",
-          "link": "https://www.appinn.com/windows-11-tilde-user-folder/",
-          "publishedOn": "2026-10-06T07:51:12.000Z",
-          "wordCount": 2934,
-          "title": "Windows 11 终于认识波浪线 ~ 了：和 Linux、macoS 一样直达用户目录",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-06T154527.122.jpg"
         }
       ]
     },
@@ -262,6 +292,106 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85627",
+          "author": null,
+          "description": "通过研究对 50 种鸟和蝙蝠的跨越 17 年的观测数据，研究人员提出的见解挑战了传统观点——即飞行具有可预测的能量成本，且总是高于游泳或休息等其他移动方式的成本。这项新研究表明，鸟类和蝙蝠可以利用风力和上升气流来大幅减少飞行所需的能量。研究人员测量了真实条件下的有效运输成本——即飞行动物移动给定距离所消耗的能量，分析了 50 种鸟和蝙蝠的数据，这些物种的体型跨越了三个数量级（从约 12 克到超过 11 公斤）；研究使用了来自 850 只动物的历时 17 年的高分辨率 GPS 和加速度传感器测量数据，并辅以针对小型物种的雷达观测数据。研究结果表明，动物在野外飞行时的能量成本在很大程度上取决于它们如何与大气相互作用。翱翔的鸟类（尤其是体型较大的物种）可利用上升气流和其他大气气流来大幅降低能量消耗。在某些情况下，这种方式能使飞行成本降至与游泳甚至静息状态相当的水平。相比之下，频繁扇动翅膀鸟类的飞行成本通常更接近实验室预测值，且会因风况不同而出现较大波动。",
+          "link": "https://www.solidot.org/story?sid=85627",
+          "publishedOn": "2026-10-16T06:11:53.000Z",
+          "wordCount": 301,
+          "title": "动物飞行的能量成本受大气条件影响",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85626",
+          "author": null,
+          "description": "国际计量局在法国凡尔赛召开会议，多数成员国投票支持一项《关于确保“协调世界时”（UTC）连续性所需的技术措施》的决议，这意味着使用了半个多世纪的闰秒将被取消。根据决议，取消闰秒的举措将于 2027 年 5 月 20 日（世界计量日）生效。此前，在国际计量局 2022 年举行的会议上，成员国投票通过一项决议，呼吁制定不晚于 2035 年逐步取消闰秒的计划。决议还建议用闰时取代闰秒，即等到“原子时”（TAI）和“世界时”（UT）的时刻相差 3600 秒（即1小时）时，再进行调整。闰秒因为需要频繁更改而会导致数字系统发生混乱，闰时则需要 3000 多年才会修改一次。",
+          "link": "https://www.solidot.org/story?sid=85626",
+          "publishedOn": "2026-10-16T04:08:53.000Z",
+          "wordCount": 300,
+          "title": "国际计量局通过决议用闰时取代闰秒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85625",
+          "author": null,
+          "description": "美国银行（Bank of America）CEO Brian Moynihan 透露该公司雇佣了千名合同工帮助修复 Anthropic Mythos 等 AI 工具发现的软件漏洞。他表示：“我们在第二季度聘请了 1000 名合同工协助进行修复工作。除了原本负责该领域的 3000 名员外，这些合同工至今仍留在公司内，继续提供协助。”他向分析师透露，美国银行第三季度在软件修复以及与反洗钱合规相关的监管问题上投入了数亿美元以上的资金。这是美国大型企业首次披露其为保护软件系统免受 Mythos 影响所投入的人力和资金规模。",
+          "link": "https://www.solidot.org/story?sid=85625",
+          "publishedOn": "2026-10-15T16:03:23.000Z",
+          "wordCount": 308,
+          "title": "美国银行雇佣千名合同工修复 AI 工具发现的软件漏洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85624",
+          "author": null,
+          "description": "加拿大多伦多大学公民实验室发表研究报告，以色列公司 Discover-Tech 通过数字广告在半岛电视台的内部设备上安装了间谍软件。这是首次利用数字广告实施的零点击间谍软件攻击。Discover-Tech 运营着名为 Controlium 的平台，它表面上是一家合法的广告公司，但实际上是以色列间谍软件供应商的合作伙伴。Controlium 能在广告加载的瞬间，对设备进行去匿名化处理、提取设备指纹，自动植入恶意软件。对 Discover-Tech 四十亿条竞价记录的分析显示，在四个月时间里，该公司的广告出现在数十个国家、近 20 万个不同的网站及 Android/iOS 应用中。公民实验室称，名为 DARK CARTOGRAPHER 的组织正利用 Discover-Tech 的基础设施，通过挖掘多家移动运营商系统中的漏洞，将设备的广告标识符与电话号码进行关联，对互联网用户实施大规模的去匿名化。Google 等已采取行动，切断了 Discover-Tech 接入数字广告生态系统的渠道。",
+          "link": "https://www.solidot.org/story?sid=85624",
+          "publishedOn": "2026-10-15T15:46:28.000Z",
+          "wordCount": 304,
+          "title": "以色列公司通过数字广告安装零点击间谍软件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85623",
+          "author": null,
+          "description": "Canonical 释出了代号为 Stonking Stingray 的 Ubuntu 26.10，这是一个短期支持版本，仅支持九个月。Ubuntu 26.10 的主要变化包括：用 Rust 语言开发的版本替代了 C 语言开发的系统组件，后量子密码学软件包签名，扩展对基于 TPM 的全盘加密支持，企业级身份验证与 Microsoft Entra ID 的更深度集成，Linux kernel 7.3，新 RISC-V 桌面镜像，GNOME 51 桌面环境，可选启用的本地处理语音转文字方案 Myna，等等。",
+          "link": "https://www.solidot.org/story?sid=85623",
+          "publishedOn": "2026-10-15T14:54:47.000Z",
+          "wordCount": 317,
+          "title": "Ubuntu 26.10 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85622",
+          "author": null,
+          "description": "代表美国科技巨头亚马逊、Google 和 Meta 的行业组织 CCIA Europe 委托进行的一项研究声称，欧洲如果推行数据主权法案 Cloud and AI Development Act（CADA） 会在十年内带来 1150 亿欧元的成本，是欧盟委员会预估的最高值的六倍多。其中 800 亿欧元的成本是假设数字主权法扩大至私营部门关键服务四分之一的云工作负载。报告特别针对了 CADA 中的第 31 条，称其可能允许欧盟委员会将数字主权要求扩大到私营部门的关键服务领域。CCIA 认为强迫企业放弃现有的云基础设施，可能会引发昂贵的软件重开发，其中代码重写和架构重构占预计成本的 69%。",
+          "link": "https://www.solidot.org/story?sid=85622",
+          "publishedOn": "2026-10-15T14:29:46.000Z",
+          "wordCount": 306,
+          "title": "美国科技巨头警告欧洲推行数据主权将带来逾千亿欧元的成本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85621",
+          "author": null,
+          "description": "Google 现在会自动验证用户的手机号码，将其关联至用户 Android 设备上登录的所有 Google 账户，全程不会弹出明显确认提示。该功能在 Google 设置中被称为电话号码验证(Phone number verification)，会将用户当前使用的手机号码关联至同一台设备上登录的所有 Google 账户——无论是辅助账户、工作账户，还是其它临时账户。用户通过社交媒体报告收到了 noreply-phone-verification@google.com 的确认邮件，通知其手机号码已通过验证。调查显示，Google 支持页面于 2025 年 8 月至 10 月间进行了更新，默认启用电话号码的验证功能。用户可通过：设置——Google 或 Google 服务与偏好设置——所有服务——隐私与安全——电话号码验证，关闭该自动电话验证功能。",
+          "link": "https://www.solidot.org/story?sid=85621",
+          "publishedOn": "2026-10-15T09:45:14.000Z",
+          "wordCount": 311,
+          "title": "Google 悄悄关联手机号码和所有用户登录账号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85620",
+          "author": null,
+          "description": "多项调查数据显示，美国人的社交活动过去三十年大幅减少。American Time Use Survey 的调查数据显示，相比二十年前，美国人独处的时间更多，与朋友相处的时间更少。American Perspectives Survey 的调查发现，有五个或更多密友的美国人比例下降了 25 个百分点，从 63% 降至 38%。Data for Progress 的调查发现，从 1995 年到 2026 年，美国人参与各项关键社交活动的比例出现了显著下降，降幅均达到两位数：去上课或参加研讨会（-22）、在家招待客人（-21）、去教堂或其它宗教场所（-20）、外出野餐（-19）、参加社团聚会（-19）、打牌（-19）、去餐馆吃早餐（-13）以及从事志愿服务（-12）。与此同时使用互联网（+90）、在家玩游戏（+22）、参加健身课程（+14）、音乐会（+13），因个人原因乘飞机出行（+5）。",
+          "link": "https://www.solidot.org/story?sid=85620",
+          "publishedOn": "2026-10-15T07:45:54.000Z",
+          "wordCount": 303,
+          "title": "美国人社交活动过去三十年大幅减少",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85619",
+          "author": null,
+          "description": "科学家利用南非 MeerKAT 射电望远镜和韦伯望远镜，捕获并定位了迄今最远的快速射电暴 FRB 20240304B，其源头位于大爆炸后约 30 亿年的星系。该信号在宇宙中走了 100 多亿年，距离是此前 FRB 纪录的两倍多。快速射电暴（FRB）从第一次被发现以来，一直令天文学家困惑不解。该现象是持续时间数毫秒、来自银河系外的射电脉冲，其物理起源神秘，却能量极大。尽管付出了很多努力，科学家也一直在发展相关理论，但迄今仍未完全厘清 FRB 的来源。目前磁星是部分来源的候选者。此次快速射电暴只持续几毫秒，同样释放巨大能量。2024 年 3 月 4 日，MeerTRAP 项目用 MeerKAT 先抓到爆发，天文学家再用韦伯近红外相机和光谱仪找它“老家”。光谱给出红移约 2.148，这对应宇宙还很年轻的时候，以往地面大望远镜看不到这个宿主，因为它又小又暗，但韦伯的红外能力可以把它锁定。确定位置后，天文学家发现宿主不像多数 FRB 所在的成熟大星系，而是一个低质量、贫金属、正在猛造恒星的矮星系。这类环境年轻、造星活跃，更支持“磁星起源”：大质量恒星变成超新星后留下强磁场中子星，短时间内就能产生爆发。",
+          "link": "https://www.solidot.org/story?sid=85619",
+          "publishedOn": "2026-10-15T07:11:57.000Z",
+          "wordCount": 308,
+          "title": "科学家探测到最遥远快速射电暴",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85618",
+          "author": null,
+          "description": "珊瑚白化是指温暖海水带来的热应激导致珊瑚排出与其共生的甲藻；这是全球珊瑚礁衰退的一个主要原因。研究人员如今证明，健康珊瑚与白化珊瑚之间的短暂物理接触可将藻类重新引入白化珊瑚，使其完全恢复。仅需一周——有时甚至短至三天——就足以触发这一转变。藻类的转移是通过珊瑚之间的组织融合实现的；因此该方法仅对来自相同基因背景（或基因型）的珊瑚有效。研究人员发现，在相同基因型和混合基因型的配对中，共生藻都会在接触时通过珊瑚虫的摄取发生转移；他们指出，下一步的工作是观察这些基于接触的恢复策略能否在野外应用于自然珊瑚礁这样的规模。",
+          "link": "https://www.solidot.org/story?sid=85618",
+          "publishedOn": "2026-10-15T06:48:40.000Z",
+          "wordCount": 285,
+          "title": "白化珊瑚可通过接触健康珊瑚在数周内恢复健康",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85617",
           "author": null,
@@ -940,36 +1070,6 @@
           "publishedOn": "2026-10-07T11:22:52.000Z",
           "wordCount": 172,
           "title": "2026 年诺贝尔化学奖授予了日法科学家",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85542",
-          "author": null,
-          "description": "Anthropic 举报了一名佛罗里达女子，原因是这名女子在与 Claude 聊天中威胁要枪击 Lee 县警长办公室，并在后续聊天中提及自己正在搞一把新枪。该女子在家中被捕，法庭记录显示她于 9 月 30 日受到了一项重罪指控。逮捕报告显示，Anthropic 会监控聊天内容，查找可能被视为有威胁性的关键词句，根据威胁程度相关内容可能会被提交给人工进行审核。在本案中，审核团队决定将发现的情况报告给执法部门。她的罪名是通过书面或电子形式发出大规模枪击或恐怖主义行动的威胁。",
-          "link": "https://www.solidot.org/story?sid=85542",
-          "publishedOn": "2026-10-06T14:11:47.000Z",
-          "wordCount": 179,
-          "title": "Anthropic 举报了与 Claude 聊天中发出威胁的佛罗里达女子",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85541",
-          "author": null,
-          "description": "2026 年诺贝尔物理奖授予了美国科学家 Francis Halzen，以表彰其“对冰立方中微子天文台的决定性贡献以及发现具有天体物理起源的高能中微子”。中微子无处不在，它们径直穿过地球，穿过人体，而我们毫无察觉。极少数情况下，一个中微子会与一个原子核发生相互作用，这使得拥有合适设备的人有可能发现它们。Francis Halzen 于 1988 年首次提出了在南极捕获中微子的构想。当中微子与原子核碰撞时，会产生一闪光，这种光可以被清澈冰川冰中的传感器追踪到。南极的冰具有许多优势，因为它不受各种干扰的影响，而且该地区地质稳定，没有地震。他的想法很快得到了其他研究人员的支持，仅仅几年后，就在冰中的传感器上进行了初步测试。冰立方中微子天文台覆盖了整整一立方公里，于 2011 年完工。研究人员很快发现了第一批高能中微子，寻找宇宙中微子来源的工作由此可以正式开始了。",
-          "link": "https://www.solidot.org/story?sid=85541",
-          "publishedOn": "2026-10-06T13:52:24.000Z",
-          "wordCount": 180,
-          "title": "2026 年诺贝尔物理奖授予了冰立方中微子天文台提出者 Francis Halzen",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85540",
-          "author": null,
-          "description": "在引发广泛关注之后，俄罗斯证实一名女研究员因感染肺鼠疫死亡，否认有其他人感染。俄罗斯称，在西伯利亚和远东地区抗鼠疫科学研究所工作的 28 岁女死者希皮洛娃（Darya Shipilova），是因为意外打破试管而被流出的肺鼠疫（pneumonic plague）感染。曾跟她接触的人接受检验，发现两人感染冠病，两人感染鼻病毒（rhinovirus），但并未发现有人染上肺鼠疫或其他疫病。研究所所在的伊尔库茨克（Irkutsk）州州长科布泽夫(Igor Kobzev) 则发表声明称，希皮洛娃是死于“未能确认病因的肺炎”，而研究所员工过后几天也未出现新的感染病例。鼠疫为细菌感染疾病，可通过几种方式传播，其中以肺鼠疫的传染力最大，也是唯一可经由呼吸道迅速人传人的病种。若迅速检测证实感染，可使用抗生素治疗，但如果不获治疗，则可在一至六天内致命。",
-          "link": "https://www.solidot.org/story?sid=85540",
-          "publishedOn": "2026-10-06T13:36:41.000Z",
-          "wordCount": 164,
-          "title": "俄罗斯女研究员因感染肺鼠疫死亡",
           "imageUrl": null
         }
       ]
