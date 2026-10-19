@@ -2,10 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-10-18T06:56:31.397Z</updated>
+    <updated>2026-10-19T07:17:25.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SonicBoom发布：AI框架告别手工调优]]></title>
+        <id>https://www.solidot.org/story?sid=85645</id>
+        <link href="https://www.solidot.org/story?sid=85645"/>
+        <updated>2026-10-19T06:37:25.000Z</updated>
+        <summary type="html"><![CDATA[Nala Ginrut 写道：
+
+SonicBoom是全新的AI运行时框架[0]，采用 GPLv3 许可证，由 HardenedLinux 社区主导开发。它提供语言无关的C API接口，这意味着你可以用任意语言绑定这个库，从而实现任何编程语言都能进行高性能AI研发。目前 GNU Guile 是官方支持的语言，同时利用 Guile 的 delimited continuation 实现了应用层的“死计算消除”，只有真正有效的计算才会进入运行时。
+
+而运行时包含 LLVM MLIR，它将会把计算图再次优化，进一步去掉无效的计算图，并利用 LLVM 根据硬件具体生成 kernel，而不是手工根据硬件去优化 kernel。
+
+对于 AI 研究而言，应用层绑定的动态语言将提供 pytorch 的灵活性，以及超越 llama.cpp 的单点推理性能。其实际运行的时候会自动将计算图进行编译优化，这样同时实现了 pytorch 的动态图弹性，以及 tensorflow 的静态图性能。
+
+对于推理部署而言，无需应用层动态语言的支持，可以直接加载模型进行高效推理。但研究和生产部署使用的是完全相同的运行时图编译器优化栈，这意味着你研发完就能直接部署到产品。部署成本压缩到一个三百多MB的 .so 文件。没有几十个G的 python 全家桶。
+
+llama.cpp 依靠非常有经验的工程师进行 kernel 调优，已经将性能优化到极致。而 SonicBoom 直接利用 llama.cpp 已有的 kernel，在 kernel 优化不变的情况下，依靠图编译器的优化，将原始性能提升20%（rtx3050 8G)，并且还在持续增加中。
+
+目前 SonicBoom 社区版仅提供单点推理的能力，分布式推理能力计划于企业版提供。SonicBoom 的野心并不局限于 LLM 推理，它对标 pytorch，将在之后将更高的性能推向 image, video, tts 计算。
+
+目前 SonicBoom 仅支持 CPI 和 CUDA，之后计划支持 Vulkan，为 non-nvidia 和纯自由软件爱好者提供更好的选择。我们目前缺乏足够多样的 GPU 评测数据用于优化，所以在 rtx 3050 之外可能测试数据会发生波动，您的评测数据能帮助我们把优化扩散到更多 GPU。
+
+目前 v0.0.3 正在邀请社区贡献者参与不同 Nvidia 平台的评测，我们准备了非常简单那的脚本一行就能完成，不过测试时间可能比较长，请安排好自己的时间再参与，每位测评贡献者都会出现在贡献者名单中。[1]
+
+如果您暂时没有硬件条件或者时间参与贡献，欢迎star，或者转发让更多有兴趣的朋友一起来玩。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 释出]]></title>
+        <id>https://www.solidot.org/story?sid=85644</id>
+        <link href="https://www.solidot.org/story?sid=85644"/>
+        <updated>2026-10-19T06:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.3。新版本包含了来自 3,021 名开发者的 18,765 个 non-merge commits，其中 807 人是首次参与内核开发。主要更新包括：扩展 binfmt_misc 格式注册；旨在提升大型系统性能的组调度优化，使所有操作均返回失败的 failfs 文件系统，fchroot() 系统调用，sched_ext 子调度器功能的完善，虚拟机工作集追踪，ntfs3 文件系统备用数据流支持，等等。更多可浏览 KernelNewbies 7.3。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发现频道：10款大家发现的好评软件[2026年第42期]]]></title>
+        <id>https://www.appinn.com/faxian-top10-2642/</id>
+        <link href="https://www.appinn.com/faxian-top10-2642/"/>
+        <updated>2026-10-19T01:00:33.000Z</updated>
+        <summary type="html"><![CDATA[最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【开发者自荐】Listary V7.1 发布： 8 年来最大一次更新，最快最丝滑的搜索工具它来啦 2️⃣ 自荐一个为自用而生的安卓漫画阅读器：漫读 1.5 3️⃣ 【开源自荐】屏译：开源 Andro]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[指纹显示秦始皇兵马俑的制作者有男有女有儿童]]></title>
+        <id>https://www.solidot.org/story?sid=85643</id>
+        <link href="https://www.solidot.org/story?sid=85643"/>
+        <updated>2026-10-18T15:14:58.000Z</updated>
+        <summary type="html"><![CDATA[考古学家长期以来认为秦始皇兵马俑全是由成年男性工匠制作的。但俑上的指纹显示，男性、女性甚至儿童都参与了这项宏大工程。秦始皇帝陵博物院的考古学家从同一发掘坑内的 36 尊兵马俑上提取出 91 枚指纹，其中 12  枚指纹被认为是个别人留下的重复指纹而剔除。研究人员分析了剩下的 79 枚指纹，它们分布在兵马俑的各个部位——头部、手臂、盔甲、手部、领口，甚至还有脚部——显然是制作过程中无意留下的。其中 73 枚指纹是在塑形、成型和组装过程中留下的，6 枚是将预先制作好的装饰如盔甲铆钉和腰带按压到陶俑表面时形成的。研究人员估计，45% 的指纹可能来自成年男性之手；32.7% 的指纹来自成年女性；其余 22.3% 则来自 15 岁以下的儿童。当时的劳动力中出现儿童可能并不罕见。秦代的历史文献记载了一套正式的学徒制度，儿童会在经验丰富的工匠指导下学习。研究人员推测，小学徒可能被分配了相对简单的任务，如盔甲上添加装饰细节，而经验更丰富的工匠则负责要求更高的工作。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[退休教授因阻止 Uber Eats 机器人送货被捕]]></title>
+        <id>https://www.solidot.org/story?sid=85642</id>
+        <link href="https://www.solidot.org/story?sid=85642"/>
+        <updated>2026-10-18T14:43:08.000Z</updated>
+        <summary type="html"><![CDATA[宾夕法尼亚大学 78 岁的荣休教授 Marvin 本周因拒绝给 Uber Eats 的送货机器人让路而被捕。她表示自己记不得多少次挡住机器人的路了，称自己在进行抗议，旨在反对“为增加自身利润而用机器人取代人类送货员的企业”。Marvin 说，她在现场停留了“相当长一段时间”，警察过来要求她让路，让机器人完成送货任务。在她多次拒绝后，警方以扰乱治安为由将她逮捕。Marvin 并未因这次逮捕而退缩，她计划以“美国宪法第一修正案赋予的抗议权利”为由，对这项指控提出抗辩。她打算继续阻挡 Uber Eats的 机器人，并与那些好奇询问她在做什么的路人交流。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[内核开发者递交代码无需声明是否 AI 辅助编写]]></title>
+        <id>https://www.solidot.org/story?sid=85641</id>
+        <link href="https://www.solidot.org/story?sid=85641"/>
+        <updated>2026-10-18T14:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Linux 邮件列表中的一则消息披露，2026 年 10 月 8 日捷克布拉格举行的维护者峰会（Maintainers Summit）达成了一项重大决策：向内核提交代码时，无需再使用“Assisted-by”标签。这意味着内核开发者递交代码无需声明是否 AI 辅助编写。Linux 作者 Linus Torvalds 认为，禁止使用 AI 就像禁止使用文本编辑器是极其愚蠢的规定，表示他认为从事内核开发的人知道他们在做什么。他本周递交了一组用 Claude Code 开发的补丁，但补丁被发现存在竞态条件，其内存回收也被认为有问题，这组补丁的后续开发被交给了人类开发者 Kiryl Shutsemau。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta 新增条款允许其抓取客户内容并用于训练 AI]]></title>
+        <id>https://www.solidot.org/story?sid=85640</id>
+        <link href="https://www.solidot.org/story?sid=85640"/>
+        <updated>2026-10-18T14:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Meta 修改了其商业服务条款，新条款将于 2026 年 10 月 30 日生效。新增条款赋予了 Meta 一项权利，允许它使用自动化软件抓取客户内容，将其用于改进包括 AI 模型在内的公司产品。所谓的自动化软件包括了网页抓取工具、机器人、爬虫及用户智能体。News/Media Alliance 总裁 Danielle Coffey 发表声明谴责 Meta 的做法，认为此举涉嫌违法。法学教授 Eric Goldman 认为，新增服务条款存在程序和实质层面的问题，他表示尽管他倾向于认为合同起草者抱有善意，但 Meta 在业界早已毫无信誉可言，根本谈不上什么善意。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typora 2.0 来了？老用户需要重新付费吗？新版本有哪些变化？]]></title>
+        <id>https://www.appinn.com/typora-2-early-preview/</id>
+        <link href="https://www.appinn.com/typora-2-early-preview/"/>
+        <updated>2026-10-18T08:51:48.000Z</updated>
+        <summary type="html"><![CDATA[经典 Markdown 编辑器 Typora，终于要迎来 2.0 版本了。 Typora 2.0 发布了预告： 并且有一个好消息：V1 可以免费升级至 V2: Typora 2.0 会有哪些新功能？ 在这个全新的 2.0 预告页面中，能得到的消息有： 页面还展示了 Markdown 实时预览、文件树]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近3万星，Karakeep 0.34 发布：网页抓取更强了，支持自动离线阅读，内存占用更低]]></title>
+        <id>https://www.appinn.com/karakeep-0-34/</id>
+        <link href="https://www.appinn.com/karakeep-0-34/"/>
+        <updated>2026-10-18T07:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Karakeep 是一款开源的网络书签工具，在 GitHub 获得了超过 29700 颗🌟。2026年1018日发布了 v0.34.0 版本。这是一次比较大的更新，主要改进了网页抓取能力、移动端离线阅读，以及服务器性能。@Appinn Karakeep 可以帮你保存链接、笔记、图片、视频、PDF 等]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[游戏逆向工程网站宣布关闭因为 AI 让反编译游戏变得非常容易]]></title>
         <id>https://www.solidot.org/story?sid=85638</id>
@@ -833,164 +941,6 @@
         <link href="https://www.appinn.com/iterm2-buddy-self-hosted-relay-server/"/>
         <updated>2026-10-10T03:43:47.000Z</updated>
         <summary type="html"><![CDATA[iTerm2 Buddy 是著名的开源 macOS 终端工具 iTerm2 发布的 iPhone 应用，它能在异地通过 iOS 连接回 macOS 上已经打开的 iTerm2 标签页，实时同步两端操作，效果大概是这个样子： 公共中继服务器 默认情况下，iTerm2 Buddy 使用 iTerm2 的]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Encrypt 从 2027 年起切换到有效期为 64 天的证书]]></title>
-        <id>https://www.solidot.org/story?sid=85568</id>
-        <link href="https://www.solidot.org/story?sid=85568"/>
-        <updated>2026-10-09T15:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Let’s Encrypt 去年宣布到 2028 年将证书有效期从现在的 90 天缩短至 45 天。此举是为了遵守 Certification Authority Browser Forum (CA/Browser Forum)通过的缩短证书有效期决议。Let’s Encrypt 将分多个阶段逐步缩短至 45 天有限期，它宣布从 2027 年 2 月 10 日起签发的证书有效期缩短为 64 天，意味着自该日期起签发或续期的任何证书，其有效期都将为 64 天，最后一批 90 天有效期的证书预计将于 2027 年 5 月 11 日到期。在此期间 Let’s Encrypt 表示不会吊销有效证书。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超强厄尔尼诺已经形成]]></title>
-        <id>https://www.solidot.org/story?sid=85567</id>
-        <link href="https://www.solidot.org/story?sid=85567"/>
-        <updated>2026-10-09T14:59:11.000Z</updated>
-        <summary type="html"><![CDATA[国家气候中心表示，一次东部型超强厄尔尼诺事件已于今年 9 月正式形成。预计未来 3 个月，赤道中东太平洋海表温度将继续升高，在秋末冬初达到峰值，此次厄尔尼诺事件将成为有系统性监测以来最强厄尔尼诺事件。今年5月以来，赤道中东太平洋进入厄尔尼诺状态，关键监测区海温持续快速升高。这一区域海温指数的三个月滑动平均值已连续五个月超过 0.5℃，其中 7-9 月的平均值达 2.54℃，超过 2.5℃，达到超强事件标准。根据海温最强增暖中心位置，厄尔尼诺可分为两种形态——暖中心位于赤道东太平洋为东部型厄尔尼诺（传统型）；暖中心位于赤道中太平洋为中部型厄尔尼诺。厄尔尼诺通常会推高全球气温，并扰乱大范围地区的降雨格局，导致部分地区干旱，另一些地区则出现强降雨。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人类愿意向女性形象的 AI 智能体支付的报酬低于男性形象智能体]]></title>
-        <id>https://www.solidot.org/story?sid=85566</id>
-        <link href="https://www.solidot.org/story?sid=85566"/>
-        <updated>2026-10-09T14:52:34.000Z</updated>
-        <summary type="html"><![CDATA[如果你认为性别薪酬差距不存在，或者职场中没有性别偏见，那么最好重新思考下：根据爱尔兰 Limerick 大学研究人员展开的一项研究，在一个 VR 办公室里，基于相同的底层技术但形象不同的 AI 智能体，人类参与者愿意向男性形象的智能体支付的报酬比女性形象更高。参与研究的人类共有 189 人，他们与名叫 Johan 的男性形象智能体以及名叫 Johanna 的女性形象智能体共同工作。尽管底层技术相同，对于完成相同的工作，Johanna 得到的报酬比 Johan 低 10%。Johan 还被认为比 Johanna 更像人类。不过这项研究的实验数据被认为存在严重不足，可能不足以得出上述结论。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[诺贝尔和平奖授予了南非女法官 Navi Pillay]]></title>
-        <id>https://www.solidot.org/story?sid=85565</id>
-        <link href="https://www.solidot.org/story?sid=85565"/>
-        <updated>2026-10-09T10:58:53.000Z</updated>
-        <summary type="html"><![CDATA[2026 年诺贝尔和平奖授予了南非女法官 Navi Pillay，以表彰她为促进和平和维护国际法所做出的努力，她在确保战争罪、危害人类罪和种族灭绝罪受到起诉上发挥了关键作用。Pillay 出生于南非德班，有印度泰米尔人血统，是首位获得哈佛大学法学博士学位的南非人，也是南非高等法院首位非白人法官，曾任国际刑事法院法官和卢旺达问题国际刑事法庭庭长。她于 2008 年—2014 年担任联合国人权事务高级专员，2021年—2025 年担任联合国巴勒斯坦被占领土问题独立国际调查委员会主席。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为何大型犬衰老速度更快]]></title>
-        <id>https://www.solidot.org/story?sid=85563</id>
-        <link href="https://www.solidot.org/story?sid=85563"/>
-        <updated>2026-10-09T09:44:16.000Z</updated>
-        <summary type="html"><![CDATA[为什么大型犬往往比体型较小的犬寿命更短？根据一项针对 894 只狗所做的新研究，答案可能就写在它们的表观基因组中。这些发现表明，体型较大的狗和雄性狗会经历分子衰老过程加速，其表现为 X 染色体和转座元件（TEs）上会出现显著的 DNA 甲基化（DNAm）。研究人员从“犬类衰老项目”（Dog Aging Project）中的由 894 只狗组成的队列中生成了 1640 个甲基化组。他们将这些分子数据与详细的遗传和人口统计学数据进行了整合。研究人员发现，在狗生命的早期，分子衰老的速度最快。此外，体型较大的狗和雄性狗——这两类狗的寿命分别短于体型较小的狗和雌性狗——在分子层面上的衰老速度更快。研究结果表明，与性别相关的变化集中在 X 染色体上，而与体型相关的变化则在转座元件（TEs）中尤为突出，这些 DNA 片段可影响基因组的稳定性和基因调控。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智能咖啡机 10 天内产生 1TB 数据流量]]></title>
-        <id>https://www.solidot.org/story?sid=85562</id>
-        <link href="https://www.solidot.org/story?sid=85562"/>
-        <updated>2026-10-09T09:35:48.000Z</updated>
-        <summary type="html"><![CDATA[一名男子发现父母新购买的 Keurig 智能咖啡机在 10 天内产生 1TB 数据流量。这些流量并非是传输到外部的网络上行链路流量，而是内部局域网嗅探元数据的扫描流量。也就说智能咖啡机是在收集家庭内部的数据，以便于咖啡机制造商 Keurig 能将其出售给广告商。这名男子在发现咖啡机产生的网络流量超出预期之后切断了其联网，准备为父母更换一台咖啡机。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本周赛博领鸡蛋（10.9~10.15）：《熊视眈眈》《愿景之城》《大骗局》]]></title>
-        <id>https://www.appinn.com/eggs-26109/</id>
-        <link href="https://www.appinn.com/eggs-26109/"/>
-        <updated>2026-10-09T09:19:15.000Z</updated>
-        <summary type="html"><![CDATA[本周赛博领鸡蛋 Epic 送出 3 款游戏：电脑端可领取《熊视眈眈 / Out of Sight》和《愿景之城 / TerraScape》，手机端可领取《大骗局 / The Big Con》，提供 Android 和 iOS 版本。 这周可以借泰迪熊的眼睛逃出阴森豪宅，在浮空岛上慢慢造城，也可以回到]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARTEX 从 GitHub 下架]]></title>
-        <id>https://www.solidot.org/story?sid=85561</id>
-        <link href="https://www.solidot.org/story?sid=85561"/>
-        <updated>2026-10-09T08:23:00.000Z</updated>
-        <summary type="html"><![CDATA[在被黑客利用攻击韩国银行之后，ARTEX 开发者 Autumn-27 宣布该工具闭源，但整个软件库随后下架。Autumn-27 在一份公开声明中表示：“近期，注意到 ARTEX 工具被部分恶意行为者滥用，用于发起网络攻击。作为 ARTEX 的作者，我在此郑重声明：
-
-一、本次恶意攻击事件与工具作者无关。ARTEX 的设计初衷是出于学习与研究目的，旨在帮助企业、组织在获得授权的资产范围内进行安全风险测试，提升安全防护能力。
-
-二、该工具被恶意利用，完全违背了作者的初衷。对于任何未经授权、违反法律法规的使用行为，作者不承担任何责任，并予以强烈谴责。
-
-三、鉴于工具被滥用的现实情况，ARTEX 项目将不再更新，并转为闭源。后续不再对外发布任何版本或维护支持。
-
-感谢大家一直以来的关注与支持。也提醒每一位使用者：技术应当用于正途，请务必遵守法律法规，切勿以身试法。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpaceX 呼吁在轨卫星加强协调]]></title>
-        <id>https://www.solidot.org/story?sid=85560</id>
-        <link href="https://www.solidot.org/story?sid=85560"/>
-        <updated>2026-10-09T08:14:08.000Z</updated>
-        <summary type="html"><![CDATA[SpaceX 负责 Starlink 业务的副总裁、同时兼任 xAI 业务总裁的高管 Michael Nicolls 本周在土耳其举行的国际宇航大会上呼吁卫星运营商加强数据共享。Starlink 在轨卫星星座超过 1.1 万颗，占到了所有在轨人造卫星总数的三分之二。该公司计划发射多达百万颗卫星，构建名为 Starmind 的新星座，打造太空数据中心。亚马逊也在构建自己的宽带卫星星座，中国的两大巨型卫星星座也在部署之中。地球轨道将会日益拥挤，卫星碰撞的风险在上升，而一旦发生碰撞，它们释放的大量碎片将会增加其它卫星碰撞的风险，从而造成恶性循环。Nicolls 声称，Starlink 卫星发生了多次与其它卫星近距离交会的事件，他呼吁其它卫星运营商公开星历（ephemeris）数据，加强彼此的协调。他指出，Starlink 卫星每天执行约 1,000 次防碰撞机动以避开其它卫星或太空碎片。过去几个月 Starlink 卫星已避开了来自其他运营商的约 650 颗卫星。在这 650 颗卫星中，只有半数来自与 SpaceX 共享轨道数据的运营商。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时隔17年，机械迷城2 终于来了！原班人马回归，Steam 页面已上线]]></title>
-        <id>https://www.appinn.com/machinarium-2/</id>
-        <link href="https://www.appinn.com/machinarium-2/"/>
-        <updated>2026-10-09T08:10:51.000Z</updated>
-        <summary type="html"><![CDATA[机器人 Josef 和 Berta 终于重聚了。 他们踏上了寻找新家的旅程，却意外发现一座隐藏的山谷。这里生活着两个机器人部落，但维持他们生存的能源正在逐渐耗尽。 这一次，Josef 和 Berta 需要一起冒险，利用各自的能力解开谜题，帮助山谷里的机器人。 时隔 17 年，那个熟悉的《机械迷城》终]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美光台工厂工会获得罢工权，支持率 99%]]></title>
-        <id>https://www.solidot.org/story?sid=85559</id>
-        <link href="https://www.solidot.org/story?sid=85559"/>
-        <updated>2026-10-09T07:13:32.000Z</updated>
-        <summary type="html"><![CDATA[美光桃园工会宣布，经过 6 天投票及 10 月 6 日晚间开票，工会已取得罢工及设置罢工纠察线的权利。工会表示，领票名册共 2258 人，投票 2012 人，其中 1994 票同意、14 票不同意、4 张废票，投票率 89.1%；同意票占全体会员 88.3%，占实际投票人数约 99.1%。工会要求建立营业利益 15% 员工分润制度，并呼吁美光董事会正面回应四大诉求。工会指出，这次抗争的核心不只是奖金多寡，而是要求企业建立公平、透明的获利分享制度。工会主张，美光应设立以营业利益 15% 为基础的员工分润机制，让分配金额随公司获利调整。美光在台湾有两座工厂，除桃园工厂工会外，另一个台中工厂工会也在准备罢工，台中工会将于 10 月 22 日和资方再次协商，如果失败预计也将举行罢工投票。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊 Prime Video 将直播艾美奖颁奖典礼]]></title>
-        <id>https://www.solidot.org/story?sid=85558</id>
-        <link href="https://www.solidot.org/story?sid=85558"/>
-        <updated>2026-10-09T06:55:55.000Z</updated>
-        <summary type="html"><![CDATA[在 YouTube 获得美国奥斯卡奖颁奖典礼的转播权之后，另一个流媒体平台亚马逊 Prime Video 获得了美国另一个主要奖项艾美奖的转播权。Amazon Prime Video 将从 2027 年起成为艾美奖的全球独占播放平台，这一协议将持续六年。全球逾 240 个国家和地区的观众将能免费在线观看艾美奖颁奖典礼的直播，无需订阅 Prime 会员。此前艾美奖颁奖典礼由美国四大电视网 ABC、CBS、NBC 和 Fox 轮流主办，该轮流主办机制至少始于 1994 年，最近为期八年的合约将于今年到期。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[定义了软件工程的计算机科学家 Margaret Hamilton 去世，享年 90 岁]]></title>
-        <id>https://www.solidot.org/story?sid=85557</id>
-        <link href="https://www.solidot.org/story?sid=85557"/>
-        <updated>2026-10-09T06:41:45.000Z</updated>
-        <summary type="html"><![CDATA[阿波罗登月计划期间担任 MIT 仪器实验室软件工程部主管的计算机科学家 Margaret Hamilton 于 9 月 30 日去世，享年 90 岁。美国总统奥巴马（Barack Obama）在 2016 年向她颁发了总统自由勋章，表扬她定义了软件工程，协助开创了一个永远改变人类历史的产业。Hamilton 于 1936 年出生在印第安纳州的 Paoli，1959 年随丈夫移居波士顿，在 MIT 气象系找到了一份临时工作，与气象学教授 Edward N. Lorenz 合作开发天气预报软件，这是她首次涉足软件编程。她于 1961 年在 MIT 林肯实验室担任程序员，参与了美国首个防空系统 Semi-Automatic Ground Environment(SAGE)项目。她负责为 AN/FSQ-7 原型机（XD-1）编写软件，在此期间她开始关注软件可靠性问题。1965 年她准备攻读研究生时其丈夫看到了一张招聘广告：MIT 仪器实验室正在寻找为登月计划开发软件的人。她提交了申请并被录用，成为 MIT 阿波罗计划的第一位程序员，也是该项目首位女程序员。Hamilton 很快成为团队负责人，领导开发阿波罗载人任务机载飞行软件。她的团队设计了优先级驱动的软件，帮助阿波罗 11 号登月飞船计算机检测到“1202 错误”之后仍然能完成登月任务。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软被暂停参与允许外籍员工申请绿卡的项目]]></title>
-        <id>https://www.solidot.org/story?sid=85556</id>
-        <link href="https://www.solidot.org/story?sid=85556"/>
-        <updated>2026-10-09T05:47:12.000Z</updated>
-        <summary type="html"><![CDATA[特朗普政府暂停了微软等多家公司参与一项允许外籍员工申请绿卡的项目，副总统 JD Vance 公开抨击微软滥用 H-1B 签证。微软被暂停参与的项目要求公司在向美国劳工部申请绿卡前，必须先在美国发布招聘广告，以证明由于美国工人短缺，他们需要向外籍工人发放绿卡。JD Vance 指责了微软的做法，称微软首先在小城镇的报纸上刊登招聘广告，然后以无人应聘为由宣称需要外籍员工。Vance 称微软是最频繁滥用这套制度的美国公司。微软去年裁掉了 6000 名美国员工，同时获得了 6300 个 H-1B 签证和近 3000 张绿卡。Vance 称微软每裁掉一名美国员工，就用 1.5 名外籍“契约劳工”来替代他们。他表示，H-1B 签证持有者实际上是外籍“契约劳工”，因为一旦失去工作，他们就必须离开美国，他们的收入低于担任相同职位的美国人。微软回应称，在上个财政年度提交的约 6000 份 H-1B 签证申请中，80% 是为了“延长或变更现有微软员工的身份”。担任拜登政府美国公民及移民服务局高级顾问的 Doug Rand 称 Vance 的声明“逻辑不通”。“如果特朗普政府真的担心 H-1B 签证持有者沦为‘契约劳工’，那么他们最不该做的就是阻挠企业协助 H-1B 员工获取绿卡。一旦拿到绿卡，移民身份便不再受雇主制约——你将成为永久居民，可以无顾虑的跳槽或争取更高的薪水。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重大变化！微软 365 家庭版网盘大缩水：6 人各享 1TB，变成全家共享 2TB]]></title>
-        <id>https://www.appinn.com/microsoft-365-family-onedrive-storage-cut-6tb-to-2tb/</id>
-        <link href="https://www.appinn.com/microsoft-365-family-onedrive-storage-cut-6tb-to-2tb/"/>
-        <updated>2026-10-09T04:20:14.000Z</updated>
-        <summary type="html"><![CDATA[省流：微软修改了 Microsoft 365 的 OneDrive 网盘存储规则。家庭版、高级版从原来的最多 6 人各享 1TB，改为全家共享 2TB；专业版改为共享 5TB。新用户从 2026 年 10 月 7 日起执行，老用户将在 2027 年陆续切换，其中家庭版、高级版在续订时生效。 微软在对]]></summary>
         <author>
             <name>青小蛙</name>
         </author>
