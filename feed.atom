@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-10-21T07:01:36.482Z</updated>
+    <updated>2026-10-22T07:04:12.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[印度证书泄漏后，一台智能音箱被破解了]]></title>
+        <id>https://www.appinn.com/emudhra-certificate-smart-speaker-root/</id>
+        <link href="https://www.appinn.com/emudhra-certificate-smart-speaker-root/"/>
+        <updated>2026-10-22T05:50:22.000Z</updated>
+        <summary type="html"><![CDATA[昨天刚介绍了印度证书机构 eMudhra 的离谱安全事故，其中一枚证书的私钥竟然只有一个数字：4。 没想到，这么快就有人用上了这批泄漏的私钥。 10 月 20 日，一位开发者发布了 yandex mini 2 adventures，利用泄漏的 CA 私钥，成功拿到了俄罗斯 Yandex Statio]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMPal：M 系列 Mac 专属虚拟机，AI Agent 的独立电脑]]></title>
+        <id>https://www.appinn.com/vmpal/</id>
+        <link href="https://www.appinn.com/vmpal/"/>
+        <updated>2026-10-22T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[今天给大家带来一款全新上架的 Mac 虚拟机工具 —— VMPal ，专为 Apple Silicon 芯片深度优化，兼顾颜值、性能，更是为 AI 智能体量身打造的虚拟机解决方案！ 🚀 多系统一键部署，GPU 硬件加速拉满 VMPal 支持一键下载自动安装 macOS、Windo]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strata 0.2.2 发布：新增多显卡自由分工，Gyro 推理提速最高 30%]]></title>
+        <id>https://www.appinn.com/strata-0-2-2/</id>
+        <link href="https://www.appinn.com/strata-0-2-2/"/>
+        <updated>2026-10-22T01:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Strata 是什么？Strata 是一款免费开源的本地大模型运行工具，支持 Windows、macOS 和 Linux，能够让普通电脑运行大型 AI 模型，最低只需要 8GB 显存。 前天刚介绍了 Strata 0.2.0 测试版发布，提升了性能，没想到开发者又又又马不停蹄的发布到了 Strata]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别等双 11 了！数码荔枝「十」惠抢先享，8 款热门软件 5 折起]]></title>
+        <id>https://www.appinn.com/lizhi-2610/</id>
+        <link href="https://www.appinn.com/lizhi-2610/"/>
+        <updated>2026-10-21T09:40:20.000Z</updated>
+        <summary type="html"><![CDATA[数码荔枝十月特惠活动正式开启，会场软件低至 5 折！ Bartender 7  Mac 的菜单栏本身挺好用的，但偏偏遇见了刘海屏设计……它们组合起来简直是噩梦！ 装了十几个软件，图标们挤过来挤过去，真正想要用的却被系统强制隐藏了。 Bartender 专治这个毛病，它可以把不常用的图标收进]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试你的浏览器安全性：如果能打开这个网站，就踩中了印度证书机构的离谱大雷]]></title>
+        <id>https://www.appinn.com/test-browser-security-emudhra-certificate/</id>
+        <link href="https://www.appinn.com/test-browser-security-emudhra-certificate/"/>
+        <updated>2026-10-21T09:15:06.000Z</updated>
+        <summary type="html"><![CDATA[现在，测试一下你的浏览器 如果能打开这个网址，就证明你的浏览器中了印度证书机构的离谱大雷。 如果打不开，你的浏览器安全，已更新！ 印度证书机构出了什么离谱大雷？ 这是青小蛙使用 OpenSSL 随机生成的一份 P-384 私钥，与印度 eMudhra 此次出问题的私钥采用相同的椭圆曲线算法： 其中]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 官方罕见提前预警：两项 9.2 分严重漏洞，今晚 10 点发布修复｜请加班]]></title>
+        <id>https://www.appinn.com/php-critical-rce-vulnerability-2026/</id>
+        <link href="https://www.appinn.com/php-critical-rce-vulnerability-2026/"/>
+        <updated>2026-10-21T07:06:25.000Z</updated>
+        <summary type="html"><![CDATA[全世界还在运行 PHP 的网站需要注意了，PHP 官方预警！ 10 月 20 日，PHP 官方突然发布了一份安全预警：PHP 核心存在两个严重安全漏洞，CVSS v4.0 评分均达到 9.2 分（满分 10 分）。 PHP 在官网宣布，将于 2026 年 10 月 21 日 22:00（北京时间）]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[卷起来了！昨天 Strata 刚升级，今天 Splash 1.4 就宣布快了 30%]]></title>
         <id>https://www.appinn.com/splash-1-4/</id>
@@ -1025,26 +1085,6 @@ llama.cpp 依靠非常有经验的工程师进行 kernel 调优，已经将性�
         <summary type="html"><![CDATA[中国天眼（FAST）已发现超千颗脉冲星。中国科学院国家天文台联合国内外科研人员，结合 FAST 射电观测数据与国际光学、伽马射线望远镜多波段天文数据，证实 FAST 发现的脉冲星 J0435+3233 为首例处于演化阶段的原生脉冲星三体系统，这也是第二例被确认的脉冲星三体系统。脉冲星 J0435+3233 于 2020 年由 FAST 观测发现，自转周期仅 3.2 毫秒。后续研究团队依托 FAST 开展五年连续监测，获取 192 次测量数据。分析结果表明，这颗脉冲星与另一颗白矮星构成双星系统，二者以 8 天为周期沿圆形轨道环绕共同质心运行。研究同时发现，该脉冲星自转周期每年增加 1 纳秒，比同类型的脉冲星高出两个数量级。研究人员通过分析 FAS T开放的射电数据以及多家国际望远镜的红外、光学、伽马射线观测的档案数据，精准锁定脉冲星的光学伴星，证实其为罕见的脉冲星三体系统。该脉冲星的第二伴星是一颗处于演化阶段的类太阳恒星，质量与太阳基本相当，以 73.5 年为周期、偏心率 0.6 的椭圆偏心轨道，环绕脉冲星-白矮星这一双星系统运动。正是这颗三体伴星的引力作用，造成脉冲星自转周期异常增大。根据恒星演化理论推断，该三体系统源于同一原始星云，是天然形成的恒星原生“三胞胎”。其中初始质量最大的恒星（约为太阳质量的20倍）率先完成演化，经超新星爆发后坍缩，形成现有的脉冲星。而初始质量为数倍太阳质量的“二弟”（第二颗恒星）也已演化终结，成为伴随脉冲星运行的白矮星。质量最小的“三弟”（第三颗恒星）与太阳质量持平，且与另外两颗恒星间距较远，未受早期超新星爆发影响，仍处于平稳演化状态，未来它也将演化终结，最终形成由一颗脉冲星和两颗白矮星构成的稳定三体系统。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MicYou for iOS – 老 iPhone 又有新用途：变成电脑麦克风，免费开源]]></title>
-        <id>https://www.appinn.com/micyou-for-ios/</id>
-        <link href="https://www.appinn.com/micyou-for-ios/"/>
-        <updated>2026-10-12T02:38:27.000Z</updated>
-        <summary type="html"><![CDATA[MicYou for iOS 是一款可以把 iPhone 当作 PC 麦克风的开源项目，目前处于早期开发状态，还未上架 App Store。不过，该应用也有开源安卓版本。@Appinn 此前青小蛙已经推荐过 MicYou 的安卓版本了： 今天偶然看到了 MicYou for iOS，截止2026年1]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发现频道：10款大家发现的好评软件[2026年第41期]]]></title>
-        <id>https://www.appinn.com/faxian-top10-2641/</id>
-        <link href="https://www.appinn.com/faxian-top10-2641/"/>
-        <updated>2026-10-12T01:00:34.000Z</updated>
-        <summary type="html"><![CDATA[最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【开源自荐】Lokii：像 Everything 一样快，专为 Mac 打造的亚毫秒级原生文件搜索工具 2️⃣ 〖开发者自荐〗Thousand Castles：地球上的每一座城堡，以及更多 3️⃣]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>

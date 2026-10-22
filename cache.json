@@ -12,6 +12,71 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/emudhra-certificate-smart-speaker-root/",
+          "author": "青小蛙",
+          "description": "昨天刚介绍了印度证书机构 eMudhra 的离谱安全事故，其中一枚证书的私钥竟然只有一个数字：4。 没想到，这么快就有人用上了这批泄漏的私钥。 10 月 20 日，一位开发者发布了 yandex mini 2 adventures，利用泄漏的 CA 私钥，成功拿到了俄罗斯 Yandex Statio",
+          "link": "https://www.appinn.com/emudhra-certificate-smart-speaker-root/",
+          "publishedOn": "2026-10-22T05:50:22.000Z",
+          "wordCount": 1985,
+          "title": "印度证书泄漏后，一台智能音箱被破解了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/emudhra-smart-speaker-cover-804.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/vmpal/",
+          "author": "青小蛙",
+          "description": "今天给大家带来一款全新上架的 Mac 虚拟机工具 —— VMPal ，专为 Apple Silicon 芯片深度优化，兼顾颜值、性能，更是为 AI 智能体量身打造的虚拟机解决方案！ 🚀 多系统一键部署，GPU 硬件加速拉满 VMPal 支持一键下载自动安装 macOS、Windo",
+          "link": "https://www.appinn.com/vmpal/",
+          "publishedOn": "2026-10-22T03:02:00.000Z",
+          "wordCount": 2361,
+          "title": "VMPal：M 系列 Mac 专属虚拟机，AI Agent 的独立电脑",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/VMPal-AI-Agent-E79A84E78BACE7AB8BE794B5E88491-1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/strata-0-2-2/",
+          "author": "青小蛙",
+          "description": "Strata 是什么？Strata 是一款免费开源的本地大模型运行工具，支持 Windows、macOS 和 Linux，能够让普通电脑运行大型 AI 模型，最低只需要 8GB 显存。 前天刚介绍了 Strata 0.2.0 测试版发布，提升了性能，没想到开发者又又又马不停蹄的发布到了 Strata",
+          "link": "https://www.appinn.com/strata-0-2-2/",
+          "publishedOn": "2026-10-22T01:56:13.000Z",
+          "wordCount": 2876,
+          "title": "Strata 0.2.2 发布：新增多显卡自由分工，Gyro 推理提速最高 30%",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-22T095356.293.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/lizhi-2610/",
+          "author": "青小蛙",
+          "description": "数码荔枝十月特惠活动正式开启，会场软件低至 5 折！ Bartender 7  Mac 的菜单栏本身挺好用的，但偏偏遇见了刘海屏设计……它们组合起来简直是噩梦！ 装了十几个软件，图标们挤过来挤过去，真正想要用的却被系统强制隐藏了。 Bartender 专治这个毛病，它可以把不常用的图标收进",
+          "link": "https://www.appinn.com/lizhi-2610/",
+          "publishedOn": "2026-10-21T09:40:20.000Z",
+          "wordCount": 2390,
+          "title": "别等双 11 了！数码荔枝「十」惠抢先享，8 款热门软件 5 折起",
+          "enclosure": {
+            "url": "https://static3cdn.appinn.com/images/2026/10/2-ezgif.com-gif-to-mp4-converter-1.mp4",
+            "length": "62382",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-20T171728.054.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/test-browser-security-emudhra-certificate/",
+          "author": "青小蛙",
+          "description": "现在，测试一下你的浏览器 如果能打开这个网址，就证明你的浏览器中了印度证书机构的离谱大雷。 如果打不开，你的浏览器安全，已更新！ 印度证书机构出了什么离谱大雷？ 这是青小蛙使用 OpenSSL 随机生成的一份 P-384 私钥，与印度 eMudhra 此次出问题的私钥采用相同的椭圆曲线算法： 其中",
+          "link": "https://www.appinn.com/test-browser-security-emudhra-certificate/",
+          "publishedOn": "2026-10-21T09:15:06.000Z",
+          "wordCount": 2477,
+          "title": "测试你的浏览器安全性：如果能打开这个网站，就踩中了印度证书机构的离谱大雷",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-21T171137.561.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/php-critical-rce-vulnerability-2026/",
+          "author": "青小蛙",
+          "description": "全世界还在运行 PHP 的网站需要注意了，PHP 官方预警！ 10 月 20 日，PHP 官方突然发布了一份安全预警：PHP 核心存在两个严重安全漏洞，CVSS v4.0 评分均达到 9.2 分（满分 10 分）。 PHP 在官网宣布，将于 2026 年 10 月 21 日 22:00（北京时间）",
+          "link": "https://www.appinn.com/php-critical-rce-vulnerability-2026/",
+          "publishedOn": "2026-10-21T07:06:25.000Z",
+          "wordCount": 2318,
+          "title": "PHP 官方罕见提前预警：两项 9.2 分严重漏洞，今晚 10 点发布修复｜请加班",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-21T150410.242.jpg"
+        },
+        {
           "id": "https://www.appinn.com/splash-1-4/",
           "author": "青小蛙",
           "description": "昨天，青小蛙刚刚介绍了 Strata 的更新：Strata 0.2 测试版发布：性能升级，门槛再降低｜低配电脑运行本地大模型 没想到，今天另一款开源本地 AI 推理工具 Splash 就发布了 1.4.0 版本，还直接把 Strata 拉出来比较： 开发者宣布：在相同 Mac、相同模型下，Splas",
@@ -230,26 +295,6 @@
           "wordCount": 3131,
           "title": "reinstall：操作系统自己重装自己？这个开源项目有点神奇",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-13T172120.330.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/micyou-for-ios/",
-          "author": "青小蛙",
-          "description": "MicYou for iOS 是一款可以把 iPhone 当作 PC 麦克风的开源项目，目前处于早期开发状态，还未上架 App Store。不过，该应用也有开源安卓版本。@Appinn 此前青小蛙已经推荐过 MicYou 的安卓版本了： 今天偶然看到了 MicYou for iOS，截止2026年1",
-          "link": "https://www.appinn.com/micyou-for-ios/",
-          "publishedOn": "2026-10-12T02:38:27.000Z",
-          "wordCount": 2590,
-          "title": "MicYou for iOS – 老 iPhone 又有新用途：变成电脑麦克风，免费开源",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-12T103512.665.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/faxian-top10-2641/",
-          "author": "青小蛙",
-          "description": "最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【开源自荐】Lokii：像 Everything 一样快，专为 Mac 打造的亚毫秒级原生文件搜索工具 2️⃣ 〖开发者自荐〗Thousand Castles：地球上的每一座城堡，以及更多 3️⃣",
-          "link": "https://www.appinn.com/faxian-top10-2641/",
-          "publishedOn": "2026-10-12T01:00:34.000Z",
-          "wordCount": 2547,
-          "title": "发现频道：10款大家发现的好评软件[2026年第41期]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-16.jpg"
         }
       ]
     },
