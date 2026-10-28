@@ -12,6 +12,26 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/google-deepmind-genie-4/",
+          "author": "青小蛙",
+          "description": "以前 AI 生成图片、视频，你只能看。现在，Genie 4 可以让你直接走进去玩。@Appinn Google DeepMind 刚刚发布了 Genie 4，一款可以实时生成虚拟世界的 AI 模型。 比如，让 AI 生成一座小镇，你就可以像玩游戏一样，在街道上散步、拐进小巷，看看前面有什么。 觉得天",
+          "link": "https://www.appinn.com/google-deepmind-genie-4/",
+          "publishedOn": "2026-10-28T06:36:58.000Z",
+          "wordCount": 2300,
+          "title": "Google DeepMind 发布 Genie 4：AI 生成的世界，现在可以走进去玩了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/E5B7A8E9BE99E7BFB1E7BF94-Genie-4E5A587E5B9BBE4B896E7958C.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/microsoft-authenticator-android-cve-2026-80097/",
+          "author": "青小蛙",
+          "description": "微软的身份验证工具 Microsoft Authenticator 被发现存在一个高危漏洞（CVE-2026-80097），CVSS 评分为 8.6 分。 攻击者只需要诱导用户安装一个恶意安卓应用，即使这个 App 没有申请任何系统权限，也可能窃取用户已经登录的微软账户令牌。 感谢小熊猫在安全情报下",
+          "link": "https://www.appinn.com/microsoft-authenticator-android-cve-2026-80097/",
+          "publishedOn": "2026-10-27T08:23:46.000Z",
+          "wordCount": 2320,
+          "title": "微软身份验证器 Authenticator 曝高危漏洞：恶意 App 无需权限就能窃取账户令牌",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/E5BEAEE8BDAFE8BAABE4BBBDE9AA8CE8AF81E599A8E69B9DE9AB98E58DB1E6BC8FE6B49E.jpg"
+        },
+        {
           "id": "https://www.appinn.com/mac-mini-m6-national-subsidy-price-4902/",
           "author": "青小蛙",
           "description": "作为最佳 AI Agent 运行硬件，上一波 Mac mini M4 只需不到 3000 元的价格，就能拥有。但经历了苹果产品全线涨价，平均涨幅约 21%，以及新产品更新换代之后，Mac mini M6 的官网钙版价格已经来到了 6999 元。 现如今（2026年10月27日），Mac mini M",
@@ -355,26 +375,6 @@
           "wordCount": 2250,
           "title": "发现频道：10款大家发现的好评软件[2026年第42期]",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-16.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/typora-2-early-preview/",
-          "author": "青小蛙",
-          "description": "经典 Markdown 编辑器 Typora，终于要迎来 2.0 版本了。 Typora 2.0 发布了预告： 并且有一个好消息：V1 可以免费升级至 V2: Typora 2.0 会有哪些新功能？ 在这个全新的 2.0 预告页面中，能得到的消息有： 页面还展示了 Markdown 实时预览、文件树",
-          "link": "https://www.appinn.com/typora-2-early-preview/",
-          "publishedOn": "2026-10-18T08:51:48.000Z",
-          "wordCount": 2245,
-          "title": "Typora 2.0 来了？老用户需要重新付费吗？新版本有哪些变化？",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-18T163426.116.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/karakeep-0-34/",
-          "author": "青小蛙",
-          "description": "Karakeep 是一款开源的网络书签工具，在 GitHub 获得了超过 29700 颗🌟。2026年1018日发布了 v0.34.0 版本。这是一次比较大的更新，主要改进了网页抓取能力、移动端离线阅读，以及服务器性能。@Appinn Karakeep 可以帮你保存链接、笔记、图片、视频、PDF 等",
-          "link": "https://www.appinn.com/karakeep-0-34/",
-          "publishedOn": "2026-10-18T07:50:02.000Z",
-          "wordCount": 2682,
-          "title": "近3万星，Karakeep 0.34 发布：网页抓取更强了，支持自动离线阅读，内存占用更低",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-18T154430.146-1.jpg"
         }
       ]
     },
@@ -383,6 +383,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=396840",
+          "author": "Daniel Schwarz",
+          "description": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed.\nWhat’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/whats-important-19/",
+          "publishedOn": "2026-10-27T15:09:16.000Z",
+          "wordCount": 2958,
+          "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
+        },
         {
           "id": "https://css-tricks.com/?p=397227",
           "author": "Geoff Graham",
@@ -423,6 +433,156 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85728",
+          "author": null,
+          "description": "世界气象组织周二表示，2025 年因燃烧化石燃料导致的大气中二氧化碳及其他主要温室气体的浓度达到创纪录高位，这将导致全球变暖趋势进一步固化。2025 年全球二氧化碳平均浓度为百万分之426.8（ppm），相当于 1750 年工业化前基准值的 153%。同样令人担忧的是，甲烷和一氧化二氮——这两种由人类活动产生的、在长寿温室气体中排名第二和第三的气体——其浓度在 2025 年也创下了新高。2004 年测得的二氧化碳年均浓度为 377.5 ppm，而如今已接近 427 ppm。自 1960 年代以来，二氧化碳浓度增长率已增至三倍，在 2011-2020 年的十年间，年均增幅从 0.8 ppm 加速至 2.4 ppm。1990-2025 年间，温室气体对气候造成的变暖效应增加了 56%，其中二氧化碳约占这一增幅的 81%，这一效应被称为“辐射强迫”。",
+          "link": "https://www.solidot.org/story?sid=85728",
+          "publishedOn": "2026-10-28T06:36:46.000Z",
+          "wordCount": 316,
+          "title": "2025 年二氧化碳浓度创新高",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85727",
+          "author": null,
+          "description": "2023 年维基百科志愿者发起了 WikiProject AI Cleanup 项目，旨在清理 AI 生成文本。当时的 AI 文本还很容易识别。项目创始成员 Ellia Lebleu 指出，当时的 AI 文本频繁使用奇怪短语如 stands as a testament、rich cultural heritage...甚至还喜欢插入总结性段落如 Why is this important?  但到了 2025 年 AI 生成文本特征变得更隐蔽了。AI 文本也更具结构性，偏好三法则（rule of three）、否定式平行等等。以前 AI 会产生虚假或误导性的文本引用，随着检索增强生成（Retrieval-Augmented Generation）技术的采用，这种现象变少了。然而今天 AI 虽然能找到真实引用来源，但仍然会经常曲解内容，文不对题的现象仍然很普遍。",
+          "link": "https://www.solidot.org/story?sid=85727",
+          "publishedOn": "2026-10-27T15:16:06.000Z",
+          "wordCount": 329,
+          "title": "维基百科如何清理 AI 生成文本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85726",
+          "author": null,
+          "description": "很多人几年前可能还不知道什么是数据中心，它是现代互联网服务的引擎，也是今天 AI 热的核心。但数据中心数量的快速增长、巨大的电力消耗，以及环境影响，正在全球引发公众的抵制。根据 Data Center Map 的数据，目前全世界有约 12,250 个数据中心，而 2021 年这个数字是大约 8000 个，其中美国最多有 4,767 个，弗吉尼亚州密度最高。美国的数据中心装机容量为 53.73 GW，中国 31.90 GW，欧盟 11.92 GW，日韩 6.58 GW，印度为 3.55 GW，英国 2.59 GW。目前全球投入运营的最大数据中心是中国电信在内蒙古呼和浩特的一处设施，占地约 100 万平方米。SpaceX 的 Colossus 项目占地 7 万平方米，OpenAI 支持 Stargate 项目占地 3.5 平方公里；Meta 计划在路易斯安那州建设的 Hyperion 项目占地 11 平方公里。全球数据中心的总用电量估计已超过了整个法国的用电量。",
+          "link": "https://www.solidot.org/story?sid=85726",
+          "publishedOn": "2026-10-27T14:58:58.000Z",
+          "wordCount": 328,
+          "title": "数据中心搅动世界",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85725",
+          "author": null,
+          "description": "太阳能的发展速度超出了预期。十年前太阳能的发电量仅占全球总发电量的 1%，2026 年它的份额预计将达到 10%。根据能源智库 Ember 的数据，2025 年全球太阳能发电量略微超过了核能发电量。截至 2026 年 9 月的年度太阳能发电量则已超过核能 13%。牛津大学能源与气候政策教授 Jan Rosenow 称太阳能如今已成为能源转型的引擎。太阳能已成为历史上增长速度最快的新电力来源，2025 年全球电力需求增长量的四分之三由太阳能满足。自 2000 年以来核能发电量基本保持不变，而太阳能发电量则增长了约 2700 倍。太阳能技术已发展成熟约 15 年，在  2020 年成为历史上最便宜的电力来源。澳大利亚逾 400 万户家庭安装了屋顶太阳能系统，非洲每天安装的太阳能电池板数量约 10 万块，巴基斯坦的太阳能份额从 2019 年的不到 2% 增至如今的 24%。太阳能离不开电池，电池帮助解决了如何将白天的太阳能转移至晚间使用的问题。",
+          "link": "https://www.solidot.org/story?sid=85725",
+          "publishedOn": "2026-10-27T14:37:59.000Z",
+          "wordCount": 320,
+          "title": "2025 年太阳能发电量超越核能",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85724",
+          "author": null,
+          "description": "火星之旅对人类心脏的挑战可能没有科学家曾经担忧的那么大。一项研究表明，宇航员能够很好地适应数月的失重状态。在研究中，科学家监测了 13 名在国际空间站停留了约 6 个月的宇航员的心脏状况。结果显示，尽管太空飞行最初会影响心脏功能，但宇航员会逐渐适应这种环境，而每日高强度锻炼在维持心血管健康方面发挥了重要作用。在地球上，心脏需持续对抗重力来泵血，而肌肉需要支撑体重；在太空中，这些负荷大幅降低，久而久之，肌肉乃至心脏都会出现萎缩。但重返重力环境后，血液会被拽向下半身，宇航员着陆后常出现头晕、眼前发黑，甚至血压骤降的症状，这被称为直立性低血压。作为NASA“运动对抗措施”项目的一部分，宇航员每天最多锻炼两个小时，训练内容包括 30 至 45 分钟的耐力训练，以增强心血管系统；60 至 75 分钟的抗阻训练，以保持肌肉质量和力量。",
+          "link": "https://www.solidot.org/story?sid=85724",
+          "publishedOn": "2026-10-27T10:57:21.000Z",
+          "wordCount": 296,
+          "title": "宇航员的心脏能承受飞往火星的数个月之旅",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85723",
+          "author": null,
+          "description": "广电总局周二公布了《交互式网络电视运营服务管理暂行规定》，该暂行规定将从 2026 年 11 月 27 日起施行。新规包括：",
+          "link": "https://www.solidot.org/story?sid=85723",
+          "publishedOn": "2026-10-27T10:22:23.000Z",
+          "wordCount": 296,
+          "title": "广电总局发布规定限制电视开机广告",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85722",
+          "author": null,
+          "description": "美国社交新闻平台 Reddit 专注于讨论开源项目的社群 r/opensource 公布了禁止 AI 的政策《Your tokens aren't valuable: No more AI》，理由是 AI 与该社群不兼容，要求递交到该社群的开源项目必须至少存在一年、有多名贡献者，发帖者必须会说英语而不是用 AI 翻译。这一政策引发了激烈的讨论，随后有人创建了新的允许 AI 的开源社群如 r/OpenSourceAIAllowed。r/opensource 的版主（moderator）表示该政策未来会进行调整，该社群主要禁止的是那种用 AI 工具生成的个人项目，而不是 Linux 内核之类的知名项目。Linux 作者 Linus Torvalds 最近公开表达支持 AI，而内核也不再强制要求 AI 生成代码打上标签。",
+          "link": "https://www.solidot.org/story?sid=85722",
+          "publishedOn": "2026-10-27T10:09:57.000Z",
+          "wordCount": 323,
+          "title": "Reddit 开源社区争议是否禁止 AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85721",
+          "author": null,
+          "description": "1972 年英格兰、苏格兰和威尔士改革了义务教育法，将最低离校年龄从 15 岁提高到了 16 岁，1957 年 9 月 1 日或之后出生的学生必须完成更长时间的教育；而截止日期前出生的人仍然可以在 15 岁离校。这一教育政策改革在几十年后带来了意想不到的结果：痴呆症的诊断率下降。研究人员利用英国生物银行的数据，通过医院记录、死亡登记和参与者自述病史，追踪他们直至 65 岁。结果发现，出生在义务教育改革截止日期之后——因此需要接受更长时间教育——的人，比出生在截止日期之前的人，患痴呆症的概率更低。研究还发现，高遗传易感人群痴呆症的发病率也出现了下降。研究结果表明，教育可能对痴呆症遗传风险最高的人群具有特别的保护作用。研究首次记录了教育与痴呆症诊断之间的因果关系，表明教育可以降低痴呆症的遗传风险。",
+          "link": "https://www.solidot.org/story?sid=85721",
+          "publishedOn": "2026-10-27T07:56:37.000Z",
+          "wordCount": 298,
+          "title": "接受更多教育降低了几十年后的痴呆风险",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85720",
+          "author": null,
+          "description": "IBM CEO Arvind Krishna 表示在企业内部部署开放权重模型极具价值。他指出，2024 年闭源前沿模型在性能上显著优于开源方案。前沿模型在基准测试中可能会得到 70 分，而开放权重模型可能只有 20 或 30 分。但到了 2025 年末双方的差距缩小了，不再是 70 分对 20 或 30 分，而是 70 分对 50 分。今天的开放权重模型的 Token 成本仅为前沿模型的 10% 到 25%，而在有效性上达到了前沿模型的 90%。“对任何企业来说，这都是一个简单的问题：如果有一种方案成本仅为顶尖方案的 10%，且有效性达到后者的 90%，你会选择它，还是愿意支付高出 10 倍的成本？”他认为大多数企业会选择避免承担额外的成本。绝大多数常规任务可以使用开放权重模型，而少数任务可以使用前沿模型。",
+          "link": "https://www.solidot.org/story?sid=85720",
+          "publishedOn": "2026-10-27T07:44:22.000Z",
+          "wordCount": 325,
+          "title": "IBM CEO 称开放权重模型性能优秀成本低廉",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85719",
+          "author": null,
+          "description": "Mozilla 在 YouTube 上推出了一则广告《It’s time to come back to Firefox. The Internet you loved is still here.》，试图通过唤起对互联网早期黄金时代的怀旧之情吸引新用户安装 Firefox 浏览器。Mozilla CEO Anthony Enzor-DeMeo 在 Linkedin 上发文指出，“如今的互联网会追踪你、干扰你，索要它其实早已获取的权限。但互联网并非一直如此，也不该是这副模样。这只是少数几家公司为牟利而强行设定的运作方式。”\n“Firefox 选择了不同的道路。还记得我们吗？我们依然在这里，而且我们认为互联网本不该是现在这样……”广告邀请了多位昔日的网红出演。",
+          "link": "https://www.solidot.org/story?sid=85719",
+          "publishedOn": "2026-10-27T07:21:54.000Z",
+          "wordCount": 317,
+          "title": "Mozilla 推出新广告，呼吁重返互联网的美好旧时光",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85718",
+          "author": null,
+          "description": "微软向 6 万名符合条件的员工提供自愿离职方案。涉及员工人数占到了公司员工总数的四分之一。微软将向美国、印度、加拿大和英国符合条件的员工提供自愿离职方案（Voluntary Exit Offer，VEO）。职级在 70 级及以下的微软员工都有资格参与该计划。微软的 65-67 级员工对应的是首席（Principal）职位，68-70 级则属于合伙人/杰出（Partner/Distinguished）级别。这是微软在 2026 年内第二次实施自愿性员工缩减计划。今年 4 月微软向 8750 名美国员工提供了自愿退休方案。7 月 Xbox 部门裁减了 3200 名员工，约占整个游戏部门员工总数的 20%。符合 VEO 条件的员工将于周一收到电子邮件通知。",
+          "link": "https://www.solidot.org/story?sid=85718",
+          "publishedOn": "2026-10-27T06:42:28.000Z",
+          "wordCount": 315,
+          "title": "微软向 6 万员工提供自愿离职方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85717",
+          "author": null,
+          "description": "Anthropic 已经向 SEC 递交了 S1 文件，最早下个月上市。Anthropic 的 IPO 不仅仅会是一家 AI 公司的亮相派对，还将成为对经济的一次试金石考验，关乎数万亿美元的利益。制造 Claude 聊天机器人的Anthropic是人工智能行业的一根台柱。它在私募市场估值近 1 万亿美元，并获得超过 1300 亿美元融资支持，可能在其发行中筹集 1000 亿美元，从而迅速成为世界上最大的上市公司之一。而此事还关系到更大的利益。Anthropic 及其主要竞争对手 OpenAI 位于一个由商业伙伴和供应商组成的金字塔顶端——基础设施提供商、芯片制造商、能源公司和 AI 初创企业——它们在过去的四年里都投入巨资，因为它们相信对 AI 产品的需求将持续增长。Anthropic 的挂牌上市，将让外界首次得以深度审视支撑此轮 AI 繁荣的关键企业的健康状况，同时也将检验其增长的持续性。市场对 AI 服务的需求是否真如无底洞般旺盛，足以证明在芯片、数据中心及其他基建上的庞大开支是合理的？抑或 Anthropic 的表现将表明，这一切是有局限的？",
+          "link": "https://www.solidot.org/story?sid=85717",
+          "publishedOn": "2026-10-27T06:33:38.000Z",
+          "wordCount": 329,
+          "title": "Anthropic 公布了 S1 文件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85716",
+          "author": null,
+          "description": "日本的一项研究观察了母蝙蝠如何识别幼崽叫声，发现母蝙蝠听到自己幼崽的叫声心跳会加速，听到其它幼崽的叫声则不会。研究人员从同志社大学附近的一个蝙蝠群落捕获了四只怀孕的蝙蝠。每只蝙蝠都产下了三只幼崽。幼崽出生两天后，科学家记录了它们的隔离叫声（Isolation call）样本。由于部分母蝙蝠没有雌性幼崽，为排除性别差异的影响，科学家只记录了雄性幼崽的叫声。隔离叫声类似人类婴儿在母亲离开之后的哭声。幼崽出生约 40 天后，研究人员将雌蝙蝠与幼崽分开，用心电图仪记录心率，播放不同的幼崽叫声。他们还播放了一只陌生成年雄性蝙蝠的叫声，以观察雌性蝙蝠的反应。结果显示，母亲听到自己幼崽的叫声时心率会显著加快。陌生成年雄性蝙蝠的叫声也会引起强烈的心率反应，可能是因为雌蝙蝠将雄性视为威胁：心跳加快表明蝙蝠做出了反应，但科学家无法判断这种反应是积极的还是消极的。",
+          "link": "https://www.solidot.org/story?sid=85716",
+          "publishedOn": "2026-10-26T14:48:44.000Z",
+          "wordCount": 287,
+          "title": "母蝙蝠听到自己幼崽的叫声心跳会加速",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85715",
+          "author": null,
+          "description": "亚马逊负责宽带卫星项目 Amazon Leo 的副总裁 Chris Weber 透露，该公司已经制造出 1000 颗卫星，其中 396 颗卫星在轨运行，他们正在调整卫星轨道，地面接收端还有大量工作要做，计划是到 2026 年底启动初步服务。亚马逊第一代宽带卫星星座计划包含 3232 颗卫星。该公司计划率先向消费者提供服务，随着后续卫星的发射，逐步扩大服务覆盖范围。亚马逊声称，其卫星网络最高可提供 1 Gbps 的下载速度和 400 Mbps 的上传速度。Amazon Leo 的最大竞争对手 SpaceX 的 Starlink 星座则已经有超过 1.1 万颗在轨卫星，超过任何竞争对手。",
+          "link": "https://www.solidot.org/story?sid=85715",
+          "publishedOn": "2026-10-26T14:38:02.000Z",
+          "wordCount": 313,
+          "title": "亚马逊计划年底推出互联网宽带服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85714",
+          "author": null,
+          "description": "研究人员分析了 3 万名 20 岁及以上美国成年人的膳食数据。2003-2018 年间，人均咖啡饮用量基本稳定在每天约 13 盎司。但人们每天从咖啡中获取的平均热量从 43 卡路里上升至 60 卡路里，涨幅接近 40%。研究人员将咖啡饮品分为两大类——纯咖啡和添加了其他配料的咖啡；再把各种添加物划分为多个类别，包括鲜奶、对半奶（一半鲜奶+一半淡奶油）、淡奶油、植物奶、植脂末、糖/糖浆、代糖，还有酒精、可可粉等其他配料。2003-2018 年发生改变的是人们往咖啡里添加配料的种类和用量。按重量计算，2018 年最常添加的配料是鲜奶，每日平均 21.4 克；其次是植脂末，每日平均 8.1 克；糖每日平均 4.4 克。在整个研究周期内，鲜奶、糖和代糖的摄入量均无统计学意义上的显著变化。但植物类添加物的变化趋势截然不同，到 2018 年植脂末已经成为额外热量的第一大来源。平均而言，植脂末每日贡献 18.5 卡路里，糖贡献 16 卡路里，鲜奶贡献 11 卡路里。",
+          "link": "https://www.solidot.org/story?sid=85714",
+          "publishedOn": "2026-10-26T14:18:03.000Z",
+          "wordCount": 321,
+          "title": "咖啡热量 15 年增加接近四成",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85713",
           "author": null,
@@ -1041,46 +1201,6 @@
           "publishedOn": "2026-10-19T06:28:02.000Z",
           "wordCount": 314,
           "title": "Linux 7.3 释出",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85643",
-          "author": null,
-          "description": "考古学家长期以来认为秦始皇兵马俑全是由成年男性工匠制作的。但俑上的指纹显示，男性、女性甚至儿童都参与了这项宏大工程。秦始皇帝陵博物院的考古学家从同一发掘坑内的 36 尊兵马俑上提取出 91 枚指纹，其中 12  枚指纹被认为是个别人留下的重复指纹而剔除。研究人员分析了剩下的 79 枚指纹，它们分布在兵马俑的各个部位——头部、手臂、盔甲、手部、领口，甚至还有脚部——显然是制作过程中无意留下的。其中 73 枚指纹是在塑形、成型和组装过程中留下的，6 枚是将预先制作好的装饰如盔甲铆钉和腰带按压到陶俑表面时形成的。研究人员估计，45% 的指纹可能来自成年男性之手；32.7% 的指纹来自成年女性；其余 22.3% 则来自 15 岁以下的儿童。当时的劳动力中出现儿童可能并不罕见。秦代的历史文献记载了一套正式的学徒制度，儿童会在经验丰富的工匠指导下学习。研究人员推测，小学徒可能被分配了相对简单的任务，如盔甲上添加装饰细节，而经验更丰富的工匠则负责要求更高的工作。",
-          "link": "https://www.solidot.org/story?sid=85643",
-          "publishedOn": "2026-10-18T15:14:58.000Z",
-          "wordCount": 302,
-          "title": "指纹显示秦始皇兵马俑的制作者有男有女有儿童",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85642",
-          "author": null,
-          "description": "宾夕法尼亚大学 78 岁的荣休教授 Marvin 本周因拒绝给 Uber Eats 的送货机器人让路而被捕。她表示自己记不得多少次挡住机器人的路了，称自己在进行抗议，旨在反对“为增加自身利润而用机器人取代人类送货员的企业”。Marvin 说，她在现场停留了“相当长一段时间”，警察过来要求她让路，让机器人完成送货任务。在她多次拒绝后，警方以扰乱治安为由将她逮捕。Marvin 并未因这次逮捕而退缩，她计划以“美国宪法第一修正案赋予的抗议权利”为由，对这项指控提出抗辩。她打算继续阻挡 Uber Eats的 机器人，并与那些好奇询问她在做什么的路人交流。",
-          "link": "https://www.solidot.org/story?sid=85642",
-          "publishedOn": "2026-10-18T14:43:08.000Z",
-          "wordCount": 311,
-          "title": "退休教授因阻止 Uber Eats 机器人送货被捕",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85641",
-          "author": null,
-          "description": "Linux 邮件列表中的一则消息披露，2026 年 10 月 8 日捷克布拉格举行的维护者峰会（Maintainers Summit）达成了一项重大决策：向内核提交代码时，无需再使用“Assisted-by”标签。这意味着内核开发者递交代码无需声明是否 AI 辅助编写。Linux 作者 Linus Torvalds 认为，禁止使用 AI 就像禁止使用文本编辑器是极其愚蠢的规定，表示他认为从事内核开发的人知道他们在做什么。他本周递交了一组用 Claude Code 开发的补丁，但补丁被发现存在竞态条件，其内存回收也被认为有问题，这组补丁的后续开发被交给了人类开发者 Kiryl Shutsemau。",
-          "link": "https://www.solidot.org/story?sid=85641",
-          "publishedOn": "2026-10-18T14:28:17.000Z",
-          "wordCount": 312,
-          "title": "内核开发者递交代码无需声明是否 AI 辅助编写",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85640",
-          "author": null,
-          "description": "Meta 修改了其商业服务条款，新条款将于 2026 年 10 月 30 日生效。新增条款赋予了 Meta 一项权利，允许它使用自动化软件抓取客户内容，将其用于改进包括 AI 模型在内的公司产品。所谓的自动化软件包括了网页抓取工具、机器人、爬虫及用户智能体。News/Media Alliance 总裁 Danielle Coffey 发表声明谴责 Meta 的做法，认为此举涉嫌违法。法学教授 Eric Goldman 认为，新增服务条款存在程序和实质层面的问题，他表示尽管他倾向于认为合同起草者抱有善意，但 Meta 在业界早已毫无信誉可言，根本谈不上什么善意。",
-          "link": "https://www.solidot.org/story?sid=85640",
-          "publishedOn": "2026-10-18T14:10:15.000Z",
-          "wordCount": 316,
-          "title": "Meta 新增条款允许其抓取客户内容并用于训练 AI",
           "imageUrl": null
         }
       ]
