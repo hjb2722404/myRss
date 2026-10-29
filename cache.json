@@ -12,6 +12,46 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/test-macos-security-emudhra-certificate/",
+          "author": "青小蛙",
+          "description": "距离 eMudhra 证书私钥泄露事件曝光，已经过去 12 天了，就连 eMudhra 自己都彻底退出安全证书行业了，但是苹果最新更新的 macOS 27.2 系统，仍然在自带的 git、curl 等开发工具中信任该证书。@Appinn 各位尊贵的 Mac 用户，现在打开你的终端就可以测试： 青小蛙",
+          "link": "https://www.appinn.com/test-macos-security-emudhra-certificate/",
+          "publishedOn": "2026-10-29T04:28:19.000Z",
+          "wordCount": 2824,
+          "title": "测试你的 Mac 安全性：苹果最新 macOS 27.2 系统仍然信任私钥已泄露的 eMudhra 证书",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/macOS-27.2-E4BB8DE4BFA1E4BBBBE6B384E99CB2E8AF81E4B9A6.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/ai-agent-fixes-windows-problems/",
+          "author": "青小蛙",
+          "description": "我有一个 Windows 10 故障，已经出现很长时间了。 每次开机后没多久，就会出现在系统通知中： 点击以获取详细信息后，会打开系统设置页面。 没了，就没有然后了，很诡异。 本着能用就不动的原则，我一直凑合着，毕竟什么都不影响，能用。 但很烦。 昨天突然想到，我是不是可以用 AI Agent 来解",
+          "link": "https://www.appinn.com/ai-agent-fixes-windows-problems/",
+          "publishedOn": "2026-10-28T11:37:03.000Z",
+          "wordCount": 2315,
+          "title": "终于解决了 Windows 出现「A字出现了问题，无法安装功能」的故障",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/AI-E58AA9E6898BE8A7A3E586B3-Windows-E99ABEE9A298.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/strata-0-2-7/",
+          "author": "青小蛙",
+          "description": "再次更新Strata 0.2.7.1 支持在 NVIDIA DGX Spark（Linux ARM64）上运行，DeepSeek-V4.1-Flash 则支持在 Apple 芯片 Mac 上运行 就在刚刚，开发者直接修改了 v0.2.7 发布页面，新增 0.2.7.1 更新说明： Apple Sil",
+          "link": "https://www.appinn.com/strata-0-2-7/",
+          "publishedOn": "2026-10-28T09:18:51.000Z",
+          "wordCount": 2604,
+          "title": "Strata 0.2.7.1 发布：12GB 及以下显存加速，RTX 3060 生成代码快了 37%｜支持 NVIDIA DGX Spark",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Strata-0.2.7-12GBE698BEE58DA1E58AA0E9809FE4B893E5AEB6E8B7AFE794B1.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/istat-menus-7-5-astronomy/",
+          "author": "青小蛙",
+          "description": "著名的 macOS 系统信息监控工具 iStat Menus 7.5 新增了一个Astronomy（天文学）」功能，可以显示当前位置的日出、日落，高度曲线、天文事件、天文图片等信息。@Appinn 作为一款以设计优美著称的软件，iStat Menus 的存在感其实并不高，因为它属于只有需要的时候才打",
+          "link": "https://www.appinn.com/istat-menus-7-5-astronomy/",
+          "publishedOn": "2026-10-28T07:22:26.000Z",
+          "wordCount": 2278,
+          "title": "iStat Menus 7.5 新增「Astronomy（天文学）」功能",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/E6989FE7A9BAE8A782E6B58BE58A9FE883BDE5AEA3E4BCA0E6A8AAE5B985.jpg"
+        },
+        {
           "id": "https://www.appinn.com/google-deepmind-genie-4/",
           "author": "青小蛙",
           "description": "以前 AI 生成图片、视频，你只能看。现在，Genie 4 可以让你直接走进去玩。@Appinn Google DeepMind 刚刚发布了 Genie 4，一款可以实时生成虚拟世界的 AI 模型。 比如，让 AI 生成一座小镇，你就可以像玩游戏一样，在街道上散步、拐进小巷，看看前面有什么。 觉得天",
@@ -345,36 +385,6 @@
           "wordCount": 2507,
           "title": "Strata 0.2 测试版发布：性能升级，门槛再降低｜低配电脑运行本地大模型",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-20T152348.784.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/fake-photocraft-malware/",
-          "author": "青小蛙",
-          "description": "前段时间，有开发者利用 AI 复刻了一套 Adobe 全家桶 PhotoCraft，包括 Photoshop、Illustrator、Premiere Pro 等软件，免费开源，火爆全网。 万万没想到，根据火绒安全实验室的报道，有攻击者假借开源图像编辑项目 PhotoCraft 之名，分发携带恶意程",
-          "link": "https://www.appinn.com/fake-photocraft-malware/",
-          "publishedOn": "2026-10-19T10:04:44.000Z",
-          "wordCount": 2300,
-          "title": "有人用 AI 复刻了 Adobe 全家桶，黑客用 AI 复刻了复刻，专偷密码和数字钱包",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-19T180131.681.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/pwnescape-cve-2026-99999/",
-          "author": "青小蛙",
-          "description": "更新：该研究人员因为这个漏洞的发现，拿下了 Vercel 提供的 5 万美金奖金，而本次漏洞消耗了 700 美元的 AI API 额度。 Linux 又出现了一个严重安全漏洞。 近日，安全研究人员公开了一个名为 PwnEscape 的 Linux 内核漏洞，编号 CVE-2026-99999，CVS",
-          "link": "https://www.appinn.com/pwnescape-cve-2026-99999/",
-          "publishedOn": "2026-10-19T08:10:37.000Z",
-          "wordCount": 2372,
-          "title": "PwnEscape：Linux 爆 9.3 分严重漏洞，一台 VPS 可能攻陷整台宿主机｜CVE-2026-99999",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Copy-of-appinn-homework-2026-10-19T155049.517.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/faxian-top10-2642/",
-          "author": "青小蛙",
-          "description": "最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 序号 主题 1️⃣ 【开发者自荐】Listary V7.1 发布： 8 年来最大一次更新，最快最丝滑的搜索工具它来啦 2️⃣ 自荐一个为自用而生的安卓漫画阅读器：漫读 1.5 3️⃣ 【开源自荐】屏译：开源 Andro",
-          "link": "https://www.appinn.com/faxian-top10-2642/",
-          "publishedOn": "2026-10-19T01:00:33.000Z",
-          "wordCount": 2250,
-          "title": "发现频道：10款大家发现的好评软件[2026年第42期]",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/01/Copy-of-appinn-homework-16.jpg"
         }
       ]
     },
@@ -433,6 +443,86 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85737",
+          "author": null,
+          "description": "一名住在西雅图的 31 岁华人女子，因依照 ChatGPT 提供的逐日减药计划，自行将抗癫痫药物逐步减量至停药后死亡。其父母向旧金山高等法院提起不当致死诉讼，控告 OpenAI 及其 CEO Sam Altman，指 ChatGPT 无照行医、提供危险且不准确的医疗建议。OpenAI 回应称这是“令人心碎的事件”，但涉案的是已经下架的早期版本。死者名为万博文(Bowen Wan)，来自江苏，毕业于亚利桑纳州立大学信息工程系，曾在亚马逊担任软件工程师，2021 年起请长期病假。她患有严重癫痫，服用多年的药物一度失效，后来改用新药，发作次数降至每月数次。她自 2023 年起频繁使用 ChatGPT，询问感情、健康保险与身心障碍给付等问题；2025 年平均每周传送逾 1500 则消息。2025 年 11 月她得知将被亚马逊裁员，须在次年 2 月中旬前找到工作才能留在美国。她担心药物影响语言能力，2026 年 1 月向 ChatGPT 提出，想把抗癫痫药拉莫三嗪(Lamotrigine)的每日剂量从 400 毫克降到 300 毫克，以利求职面试。ChatGPT 回复“这不仅合理，在你目前的情况下也完全做得到”，之后并依她的追问拟定更低剂量的减药时程表。诉状指控，ChatGPT 在 25 天内设计出逐日减药表，把她稳定服用的 40 0毫克降到零，并鼓励她隐瞒医师。",
+          "link": "https://www.solidot.org/story?sid=85737",
+          "publishedOn": "2026-10-28T14:46:03.000Z",
+          "wordCount": 333,
+          "title": "女子信任 ChatGPT 的用药决策，结果因此猝死",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85736",
+          "author": null,
+          "description": "统计数据显示，至少 30 位加州亿万富翁累计投入逾 2.93 亿美元反对亿万富翁税。亿万富翁税将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。在反对该税的亿万富翁中，Google 联合创始人 Sergey Brin 出资最多，投入巨资的还有 Google 前 CEO Eric Sc​​hmidt、风险投资人 John Doerr、Stripe CEO Patrick Collison、加密货币行业高管 Chris Larsen 等。另一位支持亿万富翁税的亿万富翁 Tom Steyer 也投入了大量资金。",
+          "link": "https://www.solidot.org/story?sid=85736",
+          "publishedOn": "2026-10-28T14:23:06.000Z",
+          "wordCount": 324,
+          "title": "加州亿万富翁投入逾 2.93 亿美元反对亿万富翁税",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85735",
+          "author": null,
+          "description": "2025 年 6 月正式启动观测的 Vera C. Rubin 天文台其任务之一是绘制太阳系内小天体地图，尤其是柯伊伯带天体。现在天文学家报告利用天文台的观测设备在柯伊伯带发现了一颗巨大的矮行星候选天体。矮行星是指不完全符合行星定义但也不是卫星的行星质量天体，目前国际天文学联合会确认的太阳系矮行星共五颗：冥王星、阋神星、妊神星和鸟神星，以及谷神星，此外还有十几颗候选天体。最新发现的天体编号为 2026 ED138，其直径在 600-1500 公里之间，大小可能与妊神星和鸟神星相当。ED138 绕太阳运行一周大约需要 281 年，其近日点距离太阳 36.8 6个天文单位，远日点 49.04 个天文单位。通过进一步观测，尤其是红外波段的观测，天文学家将能更精确确定其大小，评估是否符合矮行星的标准。",
+          "link": "https://www.solidot.org/story?sid=85735",
+          "publishedOn": "2026-10-28T14:09:50.000Z",
+          "wordCount": 304,
+          "title": "天文学家在柯伊伯带发现一颗巨大的矮行星候选天体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85734",
+          "author": null,
+          "description": "哈佛医学院、麻总百瀚的科学家探讨了妊娠与生物衰老之间的关联。研究者提出假设：若妊娠间隔过短，身体可能缺乏足够的恢复时间，从而导致与生物衰老相关的变化不断累积。研究者提出，两次妊娠之间的恢复时间最终可能影响母亲的长期健康。间隔较短的反复妊娠可能会阻碍身体的完全恢复，致使某些变化在连续妊娠中逐渐累积。世界卫生组织目前建议，在活产之后至少等待 24 个月再受孕，以降低母婴的健康风险。但研究者指出，若要基于生物学衰老而非妊娠结局提出具体建议，则需要开展额外研究，以在多次妊娠中测量生物学年龄，并在随后数十年间对这些母亲进行长期追踪。",
+          "link": "https://www.solidot.org/story?sid=85734",
+          "publishedOn": "2026-10-28T10:50:34.000Z",
+          "wordCount": 287,
+          "title": "生育后不久再次分娩可能加速衰老",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85732",
+          "author": null,
+          "description": "模拟服装制作的游戏《针影裁梦（Dressmaker）》于 9 月 21 日发售，一个月后在 Steam 平台玩家留下了逾 1.7 万评论，好评率 98%，同时在线玩家人数稳定在 1.5 万以上，对于一款小型独游而言称得上现象级了。游戏主要开发者是 Jonathan Hau-Yoon 及其伴侣 Sabrina Becker，其中 Becker 是服装设计师，她对服装制作工艺的深入理解成为游戏设计的重要依据。Becker 认为，除了游戏本身极具沉浸感和满足感之外，它成功的部分原因在于触及了一个在游戏领域长期被忽视的群体——女性。在游戏领域，女性群体一直未得到足够的重视，尽管她们其实非常热爱游戏。人们往往误以为女性不玩游戏是因为她们不喜欢，但事实是市场缺乏针对她们兴趣点的游戏作品。她观察到在 Roblox 等平台上有庞大的女性群体热衷于换装类游戏。“尽管这些平台上的体验不尽如人意，但她们依然乐此不疲，因为她们确实非常渴望此类玩法，而其他地方又无法提供。这正是我们开发《针影裁梦》的灵感来源之一。既然这是她们想要的，那我们就为她们提供这样的体验。”",
+          "link": "https://www.solidot.org/story?sid=85732",
+          "publishedOn": "2026-10-28T10:31:06.000Z",
+          "wordCount": 305,
+          "title": "游戏行业缺乏专门为女性打造的游戏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85731",
+          "author": null,
+          "description": "在人类演化史的大部分时间里，地球同时存在多个人种。以过去 10 万年为例，尼安德特人曾活跃在欧洲和西亚，丹尼索瓦人生活在亚洲，形似霍比特人的弗洛勒斯人（Homo floresiensis）居住在印尼的弗洛勒斯岛，爪哇岛上最后的直立人刚刚灭绝。现代人类/智人只是其中之一。我们自己可能会认为如今单一的的人类世界是常态，研究远古历史的科学家则认为如今才是奇怪的时代，为什么现代人类成为最后幸存的一支人种？其他人种都经历了什么？在一种叙事中，人类认为其近亲过于原始而理所当然被淘汰，认为现代人类有着更大的大脑、熟练的工具使用能力以及复杂的社会结构而注定要统治地球，我们是最优秀的。但越来越多的证据显示，我们与近亲的智力差距其实很小。尼安德特人由于生存年代较近而被研究的最为充分。那么尼安德特人究竟发生了什么？一种回答是：他们仍然活着，尼安德特人与现代人类融合，他们的 DNA 留在我们的 DNA 里。丹尼索瓦人的情况类似。当然尼安德特人自己可能不会这么认为，他们作为独立的人种已经消失了。那么为什么如今只剩下现代人类？我们的成功有多少源于自身独特的能力？又有多少仅仅归于运气？澳大利亚研究组织 Australian Research Council’s Centre of Excellence for Transforming Human Origins Research 主任 Michael Petraglia 指出，我们必须认识到，智人在地球上存在的时间其实并不长，我们的生存并非理所当然。智人最终能否被视为成功的物种仍未成定论。直立人曾在地球上生存了逾一百万年，尼安德特人则存在了四十万年。尽管科学界对于智人的起源仍存争议，但许多学者认为，智人作为一个物种至今仅存在了约三十万年。",
+          "link": "https://www.solidot.org/story?sid=85731",
+          "publishedOn": "2026-10-28T08:51:55.000Z",
+          "wordCount": 306,
+          "title": "尼安德特人发生了什么？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85730",
+          "author": null,
+          "description": "拯救失败的 NASA Neil Gehrels Swift 天文台正在坠落，预计于 11 月 2 日重返大气层。10 月 20 日，轨道高度 275 公里的 Swift 天文台无法再应对高层大气日益增强的阻力，它进入了安全模式。运营该天文台的宾夕法尼亚州立大学团队随后发送指令，正式结束其科学使命，为再入大气层做准备。NASA 于 10 月 23 日宣布天文台的任务结束。Swift 天文台的坠落速度在加快。10 月 27 日的轨道高度为 255 公里，比一周前下降了接近 23 公里，平均每天下降超过 3 公里。根据目前的轨道衰减速度，Swift  预计将于 11 月 2 日再入大气层。",
+          "link": "https://www.solidot.org/story?sid=85730",
+          "publishedOn": "2026-10-28T07:26:16.000Z",
+          "wordCount": 341,
+          "title": "Swift 天文台预计于 11 月 2 日重返大气层",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85729",
+          "author": null,
+          "description": "根据野村证券的数据，今年 7 月在中国移动互联网使用时长排名前 50 的应用中，抖音首次超过微信，占总时长的 19.4%，微信占 18.8%；整个字节系的时长份额达 40.9%，腾讯系占 28.6%。字节旗下红果免费短剧的日活跃用户达到 1.68 亿人，超过腾讯视频、爱奇艺、优酷、芒果 TV 四大长视频平台的总和。红果短剧的日均使用时长约 125 分钟，抖音约 112-120 分钟，均超过腾讯系产品微信的 82=85 分钟。字节跳动抖音海外版 TikTok 以及 AI 助手豆包都非常受欢迎。",
+          "link": "https://www.solidot.org/story?sid=85729",
+          "publishedOn": "2026-10-28T06:56:14.000Z",
+          "wordCount": 306,
+          "title": "字节跳动旗下应用使用率超过竞争对手",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85728",
           "author": null,
@@ -1111,96 +1201,6 @@
           "publishedOn": "2026-10-20T06:19:21.000Z",
           "wordCount": 294,
           "title": "兔子曾是英国中世纪王室珍品",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85652",
-          "author": null,
-          "description": "ESA Hera 探测器将在一个月后书写历史，它即将与执行首次行星防御测试的两颗小行星交会。NASA 执行双小行星重定向测试（Double Asteroid Redirection Test ，DART）任务的探测器于 2022 年 9 月撞击了 Didymos-Dimorphos 双小行星之一的 Dimorphos。Didymos 是双小行星系统中的主体，直径约 780 米，Dimorphos 直径约 \n151 米。DART 的撞击使得 Dimorphos 的轨道周期缩短了约 32 分钟。Hera 探测器于 2024 年 10 月 7 日发射，其任务之一是近距离观察这次撞击成果。Hera 携带了两颗立方星 Juventas 和 Milani，分别由卢森堡的 GomSpace 和意大利都灵的 Tyvak International 制造。它们将在 Hera 抵达目标区域之后分离，其中 Milani 将负责分析两颗小行星周围的尘埃环境并研究其光谱成分；Juventas 将对比两颗小行星的内部结构，甚至可能尝试靠近 Dimorphos 并最终在其表面着陆。",
-          "link": "https://www.solidot.org/story?sid=85652",
-          "publishedOn": "2026-10-19T13:59:09.000Z",
-          "wordCount": 348,
-          "title": "ESA Hera 探测器准备飞越 DART 撞击的小行星",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85651",
-          "author": null,
-          "description": "旨在让类 Unix操作系统如 Linux 能运行 Windows 应用的 Wine 项目移植支持 OpenBSD 操作系统。测试显示能正常运行大部分 64 位 Windows 应用，甚至包括最近才发布的《Witcher 3》的重制版本（需要 vkd3d-proton）。但由于支持 32 位甚至 16 位应用的 WoW64 模式不能正常工作，意味着 Wine 还无法在 OpenBSD 上运行 32 位应用。",
-          "link": "https://www.solidot.org/story?sid=85651",
-          "publishedOn": "2026-10-19T13:25:27.000Z",
-          "wordCount": 319,
-          "title": "Wine 移植到 OpenBSD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85650",
-          "author": null,
-          "description": "微软旗下的职业社交网络 LinkedIn 正在清理其平台上的 AI slop。Pangram 在 7 月曾发表报告称，LinkedIn 四成的长文由 AI 生成，相比下 X 和 Medium 上的这一比例为 30%，而 Reddit 和 Substack 比例更低。对 LinkedIn 而言，低质量 AI slop 正演变成商业问题。平台主编 Dan Roth 指出，AI slop 读起来千篇一律。如果用户在平台上看到太多同质化的 AI 生成帖子，无法获取真正有价值的知识，也无法借此深入了解职场人脉，那么 LinkedIn 面临着用户流失至其它平台的风险。LinkedIn 于 8 月上线了允许用户标记看起来像 AI slop 的帖子。LinkedIn 还在利用自己的 AI 系统去清理 AI slop，限制 AI slop 的传播。LinkedIn 上个月表示 AI slop 的浏览量下降了四成。",
-          "link": "https://www.solidot.org/story?sid=85650",
-          "publishedOn": "2026-10-19T11:56:04.000Z",
-          "wordCount": 347,
-          "title": "LinkedIn 清理其平台上的 AI slop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85649",
-          "author": null,
-          "description": "OpenAI、Meta、Google、Instinct 等公司承诺，AI 智能体能代你浏览互联网，完成从预订餐厅、清理邮箱到购买新鞋等任务。但如果平台不予以配合会怎样？使用 Meta 的 Muse、xAI 的 Grok、OpenAI 的 Dots 以及 Instinct 等智能体服务的用户最近几周发现其智能体在访问部分主流网站时遭到屏蔽，无法执行任务。Yelp 表示该平台仅允许付费参与其数据许可计划的智能体进行访问；达美航空阻止了智能体代用户预订机票。摩根大通和嘉信理财也证实出于安全考虑正阻止智能体访问用户账户。此前曾支持智能体访问的网站如 Cars.com 和 Amtrak 如今已无法访问，表明其它公司也逆转了立场。亚马逊屏蔽了 Meta 的 Muse、xAI 的 Grok、Instinct 的 AI 智能体以及 OpenAI 的 Dots。AI 智能体无法访问的平台越多，人们就越会质疑其实用性。Meta 改为与沃尔玛、Gap、Sephora、百思买等零售商达成合作，允许 Muse 在这些平台进行购物。",
-          "link": "https://www.solidot.org/story?sid=85649",
-          "publishedOn": "2026-10-19T10:41:15.000Z",
-          "wordCount": 324,
-          "title": "网站对 AI 智能体关上大门",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85648",
-          "author": null,
-          "description": "在 UCLA 举办的一场数学研讨会上，陶哲轩说，“我正处于战时状态。”研讨会讨论了 AI 对数学带来的生存危机。51 岁的陶哲轩指出现在不再存在规则。10 月 6 日 OpenAI 发布了 350 多项研究成果，涵盖了代数、数论、理论计算机科学、数理逻辑和拓扑学等几乎所有数学分支。数学家们震惊不已——部分人已接近攻克他们钻研多年的难题，却发现自己瞬间被 AI 击败了。陶哲轩 24 岁时便已成为终身教授，他认为刚入行的年轻数学家面临的威胁更大。他早从 2023 年就开始使用 OpenAI 的模型，曾希望双方能互补，如今他认为自己被利用了。他指出 OpenAI 急于发布新成果的行为，暴露了其真实意图。他认为双方已经没有进行建设性合作的可能。数学所面临的危机核心：如果解决难题是数学的使命，那么当机器能比人类更快完成这项任务时会发生什么呢？高等数学领域的诸多方面——包括人员聘用、晋升、研究生培养以及学术声誉——很大程度上都取决于数学家所撰写论文（阐述证明过程的文献）的难度、质量及其影响力。",
-          "link": "https://www.solidot.org/story?sid=85648",
-          "publishedOn": "2026-10-19T09:41:54.000Z",
-          "wordCount": 307,
-          "title": "陶哲轩谈数学的生存危机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85647",
-          "author": null,
-          "description": "密歇根州立大学的一项研究发现，无论是跨越不同世代的音乐人，还是在同一位音乐人的职业生涯，流行乐在表达情感和人际关系方面日益变得不再那么直接与明显。研究表明，随着时间的推移，歌词中的情感色彩和社交导向都有所减弱。在音乐人的职业生涯中，表达积极和消极情绪的词汇使用量均有所下降，对家人和朋友的提及也同样减少了。歌词中与焦虑相关的词汇有所增加，而与悲伤相关的词汇则呈下降趋势。研究人员希望通过音乐等去探讨人们在表达情感的方式以及人际关系随着时间演变的过程。“音乐不仅仅是娱乐工具。人们借助歌曲调节情绪、认识自我、塑造身份认同并与他人建立情感纽带。这使得歌词成为了一个极具研究价值的载体，记录了艺术家——以及他们周围的听众与文化氛围——选择探讨的话题。”研究的共同作者、心理学系前副教授 William Chopik 说道，“因此，当我们看到情感和社交相关的语言表达呈现出大规模下降的趋势时，这就引出了一个非常有趣的问题：我们表达情感和理解人际关系的方式，是否在更广泛的层面发生了变化？”",
-          "link": "https://www.solidot.org/story?sid=85647",
-          "publishedOn": "2026-10-19T08:33:54.000Z",
-          "wordCount": 287,
-          "title": "歌词随着时间日益减少情感表达",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85646",
-          "author": null,
-          "description": "冰川是天然的固体水库，是下游淡水和水资源的重要来源。全球暖化导致冰川快速萎缩，削弱了下游生态系统应对干旱的能力。根据发表在 PNAS 期刊上的一项研究，对美国逾 1000 座冰川的全面评估发现，自 1950 年代中期以来，四分之一的冰川消失，冰川面积缩小了 35%——195.29 平方公里、55.3 亿吨冰——平均每十年减少 8%。美国本土的冰川多数规模较小，平均面积仅为 0.35 平方公里，主要依赖于局部地形条件维持存在。美国冰川萎缩的速度高于其它地方的冰川，如喜马拉雅山东部冰川面积 1962–2006 年之间减少了 19%，平均每十年减少约 5%。",
-          "link": "https://www.solidot.org/story?sid=85646",
-          "publishedOn": "2026-10-19T07:45:43.000Z",
-          "wordCount": 304,
-          "title": "美国四分之一冰川消失，冰量缩小 35%",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85645",
-          "author": null,
-          "description": "Nala Ginrut 写道：\n\nSonicBoom是全新的AI运行时框架[0]，采用 GPLv3 许可证，由 HardenedLinux 社区主导开发。它提供语言无关的C API接口，这意味着你可以用任意语言绑定这个库，从而实现任何编程语言都能进行高性能AI研发。目前 GNU Guile 是官方支持的语言，同时利用 Guile 的 delimited continuation 实现了应用层的“死计算消除”，只有真正有效的计算才会进入运行时。\n\n而运行时包含 LLVM MLIR，它将会把计算图再次优化，进一步去掉无效的计算图，并利用 LLVM 根据硬件具体生成 kernel，而不是手工根据硬件去优化 kernel。\n\n对于 AI 研究而言，应用层绑定的动态语言将提供 pytorch 的灵活性，以及超越 llama.cpp 的单点推理性能。其实际运行的时候会自动将计算图进行编译优化，这样同时实现了 pytorch 的动态图弹性，以及 tensorflow 的静态图性能。\n\n对于推理部署而言，无需应用层动态语言的支持，可以直接加载模型进行高效推理。但研究和生产部署使用的是完全相同的运行时图编译器优化栈，这意味着你研发完就能直接部署到产品。部署成本压缩到一个三百多MB的 .so 文件。没有几十个G的 python 全家桶。\n\nllama.cpp 依靠非常有经验的工程师进行 kernel 调优，已经将性能优化到极致。而 SonicBoom 直接利用 llama.cpp 已有的 kernel，在 kernel 优化不变的情况下，依靠图编译器的优化，将原始性能提升20%（rtx3050 8G)，并且还在持续增加中。\n\n目前 SonicBoom 社区版仅提供单点推理的能力，分布式推理能力计划于企业版提供。SonicBoom 的野心并不局限于 LLM 推理，它对标 pytorch，将在之后将更高的性能推向 image, video, tts 计算。\n\n目前 SonicBoom 仅支持 CPI 和 CUDA，之后计划支持 Vulkan，为 non-nvidia 和纯自由软件爱好者提供更好的选择。我们目前缺乏足够多样的 GPU 评测数据用于优化，所以在 rtx 3050 之外可能测试数据会发生波动，您的评测数据能帮助我们把优化扩散到更多 GPU。\n\n目前 v0.0.3 正在邀请社区贡献者参与不同 Nvidia 平台的评测，我们准备了非常简单那的脚本一行就能完成，不过测试时间可能比较长，请安排好自己的时间再参与，每位测评贡献者都会出现在贡献者名单中。[1]\n\n如果您暂时没有硬件条件或者时间参与贡献，欢迎star，或者转发让更多有兴趣的朋友一起来玩。",
-          "link": "https://www.solidot.org/story?sid=85645",
-          "publishedOn": "2026-10-19T06:37:25.000Z",
-          "wordCount": 370,
-          "title": "SonicBoom发布：AI框架告别手工调优",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85644",
-          "author": null,
-          "description": "Linus Torvalds 在内核邮件列表上宣布释出 Linux 7.3。新版本包含了来自 3,021 名开发者的 18,765 个 non-merge commits，其中 807 人是首次参与内核开发。主要更新包括：扩展 binfmt_misc 格式注册；旨在提升大型系统性能的组调度优化，使所有操作均返回失败的 failfs 文件系统，fchroot() 系统调用，sched_ext 子调度器功能的完善，虚拟机工作集追踪，ntfs3 文件系统备用数据流支持，等等。更多可浏览 KernelNewbies 7.3。",
-          "link": "https://www.solidot.org/story?sid=85644",
-          "publishedOn": "2026-10-19T06:28:02.000Z",
-          "wordCount": 314,
-          "title": "Linux 7.3 释出",
           "imageUrl": null
         }
       ]
