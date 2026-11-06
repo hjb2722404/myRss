@@ -12,6 +12,71 @@
       "siteUrl": "https://www.appinn.com",
       "articles": [
         {
+          "id": "https://www.appinn.com/itsycal-reminders/",
+          "author": "青小蛙",
+          "description": "Mac 菜单栏上的日历，现在连待办事项也能一起显示了。 Itsycal 是一款经典的 macOS 菜单栏日历工具，小巧、免费，点击菜单栏就能查看日历和日程，并且可以自定义菜单栏显示的内容。 最近，Itsycal 0.28.0 发布，加入对苹果「提醒事项」（Reminders）的支持，现在，日历事件和",
+          "link": "https://www.appinn.com/itsycal-reminders/",
+          "publishedOn": "2026-11-06T07:31:14.000Z",
+          "wordCount": 2360,
+          "title": "著名 Mac 菜单栏日历 Itsycal 更新：现在可以显示苹果提醒事项了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/11/Itsycal-E69BB4E696B0-E88F9CE58D95E6A08FE697A5E58E86E694AFE68C81E68F90E98692E4BA8BE9A1B9.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/notchnook/",
+          "author": "青小蛙",
+          "description": "Mac 刘海神器 NotchNook 回来了！ 它可以将 Mac 顶部刘海改造为多功能控制中心，AI 审批、音乐、日程、文件、快捷笔记一键查看，无刘海机型同样支持使用。 NotchNook 主要功能 NotchNook 是一款再利用 Mac 刘海屏灵动岛的 macOS 工具。它能在灵动岛上，添加媒体",
+          "link": "https://www.appinn.com/notchnook/",
+          "publishedOn": "2026-11-06T07:08:53.000Z",
+          "wordCount": 2365,
+          "title": "宝藏 Mac 工具 NotchNook 满血复活",
+          "enclosure": {
+            "url": "https://notchnook.net/images/notchnook-demo-loop-dissolve-v1.webm",
+            "length": "1320954",
+            "type": "video/webm"
+          },
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/11/Copy-of-appinn-homework-2026-11-06T150111.650.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/synology-nas-ransomware-protection-guide/",
+          "author": "青小蛙",
+          "description": "就在刚刚，群晖在公众号中发布了一篇名为《保护您的 NAS 免受勒索软件攻击》的教程，强调三点： 虽然这份教程，青小蛙觉得有些敷衍，因为它只是再次强调了使用 NAS 必须注意的事项：保持更新、注意备份。 但从中也可以看到，从10月29日最早爆出《群晖 NAS 遭勒索病毒攻击：最新 DSM 版本也有受害",
+          "link": "https://www.appinn.com/synology-nas-ransomware-protection-guide/",
+          "publishedOn": "2026-11-06T06:22:10.000Z",
+          "wordCount": 2333,
+          "title": "群晖发布教程：保护 NAS 免受勒索软件攻击",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/11/Copy-of-appinn-homework-2026-11-06T141808.698.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/openssh-sshole-cve-2026-123158/",
+          "author": "青小蛙",
+          "description": "一个超长密码，就能攻破 SSH？ OpenSSH 爆出一个隐藏了约 10 年的严重漏洞：攻击者无需知道真实密码，也不需要 SSH 私钥，只需输入一串超长密码，就可能绕过 Linux 账户的密码锁定机制，直接登录系统，甚至获得 root 权限。@Appinn 11 月 5 日，OpenSSH 紧急发布",
+          "link": "https://www.appinn.com/openssh-sshole-cve-2026-123158/",
+          "publishedOn": "2026-11-06T00:50:52.000Z",
+          "wordCount": 2084,
+          "title": "OpenSSH 爆出 10 年老漏洞：输入超长密码，就能绕过 SSH 登录验证｜CVE-2026-123158",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/11/OpenSSHE6838AE78886E58D81E5B9B4E88081E6BC8FE6B49E.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/openai-linux-kernel-948-privilege-escalation-vulnerabilities/",
+          "author": "青小蛙",
+          "description": "AI 找漏洞的速度，好吓人。 11 月 4 日，OpenAI 公布了一项安全研究：他们使用尚未公开发布的 AI 网络安全模型，在约 10 天内，发现了 948 个不同的 Linux 内核本地提权漏洞，还为这些漏洞生成了候选修复补丁。 然后，更吓人的是，这次只扫描了 Linux 内核 7% 的代码，还",
+          "link": "https://www.appinn.com/openai-linux-kernel-948-privilege-escalation-vulnerabilities/",
+          "publishedOn": "2026-11-05T10:48:22.000Z",
+          "wordCount": 2015,
+          "title": "10 天 948 个提权漏洞，7% 的 Linux 代码，被 OpenAI 扫成筛子了",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/11/Copy-of-appinn-homework-2026-11-05T184509.852.jpg"
+        },
+        {
+          "id": "https://www.appinn.com/shazao-markdown/",
+          "author": "青小蛙",
+          "description": "一个不到 10MB 的单 EXE 程序，居然塞进了所见即所得编辑、Mermaid 图表、Word/PDF 导出、多标签页、历史版本恢复等众多功能。@Appinn 有同学说可以替代 Typora，青小蛙表示还早还早。 另外，结尾还有最近发现频道的其他7款 markdown 编辑器。 Shazao（沙枣",
+          "link": "https://www.appinn.com/shazao-markdown/",
+          "publishedOn": "2026-11-05T08:59:07.000Z",
+          "wordCount": 2439,
+          "title": "Shazao（沙枣）– 8.37MB，单 EXE ，Windows 原生 Markdown 编辑器",
+          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/11/Shazao-E6B299E69EA3-Markdown-E7BC96E8BE91E599A8E5B081E99DA2.jpg"
+        },
+        {
           "id": "https://www.appinn.com/xiaomi-tv-box-apple-tvos-experiment/",
           "author": "青小蛙",
           "description": "不用 Root、不用刷机，让闲置安卓手机运行 Docker 镜像。介绍 Termux containers 是什么、可以用来做什么，以及安装和部署第一个网页服务的方法。",
@@ -265,46 +330,6 @@
           "wordCount": 2300,
           "title": "Google DeepMind 发布 Genie 4：AI 生成的世界，现在可以走进去玩了",
           "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/E5B7A8E9BE99E7BFB1E7BF94-Genie-4E5A587E5B9BBE4B896E7958C.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/microsoft-authenticator-android-cve-2026-80097/",
-          "author": "青小蛙",
-          "description": "微软的身份验证工具 Microsoft Authenticator 被发现存在一个高危漏洞（CVE-2026-80097），CVSS 评分为 8.6 分。 攻击者只需要诱导用户安装一个恶意安卓应用，即使这个 App 没有申请任何系统权限，也可能窃取用户已经登录的微软账户令牌。 感谢小熊猫在安全情报下",
-          "link": "https://www.appinn.com/microsoft-authenticator-android-cve-2026-80097/",
-          "publishedOn": "2026-10-27T08:23:46.000Z",
-          "wordCount": 2320,
-          "title": "微软身份验证器 Authenticator 曝高危漏洞：恶意 App 无需权限就能窃取账户令牌",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/E5BEAEE8BDAFE8BAABE4BBBDE9AA8CE8AF81E599A8E69B9DE9AB98E58DB1E6BC8FE6B49E.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/mac-mini-m6-national-subsidy-price-4902/",
-          "author": "青小蛙",
-          "description": "作为最佳 AI Agent 运行硬件，上一波 Mac mini M4 只需不到 3000 元的价格，就能拥有。但经历了苹果产品全线涨价，平均涨幅约 21%，以及新产品更新换代之后，Mac mini M6 的官网钙版价格已经来到了 6999 元。 现如今（2026年10月27日），Mac mini M",
-          "link": "https://www.appinn.com/mac-mini-m6-national-subsidy-price-4902/",
-          "publishedOn": "2026-10-27T06:58:13.000Z",
-          "wordCount": 2287,
-          "title": "Mac mini M6 钙版，国补后价格：¥4902｜最佳 AI Agent 运行硬件",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Mac-mini-M6-AIE7A1ACE4BBB6E5AEA3E4BCA0E59BBE.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/first-iphone-duo-apps/",
-          "author": "青小蛙",
-          "description": "苹果首款折叠屏手机 iPhone Duo 上市后，配套应用也逐步发布。 有人把它变成三明治烤箱，有人把它变成任天堂 DS，还有人把 Windows 95、老式磁带机装进了手机。 最近，WIRED 和 TechCrunch 分别整理了一批适配 iPhone Duo 的创意应用。虽然折叠屏手机已经出现多",
-          "link": "https://www.appinn.com/first-iphone-duo-apps/",
-          "publishedOn": "2026-10-27T04:26:04.000Z",
-          "wordCount": 2338,
-          "title": "第一批 iPhone Duo 应用已上线",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/E9A696E689B9-iPhone-Duo-E5BA94E794A8E4BD93E9AA8CE5B195.jpg"
-        },
-        {
-          "id": "https://www.appinn.com/cloudflare-tunnel-cloudflared-security-update-2026/",
-          "author": "青小蛙",
-          "description": "Cloudflare 发来邮件，提醒所有 Tunnel 用户尽快升级 cloudflared，旧版 cloudflared 仍然信任此前由 eMudhra 颁发的4 证书，可能导致中间人攻击（MITM）。@Appinn Cloudflare 应该是给所有 Tunnel 用户都发了邮件的，并强调这很重",
-          "link": "https://www.appinn.com/cloudflare-tunnel-cloudflared-security-update-2026/",
-          "publishedOn": "2026-10-27T03:27:51.000Z",
-          "wordCount": 2731,
-          "title": "Cloudflare 紧急通知：所有 Tunnel 用户尽快升级 cloudflared",
-          "imageUrl": "https://www.appinn.com/wp-content/uploads/2026/10/Cloudflare-Tunnel-E7B4A7E680A5E58D87E7BAA7E8ADA6E5918A.jpg"
         }
       ]
     },
@@ -313,6 +338,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=396817",
+          "author": "Stu Robson",
+          "description": "Stu created tidy-typography.css: a style reset for taming typography with modern CSS features for everything from fluid typography and vertical rhythm, to hyphens and variable fonts.\nTaming Typography: Building a Modern CSS Reset originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
+          "link": "https://css-tricks.com/taming-typography-modern-css-reset/",
+          "publishedOn": "2026-11-05T14:55:31.000Z",
+          "wordCount": 4149,
+          "title": "Taming Typography: Building a Modern CSS Reset",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2019/02/text-wrap.png"
+        },
         {
           "id": "https://css-tricks.com/?p=397777",
           "author": "Geoff Graham",
@@ -352,16 +387,6 @@
           "wordCount": 2191,
           "title": "The Frankenstein Table",
           "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/10/zombie-table.jpg"
-        },
-        {
-          "id": "https://css-tricks.com/?p=396840",
-          "author": "Daniel Schwarz",
-          "description": "We’re back! Don't worry, this isn’t a trick (despite what our name suggests!). However, due to the hiatus, we're also a little behind. That’s why this issue of What’s !important is absolutely stacked. All killer, no filler. Here's what you missed.\nWhat’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.",
-          "link": "https://css-tricks.com/whats-important-19/",
-          "publishedOn": "2026-10-27T15:09:16.000Z",
-          "wordCount": 2958,
-          "title": "What’s !important #19: CSS Refraction Effects, Scroll State Queries, @custom-media, and More",
-          "imageUrl": "https://css-tricks.com/wp-content/uploads/2026/09/wi19.jpg"
         }
       ]
     },
@@ -370,6 +395,16 @@
       "feedUrl": "http://www.ruanyifeng.com/blog/atom.xml",
       "siteUrl": "http://www.ruanyifeng.com/blog/",
       "articles": [
+        {
+          "id": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
+          "author": null,
+          "description": "这里记录每周值得分享的科技内容，周五发布。...",
+          "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-418.html",
+          "publishedOn": "2026-11-05T23:43:55.000Z",
+          "wordCount": null,
+          "title": "科技爱好者周刊（第 418 期）：如果科技停止在21世纪初",
+          "imageUrl": null
+        },
         {
           "id": "http://www.ruanyifeng.com/blog/2026/10/weekly-issue-417.html",
           "author": null,
@@ -404,6 +439,126 @@
       "feedUrl": "https://www.solidot.org/index.rss",
       "siteUrl": "https://www.solidot.org",
       "articles": [
+        {
+          "id": "https://www.solidot.org/story?sid=85815",
+          "author": null,
+          "description": "有 31 年历史的 Salon 于 2026 年 11 月 5 日宣布从即日起停止出版。Salon 创办于 1995 年 11 月 5 日，当时的互联网与今天截然不同。一小群记者开始尝试创造一些与众不同的东西：他们希望创办一种具有鲜明风格、对世界充满好奇，并且坚信互联网能以全新的方式将新闻报道与读者连接起来的出版物。他们开创了一种全新的新闻报道形式，这种形式后来成为定义了一个全新的出版时代。",
+          "link": "https://www.solidot.org/story?sid=85815",
+          "publishedOn": "2026-11-06T06:34:02.000Z",
+          "wordCount": 306,
+          "title": "Salon 宣布终止出版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85814",
+          "author": null,
+          "description": "摩托罗拉宣布了第一款支持安全加固发行版 GrapheneOS 的旗舰手机 Signature 27，但售价高达 1600 美元。Signature 27 配备了高通目前最强大的移动芯片骁龙 8 Elite Extreme Gen 6，内存只有 12GB 没有 16GB 版本（目前内存供应紧张而且价格昂贵），存储空间为 512G​​B (UFS 4.1）；显示屏为 6.8英寸 Extreme AMOLED Duo，120Hz刷新率，12,000 尼特峰值亮度；电池 7000 mAh，90W 有线充电，15W (Qi) 无线充电，等等。",
+          "link": "https://www.solidot.org/story?sid=85814",
+          "publishedOn": "2026-11-06T06:01:57.000Z",
+          "wordCount": 322,
+          "title": "摩托罗拉宣布第一款支持 GrapheneOS 的旗舰手机",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85813",
+          "author": null,
+          "description": "微软画图应用曝出了一个越界读取导致的远程代码执行漏洞，受影响版本从 11.0.0.0 到 11.2605.91.0 之前。画图应用被预装在每一台 Windows PC 上，最近一段时间微软为画图应用引入了越来越多的新功能，其中包括 AI 生成功能，它同时也给画图引入了新 bug。微软用户目前可能需要通过 Microsoft Store 官方应用商店下载修正后的版本，Windows Update 尚未推送新版本。",
+          "link": "https://www.solidot.org/story?sid=85813",
+          "publishedOn": "2026-11-06T05:45:44.000Z",
+          "wordCount": 303,
+          "title": "微软画图应用曝出远程代码执行漏洞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85812",
+          "author": null,
+          "description": "付费无广告搜索引擎 Kagi 宣布了最新更新，向所有人开放搜索，但免费用户搜索次数有限额。现在任何人无需注册账号可搜索 50 次，注册账号之后再增加 100 次。Kagi 还抨击了 Google 最近的一项决定：如果美国学校选择禁用 AI 那么它的搜索引擎也将会对学校关闭。Kagi 认为：教育不应沦为广告公司的人质，应当停止将企业利润置于教育学生这一核心使命之上。它呼吁美国学校可选择包括 Kagi 在内的其它搜索引擎。",
+          "link": "https://www.solidot.org/story?sid=85812",
+          "publishedOn": "2026-11-06T05:18:32.000Z",
+          "wordCount": 302,
+          "title": "Kagi 开放搜索",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85811",
+          "author": null,
+          "description": "2017 年发售的《尼尔：自动人形（Nier: Automata）》释出了最新更新，加入了对简繁体中文以及韩文的支持，但游戏的打包显然存在 bug，整个游戏文件的容量从 50GB 暴涨至 366GB。《尼尔：自动人形》共有八个 DLC，每增加一个 DLC，游戏的容量就会增加 40GB，也就是每个 DLC 都包含了主游戏文件。现在想要玩《尼尔》的中韩玩家最好先等待游戏开发商释出修正，除非你的 SSD 有几百 GB 的可用空间。",
+          "link": "https://www.solidot.org/story?sid=85811",
+          "publishedOn": "2026-11-06T05:07:38.000Z",
+          "wordCount": 312,
+          "title": "《尼尔：自动人形》释出更新游戏容量从 50GB 暴涨至 366GB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85809",
+          "author": null,
+          "description": "印度计算机应急响应小组（CERT-In）星期三发布安全通报，被称为“狡猾猎鹰”（Crafty Falcon）的黑客组织，已入侵非银行贷款机构、金融科技公司及加密货币交易所。攻击者利用公开可用的 AI 工具，实现高速自动化入侵。印度计算机应急响应小组形容这项威胁“仍在发生，且持续活跃”。该机构点名四款用于入侵的工具，分别是 ARTEX、PentAGI、Cairn 和 CyberStrikeAI。ARTEX 此前曾被用于攻击韩国银行。印度计算机应急响应小组没有说明这些攻击事件由谁发动，也未透露该组织的运作地点。该机构也没有称这些攻击由国家支持或主导，且其点名的攻击工具均可在网络上免费获取。",
+          "link": "https://www.solidot.org/story?sid=85809",
+          "publishedOn": "2026-11-05T16:53:00.000Z",
+          "wordCount": 299,
+          "title": "印度金融机构遭黑客利用 AI 工具发动的网络攻击",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85808",
+          "author": null,
+          "description": "今天的电网接入了数以百万计的数字控制设备，为了维持电力供需平衡，精准预测和实时控制必不可少。电力系统因此转变成为一种信息物理融合的基础设施（Cyber–Physical Infrastructure）。物理设备与数字控制系统之间形成了紧密的相互依存关系，在带来前所未有的效率与灵活性的同时也引入了新的系统性风险。根据发表在《Nature Energy》期刊上的一项研究，德国研究人员指出全球电力系统存在的一种由信息物理同步效应所引发的、周期为一分钟的相干振荡现象。除了故障和恶意攻击外，即使是良性的控制程序，当大量设备以协同一致的方式运行时，也可能产生系统层面的影响。在大规模信息物理能源系统中，非预期的同步行为可能引发反复出现且具有潜在放大效应的振荡现象。",
+          "link": "https://www.solidot.org/story?sid=85808",
+          "publishedOn": "2026-11-05T16:45:48.000Z",
+          "wordCount": 286,
+          "title": "同步导致电网呈现周期为一分钟的震荡",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85807",
+          "author": null,
+          "description": "越南一家法院对 14 名参与盗版足球赛事直播网站 Bun Cha TV 的团队判处最高一年徒刑。4 名内容、编程和运营团队负责人被判处 12 个月徒刑，另外 5 人判处 10 个月监禁，2 人判处 8 个月监禁，3 名解说员被判处 10 个月缓刑。所有 14 名被告都承认了指控，配合了调查。Bun Cha TV 累计直播逾 15 万场体育赛事，通过博彩及赌博广告非法获利逾 200 亿越南盾（约 512 万人民币）。内容团队负责人获利逾 4.3 亿越南盾，解说员非法所得则在 3100 万到 4.8 亿越南盾不等。美国 MPAA 的代表称赞了这一判决。",
+          "link": "https://www.solidot.org/story?sid=85807",
+          "publishedOn": "2026-11-05T14:38:56.000Z",
+          "wordCount": 322,
+          "title": "越南对足球直播盗版者判刑最高一年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85806",
+          "author": null,
+          "description": "安全公司 Layer3 Intel 报告，他们在分配给白宫的自治系统 AS2650 中监测到住宅代理服务的活动。住宅代理服务会将用户的网络地址租给其他人使用。Layer3 在 10 月 5 日-11 月 3 日期间观察到了 236 次住宅代理连接活动。住宅代理的源头被认为来自 Windows 11 设备安装的俄罗斯代理程序 Infatica。Layer3 Intel 指出，在30 天内有 26 天出现了源自白宫的代理出口节点流量，涉及 6 个 IP，大部分活动发生在傍晚，即下午 5 点至午夜之间。",
+          "link": "https://www.solidot.org/story?sid=85806",
+          "publishedOn": "2026-11-05T10:22:27.000Z",
+          "wordCount": 313,
+          "title": "白宫网络监测到住宅代理活动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85805",
+          "author": null,
+          "description": "基于 Fedora 的游戏发行版 Bazzite 释出了 v45。主要变化包括；基于 Fedora 45，更新 Open Gaming Collective(OGC)内核，支持罗技 TrueWheel 设备等等。过去几年 Linux 对游戏的支持有了显著改善，但对很多用户而言仍然需要自行配置。Bazzite 项目旨在让 Linux 桌面用户无需额外配置就能畅玩游戏，设计类似 Valve 的 SteamOS，但更适合通用桌面使用情景：SteamOS 主要支持 AMD GPU，Bazzite 包含了私有的 NVIDIA 驱动。",
+          "link": "https://www.solidot.org/story?sid=85805",
+          "publishedOn": "2026-11-05T09:56:56.000Z",
+          "wordCount": 319,
+          "title": "Bazzite 45 释出",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85804",
+          "author": null,
+          "description": "研究人员调查了先进多模态模型如何评估面试、会议报告和英语口语能力测试中的语音，测试的模型包括了 Google 的 Gemini 2.5 Pro 和 Gemini 2.5 Flash，以及 OpenAI 的 GPT-Audio 1.5，开放权重模型 Qwen 3 Omni。这些模型对五种不同口音——美国、英国、中国、印度和尼日利亚——的英语语音进行了评分。AI 模型普遍将中国和尼日利亚口音的评分最低，印度口音居中，美国和英国口音的评分最高。即使内容完全相同，系统仍然认为美国和英国口音的表达方式和内容都更胜一筹。研究团队发现，明显的等级划分也体现在模型的解释中。研究人员说，模型反复声称中国和尼日利亚口音的英语使用者含糊不清或难以理解，但实际上它们非常擅长转录带有口音的语音，它们理解说话者，但它们只是基于口音，对说话者存在一种隐性的等级观念。",
+          "link": "https://www.solidot.org/story?sid=85804",
+          "publishedOn": "2026-11-05T09:00:58.000Z",
+          "wordCount": 313,
+          "title": "Google 和 OpenAI 的模型对特定口音有偏见",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.solidot.org/story?sid=85803",
+          "author": null,
+          "description": "澳大利亚乔治全球健康研究院的研究人员评估了在 193 个国家将食盐供应转换为富钾盐的健康益处。他们发现，全球每年可预防近 300 万例死亡和 1000 万例心血管疾病和肾脏疾病新发病例。富钾盐是通过用氯化钾替代部分氯化钠（即普通食盐的主要成分）制成的。它在外观、味道和烹饪方式上都与普通食盐一样。2025 年世界卫生组织（WHO）认可使用富钾盐来降低血压和心血管疾病风险。全球范围内，30-79 岁成年人中有三分之一患有高血压，相当于约 14 亿人。心血管疾病（CVD）是全球死亡和残疾的主要原因，2023 年导致 1920 万人死亡，过去 30 年增加了近 50%。虽然潜在益处很大，但一个担忧是晚期肾病患者出现高钾血症（血钾水平过高）的风险。然而，研究发现，即使在晚期肾病患者中，益处也大于风险。",
+          "link": "https://www.solidot.org/story?sid=85803",
+          "publishedOn": "2026-11-05T08:26:30.000Z",
+          "wordCount": 301,
+          "title": "富钾盐替换普通盐有助于每年预防数百万人死亡",
+          "imageUrl": null
+        },
         {
           "id": "https://www.solidot.org/story?sid=85802",
           "author": null,
@@ -1112,116 +1267,6 @@
           "publishedOn": "2026-10-28T06:36:46.000Z",
           "wordCount": 316,
           "title": "2025 年二氧化碳浓度创新高",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85727",
-          "author": null,
-          "description": "2023 年维基百科志愿者发起了 WikiProject AI Cleanup 项目，旨在清理 AI 生成文本。当时的 AI 文本还很容易识别。项目创始成员 Ellia Lebleu 指出，当时的 AI 文本频繁使用奇怪短语如 stands as a testament、rich cultural heritage...甚至还喜欢插入总结性段落如 Why is this important?  但到了 2025 年 AI 生成文本特征变得更隐蔽了。AI 文本也更具结构性，偏好三法则（rule of three）、否定式平行等等。以前 AI 会产生虚假或误导性的文本引用，随着检索增强生成（Retrieval-Augmented Generation）技术的采用，这种现象变少了。然而今天 AI 虽然能找到真实引用来源，但仍然会经常曲解内容，文不对题的现象仍然很普遍。",
-          "link": "https://www.solidot.org/story?sid=85727",
-          "publishedOn": "2026-10-27T15:16:06.000Z",
-          "wordCount": 329,
-          "title": "维基百科如何清理 AI 生成文本",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85726",
-          "author": null,
-          "description": "很多人几年前可能还不知道什么是数据中心，它是现代互联网服务的引擎，也是今天 AI 热的核心。但数据中心数量的快速增长、巨大的电力消耗，以及环境影响，正在全球引发公众的抵制。根据 Data Center Map 的数据，目前全世界有约 12,250 个数据中心，而 2021 年这个数字是大约 8000 个，其中美国最多有 4,767 个，弗吉尼亚州密度最高。美国的数据中心装机容量为 53.73 GW，中国 31.90 GW，欧盟 11.92 GW，日韩 6.58 GW，印度为 3.55 GW，英国 2.59 GW。目前全球投入运营的最大数据中心是中国电信在内蒙古呼和浩特的一处设施，占地约 100 万平方米。SpaceX 的 Colossus 项目占地 7 万平方米，OpenAI 支持 Stargate 项目占地 3.5 平方公里；Meta 计划在路易斯安那州建设的 Hyperion 项目占地 11 平方公里。全球数据中心的总用电量估计已超过了整个法国的用电量。",
-          "link": "https://www.solidot.org/story?sid=85726",
-          "publishedOn": "2026-10-27T14:58:58.000Z",
-          "wordCount": 328,
-          "title": "数据中心搅动世界",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85725",
-          "author": null,
-          "description": "太阳能的发展速度超出了预期。十年前太阳能的发电量仅占全球总发电量的 1%，2026 年它的份额预计将达到 10%。根据能源智库 Ember 的数据，2025 年全球太阳能发电量略微超过了核能发电量。截至 2026 年 9 月的年度太阳能发电量则已超过核能 13%。牛津大学能源与气候政策教授 Jan Rosenow 称太阳能如今已成为能源转型的引擎。太阳能已成为历史上增长速度最快的新电力来源，2025 年全球电力需求增长量的四分之三由太阳能满足。自 2000 年以来核能发电量基本保持不变，而太阳能发电量则增长了约 2700 倍。太阳能技术已发展成熟约 15 年，在  2020 年成为历史上最便宜的电力来源。澳大利亚逾 400 万户家庭安装了屋顶太阳能系统，非洲每天安装的太阳能电池板数量约 10 万块，巴基斯坦的太阳能份额从 2019 年的不到 2% 增至如今的 24%。太阳能离不开电池，电池帮助解决了如何将白天的太阳能转移至晚间使用的问题。",
-          "link": "https://www.solidot.org/story?sid=85725",
-          "publishedOn": "2026-10-27T14:37:59.000Z",
-          "wordCount": 320,
-          "title": "2025 年太阳能发电量超越核能",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85724",
-          "author": null,
-          "description": "火星之旅对人类心脏的挑战可能没有科学家曾经担忧的那么大。一项研究表明，宇航员能够很好地适应数月的失重状态。在研究中，科学家监测了 13 名在国际空间站停留了约 6 个月的宇航员的心脏状况。结果显示，尽管太空飞行最初会影响心脏功能，但宇航员会逐渐适应这种环境，而每日高强度锻炼在维持心血管健康方面发挥了重要作用。在地球上，心脏需持续对抗重力来泵血，而肌肉需要支撑体重；在太空中，这些负荷大幅降低，久而久之，肌肉乃至心脏都会出现萎缩。但重返重力环境后，血液会被拽向下半身，宇航员着陆后常出现头晕、眼前发黑，甚至血压骤降的症状，这被称为直立性低血压。作为NASA“运动对抗措施”项目的一部分，宇航员每天最多锻炼两个小时，训练内容包括 30 至 45 分钟的耐力训练，以增强心血管系统；60 至 75 分钟的抗阻训练，以保持肌肉质量和力量。",
-          "link": "https://www.solidot.org/story?sid=85724",
-          "publishedOn": "2026-10-27T10:57:21.000Z",
-          "wordCount": 296,
-          "title": "宇航员的心脏能承受飞往火星的数个月之旅",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85723",
-          "author": null,
-          "description": "广电总局周二公布了《交互式网络电视运营服务管理暂行规定》，该暂行规定将从 2026 年 11 月 27 日起施行。新规包括：",
-          "link": "https://www.solidot.org/story?sid=85723",
-          "publishedOn": "2026-10-27T10:22:23.000Z",
-          "wordCount": 296,
-          "title": "广电总局发布规定限制电视开机广告",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85722",
-          "author": null,
-          "description": "美国社交新闻平台 Reddit 专注于讨论开源项目的社群 r/opensource 公布了禁止 AI 的政策《Your tokens aren't valuable: No more AI》，理由是 AI 与该社群不兼容，要求递交到该社群的开源项目必须至少存在一年、有多名贡献者，发帖者必须会说英语而不是用 AI 翻译。这一政策引发了激烈的讨论，随后有人创建了新的允许 AI 的开源社群如 r/OpenSourceAIAllowed。r/opensource 的版主（moderator）表示该政策未来会进行调整，该社群主要禁止的是那种用 AI 工具生成的个人项目，而不是 Linux 内核之类的知名项目。Linux 作者 Linus Torvalds 最近公开表达支持 AI，而内核也不再强制要求 AI 生成代码打上标签。",
-          "link": "https://www.solidot.org/story?sid=85722",
-          "publishedOn": "2026-10-27T10:09:57.000Z",
-          "wordCount": 323,
-          "title": "Reddit 开源社区争议是否禁止 AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85721",
-          "author": null,
-          "description": "1972 年英格兰、苏格兰和威尔士改革了义务教育法，将最低离校年龄从 15 岁提高到了 16 岁，1957 年 9 月 1 日或之后出生的学生必须完成更长时间的教育；而截止日期前出生的人仍然可以在 15 岁离校。这一教育政策改革在几十年后带来了意想不到的结果：痴呆症的诊断率下降。研究人员利用英国生物银行的数据，通过医院记录、死亡登记和参与者自述病史，追踪他们直至 65 岁。结果发现，出生在义务教育改革截止日期之后——因此需要接受更长时间教育——的人，比出生在截止日期之前的人，患痴呆症的概率更低。研究还发现，高遗传易感人群痴呆症的发病率也出现了下降。研究结果表明，教育可能对痴呆症遗传风险最高的人群具有特别的保护作用。研究首次记录了教育与痴呆症诊断之间的因果关系，表明教育可以降低痴呆症的遗传风险。",
-          "link": "https://www.solidot.org/story?sid=85721",
-          "publishedOn": "2026-10-27T07:56:37.000Z",
-          "wordCount": 298,
-          "title": "接受更多教育降低了几十年后的痴呆风险",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85720",
-          "author": null,
-          "description": "IBM CEO Arvind Krishna 表示在企业内部部署开放权重模型极具价值。他指出，2024 年闭源前沿模型在性能上显著优于开源方案。前沿模型在基准测试中可能会得到 70 分，而开放权重模型可能只有 20 或 30 分。但到了 2025 年末双方的差距缩小了，不再是 70 分对 20 或 30 分，而是 70 分对 50 分。今天的开放权重模型的 Token 成本仅为前沿模型的 10% 到 25%，而在有效性上达到了前沿模型的 90%。“对任何企业来说，这都是一个简单的问题：如果有一种方案成本仅为顶尖方案的 10%，且有效性达到后者的 90%，你会选择它，还是愿意支付高出 10 倍的成本？”他认为大多数企业会选择避免承担额外的成本。绝大多数常规任务可以使用开放权重模型，而少数任务可以使用前沿模型。",
-          "link": "https://www.solidot.org/story?sid=85720",
-          "publishedOn": "2026-10-27T07:44:22.000Z",
-          "wordCount": 325,
-          "title": "IBM CEO 称开放权重模型性能优秀成本低廉",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85719",
-          "author": null,
-          "description": "Mozilla 在 YouTube 上推出了一则广告《It’s time to come back to Firefox. The Internet you loved is still here.》，试图通过唤起对互联网早期黄金时代的怀旧之情吸引新用户安装 Firefox 浏览器。Mozilla CEO Anthony Enzor-DeMeo 在 Linkedin 上发文指出，“如今的互联网会追踪你、干扰你，索要它其实早已获取的权限。但互联网并非一直如此，也不该是这副模样。这只是少数几家公司为牟利而强行设定的运作方式。”\n“Firefox 选择了不同的道路。还记得我们吗？我们依然在这里，而且我们认为互联网本不该是现在这样……”广告邀请了多位昔日的网红出演。",
-          "link": "https://www.solidot.org/story?sid=85719",
-          "publishedOn": "2026-10-27T07:21:54.000Z",
-          "wordCount": 317,
-          "title": "Mozilla 推出新广告，呼吁重返互联网的美好旧时光",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85718",
-          "author": null,
-          "description": "微软向 6 万名符合条件的员工提供自愿离职方案。涉及员工人数占到了公司员工总数的四分之一。微软将向美国、印度、加拿大和英国符合条件的员工提供自愿离职方案（Voluntary Exit Offer，VEO）。职级在 70 级及以下的微软员工都有资格参与该计划。微软的 65-67 级员工对应的是首席（Principal）职位，68-70 级则属于合伙人/杰出（Partner/Distinguished）级别。这是微软在 2026 年内第二次实施自愿性员工缩减计划。今年 4 月微软向 8750 名美国员工提供了自愿退休方案。7 月 Xbox 部门裁减了 3200 名员工，约占整个游戏部门员工总数的 20%。符合 VEO 条件的员工将于周一收到电子邮件通知。",
-          "link": "https://www.solidot.org/story?sid=85718",
-          "publishedOn": "2026-10-27T06:42:28.000Z",
-          "wordCount": 315,
-          "title": "微软向 6 万员工提供自愿离职方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.solidot.org/story?sid=85717",
-          "author": null,
-          "description": "Anthropic 已经向 SEC 递交了 S1 文件，最早下个月上市。Anthropic 的 IPO 不仅仅会是一家 AI 公司的亮相派对，还将成为对经济的一次试金石考验，关乎数万亿美元的利益。制造 Claude 聊天机器人的Anthropic是人工智能行业的一根台柱。它在私募市场估值近 1 万亿美元，并获得超过 1300 亿美元融资支持，可能在其发行中筹集 1000 亿美元，从而迅速成为世界上最大的上市公司之一。而此事还关系到更大的利益。Anthropic 及其主要竞争对手 OpenAI 位于一个由商业伙伴和供应商组成的金字塔顶端——基础设施提供商、芯片制造商、能源公司和 AI 初创企业——它们在过去的四年里都投入巨资，因为它们相信对 AI 产品的需求将持续增长。Anthropic 的挂牌上市，将让外界首次得以深度审视支撑此轮 AI 繁荣的关键企业的健康状况，同时也将检验其增长的持续性。市场对 AI 服务的需求是否真如无底洞般旺盛，足以证明在芯片、数据中心及其他基建上的庞大开支是合理的？抑或 Anthropic 的表现将表明，这一切是有局限的？",
-          "link": "https://www.solidot.org/story?sid=85717",
-          "publishedOn": "2026-10-27T06:33:38.000Z",
-          "wordCount": 329,
-          "title": "Anthropic 公布了 S1 文件",
           "imageUrl": null
         }
       ]
