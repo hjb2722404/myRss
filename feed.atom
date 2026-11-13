@@ -2,10 +2,181 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-11-12T09:15:37.777Z</updated>
+    <updated>2026-11-13T09:03:12.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[无印良品客户信用卡数据泄露]]></title>
+        <id>https://www.solidot.org/story?sid=85877</id>
+        <link href="https://www.solidot.org/story?sid=85877"/>
+        <updated>2026-11-13T06:47:28.000Z</updated>
+        <summary type="html"><![CDATA[运营无印良品的良品计划公司社长清水智 12 日就遭遇非法访问问题在东京都内召开记者会，致歉称：“给大家带来了巨大担忧与困扰，对此由衷道歉。”包括已经解约的在内，信用卡的完整号码等可能已有约 109 万条信息泄露。清水承认信息管理存在疏漏，说明称部分系统存在漏洞，未能阻止非法访问。清水透露说“本应废弃的信用卡信息仍被保存”，表示“将推进建立不持有非必要信息的机制”。对于信息有可能泄露的信用卡，他表态说将承担换发新卡的手续费。良品计划 10 月 30 日发布消息称，官方 APP“MUJI APP”遭到非法访问，最多可能有约 2726 万条客户信息泄露。此后的调查又发现，信用卡的完整号码、货到付款的配送地址等约 44 万条客户信息也可能外泄。除了官方网上商城和官方 APP 的部分功能外，公司已暂停了相关服务，正在推进加强安全对策。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[赛博领鸡蛋：InstaBox，免费领 4 核 8GB 云电脑，支持 Linux 桌面、安卓镜像和 AI Agent]]></title>
+        <id>https://www.appinn.com/egg-instabox/</id>
+        <link href="https://www.appinn.com/egg-instabox/"/>
+        <updated>2026-11-13T06:42:04.000Z</updated>
+        <summary type="html"><![CDATA[可能，我们需要换一个思路来理解 VPS 了。 以前的 VPS 是一台远程的 Linux 服务器，通过 IP 地址，使用 SSH 登录，然后自己配置环境、安装软件。 现在，越来越多的服务商，直接把 VPS 包装成 AI 设备，提供图形桌面、浏览器，以及内置了 Claude Code、Codex 等 A]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国扣押了从币安盗走的逾 12 亿美元加密货币]]></title>
+        <id>https://www.solidot.org/story?sid=85876</id>
+        <link href="https://www.solidot.org/story?sid=85876"/>
+        <updated>2026-11-13T06:36:46.000Z</updated>
+        <summary type="html"><![CDATA[FBI 周四宣布扣押了价值逾 12 亿美元的加密货币。这些加密货币是黑客组织 TraderTraitor 此前从全球最大加密货币交易所币安盗走的。币安在这次事件中被盗走了价值 63 亿美元的加密货币，其中约半数的被盗加密货币——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是难以被冻结的比特币、以太币和 XRP。美国政府表示它通过法庭授权扣押或冻结了逾 12 亿美元的加密货币。它没有透露更多细节。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本周赛博领鸡蛋（11.13~11.19）：《斗阵骑士》]]></title>
+        <id>https://www.appinn.com/eggs-261113/</id>
+        <link href="https://www.appinn.com/eggs-261113/"/>
+        <updated>2026-11-13T06:01:49.000Z</updated>
+        <summary type="html"><![CDATA[本周赛博领鸡蛋 Epic 送出 1 款游戏：《斗阵骑士 / Knightica》，手机端与电脑端。 《斗阵骑士 / Knightica》 《斗阵骑士》是一款结合空间规划与军队构筑的回合制类 Roguelike 自走棋。玩家招募形状、大小和能力各异的部队，通过摆放位置、调整朝向和搭配单位协同效果来准备]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软故意让 Windows 11 启动项变慢：只需修改两个参数，启动时间从 150 秒降到 30 秒]]></title>
+        <id>https://www.appinn.com/windows-11-startup-delay-registry-fix/</id>
+        <link href="https://www.appinn.com/windows-11-startup-delay-registry-fix/"/>
+        <updated>2026-11-13T05:44:02.000Z</updated>
+        <summary type="html"><![CDATA[你有没有遇到过这种情况：Windows 11 明明已经进入桌面，鼠标也能动了，但微信、Steam、Discord 等开机自启动软件却迟迟没有出现？ 尤其是使用 SSD 的电脑，Windows 本身启动得很快，但要等所有软件都准备好，可能还需要一两分钟。 有人发现，这可能是微软故意设计的。 据 Win]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软云服务全球宕机]]></title>
+        <id>https://www.solidot.org/story?sid=85875</id>
+        <link href="https://www.solidot.org/story?sid=85875"/>
+        <updated>2026-11-13T05:30:36.000Z</updated>
+        <summary type="html"><![CDATA[微软云服务全球宕机，受影响服务包括了 Outlook、Teams 和 OneDrive 等办公工具以及 AI 工具 Copilot。微软通过其社交媒体账号表示正全力解决该问题。根据 Downdetector 的报告，截至周四 18:00 GMT，全球报告的 Outlook 故障数量接近 14 万。目前无迹象表明此次大范围宕机是由网络攻击引起的。微软表示，受影响的用户可能无法查看部分文件，或无法在日历应用中查看详细信息。Copilot 也可能无法正常运行。即时通讯和在线会议功能基本保持正常。微软称此次事故是由部分服务器意外不可用导致的，这给其余系统造成了沉重负担。与微软有合作的 AI 巨头 Anthropic 和 OpenAI 也报告了故障。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技爱好者周刊（第 419 期）：机房来了，写字楼走了]]></title>
+        <id>http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html</id>
+        <link href="http://www.ruanyifeng.com/blog/2026/11/weekly-issue-419.html"/>
+        <updated>2026-11-13T00:08:29.000Z</updated>
+        <summary type="html"><![CDATA[这里记录每周值得分享的科技内容，周五发布。...]]></summary>
+        <author>
+            <name>阮一峰的网络日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond 12 Columns: Designing Layouts With Personality]]></title>
+        <id>https://css-tricks.com/?p=397598</id>
+        <link href="https://css-tricks.com/beyond-12-columns/"/>
+        <updated>2026-11-12T16:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Too many websites look alike. They use familiar layouts, repeat the same patterns, and often leave little impression once you’ve moved on. Andy Clarke explores how understanding a company’s story can lead to more distinctive designs, using modular and compound grids to create layouts with character.
+Beyond 12 Columns: Designing Layouts With Personality originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Andy Clarke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用户抱怨难以在流媒体服务上找到想看的内容]]></title>
+        <id>https://www.solidot.org/story?sid=85874</id>
+        <link href="https://www.solidot.org/story?sid=85874"/>
+        <updated>2026-11-12T14:42:28.000Z</updated>
+        <summary type="html"><![CDATA[根据尼尔森的 Gracenote 对美国、巴西、法国、德国、墨西哥和英国的 3000 名 18 岁及以上的流媒体用户进行的调查：虽然流媒体平台内容无比丰富，但用户经常找不到想要看的内容。逾 51% 的受访者表示：内容和流媒体服务的极度丰富，反而让人更难找到想看的东西。19.2% 的受访者表示，他们总是或经常遇到这种情况：不知道该看什么，也找不到想看的内容，最终只能去做别的事。27.4% 的受访者表示，他们总是或经常在试图观看特定节目时却因无法在流媒体平台上找到它，最终只好放弃。47% 的受访者表示，他们花在寻找观看内容上的时间比一年前更多了，平均耗时 12 分钟。72.3% 的受访者表示，他们希望拥有一份整合所有已订阅流媒体平台中可用节目的完整指南。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[印度苹果代工厂发生三名合同工死亡事故]]></title>
+        <id>https://www.solidot.org/story?sid=85873</id>
+        <link href="https://www.solidot.org/story?sid=85873"/>
+        <updated>2026-11-12T14:28:40.000Z</updated>
+        <summary type="html"><![CDATA[塔塔电子位于泰米尔纳德邦、为苹果公司 iPhone 生产零部件的工厂发生三名处理废水处理设施的合同工死亡事故。事故发生于周一晚间，地点位于 Krishnagiri 的 Hosur。工人在检查一个外部纳滤罐时吸入了气体导致了悲剧的发生。三名工人被送往一家私立医院，医生在他们抵达时确认其已经死亡。塔塔电子承担了印度约 40% 的 iPhone 组装工作，其余由富士康负责。近几个月塔塔电子的 iPhone 业务面临诸多挑战，包括遭遇勒索软件攻击，以及引发了水污染的担忧。随着苹果将生产扩大到中国之外地区，印度已成为一个关键的制造枢纽，目前全球约四分之一的 iPhone 产自印度。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄仁勋辞职]]></title>
+        <id>https://www.solidot.org/story?sid=85872</id>
+        <link href="https://www.solidot.org/story?sid=85872"/>
+        <updated>2026-11-12T14:03:11.000Z</updated>
+        <summary type="html"><![CDATA[英伟达宣布，黄仁勋即日起辞去公司总裁、CEO 及董事会成员职务；Colette Kress 被任命为临时 CEO。在确定正式继任者之前，Colette Kress 将继续担任执行副总裁兼首席财务官。董事会已启动继任者遴选程序，将同时考虑内部和外部候选人。Harvey C. Jones 被任命为董事会首任主席。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMI 误判数百万人肥胖]]></title>
+        <id>https://www.solidot.org/story?sid=85871</id>
+        <link href="https://www.solidot.org/story?sid=85871"/>
+        <updated>2026-11-12T14:01:40.000Z</updated>
+        <summary type="html"><![CDATA[中外研究团队基于中国、英国、美国、西班牙4国、超 84 万人的数据研究证实，肥胖诊断不能只看体重，更不能单凭BMI(体重除以身高的平方)“一刀切”。长期以来，全球普遍以 BMI 作为筛查和判定肥胖的核心指标。但论文第一作者及共同通讯作者、华中科技大学同济医学院公共卫生学院教授潘安指出，BMI 存在天然缺陷——它只能算出体重与身高的关系，却无法区分增加的究竟是肌肉还是脂肪，更无法判断积累的脂肪是否已伤害到内脏器官。此项研究中，潘安团队与合作者通过研究超 84 万人的跨国数据发现，5.2%—8.6% 参与者的肥胖程度被 BMI低估，1.2%—3.1% 被高估。在体脂过多者中，仅 22.7%—31.3% 出现归因于肥胖的器官功能受损或身体功能受限(“临床肥胖”)，绝大多数仍处于器官及身体功能未因肥胖而导致受损的“临床前肥胖”阶段。在超过 10 年追踪随访中，研究团队还发现，与健康人群相比，处于“临床前肥胖”阶段的人全因死亡风险增加19%，而一旦恶化为“临床肥胖”，死亡风险将陡增至 69%。此外，约 77%—91% 的“临床前肥胖”者并没有进展为“临床肥胖”，这意味着只要在器官未受损的早中期阶段及时进行科学干预和生活方式重塑，绝大多数人有望守住健康底线，阻断病情发展。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文学家发现一个恒星系统每八分钟发射一次射电信号]]></title>
+        <id>https://www.solidot.org/story?sid=85870</id>
+        <link href="https://www.solidot.org/story?sid=85870"/>
+        <updated>2026-11-12T13:55:08.000Z</updated>
+        <summary type="html"><![CDATA[天文学家发现一个不同寻常的双星系统 GPM J071507−114153，由一颗白矮星——一颗恒星死亡后留下的致密核心——和一颗类太阳 G 型恒星组成。白矮星自转一周八分钟，它每八分钟发射一次射电信号。这是首次在绕类太阳恒星运行的白矮星中探测到射电脉冲。此类双星属于被称为长周期瞬变天体（long-period transients，LPT）的天体。天文学家至今共探测到十多个 LPT 天体。天文学家表示，通过白矮星发射出的射电脉冲，研究团队探测到了类太阳恒星上的恒星耀斑。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Big Walk》开发商利用 AI 修 Bug 引起争议]]></title>
+        <id>https://www.solidot.org/story?sid=85869</id>
+        <link href="https://www.solidot.org/story?sid=85869"/>
+        <updated>2026-11-12T13:27:09.000Z</updated>
+        <summary type="html"><![CDATA[热门独游《Big Walk》开发商 House House 承认在生成式 AI 帮助下修 bug，结果在独立游戏节（Independent Games Festival，IGF）上引发了激烈争议。IGF 评委团的多名成员周一发表联合声明，强烈反对使用生成式 AI 的游戏，并督促官方制定强有力的反 AI 政策。《Big Walk》是一款非常受欢迎的合作冒险游戏，使用了 Unity 引擎开发，开发商发现游戏存在一个拖慢游戏速度的 bug，联络 Unity 工程师后被告知无法解决，于是询问了生成式 AI 工具，大模型提供了一种修复思路，House House 在此基础上写出了用于最终产品的 10 行代码。这种利用 AI 工具加速开发和辅助修 bug 的做法在行业已经非常普遍。但 House House 的做法引发了争议，游戏在 Steam 平台还遭遇了差评轰炸。游戏开发者 Brendan Keogh 认为这种对生成式 AI 零容忍的立场其效果可能会适得其反，可能会促使其它游戏开发商不披露使用 AI 的信息，而未来要避开完全不使用 AI 工具的游戏几乎是不可能的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网云连：把分散的设备连成一个家]]></title>
+        <id>https://www.appinn.com/wangyunlian/</id>
+        <link href="https://www.appinn.com/wangyunlian/"/>
+        <updated>2026-11-12T09:45:57.000Z</updated>
+        <summary type="html"><![CDATA[人在公司，文件却在家里的电脑上；出门在外，想使用 NAS 里的资料，却发现连不上？明明每台设备都能上网，为什么就不能互相连接呢？ 想解决这个问题，传统的方法可能需要公网 IP、端口映射、内网穿透，光听这些名词就已经头大了。 另外，在 AI 当道的今天，还需要躲避安全漏洞，比如此前的群晖勒索病毒攻击事]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M87 星系黑洞存在甜甜圈结构]]></title>
+        <id>https://www.solidot.org/story?sid=85868</id>
+        <link href="https://www.solidot.org/story?sid=85868"/>
+        <updated>2026-11-12T08:43:31.000Z</updated>
+        <summary type="html"><![CDATA[作为人类首张黑洞照片，距地球约 5500 万光年、质量超太阳 60 亿倍的 M87 星系中心超大质量黑洞(M87*黑洞)被形象称为“甜甜圈”的图像，自 7 年多前发布以来广受关注，学界对其独特环状结构是否存在也有争议。一项研究独立验证了M87*黑洞经典重建图像中的独特环状结构，确认“甜甜圈”图像无误，最新的重建结果利用一款新开发的独立成像算法，其生成的新图像与原始图像高度重合。研究人员将 M87* 黑洞数据集输入一个成像算法，以验证之前的图像重建结果。该算法将望远镜按闭合三站而不是两两配对进行划分，再综合个体望远镜的测量结果，这么做能计算校准误差，最后得到了一组符合这些标准的重建图像。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《Python 之禅》作者 Tim Peters 去世]]></title>
+        <id>https://www.solidot.org/story?sid=85867</id>
+        <link href="https://www.solidot.org/story?sid=85867"/>
+        <updated>2026-11-12T08:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Python 语言作者 Guido van Rossum 发表文章悼念了 2026 年 7 月 15 日去世的 Tim Peters（享年 74 岁）。他写道：Tim Peters 最为人熟知的贡献是撰写了《Python 之禅》，“但对我而言他是我的良师益友，也是这门语言的共同设计者之一。”Tim Peters 很早就接触了 Python 语言，说服 Guido 让 Pytho 支持整数（int）与浮点数（float）之间的混合运算，他在邮件列表上非常活跃，总是细致耐心回答用户的各种问题，以至于获得了 Timbot 这一绰号。他在 2002 年带来 一种全新的排序算法 Timsort，它后来被 Java 和 Android 采用。如果没有 Tim Peters，Python 绝不会有今天的模样。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电视厂商回应有关监视的提问]]></title>
         <id>https://www.solidot.org/story?sid=85866</id>
@@ -1090,147 +1261,6 @@ Smashing AI Conference originally handwritten and published with love on CSS-Tri
 2026 年 6 月——供应链攻击。钱包开发运维团队的工程师 A 为安装一款热门 AI 编程工具，通过搜索引擎查找并下载了一个遭篡改的 Homebrew 安装程序。我们的安全团队主动检测到了这一异常，更换了该设备，同时轮换了所有相关凭证。尽管如此，工程师 A 的岗位信息，以及其钱包基础设施团队中的相关同事信息，仍已暴露给攻击者。]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司]]></title>
-        <id>https://www.solidot.org/story?sid=85788</id>
-        <link href="https://www.solidot.org/story?sid=85788"/>
-        <updated>2026-11-03T16:58:29.000Z</updated>
-        <summary type="html"><![CDATA[《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。《纽约时报》发言人 Graham James 在一份声明中表示：“我们支持合乎道德且负责任的使用与开发 AI，但 Brave 公然蔑视现行版权法，对《纽约时报》多次要求其停止侵权行为的诉求置之不理。我们提起此项诉讼，旨在追究 Brave 的责任——它窃取了我们的内容，不仅用于支撑其自身产品，还将其提供给部分全球最知名、资源最雄厚的生成式 AI 公司。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 将对拒绝 AI 的美国学校关闭搜索]]></title>
-        <id>https://www.solidot.org/story?sid=85787</id>
-        <link href="https://www.solidot.org/story?sid=85787"/>
-        <updated>2026-11-03T16:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phillips 表示，搜索与 AI 已深度融合，如果学校禁用了 AI，那么学生将无法使用搜索。美国 K-12 学校广泛使用 Google 的软件，包括 Gmail、Docs 以及作业平台  Classroom。Google 的 Chromebook 是美国学校最广泛使用的笔记本电脑。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora Linux 45 释出]]></title>
-        <id>https://www.solidot.org/story?sid=85786</id>
-        <link href="https://www.solidot.org/story?sid=85786"/>
-        <updated>2026-11-03T16:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma Desktop、Fedora Server、Fedora Cloud、Fedora CoreOS 和 Fedora IoT，以及 Atomic Desktops 等众多衍生版本。Fedora Linux 45 的主要变化包括：支持通过 Anaconda 或 Kickstart 在 Stratis 存储上进行安装，移除 NetworkManager 不再维护的 VPN 插件，GNOME 和 KDE ​​Plasma 桌面环境的最新版本，完善 Wayland 支持，改进分数缩放，gcc 16.2、binutils 2.47、glibc 2.44、gdb 17.2、Fontconfig 2.18、LLVM 23 等开发工具的新版本。更多变化可浏览 ChangeSet。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-Implementing :nth-child() With Modern CSS]]></title>
-        <id>https://css-tricks.com/?p=397741</id>
-        <link href="https://css-tricks.com/re-implementing-nth-child-with-modern-css/"/>
-        <updated>2026-11-03T14:50:32.000Z</updated>
-        <summary type="html"><![CDATA[Combining :nth-child with style queries and sibling-index() to conditionally select child elements.
-Re-Implementing :nth-child() With Modern CSS originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[赛博领鸡蛋加餐：E 宝一口气送 13 款小游戏，11 月 9 日凌晨截止]]></title>
-        <id>https://www.appinn.com/eggs-261103/</id>
-        <link href="https://www.appinn.com/eggs-261103/"/>
-        <updated>2026-11-03T13:13:47.000Z</updated>
-        <summary type="html"><![CDATA[Epic 商店 13 款小游戏限时免费，涵盖赛车、平台跳跃、迷宫、数学和问答。北京时间 11 月 9 日凌晨 2:30 截止，成功领取后永久入库。]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家发现 1.15 亿年前的恐龙红细胞]]></title>
-        <id>https://www.solidot.org/story?sid=85785</id>
-        <link href="https://www.solidot.org/story?sid=85785"/>
-        <updated>2026-11-03T09:54:53.000Z</updated>
-        <summary type="html"><![CDATA[血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。然而澳大利亚科廷大学的研究团队在 PNAS 上发表论文称，凭借多条证据，他们在巴西一只 1.15 亿年前的恐龙遗骸中发现了最古老的红细胞化石。这项研究的对象是巴西恐龙“阿拉塔龙”的骨骼化石。研究人员估计，这只恐龙体长约 3 米、重约 34 公斤，死亡后遗体沉入水底，微生物生长并将其掩埋，从而保存了下来。在显微镜下，研究人员在这只恐龙的骨骼中发现化石细胞的迹象：这些结构呈圆形，中心凹陷，每个细胞平均长 23 微米、宽 20 微米，嵌在曾经让血管穿过骨骼的通道中。下一步则是寻找化学线索，以证明这些结构确实含有血细胞，而不仅仅是形似血细胞的矿物质。在他们进行的近 30 项试验中，有一项是将骨样本研磨成粉后用激光照射，从样本散射回来的光显示出血红素的存在。血红素是一种环状化合物，其中的铁元素有助于红细胞运输氧气。研究人员还发现了大量降解形式的血红素。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enlightenment 0.28.0 释出，初步支持 BSD]]></title>
-        <id>https://www.solidot.org/story?sid=85783</id>
-        <link href="https://www.solidot.org/story?sid=85783"/>
-        <updated>2026-11-03T08:16:40.000Z</updated>
-        <summary type="html"><![CDATA[轻量级桌面环境 Enlightenment 项目释出了 v0.28.0。主要变化包括：初步支持 NetBSD，支持 Network Manager，原生支持 PipeWire，新的剪贴板管理器，电池管理、AC 轮询等相关代码进行重写，新增设置电池阈值和支持 ACPI 电源配置等等，以及大量 bug 修复和更改。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac 端安卓设备管理工具 AndroMeld 限时 8 折，仅需 28 元起！]]></title>
-        <id>https://www.appinn.com/andromeld/</id>
-        <link href="https://www.appinn.com/andromeld/"/>
-        <updated>2026-11-03T07:56:19.000Z</updated>
-        <summary type="html"><![CDATA[在日常工作中，我们经常要使用电脑和手机来协同完成工作。 如果用的是 Mac + iPhone，那当然不会有什么问题。但如果用的是 Mac + 安卓手机，那光是文件传输，就足够让人头大。 AndroMeld 就是一款能让你的 Android 设备和 Mac 电脑无缝连接的工具！ 怎么个无缝法？ 通过有]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球加速发展核电]]></title>
-        <id>https://www.solidot.org/story?sid=85782</id>
-        <link href="https://www.solidot.org/story?sid=85782"/>
-        <updated>2026-11-03T07:41:34.000Z</updated>
-        <summary type="html"><![CDATA[全球在建核电站已增至 79 个机组，达到 40 年来的高水平。据世界核协会统计，2026 年全球有 11 个新核电机组开工建设，截至 10 月 16 日，在建核电机组数量达到 79 个。这是 1986 年（91 个）以来的高位。1986 年是切尔诺贝利核电站事故发生的年份，此后全球新建核电机组数量有所减少。如果将预计未来 15 年内投入运营的正在规划的核电机组也计算在内，数量将达到 201 个。目前全球在运核电机组共有 443 个。即使考虑到因老化而退役的核电机组，到 2040 年前后，全球在运核电机组数量仍有可能超过 600 个。目前全球在建的79个核电机组中，仅中国就有38个，约占总数的一半，其次是印度（8个）和俄罗斯（7个）。从处于规划阶段的核电机组来看，中国同样遥遥领先，达到 42 个，其次是俄罗斯（23个）和印度（14个）。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tor Browser 16.0 释出]]></title>
-        <id>https://www.solidot.org/story?sid=85781</id>
-        <link href="https://www.solidot.org/story?sid=85781"/>
-        <updated>2026-11-03T07:10:27.000Z</updated>
-        <summary type="html"><![CDATA[Tor Browser 16.0 释出，它是首个基于 Firefox ESR 153 的稳定版本。主要变化包括：Linux 版本支持 64 位 ARM 架构，重新设计设置，名为通用窗口标题（generic window titles）的功能有助于防止其它应用窥探用户的浏览器活动，Android 版本使用 Google 的 Material Design 3 更新了界面，停止支持 32 位 x86 Linux 系统，等等。更多变化可浏览更新日志。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swift 天文台将于 11 月 4 日重返大气层]]></title>
-        <id>https://www.solidot.org/story?sid=85780</id>
-        <link href="https://www.solidot.org/story?sid=85780"/>
-        <updated>2026-11-03T06:48:25.000Z</updated>
-        <summary type="html"><![CDATA[拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年活跃的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。10 月 20 日其轨道高度降至 275 公里，其使命正式结束。Swift 天文台的轨道经过了澳大利亚、非洲、印度、东南亚以及中南美洲上空，最有可能的坠落地点是海洋。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北欧将可能出现 40°C 高温]]></title>
-        <id>https://www.solidot.org/story?sid=85779</id>
-        <link href="https://www.solidot.org/story?sid=85779"/>
-        <updated>2026-11-03T06:33:39.000Z</updated>
-        <summary type="html"><![CDATA[挪威、瑞典和芬兰等北欧国家传统上经历的热浪强度低于欧洲大陆的其它地区。然而在近年的极端天气事件中，例如 2026 年的热浪，欧洲大部分地区都观测到了异常高温，40 °C 的高温天气也出现在比以往更靠北的地区。根据发表在《npj Natural Hazards》期刊上的一项研究，芬兰科学家报告，北欧出现 40°C 高温不再像以前认为的那样不可能发生。研究人员估算，2025 年北欧某个地点 40 °C 的年发生率为 0.53%，比 1981 年的概率增加了 6 倍。如果以迄今为止各国已观测到的最高气温纪录作为标准，那么在当前气候条件下，挪威突破本国历史最高气温纪录的年概率最高达到 10.9%。研究结果表明，北欧国家应当做好应对远高于历史观测记录所显示的极端峰值气温的准备。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际空间站 PrK 模块因漏气被关闭]]></title>
-        <id>https://www.solidot.org/story?sid=85778</id>
-        <link href="https://www.solidot.org/story?sid=85778"/>
-        <updated>2026-11-03T05:52:24.000Z</updated>
-        <summary type="html"><![CDATA[专注于报道俄罗斯太空新闻的媒体 Russianspacewe 称，位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块已被永久关闭。NASA 以及俄罗斯航天局尚未正式宣布这一消息，但早在 6 月就有消息称俄罗斯计划退役漏气的国际空间站 PrK 模块。PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但 6 月报告漏气再次加剧，该模块的裂缝总数达到 16 处。俄罗斯货运飞船将改为与 Poisk 舱对接。计划于 11 月 24 日发射的 Progress MS-36 货运飞船将通过 Poisk 舱卸载货物。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strata 0.2.10 发布：本地 AI 大模型继续提速，默认使用 DFlash2 降低显存需求，8GB 显卡也能开启 128K 上下文]]></title>
-        <id>https://www.appinn.com/strata-0-2-10/</id>
-        <link href="https://www.appinn.com/strata-0-2-10/"/>
-        <updated>2026-11-03T03:26:04.000Z</updated>
-        <summary type="html"><![CDATA[更新：青小蛙实测提速 25% Strata 0.2.10：https://llm-bench.io/benchmarks/cmw06r368033s01la504nux2nStrata 0.2.9：https://llm-bench.io/benchmarks/cmvyqoy9p02r801lak7]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
