@@ -2,10 +2,171 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/myRss/index.html</id>
     <title>my rss</title>
-    <updated>2026-11-18T09:43:05.363Z</updated>
+    <updated>2026-11-19T09:51:51.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/myRss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/myRss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[微软官方 agent-framework 软件包被黑客劫持安装恶意程序]]></title>
+        <id>https://www.solidot.org/story?sid=85931</id>
+        <link href="https://www.solidot.org/story?sid=85931"/>
+        <updated>2026-11-19T08:24:44.000Z</updated>
+        <summary type="html"><![CDATA[微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主要用于构建和部署 AI 智能体。受影响的版本是 v1.26.1 和 1.26.2，会窃取开发者在 Azure、Git、Docker、Hugging Face 等服务上的环境变量、凭据文件以及其它敏感信息。更糟糕的是软件包无需被导入，只要安装该软件包的 Python 解释器启动，恶意代码便会运行。微软发言人在一份声明中表示在调查期间它将部分软件包项目设为私有。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蚊子在喜马拉雅冰川地区日益常见]]></title>
+        <id>https://www.solidot.org/story?sid=85930</id>
+        <link href="https://www.solidot.org/story?sid=85930"/>
+        <updated>2026-11-19T07:55:55.000Z</updated>
+        <summary type="html"><![CDATA[随着全球暖化冰川消退，蚊子在喜马拉雅冰川地区日益常见，将一些流行病带给了当地居民。克什米尔 Ladakh 一个名叫 Sakti 的村庄海拔 3900 米，居住着约四百户村民，大多属于 Boto 族。65 岁的村民 Phunchok Gyalpo 一生都居住在 Sakti，他说小时候每逢下雪，通常要等好几天才能清理出路。但过去二三十年这种情况再也没发生过。他提到现在的冬天也暖和多了。Ladakh 是一个高海拔寒冷沙漠地区，位于喜马拉雅山的雨影区，当地居民的饮用水和农业灌溉都依赖冰川。他们唯一的水源是融化的冰雪。很少有地方能像 Ladakh 展现全球暖化的影响，蚊子的出现就是证据。2022 年 Ladakh 报告了首批两例登革热病例。2024 年出现了两例疟疾病例，2025 年又新增三例。2026 年至今它尚未报告登革热病例，而克什米尔则报告了 17 例。Ladakh 历史上首次出现了在屋内安装吊扇的情况。市场上充斥着驱蚊产品，人们也能亲眼见到蚊子。夏季变暖、冬季更温和以及无霜期的出现，使得蚊子的活动范围向高海拔地区扩张。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国发现新直立人化石]]></title>
+        <id>https://www.solidot.org/story?sid=85929</id>
+        <link href="https://www.solidot.org/story?sid=85929"/>
+        <updated>2026-11-19T07:14:46.000Z</updated>
+        <summary type="html"><![CDATA[直立人是存在时间最长的人族物种之一，他们生存的年代从 190 万年前到 10.8 万年前。根据发表在《自然》期刊上的研究，中科院研究人员对采集自广西崇左岜仙洞、那线洞两处洞穴堆积化石地点的 9 枚古人类牙齿开展形态学和古蛋白质组学研究，发现其中 8 枚牙齿属于一个新识别出的直立人群体，该群体有别于北京周口店、安徽和县等地已知的直立人。研究结果显示，这种新直立人在 32.4 万年至 18.4 万年前曾活跃于中国南方，而该地区此前发现的最晚直立人化石生活在约 40 万年前。传统观点认为，直立人偏好开阔的疏林或稀树草原环境，很难在雨林环境中生存，本次在广西崇左的新发现则颠覆了这一认识，直立人完全可以在崇左地区雨水充沛、林冠郁闭的热带雨林中生存，且能在该环境中长距离迁移，生态适应能力较强。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国破产法庭法官批准 Google 以千万美元收购 Spirit Airlines 数据]]></title>
+        <id>https://www.solidot.org/story?sid=85928</id>
+        <link href="https://www.solidot.org/story?sid=85928"/>
+        <updated>2026-11-19T06:46:48.000Z</updated>
+        <summary type="html"><![CDATA[美国联邦破产法庭法官 Sean Lane 批准了 Google 以 1000 万美元收购破产航空公司 Spirit Airlines 内部数据的交易。廉航 Spirit Airlines 于今年五月停止运营，作为资产清算程序的一部分，Google 在八月拍下了其内部数据，这些数据包括了员工数据如电子邮件、电子表格和日历信息，以及市场营销、生产力和运营方面的数据。Google 表示它计划将这些数据用于产品开发和 AI 训练。在工会以及国会议员对该交易表达关注之后，Google 上周同意对相关数据采取额外的隐私保护措施。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UU远程开始收费：24元/月起，免费版只剩1080P 30帧]]></title>
+        <id>https://www.appinn.com/uu-remote-vip-pricing/</id>
+        <link href="https://www.appinn.com/uu-remote-vip-pricing/"/>
+        <updated>2026-11-19T04:25:39.000Z</updated>
+        <summary type="html"><![CDATA[以前免费享受的 4K 144 帧 UU远程，以后要花钱了。 免费运营三年后，网易 UU 远程终于宣布推出付费会员：VIP 每月 24 元起，SVIP 每月 88 元起。 变化最大的地方是：原本免费的 4K 144 帧等高级功能，如今被划入 VIP 会员权益。免费用户最高只能使用 1080P 30 帧]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软宣布关闭 To Do：当年花上亿美元收购 Wunderlist，如今两个都没了]]></title>
+        <id>https://www.appinn.com/microsoft-to-do-shutdown-2027/</id>
+        <link href="https://www.appinn.com/microsoft-to-do-shutdown-2027/"/>
+        <updated>2026-11-19T03:27:28.000Z</updated>
+        <summary type="html"><![CDATA[花上亿美元买下一款软件，关掉它，推出自己的替代品，然后再把替代品也关掉。微软用了 12 年，完成了这一整套骚操作。@Appinn 2015 年，微软据报道花费约 1 亿至 2 亿美元收购了广受欢迎的待办工具 Wunderlist（中文译名：奇妙清单）。随后推出 Microsoft To Do，并在]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx 爆出严重漏洞，HTTP/2 用户注意：可能被远程执行代码｜CVE-2026-123007 评分 8.1分]]></title>
+        <id>https://www.appinn.com/nginx-http2-security-vulnerabilities-2026/</id>
+        <link href="https://www.appinn.com/nginx-http2-security-vulnerabilities-2026/"/>
+        <updated>2026-11-19T02:43:35.000Z</updated>
+        <summary type="html"><![CDATA[如果你使用 Nginx，并且开启了 HTTP/2，需要更新。注意：Nginx 非常常见，也可能包含在很多其他服务中。 2026 年 11 月 18 日，Nginx 披露了多个安全漏洞，其中两项涉及 HTTP/2，攻击者可能在无需登录的情况下远程执行代码（RCE）。 青小蛙也趁早更新了小众软件的 Wo]]></summary>
+        <author>
+            <name>青小蛙</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[剑桥词典的 2026 年度单词是“人”]]></title>
+        <id>https://www.solidot.org/story?sid=85927</id>
+        <link href="https://www.solidot.org/story?sid=85927"/>
+        <updated>2026-11-18T16:12:14.000Z</updated>
+        <summary type="html"><![CDATA[随着 AI 不断模糊人与机器之间的界限，全世界开始重新争论何谓“人”。剑桥词典的 2026 年度单词就是“人（human）”。在剑桥词典中，人被定义为“具有人特有的品质、缺点和情感，区别于神、动物或机器”。剑桥大学 AI 治理与人权专家 Rachel Adams 教授表示，AI 让我们重新面对困扰了人类几千年的问题：我们是谁？身为人类意味着什么？问题的答案从未固定，但提出问题本身正是人类所共有的特质。”“AI 将成为对人类的一场深刻考验。它确实存在加剧现有不平等的风险，但同时也具备解决这些问题的潜力。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特斯拉以 3 万美元向客户出售 Cybercab 然后每月收 299 美元]]></title>
+        <id>https://www.solidot.org/story?sid=85926</id>
+        <link href="https://www.solidot.org/story?sid=85926"/>
+        <updated>2026-11-18T15:29:11.000Z</updated>
+        <summary type="html"><![CDATA[特斯拉宣布以 3 万美元向特选客户出售无人驾驶汽车 Cybercab，然后每月必须支付 299 美元否则汽车不会启动。Cybercab 类似 Waymo 旗下的无人驾驶出租车，没有方向盘也没有刹车踏板，但不同的是 Waymo 的汽车提供的网约车服务，而特斯拉计划将其提供给少许客户。分析师认为这类似花 3 万美元买下一个特许经营权。特斯拉称，如果 Cybercab 车主未能按时足额缴纳费用，汽车会停止工作。如果车主试图在不支持该服务的区域（目前仅限于佛罗里达州和德克萨斯州部分城市）使用汽车，它同样无法工作。如果车主有任何被认定为未经授权或不当的行为，特斯拉有权暂停或取消其订阅，届时汽车将停止工作。如果汽车失去网络连接，它同样会停止工作。此外未经特斯拉书面同意车主不得出售或转让汽车。特斯拉还建议 13 岁以下儿童不要乘坐 Cyber​​cab，并明确禁止儿童在没有成年人陪同的情况下单独乘车。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[陆游：最早探索猫内心世界的诗人]]></title>
+        <id>https://www.solidot.org/story?sid=85925</id>
+        <link href="https://www.solidot.org/story?sid=85925"/>
+        <updated>2026-11-18T14:58:22.000Z</updated>
+        <summary type="html"><![CDATA[如果你阅读本文，那么你的社媒信息流肯定充斥着猫咪。这并不出人意料，毕竟互联网是属于猫的。人类对家猫的喜爱其实是一种相对较近的现象。在很多地方，猫曾被视为可疑之物，遭受过残酷对待。猫最早的文学记载之一是成文于九世纪，由一位不知名爱尔兰僧侣所作的诗《Pangur Bán》。生活在 12 世纪的诗人陆游一生创作了逾 9000 篇诗作，其中有多篇是以猫为主题，有三篇甚至冠名为《赠猫》。陆游之前尚未见有以猫为赠诗对象的文学记载。陆游在诗里坦诚养猫是为保护藏书免受鼠患，“惭愧家贫策勋薄，寒无毡坐食无鱼。”他也在诗里批评了猫的懒惰，“时时醉薄荷，夜夜占氍毹。”但随之称赞猫的成绩，“鼠穴功方列，鱼餐赏岂无。”他还给猫起了名字，“仍当立名字，唤作小於菟。”於菟是老虎的意思，即称猫咪为小老虎，这个名字显然被很多人用过。他还描述了猫老年的生活，“执鼠无功元不劾，一箪鱼饭以时来。看君终日常安卧，何事纷纷去又回？”这是他去世前一年写下的。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When Everything Has Changed, What Do We Do Next?]]></title>
+        <id>https://css-tricks.com/?p=398054</id>
+        <link href="https://css-tricks.com/when-everything-has-changed/"/>
+        <updated>2026-11-18T14:55:21.000Z</updated>
+        <summary type="html"><![CDATA[It’s been a… year, huh? I think the most common emoji I’ve seen this year is “Face with Bags Under Eyes” (🫩) and that says a lot. One thing is for sure: the industry we make a living in is …
+When Everything Has Changed, What Do We Do Next? originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
+        <author>
+            <name>Andy Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国严打高考作弊]]></title>
+        <id>https://www.solidot.org/story?sid=85924</id>
+        <link href="https://www.solidot.org/story?sid=85924"/>
+        <updated>2026-11-18T13:53:09.000Z</updated>
+        <summary type="html"><![CDATA[韩国高考将于 19 日开考，为防止考生在考试期间利用高科技工具作弊，韩国政府采取了多种措施，包括：]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新高危漏洞 Java4Shell 会导致远程代码执行]]></title>
+        <id>https://www.solidot.org/story?sid=85923</id>
+        <link href="https://www.solidot.org/story?sid=85923"/>
+        <updated>2026-11-18T13:27:20.000Z</updated>
+        <summary type="html"><![CDATA[刚刚公开的高危漏洞 Java4Shell 会导致远程代码执行。Java4Shell 源自 OpenJDK Base64 解码器的一个内存损坏漏洞，CVSS 4.0 评分 9.2/10。该漏洞会 Keycloak、Jira、Confluence、JFrog、Jenkins 和 PingFederate 等中导致无需身份验证的远程代码执行，在 Apache Kafka、Solr、ElasticSearch、Gerrit、Netflix Spinnaker 等中导致身份验证后的远程代码执行。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manus 成为 Godot 项目的白金赞助商]]></title>
+        <id>https://www.solidot.org/story?sid=85922</id>
+        <link href="https://www.solidot.org/story?sid=85922"/>
+        <updated>2026-11-18T12:32:32.000Z</updated>
+        <summary type="html"><![CDATA[负责开源游戏引擎 Godot 项目的基金会宣布，AI 公司 Manus 成为其白金赞助商，即每年至少赞助 5 万欧元。Manus 联合创始人兼首席产品官张涛在一份声明中表示，“AI 正在降低游戏制作的技术门槛，但工具终究只是工具。优秀的游戏是你和朋友都喜欢、愿意一遍又一遍玩的。这背后离不开你对游戏体验的独特理解、细节的打磨，以及只有你才会想到的奇妙创意。今后真正稀缺的将不再是制作游戏的能力，而是你是否清楚自己想要创造什么。在让每个人都能掌握真正的游戏开发工具这件事上，Godot 所做的努力几乎无人能及。它是一款开源游戏引擎，由社区共同塑造，并依靠一群热爱它的贡献者和专业开发者持续推动发展。我们很荣幸能支持这项事业，也希望越来越多通过 Manus 制作人生第一款游戏的人，能进一步探索 Godot，发现自己还能创造出怎样精彩的作品。”]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix 制作的《三体》第二季于 1 月 14 日上线]]></title>
+        <id>https://www.solidot.org/story?sid=85921</id>
+        <link href="https://www.solidot.org/story?sid=85921"/>
+        <updated>2026-11-18T12:20:56.000Z</updated>
+        <summary type="html"><![CDATA[Netflix 宣布其制作的改编自刘慈欣同名小说《三体》的电视剧第二季将于 1 月 14 日上映。Netflix 的《三体》电视剧由制作《权力游戏》的 David Benioff 和 D.B. Weiss 以及《真爱如血》的 Alexander Woo 共同打造，第一季于 2024 年 3 月上线。第一季主要讲述了经历文革的天体物理学家叶文洁在收到外星人的信息之后邀请外星种族“三体人”前来殖民地球。第二季改编自《黑暗森林》，主要讲述人类严阵以待应对外星人入侵，第一季牛津五人组中的幸存者都悉数回归。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimizely 遭入侵 BBC CNN 等知名网站传播恶意程序]]></title>
+        <id>https://www.solidot.org/story?sid=85920</id>
+        <link href="https://www.solidot.org/story?sid=85920"/>
+        <updated>2026-11-18T09:12:05.000Z</updated>
+        <summary type="html"><![CDATA[被知名网站用于网页 A/B 测试的软件 Optimizely 遭到入侵，黑客纂改了这些网站加载的 JavaScript 代码，向访客的计算机植入恶意程序。有至少 178 个网站受到影响，其中包括 BBC、CNN、Zoom、宜家、Salesforce、汇丰银行和 TalkTalk 等知名网站。这些网站使用了 Optimizely 的 Web Experimentation，允许在不更改网站底层代码的情况下调整网页的内容和布局。黑客利用了被称为 OPTIMJACK 的漏洞向 Optimizely 客户的项目中植入恶意的 JavaScript 代码。Optimizely 表示它已经修复了漏洞，通知了受影响的客户。黑客释放了多个恶意负荷，其中包括篡改用户的加密货币钱包地址将其替换为攻击者控制的地址；窃取支付卡信息、Cookie 和屏幕截图；甚至还会利用 iPhone 和 iPad 运行的旧版本 iOS 系统漏洞。目前不清楚有多少设备被安装恶意程序。]]></summary>
+        <author>
+            <name>奇客Solidot–传递最新科技情报</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[低清视频怎么变清晰？AI视频超分与4K画质提升实测]]></title>
         <id>https://www.appinn.com/aiarty-video-enhancer-black-friday/</id>
@@ -1048,157 +1209,6 @@ CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today? 
         <summary type="html"><![CDATA[法国网络危机协调中心周一发表报告，称上个月对逾 700 家超市制冷控制器发动网络攻击的黑客组织是伊朗的 Shahid Kaveh aka Cyber​​Av3ngers。报告称，受影响的零售集团包括了 Casino、Leclerc、Coopérative U、Metro、Carrefour 和 Intermarché，攻击引发了至少 15 起火灾，造成了数千万欧元的食品损失。法国欧洲与外交部在一份声明中表示：“就规模和攻击强度而言，这是一场前所未有的行动，这也是在法国领土上首次发生的、纯粹以破坏为目的的网络攻击行动。”]]></summary>
         <author>
             <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks, Version 20]]></title>
-        <id>https://css-tricks.com/?p=397812</id>
-        <link href="https://css-tricks.com/css-tricks-version-20/"/>
-        <updated>2026-11-09T15:49:48.000Z</updated>
-        <summary type="html"><![CDATA[Things look a little different around here? I hope so because we just pushed a site redesign! Here's everything new with the 20th(!!) version of CSS-Tricks.
-CSS-Tricks, Version 20 originally handwritten and published with love on CSS-Tricks. You should really get the newsletter as well.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[火星发现存在活火山的证据]]></title>
-        <id>https://www.solidot.org/story?sid=85841</id>
-        <link href="https://www.solidot.org/story?sid=85841"/>
-        <updated>2026-11-09T13:19:02.000Z</updated>
-        <summary type="html"><![CDATA[科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。科学家已发现火星在过去几百万年间存在火山活动的证据，地震活动也暗示其中一些火山可能仍然活跃，但此前从未发现过熔岩流动或喷发的证据。2019 年，欧空局“微量气体火星轨道器”在火星大气中探测到了氯化氢的存在。这种气体在地球上通常与岩浆喷口相关联，因此，研究人员想知道火星上是否也存在类似情况。为了进一步探究，波兰研究人员分析了仅有的少量气体数据以及新拍摄的火星表面照片。他们成功将火星阿尔巴山地区近期出现的狭窄裂缝与氯化氢排放联系起来，为地下熔岩流的存在提供了有力证据。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界大城市都在沉降]]></title>
-        <id>https://www.solidot.org/story?sid=85840</id>
-        <link href="https://www.solidot.org/story?sid=85840"/>
-        <updated>2026-11-09T13:08:27.000Z</updated>
-        <summary type="html"><![CDATA[北大 Lijun Wang 等人在《Nature Cities》期刊上发表了一篇论文，利用卫星雷达对地面微小位移的测量分析了全世界人口超过百万的 465 座城市的地面沉降。数据显示，10 座地面沉降最严重的城市分别是：墨西哥的托雷翁、墨西哥城和托卢卡，巴西的弗洛里亚诺波利斯、伊朗的伊斯法罕、孟加拉国的吉大港、缅甸的仰光、印尼的棉兰和万隆，以及中国的天津。地面沉降现象在东南亚、西亚、中亚和北美地区最为严重，南美洲和非洲也出现了类似问题。地面沉降的最主要因素是抽取地下水。真正危险的是不均匀沉降。未参与这项研究的加州伯克利地球物理学家 Roland Bürgmann 指出：如果整座城市能平稳整体下沉一英寸，这不是什么大问题，但当某个区域的下沉速度快于周边区域则会产生应力。论文主要作者 Lijun Wang 称，北京及邻近的天津通过停止开采地下水，转而使用从长江流域调来的地表水，使得该地区部分区域的地面沉降得以停止。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 公斤的巨鼠曾在三千万年前生活在今天的泰国]]></title>
-        <id>https://www.solidot.org/story?sid=85839</id>
-        <link href="https://www.solidot.org/story?sid=85839"/>
-        <updated>2026-11-09T12:41:39.000Z</updated>
-        <summary type="html"><![CDATA[科学家根据两枚化石牙齿识别出一种体重约 30 公斤的巨型啮齿动物曾在 3300 万至 3500 万年前活跃于今天的泰国南部地区。泰国矿产资源部地质学家于 2004 年在甲米省一处煤矿中发现的一枚臼齿和一枚门齿。甲米盆地此前曾出土过古代灵长类、食肉动物和有蹄类哺乳动物的化石。当时研究团队缺乏足够的证据和技术手段确定该物种的身份。二十多年后泰国、法国和加拿大的研究人员对牙齿进行详细分析，确定该动物的体重约为 30 公斤——大约相当于现存世界最大啮齿动物——水豚体重的一半。与南美洲水豚不同的是，这种史前啮齿动物属于现已灭绝的古鼠科。该物种被命名为 Yakamys sirindhornae，致敬了支持科学研究及古生物学研究的 Sirindhorn 公主。已知体型最大的啮齿动物重达一吨，400 万年前活跃于南美洲的林区。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高盛限制交易员和银行家使用第三方 AI 智能体]]></title>
-        <id>https://www.solidot.org/story?sid=85838</id>
-        <link href="https://www.solidot.org/story?sid=85838"/>
-        <updated>2026-11-09T11:04:21.000Z</updated>
-        <summary type="html"><![CDATA[高盛限制交易员和银行家使用 Anthropic 的 Claude Code 和微软的 GitHub，此举主要是出于风险方面的考虑。AI 编程工具主要提供给软件工程师，以及负责交易、量化研究和软件工程等的策略师。交易员将无法再使用这些工具监控客户交易流、模拟市场走势和持仓，以及制作文字和图表。此次限制适用于能独立编写和运行代码的第三方智能体。以 Claude Code 为例，它能读取文件、编写程序并运行，通常拥有与使用者相同的权限。工程师用此类工具编写的代码通常会经过审查、测试和部署控制，然后才会投入使用。交易员编写的脚本则可能未经任何审查就被投入日常使用。使用智能体模拟仓位的交易员不太可能了解代码如何处理异常情况，在交易台上这可能意味着损失。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[噪声污染伤害全球野生动物]]></title>
-        <id>https://www.solidot.org/story?sid=85837</id>
-        <link href="https://www.solidot.org/story?sid=85837"/>
-        <updated>2026-11-09T10:23:27.000Z</updated>
-        <summary type="html"><![CDATA[科学家早就知道，从喷气发动机的轰鸣到船舶螺旋桨的嗡鸣，人类活动产生的噪声会伤害动物，甚至会干扰鱼卵的正常发育。但此前人们并不清楚这一问题的普遍严重程度。一项大规模分析表明，噪声带来的影响远比研究人员预想的范围更广。研究涵盖陆地与水域共 177 个物种的数据，结果显示，人为噪声会从根本上改变动物的生理机能与行为模式，还会造成许多动物过早死亡。对野生动物而言，人为噪声绝不只是烦恼。噪声会改变鸟类的鸣叫模式，让蜘蛛心跳加速，还会迫使北极一角鲸放弃觅食下潜。总体来看，80% 的被研究物种至少有一项性状受到噪声影响而改变。对部分物种而言，噪声会改变基因表达，另一些物种的免疫功能或呼吸机能受到干扰，还有的物种会出现器官发育异常。噪声同样会改变部分动物的觅食、移动及避险行为。有时，噪声会对不同物种造成截然相反的效应。例如噪声对亲代抚育幼崽行为的影响。面对噪声干扰，有些物种会增加抚育投入，而另一些物种则会减少抚育行为。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国纯电动汽车销量即将超过汽油车]]></title>
-        <id>https://www.solidot.org/story?sid=85836</id>
-        <link href="https://www.solidot.org/story?sid=85836"/>
-        <updated>2026-11-09T09:57:37.000Z</updated>
-        <summary type="html"><![CDATA[根据英国汽车行业组织 SMMT 的数据，10 月纯电汽车销量占英国新车的份额达到了 32%，而汽油车份额则降至 37.2%。按此趋势，英国纯电动汽车的销量将在一年内超过汽油车，甚至最早今年 12 月就能实现。10 月英国新车注册量为 152,730 辆，同比增长 5.4%，这一增长完全由插电式车型（包括纯电动和插电混动）驱动：纯电动汽车注册量激增 32.7% 达到 48,858 辆；插电混动汽车增长 30.1% 达到 22,898 辆。汽油车注册量下降 11.6% 至 56,876 辆；柴油车下降 15.9%；传统混动汽车下滑 5%。英国增长最快的汽车品牌多来自中国。10 月比亚迪注册量 6,065 辆同比增长 73%；Jaecoo（奇瑞旗下品牌）注册量翻了一番多达到 6,089 辆；奇瑞注册量近乎翻了三倍达到 3,707 辆；零跑汽车注册量翻了一番达到 1,773 辆；名爵增幅也达到了 85%。按照趋势，保守预测电动汽车销量在 2027 年 8 月超过汽油车销量。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[双 11 大促！150+ 款正版软件低至 6 折，AdGuard、Typora、PixPin、思源笔记、Mole 等…]]></title>
-        <id>https://www.appinn.com/lizhi-261111/</id>
-        <link href="https://www.appinn.com/lizhi-261111/"/>
-        <updated>2026-11-09T09:16:11.000Z</updated>
-        <summary type="html"><![CDATA[一年一度的正版软件双 11 大促来了！今年的「双 11 软件狂欢节」共有超过 150 款商品参与，到手低至 6 折。 挑一些值得买的推荐给大家： AdGuard  AdGuard 是一款非常受欢迎的全平台去广告工具，它通过过滤规则，在 DNS 请求、网络连接和网页内容等层面识别并拦截广告及]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hookshot – 《塞尔达传说：时之笛》重制版已能在 PC 原生运行，无需模拟器]]></title>
-        <id>https://www.appinn.com/hookshot/</id>
-        <link href="https://www.appinn.com/hookshot/"/>
-        <updated>2026-11-09T08:52:41.000Z</updated>
-        <summary type="html"><![CDATA[继《塞尔达传说：王国之泪》之后，又一款塞尔达游戏可以在 Windows 电脑上原生运行了！ 这次是2026年11月5日刚刚发售的 Switch 2 重制版《塞尔达传说：时之笛》，已经可以在 PC 上原生运行了： Hookshot 这个叫 Hookshot 的开源项目，通过静态重编译技术，将 Swit]]></summary>
-        <author>
-            <name>青小蛙</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aaron Swartz 诞辰四十周年]]></title>
-        <id>https://www.solidot.org/story?sid=85835</id>
-        <link href="https://www.solidot.org/story?sid=85835"/>
-        <updated>2026-11-09T08:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Aaron Swartz 出生于 1986 年 11 月 8 日，上周日原本是他四十岁生日。2011 年他因为从 MIT 网络下载数百万篇 JSTOR 学术论文计划免费公开而遭到逮捕，检方指控他犯有计算机欺诈等罪名，面临最高数十年监禁。2013 年 1 月 11 日他自杀身亡，年仅 26 岁。虽然他已去世 14 年但他的遗产仍然活着。Swartz 与 John Gruber 合作开发了 Markdown，一种简化的纯文本格式系统，允许用户使用普通文本创建结构化文档，不需要私有软件。Markdown 于 2004 年推出，二十多年后成为了最流行的文档和出版格式之一，广泛应用于论坛和维基等社区网站。LLM 产品和开发工具也广泛使用 Markdown。Swartz 还开发了 web.py，协助开发了 RSS 1.0。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[脚本 Ram Altman 监视 PC 闲置内存然后发邮件给 Sam Altman]]></title>
-        <id>https://www.solidot.org/story?sid=85834</id>
-        <link href="https://www.solidot.org/story?sid=85834"/>
-        <updated>2026-11-09T07:32:15.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI CEO Sam Altman 因为一句 PC 内存浪费的评论而成为无数梗图的讽刺对象，他甚至为此自嘲，在社交媒体上将用户名改名为“Ram Altman”。现在开发者 Iain Kay 为 Linux 系统开发了一个 BASH 脚本 Ram Altman，旨在监测 PC 的闲置内存容量。闲置内存的百分比会被发送邮件给 Sam Altman。当然只是说说，具体取决于用户的设置。默认情况下脚本未预先配置电邮服务器。如果闲置内存超过了总内存的 10%，Ram Altman 会从预设讽刺邮件模板库随机选择一条发送出去。其中一则模板是：“Hi Sam。请别惊慌，我有 8.6 GiB 内存在 PC 上，.它们不在数据中心里。这占了我 PC 总内存的 56.2%，而且据我所知，它们今天也没什么别的安排。一位负责任囤积内存的用户。”]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果将工程师的每日 AI 预算限制在 200 美元]]></title>
-        <id>https://www.solidot.org/story?sid=85833</id>
-        <link href="https://www.solidot.org/story?sid=85833"/>
-        <updated>2026-11-09T06:40:12.000Z</updated>
-        <summary type="html"><![CDATA[世界市值最高的公司也开始对 AI 预算设限。苹果据报道将部分工程师的每日 AI 预算从 300 美元削减至 200 美元。苹果市值最近再次超过英伟达跃居第一。苹果此举并非是因为缺乏现金支持内部研发，而是因为在企业级规模下生成式 AI 存在着无法回避的经济规律。如果对先进模型的使用不加限制，成本曲线将呈指数级增长，这足以摧毁任何企业的利润空间，即便苹果也不例外。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asahi Linux 从 MIT 许可证切换到 GPL 许可证]]></title>
-        <id>https://www.solidot.org/story?sid=85832</id>
-        <link href="https://www.solidot.org/story?sid=85832"/>
-        <updated>2026-11-09T06:29:20.000Z</updated>
-        <summary type="html"><![CDATA[旨在将 Linux 移植到运行 Apple Silicon 芯片的 Mac 电脑的发行版项目 Asahi Linux 宣布从 MIT 许可证切换到 GPLv2 或以上版本的许可证。原因是有人将开发者分支尚在开发中的代码未注明出处发表，甚至利用 AI 重写代码以掩盖来源意图取代原项目和进行牟利。AI 出现前，代码洗白（Code laundering）通常涉及逐行手动重写代码、修改变量名，通过调整函数结构，使代码看起来与原版截然不同。LLM 的出现让这一过程变得更轻松、成本也更低。Asahi 团队此前已经注意到有人在利用宽松的 MIT 许可证劫持他们的工作成果。因此他们决定采用更严格的 GPL 许可证。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国讨论征收糖税]]></title>
-        <id>https://www.solidot.org/story?sid=85831</id>
-        <link href="https://www.solidot.org/story?sid=85831"/>
-        <updated>2026-11-09T04:03:16.000Z</updated>
-        <summary type="html"><![CDATA[随着肥胖与糖尿病风险上升，专家及媒体提议借当下消费税改革契机，对含糖饮料进行分级征税，促使民众减少糖分摄入。《健康时报》称，中国超重和肥胖者的比例已超 50%，精制糖摄入过量是重要诱因。文章指出，征收含糖税或许是大势所趋，并建议中国从审慎研究并有序试点开始，按含糖量设置阶梯税率，高糖高税、低糖轻税、无糖免税，并将税收定向用于校园健康饮食项目等。截至 2024 年 7 月，全球至少有 116 个国家对至少一种含糖饮料征收国家级消费税。世界卫生组织去年 7 月呼吁各国对含糖饮料征收至少达到零售价 20% 的税率，目标是到 2035 年将含糖饮料整体价格提高 50%。明年 3 月，中国新版预包装食品营养标签规定将生效，届时预包装食品的营养标签将须强制标示糖和饱和脂肪含量。]]></summary>
-        <author>
-            <name>奇客Solidot–传递最新科技情报</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发现频道：10款大家发现的好评软件[2026年第45期]]]></title>
-        <id>https://www.appinn.com/faxian-top10-2645/</id>
-        <link href="https://www.appinn.com/faxian-top10-2645/"/>
-        <updated>2026-11-09T01:00:34.000Z</updated>
-        <summary type="html"><![CDATA[最近10日，来自小众软件论坛的发现频道的热门排行榜，由系统自动生成，直接列出来： 1️⃣ SnowAir 链接：https://meta.appinn.net/t/95048 适用平台：Windows 一句话描述：Windows 上的截图工具很多，但大多要么体积不小、要么装一堆服务，要么把 OCR、]]></summary>
-        <author>
-            <name>青小蛙</name>
         </author>
     </entry>
     <entry>
